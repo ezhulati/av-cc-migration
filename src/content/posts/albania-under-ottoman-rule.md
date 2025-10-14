@@ -14,8 +14,6 @@ seo:
   robots: "index"
   metaTitle: "Ottoman Shadows: Albania Under the Crescent Moon (1478-1912)"
   metaDescription: "Explore the intricate relationship between Albania and the Ottoman Empire and how centuries of Ottoman rule have shaped Albania's national identity and culture."
-  focusKeyword: "Albania Ottoman Rule"
-  robots: "index"
 ---
 
 ## Ottoman Albania

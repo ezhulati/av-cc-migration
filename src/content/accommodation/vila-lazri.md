@@ -1,4 +1,76 @@
----\ntitle: "Vila Lazri"\ndescription: "Vila Lazri emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine shores of Shëngjin Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406979.jpg?k=53e2904335fd065e998429029508d70f088ea71855b9fdd3ecf8a3e578831a3c&o=&hp=1"\nlanguage: en\nslug: vila-lazri\naddress: "Shëngjin - Kune, 4503 Skataj, Albania"\ncity: "Skataj"\nlocation: "Skataj"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.80109054\n  lng: 19.60232109\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 92\nratings:\n  overall: 9.1\n  location: 9.2\n  cleanliness: 9\n  facilities: 8.3\n  value: 9.1\n  comfort: 8.7\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406979.jpg?k=53e2904335fd065e998429029508d70f088ea71855b9fdd3ecf8a3e578831a3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364655720.jpg?k=1d3949df85ab976aa4d02ae7114685d4a18ea7e0e1504baed1839e2526ab65d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406961.jpg?k=6d49962431321b060dbd47b7a9a8d958e9ef8aa1e287c9fca6b675179bc5bdf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457461326.jpg?k=035e9d9da4dbcd7b80228dfc9fe39d8a7f1023db1e8f4011a9a37885fc9c3a50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379549074.jpg?k=14cafb455f21033909f1b9d31d484c70e26d6ec74364b6ecfa595722c1ca3b83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406118.jpg?k=e658be6736b33656009ec9cc7bf5d202fdef5e3facf85e690aeb84d606bf0262&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406983.jpg?k=482d216ddfeb90a3e3a65ad23115ce9c5232104af461df9aa2c55ff35907e23b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364655669.jpg?k=0187da29792faa76177711e84609fe7e3ce1c11e537cbd3d56e7c66a6a412dc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406973.jpg?k=373d85c2302dce7686e8fdf6be420e71d15afaa0747b9243a5b794f7c1885331&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (48 Mbps)"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Perla M&N 100 m"\n  - "Soleil 350 m"\nnearbyBeaches:\n  - "Shëngjin Beach 150 m"\n  - "Ylberi Beach 200 m"\n  - "Rana e Hedhun Beach 3.5 km"\n  - "Laguna Park Beach 3.6 km"\n  - "Kune Beach 3.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Podgorica Airport 67 km"\nreviews:\n  - name: "Aurelien"\n    country: "France"\n    text: "“Located near the beach, nice balcony, great rooms with everything”"\n  - name: "Le"\n    country: "Netherlands"\n    text: "“I reserved a room for my parents. They were really pleased with their stay at vila Lazri as it is a very nice small hotel, modern and with all the main facilities needed. It is ideally situated for visiting not only the beach but also bars and...”"\n  - name: "Bojana"\n    country: "North Macedonia"\n    text: "“The owners were very polite and helpful. We arrived very early for check-in, and our room was not ready, so they offered us another room right away so we won't wait. The location is great, only a minute walk from the beach. It's not loud in the...”"\nbookingURL: "https://www.booking.com/hotel/al/vila-lazri.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Vila Lazri are treated to an array of amenities designed to enhance their stay. Each unit boasts air conditioning for those warm summer days, a seating area for relaxation, and a flat-screen TV with satellite channels for entertainment. The safety deposit box adds an extra layer of security, while the private bathroom, complete with a bidet, bathrobes, and complimentary toiletries, ensures a comfortable and worry-free stay. Perhaps most captivating are the balconies accompanying every unit, offering breathtaking mountain views that promise to enchant every guest.
+---
+title: "Vila Lazri"
+description: "Vila Lazri emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine shores of Shëngjin Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406979.jpg?k=53e2904335fd065e998429029508d70f088ea71855b9fdd3ecf8a3e578831a3c&o=&hp=1"
+language: en
+slug: vila-lazri
+address: "Shëngjin - Kune, 4503 Skataj, Albania"
+city: "Skataj"
+location: "Skataj"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.80109054
+  lng: 19.60232109
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 92
+ratings:
+  overall: 9.1
+  location: 9.2
+  cleanliness: 9
+  facilities: 8.3
+  value: 9.1
+  comfort: 8.7
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406979.jpg?k=53e2904335fd065e998429029508d70f088ea71855b9fdd3ecf8a3e578831a3c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364655720.jpg?k=1d3949df85ab976aa4d02ae7114685d4a18ea7e0e1504baed1839e2526ab65d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406961.jpg?k=6d49962431321b060dbd47b7a9a8d958e9ef8aa1e287c9fca6b675179bc5bdf7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457461326.jpg?k=035e9d9da4dbcd7b80228dfc9fe39d8a7f1023db1e8f4011a9a37885fc9c3a50&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379549074.jpg?k=14cafb455f21033909f1b9d31d484c70e26d6ec74364b6ecfa595722c1ca3b83&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406118.jpg?k=e658be6736b33656009ec9cc7bf5d202fdef5e3facf85e690aeb84d606bf0262&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406983.jpg?k=482d216ddfeb90a3e3a65ad23115ce9c5232104af461df9aa2c55ff35907e23b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364655669.jpg?k=0187da29792faa76177711e84609fe7e3ce1c11e537cbd3d56e7c66a6a412dc8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406973.jpg?k=373d85c2302dce7686e8fdf6be420e71d15afaa0747b9243a5b794f7c1885331&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Good free WiFi (48 Mbps)"
+  - "Family rooms"
+  - "Bar"
+nearbyRestaurants:
+  - "Perla M&N 100 m"
+  - "Soleil 350 m"
+nearbyBeaches:
+  - "Shëngjin Beach 150 m"
+  - "Ylberi Beach 200 m"
+  - "Rana e Hedhun Beach 3.5 km"
+  - "Laguna Park Beach 3.6 km"
+  - "Kune Beach 3.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 42 km"
+  - "Podgorica Airport 67 km"
+reviews:
+  - name: "Aurelien"
+    country: "France"
+    text: "“Located near the beach, nice balcony, great rooms with everything”"
+  - name: "Le"
+    country: "Netherlands"
+    text: "“I reserved a room for my parents. They were really pleased with their stay at vila Lazri as it is a very nice small hotel, modern and with all the main facilities needed. It is ideally situated for visiting not only the beach but also bars and...”"
+  - name: "Bojana"
+    country: "North Macedonia"
+    text: "“The owners were very polite and helpful. We arrived very early for check-in, and our room was not ready, so they offered us another room right away so we won't wait. The location is great, only a minute walk from the beach. It's not loud in the...”"
+bookingURL: "https://www.booking.com/hotel/al/vila-lazri.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests at Vila Lazri are treated to an array of amenities designed to enhance their stay. Each unit boasts air conditioning for those warm summer days, a seating area for relaxation, and a flat-screen TV with satellite channels for entertainment. The safety deposit box adds an extra layer of security, while the private bathroom, complete with a bidet, bathrobes, and complimentary toiletries, ensures a comfortable and worry-free stay. Perhaps most captivating are the balconies accompanying every unit, offering breathtaking mountain views that promise to enchant every guest.
 
 Beyond the comfort of the rooms, Vila Lazri offers shared spaces that cater to the needs and desires of its guests. The shared kitchen allows for the preparation of meals, fostering a sense of community among travelers. For those looking to unwind, the snack bar and bar serve as cozy spots for enjoying a drink and light fare. The guest house doesn't stop there; it also features a barbecue and a beautifully maintained garden, perfect for outdoor relaxation when the weather is agreeable.
 

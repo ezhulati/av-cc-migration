@@ -1,4 +1,87 @@
----\ntitle: "I love Tirana 2"\ndescription: "I Love Tirana 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356649.jpg?k=d05335093f995d2e3efb1eec7526cd7e5f6d7e065addbf7ce4d474117f25e951&o=&hp=1"\nlanguage: en\nslug: i-love-tirana-2\naddress: "15 Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3342749\n  lng: 19.8136748\nprice: "US$49"\npriceFrom: 49\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356649.jpg?k=d05335093f995d2e3efb1eec7526cd7e5f6d7e065addbf7ce4d474117f25e951&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356646.jpg?k=36dea99c8f59b9b4d0df4c5204a0fbccc544575ebe0889a1244c95d98c299bfb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356665.jpg?k=e2f03552fda45964ae98610bb1fec0cf0dfbbea718a22be07e2bf446e3814174&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356668.jpg?k=7a1f4ce5a10c07458a2be3c36957ba781ef2157efd03b1140ccc2f6a1418744c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356624.jpg?k=320432c5511d972ebc5554d2e27090abf4ba5859af209ccd433d47f878c047a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356677.jpg?k=4dad8d8d84fc9a1357638581ecb1f1474c789e87bc8817e223884a5899806dcc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356655.jpg?k=15460b76c91e83526a7dac0b3c941c605488b4c4c1acd39f4bbc5272f9b74d63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356681.jpg?k=aeddf3d7cca67d38c892119df960e0b2d8c4a644bfee056a60bfa8f73ea2295a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356653.jpg?k=49ce8a211a6839fffae801791f5fcecd634cd5bd9871d7ed57cee88fad25c349&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Private parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Tanners' Bridge 1.3 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.7 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Bon Appetit 50 m"\n  - "Bar Milano 50 m"\nwhatsNearby:\n  - "Amazing Nature 450 m"\n  - "Sheshi Rekreativ Mine Peza 500 m"\n  - "Sheshi Paris 550 m"\n  - "National Museum of History Albania 600 m"\n  - "Sheshi Rekreativ Don Bosko 650 m"\n  - "Sheshi Skënderbej 750 m"\n  - "Skanderbeg Square 850 m"\n  - "House of Leaves 850 m"\n  - "Parku Europa 900 m"\n  - "Clock Tower Tirana 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Eljor"\n    country: "Albania"\n    text: "“The location is fantastic, 5 minutes from the centre. But what’s better is that the host is very respectful, communicative and available for any question, or ‘problem’ that you might have. The place was clean and equipped with all the neccessary...”"\nbookingURL: "https://www.booking.com/hotel/al/i-love-tirana-2.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to thoughtful design and comfort, boasting a spacious layout that includes a bedroom, a living room, and a balcony that offers serene mountain views. Modern conveniences are at guests' fingertips, with a fully equipped kitchen featuring a dishwasher and an oven, a flat-screen TV for entertainment, and a bathroom equipped with a walk-in shower. The inclusion of air conditioning, a bidet, and a dressing room in the allergy-free and non-smoking unit ensures a comfortable stay for all guests.
+---
+title: "I love Tirana 2"
+description: "I Love Tirana 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356649.jpg?k=d05335093f995d2e3efb1eec7526cd7e5f6d7e065addbf7ce4d474117f25e951&o=&hp=1"
+language: en
+slug: i-love-tirana-2
+address: "15 Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3342749
+  lng: 19.8136748
+price: "US$49"
+priceFrom: 49
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356649.jpg?k=d05335093f995d2e3efb1eec7526cd7e5f6d7e065addbf7ce4d474117f25e951&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356646.jpg?k=36dea99c8f59b9b4d0df4c5204a0fbccc544575ebe0889a1244c95d98c299bfb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356665.jpg?k=e2f03552fda45964ae98610bb1fec0cf0dfbbea718a22be07e2bf446e3814174&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356668.jpg?k=7a1f4ce5a10c07458a2be3c36957ba781ef2157efd03b1140ccc2f6a1418744c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356624.jpg?k=320432c5511d972ebc5554d2e27090abf4ba5859af209ccd433d47f878c047a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356677.jpg?k=4dad8d8d84fc9a1357638581ecb1f1474c789e87bc8817e223884a5899806dcc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356655.jpg?k=15460b76c91e83526a7dac0b3c941c605488b4c4c1acd39f4bbc5272f9b74d63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356681.jpg?k=aeddf3d7cca67d38c892119df960e0b2d8c4a644bfee056a60bfa8f73ea2295a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356653.jpg?k=49ce8a211a6839fffae801791f5fcecd634cd5bd9871d7ed57cee88fad25c349&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Fitness centre"
+  - "Private parking"
+  - "Facilities for disabled guests"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Rinia Park 1.1 km"
+  - "Tanners' Bridge 1.3 km"
+  - "Former Residence of Enver Hoxha 1.5 km"
+  - "Grand Park of Tirana 2.7 km"
+  - "Bunk'Art 1 Museum 4.3 km"
+nearbyRestaurants:
+  - "Bon Appetit 50 m"
+  - "Bar Milano 50 m"
+whatsNearby:
+  - "Amazing Nature 450 m"
+  - "Sheshi Rekreativ Mine Peza 500 m"
+  - "Sheshi Paris 550 m"
+  - "National Museum of History Albania 600 m"
+  - "Sheshi Rekreativ Don Bosko 650 m"
+  - "Sheshi Skënderbej 750 m"
+  - "Skanderbeg Square 850 m"
+  - "House of Leaves 850 m"
+  - "Parku Europa 900 m"
+  - "Clock Tower Tirana 900 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Eljor"
+    country: "Albania"
+    text: "“The location is fantastic, 5 minutes from the centre. But what’s better is that the host is very respectful, communicative and available for any question, or ‘problem’ that you might have. The place was clean and equipped with all the neccessary...”"
+bookingURL: "https://www.booking.com/hotel/al/i-love-tirana-2.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The apartment itself is a testament to thoughtful design and comfort, boasting a spacious layout that includes a bedroom, a living room, and a balcony that offers serene mountain views. Modern conveniences are at guests' fingertips, with a fully equipped kitchen featuring a dishwasher and an oven, a flat-screen TV for entertainment, and a bathroom equipped with a walk-in shower. The inclusion of air conditioning, a bidet, and a dressing room in the allergy-free and non-smoking unit ensures a comfortable stay for all guests.
 
 Connectivity is never an issue, as free WiFi is accessible throughout the premises, and those arriving by car will appreciate the private parking available on site. The 24-hour front desk, lift access, and currency exchange services underscore the property's commitment to guest convenience and satisfaction.
 

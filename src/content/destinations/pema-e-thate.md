@@ -5,7 +5,6 @@ region: Beaches
 featuredImage: /images/destinations/pema-e-thate.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

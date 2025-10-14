@@ -1,3 +1,73 @@
----\ntitle: "Redi's Luxurious Beachfront Apartment"\ndescription: "Redi's Luxurious Beachfront Apartment stands as a prime choice for travelers seeking a serene getaway on the shores of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001188.jpg?k=ba6f1343c9c957bdd015409ebbffe8d3227c76f64ef4438a49511891e99e0597&o=&hp=1"\nlanguage: en\nslug: redi-s-luxurious-beachfront-apartment\naddress: "Rruga Agaveve, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30773624\n  lng: 19.48731867\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.9\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001188.jpg?k=ba6f1343c9c957bdd015409ebbffe8d3227c76f64ef4438a49511891e99e0597&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001206.jpg?k=54830ce380ee003029a7d1a6b1a045c465a173bab05efd7a1553318b5bb87d73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001242.jpg?k=c0c44cfa9d898a39d7d269631ad2792ca8f8195a8023078f3c278e56ac2b2abe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001212.jpg?k=6143369ece571641d9c8e08277b23aabcd2fb61097c00c52f307b8a8b3010ab8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001123.jpg?k=4a57bbd7cfd5bf6ddb634342f198684343b696fc2486eb7589b02e98aeecb8ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498143088.jpg?k=b267e39b3438fb6b6f3308a726de33faf27eaf343e36abbf861b42474368e796&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001200.jpg?k=d8902ae2e6fcfd77a18c9de3d9d07e1396561769e26fc547a9ebb52fe76f6aea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001229.jpg?k=9ea7d231c3dfd3c46b3114e32c276fca64cc1a0f9cee2f2b1f6df2b62ebf432c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498143471.jpg?k=3dd2aaf255e1f509829e124e135c40afffe499dfdd6c8d4225cf8f57391b95cd&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Bar Turisti 20 m"\n  - "Kb Kraja 50 m"\nnearbyBeaches:\n  - "Durres Beach 20 m"\n  - "Shkëmbi i Kavajës Beach 3 km"\n  - "Currila Beach 3.3 km"\n  - "Kallmi Beach 4.7 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.4 km"\n  - "Wine Dhe Pooh 3.3 km"\n  - "Sheshi Demokracia 3.4 km"\n  - "Yje Dhe Hena 3.5 km"\n  - "Durres Amphiteatre 3.6 km"\n  - "Sotir Noka 3.7 km"\n  - "1. Maj 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Hanane"\n    country: "Belgium"\n    text: "“Het onthaal was zeer vlot verlopen. We namen de taxi naar het appartement. De eigenaar had ons opgewacht waar de taxi ons had afgezet. De locatie is vlakbij het strand. Het is een publieke strand dus je kan er gewoon ligbedjes huren. Het...”"\nbookingURL: "https://www.booking.com/hotel/al/redis-beachfront-apartment-02.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and luxury, boasting a bedroom, a bathroom complete with bed linen and towels, and a living area that includes a flat-screen TV and a dining space. The kitchen is fully equipped, catering to all culinary needs, while the balcony presents breathtaking sea views, allowing guests to dine with a vista. Modern comforts haven't been overlooked, with air conditioning, a bidet, and a dressing room enhancing the stay. The commitment to guest privacy and comfort is evident in the soundproofing and private entrance.
+---
+title: "Redi's Luxurious Beachfront Apartment"
+description: "Redi's Luxurious Beachfront Apartment stands as a prime choice for travelers seeking a serene getaway on the shores of Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001188.jpg?k=ba6f1343c9c957bdd015409ebbffe8d3227c76f64ef4438a49511891e99e0597&o=&hp=1"
+language: en
+slug: redi-s-luxurious-beachfront-apartment
+address: "Rruga Agaveve, Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30773624
+  lng: 19.48731867
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 1
+ratings:
+  overall: 7.9
+  location: 7.5
+  cleanliness: 7.5
+  facilities: 7.5
+  value: 7.5
+  comfort: 7.5
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001188.jpg?k=ba6f1343c9c957bdd015409ebbffe8d3227c76f64ef4438a49511891e99e0597&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001206.jpg?k=54830ce380ee003029a7d1a6b1a045c465a173bab05efd7a1553318b5bb87d73&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001242.jpg?k=c0c44cfa9d898a39d7d269631ad2792ca8f8195a8023078f3c278e56ac2b2abe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001212.jpg?k=6143369ece571641d9c8e08277b23aabcd2fb61097c00c52f307b8a8b3010ab8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001123.jpg?k=4a57bbd7cfd5bf6ddb634342f198684343b696fc2486eb7589b02e98aeecb8ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498143088.jpg?k=b267e39b3438fb6b6f3308a726de33faf27eaf343e36abbf861b42474368e796&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001200.jpg?k=d8902ae2e6fcfd77a18c9de3d9d07e1396561769e26fc547a9ebb52fe76f6aea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486001229.jpg?k=9ea7d231c3dfd3c46b3114e32c276fca64cc1a0f9cee2f2b1f6df2b62ebf432c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498143471.jpg?k=3dd2aaf255e1f509829e124e135c40afffe499dfdd6c8d4225cf8f57391b95cd&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Bar Turisti 20 m"
+  - "Kb Kraja 50 m"
+nearbyBeaches:
+  - "Durres Beach 20 m"
+  - "Shkëmbi i Kavajës Beach 3 km"
+  - "Currila Beach 3.3 km"
+  - "Kallmi Beach 4.7 km"
+  - "Golem Beach 5 km"
+whatsNearby:
+  - "Bekimi 2.4 km"
+  - "Wine Dhe Pooh 3.3 km"
+  - "Sheshi Demokracia 3.4 km"
+  - "Yje Dhe Hena 3.5 km"
+  - "Durres Amphiteatre 3.6 km"
+  - "Sotir Noka 3.7 km"
+  - "1. Maj 3.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Hanane"
+    country: "Belgium"
+    text: "“Het onthaal was zeer vlot verlopen. We namen de taxi naar het appartement. De eigenaar had ons opgewacht waar de taxi ons had afgezet. De locatie is vlakbij het strand. Het is een publieke strand dus je kan er gewoon ligbedjes huren. Het...”"
+bookingURL: "https://www.booking.com/hotel/al/redis-beachfront-apartment-02.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of space and luxury, boasting a bedroom, a bathroom complete with bed linen and towels, and a living area that includes a flat-screen TV and a dining space. The kitchen is fully equipped, catering to all culinary needs, while the balcony presents breathtaking sea views, allowing guests to dine with a vista. Modern comforts haven't been overlooked, with air conditioning, a bidet, and a dressing room enhancing the stay. The commitment to guest privacy and comfort is evident in the soundproofing and private entrance.
 
 For those keen to explore, the Rock of Kavaje is just 6.4 km away, offering a slice of local history and culture. Meanwhile, the Former Residence of Enver Hoxha is within a manageable distance of 39 km, providing a fascinating excursion for history enthusiasts. Conveniently, Tirana International Mother Teresa Airport is the nearest airport, located 33 km from the apartment, making Redi's Luxurious Beachfront Apartment an accessible and enticing option for both domestic and international travelers.

@@ -1,4 +1,74 @@
----\ntitle: "May Apartments"\ndescription: "May Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, located merely a stone's throw away from Sarande Main Beach and a short stroll from Saranda City Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387986678.jpg?k=2356e575f7728cec808da41cc66b965d63a8cc98d303dee1b8a31ac6613b1391&o=&hp=1"\nlanguage: en\nslug: may-apartments\naddress: "8 Rruga Mitro Xhani, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87228831\n  lng: 20.00136135\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 9.6\n  facilities: 8.9\n  value: 10\n  comfort: 10\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387986678.jpg?k=2356e575f7728cec808da41cc66b965d63a8cc98d303dee1b8a31ac6613b1391&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388870456.jpg?k=9a201ef0024ab79950718c832df25a5eab7f5134f66c905087c3f427525a5007&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388872515.jpg?k=aca97bc89f617833f49272221ea628b68f7da794fdf4469b0d39b1bfca727344&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871943.jpg?k=82230de56088c27db5333a57d03e895aa4d0b70ef2f07fe235b86d383dfc9733&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871503.jpg?k=50784b0ed9c8f3b7659693073171054af4aae83f9e5617b05c257681103bd698&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387986724.jpg?k=c8bd12694dfc854c81f236d20231969237091991341f87bfcfad77d0b5678b66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388872436.jpg?k=d258d0c044f3c5b2fa81c42a0e9e0b775bdf0e187f7a5b709e2675f534931050&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871995.jpg?k=deaff1f741f835c4820139174e75a0fcbaa4dca203eb7ffa1c7223af48dce6f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871788.jpg?k=dd0e78b6829a709e620433d87aecce11aaac0705d2d22ea6b50370a7d342c122&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Taverna Fish Filipi 50 m"\n  - "Taverna Rrapo 100 m"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Emelie"\n    country: "Sweden"\n    text: "“Stort plus för att det var nära till strandpromenaden och hamnen där färjeterminalen finns. Det var skönt att ha en egen liten uteplats där man kunde sitta hyfsat avskilt. I övrigt var det en mycket bra lägenhet med stort kök och rymliga ytor....”"\n  - name: "Marischa"\n    country: "Netherlands"\n    text: "“De accommodatie is op loopafstand van de boulevard. De host is super vriendelijk en reageert super snel!”"\n  - name: "Serhii"\n    country: "Lithuania"\n    text: "“Всё било отлично персонал вежливый к морю 300 метров”"\nbookingURL: "https://www.booking.com/hotel/al/may-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe highlight of May Apartments is its generously sized accommodation, which boasts a sun-drenched terrace, two cozy bedrooms, and a spacious living area. The kitchen doesn't disappoint either, being fully equipped with an oven and a fridge to cater to guests' culinary needs. For added comfort, fresh towels and bed linen are thoughtfully provided in the apartment, ensuring a home-away-from-home experience.
+---
+title: "May Apartments"
+description: "May Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, located merely a stone's throw away from Sarande Main Beach and a short stroll from Saranda City Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387986678.jpg?k=2356e575f7728cec808da41cc66b965d63a8cc98d303dee1b8a31ac6613b1391&o=&hp=1"
+language: en
+slug: may-apartments
+address: "8 Rruga Mitro Xhani, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87228831
+  lng: 20.00136135
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 9
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 9.6
+  facilities: 8.9
+  value: 10
+  comfort: 10
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387986678.jpg?k=2356e575f7728cec808da41cc66b965d63a8cc98d303dee1b8a31ac6613b1391&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388870456.jpg?k=9a201ef0024ab79950718c832df25a5eab7f5134f66c905087c3f427525a5007&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388872515.jpg?k=aca97bc89f617833f49272221ea628b68f7da794fdf4469b0d39b1bfca727344&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871943.jpg?k=82230de56088c27db5333a57d03e895aa4d0b70ef2f07fe235b86d383dfc9733&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871503.jpg?k=50784b0ed9c8f3b7659693073171054af4aae83f9e5617b05c257681103bd698&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387986724.jpg?k=c8bd12694dfc854c81f236d20231969237091991341f87bfcfad77d0b5678b66&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388872436.jpg?k=d258d0c044f3c5b2fa81c42a0e9e0b775bdf0e187f7a5b709e2675f534931050&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871995.jpg?k=deaff1f741f835c4820139174e75a0fcbaa4dca203eb7ffa1c7223af48dce6f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388871788.jpg?k=dd0e78b6829a709e620433d87aecce11aaac0705d2d22ea6b50370a7d342c122&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Beachfront"
+  - "Terrace"
+nearbyRestaurants:
+  - "Taverna Fish Filipi 50 m"
+  - "Taverna Rrapo 100 m"
+whatsNearby:
+  - "Parc National de Butrint 2.5 km"
+  - "Butrint National Park 3.2 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Emelie"
+    country: "Sweden"
+    text: "“Stort plus för att det var nära till strandpromenaden och hamnen där färjeterminalen finns. Det var skönt att ha en egen liten uteplats där man kunde sitta hyfsat avskilt. I övrigt var det en mycket bra lägenhet med stort kök och rymliga ytor....”"
+  - name: "Marischa"
+    country: "Netherlands"
+    text: "“De accommodatie is op loopafstand van de boulevard. De host is super vriendelijk en reageert super snel!”"
+  - name: "Serhii"
+    country: "Lithuania"
+    text: "“Всё било отлично персонал вежливый к морю 300 метров”"
+bookingURL: "https://www.booking.com/hotel/al/may-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The highlight of May Apartments is its generously sized accommodation, which boasts a sun-drenched terrace, two cozy bedrooms, and a spacious living area. The kitchen doesn't disappoint either, being fully equipped with an oven and a fridge to cater to guests' culinary needs. For added comfort, fresh towels and bed linen are thoughtfully provided in the apartment, ensuring a home-away-from-home experience.
 
 Situated just 1.6 km from the tranquil La Petite Beach and a brief 1.7 km journey from the picturesque Maestral Beach, the location of May Apartments offers an ideal base for beach enthusiasts. Moreover, the proximity to Butrint National Park, 17 km away, presents a perfect opportunity for guests to explore the rich history and natural beauty of the area. For those traveling from afar, Ioannina Airport is located 97 km away, making May Apartments an accessible getaway for both local and international visitors.
 

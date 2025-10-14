@@ -1,4 +1,73 @@
----\ntitle: "Port View Apartment 2"\ndescription: "Port View Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092536.jpg?k=88e4e6697094387935f8e0cac6eb8d87623d7b805b32d203a9f7c145a7475696&o=&hp=1"\nlanguage: en\nslug: port-view-apartment-2\naddress: "Rruga Iljaz Reka, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31706285\n  lng: 19.45474115\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092536.jpg?k=88e4e6697094387935f8e0cac6eb8d87623d7b805b32d203a9f7c145a7475696&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092535.jpg?k=68c35014b4fe3f92b899b639d45a04c5e7542cd5bd0049c52d35da474c4ff704&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092570.jpg?k=3cf0ac1c73aacd8c04ac884d22f7b71cd33a04f8b61ede718056b6a1f2dec281&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092546.jpg?k=61c84d58476d059e818bd938fed489dd9a4a7349036d11e5c08326b7544d02f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092563.jpg?k=500484e3cc0be6ecfc174bc2ae4b917f56ac74eaa1eb08122af0251f6e0f2ad2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092561.jpg?k=f3d287418b64fa0795da563d40e116b600609f29dbbb3d4bbff74da02d0237ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526093909.jpg?k=94a7379ab6296f2208d6f8332e601e8961e1ffc4d73759db928d5dbcfe513ca6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092575.jpg?k=360181caf4c3303e858872e161c52cbd92da6cfdd61b8f82adbf8921cf13713a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526067591.jpg?k=0b3b7e21622959c6a1050a156ca21750b1f5ae8b1284b2377ce83caacdda4b82&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tedis Bar 50 m"\n  - "Te Befte Mire te Selma 150 m"\nnearbyBeaches:\n  - "Durres Beach 1.1 km"\n  - "Currila Beach 1.2 km"\n  - "Kallmi Beach 1.9 km"\n  - "West End Beach 2.8 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Sheshi Demokracia 500 m"\n  - "Wine Dhe Pooh 500 m"\n  - "Yje Dhe Hena 600 m"\n  - "Sotir Noka 800 m"\n  - "Durres Amphiteatre 950 m"\n  - "1. Maj 1.2 km"\n  - "Bekimi 2.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/port-view-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically positioned, the apartment is a mere stone's throw away from significant landmarks, including the Dajti Ekspres Cable Car, the historic Rock of Kavaje, and the intriguing Former Residence of Enver Hoxha, all within a 42 km radius. Moreover, the heart of the city, Skanderbeg Square, is easily accessible, located 38 km from the property, ensuring guests are never far from the vibrant pulse of the city.
+---
+title: "Port View Apartment 2"
+description: "Port View Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092536.jpg?k=88e4e6697094387935f8e0cac6eb8d87623d7b805b32d203a9f7c145a7475696&o=&hp=1"
+language: en
+slug: port-view-apartment-2
+address: "Rruga Iljaz Reka, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31706285
+  lng: 19.45474115
+price: "US$43"
+priceFrom: 43
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092536.jpg?k=88e4e6697094387935f8e0cac6eb8d87623d7b805b32d203a9f7c145a7475696&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092535.jpg?k=68c35014b4fe3f92b899b639d45a04c5e7542cd5bd0049c52d35da474c4ff704&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092570.jpg?k=3cf0ac1c73aacd8c04ac884d22f7b71cd33a04f8b61ede718056b6a1f2dec281&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092546.jpg?k=61c84d58476d059e818bd938fed489dd9a4a7349036d11e5c08326b7544d02f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092563.jpg?k=500484e3cc0be6ecfc174bc2ae4b917f56ac74eaa1eb08122af0251f6e0f2ad2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092561.jpg?k=f3d287418b64fa0795da563d40e116b600609f29dbbb3d4bbff74da02d0237ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526093909.jpg?k=94a7379ab6296f2208d6f8332e601e8961e1ffc4d73759db928d5dbcfe513ca6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526092575.jpg?k=360181caf4c3303e858872e161c52cbd92da6cfdd61b8f82adbf8921cf13713a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526067591.jpg?k=0b3b7e21622959c6a1050a156ca21750b1f5ae8b1284b2377ce83caacdda4b82&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Tedis Bar 50 m"
+  - "Te Befte Mire te Selma 150 m"
+nearbyBeaches:
+  - "Durres Beach 1.1 km"
+  - "Currila Beach 1.2 km"
+  - "Kallmi Beach 1.9 km"
+  - "West End Beach 2.8 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "Sheshi Demokracia 500 m"
+  - "Wine Dhe Pooh 500 m"
+  - "Yje Dhe Hena 600 m"
+  - "Sotir Noka 800 m"
+  - "Durres Amphiteatre 950 m"
+  - "1. Maj 1.2 km"
+  - "Bekimi 2.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 24 km"
+bookingURL: "https://www.booking.com/hotel/al/port-view-apartment-2.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Strategically positioned, the apartment is a mere stone's throw away from significant landmarks, including the Dajti Ekspres Cable Car, the historic Rock of Kavaje, and the intriguing Former Residence of Enver Hoxha, all within a 42 km radius. Moreover, the heart of the city, Skanderbeg Square, is easily accessible, located 38 km from the property, ensuring guests are never far from the vibrant pulse of the city.
 
 The accommodation itself boasts a well-appointed layout, featuring a bedroom designed for relaxation, a fully equipped kitchen for those who love to cook, and a bathroom that caters to all your needs. Entertainment is readily available with a flat-screen TV, ensuring guests have all the comforts of home at their fingertips.
 

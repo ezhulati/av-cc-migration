@@ -5,7 +5,6 @@ region: Southern Albania
 featuredImage: /images/destinations/lin.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

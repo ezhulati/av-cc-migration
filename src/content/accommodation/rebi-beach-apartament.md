@@ -1,6 +1,85 @@
----\ntitle: "Rebi Beach Apartament"\ndescription: "Rebi Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the stunning shores of Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893534.jpg?k=a8337c1711fbe1d414b290439d1e4c7b9ed44b1f64de90fe5d2f45d6dc511255&o=&hp=1"\nlanguage: en\nslug: rebi-beach-apartament\naddress: "Rruga Bulevardi i Pishave, Kullat Binjake nr 7 Golem Kavaje, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23973034\n  lng: 19.5178197\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 13\nratings:\n  overall: 9.7\n  location: 10\n  cleanliness: 9.4\n  facilities: 9.6\n  value: 9.4\n  comfort: 9.4\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893534.jpg?k=a8337c1711fbe1d414b290439d1e4c7b9ed44b1f64de90fe5d2f45d6dc511255&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893477.jpg?k=dbd6f104a299cf9e55bec8276ec65eede3d8164938b2a9a2feeb77118d5c74c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893371.jpg?k=0eca73213805606217be9c5f9dddeb6d7a3249d035c1cfa28dd455c911370ca1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893517.jpg?k=012609012dfbd6b30752402bdf1db169961a90a26392be920e7ec5aff6c63332&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893376.jpg?k=f3017d5a9be8117b341ac1cd24eeb5af3193e9d278c39a4e079e68feacdf9d23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893430.jpg?k=1f4f24794e4019c0e780ca4e1d64e34a9d3e79c080728533e2e02d85d333947a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893456.jpg?k=6546591b5e7ae527abf3aa6341393cbe49824736e83600a3b8ad63d368eac2c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893489.jpg?k=0698f42388f7ff771eeb69859f1368e03e582fa29edba3f8cf7351874cb080b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893424.jpg?k=93df549815f8ada02b4e3714aa0eb89388144d04d44e9a1168855ae4528119bc&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Beer House Golem 50 m"\n  - "El Sabor Restauran 100 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 100 m"\n  - "Golem Beach 900 m"\n  - "Qerret Beach 1.1 km"\n  - "Shkëmbi i Kavajës Beach 2.8 km"\n  - "Durres Beach 5 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Bekimi 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nreviews:\n  - name: "Ermal"\n    country: "Albania"\n    text: "“Enjoyed very much staying at Rebi Beach Apartments. Very clean, quiet, great location close to the beach and all amenities. Highly recommend!”"\n  - name: "Ilosvai"\n    country: "Hungary"\n    text: "“Good, clean, quite place, good price, friendly owner. Thank you everything”"\n  - name: "Vitjola"\n    country: "Italy"\n    text: "“Everything was perfect in order and well cleaned.
+---
+title: "Rebi Beach Apartament"
+description: "Rebi Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the stunning shores of Golem."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893534.jpg?k=a8337c1711fbe1d414b290439d1e4c7b9ed44b1f64de90fe5d2f45d6dc511255&o=&hp=1"
+language: en
+slug: rebi-beach-apartament
+address: "Rruga Bulevardi i Pishave, Kullat Binjake nr 7 Golem Kavaje, Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.23973034
+  lng: 19.5178197
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 13
+ratings:
+  overall: 9.7
+  location: 10
+  cleanliness: 9.4
+  facilities: 9.6
+  value: 9.4
+  comfort: 9.4
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893534.jpg?k=a8337c1711fbe1d414b290439d1e4c7b9ed44b1f64de90fe5d2f45d6dc511255&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893477.jpg?k=dbd6f104a299cf9e55bec8276ec65eede3d8164938b2a9a2feeb77118d5c74c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893371.jpg?k=0eca73213805606217be9c5f9dddeb6d7a3249d035c1cfa28dd455c911370ca1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893517.jpg?k=012609012dfbd6b30752402bdf1db169961a90a26392be920e7ec5aff6c63332&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893376.jpg?k=f3017d5a9be8117b341ac1cd24eeb5af3193e9d278c39a4e079e68feacdf9d23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893430.jpg?k=1f4f24794e4019c0e780ca4e1d64e34a9d3e79c080728533e2e02d85d333947a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893456.jpg?k=6546591b5e7ae527abf3aa6341393cbe49824736e83600a3b8ad63d368eac2c4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893489.jpg?k=0698f42388f7ff771eeb69859f1368e03e582fa29edba3f8cf7351874cb080b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893424.jpg?k=93df549815f8ada02b4e3714aa0eb89388144d04d44e9a1168855ae4528119bc&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Beer House Golem 50 m"
+  - "El Sabor Restauran 100 m"
+nearbyBeaches:
+  - "Mali I Robit Beach 100 m"
+  - "Golem Beach 900 m"
+  - "Qerret Beach 1.1 km"
+  - "Shkëmbi i Kavajës Beach 2.8 km"
+  - "Durres Beach 5 km"
+whatsNearby:
+  - "Durres Amphiteatre 10 km"
+  - "1. Maj 10 km"
+  - "Wine Dhe Pooh 10 km"
+  - "Yje Dhe Hena 10 km"
+  - "Bekimi 10 km"
+  - "Sheshi Demokracia 10 km"
+  - "Sotir Noka 11 km"
+airports:
+  - "Tirana International Airport Mother Teresa 24 km"
+reviews:
+  - name: "Ermal"
+    country: "Albania"
+    text: "“Enjoyed very much staying at Rebi Beach Apartments. Very clean, quiet, great location close to the beach and all amenities. Highly recommend!”"
+  - name: "Ilosvai"
+    country: "Hungary"
+    text: "“Good, clean, quite place, good price, friendly owner. Thank you everything”"
+  - name: "Vitjola"
+    country: "Italy"
+    text: "“Everything was perfect in order and well cleaned.
 Owner very kind and ready to ask for it.
-The place is worth the price paid.”"\nbookingURL: "https://www.booking.com/hotel/al/durres-golem-beach-rebi-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a beachfront haven that doesn't just promise but delivers with its array of amenities including complimentary WiFi and the luxury of private parking at no extra cost. The commitment to a smoke-free environment further enhances the appeal for those in pursuit of a clean, fresh stay.
+The place is worth the price paid.”"
+bookingURL: "https://www.booking.com/hotel/al/durres-golem-beach-rebi-apartament.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to a beachfront haven that doesn't just promise but delivers with its array of amenities including complimentary WiFi and the luxury of private parking at no extra cost. The commitment to a smoke-free environment further enhances the appeal for those in pursuit of a clean, fresh stay.
 
 The apartment itself is a spacious retreat, boasting a balcony that offers a serene garden view, a cozy bedroom for restful nights, a welcoming living room for relaxation, and a well-equipped kitchen for those moments when dining in feels just right. Entertainment is readily available with a flat-screen TV, ensuring that guests have everything they need at their fingertips.
 

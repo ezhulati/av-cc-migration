@@ -1,4 +1,67 @@
----\ntitle: "Hotel BAAA 3"\ndescription: "Hotel BAAA 3 emerges as a serene oasis in the vibrant heart of Sarandë, boasting a prime location that places guests mere steps away from the city's most pristine beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515641937.jpg?k=a7eb5dfba494272e16ccf2ed894a6344bb238bb35e7449458b5a854ec2cffc3a&o=&hp=1"\nlanguage: en\nslug: hotel-baaa-3\naddress: "Rruga Onhezmi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87551407\n  lng: 20.00802947\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515641937.jpg?k=a7eb5dfba494272e16ccf2ed894a6344bb238bb35e7449458b5a854ec2cffc3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/471500923.jpg?k=edb317b15c872fb7cc832110dcaf9dbda197a60b102b6d2d76bfcf1918c4e042&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641817.jpg?k=4032410bc6e32a5706bf4c984023ccff190c16afade8b044b6b2fd99b350a6fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641732.jpg?k=8fadc2eb7575f4c190736abc28a145e2efb07b8ce546b56c9bb0f6d7184ead63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641673.jpg?k=bdf5857b84b069b44ac464bbeb12c0523d4543415b674937f2bcc9d9aa70f322&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641655.jpg?k=dab18ad9581e2cbf8baddfd44bcb2af7996a122678d0f1ff871aea4314ad17c0&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Zum Cafe 40 m"\n  - "Herman - the Iconic Slice From Milan 50 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "Sarande Main Beach 850 m"\n  - "La Petite Beach 950 m"\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-baaa-3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and fresh setting for all guests. The inclusion of a lush garden and an inviting terrace further enhances the appeal, creating an idyllic backdrop for relaxation or leisurely mornings spent savoring the coastal ambiance.
+---
+title: "Hotel BAAA 3"
+description: "Hotel BAAA 3 emerges as a serene oasis in the vibrant heart of Sarandë, boasting a prime location that places guests mere steps away from the city's most pristine beaches."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515641937.jpg?k=a7eb5dfba494272e16ccf2ed894a6344bb238bb35e7449458b5a854ec2cffc3a&o=&hp=1"
+language: en
+slug: hotel-baaa-3
+address: "Rruga Onhezmi, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87551407
+  lng: 20.00802947
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515641937.jpg?k=a7eb5dfba494272e16ccf2ed894a6344bb238bb35e7449458b5a854ec2cffc3a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/471500923.jpg?k=edb317b15c872fb7cc832110dcaf9dbda197a60b102b6d2d76bfcf1918c4e042&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641817.jpg?k=4032410bc6e32a5706bf4c984023ccff190c16afade8b044b6b2fd99b350a6fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641732.jpg?k=8fadc2eb7575f4c190736abc28a145e2efb07b8ce546b56c9bb0f6d7184ead63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641673.jpg?k=bdf5857b84b069b44ac464bbeb12c0523d4543415b674937f2bcc9d9aa70f322&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515641655.jpg?k=dab18ad9581e2cbf8baddfd44bcb2af7996a122678d0f1ff871aea4314ad17c0&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Beachfront"
+  - "Terrace"
+nearbyRestaurants:
+  - "Zum Cafe 40 m"
+  - "Herman - the Iconic Slice From Milan 50 m"
+nearbyBeaches:
+  - "Saranda City Beach 250 m"
+  - "Sarande Main Beach 850 m"
+  - "La Petite Beach 950 m"
+  - "Maestral Beach 1.1 km"
+  - "VIP Beach 2.1 km"
+whatsNearby:
+  - "Parc National de Butrint 2.3 km"
+  - "Butrint National Park 3.2 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+bookingURL: "https://www.booking.com/hotel/al/apartament-baaa-3.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and fresh setting for all guests. The inclusion of a lush garden and an inviting terrace further enhances the appeal, creating an idyllic backdrop for relaxation or leisurely mornings spent savoring the coastal ambiance.
 
 Accommodations at Hotel BAAA 3 are thoughtfully designed with guest comfort in mind. The apartment features a spacious bedroom, equipped with a flat-screen TV and air conditioning for a restful retreat after a day of exploration. The convenience of complimentary WiFi allows guests to stay connected, whether for sharing moments with loved ones or planning the next day's adventures. Additionally, the provision of towels and bed linen underscores the property's attention to detail and commitment to ensuring a hassle-free stay.
 

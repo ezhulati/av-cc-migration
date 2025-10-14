@@ -1,5 +1,77 @@
----\ntitle: "Qeparo Pano Rooms"\ndescription: "Qeparo Pano Rooms emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Vlorë County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251154487.jpg?k=589ddbd3e58a8b7c5bb8f148e71ecd1ab159601ef2e2e82ae918deeeed5bdaa9&o=&hp=1"\nlanguage: en\nslug: qeparo-pano-rooms\naddress: "Qeparo Protopapa, 8407 Qeparo, Albania"\ncity: "Qeparo"\nlocation: "Qeparo"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.0527502\n  lng: 19.83047462\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 413\nratings:\n  overall: 9.2\n  location: 9.4\n  cleanliness: 9.7\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.5\n  staff: 9.9\n  wifi: 7.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251154487.jpg?k=589ddbd3e58a8b7c5bb8f148e71ecd1ab159601ef2e2e82ae918deeeed5bdaa9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378630751.jpg?k=8bb8cf2b0fe5aabcb78cdf2bb9817875f9145044dd9cd595b91eda7dec8c6ed0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378653184.jpg?k=6f4f56268c5a70193ff159e9bf2d81453adaf8bd1100f5443e7052c531886039&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371163704.jpg?k=a932ce9867a160fecbad7759ec53e6509805149b6c1152c2f14a870a6a0433e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151268371.jpg?k=59b269099197d9725ccfe9b0b036487206a8160588e41742753b92c9b53d7bed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113289891.jpg?k=62c6ec73274adc583819bd506db46068d481b6c67173043306fadd00f6a7415a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378630448.jpg?k=74d20bfd1fe20a88b72f1bcca92656affa50030f8c523398b9bd8a4f19ff69c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151268088.jpg?k=011f756a0e90881b692fd5ae9f876c01400bbbf02b436bdc6e1edd851e41e559&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408733480.jpg?k=10edf32fa28d98e1fed45bca5f02f022b778eb543c4e1e44dd08950a028df246&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Te Stefi 50 m"\n  - "Odhisea 200 m"\nnearbyBeaches:\n  - "Qeparo Beach 100 m"\n  - "Borsh Beach 500 m"\n  - "Porto Palermo Beach 3 2.3 km"\n  - "Porto Palermo Beach 2.4 km"\n  - "Palermo Beach 3.3 km"\nairports:\n  - "Corfu International Airport 49 km"\n  - "Ioannina Airport 92 km"\nreviews:\n  - name: "Jankowska"\n    country: "Poland"\n    text: "“Great location, just a few steps from the sea, with beds and umbrellas. The place was really nice, with an extraordinary view. I would give an extra point for a well organized and very practical place. There was everything you needed. The very...”"\n  - name: "Emma"\n    country: "United Kingdom"\n    text: "“Excellent communication throughout. Lovely welcome and convenient parking. Really friendly owners, offered a lovely coffee in the morning. Excellent value for money!”"\n  - name: "Floriana"\n    country: "Netherlands"\n    text: "“Great hosts! They welcomed us and one day we got traditional breakfast \"petulla\" made for us and they brought it to our room. I found this such a sweet gesture.
-The room has a great view from the balcony, one can enjoy the sunrise and sunset from...”"\nbookingURL: "https://www.booking.com/hotel/al/queparo-pano-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a tranquil garden setting where each accommodation unit is a testament to thoughtful hospitality. With air-conditioned rooms that open up to breathtaking sea views from private balconies, the experience is nothing short of mesmerizing. The interiors boast flat-screen TVs, well-equipped kitchens, and private bathrooms complete with showers and hair dryers, ensuring a stay that combines home comfort with luxury.
+---
+title: "Qeparo Pano Rooms"
+description: "Qeparo Pano Rooms emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Vlorë County."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251154487.jpg?k=589ddbd3e58a8b7c5bb8f148e71ecd1ab159601ef2e2e82ae918deeeed5bdaa9&o=&hp=1"
+language: en
+slug: qeparo-pano-rooms
+address: "Qeparo Protopapa, 8407 Qeparo, Albania"
+city: "Qeparo"
+location: "Qeparo"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.0527502
+  lng: 19.83047462
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 413
+ratings:
+  overall: 9.2
+  location: 9.4
+  cleanliness: 9.7
+  facilities: 9.3
+  value: 9.5
+  comfort: 9.5
+  staff: 9.9
+  wifi: 7.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251154487.jpg?k=589ddbd3e58a8b7c5bb8f148e71ecd1ab159601ef2e2e82ae918deeeed5bdaa9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378630751.jpg?k=8bb8cf2b0fe5aabcb78cdf2bb9817875f9145044dd9cd595b91eda7dec8c6ed0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378653184.jpg?k=6f4f56268c5a70193ff159e9bf2d81453adaf8bd1100f5443e7052c531886039&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371163704.jpg?k=a932ce9867a160fecbad7759ec53e6509805149b6c1152c2f14a870a6a0433e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151268371.jpg?k=59b269099197d9725ccfe9b0b036487206a8160588e41742753b92c9b53d7bed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113289891.jpg?k=62c6ec73274adc583819bd506db46068d481b6c67173043306fadd00f6a7415a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378630448.jpg?k=74d20bfd1fe20a88b72f1bcca92656affa50030f8c523398b9bd8a4f19ff69c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151268088.jpg?k=011f756a0e90881b692fd5ae9f876c01400bbbf02b436bdc6e1edd851e41e559&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408733480.jpg?k=10edf32fa28d98e1fed45bca5f02f022b778eb543c4e1e44dd08950a028df246&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Te Stefi 50 m"
+  - "Odhisea 200 m"
+nearbyBeaches:
+  - "Qeparo Beach 100 m"
+  - "Borsh Beach 500 m"
+  - "Porto Palermo Beach 3 2.3 km"
+  - "Porto Palermo Beach 2.4 km"
+  - "Palermo Beach 3.3 km"
+airports:
+  - "Corfu International Airport 49 km"
+  - "Ioannina Airport 92 km"
+reviews:
+  - name: "Jankowska"
+    country: "Poland"
+    text: "“Great location, just a few steps from the sea, with beds and umbrellas. The place was really nice, with an extraordinary view. I would give an extra point for a well organized and very practical place. There was everything you needed. The very...”"
+  - name: "Emma"
+    country: "United Kingdom"
+    text: "“Excellent communication throughout. Lovely welcome and convenient parking. Really friendly owners, offered a lovely coffee in the morning. Excellent value for money!”"
+  - name: "Floriana"
+    country: "Netherlands"
+    text: "“Great hosts! They welcomed us and one day we got traditional breakfast \"petulla\" made for us and they brought it to our room. I found this such a sweet gesture.
+The room has a great view from the balcony, one can enjoy the sunrise and sunset from...”"
+bookingURL: "https://www.booking.com/hotel/al/queparo-pano-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to a tranquil garden setting where each accommodation unit is a testament to thoughtful hospitality. With air-conditioned rooms that open up to breathtaking sea views from private balconies, the experience is nothing short of mesmerizing. The interiors boast flat-screen TVs, well-equipped kitchens, and private bathrooms complete with showers and hair dryers, ensuring a stay that combines home comfort with luxury.
 
 For those who prioritize convenience, complimentary private parking and free WiFi are available, making it easy to stay connected and explore the surroundings without hassle. The attention to detail extends to the provision of kettles in every unit, while select rooms elevate the experience further with expansive terraces and serene garden views. The provision of bed linen and towels in all units underscores the complex's commitment to guest comfort.
 

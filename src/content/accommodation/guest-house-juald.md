@@ -1,4 +1,73 @@
----\ntitle: "Guest House Juald"\ndescription: "Guest House Juald emerges as a serene retreat offering breathtaking mountain views, located approximately 45 km from the enchanting Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484521426.jpg?k=28a243056cfa07e262d091370075ab949a9dd60c5c911a14dc6de60c70102a08&o=&hp=1"\nlanguage: en\nslug: guest-house-juald\naddress: "Rruga Pertef Kokona, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07707461\n  lng: 20.13186909\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 329\nratings:\n  overall: 9.8\n  location: 9.5\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.9\n  comfort: 9.7\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484521426.jpg?k=28a243056cfa07e262d091370075ab949a9dd60c5c911a14dc6de60c70102a08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484759017.jpg?k=9e7a43930a93f7862af6a91750dd659c28c7da2a9d9464f46016bcc62cd2511f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484520999.jpg?k=46d3efb15f20fdf6d14f9efdea32af2b4f2347fede03a8a852a3939d5b175bc1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357309469.jpg?k=16934290d0bf05a9726927266e2c5f80952d688f2287b528d9c8932fc4fe91b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368829798.jpg?k=08030f61626915dc739ef436e80e50109f465ca988a9e9f90b94a0f8fed2952c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484519849.jpg?k=1493023381a0690254f39f0e7bd92892c122f241505ad958e3597baa896fa758&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484521167.jpg?k=6e32105bb3c7da76cfec2d07c63059102ef04d2b123a8f03b767c3b3dfd2208e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383407146.jpg?k=7b100345f7401157b35018872f26dab5461a68ef15caada5d576aef634ee423b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362579235.jpg?k=e91774ff5ac8ada535bb64e95f7fd0975cc893ff4d5e5e2682f419f8324def77&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Feda 100 m"\n  - "Spring 350 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Callan"\n    country: "United Kingdom"\n    text: "“Perfect stay! The house is beautiful and the terrace is as good as it looks in the pictures. The location is really convenient and quiet - it’s relatively level with the bazaar area where all the restaurants are so it’s not too difficult to get...”"\n  - name: "Tschorn"\n    country: "Germany"\n    text: "“Friendly and helpful host, perfectly clean and comfortable plus good central location and great individual breakfast every morning. Just perfect!”"\n  - name: "Brijesh"\n    country: "Germany"\n    text: "“Superb location. The guest house lies in the old town part so you get a definite vibe of living in medieval times. They have a fantastic entrance with grapes and lemon around the entrance passage. The view from their terrace is also exceptional....”"\nbookingURL: "https://www.booking.com/hotel/al/juald.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nSecurity is paramount at Guest House Juald, with round-the-clock surveillance, attentive room service, and the convenience of currency exchange services ensuring a worry-free stay for every guest. The guest rooms are a haven of comfort, featuring air conditioning, flat-screen TVs, and complimentary WiFi. The attention to detail is evident in the private bathrooms, equipped with baths and slippers, and select rooms further enhance the experience with their own balconies. Comfort is further assured with the provision of quality bed linen and towels in each unit.
+---
+title: "Guest House Juald"
+description: "Guest House Juald emerges as a serene retreat offering breathtaking mountain views, located approximately 45 km from the enchanting Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484521426.jpg?k=28a243056cfa07e262d091370075ab949a9dd60c5c911a14dc6de60c70102a08&o=&hp=1"
+language: en
+slug: guest-house-juald
+address: "Rruga Pertef Kokona, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.07707461
+  lng: 20.13186909
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 329
+ratings:
+  overall: 9.8
+  location: 9.5
+  cleanliness: 9.8
+  facilities: 9.6
+  value: 9.9
+  comfort: 9.7
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484521426.jpg?k=28a243056cfa07e262d091370075ab949a9dd60c5c911a14dc6de60c70102a08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484759017.jpg?k=9e7a43930a93f7862af6a91750dd659c28c7da2a9d9464f46016bcc62cd2511f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484520999.jpg?k=46d3efb15f20fdf6d14f9efdea32af2b4f2347fede03a8a852a3939d5b175bc1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357309469.jpg?k=16934290d0bf05a9726927266e2c5f80952d688f2287b528d9c8932fc4fe91b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368829798.jpg?k=08030f61626915dc739ef436e80e50109f465ca988a9e9f90b94a0f8fed2952c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484519849.jpg?k=1493023381a0690254f39f0e7bd92892c122f241505ad958e3597baa896fa758&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484521167.jpg?k=6e32105bb3c7da76cfec2d07c63059102ef04d2b123a8f03b767c3b3dfd2208e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383407146.jpg?k=7b100345f7401157b35018872f26dab5461a68ef15caada5d576aef634ee423b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362579235.jpg?k=e91774ff5ac8ada535bb64e95f7fd0975cc893ff4d5e5e2682f419f8324def77&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Exceptional breakfast"
+nearbyRestaurants:
+  - "Feda 100 m"
+  - "Spring 350 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Callan"
+    country: "United Kingdom"
+    text: "“Perfect stay! The house is beautiful and the terrace is as good as it looks in the pictures. The location is really convenient and quiet - it’s relatively level with the bazaar area where all the restaurants are so it’s not too difficult to get...”"
+  - name: "Tschorn"
+    country: "Germany"
+    text: "“Friendly and helpful host, perfectly clean and comfortable plus good central location and great individual breakfast every morning. Just perfect!”"
+  - name: "Brijesh"
+    country: "Germany"
+    text: "“Superb location. The guest house lies in the old town part so you get a definite vibe of living in medieval times. They have a fantastic entrance with grapes and lemon around the entrance passage. The view from their terrace is also exceptional....”"
+bookingURL: "https://www.booking.com/hotel/al/juald.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Security is paramount at Guest House Juald, with round-the-clock surveillance, attentive room service, and the convenience of currency exchange services ensuring a worry-free stay for every guest. The guest rooms are a haven of comfort, featuring air conditioning, flat-screen TVs, and complimentary WiFi. The attention to detail is evident in the private bathrooms, equipped with baths and slippers, and select rooms further enhance the experience with their own balconies. Comfort is further assured with the provision of quality bed linen and towels in each unit.
 
 Culinary delights await at the on-site restaurant, a family-friendly venue that caters to a variety of tastes with its offerings for dinner, lunch, brunch, and high tea. Whether it's a hearty meal or a light snack, the dining experience here is designed to complement the serene surroundings.
 

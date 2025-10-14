@@ -1,4 +1,75 @@
----\ntitle: "Saranda Blueriver apartment"\ndescription: "Saranda Blueriver Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504215764.jpg?k=6fc6db154bcc2d3509119da9d100b5178659b518063751936ebce269cb9fcba7&o=&hp=1"\nlanguage: en\nslug: saranda-blueriver-apartment\naddress: "V22F+V66, Rr.Sarande - Butrint, km3, Sarande 9701, Albanie 501,502, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8522\n  lng: 20.02290505\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 6.5\nratingWords: "Average"\nnumberOfReviews: 4\nratings:\n  overall: 6.5\n  location: 6.9\n  cleanliness: 6.3\n  facilities: 6.3\n  value: 6.3\n  comfort: 6.3\n  staff: 6.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504215764.jpg?k=6fc6db154bcc2d3509119da9d100b5178659b518063751936ebce269cb9fcba7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504216130.jpg?k=0fc15843ce25810f8c9440da3e39db5b1142722640d55eddcbfc28bd466cd1fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504216083.jpg?k=71e5eb4ec132f03c2c1d2d477c70a2d2aa0162175ad4be2a9836240af79e2474&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217687.jpg?k=6749f8da3fdd66f23867b027c6e00edbc733822928f40fbd4a03acace904c984&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217638.jpg?k=fa41bb86448786d6aac67fd97ad76d6a58d79962dbccaa93cabb5bdec89412b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217618.jpg?k=baa0b43f4f16066c7cad597dfb7df3541111bfbce313076e0dca946462525b49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504216189.jpg?k=442400970d6273a4c068bccf3918aeb7db117c287e752847fa82729b9746fac3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217654.jpg?k=30b378e125e510ae05e59cf0382a5a6493abf490b3361a25ed2f0a35c7612524&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480287195.jpg?k=020218f470fecab3140191a317fe6b8a714328c0506612e35d6dbd524ecde8be&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sunrise 10 m"\n  - "Clubitalianelmondo 50 m"\nnearbyBeaches:\n  - "Mango Beach 150 m"\n  - "Flamingo Beach 350 m"\n  - "Santa Quaranta Beach 650 m"\n  - "VIP Beach 750 m"\n  - "Maestral Beach 1.7 km"\nwhatsNearby:\n  - "Butrint National Park 300 m"\n  - "Parc National de Butrint 750 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/saranda-bleuriver-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment is not just about its prime location; it offers a haven of tranquility and comfort. Guests are welcomed into a spacious, air-conditioned haven featuring a well-appointed bedroom designed to cater to the needs of modern travelers. The presence of two bathrooms, each equipped with a walk-in shower, a bidet, and a hairdryer, underscores the apartment's commitment to providing a stay that marries convenience with luxury. The inclusion of a seating area and a kitchenette, complete with a fridge, allows guests the flexibility to dine in and enjoy the comforts of home while away.
+---
+title: "Saranda Blueriver apartment"
+description: "Saranda Blueriver Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504215764.jpg?k=6fc6db154bcc2d3509119da9d100b5178659b518063751936ebce269cb9fcba7&o=&hp=1"
+language: en
+slug: saranda-blueriver-apartment
+address: "V22F+V66, Rr.Sarande - Butrint, km3, Sarande 9701, Albanie 501,502, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.8522
+  lng: 20.02290505
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 6.5
+ratingWords: "Average"
+numberOfReviews: 4
+ratings:
+  overall: 6.5
+  location: 6.9
+  cleanliness: 6.3
+  facilities: 6.3
+  value: 6.3
+  comfort: 6.3
+  staff: 6.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504215764.jpg?k=6fc6db154bcc2d3509119da9d100b5178659b518063751936ebce269cb9fcba7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504216130.jpg?k=0fc15843ce25810f8c9440da3e39db5b1142722640d55eddcbfc28bd466cd1fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504216083.jpg?k=71e5eb4ec132f03c2c1d2d477c70a2d2aa0162175ad4be2a9836240af79e2474&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217687.jpg?k=6749f8da3fdd66f23867b027c6e00edbc733822928f40fbd4a03acace904c984&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217638.jpg?k=fa41bb86448786d6aac67fd97ad76d6a58d79962dbccaa93cabb5bdec89412b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217618.jpg?k=baa0b43f4f16066c7cad597dfb7df3541111bfbce313076e0dca946462525b49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504216189.jpg?k=442400970d6273a4c068bccf3918aeb7db117c287e752847fa82729b9746fac3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504217654.jpg?k=30b378e125e510ae05e59cf0382a5a6493abf490b3361a25ed2f0a35c7612524&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480287195.jpg?k=020218f470fecab3140191a317fe6b8a714328c0506612e35d6dbd524ecde8be&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+  - "Beachfront"
+  - "Terrace"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Sunrise 10 m"
+  - "Clubitalianelmondo 50 m"
+nearbyBeaches:
+  - "Mango Beach 150 m"
+  - "Flamingo Beach 350 m"
+  - "Santa Quaranta Beach 650 m"
+  - "VIP Beach 750 m"
+  - "Maestral Beach 1.7 km"
+whatsNearby:
+  - "Butrint National Park 300 m"
+  - "Parc National de Butrint 750 m"
+  - "Plazhi I Krorezes 6 km"
+  - "Parku Kombetar I Butrintit 10 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 28 km"
+  - "Ioannina Airport 69 km"
+bookingURL: "https://www.booking.com/hotel/al/saranda-bleuriver-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This apartment is not just about its prime location; it offers a haven of tranquility and comfort. Guests are welcomed into a spacious, air-conditioned haven featuring a well-appointed bedroom designed to cater to the needs of modern travelers. The presence of two bathrooms, each equipped with a walk-in shower, a bidet, and a hairdryer, underscores the apartment's commitment to providing a stay that marries convenience with luxury. The inclusion of a seating area and a kitchenette, complete with a fridge, allows guests the flexibility to dine in and enjoy the comforts of home while away.
 
 Privacy is paramount at Saranda Blueriver Apartment, with a private entrance ensuring guests can enjoy their stay without intrusion. The sun terrace invites guests to unwind and soak up the Mediterranean sun, offering a serene spot to relax and recharge.
 

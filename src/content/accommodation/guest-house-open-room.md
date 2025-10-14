@@ -1,5 +1,88 @@
----\ntitle: "Guest House Open Room"\ndescription: "Guest House Open Room emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375300828.jpg?k=3bcf7f2dc08f2b7996746a3825c053ede9bd5d4462ee76d0d1fb3d6c348f784a&o=&hp=1"\nlanguage: en\nslug: guest-house-open-room\naddress: "Rruga Hysen Myshketa pienvis , floor 1, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32270949\n  lng: 19.44646193\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.4\n  location: 9.1\n  cleanliness: 9.5\n  facilities: 9.4\n  value: 9.5\n  comfort: 9.2\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375300828.jpg?k=3bcf7f2dc08f2b7996746a3825c053ede9bd5d4462ee76d0d1fb3d6c348f784a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487093509.jpg?k=279a81206b50000054259420553f7cc31dcdc1075f9b14db06de0805e4cb87ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464420720.jpg?k=8e29f53062cae18a173c7955fe319675bcf1cf5068d6e0f50c6d9df6ec833493&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375715287.jpg?k=a907eb907702b921e8fa79820a2ac0ad5a67b8c12420c757c1fe0dbd46c00aa3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375760167.jpg?k=ab447c4a15a0075f23fa391859df67fac20cdb220679045a6e4f3bc0d593e415&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487093167.jpg?k=cbdf92aa118027feacc17a6c8118ab70c74d17bf8535e99c61876d9782ab80a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464420464.jpg?k=df09e9d34f8329ad520219cb76bbe3587d28c76cac18d11349f196a3fe1e23b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385151699.jpg?k=9f9add90bf322a244d6ecce8c95c38cb98aa5a74ae677e49bdbe95e43ae03d2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490270059.jpg?k=adb39dfd885a11d77adfc6d8ddd3c36a9457d4884ce60c54ae1dbc21aabdf505&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Fast free WiFi (86 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Open 100 m"\n  - "Lakmia 200 m"\nnearbyBeaches:\n  - "Kallmi Beach 1.3 km"\n  - "Currila Beach 1.3 km"\n  - "Durres Beach 2 km"\n  - "West End Beach 2 km"\n  - "Shkëmbi i Kavajës Beach 7 km"\nwhatsNearby:\n  - "Sotir Noka 200 m"\n  - "Sheshi Demokracia 500 m"\n  - "Yje Dhe Hena 750 m"\n  - "Wine Dhe Pooh 800 m"\n  - "Durres Amphiteatre 1.2 km"\n  - "1. Maj 1.3 km"\n  - "Bekimi 2.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Florent"\n    country: "Germany"\n    text: "“everything was perfect! the host was super nice, the guest house was very big, clean and comfortable! The kitchen and the Bathroom were very good equipped! Would absolute recommend! everything looked like on the pictures! thanks for the help...”"\n  - name: "Anonymous"\n    country: "Albania"\n    text: "“The best apartment in Durres. Perfectly equipped , all organised,separated rooms with beautiful bathroom. Kitchen well equipped for cooking. I totally recommend it!! The host is very nice and helpful”"\n  - name: "Monika1597"\n    country: "Poland"\n    text: "“Najlepszy apartament w duress.
-Piękny czysty ,duży apartament. Pani wynajmujaca była bardzo miła i pomocna .”"\nbookingURL: "https://www.booking.com/hotel/al/modern-apartment-in-a-good-place-near-the-center-of-the-city.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis air-conditioned accommodation doesn't just promise a stay; it delivers an experience. With a balcony that presents quiet street views, guests can enjoy a peaceful retreat after a day of exploration. The apartment boasts two spacious bedrooms, ensuring ample space for relaxation. Entertainment is readily available with a flat-screen TV equipped with streaming services, perfect for unwinding. The kitchen is a highlight, fully equipped with modern appliances including a dishwasher, oven, washing machine, microwave, and toaster, catering to all culinary needs. The provision of towels and bed linen adds a touch of convenience to the stay.
+---
+title: "Guest House Open Room"
+description: "Guest House Open Room emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375300828.jpg?k=3bcf7f2dc08f2b7996746a3825c053ede9bd5d4462ee76d0d1fb3d6c348f784a&o=&hp=1"
+language: en
+slug: guest-house-open-room
+address: "Rruga Hysen Myshketa pienvis , floor 1, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32270949
+  lng: 19.44646193
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 16
+ratings:
+  overall: 9.4
+  location: 9.1
+  cleanliness: 9.5
+  facilities: 9.4
+  value: 9.5
+  comfort: 9.2
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375300828.jpg?k=3bcf7f2dc08f2b7996746a3825c053ede9bd5d4462ee76d0d1fb3d6c348f784a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487093509.jpg?k=279a81206b50000054259420553f7cc31dcdc1075f9b14db06de0805e4cb87ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464420720.jpg?k=8e29f53062cae18a173c7955fe319675bcf1cf5068d6e0f50c6d9df6ec833493&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375715287.jpg?k=a907eb907702b921e8fa79820a2ac0ad5a67b8c12420c757c1fe0dbd46c00aa3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375760167.jpg?k=ab447c4a15a0075f23fa391859df67fac20cdb220679045a6e4f3bc0d593e415&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487093167.jpg?k=cbdf92aa118027feacc17a6c8118ab70c74d17bf8535e99c61876d9782ab80a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464420464.jpg?k=df09e9d34f8329ad520219cb76bbe3587d28c76cac18d11349f196a3fe1e23b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385151699.jpg?k=9f9add90bf322a244d6ecce8c95c38cb98aa5a74ae677e49bdbe95e43ae03d2f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490270059.jpg?k=adb39dfd885a11d77adfc6d8ddd3c36a9457d4884ce60c54ae1dbc21aabdf505&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Fast free WiFi (86 Mbps)"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Open 100 m"
+  - "Lakmia 200 m"
+nearbyBeaches:
+  - "Kallmi Beach 1.3 km"
+  - "Currila Beach 1.3 km"
+  - "Durres Beach 2 km"
+  - "West End Beach 2 km"
+  - "Shkëmbi i Kavajës Beach 7 km"
+whatsNearby:
+  - "Sotir Noka 200 m"
+  - "Sheshi Demokracia 500 m"
+  - "Yje Dhe Hena 750 m"
+  - "Wine Dhe Pooh 800 m"
+  - "Durres Amphiteatre 1.2 km"
+  - "1. Maj 1.3 km"
+  - "Bekimi 2.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 24 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Florent"
+    country: "Germany"
+    text: "“everything was perfect! the host was super nice, the guest house was very big, clean and comfortable! The kitchen and the Bathroom were very good equipped! Would absolute recommend! everything looked like on the pictures! thanks for the help...”"
+  - name: "Anonymous"
+    country: "Albania"
+    text: "“The best apartment in Durres. Perfectly equipped , all organised,separated rooms with beautiful bathroom. Kitchen well equipped for cooking. I totally recommend it!! The host is very nice and helpful”"
+  - name: "Monika1597"
+    country: "Poland"
+    text: "“Najlepszy apartament w duress.
+Piękny czysty ,duży apartament. Pani wynajmujaca była bardzo miła i pomocna .”"
+bookingURL: "https://www.booking.com/hotel/al/modern-apartment-in-a-good-place-near-the-center-of-the-city.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+This air-conditioned accommodation doesn't just promise a stay; it delivers an experience. With a balcony that presents quiet street views, guests can enjoy a peaceful retreat after a day of exploration. The apartment boasts two spacious bedrooms, ensuring ample space for relaxation. Entertainment is readily available with a flat-screen TV equipped with streaming services, perfect for unwinding. The kitchen is a highlight, fully equipped with modern appliances including a dishwasher, oven, washing machine, microwave, and toaster, catering to all culinary needs. The provision of towels and bed linen adds a touch of convenience to the stay.
 
 Privacy and security are paramount at Guest House Open Room. The apartment features a private entrance, ensuring guests' stay is undisturbed, while full-day security maintains a safe environment. For those needing essentials or a quick snack, a minimarket on the premises offers added convenience.
 

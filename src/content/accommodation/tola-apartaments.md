@@ -1,4 +1,75 @@
----\ntitle: "Tola Apartaments"\ndescription: "Tola Apartments emerges as a prime choice for travelers seeking comfort and convenience in Pogradec, positioned strategically to offer easy access to a plethora of historical and natural attractions."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301841.jpg?k=12da95ed733aa68929cacee42e74736ce77ec6bb679c207227fe050bfc347e3a&o=&hp=1"\nlanguage: en\nslug: tola-apartaments\naddress: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90076413\n  lng: 20.66089276\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 7\nratings:\n  overall: 9.5\n  location: 8.6\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.3\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301841.jpg?k=12da95ed733aa68929cacee42e74736ce77ec6bb679c207227fe050bfc347e3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301926.jpg?k=3c38cec58b5933ffb99bd222eac86189a4b1355cb528490e0e627782fb0ca3dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301876.jpg?k=747f455ee1e27d0d55b1f0f86aa574f968a089d449918490ae47d2e161193464&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301905.jpg?k=3af1880062de17e81d77a022c72feac8f4487c9f727a4093c82f46cc86f97f45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301872.jpg?k=ade21331cf33fb79f88b192351e54638b53b39e56acefbbbb7688826fbca5c28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475616682.jpg?k=79634fdf63f0ce4cdbf2272fa8a547a1685954561b9d751035ac4bc66c0acdbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301957.jpg?k=608f691e684d4df4882cc08caae6a5b260e1f54164cbd5bb871e884043fcd25b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301942.jpg?k=caf05d88487f23c0e225879fb5692e365f02da49bbcb62bf29dce69c6340b405&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485170639.jpg?k=53c6d49f06c13959cf2a7b73705e23677fc76accc9abea14fc3c84fc86cbc3f6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Zgara Pogradecare 50 m"\n  - "Bar Kafe Pandelis 100 m"\nwhatsNearby:\n  - "Driloni National Park 750 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nreviews:\n  - name: "Ilia"\n    country: "Albania"\n    text: "“We have very nice stay at the apartment.It was very clean and the owner was very nice.I would recommend this place.”"\n  - name: "Ardiana"\n    country: "Albania"\n    text: "“Very nicely furnished, clean, modern, it had everything and brand new! It was located very close to the center, it had a nice view of the lake, and many restaurants and shops nearby. Natalia was a wonderful host!”"\n  - name: "Lorenzo"\n    country: "Italy"\n    text: "“Very cozy place a few steps from the lakeside promenade, excellent location. Really happy”"\nbookingURL: "https://www.booking.com/hotel/al/tola-apartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe property boasts a commendable location, with the enchanting Port Ohrid, the revered Church of St. John at Kaneo, and the mystical Cave Church Archangel Michael all within a 40 km radius. Moreover, the serene Ohrid Lake Springs, a natural marvel, is just 8.3 km away, promising guests an escape into nature's embrace.
+---
+title: "Tola Apartaments"
+description: "Tola Apartments emerges as a prime choice for travelers seeking comfort and convenience in Pogradec, positioned strategically to offer easy access to a plethora of historical and natural attractions."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301841.jpg?k=12da95ed733aa68929cacee42e74736ce77ec6bb679c207227fe050bfc347e3a&o=&hp=1"
+language: en
+slug: tola-apartaments
+address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"
+city: "Pogradec"
+location: "Pogradec"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.90076413
+  lng: 20.66089276
+price: "US$47"
+priceFrom: 47
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 7
+ratings:
+  overall: 9.5
+  location: 8.6
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 9.3
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301841.jpg?k=12da95ed733aa68929cacee42e74736ce77ec6bb679c207227fe050bfc347e3a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301926.jpg?k=3c38cec58b5933ffb99bd222eac86189a4b1355cb528490e0e627782fb0ca3dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301876.jpg?k=747f455ee1e27d0d55b1f0f86aa574f968a089d449918490ae47d2e161193464&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301905.jpg?k=3af1880062de17e81d77a022c72feac8f4487c9f727a4093c82f46cc86f97f45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301872.jpg?k=ade21331cf33fb79f88b192351e54638b53b39e56acefbbbb7688826fbca5c28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475616682.jpg?k=79634fdf63f0ce4cdbf2272fa8a547a1685954561b9d751035ac4bc66c0acdbe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301957.jpg?k=608f691e684d4df4882cc08caae6a5b260e1f54164cbd5bb871e884043fcd25b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301942.jpg?k=caf05d88487f23c0e225879fb5692e365f02da49bbcb62bf29dce69c6340b405&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485170639.jpg?k=53c6d49f06c13959cf2a7b73705e23677fc76accc9abea14fc3c84fc86cbc3f6&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Zgara Pogradecare 50 m"
+  - "Bar Kafe Pandelis 100 m"
+whatsNearby:
+  - "Driloni National Park 750 m"
+  - "National Park Galicica 7 km"
+  - "National Park Galicica 14 km"
+  - "Bay of Bones 16 km"
+airports:
+  - "Ohrid Airport 30 km"
+  - "Kastoria National Airport 71 km"
+  - "Tirana International Airport Mother Teresa 96 km"
+reviews:
+  - name: "Ilia"
+    country: "Albania"
+    text: "“We have very nice stay at the apartment.It was very clean and the owner was very nice.I would recommend this place.”"
+  - name: "Ardiana"
+    country: "Albania"
+    text: "“Very nicely furnished, clean, modern, it had everything and brand new! It was located very close to the center, it had a nice view of the lake, and many restaurants and shops nearby. Natalia was a wonderful host!”"
+  - name: "Lorenzo"
+    country: "Italy"
+    text: "“Very cozy place a few steps from the lakeside promenade, excellent location. Really happy”"
+bookingURL: "https://www.booking.com/hotel/al/tola-apartaments.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+The property boasts a commendable location, with the enchanting Port Ohrid, the revered Church of St. John at Kaneo, and the mystical Cave Church Archangel Michael all within a 40 km radius. Moreover, the serene Ohrid Lake Springs, a natural marvel, is just 8.3 km away, promising guests an escape into nature's embrace.
 
 Guests at Tola Apartments are treated to a well-appointed living space featuring a single bedroom, a fully equipped kitchenette for those who prefer to whip up their own meals, and a modern bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, ensuring that guests have access to leisure at their fingertips. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy throughout its premises.
 

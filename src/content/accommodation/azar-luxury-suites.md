@@ -1,4 +1,87 @@
----\ntitle: "Azar Luxury Suites"\ndescription: "Azar Luxury Suites emerges as a premier destination for travelers seeking unparalleled luxury by the sea."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478241301.jpg?k=4af9f1fcd5efb55d6fc489d2c1c1b6e715d13cd31a256d062404108c3053c4f8&o=&hp=1"\nlanguage: en\nslug: azar-luxury-suites\naddress: "Rruga Aleksandër Moisiu, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42553432\n  lng: 19.49097166\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 182\nratings:\n  overall: 9.4\n  location: 9.3\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9\n  comfort: 9.6\n  staff: 9.3\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478241301.jpg?k=4af9f1fcd5efb55d6fc489d2c1c1b6e715d13cd31a256d062404108c3053c4f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476216470.jpg?k=4aa5aa3527cc6de9edc99c0e4f3f9e6b7ac4bce8f2cb1fa2068e2f0acec5f04b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478271123.jpg?k=9a434017a3e05fbfcaf7d942df811d3dc6e607b6f3c986e562e6de1392a15fe4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478240065.jpg?k=81f8ee16a3ac1cc0545b8315372a28d822f4ba18c1edc39e0446f3ca996d534f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477553289.jpg?k=7f139fd7f593f48a6f3471f465a03eebb509b8d59fa7afe7ba24c59811aa9c9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477555353.jpg?k=a3379efd1aa230f155c12f92f8d19c573e3ae75307f7072e5c383116fc4307f5&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Apartment"\n  - "Apartment with Sea View"\n  - "Superior Suite with Sea View"\n  - "Apartment with Sea View"\n  - "Duplex Apartment"\nnearbyRestaurants:\n  - "Amadeo Ristorante 100 m"\n  - "Restorant Montreal 150 m"\nnearbyBeaches:\n  - "Ri Beach 550 m"\n  - "Beach at Government Villas 700 m"\n  - "Liro Beach 1.5 km"\n  - "Vlore Beach 1.9 km"\n  - "Coco Bongo Beach 2.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.3 km"\n  - "Kuzum Baba 4.7 km"\n  - "Independence Square 5 km"\nairports:\n  - "Corfu International Airport 97 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Tricia"\n    country: "United Kingdom"\n    text: "“The room was so beautifully decorated all the small details gave such a luxurious feel, the bed was comfortable, the view and location was superb. Nothing was left out.. the owner was on site if you needed anything and nothing was too much trouble.”"\n  - name: "Antonio"\n    country: "United Kingdom"\n    text: "“Was a great stay, Eraldo the host was fantastic , couldn't more for us, definitely is a place to go back”"\n  - name: "Hung-ju"\n    country: "Taiwan"\n    text: "“The room's view and decor are absolutely stunning. It's worth noting that the staff is incredibly welcoming and friendly. They even took the time to show us the different, amazing rooms available. Communication is convenient, as they consistently...”"\nbookingURL: "https://www.booking.com/hotel/al/azar-luxury-suites.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nGuests at Azar Luxury Suites are treated to an array of top-notch amenities designed to enhance their stay. Each suite is a haven of comfort, equipped with air conditioning, a flat-screen TV complete with streaming services, a minibar, and a coffee machine for that perfect morning brew. The attention to detail is evident in the inclusion of plush bathrobes, slippers, and high-quality bed linen and towels, ensuring a stay that is as comfortable as it is luxurious.
+---
+title: "Azar Luxury Suites"
+description: "Azar Luxury Suites emerges as a premier destination for travelers seeking unparalleled luxury by the sea."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478241301.jpg?k=4af9f1fcd5efb55d6fc489d2c1c1b6e715d13cd31a256d062404108c3053c4f8&o=&hp=1"
+language: en
+slug: azar-luxury-suites
+address: "Rruga Aleksandër Moisiu, 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.42553432
+  lng: 19.49097166
+price: "US$86"
+priceFrom: 86
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 182
+ratings:
+  overall: 9.4
+  location: 9.3
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 9
+  comfort: 9.6
+  staff: 9.3
+  wifi: 9.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478241301.jpg?k=4af9f1fcd5efb55d6fc489d2c1c1b6e715d13cd31a256d062404108c3053c4f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476216470.jpg?k=4aa5aa3527cc6de9edc99c0e4f3f9e6b7ac4bce8f2cb1fa2068e2f0acec5f04b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478271123.jpg?k=9a434017a3e05fbfcaf7d942df811d3dc6e607b6f3c986e562e6de1392a15fe4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478240065.jpg?k=81f8ee16a3ac1cc0545b8315372a28d822f4ba18c1edc39e0446f3ca996d534f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477553289.jpg?k=7f139fd7f593f48a6f3471f465a03eebb509b8d59fa7afe7ba24c59811aa9c9d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477555353.jpg?k=a3379efd1aa230f155c12f92f8d19c573e3ae75307f7072e5c383116fc4307f5&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Apartment"
+  - "Apartment with Sea View"
+  - "Superior Suite with Sea View"
+  - "Apartment with Sea View"
+  - "Duplex Apartment"
+nearbyRestaurants:
+  - "Amadeo Ristorante 100 m"
+  - "Restorant Montreal 150 m"
+nearbyBeaches:
+  - "Ri Beach 550 m"
+  - "Beach at Government Villas 700 m"
+  - "Liro Beach 1.5 km"
+  - "Vlore Beach 1.9 km"
+  - "Coco Bongo Beach 2.6 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.3 km"
+  - "Kuzum Baba 4.7 km"
+  - "Independence Square 5 km"
+airports:
+  - "Corfu International Airport 97 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Tricia"
+    country: "United Kingdom"
+    text: "“The room was so beautifully decorated all the small details gave such a luxurious feel, the bed was comfortable, the view and location was superb. Nothing was left out.. the owner was on site if you needed anything and nothing was too much trouble.”"
+  - name: "Antonio"
+    country: "United Kingdom"
+    text: "“Was a great stay, Eraldo the host was fantastic , couldn't more for us, definitely is a place to go back”"
+  - name: "Hung-ju"
+    country: "Taiwan"
+    text: "“The room's view and decor are absolutely stunning. It's worth noting that the staff is incredibly welcoming and friendly. They even took the time to show us the different, amazing rooms available. Communication is convenient, as they consistently...”"
+bookingURL: "https://www.booking.com/hotel/al/azar-luxury-suites.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+Guests at Azar Luxury Suites are treated to an array of top-notch amenities designed to enhance their stay. Each suite is a haven of comfort, equipped with air conditioning, a flat-screen TV complete with streaming services, a minibar, and a coffee machine for that perfect morning brew. The attention to detail is evident in the inclusion of plush bathrobes, slippers, and high-quality bed linen and towels, ensuring a stay that is as comfortable as it is luxurious.
 
 For those who prefer to dine in, select units feature a fully equipped kitchen, complete with an oven, allowing guests the freedom to prepare their meals just the way they like. The convenience of free private parking and complimentary WiFi throughout the property adds to the seamless experience.
 

@@ -1,8 +1,67 @@
----\ntitle: "Downtown Apartment 2"\ndescription: "Downtown Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357761735.jpg?k=9c46b375642e01fb86fdce5c19d282be22d99b5e55dc6c522b780b20e853ff8e&o=&hp=1"\nlanguage: en\nslug: downtown-apartment-2\naddress: "Rruga Petrit Lulo, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70524564\n  lng: 19.95276646\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 103\nratings:\n  overall: 9.4\n  location: 9.9\n  cleanliness: 9.8\n  facilities: 9.4\n  value: 9.9\n  comfort: 9.7\n  staff: 9.9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357761735.jpg?k=9c46b375642e01fb86fdce5c19d282be22d99b5e55dc6c522b780b20e853ff8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757557.jpg?k=8c9ddbdbefd8fabcfca3735bc065ec920dc41b0e56a5dd8b2c196cb6108e0039&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757626.jpg?k=92cf0228553cdf9b900b41896251f21a018040d50349cedb78b46a3e889704e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757715.jpg?k=3d33e43ea8a494f64519657e83b5d0329d6d7ff070e694eb04597304e58545d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757853.jpg?k=ab893d0376b0ed4bfb7499a3e7ad365a65a69200d497c443ad457e89291ad936&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357761790.jpg?k=3df658e6498e925f61f8fb95c23289700c4cedd87689fc54d6e4b220b51cb365&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757592.jpg?k=e3be024b872d7cff0c2d5da627c14a007bb46a1ee5a986fd9a736fce912a5649&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757524.jpg?k=a6ccbbc30a94462e5a351cb6120c2940d62d4fc1b6562a4e8a94a9b0197bc9f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757379.jpg?k=7831970dc829011a96258b0b72ac6c2270f45d27a5822bdc69760ea611ce931e&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nreviews:\n  - name: "Lea"\n    country: "Germany"\n    text: "“Very friendly owner, she was amazing!
+---
+title: "Downtown Apartment 2"
+description: "Downtown Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Berat."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357761735.jpg?k=9c46b375642e01fb86fdce5c19d282be22d99b5e55dc6c522b780b20e853ff8e&o=&hp=1"
+language: en
+slug: downtown-apartment-2
+address: "Rruga Petrit Lulo, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.70524564
+  lng: 19.95276646
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 103
+ratings:
+  overall: 9.4
+  location: 9.9
+  cleanliness: 9.8
+  facilities: 9.4
+  value: 9.9
+  comfort: 9.7
+  staff: 9.9
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357761735.jpg?k=9c46b375642e01fb86fdce5c19d282be22d99b5e55dc6c522b780b20e853ff8e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757557.jpg?k=8c9ddbdbefd8fabcfca3735bc065ec920dc41b0e56a5dd8b2c196cb6108e0039&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757626.jpg?k=92cf0228553cdf9b900b41896251f21a018040d50349cedb78b46a3e889704e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757715.jpg?k=3d33e43ea8a494f64519657e83b5d0329d6d7ff070e694eb04597304e58545d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757853.jpg?k=ab893d0376b0ed4bfb7499a3e7ad365a65a69200d497c443ad457e89291ad936&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357761790.jpg?k=3df658e6498e925f61f8fb95c23289700c4cedd87689fc54d6e4b220b51cb365&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757592.jpg?k=e3be024b872d7cff0c2d5da627c14a007bb46a1ee5a986fd9a736fce912a5649&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757524.jpg?k=a6ccbbc30a94462e5a351cb6120c2940d62d4fc1b6562a4e8a94a9b0197bc9f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357757379.jpg?k=7831970dc829011a96258b0b72ac6c2270f45d27a5822bdc69760ea611ce931e&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Breakfast"
+reviews:
+  - name: "Lea"
+    country: "Germany"
+    text: "“Very friendly owner, she was amazing!
 Great apartment with everything you need, super clean and in the middle of the centre. The instructions before arrival are absolutely clear.
-Breakfast was delicious with bread, eggs, fruits, vegetables, juice...”"\n  - name: "Mariola"\n    country: "Poland"\n    text: "“Extremaly nice owner who prepared for us delicious breakfast! Apartment was clean and very comfortable. Perfect location.”"\n  - name: "Robert"\n    country: "Poland"\n    text: "“Very helpful host.
+Breakfast was delicious with bread, eggs, fruits, vegetables, juice...”"
+  - name: "Mariola"
+    country: "Poland"
+    text: "“Extremaly nice owner who prepared for us delicious breakfast! Apartment was clean and very comfortable. Perfect location.”"
+  - name: "Robert"
+    country: "Poland"
+    text: "“Very helpful host.
 A comfortable bed.
-Very tasty”"\nbookingURL: "https://www.booking.com/hotel/al/downtown-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment boasts a well-appointed bedroom complemented by a fully equipped kitchen, featuring an oven and a fridge, perfect for those who prefer home-cooked meals. Entertainment needs are met with a flat-screen TV in a cozy seating area, making it an ideal space for relaxation. The inclusion of a modern bathroom equipped with a bidet, along with the provision of towels and bed linen, adds to the comfort of guests. Notably, Downtown Apartment 2 prioritizes guest privacy and tranquility with a private entrance and soundproof rooms, ensuring a peaceful retreat from the bustling city life.
+Very tasty”"
+bookingURL: "https://www.booking.com/hotel/al/downtown-apartment-2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment boasts a well-appointed bedroom complemented by a fully equipped kitchen, featuring an oven and a fridge, perfect for those who prefer home-cooked meals. Entertainment needs are met with a flat-screen TV in a cozy seating area, making it an ideal space for relaxation. The inclusion of a modern bathroom equipped with a bidet, along with the provision of towels and bed linen, adds to the comfort of guests. Notably, Downtown Apartment 2 prioritizes guest privacy and tranquility with a private entrance and soundproof rooms, ensuring a peaceful retreat from the bustling city life.
 
 For adventurers eager to explore, the apartment thoughtfully provides the option of packed lunches, perfect for day trips and excursions beyond the city limits.
 

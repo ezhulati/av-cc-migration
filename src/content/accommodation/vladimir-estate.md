@@ -1,6 +1,83 @@
----\ntitle: "Vladimir Estate"\ndescription: "Vladimir Estate emerges as a serene retreat, located approximately 42 km from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432912496.jpg?k=0252b65d6bfee937b1ef99dd80edc5f745bb21a1d0e5ab11446e92629a96dde5&o=&hp=1"\nlanguage: en\nslug: vladimir-estate\naddress: "rruga Hasan Xhiku 26, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07556796\n  lng: 20.15052447\nprice: "US$57"\npriceFrom: 57\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 496\nratings:\n  overall: 9.4\n  location: 8.6\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.7\n  comfort: 9.7\n  staff: 9.6\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432912496.jpg?k=0252b65d6bfee937b1ef99dd80edc5f745bb21a1d0e5ab11446e92629a96dde5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439839857.jpg?k=47b5a238c9000295c6dc228ed30d73d135097dc624035b1fbd437e50581b991f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407374798.jpg?k=10821adff5b2a5dd5f9a9f36652776cffa17e53602c9db7f6b26f540f8d69f24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434823741.jpg?k=1a13f93c205ffd83deba3ad4ec3e783fcc73703768c7ff6b4de3a4cc509cf8a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441050516.jpg?k=bd73e206993a89a5b6e14cad30cc12af693f757b07e8b07c4f67aede8b40fc01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363467610.jpg?k=2577fc0baa2a4e4868847944bb086e1976790ceab5fba613d78c646050ea8aff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439946059.jpg?k=5c7e04fe039cfef7b49e72456cf27dc6ff4d2a3f55223c9074853c099b6300f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945959.jpg?k=9bb46dc5944644d165c5d38f5618c71399d813c2a46df23bb75e523925722d2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945905.jpg?k=c197fee53c9022545b6b6bca36bc99e3ceb273595937bbb0cd58c08409c452ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945231.jpg?k=f879a7a2e587d38285738ebb9d54f6ca2a71d26733eaf8a24061fd527e9d1708&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945151.jpg?k=8207656122f68c9446a014fedb5230d4bf768ac794f321675dede456606a523d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439944244.jpg?k=16c543a91cf54e2082dc5cb8c2d2b3e6c2c0c2b68885d4976da460c53adba882&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Triple Room"\n  - "Family Room with Balcony"\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Double or Twin Room with Balcony"\n  - "Double Room with Mountain View"\n  - "Deluxe Double or Twin Room with Balcony"\n  - "Deluxe Quadruple Room"\nnearbyRestaurants:\n  - "Shtepia E Muzikes Selfo 200 m"\n  - "Gliko Snack Bar & Pastisserie 400 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Etmira"\n    country: "Albania"\n    text: "“It was very clean, comfortable and with a very beautiful view where you could see the whole city of Gjirokastra. The staff was very polite and communicative. They were ready to help us with the problem with the car. The breakfast was delicious and...”"\n  - name: "Tomo"\n    country: "Slovenia"\n    text: "“Good location to reach the fort by car \"from the back\", avoiding city traffic.
+---
+title: "Vladimir Estate"
+description: "Vladimir Estate emerges as a serene retreat, located approximately 42 km from the tranquil Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432912496.jpg?k=0252b65d6bfee937b1ef99dd80edc5f745bb21a1d0e5ab11446e92629a96dde5&o=&hp=1"
+language: en
+slug: vladimir-estate
+address: "rruga Hasan Xhiku 26, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.07556796
+  lng: 20.15052447
+price: "US$57"
+priceFrom: 57
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 496
+ratings:
+  overall: 9.4
+  location: 8.6
+  cleanliness: 9.7
+  facilities: 9.4
+  value: 9.7
+  comfort: 9.7
+  staff: 9.6
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432912496.jpg?k=0252b65d6bfee937b1ef99dd80edc5f745bb21a1d0e5ab11446e92629a96dde5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439839857.jpg?k=47b5a238c9000295c6dc228ed30d73d135097dc624035b1fbd437e50581b991f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407374798.jpg?k=10821adff5b2a5dd5f9a9f36652776cffa17e53602c9db7f6b26f540f8d69f24&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434823741.jpg?k=1a13f93c205ffd83deba3ad4ec3e783fcc73703768c7ff6b4de3a4cc509cf8a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441050516.jpg?k=bd73e206993a89a5b6e14cad30cc12af693f757b07e8b07c4f67aede8b40fc01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363467610.jpg?k=2577fc0baa2a4e4868847944bb086e1976790ceab5fba613d78c646050ea8aff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439946059.jpg?k=5c7e04fe039cfef7b49e72456cf27dc6ff4d2a3f55223c9074853c099b6300f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945959.jpg?k=9bb46dc5944644d165c5d38f5618c71399d813c2a46df23bb75e523925722d2c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945905.jpg?k=c197fee53c9022545b6b6bca36bc99e3ceb273595937bbb0cd58c08409c452ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945231.jpg?k=f879a7a2e587d38285738ebb9d54f6ca2a71d26733eaf8a24061fd527e9d1708&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439945151.jpg?k=8207656122f68c9446a014fedb5230d4bf768ac794f321675dede456606a523d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439944244.jpg?k=16c543a91cf54e2082dc5cb8c2d2b3e6c2c0c2b68885d4976da460c53adba882&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Superb breakfast"
+roomTypes:
+  - "Deluxe Triple Room"
+  - "Family Room with Balcony"
+  - "Deluxe Double or Twin Room"
+  - "Deluxe Double or Twin Room with Balcony"
+  - "Double Room with Mountain View"
+  - "Deluxe Double or Twin Room with Balcony"
+  - "Deluxe Quadruple Room"
+nearbyRestaurants:
+  - "Shtepia E Muzikes Selfo 200 m"
+  - "Gliko Snack Bar & Pastisserie 400 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Etmira"
+    country: "Albania"
+    text: "“It was very clean, comfortable and with a very beautiful view where you could see the whole city of Gjirokastra. The staff was very polite and communicative. They were ready to help us with the problem with the car. The breakfast was delicious and...”"
+  - name: "Tomo"
+    country: "Slovenia"
+    text: "“Good location to reach the fort by car \"from the back\", avoiding city traffic.
 Nice, spacious, clean rooms, beautiful house.
-Breakfast was good.”"\n  - name: "Claudia"\n    country: "United Kingdom"\n    text: "“Amazing place, very clean, good location, friendly staff, great breakfast. Beautiful view”"\nbookingURL: "https://www.booking.com/hotel/al/vila-vladimir.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations at Vladimir Estate are thoughtfully designed to maximize comfort and scenic beauty. Each unit is equipped with a flat-screen TV and a private bathroom that includes a shower and complimentary slippers, ensuring a cozy stay. Guests are treated to the luxury of a balcony in every unit, complete with an outdoor dining area that overlooks the river, providing a perfect backdrop for meals or a moment of reflection.
+Breakfast was good.”"
+  - name: "Claudia"
+    country: "United Kingdom"
+    text: "“Amazing place, very clean, good location, friendly staff, great breakfast. Beautiful view”"
+bookingURL: "https://www.booking.com/hotel/al/vila-vladimir.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The accommodations at Vladimir Estate are thoughtfully designed to maximize comfort and scenic beauty. Each unit is equipped with a flat-screen TV and a private bathroom that includes a shower and complimentary slippers, ensuring a cozy stay. Guests are treated to the luxury of a balcony in every unit, complete with an outdoor dining area that overlooks the river, providing a perfect backdrop for meals or a moment of reflection.
 
 Morning at Vladimir Estate begins with a delightful culinary experience. Guests have the option to enjoy either a continental or vegetarian breakfast, each offering a selection of local specialties, fresh fruits, and juices, promising a flavorful start to the day. For added convenience, a minimarket on the premises caters to any immediate needs or cravings.
 

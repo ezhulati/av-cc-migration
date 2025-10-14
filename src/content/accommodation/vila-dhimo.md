@@ -1,4 +1,61 @@
----\ntitle: "Vila Dhimo"\ndescription: "Vila Dhimo emerges as a serene retreat in Pojan, located 35 km from Independence Square and 36 km from the iconic Kuzum Baba."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933059.jpg?k=2ee130a3cc56a26620f1b9d6ed2230bfccab6c4c71f4376ac7e395fb606d4f23&o=&hp=1"\nlanguage: en\nslug: vila-dhimo\naddress: "SH66, 9309 Pojan, Albania"\ncity: "Pojan"\nlocation: "Pojan"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.72960922\n  lng: 19.46820923\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933059.jpg?k=2ee130a3cc56a26620f1b9d6ed2230bfccab6c4c71f4376ac7e395fb606d4f23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933106.jpg?k=0a0480d481094a5d68969dc4883299e3281a6a10ba14926b52dcefb4b2bcfc65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933930.jpg?k=8261b2687d4c9839b30d05bec331cc44404f407617fe4ef95032c86c8aa558c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933955.jpg?k=6fb4fb181096630997584b72b13457782b825b10c3abeb3a2a5ec7301cfc2253&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933940.jpg?k=8f4c21d9714cb980327084694b30de0859f3c63997cb1539b432dd92e1b2529c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933970.jpg?k=82acaae48f6d07cd3d7c0692d18ef9d52d36811e373f06316529883ad4ad1351&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933960.jpg?k=3c75d33b2c415e5476a384d2ab02a8dbe81a61c1d1b1f1b0674f582b811e44e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933933.jpg?k=6b47efdfc81efbbe0e6c6847b1535d88b6bc68c56007e6b6ed77a52605ed5fa4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933101.jpg?k=5aa8c2a81b12f7e4f5c7377c719263e389859fae467dd48b9cdbcb78362b813c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Bar Leon Rey 950 m"\n  - "Bar Restorant Beni 4.8 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 12 km"\nairports:\n  - "Tirana International Airport Mother Teresa 77 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-dhimo.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThis charming country house is distinguished by its lush garden settings and the luxury of modern air conditioning, ensuring a comfortable stay regardless of the season. 
+---
+title: "Vila Dhimo"
+description: "Vila Dhimo emerges as a serene retreat in Pojan, located 35 km from Independence Square and 36 km from the iconic Kuzum Baba."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933059.jpg?k=2ee130a3cc56a26620f1b9d6ed2230bfccab6c4c71f4376ac7e395fb606d4f23&o=&hp=1"
+language: en
+slug: vila-dhimo
+address: "SH66, 9309 Pojan, Albania"
+city: "Pojan"
+location: "Pojan"
+accommodationType: "villa"
+coordinates:
+  lat: 40.72960922
+  lng: 19.46820923
+price: "US$39"
+priceFrom: 39
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933059.jpg?k=2ee130a3cc56a26620f1b9d6ed2230bfccab6c4c71f4376ac7e395fb606d4f23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933106.jpg?k=0a0480d481094a5d68969dc4883299e3281a6a10ba14926b52dcefb4b2bcfc65&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933930.jpg?k=8261b2687d4c9839b30d05bec331cc44404f407617fe4ef95032c86c8aa558c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933955.jpg?k=6fb4fb181096630997584b72b13457782b825b10c3abeb3a2a5ec7301cfc2253&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933940.jpg?k=8f4c21d9714cb980327084694b30de0859f3c63997cb1539b432dd92e1b2529c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933970.jpg?k=82acaae48f6d07cd3d7c0692d18ef9d52d36811e373f06316529883ad4ad1351&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933960.jpg?k=3c75d33b2c415e5476a384d2ab02a8dbe81a61c1d1b1f1b0674f582b811e44e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933933.jpg?k=6b47efdfc81efbbe0e6c6847b1535d88b6bc68c56007e6b6ed77a52605ed5fa4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933101.jpg?k=5aa8c2a81b12f7e4f5c7377c719263e389859fae467dd48b9cdbcb78362b813c&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room"
+nearbyRestaurants:
+  - "Bar Leon Rey 950 m"
+  - "Bar Restorant Beni 4.8 km"
+whatsNearby:
+  - "Divjake-Karavasta National Park 12 km"
+airports:
+  - "Tirana International Airport Mother Teresa 77 km"
+bookingURL: "https://www.booking.com/hotel/al/vila-dhimo.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+This charming country house is distinguished by its lush garden settings and the luxury of modern air conditioning, ensuring a comfortable stay regardless of the season. 
 
 With the added benefits of a terrace for guests to enjoy panoramic views, complimentary private parking, and seamless WiFi connectivity, Vila Dhimo caters to the needs of the contemporary traveler. 
 

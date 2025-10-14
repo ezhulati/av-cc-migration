@@ -1,4 +1,85 @@
----\ntitle: "Apartament CDS"\ndescription: "Discover the charm of seaside living at Apartament CDS, a prime beachfront property located just steps away from the pristine sands of Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453322729.jpg?k=9da7493a0fa7d3df2aa223a7c33b74380d7027fc9fa769a7869bbb5b2539407d&o=&hp=1"\nlanguage: en\nslug: apartament-cds\naddress: "Rruga Pavaresia L.13, Plazh Durres, Beach Front, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31467817\n  lng: 19.47092266\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 54\nratings:\n  overall: 9.6\n  location: 9.8\n  cleanliness: 9.3\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.4\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453322729.jpg?k=9da7493a0fa7d3df2aa223a7c33b74380d7027fc9fa769a7869bbb5b2539407d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453313198.jpg?k=1ef7d9556a0c8746e66993c5ad7175db4057ea2e5449582d56226ca0c6fdec81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453310618.jpg?k=871a404bc9e56b349ffdf2a077ed92f85b9b9f66a49fdf021d09e65f02ab5885&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453309535.jpg?k=dc5183a3450e7f878cf9c7a0296ba6b5a5423810d77f614c58826f0f4afb8977&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453306729.jpg?k=87d8c155dd2cd89de0ca1832ad4195bd78b9290ae9b0986cf6e78c8957fcb010&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453314500.jpg?k=e96c93a8ff98e4a10da4fff9647194e40128800504b7a9b7335fc281f9813be7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453313211.jpg?k=2ded2f21b88756d8de9b51f7f27d8c1a676235ffdc129aa0d62e63dc9a2b642b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453307740.jpg?k=9577f6cb22e117fab9cc92eb666aaa45bf8d6864db3af4ea5627f2f0150d4994&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453308788.jpg?k=7b7015d69f1a4ecefd32e06bf819e70b7480acb8b599b5c9796f6211dad84f9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453308850.jpg?k=694691acae784aa45a6547ff7e5f7aa939f95706ac833ffd17bd15253f3c2bfb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453309010.jpg?k=4dd4b7a73f7b9f64bfdac53db1449cc138a0cbca20871d0f6eb2ccf3b68d7d08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453309557.jpg?k=97f9d08a6439ac1d80cd53214f6fd1fcdf0ea8fd713a6d6cea312132ee9282ad&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Gloria Restorant 100 m"\n  - "Niku Restorant 150 m"\nnearbyBeaches:\n  - "Durres Beach 10 m"\n  - "Currila Beach 2.2 km"\n  - "Kallmi Beach 3.2 km"\n  - "West End Beach 4.2 km"\n  - "Shkëmbi i Kavajës Beach 4.5 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 1.9 km"\n  - "Sheshi Demokracia 1.9 km"\n  - "Yje Dhe Hena 2 km"\n  - "Sotir Noka 2.1 km"\n  - "Durres Amphiteatre 2.2 km"\n  - "1. Maj 2.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nreviews:\n  - name: "Giedrius"\n    country: "Lithuania"\n    text: "“The apartment is in a great location, next to the beach, supermarkets, restaurants. The host was very kind and helpful, he answered all of our questions and we communicated during all of my stay. Apartment is clean, you can find all basic...”"\n  - name: "Phil"\n    country: "United Kingdom"\n    text: "“Clean tidy apartment, right on the beach, Yuli the host was really helpful too”"\n  - name: "Aleksandar"\n    country: "North Macedonia"\n    text: "“Perfect combination for what you get ,and what you pay.Location is close to everything, beach front,and million dollars view from the terrace.”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-costa-del-sol.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nApartament CDS stands out for its generous amenities, including complimentary WiFi and on-site parking, ensuring a hassle-free stay for every guest. The property prides itself on being a smoke-free environment, providing a clean and healthy atmosphere for visitors.
+---
+title: "Apartament CDS"
+description: "Discover the charm of seaside living at Apartament CDS, a prime beachfront property located just steps away from the pristine sands of Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453322729.jpg?k=9da7493a0fa7d3df2aa223a7c33b74380d7027fc9fa769a7869bbb5b2539407d&o=&hp=1"
+language: en
+slug: apartament-cds
+address: "Rruga Pavaresia L.13, Plazh Durres, Beach Front, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31467817
+  lng: 19.47092266
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 54
+ratings:
+  overall: 9.6
+  location: 9.8
+  cleanliness: 9.3
+  facilities: 9.2
+  value: 9.5
+  comfort: 9.4
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453322729.jpg?k=9da7493a0fa7d3df2aa223a7c33b74380d7027fc9fa769a7869bbb5b2539407d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453313198.jpg?k=1ef7d9556a0c8746e66993c5ad7175db4057ea2e5449582d56226ca0c6fdec81&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453310618.jpg?k=871a404bc9e56b349ffdf2a077ed92f85b9b9f66a49fdf021d09e65f02ab5885&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453309535.jpg?k=dc5183a3450e7f878cf9c7a0296ba6b5a5423810d77f614c58826f0f4afb8977&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453306729.jpg?k=87d8c155dd2cd89de0ca1832ad4195bd78b9290ae9b0986cf6e78c8957fcb010&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453314500.jpg?k=e96c93a8ff98e4a10da4fff9647194e40128800504b7a9b7335fc281f9813be7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453313211.jpg?k=2ded2f21b88756d8de9b51f7f27d8c1a676235ffdc129aa0d62e63dc9a2b642b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453307740.jpg?k=9577f6cb22e117fab9cc92eb666aaa45bf8d6864db3af4ea5627f2f0150d4994&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453308788.jpg?k=7b7015d69f1a4ecefd32e06bf819e70b7480acb8b599b5c9796f6211dad84f9f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453308850.jpg?k=694691acae784aa45a6547ff7e5f7aa939f95706ac833ffd17bd15253f3c2bfb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453309010.jpg?k=4dd4b7a73f7b9f64bfdac53db1449cc138a0cbca20871d0f6eb2ccf3b68d7d08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453309557.jpg?k=97f9d08a6439ac1d80cd53214f6fd1fcdf0ea8fd713a6d6cea312132ee9282ad&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Gloria Restorant 100 m"
+  - "Niku Restorant 150 m"
+nearbyBeaches:
+  - "Durres Beach 10 m"
+  - "Currila Beach 2.2 km"
+  - "Kallmi Beach 3.2 km"
+  - "West End Beach 4.2 km"
+  - "Shkëmbi i Kavajës Beach 4.5 km"
+whatsNearby:
+  - "Bekimi 1.6 km"
+  - "Wine Dhe Pooh 1.9 km"
+  - "Sheshi Demokracia 1.9 km"
+  - "Yje Dhe Hena 2 km"
+  - "Sotir Noka 2.1 km"
+  - "Durres Amphiteatre 2.2 km"
+  - "1. Maj 2.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+reviews:
+  - name: "Giedrius"
+    country: "Lithuania"
+    text: "“The apartment is in a great location, next to the beach, supermarkets, restaurants. The host was very kind and helpful, he answered all of our questions and we communicated during all of my stay. Apartment is clean, you can find all basic...”"
+  - name: "Phil"
+    country: "United Kingdom"
+    text: "“Clean tidy apartment, right on the beach, Yuli the host was really helpful too”"
+  - name: "Aleksandar"
+    country: "North Macedonia"
+    text: "“Perfect combination for what you get ,and what you pay.Location is close to everything, beach front,and million dollars view from the terrace.”"
+bookingURL: "https://www.booking.com/hotel/al/apartament-costa-del-sol.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Apartament CDS stands out for its generous amenities, including complimentary WiFi and on-site parking, ensuring a hassle-free stay for every guest. The property prides itself on being a smoke-free environment, providing a clean and healthy atmosphere for visitors.
 
 Guests will find themselves enveloped in comfort within the spacious two-bedroom apartment. The accommodation boasts a well-appointed bathroom, complete with fresh bed linen and towels. Entertainment is readily available through a flat-screen TV equipped with streaming services, perfect for relaxing evenings in. The dining area and fully equipped kitchen offer all the necessities for home-cooked meals, while the balcony presents breathtaking sea views, inviting guests to unwind and soak in the tranquil surroundings.
 

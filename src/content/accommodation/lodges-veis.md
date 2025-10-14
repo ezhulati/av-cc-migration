@@ -1,5 +1,85 @@
----\ntitle: "Lodges VEIS"\ndescription: "Lodges VEIS emerges as a serene retreat in the picturesque landscape of Kamenicë, Korçë County, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410424823.jpg?k=3c5f773bef4e8cb360949a88a0d33f06921e2990a7d0b6dfbe11e3d5a886bb99&o=&hp=1"\nlanguage: en\nslug: lodges-veis\naddress: "40°31'48.1\"N 20°43'56.6\"E, 7017 Kamenicë, Albania"\ncity: "Kamenicë"\nlocation: "Kamenicë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.53041425\n  lng: 20.73237265\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 38\nratings:\n  overall: 9.5\n  location: 8.8\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.7\n  comfort: 9.5\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410424823.jpg?k=3c5f773bef4e8cb360949a88a0d33f06921e2990a7d0b6dfbe11e3d5a886bb99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040448.jpg?k=2267ea012492e47239b2b40154a8b85a159a723c4e2f2953abc90d29ae5db3e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040450.jpg?k=8608bfda9e6b5ed5c9c3f9c7cf128de31e51a78aa9112722b083f17ac84fe32f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040466.jpg?k=72110833fc653a6131a4252fc6463a5be7312086cead0f9c2b2e8846f0b91e01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040462.jpg?k=b63fe3527c386258f18beff4a124ee66a9973517351259b94b267a9e48e1a83e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370340946.jpg?k=643b83a3d346c745ac7bb64b14ab88ade89b807fd0df9c65208e0b00999f9a7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040454.jpg?k=d5054e3aaa2a3ee31889edfa51f1d52dc77da3514abdea91d9774bb7ae6c18e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040458.jpg?k=93d4c4cdb889f28db995d2f8e823a2d6cde7fe99648c5a7122ac74e964e4d346&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383094867.jpg?k=052fce2b726572b48e84c9f3e644d6a20acabdfa35fd7c04e42c76693fd49f4d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Restorant Kamenica 200 m"\n  - "Rosicat Boboshtice 3.7 km"\nwhatsNearby:\n  - "Parku Vangjush Mio 10 km"\n  - "Parku Rinia 10 km"\n  - "Sheshi Patriku Joasaf 10 km"\n  - "Parku Themistokli Gërmenji 11 km"\n  - "Field of Tears 11 km"\n  - "Parku Rinia 12 km"\n  - "Sheshi Panxhar 12 km"\n  - "Sheshi Koço Plaku 18 km"\nairports:\n  - "Kastoria National Airport 46 km"\n  - "Ohrid Airport 71 km"\n  - "Ioannina Airport 92 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Ciobanu"\n    country: "Romania"\n    text: "“It was clean and warm (we loved the fireplace), and the hospitality of the owner(she is so positive). The house is cozy, big, and comfortable. We will be back! That is for sure!”"\n  - name: "Nikos"\n    country: "Greece"\n    text: "“Wonderful wooden house, very clean and comfortable in a very nice and quiet village.We loved the fireplace and the terrace but most of all the hospitality of the owners who treated us local wine and cheese and made us feel like home.We will...”"\n  - name: "Tobias"\n    country: "Germany"\n    text: "“really beautiful lodge with everything you need.
-the mother was so kind and helped me thru my difficult journey. i took a wrong way and got stuck. But she helped me to solve this. She also took care that i felt welcomed. A really peaceful place in...”"\nbookingURL: "https://www.booking.com/hotel/al/lodges-veis.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodation, situated on the ground floor for easy access, features a cozy bedroom equipped with a flat-screen TV and a kitchenette that comes fully stocked with modern appliances including an oven, toaster, washing machine, fridge, and stovetop. The provision of bed linen, towels, and laundry service underscores the property's commitment to guest comfort.
+---
+title: "Lodges VEIS"
+description: "Lodges VEIS emerges as a serene retreat in the picturesque landscape of Kamenicë, Korçë County, offering guests a unique blend of comfort and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410424823.jpg?k=3c5f773bef4e8cb360949a88a0d33f06921e2990a7d0b6dfbe11e3d5a886bb99&o=&hp=1"
+language: en
+slug: lodges-veis
+address: "40°31'48.1\"N 20°43'56.6\"E, 7017 Kamenicë, Albania"
+city: "Kamenicë"
+location: "Kamenicë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.53041425
+  lng: 20.73237265
+price: "US$22"
+priceFrom: 22
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 38
+ratings:
+  overall: 9.5
+  location: 8.8
+  cleanliness: 9.7
+  facilities: 9.4
+  value: 9.7
+  comfort: 9.5
+  staff: 9.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410424823.jpg?k=3c5f773bef4e8cb360949a88a0d33f06921e2990a7d0b6dfbe11e3d5a886bb99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040448.jpg?k=2267ea012492e47239b2b40154a8b85a159a723c4e2f2953abc90d29ae5db3e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040450.jpg?k=8608bfda9e6b5ed5c9c3f9c7cf128de31e51a78aa9112722b083f17ac84fe32f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040466.jpg?k=72110833fc653a6131a4252fc6463a5be7312086cead0f9c2b2e8846f0b91e01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040462.jpg?k=b63fe3527c386258f18beff4a124ee66a9973517351259b94b267a9e48e1a83e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370340946.jpg?k=643b83a3d346c745ac7bb64b14ab88ade89b807fd0df9c65208e0b00999f9a7c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040454.jpg?k=d5054e3aaa2a3ee31889edfa51f1d52dc77da3514abdea91d9774bb7ae6c18e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383040458.jpg?k=93d4c4cdb889f28db995d2f8e823a2d6cde7fe99648c5a7122ac74e964e4d346&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383094867.jpg?k=052fce2b726572b48e84c9f3e644d6a20acabdfa35fd7c04e42c76693fd49f4d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom House"
+nearbyRestaurants:
+  - "Restorant Kamenica 200 m"
+  - "Rosicat Boboshtice 3.7 km"
+whatsNearby:
+  - "Parku Vangjush Mio 10 km"
+  - "Parku Rinia 10 km"
+  - "Sheshi Patriku Joasaf 10 km"
+  - "Parku Themistokli Gërmenji 11 km"
+  - "Field of Tears 11 km"
+  - "Parku Rinia 12 km"
+  - "Sheshi Panxhar 12 km"
+  - "Sheshi Koço Plaku 18 km"
+airports:
+  - "Kastoria National Airport 46 km"
+  - "Ohrid Airport 71 km"
+  - "Ioannina Airport 92 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Ciobanu"
+    country: "Romania"
+    text: "“It was clean and warm (we loved the fireplace), and the hospitality of the owner(she is so positive). The house is cozy, big, and comfortable. We will be back! That is for sure!”"
+  - name: "Nikos"
+    country: "Greece"
+    text: "“Wonderful wooden house, very clean and comfortable in a very nice and quiet village.We loved the fireplace and the terrace but most of all the hospitality of the owners who treated us local wine and cheese and made us feel like home.We will...”"
+  - name: "Tobias"
+    country: "Germany"
+    text: "“really beautiful lodge with everything you need.
+the mother was so kind and helped me thru my difficult journey. i took a wrong way and got stuck. But she helped me to solve this. She also took care that i felt welcomed. A really peaceful place in...”"
+bookingURL: "https://www.booking.com/hotel/al/lodges-veis.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The accommodation, situated on the ground floor for easy access, features a cozy bedroom equipped with a flat-screen TV and a kitchenette that comes fully stocked with modern appliances including an oven, toaster, washing machine, fridge, and stovetop. The provision of bed linen, towels, and laundry service underscores the property's commitment to guest comfort.
 
 For those seeking moments of tranquility, the garden offers a peaceful haven to unwind. Additionally, the availability of a picnic area and the assurance of a 24-hour front desk service cater to both spontaneous outdoor dining and any guest inquiries or needs round the clock.
 

@@ -1,4 +1,81 @@
----\ntitle: "Home sweet Home 2 - Guest House"\ndescription: "Home Sweet Home 2 - Guest House emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542745.jpg?k=360e7510651f35759e4dc5f918acac3cc8cb101ededca42bce0acd3c6fc66cd1&o=&hp=1"\nlanguage: en\nslug: home-sweet-home-2-guest-house\naddress: "Rruga Loni Ligori Pallati Iliad SHPK Shkalla 3 Apartamenti 3, 1023 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.33168454\n  lng: 19.77769479\nprice: "US$16"\npriceFrom: 16\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 112\nratings:\n  overall: 7.8\n  location: 7.4\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 8.5\n  comfort: 7.5\n  staff: 8.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542745.jpg?k=360e7510651f35759e4dc5f918acac3cc8cb101ededca42bce0acd3c6fc66cd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502654105.jpg?k=718b03df0204644dfc22c98333be856ef0fc611c2a88eee21a87992df8432686&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502653868.jpg?k=7027f0c4a104276cce5bebbaf0437a8a7d4810bf2542816d797e300f2825a2fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502653694.jpg?k=fb9745b2573b0b9048b508b023d862a9c6c3e588bb8d1a1179de1f94303b53e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502653467.jpg?k=22237f5e33692957fc1755c3481d26696ecab60c804b2156786f3d6f53bf8c4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542753.jpg?k=615b0abf969c5aa1ca87b5aef2205bdbf7088acd7798dd70f51f1c4c418796cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344963845.jpg?k=0bc566e1471495e5258a28715490cebab062b8ddc03e8d49e211bfadafc81f35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542767.jpg?k=53e0b8a6e625f8aa9ff8d36ec35a06598d64bbb7aa5494f3c8074a843ab668b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344964740.jpg?k=847dd06a91b5c290c0159d4e2a57ba72b11ede0ab6f9e1d1f7d5a46adb05d0c1&o=&hp=1"\namenities:\n  - "Fast free WiFi (64 Mbps)"\nroomTypes:\n  - "Twin Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\nnearbyAttractions:\n  - "House of Leaves 3.3 km"\n  - "National Museum of History Albania 3.3 km"\n  - "Rinia Park 3.5 km"\n  - "Skanderbeg Square 3.5 km"\n  - "Former Residence of Enver Hoxha 3.5 km"\n  - "Clock Tower Tirana 3.5 km"\n  - "National Gallery of Arts Tirana 3.7 km"\n  - "Tanners' Bridge 4.1 km"\n  - "Grand Park of Tirana 4.6 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "Miri 8 m"\n  - "Restorant Piceri Il Bonçe 50 m"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 300 m"\n  - "Park Lojrash 350 m"\n  - "Sheshi Rekreativ Lord Bajron 1.4 km"\n  - "Sheshi Rekreativ Parku 1Km 1.6 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.6 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.7 km"\n  - "Sheshi Rekreativ Bajram Curri 2 km"\n  - "Sheshi Rekreativ Sali Butka 2 km"\n  - "Sheshi Xhuzepe Garibaldi 2.2 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 2.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/home-sweet-home-2-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nUpon arrival, guests are greeted with a range of facilities designed to make their stay as seamless as possible, including a terrace that offers a tranquil space to unwind, complimentary WiFi to keep guests connected, and the convenience of a lift. The property also boasts a shared kitchen, allowing visitors to prepare their meals in a cozy, communal setting. Each accommodation option at Home Sweet Home 2 - Guest House is thoughtfully appointed, featuring inner courtyard views that can be enjoyed from the privacy of a balcony, enhancing the sense of retreat.
+---
+title: "Home sweet Home 2 - Guest House"
+description: "Home Sweet Home 2 - Guest House emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542745.jpg?k=360e7510651f35759e4dc5f918acac3cc8cb101ededca42bce0acd3c6fc66cd1&o=&hp=1"
+language: en
+slug: home-sweet-home-2-guest-house
+address: "Rruga Loni Ligori Pallati Iliad SHPK Shkalla 3 Apartamenti 3, 1023 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.33168454
+  lng: 19.77769479
+price: "US$16"
+priceFrom: 16
+starRating: 3
+rating: 7.8
+ratingWords: "Good"
+numberOfReviews: 112
+ratings:
+  overall: 7.8
+  location: 7.4
+  cleanliness: 7.5
+  facilities: 7.5
+  value: 8.5
+  comfort: 7.5
+  staff: 8.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542745.jpg?k=360e7510651f35759e4dc5f918acac3cc8cb101ededca42bce0acd3c6fc66cd1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502654105.jpg?k=718b03df0204644dfc22c98333be856ef0fc611c2a88eee21a87992df8432686&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502653868.jpg?k=7027f0c4a104276cce5bebbaf0437a8a7d4810bf2542816d797e300f2825a2fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502653694.jpg?k=fb9745b2573b0b9048b508b023d862a9c6c3e588bb8d1a1179de1f94303b53e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502653467.jpg?k=22237f5e33692957fc1755c3481d26696ecab60c804b2156786f3d6f53bf8c4e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542753.jpg?k=615b0abf969c5aa1ca87b5aef2205bdbf7088acd7798dd70f51f1c4c418796cc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344963845.jpg?k=0bc566e1471495e5258a28715490cebab062b8ddc03e8d49e211bfadafc81f35&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542767.jpg?k=53e0b8a6e625f8aa9ff8d36ec35a06598d64bbb7aa5494f3c8074a843ab668b8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344964740.jpg?k=847dd06a91b5c290c0159d4e2a57ba72b11ede0ab6f9e1d1f7d5a46adb05d0c1&o=&hp=1"
+amenities:
+  - "Fast free WiFi (64 Mbps)"
+roomTypes:
+  - "Twin Room with Private Bathroom"
+  - "Double Room with Private Bathroom"
+nearbyAttractions:
+  - "House of Leaves 3.3 km"
+  - "National Museum of History Albania 3.3 km"
+  - "Rinia Park 3.5 km"
+  - "Skanderbeg Square 3.5 km"
+  - "Former Residence of Enver Hoxha 3.5 km"
+  - "Clock Tower Tirana 3.5 km"
+  - "National Gallery of Arts Tirana 3.7 km"
+  - "Tanners' Bridge 4.1 km"
+  - "Grand Park of Tirana 4.6 km"
+  - "Bunk'Art 1 Museum 7 km"
+nearbyRestaurants:
+  - "Miri 8 m"
+  - "Restorant Piceri Il Bonçe 50 m"
+whatsNearby:
+  - "Shesh Rekreativ Yzberisht 300 m"
+  - "Park Lojrash 350 m"
+  - "Sheshi Rekreativ Lord Bajron 1.4 km"
+  - "Sheshi Rekreativ Parku 1Km 1.6 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 1.6 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.7 km"
+  - "Sheshi Rekreativ Bajram Curri 2 km"
+  - "Sheshi Rekreativ Sali Butka 2 km"
+  - "Sheshi Xhuzepe Garibaldi 2.2 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 2.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 9 km"
+  - "Ohrid Airport 82 km"
+bookingURL: "https://www.booking.com/hotel/al/home-sweet-home-2-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Upon arrival, guests are greeted with a range of facilities designed to make their stay as seamless as possible, including a terrace that offers a tranquil space to unwind, complimentary WiFi to keep guests connected, and the convenience of a lift. The property also boasts a shared kitchen, allowing visitors to prepare their meals in a cozy, communal setting. Each accommodation option at Home Sweet Home 2 - Guest House is thoughtfully appointed, featuring inner courtyard views that can be enjoyed from the privacy of a balcony, enhancing the sense of retreat.
 
 The guest rooms are well-equipped with essentials such as a fridge, kitchenware, and a kettle, alongside modern comforts like a coffee machine. The attention to detail extends to the bathrooms, which come with complimentary toiletries, a bidet, and a hair dryer for a touch of home-like comfort. Selected rooms elevate the experience further with a fully equipped kitchen, catering to those who prefer a more self-sufficient stay. Comfort is paramount, with every unit providing fresh bed linen and towels to ensure a restful night's sleep.
 

@@ -1,4 +1,88 @@
----\ntitle: "Meliá Durrës Albania"\ndescription: "Meliá Durrës Albania emerges as a premier destination for travelers seeking unparalleled service and amenities in the heart of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066087.jpg?k=e48781ba6eeee7f94d0462688447ee931c539b95e83a195fc9038c2e9dd3e659&o=&hp=1"\nlanguage: en\nslug: meli-durr-s-albania\naddress: "Plazhi San Pietro, Gjiri i Lalezit Dürres, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.51808546\n  lng: 19.5240115\nprice: "US$116"\npriceFrom: 116\nstarRating: 5\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 268\nratings:\n  overall: 8.6\n  location: 8.4\n  cleanliness: 9.1\n  facilities: 9\n  value: 7.8\n  comfort: 8.9\n  staff: 8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066087.jpg?k=e48781ba6eeee7f94d0462688447ee931c539b95e83a195fc9038c2e9dd3e659&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066039.jpg?k=4f6f38c63f70b36f3b18c644b61bf0ca92362dc43148080f693bd303db40e9c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066101.jpg?k=bdeee18d73fd4201f29c4560ced6c809001438906f155acbd6f58a0610a424a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462810004.jpg?k=4b23598b63e08c3bb357db8e3fb45efc2447bb5115eb81657ccc81d6d0348e82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462355124.jpg?k=21f488312f0d78e61d761f0b48b7af73760905d81c4357ff00e5023043914889&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462355740.jpg?k=ac3c242e4b053bc43a3981f94e61d1e327077474135b632e58865536447e90a4&o=&hp=1"\namenities:\n  - "6 swimming pools"\n  - "Airport shuttle"\n  - "Spa and wellness centre"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Facilities for disabled guests"\n  - "Bar"\n  - "Beachfront"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Room Garden View"\n  - "Deluxe Infinity Pool View"\n  - "Deluxe Infinity Pool View with Private Garden"\n  - "Deluxe Frontal Sea View"\n  - "The Level Infinity Pool with Garden"\n  - "The Level Sea View"\n  - "The Level Beachside"\n  - "The Level Junior Suite Beachside"\n  - "The Level Grand Suite Beachside"\nnearbyRestaurants:\n  - "Cavalli Beach 550 m"\n  - "Coco Mangos 650 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 700 m"\n  - "Rodoni Beach 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 19 km"\n  - "Podgorica Airport 95 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Lejla"\n    country: "Albania"\n    text: "“The Melia hotel is beautifully made. Breakfast was very good, as well as amenities, like pool, jakuzzi, spa etc.”"\n  - name: "Woyengi-imomoemi"\n    country: "United Kingdom"\n    text: "“It’s just amazing, so many things to do. Only issue is our timing wasn’t so great as we went in the off peak period and not everything was open to do . Best to go in summer”"\n  - name: "Doris"\n    country: "Albania"\n    text: "“Huge resort, very luxurious, the indoor pool was great, a warmer water would be better. Everything else just fine. The room was fantastic very comfortable. 9/10”"\nbookingURL: "https://www.booking.com/hotel/al/melia-durres-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Resort Experience"\nbestCategories: "Resort Experience"\ncategory: "Resort Experience"\n---\n\nGuests are welcomed into a world of comfort and elegance, with each air-conditioned room equipped with modern conveniences such as a desk, kettle, minibar, safety deposit box, flat-screen TV, and a private bathroom complete with a shower. Attention to detail is evident, with high-quality bed linen and towels provided to enhance the stay.
+---
+title: "Meliá Durrës Albania"
+description: "Meliá Durrës Albania emerges as a premier destination for travelers seeking unparalleled service and amenities in the heart of Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066087.jpg?k=e48781ba6eeee7f94d0462688447ee931c539b95e83a195fc9038c2e9dd3e659&o=&hp=1"
+language: en
+slug: meli-durr-s-albania
+address: "Plazhi San Pietro, Gjiri i Lalezit Dürres, 2000 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.51808546
+  lng: 19.5240115
+price: "US$116"
+priceFrom: 116
+starRating: 5
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 268
+ratings:
+  overall: 8.6
+  location: 8.4
+  cleanliness: 9.1
+  facilities: 9
+  value: 7.8
+  comfort: 8.9
+  staff: 8
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066087.jpg?k=e48781ba6eeee7f94d0462688447ee931c539b95e83a195fc9038c2e9dd3e659&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066039.jpg?k=4f6f38c63f70b36f3b18c644b61bf0ca92362dc43148080f693bd303db40e9c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066101.jpg?k=bdeee18d73fd4201f29c4560ced6c809001438906f155acbd6f58a0610a424a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462810004.jpg?k=4b23598b63e08c3bb357db8e3fb45efc2447bb5115eb81657ccc81d6d0348e82&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462355124.jpg?k=21f488312f0d78e61d761f0b48b7af73760905d81c4357ff00e5023043914889&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462355740.jpg?k=ac3c242e4b053bc43a3981f94e61d1e327077474135b632e58865536447e90a4&o=&hp=1"
+amenities:
+  - "6 swimming pools"
+  - "Airport shuttle"
+  - "Spa and wellness centre"
+  - "Fitness centre"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Facilities for disabled guests"
+  - "Bar"
+  - "Beachfront"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Room Garden View"
+  - "Deluxe Infinity Pool View"
+  - "Deluxe Infinity Pool View with Private Garden"
+  - "Deluxe Frontal Sea View"
+  - "The Level Infinity Pool with Garden"
+  - "The Level Sea View"
+  - "The Level Beachside"
+  - "The Level Junior Suite Beachside"
+  - "The Level Grand Suite Beachside"
+nearbyRestaurants:
+  - "Cavalli Beach 550 m"
+  - "Coco Mangos 650 m"
+nearbyBeaches:
+  - "Lalëz Bay Beach 700 m"
+  - "Rodoni Beach 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 19 km"
+  - "Podgorica Airport 95 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Lejla"
+    country: "Albania"
+    text: "“The Melia hotel is beautifully made. Breakfast was very good, as well as amenities, like pool, jakuzzi, spa etc.”"
+  - name: "Woyengi-imomoemi"
+    country: "United Kingdom"
+    text: "“It’s just amazing, so many things to do. Only issue is our timing wasn’t so great as we went in the off peak period and not everything was open to do . Best to go in summer”"
+  - name: "Doris"
+    country: "Albania"
+    text: "“Huge resort, very luxurious, the indoor pool was great, a warmer water would be better. Everything else just fine. The room was fantastic very comfortable. 9/10”"
+bookingURL: "https://www.booking.com/hotel/al/melia-durres-albania.en-gb.html?aid=8035640"
+bestFor: "Best for Resort Experience"
+bestCategories: "Resort Experience"
+category: "Resort Experience"
+---
+
+Guests are welcomed into a world of comfort and elegance, with each air-conditioned room equipped with modern conveniences such as a desk, kettle, minibar, safety deposit box, flat-screen TV, and a private bathroom complete with a shower. Attention to detail is evident, with high-quality bed linen and towels provided to enhance the stay.
 
 Culinary delights await at the hotel's restaurant, where a menu of Italian, Mediterranean, and local cuisine is expertly prepared. For those with specific dietary needs, vegetarian, dairy-free, and vegan options are readily available, ensuring a satisfying dining experience for all.
 

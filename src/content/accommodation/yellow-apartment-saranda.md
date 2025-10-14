@@ -1,4 +1,76 @@
----\ntitle: "Yellow Apartment Saranda"\ndescription: "Yellow Apartment Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235893.jpg?k=1301b4afd9a18d97fa930079605b0435fe95ae97d0df8080725fea9b7706109c&o=&hp=1"\nlanguage: en\nslug: yellow-apartment-saranda\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8670485\n  lng: 20.01918919\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235893.jpg?k=1301b4afd9a18d97fa930079605b0435fe95ae97d0df8080725fea9b7706109c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235913.jpg?k=eb01a6b5a38925f48f760e0f5d2a0dface13e97e1396ebf0b5e17da159479712&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235950.jpg?k=1a8eeac8d9c90054e823efb15b87a26328e0bf5c19b15d6cb485dd51e4180f6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235942.jpg?k=bd3c7c868e071d534828faa27a751ba77a995efa7b795abb392a1daaa518d51a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235959.jpg?k=0ab7a57fb9947fad3cb71582fd43cd5dd226ef13c6c5124f6c85700f5e6794e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235919.jpg?k=55fbdbb547664a278dc1f443eb1892833636aebdbd68a7a75f85f6d1aef8fcd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235916.jpg?k=cf7774978d328dbba09af7c1f9fde76b55ac5b0ac6fb612d0ce052dc05cb45e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235908.jpg?k=812366f1bd306d654ac663b88773c9f115f54d98cf3ac6895f7e128c0f0d0209&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235899.jpg?k=1c2e95b9f1e15fecd45b40b344ed57b98b39abdccdc0b522bfd23850c4c793c9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Fast Food Mario 200 m"\n  - "Arjas Fish Restorant 250 m"\nnearbyBeaches:\n  - "Maestral Beach 250 m"\n  - "La Petite Beach 400 m"\n  - "Saranda City Beach 700 m"\n  - "VIP Beach 900 m"\n  - "Santa Quaranta Beach 950 m"\nwhatsNearby:\n  - "Parc National de Butrint 1 km"\n  - "Butrint National Park 1.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Nicola"\n    country: "Italy"\n    text: "“Ottima struttura a 10 minuti a piedi dal centro di Saranda, pulito e spazioso. Parcheggio disponibile fronte struttura. Consigliato”"\nbookingURL: "https://www.booking.com/hotel/al/yellow-apartment-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment boasts a generous layout, featuring two well-appointed bedrooms, a bathroom stocked with essential linens and towels, and a living space designed for relaxation and entertainment, including a flat-screen TV equipped with streaming services. The inclusion of a fully equipped kitchenette and a dining area provides guests with the freedom to craft their meals, which can be enjoyed on the balcony offering panoramic sea views and a refreshing cityscape.
+---
+title: "Yellow Apartment Saranda"
+description: "Yellow Apartment Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235893.jpg?k=1301b4afd9a18d97fa930079605b0435fe95ae97d0df8080725fea9b7706109c&o=&hp=1"
+language: en
+slug: yellow-apartment-saranda
+address: "Rruga Butrinti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.8670485
+  lng: 20.01918919
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235893.jpg?k=1301b4afd9a18d97fa930079605b0435fe95ae97d0df8080725fea9b7706109c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235913.jpg?k=eb01a6b5a38925f48f760e0f5d2a0dface13e97e1396ebf0b5e17da159479712&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235950.jpg?k=1a8eeac8d9c90054e823efb15b87a26328e0bf5c19b15d6cb485dd51e4180f6b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235942.jpg?k=bd3c7c868e071d534828faa27a751ba77a995efa7b795abb392a1daaa518d51a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235959.jpg?k=0ab7a57fb9947fad3cb71582fd43cd5dd226ef13c6c5124f6c85700f5e6794e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235919.jpg?k=55fbdbb547664a278dc1f443eb1892833636aebdbd68a7a75f85f6d1aef8fcd9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235916.jpg?k=cf7774978d328dbba09af7c1f9fde76b55ac5b0ac6fb612d0ce052dc05cb45e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235908.jpg?k=812366f1bd306d654ac663b88773c9f115f54d98cf3ac6895f7e128c0f0d0209&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235899.jpg?k=1c2e95b9f1e15fecd45b40b344ed57b98b39abdccdc0b522bfd23850c4c793c9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Fast Food Mario 200 m"
+  - "Arjas Fish Restorant 250 m"
+nearbyBeaches:
+  - "Maestral Beach 250 m"
+  - "La Petite Beach 400 m"
+  - "Saranda City Beach 700 m"
+  - "VIP Beach 900 m"
+  - "Santa Quaranta Beach 950 m"
+whatsNearby:
+  - "Parc National de Butrint 1 km"
+  - "Butrint National Park 1.9 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Nicola"
+    country: "Italy"
+    text: "“Ottima struttura a 10 minuti a piedi dal centro di Saranda, pulito e spazioso. Parcheggio disponibile fronte struttura. Consigliato”"
+bookingURL: "https://www.booking.com/hotel/al/yellow-apartment-saranda.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment boasts a generous layout, featuring two well-appointed bedrooms, a bathroom stocked with essential linens and towels, and a living space designed for relaxation and entertainment, including a flat-screen TV equipped with streaming services. The inclusion of a fully equipped kitchenette and a dining area provides guests with the freedom to craft their meals, which can be enjoyed on the balcony offering panoramic sea views and a refreshing cityscape.
 
 For those who value privacy, the apartment ensures a secluded experience with a private entrance. Additionally, the convenience of an on-site minimarket adds to the appeal, allowing for easy access to necessities without the need to venture far.
 

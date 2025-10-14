@@ -14,8 +14,6 @@ seo:
   robots: "index"
   metaTitle: "Communist Albania (1944-1991) - Life Behind the Iron Curtain"
   metaDescription: "Albania's Communist rule modernized the nation in some spheres but also unleashed repression, backwardness and isolation until its edifice crumbled in 1991."
-  focusKeyword: "Albania's Communist Era"
-  robots: "index"
 ---
 
 ## Beyond the Iron Curtain

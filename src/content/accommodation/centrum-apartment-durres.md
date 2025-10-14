@@ -1,4 +1,68 @@
----\ntitle: "Centrum Apartment Durres"\ndescription: "Centrum Apartment Durres emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations complemented by the charm of a private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518411721.jpg?k=204573db7023ec3dac4d67159f90268519f35d1c32e64957270975db0387f15b&o=&hp=1"\nlanguage: en\nslug: centrum-apartment-durres\naddress: "Rruga Doganes Third floor, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31341753\n  lng: 19.44974423\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518411721.jpg?k=204573db7023ec3dac4d67159f90268519f35d1c32e64957270975db0387f15b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411744.jpg?k=f6ffb95f131b5b4c6e10c46cec10f1bf3c998e84105089e7d70dbcaf8f841a50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411748.jpg?k=b892835d212d9525bf54056665fd30871befca4b842f91ffcfb3a2a27996e682&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411751.jpg?k=b1382b421267ea21f8311dbf3dc44195e300b03b41124ded5a01f29b5ce59d78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411753.jpg?k=c12b3ceef012b6d0067a11014cbbb6b504dfe53f79bda853f9b1460dc61d2758&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/landmark/600x400/182768.webp?k=c8d370d0c1408961b38048497e30be7a98ea4bfd51d1b088a5971646e1e2bc93&o="\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ok 20 m"\n  - "Trattoria Pane e Pomodoro Durrës 50 m"\nnearbyBeaches:\n  - "Currila Beach 600 m"\n  - "Durres Beach 1.5 km"\n  - "Kallmi Beach 1.6 km"\n  - "West End Beach 2.6 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Wine Dhe Pooh 250 m"\n  - "Yje Dhe Hena 350 m"\n  - "Durres Amphiteatre 400 m"\n  - "Sheshi Demokracia 500 m"\n  - "1. Maj 600 m"\n  - "Sotir Noka 850 m"\n  - "Bekimi 2.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\nbookingURL: "https://www.booking.com/hotel/al/centrum-apartment-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis two-bedroom haven doesn't just promise a place to rest; it delivers a home away from home with its array of amenities. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, a washing machine for longer stays, and a fully equipped kitchen that even boasts a minibar, ensuring that every need is met with style and ease.
+---
+title: "Centrum Apartment Durres"
+description: "Centrum Apartment Durres emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations complemented by the charm of a private balcony."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518411721.jpg?k=204573db7023ec3dac4d67159f90268519f35d1c32e64957270975db0387f15b&o=&hp=1"
+language: en
+slug: centrum-apartment-durres
+address: "Rruga Doganes Third floor, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31341753
+  lng: 19.44974423
+price: "US$86"
+priceFrom: 86
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518411721.jpg?k=204573db7023ec3dac4d67159f90268519f35d1c32e64957270975db0387f15b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411744.jpg?k=f6ffb95f131b5b4c6e10c46cec10f1bf3c998e84105089e7d70dbcaf8f841a50&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411748.jpg?k=b892835d212d9525bf54056665fd30871befca4b842f91ffcfb3a2a27996e682&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411751.jpg?k=b1382b421267ea21f8311dbf3dc44195e300b03b41124ded5a01f29b5ce59d78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/518411753.jpg?k=c12b3ceef012b6d0067a11014cbbb6b504dfe53f79bda853f9b1460dc61d2758&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/landmark/600x400/182768.webp?k=c8d370d0c1408961b38048497e30be7a98ea4bfd51d1b088a5971646e1e2bc93&o="
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Ok 20 m"
+  - "Trattoria Pane e Pomodoro Durrës 50 m"
+nearbyBeaches:
+  - "Currila Beach 600 m"
+  - "Durres Beach 1.5 km"
+  - "Kallmi Beach 1.6 km"
+  - "West End Beach 2.6 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "Wine Dhe Pooh 250 m"
+  - "Yje Dhe Hena 350 m"
+  - "Durres Amphiteatre 400 m"
+  - "Sheshi Demokracia 500 m"
+  - "1. Maj 600 m"
+  - "Sotir Noka 850 m"
+  - "Bekimi 2.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 24 km"
+bookingURL: "https://www.booking.com/hotel/al/centrum-apartment-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This two-bedroom haven doesn't just promise a place to rest; it delivers a home away from home with its array of amenities. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, a washing machine for longer stays, and a fully equipped kitchen that even boasts a minibar, ensuring that every need is met with style and ease.
 
 For those looking to explore beyond the beach, the apartment is not far from some of the area's notable attractions. The Dajti Ekspres Cable Car offers breathtaking views and is located 42 km away, while the Rock of Kavaje, a site of natural beauty, is just 11 km from the doorstep. Moreover, the historical Skanderbeg Square is within a manageable distance, offering a glimpse into the rich culture and history of the region.
 

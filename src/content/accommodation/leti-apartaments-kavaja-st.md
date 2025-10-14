@@ -1,6 +1,79 @@
----\ntitle: "LETI APARTAMENTS KAVAJA ST"\ndescription: "LETI APARTAMENTS KAVAJA ST emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"\nlanguage: en\nslug: leti-apartaments-kavaja-st\naddress: "Rruga e Kavajës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32772036\n  lng: 19.81271085\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 12\nratings:\n  overall: 8.9\n  location: 9.4\n  cleanliness: 8.9\n  facilities: 8.4\n  value: 8.9\n  comfort: 9.1\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397647193.jpg?k=536da923b0ff884290f6ba64ef437c7d60bb94b537849d7e1634c7097cf06796&o=&hp=1"\namenities:\n  - "Private parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 850 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Vila 77 50 m"\n  - "Royal Fish&Chicken 50 m"\nwhatsNearby:\n  - "Sheshi Paris 250 m"\n  - "House of Leaves 350 m"\n  - "National Museum of History Albania 450 m"\n  - "Sheshi Skënderbej 450 m"\n  - "Parku Europa 550 m"\n  - "Skanderbeg Square 550 m"\n  - "Rinia Park 550 m"\n  - "Clock Tower Tirana 600 m"\n  - "Parku Rinia 600 m"\n  - "National Gallery of Arts Tirana 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Hüseyin"\n    country: "Germany"\n    text: "“Super modern und sauber
+---
+title: "LETI APARTAMENTS KAVAJA ST"
+description: "LETI APARTAMENTS KAVAJA ST emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
+language: en
+slug: leti-apartaments-kavaja-st
+address: "Rruga e Kavajës, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32772036
+  lng: 19.81271085
+price: "US$51"
+priceFrom: 51
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 12
+ratings:
+  overall: 8.9
+  location: 9.4
+  cleanliness: 8.9
+  facilities: 8.4
+  value: 8.9
+  comfort: 9.1
+  staff: 8.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397647193.jpg?k=536da923b0ff884290f6ba64ef437c7d60bb94b537849d7e1634c7097cf06796&o=&hp=1"
+amenities:
+  - "Private parking"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 850 m"
+  - "Tanners' Bridge 1.1 km"
+  - "Grand Park of Tirana 2.1 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+nearbyRestaurants:
+  - "Vila 77 50 m"
+  - "Royal Fish&Chicken 50 m"
+whatsNearby:
+  - "Sheshi Paris 250 m"
+  - "House of Leaves 350 m"
+  - "National Museum of History Albania 450 m"
+  - "Sheshi Skënderbej 450 m"
+  - "Parku Europa 550 m"
+  - "Skanderbeg Square 550 m"
+  - "Rinia Park 550 m"
+  - "Clock Tower Tirana 600 m"
+  - "Parku Rinia 600 m"
+  - "National Gallery of Arts Tirana 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Hüseyin"
+    country: "Germany"
+    text: "“Super modern und sauber
 Besser ausgestattet als so manches Cityhotel
-Personal sehr freundlich”"\n  - name: "Jennifer"\n    country: "Germany"\n    text: "“Tolle geräumige Unterkunft in super Lage. 5min zum skënderbej square, Busstation um die Ecke und Einkaufsmöglichkeiten gut zu erreichen. Spontanes Anreisen war kein Problem. Preis-Leistung top.”"\nbookingURL: "https://www.booking.com/hotel/al/leti-apartaments-kavaja-st.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts air-conditioned living spaces, complete with a welcoming balcony that invites guests to unwind after a day of exploration. The interior is thoughtfully designed, featuring a fully equipped kitchen with modern appliances such as a microwave and fridge, ensuring that guests feel right at home. The living area, adorned with a flat-screen TV and comfortable seating, provides a perfect setting for relaxation, while the bathroom is well-appointed with a shower, catering to the needs of modern travelers.
+Personal sehr freundlich”"
+  - name: "Jennifer"
+    country: "Germany"
+    text: "“Tolle geräumige Unterkunft in super Lage. 5min zum skënderbej square, Busstation um die Ecke und Einkaufsmöglichkeiten gut zu erreichen. Spontanes Anreisen war kein Problem. Preis-Leistung top.”"
+bookingURL: "https://www.booking.com/hotel/al/leti-apartaments-kavaja-st.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself boasts air-conditioned living spaces, complete with a welcoming balcony that invites guests to unwind after a day of exploration. The interior is thoughtfully designed, featuring a fully equipped kitchen with modern appliances such as a microwave and fridge, ensuring that guests feel right at home. The living area, adorned with a flat-screen TV and comfortable seating, provides a perfect setting for relaxation, while the bathroom is well-appointed with a shower, catering to the needs of modern travelers.
 
 For those who prefer the convenience of preparing their own meals, a minimarket on the premises offers a selection of essentials. This adds an extra layer of ease for guests, making their stay even more comfortable.
 

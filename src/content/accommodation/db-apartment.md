@@ -1,4 +1,90 @@
----\ntitle: "DB Apartment"\ndescription: "DB Apartment emerges as a standout accommodation choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052639.jpg?k=bdf3744ab374ffdb4ebe40c25ac77655e71fa868fd803f4dbcec976ec3208a7e&o=&hp=1"\nlanguage: en\nslug: db-apartment\naddress: "Rruga Andon Zako Çajupi Ndertesa 9,Hyrja 17, Ap.3, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32072287\n  lng: 19.8127914\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 10\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.7\n  facilities: 9.2\n  value: 9.4\n  comfort: 9.7\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052639.jpg?k=bdf3744ab374ffdb4ebe40c25ac77655e71fa868fd803f4dbcec976ec3208a7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051992.jpg?k=fb63e548a571a042a7507fdb621fbd595466296b74366bc534c9b3d0319fe649&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173053044.jpg?k=3c003f49ca16ff7af05390813bbfaff1318b94ab952a23a7374b6af4dd6fb63a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052249.jpg?k=1fa8c9154231a810298c3bb818f4b6874bd81d303a3717739b3c6bce852028ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052435.jpg?k=af22105cdcc51a9b0319973cc5869ee1d6226b477c181f71472ff66353c23b45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343624139.jpg?k=bc7a00342a8192d77c2c7ced4c9189540510fdbe5ab31165878fbd71eb32c66d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051979.jpg?k=0655e103914d47c488dc8bb7bccca64d72257096b99d3e86060ed4aa0b9ab6fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052482.jpg?k=f8e131ac2621d7932ce05e7c7fb16c5a97c33814a27e6762d175e56aa57259ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173155664.jpg?k=e58134f4e70901894081f0b99ac21474e0fbb14e37f8906543c5f894112eb589&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051921.jpg?k=730f26b5993d16e9456cf6fd8af171778419468e83d3c6910774c7dd47119a44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051924.jpg?k=68c3535e0819cfced8c1e99a96bdea6078df35199ccce15d2dc8105f23b65fba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052287.jpg?k=abd824b205b70b573ea849016421668d388be955f35fe045478daa267a0ddadf&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 900 m"\n  - "Skanderbeg Square 950 m"\n  - "Clock Tower Tirana 950 m"\n  - "National Museum of History Albania 1 km"\n  - "Tanners' Bridge 1.3 km"\n  - "Grand Park of Tirana 1.4 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Tirana Times Library 10 m"\n  - "Izzy Living 30 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 300 m"\n  - "Former Residence of Enver Hoxha 400 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 550 m"\n  - "Shesh Rekreativ 600 m"\n  - "Sheshi Rekreativ Komuna e Parisit 650 m"\n  - "Rinia Park 650 m"\n  - "House of Leaves 750 m"\n  - "Parku Rinia 750 m"\n  - "Sheshi Rekreativ Piramida 800 m"\n  - "Parku I Madh I Tiranës (Grand Park) 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Bennett"\n    country: "United States"\n    text: "“Beautiful, antique-filled apartment in the best part of Tirana - like staying in a museum!”"\n  - name: "Mimoza"\n    country: "Italy"\n    text: "“Furniture, and all the particularities are antiques in the structure's environment.”"\n  - name: "Anonymous"\n    country: "Israel"\n    text: "“A unique spacious flat in a trendy area (yet very quiet). Very clean and well designed. Friendly and helpful hosts.”"\nbookingURL: "https://www.booking.com/hotel/al/db-studio-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment distinguishes itself with its commitment to providing a seamless stay, featuring complimentary WiFi accessible throughout the premises, a shared kitchen for culinary explorations, and a cozy lounge area for moments of relaxation. The establishment proudly upholds a non-smoking policy, further enhancing the quality of the guest experience, and is conveniently situated just 600 meters from the historical Former Residence of Enver Hoxha.
+---
+title: "DB Apartment"
+description: "DB Apartment emerges as a standout accommodation choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052639.jpg?k=bdf3744ab374ffdb4ebe40c25ac77655e71fa868fd803f4dbcec976ec3208a7e&o=&hp=1"
+language: en
+slug: db-apartment
+address: "Rruga Andon Zako Çajupi Ndertesa 9,Hyrja 17, Ap.3, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32072287
+  lng: 19.8127914
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 10
+ratings:
+  overall: 9.5
+  location: 9.7
+  cleanliness: 9.7
+  facilities: 9.2
+  value: 9.4
+  comfort: 9.7
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052639.jpg?k=bdf3744ab374ffdb4ebe40c25ac77655e71fa868fd803f4dbcec976ec3208a7e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051992.jpg?k=fb63e548a571a042a7507fdb621fbd595466296b74366bc534c9b3d0319fe649&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173053044.jpg?k=3c003f49ca16ff7af05390813bbfaff1318b94ab952a23a7374b6af4dd6fb63a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052249.jpg?k=1fa8c9154231a810298c3bb818f4b6874bd81d303a3717739b3c6bce852028ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052435.jpg?k=af22105cdcc51a9b0319973cc5869ee1d6226b477c181f71472ff66353c23b45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343624139.jpg?k=bc7a00342a8192d77c2c7ced4c9189540510fdbe5ab31165878fbd71eb32c66d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051979.jpg?k=0655e103914d47c488dc8bb7bccca64d72257096b99d3e86060ed4aa0b9ab6fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052482.jpg?k=f8e131ac2621d7932ce05e7c7fb16c5a97c33814a27e6762d175e56aa57259ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173155664.jpg?k=e58134f4e70901894081f0b99ac21474e0fbb14e37f8906543c5f894112eb589&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051921.jpg?k=730f26b5993d16e9456cf6fd8af171778419468e83d3c6910774c7dd47119a44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173051924.jpg?k=68c3535e0819cfced8c1e99a96bdea6078df35199ccce15d2dc8105f23b65fba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052287.jpg?k=abd824b205b70b573ea849016421668d388be955f35fe045478daa267a0ddadf&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 900 m"
+  - "Skanderbeg Square 950 m"
+  - "Clock Tower Tirana 950 m"
+  - "National Museum of History Albania 1 km"
+  - "Tanners' Bridge 1.3 km"
+  - "Grand Park of Tirana 1.4 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Tirana Times Library 10 m"
+  - "Izzy Living 30 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 300 m"
+  - "Former Residence of Enver Hoxha 400 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 550 m"
+  - "Shesh Rekreativ 600 m"
+  - "Sheshi Rekreativ Komuna e Parisit 650 m"
+  - "Rinia Park 650 m"
+  - "House of Leaves 750 m"
+  - "Parku Rinia 750 m"
+  - "Sheshi Rekreativ Piramida 800 m"
+  - "Parku I Madh I Tiranës (Grand Park) 800 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Bennett"
+    country: "United States"
+    text: "“Beautiful, antique-filled apartment in the best part of Tirana - like staying in a museum!”"
+  - name: "Mimoza"
+    country: "Italy"
+    text: "“Furniture, and all the particularities are antiques in the structure's environment.”"
+  - name: "Anonymous"
+    country: "Israel"
+    text: "“A unique spacious flat in a trendy area (yet very quiet). Very clean and well designed. Friendly and helpful hosts.”"
+bookingURL: "https://www.booking.com/hotel/al/db-studio-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This apartment distinguishes itself with its commitment to providing a seamless stay, featuring complimentary WiFi accessible throughout the premises, a shared kitchen for culinary explorations, and a cozy lounge area for moments of relaxation. The establishment proudly upholds a non-smoking policy, further enhancing the quality of the guest experience, and is conveniently situated just 600 meters from the historical Former Residence of Enver Hoxha.
 
 Accommodation at DB Apartment is generously spacious, boasting two well-appointed bedrooms that promise restful nights. Entertainment needs are met with a flat-screen TV equipped with cable channels, while the inclusion of a fully equipped kitchen, complete with an oven and fridge, invites guests to feel at home. The convenience of a washing machine and the luxury of a bathroom featuring a hot tub elevate the living experience. For added comfort, towels and bed linen are thoughtfully provided.
 

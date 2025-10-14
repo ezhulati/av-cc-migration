@@ -1,5 +1,76 @@
----\ntitle: "Aparthotel Shkodra"\ndescription: "Aparthotel Shkodra emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem, situated just 8km from the vibrant historical center of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295265879.jpg?k=f014b2cab2444e60116f16eb123724e02972508b2c68656063477d89354409ed&o=&hp=1"\nlanguage: en\nslug: aparthotel-shkodra\naddress: "Lagjja 13, Shkembi i Kavajes, Plazh Durrës, 1001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.26745284\n  lng: 19.51992363\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 313\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 9.2\n  facilities: 9.1\n  value: 9.4\n  comfort: 9.2\n  staff: 9.6\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295265879.jpg?k=f014b2cab2444e60116f16eb123724e02972508b2c68656063477d89354409ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685093.jpg?k=64cb25d6307d44594956b4ffdc248829069aea03f8b02e969643e94846db99bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685065.jpg?k=2d28c3788ede31a994a6933bb74c960aff98909ae18e1e87ec2183ec6d96bfb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685088.jpg?k=cee7bbfb96f8d93325871b0b2188ffc55200a8a01be34e73ada4217b6d4d6547&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685167.jpg?k=757fd044984ac959a539a76555834ec1ef7783ca5750713c08602ccd7515da94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915839.jpg?k=94f3d2e4c490885c30b8ea0c9a91135f2a9606e114c4be9a43c11103f5f902f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915786.jpg?k=5e04d4e62e87e123a100be1c3c4327eb36a7daeb062289cf4b0b12959edfc039&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915645.jpg?k=a5c9f364af8dfc0618649a8b7d4eadac23f4db2615d7f000e83cb4f6de77cee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915509.jpg?k=91560d1fa1351f9e80caf0548961c882ed8889ffa47892c6c857b4fa95f781bd&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Golem Beach 250 m"\n  - "Mali I Robit Beach 2.2 km"\n  - "Durres Beach 2.2 km"\n  - "Qerret Beach 4.2 km"\nreviews:\n  - name: "Rita"\n    country: "Hungary"\n    text: "“We loved everything, the staff was amazing and easygoing, we could choose from many tasty meals, we absolutely loved the little cake at the end of the dinners.”"\n  - name: "Davidas"\n    country: "Romania"\n    text: "“Great location and the best host.
-Big and clean apartament, good food, good prices and nice people.”"\n  - name: "Eduard"\n    country: "Romania"\n    text: "“Everything was ok.clean rooms,good food,good guests.”"\nbookingURL: "https://www.booking.com/hotel/al/shkodra.en-gb.html?aid=8035640"\nbestFor: "Best for Pet-Friendly Stays"\nbestCategories: "Pet-Friendly Stays"\ncategory: "Pet-Friendly Stays"\n---\n\nUpon stepping into any of the air-conditioned apartments, guests are greeted with a homely ambiance, thanks to the thoughtful inclusion of a balcony, seating area with TV, and a cozy living room. The assurance of privacy and relaxation is further amplified by the provision of a private bathroom in each unit, equipped with either a bath or shower and bidet, catering to the personal preferences of guests.
+---
+title: "Aparthotel Shkodra"
+description: "Aparthotel Shkodra emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem, situated just 8km from the vibrant historical center of Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295265879.jpg?k=f014b2cab2444e60116f16eb123724e02972508b2c68656063477d89354409ed&o=&hp=1"
+language: en
+slug: aparthotel-shkodra
+address: "Lagjja 13, Shkembi i Kavajes, Plazh Durrës, 1001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.26745284
+  lng: 19.51992363
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 313
+ratings:
+  overall: 9.4
+  location: 9.4
+  cleanliness: 9.2
+  facilities: 9.1
+  value: 9.4
+  comfort: 9.2
+  staff: 9.6
+  wifi: 9.7
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295265879.jpg?k=f014b2cab2444e60116f16eb123724e02972508b2c68656063477d89354409ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685093.jpg?k=64cb25d6307d44594956b4ffdc248829069aea03f8b02e969643e94846db99bb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685065.jpg?k=2d28c3788ede31a994a6933bb74c960aff98909ae18e1e87ec2183ec6d96bfb8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685088.jpg?k=cee7bbfb96f8d93325871b0b2188ffc55200a8a01be34e73ada4217b6d4d6547&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167685167.jpg?k=757fd044984ac959a539a76555834ec1ef7783ca5750713c08602ccd7515da94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915839.jpg?k=94f3d2e4c490885c30b8ea0c9a91135f2a9606e114c4be9a43c11103f5f902f5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915786.jpg?k=5e04d4e62e87e123a100be1c3c4327eb36a7daeb062289cf4b0b12959edfc039&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915645.jpg?k=a5c9f364af8dfc0618649a8b7d4eadac23f4db2615d7f000e83cb4f6de77cee6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517915509.jpg?k=91560d1fa1351f9e80caf0548961c882ed8889ffa47892c6c857b4fa95f781bd&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+  - "Very good breakfast"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 100 m"
+  - "Golem Beach 250 m"
+  - "Mali I Robit Beach 2.2 km"
+  - "Durres Beach 2.2 km"
+  - "Qerret Beach 4.2 km"
+reviews:
+  - name: "Rita"
+    country: "Hungary"
+    text: "“We loved everything, the staff was amazing and easygoing, we could choose from many tasty meals, we absolutely loved the little cake at the end of the dinners.”"
+  - name: "Davidas"
+    country: "Romania"
+    text: "“Great location and the best host.
+Big and clean apartament, good food, good prices and nice people.”"
+  - name: "Eduard"
+    country: "Romania"
+    text: "“Everything was ok.clean rooms,good food,good guests.”"
+bookingURL: "https://www.booking.com/hotel/al/shkodra.en-gb.html?aid=8035640"
+bestFor: "Best for Pet-Friendly Stays"
+bestCategories: "Pet-Friendly Stays"
+category: "Pet-Friendly Stays"
+---
+
+Upon stepping into any of the air-conditioned apartments, guests are greeted with a homely ambiance, thanks to the thoughtful inclusion of a balcony, seating area with TV, and a cozy living room. The assurance of privacy and relaxation is further amplified by the provision of a private bathroom in each unit, equipped with either a bath or shower and bidet, catering to the personal preferences of guests.
 
 Beyond the comfort of the apartments, Aparthotel Shkodra boasts an on-site bar, restaurant, and pizzeria, where guests can savor a mix of Albanian, Italian, and International cuisine. The promise of free WiFi throughout the property and complimentary private parking adds to the hassle-free experience, ensuring that guests can stay connected and come and go as they please.
 

@@ -1,6 +1,88 @@
----\ntitle: "H & G Apartments"\ndescription: "H & G Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, just a stone's throw away from the inviting Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012132.jpg?k=43349fb3f494234b8a135a3b12727f81a0bb07b29ac484bf29bdb6531450e4b3&o=&hp=1"\nlanguage: en\nslug: h-g-apartments\naddress: "Rruga Pavaresia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31386763\n  lng: 19.47550849\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 10\n  cleanliness: 9.5\n  facilities: 8.5\n  value: 9.5\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012132.jpg?k=43349fb3f494234b8a135a3b12727f81a0bb07b29ac484bf29bdb6531450e4b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012119.jpg?k=902712fa80443fd5a7cd64b9aef424f76d072208631e5eb54b7924684f95177d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012135.jpg?k=171f696a9c82caea644667212a562664bb3b367be220e1c77865d3117e3f1bc7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012101.jpg?k=38982ececd1b79eb4aec8aec211b0700e4d773c3c80a822d0ce99b86b531aa89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489449335.jpg?k=454ebd5a054df3b975d0d56c26f5ceffc14e1660fa7b161794d7c6b8ff93c65c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489449346.jpg?k=76c3eacf0edc998dabbe5a556daf9610c3b41d1c3fcf35f77bb9a62d15253191&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012125.jpg?k=22dc4757071ab2ffaf6aeb56db4a7a98d733eadaa663e5a42f90981a6e8eaf17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012140.jpg?k=4d7ec6f6a64ef6f8f7e5c58b47480644c379390e2ab88ddf2aa96465d9b233ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012122.jpg?k=aee0a2bff04dae657b6ac5d2fa774f568dfb6194bb4979b9cbd839a76cb203da&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Fast free WiFi (279 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Rizai 30 m"\n  - "Troy Piceri Grill House 100 m"\nnearbyBeaches:\n  - "Durres Beach 40 m"\n  - "Currila Beach 2.5 km"\n  - "Kallmi Beach 3.6 km"\n  - "Shkëmbi i Kavajës Beach 4.2 km"\n  - "West End Beach 4.6 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2.2 km"\n  - "Sheshi Demokracia 2.3 km"\n  - "Yje Dhe Hena 2.4 km"\n  - "Sotir Noka 2.5 km"\n  - "Durres Amphiteatre 2.6 km"\n  - "1. Maj 2.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Simon"\n    country: "Slovenia"\n    text: "“Out host was the best. He waited for us o. The strret and showed us where to park (free of charge)
-The place was super clean and nice. Highly reccomanded.”"\n  - name: "Anonymous"\n    country: "Germany"\n    text: "“Very confortable, from the balcony we could see the beach, the appartement is very clean, the owner was veryyy friendly. We felt realy home, i recomand it”"\n  - name: "Sergio"\n    country: "Germany"\n    text: "“Unserer Gastgeber, Erlon, war exzellent: nett, schnell reagierend und hilfreich. Die Lage der Wohnung war ein Traum mit einem wunderbaren Meerblick. Das Bett war sehr bequem.
-Wir kommen wieder!”"\nbookingURL: "https://www.booking.com/hotel/al/h-amp-g-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nPositioned a mere 70 meters from the sandy shores and within a manageable distance of 37 km from the historic Skanderbeg Square, H & G Apartments presents an ideal base for exploring both the natural beauty and cultural heritage of the area. The intriguing Former Residence of Enver Hoxha and the ancient Durres Amphitheatre, located 37 km and 3.7 km away respectively, are easily accessible, promising enriching day trips.
+---
+title: "H & G Apartments"
+description: "H & G Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, just a stone's throw away from the inviting Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012132.jpg?k=43349fb3f494234b8a135a3b12727f81a0bb07b29ac484bf29bdb6531450e4b3&o=&hp=1"
+language: en
+slug: h-g-apartments
+address: "Rruga Pavaresia, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31386763
+  lng: 19.47550849
+price: "US$41"
+priceFrom: 41
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 5
+ratings:
+  overall: 9.4
+  location: 10
+  cleanliness: 9.5
+  facilities: 8.5
+  value: 9.5
+  comfort: 9.5
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012132.jpg?k=43349fb3f494234b8a135a3b12727f81a0bb07b29ac484bf29bdb6531450e4b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012119.jpg?k=902712fa80443fd5a7cd64b9aef424f76d072208631e5eb54b7924684f95177d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012135.jpg?k=171f696a9c82caea644667212a562664bb3b367be220e1c77865d3117e3f1bc7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012101.jpg?k=38982ececd1b79eb4aec8aec211b0700e4d773c3c80a822d0ce99b86b531aa89&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489449335.jpg?k=454ebd5a054df3b975d0d56c26f5ceffc14e1660fa7b161794d7c6b8ff93c65c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489449346.jpg?k=76c3eacf0edc998dabbe5a556daf9610c3b41d1c3fcf35f77bb9a62d15253191&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012125.jpg?k=22dc4757071ab2ffaf6aeb56db4a7a98d733eadaa663e5a42f90981a6e8eaf17&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012140.jpg?k=4d7ec6f6a64ef6f8f7e5c58b47480644c379390e2ab88ddf2aa96465d9b233ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489012122.jpg?k=aee0a2bff04dae657b6ac5d2fa774f568dfb6194bb4979b9cbd839a76cb203da&o=&hp=1"
+amenities:
+  - "Private parking"
+  - "Fast free WiFi (279 Mbps)"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Rizai 30 m"
+  - "Troy Piceri Grill House 100 m"
+nearbyBeaches:
+  - "Durres Beach 40 m"
+  - "Currila Beach 2.5 km"
+  - "Kallmi Beach 3.6 km"
+  - "Shkëmbi i Kavajës Beach 4.2 km"
+  - "West End Beach 4.6 km"
+whatsNearby:
+  - "Bekimi 1.6 km"
+  - "Wine Dhe Pooh 2.2 km"
+  - "Sheshi Demokracia 2.3 km"
+  - "Yje Dhe Hena 2.4 km"
+  - "Sotir Noka 2.5 km"
+  - "Durres Amphiteatre 2.6 km"
+  - "1. Maj 2.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Simon"
+    country: "Slovenia"
+    text: "“Out host was the best. He waited for us o. The strret and showed us where to park (free of charge)
+The place was super clean and nice. Highly reccomanded.”"
+  - name: "Anonymous"
+    country: "Germany"
+    text: "“Very confortable, from the balcony we could see the beach, the appartement is very clean, the owner was veryyy friendly. We felt realy home, i recomand it”"
+  - name: "Sergio"
+    country: "Germany"
+    text: "“Unserer Gastgeber, Erlon, war exzellent: nett, schnell reagierend und hilfreich. Die Lage der Wohnung war ein Traum mit einem wunderbaren Meerblick. Das Bett war sehr bequem.
+Wir kommen wieder!”"
+bookingURL: "https://www.booking.com/hotel/al/h-amp-g-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Positioned a mere 70 meters from the sandy shores and within a manageable distance of 37 km from the historic Skanderbeg Square, H & G Apartments presents an ideal base for exploring both the natural beauty and cultural heritage of the area. The intriguing Former Residence of Enver Hoxha and the ancient Durres Amphitheatre, located 37 km and 3.7 km away respectively, are easily accessible, promising enriching day trips.
 
 The accommodation itself is thoughtfully designed to cater to the needs of its guests. Each apartment boasts a balcony that offers breathtaking sea views, creating the perfect backdrop for a morning coffee or an evening unwind. The interior features a cozy bedroom, a spacious living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge, allowing guests the freedom to prepare their meals. The convenience of an in-apartment bathroom with a bidet, along with the provision of towels and bed linen, adds to the comfort of the stay. Additionally, an outdoor dining area is available for those who wish to enjoy their meals al fresco.
 

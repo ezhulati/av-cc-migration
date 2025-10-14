@@ -1,4 +1,79 @@
----\ntitle: "Adriatik Guesthouse"\ndescription: "Adriatik Guesthouse emerges as a serene haven in the heart of Përmet, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285990.jpg?k=c05bd6339de1a379f1467d0f53e5e3c325a299f87716f3a66584ef97e132d3e2&o=&hp=1"\nlanguage: en\nslug: adriatik-guesthouse\naddress: "SH75, 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.22677716\n  lng: 20.36720391\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 236\nratings:\n  overall: 9.2\n  location: 9\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.4\n  staff: 9.9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285990.jpg?k=c05bd6339de1a379f1467d0f53e5e3c325a299f87716f3a66584ef97e132d3e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285115.jpg?k=98857f25a225e065d58a56d46a8924ab11a3c3c3a40f75e1ca403772e81ca12e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481286596.jpg?k=100eb9d96724f444f04fcd1dfd4fb32b50c389dd59fa2c3b579e614263b00e7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441632367.jpg?k=a7849d40d4aca4e2f77fb40ef7609e56a6f7c5e6cbd9420cf8ce12a7dcd08aa3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285460.jpg?k=15304731fb0a32e714e946ea9b29171db68556a9e69711844ec49ab8566b3658&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285336.jpg?k=ac808625b19664f24064797bfa0ad7fc05a50396a5e44fbe23bccfbd50535ad6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285622.jpg?k=fadfa80e1bff3cfca05e45e65890e92947fe40b46b38d436a81998ad4eba8e9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346229442.jpg?k=9141b95be2127f6390c478505413c68adb6dd3706e36fc69e60d7c1bdc96836e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481286297.jpg?k=368c773f9a0b08a90b511dec710da9cbacfd38ff7dd6090a626fc65cb1f5d6b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481283565.jpg?k=1ee5c40c908796f91a9f3ff5ade8144354fd7622355c679f717256be83c3c3d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481284972.jpg?k=9dbf95f30ec1c1941706d83eccf118d3e97e04873a2b147c8aa62449737be940&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497394181.jpg?k=77ba4fb3f3498fed840d78b54bd5bd438a7cc95eedc29e32e3322eba9f3a43b9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (57 Mbps)"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Quadruple Room with Mountain View"\n  - "Suite with Mountain View"\nnearbyRestaurants:\n  - "Cabeli 800 m"\n  - "Sky 1.1 km"\nwhatsNearby:\n  - "Fir of Hotova National Park 17 km"\nairports:\n  - "Ioannina Airport 69 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 80 km"\nreviews:\n  - name: "Vera_trvl_bln"\n    country: "Germany"\n    text: "“Such a friendly place! We stayed for one night to hike through the canyon, which we can absolutely recommend. We felt very welcome, the room was clean and the bed comfortable. We enjoyed the view on the mountains while we had our cute breakfast. 😊”"\n  - name: "Mema"\n    country: "Albania"\n    text: "“Thjesht, bukur dhe shume shume paster. E rekomandoj..”"\n  - name: "Stela"\n    country: "Albania"\n    text: "“The breakfast was really tasty with traditional food. Staff was nice and friendly. The location was perfect, near the city.”"\nbookingURL: "https://www.booking.com/hotel/al/adriatik-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nRooms at Adriatik Guesthouse are thoughtfully equipped with modern amenities, including complimentary WiFi, ensuring guests stay connected. The added luxury of a private bathroom, complete with a shower and slippers, enhances the comfort of each stay. For those seeking a little extra, selected rooms feature a terrace, offering a private outdoor space to relax and soak in the surroundings.
+---
+title: "Adriatik Guesthouse"
+description: "Adriatik Guesthouse emerges as a serene haven in the heart of Përmet, offering guests a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285990.jpg?k=c05bd6339de1a379f1467d0f53e5e3c325a299f87716f3a66584ef97e132d3e2&o=&hp=1"
+language: en
+slug: adriatik-guesthouse
+address: "SH75, 6401 Përmet, Albania"
+city: "Përmet"
+location: "Përmet"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.22677716
+  lng: 20.36720391
+price: "US$40"
+priceFrom: 40
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 236
+ratings:
+  overall: 9.2
+  location: 9
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 9.5
+  comfort: 9.4
+  staff: 9.9
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285990.jpg?k=c05bd6339de1a379f1467d0f53e5e3c325a299f87716f3a66584ef97e132d3e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285115.jpg?k=98857f25a225e065d58a56d46a8924ab11a3c3c3a40f75e1ca403772e81ca12e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481286596.jpg?k=100eb9d96724f444f04fcd1dfd4fb32b50c389dd59fa2c3b579e614263b00e7e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441632367.jpg?k=a7849d40d4aca4e2f77fb40ef7609e56a6f7c5e6cbd9420cf8ce12a7dcd08aa3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285460.jpg?k=15304731fb0a32e714e946ea9b29171db68556a9e69711844ec49ab8566b3658&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285336.jpg?k=ac808625b19664f24064797bfa0ad7fc05a50396a5e44fbe23bccfbd50535ad6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285622.jpg?k=fadfa80e1bff3cfca05e45e65890e92947fe40b46b38d436a81998ad4eba8e9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346229442.jpg?k=9141b95be2127f6390c478505413c68adb6dd3706e36fc69e60d7c1bdc96836e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481286297.jpg?k=368c773f9a0b08a90b511dec710da9cbacfd38ff7dd6090a626fc65cb1f5d6b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481283565.jpg?k=1ee5c40c908796f91a9f3ff5ade8144354fd7622355c679f717256be83c3c3d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481284972.jpg?k=9dbf95f30ec1c1941706d83eccf118d3e97e04873a2b147c8aa62449737be940&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497394181.jpg?k=77ba4fb3f3498fed840d78b54bd5bd438a7cc95eedc29e32e3322eba9f3a43b9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (57 Mbps)"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Quadruple Room with Mountain View"
+  - "Suite with Mountain View"
+nearbyRestaurants:
+  - "Cabeli 800 m"
+  - "Sky 1.1 km"
+whatsNearby:
+  - "Fir of Hotova National Park 17 km"
+airports:
+  - "Ioannina Airport 69 km"
+  - "Corfu International Airport 79 km"
+  - "Kastoria National Airport 80 km"
+reviews:
+  - name: "Vera_trvl_bln"
+    country: "Germany"
+    text: "“Such a friendly place! We stayed for one night to hike through the canyon, which we can absolutely recommend. We felt very welcome, the room was clean and the bed comfortable. We enjoyed the view on the mountains while we had our cute breakfast. 😊”"
+  - name: "Mema"
+    country: "Albania"
+    text: "“Thjesht, bukur dhe shume shume paster. E rekomandoj..”"
+  - name: "Stela"
+    country: "Albania"
+    text: "“The breakfast was really tasty with traditional food. Staff was nice and friendly. The location was perfect, near the city.”"
+bookingURL: "https://www.booking.com/hotel/al/adriatik-guesthouse.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Rooms at Adriatik Guesthouse are thoughtfully equipped with modern amenities, including complimentary WiFi, ensuring guests stay connected. The added luxury of a private bathroom, complete with a shower and slippers, enhances the comfort of each stay. For those seeking a little extra, selected rooms feature a terrace, offering a private outdoor space to relax and soak in the surroundings.
 
 The guesthouse takes pride in its culinary offerings, serving a diverse buffet and American breakfast. For guests preferring the comfort of their room, breakfast can also be enjoyed privately, adding a personalized touch to the morning routine.
 

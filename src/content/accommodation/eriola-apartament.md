@@ -1,6 +1,86 @@
----\ntitle: "Eriola apartament"\ndescription: "Eriola Apartment emerges as a serene retreat for travelers seeking the perfect blend of mountain tranquility and beachfront bliss."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210064091.jpg?k=a84fce2cf1973a451d119fa8e35ed0faabb0f71e34d29fa8b776f79e88fd1f7f&o=&hp=1"\nlanguage: en\nslug: eriola-apartament\naddress: "Arvanitet Apartament, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.32675745\n  lng: 19.47819927\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 31\nratings:\n  overall: 9.2\n  location: 8.2\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9.3\n  comfort: 9.1\n  staff: 9.8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210064091.jpg?k=a84fce2cf1973a451d119fa8e35ed0faabb0f71e34d29fa8b776f79e88fd1f7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210066644.jpg?k=722d1668fc9b684e4219e2af411a8b4ceeae41baaddfbae15cb1808ed7f2d417&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374605332.jpg?k=d01ce6adda8c1c1dda30787d6da1804e8380255bee8a414b2b12d840e35d8c61&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262361210.jpg?k=77a2cc3acbca18de340e979ee6b06d4b7e232ace607a138f9de9d4adc4ec9719&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375426190.jpg?k=c01c9aac05f450a7d0f82a9cdeadf4bbc2f4ac6217ba8879dc8e966983d70e8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210700750.jpg?k=9c1fda99e70ceb515ad7b46c15b7967d758a4f29cb646a5016d9100256fe2323&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262360599.jpg?k=f01eca2306d5b3757a7afc5e37931fe30e71f9b3dec2ba6fb517562ebdf7b819&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262360197.jpg?k=29b5b25d149e659a2f36414a4b6123ddc207570ffbe5c9117211c31611cc6f65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374388653.jpg?k=c60c74bd13be4c78af676205546d53415d5c53f9aea7fcd365a4b474a9e26b77&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Pastiçeri Epoca 50 m"\n  - "Pastarella Resort 300 m"\nnearbyBeaches:\n  - "Nettuno Beach 1.3 km"\n  - "Baro Beach 1.7 km"\n  - "Orikum Beach 1.8 km"\n  - "Al Breeze Beach 2.1 km"\n  - "Radhimë Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 87 km"\nreviews:\n  - name: "Hana"\n    country: "Czech Republic"\n    text: "“The place was great, clean and fully equipped. The host was really nice and helpful!”"\n  - name: "Catchpole"\n    country: "United Kingdom"\n    text: "“Beautiful luxery place inside and out fully equipped charming owners”"\n  - name: "Federica"\n    country: "Italy"\n    text: "“We spent our holiday at Eriola, we had a very good time.
+---
+title: "Eriola apartament"
+description: "Eriola Apartment emerges as a serene retreat for travelers seeking the perfect blend of mountain tranquility and beachfront bliss."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210064091.jpg?k=a84fce2cf1973a451d119fa8e35ed0faabb0f71e34d29fa8b776f79e88fd1f7f&o=&hp=1"
+language: en
+slug: eriola-apartament
+address: "Arvanitet Apartament, 9426 Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.32675745
+  lng: 19.47819927
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 31
+ratings:
+  overall: 9.2
+  location: 8.2
+  cleanliness: 9.5
+  facilities: 9.5
+  value: 9.3
+  comfort: 9.1
+  staff: 9.8
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210064091.jpg?k=a84fce2cf1973a451d119fa8e35ed0faabb0f71e34d29fa8b776f79e88fd1f7f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210066644.jpg?k=722d1668fc9b684e4219e2af411a8b4ceeae41baaddfbae15cb1808ed7f2d417&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374605332.jpg?k=d01ce6adda8c1c1dda30787d6da1804e8380255bee8a414b2b12d840e35d8c61&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262361210.jpg?k=77a2cc3acbca18de340e979ee6b06d4b7e232ace607a138f9de9d4adc4ec9719&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375426190.jpg?k=c01c9aac05f450a7d0f82a9cdeadf4bbc2f4ac6217ba8879dc8e966983d70e8c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210700750.jpg?k=9c1fda99e70ceb515ad7b46c15b7967d758a4f29cb646a5016d9100256fe2323&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262360599.jpg?k=f01eca2306d5b3757a7afc5e37931fe30e71f9b3dec2ba6fb517562ebdf7b819&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262360197.jpg?k=29b5b25d149e659a2f36414a4b6123ddc207570ffbe5c9117211c31611cc6f65&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374388653.jpg?k=c60c74bd13be4c78af676205546d53415d5c53f9aea7fcd365a4b474a9e26b77&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+roomTypes:
+  - "One-Bedroom House"
+nearbyRestaurants:
+  - "Pastiçeri Epoca 50 m"
+  - "Pastarella Resort 300 m"
+nearbyBeaches:
+  - "Nettuno Beach 1.3 km"
+  - "Baro Beach 1.7 km"
+  - "Orikum Beach 1.8 km"
+  - "Al Breeze Beach 2.1 km"
+  - "Radhimë Beach 2.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 12 km"
+  - "Llogora National Park 13 km"
+  - "Kuzum Baba 16 km"
+  - "Independence Square 16 km"
+airports:
+  - "Corfu International Airport 87 km"
+reviews:
+  - name: "Hana"
+    country: "Czech Republic"
+    text: "“The place was great, clean and fully equipped. The host was really nice and helpful!”"
+  - name: "Catchpole"
+    country: "United Kingdom"
+    text: "“Beautiful luxery place inside and out fully equipped charming owners”"
+  - name: "Federica"
+    country: "Italy"
+    text: "“We spent our holiday at Eriola, we had a very good time.
 The house is functional, equipped with everything you need, comfortable beds and nice outdoor space where you can dine.
-It is located in a strategic position to reach the beautiful beaches,...”"\nbookingURL: "https://www.booking.com/hotel/al/alerdi-house.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Eriola Apartment are designed with the discerning guest in mind, featuring carpeted floors and a fully equipped kitchen that includes an oven and dining area. Entertainment is readily available through the flat-screen TV with cable channels, ensuring guests are never at a loss for leisure options. The private bathrooms come equipped with a bidet and plush bathrobes, adding a touch of luxury to the stay. Moreover, each unit boasts a balcony that provides an outdoor dining area and serene garden views, allowing guests to fully immerse themselves in the property's natural beauty. For added convenience, air conditioning and a desk are standard in all units, catering to both leisure and business travelers.
+It is located in a strategic position to reach the beautiful beaches,...”"
+bookingURL: "https://www.booking.com/hotel/al/alerdi-house.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Eriola Apartment are designed with the discerning guest in mind, featuring carpeted floors and a fully equipped kitchen that includes an oven and dining area. Entertainment is readily available through the flat-screen TV with cable channels, ensuring guests are never at a loss for leisure options. The private bathrooms come equipped with a bidet and plush bathrobes, adding a touch of luxury to the stay. Moreover, each unit boasts a balcony that provides an outdoor dining area and serene garden views, allowing guests to fully immerse themselves in the property's natural beauty. For added convenience, air conditioning and a desk are standard in all units, catering to both leisure and business travelers.
 
 The shared lounge area offers a cozy space for relaxation, further enhancing the communal atmosphere of the property. For those looking to explore the local area, Orikum Beach is just a stone's throw away at 1.7 km, while Baro Beach is slightly further at 2 km, offering ample opportunities for seaside adventures.
 

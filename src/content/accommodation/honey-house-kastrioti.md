@@ -1,4 +1,78 @@
----\ntitle: "Honey-House “Kastrioti”"\ndescription: "Honey-House \"Kastrioti\" in Përmet stands out as a serene retreat, offering guests a unique blend of comfort and natural beauty with its stunning mountain views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463013631.jpg?k=d3ab2dfbf928fbd78ef592f61618b9bba3cae218d6a43b3040be792737d8e85a&o=&hp=1"\nlanguage: en\nslug: honey-house-kastrioti\naddress: "Permet,Lagjia Bajame, 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.232988\n  lng: 20.35683613\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 148\nratings:\n  overall: 9.5\n  location: 9.8\n  cleanliness: 9.5\n  facilities: 8.7\n  value: 9.6\n  comfort: 9.4\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463013631.jpg?k=d3ab2dfbf928fbd78ef592f61618b9bba3cae218d6a43b3040be792737d8e85a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455929832.jpg?k=3e2c1ced119ed12891d66660cd68be44cb3ba5be35a73f0e1643d43292ad55ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434097065.jpg?k=d59ef4e1e65fec3f5754dd1f55c49ddf61c61247663166ad4004a47812987acd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457623538.jpg?k=4e45c54d04e91ba5f17dabb4d8c3f5328b945ce2456c56188c9f61524661e4b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375655295.jpg?k=27fd2c7989c5e916d2fbc42ea9d7afdc3ca58e1b931b25ee0e6797e7f9929fca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455924013.jpg?k=c65745a28e22108ca41cbc42f4b5b68d863dcc5b297e566273ebb358097e2b6e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Triple Room with Balcony"\n  - "Triple Room with View"\n  - "Double Room"\nnearbyRestaurants:\n  - "Bar Lulishte Permet 100 m"\n  - "Restorant FAMILJARI Permet 150 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 16 km"\nairports:\n  - "Ioannina Airport 70 km"\n  - "Corfu International Airport 79 km"\n  - "Kastoria National Airport 81 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Emilia"\n    country: "Poland"\n    text: "“Beautiful place with very friendly hosts, amazing time for rest, tasty homemade food, highly recommended”"\n  - name: "Wolfgang"\n    country: "Germany"\n    text: "“Mariella and Kastriot are very welcoming, friendly and helpful hosts who really care about their guests and go above and beyond to make your stay comfortable. Breakfast and dinner were excellent, home-made food with fresh ingredients from their...”"\n  - name: "Kristina"\n    country: "United Kingdom"\n    text: "“Really fantastic hosts. We had their home cooked food for dinner and it was an absolute feast. Breakfast was lovely too. Permet is a lovely town with lots to do nearby, we wish we’d have stayed for longer. Also, when we left we were gifted a bag...”"\nbookingURL: "https://www.booking.com/hotel/al/honey-house-kastrioti.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon arrival, visitors are greeted by a dedicated 24-hour front desk, ensuring a smooth and welcoming check-in experience, no matter the time of day. Accommodations at Honey-House "Kastrioti" are thoughtfully designed with guest comfort in mind, featuring air-conditioned rooms, complimentary private parking, and free WiFi throughout the property.
+---
+title: "Honey-House “Kastrioti”"
+description: "Honey-House \"Kastrioti\" in Përmet stands out as a serene retreat, offering guests a unique blend of comfort and natural beauty with its stunning mountain views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463013631.jpg?k=d3ab2dfbf928fbd78ef592f61618b9bba3cae218d6a43b3040be792737d8e85a&o=&hp=1"
+language: en
+slug: honey-house-kastrioti
+address: "Permet,Lagjia Bajame, 6401 Përmet, Albania"
+city: "Përmet"
+location: "Përmet"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.232988
+  lng: 20.35683613
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 148
+ratings:
+  overall: 9.5
+  location: 9.8
+  cleanliness: 9.5
+  facilities: 8.7
+  value: 9.6
+  comfort: 9.4
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463013631.jpg?k=d3ab2dfbf928fbd78ef592f61618b9bba3cae218d6a43b3040be792737d8e85a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455929832.jpg?k=3e2c1ced119ed12891d66660cd68be44cb3ba5be35a73f0e1643d43292ad55ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434097065.jpg?k=d59ef4e1e65fec3f5754dd1f55c49ddf61c61247663166ad4004a47812987acd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457623538.jpg?k=4e45c54d04e91ba5f17dabb4d8c3f5328b945ce2456c56188c9f61524661e4b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375655295.jpg?k=27fd2c7989c5e916d2fbc42ea9d7afdc3ca58e1b931b25ee0e6797e7f9929fca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455924013.jpg?k=c65745a28e22108ca41cbc42f4b5b68d863dcc5b297e566273ebb358097e2b6e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Triple Room with Balcony"
+  - "Triple Room with View"
+  - "Double Room"
+nearbyRestaurants:
+  - "Bar Lulishte Permet 100 m"
+  - "Restorant FAMILJARI Permet 150 m"
+whatsNearby:
+  - "Fir of Hotova National Park 16 km"
+airports:
+  - "Ioannina Airport 70 km"
+  - "Corfu International Airport 79 km"
+  - "Kastoria National Airport 81 km"
+paymentMethods:
+  - "Visa"
+reviews:
+  - name: "Emilia"
+    country: "Poland"
+    text: "“Beautiful place with very friendly hosts, amazing time for rest, tasty homemade food, highly recommended”"
+  - name: "Wolfgang"
+    country: "Germany"
+    text: "“Mariella and Kastriot are very welcoming, friendly and helpful hosts who really care about their guests and go above and beyond to make your stay comfortable. Breakfast and dinner were excellent, home-made food with fresh ingredients from their...”"
+  - name: "Kristina"
+    country: "United Kingdom"
+    text: "“Really fantastic hosts. We had their home cooked food for dinner and it was an absolute feast. Breakfast was lovely too. Permet is a lovely town with lots to do nearby, we wish we’d have stayed for longer. Also, when we left we were gifted a bag...”"
+bookingURL: "https://www.booking.com/hotel/al/honey-house-kastrioti.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Upon arrival, visitors are greeted by a dedicated 24-hour front desk, ensuring a smooth and welcoming check-in experience, no matter the time of day. Accommodations at Honey-House "Kastrioti" are thoughtfully designed with guest comfort in mind, featuring air-conditioned rooms, complimentary private parking, and free WiFi throughout the property.
 
 For those seeking a more intimate setting, select units boast private entrances, dining areas, fireplaces, and even toasters for a touch of home. Privacy and convenience are paramount, with each unit housing a private bathroom equipped with a bidet and slippers. For guests desiring to prepare their own meals, some rooms offer the luxury of a fully equipped kitchen, complete with an oven, alongside heating facilities to ensure a cozy stay.
 

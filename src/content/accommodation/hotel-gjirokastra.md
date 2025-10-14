@@ -1,5 +1,80 @@
----\ntitle: "Hotel Gjirokastra"\ndescription: "Discover the charm of Hotel Gjirokastër, a gem just a stone's throw away from the heart of the city, situated 300 meters from the bustling center."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105934232.jpg?k=469305eaeabc51b45c68b6cd4a7c85f42b9eed22de911608e8356409b9ddec94&o=&hp=1"\nlanguage: en\nslug: hotel-gjirokastra\naddress: "Lagjia Partizani, Rruga Shezai Como, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07325031\n  lng: 20.13759613\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 896\nratings:\n  overall: 9.5\n  location: 9.9\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.6\n  comfort: 9.5\n  staff: 9.9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105934232.jpg?k=469305eaeabc51b45c68b6cd4a7c85f42b9eed22de911608e8356409b9ddec94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106127794.jpg?k=11228274e7e18fb67b7ab93e45f75b2a13338f1d44f9236bb6ddcc3a971fc125&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209086690.jpg?k=5d9b9aa602ad379bcc8c2202190c659d37b9aa9b8587ae40e114b91bd4c7ded6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469018634.jpg?k=450e7c08eb3ef1a0e172d653d7b01dcfcb416f4d808fe5df1a17c3a9687a9d49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477833420.jpg?k=a7e89dae0ad048c2c1bae3a40d528d839f039e16f265f849912ce2be91a5b471&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465797929.jpg?k=62cc0811cbb962faf3a9282e18e8560ec684840f1f6fa215e30db24efea9f4e3&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Comfort Double Room"\n  - "Twin Room"\n  - "Economy Double or Twin Room"\n  - "Basic Double Room"\n  - "Double Room"\n  - "Superior Suite"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Taverna Kuka 40 m"\n  - "Check-in 50 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Thorben"\n    country: "Germany"\n    text: "“The location is great. Staff very friendly. The room was perfect for a family of four.”"\n  - name: "Riccardogi"\n    country: "Italy"\n    text: "“Location was great, quite but at the same time very close to the castle and to Pazar.
-Staff was very available and kind and the reserved parking lot is a big plus. Breakfast was also great, with fresh Albanian petullas and other fresh local...”"\n  - name: "Tomas"\n    country: "Germany"\n    text: "“Extraordinary interior - extremely well located - very very clean, beautiful backyard and pool! Great view from the rooms balcony to the mosque the bazar, the castle and the old town center. Extraordinary good breakfast and extremely nice people...”"\nbookingURL: "https://www.booking.com/hotel/al/hotel-gjirokastra.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nEach room at Hotel Gjirokastër is a haven of comfort, equipped with cable TV, air conditioning, a private bathroom with a shower, and additional conveniences like a wardrobe and a sofa, ensuring a restful stay.
+---
+title: "Hotel Gjirokastra"
+description: "Discover the charm of Hotel Gjirokastër, a gem just a stone's throw away from the heart of the city, situated 300 meters from the bustling center."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105934232.jpg?k=469305eaeabc51b45c68b6cd4a7c85f42b9eed22de911608e8356409b9ddec94&o=&hp=1"
+language: en
+slug: hotel-gjirokastra
+address: "Lagjia Partizani, Rruga Shezai Como, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.07325031
+  lng: 20.13759613
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 896
+ratings:
+  overall: 9.5
+  location: 9.9
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 9.6
+  comfort: 9.5
+  staff: 9.9
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105934232.jpg?k=469305eaeabc51b45c68b6cd4a7c85f42b9eed22de911608e8356409b9ddec94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106127794.jpg?k=11228274e7e18fb67b7ab93e45f75b2a13338f1d44f9236bb6ddcc3a971fc125&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209086690.jpg?k=5d9b9aa602ad379bcc8c2202190c659d37b9aa9b8587ae40e114b91bd4c7ded6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469018634.jpg?k=450e7c08eb3ef1a0e172d653d7b01dcfcb416f4d808fe5df1a17c3a9687a9d49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477833420.jpg?k=a7e89dae0ad048c2c1bae3a40d528d839f039e16f265f849912ce2be91a5b471&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465797929.jpg?k=62cc0811cbb962faf3a9282e18e8560ec684840f1f6fa215e30db24efea9f4e3&o=&hp=1"
+amenities:
+  - "Indoor swimming pool"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "2 restaurants"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+roomTypes:
+  - "Comfort Double Room"
+  - "Twin Room"
+  - "Economy Double or Twin Room"
+  - "Basic Double Room"
+  - "Double Room"
+  - "Superior Suite"
+  - "Quadruple Room"
+nearbyRestaurants:
+  - "Taverna Kuka 40 m"
+  - "Check-in 50 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Thorben"
+    country: "Germany"
+    text: "“The location is great. Staff very friendly. The room was perfect for a family of four.”"
+  - name: "Riccardogi"
+    country: "Italy"
+    text: "“Location was great, quite but at the same time very close to the castle and to Pazar.
+Staff was very available and kind and the reserved parking lot is a big plus. Breakfast was also great, with fresh Albanian petullas and other fresh local...”"
+  - name: "Tomas"
+    country: "Germany"
+    text: "“Extraordinary interior - extremely well located - very very clean, beautiful backyard and pool! Great view from the rooms balcony to the mosque the bazar, the castle and the old town center. Extraordinary good breakfast and extremely nice people...”"
+bookingURL: "https://www.booking.com/hotel/al/hotel-gjirokastra.en-gb.html?aid=8035640"
+bestFor: "Best for Historical Sites Proximity"
+bestCategories: "Historical Sites Proximity"
+category: "Historical Sites Proximity"
+---
+
+Each room at Hotel Gjirokastër is a haven of comfort, equipped with cable TV, air conditioning, a private bathroom with a shower, and additional conveniences like a wardrobe and a sofa, ensuring a restful stay.
 
 Dining at the hotel is a delightful experience, with breakfast and dinner served daily in the restaurant. For those preferring to dine in the privacy of their room, room service is readily available. Additional services such as dry cleaning, laundry, and ironing are offered, making your stay as hassle-free as possible.
 

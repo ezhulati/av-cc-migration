@@ -1,4 +1,84 @@
----\ntitle: "Alpha Apartments Tirana Free Parking"\ndescription: "Alpha Apartments Tirana 26 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555321.jpg?k=0d53da14e46fe45b256daa66898d47b706f716d1d64583cc228cfaf82b7ef315&o=&hp=1"\nlanguage: en\nslug: alpha-apartments-tirana-free-parking\naddress: "Rruga Bardhyl, 1015 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33855337\n  lng: 19.83047381\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555321.jpg?k=0d53da14e46fe45b256daa66898d47b706f716d1d64583cc228cfaf82b7ef315&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555573.jpg?k=93619d542074fc9606a727093c89fb59fe53643e715b03b4d7288cae956575fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555464.jpg?k=68cb2e5283aaffbfef469a56d7bd217eea66bfeb7d2eb16c5aef6e53e225b29a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963340.jpg?k=ad2cf19daf790172938f776eb0f3a079871b0e4937deb78a49bb9a95d06ea487&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963261.jpg?k=1c1f23835e68680b99d4142c31f813509ed2a47e1dbbf7d14ec68a8905d21d7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963387.jpg?k=22fbd6df340fda056038d05c36154792c20aa238bedd9158a244028e8d61c37a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555591.jpg?k=5cfd1dc9b34cb6ce481c8e7bcccb8334b91dcdd87ae5a282d67534de00200f71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555529.jpg?k=0faa5685fc1b9e6fc07897e0cfafc39b229f74faba2c29a19be19d57267fcc33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963366.jpg?k=f6db23a44907328e82fd2ea556baf3790016c6411dabb2c57fa5e6c1b1aa9b7a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (99 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.6 km"\n  - "House of Leaves 1.8 km"\n  - "Rinia Park 1.8 km"\n  - "Former Residence of Enver Hoxha 2.2 km"\n  - "Bunk'Art 1 Museum 2.8 km"\n  - "Grand Park of Tirana 3 km"\nnearbyRestaurants:\n  - "City Bar 50 m"\n  - "Bar Restorant Shoqeria 100 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 650 m"\n  - "Sheshi Rekreativ Gjolek Kokona 900 m"\n  - "Amazing Nature 1.1 km"\n  - "Sheshi Rekreativ Allias 1.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.2 km"\n  - "Sheshi Sulejman Pasha 1.3 km"\n  - "Tanners' Bridge 1.4 km"\n  - "National Museum of History Albania 1.5 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "Skanderbeg Square 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Aida"\n    country: "Germany"\n    text: "“Ich bin sehr zufrieden mit allem. Die Wohnung war sehr sauber und in der Nähe findet man alles , was man braucht, Supermärkte, verschiedene Geschäfte, Restaurants ect. Die Vermieterin war sehr höfflich und immer verfügbar . Alles hat es super...”"\n  - name: "Gert"\n    country: "Albania"\n    text: "“Great new place with a free parking spot, just need to ask the owner. Will be back 💯”"\nbookingURL: "https://www.booking.com/hotel/al/alpha-apartments-tirana-26.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment boasts a spacious layout, complete with air conditioning for those warm Albanian afternoons. Guests will appreciate the added convenience of a private balcony, perfect for enjoying the mountain views or a quiet morning coffee. Complimentary WiFi and private parking are just a few of the thoughtful amenities provided, ensuring a hassle-free stay.
+---
+title: "Alpha Apartments Tirana Free Parking"
+description: "Alpha Apartments Tirana 26 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555321.jpg?k=0d53da14e46fe45b256daa66898d47b706f716d1d64583cc228cfaf82b7ef315&o=&hp=1"
+language: en
+slug: alpha-apartments-tirana-free-parking
+address: "Rruga Bardhyl, 1015 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33855337
+  lng: 19.83047381
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555321.jpg?k=0d53da14e46fe45b256daa66898d47b706f716d1d64583cc228cfaf82b7ef315&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555573.jpg?k=93619d542074fc9606a727093c89fb59fe53643e715b03b4d7288cae956575fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555464.jpg?k=68cb2e5283aaffbfef469a56d7bd217eea66bfeb7d2eb16c5aef6e53e225b29a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963340.jpg?k=ad2cf19daf790172938f776eb0f3a079871b0e4937deb78a49bb9a95d06ea487&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963261.jpg?k=1c1f23835e68680b99d4142c31f813509ed2a47e1dbbf7d14ec68a8905d21d7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963387.jpg?k=22fbd6df340fda056038d05c36154792c20aa238bedd9158a244028e8d61c37a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555591.jpg?k=5cfd1dc9b34cb6ce481c8e7bcccb8334b91dcdd87ae5a282d67534de00200f71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555529.jpg?k=0faa5685fc1b9e6fc07897e0cfafc39b229f74faba2c29a19be19d57267fcc33&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523963366.jpg?k=f6db23a44907328e82fd2ea556baf3790016c6411dabb2c57fa5e6c1b1aa9b7a&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Fast free WiFi (99 Mbps)"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1.6 km"
+  - "House of Leaves 1.8 km"
+  - "Rinia Park 1.8 km"
+  - "Former Residence of Enver Hoxha 2.2 km"
+  - "Bunk'Art 1 Museum 2.8 km"
+  - "Grand Park of Tirana 3 km"
+nearbyRestaurants:
+  - "City Bar 50 m"
+  - "Bar Restorant Shoqeria 100 m"
+whatsNearby:
+  - "Sheshi Jjosef Shtraus 650 m"
+  - "Sheshi Rekreativ Gjolek Kokona 900 m"
+  - "Amazing Nature 1.1 km"
+  - "Sheshi Rekreativ Allias 1.2 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.2 km"
+  - "Sheshi Sulejman Pasha 1.3 km"
+  - "Tanners' Bridge 1.4 km"
+  - "National Museum of History Albania 1.5 km"
+  - "Clock Tower Tirana 1.5 km"
+  - "Skanderbeg Square 1.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Aida"
+    country: "Germany"
+    text: "“Ich bin sehr zufrieden mit allem. Die Wohnung war sehr sauber und in der Nähe findet man alles , was man braucht, Supermärkte, verschiedene Geschäfte, Restaurants ect. Die Vermieterin war sehr höfflich und immer verfügbar . Alles hat es super...”"
+  - name: "Gert"
+    country: "Albania"
+    text: "“Great new place with a free parking spot, just need to ask the owner. Will be back 💯”"
+bookingURL: "https://www.booking.com/hotel/al/alpha-apartments-tirana-26.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment boasts a spacious layout, complete with air conditioning for those warm Albanian afternoons. Guests will appreciate the added convenience of a private balcony, perfect for enjoying the mountain views or a quiet morning coffee. Complimentary WiFi and private parking are just a few of the thoughtful amenities provided, ensuring a hassle-free stay.
 
 Accommodation at Alpha Apartments Tirana 26 includes a well-appointed bedroom, a fully equipped kitchen with an oven and fridge, and a cozy seating area for unwinding after a day of exploration. The modern bathroom, featuring a walk-in shower, adds a touch of luxury to the guest experience.
 

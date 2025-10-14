@@ -1,1 +1,58 @@
----\ntitle: "Contanier Farm"\ndescription: "Contanier Farm emerges as a serene retreat, boasting breathtaking sea views and a prime location just a stone's throw from Spille Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588426.jpg?k=f725a425647460f2481e8612e1d60c26483a6ddaeca0fa7b44562bf47a037063&o=&hp=1"\nlanguage: en\nslug: contanier-farm\naddress: "Spille, Rrogozhinë, Albania"\ncity: "Rrogozhinë"\nlocation: "Rrogozhinë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.11167057\n  lng: 19.46164932\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588426.jpg?k=f725a425647460f2481e8612e1d60c26483a6ddaeca0fa7b44562bf47a037063&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588501.jpg?k=59991055811554ccc4731ad9edb4faa9bbc149ff7a94bcf1c3ca07da16650c41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588508.jpg?k=153d5febdff4ce0e02f253d1750c26efccf6946ed769936c7e5ec244964c4bcf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588513.jpg?k=cc2f8fa34da2785bc486a368da408543a22ff37016e22ed63ad183c192637988&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588521.jpg?k=8f54ac7ae541556743c1df46ad2fadd1caffcd0f72d8c58c7db13ee93c5c8aaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588525.jpg?k=ec6396a39b40737573f9f15ed8c04b4f2a033ceb9e97c72fb98adb740eeb1300&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485340377.jpg?k=ea36c5685f37e555f241c726cfc60affba39878061384eff9614c535d91c46d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485340617.jpg?k=11fcdd9f70f0dc618f762f170203c5fa1a6b0f8c2dc1f213c11c0658fb703172&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588426.jpg?k=f725a425647460f2481e8612e1d60c26483a6ddaeca0fa7b44562bf47a037063&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Posh Beach 850 m"\n  - "Grill House Kalaja 8 km"\nnearbyBeaches:\n  - "Spille Beach 400 m"\n  - "General Beach 2 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 38 km"\nbookingURL: "https://www.booking.com/hotel/al/contanier-farm.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe farm stay distinguishes itself with a commitment to a smoke-free environment, promising a clean and fresh setting for all guests. Each room is thoughtfully equipped with a flat-screen TV, blending modern amenities with the rustic charm of farm stay living. For those flying in, the Tirana International Mother Teresa Airport is conveniently located 69 km away, making Contanier Farm an accessible escape for both local and international travelers seeking a peaceful haven by the sea.
+---
+title: "Contanier Farm"
+description: "Contanier Farm emerges as a serene retreat, boasting breathtaking sea views and a prime location just a stone's throw from Spille Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588426.jpg?k=f725a425647460f2481e8612e1d60c26483a6ddaeca0fa7b44562bf47a037063&o=&hp=1"
+language: en
+slug: contanier-farm
+address: "Spille, Rrogozhinë, Albania"
+city: "Rrogozhinë"
+location: "Rrogozhinë"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.11167057
+  lng: 19.46164932
+price: "US$58"
+priceFrom: 58
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588426.jpg?k=f725a425647460f2481e8612e1d60c26483a6ddaeca0fa7b44562bf47a037063&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588501.jpg?k=59991055811554ccc4731ad9edb4faa9bbc149ff7a94bcf1c3ca07da16650c41&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588508.jpg?k=153d5febdff4ce0e02f253d1750c26efccf6946ed769936c7e5ec244964c4bcf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588513.jpg?k=cc2f8fa34da2785bc486a368da408543a22ff37016e22ed63ad183c192637988&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588521.jpg?k=8f54ac7ae541556743c1df46ad2fadd1caffcd0f72d8c58c7db13ee93c5c8aaf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588525.jpg?k=ec6396a39b40737573f9f15ed8c04b4f2a033ceb9e97c72fb98adb740eeb1300&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485340377.jpg?k=ea36c5685f37e555f241c726cfc60affba39878061384eff9614c535d91c46d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485340617.jpg?k=11fcdd9f70f0dc618f762f170203c5fa1a6b0f8c2dc1f213c11c0658fb703172&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588426.jpg?k=f725a425647460f2481e8612e1d60c26483a6ddaeca0fa7b44562bf47a037063&o=&hp=1"
+amenities:
+  - "Free parking"
+roomTypes:
+  - "Double Room"
+nearbyRestaurants:
+  - "Posh Beach 850 m"
+  - "Grill House Kalaja 8 km"
+nearbyBeaches:
+  - "Spille Beach 400 m"
+  - "General Beach 2 km"
+whatsNearby:
+  - "Divjake-Karavasta National Park 6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 38 km"
+bookingURL: "https://www.booking.com/hotel/al/contanier-farm.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The farm stay distinguishes itself with a commitment to a smoke-free environment, promising a clean and fresh setting for all guests. Each room is thoughtfully equipped with a flat-screen TV, blending modern amenities with the rustic charm of farm stay living. For those flying in, the Tirana International Mother Teresa Airport is conveniently located 69 km away, making Contanier Farm an accessible escape for both local and international travelers seeking a peaceful haven by the sea.

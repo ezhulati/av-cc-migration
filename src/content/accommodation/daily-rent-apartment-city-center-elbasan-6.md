@@ -1,6 +1,74 @@
----\ntitle: "Daily rent apartment city center Elbasan 6"\ndescription: "Daily Rent Apartment City Center Elbasan 6 emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Elbasan."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419132450.jpg?k=0a51eaa14fcf8e83125c74a3fd390153e212b13882bcccea6a192b59da191457&o=&hp=1"\nlanguage: en\nslug: daily-rent-apartment-city-center-elbasan-6\naddress: "L“ 28 Nentori“ mbrapa pallatit te sportit „Tomorr Sinani“ Rruga Esat Bordi, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.1113912\n  lng: 20.07781545\nprice: "US$44"\npriceFrom: 44\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 20\nratings:\n  overall: 9.7\n  location: 9.5\n  cleanliness: 9.8\n  facilities: 9.4\n  value: 9.9\n  comfort: 9.8\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419132450.jpg?k=0a51eaa14fcf8e83125c74a3fd390153e212b13882bcccea6a192b59da191457&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439888349.jpg?k=1d79c158a042f90a0f9055611cc8a8e30e50000f9bfb16c1812f46baacd642fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419132639.jpg?k=84880ee6ef93c82bc19d11ce83d28dbf54a77e41e79b753f749cabaa9053dbd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409103593.jpg?k=cabefc6ba80dc2d8a25f60490ea0dc2cac1ab167b2c86f4ba60194d1b25b5043&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419141537.jpg?k=0942d04ab46fc738f4bffd0f09b20005dbb15882e6e7c30a0856040d9631eca9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409103441.jpg?k=da0653198b0ceb6b408a9d4735c48d39f807adeb2d5393508901fc5b5fdabe2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419497669.jpg?k=a26f5b0254cb9085d4a4aa9b48e430d689c7f0bab54bdf5b1f4f84365e1134a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493929411.jpg?k=a90cee84806827651f5ae057a3e1e3d49a823bbdd3f12c4ee87a2f6f9da2821f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419497562.jpg?k=fbd6b40a9a2b8d4d7cf2f1bd23d6ff79d86e668525947e5463b67a99e20f888d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Fast Food Ervini 100 m"\n  - "Bar Kafe \Xhessika\\"\" 150 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Ohrid Airport 56 km"\nreviews:\n  - name: "Jarka"\n    country: "Czech Republic"\n    text: "“the best apartment, Mrs. Fabina is a wonderful woman, very caring! very helpful!
+---
+title: "Daily rent apartment city center Elbasan 6"
+description: "Daily Rent Apartment City Center Elbasan 6 emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Elbasan."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419132450.jpg?k=0a51eaa14fcf8e83125c74a3fd390153e212b13882bcccea6a192b59da191457&o=&hp=1"
+language: en
+slug: daily-rent-apartment-city-center-elbasan-6
+address: "L“ 28 Nentori“ mbrapa pallatit te sportit „Tomorr Sinani“ Rruga Esat Bordi, 3001 Elbasan, Albania"
+city: "Elbasan"
+location: "Elbasan"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.1113912
+  lng: 20.07781545
+price: "US$44"
+priceFrom: 44
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 20
+ratings:
+  overall: 9.7
+  location: 9.5
+  cleanliness: 9.8
+  facilities: 9.4
+  value: 9.9
+  comfort: 9.8
+  staff: 9.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419132450.jpg?k=0a51eaa14fcf8e83125c74a3fd390153e212b13882bcccea6a192b59da191457&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439888349.jpg?k=1d79c158a042f90a0f9055611cc8a8e30e50000f9bfb16c1812f46baacd642fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419132639.jpg?k=84880ee6ef93c82bc19d11ce83d28dbf54a77e41e79b753f749cabaa9053dbd7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409103593.jpg?k=cabefc6ba80dc2d8a25f60490ea0dc2cac1ab167b2c86f4ba60194d1b25b5043&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419141537.jpg?k=0942d04ab46fc738f4bffd0f09b20005dbb15882e6e7c30a0856040d9631eca9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409103441.jpg?k=da0653198b0ceb6b408a9d4735c48d39f807adeb2d5393508901fc5b5fdabe2f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419497669.jpg?k=a26f5b0254cb9085d4a4aa9b48e430d689c7f0bab54bdf5b1f4f84365e1134a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493929411.jpg?k=a90cee84806827651f5ae057a3e1e3d49a823bbdd3f12c4ee87a2f6f9da2821f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419497562.jpg?k=fbd6b40a9a2b8d4d7cf2f1bd23d6ff79d86e668525947e5463b67a99e20f888d&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Airport shuttle"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Fast Food Ervini 100 m"
+  - "Bar Kafe \Xhessika\\"\" 150 m"
+whatsNearby:
+  - "Dajti Mountain National Park 19 km"
+airports:
+  - "Tirana International Airport Mother Teresa 43 km"
+  - "Ohrid Airport 56 km"
+reviews:
+  - name: "Jarka"
+    country: "Czech Republic"
+    text: "“the best apartment, Mrs. Fabina is a wonderful woman, very caring! very helpful!
 the apartment is perfect, the cleanliness, the smell, everything was perfect, everything you need is there, nothing compares to the best apartment!
-I will come back...”"\n  - name: "Petar"\n    country: "Montenegro"\n    text: "“Clouse the center, have everything is need for comfrtable stay! The owners are wonderful hosts, they are there for everything you need to make your stay pleasant.”"\n  - name: "Xheni"\n    country: "Albania"\n    text: "“It was exactly like the photo, wery clean and beautiful. I totally recommend. ☺️”"\nbookingURL: "https://www.booking.com/hotel/al/green-house-apartment-city-center-elbasan-6.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to modern living, boasting a spacious layout that includes a bedroom equipped with air conditioning for those warm Elbasan days. Entertainment and connectivity are at guests' fingertips, thanks to the inclusion of a flat-screen TV featuring a wide array of satellite channels and complimentary WiFi that envelops the space. Culinary enthusiasts will delight in the fully equipped kitchen, complete with an oven and microwave, making meal preparation not just convenient but a joy. The presence of a washing machine adds to the ease of an extended stay, ensuring that guests feel right at home.
+I will come back...”"
+  - name: "Petar"
+    country: "Montenegro"
+    text: "“Clouse the center, have everything is need for comfrtable stay! The owners are wonderful hosts, they are there for everything you need to make your stay pleasant.”"
+  - name: "Xheni"
+    country: "Albania"
+    text: "“It was exactly like the photo, wery clean and beautiful. I totally recommend. ☺️”"
+bookingURL: "https://www.booking.com/hotel/al/green-house-apartment-city-center-elbasan-6.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to modern living, boasting a spacious layout that includes a bedroom equipped with air conditioning for those warm Elbasan days. Entertainment and connectivity are at guests' fingertips, thanks to the inclusion of a flat-screen TV featuring a wide array of satellite channels and complimentary WiFi that envelops the space. Culinary enthusiasts will delight in the fully equipped kitchen, complete with an oven and microwave, making meal preparation not just convenient but a joy. The presence of a washing machine adds to the ease of an extended stay, ensuring that guests feel right at home.
 
 Attention to detail is evident in the added amenities provided for a nominal fee, including towels and linens, enhancing the comfort of each stay. Privacy and tranquility are paramount, with soundproofing and a private entrance allowing guests to retreat into their own peaceful haven after a day of exploration.
 

@@ -1,5 +1,90 @@
----\ntitle: "DelMar Apartments"\ndescription: "DelMar Apartments emerges as a refreshed and inviting option for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Golem, near Mali I Robit Beach and Golem Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771979.jpg?k=3215019b97a14ae01248988476c1f1c0d68ba1b7a8fbbdfacde2f0971d7859ac&o=&hp=1"\nlanguage: en\nslug: delmar-apartments\naddress: "Rruga Qemal Stafa, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2476419\n  lng: 19.52359575\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 44\nratings:\n  overall: 9.3\n  location: 9.3\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.1\n  comfort: 8.9\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771979.jpg?k=3215019b97a14ae01248988476c1f1c0d68ba1b7a8fbbdfacde2f0971d7859ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374512463.jpg?k=f85adbd8c3bd8f060cd53db234a500d19e7892d74ab24c2cc3ced4d4bfbe1d18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374519456.jpg?k=0a75672e0e96420cb74effad920ee4d89d531cd4f5c417f21f46969e1cc60f7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771977.jpg?k=e3a60769f1a82da0741cefcf0d68ceee9424f13d26e9ebce4224c62189cd584f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368673897.jpg?k=aa348401987ab2b66081bfd424b4295505d6b90e39bd687faa5a520759951d5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771976.jpg?k=7af25355129114a5da2feb188afb8aad5f8f0bd3d5c3eb5de12003fd39e7a57d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Studio Apartment"\n  - "Studio Apartment"\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Brutal Steakhouse 100 m"\n  - "Alto Mare 250 m"\nnearbyBeaches:\n  - "Golem Beach 300 m"\n  - "Mali I Robit Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 2 km"\n  - "Qerret Beach 2.1 km"\n  - "Durres Beach 4.4 km"\nwhatsNearby:\n  - "Bekimi 10 km"\n  - "Durres Amphiteatre 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Nadja"\n    country: "Switzerland"\n    text: "“Nice and functional apartment. Friendly and helpful staff.”"\n  - name: "Paweł"\n    country: "Poland"\n    text: "“There was a great and helpful staff. Very clean and close to the beach”"\n  - name: "Rea"\n    country: "Albania"\n    text: "“Highly recomended!⭐️⭐️⭐️⭐️⭐️
-Everything exceeded our expectations. The hotel is near many shops, supermarkets, a pharmacy, exhange and many restauraunts and bars. The beach is very very near and it has many options of sunbeds. The room is...”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-delmar.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe establishment prides itself on its around-the-clock front desk, ensuring full-day security and offering luggage storage services that cater to the needs of every guest, making their stay worry-free from arrival to departure. Each apartment is a haven of comfort, equipped with air conditioning for those warm, sunny days and featuring a balcony that invites guests to enjoy their own private outdoor space. Inside, a television provides entertainment, while the private bathroom comes complete with a hair dryer for convenience. To further enhance the guest experience, DelMar Apartments offers the option of towels and linens for a nominal fee, ensuring a comfortable and hassle-free stay.
+---
+title: "DelMar Apartments"
+description: "DelMar Apartments emerges as a refreshed and inviting option for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Golem, near Mali I Robit Beach and Golem Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771979.jpg?k=3215019b97a14ae01248988476c1f1c0d68ba1b7a8fbbdfacde2f0971d7859ac&o=&hp=1"
+language: en
+slug: delmar-apartments
+address: "Rruga Qemal Stafa, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2476419
+  lng: 19.52359575
+price: "US$41"
+priceFrom: 41
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 44
+ratings:
+  overall: 9.3
+  location: 9.3
+  cleanliness: 9.3
+  facilities: 8.9
+  value: 9.1
+  comfort: 8.9
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771979.jpg?k=3215019b97a14ae01248988476c1f1c0d68ba1b7a8fbbdfacde2f0971d7859ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374512463.jpg?k=f85adbd8c3bd8f060cd53db234a500d19e7892d74ab24c2cc3ced4d4bfbe1d18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374519456.jpg?k=0a75672e0e96420cb74effad920ee4d89d531cd4f5c417f21f46969e1cc60f7f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771977.jpg?k=e3a60769f1a82da0741cefcf0d68ceee9424f13d26e9ebce4224c62189cd584f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368673897.jpg?k=aa348401987ab2b66081bfd424b4295505d6b90e39bd687faa5a520759951d5a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771976.jpg?k=7af25355129114a5da2feb188afb8aad5f8f0bd3d5c3eb5de12003fd39e7a57d&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Studio Apartment"
+  - "Studio Apartment"
+  - "One-Bedroom Apartment"
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Brutal Steakhouse 100 m"
+  - "Alto Mare 250 m"
+nearbyBeaches:
+  - "Golem Beach 300 m"
+  - "Mali I Robit Beach 350 m"
+  - "Shkëmbi i Kavajës Beach 2 km"
+  - "Qerret Beach 2.1 km"
+  - "Durres Beach 4.4 km"
+whatsNearby:
+  - "Bekimi 10 km"
+  - "Durres Amphiteatre 10 km"
+  - "Wine Dhe Pooh 10 km"
+  - "1. Maj 10 km"
+  - "Yje Dhe Hena 10 km"
+  - "Sheshi Demokracia 10 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Nadja"
+    country: "Switzerland"
+    text: "“Nice and functional apartment. Friendly and helpful staff.”"
+  - name: "Paweł"
+    country: "Poland"
+    text: "“There was a great and helpful staff. Very clean and close to the beach”"
+  - name: "Rea"
+    country: "Albania"
+    text: "“Highly recomended!⭐️⭐️⭐️⭐️⭐️
+Everything exceeded our expectations. The hotel is near many shops, supermarkets, a pharmacy, exhange and many restauraunts and bars. The beach is very very near and it has many options of sunbeds. The room is...”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-delmar.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The establishment prides itself on its around-the-clock front desk, ensuring full-day security and offering luggage storage services that cater to the needs of every guest, making their stay worry-free from arrival to departure. Each apartment is a haven of comfort, equipped with air conditioning for those warm, sunny days and featuring a balcony that invites guests to enjoy their own private outdoor space. Inside, a television provides entertainment, while the private bathroom comes complete with a hair dryer for convenience. To further enhance the guest experience, DelMar Apartments offers the option of towels and linens for a nominal fee, ensuring a comfortable and hassle-free stay.
 
 Mornings at DelMar Apartments begin with the delightful option of an Italian breakfast, setting the tone for a day of exploration or relaxation. For those little necessities or a quick snack, a minimarket on the premises offers the ultimate in convenience.
 

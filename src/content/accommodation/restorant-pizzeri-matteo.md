@@ -1,4 +1,69 @@
----\ntitle: "RESTORANT PIZZERI MATTEO"\ndescription: "RESTORANT PIZZERI MATTEO emerges as a serene retreat in Tragjas, offering a unique blend of comfort and convenience for travelers seeking an escape or an adventure 22 km away from the historic Kuzum Baba and Independence Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981114.jpg?k=ba24abe2d7cd984bc53b46fc7e55bb035ca1a841528444d178d4c276f903cdca&o=&hp=1"\nlanguage: en\nslug: restorant-pizzeri-matteo\naddress: "Rruga Beqir Sinani 4, 9426 Tragjas, Albania"\ncity: "Tragjas"\nlocation: "Tragjas"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.32693882\n  lng: 19.50885662\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981114.jpg?k=ba24abe2d7cd984bc53b46fc7e55bb035ca1a841528444d178d4c276f903cdca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981142.jpg?k=74718c6328ec793609e9363dbe9658f767091f788f777cbf2706e75b119146b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981112.jpg?k=805154b4dc62a0f1a37af4f19bd7d421d105e185d4cddfdea8e7087450a03392&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981092.jpg?k=3cab9eb356096d0906d85f736f4d4b15040926d656108b934616f148c6a2feae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981101.jpg?k=bae3bfde980e044f10ee126037004af3aeecab8d1663702d5691cec875458a70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981123.jpg?k=0207d9bf551edb6b8604e71d2bcc13a749bd3206486ea809e8e1b8475ae24791&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981128.jpg?k=414aa41b374da57208ae5abf727bd89935a6c6eda20c1892bf29ccc4011f6fdf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981121.jpg?k=825b4cc8e441d2688184a65d2db87e6c6eb620f5221a9446ddf95d23fb18ed9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981042.jpg?k=d6e11b731c32a72c1a20edc72a8c85c8ffc2667d2719dd3ebbe85abb5c99f74e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Family rooms"\n  - "Free WiFi"\n  - "Bar"\nnearbyRestaurants:\n  - "Bar Restorant Rrepet E Izvorit 450 m"\n  - "Pastiçeri Epoca 2.6 km"\nnearbyBeaches:\n  - "Al Breeze Beach 2.9 km"\n  - "Baro Beach 3 km"\n  - "Nettuno Beach 3.5 km"\n  - "Radhimë Beach 3.5 km"\n  - "Orikum Beach 4.4 km"\nwhatsNearby:\n  - "Llogora National Park 11 km"\n  - "Scooby Doo Vlore 12 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 86 km"\nbookingURL: "https://www.booking.com/hotel/al/restorant-pizzeri-matteo-tragjas.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at RESTORANT PIZZERI MATTEO are thoughtfully designed with guest comfort in mind. Each room opens to a balcony that frames breathtaking mountain views, providing a perfect backdrop for relaxation or inspiration. The attention to detail extends to the private bathrooms, equipped with a bidet and complimentary toiletries, ensuring a stay that is both comfortable and convenient. The presence of air conditioning and a desk in every room caters to the needs of both leisure and business travelers, promising a stay that is as productive as it is relaxing.
+---
+title: "RESTORANT PIZZERI MATTEO"
+description: "RESTORANT PIZZERI MATTEO emerges as a serene retreat in Tragjas, offering a unique blend of comfort and convenience for travelers seeking an escape or an adventure 22 km away from the historic Kuzum Baba and Independence Square."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981114.jpg?k=ba24abe2d7cd984bc53b46fc7e55bb035ca1a841528444d178d4c276f903cdca&o=&hp=1"
+language: en
+slug: restorant-pizzeri-matteo
+address: "Rruga Beqir Sinani 4, 9426 Tragjas, Albania"
+city: "Tragjas"
+location: "Tragjas"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.32693882
+  lng: 19.50885662
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981114.jpg?k=ba24abe2d7cd984bc53b46fc7e55bb035ca1a841528444d178d4c276f903cdca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981142.jpg?k=74718c6328ec793609e9363dbe9658f767091f788f777cbf2706e75b119146b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981112.jpg?k=805154b4dc62a0f1a37af4f19bd7d421d105e185d4cddfdea8e7087450a03392&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981092.jpg?k=3cab9eb356096d0906d85f736f4d4b15040926d656108b934616f148c6a2feae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981101.jpg?k=bae3bfde980e044f10ee126037004af3aeecab8d1663702d5691cec875458a70&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981123.jpg?k=0207d9bf551edb6b8604e71d2bcc13a749bd3206486ea809e8e1b8475ae24791&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981128.jpg?k=414aa41b374da57208ae5abf727bd89935a6c6eda20c1892bf29ccc4011f6fdf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981121.jpg?k=825b4cc8e441d2688184a65d2db87e6c6eb620f5221a9446ddf95d23fb18ed9a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981042.jpg?k=d6e11b731c32a72c1a20edc72a8c85c8ffc2667d2719dd3ebbe85abb5c99f74e&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Family rooms"
+  - "Free WiFi"
+  - "Bar"
+nearbyRestaurants:
+  - "Bar Restorant Rrepet E Izvorit 450 m"
+  - "Pastiçeri Epoca 2.6 km"
+nearbyBeaches:
+  - "Al Breeze Beach 2.9 km"
+  - "Baro Beach 3 km"
+  - "Nettuno Beach 3.5 km"
+  - "Radhimë Beach 3.5 km"
+  - "Orikum Beach 4.4 km"
+whatsNearby:
+  - "Llogora National Park 11 km"
+  - "Scooby Doo Vlore 12 km"
+  - "Kuzum Baba 16 km"
+  - "Independence Square 16 km"
+airports:
+  - "Corfu International Airport 86 km"
+bookingURL: "https://www.booking.com/hotel/al/restorant-pizzeri-matteo-tragjas.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at RESTORANT PIZZERI MATTEO are thoughtfully designed with guest comfort in mind. Each room opens to a balcony that frames breathtaking mountain views, providing a perfect backdrop for relaxation or inspiration. The attention to detail extends to the private bathrooms, equipped with a bidet and complimentary toiletries, ensuring a stay that is both comfortable and convenient. The presence of air conditioning and a desk in every room caters to the needs of both leisure and business travelers, promising a stay that is as productive as it is relaxing.
 
 Adding to the appeal is the property's commitment to connectivity, offering complimentary WiFi throughout, ensuring guests stay connected with the world or share their memorable experiences with ease. The proximity to Tirana International Mother Teresa Airport, 171 km away, positions RESTORANT PIZZERI MATTEO as an accessible haven for international travelers seeking the tranquility of Tragjas or the vibrant history of nearby landmarks.
 

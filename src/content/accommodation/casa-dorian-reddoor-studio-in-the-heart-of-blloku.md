@@ -1,4 +1,74 @@
----\ntitle: "CASA DORIAN, RedDoor Studio in the heart of BLLOKU"\ndescription: "CASA DORIAN, RedDoor Studio emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana's vibrant BLLOKU area."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411489324.jpg?k=0741a33d03a4b7a3a6baf9aafde434f854ff0ee57753e86ed4fe866849787e28&o=&hp=1"\nlanguage: en\nslug: casa-dorian-reddoor-studio-in-the-heart-of-blloku\naddress: "Rruga Sami Frashëri, 1019 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3207577\n  lng: 19.81449982\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411489324.jpg?k=0741a33d03a4b7a3a6baf9aafde434f854ff0ee57753e86ed4fe866849787e28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/411489406.jpg?k=87fe728bad1796ec01df0274104a8724962eba29f42ad86bc0a5c889d205e0e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/411489390.jpg?k=1b5927af5fe01a8cecc87e7a39904c016bad5ee621fb9bf4417c1b2f765f253c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489385.jpg?k=cd2a93a643927fb9c2065161597b680447a454ec9abeacdf81dc5a2bed83a0d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489421.jpg?k=052b69996748e2046a8568dd2da2187ba5c75954e01457eaf671a5cc0aab9fa1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489401.jpg?k=6ff8afd55de4d64aff78314d887c7ee8d2fe41f18637d644705be3475d58381b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489413.jpg?k=f88334f0c8e43ab02a737302641ee1fdbe6b87f2f067a7b3c4cadf896fe0c543&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489379.jpg?k=7c9f87eafd2c2f08cafa42fc4ecfa5ba7398b5ed8d0bbc0c58d324bffa9a2d57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489395.jpg?k=24279962f786f7a002b53f656d5a2b7cf1f07f8e2cf2bb8528963555e1b01ee5&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 800 m"\n  - "Skanderbeg Square 850 m"\n  - "Clock Tower Tirana 900 m"\n  - "National Museum of History Albania 1,000 m"\n  - "Tanners' Bridge 1.2 km"\n  - "Grand Park of Tirana 1.3 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Small Bar Tirana 30 m"\n  - "Sebastian Pub 40 m"\nwhatsNearby:\n  - "Former Residence of Enver Hoxha 250 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 450 m"\n  - "Shesh Rekreativ 450 m"\n  - "Rinia Park 550 m"\n  - "Sheshi Rekreativ Piramida 650 m"\n  - "Parku Rinia 650 m"\n  - "House of Leaves 700 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 700 m"\n  - "Parku I Madh I Tiranës (Grand Park) 750 m"\n  - "Sheshi Rekreativ Komuna e Parisit 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/casa-dorian-reddoor-studio-in-the-heart-of-blloku.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nA stone's throw away from significant landmarks, including the Postbllok - Checkpoint Monument, Saint Paul Cathedral, and the House of Leaves, all within a 1 km radius, guests find themselves immersed in the city's historical narrative. Moreover, the apartment's proximity to the Former Residence of Enver Hoxha, just 600 meters away, adds a layer of intrigue to its location.
+---
+title: "CASA DORIAN, RedDoor Studio in the heart of BLLOKU"
+description: "CASA DORIAN, RedDoor Studio emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana's vibrant BLLOKU area."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411489324.jpg?k=0741a33d03a4b7a3a6baf9aafde434f854ff0ee57753e86ed4fe866849787e28&o=&hp=1"
+language: en
+slug: casa-dorian-reddoor-studio-in-the-heart-of-blloku
+address: "Rruga Sami Frashëri, 1019 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3207577
+  lng: 19.81449982
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411489324.jpg?k=0741a33d03a4b7a3a6baf9aafde434f854ff0ee57753e86ed4fe866849787e28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/411489406.jpg?k=87fe728bad1796ec01df0274104a8724962eba29f42ad86bc0a5c889d205e0e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/411489390.jpg?k=1b5927af5fe01a8cecc87e7a39904c016bad5ee621fb9bf4417c1b2f765f253c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489385.jpg?k=cd2a93a643927fb9c2065161597b680447a454ec9abeacdf81dc5a2bed83a0d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489421.jpg?k=052b69996748e2046a8568dd2da2187ba5c75954e01457eaf671a5cc0aab9fa1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489401.jpg?k=6ff8afd55de4d64aff78314d887c7ee8d2fe41f18637d644705be3475d58381b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489413.jpg?k=f88334f0c8e43ab02a737302641ee1fdbe6b87f2f067a7b3c4cadf896fe0c543&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489379.jpg?k=7c9f87eafd2c2f08cafa42fc4ecfa5ba7398b5ed8d0bbc0c58d324bffa9a2d57&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411489395.jpg?k=24279962f786f7a002b53f656d5a2b7cf1f07f8e2cf2bb8528963555e1b01ee5&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 800 m"
+  - "Skanderbeg Square 850 m"
+  - "Clock Tower Tirana 900 m"
+  - "National Museum of History Albania 1,000 m"
+  - "Tanners' Bridge 1.2 km"
+  - "Grand Park of Tirana 1.3 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Small Bar Tirana 30 m"
+  - "Sebastian Pub 40 m"
+whatsNearby:
+  - "Former Residence of Enver Hoxha 250 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 450 m"
+  - "Shesh Rekreativ 450 m"
+  - "Rinia Park 550 m"
+  - "Sheshi Rekreativ Piramida 650 m"
+  - "Parku Rinia 650 m"
+  - "House of Leaves 700 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 700 m"
+  - "Parku I Madh I Tiranës (Grand Park) 750 m"
+  - "Sheshi Rekreativ Komuna e Parisit 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/casa-dorian-reddoor-studio-in-the-heart-of-blloku.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+A stone's throw away from significant landmarks, including the Postbllok - Checkpoint Monument, Saint Paul Cathedral, and the House of Leaves, all within a 1 km radius, guests find themselves immersed in the city's historical narrative. Moreover, the apartment's proximity to the Former Residence of Enver Hoxha, just 600 meters away, adds a layer of intrigue to its location.
 
 This air-conditioned 1-bedroom apartment doesn't skimp on amenities. Guests are treated to a suite of modern conveniences, including complimentary WiFi, a flat-screen TV, and a washing machine. The fully equipped kitchen, complete with an oven and microwave, allows for the easy preparation of meals, while the provision of towels and bed linen ensures a comfortable stay.
 

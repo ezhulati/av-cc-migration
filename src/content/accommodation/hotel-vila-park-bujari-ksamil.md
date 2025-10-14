@@ -1,4 +1,96 @@
----\ntitle: "Hotel Vila Park Bujari Ksamil"\ndescription: "Hotel Vila Park Bujari Ksamil stands as a beacon of comfort and convenience, mere steps away from the pristine shores of Paradise Beach in Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388692831.jpg?k=9413f11ec01a776908e780dbede4ba5601353f932f5116b591b026b8bb9ed423&o=&hp=1"\nlanguage: en\nslug: hotel-vila-park-bujari-ksamil\naddress: "Road Riviera, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76557291\n  lng: 19.99654909\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 76\nratings:\n  overall: 7.7\n  location: 8.6\n  cleanliness: 7.6\n  facilities: 7.5\n  value: 6.6\n  comfort: 7.7\n  staff: 8.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388692831.jpg?k=9413f11ec01a776908e780dbede4ba5601353f932f5116b591b026b8bb9ed423&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371087496.jpg?k=d1ae19642d9a5da1d446e49288592af37eb1cc08438a1583eb460a90e7a13885&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371854197.jpg?k=faffd83468abb1561efdbbf9ea4f3613ff39c455faedbd79664f7f79c47e8c0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371581650.jpg?k=d492440ee1a2024b48f3fe4c869f26550c6936435e0fce4fab14ffa2278bad14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371581662.jpg?k=24b7a7980309ce3c404995ba96e343b96472635e30e29346198f58634a13ddf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388692594.jpg?k=60c42348323fccfe023e2ad3ec8244b47cf0145d335392facd89a73c508d2c6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371087470.jpg?k=93318ace42d63e520aa0fed8844c9b5a8f223a5406e382053dd2c03f9094da4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371854512.jpg?k=7c5f85e9c01308e7aece081bfe0a19374c5d9745dfb2f07b81367a987ee8557b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374247024.jpg?k=df9ec993b8a9d7100883f704730451c598be662ac2e544d3067f4e2639c031ce&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "Fladeno Beach Restoraunt 50 m"\n  - "Tulum Principotes Ksamil 100 m"\nnearbyBeaches:\n  - "Paradise Beach 20 m"\n  - "Lori Beach 150 m"\n  - "Ksamil Beach 9 200 m"\n  - "Puerto Rico Beach 250 m"\n  - "Bora Bora Beach 600 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 550 m"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 3.8 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/vila-park-ksamil1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at this 3-star hotel are thoughtfully designed with the guest's comfort in mind, featuring air-conditioned rooms equipped with free WiFi and private bathrooms. For entertainment, each room is furnished with a flat-screen TV, with select accommodations boasting serene pool views, adding an extra layer of tranquility to the stay.
+---
+title: "Hotel Vila Park Bujari Ksamil"
+description: "Hotel Vila Park Bujari Ksamil stands as a beacon of comfort and convenience, mere steps away from the pristine shores of Paradise Beach in Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388692831.jpg?k=9413f11ec01a776908e780dbede4ba5601353f932f5116b591b026b8bb9ed423&o=&hp=1"
+language: en
+slug: hotel-vila-park-bujari-ksamil
+address: "Road Riviera, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.76557291
+  lng: 19.99654909
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.7
+ratingWords: "Good"
+numberOfReviews: 76
+ratings:
+  overall: 7.7
+  location: 8.6
+  cleanliness: 7.6
+  facilities: 7.5
+  value: 6.6
+  comfort: 7.7
+  staff: 8.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388692831.jpg?k=9413f11ec01a776908e780dbede4ba5601353f932f5116b591b026b8bb9ed423&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371087496.jpg?k=d1ae19642d9a5da1d446e49288592af37eb1cc08438a1583eb460a90e7a13885&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371854197.jpg?k=faffd83468abb1561efdbbf9ea4f3613ff39c455faedbd79664f7f79c47e8c0e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371581650.jpg?k=d492440ee1a2024b48f3fe4c869f26550c6936435e0fce4fab14ffa2278bad14&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371581662.jpg?k=24b7a7980309ce3c404995ba96e343b96472635e30e29346198f58634a13ddf6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388692594.jpg?k=60c42348323fccfe023e2ad3ec8244b47cf0145d335392facd89a73c508d2c6c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371087470.jpg?k=93318ace42d63e520aa0fed8844c9b5a8f223a5406e382053dd2c03f9094da4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371854512.jpg?k=7c5f85e9c01308e7aece081bfe0a19374c5d9745dfb2f07b81367a987ee8557b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374247024.jpg?k=df9ec993b8a9d7100883f704730451c598be662ac2e544d3067f4e2639c031ce&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Facilities for disabled guests"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Breakfast"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 17 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 18 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 19 km"
+nearbyRestaurants:
+  - "Fladeno Beach Restoraunt 50 m"
+  - "Tulum Principotes Ksamil 100 m"
+nearbyBeaches:
+  - "Paradise Beach 20 m"
+  - "Lori Beach 150 m"
+  - "Ksamil Beach 9 200 m"
+  - "Puerto Rico Beach 250 m"
+  - "Bora Bora Beach 600 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 550 m"
+  - "Butrint National Park 3.1 km"
+  - "Plazhi I Krorezes 3.8 km"
+  - "Parc National de Butrint 11 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/vila-park-ksamil1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at this 3-star hotel are thoughtfully designed with the guest's comfort in mind, featuring air-conditioned rooms equipped with free WiFi and private bathrooms. For entertainment, each room is furnished with a flat-screen TV, with select accommodations boasting serene pool views, adding an extra layer of tranquility to the stay.
 
 Beyond the comfort of the rooms, Hotel Vila Park Bujari Ksamil excels in services aimed at enriching the guest experience. The hotel offers room service, ensuring needs are met at any hour, and a 24-hour front desk, where staff are ready to assist with organizing tours that explore the local highlights.
 

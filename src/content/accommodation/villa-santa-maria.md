@@ -1,5 +1,80 @@
----\ntitle: "Villa Santa Maria"\ndescription: "Villa Santa Maria emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494719828.jpg?k=fb2cdd8c9a66038ba1bc9ae36bd9fc3b031da88542655d96df44268867cd532e&o=&hp=1"\nlanguage: en\nslug: villa-santa-maria\naddress: "Rruga Aleksandër Moisiu Uji Ftohte Vlore, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.41508324\n  lng: 19.48245988\nprice: "US$129"\npriceFrom: 129\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 14\nratings:\n  overall: 9.9\n  location: 9.8\n  cleanliness: 10\n  facilities: 9.4\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494719828.jpg?k=fb2cdd8c9a66038ba1bc9ae36bd9fc3b031da88542655d96df44268867cd532e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316764.jpg?k=63e9f58a89b244a9bb7b62c9c8de6d110fd6837304402ba5b71974368941cdf2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316756.jpg?k=6372132d7342f7d22699ebfe4aabb3ed855e0cf504c33ece7b893883c8b1d388&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154609818.jpg?k=e2cd954119efb0a03cadac0b6e87898ba17478728d1a374769210299a93eaa78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316754.jpg?k=1b69f4fc67a9645e47b48115e6d467a00b97972e3e2cdd2f5b48018471d3d10d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157049177.jpg?k=9da14acb42e1e07da1738638a75ceaa58aada58ca299466b1cbb42e7a3bbb89d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316749.jpg?k=2d1a1eed1c190b588370301fc43375e857f5220b7d53470e8fb077d194a71d42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154609908.jpg?k=f56362d5f7c8526b7c5f8700a6c0c430590a44c1b8239e4595b4e7e43900fe27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506227.jpg?k=5f90573086dd0820b87eb57cefa1e3dff271966e72572849934c5b73af4e941e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506228.jpg?k=e57f10618483733e28a3a9789962d3187dbb4fe5cf239082c9f4e94ddfcb53ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506231.jpg?k=9369108a510c25ae415699fcae94a31e9aeaac98a6c39b0919c5b722bd6666fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506029.jpg?k=46a3cf93a13cd0e3ba4228b6c8614806be7c605014fe91863adddd1f685375b9&o=&hp=1"\namenities:\n  - "2 swimming pools"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Riviera Blu 100 m"\n  - "Mandarine 150 m"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.6 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nreviews:\n  - name: "Kate"\n    country: "United Kingdom"\n    text: "“View, location, nice and modern design, clean, amazing terrace
-Very good place overall.”"\n  - name: "Tomasz"\n    country: "Poland"\n    text: "“Great place. A spacious, clean apartment, decorated in such a way that guests feel at home. Beautiful view of the bay. Shop one step away. The host is a nice, warm and very nice person. We felt extremely taken care of. I would highly recommend.”"\n  - name: "Verena"\n    country: "Austria"\n    text: "“The location and facilities were great :) Pool very well maintained and staff very nice.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-santa-maria.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property prides itself on offering a spacious apartment that caters to every need. With two bedrooms, a living room adorned with a flat-screen TV, and a fully equipped kitchen featuring a dishwasher and an oven, guests are guaranteed a home away from home experience. The inclusion of two bathrooms with walk-in showers, along with the provision of towels and bed linen, adds to the comfort. Emphasizing health and wellness, the apartment is designed to be allergy-free and strictly non-smoking.
+---
+title: "Villa Santa Maria"
+description: "Villa Santa Maria emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494719828.jpg?k=fb2cdd8c9a66038ba1bc9ae36bd9fc3b031da88542655d96df44268867cd532e&o=&hp=1"
+language: en
+slug: villa-santa-maria
+address: "Rruga Aleksandër Moisiu Uji Ftohte Vlore, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "villa"
+coordinates:
+  lat: 40.41508324
+  lng: 19.48245988
+price: "US$129"
+priceFrom: 129
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 14
+ratings:
+  overall: 9.9
+  location: 9.8
+  cleanliness: 10
+  facilities: 9.4
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494719828.jpg?k=fb2cdd8c9a66038ba1bc9ae36bd9fc3b031da88542655d96df44268867cd532e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316764.jpg?k=63e9f58a89b244a9bb7b62c9c8de6d110fd6837304402ba5b71974368941cdf2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316756.jpg?k=6372132d7342f7d22699ebfe4aabb3ed855e0cf504c33ece7b893883c8b1d388&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154609818.jpg?k=e2cd954119efb0a03cadac0b6e87898ba17478728d1a374769210299a93eaa78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316754.jpg?k=1b69f4fc67a9645e47b48115e6d467a00b97972e3e2cdd2f5b48018471d3d10d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157049177.jpg?k=9da14acb42e1e07da1738638a75ceaa58aada58ca299466b1cbb42e7a3bbb89d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308316749.jpg?k=2d1a1eed1c190b588370301fc43375e857f5220b7d53470e8fb077d194a71d42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154609908.jpg?k=f56362d5f7c8526b7c5f8700a6c0c430590a44c1b8239e4595b4e7e43900fe27&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506227.jpg?k=5f90573086dd0820b87eb57cefa1e3dff271966e72572849934c5b73af4e941e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506228.jpg?k=e57f10618483733e28a3a9789962d3187dbb4fe5cf239082c9f4e94ddfcb53ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506231.jpg?k=9369108a510c25ae415699fcae94a31e9aeaac98a6c39b0919c5b722bd6666fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195506029.jpg?k=46a3cf93a13cd0e3ba4228b6c8614806be7c605014fe91863adddd1f685375b9&o=&hp=1"
+amenities:
+  - "2 swimming pools"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "Apartment"
+nearbyRestaurants:
+  - "Riviera Blu 100 m"
+  - "Mandarine 150 m"
+whatsNearby:
+  - "Scooby Doo Vlore 2.6 km"
+  - "Kuzum Baba 6 km"
+  - "Independence Square 6 km"
+airports:
+  - "Corfu International Airport 96 km"
+reviews:
+  - name: "Kate"
+    country: "United Kingdom"
+    text: "“View, location, nice and modern design, clean, amazing terrace
+Very good place overall.”"
+  - name: "Tomasz"
+    country: "Poland"
+    text: "“Great place. A spacious, clean apartment, decorated in such a way that guests feel at home. Beautiful view of the bay. Shop one step away. The host is a nice, warm and very nice person. We felt extremely taken care of. I would highly recommend.”"
+  - name: "Verena"
+    country: "Austria"
+    text: "“The location and facilities were great :) Pool very well maintained and staff very nice.”"
+bookingURL: "https://www.booking.com/hotel/al/villa-santa-maria.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property prides itself on offering a spacious apartment that caters to every need. With two bedrooms, a living room adorned with a flat-screen TV, and a fully equipped kitchen featuring a dishwasher and an oven, guests are guaranteed a home away from home experience. The inclusion of two bathrooms with walk-in showers, along with the provision of towels and bed linen, adds to the comfort. Emphasizing health and wellness, the apartment is designed to be allergy-free and strictly non-smoking.
 
 For those who find solace in nature, Villa Santa Maria does not disappoint. The garden invites guests to unwind in tranquility, while the private beach area promises exclusive seaside relaxation. 
 

@@ -1,4 +1,85 @@
----\ntitle: "Hotel Adriatik Orikum"\ndescription: "Hotel Adriatik Orikum emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Orikum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372728128.jpg?k=ee1cbf4b0ffe1ec15cf05f9923e33987bb3e7dc096d980560cbaa96e073e58f1&o=&hp=1"\nlanguage: en\nslug: hotel-adriatik-orikum\naddress: "Rruga Orikum Hotel Adriatik Orikum, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.32775\n  lng: 19.472159\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 84\nratings:\n  overall: 9.2\n  location: 8.2\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.1\n  comfort: 9.4\n  staff: 9.8\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372728128.jpg?k=ee1cbf4b0ffe1ec15cf05f9923e33987bb3e7dc096d980560cbaa96e073e58f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370867998.jpg?k=475f06a4d21859345411304e7d3c9ca4b1b5479cfe86cde91180b5362bc184bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370868794.jpg?k=b63fb57663e3ca88d85e8fb33463b4ac9d3177806e2786b5d401859aac22c9b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370875953.jpg?k=822dbbe155f6f8e7d2b3e6f1a672c092c1f6a867c29ad3b06bc23a2086c90ca5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397261588.jpg?k=608ee9140b66ac6d9f975b4c89ee2e62eb416135674df0735a371f62a317eb28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370867636.jpg?k=7d88148840759994f2f76412207444620ea73d8dcbe5d0d486ba8e3b1ed21f58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869062.jpg?k=6505bb46d91bd0bf100d9c4c0aaef614523c8dc2c67be273f82ce4f23205c0fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869325.jpg?k=c1c0e04c509375a804c33bcaa4e2b0f88f71579184f1d4e41b27a8a3f06cb5cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869475.jpg?k=aa509218e8a17c793da2f4f5ba9f01b9c750c072ea6e275f5a39fc1164146b6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869641.jpg?k=9d6c3b2f1efeeab0df9499ee4bffb081d846719371bb443d768cd24620c941a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869968.jpg?k=a87fdcbcd1ace94a37a04e7e95eb47e1ee9907d0c7c116ee3cbd11e537fcd8da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370870118.jpg?k=98417cbd89002e47d57dc9247b3119a448fc1956c712e7577443365a76a65417&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Fabulous breakfast"\nnearbyRestaurants:\n  - "Las Belo 150 m"\n  - "Mats Beach Bar and Cafe 300 m"\nnearbyBeaches:\n  - "Nettuno Beach 1,000 m"\n  - "Orikum Beach 1.2 km"\n  - "Baro Beach 1.6 km"\n  - "Al Breeze Beach 2.2 km"\n  - "Radhimë Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\nreviews:\n  - name: "Kitti"\n    country: "United Kingdom"\n    text: "“Beautiful inside and outside, the owner is very friendly and helpful.”"\n  - name: "Josef-28"\n    country: "Czech Republic"\n    text: "“When we arrived, the owners were waiting for us and greeted us warmly. The hotel is located in the city, surrounded by residential construction. Unexpectedly, it has a very romantic atmosphere. The rooms are clean and cosy. The breakfast is...”"\n  - name: "Pstep"\n    country: "Albania"\n    text: "“Breakfast was a choice of sweet or savoury, which was included. The room was very clean. The pool was great and the beach was within walking distance, although we stayed by the pool all day. The dinner was delicious and very large portions. The...”"\nbookingURL: "https://www.booking.com/hotel/al/adriatik-orikum.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Adriatik Orikum are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless of the season. The inclusion of a wardrobe, a patio offering serene pool views, and a private bathroom with provided bed linen and towels, all contribute to a stay that promises both relaxation and convenience. For those desiring the comforts of home, select rooms boast a kitchen equipped with a stovetop, alongside a fridge, catering to the needs of guests preferring to prepare their own meals.
+---
+title: "Hotel Adriatik Orikum"
+description: "Hotel Adriatik Orikum emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Orikum."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372728128.jpg?k=ee1cbf4b0ffe1ec15cf05f9923e33987bb3e7dc096d980560cbaa96e073e58f1&o=&hp=1"
+language: en
+slug: hotel-adriatik-orikum
+address: "Rruga Orikum Hotel Adriatik Orikum, 9426 Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.32775
+  lng: 19.472159
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 84
+ratings:
+  overall: 9.2
+  location: 8.2
+  cleanliness: 9.5
+  facilities: 9.2
+  value: 9.1
+  comfort: 9.4
+  staff: 9.8
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372728128.jpg?k=ee1cbf4b0ffe1ec15cf05f9923e33987bb3e7dc096d980560cbaa96e073e58f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370867998.jpg?k=475f06a4d21859345411304e7d3c9ca4b1b5479cfe86cde91180b5362bc184bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370868794.jpg?k=b63fb57663e3ca88d85e8fb33463b4ac9d3177806e2786b5d401859aac22c9b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370875953.jpg?k=822dbbe155f6f8e7d2b3e6f1a672c092c1f6a867c29ad3b06bc23a2086c90ca5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397261588.jpg?k=608ee9140b66ac6d9f975b4c89ee2e62eb416135674df0735a371f62a317eb28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370867636.jpg?k=7d88148840759994f2f76412207444620ea73d8dcbe5d0d486ba8e3b1ed21f58&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869062.jpg?k=6505bb46d91bd0bf100d9c4c0aaef614523c8dc2c67be273f82ce4f23205c0fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869325.jpg?k=c1c0e04c509375a804c33bcaa4e2b0f88f71579184f1d4e41b27a8a3f06cb5cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869475.jpg?k=aa509218e8a17c793da2f4f5ba9f01b9c750c072ea6e275f5a39fc1164146b6f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869641.jpg?k=9d6c3b2f1efeeab0df9499ee4bffb081d846719371bb443d768cd24620c941a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370869968.jpg?k=a87fdcbcd1ace94a37a04e7e95eb47e1ee9907d0c7c116ee3cbd11e537fcd8da&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370870118.jpg?k=98417cbd89002e47d57dc9247b3119a448fc1956c712e7577443365a76a65417&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Fabulous breakfast"
+nearbyRestaurants:
+  - "Las Belo 150 m"
+  - "Mats Beach Bar and Cafe 300 m"
+nearbyBeaches:
+  - "Nettuno Beach 1,000 m"
+  - "Orikum Beach 1.2 km"
+  - "Baro Beach 1.6 km"
+  - "Al Breeze Beach 2.2 km"
+  - "Radhimë Beach 2.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 12 km"
+  - "Llogora National Park 13 km"
+  - "Kuzum Baba 16 km"
+  - "Independence Square 16 km"
+airports:
+  - "Corfu International Airport 88 km"
+reviews:
+  - name: "Kitti"
+    country: "United Kingdom"
+    text: "“Beautiful inside and outside, the owner is very friendly and helpful.”"
+  - name: "Josef-28"
+    country: "Czech Republic"
+    text: "“When we arrived, the owners were waiting for us and greeted us warmly. The hotel is located in the city, surrounded by residential construction. Unexpectedly, it has a very romantic atmosphere. The rooms are clean and cosy. The breakfast is...”"
+  - name: "Pstep"
+    country: "Albania"
+    text: "“Breakfast was a choice of sweet or savoury, which was included. The room was very clean. The pool was great and the beach was within walking distance, although we stayed by the pool all day. The dinner was delicious and very large portions. The...”"
+bookingURL: "https://www.booking.com/hotel/al/adriatik-orikum.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Hotel Adriatik Orikum are thoughtfully designed with guest comfort in mind. Each room is equipped with air conditioning, ensuring a restful environment regardless of the season. The inclusion of a wardrobe, a patio offering serene pool views, and a private bathroom with provided bed linen and towels, all contribute to a stay that promises both relaxation and convenience. For those desiring the comforts of home, select rooms boast a kitchen equipped with a stovetop, alongside a fridge, catering to the needs of guests preferring to prepare their own meals.
 
 Situated 18 km from the historic Kuzum Baba and 19 km from the vibrant Independence Square, the hotel offers an ideal base for exploring the rich cultural tapestry of the region. For guests traveling from afar, the Tirana International Mother Teresa Airport is located 168 km away, making Hotel Adriatik Orikum an accessible destination for both domestic and international travelers.
 

@@ -1,5 +1,77 @@
----\ntitle: "Ellias Guest House"\ndescription: "Ellias Guest House emerges as a serene retreat in the vibrant heart of Sarandë, positioned just a stone's throw away from the city's most pristine beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288433.jpg?k=18f8f0233d22b5d21a32e2203d811a0776fe47ca6da0a2904153549b7632a00e&o=&hp=1"\nlanguage: en\nslug: ellias-guest-house\naddress: "Rruga Adem Sheme, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8809825\n  lng: 20.00154944\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9.2\n  location: 7.9\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 9.6\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288433.jpg?k=18f8f0233d22b5d21a32e2203d811a0776fe47ca6da0a2904153549b7632a00e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288472.jpg?k=b567aedb529ecd29c6bc44c21e1d008a316ef71d3cb138e1bed725009d8a0245&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288488.jpg?k=dd103211fc7270713e9191488ca69310af39e793f0d0c40940a1ee454d004e39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288495.jpg?k=a3211fac32e42c706484a4082bd81ddcae9388781bf8bb2fc258727f2ee763c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288391.jpg?k=2a07795ccff40bda641569e5f7cda1bf609c52bb0a20cc29e484cedcc9e0b4a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288454.jpg?k=a45882f951fce18c574f56fd0b52c7f1a24c8c3788d421c8242f0300df6c53cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288384.jpg?k=2f470184223e307e1ec6bcc173924e38d17de580973532012c083667c2d4302b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288395.jpg?k=bdcdf9319e819761142d61a0e27c097f2e54237ad3ea1c26ff9b557b82cea05a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476390444.jpg?k=fcb73ac330de0d857be9d184d0f76ea94a0bf6df2d799aedf4fd42753b304902&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Coffee House 300 m"\n  - "Milos Kitchen 550 m"\nnearbyBeaches:\n  - "Saranda City Beach 1 km"\n  - "Sarande Main Beach 1.2 km"\n  - "La Petite Beach 1.8 km"\n  - "Saranda Bay Beach 1.8 km"\n  - "Maestral Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.2 km"\n  - "Butrint National Park 4 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 13 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Alvaro"\n    country: "Bulgaria"\n    text: "“Amazing appartement! The emplacement is really nice with a beautiful garden.
-Thank you Laura for your hospitality :)”"\n  - name: "Emanuela"\n    country: "Italy"\n    text: "“Mini appartamento molto confortevole per due persone. Struttura pulita. Posto auto/moto interno alla struttura.”"\nbookingURL: "https://www.booking.com/hotel/al/elias-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe guest house boasts a meticulously designed 1-bedroom apartment, complete with a fully equipped kitchen, ensuring a home-away-from-home experience. The living spaces are adorned with modern amenities including a flat-screen TV and air conditioning, complemented by sweeping garden views that promise a peaceful backdrop for your stay.
+---
+title: "Ellias Guest House"
+description: "Ellias Guest House emerges as a serene retreat in the vibrant heart of Sarandë, positioned just a stone's throw away from the city's most pristine beaches."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288433.jpg?k=18f8f0233d22b5d21a32e2203d811a0776fe47ca6da0a2904153549b7632a00e&o=&hp=1"
+language: en
+slug: ellias-guest-house
+address: "Rruga Adem Sheme, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.8809825
+  lng: 20.00154944
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 6
+ratings:
+  overall: 9.2
+  location: 7.9
+  cleanliness: 9.2
+  facilities: 9.2
+  value: 9.6
+  comfort: 9.2
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288433.jpg?k=18f8f0233d22b5d21a32e2203d811a0776fe47ca6da0a2904153549b7632a00e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288472.jpg?k=b567aedb529ecd29c6bc44c21e1d008a316ef71d3cb138e1bed725009d8a0245&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288488.jpg?k=dd103211fc7270713e9191488ca69310af39e793f0d0c40940a1ee454d004e39&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288495.jpg?k=a3211fac32e42c706484a4082bd81ddcae9388781bf8bb2fc258727f2ee763c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288391.jpg?k=2a07795ccff40bda641569e5f7cda1bf609c52bb0a20cc29e484cedcc9e0b4a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288454.jpg?k=a45882f951fce18c574f56fd0b52c7f1a24c8c3788d421c8242f0300df6c53cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288384.jpg?k=2f470184223e307e1ec6bcc173924e38d17de580973532012c083667c2d4302b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288395.jpg?k=bdcdf9319e819761142d61a0e27c097f2e54237ad3ea1c26ff9b557b82cea05a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476390444.jpg?k=fcb73ac330de0d857be9d184d0f76ea94a0bf6df2d799aedf4fd42753b304902&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Coffee House 300 m"
+  - "Milos Kitchen 550 m"
+nearbyBeaches:
+  - "Saranda City Beach 1 km"
+  - "Sarande Main Beach 1.2 km"
+  - "La Petite Beach 1.8 km"
+  - "Saranda Bay Beach 1.8 km"
+  - "Maestral Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 3.2 km"
+  - "Butrint National Park 4 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 13 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Alvaro"
+    country: "Bulgaria"
+    text: "“Amazing appartement! The emplacement is really nice with a beautiful garden.
+Thank you Laura for your hospitality :)”"
+  - name: "Emanuela"
+    country: "Italy"
+    text: "“Mini appartamento molto confortevole per due persone. Struttura pulita. Posto auto/moto interno alla struttura.”"
+bookingURL: "https://www.booking.com/hotel/al/elias-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The guest house boasts a meticulously designed 1-bedroom apartment, complete with a fully equipped kitchen, ensuring a home-away-from-home experience. The living spaces are adorned with modern amenities including a flat-screen TV and air conditioning, complemented by sweeping garden views that promise a peaceful backdrop for your stay.
 
 Beyond the comfort of the apartment, guests are invited to unwind in the lush garden, a perfect spot for relaxation after a day of beach exploration or historical discovery.
 

@@ -1,4 +1,100 @@
----\ntitle: "Hotel Princi i Vogel"\ndescription: "Hotel Princi i Vogel emerges as a charming retreat in the heart of Velipojë, boasting not only an inviting on-site restaurant and bar but also the convenience of complimentary WiFi and private parking for all guests."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138467526.jpg?k=d7f420c4ab3ea98087d33bc14055dd01c0d31f0f19c78278cc80c8d74e92f7c7&o=&hp=1"\nlanguage: en\nslug: hotel-princi-i-vogel\naddress: "Rruga No 4, Plazh Velipoje, 4020 Velipojë, Albania"\ncity: "Velipojë"\nlocation: "Velipojë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.86423305\n  lng: 19.41490442\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 120\nratings:\n  overall: 9.1\n  location: 8.9\n  cleanliness: 9.2\n  facilities: 8.4\n  value: 9.1\n  comfort: 9\n  staff: 9.6\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138467526.jpg?k=d7f420c4ab3ea98087d33bc14055dd01c0d31f0f19c78278cc80c8d74e92f7c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103586959.jpg?k=dc1271efca0af0eb2bfa5ea1f3285d14392a901c4b15c2936fd1d7f93101d88d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/48593741.jpg?k=2ef14043aa611cff1e0ed89367fb0f1d455516ad1ec6311672c9b5105dfd0b1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256648709.jpg?k=52ca6dc0cfd2ba438f1e7331882159be1e110b5f117f17c290e75de1ad272fc7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103587007.jpg?k=44ee3b93717d29552295f52fc88a4c5c8e3c7d50ccb8c5101a25abf4d4456cdd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103586951.jpg?k=61ab8d6095bb6320a54c92dd842c0175edf305ed90b902b7d6acde1ff92264c2&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Double Room with Private Bathroom"\n  - "Double Room with Balcony"\n  - "Apartment with Balcony"\nnearbyAttractions:\n  - "Old Town Ulcinj 19 km"\nnearbyRestaurants:\n  - "Freskia 150 m"\n  - "Bar Restorant 407 150 m"\nnearbyBeaches:\n  - "Velipoja Beach 200 m"\n  - "Rana e Hedhun Beach 2.8 km"\n  - "Ada Bojana Beach 4 km"\n  - "Velika Plaza Beach 6 km"\nwhatsNearby:\n  - "Copacabana 9 km"\n  - "Cola Beach 10 km"\n  - "Imperiam Beach 12 km"\n  - "Msm Beach 12 km"\n  - "Tropicana 13 km"\n  - "Plaža Safari 13 km"\n  - "Bukurija Beach 14 km"\n  - "Saranda 14 km"\n  - "Plaža Toni 15 km"\n  - "Nudistička Plaža Albatros 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 81 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Camelia"\n    country: "Hungary"\n    text: "“Spotlessly clean, well managed and cozy, the hotel caters to families, couples and solo travelers alike. We only stayed for a night on our way to Greece but if we were in the area again, we would definitely stay longer. Loved the homemade...”"\n  - name: "Priska"\n    country: "Italy"\n    text: "“The location is fantastic, as it is very close to the beach and in an area that is not too crowded. The room had AC and was clean. The hotel has also a swimming pool and breakfast is good (I had a very nice homemade jam and bread as a vegan...”"\n  - name: "Ziv"\n    country: "Israel"\n    text: "“We love this place! Great location, very comfortable with kids.”"\nbookingURL: "https://www.booking.com/hotel/al/princi-i-vogel.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at this hotel are thoughtfully equipped with televisions in every room, ensuring entertainment is always within reach. Privacy and comfort are paramount, with each room featuring its own bathroom, complete with a refreshing shower.
+---
+title: "Hotel Princi i Vogel"
+description: "Hotel Princi i Vogel emerges as a charming retreat in the heart of Velipojë, boasting not only an inviting on-site restaurant and bar but also the convenience of complimentary WiFi and private parking for all guests."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138467526.jpg?k=d7f420c4ab3ea98087d33bc14055dd01c0d31f0f19c78278cc80c8d74e92f7c7&o=&hp=1"
+language: en
+slug: hotel-princi-i-vogel
+address: "Rruga No 4, Plazh Velipoje, 4020 Velipojë, Albania"
+city: "Velipojë"
+location: "Velipojë"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.86423305
+  lng: 19.41490442
+price: "US$41"
+priceFrom: 41
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 120
+ratings:
+  overall: 9.1
+  location: 8.9
+  cleanliness: 9.2
+  facilities: 8.4
+  value: 9.1
+  comfort: 9
+  staff: 9.6
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138467526.jpg?k=d7f420c4ab3ea98087d33bc14055dd01c0d31f0f19c78278cc80c8d74e92f7c7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103586959.jpg?k=dc1271efca0af0eb2bfa5ea1f3285d14392a901c4b15c2936fd1d7f93101d88d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/48593741.jpg?k=2ef14043aa611cff1e0ed89367fb0f1d455516ad1ec6311672c9b5105dfd0b1c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256648709.jpg?k=52ca6dc0cfd2ba438f1e7331882159be1e110b5f117f17c290e75de1ad272fc7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103587007.jpg?k=44ee3b93717d29552295f52fc88a4c5c8e3c7d50ccb8c5101a25abf4d4456cdd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103586951.jpg?k=61ab8d6095bb6320a54c92dd842c0175edf305ed90b902b7d6acde1ff92264c2&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Airport shuttle"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Double Room with Private Bathroom"
+  - "Double Room with Private Bathroom"
+  - "Double Room with Balcony"
+  - "Apartment with Balcony"
+nearbyAttractions:
+  - "Old Town Ulcinj 19 km"
+nearbyRestaurants:
+  - "Freskia 150 m"
+  - "Bar Restorant 407 150 m"
+nearbyBeaches:
+  - "Velipoja Beach 200 m"
+  - "Rana e Hedhun Beach 2.8 km"
+  - "Ada Bojana Beach 4 km"
+  - "Velika Plaza Beach 6 km"
+whatsNearby:
+  - "Copacabana 9 km"
+  - "Cola Beach 10 km"
+  - "Imperiam Beach 12 km"
+  - "Msm Beach 12 km"
+  - "Tropicana 13 km"
+  - "Plaža Safari 13 km"
+  - "Bukurija Beach 14 km"
+  - "Saranda 14 km"
+  - "Plaža Toni 15 km"
+  - "Nudistička Plaža Albatros 18 km"
+airports:
+  - "Tirana International Airport Mother Teresa 54 km"
+  - "Podgorica Airport 55 km"
+  - "Tivat Airport 81 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Camelia"
+    country: "Hungary"
+    text: "“Spotlessly clean, well managed and cozy, the hotel caters to families, couples and solo travelers alike. We only stayed for a night on our way to Greece but if we were in the area again, we would definitely stay longer. Loved the homemade...”"
+  - name: "Priska"
+    country: "Italy"
+    text: "“The location is fantastic, as it is very close to the beach and in an area that is not too crowded. The room had AC and was clean. The hotel has also a swimming pool and breakfast is good (I had a very nice homemade jam and bread as a vegan...”"
+  - name: "Ziv"
+    country: "Israel"
+    text: "“We love this place! Great location, very comfortable with kids.”"
+bookingURL: "https://www.booking.com/hotel/al/princi-i-vogel.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at this hotel are thoughtfully equipped with televisions in every room, ensuring entertainment is always within reach. Privacy and comfort are paramount, with each room featuring its own bathroom, complete with a refreshing shower.
 
 Beyond the confines of the individual rooms, guests are welcomed into a shared lounge area, a perfect space for relaxation and socializing. 
 

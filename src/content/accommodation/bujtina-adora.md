@@ -1,5 +1,80 @@
----\ntitle: "Bujtina Adora"\ndescription: "Bujtina Adora emerges as a serene retreat in Ara të Lumit, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467372009.jpg?k=de712cb1af2e117b37bef685922c153839e5d2a6df2a99af8495625e41e7dd52&o=&hp=1"\nlanguage: en\nslug: bujtina-adora\naddress: "Dushaj, Tropojë, Ara të Lumit, Albania"\ncity: "Ara të Lumit"\nlocation: "Ara të Lumit"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.28651073\n  lng: 20.02216358\nprice: "US$87"\npriceFrom: 87\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 169\nratings:\n  overall: 8.2\n  location: 9.1\n  cleanliness: 9.2\n  facilities: 8.5\n  value: 8.6\n  comfort: 9.1\n  staff: 8.7\n  wifi: 4.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467372009.jpg?k=de712cb1af2e117b37bef685922c153839e5d2a6df2a99af8495625e41e7dd52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377784919.jpg?k=7d3c330995c785870f80cac8835d3569095a7669a154c90862bb4ac09a4cf3d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377785324.jpg?k=cbb691d5338f496b18ef7936b24377eceabc23d9903a5d60d33a5ce9bc76ee30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477856707.jpg?k=662b408db98f542fb3791ac6226d47ebd5eba21ca4a8349d10e8829ca151dc38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377785093.jpg?k=61e7e72f453cc65bf7b6eaa4414785abf5c2f97663474ef496b8fd0efac89cc7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467372814.jpg?k=804607aa0b1239c96a566b7e898d0353fcbee56393353856bcd9769a205523cb&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Balcony"\nnearbyRestaurants:\n  - "Viktor Ramaj 750 m"\n  - "Bar Edison Vukaj 6 km"\nwhatsNearby:\n  - "Valbona Valley National Park 9 km"\n  - "Valbona Valley National Park 10 km"\n  - "Theth National Park 19 km"\nairports:\n  - "Podgorica Airport 64 km"\n  - "Pristina International Airport 88 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Robyn"\n    country: "Australia"\n    text: "“Property was beautifully maintained, restaurant setting and food amazing. Staff went above and beyond especially with assistance in obtaining mechanical repairs out of hours so we were able to continue our journey. We thank them very much.”"\n  - name: "Vasil"\n    country: "Bulgaria"\n    text: "“Wonderful view, great service, delicious food, very clean rooms. We had a great time at this place.”"\n  - name: "Jennifer"\n    country: "Belgium"\n    text: "“- The location is beautiful. The hotel is located on a hill, with a stunning view over the rivers and the mountains.
-- It's a 10 min walk downhill (take 15 min uphill) to go to the river - We took the ferry from Koman to Fierze and than took a...”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-adora-agroturizem.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nDining options at Bujtina Adora cater to a variety of tastes, with an in-house restaurant serving delightful meals. For lighter fare, guests can visit the snack bar, or unwind with a drink at the bar and lounge. The hotel's outdoor spaces, including a picnic area and a terrace, invite guests to relax while taking in the breathtaking views of the surrounding mountains and lake.
+---
+title: "Bujtina Adora"
+description: "Bujtina Adora emerges as a serene retreat in Ara të Lumit, offering guests a unique blend of comfort and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467372009.jpg?k=de712cb1af2e117b37bef685922c153839e5d2a6df2a99af8495625e41e7dd52&o=&hp=1"
+language: en
+slug: bujtina-adora
+address: "Dushaj, Tropojë, Ara të Lumit, Albania"
+city: "Ara të Lumit"
+location: "Ara të Lumit"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 42.28651073
+  lng: 20.02216358
+price: "US$87"
+priceFrom: 87
+starRating: 3
+rating: 8.2
+ratingWords: "Very Good"
+numberOfReviews: 169
+ratings:
+  overall: 8.2
+  location: 9.1
+  cleanliness: 9.2
+  facilities: 8.5
+  value: 8.6
+  comfort: 9.1
+  staff: 8.7
+  wifi: 4.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467372009.jpg?k=de712cb1af2e117b37bef685922c153839e5d2a6df2a99af8495625e41e7dd52&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377784919.jpg?k=7d3c330995c785870f80cac8835d3569095a7669a154c90862bb4ac09a4cf3d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377785324.jpg?k=cbb691d5338f496b18ef7936b24377eceabc23d9903a5d60d33a5ce9bc76ee30&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477856707.jpg?k=662b408db98f542fb3791ac6226d47ebd5eba21ca4a8349d10e8829ca151dc38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377785093.jpg?k=61e7e72f453cc65bf7b6eaa4414785abf5c2f97663474ef496b8fd0efac89cc7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467372814.jpg?k=804607aa0b1239c96a566b7e898d0353fcbee56393353856bcd9769a205523cb&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Double Room with Balcony"
+nearbyRestaurants:
+  - "Viktor Ramaj 750 m"
+  - "Bar Edison Vukaj 6 km"
+whatsNearby:
+  - "Valbona Valley National Park 9 km"
+  - "Valbona Valley National Park 10 km"
+  - "Theth National Park 19 km"
+airports:
+  - "Podgorica Airport 64 km"
+  - "Pristina International Airport 88 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Robyn"
+    country: "Australia"
+    text: "“Property was beautifully maintained, restaurant setting and food amazing. Staff went above and beyond especially with assistance in obtaining mechanical repairs out of hours so we were able to continue our journey. We thank them very much.”"
+  - name: "Vasil"
+    country: "Bulgaria"
+    text: "“Wonderful view, great service, delicious food, very clean rooms. We had a great time at this place.”"
+  - name: "Jennifer"
+    country: "Belgium"
+    text: "“- The location is beautiful. The hotel is located on a hill, with a stunning view over the rivers and the mountains.
+- It's a 10 min walk downhill (take 15 min uphill) to go to the river - We took the ferry from Koman to Fierze and than took a...”"
+bookingURL: "https://www.booking.com/hotel/al/bujtina-adora-agroturizem.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Dining options at Bujtina Adora cater to a variety of tastes, with an in-house restaurant serving delightful meals. For lighter fare, guests can visit the snack bar, or unwind with a drink at the bar and lounge. The hotel's outdoor spaces, including a picnic area and a terrace, invite guests to relax while taking in the breathtaking views of the surrounding mountains and lake.
 
 For those keen on exploring, Bujtina Adora is conveniently located within easy reach of sightseeing tours. Adventure enthusiasts will appreciate the opportunity to engage in hiking excursions nearby, or simply to enjoy the tranquil beauty of the hotel's garden.
 

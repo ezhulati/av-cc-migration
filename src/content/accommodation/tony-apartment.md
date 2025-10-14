@@ -1,5 +1,80 @@
----\ntitle: "Tony Apartment"\ndescription: "Tony Apartment stands as a prime choice for travelers seeking a beachfront haven in Vlorë, mere steps away from the pristine Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292667328.jpg?k=92759e8148c6053399ca85cd051d9b510bf7a6905e4bc3f3ef28246dc47fffa6&o=&hp=1"\nlanguage: en\nslug: tony-apartment\naddress: "Rruga Murat Tërbaçi Kompleksi Flamingo, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44215649\n  lng: 19.49579883\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 25\nratings:\n  overall: 9.3\n  location: 9.6\n  cleanliness: 9.2\n  facilities: 9\n  value: 9.4\n  comfort: 9.4\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292667328.jpg?k=92759e8148c6053399ca85cd051d9b510bf7a6905e4bc3f3ef28246dc47fffa6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295702528.jpg?k=476facf436d866c00750fb0d3f141b526fc7feaef956e90449293c9c5e05ea16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303361660.jpg?k=8067d6592cd9958b2f26b29b0e1e891ab127711d1338e297cbf51934b88b8e99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295702593.jpg?k=ff1bb2a5290f47262f0f3de5fde58815e7f183827ac8d2cd52eca86a6efb9fdd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293690522.jpg?k=d1e96fd7094370d7131998b68a1a0ac8d8fd962b6609010a621d34ff96021bf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295704643.jpg?k=60302a4f1cbe97c2d4efbcce64d91e44ac2072e4e228b4508c096ae241c464df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293693869.jpg?k=581f833b195adf1b4fd9c68d7c47e61202c2d75d5fcc7e9e9befd56bc9a28e74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293704866.jpg?k=d74b702316c9434bd6b6acab35c999424818cec359ab723628e2f70d3d59aa1e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423787234.jpg?k=c4a0bd81c8fb4243840711e5cc7f60b53fcffb9b7f69a4023847ee2636634031&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293693189.jpg?k=252d43da4f5d2d3028902855f65c7f36802920f6d1cba98732ead68cf909192f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293693556.jpg?k=46e4bf47592462b25b42a2afa733d0d0267aff756d925a4adb7bdc145f6c1383&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293691260.jpg?k=b4b36947278cc6b0514dbc1011ed1b90819e0682c7945c88534d7c5eeb1cfc02&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "The Wave 30 m"\n  - "Hannover 30 m"\nnearbyBeaches:\n  - "Vlore Beach 100 m"\n  - "Ri Beach 750 m"\n  - "Vjetër Beach 1.6 km"\n  - "Beach at Government Villas 2.6 km"\n  - "Liro Beach 3.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 650 m"\n  - "Kuzum Baba 2.8 km"\n  - "Independence Square 3.2 km"\nreviews:\n  - name: "Paoula"\n    country: "Switzerland"\n    text: "“Nice apartment, straight next to the beach. Clean and it is equipped with everything we needed during our stay there. Big balcony with sea view. The host really kind and helpful.”"\n  - name: "A"\n    country: "Switzerland"\n    text: "“Perfect location with a beautiful seaview from the balcony,close to the best restaurants and bars in the area,very clean and spacious apartment.
-Absolutely recommend it!”"\n  - name: "Tatyana"\n    country: "Kazakhstan"\n    text: "“Spacious and clean apartment. Amazing view from the balcony. The kitchen has everything you need. Tony is an amazing host, was in touch 24/7. Thank you so much!”"\nbookingURL: "https://www.booking.com/hotel/al/tony-apartment-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, boasting a balcony that offers unobstructed sea views. Designed to accommodate the modern traveler, it features a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen with an oven and fridge, catering to guests' culinary needs. The inclusion of a bathroom with a bidet adds a touch of convenience. Moreover, the outdoor dining area invites guests to enjoy their meals while soaking in the scenic surroundings, enhancing the overall stay experience. It's important to note that the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
+---
+title: "Tony Apartment"
+description: "Tony Apartment stands as a prime choice for travelers seeking a beachfront haven in Vlorë, mere steps away from the pristine Vlore Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292667328.jpg?k=92759e8148c6053399ca85cd051d9b510bf7a6905e4bc3f3ef28246dc47fffa6&o=&hp=1"
+language: en
+slug: tony-apartment
+address: "Rruga Murat Tërbaçi Kompleksi Flamingo, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44215649
+  lng: 19.49579883
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 25
+ratings:
+  overall: 9.3
+  location: 9.6
+  cleanliness: 9.2
+  facilities: 9
+  value: 9.4
+  comfort: 9.4
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292667328.jpg?k=92759e8148c6053399ca85cd051d9b510bf7a6905e4bc3f3ef28246dc47fffa6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295702528.jpg?k=476facf436d866c00750fb0d3f141b526fc7feaef956e90449293c9c5e05ea16&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303361660.jpg?k=8067d6592cd9958b2f26b29b0e1e891ab127711d1338e297cbf51934b88b8e99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295702593.jpg?k=ff1bb2a5290f47262f0f3de5fde58815e7f183827ac8d2cd52eca86a6efb9fdd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293690522.jpg?k=d1e96fd7094370d7131998b68a1a0ac8d8fd962b6609010a621d34ff96021bf1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295704643.jpg?k=60302a4f1cbe97c2d4efbcce64d91e44ac2072e4e228b4508c096ae241c464df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293693869.jpg?k=581f833b195adf1b4fd9c68d7c47e61202c2d75d5fcc7e9e9befd56bc9a28e74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293704866.jpg?k=d74b702316c9434bd6b6acab35c999424818cec359ab723628e2f70d3d59aa1e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423787234.jpg?k=c4a0bd81c8fb4243840711e5cc7f60b53fcffb9b7f69a4023847ee2636634031&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293693189.jpg?k=252d43da4f5d2d3028902855f65c7f36802920f6d1cba98732ead68cf909192f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293693556.jpg?k=46e4bf47592462b25b42a2afa733d0d0267aff756d925a4adb7bdc145f6c1383&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293691260.jpg?k=b4b36947278cc6b0514dbc1011ed1b90819e0682c7945c88534d7c5eeb1cfc02&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "The Wave 30 m"
+  - "Hannover 30 m"
+nearbyBeaches:
+  - "Vlore Beach 100 m"
+  - "Ri Beach 750 m"
+  - "Vjetër Beach 1.6 km"
+  - "Beach at Government Villas 2.6 km"
+  - "Liro Beach 3.3 km"
+whatsNearby:
+  - "Scooby Doo Vlore 650 m"
+  - "Kuzum Baba 2.8 km"
+  - "Independence Square 3.2 km"
+reviews:
+  - name: "Paoula"
+    country: "Switzerland"
+    text: "“Nice apartment, straight next to the beach. Clean and it is equipped with everything we needed during our stay there. Big balcony with sea view. The host really kind and helpful.”"
+  - name: "A"
+    country: "Switzerland"
+    text: "“Perfect location with a beautiful seaview from the balcony,close to the best restaurants and bars in the area,very clean and spacious apartment.
+Absolutely recommend it!”"
+  - name: "Tatyana"
+    country: "Kazakhstan"
+    text: "“Spacious and clean apartment. Amazing view from the balcony. The kitchen has everything you need. Tony is an amazing host, was in touch 24/7. Thank you so much!”"
+bookingURL: "https://www.booking.com/hotel/al/tony-apartment-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious retreat, boasting a balcony that offers unobstructed sea views. Designed to accommodate the modern traveler, it features a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen with an oven and fridge, catering to guests' culinary needs. The inclusion of a bathroom with a bidet adds a touch of convenience. Moreover, the outdoor dining area invites guests to enjoy their meals while soaking in the scenic surroundings, enhancing the overall stay experience. It's important to note that the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 For those looking to explore beyond the immediate beachfront, Vjetër Beach is located just 2.4 km away, offering another spot for relaxation and sunbathing. The historic site of Kuzum Baba is also within reach, situated 3.3 km from the apartment, providing an opportunity for guests to immerse themselves in the local culture. For travelers arriving by air, the nearest airport is Tirana International Mother Teresa, positioned 152 km from the property, with a paid airport shuttle service available to ensure a seamless transfer.
 

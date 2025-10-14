@@ -1,8 +1,80 @@
----\ntitle: "Summer apartments Shengjin"\ndescription: "Summer Apartments Shengjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181332.jpg?k=f68ddb21b4887ff5e70d484b7487bd8c2762306d4770cef6e22a0d59d4327bd5&o=&hp=1"\nlanguage: en\nslug: summer-apartments-shengjin\naddress: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80556142\n  lng: 19.60055237\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 12\nratings:\n  overall: 8.4\n  location: 9\n  cleanliness: 8.3\n  facilities: 8.3\n  value: 8.1\n  comfort: 8.1\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181332.jpg?k=f68ddb21b4887ff5e70d484b7487bd8c2762306d4770cef6e22a0d59d4327bd5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170922.jpg?k=62097563182de6a6ea0490be352029f9c8866e449fdfce636d5dcb8f8cff2155&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170917.jpg?k=fe36c009e5926e531144feec5ff4e9aef79762e0cdeead5338831970611198e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181322.jpg?k=55718262fd780bdcd0e6db5f7bc605ff4ab4fe45b62f9b72d6fe26b4d1093bed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170942.jpg?k=c73088d2804ef9b8e3aabf369434d084450d50ac82821e0668bf43b71d4cd8ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181297.jpg?k=bc177da81cd554105464993897096f2ab0bc00bafdf65b80343654f72f68a293&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170945.jpg?k=15e9910fe495f2f3a0cea5367c71532b8c02a6a9a94f96dcadf1ccc9c1ed76e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181324.jpg?k=fc07adbac7320323e870549c4eba777110e5a8cdb364987c25853160766c517b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170931.jpg?k=b40850027c58f5f5db3e9e723fdf2d0b541f0e22aa0ee83a5ddc61a5080b380a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Ara Shengjin 50 m"\n  - "Coral 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 650 m"\n  - "Rana e Hedhun Beach 3.2 km"\n  - "Laguna Park Beach 4.1 km"\n  - "Kune Beach 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 97 km"\nreviews:\n  - name: "Stefania"\n    country: "Italy"\n    text: "“The apartment and all the building is new construction so everything is clean and very new!
+---
+title: "Summer apartments Shengjin"
+description: "Summer Apartments Shengjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Shëngjin."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181332.jpg?k=f68ddb21b4887ff5e70d484b7487bd8c2762306d4770cef6e22a0d59d4327bd5&o=&hp=1"
+language: en
+slug: summer-apartments-shengjin
+address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"
+city: "Shëngjin"
+location: "Shëngjin"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.80556142
+  lng: 19.60055237
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.4
+ratingWords: "Very Good"
+numberOfReviews: 12
+ratings:
+  overall: 8.4
+  location: 9
+  cleanliness: 8.3
+  facilities: 8.3
+  value: 8.1
+  comfort: 8.1
+  staff: 8.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181332.jpg?k=f68ddb21b4887ff5e70d484b7487bd8c2762306d4770cef6e22a0d59d4327bd5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170922.jpg?k=62097563182de6a6ea0490be352029f9c8866e449fdfce636d5dcb8f8cff2155&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170917.jpg?k=fe36c009e5926e531144feec5ff4e9aef79762e0cdeead5338831970611198e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181322.jpg?k=55718262fd780bdcd0e6db5f7bc605ff4ab4fe45b62f9b72d6fe26b4d1093bed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170942.jpg?k=c73088d2804ef9b8e3aabf369434d084450d50ac82821e0668bf43b71d4cd8ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181297.jpg?k=bc177da81cd554105464993897096f2ab0bc00bafdf65b80343654f72f68a293&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170945.jpg?k=15e9910fe495f2f3a0cea5367c71532b8c02a6a9a94f96dcadf1ccc9c1ed76e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364181324.jpg?k=fc07adbac7320323e870549c4eba777110e5a8cdb364987c25853160766c517b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464170931.jpg?k=b40850027c58f5f5db3e9e723fdf2d0b541f0e22aa0ee83a5ddc61a5080b380a&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Ara Shengjin 50 m"
+  - "Coral 150 m"
+nearbyBeaches:
+  - "Shëngjin Beach 100 m"
+  - "Ylberi Beach 650 m"
+  - "Rana e Hedhun Beach 3.2 km"
+  - "Laguna Park Beach 4.1 km"
+  - "Kune Beach 4.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 43 km"
+  - "Podgorica Airport 66 km"
+  - "Tivat Airport 97 km"
+reviews:
+  - name: "Stefania"
+    country: "Italy"
+    text: "“The apartment and all the building is new construction so everything is clean and very new!
 WiFi works fast and there is a washing machine in the apartment.
-Parking is not free and the parking partner is a bit far away but you can park the car at...”"\n  - name: "Jelena"\n    country: "Serbia"\n    text: "“Stan se nalazi na lepoj lokaciji, moderna zgrada i fantastično je sređen
+Parking is not free and the parking partner is a bit far away but you can park the car at...”"
+  - name: "Jelena"
+    country: "Serbia"
+    text: "“Stan se nalazi na lepoj lokaciji, moderna zgrada i fantastično je sređen
 The apartment is the best, sea is on 100m, from balkom you can see sea
-The hoast is nice and everythink you can ask his aboth this place”"\n  - name: "Sabile"\n    country: "Switzerland"\n    text: "“Apartment ist wirklich sehr sauber und komfortabel es gibt einen Kühlschrank une Kochherd fals man spontan was kochen will. Besitzer war sehr freundlich und hilfsbereit. Alles verlief schnell und unkompliziert. Das Apartment befindet sich sehr nah...”"\nbookingURL: "https://www.booking.com/hotel/al/arben-kalicaj.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Summer Apartments Shengjin are designed with the modern traveler in mind, offering air-conditioned units that come complete with private bathrooms, flat-screen TVs, fully equipped kitchens, and balconies for that morning breath of fresh air or evening relaxation. The inclusion of family rooms makes it an ideal spot for those traveling with loved ones, ensuring a comfortable stay for all.
+The hoast is nice and everythink you can ask his aboth this place”"
+  - name: "Sabile"
+    country: "Switzerland"
+    text: "“Apartment ist wirklich sehr sauber und komfortabel es gibt einen Kühlschrank une Kochherd fals man spontan was kochen will. Besitzer war sehr freundlich und hilfsbereit. Alles verlief schnell und unkompliziert. Das Apartment befindet sich sehr nah...”"
+bookingURL: "https://www.booking.com/hotel/al/arben-kalicaj.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Summer Apartments Shengjin are designed with the modern traveler in mind, offering air-conditioned units that come complete with private bathrooms, flat-screen TVs, fully equipped kitchens, and balconies for that morning breath of fresh air or evening relaxation. The inclusion of family rooms makes it an ideal spot for those traveling with loved ones, ensuring a comfortable stay for all.
 
 Guests of the apartments can enjoy the convenience of complimentary WiFi throughout the property and the peace of mind that comes with free private parking, a rarity in such a sought-after location. The lush garden provides a serene escape, inviting guests to unwind in a tranquil setting.
 

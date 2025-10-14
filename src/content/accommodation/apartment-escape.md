@@ -1,5 +1,81 @@
----\ntitle: "Apartment Escape"\ndescription: "Apartment Escape in Durrës emerges as a prime choice for travelers seeking a blend of comfort and convenience, right on the doorstep of Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831093.jpg?k=281f8f7edc493c09a65e8c87e91aeccfebf00b77b2aeae798d912e31a12bcf29&o=&hp=1"\nlanguage: en\nslug: apartment-escape\naddress: "Shetitorja e Plazhit, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30407828\n  lng: 19.49213907\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.2\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831093.jpg?k=281f8f7edc493c09a65e8c87e91aeccfebf00b77b2aeae798d912e31a12bcf29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832544.jpg?k=9ab0f2dbcd386456d1b6566bce751b539d05ef2e6d2ccfd568eab1863817ed82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831094.jpg?k=e5dca0847cb284744ef07031647dbb9eac297dcba8b8cea86e0082aaf37d7eb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831096.jpg?k=512199e2c4ba493286c9d98f2b3a80f7ed5dd16bda38b8f1985577bf536f3140&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832581.jpg?k=3dc7ad1c1be66e63b8f9b57364a11cfcf5a3dbdb34cb115c018b6a8788bb81ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831098.jpg?k=7e05f978e18bc543ab0de4f7492792597c381e500871c0250ac86ddca42ff0cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832536.jpg?k=e841c33d55d850a2bb9651de79b6c63b55d8df017fcef24097a7f978aaa14328&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831083.jpg?k=20345e05f6bf18b601c59b7d5be336f4398acb46a5da2d4c22e12d20dcd6c38f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832529.jpg?k=973f0036808b5e72ce7496146f275155bdcc1c07a9769a81ec7b6b188ac968ef&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Fast Food Henry 50 m"\n  - "Puerto Del Sol 100 m"\nnearbyBeaches:\n  - "Durres Beach 20 m"\n  - "Shkëmbi i Kavajës Beach 2.5 km"\n  - "Currila Beach 3.7 km"\n  - "Golem Beach 4.8 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.9 km"\n  - "Wine Dhe Pooh 3.9 km"\n  - "Sheshi Demokracia 3.9 km"\n  - "Yje Dhe Hena 4 km"\n  - "Durres Amphiteatre 4 km"\n  - "1. Maj 4.2 km"\n  - "Sotir Noka 4.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Tünde"\n    country: "Hungary"\n    text: "“The apartment is nicely furnished, well equipped, with a beautiful view of the sea. Everything is nearby (restaurant, shop, bakery...)
-The host is very helpful.”"\n  - name: "Anna"\n    country: "Germany"\n    text: "“Niesamowity apartament z pięknym widokiem na plażę, deptak, port i przede wszystkim na morze. Słoneczny balkon wyposażony w markizy pozwala na pełny relaks. Jesli chcemy popływać w morzu, to wystarczy zjechać windą i przejść kilka metrów przez...”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-escape.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to thoughtful design and functionality, boasting an air-conditioned space that includes a cozy bedroom, a welcoming living room, and a fully equipped kitchen complete with a dishwasher and kettle. The inclusion of a bathroom equipped with a bidet and hairdryer, alongside the provision of towels and bed linen, underscores the property's commitment to guest comfort. Moreover, visitors are treated to captivating sea views, adding a serene backdrop to their stay.
+---
+title: "Apartment Escape"
+description: "Apartment Escape in Durrës emerges as a prime choice for travelers seeking a blend of comfort and convenience, right on the doorstep of Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831093.jpg?k=281f8f7edc493c09a65e8c87e91aeccfebf00b77b2aeae798d912e31a12bcf29&o=&hp=1"
+language: en
+slug: apartment-escape
+address: "Shetitorja e Plazhit, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30407828
+  lng: 19.49213907
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 9.2
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831093.jpg?k=281f8f7edc493c09a65e8c87e91aeccfebf00b77b2aeae798d912e31a12bcf29&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832544.jpg?k=9ab0f2dbcd386456d1b6566bce751b539d05ef2e6d2ccfd568eab1863817ed82&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831094.jpg?k=e5dca0847cb284744ef07031647dbb9eac297dcba8b8cea86e0082aaf37d7eb9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831096.jpg?k=512199e2c4ba493286c9d98f2b3a80f7ed5dd16bda38b8f1985577bf536f3140&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832581.jpg?k=3dc7ad1c1be66e63b8f9b57364a11cfcf5a3dbdb34cb115c018b6a8788bb81ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831098.jpg?k=7e05f978e18bc543ab0de4f7492792597c381e500871c0250ac86ddca42ff0cc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832536.jpg?k=e841c33d55d850a2bb9651de79b6c63b55d8df017fcef24097a7f978aaa14328&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831083.jpg?k=20345e05f6bf18b601c59b7d5be336f4398acb46a5da2d4c22e12d20dcd6c38f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433832529.jpg?k=973f0036808b5e72ce7496146f275155bdcc1c07a9769a81ec7b6b188ac968ef&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Fast Food Henry 50 m"
+  - "Puerto Del Sol 100 m"
+nearbyBeaches:
+  - "Durres Beach 20 m"
+  - "Shkëmbi i Kavajës Beach 2.5 km"
+  - "Currila Beach 3.7 km"
+  - "Golem Beach 4.8 km"
+  - "Kallmi Beach 5 km"
+whatsNearby:
+  - "Bekimi 2.9 km"
+  - "Wine Dhe Pooh 3.9 km"
+  - "Sheshi Demokracia 3.9 km"
+  - "Yje Dhe Hena 4 km"
+  - "Durres Amphiteatre 4 km"
+  - "1. Maj 4.2 km"
+  - "Sotir Noka 4.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Tünde"
+    country: "Hungary"
+    text: "“The apartment is nicely furnished, well equipped, with a beautiful view of the sea. Everything is nearby (restaurant, shop, bakery...)
+The host is very helpful.”"
+  - name: "Anna"
+    country: "Germany"
+    text: "“Niesamowity apartament z pięknym widokiem na plażę, deptak, port i przede wszystkim na morze. Słoneczny balkon wyposażony w markizy pozwala na pełny relaks. Jesli chcemy popływać w morzu, to wystarczy zjechać windą i przejść kilka metrów przez...”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-escape.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a testament to thoughtful design and functionality, boasting an air-conditioned space that includes a cozy bedroom, a welcoming living room, and a fully equipped kitchen complete with a dishwasher and kettle. The inclusion of a bathroom equipped with a bidet and hairdryer, alongside the provision of towels and bed linen, underscores the property's commitment to guest comfort. Moreover, visitors are treated to captivating sea views, adding a serene backdrop to their stay.
 
 A notable feature of Apartment Escape is its adherence to a non-smoking policy, ensuring a clean and healthy environment for all guests. The property also provides the convenience of free WiFi, allowing guests to stay connected and share their experiences with ease.
 

@@ -1,3 +1,78 @@
----\ntitle: "Lulu Suites - Petit"\ndescription: "Lulu Suites - Petit emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short distance from the pristine shores of Shkëmbi i Kavajës Beach and Golem Beach."\nfeaturedImage: "https://lh3.googleusercontent.com/a/AAcHTtf_xvye1ROU-zUablgBGmWhAFjWzfgkSOf-quRJvhOC=s96-c64"\nlanguage: en\nslug: lulu-suites-petit\naddress: "Rruga Iliria, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2675747\n  lng: 19.5225268\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a/AAcHTtf_xvye1ROU-zUablgBGmWhAFjWzfgkSOf-quRJvhOC=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475323528.jpg?k=6b776ecdf8132b622e48a75ad30988c7ab20344d28b98aa017a4b762e4194d47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475323459.jpg?k=99ab444cf489c4182963b47cb8976abbdbfad6baaff7b48c0d1069d6f11ef4e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475323524.jpg?k=40640dcd8d61165df2d42468b3457c957148517e250317f16ac3f9385737b18d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475323535.jpg?k=abd392a5e383fcd1dbc6f0cf3319d32ac1459e62261763344749d668e6e163f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475328898.jpg?k=7ff4758f290912a6f474b51b7534be2b617437d6ef7e4aa4552c4d45e43f97d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475328798.jpg?k=420d6cdc35aca44015fc291f0a8e0d6872a7d0c89dc2a60e1224f2e7a14baec5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475328698.jpg?k=c9de44b032f6c4d3377e7a57b637adbb0d78187226a25873d42426cf99317810&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475323531.jpg?k=84a6c962c49c0d561f326e97cfd17476535d0c31220ef47d2b56631be13df363&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 250 m"\n  - "Sevian Pizza & Snack 350 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 350 m"\n  - "Golem Beach 400 m"\n  - "Mali I Robit Beach 2.2 km"\n  - "Durres Beach 2.3 km"\n  - "Qerret Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Saidaj"\n    country: "Albania"\n    text: "“Një apartament tepër i këndshem, i mirëorganizuar në detaj dhe mbi të gjitha shumë i pastër. Komunikim shume miqësor nga stafi. Lokacion shumë i favorshëm dhe një pamje perfekte. Padyshim do rikthehesha serisht per një fundjave tieter...”"\nbookingURL: "https://www.booking.com/hotel/al/lulu-suites-petit.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe suite itself is a marvel of modern amenities, featuring a well-equipped kitchen complete with an oven and fridge, a flat-screen TV for entertainment, a cozy seating area for relaxation, and a bathroom outfitted with a bidet for added convenience. The balcony, adorned with outdoor furniture, offers guests a serene spot to enjoy the sea views, making every moment at Lulu Suites - Petit memorable.
+---
+title: "Lulu Suites - Petit"
+description: "Lulu Suites - Petit emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short distance from the pristine shores of Shkëmbi i Kavajës Beach and Golem Beach."
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtf_xvye1ROU-zUablgBGmWhAFjWzfgkSOf-quRJvhOC=s96-c64"
+language: en
+slug: lulu-suites-petit
+address: "Rruga Iliria, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2675747
+  lng: 19.5225268
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://lh3.googleusercontent.com/a/AAcHTtf_xvye1ROU-zUablgBGmWhAFjWzfgkSOf-quRJvhOC=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475323528.jpg?k=6b776ecdf8132b622e48a75ad30988c7ab20344d28b98aa017a4b762e4194d47&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/475323459.jpg?k=99ab444cf489c4182963b47cb8976abbdbfad6baaff7b48c0d1069d6f11ef4e1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/475323524.jpg?k=40640dcd8d61165df2d42468b3457c957148517e250317f16ac3f9385737b18d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475323535.jpg?k=abd392a5e383fcd1dbc6f0cf3319d32ac1459e62261763344749d668e6e163f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475328898.jpg?k=7ff4758f290912a6f474b51b7534be2b617437d6ef7e4aa4552c4d45e43f97d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475328798.jpg?k=420d6cdc35aca44015fc291f0a8e0d6872a7d0c89dc2a60e1224f2e7a14baec5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475328698.jpg?k=c9de44b032f6c4d3377e7a57b637adbb0d78187226a25873d42426cf99317810&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475323531.jpg?k=84a6c962c49c0d561f326e97cfd17476535d0c31220ef47d2b56631be13df363&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Grill & Pizza Peja 250 m"
+  - "Sevian Pizza & Snack 350 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 350 m"
+  - "Golem Beach 400 m"
+  - "Mali I Robit Beach 2.2 km"
+  - "Durres Beach 2.3 km"
+  - "Qerret Beach 4.2 km"
+whatsNearby:
+  - "Bekimi 8 km"
+  - "Durres Amphiteatre 8 km"
+  - "Wine Dhe Pooh 8 km"
+  - "1. Maj 8 km"
+  - "Yje Dhe Hena 8 km"
+  - "Sheshi Demokracia 8 km"
+  - "Sotir Noka 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Saidaj"
+    country: "Albania"
+    text: "“Një apartament tepër i këndshem, i mirëorganizuar në detaj dhe mbi të gjitha shumë i pastër. Komunikim shume miqësor nga stafi. Lokacion shumë i favorshëm dhe një pamje perfekte. Padyshim do rikthehesha serisht per një fundjave tieter...”"
+bookingURL: "https://www.booking.com/hotel/al/lulu-suites-petit.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The suite itself is a marvel of modern amenities, featuring a well-equipped kitchen complete with an oven and fridge, a flat-screen TV for entertainment, a cozy seating area for relaxation, and a bathroom outfitted with a bidet for added convenience. The balcony, adorned with outdoor furniture, offers guests a serene spot to enjoy the sea views, making every moment at Lulu Suites - Petit memorable.
 
 Located strategically, the property is just 2.8 km from the tranquil Mali I Robit Beach, offering an easy escape to the sea. Additionally, the Rock of Kavaje is within a 1.8 km reach, and the historical Former Residence of Enver Hoxha is 43 km away, providing ample opportunities for exploration and discovery. For those traveling by air, the Tirana International Mother Teresa Airport is conveniently 37 km from the suite, making Lulu Suites - Petit an ideal base for both leisure and exploration in Golem.

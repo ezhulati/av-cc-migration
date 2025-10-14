@@ -1,4 +1,83 @@
----\ntitle: "Shtepi Pushimi Xhoi"\ndescription: "Shtepi Pushimi Xhoi emerges as a serene retreat in the vibrant heart of Korçë, offering a unique blend of tranquility and convenience for travelers seeking an escape or an adventure in this picturesque region."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486554597.jpg?k=cf57527d55637ba944f7b74dd5b8e1a8d8709f55d6706d5836a3a08a079e02b2&o=&hp=1"\nlanguage: en\nslug: shtepi-pushimi-xhoi\naddress: "Rruga Kristaq Prifti, 7000 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.61182536\n  lng: 20.77833886\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 7\nratings:\n  overall: 9.4\n  location: 8.6\n  cleanliness: 9.3\n  facilities: 9.6\n  value: 9.3\n  comfort: 9.6\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486554597.jpg?k=cf57527d55637ba944f7b74dd5b8e1a8d8709f55d6706d5836a3a08a079e02b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073357.jpg?k=07a4ef7d4a1045b2451f25d15a9ac35af86b8acfd293a45522a491dc630a50d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073354.jpg?k=233e5468a7ca266a89cb71dd925846ec57336ba64450a6bf2201a2968a967d71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073362.jpg?k=76e7a0af8bda480ee8c0df4e484dbe4ae98f236513658efd649dd0d49e067941&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073342.jpg?k=68ce1704ee31305118843c1e58bce7645dfe14d601eb94e412cf078d0e9f8134&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073359.jpg?k=ed5381fdc3c558f18c608352becf4f19b013f37dbb2c96a966ba56e1e798b282&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073309.jpg?k=a894744a129e21e557145a960b9b0314c6f23b70af55996a026f2ded7679cebe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336081976.jpg?k=5f0079738caa4a94623901a7f505e3dcdcff5bcbd083de34f989624139a80792&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384033230.jpg?k=ed438f5b494882535d47b70b10140f8374fc5bce74ccc36f5bc07a7055dc456c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073352.jpg?k=a05303121d576b1b980311218b463a83e03db4a8d8ef9a7e59d272dc70223964&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486555102.jpg?k=6f302e1537e1667b5563f0cfcd6420354a3d5b94bf494b887143303a5ac5a7b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384033200.jpg?k=ecb5e24ab0ced9f739c53920b6b3b9a8b6bac2404d6da69297421cf460ff227a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Olge 50 m"\n  - "Piceri Dora 200 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 450 m"\n  - "Parku Rinia 450 m"\n  - "Sheshi Patriku Joasaf 550 m"\n  - "Parku Themistokli Gërmenji 800 m"\n  - "Field of Tears 850 m"\n  - "Parku Rinia 1.7 km"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 62 km"\n  - "Kozani National Airport 96 km"\nreviews:\n  - name: "Maksut"\n    country: "Albania"\n    text: "“Gjithcka ishte perfekte ne menyren e vet si shtepia dhe pronaret.Mikpritesa dhe shume te sjellshem dhe korrekt.Jemi super te kenaqur si per shtepin location dhe pastertin.Ja keshillloj te gjitheve te qendrojn ne kete shtepi.Do vija perseri me...”"\n  - name: "Federica"\n    country: "Italy"\n    text: "“New and modern apartment equipped with every comfort. Close to the center and with parking in front. You sleep on the sofa bed which is very comfortable.”"\n  - name: "Erges"\n    country: "Albania"\n    text: "“The place was located in a nice and quiet area, was very well managed and clean. The host was very helpful and ready to assist with anything necessary. All in all it was a positive experience. 10/10.”"\nbookingURL: "https://www.booking.com/hotel/al/shtepi-pushimi-xhoi.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nUpon stepping into the apartment, guests are greeted with a tastefully furnished living space, equipped with a flat-screen TV and air conditioning, ensuring comfort in every season. The kitchen, a highlight for those who love to cook, is fully fitted with modern appliances including a dishwasher, an oven, and a microwave, making meal preparation a breeze. The inclusion of a private bathroom, complete with plush bathrobes and a hairdryer, adds a touch of luxury to the stay, ensuring guests feel pampered and well-cared for.
+---
+title: "Shtepi Pushimi Xhoi"
+description: "Shtepi Pushimi Xhoi emerges as a serene retreat in the vibrant heart of Korçë, offering a unique blend of tranquility and convenience for travelers seeking an escape or an adventure in this picturesque region."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486554597.jpg?k=cf57527d55637ba944f7b74dd5b8e1a8d8709f55d6706d5836a3a08a079e02b2&o=&hp=1"
+language: en
+slug: shtepi-pushimi-xhoi
+address: "Rruga Kristaq Prifti, 7000 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.61182536
+  lng: 20.77833886
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 7
+ratings:
+  overall: 9.4
+  location: 8.6
+  cleanliness: 9.3
+  facilities: 9.6
+  value: 9.3
+  comfort: 9.6
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486554597.jpg?k=cf57527d55637ba944f7b74dd5b8e1a8d8709f55d6706d5836a3a08a079e02b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073357.jpg?k=07a4ef7d4a1045b2451f25d15a9ac35af86b8acfd293a45522a491dc630a50d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073354.jpg?k=233e5468a7ca266a89cb71dd925846ec57336ba64450a6bf2201a2968a967d71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073362.jpg?k=76e7a0af8bda480ee8c0df4e484dbe4ae98f236513658efd649dd0d49e067941&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073342.jpg?k=68ce1704ee31305118843c1e58bce7645dfe14d601eb94e412cf078d0e9f8134&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073359.jpg?k=ed5381fdc3c558f18c608352becf4f19b013f37dbb2c96a966ba56e1e798b282&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073309.jpg?k=a894744a129e21e557145a960b9b0314c6f23b70af55996a026f2ded7679cebe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336081976.jpg?k=5f0079738caa4a94623901a7f505e3dcdcff5bcbd083de34f989624139a80792&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384033230.jpg?k=ed438f5b494882535d47b70b10140f8374fc5bce74ccc36f5bc07a7055dc456c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336073352.jpg?k=a05303121d576b1b980311218b463a83e03db4a8d8ef9a7e59d272dc70223964&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486555102.jpg?k=6f302e1537e1667b5563f0cfcd6420354a3d5b94bf494b887143303a5ac5a7b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384033200.jpg?k=ecb5e24ab0ced9f739c53920b6b3b9a8b6bac2404d6da69297421cf460ff227a&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "Apartment"
+nearbyRestaurants:
+  - "Olge 50 m"
+  - "Piceri Dora 200 m"
+whatsNearby:
+  - "Parku Vangjush Mio 450 m"
+  - "Parku Rinia 450 m"
+  - "Sheshi Patriku Joasaf 550 m"
+  - "Parku Themistokli Gërmenji 800 m"
+  - "Field of Tears 850 m"
+  - "Parku Rinia 1.7 km"
+  - "Sheshi Panxhar 6 km"
+  - "Sheshi Koço Plaku 12 km"
+  - "Sheshi Penetori 13 km"
+airports:
+  - "Kastoria National Airport 45 km"
+  - "Ohrid Airport 62 km"
+  - "Kozani National Airport 96 km"
+reviews:
+  - name: "Maksut"
+    country: "Albania"
+    text: "“Gjithcka ishte perfekte ne menyren e vet si shtepia dhe pronaret.Mikpritesa dhe shume te sjellshem dhe korrekt.Jemi super te kenaqur si per shtepin location dhe pastertin.Ja keshillloj te gjitheve te qendrojn ne kete shtepi.Do vija perseri me...”"
+  - name: "Federica"
+    country: "Italy"
+    text: "“New and modern apartment equipped with every comfort. Close to the center and with parking in front. You sleep on the sofa bed which is very comfortable.”"
+  - name: "Erges"
+    country: "Albania"
+    text: "“The place was located in a nice and quiet area, was very well managed and clean. The host was very helpful and ready to assist with anything necessary. All in all it was a positive experience. 10/10.”"
+bookingURL: "https://www.booking.com/hotel/al/shtepi-pushimi-xhoi.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+Upon stepping into the apartment, guests are greeted with a tastefully furnished living space, equipped with a flat-screen TV and air conditioning, ensuring comfort in every season. The kitchen, a highlight for those who love to cook, is fully fitted with modern appliances including a dishwasher, an oven, and a microwave, making meal preparation a breeze. The inclusion of a private bathroom, complete with plush bathrobes and a hairdryer, adds a touch of luxury to the stay, ensuring guests feel pampered and well-cared for.
 
 For those moments when you need to grab something on the go or prefer to cook your meals, the convenience of an on-site minimarket cannot be overstated. It's a thoughtful addition that enhances the self-sufficient nature of the accommodation.
 

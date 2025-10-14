@@ -1,5 +1,94 @@
----\ntitle: "Albanian Star Hotel"\ndescription: "Discover the hidden gem of Golem at the Albanian Star Hotel, a serene escape just a short drive from the historic city of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130953.jpg?k=4c31aa3887fa7391b4ad9b21047e281df6b747a0d756645954c20ec80abaeef6&o=&hp=1"\nlanguage: en\nslug: albanian-star-hotel\naddress: "Rruga Kompleksit (SH4), Plepa, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.26529966\n  lng: 19.51937914\nprice: "US$68"\npriceFrom: 68\nstarRating: 4\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 199\nratings:\n  overall: 8.4\n  location: 9.1\n  cleanliness: 8.2\n  facilities: 7.7\n  value: 8.1\n  comfort: 8.2\n  staff: 8.6\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130953.jpg?k=4c31aa3887fa7391b4ad9b21047e281df6b747a0d756645954c20ec80abaeef6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325954558.jpg?k=2b77b8b6b12bd963a9189b35ec79b765771c9c0393b16d40d80698b975b4698e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130981.jpg?k=cb2fb9b0c5e39f72f9e71e927ed12f864397fd2feaaea5b4b4ddde76f53eb061&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130979.jpg?k=113ec4a90b6771f66059afb1bdd2ceac38766c6f740aa805feeffb38152ce874&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151020386.jpg?k=a8520322bf8af79a3ce1bb4107a75da57a966a640372a9db04f487dadf927aeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150039860.jpg?k=9ad9189e7d7eb50e66f679f142d66cdb2268f53678a6e618792cd3872334c862&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Beachfront"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Standard Double or Twin Room with Sea View"\n  - "Superior Double or Twin Room"\n  - "Superior Double or Twin Room with Sea View"\n  - "Suite with Sea View"\nnearbyRestaurants:\n  - "Fresh Fish 50 m"\n  - "Oaz Durres 250 m"\nnearbyBeaches:\n  - "Golem Beach 30 m"\n  - "Shkëmbi i Kavajës Beach 40 m"\n  - "Mali I Robit Beach 1.9 km"\n  - "Durres Beach 2.4 km"\n  - "Qerret Beach 3.9 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Hüseyin"\n    country: "Sweden"\n    text: "“Perfect location. Comfy beds, great room view..
-Super super super friendly and helpful staff. They accommodated all my requests promptly. They have been super helpful.”"\n  - name: "Wuli86"\n    country: "Netherlands"\n    text: "“Top location, search no further and go ahead with the booking id suggest.”"\n  - name: "Vibeke"\n    country: "Norway"\n    text: "“Beautiful exterior and interior design. Close to the beach. Super nice and friendly staff. Bamboo beach bar is the best coctails and service in entire Durres!”"\nbookingURL: "https://www.booking.com/hotel/al/as.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at the Albanian Star Hotel is thoughtfully equipped with air conditioning, a desk, a seating area, and a minibar, ensuring a comfortable stay for all guests. Entertainment is readily available with a TV featuring satellite channels, and the convenience of a private bathroom equipped with a shower, complimentary toiletries, and a hairdryer adds to the comfort. What's more, every room offers a balcony with views that either gaze upon the sea, the lush garden, or the sparkling pool, allowing guests to wake up to breathtaking scenery every day.
+---
+title: "Albanian Star Hotel"
+description: "Discover the hidden gem of Golem at the Albanian Star Hotel, a serene escape just a short drive from the historic city of Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130953.jpg?k=4c31aa3887fa7391b4ad9b21047e281df6b747a0d756645954c20ec80abaeef6&o=&hp=1"
+language: en
+slug: albanian-star-hotel
+address: "Rruga Kompleksit (SH4), Plepa, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.26529966
+  lng: 19.51937914
+price: "US$68"
+priceFrom: 68
+starRating: 4
+rating: 8.4
+ratingWords: "Very Good"
+numberOfReviews: 199
+ratings:
+  overall: 8.4
+  location: 9.1
+  cleanliness: 8.2
+  facilities: 7.7
+  value: 8.1
+  comfort: 8.2
+  staff: 8.6
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130953.jpg?k=4c31aa3887fa7391b4ad9b21047e281df6b747a0d756645954c20ec80abaeef6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325954558.jpg?k=2b77b8b6b12bd963a9189b35ec79b765771c9c0393b16d40d80698b975b4698e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130981.jpg?k=cb2fb9b0c5e39f72f9e71e927ed12f864397fd2feaaea5b4b4ddde76f53eb061&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130979.jpg?k=113ec4a90b6771f66059afb1bdd2ceac38766c6f740aa805feeffb38152ce874&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151020386.jpg?k=a8520322bf8af79a3ce1bb4107a75da57a966a640372a9db04f487dadf927aeb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150039860.jpg?k=9ad9189e7d7eb50e66f679f142d66cdb2268f53678a6e618792cd3872334c862&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Beachfront"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Standard Double or Twin Room with Sea View"
+  - "Superior Double or Twin Room"
+  - "Superior Double or Twin Room with Sea View"
+  - "Suite with Sea View"
+nearbyRestaurants:
+  - "Fresh Fish 50 m"
+  - "Oaz Durres 250 m"
+nearbyBeaches:
+  - "Golem Beach 30 m"
+  - "Shkëmbi i Kavajës Beach 40 m"
+  - "Mali I Robit Beach 1.9 km"
+  - "Durres Beach 2.4 km"
+  - "Qerret Beach 3.9 km"
+whatsNearby:
+  - "Bekimi 8 km"
+  - "Durres Amphiteatre 8 km"
+  - "Wine Dhe Pooh 8 km"
+  - "1. Maj 8 km"
+  - "Yje Dhe Hena 8 km"
+  - "Sheshi Demokracia 8 km"
+  - "Sotir Noka 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Hüseyin"
+    country: "Sweden"
+    text: "“Perfect location. Comfy beds, great room view..
+Super super super friendly and helpful staff. They accommodated all my requests promptly. They have been super helpful.”"
+  - name: "Wuli86"
+    country: "Netherlands"
+    text: "“Top location, search no further and go ahead with the booking id suggest.”"
+  - name: "Vibeke"
+    country: "Norway"
+    text: "“Beautiful exterior and interior design. Close to the beach. Super nice and friendly staff. Bamboo beach bar is the best coctails and service in entire Durres!”"
+bookingURL: "https://www.booking.com/hotel/al/as.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room at the Albanian Star Hotel is thoughtfully equipped with air conditioning, a desk, a seating area, and a minibar, ensuring a comfortable stay for all guests. Entertainment is readily available with a TV featuring satellite channels, and the convenience of a private bathroom equipped with a shower, complimentary toiletries, and a hairdryer adds to the comfort. What's more, every room offers a balcony with views that either gaze upon the sea, the lush garden, or the sparkling pool, allowing guests to wake up to breathtaking scenery every day.
 
 The hotel takes pride in its private beach, which is well-appointed with sun loungers, showers, and parasols for an ultimate beach day experience. The Albanian Star Hotel also knows how to keep its guests entertained, with live music at the Avra Restaurant during the winter and nightly events throughout the high season. For those looking to explore beyond the hotel, car rental, dry cleaning, and laundry services are conveniently available on-site.
 

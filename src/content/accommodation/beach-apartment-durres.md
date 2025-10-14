@@ -1,4 +1,68 @@
----\ntitle: "Beach apartment durres"\ndescription: "Beach Apartment Durres emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned a stone's throw away from the pristine Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482704846.jpg?k=9a1e4ea1178da37b9ec17c314c362cd9127486331df119aacb58d69a7f618797&o=&hp=1"\nlanguage: en\nslug: beach-apartment-durres\naddress: "13 Rruga Pavaresia, 2200 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3083518\n  lng: 19.48684682\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482704846.jpg?k=9a1e4ea1178da37b9ec17c314c362cd9127486331df119aacb58d69a7f618797&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430090.jpg?k=00755351e3eda0686e1d77c8e6e3aa591f80f5ab3066985bbdbf85727fa46fcf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430084.jpg?k=011b9b18d1a68156e0dca9cdd61e4b5a9d007212df67f9fdbb129671d1da066f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430068.jpg?k=f042f29ccfc27b7ba4aa60342860b7cc7daed2a390b27f9a4bc5c853bed0b031&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430087.jpg?k=779ea0d7c7f0db810e3884a61cb7ccef159ff92d91f1ea471ac214854e310160&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482704633.jpg?k=22408dfc67cd127743e91bec9d353f73c7fdd9391161c6c75ef97b773cf611ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482705767.jpg?k=4fee91771fce3bf58139a677b60bb0b4164b1e36c500cd7d478ab4d859838902&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482705605.jpg?k=a920327ffb3ac584af8e8faa8ed22a9c0269021f5cd4511243bc1e64d2fba66e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482705048.jpg?k=cc414056cbdd5ae468d1a880774e6a4c2365685aa6c9b4fba5fa5313fcd8e84d&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Fast Food Torra 20 m"\n  - "Divino 100 m"\nnearbyBeaches:\n  - "Durres Beach 40 m"\n  - "Shkëmbi i Kavajës Beach 3.1 km"\n  - "Currila Beach 3.3 km"\n  - "Kallmi Beach 4.7 km"\n  - "Golem Beach 6 km"\nwhatsNearby:\n  - "Bekimi 2.3 km"\n  - "Wine Dhe Pooh 3.3 km"\n  - "Sheshi Demokracia 3.4 km"\n  - "Yje Dhe Hena 3.4 km"\n  - "Durres Amphiteatre 3.5 km"\n  - "Sotir Noka 3.6 km"\n  - "1. Maj 3.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/beach-apartment-durres-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, featuring a single, well-appointed bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, ensuring guests have a cozy night in if they choose. The entire space is a breath of fresh air for non-smokers, as it maintains a strict non-smoking policy.
+---
+title: "Beach apartment durres"
+description: "Beach Apartment Durres emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned a stone's throw away from the pristine Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482704846.jpg?k=9a1e4ea1178da37b9ec17c314c362cd9127486331df119aacb58d69a7f618797&o=&hp=1"
+language: en
+slug: beach-apartment-durres
+address: "13 Rruga Pavaresia, 2200 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3083518
+  lng: 19.48684682
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482704846.jpg?k=9a1e4ea1178da37b9ec17c314c362cd9127486331df119aacb58d69a7f618797&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430090.jpg?k=00755351e3eda0686e1d77c8e6e3aa591f80f5ab3066985bbdbf85727fa46fcf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430084.jpg?k=011b9b18d1a68156e0dca9cdd61e4b5a9d007212df67f9fdbb129671d1da066f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430068.jpg?k=f042f29ccfc27b7ba4aa60342860b7cc7daed2a390b27f9a4bc5c853bed0b031&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479430087.jpg?k=779ea0d7c7f0db810e3884a61cb7ccef159ff92d91f1ea471ac214854e310160&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482704633.jpg?k=22408dfc67cd127743e91bec9d353f73c7fdd9391161c6c75ef97b773cf611ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482705767.jpg?k=4fee91771fce3bf58139a677b60bb0b4164b1e36c500cd7d478ab4d859838902&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482705605.jpg?k=a920327ffb3ac584af8e8faa8ed22a9c0269021f5cd4511243bc1e64d2fba66e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482705048.jpg?k=cc414056cbdd5ae468d1a880774e6a4c2365685aa6c9b4fba5fa5313fcd8e84d&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Fast Food Torra 20 m"
+  - "Divino 100 m"
+nearbyBeaches:
+  - "Durres Beach 40 m"
+  - "Shkëmbi i Kavajës Beach 3.1 km"
+  - "Currila Beach 3.3 km"
+  - "Kallmi Beach 4.7 km"
+  - "Golem Beach 6 km"
+whatsNearby:
+  - "Bekimi 2.3 km"
+  - "Wine Dhe Pooh 3.3 km"
+  - "Sheshi Demokracia 3.4 km"
+  - "Yje Dhe Hena 3.4 km"
+  - "Durres Amphiteatre 3.5 km"
+  - "Sotir Noka 3.6 km"
+  - "1. Maj 3.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+bookingURL: "https://www.booking.com/hotel/al/beach-apartment-durres-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of comfort, featuring a single, well-appointed bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, ensuring guests have a cozy night in if they choose. The entire space is a breath of fresh air for non-smokers, as it maintains a strict non-smoking policy.
 
 Connectivity is never an issue, with free WiFi enveloping the property, allowing guests to stay connected with the world or plan their next adventure in Durres. For those intrigued by history and culture, the apartment is conveniently located just 6.4 km from the Rock of Kavaje, 39 km from the Former Residence of Enver Hoxha, and a brief 4.8 km journey from the Durres Amphitheatre.
 

@@ -1,4 +1,79 @@
----\ntitle: "Lovely appartament 1-3"\ndescription: "Lovely Apartment 1-3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485161.jpg?k=5150b2c1d2fd8a42604a079941cfa5e445fb656c7e87960da4717d6386f305d2&o=&hp=1"\nlanguage: en\nslug: lovely-appartament-1-3\naddress: "Rruga Gjon Mili, 1017 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3457822\n  lng: 19.8176044\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.5\n  location: 5.6\n  cleanliness: 6.9\n  facilities: 8.1\n  value: 5.6\n  comfort: 9.4\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485161.jpg?k=5150b2c1d2fd8a42604a079941cfa5e445fb656c7e87960da4717d6386f305d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156539.jpg?k=0a24f7243fe162e9355e925f2d6eda2c196e24826b7526a3b2c5648f8dc1f823&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156538.jpg?k=77273c1963627bfbbeea775c439473440ecea76e406dff945a5fc08c997e0e4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485188.jpg?k=753727fb27d2b92cde9703a19e85430d9294b37c6f1a9e091b9e7fb82757ca3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485190.jpg?k=40d502eae24399a2773fa2f622e714035e8e59c3ff187609da65199485dd4a59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156536.jpg?k=f70c9d9fde57b3822f877cff0fae983053df9595f81466f414fd251d92da895b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514516693.jpg?k=7775beba632e29a7509ccec105679c858e161f94c22e2aed8e4319be2ddffdb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156532.jpg?k=d9f9f6ba64027aa174106a62f68e925706da222684341e1755715a97bdc0c87a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485182.jpg?k=63651ed0301a6d94f5f1f77811c9da4453bb20f6ea4510e79cf6eadad440ffdc&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (99 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 2 km"\n  - "House of Leaves 2.1 km"\n  - "National Gallery of Arts Tirana 2.2 km"\n  - "Tanners' Bridge 2.3 km"\n  - "Rinia Park 2.3 km"\n  - "Former Residence of Enver Hoxha 2.8 km"\n  - "Bunk'Art 1 Museum 3.6 km"\n  - "Grand Park of Tirana 3.8 km"\nnearbyRestaurants:\n  - "Birrari Ke Tori 250 m"\n  - "Blendi 350 m"\nwhatsNearby:\n  - "Amazing Nature 1.4 km"\n  - "Sheshi Rekreativ Don Bosko 1.4 km"\n  - "Sheshi Rekreativ Allias 1.5 km"\n  - "Sheshi Rekreativ Mine Peza 1.5 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Sheshi Paris 1.8 km"\n  - "Sheshi Skënderbej 1.9 km"\n  - "Sheshi Sulejman Pasha 1.9 km"\n  - "Sheshi Jjosef Shtraus 2 km"\n  - "Skanderbeg Square 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/lovly-apart.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis modern apartment is a haven of tranquility, offering air-conditioned spaces that promise a cool retreat from the bustling city streets. Guests will appreciate the thoughtful inclusion of free private parking and complimentary WiFi, making stays both hassle-free and connected.
+---
+title: "Lovely appartament 1-3"
+description: "Lovely Apartment 1-3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485161.jpg?k=5150b2c1d2fd8a42604a079941cfa5e445fb656c7e87960da4717d6386f305d2&o=&hp=1"
+language: en
+slug: lovely-appartament-1-3
+address: "Rruga Gjon Mili, 1017 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3457822
+  lng: 19.8176044
+price: "US$26"
+priceFrom: 26
+starRating: 3
+rating: 7.5
+ratingWords: "Good"
+numberOfReviews: 4
+ratings:
+  overall: 7.5
+  location: 5.6
+  cleanliness: 6.9
+  facilities: 8.1
+  value: 5.6
+  comfort: 9.4
+  staff: 9.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485161.jpg?k=5150b2c1d2fd8a42604a079941cfa5e445fb656c7e87960da4717d6386f305d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156539.jpg?k=0a24f7243fe162e9355e925f2d6eda2c196e24826b7526a3b2c5648f8dc1f823&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156538.jpg?k=77273c1963627bfbbeea775c439473440ecea76e406dff945a5fc08c997e0e4e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485188.jpg?k=753727fb27d2b92cde9703a19e85430d9294b37c6f1a9e091b9e7fb82757ca3c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485190.jpg?k=40d502eae24399a2773fa2f622e714035e8e59c3ff187609da65199485dd4a59&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156536.jpg?k=f70c9d9fde57b3822f877cff0fae983053df9595f81466f414fd251d92da895b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514516693.jpg?k=7775beba632e29a7509ccec105679c858e161f94c22e2aed8e4319be2ddffdb7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493156532.jpg?k=d9f9f6ba64027aa174106a62f68e925706da222684341e1755715a97bdc0c87a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485182.jpg?k=63651ed0301a6d94f5f1f77811c9da4453bb20f6ea4510e79cf6eadad440ffdc&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Fast free WiFi (99 Mbps)"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Clock Tower Tirana 2 km"
+  - "House of Leaves 2.1 km"
+  - "National Gallery of Arts Tirana 2.2 km"
+  - "Tanners' Bridge 2.3 km"
+  - "Rinia Park 2.3 km"
+  - "Former Residence of Enver Hoxha 2.8 km"
+  - "Bunk'Art 1 Museum 3.6 km"
+  - "Grand Park of Tirana 3.8 km"
+nearbyRestaurants:
+  - "Birrari Ke Tori 250 m"
+  - "Blendi 350 m"
+whatsNearby:
+  - "Amazing Nature 1.4 km"
+  - "Sheshi Rekreativ Don Bosko 1.4 km"
+  - "Sheshi Rekreativ Allias 1.5 km"
+  - "Sheshi Rekreativ Mine Peza 1.5 km"
+  - "National Museum of History Albania 1.8 km"
+  - "Sheshi Paris 1.8 km"
+  - "Sheshi Skënderbej 1.9 km"
+  - "Sheshi Sulejman Pasha 1.9 km"
+  - "Sheshi Jjosef Shtraus 2 km"
+  - "Skanderbeg Square 2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/lovly-apart.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This modern apartment is a haven of tranquility, offering air-conditioned spaces that promise a cool retreat from the bustling city streets. Guests will appreciate the thoughtful inclusion of free private parking and complimentary WiFi, making stays both hassle-free and connected.
 
 The non-smoking property is a mere stone's throw away from the historical Former Residence of Enver Hoxha, placing guests at the crossroads of Albania's vibrant past and dynamic present. With its strategic location, Lovely Apartment 1-3 serves as an ideal base for discovering the local culture and attractions.
 

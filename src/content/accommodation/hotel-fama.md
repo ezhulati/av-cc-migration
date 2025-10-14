@@ -1,4 +1,90 @@
----\ntitle: "Hotel Fama"\ndescription: "Hotel Fama stands out as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475684279.jpg?k=56bb397d87de8a0c7d37c89dc2838b8b247507d18b8ffc9321217d2bf7fe7fae&o=&hp=1"\nlanguage: en\nslug: hotel-fama\naddress: "76GM8+X2G ,QUARKU I DURRËSIT, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.28489517\n  lng: 19.51505615\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 133\nratings:\n  overall: 9.3\n  location: 9\n  cleanliness: 9.7\n  facilities: 9.5\n  value: 9.7\n  comfort: 9.6\n  staff: 9.8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475684279.jpg?k=56bb397d87de8a0c7d37c89dc2838b8b247507d18b8ffc9321217d2bf7fe7fae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662348.jpg?k=caefe039ab879da0fe71ce0bd744f8131bcc4ec984b438a57b5b089e07c71f96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662216.jpg?k=d15904a7b917a0c0db68cfa4a865c420050c2d98a31f3657c27fe31e0db1ac8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516165921.jpg?k=1d78b83ef39a6c3757b9aa144a2e4e5fbc0ce8edc12dbfe07c574545cfe6366e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662148.jpg?k=3bb6ce134d39aa6ba409c5e6bc69d2718a0c3bf2d684e3d8cd320416e7b2c591&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662160.jpg?k=c9432ed37048cf5612216f907443020224eadd219745f1975549a6b188062521&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662167.jpg?k=0de39d92495826394b1563e6105d54cd0df49c83985490b70c4d7fe3d5641d1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662170.jpg?k=9fd4c1378b4d471025ae87c73ea82aecae867287eafb30bc8bd7b22a672978f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662178.jpg?k=1c9c92397f0fcefffa288ca2df7119e63f1b38650f58e584f2144bf01d80aebd&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Restorant Riviera 200 m"\n  - "Kosova 250 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 400 m"\n  - "Durres Beach 500 m"\n  - "Golem Beach 2.2 km"\n  - "Mali I Robit Beach 4.1 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Sula"\n    country: "Albania"\n    text: "“The location near by the main road very clean and nice , the staff was very friendly for sure i will go again”"\n  - name: "Mateusz"\n    country: "Poland"\n    text: "“Very clean and nice hotel, really kind owner. Hotel is 5 minutes by walk from beach. Free parking just Next to the entrance.”"\n  - name: "Laura"\n    country: "Australia"\n    text: "“Great rooms, very clean and spacious. newly renovated. Owner was super friendly and was speaking German!”"\nbookingURL: "https://www.booking.com/hotel/al/fama-durres4.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Hotel Fama are treated to a range of amenities designed to enhance their stay. The hotel boasts a well-maintained garden, complimentary private parking, a welcoming terrace, and a lively bar, ensuring a blend of relaxation and entertainment. Connectivity is never an issue, as guests can enjoy the benefit of free WiFi throughout their stay. Moreover, the property prides itself on being allergy-free, catering to the comfort and well-being of every guest.
+---
+title: "Hotel Fama"
+description: "Hotel Fama stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475684279.jpg?k=56bb397d87de8a0c7d37c89dc2838b8b247507d18b8ffc9321217d2bf7fe7fae&o=&hp=1"
+language: en
+slug: hotel-fama
+address: "76GM8+X2G ,QUARKU I DURRËSIT, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.28489517
+  lng: 19.51505615
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 133
+ratings:
+  overall: 9.3
+  location: 9
+  cleanliness: 9.7
+  facilities: 9.5
+  value: 9.7
+  comfort: 9.6
+  staff: 9.8
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475684279.jpg?k=56bb397d87de8a0c7d37c89dc2838b8b247507d18b8ffc9321217d2bf7fe7fae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662348.jpg?k=caefe039ab879da0fe71ce0bd744f8131bcc4ec984b438a57b5b089e07c71f96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662216.jpg?k=d15904a7b917a0c0db68cfa4a865c420050c2d98a31f3657c27fe31e0db1ac8d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516165921.jpg?k=1d78b83ef39a6c3757b9aa144a2e4e5fbc0ce8edc12dbfe07c574545cfe6366e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662148.jpg?k=3bb6ce134d39aa6ba409c5e6bc69d2718a0c3bf2d684e3d8cd320416e7b2c591&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662160.jpg?k=c9432ed37048cf5612216f907443020224eadd219745f1975549a6b188062521&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662167.jpg?k=0de39d92495826394b1563e6105d54cd0df49c83985490b70c4d7fe3d5641d1d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662170.jpg?k=9fd4c1378b4d471025ae87c73ea82aecae867287eafb30bc8bd7b22a672978f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475662178.jpg?k=1c9c92397f0fcefffa288ca2df7119e63f1b38650f58e584f2144bf01d80aebd&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Restorant Riviera 200 m"
+  - "Kosova 250 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 400 m"
+  - "Durres Beach 500 m"
+  - "Golem Beach 2.2 km"
+  - "Mali I Robit Beach 4.1 km"
+  - "Qerret Beach 6 km"
+whatsNearby:
+  - "Bekimi 6 km"
+  - "Wine Dhe Pooh 7 km"
+  - "Durres Amphiteatre 7 km"
+  - "Yje Dhe Hena 7 km"
+  - "Sheshi Demokracia 7 km"
+  - "1. Maj 7 km"
+  - "Sotir Noka 7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Sula"
+    country: "Albania"
+    text: "“The location near by the main road very clean and nice , the staff was very friendly for sure i will go again”"
+  - name: "Mateusz"
+    country: "Poland"
+    text: "“Very clean and nice hotel, really kind owner. Hotel is 5 minutes by walk from beach. Free parking just Next to the entrance.”"
+  - name: "Laura"
+    country: "Australia"
+    text: "“Great rooms, very clean and spacious. newly renovated. Owner was super friendly and was speaking German!”"
+bookingURL: "https://www.booking.com/hotel/al/fama-durres4.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests at Hotel Fama are treated to a range of amenities designed to enhance their stay. The hotel boasts a well-maintained garden, complimentary private parking, a welcoming terrace, and a lively bar, ensuring a blend of relaxation and entertainment. Connectivity is never an issue, as guests can enjoy the benefit of free WiFi throughout their stay. Moreover, the property prides itself on being allergy-free, catering to the comfort and well-being of every guest.
 
 The accommodations at Hotel Fama are thoughtfully equipped to meet the needs of modern travelers. Each room features a desk, a flat-screen TV, and a private bathroom, complete with bed linen and towels for added convenience. For those who prefer the comforts of home, selected rooms come with a kitchenette, including a stovetop, perfect for preparing light meals. Additionally, air conditioning and a wardrobe are standard in all units, ensuring a comfortable and hassle-free stay.
 

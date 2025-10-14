@@ -1,4 +1,91 @@
----\ntitle: "Vacation Rental Durres - 075"\ndescription: "Vacation Rental Durres - 075 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822405.jpg?k=662a277258637a2f17bde4579b05362dbcd41b823d4b7a7f9e42aee0682ae16a&o=&hp=1"\nlanguage: en\nslug: vacation-rental-durres-075\naddress: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27438931\n  lng: 19.51615209\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 6\nratings:\n  overall: 8.7\n  location: 8.8\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 8.8\n  comfort: 7.9\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822405.jpg?k=662a277258637a2f17bde4579b05362dbcd41b823d4b7a7f9e42aee0682ae16a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173101991.jpg?k=c23c2e92714782104b2f49f6564afa6e776a346c6ac6e16107fd4ba75ff5fd4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176566724.jpg?k=08d7c1f989f2b5f80854238f89a8562ff6b0815fcdaeaf7560901b5af2990fb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822353.jpg?k=68826f429e12812af7e0c9b6802a65ad694c26168767a3ddcc5655bcd07c0cc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822291.jpg?k=acc5d530e8f2ba7427f44ae681c573f6127f83278d24e967a98b858e1c613004&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173100956.jpg?k=62842eb6a8c6be9cf8cb30637bc9c215c2e808bfb2809f19eb79cc2adc57a2f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173101963.jpg?k=a4b3f9ce71a8fe6428f6e06723724284ed1fce656de25f4f7fc567abee00e1be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176566725.jpg?k=df239a1bc5fd49bdd0fb706ede61ec321f4a85b9d42cfcd4a53635bd598eb6f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822359.jpg?k=33d85acc06bb83d89d7976133d6f7a6f4d0d8ef5cf87d3725d5fa4b5091919b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822402.jpg?k=8970daabfb9ecc36ae16a7fa1ed5d64cf46a264fea4832dcce6e338287541c68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822366.jpg?k=5d4489117af0e7d0f51ec3c65e2f4be6d16ff22245a8eddccb7613569ace954d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822323.jpg?k=09d004a20d4211a5e163d82dbaaf6d5c70aad0d9459bc47dc7868bfaf9a60ad9&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Gelateri Anonimo 50 m"\n  - "Restorant Pizzeri Troplini 2 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 0 m"\n  - "Golem Beach 1 km"\n  - "Durres Beach 1.4 km"\n  - "Mali I Robit Beach 2.9 km"\n  - "Qerret Beach 4.9 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "1. Maj 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Kaloczi"\n    country: "Hungary"\n    text: "“Everything was as described, the panorama is wonderful.The see is cca 30-40 m from the appartment, shops are all around.”"\n  - name: "Čajka"\n    country: "Serbia"\n    text: "“Beautiful sea view from the fifth floor, beach a few steps away, also shops and restaurants. The apartment is neat and clean, two balconies, air conditioning, great Wifi, all appliances necessary for everyday life present in the apartment, so it...”"\n  - name: "Rick"\n    country: "Netherlands"\n    text: "“Very nice on the water. Shop in the same building. Private parking. Water (kitchen and shower) was very fast hot and very good. Nice and spacious. Air conditioning and wifi were good. 2 balconies (one on the sea side), where you have the sun all...”"\nbookingURL: "https://www.booking.com/hotel/al/vacation-apartment-in-durres-beach-75.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh setting for all guests. Positioned 1.6 km from the bustling Durres Beach, it offers a serene retreat with easy access to local attractions.
+---
+title: "Vacation Rental Durres - 075"
+description: "Vacation Rental Durres - 075 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822405.jpg?k=662a277258637a2f17bde4579b05362dbcd41b823d4b7a7f9e42aee0682ae16a&o=&hp=1"
+language: en
+slug: vacation-rental-durres-075
+address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.27438931
+  lng: 19.51615209
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 6
+ratings:
+  overall: 8.7
+  location: 8.8
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 8.8
+  comfort: 7.9
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822405.jpg?k=662a277258637a2f17bde4579b05362dbcd41b823d4b7a7f9e42aee0682ae16a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173101991.jpg?k=c23c2e92714782104b2f49f6564afa6e776a346c6ac6e16107fd4ba75ff5fd4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176566724.jpg?k=08d7c1f989f2b5f80854238f89a8562ff6b0815fcdaeaf7560901b5af2990fb3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822353.jpg?k=68826f429e12812af7e0c9b6802a65ad694c26168767a3ddcc5655bcd07c0cc0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822291.jpg?k=acc5d530e8f2ba7427f44ae681c573f6127f83278d24e967a98b858e1c613004&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173100956.jpg?k=62842eb6a8c6be9cf8cb30637bc9c215c2e808bfb2809f19eb79cc2adc57a2f5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173101963.jpg?k=a4b3f9ce71a8fe6428f6e06723724284ed1fce656de25f4f7fc567abee00e1be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176566725.jpg?k=df239a1bc5fd49bdd0fb706ede61ec321f4a85b9d42cfcd4a53635bd598eb6f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822359.jpg?k=33d85acc06bb83d89d7976133d6f7a6f4d0d8ef5cf87d3725d5fa4b5091919b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822402.jpg?k=8970daabfb9ecc36ae16a7fa1ed5d64cf46a264fea4832dcce6e338287541c68&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822366.jpg?k=5d4489117af0e7d0f51ec3c65e2f4be6d16ff22245a8eddccb7613569ace954d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172822323.jpg?k=09d004a20d4211a5e163d82dbaaf6d5c70aad0d9459bc47dc7868bfaf9a60ad9&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Gelateri Anonimo 50 m"
+  - "Restorant Pizzeri Troplini 2 150 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 0 m"
+  - "Golem Beach 1 km"
+  - "Durres Beach 1.4 km"
+  - "Mali I Robit Beach 2.9 km"
+  - "Qerret Beach 4.9 km"
+whatsNearby:
+  - "Bekimi 7 km"
+  - "Wine Dhe Pooh 7 km"
+  - "Durres Amphiteatre 7 km"
+  - "Yje Dhe Hena 7 km"
+  - "1. Maj 7 km"
+  - "Sheshi Demokracia 7 km"
+  - "Sotir Noka 8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Kaloczi"
+    country: "Hungary"
+    text: "“Everything was as described, the panorama is wonderful.The see is cca 30-40 m from the appartment, shops are all around.”"
+  - name: "Čajka"
+    country: "Serbia"
+    text: "“Beautiful sea view from the fifth floor, beach a few steps away, also shops and restaurants. The apartment is neat and clean, two balconies, air conditioning, great Wifi, all appliances necessary for everyday life present in the apartment, so it...”"
+  - name: "Rick"
+    country: "Netherlands"
+    text: "“Very nice on the water. Shop in the same building. Private parking. Water (kitchen and shower) was very fast hot and very good. Nice and spacious. Air conditioning and wifi were good. 2 balconies (one on the sea side), where you have the sun all...”"
+bookingURL: "https://www.booking.com/hotel/al/vacation-apartment-in-durres-beach-75.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and fresh setting for all guests. Positioned 1.6 km from the bustling Durres Beach, it offers a serene retreat with easy access to local attractions.
 
 Guests are treated to a suite of modern amenities in the air-conditioned apartment, including a flat-screen TV for entertainment, a fully equipped kitchen ready for home-cooked meals, and a cozy seating area. The convenience of a washing machine adds to the home-away-from-home experience, while the bathroom is a haven of relaxation with a walk-in shower, a luxurious hot tub, and a bidet. The added benefit of a private entrance enhances the sense of privacy and exclusivity.
 

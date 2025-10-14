@@ -1,4 +1,94 @@
----\ntitle: "Art Hotel"\ndescription: "Art Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Sarandë, situated merely 600 meters from the serene Maestral Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269418681.jpg?k=581c6bebdd1fbb1a34d741c4c9f85d9dafc3440dad3b87fc2a8f007f288fc7c8&o=&hp=1"\nlanguage: en\nslug: art-hotel\naddress: "Rruga Butrinti, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86418082\n  lng: 20.02052309\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 604\nratings:\n  overall: 8.8\n  location: 7.8\n  cleanliness: 9\n  facilities: 8.9\n  value: 8.8\n  comfort: 9\n  staff: 8.8\n  wifi: 9.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269418681.jpg?k=581c6bebdd1fbb1a34d741c4c9f85d9dafc3440dad3b87fc2a8f007f288fc7c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511334.jpg?k=109bd612353a4ecade1a4ec498d5325c2b896086fd02c48cb085ee8802ed5c15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511062.jpg?k=8d257e4edf5222bf0a91fb5b5ba7ec8a88b372ee1306d381bf152c0e544cbe66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511131.jpg?k=1cc13aea83e68596ece5ca9d11ee6b9fa8fd0fd341860a524d7059946c725478&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511364.jpg?k=2747e8d637915a183a3258b68f606d77951838d7b8783bab4fd7be4baf67b437&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511003.jpg?k=6bac643bef8cae40f46c466e19185b6e148b47b58fe7d44d87364acd8b9f4eea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511012.jpg?k=b52061311005b8b25d33abdbeb445b423b8c91a477508c58d22bf0e78f2aba14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511013.jpg?k=a8b22d1aba7275d3fca806e4238990c1d46fc60f08b1f21285bf39250f80328b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511007.jpg?k=790b569067c729a78900998d1ba709557dc839687bce75cb413ec1ede8a6f554&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365510998.jpg?k=e557f11d00f6e012629e5855f5f2e67ca1d294687bb42f39626df0255e123339&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365510987.jpg?k=e1add7dd82929eb5a572e3bd44bb4e163f33e16be5a49c58a19ab956914ed8b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365510977.jpg?k=755d9759474e22df8f437a4233c59eb78b7969768fe387a459109c6c94e64cfb&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\n  - "Good breakfast"\nnearbyRestaurants:\n  - "Rixhi 100 m"\n  - "Cataleya 200 m"\nnearbyBeaches:\n  - "Maestral Beach 450 m"\n  - "VIP Beach 550 m"\n  - "Santa Quaranta Beach 650 m"\n  - "La Petite Beach 650 m"\n  - "Flamingo Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 700 m"\n  - "Butrint National Park 1.6 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Ben"\n    country: "United Kingdom"\n    text: "“Everything in the hotel felt brand new and clean. The pool had wonderful views as did the room. Was a very relaxing way to finish off my holiday in Albania.”"\n  - name: "Marju"\n    country: "Estonia"\n    text: "“We liked the location - nice view to the sea and good access by car. Quiet neighborhood. We could easily walk between the houses to the main street, where were restaurants and shops. The pool area is beautiful with a great view. Breakfast was very...”"\n  - name: "Aimee"\n    country: "Ireland"\n    text: "“We stayed here for 11 days and had a great stay. Hotel is very modern and clean. Great pool area with fantastic views, especially at sunset. Good variety of breakfast available everyday. Staff were very helpful, few small issues, that were...”"\nbookingURL: "https://www.booking.com/hotel/al/art-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on offering top-notch amenities including an on-site restaurant that caters to various culinary preferences, room service for those moments of relaxation, and a 24-hour front desk to assist guests at any hour. The addition of free WiFi throughout the premises allows guests to stay connected with the world or plan their next adventure in Sarandë.
+---
+title: "Art Hotel"
+description: "Art Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Sarandë, situated merely 600 meters from the serene Maestral Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269418681.jpg?k=581c6bebdd1fbb1a34d741c4c9f85d9dafc3440dad3b87fc2a8f007f288fc7c8&o=&hp=1"
+language: en
+slug: art-hotel
+address: "Rruga Butrinti, 9700 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.86418082
+  lng: 20.02052309
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 604
+ratings:
+  overall: 8.8
+  location: 7.8
+  cleanliness: 9
+  facilities: 8.9
+  value: 8.8
+  comfort: 9
+  staff: 8.8
+  wifi: 9.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269418681.jpg?k=581c6bebdd1fbb1a34d741c4c9f85d9dafc3440dad3b87fc2a8f007f288fc7c8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511334.jpg?k=109bd612353a4ecade1a4ec498d5325c2b896086fd02c48cb085ee8802ed5c15&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511062.jpg?k=8d257e4edf5222bf0a91fb5b5ba7ec8a88b372ee1306d381bf152c0e544cbe66&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511131.jpg?k=1cc13aea83e68596ece5ca9d11ee6b9fa8fd0fd341860a524d7059946c725478&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511364.jpg?k=2747e8d637915a183a3258b68f606d77951838d7b8783bab4fd7be4baf67b437&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511003.jpg?k=6bac643bef8cae40f46c466e19185b6e148b47b58fe7d44d87364acd8b9f4eea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511012.jpg?k=b52061311005b8b25d33abdbeb445b423b8c91a477508c58d22bf0e78f2aba14&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511013.jpg?k=a8b22d1aba7275d3fca806e4238990c1d46fc60f08b1f21285bf39250f80328b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365511007.jpg?k=790b569067c729a78900998d1ba709557dc839687bce75cb413ec1ede8a6f554&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365510998.jpg?k=e557f11d00f6e012629e5855f5f2e67ca1d294687bb42f39626df0255e123339&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365510987.jpg?k=e1add7dd82929eb5a572e3bd44bb4e163f33e16be5a49c58a19ab956914ed8b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365510977.jpg?k=755d9759474e22df8f437a4233c59eb78b7969768fe387a459109c6c94e64cfb&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Terrace"
+  - "Bar"
+  - "Good breakfast"
+nearbyRestaurants:
+  - "Rixhi 100 m"
+  - "Cataleya 200 m"
+nearbyBeaches:
+  - "Maestral Beach 450 m"
+  - "VIP Beach 550 m"
+  - "Santa Quaranta Beach 650 m"
+  - "La Petite Beach 650 m"
+  - "Flamingo Beach 900 m"
+whatsNearby:
+  - "Parc National de Butrint 700 m"
+  - "Butrint National Park 1.6 km"
+  - "Plazhi I Krorezes 7 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 11 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Ben"
+    country: "United Kingdom"
+    text: "“Everything in the hotel felt brand new and clean. The pool had wonderful views as did the room. Was a very relaxing way to finish off my holiday in Albania.”"
+  - name: "Marju"
+    country: "Estonia"
+    text: "“We liked the location - nice view to the sea and good access by car. Quiet neighborhood. We could easily walk between the houses to the main street, where were restaurants and shops. The pool area is beautiful with a great view. Breakfast was very...”"
+  - name: "Aimee"
+    country: "Ireland"
+    text: "“We stayed here for 11 days and had a great stay. Hotel is very modern and clean. Great pool area with fantastic views, especially at sunset. Good variety of breakfast available everyday. Staff were very helpful, few small issues, that were...”"
+bookingURL: "https://www.booking.com/hotel/al/art-sarande.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel prides itself on offering top-notch amenities including an on-site restaurant that caters to various culinary preferences, room service for those moments of relaxation, and a 24-hour front desk to assist guests at any hour. The addition of free WiFi throughout the premises allows guests to stay connected with the world or plan their next adventure in Sarandë.
 
 Accommodations at Art Hotel are thoughtfully designed, with each unit boasting a television for entertainment. Select rooms elevate the experience further, featuring terraces that offer captivating city views. For those drawn to the allure of the sea, certain rooms provide breathtaking sea views, complemented by the charm of a private balcony, perfect for enjoying the tranquil surroundings.
 

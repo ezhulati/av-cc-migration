@@ -1,4 +1,97 @@
----\ntitle: "Cassiopeia Apartament"\ndescription: "Discover the charm of Tirana from the comfort of Cassiopeia Apartament, a prime choice for travelers seeking both convenience and style."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145400082.jpg?k=de3a025155dcd5ad02d54ce40f07a57ec43e8043582d8f8b7be06a64f682c3ea&o=&hp=1"\nlanguage: en\nslug: cassiopeia-apartament\naddress: "Rruga Artan Lenja Cassiopeia, Ap 59,, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.329075\n  lng: 19.797922\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 28\nratings:\n  overall: 9.7\n  location: 9.2\n  cleanliness: 9.6\n  facilities: 9.8\n  value: 9.6\n  comfort: 9.8\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145400082.jpg?k=de3a025155dcd5ad02d54ce40f07a57ec43e8043582d8f8b7be06a64f682c3ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149111707.jpg?k=6364160c2bf308ab6240fad8e04d568ce2e0687f9b295472d620ef18d4855ebf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147088082.jpg?k=8803257639a73477c4ddaad128f5d4f847152047a84ab5e65b3489dfb1ed6836&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258061730.jpg?k=e7bab163b57fc477c171e300ffe5c3e77d5247bd3bfeb2dbd8f4d0bc0cf50512&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258058466.jpg?k=6500dbceb777ca5e329586c5107ce2d41fb71cf225d836cd71ea375a8cb2d2fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149111522.jpg?k=d5c5941be54283a483c831361dddc83a36625d3424c449f7e13f1f89b75355eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149111785.jpg?k=4774bf8154616621f38006639e2310a4127bec89cf0b651eb7e46c3a0056fe55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149113066.jpg?k=9106ed36fd31dc2fbd1c33c92ee7f6585520df4bdd36bb013236a3a54e7a6ff9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149112779.jpg?k=80a61b26843e142245d444e5c84e4c9f329416fd254d7ed830f282ba4c496023&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/229881457.jpg?k=60fca89d8eb164c00a55cfe82b45ff695f7c02ab83b8bfa7617707ba53723196&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147087808.jpg?k=ff0deb99c19930af8aa19030ed9707caa87a48123804e832d66d1c40a76ca516&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149112881.jpg?k=3eba85639509635222cd222fdbe4c03269fe1c3a2a675d190ebcb59c067dafee&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "House of Leaves 1.6 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Rinia Park 1.8 km"\n  - "Skanderbeg Square 1.8 km"\n  - "Clock Tower Tirana 1.8 km"\n  - "Former Residence of Enver Hoxha 1.9 km"\n  - "National Gallery of Arts Tirana 1.9 km"\n  - "Tanners' Bridge 2.4 km"\n  - "Grand Park of Tirana 3 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Mensa Ladi Albanian Cuisine 20 m"\n  - "Pizzeri Italia 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Parku 1Km 150 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 500 m"\n  - "Sheshi Rekreativ Sali Butka 700 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 700 m"\n  - "Sheshi Rekreativ Bajram Curri 900 m"\n  - "Sheshi Rekreativ Mine Peza 900 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 950 m"\n  - "Sheshi Rekreativ Lord Bajron 1 km"\n  - "Sheshi Rekreativ Don Bosko 1 km"\n  - "Sheshi Rekreativ Blloku 1 Maji 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 81 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Bonniemouse"\n    country: "Uzbekistan"\n    text: "“Cozy apartments, convenient location - there is a store nearby, there was everything you need for your stay.”"\n  - name: "Mateusz"\n    country: "Austria"\n    text: "“Large and modern furnished apartment with a great view of the city and mountains.”"\n  - name: "Stacia_thetraveler"\n    country: "Germany"\n    text: "“Great experience overall. Property is located in an area that is very suburban but in the middle of the city. There's a little hidden garden area around where locals hang out with several shops cafes and a couple supermarkets nearby (Joena and...”"\nbookingURL: "https://www.booking.com/hotel/al/cassiopeia-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nCassiopeia Apartament welcomes guests into a world of modern amenities and homely comfort. Each apartment boasts a private entrance, ensuring privacy and ease for every visitor. The interiors are thoughtfully designed with families in mind, featuring spacious family rooms that cater to the needs of all age groups.
+---
+title: "Cassiopeia Apartament"
+description: "Discover the charm of Tirana from the comfort of Cassiopeia Apartament, a prime choice for travelers seeking both convenience and style."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145400082.jpg?k=de3a025155dcd5ad02d54ce40f07a57ec43e8043582d8f8b7be06a64f682c3ea&o=&hp=1"
+language: en
+slug: cassiopeia-apartament
+address: "Rruga Artan Lenja Cassiopeia, Ap 59,, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.329075
+  lng: 19.797922
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 28
+ratings:
+  overall: 9.7
+  location: 9.2
+  cleanliness: 9.6
+  facilities: 9.8
+  value: 9.6
+  comfort: 9.8
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145400082.jpg?k=de3a025155dcd5ad02d54ce40f07a57ec43e8043582d8f8b7be06a64f682c3ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149111707.jpg?k=6364160c2bf308ab6240fad8e04d568ce2e0687f9b295472d620ef18d4855ebf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147088082.jpg?k=8803257639a73477c4ddaad128f5d4f847152047a84ab5e65b3489dfb1ed6836&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258061730.jpg?k=e7bab163b57fc477c171e300ffe5c3e77d5247bd3bfeb2dbd8f4d0bc0cf50512&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258058466.jpg?k=6500dbceb777ca5e329586c5107ce2d41fb71cf225d836cd71ea375a8cb2d2fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149111522.jpg?k=d5c5941be54283a483c831361dddc83a36625d3424c449f7e13f1f89b75355eb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149111785.jpg?k=4774bf8154616621f38006639e2310a4127bec89cf0b651eb7e46c3a0056fe55&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149113066.jpg?k=9106ed36fd31dc2fbd1c33c92ee7f6585520df4bdd36bb013236a3a54e7a6ff9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149112779.jpg?k=80a61b26843e142245d444e5c84e4c9f329416fd254d7ed830f282ba4c496023&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/229881457.jpg?k=60fca89d8eb164c00a55cfe82b45ff695f7c02ab83b8bfa7617707ba53723196&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147087808.jpg?k=ff0deb99c19930af8aa19030ed9707caa87a48123804e832d66d1c40a76ca516&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149112881.jpg?k=3eba85639509635222cd222fdbe4c03269fe1c3a2a675d190ebcb59c067dafee&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "House of Leaves 1.6 km"
+  - "National Museum of History Albania 1.6 km"
+  - "Rinia Park 1.8 km"
+  - "Skanderbeg Square 1.8 km"
+  - "Clock Tower Tirana 1.8 km"
+  - "Former Residence of Enver Hoxha 1.9 km"
+  - "National Gallery of Arts Tirana 1.9 km"
+  - "Tanners' Bridge 2.4 km"
+  - "Grand Park of Tirana 3 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Mensa Ladi Albanian Cuisine 20 m"
+  - "Pizzeri Italia 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Parku 1Km 150 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 500 m"
+  - "Sheshi Rekreativ Sali Butka 700 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 700 m"
+  - "Sheshi Rekreativ Bajram Curri 900 m"
+  - "Sheshi Rekreativ Mine Peza 900 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 950 m"
+  - "Sheshi Rekreativ Lord Bajron 1 km"
+  - "Sheshi Rekreativ Don Bosko 1 km"
+  - "Sheshi Rekreativ Blloku 1 Maji 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 81 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Bonniemouse"
+    country: "Uzbekistan"
+    text: "“Cozy apartments, convenient location - there is a store nearby, there was everything you need for your stay.”"
+  - name: "Mateusz"
+    country: "Austria"
+    text: "“Large and modern furnished apartment with a great view of the city and mountains.”"
+  - name: "Stacia_thetraveler"
+    country: "Germany"
+    text: "“Great experience overall. Property is located in an area that is very suburban but in the middle of the city. There's a little hidden garden area around where locals hang out with several shops cafes and a couple supermarkets nearby (Joena and...”"
+bookingURL: "https://www.booking.com/hotel/al/cassiopeia-apartament.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Cassiopeia Apartament welcomes guests into a world of modern amenities and homely comfort. Each apartment boasts a private entrance, ensuring privacy and ease for every visitor. The interiors are thoughtfully designed with families in mind, featuring spacious family rooms that cater to the needs of all age groups.
 
 The allure of the city is perfectly framed by the apartment's balconies, offering sweeping views of the urban landscape against a backdrop of majestic mountains. Inside, the living spaces are equipped with comfortable seating areas and flat-screen TVs, creating a perfect blend of relaxation and entertainment. The fully equipped kitchen, complete with a dishwasher, oven, fridge, and stovetop, invites guests to feel at home, while the inclusion of a coffee machine and kettle adds a touch of luxury to morning routines.
 

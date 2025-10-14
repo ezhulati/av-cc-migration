@@ -1,4 +1,74 @@
----\ntitle: "Alma's appartament"\ndescription: "Alma's Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and serenity in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276288.jpg?k=a1bf2f539d5b2b47ac2007727d01701d8e0b5192e3c878212e0f1be84cfa11d7&o=&hp=1"\nlanguage: en\nslug: alma-s-appartament\naddress: "Rruga Butrinti 10, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85051175\n  lng: 20.02246084\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276288.jpg?k=a1bf2f539d5b2b47ac2007727d01701d8e0b5192e3c878212e0f1be84cfa11d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276462.jpg?k=bc9becac18de6449415bb7191fc1a90e22fdb5d27a3a6073719a266dc56719bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276444.jpg?k=6923971388976ab4e3e30cd6af072c177cb2fe251decbfc1421130d6c7747e06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276509.jpg?k=f73515c1d75c28ce73c9d7b52da964ecce714ec3a185586c6c7d9cdb95cb0405&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276487.jpg?k=e8e8e2080c8abc2e85c0ad32d70186578cf95d416211a18b41bf7c1dd01ba721&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276413.jpg?k=fa2a58024218a470bf15592f1f6dea08a574784a036dd520f6065aaf576f7ff2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276469.jpg?k=6445fc81ffdf5a9982fe81a1d57d43d5d1f3098fdc9c99e7b9dcf20ff1c5812a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276425.jpg?k=1999005506f1434493d56b1afd7a726aafe8c93b9ef91d466bab81a58ee1b528&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276403.jpg?k=6992b62a90a09f85f607fc531f4fe622221bdbd8fc337d27b1da07eb8bf14dcd&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Terrace"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "River View 100 m"\n  - "Sunrise 200 m"\nnearbyBeaches:\n  - "Mango Beach 150 m"\n  - "Flamingo Beach 450 m"\n  - "Santa Quaranta Beach 800 m"\n  - "VIP Beach 900 m"\n  - "Heaven Beach 1.6 km"\nwhatsNearby:\n  - "Butrint National Park 200 m"\n  - "Parc National de Butrint 950 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 9 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/almas-appartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a space where comfort meets elegance. The apartment features an air-conditioned bedroom that opens up to a terrace, offering serene garden views that are sure to enchant. The presence of a fully equipped kitchen adds a touch of home, allowing guests the freedom to prepare their own meals. Entertainment needs are catered to with a flat-screen TV, ensuring that leisure time is well spent.
+---
+title: "Alma's appartament"
+description: "Alma's Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and serenity in Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276288.jpg?k=a1bf2f539d5b2b47ac2007727d01701d8e0b5192e3c878212e0f1be84cfa11d7&o=&hp=1"
+language: en
+slug: alma-s-appartament
+address: "Rruga Butrinti 10, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.85051175
+  lng: 20.02246084
+price: "US$97"
+priceFrom: 97
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276288.jpg?k=a1bf2f539d5b2b47ac2007727d01701d8e0b5192e3c878212e0f1be84cfa11d7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276462.jpg?k=bc9becac18de6449415bb7191fc1a90e22fdb5d27a3a6073719a266dc56719bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276444.jpg?k=6923971388976ab4e3e30cd6af072c177cb2fe251decbfc1421130d6c7747e06&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276509.jpg?k=f73515c1d75c28ce73c9d7b52da964ecce714ec3a185586c6c7d9cdb95cb0405&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276487.jpg?k=e8e8e2080c8abc2e85c0ad32d70186578cf95d416211a18b41bf7c1dd01ba721&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276413.jpg?k=fa2a58024218a470bf15592f1f6dea08a574784a036dd520f6065aaf576f7ff2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276469.jpg?k=6445fc81ffdf5a9982fe81a1d57d43d5d1f3098fdc9c99e7b9dcf20ff1c5812a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276425.jpg?k=1999005506f1434493d56b1afd7a726aafe8c93b9ef91d466bab81a58ee1b528&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276403.jpg?k=6992b62a90a09f85f607fc531f4fe622221bdbd8fc337d27b1da07eb8bf14dcd&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Terrace"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "River View 100 m"
+  - "Sunrise 200 m"
+nearbyBeaches:
+  - "Mango Beach 150 m"
+  - "Flamingo Beach 450 m"
+  - "Santa Quaranta Beach 800 m"
+  - "VIP Beach 900 m"
+  - "Heaven Beach 1.6 km"
+whatsNearby:
+  - "Butrint National Park 200 m"
+  - "Parc National de Butrint 950 m"
+  - "Plazhi I Krorezes 6 km"
+  - "Parku Kombetar I Butrintit 9 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 28 km"
+  - "Ioannina Airport 69 km"
+bookingURL: "https://www.booking.com/hotel/al/almas-appartament.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are welcomed into a space where comfort meets elegance. The apartment features an air-conditioned bedroom that opens up to a terrace, offering serene garden views that are sure to enchant. The presence of a fully equipped kitchen adds a touch of home, allowing guests the freedom to prepare their own meals. Entertainment needs are catered to with a flat-screen TV, ensuring that leisure time is well spent.
 
 Adding to the convenience, Alma's Apartment provides complimentary amenities such as private parking and WiFi, ensuring that guests' stay is as hassle-free as possible. The availability of a 24-hour front desk service underscores the property's commitment to guest satisfaction.
 

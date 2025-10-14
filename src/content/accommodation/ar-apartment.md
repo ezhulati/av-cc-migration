@@ -1,4 +1,74 @@
----\ntitle: "Ar Apartment"\ndescription: "Ar Apartment emerges as a modern oasis in Vlorë, boasting a prime location that effortlessly connects guests to the serene beauty of Vlore Beach, Vjetër Beach, and Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454483714.jpg?k=4910cda8f911de74360d5cd3596352508e11599ecdf3a6a299587377371d91ea&o=&hp=1"\nlanguage: en\nslug: ar-apartment\naddress: "Rruga Murat Tërbaçi, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44902191\n  lng: 19.49309982\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 6\nratings:\n  overall: 7.9\n  location: 9\n  cleanliness: 7.5\n  facilities: 7\n  value: 7.5\n  comfort: 7\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454483714.jpg?k=4910cda8f911de74360d5cd3596352508e11599ecdf3a6a299587377371d91ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484764991.jpg?k=f8292346b63987c2d9ad2f74325f5859c344b0791aa0248cca1c63f7d04cc220&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768487.jpg?k=f4cb5e58941c6f62e10e4bdfa1d203a1ba1587f12bbebfb63c9b62bc10d3d41b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768275.jpg?k=6bbf4991b47e0058ffc0a70ab0186bbc26fe0bb06084bd8298646b543e45f505&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484764646.jpg?k=bc1bf6e7db4d50d7a348c74c20e2a3587c5bdec36c2da7dd803c2d196bb3856d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354932123.jpg?k=5f349745791d3cfaa9e740773db7b117b19003555b642d119816f38b1beeb297&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467297236.jpg?k=391220a18f484eca57a606815668a1e332ba2e92ed9ee8d4b6c77cafdad4f02f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768187.jpg?k=8d44d2372bff081ed5e20fa7874c8a5a264e2e252d35f5e663ce1282db701106&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374384940.jpg?k=1acd6f78aba38311a28cc5449f2cbce4441266458b7ec97d939de7834750e27a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365858458.jpg?k=10094fc4369a61466f77565e8be11daebbbe9c2510a7b93a503147bb662a959d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467298159.jpg?k=068cfafb08eb3ac3da6492f0681d6c1c50756885cfde0a6985a4aa5048586af3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768207.jpg?k=90a0c3331d75ff0906ef7b7d9077dd8b9425c495032dbe3e574fa4ee16c707c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768153.jpg?k=dd539fd8e8c7456b80a1bdf3fd43fe3948098602a345fa172d92c4e3a6c23ce9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484765287.jpg?k=89adcab81ee72552c3027bdeea263ddd16d7cb2a0a7801138dc960f557d1d794&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768116.jpg?k=5c4f9148316b18be9b0315493ad5da631d39edf6cb3846975e7264b02a9f53b2&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Aiden Zgara Korcare 100 m"\n  - "Restorant Tradicional Eon 100 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Vjetër Beach 1 km"\n  - "Ri Beach 1.5 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.4 km"\nbookingURL: "https://www.booking.com/hotel/al/artjon-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation features a single bedroom, but its appeal is far from limited. A fully equipped kitchen awaits culinary enthusiasts, complete with a toaster and fridge, alongside a washing machine for those longer stays. The bathroom doesn’t skimp on necessities either, offering a hair dryer and complimentary toiletries. Perhaps the most enchanting aspect is the opportunity to dine al fresco in the outdoor dining area, where meals are complemented by breathtaking mountain views. Privacy and security are paramount, with a private entrance for guests and round-the-clock security ensuring a worry-free stay.
+---
+title: "Ar Apartment"
+description: "Ar Apartment emerges as a modern oasis in Vlorë, boasting a prime location that effortlessly connects guests to the serene beauty of Vlore Beach, Vjetër Beach, and Ri Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454483714.jpg?k=4910cda8f911de74360d5cd3596352508e11599ecdf3a6a299587377371d91ea&o=&hp=1"
+language: en
+slug: ar-apartment
+address: "Rruga Murat Tërbaçi, 9405 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44902191
+  lng: 19.49309982
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 6
+ratings:
+  overall: 7.9
+  location: 9
+  cleanliness: 7.5
+  facilities: 7
+  value: 7.5
+  comfort: 7
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454483714.jpg?k=4910cda8f911de74360d5cd3596352508e11599ecdf3a6a299587377371d91ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484764991.jpg?k=f8292346b63987c2d9ad2f74325f5859c344b0791aa0248cca1c63f7d04cc220&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768487.jpg?k=f4cb5e58941c6f62e10e4bdfa1d203a1ba1587f12bbebfb63c9b62bc10d3d41b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768275.jpg?k=6bbf4991b47e0058ffc0a70ab0186bbc26fe0bb06084bd8298646b543e45f505&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484764646.jpg?k=bc1bf6e7db4d50d7a348c74c20e2a3587c5bdec36c2da7dd803c2d196bb3856d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354932123.jpg?k=5f349745791d3cfaa9e740773db7b117b19003555b642d119816f38b1beeb297&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467297236.jpg?k=391220a18f484eca57a606815668a1e332ba2e92ed9ee8d4b6c77cafdad4f02f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768187.jpg?k=8d44d2372bff081ed5e20fa7874c8a5a264e2e252d35f5e663ce1282db701106&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374384940.jpg?k=1acd6f78aba38311a28cc5449f2cbce4441266458b7ec97d939de7834750e27a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365858458.jpg?k=10094fc4369a61466f77565e8be11daebbbe9c2510a7b93a503147bb662a959d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467298159.jpg?k=068cfafb08eb3ac3da6492f0681d6c1c50756885cfde0a6985a4aa5048586af3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768207.jpg?k=90a0c3331d75ff0906ef7b7d9077dd8b9425c495032dbe3e574fa4ee16c707c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768153.jpg?k=dd539fd8e8c7456b80a1bdf3fd43fe3948098602a345fa172d92c4e3a6c23ce9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484765287.jpg?k=89adcab81ee72552c3027bdeea263ddd16d7cb2a0a7801138dc960f557d1d794&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473768116.jpg?k=5c4f9148316b18be9b0315493ad5da631d39edf6cb3846975e7264b02a9f53b2&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Aiden Zgara Korcare 100 m"
+  - "Restorant Tradicional Eon 100 m"
+nearbyBeaches:
+  - "Vlore Beach 150 m"
+  - "Vjetër Beach 1 km"
+  - "Ri Beach 1.5 km"
+  - "Beach at Government Villas 3.2 km"
+  - "Liro Beach 3.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.4 km"
+  - "Kuzum Baba 2.1 km"
+  - "Independence Square 2.4 km"
+bookingURL: "https://www.booking.com/hotel/al/artjon-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodation features a single bedroom, but its appeal is far from limited. A fully equipped kitchen awaits culinary enthusiasts, complete with a toaster and fridge, alongside a washing machine for those longer stays. The bathroom doesn’t skimp on necessities either, offering a hair dryer and complimentary toiletries. Perhaps the most enchanting aspect is the opportunity to dine al fresco in the outdoor dining area, where meals are complemented by breathtaking mountain views. Privacy and security are paramount, with a private entrance for guests and round-the-clock security ensuring a worry-free stay.
 
 For those needing essentials or a quick snack, a minimarket on the premises caters to convenience. Situated just a short drive from cultural landmarks like Kuzum Baba and Independence Square, both 2.8 km away, Ar Apartment serves as an ideal base for explorers. For international travelers, the Tirana International Mother Teresa Airport lies 151 km away, with the apartment offering a paid shuttle service for seamless arrivals and departures.
 

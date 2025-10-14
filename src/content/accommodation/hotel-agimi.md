@@ -1,5 +1,95 @@
----\ntitle: "Hotel Agimi"\ndescription: "Hotel Agimi stands out as a prime choice for travelers seeking both comfort and convenience in the heart of Sarande."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203946095.jpg?k=1fe35e023639206a839115b957e1504c1fc9125c0368167efccd775b377c89e8&o=&hp=1"\nlanguage: en\nslug: hotel-agimi\naddress: "Butrinti Road, Lagjia 1, 9703 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86996589\n  lng: 20.01449254\nprice: "US$81"\npriceFrom: 81\nstarRating: 4\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 147\nratings:\n  overall: 8.7\n  location: 9.3\n  cleanliness: 9\n  facilities: 8.8\n  value: 8.6\n  comfort: 9.3\n  staff: 8.2\n  wifi: 7.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203946095.jpg?k=1fe35e023639206a839115b957e1504c1fc9125c0368167efccd775b377c89e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978877.jpg?k=a9dd0e3403a3c3261519b68756c0644b3d85ae5a3bc4355bbb43e439edad82d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203944577.jpg?k=49b788255179e1ac2c110864def6cc7e3447a2300b34a62b474f57b15d5e092a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978568.jpg?k=14cb39313ef30035003cb41e60728a719f1fa462729aac950ebbe0791cce64a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978847.jpg?k=ae2324dacead468305d60e36c5fadffed40a727294a84f11d6fc78ea4216bba0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978549.jpg?k=1a1a80dd9a68685a061f93caa4148f1d8c547768a06bff080803279dfa926be5&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Standard Double Room with Balcony"\n  - "Double Room with Sea View"\n  - "Twin Room with Sea View"\n  - "Triple Room with Sea View"\n  - "Family Room with Balcony"\n  - "Family Room with Balcony and Sea View"\nnearbyRestaurants:\n  - "Restorant Piceri Abi 10 m"\n  - "RESORANT DEMI 30 m"\nnearbyBeaches:\n  - "La Petite Beach 150 m"\n  - "Saranda City Beach 200 m"\n  - "Maestral Beach 350 m"\n  - "Sarande Main Beach 1,000 m"\n  - "VIP Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Elizabeth"\n    country: "Australia"\n    text: "“The hotel is located 15min walk from the bus stop. Staff were very helpful and friendly. The included breakfast was great but they did run out of quite a few of the hot food items pretty quickly and didn’t refill them that much. The Seaview room...”"\n  - name: "Nicolas"\n    country: "Ireland"\n    text: "“The location was great, just walking distance from the port, close to the sea and near by a range of good restaurants.
-The hotel itself had an amazing and fresh breakfast, the staff was very friendly. It is a modern and new hotel, and I would...”"\n  - name: "Yevheniia"\n    country: "United Kingdom"\n    text: "“Youare an incredible team of professionals who made our stay as comfortable as possible. Thanks to every employee for their care and help in all our questions, to the girls at the reception, to the girls who did the cleaning, you are simply a...”"\nbookingURL: "https://www.booking.com/hotel/al/agimi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Hotel Agimi do not disappoint. Each air-conditioned room boasts a furnished balcony, offering guests a private outdoor space to relax and unwind. The rooms are equipped with an LCD satellite TV, a minibar, and a desk, catering to both leisure and business travelers. The en-suite bathrooms, complete with a shower and hairdryer, add to the comfort of the stay. Guests can stay connected with the outside world thanks to the free WiFi available throughout the property.
+---
+title: "Hotel Agimi"
+description: "Hotel Agimi stands out as a prime choice for travelers seeking both comfort and convenience in the heart of Sarande."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203946095.jpg?k=1fe35e023639206a839115b957e1504c1fc9125c0368167efccd775b377c89e8&o=&hp=1"
+language: en
+slug: hotel-agimi
+address: "Butrinti Road, Lagjia 1, 9703 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.86996589
+  lng: 20.01449254
+price: "US$81"
+priceFrom: 81
+starRating: 4
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 147
+ratings:
+  overall: 8.7
+  location: 9.3
+  cleanliness: 9
+  facilities: 8.8
+  value: 8.6
+  comfort: 9.3
+  staff: 8.2
+  wifi: 7.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203946095.jpg?k=1fe35e023639206a839115b957e1504c1fc9125c0368167efccd775b377c89e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978877.jpg?k=a9dd0e3403a3c3261519b68756c0644b3d85ae5a3bc4355bbb43e439edad82d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203944577.jpg?k=49b788255179e1ac2c110864def6cc7e3447a2300b34a62b474f57b15d5e092a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978568.jpg?k=14cb39313ef30035003cb41e60728a719f1fa462729aac950ebbe0791cce64a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978847.jpg?k=ae2324dacead468305d60e36c5fadffed40a727294a84f11d6fc78ea4216bba0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203978549.jpg?k=1a1a80dd9a68685a061f93caa4148f1d8c547768a06bff080803279dfa926be5&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Standard Double Room with Balcony"
+  - "Double Room with Sea View"
+  - "Twin Room with Sea View"
+  - "Triple Room with Sea View"
+  - "Family Room with Balcony"
+  - "Family Room with Balcony and Sea View"
+nearbyRestaurants:
+  - "Restorant Piceri Abi 10 m"
+  - "RESORANT DEMI 30 m"
+nearbyBeaches:
+  - "La Petite Beach 150 m"
+  - "Saranda City Beach 200 m"
+  - "Maestral Beach 350 m"
+  - "Sarande Main Beach 1,000 m"
+  - "VIP Beach 1.3 km"
+whatsNearby:
+  - "Parc National de Butrint 1.5 km"
+  - "Butrint National Park 2.4 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Elizabeth"
+    country: "Australia"
+    text: "“The hotel is located 15min walk from the bus stop. Staff were very helpful and friendly. The included breakfast was great but they did run out of quite a few of the hot food items pretty quickly and didn’t refill them that much. The Seaview room...”"
+  - name: "Nicolas"
+    country: "Ireland"
+    text: "“The location was great, just walking distance from the port, close to the sea and near by a range of good restaurants.
+The hotel itself had an amazing and fresh breakfast, the staff was very friendly. It is a modern and new hotel, and I would...”"
+  - name: "Yevheniia"
+    country: "United Kingdom"
+    text: "“Youare an incredible team of professionals who made our stay as comfortable as possible. Thanks to every employee for their care and help in all our questions, to the girls at the reception, to the girls who did the cleaning, you are simply a...”"
+bookingURL: "https://www.booking.com/hotel/al/agimi.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Hotel Agimi do not disappoint. Each air-conditioned room boasts a furnished balcony, offering guests a private outdoor space to relax and unwind. The rooms are equipped with an LCD satellite TV, a minibar, and a desk, catering to both leisure and business travelers. The en-suite bathrooms, complete with a shower and hairdryer, add to the comfort of the stay. Guests can stay connected with the outside world thanks to the free WiFi available throughout the property.
 
 Dining at Hotel Agimi is an experience in itself. The on-site bar and restaurant serve a delightful mix of Mediterranean and Albanian cuisine. The large terrace, overlooking the sea, provides a stunning backdrop for meals, making dining here a memorable part of any stay.
 

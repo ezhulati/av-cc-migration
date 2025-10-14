@@ -1,4 +1,76 @@
----\ntitle: "Stonehouse villa"\ndescription: "Stonehouse Villa emerges as a serene retreat in the heart of Valbonë, boasting a meticulously landscaped garden, a welcoming bar, and a cozy shared lounge for guests to unwind."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511808323.jpg?k=f2a79048987dfcc4c523b3515258a111c8fa2bf13e506b437b669e231cc5a85e&o=&hp=1"\nlanguage: en\nslug: stonehouse-villa\naddress: "Rruga Azem Hajdari, 8702 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.4580561\n  lng: 19.91093899\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511808323.jpg?k=f2a79048987dfcc4c523b3515258a111c8fa2bf13e506b437b669e231cc5a85e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510126899.jpg?k=674d60d8b9cec457a58a7c8da14727d1b8a92f5b45a0930fddae8955bf4b497a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511542410.jpg?k=c0c16b605f97b570994301c6380e6f4928894ef06eec7f51f53a919f8bf78f1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511808672.jpg?k=ce7688feb76b657b90c02ab78155b32d475b869bf37d90f5d93136280040b800&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510126808.jpg?k=639ab4d44b179c6e170d9e05d72fe420df8cb74425e0d182c60d4a4a580c3036&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510126832.jpg?k=23b84811a0dc76e47f9115d01fba244c25fd010d0f93c72606435c814f04dc83&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Restaurant"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Deluxe Family Room"\n  - "Triple Room"\n  - "Deluxe Family Room"\nnearbyRestaurants:\n  - "Hotel- Relax Valbona 950 m"\n  - "Café - occasionaly open 3 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 150 m"\n  - "Prokletije National Park 2.8 km"\n  - "Theth National Park 7 km"\n  - "Nacionalni Park Prokletije 8 km"\n  - "Prokletije National Park 10 km"\n  - "Theth National Park 12 km"\n  - "Nacionalni park Prokletije 12 km"\n  - "Valbona Valley National Park 18 km"\nairports:\n  - "Podgorica Airport 55 km"\n  - "Pristina International Airport 93 km"\n  - "Tivat Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/stonehouse-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Stonehouse Villa are thoughtfully designed, with each unit featuring a private bathroom to ensure a comfortable and private stay.
+---
+title: "Stonehouse villa"
+description: "Stonehouse Villa emerges as a serene retreat in the heart of Valbonë, boasting a meticulously landscaped garden, a welcoming bar, and a cozy shared lounge for guests to unwind."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511808323.jpg?k=f2a79048987dfcc4c523b3515258a111c8fa2bf13e506b437b669e231cc5a85e&o=&hp=1"
+language: en
+slug: stonehouse-villa
+address: "Rruga Azem Hajdari, 8702 Valbonë, Albania"
+city: "Valbonë"
+location: "Valbonë"
+accommodationType: "villa"
+coordinates:
+  lat: 42.4580561
+  lng: 19.91093899
+price: "US$56"
+priceFrom: 56
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511808323.jpg?k=f2a79048987dfcc4c523b3515258a111c8fa2bf13e506b437b669e231cc5a85e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510126899.jpg?k=674d60d8b9cec457a58a7c8da14727d1b8a92f5b45a0930fddae8955bf4b497a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511542410.jpg?k=c0c16b605f97b570994301c6380e6f4928894ef06eec7f51f53a919f8bf78f1f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511808672.jpg?k=ce7688feb76b657b90c02ab78155b32d475b869bf37d90f5d93136280040b800&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510126808.jpg?k=639ab4d44b179c6e170d9e05d72fe420df8cb74425e0d182c60d4a4a580c3036&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510126832.jpg?k=23b84811a0dc76e47f9115d01fba244c25fd010d0f93c72606435c814f04dc83&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Restaurant"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room"
+  - "Deluxe Family Room"
+  - "Triple Room"
+  - "Deluxe Family Room"
+nearbyRestaurants:
+  - "Hotel- Relax Valbona 950 m"
+  - "Café - occasionaly open 3 km"
+whatsNearby:
+  - "Valbona Valley National Park 0 m"
+  - "Parku Kombëtar Lugina e Valbonës 150 m"
+  - "Prokletije National Park 2.8 km"
+  - "Theth National Park 7 km"
+  - "Nacionalni Park Prokletije 8 km"
+  - "Prokletije National Park 10 km"
+  - "Theth National Park 12 km"
+  - "Nacionalni park Prokletije 12 km"
+  - "Valbona Valley National Park 18 km"
+airports:
+  - "Podgorica Airport 55 km"
+  - "Pristina International Airport 93 km"
+  - "Tivat Airport 97 km"
+bookingURL: "https://www.booking.com/hotel/al/stonehouse-villa.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Stonehouse Villa are thoughtfully designed, with each unit featuring a private bathroom to ensure a comfortable and private stay.
 
 Morning starts on a high note with a choice of buffet or halal breakfast, setting guests up for a day of exploration or relaxation. The on-site restaurant caters to a variety of dining preferences, serving dinner, lunch, brunch, and high tea in a setting that combines comfort with culinary delight.
 

@@ -1,4 +1,69 @@
----\ntitle: "Saranda's Dream"\ndescription: "Saranda's Dream stands as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007053.jpg?k=169e382cf15ac0f5dc7055230c638c6491f4744b603a04b84fe94bfb21500b09&o=&hp=1"\nlanguage: en\nslug: saranda-s-dream\naddress: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87263431\n  lng: 20.01609873\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.3\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.3\n  location: 8.1\n  cleanliness: 6.9\n  facilities: 6.9\n  value: 6.9\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007053.jpg?k=169e382cf15ac0f5dc7055230c638c6491f4744b603a04b84fe94bfb21500b09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007098.jpg?k=adfa600aff34917e53151ae78f4b2df944c291ec666b2da8fe323f83ec297bff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007083.jpg?k=c0059531468c6e06addef692e3433e24e126113c143466c6d06870953a42bdc7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470084195.jpg?k=d800cf33136246371bfc00480605139b7e3e452591b67d77082faa45d2bf1b9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007081.jpg?k=9c24975791cf4b5844a77ad5eedde67e9755aa54a441a74acadd9a637ca683eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470084593.jpg?k=c0d314026de94a6b3f1050b466b044b81c347938021e0add6aec83fb0d5b7b90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007088.jpg?k=6998e4cd2066131e20664bdb44b3f6d7c88950bc2c91e31d0fe20a50ab617582&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007091.jpg?k=949de3681758c7e8fa99c166b97c21ce741f1dc4ff153f18c6d59af6ad762e45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470088997.jpg?k=b5c05602d8183ebd5738f7a288bdfbabe63ca347eb459b0f617dd58e520a9962&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Casa Nostra 20 m"\n  - "Le 5 Stelle & Pizzeria 150 m"\nnearbyBeaches:\n  - "Saranda City Beach 200 m"\n  - "La Petite Beach 500 m"\n  - "Maestral Beach 600 m"\n  - "Sarande Main Beach 1.2 km"\n  - "VIP Beach 1.5 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.7 km"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/sarandas-dream.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis modern apartment, established in 2009, offers a refreshing retreat with its air-conditioned spaces and complimentary WiFi accessible throughout the premises. Guests will find themselves at ease in the spacious layout, which includes two cozy bedrooms, a welcoming living room, a fully equipped kitchen for those who love to cook, and a well-maintained bathroom. Entertainment needs are also catered to with a flat-screen TV available for guest use.
+---
+title: "Saranda's Dream"
+description: "Saranda's Dream stands as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007053.jpg?k=169e382cf15ac0f5dc7055230c638c6491f4744b603a04b84fe94bfb21500b09&o=&hp=1"
+language: en
+slug: saranda-s-dream
+address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87263431
+  lng: 20.01609873
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.3
+ratingWords: "Good"
+numberOfReviews: 4
+ratings:
+  overall: 7.3
+  location: 8.1
+  cleanliness: 6.9
+  facilities: 6.9
+  value: 6.9
+  comfort: 7.5
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007053.jpg?k=169e382cf15ac0f5dc7055230c638c6491f4744b603a04b84fe94bfb21500b09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007098.jpg?k=adfa600aff34917e53151ae78f4b2df944c291ec666b2da8fe323f83ec297bff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007083.jpg?k=c0059531468c6e06addef692e3433e24e126113c143466c6d06870953a42bdc7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470084195.jpg?k=d800cf33136246371bfc00480605139b7e3e452591b67d77082faa45d2bf1b9c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007081.jpg?k=9c24975791cf4b5844a77ad5eedde67e9755aa54a441a74acadd9a637ca683eb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470084593.jpg?k=c0d314026de94a6b3f1050b466b044b81c347938021e0add6aec83fb0d5b7b90&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007088.jpg?k=6998e4cd2066131e20664bdb44b3f6d7c88950bc2c91e31d0fe20a50ab617582&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007091.jpg?k=949de3681758c7e8fa99c166b97c21ce741f1dc4ff153f18c6d59af6ad762e45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470088997.jpg?k=b5c05602d8183ebd5738f7a288bdfbabe63ca347eb459b0f617dd58e520a9962&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Casa Nostra 20 m"
+  - "Le 5 Stelle & Pizzeria 150 m"
+nearbyBeaches:
+  - "Saranda City Beach 200 m"
+  - "La Petite Beach 500 m"
+  - "Maestral Beach 600 m"
+  - "Sarande Main Beach 1.2 km"
+  - "VIP Beach 1.5 km"
+whatsNearby:
+  - "Parc National de Butrint 1.7 km"
+  - "Butrint National Park 2.6 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+bookingURL: "https://www.booking.com/hotel/al/sarandas-dream.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This modern apartment, established in 2009, offers a refreshing retreat with its air-conditioned spaces and complimentary WiFi accessible throughout the premises. Guests will find themselves at ease in the spacious layout, which includes two cozy bedrooms, a welcoming living room, a fully equipped kitchen for those who love to cook, and a well-maintained bathroom. Entertainment needs are also catered to with a flat-screen TV available for guest use.
 
 For those concerned about health and wellness, it's noteworthy that the accommodation maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
 

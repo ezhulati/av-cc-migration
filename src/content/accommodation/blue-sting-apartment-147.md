@@ -1,4 +1,71 @@
----\ntitle: "Blue Sting Apartment - 147"\ndescription: "Blue Sting Apartment - 147 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224547437.jpg?k=6786a8414b67ff9127f92dbc2007395674c91085a1cec6c390fe8384609b3c61&o=&hp=1"\nlanguage: en\nslug: blue-sting-apartment-147\naddress: "Prane fshatit turistik Lura 1, Perla Resort Residences Building 24, Ground floor, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.50737352\n  lng: 19.51992966\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 10\n  comfort: 10\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224547437.jpg?k=6786a8414b67ff9127f92dbc2007395674c91085a1cec6c390fe8384609b3c61&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224546807.jpg?k=0e9617063b6decfcbd8709f17e3d426651d3ea0345a6424de77be03e1d48c636&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536609.jpg?k=f8c73fbf062baf22e7356bd191fd2fb902a39be3c3495a8fd0f54540827e2d5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526060964.jpg?k=b06540982e705afd3cb37270c6078359878b93b0bbfbb4d530db6c3e691e3bff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536338.jpg?k=57b7b66f141d2e5825e79d9894ed7b82de1f98d0a3c13b5dba961a67aa4bc2e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224548822.jpg?k=7fef241d4c85fedbbe15d246d4a07761d8c0556406ddee1c867aaa232351ca7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536123.jpg?k=5dbec2f5a79de3b1755baaa9559af690a46ae1e26c9ff1b906392c69aa27dabd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224546819.jpg?k=6ac1212520271756d599f149882c19591bf0bb387555f647f7f611632bee8dd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536230.jpg?k=7d5f0b48808b1fb0ebc51073428e80c90856ebee4135d3b99f9695bc2886db02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224549023.jpg?k=e3e3cf51cebc331315d09aa4300528569e797545221c83b2a3c2dfccb14eafd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224547268.jpg?k=8273fb15f65c920b4b7b3e7e38e88e900b514df29fb5add8894a93aab7932824&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224546825.jpg?k=15df5a57003909edd1cdc3f29a770ef302e3cfaa4b798535e942637fd3f40f5a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Triumf 2 400 m"\n  - "Restorant Agasi 500 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 450 m"\n  - "Rodoni Beach 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/blue-sting-apartment-147.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis accommodation boasts a generously sized layout, featuring two bedrooms, a living room adorned with a flat-screen TV, and a balcony that presents tranquil street views. The kitchen is fully equipped with a dishwasher and an oven, catering to guests' culinary needs, while the two bathrooms with walk-in showers add a touch of convenience. The provision of towels and bed linen further enhances the comfort of the stay. Emphasizing privacy and security, the apartment benefits from a private entrance and round-the-clock security services.
+---
+title: "Blue Sting Apartment - 147"
+description: "Blue Sting Apartment - 147 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224547437.jpg?k=6786a8414b67ff9127f92dbc2007395674c91085a1cec6c390fe8384609b3c61&o=&hp=1"
+language: en
+slug: blue-sting-apartment-147
+address: "Prane fshatit turistik Lura 1, Perla Resort Residences Building 24, Ground floor, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.50737352
+  lng: 19.51992966
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 9.2
+  facilities: 9.2
+  value: 10
+  comfort: 10
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224547437.jpg?k=6786a8414b67ff9127f92dbc2007395674c91085a1cec6c390fe8384609b3c61&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224546807.jpg?k=0e9617063b6decfcbd8709f17e3d426651d3ea0345a6424de77be03e1d48c636&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536609.jpg?k=f8c73fbf062baf22e7356bd191fd2fb902a39be3c3495a8fd0f54540827e2d5d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526060964.jpg?k=b06540982e705afd3cb37270c6078359878b93b0bbfbb4d530db6c3e691e3bff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536338.jpg?k=57b7b66f141d2e5825e79d9894ed7b82de1f98d0a3c13b5dba961a67aa4bc2e5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224548822.jpg?k=7fef241d4c85fedbbe15d246d4a07761d8c0556406ddee1c867aaa232351ca7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536123.jpg?k=5dbec2f5a79de3b1755baaa9559af690a46ae1e26c9ff1b906392c69aa27dabd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224546819.jpg?k=6ac1212520271756d599f149882c19591bf0bb387555f647f7f611632bee8dd8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224536230.jpg?k=7d5f0b48808b1fb0ebc51073428e80c90856ebee4135d3b99f9695bc2886db02&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224549023.jpg?k=e3e3cf51cebc331315d09aa4300528569e797545221c83b2a3c2dfccb14eafd7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224547268.jpg?k=8273fb15f65c920b4b7b3e7e38e88e900b514df29fb5add8894a93aab7932824&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224546825.jpg?k=15df5a57003909edd1cdc3f29a770ef302e3cfaa4b798535e942637fd3f40f5a&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Triumf 2 400 m"
+  - "Restorant Agasi 500 m"
+nearbyBeaches:
+  - "Lalëz Bay Beach 450 m"
+  - "Rodoni Beach 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 18 km"
+  - "Podgorica Airport 96 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/blue-sting-apartment-147.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This accommodation boasts a generously sized layout, featuring two bedrooms, a living room adorned with a flat-screen TV, and a balcony that presents tranquil street views. The kitchen is fully equipped with a dishwasher and an oven, catering to guests' culinary needs, while the two bathrooms with walk-in showers add a touch of convenience. The provision of towels and bed linen further enhances the comfort of the stay. Emphasizing privacy and security, the apartment benefits from a private entrance and round-the-clock security services.
 
 For those looking to explore the area, the apartment facilitates this with an available car rental service. Its strategic location places it within accessible distance from notable attractions, including the historic Durres Amphitheatre, 37 km away, and the intriguing House of Leaves, 43 km from the property. Additionally, the proximity to Tirana International Mother Teresa Airport, just 28 km away, makes Blue Sting Apartment - 147 an ideal base for both leisure and business travelers.
 

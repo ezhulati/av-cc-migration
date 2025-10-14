@@ -1,4 +1,83 @@
----\ntitle: "Swiss Villa Qerret"\ndescription: "Swiss Villa Qerret emerges as a gem on the Golem coastline, offering guests a unique blend of comfort and scenic beauty just 200 meters from the pristine Qerret Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604157.jpg?k=645540a8cfda25862cd1db99d661702dfc018a3c83107030f3e2ac36214fe302&o=&hp=1"\nlanguage: en\nslug: swiss-villa-qerret\naddress: "Rruga Zef Serembe, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.22749539\n  lng: 19.51374268\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.7\n  location: 9.2\n  cleanliness: 10\n  facilities: 9.2\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604157.jpg?k=645540a8cfda25862cd1db99d661702dfc018a3c83107030f3e2ac36214fe302&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604199.jpg?k=2ed19eb805e57faad6e0e5b67bcb2e930ad83acdd817247aa1829415fd583737&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604163.jpg?k=3f56e94035e5ecac9690701621f48a144580a48f663931da374005c50c401d45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604189.jpg?k=10c2a7ba27e3cbea81d2303b2f464c0b5e7d959bb73f3009859bf2279e579e18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604166.jpg?k=b6423e4fdef20cf00e24b5c474f227ac6592afbd26bab8ea01e24a504cb4a630&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419153589.jpg?k=100a318f89221e9c71d0bd7e3cf9f0659fda08d65eb2df81e0963799fa1bcee1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Baca 350 m"\n  - "Prestige İStanbul Kebab House 650 m"\nnearbyBeaches:\n  - "Qerret Beach 150 m"\n  - "Mali I Robit Beach 300 m"\n  - "Golem Beach 2.3 km"\n  - "Shkëmbi i Kavajës Beach 4.2 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 26 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "M"\n    country: "Germany"\n    text: "“Top Apartment / Wohnung, ganz neu und sauber. Garten auch schön. Zum Sandstrand ca 1 Minute zu Fuß. Viele Bars und Strand Pubs. Ca. 15 Minuten zu Fuß zu einer grosse Promenade mit Nachtsunterhaltung und tollen Restaurants. Man kann das Auto...”"\nbookingURL: "https://www.booking.com/hotel/al/suisse-villa-qerret.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment within the complex is thoughtfully equipped with modern amenities, including a flat-screen TV and a fully outfitted kitchen. The attention to detail extends to the bathrooms, where guests will find walk-in showers, enhancing the overall experience with a touch of luxury. Free WiFi is available throughout, and select rooms even offer the added delight of a private terrace.
+---
+title: "Swiss Villa Qerret"
+description: "Swiss Villa Qerret emerges as a gem on the Golem coastline, offering guests a unique blend of comfort and scenic beauty just 200 meters from the pristine Qerret Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604157.jpg?k=645540a8cfda25862cd1db99d661702dfc018a3c83107030f3e2ac36214fe302&o=&hp=1"
+language: en
+slug: swiss-villa-qerret
+address: "Rruga Zef Serembe, Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.22749539
+  lng: 19.51374268
+price: "US$86"
+priceFrom: 86
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.7
+  location: 9.2
+  cleanliness: 10
+  facilities: 9.2
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604157.jpg?k=645540a8cfda25862cd1db99d661702dfc018a3c83107030f3e2ac36214fe302&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604199.jpg?k=2ed19eb805e57faad6e0e5b67bcb2e930ad83acdd817247aa1829415fd583737&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604163.jpg?k=3f56e94035e5ecac9690701621f48a144580a48f663931da374005c50c401d45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604189.jpg?k=10c2a7ba27e3cbea81d2303b2f464c0b5e7d959bb73f3009859bf2279e579e18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604166.jpg?k=b6423e4fdef20cf00e24b5c474f227ac6592afbd26bab8ea01e24a504cb4a630&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419153589.jpg?k=100a318f89221e9c71d0bd7e3cf9f0659fda08d65eb2df81e0963799fa1bcee1&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Beachfront"
+roomTypes:
+  - "One-Bedroom Apartment"
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Baca 350 m"
+  - "Prestige İStanbul Kebab House 650 m"
+nearbyBeaches:
+  - "Qerret Beach 150 m"
+  - "Mali I Robit Beach 300 m"
+  - "Golem Beach 2.3 km"
+  - "Shkëmbi i Kavajës Beach 4.2 km"
+  - "Durres Beach 7 km"
+whatsNearby:
+  - "Durres Amphiteatre 11 km"
+  - "1. Maj 11 km"
+  - "Wine Dhe Pooh 11 km"
+  - "Yje Dhe Hena 11 km"
+  - "Sheshi Demokracia 11 km"
+  - "Bekimi 12 km"
+  - "Sotir Noka 12 km"
+  - "Divjake-Karavasta National Park 19 km"
+airports:
+  - "Tirana International Airport Mother Teresa 26 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "M"
+    country: "Germany"
+    text: "“Top Apartment / Wohnung, ganz neu und sauber. Garten auch schön. Zum Sandstrand ca 1 Minute zu Fuß. Viele Bars und Strand Pubs. Ca. 15 Minuten zu Fuß zu einer grosse Promenade mit Nachtsunterhaltung und tollen Restaurants. Man kann das Auto...”"
+bookingURL: "https://www.booking.com/hotel/al/suisse-villa-qerret.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each apartment within the complex is thoughtfully equipped with modern amenities, including a flat-screen TV and a fully outfitted kitchen. The attention to detail extends to the bathrooms, where guests will find walk-in showers, enhancing the overall experience with a touch of luxury. Free WiFi is available throughout, and select rooms even offer the added delight of a private terrace.
 
 Dining at Swiss Villa Qerret is a culinary adventure, thanks to the on-site restaurant that caters to a variety of tastes with its diverse menu available for dinner, lunch, brunch, and cocktails. The establishment prides itself on being family-friendly, not only in its dining options but also in its amenities, such as outdoor play equipment for children.
 

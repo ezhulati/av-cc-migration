@@ -1,4 +1,57 @@
----\ntitle: "City Center Luxury Apartment"\ndescription: "City Center Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783194.jpg?k=830335b230cdd0f5a62bfe8236747aaf915a8f7119647c04659bc9434be8cc3b&o=&hp=1"\nlanguage: en\nslug: city-center-luxury-apartment\naddress: "Rruga Pelivan Leskaj Pallati perballe pallatit Sportit, kati 6 nr28., 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45474529\n  lng: 19.48836215\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783194.jpg?k=830335b230cdd0f5a62bfe8236747aaf915a8f7119647c04659bc9434be8cc3b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Restorant Kristal 100 m"\n  - "Rimix Bar 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 650 m"\n  - "Vlore Beach 850 m"\n  - "Ri Beach 2.2 km"\n  - "Beach at Government Villas 3.8 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.5 km"\n  - "Independence Square 1.8 km"\n  - "Scooby Doo Vlore 2.1 km"\nbookingURL: "https://www.booking.com/hotel/al/city-center-luxury-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at City Center Luxury Apartment are treated to the luxury of both complimentary WiFi and on-site parking, a rarity in such a sought-after location. The apartment, a strictly non-smoking environment, is a testament to modern living with its spacious layout that includes a balcony, a cozy bedroom, an inviting living room, and a well-equipped kitchen. The inclusion of towels and bed linen adds a touch of home comfort to the stay, while the city views from the property paint a picturesque backdrop for a memorable vacation.
+---
+title: "City Center Luxury Apartment"
+description: "City Center Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783194.jpg?k=830335b230cdd0f5a62bfe8236747aaf915a8f7119647c04659bc9434be8cc3b&o=&hp=1"
+language: en
+slug: city-center-luxury-apartment
+address: "Rruga Pelivan Leskaj Pallati perballe pallatit Sportit, kati 6 nr28., 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45474529
+  lng: 19.48836215
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.5
+ratingWords: "Good"
+numberOfReviews: 1
+ratings:
+  overall: 7.5
+  location: 7.5
+  cleanliness: 7.5
+  facilities: 7.5
+  value: 7.5
+  comfort: 7.5
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783194.jpg?k=830335b230cdd0f5a62bfe8236747aaf915a8f7119647c04659bc9434be8cc3b&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Restorant Kristal 100 m"
+  - "Rimix Bar 150 m"
+nearbyBeaches:
+  - "Vjetër Beach 650 m"
+  - "Vlore Beach 850 m"
+  - "Ri Beach 2.2 km"
+  - "Beach at Government Villas 3.8 km"
+  - "Liro Beach 4.5 km"
+whatsNearby:
+  - "Kuzum Baba 1.5 km"
+  - "Independence Square 1.8 km"
+  - "Scooby Doo Vlore 2.1 km"
+bookingURL: "https://www.booking.com/hotel/al/city-center-luxury-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at City Center Luxury Apartment are treated to the luxury of both complimentary WiFi and on-site parking, a rarity in such a sought-after location. The apartment, a strictly non-smoking environment, is a testament to modern living with its spacious layout that includes a balcony, a cozy bedroom, an inviting living room, and a well-equipped kitchen. The inclusion of towels and bed linen adds a touch of home comfort to the stay, while the city views from the property paint a picturesque backdrop for a memorable vacation.
 
 For those who might need a quick snack or essential items, the convenience of a minimarket on the premises cannot be overstated. Situated just 2 km from the historic Independence Square and equally close to the iconic Kuzum Baba, guests have easy access to some of Vlorë's most notable landmarks. Moreover, for travelers exploring the region, the proximity to Tirana International Mother Teresa Airport, located 151 km away, makes City Center Luxury Apartment an excellent base for both short and extended stays in the area.
 

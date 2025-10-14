@@ -1,4 +1,73 @@
----\ntitle: "Sale e Sole Rooms"\ndescription: "Sale e Sole Rooms emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900000.jpg?k=4d4630e1a8389825821cb8831fbb1c574da67cd4a0c9835f4c4ea665a70b258c&o=&hp=1"\nlanguage: en\nslug: sale-e-sole-rooms\naddress: "Rruga Aleks Çaçi, 9403 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.4605114\n  lng: 19.47221789\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900000.jpg?k=4d4630e1a8389825821cb8831fbb1c574da67cd4a0c9835f4c4ea665a70b258c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900055.jpg?k=f071853d352e2dd112122caac0431ae55fc3f0246231b659dc8699fcc03b49a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900075.jpg?k=15945d4a6f8b777c82e82073c504f4bba061d698a22cd8a8e3a0b8ac772a4275&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900087.jpg?k=f8b01fb4574413c73251ccead457bb6912f75e166020bed24cf0471557321a31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900093.jpg?k=e269a2cb4312d4d0a6cf877b0186ef39f7fadda213d2b1593424f590ba90ba37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900060.jpg?k=e5f9f2527ff4d41d6cf6e75d2667f56283e45b6ac974e62b341e9522cf7b73cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900110.jpg?k=13cce7ec61ac10b4ed7714847504778ef8e176ed52988ea420e21bbd7ed15bf8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900079.jpg?k=8e1dae5b0ec30474a10d79acfa3d239cb74fcd2273671a21f7e539719b2057b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900048.jpg?k=e5821f45191cb8958ce6beb06db3e66802ffe04835ba0bd03abb26c818a8c456&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (60 Mbps)"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Triple Room with Balcony"\nnearbyRestaurants:\n  - "Bar Restorant F. Feimi 350 m"\n  - "Maison des Chefs 450 m"\nnearbyBeaches:\n  - "Vjetër Beach 450 m"\n  - "Vlore Beach 2.3 km"\n  - "Ri Beach 3.3 km"\n  - "Narta Beach 4.3 km"\n  - "Beach at Government Villas 4.6 km"\nwhatsNearby:\n  - "Independence Square 1.9 km"\n  - "Kuzum Baba 2 km"\n  - "Scooby Doo Vlore 3.3 km"\nreviews:\n  - name: "Rania"\n    country: "Germany"\n    text: "“Ich reise das erste mal ganz alleine als Frau und ich muss sagen, ich hatte einen fantastischen Aufenthalt in dieser Unterkunft, all meine anfänglichen Unsicherheiten wurden mir genommen. Die Gastfreundschaft war überwältigend und die Gastgeber...”"\nbookingURL: "https://www.booking.com/hotel/al/sale-e-sole-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property boasts a prime location, situated just a short distance from Vlore Beach (2.7 km) and Independence Square (2.8 km), making it an ideal base for exploring the rich cultural tapestry of the area. For those intrigued by historical sites, Kuzum Baba is within a 3.4 km reach, offering a glimpse into the local heritage.
+---
+title: "Sale e Sole Rooms"
+description: "Sale e Sole Rooms emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900000.jpg?k=4d4630e1a8389825821cb8831fbb1c574da67cd4a0c9835f4c4ea665a70b258c&o=&hp=1"
+language: en
+slug: sale-e-sole-rooms
+address: "Rruga Aleks Çaçi, 9403 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.4605114
+  lng: 19.47221789
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900000.jpg?k=4d4630e1a8389825821cb8831fbb1c574da67cd4a0c9835f4c4ea665a70b258c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900055.jpg?k=f071853d352e2dd112122caac0431ae55fc3f0246231b659dc8699fcc03b49a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900075.jpg?k=15945d4a6f8b777c82e82073c504f4bba061d698a22cd8a8e3a0b8ac772a4275&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900087.jpg?k=f8b01fb4574413c73251ccead457bb6912f75e166020bed24cf0471557321a31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900093.jpg?k=e269a2cb4312d4d0a6cf877b0186ef39f7fadda213d2b1593424f590ba90ba37&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900060.jpg?k=e5f9f2527ff4d41d6cf6e75d2667f56283e45b6ac974e62b341e9522cf7b73cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900110.jpg?k=13cce7ec61ac10b4ed7714847504778ef8e176ed52988ea420e21bbd7ed15bf8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900079.jpg?k=8e1dae5b0ec30474a10d79acfa3d239cb74fcd2273671a21f7e539719b2057b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503900048.jpg?k=e5821f45191cb8958ce6beb06db3e66802ffe04835ba0bd03abb26c818a8c456&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (60 Mbps)"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+roomTypes:
+  - "Triple Room with Balcony"
+nearbyRestaurants:
+  - "Bar Restorant F. Feimi 350 m"
+  - "Maison des Chefs 450 m"
+nearbyBeaches:
+  - "Vjetër Beach 450 m"
+  - "Vlore Beach 2.3 km"
+  - "Ri Beach 3.3 km"
+  - "Narta Beach 4.3 km"
+  - "Beach at Government Villas 4.6 km"
+whatsNearby:
+  - "Independence Square 1.9 km"
+  - "Kuzum Baba 2 km"
+  - "Scooby Doo Vlore 3.3 km"
+reviews:
+  - name: "Rania"
+    country: "Germany"
+    text: "“Ich reise das erste mal ganz alleine als Frau und ich muss sagen, ich hatte einen fantastischen Aufenthalt in dieser Unterkunft, all meine anfänglichen Unsicherheiten wurden mir genommen. Die Gastfreundschaft war überwältigend und die Gastgeber...”"
+bookingURL: "https://www.booking.com/hotel/al/sale-e-sole-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property boasts a prime location, situated just a short distance from Vlore Beach (2.7 km) and Independence Square (2.8 km), making it an ideal base for exploring the rich cultural tapestry of the area. For those intrigued by historical sites, Kuzum Baba is within a 3.4 km reach, offering a glimpse into the local heritage.
 
 Designed with families in mind, Sale e Sole Rooms features spacious family rooms that ensure a comfortable stay for all. Each unit is equipped with modern amenities including air conditioning, a flat-screen TV, and a private bathroom complete with a bidet and bathrobes, ensuring a blend of luxury and functionality. The attention to detail extends to soundproofing, guaranteeing a peaceful night's sleep amidst the serene surroundings.
 

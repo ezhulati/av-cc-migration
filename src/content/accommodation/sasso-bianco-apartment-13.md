@@ -1,4 +1,87 @@
----\ntitle: "Sasso Bianco Apartment 13"\ndescription: "Sasso Bianco Apartment 13 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973031.jpg?k=00cc9d44f8d0ba03a4330db1f172b06991c098aff4c343cd5ea7dd0e0bc70949&o=&hp=1"\nlanguage: en\nslug: sasso-bianco-apartment-13\naddress: "Sasso Bianco Ristorante, SH4, Durrës 2008, Albania, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27972687\n  lng: 19.51345828\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9.4\n  location: 10\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.6\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973031.jpg?k=00cc9d44f8d0ba03a4330db1f172b06991c098aff4c343cd5ea7dd0e0bc70949&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973132.jpg?k=56fd680a12f5a97903c84d06fcd407a5279acc162a373968af722674318cdba6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973078.jpg?k=118b4f2e243a78db8997eb1d261db06bb3db13213cabfa4175d228597b0e20f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973041.jpg?k=dc9626faa6ba210fdd465ebd928f421c004726f9a1f175fd97ad45cbee7f2f08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515972998.jpg?k=22aa53d933cd2792fec8e74a724dc9e4284f1382084e325c54fcedbb78edc207&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973117.jpg?k=93a0136838cf50694f2a841369dd8345f5d82adc16c8388b2432b1dd466f207c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973010.jpg?k=b4bcf0adee7732cd1232a04e7485691808fb53d229cab2f8f5fa3c43c417205e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515972984.jpg?k=c139456f7068b34ac37abd5a301041ea044a6a3976b29f3ed595cb8ab847af4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515972946.jpg?k=50daf7d136832a7de0417bd3646e7055f26dd4aa48b8e644009dd4df5e14bc09&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sasso Bianco Ristorante 50 m"\n  - "Tirona 50 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 30 m"\n  - "Durres Beach 750 m"\n  - "Golem Beach 1.7 km"\n  - "Mali I Robit Beach 3.6 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Ernisa"\n    country: "Albania"\n    text: "“I really enjoyed my stay , the apartment was gorgeous and big and had everything you could want! The location was brilliant and also the breakfast was perfect.”"\n  - name: "H"\n    country: "Albania"\n    text: "“Location is very good, right at the beach. Apartment is clean and spacious . The host is very helpful. There is also parking. You have also the restaurant downstairs which is pretty good.”"\n  - name: "Tomasz"\n    country: "Poland"\n    text: "“Pomocny personel, smaczne śniadania, piękne widoki”"\nbookingURL: "https://www.booking.com/hotel/al/sasso-bianco-apartment-13.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and modern amenities, boasting air-conditioned interiors that extend to a private balcony offering sweeping sea views. The inclusion of free WiFi and private parking, along with the convenience of an elevator, underscores the property's commitment to guest comfort. The non-smoking environment ensures a clean and healthy stay for all visitors.
+---
+title: "Sasso Bianco Apartment 13"
+description: "Sasso Bianco Apartment 13 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973031.jpg?k=00cc9d44f8d0ba03a4330db1f172b06991c098aff4c343cd5ea7dd0e0bc70949&o=&hp=1"
+language: en
+slug: sasso-bianco-apartment-13
+address: "Sasso Bianco Ristorante, SH4, Durrës 2008, Albania, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.27972687
+  lng: 19.51345828
+price: "US$26"
+priceFrom: 26
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 6
+ratings:
+  overall: 9.4
+  location: 10
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9.6
+  comfort: 8.8
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973031.jpg?k=00cc9d44f8d0ba03a4330db1f172b06991c098aff4c343cd5ea7dd0e0bc70949&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973132.jpg?k=56fd680a12f5a97903c84d06fcd407a5279acc162a373968af722674318cdba6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973078.jpg?k=118b4f2e243a78db8997eb1d261db06bb3db13213cabfa4175d228597b0e20f4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973041.jpg?k=dc9626faa6ba210fdd465ebd928f421c004726f9a1f175fd97ad45cbee7f2f08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515972998.jpg?k=22aa53d933cd2792fec8e74a724dc9e4284f1382084e325c54fcedbb78edc207&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973117.jpg?k=93a0136838cf50694f2a841369dd8345f5d82adc16c8388b2432b1dd466f207c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973010.jpg?k=b4bcf0adee7732cd1232a04e7485691808fb53d229cab2f8f5fa3c43c417205e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515972984.jpg?k=c139456f7068b34ac37abd5a301041ea044a6a3976b29f3ed595cb8ab847af4a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515972946.jpg?k=50daf7d136832a7de0417bd3646e7055f26dd4aa48b8e644009dd4df5e14bc09&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Sasso Bianco Ristorante 50 m"
+  - "Tirona 50 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 30 m"
+  - "Durres Beach 750 m"
+  - "Golem Beach 1.7 km"
+  - "Mali I Robit Beach 3.6 km"
+  - "Qerret Beach 6 km"
+whatsNearby:
+  - "Bekimi 6 km"
+  - "Wine Dhe Pooh 7 km"
+  - "Durres Amphiteatre 7 km"
+  - "Yje Dhe Hena 7 km"
+  - "Sheshi Demokracia 7 km"
+  - "1. Maj 7 km"
+  - "Sotir Noka 7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Ernisa"
+    country: "Albania"
+    text: "“I really enjoyed my stay , the apartment was gorgeous and big and had everything you could want! The location was brilliant and also the breakfast was perfect.”"
+  - name: "H"
+    country: "Albania"
+    text: "“Location is very good, right at the beach. Apartment is clean and spacious . The host is very helpful. There is also parking. You have also the restaurant downstairs which is pretty good.”"
+  - name: "Tomasz"
+    country: "Poland"
+    text: "“Pomocny personel, smaczne śniadania, piękne widoki”"
+bookingURL: "https://www.booking.com/hotel/al/sasso-bianco-apartment-13.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of space and modern amenities, boasting air-conditioned interiors that extend to a private balcony offering sweeping sea views. The inclusion of free WiFi and private parking, along with the convenience of an elevator, underscores the property's commitment to guest comfort. The non-smoking environment ensures a clean and healthy stay for all visitors.
 
 Accommodation at Sasso Bianco Apartment 13 is thoughtfully designed with a single bedroom, yet it doesn't skimp on luxury or necessity. The kitchen is well-equipped with a fridge and minibar, catering to guests' culinary needs, while the living area provides a cozy spot for relaxation, complete with a flat-screen TV. The bathroom, featuring a bidet, along with the provision of towels and bed linen, adds to the homely feel.
 

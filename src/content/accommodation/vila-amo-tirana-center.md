@@ -1,4 +1,90 @@
----\ntitle: "Vila-Amo Tirana Center"\ndescription: "Vila-Amo Tirana Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675126.jpg?k=426fdce74b9413c9549ad7b17cef5fd51930c2b0875fb3226d7383bb3371ca18&o=&hp=1"\nlanguage: en\nslug: vila-amo-tirana-center\naddress: "Rruga Zyri Bajrami, Bulevardi Zogu i I, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3331505\n  lng: 19.81527965\nprice: "US$143"\npriceFrom: 143\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 29\nratings:\n  overall: 9.6\n  location: 9.3\n  cleanliness: 9.9\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.8\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675126.jpg?k=426fdce74b9413c9549ad7b17cef5fd51930c2b0875fb3226d7383bb3371ca18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415901069.jpg?k=c7dd14ea3565b16aa92cf22ff6a211c3c56bd2c7aa197aa34f8cd3bd32eb8ece&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416562455.jpg?k=7a6de18109c6e3f61582e0f7042f59d34b0a5eed8f92362baf0414c87cfa09a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450426205.jpg?k=367a6898a3f5c5a50345312f696740d2c8df9c55e7e9aa8c913f873cfb04677d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675132.jpg?k=eb0f62e0593b8195ca1a98922cd8f9897b5b4f4c07804290bff2f4d369722609&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424478490.jpg?k=1df1cc9a217842983eab0776584b48b2e2fa78626f20bc27e0bde88b08c09308&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675133.jpg?k=d8f6b1861332878cc207c5d730c126023e87906714bec3f8d881def1f26a188b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416562453.jpg?k=98a04f58da930048346e02b9b874daa6116007c1ccb94ddce50e2ca89b679e54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512888212.jpg?k=e4366fbe44e4aaa978c95dbabb713658d506605874e3e0479a107cbd509f2607&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Good free WiFi (41 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 900 m"\n  - "Rinia Park 950 m"\n  - "Tanners' Bridge 1.2 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Tak Fak 50 m"\n  - "My House 100 m"\nwhatsNearby:\n  - "Amazing Nature 350 m"\n  - "Sheshi Paris 400 m"\n  - "National Museum of History Albania 450 m"\n  - "Sheshi Skënderbej 550 m"\n  - "Sheshi Rekreativ Mine Peza 650 m"\n  - "Skanderbeg Square 700 m"\n  - "Clock Tower Tirana 700 m"\n  - "Parku Europa 700 m"\n  - "House of Leaves 700 m"\n  - "Sheshi Sulejman Pasha 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Fabio"\n    country: "Italy"\n    text: "“La struttura ha tutti i comfort, molto pulita e la posizione abbastanza centrale. L’accoglienza è stata ottima. Il proprietario molto disponibile a dare tutte le indicazioni.”"\n  - name: "Roy"\n    country: "Netherlands"\n    text: "“Super villa met ruime slaapkamers. Er zijn 6 bed plekken en 4 uitklap bedden die prima te gebruiken zijn.”"\n  - name: "Esposito"\n    country: "Italy"\n    text: "“La posizione, la pulizia, le dimensioni e la disponibilità dello staff”"\nbookingURL: "https://www.booking.com/hotel/al/amo-villa.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of space and luxury, boasting three well-appointed bedrooms, a living area equipped with a flat-screen TV and streaming services, and a balcony that serves as a charming outdoor dining space. The kitchen is a culinary enthusiast's dream, featuring modern appliances including a dishwasher, oven, washing machine, microwave, and fridge. Adding to the convenience, the property is entirely non-smoking, ensuring a pleasant stay for all guests.
+---
+title: "Vila-Amo Tirana Center"
+description: "Vila-Amo Tirana Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675126.jpg?k=426fdce74b9413c9549ad7b17cef5fd51930c2b0875fb3226d7383bb3371ca18&o=&hp=1"
+language: en
+slug: vila-amo-tirana-center
+address: "Rruga Zyri Bajrami, Bulevardi Zogu i I, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3331505
+  lng: 19.81527965
+price: "US$143"
+priceFrom: 143
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 29
+ratings:
+  overall: 9.6
+  location: 9.3
+  cleanliness: 9.9
+  facilities: 9.6
+  value: 9.6
+  comfort: 9.8
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675126.jpg?k=426fdce74b9413c9549ad7b17cef5fd51930c2b0875fb3226d7383bb3371ca18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415901069.jpg?k=c7dd14ea3565b16aa92cf22ff6a211c3c56bd2c7aa197aa34f8cd3bd32eb8ece&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416562455.jpg?k=7a6de18109c6e3f61582e0f7042f59d34b0a5eed8f92362baf0414c87cfa09a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450426205.jpg?k=367a6898a3f5c5a50345312f696740d2c8df9c55e7e9aa8c913f873cfb04677d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675132.jpg?k=eb0f62e0593b8195ca1a98922cd8f9897b5b4f4c07804290bff2f4d369722609&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424478490.jpg?k=1df1cc9a217842983eab0776584b48b2e2fa78626f20bc27e0bde88b08c09308&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675133.jpg?k=d8f6b1861332878cc207c5d730c126023e87906714bec3f8d881def1f26a188b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416562453.jpg?k=98a04f58da930048346e02b9b874daa6116007c1ccb94ddce50e2ca89b679e54&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512888212.jpg?k=e4366fbe44e4aaa978c95dbabb713658d506605874e3e0479a107cbd509f2607&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Parking on site"
+  - "Good free WiFi (41 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "Three-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 900 m"
+  - "Rinia Park 950 m"
+  - "Tanners' Bridge 1.2 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Grand Park of Tirana 2.5 km"
+  - "Bunk'Art 1 Museum 4.2 km"
+nearbyRestaurants:
+  - "Tak Fak 50 m"
+  - "My House 100 m"
+whatsNearby:
+  - "Amazing Nature 350 m"
+  - "Sheshi Paris 400 m"
+  - "National Museum of History Albania 450 m"
+  - "Sheshi Skënderbej 550 m"
+  - "Sheshi Rekreativ Mine Peza 650 m"
+  - "Skanderbeg Square 700 m"
+  - "Clock Tower Tirana 700 m"
+  - "Parku Europa 700 m"
+  - "House of Leaves 700 m"
+  - "Sheshi Sulejman Pasha 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Fabio"
+    country: "Italy"
+    text: "“La struttura ha tutti i comfort, molto pulita e la posizione abbastanza centrale. L’accoglienza è stata ottima. Il proprietario molto disponibile a dare tutte le indicazioni.”"
+  - name: "Roy"
+    country: "Netherlands"
+    text: "“Super villa met ruime slaapkamers. Er zijn 6 bed plekken en 4 uitklap bedden die prima te gebruiken zijn.”"
+  - name: "Esposito"
+    country: "Italy"
+    text: "“La posizione, la pulizia, le dimensioni e la disponibilità dello staff”"
+bookingURL: "https://www.booking.com/hotel/al/amo-villa.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of space and luxury, boasting three well-appointed bedrooms, a living area equipped with a flat-screen TV and streaming services, and a balcony that serves as a charming outdoor dining space. The kitchen is a culinary enthusiast's dream, featuring modern appliances including a dishwasher, oven, washing machine, microwave, and fridge. Adding to the convenience, the property is entirely non-smoking, ensuring a pleasant stay for all guests.
 
 For those eager to venture beyond the city, Vila-Amo Tirana Center makes it easy with options for packed lunches perfect for day trips. Moreover, the property facilitates exploration of the surrounding area with bicycle and car rental services, allowing guests to discover Tirana's attractions such as the National Museum of History Albania, the National Theatre of Opera and Ballet, and the House of Leaves at their own pace.
 

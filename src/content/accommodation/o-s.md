@@ -1,4 +1,102 @@
----\ntitle: "O&S"\ndescription: "O&S Guest House emerges as a serene retreat in the heart of Ksamil, a stone's throw away from the pristine shores of Bora Bora Beach and the vibrant Ksamil Beach 7."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385443118.jpg?k=668c32dbb31bd8746d788768f09ad8ded34d5e1b94c7b426eafe102e7ab06ca6&o=&hp=1"\nlanguage: en\nslug: o-s\naddress: "Amantia Ksamil, Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 39.76988177\n  lng: 20.00119539\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 35\nratings:\n  overall: 9.1\n  location: 9.7\n  cleanliness: 9.1\n  facilities: 8.8\n  value: 9.1\n  comfort: 9.1\n  staff: 8.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385443118.jpg?k=668c32dbb31bd8746d788768f09ad8ded34d5e1b94c7b426eafe102e7ab06ca6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385399788.jpg?k=fb26c857d477508db2c7cc3c3194bb17bbe3d13c53d7dcd619a72d0a8c4cdf4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385442679.jpg?k=b4c1e329d7a8788ba126feace9ac02183f955138871c50d7be3932279b406686&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385399818.jpg?k=f2c992ef143394d7b938a7ec3f1844184fc09c890ec40e9dd331d7f635f73e88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385443123.jpg?k=3aeea97906cc3a07b25d3e072c793cd144eab654a85657b22b3af19e2f8220ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385399829.jpg?k=d26a7d1bf37ccb276b6fb9fb270a9599bb73f7732de721150ea9352c175e9236&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (89 Mbps)"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Triple Room"\n  - "Deluxe Double Room"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Fastfood Iceberg 50 m"\n  - "Sweet & Salty 50 m"\nnearbyBeaches:\n  - "Bora Bora Beach 300 m"\n  - "Ksamil Beach 9 300 m"\n  - "Ksamil Beach 300 m"\n  - "Ksamil Beach 7 300 m"\n  - "Paradise Beach 600 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 300 m"\n  - "Butrint National Park 2.8 km"\n  - "Plazhi I Krorezes 3.3 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "Diners Club"\nreviews:\n  - name: "Magdalena"\n    country: "Poland"\n    text: "“Big double bed, amazing terrace, AC, very good soundproofing.”"\n  - name: "Elena"\n    country: "North Macedonia"\n    text: "“Very good location, spacious room and great balconies, clean and comfortable.”"\n  - name: "Michal"\n    country: "Slovakia"\n    text: "“very nice owners, very comfortable beds, AC working fine, we could cook even though kitchen could use some new utensils, very good cost/quality”"\nbookingURL: "https://www.booking.com/hotel/al/o-amp-s.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at O&S are thoughtfully designed with guest comfort in mind. Each room is equipped with modern amenities including air conditioning, a flat-screen TV, and complimentary WiFi, ensuring a stay that is both comfortable and connected. For those who appreciate the finer details, rooms boast a wardrobe, private bathroom, bed linen, and towels, with select units featuring a terrace or balcony. These outdoor spaces offer serene garden views and an outdoor dining area, perfect for those moments of quiet reflection or intimate meals under the stars. Additionally, the guest house offers allergy-free and soundproof units, catering to the needs of every guest.
+---
+title: "O&S"
+description: "O&S Guest House emerges as a serene retreat in the heart of Ksamil, a stone's throw away from the pristine shores of Bora Bora Beach and the vibrant Ksamil Beach 7."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385443118.jpg?k=668c32dbb31bd8746d788768f09ad8ded34d5e1b94c7b426eafe102e7ab06ca6&o=&hp=1"
+language: en
+slug: o-s
+address: "Amantia Ksamil, Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 39.76988177
+  lng: 20.00119539
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 35
+ratings:
+  overall: 9.1
+  location: 9.7
+  cleanliness: 9.1
+  facilities: 8.8
+  value: 9.1
+  comfort: 9.1
+  staff: 8.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385443118.jpg?k=668c32dbb31bd8746d788768f09ad8ded34d5e1b94c7b426eafe102e7ab06ca6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385399788.jpg?k=fb26c857d477508db2c7cc3c3194bb17bbe3d13c53d7dcd619a72d0a8c4cdf4b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385442679.jpg?k=b4c1e329d7a8788ba126feace9ac02183f955138871c50d7be3932279b406686&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385399818.jpg?k=f2c992ef143394d7b938a7ec3f1844184fc09c890ec40e9dd331d7f635f73e88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385443123.jpg?k=3aeea97906cc3a07b25d3e072c793cd144eab654a85657b22b3af19e2f8220ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385399829.jpg?k=d26a7d1bf37ccb276b6fb9fb270a9599bb73f7732de721150ea9352c175e9236&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (89 Mbps)"
+  - "Family rooms"
+  - "Breakfast"
+roomTypes:
+  - "Triple Room"
+  - "Deluxe Double Room"
+nearbyAttractions:
+  - "Museum of Banknotes 18 km"
+  - "New Fortress 18 km"
+  - "Serbian Museum 18 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 19 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 20 km"
+nearbyRestaurants:
+  - "Fastfood Iceberg 50 m"
+  - "Sweet & Salty 50 m"
+nearbyBeaches:
+  - "Bora Bora Beach 300 m"
+  - "Ksamil Beach 9 300 m"
+  - "Ksamil Beach 300 m"
+  - "Ksamil Beach 7 300 m"
+  - "Paradise Beach 600 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 300 m"
+  - "Butrint National Park 2.8 km"
+  - "Plazhi I Krorezes 3.3 km"
+  - "Parc National de Butrint 10 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "Diners Club"
+reviews:
+  - name: "Magdalena"
+    country: "Poland"
+    text: "“Big double bed, amazing terrace, AC, very good soundproofing.”"
+  - name: "Elena"
+    country: "North Macedonia"
+    text: "“Very good location, spacious room and great balconies, clean and comfortable.”"
+  - name: "Michal"
+    country: "Slovakia"
+    text: "“very nice owners, very comfortable beds, AC working fine, we could cook even though kitchen could use some new utensils, very good cost/quality”"
+bookingURL: "https://www.booking.com/hotel/al/o-amp-s.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at O&S are thoughtfully designed with guest comfort in mind. Each room is equipped with modern amenities including air conditioning, a flat-screen TV, and complimentary WiFi, ensuring a stay that is both comfortable and connected. For those who appreciate the finer details, rooms boast a wardrobe, private bathroom, bed linen, and towels, with select units featuring a terrace or balcony. These outdoor spaces offer serene garden views and an outdoor dining area, perfect for those moments of quiet reflection or intimate meals under the stars. Additionally, the guest house offers allergy-free and soundproof units, catering to the needs of every guest.
 
 Families visiting O&S will find the guest house accommodating, with baby safety gates available to ensure the little ones' safety and parents' peace of mind.
 

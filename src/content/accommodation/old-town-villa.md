@@ -1,4 +1,91 @@
----\ntitle: "Old Town Villa"\ndescription: "Old Town Villa stands out as a charming retreat in the heart of Durrës, just a stone's throw away from the serene Currila Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367178856.jpg?k=e4cd6562a22da69d21ab992ccdbdd67637d0f3a3bc23cfe94d93a91fc01c73d5&o=&hp=1"\nlanguage: en\nslug: old-town-villa\naddress: "Rruga Mustafa Varoshi, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.31696217\n  lng: 19.44746897\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 961\nratings:\n  overall: 9.5\n  location: 9.4\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.4\n  comfort: 9.6\n  staff: 9.7\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367178856.jpg?k=e4cd6562a22da69d21ab992ccdbdd67637d0f3a3bc23cfe94d93a91fc01c73d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472508582.jpg?k=0fae96656f21e07abe0b29b285dd1e94194d07f011c58626fb57277fe4a2250e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363745232.jpg?k=eab448ac1556fde0724c749c1f6f7562312a405c42d623fc63f2ccc4d390cf0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470919222.jpg?k=170619627443c33912a8e9a97489ef93e6f10bb6de31e6269d38f2d5b697123d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461865464.jpg?k=28f2da1e9e9ca5ffc81a164395b246f06cf35d268053e02fcdfbd59d83068f57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390199869.jpg?k=29df5c3c22a2dc4f95a349256999be6923ae285e4ae9b2c166b32b0de9a250f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364377664.jpg?k=3f06baf00ed173f30c890bc66caf83b0a015c084dcfc66e60f615b8e57991062&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364371928.jpg?k=f5f8cd48d4c10afc36aabb14b2c5d96b29265f9d5961e4f518dcdc31a3f3bed9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523092075.jpg?k=dadb456f0c34dbb60df0ae9fd962407e95e32e4ee82642eebbf875a20f3f52cc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Small Double Room"\n  - "Junior Suite with Terrace"\nnearbyRestaurants:\n  - "Brauhaus 1.0 & Zgara Korcare 100 m"\n  - "Prague 150 m"\nnearbyBeaches:\n  - "Currila Beach 850 m"\n  - "Kallmi Beach 1.3 km"\n  - "Durres Beach 1.7 km"\n  - "West End Beach 2.3 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Yje Dhe Hena 100 m"\n  - "Sheshi Demokracia 100 m"\n  - "Wine Dhe Pooh 200 m"\n  - "Sotir Noka 450 m"\n  - "Durres Amphiteatre 550 m"\n  - "1. Maj 700 m"\n  - "Bekimi 2.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Parise"\n    country: "United Kingdom"\n    text: "“Everything especially the bed it was like sleeping on a cloud, highly recommend this place, the owner was extremely friendly and so helpful, and they have the cutest dog called diva! What a beautiful place to stay”"\n  - name: "Alina"\n    country: "United Kingdom"\n    text: "“Amazing owner.
-Beautiful room, new building Great shower”"\n  - name: "Holly"\n    country: "United Kingdom"\n    text: "“Really warm and helpful owners who truly love their city and want you to have the best experience. They are very nice! They recommended us some of the restaurants to try authentic local food with a super affordable price. The mattress is nice and...”"\nbookingURL: "https://www.booking.com/hotel/al/old-town-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on its round-the-clock front desk service and efficient luggage storage space, catering to the needs of every traveler. A select number of rooms boast patios that offer captivating city views, adding a touch of romance to the stay. Each room is thoughtfully designed with a desk, a private bathroom equipped with a shower and complimentary toiletries, ensuring a comfortable and hassle-free stay. For entertainment and relaxation, guests can enjoy the flat-screen TV and air conditioning provided in each room, with some rooms featuring the added luxury of a balcony. To further enhance the guest experience, Old Town Villa ensures that all rooms are furnished with fresh bed linen and towels.
+---
+title: "Old Town Villa"
+description: "Old Town Villa stands out as a charming retreat in the heart of Durrës, just a stone's throw away from the serene Currila Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367178856.jpg?k=e4cd6562a22da69d21ab992ccdbdd67637d0f3a3bc23cfe94d93a91fc01c73d5&o=&hp=1"
+language: en
+slug: old-town-villa
+address: "Rruga Mustafa Varoshi, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "villa"
+coordinates:
+  lat: 41.31696217
+  lng: 19.44746897
+price: "US$42"
+priceFrom: 42
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 961
+ratings:
+  overall: 9.5
+  location: 9.4
+  cleanliness: 9.7
+  facilities: 9.4
+  value: 9.4
+  comfort: 9.6
+  staff: 9.7
+  wifi: 9.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367178856.jpg?k=e4cd6562a22da69d21ab992ccdbdd67637d0f3a3bc23cfe94d93a91fc01c73d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472508582.jpg?k=0fae96656f21e07abe0b29b285dd1e94194d07f011c58626fb57277fe4a2250e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363745232.jpg?k=eab448ac1556fde0724c749c1f6f7562312a405c42d623fc63f2ccc4d390cf0f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470919222.jpg?k=170619627443c33912a8e9a97489ef93e6f10bb6de31e6269d38f2d5b697123d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461865464.jpg?k=28f2da1e9e9ca5ffc81a164395b246f06cf35d268053e02fcdfbd59d83068f57&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390199869.jpg?k=29df5c3c22a2dc4f95a349256999be6923ae285e4ae9b2c166b32b0de9a250f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364377664.jpg?k=3f06baf00ed173f30c890bc66caf83b0a015c084dcfc66e60f615b8e57991062&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364371928.jpg?k=f5f8cd48d4c10afc36aabb14b2c5d96b29265f9d5961e4f518dcdc31a3f3bed9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523092075.jpg?k=dadb456f0c34dbb60df0ae9fd962407e95e32e4ee82642eebbf875a20f3f52cc&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Small Double Room"
+  - "Junior Suite with Terrace"
+nearbyRestaurants:
+  - "Brauhaus 1.0 & Zgara Korcare 100 m"
+  - "Prague 150 m"
+nearbyBeaches:
+  - "Currila Beach 850 m"
+  - "Kallmi Beach 1.3 km"
+  - "Durres Beach 1.7 km"
+  - "West End Beach 2.3 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "Yje Dhe Hena 100 m"
+  - "Sheshi Demokracia 100 m"
+  - "Wine Dhe Pooh 200 m"
+  - "Sotir Noka 450 m"
+  - "Durres Amphiteatre 550 m"
+  - "1. Maj 700 m"
+  - "Bekimi 2.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 24 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Parise"
+    country: "United Kingdom"
+    text: "“Everything especially the bed it was like sleeping on a cloud, highly recommend this place, the owner was extremely friendly and so helpful, and they have the cutest dog called diva! What a beautiful place to stay”"
+  - name: "Alina"
+    country: "United Kingdom"
+    text: "“Amazing owner.
+Beautiful room, new building Great shower”"
+  - name: "Holly"
+    country: "United Kingdom"
+    text: "“Really warm and helpful owners who truly love their city and want you to have the best experience. They are very nice! They recommended us some of the restaurants to try authentic local food with a super affordable price. The mattress is nice and...”"
+bookingURL: "https://www.booking.com/hotel/al/old-town-villa.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel prides itself on its round-the-clock front desk service and efficient luggage storage space, catering to the needs of every traveler. A select number of rooms boast patios that offer captivating city views, adding a touch of romance to the stay. Each room is thoughtfully designed with a desk, a private bathroom equipped with a shower and complimentary toiletries, ensuring a comfortable and hassle-free stay. For entertainment and relaxation, guests can enjoy the flat-screen TV and air conditioning provided in each room, with some rooms featuring the added luxury of a balcony. To further enhance the guest experience, Old Town Villa ensures that all rooms are furnished with fresh bed linen and towels.
 
 Located conveniently, Durres Beach is a mere 2.1 km away, with Kallmi Beach slightly further at 2.6 km, offering guests easy access to some of the area's most beautiful beaches. For those traveling from afar, Tirana International Mother Teresa Airport is located 33 km from the hotel, making Old Town Villa an ideal choice for both local and international travelers seeking a memorable stay in Durrës.

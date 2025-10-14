@@ -1,4 +1,82 @@
----\ntitle: "Wait 'n Sea"\ndescription: "Discover the charm of Himare at the Wait 'n Sea, a distinguished 4-star hotel that stands a mere 2."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309836820.jpg?k=6bb8c718e2364ba287fc4495065b577a8026762261d5396c7686505de45f51c1&o=&hp=1"\nlanguage: en\nslug: wait-n-sea\naddress: "Himare - Livadh Road, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.11378672\n  lng: 19.73112383\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 351\nratings:\n  overall: 9.3\n  location: 9.3\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.2\n  comfort: 9.8\n  staff: 9.9\n  wifi: 7.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309836820.jpg?k=6bb8c718e2364ba287fc4495065b577a8026762261d5396c7686505de45f51c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310025544.jpg?k=cf1fb97c7428a3a49b71ee20abc1890c58fb8b713893cb1d5deef6f005d4b27f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941440.jpg?k=223f60fd680a3891e4136541dd075011bb78b1cf14362231ab78740d88ec4523&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366908129.jpg?k=51bd24abc57112de12c3c37be805bf17a9008fed4266d3067d50d6c4040bd850&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309940675.jpg?k=44f836539482b96646bcc60dd56dd753f2995ed1b7d7641a53d45296cd862b06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941828.jpg?k=5c3c60e8c4e36abce05a31a51f356030002731725edabb8710bbadeb350bf9d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941831.jpg?k=4200c898e7cbed2d5796f51f6a0d7df91c08e4e6399ebb79652a432bbe6fdf4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941835.jpg?k=85b05ba36ef6e46445f8d4f357bc839af1321b52674b44cdd39d10a5354ee9a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941840.jpg?k=462f6fb718558712a17f3aa6fe3b9d5ca8302be4b3c44aad7619935fe6e3295f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941854.jpg?k=583c42341824580ee53acc2090b92faa876a27d6af08e5a9412da1ec0f48cd19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941867.jpg?k=e61264856c7d86f1a291c093333def78aec0579fdf16893e29a668f6faf9381c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941876.jpg?k=dd0f14520bdc7326e4c1cd0ade1e94110760e5eaa316e76f9e7aaf6d650b7e49&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Café Butterfly 400 m"\n  - "Viamare Beach Lounge Bar 750 m"\nnearbyBeaches:\n  - "Livadhi Beach 750 m"\n  - "Spille Beach 1.6 km"\n  - "Akuariumit Beach 1.7 km"\n  - "Maracit Beach 2.1 km"\n  - "Prinos Beach 2.4 km"\nwhatsNearby:\n  - "Llogora National Park 14 km"\nairports:\n  - "Corfu International Airport 58 km"\nreviews:\n  - name: "Alicja"\n    country: "Poland"\n    text: "“Amazing hotel with great view and nice staff. Our room was spacious and modern with sea view and nice bathroom. The breakfast was delicious with lots of choice from local products. Staff was very friendly and helpful. Hotel has a parking for guests.”"\n  - name: "Arno"\n    country: "Germany"\n    text: "“The location is perfect in every way. Beautiful view. We had a balcony and gorgeous sea view. Parking available. The owners are fantastic fabulous people.”"\n  - name: "Cheryl"\n    country: "United Kingdom"\n    text: "“This property is amazing! The views are fabulous, staff are helpful and friendly. Rooms are clean and the bathroom- just wow! Sunset from the balcony is great!”"\nbookingURL: "https://www.booking.com/hotel/al/wait-n-39-sea-himare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Wait 'n Sea is a haven of comfort, boasting air-conditioning for those warm Mediterranean nights, alongside a private bathroom equipped with modern amenities. The highlight, however, is undoubtedly the balcony that comes with each room, offering unobstructed views of the sea that stretches into the horizon, a perfect backdrop for both morning awakenings and evening reflections.
+---
+title: "Wait 'n Sea"
+description: "Discover the charm of Himare at the Wait 'n Sea, a distinguished 4-star hotel that stands a mere 2."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309836820.jpg?k=6bb8c718e2364ba287fc4495065b577a8026762261d5396c7686505de45f51c1&o=&hp=1"
+language: en
+slug: wait-n-sea
+address: "Himare - Livadh Road, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.11378672
+  lng: 19.73112383
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 351
+ratings:
+  overall: 9.3
+  location: 9.3
+  cleanliness: 9.7
+  facilities: 9.4
+  value: 9.2
+  comfort: 9.8
+  staff: 9.9
+  wifi: 7.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309836820.jpg?k=6bb8c718e2364ba287fc4495065b577a8026762261d5396c7686505de45f51c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310025544.jpg?k=cf1fb97c7428a3a49b71ee20abc1890c58fb8b713893cb1d5deef6f005d4b27f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941440.jpg?k=223f60fd680a3891e4136541dd075011bb78b1cf14362231ab78740d88ec4523&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366908129.jpg?k=51bd24abc57112de12c3c37be805bf17a9008fed4266d3067d50d6c4040bd850&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309940675.jpg?k=44f836539482b96646bcc60dd56dd753f2995ed1b7d7641a53d45296cd862b06&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941828.jpg?k=5c3c60e8c4e36abce05a31a51f356030002731725edabb8710bbadeb350bf9d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941831.jpg?k=4200c898e7cbed2d5796f51f6a0d7df91c08e4e6399ebb79652a432bbe6fdf4d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941835.jpg?k=85b05ba36ef6e46445f8d4f357bc839af1321b52674b44cdd39d10a5354ee9a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941840.jpg?k=462f6fb718558712a17f3aa6fe3b9d5ca8302be4b3c44aad7619935fe6e3295f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941854.jpg?k=583c42341824580ee53acc2090b92faa876a27d6af08e5a9412da1ec0f48cd19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941867.jpg?k=e61264856c7d86f1a291c093333def78aec0579fdf16893e29a668f6faf9381c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309941876.jpg?k=dd0f14520bdc7326e4c1cd0ade1e94110760e5eaa316e76f9e7aaf6d650b7e49&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+nearbyRestaurants:
+  - "Café Butterfly 400 m"
+  - "Viamare Beach Lounge Bar 750 m"
+nearbyBeaches:
+  - "Livadhi Beach 750 m"
+  - "Spille Beach 1.6 km"
+  - "Akuariumit Beach 1.7 km"
+  - "Maracit Beach 2.1 km"
+  - "Prinos Beach 2.4 km"
+whatsNearby:
+  - "Llogora National Park 14 km"
+airports:
+  - "Corfu International Airport 58 km"
+reviews:
+  - name: "Alicja"
+    country: "Poland"
+    text: "“Amazing hotel with great view and nice staff. Our room was spacious and modern with sea view and nice bathroom. The breakfast was delicious with lots of choice from local products. Staff was very friendly and helpful. Hotel has a parking for guests.”"
+  - name: "Arno"
+    country: "Germany"
+    text: "“The location is perfect in every way. Beautiful view. We had a balcony and gorgeous sea view. Parking available. The owners are fantastic fabulous people.”"
+  - name: "Cheryl"
+    country: "United Kingdom"
+    text: "“This property is amazing! The views are fabulous, staff are helpful and friendly. Rooms are clean and the bathroom- just wow! Sunset from the balcony is great!”"
+bookingURL: "https://www.booking.com/hotel/al/wait-n-39-sea-himare.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room at Wait 'n Sea is a haven of comfort, boasting air-conditioning for those warm Mediterranean nights, alongside a private bathroom equipped with modern amenities. The highlight, however, is undoubtedly the balcony that comes with each room, offering unobstructed views of the sea that stretches into the horizon, a perfect backdrop for both morning awakenings and evening reflections.
 
 For entertainment and connectivity, guests will find a flat-screen TV and complimentary WiFi access, ensuring that both relaxation and the outside world are at their fingertips. Additionally, the hotel caters to families with specially designed family rooms, making it an ideal choice for travelers of all ages.
 

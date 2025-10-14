@@ -12,7 +12,6 @@ slug: hospitality
 seo:
   focusKeyword: "hospitality"
   metaDescription: "Beyond the stereotypes and travel myths, discover what Albanian hospitality means today - from mountain villages to city cafes. An honest guide by a local."
-  focusKeyword: "hospitality"
 ---
 
 Loading the [Elevenlabs Text to Speech](https://elevenlabs.io/text-to-speech){rel="noopener" target="_blank"} AudioNative Player...

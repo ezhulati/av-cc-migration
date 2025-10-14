@@ -1,6 +1,82 @@
----\ntitle: "Hostel Central Shkoder"\ndescription: "Hostel Central Shkoder emerges as a prime choice for travelers seeking a comfortable and convenient stay in the heart of Shkodër, Shkoder County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426356647.jpg?k=e016e9ddf83e061d31ed56a0ee8680417f3b29479410eb7a0e51d5c83b1bedf8&o=&hp=1"\nlanguage: en\nslug: hostel-central-shkoder\naddress: "Rruga Studenti, Shkodër, Albania Rruga Studenti, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 42.06660794\n  lng: 19.51025082\nprice: "US$8"\npriceFrom: 8\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 411\nratings:\n  overall: 8.6\n  location: 9.4\n  cleanliness: 8.3\n  facilities: 7.8\n  value: 8.8\n  comfort: 8.2\n  staff: 8.7\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426356647.jpg?k=e016e9ddf83e061d31ed56a0ee8680417f3b29479410eb7a0e51d5c83b1bedf8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244914.jpg?k=7fd867b10bcbb6085bda4eee3bd5971e8769c49e28f950b4c2a635b836a55f1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466037439.jpg?k=fadc91a4755895c26dc2df54e9de21199ee717d72be918ca293b8021c395e8b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244895.jpg?k=44bf16a1329edf17b91b0676040bd680bfb35ff0b0ba8b4dde96fa4b38629fbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309262006.jpg?k=7bb131e415dfa1900ec56e044aebc3e6904d1cad77b7bad7516ad3f40b53854b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244836.jpg?k=33db493f789c1c264795291e8af03a43acc41686c797437ce90cd3219d07134b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244788.jpg?k=4eb4ef6c610dd03500f88fb65de7f06fec2f704974d8896491c74812d9edf2b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309261891.jpg?k=9b6c5f4558ba110fa252b4d9bc680a3008cecac2581cbb8cdf82bec47d716560&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244930.jpg?k=ff9d9e19ae925174fa742e3556093e42da3ed89acce30f2f4b688581414a4109&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426353959.jpg?k=68ab081ada51ba72bf2600f9b894a25667482bd20ac1b2fd2ec7965c2d1634ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426353787.jpg?k=b26d04d4e06ba8144839706d630803ae503a44c093173f8d77a249629ec4727e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426353640.jpg?k=e4f0a106bcd738cfdc3d19777585acb8398087004cebf8001be392ecf3096c5d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Mixed Dormitory Room"\n  - "Double Room with Balcony"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Restorant Fish Art 20 m"\n  - "Meridian Restorant 30 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.6 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Slava"\n    country: "Germany"\n    text: "“Is INSIDE of shkodra in the middel of piaca
+---
+title: "Hostel Central Shkoder"
+description: "Hostel Central Shkoder emerges as a prime choice for travelers seeking a comfortable and convenient stay in the heart of Shkodër, Shkoder County."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426356647.jpg?k=e016e9ddf83e061d31ed56a0ee8680417f3b29479410eb7a0e51d5c83b1bedf8&o=&hp=1"
+language: en
+slug: hostel-central-shkoder
+address: "Rruga Studenti, Shkodër, Albania Rruga Studenti, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hostel"
+coordinates:
+  lat: 42.06660794
+  lng: 19.51025082
+price: "US$8"
+priceFrom: 8
+starRating: 3
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 411
+ratings:
+  overall: 8.6
+  location: 9.4
+  cleanliness: 8.3
+  facilities: 7.8
+  value: 8.8
+  comfort: 8.2
+  staff: 8.7
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426356647.jpg?k=e016e9ddf83e061d31ed56a0ee8680417f3b29479410eb7a0e51d5c83b1bedf8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244914.jpg?k=7fd867b10bcbb6085bda4eee3bd5971e8769c49e28f950b4c2a635b836a55f1b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466037439.jpg?k=fadc91a4755895c26dc2df54e9de21199ee717d72be918ca293b8021c395e8b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244895.jpg?k=44bf16a1329edf17b91b0676040bd680bfb35ff0b0ba8b4dde96fa4b38629fbf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309262006.jpg?k=7bb131e415dfa1900ec56e044aebc3e6904d1cad77b7bad7516ad3f40b53854b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244836.jpg?k=33db493f789c1c264795291e8af03a43acc41686c797437ce90cd3219d07134b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244788.jpg?k=4eb4ef6c610dd03500f88fb65de7f06fec2f704974d8896491c74812d9edf2b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309261891.jpg?k=9b6c5f4558ba110fa252b4d9bc680a3008cecac2581cbb8cdf82bec47d716560&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308244930.jpg?k=ff9d9e19ae925174fa742e3556093e42da3ed89acce30f2f4b688581414a4109&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426353959.jpg?k=68ab081ada51ba72bf2600f9b894a25667482bd20ac1b2fd2ec7965c2d1634ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426353787.jpg?k=b26d04d4e06ba8144839706d630803ae503a44c093173f8d77a249629ec4727e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426353640.jpg?k=e4f0a106bcd738cfdc3d19777585acb8398087004cebf8001be392ecf3096c5d&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Mixed Dormitory Room"
+  - "Double Room with Balcony"
+  - "Family Room with Balcony"
+nearbyRestaurants:
+  - "Restorant Fish Art 20 m"
+  - "Meridian Restorant 30 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.6 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+  - "Tivat Airport 74 km"
+reviews:
+  - name: "Slava"
+    country: "Germany"
+    text: "“Is INSIDE of shkodra in the middel of piaca
 The place is fantastic
-I really Like it”"\n  - name: "Luca"\n    country: "Italy"\n    text: "“The staff Is Amazing and the rooms were clean and immaculate. Thanks!!!”"\n  - name: "Luca"\n    country: "Italy"\n    text: "“I stayed here for two separate nights. It's an amazing place with lovely staff and comfy bad. 10/10!!!”"\nbookingURL: "https://www.booking.com/hotel/al/hostel-central-shkoder-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThis property stands out for its strategic location, a mere 48 km from the Port of Bar, making it an ideal base for explorers eager to experience the local culture and attractions. 
+I really Like it”"
+  - name: "Luca"
+    country: "Italy"
+    text: "“The staff Is Amazing and the rooms were clean and immaculate. Thanks!!!”"
+  - name: "Luca"
+    country: "Italy"
+    text: "“I stayed here for two separate nights. It's an amazing place with lovely staff and comfy bad. 10/10!!!”"
+bookingURL: "https://www.booking.com/hotel/al/hostel-central-shkoder-shkoder.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+This property stands out for its strategic location, a mere 48 km from the Port of Bar, making it an ideal base for explorers eager to experience the local culture and attractions. 
 
 Guests at Hostel Central Shkoder enjoy complimentary Wi-Fi throughout the premises, ensuring that staying connected with the outside world or planning the next day's adventures is hassle-free. 
 

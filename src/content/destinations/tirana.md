@@ -5,7 +5,6 @@ region: Central Albania
 featuredImage: /images/destinations/AdobeStock_287498228.jpeg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

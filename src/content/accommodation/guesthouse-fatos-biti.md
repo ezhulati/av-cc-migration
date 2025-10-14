@@ -1,4 +1,76 @@
----\ntitle: "Guesthouse Fatos Biti"\ndescription: "Guesthouse Fatos Biti emerges as a serene retreat for travelers seeking a blend of comfort and adventure, located approximately 43 km from the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69990845.jpg?k=ebbe1f96bd5a51b0cc66bb7074003b780d849bcd8934b38eb36140c80bef6e7d&o=&hp=1"\nlanguage: en\nslug: guesthouse-fatos-biti\naddress: "2 Divjake, Lushnje, 9022 Divjakë, Albania"\ncity: "Divjakë"\nlocation: "Divjakë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.0009286\n  lng: 19.52496797\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 78\nratings:\n  overall: 9.1\n  location: 8.6\n  cleanliness: 8.9\n  facilities: 8.8\n  value: 9.2\n  comfort: 8.9\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69990845.jpg?k=ebbe1f96bd5a51b0cc66bb7074003b780d849bcd8934b38eb36140c80bef6e7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376930534.jpg?k=c7167cd5dda7ef1784b33e2a882cc7accf8f3b753ad62f0170d231ce824e91bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152926429.jpg?k=0d71d150b70c0379ecd079a9a0cd20afda14191dddecd0d07f14c98c38130df5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194361389.jpg?k=7869eb8f19a397f59d30fbc8ed0f32cebd89280a82e4aa98175cfb087ffc722b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366518493.jpg?k=ee5a766559c7403476ac514d44141c7f505404115904e188b9d0d56364e1d824&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/48428362.jpg?k=a3f276310ecb193861d8ecf642093c9ef6526df7faecb30816a64a633611b966&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Apartment with Balcony"\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Shkoza 550 m"\n  - "Llazi 700 m"\nnearbyBeaches:\n  - "Spille Beach 9 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 0 m"\n  - "Sheshi I Bashkise 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 47 km"\nreviews:\n  - name: "Σ"\n    country: "Greece"\n    text: "“It was a spacious apartment with a beatiful view and a homely vibe . Very friendly owners. I could easily stay longer.”"\n  - name: "Miez"\n    country: "Netherlands"\n    text: "“This is a very big apartment with views all around over the farmlands. You are right in the middle of Albanian life. One of the young sons will guide you through the appartment. It is an ideal place for a longer stay. The village has a...”"\n  - name: "Jo"\n    country: "Australia"\n    text: "“This is such a cute apartment set in a beautiful garden and is part of the hosts home so it really feels homey. The hosts were really welcoming and both the sons spoke great English and were able to give us all the info we needed. A cute house dog...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-fatos-biti.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Guesthouse Fatos Biti are thoughtfully equipped with modern amenities to ensure a comfortable stay. Each unit boasts air conditioning for those warm summer days, a flat-screen TV with satellite channels for entertainment, and a fridge and kettle for in-room refreshments. The inclusion of a bidet and bathrobes adds a touch of luxury to the private bathrooms, while a wardrobe provides ample storage. Select rooms elevate the experience further with a fully equipped kitchen, including an oven and kitchenware, perfect for those who prefer to prepare their own meals.
+---
+title: "Guesthouse Fatos Biti"
+description: "Guesthouse Fatos Biti emerges as a serene retreat for travelers seeking a blend of comfort and adventure, located approximately 43 km from the iconic Rock of Kavaje."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69990845.jpg?k=ebbe1f96bd5a51b0cc66bb7074003b780d849bcd8934b38eb36140c80bef6e7d&o=&hp=1"
+language: en
+slug: guesthouse-fatos-biti
+address: "2 Divjake, Lushnje, 9022 Divjakë, Albania"
+city: "Divjakë"
+location: "Divjakë"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.0009286
+  lng: 19.52496797
+price: "US$19"
+priceFrom: 19
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 78
+ratings:
+  overall: 9.1
+  location: 8.6
+  cleanliness: 8.9
+  facilities: 8.8
+  value: 9.2
+  comfort: 8.9
+  staff: 9.3
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69990845.jpg?k=ebbe1f96bd5a51b0cc66bb7074003b780d849bcd8934b38eb36140c80bef6e7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376930534.jpg?k=c7167cd5dda7ef1784b33e2a882cc7accf8f3b753ad62f0170d231ce824e91bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152926429.jpg?k=0d71d150b70c0379ecd079a9a0cd20afda14191dddecd0d07f14c98c38130df5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194361389.jpg?k=7869eb8f19a397f59d30fbc8ed0f32cebd89280a82e4aa98175cfb087ffc722b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366518493.jpg?k=ee5a766559c7403476ac514d44141c7f505404115904e188b9d0d56364e1d824&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/48428362.jpg?k=a3f276310ecb193861d8ecf642093c9ef6526df7faecb30816a64a633611b966&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Superb breakfast"
+roomTypes:
+  - "Budget Double Room"
+  - "Apartment with Balcony"
+  - "Apartment with Balcony"
+nearbyRestaurants:
+  - "Shkoza 550 m"
+  - "Llazi 700 m"
+nearbyBeaches:
+  - "Spille Beach 9 km"
+whatsNearby:
+  - "Divjake-Karavasta National Park 0 m"
+  - "Sheshi I Bashkise 17 km"
+airports:
+  - "Tirana International Airport Mother Teresa 47 km"
+reviews:
+  - name: "Σ"
+    country: "Greece"
+    text: "“It was a spacious apartment with a beatiful view and a homely vibe . Very friendly owners. I could easily stay longer.”"
+  - name: "Miez"
+    country: "Netherlands"
+    text: "“This is a very big apartment with views all around over the farmlands. You are right in the middle of Albanian life. One of the young sons will guide you through the appartment. It is an ideal place for a longer stay. The village has a...”"
+  - name: "Jo"
+    country: "Australia"
+    text: "“This is such a cute apartment set in a beautiful garden and is part of the hosts home so it really feels homey. The hosts were really welcoming and both the sons spoke great English and were able to give us all the info we needed. A cute house dog...”"
+bookingURL: "https://www.booking.com/hotel/al/guest-house-fatos-biti.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Guesthouse Fatos Biti are thoughtfully equipped with modern amenities to ensure a comfortable stay. Each unit boasts air conditioning for those warm summer days, a flat-screen TV with satellite channels for entertainment, and a fridge and kettle for in-room refreshments. The inclusion of a bidet and bathrobes adds a touch of luxury to the private bathrooms, while a wardrobe provides ample storage. Select rooms elevate the experience further with a fully equipped kitchen, including an oven and kitchenware, perfect for those who prefer to prepare their own meals.
 
 Dining al fresco is a delightful experience here, with an outdoor dining area inviting guests to savor their meals amidst the guest house's verdant surroundings. For explorers eager to venture beyond, Guesthouse Fatos Biti thoughtfully offers packed lunches, ensuring that guests have the sustenance needed for their excursions.
 

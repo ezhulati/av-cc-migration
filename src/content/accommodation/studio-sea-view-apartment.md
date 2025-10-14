@@ -1,4 +1,68 @@
----\ntitle: "Studio sea view apartment"\ndescription: "Studio Sea View Apartment in Durrës emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its strategic location just 38 km from the historic Skanderbeg Square and a mere stone's throw from the serene Durres Beach, merely 100 meters away."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521056.jpg?k=e65df201bb530106889886acf8bca619689c6fa00e122810e0c104293c375f96&o=&hp=1"\nlanguage: en\nslug: studio-sea-view-apartment\naddress: "Rruga Pavaresia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31236556\n  lng: 19.47878027\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521056.jpg?k=e65df201bb530106889886acf8bca619689c6fa00e122810e0c104293c375f96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521154.jpg?k=dc826d14e7209801a9317a237a055abe2f2be99ff4afd51b394c00f0936fc39a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521124.jpg?k=cf971b832f9ae677621920846b4dbd202023e7fa27c162f5b0dcd081482ef8d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521185.jpg?k=9997c9fe1100b0d67285c4ea7b593fd1c0e85f05a94da308a443c463d6760b0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521087.jpg?k=e0501f4343e719c2597e5aa2d2c8150391affc20051200d276b1c11d92a792ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521063.jpg?k=500b3831a73c5c3884a65d24f8d92661a18e8f7648962ab7af081ccb4ba5dfcf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521143.jpg?k=5a42b8ce726df4a37de2a0ed25c7527a47a24577f41658f211ada67e55fc5921&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521017.jpg?k=3431bbe8babb5f8d8f33a359fca10264d806dcb2d41d803569dfd45c7229da39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482520918.jpg?k=09c1f80a8e7f1d6efe5ba9bb73d374d4a34081270a9324d9eb65a0cc25bcc471&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Hotel Ristorante Koral 50 m"\n  - "Restorant Vushtrria 150 m"\nnearbyBeaches:\n  - "Durres Beach 20 m"\n  - "Currila Beach 2.7 km"\n  - "Shkëmbi i Kavajës Beach 3.9 km"\n  - "Kallmi Beach 3.9 km"\n  - "West End Beach 4.9 km"\nwhatsNearby:\n  - "Bekimi 1.8 km"\n  - "Wine Dhe Pooh 2.5 km"\n  - "Sheshi Demokracia 2.6 km"\n  - "Yje Dhe Hena 2.7 km"\n  - "Durres Amphiteatre 2.8 km"\n  - "Sotir Noka 2.9 km"\n  - "1. Maj 3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/50-shades-of-grey-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to thoughtful design and functionality, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom that caters to the essentials with ease. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have the option to unwind within the comfort of their temporary home. Moreover, the commitment to a non-smoking environment underscores a dedication to providing a clean and healthy living space.
+---
+title: "Studio sea view apartment"
+description: "Studio Sea View Apartment in Durrës emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its strategic location just 38 km from the historic Skanderbeg Square and a mere stone's throw from the serene Durres Beach, merely 100 meters away."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521056.jpg?k=e65df201bb530106889886acf8bca619689c6fa00e122810e0c104293c375f96&o=&hp=1"
+language: en
+slug: studio-sea-view-apartment
+address: "Rruga Pavaresia, Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31236556
+  lng: 19.47878027
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521056.jpg?k=e65df201bb530106889886acf8bca619689c6fa00e122810e0c104293c375f96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521154.jpg?k=dc826d14e7209801a9317a237a055abe2f2be99ff4afd51b394c00f0936fc39a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521124.jpg?k=cf971b832f9ae677621920846b4dbd202023e7fa27c162f5b0dcd081482ef8d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521185.jpg?k=9997c9fe1100b0d67285c4ea7b593fd1c0e85f05a94da308a443c463d6760b0b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521087.jpg?k=e0501f4343e719c2597e5aa2d2c8150391affc20051200d276b1c11d92a792ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521063.jpg?k=500b3831a73c5c3884a65d24f8d92661a18e8f7648962ab7af081ccb4ba5dfcf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521143.jpg?k=5a42b8ce726df4a37de2a0ed25c7527a47a24577f41658f211ada67e55fc5921&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521017.jpg?k=3431bbe8babb5f8d8f33a359fca10264d806dcb2d41d803569dfd45c7229da39&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482520918.jpg?k=09c1f80a8e7f1d6efe5ba9bb73d374d4a34081270a9324d9eb65a0cc25bcc471&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Hotel Ristorante Koral 50 m"
+  - "Restorant Vushtrria 150 m"
+nearbyBeaches:
+  - "Durres Beach 20 m"
+  - "Currila Beach 2.7 km"
+  - "Shkëmbi i Kavajës Beach 3.9 km"
+  - "Kallmi Beach 3.9 km"
+  - "West End Beach 4.9 km"
+whatsNearby:
+  - "Bekimi 1.8 km"
+  - "Wine Dhe Pooh 2.5 km"
+  - "Sheshi Demokracia 2.6 km"
+  - "Yje Dhe Hena 2.7 km"
+  - "Durres Amphiteatre 2.8 km"
+  - "Sotir Noka 2.9 km"
+  - "1. Maj 3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+bookingURL: "https://www.booking.com/hotel/al/50-shades-of-grey-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a testament to thoughtful design and functionality, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom that caters to the essentials with ease. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have the option to unwind within the comfort of their temporary home. Moreover, the commitment to a non-smoking environment underscores a dedication to providing a clean and healthy living space.
 
 Connectivity is never an issue, as free WiFi blankets the property, allowing guests to stay in touch with loved ones or manage work commitments seamlessly. For those looking to explore beyond the immediate surroundings, the Studio Sea View Apartment serves as an excellent base, with the House of Leaves and Rinia Park both located approximately 37 km away, inviting guests to delve into the cultural heartbeat of the area.
 

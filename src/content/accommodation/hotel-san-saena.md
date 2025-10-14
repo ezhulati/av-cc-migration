@@ -1,5 +1,90 @@
----\ntitle: "Hotel \"SAN SAENA \""\ndescription: "Hotel SAN SAENA stands as a beacon of comfort and convenience in the vibrant city of Vlorë, merely a stone's throw away from the pristine Radhimë Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794989.jpg?k=8a87f38a2c8f3460d76e296ef796ba04a45ab1c807e9f37531fe1d6fc19741bf&o=&hp=1"\nlanguage: en\nslug: hotel-san-saena\naddress: "Rruga Numan Bilani 10, 9426 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.36587111\n  lng: 19.48326421\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 591\nratings:\n  overall: 8.9\n  location: 8.8\n  cleanliness: 9\n  facilities: 8.6\n  value: 8.8\n  comfort: 8.9\n  staff: 9.4\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794989.jpg?k=8a87f38a2c8f3460d76e296ef796ba04a45ab1c807e9f37531fe1d6fc19741bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383461453.jpg?k=723c6790c0d7578a2e1e29bf8766fb8f9f7e7cf1a1e3041e5cd9587fef72952a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794984.jpg?k=0a3057cd2be63700b579cac65002676b99d560798e973096f3cc7d2a9051eafa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263334519.jpg?k=0223493d9c029f8ab1d50ab12a8522417c6271533dc5021ff43337c6140e09ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207795047.jpg?k=2cc53882338569ec74784d53c7233a5a30cba1eb33cafe45dd095d7bf9a03e18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154492424.jpg?k=f7c34e24deb94ff0a6ed686e8c93e6c6a4da8d60cc1f599c903b0b18165166a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794992.jpg?k=52e95fd269bde089b7245a25fc2e17bdc66056573669e018bc0ecb99d2a55a3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263334510.jpg?k=5a8ffb5ff1ab766fbfce02611c4e920ba8f6b1e6d25186608f8ff92ed4e2d908&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794969.jpg?k=8ac438977f2cc18787d88bc57a71987671e839f4628a3337b4884864825cec9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207795060.jpg?k=69b66020542ffb61660336bde28569a1fb18828e13cab21267c0d97db76c1311&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263334517.jpg?k=ff336bbabae44f62355b7906cf6565b3e641e8a9bd797e5ce53481679af8fd60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154492435.jpg?k=9f407ed494fca218c1abd882ba4a58cd5e4b0d1847cbe4c870cae8acb2ae2d3a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Good breakfast"\nnearbyRestaurants:\n  - "Restorant Piceri Veliera 200 m"\n  - "Hallau 200 m"\nnearbyBeaches:\n  - "Radhimë Beach 150 m"\n  - "Kevi Beach 1 km"\n  - "Radhimë Beach 1.4 km"\n  - "Al Breeze Beach 1.9 km"\n  - "Pitushi's Beach 2.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 8 km"\n  - "Kuzum Baba 11 km"\n  - "Independence Square 12 km"\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 91 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Angela"\n    country: "United Kingdom"\n    text: "“The view is outstanding , the food home cooked , fresh , and good portion sizes , the beds were very comfortable, the staff were amazing so helpful friendly we felt it waS like a home away from home .
-Thank you so much”"\n  - name: "Angela"\n    country: "United Kingdom"\n    text: "“Staff were so accommodating, the view was 5 star , the food fresh home cooked and delicious. My daughter and I felt every one of our needs was catered for . The beds were exceptionally comfortable. Thank you”"\n  - name: "Jaydam"\n    country: "United Kingdom"\n    text: "“Beautiful hotel with a great view and pool. We didn’t like the area at all, so the hotel was a nice place to escape.”"\nbookingURL: "https://www.booking.com/hotel/al/quot-san-saena-quot.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe attention to detail in the guest accommodations is evident, as each room is outfitted with a flat-screen TV featuring a variety of cable channels, ensuring entertainment is always at hand. For those seeking a view, Hotel SAN SAENA does not disappoint, offering select rooms that gaze out upon the sea, complete with balconies for a closer look at the horizon. Comfort is further enhanced with thoughtful inclusions of bed linen and towels, ensuring a stay that is as relaxing as it is memorable.
+---
+title: "Hotel \"SAN SAENA \""
+description: "Hotel SAN SAENA stands as a beacon of comfort and convenience in the vibrant city of Vlorë, merely a stone's throw away from the pristine Radhimë Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794989.jpg?k=8a87f38a2c8f3460d76e296ef796ba04a45ab1c807e9f37531fe1d6fc19741bf&o=&hp=1"
+language: en
+slug: hotel-san-saena
+address: "Rruga Numan Bilani 10, 9426 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.36587111
+  lng: 19.48326421
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 591
+ratings:
+  overall: 8.9
+  location: 8.8
+  cleanliness: 9
+  facilities: 8.6
+  value: 8.8
+  comfort: 8.9
+  staff: 9.4
+  wifi: 9.1
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794989.jpg?k=8a87f38a2c8f3460d76e296ef796ba04a45ab1c807e9f37531fe1d6fc19741bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383461453.jpg?k=723c6790c0d7578a2e1e29bf8766fb8f9f7e7cf1a1e3041e5cd9587fef72952a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794984.jpg?k=0a3057cd2be63700b579cac65002676b99d560798e973096f3cc7d2a9051eafa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263334519.jpg?k=0223493d9c029f8ab1d50ab12a8522417c6271533dc5021ff43337c6140e09ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207795047.jpg?k=2cc53882338569ec74784d53c7233a5a30cba1eb33cafe45dd095d7bf9a03e18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154492424.jpg?k=f7c34e24deb94ff0a6ed686e8c93e6c6a4da8d60cc1f599c903b0b18165166a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794992.jpg?k=52e95fd269bde089b7245a25fc2e17bdc66056573669e018bc0ecb99d2a55a3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263334510.jpg?k=5a8ffb5ff1ab766fbfce02611c4e920ba8f6b1e6d25186608f8ff92ed4e2d908&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794969.jpg?k=8ac438977f2cc18787d88bc57a71987671e839f4628a3337b4884864825cec9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207795060.jpg?k=69b66020542ffb61660336bde28569a1fb18828e13cab21267c0d97db76c1311&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263334517.jpg?k=ff336bbabae44f62355b7906cf6565b3e641e8a9bd797e5ce53481679af8fd60&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154492435.jpg?k=9f407ed494fca218c1abd882ba4a58cd5e4b0d1847cbe4c870cae8acb2ae2d3a&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Good breakfast"
+nearbyRestaurants:
+  - "Restorant Piceri Veliera 200 m"
+  - "Hallau 200 m"
+nearbyBeaches:
+  - "Radhimë Beach 150 m"
+  - "Kevi Beach 1 km"
+  - "Radhimë Beach 1.4 km"
+  - "Al Breeze Beach 1.9 km"
+  - "Pitushi's Beach 2.3 km"
+whatsNearby:
+  - "Scooby Doo Vlore 8 km"
+  - "Kuzum Baba 11 km"
+  - "Independence Square 12 km"
+  - "Llogora National Park 16 km"
+airports:
+  - "Corfu International Airport 91 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Angela"
+    country: "United Kingdom"
+    text: "“The view is outstanding , the food home cooked , fresh , and good portion sizes , the beds were very comfortable, the staff were amazing so helpful friendly we felt it waS like a home away from home .
+Thank you so much”"
+  - name: "Angela"
+    country: "United Kingdom"
+    text: "“Staff were so accommodating, the view was 5 star , the food fresh home cooked and delicious. My daughter and I felt every one of our needs was catered for . The beds were exceptionally comfortable. Thank you”"
+  - name: "Jaydam"
+    country: "United Kingdom"
+    text: "“Beautiful hotel with a great view and pool. We didn’t like the area at all, so the hotel was a nice place to escape.”"
+bookingURL: "https://www.booking.com/hotel/al/quot-san-saena-quot.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The attention to detail in the guest accommodations is evident, as each room is outfitted with a flat-screen TV featuring a variety of cable channels, ensuring entertainment is always at hand. For those seeking a view, Hotel SAN SAENA does not disappoint, offering select rooms that gaze out upon the sea, complete with balconies for a closer look at the horizon. Comfort is further enhanced with thoughtful inclusions of bed linen and towels, ensuring a stay that is as relaxing as it is memorable.
 
 Located conveniently, the hotel is a brief journey away from the local landmarks, with Kuzum Baba and Independence Square being 13 km and 14 km away, respectively. For guests arriving from afar, Tirana International Mother Teresa Airport is 163 km from the hotel, with a paid airport shuttle service available to ease the transition from travel to tranquility.
 

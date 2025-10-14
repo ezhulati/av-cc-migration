@@ -1,4 +1,77 @@
----\ntitle: "Lili's Apartament Tirana"\ndescription: "Lili's Apartment Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301363.jpg?k=08d016ceb91948affd392b403cb829929b32cc4c224414e9808db1326b33321e&o=&hp=1"\nlanguage: en\nslug: lili-s-apartament-tirana\naddress: "Rruga e Kosovarëve, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31499281\n  lng: 19.81304568\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301363.jpg?k=08d016ceb91948affd392b403cb829929b32cc4c224414e9808db1326b33321e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409300024.jpg?k=fc62b115f8ee13faa54837cb76bb928ac1c68521a94ecf0d831a34cfa2829d65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301066.jpg?k=c1c0cbc985068236ad5381aebca44255da345196ac2cde6a78e7359dd54be0d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301016.jpg?k=8ada6e28c79506a3dbde0c0065c9660a0789dd18043687b4f70b34c98497d4d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409300397.jpg?k=7582409c3813803f1069a4ba151f64754d7ba9506c408a5aa51980f04124f872&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301412.jpg?k=95d92a47088d006104c245494f4e97113d1c0a8518779a794a1685eef15fb76e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409300367.jpg?k=934b87407ec62a7282b08fbcdb07e7551e687c35f2b6b47b347a0dfc34f0cc2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301199.jpg?k=09608b9e071d6ac850f2fc07923767144435e740a54d43e56906ec90392324be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301259.jpg?k=203de30f269d0e30de5d73c7f3db308f0b51d308bbfcd336bab9efc2882384c7&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.3 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Skanderbeg Square 1.5 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Fraterie 50 m"\n  - "Confusion 100 m"\nwhatsNearby:\n  - "Parku I Madh I Tiranës (Grand Park) 250 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 400 m"\n  - "Sheshi Rekreativ Komuna e Parisit 550 m"\n  - "Shesh Rekreativ 750 m"\n  - "Former Residence of Enver Hoxha 750 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 800 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1.1 km"\n  - "Grand Park of Tirana 1.1 km"\n  - "Rinia Park 1.2 km"\n  - "Sheshi Rekreativ Piramida 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/lilis-apartament-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment doesn't skimp on amenities, providing guests with complimentary WiFi, a flat-screen TV for entertainment, a washing machine for convenience, and a fully equipped kitchen that includes a toaster for those morning delights. 
+---
+title: "Lili's Apartament Tirana"
+description: "Lili's Apartment Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301363.jpg?k=08d016ceb91948affd392b403cb829929b32cc4c224414e9808db1326b33321e&o=&hp=1"
+language: en
+slug: lili-s-apartament-tirana
+address: "Rruga e Kosovarëve, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31499281
+  lng: 19.81304568
+price: "US$47"
+priceFrom: 47
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301363.jpg?k=08d016ceb91948affd392b403cb829929b32cc4c224414e9808db1326b33321e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409300024.jpg?k=fc62b115f8ee13faa54837cb76bb928ac1c68521a94ecf0d831a34cfa2829d65&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301066.jpg?k=c1c0cbc985068236ad5381aebca44255da345196ac2cde6a78e7359dd54be0d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301016.jpg?k=8ada6e28c79506a3dbde0c0065c9660a0789dd18043687b4f70b34c98497d4d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409300397.jpg?k=7582409c3813803f1069a4ba151f64754d7ba9506c408a5aa51980f04124f872&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301412.jpg?k=95d92a47088d006104c245494f4e97113d1c0a8518779a794a1685eef15fb76e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409300367.jpg?k=934b87407ec62a7282b08fbcdb07e7551e687c35f2b6b47b347a0dfc34f0cc2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301199.jpg?k=09608b9e071d6ac850f2fc07923767144435e740a54d43e56906ec90392324be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301259.jpg?k=203de30f269d0e30de5d73c7f3db308f0b51d308bbfcd336bab9efc2882384c7&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.3 km"
+  - "National Gallery of Arts Tirana 1.4 km"
+  - "Skanderbeg Square 1.5 km"
+  - "Clock Tower Tirana 1.5 km"
+  - "National Museum of History Albania 1.6 km"
+  - "Tanners' Bridge 1.7 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Fraterie 50 m"
+  - "Confusion 100 m"
+whatsNearby:
+  - "Parku I Madh I Tiranës (Grand Park) 250 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 400 m"
+  - "Sheshi Rekreativ Komuna e Parisit 550 m"
+  - "Shesh Rekreativ 750 m"
+  - "Former Residence of Enver Hoxha 750 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 800 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 1.1 km"
+  - "Grand Park of Tirana 1.1 km"
+  - "Rinia Park 1.2 km"
+  - "Sheshi Rekreativ Piramida 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/lilis-apartament-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment doesn't skimp on amenities, providing guests with complimentary WiFi, a flat-screen TV for entertainment, a washing machine for convenience, and a fully equipped kitchen that includes a toaster for those morning delights. 
 
 Strategically located, Lili's Apartment ensures that guests are never too far from exploring Tirana's rich history and culture. The Former Residence of Enver Hoxha, Grand Park of Tirana, and the evocative Postbllok - Checkpoint Monument are all within easy reach. For those traveling by air, the Tirana International Mother Teresa Airport is conveniently located 16 kilometers away, making arrivals and departures as smooth as possible.
 

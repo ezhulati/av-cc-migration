@@ -1,4 +1,78 @@
----\ntitle: "Communist style room"\ndescription: "Communist Style Room, situated in the vibrant city of Shkodër, offers a unique lodging experience that stands out for its distinctive theme and convenient amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250198.jpg?k=e9fea41546cd50cf97f25311c7245b7a79ef34b30a1adc64142ca862da56beb5&o=&hp=1"\nlanguage: en\nslug: communist-style-room\naddress: "Bulevardi Mehmet Pashë Plaku, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.05926371\n  lng: 19.50632124\nprice: "US$24"\npriceFrom: 24\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 34\nratings:\n  overall: 8.9\n  location: 9.1\n  cleanliness: 8.8\n  facilities: 7.9\n  value: 9.3\n  comfort: 8.5\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250198.jpg?k=e9fea41546cd50cf97f25311c7245b7a79ef34b30a1adc64142ca862da56beb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467580411.jpg?k=dda2cadc04a72c8f5190647eb9b9c0bc63866ab8f30967ca494b5b6a209dc718&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462136681.jpg?k=c95f6131a1d3b1b63a00735b8f6a449b63df72ed924fcefea72f0eec60a243a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459616486.jpg?k=08621e9dbf1cf80354cd0bf4965c9c478bf381823c602b6152802563647bbc7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250247.jpg?k=a1c54a3e16988f413837b1a57158ebea188a9578c3ad172f54b46cda24ec34d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467580438.jpg?k=3f61ead89b2c7a049a592f5702cac93b65408920eb3a661ab000b345347c24ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467580050.jpg?k=40ca587b52595b93b39bd5600c9a9cad5254f5aa70d0d998fca86aea8f40d70a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250291.jpg?k=d57a0244dcd4737792184a138043f95eee2ba364029327b7b628ecdb63718a1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529311990.jpg?k=e113b28c98a64cd03f1a6a249105bf66fff0bc9f0e42f61c5c56b32db587da6a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Budget Double Room"\nnearbyRestaurants:\n  - "BORISI 150 m"\n  - "eurolive 200 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1.8 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Mastercard"\n  - "American Express"\nreviews:\n  - name: "Julia"\n    country: "Australia"\n    text: "“Great communication from host. We got clear instructions to the apartment and Diana even organised our transport to Theth. Clean apartment with washing machine”"\n  - name: "Cara"\n    country: "Ireland"\n    text: "“We had a great stay in Shkoder. Our host was extremely responsive and very kindly let us leave our bags in the apartment while we did the Peaks of the Balkans. We highly recommend staying here!”"\n  - name: "Daniel"\n    country: "Albania"\n    text: "“The hosts responded quickly to messages. They are friendly and helpful in connecting and getting checked in. It's within walking distance to many things in the city. The bathroom is modern, even though the rest of the apartment is probably as it...”"\nbookingURL: "https://www.booking.com/hotel/al/communist-style-room.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nPrivacy is a priority at Communist Style Room, with each accommodation boasting a private entrance, allowing guests the freedom and tranquility they seek during their stay. Additionally, the property maintains a strict non-smoking policy, ensuring a clean and healthy environment for all visitors.
+---
+title: "Communist style room"
+description: "Communist Style Room, situated in the vibrant city of Shkodër, offers a unique lodging experience that stands out for its distinctive theme and convenient amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250198.jpg?k=e9fea41546cd50cf97f25311c7245b7a79ef34b30a1adc64142ca862da56beb5&o=&hp=1"
+language: en
+slug: communist-style-room
+address: "Bulevardi Mehmet Pashë Plaku, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 42.05926371
+  lng: 19.50632124
+price: "US$24"
+priceFrom: 24
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 34
+ratings:
+  overall: 8.9
+  location: 9.1
+  cleanliness: 8.8
+  facilities: 7.9
+  value: 9.3
+  comfort: 8.5
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250198.jpg?k=e9fea41546cd50cf97f25311c7245b7a79ef34b30a1adc64142ca862da56beb5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467580411.jpg?k=dda2cadc04a72c8f5190647eb9b9c0bc63866ab8f30967ca494b5b6a209dc718&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462136681.jpg?k=c95f6131a1d3b1b63a00735b8f6a449b63df72ed924fcefea72f0eec60a243a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459616486.jpg?k=08621e9dbf1cf80354cd0bf4965c9c478bf381823c602b6152802563647bbc7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250247.jpg?k=a1c54a3e16988f413837b1a57158ebea188a9578c3ad172f54b46cda24ec34d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467580438.jpg?k=3f61ead89b2c7a049a592f5702cac93b65408920eb3a661ab000b345347c24ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467580050.jpg?k=40ca587b52595b93b39bd5600c9a9cad5254f5aa70d0d998fca86aea8f40d70a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250291.jpg?k=d57a0244dcd4737792184a138043f95eee2ba364029327b7b628ecdb63718a1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529311990.jpg?k=e113b28c98a64cd03f1a6a249105bf66fff0bc9f0e42f61c5c56b32db587da6a&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Budget Double Room"
+nearbyRestaurants:
+  - "BORISI 150 m"
+  - "eurolive 200 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 1.8 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 72 km"
+  - "Tivat Airport 74 km"
+paymentMethods:
+  - "Mastercard"
+  - "American Express"
+reviews:
+  - name: "Julia"
+    country: "Australia"
+    text: "“Great communication from host. We got clear instructions to the apartment and Diana even organised our transport to Theth. Clean apartment with washing machine”"
+  - name: "Cara"
+    country: "Ireland"
+    text: "“We had a great stay in Shkoder. Our host was extremely responsive and very kindly let us leave our bags in the apartment while we did the Peaks of the Balkans. We highly recommend staying here!”"
+  - name: "Daniel"
+    country: "Albania"
+    text: "“The hosts responded quickly to messages. They are friendly and helpful in connecting and getting checked in. It's within walking distance to many things in the city. The bathroom is modern, even though the rest of the apartment is probably as it...”"
+bookingURL: "https://www.booking.com/hotel/al/communist-style-room.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Privacy is a priority at Communist Style Room, with each accommodation boasting a private entrance, allowing guests the freedom and tranquility they seek during their stay. Additionally, the property maintains a strict non-smoking policy, ensuring a clean and healthy environment for all visitors.
 
 For those needing essentials or a quick snack, the guest house features an on-site minimarket, adding an extra layer of convenience to the guest experience. Furthermore, its proximity to Podgorica Airport, just 59 km away, makes it an excellent choice for travelers seeking a seamless connection to and from their destination.
 

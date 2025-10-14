@@ -1,4 +1,80 @@
----\ntitle: "Room Studio Deluxe"\ndescription: "Room Studio Deluxe emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320443.jpg?k=e725d6cb0238aa40a306bd1d18ddf55d92122042c3ebcc0a832c97767aa1c602&o=&hp=1"\nlanguage: en\nslug: room-studio-deluxe\naddress: "21 Rruga e Kavajës, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32466355\n  lng: 19.80529498\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320443.jpg?k=e725d6cb0238aa40a306bd1d18ddf55d92122042c3ebcc0a832c97767aa1c602&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518279635.jpg?k=1df28e81d965e20b4ef0d6bef759116a9722b0901a85e693484f319ce9962945&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320706.jpg?k=ac16d677e54d4726ca45fe30f05555567ce81ebcf1ce1b857828ecba91c56eb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517517736.jpg?k=c3fe3972547e1f498c59ff316c5f092c879f7a998049e4c76226ff3b74b3f1df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320644.jpg?k=e266d67d809f731842feb2015cdc22fd792aa918c6902f1d9d38e4008dcf5165&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320391.jpg?k=218562f1a1196ef9ecffa95133ea1f240782a9744672d9ef534e4fcc5471aaf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517517734.jpg?k=7b89c1b715605b5dd54035abcfe80b359e6915ea375665816fc1ea8ac973c4de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517518815.jpg?k=4bc7d5d94f6031b684a265800337193f4be03d44fb8c56f961fde02e63ea9bc7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320543.jpg?k=dbbd0670ee1939d39d1fc1f758dfd17c3bc8f4de2601b1184ba1c3a153f18bd9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Skanderbeg Square 1.2 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "PURTOFINO 100 m"\n  - "Fishinn 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 300 m"\n  - "Sheshi Rekreativ Sali Butka 500 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 500 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 750 m"\n  - "Sheshi Rekreativ Bajram Curri 800 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 800 m"\n  - "Sheshi Rekreativ Komuna e Parisit 900 m"\n  - "Sheshi Rekreativ Parku 1Km 950 m"\n  - "House of Leaves 950 m"\n  - "Sheshi Paris 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/room-studio-deluxe.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of modern amenities, boasting air conditioning for those warm Tirana days, a flat-screen TV for entertainment, and a dining area perfect for a cozy meal. The kitchen is fully equipped, featuring a microwave and a fridge, catering to all culinary needs. For added convenience, towels and bed linen are readily available, ensuring a comfortable stay. Emphasizing a clean and healthy environment, the accommodation strictly adheres to a non-smoking policy.
+---
+title: "Room Studio Deluxe"
+description: "Room Studio Deluxe emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320443.jpg?k=e725d6cb0238aa40a306bd1d18ddf55d92122042c3ebcc0a832c97767aa1c602&o=&hp=1"
+language: en
+slug: room-studio-deluxe
+address: "21 Rruga e Kavajës, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32466355
+  lng: 19.80529498
+price: "US$53"
+priceFrom: 53
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320443.jpg?k=e725d6cb0238aa40a306bd1d18ddf55d92122042c3ebcc0a832c97767aa1c602&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518279635.jpg?k=1df28e81d965e20b4ef0d6bef759116a9722b0901a85e693484f319ce9962945&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320706.jpg?k=ac16d677e54d4726ca45fe30f05555567ce81ebcf1ce1b857828ecba91c56eb7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517517736.jpg?k=c3fe3972547e1f498c59ff316c5f092c879f7a998049e4c76226ff3b74b3f1df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320644.jpg?k=e266d67d809f731842feb2015cdc22fd792aa918c6902f1d9d38e4008dcf5165&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320391.jpg?k=218562f1a1196ef9ecffa95133ea1f240782a9744672d9ef534e4fcc5471aaf1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517517734.jpg?k=7b89c1b715605b5dd54035abcfe80b359e6915ea375665816fc1ea8ac973c4de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517518815.jpg?k=4bc7d5d94f6031b684a265800337193f4be03d44fb8c56f961fde02e63ea9bc7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320543.jpg?k=dbbd0670ee1939d39d1fc1f758dfd17c3bc8f4de2601b1184ba1c3a153f18bd9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Rinia Park 1.1 km"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "National Museum of History Albania 1.1 km"
+  - "Skanderbeg Square 1.2 km"
+  - "Clock Tower Tirana 1.3 km"
+  - "National Gallery of Arts Tirana 1.3 km"
+  - "Tanners' Bridge 1.7 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "PURTOFINO 100 m"
+  - "Fishinn 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Shefqet Musaraj 300 m"
+  - "Sheshi Rekreativ Sali Butka 500 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 500 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 750 m"
+  - "Sheshi Rekreativ Bajram Curri 800 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 800 m"
+  - "Sheshi Rekreativ Komuna e Parisit 900 m"
+  - "Sheshi Rekreativ Parku 1Km 950 m"
+  - "House of Leaves 950 m"
+  - "Sheshi Paris 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/room-studio-deluxe.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of modern amenities, boasting air conditioning for those warm Tirana days, a flat-screen TV for entertainment, and a dining area perfect for a cozy meal. The kitchen is fully equipped, featuring a microwave and a fridge, catering to all culinary needs. For added convenience, towels and bed linen are readily available, ensuring a comfortable stay. Emphasizing a clean and healthy environment, the accommodation strictly adheres to a non-smoking policy.
 
 Beyond the confines of the apartment, guests are within easy reach of Tirana's vibrant heart. Reja - The Cloud, House of Leaves, and the National Museum of History Albania are all within a 2 km radius, offering a glimpse into the city's artistic and historical significance. Skanderbeg Square, a mere 1.6 km away, serves as a focal point for cultural exploration.
 

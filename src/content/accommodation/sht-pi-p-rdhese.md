@@ -1,4 +1,70 @@
----\ntitle: "Shtëpi përdhese"\ndescription: "Shtëpi përdhese emerges as a charming holiday home, strategically positioned just a short distance from the vibrant shores of Durres Beach and the serene Currila Beach in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501836585.jpg?k=8a377fc1470d0b39f10d2148176013ad92d04b84b1308eeeda24e5adbc1d0270&o=&hp=1"\nlanguage: en\nslug: sht-pi-p-rdhese\naddress: "41,3285132, 19,4434404, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.3245904\n  lng: 19.4564686\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501836585.jpg?k=8a377fc1470d0b39f10d2148176013ad92d04b84b1308eeeda24e5adbc1d0270&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836524.jpg?k=6c45da1cc7989f7199a9aa411e4ffeeddacee449786aa7765f3d696ec8cb1d51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836591.jpg?k=7b45086803a544915fc09eafd4d657144b58b6c0794deeab8744253cb92fdbc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836596.jpg?k=3e4677c0782a9b62a528490a7a5162a8f9fbdc10318b967aca59c0736f5222dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836601.jpg?k=9d54b0b865f584f4e442006b296674f0c27a06904235b2022f959ac511f18006&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836605.jpg?k=4f36afdc7cf1f406662da32b7791e22e2d0391860f05fc4d142bfec0ad94c865&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836610.jpg?k=82b4fc62c3a058816c03c1233862a955c21a83425013780ee50b6a1cf315cb97&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Blublu Beachbar 10 m"\n  - "Restorant Lika 250 m"\nnearbyBeaches:\n  - "Durres Beach 1.4 km"\n  - "Currila Beach 2 km"\n  - "Kallmi Beach 2.1 km"\n  - "West End Beach 2.9 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Sotir Noka 950 m"\n  - "Sheshi Demokracia 1,000 m"\n  - "Wine Dhe Pooh 1.2 km"\n  - "Yje Dhe Hena 1.2 km"\n  - "Durres Amphiteatre 1.7 km"\n  - "1. Maj 1.8 km"\n  - "Bekimi 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/shtepi-perdhese.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Shtëpi përdhese are treated to complimentary WiFi and on-site parking, adding to the ease of their visit. The property is a mere 10 km away from the intriguing Rock of Kavaje, while those interested in historical and political landmarks might appreciate the proximity to the Former Residence of Enver Hoxha, located 38 km from the holiday home.
+---
+title: "Shtëpi përdhese"
+description: "Shtëpi përdhese emerges as a charming holiday home, strategically positioned just a short distance from the vibrant shores of Durres Beach and the serene Currila Beach in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501836585.jpg?k=8a377fc1470d0b39f10d2148176013ad92d04b84b1308eeeda24e5adbc1d0270&o=&hp=1"
+language: en
+slug: sht-pi-p-rdhese
+address: "41,3285132, 19,4434404, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "villa"
+coordinates:
+  lat: 41.3245904
+  lng: 19.4564686
+price: "US$47"
+priceFrom: 47
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501836585.jpg?k=8a377fc1470d0b39f10d2148176013ad92d04b84b1308eeeda24e5adbc1d0270&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836524.jpg?k=6c45da1cc7989f7199a9aa411e4ffeeddacee449786aa7765f3d696ec8cb1d51&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836591.jpg?k=7b45086803a544915fc09eafd4d657144b58b6c0794deeab8744253cb92fdbc8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836596.jpg?k=3e4677c0782a9b62a528490a7a5162a8f9fbdc10318b967aca59c0736f5222dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836601.jpg?k=9d54b0b865f584f4e442006b296674f0c27a06904235b2022f959ac511f18006&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836605.jpg?k=4f36afdc7cf1f406662da32b7791e22e2d0391860f05fc4d142bfec0ad94c865&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/501836610.jpg?k=82b4fc62c3a058816c03c1233862a955c21a83425013780ee50b6a1cf315cb97&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Breakfast"
+roomTypes:
+  - "Two-Bedroom House"
+nearbyRestaurants:
+  - "Blublu Beachbar 10 m"
+  - "Restorant Lika 250 m"
+nearbyBeaches:
+  - "Durres Beach 1.4 km"
+  - "Currila Beach 2 km"
+  - "Kallmi Beach 2.1 km"
+  - "West End Beach 2.9 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "Sotir Noka 950 m"
+  - "Sheshi Demokracia 1,000 m"
+  - "Wine Dhe Pooh 1.2 km"
+  - "Yje Dhe Hena 1.2 km"
+  - "Durres Amphiteatre 1.7 km"
+  - "1. Maj 1.8 km"
+  - "Bekimi 1.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+bookingURL: "https://www.booking.com/hotel/al/shtepi-perdhese.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests at Shtëpi përdhese are treated to complimentary WiFi and on-site parking, adding to the ease of their visit. The property is a mere 10 km away from the intriguing Rock of Kavaje, while those interested in historical and political landmarks might appreciate the proximity to the Former Residence of Enver Hoxha, located 38 km from the holiday home.
 
 The holiday home boasts two well-appointed bedrooms, complemented by a terrace that invites guests to relax and unwind. The living room, equipped with a flat-screen TV, provides a cozy setting for evenings in.
 

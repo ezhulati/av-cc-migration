@@ -1,4 +1,84 @@
----\ntitle: "Kshira Oasis - Luxury 7-Bedroom Vila"\ndescription: "Kshira Oasis - Luxury 7-Bedroom Villa stands as a premier destination for travelers seeking an exclusive retreat just a stone's throw away from Qeparo Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031751.jpg?k=4b122ac43525e0545bf648a025c353fc722e14d2ea66fdff20001ad5e5eddd98&o=&hp=1"\nlanguage: en\nslug: kshira-oasis-luxury-7-bedroom-vila\naddress: "Himare / QEPARO PROTOPAPE VL 0708, 1001 Qeparo, Albania"\ncity: "Qeparo"\nlocation: "Qeparo"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.05244057\n  lng: 19.83254135\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 36\nratings:\n  overall: 8.6\n  location: 9.2\n  cleanliness: 8.5\n  facilities: 8.8\n  value: 7.9\n  comfort: 8.6\n  staff: 9\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031751.jpg?k=4b122ac43525e0545bf648a025c353fc722e14d2ea66fdff20001ad5e5eddd98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031611.jpg?k=d89babbca81ee46907ef6c4b73149715a77398f6bcbbe71e86c0da20f89e68bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031226.jpg?k=0171a9d177e81b12b4019db5cd274237fe7965105f21d2b545a24a69a0575d38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456030916.jpg?k=a17c6209082c02c8c76f7b60a2b293fc912323fe1b79d86173af4f7311733689&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456016651.jpg?k=7f0bd9d217a05d5f41b93eefd68b6364cf59e856715ec59a7a0d6eb1c20ad4c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031753.jpg?k=9300de887e633291f6a649b4323104d463e749d7552483769b826ff781cbeef1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031505.jpg?k=6a1988bf4e145d47aad53a9afb007d45f0911024eeb398d604a2333c88acfbee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456030157.jpg?k=b490584ac380b442434cb4be8e8de1e3ea5f7169ae4853d39929a29e5c58b98f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456030766.jpg?k=36b9a85e894d847e0f4d25a260db7bf31cf567c124ae4eef8d5e8431c6984aca&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Odhisea 40 m"\n  - "Sundeck Bar-Coffee 250 m"\nnearbyBeaches:\n  - "Qeparo Beach 150 m"\n  - "Borsh Beach 350 m"\n  - "Porto Palermo Beach 3 2.5 km"\n  - "Porto Palermo Beach 2.5 km"\n  - "Palermo Beach 3.5 km"\nairports:\n  - "Corfu International Airport 49 km"\n  - "Ioannina Airport 92 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Malene"\n    country: "Denmark"\n    text: "“The room and view was absolutely amazing. It is a beautiful hotel. We had such a nice and relaxing experience. The staff made the stay so much more memorable, they went above and beyond to give us a comfortable stay. It exceeded all of our...”"\n  - name: "Toni"\n    country: "Albania"\n    text: "“The room was really nice with an amazing view like everything there ! A special treatment for the clients at the restaurant, by the pool and at the private beach!”"\n  - name: "Ana"\n    country: "France"\n    text: "“Beautiful villa, thoughtfully decorated rooms, comfortable bed. Ana”"\nbookingURL: "https://www.booking.com/hotel/al/la-boheme-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe villa boasts a stunning rooftop pool complemented by a pool bar, where guests can unwind with a drink in hand, soaking in the panoramic sea views. For those looking to relax further, a sauna is available, alongside the convenience of a 24-hour front desk to meet guests' needs at any hour.
+---
+title: "Kshira Oasis - Luxury 7-Bedroom Vila"
+description: "Kshira Oasis - Luxury 7-Bedroom Villa stands as a premier destination for travelers seeking an exclusive retreat just a stone's throw away from Qeparo Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031751.jpg?k=4b122ac43525e0545bf648a025c353fc722e14d2ea66fdff20001ad5e5eddd98&o=&hp=1"
+language: en
+slug: kshira-oasis-luxury-7-bedroom-vila
+address: "Himare / QEPARO PROTOPAPE VL 0708, 1001 Qeparo, Albania"
+city: "Qeparo"
+location: "Qeparo"
+accommodationType: "villa"
+coordinates:
+  lat: 40.05244057
+  lng: 19.83254135
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 36
+ratings:
+  overall: 8.6
+  location: 9.2
+  cleanliness: 8.5
+  facilities: 8.8
+  value: 7.9
+  comfort: 8.6
+  staff: 9
+  wifi: 8.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031751.jpg?k=4b122ac43525e0545bf648a025c353fc722e14d2ea66fdff20001ad5e5eddd98&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031611.jpg?k=d89babbca81ee46907ef6c4b73149715a77398f6bcbbe71e86c0da20f89e68bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031226.jpg?k=0171a9d177e81b12b4019db5cd274237fe7965105f21d2b545a24a69a0575d38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456030916.jpg?k=a17c6209082c02c8c76f7b60a2b293fc912323fe1b79d86173af4f7311733689&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456016651.jpg?k=7f0bd9d217a05d5f41b93eefd68b6364cf59e856715ec59a7a0d6eb1c20ad4c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031753.jpg?k=9300de887e633291f6a649b4323104d463e749d7552483769b826ff781cbeef1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031505.jpg?k=6a1988bf4e145d47aad53a9afb007d45f0911024eeb398d604a2333c88acfbee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456030157.jpg?k=b490584ac380b442434cb4be8e8de1e3ea5f7169ae4853d39929a29e5c58b98f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456030766.jpg?k=36b9a85e894d847e0f4d25a260db7bf31cf567c124ae4eef8d5e8431c6984aca&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Odhisea 40 m"
+  - "Sundeck Bar-Coffee 250 m"
+nearbyBeaches:
+  - "Qeparo Beach 150 m"
+  - "Borsh Beach 350 m"
+  - "Porto Palermo Beach 3 2.5 km"
+  - "Porto Palermo Beach 2.5 km"
+  - "Palermo Beach 3.5 km"
+airports:
+  - "Corfu International Airport 49 km"
+  - "Ioannina Airport 92 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Malene"
+    country: "Denmark"
+    text: "“The room and view was absolutely amazing. It is a beautiful hotel. We had such a nice and relaxing experience. The staff made the stay so much more memorable, they went above and beyond to give us a comfortable stay. It exceeded all of our...”"
+  - name: "Toni"
+    country: "Albania"
+    text: "“The room was really nice with an amazing view like everything there ! A special treatment for the clients at the restaurant, by the pool and at the private beach!”"
+  - name: "Ana"
+    country: "France"
+    text: "“Beautiful villa, thoughtfully decorated rooms, comfortable bed. Ana”"
+bookingURL: "https://www.booking.com/hotel/al/la-boheme-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+The villa boasts a stunning rooftop pool complemented by a pool bar, where guests can unwind with a drink in hand, soaking in the panoramic sea views. For those looking to relax further, a sauna is available, alongside the convenience of a 24-hour front desk to meet guests' needs at any hour.
 
 Accommodations at Kshira Oasis are designed with luxury and comfort in mind. Select units feature air conditioning, a dining area, and a cozy seating area equipped with a satellite flat-screen TV for entertainment. The highlight for many are the balconies, offering an outdoor dining area where guests can savor meals against the backdrop of breathtaking sea vistas. For added convenience, certain units also come with a kettle and complimentary fruits, adding a personal touch to the stay.
 

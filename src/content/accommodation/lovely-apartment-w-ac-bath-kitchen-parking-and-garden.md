@@ -1,4 +1,83 @@
----\ntitle: "Lovely Apartment w/ AC + Bath. + Kitchen + Parking and Garden"\ndescription: "Discover the charm of Shkodër with a stay at Lovely Apartment, a gem located within easy reach of the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\nlanguage: en\nslug: lovely-apartment-w-ac-bath-kitchen-parking-and-garden\naddress: "Rruga Doktor Lito, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.07483337\n  lng: 19.52192719\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 66\nratings:\n  overall: 8.2\n  location: 8.5\n  cleanliness: 7.7\n  facilities: 7.5\n  value: 8.3\n  comfort: 7.6\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/bg/182bcac71254d22e0f05dc843aa8ee912e14a669.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14Gh9TfoZPUdALMERiQQ41PUoKPLuKxYRc6jMuALG=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/cz/331344fc12453ef26747d18151eaa5497dc651e9.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\n  - "https://cf.bstatic.com/static/img/flags/12/bg/182bcac71254d22e0f05dc843aa8ee912e14a669.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Baste Live 100 m"\n  - "Quarta Cafe 150 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.9 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tirana International Airport Mother Teresa 74 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Kvartler"\n    country: "Bulgaria"\n    text: "“Location is good, all service is perfect. It was nice to stay there!”"\n  - name: "David"\n    country: "United Kingdom"\n    text: "“Everything. It was one of the best apartments I’ve stayed in, and I’ve stayed in a few”"\n  - name: "Katja"\n    country: "Netherlands"\n    text: "“Hospitality, very nice food prepared by the hostess, very friendly atmosphere.”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-apartment-w-ac-bath-kitchen-parking-and-garden.en-gb.html?aid=8035640"\nbestFor: "Best for Couples"\nbestCategories: "Couples"\ncategory: "Couples"\n---\n\nThe space itself is thoughtfully designed, featuring a cozy bedroom, a well-appointed bathroom stocked with fresh linens and towels, and a living area with a television and dining space. The fully equipped kitchen allows guests the freedom to prepare their meals just the way they like, while the patio, boasting serene garden views, provides the perfect backdrop for a morning cup of coffee or an evening unwind. The unique touch of a private entrance enhances the sense of exclusivity and privacy.
+---
+title: "Lovely Apartment w/ AC + Bath. + Kitchen + Parking and Garden"
+description: "Discover the charm of Shkodër with a stay at Lovely Apartment, a gem located within easy reach of the Port of Bar."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+language: en
+slug: lovely-apartment-w-ac-bath-kitchen-parking-and-garden
+address: "Rruga Doktor Lito, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.07483337
+  lng: 19.52192719
+price: "US$41"
+priceFrom: 41
+starRating: 3
+rating: 8.2
+ratingWords: "Very Good"
+numberOfReviews: 66
+ratings:
+  overall: 8.2
+  location: 8.5
+  cleanliness: 7.7
+  facilities: 7.5
+  value: 8.3
+  comfort: 7.6
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+  - "https://cf.bstatic.com/static/img/flags/12/bg/182bcac71254d22e0f05dc843aa8ee912e14a669.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"
+  - "https://lh3.googleusercontent.com/a-/AOh14Gh9TfoZPUdALMERiQQ41PUoKPLuKxYRc6jMuALG=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/cz/331344fc12453ef26747d18151eaa5497dc651e9.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+  - "https://cf.bstatic.com/static/img/flags/12/bg/182bcac71254d22e0f05dc843aa8ee912e14a669.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Baste Live 100 m"
+  - "Quarta Cafe 150 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 3.9 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 37 km"
+  - "Tirana International Airport Mother Teresa 74 km"
+  - "Tivat Airport 74 km"
+reviews:
+  - name: "Kvartler"
+    country: "Bulgaria"
+    text: "“Location is good, all service is perfect. It was nice to stay there!”"
+  - name: "David"
+    country: "United Kingdom"
+    text: "“Everything. It was one of the best apartments I’ve stayed in, and I’ve stayed in a few”"
+  - name: "Katja"
+    country: "Netherlands"
+    text: "“Hospitality, very nice food prepared by the hostess, very friendly atmosphere.”"
+bookingURL: "https://www.booking.com/hotel/al/lovely-apartment-w-ac-bath-kitchen-parking-and-garden.en-gb.html?aid=8035640"
+bestFor: "Best for Couples"
+bestCategories: "Couples"
+category: "Couples"
+---
+
+The space itself is thoughtfully designed, featuring a cozy bedroom, a well-appointed bathroom stocked with fresh linens and towels, and a living area with a television and dining space. The fully equipped kitchen allows guests the freedom to prepare their meals just the way they like, while the patio, boasting serene garden views, provides the perfect backdrop for a morning cup of coffee or an evening unwind. The unique touch of a private entrance enhances the sense of exclusivity and privacy.
 
 For those looking to start their day on the right note, the apartment offers a range of breakfast options, from continental to Full English/Irish, complete with warm dishes, local specialties, and freshly baked pastries. The on-site coffee shop and the convenience of packed lunches add an extra layer of comfort for guests on the go.
 

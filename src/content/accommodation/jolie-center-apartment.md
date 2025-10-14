@@ -1,5 +1,87 @@
----\ntitle: "Jolie Center Apartment"\ndescription: "Jolie Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486588858.jpg?k=38a1de126a520e5c2f425d437a5e347670fdb46eb3ed263903ddb4ea5796d79e&o=&hp=1"\nlanguage: en\nslug: jolie-center-apartment\naddress: "Rruga Reshit Çollaku, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3237092\n  lng: 19.81540309\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 14\nratings:\n  overall: 9.8\n  location: 9.5\n  cleanliness: 10\n  facilities: 9.6\n  value: 10\n  comfort: 9.6\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486588858.jpg?k=38a1de126a520e5c2f425d437a5e347670fdb46eb3ed263903ddb4ea5796d79e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811730.jpg?k=faa12b67d02afa67033c622aab15a858b69e0673bf05506f35a9f2bc92689926&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811728.jpg?k=7d70225c4bb5145be6c125943b3826c4fdbff6884096f5eff771788030445584&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486589011.jpg?k=c22f47b29cec7c1933bdd7a013e84d70d1bf0cc9d1334b98751bbfba181f2750&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488599968.jpg?k=b7b64e845afa34615d4fdc920188aad6d429f54510a2677d0607d628da824588&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811734.jpg?k=6e3eec37cd21ee1897d98a5d774fd7e89d79b0d756211e9de4c905a7da9fdd85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811733.jpg?k=f750e26313ba62eef34c398cabf98c209032d10ee0d2c21a97b01a861401daca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486589046.jpg?k=4b32425b53935c0895aa26202ef5ccb83529f7dc5874af46867508b1fc9d277c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486588978.jpg?k=17e5d87bcd335cb27d9133f421a0e94ed96fe1e421ac70d90faeefe88d4f7e36&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Fast free WiFi (61 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 650 m"\n  - "Tanners' Bridge 950 m"\n  - "Grand Park of Tirana 1.6 km"\n  - "Bunk'Art 1 Museum 4.8 km"\nnearbyRestaurants:\n  - "The Living Room Bar Restorant 20 m"\n  - "Pata Negra 50 m"\nwhatsNearby:\n  - "Rinia Park 250 m"\n  - "House of Leaves 350 m"\n  - "Former Residence of Enver Hoxha 350 m"\n  - "Parku Rinia 350 m"\n  - "Sheshi Rekreativ Piramida 500 m"\n  - "Parku Europa 500 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Skanderbeg Square 550 m"\n  - "Sheshi Skënderbej 550 m"\n  - "Clock Tower Tirana 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Omar"\n    country: "United Kingdom"\n    text: "“This place certainly met my expectations. It's located in a quiet and safe neighborhood yet close to the center and most attractions. The wifi is reliable and fast. I give 5 stars for the host's kindness, help, and communication. The self-check-in...”"\n  - name: "Ilva"\n    country: "Luxembourg"\n    text: "“Very central, clean and friendly owner. Kitchen fully equipped”"\n  - name: "Lise"\n    country: "France"\n    text: "“One of the best places I have stayed while travelling! Beautiful and spotless clean, has everything you need and Juela (the host) was lovely and even helped me find buses/taxi to come to the place and leave.
-Location is very central next to...”"\nbookingURL: "https://www.booking.com/hotel/al/jolie-center-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a fully immersive living experience. Guests can enjoy the luxury of a fully equipped kitchen, a cozy dining area, and a serene balcony that offers tranquil street views - perfect for unwinding after a day of exploration. The inclusion of modern amenities such as air conditioning, a flat-screen TV, complimentary WiFi, and the convenience of a private entrance, ensures a stay that combines comfort with privacy.
+---
+title: "Jolie Center Apartment"
+description: "Jolie Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486588858.jpg?k=38a1de126a520e5c2f425d437a5e347670fdb46eb3ed263903ddb4ea5796d79e&o=&hp=1"
+language: en
+slug: jolie-center-apartment
+address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3237092
+  lng: 19.81540309
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 14
+ratings:
+  overall: 9.8
+  location: 9.5
+  cleanliness: 10
+  facilities: 9.6
+  value: 10
+  comfort: 9.6
+  staff: 9.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486588858.jpg?k=38a1de126a520e5c2f425d437a5e347670fdb46eb3ed263903ddb4ea5796d79e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811730.jpg?k=faa12b67d02afa67033c622aab15a858b69e0673bf05506f35a9f2bc92689926&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811728.jpg?k=7d70225c4bb5145be6c125943b3826c4fdbff6884096f5eff771788030445584&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486589011.jpg?k=c22f47b29cec7c1933bdd7a013e84d70d1bf0cc9d1334b98751bbfba181f2750&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488599968.jpg?k=b7b64e845afa34615d4fdc920188aad6d429f54510a2677d0607d628da824588&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811734.jpg?k=6e3eec37cd21ee1897d98a5d774fd7e89d79b0d756211e9de4c905a7da9fdd85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489811733.jpg?k=f750e26313ba62eef34c398cabf98c209032d10ee0d2c21a97b01a861401daca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486589046.jpg?k=4b32425b53935c0895aa26202ef5ccb83529f7dc5874af46867508b1fc9d277c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486588978.jpg?k=17e5d87bcd335cb27d9133f421a0e94ed96fe1e421ac70d90faeefe88d4f7e36&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Fast free WiFi (61 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Museum of History Albania 650 m"
+  - "Tanners' Bridge 950 m"
+  - "Grand Park of Tirana 1.6 km"
+  - "Bunk'Art 1 Museum 4.8 km"
+nearbyRestaurants:
+  - "The Living Room Bar Restorant 20 m"
+  - "Pata Negra 50 m"
+whatsNearby:
+  - "Rinia Park 250 m"
+  - "House of Leaves 350 m"
+  - "Former Residence of Enver Hoxha 350 m"
+  - "Parku Rinia 350 m"
+  - "Sheshi Rekreativ Piramida 500 m"
+  - "Parku Europa 500 m"
+  - "National Gallery of Arts Tirana 550 m"
+  - "Skanderbeg Square 550 m"
+  - "Sheshi Skënderbej 550 m"
+  - "Clock Tower Tirana 600 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Omar"
+    country: "United Kingdom"
+    text: "“This place certainly met my expectations. It's located in a quiet and safe neighborhood yet close to the center and most attractions. The wifi is reliable and fast. I give 5 stars for the host's kindness, help, and communication. The self-check-in...”"
+  - name: "Ilva"
+    country: "Luxembourg"
+    text: "“Very central, clean and friendly owner. Kitchen fully equipped”"
+  - name: "Lise"
+    country: "France"
+    text: "“One of the best places I have stayed while travelling! Beautiful and spotless clean, has everything you need and Juela (the host) was lovely and even helped me find buses/taxi to come to the place and leave.
+Location is very central next to...”"
+bookingURL: "https://www.booking.com/hotel/al/jolie-center-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This apartment doesn't just offer a place to stay; it provides a fully immersive living experience. Guests can enjoy the luxury of a fully equipped kitchen, a cozy dining area, and a serene balcony that offers tranquil street views - perfect for unwinding after a day of exploration. The inclusion of modern amenities such as air conditioning, a flat-screen TV, complimentary WiFi, and the convenience of a private entrance, ensures a stay that combines comfort with privacy.
 
 Accommodation at Jolie Center Apartment includes a spacious bedroom, a well-appointed bathroom, and the provision of essential linens and towels, catering to all the needs of modern travelers. Its proximity to notable landmarks such as Rinia Park, the Pyramid of Tirana, and Reja - The Cloud, further enhances its appeal, placing guests at the center of Tirana's vibrant cultural scene.
 

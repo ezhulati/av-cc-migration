@@ -1,7 +1,93 @@
----\ntitle: "Hotel Tatzati 2"\ndescription: "Hotel Tatzati 2, located a mere stone's throw away from the vibrant Saranda City Beach, emerges as a prime choice for travelers seeking both comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262339145.jpg?k=a96f7d206d7361e85097d00ff9f1153032a55e1cd1cb7217147de293db62e287&o=&hp=1"\nlanguage: en\nslug: hotel-tatzati-2\naddress: "Rruga Lefter Talo, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87564913\n  lng: 20.0054541\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 298\nratings:\n  overall: 8.4\n  location: 8.9\n  cleanliness: 8.1\n  facilities: 7.7\n  value: 8.3\n  comfort: 8.2\n  staff: 8.4\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262339145.jpg?k=a96f7d206d7361e85097d00ff9f1153032a55e1cd1cb7217147de293db62e287&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263212.jpg?k=579035bac4640deb350f11facc711f65a3f4c6e3e7ad12d9331afba0836964be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263178.jpg?k=8908c4e1411454d34ccad260758b4ff87cad0c82353baa70377e5023c6fff686&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262400730.jpg?k=cc968354ea52882949d4c8d16c85bb46364cc86ada106d444455dad996e7e013&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263161.jpg?k=d28dc57e3c3205283a4145323d9bc983f959b00e95c5c87726e843de2e225ffb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262400718.jpg?k=32c5cf28793921ab42a32f2a986a020a1fce2a8e0dba1d895c1a2a5055fd249a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262400731.jpg?k=c4411ef162668bc5b7132501176b4585c702c2f9fe66e05ce32630023cf4a89d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263204.jpg?k=93317554d466c04862017bd9fd880a5c55d04e752c9af44593ce055526c20f9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261470791.jpg?k=2240394bfcc73a3823de3101e24e1fbe6374b6f50b16be447ee27ba5af6be2e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263136.jpg?k=d1f3184c9dd68f2d05bad8a5cf6dc1dcce3dcf42f02e0abb4b35123a6478351a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263138.jpg?k=8f9259c64cb5cb25c72c46869a229f179cc97562d69fe04ca25d3db5d197ffc2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263141.jpg?k=67e07b2cf5822985a9cecd1a436904ef5559e9096405ea7d0eb96ebe97744af7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony"\nnearbyRestaurants:\n  - "Oda e Babës 50 m"\n  - "Nona Qebaptore 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 400 m"\n  - "Sarande Main Beach 750 m"\n  - "La Petite Beach 1.1 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Mária"\n    country: "Slovakia"\n    text: "“Rooms was clean, Nice and new. Big balcony. Aircondition was working. They accepted earlier check In. Very good and comfortable matterasses.”"\n  - name: "Ronan"\n    country: "Belgium"\n    text: "“Staff really nice, great location and with free parking (very rare in this area). Air conditioner worked perfectly, beds are comfortable and a new bathroom. Truly recommend this place! Walking distance from everything!”"\n  - name: "Manxtiger"\n    country: "United Kingdom"\n    text: "“Great location downtown, two blocks from the sandy beach and lively promenade.
+---
+title: "Hotel Tatzati 2"
+description: "Hotel Tatzati 2, located a mere stone's throw away from the vibrant Saranda City Beach, emerges as a prime choice for travelers seeking both comfort and convenience in Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262339145.jpg?k=a96f7d206d7361e85097d00ff9f1153032a55e1cd1cb7217147de293db62e287&o=&hp=1"
+language: en
+slug: hotel-tatzati-2
+address: "Rruga Lefter Talo, 9700 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.87564913
+  lng: 20.0054541
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 8.4
+ratingWords: "Very Good"
+numberOfReviews: 298
+ratings:
+  overall: 8.4
+  location: 8.9
+  cleanliness: 8.1
+  facilities: 7.7
+  value: 8.3
+  comfort: 8.2
+  staff: 8.4
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262339145.jpg?k=a96f7d206d7361e85097d00ff9f1153032a55e1cd1cb7217147de293db62e287&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263212.jpg?k=579035bac4640deb350f11facc711f65a3f4c6e3e7ad12d9331afba0836964be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263178.jpg?k=8908c4e1411454d34ccad260758b4ff87cad0c82353baa70377e5023c6fff686&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262400730.jpg?k=cc968354ea52882949d4c8d16c85bb46364cc86ada106d444455dad996e7e013&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263161.jpg?k=d28dc57e3c3205283a4145323d9bc983f959b00e95c5c87726e843de2e225ffb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262400718.jpg?k=32c5cf28793921ab42a32f2a986a020a1fce2a8e0dba1d895c1a2a5055fd249a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262400731.jpg?k=c4411ef162668bc5b7132501176b4585c702c2f9fe66e05ce32630023cf4a89d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263204.jpg?k=93317554d466c04862017bd9fd880a5c55d04e752c9af44593ce055526c20f9c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261470791.jpg?k=2240394bfcc73a3823de3101e24e1fbe6374b6f50b16be447ee27ba5af6be2e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263136.jpg?k=d1f3184c9dd68f2d05bad8a5cf6dc1dcce3dcf42f02e0abb4b35123a6478351a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263138.jpg?k=8f9259c64cb5cb25c72c46869a229f179cc97562d69fe04ca25d3db5d197ffc2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262263141.jpg?k=67e07b2cf5822985a9cecd1a436904ef5559e9096405ea7d0eb96ebe97744af7&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Free parking"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room with Balcony"
+nearbyRestaurants:
+  - "Oda e Babës 50 m"
+  - "Nona Qebaptore 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 400 m"
+  - "Sarande Main Beach 750 m"
+  - "La Petite Beach 1.1 km"
+  - "Maestral Beach 1.3 km"
+  - "Saranda Bay Beach 2 km"
+whatsNearby:
+  - "Parc National de Butrint 2.5 km"
+  - "Butrint National Park 3.3 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Mária"
+    country: "Slovakia"
+    text: "“Rooms was clean, Nice and new. Big balcony. Aircondition was working. They accepted earlier check In. Very good and comfortable matterasses.”"
+  - name: "Ronan"
+    country: "Belgium"
+    text: "“Staff really nice, great location and with free parking (very rare in this area). Air conditioner worked perfectly, beds are comfortable and a new bathroom. Truly recommend this place! Walking distance from everything!”"
+  - name: "Manxtiger"
+    country: "United Kingdom"
+    text: "“Great location downtown, two blocks from the sandy beach and lively promenade.
 Exceptional accommodation that was extremely competitively priced.
 Basic but plentiful breakfast.
-Massive room, wonderfully cool A/C and a Very comfortable...”"\nbookingURL: "https://www.booking.com/hotel/al/tatzati-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach air-conditioned room at Hotel Tatzati 2 is a haven of comfort, featuring a private bathroom, complimentary WiFi, and the added bonus of a balcony presenting captivating city views. The attention to detail is evident with the inclusion of a flat-screen TV and free toiletries in every guest room, ensuring a stay that combines relaxation with the comforts of home.
+Massive room, wonderfully cool A/C and a Very comfortable...”"
+bookingURL: "https://www.booking.com/hotel/al/tatzati-2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each air-conditioned room at Hotel Tatzati 2 is a haven of comfort, featuring a private bathroom, complimentary WiFi, and the added bonus of a balcony presenting captivating city views. The attention to detail is evident with the inclusion of a flat-screen TV and free toiletries in every guest room, ensuring a stay that combines relaxation with the comforts of home.
 
 Beyond the well-appointed rooms, Hotel Tatzati 2 caters to the needs of business travelers with its efficient ironing service and business facilities, including fax and photocopying services. This makes it an ideal spot not only for leisure seekers but also for those on business trips looking for a seamless stay.
 

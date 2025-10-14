@@ -1,3 +1,70 @@
----\ntitle: "Çuçi B&B"\ndescription: "Çuçi B&B stands out as a charming accommodation choice for travelers exploring Berat, offering air-conditioned rooms complemented by complimentary WiFi and captivating city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383484591.jpg?k=46431834decfa66faf9b239a7d6d90c87330a0116d7dfc2a10f5818628f5e241&o=&hp=1"\nlanguage: en\nslug: u-i-b-b\naddress: "Rruga Antipatrea, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70497418\n  lng: 19.95263439\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 62\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 9.4\n  comfort: 9.4\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383484591.jpg?k=46431834decfa66faf9b239a7d6d90c87330a0116d7dfc2a10f5818628f5e241&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376201179.jpg?k=413fb211cf9ca04f363f0e7245c388d3e3cd09f43726fa8e3ee3455d841ee55d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376199943.jpg?k=c616a4d8fe6638911b658661a97811b03b9c3924c772efc38fe8f8b5cbe29fff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408340962.jpg?k=be16b8495bd2551bbad42317f62ece417b670106c35b8b67be31f0bf9b6a35c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369518356.jpg?k=4f80ef38a4782dc17ee8fcc644548b057e3a8b75b637cfa7cb71033f07e6d95e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376198681.jpg?k=1b41a9240218f7b199b776255094bfa60a4722ea96431e7487b4fd8a813b8900&o=&hp=1"\namenities:\n  - "Fast free WiFi (81 Mbps)"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Twin Room"\n  - "Twin Room with Balcony"\nnearbyRestaurants:\n  - "Home Taste 30 m"\n  - "Pasticeri Hotel Tomori 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Harry"\n    country: "United States"\n    text: "“Clean and tidy with a very accessible restaurant downstairs also operated by the owner.”"\n  - name: "Anne"\n    country: "Belgium"\n    text: "“Nice, clean, comfy bedroom and good breakfast. Location is ideal to visit Berat.”"\n  - name: "Nicola"\n    country: "United Kingdom"\n    text: "“Great location, just a few steps from the old town. The owners were very helpful and the breakfast was delicious. Our room was very clean and perfect for our needs.”"\nbookingURL: "https://www.booking.com/hotel/al/cuci-b-amp-b.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Çuçi B&B is thoughtfully equipped with essential amenities to enhance the comfort of your stay. Guests can expect to find a wardrobe, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels. Additionally, the convenience of having a fridge in the room adds a touch of home, making it easier to store snacks and beverages.
+---
+title: "Çuçi B&B"
+description: "Çuçi B&B stands out as a charming accommodation choice for travelers exploring Berat, offering air-conditioned rooms complemented by complimentary WiFi and captivating city views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383484591.jpg?k=46431834decfa66faf9b239a7d6d90c87330a0116d7dfc2a10f5818628f5e241&o=&hp=1"
+language: en
+slug: u-i-b-b
+address: "Rruga Antipatrea, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.70497418
+  lng: 19.95263439
+price: "US$29"
+priceFrom: 29
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 62
+ratings:
+  overall: 9.4
+  location: 9.6
+  cleanliness: 9.2
+  facilities: 9.2
+  value: 9.4
+  comfort: 9.4
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383484591.jpg?k=46431834decfa66faf9b239a7d6d90c87330a0116d7dfc2a10f5818628f5e241&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376201179.jpg?k=413fb211cf9ca04f363f0e7245c388d3e3cd09f43726fa8e3ee3455d841ee55d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376199943.jpg?k=c616a4d8fe6638911b658661a97811b03b9c3924c772efc38fe8f8b5cbe29fff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408340962.jpg?k=be16b8495bd2551bbad42317f62ece417b670106c35b8b67be31f0bf9b6a35c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369518356.jpg?k=4f80ef38a4782dc17ee8fcc644548b057e3a8b75b637cfa7cb71033f07e6d95e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376198681.jpg?k=1b41a9240218f7b199b776255094bfa60a4722ea96431e7487b4fd8a813b8900&o=&hp=1"
+amenities:
+  - "Fast free WiFi (81 Mbps)"
+  - "Breakfast"
+roomTypes:
+  - "Double Room"
+  - "Twin Room"
+  - "Twin Room with Balcony"
+nearbyRestaurants:
+  - "Home Taste 30 m"
+  - "Pasticeri Hotel Tomori 100 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 84 km"
+reviews:
+  - name: "Harry"
+    country: "United States"
+    text: "“Clean and tidy with a very accessible restaurant downstairs also operated by the owner.”"
+  - name: "Anne"
+    country: "Belgium"
+    text: "“Nice, clean, comfy bedroom and good breakfast. Location is ideal to visit Berat.”"
+  - name: "Nicola"
+    country: "United Kingdom"
+    text: "“Great location, just a few steps from the old town. The owners were very helpful and the breakfast was delicious. Our room was very clean and perfect for our needs.”"
+bookingURL: "https://www.booking.com/hotel/al/cuci-b-amp-b.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each room at Çuçi B&B is thoughtfully equipped with essential amenities to enhance the comfort of your stay. Guests can expect to find a wardrobe, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels. Additionally, the convenience of having a fridge in the room adds a touch of home, making it easier to store snacks and beverages.
 
 Situated 118 km from Tirana International Mother Teresa Airport, Çuçi B&B offers a serene retreat that promises a memorable stay in the historic city of Berat, making it an ideal choice for those seeking both comfort and convenience.

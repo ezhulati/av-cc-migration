@@ -9,7 +9,6 @@ seo:
   focusKeyword: "transfers"
   metaTitle: "Tirana Airport Transfers &amp; Taxi Booking in Albania"
   metaDescription: "Travel with ease in Albania. Learn how to hire a car and book taxi transfers from airports and hotels to any city. Your journey in Albania, simplified."
-  focusKeyword: "transfers"
 ---
 
 ## Private Transfers in Albania - Fixed Price, No Stress

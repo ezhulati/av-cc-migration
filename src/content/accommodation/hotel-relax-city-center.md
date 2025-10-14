@@ -1,4 +1,83 @@
----\ntitle: "Hotel Relax City Center"\ndescription: "Hotel Relax City Center emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953100.jpg?k=579830e23ebe7187841018e34b1c71163a28a9b1f285e747c1d7deae65561c67&o=&hp=1"\nlanguage: en\nslug: hotel-relax-city-center\naddress: "Rr. George W. Bush , 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32653744\n  lng: 19.82501015\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 293\nratings:\n  overall: 7.5\n  location: 9.3\n  cleanliness: 6.9\n  facilities: 6.8\n  value: 7.5\n  comfort: 7.1\n  staff: 7.6\n  wifi: 7.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953100.jpg?k=579830e23ebe7187841018e34b1c71163a28a9b1f285e747c1d7deae65561c67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306103954.jpg?k=ec64ee614323f206aad02288d3aef55d9959b101f4272bc003bfa9e63677d971&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979832.jpg?k=fad61a7d1ad0c7d9979cf7e4a361770f6566b3c90252cb6b2f479f1e188b3d69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953012.jpg?k=a2c3ef89e7c84cc104c003c17f8c6276012ca9aa5dfd7276ff69dcccca87364f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979885.jpg?k=22b336e0507a3a011b6ad830632863df15f78c6257a36915c6eea785608ebf1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979906.jpg?k=a0a453b2bebd6c91b421a8f10e01fba449e391e77a2fab1ffd7f435ed2095e02&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 700 m"\n  - "House of Leaves 700 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Grand Park of Tirana 1.6 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Taverna Zoto 30 m"\n  - "Golden Taste 30 m"\nwhatsNearby:\n  - "Tanners' Bridge 100 m"\n  - "Sheshi Rekreativ tek ish ATSh 200 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "National Gallery of Arts Tirana 350 m"\n  - "Sheshi Rekreativ Piramida 400 m"\n  - "Clock Tower Tirana 450 m"\n  - "Parku Rinia 500 m"\n  - "Parku Europa 500 m"\n  - "Skanderbeg Square 500 m"\n  - "Rinia Park 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/relax-city-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room within the hotel is a haven of relaxation, featuring air-conditioning for those warm Albanian days. Entertainment and connectivity are ensured with the inclusion of flat-screen TVs, offering both cable and satellite channels, alongside complimentary WiFi access. The attention to detail extends to the private bathrooms, where guests will find modern amenities including showers, bidets, and hairdryers, complemented by the thoughtful addition of free toiletries and slippers. Moreover, the garden views from the rooms add a refreshing touch of nature to the urban lodging experience.
+---
+title: "Hotel Relax City Center"
+description: "Hotel Relax City Center emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953100.jpg?k=579830e23ebe7187841018e34b1c71163a28a9b1f285e747c1d7deae65561c67&o=&hp=1"
+language: en
+slug: hotel-relax-city-center
+address: "Rr. George W. Bush , 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32653744
+  lng: 19.82501015
+price: "US$32"
+priceFrom: 32
+starRating: 3
+rating: 7.5
+ratingWords: "Good"
+numberOfReviews: 293
+ratings:
+  overall: 7.5
+  location: 9.3
+  cleanliness: 6.9
+  facilities: 6.8
+  value: 7.5
+  comfort: 7.1
+  staff: 7.6
+  wifi: 7.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953100.jpg?k=579830e23ebe7187841018e34b1c71163a28a9b1f285e747c1d7deae65561c67&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306103954.jpg?k=ec64ee614323f206aad02288d3aef55d9959b101f4272bc003bfa9e63677d971&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979832.jpg?k=fad61a7d1ad0c7d9979cf7e4a361770f6566b3c90252cb6b2f479f1e188b3d69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304953012.jpg?k=a2c3ef89e7c84cc104c003c17f8c6276012ca9aa5dfd7276ff69dcccca87364f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979885.jpg?k=22b336e0507a3a011b6ad830632863df15f78c6257a36915c6eea785608ebf1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33979906.jpg?k=a0a453b2bebd6c91b421a8f10e01fba449e391e77a2fab1ffd7f435ed2095e02&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "24-hour front desk"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Single Room"
+  - "Double Room"
+  - "Triple Room"
+nearbyAttractions:
+  - "National Museum of History Albania 700 m"
+  - "House of Leaves 700 m"
+  - "Former Residence of Enver Hoxha 900 m"
+  - "Grand Park of Tirana 1.6 km"
+  - "Bunk'Art 1 Museum 4 km"
+nearbyRestaurants:
+  - "Taverna Zoto 30 m"
+  - "Golden Taste 30 m"
+whatsNearby:
+  - "Tanners' Bridge 100 m"
+  - "Sheshi Rekreativ tek ish ATSh 200 m"
+  - "Sheshi Sulejman Pasha 350 m"
+  - "National Gallery of Arts Tirana 350 m"
+  - "Sheshi Rekreativ Piramida 400 m"
+  - "Clock Tower Tirana 450 m"
+  - "Parku Rinia 500 m"
+  - "Parku Europa 500 m"
+  - "Skanderbeg Square 500 m"
+  - "Rinia Park 600 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/relax-city-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each room within the hotel is a haven of relaxation, featuring air-conditioning for those warm Albanian days. Entertainment and connectivity are ensured with the inclusion of flat-screen TVs, offering both cable and satellite channels, alongside complimentary WiFi access. The attention to detail extends to the private bathrooms, where guests will find modern amenities including showers, bidets, and hairdryers, complemented by the thoughtful addition of free toiletries and slippers. Moreover, the garden views from the rooms add a refreshing touch of nature to the urban lodging experience.
 
 Dining is made convenient with the hotel’s restaurant, situated just a short 30-meter walk from the main building, where guests can savor a variety of dishes. For relaxation or casual meetings, the on-site bar and garden provide perfect settings, enhancing the overall stay with a blend of leisure and tranquility.
 

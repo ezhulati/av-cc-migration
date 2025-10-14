@@ -1,5 +1,81 @@
----\ntitle: "Boutique Hotel Kotoni"\ndescription: "Discover the charm of Tirana from the comfort of Boutique Hotel Kotoni, a gem located in the city's esteemed Blloku area."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111922618.jpg?k=8a22c687e86ee657f1a1c8987f0539c46dd2b601b81cea7432181e1afee5010a&o=&hp=1"\nlanguage: en\nslug: boutique-hotel-kotoni\naddress: "Rruga Donika Kastrioti 3, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32193206\n  lng: 19.81962025\nprice: "US$97"\npriceFrom: 97\nstarRating: 4\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 269\nratings:\n  overall: 9.4\n  location: 9.8\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.1\n  comfort: 9.6\n  staff: 9.8\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111922618.jpg?k=8a22c687e86ee657f1a1c8987f0539c46dd2b601b81cea7432181e1afee5010a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92122659.jpg?k=631f90f5edfd724873325736b3b1d6ae34b3031c9f72db598ecdb50ede8c77f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92122174.jpg?k=c5902a22c7c25628ced2be492acc3170b3a0edaf968d113c9db69cda3886af85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92121600.jpg?k=c057463899bb1d61295604a935852f28d7edbf295188d14b1d6115f9474f257f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92121692.jpg?k=6ee74ef39b482207fffb0ee1d6437237c91aa7562f58120b7757cd2d21db730a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92122749.jpg?k=359b48f35ce13d3115fa1051bb78530ceddd45dddd7df48c22d8d9bcfef876d7&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room"\n  - "Twin Room"\n  - "Superior Double Room"\nnearbyAttractions:\n  - "Skanderbeg Square 650 m"\n  - "Tanners' Bridge 750 m"\n  - "National Museum of History Albania 850 m"\n  - "Grand Park of Tirana 1.2 km"\n  - "Bunk'Art 1 Museum 4.6 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Lidi"\n    country: "Netherlands"\n    text: "“Staff is really great! Best ever, dealing with everything and very concerned! Thanks a lot!Room was big and extremely clean. Quiet room but very centrally situated .
-Perfect breakfast! Highly recommended!”"\n  - name: "Morasleo"\n    country: "Italy"\n    text: "“Kotoni is just great. I go to Tirana quite frequently and this is my choice most of the times. Staff is super kind, laundry service is super fast and everyone is keen to help for whatever need”"\n  - name: "Jitka"\n    country: "Czech Republic"\n    text: "“Fantastic location, clean room, big bathroom, very friendly staff and great breakfast!”"\nbookingURL: "https://www.booking.com/hotel/al/boutique-kotoni.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nDining at Boutique Hotel Kotoni is an experience in itself. The hotel's two-floor restaurant is renowned for its fusion of traditional Albanian and international cuisine, with a commitment to using organic ingredients. The option to dine al fresco on the spacious terrace adds a delightful touch during the warmer months, making it a perfect spot for both casual meals and special occasions.
+---
+title: "Boutique Hotel Kotoni"
+description: "Discover the charm of Tirana from the comfort of Boutique Hotel Kotoni, a gem located in the city's esteemed Blloku area."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111922618.jpg?k=8a22c687e86ee657f1a1c8987f0539c46dd2b601b81cea7432181e1afee5010a&o=&hp=1"
+language: en
+slug: boutique-hotel-kotoni
+address: "Rruga Donika Kastrioti 3, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32193206
+  lng: 19.81962025
+price: "US$97"
+priceFrom: 97
+starRating: 4
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 269
+ratings:
+  overall: 9.4
+  location: 9.8
+  cleanliness: 9.6
+  facilities: 9.2
+  value: 9.1
+  comfort: 9.6
+  staff: 9.8
+  wifi: 8.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111922618.jpg?k=8a22c687e86ee657f1a1c8987f0539c46dd2b601b81cea7432181e1afee5010a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92122659.jpg?k=631f90f5edfd724873325736b3b1d6ae34b3031c9f72db598ecdb50ede8c77f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92122174.jpg?k=c5902a22c7c25628ced2be492acc3170b3a0edaf968d113c9db69cda3886af85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92121600.jpg?k=c057463899bb1d61295604a935852f28d7edbf295188d14b1d6115f9474f257f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92121692.jpg?k=6ee74ef39b482207fffb0ee1d6437237c91aa7562f58120b7757cd2d21db730a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/92122749.jpg?k=359b48f35ce13d3115fa1051bb78530ceddd45dddd7df48c22d8d9bcfef876d7&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Free WiFi"
+  - "Restaurant"
+  - "24-hour front desk"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Double Room"
+  - "Twin Room"
+  - "Superior Double Room"
+nearbyAttractions:
+  - "Skanderbeg Square 650 m"
+  - "Tanners' Bridge 750 m"
+  - "National Museum of History Albania 850 m"
+  - "Grand Park of Tirana 1.2 km"
+  - "Bunk'Art 1 Museum 4.6 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Lidi"
+    country: "Netherlands"
+    text: "“Staff is really great! Best ever, dealing with everything and very concerned! Thanks a lot!Room was big and extremely clean. Quiet room but very centrally situated .
+Perfect breakfast! Highly recommended!”"
+  - name: "Morasleo"
+    country: "Italy"
+    text: "“Kotoni is just great. I go to Tirana quite frequently and this is my choice most of the times. Staff is super kind, laundry service is super fast and everyone is keen to help for whatever need”"
+  - name: "Jitka"
+    country: "Czech Republic"
+    text: "“Fantastic location, clean room, big bathroom, very friendly staff and great breakfast!”"
+bookingURL: "https://www.booking.com/hotel/al/boutique-kotoni.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Dining at Boutique Hotel Kotoni is an experience in itself. The hotel's two-floor restaurant is renowned for its fusion of traditional Albanian and international cuisine, with a commitment to using organic ingredients. The option to dine al fresco on the spacious terrace adds a delightful touch during the warmer months, making it a perfect spot for both casual meals and special occasions.
 
 Strategically positioned adjacent to key governmental buildings, including the Prime Minister’s office, the hotel serves as an ideal base for guests eager to explore the cultural and historical riches of Tirana. A plethora of restaurants, bars, and clubs are just a stone's throw away, promising vibrant nightlife options. Additionally, the city's museums and galleries are easily accessible for those interested in a deeper dive into the local arts scene.
 

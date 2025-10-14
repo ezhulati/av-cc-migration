@@ -1,4 +1,78 @@
----\ntitle: "Villa Garden Shkodra"\ndescription: "Villa Garden Shkodra emerges as a serene retreat in the heart of Shkodër, offering guests a unique blend of comfort and convenience in the Shkoder County region."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194891438.jpg?k=801215fe71f1cc2a3318762500b2d48b26fa38cccd30d227601ca271344dfc60&o=&hp=1"\nlanguage: en\nslug: villa-garden-shkodra\naddress: "Rruga Hoxhë Kadria, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.06814127\n  lng: 19.49766368\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 43\nratings:\n  overall: 9.4\n  location: 9\n  cleanliness: 9.7\n  facilities: 9.1\n  value: 9.4\n  comfort: 9.4\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194891438.jpg?k=801215fe71f1cc2a3318762500b2d48b26fa38cccd30d227601ca271344dfc60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194890796.jpg?k=a09d96506142849b4afdfab0ab4b13039b378970df4411e7e430fa4a30be724a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892807.jpg?k=1223f0b51620049f629059aaa8ac9a997f9423f2322fefdad90bc4c5587d166f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194889766.jpg?k=4ec44fad0605d9dac820789d0e0ee66bb394be03b3c4bd8e65d2f36930d9126e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194891151.jpg?k=77a0b08bf59986d792fcdb83cee5c67e799b9b4afe0a01307830725435bf5a55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893250.jpg?k=29aa6c476acbfc91b598a45c40c9244d63fa9bf864172e0d26bce2b400884fd5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194890599.jpg?k=533350f97652f850da7095aec63ded83cd51e156342c5e994d55e2bb054c0e72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194889893.jpg?k=3f98f7b516ea4c3a2d34f9b9865228338151084c5cadff4f70876f8a3f1c041e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251601311.jpg?k=83f15ab4549ba12e43e4e03fd446898bdd1ce3bef087f106be5eceb578a29edd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251601306.jpg?k=687e05a0a7c9696074a5a87fb3a1691b54359b7d511f891b5fd1cf77e85feefe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443178634.jpg?k=472ca12364363bbc8a4d9950f80eeb8b652178366776fedd4f2a9c91b5cc38c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443178928.jpg?k=75f2e74d937f73720cf172dca0f28152c02aa60e6f8693be75b75e9a5172c381&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Villa with Garden View"\nnearbyRestaurants:\n  - "Bar Kotrri 300 m"\n  - "BOMSI 400 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.4 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tivat Airport 73 km"\n  - "Tirana International Airport Mother Teresa 73 km"\nreviews:\n  - name: "Harini"\n    country: "United Kingdom"\n    text: "“Extremely friendly hosts. The property was fully equipped, clean and promising. Would definitely recommend.”"\n  - name: "Bernard"\n    country: "Netherlands"\n    text: "“Very clean, lots of space, large very nice terrace, airco in bedrooms. good shower. good WiFi.”"\n  - name: "Magdalena"\n    country: "Germany"\n    text: "“The beds were so comfortable! Host is also very lovely:)”"\nbookingURL: "https://www.booking.com/hotel/al/villa-garden-shkodra.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe villa itself is a testament to modern comfort, boasting air-conditioned spaces throughout. Accommodations include a spacious living room, two cozy bedrooms, and a balcony that presents breathtaking mountain views, inviting guests to unwind and soak in the natural beauty. The living spaces are equipped with a flat-screen TV, an oven, and a microwave, ensuring that every need is met. The bathroom, complete with a shower, adds to the convenience, making it an ideal choice for both short and long stays. A thoughtful touch of providing fruits as an in-room amenity further enhances the welcoming atmosphere.
+---
+title: "Villa Garden Shkodra"
+description: "Villa Garden Shkodra emerges as a serene retreat in the heart of Shkodër, offering guests a unique blend of comfort and convenience in the Shkoder County region."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194891438.jpg?k=801215fe71f1cc2a3318762500b2d48b26fa38cccd30d227601ca271344dfc60&o=&hp=1"
+language: en
+slug: villa-garden-shkodra
+address: "Rruga Hoxhë Kadria, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "villa"
+coordinates:
+  lat: 42.06814127
+  lng: 19.49766368
+price: "US$65"
+priceFrom: 65
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 43
+ratings:
+  overall: 9.4
+  location: 9
+  cleanliness: 9.7
+  facilities: 9.1
+  value: 9.4
+  comfort: 9.4
+  staff: 9.5
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194891438.jpg?k=801215fe71f1cc2a3318762500b2d48b26fa38cccd30d227601ca271344dfc60&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194890796.jpg?k=a09d96506142849b4afdfab0ab4b13039b378970df4411e7e430fa4a30be724a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892807.jpg?k=1223f0b51620049f629059aaa8ac9a997f9423f2322fefdad90bc4c5587d166f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194889766.jpg?k=4ec44fad0605d9dac820789d0e0ee66bb394be03b3c4bd8e65d2f36930d9126e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194891151.jpg?k=77a0b08bf59986d792fcdb83cee5c67e799b9b4afe0a01307830725435bf5a55&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893250.jpg?k=29aa6c476acbfc91b598a45c40c9244d63fa9bf864172e0d26bce2b400884fd5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194890599.jpg?k=533350f97652f850da7095aec63ded83cd51e156342c5e994d55e2bb054c0e72&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194889893.jpg?k=3f98f7b516ea4c3a2d34f9b9865228338151084c5cadff4f70876f8a3f1c041e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251601311.jpg?k=83f15ab4549ba12e43e4e03fd446898bdd1ce3bef087f106be5eceb578a29edd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251601306.jpg?k=687e05a0a7c9696074a5a87fb3a1691b54359b7d511f891b5fd1cf77e85feefe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443178634.jpg?k=472ca12364363bbc8a4d9950f80eeb8b652178366776fedd4f2a9c91b5cc38c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443178928.jpg?k=75f2e74d937f73720cf172dca0f28152c02aa60e6f8693be75b75e9a5172c381&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Villa with Garden View"
+nearbyRestaurants:
+  - "Bar Kotrri 300 m"
+  - "BOMSI 400 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.4 km"
+  - "National Park Skadar Lake 9 km"
+airports:
+  - "Podgorica Airport 37 km"
+  - "Tivat Airport 73 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+reviews:
+  - name: "Harini"
+    country: "United Kingdom"
+    text: "“Extremely friendly hosts. The property was fully equipped, clean and promising. Would definitely recommend.”"
+  - name: "Bernard"
+    country: "Netherlands"
+    text: "“Very clean, lots of space, large very nice terrace, airco in bedrooms. good shower. good WiFi.”"
+  - name: "Magdalena"
+    country: "Germany"
+    text: "“The beds were so comfortable! Host is also very lovely:)”"
+bookingURL: "https://www.booking.com/hotel/al/villa-garden-shkodra.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The villa itself is a testament to modern comfort, boasting air-conditioned spaces throughout. Accommodations include a spacious living room, two cozy bedrooms, and a balcony that presents breathtaking mountain views, inviting guests to unwind and soak in the natural beauty. The living spaces are equipped with a flat-screen TV, an oven, and a microwave, ensuring that every need is met. The bathroom, complete with a shower, adds to the convenience, making it an ideal choice for both short and long stays. A thoughtful touch of providing fruits as an in-room amenity further enhances the welcoming atmosphere.
 
 For those looking to explore the area or needing assistance with travel arrangements, Villa Garden Shkodra facilitates a seamless experience by offering airport transfers and a car rental service. This ensures that guests can easily navigate their way around the region or plan day trips to explore the local culture and landscape.
 

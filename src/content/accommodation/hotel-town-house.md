@@ -1,4 +1,95 @@
----\ntitle: "Hotel Town House"\ndescription: "Discover the charm of Hotel Town House, a gem located just a stone's throw away from the heart of Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19120063.jpg?k=26fb07dcc2c52b19037d4eafa98803bf752c544cf881c1fd9e0875167a7d00b2&o=&hp=1"\nlanguage: en\nslug: hotel-town-house\naddress: "Blv. Bajram Curri, Nd. 236 H. 8, 1004 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32820854\n  lng: 19.83018279\nprice: "US$70"\npriceFrom: 70\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 439\nratings:\n  overall: 9.3\n  location: 9.3\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.3\n  comfort: 9.1\n  staff: 9.8\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19120063.jpg?k=26fb07dcc2c52b19037d4eafa98803bf752c544cf881c1fd9e0875167a7d00b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155804800.jpg?k=2717e87bca6ed943026ea7b9c1d9230f1433ea85bcb44e3f4ddd68134e032af9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155808099.jpg?k=4a8fc66750d19c517918b3636ff386c530a7233dfa9cc627349f2ba5603fc84f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19127311.jpg?k=cd96a6859210fee650d3a477e7ce17dd0afde72ddba6d241d55a46c03bc758ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19119666.jpg?k=c7053b6bca031b40384da08c7f552b12273ae779b819d5d3cf7d28ad04dee679&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19120333.jpg?k=536d0eed2142fa0db5221518fee12267d9552d52e9316130a5033601a84aac65&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Triple Room"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "House of Leaves 1.2 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 1.8 km"\n  - "Bunk'Art 1 Museum 3.5 km"\nnearbyRestaurants:\n  - "Il Posto 10 m"\n  - "Bar Restorant 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 300 m"\n  - "Tanners' Bridge 400 m"\n  - "Sheshi Sulejman Pasha 700 m"\n  - "National Gallery of Arts Tirana 800 m"\n  - "Sheshi Rekreativ Piramida 850 m"\n  - "Shesh Rekreativ 850 m"\n  - "Clock Tower Tirana 900 m"\n  - "Sheshi Jjosef Shtraus 900 m"\n  - "Skanderbeg Square 900 m"\n  - "Parku Europa 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Archie"\n    country: "Czech Republic"\n    text: "“Nice hotel, helpful staff, clean and comfortable rooms, good bar, fast wifi, close to city center within walking distance, reasonable value and quality.”"\n  - name: "Mariana"\n    country: "Czech Republic"\n    text: "“This hotel was lovely. Location is excellent to navigate through the city. Personal was professional, but same time carried deeply for out stay to be great. The room was very clean!”"\n  - name: "Amelia"\n    country: "United Kingdom"\n    text: "“Really great hotel with friendly staff that are fluent in English. 24 hour reception and the bar were an unexpected surprise. Thanks guys for the hospitable stay!”"\nbookingURL: "https://www.booking.com/hotel/al/drenica.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Hotel Town House is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can enjoy the convenience of air-conditioned spaces, 32-inch flat-screen TVs, and complimentary Wi-Fi. The attention to detail extends to the rooms' practical features, including a desk, wardrobe, fridge, iron, and a laptop-sized safety box. The private bathrooms are a highlight, boasting spacious shower cabins, hairdryers, and premium Italian toiletries.
+---
+title: "Hotel Town House"
+description: "Discover the charm of Hotel Town House, a gem located just a stone's throw away from the heart of Skanderbeg Square."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19120063.jpg?k=26fb07dcc2c52b19037d4eafa98803bf752c544cf881c1fd9e0875167a7d00b2&o=&hp=1"
+language: en
+slug: hotel-town-house
+address: "Blv. Bajram Curri, Nd. 236 H. 8, 1004 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32820854
+  lng: 19.83018279
+price: "US$70"
+priceFrom: 70
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 439
+ratings:
+  overall: 9.3
+  location: 9.3
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9.3
+  comfort: 9.1
+  staff: 9.8
+  wifi: 9.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19120063.jpg?k=26fb07dcc2c52b19037d4eafa98803bf752c544cf881c1fd9e0875167a7d00b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155804800.jpg?k=2717e87bca6ed943026ea7b9c1d9230f1433ea85bcb44e3f4ddd68134e032af9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155808099.jpg?k=4a8fc66750d19c517918b3636ff386c530a7233dfa9cc627349f2ba5603fc84f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19127311.jpg?k=cd96a6859210fee650d3a477e7ce17dd0afde72ddba6d241d55a46c03bc758ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19119666.jpg?k=c7053b6bca031b40384da08c7f552b12273ae779b819d5d3cf7d28ad04dee679&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19120333.jpg?k=536d0eed2142fa0db5221518fee12267d9552d52e9316130a5033601a84aac65&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Triple Room"
+nearbyAttractions:
+  - "Rinia Park 1.1 km"
+  - "National Museum of History Albania 1.1 km"
+  - "House of Leaves 1.2 km"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 1.8 km"
+  - "Bunk'Art 1 Museum 3.5 km"
+nearbyRestaurants:
+  - "Il Posto 10 m"
+  - "Bar Restorant 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek ish ATSh 300 m"
+  - "Tanners' Bridge 400 m"
+  - "Sheshi Sulejman Pasha 700 m"
+  - "National Gallery of Arts Tirana 800 m"
+  - "Sheshi Rekreativ Piramida 850 m"
+  - "Shesh Rekreativ 850 m"
+  - "Clock Tower Tirana 900 m"
+  - "Sheshi Jjosef Shtraus 900 m"
+  - "Skanderbeg Square 900 m"
+  - "Parku Europa 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Archie"
+    country: "Czech Republic"
+    text: "“Nice hotel, helpful staff, clean and comfortable rooms, good bar, fast wifi, close to city center within walking distance, reasonable value and quality.”"
+  - name: "Mariana"
+    country: "Czech Republic"
+    text: "“This hotel was lovely. Location is excellent to navigate through the city. Personal was professional, but same time carried deeply for out stay to be great. The room was very clean!”"
+  - name: "Amelia"
+    country: "United Kingdom"
+    text: "“Really great hotel with friendly staff that are fluent in English. 24 hour reception and the bar were an unexpected surprise. Thanks guys for the hospitable stay!”"
+bookingURL: "https://www.booking.com/hotel/al/drenica.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each room at Hotel Town House is thoughtfully equipped with modern amenities to ensure a comfortable stay. Guests can enjoy the convenience of air-conditioned spaces, 32-inch flat-screen TVs, and complimentary Wi-Fi. The attention to detail extends to the rooms' practical features, including a desk, wardrobe, fridge, iron, and a laptop-sized safety box. The private bathrooms are a highlight, boasting spacious shower cabins, hairdryers, and premium Italian toiletries.
 
 The hotel's 24-hour reception is always on hand to assist guests, offering services such as currency exchange and laundry and ironing services, ensuring a hassle-free stay.
 

@@ -1,4 +1,78 @@
----\ntitle: "Apartments Flower"\ndescription: "Apartments Flower emerges as a serene retreat, merely a stone's throw away from the vibrant Sarande Main Beach, offering guests a blend of comfort and convenience with its air-conditioned accommodations that boast terraces and balconies for a breath of fresh air."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894688.jpg?k=ef24ff98517ea6d184636a2eeac19498c18d6cd5357be9e8b4b68b259604603e&o=&hp=1"\nlanguage: en\nslug: apartments-flower\naddress: "Rruga Ismail Qemali, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87136978\n  lng: 19.99924383\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.2\n  location: 8.9\n  cleanliness: 9.4\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.4\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894688.jpg?k=ef24ff98517ea6d184636a2eeac19498c18d6cd5357be9e8b4b68b259604603e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894716.jpg?k=093e153088e45758eab0ac0f5950ae7c6d9bc7e5d1fa19d6a05944ec4c65cc03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463897138.jpg?k=00ad3aa80cd5083fde23689b086fb9e310a03b3d45a39c7b06c4841226911748&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479445931.jpg?k=3f417a4f2d2b2ad1b1d88560754b1c73b8a6226d057b009e978be76c851e1db2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894711.jpg?k=96a6f40d37462396136951a1ff1d0e1de97c6ab9f503eb56f99e1e2413728f86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465402757.jpg?k=78bcf758edd643c7873a85c52cce53de932d486a192224924ed99f70757c95cc&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Family Room with Terrace"\nnearbyRestaurants:\n  - "Piccolino Beach 100 m"\n  - "Friends 150 m"\nnearbyBeaches:\n  - "Sarande Main Beach 200 m"\n  - "Saranda City Beach 900 m"\n  - "La Petite Beach 1.3 km"\n  - "Maestral Beach 1.5 km"\n  - "Saranda Bay Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Vera"\n    country: "Albania"\n    text: "“Perfect acommodation! Warm welcoming from the host. The location was excatly near the beach . Anything you needed around restaurants coffee or supermarket . The apartment was very clean. Recommended!!”"\n  - name: "Violeta"\n    country: "Greece"\n    text: "“Perfect location 150 metres from the beach . It was cozy and very clean . Eleftheria the host welcome us with warm and professional way . Recommended for sure till next year again !!!”"\n  - name: "Kateřina"\n    country: "Czech Republic"\n    text: "“The owner was very nice, and showed us the way to the appartment with a car personally. The appartment was very nice, clean, and we found everything we needed. The owner replied to our messages very fast each time, and whenever we needed...”"\nbookingURL: "https://www.booking.com/hotel/al/apartments-flower.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach unit is thoughtfully equipped with a private bathroom, complete with a shower and hair dryer, ensuring a comfortable stay. The added perk of complimentary WiFi allows guests to stay connected with the world or plan their next day's adventures without a hitch.
+---
+title: "Apartments Flower"
+description: "Apartments Flower emerges as a serene retreat, merely a stone's throw away from the vibrant Sarande Main Beach, offering guests a blend of comfort and convenience with its air-conditioned accommodations that boast terraces and balconies for a breath of fresh air."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894688.jpg?k=ef24ff98517ea6d184636a2eeac19498c18d6cd5357be9e8b4b68b259604603e&o=&hp=1"
+language: en
+slug: apartments-flower
+address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87136978
+  lng: 19.99924383
+price: "US$26"
+priceFrom: 26
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 16
+ratings:
+  overall: 9.2
+  location: 8.9
+  cleanliness: 9.4
+  facilities: 8.9
+  value: 9.2
+  comfort: 9.4
+  staff: 9.1
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894688.jpg?k=ef24ff98517ea6d184636a2eeac19498c18d6cd5357be9e8b4b68b259604603e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894716.jpg?k=093e153088e45758eab0ac0f5950ae7c6d9bc7e5d1fa19d6a05944ec4c65cc03&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463897138.jpg?k=00ad3aa80cd5083fde23689b086fb9e310a03b3d45a39c7b06c4841226911748&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479445931.jpg?k=3f417a4f2d2b2ad1b1d88560754b1c73b8a6226d057b009e978be76c851e1db2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463894711.jpg?k=96a6f40d37462396136951a1ff1d0e1de97c6ab9f503eb56f99e1e2413728f86&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465402757.jpg?k=78bcf758edd643c7873a85c52cce53de932d486a192224924ed99f70757c95cc&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Family Room with Terrace"
+nearbyRestaurants:
+  - "Piccolino Beach 100 m"
+  - "Friends 150 m"
+nearbyBeaches:
+  - "Sarande Main Beach 200 m"
+  - "Saranda City Beach 900 m"
+  - "La Petite Beach 1.3 km"
+  - "Maestral Beach 1.5 km"
+  - "Saranda Bay Beach 1.6 km"
+whatsNearby:
+  - "Parc National de Butrint 2.6 km"
+  - "Butrint National Park 3.2 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Vera"
+    country: "Albania"
+    text: "“Perfect acommodation! Warm welcoming from the host. The location was excatly near the beach . Anything you needed around restaurants coffee or supermarket . The apartment was very clean. Recommended!!”"
+  - name: "Violeta"
+    country: "Greece"
+    text: "“Perfect location 150 metres from the beach . It was cozy and very clean . Eleftheria the host welcome us with warm and professional way . Recommended for sure till next year again !!!”"
+  - name: "Kateřina"
+    country: "Czech Republic"
+    text: "“The owner was very nice, and showed us the way to the appartment with a car personally. The appartment was very nice, clean, and we found everything we needed. The owner replied to our messages very fast each time, and whenever we needed...”"
+bookingURL: "https://www.booking.com/hotel/al/apartments-flower.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each unit is thoughtfully equipped with a private bathroom, complete with a shower and hair dryer, ensuring a comfortable stay. The added perk of complimentary WiFi allows guests to stay connected with the world or plan their next day's adventures without a hitch.
 
 For moments of tranquility, the garden at Apartments Flower offers a peaceful escape, inviting guests to unwind amidst nature's embrace.
 

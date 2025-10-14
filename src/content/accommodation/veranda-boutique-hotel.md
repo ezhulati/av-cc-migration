@@ -1,4 +1,85 @@
----\ntitle: "Veranda Boutique Hotel"\ndescription: "Veranda Boutique Hotel emerges as a charming retreat in the heart of Vlorë, a mere stone's throw away from the pristine Vlore Beach and the tranquil Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368681288.jpg?k=c3006087143cbb4d138497c566fc58651474c21fc84ee0fd9727f6bcf0c46b10&o=&hp=1"\nlanguage: en\nslug: veranda-boutique-hotel\naddress: "Rruga Jani Kosta Vlore, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.45175464\n  lng: 19.48878297\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 469\nratings:\n  overall: 9.2\n  location: 9.3\n  cleanliness: 9.4\n  facilities: 9.2\n  value: 8.9\n  comfort: 9.4\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368681288.jpg?k=c3006087143cbb4d138497c566fc58651474c21fc84ee0fd9727f6bcf0c46b10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492878860.jpg?k=4f24850cf841acf10c7683aa31716ad5e288a9e0807f01d4339bd4a29582d4c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469765406.jpg?k=f45211fd37c0fed19d79a68cf31ae1644b4eb78a09004869aba964d6084b9376&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469765306.jpg?k=199d2882a9353bdd50d32a98322f965a7d5f80f76b647fb58b7b06c5acba420b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374242284.jpg?k=88a9109b3bdf4bc82d7f1c444f8c60830e357d7dfa62951430222d1557800ecc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368149561.jpg?k=9dca7ee8f19f519017b4710f9e7ceb73c18295e9ff61718888732fd13f63f85a&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\n  - "Very good breakfast"\nroomTypes:\n  - "Double Room with Mountain View"\n  - "Deluxe Double Room with Balcony and Sea View"\n  - "Deluxe Triple Room with Sea View"\nnearbyRestaurants:\n  - "Bar Pizzeri and Crepes - Carraro 30 m"\n  - "Novus Traditional Food 50 m"\nnearbyBeaches:\n  - "Vlore Beach 550 m"\n  - "Vjetër Beach 600 m"\n  - "Ri Beach 1.9 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Scooby Doo Vlore 1.8 km"\n  - "Independence Square 2.1 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Raeleen"\n    country: "Canada"\n    text: "“We spent only one night, but we were impressed with the size and the comfort of our room. The staff were also really kind and helpful. The location is great with close access to the sea and lovely views across the bay.”"\n  - name: "Karen"\n    country: "United Kingdom"\n    text: "“Huge room, brill location sea views, friendly staff, nice breakfast”"\n  - name: "Hkn"\n    country: "Sweden"\n    text: "“very nice and friendly manager and staff, most helpful at any situations, easy to find parking near hotel (at this time of year, october) of our three hotel stay in Albania, this was the best breakfast, very good location near beach”"\nbookingURL: "https://www.booking.com/hotel/al/veranda-boutique.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nA mere 2.2 km from the inviting sands of Ri Beach and closely situated to the historical landmarks of Independence Square and Kuzum Baba, Veranda Boutique Hotel serves as an ideal base for explorers keen to immerse themselves in the local culture and natural beauty of the area. The hotel prides itself on offering well-appointed rooms, each featuring a balcony that presents a picturesque view of the city's vibrant life. 
+---
+title: "Veranda Boutique Hotel"
+description: "Veranda Boutique Hotel emerges as a charming retreat in the heart of Vlorë, a mere stone's throw away from the pristine Vlore Beach and the tranquil Vjetër Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368681288.jpg?k=c3006087143cbb4d138497c566fc58651474c21fc84ee0fd9727f6bcf0c46b10&o=&hp=1"
+language: en
+slug: veranda-boutique-hotel
+address: "Rruga Jani Kosta Vlore, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.45175464
+  lng: 19.48878297
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 469
+ratings:
+  overall: 9.2
+  location: 9.3
+  cleanliness: 9.4
+  facilities: 9.2
+  value: 8.9
+  comfort: 9.4
+  staff: 9.6
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368681288.jpg?k=c3006087143cbb4d138497c566fc58651474c21fc84ee0fd9727f6bcf0c46b10&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492878860.jpg?k=4f24850cf841acf10c7683aa31716ad5e288a9e0807f01d4339bd4a29582d4c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469765406.jpg?k=f45211fd37c0fed19d79a68cf31ae1644b4eb78a09004869aba964d6084b9376&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469765306.jpg?k=199d2882a9353bdd50d32a98322f965a7d5f80f76b647fb58b7b06c5acba420b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374242284.jpg?k=88a9109b3bdf4bc82d7f1c444f8c60830e357d7dfa62951430222d1557800ecc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368149561.jpg?k=9dca7ee8f19f519017b4710f9e7ceb73c18295e9ff61718888732fd13f63f85a&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Tea/coffee maker in all rooms"
+  - "Very good breakfast"
+roomTypes:
+  - "Double Room with Mountain View"
+  - "Deluxe Double Room with Balcony and Sea View"
+  - "Deluxe Triple Room with Sea View"
+nearbyRestaurants:
+  - "Bar Pizzeri and Crepes - Carraro 30 m"
+  - "Novus Traditional Food 50 m"
+nearbyBeaches:
+  - "Vlore Beach 550 m"
+  - "Vjetër Beach 600 m"
+  - "Ri Beach 1.9 km"
+  - "Beach at Government Villas 3.5 km"
+  - "Liro Beach 4.1 km"
+whatsNearby:
+  - "Kuzum Baba 1.8 km"
+  - "Scooby Doo Vlore 1.8 km"
+  - "Independence Square 2.1 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Raeleen"
+    country: "Canada"
+    text: "“We spent only one night, but we were impressed with the size and the comfort of our room. The staff were also really kind and helpful. The location is great with close access to the sea and lovely views across the bay.”"
+  - name: "Karen"
+    country: "United Kingdom"
+    text: "“Huge room, brill location sea views, friendly staff, nice breakfast”"
+  - name: "Hkn"
+    country: "Sweden"
+    text: "“very nice and friendly manager and staff, most helpful at any situations, easy to find parking near hotel (at this time of year, october) of our three hotel stay in Albania, this was the best breakfast, very good location near beach”"
+bookingURL: "https://www.booking.com/hotel/al/veranda-boutique.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+A mere 2.2 km from the inviting sands of Ri Beach and closely situated to the historical landmarks of Independence Square and Kuzum Baba, Veranda Boutique Hotel serves as an ideal base for explorers keen to immerse themselves in the local culture and natural beauty of the area. The hotel prides itself on offering well-appointed rooms, each featuring a balcony that presents a picturesque view of the city's vibrant life. 
 
 Guests can expect to find in their accommodations all the necessities for a comfortable stay, including air conditioning, ample storage, a coffee machine, a refrigerator, and a secure safety deposit box. Entertainment and connectivity are ensured with a flat-screen TV and free WiFi access, while the private bathroom with a shower adds an extra layer of privacy and convenience. Select rooms elevate the experience further with sweeping sea views and inviting patios, making every morning a delightful awakening.
 

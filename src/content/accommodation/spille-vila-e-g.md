@@ -1,4 +1,84 @@
----\ntitle: "Spille Vila E&G"\ndescription: "Spille Vila E&G emerges as a serene retreat, located a mere 32 km away from the historic Rock of Kavaje and just a short 1."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\nlanguage: en\nslug: spille-vila-e-g\naddress: "RRUGA E PORTOKALLEVE, 2510 Spille, Albania"\ncity: "Spille"\nlocation: "Spille"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.09730832\n  lng: 19.47381112\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 72\nratings:\n  overall: 9.4\n  location: 8.4\n  cleanliness: 9.4\n  facilities: 9.2\n  value: 9.8\n  comfort: 9.3\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/cz/331344fc12453ef26747d18151eaa5497dc651e9.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://graph.facebook.com/v2.9/10205682163330136/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/pr/0b72020a91703fa1497069f68cc581825d6d772d.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/xdata/images/xphoto/square64/288982315.webp?k=8cb544102d229ae2b2474738571d9d943764d8d29c7fdfe798df2f6a43b3f927&o=?t=1699468027"\n  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Posh Beach 1.5 km"\n  - "Grill House Kalaja 6 km"\nnearbyBeaches:\n  - "Spille Beach 1.3 km"\n  - "General Beach 3.8 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 4.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 39 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Rachele"\n    country: "United Kingdom"\n    text: "“From the moment we arrived our hosts went above and beyond to make our stay perfect. Our room was spotlessly clean, the swimming pool was lovely and kept our 10 year old Daughter happy. Everything you could possibly need has been thought of. Our...”"\n  - name: "Sureya"\n    country: "Netherlands"\n    text: "“The ladies where really friendly, the garden was beautiful and there even is a swimming pool. The apartement was clean and well equipped. They also offered us food and drinks. Would go here again.”"\n  - name: "Kareldrtic"\n    country: "Czech Republic"\n    text: "“We were here with family and friends, it is two apartments next to each other with a shared pool, relax zone and garden. So if you plan to go two families (or two groups) as it was in our case, it is just an absolute beauty.”"\nbookingURL: "https://www.booking.com/hotel/al/spille.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nUpon arrival, visitors are greeted by the lush surroundings of a meticulously maintained garden, complete with barbecue facilities, perfect for an evening of leisure under the stars. Security is paramount, with full-day monitoring ensuring a worry-free stay. The property boasts breathtaking views of both the garden and an inner courtyard, creating an atmosphere of tranquil seclusion.
+---
+title: "Spille Vila E&G"
+description: "Spille Vila E&G emerges as a serene retreat, located a mere 32 km away from the historic Rock of Kavaje and just a short 1."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+language: en
+slug: spille-vila-e-g
+address: "RRUGA E PORTOKALLEVE, 2510 Spille, Albania"
+city: "Spille"
+location: "Spille"
+accommodationType: "villa"
+coordinates:
+  lat: 41.09730832
+  lng: 19.47381112
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 72
+ratings:
+  overall: 9.4
+  location: 8.4
+  cleanliness: 9.4
+  facilities: 9.2
+  value: 9.8
+  comfort: 9.3
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+  - "https://cf.bstatic.com/static/img/flags/12/cz/331344fc12453ef26747d18151eaa5497dc651e9.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://graph.facebook.com/v2.9/10205682163330136/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/pr/0b72020a91703fa1497069f68cc581825d6d772d.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/xdata/images/xphoto/square64/288982315.webp?k=8cb544102d229ae2b2474738571d9d943764d8d29c7fdfe798df2f6a43b3f927&o=?t=1699468027"
+  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+amenities:
+  - "Outdoor swimming pool"
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Posh Beach 1.5 km"
+  - "Grill House Kalaja 6 km"
+nearbyBeaches:
+  - "Spille Beach 1.3 km"
+  - "General Beach 3.8 km"
+whatsNearby:
+  - "Divjake-Karavasta National Park 4.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 39 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Rachele"
+    country: "United Kingdom"
+    text: "“From the moment we arrived our hosts went above and beyond to make our stay perfect. Our room was spotlessly clean, the swimming pool was lovely and kept our 10 year old Daughter happy. Everything you could possibly need has been thought of. Our...”"
+  - name: "Sureya"
+    country: "Netherlands"
+    text: "“The ladies where really friendly, the garden was beautiful and there even is a swimming pool. The apartement was clean and well equipped. They also offered us food and drinks. Would go here again.”"
+  - name: "Kareldrtic"
+    country: "Czech Republic"
+    text: "“We were here with family and friends, it is two apartments next to each other with a shared pool, relax zone and garden. So if you plan to go two families (or two groups) as it was in our case, it is just an absolute beauty.”"
+bookingURL: "https://www.booking.com/hotel/al/spille.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Upon arrival, visitors are greeted by the lush surroundings of a meticulously maintained garden, complete with barbecue facilities, perfect for an evening of leisure under the stars. Security is paramount, with full-day monitoring ensuring a worry-free stay. The property boasts breathtaking views of both the garden and an inner courtyard, creating an atmosphere of tranquil seclusion.
 
 Accommodations at Spille Vila E&G are designed with comfort and convenience in mind. Each unit is equipped with air conditioning, ensuring a cool respite from the warm Mediterranean climate. Entertainment is readily available through the flat-screen TV with satellite channels, and the inclusion of a fully equipped kitchen and dining area allows guests the freedom to prepare their own meals at their leisure. The safety deposit box adds an extra layer of security for personal belongings.
 

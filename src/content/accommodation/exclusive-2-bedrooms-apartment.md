@@ -1,5 +1,93 @@
----\ntitle: "Exclusive 2 Bedrooms Apartment"\ndescription: "Exclusive 2 Bedrooms Apartment in Tirana offers a refreshing oasis for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426887923.jpg?k=e7de4269c6677043e9d2b7d1f3ad253b38d577bde92e862f19a0a738f9979aa0&o=&hp=1"\nlanguage: en\nslug: exclusive-2-bedrooms-apartment\naddress: "Rruga Hysni Gerbolli Pallati nr 5, kati 2, apartamenti nr 14, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33489605\n  lng: 19.80366596\nprice: "US$71"\npriceFrom: 71\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 13\nratings:\n  overall: 9.1\n  location: 8.7\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 9\n  comfort: 9.6\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426887923.jpg?k=e7de4269c6677043e9d2b7d1f3ad253b38d577bde92e862f19a0a738f9979aa0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426901670.jpg?k=27f44f4b347e75ba3ba4d0ef019f19d024fd6080a7653268d126bb497df18cd3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426906955.jpg?k=9b7918647bd74615b29fdd40b15c6c1c4cfc3e4bfb10654fff25ccc147e2e1ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426894243.jpg?k=e97b879bcc73a9068e373c56597db0a02a71d14efee19c5dbb65db33d1e77ea6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426890121.jpg?k=3063d08a832becf7f416d3c69ae1c19353125db5e986915c1464300f598a293e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426889537.jpg?k=78e605a044c64ebdd88ed3f82e2d53c33fe1ae775f06da9252408f2d9878cac0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426889434.jpg?k=1a122e2fe5c1592c1ffed30d11b54ed1ca865f78ce746db172374c4c4a04b255&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426889152.jpg?k=952e7dfed9bf899b648333614c399c560ba1f98c839aa658d45853f6afd7e2e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426888940.jpg?k=317588a6c496799a42d2b9ee01e31ad2b76c7a5e6bd7041942619d3f48503b3b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.4 km"\n  - "Skanderbeg Square 1.5 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "Rinia Park 1.7 km"\n  - "National Gallery of Arts Tirana 1.7 km"\n  - "Former Residence of Enver Hoxha 1.9 km"\n  - "Tanners' Bridge 2.1 km"\n  - "Grand Park of Tirana 3.1 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Zgara e Prizrenit 100 m"\n  - "Agon Caffe 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Don Bosko 200 m"\n  - "Sheshi Rekreativ Mine Peza 250 m"\n  - "Sheshi Rekreativ Parku 1Km 750 m"\n  - "Sheshi Rekreativ Lord Bajron 900 m"\n  - "Sheshi Paris 1.1 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.3 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.3 km"\n  - "National Museum of History Albania 1.3 km"\n  - "Amazing Nature 1.3 km"\n  - "Sheshi Rekreativ Sali Butka 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Yun"\n    country: "Germany"\n    text: "“the apartment was spacious and mostly clean, furnishing was modern and new.
-Communication was super easy and fast.”"\n  - name: "Matteo"\n    country: "Italy"\n    text: "“casa accogliente e moderna Ottima la presenza di aria condizionata e wifi”"\n  - name: "Dimitris"\n    country: "Germany"\n    text: "“Die moderne Ausstattung der Wohnung und die zentrale Lage hat uns gut gefallen. Die Wohnung hat ein sehr gutes Preis-Leistungsverhältnis.”"\nbookingURL: "https://www.booking.com/hotel/al/exclusive-2-bedroom-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to thoughtful design and comfort, featuring two generously sized bedrooms and two well-appointed bathrooms. Every detail, from the crisp bed linen to the plush towels, is curated to enhance guests' stay. The living space is complemented by a flat-screen TV equipped with streaming services, ensuring entertainment is always at hand. The dining area and a fully equipped kitchen offer the freedom to dine in, making it perfect for those who enjoy a home-cooked meal even while on the go. The balcony, with its tranquil garden views, serves as a private haven where guests can unwind and soak in the serene atmosphere.
+---
+title: "Exclusive 2 Bedrooms Apartment"
+description: "Exclusive 2 Bedrooms Apartment in Tirana offers a refreshing oasis for travelers seeking both convenience and comfort."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426887923.jpg?k=e7de4269c6677043e9d2b7d1f3ad253b38d577bde92e862f19a0a738f9979aa0&o=&hp=1"
+language: en
+slug: exclusive-2-bedrooms-apartment
+address: "Rruga Hysni Gerbolli Pallati nr 5, kati 2, apartamenti nr 14, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33489605
+  lng: 19.80366596
+price: "US$71"
+priceFrom: 71
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 13
+ratings:
+  overall: 9.1
+  location: 8.7
+  cleanliness: 9.2
+  facilities: 9.2
+  value: 9
+  comfort: 9.6
+  staff: 9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426887923.jpg?k=e7de4269c6677043e9d2b7d1f3ad253b38d577bde92e862f19a0a738f9979aa0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426901670.jpg?k=27f44f4b347e75ba3ba4d0ef019f19d024fd6080a7653268d126bb497df18cd3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426906955.jpg?k=9b7918647bd74615b29fdd40b15c6c1c4cfc3e4bfb10654fff25ccc147e2e1ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426894243.jpg?k=e97b879bcc73a9068e373c56597db0a02a71d14efee19c5dbb65db33d1e77ea6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426890121.jpg?k=3063d08a832becf7f416d3c69ae1c19353125db5e986915c1464300f598a293e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426889537.jpg?k=78e605a044c64ebdd88ed3f82e2d53c33fe1ae775f06da9252408f2d9878cac0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426889434.jpg?k=1a122e2fe5c1592c1ffed30d11b54ed1ca865f78ce746db172374c4c4a04b255&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426889152.jpg?k=952e7dfed9bf899b648333614c399c560ba1f98c839aa658d45853f6afd7e2e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426888940.jpg?k=317588a6c496799a42d2b9ee01e31ad2b76c7a5e6bd7041942619d3f48503b3b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.4 km"
+  - "Skanderbeg Square 1.5 km"
+  - "Clock Tower Tirana 1.6 km"
+  - "Rinia Park 1.7 km"
+  - "National Gallery of Arts Tirana 1.7 km"
+  - "Former Residence of Enver Hoxha 1.9 km"
+  - "Tanners' Bridge 2.1 km"
+  - "Grand Park of Tirana 3.1 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Zgara e Prizrenit 100 m"
+  - "Agon Caffe 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Don Bosko 200 m"
+  - "Sheshi Rekreativ Mine Peza 250 m"
+  - "Sheshi Rekreativ Parku 1Km 750 m"
+  - "Sheshi Rekreativ Lord Bajron 900 m"
+  - "Sheshi Paris 1.1 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 1.3 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.3 km"
+  - "National Museum of History Albania 1.3 km"
+  - "Amazing Nature 1.3 km"
+  - "Sheshi Rekreativ Sali Butka 1.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Yun"
+    country: "Germany"
+    text: "“the apartment was spacious and mostly clean, furnishing was modern and new.
+Communication was super easy and fast.”"
+  - name: "Matteo"
+    country: "Italy"
+    text: "“casa accogliente e moderna Ottima la presenza di aria condizionata e wifi”"
+  - name: "Dimitris"
+    country: "Germany"
+    text: "“Die moderne Ausstattung der Wohnung und die zentrale Lage hat uns gut gefallen. Die Wohnung hat ein sehr gutes Preis-Leistungsverhältnis.”"
+bookingURL: "https://www.booking.com/hotel/al/exclusive-2-bedroom-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to thoughtful design and comfort, featuring two generously sized bedrooms and two well-appointed bathrooms. Every detail, from the crisp bed linen to the plush towels, is curated to enhance guests' stay. The living space is complemented by a flat-screen TV equipped with streaming services, ensuring entertainment is always at hand. The dining area and a fully equipped kitchen offer the freedom to dine in, making it perfect for those who enjoy a home-cooked meal even while on the go. The balcony, with its tranquil garden views, serves as a private haven where guests can unwind and soak in the serene atmosphere.
 
 Adding to the convenience, the apartment boasts a private entrance, ensuring an exclusive and undisturbed experience. The inclusion of a lift and private check-in and check-out services underscores the commitment to guest comfort and privacy. The entire property is a non-smoking zone, maintaining a clean and healthy environment for all guests.
 

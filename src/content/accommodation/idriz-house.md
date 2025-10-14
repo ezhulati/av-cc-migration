@@ -1,4 +1,64 @@
----\ntitle: "IDRIZ HOUSE"\ndescription: "IDRIZ HOUSE emerges as a prime choice for travelers seeking a serene retreat in Durrës, strategically positioned to offer both tranquility and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500730510.jpg?k=a420c955b9a63af3fb6ff521fbbd5934d6bfc51851625b63bef60bf32ca6b2e9&o=&hp=1"\nlanguage: en\nslug: idriz-house\naddress: "Rruga Pavaresia, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30410599\n  lng: 19.49364544\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500730510.jpg?k=a420c955b9a63af3fb6ff521fbbd5934d6bfc51851625b63bef60bf32ca6b2e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730506.jpg?k=b40514479c9a2c2f6ec66052c0e4db01df6b5fdfb9637bf7ad824eb50117f4a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730513.jpg?k=073a69cf64c02e1e4282a861f1bdc79df7bd776a05a4fb7632a37df44d7ee04e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730516.jpg?k=a5dd78b2faf6c3eb6cdfc7b10cf18eb8eeaafeca729f5da9fac07ad463e18735&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730519.jpg?k=64cf1ea3431965883c242cd464fc7ef061d122598a2d0d62ce5e8725b409a600&o=&hp=1"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Dyrrah Mare Bar 50 m"\n  - "Elita Tetove 50 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Shkëmbi i Kavajës Beach 2.4 km"\n  - "Currila Beach 3.9 km"\n  - "Golem Beach 4.8 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 3 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.1 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "1. Maj 4.3 km"\n  - "Sotir Noka 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/idriz-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms that cater to rest and relaxation. A fully equipped kitchen allows guests the freedom to craft meals suited to their taste, adding a touch of home comfort to the travel experience. The inclusion of a modern bathroom further ensures a stay marked by convenience and luxury.
+---
+title: "IDRIZ HOUSE"
+description: "IDRIZ HOUSE emerges as a prime choice for travelers seeking a serene retreat in Durrës, strategically positioned to offer both tranquility and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500730510.jpg?k=a420c955b9a63af3fb6ff521fbbd5934d6bfc51851625b63bef60bf32ca6b2e9&o=&hp=1"
+language: en
+slug: idriz-house
+address: "Rruga Pavaresia, Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30410599
+  lng: 19.49364544
+price: "US$43"
+priceFrom: 43
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500730510.jpg?k=a420c955b9a63af3fb6ff521fbbd5934d6bfc51851625b63bef60bf32ca6b2e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730506.jpg?k=b40514479c9a2c2f6ec66052c0e4db01df6b5fdfb9637bf7ad824eb50117f4a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730513.jpg?k=073a69cf64c02e1e4282a861f1bdc79df7bd776a05a4fb7632a37df44d7ee04e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730516.jpg?k=a5dd78b2faf6c3eb6cdfc7b10cf18eb8eeaafeca729f5da9fac07ad463e18735&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500730519.jpg?k=64cf1ea3431965883c242cd464fc7ef061d122598a2d0d62ce5e8725b409a600&o=&hp=1"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Dyrrah Mare Bar 50 m"
+  - "Elita Tetove 50 m"
+nearbyBeaches:
+  - "Durres Beach 100 m"
+  - "Shkëmbi i Kavajës Beach 2.4 km"
+  - "Currila Beach 3.9 km"
+  - "Golem Beach 4.8 km"
+  - "Kallmi Beach 5 km"
+whatsNearby:
+  - "Bekimi 3 km"
+  - "Wine Dhe Pooh 4 km"
+  - "Sheshi Demokracia 4.1 km"
+  - "Yje Dhe Hena 4.1 km"
+  - "Durres Amphiteatre 4.2 km"
+  - "1. Maj 4.3 km"
+  - "Sotir Noka 4.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+bookingURL: "https://www.booking.com/hotel/al/idriz-house.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself boasts a thoughtful layout, featuring two well-appointed bedrooms that cater to rest and relaxation. A fully equipped kitchen allows guests the freedom to craft meals suited to their taste, adding a touch of home comfort to the travel experience. The inclusion of a modern bathroom further ensures a stay marked by convenience and luxury.
 
 Beyond its immediate comforts, IDRIZ HOUSE serves as an ideal base for explorers keen to immerse themselves in the rich tapestry of the region. Historical landmarks such as the Durres Amphitheatre, only 7.2 km away, offer a glimpse into the area's storied past. Meanwhile, the proximity to Skanderbeg Square and the National Museum of History Albania, both within 39 km, provides ample opportunity for cultural enrichment.
 

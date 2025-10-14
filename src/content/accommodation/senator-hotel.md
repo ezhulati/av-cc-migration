@@ -1,5 +1,96 @@
----\ntitle: "Senator Hotel"\ndescription: "Senator Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78793110.jpg?k=1fa6c2b50d54137985659c4c0a23ef9b07a62354e0fc673b8681377e0e9e3515&o=&hp=1"\nlanguage: en\nslug: senator-hotel\naddress: "Rruga Fortuzi 47, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3324305\n  lng: 19.81534676\nprice: "US$68"\npriceFrom: 68\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 1741\nratings:\n  overall: 9\n  location: 9.2\n  cleanliness: 8.9\n  facilities: 8.6\n  value: 8.8\n  comfort: 8.9\n  staff: 9.3\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78793110.jpg?k=1fa6c2b50d54137985659c4c0a23ef9b07a62354e0fc673b8681377e0e9e3515&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361644004.jpg?k=2f1a59d56490ab8a8b52374e6ab6042096b404c24eec896b3efd4db39c283c7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486511374.jpg?k=a5abda7c6a685591e8835cfe83aafae94a752566e0f02a6cb0d759c5dbdf0d2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69918405.jpg?k=f6af1372fd8952598553a6ae6bc59d31e9c463030024f647c51a5276d9086723&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361653380.jpg?k=20e88caccbd5b62cfc7e1597c84b60586b1a59ff353f9aa25f167adb1d5ef317&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486511566.jpg?k=f3e0f398fa0f0e508c7dca4e7a7719cc1b8daaf97eacc5bb94558465c750317f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Good breakfast"\nroomTypes:\n  - "Standard Double or Twin Room"\n  - "Superior Double or Twin Room with Balcony"\n  - "Double Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 800 m"\n  - "Rinia Park 900 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Tak Fak 50 m"\n  - "Lissus Fish 100 m"\nwhatsNearby:\n  - "Amazing Nature 350 m"\n  - "Sheshi Paris 350 m"\n  - "National Museum of History Albania 350 m"\n  - "Sheshi Skënderbej 500 m"\n  - "Skanderbeg Square 600 m"\n  - "Parku Europa 650 m"\n  - "Clock Tower Tirana 650 m"\n  - "House of Leaves 650 m"\n  - "Sheshi Rekreativ Mine Peza 700 m"\n  - "Sheshi Sulejman Pasha 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Shahad"\n    country: "United Kingdom"\n    text: "“The room was big and clean. The location was amazing and the staff were super”"\n  - name: "Sten84"\n    country: "Germany"\n    text: "“Staff - Location - Cleanliness - Strong WiFi signal. Loved the bed mattress quality!
-Very central location, close to everything in city centre just by walking. Bus to airport is only about 10 min walk from the Hotel, as well as The Opera House,...”"\n  - name: "Mr"\n    country: "United Kingdom"\n    text: "“Perfect location, friendly staff, clean and lovely breakfast.”"\nbookingURL: "https://www.booking.com/hotel/al/senator.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe property boasts a modern infrastructure with complimentary WiFi accessible throughout, ensuring guests stay connected during their travels. Each room at Senator Hotel is a haven of comfort, equipped with air conditioning, a flat-screen cable TV, a minibar, and a safe, catering to the needs of the contemporary traveler. The private bathrooms are well-appointed with a shower, a hairdryer, and complimentary toiletries, adding an extra layer of convenience to the guest experience.
+---
+title: "Senator Hotel"
+description: "Senator Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78793110.jpg?k=1fa6c2b50d54137985659c4c0a23ef9b07a62354e0fc673b8681377e0e9e3515&o=&hp=1"
+language: en
+slug: senator-hotel
+address: "Rruga Fortuzi 47, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.3324305
+  lng: 19.81534676
+price: "US$68"
+priceFrom: 68
+starRating: 4
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 1741
+ratings:
+  overall: 9
+  location: 9.2
+  cleanliness: 8.9
+  facilities: 8.6
+  value: 8.8
+  comfort: 8.9
+  staff: 9.3
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78793110.jpg?k=1fa6c2b50d54137985659c4c0a23ef9b07a62354e0fc673b8681377e0e9e3515&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361644004.jpg?k=2f1a59d56490ab8a8b52374e6ab6042096b404c24eec896b3efd4db39c283c7e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486511374.jpg?k=a5abda7c6a685591e8835cfe83aafae94a752566e0f02a6cb0d759c5dbdf0d2f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69918405.jpg?k=f6af1372fd8952598553a6ae6bc59d31e9c463030024f647c51a5276d9086723&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361653380.jpg?k=20e88caccbd5b62cfc7e1597c84b60586b1a59ff353f9aa25f167adb1d5ef317&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486511566.jpg?k=f3e0f398fa0f0e508c7dca4e7a7719cc1b8daaf97eacc5bb94558465c750317f&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Facilities for disabled guests"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Good breakfast"
+roomTypes:
+  - "Standard Double or Twin Room"
+  - "Superior Double or Twin Room with Balcony"
+  - "Double Room"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 800 m"
+  - "Rinia Park 900 m"
+  - "Tanners' Bridge 1.1 km"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.4 km"
+  - "Bunk'Art 1 Museum 4.3 km"
+nearbyRestaurants:
+  - "Tak Fak 50 m"
+  - "Lissus Fish 100 m"
+whatsNearby:
+  - "Amazing Nature 350 m"
+  - "Sheshi Paris 350 m"
+  - "National Museum of History Albania 350 m"
+  - "Sheshi Skënderbej 500 m"
+  - "Skanderbeg Square 600 m"
+  - "Parku Europa 650 m"
+  - "Clock Tower Tirana 650 m"
+  - "House of Leaves 650 m"
+  - "Sheshi Rekreativ Mine Peza 700 m"
+  - "Sheshi Sulejman Pasha 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Shahad"
+    country: "United Kingdom"
+    text: "“The room was big and clean. The location was amazing and the staff were super”"
+  - name: "Sten84"
+    country: "Germany"
+    text: "“Staff - Location - Cleanliness - Strong WiFi signal. Loved the bed mattress quality!
+Very central location, close to everything in city centre just by walking. Bus to airport is only about 10 min walk from the Hotel, as well as The Opera House,...”"
+  - name: "Mr"
+    country: "United Kingdom"
+    text: "“Perfect location, friendly staff, clean and lovely breakfast.”"
+bookingURL: "https://www.booking.com/hotel/al/senator.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The property boasts a modern infrastructure with complimentary WiFi accessible throughout, ensuring guests stay connected during their travels. Each room at Senator Hotel is a haven of comfort, equipped with air conditioning, a flat-screen cable TV, a minibar, and a safe, catering to the needs of the contemporary traveler. The private bathrooms are well-appointed with a shower, a hairdryer, and complimentary toiletries, adding an extra layer of convenience to the guest experience.
 
 For those looking to maintain their impeccable style or in need of a refresh, the on-site hairdresser service stands ready to pamper. Additionally, the hotel simplifies travel logistics by offering car hire services, making exploration of Tirana and beyond a breeze.
 

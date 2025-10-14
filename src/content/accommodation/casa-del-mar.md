@@ -1,6 +1,105 @@
----\ntitle: "Casa Del Mar"\ndescription: "Casa Del Mar emerges as a serene oasis in Ksamil, boasting an enviable location mere steps from the pristine sands of Ksamil Beach 9 and a short stroll from the idyllic Paradise Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622408.jpg?k=7fe0bc145e8a7f376e54a30d25039e69e91f4df1debd03f9c7016fdf5f7952ae&o=&hp=1"\nlanguage: en\nslug: casa-del-mar\naddress: "Rruga Çamëria, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76568248\n  lng: 19.99851778\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 52\nratings:\n  overall: 8.9\n  location: 9.2\n  cleanliness: 8.9\n  facilities: 8.5\n  value: 8.5\n  comfort: 8.8\n  staff: 8.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622408.jpg?k=7fe0bc145e8a7f376e54a30d25039e69e91f4df1debd03f9c7016fdf5f7952ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622587.jpg?k=ee43e4f994fdc674eb2e3ad77f51b3ee34a4c04469a1373a9576786c005f0e0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622575.jpg?k=5f64c31dd6fa0d5c5a2cdeaf551f42462b9087168c5eb906c0622646f27587e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459742240.jpg?k=88a0f4678c5e919eea0831f0b170715be677166154467e52432ccdf0f3c8829e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459742525.jpg?k=c5902ab8f728264a2b4a3ac4548de650399692a24e24f6677b9b9c320443ee59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473996170.jpg?k=8db60be01e56e5edbe3541de538d4a49095caef21a693c56053697fe45720b03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473995915.jpg?k=e7231e911a7bac13f8c571c8829126dd3540599736e9989382da5253e84cbe4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459773110.jpg?k=96b601509b9e968f8e613b47011433fc3eee1ec51f7dfeb9ae6ca5068930b43f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459772725.jpg?k=07ad67cd7bc0cccfd53f77a622a6c90ce200f75563e936e8cbeca4db74284fa0&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Basic free WiFi (12 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "Tulum Principotes Ksamil 100 m"\n  - "La Playa Tex Mex 150 m"\nnearbyBeaches:\n  - "Paradise Beach 200 m"\n  - "Ksamil Beach 9 200 m"\n  - "Lori Beach 350 m"\n  - "Puerto Rico Beach 400 m"\n  - "Bora Bora Beach 600 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 400 m"\n  - "Butrint National Park 2.9 km"\n  - "Plazhi I Krorezes 3.8 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Albert"\n    country: "Poland"\n    text: "“People there were very helpful, conditions are very good, place had a high standard”"\n  - name: "Christian"\n    country: "Norway"\n    text: "“The garden is a well kept oasis in a quiet area. The appartement was very nice. Our impression was also that Sara (the manager) would help and assist us in any way possible. It was well proved in the end. As we were about to leave, our battery was...”"\n  - name: "Kellie"\n    country: "Australia"\n    text: "“Everything!
+---
+title: "Casa Del Mar"
+description: "Casa Del Mar emerges as a serene oasis in Ksamil, boasting an enviable location mere steps from the pristine sands of Ksamil Beach 9 and a short stroll from the idyllic Paradise Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622408.jpg?k=7fe0bc145e8a7f376e54a30d25039e69e91f4df1debd03f9c7016fdf5f7952ae&o=&hp=1"
+language: en
+slug: casa-del-mar
+address: "Rruga Çamëria, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.76568248
+  lng: 19.99851778
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 52
+ratings:
+  overall: 8.9
+  location: 9.2
+  cleanliness: 8.9
+  facilities: 8.5
+  value: 8.5
+  comfort: 8.8
+  staff: 8.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622408.jpg?k=7fe0bc145e8a7f376e54a30d25039e69e91f4df1debd03f9c7016fdf5f7952ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622587.jpg?k=ee43e4f994fdc674eb2e3ad77f51b3ee34a4c04469a1373a9576786c005f0e0c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622575.jpg?k=5f64c31dd6fa0d5c5a2cdeaf551f42462b9087168c5eb906c0622646f27587e5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459742240.jpg?k=88a0f4678c5e919eea0831f0b170715be677166154467e52432ccdf0f3c8829e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459742525.jpg?k=c5902ab8f728264a2b4a3ac4548de650399692a24e24f6677b9b9c320443ee59&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473996170.jpg?k=8db60be01e56e5edbe3541de538d4a49095caef21a693c56053697fe45720b03&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473995915.jpg?k=e7231e911a7bac13f8c571c8829126dd3540599736e9989382da5253e84cbe4b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459773110.jpg?k=96b601509b9e968f8e613b47011433fc3eee1ec51f7dfeb9ae6ca5068930b43f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459772725.jpg?k=07ad67cd7bc0cccfd53f77a622a6c90ce200f75563e936e8cbeca4db74284fa0&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Basic free WiFi (12 Mbps)"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Breakfast"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 17 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 18 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 19 km"
+nearbyRestaurants:
+  - "Tulum Principotes Ksamil 100 m"
+  - "La Playa Tex Mex 150 m"
+nearbyBeaches:
+  - "Paradise Beach 200 m"
+  - "Ksamil Beach 9 200 m"
+  - "Lori Beach 350 m"
+  - "Puerto Rico Beach 400 m"
+  - "Bora Bora Beach 600 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 400 m"
+  - "Butrint National Park 2.9 km"
+  - "Plazhi I Krorezes 3.8 km"
+  - "Parc National de Butrint 11 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Albert"
+    country: "Poland"
+    text: "“People there were very helpful, conditions are very good, place had a high standard”"
+  - name: "Christian"
+    country: "Norway"
+    text: "“The garden is a well kept oasis in a quiet area. The appartement was very nice. Our impression was also that Sara (the manager) would help and assist us in any way possible. It was well proved in the end. As we were about to leave, our battery was...”"
+  - name: "Kellie"
+    country: "Australia"
+    text: "“Everything!
 The staff were amazing, very accommodating and kind.
-Accommodation was a great size, modern and clean”"\nbookingURL: "https://www.booking.com/hotel/al/beni-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Casa Del Mar are designed with families in mind, featuring spacious family rooms that open up to breathtaking pool vistas. Each apartment is a haven of comfort, offering a terrace for soaking in the surroundings, a cozy seating area for unwinding, a flat-screen TV for entertainment, and a fully equipped kitchen complete with an oven and toaster for home-cooked meals. The charm of outdoor dining is brought to life on the patio, set against a backdrop of lush garden views, while the convenience of a fridge in every unit adds to the homely feel.
+Accommodation was a great size, modern and clean”"
+bookingURL: "https://www.booking.com/hotel/al/beni-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Casa Del Mar are designed with families in mind, featuring spacious family rooms that open up to breathtaking pool vistas. Each apartment is a haven of comfort, offering a terrace for soaking in the surroundings, a cozy seating area for unwinding, a flat-screen TV for entertainment, and a fully equipped kitchen complete with an oven and toaster for home-cooked meals. The charm of outdoor dining is brought to life on the patio, set against a backdrop of lush garden views, while the convenience of a fridge in every unit adds to the homely feel.
 
 For moments of leisure, the property invites guests to explore its on-site bar or find tranquility in the beautifully landscaped garden. A children's playground ensures that younger guests are entertained, making Casa Del Mar a perfect retreat for families seeking a blend of relaxation and adventure.
 

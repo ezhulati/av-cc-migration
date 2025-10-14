@@ -14,8 +14,6 @@ seo:
   robots: "index"
   metaTitle: "Discover The %title% "
   metaDescription: "Discover the Ancient Cities and Civilizations of Albania's ancient ruins, myths and legends permeating this scenic country with rich culture and history. "
-  focusKeyword: "Ancient Cities and civilizations of Albania"
-  robots: "index"
 ---
 
 ## Albania's Ancient Heritage

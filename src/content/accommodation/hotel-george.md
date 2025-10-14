@@ -1,7 +1,90 @@
----\ntitle: "Hotel George"\ndescription: "Hotel George stands as a beacon of comfort and convenience in the heart of Korçë, a mere 45 km away from the serene Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281822978.jpg?k=686eb2e14ca110bcd111187eb7f3f9abcb134dd3186b178f0568d26750fd4002&o=&hp=1"\nlanguage: en\nslug: hotel-george\naddress: "Rruga Pavllo Sholla, 7303 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.608355\n  lng: 20.7956305\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 36\nratings:\n  overall: 8\n  location: 7.7\n  cleanliness: 7.9\n  facilities: 7.4\n  value: 7.7\n  comfort: 7.6\n  staff: 8.8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281822978.jpg?k=686eb2e14ca110bcd111187eb7f3f9abcb134dd3186b178f0568d26750fd4002&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281840215.jpg?k=4f90bf39b9973b37e69eb66d4af463c2f66051b1414392329d4700e2a87c2044&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281844446.jpg?k=265989babdad9bc4ba0618d675c59edc51581878568c69bbc89649f985e6e7af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281836656.jpg?k=913b2210723f2728d85535a24dfe811f609e705593b855d63ce5f81fdf167f58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281846144.jpg?k=14754a5f3ba9f7f47f1e88724c2f8dcde595145b79b2625e7bdf44ab3684f5c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281829278.jpg?k=5be916f61ea9b2f3f000899522d86d1248c3d99ffafb490463ae0b1e85831968&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Standard Double Room"\n  - "Double Room"\n  - "Family Room"\n  - "Quadruple Room"\n  - "Standard Family Room"\nnearbyRestaurants:\n  - "Birra Korça 450 m"\n  - "Birra Korça 550 m"\nwhatsNearby:\n  - "Sheshi Patriku Joasaf 1.3 km"\n  - "Field of Tears 1.6 km"\n  - "Parku Themistokli Gërmenji 1.6 km"\n  - "Parku Vangjush Mio 1.8 km"\n  - "Parku Rinia 1.8 km"\n  - "Parku Rinia 2.1 km"\n  - "Sheshi Panxhar 7 km"\n  - "Sheshi Koço Plaku 10 km"\n  - "Sheshi Penetori 14 km"\nairports:\n  - "Kastoria National Airport 43 km"\n  - "Ohrid Airport 62 km"\n  - "Kozani National Airport 95 km"\nreviews:\n  - name: "Murrani"\n    country: "Greece"\n    text: "“Το προσωπικό ήταν υπέροχη. Φιλοξενεί και πολύ ευγενική.”"\n  - name: "August"\n    country: "Germany"\n    text: "“Sehr gute und ruhige Lage um die Stadt zu besichtigen. Hotelpersonal sehr hilfsbereit und freundlich”"\n  - name: "Wolfram"\n    country: "Germany"\n    text: "“Lage gut,wenn man nichts in der Stadt will
+---
+title: "Hotel George"
+description: "Hotel George stands as a beacon of comfort and convenience in the heart of Korçë, a mere 45 km away from the serene Ohrid Lake Springs."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281822978.jpg?k=686eb2e14ca110bcd111187eb7f3f9abcb134dd3186b178f0568d26750fd4002&o=&hp=1"
+language: en
+slug: hotel-george
+address: "Rruga Pavllo Sholla, 7303 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.608355
+  lng: 20.7956305
+price: "US$37"
+priceFrom: 37
+starRating: 3
+rating: 8
+ratingWords: "Very Good"
+numberOfReviews: 36
+ratings:
+  overall: 8
+  location: 7.7
+  cleanliness: 7.9
+  facilities: 7.4
+  value: 7.7
+  comfort: 7.6
+  staff: 8.8
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281822978.jpg?k=686eb2e14ca110bcd111187eb7f3f9abcb134dd3186b178f0568d26750fd4002&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281840215.jpg?k=4f90bf39b9973b37e69eb66d4af463c2f66051b1414392329d4700e2a87c2044&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281844446.jpg?k=265989babdad9bc4ba0618d675c59edc51581878568c69bbc89649f985e6e7af&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281836656.jpg?k=913b2210723f2728d85535a24dfe811f609e705593b855d63ce5f81fdf167f58&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281846144.jpg?k=14754a5f3ba9f7f47f1e88724c2f8dcde595145b79b2625e7bdf44ab3684f5c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281829278.jpg?k=5be916f61ea9b2f3f000899522d86d1248c3d99ffafb490463ae0b1e85831968&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Twin Room"
+  - "Standard Double Room"
+  - "Double Room"
+  - "Family Room"
+  - "Quadruple Room"
+  - "Standard Family Room"
+nearbyRestaurants:
+  - "Birra Korça 450 m"
+  - "Birra Korça 550 m"
+whatsNearby:
+  - "Sheshi Patriku Joasaf 1.3 km"
+  - "Field of Tears 1.6 km"
+  - "Parku Themistokli Gërmenji 1.6 km"
+  - "Parku Vangjush Mio 1.8 km"
+  - "Parku Rinia 1.8 km"
+  - "Parku Rinia 2.1 km"
+  - "Sheshi Panxhar 7 km"
+  - "Sheshi Koço Plaku 10 km"
+  - "Sheshi Penetori 14 km"
+airports:
+  - "Kastoria National Airport 43 km"
+  - "Ohrid Airport 62 km"
+  - "Kozani National Airport 95 km"
+reviews:
+  - name: "Murrani"
+    country: "Greece"
+    text: "“Το προσωπικό ήταν υπέροχη. Φιλοξενεί και πολύ ευγενική.”"
+  - name: "August"
+    country: "Germany"
+    text: "“Sehr gute und ruhige Lage um die Stadt zu besichtigen. Hotelpersonal sehr hilfsbereit und freundlich”"
+  - name: "Wolfram"
+    country: "Germany"
+    text: "“Lage gut,wenn man nichts in der Stadt will
 grün (Garten )
 ruhig
-Restaurant im Haus”"\nbookingURL: "https://www.booking.com/hotel/al/george-korce.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAccommodations at Hotel George are thoughtfully designed with guest comfort in mind, featuring televisions equipped with cable channels for in-room entertainment and private bathrooms stocked with fresh bed linen. The hotel's commitment to catering to families is evident through its provision of spacious family rooms and a delightful children's playground, ensuring a pleasant stay for guests of all ages.
+Restaurant im Haus”"
+bookingURL: "https://www.booking.com/hotel/al/george-korce.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Accommodations at Hotel George are thoughtfully designed with guest comfort in mind, featuring televisions equipped with cable channels for in-room entertainment and private bathrooms stocked with fresh bed linen. The hotel's commitment to catering to families is evident through its provision of spacious family rooms and a delightful children's playground, ensuring a pleasant stay for guests of all ages.
 
 Dining at Hotel George is an experience in itself, with an on-site restaurant serving a variety of delectable dishes and a bar where guests can unwind with a drink. The added convenience of room service and a 24-hour front desk ensures that guests' needs are promptly met at any time of the day or night.
 

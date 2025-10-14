@@ -1,5 +1,68 @@
----\ntitle: "Erind Apartment"\ndescription: "Erind Apartment is a charming retreat in the heart of Berat, offering guests a cozy and intimate stay."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\nlanguage: en\nslug: erind-apartment\naddress: "Rruga Tafil Skëndo Objekti Nr.7, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70503057\n  lng: 19.93757112\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 9.2\n  facilities: 8.3\n  value: 9.2\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471836520.jpg?k=a7a3eca0029197edcc5e671a7273a81361e9af6cbde37279748d2c825b5ede54&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/471836360.jpg?k=a926bdba7f74998f2f8f492fec46066483b4753d21f61391e588a3efb06e1362&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/471836263.jpg?k=854cc80893ecdbd70be2890d53d078c996f0428170802b3d5605c61ae7868066&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464256166.jpg?k=4e865677d58d6fd0aed7b898e5c9a6043e0b820c284c058948ae21bf8ddf8af9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471836047.jpg?k=f2521a91c6e859d3b6a289a2e5106810d3ca27ddd6f538c5607cd37522b2daad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471835956.jpg?k=07e7ea7d54725c2a1edd5b2ceaf91ea23ac1fda84ec379b11f939243d369a793&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/471835812.jpg?k=da0b15258c9a19dcce7656f48bdb988917c7931a22238779b485c15dee50a2c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/464256190.jpg?k=12260e23d8db0176ed473555c902cde543c4186cad68ee1e8fc0a612820973c1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Eldorado 300 m"\n  - "Pasticeri Landi 400 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 10 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 85 km"\nreviews:\n  - name: "Clemens"\n    country: "Germany"\n    text: "“- A lot of space, huge living room with extra bed. Balcony with cooking area.
-- Near the center. - Friendly staff with good communication”"\nbookingURL: "https://www.booking.com/hotel/al/erind-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment features a well-appointed bedroom, complemented by a fully equipped kitchen for those who enjoy the comforts of home-cooked meals.
+---
+title: "Erind Apartment"
+description: "Erind Apartment is a charming retreat in the heart of Berat, offering guests a cozy and intimate stay."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+language: en
+slug: erind-apartment
+address: "Rruga Tafil Skëndo Objekti Nr.7, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.70503057
+  lng: 19.93757112
+price: "US$26"
+priceFrom: 26
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 3
+ratings:
+  overall: 8.8
+  location: 7.5
+  cleanliness: 9.2
+  facilities: 8.3
+  value: 9.2
+  comfort: 9.2
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471836520.jpg?k=a7a3eca0029197edcc5e671a7273a81361e9af6cbde37279748d2c825b5ede54&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/471836360.jpg?k=a926bdba7f74998f2f8f492fec46066483b4753d21f61391e588a3efb06e1362&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/471836263.jpg?k=854cc80893ecdbd70be2890d53d078c996f0428170802b3d5605c61ae7868066&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/464256166.jpg?k=4e865677d58d6fd0aed7b898e5c9a6043e0b820c284c058948ae21bf8ddf8af9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/471836047.jpg?k=f2521a91c6e859d3b6a289a2e5106810d3ca27ddd6f538c5607cd37522b2daad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/471835956.jpg?k=07e7ea7d54725c2a1edd5b2ceaf91ea23ac1fda84ec379b11f939243d369a793&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/471835812.jpg?k=da0b15258c9a19dcce7656f48bdb988917c7931a22238779b485c15dee50a2c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/464256190.jpg?k=12260e23d8db0176ed473555c902cde543c4186cad68ee1e8fc0a612820973c1&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Eldorado 300 m"
+  - "Pasticeri Landi 400 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 10 km"
+  - "Sheshi Tomorri 17 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 85 km"
+reviews:
+  - name: "Clemens"
+    country: "Germany"
+    text: "“- A lot of space, huge living room with extra bed. Balcony with cooking area.
+- Near the center. - Friendly staff with good communication”"
+bookingURL: "https://www.booking.com/hotel/al/erind-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This apartment features a well-appointed bedroom, complemented by a fully equipped kitchen for those who enjoy the comforts of home-cooked meals.
 
 Additionally, the convenience of a private bathroom adds to the comfort of this accommodation. 
 

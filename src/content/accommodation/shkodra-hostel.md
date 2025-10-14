@@ -1,5 +1,79 @@
----\ntitle: "Shkodra Hostel"\ndescription: "Shkodra Hostel emerges as a beacon of comfort and convenience for travelers exploring Shkodër, located within a manageable distance of 49 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488426908.jpg?k=22b75122e6f7f634dcc908fd8818948611d109a38f1361a498ca113143e7267d&o=&hp=1"\nlanguage: en\nslug: shkodra-hostel\naddress: "Rruga Gjylbegaj, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 42.06877208\n  lng: 19.50996367\nprice: "US$10"\npriceFrom: 10\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 457\nratings:\n  overall: 9\n  location: 9.4\n  cleanliness: 8.8\n  facilities: 8.3\n  value: 9.2\n  comfort: 8.7\n  staff: 8.9\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488426908.jpg?k=22b75122e6f7f634dcc908fd8818948611d109a38f1361a498ca113143e7267d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323536360.jpg?k=54c1b89b341f788480111db8a29097b63192afd45f138c81de4838ff64f7aa15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323535880.jpg?k=e5747058f1b91197ab8caf86a3c549898e43dd6c40d2a8b448ce934889725fca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323536070.jpg?k=333246ad740212f2a48895c3316d342cd68cd895d334ec0d9866a8fdc6dd62fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323536257.jpg?k=263ec4bb9b114c185fd12b016ffff68014753d0a8b81087ab4573b18b541a4b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488429251.jpg?k=13d65798791c16159159a7de9b6333809fc247747a93708a63f993fa7ec2dd4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323535539.jpg?k=fc8dbb01aee6c145e0648ffc86f9c5b595c0eca231b635e3f91b516648a9ae27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323535891.jpg?k=d8d4bcc4c38b05d56bcba3a278a237673b19a2d8c0dc0919aff4ca2f121425b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587571.jpg?k=6c6acd9d3ec19066be344bd3e6284c08849f990b5e2d3194c9dd2054426b793f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587531.jpg?k=a3a22b3e5cb9654b7da0d07c56a8b2d19cc746ce26d731d1f946a0d410e3bc47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587453.jpg?k=77ca69fe5af1dc7d5332d09d65f7d18395c2123426dcf10a3b6fa1a5fbd8c5dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587256.jpg?k=49547320d8d9f0478629d2278aff1b94e6e57e7e7fc63d0477902b81130b8569&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Bunk Bed in Mixed Dormitory Room"\nnearbyRestaurants:\n  - "Kafe e Bluar TURKE & ESPES 20 m"\n  - "Bar Coffee te Teatri 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.8 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 37 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Arda"\n    country: "Turkey"\n    text: "“I can say that it is the best hostel I have stayed in so far. The kitchen, bedroom and common area were incredibly clean. They provide slippers at the hostel. Volunteer friends were also very helpful. Good location. The best service you can get at...”"\n  - name: "Beatriz"\n    country: "Spain"\n    text: "“I loved the way Erjon works.
-He is so friendly, always available to help you. The hostel was so clean, the bed was so comfortable and you have your own charger and your own light, if you need it in the middle of the night. The kitchen was clean...”"\n  - name: "Jeri"\n    country: "Albania"\n    text: "“Excellent location. Wonderful owners. Very clean facilities”"\nbookingURL: "https://www.booking.com/hotel/al/shkodra-hostel.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nAccommodations at Shkodra Hostel are thoughtfully appointed with air-conditioned rooms that boast practical amenities such as desks, coffee machines, refrigerators, microwaves, and safety deposit boxes. The inclusion of a flat-screen TV and a balcony enhances the comfort of the stay, while the shared bathrooms equipped with bidets ensure cleanliness and convenience. To further enrich the guest experience, each room is supplied with fresh bed linen and towels.
+---
+title: "Shkodra Hostel"
+description: "Shkodra Hostel emerges as a beacon of comfort and convenience for travelers exploring Shkodër, located within a manageable distance of 49 km from the Port of Bar."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488426908.jpg?k=22b75122e6f7f634dcc908fd8818948611d109a38f1361a498ca113143e7267d&o=&hp=1"
+language: en
+slug: shkodra-hostel
+address: "Rruga Gjylbegaj, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hostel"
+coordinates:
+  lat: 42.06877208
+  lng: 19.50996367
+price: "US$10"
+priceFrom: 10
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 457
+ratings:
+  overall: 9
+  location: 9.4
+  cleanliness: 8.8
+  facilities: 8.3
+  value: 9.2
+  comfort: 8.7
+  staff: 8.9
+  wifi: 9.7
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488426908.jpg?k=22b75122e6f7f634dcc908fd8818948611d109a38f1361a498ca113143e7267d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323536360.jpg?k=54c1b89b341f788480111db8a29097b63192afd45f138c81de4838ff64f7aa15&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323535880.jpg?k=e5747058f1b91197ab8caf86a3c549898e43dd6c40d2a8b448ce934889725fca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323536070.jpg?k=333246ad740212f2a48895c3316d342cd68cd895d334ec0d9866a8fdc6dd62fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323536257.jpg?k=263ec4bb9b114c185fd12b016ffff68014753d0a8b81087ab4573b18b541a4b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488429251.jpg?k=13d65798791c16159159a7de9b6333809fc247747a93708a63f993fa7ec2dd4b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323535539.jpg?k=fc8dbb01aee6c145e0648ffc86f9c5b595c0eca231b635e3f91b516648a9ae27&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323535891.jpg?k=d8d4bcc4c38b05d56bcba3a278a237673b19a2d8c0dc0919aff4ca2f121425b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587571.jpg?k=6c6acd9d3ec19066be344bd3e6284c08849f990b5e2d3194c9dd2054426b793f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587531.jpg?k=a3a22b3e5cb9654b7da0d07c56a8b2d19cc746ce26d731d1f946a0d410e3bc47&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587453.jpg?k=77ca69fe5af1dc7d5332d09d65f7d18395c2123426dcf10a3b6fa1a5fbd8c5dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488587256.jpg?k=49547320d8d9f0478629d2278aff1b94e6e57e7e7fc63d0477902b81130b8569&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Bunk Bed in Mixed Dormitory Room"
+nearbyRestaurants:
+  - "Kafe e Bluar TURKE & ESPES 20 m"
+  - "Bar Coffee te Teatri 100 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.8 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 37 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+  - "Tivat Airport 73 km"
+reviews:
+  - name: "Arda"
+    country: "Turkey"
+    text: "“I can say that it is the best hostel I have stayed in so far. The kitchen, bedroom and common area were incredibly clean. They provide slippers at the hostel. Volunteer friends were also very helpful. Good location. The best service you can get at...”"
+  - name: "Beatriz"
+    country: "Spain"
+    text: "“I loved the way Erjon works.
+He is so friendly, always available to help you. The hostel was so clean, the bed was so comfortable and you have your own charger and your own light, if you need it in the middle of the night. The kitchen was clean...”"
+  - name: "Jeri"
+    country: "Albania"
+    text: "“Excellent location. Wonderful owners. Very clean facilities”"
+bookingURL: "https://www.booking.com/hotel/al/shkodra-hostel.en-gb.html?aid=8035640"
+bestFor: "Best for Hostel Experience"
+bestCategories: "Hostel Experience"
+category: "Hostel Experience"
+---
+
+Accommodations at Shkodra Hostel are thoughtfully appointed with air-conditioned rooms that boast practical amenities such as desks, coffee machines, refrigerators, microwaves, and safety deposit boxes. The inclusion of a flat-screen TV and a balcony enhances the comfort of the stay, while the shared bathrooms equipped with bidets ensure cleanliness and convenience. To further enrich the guest experience, each room is supplied with fresh bed linen and towels.
 
 For those seeking leisure activities within the hostel, table tennis and darts provide a playful escape, and the availability of bike hire opens the door to exploring the local area at a leisurely pace. The hostel's commitment to service is exemplified by its multilingual staff, proficient in Bosnian, Montenegrin, English, and Spanish, who are available 24/7 at the front desk to assist with any inquiries or needs.
 

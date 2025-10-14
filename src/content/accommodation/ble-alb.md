@@ -1,4 +1,78 @@
----\ntitle: "Ble Alb"\ndescription: "Ble Alb emerges as a serene retreat in Udënisht, a mere 17 km away from the enchanting Ohrid Lake Springs, offering guests a blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058372.jpg?k=6c976934dd072a302296ebbef607910da85f74782f3e88e18e60028412a7aa9e&o=&hp=1"\nlanguage: en\nslug: ble-alb\naddress: "SH3, Udënisht, Albania"\ncity: "Udënisht"\nlocation: "Udënisht"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.97688522\n  lng: 20.64352972\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058372.jpg?k=6c976934dd072a302296ebbef607910da85f74782f3e88e18e60028412a7aa9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058492.jpg?k=f6ee199d240f4a1e2f0955fa01f09b2b2b0bd2cc89b06e5866550838ba59327c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058566.jpg?k=73857e9babbf597df00feec9b9cb9436467ca19475ee75576e0c2b1bce43943a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058513.jpg?k=41920135a5309f9d9a45e7f2a9e3b356b05bcaf4613e6300556d721fc8878210&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058619.jpg?k=8a7e15412f57ee7861c395847729973c236c8589699856ebe49ae7c3cdc192d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058527.jpg?k=3eeeb4f7d2878656552d6ba7c0fd90b0295ba42efdf7d368b6d0820f94f5c1ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058631.jpg?k=45ad337d4a9745b2393b122e3003b0cce649c6ea3306a1f2c0fd8e6602abfaee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058572.jpg?k=f21106471bb464a7abfea7725c209269fe7b2f31d9ca863686ae2046440d09ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058442.jpg?k=1c6b814cd7842a0c01d18ccc1ebd9bc145c75955d549f1ae14c008fb5a01d7b4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\nnearbyAttractions:\n  - "Upper Gate 20 km"\nnearbyRestaurants:\n  - "Restorant Eral 50 m"\n  - "Sugar Shore 800 m"\nwhatsNearby:\n  - "Driloni National Park 9 km"\n  - "National Park Galicica 11 km"\n  - "Bay of Bones 13 km"\n  - "Remains of Via Egnatia 14 km"\n  - "National Park Galicica 15 km"\n  - "Museum Robev House 20 km"\n  - "National Workshop for Handmade Paper 20 km"\n  - "Samoil's Fortress 20 km"\n  - "Ancient Theatre of Ohrid 20 km"\n  - "Icons Gallery 20 km"\nairports:\n  - "Ohrid Airport 22 km"\n  - "Kastoria National Airport 78 km"\n  - "Tirana International Airport Mother Teresa 90 km"\nbookingURL: "https://www.booking.com/hotel/al/ble-alb-udenisht.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nEach room at Ble Alb is a sanctuary of peace, equipped with air conditioning and complimentary WiFi, ensuring a stay that is both comfortable and connected. The private bathrooms add an extra layer of privacy and convenience, while the balconies offer breathtaking views of the lake, making every morning a picturesque moment.
+---
+title: "Ble Alb"
+description: "Ble Alb emerges as a serene retreat in Udënisht, a mere 17 km away from the enchanting Ohrid Lake Springs, offering guests a blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058372.jpg?k=6c976934dd072a302296ebbef607910da85f74782f3e88e18e60028412a7aa9e&o=&hp=1"
+language: en
+slug: ble-alb
+address: "SH3, Udënisht, Albania"
+city: "Udënisht"
+location: "Udënisht"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.97688522
+  lng: 20.64352972
+price: "US$31"
+priceFrom: 31
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058372.jpg?k=6c976934dd072a302296ebbef607910da85f74782f3e88e18e60028412a7aa9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058492.jpg?k=f6ee199d240f4a1e2f0955fa01f09b2b2b0bd2cc89b06e5866550838ba59327c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058566.jpg?k=73857e9babbf597df00feec9b9cb9436467ca19475ee75576e0c2b1bce43943a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058513.jpg?k=41920135a5309f9d9a45e7f2a9e3b356b05bcaf4613e6300556d721fc8878210&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058619.jpg?k=8a7e15412f57ee7861c395847729973c236c8589699856ebe49ae7c3cdc192d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058527.jpg?k=3eeeb4f7d2878656552d6ba7c0fd90b0295ba42efdf7d368b6d0820f94f5c1ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058631.jpg?k=45ad337d4a9745b2393b122e3003b0cce649c6ea3306a1f2c0fd8e6602abfaee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058572.jpg?k=f21106471bb464a7abfea7725c209269fe7b2f31d9ca863686ae2046440d09ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058442.jpg?k=1c6b814cd7842a0c01d18ccc1ebd9bc145c75955d549f1ae14c008fb5a01d7b4&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Room service"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Balcony"
+nearbyAttractions:
+  - "Upper Gate 20 km"
+nearbyRestaurants:
+  - "Restorant Eral 50 m"
+  - "Sugar Shore 800 m"
+whatsNearby:
+  - "Driloni National Park 9 km"
+  - "National Park Galicica 11 km"
+  - "Bay of Bones 13 km"
+  - "Remains of Via Egnatia 14 km"
+  - "National Park Galicica 15 km"
+  - "Museum Robev House 20 km"
+  - "National Workshop for Handmade Paper 20 km"
+  - "Samoil's Fortress 20 km"
+  - "Ancient Theatre of Ohrid 20 km"
+  - "Icons Gallery 20 km"
+airports:
+  - "Ohrid Airport 22 km"
+  - "Kastoria National Airport 78 km"
+  - "Tirana International Airport Mother Teresa 90 km"
+bookingURL: "https://www.booking.com/hotel/al/ble-alb-udenisht.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+Each room at Ble Alb is a sanctuary of peace, equipped with air conditioning and complimentary WiFi, ensuring a stay that is both comfortable and connected. The private bathrooms add an extra layer of privacy and convenience, while the balconies offer breathtaking views of the lake, making every morning a picturesque moment.
 
 Guests have the luxury of starting their day with a choice of breakfast options, ranging from the traditional à la carte to the hearty Full English/Irish breakfast, all prepared with the freshest ingredients.
 

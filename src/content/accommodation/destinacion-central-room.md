@@ -1,4 +1,88 @@
----\ntitle: "Destinacion Central Room"\ndescription: "Destinacion Central Room emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370267.jpg?k=632b82a55bbc6608f9fc470365b00f4678c8990477d01d76ae1c8ace74293325&o=&hp=1"\nlanguage: en\nslug: destinacion-central-room\naddress: "Rruga Fortuzi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33288583\n  lng: 19.81610682\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 14\nratings:\n  overall: 8.5\n  location: 9.1\n  cleanliness: 8.2\n  facilities: 8.2\n  value: 8.2\n  comfort: 8\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370267.jpg?k=632b82a55bbc6608f9fc470365b00f4678c8990477d01d76ae1c8ace74293325&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485103560.jpg?k=5c88384058518e47564ce014f94bd35cdb265271fa35da95db50b5a7d3c9aff5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485103551.jpg?k=85d52e6a300dad7a699bda7da3bf748f9b52f114b4a2d8e2953f6c9cea4579c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370507.jpg?k=958525f79ac253a6fb6eadbb3b43848b44564da03f3d9a23719845b6de0d3328&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370269.jpg?k=2d7bb99bcbf20a2c05f91b597287af4e7c2f9a0886dea909d44995379d7c26dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485384750.jpg?k=c9820b1b6b53e46efd2361012fc5bbd297aae0a42590b4b6add9a6c4c2282c93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485399738.jpg?k=63681414a1c39fde6737cd6f478e78cfacd6e901e7b2a003a2b1592e058a10df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370505.jpg?k=f99520c69852751979c6620cb9120f9fdfe245d091381c0be54f5c1185fb3bcc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495332340.jpg?k=642c209827ce5ac33eee4e3ac6dc103b490df623402a49dfbba275cec8a12a4e&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Extra Bed"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 850 m"\n  - "Rinia Park 900 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Tak Fak 30 m"\n  - "Bar Kafe Bacja 50 m"\nwhatsNearby:\n  - "Amazing Nature 250 m"\n  - "National Museum of History Albania 400 m"\n  - "Sheshi Paris 400 m"\n  - "Sheshi Skënderbej 500 m"\n  - "Skanderbeg Square 600 m"\n  - "Clock Tower Tirana 650 m"\n  - "Parku Europa 650 m"\n  - "Sheshi Sulejman Pasha 650 m"\n  - "House of Leaves 700 m"\n  - "Sheshi Rekreativ Mine Peza 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Branko"\n    country: "North Macedonia"\n    text: "“Everything was absolutely amazing. Wasn’t actually expecting to be everything this good and at a very high level. Staff of the hotel was very polite and helpful. Room was amazingly clean, fresh, tidy. Exelent location and easy to locate. Very...”"\n  - name: "Bujar"\n    country: "Kosovo"\n    text: "“Everything was at the right leve, the cleanliness, the service, the staff, i really liked it, i will definitely visit it every time i travel to tirana..”"\n  - name: "Bujar"\n    country: "North Macedonia"\n    text: "“The room was very good and comfortable. The location was super close to the center. The staff was very hospitable.”"\nbookingURL: "https://www.booking.com/hotel/al/destinacion.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nA mere stone's throw away from the National Museum of History Albania, and not far from the historical Former Residence of Enver Hoxha and the scenic Rock of Kavaje, guests find themselves perfectly positioned to explore the rich tapestry of Tirana's cultural and natural attractions. The property's commitment to a smoke-free environment ensures a pleasant stay for all guests.
+---
+title: "Destinacion Central Room"
+description: "Destinacion Central Room emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370267.jpg?k=632b82a55bbc6608f9fc470365b00f4678c8990477d01d76ae1c8ace74293325&o=&hp=1"
+language: en
+slug: destinacion-central-room
+address: "Rruga Fortuzi, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.33288583
+  lng: 19.81610682
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 14
+ratings:
+  overall: 8.5
+  location: 9.1
+  cleanliness: 8.2
+  facilities: 8.2
+  value: 8.2
+  comfort: 8
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370267.jpg?k=632b82a55bbc6608f9fc470365b00f4678c8990477d01d76ae1c8ace74293325&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485103560.jpg?k=5c88384058518e47564ce014f94bd35cdb265271fa35da95db50b5a7d3c9aff5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485103551.jpg?k=85d52e6a300dad7a699bda7da3bf748f9b52f114b4a2d8e2953f6c9cea4579c8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370507.jpg?k=958525f79ac253a6fb6eadbb3b43848b44564da03f3d9a23719845b6de0d3328&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370269.jpg?k=2d7bb99bcbf20a2c05f91b597287af4e7c2f9a0886dea909d44995379d7c26dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485384750.jpg?k=c9820b1b6b53e46efd2361012fc5bbd297aae0a42590b4b6add9a6c4c2282c93&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485399738.jpg?k=63681414a1c39fde6737cd6f478e78cfacd6e901e7b2a003a2b1592e058a10df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485370505.jpg?k=f99520c69852751979c6620cb9120f9fdfe245d091381c0be54f5c1185fb3bcc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495332340.jpg?k=642c209827ce5ac33eee4e3ac6dc103b490df623402a49dfbba275cec8a12a4e&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room with Extra Bed"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 850 m"
+  - "Rinia Park 900 m"
+  - "Tanners' Bridge 1.1 km"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.4 km"
+  - "Bunk'Art 1 Museum 4.2 km"
+nearbyRestaurants:
+  - "Tak Fak 30 m"
+  - "Bar Kafe Bacja 50 m"
+whatsNearby:
+  - "Amazing Nature 250 m"
+  - "National Museum of History Albania 400 m"
+  - "Sheshi Paris 400 m"
+  - "Sheshi Skënderbej 500 m"
+  - "Skanderbeg Square 600 m"
+  - "Clock Tower Tirana 650 m"
+  - "Parku Europa 650 m"
+  - "Sheshi Sulejman Pasha 650 m"
+  - "House of Leaves 700 m"
+  - "Sheshi Rekreativ Mine Peza 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Branko"
+    country: "North Macedonia"
+    text: "“Everything was absolutely amazing. Wasn’t actually expecting to be everything this good and at a very high level. Staff of the hotel was very polite and helpful. Room was amazingly clean, fresh, tidy. Exelent location and easy to locate. Very...”"
+  - name: "Bujar"
+    country: "Kosovo"
+    text: "“Everything was at the right leve, the cleanliness, the service, the staff, i really liked it, i will definitely visit it every time i travel to tirana..”"
+  - name: "Bujar"
+    country: "North Macedonia"
+    text: "“The room was very good and comfortable. The location was super close to the center. The staff was very hospitable.”"
+bookingURL: "https://www.booking.com/hotel/al/destinacion.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+A mere stone's throw away from the National Museum of History Albania, and not far from the historical Former Residence of Enver Hoxha and the scenic Rock of Kavaje, guests find themselves perfectly positioned to explore the rich tapestry of Tirana's cultural and natural attractions. The property's commitment to a smoke-free environment ensures a pleasant stay for all guests.
 
 Each room is equipped with a flat-screen TV, and the provision of towels and bed linen adds a touch of home-like comfort. The added security of a private entrance and round-the-clock security gives guests peace of mind during their stay. For those needing essentials or a quick snack, the convenience of an on-site minimarket is a welcome feature.
 

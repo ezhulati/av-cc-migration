@@ -1,1 +1,22 @@
----\ntitle: "Zoe Hora"\ndescription: ""\nfeaturedImage: ""\nlanguage: en\nslug: zoe-hora\nlocation: ""\naccommodationType: "hotel"\nstarRating: 3\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nbookingURL: "https://www.booking.com/hotel/al/zoe-hora.html?aid=8035640"\n---\n\n
+---
+title: "Zoe Hora"
+description: ""
+featuredImage: ""
+language: en
+slug: zoe-hora
+location: ""
+accommodationType: "hotel"
+starRating: 3
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+bookingURL: "https://www.booking.com/hotel/al/zoe-hora.html?aid=8035640"
+---
+

@@ -1,8 +1,84 @@
----\ntitle: "Hotel Majestic"\ndescription: "Discover the charm of Hotel Majestic, a gem just a stone's throw away from its exclusive sandy beach, complete with the comfort of sun loungers and parasols for that perfect seaside retreat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292714682.jpg?k=95146ee07dbc88ed9f2c1fb604caaa22e51422092e6b5b15438b6eb4484448be&o=&hp=1"\nlanguage: en\nslug: hotel-majestic\naddress: "Rruga Durrës - Plepa, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.28450642\n  lng: 19.51103747\nprice: "US$56"\npriceFrom: 56\nstarRating: 4\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 1446\nratings:\n  overall: 8.5\n  location: 8.9\n  cleanliness: 8.6\n  facilities: 8\n  value: 8.1\n  comfort: 8.4\n  staff: 8.9\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292714682.jpg?k=95146ee07dbc88ed9f2c1fb604caaa22e51422092e6b5b15438b6eb4484448be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467578151.jpg?k=cab6efe286cdc43053414f12a72f5e73d57d1c34bf340c77b4fa14d4e2c867a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327292912.jpg?k=bc1c3fea5f24a79025694e798dcfec9a5d58b7161bdd1f08dd3a0734e285a943&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467578153.jpg?k=fe18d2c13d733d667407672071e5e4a9baa8ad19f0634188255f631b8415ed94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327292924.jpg?k=4a0d6e1be10a4f1456c295162b99d8c26e5bad6dde1662f7e4b933fd9c63cdea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11069240.jpg?k=f8df793ba88393e5258bc2d8fab97964ee229e96b2d39f067e441d26fe8a0298&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Quadruple Room with Partial Sea View"\n  - "Junior Suite with Sea View"\n  - "Family Junior Suite"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 50 m"\n  - "Durres Beach 200 m"\n  - "Golem Beach 2.2 km"\n  - "Mali I Robit Beach 4.1 km"\n  - "Currila Beach 6 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Ask"\n    country: "United Kingdom"\n    text: "“Reception staff was very helpful and polite.
+---
+title: "Hotel Majestic"
+description: "Discover the charm of Hotel Majestic, a gem just a stone's throw away from its exclusive sandy beach, complete with the comfort of sun loungers and parasols for that perfect seaside retreat."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292714682.jpg?k=95146ee07dbc88ed9f2c1fb604caaa22e51422092e6b5b15438b6eb4484448be&o=&hp=1"
+language: en
+slug: hotel-majestic
+address: "Rruga Durrës - Plepa, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.28450642
+  lng: 19.51103747
+price: "US$56"
+priceFrom: 56
+starRating: 4
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 1446
+ratings:
+  overall: 8.5
+  location: 8.9
+  cleanliness: 8.6
+  facilities: 8
+  value: 8.1
+  comfort: 8.4
+  staff: 8.9
+  wifi: 8.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292714682.jpg?k=95146ee07dbc88ed9f2c1fb604caaa22e51422092e6b5b15438b6eb4484448be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467578151.jpg?k=cab6efe286cdc43053414f12a72f5e73d57d1c34bf340c77b4fa14d4e2c867a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327292912.jpg?k=bc1c3fea5f24a79025694e798dcfec9a5d58b7161bdd1f08dd3a0734e285a943&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467578153.jpg?k=fe18d2c13d733d667407672071e5e4a9baa8ad19f0634188255f631b8415ed94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327292924.jpg?k=4a0d6e1be10a4f1456c295162b99d8c26e5bad6dde1662f7e4b933fd9c63cdea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11069240.jpg?k=f8df793ba88393e5258bc2d8fab97964ee229e96b2d39f067e441d26fe8a0298&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Private beach area"
+  - "Good breakfast"
+roomTypes:
+  - "Quadruple Room with Partial Sea View"
+  - "Junior Suite with Sea View"
+  - "Family Junior Suite"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 50 m"
+  - "Durres Beach 200 m"
+  - "Golem Beach 2.2 km"
+  - "Mali I Robit Beach 4.1 km"
+  - "Currila Beach 6 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Ask"
+    country: "United Kingdom"
+    text: "“Reception staff was very helpful and polite.
 Hotels stunning and seems to be renovated recently as seems so fresh and so clean.
 Nice big beds very comfy
-Great restaurant in the hotel too and a beach front location.”"\n  - name: "Lilly"\n    country: "United Kingdom"\n    text: "“The hotel is nice and clean.Nice location with parking access and Sea View.
-Friendly and respectful staff, specially the girl at the reception which name I didn’t catch when we checked in on the 16/1.”"\n  - name: "Wojciech"\n    country: "United Kingdom"\n    text: "“Close to beach and lovely promenade with plenty restaurants”"\nbookingURL: "https://www.booking.com/hotel/al/majestic.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room and suite at the Majestic is a haven of comfort, equipped with an LCD satellite TV and a mini-fridge for your convenience. Select accommodations also feature balconies that offer serene views of the swimming pool or the breathtaking Adriatic Sea, adding a touch of luxury to your stay.
+Great restaurant in the hotel too and a beach front location.”"
+  - name: "Lilly"
+    country: "United Kingdom"
+    text: "“The hotel is nice and clean.Nice location with parking access and Sea View.
+Friendly and respectful staff, specially the girl at the reception which name I didn’t catch when we checked in on the 16/1.”"
+  - name: "Wojciech"
+    country: "United Kingdom"
+    text: "“Close to beach and lovely promenade with plenty restaurants”"
+bookingURL: "https://www.booking.com/hotel/al/majestic.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room and suite at the Majestic is a haven of comfort, equipped with an LCD satellite TV and a mini-fridge for your convenience. Select accommodations also feature balconies that offer serene views of the swimming pool or the breathtaking Adriatic Sea, adding a touch of luxury to your stay.
 
 Culinary delights await at the hotel's pizzeria restaurant, where guests can savor a blend of Mediterranean and Italian cuisine. For those looking to unwind, the hotel bar and the outdoor pool area offer the perfect setting for a relaxing drink in a laid-back atmosphere.
 

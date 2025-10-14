@@ -1,4 +1,96 @@
----\ntitle: "Home Sweet Home 3 - Guest House"\ndescription: "Home Sweet Home 3 - Guest House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322859512.jpg?k=a7b7a7db40fc2060f669407b127803b71289eed8bfc222a83e85bbba74914aa5&o=&hp=1"\nlanguage: en\nslug: home-sweet-home-3-guest-house\naddress: "Rruga Ismail Qemali N°18, Yzberish, Kashar piano 3 , Appartamento 12, 1050 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.32953463\n  lng: 19.78398879\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 53\nratings:\n  overall: 8.5\n  location: 8.5\n  cleanliness: 7.8\n  facilities: 8.1\n  value: 9\n  comfort: 7.5\n  staff: 8.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322859512.jpg?k=a7b7a7db40fc2060f669407b127803b71289eed8bfc222a83e85bbba74914aa5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525251426.jpg?k=b20b924ba2f5f583cbc571efef1fb5d8d838877fb9e8db0af841e0c9563081ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525251427.jpg?k=4c817d7ac6234e67bbf3a7944ad04870f39115adeaeb326f252859b9dd7cc936&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322020928.jpg?k=635e5ff40ab7d78f121c3047654454c8008ed6d9eafc3394e4d8032ea7401f7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322020828.jpg?k=819d3c2591ad25aa6ee7a0945e0c3974a056c2e4c55d91d0e2747f28376c178c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524489530.jpg?k=58c9b3af12588837049b5aef060727ff7a1589f4679246c7754bcad112977750&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525251213.jpg?k=dddc5b1fba45836374e8ac0e4d07257fae1b8fa19d936e4d55373e2401f75f44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322478085.jpg?k=e26a9004faec7da3deb3d2da5fb7ac5f9575e0cea7001a972db7bd20540ffff5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477952.jpg?k=42400731728b16a5208e615dc27c654c0be3f3f70fe13b9b0db8f4e7c862aeda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477713.jpg?k=ad6ad66b64de8b9d3ece4cd2e6aa7afdb5d5dd418e4e4225ba56f48d50fb4786&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477452.jpg?k=9132f242061448c42a32f94e89c570f987b3358f130847b20efb1a9cb871de2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477268.jpg?k=ab6d30adc1ca77e04ee255129cc5c165a1fc102fe49e2c09a0b37672d6a315ed&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Fast free WiFi (64 Mbps)"\n  - "2 restaurants"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 2.7 km"\n  - "National Museum of History Albania 2.8 km"\n  - "Rinia Park 2.9 km"\n  - "Former Residence of Enver Hoxha 3 km"\n  - "Skanderbeg Square 3 km"\n  - "Clock Tower Tirana 3 km"\n  - "National Gallery of Arts Tirana 3.1 km"\n  - "Tanners' Bridge 3.5 km"\n  - "Grand Park of Tirana 4 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "Pasticeri Nela 20 m"\n  - "Duaprap 30 m"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 250 m"\n  - "Park Lojrash 300 m"\n  - "Sheshi Rekreativ Parku 1Km 1.1 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.1 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.1 km"\n  - "Sheshi Rekreativ Lord Bajron 1.2 km"\n  - "Sheshi Rekreativ Bajram Curri 1.5 km"\n  - "Sheshi Rekreativ Sali Butka 1.5 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.6 km"\n  - "Sheshi Rekreativ Don Bosko 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 82 km"\nreviews:\n  - name: "Theodhor"\n    country: "Albania"\n    text: "“Very spacious place, clean, easy to check in, had everything that you need during the stay. It is worthy for the price. Totally recommend it.”"\n  - name: "Giulia"\n    country: "Italy"\n    text: "“Great location, very well connected everywhere and those who manage the organization are always very attentive and helpful. Very good cleaning service and especially the possibility to self check in, one of the very few facilities to offer this...”"\n  - name: "Giulia"\n    country: "Italy"\n    text: "“Really pleasant stay, the service is excellent, those who take care of the structure are always available to help with any clarification. There is air conditioning and also the possibility of self check in so you can arrive at any time you...”"\nbookingURL: "https://www.booking.com/hotel/al/home-sweet-home-3-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe property prides itself on a range of amenities designed to enhance guest experiences. A restaurant on-site promises delightful culinary experiences, while the availability of a lift, a shared kitchen, and complimentary WiFi throughout the premises underscores the guest house's commitment to convenience and connectivity. Importantly, the establishment maintains a non-smoking policy, positioning itself as a clean and healthy environment just 4.4 km away from the iconic Skanderbeg Square.
+---
+title: "Home Sweet Home 3 - Guest House"
+description: "Home Sweet Home 3 - Guest House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322859512.jpg?k=a7b7a7db40fc2060f669407b127803b71289eed8bfc222a83e85bbba74914aa5&o=&hp=1"
+language: en
+slug: home-sweet-home-3-guest-house
+address: "Rruga Ismail Qemali N°18, Yzberish, Kashar piano 3 , Appartamento 12, 1050 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.32953463
+  lng: 19.78398879
+price: "US$29"
+priceFrom: 29
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 53
+ratings:
+  overall: 8.5
+  location: 8.5
+  cleanliness: 7.8
+  facilities: 8.1
+  value: 9
+  comfort: 7.5
+  staff: 8.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322859512.jpg?k=a7b7a7db40fc2060f669407b127803b71289eed8bfc222a83e85bbba74914aa5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525251426.jpg?k=b20b924ba2f5f583cbc571efef1fb5d8d838877fb9e8db0af841e0c9563081ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525251427.jpg?k=4c817d7ac6234e67bbf3a7944ad04870f39115adeaeb326f252859b9dd7cc936&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322020928.jpg?k=635e5ff40ab7d78f121c3047654454c8008ed6d9eafc3394e4d8032ea7401f7a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322020828.jpg?k=819d3c2591ad25aa6ee7a0945e0c3974a056c2e4c55d91d0e2747f28376c178c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524489530.jpg?k=58c9b3af12588837049b5aef060727ff7a1589f4679246c7754bcad112977750&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525251213.jpg?k=dddc5b1fba45836374e8ac0e4d07257fae1b8fa19d936e4d55373e2401f75f44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322478085.jpg?k=e26a9004faec7da3deb3d2da5fb7ac5f9575e0cea7001a972db7bd20540ffff5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477952.jpg?k=42400731728b16a5208e615dc27c654c0be3f3f70fe13b9b0db8f4e7c862aeda&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477713.jpg?k=ad6ad66b64de8b9d3ece4cd2e6aa7afdb5d5dd418e4e4225ba56f48d50fb4786&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477452.jpg?k=9132f242061448c42a32f94e89c570f987b3358f130847b20efb1a9cb871de2a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322477268.jpg?k=ab6d30adc1ca77e04ee255129cc5c165a1fc102fe49e2c09a0b37672d6a315ed&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Fast free WiFi (64 Mbps)"
+  - "2 restaurants"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 2.7 km"
+  - "National Museum of History Albania 2.8 km"
+  - "Rinia Park 2.9 km"
+  - "Former Residence of Enver Hoxha 3 km"
+  - "Skanderbeg Square 3 km"
+  - "Clock Tower Tirana 3 km"
+  - "National Gallery of Arts Tirana 3.1 km"
+  - "Tanners' Bridge 3.5 km"
+  - "Grand Park of Tirana 4 km"
+  - "Bunk'Art 1 Museum 7 km"
+nearbyRestaurants:
+  - "Pasticeri Nela 20 m"
+  - "Duaprap 30 m"
+whatsNearby:
+  - "Shesh Rekreativ Yzberisht 250 m"
+  - "Park Lojrash 300 m"
+  - "Sheshi Rekreativ Parku 1Km 1.1 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 1.1 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.1 km"
+  - "Sheshi Rekreativ Lord Bajron 1.2 km"
+  - "Sheshi Rekreativ Bajram Curri 1.5 km"
+  - "Sheshi Rekreativ Sali Butka 1.5 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 1.6 km"
+  - "Sheshi Rekreativ Don Bosko 2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 9 km"
+  - "Ohrid Airport 82 km"
+reviews:
+  - name: "Theodhor"
+    country: "Albania"
+    text: "“Very spacious place, clean, easy to check in, had everything that you need during the stay. It is worthy for the price. Totally recommend it.”"
+  - name: "Giulia"
+    country: "Italy"
+    text: "“Great location, very well connected everywhere and those who manage the organization are always very attentive and helpful. Very good cleaning service and especially the possibility to self check in, one of the very few facilities to offer this...”"
+  - name: "Giulia"
+    country: "Italy"
+    text: "“Really pleasant stay, the service is excellent, those who take care of the structure are always available to help with any clarification. There is air conditioning and also the possibility of self check in so you can arrive at any time you...”"
+bookingURL: "https://www.booking.com/hotel/al/home-sweet-home-3-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The property prides itself on a range of amenities designed to enhance guest experiences. A restaurant on-site promises delightful culinary experiences, while the availability of a lift, a shared kitchen, and complimentary WiFi throughout the premises underscores the guest house's commitment to convenience and connectivity. Importantly, the establishment maintains a non-smoking policy, positioning itself as a clean and healthy environment just 4.4 km away from the iconic Skanderbeg Square.
 
 Accommodations at Home Sweet Home 3 are notably spacious, featuring a bedroom, a bathroom, and inclusive of essentials such as bed linen and towels. The presence of a flat-screen TV with cable channels, a dining area, and a fully equipped kitchen cater to the needs of modern travelers, whether their stay is brief or extended. The addition of a private entrance to each apartment enhances the sense of privacy and exclusivity.
 

@@ -9,15 +9,11 @@ tags: []
 featuredImage: "/images/posts/Besa.jpeg"
 language: en
 slug: besa-albanian-code-of-honor
-"
 seo:
   focusKeyword: "besa"
   robots: "index"
   metaTitle: "Besa - Albania's Unspoken Code Of Honor %sep% %sitename%"
-  metaDescription: "Discover what Albania's ancient code of honor means today - from sacred vows to modern reality. An Albanian explains besa without the tourist brochure hype.
-"
-  focusKeyword: "besa"
-  robots: "index"
+  metaDescription: "Discover what Albania's ancient code of honor means today - from sacred vows to modern reality. An Albanian explains besa without the tourist brochure hype."
 ---
 
 Loading the [Elevenlabs Text to Speech](https://elevenlabs.io/text-to-speech){rel="noopener" target="_blank"} AudioNative Player...

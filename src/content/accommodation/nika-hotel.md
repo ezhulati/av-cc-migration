@@ -1,4 +1,90 @@
----\ntitle: "Nika Hotel"\ndescription: "Nika Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234370.jpg?k=45eaed44b2636c2a13b38b2363b1949f4d90c793c5d2e3556594bb0e8def0a4c&o=&hp=1"\nlanguage: en\nslug: nika-hotel\naddress: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 39.87379489\n  lng: 19.99781838\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 354\nratings:\n  overall: 9.3\n  location: 8.9\n  cleanliness: 9.4\n  facilities: 9.1\n  value: 9.3\n  comfort: 9.3\n  staff: 9.8\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234370.jpg?k=45eaed44b2636c2a13b38b2363b1949f4d90c793c5d2e3556594bb0e8def0a4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234495.jpg?k=bcfb0d1faf0235f603bbeb6a265ae97ce683f6e1888c46cef8a6aef48d0b5a30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234656.jpg?k=7f63459b470bf2c774ed6c00dbaaee6366e75080e9fe9f00a2291cd971cfaff3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234498.jpg?k=3ee3822344cefe756748556ff898925ff262eccb4e4a46a5ea2c58c376b93857&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289243636.jpg?k=10ea6333d645c64af666e95a6cd356cf37a7bafca57eb22ea8ba50fe0b99a3df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234484.jpg?k=57c646ebd2fcd418e1ce6a0c2c2de2d4257bfa86ca1c1b762cf77f2726fcd0c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289236397.jpg?k=0e3c6a658592b334caa5831c2f18780aad2a231dca9ca5fbf216d50e0b06df07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234740.jpg?k=7e1e87de74812e6d2afbba36fb284a1e6c9c38229593066b72a6a3d648d09d6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234383.jpg?k=c96a104fd71e8bb8597c156f9bd8ef325b72d432cb8db02771064cbd238fdd43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234368.jpg?k=e94b2b2272d64d3b2695769da4fc4f9d0dca1e5f42aaf09b04bc29ed62c797fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234797.jpg?k=07432dac6b4df64f616ef6da7e26cac2fbf86d66e4369bac35a3f01ab1d2d45b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234496.jpg?k=830300d10187adbd36f5b7df3f9845c9de93383f1dc0809c9cff02178cb212a3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Oro 20 m"\n  - "Pasticeri Ola 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 400 m"\n  - "Saranda City Beach 1,000 m"\n  - "Saranda Bay Beach 1.4 km"\n  - "La Petite Beach 1.5 km"\n  - "Maestral Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.8 km"\n  - "Butrint National Park 3.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "João"\n    country: "Portugal"\n    text: "“It was very easy to find a parking spot. The host of the hotel is a friendly couple and they both welcomed us to the apartment. The room/bathroom were clean, the beds comfortable and it had a lot of light. In the room there was a small fridge...”"\n  - name: "Anasofia"\n    country: "Portugal"\n    text: "“The hosts and the breakfast were amazing The beds were very comfortable Great location, very close to the center and beaches but quiet”"\n  - name: "Anna"\n    country: "Greece"\n    text: "“Very nice hotel, comfortable with modern facilities. Its family owned and everything has been made with lots of love and dedication. Also, lovely breakfast I recommend”"\nbookingURL: "https://www.booking.com/hotel/al/nika-39-s-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Nika Hotel are treated to an array of amenities designed to enhance their stay. The property boasts free private parking, ensuring ease of access for those arriving by car. Around-the-clock front desk service guarantees that guests' needs are promptly attended to at any hour. Additionally, the convenience of complimentary WiFi throughout the guest house allows visitors to stay connected and share their experiences with ease.
+---
+title: "Nika Hotel"
+description: "Nika Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234370.jpg?k=45eaed44b2636c2a13b38b2363b1949f4d90c793c5d2e3556594bb0e8def0a4c&o=&hp=1"
+language: en
+slug: nika-hotel
+address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 39.87379489
+  lng: 19.99781838
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 354
+ratings:
+  overall: 9.3
+  location: 8.9
+  cleanliness: 9.4
+  facilities: 9.1
+  value: 9.3
+  comfort: 9.3
+  staff: 9.8
+  wifi: 9.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234370.jpg?k=45eaed44b2636c2a13b38b2363b1949f4d90c793c5d2e3556594bb0e8def0a4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234495.jpg?k=bcfb0d1faf0235f603bbeb6a265ae97ce683f6e1888c46cef8a6aef48d0b5a30&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234656.jpg?k=7f63459b470bf2c774ed6c00dbaaee6366e75080e9fe9f00a2291cd971cfaff3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234498.jpg?k=3ee3822344cefe756748556ff898925ff262eccb4e4a46a5ea2c58c376b93857&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289243636.jpg?k=10ea6333d645c64af666e95a6cd356cf37a7bafca57eb22ea8ba50fe0b99a3df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234484.jpg?k=57c646ebd2fcd418e1ce6a0c2c2de2d4257bfa86ca1c1b762cf77f2726fcd0c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289236397.jpg?k=0e3c6a658592b334caa5831c2f18780aad2a231dca9ca5fbf216d50e0b06df07&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234740.jpg?k=7e1e87de74812e6d2afbba36fb284a1e6c9c38229593066b72a6a3d648d09d6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234383.jpg?k=c96a104fd71e8bb8597c156f9bd8ef325b72d432cb8db02771064cbd238fdd43&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234368.jpg?k=e94b2b2272d64d3b2695769da4fc4f9d0dca1e5f42aaf09b04bc29ed62c797fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234797.jpg?k=07432dac6b4df64f616ef6da7e26cac2fbf86d66e4369bac35a3f01ab1d2d45b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234496.jpg?k=830300d10187adbd36f5b7df3f9845c9de93383f1dc0809c9cff02178cb212a3&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Exceptional breakfast"
+nearbyRestaurants:
+  - "Oro 20 m"
+  - "Pasticeri Ola 100 m"
+nearbyBeaches:
+  - "Sarande Main Beach 400 m"
+  - "Saranda City Beach 1,000 m"
+  - "Saranda Bay Beach 1.4 km"
+  - "La Petite Beach 1.5 km"
+  - "Maestral Beach 1.7 km"
+whatsNearby:
+  - "Parc National de Butrint 2.8 km"
+  - "Butrint National Park 3.5 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "João"
+    country: "Portugal"
+    text: "“It was very easy to find a parking spot. The host of the hotel is a friendly couple and they both welcomed us to the apartment. The room/bathroom were clean, the beds comfortable and it had a lot of light. In the room there was a small fridge...”"
+  - name: "Anasofia"
+    country: "Portugal"
+    text: "“The hosts and the breakfast were amazing The beds were very comfortable Great location, very close to the center and beaches but quiet”"
+  - name: "Anna"
+    country: "Greece"
+    text: "“Very nice hotel, comfortable with modern facilities. Its family owned and everything has been made with lots of love and dedication. Also, lovely breakfast I recommend”"
+bookingURL: "https://www.booking.com/hotel/al/nika-39-s-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at Nika Hotel are treated to an array of amenities designed to enhance their stay. The property boasts free private parking, ensuring ease of access for those arriving by car. Around-the-clock front desk service guarantees that guests' needs are promptly attended to at any hour. Additionally, the convenience of complimentary WiFi throughout the guest house allows visitors to stay connected and share their experiences with ease.
 
 Accommodations at Nika Hotel are thoughtfully appointed to cater to diverse preferences and needs. Select units feature a private entrance, providing an added layer of privacy and exclusivity. Each room is equipped with a desk and wardrobe, catering to both leisure and business travelers. For those seeking a touch of luxury, options include rooms with balconies, satellite flat-screen TVs, air conditioning, and heating. Moreover, the guest house offers allergy-free and soundproof units, ensuring a restful and comfortable stay for all guests.
 

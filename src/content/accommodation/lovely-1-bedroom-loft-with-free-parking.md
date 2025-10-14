@@ -1,4 +1,70 @@
----\ntitle: "Lovely 1 - bedroom loft with free parking"\ndescription: "Discover the charm of Gjirokastër with a stay at the Lovely 1-bedroom loft, a serene retreat located just 45 km from the picturesque Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373251149.jpg?k=5e86439af46e577e25eca9712e9a525406e4c4076badfabafb981c66ee83931a&o=&hp=1"\nlanguage: en\nslug: lovely-1-bedroom-loft-with-free-parking\naddress: "Rruga Gjolek Haska, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08659868\n  lng: 20.13283684\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9\n  location: 8\n  cleanliness: 10\n  facilities: 8\n  value: 9.5\n  comfort: 9.5\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373251149.jpg?k=5e86439af46e577e25eca9712e9a525406e4c4076badfabafb981c66ee83931a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373256525.jpg?k=0cc4e0affb3d93e6b21243d4c2f0fb3574de8855c834339097fd04eee2a29d47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373257363.jpg?k=9f10ba7ec1f71317e6e87aadfdde8ba88bbb272768e3a14cf186908ec056039b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373251012.jpg?k=6875cc4cfea318a96fe83855285fd0e97c5bfed6ac2b8d95e2768b4a43fc4236&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373256695.jpg?k=72da38a9659a76885ab2c1521590228ca276f11b0956b079a68f0d76827c8e52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375687097.jpg?k=d7a87016188b878e0fa2932f442f3e737a50bec7328d85255a976f9032379209&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375687119.jpg?k=a052074932fcf48535852d7f0bade65883fb4b4ceda921aa88f293572cab774b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373257027.jpg?k=30ab7f898b011edad7e8723d4ac348390c6251160be0475038da68b2e88280e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375687178.jpg?k=0ce374de5f549fbaa3be7604f90b24a023195908d9682ed8edd6ac2575c35c1f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tourist Camping Gjirokaster 600 m"\n  - "The Taste of the Sea 750 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Pimo87"\n    country: "Italy"\n    text: "“alloggio comodissimo con un condizionatore che sa fare egregiamente il suo lavoro. La casa ha tutto il necessario, parcheggio per l'auto privata e internet molto veloce.”"\n  - name: "Christine"\n    country: "Germany"\n    text: "“Eine wunderschöne Ferienwohnung mit 2 tollen Balkonen, herrlich luftig, Fliegengitterschiebetüren, alles was man braucht - perfekt! Das bisher bequemste Bett und die besten Kissen unserer Reise!”"\n  - name: "Merie"\n    country: "Netherlands"\n    text: "“Het is een zeer mooie loft en alles is aanwezig. Het was super netjes en een heel goed bed. De zoon des huizes spreekt een beetje Engels en doet erg zijn best om het je volledig naar de zin maken. Is ook goed te vinden via een gemakkelijk...”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-1-bedroom-loft-with-free-parking.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nPerched with a view, guests are treated to the serene spectacle of mountain landscapes from the privacy of their own balcony or while basking in the tranquility of the terrace. The interior of this air-conditioned apartment is thoughtfully designed to maximize space and comfort, featuring a cozy bedroom that promises a restful night's sleep. Entertainment is readily available with the inclusion of a flat-screen TV, catering to those moments of relaxation indoors.
+---
+title: "Lovely 1 - bedroom loft with free parking"
+description: "Discover the charm of Gjirokastër with a stay at the Lovely 1-bedroom loft, a serene retreat located just 45 km from the picturesque Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373251149.jpg?k=5e86439af46e577e25eca9712e9a525406e4c4076badfabafb981c66ee83931a&o=&hp=1"
+language: en
+slug: lovely-1-bedroom-loft-with-free-parking
+address: "Rruga Gjolek Haska, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.08659868
+  lng: 20.13283684
+price: "US$32"
+priceFrom: 32
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 5
+ratings:
+  overall: 9
+  location: 8
+  cleanliness: 10
+  facilities: 8
+  value: 9.5
+  comfort: 9.5
+  staff: 9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373251149.jpg?k=5e86439af46e577e25eca9712e9a525406e4c4076badfabafb981c66ee83931a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373256525.jpg?k=0cc4e0affb3d93e6b21243d4c2f0fb3574de8855c834339097fd04eee2a29d47&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373257363.jpg?k=9f10ba7ec1f71317e6e87aadfdde8ba88bbb272768e3a14cf186908ec056039b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373251012.jpg?k=6875cc4cfea318a96fe83855285fd0e97c5bfed6ac2b8d95e2768b4a43fc4236&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373256695.jpg?k=72da38a9659a76885ab2c1521590228ca276f11b0956b079a68f0d76827c8e52&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375687097.jpg?k=d7a87016188b878e0fa2932f442f3e737a50bec7328d85255a976f9032379209&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375687119.jpg?k=a052074932fcf48535852d7f0bade65883fb4b4ceda921aa88f293572cab774b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373257027.jpg?k=30ab7f898b011edad7e8723d4ac348390c6251160be0475038da68b2e88280e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375687178.jpg?k=0ce374de5f549fbaa3be7604f90b24a023195908d9682ed8edd6ac2575c35c1f&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Tourist Camping Gjirokaster 600 m"
+  - "The Taste of the Sea 750 m"
+airports:
+  - "Corfu International Airport 56 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Pimo87"
+    country: "Italy"
+    text: "“alloggio comodissimo con un condizionatore che sa fare egregiamente il suo lavoro. La casa ha tutto il necessario, parcheggio per l'auto privata e internet molto veloce.”"
+  - name: "Christine"
+    country: "Germany"
+    text: "“Eine wunderschöne Ferienwohnung mit 2 tollen Balkonen, herrlich luftig, Fliegengitterschiebetüren, alles was man braucht - perfekt! Das bisher bequemste Bett und die besten Kissen unserer Reise!”"
+  - name: "Merie"
+    country: "Netherlands"
+    text: "“Het is een zeer mooie loft en alles is aanwezig. Het was super netjes en een heel goed bed. De zoon des huizes spreekt een beetje Engels en doet erg zijn best om het je volledig naar de zin maken. Is ook goed te vinden via een gemakkelijk...”"
+bookingURL: "https://www.booking.com/hotel/al/lovely-1-bedroom-loft-with-free-parking.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Perched with a view, guests are treated to the serene spectacle of mountain landscapes from the privacy of their own balcony or while basking in the tranquility of the terrace. The interior of this air-conditioned apartment is thoughtfully designed to maximize space and comfort, featuring a cozy bedroom that promises a restful night's sleep. Entertainment is readily available with the inclusion of a flat-screen TV, catering to those moments of relaxation indoors.
 
 For those who appreciate the beauty of the outdoors, the property is surrounded by a lush garden, perfect for leisurely strolls or simply enjoying a moment of peace in nature. Additionally, the smoke-free environment ensures a clean and healthy stay for all guests.
 

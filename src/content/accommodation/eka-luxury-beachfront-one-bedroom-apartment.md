@@ -1,4 +1,72 @@
----\ntitle: "Eka Luxury Beachfront One-Bedroom Apartment"\ndescription: "Eka Luxury Beachfront One-Bedroom Apartment stands as a prime choice for travelers seeking a serene getaway in Vlorë, with its prime location just a stone's throw away from Vjetër Beach and within close proximity to the city's notable landmarks."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074112.jpg?k=46764db44942062e0bc6e6eb007961e8795a0ab0f88be581026058cd2f15d8b2&o=&hp=1"\nlanguage: en\nslug: eka-luxury-beachfront-one-bedroom-apartment\naddress: "Rr. Sazani, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4574899\n  lng: 19.4688252\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 8\nratings:\n  overall: 8.3\n  location: 7.8\n  cleanliness: 8.4\n  facilities: 8.8\n  value: 7.8\n  comfort: 7.2\n  staff: 8.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074112.jpg?k=46764db44942062e0bc6e6eb007961e8795a0ab0f88be581026058cd2f15d8b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074099.jpg?k=d657f411c551cc277a9c9ce3418d2d978d23d55e45663a574a9bddb6651b1545&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074080.jpg?k=54eb57ecbdb5314db8ec47de4bc76948b9525e5ae74be513050303637de7173a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074090.jpg?k=49c2e384e5857ab861c2766afc3d668cdb590075d5a25e7c5ff8fe171eab3520&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074094.jpg?k=37b9fe42caf35b8c5b90afad664692d811dde5670066a6657bd93e9c5e1b0de5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074077.jpg?k=dd457bf065ddd4aa6c28bed07d25328b6c0f144047e0a10afa158610ba9b06b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074073.jpg?k=74c86d43f44694d6cf6285d0800dfcb4319dfabcedbb1d4d703625489581aa99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074098.jpg?k=d44d13944bd6bf30915f8ce4b1bb3826c6a21b5856e4eb604bced1bbab4b4823&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327073741.jpg?k=8e30d2ac3ac32948ac4631083ef94939e25dfb7dd16ad5832023fbfc3ec48ff4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074076.jpg?k=ff81670c41a43226e7b50601f629cb54706646f7436e9b11d792736698c187a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074078.jpg?k=32a0cb0c0e838e17c2440f649d2371ed50e581a5c1c7c4ecef9064fccc003550&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074086.jpg?k=de99d95b193d166f81a579e458b3b73912a26f65fd306e1b3f7da83ec1842889&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyBeaches:\n  - "Vjetër Beach 30 m"\n  - "Vlore Beach 2.3 km"\n  - "Ri Beach 3.2 km"\n  - "Narta Beach 4.3 km"\n  - "Beach at Government Villas 4.4 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/eka-luxury-beachfront-one-bedroom-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and luxury, boasting a spacious layout that includes a well-appointed bedroom, a modern bathroom equipped with a bidet, and comprehensive amenities such as bed linen, towels, and a flat-screen TV with streaming services. The presence of a fully equipped kitchen and a dining area adds a touch of home, while the balcony offers guests the opportunity to soak in the stunning sea views in privacy. Notably, the apartment is designed with soundproofing, catering to those who value peace and quiet. Additionally, it is an allergy-free and non-smoking environment, making it a suitable choice for guests with specific health considerations.
+---
+title: "Eka Luxury Beachfront One-Bedroom Apartment"
+description: "Eka Luxury Beachfront One-Bedroom Apartment stands as a prime choice for travelers seeking a serene getaway in Vlorë, with its prime location just a stone's throw away from Vjetër Beach and within close proximity to the city's notable landmarks."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074112.jpg?k=46764db44942062e0bc6e6eb007961e8795a0ab0f88be581026058cd2f15d8b2&o=&hp=1"
+language: en
+slug: eka-luxury-beachfront-one-bedroom-apartment
+address: "Rr. Sazani, Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.4574899
+  lng: 19.4688252
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 8
+ratings:
+  overall: 8.3
+  location: 7.8
+  cleanliness: 8.4
+  facilities: 8.8
+  value: 7.8
+  comfort: 7.2
+  staff: 8.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074112.jpg?k=46764db44942062e0bc6e6eb007961e8795a0ab0f88be581026058cd2f15d8b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074099.jpg?k=d657f411c551cc277a9c9ce3418d2d978d23d55e45663a574a9bddb6651b1545&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074080.jpg?k=54eb57ecbdb5314db8ec47de4bc76948b9525e5ae74be513050303637de7173a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074090.jpg?k=49c2e384e5857ab861c2766afc3d668cdb590075d5a25e7c5ff8fe171eab3520&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074094.jpg?k=37b9fe42caf35b8c5b90afad664692d811dde5670066a6657bd93e9c5e1b0de5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074077.jpg?k=dd457bf065ddd4aa6c28bed07d25328b6c0f144047e0a10afa158610ba9b06b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074073.jpg?k=74c86d43f44694d6cf6285d0800dfcb4319dfabcedbb1d4d703625489581aa99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074098.jpg?k=d44d13944bd6bf30915f8ce4b1bb3826c6a21b5856e4eb604bced1bbab4b4823&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327073741.jpg?k=8e30d2ac3ac32948ac4631083ef94939e25dfb7dd16ad5832023fbfc3ec48ff4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074076.jpg?k=ff81670c41a43226e7b50601f629cb54706646f7436e9b11d792736698c187a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074078.jpg?k=32a0cb0c0e838e17c2440f649d2371ed50e581a5c1c7c4ecef9064fccc003550&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074086.jpg?k=de99d95b193d166f81a579e458b3b73912a26f65fd306e1b3f7da83ec1842889&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Facilities for disabled guests"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyBeaches:
+  - "Vjetër Beach 30 m"
+  - "Vlore Beach 2.3 km"
+  - "Ri Beach 3.2 km"
+  - "Narta Beach 4.3 km"
+  - "Beach at Government Villas 4.4 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+bookingURL: "https://www.booking.com/hotel/al/eka-luxury-beachfront-one-bedroom-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of comfort and luxury, boasting a spacious layout that includes a well-appointed bedroom, a modern bathroom equipped with a bidet, and comprehensive amenities such as bed linen, towels, and a flat-screen TV with streaming services. The presence of a fully equipped kitchen and a dining area adds a touch of home, while the balcony offers guests the opportunity to soak in the stunning sea views in privacy. Notably, the apartment is designed with soundproofing, catering to those who value peace and quiet. Additionally, it is an allergy-free and non-smoking environment, making it a suitable choice for guests with specific health considerations.
 
 Guests at Eka Luxury Beachfront One-Bedroom Apartment benefit from the convenience of private parking on the premises and complimentary WiFi, ensuring that all needs are met with the utmost attention to detail. The 24-hour front desk and the availability of a lift further enhance the guest experience, providing ease and accessibility at all hours.
 

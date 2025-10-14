@@ -5,7 +5,6 @@ region: Albanian Riviera
 featuredImage: /images/destinations/dhermi.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

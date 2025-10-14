@@ -1,4 +1,82 @@
----\ntitle: "Vila Paza"\ndescription: "Vila Paza emerges as a serene oasis in Sarandë, boasting a lush garden and an inviting terrace for guests seeking tranquility and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296710472.jpg?k=01db7b7c88be20f974876fdc3d37b7c85cf811e05c87072e913da9b97c9b7988&o=&hp=1"\nlanguage: en\nslug: vila-paza\naddress: "SH81, 9704 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.80321432\n  lng: 20.0097588\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 53\nratings:\n  overall: 9.3\n  location: 8.8\n  cleanliness: 9.4\n  facilities: 8.8\n  value: 9.5\n  comfort: 9.4\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296710472.jpg?k=01db7b7c88be20f974876fdc3d37b7c85cf811e05c87072e913da9b97c9b7988&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296708781.jpg?k=6fa10cfca2d5316240eadeb7ba062bfd9b1e9c3fedc513d0728d1016a71d9e9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296709530.jpg?k=c26fee302e198a325d266988d2dbf8c8e40c2462b27ee61ce0ab6b212d6c212c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505614206.jpg?k=d0a56b429ba9825e3e39cd2a99f24eaede75d74a6ff312f168e612d0a2b11bfa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469805886.jpg?k=5850af10877cd6350c4c3f4c32d23c829c8c5be57d8ed11e6ea62bb2c2cc8576&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296708975.jpg?k=45fa7eb92f3cd09543cc59692734fbe6551f5306f8ac92775c3eb2e73308ee3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366917062.jpg?k=cb4ed6d6989cafa485a302218de5acfaac64d56e554ce3f4f6603abf21bcc09c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523651331.jpg?k=e4b92352dd7e57d4d41aeb6eb932cf7654c22edb44f67f6a9f5869746af2d18c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505614861.jpg?k=81d1877b0cf5743fef5d8b8867ca03c472fb4caf11c3ea2fc9be536c765ae426&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Panorama Eni 300 m"\n  - "Bar Restraunt Pasqyra 400 m"\nnearbyBeaches:\n  - "Pasqyra Beach 400 m"\n  - "Pulebardha Beach 750 m"\n  - "Manastir Beach 1.1 km"\n  - "Ksamil Beach 1 1.3 km"\n  - "Sunset Beach 2.6 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Plazhi I Krorezes 850 m"\n  - "Parku Kombetar I Butrintit 4 km"\n  - "Butrint National Park 4.8 km"\n  - "Parc National de Butrint 6 km"\nairports:\n  - "Corfu International Airport 23 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Alexandra"\n    country: "Portugal"\n    text: "“The house owners dont speak english but we were able to comunicate with Google translate. They were very nice and we felt very welcome. The house is near to a beautiful wild beach and two familiar small restaurants”"\n  - name: "Gemma"\n    country: "Netherlands"\n    text: "“Nice and welcoming hosts in a lovely place with sea view. You can easily walk to reach the closest beach. Room is comfy and you have a nice terrace to enjoy sunsets.”"\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“Beautiful setting, very kind hosts who do not speak english, but somehow it's never difficult to understand each other, very spacious room with fully equipped kitchen, modern bathroom, good ac unit. Really lovely and homely atmosphere.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-paza.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Vila Paza ensure a comfortable stay, featuring air conditioning and private bathrooms across all units. For those desiring a touch of home, select rooms are enhanced with a fully equipped kitchenette, complete with a fridge, providing an added convenience for guests.
+---
+title: "Vila Paza"
+description: "Vila Paza emerges as a serene oasis in Sarandë, boasting a lush garden and an inviting terrace for guests seeking tranquility and comfort."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296710472.jpg?k=01db7b7c88be20f974876fdc3d37b7c85cf811e05c87072e913da9b97c9b7988&o=&hp=1"
+language: en
+slug: vila-paza
+address: "SH81, 9704 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.80321432
+  lng: 20.0097588
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 53
+ratings:
+  overall: 9.3
+  location: 8.8
+  cleanliness: 9.4
+  facilities: 8.8
+  value: 9.5
+  comfort: 9.4
+  staff: 9.5
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296710472.jpg?k=01db7b7c88be20f974876fdc3d37b7c85cf811e05c87072e913da9b97c9b7988&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296708781.jpg?k=6fa10cfca2d5316240eadeb7ba062bfd9b1e9c3fedc513d0728d1016a71d9e9d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296709530.jpg?k=c26fee302e198a325d266988d2dbf8c8e40c2462b27ee61ce0ab6b212d6c212c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505614206.jpg?k=d0a56b429ba9825e3e39cd2a99f24eaede75d74a6ff312f168e612d0a2b11bfa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469805886.jpg?k=5850af10877cd6350c4c3f4c32d23c829c8c5be57d8ed11e6ea62bb2c2cc8576&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296708975.jpg?k=45fa7eb92f3cd09543cc59692734fbe6551f5306f8ac92775c3eb2e73308ee3a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366917062.jpg?k=cb4ed6d6989cafa485a302218de5acfaac64d56e554ce3f4f6603abf21bcc09c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523651331.jpg?k=e4b92352dd7e57d4d41aeb6eb932cf7654c22edb44f67f6a9f5869746af2d18c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505614861.jpg?k=81d1877b0cf5743fef5d8b8867ca03c472fb4caf11c3ea2fc9be536c765ae426&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Panorama Eni 300 m"
+  - "Bar Restraunt Pasqyra 400 m"
+nearbyBeaches:
+  - "Pasqyra Beach 400 m"
+  - "Pulebardha Beach 750 m"
+  - "Manastir Beach 1.1 km"
+  - "Ksamil Beach 1 1.3 km"
+  - "Sunset Beach 2.6 km"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Plazhi I Krorezes 850 m"
+  - "Parku Kombetar I Butrintit 4 km"
+  - "Butrint National Park 4.8 km"
+  - "Parc National de Butrint 6 km"
+airports:
+  - "Corfu International Airport 23 km"
+  - "Ioannina Airport 69 km"
+reviews:
+  - name: "Alexandra"
+    country: "Portugal"
+    text: "“The house owners dont speak english but we were able to comunicate with Google translate. They were very nice and we felt very welcome. The house is near to a beautiful wild beach and two familiar small restaurants”"
+  - name: "Gemma"
+    country: "Netherlands"
+    text: "“Nice and welcoming hosts in a lovely place with sea view. You can easily walk to reach the closest beach. Room is comfy and you have a nice terrace to enjoy sunsets.”"
+  - name: "Agnieszka"
+    country: "Poland"
+    text: "“Beautiful setting, very kind hosts who do not speak english, but somehow it's never difficult to understand each other, very spacious room with fully equipped kitchen, modern bathroom, good ac unit. Really lovely and homely atmosphere.”"
+bookingURL: "https://www.booking.com/hotel/al/vila-paza.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Vila Paza ensure a comfortable stay, featuring air conditioning and private bathrooms across all units. For those desiring a touch of home, select rooms are enhanced with a fully equipped kitchenette, complete with a fridge, providing an added convenience for guests.
 
 An outdoor fireplace adds a unique charm to the property, inviting guests to gather and share stories under the stars. The availability of complimentary WiFi and private parking further elevates the guest experience, ensuring both connectivity and ease of access throughout their stay.
 

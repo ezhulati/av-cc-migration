@@ -1,4 +1,65 @@
----\ntitle: "Hotel Realdo"\ndescription: "Hotel Realdo emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519465522.jpg?k=8c5ee2e1240f8d8bc56f27e2b96562b7f17827b47edf91c69418d51ac3d7f9fe&o=&hp=1"\nlanguage: en\nslug: hotel-realdo\naddress: "Rruga Sali Vranishti, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.40165301\n  lng: 19.47987883\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519465522.jpg?k=8c5ee2e1240f8d8bc56f27e2b96562b7f17827b47edf91c69418d51ac3d7f9fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467335.jpg?k=a49280120b866029f22ae228e0933bef3c572b47d0d2da7b134dac2a95c75b3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467464.jpg?k=b098ff0edbf30d75f4127cf1866a73727a9b72e20b3f4faedf3e30b9baca258c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520153589.jpg?k=0f6740b57af4d5e7f74816aa00b546d0328028e1a0fa55e759805434a2700b9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467614.jpg?k=fd0947f9bfc6ac302c696fdb65dbcefc0c7d5e3c1c0e736224235fd10ba67baf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500005.jpg?k=48adae9469e3af9ab8a22a56bafec2d224c49d633dc7e1e4a82b618e0420e72c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "Double Room"\n  - "Triple Room"\n  - "Apartment"\nnearbyRestaurants:\n  - "RESTORANT DIONS 150 m"\n  - "Les Amis 350 m"\nwhatsNearby:\n  - "Scooby Doo Vlore 4.1 km"\n  - "Kuzum Baba 7 km"\n  - "Independence Square 8 km"\n  - "Llogora National Park 20 km"\nairports:\n  - "Corfu International Airport 95 km"\nbookingURL: "https://www.booking.com/hotel/al/realdo.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBeyond its enviable location, Hotel Realdo prides itself on its array of amenities designed to enhance every stay. Guests can enjoy the luxury of free WiFi across the premises, complimentary private parking, and the unique perk of a private beach area perfect for those who seek a more exclusive seaside experience. Additionally, barbecue facilities are available, inviting guests to enjoy leisurely outdoor dining amidst the hotel's scenic surroundings.
+---
+title: "Hotel Realdo"
+description: "Hotel Realdo emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519465522.jpg?k=8c5ee2e1240f8d8bc56f27e2b96562b7f17827b47edf91c69418d51ac3d7f9fe&o=&hp=1"
+language: en
+slug: hotel-realdo
+address: "Rruga Sali Vranishti, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.40165301
+  lng: 19.47987883
+price: "US$56"
+priceFrom: 56
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519465522.jpg?k=8c5ee2e1240f8d8bc56f27e2b96562b7f17827b47edf91c69418d51ac3d7f9fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467335.jpg?k=a49280120b866029f22ae228e0933bef3c572b47d0d2da7b134dac2a95c75b3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467464.jpg?k=b098ff0edbf30d75f4127cf1866a73727a9b72e20b3f4faedf3e30b9baca258c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520153589.jpg?k=0f6740b57af4d5e7f74816aa00b546d0328028e1a0fa55e759805434a2700b9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467614.jpg?k=fd0947f9bfc6ac302c696fdb65dbcefc0c7d5e3c1c0e736224235fd10ba67baf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500005.jpg?k=48adae9469e3af9ab8a22a56bafec2d224c49d633dc7e1e4a82b618e0420e72c&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+roomTypes:
+  - "Double Room"
+  - "Triple Room"
+  - "Apartment"
+nearbyRestaurants:
+  - "RESTORANT DIONS 150 m"
+  - "Les Amis 350 m"
+whatsNearby:
+  - "Scooby Doo Vlore 4.1 km"
+  - "Kuzum Baba 7 km"
+  - "Independence Square 8 km"
+  - "Llogora National Park 20 km"
+airports:
+  - "Corfu International Airport 95 km"
+bookingURL: "https://www.booking.com/hotel/al/realdo.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Beyond its enviable location, Hotel Realdo prides itself on its array of amenities designed to enhance every stay. Guests can enjoy the luxury of free WiFi across the premises, complimentary private parking, and the unique perk of a private beach area perfect for those who seek a more exclusive seaside experience. Additionally, barbecue facilities are available, inviting guests to enjoy leisurely outdoor dining amidst the hotel's scenic surroundings.
 
 Accommodations at Hotel Realdo are thoughtfully appointed to ensure maximum comfort. Each guest room is equipped with air conditioning, a refrigerator, and a stovetop, alongside a coffee machine for those morning refreshments. The convenience of a private bathroom, complete with a shower and hairdryer, adds to the room's appeal, while the inclusion of a wardrobe and a flat-screen TV ensures guests feel right at home. Moreover, every room boasts a balcony, offering a personal oasis where guests can unwind and soak in the local ambiance.
 

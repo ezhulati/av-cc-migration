@@ -1,4 +1,84 @@
----\ntitle: "Chez Enzo’s"\ndescription: "Chez Enzo’s emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424913837.jpg?k=c1b159860721649b6b1d70799c29cd9dd3765088a06079671a0f53fe16f1e868&o=&hp=1"\nlanguage: en\nslug: chez-enzo-s\naddress: "Bulevardi Zhan D'Ark, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33066151\n  lng: 19.83399469\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424913837.jpg?k=c1b159860721649b6b1d70799c29cd9dd3765088a06079671a0f53fe16f1e868&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966455.jpg?k=37320510731fdc3fd18eb900493903c2602b2a6ab162156fe30822ec7569a1c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420963467.jpg?k=c64eaeb9b4d7f3d0c7998524ddfe842fcfc67a5ea3ba45dd2fec2ee37d969199&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966444.jpg?k=e1a49230ee58277fd637fb8583bdca22f6c76e4ff46a7303c0ad989fcc62746e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966425.jpg?k=0857eb1aa845b643439333771aee6de344207e39492e76c2eb32bf4b64e55894&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424918402.jpg?k=252a10afbba5cb29cc778b0fbea898f8574122bf3860dbb1bcc2774c8f69eb52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966432.jpg?k=27610c0f7cdbbbcd81cc04e0997dddcf9896f742e135b23d1ff91d9e75f2e454&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420963265.jpg?k=bd16b595c896859cfb74205494f792cf56189bd1cb0ac4cac255a9308878db0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424914281.jpg?k=09f10b63a4e27769613e9f5ba0b8bca08edd11b4de525e04e9923c1fd0779f78&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Skanderbeg Square 1.3 km"\n  - "National Museum of History Albania 1.4 km"\n  - "Rinia Park 1.5 km"\n  - "House of Leaves 1.5 km"\n  - "Former Residence of Enver Hoxha 1.8 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.1 km"\nnearbyRestaurants:\n  - "Sufflaqe 10 m"\n  - "Zuko 20 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 500 m"\n  - "Sheshi Rekreativ tek ish ATSh 700 m"\n  - "Tanners' Bridge 800 m"\n  - "Sheshi Sulejman Pasha 1 km"\n  - "Sheshi Rekreativ Gjolek Kokona 1.2 km"\n  - "National Gallery of Arts Tirana 1.2 km"\n  - "Shesh Rekreativ 1.2 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "Sheshi Rekreativ Piramida 1.2 km"\n  - "Amazing Nature 1.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Selmani"\n    country: "Albania"\n    text: "“We had a great time! The house was very clean and we had all the utilities that we needed at hand. The owner were very welcoming and responded to every need we had, and were available at any time of the day. I recommend booking this house for your...”"\n  - name: "Ina"\n    country: "Albania"\n    text: "“The house is very cozy and it is decorated beautifully. We had a great time. Everything was perfect. The house was tidy, all the utilities are included and the bed was very comfortable. On top of that, we received great and welcoming service by...”"\nbookingURL: "https://www.booking.com/hotel/al/chez-enzos.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of space and comfort, boasting air-conditioned interiors that open up to a balcony offering sweeping views of the river and cityscape. The living space is thoughtfully designed with a modern traveler in mind, featuring a well-equipped kitchen complete with an oven and toaster, a cozy seating area, and a flat-screen TV for entertainment. The bedroom is a sanctuary for rest, complemented by a bathroom outfitted with a bidet, ensuring a refreshing start and end to each day. For added convenience, towels, bed linen, and even a welcoming touch of fruits are provided, enhancing the homely experience.
+---
+title: "Chez Enzo’s"
+description: "Chez Enzo’s emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424913837.jpg?k=c1b159860721649b6b1d70799c29cd9dd3765088a06079671a0f53fe16f1e868&o=&hp=1"
+language: en
+slug: chez-enzo-s
+address: "Bulevardi Zhan D'Ark, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33066151
+  lng: 19.83399469
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424913837.jpg?k=c1b159860721649b6b1d70799c29cd9dd3765088a06079671a0f53fe16f1e868&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966455.jpg?k=37320510731fdc3fd18eb900493903c2602b2a6ab162156fe30822ec7569a1c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420963467.jpg?k=c64eaeb9b4d7f3d0c7998524ddfe842fcfc67a5ea3ba45dd2fec2ee37d969199&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966444.jpg?k=e1a49230ee58277fd637fb8583bdca22f6c76e4ff46a7303c0ad989fcc62746e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966425.jpg?k=0857eb1aa845b643439333771aee6de344207e39492e76c2eb32bf4b64e55894&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424918402.jpg?k=252a10afbba5cb29cc778b0fbea898f8574122bf3860dbb1bcc2774c8f69eb52&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419966432.jpg?k=27610c0f7cdbbbcd81cc04e0997dddcf9896f742e135b23d1ff91d9e75f2e454&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420963265.jpg?k=bd16b595c896859cfb74205494f792cf56189bd1cb0ac4cac255a9308878db0a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424914281.jpg?k=09f10b63a4e27769613e9f5ba0b8bca08edd11b4de525e04e9923c1fd0779f78&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Skanderbeg Square 1.3 km"
+  - "National Museum of History Albania 1.4 km"
+  - "Rinia Park 1.5 km"
+  - "House of Leaves 1.5 km"
+  - "Former Residence of Enver Hoxha 1.8 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 3.1 km"
+nearbyRestaurants:
+  - "Sufflaqe 10 m"
+  - "Zuko 20 m"
+whatsNearby:
+  - "Sheshi Jjosef Shtraus 500 m"
+  - "Sheshi Rekreativ tek ish ATSh 700 m"
+  - "Tanners' Bridge 800 m"
+  - "Sheshi Sulejman Pasha 1 km"
+  - "Sheshi Rekreativ Gjolek Kokona 1.2 km"
+  - "National Gallery of Arts Tirana 1.2 km"
+  - "Shesh Rekreativ 1.2 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "Sheshi Rekreativ Piramida 1.2 km"
+  - "Amazing Nature 1.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Selmani"
+    country: "Albania"
+    text: "“We had a great time! The house was very clean and we had all the utilities that we needed at hand. The owner were very welcoming and responded to every need we had, and were available at any time of the day. I recommend booking this house for your...”"
+  - name: "Ina"
+    country: "Albania"
+    text: "“The house is very cozy and it is decorated beautifully. We had a great time. Everything was perfect. The house was tidy, all the utilities are included and the bed was very comfortable. On top of that, we received great and welcoming service by...”"
+bookingURL: "https://www.booking.com/hotel/al/chez-enzos.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of space and comfort, boasting air-conditioned interiors that open up to a balcony offering sweeping views of the river and cityscape. The living space is thoughtfully designed with a modern traveler in mind, featuring a well-equipped kitchen complete with an oven and toaster, a cozy seating area, and a flat-screen TV for entertainment. The bedroom is a sanctuary for rest, complemented by a bathroom outfitted with a bidet, ensuring a refreshing start and end to each day. For added convenience, towels, bed linen, and even a welcoming touch of fruits are provided, enhancing the homely experience.
 
 For those who prefer to dine in or need essentials, a supermarket is conveniently located within walking distance, adding to the ease of stay at Chez Enzo’s. The apartment's proximity to notable attractions such as Tanners' Bridge, Saint Paul Cathedral, and Toptani Shopping Centre further enriches the guest experience, offering a glimpse into the local culture and lifestyle.
 

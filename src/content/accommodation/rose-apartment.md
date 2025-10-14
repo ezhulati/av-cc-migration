@@ -1,4 +1,81 @@
----\ntitle: "Rose Apartment"\ndescription: "Rose Apartment emerges as a serene oasis in the heart of Sarandë, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356831188.jpg?k=ff98124d91aa13d476b39edd8824549498d66b7f271fc3720ea270632ae28f4e&o=&hp=1"\nlanguage: en\nslug: rose-apartment\naddress: "Rruga Qazim Demi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87166511\n  lng: 20.01680754\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 26\nratings:\n  overall: 9.6\n  location: 9.2\n  cleanliness: 9.4\n  facilities: 9.4\n  value: 9.8\n  comfort: 9.7\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356831188.jpg?k=ff98124d91aa13d476b39edd8824549498d66b7f271fc3720ea270632ae28f4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913189.jpg?k=9b8032288987526a88b4856dc122913b731a347af99009c941df773f3b033b2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913199.jpg?k=819634665b7e064a797a6ee3cbc9b5c88a8b7548176943ad053fcd42aa50bd4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913215.jpg?k=ed9b0283faef813eeb15d991586c12bd434fc0a64169848f986cbe62609766d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913233.jpg?k=0a6dc48ed6eccb9f1dddc3e708483de7ea4f622113585739962e602e4ae5f305&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913246.jpg?k=b12d6196f2268a320c065104c33566e68beb37501c91ec7b22885c8b12af75fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913265.jpg?k=cc9848e242808cbb3d161bb3714bdb58c8775ef31a4f5715be1abcdd2bba8ee7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913302.jpg?k=fa450b1018a69716224cc360032b418b66e12f5bdbbf0506eb6580247e619221&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913044.jpg?k=35655ab5c5c89035d9d7abf1486437bcee71b928274e45d0e0752112cb0cf7e5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Bar Kafe \Enea\\"\" 100 m"\n  - "Restorant Kalija 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 250 m"\n  - "La Petite Beach 400 m"\n  - "Maestral Beach 550 m"\n  - "Sarande Main Beach 1.2 km"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.6 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Weronika"\n    country: "Poland"\n    text: "“The place was VERY clean, spacious and comfortable. The AC works well, there's a basic kitchen where you may prepare your meals. The location was really convenient, walking distance to the town's main beach and promenade. Owners, even though...”"\n  - name: "Igor"\n    country: "Serbia"\n    text: "“Excellent accommodation. Spacious, new, literally 5 minutes from the promenade. Recommendation...”"\n  - name: "Felix"\n    country: "Austria"\n    text: "“Very nice location, close to the city center but not too noisy. Good AC and smart TV.”"\nbookingURL: "https://www.booking.com/hotel/al/rose-apartment-sarande1.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment complex doesn't just boast an enviable position; it also offers a tranquil garden setting with views that promise relaxation and a sense of escape from the everyday. The addition of a sun terrace elevates the experience, allowing guests to soak in the Mediterranean sun in a serene environment.
+---
+title: "Rose Apartment"
+description: "Rose Apartment emerges as a serene oasis in the heart of Sarandë, offering guests a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356831188.jpg?k=ff98124d91aa13d476b39edd8824549498d66b7f271fc3720ea270632ae28f4e&o=&hp=1"
+language: en
+slug: rose-apartment
+address: "Rruga Qazim Demi, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87166511
+  lng: 20.01680754
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 26
+ratings:
+  overall: 9.6
+  location: 9.2
+  cleanliness: 9.4
+  facilities: 9.4
+  value: 9.8
+  comfort: 9.7
+  staff: 9.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356831188.jpg?k=ff98124d91aa13d476b39edd8824549498d66b7f271fc3720ea270632ae28f4e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913189.jpg?k=9b8032288987526a88b4856dc122913b731a347af99009c941df773f3b033b2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913199.jpg?k=819634665b7e064a797a6ee3cbc9b5c88a8b7548176943ad053fcd42aa50bd4d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913215.jpg?k=ed9b0283faef813eeb15d991586c12bd434fc0a64169848f986cbe62609766d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913233.jpg?k=0a6dc48ed6eccb9f1dddc3e708483de7ea4f622113585739962e602e4ae5f305&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913246.jpg?k=b12d6196f2268a320c065104c33566e68beb37501c91ec7b22885c8b12af75fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913265.jpg?k=cc9848e242808cbb3d161bb3714bdb58c8775ef31a4f5715be1abcdd2bba8ee7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913302.jpg?k=fa450b1018a69716224cc360032b418b66e12f5bdbbf0506eb6580247e619221&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448913044.jpg?k=35655ab5c5c89035d9d7abf1486437bcee71b928274e45d0e0752112cb0cf7e5&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Bar Kafe \Enea\\"\" 100 m"
+  - "Restorant Kalija 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 250 m"
+  - "La Petite Beach 400 m"
+  - "Maestral Beach 550 m"
+  - "Sarande Main Beach 1.2 km"
+  - "VIP Beach 1.4 km"
+whatsNearby:
+  - "Parc National de Butrint 1.6 km"
+  - "Butrint National Park 2.5 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Weronika"
+    country: "Poland"
+    text: "“The place was VERY clean, spacious and comfortable. The AC works well, there's a basic kitchen where you may prepare your meals. The location was really convenient, walking distance to the town's main beach and promenade. Owners, even though...”"
+  - name: "Igor"
+    country: "Serbia"
+    text: "“Excellent accommodation. Spacious, new, literally 5 minutes from the promenade. Recommendation...”"
+  - name: "Felix"
+    country: "Austria"
+    text: "“Very nice location, close to the city center but not too noisy. Good AC and smart TV.”"
+bookingURL: "https://www.booking.com/hotel/al/rose-apartment-sarande1.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+The apartment complex doesn't just boast an enviable position; it also offers a tranquil garden setting with views that promise relaxation and a sense of escape from the everyday. The addition of a sun terrace elevates the experience, allowing guests to soak in the Mediterranean sun in a serene environment.
 
 Accommodations at Rose Apartment are thoughtfully designed with guest comfort in mind. Each unit features air conditioning and a private bathroom, ensuring a restful and comfortable stay. For those who prefer to cater to their culinary needs, selected rooms are equipped with a fully equipped kitchen, complete with an oven, providing a home-away-from-home experience.
 

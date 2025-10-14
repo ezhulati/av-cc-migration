@@ -1,4 +1,81 @@
----\ntitle: "sea & sun apartment 1"\ndescription: "Sea & Sun Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464129976.jpg?k=8cedee9d9afe1918b7cf01488084a6179bc29cd19d7acb65c91b21885015bcb2&o=&hp=1"\nlanguage: en\nslug: sea-sun-apartment-1\naddress: "Rr pavarsia durres, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30894972\n  lng: 19.4875957\nprice: "US$44"\npriceFrom: 44\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.6\n  location: 9\n  cleanliness: 10\n  facilities: 9.5\n  value: 10\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464129976.jpg?k=8cedee9d9afe1918b7cf01488084a6179bc29cd19d7acb65c91b21885015bcb2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130086.jpg?k=527cc0f2b99be569e8a8e349a5cf5a79e6545fb27ba6fcd0ace2b266a831dcfc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130167.jpg?k=9a4d6a82c91f1d80c06978d24adbc99228647947f4f1606e37dd1b9b153b8082&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130182.jpg?k=a1cdebc13751ae5e0e1fc48f4fbfa9a95f9ca95cf7748c53759b3f24471879d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130106.jpg?k=46674b8c43b0f47699c2b409fd2fd1d3683c2f1f303ffbb2b3c2955ce4a4b39f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130157.jpg?k=bd39c0a98ced2522657bf6e13c238052c9e042cf466f54cd09929bf57f27c308&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130067.jpg?k=b1dffabf75ea9fc1ad51b472483b6c6b1543e5536a774f014a2197f00122dbc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130143.jpg?k=364828df510dedd51188f2f7b3176cb9f0cf44248f8dbc0b78fbbcbe0177f596&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130119.jpg?k=b60f6b23fa7c2c6559454b45fa22f796d19110c1296be00935e066cbaae118b1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Sulltan Bakllava 40 m"\n  - "Fast Food Torra 100 m"\nnearbyBeaches:\n  - "Durres Beach 150 m"\n  - "Shkëmbi i Kavajës Beach 3.1 km"\n  - "Currila Beach 3.4 km"\n  - "Kallmi Beach 4.7 km"\n  - "Golem Beach 6 km"\nwhatsNearby:\n  - "Bekimi 2.3 km"\n  - "Wine Dhe Pooh 3.3 km"\n  - "Sheshi Demokracia 3.4 km"\n  - "Yje Dhe Hena 3.5 km"\n  - "Durres Amphiteatre 3.6 km"\n  - "Sotir Noka 3.7 km"\n  - "1. Maj 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Carole"\n    country: "Colombia"\n    text: "“Exceptional stay, a very well located apartment, at the top of comfort, an extremely friendly owner. We will be back.”"\n  - name: "Ottó"\n    country: "Hungary"\n    text: "“It met the preliminary expectations, we got what we saw on the booking. It is close to the beaches and the center.”"\nbookingURL: "https://www.booking.com/hotel/al/cosy-beach-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, featuring a well-appointed bedroom, a cozy living room complete with a flat-screen TV, and a fully equipped kitchen boasting an oven and a fridge. The inclusion of a bathroom with a bidet adds a touch of convenience, while the option to request towels and linens is available for those seeking extra comfort. Notably, the accommodation guarantees privacy with its private entrance, making it an ideal choice for those valuing their solitude.
+---
+title: "sea & sun apartment 1"
+description: "Sea & Sun Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464129976.jpg?k=8cedee9d9afe1918b7cf01488084a6179bc29cd19d7acb65c91b21885015bcb2&o=&hp=1"
+language: en
+slug: sea-sun-apartment-1
+address: "Rr pavarsia durres, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30894972
+  lng: 19.4875957
+price: "US$44"
+priceFrom: 44
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 5
+ratings:
+  overall: 9.6
+  location: 9
+  cleanliness: 10
+  facilities: 9.5
+  value: 10
+  comfort: 9.5
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464129976.jpg?k=8cedee9d9afe1918b7cf01488084a6179bc29cd19d7acb65c91b21885015bcb2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130086.jpg?k=527cc0f2b99be569e8a8e349a5cf5a79e6545fb27ba6fcd0ace2b266a831dcfc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130167.jpg?k=9a4d6a82c91f1d80c06978d24adbc99228647947f4f1606e37dd1b9b153b8082&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130182.jpg?k=a1cdebc13751ae5e0e1fc48f4fbfa9a95f9ca95cf7748c53759b3f24471879d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130106.jpg?k=46674b8c43b0f47699c2b409fd2fd1d3683c2f1f303ffbb2b3c2955ce4a4b39f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130157.jpg?k=bd39c0a98ced2522657bf6e13c238052c9e042cf466f54cd09929bf57f27c308&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130067.jpg?k=b1dffabf75ea9fc1ad51b472483b6c6b1543e5536a774f014a2197f00122dbc4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130143.jpg?k=364828df510dedd51188f2f7b3176cb9f0cf44248f8dbc0b78fbbcbe0177f596&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464130119.jpg?k=b60f6b23fa7c2c6559454b45fa22f796d19110c1296be00935e066cbaae118b1&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Sulltan Bakllava 40 m"
+  - "Fast Food Torra 100 m"
+nearbyBeaches:
+  - "Durres Beach 150 m"
+  - "Shkëmbi i Kavajës Beach 3.1 km"
+  - "Currila Beach 3.4 km"
+  - "Kallmi Beach 4.7 km"
+  - "Golem Beach 6 km"
+whatsNearby:
+  - "Bekimi 2.3 km"
+  - "Wine Dhe Pooh 3.3 km"
+  - "Sheshi Demokracia 3.4 km"
+  - "Yje Dhe Hena 3.5 km"
+  - "Durres Amphiteatre 3.6 km"
+  - "Sotir Noka 3.7 km"
+  - "1. Maj 3.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Carole"
+    country: "Colombia"
+    text: "“Exceptional stay, a very well located apartment, at the top of comfort, an extremely friendly owner. We will be back.”"
+  - name: "Ottó"
+    country: "Hungary"
+    text: "“It met the preliminary expectations, we got what we saw on the booking. It is close to the beaches and the center.”"
+bookingURL: "https://www.booking.com/hotel/al/cosy-beach-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious haven, featuring a well-appointed bedroom, a cozy living room complete with a flat-screen TV, and a fully equipped kitchen boasting an oven and a fridge. The inclusion of a bathroom with a bidet adds a touch of convenience, while the option to request towels and linens is available for those seeking extra comfort. Notably, the accommodation guarantees privacy with its private entrance, making it an ideal choice for those valuing their solitude.
 
 For guests' enjoyment, an on-site bar offers a spot to unwind after a day of exploration. The location of Sea & Sun Apartment 1 is also perfect for adventurers looking to explore beyond the beach. Skanderbeg Square is within a 38 km reach, and the Dajti Ekspres Cable Car lies 42 km away, promising a blend of urban exploration and natural beauty. Furthermore, the proximity to Tirana International Mother Teresa Airport, just 32 km away, ensures a hassle-free journey to and from the property.
 

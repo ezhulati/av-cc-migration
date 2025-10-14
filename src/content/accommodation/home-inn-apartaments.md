@@ -1,6 +1,90 @@
----\ntitle: "Home Inn Apartaments"\ndescription: "Discover the charm of Tirana with a stay at Home Inn Apartaments, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631904.jpg?k=3bf67b0642e44cadb0bbb4aa4e85159d11c3bf7463412c85c3c810c82130417b&o=&hp=1"\nlanguage: en\nslug: home-inn-apartaments\naddress: "Rruga Muhamet Gjollesha, 1023 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33161349\n  lng: 19.80366617\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 9.7\n  value: 9.7\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631904.jpg?k=3bf67b0642e44cadb0bbb4aa4e85159d11c3bf7463412c85c3c810c82130417b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503202759.jpg?k=f81aafdaa63cd9657b3f86fa07d473bfea9c014b381f96f28a940433a8e86b96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631924.jpg?k=8fbd895da4bb043eb313be64baad3bcb71fca08f81a2b2d9fc37f842701c91aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631922.jpg?k=fa34d615967c7270ea646ca9ed371d672966a07c70c134ec9327f4779da722ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510994044.jpg?k=17b5ebf3fa346b53d1993f74dfa5b3781231e6384531a8669a377bed57b9d719&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503203929.jpg?k=227bb2ccf9c3ec2ab3138281d6e7ea728480596a9294ced88f83e903d0ddc3ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503203923.jpg?k=16e8edb91f3744a99914c789e93c8775307897b5f250d49144651429f69b4974&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503203689.jpg?k=f68b290aa45d29b682c145552b06f659a36d11f9ce18d4b647f578121ba9923c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631920.jpg?k=e06888b291192f6602e55a720e4cbb5a23ee7590127b0e0fc1f53f07fa859fd6&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.4 km"\n  - "Clock Tower Tirana 1.4 km"\n  - "Rinia Park 1.4 km"\n  - "National Gallery of Arts Tirana 1.5 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Tanners' Bridge 2 km"\n  - "Grand Park of Tirana 2.8 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Bar Restorant Il Nido 30 m"\n  - "Qebatore 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 350 m"\n  - "Sheshi Rekreativ Don Bosko 500 m"\n  - "Sheshi Rekreativ Parku 1Km 600 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 900 m"\n  - "Sheshi Paris 1,000 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1,000 m"\n  - "Sheshi Rekreativ Sali Butka 1 km"\n  - "Sheshi Rekreativ Lord Bajron 1.1 km"\n  - "National Museum of History Albania 1.2 km"\n  - "House of Leaves 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Arash"\n    country: "Germany"\n    text: "“very nice and fly hosts.
+---
+title: "Home Inn Apartaments"
+description: "Discover the charm of Tirana with a stay at Home Inn Apartaments, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631904.jpg?k=3bf67b0642e44cadb0bbb4aa4e85159d11c3bf7463412c85c3c810c82130417b&o=&hp=1"
+language: en
+slug: home-inn-apartaments
+address: "Rruga Muhamet Gjollesha, 1023 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33161349
+  lng: 19.80366617
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 9
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 10
+  facilities: 9.7
+  value: 9.7
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631904.jpg?k=3bf67b0642e44cadb0bbb4aa4e85159d11c3bf7463412c85c3c810c82130417b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503202759.jpg?k=f81aafdaa63cd9657b3f86fa07d473bfea9c014b381f96f28a940433a8e86b96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631924.jpg?k=8fbd895da4bb043eb313be64baad3bcb71fca08f81a2b2d9fc37f842701c91aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631922.jpg?k=fa34d615967c7270ea646ca9ed371d672966a07c70c134ec9327f4779da722ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510994044.jpg?k=17b5ebf3fa346b53d1993f74dfa5b3781231e6384531a8669a377bed57b9d719&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503203929.jpg?k=227bb2ccf9c3ec2ab3138281d6e7ea728480596a9294ced88f83e903d0ddc3ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503203923.jpg?k=16e8edb91f3744a99914c789e93c8775307897b5f250d49144651429f69b4974&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503203689.jpg?k=f68b290aa45d29b682c145552b06f659a36d11f9ce18d4b647f578121ba9923c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631920.jpg?k=e06888b291192f6602e55a720e4cbb5a23ee7590127b0e0fc1f53f07fa859fd6&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.4 km"
+  - "Clock Tower Tirana 1.4 km"
+  - "Rinia Park 1.4 km"
+  - "National Gallery of Arts Tirana 1.5 km"
+  - "Former Residence of Enver Hoxha 1.6 km"
+  - "Tanners' Bridge 2 km"
+  - "Grand Park of Tirana 2.8 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Bar Restorant Il Nido 30 m"
+  - "Qebatore 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 350 m"
+  - "Sheshi Rekreativ Don Bosko 500 m"
+  - "Sheshi Rekreativ Parku 1Km 600 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 900 m"
+  - "Sheshi Paris 1,000 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1,000 m"
+  - "Sheshi Rekreativ Sali Butka 1 km"
+  - "Sheshi Rekreativ Lord Bajron 1.1 km"
+  - "National Museum of History Albania 1.2 km"
+  - "House of Leaves 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Arash"
+    country: "Germany"
+    text: "“very nice and fly hosts.
 Clean location
-Central location”"\n  - name: "Besjana"\n    country: "Germany"\n    text: "“The apartment was very clean and well equipped. I could check in late in the evening and was very easy. The location is perfect, bus stop just few minutes walk and you find everything you need around.”"\n  - name: "Senada"\n    country: "Germany"\n    text: "“Tolle Lage. Sehr sauber!! Gute Ausstattung. Groß und gemütlich.”"\nbookingURL: "https://www.booking.com/hotel/al/home-inn-apartaments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nHome Inn Apartaments finds itself in close proximity to some of Tirana's most notable landmarks, including the Et'hem Bey Mosque, the National Museum of History of Albania, and the National Theatre of Opera and Ballet of Albania. Guests will appreciate the convenience of free WiFi available throughout their stay, ensuring they remain connected and informed. Moreover, the iconic Skanderbeg Square is merely 1.6 km away, inviting guests to immerse themselves in the local culture and history.
+Central location”"
+  - name: "Besjana"
+    country: "Germany"
+    text: "“The apartment was very clean and well equipped. I could check in late in the evening and was very easy. The location is perfect, bus stop just few minutes walk and you find everything you need around.”"
+  - name: "Senada"
+    country: "Germany"
+    text: "“Tolle Lage. Sehr sauber!! Gute Ausstattung. Groß und gemütlich.”"
+bookingURL: "https://www.booking.com/hotel/al/home-inn-apartaments.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Home Inn Apartaments finds itself in close proximity to some of Tirana's most notable landmarks, including the Et'hem Bey Mosque, the National Museum of History of Albania, and the National Theatre of Opera and Ballet of Albania. Guests will appreciate the convenience of free WiFi available throughout their stay, ensuring they remain connected and informed. Moreover, the iconic Skanderbeg Square is merely 1.6 km away, inviting guests to immerse themselves in the local culture and history.
 
 The apartment itself boasts air-conditioning for those warm Tirana days and features a cozy bedroom, a welcoming living room, and a fully equipped kitchen complete with a toaster, catering to guests' culinary needs. The inclusion of a flat-screen TV ensures entertainment is never far away, while the non-smoking environment promotes a clean and healthy living space. The bathroom is well-appointed with a bath and complimentary slippers, adding a touch of home comfort to the experience.
 

@@ -1,4 +1,56 @@
----\ntitle: "Sunny Residence Palase, GC"\ndescription: "Sunny Residence Palase, GC stands as a beacon of comfort and privacy, just a stone's throw away from the pristine shores of Nazar Beach and a short distance from the serene Palasa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384784183.jpg?k=b35d5152db5a55c1508e3994b68da95740a459ecb6d7bd832de3c88ac7144fc2&o=&hp=1"\nlanguage: en\nslug: sunny-residence-palase-gc\naddress: "Vila 96/1 Green Coast Resort, 9425 Palasë, Albania"\ncity: "Palasë"\nlocation: "Palasë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.17092246\n  lng: 19.58589852\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384784183.jpg?k=b35d5152db5a55c1508e3994b68da95740a459ecb6d7bd832de3c88ac7144fc2&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Fishop Coast 150 m"\n  - "Beachside Cafe 650 m"\nnearbyBeaches:\n  - "Nazar Beach 200 m"\n  - "Palasa Beach 1.3 km"\n  - "Dhermi Beach 5 km"\n  - "Gjipe Beach 9 km"\n  - "Beach Me Shpella 9 km"\nwhatsNearby:\n  - "Llogora National Park 2.8 km"\nairports:\n  - "Corfu International Airport 68 km"\nbookingURL: "https://www.booking.com/hotel/al/sunny-residence-palase-gc.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis villa, enveloped in the tranquility of Palasë, is equipped with modern amenities including free WiFi, ensuring that connectivity is never an issue. The interior of this 2-bedroom haven is thoughtfully designed with a flat-screen TV, a washing machine, and a kitchen that comes fully equipped with a dishwasher and fridge, making it a home away from home. For those who appreciate the finer details, towels and bed linen are meticulously provided, enhancing the comfort of your stay.
+---
+title: "Sunny Residence Palase, GC"
+description: "Sunny Residence Palase, GC stands as a beacon of comfort and privacy, just a stone's throw away from the pristine shores of Nazar Beach and a short distance from the serene Palasa Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384784183.jpg?k=b35d5152db5a55c1508e3994b68da95740a459ecb6d7bd832de3c88ac7144fc2&o=&hp=1"
+language: en
+slug: sunny-residence-palase-gc
+address: "Vila 96/1 Green Coast Resort, 9425 Palasë, Albania"
+city: "Palasë"
+location: "Palasë"
+accommodationType: "villa"
+coordinates:
+  lat: 40.17092246
+  lng: 19.58589852
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384784183.jpg?k=b35d5152db5a55c1508e3994b68da95740a459ecb6d7bd832de3c88ac7144fc2&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Fishop Coast 150 m"
+  - "Beachside Cafe 650 m"
+nearbyBeaches:
+  - "Nazar Beach 200 m"
+  - "Palasa Beach 1.3 km"
+  - "Dhermi Beach 5 km"
+  - "Gjipe Beach 9 km"
+  - "Beach Me Shpella 9 km"
+whatsNearby:
+  - "Llogora National Park 2.8 km"
+airports:
+  - "Corfu International Airport 68 km"
+bookingURL: "https://www.booking.com/hotel/al/sunny-residence-palase-gc.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This villa, enveloped in the tranquility of Palasë, is equipped with modern amenities including free WiFi, ensuring that connectivity is never an issue. The interior of this 2-bedroom haven is thoughtfully designed with a flat-screen TV, a washing machine, and a kitchen that comes fully equipped with a dishwasher and fridge, making it a home away from home. For those who appreciate the finer details, towels and bed linen are meticulously provided, enhancing the comfort of your stay.
 
 One of the villa's standout features is its dedication to guest privacy, highlighted by a private entrance that promises a secluded and uninterrupted retreat. Whether it's basking on the terrace or enjoying the air-conditioned indoors, guests are guaranteed a stay that marries the essence of relaxation with the elegance of modern living.
 

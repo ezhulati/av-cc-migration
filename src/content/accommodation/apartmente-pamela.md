@@ -1,4 +1,87 @@
----\ntitle: "Apartmente Pamela"\ndescription: "Apartmente Pamela stands as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short 800 meters from the main beach and boasting impressive sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524012332.jpg?k=12df67de467eed63ab19177807846c9d702045609459177121a83fa472f2de2e&o=&hp=1"\nlanguage: en\nslug: apartmente-pamela\naddress: "Rruga Janaq Kumi, 9071 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87673986\n  lng: 19.99106299\nprice: "US$20"\npriceFrom: 20\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 100\nratings:\n  overall: 8.8\n  location: 6.8\n  cleanliness: 9.3\n  facilities: 9\n  value: 9.3\n  comfort: 9.2\n  staff: 9.5\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524012332.jpg?k=12df67de467eed63ab19177807846c9d702045609459177121a83fa472f2de2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458168211.jpg?k=e12ea2d021b255327c90223f1abfc59353559cb1fbfb93f169b48093fb92d8dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491599072.jpg?k=a885012f8ac291b59761648b96acac231391d32a44ac4ac95477fe5364271833&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491600491.jpg?k=80de77fda35a6f881657a2768a37221266a69b8c11cca8f43f1a8c47db963220&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458168747.jpg?k=3f9102775a0abe7055df8b93742f3d656cd48fb833194a3eb28ac1d9a45787db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373631020.jpg?k=0d8e90c3f42f8ee75c65d941b0ec1c0fdd882d8aa3b10e8fb145e5b99e6dc9c6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (40 Mbps)"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Deluxe Apartment"\n  - "One-Bedroom Apartment"\n  - "Deluxe Double Room"\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Taverna Erjoni 300 m"\n  - "Grill House 300 m"\nnearbyBeaches:\n  - "Sarande Main Beach 550 m"\n  - "Saranda Bay Beach 800 m"\n  - "Saranda City Beach 1.6 km"\n  - "La Petite Beach 2.2 km"\n  - "Maestral Beach 2.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.5 km"\n  - "Butrint National Park 4.1 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 73 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Lavskij"\n    country: "Lithuania"\n    text: "“We liked that apartment was clean and had amazing amenities”"\n  - name: "Marijana"\n    country: "Croatia"\n    text: "“Room was nice, clean and had everything we needed. We also had a terrace with beautiful view and a little kittens in garden next to it :)”"\n  - name: "Sandra"\n    country: "Netherlands"\n    text: "“Very spacious room with a nice outdoor kitchen. We were on honeymoon and everyone tried their best to make it a special visit in Sarande. We really enjoyed our stay at Pamela.”"\nbookingURL: "https://www.booking.com/hotel/al/pamelas-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe accommodations at Apartmente Pamela are designed with the modern traveler in mind, featuring air-conditioned spaces that promise a cool retreat from the warm Mediterranean climate. The interiors are marked by their clean lines and tiled floors, creating an inviting atmosphere that feels both contemporary and cozy. Each unit is equipped with a fully functional kitchen, including a refrigerator, and a dining area, allowing guests the freedom to prepare their own meals as they wish. Entertainment and comfort are not overlooked, with a flat-screen TV provided for leisurely evenings in, and a private bathroom equipped with a walk-in shower and complimentary toiletries adding to the convenience.
+---
+title: "Apartmente Pamela"
+description: "Apartmente Pamela stands as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short 800 meters from the main beach and boasting impressive sea views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524012332.jpg?k=12df67de467eed63ab19177807846c9d702045609459177121a83fa472f2de2e&o=&hp=1"
+language: en
+slug: apartmente-pamela
+address: "Rruga Janaq Kumi, 9071 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87673986
+  lng: 19.99106299
+price: "US$20"
+priceFrom: 20
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 100
+ratings:
+  overall: 8.8
+  location: 6.8
+  cleanliness: 9.3
+  facilities: 9
+  value: 9.3
+  comfort: 9.2
+  staff: 9.5
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524012332.jpg?k=12df67de467eed63ab19177807846c9d702045609459177121a83fa472f2de2e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458168211.jpg?k=e12ea2d021b255327c90223f1abfc59353559cb1fbfb93f169b48093fb92d8dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491599072.jpg?k=a885012f8ac291b59761648b96acac231391d32a44ac4ac95477fe5364271833&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491600491.jpg?k=80de77fda35a6f881657a2768a37221266a69b8c11cca8f43f1a8c47db963220&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458168747.jpg?k=3f9102775a0abe7055df8b93742f3d656cd48fb833194a3eb28ac1d9a45787db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373631020.jpg?k=0d8e90c3f42f8ee75c65d941b0ec1c0fdd882d8aa3b10e8fb145e5b99e6dc9c6&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Good free WiFi (40 Mbps)"
+  - "Family rooms"
+  - "Terrace"
+roomTypes:
+  - "Deluxe Apartment"
+  - "One-Bedroom Apartment"
+  - "Deluxe Double Room"
+  - "Apartment with Sea View"
+nearbyRestaurants:
+  - "Taverna Erjoni 300 m"
+  - "Grill House 300 m"
+nearbyBeaches:
+  - "Sarande Main Beach 550 m"
+  - "Saranda Bay Beach 800 m"
+  - "Saranda City Beach 1.6 km"
+  - "La Petite Beach 2.2 km"
+  - "Maestral Beach 2.3 km"
+whatsNearby:
+  - "Parc National de Butrint 3.5 km"
+  - "Butrint National Park 4.1 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 73 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Lavskij"
+    country: "Lithuania"
+    text: "“We liked that apartment was clean and had amazing amenities”"
+  - name: "Marijana"
+    country: "Croatia"
+    text: "“Room was nice, clean and had everything we needed. We also had a terrace with beautiful view and a little kittens in garden next to it :)”"
+  - name: "Sandra"
+    country: "Netherlands"
+    text: "“Very spacious room with a nice outdoor kitchen. We were on honeymoon and everyone tried their best to make it a special visit in Sarande. We really enjoyed our stay at Pamela.”"
+bookingURL: "https://www.booking.com/hotel/al/pamelas-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+The accommodations at Apartmente Pamela are designed with the modern traveler in mind, featuring air-conditioned spaces that promise a cool retreat from the warm Mediterranean climate. The interiors are marked by their clean lines and tiled floors, creating an inviting atmosphere that feels both contemporary and cozy. Each unit is equipped with a fully functional kitchen, including a refrigerator, and a dining area, allowing guests the freedom to prepare their own meals as they wish. Entertainment and comfort are not overlooked, with a flat-screen TV provided for leisurely evenings in, and a private bathroom equipped with a walk-in shower and complimentary toiletries adding to the convenience.
 
 For those seeking a room with a view, select units offer the added luxury of a balcony or patio, presenting stunning mountain vistas that are sure to captivate. The attention to detail extends to the provision of bed linen and towels in each unit, ensuring a comfortable and hassle-free stay.
 

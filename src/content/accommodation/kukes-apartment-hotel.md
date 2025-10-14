@@ -1,3 +1,59 @@
----\ntitle: "Kukes Apartment Hotel"\ndescription: "Kukes Apartment Hotel emerges as a prime choice for travelers seeking comfort and convenience in Kukës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852210.jpg?k=0a0c3ef4bf5604477183c8077c8b8bc2fb450cbdd12d35dcd7c191b5f937434a&o=&hp=1"\nlanguage: en\nslug: kukes-apartment-hotel\naddress: "Lagjia 4, Pallati 15, Apt.8, 8501 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.07500714\n  lng: 20.42031296\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.2\n  location: 6.3\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852210.jpg?k=0a0c3ef4bf5604477183c8077c8b8bc2fb450cbdd12d35dcd7c191b5f937434a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852326.jpg?k=4d60e421688adc09e92402eabfec4c4019e49b9496bf4997dd775121657784fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852322.jpg?k=862920e31bcc62425ec7bf0797e0eb79e8af6a9adc298c4adb62632c788d04c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852258.jpg?k=3cd04cc6c5d8b3cb1a76e905a43e01614bbcad77e4893e5e757b2e89e6b1c357&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852336.jpg?k=e1a4bfc5ef656a54eb4147749cdfd0b8fd1ed8d0b6c222e99b6d0a9020bed727&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852261.jpg?k=796540d85d0802645c247d6b4361d11132f8d78a8a3ba87c42608d5bd225b760&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852341.jpg?k=b79cceef43622a492a25d87fa41281aeaaf60e79cee9aafbf044aee542ebd362&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852312.jpg?k=c769dc403726ac90ce7b2bc07f1cd27c5a22f00ef0f190c5b1c7d92e3031bee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852253.jpg?k=24c87dfcf7ea456bc66ce634dfc8578a641499d2615acd2ae8ff92b41afa0338&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Bar Pizzeri Jamaica 150 m"\n  - "Bar Kafe \Adi\\"\" 150 m"\nwhatsNearby:\n  - "Partia Socialiste Kukes 350 m"\n  - "Brekija Perla Kuksiane 1.1 km"\nairports:\n  - "Pristina International Airport 74 km"\n  - "Tirana International Airport Mother Teresa 92 km"\nbookingURL: "https://www.booking.com/hotel/al/kukes-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nEach apartment within the hotel is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom that combines functionality with clean aesthetics. Entertainment needs are not overlooked, with a flat-screen TV available for guests' enjoyment.
+---
+title: "Kukes Apartment Hotel"
+description: "Kukes Apartment Hotel emerges as a prime choice for travelers seeking comfort and convenience in Kukës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852210.jpg?k=0a0c3ef4bf5604477183c8077c8b8bc2fb450cbdd12d35dcd7c191b5f937434a&o=&hp=1"
+language: en
+slug: kukes-apartment-hotel
+address: "Lagjia 4, Pallati 15, Apt.8, 8501 Kukës, Albania"
+city: "Kukës"
+location: "Kukës"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.07500714
+  lng: 20.42031296
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 2
+ratings:
+  overall: 9.2
+  location: 6.3
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 8.8
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852210.jpg?k=0a0c3ef4bf5604477183c8077c8b8bc2fb450cbdd12d35dcd7c191b5f937434a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852326.jpg?k=4d60e421688adc09e92402eabfec4c4019e49b9496bf4997dd775121657784fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852322.jpg?k=862920e31bcc62425ec7bf0797e0eb79e8af6a9adc298c4adb62632c788d04c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852258.jpg?k=3cd04cc6c5d8b3cb1a76e905a43e01614bbcad77e4893e5e757b2e89e6b1c357&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852336.jpg?k=e1a4bfc5ef656a54eb4147749cdfd0b8fd1ed8d0b6c222e99b6d0a9020bed727&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852261.jpg?k=796540d85d0802645c247d6b4361d11132f8d78a8a3ba87c42608d5bd225b760&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852341.jpg?k=b79cceef43622a492a25d87fa41281aeaaf60e79cee9aafbf044aee542ebd362&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852312.jpg?k=c769dc403726ac90ce7b2bc07f1cd27c5a22f00ef0f190c5b1c7d92e3031bee6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852253.jpg?k=24c87dfcf7ea456bc66ce634dfc8578a641499d2615acd2ae8ff92b41afa0338&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Bar Pizzeri Jamaica 150 m"
+  - "Bar Kafe \Adi\\"\" 150 m"
+whatsNearby:
+  - "Partia Socialiste Kukes 350 m"
+  - "Brekija Perla Kuksiane 1.1 km"
+airports:
+  - "Pristina International Airport 74 km"
+  - "Tirana International Airport Mother Teresa 92 km"
+bookingURL: "https://www.booking.com/hotel/al/kukes-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Each apartment within the hotel is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom that combines functionality with clean aesthetics. Entertainment needs are not overlooked, with a flat-screen TV available for guests' enjoyment.
 
 For those venturing further afield, the Mahmet Pasha Hamam awaits at the same convenient distance, offering a glimpse into historical luxuries. Moreover, the Pristina International Airport, located 110 km away, ensures that access to and from the Kukes Apartment Hotel is seamless, making it an ideal base for both short visits and extended stays in the heart of Kukës.

@@ -1,4 +1,78 @@
----\ntitle: "Guesthouse Shtini"\ndescription: "Guesthouse Shtini emerges as a charming choice for travelers seeking a serene stay in Fshat, complete with the convenience of complimentary private parking, around-the-clock front desk service, and seamless WiFi connectivity."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545216.jpg?k=0cddcc3c0f974334d0895e588b297a56e0b6a4f8368eb7751aea2e65848b6f7b&o=&hp=1"\nlanguage: en\nslug: guesthouse-shtini\naddress: "Unnamed Road, 8507 Fshat, Albania"\ncity: "Fshat"\nlocation: "Fshat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.90684093\n  lng: 20.45417173\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 20\nratings:\n  overall: 8.7\n  location: 8.6\n  cleanliness: 9.1\n  facilities: 8.3\n  value: 8.7\n  comfort: 9.1\n  staff: 9.8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545216.jpg?k=0cddcc3c0f974334d0895e588b297a56e0b6a4f8368eb7751aea2e65848b6f7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545304.jpg?k=ae6d7369f10e6200c6b0e30995170860c66e1d70e8b95d877612622f4af779be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545255.jpg?k=43ea4f06b4bc4fdd91e0b5f1e6e86e95819e7fb5808175be75bc7f49837843cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545273.jpg?k=e2cd93b202d0b5e16115eff464c5363c1fdf5020dc926358b51ebfd8d38d2050&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545322.jpg?k=ec10dc26d667f880716248303a403a41d7a4b888ca5f6d4a9cd91aaa6252b68b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545246.jpg?k=c5e8ee23bbc56c55d2c6036fa66ceafe375d284cb1764d0325589a50a6060c9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545254.jpg?k=8a6072da1b669535f66ab91eedcbd7406461521f951ef353a6f053aeb76f2a93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545311.jpg?k=e7baa29ce8f6403f721c2e9db7e2ab5e7189eb350a9eb4962c60d90218fc2084&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219675101.jpg?k=1728a706ef36cf130f74b418ac99e52ee743beeda0058fab5d662bb712f6c56e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Bed in 4-Bed Dormitory Room"\n  - "Quadruple Room"\n  - "Family Room with Mountain View"\nnearbyRestaurants:\n  - "Bujtina Korabi 10 km"\n  - "Bar Clirimi 18 km"\nwhatsNearby:\n  - "Partia Socialiste Kukes 19 km"\n  - "Brekija Perla Kuksiane 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 81 km"\n  - "Ohrid Airport 83 km"\n  - "Pristina International Airport 86 km"\nreviews:\n  - name: "Klaus"\n    country: "Norway"\n    text: "“Perfect place for adventure riders. Many gravel roads in this area. Stunning views everywhere. Accomodations is impeccable. Albanian hospitality and large and tasty breakfast and dinner. Owners don't speak English, but it wasn't a problem....”"\n  - name: "Sylvain"\n    country: "Belgium"\n    text: "“The welcome at the arrival was nice despite it is not possible to talk English. For every question however it was possible to understand each other and there was no communication problem at all. We had diner and breakfast. It was excellent and...”"\n  - name: "Robert"\n    country: "Germany"\n    text: "“It was a super nice stay there. The sorrounding is outstandingly beautiful and the hosts are so warm and welcoming.”"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-shtini.en-gb.html?aid=8035640"\nbestFor: "Best for Adventure Activities"\nbestCategories: "Adventure Activities"\ncategory: "Adventure Activities"\n---\n\nDining under the open sky in the guest house's outdoor area offers a memorable experience, where guests can savor meals amidst the gentle breeze. Each morning, a hearty breakfast awaits, featuring a selection of warm dishes complemented by local cheeses, ensuring a delightful start to the day. For moments of relaxation, the lounge area provides a peaceful retreat, and for those planning day trips, packed lunches are thoughtfully prepared upon request.
+---
+title: "Guesthouse Shtini"
+description: "Guesthouse Shtini emerges as a charming choice for travelers seeking a serene stay in Fshat, complete with the convenience of complimentary private parking, around-the-clock front desk service, and seamless WiFi connectivity."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545216.jpg?k=0cddcc3c0f974334d0895e588b297a56e0b6a4f8368eb7751aea2e65848b6f7b&o=&hp=1"
+language: en
+slug: guesthouse-shtini
+address: "Unnamed Road, 8507 Fshat, Albania"
+city: "Fshat"
+location: "Fshat"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.90684093
+  lng: 20.45417173
+price: "US$22"
+priceFrom: 22
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 20
+ratings:
+  overall: 8.7
+  location: 8.6
+  cleanliness: 9.1
+  facilities: 8.3
+  value: 8.7
+  comfort: 9.1
+  staff: 9.8
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545216.jpg?k=0cddcc3c0f974334d0895e588b297a56e0b6a4f8368eb7751aea2e65848b6f7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545304.jpg?k=ae6d7369f10e6200c6b0e30995170860c66e1d70e8b95d877612622f4af779be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545255.jpg?k=43ea4f06b4bc4fdd91e0b5f1e6e86e95819e7fb5808175be75bc7f49837843cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545273.jpg?k=e2cd93b202d0b5e16115eff464c5363c1fdf5020dc926358b51ebfd8d38d2050&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545322.jpg?k=ec10dc26d667f880716248303a403a41d7a4b888ca5f6d4a9cd91aaa6252b68b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545246.jpg?k=c5e8ee23bbc56c55d2c6036fa66ceafe375d284cb1764d0325589a50a6060c9d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545254.jpg?k=8a6072da1b669535f66ab91eedcbd7406461521f951ef353a6f053aeb76f2a93&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545311.jpg?k=e7baa29ce8f6403f721c2e9db7e2ab5e7189eb350a9eb4962c60d90218fc2084&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219675101.jpg?k=1728a706ef36cf130f74b418ac99e52ee743beeda0058fab5d662bb712f6c56e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Breakfast"
+roomTypes:
+  - "Bed in 4-Bed Dormitory Room"
+  - "Quadruple Room"
+  - "Family Room with Mountain View"
+nearbyRestaurants:
+  - "Bujtina Korabi 10 km"
+  - "Bar Clirimi 18 km"
+whatsNearby:
+  - "Partia Socialiste Kukes 19 km"
+  - "Brekija Perla Kuksiane 20 km"
+airports:
+  - "Tirana International Airport Mother Teresa 81 km"
+  - "Ohrid Airport 83 km"
+  - "Pristina International Airport 86 km"
+reviews:
+  - name: "Klaus"
+    country: "Norway"
+    text: "“Perfect place for adventure riders. Many gravel roads in this area. Stunning views everywhere. Accomodations is impeccable. Albanian hospitality and large and tasty breakfast and dinner. Owners don't speak English, but it wasn't a problem....”"
+  - name: "Sylvain"
+    country: "Belgium"
+    text: "“The welcome at the arrival was nice despite it is not possible to talk English. For every question however it was possible to understand each other and there was no communication problem at all. We had diner and breakfast. It was excellent and...”"
+  - name: "Robert"
+    country: "Germany"
+    text: "“It was a super nice stay there. The sorrounding is outstandingly beautiful and the hosts are so warm and welcoming.”"
+bookingURL: "https://www.booking.com/hotel/al/guesthouse-shtini.en-gb.html?aid=8035640"
+bestFor: "Best for Adventure Activities"
+bestCategories: "Adventure Activities"
+category: "Adventure Activities"
+---
+
+Dining under the open sky in the guest house's outdoor area offers a memorable experience, where guests can savor meals amidst the gentle breeze. Each morning, a hearty breakfast awaits, featuring a selection of warm dishes complemented by local cheeses, ensuring a delightful start to the day. For moments of relaxation, the lounge area provides a peaceful retreat, and for those planning day trips, packed lunches are thoughtfully prepared upon request.
 
 Adventure enthusiasts will find Guesthouse Shtini an ideal base, with opportunities for hiking and walking tours just steps away, inviting guests to explore the natural beauty of the surroundings. The well-maintained garden offers another tranquil spot for guests to unwind and connect with nature.
 

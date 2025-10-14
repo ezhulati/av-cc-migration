@@ -1,4 +1,82 @@
----\ntitle: "Apartments Qerret"\ndescription: "Apartments Qerret stands as a prime beachfront destination in Golem, offering guests an unparalleled experience mere steps from the pristine sands of Qerret Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308296652.jpg?k=fbe89a6f2f840412ea03fa0d02bc3e0f3890c04afe76871c07cb23143661c833&o=&hp=1"\nlanguage: en\nslug: apartments-qerret\naddress: "Qerret, Kavaje, 1004 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.21954016\n  lng: 19.50675566\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 27\nratings:\n  overall: 7.7\n  location: 9.1\n  cleanliness: 7\n  facilities: 6.9\n  value: 7.5\n  comfort: 7.1\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308296652.jpg?k=fbe89a6f2f840412ea03fa0d02bc3e0f3890c04afe76871c07cb23143661c833&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225418582.jpg?k=b10790f4189aefa8c2787c67415f00821d40bfa42d3aa91574ad3e4e6c4d04bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225418577.jpg?k=9962670d7a520848e2ab65423e608e6d27f4aab1bd00568f61aa9872b89648cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225418633.jpg?k=4e018ca663d9ec40f2f89f8846b3a10ac9c0bdfaf1b572ced52034697d9594c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225021613.jpg?k=febf50c8510da72da58bd72e78942d79cc7fa0f06bf32265c982f68ffa376b55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225021433.jpg?k=b1d27f277887910638a7d4de644b9ef9c07abe4158d7cf320117ea37370ae613&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225417255.jpg?k=716696919aec7b303f259c0e5c846520f0566d00d7856bdb25cd3ae65c7db054&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308295927.jpg?k=dc2d62019f91e5c1eb1242133c7b0868f57ea5f61ebc1f70c459afbefd59aa6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308296698.jpg?k=33d3ab64dac71aafa5953a3ff8ca021cde6f36fec899ffd429255f75335e4617&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Panorama by Supreme Hotel & Spa 100 m"\n  - "AROME DETI RESTAURANT 200 m"\nnearbyBeaches:\n  - "Qerret Beach 30 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Golem Beach 3.3 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/apartments-qerret.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Apartments Qerret are thoughtfully designed with guest comfort in mind. Each unit is fully equipped with modern amenities such as air conditioning, a cozy seating area, and a television with cable channels. The inclusion of a kitchen and dining area in every apartment adds a touch of home, while the private bathroom with a bidet ensures privacy and convenience. To further enhance the guest experience, bed linen and towels are provided in every unit, reflecting the property's attention to detail.
+---
+title: "Apartments Qerret"
+description: "Apartments Qerret stands as a prime beachfront destination in Golem, offering guests an unparalleled experience mere steps from the pristine sands of Qerret Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308296652.jpg?k=fbe89a6f2f840412ea03fa0d02bc3e0f3890c04afe76871c07cb23143661c833&o=&hp=1"
+language: en
+slug: apartments-qerret
+address: "Qerret, Kavaje, 1004 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.21954016
+  lng: 19.50675566
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.7
+ratingWords: "Good"
+numberOfReviews: 27
+ratings:
+  overall: 7.7
+  location: 9.1
+  cleanliness: 7
+  facilities: 6.9
+  value: 7.5
+  comfort: 7.1
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308296652.jpg?k=fbe89a6f2f840412ea03fa0d02bc3e0f3890c04afe76871c07cb23143661c833&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225418582.jpg?k=b10790f4189aefa8c2787c67415f00821d40bfa42d3aa91574ad3e4e6c4d04bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225418577.jpg?k=9962670d7a520848e2ab65423e608e6d27f4aab1bd00568f61aa9872b89648cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225418633.jpg?k=4e018ca663d9ec40f2f89f8846b3a10ac9c0bdfaf1b572ced52034697d9594c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225021613.jpg?k=febf50c8510da72da58bd72e78942d79cc7fa0f06bf32265c982f68ffa376b55&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225021433.jpg?k=b1d27f277887910638a7d4de644b9ef9c07abe4158d7cf320117ea37370ae613&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225417255.jpg?k=716696919aec7b303f259c0e5c846520f0566d00d7856bdb25cd3ae65c7db054&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308295927.jpg?k=dc2d62019f91e5c1eb1242133c7b0868f57ea5f61ebc1f70c459afbefd59aa6e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308296698.jpg?k=33d3ab64dac71aafa5953a3ff8ca021cde6f36fec899ffd429255f75335e4617&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Panorama by Supreme Hotel & Spa 100 m"
+  - "AROME DETI RESTAURANT 200 m"
+nearbyBeaches:
+  - "Qerret Beach 30 m"
+  - "Mali I Robit Beach 1.3 km"
+  - "Golem Beach 3.3 km"
+  - "Shkëmbi i Kavajës Beach 5 km"
+  - "Durres Beach 7 km"
+whatsNearby:
+  - "Durres Amphiteatre 12 km"
+  - "1. Maj 12 km"
+  - "Wine Dhe Pooh 12 km"
+  - "Yje Dhe Hena 12 km"
+  - "Sheshi Demokracia 12 km"
+  - "Bekimi 12 km"
+  - "Sotir Noka 12 km"
+  - "Divjake-Karavasta National Park 18 km"
+airports:
+  - "Tirana International Airport Mother Teresa 27 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/apartments-qerret.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Apartments Qerret are thoughtfully designed with guest comfort in mind. Each unit is fully equipped with modern amenities such as air conditioning, a cozy seating area, and a television with cable channels. The inclusion of a kitchen and dining area in every apartment adds a touch of home, while the private bathroom with a bidet ensures privacy and convenience. To further enhance the guest experience, bed linen and towels are provided in every unit, reflecting the property's attention to detail.
 
 Culinary enthusiasts will delight in the apartment's restaurant, which is open for dinner, lunch, and brunch. Specializing in Italian cuisine, the restaurant offers a dining experience that is both authentic and exquisite.
 

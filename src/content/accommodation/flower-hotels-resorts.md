@@ -1,4 +1,92 @@
----\ntitle: "Flower Hotels & Resorts"\ndescription: "Flower Hotels & Resorts stands as a beacon of luxury and comfort, offering guests an unparalleled experience with its stunning sea views in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403558955.jpg?k=8acc5ba5c3c252669421e80a686d7699e875fe0b130b109b58bc026d33b9b8dc&o=&hp=1"\nlanguage: en\nslug: flower-hotels-resorts\naddress: "Rruga Qemal Stafa, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.24656315\n  lng: 19.52313419\nprice: "US$136"\npriceFrom: 136\nstarRating: 5\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 244\nratings:\n  overall: 8.2\n  location: 7.7\n  cleanliness: 8.7\n  facilities: 8.5\n  value: 7.8\n  comfort: 8.6\n  staff: 8.5\n  wifi: 7.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403558955.jpg?k=8acc5ba5c3c252669421e80a686d7699e875fe0b130b109b58bc026d33b9b8dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311925229.jpg?k=a3d0732010782eba1e1a50233a554ebc4608180d193d5645ab11d7c628a1550e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377243695.jpg?k=c4f750702ef6eed636c049863cc4a4dea8c9ad95ebb2c08af20d962b1fcf1f43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404863486.jpg?k=678e3ea9b7d578b91006b2dbe972fca9d3fa0e33cb98c7145e0dbaa3c63e0a2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311925325.jpg?k=af8cdf311675d31de3538223f4a42d88fa5a2a43a580b418023e9f1047c09559&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404863497.jpg?k=8097a6b18dd165bf0829b669d441e052c61838dcf26dfe1442ff09a297004f1b&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Spa and wellness centre"\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Private beach area"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Triple Room with Balcony"\nnearbyRestaurants:\n  - "Brutal Steakhouse 20 m"\n  - "Alto Mare 300 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 300 m"\n  - "Golem Beach 350 m"\n  - "Qerret Beach 2 km"\n  - "Shkëmbi i Kavajës Beach 2.1 km"\n  - "Durres Beach 4.5 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "Bekimi 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Manuela"\n    country: "United States"\n    text: "“Breakfast was very good. Very tasty and a lot of choices”"\n  - name: "Susan"\n    country: "United Kingdom"\n    text: "“Fantastic swimming pools. Plenty of sun beds, liked that we could use two pools and the spa pool plus the beach bar with sun beds. Great rooms and balcony”"\n  - name: "Nina"\n    country: "Finland"\n    text: "“We enjoyed the gardenia and also the views from the hotel balcony. Also the All inclusive was great!”"\nbookingURL: "https://www.booking.com/hotel/al/flower-amp-spa.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nAccommodations at Flower Hotels & Resorts are designed with sophistication in mind, featuring spacious seating areas and state-of-the-art flat-screen TVs equipped with satellite channels. Every room is meticulously appointed with air conditioning for maximum comfort, while select accommodations boast balconies that offer a private slice of paradise. For the convenience of business and leisure travelers alike, each unit is also equipped with a desk.
+---
+title: "Flower Hotels & Resorts"
+description: "Flower Hotels & Resorts stands as a beacon of luxury and comfort, offering guests an unparalleled experience with its stunning sea views in Golem."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403558955.jpg?k=8acc5ba5c3c252669421e80a686d7699e875fe0b130b109b58bc026d33b9b8dc&o=&hp=1"
+language: en
+slug: flower-hotels-resorts
+address: "Rruga Qemal Stafa, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "resort"
+coordinates:
+  lat: 41.24656315
+  lng: 19.52313419
+price: "US$136"
+priceFrom: 136
+starRating: 5
+rating: 8.2
+ratingWords: "Very Good"
+numberOfReviews: 244
+ratings:
+  overall: 8.2
+  location: 7.7
+  cleanliness: 8.7
+  facilities: 8.5
+  value: 7.8
+  comfort: 8.6
+  staff: 8.5
+  wifi: 7.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403558955.jpg?k=8acc5ba5c3c252669421e80a686d7699e875fe0b130b109b58bc026d33b9b8dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311925229.jpg?k=a3d0732010782eba1e1a50233a554ebc4608180d193d5645ab11d7c628a1550e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377243695.jpg?k=c4f750702ef6eed636c049863cc4a4dea8c9ad95ebb2c08af20d962b1fcf1f43&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404863486.jpg?k=678e3ea9b7d578b91006b2dbe972fca9d3fa0e33cb98c7145e0dbaa3c63e0a2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311925325.jpg?k=af8cdf311675d31de3538223f4a42d88fa5a2a43a580b418023e9f1047c09559&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404863497.jpg?k=8097a6b18dd165bf0829b669d441e052c61838dcf26dfe1442ff09a297004f1b&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Spa and wellness centre"
+  - "Airport shuttle (free)"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Private beach area"
+  - "Fabulous breakfast"
+roomTypes:
+  - "Triple Room with Balcony"
+nearbyRestaurants:
+  - "Brutal Steakhouse 20 m"
+  - "Alto Mare 300 m"
+nearbyBeaches:
+  - "Mali I Robit Beach 300 m"
+  - "Golem Beach 350 m"
+  - "Qerret Beach 2 km"
+  - "Shkëmbi i Kavajës Beach 2.1 km"
+  - "Durres Beach 4.5 km"
+whatsNearby:
+  - "Durres Amphiteatre 10 km"
+  - "Bekimi 10 km"
+  - "1. Maj 10 km"
+  - "Wine Dhe Pooh 10 km"
+  - "Yje Dhe Hena 10 km"
+  - "Sheshi Demokracia 10 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Manuela"
+    country: "United States"
+    text: "“Breakfast was very good. Very tasty and a lot of choices”"
+  - name: "Susan"
+    country: "United Kingdom"
+    text: "“Fantastic swimming pools. Plenty of sun beds, liked that we could use two pools and the spa pool plus the beach bar with sun beds. Great rooms and balcony”"
+  - name: "Nina"
+    country: "Finland"
+    text: "“We enjoyed the gardenia and also the views from the hotel balcony. Also the All inclusive was great!”"
+bookingURL: "https://www.booking.com/hotel/al/flower-amp-spa.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+Accommodations at Flower Hotels & Resorts are designed with sophistication in mind, featuring spacious seating areas and state-of-the-art flat-screen TVs equipped with satellite channels. Every room is meticulously appointed with air conditioning for maximum comfort, while select accommodations boast balconies that offer a private slice of paradise. For the convenience of business and leisure travelers alike, each unit is also equipped with a desk.
 
 Mornings at Flower Hotels & Resorts begin with a delightful continental breakfast, setting the tone for a day of exploration or relaxation. Located a mere 43 km from the vibrant city of Tirana and 16 km from the historic port city of Durrës, the hotel serves as an ideal base for guests wishing to discover the region. Furthermore, Tirana Airport is conveniently situated just 44 km away, ensuring easy access for international travelers.
 

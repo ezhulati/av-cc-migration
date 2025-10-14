@@ -1,6 +1,82 @@
----\ntitle: "Hoara Holidays Apartment's"\ndescription: "Hoara Holidays Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, merely a stone's throw away from the serene Currila Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381511690.jpg?k=77bce394cc0e4a158a93a7cf1f8f17c716349757ef14d39be9eae3db6951d4ec&o=&hp=1"\nlanguage: en\nslug: hoara-holidays-apartment-s\naddress: "Rruga Taulantia lagja 1, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31006666\n  lng: 19.44473773\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 30\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 9.3\n  facilities: 9.4\n  value: 9.4\n  comfort: 9.3\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381511690.jpg?k=77bce394cc0e4a158a93a7cf1f8f17c716349757ef14d39be9eae3db6951d4ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374513678.jpg?k=06c78194f5448284fbb280495ae89381e66fd791fb60e3f8839c829c7ee62829&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374514148.jpg?k=ca69d59c322428b92168f546795c1d8f7e0f4aecd35514f155e7f4df6973737d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374512247.jpg?k=a1a19a9c1d86763dd1162d0d68562528b1a823df56696431b4b9a8c483b2a320&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374513361.jpg?k=92c6ae278ed026b61ffd8fd800106eab1c01cac6b54e5ddad226640d5760b36c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374514563.jpg?k=3178bfb88336653d808226aa9537452dba403c1eea4ca285ea07ef8c543632fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374513567.jpg?k=db5852137d2c09fad18d4990e67f2247945fd7b934c2282c1d0ef0dea7f45b23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374514464.jpg?k=f2ef8e2b4dc596354d1b9179c9b36d8b0bee292dd3152c2f041016a086667ef2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374516227.jpg?k=b7f9da6fc46c6225a0b3b64e8103e103ccbb457aec0d6b76767fe24d6574addb&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Pastarella Durres 30 m"\n  - "Pampas Durres 50 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.4 km"\n  - "Durres Beach 2 km"\n  - "West End Beach 2.5 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 250 m"\n  - "1. Maj 250 m"\n  - "Yje Dhe Hena 700 m"\n  - "Wine Dhe Pooh 700 m"\n  - "Sheshi Demokracia 900 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Jon"\n    country: "Austria"\n    text: "“Very nice and polite host. The apartment was spacious and clean. The location was great. I would definitely recommend it to other potential guests.”"\n  - name: "Ilir"\n    country: "Albania"\n    text: "“Exceptional location, very comfortable apartment and there is a bath tube as well.”"\n  - name: "Tonisv"\n    country: "Estonia"\n    text: "“During my trip, that apartment was the best. Everything you need it is there. Lot of space, tv, kitchen, balcony and many rooms to sleep.
+---
+title: "Hoara Holidays Apartment's"
+description: "Hoara Holidays Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, merely a stone's throw away from the serene Currila Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381511690.jpg?k=77bce394cc0e4a158a93a7cf1f8f17c716349757ef14d39be9eae3db6951d4ec&o=&hp=1"
+language: en
+slug: hoara-holidays-apartment-s
+address: "Rruga Taulantia lagja 1, 2000 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31006666
+  lng: 19.44473773
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 30
+ratings:
+  overall: 9.5
+  location: 9.6
+  cleanliness: 9.3
+  facilities: 9.4
+  value: 9.4
+  comfort: 9.3
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381511690.jpg?k=77bce394cc0e4a158a93a7cf1f8f17c716349757ef14d39be9eae3db6951d4ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374513678.jpg?k=06c78194f5448284fbb280495ae89381e66fd791fb60e3f8839c829c7ee62829&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374514148.jpg?k=ca69d59c322428b92168f546795c1d8f7e0f4aecd35514f155e7f4df6973737d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374512247.jpg?k=a1a19a9c1d86763dd1162d0d68562528b1a823df56696431b4b9a8c483b2a320&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374513361.jpg?k=92c6ae278ed026b61ffd8fd800106eab1c01cac6b54e5ddad226640d5760b36c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374514563.jpg?k=3178bfb88336653d808226aa9537452dba403c1eea4ca285ea07ef8c543632fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374513567.jpg?k=db5852137d2c09fad18d4990e67f2247945fd7b934c2282c1d0ef0dea7f45b23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374514464.jpg?k=f2ef8e2b4dc596354d1b9179c9b36d8b0bee292dd3152c2f041016a086667ef2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374516227.jpg?k=b7f9da6fc46c6225a0b3b64e8103e103ccbb457aec0d6b76767fe24d6574addb&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Pastarella Durres 30 m"
+  - "Pampas Durres 50 m"
+nearbyBeaches:
+  - "Currila Beach 50 m"
+  - "Kallmi Beach 1.4 km"
+  - "Durres Beach 2 km"
+  - "West End Beach 2.5 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "Durres Amphiteatre 250 m"
+  - "1. Maj 250 m"
+  - "Yje Dhe Hena 700 m"
+  - "Wine Dhe Pooh 700 m"
+  - "Sheshi Demokracia 900 m"
+  - "Sotir Noka 1.2 km"
+  - "Bekimi 3.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+reviews:
+  - name: "Jon"
+    country: "Austria"
+    text: "“Very nice and polite host. The apartment was spacious and clean. The location was great. I would definitely recommend it to other potential guests.”"
+  - name: "Ilir"
+    country: "Albania"
+    text: "“Exceptional location, very comfortable apartment and there is a bath tube as well.”"
+  - name: "Tonisv"
+    country: "Estonia"
+    text: "“During my trip, that apartment was the best. Everything you need it is there. Lot of space, tv, kitchen, balcony and many rooms to sleep.
 All restaurants and promenade are across the street. Local food shop is also 70m away.
-I wanted actually to...”"\nbookingURL: "https://www.booking.com/hotel/al/hoara-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe highlight of this accommodation is undoubtedly its spacious apartments. Each unit, designed with the modern traveler in mind, features two well-appointed bedrooms, a cozy living room for relaxation, and a balcony that presents an enchanting view of the bustling city. The inclusion of a flat-screen TV, a fully equipped kitchen with modern appliances such as a microwave and toaster, and two pristine bathrooms with a bidet, ensures guests have everything they need for a comfortable stay.
+I wanted actually to...”"
+bookingURL: "https://www.booking.com/hotel/al/hoara-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The highlight of this accommodation is undoubtedly its spacious apartments. Each unit, designed with the modern traveler in mind, features two well-appointed bedrooms, a cozy living room for relaxation, and a balcony that presents an enchanting view of the bustling city. The inclusion of a flat-screen TV, a fully equipped kitchen with modern appliances such as a microwave and toaster, and two pristine bathrooms with a bidet, ensures guests have everything they need for a comfortable stay.
 
 For those who prefer the convenience of on-site amenities, a minimarket within the apartment complex caters to everyday needs, adding an extra layer of ease to the guest experience. 
 

@@ -1,4 +1,82 @@
----\ntitle: "Albania Dream Luxury Apartment 1"\ndescription: "Albania Dream Luxury Apartment 1 emerges as a premier beachfront gem in Sarandë, boasting an enviable location mere steps from the pristine sands of Flamingo Beach and a short stroll from Mango Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899509.jpg?k=fb74c3e6fe3583202673e9e38fda2eb74aaefb465243718fb08099a9efff3e6d&o=&hp=1"\nlanguage: en\nslug: albania-dream-luxury-apartment-1\naddress: "Rruga Butrinti, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85713515\n  lng: 20.01994052\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 8.8\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899509.jpg?k=fb74c3e6fe3583202673e9e38fda2eb74aaefb465243718fb08099a9efff3e6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899480.jpg?k=9ac2d3543487b4a0cb5b375e8de69c0dc4d36dfd8cd7e77e52dae646640763cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899529.jpg?k=be6e0a8c776eb624763f84616b954f2d9ef7af36186a4ca95299349e62d5e788&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899547.jpg?k=ac73355a635a788b8e6d01822d00f6beeea189db38888c9086d7de8e1cba64aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899476.jpg?k=71099afbf42f6e0d5e2a4b6b22b761ab136c94a59d1bfb11b99874600b6d3377&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351678625.jpg?k=b69d5d5b1a05021d230926763147b70772749d2533692222576d6d90ae21c5e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899486.jpg?k=69e1bdb83e8e69c8d4bc42760526581432ce745c90b5ae861f90d673200c8bec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899508.jpg?k=8a63431729538c59bf326ef8d045d4d075f857f44f3f1e4fc60b0159fe67460c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899481.jpg?k=e39e9f460ffbe799fdb448c1828a5d28c8c490d15397f8b1fa77b029d2dfee89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899527.jpg?k=ca4d2a68f9855f5b934f303032ee2166f3c81930649f969aee1e1a41f464caf5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899400.jpg?k=3a0dd5d8963779183acc2612e05f32da53140800cd840667de1cf37747281a62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899404.jpg?k=856b344333a795e941459dea0677b24bc9ffaa7fdb20c9e0f9c64ded061fad88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899434.jpg?k=2a70f24fb3d98f46d89acefb1e195b89bcf6967df5cae01fd93eb510f3a3067d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899461.jpg?k=1216da48be3cb67f6cd97ea146bd8cd0c072c31ecf9f698fbb3c61548cde6e90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899479.jpg?k=8ada153acd8a45a0d9db5b43acb4148f5271787a81bd5222eef7e14ddf4fc787&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Salad Farm 50 m"\n  - "Baken Grill 100 m"\nnearbyBeaches:\n  - "Santa Quaranta Beach 50 m"\n  - "Flamingo Beach 100 m"\n  - "VIP Beach 150 m"\n  - "Mango Beach 300 m"\n  - "Maestral Beach 1.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 450 m"\n  - "Butrint National Park 900 m"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Khitra"\n    country: "Ukraine"\n    text: "“Unsurpassed hosts: helped with household issues, told about the area, organized rest. The rating is excellent!”"\nbookingURL: "https://www.booking.com/hotel/al/albania-dream-luxury-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment is thoughtfully designed to cater to the needs of modern travelers, featuring a single bedroom and bathroom, complemented by the provision of fresh bed linen and towels. Entertainment and connectivity are ensured with a flat-screen TV, while the fully equipped kitchen allows guests the freedom to prepare their own meals. Perhaps the highlight of the apartment is its balcony, offering breathtaking sea views, perfect for unwinding after a day of exploration.
+---
+title: "Albania Dream Luxury Apartment 1"
+description: "Albania Dream Luxury Apartment 1 emerges as a premier beachfront gem in Sarandë, boasting an enviable location mere steps from the pristine sands of Flamingo Beach and a short stroll from Mango Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899509.jpg?k=fb74c3e6fe3583202673e9e38fda2eb74aaefb465243718fb08099a9efff3e6d&o=&hp=1"
+language: en
+slug: albania-dream-luxury-apartment-1
+address: "Rruga Butrinti, 9700 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.85713515
+  lng: 20.01994052
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 8.8
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899509.jpg?k=fb74c3e6fe3583202673e9e38fda2eb74aaefb465243718fb08099a9efff3e6d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899480.jpg?k=9ac2d3543487b4a0cb5b375e8de69c0dc4d36dfd8cd7e77e52dae646640763cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899529.jpg?k=be6e0a8c776eb624763f84616b954f2d9ef7af36186a4ca95299349e62d5e788&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899547.jpg?k=ac73355a635a788b8e6d01822d00f6beeea189db38888c9086d7de8e1cba64aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899476.jpg?k=71099afbf42f6e0d5e2a4b6b22b761ab136c94a59d1bfb11b99874600b6d3377&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351678625.jpg?k=b69d5d5b1a05021d230926763147b70772749d2533692222576d6d90ae21c5e6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899486.jpg?k=69e1bdb83e8e69c8d4bc42760526581432ce745c90b5ae861f90d673200c8bec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899508.jpg?k=8a63431729538c59bf326ef8d045d4d075f857f44f3f1e4fc60b0159fe67460c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899481.jpg?k=e39e9f460ffbe799fdb448c1828a5d28c8c490d15397f8b1fa77b029d2dfee89&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899527.jpg?k=ca4d2a68f9855f5b934f303032ee2166f3c81930649f969aee1e1a41f464caf5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899400.jpg?k=3a0dd5d8963779183acc2612e05f32da53140800cd840667de1cf37747281a62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899404.jpg?k=856b344333a795e941459dea0677b24bc9ffaa7fdb20c9e0f9c64ded061fad88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899434.jpg?k=2a70f24fb3d98f46d89acefb1e195b89bcf6967df5cae01fd93eb510f3a3067d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899461.jpg?k=1216da48be3cb67f6cd97ea146bd8cd0c072c31ecf9f698fbb3c61548cde6e90&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899479.jpg?k=8ada153acd8a45a0d9db5b43acb4148f5271787a81bd5222eef7e14ddf4fc787&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Salad Farm 50 m"
+  - "Baken Grill 100 m"
+nearbyBeaches:
+  - "Santa Quaranta Beach 50 m"
+  - "Flamingo Beach 100 m"
+  - "VIP Beach 150 m"
+  - "Mango Beach 300 m"
+  - "Maestral Beach 1.1 km"
+whatsNearby:
+  - "Parc National de Butrint 450 m"
+  - "Butrint National Park 900 m"
+  - "Plazhi I Krorezes 7 km"
+  - "Parku Kombetar I Butrintit 10 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Khitra"
+    country: "Ukraine"
+    text: "“Unsurpassed hosts: helped with household issues, told about the area, organized rest. The rating is excellent!”"
+bookingURL: "https://www.booking.com/hotel/al/albania-dream-luxury-apartment-1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment is thoughtfully designed to cater to the needs of modern travelers, featuring a single bedroom and bathroom, complemented by the provision of fresh bed linen and towels. Entertainment and connectivity are ensured with a flat-screen TV, while the fully equipped kitchen allows guests the freedom to prepare their own meals. Perhaps the highlight of the apartment is its balcony, offering breathtaking sea views, perfect for unwinding after a day of exploration.
 
 Adding to the allure of Albania Dream Luxury Apartment 1 is the array of services designed to enhance the guest experience, including airport transfers and the availability of a car rental service, ensuring seamless travel arrangements. The accommodation also prides itself on offering a private entrance, ensuring an exclusive and undisturbed stay.
 

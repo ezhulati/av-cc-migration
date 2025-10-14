@@ -1,4 +1,80 @@
----\ntitle: "BELLISSIMA CASA AL MARE CON VISTA MOZZAFIATO"\ndescription: "BELLISSIMA CASA AL MARE CON VISTA MOZZAFIATO emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, just a stone's throw away from the pristine Golem Beach and a short stroll from the scenic Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419337.jpg?k=dc8d264642745fa5e709c85306048e557ad5bbd6a53ca6e9b32403489a541a83&o=&hp=1"\nlanguage: en\nslug: bellissima-casa-al-mare-con-vista-mozzafiato\naddress: "Rruga Kristal pallati ngjitur me bar orion, kati i 7, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25769599\n  lng: 19.52278238\nprice: "US$73"\npriceFrom: 73\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419337.jpg?k=dc8d264642745fa5e709c85306048e557ad5bbd6a53ca6e9b32403489a541a83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419431.jpg?k=bef477543f102b3191079807eb06813a8075f34363eacab3a7384d1b03d364c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419373.jpg?k=df333b5c3c13bcfc397b94bcd2825cd6a3997636df97fefc9fb58d7493076e1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419438.jpg?k=78208857beaf251573d36e183028b940f5252352289dbc3ddbd7c02fe4f97409&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419418.jpg?k=dfaa9e9f9a3052839a36dec5f089458d41028aa887e8f32d45bd8962fd6d3320&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484744315.jpg?k=251af9845260cc998be95b66bac61bb7b8f3bf68762833ff9b18f566e6997e5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419436.jpg?k=ce545821ae3a791b763d042f85e73d6d8f63d461757b821fe7194be0c873d642&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484746071.jpg?k=31ef8d3229f0b7a8079fbc49f9149af406b75e29ce13c023f572bd6b0afc6714&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484746038.jpg?k=8fc82e969178c1252de5dfb6ff5650dfe828b1813739c8afe77ab3799cbf0191&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Flobede Furrë Buke 150 m"\n  - "Pashtriku 600 m"\nnearbyBeaches:\n  - "Golem Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 900 m"\n  - "Mali I Robit Beach 1.1 km"\n  - "Qerret Beach 3.2 km"\n  - "Durres Beach 3.3 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nreviews:\n  - name: "Bouchra"\n    country: "Belgium"\n    text: "“Alles comfortabel als gezin met kinderen alles dichtbij zee restaurants supermarkt das een aanrader voor mij een dikke 10 😊”"\nbookingURL: "https://www.booking.com/hotel/al/bellissima-casa-al-mare-con-vista-mozzafiato.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to comfort and convenience, boasting two well-appointed bedrooms and a bathroom equipped with all essentials, including bed linen and towels. The living space is designed to cater to modern needs, featuring a flat-screen TV with streaming services for entertainment, a dining area for communal meals, and a fully equipped kitchen for those who prefer to prepare their own meals. The addition of a terrace invites guests to enjoy their surroundings in an open-air setting, enhancing the overall experience of staying by the sea.
+---
+title: "BELLISSIMA CASA AL MARE CON VISTA MOZZAFIATO"
+description: "BELLISSIMA CASA AL MARE CON VISTA MOZZAFIATO emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, just a stone's throw away from the pristine Golem Beach and a short stroll from the scenic Shkëmbi i Kavajës Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419337.jpg?k=dc8d264642745fa5e709c85306048e557ad5bbd6a53ca6e9b32403489a541a83&o=&hp=1"
+language: en
+slug: bellissima-casa-al-mare-con-vista-mozzafiato
+address: "Rruga Kristal pallati ngjitur me bar orion, kati i 7, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.25769599
+  lng: 19.52278238
+price: "US$73"
+priceFrom: 73
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419337.jpg?k=dc8d264642745fa5e709c85306048e557ad5bbd6a53ca6e9b32403489a541a83&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419431.jpg?k=bef477543f102b3191079807eb06813a8075f34363eacab3a7384d1b03d364c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419373.jpg?k=df333b5c3c13bcfc397b94bcd2825cd6a3997636df97fefc9fb58d7493076e1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419438.jpg?k=78208857beaf251573d36e183028b940f5252352289dbc3ddbd7c02fe4f97409&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419418.jpg?k=dfaa9e9f9a3052839a36dec5f089458d41028aa887e8f32d45bd8962fd6d3320&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484744315.jpg?k=251af9845260cc998be95b66bac61bb7b8f3bf68762833ff9b18f566e6997e5d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419436.jpg?k=ce545821ae3a791b763d042f85e73d6d8f63d461757b821fe7194be0c873d642&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484746071.jpg?k=31ef8d3229f0b7a8079fbc49f9149af406b75e29ce13c023f572bd6b0afc6714&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484746038.jpg?k=8fc82e969178c1252de5dfb6ff5650dfe828b1813739c8afe77ab3799cbf0191&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Flobede Furrë Buke 150 m"
+  - "Pashtriku 600 m"
+nearbyBeaches:
+  - "Golem Beach 250 m"
+  - "Shkëmbi i Kavajës Beach 900 m"
+  - "Mali I Robit Beach 1.1 km"
+  - "Qerret Beach 3.2 km"
+  - "Durres Beach 3.3 km"
+whatsNearby:
+  - "Bekimi 9 km"
+  - "Durres Amphiteatre 9 km"
+  - "Wine Dhe Pooh 9 km"
+  - "1. Maj 9 km"
+  - "Yje Dhe Hena 9 km"
+  - "Sheshi Demokracia 9 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+reviews:
+  - name: "Bouchra"
+    country: "Belgium"
+    text: "“Alles comfortabel als gezin met kinderen alles dichtbij zee restaurants supermarkt das een aanrader voor mij een dikke 10 😊”"
+bookingURL: "https://www.booking.com/hotel/al/bellissima-casa-al-mare-con-vista-mozzafiato.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a testament to comfort and convenience, boasting two well-appointed bedrooms and a bathroom equipped with all essentials, including bed linen and towels. The living space is designed to cater to modern needs, featuring a flat-screen TV with streaming services for entertainment, a dining area for communal meals, and a fully equipped kitchen for those who prefer to prepare their own meals. The addition of a terrace invites guests to enjoy their surroundings in an open-air setting, enhancing the overall experience of staying by the sea.
 
 Privacy is a priority at BELLISSIMA CASA AL MARE, with a private entrance to the accommodation ensuring a secluded and intimate stay. For those arriving by car, the convenience of on-site parking is a notable perk, alongside the option to hire bikes directly from the apartment, encouraging guests to explore the local area at their own pace.
 

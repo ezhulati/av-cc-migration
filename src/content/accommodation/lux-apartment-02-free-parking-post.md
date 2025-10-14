@@ -1,4 +1,80 @@
----\ntitle: "Lux Apartment 02 + Free Parking Post"\ndescription: "Lux Apartment 02 + Free Parking Post emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195480.jpg?k=65313a9ff47d3c9ebe5bc423d8d28ae6025c44a84675de815095312d3af6add6&o=&hp=1"\nlanguage: en\nslug: lux-apartment-02-free-parking-post\naddress: "Rruga Gramoz Pashko, 1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31827304\n  lng: 19.83224458\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 19\nratings:\n  overall: 9.7\n  location: 9.7\n  cleanliness: 9.9\n  facilities: 9.7\n  value: 9.6\n  comfort: 9.7\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195480.jpg?k=65313a9ff47d3c9ebe5bc423d8d28ae6025c44a84675de815095312d3af6add6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195505.jpg?k=024f2d5ebf728b6b4d859a6f0c1902aab03c51711544ff8925bb4e7bb31d1004&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195310.jpg?k=a5f69defa1c54db0542ef72c61f7e54decf9d8db54bad4a359da61b2735d723a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195519.jpg?k=121fed16c9857bd217100a129331be89ee8487de7695c644ec74c6191ca6233d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195453.jpg?k=5b3e8096e094412395d4950c30e1214f5e6930a4351da184e63c8a0cf39c6657&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195408.jpg?k=e7b871a8be2f56e0f91e5efd746e37c2123ecc04424c7921a7e2c50850e43d5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195423.jpg?k=bc93c6f851faba7d0c566d17cd0522f4ebeb238d226a537c1865aad8592e8e9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195436.jpg?k=9a23f2999a99ec0e3611f15ab73e22fab701179c7a4b9c1ff6e73c59a46c928e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195514.jpg?k=010554ae95428169274aa86fbb5a6a366f859ab09705174b98ab0f41e66a8005&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Das Cafe 50 m"\n  - "Rinia 100 m"\nwhatsNearby:\n  - "Parku I Madh 350 m"\n  - "Shesh Rekreativ 450 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 500 m"\n  - "Grand Park of Tirana 900 m"\n  - "Shesh Rekreativ 1,000 m"\n  - "Sheshi Rekreativ Piramida 1 km"\n  - "Tanners' Bridge 1 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.2 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "National Gallery of Arts Tirana 1.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Kamil"\n    country: "Poland"\n    text: "“Great apartment with free underground parking. Very close to the center. There is techno club nearby so you don't even need a taxi after the party. Self check in. Host is really helpful and it was a pleasure to stay there.”"\n  - name: "Rozeta"\n    country: "Albania"\n    text: "“Everything was within our expectations, the owner of the house answered very quickly the questions we had. The apartment was clean and warm. As for the position, I think it is good for me that I travel from Korça to Tirana and vice versa. We will...”"\n  - name: "K"\n    country: "Albania"\n    text: "“The apartment and building are new, modern, clean and well equipped with everything needed for a comfortable and convenient stay. We found it pretty easily and the instructions given were very precise! Nice quiet neighborhood, it is located in...”"\nbookingURL: "https://www.booking.com/hotel/al/lux-apartment-02-free-parking-post.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment, a smoke-free environment, is strategically positioned a mere stone's throw away from the historical Postbllok - Checkpoint Monument, ensuring guests are immersed in the city's rich history. Additionally, it is conveniently close to the Former Residence of Enver Hoxha and the breathtaking Rock of Kavaje, making it an ideal base for explorers keen to uncover Tirana's treasures.
+---
+title: "Lux Apartment 02 + Free Parking Post"
+description: "Lux Apartment 02 + Free Parking Post emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195480.jpg?k=65313a9ff47d3c9ebe5bc423d8d28ae6025c44a84675de815095312d3af6add6&o=&hp=1"
+language: en
+slug: lux-apartment-02-free-parking-post
+address: "Rruga Gramoz Pashko, 1010 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31827304
+  lng: 19.83224458
+price: "US$42"
+priceFrom: 42
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 19
+ratings:
+  overall: 9.7
+  location: 9.7
+  cleanliness: 9.9
+  facilities: 9.7
+  value: 9.6
+  comfort: 9.7
+  staff: 9.5
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195480.jpg?k=65313a9ff47d3c9ebe5bc423d8d28ae6025c44a84675de815095312d3af6add6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195505.jpg?k=024f2d5ebf728b6b4d859a6f0c1902aab03c51711544ff8925bb4e7bb31d1004&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195310.jpg?k=a5f69defa1c54db0542ef72c61f7e54decf9d8db54bad4a359da61b2735d723a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195519.jpg?k=121fed16c9857bd217100a129331be89ee8487de7695c644ec74c6191ca6233d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195453.jpg?k=5b3e8096e094412395d4950c30e1214f5e6930a4351da184e63c8a0cf39c6657&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195408.jpg?k=e7b871a8be2f56e0f91e5efd746e37c2123ecc04424c7921a7e2c50850e43d5e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195423.jpg?k=bc93c6f851faba7d0c566d17cd0522f4ebeb238d226a537c1865aad8592e8e9d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195436.jpg?k=9a23f2999a99ec0e3611f15ab73e22fab701179c7a4b9c1ff6e73c59a46c928e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195514.jpg?k=010554ae95428169274aa86fbb5a6a366f859ab09705174b98ab0f41e66a8005&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Das Cafe 50 m"
+  - "Rinia 100 m"
+whatsNearby:
+  - "Parku I Madh 350 m"
+  - "Shesh Rekreativ 450 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 500 m"
+  - "Grand Park of Tirana 900 m"
+  - "Shesh Rekreativ 1,000 m"
+  - "Sheshi Rekreativ Piramida 1 km"
+  - "Tanners' Bridge 1 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.2 km"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "National Gallery of Arts Tirana 1.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 13 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Kamil"
+    country: "Poland"
+    text: "“Great apartment with free underground parking. Very close to the center. There is techno club nearby so you don't even need a taxi after the party. Self check in. Host is really helpful and it was a pleasure to stay there.”"
+  - name: "Rozeta"
+    country: "Albania"
+    text: "“Everything was within our expectations, the owner of the house answered very quickly the questions we had. The apartment was clean and warm. As for the position, I think it is good for me that I travel from Korça to Tirana and vice versa. We will...”"
+  - name: "K"
+    country: "Albania"
+    text: "“The apartment and building are new, modern, clean and well equipped with everything needed for a comfortable and convenient stay. We found it pretty easily and the instructions given were very precise! Nice quiet neighborhood, it is located in...”"
+bookingURL: "https://www.booking.com/hotel/al/lux-apartment-02-free-parking-post.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This apartment, a smoke-free environment, is strategically positioned a mere stone's throw away from the historical Postbllok - Checkpoint Monument, ensuring guests are immersed in the city's rich history. Additionally, it is conveniently close to the Former Residence of Enver Hoxha and the breathtaking Rock of Kavaje, making it an ideal base for explorers keen to uncover Tirana's treasures.
 
 The accommodation itself boasts a well-appointed bedroom, a fully equipped kitchen for those who prefer to prepare their meals, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable and enjoyable stay.
 

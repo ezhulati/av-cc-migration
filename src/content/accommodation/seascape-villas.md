@@ -1,4 +1,86 @@
----\ntitle: "Seascape Villas"\ndescription: "Seascape Villas emerges as a prime choice for travelers seeking a serene getaway in Vlorë, strategically positioned a mere stone's throw from the pristine Liro Beach and within easy reach of both Coco Bongo and Sunny Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369529875.jpg?k=6b06907e2e970a613b2e9582d1bebbcc9dcd8971947720ef7e1d7446a79033bc&o=&hp=1"\nlanguage: en\nslug: seascape-villas\naddress: "Rruga Gjergj Strasi, Vlorë, Shqipëri, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.40966642\n  lng: 19.48140747\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 98\nratings:\n  overall: 8.5\n  location: 8.3\n  cleanliness: 8.4\n  facilities: 7.8\n  value: 8.3\n  comfort: 8.5\n  staff: 9.1\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369529875.jpg?k=6b06907e2e970a613b2e9582d1bebbcc9dcd8971947720ef7e1d7446a79033bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542421.jpg?k=02a31df00b4199ba31cd5e4559cb1e35f7ccbba9bfbba1f0a61ca399a16d1e0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371119832.jpg?k=5c735b3dfd663ba8b75164e5f9618989423699b1e57fe00bd826da9b42132624&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387243213.jpg?k=4431d1c8038e82c24d9338072e9b14650ef2f7faa130ecfdd234995542e95a59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542243.jpg?k=0f96c160fccac94a8c09c1b15b404370905877f8cfe6bf6c52120e84a648e2d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542434.jpg?k=ef0c7dce576c585b4fbee5fa5c1e3000225d18455ebf0c5aeb4df2feb6950a25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371620995.jpg?k=8f78a27482b30a82c9c7623c967a9e7e9268aaa59dd96a8bbd17cbb156fe08ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387243175.jpg?k=a3cfac1f1f936eba4f6a42c92afb41d5f2731d5470d4fb6336330858e9cf8c19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542252.jpg?k=b193b22afc565cb2efcefdf3b833930edabb4904a087ca3786d4497942f779c5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (81 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Kalaja 400 m"\n  - "Riviera Blu 500 m"\nnearbyBeaches:\n  - "Liro Beach 550 m"\n  - "Coco Bongo Beach 600 m"\n  - "Sunny Beach 800 m"\n  - "Beach at Government Villas 950 m"\n  - "La Playa Beach 1.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 3.2 km"\n  - "Kuzum Baba 7 km"\n  - "Independence Square 7 km"\nairports:\n  - "Corfu International Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Dana"\n    country: "United Kingdom"\n    text: "“The views were absolutely stunning, ideal location!! The carpark was definitely a bonus. Lovely and clean with air con rooms. Super helpful and amazing staff.”"\n  - name: "Aida"\n    country: "Albania"\n    text: "“Really beautiful villas with an amazing view! The breakfast was delicious :)”"\n  - name: "Evgeni"\n    country: "Lithuania"\n    text: "“Property itself is very good and well organized. View is amazing. Villa is clean, has all needful features. Parking is on the spot. Breakfast was also a big advantage. Staff is very polite and willing to help”"\nbookingURL: "https://www.booking.com/hotel/al/seascape-villas.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Seascape Villas are thoughtfully designed with the guest's comfort in mind, featuring private bathrooms across all units. Select rooms elevate the experience further, offering balconies for a breath of fresh air or sea views for a tranquil gaze into the horizon.
+---
+title: "Seascape Villas"
+description: "Seascape Villas emerges as a prime choice for travelers seeking a serene getaway in Vlorë, strategically positioned a mere stone's throw from the pristine Liro Beach and within easy reach of both Coco Bongo and Sunny Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369529875.jpg?k=6b06907e2e970a613b2e9582d1bebbcc9dcd8971947720ef7e1d7446a79033bc&o=&hp=1"
+language: en
+slug: seascape-villas
+address: "Rruga Gjergj Strasi, Vlorë, Shqipëri, 9405 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "villa"
+coordinates:
+  lat: 40.40966642
+  lng: 19.48140747
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 98
+ratings:
+  overall: 8.5
+  location: 8.3
+  cleanliness: 8.4
+  facilities: 7.8
+  value: 8.3
+  comfort: 8.5
+  staff: 9.1
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369529875.jpg?k=6b06907e2e970a613b2e9582d1bebbcc9dcd8971947720ef7e1d7446a79033bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542421.jpg?k=02a31df00b4199ba31cd5e4559cb1e35f7ccbba9bfbba1f0a61ca399a16d1e0f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371119832.jpg?k=5c735b3dfd663ba8b75164e5f9618989423699b1e57fe00bd826da9b42132624&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387243213.jpg?k=4431d1c8038e82c24d9338072e9b14650ef2f7faa130ecfdd234995542e95a59&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542243.jpg?k=0f96c160fccac94a8c09c1b15b404370905877f8cfe6bf6c52120e84a648e2d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542434.jpg?k=ef0c7dce576c585b4fbee5fa5c1e3000225d18455ebf0c5aeb4df2feb6950a25&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371620995.jpg?k=8f78a27482b30a82c9c7623c967a9e7e9268aaa59dd96a8bbd17cbb156fe08ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387243175.jpg?k=a3cfac1f1f936eba4f6a42c92afb41d5f2731d5470d4fb6336330858e9cf8c19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369542252.jpg?k=b193b22afc565cb2efcefdf3b833930edabb4904a087ca3786d4497942f779c5&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (81 Mbps)"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Kalaja 400 m"
+  - "Riviera Blu 500 m"
+nearbyBeaches:
+  - "Liro Beach 550 m"
+  - "Coco Bongo Beach 600 m"
+  - "Sunny Beach 800 m"
+  - "Beach at Government Villas 950 m"
+  - "La Playa Beach 1.4 km"
+whatsNearby:
+  - "Scooby Doo Vlore 3.2 km"
+  - "Kuzum Baba 7 km"
+  - "Independence Square 7 km"
+airports:
+  - "Corfu International Airport 96 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Dana"
+    country: "United Kingdom"
+    text: "“The views were absolutely stunning, ideal location!! The carpark was definitely a bonus. Lovely and clean with air con rooms. Super helpful and amazing staff.”"
+  - name: "Aida"
+    country: "Albania"
+    text: "“Really beautiful villas with an amazing view! The breakfast was delicious :)”"
+  - name: "Evgeni"
+    country: "Lithuania"
+    text: "“Property itself is very good and well organized. View is amazing. Villa is clean, has all needful features. Parking is on the spot. Breakfast was also a big advantage. Staff is very polite and willing to help”"
+bookingURL: "https://www.booking.com/hotel/al/seascape-villas.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Seascape Villas are thoughtfully designed with the guest's comfort in mind, featuring private bathrooms across all units. Select rooms elevate the experience further, offering balconies for a breath of fresh air or sea views for a tranquil gaze into the horizon.
 
 For those looking to unwind, the villa's bar presents a cozy spot to relax with a drink. Additionally, the presence of a minimarket on the premises adds an extra layer of convenience, catering to any last-minute needs or cravings.
 

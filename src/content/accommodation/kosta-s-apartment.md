@@ -1,4 +1,80 @@
----\ntitle: "Kosta's Apartment"\ndescription: "Kosta's Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, complemented by stunning sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188496489.jpg?k=802aea87a98ebce585ef2ac6264ae5abf463e241f7330424e3b0326f64315ee3&o=&hp=1"\nlanguage: en\nslug: kosta-s-apartment\naddress: "Rruga Lefter Talo, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87493283\n  lng: 20.01130781\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 36\nratings:\n  overall: 9.8\n  location: 9.9\n  cleanliness: 9.9\n  facilities: 9.6\n  value: 9.8\n  comfort: 9.5\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188496489.jpg?k=802aea87a98ebce585ef2ac6264ae5abf463e241f7330424e3b0326f64315ee3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298289052.jpg?k=7d87d44ffa1b31f65f5943a09a6d3cef871a2cd79d57791b4730ab95f6005c6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137080819.jpg?k=958e353701c8b1ca370242afb69c99c2de4f2d6fe8710cb9810d603a16af7ee7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298288690.jpg?k=5d3d1f2716c6b1e9a8d675afac9016fc318020768f6d18b9d1add26273f74c5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298288804.jpg?k=0b585152b12aa48f76f8c6a6d5d1dff565955c0db68347a93bef3698390c0f23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137739082.jpg?k=2cd81f231c87f70b0d10718cf6be56e05815f526305c3f280a10d1bd1ce35e64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298288863.jpg?k=852d3eaea83efa13a4cca64b46a05ac84d53c833f4a7641e47e916fe1c1a5736&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298289249.jpg?k=42d0994ceb103db720c30ef1bf704b0b4484afc606966f956b90d68e877280f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524342774.jpg?k=967334cb609994aa5cafc84f591d2e8c6a281d53a219d2878df13e2e9148ba94&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Nona Qebaptore 30 m"\n  - "Pastiçeri Gremo 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 750 m"\n  - "Maestral Beach 950 m"\n  - "Sarande Main Beach 950 m"\n  - "VIP Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.1 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Elena"\n    country: "Portugal"\n    text: "“Everything was perfect. The location is good, the apartment very clean, and the host is very helpful!”"\n  - name: "Domenico"\n    country: "Germany"\n    text: "“Awesome host and good value for money. It‘s a 5 minute walk to the beach and to the Main Street”"\n  - name: "Sean"\n    country: "Australia"\n    text: "“Kosta went above and beyond on my arrival from Athens on a night bus that pulled in to Sarande at 3am in the morning! Kosta reached out to me beforehand to see when I was arriving, and then volunteered to pick me up, never had that in many years...”"\nbookingURL: "https://www.booking.com/hotel/al/kosta-39-s-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern amenities, featuring air conditioning for those warm Mediterranean days. Guests will find a cozy bedroom waiting to envelop them in relaxation after a day of adventure. The living room provides a spacious area for unwinding, while the fully equipped kitchen, complete with an oven, ensures that home-cooked meals are a delightful option. The convenience of a private bathroom, equipped with a shower and hair dryer, adds to the comfort of the stay.
+---
+title: "Kosta's Apartment"
+description: "Kosta's Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, complemented by stunning sea views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188496489.jpg?k=802aea87a98ebce585ef2ac6264ae5abf463e241f7330424e3b0326f64315ee3&o=&hp=1"
+language: en
+slug: kosta-s-apartment
+address: "Rruga Lefter Talo, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87493283
+  lng: 20.01130781
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 36
+ratings:
+  overall: 9.8
+  location: 9.9
+  cleanliness: 9.9
+  facilities: 9.6
+  value: 9.8
+  comfort: 9.5
+  staff: 9.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188496489.jpg?k=802aea87a98ebce585ef2ac6264ae5abf463e241f7330424e3b0326f64315ee3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298289052.jpg?k=7d87d44ffa1b31f65f5943a09a6d3cef871a2cd79d57791b4730ab95f6005c6d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137080819.jpg?k=958e353701c8b1ca370242afb69c99c2de4f2d6fe8710cb9810d603a16af7ee7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298288690.jpg?k=5d3d1f2716c6b1e9a8d675afac9016fc318020768f6d18b9d1add26273f74c5b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298288804.jpg?k=0b585152b12aa48f76f8c6a6d5d1dff565955c0db68347a93bef3698390c0f23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137739082.jpg?k=2cd81f231c87f70b0d10718cf6be56e05815f526305c3f280a10d1bd1ce35e64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298288863.jpg?k=852d3eaea83efa13a4cca64b46a05ac84d53c833f4a7641e47e916fe1c1a5736&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298289249.jpg?k=42d0994ceb103db720c30ef1bf704b0b4484afc606966f956b90d68e877280f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524342774.jpg?k=967334cb609994aa5cafc84f591d2e8c6a281d53a219d2878df13e2e9148ba94&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Nona Qebaptore 30 m"
+  - "Pastiçeri Gremo 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 150 m"
+  - "La Petite Beach 750 m"
+  - "Maestral Beach 950 m"
+  - "Sarande Main Beach 950 m"
+  - "VIP Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 2.1 km"
+  - "Butrint National Park 3 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Elena"
+    country: "Portugal"
+    text: "“Everything was perfect. The location is good, the apartment very clean, and the host is very helpful!”"
+  - name: "Domenico"
+    country: "Germany"
+    text: "“Awesome host and good value for money. It‘s a 5 minute walk to the beach and to the Main Street”"
+  - name: "Sean"
+    country: "Australia"
+    text: "“Kosta went above and beyond on my arrival from Athens on a night bus that pulled in to Sarande at 3am in the morning! Kosta reached out to me beforehand to see when I was arriving, and then volunteered to pick me up, never had that in many years...”"
+bookingURL: "https://www.booking.com/hotel/al/kosta-39-s-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Mediterranean days. Guests will find a cozy bedroom waiting to envelop them in relaxation after a day of adventure. The living room provides a spacious area for unwinding, while the fully equipped kitchen, complete with an oven, ensures that home-cooked meals are a delightful option. The convenience of a private bathroom, equipped with a shower and hair dryer, adds to the comfort of the stay.
 
 Entertainment is readily available with a flat-screen TV offering a variety of satellite channels, perfect for those moments of leisure. Beyond the walls of Kosta's Apartment, Sarandë invites guests to explore its charming streets, local cuisine, and the serene garden views that can be admired directly from the apartment.
 

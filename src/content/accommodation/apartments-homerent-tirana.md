@@ -1,4 +1,100 @@
----\ntitle: "Apartments HomeRent Tirana"\ndescription: "Apartments HomeRent Tirana emerges as a freshly renovated gem in the heart of Tirana, boasting proximity to notable landmarks such as the House of Leaves and the National Museum of History Albania."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161629.jpg?k=32d139376cd7ac4da649b90c0158df95f9d68af04ad2827c7f01709b1f24013d&o=&hp=1"\nlanguage: en\nslug: apartments-homerent-tirana\naddress: "Rruga e Kavajës 21square, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32308201\n  lng: 19.79823565\nprice: "US$81"\npriceFrom: 81\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 23\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.2\n  facilities: 9.7\n  value: 9.3\n  comfort: 9.6\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161629.jpg?k=32d139376cd7ac4da649b90c0158df95f9d68af04ad2827c7f01709b1f24013d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474396635.jpg?k=b2be7447a903679fdc6392b2b2db9d40a17051a156a5cf38a61da91b6452a66b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161157.jpg?k=422f3850c0569cd007b4d9c0a356c7c360644ff878fb77a5719e1582388d9e67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320052437.jpg?k=426ca0970b4c54c995a9af1b76a54b6ffb22856fdee985315a34c371806a1d2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092664.jpg?k=dd6e5f92e70395f657969e8f6a0632d251277186034816eafb1de175fcfe17c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321440153.jpg?k=4ccb92a976873765939d9c0fb3e9b51dd4bfa1fd286b5a43c96957a9b9552f49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161275.jpg?k=0aae9b083ef4014ab3f505a6f835f4d67a09d5fc77f69fb006c6c1241739cf8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475093065.jpg?k=fd85168846cdfa55ab18493c3b129cb986e9b9c12fa95a867a2b9e32c986dbee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481981375.jpg?k=9b9b3fb8eebefa3ca3b3ac5562005499e6424ac2fa980cc604f31f11ac55df8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092979.jpg?k=aedcea917b784996a147ac2f4dbe1e02c00f0a18e156f934c201ab486730359e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092896.jpg?k=67ca47043082980311f933c6fd89652ba27b9fa0a13bbe68211b9de38dc59275&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092768.jpg?k=792d9b9a52a3d4f581686b61303c56248e6a9829d10961c839dad2462193d3e1&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Good free WiFi (27 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.6 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Rinia Park 1.7 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Skanderbeg Square 1.8 km"\n  - "Clock Tower Tirana 1.9 km"\n  - "National Gallery of Arts Tirana 1.9 km"\n  - "Tanners' Bridge 2.4 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Bar Lotto 50 m"\n  - "Themmas Kitchen 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Sali Butka 100 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 250 m"\n  - "Sheshi Rekreativ Bajram Curri 250 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 300 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 600 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 750 m"\n  - "Sheshi Rekreativ Parku 1Km 800 m"\n  - "Sheshi Rekreativ Komuna e Parisit 1 km"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.1 km"\n  - "Sheshi Rekreativ Mine Peza 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Konstantinos"\n    country: "Greece"\n    text: "“Our experience at this accommodation was simply amazing. The room was impeccably clean, reflecting the care and attention to detail of the owner . The host was incredibly helpful and attentive to our needs, making our stay feel personalized and...”"\n  - name: "Ilir"\n    country: "United Kingdom"\n    text: "“Great location. Only 20 min drive from the airport and 10 minutes from city centre. Apartament is located in a new development called square 21 with lots of great restaurants and coffee shops. Air conditioning was a life saver during current...”"\n  - name: "Paolappr"\n    country: "Colombia"\n    text: "“I am very happy because the apartment is very well located, it has a square with multiple cafes, bars, boutiques and restaurants, the club is 1 km away and the apartment is very spacious, it has all the comforts one needs to live and everything is...”"\nbookingURL: "https://www.booking.com/hotel/al/amazing-comfortable-klais-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe highlight of this property is undoubtedly its spacious apartments, which feature a balcony that presents breathtaking mountain views. Each apartment is thoughtfully designed with a separate bedroom, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and an oven. The inclusion of a walk-in shower in the bathroom, along with the provision of towels and bed linen, adds a touch of comfort and convenience. Moreover, the added benefit of a private entrance ensures that guests enjoy an undisturbed and private stay.
+---
+title: "Apartments HomeRent Tirana"
+description: "Apartments HomeRent Tirana emerges as a freshly renovated gem in the heart of Tirana, boasting proximity to notable landmarks such as the House of Leaves and the National Museum of History Albania."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161629.jpg?k=32d139376cd7ac4da649b90c0158df95f9d68af04ad2827c7f01709b1f24013d&o=&hp=1"
+language: en
+slug: apartments-homerent-tirana
+address: "Rruga e Kavajës 21square, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32308201
+  lng: 19.79823565
+price: "US$81"
+priceFrom: 81
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 23
+ratings:
+  overall: 9.5
+  location: 9.7
+  cleanliness: 9.2
+  facilities: 9.7
+  value: 9.3
+  comfort: 9.6
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161629.jpg?k=32d139376cd7ac4da649b90c0158df95f9d68af04ad2827c7f01709b1f24013d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474396635.jpg?k=b2be7447a903679fdc6392b2b2db9d40a17051a156a5cf38a61da91b6452a66b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161157.jpg?k=422f3850c0569cd007b4d9c0a356c7c360644ff878fb77a5719e1582388d9e67&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320052437.jpg?k=426ca0970b4c54c995a9af1b76a54b6ffb22856fdee985315a34c371806a1d2f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092664.jpg?k=dd6e5f92e70395f657969e8f6a0632d251277186034816eafb1de175fcfe17c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321440153.jpg?k=4ccb92a976873765939d9c0fb3e9b51dd4bfa1fd286b5a43c96957a9b9552f49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161275.jpg?k=0aae9b083ef4014ab3f505a6f835f4d67a09d5fc77f69fb006c6c1241739cf8c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475093065.jpg?k=fd85168846cdfa55ab18493c3b129cb986e9b9c12fa95a867a2b9e32c986dbee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481981375.jpg?k=9b9b3fb8eebefa3ca3b3ac5562005499e6424ac2fa980cc604f31f11ac55df8e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092979.jpg?k=aedcea917b784996a147ac2f4dbe1e02c00f0a18e156f934c201ab486730359e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092896.jpg?k=67ca47043082980311f933c6fd89652ba27b9fa0a13bbe68211b9de38dc59275&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475092768.jpg?k=792d9b9a52a3d4f581686b61303c56248e6a9829d10961c839dad2462193d3e1&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Good free WiFi (27 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.6 km"
+  - "Former Residence of Enver Hoxha 1.6 km"
+  - "Rinia Park 1.7 km"
+  - "National Museum of History Albania 1.8 km"
+  - "Skanderbeg Square 1.8 km"
+  - "Clock Tower Tirana 1.9 km"
+  - "National Gallery of Arts Tirana 1.9 km"
+  - "Tanners' Bridge 2.4 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Bar Lotto 50 m"
+  - "Themmas Kitchen 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Sali Butka 100 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 250 m"
+  - "Sheshi Rekreativ Bajram Curri 250 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 300 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 600 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 750 m"
+  - "Sheshi Rekreativ Parku 1Km 800 m"
+  - "Sheshi Rekreativ Komuna e Parisit 1 km"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.1 km"
+  - "Sheshi Rekreativ Mine Peza 1.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Konstantinos"
+    country: "Greece"
+    text: "“Our experience at this accommodation was simply amazing. The room was impeccably clean, reflecting the care and attention to detail of the owner . The host was incredibly helpful and attentive to our needs, making our stay feel personalized and...”"
+  - name: "Ilir"
+    country: "United Kingdom"
+    text: "“Great location. Only 20 min drive from the airport and 10 minutes from city centre. Apartament is located in a new development called square 21 with lots of great restaurants and coffee shops. Air conditioning was a life saver during current...”"
+  - name: "Paolappr"
+    country: "Colombia"
+    text: "“I am very happy because the apartment is very well located, it has a square with multiple cafes, bars, boutiques and restaurants, the club is 1 km away and the apartment is very spacious, it has all the comforts one needs to live and everything is...”"
+bookingURL: "https://www.booking.com/hotel/al/amazing-comfortable-klais-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The highlight of this property is undoubtedly its spacious apartments, which feature a balcony that presents breathtaking mountain views. Each apartment is thoughtfully designed with a separate bedroom, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and an oven. The inclusion of a walk-in shower in the bathroom, along with the provision of towels and bed linen, adds a touch of comfort and convenience. Moreover, the added benefit of a private entrance ensures that guests enjoy an undisturbed and private stay.
 
 For those who might need to pick up essentials or snacks without venturing far, a minimarket on the premises serves as a handy resource. Additionally, the availability of a car rental service directly from the apartment facilitates easy exploration of Tirana and its surroundings.
 

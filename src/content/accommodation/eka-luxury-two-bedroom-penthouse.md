@@ -1,4 +1,86 @@
----\ntitle: "Eka Luxury Two-Bedroom Penthouse"\ndescription: "Eka Luxury Two-Bedroom Penthouse emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741426.jpg?k=ad27346f1e87e5083c7df968576b2a804933e177f1be8f19ff01717303c65235&o=&hp=1"\nlanguage: en\nslug: eka-luxury-two-bedroom-penthouse\naddress: "Rruga Qafe Bote, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30559417\n  lng: 19.49502121\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 7\nratings:\n  overall: 8.8\n  location: 8.8\n  cleanliness: 8.6\n  facilities: 8.6\n  value: 8.6\n  comfort: 8.9\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741426.jpg?k=ad27346f1e87e5083c7df968576b2a804933e177f1be8f19ff01717303c65235&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741448.jpg?k=12ab523b9a9523dafbda460cd239b14dd56cd41574444c013e2a14630dc10794&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741444.jpg?k=77bdb60decdd2a229e54ace2a58252c31e0eb624348106c8308b77e695885503&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741461.jpg?k=038c7029ff48ebb8632df8c4b5b7fd35af9d967cec44408e2b5279e20300c001&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741459.jpg?k=02c53153a7a637f692f78f8f04dc39bcf85a88d8d173eee6ae8c81b125dcf2f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741446.jpg?k=a914049eee9ed8ecef6ed8e6759411c6f8a6af6c55fdd9619d025732b45a6439&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741417.jpg?k=91272ed09ea5100703cf1e712e2bd834b6ab8bf8efa47d99abc8a6e22d4850d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741423.jpg?k=51400b368ea41176781d1d969db00a7e1eccd1821bd0205df8dfc6e45793bf28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741411.jpg?k=e582067752dd006578dc6cca247561234053934492de4f9f908468c346ab73f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741419.jpg?k=f9b3046f5bc9bc0dc08ea6b4ea1ba0ee996ae42c7b4d089e4c107265d1937387&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741415.jpg?k=f172794b71490b3f016491f1f889da4ea5debb304ed711db4786c40053b5b93a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741440.jpg?k=3625227f4356a15f69c279cd968228969ec5d5fea18e4f86cc5d8672bdb42b15&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "2a 100 m"\n  - "Chichken Hause 100 m"\nnearbyBeaches:\n  - "Durres Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 2.5 km"\n  - "Currila Beach 4 km"\n  - "Golem Beach 4.9 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.9 km"\n  - "Wine Dhe Pooh 4 km"\n  - "Sheshi Demokracia 4.1 km"\n  - "Yje Dhe Hena 4.2 km"\n  - "Durres Amphiteatre 4.2 km"\n  - "Sotir Noka 4.4 km"\n  - "1. Maj 4.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Tone"\n    country: "Norway"\n    text: "“Centrally located. 5 minutes to the beach. Nice and clean apartment. Practical for family of 4-5. Plus for 2 bathrooms. The contact person was easy to get hold of through the chat on booking. Was also helpful in printing boarding passes.”"\nbookingURL: "https://www.booking.com/hotel/al/eka-luxury-two-bedroom-penthouse.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis penthouse is not just about its prime location; it's an epitome of luxury living with its air-conditioned spaces, private parking, and complimentary WiFi, ensuring guests experience convenience at every turn. The property prides itself on its security measures, including full-day security, a private entrance, and soundproofing, guaranteeing a serene and secure stay.
+---
+title: "Eka Luxury Two-Bedroom Penthouse"
+description: "Eka Luxury Two-Bedroom Penthouse emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic city views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741426.jpg?k=ad27346f1e87e5083c7df968576b2a804933e177f1be8f19ff01717303c65235&o=&hp=1"
+language: en
+slug: eka-luxury-two-bedroom-penthouse
+address: "Rruga Qafe Bote, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30559417
+  lng: 19.49502121
+price: "US$60"
+priceFrom: 60
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 7
+ratings:
+  overall: 8.8
+  location: 8.8
+  cleanliness: 8.6
+  facilities: 8.6
+  value: 8.6
+  comfort: 8.9
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741426.jpg?k=ad27346f1e87e5083c7df968576b2a804933e177f1be8f19ff01717303c65235&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741448.jpg?k=12ab523b9a9523dafbda460cd239b14dd56cd41574444c013e2a14630dc10794&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741444.jpg?k=77bdb60decdd2a229e54ace2a58252c31e0eb624348106c8308b77e695885503&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741461.jpg?k=038c7029ff48ebb8632df8c4b5b7fd35af9d967cec44408e2b5279e20300c001&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741459.jpg?k=02c53153a7a637f692f78f8f04dc39bcf85a88d8d173eee6ae8c81b125dcf2f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741446.jpg?k=a914049eee9ed8ecef6ed8e6759411c6f8a6af6c55fdd9619d025732b45a6439&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741417.jpg?k=91272ed09ea5100703cf1e712e2bd834b6ab8bf8efa47d99abc8a6e22d4850d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741423.jpg?k=51400b368ea41176781d1d969db00a7e1eccd1821bd0205df8dfc6e45793bf28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741411.jpg?k=e582067752dd006578dc6cca247561234053934492de4f9f908468c346ab73f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741419.jpg?k=f9b3046f5bc9bc0dc08ea6b4ea1ba0ee996ae42c7b4d089e4c107265d1937387&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741415.jpg?k=f172794b71490b3f016491f1f889da4ea5debb304ed711db4786c40053b5b93a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741440.jpg?k=3625227f4356a15f69c279cd968228969ec5d5fea18e4f86cc5d8672bdb42b15&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "2a 100 m"
+  - "Chichken Hause 100 m"
+nearbyBeaches:
+  - "Durres Beach 300 m"
+  - "Shkëmbi i Kavajës Beach 2.5 km"
+  - "Currila Beach 4 km"
+  - "Golem Beach 4.9 km"
+  - "Kallmi Beach 5 km"
+whatsNearby:
+  - "Bekimi 2.9 km"
+  - "Wine Dhe Pooh 4 km"
+  - "Sheshi Demokracia 4.1 km"
+  - "Yje Dhe Hena 4.2 km"
+  - "Durres Amphiteatre 4.2 km"
+  - "Sotir Noka 4.4 km"
+  - "1. Maj 4.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Tone"
+    country: "Norway"
+    text: "“Centrally located. 5 minutes to the beach. Nice and clean apartment. Practical for family of 4-5. Plus for 2 bathrooms. The contact person was easy to get hold of through the chat on booking. Was also helpful in printing boarding passes.”"
+bookingURL: "https://www.booking.com/hotel/al/eka-luxury-two-bedroom-penthouse.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This penthouse is not just about its prime location; it's an epitome of luxury living with its air-conditioned spaces, private parking, and complimentary WiFi, ensuring guests experience convenience at every turn. The property prides itself on its security measures, including full-day security, a private entrance, and soundproofing, guaranteeing a serene and secure stay.
 
 The interior of the penthouse is equally impressive, featuring two elegantly furnished bedrooms, a living room that invites relaxation with its cozy ambiance, a flat-screen TV for entertainment, and a fully equipped kitchen that includes a dishwasher and an oven. The highlight, however, is the terrace that offers breathtaking sea views, complemented by an outdoor dining area where guests can savor their meals against the backdrop of mountain vistas.
 

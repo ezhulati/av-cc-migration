@@ -1,4 +1,87 @@
----\ntitle: "Hotel Royal Saranda"\ndescription: "Discover the charm of Hotel Royal Saranda, a prime destination for travelers seeking both relaxation and adventure, mere steps away from the pristine shores of Saranda."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918692.jpg?k=d0fda2fd2677642432c478fb437e4ca680eb0630adb4a110b74f44c2e15bd045&o=&hp=1"\nlanguage: en\nslug: hotel-royal-saranda\naddress: "Rruga Jonianet Nr. 13, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87289467\n  lng: 20.00422454\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 400\nratings:\n  overall: 8.9\n  location: 9.6\n  cleanliness: 9.1\n  facilities: 8.6\n  value: 8.8\n  comfort: 9.1\n  staff: 9.4\n  wifi: 7.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918692.jpg?k=d0fda2fd2677642432c478fb437e4ca680eb0630adb4a110b74f44c2e15bd045&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198802668.jpg?k=4a4fe2f8dad8f28e2daf28a5d6ac81060409c81e92bc61dee5b52e2d63d77900&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918935.jpg?k=80149408fc3ebc5a0e03803cceeddbb43f49a62eef030dcbb77ef5269f22d93f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/18198408.jpg?k=8740ea4f03e33d073cf6a9e41483cd80e365441f5fd812a7bd20815e37d16a80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131364993.jpg?k=50e90ced9dadbc1e4e4c69b1130a0d865d8810637e1a3c01dbe813c6ef24cb8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131364986.jpg?k=5cab7c21823b004a5751b167591f071d546d41f91f99161b8279bb1ba7bb3e10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131364982.jpg?k=da4a0f5bc6759d1bc115c71d660768143725a49d5a6267e00dd542809ad3a7a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364098376.jpg?k=7ab6883dac4f09374adcdef3741cf1993a64879ef12b3ac8d08da2094a06fc81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275637805.jpg?k=27c2dc6d7ad60ee70a661adc10b316d1faa841f8ded6e47ad6e812b584d79a84&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\n  - "Bar"\n  - "Fabulous breakfast"\nnearbyRestaurants:\n  - "Caci and Pizza 20 m"\n  - "New Space 40 m"\nnearbyBeaches:\n  - "Sarande Main Beach 450 m"\n  - "Saranda City Beach 450 m"\n  - "La Petite Beach 1,000 m"\n  - "Maestral Beach 1.2 km"\n  - "Saranda Bay Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Janet"\n    country: "United Kingdom"\n    text: "“Although the room was slightly smaller than expected it was spotless and spacious enough for our needs. We had a lovely balcony with views out to sea and a panoramic view of Saranda. The roof top breakfast was continental and plenty for everyone....”"\n  - name: "Madelaine"\n    country: "United Kingdom"\n    text: "“Excellent breakfast; convenient and sea front location; very helpful staff.”"\n  - name: "Sara"\n    country: "Sweden"\n    text: "“Wonderful host who could not do enough for us! Excellent location, wonderful roof terrass with great views. Spacious and comfortable room.”"\nbookingURL: "https://www.booking.com/hotel/al/royal-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe allure of Hotel Royal Saranda extends beyond its rooms. A summer terrace provides an idyllic setting for guests to unwind, complemented by an array of delectable options from the hotel's bar and restaurant. For those exploring by car, the availability of free public parking nearby adds a layer of ease to their stay.
+---
+title: "Hotel Royal Saranda"
+description: "Discover the charm of Hotel Royal Saranda, a prime destination for travelers seeking both relaxation and adventure, mere steps away from the pristine shores of Saranda."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918692.jpg?k=d0fda2fd2677642432c478fb437e4ca680eb0630adb4a110b74f44c2e15bd045&o=&hp=1"
+language: en
+slug: hotel-royal-saranda
+address: "Rruga Jonianet Nr. 13, 9702 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.87289467
+  lng: 20.00422454
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 400
+ratings:
+  overall: 8.9
+  location: 9.6
+  cleanliness: 9.1
+  facilities: 8.6
+  value: 8.8
+  comfort: 9.1
+  staff: 9.4
+  wifi: 7.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918692.jpg?k=d0fda2fd2677642432c478fb437e4ca680eb0630adb4a110b74f44c2e15bd045&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198802668.jpg?k=4a4fe2f8dad8f28e2daf28a5d6ac81060409c81e92bc61dee5b52e2d63d77900&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918935.jpg?k=80149408fc3ebc5a0e03803cceeddbb43f49a62eef030dcbb77ef5269f22d93f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/18198408.jpg?k=8740ea4f03e33d073cf6a9e41483cd80e365441f5fd812a7bd20815e37d16a80&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131364993.jpg?k=50e90ced9dadbc1e4e4c69b1130a0d865d8810637e1a3c01dbe813c6ef24cb8c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131364986.jpg?k=5cab7c21823b004a5751b167591f071d546d41f91f99161b8279bb1ba7bb3e10&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131364982.jpg?k=da4a0f5bc6759d1bc115c71d660768143725a49d5a6267e00dd542809ad3a7a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364098376.jpg?k=7ab6883dac4f09374adcdef3741cf1993a64879ef12b3ac8d08da2094a06fc81&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275637805.jpg?k=27c2dc6d7ad60ee70a661adc10b316d1faa841f8ded6e47ad6e812b584d79a84&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Terrace"
+  - "Bar"
+  - "Fabulous breakfast"
+nearbyRestaurants:
+  - "Caci and Pizza 20 m"
+  - "New Space 40 m"
+nearbyBeaches:
+  - "Sarande Main Beach 450 m"
+  - "Saranda City Beach 450 m"
+  - "La Petite Beach 1,000 m"
+  - "Maestral Beach 1.2 km"
+  - "Saranda Bay Beach 2 km"
+whatsNearby:
+  - "Parc National de Butrint 2.3 km"
+  - "Butrint National Park 3.1 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Janet"
+    country: "United Kingdom"
+    text: "“Although the room was slightly smaller than expected it was spotless and spacious enough for our needs. We had a lovely balcony with views out to sea and a panoramic view of Saranda. The roof top breakfast was continental and plenty for everyone....”"
+  - name: "Madelaine"
+    country: "United Kingdom"
+    text: "“Excellent breakfast; convenient and sea front location; very helpful staff.”"
+  - name: "Sara"
+    country: "Sweden"
+    text: "“Wonderful host who could not do enough for us! Excellent location, wonderful roof terrass with great views. Spacious and comfortable room.”"
+bookingURL: "https://www.booking.com/hotel/al/royal-saranda.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The allure of Hotel Royal Saranda extends beyond its rooms. A summer terrace provides an idyllic setting for guests to unwind, complemented by an array of delectable options from the hotel's bar and restaurant. For those exploring by car, the availability of free public parking nearby adds a layer of ease to their stay.
 
 Each room is thoughtfully equipped with a flat-screen TV and a fridge, ensuring comfort and convenience. The en-suite bathrooms, complete with showers, hairdryers, and complimentary toiletries, add a touch of luxury to the guest experience. The hotel's garden offers a tranquil oasis, inviting guests to relax amidst lush greenery.
 

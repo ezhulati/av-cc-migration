@@ -1,4 +1,79 @@
----\ntitle: "Tirana Apartament in City Center 3"\ndescription: "Tirana Apartament in City Center 3 emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933606.jpg?k=4ced33bc621eeed445c8875eca48adcf95a6697d066a4df6ff7e02835a6a1592&o=&hp=1"\nlanguage: en\nslug: tirana-apartament-in-city-center-3\naddress: "Rruga Çerçiz Topulli, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33284816\n  lng: 19.82046259\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933606.jpg?k=4ced33bc621eeed445c8875eca48adcf95a6697d066a4df6ff7e02835a6a1592&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933585.jpg?k=6ed499e27fb7d7824282a3d8d0343c945aeebe275d24823c813ffefcac3b9140&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933625.jpg?k=a2c560fb22b9425cc5bae896a9ab440b07df2b0e95f9fa6aabe4e9e09b2d73fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933644.jpg?k=4fb4ecdedf97d798fd20467fdda2b8a0d5e22b5b46a88e21806f6d77d9eb6fab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933614.jpg?k=b01fb1d226522eabf91efb4c058f1dbe4885f4112c6b57241e25805ade22bf13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519936444.jpg?k=57041b98cc1abd4404b9861a1ed2049c5f0964465ea5b6d280a7d2c7a77776c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933591.jpg?k=e2ea2a7e9a943333c611b6b9707e2f27ca6a3332a665b8f3b9c871e6a9733c81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933596.jpg?k=febdddbd11a057feb23ac998763125db462a5dc3f740bafaafa79bbbaf45bdf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933637.jpg?k=183128705dc5069db20c9a985d94d038667f5c07fd482cb26cf27434fc69dcf0&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Good free WiFi (38 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 750 m"\n  - "Tanners' Bridge 850 m"\n  - "Rinia Park 900 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Golosa 100 m"\n  - "Bar Kafe 100 m"\nwhatsNearby:\n  - "Amazing Nature 100 m"\n  - "National Museum of History Albania 450 m"\n  - "Sheshi Sulejman Pasha 500 m"\n  - "Sheshi Skënderbej 550 m"\n  - "Clock Tower Tirana 550 m"\n  - "Skanderbeg Square 550 m"\n  - "Sheshi Paris 600 m"\n  - "Parku Europa 600 m"\n  - "Sheshi Rekreativ tek ish ATSh 700 m"\n  - "National Gallery of Arts Tirana 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/tirana-apartament-in-city-center-3.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a study in comfort and functionality, featuring a well-appointed bedroom, a fully equipped kitchen boasting an oven and microwave for those who prefer to dine in, and a cozy seating area perfect for unwinding after a day of exploration. Entertainment needs are met with a flat-screen TV, and the inclusion of a modern bathroom with a bidet, alongside the provision of towels and bed linen, underscores the attention to guest comfort. Notably, the apartment is designed as a non-smoking and soundproof space, ensuring a peaceful retreat from the city's hustle and bustle.
+---
+title: "Tirana Apartament in City Center 3"
+description: "Tirana Apartament in City Center 3 emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933606.jpg?k=4ced33bc621eeed445c8875eca48adcf95a6697d066a4df6ff7e02835a6a1592&o=&hp=1"
+language: en
+slug: tirana-apartament-in-city-center-3
+address: "Rruga Çerçiz Topulli, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33284816
+  lng: 19.82046259
+price: "US$43"
+priceFrom: 43
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933606.jpg?k=4ced33bc621eeed445c8875eca48adcf95a6697d066a4df6ff7e02835a6a1592&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933585.jpg?k=6ed499e27fb7d7824282a3d8d0343c945aeebe275d24823c813ffefcac3b9140&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933625.jpg?k=a2c560fb22b9425cc5bae896a9ab440b07df2b0e95f9fa6aabe4e9e09b2d73fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933644.jpg?k=4fb4ecdedf97d798fd20467fdda2b8a0d5e22b5b46a88e21806f6d77d9eb6fab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933614.jpg?k=b01fb1d226522eabf91efb4c058f1dbe4885f4112c6b57241e25805ade22bf13&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519936444.jpg?k=57041b98cc1abd4404b9861a1ed2049c5f0964465ea5b6d280a7d2c7a77776c4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933591.jpg?k=e2ea2a7e9a943333c611b6b9707e2f27ca6a3332a665b8f3b9c871e6a9733c81&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933596.jpg?k=febdddbd11a057feb23ac998763125db462a5dc3f740bafaafa79bbbaf45bdf9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519933637.jpg?k=183128705dc5069db20c9a985d94d038667f5c07fd482cb26cf27434fc69dcf0&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Good free WiFi (38 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 750 m"
+  - "Tanners' Bridge 850 m"
+  - "Rinia Park 900 m"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.4 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Golosa 100 m"
+  - "Bar Kafe 100 m"
+whatsNearby:
+  - "Amazing Nature 100 m"
+  - "National Museum of History Albania 450 m"
+  - "Sheshi Sulejman Pasha 500 m"
+  - "Sheshi Skënderbej 550 m"
+  - "Clock Tower Tirana 550 m"
+  - "Skanderbeg Square 550 m"
+  - "Sheshi Paris 600 m"
+  - "Parku Europa 600 m"
+  - "Sheshi Rekreativ tek ish ATSh 700 m"
+  - "National Gallery of Arts Tirana 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/tirana-apartament-in-city-center-3.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a study in comfort and functionality, featuring a well-appointed bedroom, a fully equipped kitchen boasting an oven and microwave for those who prefer to dine in, and a cozy seating area perfect for unwinding after a day of exploration. Entertainment needs are met with a flat-screen TV, and the inclusion of a modern bathroom with a bidet, alongside the provision of towels and bed linen, underscores the attention to guest comfort. Notably, the apartment is designed as a non-smoking and soundproof space, ensuring a peaceful retreat from the city's hustle and bustle.
 
 For quick essentials or snacks, guests will find a minimarket conveniently located within the apartment complex. 
 

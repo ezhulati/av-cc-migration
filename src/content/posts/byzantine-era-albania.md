@@ -9,15 +9,11 @@ tags: []
 featuredImage: "/images/posts/Konstantin__Helena-Cathedral-of-Assumption-of-St-Mary-in-Berat.jpeg"
 language: en
 slug: byzantine-era-albania
-"
 seo:
   focusKeyword: "Byzantine Era Albania"
   robots: "index"
   metaTitle: "Byzantine Empire - Albania's Forgotten Era (A.D. 395-1450)"
-  metaDescription: "Learn about the Byzantine influence that shaped Albania for over a millennium. From early Christianization to the rise of local principalities.
-"
-  focusKeyword: "Byzantine Era Albania"
-  robots: "index"
+  metaDescription: "Learn about the Byzantine influence that shaped Albania for over a millennium. From early Christianization to the rise of local principalities."
 ---
 
 ## Tracing a Fallen Empire Through Albania

@@ -1,4 +1,77 @@
----\ntitle: "Sunrise Hotel Orikum"\ndescription: "Sunrise Hotel Orikum emerges as a charming retreat just a stone's throw away from the serene Orikum Beach, offering guests a blend of comfort and convenience with its array of amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103139767.jpg?k=7d67ac1fd6bebfbf8e80a48c1c6f59c5421d0e7463ed9e33880ca38e2230e4ca&o=&hp=1"\nlanguage: en\nslug: sunrise-hotel-orikum\naddress: "Rruga Pashaliman, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.32952758\n  lng: 19.46111485\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.7\nratingWords: "Good"\nnumberOfReviews: 100\nratings:\n  overall: 7.7\n  location: 8.1\n  cleanliness: 6.9\n  facilities: 7\n  value: 7.3\n  comfort: 6.9\n  staff: 8\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103139767.jpg?k=7d67ac1fd6bebfbf8e80a48c1c6f59c5421d0e7463ed9e33880ca38e2230e4ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204126066.jpg?k=6df0814c68a56e4a9198a1bef45223fe37528632688309347053b8ec1821fb5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264857603.jpg?k=724a3d85b7bd447d965ce7958b08c761e0f5e4f0cfc411ba7bd05774e48c1890&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265006260.jpg?k=e228bfe5d693a2439010ec363b47e90a50d603a5c7e81fdb72154727d48bfd53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204127215.jpg?k=65e597f571a80ca3e9c9dcb7bc8806d1bd50906bbbe4f140101609f9df9a9ca1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156374137.jpg?k=a5816fdc5fc590cf48c0ced2f6ffe582d1047d454de7936252791da579230f27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208006137.jpg?k=2c97fb4f70dee44dace7d21456bd799c52b390b69db42dd363f969f5563dc353&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204127242.jpg?k=e0f71911dc1b8a6f49eed2eb1763a5ccb7e2536ed6f402bd62991b5711deb5a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315166869.jpg?k=55ce092d1d0727009f42f3d1f2e159ca28e2c8e6d6170d319cd3e241998896f7&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyRestaurants:\n  - "FISH HOUSE 350 m"\n  - "Restorant Maxolas Dream 500 m"\nnearbyBeaches:\n  - "Orikum Beach 350 m"\n  - "Nettuno Beach 950 m"\n  - "Baro Beach 1.9 km"\n  - "Al Breeze Beach 2.6 km"\n  - "Radhimë Beach 3.2 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 12 km"\n  - "Llogora National Park 14 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 88 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/sunrise-resort-orikum.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel distinguishes itself with air-conditioned accommodations that ensure a restful stay, each boasting a private bathroom, free WiFi, and the added luxury of a balcony presenting breathtaking mountain views. For those desiring an urban panorama, select rooms offer terraces that frame the city's beauty, all while ensuring modern comforts with flat-screen TVs and complimentary toiletries.
+---
+title: "Sunrise Hotel Orikum"
+description: "Sunrise Hotel Orikum emerges as a charming retreat just a stone's throw away from the serene Orikum Beach, offering guests a blend of comfort and convenience with its array of amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103139767.jpg?k=7d67ac1fd6bebfbf8e80a48c1c6f59c5421d0e7463ed9e33880ca38e2230e4ca&o=&hp=1"
+language: en
+slug: sunrise-hotel-orikum
+address: "Rruga Pashaliman, 9426 Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "resort"
+coordinates:
+  lat: 40.32952758
+  lng: 19.46111485
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.7
+ratingWords: "Good"
+numberOfReviews: 100
+ratings:
+  overall: 7.7
+  location: 8.1
+  cleanliness: 6.9
+  facilities: 7
+  value: 7.3
+  comfort: 6.9
+  staff: 8
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103139767.jpg?k=7d67ac1fd6bebfbf8e80a48c1c6f59c5421d0e7463ed9e33880ca38e2230e4ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204126066.jpg?k=6df0814c68a56e4a9198a1bef45223fe37528632688309347053b8ec1821fb5b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264857603.jpg?k=724a3d85b7bd447d965ce7958b08c761e0f5e4f0cfc411ba7bd05774e48c1890&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265006260.jpg?k=e228bfe5d693a2439010ec363b47e90a50d603a5c7e81fdb72154727d48bfd53&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204127215.jpg?k=65e597f571a80ca3e9c9dcb7bc8806d1bd50906bbbe4f140101609f9df9a9ca1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156374137.jpg?k=a5816fdc5fc590cf48c0ced2f6ffe582d1047d454de7936252791da579230f27&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208006137.jpg?k=2c97fb4f70dee44dace7d21456bd799c52b390b69db42dd363f969f5563dc353&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204127242.jpg?k=e0f71911dc1b8a6f49eed2eb1763a5ccb7e2536ed6f402bd62991b5711deb5a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315166869.jpg?k=55ce092d1d0727009f42f3d1f2e159ca28e2c8e6d6170d319cd3e241998896f7&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+nearbyRestaurants:
+  - "FISH HOUSE 350 m"
+  - "Restorant Maxolas Dream 500 m"
+nearbyBeaches:
+  - "Orikum Beach 350 m"
+  - "Nettuno Beach 950 m"
+  - "Baro Beach 1.9 km"
+  - "Al Breeze Beach 2.6 km"
+  - "Radhimë Beach 3.2 km"
+whatsNearby:
+  - "Scooby Doo Vlore 12 km"
+  - "Llogora National Park 14 km"
+  - "Kuzum Baba 16 km"
+  - "Independence Square 16 km"
+airports:
+  - "Corfu International Airport 88 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/sunrise-resort-orikum.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel distinguishes itself with air-conditioned accommodations that ensure a restful stay, each boasting a private bathroom, free WiFi, and the added luxury of a balcony presenting breathtaking mountain views. For those desiring an urban panorama, select rooms offer terraces that frame the city's beauty, all while ensuring modern comforts with flat-screen TVs and complimentary toiletries.
 
 Mornings at Sunrise Hotel Orikum are greeted with an à la carte breakfast, setting the tone for a day of exploration or relaxation. Families will appreciate the children's playground, while adventurers can take advantage of the hotel's proximity to engaging activities such as fishing.
 

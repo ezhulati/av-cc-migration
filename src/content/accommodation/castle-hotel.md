@@ -1,4 +1,69 @@
----\ntitle: "Castle Hotel"\ndescription: "Castle Hotel emerges as a charming retreat in the heart of Gjirokastër, offering guests a blend of comfort and convenience with its array of amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498980378.jpg?k=81765282d2da71808387145819b08aae26ac6d1d479159defad1b141229c39a7&o=&hp=1"\nlanguage: en\nslug: castle-hotel\naddress: "Astrit Karagjozi 15, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07171555\n  lng: 20.1369058\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 271\nratings:\n  overall: 9.2\n  location: 9.2\n  cleanliness: 9.3\n  facilities: 8.7\n  value: 9.2\n  comfort: 9\n  staff: 9.7\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498980378.jpg?k=81765282d2da71808387145819b08aae26ac6d1d479159defad1b141229c39a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472514890.jpg?k=a91ff092984a262eaefb02181d2f1ba9863d21b52bbbc0af3ff3ab055918b1e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464906397.jpg?k=5bc0ffd8647d68ff949ebd5352afbf05e4412ed34062c940afae87103791dd85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498981829.jpg?k=fb4a535d0005bbafd793e836f5aa1f67220b0e0de827f36903b350bc18555685&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498981654.jpg?k=2b10947971ac34247bb72a15794255cc1d775437facba46ab1479eab55ead089&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150118176.jpg?k=a723cf13480e4d8ad061e166e51128c325d34476140e447ff31e6b335a14a1f2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Triple Room"\nnearbyRestaurants:\n  - "Restorant Tradicional Urat 50 m"\n  - "Taverna Tradicionale Kardhashi 50 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Sonette"\n    country: "Malta"\n    text: "“Our stay was really lovely. The historic house has been professionally renovated and looks amazing. Beautiful views and very large rooms. The castle is in full view on the mountain.”"\n  - name: "Aida"\n    country: "Albania"\n    text: "“Very nice clean and comfortable hotel i recommended 👌”"\n  - name: "Amanda"\n    country: "Netherlands"\n    text: "“We loved to stay there! It is a family run business, that they take a lot of care with love. Location and view are stunning! It is simply magic to have breakfast on the balcony!”"\nbookingURL: "https://www.booking.com/hotel/al/castle-gjirokaster.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nThe property is distinguished by its beautifully manicured garden, a shared lounge perfect for unwinding, a welcoming terrace, and an inviting bar, creating an atmosphere that caters to both leisure and social interaction. The hotel's commitment to service is evident through its 24-hour front desk and the thoughtful provision of luggage storage space, catering to the needs of every guest.
+---
+title: "Castle Hotel"
+description: "Castle Hotel emerges as a charming retreat in the heart of Gjirokastër, offering guests a blend of comfort and convenience with its array of amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498980378.jpg?k=81765282d2da71808387145819b08aae26ac6d1d479159defad1b141229c39a7&o=&hp=1"
+language: en
+slug: castle-hotel
+address: "Astrit Karagjozi 15, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.07171555
+  lng: 20.1369058
+price: "US$65"
+priceFrom: 65
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 271
+ratings:
+  overall: 9.2
+  location: 9.2
+  cleanliness: 9.3
+  facilities: 8.7
+  value: 9.2
+  comfort: 9
+  staff: 9.7
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498980378.jpg?k=81765282d2da71808387145819b08aae26ac6d1d479159defad1b141229c39a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472514890.jpg?k=a91ff092984a262eaefb02181d2f1ba9863d21b52bbbc0af3ff3ab055918b1e1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464906397.jpg?k=5bc0ffd8647d68ff949ebd5352afbf05e4412ed34062c940afae87103791dd85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498981829.jpg?k=fb4a535d0005bbafd793e836f5aa1f67220b0e0de827f36903b350bc18555685&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498981654.jpg?k=2b10947971ac34247bb72a15794255cc1d775437facba46ab1479eab55ead089&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150118176.jpg?k=a723cf13480e4d8ad061e166e51128c325d34476140e447ff31e6b335a14a1f2&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Fabulous breakfast"
+roomTypes:
+  - "Triple Room"
+nearbyRestaurants:
+  - "Restorant Tradicional Urat 50 m"
+  - "Taverna Tradicionale Kardhashi 50 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Sonette"
+    country: "Malta"
+    text: "“Our stay was really lovely. The historic house has been professionally renovated and looks amazing. Beautiful views and very large rooms. The castle is in full view on the mountain.”"
+  - name: "Aida"
+    country: "Albania"
+    text: "“Very nice clean and comfortable hotel i recommended 👌”"
+  - name: "Amanda"
+    country: "Netherlands"
+    text: "“We loved to stay there! It is a family run business, that they take a lot of care with love. Location and view are stunning! It is simply magic to have breakfast on the balcony!”"
+bookingURL: "https://www.booking.com/hotel/al/castle-gjirokaster.en-gb.html?aid=8035640"
+bestFor: "Best for Historical Sites Proximity"
+bestCategories: "Historical Sites Proximity"
+category: "Historical Sites Proximity"
+---
+
+The property is distinguished by its beautifully manicured garden, a shared lounge perfect for unwinding, a welcoming terrace, and an inviting bar, creating an atmosphere that caters to both leisure and social interaction. The hotel's commitment to service is evident through its 24-hour front desk and the thoughtful provision of luggage storage space, catering to the needs of every guest.
 
 Accommodations at Castle Hotel are thoughtfully designed, featuring essential amenities such as a wardrobe for personal belongings. Entertainment is not overlooked, with each room equipped with a flat-screen TV. Select rooms elevate the experience further, offering captivating city views that promise to enchant guests. Comfort is paramount, with each room outfitted with quality bed linen and towels, ensuring a restful night's sleep.
 

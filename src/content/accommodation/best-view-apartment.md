@@ -1,9 +1,85 @@
----\ntitle: "Best View Apartment"\ndescription: "Best View Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and breathtaking views in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256334.jpg?k=d2e0f3d8cea8ec6839f07cef4637356da72141bc763e418a37a89ae3c3ab4d3e&o=&hp=1"\nlanguage: en\nslug: best-view-apartment\naddress: "Rr.Sazani ,plazhi i vjeter Vlore, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45776277\n  lng: 19.46908332\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 9\nratings:\n  overall: 9.2\n  location: 8.3\n  cleanliness: 9.2\n  facilities: 8.6\n  value: 9.7\n  comfort: 9.4\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256334.jpg?k=d2e0f3d8cea8ec6839f07cef4637356da72141bc763e418a37a89ae3c3ab4d3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256410.jpg?k=3dec79b74ef8f81b4020f1bdb6e97a92192e6c23b8ae6b733c4ef5d4b2bc0a21&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256399.jpg?k=6c6b0983358b896c901bd5e69421dbd382250e35b59724fc94d69750127b92d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256543.jpg?k=8350750e63b822610a009dfc84c7c5a9b28e2e2590a9df3843be7b8468019d1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256830.jpg?k=257143daca1102a71e96c9b85806575a2a011108b288bd0f8bb010f26e038673&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256506.jpg?k=1da3483eb4806da4735040e0fb84732fd74f6bf21ac984a53d159d748ac45869&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256748.jpg?k=ba51dd1d7d404c27792c647a6764059803393bc590b0281ad8a38421a61bbeb2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256695.jpg?k=5e8762e6a6f89cc080a10a26cbc17d8f92f1bcd1afc3c80842591f87bd79ba2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362257120.jpg?k=c5aab9878eaabf81fb6396edfe9a78433b41b19d5444cd0a78b7285c8832f743&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Bar Restorant F. Feimi 100 m"\n  - "Love Beach 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 50 m"\n  - "Vlore Beach 2.3 km"\n  - "Ri Beach 3.3 km"\n  - "Narta Beach 4.3 km"\n  - "Beach at Government Villas 4.4 km"\nwhatsNearby:\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.3 km"\n  - "Scooby Doo Vlore 3.3 km"\nreviews:\n  - name: "Caroline"\n    country: "United Kingdom"\n    text: "“The view!! Absolutely amazing view. The balcony/terrace is amazing and the outside furniture provided of the highest quality. The inside furniture and contents were fantastic. The bed was one of the comfiest ever. Aircon is amazing in the lounge...”"\n  - name: "Milena"\n    country: "Germany"\n    text: "“Great view
+---
+title: "Best View Apartment"
+description: "Best View Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and breathtaking views in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256334.jpg?k=d2e0f3d8cea8ec6839f07cef4637356da72141bc763e418a37a89ae3c3ab4d3e&o=&hp=1"
+language: en
+slug: best-view-apartment
+address: "Rr.Sazani ,plazhi i vjeter Vlore, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45776277
+  lng: 19.46908332
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 9
+ratings:
+  overall: 9.2
+  location: 8.3
+  cleanliness: 9.2
+  facilities: 8.6
+  value: 9.7
+  comfort: 9.4
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256334.jpg?k=d2e0f3d8cea8ec6839f07cef4637356da72141bc763e418a37a89ae3c3ab4d3e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256410.jpg?k=3dec79b74ef8f81b4020f1bdb6e97a92192e6c23b8ae6b733c4ef5d4b2bc0a21&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256399.jpg?k=6c6b0983358b896c901bd5e69421dbd382250e35b59724fc94d69750127b92d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256543.jpg?k=8350750e63b822610a009dfc84c7c5a9b28e2e2590a9df3843be7b8468019d1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256830.jpg?k=257143daca1102a71e96c9b85806575a2a011108b288bd0f8bb010f26e038673&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256506.jpg?k=1da3483eb4806da4735040e0fb84732fd74f6bf21ac984a53d159d748ac45869&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256748.jpg?k=ba51dd1d7d404c27792c647a6764059803393bc590b0281ad8a38421a61bbeb2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362256695.jpg?k=5e8762e6a6f89cc080a10a26cbc17d8f92f1bcd1afc3c80842591f87bd79ba2d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362257120.jpg?k=c5aab9878eaabf81fb6396edfe9a78433b41b19d5444cd0a78b7285c8832f743&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "2 restaurants"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Bar Restorant F. Feimi 100 m"
+  - "Love Beach 150 m"
+nearbyBeaches:
+  - "Vjetër Beach 50 m"
+  - "Vlore Beach 2.3 km"
+  - "Ri Beach 3.3 km"
+  - "Narta Beach 4.3 km"
+  - "Beach at Government Villas 4.4 km"
+whatsNearby:
+  - "Kuzum Baba 2.3 km"
+  - "Independence Square 2.3 km"
+  - "Scooby Doo Vlore 3.3 km"
+reviews:
+  - name: "Caroline"
+    country: "United Kingdom"
+    text: "“The view!! Absolutely amazing view. The balcony/terrace is amazing and the outside furniture provided of the highest quality. The inside furniture and contents were fantastic. The bed was one of the comfiest ever. Aircon is amazing in the lounge...”"
+  - name: "Milena"
+    country: "Germany"
+    text: "“Great view
 Big balcony
 Nice, functional, well stocked kitchen
 Well stocked bathrooms with cosmetics and sunscreens
 Good AC
-Underground parking”"\n  - name: "Marco"\n    country: "Italy"\n    text: "“APPARTAMENTO : trattasi in realta' di un meraviglioso attico nuovo. Ampi spazi nel living + matrimoniale +camera con 2 singoli+2 bagni . Ogni stanza dispone di ampi terrazzi e vetrate; il living è molto luminoso con un grande patio esterno...”"\nbookingURL: "https://www.booking.com/hotel/al/best-view-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, featuring two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen complete with an oven and toaster for those home-cooked meals. The highlight, however, is the expansive terrace that offers sweeping sea views, perfect for those serene mornings or tranquil evenings. Complementing the living spaces are two modern bathrooms, ensuring privacy and convenience for all guests. The inclusion of towels and bed linen adds a touch of home to this luxurious escape.
+Underground parking”"
+  - name: "Marco"
+    country: "Italy"
+    text: "“APPARTAMENTO : trattasi in realta' di un meraviglioso attico nuovo. Ampi spazi nel living + matrimoniale +camera con 2 singoli+2 bagni . Ogni stanza dispone di ampi terrazzi e vetrate; il living è molto luminoso con un grande patio esterno...”"
+bookingURL: "https://www.booking.com/hotel/al/best-view-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious haven, featuring two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen complete with an oven and toaster for those home-cooked meals. The highlight, however, is the expansive terrace that offers sweeping sea views, perfect for those serene mornings or tranquil evenings. Complementing the living spaces are two modern bathrooms, ensuring privacy and convenience for all guests. The inclusion of towels and bed linen adds a touch of home to this luxurious escape.
 
 For those who prefer dining out, the property boasts a family-friendly restaurant catering to a variety of tastes with its diverse menu available for dinner, lunch, brunch, and high tea. Whether it's a casual meal or a special occasion, the dining experience here promises to be memorable.
 

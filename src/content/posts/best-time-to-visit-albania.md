@@ -14,8 +14,6 @@ seo:
   robots: "index"
   metaTitle: "Discover the Best Time to Visit Albania %sep% %sitename%"
   metaDescription: "Discover the best time to visit Albania in our seasonal guide. From pristine beaches to snow-capped mountains, prepare for an unforgettable journey."
-  focusKeyword: "best time to visit albania"
-  robots: "index"
 ---
 
 ## When is the Best Time to Visit Albania?

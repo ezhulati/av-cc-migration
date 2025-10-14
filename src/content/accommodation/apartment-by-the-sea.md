@@ -1,4 +1,69 @@
----\ntitle: "apartment by the sea"\ndescription: "Apartment by the Sea in Shëngjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794952.jpg?k=2b6af10836f67d3325865cc1ce5bf21f725a5bdbb6c92663094d4aeaea483906&o=&hp=1"\nlanguage: en\nslug: apartment-by-the-sea\naddress: "Shëtitorja Wilson 42, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.81269868\n  lng: 19.59367162\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794952.jpg?k=2b6af10836f67d3325865cc1ce5bf21f725a5bdbb6c92663094d4aeaea483906&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794992.jpg?k=cf5f6358e2762dee57e10bd5c083902dbded36752c5e9fcaace4de95c576b235&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431795034.jpg?k=e62987d89a3f4e9a16c560f258166fa74532a7707fdb88b712cfdefa049ece32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794976.jpg?k=6608c2678777fbd06f8f999ec748cc6e0a6ca08a8078d704996d4266a59d1882&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794960.jpg?k=447b8be8b53adf9b0c4e4e09ec97786a96488f3eb84771a236b5b5615211bb43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794929.jpg?k=eeffbc8c8e49c7691dd483296b16db3fac75ea07aaebc091d3a1519f84560e57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794956.jpg?k=4916ad9e7536c1b99cddf19229bc7de2f97a017050656ff65d74206bcfb818de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431795024.jpg?k=de05898fd488b5141d05249f71d1429edd965862d5f7a49949d82fc4ff1ddc04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431795057.jpg?k=f133fa878a2b05797b018c1cad2e40745a80e763caed271794f78cec29b39aa3&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Good free WiFi (43 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Restorant Varka 50 m"\n  - "Café Ondine 50 m"\nnearbyBeaches:\n  - "Shëngjin Beach 50 m"\n  - "Ylberi Beach 1.5 km"\n  - "Rana e Hedhun Beach 2.4 km"\n  - "Kune Beach 4.8 km"\n  - "Laguna Park Beach 4.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/holiday-home-shengjin2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern living, boasting air conditioning for those warm summer days, two cozy bedrooms, and a living area equipped with a satellite flat-screen TV for entertainment. The dining area and a fully equipped kitchen, including a fridge, allow guests the freedom to prepare their meals just the way they like. It's worth noting that the entire property is a smoke-free zone, ensuring a clean and fresh environment for all guests.
+---
+title: "apartment by the sea"
+description: "Apartment by the Sea in Shëngjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794952.jpg?k=2b6af10836f67d3325865cc1ce5bf21f725a5bdbb6c92663094d4aeaea483906&o=&hp=1"
+language: en
+slug: apartment-by-the-sea
+address: "Shëtitorja Wilson 42, 4503 Shëngjin, Albania"
+city: "Shëngjin"
+location: "Shëngjin"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.81269868
+  lng: 19.59367162
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794952.jpg?k=2b6af10836f67d3325865cc1ce5bf21f725a5bdbb6c92663094d4aeaea483906&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794992.jpg?k=cf5f6358e2762dee57e10bd5c083902dbded36752c5e9fcaace4de95c576b235&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431795034.jpg?k=e62987d89a3f4e9a16c560f258166fa74532a7707fdb88b712cfdefa049ece32&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794976.jpg?k=6608c2678777fbd06f8f999ec748cc6e0a6ca08a8078d704996d4266a59d1882&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794960.jpg?k=447b8be8b53adf9b0c4e4e09ec97786a96488f3eb84771a236b5b5615211bb43&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794929.jpg?k=eeffbc8c8e49c7691dd483296b16db3fac75ea07aaebc091d3a1519f84560e57&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794956.jpg?k=4916ad9e7536c1b99cddf19229bc7de2f97a017050656ff65d74206bcfb818de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431795024.jpg?k=de05898fd488b5141d05249f71d1429edd965862d5f7a49949d82fc4ff1ddc04&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431795057.jpg?k=f133fa878a2b05797b018c1cad2e40745a80e763caed271794f78cec29b39aa3&o=&hp=1"
+amenities:
+  - "Private parking"
+  - "Spa and wellness centre"
+  - "Non-smoking rooms"
+  - "Good free WiFi (43 Mbps)"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Restorant Varka 50 m"
+  - "Café Ondine 50 m"
+nearbyBeaches:
+  - "Shëngjin Beach 50 m"
+  - "Ylberi Beach 1.5 km"
+  - "Rana e Hedhun Beach 2.4 km"
+  - "Kune Beach 4.8 km"
+  - "Laguna Park Beach 4.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 44 km"
+  - "Podgorica Airport 66 km"
+  - "Tivat Airport 96 km"
+bookingURL: "https://www.booking.com/hotel/al/holiday-home-shengjin2.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of modern living, boasting air conditioning for those warm summer days, two cozy bedrooms, and a living area equipped with a satellite flat-screen TV for entertainment. The dining area and a fully equipped kitchen, including a fridge, allow guests the freedom to prepare their meals just the way they like. It's worth noting that the entire property is a smoke-free zone, ensuring a clean and fresh environment for all guests.
 
 Connectivity is never an issue, as free WiFi is available throughout the premises. For those arriving by car, private parking is available for a nominal fee, adding an extra layer of convenience. Additionally, the property features an elevator and an ATM, catering to all the practical needs of its guests.
 

@@ -1,4 +1,65 @@
----\ntitle: "Hotel Central"\ndescription: "Hotel Central stands as a beacon of convenience and comfort in the heart of Tirana, merely 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406839.jpg?k=87e6c1610f7f6597a88c8a659d3fd7c80f254e7aeeb9539b01486125c483f1fa&o=&hp=1"\nlanguage: en\nslug: hotel-central\naddress: "Rruga \" Karl Gega\", 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33736229\n  lng: 19.81705339\nprice: "US$26"\npriceFrom: 26\nstarRating: 2\nrating: 7.2\nratingWords: "Good"\nnumberOfReviews: 165\nratings:\n  overall: 7.2\n  location: 8.2\n  cleanliness: 6.6\n  facilities: 6.1\n  value: 7.2\n  comfort: 6.3\n  staff: 8.2\n  wifi: 7.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406839.jpg?k=87e6c1610f7f6597a88c8a659d3fd7c80f254e7aeeb9539b01486125c483f1fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406892.jpg?k=e992b136f6de7278be17c108b6e967ff26cddaf64763246b94d1ec6dcecf65fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52292856.jpg?k=179831d9545a5f6abe378eecfc65b3383b934d3d85a09ed6b0b8b40189d2bb14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301041399.jpg?k=083eb90c8b4c1b644df4fe780a5660362cf0c805b0385fe5b9ebab797056006e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261235622.jpg?k=7d64744efed08958b17f36f85a1a780f72586c9846e97d61374a3f8dcb9929ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406835.jpg?k=83cad23e36baff131b2e33eddc12562f64d8ffd7233b3ae74302a63962f5d6b0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Economy Quadruple Room with Shared Bathroom"\nnearbyAttractions:\n  - "House of Leaves 1.2 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Rinia Park 1.4 km"\n  - "Tanners' Bridge 1.4 km"\n  - "Former Residence of Enver Hoxha 1.8 km"\n  - "Grand Park of Tirana 2.9 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nEach room at Hotel Central is thoughtfully equipped with a balcony, air conditioning, and a television, catering to the needs of modern travelers seeking both relaxation and connectivity. For families, the hotel goes a step further by offering a children's playground, making it an ideal choice for guests of all ages.
+---
+title: "Hotel Central"
+description: "Hotel Central stands as a beacon of convenience and comfort in the heart of Tirana, merely 1."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406839.jpg?k=87e6c1610f7f6597a88c8a659d3fd7c80f254e7aeeb9539b01486125c483f1fa&o=&hp=1"
+language: en
+slug: hotel-central
+address: "Rruga \" Karl Gega\", 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.33736229
+  lng: 19.81705339
+price: "US$26"
+priceFrom: 26
+starRating: 2
+rating: 7.2
+ratingWords: "Good"
+numberOfReviews: 165
+ratings:
+  overall: 7.2
+  location: 8.2
+  cleanliness: 6.6
+  facilities: 6.1
+  value: 7.2
+  comfort: 6.3
+  staff: 8.2
+  wifi: 7.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406839.jpg?k=87e6c1610f7f6597a88c8a659d3fd7c80f254e7aeeb9539b01486125c483f1fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406892.jpg?k=e992b136f6de7278be17c108b6e967ff26cddaf64763246b94d1ec6dcecf65fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52292856.jpg?k=179831d9545a5f6abe378eecfc65b3383b934d3d85a09ed6b0b8b40189d2bb14&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301041399.jpg?k=083eb90c8b4c1b644df4fe780a5660362cf0c805b0385fe5b9ebab797056006e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261235622.jpg?k=7d64744efed08958b17f36f85a1a780f72586c9846e97d61374a3f8dcb9929ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406835.jpg?k=83cad23e36baff131b2e33eddc12562f64d8ffd7233b3ae74302a63962f5d6b0&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "24-hour front desk"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room"
+  - "Economy Quadruple Room with Shared Bathroom"
+nearbyAttractions:
+  - "House of Leaves 1.2 km"
+  - "National Gallery of Arts Tirana 1.3 km"
+  - "Rinia Park 1.4 km"
+  - "Tanners' Bridge 1.4 km"
+  - "Former Residence of Enver Hoxha 1.8 km"
+  - "Grand Park of Tirana 2.9 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+bookingURL: "https://www.booking.com/hotel/al/guest-house-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Each room at Hotel Central is thoughtfully equipped with a balcony, air conditioning, and a television, catering to the needs of modern travelers seeking both relaxation and connectivity. For families, the hotel goes a step further by offering a children's playground, making it an ideal choice for guests of all ages.
 
 Strategically located, Hotel Central is within easy reach of several of Tirana's most sought-after attractions. The National Theatre of Opera and Ballet of Albania, National Museum of History Albania, and Toptani Shopping Centre are all conveniently nearby, offering guests a glimpse into the rich culture and vibrant shopping scene of the city. Moreover, for those looking to explore beyond the city limits, the Dajti Ekspres Cable Car is just 4.7 km away, promising an adventure with breathtaking views.
 

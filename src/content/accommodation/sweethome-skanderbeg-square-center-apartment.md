@@ -1,5 +1,84 @@
----\ntitle: "SweetHome Skanderbeg Square Center Apartment"\ndescription: "Discover the charm of Tirana from the comfort of SweetHome Skanderbeg Square Center Apartment, a prime accommodation choice for travelers seeking both convenience and style."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513354521.jpg?k=5d503059c28434322e88e6a199f198ae4cc56d00d27c17a078904366efa06d87&o=&hp=1"\nlanguage: en\nslug: sweethome-skanderbeg-square-center-apartment\naddress: "Rruga Sheh Rexhep Kubati 29, 2007 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3318771\n  lng: 19.8160635\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513354521.jpg?k=5d503059c28434322e88e6a199f198ae4cc56d00d27c17a078904366efa06d87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504268669.jpg?k=3077c431c9608838ca5d84834f651686ecbe0cefe91bc5302ffb2ed7ef79361c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504269139.jpg?k=d9216f348113787dc6ed5383aae8d5c002fae8e602f49bde4a456c76490b4a66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505032845.jpg?k=61f43ef0b893c286c191d0cbd731fece04ba862db94294f52ee8fc26047df700&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505032614.jpg?k=0d4a200d221e6a1640889dfe228a7e7b38e8ef4d9c70dde586452393401209bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505032399.jpg?k=db96220cc2dcf586b4b943bad7f5e49755842b198b81c8dc03bee366833973da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504269062.jpg?k=1eb4b7f36de63a845ec05cfcebfd5ad9dfa81ff89e8111013ef1964141b49a41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509909023.jpg?k=d98ee1dcd8eabf6f30b2f2d7f3e7d99f91505418830c80d1db38cf13cf400e67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494471216.jpg?k=f73367d8aef307cd92379f3598d61dd799b912721253b297f197c0319292c88d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Rinia Park 800 m"\n  - "Tanners' Bridge 1 km"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Lissus Fish 40 m"\n  - "Fisheria 50 m"\nwhatsNearby:\n  - "National Museum of History Albania 300 m"\n  - "Sheshi Paris 300 m"\n  - "Amazing Nature 300 m"\n  - "Sheshi Skënderbej 400 m"\n  - "Skanderbeg Square 550 m"\n  - "Clock Tower Tirana 550 m"\n  - "Parku Europa 550 m"\n  - "House of Leaves 600 m"\n  - "Sheshi Sulejman Pasha 600 m"\n  - "National Gallery of Arts Tirana 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Khalid"\n    country: "United Arab Emirates"\n    text: "“One of the best stays in Tirana ❤️
-Super Central house in the middle of Tirana , fully occupied with everything needed , the host was amazingly nice and super responsive, she even welcomed me with some drinks & food , specious rooms and great view...”"\n  - name: "Laura"\n    country: "Poland"\n    text: "“Bardzo przyjemny pobyt z przepięknym widokiem na miasto. Mieszkanie było w pełni wyposażone, absolutnie niczego w nim nie brakowało. Świetna komunikacja z właścicielką, która była cały czas pod telefonem w razie ewentualnej potrzeby. Mieszkanie...”"\nbookingURL: "https://www.booking.com/hotel/al/sweethome-center-of-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking apartment stands out for its spacious layout, featuring a bedroom that opens up to a balcony with inspiring mountain views. The living space is thoughtfully designed with comfort in mind, boasting a flat-screen TV, a fully equipped kitchen complete with an oven and microwave, and a bathroom outfitted with a bidet. For an added touch of luxury, guests will find wine or champagne among the in-room amenities, ensuring a stay that blends relaxation with a hint of indulgence.
+---
+title: "SweetHome Skanderbeg Square Center Apartment"
+description: "Discover the charm of Tirana from the comfort of SweetHome Skanderbeg Square Center Apartment, a prime accommodation choice for travelers seeking both convenience and style."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513354521.jpg?k=5d503059c28434322e88e6a199f198ae4cc56d00d27c17a078904366efa06d87&o=&hp=1"
+language: en
+slug: sweethome-skanderbeg-square-center-apartment
+address: "Rruga Sheh Rexhep Kubati 29, 2007 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3318771
+  lng: 19.8160635
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513354521.jpg?k=5d503059c28434322e88e6a199f198ae4cc56d00d27c17a078904366efa06d87&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504268669.jpg?k=3077c431c9608838ca5d84834f651686ecbe0cefe91bc5302ffb2ed7ef79361c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504269139.jpg?k=d9216f348113787dc6ed5383aae8d5c002fae8e602f49bde4a456c76490b4a66&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505032845.jpg?k=61f43ef0b893c286c191d0cbd731fece04ba862db94294f52ee8fc26047df700&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505032614.jpg?k=0d4a200d221e6a1640889dfe228a7e7b38e8ef4d9c70dde586452393401209bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505032399.jpg?k=db96220cc2dcf586b4b943bad7f5e49755842b198b81c8dc03bee366833973da&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504269062.jpg?k=1eb4b7f36de63a845ec05cfcebfd5ad9dfa81ff89e8111013ef1964141b49a41&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509909023.jpg?k=d98ee1dcd8eabf6f30b2f2d7f3e7d99f91505418830c80d1db38cf13cf400e67&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494471216.jpg?k=f73367d8aef307cd92379f3598d61dd799b912721253b297f197c0319292c88d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Rinia Park 800 m"
+  - "Tanners' Bridge 1 km"
+  - "Former Residence of Enver Hoxha 1.2 km"
+  - "Grand Park of Tirana 2.3 km"
+  - "Bunk'Art 1 Museum 4.2 km"
+nearbyRestaurants:
+  - "Lissus Fish 40 m"
+  - "Fisheria 50 m"
+whatsNearby:
+  - "National Museum of History Albania 300 m"
+  - "Sheshi Paris 300 m"
+  - "Amazing Nature 300 m"
+  - "Sheshi Skënderbej 400 m"
+  - "Skanderbeg Square 550 m"
+  - "Clock Tower Tirana 550 m"
+  - "Parku Europa 550 m"
+  - "House of Leaves 600 m"
+  - "Sheshi Sulejman Pasha 600 m"
+  - "National Gallery of Arts Tirana 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Khalid"
+    country: "United Arab Emirates"
+    text: "“One of the best stays in Tirana ❤️
+Super Central house in the middle of Tirana , fully occupied with everything needed , the host was amazingly nice and super responsive, she even welcomed me with some drinks & food , specious rooms and great view...”"
+  - name: "Laura"
+    country: "Poland"
+    text: "“Bardzo przyjemny pobyt z przepięknym widokiem na miasto. Mieszkanie było w pełni wyposażone, absolutnie niczego w nim nie brakowało. Świetna komunikacja z właścicielką, która była cały czas pod telefonem w razie ewentualnej potrzeby. Mieszkanie...”"
+bookingURL: "https://www.booking.com/hotel/al/sweethome-center-of-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This non-smoking apartment stands out for its spacious layout, featuring a bedroom that opens up to a balcony with inspiring mountain views. The living space is thoughtfully designed with comfort in mind, boasting a flat-screen TV, a fully equipped kitchen complete with an oven and microwave, and a bathroom outfitted with a bidet. For an added touch of luxury, guests will find wine or champagne among the in-room amenities, ensuring a stay that blends relaxation with a hint of indulgence.
 
 Cultural enthusiasts will appreciate the apartment's proximity to notable landmarks such as the National Museum of History Albania, the intriguing House of Leaves, and the National Theatre of Opera and Ballet of Albania, making it easy to immerse oneself in the rich tapestry of Albanian culture. Furthermore, the Dajti Ekspres Cable Car is located just 5.2 km away, offering an adventure for those looking to explore beyond the city limits.
 

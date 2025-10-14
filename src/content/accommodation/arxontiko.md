@@ -1,5 +1,81 @@
----\ntitle: "ARXONTIKO"\ndescription: "ARXONTIKO stands as a modern beacon of hospitality in Himare, just a stone's throw away from the pristine Maracit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711721.jpg?k=8186e22b357c140cc8bea750b1b54af1d8de75eb8b825c3b42c18faae11675aa&o=&hp=1"\nlanguage: en\nslug: arxontiko\naddress: "SH8 6, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.099896\n  lng: 19.748639\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 404\nratings:\n  overall: 9.3\n  location: 9.6\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 8.8\n  comfort: 9.7\n  staff: 9.9\n  wifi: 8.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711721.jpg?k=8186e22b357c140cc8bea750b1b54af1d8de75eb8b825c3b42c18faae11675aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711730.jpg?k=1b1a6f3e0d1a86cc6dce25970233c122251f90b3e8db5db4142ca8ecf704054f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486737.jpg?k=72d9cda1093d137c1bc5147c9d38d362b2b5c6e1a9e278358187039f3552094a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208715816.jpg?k=307d60713cc28cd4fd86719ba5603142c8789f7e7fe13d1202ee00b9105cd5e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711731.jpg?k=a3ffa60a67fb328a4410b0a4a1a6ecede9f6f060a8d7abbbf831255c5a2de70d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711724.jpg?k=772d5c0a98944307b8712dab20edc6a327f4a72f5dd9c12eeb08e4b2d4d069e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208605028.jpg?k=a41c2f89b90568f7ca1f8b8c52e97c4b871701c615c231f32a218217dfd14277&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208709741.jpg?k=2ff61ab497a94678cd394c14f56ac4dd75b5f0c3507bb227013ea41ef4d79dd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486626.jpg?k=e0ae0ca1cbff69bc0c694ba14fd4c41a1251f29e962404473883ecf6649e175d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486725.jpg?k=1198bda29d1da92a71996c87a7c11fb92dd5645da397746d52405db30f1c379e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711728.jpg?k=ff22578de2f0692207a5e8ee67a4e411cdc8c6e7de147fee83cd579a199d028c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486755.jpg?k=5211b51cc082c852de5e7a39fdc261bcae8ccb3cc6e4f8d282d59a10c3f76d85&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Restorant Maistro 50 m"\n  - "Orzo 150 m"\nnearbyBeaches:\n  - "Maracit Beach 20 m"\n  - "Spille Beach 100 m"\n  - "Prinos Beach 250 m"\n  - "Potam Beach 650 m"\n  - "Gjiri i Filikurit Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "George"\n    country: "United Kingdom"\n    text: "“Very clean modern hotel. Room very bright with balcony overlooking the sea. Location just two minutes walk from the beach, and close to restaurants along the Promenade. Owners are very friendly and welcoming. The freshly prepared breakfast is...”"\n  - name: "Melissa"\n    country: "Canada"\n    text: "“When we arrived we were greeted by a young man who moved our car and helped us with our bags.
-The room was very comfortable and a great size for us. We had a wonderful balcony view of the sea and the beach, which was a very short walk away. The...”"\n  - name: "Wesley"\n    country: "Canada"\n    text: "“Staff was great; food was great; wine was great; pricing was amazing; room was perfect; very clean and location was great staff was very helpful”"\nbookingURL: "https://www.booking.com/hotel/al/arxontiko.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at ARXONTIKO is a testament to thoughtful hospitality, equipped with a wardrobe, a flat-screen TV, air conditioning, and a private bathroom that includes a shower and complimentary toiletries. For those desiring a bit more, selected rooms elevate the experience with the addition of a terrace, perfect for enjoying the gentle coastal breeze. Convenience is further enhanced with in-room fridges, ensuring refreshments are always within reach.
+---
+title: "ARXONTIKO"
+description: "ARXONTIKO stands as a modern beacon of hospitality in Himare, just a stone's throw away from the pristine Maracit Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711721.jpg?k=8186e22b357c140cc8bea750b1b54af1d8de75eb8b825c3b42c18faae11675aa&o=&hp=1"
+language: en
+slug: arxontiko
+address: "SH8 6, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.099896
+  lng: 19.748639
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 404
+ratings:
+  overall: 9.3
+  location: 9.6
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 8.8
+  comfort: 9.7
+  staff: 9.9
+  wifi: 8.1
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711721.jpg?k=8186e22b357c140cc8bea750b1b54af1d8de75eb8b825c3b42c18faae11675aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711730.jpg?k=1b1a6f3e0d1a86cc6dce25970233c122251f90b3e8db5db4142ca8ecf704054f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486737.jpg?k=72d9cda1093d137c1bc5147c9d38d362b2b5c6e1a9e278358187039f3552094a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208715816.jpg?k=307d60713cc28cd4fd86719ba5603142c8789f7e7fe13d1202ee00b9105cd5e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711731.jpg?k=a3ffa60a67fb328a4410b0a4a1a6ecede9f6f060a8d7abbbf831255c5a2de70d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711724.jpg?k=772d5c0a98944307b8712dab20edc6a327f4a72f5dd9c12eeb08e4b2d4d069e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208605028.jpg?k=a41c2f89b90568f7ca1f8b8c52e97c4b871701c615c231f32a218217dfd14277&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208709741.jpg?k=2ff61ab497a94678cd394c14f56ac4dd75b5f0c3507bb227013ea41ef4d79dd0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486626.jpg?k=e0ae0ca1cbff69bc0c694ba14fd4c41a1251f29e962404473883ecf6649e175d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486725.jpg?k=1198bda29d1da92a71996c87a7c11fb92dd5645da397746d52405db30f1c379e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208711728.jpg?k=ff22578de2f0692207a5e8ee67a4e411cdc8c6e7de147fee83cd579a199d028c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208486755.jpg?k=5211b51cc082c852de5e7a39fdc261bcae8ccb3cc6e4f8d282d59a10c3f76d85&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Exceptional breakfast"
+nearbyRestaurants:
+  - "Restorant Maistro 50 m"
+  - "Orzo 150 m"
+nearbyBeaches:
+  - "Maracit Beach 20 m"
+  - "Spille Beach 100 m"
+  - "Prinos Beach 250 m"
+  - "Potam Beach 650 m"
+  - "Gjiri i Filikurit Beach 1.5 km"
+whatsNearby:
+  - "Llogora National Park 17 km"
+airports:
+  - "Corfu International Airport 56 km"
+reviews:
+  - name: "George"
+    country: "United Kingdom"
+    text: "“Very clean modern hotel. Room very bright with balcony overlooking the sea. Location just two minutes walk from the beach, and close to restaurants along the Promenade. Owners are very friendly and welcoming. The freshly prepared breakfast is...”"
+  - name: "Melissa"
+    country: "Canada"
+    text: "“When we arrived we were greeted by a young man who moved our car and helped us with our bags.
+The room was very comfortable and a great size for us. We had a wonderful balcony view of the sea and the beach, which was a very short walk away. The...”"
+  - name: "Wesley"
+    country: "Canada"
+    text: "“Staff was great; food was great; wine was great; pricing was amazing; room was perfect; very clean and location was great staff was very helpful”"
+bookingURL: "https://www.booking.com/hotel/al/arxontiko.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room at ARXONTIKO is a testament to thoughtful hospitality, equipped with a wardrobe, a flat-screen TV, air conditioning, and a private bathroom that includes a shower and complimentary toiletries. For those desiring a bit more, selected rooms elevate the experience with the addition of a terrace, perfect for enjoying the gentle coastal breeze. Convenience is further enhanced with in-room fridges, ensuring refreshments are always within reach.
 
 The multilingual staff, fluent in Greek, English, and Albanian, stands ready at the reception to offer insightful advice, ensuring guests fully experience the local charm of Himare. Whether it's recommendations for dining or tips for hidden gems in the area, the team at ARXONTIKO goes above and beyond to ensure a memorable stay.
 

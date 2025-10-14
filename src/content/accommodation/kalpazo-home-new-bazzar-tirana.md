@@ -1,4 +1,87 @@
----\ntitle: "Kalpazo Home New Bazzar Tirana"\ndescription: "Kalpazo Home New Bazzar Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941202.jpg?k=fdd986f57a445ec017351b1d28ae72f6da7ae3b11450ced91ca3ea7e6b0f7994&o=&hp=1"\nlanguage: en\nslug: kalpazo-home-new-bazzar-tirana\naddress: "Rruga Qemal Stafa, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33109298\n  lng: 19.82481561\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 43\nratings:\n  overall: 9\n  location: 9.6\n  cleanliness: 8.6\n  facilities: 8.4\n  value: 9.2\n  comfort: 8.5\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941202.jpg?k=fdd986f57a445ec017351b1d28ae72f6da7ae3b11450ced91ca3ea7e6b0f7994&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941173.jpg?k=bf526fa8fea2e90e9538c76e51d89496e18af4367bca4d90d4376b233c10bd44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405958318.jpg?k=dbc5f0db98bb3105f5becdfd19812729f09d0d3e1c3d8ec69fbabb6e765cc79b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941201.jpg?k=1c1f9afc96e6414f9a6975d32d5070efb349ce985461b53f60e12a5573be5e6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941110.jpg?k=b7414a4b736cba4fa3bb0fe8d43c9da5c7c660df3375a7bcd09e5d743d56635a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941221.jpg?k=589cffce5438cc9420ac3655d0ce17d219cad0cacdcf1f17e9c5741935730fd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405958154.jpg?k=6f9f1ab3ec48ca71b81b1c5322fba9b3f87e026134f994b0b15f67c3d1a86cbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409940559.jpg?k=0bd20f3cd8a2c2140ca2f2e2802d98026a463eecafca0f9ef2f10b48418d2a65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405958280.jpg?k=94762ceadfa50bfef4fe16df602efdc401485ec6977a85c4d9af79abde0fce74&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Basic free WiFi (14 Mbps)"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 850 m"\n  - "Rinia Park 900 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Bar Restorant 10 m"\n  - "Ylli Hidri Soni Fish 30 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 350 m"\n  - "Sheshi Sulejman Pasha 400 m"\n  - "Tanners' Bridge 500 m"\n  - "Amazing Nature 550 m"\n  - "Clock Tower Tirana 550 m"\n  - "Skanderbeg Square 600 m"\n  - "Parku Europa 600 m"\n  - "National Gallery of Arts Tirana 650 m"\n  - "Sheshi Skënderbej 650 m"\n  - "National Museum of History Albania 650 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Elena"\n    country: "United Kingdom"\n    text: "“Great location, very good-sized apartment, well composed, great helpful host. Good price. We had a lovely staying. Surely recommend to friends and family ❤️”"\n  - name: "Heinrich"\n    country: "Georgia"\n    text: "“Very neat apartment in the heart of the city, really close to most attractions. The owner was super friendly and the apartment was very cosy and clean. Will definitely stay here again”"\n  - name: "Jakub"\n    country: "Poland"\n    text: "“Really huge and well equipped apartment with great location. Two bedrooms, two bathrooms, two balconies.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-at-the-city-center-new-bazzar.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Kalpazo Home can expect spacious living quarters, featuring two well-appointed bedrooms, a kitchen equipped with an oven and fridge, and two bathrooms complete with walk-in showers, bathrobes, and a washing machine. The provision of towels and bed linen adds a touch of home, while the private entrance to the accommodation ensures an undisturbed experience.
+---
+title: "Kalpazo Home New Bazzar Tirana"
+description: "Kalpazo Home New Bazzar Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941202.jpg?k=fdd986f57a445ec017351b1d28ae72f6da7ae3b11450ced91ca3ea7e6b0f7994&o=&hp=1"
+language: en
+slug: kalpazo-home-new-bazzar-tirana
+address: "Rruga Qemal Stafa, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33109298
+  lng: 19.82481561
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 43
+ratings:
+  overall: 9
+  location: 9.6
+  cleanliness: 8.6
+  facilities: 8.4
+  value: 9.2
+  comfort: 8.5
+  staff: 9.6
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941202.jpg?k=fdd986f57a445ec017351b1d28ae72f6da7ae3b11450ced91ca3ea7e6b0f7994&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941173.jpg?k=bf526fa8fea2e90e9538c76e51d89496e18af4367bca4d90d4376b233c10bd44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405958318.jpg?k=dbc5f0db98bb3105f5becdfd19812729f09d0d3e1c3d8ec69fbabb6e765cc79b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941201.jpg?k=1c1f9afc96e6414f9a6975d32d5070efb349ce985461b53f60e12a5573be5e6b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941110.jpg?k=b7414a4b736cba4fa3bb0fe8d43c9da5c7c660df3375a7bcd09e5d743d56635a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409941221.jpg?k=589cffce5438cc9420ac3655d0ce17d219cad0cacdcf1f17e9c5741935730fd4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405958154.jpg?k=6f9f1ab3ec48ca71b81b1c5322fba9b3f87e026134f994b0b15f67c3d1a86cbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409940559.jpg?k=0bd20f3cd8a2c2140ca2f2e2802d98026a463eecafca0f9ef2f10b48418d2a65&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405958280.jpg?k=94762ceadfa50bfef4fe16df602efdc401485ec6977a85c4d9af79abde0fce74&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Basic free WiFi (14 Mbps)"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 850 m"
+  - "Rinia Park 900 m"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.1 km"
+  - "Bunk'Art 1 Museum 3.7 km"
+nearbyRestaurants:
+  - "Bar Restorant 10 m"
+  - "Ylli Hidri Soni Fish 30 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek ish ATSh 350 m"
+  - "Sheshi Sulejman Pasha 400 m"
+  - "Tanners' Bridge 500 m"
+  - "Amazing Nature 550 m"
+  - "Clock Tower Tirana 550 m"
+  - "Skanderbeg Square 600 m"
+  - "Parku Europa 600 m"
+  - "National Gallery of Arts Tirana 650 m"
+  - "Sheshi Skënderbej 650 m"
+  - "National Museum of History Albania 650 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Elena"
+    country: "United Kingdom"
+    text: "“Great location, very good-sized apartment, well composed, great helpful host. Good price. We had a lovely staying. Surely recommend to friends and family ❤️”"
+  - name: "Heinrich"
+    country: "Georgia"
+    text: "“Very neat apartment in the heart of the city, really close to most attractions. The owner was super friendly and the apartment was very cosy and clean. Will definitely stay here again”"
+  - name: "Jakub"
+    country: "Poland"
+    text: "“Really huge and well equipped apartment with great location. Two bedrooms, two bathrooms, two balconies.”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-at-the-city-center-new-bazzar.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at Kalpazo Home can expect spacious living quarters, featuring two well-appointed bedrooms, a kitchen equipped with an oven and fridge, and two bathrooms complete with walk-in showers, bathrobes, and a washing machine. The provision of towels and bed linen adds a touch of home, while the private entrance to the accommodation ensures an undisturbed experience.
 
 For those looking to explore the local culinary scene, a variety of dining options await just steps from the apartment. Moreover, the property's strategic location places guests within easy reach of Tirana's must-see attractions, including the historic Skanderbeg Square, the intriguing Former Residence of Enver Hoxha, and the picturesque Tanners' Bridge.
 

@@ -1,4 +1,79 @@
----\ntitle: "Sofra E Shpatit"\ndescription: "Sofra E Shpatit stands out as a charming retreat in Elbasan, offering a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137956403.jpg?k=80a9d7847c8d1010069255d10a348785cb6323c984007d2af7c8d0cb60fb4c79&o=&hp=1"\nlanguage: en\nslug: sofra-e-shpatit\naddress: "Gjinar,Elbasan, 3000 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.03901201\n  lng: 20.19198816\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 73\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 9.6\n  facilities: 9\n  value: 9.6\n  comfort: 9.4\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137956403.jpg?k=80a9d7847c8d1010069255d10a348785cb6323c984007d2af7c8d0cb60fb4c79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352572810.jpg?k=f2815999a3a3c2d44a6699fc4087bf9927b24a7c1430cef8d79a0d7685f40e46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492226500.jpg?k=811bafa3fd5d6f71542d49d955b2225a9342deb5f64369f95abab3622bc792e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351573750.jpg?k=18646be7b09d36d7f5775f53984336ec7dfeb7b9a6eff3707b3129b0f48a4962&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492226524.jpg?k=4b5870fb0e507ec721c31a6c5e4643617e0b03e199f327ca212ac4c3d02034e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209035464.jpg?k=1471981b3b9f4ae5d96ebfa5d66ce9c05c12fa478874f56c05ef159a17518eff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474950341.jpg?k=133f486c6140eb31c63d33cabb6c5b34d735a52514f0530902b3b22ba7802046&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351573472.jpg?k=516465ad8769cf312adabfccc84ef694cf7a5d125d76864f61fe2789735b7a85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471099155.jpg?k=263ccde3b094b6b3ee7108755aee77498971351a24b25966e04385251f1a07fc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Bar Restorant Endrra 2.3 km"\n  - "Alan 9 km"\nwhatsNearby:\n  - "Parku I Bleteve Kokreve 19 km"\nairports:\n  - "Ohrid Airport 48 km"\n  - "Tirana International Airport Mother Teresa 56 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Grazyna"\n    country: "Poland"\n    text: "“wonderful owner, very tasty food and very helpful staff. They deserve for 10 :)”"\n  - name: "Lidela"\n    country: "Belgium"\n    text: "“The host is the kindest and sweetest woman. Her husband prepared us the most delicious meal ever. Very traditional, fresh and all local from the village! We really enjoyed our stay! If we have some spare time in Tirana next week, we would...”"\n  - name: "Stacy"\n    country: "United Kingdom"\n    text: "“Our hosts were most accommodating, the location was stunning, food was fabulous, and Gigi was a delight (the kitten)”"\nbookingURL: "https://www.booking.com/hotel/al/sofra-e-shpatit-elbasan1234567891011121314151617181920212223.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe establishment prides itself on its comprehensive services, featuring a delightful restaurant, round-the-clock front desk support, and a vibrant kids' club, all complemented by complimentary WiFi access. Guests are treated to breathtaking mountain views, adding a serene backdrop to an already tranquil setting. For the little ones, a children's playground is available, ensuring entertainment for all family members.
+---
+title: "Sofra E Shpatit"
+description: "Sofra E Shpatit stands out as a charming retreat in Elbasan, offering a unique blend of comfort and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137956403.jpg?k=80a9d7847c8d1010069255d10a348785cb6323c984007d2af7c8d0cb60fb4c79&o=&hp=1"
+language: en
+slug: sofra-e-shpatit
+address: "Gjinar,Elbasan, 3000 Elbasan, Albania"
+city: "Elbasan"
+location: "Elbasan"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.03901201
+  lng: 20.19198816
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 73
+ratings:
+  overall: 9.5
+  location: 9.3
+  cleanliness: 9.6
+  facilities: 9
+  value: 9.6
+  comfort: 9.4
+  staff: 9.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137956403.jpg?k=80a9d7847c8d1010069255d10a348785cb6323c984007d2af7c8d0cb60fb4c79&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352572810.jpg?k=f2815999a3a3c2d44a6699fc4087bf9927b24a7c1430cef8d79a0d7685f40e46&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492226500.jpg?k=811bafa3fd5d6f71542d49d955b2225a9342deb5f64369f95abab3622bc792e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351573750.jpg?k=18646be7b09d36d7f5775f53984336ec7dfeb7b9a6eff3707b3129b0f48a4962&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492226524.jpg?k=4b5870fb0e507ec721c31a6c5e4643617e0b03e199f327ca212ac4c3d02034e6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209035464.jpg?k=1471981b3b9f4ae5d96ebfa5d66ce9c05c12fa478874f56c05ef159a17518eff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474950341.jpg?k=133f486c6140eb31c63d33cabb6c5b34d735a52514f0530902b3b22ba7802046&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351573472.jpg?k=516465ad8769cf312adabfccc84ef694cf7a5d125d76864f61fe2789735b7a85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471099155.jpg?k=263ccde3b094b6b3ee7108755aee77498971351a24b25966e04385251f1a07fc&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Restaurant"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Bar Restorant Endrra 2.3 km"
+  - "Alan 9 km"
+whatsNearby:
+  - "Parku I Bleteve Kokreve 19 km"
+airports:
+  - "Ohrid Airport 48 km"
+  - "Tirana International Airport Mother Teresa 56 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Grazyna"
+    country: "Poland"
+    text: "“wonderful owner, very tasty food and very helpful staff. They deserve for 10 :)”"
+  - name: "Lidela"
+    country: "Belgium"
+    text: "“The host is the kindest and sweetest woman. Her husband prepared us the most delicious meal ever. Very traditional, fresh and all local from the village! We really enjoyed our stay! If we have some spare time in Tirana next week, we would...”"
+  - name: "Stacy"
+    country: "United Kingdom"
+    text: "“Our hosts were most accommodating, the location was stunning, food was fabulous, and Gigi was a delight (the kitten)”"
+bookingURL: "https://www.booking.com/hotel/al/sofra-e-shpatit-elbasan1234567891011121314151617181920212223.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The establishment prides itself on its comprehensive services, featuring a delightful restaurant, round-the-clock front desk support, and a vibrant kids' club, all complemented by complimentary WiFi access. Guests are treated to breathtaking mountain views, adding a serene backdrop to an already tranquil setting. For the little ones, a children's playground is available, ensuring entertainment for all family members.
 
 Accommodations at Sofra E Shpatit are thoughtfully designed with guest comfort in mind. Each room comes with a balcony, offering a private outdoor space to enjoy the surrounding scenery. The en-suite bathrooms are well-appointed with a bath, hairdryer, and complimentary toiletries, while air conditioning and ample wardrobe space ensure a comfortable and convenient stay.
 

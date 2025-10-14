@@ -1,4 +1,71 @@
----\ntitle: "Comfort daily rent apartment at Top Location Blloku"\ndescription: "Comfort Daily Rent Apartment at Top Location Blloku emerges as a prime choice for travelers seeking a blend of convenience and modernity in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528444986.jpg?k=c2f6d8a726792c1fc7d833e75458c83353f39f912e1553cee8b5502b789c643d&o=&hp=1"\nlanguage: en\nslug: comfort-daily-rent-apartment-at-top-location-blloku\naddress: "Bulevardi Bajram Curri Apartment Nr.10 ,4th floor, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3222492\n  lng: 19.81400498\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.5\n  location: 8.5\n  cleanliness: 7.5\n  facilities: 6.3\n  value: 8.1\n  comfort: 8.8\n  staff: 5.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528444986.jpg?k=c2f6d8a726792c1fc7d833e75458c83353f39f912e1553cee8b5502b789c643d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Fast free WiFi (51 Mbps)"\n  - "Family rooms"\nnearbyAttractions:\n  - "Skanderbeg Square 750 m"\n  - "Clock Tower Tirana 800 m"\n  - "National Museum of History Albania 850 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Grand Park of Tirana 1.5 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Bar Koha 30 m"\n  - "Vinoteca Miguel 50 m"\nwhatsNearby:\n  - "Former Residence of Enver Hoxha 300 m"\n  - "Rinia Park 450 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 500 m"\n  - "House of Leaves 550 m"\n  - "Shesh Rekreativ 550 m"\n  - "Parku Rinia 550 m"\n  - "Sheshi Rekreativ Piramida 650 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 700 m"\n  - "National Gallery of Arts Tirana 700 m"\n  - "Parku Europa 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/comfort-daily-rent-apartment-in-top-location-blloku.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to thoughtful design and comfort, boasting two generously sized bedrooms and two well-appointed bathrooms. Guests will appreciate the inclusion of bed linen and towels, ensuring a hassle-free stay. The living space is enhanced by a flat-screen TV equipped with streaming services, catering to the entertainment needs of contemporary travelers. A dining area and a fully-equipped kitchen provide the conveniences of home, while the balcony offers captivating city views, inviting guests to unwind after a day of exploration.
+---
+title: "Comfort daily rent apartment at Top Location Blloku"
+description: "Comfort Daily Rent Apartment at Top Location Blloku emerges as a prime choice for travelers seeking a blend of convenience and modernity in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528444986.jpg?k=c2f6d8a726792c1fc7d833e75458c83353f39f912e1553cee8b5502b789c643d&o=&hp=1"
+language: en
+slug: comfort-daily-rent-apartment-at-top-location-blloku
+address: "Bulevardi Bajram Curri Apartment Nr.10 ,4th floor, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3222492
+  lng: 19.81400498
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.5
+ratingWords: "Good"
+numberOfReviews: 4
+ratings:
+  overall: 7.5
+  location: 8.5
+  cleanliness: 7.5
+  facilities: 6.3
+  value: 8.1
+  comfort: 8.8
+  staff: 5.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528444986.jpg?k=c2f6d8a726792c1fc7d833e75458c83353f39f912e1553cee8b5502b789c643d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking"
+  - "Fast free WiFi (51 Mbps)"
+  - "Family rooms"
+nearbyAttractions:
+  - "Skanderbeg Square 750 m"
+  - "Clock Tower Tirana 800 m"
+  - "National Museum of History Albania 850 m"
+  - "Tanners' Bridge 1.1 km"
+  - "Grand Park of Tirana 1.5 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Bar Koha 30 m"
+  - "Vinoteca Miguel 50 m"
+whatsNearby:
+  - "Former Residence of Enver Hoxha 300 m"
+  - "Rinia Park 450 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 500 m"
+  - "House of Leaves 550 m"
+  - "Shesh Rekreativ 550 m"
+  - "Parku Rinia 550 m"
+  - "Sheshi Rekreativ Piramida 650 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 700 m"
+  - "National Gallery of Arts Tirana 700 m"
+  - "Parku Europa 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/comfort-daily-rent-apartment-in-top-location-blloku.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to thoughtful design and comfort, boasting two generously sized bedrooms and two well-appointed bathrooms. Guests will appreciate the inclusion of bed linen and towels, ensuring a hassle-free stay. The living space is enhanced by a flat-screen TV equipped with streaming services, catering to the entertainment needs of contemporary travelers. A dining area and a fully-equipped kitchen provide the conveniences of home, while the balcony offers captivating city views, inviting guests to unwind after a day of exploration.
 
 Air conditioning ensures a comfortable environment regardless of the weather, and the unit's walk-in shower and dressing room add a touch of luxury to the stay. The added benefit of a private entrance underscores the property's commitment to guest privacy.
 

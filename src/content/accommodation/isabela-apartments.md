@@ -1,4 +1,91 @@
----\ntitle: "Isabela Apartments"\ndescription: "Isabela Apartments emerges as a serene oasis in the heart of Sarandë, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\nlanguage: en\nslug: isabela-apartments\naddress: "Rruga Janaq Kumi Building 40, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8756382\n  lng: 19.99398976\nprice: "US$20"\npriceFrom: 20\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 165\nratings:\n  overall: 9.3\n  location: 8.6\n  cleanliness: 9.6\n  facilities: 9.1\n  value: 9.5\n  comfort: 9.3\n  staff: 9.7\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\n  - "https://cf.bstatic.com/static/img/flags/12/si/e5950ab4590b7d05b0ce1b1bf7603d1235436005.png"\n  - "https://lh4.googleusercontent.com/-wRM2RMc4oMI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcjbO4UiK1rC66UJJ2Ylq8pUT1TbQ/photo.jpg64"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14GgP5CHBxwDJgF1SkFNIvBaaPhIpYY1U2PctRpOywA=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://lh3.googleusercontent.com/a/ACg8ocL9BO1wAIOpk02_LbMFbSNxnJKKBc-u-EKSP7chBg88JM4=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://graph.facebook.com/v2.9/1799400630187138/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://lh3.googleusercontent.com/a/AEdFTp5vjKR2Ys5tKVxbvTSga5LzTHugMhgk5diLV2Fk=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://lh3.googleusercontent.com/a/ALm5wu1jCjqzDxddqbPbUZ4pYbWL7wzfqfT2p5isDadi=s96-c64"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (55 Mbps)"\n  - "Terrace"\nroomTypes:\n  - "Studio"\n  - "Apartment with Balcony"\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Taverna Peshkatari 2 200 m"\n  - "Kozi Bistro 250 m"\nnearbyBeaches:\n  - "Sarande Main Beach 450 m"\n  - "Saranda Bay Beach 1.1 km"\n  - "Saranda City Beach 1.3 km"\n  - "La Petite Beach 1.9 km"\n  - "Maestral Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.2 km"\n  - "Butrint National Park 3.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Boris"\n    country: "Slovenia"\n    text: "“Nice hosts, very helpful and welcoming. Amazing views. Good location. Private parking. Amazing price.”"\n  - name: "Stephen"\n    country: "United Kingdom"\n    text: "“Lovely view good location for the port. Close to restaurants and supermarket”"\n  - name: "Anna"\n    country: "Italy"\n    text: "“Very kind staff, apartment clean and confortable, place quite close to the center!”"\nbookingURL: "https://www.booking.com/hotel/al/isabellas-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nGuests at Isabela Apartments enjoy the luxury of modern amenities, including complimentary WiFi, ensuring a stay that is both relaxing and connected. The facility prides itself on catering to the needs of its visitors with services such as luggage storage, bicycle parking, and currency exchange, enhancing the overall guest experience.
+---
+title: "Isabela Apartments"
+description: "Isabela Apartments emerges as a serene oasis in the heart of Sarandë, offering guests a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+language: en
+slug: isabela-apartments
+address: "Rruga Janaq Kumi Building 40, 9700 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.8756382
+  lng: 19.99398976
+price: "US$20"
+priceFrom: 20
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 165
+ratings:
+  overall: 9.3
+  location: 8.6
+  cleanliness: 9.6
+  facilities: 9.1
+  value: 9.5
+  comfort: 9.3
+  staff: 9.7
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+  - "https://cf.bstatic.com/static/img/flags/12/si/e5950ab4590b7d05b0ce1b1bf7603d1235436005.png"
+  - "https://lh4.googleusercontent.com/-wRM2RMc4oMI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcjbO4UiK1rC66UJJ2Ylq8pUT1TbQ/photo.jpg64"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://lh3.googleusercontent.com/a-/AOh14GgP5CHBxwDJgF1SkFNIvBaaPhIpYY1U2PctRpOywA=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://lh3.googleusercontent.com/a/ACg8ocL9BO1wAIOpk02_LbMFbSNxnJKKBc-u-EKSP7chBg88JM4=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://graph.facebook.com/v2.9/1799400630187138/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://lh3.googleusercontent.com/a/AEdFTp5vjKR2Ys5tKVxbvTSga5LzTHugMhgk5diLV2Fk=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://lh3.googleusercontent.com/a/ALm5wu1jCjqzDxddqbPbUZ4pYbWL7wzfqfT2p5isDadi=s96-c64"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (55 Mbps)"
+  - "Terrace"
+roomTypes:
+  - "Studio"
+  - "Apartment with Balcony"
+  - "Apartment with Balcony"
+nearbyRestaurants:
+  - "Taverna Peshkatari 2 200 m"
+  - "Kozi Bistro 250 m"
+nearbyBeaches:
+  - "Sarande Main Beach 450 m"
+  - "Saranda Bay Beach 1.1 km"
+  - "Saranda City Beach 1.3 km"
+  - "La Petite Beach 1.9 km"
+  - "Maestral Beach 2.1 km"
+whatsNearby:
+  - "Parc National de Butrint 3.2 km"
+  - "Butrint National Park 3.9 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Boris"
+    country: "Slovenia"
+    text: "“Nice hosts, very helpful and welcoming. Amazing views. Good location. Private parking. Amazing price.”"
+  - name: "Stephen"
+    country: "United Kingdom"
+    text: "“Lovely view good location for the port. Close to restaurants and supermarket”"
+  - name: "Anna"
+    country: "Italy"
+    text: "“Very kind staff, apartment clean and confortable, place quite close to the center!”"
+bookingURL: "https://www.booking.com/hotel/al/isabellas-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Guests at Isabela Apartments enjoy the luxury of modern amenities, including complimentary WiFi, ensuring a stay that is both relaxing and connected. The facility prides itself on catering to the needs of its visitors with services such as luggage storage, bicycle parking, and currency exchange, enhancing the overall guest experience.
 
 Accommodations at Isabela Apartments are designed with the discerning traveler in mind. Select units boast a satellite flat-screen TV, a fully equipped kitchen complete with an oven, and a private bathroom featuring a walk-in shower and plush bathrobes. For those with sensitivity concerns, allergy-free options are available, ensuring a comfortable stay for all guests.
 

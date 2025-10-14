@@ -1,4 +1,75 @@
----\ntitle: "Green-Garden Apartmets"\ndescription: "Green-Garden Apartments emerges as a serene haven in Sarandë, boasting both garden and city views that promise a tranquil retreat from the bustling city life."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875922.jpg?k=e04061133feb41acc4634274699e52b0f3fd29bb6c173df3705fd9f7e1edbfc6&o=&hp=1"\nlanguage: en\nslug: green-garden-apartmets\naddress: "Rruga Adem Sheme, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8805062\n  lng: 19.99959915\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9\n  location: 7.5\n  cleanliness: 9\n  facilities: 8.5\n  value: 10\n  comfort: 9\n  staff: 9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875922.jpg?k=e04061133feb41acc4634274699e52b0f3fd29bb6c173df3705fd9f7e1edbfc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875967.jpg?k=5bd5acc83f85530365795a684747a5646c690383446533848b0c06dc2d754758&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875954.jpg?k=44838e5e0a0a43d0494511a5d023e7d6f389527ca049a4a9f8357cf8c0612851&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460472088.jpg?k=291b9573f926850dcef8dc3099d96af332096674cff8451fbe7e6716d3031cf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447686383.jpg?k=45f4ca9a4938a1da90b8187b62c11b7f75b1e4d7b7ea2c1c73f56aacbea20c36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875930.jpg?k=0b5f2c1bf0d7031cf7365a367a4606c8e403f117f22695aa58e484aeb12d2c6e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Apartment with Terrace"\nnearbyRestaurants:\n  - "Coffee House 350 m"\n  - "Ali Pasha 500 m"\nnearbyBeaches:\n  - "Sarande Main Beach 1.1 km"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.6 km"\n  - "La Petite Beach 1.8 km"\n  - "Maestral Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.2 km"\n  - "Butrint National Park 4 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 13 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Valeriobologna"\n    country: "Italy"\n    text: "“Fantastic apartment, large tidy, functional, clean, with parking in front of the house, they had a lot of patience because we arrived late and were super helpful and very kind. The owner Erald, wonderful, also speaks Italian very well and...”"\nbookingURL: "https://www.booking.com/hotel/al/green-garden-apartmets-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartments are designed with privacy in mind, featuring a private entrance that ensures a secluded and intimate experience for all guests. Inside, each unit is a testament to comfort and convenience, equipped with air conditioning, complimentary private parking, and free WiFi to keep guests connected and comfortable throughout their stay.
+---
+title: "Green-Garden Apartmets"
+description: "Green-Garden Apartments emerges as a serene haven in Sarandë, boasting both garden and city views that promise a tranquil retreat from the bustling city life."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875922.jpg?k=e04061133feb41acc4634274699e52b0f3fd29bb6c173df3705fd9f7e1edbfc6&o=&hp=1"
+language: en
+slug: green-garden-apartmets
+address: "Rruga Adem Sheme, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.8805062
+  lng: 19.99959915
+price: "US$22"
+priceFrom: 22
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 6
+ratings:
+  overall: 9
+  location: 7.5
+  cleanliness: 9
+  facilities: 8.5
+  value: 10
+  comfort: 9
+  staff: 9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875922.jpg?k=e04061133feb41acc4634274699e52b0f3fd29bb6c173df3705fd9f7e1edbfc6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875967.jpg?k=5bd5acc83f85530365795a684747a5646c690383446533848b0c06dc2d754758&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875954.jpg?k=44838e5e0a0a43d0494511a5d023e7d6f389527ca049a4a9f8357cf8c0612851&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460472088.jpg?k=291b9573f926850dcef8dc3099d96af332096674cff8451fbe7e6716d3031cf7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447686383.jpg?k=45f4ca9a4938a1da90b8187b62c11b7f75b1e4d7b7ea2c1c73f56aacbea20c36&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443875930.jpg?k=0b5f2c1bf0d7031cf7365a367a4606c8e403f117f22695aa58e484aeb12d2c6e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Free parking"
+  - "Family rooms"
+  - "Terrace"
+roomTypes:
+  - "Apartment with Terrace"
+nearbyRestaurants:
+  - "Coffee House 350 m"
+  - "Ali Pasha 500 m"
+nearbyBeaches:
+  - "Sarande Main Beach 1.1 km"
+  - "Saranda City Beach 1.1 km"
+  - "Saranda Bay Beach 1.6 km"
+  - "La Petite Beach 1.8 km"
+  - "Maestral Beach 2 km"
+whatsNearby:
+  - "Parc National de Butrint 3.2 km"
+  - "Butrint National Park 4 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 13 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Valeriobologna"
+    country: "Italy"
+    text: "“Fantastic apartment, large tidy, functional, clean, with parking in front of the house, they had a lot of patience because we arrived late and were super helpful and very kind. The owner Erald, wonderful, also speaks Italian very well and...”"
+bookingURL: "https://www.booking.com/hotel/al/green-garden-apartmets-sarande.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartments are designed with privacy in mind, featuring a private entrance that ensures a secluded and intimate experience for all guests. Inside, each unit is a testament to comfort and convenience, equipped with air conditioning, complimentary private parking, and free WiFi to keep guests connected and comfortable throughout their stay.
 
 Attention to detail is evident in the layout of each apartment. Guests can enjoy the breathtaking sea views from the terrace or savor their meals in the outdoor dining area on the balcony, surrounded by lush garden views. The interiors are thoughtfully appointed with a flat-screen TV, a cozy dining area, a well-equipped kitchen, and a private bathroom stocked with a hair dryer and free toiletries. The inclusion of a wardrobe in all units adds an extra layer of convenience for guests.
 

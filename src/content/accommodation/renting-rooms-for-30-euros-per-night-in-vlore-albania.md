@@ -1,4 +1,58 @@
----\ntitle: "Renting rooms for 30 euros per night in Vlore, Albania"\ndescription: "Discover the charm of Vlorë, Albania, with a stay at this inviting villa, perfectly positioned just a short stroll from the pristine Liro Beach and the serene Beach at Government Villas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387547559.jpg?k=56ae1e89cb502088abe138ffb0a6b656eda8fcb40f86abd64a2fb8a72e1c1048&o=&hp=1"\nlanguage: en\nslug: renting-rooms-for-30-euros-per-night-in-vlore-albania\naddress: "Uje i ftohte, vlore, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.41432787\n  lng: 19.4868192\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387547559.jpg?k=56ae1e89cb502088abe138ffb0a6b656eda8fcb40f86abd64a2fb8a72e1c1048&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "Three-Bedroom Villa"\nnearbyRestaurants:\n  - "Daily Food 200 m"\n  - "Taverna Djepi 250 m"\nnearbyBeaches:\n  - "Beach at Government Villas 400 m"\n  - "Liro Beach 500 m"\n  - "Coco Bongo Beach 1.3 km"\n  - "Sunny Beach 1.5 km"\n  - "Ri Beach 1.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.5 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-near-the-sea-in-vlore-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa itself is a haven of comfort, featuring three generously sized, air-conditioned bedrooms that open up to a terrace boasting picturesque garden views. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that guests have everything they need for a relaxing stay.
+---
+title: "Renting rooms for 30 euros per night in Vlore, Albania"
+description: "Discover the charm of Vlorë, Albania, with a stay at this inviting villa, perfectly positioned just a short stroll from the pristine Liro Beach and the serene Beach at Government Villas."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387547559.jpg?k=56ae1e89cb502088abe138ffb0a6b656eda8fcb40f86abd64a2fb8a72e1c1048&o=&hp=1"
+language: en
+slug: renting-rooms-for-30-euros-per-night-in-vlore-albania
+address: "Uje i ftohte, vlore, Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "villa"
+coordinates:
+  lat: 40.41432787
+  lng: 19.4868192
+price: "US$31"
+priceFrom: 31
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387547559.jpg?k=56ae1e89cb502088abe138ffb0a6b656eda8fcb40f86abd64a2fb8a72e1c1048&o=&hp=1"
+amenities:
+  - "Free parking"
+roomTypes:
+  - "Three-Bedroom Villa"
+nearbyRestaurants:
+  - "Daily Food 200 m"
+  - "Taverna Djepi 250 m"
+nearbyBeaches:
+  - "Beach at Government Villas 400 m"
+  - "Liro Beach 500 m"
+  - "Coco Bongo Beach 1.3 km"
+  - "Sunny Beach 1.5 km"
+  - "Ri Beach 1.8 km"
+whatsNearby:
+  - "Scooby Doo Vlore 2.5 km"
+  - "Kuzum Baba 6 km"
+  - "Independence Square 6 km"
+airports:
+  - "Corfu International Airport 96 km"
+bookingURL: "https://www.booking.com/hotel/al/villa-near-the-sea-in-vlore-albania.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The villa itself is a haven of comfort, featuring three generously sized, air-conditioned bedrooms that open up to a terrace boasting picturesque garden views. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that guests have everything they need for a relaxing stay.
 
 Situated a mere 2.1 km from both the lively Coco Bongo Beach and the tranquil Sunny Beach, visitors have the best of Vlorë's coastal life at their fingertips. For those looking to explore the rich history and culture of the area, the iconic Kuzum Baba and the historic Independence Square are just over 7 km away, making for easy day trips.
 

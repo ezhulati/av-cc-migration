@@ -1,4 +1,86 @@
----\ntitle: "Tranquil Urban Space"\ndescription: "Tranquil Urban Space emerges as a serene retreat in the heart of Tirana, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199709.jpg?k=f381c26ebb15749e0cb1d95d4cb43903936ceddf1b73cd703d084852866d7c42&o=&hp=1"\nlanguage: en\nslug: tranquil-urban-space\naddress: "Rruga Nikolla Tupe 2/1, 1019 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31942061\n  lng: 19.81453414\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 9\nratings:\n  overall: 9.2\n  location: 9.4\n  cleanliness: 8.9\n  facilities: 9.2\n  value: 8.9\n  comfort: 9.4\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199709.jpg?k=f381c26ebb15749e0cb1d95d4cb43903936ceddf1b73cd703d084852866d7c42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528098630.jpg?k=c1de44d7e4506ab76b907b676c6e9102200c131d0a16f7d584f437d0dc73e8f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199875.jpg?k=07150c02103ddbc68f59e25c73a9d1715c5b0eeabc04b52b233aa7db93c8943b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199797.jpg?k=0a75365e573f5fe289b733c97ae69ac05fc5a97e7388036b2d6b7a718f9c5cdd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199845.jpg?k=7c793a57acc0a5d2d0ec81d34855787511517e2f047bafaaa844cd1ef9e45926&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199754.jpg?k=3be89702e348771acdc4964383072b426a23c5e30ff56481984588218f545c20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199693.jpg?k=10ace9560c669a9f6a0b259ced5253c2aca7f739a52dbbf57d3fc8bd5901dcda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199710.jpg?k=f0f7ac8cb33e957a1611bfd655e76e96c7d132c8f9064cd7f6155b258a032afa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199837.jpg?k=550687a5f2ce735827fd4692fdcbc45ea2ba9d9ffd35a512eaa70f97599c3a41&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 900 m"\n  - "Skanderbeg Square 1 km"\n  - "Clock Tower Tirana 1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Grand Park of Tirana 1.2 km"\n  - "Tanners' Bridge 1.2 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Fit Food 9 m"\n  - "LSI Cafe 30 m"\nwhatsNearby:\n  - "Former Residence of Enver Hoxha 300 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 350 m"\n  - "Shesh Rekreativ 450 m"\n  - "Parku I Madh I Tiranës (Grand Park) 600 m"\n  - "Rinia Park 650 m"\n  - "Sheshi Rekreativ Komuna e Parisit 700 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 700 m"\n  - "Sheshi Rekreativ Piramida 750 m"\n  - "Parku Rinia 750 m"\n  - "House of Leaves 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Isabel"\n    country: "Australia"\n    text: "“Perfect location, wonderful and accommodating host!”"\n  - name: "Jennifer"\n    country: "Sweden"\n    text: "“The host is amazing and very friendly and helpful!”"\nbookingURL: "https://www.booking.com/hotel/al/tranquil-urban-space.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis elegantly appointed apartment is more than just a place to stay; it's a home away from home. Featuring a spacious bedroom, a modern bathroom equipped with a shower, and a living area complete with a flat-screen TV, it ensures a comfortable and relaxing stay. The fully equipped kitchen, boasting a microwave, fridge, and even a washing machine, caters to the needs of those who prefer to prepare their own meals, adding an extra layer of convenience to their stay.
+---
+title: "Tranquil Urban Space"
+description: "Tranquil Urban Space emerges as a serene retreat in the heart of Tirana, offering guests a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199709.jpg?k=f381c26ebb15749e0cb1d95d4cb43903936ceddf1b73cd703d084852866d7c42&o=&hp=1"
+language: en
+slug: tranquil-urban-space
+address: "Rruga Nikolla Tupe 2/1, 1019 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31942061
+  lng: 19.81453414
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 9
+ratings:
+  overall: 9.2
+  location: 9.4
+  cleanliness: 8.9
+  facilities: 9.2
+  value: 8.9
+  comfort: 9.4
+  staff: 9.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199709.jpg?k=f381c26ebb15749e0cb1d95d4cb43903936ceddf1b73cd703d084852866d7c42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528098630.jpg?k=c1de44d7e4506ab76b907b676c6e9102200c131d0a16f7d584f437d0dc73e8f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199875.jpg?k=07150c02103ddbc68f59e25c73a9d1715c5b0eeabc04b52b233aa7db93c8943b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199797.jpg?k=0a75365e573f5fe289b733c97ae69ac05fc5a97e7388036b2d6b7a718f9c5cdd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199845.jpg?k=7c793a57acc0a5d2d0ec81d34855787511517e2f047bafaaa844cd1ef9e45926&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199754.jpg?k=3be89702e348771acdc4964383072b426a23c5e30ff56481984588218f545c20&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199693.jpg?k=10ace9560c669a9f6a0b259ced5253c2aca7f739a52dbbf57d3fc8bd5901dcda&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199710.jpg?k=f0f7ac8cb33e957a1611bfd655e76e96c7d132c8f9064cd7f6155b258a032afa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199837.jpg?k=550687a5f2ce735827fd4692fdcbc45ea2ba9d9ffd35a512eaa70f97599c3a41&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 900 m"
+  - "Skanderbeg Square 1 km"
+  - "Clock Tower Tirana 1 km"
+  - "National Museum of History Albania 1.1 km"
+  - "Grand Park of Tirana 1.2 km"
+  - "Tanners' Bridge 1.2 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Fit Food 9 m"
+  - "LSI Cafe 30 m"
+whatsNearby:
+  - "Former Residence of Enver Hoxha 300 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 350 m"
+  - "Shesh Rekreativ 450 m"
+  - "Parku I Madh I Tiranës (Grand Park) 600 m"
+  - "Rinia Park 650 m"
+  - "Sheshi Rekreativ Komuna e Parisit 700 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 700 m"
+  - "Sheshi Rekreativ Piramida 750 m"
+  - "Parku Rinia 750 m"
+  - "House of Leaves 800 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Isabel"
+    country: "Australia"
+    text: "“Perfect location, wonderful and accommodating host!”"
+  - name: "Jennifer"
+    country: "Sweden"
+    text: "“The host is amazing and very friendly and helpful!”"
+bookingURL: "https://www.booking.com/hotel/al/tranquil-urban-space.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This elegantly appointed apartment is more than just a place to stay; it's a home away from home. Featuring a spacious bedroom, a modern bathroom equipped with a shower, and a living area complete with a flat-screen TV, it ensures a comfortable and relaxing stay. The fully equipped kitchen, boasting a microwave, fridge, and even a washing machine, caters to the needs of those who prefer to prepare their own meals, adding an extra layer of convenience to their stay.
 
 For those interested in delving into the local culture and history, Tranquil Urban Space is ideally situated. A mere 600 meters from the Former Residence of Enver Hoxha, it invites guests to explore the city's past. Additionally, nearby attractions such as the Postbllok - Checkpoint Monument, Pyramid of Tirana, and Reja - The Cloud are easily accessible, making it an excellent base for sightseeing.
 

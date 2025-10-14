@@ -1,4 +1,78 @@
----\ntitle: "Mirela’s Apartment City Center"\ndescription: "Mirela's Apartment City Center emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\nlanguage: en\nslug: mirela-s-apartment-city-center\naddress: "Rruga Milan Shuflaj, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.331989\n  lng: 19.80992993\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 26\nratings:\n  overall: 8.9\n  location: 9\n  cleanliness: 8.9\n  facilities: 8.6\n  value: 8.8\n  comfort: 8.7\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/cn/ee8d000dd97014dce82d61f4972a09423da1485f.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\n  - "https://cf.bstatic.com/static/img/flags/12/be/0ba6c3d43988f099040bcddb874fbd5434389efa.png"\n  - "https://lh3.googleusercontent.com/a/AItbvmlHKSRUu76FUNxvdQmHbWvSH7_RITc5H_sd_4oH=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/ca/44157619caa82aee92015fb9acc117bc55e303d9.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475399579.jpg?k=97a2694fcbbb6572507f4f72f0c2e5a76600060295436ca5a422668e312803f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475399584.jpg?k=51b046a426e1bee53252813a76524a28a498243bf8ff5dd734113b030f59363d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/475399576.jpg?k=24c15bb1c88fb5c6464e7c41b05b84b68dcabf00fc644e30d36429d1e0cda831&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399586.jpg?k=ddabe70f458e4652c5147b71bd682507967513fc5572a489d362b725c22fcbba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399583.jpg?k=8c9083c0e2286fa24e9489bb6a2fad6ea74f26b58cace01875f3fb693062236c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399585.jpg?k=78ff7df9f7920b68e1940269bbf8248e920b1b58476a5113cbf5c2ab05fc65a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399580.jpg?k=07ca5562f5fcc8802f36201e9392140d2b6907d93f3e8b3037f00ff277bc5b6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399581.jpg?k=75a763c2415a13e6a0b6da8b229eb7923aea79608affb4306c20ed964505c841&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399582.jpg?k=91c919c976b0f6572bcea38f417ceb8bab2835c5bf8446fc72a85a90cbce15fb&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nreviews:\n  - name: "Jerry_geng"\n    country: "China"\n    text: "“Surprisingly spacious! Felt at home. You can't really expect any better value than this can it?”"\n  - name: "Ben"\n    country: "Belgium"\n    text: "“Exelent place. Definitly recomand it, Has everything you need.”"\n  - name: "Ashtin"\n    country: "Canada"\n    text: "“Great location, 10 minute walk from main areas of Tirana. AC is lovely. The apartment is cute and has everything you need. Lady at the store was kind and helpful with accommodations and parking.”"\nbookingURL: "https://www.booking.com/hotel/al/mirelas-apartment-city-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment is a stone's throw away from significant landmarks, including the National Museum of History Albania and the intriguing Former Residence of Enver Hoxha, making it an ideal base for explorers keen on delving into Albania's rich history and culture. Despite its central location, the property maintains a non-smoking policy, ensuring a clean and healthy environment for its guests.
+---
+title: "Mirela’s Apartment City Center"
+description: "Mirela's Apartment City Center emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+language: en
+slug: mirela-s-apartment-city-center
+address: "Rruga Milan Shuflaj, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.331989
+  lng: 19.80992993
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 26
+ratings:
+  overall: 8.9
+  location: 9
+  cleanliness: 8.9
+  facilities: 8.6
+  value: 8.8
+  comfort: 8.7
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+  - "https://cf.bstatic.com/static/img/flags/12/cn/ee8d000dd97014dce82d61f4972a09423da1485f.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+  - "https://cf.bstatic.com/static/img/flags/12/be/0ba6c3d43988f099040bcddb874fbd5434389efa.png"
+  - "https://lh3.googleusercontent.com/a/AItbvmlHKSRUu76FUNxvdQmHbWvSH7_RITc5H_sd_4oH=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/ca/44157619caa82aee92015fb9acc117bc55e303d9.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475399579.jpg?k=97a2694fcbbb6572507f4f72f0c2e5a76600060295436ca5a422668e312803f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/475399584.jpg?k=51b046a426e1bee53252813a76524a28a498243bf8ff5dd734113b030f59363d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/475399576.jpg?k=24c15bb1c88fb5c6464e7c41b05b84b68dcabf00fc644e30d36429d1e0cda831&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399586.jpg?k=ddabe70f458e4652c5147b71bd682507967513fc5572a489d362b725c22fcbba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399583.jpg?k=8c9083c0e2286fa24e9489bb6a2fad6ea74f26b58cace01875f3fb693062236c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399585.jpg?k=78ff7df9f7920b68e1940269bbf8248e920b1b58476a5113cbf5c2ab05fc65a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399580.jpg?k=07ca5562f5fcc8802f36201e9392140d2b6907d93f3e8b3037f00ff277bc5b6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399581.jpg?k=75a763c2415a13e6a0b6da8b229eb7923aea79608affb4306c20ed964505c841&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/475399582.jpg?k=91c919c976b0f6572bcea38f417ceb8bab2835c5bf8446fc72a85a90cbce15fb&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Rinia Park 1.1 km"
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Tanners' Bridge 1.5 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+reviews:
+  - name: "Jerry_geng"
+    country: "China"
+    text: "“Surprisingly spacious! Felt at home. You can't really expect any better value than this can it?”"
+  - name: "Ben"
+    country: "Belgium"
+    text: "“Exelent place. Definitly recomand it, Has everything you need.”"
+  - name: "Ashtin"
+    country: "Canada"
+    text: "“Great location, 10 minute walk from main areas of Tirana. AC is lovely. The apartment is cute and has everything you need. Lady at the store was kind and helpful with accommodations and parking.”"
+bookingURL: "https://www.booking.com/hotel/al/mirelas-apartment-city-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment is a stone's throw away from significant landmarks, including the National Museum of History Albania and the intriguing Former Residence of Enver Hoxha, making it an ideal base for explorers keen on delving into Albania's rich history and culture. Despite its central location, the property maintains a non-smoking policy, ensuring a clean and healthy environment for its guests.
 
 Accommodation at Mirela's Apartment City Center is designed with comfort and practicality in mind. The apartment features a well-equipped kitchen, complete with a fridge and kitchenware, allowing guests the freedom to prepare their meals. The living space is furnished with a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. The convenience of an in-apartment bathroom, equipped with a bidet, along with the provision of towels and bed linen, adds to the homely feel.
 

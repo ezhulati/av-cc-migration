@@ -1,4 +1,81 @@
----\ntitle: "Hotel Belle Vue"\ndescription: "Hotel Belle Vue emerges as a serene oasis for travelers seeking a tranquil retreat in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485523087.jpg?k=e5f150411c8429256761174ed142db19e3e13588d412da7b4de2a94c91f83617&o=&hp=1"\nlanguage: en\nslug: hotel-belle-vue\naddress: "SH81, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76439297\n  lng: 20.00303816\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 34\nratings:\n  overall: 9.2\n  location: 8.7\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 9\n  comfort: 9.2\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485523087.jpg?k=e5f150411c8429256761174ed142db19e3e13588d412da7b4de2a94c91f83617&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478797218.jpg?k=0789c9a5b9ed79d05879c25ae48f9cc6b3232beb336410967e79161cef1d07b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485530858.jpg?k=95dd875f77a63fe03dc0f5aae07dd95402e43f9d78c2275444084c3ef0cb9102&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478255628.jpg?k=9edd734b8ae11d954b157d608d5e8be7a5d3061a94eb21737fffb04f535147aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485534450.jpg?k=176255b44cd64ba80f649fce6fca27a0f7cd031afcc1a138ac8a9e7dde0ae027&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486767166.jpg?k=bea9261ec5e3724b7218238efe5fbbeac569bfc12b116076b03d3bfc674a1e0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485532747.jpg?k=4db08670b65b38453186edaaac20c54f417cfaf4f4c5c26355819c9f72cd1747&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485541454.jpg?k=85acbf3e49b6526ebda9cf301b5d32b3171df3198bc0e8d0a086f13b4edb19e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478797191.jpg?k=e7d3652152b36b6b935453c2205f60f88a62f70e98bf15f5d73f3d6eddf1f83c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Good free WiFi (30 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyBeaches:\n  - "Ksamil Beach 9 550 m"\n  - "Paradise Beach 600 m"\n  - "Lori Beach 750 m"\n  - "Puerto Rico Beach 800 m"\n  - "Bora Bora Beach 850 m"\nreviews:\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“The best hotel in Ksamil ! Awesome wiew! hosts very nice and helpful Breakfast are delicious”"\n  - name: "Jorge"\n    country: "Spain"\n    text: "“They are extremely friendly people, they were always willing to help and super polite.”"\n  - name: "Szabóová"\n    country: "Slovakia"\n    text: "“Majiteľka príjemná, zhovorčivá. Ubytovanie krásne nové, čisté prostredie.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-vila-niku.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property boasts an array of amenities designed to enhance the guest experience, including a lush garden, a spacious terrace for relaxation, and the convenience of on-site parking. Connectivity is seamless with complimentary WiFi available throughout, ensuring guests stay connected with the world while basking in the tranquility of their surroundings.
+---
+title: "Hotel Belle Vue"
+description: "Hotel Belle Vue emerges as a serene oasis for travelers seeking a tranquil retreat in the heart of Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485523087.jpg?k=e5f150411c8429256761174ed142db19e3e13588d412da7b4de2a94c91f83617&o=&hp=1"
+language: en
+slug: hotel-belle-vue
+address: "SH81, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.76439297
+  lng: 20.00303816
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 34
+ratings:
+  overall: 9.2
+  location: 8.7
+  cleanliness: 9.2
+  facilities: 8.7
+  value: 9
+  comfort: 9.2
+  staff: 9.5
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485523087.jpg?k=e5f150411c8429256761174ed142db19e3e13588d412da7b4de2a94c91f83617&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478797218.jpg?k=0789c9a5b9ed79d05879c25ae48f9cc6b3232beb336410967e79161cef1d07b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485530858.jpg?k=95dd875f77a63fe03dc0f5aae07dd95402e43f9d78c2275444084c3ef0cb9102&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478255628.jpg?k=9edd734b8ae11d954b157d608d5e8be7a5d3061a94eb21737fffb04f535147aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485534450.jpg?k=176255b44cd64ba80f649fce6fca27a0f7cd031afcc1a138ac8a9e7dde0ae027&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486767166.jpg?k=bea9261ec5e3724b7218238efe5fbbeac569bfc12b116076b03d3bfc674a1e0b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485532747.jpg?k=4db08670b65b38453186edaaac20c54f417cfaf4f4c5c26355819c9f72cd1747&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485541454.jpg?k=85acbf3e49b6526ebda9cf301b5d32b3171df3198bc0e8d0a086f13b4edb19e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478797191.jpg?k=e7d3652152b36b6b935453c2205f60f88a62f70e98bf15f5d73f3d6eddf1f83c&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking on site"
+  - "Good free WiFi (30 Mbps)"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 17 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 18 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 20 km"
+nearbyBeaches:
+  - "Ksamil Beach 9 550 m"
+  - "Paradise Beach 600 m"
+  - "Lori Beach 750 m"
+  - "Puerto Rico Beach 800 m"
+  - "Bora Bora Beach 850 m"
+reviews:
+  - name: "Agnieszka"
+    country: "Poland"
+    text: "“The best hotel in Ksamil ! Awesome wiew! hosts very nice and helpful Breakfast are delicious”"
+  - name: "Jorge"
+    country: "Spain"
+    text: "“They are extremely friendly people, they were always willing to help and super polite.”"
+  - name: "Szabóová"
+    country: "Slovakia"
+    text: "“Majiteľka príjemná, zhovorčivá. Ubytovanie krásne nové, čisté prostredie.”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-vila-niku.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The property boasts an array of amenities designed to enhance the guest experience, including a lush garden, a spacious terrace for relaxation, and the convenience of on-site parking. Connectivity is seamless with complimentary WiFi available throughout, ensuring guests stay connected with the world while basking in the tranquility of their surroundings.
 
 Attention to guest needs is evident with the provision of a 24-hour front desk, meticulous housekeeping services, and a currency exchange facility, catering to the diverse requirements of international travelers. The apartments themselves are a haven of comfort, featuring air conditioning, soundproofing for a restful night's sleep, and a private bathroom equipped with a walk-in shower. Each unit extends into a balcony that offers an outdoor dining area and captivating city views, perfect for enjoying meals al fresco.
 

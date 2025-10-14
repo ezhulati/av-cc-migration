@@ -9,15 +9,10 @@ tags: []
 featuredImage: "/images/posts/Marsh-Simon-Doty-Fans-Explorations-Albania-1.jpg"
 language: en
 slug: best-party-beach-albania
-
-"
 seo:
   robots: "index"
   metaTitle: "Albania Beach Party Destinations %currentyear%"
-  metaDescription: "Discover Albania's stunning beaches, vibrant nightlife, and top music festivals in %currentyear%. Find the best party spots for an unforgettable summer.
-
-"
-  robots: "index"
+  metaDescription: "Discover Albania's stunning beaches, vibrant nightlife, and top music festivals in %currentyear%. Find the best party spots for an unforgettable summer."
 ---
 
 # Your guide to Albania's Party Spots

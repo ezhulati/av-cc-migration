@@ -1,4 +1,80 @@
----\ntitle: "BAZ'HUR Boutique Hotel"\ndescription: "Discover the charm of BAZ'HUR Boutique Hotel, a gem located in Kukës, just a stone's throw away from cultural landmarks such as Sinan Pasha Mosque, Kalaja Fortress Prizren, and the Albanian League of Prizren Museum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493567248.jpg?k=d724826e8587e687fad2878261841ec947aa8434a0f4331685762616147df4ce&o=&hp=1"\nlanguage: en\nslug: baz-hur-boutique-hotel\naddress: "SH31, 8501 Kukës, Albania"\ncity: "Kukës"\nlocation: "Kukës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.07440389\n  lng: 20.42600476\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 18\nratings:\n  overall: 9.6\n  location: 9.6\n  cleanliness: 9.4\n  facilities: 9.4\n  value: 9.7\n  comfort: 9.7\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493567248.jpg?k=d724826e8587e687fad2878261841ec947aa8434a0f4331685762616147df4ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493564114.jpg?k=03a65d9af5d6e8d2f3c74e558cb98b86c6f49a772bcb9739de549a6095f96876&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493567331.jpg?k=26ab15c01e364fae53f5a9d8537c96db148eae16c2380542df810198e6ce05b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507532222.jpg?k=1557da1404bc34561048f53c861808ddcbeb3705a3fa5d135fdc1ce2a93941ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493564503.jpg?k=e37c18dee448638ac9952665c2a224394516587a20f9eacfcc016d308f6efd8c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522374139.jpg?k=4ee3dd29c33b53ea9ed109cb05a91ecaecd39d09883fef0a0107481158854b15&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room (2 Adults + 1 Child)"\n  - "Deluxe Suite with Spa Bath"\n  - "Family Room with Private Bathroom"\n  - "Triple Room with Private Bathroom"\nnearbyRestaurants:\n  - "Qebaptore Ferati 100 m"\n  - "Fast Food Urals 250 m"\nwhatsNearby:\n  - "Partia Socialiste Kukes 800 m"\n  - "Brekija Perla Kuksiane 1.2 km"\nairports:\n  - "Pristina International Airport 73 km"\n  - "Tirana International Airport Mother Teresa 93 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Maria"\n    country: "United Kingdom"\n    text: "“High standard throughout, situated in the centre of kukesi with quick access to all main roads. The hosts are extremely friendly and couldn’t be more helpful, we stayed in the deluxe suite and was better than what we expected with ample room! ...”"\n  - name: "Marko"\n    country: "Poland"\n    text: "“In the quickly developing city of Kukes, this is seems to be one of the best stays. The rooms are comfortable. The stuff is very helpful and communicative. In the traditions of good old Balkan hospitality, we were offered any help in the city,...”"\n  - name: "Cara"\n    country: "Australia"\n    text: "“A lovely new and clean room in the heart of Kukes. The room was comfortable and had everything we needed. Including good heating. The staff were friendly and helpful. The breakfast was good and plentiful.”"\nbookingURL: "https://www.booking.com/hotel/al/baz-hur.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at BAZ'HUR Boutique Hotel is thoughtfully equipped with a desk and a flat-screen TV, alongside essentials like bed linen and towels, catering to the needs of modern travelers. Guests can start their day on a high note with a choice of an à la carte or continental breakfast, setting the tone for a day of exploration or relaxation.
+---
+title: "BAZ'HUR Boutique Hotel"
+description: "Discover the charm of BAZ'HUR Boutique Hotel, a gem located in Kukës, just a stone's throw away from cultural landmarks such as Sinan Pasha Mosque, Kalaja Fortress Prizren, and the Albanian League of Prizren Museum."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493567248.jpg?k=d724826e8587e687fad2878261841ec947aa8434a0f4331685762616147df4ce&o=&hp=1"
+language: en
+slug: baz-hur-boutique-hotel
+address: "SH31, 8501 Kukës, Albania"
+city: "Kukës"
+location: "Kukës"
+accommodationType: "hotel"
+coordinates:
+  lat: 42.07440389
+  lng: 20.42600476
+price: "US$59"
+priceFrom: 59
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 18
+ratings:
+  overall: 9.6
+  location: 9.6
+  cleanliness: 9.4
+  facilities: 9.4
+  value: 9.7
+  comfort: 9.7
+  staff: 9.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493567248.jpg?k=d724826e8587e687fad2878261841ec947aa8434a0f4331685762616147df4ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493564114.jpg?k=03a65d9af5d6e8d2f3c74e558cb98b86c6f49a772bcb9739de549a6095f96876&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493567331.jpg?k=26ab15c01e364fae53f5a9d8537c96db148eae16c2380542df810198e6ce05b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507532222.jpg?k=1557da1404bc34561048f53c861808ddcbeb3705a3fa5d135fdc1ce2a93941ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493564503.jpg?k=e37c18dee448638ac9952665c2a224394516587a20f9eacfcc016d308f6efd8c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522374139.jpg?k=4ee3dd29c33b53ea9ed109cb05a91ecaecd39d09883fef0a0107481158854b15&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Room service"
+  - "Airport shuttle"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room (2 Adults + 1 Child)"
+  - "Deluxe Suite with Spa Bath"
+  - "Family Room with Private Bathroom"
+  - "Triple Room with Private Bathroom"
+nearbyRestaurants:
+  - "Qebaptore Ferati 100 m"
+  - "Fast Food Urals 250 m"
+whatsNearby:
+  - "Partia Socialiste Kukes 800 m"
+  - "Brekija Perla Kuksiane 1.2 km"
+airports:
+  - "Pristina International Airport 73 km"
+  - "Tirana International Airport Mother Teresa 93 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Maria"
+    country: "United Kingdom"
+    text: "“High standard throughout, situated in the centre of kukesi with quick access to all main roads. The hosts are extremely friendly and couldn’t be more helpful, we stayed in the deluxe suite and was better than what we expected with ample room! ...”"
+  - name: "Marko"
+    country: "Poland"
+    text: "“In the quickly developing city of Kukes, this is seems to be one of the best stays. The rooms are comfortable. The stuff is very helpful and communicative. In the traditions of good old Balkan hospitality, we were offered any help in the city,...”"
+  - name: "Cara"
+    country: "Australia"
+    text: "“A lovely new and clean room in the heart of Kukes. The room was comfortable and had everything we needed. Including good heating. The staff were friendly and helpful. The breakfast was good and plentiful.”"
+bookingURL: "https://www.booking.com/hotel/al/baz-hur.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Each room at BAZ'HUR Boutique Hotel is thoughtfully equipped with a desk and a flat-screen TV, alongside essentials like bed linen and towels, catering to the needs of modern travelers. Guests can start their day on a high note with a choice of an à la carte or continental breakfast, setting the tone for a day of exploration or relaxation.
 
 Beyond the cozy retreats, the hotel boasts a welcoming bar, perfect for unwinding after a day of adventures. For those arriving by car, the convenience of free private parking is a notable perk, and for guests looking to explore further afield, the hotel offers a paid airport shuttle service, connecting them to Pristina International Airport, located 110 km away.
 

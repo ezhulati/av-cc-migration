@@ -1,4 +1,91 @@
----\ntitle: "My Rooms Hotel & Bar"\ndescription: "My Rooms Hotel & Bar emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494150166.jpg?k=cfc5e73c87d18a1a65bd570e49b3a2ff23981671405be425309c1e80aea1fc27&o=&hp=1"\nlanguage: en\nslug: my-rooms-hotel-bar\naddress: "Rruga \"Mihal Duri\" Nd.7 H.1., 1050 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32930682\n  lng: 19.81249551\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 197\nratings:\n  overall: 8.3\n  location: 9.3\n  cleanliness: 8.1\n  facilities: 7.7\n  value: 8.3\n  comfort: 8\n  staff: 8.3\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494150166.jpg?k=cfc5e73c87d18a1a65bd570e49b3a2ff23981671405be425309c1e80aea1fc27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467493925.jpg?k=80690b88cf1f139bf4129e4a4b6945e1228d2251a666b06a4f312bd29921a2c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499534181.jpg?k=8f8d319db37531e79ee9b4244d74919058f9d778cb0fc224189e6371665a9ebe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467493961.jpg?k=bf947c9782d4347142331d8ac581ffc8ac0839ce0f0d7dee6995911ab83128d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493207419.jpg?k=597cdb1393637a58710ed33d62b7e731c1bb31c80e532bdb92d2e39a0012809a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369139389.jpg?k=5df8392a9c033e938f1dae2d33e0d7c89532921555f54920be8ac271db70a91c&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Fast free WiFi (59 Mbps)"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Triple Room with Balcony"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 750 m"\n  - "Former Residence of Enver Hoxha 1 km"\n  - "Tanners' Bridge 1.2 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.6 km"\nnearbyRestaurants:\n  - "Melug Bistro 6 m"\n  - "Hemingway Bar Tirana 30 m"\nwhatsNearby:\n  - "Sheshi Paris 200 m"\n  - "National Museum of History Albania 400 m"\n  - "House of Leaves 450 m"\n  - "Sheshi Skënderbej 450 m"\n  - "Skanderbeg Square 600 m"\n  - "Parku Europa 600 m"\n  - "Clock Tower Tirana 650 m"\n  - "Sheshi Rekreativ Mine Peza 650 m"\n  - "Rinia Park 700 m"\n  - "Parku Rinia 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Shaun"\n    country: "United Arab Emirates"\n    text: "“Overall the place was nice as long as you have your expectations in check. The rooms were clean, and the staff was accommodating in letting us in even though we were a little past the check-in time. The breakfast options they offer are actually...”"\n  - name: "Maria"\n    country: "United Kingdom"\n    text: "“Location is excellent, near the Skanderbeg square and shops but in a quiet backstreet.”"\n  - name: "Andrzej"\n    country: "Netherlands"\n    text: "“Very nice hotel with very polite personel 🙂 Perfect breakfast and Beautifull girl behind the bar.😉”"\nbookingURL: "https://www.booking.com/hotel/al/city-apartaments-skerdi.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach unit within this esteemed apartment complex is thoughtfully equipped with modern amenities designed to cater to the needs of every guest. From the comfort of air-conditioned rooms featuring flat-screen TVs to the convenience of private bathrooms stocked with essentials including a bath and hair dryer, My Rooms Hotel & Bar does not compromise on comfort. Select rooms further elevate the experience with the addition of a terrace, inviting guests to unwind in their private outdoor space.
+---
+title: "My Rooms Hotel & Bar"
+description: "My Rooms Hotel & Bar emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494150166.jpg?k=cfc5e73c87d18a1a65bd570e49b3a2ff23981671405be425309c1e80aea1fc27&o=&hp=1"
+language: en
+slug: my-rooms-hotel-bar
+address: "Rruga \"Mihal Duri\" Nd.7 H.1., 1050 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32930682
+  lng: 19.81249551
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 197
+ratings:
+  overall: 8.3
+  location: 9.3
+  cleanliness: 8.1
+  facilities: 7.7
+  value: 8.3
+  comfort: 8
+  staff: 8.3
+  wifi: 8.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494150166.jpg?k=cfc5e73c87d18a1a65bd570e49b3a2ff23981671405be425309c1e80aea1fc27&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467493925.jpg?k=80690b88cf1f139bf4129e4a4b6945e1228d2251a666b06a4f312bd29921a2c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499534181.jpg?k=8f8d319db37531e79ee9b4244d74919058f9d778cb0fc224189e6371665a9ebe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467493961.jpg?k=bf947c9782d4347142331d8ac581ffc8ac0839ce0f0d7dee6995911ab83128d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493207419.jpg?k=597cdb1393637a58710ed33d62b7e731c1bb31c80e532bdb92d2e39a0012809a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369139389.jpg?k=5df8392a9c033e938f1dae2d33e0d7c89532921555f54920be8ac271db70a91c&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Fast free WiFi (59 Mbps)"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Double Room with Balcony"
+  - "Triple Room with Balcony"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 750 m"
+  - "Former Residence of Enver Hoxha 1 km"
+  - "Tanners' Bridge 1.2 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 4.6 km"
+nearbyRestaurants:
+  - "Melug Bistro 6 m"
+  - "Hemingway Bar Tirana 30 m"
+whatsNearby:
+  - "Sheshi Paris 200 m"
+  - "National Museum of History Albania 400 m"
+  - "House of Leaves 450 m"
+  - "Sheshi Skënderbej 450 m"
+  - "Skanderbeg Square 600 m"
+  - "Parku Europa 600 m"
+  - "Clock Tower Tirana 650 m"
+  - "Sheshi Rekreativ Mine Peza 650 m"
+  - "Rinia Park 700 m"
+  - "Parku Rinia 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Shaun"
+    country: "United Arab Emirates"
+    text: "“Overall the place was nice as long as you have your expectations in check. The rooms were clean, and the staff was accommodating in letting us in even though we were a little past the check-in time. The breakfast options they offer are actually...”"
+  - name: "Maria"
+    country: "United Kingdom"
+    text: "“Location is excellent, near the Skanderbeg square and shops but in a quiet backstreet.”"
+  - name: "Andrzej"
+    country: "Netherlands"
+    text: "“Very nice hotel with very polite personel 🙂 Perfect breakfast and Beautifull girl behind the bar.😉”"
+bookingURL: "https://www.booking.com/hotel/al/city-apartaments-skerdi.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each unit within this esteemed apartment complex is thoughtfully equipped with modern amenities designed to cater to the needs of every guest. From the comfort of air-conditioned rooms featuring flat-screen TVs to the convenience of private bathrooms stocked with essentials including a bath and hair dryer, My Rooms Hotel & Bar does not compromise on comfort. Select rooms further elevate the experience with the addition of a terrace, inviting guests to unwind in their private outdoor space.
 
 The promise of a delightful start to the day is fulfilled with a variety of breakfast options served every morning. Guests can savor continental and Italian delicacies, complemented by fresh fruits, juice, and cheese, all within the cozy ambiance of the on-site coffee shop and bar. For those looking to explore local dining, a plethora of options awaits just steps from the hotel.
 

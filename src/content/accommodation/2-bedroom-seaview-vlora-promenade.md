@@ -1,4 +1,65 @@
----\ntitle: "2 Bedroom seaview Vlora Promenade"\ndescription: "Discover the charm of Vlorë with a stay at the 2 Bedroom Seaview Vlora Promenade, a prime choice for travelers seeking comfort and convenience mere steps from Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284606.jpg?k=737df6baa957e0cded7dcc53d4878a77d8cc3e6acf170ca79e5cea473d2b6ee6&o=&hp=1"\nlanguage: en\nslug: 2-bedroom-seaview-vlora-promenade\naddress: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44696493\n  lng: 19.49436002\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284606.jpg?k=737df6baa957e0cded7dcc53d4878a77d8cc3e6acf170ca79e5cea473d2b6ee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499481608.jpg?k=2e132bcea59aa7c1571d47344b3994b76a6bb8458bf4e9b8d9a691fc7f968840&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499482108.jpg?k=39f60164647b250218b2b186e3300ae1f030b35b095f0ae1057022f900e4ef4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499479738.jpg?k=7cc6b8589571c7d64121b095a20204479d97fa4f110ac97ff5953e3b5e350259&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499480608.jpg?k=9ff9d72262dc4568ed73a3a7fc87ae40c258322931d363ce7e9f479f80bcecbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284605.jpg?k=3563080a7a6cef13d765b8921eb12e713650205f7c33526d59c2bc1a34e468e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499481898.jpg?k=ce916f68207f66d12dd0b0c297bd9882d2040f8c74a9d2fb2d02a15a54e32af0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499479632.jpg?k=94a299181b94ca39d4c038cc09de62ecdfbe31288512ddf0500d92b1030be97d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284626.jpg?k=1031a6b0f5f14e4e6c3cc8598c1e57a6a7ac8ab70991ed991c313ae537f7b272&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Restorant Xhokla 40 m"\n  - "Mustafa Restorant 40 m"\nnearbyBeaches:\n  - "Vlore Beach 50 m"\n  - "Vjetër Beach 1.2 km"\n  - "Ri Beach 1.3 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.2 km"\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.7 km"\nbookingURL: "https://www.booking.com/hotel/al/2-bedroom-seaview-vlora-promenade.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests will find themselves in a haven of tranquility and comfort, thanks to the air-conditioned accommodation that opens up to a refreshing balcony. The apartment is a smoke-free environment, ensuring a clean and healthy stay for all guests, and is conveniently positioned only 1.3 km away from the serene Ri Beach.
+---
+title: "2 Bedroom seaview Vlora Promenade"
+description: "Discover the charm of Vlorë with a stay at the 2 Bedroom Seaview Vlora Promenade, a prime choice for travelers seeking comfort and convenience mere steps from Vlore Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284606.jpg?k=737df6baa957e0cded7dcc53d4878a77d8cc3e6acf170ca79e5cea473d2b6ee6&o=&hp=1"
+language: en
+slug: 2-bedroom-seaview-vlora-promenade
+address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44696493
+  lng: 19.49436002
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284606.jpg?k=737df6baa957e0cded7dcc53d4878a77d8cc3e6acf170ca79e5cea473d2b6ee6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499481608.jpg?k=2e132bcea59aa7c1571d47344b3994b76a6bb8458bf4e9b8d9a691fc7f968840&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499482108.jpg?k=39f60164647b250218b2b186e3300ae1f030b35b095f0ae1057022f900e4ef4d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499479738.jpg?k=7cc6b8589571c7d64121b095a20204479d97fa4f110ac97ff5953e3b5e350259&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499480608.jpg?k=9ff9d72262dc4568ed73a3a7fc87ae40c258322931d363ce7e9f479f80bcecbe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284605.jpg?k=3563080a7a6cef13d765b8921eb12e713650205f7c33526d59c2bc1a34e468e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499481898.jpg?k=ce916f68207f66d12dd0b0c297bd9882d2040f8c74a9d2fb2d02a15a54e32af0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499479632.jpg?k=94a299181b94ca39d4c038cc09de62ecdfbe31288512ddf0500d92b1030be97d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284626.jpg?k=1031a6b0f5f14e4e6c3cc8598c1e57a6a7ac8ab70991ed991c313ae537f7b272&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Restorant Xhokla 40 m"
+  - "Mustafa Restorant 40 m"
+nearbyBeaches:
+  - "Vlore Beach 50 m"
+  - "Vjetër Beach 1.2 km"
+  - "Ri Beach 1.3 km"
+  - "Beach at Government Villas 3 km"
+  - "Liro Beach 3.7 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.2 km"
+  - "Kuzum Baba 2.3 km"
+  - "Independence Square 2.7 km"
+bookingURL: "https://www.booking.com/hotel/al/2-bedroom-seaview-vlora-promenade.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests will find themselves in a haven of tranquility and comfort, thanks to the air-conditioned accommodation that opens up to a refreshing balcony. The apartment is a smoke-free environment, ensuring a clean and healthy stay for all guests, and is conveniently positioned only 1.3 km away from the serene Ri Beach.
 
 Designed with space and convenience in mind, the apartment boasts two well-appointed bedrooms, making it an ideal choice for families or groups. The living space is enhanced by a flat-screen TV and a fully equipped kitchen, complete with modern appliances such as a dishwasher, oven, washing machine, and fridge. For added convenience, towels and bed linen are readily available, ensuring a hassle-free stay.
 

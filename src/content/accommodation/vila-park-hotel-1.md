@@ -1,4 +1,92 @@
----\ntitle: "Vila Park Hotel 1"\ndescription: "Vila Park Hotel 1 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137282800.jpg?k=518b17713525ffee5e0e6633982b69187c9d363ddfe4142fd798e9d36f0d8399&o=&hp=1"\nlanguage: en\nslug: vila-park-hotel-1\naddress: "Rruga e Elbasanit , Nr. 125 Tirana, 1011 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31730521\n  lng: 19.8332556\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 106\nratings:\n  overall: 8.7\n  location: 8.4\n  cleanliness: 8.9\n  facilities: 8.1\n  value: 8.7\n  comfort: 8.6\n  staff: 9\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137282800.jpg?k=518b17713525ffee5e0e6633982b69187c9d363ddfe4142fd798e9d36f0d8399&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377012749.jpg?k=6b748493465e52d10dff05120194ea60fd4ca0833c65180ef3bc5f0562739e42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377021944.jpg?k=a3b605ae2f05aabc6db56d8c620d96703105c2df6c4997454d23d3c916d60116&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477247279.jpg?k=6283a412f918fcb46f6ead10526a6b81b364b9ddf384b93473b0b7387d417dcc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377021914.jpg?k=08ba1373bf117219f74eefa04c2d89312965b98a92ad3be97f1966351248a92f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477245135.jpg?k=3f2ca09a87d014b8b98a961aa9844fefaf4fc823f3a19584aa388dd0db45ebed&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Double Room with Balcony"\n  - "Standard Quadruple Room"\nnearbyAttractions:\n  - "Rinia Park 1.5 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "Skanderbeg Square 1.7 km"\n  - "House of Leaves 1.8 km"\n  - "National Museum of History Albania 1.9 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Das Cafe 150 m"\n  - "Frenc 200 m"\nwhatsNearby:\n  - "Parku I Madh 350 m"\n  - "Shesh Rekreativ 550 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 600 m"\n  - "Grand Park of Tirana 850 m"\n  - "Shesh Rekreativ 1.1 km"\n  - "Sheshi Rekreativ Piramida 1.1 km"\n  - "Tanners' Bridge 1.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.3 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "National Gallery of Arts Tirana 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 77 km"\nreviews:\n  - name: "Eliona"\n    country: "Albania"\n    text: "“I had a fantastic stay! From the moment I arrived, I was impressed by the exceptional service and the hotel's overall quality. The rooms were not only clean and tidy but also incredibly silent, which ensured a peaceful night's sleep”"\n  - name: "Ermal"\n    country: "Albania"\n    text: "“It was the perfect place to stay, staff was very helpful and also the breakfast was very delicious. Highly Recommend this hotel to stay for some days in Tirana!”"\n  - name: "Fetahi"\n    country: "Germany"\n    text: "“It was a nice place. The staff were very lovely and helpful. If you ever need something just address it to them and they will help you.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-park-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe establishment prides itself on a range of amenities designed to enhance the guest experience, including room service, a 24-hour front desk, and seamless access to free WiFi across the premises. The hotel is particularly accommodating for families, featuring spacious family rooms that cater to the needs of guests traveling with children.
+---
+title: "Vila Park Hotel 1"
+description: "Vila Park Hotel 1 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137282800.jpg?k=518b17713525ffee5e0e6633982b69187c9d363ddfe4142fd798e9d36f0d8399&o=&hp=1"
+language: en
+slug: vila-park-hotel-1
+address: "Rruga e Elbasanit , Nr. 125 Tirana, 1011 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.31730521
+  lng: 19.8332556
+price: "US$59"
+priceFrom: 59
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 106
+ratings:
+  overall: 8.7
+  location: 8.4
+  cleanliness: 8.9
+  facilities: 8.1
+  value: 8.7
+  comfort: 8.6
+  staff: 9
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137282800.jpg?k=518b17713525ffee5e0e6633982b69187c9d363ddfe4142fd798e9d36f0d8399&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377012749.jpg?k=6b748493465e52d10dff05120194ea60fd4ca0833c65180ef3bc5f0562739e42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377021944.jpg?k=a3b605ae2f05aabc6db56d8c620d96703105c2df6c4997454d23d3c916d60116&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477247279.jpg?k=6283a412f918fcb46f6ead10526a6b81b364b9ddf384b93473b0b7387d417dcc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377021914.jpg?k=08ba1373bf117219f74eefa04c2d89312965b98a92ad3be97f1966351248a92f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477245135.jpg?k=3f2ca09a87d014b8b98a961aa9844fefaf4fc823f3a19584aa388dd0db45ebed&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Budget Double Room"
+  - "Double Room with Balcony"
+  - "Standard Quadruple Room"
+nearbyAttractions:
+  - "Rinia Park 1.5 km"
+  - "Clock Tower Tirana 1.6 km"
+  - "Skanderbeg Square 1.7 km"
+  - "House of Leaves 1.8 km"
+  - "National Museum of History Albania 1.9 km"
+  - "Bunk'Art 1 Museum 4.3 km"
+nearbyRestaurants:
+  - "Das Cafe 150 m"
+  - "Frenc 200 m"
+whatsNearby:
+  - "Parku I Madh 350 m"
+  - "Shesh Rekreativ 550 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 600 m"
+  - "Grand Park of Tirana 850 m"
+  - "Shesh Rekreativ 1.1 km"
+  - "Sheshi Rekreativ Piramida 1.1 km"
+  - "Tanners' Bridge 1.2 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.3 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "National Gallery of Arts Tirana 1.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 13 km"
+  - "Ohrid Airport 77 km"
+reviews:
+  - name: "Eliona"
+    country: "Albania"
+    text: "“I had a fantastic stay! From the moment I arrived, I was impressed by the exceptional service and the hotel's overall quality. The rooms were not only clean and tidy but also incredibly silent, which ensured a peaceful night's sleep”"
+  - name: "Ermal"
+    country: "Albania"
+    text: "“It was the perfect place to stay, staff was very helpful and also the breakfast was very delicious. Highly Recommend this hotel to stay for some days in Tirana!”"
+  - name: "Fetahi"
+    country: "Germany"
+    text: "“It was a nice place. The staff were very lovely and helpful. If you ever need something just address it to them and they will help you.”"
+bookingURL: "https://www.booking.com/hotel/al/vila-park-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The establishment prides itself on a range of amenities designed to enhance the guest experience, including room service, a 24-hour front desk, and seamless access to free WiFi across the premises. The hotel is particularly accommodating for families, featuring spacious family rooms that cater to the needs of guests traveling with children.
 
 Accommodations at Vila Park Hotel 1 are thoughtfully appointed with air conditioning and flat-screen TVs, ensuring a comfortable and relaxing stay. Select rooms also boast balconies, providing a private outdoor space for guests to unwind.
 

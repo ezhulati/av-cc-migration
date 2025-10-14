@@ -1,4 +1,83 @@
----\ntitle: "Boutique Hotel Muzaka (Historic Center)"\ndescription: "Hotel Muzaka stands as a charming testament to traditional architecture, positioned conveniently by the serene Osum River and merely a stone's throw from the vibrant heart of Berat, a city celebrated for its rich history and cultural tapestry."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405531388.jpg?k=0a1cbcb6b06cfe2cc8e499408a65c070a4382fab6d38df95756ebf379d25f383&o=&hp=1"\nlanguage: en\nslug: boutique-hotel-muzaka-historic-center\naddress: "Gorice, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.7034848\n  lng: 19.94870424\nprice: "US$70"\npriceFrom: 70\nstarRating: 4\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 43\nratings:\n  overall: 9.6\n  location: 9.9\n  cleanliness: 9.6\n  facilities: 9.5\n  value: 9.4\n  comfort: 9.8\n  staff: 9.9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405531388.jpg?k=0a1cbcb6b06cfe2cc8e499408a65c070a4382fab6d38df95756ebf379d25f383&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405531398.jpg?k=713f6a9da750c752235999887b230bab11e021cc97bb355b29568343f43ca303&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71078172.jpg?k=d829824d15d5f0dcb4af25716ca1b4b0b82e7651b95a646cf417f142ccf69361&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405533104.jpg?k=7e29c996fb422709d0260fba98ebd736794b5589904bea6d3414f31c127676fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405533170.jpg?k=08a6157f56b28db189471c4c7bd95b1c434e675ac49797f0553f0247950560bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405546630.jpg?k=ad3178b541492d92a7006ad27d004f49ea993696ba44802bdd4cb3e249294bcb&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Standard Double Room"\n  - "Deluxe Double Room"\n  - "Suite"\n  - "Deluxe Double Room with Castle View"\nnearbyRestaurants:\n  - "Antigoni 40 m"\n  - "Lundra 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Weiyi"\n    country: "China"\n    text: "“Service gentlemen are all utterly gentle. Breakfast is delicious. Location is perfect, living in the new town while all the histories and legacies are just in front of you.”"\n  - name: "Evett"\n    country: "United Kingdom"\n    text: "“Very good breakfast enjoyed outside on the hotel terrace in the sun.”"\n  - name: "Leonard"\n    country: "United States"\n    text: "“Great breakfast, friendly staff, right on the river, free parking, close to restaurants and promenade”"\nbookingURL: "https://www.booking.com/hotel/al/muzaka.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nGuests are welcomed into air-conditioned accommodations that blend modern amenities with a touch of rustic charm. Each room is equipped with a flat-screen satellite TV and a minibar, ensuring comfort and convenience. The en suite bathrooms, complete with showers, free toiletries, and towels, add to the thoughtful touches that make stays here pleasant. Select rooms boast decorative wooden beams, adding to the ambiance of warmth and tradition.
+---
+title: "Boutique Hotel Muzaka (Historic Center)"
+description: "Hotel Muzaka stands as a charming testament to traditional architecture, positioned conveniently by the serene Osum River and merely a stone's throw from the vibrant heart of Berat, a city celebrated for its rich history and cultural tapestry."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405531388.jpg?k=0a1cbcb6b06cfe2cc8e499408a65c070a4382fab6d38df95756ebf379d25f383&o=&hp=1"
+language: en
+slug: boutique-hotel-muzaka-historic-center
+address: "Gorice, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.7034848
+  lng: 19.94870424
+price: "US$70"
+priceFrom: 70
+starRating: 4
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 43
+ratings:
+  overall: 9.6
+  location: 9.9
+  cleanliness: 9.6
+  facilities: 9.5
+  value: 9.4
+  comfort: 9.8
+  staff: 9.9
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405531388.jpg?k=0a1cbcb6b06cfe2cc8e499408a65c070a4382fab6d38df95756ebf379d25f383&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405531398.jpg?k=713f6a9da750c752235999887b230bab11e021cc97bb355b29568343f43ca303&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71078172.jpg?k=d829824d15d5f0dcb4af25716ca1b4b0b82e7651b95a646cf417f142ccf69361&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405533104.jpg?k=7e29c996fb422709d0260fba98ebd736794b5589904bea6d3414f31c127676fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405533170.jpg?k=08a6157f56b28db189471c4c7bd95b1c434e675ac49797f0553f0247950560bb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405546630.jpg?k=ad3178b541492d92a7006ad27d004f49ea993696ba44802bdd4cb3e249294bcb&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Twin Room"
+  - "Standard Double Room"
+  - "Deluxe Double Room"
+  - "Suite"
+  - "Deluxe Double Room with Castle View"
+nearbyRestaurants:
+  - "Antigoni 40 m"
+  - "Lundra 100 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 84 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Weiyi"
+    country: "China"
+    text: "“Service gentlemen are all utterly gentle. Breakfast is delicious. Location is perfect, living in the new town while all the histories and legacies are just in front of you.”"
+  - name: "Evett"
+    country: "United Kingdom"
+    text: "“Very good breakfast enjoyed outside on the hotel terrace in the sun.”"
+  - name: "Leonard"
+    country: "United States"
+    text: "“Great breakfast, friendly staff, right on the river, free parking, close to restaurants and promenade”"
+bookingURL: "https://www.booking.com/hotel/al/muzaka.en-gb.html?aid=8035640"
+bestFor: "Best for Historical Sites Proximity"
+bestCategories: "Historical Sites Proximity"
+category: "Historical Sites Proximity"
+---
+
+Guests are welcomed into air-conditioned accommodations that blend modern amenities with a touch of rustic charm. Each room is equipped with a flat-screen satellite TV and a minibar, ensuring comfort and convenience. The en suite bathrooms, complete with showers, free toiletries, and towels, add to the thoughtful touches that make stays here pleasant. Select rooms boast decorative wooden beams, adding to the ambiance of warmth and tradition.
 
 Culinary experiences at Hotel Muzaka are a highlight, with the on-site restaurant serving a delightful array of breakfast options and Italian dishes. The presence of a terrace and a bar further enriches the dining experience, offering guests spaces to unwind and socialize.
 

@@ -1,4 +1,107 @@
----\ntitle: "ADMIRO Hotel"\ndescription: "ADMIRO Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368969398.jpg?k=d733bd003f441d6f830f76111c21c6143e0a0538e85be4fc9ff0e8546b2dec95&o=&hp=1"\nlanguage: en\nslug: admiro-hotel\naddress: "Rruga Admiral Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76626309\n  lng: 19.99914226\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 445\nratings:\n  overall: 9.3\n  location: 9\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.2\n  comfort: 9.6\n  staff: 9.4\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368969398.jpg?k=d733bd003f441d6f830f76111c21c6143e0a0538e85be4fc9ff0e8546b2dec95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364409651.jpg?k=133ab4c6661a54051c2d03a2924be7b4c1927eec7b3e0835ec2d8f670ca5011d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368945754.jpg?k=5b6357e224891f4d27230195d29a193a5cc6d946e057de3318c2a36937457919&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368945766.jpg?k=b7b6f2ebf9950ca2967bc83dd6aeecb4bbc7b2706ac79cd8f186ac69008d0d3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364409597.jpg?k=997119b1bf32252629cd4e71caa7cae42648c458b3b6cbbc12a54677cbe85b19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799503.jpg?k=93c0df050c3f9f0a70e393a4e35346811c114f299af6ebc0bf08b26178e3ae8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799500.jpg?k=8e29d1ba9b32f85531bd7f168021416bde3c56ec214b2618414e38be774bc1b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799098.jpg?k=192eede990f0708a6926b430aeab78b8c267a2ea4c535de60b04706599bd3f04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799092.jpg?k=f0e0ca5df216198b1b33d8a520a06a26b16e2c4849a4576807a24c12c9204710&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368969408.jpg?k=b5704eee2a6ccd20030f74e9b69305eab383cade73f4d1a3d265e2942421fcb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799090.jpg?k=0332facb18a0aa64805391978a084dc58a80593732e0a2b714586bd644bb0971&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364409639.jpg?k=3a46434321dc7b16a2c7703c7d299c9d324b252958baa78ac23295e0e11acc9c&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Good breakfast"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Serxho 50 m"\n  - "Bar Pulbardha Beach Ksamil 100 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 150 m"\n  - "Paradise Beach 250 m"\n  - "Lori Beach 350 m"\n  - "Puerto Rico Beach 450 m"\n  - "Bora Bora Beach 550 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 300 m"\n  - "Butrint National Park 2.9 km"\n  - "Plazhi I Krorezes 3.8 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Diana"\n    country: "Belgium"\n    text: "“Beautiful, clean, modern hotel. Very comfortable with couch in the room and lots of place for storage. Nice personnel. Overall very satisfied.”"\n  - name: "Caleb"\n    country: "United Kingdom"\n    text: "“The property was extra clean and tidy. The staff was amazing. The breakfast was out of this world. Had fun playing in the pool too. The rooms are spacious, with nice bathrooms. Staff is always ready to clean the room just by click of a button. I...”"\n  - name: "Alina"\n    country: "Poland"\n    text: "“The hotel is new, pictures show how it really looks. Rooms very nice, cleaned every day. Location is good and close to variety of beaches and restaurants. Breakfast good, staff very nice and helpful.”"\nbookingURL: "https://www.booking.com/hotel/al/admiro.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach guest room at ADMIRO Hotel is thoughtfully designed with air conditioning, a cozy seating area, and a flat-screen TV equipped with cable channels for entertainment. Safety is paramount, with each room featuring a secure deposit box. The private bathrooms are well-appointed with a bidet, complimentary toiletries, and a hairdryer, catering to all personal care needs. Select rooms boast breathtaking sea views, enhancing the stay with a visual treat, while all rooms are furnished with a kettle and a fridge, adding a touch of home comfort.
+---
+title: "ADMIRO Hotel"
+description: "ADMIRO Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368969398.jpg?k=d733bd003f441d6f830f76111c21c6143e0a0538e85be4fc9ff0e8546b2dec95&o=&hp=1"
+language: en
+slug: admiro-hotel
+address: "Rruga Admiral Ksamil, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.76626309
+  lng: 19.99914226
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 445
+ratings:
+  overall: 9.3
+  location: 9
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 9.2
+  comfort: 9.6
+  staff: 9.4
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368969398.jpg?k=d733bd003f441d6f830f76111c21c6143e0a0538e85be4fc9ff0e8546b2dec95&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364409651.jpg?k=133ab4c6661a54051c2d03a2924be7b4c1927eec7b3e0835ec2d8f670ca5011d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368945754.jpg?k=5b6357e224891f4d27230195d29a193a5cc6d946e057de3318c2a36937457919&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368945766.jpg?k=b7b6f2ebf9950ca2967bc83dd6aeecb4bbc7b2706ac79cd8f186ac69008d0d3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364409597.jpg?k=997119b1bf32252629cd4e71caa7cae42648c458b3b6cbbc12a54677cbe85b19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799503.jpg?k=93c0df050c3f9f0a70e393a4e35346811c114f299af6ebc0bf08b26178e3ae8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799500.jpg?k=8e29d1ba9b32f85531bd7f168021416bde3c56ec214b2618414e38be774bc1b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799098.jpg?k=192eede990f0708a6926b430aeab78b8c267a2ea4c535de60b04706599bd3f04&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799092.jpg?k=f0e0ca5df216198b1b33d8a520a06a26b16e2c4849a4576807a24c12c9204710&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368969408.jpg?k=b5704eee2a6ccd20030f74e9b69305eab383cade73f4d1a3d265e2942421fcb1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455799090.jpg?k=0332facb18a0aa64805391978a084dc58a80593732e0a2b714586bd644bb0971&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364409639.jpg?k=3a46434321dc7b16a2c7703c7d299c9d324b252958baa78ac23295e0e11acc9c&o=&hp=1"
+amenities:
+  - "Indoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Facilities for disabled guests"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Good breakfast"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 20 km"
+nearbyRestaurants:
+  - "Serxho 50 m"
+  - "Bar Pulbardha Beach Ksamil 100 m"
+nearbyBeaches:
+  - "Ksamil Beach 9 150 m"
+  - "Paradise Beach 250 m"
+  - "Lori Beach 350 m"
+  - "Puerto Rico Beach 450 m"
+  - "Bora Bora Beach 550 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 300 m"
+  - "Butrint National Park 2.9 km"
+  - "Plazhi I Krorezes 3.8 km"
+  - "Parc National de Butrint 11 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Diana"
+    country: "Belgium"
+    text: "“Beautiful, clean, modern hotel. Very comfortable with couch in the room and lots of place for storage. Nice personnel. Overall very satisfied.”"
+  - name: "Caleb"
+    country: "United Kingdom"
+    text: "“The property was extra clean and tidy. The staff was amazing. The breakfast was out of this world. Had fun playing in the pool too. The rooms are spacious, with nice bathrooms. Staff is always ready to clean the room just by click of a button. I...”"
+  - name: "Alina"
+    country: "Poland"
+    text: "“The hotel is new, pictures show how it really looks. Rooms very nice, cleaned every day. Location is good and close to variety of beaches and restaurants. Breakfast good, staff very nice and helpful.”"
+bookingURL: "https://www.booking.com/hotel/al/admiro.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each guest room at ADMIRO Hotel is thoughtfully designed with air conditioning, a cozy seating area, and a flat-screen TV equipped with cable channels for entertainment. Safety is paramount, with each room featuring a secure deposit box. The private bathrooms are well-appointed with a bidet, complimentary toiletries, and a hairdryer, catering to all personal care needs. Select rooms boast breathtaking sea views, enhancing the stay with a visual treat, while all rooms are furnished with a kettle and a fridge, adding a touch of home comfort.
 
 Mornings at ADMIRO Hotel begin with a delightful buffet breakfast, setting the tone for a day of exploration or relaxation. The hotel's prime location offers easy access to the stunning Paradise Beach, just 600 meters away, and Lori Beach, a short 700-meter stroll, inviting guests to immerse themselves in the beauty of Ksamil's coastal landscape. For those looking to venture further, Corfu International Airport is located 92 km from the hotel, making ADMIRO Hotel an ideal base for both local and international travelers.
 

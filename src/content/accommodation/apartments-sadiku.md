@@ -1,4 +1,81 @@
----\ntitle: "Apartments Sadiku"\ndescription: "Discover the charm of Sarandë with a stay at Apartments Sadiku, a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447009.jpg?k=7a86e0fc3903e026e2982f5258f82bd91ddc5e8aaa89b584a8e011e205aef482&o=&hp=1"\nlanguage: en\nslug: apartments-sadiku\naddress: "Rruga Gjergj Araniti 604, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87852348\n  lng: 19.99863219\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 140\nratings:\n  overall: 8.5\n  location: 7.4\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 9.2\n  comfort: 8.9\n  staff: 9.2\n  wifi: 7.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447009.jpg?k=7a86e0fc3903e026e2982f5258f82bd91ddc5e8aaa89b584a8e011e205aef482&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470916298.jpg?k=9104cae71cb00bbc600aaabceca1f462fb2593d4b6f96c28adc22edc8884dc87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142238.jpg?k=7e285dd3f7b6bb5aaa8852c343376b3268dda9e431ec4e06814fb46db4c58fa9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489689374.jpg?k=4a3fdfd28eba2ed5b2127180793f3b53ea5b14ae3fd464a45803720bcc5e038b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142246.jpg?k=5508377bd8e3a2d57727e9484eb310e191494748274c6061050f436dbc89c0c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142233.jpg?k=877302c821168c47ebad8115e0553070c35237e7c0f153812499bd07bbd1e43b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479749589.jpg?k=04081bff69fbb7df45f502a22a1264e83e18860d16809d0ac78bb3cb61e712b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467557868.jpg?k=b9762f4fd5daafe5770f8441551034b5c25effd5d633b8840ff709f10fa70138&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142183.jpg?k=e2636315310cec5e340ea6892bcaf0f794990977355f540ff4849642e60d7bc4&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Ali Pasha 300 m"\n  - "PIZZA SAVOS 450 m"\nnearbyBeaches:\n  - "Sarande Main Beach 900 m"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.5 km"\n  - "La Petite Beach 1.7 km"\n  - "Maestral Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 3.1 km"\n  - "Butrint National Park 3.9 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Katarina"\n    country: "Slovakia"\n    text: "“The apartment has a very good location. And offers very nice view. The owners are very nice. The apartment is very well equipped and we liked our stay a lot! They even have a pool! :)”"\n  - name: "Jana"\n    country: "United Kingdom"\n    text: "“The owner of property welcome us so friendly people. clean nice cozy room with big balcony mini kitchen in room so nice and relax place to stay”"\n  - name: "Aimen"\n    country: "Belgium"\n    text: "“The modern rooms, with excelent beds and kitchens, excelent bathroom with led mirrors and ventilation, the breathtaking seaview, perfect location (5mins to the central beaches, 15min with the car to ksamil, and the warm welcoming from the owner of...”"\nbookingURL: "https://www.booking.com/hotel/al/vila-sadiku.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nApartments Sadiku stands out for its well-appointed family rooms, each boasting modern amenities such as air conditioning, heating, and a flat-screen TV for a truly homely experience. The inclusion of a private bathroom in every unit adds to the convenience, ensuring a comfortable stay.
+---
+title: "Apartments Sadiku"
+description: "Discover the charm of Sarandë with a stay at Apartments Sadiku, a prime choice for travelers seeking both comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447009.jpg?k=7a86e0fc3903e026e2982f5258f82bd91ddc5e8aaa89b584a8e011e205aef482&o=&hp=1"
+language: en
+slug: apartments-sadiku
+address: "Rruga Gjergj Araniti 604, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87852348
+  lng: 19.99863219
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 140
+ratings:
+  overall: 8.5
+  location: 7.4
+  cleanliness: 9.2
+  facilities: 8.7
+  value: 9.2
+  comfort: 8.9
+  staff: 9.2
+  wifi: 7.1
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447009.jpg?k=7a86e0fc3903e026e2982f5258f82bd91ddc5e8aaa89b584a8e011e205aef482&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470916298.jpg?k=9104cae71cb00bbc600aaabceca1f462fb2593d4b6f96c28adc22edc8884dc87&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142238.jpg?k=7e285dd3f7b6bb5aaa8852c343376b3268dda9e431ec4e06814fb46db4c58fa9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489689374.jpg?k=4a3fdfd28eba2ed5b2127180793f3b53ea5b14ae3fd464a45803720bcc5e038b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142246.jpg?k=5508377bd8e3a2d57727e9484eb310e191494748274c6061050f436dbc89c0c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142233.jpg?k=877302c821168c47ebad8115e0553070c35237e7c0f153812499bd07bbd1e43b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479749589.jpg?k=04081bff69fbb7df45f502a22a1264e83e18860d16809d0ac78bb3cb61e712b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467557868.jpg?k=b9762f4fd5daafe5770f8441551034b5c25effd5d633b8840ff709f10fa70138&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525142183.jpg?k=e2636315310cec5e340ea6892bcaf0f794990977355f540ff4849642e60d7bc4&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Ali Pasha 300 m"
+  - "PIZZA SAVOS 450 m"
+nearbyBeaches:
+  - "Sarande Main Beach 900 m"
+  - "Saranda City Beach 1.1 km"
+  - "Saranda Bay Beach 1.5 km"
+  - "La Petite Beach 1.7 km"
+  - "Maestral Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 3.1 km"
+  - "Butrint National Park 3.9 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Katarina"
+    country: "Slovakia"
+    text: "“The apartment has a very good location. And offers very nice view. The owners are very nice. The apartment is very well equipped and we liked our stay a lot! They even have a pool! :)”"
+  - name: "Jana"
+    country: "United Kingdom"
+    text: "“The owner of property welcome us so friendly people. clean nice cozy room with big balcony mini kitchen in room so nice and relax place to stay”"
+  - name: "Aimen"
+    country: "Belgium"
+    text: "“The modern rooms, with excelent beds and kitchens, excelent bathroom with led mirrors and ventilation, the breathtaking seaview, perfect location (5mins to the central beaches, 15min with the car to ksamil, and the warm welcoming from the owner of...”"
+bookingURL: "https://www.booking.com/hotel/al/vila-sadiku.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Apartments Sadiku stands out for its well-appointed family rooms, each boasting modern amenities such as air conditioning, heating, and a flat-screen TV for a truly homely experience. The inclusion of a private bathroom in every unit adds to the convenience, ensuring a comfortable stay.
 
 For those who appreciate the outdoors, the property features a tranquil garden, perfect for unwinding after a day of exploration. Whether it's lounging on the terrace or enjoying the seating area, guests have ample opportunity to relax in style.
 

@@ -1,4 +1,85 @@
----\ntitle: "Apartments Romario"\ndescription: "Apartments Romario stands as a prime choice for travelers seeking comfort and convenience mere steps from the sandy shores of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340328570.jpg?k=60f651cd44e69f9733517605089ba899f42497caf3e1d25832b7adb114ee44e3&o=&hp=1"\nlanguage: en\nslug: apartments-romario\naddress: "Rr. per Butrint, Bukovilet, 9999 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86254923\n  lng: 20.01834244\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 259\nratings:\n  overall: 9\n  location: 9.3\n  cleanliness: 9.3\n  facilities: 8.6\n  value: 9.1\n  comfort: 9.3\n  staff: 9.8\n  wifi: 7.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340328570.jpg?k=60f651cd44e69f9733517605089ba899f42497caf3e1d25832b7adb114ee44e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340064362.jpg?k=9fe0439226d24815358bee0fe73c8c687f0a082d484b7cec9bca751f20512420&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427711622.jpg?k=2a8b9124a4de6c8a006eed17c652f3e18d7269b59a29bbd15646af79cde1506f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446954805.jpg?k=f6e92dc4740bc743467d4605b677f31ef76dd75527e16f541c9a0512bbd582f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205896161.jpg?k=33b3be7e6589e36b2148b545de651e5c01cdba87b83199dc008759b3d9e621e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205895748.jpg?k=9f321e37a3626b1aef507d5d2de5b1e59a0008b0ba19af9b49c92b588ea234a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297804.jpg?k=bbe36b2c6c4bc236367c3f0866dbed440e24376d6091e31b7b6ee73d89d4dadf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297767.jpg?k=c7360fe6956386ef664703390fe2e08addc8474b6d231dd1fb45e9a8de5725c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339813808.jpg?k=b48937db0de0dad3bd3354f7603ec8811fe3c700f6de0ade571363e0afc7bece&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\nnearbyRestaurants:\n  - "Gelateria Gusto 40 m"\n  - "Blu Blu Gourmet 50 m"\nnearbyBeaches:\n  - "VIP Beach 400 m"\n  - "Santa Quaranta Beach 450 m"\n  - "Maestral Beach 450 m"\n  - "La Petite Beach 700 m"\n  - "Flamingo Beach 700 m"\nwhatsNearby:\n  - "Parc National de Butrint 700 m"\n  - "Butrint National Park 1.5 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Charlotte"\n    country: "Sweden"\n    text: "“Most of all we loved the hosts! Romario and his mom are absolutely wonderful. Super friendly and very accommodating. The view was awesome. Great beach is located nearby and also a good priced super market. We loved the apartment and we will...”"\n  - name: "Rajiv"\n    country: "United Kingdom"\n    text: "“The hosts were incredibly friendly and made our stay a memorable one. The facilities are superb and would recommend to anyone who intends to stay in Sarande. If you need any help during your stay just speak to Romario an extremely friendly person”"\n  - name: "Emma"\n    country: "United Kingdom"\n    text: "“Beautiful views, amazing hosts who are very friendly ! Lots of car parking . Romario gives great advice on places to visit / restaurants etc !”"\nbookingURL: "https://www.booking.com/hotel/al/apartments-romario.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe charm of Apartments Romario is further enhanced by its seasonal swimming pool, filled with natural sea water, providing a refreshing escape under the sun. Accommodations vary, catering to diverse needs and preferences. Guests can choose from units equipped with essential amenities such as a television and refrigerator, to those offering the added convenience of a fully equipped kitchenette, complete with a stovetop and kitchenware, perfect for those who enjoy preparing their meals.
+---
+title: "Apartments Romario"
+description: "Apartments Romario stands as a prime choice for travelers seeking comfort and convenience mere steps from the sandy shores of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340328570.jpg?k=60f651cd44e69f9733517605089ba899f42497caf3e1d25832b7adb114ee44e3&o=&hp=1"
+language: en
+slug: apartments-romario
+address: "Rr. per Butrint, Bukovilet, 9999 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86254923
+  lng: 20.01834244
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 259
+ratings:
+  overall: 9
+  location: 9.3
+  cleanliness: 9.3
+  facilities: 8.6
+  value: 9.1
+  comfort: 9.3
+  staff: 9.8
+  wifi: 7.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340328570.jpg?k=60f651cd44e69f9733517605089ba899f42497caf3e1d25832b7adb114ee44e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340064362.jpg?k=9fe0439226d24815358bee0fe73c8c687f0a082d484b7cec9bca751f20512420&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427711622.jpg?k=2a8b9124a4de6c8a006eed17c652f3e18d7269b59a29bbd15646af79cde1506f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446954805.jpg?k=f6e92dc4740bc743467d4605b677f31ef76dd75527e16f541c9a0512bbd582f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205896161.jpg?k=33b3be7e6589e36b2148b545de651e5c01cdba87b83199dc008759b3d9e621e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205895748.jpg?k=9f321e37a3626b1aef507d5d2de5b1e59a0008b0ba19af9b49c92b588ea234a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297804.jpg?k=bbe36b2c6c4bc236367c3f0866dbed440e24376d6091e31b7b6ee73d89d4dadf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297767.jpg?k=c7360fe6956386ef664703390fe2e08addc8474b6d231dd1fb45e9a8de5725c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339813808.jpg?k=b48937db0de0dad3bd3354f7603ec8811fe3c700f6de0ade571363e0afc7bece&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+  - "Bar"
+nearbyRestaurants:
+  - "Gelateria Gusto 40 m"
+  - "Blu Blu Gourmet 50 m"
+nearbyBeaches:
+  - "VIP Beach 400 m"
+  - "Santa Quaranta Beach 450 m"
+  - "Maestral Beach 450 m"
+  - "La Petite Beach 700 m"
+  - "Flamingo Beach 700 m"
+whatsNearby:
+  - "Parc National de Butrint 700 m"
+  - "Butrint National Park 1.5 km"
+  - "Plazhi I Krorezes 7 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 11 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Charlotte"
+    country: "Sweden"
+    text: "“Most of all we loved the hosts! Romario and his mom are absolutely wonderful. Super friendly and very accommodating. The view was awesome. Great beach is located nearby and also a good priced super market. We loved the apartment and we will...”"
+  - name: "Rajiv"
+    country: "United Kingdom"
+    text: "“The hosts were incredibly friendly and made our stay a memorable one. The facilities are superb and would recommend to anyone who intends to stay in Sarande. If you need any help during your stay just speak to Romario an extremely friendly person”"
+  - name: "Emma"
+    country: "United Kingdom"
+    text: "“Beautiful views, amazing hosts who are very friendly ! Lots of car parking . Romario gives great advice on places to visit / restaurants etc !”"
+bookingURL: "https://www.booking.com/hotel/al/apartments-romario.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The charm of Apartments Romario is further enhanced by its seasonal swimming pool, filled with natural sea water, providing a refreshing escape under the sun. Accommodations vary, catering to diverse needs and preferences. Guests can choose from units equipped with essential amenities such as a television and refrigerator, to those offering the added convenience of a fully equipped kitchenette, complete with a stovetop and kitchenware, perfect for those who enjoy preparing their meals.
 
 Privacy and comfort are paramount, with each unit boasting a private bathroom featuring an open shower design. Select accommodations also offer the luxury of a sea view, allowing guests to wake up to the serene sight of the ocean's expanse.
 

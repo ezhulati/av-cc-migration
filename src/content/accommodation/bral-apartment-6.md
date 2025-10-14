@@ -1,4 +1,94 @@
----\ntitle: "Bral Apartment 6"\ndescription: "Bral Apartment 6 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\nlanguage: en\nslug: bral-apartment-6\naddress: "Rruga Agaveve, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30765867\n  lng: 19.48727575\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 48\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.1\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.1\n  staff: 9.7\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Good free WiFi (29 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Bar Turisti 30 m"\n  - "Kb Kraja 50 m"\nnearbyBeaches:\n  - "Durres Beach 9 m"\n  - "Shkëmbi i Kavajës Beach 3 km"\n  - "Currila Beach 3.3 km"\n  - "Kallmi Beach 4.7 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.4 km"\n  - "Wine Dhe Pooh 3.3 km"\n  - "Sheshi Demokracia 3.4 km"\n  - "Yje Dhe Hena 3.5 km"\n  - "Durres Amphiteatre 3.6 km"\n  - "Sotir Noka 3.7 km"\n  - "1. Maj 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Krzysztof"\n    country: "Poland"\n    text: "“Top location, nice view, helpful host! Clean and easy to Cook apartment.”"\n  - name: "Emiliano"\n    country: "Albania"\n    text: "“The sea view in the apartament and the apartament was very goog in general!”"\n  - name: "Carmen"\n    country: "France"\n    text: "“This is a really great apartment with a beautiful view of the sea. The balcony was just amazing. The apartment is fully equipped with everything you need and was very clean. I would have loved to stay longer! Highly recommend.”"\nbookingURL: "https://www.booking.com/hotel/al/bral-apartment-6.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious retreat, offering a terrace with stunning sea views. It features a well-appointed bedroom, a cozy living room with a flat-screen TV, and a fully equipped kitchen complete with an oven and microwave. The bathroom includes a walk-in shower, enhancing the comfort of your stay. Upon arrival, guests are welcomed into their private haven with delightful chocolates or cookies, adding a personal touch to the experience. Additionally, the provision of bed linen, towels, and laundry service underscores the apartment's commitment to convenience.
+---
+title: "Bral Apartment 6"
+description: "Bral Apartment 6 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+language: en
+slug: bral-apartment-6
+address: "Rruga Agaveve, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30765867
+  lng: 19.48727575
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 48
+ratings:
+  overall: 9.4
+  location: 9.7
+  cleanliness: 9.1
+  facilities: 9.2
+  value: 9.5
+  comfort: 9.1
+  staff: 9.7
+  wifi: 9.6
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"
+  - "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Good free WiFi (29 Mbps)"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Bar Turisti 30 m"
+  - "Kb Kraja 50 m"
+nearbyBeaches:
+  - "Durres Beach 9 m"
+  - "Shkëmbi i Kavajës Beach 3 km"
+  - "Currila Beach 3.3 km"
+  - "Kallmi Beach 4.7 km"
+  - "Golem Beach 5 km"
+whatsNearby:
+  - "Bekimi 2.4 km"
+  - "Wine Dhe Pooh 3.3 km"
+  - "Sheshi Demokracia 3.4 km"
+  - "Yje Dhe Hena 3.5 km"
+  - "Durres Amphiteatre 3.6 km"
+  - "Sotir Noka 3.7 km"
+  - "1. Maj 3.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Krzysztof"
+    country: "Poland"
+    text: "“Top location, nice view, helpful host! Clean and easy to Cook apartment.”"
+  - name: "Emiliano"
+    country: "Albania"
+    text: "“The sea view in the apartament and the apartament was very goog in general!”"
+  - name: "Carmen"
+    country: "France"
+    text: "“This is a really great apartment with a beautiful view of the sea. The balcony was just amazing. The apartment is fully equipped with everything you need and was very clean. I would have loved to stay longer! Highly recommend.”"
+bookingURL: "https://www.booking.com/hotel/al/bral-apartment-6.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious retreat, offering a terrace with stunning sea views. It features a well-appointed bedroom, a cozy living room with a flat-screen TV, and a fully equipped kitchen complete with an oven and microwave. The bathroom includes a walk-in shower, enhancing the comfort of your stay. Upon arrival, guests are welcomed into their private haven with delightful chocolates or cookies, adding a personal touch to the experience. Additionally, the provision of bed linen, towels, and laundry service underscores the apartment's commitment to convenience.
 
 For those looking to unwind, an on-site bar serves as the perfect spot to relax. The location is a haven for fishing enthusiasts, and with car hire available directly from the apartment, exploring the surrounding area is effortless. Adventure seekers can engage in snorkeling, diving, and cycling, with bicycle rental services readily available for an immersive exploration of Durrës.
 

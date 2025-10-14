@@ -1,4 +1,89 @@
----\ntitle: "Blue Paradise Hotel"\ndescription: "Blue Paradise Hotel emerges as a prime choice for travelers seeking a serene beachfront escape in the heart of Orikum, Vlorë County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492354204.jpg?k=c5e8cd1d3e4ebdcde5168379482a7c1dd63c2bbb79be7e9871724b7fa5a70847&o=&hp=1"\nlanguage: en\nslug: blue-paradise-hotel\naddress: "Rruga Pashaliman S/N, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.3370864\n  lng: 19.46993599\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 292\nratings:\n  overall: 9\n  location: 9.3\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9\n  comfort: 9.2\n  staff: 9.3\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492354204.jpg?k=c5e8cd1d3e4ebdcde5168379482a7c1dd63c2bbb79be7e9871724b7fa5a70847&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349775646.jpg?k=f4a25ff0621544e3ce3c2a299b9a01ca62dbefc0980ae21789e40005e49bc5c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349775381.jpg?k=adf50a3a6eb60ef2dcda18c71cf6885140236c60e16223d2ecf6100062638a37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492351401.jpg?k=f84dfbd0e1ff4941972f001d2ebf859f14183fcf270a1ebe0263e522f96562b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356775711.jpg?k=797f386d7e74acc202ed6038f1b8b6669301fad750eeacf82209d23c7d2ca7d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491961163.jpg?k=88a560e2799a03953176e101544b23f574b3cf90c64bea7f4e8d6ac802334e56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161255300.jpg?k=96fe38b09274003a25a49b00ba3ed2f598bd033a540b4e3b757571ba47ec0e9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492353756.jpg?k=baf8adae9b7442ce49458dd82bad7a41258920104e9d4bf87b29f37dacf64907&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349775830.jpg?k=15c3508b94d02df4deb934bbaf0e64d66de30ebe8dbcef7af8abb9a163e0f16e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nnearbyRestaurants:\n  - "Pulebardha 2 30 m"\n  - "Fish House 300 m"\nnearbyBeaches:\n  - "Nettuno Beach 10 m"\n  - "Baro Beach 800 m"\n  - "Orikum Beach 1.4 km"\n  - "Al Breeze Beach 1.5 km"\n  - "Radhimë Beach 2.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 11 km"\n  - "Llogora National Park 14 km"\n  - "Kuzum Baba 15 km"\n  - "Independence Square 15 km"\nairports:\n  - "Corfu International Airport 89 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Gabriela"\n    country: "Czech Republic"\n    text: "“Fair to mention, that we were here by the very end of the season, when in Albania were not many tourists and lots of places were closed already. We stayed in Blue Paradise 2+1 nights with my friend and really appreciated this already quiet,...”"\n  - name: "Stephstays"\n    country: "Australia"\n    text: "“The family was very friendly and helpful. Rooms were clean. Meals were fresh and tasty, especially breakfast.”"\n  - name: "Jordan"\n    country: "United Kingdom"\n    text: "“The staff were super nice. Very accommodating to our needs with our 2 year old son. We loved getting up and having breakfast looking over the beach and then straight onto a sun bed.”"\nbookingURL: "https://www.booking.com/hotel/al/blue-paradise.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Blue Paradise Hotel are designed with comfort and relaxation in mind. Each air-conditioned room is equipped with a flat-screen TV, ensuring entertainment is always within reach. For added convenience, select rooms boast a cozy seating area, perfect for unwinding after a day of exploration. The en-suite bathrooms, complete with showers and bidets, are stocked with plush bathrobes, adding a touch of luxury to the guest experience.
+---
+title: "Blue Paradise Hotel"
+description: "Blue Paradise Hotel emerges as a prime choice for travelers seeking a serene beachfront escape in the heart of Orikum, Vlorë County."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492354204.jpg?k=c5e8cd1d3e4ebdcde5168379482a7c1dd63c2bbb79be7e9871724b7fa5a70847&o=&hp=1"
+language: en
+slug: blue-paradise-hotel
+address: "Rruga Pashaliman S/N, 9426 Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.3370864
+  lng: 19.46993599
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 292
+ratings:
+  overall: 9
+  location: 9.3
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9
+  comfort: 9.2
+  staff: 9.3
+  wifi: 8.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492354204.jpg?k=c5e8cd1d3e4ebdcde5168379482a7c1dd63c2bbb79be7e9871724b7fa5a70847&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349775646.jpg?k=f4a25ff0621544e3ce3c2a299b9a01ca62dbefc0980ae21789e40005e49bc5c4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349775381.jpg?k=adf50a3a6eb60ef2dcda18c71cf6885140236c60e16223d2ecf6100062638a37&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492351401.jpg?k=f84dfbd0e1ff4941972f001d2ebf859f14183fcf270a1ebe0263e522f96562b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356775711.jpg?k=797f386d7e74acc202ed6038f1b8b6669301fad750eeacf82209d23c7d2ca7d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491961163.jpg?k=88a560e2799a03953176e101544b23f574b3cf90c64bea7f4e8d6ac802334e56&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161255300.jpg?k=96fe38b09274003a25a49b00ba3ed2f598bd033a540b4e3b757571ba47ec0e9b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492353756.jpg?k=baf8adae9b7442ce49458dd82bad7a41258920104e9d4bf87b29f37dacf64907&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349775830.jpg?k=15c3508b94d02df4deb934bbaf0e64d66de30ebe8dbcef7af8abb9a163e0f16e&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Good breakfast"
+nearbyRestaurants:
+  - "Pulebardha 2 30 m"
+  - "Fish House 300 m"
+nearbyBeaches:
+  - "Nettuno Beach 10 m"
+  - "Baro Beach 800 m"
+  - "Orikum Beach 1.4 km"
+  - "Al Breeze Beach 1.5 km"
+  - "Radhimë Beach 2.1 km"
+whatsNearby:
+  - "Scooby Doo Vlore 11 km"
+  - "Llogora National Park 14 km"
+  - "Kuzum Baba 15 km"
+  - "Independence Square 15 km"
+airports:
+  - "Corfu International Airport 89 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Gabriela"
+    country: "Czech Republic"
+    text: "“Fair to mention, that we were here by the very end of the season, when in Albania were not many tourists and lots of places were closed already. We stayed in Blue Paradise 2+1 nights with my friend and really appreciated this already quiet,...”"
+  - name: "Stephstays"
+    country: "Australia"
+    text: "“The family was very friendly and helpful. Rooms were clean. Meals were fresh and tasty, especially breakfast.”"
+  - name: "Jordan"
+    country: "United Kingdom"
+    text: "“The staff were super nice. Very accommodating to our needs with our 2 year old son. We loved getting up and having breakfast looking over the beach and then straight onto a sun bed.”"
+bookingURL: "https://www.booking.com/hotel/al/blue-paradise.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Blue Paradise Hotel are designed with comfort and relaxation in mind. Each air-conditioned room is equipped with a flat-screen TV, ensuring entertainment is always within reach. For added convenience, select rooms boast a cozy seating area, perfect for unwinding after a day of exploration. The en-suite bathrooms, complete with showers and bidets, are stocked with plush bathrobes, adding a touch of luxury to the guest experience.
 
 Culinary enthusiasts will delight in the hotel's on-site restaurant, where a selection of Italian dishes awaits to tantalize the taste buds. The adjacent bar serves as an ideal spot for sipping cocktails while soaking in the picturesque surroundings.
 

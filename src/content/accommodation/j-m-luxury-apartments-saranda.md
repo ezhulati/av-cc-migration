@@ -1,4 +1,86 @@
----\ntitle: "J&M Luxury Apartments Saranda"\ndescription: "J&M Luxury Apartments Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\nlanguage: en\nslug: j-m-luxury-apartments-saranda\naddress: "Rruga Flamurit Rruga Skenderbeu, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87429844\n  lng: 20.00941605\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 36\nratings:\n  overall: 9.3\n  location: 9.7\n  cleanliness: 9.2\n  facilities: 9.3\n  value: 9.4\n  comfort: 9.3\n  staff: 9.7\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/mx/beb2813a4211bb22527df3e87626a35484321621.png"\n  - "https://lh3.googleusercontent.com/a/AGNmyxYBHfnxwqVRns2R0qVpqvd4yvQ6QXrxXLDnqY32=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/ae/18f09dc466538137aafc7d41018ea00e17497a27.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://graph.facebook.com/v2.9/5374620909243894/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/ba/1346a9a31183bd81c10f302541394fc415271bef.png"\n  - "https://lh3.googleusercontent.com/a/AGNmyxZEUiafXgp6q5TAzyahfuM3syOw5sd4hPdjQ7j3=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14GgNboLMlRdO9rDCqT24ktF8x6gDBKeyjj3ltP_bvA=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "21 Bar 30 m"\n  - "Black light 40 m"\nnearbyBeaches:\n  - "Saranda City Beach 50 m"\n  - "La Petite Beach 750 m"\n  - "Sarande Main Beach 800 m"\n  - "Maestral Beach 950 m"\n  - "VIP Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.2 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Silvina"\n    country: "Mexico"\n    text: "“The apartment looks exactly like the photographs. Everything was working perfectly. Its one block from the water so you can walk everywhere, bars, restaurants, grocery’s store. Definitely will stay here again”"\n  - name: "Nisarg"\n    country: "United Arab Emirates"\n    text: "“Aldo was wonderful with all the support. He recommended to shift to the hotel apartment which was bigger and also included Breakfast for us at the Star Hotel. thank you for the gesture. we had a great stay.”"\n  - name: "Lirim"\n    country: "United Kingdom"\n    text: "“the apartment was super clean in a super location, it was in the center of the city and 2 minutes from the sea”"\nbookingURL: "https://www.booking.com/hotel/al/j-amp-m-luxury-apartments-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are greeted with the luxury of privacy and ease, thanks to private entrances to each apartment, ensuring a seamless experience from arrival to departure. The pet-friendly policy further elevates the appeal, making it an inclusive option for all members of the family, furry ones included. Connectivity is never an issue, with complimentary WiFi available throughout the premises.
+---
+title: "J&M Luxury Apartments Saranda"
+description: "J&M Luxury Apartments Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+language: en
+slug: j-m-luxury-apartments-saranda
+address: "Rruga Flamurit Rruga Skenderbeu, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87429844
+  lng: 20.00941605
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 36
+ratings:
+  overall: 9.3
+  location: 9.7
+  cleanliness: 9.2
+  facilities: 9.3
+  value: 9.4
+  comfort: 9.3
+  staff: 9.7
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+  - "https://cf.bstatic.com/static/img/flags/12/mx/beb2813a4211bb22527df3e87626a35484321621.png"
+  - "https://lh3.googleusercontent.com/a/AGNmyxYBHfnxwqVRns2R0qVpqvd4yvQ6QXrxXLDnqY32=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/ae/18f09dc466538137aafc7d41018ea00e17497a27.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://graph.facebook.com/v2.9/5374620909243894/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/ba/1346a9a31183bd81c10f302541394fc415271bef.png"
+  - "https://lh3.googleusercontent.com/a/AGNmyxZEUiafXgp6q5TAzyahfuM3syOw5sd4hPdjQ7j3=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://lh3.googleusercontent.com/a-/AOh14GgNboLMlRdO9rDCqT24ktF8x6gDBKeyjj3ltP_bvA=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "21 Bar 30 m"
+  - "Black light 40 m"
+nearbyBeaches:
+  - "Saranda City Beach 50 m"
+  - "La Petite Beach 750 m"
+  - "Sarande Main Beach 800 m"
+  - "Maestral Beach 950 m"
+  - "VIP Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 2.2 km"
+  - "Butrint National Park 3 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Silvina"
+    country: "Mexico"
+    text: "“The apartment looks exactly like the photographs. Everything was working perfectly. Its one block from the water so you can walk everywhere, bars, restaurants, grocery’s store. Definitely will stay here again”"
+  - name: "Nisarg"
+    country: "United Arab Emirates"
+    text: "“Aldo was wonderful with all the support. He recommended to shift to the hotel apartment which was bigger and also included Breakfast for us at the Star Hotel. thank you for the gesture. we had a great stay.”"
+  - name: "Lirim"
+    country: "United Kingdom"
+    text: "“the apartment was super clean in a super location, it was in the center of the city and 2 minutes from the sea”"
+bookingURL: "https://www.booking.com/hotel/al/j-amp-m-luxury-apartments-saranda.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are greeted with the luxury of privacy and ease, thanks to private entrances to each apartment, ensuring a seamless experience from arrival to departure. The pet-friendly policy further elevates the appeal, making it an inclusive option for all members of the family, furry ones included. Connectivity is never an issue, with complimentary WiFi available throughout the premises.
 
 The apartments themselves are a testament to thoughtful design and functionality. Air-conditioned spaces equipped with modern necessities such as a desk, kettle, dishwasher, oven, and safety deposit box ensure a stay that lacks for nothing. Entertainment and relaxation are guaranteed with the inclusion of a flat-screen TV and a private bathroom featuring a walk-in shower. The charm of home is replicated with a dining area and a fully equipped kitchen, complete with a toaster, fridge, and stovetop. The provision of bed linen and towels adds a touch of convenience, making for a hassle-free stay.
 

@@ -1,4 +1,85 @@
----\ntitle: "Vila Sofia - Guest House"\ndescription: "Vila Sofia - Guest House emerges as a serene retreat in Memaliaj, offering a blend of comfort, security, and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443215312.jpg?k=f21c7a127833062f58461e31b048225a32f335d4f23fabf51a9a5de40ab9b6cb&o=&hp=1"\nlanguage: en\nslug: vila-sofia-guest-house\naddress: "Gllava Village, 6302 Memaliaj, Albania"\ncity: "Memaliaj"\nlocation: "Memaliaj"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.48627111\n  lng: 19.96295365\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 126\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.7\n  comfort: 9.5\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443215312.jpg?k=f21c7a127833062f58461e31b048225a32f335d4f23fabf51a9a5de40ab9b6cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494828839.jpg?k=123678a5c696fcf9677a502a2282e9e8df1ca06267f0dbde53e2c0ec5ac840b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265678293.jpg?k=9b81629253aa5788a28b74c96cd78fb3dd09e310982a78782cadc396499ed025&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494829354.jpg?k=69d0acba094e9a632963da6b608b3709bdc7579538e3ed243da73301b96e7fc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281870468.jpg?k=f27082964b9e663fc5bf61fe35b82412872082f0a28c7b2be0f7a56d3fe1d689&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302287132.jpg?k=255c1403fb0c47a3b6c875cde338333a3a722912446d6d33223d44aafa7130f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302286957.jpg?k=fea21331ddd244b53e94397564695f131d93afe6463caa7fef35a947496edaf3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281870448.jpg?k=72478bfd13351c068a54c0067249f4b57bb93cb49d0db8038b871ea3bb44b8ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494816702.jpg?k=5fc1117859e1d7b212abe9fdf048e3d869f7b1e48f0240e3bb28e9e0d50b1fef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871959.jpg?k=3ccdd8edc99f7c164e890df5bbd250cf1d6e8c98cf50310e5de7dc099eed8698&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871956.jpg?k=98aaae602df67e4eca80cd19e6ffe1a9f5a7c5636bb5bd10c82f88c8fb00728f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281870525.jpg?k=938d5709458d15fd5e9a54034e68ea0a90ef35c8a14bd8eaf8396887789c30f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871454.jpg?k=73fa3aa3aa8878b922e8b89ffecbb448acea469b631e81dd31e0d97781964647&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871388.jpg?k=944decabeac93d903d5e8301d40bb69f6cd88b4fee1a35303d77be9881ccfb3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265682387.jpg?k=606b65b5787af159262bd58e766f7d23823f90401ff78b903f9e042ba4b69c57&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Double or Twin Room with Mountain View"\nnearbyRestaurants:\n  - "Restorant Alonso 6 km"\n  - "Restrorant Gjoni 11 km"\nwhatsNearby:\n  - "Sheshi Tomorri 18 km"\n  - "Tomorr Mountain National Park 20 km"\nairports:\n  - "Corfu International Airport 97 km"\nreviews:\n  - name: "Orsiel"\n    country: "Albania"\n    text: "“I visited with my friends there, we had the best service in the whole Albania. My foreign friends were really impressed with the service and the understanding. Thanks for everything”"\n  - name: "Van"\n    country: "Belgium"\n    text: "“Everything was perfect for our stop in the mountains, the diner and breakfast and the coffee were great. The staff was very friendly ans entertaining. The room was very clean and comfortable. The bed/matrass was the best of our 5 stays in Albania!...”"\n  - name: "Paul"\n    country: "United Kingdom"\n    text: "“I great get away in the mountains and the hosts tried their best to accommodate me without a car! The drive up and down itself is an adventure.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-sofia-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nSecurity is paramount at Vila Sofia, ensuring peace of mind for all guests throughout their stay. Culinary enthusiasts will appreciate the on-site restaurant that specializes in Mediterranean cuisine, complemented by the convenience of complimentary private parking.
+---
+title: "Vila Sofia - Guest House"
+description: "Vila Sofia - Guest House emerges as a serene retreat in Memaliaj, offering a blend of comfort, security, and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443215312.jpg?k=f21c7a127833062f58461e31b048225a32f335d4f23fabf51a9a5de40ab9b6cb&o=&hp=1"
+language: en
+slug: vila-sofia-guest-house
+address: "Gllava Village, 6302 Memaliaj, Albania"
+city: "Memaliaj"
+location: "Memaliaj"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.48627111
+  lng: 19.96295365
+price: "US$34"
+priceFrom: 34
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 126
+ratings:
+  overall: 9.5
+  location: 9.2
+  cleanliness: 9.5
+  facilities: 9.2
+  value: 9.7
+  comfort: 9.5
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443215312.jpg?k=f21c7a127833062f58461e31b048225a32f335d4f23fabf51a9a5de40ab9b6cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494828839.jpg?k=123678a5c696fcf9677a502a2282e9e8df1ca06267f0dbde53e2c0ec5ac840b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265678293.jpg?k=9b81629253aa5788a28b74c96cd78fb3dd09e310982a78782cadc396499ed025&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494829354.jpg?k=69d0acba094e9a632963da6b608b3709bdc7579538e3ed243da73301b96e7fc6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281870468.jpg?k=f27082964b9e663fc5bf61fe35b82412872082f0a28c7b2be0f7a56d3fe1d689&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302287132.jpg?k=255c1403fb0c47a3b6c875cde338333a3a722912446d6d33223d44aafa7130f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302286957.jpg?k=fea21331ddd244b53e94397564695f131d93afe6463caa7fef35a947496edaf3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281870448.jpg?k=72478bfd13351c068a54c0067249f4b57bb93cb49d0db8038b871ea3bb44b8ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494816702.jpg?k=5fc1117859e1d7b212abe9fdf048e3d869f7b1e48f0240e3bb28e9e0d50b1fef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871959.jpg?k=3ccdd8edc99f7c164e890df5bbd250cf1d6e8c98cf50310e5de7dc099eed8698&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871956.jpg?k=98aaae602df67e4eca80cd19e6ffe1a9f5a7c5636bb5bd10c82f88c8fb00728f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281870525.jpg?k=938d5709458d15fd5e9a54034e68ea0a90ef35c8a14bd8eaf8396887789c30f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871454.jpg?k=73fa3aa3aa8878b922e8b89ffecbb448acea469b631e81dd31e0d97781964647&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281871388.jpg?k=944decabeac93d903d5e8301d40bb69f6cd88b4fee1a35303d77be9881ccfb3e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265682387.jpg?k=606b65b5787af159262bd58e766f7d23823f90401ff78b903f9e042ba4b69c57&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Airport shuttle"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "2 restaurants"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+roomTypes:
+  - "Double or Twin Room with Mountain View"
+nearbyRestaurants:
+  - "Restorant Alonso 6 km"
+  - "Restrorant Gjoni 11 km"
+whatsNearby:
+  - "Sheshi Tomorri 18 km"
+  - "Tomorr Mountain National Park 20 km"
+airports:
+  - "Corfu International Airport 97 km"
+reviews:
+  - name: "Orsiel"
+    country: "Albania"
+    text: "“I visited with my friends there, we had the best service in the whole Albania. My foreign friends were really impressed with the service and the understanding. Thanks for everything”"
+  - name: "Van"
+    country: "Belgium"
+    text: "“Everything was perfect for our stop in the mountains, the diner and breakfast and the coffee were great. The staff was very friendly ans entertaining. The room was very clean and comfortable. The bed/matrass was the best of our 5 stays in Albania!...”"
+  - name: "Paul"
+    country: "United Kingdom"
+    text: "“I great get away in the mountains and the hosts tried their best to accommodate me without a car! The drive up and down itself is an adventure.”"
+bookingURL: "https://www.booking.com/hotel/al/vila-sofia-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Security is paramount at Vila Sofia, ensuring peace of mind for all guests throughout their stay. Culinary enthusiasts will appreciate the on-site restaurant that specializes in Mediterranean cuisine, complemented by the convenience of complimentary private parking.
 
 Accommodations at Vila Sofia are designed with guest comfort in mind, featuring air conditioning, satellite flat-screen TVs, and private bathrooms equipped with modern amenities including a bidet and hair dryer. The availability of free WiFi across the guest house adds to the convenience, with select rooms offering the added luxury of a terrace. For those who enjoy a morning brew or a fresh fruit snack, certain units come equipped with a coffee machine and a selection of fruits.
 

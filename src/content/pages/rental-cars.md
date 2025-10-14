@@ -4,14 +4,11 @@ description: "If you want to fully experience Albania's stunning landscapes and 
 featuredImage: "/images/pages/Driving-Along-the-Albanian-Riviera.jpeg"
 language: en
 slug: rental-cars
-"
 seo:
   canonicalURL: https://albaniavisit.com/rental-cars/
   focusKeyword: "rental cars"
   metaTitle: "Renting a Car in Albania %currentyear% %sep% Everything You Need to Know"
-  metaDescription: "Discover the best car rental deals in Albania for %currentyear%. Our guide covers essential tips, pricing, driving laws, and top routes for an amazing road trip.
-"
-  focusKeyword: "rental cars"
+  metaDescription: "Discover the best car rental deals in Albania for %currentyear%. Our guide covers essential tips, pricing, driving laws, and top routes for an amazing road trip."
 ---
 
 ## A Practical Guide for Tourists

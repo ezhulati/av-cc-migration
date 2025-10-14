@@ -1,4 +1,83 @@
----\ntitle: "City Center 10 - Tirana Way Apartments"\ndescription: "City Center 10 - Tirana Way Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240557.jpg?k=d5c6fd30f9796d1d2123cf3ba34fe388f3db5dac1fe0d59e41d5abca6fe50d48&o=&hp=1"\nlanguage: en\nslug: city-center-10-tirana-way-apartments\naddress: "Bulevardi Zogu I, 1057 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33221087\n  lng: 19.8165428\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 23\nratings:\n  overall: 8.9\n  location: 9.2\n  cleanliness: 8.7\n  facilities: 8.7\n  value: 8.8\n  comfort: 8.8\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240557.jpg?k=d5c6fd30f9796d1d2123cf3ba34fe388f3db5dac1fe0d59e41d5abca6fe50d48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240695.jpg?k=dee81337b012561693dbb59b885a7798c88c939c6ca33821392fe53908ea867d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240712.jpg?k=858d6e55d55a70ada67e488ef9ff0fdf647b499a1d5e2547bfd225c37ac3999a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240691.jpg?k=f8449b560d3bf398449305fcba154ce60942113f4e137ef5a0f3c35e85fee989&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240700.jpg?k=bf16f9727ff4bf0ed7d7b42391cf6e94196907d795b48600aa9f72d0335fcab8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240656.jpg?k=ff5cb171c2609a34e06d81d412cfa286f3bd40c8d7e08022653eb3d660b3181a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240668.jpg?k=65128dab1973df8e375c292fce40f59471ad1afbf585dffeab8eca9fb47511ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240689.jpg?k=281e4a4f7be3ce8f606aab1b68dfe849fbdb2f3442ba54859896c831666a04ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240591.jpg?k=3b9d16e4929d4d8be540bdf255335f290114c498674b283279a27a0a8309c139&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyAttractions:\n  - "Rinia Park 850 m"\n  - "Tanners' Bridge 1 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Fisheria 20 m"\n  - "Go Zip 50 m"\nwhatsNearby:\n  - "Amazing Nature 250 m"\n  - "National Museum of History Albania 300 m"\n  - "Sheshi Paris 350 m"\n  - "Sheshi Skënderbej 450 m"\n  - "Skanderbeg Square 550 m"\n  - "Clock Tower Tirana 550 m"\n  - "Parku Europa 550 m"\n  - "Sheshi Sulejman Pasha 600 m"\n  - "House of Leaves 600 m"\n  - "National Gallery of Arts Tirana 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Renaldo"\n    country: "Albania"\n    text: "“Excellent stay, comfortable and clean space, all appliances available, the host very friendly and the directions precise. 10/10 would recommend!”"\n  - name: "Nimetullah"\n    country: "North Macedonia"\n    text: "“everything was ok , I want to thank the owner about helping me for the money change , I recommend you to choose this Apartmant .”"\n  - name: "In_style85"\n    country: "Austria"\n    text: "“Klein aber sehr praktisch und schön modern eingerichtet.”"\nbookingURL: "https://www.booking.com/hotel/al/city-center-10-tirana-way-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment complex is within easy reach of several of Tirana's most iconic landmarks, including the Clock Tower Tirana, Et'hem Bey Mosque, and the National Gallery of Arts Tirana, ensuring guests are never far from the action. Moreover, the bustling Skanderbeg Square is just 600 meters away, offering a vibrant atmosphere and a glimpse into local life.
+---
+title: "City Center 10 - Tirana Way Apartments"
+description: "City Center 10 - Tirana Way Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240557.jpg?k=d5c6fd30f9796d1d2123cf3ba34fe388f3db5dac1fe0d59e41d5abca6fe50d48&o=&hp=1"
+language: en
+slug: city-center-10-tirana-way-apartments
+address: "Bulevardi Zogu I, 1057 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33221087
+  lng: 19.8165428
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 23
+ratings:
+  overall: 8.9
+  location: 9.2
+  cleanliness: 8.7
+  facilities: 8.7
+  value: 8.8
+  comfort: 8.8
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240557.jpg?k=d5c6fd30f9796d1d2123cf3ba34fe388f3db5dac1fe0d59e41d5abca6fe50d48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240695.jpg?k=dee81337b012561693dbb59b885a7798c88c939c6ca33821392fe53908ea867d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240712.jpg?k=858d6e55d55a70ada67e488ef9ff0fdf647b499a1d5e2547bfd225c37ac3999a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240691.jpg?k=f8449b560d3bf398449305fcba154ce60942113f4e137ef5a0f3c35e85fee989&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240700.jpg?k=bf16f9727ff4bf0ed7d7b42391cf6e94196907d795b48600aa9f72d0335fcab8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240656.jpg?k=ff5cb171c2609a34e06d81d412cfa286f3bd40c8d7e08022653eb3d660b3181a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240668.jpg?k=65128dab1973df8e375c292fce40f59471ad1afbf585dffeab8eca9fb47511ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240689.jpg?k=281e4a4f7be3ce8f606aab1b68dfe849fbdb2f3442ba54859896c831666a04ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423240591.jpg?k=3b9d16e4929d4d8be540bdf255335f290114c498674b283279a27a0a8309c139&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyAttractions:
+  - "Rinia Park 850 m"
+  - "Tanners' Bridge 1 km"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.4 km"
+  - "Bunk'Art 1 Museum 4.2 km"
+nearbyRestaurants:
+  - "Fisheria 20 m"
+  - "Go Zip 50 m"
+whatsNearby:
+  - "Amazing Nature 250 m"
+  - "National Museum of History Albania 300 m"
+  - "Sheshi Paris 350 m"
+  - "Sheshi Skënderbej 450 m"
+  - "Skanderbeg Square 550 m"
+  - "Clock Tower Tirana 550 m"
+  - "Parku Europa 550 m"
+  - "Sheshi Sulejman Pasha 600 m"
+  - "House of Leaves 600 m"
+  - "National Gallery of Arts Tirana 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Renaldo"
+    country: "Albania"
+    text: "“Excellent stay, comfortable and clean space, all appliances available, the host very friendly and the directions precise. 10/10 would recommend!”"
+  - name: "Nimetullah"
+    country: "North Macedonia"
+    text: "“everything was ok , I want to thank the owner about helping me for the money change , I recommend you to choose this Apartmant .”"
+  - name: "In_style85"
+    country: "Austria"
+    text: "“Klein aber sehr praktisch und schön modern eingerichtet.”"
+bookingURL: "https://www.booking.com/hotel/al/city-center-10-tirana-way-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment complex is within easy reach of several of Tirana's most iconic landmarks, including the Clock Tower Tirana, Et'hem Bey Mosque, and the National Gallery of Arts Tirana, ensuring guests are never far from the action. Moreover, the bustling Skanderbeg Square is just 600 meters away, offering a vibrant atmosphere and a glimpse into local life.
 
 Guests are welcomed into a thoughtfully appointed apartment, featuring one bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, making it easy to unwind after a day of exploration. The entire property is a smoke-free zone, ensuring a pleasant environment for all guests.
 

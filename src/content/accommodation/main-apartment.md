@@ -1,4 +1,92 @@
----\ntitle: "MAin Apartment"\ndescription: "MAin Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288230.jpg?k=3e4a0e11c107d6bdffeb3374399816b1859f8ca3d8f014610dce3dfabe316f50&o=&hp=1"\nlanguage: en\nslug: main-apartment\naddress: "Bulevardi Gjergj Fishta, 1023 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32070832\n  lng: 19.79700912\nprice: "US$28"\npriceFrom: 28\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 45\nratings:\n  overall: 8.6\n  location: 9.1\n  cleanliness: 7.9\n  facilities: 8.1\n  value: 8.9\n  comfort: 8.4\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288230.jpg?k=3e4a0e11c107d6bdffeb3374399816b1859f8ca3d8f014610dce3dfabe316f50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288244.jpg?k=a8954f9404ebddb684d416316f9b3b7e16252717775a4aece602fe7cdeca19c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379007951.jpg?k=788fbe1fbbccb010ecf2730cbb47cb5a73675a5fd7fefa4534f2ac6706453d8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379007903.jpg?k=5355584ec7348717354eb655f39c0e5978c3467fbd738870b5ebe440780ad500&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379005690.jpg?k=063075213a7d4c60c2438edf1c2ca4c326cad38ab209ca07f5014a4a3287100b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379008125.jpg?k=2da006c5a5d096ae2e147e73fa99e6a5361e59d41859af3b43c2ce5695cf01f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288304.jpg?k=4c3f9ed3a2fcaedf752b333ca0251386227228ab3d90cfc1636bf2ac87e3d99a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379005707.jpg?k=d55ea3efa0eeb6d601bfec7cf79d2c2ba42d56e182f5ab171bf22c230c8d0872&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379005784.jpg?k=42c1256b6283acf9ef126094418f78804e6710e801d65dc269f9c4cdb919cf1f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.7 km"\n  - "House of Leaves 1.8 km"\n  - "Rinia Park 1.8 km"\n  - "National Museum of History Albania 2 km"\n  - "Skanderbeg Square 2 km"\n  - "Clock Tower Tirana 2.1 km"\n  - "National Gallery of Arts Tirana 2.1 km"\n  - "Tanners' Bridge 2.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Dionisi 50 m"\n  - "Yogurteria 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Bajram Curri 20 m"\n  - "Sheshi Rekreativ Sali Butka 300 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 400 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 450 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 500 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 750 m"\n  - "Sheshi Rekreativ Komuna e Parisit 950 m"\n  - "Sheshi Rekreativ Parku 1Km 1.1 km"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.1 km"\n  - "Sheshi Rekreativ Mine Peza 1.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Keepitreal"\n    country: "Albania"\n    text: "“One of the best and most comfortable apartments I have ever seen, very clean, the balcony was huge and the view was perfect and we felt very welcome (very nice people)”"\n  - name: "Ilknur"\n    country: "Greece"\n    text: "“It was so lovely and big apartment,it was airy. The location was pretty central.”"\n  - name: "Marcos"\n    country: "Spain"\n    text: "“The location is perfect ! , lots of restaurants around”"\nbookingURL: "https://www.booking.com/hotel/al/guest-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe interior of MAin Apartment is thoughtfully designed to maximize comfort and space. Guests will find themselves at home in a generously sized apartment that boasts a terrace for outdoor relaxation, a cozy bedroom for restful nights, a welcoming living room for leisurely downtime, and a well-appointed kitchen for culinary adventures. The commitment to a non-smoking environment further enhances the quality of stay, making it a suitable choice for families and health-conscious travelers alike.
+---
+title: "MAin Apartment"
+description: "MAin Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288230.jpg?k=3e4a0e11c107d6bdffeb3374399816b1859f8ca3d8f014610dce3dfabe316f50&o=&hp=1"
+language: en
+slug: main-apartment
+address: "Bulevardi Gjergj Fishta, 1023 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32070832
+  lng: 19.79700912
+price: "US$28"
+priceFrom: 28
+starRating: 3
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 45
+ratings:
+  overall: 8.6
+  location: 9.1
+  cleanliness: 7.9
+  facilities: 8.1
+  value: 8.9
+  comfort: 8.4
+  staff: 9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288230.jpg?k=3e4a0e11c107d6bdffeb3374399816b1859f8ca3d8f014610dce3dfabe316f50&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288244.jpg?k=a8954f9404ebddb684d416316f9b3b7e16252717775a4aece602fe7cdeca19c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379007951.jpg?k=788fbe1fbbccb010ecf2730cbb47cb5a73675a5fd7fefa4534f2ac6706453d8e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379007903.jpg?k=5355584ec7348717354eb655f39c0e5978c3467fbd738870b5ebe440780ad500&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379005690.jpg?k=063075213a7d4c60c2438edf1c2ca4c326cad38ab209ca07f5014a4a3287100b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379008125.jpg?k=2da006c5a5d096ae2e147e73fa99e6a5361e59d41859af3b43c2ce5695cf01f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435288304.jpg?k=4c3f9ed3a2fcaedf752b333ca0251386227228ab3d90cfc1636bf2ac87e3d99a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379005707.jpg?k=d55ea3efa0eeb6d601bfec7cf79d2c2ba42d56e182f5ab171bf22c230c8d0872&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379005784.jpg?k=42c1256b6283acf9ef126094418f78804e6710e801d65dc269f9c4cdb919cf1f&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 1.7 km"
+  - "House of Leaves 1.8 km"
+  - "Rinia Park 1.8 km"
+  - "National Museum of History Albania 2 km"
+  - "Skanderbeg Square 2 km"
+  - "Clock Tower Tirana 2.1 km"
+  - "National Gallery of Arts Tirana 2.1 km"
+  - "Tanners' Bridge 2.5 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Dionisi 50 m"
+  - "Yogurteria 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Bajram Curri 20 m"
+  - "Sheshi Rekreativ Sali Butka 300 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 400 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 450 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 500 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 750 m"
+  - "Sheshi Rekreativ Komuna e Parisit 950 m"
+  - "Sheshi Rekreativ Parku 1Km 1.1 km"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.1 km"
+  - "Sheshi Rekreativ Mine Peza 1.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Keepitreal"
+    country: "Albania"
+    text: "“One of the best and most comfortable apartments I have ever seen, very clean, the balcony was huge and the view was perfect and we felt very welcome (very nice people)”"
+  - name: "Ilknur"
+    country: "Greece"
+    text: "“It was so lovely and big apartment,it was airy. The location was pretty central.”"
+  - name: "Marcos"
+    country: "Spain"
+    text: "“The location is perfect ! , lots of restaurants around”"
+bookingURL: "https://www.booking.com/hotel/al/guest-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The interior of MAin Apartment is thoughtfully designed to maximize comfort and space. Guests will find themselves at home in a generously sized apartment that boasts a terrace for outdoor relaxation, a cozy bedroom for restful nights, a welcoming living room for leisurely downtime, and a well-appointed kitchen for culinary adventures. The commitment to a non-smoking environment further enhances the quality of stay, making it a suitable choice for families and health-conscious travelers alike.
 
 For those looking to explore the area, the convenience of an on-site car rental service cannot be overstated. This feature allows guests to easily venture out to nearby attractions such as the Dajti Ekspres Cable Car, located 7.9 km away, offering breathtaking views of the city and its surroundings. The historical Former Residence of Enver Hoxha is also within close proximity, just 3.2 km from the apartment, providing a glimpse into the country's past.
 

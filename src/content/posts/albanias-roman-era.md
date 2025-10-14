@@ -14,8 +14,6 @@ seo:
   robots: "index"
   metaTitle: "Albania's Roman Era (2nd Century B.C. - A.D. 395)"
   metaDescription: "Explore the transformative years of Roman rule in Albania. From conquest to cultural assimilation, discover how Roman control shaped the land and its people."
-  focusKeyword: "Albania Roman Era"
-  robots: "index"
 ---
 
 ## The Roman Conquest of Illyria

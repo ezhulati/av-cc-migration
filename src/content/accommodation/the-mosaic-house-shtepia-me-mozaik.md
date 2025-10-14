@@ -1,4 +1,76 @@
----\ntitle: "The Mosaic House - Shtepia me Mozaik"\ndescription: "The Mosaic House - Shtepia me Mozaik in Përmet stands out for its serene garden views and thoughtfully appointed accommodations, making it a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254116331.jpg?k=af734c6c06295cb5655630a3e88223407dc7cf7033f8d93dc4e12f22786b0f96&o=&hp=1"\nlanguage: en\nslug: the-mosaic-house-shtepia-me-mozaik\naddress: "Lagjja \"Varosh\", 6401 Përmet, Albania"\ncity: "Përmet"\nlocation: "Përmet"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.23059186\n  lng: 20.35145405\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 166\nratings:\n  overall: 9.7\n  location: 9.7\n  cleanliness: 9.9\n  facilities: 9.5\n  value: 9.8\n  comfort: 9.7\n  staff: 10\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254116331.jpg?k=af734c6c06295cb5655630a3e88223407dc7cf7033f8d93dc4e12f22786b0f96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211298.jpg?k=cc0086fe9ee486a2bf019785d524334e44479c7638c00239cfabf4a413e6263c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211280.jpg?k=b277f45cb51642b27abeab00bb14506d4709ea27a1ca18571deb4b957fd42a23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358214384.jpg?k=1bdea65ac8015269f8109014d8495e54f87ff36072c212b823dde1f03ee70915&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211290.jpg?k=3119e301f939c5f2a566d1ca454e8ce5af1b17264899e64aa6131d5942afd8f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358214396.jpg?k=cc44f90ff7049d6d31031176ccedca12b5dcdeff5179d4ec5f841a362df8cad5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211995.jpg?k=6db269e260bb39d5e87333aeceeb9ca9d808a3c721edf4878a5adf330cfd8d08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358214408.jpg?k=69b976063e683e6a5c0f7d3897996ff95e7b8333b599de286e1ccb7dd37f3f33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211809.jpg?k=84a8ed506d8a47fce9ac2bbb3ac3e53b6c8c833943d284c6a597caac9ab1705a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260916434.jpg?k=66432b4c167bc711801ad4bd879dd24846c353954c5ca11b54607c59a8c2e844&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211277.jpg?k=4341f28a7b464666ee5d8e353ab5bb4e9396cfc2121499e01834ac150f0bf2b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211287.jpg?k=7d7fb1bec38457deeaa92cbc2c8078b8f9955f84728831e200ed988dad06c132&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Cabeli 150 m"\n  - "Trifilia 350 m"\nwhatsNearby:\n  - "Fir of Hotova National Park 17 km"\nairports:\n  - "Ioannina Airport 70 km"\n  - "Corfu International Airport 78 km"\n  - "Kastoria National Airport 82 km"\nreviews:\n  - name: "Marja-leena"\n    country: "Finland"\n    text: "“The most friendly people! The breakfast was special, thank you. We have visited this Hotel 2 times and we will visit again in future.”"\n  - name: "Kimberly"\n    country: "Netherlands"\n    text: "“We had a fantastic stay at the lovely Mosaic house. The family is so kind, and we were welcomed with a delicious snack and drink. The room was cozy and felt like home and we enjoyed the breakfast in the beautiful garden in the morning.”"\n  - name: "Zamira"\n    country: "United Kingdom"\n    text: "“Very nice family, clean room with own bathroom. The breakfast is very good! And the host is very helpful if you have any questions.”"\nbookingURL: "https://www.booking.com/hotel/al/shtepia-me-mozaik-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nEach room, accessible through a private entrance, is a haven of tranquility, featuring air conditioning, soundproofing, and outdoor furniture for that morning coffee or evening relaxation. The attention to detail is evident in the provision of a flat-screen TV with satellite channels in every room, ensuring entertainment is always at hand.
+---
+title: "The Mosaic House - Shtepia me Mozaik"
+description: "The Mosaic House - Shtepia me Mozaik in Përmet stands out for its serene garden views and thoughtfully appointed accommodations, making it a prime choice for travelers seeking both comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254116331.jpg?k=af734c6c06295cb5655630a3e88223407dc7cf7033f8d93dc4e12f22786b0f96&o=&hp=1"
+language: en
+slug: the-mosaic-house-shtepia-me-mozaik
+address: "Lagjja \"Varosh\", 6401 Përmet, Albania"
+city: "Përmet"
+location: "Përmet"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.23059186
+  lng: 20.35145405
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 166
+ratings:
+  overall: 9.7
+  location: 9.7
+  cleanliness: 9.9
+  facilities: 9.5
+  value: 9.8
+  comfort: 9.7
+  staff: 10
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254116331.jpg?k=af734c6c06295cb5655630a3e88223407dc7cf7033f8d93dc4e12f22786b0f96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211298.jpg?k=cc0086fe9ee486a2bf019785d524334e44479c7638c00239cfabf4a413e6263c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211280.jpg?k=b277f45cb51642b27abeab00bb14506d4709ea27a1ca18571deb4b957fd42a23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358214384.jpg?k=1bdea65ac8015269f8109014d8495e54f87ff36072c212b823dde1f03ee70915&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211290.jpg?k=3119e301f939c5f2a566d1ca454e8ce5af1b17264899e64aa6131d5942afd8f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358214396.jpg?k=cc44f90ff7049d6d31031176ccedca12b5dcdeff5179d4ec5f841a362df8cad5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211995.jpg?k=6db269e260bb39d5e87333aeceeb9ca9d808a3c721edf4878a5adf330cfd8d08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358214408.jpg?k=69b976063e683e6a5c0f7d3897996ff95e7b8333b599de286e1ccb7dd37f3f33&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211809.jpg?k=84a8ed506d8a47fce9ac2bbb3ac3e53b6c8c833943d284c6a597caac9ab1705a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260916434.jpg?k=66432b4c167bc711801ad4bd879dd24846c353954c5ca11b54607c59a8c2e844&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211277.jpg?k=4341f28a7b464666ee5d8e353ab5bb4e9396cfc2121499e01834ac150f0bf2b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358211287.jpg?k=7d7fb1bec38457deeaa92cbc2c8078b8f9955f84728831e200ed988dad06c132&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Exceptional breakfast"
+nearbyRestaurants:
+  - "Cabeli 150 m"
+  - "Trifilia 350 m"
+whatsNearby:
+  - "Fir of Hotova National Park 17 km"
+airports:
+  - "Ioannina Airport 70 km"
+  - "Corfu International Airport 78 km"
+  - "Kastoria National Airport 82 km"
+reviews:
+  - name: "Marja-leena"
+    country: "Finland"
+    text: "“The most friendly people! The breakfast was special, thank you. We have visited this Hotel 2 times and we will visit again in future.”"
+  - name: "Kimberly"
+    country: "Netherlands"
+    text: "“We had a fantastic stay at the lovely Mosaic house. The family is so kind, and we were welcomed with a delicious snack and drink. The room was cozy and felt like home and we enjoyed the breakfast in the beautiful garden in the morning.”"
+  - name: "Zamira"
+    country: "United Kingdom"
+    text: "“Very nice family, clean room with own bathroom. The breakfast is very good! And the host is very helpful if you have any questions.”"
+bookingURL: "https://www.booking.com/hotel/al/shtepia-me-mozaik-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+Each room, accessible through a private entrance, is a haven of tranquility, featuring air conditioning, soundproofing, and outdoor furniture for that morning coffee or evening relaxation. The attention to detail is evident in the provision of a flat-screen TV with satellite channels in every room, ensuring entertainment is always at hand.
 
 The Mosaic House elevates the guest experience with thoughtful touches, including complimentary wine or champagne, fruits, and chocolates or cookies, adding a personal touch to the stay. The private bathrooms equipped with a bath are a testament to the guest house's commitment to comfort and convenience.
 

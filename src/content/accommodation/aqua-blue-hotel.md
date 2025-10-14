@@ -1,4 +1,73 @@
----\ntitle: "Aqua Blue Hotel"\ndescription: "Aqua Blue Hotel stands out as a serene oasis in Vlorë, merely 60 meters from the pristine Beach at Government Villas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493538374.jpg?k=c65711be8a41e56265819381209cc9b39529b2b1823fd22bd8653b9adfff6372&o=&hp=1"\nlanguage: en\nslug: aqua-blue-hotel\naddress: "Rruga Aleksandër Moisiu, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.41841557\n  lng: 19.48739954\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493538374.jpg?k=c65711be8a41e56265819381209cc9b39529b2b1823fd22bd8653b9adfff6372&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533374.jpg?k=b19183ac1582163f077a3f8f6ddd7798f52d647adc480dfe71a19190e2741e00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533482.jpg?k=c9a0031262e72e66daa85e3dadb37f784cb4ab04d74aecbf0081c71d2b32a399&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494336197.jpg?k=3fb3f2be26edc5e3c3494641d45234dd03620ffd9fc1e0208605ecc1605c5c49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533507.jpg?k=201b99fff1d69061569b5c3cc0c5a9aaf8d2fdd56fc5ca5d4e6b4266658e290d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533541.jpg?k=f8b19f1fc4a81d6d01e6f0566350ce4e3fc74c935c36fb9e041ec025f8980e9b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\n  - "Quadruple Room with Private Bathroom"\nnearbyRestaurants:\n  - "Il Tramonto 3 200 m"\n  - "Tekada 200 m"\nnearbyBeaches:\n  - "Beach at Government Villas 50 m"\n  - "Liro Beach 650 m"\n  - "Ri Beach 1.4 km"\n  - "Coco Bongo Beach 1.7 km"\n  - "Sunny Beach 1.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.1 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 97 km"\nbookingURL: "https://www.booking.com/hotel/al/aqua-blue-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to air-conditioned accommodations, each featuring a private bathroom that promises privacy and comfort. What sets Aqua Blue Hotel apart is the breathtaking sea views from the balconies of its rooms, complemented by modern amenities such as a desk and a flat-screen TV, catering to both leisure and business travelers.
+---
+title: "Aqua Blue Hotel"
+description: "Aqua Blue Hotel stands out as a serene oasis in Vlorë, merely 60 meters from the pristine Beach at Government Villas."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493538374.jpg?k=c65711be8a41e56265819381209cc9b39529b2b1823fd22bd8653b9adfff6372&o=&hp=1"
+language: en
+slug: aqua-blue-hotel
+address: "Rruga Aleksandër Moisiu, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.41841557
+  lng: 19.48739954
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 2
+ratings:
+  overall: 8.8
+  location: 7.5
+  cleanliness: 8.8
+  facilities: 8.8
+  value: 8.8
+  comfort: 8.8
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493538374.jpg?k=c65711be8a41e56265819381209cc9b39529b2b1823fd22bd8653b9adfff6372&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533374.jpg?k=b19183ac1582163f077a3f8f6ddd7798f52d647adc480dfe71a19190e2741e00&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533482.jpg?k=c9a0031262e72e66daa85e3dadb37f784cb4ab04d74aecbf0081c71d2b32a399&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494336197.jpg?k=3fb3f2be26edc5e3c3494641d45234dd03620ffd9fc1e0208605ecc1605c5c49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533507.jpg?k=201b99fff1d69061569b5c3cc0c5a9aaf8d2fdd56fc5ca5d4e6b4266658e290d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493533541.jpg?k=f8b19f1fc4a81d6d01e6f0566350ce4e3fc74c935c36fb9e041ec025f8980e9b&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Private Bathroom"
+  - "Quadruple Room with Private Bathroom"
+nearbyRestaurants:
+  - "Il Tramonto 3 200 m"
+  - "Tekada 200 m"
+nearbyBeaches:
+  - "Beach at Government Villas 50 m"
+  - "Liro Beach 650 m"
+  - "Ri Beach 1.4 km"
+  - "Coco Bongo Beach 1.7 km"
+  - "Sunny Beach 1.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 2.1 km"
+  - "Kuzum Baba 6 km"
+  - "Independence Square 6 km"
+airports:
+  - "Corfu International Airport 97 km"
+bookingURL: "https://www.booking.com/hotel/al/aqua-blue-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to air-conditioned accommodations, each featuring a private bathroom that promises privacy and comfort. What sets Aqua Blue Hotel apart is the breathtaking sea views from the balconies of its rooms, complemented by modern amenities such as a desk and a flat-screen TV, catering to both leisure and business travelers.
 
 The hotel's multilingual staff, proficient in English and Italian, are always on hand at the reception to offer valuable insights and practical advice about the local area, enhancing guests' experiences.
 

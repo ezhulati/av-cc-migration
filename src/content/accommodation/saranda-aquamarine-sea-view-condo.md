@@ -1,5 +1,88 @@
----\ntitle: "Saranda Aquamarine Sea View Condo"\ndescription: "Saranda Aquamarine Sea View Condo emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523724030.jpg?k=8ae95f832e0f56e4d18710f49bea5602e797f9155c136363a9bba695c8ecaab2&o=&hp=1"\nlanguage: en\nslug: saranda-aquamarine-sea-view-condo\naddress: "Rr. Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86597058\n  lng: 20.01655136\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 11\nratings:\n  overall: 9.6\n  location: 9.3\n  cleanliness: 9.8\n  facilities: 9.5\n  value: 9.3\n  comfort: 9.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523724030.jpg?k=8ae95f832e0f56e4d18710f49bea5602e797f9155c136363a9bba695c8ecaab2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454876420.jpg?k=991366e4a77f3511edad9c76f5c8e119bad28c88ff0dfcf1b81d7cca9fe4e7f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471869522.jpg?k=9a9e3e3f4561eee9153f90405d30d6207ee62faa444574c526f9056f9216b42a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471869106.jpg?k=99f8bde8cb59ba1617ee1519f01507025c409ab6513986497acacf2d5cd3626a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377088304.jpg?k=8d652a07cb93721c6a17bffbe63429f0ef23c18ce81459e668ab5f99f08a5ca3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455828252.jpg?k=bef9c1120bd5552cb024fb866738caacbec180dff56b9d41edcc3ac8b1fdd61c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455055522.jpg?k=d2a3353c8ba9ce810ee9e548b6adfb04b7c99fc83903832dd1db023705c4a5a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455055462.jpg?k=680966957110f7b383b5c0a994cdf9df0f2e9c7b45047d1b6a4cc0e360704732&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455054623.jpg?k=1e75dbe0eedc7c9ddd4d1c04fb07106e781aff067455056deed7c952fee757e7&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Arjas Fish Restorant 20 m"\n  - "Cimi Gjakova, Pizzeria Grill 50 m"\nnearbyBeaches:\n  - "Maestral Beach 50 m"\n  - "La Petite Beach 300 m"\n  - "Saranda City Beach 700 m"\n  - "VIP Beach 800 m"\n  - "Santa Quaranta Beach 850 m"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 1.9 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "M"\n    country: "United Kingdom"\n    text: "“Ideal location for the town - apartment was clean, tidy and with everything you need - we were there for a month and would definately stay again”"\n  - name: "Cristina-alina"\n    country: "Romania"\n    text: "“I recently had the pleasure of staying at the Saranda Aquamarine Sea View Condo and it exceeded all my expectations. I was greeted by the warm and attentive owner, setting the tone for a great stay.
-The apartment is spacious, well-appointed, and...”"\n  - name: "Mazilu"\n    country: "Switzerland"\n    text: "“Apartament frumos, curat cu toate comoditățile și aproape de plaja. Gazda a fost foarte prietenoasa și amabila. Recomand la toți!”"\nbookingURL: "https://www.booking.com/hotel/al/saranda-sea-view-condo.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting a terrace that invites guests to relish in the serene sea vistas. It is well-appointed with a bedroom, a living area equipped with a flat-screen TV, and a kitchen complete with a toaster and fridge. The convenience of a walk-in shower in the bathroom, along with the provision of bed linen, towels, and laundry services, adds to the comfort of the stay. An outdoor dining area allows guests to enjoy meals with a view, enhancing the overall experience.
+---
+title: "Saranda Aquamarine Sea View Condo"
+description: "Saranda Aquamarine Sea View Condo emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523724030.jpg?k=8ae95f832e0f56e4d18710f49bea5602e797f9155c136363a9bba695c8ecaab2&o=&hp=1"
+language: en
+slug: saranda-aquamarine-sea-view-condo
+address: "Rr. Butrinti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86597058
+  lng: 20.01655136
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 11
+ratings:
+  overall: 9.6
+  location: 9.3
+  cleanliness: 9.8
+  facilities: 9.5
+  value: 9.3
+  comfort: 9.8
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523724030.jpg?k=8ae95f832e0f56e4d18710f49bea5602e797f9155c136363a9bba695c8ecaab2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454876420.jpg?k=991366e4a77f3511edad9c76f5c8e119bad28c88ff0dfcf1b81d7cca9fe4e7f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471869522.jpg?k=9a9e3e3f4561eee9153f90405d30d6207ee62faa444574c526f9056f9216b42a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471869106.jpg?k=99f8bde8cb59ba1617ee1519f01507025c409ab6513986497acacf2d5cd3626a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377088304.jpg?k=8d652a07cb93721c6a17bffbe63429f0ef23c18ce81459e668ab5f99f08a5ca3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455828252.jpg?k=bef9c1120bd5552cb024fb866738caacbec180dff56b9d41edcc3ac8b1fdd61c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455055522.jpg?k=d2a3353c8ba9ce810ee9e548b6adfb04b7c99fc83903832dd1db023705c4a5a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455055462.jpg?k=680966957110f7b383b5c0a994cdf9df0f2e9c7b45047d1b6a4cc0e360704732&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455054623.jpg?k=1e75dbe0eedc7c9ddd4d1c04fb07106e781aff067455056deed7c952fee757e7&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Arjas Fish Restorant 20 m"
+  - "Cimi Gjakova, Pizzeria Grill 50 m"
+nearbyBeaches:
+  - "Maestral Beach 50 m"
+  - "La Petite Beach 300 m"
+  - "Saranda City Beach 700 m"
+  - "VIP Beach 800 m"
+  - "Santa Quaranta Beach 850 m"
+whatsNearby:
+  - "Parc National de Butrint 1.1 km"
+  - "Butrint National Park 1.9 km"
+  - "Plazhi I Krorezes 7 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "M"
+    country: "United Kingdom"
+    text: "“Ideal location for the town - apartment was clean, tidy and with everything you need - we were there for a month and would definately stay again”"
+  - name: "Cristina-alina"
+    country: "Romania"
+    text: "“I recently had the pleasure of staying at the Saranda Aquamarine Sea View Condo and it exceeded all my expectations. I was greeted by the warm and attentive owner, setting the tone for a great stay.
+The apartment is spacious, well-appointed, and...”"
+  - name: "Mazilu"
+    country: "Switzerland"
+    text: "“Apartament frumos, curat cu toate comoditățile și aproape de plaja. Gazda a fost foarte prietenoasa și amabila. Recomand la toți!”"
+bookingURL: "https://www.booking.com/hotel/al/saranda-sea-view-condo.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious haven, boasting a terrace that invites guests to relish in the serene sea vistas. It is well-appointed with a bedroom, a living area equipped with a flat-screen TV, and a kitchen complete with a toaster and fridge. The convenience of a walk-in shower in the bathroom, along with the provision of bed linen, towels, and laundry services, adds to the comfort of the stay. An outdoor dining area allows guests to enjoy meals with a view, enhancing the overall experience.
 
 For those keen on exploring the vibrant surroundings of Sarandë, the apartment serves as an ideal base. Activities such as hiking, diving, cycling, and fishing are readily accessible, with the property offering bicycle rental services for those eager to venture further. The nearest airport, Ioannina Airport, is 96 kilometers away, with the apartment facilitating airport transfers and car rental services for ease of travel.
 

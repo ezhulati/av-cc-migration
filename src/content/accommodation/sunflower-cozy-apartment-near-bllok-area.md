@@ -1,4 +1,83 @@
----\ntitle: "Sunflower Cozy Apartment Near Bllok Area"\ndescription: "Sunflower Cozy Apartment Near Bllok Area emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667912.jpg?k=34fcc3ee56246a96e611e8a2295b8298f8b5f9235a68720a2c98110b2dfdcd47&o=&hp=1"\nlanguage: en\nslug: sunflower-cozy-apartment-near-bllok-area\naddress: "Rruga Sulejman Delvina, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31841031\n  lng: 19.81346888\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667912.jpg?k=34fcc3ee56246a96e611e8a2295b8298f8b5f9235a68720a2c98110b2dfdcd47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667964.jpg?k=bdf8a0677b6925a08db082ef49f308b3f7ca8d01418c86a3e6bb649649fdf0e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668029.jpg?k=1fbb1cb51e9d255593aeabc55191e8707d3e890211bcf5877999033ac852ba10&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667990.jpg?k=7888683271a9298d7eccd4193c369b563d96f2c3c17d7795c8401a33d0b44961&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668023.jpg?k=d42d9b0c4928f7f3dac2fa18cbe154025585f6d36665137d9c8398a4caf4ae38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668008.jpg?k=83cc9bd91589176dcef8bc36e976f7e770a022f47bb19f5403a11e3f29ce3825&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668000.jpg?k=2605e42ed63dc99dccfa5ebd5c9796ce63a21e75ed5f68fde35c83727a09ef7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667984.jpg?k=00101fae92025b2b443e2b69bb7ff68b8a272be7e20f3295039e8245663772df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667972.jpg?k=7e29593a0c964cfa458e84e571e8b3b6c97edd8515463283c4414cd0cac9eb16&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "House of Leaves 950 m"\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Skanderbeg Square 1.1 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "Grand Park of Tirana 1.2 km"\n  - "National Museum of History Albania 1.3 km"\n  - "Tanners' Bridge 1.4 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Fast Food Klasik 40 m"\n  - "Bar Mezeri Moskat 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 250 m"\n  - "Former Residence of Enver Hoxha 450 m"\n  - "Parku I Madh I Tiranës (Grand Park) 500 m"\n  - "Shesh Rekreativ 550 m"\n  - "Sheshi Rekreativ Komuna e Parisit 550 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 650 m"\n  - "Rinia Park 800 m"\n  - "Sheshi Rekreativ Piramida 850 m"\n  - "Parku Rinia 900 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Gudrun"\n    country: "France"\n    text: "“Es ist sehr konfortabel . Die Lage ist perfekt. Wir fühlten uns ausgesprochen wohl.”"\nbookingURL: "https://www.booking.com/hotel/al/sunflower-cozy-apartment-near-bllok-area.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment doesn't just promise a place to stay; it offers a home away from home. Guests are treated to a spacious layout that includes a bedroom, a bathroom, and the added convenience of bed linen and towels. The living space is thoughtfully designed with a flat-screen TV equipped with streaming services, a dining area for intimate meals, and a fully equipped kitchen for those who love to cook. The balcony, overlooking a tranquil street, provides a serene spot to unwind after a day of exploration. It's worth noting that the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
+---
+title: "Sunflower Cozy Apartment Near Bllok Area"
+description: "Sunflower Cozy Apartment Near Bllok Area emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667912.jpg?k=34fcc3ee56246a96e611e8a2295b8298f8b5f9235a68720a2c98110b2dfdcd47&o=&hp=1"
+language: en
+slug: sunflower-cozy-apartment-near-bllok-area
+address: "Rruga Sulejman Delvina, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31841031
+  lng: 19.81346888
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667912.jpg?k=34fcc3ee56246a96e611e8a2295b8298f8b5f9235a68720a2c98110b2dfdcd47&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667964.jpg?k=bdf8a0677b6925a08db082ef49f308b3f7ca8d01418c86a3e6bb649649fdf0e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668029.jpg?k=1fbb1cb51e9d255593aeabc55191e8707d3e890211bcf5877999033ac852ba10&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667990.jpg?k=7888683271a9298d7eccd4193c369b563d96f2c3c17d7795c8401a33d0b44961&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668023.jpg?k=d42d9b0c4928f7f3dac2fa18cbe154025585f6d36665137d9c8398a4caf4ae38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668008.jpg?k=83cc9bd91589176dcef8bc36e976f7e770a022f47bb19f5403a11e3f29ce3825&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489668000.jpg?k=2605e42ed63dc99dccfa5ebd5c9796ce63a21e75ed5f68fde35c83727a09ef7c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667984.jpg?k=00101fae92025b2b443e2b69bb7ff68b8a272be7e20f3295039e8245663772df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667972.jpg?k=7e29593a0c964cfa458e84e571e8b3b6c97edd8515463283c4414cd0cac9eb16&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "House of Leaves 950 m"
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Skanderbeg Square 1.1 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "Grand Park of Tirana 1.2 km"
+  - "National Museum of History Albania 1.3 km"
+  - "Tanners' Bridge 1.4 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Fast Food Klasik 40 m"
+  - "Bar Mezeri Moskat 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 250 m"
+  - "Former Residence of Enver Hoxha 450 m"
+  - "Parku I Madh I Tiranës (Grand Park) 500 m"
+  - "Shesh Rekreativ 550 m"
+  - "Sheshi Rekreativ Komuna e Parisit 550 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 650 m"
+  - "Rinia Park 800 m"
+  - "Sheshi Rekreativ Piramida 850 m"
+  - "Parku Rinia 900 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Gudrun"
+    country: "France"
+    text: "“Es ist sehr konfortabel . Die Lage ist perfekt. Wir fühlten uns ausgesprochen wohl.”"
+bookingURL: "https://www.booking.com/hotel/al/sunflower-cozy-apartment-near-bllok-area.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This apartment doesn't just promise a place to stay; it offers a home away from home. Guests are treated to a spacious layout that includes a bedroom, a bathroom, and the added convenience of bed linen and towels. The living space is thoughtfully designed with a flat-screen TV equipped with streaming services, a dining area for intimate meals, and a fully equipped kitchen for those who love to cook. The balcony, overlooking a tranquil street, provides a serene spot to unwind after a day of exploration. It's worth noting that the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 Connectivity is never an issue, as free WiFi is available throughout the property, and for those arriving by car, private parking can be arranged for an additional fee. 
 

@@ -1,5 +1,76 @@
----\ntitle: "Anna House"\ndescription: "Anna House emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short distance from the serene Vjetër Beach and the vibrant Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261126.jpg?k=06d1ef04860db61eefa18fe3566172c2b357e516d75e6a62943fb8a92e22dc86&o=&hp=1"\nlanguage: en\nslug: anna-house\naddress: "Rruga Hajredin Haxhiraj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4673472\n  lng: 19.4882054\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.8\n  location: 9\n  cleanliness: 9.5\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261126.jpg?k=06d1ef04860db61eefa18fe3566172c2b357e516d75e6a62943fb8a92e22dc86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261184.jpg?k=268cfef011b111faac9d24523bd2a6bfc367e9238078b8cd7dca3899d39db54f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261175.jpg?k=84df9710924c8f5ba343bd299fcd686011ccc21d23636ada1b8249858e4c631a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261167.jpg?k=10e14f8553c0da7009ac47c10e10ad3a70aca2ed2f7c94be97ada8cb3108a73f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078578.jpg?k=d0432bce34cbf9b8e25d279120594af1d43858485bb3f9f152def251248a50fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261179.jpg?k=cef9d1225777ba4e479f983f745d674d828bb3a6884791d7ca935a85e46d4bf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261170.jpg?k=e24a151f10b0b1e7d2cfb15e2c74d5af783bf63e4db6a7a4f6efec5c724f10c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261191.jpg?k=37b0d55ac5f8bb7c170ab6ad7261e090dbb056151d9199fc7bbab4661abb6443&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261162.jpg?k=7b552ba09cd8b249790ec7f17fece64d6de9eca78d3c449df9e7d5131001044e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Bar Kafe \Oaz\\" 100 m"\n  - "Arbri 200 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.7 km"\n  - "Vlore Beach 2.2 km"\n  - "Ri Beach 3.6 km"\n  - "Narta Beach 5 km"\n  - "Beach at Government Villas 5 km"\nwhatsNearby:\n  - "Independence Square 450 m"\n  - "Kuzum Baba 450 m"\n  - "Scooby Doo Vlore 3.5 km"\nreviews:\n  - name: "Maria"\n    country: "Spain"\n    text: "“El mejor anfitrión que he tenido nunca!! La comunicación súper buena y disposición excelente para ayudar en todo lo que hemos necesitado. Te ofrece recomendaciones de sitios en la zona.
-Además, el apartamento está muy bien, limpio y parecía nuevo.”"\n  - name: "Fabienne"\n    country: "Switzerland"\n    text: "“Das Anna House ist eine top gepflegt und schöne Ferienwohnung. In der kleinen gemütlichen Wohnung, fühlten wir wohl. Wir fanden alles vor, was wir brauchten.
-Es ist zentral gelegen und die Ausstattung ist hochwertig. Die Wohnung ist schön...”"\n  - name: "Lea"\n    country: "Germany"\n    text: "“Relativ zentral, alles in der Nähe was man braucht. Kommunikation mit dem Besitzer war sehr unkompliziert, konnten uns auf deutsch verständigen. Vom Balkon hat man eine schöne Sicht auf die Berge. Mega preisleistungsverhältnis.”"\nbookingURL: "https://www.booking.com/hotel/al/anna-house.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodation boasts a well-appointed bedroom, complemented by a fully equipped kitchen that includes an oven and a microwave, ensuring guests can feel at home during their stay. The living space is designed for relaxation, featuring a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. The convenience of a private bathroom, complete with a shower, towels, and bed linen, adds to the comfort of the stay. Additionally, a dedicated dressing room provides a private space for guests to prepare for their day's adventures.
+---
+title: "Anna House"
+description: "Anna House emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short distance from the serene Vjetër Beach and the vibrant Vlore Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261126.jpg?k=06d1ef04860db61eefa18fe3566172c2b357e516d75e6a62943fb8a92e22dc86&o=&hp=1"
+language: en
+slug: anna-house
+address: "Rruga Hajredin Haxhiraj, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.4673472
+  lng: 19.4882054
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 5
+ratings:
+  overall: 9.8
+  location: 9
+  cleanliness: 9.5
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261126.jpg?k=06d1ef04860db61eefa18fe3566172c2b357e516d75e6a62943fb8a92e22dc86&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261184.jpg?k=268cfef011b111faac9d24523bd2a6bfc367e9238078b8cd7dca3899d39db54f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261175.jpg?k=84df9710924c8f5ba343bd299fcd686011ccc21d23636ada1b8249858e4c631a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261167.jpg?k=10e14f8553c0da7009ac47c10e10ad3a70aca2ed2f7c94be97ada8cb3108a73f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078578.jpg?k=d0432bce34cbf9b8e25d279120594af1d43858485bb3f9f152def251248a50fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261179.jpg?k=cef9d1225777ba4e479f983f745d674d828bb3a6884791d7ca935a85e46d4bf7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261170.jpg?k=e24a151f10b0b1e7d2cfb15e2c74d5af783bf63e4db6a7a4f6efec5c724f10c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261191.jpg?k=37b0d55ac5f8bb7c170ab6ad7261e090dbb056151d9199fc7bbab4661abb6443&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261162.jpg?k=7b552ba09cd8b249790ec7f17fece64d6de9eca78d3c449df9e7d5131001044e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Bar Kafe \Oaz\\" 100 m"
+  - "Arbri 200 m"
+nearbyBeaches:
+  - "Vjetër Beach 1.7 km"
+  - "Vlore Beach 2.2 km"
+  - "Ri Beach 3.6 km"
+  - "Narta Beach 5 km"
+  - "Beach at Government Villas 5 km"
+whatsNearby:
+  - "Independence Square 450 m"
+  - "Kuzum Baba 450 m"
+  - "Scooby Doo Vlore 3.5 km"
+reviews:
+  - name: "Maria"
+    country: "Spain"
+    text: "“El mejor anfitrión que he tenido nunca!! La comunicación súper buena y disposición excelente para ayudar en todo lo que hemos necesitado. Te ofrece recomendaciones de sitios en la zona.
+Además, el apartamento está muy bien, limpio y parecía nuevo.”"
+  - name: "Fabienne"
+    country: "Switzerland"
+    text: "“Das Anna House ist eine top gepflegt und schöne Ferienwohnung. In der kleinen gemütlichen Wohnung, fühlten wir wohl. Wir fanden alles vor, was wir brauchten.
+Es ist zentral gelegen und die Ausstattung ist hochwertig. Die Wohnung ist schön...”"
+  - name: "Lea"
+    country: "Germany"
+    text: "“Relativ zentral, alles in der Nähe was man braucht. Kommunikation mit dem Besitzer war sehr unkompliziert, konnten uns auf deutsch verständigen. Vom Balkon hat man eine schöne Sicht auf die Berge. Mega preisleistungsverhältnis.”"
+bookingURL: "https://www.booking.com/hotel/al/anna-house.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The accommodation boasts a well-appointed bedroom, complemented by a fully equipped kitchen that includes an oven and a microwave, ensuring guests can feel at home during their stay. The living space is designed for relaxation, featuring a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. The convenience of a private bathroom, complete with a shower, towels, and bed linen, adds to the comfort of the stay. Additionally, a dedicated dressing room provides a private space for guests to prepare for their day's adventures.
 
 For those traveling to the area, Anna House is conveniently positioned 149 km from Tirana International Mother Teresa Airport, making it an accessible retreat for both local and international visitors. This apartment stands out as a welcoming haven for those looking to immerse themselves in the beauty and culture of Vlorë.

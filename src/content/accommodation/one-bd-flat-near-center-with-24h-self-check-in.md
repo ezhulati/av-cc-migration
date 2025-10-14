@@ -1,4 +1,80 @@
----\ntitle: "One BD Flat near Center with 24H Self Check In"\ndescription: "Discover the convenience and comfort of One BD Flat, a prime choice for travelers seeking a seamless experience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522167.jpg?k=5d5afe3cf702fa061e5f5f8459e0838e2a18fd8a11e8281be5025abe598ed4e1&o=&hp=1"\nlanguage: en\nslug: one-bd-flat-near-center-with-24h-self-check-in\naddress: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33307412\n  lng: 19.8116919\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.7\n  location: 9.5\n  cleanliness: 10\n  facilities: 9.4\n  value: 10\n  comfort: 10\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522167.jpg?k=5d5afe3cf702fa061e5f5f8459e0838e2a18fd8a11e8281be5025abe598ed4e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522303.jpg?k=d26e2b9769af25b03207734f95709c695c4e5af65be918c4a05fcb6de03ad9fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522322.jpg?k=dfa2c2931ea48d09a19d6c8e4968ed7c2d0dc9aca1ff97d00bff62147b61e1ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522336.jpg?k=e666c3bb5853872e16f3071a138dfd9596152708dd211fef2bb935b0bdcdcead&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522374.jpg?k=0d35298f9d4e89879261fe9e2f1716c4cdaf658a6b31a68d20bd351b940eecea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522385.jpg?k=117375aedcce9446cf04a0f19f69145dbf20ae2dd5887330e6ec42821747907d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522410.jpg?k=44543b729b3d5dbb1190f4a2421c269ea91d50994bca1313c62f9535a17fbb48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522360.jpg?k=fd4ec777f414034ed3f95f2f99f1783a8a74e45e73214c3be6acef6cb8197615&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522316.jpg?k=3292271f4c51503ce33d041212e6d4bc3eb6bb8250fefc4e861501b236b5e74c&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Tanners' Bridge 1.4 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 4.5 km"\nnearbyRestaurants:\n  - "Shelter 50 m"\n  - "Kok APule 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 350 m"\n  - "Sheshi Paris 500 m"\n  - "Sheshi Rekreativ Don Bosko 550 m"\n  - "National Museum of History Albania 600 m"\n  - "Amazing Nature 650 m"\n  - "Sheshi Skënderbej 750 m"\n  - "House of Leaves 800 m"\n  - "Skanderbeg Square 850 m"\n  - "Parku Europa 900 m"\n  - "Clock Tower Tirana 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Yevgeniya"\n    country: "Ukraine"\n    text: "“Warm, clean apartment with all the necessary things not only for short staying! The bed was absolutely comfortable!”"\nbookingURL: "https://www.booking.com/hotel/al/one-bd-flat-near-center-with-24h-self-check-in.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis spacious one-bedroom apartment is not just a place to stay; it's a haven of comfort. Equipped with a flat-screen TV and a fully equipped kitchen, including an oven, microwave, washing machine, fridge, and stovetop, guests have everything they need at their fingertips. The inclusion of towels and bed linen adds a touch of home, ensuring a comfortable and hassle-free stay.
+---
+title: "One BD Flat near Center with 24H Self Check In"
+description: "Discover the convenience and comfort of One BD Flat, a prime choice for travelers seeking a seamless experience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522167.jpg?k=5d5afe3cf702fa061e5f5f8459e0838e2a18fd8a11e8281be5025abe598ed4e1&o=&hp=1"
+language: en
+slug: one-bd-flat-near-center-with-24h-self-check-in
+address: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33307412
+  lng: 19.8116919
+price: "US$27"
+priceFrom: 27
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 5
+ratings:
+  overall: 9.7
+  location: 9.5
+  cleanliness: 10
+  facilities: 9.4
+  value: 10
+  comfort: 10
+  staff: 9.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522167.jpg?k=5d5afe3cf702fa061e5f5f8459e0838e2a18fd8a11e8281be5025abe598ed4e1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522303.jpg?k=d26e2b9769af25b03207734f95709c695c4e5af65be918c4a05fcb6de03ad9fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522322.jpg?k=dfa2c2931ea48d09a19d6c8e4968ed7c2d0dc9aca1ff97d00bff62147b61e1ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522336.jpg?k=e666c3bb5853872e16f3071a138dfd9596152708dd211fef2bb935b0bdcdcead&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522374.jpg?k=0d35298f9d4e89879261fe9e2f1716c4cdaf658a6b31a68d20bd351b940eecea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522385.jpg?k=117375aedcce9446cf04a0f19f69145dbf20ae2dd5887330e6ec42821747907d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522410.jpg?k=44543b729b3d5dbb1190f4a2421c269ea91d50994bca1313c62f9535a17fbb48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522360.jpg?k=fd4ec777f414034ed3f95f2f99f1783a8a74e45e73214c3be6acef6cb8197615&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522316.jpg?k=3292271f4c51503ce33d041212e6d4bc3eb6bb8250fefc4e861501b236b5e74c&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Rinia Park 1.1 km"
+  - "Tanners' Bridge 1.4 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 4.5 km"
+nearbyRestaurants:
+  - "Shelter 50 m"
+  - "Kok APule 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 350 m"
+  - "Sheshi Paris 500 m"
+  - "Sheshi Rekreativ Don Bosko 550 m"
+  - "National Museum of History Albania 600 m"
+  - "Amazing Nature 650 m"
+  - "Sheshi Skënderbej 750 m"
+  - "House of Leaves 800 m"
+  - "Skanderbeg Square 850 m"
+  - "Parku Europa 900 m"
+  - "Clock Tower Tirana 900 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Yevgeniya"
+    country: "Ukraine"
+    text: "“Warm, clean apartment with all the necessary things not only for short staying! The bed was absolutely comfortable!”"
+bookingURL: "https://www.booking.com/hotel/al/one-bd-flat-near-center-with-24h-self-check-in.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This spacious one-bedroom apartment is not just a place to stay; it's a haven of comfort. Equipped with a flat-screen TV and a fully equipped kitchen, including an oven, microwave, washing machine, fridge, and stovetop, guests have everything they need at their fingertips. The inclusion of towels and bed linen adds a touch of home, ensuring a comfortable and hassle-free stay.
 
 Situated a mere 1.7 km from the historical Former Residence of Enver Hoxha, One BD Flat is at the nexus of culture and history. The apartment is a stone's throw away from several of Tirana's must-visit sites, including the National Museum of History Albania, the House of Leaves, and the National Theatre of Opera and Ballet of Albania, making it an ideal base for cultural exploration.
 

@@ -1,3 +1,85 @@
----\ntitle: "Marta’s apartment"\ndescription: "Marta's Apartment emerges as a freshly renovated gem in the heart of Tirana, boasting proximity to historical landmarks such as the Former Residence of Enver Hoxha, Tanners' Bridge, and Saint Paul Cathedral."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213726.jpg?k=4db96dc53eab9609ef2f67b88f341134b665ca7a1409b22179064f39a60dd1fa&o=&hp=1"\nlanguage: en\nslug: marta-s-apartment\naddress: "Rr. Fadil Rada, pallati 11 shkalla1 5th foor, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32807507\n  lng: 19.82790328\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 42\nratings:\n  overall: 9.3\n  location: 9.6\n  cleanliness: 9.1\n  facilities: 9\n  value: 9.3\n  comfort: 8.9\n  staff: 9.2\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213726.jpg?k=4db96dc53eab9609ef2f67b88f341134b665ca7a1409b22179064f39a60dd1fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213740.jpg?k=e58d5e9362434888a1b0b74eade27c0977009eb304e26718699f866c24df0ee3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213733.jpg?k=e51febe4d2ee0be84a6c32a53711651229a8063410a6dafeaa73dfee18a44268&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213768.jpg?k=c030136a154f91188dd25768328b1760b704e1431b59f4fa93609db3d41c2ed4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213750.jpg?k=65046d47674bb0acc94a788f8d504ab6c2f15eea2097edf2071cfdd87fd7079e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213747.jpg?k=2716b94cf7f0155dfcbb32ee0bfb3b9bf7cd44e65a3fe0b77550898e682a51e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423116195.jpg?k=6ba2f6fdf84095cc07e4fe454e2815131836aa46210083e3380fffbe0176a44f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213753.jpg?k=1f2e1753e31763575f6ddeae69b9c343e5e9652f1ec543d644c7b3c41c6521b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213760.jpg?k=1b0998ad5d4ca6e4912763d5d227dfbbc7fe78d38b0794c94f1418e117c735b5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Rinia Park 900 m"\n  - "National Museum of History Albania 900 m"\n  - "House of Leaves 950 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 1.8 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "VOGUE Caffe 20 m"\n  - "Tipico Restorant 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 100 m"\n  - "Tanners' Bridge 250 m"\n  - "Sheshi Sulejman Pasha 500 m"\n  - "National Gallery of Arts Tirana 650 m"\n  - "Sheshi Rekreativ Piramida 650 m"\n  - "Clock Tower Tirana 700 m"\n  - "Skanderbeg Square 750 m"\n  - "Parku Europa 750 m"\n  - "Parku Rinia 800 m"\n  - "Sheshi Skënderbej 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Jan"\n    country: "Czech Republic"\n    text: "“Great communication with the host both before arrival and during the stay. Easy check-in. Perfect location close to everything. Spacious, clean and fully equipped apartment with a balcony. Fast wi-fi. Good value for money.”"\n  - name: "Azaiats"\n    country: "Ukraine"\n    text: "“Great place with more than the affordable price. The place itself has all the necessary amenities, warm enough, and located close to the city center. Bakeries and SPAR supermarket are right on the corner. Extra kudos goes to the host as she was...”"\n  - name: "Dejan"\n    country: "Serbia"\n    text: "“The flat is spacious, in the city centre with so many cool cafes, juice bars and shops in the neighbourhood.”"\nbookingURL: "https://www.booking.com/hotel/al/martas-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a spacious retreat featuring a bedroom, a bathroom equipped with a bidet, and comes complete with bed linen and towels for guest convenience. Entertainment and dining needs are well catered for with a flat-screen TV offering cable channels and a dining area adjacent to a fully equipped kitchen. Perhaps the most captivating feature is the balcony, presenting breathtaking mountain views, perfect for those serene morning coffees or tranquil evening reflections. Additionally, the apartment benefits from soundproofing, ensuring a peaceful stay amidst the vibrant city life.
+---
+title: "Marta’s apartment"
+description: "Marta's Apartment emerges as a freshly renovated gem in the heart of Tirana, boasting proximity to historical landmarks such as the Former Residence of Enver Hoxha, Tanners' Bridge, and Saint Paul Cathedral."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213726.jpg?k=4db96dc53eab9609ef2f67b88f341134b665ca7a1409b22179064f39a60dd1fa&o=&hp=1"
+language: en
+slug: marta-s-apartment
+address: "Rr. Fadil Rada, pallati 11 shkalla1 5th foor, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32807507
+  lng: 19.82790328
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 42
+ratings:
+  overall: 9.3
+  location: 9.6
+  cleanliness: 9.1
+  facilities: 9
+  value: 9.3
+  comfort: 8.9
+  staff: 9.2
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213726.jpg?k=4db96dc53eab9609ef2f67b88f341134b665ca7a1409b22179064f39a60dd1fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213740.jpg?k=e58d5e9362434888a1b0b74eade27c0977009eb304e26718699f866c24df0ee3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213733.jpg?k=e51febe4d2ee0be84a6c32a53711651229a8063410a6dafeaa73dfee18a44268&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213768.jpg?k=c030136a154f91188dd25768328b1760b704e1431b59f4fa93609db3d41c2ed4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213750.jpg?k=65046d47674bb0acc94a788f8d504ab6c2f15eea2097edf2071cfdd87fd7079e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213747.jpg?k=2716b94cf7f0155dfcbb32ee0bfb3b9bf7cd44e65a3fe0b77550898e682a51e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423116195.jpg?k=6ba2f6fdf84095cc07e4fe454e2815131836aa46210083e3380fffbe0176a44f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213753.jpg?k=1f2e1753e31763575f6ddeae69b9c343e5e9652f1ec543d644c7b3c41c6521b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213760.jpg?k=1b0998ad5d4ca6e4912763d5d227dfbbc7fe78d38b0794c94f1418e117c735b5&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Rinia Park 900 m"
+  - "National Museum of History Albania 900 m"
+  - "House of Leaves 950 m"
+  - "Former Residence of Enver Hoxha 1.2 km"
+  - "Grand Park of Tirana 1.8 km"
+  - "Bunk'Art 1 Museum 3.7 km"
+nearbyRestaurants:
+  - "VOGUE Caffe 20 m"
+  - "Tipico Restorant 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek ish ATSh 100 m"
+  - "Tanners' Bridge 250 m"
+  - "Sheshi Sulejman Pasha 500 m"
+  - "National Gallery of Arts Tirana 650 m"
+  - "Sheshi Rekreativ Piramida 650 m"
+  - "Clock Tower Tirana 700 m"
+  - "Skanderbeg Square 750 m"
+  - "Parku Europa 750 m"
+  - "Parku Rinia 800 m"
+  - "Sheshi Skënderbej 850 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Jan"
+    country: "Czech Republic"
+    text: "“Great communication with the host both before arrival and during the stay. Easy check-in. Perfect location close to everything. Spacious, clean and fully equipped apartment with a balcony. Fast wi-fi. Good value for money.”"
+  - name: "Azaiats"
+    country: "Ukraine"
+    text: "“Great place with more than the affordable price. The place itself has all the necessary amenities, warm enough, and located close to the city center. Bakeries and SPAR supermarket are right on the corner. Extra kudos goes to the host as she was...”"
+  - name: "Dejan"
+    country: "Serbia"
+    text: "“The flat is spacious, in the city centre with so many cool cafes, juice bars and shops in the neighbourhood.”"
+bookingURL: "https://www.booking.com/hotel/al/martas-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a spacious retreat featuring a bedroom, a bathroom equipped with a bidet, and comes complete with bed linen and towels for guest convenience. Entertainment and dining needs are well catered for with a flat-screen TV offering cable channels and a dining area adjacent to a fully equipped kitchen. Perhaps the most captivating feature is the balcony, presenting breathtaking mountain views, perfect for those serene morning coffees or tranquil evening reflections. Additionally, the apartment benefits from soundproofing, ensuring a peaceful stay amidst the vibrant city life.
 
 For those needing essentials or a quick snack, a minimarket on the property provides utmost convenience. Marta's Apartment is also ideally positioned for guests eager to explore Tirana's cultural scene, with the Toptani Shopping Centre, National Gallery of Arts Tirana, and Clock Tower Tirana all within easy reach. For travelers, the Tirana International Mother Teresa Airport is conveniently 16 km away, making Marta's Apartment an excellent choice for both short and extended stays in Albania's bustling capital.

@@ -1,4 +1,74 @@
----\ntitle: "Elios room 1"\ndescription: "Elios Room 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490238400.jpg?k=0c7c2979aa0ba8dd984e1edaeece3e9d9fa115052a75288feb9e5bc6817807f3&o=&hp=1"\nlanguage: en\nslug: elios-room-1\naddress: "Rruga Xhezmi Delli 3, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32984\n  lng: 19.80612897\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 11\nratings:\n  overall: 8.1\n  location: 9.3\n  cleanliness: 8\n  facilities: 6.8\n  value: 7\n  comfort: 7.3\n  staff: 8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490238400.jpg?k=0c7c2979aa0ba8dd984e1edaeece3e9d9fa115052a75288feb9e5bc6817807f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490451800.jpg?k=5a1e86a9a9f9e16b3200bc5e22b6ec2920a9492f019eeed572341ee5f7adf82d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490451703.jpg?k=23d2df9161f6629fefbf6918cfdd690a7746bd2632ff43606af09cf321184e76&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (58 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.1 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "Rinia Park 1.2 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Vila e Peshkut 40 m"\n  - "Restorant Poradeci 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 450 m"\n  - "Sheshi Rekreativ Don Bosko 700 m"\n  - "Sheshi Paris 750 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 750 m"\n  - "Sheshi Rekreativ Parku 1Km 800 m"\n  - "Sheshi Rekreativ Sali Butka 900 m"\n  - "House of Leaves 950 m"\n  - "National Museum of History Albania 950 m"\n  - "Sheshi Skënderbej 1,000 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/elios-apartament-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment boasts a layout that includes a bedroom with mountain views, ensuring a restful night's sleep, and a bathroom equipped with slippers and a hairdryer for a touch of home comfort. Entertainment is readily available through a flat-screen TV, catering to guests' diverse viewing preferences. Moreover, the accommodation provides captivating city views, adding to its charm.
+---
+title: "Elios room 1"
+description: "Elios Room 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490238400.jpg?k=0c7c2979aa0ba8dd984e1edaeece3e9d9fa115052a75288feb9e5bc6817807f3&o=&hp=1"
+language: en
+slug: elios-room-1
+address: "Rruga Xhezmi Delli 3, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32984
+  lng: 19.80612897
+price: "US$25"
+priceFrom: 25
+starRating: 3
+rating: 8.1
+ratingWords: "Very Good"
+numberOfReviews: 11
+ratings:
+  overall: 8.1
+  location: 9.3
+  cleanliness: 8
+  facilities: 6.8
+  value: 7
+  comfort: 7.3
+  staff: 8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490238400.jpg?k=0c7c2979aa0ba8dd984e1edaeece3e9d9fa115052a75288feb9e5bc6817807f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490451800.jpg?k=5a1e86a9a9f9e16b3200bc5e22b6ec2920a9492f019eeed572341ee5f7adf82d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490451703.jpg?k=23d2df9161f6629fefbf6918cfdd690a7746bd2632ff43606af09cf321184e76&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (58 Mbps)"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.1 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "Rinia Park 1.2 km"
+  - "National Gallery of Arts Tirana 1.3 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Tanners' Bridge 1.7 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Vila e Peshkut 40 m"
+  - "Restorant Poradeci 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 450 m"
+  - "Sheshi Rekreativ Don Bosko 700 m"
+  - "Sheshi Paris 750 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 750 m"
+  - "Sheshi Rekreativ Parku 1Km 800 m"
+  - "Sheshi Rekreativ Sali Butka 900 m"
+  - "House of Leaves 950 m"
+  - "National Museum of History Albania 950 m"
+  - "Sheshi Skënderbej 1,000 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/elios-apartament-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The apartment boasts a layout that includes a bedroom with mountain views, ensuring a restful night's sleep, and a bathroom equipped with slippers and a hairdryer for a touch of home comfort. Entertainment is readily available through a flat-screen TV, catering to guests' diverse viewing preferences. Moreover, the accommodation provides captivating city views, adding to its charm.
 
 For those looking to explore Tirana at their own pace, Elios Room 1 facilitates this adventure by offering both bicycle and car rental services, making it effortless for guests to navigate the city's must-see destinations. The apartment's proximity to notable attractions such as the House of Leaves, Rinia Park, and the Clock Tower of Tirana enriches the stay experience, allowing guests to immerse themselves in the local culture and history.
 

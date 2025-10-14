@@ -1,4 +1,80 @@
----\ntitle: "Hana apartament hot tub"\ndescription: "Hana Apartment Hot Tub emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466039268.jpg?k=9e9be43beacea5fe71ae9715c2fe411313d18e41797395237c6863a622e68c7d&o=&hp=1"\nlanguage: en\nslug: hana-apartament-hot-tub\naddress: "Rruga Vlorë apartament floor 9, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45861654\n  lng: 19.48637884\nprice: "US$117"\npriceFrom: 117\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 8\nratings:\n  overall: 8.7\n  location: 8.8\n  cleanliness: 9.7\n  facilities: 9.1\n  value: 9.1\n  comfort: 9.7\n  staff: 9.7\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466039268.jpg?k=9e9be43beacea5fe71ae9715c2fe411313d18e41797395237c6863a622e68c7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466036403.jpg?k=42fe33e0996e19151c070c441f7811dce2f3e59a67302d2c0b258a119d00b19a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480102781.jpg?k=da283e9660af0f1a159820d2d2a40dd07cbbba817213e92af4408bf4542b2a8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480102221.jpg?k=a88e8c1a94cfce61d26dc50bc6213513c1b13f012f8fc4ab0108ff05e1a967e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466034877.jpg?k=779b2854a088c156008e374f9de202e0da7a7d68b88730a3e0e47e4c134db42c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466034827.jpg?k=da4198e0b5909e61843b4da4666393c96000322097a880a356728b2876945660&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466040256.jpg?k=1d73b2de036e15bb1c193aff9dffa7329b6e75f992a9d358522a6e740f56cf84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466034752.jpg?k=a82b368d9fe5910c9af56de324cbb01b8d567d87d71229855425b67f047d2587&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466039064.jpg?k=7e81d31d405401703648e6010a858cd9e9b20af32045105dfd0909b28f45c3d4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (240 Mbps)"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "BSB 100 m"\n  - "Fast Food Angjelos 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 800 m"\n  - "Vlore Beach 1.3 km"\n  - "Ri Beach 2.6 km"\n  - "Beach at Government Villas 4.3 km"\n  - "Liro Beach 4.9 km"\nwhatsNearby:\n  - "Kuzum Baba 1.2 km"\n  - "Independence Square 1.4 km"\n  - "Scooby Doo Vlore 2.6 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Kastro"\n    country: "Serbia"\n    text: "“We liked everything it’s even better and bigger than in the pictures the most amazing place we were in Vlore last flor totally privacy we it was just 2 of us and our Dog that ofcours behave and doesn’t mount on coutches and beds and why would he...”"\n  - name: "Elbarese"\n    country: "Italy"\n    text: "“By far the most beautiful house since I come to Albania, comfort, cleanliness, services I will not miss this house for my next valone holiday.”"\nbookingURL: "https://www.booking.com/hotel/al/luxery-penthouse-i-amp-h.en-gb.html?aid=8035640"\nbestFor: "Best for Couples"\nbestCategories: "Couples"\ncategory: "Couples"\n---\n\nThe apartment itself is a testament to thoughtful design and comfort, featuring a spacious layout that includes two bedrooms, a living room, and a terrace that boasts stunning sea views. The inclusion of a hot tub adds a touch of luxury, ensuring relaxation is never more than a few steps away. For those who love to cook, the equipped kitchen with an oven and microwave provides everything needed to prepare meals. The convenience of two bathrooms with walk-in showers, along with the provision of bed linen, towels, and laundry service, underscores the apartment's commitment to guest comfort.
+---
+title: "Hana apartament hot tub"
+description: "Hana Apartment Hot Tub emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466039268.jpg?k=9e9be43beacea5fe71ae9715c2fe411313d18e41797395237c6863a622e68c7d&o=&hp=1"
+language: en
+slug: hana-apartament-hot-tub
+address: "Rruga Vlorë apartament floor 9, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45861654
+  lng: 19.48637884
+price: "US$117"
+priceFrom: 117
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 8
+ratings:
+  overall: 8.7
+  location: 8.8
+  cleanliness: 9.7
+  facilities: 9.1
+  value: 9.1
+  comfort: 9.7
+  staff: 9.7
+  wifi: 5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466039268.jpg?k=9e9be43beacea5fe71ae9715c2fe411313d18e41797395237c6863a622e68c7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466036403.jpg?k=42fe33e0996e19151c070c441f7811dce2f3e59a67302d2c0b258a119d00b19a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480102781.jpg?k=da283e9660af0f1a159820d2d2a40dd07cbbba817213e92af4408bf4542b2a8a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480102221.jpg?k=a88e8c1a94cfce61d26dc50bc6213513c1b13f012f8fc4ab0108ff05e1a967e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466034877.jpg?k=779b2854a088c156008e374f9de202e0da7a7d68b88730a3e0e47e4c134db42c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466034827.jpg?k=da4198e0b5909e61843b4da4666393c96000322097a880a356728b2876945660&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466040256.jpg?k=1d73b2de036e15bb1c193aff9dffa7329b6e75f992a9d358522a6e740f56cf84&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466034752.jpg?k=a82b368d9fe5910c9af56de324cbb01b8d567d87d71229855425b67f047d2587&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466039064.jpg?k=7e81d31d405401703648e6010a858cd9e9b20af32045105dfd0909b28f45c3d4&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (240 Mbps)"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "BSB 100 m"
+  - "Fast Food Angjelos 150 m"
+nearbyBeaches:
+  - "Vjetër Beach 800 m"
+  - "Vlore Beach 1.3 km"
+  - "Ri Beach 2.6 km"
+  - "Beach at Government Villas 4.3 km"
+  - "Liro Beach 4.9 km"
+whatsNearby:
+  - "Kuzum Baba 1.2 km"
+  - "Independence Square 1.4 km"
+  - "Scooby Doo Vlore 2.6 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Kastro"
+    country: "Serbia"
+    text: "“We liked everything it’s even better and bigger than in the pictures the most amazing place we were in Vlore last flor totally privacy we it was just 2 of us and our Dog that ofcours behave and doesn’t mount on coutches and beds and why would he...”"
+  - name: "Elbarese"
+    country: "Italy"
+    text: "“By far the most beautiful house since I come to Albania, comfort, cleanliness, services I will not miss this house for my next valone holiday.”"
+bookingURL: "https://www.booking.com/hotel/al/luxery-penthouse-i-amp-h.en-gb.html?aid=8035640"
+bestFor: "Best for Couples"
+bestCategories: "Couples"
+category: "Couples"
+---
+
+The apartment itself is a testament to thoughtful design and comfort, featuring a spacious layout that includes two bedrooms, a living room, and a terrace that boasts stunning sea views. The inclusion of a hot tub adds a touch of luxury, ensuring relaxation is never more than a few steps away. For those who love to cook, the equipped kitchen with an oven and microwave provides everything needed to prepare meals. The convenience of two bathrooms with walk-in showers, along with the provision of bed linen, towels, and laundry service, underscores the apartment's commitment to guest comfort.
 
 Adding to the appeal is the apartment's balcony, which not only offers views of the surrounding mountains but also comes furnished, making it an ideal spot for enjoying the outdoors in privacy. The presence of free WiFi throughout the property and a lift ensures that guests' needs are met with modern conveniences.
 

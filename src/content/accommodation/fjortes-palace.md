@@ -1,4 +1,77 @@
----\ntitle: "Fjortes Palace"\ndescription: "Fjortes Palace emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Vlorë, merely 16 km away from the iconic Independence Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019127.jpg?k=37a50cc2544f5da16afb1135c639cdf4b53bd55e08cdf1036c8ea187e5db47de&o=&hp=1"\nlanguage: en\nslug: fjortes-palace\naddress: "Autostrada 100 Vjetori i Pavarësisë Km 13, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.59880071\n  lng: 19.47702918\nprice: "US$27"\npriceFrom: 27\nstarRating: 4\nrating: 7.6\nratingWords: "Good"\nnumberOfReviews: 48\nratings:\n  overall: 7.6\n  location: 7\n  cleanliness: 7.7\n  facilities: 7.7\n  value: 7.9\n  comfort: 7.8\n  staff: 7.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019127.jpg?k=37a50cc2544f5da16afb1135c639cdf4b53bd55e08cdf1036c8ea187e5db47de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019039.jpg?k=cb6fa83e00537c04650fbbef7597f55c4d586b1e692712874e5f8a8aa63bf954&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019085.jpg?k=f8e43f128ab2b54d6728df55d1001cfd377465768ffc5b1888b32ea3e5a1a811&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019053.jpg?k=7ce340eaecbfab00928981717983fdd332dc8cd196b4d8f14c4702d499d28f12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019047.jpg?k=631479ef827b5012ec63144cdf976dc74d7e28bfe303a10ce7dda1d42c389bc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019065.jpg?k=717013ed4b1c4752293d70f0219769aef6ed2f737de50f3169051d92596281fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019071.jpg?k=b75931c8f3a6d043bb8c591e824c69cf53e11b9d71e31b8edde6de56053bbfd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019051.jpg?k=228d99ad3baec1b5e4df4a34c41a881b5c5eb417c8caa542e46db2a9d52a57d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019088.jpg?k=252b31430b6a1fda7bd285f0434489862c75298d14c549365567faa15fa43208&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019130.jpg?k=21e83b1b070fb5165f402e4bc1e7ae511dc7465dc658d3b5c0b86e05039bb2f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019079.jpg?k=ceb60962556c3fa09644f3465763597c6435297f2089c47f130d01b91f38b491&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019043.jpg?k=d0693f2ce3e334111c457e76853776276aedabf9437f16c52bc0c71ccbf4bd51&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Single Room"\n  - "Deluxe Double Room"\n  - "Comfort Triple Room"\n  - "Deluxe Quadruple Room"\nnearbyRestaurants:\n  - "Kantina Balaj 1.3 km"\n  - "Restorant Adriano 2.3 km"\nwhatsNearby:\n  - "Independence Square 14 km"\n  - "Kuzum Baba 15 km"\n  - "Scooby Doo Vlore 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 91 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/fjortes-palace.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon entering Fjortes Palace, guests are greeted with a harmonious blend of modernity and comfort. Each room is meticulously equipped with air conditioning, ensuring a respite from the Mediterranean warmth, alongside a desk and a terrace that presents a breathtaking mountain view. The attention to detail extends to the provision of a private bathroom, a flat-screen TV, and the essential comforts of bed linen and towels, complemented by the convenience of a fridge in every unit.
+---
+title: "Fjortes Palace"
+description: "Fjortes Palace emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Vlorë, merely 16 km away from the iconic Independence Square."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019127.jpg?k=37a50cc2544f5da16afb1135c639cdf4b53bd55e08cdf1036c8ea187e5db47de&o=&hp=1"
+language: en
+slug: fjortes-palace
+address: "Autostrada 100 Vjetori i Pavarësisë Km 13, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.59880071
+  lng: 19.47702918
+price: "US$27"
+priceFrom: 27
+starRating: 4
+rating: 7.6
+ratingWords: "Good"
+numberOfReviews: 48
+ratings:
+  overall: 7.6
+  location: 7
+  cleanliness: 7.7
+  facilities: 7.7
+  value: 7.9
+  comfort: 7.8
+  staff: 7.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019127.jpg?k=37a50cc2544f5da16afb1135c639cdf4b53bd55e08cdf1036c8ea187e5db47de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019039.jpg?k=cb6fa83e00537c04650fbbef7597f55c4d586b1e692712874e5f8a8aa63bf954&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019085.jpg?k=f8e43f128ab2b54d6728df55d1001cfd377465768ffc5b1888b32ea3e5a1a811&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019053.jpg?k=7ce340eaecbfab00928981717983fdd332dc8cd196b4d8f14c4702d499d28f12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019047.jpg?k=631479ef827b5012ec63144cdf976dc74d7e28bfe303a10ce7dda1d42c389bc9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019065.jpg?k=717013ed4b1c4752293d70f0219769aef6ed2f737de50f3169051d92596281fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019071.jpg?k=b75931c8f3a6d043bb8c591e824c69cf53e11b9d71e31b8edde6de56053bbfd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019051.jpg?k=228d99ad3baec1b5e4df4a34c41a881b5c5eb417c8caa542e46db2a9d52a57d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019088.jpg?k=252b31430b6a1fda7bd285f0434489862c75298d14c549365567faa15fa43208&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019130.jpg?k=21e83b1b070fb5165f402e4bc1e7ae511dc7465dc658d3b5c0b86e05039bb2f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019079.jpg?k=ceb60962556c3fa09644f3465763597c6435297f2089c47f130d01b91f38b491&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019043.jpg?k=d0693f2ce3e334111c457e76853776276aedabf9437f16c52bc0c71ccbf4bd51&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Facilities for disabled guests"
+  - "Free parking"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Single Room"
+  - "Deluxe Double Room"
+  - "Comfort Triple Room"
+  - "Deluxe Quadruple Room"
+nearbyRestaurants:
+  - "Kantina Balaj 1.3 km"
+  - "Restorant Adriano 2.3 km"
+whatsNearby:
+  - "Independence Square 14 km"
+  - "Kuzum Baba 15 km"
+  - "Scooby Doo Vlore 18 km"
+airports:
+  - "Tirana International Airport Mother Teresa 91 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/fjortes-palace.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Upon entering Fjortes Palace, guests are greeted with a harmonious blend of modernity and comfort. Each room is meticulously equipped with air conditioning, ensuring a respite from the Mediterranean warmth, alongside a desk and a terrace that presents a breathtaking mountain view. The attention to detail extends to the provision of a private bathroom, a flat-screen TV, and the essential comforts of bed linen and towels, complemented by the convenience of a fridge in every unit.
 
 The hotel's commitment to service excellence is evident through its multilingual staff, proficient in English, Spanish, Italian, and Albanian, ready to assist guests at any hour. Whether it's facilitating room service, currency exchange, or simply offering local insights, the team at Fjortes Palace ensures a seamless and enriching stay for every guest.
 

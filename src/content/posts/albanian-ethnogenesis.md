@@ -13,7 +13,6 @@ seo:
   robots: "index"
   metaTitle: "Albanian Ethnogenesis - Scientific Evidence of Balkan Continuity"
   metaDescription: "Modern DNA, archaeology, and linguistic evidence prove Albanians descend from ancient Illyrians—refuting myths of 14th-century migration."
-  robots: "index"
 ---
 
 ## Deconstructing the 14th-Century Invasion Myth

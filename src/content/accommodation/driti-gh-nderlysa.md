@@ -1,4 +1,81 @@
----\ntitle: "Driti GH Nderlysa"\ndescription: "Driti GH Nderlysa emerges as a serene retreat for travelers seeking solace amidst nature, located just 8."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478361451.jpg?k=bd8a3cf5a5879ee7ee5806807d8292961593d383af0e872b04141a3f637ad13d&o=&hp=1"\nlanguage: en\nslug: driti-gh-nderlysa\naddress: "Rruga Nderlysa none, 4027 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.35595127\n  lng: 19.77033365\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 43\nratings:\n  overall: 8.5\n  location: 9.4\n  cleanliness: 8.7\n  facilities: 7.7\n  value: 7.8\n  comfort: 8.3\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478361451.jpg?k=bd8a3cf5a5879ee7ee5806807d8292961593d383af0e872b04141a3f637ad13d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472895927.jpg?k=d1da5e4d01aeeabd289ec808c038c4a08cb2e69fa491b390f122d940166019f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369935247.jpg?k=b6e3cb0d0f85b77a1fb44bb5b29c661963bcd7525d4b649250c8afc72d6a5a08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896369.jpg?k=c3b5b2b717b14889c47ee5340a414e5f309814156804101aa2e3636fb28e79f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472773489.jpg?k=ff7a94964b90dc7c4764f2dcb09c1201c66e1c007a05e594e04dce8bc06e1a8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303509533.jpg?k=115a2e41503d4c0c91b5fb0e2d5ddfcdb6814d9b1c61d6df5cae36f2fe39e92f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472895588.jpg?k=9b3bb5337906c3c3a89ddcfdd34a04a90089f1713515b63ebf534c768c9030f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896325.jpg?k=882223ed435a14ba08c03267c322dc9a3920354ad21af9d795d37b444d814f8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902847.jpg?k=3efa83a56b847fc885af7a4018de53c4de1863ba02121cf9f06e87ec785a74f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902832.jpg?k=e94f05674e486653727408e6e36796c824399990457e54292bbc6ce84da87467&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902819.jpg?k=f4396fb887dafe27400b93f5019ffef22ddf26a9c8d4a9d130043e2f16c9cc08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902806.jpg?k=3398bf5f1635c54f5ba9bac78737ea8680fb38b5cbe17e8292141b9db706ac9e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Standard Double Room"\nnearbyRestaurants:\n  - "Bar Kafe 400 m"\n  - "Bar Kafe 3.4 km"\nwhatsNearby:\n  - "Theth National Park 1.2 km"\n  - "Valbona Valley National Park 6 km"\n  - "Theth National Park 6 km"\n  - "Prokletije National Park 13 km"\n  - "Parku Kombëtar Lugina e Valbonës 16 km"\nairports:\n  - "Podgorica Airport 42 km"\n  - "Tivat Airport 85 km"\nreviews:\n  - name: "Edmund"\n    country: "Hungary"\n    text: "“The hosts were absolutely amazing and welcoming people. They prepared us a huge dinner (even more than we expected and for a great value) and helped us with the transport and recommended us places to see. For breakfast we got some traditional food...”"\n  - name: "Anonymous"\n    country: "Australia"\n    text: "“Lovely family that run the guesthouse. It is really close to the blue eye with a path starting from the garden. It is in a quiet environment surrounded by the mountains. The food is really good!”"\n  - name: "Marlijn"\n    country: "Netherlands"\n    text: "“Heel hartelijk ontvangst! Koffers werden voor ons naar boven gebracht zonder te vragen. De forel was echt heel lekker (& vers!). De wandeling naar de Blue Eye is om de hoek, dus dat is ideaal. Gezellige sfeer rondom de guesthouse.”"\nbookingURL: "https://www.booking.com/hotel/al/driti-gh-nderlysa.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations at Driti GH Nderlysa are thoughtfully designed to ensure comfort and convenience. Each room is equipped with satellite TV, alongside a cozy seating area perfect for unwinding after a day of exploration. The presence of a fully equipped kitchen, including an oven, a microwave, and a fridge, adds a touch of home, allowing guests the freedom to prepare their meals as they please. Moreover, the outdoor dining area offers a unique opportunity to dine under the stars, enhancing the overall experience of staying here.
+---
+title: "Driti GH Nderlysa"
+description: "Driti GH Nderlysa emerges as a serene retreat for travelers seeking solace amidst nature, located just 8."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478361451.jpg?k=bd8a3cf5a5879ee7ee5806807d8292961593d383af0e872b04141a3f637ad13d&o=&hp=1"
+language: en
+slug: driti-gh-nderlysa
+address: "Rruga Nderlysa none, 4027 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 42.35595127
+  lng: 19.77033365
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 43
+ratings:
+  overall: 8.5
+  location: 9.4
+  cleanliness: 8.7
+  facilities: 7.7
+  value: 7.8
+  comfort: 8.3
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478361451.jpg?k=bd8a3cf5a5879ee7ee5806807d8292961593d383af0e872b04141a3f637ad13d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472895927.jpg?k=d1da5e4d01aeeabd289ec808c038c4a08cb2e69fa491b390f122d940166019f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369935247.jpg?k=b6e3cb0d0f85b77a1fb44bb5b29c661963bcd7525d4b649250c8afc72d6a5a08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896369.jpg?k=c3b5b2b717b14889c47ee5340a414e5f309814156804101aa2e3636fb28e79f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472773489.jpg?k=ff7a94964b90dc7c4764f2dcb09c1201c66e1c007a05e594e04dce8bc06e1a8e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303509533.jpg?k=115a2e41503d4c0c91b5fb0e2d5ddfcdb6814d9b1c61d6df5cae36f2fe39e92f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472895588.jpg?k=9b3bb5337906c3c3a89ddcfdd34a04a90089f1713515b63ebf534c768c9030f5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472896325.jpg?k=882223ed435a14ba08c03267c322dc9a3920354ad21af9d795d37b444d814f8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902847.jpg?k=3efa83a56b847fc885af7a4018de53c4de1863ba02121cf9f06e87ec785a74f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902832.jpg?k=e94f05674e486653727408e6e36796c824399990457e54292bbc6ce84da87467&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902819.jpg?k=f4396fb887dafe27400b93f5019ffef22ddf26a9c8d4a9d130043e2f16c9cc08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473902806.jpg?k=3398bf5f1635c54f5ba9bac78737ea8680fb38b5cbe17e8292141b9db706ac9e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+  - "Bar"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Standard Double Room"
+nearbyRestaurants:
+  - "Bar Kafe 400 m"
+  - "Bar Kafe 3.4 km"
+whatsNearby:
+  - "Theth National Park 1.2 km"
+  - "Valbona Valley National Park 6 km"
+  - "Theth National Park 6 km"
+  - "Prokletije National Park 13 km"
+  - "Parku Kombëtar Lugina e Valbonës 16 km"
+airports:
+  - "Podgorica Airport 42 km"
+  - "Tivat Airport 85 km"
+reviews:
+  - name: "Edmund"
+    country: "Hungary"
+    text: "“The hosts were absolutely amazing and welcoming people. They prepared us a huge dinner (even more than we expected and for a great value) and helped us with the transport and recommended us places to see. For breakfast we got some traditional food...”"
+  - name: "Anonymous"
+    country: "Australia"
+    text: "“Lovely family that run the guesthouse. It is really close to the blue eye with a path starting from the garden. It is in a quiet environment surrounded by the mountains. The food is really good!”"
+  - name: "Marlijn"
+    country: "Netherlands"
+    text: "“Heel hartelijk ontvangst! Koffers werden voor ons naar boven gebracht zonder te vragen. De forel was echt heel lekker (& vers!). De wandeling naar de Blue Eye is om de hoek, dus dat is ideaal. Gezellige sfeer rondom de guesthouse.”"
+bookingURL: "https://www.booking.com/hotel/al/driti-gh-nderlysa.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The accommodations at Driti GH Nderlysa are thoughtfully designed to ensure comfort and convenience. Each room is equipped with satellite TV, alongside a cozy seating area perfect for unwinding after a day of exploration. The presence of a fully equipped kitchen, including an oven, a microwave, and a fridge, adds a touch of home, allowing guests the freedom to prepare their meals as they please. Moreover, the outdoor dining area offers a unique opportunity to dine under the stars, enhancing the overall experience of staying here.
 
 Morning at Driti GH Nderlysa begins with a delightful continental breakfast, offering a variety of options such as fresh fruits, juices, and cheese, ensuring a refreshing start to the day.
 

@@ -1,6 +1,71 @@
----\ntitle: "Manga Apartments 3+1"\ndescription: "Manga Apartments 3+1 emerges as a serene retreat in the historic city of Gjirokastër, a mere stone's throw away from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982319.jpg?k=06e0d1aa25faef9364cfb569b89b0af8547e5e37102229affc1c7c50e1e8d26c&o=&hp=1"\nlanguage: en\nslug: manga-apartments-3-1\naddress: "Rruga Doktor Vasil Jorgji 3, Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08248525\n  lng: 20.14437252\nprice: "US$92"\npriceFrom: 92\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9.4\n  location: 8\n  cleanliness: 9.5\n  facilities: 10\n  value: 9.5\n  comfort: 10\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982319.jpg?k=06e0d1aa25faef9364cfb569b89b0af8547e5e37102229affc1c7c50e1e8d26c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982429.jpg?k=9941140142c864367ebccfaf1bbc7b2eb8fb12b1fc0cb7e08b39059ed11bc768&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982410.jpg?k=4303830da53c7efc6491f00b974e139475ff38899dac8143a7b24d6486f8b26b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982372.jpg?k=13dbbb6ffea32fbb1b37b33c7b1e7eae2a6a6d0b70cf3fdd594920c195628dcc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982390.jpg?k=dd40e453604ba7a3cddd02e82a5c5bd09f1bc60f3196f54a3e222a5ec4217563&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982384.jpg?k=438d806761c5ba558395b51a3fe333638a72215fdc072a0676c7919e654b6e49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982421.jpg?k=9ceede1b955cc1f29e9a3e33a6e851f429a3e44838c13a1c24463aca812e87b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982422.jpg?k=fb3e72b21ba9c97c88baa93da7b0a30d3ef07cb315a2d196936bcad0a41a5f7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982374.jpg?k=046b35320ca04f571daec03b5c0190a87e718e4d126a525bda0306673d7ade86&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tribeca 50 m"\n  - "Pizzeria Megusta 200 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Laurentiu"\n    country: "Romania"\n    text: "“Everything was excellent.
+---
+title: "Manga Apartments 3+1"
+description: "Manga Apartments 3+1 emerges as a serene retreat in the historic city of Gjirokastër, a mere stone's throw away from the tranquil Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982319.jpg?k=06e0d1aa25faef9364cfb569b89b0af8547e5e37102229affc1c7c50e1e8d26c&o=&hp=1"
+language: en
+slug: manga-apartments-3-1
+address: "Rruga Doktor Vasil Jorgji 3, Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.08248525
+  lng: 20.14437252
+price: "US$92"
+priceFrom: 92
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 6
+ratings:
+  overall: 9.4
+  location: 8
+  cleanliness: 9.5
+  facilities: 10
+  value: 9.5
+  comfort: 10
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982319.jpg?k=06e0d1aa25faef9364cfb569b89b0af8547e5e37102229affc1c7c50e1e8d26c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982429.jpg?k=9941140142c864367ebccfaf1bbc7b2eb8fb12b1fc0cb7e08b39059ed11bc768&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982410.jpg?k=4303830da53c7efc6491f00b974e139475ff38899dac8143a7b24d6486f8b26b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982372.jpg?k=13dbbb6ffea32fbb1b37b33c7b1e7eae2a6a6d0b70cf3fdd594920c195628dcc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982390.jpg?k=dd40e453604ba7a3cddd02e82a5c5bd09f1bc60f3196f54a3e222a5ec4217563&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982384.jpg?k=438d806761c5ba558395b51a3fe333638a72215fdc072a0676c7919e654b6e49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982421.jpg?k=9ceede1b955cc1f29e9a3e33a6e851f429a3e44838c13a1c24463aca812e87b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982422.jpg?k=fb3e72b21ba9c97c88baa93da7b0a30d3ef07cb315a2d196936bcad0a41a5f7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982374.jpg?k=046b35320ca04f571daec03b5c0190a87e718e4d126a525bda0306673d7ade86&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Three-Bedroom Apartment"
+nearbyRestaurants:
+  - "Tribeca 50 m"
+  - "Pizzeria Megusta 200 m"
+airports:
+  - "Corfu International Airport 56 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Laurentiu"
+    country: "Romania"
+    text: "“Everything was excellent.
 It's definitely a great place.
-Highly recommended”"\n  - name: "Luka"\n    country: "Montenegro"\n    text: "“Όλα ήτανε υπέροχα και διακοπές μας έφτιαξαν να γίνουν τέλεια!”"\nbookingURL: "https://www.booking.com/hotel/al/manga-apartments-3-1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon entering the apartment, visitors are greeted with a spacious layout that includes three well-appointed bedrooms, each promising a restful night's sleep. The living space is anchored by a flat-screen TV, perfect for leisurely evenings in. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with a dishwasher and an oven, making meal preparation not just possible but a pleasure. Additionally, the inclusion of a washing machine adds a layer of convenience for longer stays.
+Highly recommended”"
+  - name: "Luka"
+    country: "Montenegro"
+    text: "“Όλα ήτανε υπέροχα και διακοπές μας έφτιαξαν να γίνουν τέλεια!”"
+bookingURL: "https://www.booking.com/hotel/al/manga-apartments-3-1.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Upon entering the apartment, visitors are greeted with a spacious layout that includes three well-appointed bedrooms, each promising a restful night's sleep. The living space is anchored by a flat-screen TV, perfect for leisurely evenings in. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with a dishwasher and an oven, making meal preparation not just possible but a pleasure. Additionally, the inclusion of a washing machine adds a layer of convenience for longer stays.
 
 What sets Manga Apartments 3+1 apart are the thoughtful touches that elevate the guest experience. Two modern bathrooms, each featuring a hot tub, offer a spa-like escape, with a hair dryer provided for added convenience. The property's commitment to a non-smoking environment ensures a fresh and welcoming atmosphere throughout.
 

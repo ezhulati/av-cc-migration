@@ -1,4 +1,93 @@
----\ntitle: "Entire serviced apartment with a beautiful view"\ndescription: "Entire Serviced Apartment with a Beautiful View stands as a testament to modern comfort and convenience, located in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682188.jpg?k=908cd250d0c9ef3077c021a9447ebbfe1aca6b21a4d1620f6162e7d2c32160cf&o=&hp=1"\nlanguage: en\nslug: entire-serviced-apartment-with-a-beautiful-view\naddress: "Rruga e Kavajës, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32789894\n  lng: 19.81533882\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 37\nratings:\n  overall: 9.4\n  location: 9.8\n  cleanliness: 9.3\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.3\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682188.jpg?k=908cd250d0c9ef3077c021a9447ebbfe1aca6b21a4d1620f6162e7d2c32160cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682193.jpg?k=4cb7896cd6ec8c655f83504b6bddbfb163d6c6f2359bd2762b36a8d154afa75f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146674.jpg?k=2201d3ff9373280ef1fdaa8afdb22188087395a043dbb96389a32055b555b787&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405681790.jpg?k=140f6dc8e2e594d80eef562516582ed0c546aaeac82c4a4300ecf5257aa08e78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405681793.jpg?k=5902c3d82997cabe636c94acf13b48c87c95535c74c2784e8da77c721c449458&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494645304.jpg?k=0cc014514e2b5f137a84ac9aec9e5e37d42c5d5427733d0e54be614d0dcd1686&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682115.jpg?k=befb12094c8cf47e51e46af8853663c2a3f0eed1da47648a00071c611961989c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405681798.jpg?k=f55f355d266ea228b953796f5d9a79965e36c21738eae3f47ab843e5b41d0146&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353148339.jpg?k=55513079e8d2852639661120abf2ce5b8fadf19253d0e265032e2184d8984902&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146666.jpg?k=333135057357eac40810bac871cbed8d1b32235e26bca0f423ab296fada190ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146675.jpg?k=78389b7d2ecb967b3a41e9f04817a3d70fceb2903a4badcc44db7bab4fc797ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146681.jpg?k=8452b8d9151e59cfc105744daf7945c90dbef72182bdf88210651b68dc6db176&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682157.jpg?k=d72090e41d0645a8d1feb002fa2aa103dada4eccfcf5c99961f5d33effaa293d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682160.jpg?k=3144e6efe70063a9cc037bda91a573cb5a6f3c7f65e619f68c01810a030ea4e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146655.jpg?k=3ec131b45be9f4ffb3af520d86dbac0e1f3af8f5594d9b9759b675c3cb19e37f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 800 m"\n  - "Tanners' Bridge 900 m"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 4.5 km"\nnearbyRestaurants:\n  - "Capitol Meat & Chicken 40 m"\n  - "Ideal 50 m"\nwhatsNearby:\n  - "House of Leaves 150 m"\n  - "Sheshi Paris 150 m"\n  - "Sheshi Skënderbej 250 m"\n  - "National Museum of History Albania 250 m"\n  - "Parku Europa 300 m"\n  - "Skanderbeg Square 300 m"\n  - "Clock Tower Tirana 350 m"\n  - "Parku Rinia 400 m"\n  - "Rinia Park 450 m"\n  - "National Gallery of Arts Tirana 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Laura"\n    country: "United Kingdom"\n    text: "“Great central location. Very comfortable bed and had everything needed for a city break.”"\n  - name: "Afrim"\n    country: "Kosovo"\n    text: "“My friend and I had to participate in a marathon race in Tirana, so we asked for an extension for our check-out. Without any hesitation, the owner Nensi allowed us to check out one hour later, which we greatly appreciated as it was incredibly...”"\n  - name: "Madalyn"\n    country: "Australia"\n    text: "“The location was perfect to explore Tirana. The apartment was very comfortable and was great for travelling with a group. The host was very helpful!”"\nbookingURL: "https://www.booking.com/hotel/al/entire-serviced-apartment-with-a-beautiful-view.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned apartment is a haven of space and light, featuring two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen for those who enjoy preparing their own meals. The inclusion of a flat-screen TV ensures entertainment is never far away, while the commitment to a non-smoking environment promotes a clean and healthy stay.
+---
+title: "Entire serviced apartment with a beautiful view"
+description: "Entire Serviced Apartment with a Beautiful View stands as a testament to modern comfort and convenience, located in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682188.jpg?k=908cd250d0c9ef3077c021a9447ebbfe1aca6b21a4d1620f6162e7d2c32160cf&o=&hp=1"
+language: en
+slug: entire-serviced-apartment-with-a-beautiful-view
+address: "Rruga e Kavajës, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32789894
+  lng: 19.81533882
+price: "US$56"
+priceFrom: 56
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 37
+ratings:
+  overall: 9.4
+  location: 9.8
+  cleanliness: 9.3
+  facilities: 9.2
+  value: 9.5
+  comfort: 9.3
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682188.jpg?k=908cd250d0c9ef3077c021a9447ebbfe1aca6b21a4d1620f6162e7d2c32160cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682193.jpg?k=4cb7896cd6ec8c655f83504b6bddbfb163d6c6f2359bd2762b36a8d154afa75f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146674.jpg?k=2201d3ff9373280ef1fdaa8afdb22188087395a043dbb96389a32055b555b787&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405681790.jpg?k=140f6dc8e2e594d80eef562516582ed0c546aaeac82c4a4300ecf5257aa08e78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405681793.jpg?k=5902c3d82997cabe636c94acf13b48c87c95535c74c2784e8da77c721c449458&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494645304.jpg?k=0cc014514e2b5f137a84ac9aec9e5e37d42c5d5427733d0e54be614d0dcd1686&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682115.jpg?k=befb12094c8cf47e51e46af8853663c2a3f0eed1da47648a00071c611961989c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405681798.jpg?k=f55f355d266ea228b953796f5d9a79965e36c21738eae3f47ab843e5b41d0146&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353148339.jpg?k=55513079e8d2852639661120abf2ce5b8fadf19253d0e265032e2184d8984902&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146666.jpg?k=333135057357eac40810bac871cbed8d1b32235e26bca0f423ab296fada190ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146675.jpg?k=78389b7d2ecb967b3a41e9f04817a3d70fceb2903a4badcc44db7bab4fc797ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146681.jpg?k=8452b8d9151e59cfc105744daf7945c90dbef72182bdf88210651b68dc6db176&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682157.jpg?k=d72090e41d0645a8d1feb002fa2aa103dada4eccfcf5c99961f5d33effaa293d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682160.jpg?k=3144e6efe70063a9cc037bda91a573cb5a6f3c7f65e619f68c01810a030ea4e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353146655.jpg?k=3ec131b45be9f4ffb3af520d86dbac0e1f3af8f5594d9b9759b675c3cb19e37f&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 800 m"
+  - "Tanners' Bridge 900 m"
+  - "Grand Park of Tirana 2 km"
+  - "Bunk'Art 1 Museum 4.5 km"
+nearbyRestaurants:
+  - "Capitol Meat & Chicken 40 m"
+  - "Ideal 50 m"
+whatsNearby:
+  - "House of Leaves 150 m"
+  - "Sheshi Paris 150 m"
+  - "Sheshi Skënderbej 250 m"
+  - "National Museum of History Albania 250 m"
+  - "Parku Europa 300 m"
+  - "Skanderbeg Square 300 m"
+  - "Clock Tower Tirana 350 m"
+  - "Parku Rinia 400 m"
+  - "Rinia Park 450 m"
+  - "National Gallery of Arts Tirana 500 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Laura"
+    country: "United Kingdom"
+    text: "“Great central location. Very comfortable bed and had everything needed for a city break.”"
+  - name: "Afrim"
+    country: "Kosovo"
+    text: "“My friend and I had to participate in a marathon race in Tirana, so we asked for an extension for our check-out. Without any hesitation, the owner Nensi allowed us to check out one hour later, which we greatly appreciated as it was incredibly...”"
+  - name: "Madalyn"
+    country: "Australia"
+    text: "“The location was perfect to explore Tirana. The apartment was very comfortable and was great for travelling with a group. The host was very helpful!”"
+bookingURL: "https://www.booking.com/hotel/al/entire-serviced-apartment-with-a-beautiful-view.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This air-conditioned apartment is a haven of space and light, featuring two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen for those who enjoy preparing their own meals. The inclusion of a flat-screen TV ensures entertainment is never far away, while the commitment to a non-smoking environment promotes a clean and healthy stay.
 
 Connectivity is a breeze with free WiFi available throughout the premises, ensuring guests stay connected with the world or plan their next adventure in Tirana. The property's prime location places visitors within walking distance of Skanderbeg Square, merely 600 meters away, along with proximity to notable attractions such as the Et'hem Bey Mosque, the National Theatre of Opera and Ballet of Albania, and the National Museum of History Albania.
 

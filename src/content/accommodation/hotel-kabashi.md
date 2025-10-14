@@ -1,4 +1,77 @@
----\ntitle: "Hotel Kabashi"\ndescription: "Hotel Kabashi emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863552.jpg?k=07e7567f62809947c40fd3ec8c3934a23b0fbd327b1c6863c46c587a5c00c3e8&o=&hp=1"\nlanguage: en\nslug: hotel-kabashi\naddress: "SH3, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.65391785\n  lng: 20.74594215\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 32\nratings:\n  overall: 7.9\n  location: 7.6\n  cleanliness: 7.6\n  facilities: 7.1\n  value: 7.5\n  comfort: 7.4\n  staff: 8.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863552.jpg?k=07e7567f62809947c40fd3ec8c3934a23b0fbd327b1c6863c46c587a5c00c3e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863922.jpg?k=398432b45014865f3b137be4f214f3a013a8423d76404c346a758b95e4684178&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863127.jpg?k=23bcbfe1a7d1ea0fe7485d45b2c75567ab10ef8f88965c56b30cf883b7419617&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209864922.jpg?k=aaadd323850be48b4162cd1935461b1456aa3381c71fbdf6e356ca7a0bb90ebd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209861975.jpg?k=99a543a15d6c767572eceffd2f873e0e6e2657495cbd5de8acfca79958ce6678&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863936.jpg?k=4e1429f3a5740594c39c4116e71be4af88a5ba4dffbd957ee552d8f2f202e6b5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Double Room"\nnearbyRestaurants:\n  - "Medusa 800 m"\n  - "Restorant OAZ 3.3 km"\nwhatsNearby:\n  - "Sheshi Panxhar 2.5 km"\n  - "Parku Rinia 4.7 km"\n  - "Parku Themistokli Gërmenji 5 km"\n  - "Field of Tears 5 km"\n  - "Parku Rinia 5 km"\n  - "Parku Vangjush Mio 5 km"\n  - "Sheshi Patriku Joasaf 5 km"\n  - "Sheshi Penetori 7 km"\n  - "Sheshi Koço Plaku 15 km"\nairports:\n  - "Kastoria National Airport 49 km"\n  - "Ohrid Airport 57 km"\nreviews:\n  - name: "Malo"\n    country: "Albania"\n    text: "“Njerez shume te komunikueshem , ushqimi i shijshem .”"\nbookingURL: "https://www.booking.com/hotel/al/kabashi.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe hotel prides itself on providing a comprehensive array of services designed to enhance the guest experience. From the moment of arrival, visitors are greeted with a plethora of facilities including complimentary private parking, a welcoming garden, a shared lounge for relaxation, and a terrace that offers a splendid view of the city's skyline. The on-site restaurant and bar serve as perfect spots for guests to unwind after a day of exploration, offering a variety of local and international cuisines and beverages.
+---
+title: "Hotel Kabashi"
+description: "Hotel Kabashi emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Korçë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863552.jpg?k=07e7567f62809947c40fd3ec8c3934a23b0fbd327b1c6863c46c587a5c00c3e8&o=&hp=1"
+language: en
+slug: hotel-kabashi
+address: "SH3, 7001 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.65391785
+  lng: 20.74594215
+price: "US$30"
+priceFrom: 30
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 32
+ratings:
+  overall: 7.9
+  location: 7.6
+  cleanliness: 7.6
+  facilities: 7.1
+  value: 7.5
+  comfort: 7.4
+  staff: 8.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863552.jpg?k=07e7567f62809947c40fd3ec8c3934a23b0fbd327b1c6863c46c587a5c00c3e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863922.jpg?k=398432b45014865f3b137be4f214f3a013a8423d76404c346a758b95e4684178&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863127.jpg?k=23bcbfe1a7d1ea0fe7485d45b2c75567ab10ef8f88965c56b30cf883b7419617&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209864922.jpg?k=aaadd323850be48b4162cd1935461b1456aa3381c71fbdf6e356ca7a0bb90ebd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209861975.jpg?k=99a543a15d6c767572eceffd2f873e0e6e2657495cbd5de8acfca79958ce6678&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863936.jpg?k=4e1429f3a5740594c39c4116e71be4af88a5ba4dffbd957ee552d8f2f202e6b5&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+roomTypes:
+  - "Double Room with Balcony"
+  - "Double Room"
+nearbyRestaurants:
+  - "Medusa 800 m"
+  - "Restorant OAZ 3.3 km"
+whatsNearby:
+  - "Sheshi Panxhar 2.5 km"
+  - "Parku Rinia 4.7 km"
+  - "Parku Themistokli Gërmenji 5 km"
+  - "Field of Tears 5 km"
+  - "Parku Rinia 5 km"
+  - "Parku Vangjush Mio 5 km"
+  - "Sheshi Patriku Joasaf 5 km"
+  - "Sheshi Penetori 7 km"
+  - "Sheshi Koço Plaku 15 km"
+airports:
+  - "Kastoria National Airport 49 km"
+  - "Ohrid Airport 57 km"
+reviews:
+  - name: "Malo"
+    country: "Albania"
+    text: "“Njerez shume te komunikueshem , ushqimi i shijshem .”"
+bookingURL: "https://www.booking.com/hotel/al/kabashi.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The hotel prides itself on providing a comprehensive array of services designed to enhance the guest experience. From the moment of arrival, visitors are greeted with a plethora of facilities including complimentary private parking, a welcoming garden, a shared lounge for relaxation, and a terrace that offers a splendid view of the city's skyline. The on-site restaurant and bar serve as perfect spots for guests to unwind after a day of exploration, offering a variety of local and international cuisines and beverages.
 
 Accommodations at Hotel Kabashi are thoughtfully designed to ensure maximum comfort and convenience. Each room is equipped with essential furnishings, including a wardrobe, a desk, and a flat-screen TV, catering to the needs of both leisure and business travelers. The private bathrooms, fitted with showers and complimentary toiletries, add an extra layer of privacy and comfort, while the inclusion of free WiFi throughout the property ensures that guests remain connected during their stay.
 

@@ -1,4 +1,80 @@
----\ntitle: "Modern Apartment. City Center."\ndescription: "Discover the epitome of urban living at Modern Apartment, City Center, a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053977.jpg?k=92a2fcfeecffd44080ebacb1a71aa30f2a461a5c14bf244e8304d285e57d5054&o=&hp=1"\nlanguage: en\nslug: modern-apartment-city-center\naddress: "8 Rruga Ismail Qemali, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3218735\n  lng: 19.8240044\nprice: "US$70"\npriceFrom: 70\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053977.jpg?k=92a2fcfeecffd44080ebacb1a71aa30f2a461a5c14bf244e8304d285e57d5054&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523052824.jpg?k=2ff3320aec2aac13d47853e0ed7a1f04a43ec005f3d8922a025724cc9fc9af24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523052301.jpg?k=ec56dd87c34678a44f65130445d584fa38cccbf76bb3d1c07ff915c8cdec25bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053165.jpg?k=88bef0869efd346b720b3f8e3185c9127c479d908872fd2ef099b4c55664c5c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053460.jpg?k=9b730bc2fd5218e06dcf8b9856ca6c6de0031b0ce4ed64f3e2e2e1f627b9fb4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053877.jpg?k=8e6a7a3e1eb250087ca21cca170db0aa0b1a2e994dd61cadfc89a88f18e9e968&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523052482.jpg?k=f2d501c1e0317e43d07a5777f806c5cd0312d56916dd786975b2df84537532a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053330.jpg?k=bd05f0dc30010844722e5dcf894acb5a166936fba452a0fb005f4efc63032e95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053952.jpg?k=fb66b4a2ffddcdb67554f54f4ae22d62668f4f5ca290b3a80a2ba96c42bb1a71&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 750 m"\n  - "Skanderbeg Square 750 m"\n  - "House of Leaves 850 m"\n  - "National Museum of History Albania 1 km"\n  - "Grand Park of Tirana 1.1 km"\n  - "Bunk'Art 1 Museum 4.4 km"\nnearbyRestaurants:\n  - "Heat 10 m"\n  - "Artist 30 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Piramida 250 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 300 m"\n  - "Shesh Rekreativ 350 m"\n  - "Shesh Rekreativ 400 m"\n  - "Tanners' Bridge 550 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Parku Rinia 550 m"\n  - "Former Residence of Enver Hoxha 550 m"\n  - "Rinia Park 600 m"\n  - "Sheshi Rekreativ tek ish ATSh 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Jovana"\n    country: "Serbia"\n    text: "“Wonderful apartment with the BEST view in Tirana. Big space, everyone can have privacy, everything is so close, coffee shops, pizza place, Chinese restaurant... You have absolutely everything you need, and if not, the owner will be more than happy...”"\nbookingURL: "https://www.booking.com/hotel/al/modern-apartment-city-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests will appreciate the thoughtful inclusion of modern facilities such as an elevator and a handy minimarket, complemented by the seamless connectivity of complimentary WiFi accessible throughout the premises. Emphasizing a smoke-free environment, the apartment is also a mere 600 meters away from the historical Former Residence of Enver Hoxha, placing visitors in the cradle of the city's rich heritage.
+---
+title: "Modern Apartment. City Center."
+description: "Discover the epitome of urban living at Modern Apartment, City Center, a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053977.jpg?k=92a2fcfeecffd44080ebacb1a71aa30f2a461a5c14bf244e8304d285e57d5054&o=&hp=1"
+language: en
+slug: modern-apartment-city-center
+address: "8 Rruga Ismail Qemali, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3218735
+  lng: 19.8240044
+price: "US$70"
+priceFrom: 70
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053977.jpg?k=92a2fcfeecffd44080ebacb1a71aa30f2a461a5c14bf244e8304d285e57d5054&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523052824.jpg?k=2ff3320aec2aac13d47853e0ed7a1f04a43ec005f3d8922a025724cc9fc9af24&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523052301.jpg?k=ec56dd87c34678a44f65130445d584fa38cccbf76bb3d1c07ff915c8cdec25bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053165.jpg?k=88bef0869efd346b720b3f8e3185c9127c479d908872fd2ef099b4c55664c5c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053460.jpg?k=9b730bc2fd5218e06dcf8b9856ca6c6de0031b0ce4ed64f3e2e2e1f627b9fb4a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053877.jpg?k=8e6a7a3e1eb250087ca21cca170db0aa0b1a2e994dd61cadfc89a88f18e9e968&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523052482.jpg?k=f2d501c1e0317e43d07a5777f806c5cd0312d56916dd786975b2df84537532a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053330.jpg?k=bd05f0dc30010844722e5dcf894acb5a166936fba452a0fb005f4efc63032e95&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523053952.jpg?k=fb66b4a2ffddcdb67554f54f4ae22d62668f4f5ca290b3a80a2ba96c42bb1a71&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "Clock Tower Tirana 750 m"
+  - "Skanderbeg Square 750 m"
+  - "House of Leaves 850 m"
+  - "National Museum of History Albania 1 km"
+  - "Grand Park of Tirana 1.1 km"
+  - "Bunk'Art 1 Museum 4.4 km"
+nearbyRestaurants:
+  - "Heat 10 m"
+  - "Artist 30 m"
+whatsNearby:
+  - "Sheshi Rekreativ Piramida 250 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 300 m"
+  - "Shesh Rekreativ 350 m"
+  - "Shesh Rekreativ 400 m"
+  - "Tanners' Bridge 550 m"
+  - "National Gallery of Arts Tirana 550 m"
+  - "Parku Rinia 550 m"
+  - "Former Residence of Enver Hoxha 550 m"
+  - "Rinia Park 600 m"
+  - "Sheshi Rekreativ tek ish ATSh 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Jovana"
+    country: "Serbia"
+    text: "“Wonderful apartment with the BEST view in Tirana. Big space, everyone can have privacy, everything is so close, coffee shops, pizza place, Chinese restaurant... You have absolutely everything you need, and if not, the owner will be more than happy...”"
+bookingURL: "https://www.booking.com/hotel/al/modern-apartment-city-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests will appreciate the thoughtful inclusion of modern facilities such as an elevator and a handy minimarket, complemented by the seamless connectivity of complimentary WiFi accessible throughout the premises. Emphasizing a smoke-free environment, the apartment is also a mere 600 meters away from the historical Former Residence of Enver Hoxha, placing visitors in the cradle of the city's rich heritage.
 
 The interior of the apartment does not disappoint, boasting a generous layout that includes a balcony for serene city views, two cozy bedrooms for restful nights, and a living room that serves as a relaxing retreat. The kitchen is fully equipped with a microwave and all necessary kitchenware, making it a breeze for guests to prepare meals just the way they like. For added convenience, towels and bed linen are readily provided, ensuring a comfortable and hassle-free stay.
 

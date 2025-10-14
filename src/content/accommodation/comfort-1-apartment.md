@@ -1,5 +1,88 @@
----\ntitle: "Comfort 1 Apartment"\ndescription: "Comfort 1 Apartment in Sarandë stands out as a prime choice for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001799.jpg?k=dffce76503f17cbe50fa6f37001ffbb5b3f84c337fcfae03174db8e8ba0956bd&o=&hp=1"\nlanguage: en\nslug: comfort-1-apartment\naddress: "Rruga Onhezmi 86, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87526548\n  lng: 20.0082901\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 32\nratings:\n  overall: 9.2\n  location: 9.6\n  cleanliness: 8.8\n  facilities: 8.9\n  value: 9.5\n  comfort: 8.8\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001799.jpg?k=dffce76503f17cbe50fa6f37001ffbb5b3f84c337fcfae03174db8e8ba0956bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001824.jpg?k=bf769a0a05baab9cd7eb16f1d0740488a92e42327d646b3db1ff520fa5938a22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001813.jpg?k=13cad7380e4b72ee082a51e3f288893439b99127746014ec00f495206e45fcf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001804.jpg?k=20e5b91d7e2d3fe50132b6d69135bfec146884f80bcf49f8351f47b5560b22d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001845.jpg?k=026192242816f392d65a7b93cbb89ccfafc4132bbca6325e94c387d7e70f2f69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001830.jpg?k=61c4424b666a9f4a46b92aac1d4d827071edb6c3a5084327b53c4c9704fb3bd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001816.jpg?k=0e7efa7fd28df41e73beb26e916c30289fd17f0a25240b0b3155e8b784dc1a9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001823.jpg?k=8dd924bc84f1df97531c66fd2f4cd16bb42fd0f30474c4bedcf5f8abbbfc207e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001825.jpg?k=bdbf2827fc2078ba52a20b1c65ffb89d8e5fbe1be8f19b9d59de2ba15aec5997&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Time 50 m"\n  - "Fast Food Geri 50 m"\nnearbyBeaches:\n  - "Saranda City Beach 200 m"\n  - "Sarande Main Beach 850 m"\n  - "La Petite Beach 900 m"\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 2 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Klára"\n    country: "Czech Republic"\n    text: "“Great location in the center, nice and helpful owner, easy check in, free public parking close by, wifi, nice spacial apartment (washing machine, full kitchen), great balcony view. Good even for longer stay. Go there!”"\n  - name: "Olga"\n    country: "Albania"\n    text: "“Andrea is a friendly host, he met us at the station, gave us the necessary information, recommended good restaurants, and was in touch all the time. Ideal location, everything is nearby, wonderful sea view from the balcony, the apartment is...”"\n  - name: "Benoît"\n    country: "Germany"\n    text: "“Great communication with Andrea. The flat is big, the living-room comfortable (with 2 couches and a balcony with a view on the bay), the kitchen is well equipped and the bed is good!
-Very good location on the 5th. floor of a very central building,...”"\nbookingURL: "https://www.booking.com/hotel/al/partners-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting a well-appointed bedroom, a modern bathroom, and comprehensive amenities including air conditioning, free WiFi, and on-site parking. For those keen on exploring the area at their own pace, bike hire and car rental services are thoughtfully provided.
+---
+title: "Comfort 1 Apartment"
+description: "Comfort 1 Apartment in Sarandë stands out as a prime choice for travelers seeking both convenience and comfort."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001799.jpg?k=dffce76503f17cbe50fa6f37001ffbb5b3f84c337fcfae03174db8e8ba0956bd&o=&hp=1"
+language: en
+slug: comfort-1-apartment
+address: "Rruga Onhezmi 86, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87526548
+  lng: 20.0082901
+price: "US$22"
+priceFrom: 22
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 32
+ratings:
+  overall: 9.2
+  location: 9.6
+  cleanliness: 8.8
+  facilities: 8.9
+  value: 9.5
+  comfort: 8.8
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001799.jpg?k=dffce76503f17cbe50fa6f37001ffbb5b3f84c337fcfae03174db8e8ba0956bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001824.jpg?k=bf769a0a05baab9cd7eb16f1d0740488a92e42327d646b3db1ff520fa5938a22&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001813.jpg?k=13cad7380e4b72ee082a51e3f288893439b99127746014ec00f495206e45fcf1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001804.jpg?k=20e5b91d7e2d3fe50132b6d69135bfec146884f80bcf49f8351f47b5560b22d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001845.jpg?k=026192242816f392d65a7b93cbb89ccfafc4132bbca6325e94c387d7e70f2f69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001830.jpg?k=61c4424b666a9f4a46b92aac1d4d827071edb6c3a5084327b53c4c9704fb3bd0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001816.jpg?k=0e7efa7fd28df41e73beb26e916c30289fd17f0a25240b0b3155e8b784dc1a9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001823.jpg?k=8dd924bc84f1df97531c66fd2f4cd16bb42fd0f30474c4bedcf5f8abbbfc207e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001825.jpg?k=bdbf2827fc2078ba52a20b1c65ffb89d8e5fbe1be8f19b9d59de2ba15aec5997&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Apartment with Sea View"
+nearbyRestaurants:
+  - "Time 50 m"
+  - "Fast Food Geri 50 m"
+nearbyBeaches:
+  - "Saranda City Beach 200 m"
+  - "Sarande Main Beach 850 m"
+  - "La Petite Beach 900 m"
+  - "Maestral Beach 1.1 km"
+  - "VIP Beach 2 km"
+whatsNearby:
+  - "Parc National de Butrint 2.3 km"
+  - "Butrint National Park 3.1 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Klára"
+    country: "Czech Republic"
+    text: "“Great location in the center, nice and helpful owner, easy check in, free public parking close by, wifi, nice spacial apartment (washing machine, full kitchen), great balcony view. Good even for longer stay. Go there!”"
+  - name: "Olga"
+    country: "Albania"
+    text: "“Andrea is a friendly host, he met us at the station, gave us the necessary information, recommended good restaurants, and was in touch all the time. Ideal location, everything is nearby, wonderful sea view from the balcony, the apartment is...”"
+  - name: "Benoît"
+    country: "Germany"
+    text: "“Great communication with Andrea. The flat is big, the living-room comfortable (with 2 couches and a balcony with a view on the bay), the kitchen is well equipped and the bed is good!
+Very good location on the 5th. floor of a very central building,...”"
+bookingURL: "https://www.booking.com/hotel/al/partners-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of space and light, boasting a well-appointed bedroom, a modern bathroom, and comprehensive amenities including air conditioning, free WiFi, and on-site parking. For those keen on exploring the area at their own pace, bike hire and car rental services are thoughtfully provided.
 
 What sets Comfort 1 Apartment apart is its attention to detail. The fully equipped kitchen and outdoor dining area offer guests the freedom to enjoy home-cooked meals against a backdrop of stunning sea and mountain views. The inclusion of allergy-free and soundproof features speaks to the property's commitment to guest comfort and satisfaction.
 

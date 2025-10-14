@@ -1,4 +1,73 @@
----\ntitle: "Cozy Apartment in Tirana"\ndescription: "Discover the charm of Tirana with a stay at Cozy Apartment, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527705249.jpg?k=f76833cfdf3927f90129ebbfbd7a4e756e2ea5a0598cfbc3bfe9534853faa868&o=&hp=1"\nlanguage: en\nslug: cozy-apartment-in-tirana\naddress: "4 Rruga Him Kolli, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3256227\n  lng: 19.8109518\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527705249.jpg?k=f76833cfdf3927f90129ebbfbd7a4e756e2ea5a0598cfbc3bfe9534853faa868&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527705278.jpg?k=e8850bd00fabfb1848f9e19b9a17f103002343e89ec9aae7e3e87b864e1d8b0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/527716612.jpg?k=16af09959fd005bd605be1fae0b764774a082dce59d41ba857077eeaa7fee407&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705285.jpg?k=50900b377026c318336ff36eb3ad3038362eecf3151eecf4011e74d89e51a3bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705277.jpg?k=fdc7ba6fb794ec6fc133cbd5915682065c5601de1cc4edba521ce5b5196f8788&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705292.jpg?k=42f522de2e27c596a656d10de7f3a6a8e881273f8dfb8f1bd75880eef699a4e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705275.jpg?k=71a624ba59e1e67988ad2197924951fb6c7b68ed479396e733f6ff296cdf1928&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705272.jpg?k=83232e484b91a98ebc9ab59b9bc1491dc78a0e318ea5e852ead5527d65121d23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705282.jpg?k=0cd81f163db550193c4dbb0e251cfa9542a5d54844c61b6ac2af8694a4759f3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705286.jpg?k=a8e7fd4d54a73c8ad2933fa0321b6a357d17f48ab420095e4634a378a86bc353&o=&hp=1"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 750 m"\n  - "National Gallery of Arts Tirana 800 m"\n  - "Tanners' Bridge 1.3 km"\n  - "Grand Park of Tirana 1.9 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Pizza Seni 100 m"\n  - "Bar Restorant la Paradise 100 m"\nwhatsNearby:\n  - "House of Leaves 500 m"\n  - "Sheshi Paris 550 m"\n  - "Rinia Park 600 m"\n  - "Sheshi Skënderbej 650 m"\n  - "National Museum of History Albania 700 m"\n  - "Parku Rinia 700 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 700 m"\n  - "Parku Europa 700 m"\n  - "Skanderbeg Square 750 m"\n  - "Former Residence of Enver Hoxha 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/cozy-apartment-in-tirana-tirane4.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nFor those fascinated by cultural explorations, Cozy Apartment offers easy access to the National Museum of History Albania and the architectural marvel of Et'hem Bey Mosque, both located less than a kilometer from the doorstep. Additionally, the unique installation of Reja - The Cloud is merely a 10-minute stroll away, promising a blend of art and leisure in close proximity.
+---
+title: "Cozy Apartment in Tirana"
+description: "Discover the charm of Tirana with a stay at Cozy Apartment, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527705249.jpg?k=f76833cfdf3927f90129ebbfbd7a4e756e2ea5a0598cfbc3bfe9534853faa868&o=&hp=1"
+language: en
+slug: cozy-apartment-in-tirana
+address: "4 Rruga Him Kolli, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3256227
+  lng: 19.8109518
+price: "US$35"
+priceFrom: 35
+starRating: 4
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527705249.jpg?k=f76833cfdf3927f90129ebbfbd7a4e756e2ea5a0598cfbc3bfe9534853faa868&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/527705278.jpg?k=e8850bd00fabfb1848f9e19b9a17f103002343e89ec9aae7e3e87b864e1d8b0f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/527716612.jpg?k=16af09959fd005bd605be1fae0b764774a082dce59d41ba857077eeaa7fee407&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705285.jpg?k=50900b377026c318336ff36eb3ad3038362eecf3151eecf4011e74d89e51a3bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705277.jpg?k=fdc7ba6fb794ec6fc133cbd5915682065c5601de1cc4edba521ce5b5196f8788&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705292.jpg?k=42f522de2e27c596a656d10de7f3a6a8e881273f8dfb8f1bd75880eef699a4e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705275.jpg?k=71a624ba59e1e67988ad2197924951fb6c7b68ed479396e733f6ff296cdf1928&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705272.jpg?k=83232e484b91a98ebc9ab59b9bc1491dc78a0e318ea5e852ead5527d65121d23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705282.jpg?k=0cd81f163db550193c4dbb0e251cfa9542a5d54844c61b6ac2af8694a4759f3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/527705286.jpg?k=a8e7fd4d54a73c8ad2933fa0321b6a357d17f48ab420095e4634a378a86bc353&o=&hp=1"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Clock Tower Tirana 750 m"
+  - "National Gallery of Arts Tirana 800 m"
+  - "Tanners' Bridge 1.3 km"
+  - "Grand Park of Tirana 1.9 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Pizza Seni 100 m"
+  - "Bar Restorant la Paradise 100 m"
+whatsNearby:
+  - "House of Leaves 500 m"
+  - "Sheshi Paris 550 m"
+  - "Rinia Park 600 m"
+  - "Sheshi Skënderbej 650 m"
+  - "National Museum of History Albania 700 m"
+  - "Parku Rinia 700 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 700 m"
+  - "Parku Europa 700 m"
+  - "Skanderbeg Square 750 m"
+  - "Former Residence of Enver Hoxha 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/cozy-apartment-in-tirana-tirane4.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+For those fascinated by cultural explorations, Cozy Apartment offers easy access to the National Museum of History Albania and the architectural marvel of Et'hem Bey Mosque, both located less than a kilometer from the doorstep. Additionally, the unique installation of Reja - The Cloud is merely a 10-minute stroll away, promising a blend of art and leisure in close proximity.
 
 Beyond its excellent location, the apartment itself presents a serene retreat from the bustling city life. Guests will find a well-appointed space consisting of a separate bedroom, a cozy living room, and a bathroom, all designed to provide a comfortable and homely atmosphere. The property prides itself on being a non-smoking establishment, ensuring a clean and fresh environment for all guests.
 

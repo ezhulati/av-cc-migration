@@ -1,4 +1,69 @@
----\ntitle: "VILLA LEVANDA KSAMIL"\ndescription: "Villa Levanda Ksamil emerges as a serene retreat in the heart of Vlorë County, a mere stone's throw from the pristine Paradise Beach, just 600 meters away."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670447.jpg?k=1f10e0fadea738eac7103eb1fa23451a082c32a7194083ca9c90ac2293545985&o=&hp=1"\nlanguage: en\nslug: villa-levanda-ksamil\naddress: "RRUGA ADRIA KSAMIL, Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.76220539\n  lng: 19.99750714\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670447.jpg?k=1f10e0fadea738eac7103eb1fa23451a082c32a7194083ca9c90ac2293545985&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670375.jpg?k=259ecd2689f99dc731ee81439c747bacf563de31d878c74dfaafd18e45dbf4c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670433.jpg?k=4ed9c263c218c2b7dd1423d8a43e16546315a66de69807e6869c51a35b001d28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670443.jpg?k=ea1c3dc7c381284a085fb3d498eca8efe454f0d8c274efd7b0f7d4d68c95338d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670394.jpg?k=0f45fa1ba87c36238ec795628d1ca69c3dbb7c6bf369bc4e6bb29d08cd15f8f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670448.jpg?k=748a6063c436db19e7a97c7fd89e0602e162a1e3484368a689ef8067813ab25e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670398.jpg?k=f4559c2703c4a173d7adf144bb0471bd870598eb5ec414924ae1b47a76a39ae8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670432.jpg?k=87be3ae134a9ad4ce867b25a41f642866dd0ecdabfcd5f3362233144f7141682&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670417.jpg?k=c79ffca41f300844950fb6ac33cd9a6ef7b973a55c74190ce4d3c6232eecc16d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 17 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 18 km"\n  - "Kapodistrias Museum 19 km"\nnearbyBeaches:\n  - "Paradise Beach 400 m"\n  - "Lori Beach 500 m"\n  - "Ksamil Beach 9 550 m"\n  - "Puerto Rico Beach 600 m"\n  - "Bora Bora Beach 950 m"\nbookingURL: "https://www.booking.com/hotel/al/villa-levanda-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation, characterized by its air-conditioned spaces and private balcony, presents a perfect blend of comfort and elegance. With three bedrooms, a living room equipped with a flat-screen TV, a fully equipped kitchen boasting an oven and microwave, and three bathrooms, each with a shower, Villa Levanda Ksamil caters to every need of its guests. The terrace, offering breathtaking mountain views, and an outdoor dining area overlooking the lush garden, provide idyllic settings for enjoying meals in the tranquility of nature.
+---
+title: "VILLA LEVANDA KSAMIL"
+description: "Villa Levanda Ksamil emerges as a serene retreat in the heart of Vlorë County, a mere stone's throw from the pristine Paradise Beach, just 600 meters away."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670447.jpg?k=1f10e0fadea738eac7103eb1fa23451a082c32a7194083ca9c90ac2293545985&o=&hp=1"
+language: en
+slug: villa-levanda-ksamil
+address: "RRUGA ADRIA KSAMIL, Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "villa"
+coordinates:
+  lat: 39.76220539
+  lng: 19.99750714
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670447.jpg?k=1f10e0fadea738eac7103eb1fa23451a082c32a7194083ca9c90ac2293545985&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670375.jpg?k=259ecd2689f99dc731ee81439c747bacf563de31d878c74dfaafd18e45dbf4c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670433.jpg?k=4ed9c263c218c2b7dd1423d8a43e16546315a66de69807e6869c51a35b001d28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670443.jpg?k=ea1c3dc7c381284a085fb3d498eca8efe454f0d8c274efd7b0f7d4d68c95338d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670394.jpg?k=0f45fa1ba87c36238ec795628d1ca69c3dbb7c6bf369bc4e6bb29d08cd15f8f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670448.jpg?k=748a6063c436db19e7a97c7fd89e0602e162a1e3484368a689ef8067813ab25e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670398.jpg?k=f4559c2703c4a173d7adf144bb0471bd870598eb5ec414924ae1b47a76a39ae8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670432.jpg?k=87be3ae134a9ad4ce867b25a41f642866dd0ecdabfcd5f3362233144f7141682&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670417.jpg?k=c79ffca41f300844950fb6ac33cd9a6ef7b973a55c74190ce4d3c6232eecc16d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Private beach area"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 17 km"
+  - "Archaeological Museum 17 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 18 km"
+  - "Mon Repos Palace 18 km"
+  - "Kapodistrias Museum 19 km"
+nearbyBeaches:
+  - "Paradise Beach 400 m"
+  - "Lori Beach 500 m"
+  - "Ksamil Beach 9 550 m"
+  - "Puerto Rico Beach 600 m"
+  - "Bora Bora Beach 950 m"
+bookingURL: "https://www.booking.com/hotel/al/villa-levanda-ksamil.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodation, characterized by its air-conditioned spaces and private balcony, presents a perfect blend of comfort and elegance. With three bedrooms, a living room equipped with a flat-screen TV, a fully equipped kitchen boasting an oven and microwave, and three bathrooms, each with a shower, Villa Levanda Ksamil caters to every need of its guests. The terrace, offering breathtaking mountain views, and an outdoor dining area overlooking the lush garden, provide idyllic settings for enjoying meals in the tranquility of nature.
 
 For those preferring the comfort of their accommodation for dining, the option of grocery delivery adds an extra layer of convenience. The villa's private entrance enhances the sense of exclusivity and privacy for guests.
 

@@ -1,4 +1,83 @@
----\ntitle: "Villa Mare"\ndescription: "Villa Mare emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location in Vlorë, merely 700 meters from the inviting sands of Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390057605.jpg?k=0c7363feda9183ce5350364b3e9d6064ff43b4b610e347223d73fe05bb5ead5f&o=&hp=1"\nlanguage: en\nslug: villa-mare\naddress: "Rruga Azem Sulo, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.43406279\n  lng: 19.49820904\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 41\nratings:\n  overall: 9.3\n  location: 8.4\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9\n  comfort: 9.3\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390057605.jpg?k=0c7363feda9183ce5350364b3e9d6064ff43b4b610e347223d73fe05bb5ead5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473609711.jpg?k=bc4d8870ed1868b9c0b1222e55423a867730b1df8e12a3115bb8fdcef7042761&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398774028.jpg?k=fd1ebca9cd15ed0ad10babaeeb3921cb062fced75c230361c90c1d5a775e66ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398774220.jpg?k=7edeff060f4830f3075891d17aa9c44a3cdbb1d34eed0177332ff396316317a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615408.jpg?k=a82fda0eb530bdc0a70ca223671b09966a051b58d027e4d9362a1573903ea968&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398773098.jpg?k=063573e79db21da47633c25be1732847e7dd01f4a9fdf0cea6109a5224184f23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473616309.jpg?k=85733edb52e6ccbc0ae1eecafb1641433748626c893e967561000bb34fd08b62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473616126.jpg?k=c90088b38fde657a121839e295f0a0d3f9559d5cda46a45a36958fb635d881b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615884.jpg?k=859510c97e66205cc3d114014a6a14a1dc6db39ed415e823b2ebc009cae7c7f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615636.jpg?k=5d4e2ce802f2381e391312fe4b48c59f4e5850962c5f4c341042baee3ab0b2d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615239.jpg?k=2c655a5cdc7296102b24edac04fb110890b171e0bae5e23c6a0ee6495feebbdd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473614925.jpg?k=866b1b32b09b349ecb9240e7f620453fa58b13faa65fd3beb88c1a9a860227f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473614608.jpg?k=1de003ff8e055dc5994faf968b82f28a719fc76174dd1c04f76f7a4632dd86d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473613798.jpg?k=e6c9b4253f7f9b5382b9cb8b957d9c22ef3450195d6bd7009cc1030959aeba8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473613585.jpg?k=2596e3c1cf21db8ad4861aacf2479c45d874409964566241683034950363dc4d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Taverna Mediterraneo 100 m"\n  - "The Boss 300 m"\nnearbyBeaches:\n  - "Ri Beach 300 m"\n  - "Vlore Beach 1,000 m"\n  - "Beach at Government Villas 1.8 km"\n  - "Vjetër Beach 2.4 km"\n  - "Liro Beach 2.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 350 m"\n  - "Kuzum Baba 3.7 km"\n  - "Independence Square 4.1 km"\nreviews:\n  - name: "Ėva"\n    country: "Hungary"\n    text: "“It was a really good decision staying at Villa Mare. The whole villa looks like the photos! We were there for 1 week with a group of friends, so the whole house were ours. There are 2 bathrooms (1 upstairs, 1 downstairs), it was perfect for us....”"\n  - name: "Svetozar"\n    country: "Serbia"\n    text: "“The room was great, with a view of the sunset. The bed is superb.The landlady, who is a really nice woman, let us use the excellent espresso coffee”"\n  - name: "R"\n    country: "Netherlands"\n    text: "“We rent the whole house with two families. The rooms and the living/kitchen were very beautiful and spacious. It all gives a sense of luxury. Communication went perfect.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-bianca-seaview-room-with-balcony.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Villa Mare are designed with the guest's utmost comfort in mind, boasting balconies that present either serene sea or vibrant city views. Certain units elevate the experience further with private entrances, cozy dining areas, fireplaces, and even dishwashers, catering to a variety of preferences and needs. The presence of air conditioning, flat-screen TVs, washing machines, coffee machines, and fully equipped kitchens in select units adds a layer of convenience, complemented by the provision of fresh bed linen and towels.
+---
+title: "Villa Mare"
+description: "Villa Mare emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location in Vlorë, merely 700 meters from the inviting sands of Ri Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390057605.jpg?k=0c7363feda9183ce5350364b3e9d6064ff43b4b610e347223d73fe05bb5ead5f&o=&hp=1"
+language: en
+slug: villa-mare
+address: "Rruga Azem Sulo, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "villa"
+coordinates:
+  lat: 40.43406279
+  lng: 19.49820904
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 41
+ratings:
+  overall: 9.3
+  location: 8.4
+  cleanliness: 9.5
+  facilities: 9.2
+  value: 9
+  comfort: 9.3
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390057605.jpg?k=0c7363feda9183ce5350364b3e9d6064ff43b4b610e347223d73fe05bb5ead5f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473609711.jpg?k=bc4d8870ed1868b9c0b1222e55423a867730b1df8e12a3115bb8fdcef7042761&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398774028.jpg?k=fd1ebca9cd15ed0ad10babaeeb3921cb062fced75c230361c90c1d5a775e66ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398774220.jpg?k=7edeff060f4830f3075891d17aa9c44a3cdbb1d34eed0177332ff396316317a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615408.jpg?k=a82fda0eb530bdc0a70ca223671b09966a051b58d027e4d9362a1573903ea968&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398773098.jpg?k=063573e79db21da47633c25be1732847e7dd01f4a9fdf0cea6109a5224184f23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473616309.jpg?k=85733edb52e6ccbc0ae1eecafb1641433748626c893e967561000bb34fd08b62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473616126.jpg?k=c90088b38fde657a121839e295f0a0d3f9559d5cda46a45a36958fb635d881b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615884.jpg?k=859510c97e66205cc3d114014a6a14a1dc6db39ed415e823b2ebc009cae7c7f4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615636.jpg?k=5d4e2ce802f2381e391312fe4b48c59f4e5850962c5f4c341042baee3ab0b2d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473615239.jpg?k=2c655a5cdc7296102b24edac04fb110890b171e0bae5e23c6a0ee6495feebbdd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473614925.jpg?k=866b1b32b09b349ecb9240e7f620453fa58b13faa65fd3beb88c1a9a860227f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473614608.jpg?k=1de003ff8e055dc5994faf968b82f28a719fc76174dd1c04f76f7a4632dd86d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473613798.jpg?k=e6c9b4253f7f9b5382b9cb8b957d9c22ef3450195d6bd7009cc1030959aeba8d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473613585.jpg?k=2596e3c1cf21db8ad4861aacf2479c45d874409964566241683034950363dc4d&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Taverna Mediterraneo 100 m"
+  - "The Boss 300 m"
+nearbyBeaches:
+  - "Ri Beach 300 m"
+  - "Vlore Beach 1,000 m"
+  - "Beach at Government Villas 1.8 km"
+  - "Vjetër Beach 2.4 km"
+  - "Liro Beach 2.6 km"
+whatsNearby:
+  - "Scooby Doo Vlore 350 m"
+  - "Kuzum Baba 3.7 km"
+  - "Independence Square 4.1 km"
+reviews:
+  - name: "Ėva"
+    country: "Hungary"
+    text: "“It was a really good decision staying at Villa Mare. The whole villa looks like the photos! We were there for 1 week with a group of friends, so the whole house were ours. There are 2 bathrooms (1 upstairs, 1 downstairs), it was perfect for us....”"
+  - name: "Svetozar"
+    country: "Serbia"
+    text: "“The room was great, with a view of the sunset. The bed is superb.The landlady, who is a really nice woman, let us use the excellent espresso coffee”"
+  - name: "R"
+    country: "Netherlands"
+    text: "“We rent the whole house with two families. The rooms and the living/kitchen were very beautiful and spacious. It all gives a sense of luxury. Communication went perfect.”"
+bookingURL: "https://www.booking.com/hotel/al/villa-bianca-seaview-room-with-balcony.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Villa Mare are designed with the guest's utmost comfort in mind, boasting balconies that present either serene sea or vibrant city views. Certain units elevate the experience further with private entrances, cozy dining areas, fireplaces, and even dishwashers, catering to a variety of preferences and needs. The presence of air conditioning, flat-screen TVs, washing machines, coffee machines, and fully equipped kitchens in select units adds a layer of convenience, complemented by the provision of fresh bed linen and towels.
 
 For those who appreciate the simple pleasures, Villa Mare does not disappoint. An on-site coffee shop offers a perfect start to the day, while the availability of barbecue facilities invites guests to enjoy leisurely meals under the sky in warmer months. The outdoor fireplace and picnic area are ideal for gatherings, offering memorable moments against the backdrop of mountain and garden views.
 

@@ -1,4 +1,86 @@
----\ntitle: "Dhima Hotel"\ndescription: "Dhima Hotel emerges as a prime choice for travelers seeking a serene beachside retreat, positioned just a stone's throw away from the private, pebbly expanse of Guma Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137411252.jpg?k=d785f814ad23ebac26d2ce303772dc96ba365754643f32bc238324c1cbf5c4b6&o=&hp=1"\nlanguage: en\nslug: dhima-hotel\naddress: "Potami, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.097135\n  lng: 19.754006\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 204\nratings:\n  overall: 8.8\n  location: 9.4\n  cleanliness: 9.1\n  facilities: 8.7\n  value: 8.8\n  comfort: 9\n  staff: 8.4\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137411252.jpg?k=d785f814ad23ebac26d2ce303772dc96ba365754643f32bc238324c1cbf5c4b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866412.jpg?k=cfa68f2fd5479760193f28bf9b07225ed0e4a016b828151ebc3cd4dca7ea394a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866270.jpg?k=2af1e428f43d41b8385c11175f335fdbaed34fe9e8968d17385885c036066928&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/221296231.jpg?k=3913a391541d88af123537d36685b220a842d17f3adbcdf65f63051dac3fb48d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/174857272.jpg?k=126193e25349e03594d8a2dd36b598095269dce44302c3c047242c717c4cd139&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/174462515.jpg?k=a4712782c280a1cc5fb99206484c6b99ec5577f6b1aa1a6f60288047347a818f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866345.jpg?k=f52ba05375136f115ac486766a29a5ef819c60cb06b4ef63d7e6575db8b05c78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866301.jpg?k=50b17e35c45decf53b274c30d078a8e6d1e824f92aef9985f643363940a331c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164323888.jpg?k=12a6313ac21b2166cf56ea1a2a687963000f48839f89b533893de6fb3edfffba&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Chill Marine 30 m"\n  - "Taverna Stolis 100 m"\nnearbyBeaches:\n  - "Prinos Beach 40 m"\n  - "Potam Beach 150 m"\n  - "Maracit Beach 400 m"\n  - "Spille Beach 650 m"\n  - "Gjiri i Filikurit Beach 1.2 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 55 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Thiago"\n    country: "Portugal"\n    text: "“The room is exactly what is shown in the photos, with a beautiful view of the beach, and it is very clean. The breakfast, despite few options, was delicious. Finally, the beach in front of the hotel is very beautiful and good for spending the day.”"\n  - name: "Korovljev"\n    country: "Serbia"\n    text: "“Hotel is really nice, it’s across the beach. Room have been cleaned everyday. Service was good and they also provide service on the beach. You have couple of options for breakfeast most of them are variety of eggs.”"\n  - name: "Petr"\n    country: "Czech Republic"\n    text: "“Beachfront location, well managed, nice bathroom, nice seaview. Good cleaning”"\nbookingURL: "https://www.booking.com/hotel/al/dhima.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Dhima Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room boasts a private balcony, offering a personal oasis of tranquility. The rooms are well-equipped with satellite TV, a refrigerator, and a work desk, catering to both leisure and business travelers. The en-suite bathrooms, complete with showers and complimentary toiletries, add to the convenience and luxury of the stay.
+---
+title: "Dhima Hotel"
+description: "Dhima Hotel emerges as a prime choice for travelers seeking a serene beachside retreat, positioned just a stone's throw away from the private, pebbly expanse of Guma Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137411252.jpg?k=d785f814ad23ebac26d2ce303772dc96ba365754643f32bc238324c1cbf5c4b6&o=&hp=1"
+language: en
+slug: dhima-hotel
+address: "Potami, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.097135
+  lng: 19.754006
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 204
+ratings:
+  overall: 8.8
+  location: 9.4
+  cleanliness: 9.1
+  facilities: 8.7
+  value: 8.8
+  comfort: 9
+  staff: 8.4
+  wifi: 8.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137411252.jpg?k=d785f814ad23ebac26d2ce303772dc96ba365754643f32bc238324c1cbf5c4b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866412.jpg?k=cfa68f2fd5479760193f28bf9b07225ed0e4a016b828151ebc3cd4dca7ea394a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866270.jpg?k=2af1e428f43d41b8385c11175f335fdbaed34fe9e8968d17385885c036066928&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/221296231.jpg?k=3913a391541d88af123537d36685b220a842d17f3adbcdf65f63051dac3fb48d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/174857272.jpg?k=126193e25349e03594d8a2dd36b598095269dce44302c3c047242c717c4cd139&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/174462515.jpg?k=a4712782c280a1cc5fb99206484c6b99ec5577f6b1aa1a6f60288047347a818f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866345.jpg?k=f52ba05375136f115ac486766a29a5ef819c60cb06b4ef63d7e6575db8b05c78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353866301.jpg?k=50b17e35c45decf53b274c30d078a8e6d1e824f92aef9985f643363940a331c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164323888.jpg?k=12a6313ac21b2166cf56ea1a2a687963000f48839f89b533893de6fb3edfffba&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Facilities for disabled guests"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Chill Marine 30 m"
+  - "Taverna Stolis 100 m"
+nearbyBeaches:
+  - "Prinos Beach 40 m"
+  - "Potam Beach 150 m"
+  - "Maracit Beach 400 m"
+  - "Spille Beach 650 m"
+  - "Gjiri i Filikurit Beach 1.2 km"
+whatsNearby:
+  - "Llogora National Park 17 km"
+airports:
+  - "Corfu International Airport 55 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Thiago"
+    country: "Portugal"
+    text: "“The room is exactly what is shown in the photos, with a beautiful view of the beach, and it is very clean. The breakfast, despite few options, was delicious. Finally, the beach in front of the hotel is very beautiful and good for spending the day.”"
+  - name: "Korovljev"
+    country: "Serbia"
+    text: "“Hotel is really nice, it’s across the beach. Room have been cleaned everyday. Service was good and they also provide service on the beach. You have couple of options for breakfeast most of them are variety of eggs.”"
+  - name: "Petr"
+    country: "Czech Republic"
+    text: "“Beachfront location, well managed, nice bathroom, nice seaview. Good cleaning”"
+bookingURL: "https://www.booking.com/hotel/al/dhima.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Dhima Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room boasts a private balcony, offering a personal oasis of tranquility. The rooms are well-equipped with satellite TV, a refrigerator, and a work desk, catering to both leisure and business travelers. The en-suite bathrooms, complete with showers and complimentary toiletries, add to the convenience and luxury of the stay.
 
 Culinary delights await at the hotel's on-site a la carte pizza restaurant, where guests can savor mouthwatering dishes in a relaxed setting. For those looking to unwind with a refreshing drink, the beach bar presents a curated selection of beverages, perfect for enjoying the coastal ambiance.
 

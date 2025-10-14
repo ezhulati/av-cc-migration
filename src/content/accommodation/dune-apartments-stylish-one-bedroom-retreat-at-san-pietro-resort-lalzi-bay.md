@@ -1,4 +1,67 @@
----\ntitle: "Dune Apartments - Stylish One Bedroom Retreat at San Pietro Resort, Lalzi Bay"\ndescription: "Dune Apartments at San Pietro Resort, Lalzi Bay, emerges as a premier destination for travelers seeking a blend of comfort and convenience along the picturesque shores of Lalëz."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299852.jpg?k=63403e50d5f1d2472cfdf443c15a5d1c5c7c3ede00658736275079f02e216abd&o=&hp=1"\nlanguage: en\nslug: dune-apartments-stylish-one-bedroom-retreat-at-san-pietro-resort-lalzi-bay\naddress: "Plazhi San Pietro, Pallati 6A4/Shkalla 2, Apartamenti 326, 2015 Lalëz, Albania"\ncity: "Lalëz"\nlocation: "Lalëz"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.51479987\n  lng: 19.52057633\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299852.jpg?k=63403e50d5f1d2472cfdf443c15a5d1c5c7c3ede00658736275079f02e216abd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299850.jpg?k=115fcc7ceea963689e82ec3018635aec3f9428a46143dbeda8e8a2eaa3c125d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299829.jpg?k=53bf5136a23f047b3045cd75328717bd6962ca13f168019c61a9ef64859f0cdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299846.jpg?k=e159a4757de1dc295b6a9677963cea22edd0637b46f280295428719acc287e2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299839.jpg?k=abc2d746dc59fd89b9c0ab44d459115a7a6e101daaf4af5feb63f5a45c94027c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499324112.jpg?k=00ffeb1c7d26fb409806623056875b20e8e2e1112172636591013af79608caaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299849.jpg?k=8a382aecd466b81165450ab5ddeda2016b9e4b440af3d9e5bbb0cface296f994&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299836.jpg?k=c4fb75a85a3a83755667f54c596b05eca7a61bdf972f1f3eea4b9326fcf3c07b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299835.jpg?k=5f3e37aaa4fe22bd7d67125ee76172a8c6614412151f2e8888c7da43f5982558&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Coco Mangos 350 m"\n  - "Cavalli Beach 500 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 450 m"\n  - "Rodoni Beach 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 19 km"\n  - "Podgorica Airport 95 km"\nreviews:\n  - name: "Anke"\n    country: "Germany"\n    text: "“Diese Wohnung am Strand ist einfach großartig - sie vereint den lässigen Boho-Chic-Stil mit viel Liebe zum Detail. Die schicke Einrichtung mit warme Farben, schafft eine gemütliche und einzigartige Atmosphäre. Die durchdachten Extras, wie ein...”"\nbookingURL: "https://www.booking.com/hotel/al/seaside-serenity-stylish-1-bedroom-retreat-at-san-pietro-resort-lalzi-bay.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, boasting a spacious layout that includes a well-appointed bedroom, a cozy living room, a fully equipped kitchen, and a pristine bathroom. Guests can enjoy the luxury of a flat-screen TV and the convenience of an on-site laundry service, ensuring a stay that is both relaxing and hassle-free.
+---
+title: "Dune Apartments - Stylish One Bedroom Retreat at San Pietro Resort, Lalzi Bay"
+description: "Dune Apartments at San Pietro Resort, Lalzi Bay, emerges as a premier destination for travelers seeking a blend of comfort and convenience along the picturesque shores of Lalëz."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299852.jpg?k=63403e50d5f1d2472cfdf443c15a5d1c5c7c3ede00658736275079f02e216abd&o=&hp=1"
+language: en
+slug: dune-apartments-stylish-one-bedroom-retreat-at-san-pietro-resort-lalzi-bay
+address: "Plazhi San Pietro, Pallati 6A4/Shkalla 2, Apartamenti 326, 2015 Lalëz, Albania"
+city: "Lalëz"
+location: "Lalëz"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.51479987
+  lng: 19.52057633
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299852.jpg?k=63403e50d5f1d2472cfdf443c15a5d1c5c7c3ede00658736275079f02e216abd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299850.jpg?k=115fcc7ceea963689e82ec3018635aec3f9428a46143dbeda8e8a2eaa3c125d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299829.jpg?k=53bf5136a23f047b3045cd75328717bd6962ca13f168019c61a9ef64859f0cdc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299846.jpg?k=e159a4757de1dc295b6a9677963cea22edd0637b46f280295428719acc287e2c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299839.jpg?k=abc2d746dc59fd89b9c0ab44d459115a7a6e101daaf4af5feb63f5a45c94027c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499324112.jpg?k=00ffeb1c7d26fb409806623056875b20e8e2e1112172636591013af79608caaa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299849.jpg?k=8a382aecd466b81165450ab5ddeda2016b9e4b440af3d9e5bbb0cface296f994&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299836.jpg?k=c4fb75a85a3a83755667f54c596b05eca7a61bdf972f1f3eea4b9326fcf3c07b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499299835.jpg?k=5f3e37aaa4fe22bd7d67125ee76172a8c6614412151f2e8888c7da43f5982558&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Coco Mangos 350 m"
+  - "Cavalli Beach 500 m"
+nearbyBeaches:
+  - "Lalëz Bay Beach 450 m"
+  - "Rodoni Beach 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 19 km"
+  - "Podgorica Airport 95 km"
+reviews:
+  - name: "Anke"
+    country: "Germany"
+    text: "“Diese Wohnung am Strand ist einfach großartig - sie vereint den lässigen Boho-Chic-Stil mit viel Liebe zum Detail. Die schicke Einrichtung mit warme Farben, schafft eine gemütliche und einzigartige Atmosphäre. Die durchdachten Extras, wie ein...”"
+bookingURL: "https://www.booking.com/hotel/al/seaside-serenity-stylish-1-bedroom-retreat-at-san-pietro-resort-lalzi-bay.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a testament to modern living, boasting a spacious layout that includes a well-appointed bedroom, a cozy living room, a fully equipped kitchen, and a pristine bathroom. Guests can enjoy the luxury of a flat-screen TV and the convenience of an on-site laundry service, ensuring a stay that is both relaxing and hassle-free.
 
 Connectivity is never an issue, as guests are treated to complimentary WiFi access throughout their stay, allowing them to stay connected with the world or unwind with their favorite online content. For those who prioritize wellness, the non-smoking apartment also offers access to spa facilities, adding an extra layer of relaxation to the beachfront getaway.
 

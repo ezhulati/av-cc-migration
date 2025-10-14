@@ -1,4 +1,86 @@
----\ntitle: "Jico Travel - Bani Apartments"\ndescription: "Jico Travel - Bani Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just a short stroll from the pristine Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\nlanguage: en\nslug: jico-travel-bani-apartments\naddress: "Rruga Memo Gjoleka, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43902191\n  lng: 19.49593758\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 41\nratings:\n  overall: 8.9\n  location: 9.2\n  cleanliness: 8.8\n  facilities: 8.6\n  value: 8.5\n  comfort: 8.8\n  staff: 9.2\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/lt/f96a5672b645073d366e198c082167096efe0ac0.png"\n  - "https://lh3.googleusercontent.com/a-/AOh14Gjk3D9u1-fQdSyGsZYZhVpQBSOY285mI35k6hpL=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/ua/da35c421a013b5d14c01763bcde8aa42d474eff0.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ru/a2ff844392ee18e521e6c822af23668843cfe155.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://graph.facebook.com/v2.9/678242798999174/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Art Guzhine Luan Memaj 50 m"\n  - "Taverna Sulejmanasi 50 m"\nnearbyBeaches:\n  - "Ri Beach 400 m"\n  - "Vlore Beach 400 m"\n  - "Vjetër Beach 1.9 km"\n  - "Beach at Government Villas 2.2 km"\n  - "Liro Beach 3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 300 m"\n  - "Kuzum Baba 3.2 km"\n  - "Independence Square 3.6 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Aleksei"\n    country: "Russia"\n    text: "“Next to the all restaurants, clean apartment, responsive stuff”"\n  - name: "Besmir"\n    country: "Italy"\n    text: "“Appartamento grandissimo, nuovo, a due passi dal lungomare”"\n  - name: "Sonia"\n    country: "Poland"\n    text: "“Bardzo dobra lokalizacja, pomocny personel, bardzo przestrzenny apartament z dobrym wyposażeniem w kuchni i łazience, duży taras, bezpłatne Wi-Fi i parking”"\nbookingURL: "https://www.booking.com/hotel/al/bani-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment within the complex is thoughtfully designed to maximize guest comfort, featuring air conditioning, a cozy seating area, and a flat-screen TV equipped with streaming services for a touch of entertainment. The inclusion of a fully-equipped kitchen, complete with an oven, fridge, and stovetop, alongside a dining area, allows guests the freedom to prepare their meals. The private bathrooms are well-appointed with a hair dryer, a walk-in shower, and a bidet, ensuring a refreshing start or end to the day. For added convenience, bed linen and towels are provided in all units.
+---
+title: "Jico Travel - Bani Apartments"
+description: "Jico Travel - Bani Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just a short stroll from the pristine Vlore Beach."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+language: en
+slug: jico-travel-bani-apartments
+address: "Rruga Memo Gjoleka, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.43902191
+  lng: 19.49593758
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 41
+ratings:
+  overall: 8.9
+  location: 9.2
+  cleanliness: 8.8
+  facilities: 8.6
+  value: 8.5
+  comfort: 8.8
+  staff: 9.2
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+  - "https://cf.bstatic.com/static/img/flags/12/lt/f96a5672b645073d366e198c082167096efe0ac0.png"
+  - "https://lh3.googleusercontent.com/a-/AOh14Gjk3D9u1-fQdSyGsZYZhVpQBSOY285mI35k6hpL=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/ua/da35c421a013b5d14c01763bcde8aa42d474eff0.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+  - "https://cf.bstatic.com/static/img/flags/12/ru/a2ff844392ee18e521e6c822af23668843cfe155.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://graph.facebook.com/v2.9/678242798999174/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Art Guzhine Luan Memaj 50 m"
+  - "Taverna Sulejmanasi 50 m"
+nearbyBeaches:
+  - "Ri Beach 400 m"
+  - "Vlore Beach 400 m"
+  - "Vjetër Beach 1.9 km"
+  - "Beach at Government Villas 2.2 km"
+  - "Liro Beach 3 km"
+whatsNearby:
+  - "Scooby Doo Vlore 300 m"
+  - "Kuzum Baba 3.2 km"
+  - "Independence Square 3.6 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Aleksei"
+    country: "Russia"
+    text: "“Next to the all restaurants, clean apartment, responsive stuff”"
+  - name: "Besmir"
+    country: "Italy"
+    text: "“Appartamento grandissimo, nuovo, a due passi dal lungomare”"
+  - name: "Sonia"
+    country: "Poland"
+    text: "“Bardzo dobra lokalizacja, pomocny personel, bardzo przestrzenny apartament z dobrym wyposażeniem w kuchni i łazience, duży taras, bezpłatne Wi-Fi i parking”"
+bookingURL: "https://www.booking.com/hotel/al/bani-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Each apartment within the complex is thoughtfully designed to maximize guest comfort, featuring air conditioning, a cozy seating area, and a flat-screen TV equipped with streaming services for a touch of entertainment. The inclusion of a fully-equipped kitchen, complete with an oven, fridge, and stovetop, alongside a dining area, allows guests the freedom to prepare their meals. The private bathrooms are well-appointed with a hair dryer, a walk-in shower, and a bidet, ensuring a refreshing start or end to the day. For added convenience, bed linen and towels are provided in all units.
 
 For those eager to explore the surroundings, Jico Travel - Bani Apartments is ideally situated. Sightseeing tours can be easily arranged, offering guests a chance to immerse themselves in the local culture and beauty. Additionally, the availability of both bicycle and car rental services directly from the apartment complex encourages guests to venture further afield at their leisure.
 

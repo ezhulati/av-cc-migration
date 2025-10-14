@@ -1,4 +1,102 @@
----\ntitle: "Blerina's Agritourism Concept"\ndescription: "Blerina's Agritourism Concept emerges as a serene oasis in Laknas, a mere stone's throw from the bustling heart of Skanderbeg Square and the scenic adventures offered by Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469656603.jpg?k=208019f7553d1fff4c1b4e4efad75ec1affb707a22ac20e6d35dec4a8c34c930&o=&hp=1"\nlanguage: en\nslug: blerina-s-agritourism-concept\naddress: "Rruga Muharrem Bajraktari, 1001 Laknas, Albania"\ncity: "Laknas"\nlocation: "Laknas"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.37103968\n  lng: 19.73550966\nprice: "US$160"\npriceFrom: 160\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 105\nratings:\n  overall: 9.7\n  location: 9.3\n  cleanliness: 10\n  facilities: 10\n  value: 9.8\n  comfort: 10\n  staff: 9.9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469656603.jpg?k=208019f7553d1fff4c1b4e4efad75ec1affb707a22ac20e6d35dec4a8c34c930&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432228320.jpg?k=47b9650afcaa37e1a17e115cd845b177b025bb73323e226c790e37d96f966978&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432228408.jpg?k=1532539955aa517e54990eb4912b7b1f5535fb31271581dfe0af484d04cb9190&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469204783.jpg?k=ec2f85a606ab5bd3a413dac618eeca6e30dfebe62fcf26e926ab372da428a8d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485424134.jpg?k=687c89db2ce560665deea333fa43d5106c9ad385a360fcad763f63393d279a4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485424144.jpg?k=2cb3460346c70c8fc3cef8937c4167e5baa01b28dba09dca3933cab79018984c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Non-smoking rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Garden View"\n  - "Double Room with Garden View"\n  - "Superior Triple Room"\n  - "Comfort Triple Room"\n  - "Comfort Triple Room"\n  - "Suite with Garden View"\nnearbyAttractions:\n  - "National Museum of History Albania 8 km"\n  - "House of Leaves 8 km"\n  - "Skanderbeg Square 9 km"\n  - "Clock Tower Tirana 9 km"\n  - "Rinia Park 9 km"\n  - "National Gallery of Arts Tirana 9 km"\n  - "Former Residence of Enver Hoxha 9 km"\n  - "Tanners' Bridge 9 km"\n  - "Grand Park of Tirana 10 km"\n  - "Bunk'Art 1 Museum 11 km"\nnearbyRestaurants:\n  - "Blerina Farm 40 m"\n  - "Bar Restorant Alcani 1.2 km"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 6 km"\n  - "Park Lojrash 6 km"\n  - "Sheshi Rekreativ Lord Bajron 6 km"\n  - "Sheshi Rekreativ Parku 1Km 7 km"\n  - "Sheshi Xhuzepe Garibaldi 7 km"\n  - "Sheshi Rekreativ Don Bosko 7 km"\n  - "Sheshi Rekreativ Kombinat 7 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 7 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 7 km"\n  - "Sheshi Rekreativ Mine Peza 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 3.1 km"\n  - "Ohrid Airport 87 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "Diners Club"\n  - "American Express"\nreviews:\n  - name: "Gerti"\n    country: "Albania"\n    text: "“It’s so easy for me to escape the city rumors and relax in a farm house that we don’t own yet 😀. Because it’s very near from Tirana and it’s so new, so clean, so fine designed and detailed with love and thoughts to be as comfortable as home. Staff...”"\n  - name: "Sarah"\n    country: "Netherlands"\n    text: "“Blerina's provided us with a beautiful room for our final night in Albania. It had everything we needed and was absolute luxury. The restaurant was really special under the trees (just across the road from the hotel) with very tasty and reasonably...”"\n  - name: "Kimberly"\n    country: "Germany"\n    text: "“Beautiful interior, very friendly staff, delicious food”"\nbookingURL: "https://www.booking.com/hotel/al/blerina-farm.en-gb.html?aid=8035640"\nbestFor: "Best for Agritourism"\nbestCategories: "Agritourism"\ncategory: "Agritourism"\n---\n\nSet against a backdrop of lush gardens, each accommodation at Blerina's Agritourism Concept is thoughtfully designed to ensure guests' comfort and convenience. Air-conditioned units feature cozy seating areas, flat-screen TVs equipped with streaming services, and private bathrooms outfitted with walk-in showers, bathrobes, and slippers for a touch of luxury. Select units boast balconies, offering guests a private slice of nature's beauty, while all are furnished with coffee machines, crisp bed linen, and plush towels to enhance the stay.
+---
+title: "Blerina's Agritourism Concept"
+description: "Blerina's Agritourism Concept emerges as a serene oasis in Laknas, a mere stone's throw from the bustling heart of Skanderbeg Square and the scenic adventures offered by Dajti Ekspres Cable Car."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469656603.jpg?k=208019f7553d1fff4c1b4e4efad75ec1affb707a22ac20e6d35dec4a8c34c930&o=&hp=1"
+language: en
+slug: blerina-s-agritourism-concept
+address: "Rruga Muharrem Bajraktari, 1001 Laknas, Albania"
+city: "Laknas"
+location: "Laknas"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.37103968
+  lng: 19.73550966
+price: "US$160"
+priceFrom: 160
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 105
+ratings:
+  overall: 9.7
+  location: 9.3
+  cleanliness: 10
+  facilities: 10
+  value: 9.8
+  comfort: 10
+  staff: 9.9
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469656603.jpg?k=208019f7553d1fff4c1b4e4efad75ec1affb707a22ac20e6d35dec4a8c34c930&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432228320.jpg?k=47b9650afcaa37e1a17e115cd845b177b025bb73323e226c790e37d96f966978&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432228408.jpg?k=1532539955aa517e54990eb4912b7b1f5535fb31271581dfe0af484d04cb9190&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469204783.jpg?k=ec2f85a606ab5bd3a413dac618eeca6e30dfebe62fcf26e926ab372da428a8d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485424134.jpg?k=687c89db2ce560665deea333fa43d5106c9ad385a360fcad763f63393d279a4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485424144.jpg?k=2cb3460346c70c8fc3cef8937c4167e5baa01b28dba09dca3933cab79018984c&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Non-smoking rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Garden View"
+  - "Double Room with Garden View"
+  - "Superior Triple Room"
+  - "Comfort Triple Room"
+  - "Comfort Triple Room"
+  - "Suite with Garden View"
+nearbyAttractions:
+  - "National Museum of History Albania 8 km"
+  - "House of Leaves 8 km"
+  - "Skanderbeg Square 9 km"
+  - "Clock Tower Tirana 9 km"
+  - "Rinia Park 9 km"
+  - "National Gallery of Arts Tirana 9 km"
+  - "Former Residence of Enver Hoxha 9 km"
+  - "Tanners' Bridge 9 km"
+  - "Grand Park of Tirana 10 km"
+  - "Bunk'Art 1 Museum 11 km"
+nearbyRestaurants:
+  - "Blerina Farm 40 m"
+  - "Bar Restorant Alcani 1.2 km"
+whatsNearby:
+  - "Shesh Rekreativ Yzberisht 6 km"
+  - "Park Lojrash 6 km"
+  - "Sheshi Rekreativ Lord Bajron 6 km"
+  - "Sheshi Rekreativ Parku 1Km 7 km"
+  - "Sheshi Xhuzepe Garibaldi 7 km"
+  - "Sheshi Rekreativ Don Bosko 7 km"
+  - "Sheshi Rekreativ Kombinat 7 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 7 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 7 km"
+  - "Sheshi Rekreativ Mine Peza 7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 3.1 km"
+  - "Ohrid Airport 87 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "Diners Club"
+  - "American Express"
+reviews:
+  - name: "Gerti"
+    country: "Albania"
+    text: "“It’s so easy for me to escape the city rumors and relax in a farm house that we don’t own yet 😀. Because it’s very near from Tirana and it’s so new, so clean, so fine designed and detailed with love and thoughts to be as comfortable as home. Staff...”"
+  - name: "Sarah"
+    country: "Netherlands"
+    text: "“Blerina's provided us with a beautiful room for our final night in Albania. It had everything we needed and was absolute luxury. The restaurant was really special under the trees (just across the road from the hotel) with very tasty and reasonably...”"
+  - name: "Kimberly"
+    country: "Germany"
+    text: "“Beautiful interior, very friendly staff, delicious food”"
+bookingURL: "https://www.booking.com/hotel/al/blerina-farm.en-gb.html?aid=8035640"
+bestFor: "Best for Agritourism"
+bestCategories: "Agritourism"
+category: "Agritourism"
+---
+
+Set against a backdrop of lush gardens, each accommodation at Blerina's Agritourism Concept is thoughtfully designed to ensure guests' comfort and convenience. Air-conditioned units feature cozy seating areas, flat-screen TVs equipped with streaming services, and private bathrooms outfitted with walk-in showers, bathrobes, and slippers for a touch of luxury. Select units boast balconies, offering guests a private slice of nature's beauty, while all are furnished with coffee machines, crisp bed linen, and plush towels to enhance the stay.
 
 The farm stay doesn't just stop at comfortable lodgings; it invites guests to immerse themselves in the local culture and cuisine through its on-site restaurant. Here, visitors can savor farm-to-table dishes that showcase the region's flavors. For those who prefer a lighter fare, a charming coffee shop offers the perfect spot to unwind with a book or plan the day's adventures.
 

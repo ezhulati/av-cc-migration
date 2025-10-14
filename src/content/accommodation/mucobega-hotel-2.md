@@ -1,5 +1,94 @@
----\ntitle: "Mucobega Hotel 2"\ndescription: "Mucobega Hotel 2, located a mere stone's throw from the pristine shores of Saranda Bay Beach in Sarandë, offers a serene retreat for travelers seeking both relaxation and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482817632.jpg?k=7493ed3e5adcb5509ef201d0d31a52814195ab089d9d41edae536052ae55e820&o=&hp=1"\nlanguage: en\nslug: mucobega-hotel-2\naddress: "Rruga Idriz Alidhima, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87731803\n  lng: 19.98117781\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 312\nratings:\n  overall: 8.4\n  location: 8.1\n  cleanliness: 8.8\n  facilities: 8.2\n  value: 7.9\n  comfort: 8.7\n  staff: 8.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482817632.jpg?k=7493ed3e5adcb5509ef201d0d31a52814195ab089d9d41edae536052ae55e820&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357179141.jpg?k=089abadfa0d5c95311c22758e13056812991e73b3196364d37f0d81a4c25d28a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254973951.jpg?k=177bfd067aff2121f48c1a0c42afffa4303c06b36ff395aedfedf857b27ac69b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482819244.jpg?k=5bf04e8191c3d9c14059f2fdc1e0c494e55ea4bef7ef8e6817a840c17f9b4633&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482827062.jpg?k=ad6eec0f75b41d671073ec46322d5664ebcf0f2bea3489c234d069c1cf7d5a91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482824003.jpg?k=dc34787dc3d76f2251b717bb304252fa39d1e8a1440eeff67776858404b838b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357179394.jpg?k=dbb9c6816fb7ce8d9772775014d0b9d3fca7eb7cea680ae67f565a3d2e26ba62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254973920.jpg?k=6e3563c7f9f8a89aa80239388145faea75ddcd157d0c09837015b0a6f7178e92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482816583.jpg?k=19e00c0669301334f66a5cc0b0815a185b500d374f8848f579c65e20269c847b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483007793.jpg?k=03d9b7687c5a2041f8dd35a1f60dfe27faae41a1a10eaaf299d1fd49ad0fc655&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482818888.jpg?k=8c46abc194a9cf4a97be2bbf739c7444f0fb22bd8fcb3f8c35d111127c68719d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482821746.jpg?k=968672f5d67f8cbfe376217dda4beb174761b1c088ce9dfccd8c56e4a4dc6ea0&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Siro Beach 150 m"\n  - "Leos Grill House 450 m"\nnearbyBeaches:\n  - "Saranda Bay Beach 40 m"\n  - "Sarande Main Beach 1 km"\n  - "Saranda City Beach 2.4 km"\n  - "La Petite Beach 3 km"\n  - "Maestral Beach 3.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 4.3 km"\n  - "Butrint National Park 4.8 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 74 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Cem"\n    country: "Germany"\n    text: "“The hotel is at a very silent location. The room was very good and staff in the hotel qas very friendly. The beach near by is very good.”"\n  - name: "Tanya"\n    country: "United Kingdom"\n    text: "“The staff were so friendly and helpful. The location is great, a 30 min walk from the center. The private beach was the highlight as it was beautiful and the bar was great to. Really enjoyed our stay”"\n  - name: "Kateřina"\n    country: "Czech Republic"\n    text: "“It is very close to the beautiful beach and I do recommend to go there in the evening. So cool vibes.
-Also when arriving we had a problem with our room but the receptionist solve it with the manager within minutes and make it comfortable as soon...”"\nbookingURL: "https://www.booking.com/hotel/al/mucobega-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon arrival, visitors are greeted by a lush garden and the convenience of complimentary private parking. The hotel's commitment to guest satisfaction is evident through its comprehensive services, including a 24-hour front desk, seamless airport transfer options, attentive room service, and ubiquitous free WiFi.
+---
+title: "Mucobega Hotel 2"
+description: "Mucobega Hotel 2, located a mere stone's throw from the pristine shores of Saranda Bay Beach in Sarandë, offers a serene retreat for travelers seeking both relaxation and adventure."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482817632.jpg?k=7493ed3e5adcb5509ef201d0d31a52814195ab089d9d41edae536052ae55e820&o=&hp=1"
+language: en
+slug: mucobega-hotel-2
+address: "Rruga Idriz Alidhima, 9700 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.87731803
+  lng: 19.98117781
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 8.4
+ratingWords: "Very Good"
+numberOfReviews: 312
+ratings:
+  overall: 8.4
+  location: 8.1
+  cleanliness: 8.8
+  facilities: 8.2
+  value: 7.9
+  comfort: 8.7
+  staff: 8.6
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482817632.jpg?k=7493ed3e5adcb5509ef201d0d31a52814195ab089d9d41edae536052ae55e820&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357179141.jpg?k=089abadfa0d5c95311c22758e13056812991e73b3196364d37f0d81a4c25d28a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254973951.jpg?k=177bfd067aff2121f48c1a0c42afffa4303c06b36ff395aedfedf857b27ac69b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482819244.jpg?k=5bf04e8191c3d9c14059f2fdc1e0c494e55ea4bef7ef8e6817a840c17f9b4633&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482827062.jpg?k=ad6eec0f75b41d671073ec46322d5664ebcf0f2bea3489c234d069c1cf7d5a91&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482824003.jpg?k=dc34787dc3d76f2251b717bb304252fa39d1e8a1440eeff67776858404b838b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357179394.jpg?k=dbb9c6816fb7ce8d9772775014d0b9d3fca7eb7cea680ae67f565a3d2e26ba62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254973920.jpg?k=6e3563c7f9f8a89aa80239388145faea75ddcd157d0c09837015b0a6f7178e92&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482816583.jpg?k=19e00c0669301334f66a5cc0b0815a185b500d374f8848f579c65e20269c847b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483007793.jpg?k=03d9b7687c5a2041f8dd35a1f60dfe27faae41a1a10eaaf299d1fd49ad0fc655&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482818888.jpg?k=8c46abc194a9cf4a97be2bbf739c7444f0fb22bd8fcb3f8c35d111127c68719d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482821746.jpg?k=968672f5d67f8cbfe376217dda4beb174761b1c088ce9dfccd8c56e4a4dc6ea0&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Siro Beach 150 m"
+  - "Leos Grill House 450 m"
+nearbyBeaches:
+  - "Saranda Bay Beach 40 m"
+  - "Sarande Main Beach 1 km"
+  - "Saranda City Beach 2.4 km"
+  - "La Petite Beach 3 km"
+  - "Maestral Beach 3.1 km"
+whatsNearby:
+  - "Parc National de Butrint 4.3 km"
+  - "Butrint National Park 4.8 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 74 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Cem"
+    country: "Germany"
+    text: "“The hotel is at a very silent location. The room was very good and staff in the hotel qas very friendly. The beach near by is very good.”"
+  - name: "Tanya"
+    country: "United Kingdom"
+    text: "“The staff were so friendly and helpful. The location is great, a 30 min walk from the center. The private beach was the highlight as it was beautiful and the bar was great to. Really enjoyed our stay”"
+  - name: "Kateřina"
+    country: "Czech Republic"
+    text: "“It is very close to the beautiful beach and I do recommend to go there in the evening. So cool vibes.
+Also when arriving we had a problem with our room but the receptionist solve it with the manager within minutes and make it comfortable as soon...”"
+bookingURL: "https://www.booking.com/hotel/al/mucobega-2.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Upon arrival, visitors are greeted by a lush garden and the convenience of complimentary private parking. The hotel's commitment to guest satisfaction is evident through its comprehensive services, including a 24-hour front desk, seamless airport transfer options, attentive room service, and ubiquitous free WiFi.
 
 Accommodations at Mucobega Hotel 2 are thoughtfully designed with comfort and convenience in mind. Each air-conditioned room is equipped with a desk, a safety deposit box for valuables, a flat-screen TV for entertainment, and a balcony to soak in the stunning sea vistas. The private bathrooms come with a refreshing shower, and ample wardrobe space is provided to make guests feel at home.
 

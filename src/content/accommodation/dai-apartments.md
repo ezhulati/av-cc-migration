@@ -1,6 +1,74 @@
----\ntitle: "DAI Apartments"\ndescription: "DAI Apartments emerges as a serene haven in the historic heart of Gjirokastër, boasting both river and city panoramas that captivate and charm."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390094418.jpg?k=5850a8bf8d24f7a193932884b551d37cd7b0620af930b420d2738c5b55db65b1&o=&hp=1"\nlanguage: en\nslug: dai-apartments\naddress: "Ura e Lumit Gjirokaster, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08420014\n  lng: 20.14515761\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 68\nratings:\n  overall: 9.7\n  location: 8.9\n  cleanliness: 9.9\n  facilities: 9.3\n  value: 9.6\n  comfort: 10\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390094418.jpg?k=5850a8bf8d24f7a193932884b551d37cd7b0620af930b420d2738c5b55db65b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390094516.jpg?k=15f78db8dc84cf6a6674d797dd9bb2ba561a6d23ce8259c65f329615d1f25f34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390106909.jpg?k=79cccd5b1e3c9b4299bb5a0ffacfab61cc5c14b25be40a9b3df5b6e687a7edba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448549441.jpg?k=7a76efa644c73a3059a637cbfd1be97ee96c787c085923c877aed428ed4cda5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390105316.jpg?k=5f4d827b97b14bcfe08c1da5f3dd164c4d14ff597fbb056a4a86d16c2bb1d570&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481659630.jpg?k=50888ab5e293e3d10a8a4d5012b5105701dac471242851992112c2c0ba2520b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487408687.jpg?k=6d94a371d73ece7a99490f115535ed93032b917f2e53130039545043a34ac295&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448547361.jpg?k=46c70379d0f27c5d5ed839b2a7e6f21ab709555c12b47a48b3793e5ca022d75a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487409736.jpg?k=1295f87cd387aa9c442b43fab5a633539bbabeb2e26927e409ad44a93214ad28&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Traditional Pajtimi 100 m"\n  - "Buondi 150 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Renek"\n    country: "Estonia"\n    text: "“I loved everything about this apartment. Also supermarket, bakery, cafes just downstairs, including bus station next door.
-Amazing views from the balcony and the perfect host.”"\n  - name: "Evelyn"\n    country: "Estonia"\n    text: "“Spacious and clean apartment with good location. Owner.”"\n  - name: "Mareksu"\n    country: "Netherlands"\n    text: "“Very spacious and spotless clean! The bakery, supermarket and cafe downstairs was very convenient.
-The host was very nice and friendly, welcoming, and spoke very good English.”"\nbookingURL: "https://www.booking.com/hotel/al/quot-dai-quot-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment at DAI Apartments is a testament to thoughtful design and comfort, featuring air-conditioned rooms that serve as cool retreats from the bustling city life. Guests are treated to the luxury of free private parking and complimentary WiFi, ensuring a seamless and connected stay. The allure of the apartments is further enhanced by balconies that open up to breathtaking mountain views, inviting guests to unwind and soak in the natural beauty.
+---
+title: "DAI Apartments"
+description: "DAI Apartments emerges as a serene haven in the historic heart of Gjirokastër, boasting both river and city panoramas that captivate and charm."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390094418.jpg?k=5850a8bf8d24f7a193932884b551d37cd7b0620af930b420d2738c5b55db65b1&o=&hp=1"
+language: en
+slug: dai-apartments
+address: "Ura e Lumit Gjirokaster, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.08420014
+  lng: 20.14515761
+price: "US$32"
+priceFrom: 32
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 68
+ratings:
+  overall: 9.7
+  location: 8.9
+  cleanliness: 9.9
+  facilities: 9.3
+  value: 9.6
+  comfort: 10
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390094418.jpg?k=5850a8bf8d24f7a193932884b551d37cd7b0620af930b420d2738c5b55db65b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390094516.jpg?k=15f78db8dc84cf6a6674d797dd9bb2ba561a6d23ce8259c65f329615d1f25f34&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390106909.jpg?k=79cccd5b1e3c9b4299bb5a0ffacfab61cc5c14b25be40a9b3df5b6e687a7edba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448549441.jpg?k=7a76efa644c73a3059a637cbfd1be97ee96c787c085923c877aed428ed4cda5e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390105316.jpg?k=5f4d827b97b14bcfe08c1da5f3dd164c4d14ff597fbb056a4a86d16c2bb1d570&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481659630.jpg?k=50888ab5e293e3d10a8a4d5012b5105701dac471242851992112c2c0ba2520b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487408687.jpg?k=6d94a371d73ece7a99490f115535ed93032b917f2e53130039545043a34ac295&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448547361.jpg?k=46c70379d0f27c5d5ed839b2a7e6f21ab709555c12b47a48b3793e5ca022d75a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487409736.jpg?k=1295f87cd387aa9c442b43fab5a633539bbabeb2e26927e409ad44a93214ad28&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Breakfast"
+roomTypes:
+  - "Apartment with Balcony"
+nearbyRestaurants:
+  - "Traditional Pajtimi 100 m"
+  - "Buondi 150 m"
+airports:
+  - "Corfu International Airport 56 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Renek"
+    country: "Estonia"
+    text: "“I loved everything about this apartment. Also supermarket, bakery, cafes just downstairs, including bus station next door.
+Amazing views from the balcony and the perfect host.”"
+  - name: "Evelyn"
+    country: "Estonia"
+    text: "“Spacious and clean apartment with good location. Owner.”"
+  - name: "Mareksu"
+    country: "Netherlands"
+    text: "“Very spacious and spotless clean! The bakery, supermarket and cafe downstairs was very convenient.
+The host was very nice and friendly, welcoming, and spoke very good English.”"
+bookingURL: "https://www.booking.com/hotel/al/quot-dai-quot-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Each apartment at DAI Apartments is a testament to thoughtful design and comfort, featuring air-conditioned rooms that serve as cool retreats from the bustling city life. Guests are treated to the luxury of free private parking and complimentary WiFi, ensuring a seamless and connected stay. The allure of the apartments is further enhanced by balconies that open up to breathtaking mountain views, inviting guests to unwind and soak in the natural beauty.
 
 The living spaces are meticulously arranged to provide a homely feel, with a seating area and a flat-screen TV for entertainment. The fully equipped kitchen, complete with an oven, microwave, fridge, stovetop, and essential kitchenware, adds a touch of home, allowing guests the freedom to prepare their meals. The convenience of a coffee machine and kettle ensures morning routines are uninterrupted. Private bathrooms equipped with showers and slippers, along with the provision of bed linen and towels, underscore the apartment complex's attention to guest comfort.
 

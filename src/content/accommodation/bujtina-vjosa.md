@@ -1,4 +1,84 @@
----\ntitle: "Bujtina Vjosa"\ndescription: "Bujtina Vjosa emerges as a serene oasis in Memaliaj, offering guests an unparalleled blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818354.jpg?k=e8024bd1aac4a690a54b9964e9369511a0f22422baf7dce3121ef9a4af68b68e&o=&hp=1"\nlanguage: en\nslug: bujtina-vjosa\naddress: "Bujtina Vjosa, 9X2P+2M6, Memaliaj, 6302 Memaliaj, Albania"\ncity: "Memaliaj"\nlocation: "Memaliaj"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.3499597\n  lng: 19.98642385\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 90\nratings:\n  overall: 8.4\n  location: 9.2\n  cleanliness: 8.3\n  facilities: 8.1\n  value: 8.4\n  comfort: 8.4\n  staff: 9.2\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818354.jpg?k=e8024bd1aac4a690a54b9964e9369511a0f22422baf7dce3121ef9a4af68b68e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515061.jpg?k=c7923b62aa8e6996fd26992694535757cd86299b60a8d525a9a6d49353ef5125&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515108.jpg?k=b96b542224924f0b3a426d5fb7f7a83940f32c0cc369f4fca17a77f2a150182f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818360.jpg?k=f1a1c9bcf78c9813a5f5fe8b113d988e20712b5f5686117bdeb5b1e87e4d9a78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515097.jpg?k=29ff1e9cfad67cfa1e3f764451adb93788f4c0d266e9f11bc73b4be9ae09f35b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818365.jpg?k=2fc101f924559028747baee69b111af1438347a74d619836bc889fb5a85da669&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515069.jpg?k=925b7d19d170feb682d377bf3d2a33fbf4e5566e06ede44af59bed3c98dc9618&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515071.jpg?k=f034eebd4e7538b55dccb6b56a75030651d5124f415a6e3cba9776db88c98d0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525683799.jpg?k=0fd58da06e036b776ad2e0cb2ae0a673e680a4f8039486a9b56cc51253834fd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818351.jpg?k=eb80165f94d054fe8ef97230c9e8c966a51036c7eb0aeff12772b54bc6623c93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515045.jpg?k=b00c9f10db79a922044e32b9c0651d8422c6038edf968cab72fc6f1a3bc67298&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515022.jpg?k=6c4f35ae827d97d36a85154ce694555ef48ebc8d3becf1ed8ab139eee81aff3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818342.jpg?k=b39f7e19e207e2b886eb2a95ac42c6e178563b211f9bb623bee9363f7a7c5eab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515048.jpg?k=47b866b3aa607a997d194c39e978677037c8ddcf9e0e88c4a3aada7222217154&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366349223.jpg?k=29478f955da4b1d995493f5067fcb6dfa2190a4713eac50e42db1d0b3c67b2df&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Fast free WiFi (88 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Superb breakfast"\nroomTypes:\n  - "Family Room"\n  - "Standard Triple Room"\n  - "Duplex Suite"\nnearbyRestaurants:\n  - "Pasticeri Byrektore 600 m"\n  - "Kompleksi Veal 6 km"\nairports:\n  - "Corfu International Airport 82 km"\nreviews:\n  - name: "Beata"\n    country: "Poland"\n    text: "“Delicious traditional byrek as well as wonderful morning breakfast! Wonderful views, great and hospitable hosts, very supportive for the hints where to go in the surrounding. Thank you!!”"\n  - name: "Nicola"\n    country: "United Kingdom"\n    text: "“Loved this area, accommodate was lovely and the animals were fab.. The best bit about the stay was the breakfast in the morning.. People were so friendly, would have loved to have stayed longer!”"\n  - name: "Esi"\n    country: "Germany"\n    text: "“We had a very traditional and authentic experience at the Bujtina Vjosa. The location right near the Vjosa river is one of a kind. Also the staff was very friendly and kind, especially the woman called Vali. Her food was delicious and the rooms...”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-vjosa.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are treated to the convenience of complimentary private parking and WiFi, ensuring a seamless and connected stay. Security is paramount, with full-day monitoring, luggage storage, and currency exchange services readily available to all visitors.
+---
+title: "Bujtina Vjosa"
+description: "Bujtina Vjosa emerges as a serene oasis in Memaliaj, offering guests an unparalleled blend of comfort and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818354.jpg?k=e8024bd1aac4a690a54b9964e9369511a0f22422baf7dce3121ef9a4af68b68e&o=&hp=1"
+language: en
+slug: bujtina-vjosa
+address: "Bujtina Vjosa, 9X2P+2M6, Memaliaj, 6302 Memaliaj, Albania"
+city: "Memaliaj"
+location: "Memaliaj"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.3499597
+  lng: 19.98642385
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 8.4
+ratingWords: "Very Good"
+numberOfReviews: 90
+ratings:
+  overall: 8.4
+  location: 9.2
+  cleanliness: 8.3
+  facilities: 8.1
+  value: 8.4
+  comfort: 8.4
+  staff: 9.2
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818354.jpg?k=e8024bd1aac4a690a54b9964e9369511a0f22422baf7dce3121ef9a4af68b68e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515061.jpg?k=c7923b62aa8e6996fd26992694535757cd86299b60a8d525a9a6d49353ef5125&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515108.jpg?k=b96b542224924f0b3a426d5fb7f7a83940f32c0cc369f4fca17a77f2a150182f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818360.jpg?k=f1a1c9bcf78c9813a5f5fe8b113d988e20712b5f5686117bdeb5b1e87e4d9a78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515097.jpg?k=29ff1e9cfad67cfa1e3f764451adb93788f4c0d266e9f11bc73b4be9ae09f35b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818365.jpg?k=2fc101f924559028747baee69b111af1438347a74d619836bc889fb5a85da669&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515069.jpg?k=925b7d19d170feb682d377bf3d2a33fbf4e5566e06ede44af59bed3c98dc9618&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515071.jpg?k=f034eebd4e7538b55dccb6b56a75030651d5124f415a6e3cba9776db88c98d0f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525683799.jpg?k=0fd58da06e036b776ad2e0cb2ae0a673e680a4f8039486a9b56cc51253834fd1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818351.jpg?k=eb80165f94d054fe8ef97230c9e8c966a51036c7eb0aeff12772b54bc6623c93&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515045.jpg?k=b00c9f10db79a922044e32b9c0651d8422c6038edf968cab72fc6f1a3bc67298&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515022.jpg?k=6c4f35ae827d97d36a85154ce694555ef48ebc8d3becf1ed8ab139eee81aff3d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818342.jpg?k=b39f7e19e207e2b886eb2a95ac42c6e178563b211f9bb623bee9363f7a7c5eab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350515048.jpg?k=47b866b3aa607a997d194c39e978677037c8ddcf9e0e88c4a3aada7222217154&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366349223.jpg?k=29478f955da4b1d995493f5067fcb6dfa2190a4713eac50e42db1d0b3c67b2df&o=&hp=1"
+amenities:
+  - "Room service"
+  - "Free parking"
+  - "Fast free WiFi (88 Mbps)"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Private beach area"
+  - "Superb breakfast"
+roomTypes:
+  - "Family Room"
+  - "Standard Triple Room"
+  - "Duplex Suite"
+nearbyRestaurants:
+  - "Pasticeri Byrektore 600 m"
+  - "Kompleksi Veal 6 km"
+airports:
+  - "Corfu International Airport 82 km"
+reviews:
+  - name: "Beata"
+    country: "Poland"
+    text: "“Delicious traditional byrek as well as wonderful morning breakfast! Wonderful views, great and hospitable hosts, very supportive for the hints where to go in the surrounding. Thank you!!”"
+  - name: "Nicola"
+    country: "United Kingdom"
+    text: "“Loved this area, accommodate was lovely and the animals were fab.. The best bit about the stay was the breakfast in the morning.. People were so friendly, would have loved to have stayed longer!”"
+  - name: "Esi"
+    country: "Germany"
+    text: "“We had a very traditional and authentic experience at the Bujtina Vjosa. The location right near the Vjosa river is one of a kind. Also the staff was very friendly and kind, especially the woman called Vali. Her food was delicious and the rooms...”"
+bookingURL: "https://www.booking.com/hotel/al/bujtina-vjosa.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests are treated to the convenience of complimentary private parking and WiFi, ensuring a seamless and connected stay. Security is paramount, with full-day monitoring, luggage storage, and currency exchange services readily available to all visitors.
 
 Accommodations at Bujtina Vjosa are a testament to thoughtful design and comfort. Each unit, boasting a terrace and air conditioning, is equipped with a flat-screen TV and a private bathroom complete with a bidet and plush bathrobes. The charm of outdoor dining is brought to life on patios that offer breathtaking river views, with every unit also providing bed linen and towels for the utmost convenience.
 

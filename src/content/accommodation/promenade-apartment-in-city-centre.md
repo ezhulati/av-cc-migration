@@ -1,3 +1,65 @@
----\ntitle: "Promenade Apartment in City Centre"\ndescription: "Discover the charm of Berat with a stay at Promenade Apartment in City Centre, a prime choice for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\nlanguage: en\nslug: promenade-apartment-in-city-centre\naddress: "\"22 Tetori\" Quarter, Building 43, Apartment 10, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70468924\n  lng: 19.95165197\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505468369.jpg?k=d004c584a0e7d081bad7e5a5dc202393f2624884f68440c16408629d78538ca7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/508214528.jpg?k=ea19fb46c184ca185e7ecd1b921849b825ebceb5b93025c6c6924d4cdedbbecf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/508214561.jpg?k=d852057b669b2cd990f8f17cb068b3d1d94338bfcbab63f73b7fc45f460bd74d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/508397425.jpg?k=9a147559b6b6584fe792ef9bc63cfc041b9fa69e1f0460967ed1f8af22bce670&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505468368.jpg?k=cc42273e759832cb1328b8b5bd4afcf2bba9fd2bde10d612a21d4e2f53370d3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505468363.jpg?k=012749828a2d0dfdbf616e31b8962dc8eb1b911ccf274f3780767bfc9ff87cb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505468367.jpg?k=8c3df4fa37f9e875293286cb4a2acd490f4bcd3e06c185bd92ea9b0b7f376d9c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "City Grill 30 m"\n  - "Home Taste 50 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Anonymous"\n    country: "Spain"\n    text: "“The hosts are so welcoming and nice! They made sure we had everything we needed.”"\nbookingURL: "https://www.booking.com/hotel/al/promenade-apartment-in-city-centre.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nFeaturing a well-appointed bedroom, a clean and modern bathroom complete with bed linen and towels, this apartment doesn't skimp on the essentials. Entertainment and connectivity are at your fingertips with a satellite TV, while the fully equipped kitchen allows for the easy preparation of meals, adding a touch of home. The balcony, offering serene garden views, provides a peaceful retreat to unwind after a day of exploration.
+---
+title: "Promenade Apartment in City Centre"
+description: "Discover the charm of Berat with a stay at Promenade Apartment in City Centre, a prime choice for travelers seeking both convenience and comfort."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+language: en
+slug: promenade-apartment-in-city-centre
+address: "\"22 Tetori\" Quarter, Building 43, Apartment 10, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.70468924
+  lng: 19.95165197
+price: "US$34"
+priceFrom: 34
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505468369.jpg?k=d004c584a0e7d081bad7e5a5dc202393f2624884f68440c16408629d78538ca7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/508214528.jpg?k=ea19fb46c184ca185e7ecd1b921849b825ebceb5b93025c6c6924d4cdedbbecf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/508214561.jpg?k=d852057b669b2cd990f8f17cb068b3d1d94338bfcbab63f73b7fc45f460bd74d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/508397425.jpg?k=9a147559b6b6584fe792ef9bc63cfc041b9fa69e1f0460967ed1f8af22bce670&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505468368.jpg?k=cc42273e759832cb1328b8b5bd4afcf2bba9fd2bde10d612a21d4e2f53370d3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505468363.jpg?k=012749828a2d0dfdbf616e31b8962dc8eb1b911ccf274f3780767bfc9ff87cb9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505468367.jpg?k=8c3df4fa37f9e875293286cb4a2acd490f4bcd3e06c185bd92ea9b0b7f376d9c&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "City Grill 30 m"
+  - "Home Taste 50 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 84 km"
+reviews:
+  - name: "Anonymous"
+    country: "Spain"
+    text: "“The hosts are so welcoming and nice! They made sure we had everything we needed.”"
+bookingURL: "https://www.booking.com/hotel/al/promenade-apartment-in-city-centre.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Featuring a well-appointed bedroom, a clean and modern bathroom complete with bed linen and towels, this apartment doesn't skimp on the essentials. Entertainment and connectivity are at your fingertips with a satellite TV, while the fully equipped kitchen allows for the easy preparation of meals, adding a touch of home. The balcony, offering serene garden views, provides a peaceful retreat to unwind after a day of exploration.
 
 Located 118 km from Tirana International Mother Teresa Airport, Promenade Apartment in City Centre presents an ideal base for exploring the rich history and culture of Berat, making it a top pick for discerning travelers.

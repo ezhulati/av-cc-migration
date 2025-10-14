@@ -1,4 +1,72 @@
----\ntitle: "Room 99"\ndescription: "Room 99 is a prime choice for travelers seeking comfort and convenience in Shkodër, just a short distance from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431050.jpg?k=c1af740b093254520a2abbe4adab3592516df1f8c1d303c6fc80d6037bcfad7e&o=&hp=1"\nlanguage: en\nslug: room-99\naddress: "Rruga Don Bosko, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06324043\n  lng: 19.5142494\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 9\nratings:\n  overall: 9.2\n  location: 9.1\n  cleanliness: 9.1\n  facilities: 8.8\n  value: 9.4\n  comfort: 9.7\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431050.jpg?k=c1af740b093254520a2abbe4adab3592516df1f8c1d303c6fc80d6037bcfad7e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431080.jpg?k=4c2682172415a483a8b8b945e15435d203ac02fe94d4846195779ab4190c640d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444514779.jpg?k=3a89b690019c7dd3204d50efc06faa096690d1e1f7e4e97ef50d8de835d6dfee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431062.jpg?k=6990f2fec01c0c47396251a4f47e2b759b631f8a3520ea866d5167128d1a68f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431142.jpg?k=8783505f43c69527fc2e8fefd990ec855ccc71217e42447fb8d42baf34607477&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431174.jpg?k=c4b844015b8a0c8553e6eb55409a38775b223001ef92a4b7836f8a0c72ffa27a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431095.jpg?k=493e8f35424b9e437e0ba2289a8cea5cb7d25287de25f156b2af78328b5dd594&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431169.jpg?k=1bdad422a57f60153dba57de027d514e251defc646ae43da7360cb7ab43ef179&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431013.jpg?k=177039ac204bcbcb8bbfdf2946bdbdb55cd372f001563970b752269a5d50aa82&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Sweet 100 m"\n  - "Dejani 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.5 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Kristóf"\n    country: "Hungary"\n    text: "“Good location very near to the center. Easy to go by foot. This is a full aparment with enough place.”"\n  - name: "Zsuzsi"\n    country: "Hungary"\n    text: "“Nem volt reggeli....a lakás modern, kellemes. A vendég látó, Edinjo kedves, segítőkész, udvarias. Ajánlom akár több napra is!”"\n  - name: "Konstantin"\n    country: "Germany"\n    text: "“Well equipped with washing machine and kitchen with basic pots and pan. Directly in the city center, which is a plus.”"\nbookingURL: "https://www.booking.com/hotel/al/edinjo-apartament-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests will appreciate the inclusion of a flat-screen TV and a washing machine, ensuring a stay that blends the comforts of home with the ease of travel. 
+---
+title: "Room 99"
+description: "Room 99 is a prime choice for travelers seeking comfort and convenience in Shkodër, just a short distance from the Port of Bar."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431050.jpg?k=c1af740b093254520a2abbe4adab3592516df1f8c1d303c6fc80d6037bcfad7e&o=&hp=1"
+language: en
+slug: room-99
+address: "Rruga Don Bosko, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.06324043
+  lng: 19.5142494
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 9
+ratings:
+  overall: 9.2
+  location: 9.1
+  cleanliness: 9.1
+  facilities: 8.8
+  value: 9.4
+  comfort: 9.7
+  staff: 9.1
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431050.jpg?k=c1af740b093254520a2abbe4adab3592516df1f8c1d303c6fc80d6037bcfad7e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431080.jpg?k=4c2682172415a483a8b8b945e15435d203ac02fe94d4846195779ab4190c640d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444514779.jpg?k=3a89b690019c7dd3204d50efc06faa096690d1e1f7e4e97ef50d8de835d6dfee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431062.jpg?k=6990f2fec01c0c47396251a4f47e2b759b631f8a3520ea866d5167128d1a68f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431142.jpg?k=8783505f43c69527fc2e8fefd990ec855ccc71217e42447fb8d42baf34607477&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431174.jpg?k=c4b844015b8a0c8553e6eb55409a38775b223001ef92a4b7836f8a0c72ffa27a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431095.jpg?k=493e8f35424b9e437e0ba2289a8cea5cb7d25287de25f156b2af78328b5dd594&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431169.jpg?k=1bdad422a57f60153dba57de027d514e251defc646ae43da7360cb7ab43ef179&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431013.jpg?k=177039ac204bcbcb8bbfdf2946bdbdb55cd372f001563970b752269a5d50aa82&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Sweet 100 m"
+  - "Dejani 100 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.5 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 72 km"
+  - "Tivat Airport 74 km"
+reviews:
+  - name: "Kristóf"
+    country: "Hungary"
+    text: "“Good location very near to the center. Easy to go by foot. This is a full aparment with enough place.”"
+  - name: "Zsuzsi"
+    country: "Hungary"
+    text: "“Nem volt reggeli....a lakás modern, kellemes. A vendég látó, Edinjo kedves, segítőkész, udvarias. Ajánlom akár több napra is!”"
+  - name: "Konstantin"
+    country: "Germany"
+    text: "“Well equipped with washing machine and kitchen with basic pots and pan. Directly in the city center, which is a plus.”"
+bookingURL: "https://www.booking.com/hotel/al/edinjo-apartament-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests will appreciate the inclusion of a flat-screen TV and a washing machine, ensuring a stay that blends the comforts of home with the ease of travel. 
 
 Overlooking a tranquil street, the apartment promises a peaceful retreat from the bustling city life. 
 

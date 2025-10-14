@@ -13,6 +13,5 @@ seo:
   robots: "index"
   metaTitle: "Send Money to Albania | Fast, Secure Transfers "
   metaDescription: "Send money to Albania with Xe - the fast, secure, and affordable way to transfer funds. Get competitive exchange rates and low fees. Start now."
-  robots: "index"
 ---
 

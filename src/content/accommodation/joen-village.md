@@ -1,4 +1,87 @@
----\ntitle: "JOEN Village"\ndescription: "JOEN Village, located in the serene town of Librazhd, stands out as a premier destination for travelers seeking a blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502928266.jpg?k=c17d13b7014e74fb5dcbecce0851f332f45cf179be16e68e0a9ba04f4604c78a&o=&hp=1"\nlanguage: en\nslug: joen-village\naddress: "Fushe Studen, 3401 Librazhd, Albania"\ncity: "Librazhd"\nlocation: "Librazhd"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.31712301\n  lng: 20.38643123\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 16\nratings:\n  overall: 9.6\n  location: 9.4\n  cleanliness: 9.8\n  facilities: 9.5\n  value: 9.3\n  comfort: 10\n  staff: 9.2\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502928266.jpg?k=c17d13b7014e74fb5dcbecce0851f332f45cf179be16e68e0a9ba04f4604c78a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400724029.jpg?k=0fe5a7036b7ed4d44dc3fd7d892079b2a44a3d8b5bf1fba69c5c983287ffa176&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284804535.jpg?k=606194174b37e92f7adb4c54ac774dcdb21165306619fe28880cf443e84d48b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502928281.jpg?k=d7e41671ec87c1c4d68d6ff27a321b3c4e1acedc192c0c8d333c20e6916cdcdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344100459.jpg?k=ce3d0d08247862af19523dc10bf87285a0864d381aa53f8005b4aad28ca723ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344100455.jpg?k=429267410f83177a615799815c76c608fe325aef7724b769478e997c7b8a879d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344100456.jpg?k=575d133c50133e753f3cf28220118da88ab559ba29ae0087224a0a34308cf44b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333719336.jpg?k=62e79cd461d498a416da7dde781119610c123fa26d92ce37a558eb6ceb9ed941&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284805887.jpg?k=a8307b27af8268b239bbd299e31adbef49843cd725698e33cd3dbc6c9da3dbe2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Apartment with Mountain View"\n  - "Family Room with Balcony"\n  - "Family Suite"\n  - "Junior Suite with Balcony"\n  - "Villa"\n  - "Villa"\nnearbyRestaurants:\n  - "Café Xhepi 16 km"\n  - "Choco Bakery 16 km"\nwhatsNearby:\n  - "Parku I Bleteve Kokreve 16 km"\n  - "Mountain Lodge Jankos Stone 18 km"\nairports:\n  - "Ohrid Airport 33 km"\n  - "Tirana International Airport Mother Teresa 56 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Erion"\n    country: "Malta"\n    text: "“Everything was perfect, very good rooms, clean food, service, very quiet amazing view, perfect for families, i suggest you go with a high car as the road is not good, we went at the lake nearby the water was amazingly clean and fresh, the forest...”"\n  - name: "Nikola"\n    country: "Serbia"\n    text: "“Fantastic house, overlooking the valley below. New, very comfy. Spacious room, nice beds. Very clean. Parking in front of the house. Highly recommended.”"\n  - name: "Nick"\n    country: "United Kingdom"\n    text: "“great location in the mountains. New and very high quality accommodation. friendly and helpful staff.”"\nbookingURL: "https://www.booking.com/hotel/al/joen-village.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at JOEN Village are thoughtfully designed with guest comfort in mind. Each room is equipped with essential amenities such as a wardrobe, a desk, and a flat-screen TV, complemented by a private bathroom to ensure a restful stay.
+---
+title: "JOEN Village"
+description: "JOEN Village, located in the serene town of Librazhd, stands out as a premier destination for travelers seeking a blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502928266.jpg?k=c17d13b7014e74fb5dcbecce0851f332f45cf179be16e68e0a9ba04f4604c78a&o=&hp=1"
+language: en
+slug: joen-village
+address: "Fushe Studen, 3401 Librazhd, Albania"
+city: "Librazhd"
+location: "Librazhd"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.31712301
+  lng: 20.38643123
+price: "US$75"
+priceFrom: 75
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 16
+ratings:
+  overall: 9.6
+  location: 9.4
+  cleanliness: 9.8
+  facilities: 9.5
+  value: 9.3
+  comfort: 10
+  staff: 9.2
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502928266.jpg?k=c17d13b7014e74fb5dcbecce0851f332f45cf179be16e68e0a9ba04f4604c78a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400724029.jpg?k=0fe5a7036b7ed4d44dc3fd7d892079b2a44a3d8b5bf1fba69c5c983287ffa176&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284804535.jpg?k=606194174b37e92f7adb4c54ac774dcdb21165306619fe28880cf443e84d48b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502928281.jpg?k=d7e41671ec87c1c4d68d6ff27a321b3c4e1acedc192c0c8d333c20e6916cdcdb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344100459.jpg?k=ce3d0d08247862af19523dc10bf87285a0864d381aa53f8005b4aad28ca723ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344100455.jpg?k=429267410f83177a615799815c76c608fe325aef7724b769478e997c7b8a879d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344100456.jpg?k=575d133c50133e753f3cf28220118da88ab559ba29ae0087224a0a34308cf44b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333719336.jpg?k=62e79cd461d498a416da7dde781119610c123fa26d92ce37a558eb6ceb9ed941&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284805887.jpg?k=a8307b27af8268b239bbd299e31adbef49843cd725698e33cd3dbc6c9da3dbe2&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Room service"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Standard Double Room"
+  - "Apartment with Mountain View"
+  - "Family Room with Balcony"
+  - "Family Suite"
+  - "Junior Suite with Balcony"
+  - "Villa"
+  - "Villa"
+nearbyRestaurants:
+  - "Café Xhepi 16 km"
+  - "Choco Bakery 16 km"
+whatsNearby:
+  - "Parku I Bleteve Kokreve 16 km"
+  - "Mountain Lodge Jankos Stone 18 km"
+airports:
+  - "Ohrid Airport 33 km"
+  - "Tirana International Airport Mother Teresa 56 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Erion"
+    country: "Malta"
+    text: "“Everything was perfect, very good rooms, clean food, service, very quiet amazing view, perfect for families, i suggest you go with a high car as the road is not good, we went at the lake nearby the water was amazingly clean and fresh, the forest...”"
+  - name: "Nikola"
+    country: "Serbia"
+    text: "“Fantastic house, overlooking the valley below. New, very comfy. Spacious room, nice beds. Very clean. Parking in front of the house. Highly recommended.”"
+  - name: "Nick"
+    country: "United Kingdom"
+    text: "“great location in the mountains. New and very high quality accommodation. friendly and helpful staff.”"
+bookingURL: "https://www.booking.com/hotel/al/joen-village.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at JOEN Village are thoughtfully designed with guest comfort in mind. Each room is equipped with essential amenities such as a wardrobe, a desk, and a flat-screen TV, complemented by a private bathroom to ensure a restful stay.
 
 Guests can start their day on a high note with a delightful continental breakfast served each morning, providing the perfect fuel for a day of exploration or relaxation. For those who enjoy the outdoors, JOEN Village presents an inviting terrace and is situated in an area renowned for cycling. The guest house facilitates adventure by offering bike hire, allowing guests to easily explore the picturesque surroundings.
 

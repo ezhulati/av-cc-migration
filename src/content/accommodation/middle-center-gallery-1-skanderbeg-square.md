@@ -1,5 +1,85 @@
----\ntitle: "Middle Center Gallery 1 Skanderbeg Square"\ndescription: "Middle Center Gallery 1 Skanderbeg Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022018.jpg?k=69695b09aa68588fee466bc2c817f9d3e6a30e16c6e3ddd5f0cd9141df8cb654&o=&hp=1"\nlanguage: en\nslug: middle-center-gallery-1-skanderbeg-square\naddress: "Rruga e Barrikadave, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33107033\n  lng: 19.81960523\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 13\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.2\n  facilities: 9.4\n  value: 9.4\n  comfort: 9\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022018.jpg?k=69695b09aa68588fee466bc2c817f9d3e6a30e16c6e3ddd5f0cd9141df8cb654&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022058.jpg?k=7be227d175ecd66d040b72ee7077d9537560101ef14cfe7ed0f4d528cb25b6fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406021972.jpg?k=ee4cc5761a7e300e331d7de0c97654bacd0cad411869a79893295afbb43e8080&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022036.jpg?k=fd368e7a777b296f84f294958faf2fdfc26ff92296aa4dbba8dfa62377aa0fca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022065.jpg?k=cc2cbc52ed353b39e072d8cae75064cd4ffc077d4f7fc740287792c1d22a371e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022035.jpg?k=467d5022675945f7b4587f4550a5763f0abf28dda00407ed8db46e05884ce158&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022034.jpg?k=def3fcc6e190eebcb3b39d0b45a725b8762ddb3de53c4bdb2aa8b8bc329b0bc4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022061.jpg?k=f49684fcfae085584a10d38081bde5519a0fff770c02c311be9fd4d9353b102a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022080.jpg?k=81473e563bd9069b9c269871be6df2a6399316d524d959061c43f2e10c67b853&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyAttractions:\n  - "Rinia Park 700 m"\n  - "Tanners' Bridge 750 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Degusto 30 m"\n  - "Bar Restorant Korça 50 m"\nwhatsNearby:\n  - "National Museum of History Albania 250 m"\n  - "Amazing Nature 250 m"\n  - "Sheshi Skënderbej 300 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "Skanderbeg Square 350 m"\n  - "Clock Tower Tirana 350 m"\n  - "Parku Europa 400 m"\n  - "Sheshi Paris 450 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "House of Leaves 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Damian"\n    country: "United Kingdom"\n    text: "“The apartment and the host, Martin, were fantastic. The location of the apartment was superb (easy walking distance to all the main sites and many shops). The apartment was clean, well stocked and spacious. Internet was fast and the...”"\n  - name: "Stoyan"\n    country: "Bulgaria"\n    text: "“Everything was perfect! Nice place in the centre, perfect place to be!”"\n  - name: "Rabjan"\n    country: "United Kingdom"\n    text: "“The apartment was very modern, comfortable and spacious.
-Location was very close to Skanderbeg Square and the host was very kind. Highly recommended this apartment.”"\nbookingURL: "https://www.booking.com/hotel/al/middle-center-apartment-gallery.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of space and light, featuring air-conditioned accommodations complete with a welcoming balcony. Guests will find themselves in a meticulously arranged space that includes 2 bedrooms, a living room, a fully equipped kitchen, and 2 bathrooms, ensuring a stay that combines the comforts of home with the luxury of travel. Entertainment is readily available through the inclusion of a flat-screen TV, and for those who prioritize connectivity, free WiFi envelops the property, ensuring that guests remain linked to the wider world.
+---
+title: "Middle Center Gallery 1 Skanderbeg Square"
+description: "Middle Center Gallery 1 Skanderbeg Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022018.jpg?k=69695b09aa68588fee466bc2c817f9d3e6a30e16c6e3ddd5f0cd9141df8cb654&o=&hp=1"
+language: en
+slug: middle-center-gallery-1-skanderbeg-square
+address: "Rruga e Barrikadave, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33107033
+  lng: 19.81960523
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 13
+ratings:
+  overall: 9.4
+  location: 9.6
+  cleanliness: 9.2
+  facilities: 9.4
+  value: 9.4
+  comfort: 9
+  staff: 9.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022018.jpg?k=69695b09aa68588fee466bc2c817f9d3e6a30e16c6e3ddd5f0cd9141df8cb654&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022058.jpg?k=7be227d175ecd66d040b72ee7077d9537560101ef14cfe7ed0f4d528cb25b6fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406021972.jpg?k=ee4cc5761a7e300e331d7de0c97654bacd0cad411869a79893295afbb43e8080&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022036.jpg?k=fd368e7a777b296f84f294958faf2fdfc26ff92296aa4dbba8dfa62377aa0fca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022065.jpg?k=cc2cbc52ed353b39e072d8cae75064cd4ffc077d4f7fc740287792c1d22a371e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022035.jpg?k=467d5022675945f7b4587f4550a5763f0abf28dda00407ed8db46e05884ce158&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022034.jpg?k=def3fcc6e190eebcb3b39d0b45a725b8762ddb3de53c4bdb2aa8b8bc329b0bc4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022061.jpg?k=f49684fcfae085584a10d38081bde5519a0fff770c02c311be9fd4d9353b102a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022080.jpg?k=81473e563bd9069b9c269871be6df2a6399316d524d959061c43f2e10c67b853&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyAttractions:
+  - "Rinia Park 700 m"
+  - "Tanners' Bridge 750 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 4 km"
+nearbyRestaurants:
+  - "Degusto 30 m"
+  - "Bar Restorant Korça 50 m"
+whatsNearby:
+  - "National Museum of History Albania 250 m"
+  - "Amazing Nature 250 m"
+  - "Sheshi Skënderbej 300 m"
+  - "Sheshi Sulejman Pasha 350 m"
+  - "Skanderbeg Square 350 m"
+  - "Clock Tower Tirana 350 m"
+  - "Parku Europa 400 m"
+  - "Sheshi Paris 450 m"
+  - "National Gallery of Arts Tirana 550 m"
+  - "House of Leaves 550 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Damian"
+    country: "United Kingdom"
+    text: "“The apartment and the host, Martin, were fantastic. The location of the apartment was superb (easy walking distance to all the main sites and many shops). The apartment was clean, well stocked and spacious. Internet was fast and the...”"
+  - name: "Stoyan"
+    country: "Bulgaria"
+    text: "“Everything was perfect! Nice place in the centre, perfect place to be!”"
+  - name: "Rabjan"
+    country: "United Kingdom"
+    text: "“The apartment was very modern, comfortable and spacious.
+Location was very close to Skanderbeg Square and the host was very kind. Highly recommended this apartment.”"
+bookingURL: "https://www.booking.com/hotel/al/middle-center-apartment-gallery.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of space and light, featuring air-conditioned accommodations complete with a welcoming balcony. Guests will find themselves in a meticulously arranged space that includes 2 bedrooms, a living room, a fully equipped kitchen, and 2 bathrooms, ensuring a stay that combines the comforts of home with the luxury of travel. Entertainment is readily available through the inclusion of a flat-screen TV, and for those who prioritize connectivity, free WiFi envelops the property, ensuring that guests remain linked to the wider world.
 
 Strategically positioned, Middle Center Gallery 1 Skanderbeg Square is a mere 5.2 km from the Dajti Ekspres Cable Car, offering adventurous guests the chance to explore the natural beauty of the area from a unique vantage point. For those interested in shopping and local commerce, the Toptani Shopping Centre is conveniently located just 500 meters away. Additionally, the property is within easy reach of significant cultural landmarks, including the Former Residence of Enver Hoxha, the National Museum of History Albania, and the National Theatre of Opera and Ballet of Albania, making it an ideal base for cultural exploration.
 

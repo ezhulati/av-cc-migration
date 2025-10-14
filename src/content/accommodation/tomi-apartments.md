@@ -1,4 +1,84 @@
----\ntitle: "Tomi Apartments"\ndescription: "Tomi Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301621049.jpg?k=bd2c2dc11f1ede98087045715793bf976363f6d520013d5edd3698d289e20d7b&o=&hp=1"\nlanguage: en\nslug: tomi-apartments\naddress: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87935349\n  lng: 20.00126612\nprice: "US$19"\npriceFrom: 19\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 157\nratings:\n  overall: 9.3\n  location: 8.2\n  cleanliness: 9.3\n  facilities: 9.1\n  value: 9.6\n  comfort: 9.3\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301621049.jpg?k=bd2c2dc11f1ede98087045715793bf976363f6d520013d5edd3698d289e20d7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484857272.jpg?k=6d28fc10cd67f0ee04a6e585a3383305e5c975dd196fe1a2bc984705da7cf295&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485402918.jpg?k=55b80b1eee8846ea43291f5a4c71d19cb564f0c72d9bb01a3a83c3f192cd924a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484857378.jpg?k=1b377d8e17b971045622de72d26b28d4b82dd08ae300845c023547b9994432ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485402600.jpg?k=3b9db039de8dc29e75a8018c3a183927bd57e2d93fcb9b41fba6f39fed878e28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484858856.jpg?k=f436a1fedbb3da2f534cf952e4d6b6478f7578951c9e492c2c5a7a05f3e84bfe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484865878.jpg?k=afb88feea125a722609ecadbdd3e0832d22217ce397de5bfae602314c0f3646b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484864039.jpg?k=75920183aa1e2c05f74d7b5fb5ba7f47a623f0a8bc289edcb2962c81d74d140a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484864313.jpg?k=7dc45516bdfb69af002bbd1591ede6d34c07629f333e00a21ad0823e9bce0eb4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle (free)"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Garden View"\nnearbyRestaurants:\n  - "Coffee House 200 m"\n  - "Ali Pasha 350 m"\nnearbyBeaches:\n  - "Saranda City Beach 950 m"\n  - "Sarande Main Beach 1.1 km"\n  - "La Petite Beach 1.6 km"\n  - "Saranda Bay Beach 1.7 km"\n  - "Maestral Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 3 km"\n  - "Butrint National Park 3.8 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Gentian"\n    country: "Albania"\n    text: "“First the hospitality was great! Good place quite and clean!”"\n  - name: "Beatriz"\n    country: "Spain"\n    text: "“Staff super friendly, apartments very well equipped and very clean. Fast wifi, amazing stay overall.”"\n  - name: "Fatime"\n    country: "Albania"\n    text: "“Clean and nice apartment with everything you need pretty much. The hosts are very friendly and helpful. A bery big plus is that there is free parking in the premises that can be a big headache in Saranda in summer.”"\nbookingURL: "https://www.booking.com/hotel/al/tomi-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at Tomi Apartments are treated to scenic garden views from the comfort of their accommodations, complemented by the serene ambiance of the property's well-maintained garden and picnic area. The commitment to guest satisfaction is evident with the provision of a 24-hour front desk, ensuring assistance is always at hand.
+---
+title: "Tomi Apartments"
+description: "Tomi Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301621049.jpg?k=bd2c2dc11f1ede98087045715793bf976363f6d520013d5edd3698d289e20d7b&o=&hp=1"
+language: en
+slug: tomi-apartments
+address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87935349
+  lng: 20.00126612
+price: "US$19"
+priceFrom: 19
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 157
+ratings:
+  overall: 9.3
+  location: 8.2
+  cleanliness: 9.3
+  facilities: 9.1
+  value: 9.6
+  comfort: 9.3
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301621049.jpg?k=bd2c2dc11f1ede98087045715793bf976363f6d520013d5edd3698d289e20d7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484857272.jpg?k=6d28fc10cd67f0ee04a6e585a3383305e5c975dd196fe1a2bc984705da7cf295&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485402918.jpg?k=55b80b1eee8846ea43291f5a4c71d19cb564f0c72d9bb01a3a83c3f192cd924a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484857378.jpg?k=1b377d8e17b971045622de72d26b28d4b82dd08ae300845c023547b9994432ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485402600.jpg?k=3b9db039de8dc29e75a8018c3a183927bd57e2d93fcb9b41fba6f39fed878e28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484858856.jpg?k=f436a1fedbb3da2f534cf952e4d6b6478f7578951c9e492c2c5a7a05f3e84bfe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484865878.jpg?k=afb88feea125a722609ecadbdd3e0832d22217ce397de5bfae602314c0f3646b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484864039.jpg?k=75920183aa1e2c05f74d7b5fb5ba7f47a623f0a8bc289edcb2962c81d74d140a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484864313.jpg?k=7dc45516bdfb69af002bbd1591ede6d34c07629f333e00a21ad0823e9bce0eb4&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Airport shuttle (free)"
+  - "Free WiFi"
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "Apartment with Garden View"
+nearbyRestaurants:
+  - "Coffee House 200 m"
+  - "Ali Pasha 350 m"
+nearbyBeaches:
+  - "Saranda City Beach 950 m"
+  - "Sarande Main Beach 1.1 km"
+  - "La Petite Beach 1.6 km"
+  - "Saranda Bay Beach 1.7 km"
+  - "Maestral Beach 1.8 km"
+whatsNearby:
+  - "Parc National de Butrint 3 km"
+  - "Butrint National Park 3.8 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Gentian"
+    country: "Albania"
+    text: "“First the hospitality was great! Good place quite and clean!”"
+  - name: "Beatriz"
+    country: "Spain"
+    text: "“Staff super friendly, apartments very well equipped and very clean. Fast wifi, amazing stay overall.”"
+  - name: "Fatime"
+    country: "Albania"
+    text: "“Clean and nice apartment with everything you need pretty much. The hosts are very friendly and helpful. A bery big plus is that there is free parking in the premises that can be a big headache in Saranda in summer.”"
+bookingURL: "https://www.booking.com/hotel/al/tomi-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests at Tomi Apartments are treated to scenic garden views from the comfort of their accommodations, complemented by the serene ambiance of the property's well-maintained garden and picnic area. The commitment to guest satisfaction is evident with the provision of a 24-hour front desk, ensuring assistance is always at hand.
 
 Accommodations at Tomi Apartments are designed with the modern traveler in mind, featuring air conditioning for those warm Mediterranean days, complimentary private parking, and free WiFi to keep guests connected. The charm of the apartments is further amplified by private balconies that offer breathtaking mountain views, creating a perfect backdrop for relaxation.
 

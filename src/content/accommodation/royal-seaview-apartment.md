@@ -1,3 +1,74 @@
----\ntitle: "Royal Seaview Apartment"\ndescription: "Royal Seaview Apartment emerges as a gem in Durrës, boasting a prime location close to the serene Durres Beach and the picturesque Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959105.jpg?k=5f80ea9e90c8e895595e84da4fc0e926a135bcdf9d2f5128e87844b705413bd9&o=&hp=1"\nlanguage: en\nslug: royal-seaview-apartment\naddress: "Plepa, Durrës Albanië, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2918385\n  lng: 19.50836985\nprice: "US$146"\npriceFrom: 146\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959105.jpg?k=5f80ea9e90c8e895595e84da4fc0e926a135bcdf9d2f5128e87844b705413bd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959185.jpg?k=74744849559460952d2285c501c5e3a9142d633a02d214746ddcc53b9001c1e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959211.jpg?k=5fb15d77bc8df0836d43797290c20c40f788e6e0d375e8518635a91c42f8a6aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959163.jpg?k=745d0b7ea66ac1b961a53815f856814e6f4feee1a8ace07a9eb827b99258f9c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959174.jpg?k=0e11b18408ecace75864e9cc3c6c57070ff753f6da63eaadbd21b10c01ca9641&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959195.jpg?k=e0e3e40ec8a8766b95ed038a6e3b766ca9d1a7c892be502c84747fd2d2dea1d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959150.jpg?k=d32741c365795fee019480c22b829025a17efbfeb820adb5cf3228955d7d4d09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959224.jpg?k=3473c36dee965f1d82a8b2b5849177dbaa0d747c9515a42aad88fcc514e40d0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959206.jpg?k=73099ea637128f175715300ebedbc14ca5ba944f5949c88a1d91bbaa9767640c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "24-hour front desk"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Shpatat Shqiptare 30 m"\n  - "Midway Cafe 350 m"\nnearbyBeaches:\n  - "Durres Beach 250 m"\n  - "Shkëmbi i Kavajës Beach 700 m"\n  - "Golem Beach 3.1 km"\n  - "Mali I Robit Beach 5 km"\n  - "Currila Beach 5 km"\nwhatsNearby:\n  - "Bekimi 4.8 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "1. Maj 6 km"\n  - "Sotir Noka 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nbookingURL: "https://www.booking.com/hotel/al/royal-seaview-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe highlight of Royal Seaview Apartment is undoubtedly its spacious accommodation, which offers breathtaking sea views from a private balcony. Designed to cater to the needs of modern travelers, the apartment features two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a toaster, perfect for those who prefer home-cooked meals. The inclusion of a walk-in shower, air conditioning, a bidet, and a dressing room in the unit adds a layer of luxury and comfort to the guest experience. Moreover, the outdoor dining area presents an ideal setting for memorable meals against the backdrop of the sea.
+---
+title: "Royal Seaview Apartment"
+description: "Royal Seaview Apartment emerges as a gem in Durrës, boasting a prime location close to the serene Durres Beach and the picturesque Shkëmbi i Kavajës Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959105.jpg?k=5f80ea9e90c8e895595e84da4fc0e926a135bcdf9d2f5128e87844b705413bd9&o=&hp=1"
+language: en
+slug: royal-seaview-apartment
+address: "Plepa, Durrës Albanië, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2918385
+  lng: 19.50836985
+price: "US$146"
+priceFrom: 146
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959105.jpg?k=5f80ea9e90c8e895595e84da4fc0e926a135bcdf9d2f5128e87844b705413bd9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959185.jpg?k=74744849559460952d2285c501c5e3a9142d633a02d214746ddcc53b9001c1e6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959211.jpg?k=5fb15d77bc8df0836d43797290c20c40f788e6e0d375e8518635a91c42f8a6aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959163.jpg?k=745d0b7ea66ac1b961a53815f856814e6f4feee1a8ace07a9eb827b99258f9c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959174.jpg?k=0e11b18408ecace75864e9cc3c6c57070ff753f6da63eaadbd21b10c01ca9641&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959195.jpg?k=e0e3e40ec8a8766b95ed038a6e3b766ca9d1a7c892be502c84747fd2d2dea1d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959150.jpg?k=d32741c365795fee019480c22b829025a17efbfeb820adb5cf3228955d7d4d09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959224.jpg?k=3473c36dee965f1d82a8b2b5849177dbaa0d747c9515a42aad88fcc514e40d0e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499959206.jpg?k=73099ea637128f175715300ebedbc14ca5ba944f5949c88a1d91bbaa9767640c&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "24-hour front desk"
+roomTypes:
+  - "Apartment with Balcony"
+nearbyRestaurants:
+  - "Shpatat Shqiptare 30 m"
+  - "Midway Cafe 350 m"
+nearbyBeaches:
+  - "Durres Beach 250 m"
+  - "Shkëmbi i Kavajës Beach 700 m"
+  - "Golem Beach 3.1 km"
+  - "Mali I Robit Beach 5 km"
+  - "Currila Beach 5 km"
+whatsNearby:
+  - "Bekimi 4.8 km"
+  - "Wine Dhe Pooh 6 km"
+  - "Durres Amphiteatre 6 km"
+  - "Sheshi Demokracia 6 km"
+  - "Yje Dhe Hena 6 km"
+  - "1. Maj 6 km"
+  - "Sotir Noka 6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+bookingURL: "https://www.booking.com/hotel/al/royal-seaview-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The highlight of Royal Seaview Apartment is undoubtedly its spacious accommodation, which offers breathtaking sea views from a private balcony. Designed to cater to the needs of modern travelers, the apartment features two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a toaster, perfect for those who prefer home-cooked meals. The inclusion of a walk-in shower, air conditioning, a bidet, and a dressing room in the unit adds a layer of luxury and comfort to the guest experience. Moreover, the outdoor dining area presents an ideal setting for memorable meals against the backdrop of the sea.
 
 Situated 40 km from the historic Skanderbeg Square and a mere 2.5 km from the Rock of Kavaje, the apartment's location offers easy access to local attractions and natural beauty spots. For those looking to explore further, the Dajti Ekspres Cable Car is located 44 km away, providing an adventurous escape to stunning heights. Convenience is further enhanced by the proximity to Tirana International Mother Teresa Airport, just 34 km away, making Royal Seaview Apartment a compelling choice for travelers seeking a blend of comfort, location, and scenic views in Durrës.

@@ -1,4 +1,84 @@
----\ntitle: "360° View Apartments"\ndescription: "360° View Apartments emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896845.jpg?k=b3f111182edf1040e0f1221720174cb7cee6c4dab2fcf5b8b42ede1684f32de8&o=&hp=1"\nlanguage: en\nslug: 360-view-apartments\naddress: "Radhime, MERO BEGO, 9403 Αυλώνας, Aλβανία, 9403 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.36691095\n  lng: 19.49448156\nprice: "US$33"\npriceFrom: 33\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 12\nratings:\n  overall: 7.5\n  location: 6.9\n  cleanliness: 7.5\n  facilities: 7.3\n  value: 7.7\n  comfort: 7.7\n  staff: 8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896845.jpg?k=b3f111182edf1040e0f1221720174cb7cee6c4dab2fcf5b8b42ede1684f32de8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896832.jpg?k=61d2b03da205b7333d63cec4f8d94c94810a1bcac1ed7c2126361bd3c3979cec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478938263.jpg?k=654c4930fa827630078b6c424fd0efaeb3f573031fac70a660297b15b1a76b95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896842.jpg?k=d0626e517803359c031cbcd0698a06ed4027016c22447a899d7e792bd0977366&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478938313.jpg?k=14ccd5994eed0d01d8235dcb8579ceb8225db32d44e434249c5a28b0c78f1e37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896852.jpg?k=2e5d96e39439ff9c80d0d93b3765f70d8ad94708af3db4ec6a9631714fa7aece&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Fast free WiFi (99 Mbps)"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room with Balcony"\n  - "Double Room with Balcony"\n  - "Deluxe Double Room with Balcony and Sea View"\n  - "Quadruple Room with Sea View"\nnearbyRestaurants:\n  - "Vela Beach 250 m"\n  - "Nika Radhime 250 m"\nnearbyBeaches:\n  - "Radhimë Beach 1 km"\n  - "Kevi Beach 1.5 km"\n  - "Radhimë Beach 1.8 km"\n  - "Al Breeze Beach 2.2 km"\n  - "Pitushi's Beach 2.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 8 km"\n  - "Kuzum Baba 11 km"\n  - "Independence Square 12 km"\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 91 km"\nreviews:\n  - name: "Zhou"\n    country: "China"\n    text: "“The room is spacious, comfortable, clean and bright, with brand new furniture and comfortable color matching. The refrigerator and air conditioner are also new. The kitchenette is very convenient to use. We made breakfast and enjoyed it on the...”"\n  - name: "Martigne"\n    country: "France"\n    text: "“Vue magnifique !! Hôte qui ne parle pas très bien anglais mais super sympa !!”"\n  - name: "Nosal"\n    country: "Poland"\n    text: "“Piękne widoki. Z jednej strony morze z drugiej góry. Niedaleko świetny punkt widokowy z panoramą całej zatoki, widok na Wlore i Orikum. Cisza i spokój. Przemiła obsługa. Bardzo czyste i przestronne apartamenty.”"\nbookingURL: "https://www.booking.com/hotel/al/360deg-view-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartments are a testament to thoughtful design, featuring air-conditioned rooms equipped with private bathrooms, ensuring a private and comfortable stay. The availability of free WiFi throughout the property allows guests to stay connected with the world, while the sun terrace invites them to unwind under the sky.
+---
+title: "360° View Apartments"
+description: "360° View Apartments emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896845.jpg?k=b3f111182edf1040e0f1221720174cb7cee6c4dab2fcf5b8b42ede1684f32de8&o=&hp=1"
+language: en
+slug: 360-view-apartments
+address: "Radhime, MERO BEGO, 9403 Αυλώνας, Aλβανία, 9403 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.36691095
+  lng: 19.49448156
+price: "US$33"
+priceFrom: 33
+starRating: 3
+rating: 7.5
+ratingWords: "Good"
+numberOfReviews: 12
+ratings:
+  overall: 7.5
+  location: 6.9
+  cleanliness: 7.5
+  facilities: 7.3
+  value: 7.7
+  comfort: 7.7
+  staff: 8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896845.jpg?k=b3f111182edf1040e0f1221720174cb7cee6c4dab2fcf5b8b42ede1684f32de8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896832.jpg?k=61d2b03da205b7333d63cec4f8d94c94810a1bcac1ed7c2126361bd3c3979cec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478938263.jpg?k=654c4930fa827630078b6c424fd0efaeb3f573031fac70a660297b15b1a76b95&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896842.jpg?k=d0626e517803359c031cbcd0698a06ed4027016c22447a899d7e792bd0977366&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478938313.jpg?k=14ccd5994eed0d01d8235dcb8579ceb8225db32d44e434249c5a28b0c78f1e37&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896852.jpg?k=2e5d96e39439ff9c80d0d93b3765f70d8ad94708af3db4ec6a9631714fa7aece&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Private parking"
+  - "Fast free WiFi (99 Mbps)"
+  - "Family rooms"
+  - "Breakfast"
+roomTypes:
+  - "Twin Room with Balcony"
+  - "Double Room with Balcony"
+  - "Deluxe Double Room with Balcony and Sea View"
+  - "Quadruple Room with Sea View"
+nearbyRestaurants:
+  - "Vela Beach 250 m"
+  - "Nika Radhime 250 m"
+nearbyBeaches:
+  - "Radhimë Beach 1 km"
+  - "Kevi Beach 1.5 km"
+  - "Radhimë Beach 1.8 km"
+  - "Al Breeze Beach 2.2 km"
+  - "Pitushi's Beach 2.4 km"
+whatsNearby:
+  - "Scooby Doo Vlore 8 km"
+  - "Kuzum Baba 11 km"
+  - "Independence Square 12 km"
+  - "Llogora National Park 16 km"
+airports:
+  - "Corfu International Airport 91 km"
+reviews:
+  - name: "Zhou"
+    country: "China"
+    text: "“The room is spacious, comfortable, clean and bright, with brand new furniture and comfortable color matching. The refrigerator and air conditioner are also new. The kitchenette is very convenient to use. We made breakfast and enjoyed it on the...”"
+  - name: "Martigne"
+    country: "France"
+    text: "“Vue magnifique !! Hôte qui ne parle pas très bien anglais mais super sympa !!”"
+  - name: "Nosal"
+    country: "Poland"
+    text: "“Piękne widoki. Z jednej strony morze z drugiej góry. Niedaleko świetny punkt widokowy z panoramą całej zatoki, widok na Wlore i Orikum. Cisza i spokój. Przemiła obsługa. Bardzo czyste i przestronne apartamenty.”"
+bookingURL: "https://www.booking.com/hotel/al/360deg-view-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartments are a testament to thoughtful design, featuring air-conditioned rooms equipped with private bathrooms, ensuring a private and comfortable stay. The availability of free WiFi throughout the property allows guests to stay connected with the world, while the sun terrace invites them to unwind under the sky.
 
 Each apartment is meticulously designed to cater to the needs of modern travelers, boasting soundproof rooms for a peaceful retreat. Select units elevate the experience further with balconies or patios, offering breathtaking sea views and outdoor dining areas, perfect for those who appreciate the beauty of nature.
 

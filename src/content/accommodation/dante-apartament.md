@@ -1,4 +1,77 @@
----\ntitle: "DANTE APARTAMENT"\ndescription: "DANTE APARTAMENT emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from the vibrant Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947206.jpg?k=cab23bd6f001c75717302249d6932d23dce56dda1b83dcc85655336f30825d31&o=&hp=1"\nlanguage: en\nslug: dante-apartament\naddress: "Rruga Murat Tërbaçi Akademia e marines, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44620367\n  lng: 19.49616445\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 57\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.8\n  comfort: 9.8\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947206.jpg?k=cab23bd6f001c75717302249d6932d23dce56dda1b83dcc85655336f30825d31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364920071.jpg?k=19496b5ddd1cc93008581b83a2b4aed6037216a4f44d742fe3f9484cc72cf2cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947132.jpg?k=8fe425fb0162fb5aafb86240567a19877a2e7758571bb4614aa782b0f45a13c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364847701.jpg?k=f1b5aa05bd1bb8fcc9201eff5a3f146e39a936fa4a751fb8ab8a7e08812e8e5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364941349.jpg?k=65a54fc977121e1551fe33e0ccd2609fa0dcce40011a8bf6737d8b3d0b62b06b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364963165.jpg?k=a2441ff221c9b37705eac19403c4d174581d57128c48e83e7a1851e4d0eb840b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370307436.jpg?k=a0fc9c17c4267632bd9457eda68c02e18c7b2f108d44df5abc6e9cb01c189c12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364923279.jpg?k=4949c28ce4783b7316a5182f35b09c8e595b91d1c444d6b8a870d43e0a266aa7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947200.jpg?k=b960dd3703623029779c65ee2570990a4807924b38fd3a389a8e114545bf1646&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Primo Gusto 150 m"\n  - "Patio 200 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Ri Beach 1.2 km"\n  - "Vjetër Beach 1.4 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.1 km"\n  - "Kuzum Baba 2.4 km"\n  - "Independence Square 2.8 km"\nreviews:\n  - name: "Anne"\n    country: "Finland"\n    text: "“Absolutely amazing place to stay in Vlore! So cosy, felt like home away from home. Good bed, nice sofa and tv, and in the kitchen everything you could need. Well, maybe the frying pans could be replaced, but that's all. Central location in Lungo...”"\n  - name: "Jin-eun"\n    country: "Czech Republic"\n    text: "“The owner was super helpful and welcoming! Just perfect apartment, super clean, well equipped”"\n  - name: "Albi"\n    country: "Albania"\n    text: "“As always they are excellent. This Time the owner had even added an Espresso machine, a watter heater for tea ,a fruit blender, a toaster and a hotel hair drier in the bathroom that in my opinion was better than most places. He even offered me...”"\nbookingURL: "https://www.booking.com/hotel/al/dante-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment boasts a generously sized layout, complete with a balcony that offers breathtaking sea views, making it an ideal retreat for those looking to unwind and soak in the coastal ambiance. The interior features a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes a dishwasher and an oven, catering to the culinary needs of guests. The inclusion of a modern bathroom with a walk-in shower, along with the provision of towels and bed linen, adds to the comfort and convenience of the stay.
+---
+title: "DANTE APARTAMENT"
+description: "DANTE APARTAMENT emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from the vibrant Ri Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947206.jpg?k=cab23bd6f001c75717302249d6932d23dce56dda1b83dcc85655336f30825d31&o=&hp=1"
+language: en
+slug: dante-apartament
+address: "Rruga Murat Tërbaçi Akademia e marines, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44620367
+  lng: 19.49616445
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 57
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 9.9
+  facilities: 9.9
+  value: 9.8
+  comfort: 9.8
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947206.jpg?k=cab23bd6f001c75717302249d6932d23dce56dda1b83dcc85655336f30825d31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364920071.jpg?k=19496b5ddd1cc93008581b83a2b4aed6037216a4f44d742fe3f9484cc72cf2cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947132.jpg?k=8fe425fb0162fb5aafb86240567a19877a2e7758571bb4614aa782b0f45a13c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364847701.jpg?k=f1b5aa05bd1bb8fcc9201eff5a3f146e39a936fa4a751fb8ab8a7e08812e8e5d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364941349.jpg?k=65a54fc977121e1551fe33e0ccd2609fa0dcce40011a8bf6737d8b3d0b62b06b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364963165.jpg?k=a2441ff221c9b37705eac19403c4d174581d57128c48e83e7a1851e4d0eb840b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370307436.jpg?k=a0fc9c17c4267632bd9457eda68c02e18c7b2f108d44df5abc6e9cb01c189c12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364923279.jpg?k=4949c28ce4783b7316a5182f35b09c8e595b91d1c444d6b8a870d43e0a266aa7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947200.jpg?k=b960dd3703623029779c65ee2570990a4807924b38fd3a389a8e114545bf1646&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Primo Gusto 150 m"
+  - "Patio 200 m"
+nearbyBeaches:
+  - "Vlore Beach 150 m"
+  - "Ri Beach 1.2 km"
+  - "Vjetër Beach 1.4 km"
+  - "Beach at Government Villas 3 km"
+  - "Liro Beach 3.7 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.1 km"
+  - "Kuzum Baba 2.4 km"
+  - "Independence Square 2.8 km"
+reviews:
+  - name: "Anne"
+    country: "Finland"
+    text: "“Absolutely amazing place to stay in Vlore! So cosy, felt like home away from home. Good bed, nice sofa and tv, and in the kitchen everything you could need. Well, maybe the frying pans could be replaced, but that's all. Central location in Lungo...”"
+  - name: "Jin-eun"
+    country: "Czech Republic"
+    text: "“The owner was super helpful and welcoming! Just perfect apartment, super clean, well equipped”"
+  - name: "Albi"
+    country: "Albania"
+    text: "“As always they are excellent. This Time the owner had even added an Espresso machine, a watter heater for tea ,a fruit blender, a toaster and a hotel hair drier in the bathroom that in my opinion was better than most places. He even offered me...”"
+bookingURL: "https://www.booking.com/hotel/al/dante-apartament.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment boasts a generously sized layout, complete with a balcony that offers breathtaking sea views, making it an ideal retreat for those looking to unwind and soak in the coastal ambiance. The interior features a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes a dishwasher and an oven, catering to the culinary needs of guests. The inclusion of a modern bathroom with a walk-in shower, along with the provision of towels and bed linen, adds to the comfort and convenience of the stay.
 
 For those who appreciate the convenience of having essentials close at hand, the property hosts a minimarket, ensuring that daily needs are easily met. Families will find DANTE APARTAMENT particularly appealing, thanks to its child-friendly amenities such as a playground and a picnic area, promising enjoyable moments for the younger guests.
 

@@ -1,5 +1,88 @@
----\ntitle: "3D Apartament / Tirana City Center"\ndescription: "Discover the charm of Tirana with a stay at 3D Apartment, a prime choice for travelers seeking comfort and convenience in the heart of the city."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340083.jpg?k=9a249613260c4dbf293fa16932ac49fbc587f81f98ff9483cf8ba43f0d665a63&o=&hp=1"\nlanguage: en\nslug: 3d-apartament-tirana-city-center\naddress: "Rruga Petro Nini Luarasi, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32533448\n  lng: 19.82914501\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 18\nratings:\n  overall: 9.6\n  location: 9.3\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.7\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340083.jpg?k=9a249613260c4dbf293fa16932ac49fbc587f81f98ff9483cf8ba43f0d665a63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340147.jpg?k=3523cc696ed51b656ed8283c1fe0b3d713a4c318b952177746de2ac1a3bc58af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340267.jpg?k=4a08d2a2f64133b3041c08afc1a5ccd03095ba0609af9589d01c36903859b6bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340182.jpg?k=229d4966aa2631b53ff0e93970cfdef133c4afb35b92b53d0fac93345f31e58d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340197.jpg?k=a450fd763662d8aa86b2871ce31bea797df49885afd651ff9d6aaa5374ffc591&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340251.jpg?k=d0d06f4af1d063283eb24b8baa9f78c6751cb02e63e8e96e5a299e8ca73a91ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340151.jpg?k=8af7a201b5de0fd9bebb153162506694b99978203f90373cff9f766d742f6904&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340262.jpg?k=ba63871f3350981fcee42a22b2bce7b4e690a24ac9ffccccf6eff4395a3bc8ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340307.jpg?k=3e39c6c439ce4d9d850237a4c353d9435a47d44cc9c16b4e9024d0b62561b664&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 900 m"\n  - "Rinia Park 900 m"\n  - "House of Leaves 1.1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 1.5 km"\n  - "Bunk'Art 1 Museum 3.8 km"\nnearbyRestaurants:\n  - "Pizzeria Meta 50 m"\n  - "Vima 100 m"\nwhatsNearby:\n  - "Tanners' Bridge 300 m"\n  - "Sheshi Rekreativ tek ish ATSh 350 m"\n  - "Shesh Rekreativ 550 m"\n  - "Sheshi Rekreativ Piramida 600 m"\n  - "National Gallery of Arts Tirana 700 m"\n  - "Sheshi Sulejman Pasha 700 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 750 m"\n  - "Clock Tower Tirana 850 m"\n  - "Parku Rinia 850 m"\n  - "Parku Europa 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Hannah"\n    country: "United Arab Emirates"\n    text: "“Great size property. Really clean on arrival with a great bathroom.”"\n  - name: "Ines"\n    country: "Spain"\n    text: "“The neighborhood was very close to the center and very nice.
-The house was just perfect!”"\n  - name: "Batuhan"\n    country: "Turkey"\n    text: "“The apartment is outstanding. It had everything inside and it was pretty clean. Sara was also very caring and polite. We thank you for everything. We were very satisfied.”"\nbookingURL: "https://www.booking.com/hotel/al/3d-apartament-tirana-city-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\n3D Apartment ensures a seamless and secure experience for its guests, boasting full-day security, private check-in, and check-out services, complemented by complimentary WiFi accessible throughout the premises. The commitment to a smoke-free environment further enhances the quality of stay, making it a preferred option for health-conscious visitors.
+---
+title: "3D Apartament / Tirana City Center"
+description: "Discover the charm of Tirana with a stay at 3D Apartment, a prime choice for travelers seeking comfort and convenience in the heart of the city."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340083.jpg?k=9a249613260c4dbf293fa16932ac49fbc587f81f98ff9483cf8ba43f0d665a63&o=&hp=1"
+language: en
+slug: 3d-apartament-tirana-city-center
+address: "Rruga Petro Nini Luarasi, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32533448
+  lng: 19.82914501
+price: "US$58"
+priceFrom: 58
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 18
+ratings:
+  overall: 9.6
+  location: 9.3
+  cleanliness: 9.7
+  facilities: 9.4
+  value: 9.6
+  comfort: 9.7
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340083.jpg?k=9a249613260c4dbf293fa16932ac49fbc587f81f98ff9483cf8ba43f0d665a63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340147.jpg?k=3523cc696ed51b656ed8283c1fe0b3d713a4c318b952177746de2ac1a3bc58af&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340267.jpg?k=4a08d2a2f64133b3041c08afc1a5ccd03095ba0609af9589d01c36903859b6bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340182.jpg?k=229d4966aa2631b53ff0e93970cfdef133c4afb35b92b53d0fac93345f31e58d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340197.jpg?k=a450fd763662d8aa86b2871ce31bea797df49885afd651ff9d6aaa5374ffc591&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340251.jpg?k=d0d06f4af1d063283eb24b8baa9f78c6751cb02e63e8e96e5a299e8ca73a91ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340151.jpg?k=8af7a201b5de0fd9bebb153162506694b99978203f90373cff9f766d742f6904&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340262.jpg?k=ba63871f3350981fcee42a22b2bce7b4e690a24ac9ffccccf6eff4395a3bc8ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340307.jpg?k=3e39c6c439ce4d9d850237a4c353d9435a47d44cc9c16b4e9024d0b62561b664&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 900 m"
+  - "Rinia Park 900 m"
+  - "House of Leaves 1.1 km"
+  - "National Museum of History Albania 1.1 km"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 1.5 km"
+  - "Bunk'Art 1 Museum 3.8 km"
+nearbyRestaurants:
+  - "Pizzeria Meta 50 m"
+  - "Vima 100 m"
+whatsNearby:
+  - "Tanners' Bridge 300 m"
+  - "Sheshi Rekreativ tek ish ATSh 350 m"
+  - "Shesh Rekreativ 550 m"
+  - "Sheshi Rekreativ Piramida 600 m"
+  - "National Gallery of Arts Tirana 700 m"
+  - "Sheshi Sulejman Pasha 700 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 750 m"
+  - "Clock Tower Tirana 850 m"
+  - "Parku Rinia 850 m"
+  - "Parku Europa 850 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Hannah"
+    country: "United Arab Emirates"
+    text: "“Great size property. Really clean on arrival with a great bathroom.”"
+  - name: "Ines"
+    country: "Spain"
+    text: "“The neighborhood was very close to the center and very nice.
+The house was just perfect!”"
+  - name: "Batuhan"
+    country: "Turkey"
+    text: "“The apartment is outstanding. It had everything inside and it was pretty clean. Sara was also very caring and polite. We thank you for everything. We were very satisfied.”"
+bookingURL: "https://www.booking.com/hotel/al/3d-apartament-tirana-city-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+3D Apartment ensures a seamless and secure experience for its guests, boasting full-day security, private check-in, and check-out services, complemented by complimentary WiFi accessible throughout the premises. The commitment to a smoke-free environment further enhances the quality of stay, making it a preferred option for health-conscious visitors.
 
 Accommodation at 3D Apartment is designed with the modern traveler in mind. The apartment features a cozy bedroom, a living area equipped with a flat-screen TV and streaming services for entertainment, and a fully equipped kitchen that caters to all culinary needs. From an oven and toaster to a washing machine, fridge, and stovetop, every detail is thoughtfully provided. The inclusion of towels and bed linen adds an extra layer of convenience, ensuring a comfortable and hassle-free stay.
 

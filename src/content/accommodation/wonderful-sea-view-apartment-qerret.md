@@ -1,5 +1,94 @@
----\ntitle: "Wonderful Sea View Apartment Qerret"\ndescription: "Wonderful Sea View Apartment Qerret emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian coast."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\nlanguage: en\nslug: wonderful-sea-view-apartment-qerret\naddress: "Rruga Qerret Plazh, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.21840248\n  lng: 19.50573681\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 11\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 9.1\n  comfort: 9.1\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/hu/23236feab5833cd09ce5c8048a125ec301a1fbe6.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/kh/e505d12d3d0fa5d9e48ced9fdfa53f6574d1a57a.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309146652.jpg?k=c8f56db1526492459a06600164bbd586b7a3a2c68eb460167dcd8ba1edbe9be5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/381738685.jpg?k=160b85add6d51fd2b8548e8f2e0107ebc4dfbf90ded76043518a577a9308ba59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/309146642.jpg?k=b193ee71394179dc3a0885c6ae531ffe1c9dcce40609e97f2540116cbeac217f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/370996060.jpg?k=c43bd6021dafebbb5795b933eba4bc7d1decfba891bd7226e65b52dbbc687655&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/381739030.jpg?k=106dab8eccfd13030ec8635721cd4f386bf0282190d0b22567c55f528d5552f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/370996065.jpg?k=10e698c57b9248f9d41f7ed7f8a3a28880e7320f99a122cef377be877d6b63ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/309146650.jpg?k=b09b7c55efa5f6d73949a0000a83ba1b5e04f1acd2786813897651128df7b9ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/309146645.jpg?k=9dadeb1dd173da0cf2449e20ae74e6201a71c8c3f3af6cb327e986e18cd86e13&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Piceri Cegrani 50 m"\n  - "Panorama by Supreme Hotel & Spa 100 m"\nnearbyBeaches:\n  - "Qerret Beach 30 m"\n  - "Mali I Robit Beach 1.4 km"\n  - "Golem Beach 3.4 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 8 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Sotir Noka 12 km"\n  - "Bekimi 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nreviews:\n  - name: "Sjors"\n    country: "Cambodia"\n    text: "“The appartment was clean, and had a beautifull sea view. The neighborhood was good, a fantactic beach with a beautifull boulevard with many bars and restaurants !!”"\n  - name: "Minna"\n    country: "United Kingdom"\n    text: "“The apartment was spotlessly clean, spacious and had great views of the sea that I'm missing!
-Good value for money as we stayed for 2 weeks in August. Plenty of nice restaurants, bars and swimming pools nearby. There is a few small supermarkets...”"\n  - name: "Istvan"\n    country: "Hungary"\n    text: "“Excellent location. Shops, restaurants, beach are nearby, the parking is convenient. The owner is extremely helpful and responsive. The apartment is cosy and well equipped (maybe a microwave oven would be nice :-))”"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-apartments-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting two well-appointed bedrooms, a bathroom stocked with essential linens and towels, and a living area that includes a flat-screen TV equipped with streaming services for endless entertainment. The heart of the home, a fully equipped kitchen, opens up to a dining area, making meal preparation a breeze. Perhaps the jewel in its crown is the terrace, offering breathtaking sea views, perfect for dining al fresco or simply soaking in the tranquil atmosphere.
+---
+title: "Wonderful Sea View Apartment Qerret"
+description: "Wonderful Sea View Apartment Qerret emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian coast."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+language: en
+slug: wonderful-sea-view-apartment-qerret
+address: "Rruga Qerret Plazh, Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.21840248
+  lng: 19.50573681
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 11
+ratings:
+  overall: 9.4
+  location: 9.5
+  cleanliness: 9.5
+  facilities: 9.1
+  value: 9.1
+  comfort: 9.1
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/hu/23236feab5833cd09ce5c8048a125ec301a1fbe6.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+  - "https://cf.bstatic.com/static/img/flags/12/kh/e505d12d3d0fa5d9e48ced9fdfa53f6574d1a57a.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309146652.jpg?k=c8f56db1526492459a06600164bbd586b7a3a2c68eb460167dcd8ba1edbe9be5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/381738685.jpg?k=160b85add6d51fd2b8548e8f2e0107ebc4dfbf90ded76043518a577a9308ba59&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/309146642.jpg?k=b193ee71394179dc3a0885c6ae531ffe1c9dcce40609e97f2540116cbeac217f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/370996060.jpg?k=c43bd6021dafebbb5795b933eba4bc7d1decfba891bd7226e65b52dbbc687655&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/381739030.jpg?k=106dab8eccfd13030ec8635721cd4f386bf0282190d0b22567c55f528d5552f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/370996065.jpg?k=10e698c57b9248f9d41f7ed7f8a3a28880e7320f99a122cef377be877d6b63ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/309146650.jpg?k=b09b7c55efa5f6d73949a0000a83ba1b5e04f1acd2786813897651128df7b9ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/309146645.jpg?k=9dadeb1dd173da0cf2449e20ae74e6201a71c8c3f3af6cb327e986e18cd86e13&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Facilities for disabled guests"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Piceri Cegrani 50 m"
+  - "Panorama by Supreme Hotel & Spa 100 m"
+nearbyBeaches:
+  - "Qerret Beach 30 m"
+  - "Mali I Robit Beach 1.4 km"
+  - "Golem Beach 3.4 km"
+  - "Shkëmbi i Kavajës Beach 5 km"
+  - "Durres Beach 8 km"
+whatsNearby:
+  - "Durres Amphiteatre 12 km"
+  - "1. Maj 12 km"
+  - "Wine Dhe Pooh 12 km"
+  - "Yje Dhe Hena 12 km"
+  - "Sheshi Demokracia 12 km"
+  - "Sotir Noka 12 km"
+  - "Bekimi 12 km"
+  - "Divjake-Karavasta National Park 18 km"
+airports:
+  - "Tirana International Airport Mother Teresa 27 km"
+reviews:
+  - name: "Sjors"
+    country: "Cambodia"
+    text: "“The appartment was clean, and had a beautifull sea view. The neighborhood was good, a fantactic beach with a beautifull boulevard with many bars and restaurants !!”"
+  - name: "Minna"
+    country: "United Kingdom"
+    text: "“The apartment was spotlessly clean, spacious and had great views of the sea that I'm missing!
+Good value for money as we stayed for 2 weeks in August. Plenty of nice restaurants, bars and swimming pools nearby. There is a few small supermarkets...”"
+  - name: "Istvan"
+    country: "Hungary"
+    text: "“Excellent location. Shops, restaurants, beach are nearby, the parking is convenient. The owner is extremely helpful and responsive. The apartment is cosy and well equipped (maybe a microwave oven would be nice :-))”"
+bookingURL: "https://www.booking.com/hotel/al/sea-view-apartments-golem.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of space and light, boasting two well-appointed bedrooms, a bathroom stocked with essential linens and towels, and a living area that includes a flat-screen TV equipped with streaming services for endless entertainment. The heart of the home, a fully equipped kitchen, opens up to a dining area, making meal preparation a breeze. Perhaps the jewel in its crown is the terrace, offering breathtaking sea views, perfect for dining al fresco or simply soaking in the tranquil atmosphere.
 
 Dining at the apartment is an experience in itself, with a family-friendly restaurant that prides itself on a menu rich in Greek cuisine, available for lunch, dinner, and brunch. For families, the addition of a children's playground makes it an ideal spot for those traveling with little ones.
 

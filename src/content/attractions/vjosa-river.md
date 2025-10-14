@@ -9,9 +9,7 @@ language: en
 slug: vjosa-river
 seo:
   metaTitle: "The Vjosa - Discover Europe's First Wild River National Park "
-  metaDescription: "Discover the Vjosa, Albania's unique wild river, now Europe's first Wild River National Park. Explore activities, towns, and the river's rich biodiversity.
-
-"
+  metaDescription: "Discover the Vjosa, Albania's unique wild river, now Europe's first Wild River National Park. Explore activities, towns, and the river's rich biodiversity."
   focusKeyword: "vjosa,vjosa river"
 ---
 

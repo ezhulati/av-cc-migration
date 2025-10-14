@@ -1,4 +1,81 @@
----\ntitle: "Villa Shuaipaj"\ndescription: "Villa Shuaipaj emerges as a serene retreat, boasting breathtaking mountain views and a prime location just 45 km from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485331072.jpg?k=50f683572f2d1bca97eb3b3a40a159d0d5b4963aba36da976bcffe889239bf64&o=&hp=1"\nlanguage: en\nslug: villa-shuaipaj\naddress: "Antigone, Asim Zeneli, Lagjja \"25 Vjetori\", godine 2-kateshe, nr.17 Godine 2-kateshe, nr.17, 6017 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.08224313\n  lng: 20.19737035\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 50\nratings:\n  overall: 9.5\n  location: 9.2\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.5\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485331072.jpg?k=50f683572f2d1bca97eb3b3a40a159d0d5b4963aba36da976bcffe889239bf64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485334483.jpg?k=d55ea0979f53b68650b045949982f58c04824d2b1376314e2a7f01a5dceadc6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485331912.jpg?k=f996aeab39eb4746731ab8c52cff61d1ce07420a5fd60f1307689c4c50f130ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357953171.jpg?k=aa0707490f7afbb59f04cad2e29eda8cf0e21cc2ff4f582be296bc7a2b00ef5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358530531.jpg?k=d0d7573ec8383012adb6a5131f9c3c25ebf99d4ae86cdf617593ff4190bb7b9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358530550.jpg?k=a937a5e6e5acdfd6cb939592f42ae5f2cb2950d7aff92d58dfcdfe913e2b4386&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529913.jpg?k=bce89bb0510d9009b8f3ff68b939d2bb34d5985c8597954e7fd2e932e574e0fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529946.jpg?k=b29688e3035468e5fff105a26e2e64b5e77e5c27d7a5d4bba302e9db234af806&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529954.jpg?k=9aa4b4c1d73e5c4305ab47459c2fc42dd4e05ee3b44c17b5947708d85bba4115&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529956.jpg?k=b3f0079300479fa39d18cc2c67a7bba51ee09bee34a00d76ddb0632375646c09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529968.jpg?k=7f2d025075567c0d8a1b0586c78b6356f80e8b7ba7dd30ff73bae768fdb64e08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529977.jpg?k=65f85793a6c2b691efcffb79e1d53345b096d3c8e8e4d79a42cffdc1601ece76&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Garden View"\n  - "Triple Room with Garden View"\n  - "Suite with Terrace"\nnearbyRestaurants:\n  - "Kafe Zgara Kujtimi 3.5 km"\n  - "Kafe Zgare Kujtimi 3.7 km"\nairports:\n  - "Corfu International Airport 58 km"\n  - "Ioannina Airport 67 km"\nreviews:\n  - name: "Gin"\n    country: "United Kingdom"\n    text: "“A very lovely house in the hills near Girokaster. Perfect for somewhere peaceful to stay out of the city but easy to drive down and park in the city for the day and see the sights. Flamur was a great host, very friendly and proud to show us his...”"\n  - name: "Jonathan"\n    country: "Belgium"\n    text: "“As with every guest house stay in Albania, you come for the views but you stay for the albanian hospitality. As a couple we enjoyed a lovely double room on a beautifully crafted hard wood bed in a calm of the beaten path location. We enjoyed our...”"\n  - name: "Serhii"\n    country: "Ukraine"\n    text: "“Everything is great! Everything is like home, very nice hosts. Сlean room, delicious breakfast.”"\nbookingURL: "https://www.booking.com/hotel/al/guest-hause-shuaipaj.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Villa Shuaipaj are thoughtfully designed with guest comfort in mind. Each unit is equipped with essential amenities such as a wardrobe, air conditioning, and a flat-screen TV. The private bathrooms come complete with a bidet and plush bathrobes, ensuring a stay that blends comfort with a touch of luxury. Select rooms further enhance the experience by offering terraces for guests to enjoy the surrounding beauty in privacy.
+---
+title: "Villa Shuaipaj"
+description: "Villa Shuaipaj emerges as a serene retreat, boasting breathtaking mountain views and a prime location just 45 km from the tranquil Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485331072.jpg?k=50f683572f2d1bca97eb3b3a40a159d0d5b4963aba36da976bcffe889239bf64&o=&hp=1"
+language: en
+slug: villa-shuaipaj
+address: "Antigone, Asim Zeneli, Lagjja \"25 Vjetori\", godine 2-kateshe, nr.17 Godine 2-kateshe, nr.17, 6017 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "villa"
+coordinates:
+  lat: 40.08224313
+  lng: 20.19737035
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 50
+ratings:
+  overall: 9.5
+  location: 9.2
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 9.6
+  comfort: 9.5
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485331072.jpg?k=50f683572f2d1bca97eb3b3a40a159d0d5b4963aba36da976bcffe889239bf64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485334483.jpg?k=d55ea0979f53b68650b045949982f58c04824d2b1376314e2a7f01a5dceadc6b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485331912.jpg?k=f996aeab39eb4746731ab8c52cff61d1ce07420a5fd60f1307689c4c50f130ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357953171.jpg?k=aa0707490f7afbb59f04cad2e29eda8cf0e21cc2ff4f582be296bc7a2b00ef5e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358530531.jpg?k=d0d7573ec8383012adb6a5131f9c3c25ebf99d4ae86cdf617593ff4190bb7b9b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358530550.jpg?k=a937a5e6e5acdfd6cb939592f42ae5f2cb2950d7aff92d58dfcdfe913e2b4386&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529913.jpg?k=bce89bb0510d9009b8f3ff68b939d2bb34d5985c8597954e7fd2e932e574e0fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529946.jpg?k=b29688e3035468e5fff105a26e2e64b5e77e5c27d7a5d4bba302e9db234af806&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529954.jpg?k=9aa4b4c1d73e5c4305ab47459c2fc42dd4e05ee3b44c17b5947708d85bba4115&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529956.jpg?k=b3f0079300479fa39d18cc2c67a7bba51ee09bee34a00d76ddb0632375646c09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529968.jpg?k=7f2d025075567c0d8a1b0586c78b6356f80e8b7ba7dd30ff73bae768fdb64e08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358529977.jpg?k=65f85793a6c2b691efcffb79e1d53345b096d3c8e8e4d79a42cffdc1601ece76&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Garden View"
+  - "Triple Room with Garden View"
+  - "Suite with Terrace"
+nearbyRestaurants:
+  - "Kafe Zgara Kujtimi 3.5 km"
+  - "Kafe Zgare Kujtimi 3.7 km"
+airports:
+  - "Corfu International Airport 58 km"
+  - "Ioannina Airport 67 km"
+reviews:
+  - name: "Gin"
+    country: "United Kingdom"
+    text: "“A very lovely house in the hills near Girokaster. Perfect for somewhere peaceful to stay out of the city but easy to drive down and park in the city for the day and see the sights. Flamur was a great host, very friendly and proud to show us his...”"
+  - name: "Jonathan"
+    country: "Belgium"
+    text: "“As with every guest house stay in Albania, you come for the views but you stay for the albanian hospitality. As a couple we enjoyed a lovely double room on a beautifully crafted hard wood bed in a calm of the beaten path location. We enjoyed our...”"
+  - name: "Serhii"
+    country: "Ukraine"
+    text: "“Everything is great! Everything is like home, very nice hosts. Сlean room, delicious breakfast.”"
+bookingURL: "https://www.booking.com/hotel/al/guest-hause-shuaipaj.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Villa Shuaipaj are thoughtfully designed with guest comfort in mind. Each unit is equipped with essential amenities such as a wardrobe, air conditioning, and a flat-screen TV. The private bathrooms come complete with a bidet and plush bathrobes, ensuring a stay that blends comfort with a touch of luxury. Select rooms further enhance the experience by offering terraces for guests to enjoy the surrounding beauty in privacy.
 
 Dining at the guest house is a delight, with an outdoor dining area that invites guests to savor meals amidst nature. The on-site restaurant caters to a variety of tastes and occasions, serving dinner, lunch, brunch, and high tea in a family-friendly atmosphere.
 

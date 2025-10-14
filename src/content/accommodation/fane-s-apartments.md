@@ -1,4 +1,78 @@
----\ntitle: "Fane's Apartments"\ndescription: "Fane's Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091743.jpg?k=62c939a44a734ea48cbeef95af040e739479312930fbc93266cbd8ad28981ff7&o=&hp=1"\nlanguage: en\nslug: fane-s-apartments\naddress: "6 SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10082831\n  lng: 19.74758759\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 127\nratings:\n  overall: 9.3\n  location: 9.7\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.6\n  comfort: 9.1\n  staff: 9.6\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091743.jpg?k=62c939a44a734ea48cbeef95af040e739479312930fbc93266cbd8ad28981ff7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091777.jpg?k=df6b54b65166139a69b15188847ec722f3eb4d22b72d3b7b36dc1c9423c876bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482552568.jpg?k=925a57960290262de13f9b73548ccc0dabcf2d648058f43ddafb2db0be2aac12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091836.jpg?k=faa3ac8ea907ab20b8e330b505de4f1a59d2d85243dd68540559bf39047fbb6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091808.jpg?k=14299ea888bb4022ac5038b74f7fea999383d51ccfd17f9e646ca6fa5bbef319&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222088368.jpg?k=c7d6b15a9143f993c4c2ec603c0d6da0418687c2746f8ca1be5729c351789e64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091822.jpg?k=6a512297da101848c31f99e37e80eb4b3f029aea76611b6c5f8e84b62cc81974&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091771.jpg?k=ff3b7d6e72dc46684e2bae267e3222e84fcdb8d301140d89f3f71dbf33ee2ba8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091702.jpg?k=bfc4caae46bbf352bb1aad36d49d21cd2748d951a6e569abc29c95b50c3cf5e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/221741767.jpg?k=24b9da583b0ebe18e84a33d274b39709925cdd5f0596c0c88944af371314f435&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222088375.jpg?k=fc47d61192919fc3f72a04e3d2e993e772823a0e18c9e57b0152f15a6b44d317&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091740.jpg?k=aa0089ee023cce29343c0152ec79d45fb2bf178e66ed1715ed50a43a1437115c&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Valentino 50 m"\n  - "La Bellezza 50 m"\nnearbyBeaches:\n  - "Spille Beach 50 m"\n  - "Maracit Beach 150 m"\n  - "Prinos Beach 350 m"\n  - "Potam Beach 800 m"\n  - "Livadhi Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Franziska"\n    country: "Germany"\n    text: "“The view was amazing. Family was so nice and helpful. A 3rd bed was in the living room. So everyone slept very cozy .We enjoyed our stay very much”"\n  - name: "Hutchings"\n    country: "Switzerland"\n    text: "“One of the best places we stayed at on our two-week trip in Albania. Very clean and the view is absolutely amazing. The owner was very kind and always responded to messages really fast. Highly recommended!”"\n  - name: "Magatha"\n    country: "United Kingdom"\n    text: "“The apartment was in a perfect location, overlooking the beach. We love swimming and snorkeling- so many fish to spot metres from the shore! Marina and Andrea were friendly and helpful with everything. We were sad to leave.”"\nbookingURL: "https://www.booking.com/hotel/al/fane-39-s-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of Fane's Apartments are treated to well-appointed units equipped with modern amenities. A flat-screen TV with satellite channels provides entertainment for those moments spent indoors, while a kitchenette and dining area offer the convenience of home-cooked meals. The inclusion of a private bathroom, complete with a shower and hairdryer, adds to the comfort of each stay. Additionally, rooms feature a city view and come with a handy fridge, catering to the needs of every guest.
+---
+title: "Fane's Apartments"
+description: "Fane's Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Himare."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091743.jpg?k=62c939a44a734ea48cbeef95af040e739479312930fbc93266cbd8ad28981ff7&o=&hp=1"
+language: en
+slug: fane-s-apartments
+address: "6 SH8, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.10082831
+  lng: 19.74758759
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 127
+ratings:
+  overall: 9.3
+  location: 9.7
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9.6
+  comfort: 9.1
+  staff: 9.6
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091743.jpg?k=62c939a44a734ea48cbeef95af040e739479312930fbc93266cbd8ad28981ff7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091777.jpg?k=df6b54b65166139a69b15188847ec722f3eb4d22b72d3b7b36dc1c9423c876bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482552568.jpg?k=925a57960290262de13f9b73548ccc0dabcf2d648058f43ddafb2db0be2aac12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091836.jpg?k=faa3ac8ea907ab20b8e330b505de4f1a59d2d85243dd68540559bf39047fbb6c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091808.jpg?k=14299ea888bb4022ac5038b74f7fea999383d51ccfd17f9e646ca6fa5bbef319&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222088368.jpg?k=c7d6b15a9143f993c4c2ec603c0d6da0418687c2746f8ca1be5729c351789e64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091822.jpg?k=6a512297da101848c31f99e37e80eb4b3f029aea76611b6c5f8e84b62cc81974&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091771.jpg?k=ff3b7d6e72dc46684e2bae267e3222e84fcdb8d301140d89f3f71dbf33ee2ba8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091702.jpg?k=bfc4caae46bbf352bb1aad36d49d21cd2748d951a6e569abc29c95b50c3cf5e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/221741767.jpg?k=24b9da583b0ebe18e84a33d274b39709925cdd5f0596c0c88944af371314f435&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222088375.jpg?k=fc47d61192919fc3f72a04e3d2e993e772823a0e18c9e57b0152f15a6b44d317&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091740.jpg?k=aa0089ee023cce29343c0152ec79d45fb2bf178e66ed1715ed50a43a1437115c&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Valentino 50 m"
+  - "La Bellezza 50 m"
+nearbyBeaches:
+  - "Spille Beach 50 m"
+  - "Maracit Beach 150 m"
+  - "Prinos Beach 350 m"
+  - "Potam Beach 800 m"
+  - "Livadhi Beach 1.5 km"
+whatsNearby:
+  - "Llogora National Park 16 km"
+airports:
+  - "Corfu International Airport 56 km"
+reviews:
+  - name: "Franziska"
+    country: "Germany"
+    text: "“The view was amazing. Family was so nice and helpful. A 3rd bed was in the living room. So everyone slept very cozy .We enjoyed our stay very much”"
+  - name: "Hutchings"
+    country: "Switzerland"
+    text: "“One of the best places we stayed at on our two-week trip in Albania. Very clean and the view is absolutely amazing. The owner was very kind and always responded to messages really fast. Highly recommended!”"
+  - name: "Magatha"
+    country: "United Kingdom"
+    text: "“The apartment was in a perfect location, overlooking the beach. We love swimming and snorkeling- so many fish to spot metres from the shore! Marina and Andrea were friendly and helpful with everything. We were sad to leave.”"
+bookingURL: "https://www.booking.com/hotel/al/fane-39-s-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests of Fane's Apartments are treated to well-appointed units equipped with modern amenities. A flat-screen TV with satellite channels provides entertainment for those moments spent indoors, while a kitchenette and dining area offer the convenience of home-cooked meals. The inclusion of a private bathroom, complete with a shower and hairdryer, adds to the comfort of each stay. Additionally, rooms feature a city view and come with a handy fridge, catering to the needs of every guest.
 
 For those looking to explore beyond the hotel's immediate beachfront, Prinos Beach is a mere 500 meters away, inviting guests to discover more of Himare's coastal charm. Despite its tranquil location, Fane's Apartments remains easily accessible, with Ioannina Airport located 143 km away, making it a hassle-free option for both domestic and international travelers.
 

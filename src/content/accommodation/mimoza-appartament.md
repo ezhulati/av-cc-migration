@@ -1,4 +1,83 @@
----\ntitle: "Mimoza Appartament"\ndescription: "Mimoza Appartament emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437647030.jpg?k=a2f9f1cc2a1a9f624deb0729690cdb3e569bd202791de5b265ead852544514d9&o=&hp=1"\nlanguage: en\nslug: mimoza-appartament\naddress: "Golem, 9012 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25006773\n  lng: 19.52167362\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 49\nratings:\n  overall: 9.1\n  location: 8.8\n  cleanliness: 9.3\n  facilities: 9\n  value: 9.1\n  comfort: 9.1\n  staff: 9.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437647030.jpg?k=a2f9f1cc2a1a9f624deb0729690cdb3e569bd202791de5b265ead852544514d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437646876.jpg?k=bb9c9e1040a175d3af028fded7aea17b9995c3aa5bf041d3ebdcbddf1964cd6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372119381.jpg?k=d263cb685648ca6f3f5acf4da881ce8b1c9976a61de16964db43440364171dd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473443421.jpg?k=8985bf537db1ee3667fe244cc26c83bcdfe33d374cf688162b2b9233f79c277b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375576732.jpg?k=55978e88fa7e1f4d92f91e8485a53353c6a012ef817f4dda56e906b390089da4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372119383.jpg?k=4fa44685a30c3da5a5b1ec43d80f14caac0a649b2419189bfb50bda2eef3a503&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "King Studio"\nnearbyRestaurants:\n  - "Perla 100 m"\n  - "Kleant 150 m"\nnearbyBeaches:\n  - "Golem Beach 150 m"\n  - "Mali I Robit Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 1.7 km"\n  - "Qerret Beach 2.3 km"\n  - "Durres Beach 4.1 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nreviews:\n  - name: "Marina"\n    country: "South Africa"\n    text: "“It is a very well-equipped apartment with nice bedding and very clean. It is also very close to the sea, close to shops and the center of the town. It is also pet friendly.”"\n  - name: "Amber"\n    country: "Germany"\n    text: "“Great location! Super easy walk across the street to a great beach!”"\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“The apartment is just right for two, well-equipped, comfortable bed, a washing machine in the bathroom, an air-conditioner in the kitchen, which is enough to cool the entire apartment during hot weather. Wifi was unfortunately not working but it...”"\nbookingURL: "https://www.booking.com/hotel/al/mimoza-appartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation stands out for its array of family rooms, complemented by an outdoor fireplace, creating an inviting atmosphere for guests of all ages. Each unit within Mimoza Appartament is thoughtfully equipped with modern amenities including air conditioning, a flat-screen TV, and a washing machine, with select apartments offering the added luxury of a fully equipped kitchen, a coffee machine, and even a selection of wine or champagne for a touch of elegance.
+---
+title: "Mimoza Appartament"
+description: "Mimoza Appartament emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Golem."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437647030.jpg?k=a2f9f1cc2a1a9f624deb0729690cdb3e569bd202791de5b265ead852544514d9&o=&hp=1"
+language: en
+slug: mimoza-appartament
+address: "Golem, 9012 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.25006773
+  lng: 19.52167362
+price: "US$26"
+priceFrom: 26
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 49
+ratings:
+  overall: 9.1
+  location: 8.8
+  cleanliness: 9.3
+  facilities: 9
+  value: 9.1
+  comfort: 9.1
+  staff: 9.1
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437647030.jpg?k=a2f9f1cc2a1a9f624deb0729690cdb3e569bd202791de5b265ead852544514d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437646876.jpg?k=bb9c9e1040a175d3af028fded7aea17b9995c3aa5bf041d3ebdcbddf1964cd6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372119381.jpg?k=d263cb685648ca6f3f5acf4da881ce8b1c9976a61de16964db43440364171dd7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473443421.jpg?k=8985bf537db1ee3667fe244cc26c83bcdfe33d374cf688162b2b9233f79c277b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375576732.jpg?k=55978e88fa7e1f4d92f91e8485a53353c6a012ef817f4dda56e906b390089da4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372119383.jpg?k=4fa44685a30c3da5a5b1ec43d80f14caac0a649b2419189bfb50bda2eef3a503&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+  - "King Studio"
+nearbyRestaurants:
+  - "Perla 100 m"
+  - "Kleant 150 m"
+nearbyBeaches:
+  - "Golem Beach 150 m"
+  - "Mali I Robit Beach 300 m"
+  - "Shkëmbi i Kavajës Beach 1.7 km"
+  - "Qerret Beach 2.3 km"
+  - "Durres Beach 4.1 km"
+whatsNearby:
+  - "Bekimi 9 km"
+  - "Durres Amphiteatre 9 km"
+  - "Wine Dhe Pooh 10 km"
+  - "1. Maj 10 km"
+  - "Yje Dhe Hena 10 km"
+  - "Sheshi Demokracia 10 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+reviews:
+  - name: "Marina"
+    country: "South Africa"
+    text: "“It is a very well-equipped apartment with nice bedding and very clean. It is also very close to the sea, close to shops and the center of the town. It is also pet friendly.”"
+  - name: "Amber"
+    country: "Germany"
+    text: "“Great location! Super easy walk across the street to a great beach!”"
+  - name: "Agnieszka"
+    country: "Poland"
+    text: "“The apartment is just right for two, well-equipped, comfortable bed, a washing machine in the bathroom, an air-conditioner in the kitchen, which is enough to cool the entire apartment during hot weather. Wifi was unfortunately not working but it...”"
+bookingURL: "https://www.booking.com/hotel/al/mimoza-appartament.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodation stands out for its array of family rooms, complemented by an outdoor fireplace, creating an inviting atmosphere for guests of all ages. Each unit within Mimoza Appartament is thoughtfully equipped with modern amenities including air conditioning, a flat-screen TV, and a washing machine, with select apartments offering the added luxury of a fully equipped kitchen, a coffee machine, and even a selection of wine or champagne for a touch of elegance.
 
 For those looking to savor local flavors or simply enjoy a quick snack, the property boasts an on-site restaurant and snack bar, alongside the convenience of a grocery delivery service and a minimarket. 
 

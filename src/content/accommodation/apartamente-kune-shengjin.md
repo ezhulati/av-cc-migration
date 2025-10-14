@@ -1,4 +1,64 @@
----\ntitle: "Apartamente Kune Shengjin"\ndescription: "Discover the charm of Apartamente Kune Shengjin, a gem situated in the heart of Lezhë, offering guests a unique blend of convenience and serenity."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705641.jpg?k=46494625d03d405f22708326f930467773d23ed90ffacb7dfd312d1c2e652ebb&o=&hp=1"\nlanguage: en\nslug: apartamente-kune-shengjin\naddress: "Rruga Kënallë - Kune, Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.79516219\n  lng: 19.60452053\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 7.5\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705641.jpg?k=46494625d03d405f22708326f930467773d23ed90ffacb7dfd312d1c2e652ebb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705735.jpg?k=8d7f34d113d2cd5239779b9fb8de94c64403c363616d715c04c65068ff87df9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705766.jpg?k=1b982f0d26204fb69febd03971c1e0a91ee14fca9fe6140876f9660235539bd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705729.jpg?k=c3bd3a643cb6947a0ac54245086dca347deb1a2710d363688fcfd32a128189c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705795.jpg?k=291af01ccd11e8ca444a111414bc73ec41ddb1a6f47f1cf3e38b9455baa7cfaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705788.jpg?k=631c74c24ce31b3993cd7486d835b0167f82733813bb2d47aedacf75b7bee9e8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hotel Restorant Molla 200 m"\n  - "Soleil 400 m"\nnearbyBeaches:\n  - "Ylberi Beach 200 m"\n  - "Shëngjin Beach 600 m"\n  - "Laguna Park Beach 2.9 km"\n  - "Kune Beach 3.1 km"\n  - "Rana e Hedhun Beach 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Podgorica Airport 68 km"\nbookingURL: "https://www.booking.com/hotel/al/kompleksi-jukoil-kune.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are greeted with the luxury of a private entrance, ensuring a seamless and personalized experience from the moment of arrival. The apartment itself is a haven of comfort, boasting family-friendly rooms and accessible facilities that cater to all guests, including those with disabilities.
+---
+title: "Apartamente Kune Shengjin"
+description: "Discover the charm of Apartamente Kune Shengjin, a gem situated in the heart of Lezhë, offering guests a unique blend of convenience and serenity."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705641.jpg?k=46494625d03d405f22708326f930467773d23ed90ffacb7dfd312d1c2e652ebb&o=&hp=1"
+language: en
+slug: apartamente-kune-shengjin
+address: "Rruga Kënallë - Kune, Lezhë, Albania"
+city: "Lezhë"
+location: "Lezhë"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.79516219
+  lng: 19.60452053
+price: "US$60"
+priceFrom: 60
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 10
+  facilities: 7.5
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705641.jpg?k=46494625d03d405f22708326f930467773d23ed90ffacb7dfd312d1c2e652ebb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705735.jpg?k=8d7f34d113d2cd5239779b9fb8de94c64403c363616d715c04c65068ff87df9b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705766.jpg?k=1b982f0d26204fb69febd03971c1e0a91ee14fca9fe6140876f9660235539bd0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705729.jpg?k=c3bd3a643cb6947a0ac54245086dca347deb1a2710d363688fcfd32a128189c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705795.jpg?k=291af01ccd11e8ca444a111414bc73ec41ddb1a6f47f1cf3e38b9455baa7cfaf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478705788.jpg?k=631c74c24ce31b3993cd7486d835b0167f82733813bb2d47aedacf75b7bee9e8&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Facilities for disabled guests"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Hotel Restorant Molla 200 m"
+  - "Soleil 400 m"
+nearbyBeaches:
+  - "Ylberi Beach 200 m"
+  - "Shëngjin Beach 600 m"
+  - "Laguna Park Beach 2.9 km"
+  - "Kune Beach 3.1 km"
+  - "Rana e Hedhun Beach 4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 42 km"
+  - "Podgorica Airport 68 km"
+bookingURL: "https://www.booking.com/hotel/al/kompleksi-jukoil-kune.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are greeted with the luxury of a private entrance, ensuring a seamless and personalized experience from the moment of arrival. The apartment itself is a haven of comfort, boasting family-friendly rooms and accessible facilities that cater to all guests, including those with disabilities.
 
 The living space is thoughtfully designed to maximize comfort and enjoyment, featuring a balcony that offers breathtaking sea views. The seating area, complemented by a flat-screen TV, provides a cozy nook for relaxation. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with an oven and fridge, perfect for whipping up meals with a local flair. The private bathroom, equipped with a bidet, adds an extra layer of convenience.
 

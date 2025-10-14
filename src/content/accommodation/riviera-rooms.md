@@ -1,4 +1,69 @@
----\ntitle: "Riviera Rooms"\ndescription: "Riviera Rooms emerges as a serene retreat, situated just a stone's throw away from the pristine sands of a Himare beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224003.jpg?k=fc6cad0de8f159f31ac378f6f49e905895cac32f77dd89f4da77e77fb156b1a7&o=&hp=1"\nlanguage: en\nslug: riviera-rooms\naddress: "Road SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.10225513\n  lng: 19.74733091\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 209\nratings:\n  overall: 9.4\n  location: 8.8\n  cleanliness: 9.8\n  facilities: 9.3\n  value: 9.2\n  comfort: 9.6\n  staff: 9.8\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224003.jpg?k=fc6cad0de8f159f31ac378f6f49e905895cac32f77dd89f4da77e77fb156b1a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691978.jpg?k=8950e4195458462742b98d5f072f24049b66960aa94bf4f5005dd8f28d9c4722&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224016.jpg?k=0fd542329801f025eb0798e720e492c6a56d05f4abdd247f885a65749c3b4ed4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41238692.jpg?k=6fc88ff09ae09130f220933f5712536f79b0061d0a7a5bf30c70caed643917dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74454958.jpg?k=3887dcdc5b431296ec78fa6d09a593ff1ba85b1c26775f6335ae1be52696fe8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691973.jpg?k=683ba33f3601fdca5a896c7856b59eaffe80367c1c4ad18e19ea0847c1c14f53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691975.jpg?k=48b79874138da92b0e12ad9b491dc4f0078f59d0bf5bb6810662983c8b2b7245&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691981.jpg?k=14114ca1f09743990e54b92b41291b71a0459125c423249742584e24ddfe6b59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691836.jpg?k=4202077fad2e93062138a35fc1cc7ef69ed2743fb0b741f3a6b4ea4df0addb65&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyBeaches:\n  - "Spille Beach 200 m"\n  - "Maracit Beach 300 m"\n  - "Prinos Beach 500 m"\n  - "Potam Beach 900 m"\n  - "Livadhi Beach 1.4 km"\nreviews:\n  - name: "John"\n    country: "Australia"\n    text: "“Lovely host, picked me up when I arrived and drove me back to the bus stop when I left (so I didn't miss the bus!). The WIFI was good which was important for me to do work. Nice spacious and clean room, the air conditioner worked well, had a...”"\n  - name: "Irena"\n    country: "North Macedonia"\n    text: "“The location is great, sometimes we even listened the sound of the waves. The accomodation was clean and comfortable, the host was very nice. They have their own parking. Highly recommended.”"\n  - name: "Cianti"\n    country: "Taiwan"\n    text: "“The room super clean, and the stuff super friendly !!”"\nbookingURL: "https://www.booking.com/hotel/al/himararooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Riviera Rooms are thoughtfully designed, featuring private bathrooms equipped with either a bath or a shower. Select units elevate the experience further, boasting balconies that present breathtaking sea views or private kitchenettes for those preferring a more intimate dining experience.
+---
+title: "Riviera Rooms"
+description: "Riviera Rooms emerges as a serene retreat, situated just a stone's throw away from the pristine sands of a Himare beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224003.jpg?k=fc6cad0de8f159f31ac378f6f49e905895cac32f77dd89f4da77e77fb156b1a7&o=&hp=1"
+language: en
+slug: riviera-rooms
+address: "Road SH8, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.10225513
+  lng: 19.74733091
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 209
+ratings:
+  overall: 9.4
+  location: 8.8
+  cleanliness: 9.8
+  facilities: 9.3
+  value: 9.2
+  comfort: 9.6
+  staff: 9.8
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224003.jpg?k=fc6cad0de8f159f31ac378f6f49e905895cac32f77dd89f4da77e77fb156b1a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691978.jpg?k=8950e4195458462742b98d5f072f24049b66960aa94bf4f5005dd8f28d9c4722&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224016.jpg?k=0fd542329801f025eb0798e720e492c6a56d05f4abdd247f885a65749c3b4ed4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41238692.jpg?k=6fc88ff09ae09130f220933f5712536f79b0061d0a7a5bf30c70caed643917dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74454958.jpg?k=3887dcdc5b431296ec78fa6d09a593ff1ba85b1c26775f6335ae1be52696fe8e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691973.jpg?k=683ba33f3601fdca5a896c7856b59eaffe80367c1c4ad18e19ea0847c1c14f53&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691975.jpg?k=48b79874138da92b0e12ad9b491dc4f0078f59d0bf5bb6810662983c8b2b7245&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691981.jpg?k=14114ca1f09743990e54b92b41291b71a0459125c423249742584e24ddfe6b59&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176691836.jpg?k=4202077fad2e93062138a35fc1cc7ef69ed2743fb0b741f3a6b4ea4df0addb65&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyBeaches:
+  - "Spille Beach 200 m"
+  - "Maracit Beach 300 m"
+  - "Prinos Beach 500 m"
+  - "Potam Beach 900 m"
+  - "Livadhi Beach 1.4 km"
+reviews:
+  - name: "John"
+    country: "Australia"
+    text: "“Lovely host, picked me up when I arrived and drove me back to the bus stop when I left (so I didn't miss the bus!). The WIFI was good which was important for me to do work. Nice spacious and clean room, the air conditioner worked well, had a...”"
+  - name: "Irena"
+    country: "North Macedonia"
+    text: "“The location is great, sometimes we even listened the sound of the waves. The accomodation was clean and comfortable, the host was very nice. They have their own parking. Highly recommended.”"
+  - name: "Cianti"
+    country: "Taiwan"
+    text: "“The room super clean, and the stuff super friendly !!”"
+bookingURL: "https://www.booking.com/hotel/al/himararooms.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Riviera Rooms are thoughtfully designed, featuring private bathrooms equipped with either a bath or a shower. Select units elevate the experience further, boasting balconies that present breathtaking sea views or private kitchenettes for those preferring a more intimate dining experience.
 
 Beyond the comfort of the rooms, guests have access to a shared terrace and a lush garden, perfect for moments of relaxation or contemplation. The property also addresses practical needs with services such as luggage storage and clothes cleaning, ensuring a hassle-free stay.
 

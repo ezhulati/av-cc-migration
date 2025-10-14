@@ -1,4 +1,95 @@
----\ntitle: "Franci's apartament No.2"\ndescription: "Franci's Apartment No."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385561.jpg?k=033bffd8d343a96e9d8a8007e51768b6860b62e21c72a1a38163c802211bb22b&o=&hp=1"\nlanguage: en\nslug: franci-s-apartament-no-2\naddress: "Rruga Petro Korçari, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31864861\n  lng: 19.80185955\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 19\nratings:\n  overall: 9.6\n  location: 9.2\n  cleanliness: 9.9\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.7\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385561.jpg?k=033bffd8d343a96e9d8a8007e51768b6860b62e21c72a1a38163c802211bb22b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385438.jpg?k=eface0c734d74ec3e53b8cb5472601b58e6c5b7b483a7ada7af0df184fcc2435&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346476759.jpg?k=75ad1b7a39ce0232105f85fe3af63dbb43e61bfd4788b61cfcc9a87e724ac8a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378384898.jpg?k=5dfc5d738b5f7c445986b9dcfcf3087163639f1b4dd0306aff6ff69e11c9fde0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346475116.jpg?k=6612ef0c8b87aa4cd540dc081d72c09c5d82c8587d0e01611fbf7da9302fb496&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349797596.jpg?k=3eb378406ad5d657e0dad89cf233f69585f14a7a6a97c7e47afd2bcf8941e42a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378384415.jpg?k=3d38c2ccee1c36121df333b4419432f6f94708ad8ab1989df7541982be66ace5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378384494.jpg?k=061c4b3567be267290bdee2c33a2269c6be1e69dfe6eaf104d41d761466a23ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346474641.jpg?k=580e461378697bd3e9a307a09101f2edc2a866cf99365e6be46e9904f669a3db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378546755.jpg?k=cf19380aff5f5d6a99608f6047e4ae5821a177d1612b198c6d6a827913f5a5cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378402996.jpg?k=4670ed172c8c36113f5755df8777254d898821dd53483a835901ac9b5c438b05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385800.jpg?k=cefa71d6268a4827f1c92c52322f87ae43616e551142ee14d74b71adfb4a948f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385303.jpg?k=d877a3b2ef9b6a78792cbc846f43468f055f3648c1b26e9c47e5144ab0bc1273&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347397427.jpg?k=a709bf2dbb4b0947150dfef3974c964a3bc31873dda3e8f7017091af5e77eae3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/396871456.jpg?k=de0266bf176e60ed849bad0e06aec53ff17bbc229dfd7a3331d31bab935b6d3b&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.5 km"\n  - "Rinia Park 1.5 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Skanderbeg Square 1.8 km"\n  - "National Gallery of Arts Tirana 1.8 km"\n  - "Clock Tower Tirana 1.8 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Tanners' Bridge 2.2 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Piceri Kupa Hallall 100 m"\n  - "Te Kepi Restorant 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Blloku 1 Maji 400 m"\n  - "Sheshi Rekreativ Bajram Curri 450 m"\n  - "Sheshi Rekreativ Komuna e Parisit 450 m"\n  - "Sheshi Rekreativ Sali Butka 500 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 500 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 700 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 800 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 950 m"\n  - "Parku I Madh I Tiranës (Grand Park) 1.3 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Hendri"\n    country: "Albania"\n    text: "“Great apartment, newly renovated and very comfortable. All the facilities were perfect in the apartment. It has also a small balcony where you can stay.”"\n  - name: "Melissa"\n    country: "Albania"\n    text: "“The apartment was perfect ! The host was a great guy ! The apartment was located in a good neighborhood. Supermarket,bakery,fruit shop and the pharmacy were near the apartment . The distance from those shops and the apartment was very close...”"\n  - name: "Dinko"\n    country: "Croatia"\n    text: "“Nice, clean, comfortable apartment. Friendly host . Good location .”"\nbookingURL: "https://www.booking.com/hotel/al/francis-apartament-no-2-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts a harmonious blend of modern amenities and homely comfort. Guests will find a well-appointed kitchen at their disposal, perfect for those evenings when dining in feels just right. The inclusion of a flat-screen TV and a view overlooking the garden adds an extra layer of relaxation to the stay.
+---
+title: "Franci's apartament No.2"
+description: "Franci's Apartment No."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385561.jpg?k=033bffd8d343a96e9d8a8007e51768b6860b62e21c72a1a38163c802211bb22b&o=&hp=1"
+language: en
+slug: franci-s-apartament-no-2
+address: "Rruga Petro Korçari, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31864861
+  lng: 19.80185955
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 19
+ratings:
+  overall: 9.6
+  location: 9.2
+  cleanliness: 9.9
+  facilities: 9.6
+  value: 9.6
+  comfort: 9.7
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385561.jpg?k=033bffd8d343a96e9d8a8007e51768b6860b62e21c72a1a38163c802211bb22b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385438.jpg?k=eface0c734d74ec3e53b8cb5472601b58e6c5b7b483a7ada7af0df184fcc2435&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346476759.jpg?k=75ad1b7a39ce0232105f85fe3af63dbb43e61bfd4788b61cfcc9a87e724ac8a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378384898.jpg?k=5dfc5d738b5f7c445986b9dcfcf3087163639f1b4dd0306aff6ff69e11c9fde0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346475116.jpg?k=6612ef0c8b87aa4cd540dc081d72c09c5d82c8587d0e01611fbf7da9302fb496&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349797596.jpg?k=3eb378406ad5d657e0dad89cf233f69585f14a7a6a97c7e47afd2bcf8941e42a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378384415.jpg?k=3d38c2ccee1c36121df333b4419432f6f94708ad8ab1989df7541982be66ace5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378384494.jpg?k=061c4b3567be267290bdee2c33a2269c6be1e69dfe6eaf104d41d761466a23ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346474641.jpg?k=580e461378697bd3e9a307a09101f2edc2a866cf99365e6be46e9904f669a3db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378546755.jpg?k=cf19380aff5f5d6a99608f6047e4ae5821a177d1612b198c6d6a827913f5a5cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378402996.jpg?k=4670ed172c8c36113f5755df8777254d898821dd53483a835901ac9b5c438b05&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385800.jpg?k=cefa71d6268a4827f1c92c52322f87ae43616e551142ee14d74b71adfb4a948f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385303.jpg?k=d877a3b2ef9b6a78792cbc846f43468f055f3648c1b26e9c47e5144ab0bc1273&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347397427.jpg?k=a709bf2dbb4b0947150dfef3974c964a3bc31873dda3e8f7017091af5e77eae3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/396871456.jpg?k=de0266bf176e60ed849bad0e06aec53ff17bbc229dfd7a3331d31bab935b6d3b&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.5 km"
+  - "Rinia Park 1.5 km"
+  - "National Museum of History Albania 1.8 km"
+  - "Skanderbeg Square 1.8 km"
+  - "National Gallery of Arts Tirana 1.8 km"
+  - "Clock Tower Tirana 1.8 km"
+  - "Grand Park of Tirana 2.1 km"
+  - "Tanners' Bridge 2.2 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Piceri Kupa Hallall 100 m"
+  - "Te Kepi Restorant 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Blloku 1 Maji 400 m"
+  - "Sheshi Rekreativ Bajram Curri 450 m"
+  - "Sheshi Rekreativ Komuna e Parisit 450 m"
+  - "Sheshi Rekreativ Sali Butka 500 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 500 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 700 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 800 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 950 m"
+  - "Parku I Madh I Tiranës (Grand Park) 1.3 km"
+  - "Former Residence of Enver Hoxha 1.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Hendri"
+    country: "Albania"
+    text: "“Great apartment, newly renovated and very comfortable. All the facilities were perfect in the apartment. It has also a small balcony where you can stay.”"
+  - name: "Melissa"
+    country: "Albania"
+    text: "“The apartment was perfect ! The host was a great guy ! The apartment was located in a good neighborhood. Supermarket,bakery,fruit shop and the pharmacy were near the apartment . The distance from those shops and the apartment was very close...”"
+  - name: "Dinko"
+    country: "Croatia"
+    text: "“Nice, clean, comfortable apartment. Friendly host . Good location .”"
+bookingURL: "https://www.booking.com/hotel/al/francis-apartament-no-2-tirane.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself boasts a harmonious blend of modern amenities and homely comfort. Guests will find a well-appointed kitchen at their disposal, perfect for those evenings when dining in feels just right. The inclusion of a flat-screen TV and a view overlooking the garden adds an extra layer of relaxation to the stay.
 
 Strategically located, Franci's Apartment No.2 is a stone's throw away from some of Tirana's most notable landmarks. The enigmatic Pyramid of Tirana, the lush expanses of Rinia Park, and the historical significance of the Postbllok - Checkpoint Monument are all within easy reach. Moreover, for those looking to venture further, the Rock of Kavaje offers an intriguing excursion, situated 43 km away.
 

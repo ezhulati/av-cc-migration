@@ -1,4 +1,75 @@
----\ntitle: "Sunset Studio"\ndescription: "Sunset Studio emerges as a prime choice for travelers seeking a serene retreat in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499097415.jpg?k=d1fafb2df09428d2c8245bf1eef2ff3c3c440def1ff3ad0642f356f96a6f12a4&o=&hp=1"\nlanguage: en\nslug: sunset-studio\naddress: "Bulevardi Bajram Curri Nd. 1 Maji , Ap 26, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32160306\n  lng: 19.80808685\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 8.8\n  value: 8.8\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499097415.jpg?k=d1fafb2df09428d2c8245bf1eef2ff3c3c440def1ff3ad0642f356f96a6f12a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499147564.jpg?k=94e997f44537783ba2d06229d4a8383279c5357bd648e1db143320ac451f3586&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097453.jpg?k=e932e4d2ed2329de8ec801f27bda459fadb82294e180dee7e731acc7458b9d2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097458.jpg?k=6e855663162501679e605479e9110b3ed90e004c4d2d4d44292da714a1d59da8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097460.jpg?k=108c4057af4ad83f930f7e03c9b9deb2def2b09b1f791d9e240f0119e6dd193d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097466.jpg?k=9fa615c64afea911b8ca9a14c3b36104a6c9586ec52b5f74396d7b7acccf5b31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097471.jpg?k=379c45cfbcabc364d3ae16ac83e7e981d99a74474d6fc5cef2974ba6dd38b496&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.2 km"\n  - "National Museum of History Albania 1.2 km"\n  - "National Gallery of Arts Tirana 1.2 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "Tanners' Bridge 1.6 km"\n  - "Grand Park of Tirana 1.8 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Palma e Arte Lounge Bar 20 m"\n  - "Pizzeria Vesuvio 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Blloku 1 Maji 200 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 400 m"\n  - "Sheshi Rekreativ Komuna e Parisit 550 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 550 m"\n  - "Sheshi Rekreativ Sali Butka 700 m"\n  - "Former Residence of Enver Hoxha 800 m"\n  - "Sheshi Rekreativ Bajram Curri 900 m"\n  - "House of Leaves 900 m"\n  - "Rinia Park 900 m"\n  - "Shesh Rekreativ 1,000 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/sunset-studio-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis non-smoking property doesn't just offer a place to stay; it provides a home away from home with its well-appointed 1-bedroom layout. Guests can enjoy the convenience of a flat-screen TV, a washing machine, and a fully equipped kitchenette, perfect for those who prefer a home-cooked meal. The kitchenette, featuring an oven and fridge, alongside the quiet street views, ensures a comfortable and peaceful stay.
+---
+title: "Sunset Studio"
+description: "Sunset Studio emerges as a prime choice for travelers seeking a serene retreat in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499097415.jpg?k=d1fafb2df09428d2c8245bf1eef2ff3c3c440def1ff3ad0642f356f96a6f12a4&o=&hp=1"
+language: en
+slug: sunset-studio
+address: "Bulevardi Bajram Curri Nd. 1 Maji , Ap 26, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32160306
+  lng: 19.80808685
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 10
+  facilities: 8.8
+  value: 8.8
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499097415.jpg?k=d1fafb2df09428d2c8245bf1eef2ff3c3c440def1ff3ad0642f356f96a6f12a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/499147564.jpg?k=94e997f44537783ba2d06229d4a8383279c5357bd648e1db143320ac451f3586&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097453.jpg?k=e932e4d2ed2329de8ec801f27bda459fadb82294e180dee7e731acc7458b9d2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097458.jpg?k=6e855663162501679e605479e9110b3ed90e004c4d2d4d44292da714a1d59da8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097460.jpg?k=108c4057af4ad83f930f7e03c9b9deb2def2b09b1f791d9e240f0119e6dd193d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097466.jpg?k=9fa615c64afea911b8ca9a14c3b36104a6c9586ec52b5f74396d7b7acccf5b31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/499097471.jpg?k=379c45cfbcabc364d3ae16ac83e7e981d99a74474d6fc5cef2974ba6dd38b496&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.2 km"
+  - "National Museum of History Albania 1.2 km"
+  - "National Gallery of Arts Tirana 1.2 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "Tanners' Bridge 1.6 km"
+  - "Grand Park of Tirana 1.8 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Palma e Arte Lounge Bar 20 m"
+  - "Pizzeria Vesuvio 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Blloku 1 Maji 200 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 400 m"
+  - "Sheshi Rekreativ Komuna e Parisit 550 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 550 m"
+  - "Sheshi Rekreativ Sali Butka 700 m"
+  - "Former Residence of Enver Hoxha 800 m"
+  - "Sheshi Rekreativ Bajram Curri 900 m"
+  - "House of Leaves 900 m"
+  - "Rinia Park 900 m"
+  - "Shesh Rekreativ 1,000 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/sunset-studio-tirane.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This non-smoking property doesn't just offer a place to stay; it provides a home away from home with its well-appointed 1-bedroom layout. Guests can enjoy the convenience of a flat-screen TV, a washing machine, and a fully equipped kitchenette, perfect for those who prefer a home-cooked meal. The kitchenette, featuring an oven and fridge, alongside the quiet street views, ensures a comfortable and peaceful stay.
 
 For those keen to explore, Sunset Studio is ideally situated near the Former Residence of Enver Hoxha, the Pyramid of Tirana, and Rinia Park, making it easy for guests to immerse themselves in the local culture. Moreover, the proximity to Tirana International Mother Teresa Airport, just 15 km away, adds to the convenience for international travelers.
 

@@ -1,5 +1,85 @@
----\ntitle: "Elysium Hotel"\ndescription: "Elysium Hotel emerges as a premier destination for those seeking a blend of luxury and serenity in Dhërmi."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481137518.jpg?k=4a11522a5641bcc846e7eb6d7cf4d3d3e4e50284896cd58f8e7dd119f05b5c88&o=&hp=1"\nlanguage: en\nslug: elysium-hotel\naddress: "Dhermi, 1001 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.14912792\n  lng: 19.63082921\nprice: "US$35"\npriceFrom: 35\nstarRating: 5\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 209\nratings:\n  overall: 9.4\n  location: 9.1\n  cleanliness: 9.5\n  facilities: 9.3\n  value: 8.9\n  comfort: 9.4\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481137518.jpg?k=4a11522a5641bcc846e7eb6d7cf4d3d3e4e50284896cd58f8e7dd119f05b5c88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844743.jpg?k=0928e4012855413fa681e9030ff2bbf16d42572caa7e070444feb3c92c534034&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485014917.jpg?k=edb28d9c3fc7e24740a21376b3258b3271417a674a2c4f0f62826ef3b37d8b99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157428.jpg?k=c287fa4f846bda0424661a6feacf2b49a9523327e51584fa90be27ce519a0bdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485054835.jpg?k=cefbcbd8cc885977c7ae042c789559881471e3b54648b664011b544fdf368b31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485054799.jpg?k=79017f915e680deee8849608a8186411d92aba659268b4576331364e0508ef5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844919.jpg?k=6a49668430fdc0c639c949613d26217c71671612c1b2a66eeb3e8d019ce8d853&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844837.jpg?k=cb3440c9f725a4ac16356f5296372ab2d8e8efd67744a7e5188698f63294e77a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844572.jpg?k=fb011d7938b9b0781132d219df9ce12d0cae40b06e4737206a8914676bc63e7d&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Elysium 40 m"\n  - "Harmonia 300 m"\nnearbyBeaches:\n  - "Dhermi Beach 600 m"\n  - "Palasa Beach 1 km"\n  - "Nazar Beach 3.9 km"\n  - "Gjipe Beach 4.1 km"\n  - "Beach Me Shpella 4.7 km"\nwhatsNearby:\n  - "Llogora National Park 6 km"\nairports:\n  - "Corfu International Airport 64 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Darragh"\n    country: "Germany"\n    text: "“Stunning hotel, with remarkable design, very big pool and amaaaazing view. Good location, not too far from the beach. Excellent breakfast, pool bar, restaurant and receptionist staff. The room very clean, with a balcony on a spectacular view...”"\n  - name: "Allison"\n    country: "Netherlands"\n    text: "“Location, cost, comfortable and great breakfast. Very nice staff, very helpful manager. Great for long-term family stay! Excellent hotel option in Dhermi.”"\n  - name: "Henk"\n    country: "Germany"\n    text: "“The location is fabulous. The property is very well equipped. The hospitality team were extremely efficient and responsive to every request, really appreciate their help in making our stay enjoyable and stress free.
-Would definitely recommend.”"\nbookingURL: "https://www.booking.com/hotel/al/elysium.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Elysium Hotel are designed with comfort and convenience in mind. Each air-conditioned room is outfitted with a flat-screen cable TV and a work desk, catering to both leisure and business travelers. The attention to detail extends to the private bathrooms, where guests will find complimentary toiletries and a hairdryer, adding a touch of home to the hotel experience. The property prides itself on offering free WiFi throughout, keeping guests connected during their stay.
+---
+title: "Elysium Hotel"
+description: "Elysium Hotel emerges as a premier destination for those seeking a blend of luxury and serenity in Dhërmi."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481137518.jpg?k=4a11522a5641bcc846e7eb6d7cf4d3d3e4e50284896cd58f8e7dd119f05b5c88&o=&hp=1"
+language: en
+slug: elysium-hotel
+address: "Dhermi, 1001 Dhërmi, Albania"
+city: "Dhërmi"
+location: "Dhërmi"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.14912792
+  lng: 19.63082921
+price: "US$35"
+priceFrom: 35
+starRating: 5
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 209
+ratings:
+  overall: 9.4
+  location: 9.1
+  cleanliness: 9.5
+  facilities: 9.3
+  value: 8.9
+  comfort: 9.4
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481137518.jpg?k=4a11522a5641bcc846e7eb6d7cf4d3d3e4e50284896cd58f8e7dd119f05b5c88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844743.jpg?k=0928e4012855413fa681e9030ff2bbf16d42572caa7e070444feb3c92c534034&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485014917.jpg?k=edb28d9c3fc7e24740a21376b3258b3271417a674a2c4f0f62826ef3b37d8b99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157428.jpg?k=c287fa4f846bda0424661a6feacf2b49a9523327e51584fa90be27ce519a0bdb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485054835.jpg?k=cefbcbd8cc885977c7ae042c789559881471e3b54648b664011b544fdf368b31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485054799.jpg?k=79017f915e680deee8849608a8186411d92aba659268b4576331364e0508ef5d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844919.jpg?k=6a49668430fdc0c639c949613d26217c71671612c1b2a66eeb3e8d019ce8d853&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844837.jpg?k=cb3440c9f725a4ac16356f5296372ab2d8e8efd67744a7e5188698f63294e77a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484844572.jpg?k=fb011d7938b9b0781132d219df9ce12d0cae40b06e4737206a8914676bc63e7d&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Private beach area"
+  - "Exceptional breakfast"
+nearbyRestaurants:
+  - "Elysium 40 m"
+  - "Harmonia 300 m"
+nearbyBeaches:
+  - "Dhermi Beach 600 m"
+  - "Palasa Beach 1 km"
+  - "Nazar Beach 3.9 km"
+  - "Gjipe Beach 4.1 km"
+  - "Beach Me Shpella 4.7 km"
+whatsNearby:
+  - "Llogora National Park 6 km"
+airports:
+  - "Corfu International Airport 64 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Darragh"
+    country: "Germany"
+    text: "“Stunning hotel, with remarkable design, very big pool and amaaaazing view. Good location, not too far from the beach. Excellent breakfast, pool bar, restaurant and receptionist staff. The room very clean, with a balcony on a spectacular view...”"
+  - name: "Allison"
+    country: "Netherlands"
+    text: "“Location, cost, comfortable and great breakfast. Very nice staff, very helpful manager. Great for long-term family stay! Excellent hotel option in Dhermi.”"
+  - name: "Henk"
+    country: "Germany"
+    text: "“The location is fabulous. The property is very well equipped. The hospitality team were extremely efficient and responsive to every request, really appreciate their help in making our stay enjoyable and stress free.
+Would definitely recommend.”"
+bookingURL: "https://www.booking.com/hotel/al/elysium.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Elysium Hotel are designed with comfort and convenience in mind. Each air-conditioned room is outfitted with a flat-screen cable TV and a work desk, catering to both leisure and business travelers. The attention to detail extends to the private bathrooms, where guests will find complimentary toiletries and a hairdryer, adding a touch of home to the hotel experience. The property prides itself on offering free WiFi throughout, keeping guests connected during their stay.
 
 The hotel's 24-hour front desk stands ready to assist guests at any hour, reflecting Elysium's dedication to exemplary service. For those looking to unwind, the on-site bar offers a selection of drinks in a relaxed atmosphere, while the lush garden invites guests for a leisurely walk. A beach bar located approximately 1 km away provides free parasols and sun loungers, perfect for a day under the sun.
 

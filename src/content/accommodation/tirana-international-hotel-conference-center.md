@@ -1,5 +1,101 @@
----\ntitle: "Tirana International Hotel & Conference Center"\ndescription: "Discover the epitome of elegance and convenience at the Tirana International Hotel & Conference Center, a prime destination for travelers seeking a blend of luxury and accessibility right in the heart of the city."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523678439.jpg?k=2b90b711547a7bce17328228879080ef1a2c1b848a39de996030a58a1f280f63&o=&hp=1"\nlanguage: en\nslug: tirana-international-hotel-conference-center\naddress: "Tirana city center (Skenderbeg Square), 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32946537\n  lng: 19.81860638\nprice: "US$74"\npriceFrom: 74\nstarRating: 4\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 1030\nratings:\n  overall: 8.3\n  location: 9.6\n  cleanliness: 8.3\n  facilities: 7.7\n  value: 7.9\n  comfort: 8.5\n  staff: 8.6\n  wifi: 7.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523678439.jpg?k=2b90b711547a7bce17328228879080ef1a2c1b848a39de996030a58a1f280f63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398783528.jpg?k=f4d691e548679759abaffeb40ea24a09caf47ba640277e6e3921d0d53d7a1d70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344085028.jpg?k=51ba8be3a68627c0a8ab8b943a6f86795f351a95e3cb17516d973bf54403d867&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523417900.jpg?k=7a03c71b5c90fe5f061a2438cd782bd31566d4c81717b60ee8163657f0a88481&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/187765176.jpg?k=85ae4d3bc2d4390b3cadb3802a1f854c16ab4ebaf4a6eb7794f9d62ae4059d93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527533282.jpg?k=9c48d416981d14f056d2ab596b6e7714a72655f02538abba4d4d1525d52bb563&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "24-hour front desk"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Standard Single Room"\n  - "Deluxe Single Room"\n  - "Standard Double Room"\n  - "Deluxe Double Room"\n  - "Executive Suite"\nnearbyAttractions:\n  - "Rinia Park 550 m"\n  - "Tanners' Bridge 700 m"\n  - "Former Residence of Enver Hoxha 950 m"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Bar Kafe Opera 30 m"\n  - "La Pergola 50 m"\nwhatsNearby:\n  - "National Museum of History Albania 100 m"\n  - "Sheshi Skënderbej 100 m"\n  - "Skanderbeg Square 200 m"\n  - "Clock Tower Tirana 200 m"\n  - "Parku Europa 250 m"\n  - "Sheshi Sulejman Pasha 300 m"\n  - "Sheshi Paris 300 m"\n  - "House of Leaves 350 m"\n  - "National Gallery of Arts Tirana 400 m"\n  - "Amazing Nature 450 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Petrit"\n    country: "United Kingdom"\n    text: "“The staff at this hotel were so friendly and helpful. They made our stay so enjoyable and comfortable,
-The location was prefect The hotel was beautiful and the decor was modern and stylish”"\n  - name: "Tirana"\n    country: "Albania"\n    text: "“Super clean, very comfortable bed and very friendly staff”"\n  - name: "Shaun"\n    country: "United Kingdom"\n    text: "“Asked for high rise room to take a then/now picture. Staff helped, friendly staff, good WiFi, bathroom with a bath...”"\nbookingURL: "https://www.booking.com/hotel/al/tirana-international.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nStrategically positioned adjacent to key government buildings like the Tirana Municipal Building and the Ministries of Economy, Justice, and Defence, the hotel also offers easy access to cultural landmarks. A mere stone's throw away, guests can explore the National Museum, immerse themselves in the arts at the Opera House, or peruse the Art Gallery.
+---
+title: "Tirana International Hotel & Conference Center"
+description: "Discover the epitome of elegance and convenience at the Tirana International Hotel & Conference Center, a prime destination for travelers seeking a blend of luxury and accessibility right in the heart of the city."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523678439.jpg?k=2b90b711547a7bce17328228879080ef1a2c1b848a39de996030a58a1f280f63&o=&hp=1"
+language: en
+slug: tirana-international-hotel-conference-center
+address: "Tirana city center (Skenderbeg Square), 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32946537
+  lng: 19.81860638
+price: "US$74"
+priceFrom: 74
+starRating: 4
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 1030
+ratings:
+  overall: 8.3
+  location: 9.6
+  cleanliness: 8.3
+  facilities: 7.7
+  value: 7.9
+  comfort: 8.5
+  staff: 8.6
+  wifi: 7.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523678439.jpg?k=2b90b711547a7bce17328228879080ef1a2c1b848a39de996030a58a1f280f63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398783528.jpg?k=f4d691e548679759abaffeb40ea24a09caf47ba640277e6e3921d0d53d7a1d70&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344085028.jpg?k=51ba8be3a68627c0a8ab8b943a6f86795f351a95e3cb17516d973bf54403d867&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523417900.jpg?k=7a03c71b5c90fe5f061a2438cd782bd31566d4c81717b60ee8163657f0a88481&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/187765176.jpg?k=85ae4d3bc2d4390b3cadb3802a1f854c16ab4ebaf4a6eb7794f9d62ae4059d93&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527533282.jpg?k=9c48d416981d14f056d2ab596b6e7714a72655f02538abba4d4d1525d52bb563&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Free WiFi"
+  - "Restaurant"
+  - "24-hour front desk"
+  - "Bar"
+  - "Good breakfast"
+roomTypes:
+  - "Standard Single Room"
+  - "Deluxe Single Room"
+  - "Standard Double Room"
+  - "Deluxe Double Room"
+  - "Executive Suite"
+nearbyAttractions:
+  - "Rinia Park 550 m"
+  - "Tanners' Bridge 700 m"
+  - "Former Residence of Enver Hoxha 950 m"
+  - "Grand Park of Tirana 2 km"
+  - "Bunk'Art 1 Museum 4.2 km"
+nearbyRestaurants:
+  - "Bar Kafe Opera 30 m"
+  - "La Pergola 50 m"
+whatsNearby:
+  - "National Museum of History Albania 100 m"
+  - "Sheshi Skënderbej 100 m"
+  - "Skanderbeg Square 200 m"
+  - "Clock Tower Tirana 200 m"
+  - "Parku Europa 250 m"
+  - "Sheshi Sulejman Pasha 300 m"
+  - "Sheshi Paris 300 m"
+  - "House of Leaves 350 m"
+  - "National Gallery of Arts Tirana 400 m"
+  - "Amazing Nature 450 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Petrit"
+    country: "United Kingdom"
+    text: "“The staff at this hotel were so friendly and helpful. They made our stay so enjoyable and comfortable,
+The location was prefect The hotel was beautiful and the decor was modern and stylish”"
+  - name: "Tirana"
+    country: "Albania"
+    text: "“Super clean, very comfortable bed and very friendly staff”"
+  - name: "Shaun"
+    country: "United Kingdom"
+    text: "“Asked for high rise room to take a then/now picture. Staff helped, friendly staff, good WiFi, bathroom with a bath...”"
+bookingURL: "https://www.booking.com/hotel/al/tirana-international.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Strategically positioned adjacent to key government buildings like the Tirana Municipal Building and the Ministries of Economy, Justice, and Defence, the hotel also offers easy access to cultural landmarks. A mere stone's throw away, guests can explore the National Museum, immerse themselves in the arts at the Opera House, or peruse the Art Gallery.
 
 Accommodations at the Tirana International are a testament to modern luxury, with rooms and suites boasting sleek wooden flooring, a well-stocked minibar, a functional desk, and a Smart TV for entertainment. The highlight for many, however, is the stunning view of Tirana's bustling center that most rooms provide, offering a picturesque backdrop to your stay.
 

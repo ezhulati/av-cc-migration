@@ -1,6 +1,90 @@
----\ntitle: "Rooftop Sunset View Apartment"\ndescription: "Rooftop Sunset View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343830614.jpg?k=87fec1c621954935415f8006039a9da3c9e1ff694f533b9cca635c72ce38cc9f&o=&hp=1"\nlanguage: en\nslug: rooftop-sunset-view-apartment\naddress: "Rruga e Barrikadave 12th Floor, apt. 59, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33229813\n  lng: 19.82000283\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 115\nratings:\n  overall: 9.9\n  location: 9.9\n  cleanliness: 9.9\n  facilities: 9.8\n  value: 9.9\n  comfort: 9.8\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343830614.jpg?k=87fec1c621954935415f8006039a9da3c9e1ff694f533b9cca635c72ce38cc9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343831955.jpg?k=c547f5f213c6c28678f44154aadf3872843b6e3df3ce3c194f6c5e3e0269d984&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345142445.jpg?k=bc49c9fb43c48179ad3edd696bd2948c12b1f0809cb04dc09fd6db509956ddd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343831275.jpg?k=077d7e871b3b839ed8fe772bcfd24fde2e5f08c100744f07717b41c571cc7fc1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343830673.jpg?k=65562cb6600911648ee89291bc998193c4365ed069917fe32dcd22ea2d97d2cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345141494.jpg?k=c5e915a77eed95c74c44435589dd8d0de64e42f1ba514f0beb27873f1d75ce4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345141673.jpg?k=01bab48c77c936c1efeed162f75f976896d86c3995dbe0b03fefb6bbbf694fbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345142087.jpg?k=4ff57ae2dd2e33b05139601aeee63cfe6fcc5e74d25608924410348426a5715a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343831485.jpg?k=e6cc5c559349e0f70ef613278b9572df52a3a4885f7014a1500e4ee2058e479c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343832102.jpg?k=794bb8cadbbb88df643b41b5f5f1b3b459c405a4110a5d61b4e13e82d2e9f052&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345141353.jpg?k=b2d4d6e24d1c71d29fd8f3c0bf82be819b35e7cbee65c3cbc1deb11f08df8378&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345142245.jpg?k=0ff729080a5fceba1b21171f66560906d18f16b9e5708df04469a80b0b15ff31&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\nnearbyAttractions:\n  - "Tanners' Bridge 800 m"\n  - "Rinia Park 850 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Harli 30 m"\n  - "Orzo Meal&More 50 m"\nwhatsNearby:\n  - "Amazing Nature 150 m"\n  - "National Museum of History Albania 400 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "Sheshi Skënderbej 450 m"\n  - "Skanderbeg Square 500 m"\n  - "Clock Tower Tirana 500 m"\n  - "Sheshi Paris 550 m"\n  - "Parku Europa 550 m"\n  - "National Gallery of Arts Tirana 700 m"\n  - "House of Leaves 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Jamie"\n    country: "United Kingdom"\n    text: "“Clean and tidy
+---
+title: "Rooftop Sunset View Apartment"
+description: "Rooftop Sunset View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343830614.jpg?k=87fec1c621954935415f8006039a9da3c9e1ff694f533b9cca635c72ce38cc9f&o=&hp=1"
+language: en
+slug: rooftop-sunset-view-apartment
+address: "Rruga e Barrikadave 12th Floor, apt. 59, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33229813
+  lng: 19.82000283
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 115
+ratings:
+  overall: 9.9
+  location: 9.9
+  cleanliness: 9.9
+  facilities: 9.8
+  value: 9.9
+  comfort: 9.8
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343830614.jpg?k=87fec1c621954935415f8006039a9da3c9e1ff694f533b9cca635c72ce38cc9f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343831955.jpg?k=c547f5f213c6c28678f44154aadf3872843b6e3df3ce3c194f6c5e3e0269d984&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345142445.jpg?k=bc49c9fb43c48179ad3edd696bd2948c12b1f0809cb04dc09fd6db509956ddd4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343831275.jpg?k=077d7e871b3b839ed8fe772bcfd24fde2e5f08c100744f07717b41c571cc7fc1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343830673.jpg?k=65562cb6600911648ee89291bc998193c4365ed069917fe32dcd22ea2d97d2cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345141494.jpg?k=c5e915a77eed95c74c44435589dd8d0de64e42f1ba514f0beb27873f1d75ce4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345141673.jpg?k=01bab48c77c936c1efeed162f75f976896d86c3995dbe0b03fefb6bbbf694fbf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345142087.jpg?k=4ff57ae2dd2e33b05139601aeee63cfe6fcc5e74d25608924410348426a5715a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343831485.jpg?k=e6cc5c559349e0f70ef613278b9572df52a3a4885f7014a1500e4ee2058e479c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343832102.jpg?k=794bb8cadbbb88df643b41b5f5f1b3b459c405a4110a5d61b4e13e82d2e9f052&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345141353.jpg?k=b2d4d6e24d1c71d29fd8f3c0bf82be819b35e7cbee65c3cbc1deb11f08df8378&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345142245.jpg?k=0ff729080a5fceba1b21171f66560906d18f16b9e5708df04469a80b0b15ff31&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+nearbyAttractions:
+  - "Tanners' Bridge 800 m"
+  - "Rinia Park 850 m"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.3 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Harli 30 m"
+  - "Orzo Meal&More 50 m"
+whatsNearby:
+  - "Amazing Nature 150 m"
+  - "National Museum of History Albania 400 m"
+  - "Sheshi Sulejman Pasha 450 m"
+  - "Sheshi Skënderbej 450 m"
+  - "Skanderbeg Square 500 m"
+  - "Clock Tower Tirana 500 m"
+  - "Sheshi Paris 550 m"
+  - "Parku Europa 550 m"
+  - "National Gallery of Arts Tirana 700 m"
+  - "House of Leaves 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Jamie"
+    country: "United Kingdom"
+    text: "“Clean and tidy
 Owners were helpful, polite and spoke good English
-Apartments was massive with plenty off space and everything you need. Owners got us in early too”"\n  - name: "Alexandru-constantin"\n    country: "Romania"\n    text: "“Everything was perfect, great communication and a lot of help from the host with everything we needed”"\n  - name: "Christine"\n    country: "United Kingdom"\n    text: "“Everything 😁, excellent value and spotless Very good communication couldn't ask for more”"\nbookingURL: "https://www.booking.com/hotel/al/rooftop-sunset-view-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nPerched 42 km from the Rock of Kavaje, this property ensures ease of access with an elevator, catering to those who prefer a smoke-free environment. Its proximity to the historical Former Residence of Enver Hoxha, merely 1.5 km away, positions it as an ideal base for exploring the rich tapestry of Tirana's past.
+Apartments was massive with plenty off space and everything you need. Owners got us in early too”"
+  - name: "Alexandru-constantin"
+    country: "Romania"
+    text: "“Everything was perfect, great communication and a lot of help from the host with everything we needed”"
+  - name: "Christine"
+    country: "United Kingdom"
+    text: "“Everything 😁, excellent value and spotless Very good communication couldn't ask for more”"
+bookingURL: "https://www.booking.com/hotel/al/rooftop-sunset-view-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Perched 42 km from the Rock of Kavaje, this property ensures ease of access with an elevator, catering to those who prefer a smoke-free environment. Its proximity to the historical Former Residence of Enver Hoxha, merely 1.5 km away, positions it as an ideal base for exploring the rich tapestry of Tirana's past.
 
 Guests are treated to a spacious layout that includes a bedroom with mountain views, a cozy living room, and a flat-screen TV for entertainment. The kitchen doesn’t disappoint, equipped with a dishwasher and an oven, alongside a bathroom that boasts a refreshing shower. Comfort is further enhanced with the provision of towels and bed linen.
 

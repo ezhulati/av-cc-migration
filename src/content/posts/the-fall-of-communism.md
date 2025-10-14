@@ -14,8 +14,6 @@ seo:
   robots: "index"
   metaTitle: "The Fall of Communism - Albania's Democratic Transition"
   metaDescription: "Albania's journey from the fall of communism to its ongoing democracy. From economic reforms to EU aspirations, discover how Albania is embracing change."
-  focusKeyword: "The Fall of Communism"
-  robots: "index"
 ---
 
 ## The Fall of Communism

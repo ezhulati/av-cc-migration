@@ -1,4 +1,85 @@
----\ntitle: "La Casa di Nonna"\ndescription: "La Casa di Nonna emerges as a serene retreat, perfectly positioned just a short distance from the pristine shores of Borsh Beach and Porto Palermo Beach in Qeparo."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479753618.jpg?k=024129b7517e34719241cd9d7eec2ba8a46908516b088df8eec499191d101530&o=&hp=1"\nlanguage: en\nslug: la-casa-di-nonna\naddress: "Qeparo Main Road, 9416 Qeparo, Albania"\ncity: "Qeparo"\nlocation: "Qeparo"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.05782433\n  lng: 19.82127029\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 106\nratings:\n  overall: 9.2\n  location: 8.9\n  cleanliness: 9.3\n  facilities: 8.8\n  value: 8.9\n  comfort: 9.1\n  staff: 9.7\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479753618.jpg?k=024129b7517e34719241cd9d7eec2ba8a46908516b088df8eec499191d101530&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479761304.jpg?k=15082c11244b5c1e98c874b7007c935d4616a647298b51a9ab0c80d9371f3dbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145946068.jpg?k=0690bf2619f52d8fd9cd7060536bf3933a45918f80c6cb9a2c123f8fafcd133a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479761297.jpg?k=20076f97bf568581ea0b0fcb7c4336ad05f6bea4cd494c3166ba79a25f73d648&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146311194.jpg?k=c2055966ecc31362a282943d4742686062239798aaeb00dda805cf663a252619&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759759.jpg?k=e499590e6d04ea7ae3857e7cd9c6f7afc1fca7cf7e3ac97bf2e9f2a0b71c91bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759775.jpg?k=d3332dc07d571ee2061e21f9428f8e992c81c97207bc3080fc73f411e1ce4e19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759791.jpg?k=92fe7d868e11a9f5be6bdafae34cba8088a58c7471cb88f543f31e327459ce87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759798.jpg?k=c7cfe4c58eb0dc6851d068472fb02c9923bff49fc69a9712d393b00fd1b63d32&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Studio with Garden View"\n  - "Studio with Garden View"\n  - "Studio with Garden View"\nnearbyRestaurants:\n  - "Veranda 20 m"\n  - "Barbarossa Seafood & Pizza 650 m"\nnearbyBeaches:\n  - "Qeparo Beach 550 m"\n  - "Borsh Beach 1.5 km"\n  - "Porto Palermo Beach 1.5 km"\n  - "Porto Palermo Beach 3 1.6 km"\n  - "Palermo Beach 2.4 km"\nairports:\n  - "Corfu International Airport 50 km"\n  - "Ioannina Airport 93 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Maximilian"\n    country: "Germany"\n    text: "“Very friendly and welcoming! I liked the house with the garden a lot. I was welcomed by the granddaughter, who gave me some tips on what to do in this area, and it was nice talking to her about life in Albania. The breakfast was homemade and very...”"\n  - name: "Kim"\n    country: "Denmark"\n    text: "“Very pleasant stay. Super nice hosts and the breakfast was authentic and good...”"\n  - name: "Ann-elin"\n    country: "Norway"\n    text: "“Breakfast was absolutely wonderful! Best breakfast I’ve had! We got home made buns which was amazing!”"\nbookingURL: "https://www.booking.com/hotel/al/la-casa-di-nonna.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property prides itself on its attention to detail, providing ample amenities to ensure a seamless experience. Guests can enjoy the convenience of complimentary private parking and stay connected with free WiFi access throughout their stay. The apartments boast a tasteful design, featuring a wardrobe for personal belongings, a patio that opens up to serene garden views, and a fully equipped kitchen for those who delight in preparing their meals. The inclusion of an outdoor dining area adds a touch of elegance to al fresco meals, while the private bathroom with shower ensures privacy and comfort. To further enhance the guest experience, each unit comes with fresh bed linen and towels.
+---
+title: "La Casa di Nonna"
+description: "La Casa di Nonna emerges as a serene retreat, perfectly positioned just a short distance from the pristine shores of Borsh Beach and Porto Palermo Beach in Qeparo."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479753618.jpg?k=024129b7517e34719241cd9d7eec2ba8a46908516b088df8eec499191d101530&o=&hp=1"
+language: en
+slug: la-casa-di-nonna
+address: "Qeparo Main Road, 9416 Qeparo, Albania"
+city: "Qeparo"
+location: "Qeparo"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.05782433
+  lng: 19.82127029
+price: "US$41"
+priceFrom: 41
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 106
+ratings:
+  overall: 9.2
+  location: 8.9
+  cleanliness: 9.3
+  facilities: 8.8
+  value: 8.9
+  comfort: 9.1
+  staff: 9.7
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479753618.jpg?k=024129b7517e34719241cd9d7eec2ba8a46908516b088df8eec499191d101530&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479761304.jpg?k=15082c11244b5c1e98c874b7007c935d4616a647298b51a9ab0c80d9371f3dbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145946068.jpg?k=0690bf2619f52d8fd9cd7060536bf3933a45918f80c6cb9a2c123f8fafcd133a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479761297.jpg?k=20076f97bf568581ea0b0fcb7c4336ad05f6bea4cd494c3166ba79a25f73d648&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146311194.jpg?k=c2055966ecc31362a282943d4742686062239798aaeb00dda805cf663a252619&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759759.jpg?k=e499590e6d04ea7ae3857e7cd9c6f7afc1fca7cf7e3ac97bf2e9f2a0b71c91bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759775.jpg?k=d3332dc07d571ee2061e21f9428f8e992c81c97207bc3080fc73f411e1ce4e19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759791.jpg?k=92fe7d868e11a9f5be6bdafae34cba8088a58c7471cb88f543f31e327459ce87&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479759798.jpg?k=c7cfe4c58eb0dc6851d068472fb02c9923bff49fc69a9712d393b00fd1b63d32&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Studio with Garden View"
+  - "Studio with Garden View"
+  - "Studio with Garden View"
+nearbyRestaurants:
+  - "Veranda 20 m"
+  - "Barbarossa Seafood & Pizza 650 m"
+nearbyBeaches:
+  - "Qeparo Beach 550 m"
+  - "Borsh Beach 1.5 km"
+  - "Porto Palermo Beach 1.5 km"
+  - "Porto Palermo Beach 3 1.6 km"
+  - "Palermo Beach 2.4 km"
+airports:
+  - "Corfu International Airport 50 km"
+  - "Ioannina Airport 93 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Maximilian"
+    country: "Germany"
+    text: "“Very friendly and welcoming! I liked the house with the garden a lot. I was welcomed by the granddaughter, who gave me some tips on what to do in this area, and it was nice talking to her about life in Albania. The breakfast was homemade and very...”"
+  - name: "Kim"
+    country: "Denmark"
+    text: "“Very pleasant stay. Super nice hosts and the breakfast was authentic and good...”"
+  - name: "Ann-elin"
+    country: "Norway"
+    text: "“Breakfast was absolutely wonderful! Best breakfast I’ve had! We got home made buns which was amazing!”"
+bookingURL: "https://www.booking.com/hotel/al/la-casa-di-nonna.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The property prides itself on its attention to detail, providing ample amenities to ensure a seamless experience. Guests can enjoy the convenience of complimentary private parking and stay connected with free WiFi access throughout their stay. The apartments boast a tasteful design, featuring a wardrobe for personal belongings, a patio that opens up to serene garden views, and a fully equipped kitchen for those who delight in preparing their meals. The inclusion of an outdoor dining area adds a touch of elegance to al fresco meals, while the private bathroom with shower ensures privacy and comfort. To further enhance the guest experience, each unit comes with fresh bed linen and towels.
 
 Families visiting La Casa di Nonna will find the outdoor play equipment a delightful addition, ensuring that the little ones are entertained. For those keen on exploring the vibrant surroundings, the property offers the convenience of arranging car rental services, making it easy to embark on cycling and walking tours to discover the hidden gems of the area.
 

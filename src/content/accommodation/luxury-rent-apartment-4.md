@@ -1,4 +1,77 @@
----\ntitle: "Luxury Rent Apartment 4"\ndescription: "Luxury Rent Apartment 4 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498004827.jpg?k=60563f838550143cdba55043823f135ba473b89bc1a6936a7f7627d8fe24f489&o=&hp=1"\nlanguage: en\nslug: luxury-rent-apartment-4\naddress: "Rruga e Dibrës 9, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34029316\n  lng: 19.82931249\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1\nratings:\n  overall: 9.2\n  location: 10\n  cleanliness: 7.5\n  facilities: 10\n  value: 7.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498004827.jpg?k=60563f838550143cdba55043823f135ba473b89bc1a6936a7f7627d8fe24f489&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/498004763.jpg?k=993f2254001ec9f6020f0c28135604cda588b0105a574977780377643072d83f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/488228821.jpg?k=591611aa3e1a00e5d9a1632393eb4c4f4504d344ed6b76fd6a5baa4d76ac87d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228773.jpg?k=0f489e4730b13703637387bf456322d7241c39d70b884dbd52ea603545280064&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228809.jpg?k=293a8b8fd3379de3e5b4506b5dcff00c530f0b3e850f4d135e9abdb51f838d48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228813.jpg?k=7c73374021eb8d1199bcdff5fb559addd9e0e4cfcc6899222c07ec8e9ce09878&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228816.jpg?k=275c51f5388c91c9c792f1c69d7bad5c5597e4e9fb3b3e00439ff6c46cfecc50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228831.jpg?k=c7b712358826fb37fb080ea385d237db0e77343367f8dd66948d9573a4145ad5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.6 km"\n  - "National Gallery of Arts Tirana 1.7 km"\n  - "House of Leaves 1.9 km"\n  - "Rinia Park 2 km"\n  - "Former Residence of Enver Hoxha 2.4 km"\n  - "Bunk'Art 1 Museum 2.8 km"\n  - "Grand Park of Tirana 3.2 km"\nnearbyRestaurants:\n  - "Bon SE Sugar 50 m"\n  - "Bar Restorant Shoqeria 100 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 850 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"\n  - "Sheshi Rekreativ Allias 1 km"\n  - "Amazing Nature 1.1 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.4 km"\n  - "Sheshi Sulejman Pasha 1.4 km"\n  - "Tanners' Bridge 1.6 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "Sheshi Skënderbej 1.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/luxury-rent-apartment-4.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts a tastefully furnished bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom, ensuring a stay that combines luxury with the comforts of home. Entertainment needs are well catered to with the provision of a flat-screen TV, perfect for unwinding after a day of exploration. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
+---
+title: "Luxury Rent Apartment 4"
+description: "Luxury Rent Apartment 4 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498004827.jpg?k=60563f838550143cdba55043823f135ba473b89bc1a6936a7f7627d8fe24f489&o=&hp=1"
+language: en
+slug: luxury-rent-apartment-4
+address: "Rruga e Dibrës 9, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.34029316
+  lng: 19.82931249
+price: "US$52"
+priceFrom: 52
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 1
+ratings:
+  overall: 9.2
+  location: 10
+  cleanliness: 7.5
+  facilities: 10
+  value: 7.5
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498004827.jpg?k=60563f838550143cdba55043823f135ba473b89bc1a6936a7f7627d8fe24f489&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/498004763.jpg?k=993f2254001ec9f6020f0c28135604cda588b0105a574977780377643072d83f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/488228821.jpg?k=591611aa3e1a00e5d9a1632393eb4c4f4504d344ed6b76fd6a5baa4d76ac87d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228773.jpg?k=0f489e4730b13703637387bf456322d7241c39d70b884dbd52ea603545280064&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228809.jpg?k=293a8b8fd3379de3e5b4506b5dcff00c530f0b3e850f4d135e9abdb51f838d48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228813.jpg?k=7c73374021eb8d1199bcdff5fb559addd9e0e4cfcc6899222c07ec8e9ce09878&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228816.jpg?k=275c51f5388c91c9c792f1c69d7bad5c5597e4e9fb3b3e00439ff6c46cfecc50&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/488228831.jpg?k=c7b712358826fb37fb080ea385d237db0e77343367f8dd66948d9573a4145ad5&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.6 km"
+  - "National Gallery of Arts Tirana 1.7 km"
+  - "House of Leaves 1.9 km"
+  - "Rinia Park 2 km"
+  - "Former Residence of Enver Hoxha 2.4 km"
+  - "Bunk'Art 1 Museum 2.8 km"
+  - "Grand Park of Tirana 3.2 km"
+nearbyRestaurants:
+  - "Bon SE Sugar 50 m"
+  - "Bar Restorant Shoqeria 100 m"
+whatsNearby:
+  - "Sheshi Jjosef Shtraus 850 m"
+  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"
+  - "Sheshi Rekreativ Allias 1 km"
+  - "Amazing Nature 1.1 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.4 km"
+  - "Sheshi Sulejman Pasha 1.4 km"
+  - "Tanners' Bridge 1.6 km"
+  - "National Museum of History Albania 1.6 km"
+  - "Clock Tower Tirana 1.6 km"
+  - "Sheshi Skënderbej 1.6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+bookingURL: "https://www.booking.com/hotel/al/luxury-rent-apartment-4.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself boasts a tastefully furnished bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom, ensuring a stay that combines luxury with the comforts of home. Entertainment needs are well catered to with the provision of a flat-screen TV, perfect for unwinding after a day of exploration. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
 
 For guests interested in the arts and shopping, the proximity to the National Theatre of Opera and Ballet of Albania, National Museum of History Albania, and Toptani Shopping Centre adds layers of convenience and opportunity to the stay. With free WiFi enveloping the property, staying connected or planning the next day's adventures becomes effortless. For those traveling to or from Tirana International Mother Teresa Airport, the apartment is conveniently located just 14 kilometers away, making arrivals and departures as smooth as possible.
 

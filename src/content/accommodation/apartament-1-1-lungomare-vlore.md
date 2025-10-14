@@ -1,4 +1,65 @@
----\ntitle: "Apartament 1+1 Lungomare , Vlore"\ndescription: "Discover the charm of Vlorë with a stay at Apartament 1+1 Lungomare, a prime choice for travelers seeking comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051699.jpg?k=1bb85236e25a1b9d28567ea4610b235432234dcdae6ea8a857f2e8f12a73f81e&o=&hp=1"\nlanguage: en\nslug: apartament-1-1-lungomare-vlore\naddress: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43488564\n  lng: 19.49573594\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051699.jpg?k=1bb85236e25a1b9d28567ea4610b235432234dcdae6ea8a857f2e8f12a73f81e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051727.jpg?k=a4280503cc1c81d59e9a980e349bb3f9b5466f88ef09c22fa3cba4ed0f6a5f23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051730.jpg?k=55fba546e2c5ee63d0c4fb00bf8b12bc90e59452d2ca726187bd68a7d3370259&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051717.jpg?k=f6223c8174753e5841ec9edd573413290d124a9600d8682bcfadcae76bd8b558&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051738.jpg?k=54b368661a43f1136854c76be31a8f91e52286fa5c32fe8846c7a170fc8f01f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051725.jpg?k=2a97f6f3e15932d6b0c85269d093b1f6b9abede8337c7ef8ef613a283b9c79c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051718.jpg?k=09fbf0a223e6c97e17489afdc33c2ac5174b9cfed6c8cff9acccfdbd75eeaf93&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051722.jpg?k=fb95468994feb970138ee42dc730d676a8fe00ce32d414f169fceaf6ccedf54b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051734.jpg?k=661b570c5179223e0b99f5c0e07fb5c97d4ab623d205074fbc5a0bd520691b9b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ohana 50 m"\n  - "Restorant Picaresco 100 m"\nnearbyBeaches:\n  - "Ri Beach 100 m"\n  - "Vlore Beach 850 m"\n  - "Beach at Government Villas 1.8 km"\n  - "Vjetër Beach 2.3 km"\n  - "Liro Beach 2.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 150 m"\n  - "Kuzum Baba 3.6 km"\n  - "Independence Square 4 km"\nbookingURL: "https://www.booking.com/hotel/al/apartament-1-1-lungomare-vlore-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting a strategic location, the property is a short distance from the city's historical heart, with Kuzum Baba and Independence Square located approximately 4 kilometers away, making it an ideal base for exploring the rich cultural tapestry of Vlorë. 
+---
+title: "Apartament 1+1 Lungomare , Vlore"
+description: "Discover the charm of Vlorë with a stay at Apartament 1+1 Lungomare, a prime choice for travelers seeking comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051699.jpg?k=1bb85236e25a1b9d28567ea4610b235432234dcdae6ea8a857f2e8f12a73f81e&o=&hp=1"
+language: en
+slug: apartament-1-1-lungomare-vlore
+address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.43488564
+  lng: 19.49573594
+price: "US$75"
+priceFrom: 75
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051699.jpg?k=1bb85236e25a1b9d28567ea4610b235432234dcdae6ea8a857f2e8f12a73f81e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051727.jpg?k=a4280503cc1c81d59e9a980e349bb3f9b5466f88ef09c22fa3cba4ed0f6a5f23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051730.jpg?k=55fba546e2c5ee63d0c4fb00bf8b12bc90e59452d2ca726187bd68a7d3370259&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051717.jpg?k=f6223c8174753e5841ec9edd573413290d124a9600d8682bcfadcae76bd8b558&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051738.jpg?k=54b368661a43f1136854c76be31a8f91e52286fa5c32fe8846c7a170fc8f01f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051725.jpg?k=2a97f6f3e15932d6b0c85269d093b1f6b9abede8337c7ef8ef613a283b9c79c8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051718.jpg?k=09fbf0a223e6c97e17489afdc33c2ac5174b9cfed6c8cff9acccfdbd75eeaf93&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051722.jpg?k=fb95468994feb970138ee42dc730d676a8fe00ce32d414f169fceaf6ccedf54b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051734.jpg?k=661b570c5179223e0b99f5c0e07fb5c97d4ab623d205074fbc5a0bd520691b9b&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Ohana 50 m"
+  - "Restorant Picaresco 100 m"
+nearbyBeaches:
+  - "Ri Beach 100 m"
+  - "Vlore Beach 850 m"
+  - "Beach at Government Villas 1.8 km"
+  - "Vjetër Beach 2.3 km"
+  - "Liro Beach 2.6 km"
+whatsNearby:
+  - "Scooby Doo Vlore 150 m"
+  - "Kuzum Baba 3.6 km"
+  - "Independence Square 4 km"
+bookingURL: "https://www.booking.com/hotel/al/apartament-1-1-lungomare-vlore-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Boasting a strategic location, the property is a short distance from the city's historical heart, with Kuzum Baba and Independence Square located approximately 4 kilometers away, making it an ideal base for exploring the rich cultural tapestry of Vlorë. 
 
 Guests can enjoy the ease of connectivity with free WiFi available throughout the premises, ensuring that staying in touch or planning the next day's adventures is hassle-free. The apartment itself is a haven of comfort, featuring a single bedroom, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Entertainment needs are also well catered for with a flat-screen TV provided for guests' enjoyment.
 

@@ -8,7 +8,6 @@ seo:
   canonicalURL: https://albaniavisit.com/terms-conditions/
   focusKeyword: "terms & conditions"
   metaTitle: "Read our %title% %sep% %sitename%"
-  focusKeyword: "terms & conditions"
 ---
 
 # Terms & Conditions

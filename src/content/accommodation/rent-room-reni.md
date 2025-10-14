@@ -1,4 +1,60 @@
----\ntitle: "RENT ROOM -RENI -"\ndescription: "RENT ROOM -RENI- stands out as a prime choice for travelers seeking comfortable, air-conditioned accommodations in Librazhd, complete with a terrace for relaxation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424025.jpg?k=2198c21a7b68cdd52dfde4c03c2d66f6269392ad38912fbb5330e966ccf3317e&o=&hp=1"\nlanguage: en\nslug: rent-room-reni\naddress: "Rruga Unaza, 3401 Librazhd, Albania"\ncity: "Librazhd"\nlocation: "Librazhd"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.17772085\n  lng: 20.31424795\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424025.jpg?k=2198c21a7b68cdd52dfde4c03c2d66f6269392ad38912fbb5330e966ccf3317e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520432762.jpg?k=0188b4b592cbacbaa74e9360e5b639344133d78e78523660046008f46fd015b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424029.jpg?k=986ef4214718b0db3c71e77d2b8ca94d24192c56f29f2256c8d4a1c5dfe111d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424052.jpg?k=8ad3a102289ee7656fe893b7c9c763360f7b64ecf9f2962928c9c0cb035719ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520427330.jpg?k=34d68dc9b4d23e95de38c8c9a78eb5c0caac58cc59913c6fa925a1f1e12a4bac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424046.jpg?k=2e3735d57e2af9e102ead1443bd43c28dee1d78ef77704fbc428b1df18eba8bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424041.jpg?k=9620bccea80a459ffc36a60d7b9e4381290deba6314c187b7c8e4e12fbe37688&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520423989.jpg?k=953a8ac44b1c0f07e0914578a4dff7dde680cbba791cf5f0fae3660eebbed61e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424034.jpg?k=19a3d02af953973b91536aa0d1d6741f5857da5a943f88a39098e8d2db132273&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room"\nnearbyRestaurants:\n  - "Restorant Moglica 50 m"\n  - "Restorant Xhejsi 450 m"\nwhatsNearby:\n  - "Parku I Bleteve Kokreve 200 m"\nairports:\n  - "Ohrid Airport 35 km"\n  - "Tirana International Airport Mother Teresa 55 km"\nbookingURL: "https://www.booking.com/hotel/al/rent-room-reni.en-gb.html?aid=8035640"\nbestFor: "Best for Hiking Trail Proximity"\nbestCategories: "Hiking Trail Proximity"\ncategory: "Hiking Trail Proximity"\n---\n\nConnectivity is seamless throughout the premises, thanks to complimentary WiFi, making it easy for guests to stay in touch with loved ones or manage work commitments. For those concerned about health and wellness, the property is entirely non-smoking and even features a public bath for a refreshing experience.
+---
+title: "RENT ROOM -RENI -"
+description: "RENT ROOM -RENI- stands out as a prime choice for travelers seeking comfortable, air-conditioned accommodations in Librazhd, complete with a terrace for relaxation."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424025.jpg?k=2198c21a7b68cdd52dfde4c03c2d66f6269392ad38912fbb5330e966ccf3317e&o=&hp=1"
+language: en
+slug: rent-room-reni
+address: "Rruga Unaza, 3401 Librazhd, Albania"
+city: "Librazhd"
+location: "Librazhd"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.17772085
+  lng: 20.31424795
+price: "US$26"
+priceFrom: 26
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424025.jpg?k=2198c21a7b68cdd52dfde4c03c2d66f6269392ad38912fbb5330e966ccf3317e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520432762.jpg?k=0188b4b592cbacbaa74e9360e5b639344133d78e78523660046008f46fd015b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424029.jpg?k=986ef4214718b0db3c71e77d2b8ca94d24192c56f29f2256c8d4a1c5dfe111d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424052.jpg?k=8ad3a102289ee7656fe893b7c9c763360f7b64ecf9f2962928c9c0cb035719ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520427330.jpg?k=34d68dc9b4d23e95de38c8c9a78eb5c0caac58cc59913c6fa925a1f1e12a4bac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424046.jpg?k=2e3735d57e2af9e102ead1443bd43c28dee1d78ef77704fbc428b1df18eba8bb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424041.jpg?k=9620bccea80a459ffc36a60d7b9e4381290deba6314c187b7c8e4e12fbe37688&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520423989.jpg?k=953a8ac44b1c0f07e0914578a4dff7dde680cbba791cf5f0fae3660eebbed61e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424034.jpg?k=19a3d02af953973b91536aa0d1d6741f5857da5a943f88a39098e8d2db132273&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+roomTypes:
+  - "Double Room"
+nearbyRestaurants:
+  - "Restorant Moglica 50 m"
+  - "Restorant Xhejsi 450 m"
+whatsNearby:
+  - "Parku I Bleteve Kokreve 200 m"
+airports:
+  - "Ohrid Airport 35 km"
+  - "Tirana International Airport Mother Teresa 55 km"
+bookingURL: "https://www.booking.com/hotel/al/rent-room-reni.en-gb.html?aid=8035640"
+bestFor: "Best for Hiking Trail Proximity"
+bestCategories: "Hiking Trail Proximity"
+category: "Hiking Trail Proximity"
+---
+
+Connectivity is seamless throughout the premises, thanks to complimentary WiFi, making it easy for guests to stay in touch with loved ones or manage work commitments. For those concerned about health and wellness, the property is entirely non-smoking and even features a public bath for a refreshing experience.
 
 Entertainment and convenience are not overlooked, with a flat-screen TV available for guest use. Additionally, a laundry service adds to the convenience, ensuring that guests can easily manage their wardrobe needs during their stay.
 

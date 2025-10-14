@@ -1,7 +1,78 @@
----\ntitle: "Home Shkodra Center"\ndescription: "Home Shkodra Center emerges as a serene oasis in the heart of Shkodër, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672830.jpg?k=dc2d77fba7c2c376658b5559fe1d9462a61073407632c41a38422891aa340052&o=&hp=1"\nlanguage: en\nslug: home-shkodra-center\naddress: "Rruga Jezuitëve, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06520848\n  lng: 19.51540275\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.8\n  location: 9.7\n  cleanliness: 10\n  facilities: 10\n  value: 9.4\n  comfort: 10\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672830.jpg?k=dc2d77fba7c2c376658b5559fe1d9462a61073407632c41a38422891aa340052&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563439.jpg?k=63e708ee4a5dea87f7aeb0cc7d9d838e66ff37ffe696ceeb5557c8be4e09a47c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563424.jpg?k=3f8fe156cb229769dfff465be94f5b707bcf29c5905b0d094916db5f81a358ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563429.jpg?k=eef3dfe4acbb4240a620cf4a1c2b1440b75a54adda2d7e20f1d3af109bfa0c48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563433.jpg?k=64eb753d785e9b49a8852397e4f0b7347c5d7fb80d1a61a611b2338c539bdf68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672829.jpg?k=474d0cca6e1e1cd9e4db0b7935e5d31820d7c52060fd81fc71d759473921b91b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563435.jpg?k=e983ab5e392f3709deb1595ca776b64a24e681c4f2dbb9699d0fcfc75fa78602&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563427.jpg?k=8cd1b4314f2cace45f795bb169e4e66685d63777ae5b5af5c75d9e50467dcd07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672826.jpg?k=30b900e870f49b0558cef8c7fdaf18baed3e313e675f6515d8c277db0c943e68&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "LIVERPOOL 30 m"\n  - "Millenium 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.7 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nreviews:\n  - name: "Leo"\n    country: "Albania"\n    text: "“Great place, with great location. Everything is clean and it is a very cozy place that can fit 2 families really comfortably. Definitely will come back😁”"\n  - name: "Nataliia"\n    country: "Ukraine"\n    text: "“Location is perfect, it's the center of the city but because of a separate entrance and the yard you feel like in a private house. We were 2 families, 6 people total with kids and there were quite enough sleeping places. Beds are nice and comfy,...”"\n  - name: "Roby4i"\n    country: "Italy"\n    text: "“The location, practically in the center.
+---
+title: "Home Shkodra Center"
+description: "Home Shkodra Center emerges as a serene oasis in the heart of Shkodër, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672830.jpg?k=dc2d77fba7c2c376658b5559fe1d9462a61073407632c41a38422891aa340052&o=&hp=1"
+language: en
+slug: home-shkodra-center
+address: "Rruga Jezuitëve, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.06520848
+  lng: 19.51540275
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 9
+ratings:
+  overall: 9.8
+  location: 9.7
+  cleanliness: 10
+  facilities: 10
+  value: 9.4
+  comfort: 10
+  staff: 9.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672830.jpg?k=dc2d77fba7c2c376658b5559fe1d9462a61073407632c41a38422891aa340052&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563439.jpg?k=63e708ee4a5dea87f7aeb0cc7d9d838e66ff37ffe696ceeb5557c8be4e09a47c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563424.jpg?k=3f8fe156cb229769dfff465be94f5b707bcf29c5905b0d094916db5f81a358ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563429.jpg?k=eef3dfe4acbb4240a620cf4a1c2b1440b75a54adda2d7e20f1d3af109bfa0c48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563433.jpg?k=64eb753d785e9b49a8852397e4f0b7347c5d7fb80d1a61a611b2338c539bdf68&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672829.jpg?k=474d0cca6e1e1cd9e4db0b7935e5d31820d7c52060fd81fc71d759473921b91b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563435.jpg?k=e983ab5e392f3709deb1595ca776b64a24e681c4f2dbb9699d0fcfc75fa78602&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465563427.jpg?k=8cd1b4314f2cace45f795bb169e4e66685d63777ae5b5af5c75d9e50467dcd07&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672826.jpg?k=30b900e870f49b0558cef8c7fdaf18baed3e313e675f6515d8c277db0c943e68&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "LIVERPOOL 30 m"
+  - "Millenium 50 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.7 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+  - "Tivat Airport 74 km"
+reviews:
+  - name: "Leo"
+    country: "Albania"
+    text: "“Great place, with great location. Everything is clean and it is a very cozy place that can fit 2 families really comfortably. Definitely will come back😁”"
+  - name: "Nataliia"
+    country: "Ukraine"
+    text: "“Location is perfect, it's the center of the city but because of a separate entrance and the yard you feel like in a private house. We were 2 families, 6 people total with kids and there were quite enough sleeping places. Beds are nice and comfy,...”"
+  - name: "Roby4i"
+    country: "Italy"
+    text: "“The location, practically in the center.
 An apartment all to ourselves, made us put the motorbike inside, which is important for us bikers.
 The guy was very kind and helpful. He was very friendly.
-Clean apartment with furniture not recent but...”"\nbookingURL: "https://www.booking.com/hotel/al/home-shkodra-center.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment itself is a testament to spacious living and modern amenities. With two well-appointed bedrooms, it caters to families and groups looking for a cozy retreat. Entertainment is readily available through a flat-screen TV equipped with streaming services, perfect for winding down after a day of exploration. The kitchen leaves nothing to be desired, boasting an oven, microwave, washing machine, and fridge, empowering guests to prepare home-cooked meals if they choose.
+Clean apartment with furniture not recent but...”"
+bookingURL: "https://www.booking.com/hotel/al/home-shkodra-center.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+The apartment itself is a testament to spacious living and modern amenities. With two well-appointed bedrooms, it caters to families and groups looking for a cozy retreat. Entertainment is readily available through a flat-screen TV equipped with streaming services, perfect for winding down after a day of exploration. The kitchen leaves nothing to be desired, boasting an oven, microwave, washing machine, and fridge, empowering guests to prepare home-cooked meals if they choose.
 
 One of the highlights of Home Shkodra Center is the outdoor dining area, which allows guests to savor their meals amidst the tranquil backdrop of the garden. This feature adds a layer of charm to the property, inviting guests to relax and connect with nature.
 

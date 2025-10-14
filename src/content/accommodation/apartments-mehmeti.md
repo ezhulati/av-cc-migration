@@ -1,6 +1,77 @@
----\ntitle: "Apartments Mehmeti"\ndescription: "Apartments Mehmeti emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305187245.jpg?k=8348d28a0e776052d9d7a650da941d4d5c6073dfeff097bbd7980e3a951e8da4&o=&hp=1"\nlanguage: en\nslug: apartments-mehmeti\naddress: "Rruga Leka Gjiknuri 116, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44840878\n  lng: 19.49614048\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 51\nratings:\n  overall: 9.3\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.4\n  comfort: 8.8\n  staff: 9.9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305187245.jpg?k=8348d28a0e776052d9d7a650da941d4d5c6073dfeff097bbd7980e3a951e8da4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305303561.jpg?k=356243950fea200950f6c2d9c3e377c350f04abf3d2858270609957d33ad889c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305303658.jpg?k=67c88a1b20e83e44eeabf9d52a9a3bca841dbc5b9b06d9c7f9c85dd563748bf0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305189848.jpg?k=95bd0a4b0291d53d66889429af3f115163ba07db6556074e008a586b1c3497c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305300931.jpg?k=a932ae5c5fd5f755d7dad4efaeea9fdd90aaa6bc93573d4f55a5f492ad7f5584&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305300887.jpg?k=23fdbf7b1d2d296d9b7932bcaed4e3d6a76a85803806b0fd27114b5f0df436ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305304050.jpg?k=30bef66e0ece32eba8328ad4ae42ef113a4f19b0497394b6e69fd94445850d81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305303593.jpg?k=ff63dd7031236481ae6593c7af83761fdca8a6fcf53b1662fab64ca50b36a9e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305428656.jpg?k=8c2cb8c85d8e045adc7910542119c34084c3b00e5c48749d76a2cf358a17dcd3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Tradicional Zgara 200 m"\n  - "Restorant Xhokla 200 m"\nnearbyBeaches:\n  - "Vlore Beach 250 m"\n  - "Vjetër Beach 1.3 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.3 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nreviews:\n  - name: "Zsolt"\n    country: "Hungary"\n    text: "“We booked 2 rooms. The rooms were clean. The furniture is same as in the pictures.
+---
+title: "Apartments Mehmeti"
+description: "Apartments Mehmeti emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305187245.jpg?k=8348d28a0e776052d9d7a650da941d4d5c6073dfeff097bbd7980e3a951e8da4&o=&hp=1"
+language: en
+slug: apartments-mehmeti
+address: "Rruga Leka Gjiknuri 116, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44840878
+  lng: 19.49614048
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 51
+ratings:
+  overall: 9.3
+  location: 9.5
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9.4
+  comfort: 8.8
+  staff: 9.9
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305187245.jpg?k=8348d28a0e776052d9d7a650da941d4d5c6073dfeff097bbd7980e3a951e8da4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305303561.jpg?k=356243950fea200950f6c2d9c3e377c350f04abf3d2858270609957d33ad889c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305303658.jpg?k=67c88a1b20e83e44eeabf9d52a9a3bca841dbc5b9b06d9c7f9c85dd563748bf0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305189848.jpg?k=95bd0a4b0291d53d66889429af3f115163ba07db6556074e008a586b1c3497c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305300931.jpg?k=a932ae5c5fd5f755d7dad4efaeea9fdd90aaa6bc93573d4f55a5f492ad7f5584&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305300887.jpg?k=23fdbf7b1d2d296d9b7932bcaed4e3d6a76a85803806b0fd27114b5f0df436ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305304050.jpg?k=30bef66e0ece32eba8328ad4ae42ef113a4f19b0497394b6e69fd94445850d81&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305303593.jpg?k=ff63dd7031236481ae6593c7af83761fdca8a6fcf53b1662fab64ca50b36a9e5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305428656.jpg?k=8c2cb8c85d8e045adc7910542119c34084c3b00e5c48749d76a2cf358a17dcd3&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Tradicional Zgara 200 m"
+  - "Restorant Xhokla 200 m"
+nearbyBeaches:
+  - "Vlore Beach 250 m"
+  - "Vjetër Beach 1.3 km"
+  - "Ri Beach 1.4 km"
+  - "Beach at Government Villas 3.2 km"
+  - "Liro Beach 3.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.3 km"
+  - "Kuzum Baba 2.1 km"
+  - "Independence Square 2.5 km"
+reviews:
+  - name: "Zsolt"
+    country: "Hungary"
+    text: "“We booked 2 rooms. The rooms were clean. The furniture is same as in the pictures.
 The aparment is near to beach and city center.
-Very nice owner; welcome drink, welcome fruit......”"\n  - name: "Andrei"\n    country: "Romania"\n    text: "“Close to the Riviera Vlore, restaurants and supermarket.”"\n  - name: "Joanna"\n    country: "Poland"\n    text: "“Obiekt blisko plaży, restauracji. Właściciele bardzo mili , częstowali nas owocami dopytywali o wrażenia, podpowiadali co zwiedzić. zal było odjeżdżać. Super pobyt. Dziękuję bardzo za gościnność Frida”"\nbookingURL: "https://www.booking.com/hotel/al/apartments-mehmeti.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach unit at Apartments Mehmeti is designed to offer a home-away-from-home experience, featuring a cozy seating area, a washing machine, and a fully equipped kitchen complete with an oven. The attention to detail is evident in the private bathrooms, which are stocked with plush bathrobes and complimentary toiletries, ensuring a comfortable stay. Adding to the charm, guests can enjoy the fresh air and garden views from their own terrace, equipped with an outdoor dining area, perfect for those tranquil mornings or peaceful evenings.
+Very nice owner; welcome drink, welcome fruit......”"
+  - name: "Andrei"
+    country: "Romania"
+    text: "“Close to the Riviera Vlore, restaurants and supermarket.”"
+  - name: "Joanna"
+    country: "Poland"
+    text: "“Obiekt blisko plaży, restauracji. Właściciele bardzo mili , częstowali nas owocami dopytywali o wrażenia, podpowiadali co zwiedzić. zal było odjeżdżać. Super pobyt. Dziękuję bardzo za gościnność Frida”"
+bookingURL: "https://www.booking.com/hotel/al/apartments-mehmeti.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each unit at Apartments Mehmeti is designed to offer a home-away-from-home experience, featuring a cozy seating area, a washing machine, and a fully equipped kitchen complete with an oven. The attention to detail is evident in the private bathrooms, which are stocked with plush bathrobes and complimentary toiletries, ensuring a comfortable stay. Adding to the charm, guests can enjoy the fresh air and garden views from their own terrace, equipped with an outdoor dining area, perfect for those tranquil mornings or peaceful evenings.
 
 The property doesn't just offer a place to stay; it invites guests to unwind in its lush garden, creating a serene retreat from the hustle and bustle of daily life. For those looking to explore, Ri Beach and Vjetër Beach are conveniently located within 1.7 km and 1.9 km respectively, offering easy access to some of the area's most beautiful coastlines. For international travelers, Tirana International Mother Teresa Airport is 152 km away, making Apartments Mehmeti an accessible haven for both local and global visitors.
 

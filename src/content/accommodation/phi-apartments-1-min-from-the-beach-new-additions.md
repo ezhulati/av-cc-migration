@@ -1,4 +1,93 @@
----\ntitle: "Phi Apartments 1 min from the beach - New Additions"\ndescription: "Phi Apartments, located merely a minute's walk from the beach, emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\nlanguage: en\nslug: phi-apartments-1-min-from-the-beach-new-additions\naddress: "Shkëmbi i Kavajës, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26768394\n  lng: 19.52067386\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 304\nratings:\n  overall: 9.4\n  location: 9.3\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.6\n  comfort: 9.5\n  staff: 9.9\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"\n  - "https://cf.bstatic.com/static/img/flags/12/us/773915f00a1da98cfe003f9e7bf29d8b3905dd22.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"\n  - "https://cf.bstatic.com/static/img/flags/12/hu/23236feab5833cd09ce5c8048a125ec301a1fbe6.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ro/f7031adfc6a577ffae9cdbb9e0c67aaead71dbdb.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ro/f7031adfc6a577ffae9cdbb9e0c67aaead71dbdb.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Grill & Pizza Peja 100 m"\n  - "Anxhelson 300 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 200 m"\n  - "Golem Beach 300 m"\n  - "Mali I Robit Beach 2.2 km"\n  - "Durres Beach 2.2 km"\n  - "Qerret Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "Diners Club"\nreviews:\n  - name: "Chandra"\n    country: "United States"\n    text: "“Beach is very close by via a shady footpath. There are markets within walking distance so no cab rides to get food and other essentials for the home. Building is modern with extremely fast wifi. I look forward to my next opportunity to visit.”"\n  - name: "Tove"\n    country: "United Kingdom"\n    text: "“This is a fantastic apartment - modern, spotless and very close to the beach. There are also plenty of restaurants and cafes in the neighbourhood. But what makes it so special is Ilva's outstanding level of service, attention and care for her...”"\n  - name: "Toluwani"\n    country: "United Kingdom"\n    text: "“Very clean, exactly as described. Good value for money. Whenever I’m In kavaje, I’m definitely staying here.”"\nbookingURL: "https://www.booking.com/hotel/al/phi-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property prides itself on offering air-conditioned guest accommodations that are not only spacious but also meticulously designed to meet the needs of the modern traveler. Each unit boasts tiled floors, a fully equipped kitchen with a microwave, a cozy dining area, and a flat-screen TV with cable channels for those moments of relaxation. The private bathrooms come with a walk-in shower and a hairdryer, ensuring guests feel at home. For added convenience, all units are equipped with a kettle, and select rooms feature a balcony or offer breathtaking mountain views, adding an extra layer of serenity to the stay.
+---
+title: "Phi Apartments 1 min from the beach - New Additions"
+description: "Phi Apartments, located merely a minute's walk from the beach, emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+language: en
+slug: phi-apartments-1-min-from-the-beach-new-additions
+address: "Shkëmbi i Kavajës, Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.26768394
+  lng: 19.52067386
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 304
+ratings:
+  overall: 9.4
+  location: 9.3
+  cleanliness: 9.6
+  facilities: 9.2
+  value: 9.6
+  comfort: 9.5
+  staff: 9.9
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+  - "https://cf.bstatic.com/static/img/flags/12/us/773915f00a1da98cfe003f9e7bf29d8b3905dd22.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+  - "https://cf.bstatic.com/static/img/flags/12/hu/23236feab5833cd09ce5c8048a125ec301a1fbe6.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/ro/f7031adfc6a577ffae9cdbb9e0c67aaead71dbdb.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
+  - "https://cf.bstatic.com/static/img/flags/12/ro/f7031adfc6a577ffae9cdbb9e0c67aaead71dbdb.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Grill & Pizza Peja 100 m"
+  - "Anxhelson 300 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 200 m"
+  - "Golem Beach 300 m"
+  - "Mali I Robit Beach 2.2 km"
+  - "Durres Beach 2.2 km"
+  - "Qerret Beach 4.2 km"
+whatsNearby:
+  - "Bekimi 8 km"
+  - "Durres Amphiteatre 8 km"
+  - "Wine Dhe Pooh 8 km"
+  - "1. Maj 8 km"
+  - "Yje Dhe Hena 8 km"
+  - "Sheshi Demokracia 8 km"
+  - "Sotir Noka 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "Diners Club"
+reviews:
+  - name: "Chandra"
+    country: "United States"
+    text: "“Beach is very close by via a shady footpath. There are markets within walking distance so no cab rides to get food and other essentials for the home. Building is modern with extremely fast wifi. I look forward to my next opportunity to visit.”"
+  - name: "Tove"
+    country: "United Kingdom"
+    text: "“This is a fantastic apartment - modern, spotless and very close to the beach. There are also plenty of restaurants and cafes in the neighbourhood. But what makes it so special is Ilva's outstanding level of service, attention and care for her...”"
+  - name: "Toluwani"
+    country: "United Kingdom"
+    text: "“Very clean, exactly as described. Good value for money. Whenever I’m In kavaje, I’m definitely staying here.”"
+bookingURL: "https://www.booking.com/hotel/al/phi-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property prides itself on offering air-conditioned guest accommodations that are not only spacious but also meticulously designed to meet the needs of the modern traveler. Each unit boasts tiled floors, a fully equipped kitchen with a microwave, a cozy dining area, and a flat-screen TV with cable channels for those moments of relaxation. The private bathrooms come with a walk-in shower and a hairdryer, ensuring guests feel at home. For added convenience, all units are equipped with a kettle, and select rooms feature a balcony or offer breathtaking mountain views, adding an extra layer of serenity to the stay.
 
 Phi Apartments doesn't stop at providing comfortable living spaces. The property is equipped with an elevator and offers full-day security, alongside complimentary WiFi throughout the premises, catering to the needs of guests who value both safety and connectivity. For those with specific needs, allergy-free units are available, ensuring a comfortable stay for every guest.
 

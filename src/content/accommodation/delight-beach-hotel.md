@@ -1,4 +1,78 @@
----\ntitle: "Delight Beach Hotel"\ndescription: "Delight Beach Hotel emerges as a serene oasis in Dhërmi, just a stone's throw away from the pristine Palasa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128511.jpg?k=5a64f0e18128559c630538d2b5b25c3749cc7b8d9eb612ba5d20969ef3129ef7&o=&hp=1"\nlanguage: en\nslug: delight-beach-hotel\naddress: "Plazhi Drimadhes, 9422 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.15511237\n  lng: 19.61101125\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 59\nratings:\n  overall: 7.1\n  location: 8.4\n  cleanliness: 6.8\n  facilities: 6.8\n  value: 6.4\n  comfort: 6.9\n  staff: 7.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128511.jpg?k=5a64f0e18128559c630538d2b5b25c3749cc7b8d9eb612ba5d20969ef3129ef7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128576.jpg?k=7304a57747384fc9147096b7fbcc845dbca42bb32c594b8a29e9e0aacf3bdee4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128496.jpg?k=cd6d0f841cfee26219c7592081fe09983dea45fe2660fe47a5bc453972f8e999&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093491.jpg?k=e8b86589e317895ee051c65c91ee23ec06535a9f2bb2aa1a0cb2fcc0542cd205&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128611.jpg?k=2cac016ab40fbacac357fe704c2b9591c3838d152241a4e1ddc0c065db8cda23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128621.jpg?k=e9ad89be76a0e00c4e8887822e109cca50ac6a127eb544c2126e0c07651d85a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128557.jpg?k=85dfb4726f747725228dbe969e073ba5e3a37b0bf9e4f9f9ea162e92504d5e82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093432.jpg?k=5aeab0bf9ff9d558cb2b50a399d3b6ce9c32be27393060737a53a49c0424eba7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093489.jpg?k=869d10bd27f2571234bb8d2e2b509b9d9809b8fdeead80121f2280a8e3fd0611&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153788651.jpg?k=97bd6ad42d50ca6e1349b4473bd652312eb985e53102c6243ff48ced2526ee25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093473.jpg?k=6df0f924093f4bec0acdbb4b2a41c0bc9a62d2ffdf87c905c0d99f63d222e498&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128542.jpg?k=671e4d0aa876788b7bb7468342f8d0af8b14edcdfa58d4946344b31315940817&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Taverna te Nebiu 20 m"\n  - "Tëdudhektu 20 m"\nnearbyBeaches:\n  - "Palasa Beach 10 m"\n  - "Nazar Beach 2.1 km"\n  - "Dhermi Beach 2.3 km"\n  - "Gjipe Beach 6 km"\n  - "Beach Me Shpella 7 km"\nwhatsNearby:\n  - "Llogora National Park 4.5 km"\nairports:\n  - "Corfu International Airport 65 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/delight-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Delight Beach Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with modern essentials such as a desk, a flat-screen TV, and complimentary WiFi, ensuring a stay that combines relaxation with connectivity. The attention to detail extends to the provision of bed linen and towels in the private bathrooms, enhancing the home-away-from-home experience.
+---
+title: "Delight Beach Hotel"
+description: "Delight Beach Hotel emerges as a serene oasis in Dhërmi, just a stone's throw away from the pristine Palasa Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128511.jpg?k=5a64f0e18128559c630538d2b5b25c3749cc7b8d9eb612ba5d20969ef3129ef7&o=&hp=1"
+language: en
+slug: delight-beach-hotel
+address: "Plazhi Drimadhes, 9422 Dhërmi, Albania"
+city: "Dhërmi"
+location: "Dhërmi"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.15511237
+  lng: 19.61101125
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.1
+ratingWords: "Good"
+numberOfReviews: 59
+ratings:
+  overall: 7.1
+  location: 8.4
+  cleanliness: 6.8
+  facilities: 6.8
+  value: 6.4
+  comfort: 6.9
+  staff: 7.1
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128511.jpg?k=5a64f0e18128559c630538d2b5b25c3749cc7b8d9eb612ba5d20969ef3129ef7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128576.jpg?k=7304a57747384fc9147096b7fbcc845dbca42bb32c594b8a29e9e0aacf3bdee4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128496.jpg?k=cd6d0f841cfee26219c7592081fe09983dea45fe2660fe47a5bc453972f8e999&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093491.jpg?k=e8b86589e317895ee051c65c91ee23ec06535a9f2bb2aa1a0cb2fcc0542cd205&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128611.jpg?k=2cac016ab40fbacac357fe704c2b9591c3838d152241a4e1ddc0c065db8cda23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128621.jpg?k=e9ad89be76a0e00c4e8887822e109cca50ac6a127eb544c2126e0c07651d85a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128557.jpg?k=85dfb4726f747725228dbe969e073ba5e3a37b0bf9e4f9f9ea162e92504d5e82&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093432.jpg?k=5aeab0bf9ff9d558cb2b50a399d3b6ce9c32be27393060737a53a49c0424eba7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093489.jpg?k=869d10bd27f2571234bb8d2e2b509b9d9809b8fdeead80121f2280a8e3fd0611&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153788651.jpg?k=97bd6ad42d50ca6e1349b4473bd652312eb985e53102c6243ff48ced2526ee25&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470093473.jpg?k=6df0f924093f4bec0acdbb4b2a41c0bc9a62d2ffdf87c905c0d99f63d222e498&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128542.jpg?k=671e4d0aa876788b7bb7468342f8d0af8b14edcdfa58d4946344b31315940817&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Taverna te Nebiu 20 m"
+  - "Tëdudhektu 20 m"
+nearbyBeaches:
+  - "Palasa Beach 10 m"
+  - "Nazar Beach 2.1 km"
+  - "Dhermi Beach 2.3 km"
+  - "Gjipe Beach 6 km"
+  - "Beach Me Shpella 7 km"
+whatsNearby:
+  - "Llogora National Park 4.5 km"
+airports:
+  - "Corfu International Airport 65 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/delight-beach.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Delight Beach Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with modern essentials such as a desk, a flat-screen TV, and complimentary WiFi, ensuring a stay that combines relaxation with connectivity. The attention to detail extends to the provision of bed linen and towels in the private bathrooms, enhancing the home-away-from-home experience.
 
 For those seeking views that captivate, select rooms offer breathtaking sea vistas, complemented by the charm of a private balcony. The convenience of in-room refrigerators adds a touch of home, allowing guests to keep refreshments cool and close at hand.
 

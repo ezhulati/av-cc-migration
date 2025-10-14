@@ -1,4 +1,84 @@
----\ntitle: "Your home in Tirana"\ndescription: "Discover the charm of Tirana with a stay at \"Your Home in Tirana,\" a recently updated property that offers a seamless blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439795223.jpg?k=efd2e213a5e775eb3b7d03673394ef6f78e4e6a56dcfeb6a7391fa6201c78ee6&o=&hp=1"\nlanguage: en\nslug: your-home-in-tirana\naddress: "Rruga Myslym Shyri 44 Ap15, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32613801\n  lng: 19.81514012\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 13\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439795223.jpg?k=efd2e213a5e775eb3b7d03673394ef6f78e4e6a56dcfeb6a7391fa6201c78ee6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517625459.jpg?k=f0a9642e43e0f1c016d57454fc0d0223c1641d428ff8a8e37c1326b4acb11153&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439795817.jpg?k=6948c20bfe7dc2e04446aa2292a55836ecdbe8381cb87baad306847ab7bcd7b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407800622.jpg?k=47dd687f9f5ba224b0553bc3c979f35db7084d1eddf76891d09ed00bc1323f32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407800555.jpg?k=15f7a9e424449ec63685c362acb6becb6daba46cf5ad8333f20ecbddc912acc7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408898277.jpg?k=5f886b7af44030f6881437f7173b2c2a9f119333eeae76ce80a0538be8f27296&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439796293.jpg?k=1a463d6e75cebf1cc1050a40768f422d2bffe9c9cc175be543d59dff1d8a4175&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407800597.jpg?k=00c471249788848e3ede6224ebb037f33f897dc1f590b58ea307628ce64f93d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523550841.jpg?k=35d6621d59bf7deeb05d6868efb700cca5b1580db9f947d1fa644fc81561633e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 600 m"\n  - "Tanners' Bridge 900 m"\n  - "Grand Park of Tirana 1.8 km"\n  - "Bunk'Art 1 Museum 4.6 km"\nnearbyRestaurants:\n  - "Sardi 50 m"\n  - "Posta 50 m"\nwhatsNearby:\n  - "House of Leaves 150 m"\n  - "Rinia Park 300 m"\n  - "Parku Rinia 350 m"\n  - "Sheshi Skënderbej 350 m"\n  - "Sheshi Paris 350 m"\n  - "Parku Europa 350 m"\n  - "Skanderbeg Square 400 m"\n  - "National Museum of History Albania 400 m"\n  - "Clock Tower Tirana 400 m"\n  - "National Gallery of Arts Tirana 450 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Carlo"\n    country: "Italy"\n    text: "“The house is very nice, close to the center, and Elvis is one of the best host ever!”"\n  - name: "Simon"\n    country: "Belgium"\n    text: "“Beautiful and roomy apartment in the very center of Tirana. We had everything we needed and you can find coffee shops, grocery stores, bakeries and a bistro around the apartment. Nevertheless the apartment is quited and located in a calm place....”"\n  - name: "Uresa"\n    country: "Kosovo"\n    text: "“Such a comfortable apartment and a quiet neighborhood also very close of the center.”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-center-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\n"Your Home in Tirana" boasts a modern 1-bedroom apartment that is fully air-conditioned, ensuring a comfortable retreat from the bustling city life. Guests can unwind in the cozy living room, equipped with a flat-screen TV and streaming services, perfect for a relaxing evening in. The kitchen doesn’t disappoint either, coming fully equipped with an oven and microwave, catering to all your culinary needs. The apartment also features a well-appointed bathroom complete with slippers, adding a touch of luxury to your stay. For added convenience, towels and bed linen are readily provided, and guests can enjoy a special touch with wine or champagne available as part of the in-room amenities.
+---
+title: "Your home in Tirana"
+description: "Discover the charm of Tirana with a stay at \"Your Home in Tirana,\" a recently updated property that offers a seamless blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439795223.jpg?k=efd2e213a5e775eb3b7d03673394ef6f78e4e6a56dcfeb6a7391fa6201c78ee6&o=&hp=1"
+language: en
+slug: your-home-in-tirana
+address: "Rruga Myslym Shyri 44 Ap15, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32613801
+  lng: 19.81514012
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 13
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439795223.jpg?k=efd2e213a5e775eb3b7d03673394ef6f78e4e6a56dcfeb6a7391fa6201c78ee6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517625459.jpg?k=f0a9642e43e0f1c016d57454fc0d0223c1641d428ff8a8e37c1326b4acb11153&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439795817.jpg?k=6948c20bfe7dc2e04446aa2292a55836ecdbe8381cb87baad306847ab7bcd7b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407800622.jpg?k=47dd687f9f5ba224b0553bc3c979f35db7084d1eddf76891d09ed00bc1323f32&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407800555.jpg?k=15f7a9e424449ec63685c362acb6becb6daba46cf5ad8333f20ecbddc912acc7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408898277.jpg?k=5f886b7af44030f6881437f7173b2c2a9f119333eeae76ce80a0538be8f27296&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439796293.jpg?k=1a463d6e75cebf1cc1050a40768f422d2bffe9c9cc175be543d59dff1d8a4175&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407800597.jpg?k=00c471249788848e3ede6224ebb037f33f897dc1f590b58ea307628ce64f93d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523550841.jpg?k=35d6621d59bf7deeb05d6868efb700cca5b1580db9f947d1fa644fc81561633e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 600 m"
+  - "Tanners' Bridge 900 m"
+  - "Grand Park of Tirana 1.8 km"
+  - "Bunk'Art 1 Museum 4.6 km"
+nearbyRestaurants:
+  - "Sardi 50 m"
+  - "Posta 50 m"
+whatsNearby:
+  - "House of Leaves 150 m"
+  - "Rinia Park 300 m"
+  - "Parku Rinia 350 m"
+  - "Sheshi Skënderbej 350 m"
+  - "Sheshi Paris 350 m"
+  - "Parku Europa 350 m"
+  - "Skanderbeg Square 400 m"
+  - "National Museum of History Albania 400 m"
+  - "Clock Tower Tirana 400 m"
+  - "National Gallery of Arts Tirana 450 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Carlo"
+    country: "Italy"
+    text: "“The house is very nice, close to the center, and Elvis is one of the best host ever!”"
+  - name: "Simon"
+    country: "Belgium"
+    text: "“Beautiful and roomy apartment in the very center of Tirana. We had everything we needed and you can find coffee shops, grocery stores, bakeries and a bistro around the apartment. Nevertheless the apartment is quited and located in a calm place....”"
+  - name: "Uresa"
+    country: "Kosovo"
+    text: "“Such a comfortable apartment and a quiet neighborhood also very close of the center.”"
+bookingURL: "https://www.booking.com/hotel/al/lovely-center-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+"Your Home in Tirana" boasts a modern 1-bedroom apartment that is fully air-conditioned, ensuring a comfortable retreat from the bustling city life. Guests can unwind in the cozy living room, equipped with a flat-screen TV and streaming services, perfect for a relaxing evening in. The kitchen doesn’t disappoint either, coming fully equipped with an oven and microwave, catering to all your culinary needs. The apartment also features a well-appointed bathroom complete with slippers, adding a touch of luxury to your stay. For added convenience, towels and bed linen are readily provided, and guests can enjoy a special touch with wine or champagne available as part of the in-room amenities.
 
 The apartment's location is unbeatable for those eager to explore Tirana's rich cultural scene, with the House of Leaves, Et'hem Bey Mosque, and the intriguing Reja - The Cloud installation all within easy reach. For travelers flying in, the Tirana International Mother Teresa Airport is conveniently located 15 km away, making "Your Home in Tirana" an ideal choice for both short visits and longer stays.
 

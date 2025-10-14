@@ -1,5 +1,76 @@
----\ntitle: "Apartament Berati"\ndescription: "Apartament Berati emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210496147.jpg?k=aa98ab56d110914e20bf7f4e3e27395f9a4f97e036ab53f22d56267837eb58a3&o=&hp=1"\nlanguage: en\nslug: apartament-berati\naddress: "Lagjia 22 Tetori, n. 80, Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70463389\n  lng: 19.95325936\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 38\nratings:\n  overall: 8.9\n  location: 9.3\n  cleanliness: 9\n  facilities: 8.5\n  value: 9.2\n  comfort: 8.5\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210496147.jpg?k=aa98ab56d110914e20bf7f4e3e27395f9a4f97e036ab53f22d56267837eb58a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208839546.jpg?k=451de13dc3690708aa7ad66fdadf857daa46a8f4736a2ae00275139905fac8a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495615.jpg?k=39f2b9c2c81e1c843a0971dc68916f6e07712085cf6140ddbb9c14b85b0654d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495717.jpg?k=84c9888c191ef81ffb580c3f50f5f3d493f28faef92e082a3c46bcc4b321c40d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495539.jpg?k=dc2c2990fbcbd11826ac344c419fdf493748bf1c9f4f0b01ee0fafeb4fbf353e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495963.jpg?k=7d05b0dce7758193c727f503e583e386c156bb578a99f3c4a20e23eac828878f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495651.jpg?k=ed30bdd4c3d3c38d333e94a8fb548ad63bb6db952ab740e9dc3977ba495b99a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495777.jpg?k=66aa3325b684849bb89949b112254660ec418b1e10b00dab338c5d5c56e1c5b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208839521.jpg?k=6f17535ede86af9160fff8718229702cf0a0c676f9ed2c681c67f28255493813&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214876043.jpg?k=56f29da3560a92cb2502f294208bae3d281e0f7aa6b7e5dab6323a88be66b91d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214876017.jpg?k=30729c6ed0d40d321c1063a75237826110187f6cc1ba5a1af78d7363ff127c71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210496298.jpg?k=05909b4f91a7e37c33691256f30aaca1c1d6e6f5a0887bee61be696020b051f7&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\nnearbyRestaurants:\n  - "NPedonale 40 m"\n  - "Home Taste 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Amanda"\n    country: "France"\n    text: "“Everything was very clean and the apartment is centrally located in Berat, perfect to spend a night or 2.”"\n  - name: "Dilina"\n    country: "Ireland"\n    text: "“We felt really home there as if you visited a relatives house. The host is really cool and check in was smooth. The kitchen is properly equipped. They had a nice coffe pot. The cleaning is thoroughly done after each check out.
-Btw, the property...”"\n  - name: "Verena"\n    country: "Germany"\n    text: "“Very nice owners. Perfect and easy communication. Lot of space in the appartment. Very good Location in Center of Berat. Parking space available.”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-berati.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment is thoughtfully designed with modern living in mind, featuring air conditioning for those warm Berat days. It houses two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal, including a dishwasher and a coffee machine. The inclusion of a bathroom equipped with a bidet and slippers, along with towels and bed linen, ensures a comfortable stay.
+---
+title: "Apartament Berati"
+description: "Apartament Berati emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210496147.jpg?k=aa98ab56d110914e20bf7f4e3e27395f9a4f97e036ab53f22d56267837eb58a3&o=&hp=1"
+language: en
+slug: apartament-berati
+address: "Lagjia 22 Tetori, n. 80, Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.70463389
+  lng: 19.95325936
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 38
+ratings:
+  overall: 8.9
+  location: 9.3
+  cleanliness: 9
+  facilities: 8.5
+  value: 9.2
+  comfort: 8.5
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210496147.jpg?k=aa98ab56d110914e20bf7f4e3e27395f9a4f97e036ab53f22d56267837eb58a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208839546.jpg?k=451de13dc3690708aa7ad66fdadf857daa46a8f4736a2ae00275139905fac8a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495615.jpg?k=39f2b9c2c81e1c843a0971dc68916f6e07712085cf6140ddbb9c14b85b0654d1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495717.jpg?k=84c9888c191ef81ffb580c3f50f5f3d493f28faef92e082a3c46bcc4b321c40d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495539.jpg?k=dc2c2990fbcbd11826ac344c419fdf493748bf1c9f4f0b01ee0fafeb4fbf353e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495963.jpg?k=7d05b0dce7758193c727f503e583e386c156bb578a99f3c4a20e23eac828878f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495651.jpg?k=ed30bdd4c3d3c38d333e94a8fb548ad63bb6db952ab740e9dc3977ba495b99a1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210495777.jpg?k=66aa3325b684849bb89949b112254660ec418b1e10b00dab338c5d5c56e1c5b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208839521.jpg?k=6f17535ede86af9160fff8718229702cf0a0c676f9ed2c681c67f28255493813&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214876043.jpg?k=56f29da3560a92cb2502f294208bae3d281e0f7aa6b7e5dab6323a88be66b91d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214876017.jpg?k=30729c6ed0d40d321c1063a75237826110187f6cc1ba5a1af78d7363ff127c71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210496298.jpg?k=05909b4f91a7e37c33691256f30aaca1c1d6e6f5a0887bee61be696020b051f7&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+nearbyRestaurants:
+  - "NPedonale 40 m"
+  - "Home Taste 100 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 84 km"
+reviews:
+  - name: "Amanda"
+    country: "France"
+    text: "“Everything was very clean and the apartment is centrally located in Berat, perfect to spend a night or 2.”"
+  - name: "Dilina"
+    country: "Ireland"
+    text: "“We felt really home there as if you visited a relatives house. The host is really cool and check in was smooth. The kitchen is properly equipped. They had a nice coffe pot. The cleaning is thoroughly done after each check out.
+Btw, the property...”"
+  - name: "Verena"
+    country: "Germany"
+    text: "“Very nice owners. Perfect and easy communication. Lot of space in the appartment. Very good Location in Center of Berat. Parking space available.”"
+bookingURL: "https://www.booking.com/hotel/al/apartament-berati.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment is thoughtfully designed with modern living in mind, featuring air conditioning for those warm Berat days. It houses two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal, including a dishwasher and a coffee machine. The inclusion of a bathroom equipped with a bidet and slippers, along with towels and bed linen, ensures a comfortable stay.
 
 Privacy is a priority at Apartament Berati, with a private entrance to the apartment allowing guests to come and go as they please. The shared kitchen facilities and the option for private check-in and check-out further enhance the personalized experience.
 

@@ -1,4 +1,93 @@
----\ntitle: "Volmar Hotel"\ndescription: "Volmar Hotel stands as a beacon of comfort and luxury in Durrës, just a stone's throw away from the pristine Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481979272.jpg?k=67f4264226df665b3d86a5ba571357dbf9af2de2bcba63c3ee60d991e668992a&o=&hp=1"\nlanguage: en\nslug: volmar-hotel\naddress: "Rruga Agaveve, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.30540478\n  lng: 19.49042677\nprice: "US$81"\npriceFrom: 81\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 38\nratings:\n  overall: 9.2\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 9.3\n  value: 8.7\n  comfort: 9.4\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481979272.jpg?k=67f4264226df665b3d86a5ba571357dbf9af2de2bcba63c3ee60d991e668992a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481874442.jpg?k=adbfaaa39a7c0c3f35195507363af73b3476d2530bf9352a23bfae87b57321cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482308336.jpg?k=dd4eb67a9ce5645f0c9569eae1c6a25b7d639e8bb1394c674191598382f628ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484183917.jpg?k=da8ebe77d2fdbc7ea5dc28caff8d420b0d9e4422906333797db258cb6b9864df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481978356.jpg?k=6c936d8f4eaa896eb5103b25960d11cfd7568afcff9523e27f33d2e193db7d02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481342386.jpg?k=50435c93d4d33756b33de795cbb2ced43495172b489bbdeda57fd6e0b28de963&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Sea View"\n  - "Standard Double Room"\n  - "Triple Room with Sea View"\nnearbyRestaurants:\n  - "Riviera 20 m"\n  - "Beach bar Germany Hotel 50 m"\nnearbyBeaches:\n  - "Durres Beach 20 m"\n  - "Shkëmbi i Kavajës Beach 2.7 km"\n  - "Currila Beach 3.6 km"\n  - "Golem Beach 5 km"\n  - "Kallmi Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.7 km"\n  - "Wine Dhe Pooh 3.7 km"\n  - "Sheshi Demokracia 3.8 km"\n  - "Yje Dhe Hena 3.8 km"\n  - "Durres Amphiteatre 3.9 km"\n  - "1. Maj 4 km"\n  - "Sotir Noka 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Tom"\n    country: "Norway"\n    text: "“The hotel is perfectly located and secluded along the seafront but at the same time a short distance from the center of Durres. We could not have chosen to stay in a better location. The breakfast is of high quality. Clean, not too busy, good...”"\n  - name: "Colin"\n    country: "Netherlands"\n    text: "“We had a perfect stay at Vomar Hotel! My partner and I absolutely loved every moment of our time there. The hotel had an incredibly friendly and attentive staff that made us feel warmly welcomed from the very start. Our room was not only beautiful...”"\n  - name: "Bastien"\n    country: "France"\n    text: "“Super hôtel ! Très belle décoration. Chambres spacieuses. Accès direct à la plage avec transats privés. Commerces à proximité. Très bon petit déjeuner. Je recommande vraiment !”"\nbookingURL: "https://www.booking.com/hotel/al/volmar.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Volmar Hotel are designed with guest comfort in mind. Each room is equipped with a desk, air conditioning, and a flat-screen TV for a truly relaxing stay. The inclusion of a private bathroom, complete with a shower and complimentary toiletries, adds to the convenience. Select rooms also feature a balcony, offering guests a private outdoor space to enjoy the fresh sea air. To further enhance the stay, all rooms are furnished with quality bed linen and towels.
+---
+title: "Volmar Hotel"
+description: "Volmar Hotel stands as a beacon of comfort and luxury in Durrës, just a stone's throw away from the pristine Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481979272.jpg?k=67f4264226df665b3d86a5ba571357dbf9af2de2bcba63c3ee60d991e668992a&o=&hp=1"
+language: en
+slug: volmar-hotel
+address: "Rruga Agaveve, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.30540478
+  lng: 19.49042677
+price: "US$81"
+priceFrom: 81
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 38
+ratings:
+  overall: 9.2
+  location: 9.5
+  cleanliness: 9.2
+  facilities: 9.3
+  value: 8.7
+  comfort: 9.4
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481979272.jpg?k=67f4264226df665b3d86a5ba571357dbf9af2de2bcba63c3ee60d991e668992a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481874442.jpg?k=adbfaaa39a7c0c3f35195507363af73b3476d2530bf9352a23bfae87b57321cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482308336.jpg?k=dd4eb67a9ce5645f0c9569eae1c6a25b7d639e8bb1394c674191598382f628ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484183917.jpg?k=da8ebe77d2fdbc7ea5dc28caff8d420b0d9e4422906333797db258cb6b9864df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481978356.jpg?k=6c936d8f4eaa896eb5103b25960d11cfd7568afcff9523e27f33d2e193db7d02&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481342386.jpg?k=50435c93d4d33756b33de795cbb2ced43495172b489bbdeda57fd6e0b28de963&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Sea View"
+  - "Standard Double Room"
+  - "Triple Room with Sea View"
+nearbyRestaurants:
+  - "Riviera 20 m"
+  - "Beach bar Germany Hotel 50 m"
+nearbyBeaches:
+  - "Durres Beach 20 m"
+  - "Shkëmbi i Kavajës Beach 2.7 km"
+  - "Currila Beach 3.6 km"
+  - "Golem Beach 5 km"
+  - "Kallmi Beach 5 km"
+whatsNearby:
+  - "Bekimi 2.7 km"
+  - "Wine Dhe Pooh 3.7 km"
+  - "Sheshi Demokracia 3.8 km"
+  - "Yje Dhe Hena 3.8 km"
+  - "Durres Amphiteatre 3.9 km"
+  - "1. Maj 4 km"
+  - "Sotir Noka 4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Tom"
+    country: "Norway"
+    text: "“The hotel is perfectly located and secluded along the seafront but at the same time a short distance from the center of Durres. We could not have chosen to stay in a better location. The breakfast is of high quality. Clean, not too busy, good...”"
+  - name: "Colin"
+    country: "Netherlands"
+    text: "“We had a perfect stay at Vomar Hotel! My partner and I absolutely loved every moment of our time there. The hotel had an incredibly friendly and attentive staff that made us feel warmly welcomed from the very start. Our room was not only beautiful...”"
+  - name: "Bastien"
+    country: "France"
+    text: "“Super hôtel ! Très belle décoration. Chambres spacieuses. Accès direct à la plage avec transats privés. Commerces à proximité. Très bon petit déjeuner. Je recommande vraiment !”"
+bookingURL: "https://www.booking.com/hotel/al/volmar.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Volmar Hotel are designed with guest comfort in mind. Each room is equipped with a desk, air conditioning, and a flat-screen TV for a truly relaxing stay. The inclusion of a private bathroom, complete with a shower and complimentary toiletries, adds to the convenience. Select rooms also feature a balcony, offering guests a private outdoor space to enjoy the fresh sea air. To further enhance the stay, all rooms are furnished with quality bed linen and towels.
 
 Guests can start their day on a high note with a diverse breakfast selection available at the hotel. Options range from a hearty buffet to à la carte and continental choices, catering to all tastes and preferences.
 

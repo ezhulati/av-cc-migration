@@ -1,4 +1,86 @@
----\ntitle: "AROL Apartment, Golem"\ndescription: "AROL Apartment, Golem, emerges as a freshly updated gem in the heart of Golem, a stone's throw away from the pristine shores of Golem Beach, Shkëmbi i Kavajës Beach, and Mali I Robit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456974355.jpg?k=6a7dddd4bbd1557dbe529192338782fc3236c037fa156212f97ac814abdb16d4&o=&hp=1"\nlanguage: en\nslug: arol-apartment-golem\naddress: "Rruga e Gjuzeve Apt. 11, third residential floor., Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25822778\n  lng: 19.52451906\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 9.4\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456974355.jpg?k=6a7dddd4bbd1557dbe529192338782fc3236c037fa156212f97ac814abdb16d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486130354.jpg?k=9a199c89ca0981ffea2b72ac6be63a9989cbb26b1d06d807e7da3e0ea01d429d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456976936.jpg?k=9636325041d74ceb968e65f237514a23db3e3f6811427065f77fdd03023a25a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523287198.jpg?k=b991b72f4b5e074ec537c0e61b96dce6ab555df6faf201b5bad7dfa9d2bcb472&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521903136.jpg?k=a70c1e5b0470eb2022fc86b84673849abb2981a6d3271f3e70047ac8471701d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523287537.jpg?k=d21a136b8e4e1249ca00f7bb3288811bb077e9484abef81d9376182a88ea0f2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463470740.jpg?k=cb31a79bae896dfe8242aa4f51e4db69621cc226bd70285dd0cae74a9ec7fc9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463471301.jpg?k=ecc4196b953ba591082723116c8fae3313caa3f7331603a14b16c4ab9564134d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521903216.jpg?k=36fcbb4e1de25ca4e7c33fb12480fa357b84c47af8b742b23cec0fe8af1658b7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (24 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Flobede Furrë Buke 100 m"\n  - "Oaz Durres 650 m"\nnearbyBeaches:\n  - "Golem Beach 400 m"\n  - "Shkëmbi i Kavajës Beach 900 m"\n  - "Mali I Robit Beach 1.2 km"\n  - "Qerret Beach 3.2 km"\n  - "Durres Beach 3.3 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Nasu"\n    country: "Romania"\n    text: "“Apartament exact ca in fotografii, curat , la 10 min de plaje.”"\n  - name: "Fatjona"\n    country: "Albania"\n    text: "“la casa era molto bella, grande e pulita. eravamo 2 coppie e abbiamo trascorso una vacanza molto bella. Adesso ho una casa dove posso trascorrere serenamente e felicemente le mie vacanze. La spiaggia era a 5 minuti a piedi, i prezzi erano normali...”"\n  - name: "Beuty"\n    country: "United Kingdom"\n    text: "“It as very comfortable the beach is not far from the house the balcony has a very peaceful view and fresh air has air conditioning everything works perfectly”"\nbookingURL: "https://www.booking.com/hotel/al/vacation-apartment-on-the-beach-golem-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a chic, one-bedroom apartment that boasts a seamless fusion of comfort and style. The space is thoughtfully appointed with a range of amenities designed to cater to every need. From the crisp bed linen and plush towels to the state-of-the-art flat-screen TV equipped with streaming services, every detail has been considered. The dining area and fully equipped kitchen offer the freedom to dine in, while the balcony presents serene garden views, perfect for unwinding with a glass of wine or champagne and some chocolates or cookies. The addition of a private entrance underscores the apartment's exclusive feel, complemented by an inviting outdoor dining area.
+---
+title: "AROL Apartment, Golem"
+description: "AROL Apartment, Golem, emerges as a freshly updated gem in the heart of Golem, a stone's throw away from the pristine shores of Golem Beach, Shkëmbi i Kavajës Beach, and Mali I Robit Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456974355.jpg?k=6a7dddd4bbd1557dbe529192338782fc3236c037fa156212f97ac814abdb16d4&o=&hp=1"
+language: en
+slug: arol-apartment-golem
+address: "Rruga e Gjuzeve Apt. 11, third residential floor., Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.25822778
+  lng: 19.52451906
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 4
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 9.4
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456974355.jpg?k=6a7dddd4bbd1557dbe529192338782fc3236c037fa156212f97ac814abdb16d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486130354.jpg?k=9a199c89ca0981ffea2b72ac6be63a9989cbb26b1d06d807e7da3e0ea01d429d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456976936.jpg?k=9636325041d74ceb968e65f237514a23db3e3f6811427065f77fdd03023a25a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523287198.jpg?k=b991b72f4b5e074ec537c0e61b96dce6ab555df6faf201b5bad7dfa9d2bcb472&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521903136.jpg?k=a70c1e5b0470eb2022fc86b84673849abb2981a6d3271f3e70047ac8471701d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523287537.jpg?k=d21a136b8e4e1249ca00f7bb3288811bb077e9484abef81d9376182a88ea0f2d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463470740.jpg?k=cb31a79bae896dfe8242aa4f51e4db69621cc226bd70285dd0cae74a9ec7fc9f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463471301.jpg?k=ecc4196b953ba591082723116c8fae3313caa3f7331603a14b16c4ab9564134d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521903216.jpg?k=36fcbb4e1de25ca4e7c33fb12480fa357b84c47af8b742b23cec0fe8af1658b7&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Good free WiFi (24 Mbps)"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Flobede Furrë Buke 100 m"
+  - "Oaz Durres 650 m"
+nearbyBeaches:
+  - "Golem Beach 400 m"
+  - "Shkëmbi i Kavajës Beach 900 m"
+  - "Mali I Robit Beach 1.2 km"
+  - "Qerret Beach 3.2 km"
+  - "Durres Beach 3.3 km"
+whatsNearby:
+  - "Bekimi 9 km"
+  - "Durres Amphiteatre 9 km"
+  - "Wine Dhe Pooh 9 km"
+  - "1. Maj 9 km"
+  - "Yje Dhe Hena 9 km"
+  - "Sheshi Demokracia 9 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Visa"
+reviews:
+  - name: "Nasu"
+    country: "Romania"
+    text: "“Apartament exact ca in fotografii, curat , la 10 min de plaje.”"
+  - name: "Fatjona"
+    country: "Albania"
+    text: "“la casa era molto bella, grande e pulita. eravamo 2 coppie e abbiamo trascorso una vacanza molto bella. Adesso ho una casa dove posso trascorrere serenamente e felicemente le mie vacanze. La spiaggia era a 5 minuti a piedi, i prezzi erano normali...”"
+  - name: "Beuty"
+    country: "United Kingdom"
+    text: "“It as very comfortable the beach is not far from the house the balcony has a very peaceful view and fresh air has air conditioning everything works perfectly”"
+bookingURL: "https://www.booking.com/hotel/al/vacation-apartment-on-the-beach-golem-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are welcomed into a chic, one-bedroom apartment that boasts a seamless fusion of comfort and style. The space is thoughtfully appointed with a range of amenities designed to cater to every need. From the crisp bed linen and plush towels to the state-of-the-art flat-screen TV equipped with streaming services, every detail has been considered. The dining area and fully equipped kitchen offer the freedom to dine in, while the balcony presents serene garden views, perfect for unwinding with a glass of wine or champagne and some chocolates or cookies. The addition of a private entrance underscores the apartment's exclusive feel, complemented by an inviting outdoor dining area.
 
 For those seeking convenience, the property does not disappoint. A cozy coffee shop provides the perfect spot to start the day, while the on-site minimarket ensures essentials are always within reach.
 

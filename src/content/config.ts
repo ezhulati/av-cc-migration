@@ -132,25 +132,11 @@ const attractionsCollection = defineCollection({
   }),
 });
 
-const toursCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    duration: z.string().optional(),
-    price: z.string().optional(),
-    featuredImage: z.string().optional(),
-    language: z.enum(['en', 'sq']),
-    slug: z.string(),
-  }),
-});
-
 export const collections = {
   'posts': postsCollection,
   'pages': pagesCollection,
-  'accommodation': accommodationCollection,
   'destinations': destinationsCollection,
   'activities': activitiesCollection,
   'attractions': attractionsCollection,
-  'tours': toursCollection,
+  'accommodation': accommodationCollection,
 };

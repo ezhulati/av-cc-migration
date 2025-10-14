@@ -1,4 +1,81 @@
----\ntitle: "City Centre Apartments"\ndescription: "City Centre Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964903.jpg?k=9c9cd3913631fd7e6f2848933107ea26be8e8aa6406074006bd633ffe776dd01&o=&hp=1"\nlanguage: en\nslug: city-centre-apartments\naddress: "Rruga Maliq Muço, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33177152\n  lng: 19.81521794\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.4\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964903.jpg?k=9c9cd3913631fd7e6f2848933107ea26be8e8aa6406074006bd633ffe776dd01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964867.jpg?k=73e2d1355130f5a53f8d8a268f9630de73b2cc071c6d2af834d23e0aba01c8d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964988.jpg?k=6dfa5378d02d46297c104ee5c17a20b531bc457170a05ace330d34030116e6c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964969.jpg?k=3cc934db10f20e40f4603596e54476922336d581e5a173744d1d35056b3f1cfc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503965023.jpg?k=abe2604e058c8afabf1d51117276a988aa3d27849c010818ef81b7c08f1aa992&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509801636.jpg?k=96e9eae7160b16edd7ab8970628538c2f1b4c5dca37e67b8011d1be20e513659&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503965005.jpg?k=a6f6c23ee8951770142280e06881751eb780853c33975170c0e1b24b38cafd84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503965017.jpg?k=eba5b988176a41eeb9244c947f7160caf8455c343a16e3f15e1d10d87d01c67e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964855.jpg?k=009204f579b5b4ddf2f0649ec691f1940cdda64cc1de0bb286489664a9382d85&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 750 m"\n  - "Rinia Park 800 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.4 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Psejo? Whynot? Rest 100 m"\n  - "Lissus Fish 100 m"\nwhatsNearby:\n  - "Sheshi Paris 250 m"\n  - "National Museum of History Albania 300 m"\n  - "Amazing Nature 400 m"\n  - "Sheshi Skënderbej 450 m"\n  - "Skanderbeg Square 550 m"\n  - "House of Leaves 550 m"\n  - "Parku Europa 600 m"\n  - "Clock Tower Tirana 600 m"\n  - "Sheshi Sulejman Pasha 650 m"\n  - "Sheshi Rekreativ Mine Peza 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/city-centre-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe highlight of City Centre Apartments is undoubtedly its spacious two-bedroom apartment. Guests will find themselves enveloped in comfort with modern amenities such as a flat-screen TV boasting satellite channels, and a fully equipped kitchen complete with a dishwasher, oven, washing machine, microwave, and toaster. The air-conditioned unit doesn't just promise a comfortable stay; it ensures one with a walk-in shower and a dedicated dressing room, catering to the needs of even the most discerning guests. Moreover, the apartment prides itself on being allergy-free and strictly non-smoking, ensuring a pleasant environment for all.
+---
+title: "City Centre Apartments"
+description: "City Centre Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964903.jpg?k=9c9cd3913631fd7e6f2848933107ea26be8e8aa6406074006bd633ffe776dd01&o=&hp=1"
+language: en
+slug: city-centre-apartments
+address: "Rruga Maliq Muço, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33177152
+  lng: 19.81521794
+price: "US$41"
+priceFrom: 41
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 4
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 9.4
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964903.jpg?k=9c9cd3913631fd7e6f2848933107ea26be8e8aa6406074006bd633ffe776dd01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964867.jpg?k=73e2d1355130f5a53f8d8a268f9630de73b2cc071c6d2af834d23e0aba01c8d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964988.jpg?k=6dfa5378d02d46297c104ee5c17a20b531bc457170a05ace330d34030116e6c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964969.jpg?k=3cc934db10f20e40f4603596e54476922336d581e5a173744d1d35056b3f1cfc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503965023.jpg?k=abe2604e058c8afabf1d51117276a988aa3d27849c010818ef81b7c08f1aa992&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509801636.jpg?k=96e9eae7160b16edd7ab8970628538c2f1b4c5dca37e67b8011d1be20e513659&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503965005.jpg?k=a6f6c23ee8951770142280e06881751eb780853c33975170c0e1b24b38cafd84&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503965017.jpg?k=eba5b988176a41eeb9244c947f7160caf8455c343a16e3f15e1d10d87d01c67e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964855.jpg?k=009204f579b5b4ddf2f0649ec691f1940cdda64cc1de0bb286489664a9382d85&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 750 m"
+  - "Rinia Park 800 m"
+  - "Tanners' Bridge 1.1 km"
+  - "Former Residence of Enver Hoxha 1.2 km"
+  - "Grand Park of Tirana 2.4 km"
+  - "Bunk'Art 1 Museum 4.3 km"
+nearbyRestaurants:
+  - "Psejo? Whynot? Rest 100 m"
+  - "Lissus Fish 100 m"
+whatsNearby:
+  - "Sheshi Paris 250 m"
+  - "National Museum of History Albania 300 m"
+  - "Amazing Nature 400 m"
+  - "Sheshi Skënderbej 450 m"
+  - "Skanderbeg Square 550 m"
+  - "House of Leaves 550 m"
+  - "Parku Europa 600 m"
+  - "Clock Tower Tirana 600 m"
+  - "Sheshi Sulejman Pasha 650 m"
+  - "Sheshi Rekreativ Mine Peza 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/city-centre-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The highlight of City Centre Apartments is undoubtedly its spacious two-bedroom apartment. Guests will find themselves enveloped in comfort with modern amenities such as a flat-screen TV boasting satellite channels, and a fully equipped kitchen complete with a dishwasher, oven, washing machine, microwave, and toaster. The air-conditioned unit doesn't just promise a comfortable stay; it ensures one with a walk-in shower and a dedicated dressing room, catering to the needs of even the most discerning guests. Moreover, the apartment prides itself on being allergy-free and strictly non-smoking, ensuring a pleasant environment for all.
 
 For those who prefer to dine in or need quick essentials, a minimarket on the premises adds an extra layer of convenience. Additionally, the apartment facilitates exploration and adventure by offering a car rental service. For the more active guests, the opportunity to enjoy cycling in the nearby area is an inviting option.
 

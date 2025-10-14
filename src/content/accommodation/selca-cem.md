@@ -1,8 +1,81 @@
----\ntitle: "Selca Cem"\ndescription: "Selca Cem emerges as a serene oasis in Shkodër, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585843.jpg?k=0bd490e3b386f7b195961420f4501fa330cb917091d8caadd6e8d730b655a053&o=&hp=1"\nlanguage: en\nslug: selca-cem\naddress: "Selce, 4304 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.50466666\n  lng: 19.59787454\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 63\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.2\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585843.jpg?k=0bd490e3b386f7b195961420f4501fa330cb917091d8caadd6e8d730b655a053&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435708726.jpg?k=d00b49061b490e47861c7b0b66bb34b737360506de6dc4997aff15a3ce45325d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435708723.jpg?k=51b9517a3db9b8b8ab1bc4346d2803b437a9b4ce56d059e7876311d07fc33b77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585896.jpg?k=46cb491002e50fd391f4e6b80636a9a0050a3d4e68256080217221a649995d26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585904.jpg?k=857e7fdea5301af21cea7a3d53b7720d1bcc0e3be6f0edd4b3617e73e4c068b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435708722.jpg?k=e010f2146db6dcbd961a1d58c1eb9c8b4921c72425c7b731a834a6ac8ff0e41a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Extra Bed"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Bar Restorant & Camping Selca Cem 40 m"\n  - "Sofra Kelmendit 5 km"\nwhatsNearby:\n  - "Theth National Park 12 km"\n  - "Prokletije National Park 13 km"\n  - "Theth National Park 18 km"\n  - "Valbona Valley National Park 20 km"\nairports:\n  - "Podgorica Airport 32 km"\n  - "Tivat Airport 72 km"\npaymentMethods:\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Niina"\n    country: "Finland"\n    text: "“Amazing and uniq place middle of the mountains
+---
+title: "Selca Cem"
+description: "Selca Cem emerges as a serene oasis in Shkodër, offering guests a unique blend of comfort and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585843.jpg?k=0bd490e3b386f7b195961420f4501fa330cb917091d8caadd6e8d730b655a053&o=&hp=1"
+language: en
+slug: selca-cem
+address: "Selce, 4304 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hotel"
+coordinates:
+  lat: 42.50466666
+  lng: 19.59787454
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 63
+ratings:
+  overall: 9.6
+  location: 9.5
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 9.6
+  comfort: 9.2
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585843.jpg?k=0bd490e3b386f7b195961420f4501fa330cb917091d8caadd6e8d730b655a053&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435708726.jpg?k=d00b49061b490e47861c7b0b66bb34b737360506de6dc4997aff15a3ce45325d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435708723.jpg?k=51b9517a3db9b8b8ab1bc4346d2803b437a9b4ce56d059e7876311d07fc33b77&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585896.jpg?k=46cb491002e50fd391f4e6b80636a9a0050a3d4e68256080217221a649995d26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585904.jpg?k=857e7fdea5301af21cea7a3d53b7720d1bcc0e3be6f0edd4b3617e73e4c068b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435708722.jpg?k=e010f2146db6dcbd961a1d58c1eb9c8b4921c72425c7b731a834a6ac8ff0e41a&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room with Extra Bed"
+  - "Quadruple Room"
+nearbyRestaurants:
+  - "Bar Restorant & Camping Selca Cem 40 m"
+  - "Sofra Kelmendit 5 km"
+whatsNearby:
+  - "Theth National Park 12 km"
+  - "Prokletije National Park 13 km"
+  - "Theth National Park 18 km"
+  - "Valbona Valley National Park 20 km"
+airports:
+  - "Podgorica Airport 32 km"
+  - "Tivat Airport 72 km"
+paymentMethods:
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Niina"
+    country: "Finland"
+    text: "“Amazing and uniq place middle of the mountains
 We came for relaxing few days and hiking around
 Friendly service and good food
-Recommended 100%”"\n  - name: "Marc"\n    country: "Germany"\n    text: "“Really nice characteristic place to stay. The panorama around is amazing. A hike to the water fall is possible.
-Highly recommendable is also the restaurant which offers good food for really low albanian prices.”"\n  - name: "Ridvan"\n    country: "Albania"\n    text: "“The staff was wonderful, friendly. Super beautiful views, maximum cleanliness, very beautiful waterfalls nearby, the view around is blessed”"\nbookingURL: "https://www.booking.com/hotel/al/selca-cem.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe accommodations at Selca Cem are thoughtfully designed with guest comfort in mind. Each room is a haven of relaxation, featuring air conditioning, a flat-screen TV, and a private bathroom equipped with a shower and complimentary slippers. The promise of free WiFi and the added luxury of rooms with balconies cater to the needs of modern travelers, ensuring a stay that is both connected and comfortable. Attention to detail is evident in the provision of quality bed linen and towels, enhancing the overall experience.
+Recommended 100%”"
+  - name: "Marc"
+    country: "Germany"
+    text: "“Really nice characteristic place to stay. The panorama around is amazing. A hike to the water fall is possible.
+Highly recommendable is also the restaurant which offers good food for really low albanian prices.”"
+  - name: "Ridvan"
+    country: "Albania"
+    text: "“The staff was wonderful, friendly. Super beautiful views, maximum cleanliness, very beautiful waterfalls nearby, the view around is blessed”"
+bookingURL: "https://www.booking.com/hotel/al/selca-cem.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The accommodations at Selca Cem are thoughtfully designed with guest comfort in mind. Each room is a haven of relaxation, featuring air conditioning, a flat-screen TV, and a private bathroom equipped with a shower and complimentary slippers. The promise of free WiFi and the added luxury of rooms with balconies cater to the needs of modern travelers, ensuring a stay that is both connected and comfortable. Attention to detail is evident in the provision of quality bed linen and towels, enhancing the overall experience.
 
 Beyond the rooms, Selca Cem extends its hospitality to shared spaces that invite relaxation and socialization. The property boasts a lush garden, a welcoming terrace, and a cozy bar, setting the stage for memorable moments under the open sky. The views of the nearby lake add a picturesque backdrop to an already idyllic setting.
 

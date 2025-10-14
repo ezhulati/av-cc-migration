@@ -1,4 +1,96 @@
----\ntitle: "Villa Juli Ksamil"\ndescription: "Villa Juli Ksamil emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Ksamil, just a short stroll from the pristine sands of Ksamil Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304069633.jpg?k=d475c167cdacaebbaab320d9aa67a7363559e0f80b19c1a232e101ff274147ed&o=&hp=1"\nlanguage: en\nslug: villa-juli-ksamil\naddress: "Road Baba Sherifi 99, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76998997\n  lng: 20.00745644\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 88\nratings:\n  overall: 9.4\n  location: 9\n  cleanliness: 9.2\n  facilities: 9.1\n  value: 9.4\n  comfort: 9.3\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304069633.jpg?k=d475c167cdacaebbaab320d9aa67a7363559e0f80b19c1a232e101ff274147ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448162004.jpg?k=f793e6471ab76e41ca4e1d411199d83d7e94a03a82d6f2be8136de0f64ca9913&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448161968.jpg?k=cd4bb8ec2c5842527a561088b3d6c22d9daf5c474b97a1e93da9846b4477cc3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480842884.jpg?k=a2594c6c59d71d6a43aaec675d8041d1b5969e29ee686bfe59a1650f6fc17f42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480840252.jpg?k=6687b39f7e9ed2869a3452288f2690801a79fd6c8b6086e7dae9923f90c65aff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480840081.jpg?k=052c824b166421c1d28a8a40b760038dfa8d1dadedf520b0fe81a3d25d4e9366&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480839856.jpg?k=8f216fecc95d24a5454fd93599ef23db77af6d3347939106e64710247dbfa199&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480839742.jpg?k=211661227904a6e56c05a97a419be8f0edfb5a447537a830e9d3028191e5b1e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480839596.jpg?k=639d97554ebd8ad7ffa15aac36f0e7ef398800f5bc544a4436608d266da10a26&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Grill House Gyros 150 m"\n  - "Taverna Kuburi 300 m"\nnearbyBeaches:\n  - "Ksamil Beach 550 m"\n  - "Ksamil Beach 9 750 m"\n  - "Bora Bora Beach 800 m"\n  - "Ksamil Beach 7 800 m"\n  - "Coco Beach 850 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 500 m"\n  - "Butrint National Park 2.3 km"\n  - "Plazhi I Krorezes 3.4 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Rumyana"\n    country: "Bulgaria"\n    text: "“Brand new and very clean apartment! The bed is big and very comfortable! The hosts were also very friendly. Recommend for a couple or a solo traveler. It has a parking place”"\n  - name: "Il"\n    country: "Italy"\n    text: "“Awesome family run business who really cares about customers”"\n  - name: "Gabrielle"\n    country: "Netherlands"\n    text: "“Very quiet and clean! Sara and her family were great hosts”"\nbookingURL: "https://www.booking.com/hotel/al/villa-juli-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Villa Juli Ksamil are thoughtfully designed with the modern traveler in mind. Each unit boasts air conditioning, a flat-screen TV with satellite channels, a refrigerator, and a kettle, alongside essentials such as a bidet, complimentary toiletries, and ample wardrobe space. The highlight of each apartment is undoubtedly the private balcony, featuring an outdoor dining area where guests can savor meals against a backdrop of lush garden views. The provision of bed linen and towels in every unit adds a touch of home-like comfort to the stay.
+---
+title: "Villa Juli Ksamil"
+description: "Villa Juli Ksamil emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Ksamil, just a short stroll from the pristine sands of Ksamil Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304069633.jpg?k=d475c167cdacaebbaab320d9aa67a7363559e0f80b19c1a232e101ff274147ed&o=&hp=1"
+language: en
+slug: villa-juli-ksamil
+address: "Road Baba Sherifi 99, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.76998997
+  lng: 20.00745644
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 88
+ratings:
+  overall: 9.4
+  location: 9
+  cleanliness: 9.2
+  facilities: 9.1
+  value: 9.4
+  comfort: 9.3
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304069633.jpg?k=d475c167cdacaebbaab320d9aa67a7363559e0f80b19c1a232e101ff274147ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448162004.jpg?k=f793e6471ab76e41ca4e1d411199d83d7e94a03a82d6f2be8136de0f64ca9913&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448161968.jpg?k=cd4bb8ec2c5842527a561088b3d6c22d9daf5c474b97a1e93da9846b4477cc3c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480842884.jpg?k=a2594c6c59d71d6a43aaec675d8041d1b5969e29ee686bfe59a1650f6fc17f42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480840252.jpg?k=6687b39f7e9ed2869a3452288f2690801a79fd6c8b6086e7dae9923f90c65aff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480840081.jpg?k=052c824b166421c1d28a8a40b760038dfa8d1dadedf520b0fe81a3d25d4e9366&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480839856.jpg?k=8f216fecc95d24a5454fd93599ef23db77af6d3347939106e64710247dbfa199&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480839742.jpg?k=211661227904a6e56c05a97a419be8f0edfb5a447537a830e9d3028191e5b1e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480839596.jpg?k=639d97554ebd8ad7ffa15aac36f0e7ef398800f5bc544a4436608d266da10a26&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Museum of Banknotes 18 km"
+  - "New Fortress 18 km"
+  - "Serbian Museum 18 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 19 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 19 km"
+nearbyRestaurants:
+  - "Grill House Gyros 150 m"
+  - "Taverna Kuburi 300 m"
+nearbyBeaches:
+  - "Ksamil Beach 550 m"
+  - "Ksamil Beach 9 750 m"
+  - "Bora Bora Beach 800 m"
+  - "Ksamil Beach 7 800 m"
+  - "Coco Beach 850 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 500 m"
+  - "Butrint National Park 2.3 km"
+  - "Plazhi I Krorezes 3.4 km"
+  - "Parc National de Butrint 10 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 18 km"
+  - "Old Fortress 18 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 69 km"
+reviews:
+  - name: "Rumyana"
+    country: "Bulgaria"
+    text: "“Brand new and very clean apartment! The bed is big and very comfortable! The hosts were also very friendly. Recommend for a couple or a solo traveler. It has a parking place”"
+  - name: "Il"
+    country: "Italy"
+    text: "“Awesome family run business who really cares about customers”"
+  - name: "Gabrielle"
+    country: "Netherlands"
+    text: "“Very quiet and clean! Sara and her family were great hosts”"
+bookingURL: "https://www.booking.com/hotel/al/villa-juli-ksamil.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Villa Juli Ksamil are thoughtfully designed with the modern traveler in mind. Each unit boasts air conditioning, a flat-screen TV with satellite channels, a refrigerator, and a kettle, alongside essentials such as a bidet, complimentary toiletries, and ample wardrobe space. The highlight of each apartment is undoubtedly the private balcony, featuring an outdoor dining area where guests can savor meals against a backdrop of lush garden views. The provision of bed linen and towels in every unit adds a touch of home-like comfort to the stay.
 
 For those who relish outdoor dining, the property's barbecue facilities are a boon, allowing guests to enjoy al fresco meals on their private patio during the balmy months. The serene garden offers a peaceful nook for relaxation, inviting guests to unwind amidst nature.
 

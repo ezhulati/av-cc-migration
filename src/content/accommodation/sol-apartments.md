@@ -1,4 +1,86 @@
----\ntitle: "Solé Apartments"\ndescription: "Solé Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507375073.jpg?k=7270b9dbd3648de4acde1d89c8330b753336b4873d3872f8a86983e7bd894ea7&o=&hp=1"\nlanguage: en\nslug: sol-apartments\naddress: "Rruga Ibrahim Dervishi Ap 73 , 6 Floor, 1060 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31862972\n  lng: 19.80139982\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.8\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 8.8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507375073.jpg?k=7270b9dbd3648de4acde1d89c8330b753336b4873d3872f8a86983e7bd894ea7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060289.jpg?k=99372489b4fb4d0b7eaa776bedc4ef7dbd5a8d7c75b7cb079eddd0a4255688bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060576.jpg?k=c3cd26ba69ed07874bbd7681b7d6db8d32c028b54a3d21aa465c4b88d19526e5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491059747.jpg?k=d0e4041708befabc36503b51a7932e273ca13f049551111173cc8ab8cd73bb08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491059813.jpg?k=a1743d7aa81f5e5abaf4983b5242fef855deda4137c09f95937a8b8ad6ae99eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060849.jpg?k=85940d4adccb5ff4ed1d0c2daff1819015ac7d7567870b5ebb59f8e77c51a728&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060449.jpg?k=d35d1fae43246b7cf52496571dbf9fe851b5f10f1f5e4ed3620331921fe1024a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060595.jpg?k=18455be8fde82c7bd13d4202a7c63fa176a4a36a9d0b423749ff34604c310ef7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491059814.jpg?k=47621f59e509dd2260d4ee8fd6265229efe7e17090823bc4cda79f05792e6fb0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "House of Leaves 1.5 km"\n  - "Rinia Park 1.6 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Skanderbeg Square 1.8 km"\n  - "National Gallery of Arts Tirana 1.8 km"\n  - "Clock Tower Tirana 1.8 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Tanners' Bridge 2.2 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Piceri Kupa Hallall 150 m"\n  - "Byrektore 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Bajram Curri 400 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 450 m"\n  - "Sheshi Rekreativ Sali Butka 500 m"\n  - "Sheshi Rekreativ Komuna e Parisit 500 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 500 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 750 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 800 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 900 m"\n  - "Parku I Madh I Tiranës (Grand Park) 1.3 km"\n  - "Sheshi Rekreativ Parku 1Km 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/oldis-apartment-tirana-cozy-urban-getaway.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe property boasts air-conditioned accommodations, ensuring a cool respite from the lively city atmosphere. With private parking on site and complimentary WiFi, guests are treated to a hassle-free stay from the moment of arrival. Emphasizing a smoke-free environment, Solé Apartments stands 7 km from the Dajti Ekspres Cable Car, presenting an opportunity for adventure seekers to explore the natural beauty surrounding Tirana.
+---
+title: "Solé Apartments"
+description: "Solé Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507375073.jpg?k=7270b9dbd3648de4acde1d89c8330b753336b4873d3872f8a86983e7bd894ea7&o=&hp=1"
+language: en
+slug: sol-apartments
+address: "Rruga Ibrahim Dervishi Ap 73 , 6 Floor, 1060 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31862972
+  lng: 19.80139982
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 2
+ratings:
+  overall: 8.8
+  location: 8.8
+  cleanliness: 8.8
+  facilities: 8.8
+  value: 8.8
+  comfort: 8.8
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507375073.jpg?k=7270b9dbd3648de4acde1d89c8330b753336b4873d3872f8a86983e7bd894ea7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060289.jpg?k=99372489b4fb4d0b7eaa776bedc4ef7dbd5a8d7c75b7cb079eddd0a4255688bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060576.jpg?k=c3cd26ba69ed07874bbd7681b7d6db8d32c028b54a3d21aa465c4b88d19526e5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491059747.jpg?k=d0e4041708befabc36503b51a7932e273ca13f049551111173cc8ab8cd73bb08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491059813.jpg?k=a1743d7aa81f5e5abaf4983b5242fef855deda4137c09f95937a8b8ad6ae99eb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060849.jpg?k=85940d4adccb5ff4ed1d0c2daff1819015ac7d7567870b5ebb59f8e77c51a728&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060449.jpg?k=d35d1fae43246b7cf52496571dbf9fe851b5f10f1f5e4ed3620331921fe1024a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491060595.jpg?k=18455be8fde82c7bd13d4202a7c63fa176a4a36a9d0b423749ff34604c310ef7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491059814.jpg?k=47621f59e509dd2260d4ee8fd6265229efe7e17090823bc4cda79f05792e6fb0&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "House of Leaves 1.5 km"
+  - "Rinia Park 1.6 km"
+  - "National Museum of History Albania 1.8 km"
+  - "Skanderbeg Square 1.8 km"
+  - "National Gallery of Arts Tirana 1.8 km"
+  - "Clock Tower Tirana 1.8 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Tanners' Bridge 2.2 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Piceri Kupa Hallall 150 m"
+  - "Byrektore 200 m"
+whatsNearby:
+  - "Sheshi Rekreativ Bajram Curri 400 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 450 m"
+  - "Sheshi Rekreativ Sali Butka 500 m"
+  - "Sheshi Rekreativ Komuna e Parisit 500 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 500 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 750 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 800 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 900 m"
+  - "Parku I Madh I Tiranës (Grand Park) 1.3 km"
+  - "Sheshi Rekreativ Parku 1Km 1.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+bookingURL: "https://www.booking.com/hotel/al/oldis-apartment-tirana-cozy-urban-getaway.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The property boasts air-conditioned accommodations, ensuring a cool respite from the lively city atmosphere. With private parking on site and complimentary WiFi, guests are treated to a hassle-free stay from the moment of arrival. Emphasizing a smoke-free environment, Solé Apartments stands 7 km from the Dajti Ekspres Cable Car, presenting an opportunity for adventure seekers to explore the natural beauty surrounding Tirana.
 
 Guests are welcomed into spacious two-bedroom apartments, each featuring a private bathroom, crisp bed linen, plush towels, and a flat-screen TV with satellite channels for in-room entertainment. The fully equipped kitchen invites guests to feel at home, while the balcony offers captivating city views, allowing for a moment of reflection or a peaceful start to the day. The addition of a private entrance to each apartment underscores the property's commitment to privacy and exclusivity.
 

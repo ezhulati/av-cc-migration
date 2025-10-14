@@ -1,3 +1,62 @@
----\ntitle: "Vila DLMeti"\ndescription: "Vila DLMeti emerges as a serene retreat in the vibrant city of Shkodër, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520333917.jpg?k=9b2c4186f54af93116a084c51d236b8a0373b312591644c86b0203a6b9ae2220&o=&hp=1"\nlanguage: en\nslug: vila-dlmeti\naddress: "Rruga Dracin, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.05418738\n  lng: 19.5140154\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520333917.jpg?k=9b2c4186f54af93116a084c51d236b8a0373b312591644c86b0203a6b9ae2220&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520331772.jpg?k=fec6225f9ef20f69585327873e2af28dbb06283283a0928fac348384467904c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520344452.jpg?k=5244a2887c3b7071283eedc332890167e14fa20e08dadb9cc157d9bdd7c987b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520335178.jpg?k=445c15c3af3271f1db1c14cbba1e83572a8c462e3b8824f59754da99f974b79e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520334052.jpg?k=1c26b794c374cc1941b99c3d97d08d58da1b07352d5f089f1c524571b13b18fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520335617.jpg?k=5dcb88803b0190b7853930a29093311817c2085868b1ad18d4356002f121f03e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520333940.jpg?k=8f125baffc97f931ba3574b4a4ffd7c3dc33e16c23dfed0717d49b9d5591c7a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520344405.jpg?k=cd2d137659c72120a4cd392a741184e068045efe9d75eba19743814b4b5e0a58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520338696.jpg?k=a0f5ccb6fd64ab19cbafdcdc75a3bbbc5db0b0489424729dcaa993e0533ead59&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "PJERO 500 m"\n  - "Gardalina 750 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1.9 km"\n  - "National Park Skadar Lake 11 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 71 km"\n  - "Tivat Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-meti-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nSituated a mere 48 km from the Port of Bar, Vila DLMeti stands out for its commitment to a smoke-free environment, catering to the health and well-being of its guests. The apartment itself is a testament to modern living, featuring a flat-screen TV, two cozy bedrooms, and a welcoming living room designed for moments of relaxation and family gatherings.
+---
+title: "Vila DLMeti"
+description: "Vila DLMeti emerges as a serene retreat in the vibrant city of Shkodër, offering guests a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520333917.jpg?k=9b2c4186f54af93116a084c51d236b8a0373b312591644c86b0203a6b9ae2220&o=&hp=1"
+language: en
+slug: vila-dlmeti
+address: "Rruga Dracin, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.05418738
+  lng: 19.5140154
+price: "US$32"
+priceFrom: 32
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520333917.jpg?k=9b2c4186f54af93116a084c51d236b8a0373b312591644c86b0203a6b9ae2220&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520331772.jpg?k=fec6225f9ef20f69585327873e2af28dbb06283283a0928fac348384467904c4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520344452.jpg?k=5244a2887c3b7071283eedc332890167e14fa20e08dadb9cc157d9bdd7c987b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520335178.jpg?k=445c15c3af3271f1db1c14cbba1e83572a8c462e3b8824f59754da99f974b79e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520334052.jpg?k=1c26b794c374cc1941b99c3d97d08d58da1b07352d5f089f1c524571b13b18fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520335617.jpg?k=5dcb88803b0190b7853930a29093311817c2085868b1ad18d4356002f121f03e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520333940.jpg?k=8f125baffc97f931ba3574b4a4ffd7c3dc33e16c23dfed0717d49b9d5591c7a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520344405.jpg?k=cd2d137659c72120a4cd392a741184e068045efe9d75eba19743814b4b5e0a58&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520338696.jpg?k=a0f5ccb6fd64ab19cbafdcdc75a3bbbc5db0b0489424729dcaa993e0533ead59&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "PJERO 500 m"
+  - "Gardalina 750 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 1.9 km"
+  - "National Park Skadar Lake 11 km"
+airports:
+  - "Podgorica Airport 39 km"
+  - "Tirana International Airport Mother Teresa 71 km"
+  - "Tivat Airport 74 km"
+bookingURL: "https://www.booking.com/hotel/al/vila-meti-shkoder.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+Situated a mere 48 km from the Port of Bar, Vila DLMeti stands out for its commitment to a smoke-free environment, catering to the health and well-being of its guests. The apartment itself is a testament to modern living, featuring a flat-screen TV, two cozy bedrooms, and a welcoming living room designed for moments of relaxation and family gatherings.
 
 For those seeking tranquility amidst nature, the property's garden offers a peaceful escape, inviting guests to unwind and soak in the serene atmosphere. Moreover, the convenience of being located just 60 km from Podgorica Airport adds to the appeal of Vila DLMeti, making it an accessible getaway for both local and international travelers in search of a memorable stay in Shkodër.

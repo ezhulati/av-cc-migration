@@ -1,4 +1,78 @@
----\ntitle: "The Village View"\ndescription: "The Village View stands out as a prime choice for travelers seeking a blend of comfort and convenience in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476356643.jpg?k=f0c5d26df894c843a1b577ad88263d06042b5f2536026db8ea534b9904eb1587&o=&hp=1"\nlanguage: en\nslug: the-village-view\naddress: "Himare, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10454506\n  lng: 19.74087099\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 26\nratings:\n  overall: 9.6\n  location: 8.8\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 9.6\n  comfort: 10\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476356643.jpg?k=f0c5d26df894c843a1b577ad88263d06042b5f2536026db8ea534b9904eb1587&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476619469.jpg?k=e1aafb683338e6626a40804ae9303068c14351e4efcfeeec681da0e3d96a4cc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476619752.jpg?k=01978188b8d5d3f67409e304ee6062b21b1808c1bbc1945f065bb916c486c52e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476619767.jpg?k=92fef22b7ce000492404dbbdf492b68309f37cb4be3356a64aadf1093e06b8c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476359062.jpg?k=c797b77268acc34b897b51f91670f4b0780dbbe14178a83fbe25a93a2476d886&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476621162.jpg?k=e1d85c7a9ca70907cc7b029d37c5c7e4d8cc95b54bf2dba0081ea17a00a160b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476355041.jpg?k=576a53e24bca420d601127ca00f3d3558979769ff9ecfaf2822e84579f7c733c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476620118.jpg?k=bc03523feb7a49c8481ae92458707424731fb134498eb2350aee89764e4fae04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477227573.jpg?k=0ac2a55642e98c64789e98b29fffe755d0fb8b7257cbfcecd7b329be9f630184&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (49 Mbps)"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Blue Bay 100 m"\n  - "La Pasteria 350 m"\nnearbyBeaches:\n  - "Spille Beach 350 m"\n  - "Maracit Beach 850 m"\n  - "Livadhi Beach 850 m"\n  - "Prinos Beach 1.1 km"\n  - "Potam Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 57 km"\nreviews:\n  - name: "Traveller"\n    country: "Qatar"\n    text: "“It is a room attached ( though separate !!) to a family house .It is tidy , clean and conformable . Nice family . The location is very good; short walking distance to the cute town and beach where you find different kind of restaurants , cafes...”"\n  - name: "Alessandro"\n    country: "Italy"\n    text: "“I couldn't choose a better place to stay. The location, the place itself, the cleanliness... everything was just great, but the real gem is the host. Constantina was always a message away and Mama is just the sweetest person who cooked us...”"\n  - name: "Wim"\n    country: "Belgium"\n    text: "“Brand new accommodation, super experience, fantastic welcome, very clean room, close to the village center.”"\nbookingURL: "https://www.booking.com/hotel/al/the-village-view.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nFeaturing a well-appointed bedroom, a fully equipped kitchen complete with a fridge and stovetop, and a cozy seating area, the apartment ensures a home-away-from-home experience. The inclusion of a flat-screen TV and a modern bathroom, either with a bath or shower, adds to the comfort of the stay. One of the highlights is the outdoor dining area, where guests can savor their meals against the backdrop of breathtaking mountain views, making every dining experience memorable.
+---
+title: "The Village View"
+description: "The Village View stands out as a prime choice for travelers seeking a blend of comfort and convenience in Himare."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476356643.jpg?k=f0c5d26df894c843a1b577ad88263d06042b5f2536026db8ea534b9904eb1587&o=&hp=1"
+language: en
+slug: the-village-view
+address: "Himare, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.10454506
+  lng: 19.74087099
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 26
+ratings:
+  overall: 9.6
+  location: 8.8
+  cleanliness: 9.7
+  facilities: 9.7
+  value: 9.6
+  comfort: 10
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476356643.jpg?k=f0c5d26df894c843a1b577ad88263d06042b5f2536026db8ea534b9904eb1587&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476619469.jpg?k=e1aafb683338e6626a40804ae9303068c14351e4efcfeeec681da0e3d96a4cc9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476619752.jpg?k=01978188b8d5d3f67409e304ee6062b21b1808c1bbc1945f065bb916c486c52e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476619767.jpg?k=92fef22b7ce000492404dbbdf492b68309f37cb4be3356a64aadf1093e06b8c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476359062.jpg?k=c797b77268acc34b897b51f91670f4b0780dbbe14178a83fbe25a93a2476d886&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476621162.jpg?k=e1d85c7a9ca70907cc7b029d37c5c7e4d8cc95b54bf2dba0081ea17a00a160b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476355041.jpg?k=576a53e24bca420d601127ca00f3d3558979769ff9ecfaf2822e84579f7c733c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476620118.jpg?k=bc03523feb7a49c8481ae92458707424731fb134498eb2350aee89764e4fae04&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477227573.jpg?k=0ac2a55642e98c64789e98b29fffe755d0fb8b7257cbfcecd7b329be9f630184&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Good free WiFi (49 Mbps)"
+  - "Family rooms"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Blue Bay 100 m"
+  - "La Pasteria 350 m"
+nearbyBeaches:
+  - "Spille Beach 350 m"
+  - "Maracit Beach 850 m"
+  - "Livadhi Beach 850 m"
+  - "Prinos Beach 1.1 km"
+  - "Potam Beach 1.5 km"
+whatsNearby:
+  - "Llogora National Park 16 km"
+airports:
+  - "Corfu International Airport 57 km"
+reviews:
+  - name: "Traveller"
+    country: "Qatar"
+    text: "“It is a room attached ( though separate !!) to a family house .It is tidy , clean and conformable . Nice family . The location is very good; short walking distance to the cute town and beach where you find different kind of restaurants , cafes...”"
+  - name: "Alessandro"
+    country: "Italy"
+    text: "“I couldn't choose a better place to stay. The location, the place itself, the cleanliness... everything was just great, but the real gem is the host. Constantina was always a message away and Mama is just the sweetest person who cooked us...”"
+  - name: "Wim"
+    country: "Belgium"
+    text: "“Brand new accommodation, super experience, fantastic welcome, very clean room, close to the village center.”"
+bookingURL: "https://www.booking.com/hotel/al/the-village-view.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Featuring a well-appointed bedroom, a fully equipped kitchen complete with a fridge and stovetop, and a cozy seating area, the apartment ensures a home-away-from-home experience. The inclusion of a flat-screen TV and a modern bathroom, either with a bath or shower, adds to the comfort of the stay. One of the highlights is the outdoor dining area, where guests can savor their meals against the backdrop of breathtaking mountain views, making every dining experience memorable.
 
 The Village View prioritizes a smoke-free environment, catering to the health and well-being of its guests. Families visiting with little ones will appreciate the thoughtful addition of a baby safety gate, ensuring peace of mind during their stay. The sun terrace and garden offer tranquil spaces for relaxation, inviting guests to unwind in the beauty of their surroundings.
 

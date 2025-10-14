@@ -8,8 +8,7 @@ images: []
 language: en
 slug: sky-restaurant-bar
 seo:
-  metaDescription: "Discover Sky Bar's futuristic style through its lofty revolving restaurant orbiting 16 floors above remnants of old regimes while unveiling Tirana's promise.
-"
+  metaDescription: "Discover Sky Bar's futuristic style through its lofty revolving restaurant orbiting 16 floors above remnants of old regimes while unveiling Tirana's promise."
 ---
 
 Overview

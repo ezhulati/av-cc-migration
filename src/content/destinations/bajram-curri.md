@@ -5,7 +5,6 @@ region: Northern Albania
 featuredImage: /images/destinations/bajram-curri.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

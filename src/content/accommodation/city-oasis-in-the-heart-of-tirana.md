@@ -1,4 +1,88 @@
----\ntitle: "City OASIS in the Heart of Tirana"\ndescription: "City OASIS in the Heart of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517951874.jpg?k=f2bcf86f15e68df236e8fc93f51eb003acae73166a03405cc82ff65e6975c94c&o=&hp=1"\nlanguage: en\nslug: city-oasis-in-the-heart-of-tirana\naddress: "Rruga George W. Bush, 1057 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32837998\n  lng: 19.82230901\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 26\nratings:\n  overall: 9.7\n  location: 9.9\n  cleanliness: 9.6\n  facilities: 9.5\n  value: 9.7\n  comfort: 9.8\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517951874.jpg?k=f2bcf86f15e68df236e8fc93f51eb003acae73166a03405cc82ff65e6975c94c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517665716.jpg?k=af5de0480852880c3133f3086354d2c5201caf2f103053b892e2d631657f6d26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517666118.jpg?k=19bd6836fd7ffa208e4a40a2150e60260ddb220f02ac6120b9b4196a5320ef63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517667308.jpg?k=67bd9916cdc1c0e486360cb165cb363b4629819d788689e905a5edad9fd65ae1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517321147.jpg?k=10bda80166e99dced5d58015a9bec2df750a67638bf791ff47aecaac975930dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517666243.jpg?k=536f78acb920fd19011fe3032be80de871e90cdf00270f7c4e4ce3819bc42129&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517665600.jpg?k=74b59ea4d5a66e7a8502b9ce49c910f77d4936598ac2e87e840f568cd8419342&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517667362.jpg?k=f954cb5e7fa328e81f4901e328b899b2e48a1e54a668bab647b4055decea3362&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517665798.jpg?k=c6ce68372f81c76aba0110b491f5b3389632e30c5a3c88751e098d5919c6c128&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Fast free WiFi (275 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 500 m"\n  - "Rinia Park 550 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Grand Park of Tirana 1.8 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Mango 20 m"\n  - "Tirana Fish Sandwich 50 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 50 m"\n  - "Clock Tower Tirana 250 m"\n  - "Skanderbeg Square 250 m"\n  - "National Gallery of Arts Tirana 250 m"\n  - "Parku Europa 300 m"\n  - "Sheshi Rekreativ tek ish ATSh 350 m"\n  - "Sheshi Skënderbej 350 m"\n  - "Tanners' Bridge 400 m"\n  - "Parku Rinia 400 m"\n  - "National Museum of History Albania 450 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Darren"\n    country: "United Kingdom"\n    text: "“Carnt falt this place I wood definitely book the oasis next time I'm in tarana shops pubs restaurant on your door step cudent be in a better location it was very clean and thay supply coffee for the coffee machine we had a magnificent stay ❤️”"\n  - name: "Azulon"\n    country: "Spain"\n    text: "“The location was perfect for us, the apartament is as the photos, everything was perfect, beds are really confortable”"\n  - name: "Ian"\n    country: "Netherlands"\n    text: "“Very Big Apartment, centrally located. All necessary facilities (microwave, washing machine, dryer). The host Adrian was nice to deal with. An excellent apartment!”"\nbookingURL: "https://www.booking.com/hotel/al/collaku-home-tirana2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nBoasting a strategic position, City OASIS is within easy reach of Tirana's most celebrated attractions. The Rock of Kavaje lies 43 km away, while the architectural marvels of Tanners' Bridge and the Clock Tower of Tirana are just 500 meters from the doorstep. Moreover, the iconic Skanderbeg Square is a mere 300 meters away, placing guests in the pulsating heart of the city.
+---
+title: "City OASIS in the Heart of Tirana"
+description: "City OASIS in the Heart of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517951874.jpg?k=f2bcf86f15e68df236e8fc93f51eb003acae73166a03405cc82ff65e6975c94c&o=&hp=1"
+language: en
+slug: city-oasis-in-the-heart-of-tirana
+address: "Rruga George W. Bush, 1057 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32837998
+  lng: 19.82230901
+price: "US$52"
+priceFrom: 52
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 26
+ratings:
+  overall: 9.7
+  location: 9.9
+  cleanliness: 9.6
+  facilities: 9.5
+  value: 9.7
+  comfort: 9.8
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517951874.jpg?k=f2bcf86f15e68df236e8fc93f51eb003acae73166a03405cc82ff65e6975c94c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517665716.jpg?k=af5de0480852880c3133f3086354d2c5201caf2f103053b892e2d631657f6d26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517666118.jpg?k=19bd6836fd7ffa208e4a40a2150e60260ddb220f02ac6120b9b4196a5320ef63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517667308.jpg?k=67bd9916cdc1c0e486360cb165cb363b4629819d788689e905a5edad9fd65ae1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517321147.jpg?k=10bda80166e99dced5d58015a9bec2df750a67638bf791ff47aecaac975930dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517666243.jpg?k=536f78acb920fd19011fe3032be80de871e90cdf00270f7c4e4ce3819bc42129&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517665600.jpg?k=74b59ea4d5a66e7a8502b9ce49c910f77d4936598ac2e87e840f568cd8419342&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517667362.jpg?k=f954cb5e7fa328e81f4901e328b899b2e48a1e54a668bab647b4055decea3362&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517665798.jpg?k=c6ce68372f81c76aba0110b491f5b3389632e30c5a3c88751e098d5919c6c128&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking on site"
+  - "Fast free WiFi (275 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 500 m"
+  - "Rinia Park 550 m"
+  - "Former Residence of Enver Hoxha 900 m"
+  - "Grand Park of Tirana 1.8 km"
+  - "Bunk'Art 1 Museum 4 km"
+nearbyRestaurants:
+  - "Mango 20 m"
+  - "Tirana Fish Sandwich 50 m"
+whatsNearby:
+  - "Sheshi Sulejman Pasha 50 m"
+  - "Clock Tower Tirana 250 m"
+  - "Skanderbeg Square 250 m"
+  - "National Gallery of Arts Tirana 250 m"
+  - "Parku Europa 300 m"
+  - "Sheshi Rekreativ tek ish ATSh 350 m"
+  - "Sheshi Skënderbej 350 m"
+  - "Tanners' Bridge 400 m"
+  - "Parku Rinia 400 m"
+  - "National Museum of History Albania 450 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Darren"
+    country: "United Kingdom"
+    text: "“Carnt falt this place I wood definitely book the oasis next time I'm in tarana shops pubs restaurant on your door step cudent be in a better location it was very clean and thay supply coffee for the coffee machine we had a magnificent stay ❤️”"
+  - name: "Azulon"
+    country: "Spain"
+    text: "“The location was perfect for us, the apartament is as the photos, everything was perfect, beds are really confortable”"
+  - name: "Ian"
+    country: "Netherlands"
+    text: "“Very Big Apartment, centrally located. All necessary facilities (microwave, washing machine, dryer). The host Adrian was nice to deal with. An excellent apartment!”"
+bookingURL: "https://www.booking.com/hotel/al/collaku-home-tirana2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Boasting a strategic position, City OASIS is within easy reach of Tirana's most celebrated attractions. The Rock of Kavaje lies 43 km away, while the architectural marvels of Tanners' Bridge and the Clock Tower of Tirana are just 500 meters from the doorstep. Moreover, the iconic Skanderbeg Square is a mere 300 meters away, placing guests in the pulsating heart of the city.
 
 The apartment itself is a haven of space and light, featuring two well-appointed bedrooms, a cozy living room, and a balcony that offers captivating city views. Modern amenities, including a flat-screen TV, a fully equipped kitchen with a dishwasher and an oven, and a sleek bathroom with a shower, ensure a stay that marries comfort with convenience. The addition of a private entrance underscores the accommodation's commitment to privacy and exclusivity.
 

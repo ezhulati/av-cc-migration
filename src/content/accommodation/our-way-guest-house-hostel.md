@@ -1,4 +1,69 @@
----\ntitle: "Our Way Guest House & Hostel"\ndescription: "Our Way Guest House & Hostel stands out as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703655.jpg?k=cd243f1a7a9af61678f1635a6caf16ee5024dae80f75ed6f156c0f757872a96e&o=&hp=1"\nlanguage: en\nslug: our-way-guest-house-hostel\naddress: "Rruga Pashko Gjeci, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 42.063584\n  lng: 19.522437\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 811\nratings:\n  overall: 7.9\n  location: 8.2\n  cleanliness: 7.4\n  facilities: 7.3\n  value: 8.3\n  comfort: 7.4\n  staff: 8.3\n  wifi: 8.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703655.jpg?k=cd243f1a7a9af61678f1635a6caf16ee5024dae80f75ed6f156c0f757872a96e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052753.jpg?k=69ab593bd59b38bc610f63916cbed83a69819ce72156c9727056c7c0185a575e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052731.jpg?k=c3be6c18c8934ce178f6848cd716ea36c59f24c5697323234d052e57439ec911&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052808.jpg?k=44b2d7007b768790f65b55ecda6735c2e0d4407f6a9a2c8996a64e1ed6e1e160&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052760.jpg?k=cd996274a865f5bfc7ced18966bb41665383ba43672c3cbb7579490c4700d9d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052864.jpg?k=eba8f464bb94cba22c3ec0418f61811c0982be2a70f4443c1cb0ed9a8ed8309c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052771.jpg?k=d6c7dd56dcdcc329a98f1c7962deaa6a960433238bfc3982712040ab122665ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703824.jpg?k=2c6bf9c7c41ff6ae20e189f2ea6353696d93b2d9322b2cc661e73573536ae8de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052708.jpg?k=6bcba0d9c2efbe12824bf4c85f52fdf01a46f8a742eae0bf430bd1796394af7c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052711.jpg?k=5a5c80d56c2975e33d543e1d21a8772e1a579b3f7d1230d7cddb44c4ef1fb57d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703774.jpg?k=d4fe45614c282a791a7060544ac26707529a53f10e315f746afc6f2d00595bd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052733.jpg?k=da99fc4769ef26f1393db0bdf72e161758b1483c8d3a9268e8a7321355af0959&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "PRIVAT 150 m"\n  - "Garden Bar 200 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3 km"\n  - "National Park Skadar Lake 11 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 75 km"\nbookingURL: "https://www.booking.com/hotel/al/our-way-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nLocated just 49 km from the Port of Bar, guests are treated to air-conditioned accommodations that promise a cool retreat from the day's adventures. The addition of a sun terrace elevates the experience, allowing visitors to soak up the sun in a tranquil setting. Convenience is at the forefront, with complimentary WiFi, ample private parking, and even an electric vehicle charging station ensuring a hassle-free stay.
+---
+title: "Our Way Guest House & Hostel"
+description: "Our Way Guest House & Hostel stands out as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703655.jpg?k=cd243f1a7a9af61678f1635a6caf16ee5024dae80f75ed6f156c0f757872a96e&o=&hp=1"
+language: en
+slug: our-way-guest-house-hostel
+address: "Rruga Pashko Gjeci, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hostel"
+coordinates:
+  lat: 42.063584
+  lng: 19.522437
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 811
+ratings:
+  overall: 7.9
+  location: 8.2
+  cleanliness: 7.4
+  facilities: 7.3
+  value: 8.3
+  comfort: 7.4
+  staff: 8.3
+  wifi: 8.1
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703655.jpg?k=cd243f1a7a9af61678f1635a6caf16ee5024dae80f75ed6f156c0f757872a96e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052753.jpg?k=69ab593bd59b38bc610f63916cbed83a69819ce72156c9727056c7c0185a575e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052731.jpg?k=c3be6c18c8934ce178f6848cd716ea36c59f24c5697323234d052e57439ec911&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052808.jpg?k=44b2d7007b768790f65b55ecda6735c2e0d4407f6a9a2c8996a64e1ed6e1e160&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052760.jpg?k=cd996274a865f5bfc7ced18966bb41665383ba43672c3cbb7579490c4700d9d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052864.jpg?k=eba8f464bb94cba22c3ec0418f61811c0982be2a70f4443c1cb0ed9a8ed8309c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052771.jpg?k=d6c7dd56dcdcc329a98f1c7962deaa6a960433238bfc3982712040ab122665ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703824.jpg?k=2c6bf9c7c41ff6ae20e189f2ea6353696d93b2d9322b2cc661e73573536ae8de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052708.jpg?k=6bcba0d9c2efbe12824bf4c85f52fdf01a46f8a742eae0bf430bd1796394af7c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052711.jpg?k=5a5c80d56c2975e33d543e1d21a8772e1a579b3f7d1230d7cddb44c4ef1fb57d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703774.jpg?k=d4fe45614c282a791a7060544ac26707529a53f10e315f746afc6f2d00595bd9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189052733.jpg?k=da99fc4769ef26f1393db0bdf72e161758b1483c8d3a9268e8a7321355af0959&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+nearbyRestaurants:
+  - "PRIVAT 150 m"
+  - "Garden Bar 200 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 3 km"
+  - "National Park Skadar Lake 11 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 72 km"
+  - "Tivat Airport 75 km"
+bookingURL: "https://www.booking.com/hotel/al/our-way-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Located just 49 km from the Port of Bar, guests are treated to air-conditioned accommodations that promise a cool retreat from the day's adventures. The addition of a sun terrace elevates the experience, allowing visitors to soak up the sun in a tranquil setting. Convenience is at the forefront, with complimentary WiFi, ample private parking, and even an electric vehicle charging station ensuring a hassle-free stay.
 
 The accommodations vary, with select units featuring balconies or patios that open up to breathtaking mountain views and offer outdoor dining areas. For those requiring extra space, some units come equipped with a dressing room, providing an added layer of privacy.
 

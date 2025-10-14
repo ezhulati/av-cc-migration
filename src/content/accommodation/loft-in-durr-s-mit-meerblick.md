@@ -1,4 +1,75 @@
----\ntitle: "Loft in Durrës mit Meerblick"\ndescription: "Loft in Durrës mit Meerblick stands as a testament to modern comfort and convenience, offering guests a unique stay with breathtaking sea views right from its balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645262.jpg?k=c4b157da6318b51134c85ebebe4cf007a3d0013d625384143564a2ae0c56ef5e&o=&hp=1"\nlanguage: en\nslug: loft-in-durr-s-mit-meerblick\naddress: "Mali i Robit, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.23595048\n  lng: 19.516176\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645262.jpg?k=c4b157da6318b51134c85ebebe4cf007a3d0013d625384143564a2ae0c56ef5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645482.jpg?k=472435acfa7ed7d99e3f58b935e751d095833d4373de86e79833430946291be0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645478.jpg?k=f3cd51c52f1af785a8db839f125b0116a063a1a714034e1b1697d8a58335b24c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645384.jpg?k=b277a037749bc1c6e33a037d4a9f7a584624c430e8cdad988c62746195bac2d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645425.jpg?k=b7c8bb8803ddbe45f1e96665252a09344d8f3abf3cfc413036eee9929c798d0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645462.jpg?k=5764b05f2719c5f4407952eed1cc9b2519f2d3f78d8ea761bdfcaa825da0d230&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645608.jpg?k=ceb7dbf2d5c7371f0137e8e24078ef7c61d642df9ddebc99518b9f600cf86660&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645444.jpg?k=cebf97dea8473a5d6801f303f27ae7b4f6bd26584e4d59d3d8d2ede8a08bb5b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645369.jpg?k=5f9d417b3f7bf2b28a5f5690abdb0de5d9f9b10fe0f22832953a93b21f8ee661&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\nnearbyRestaurants:\n  - "Te Berti Golem 40 m"\n  - "Ujvara Hotel & Bar Restorant Piceri 150 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 40 m"\n  - "Qerret Beach 700 m"\n  - "Golem Beach 1.3 km"\n  - "Shkëmbi i Kavajës Beach 3.3 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/loft-in-kavaje-golem-mit-meerblick-kavaje-golem1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with everything a guest might need - from a dishwasher and oven to a washing machine, toaster, and fridge. The inclusion of towels and bed linen ensures a hassle-free stay, while the private entrance to the accommodation adds an extra layer of privacy for discerning guests.
+---
+title: "Loft in Durrës mit Meerblick"
+description: "Loft in Durrës mit Meerblick stands as a testament to modern comfort and convenience, offering guests a unique stay with breathtaking sea views right from its balcony."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645262.jpg?k=c4b157da6318b51134c85ebebe4cf007a3d0013d625384143564a2ae0c56ef5e&o=&hp=1"
+language: en
+slug: loft-in-durr-s-mit-meerblick
+address: "Mali i Robit, Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.23595048
+  lng: 19.516176
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645262.jpg?k=c4b157da6318b51134c85ebebe4cf007a3d0013d625384143564a2ae0c56ef5e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645482.jpg?k=472435acfa7ed7d99e3f58b935e751d095833d4373de86e79833430946291be0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645478.jpg?k=f3cd51c52f1af785a8db839f125b0116a063a1a714034e1b1697d8a58335b24c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645384.jpg?k=b277a037749bc1c6e33a037d4a9f7a584624c430e8cdad988c62746195bac2d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645425.jpg?k=b7c8bb8803ddbe45f1e96665252a09344d8f3abf3cfc413036eee9929c798d0d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645462.jpg?k=5764b05f2719c5f4407952eed1cc9b2519f2d3f78d8ea761bdfcaa825da0d230&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645608.jpg?k=ceb7dbf2d5c7371f0137e8e24078ef7c61d642df9ddebc99518b9f600cf86660&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645444.jpg?k=cebf97dea8473a5d6801f303f27ae7b4f6bd26584e4d59d3d8d2ede8a08bb5b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645369.jpg?k=5f9d417b3f7bf2b28a5f5690abdb0de5d9f9b10fe0f22832953a93b21f8ee661&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+nearbyRestaurants:
+  - "Te Berti Golem 40 m"
+  - "Ujvara Hotel & Bar Restorant Piceri 150 m"
+nearbyBeaches:
+  - "Mali I Robit Beach 40 m"
+  - "Qerret Beach 700 m"
+  - "Golem Beach 1.3 km"
+  - "Shkëmbi i Kavajës Beach 3.3 km"
+  - "Durres Beach 6 km"
+whatsNearby:
+  - "Durres Amphiteatre 10 km"
+  - "1. Maj 10 km"
+  - "Wine Dhe Pooh 11 km"
+  - "Yje Dhe Hena 11 km"
+  - "Sheshi Demokracia 11 km"
+  - "Bekimi 11 km"
+  - "Sotir Noka 11 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+bookingURL: "https://www.booking.com/hotel/al/loft-in-kavaje-golem-mit-meerblick-kavaje-golem1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious haven, boasting a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with everything a guest might need - from a dishwasher and oven to a washing machine, toaster, and fridge. The inclusion of towels and bed linen ensures a hassle-free stay, while the private entrance to the accommodation adds an extra layer of privacy for discerning guests.
 
 For those who prefer the convenience of preparing their own meals or need to pick up a quick snack, a minimarket on the premises caters to all basic shopping needs. Additionally, the sun terrace invites guests to unwind and soak up the sun in a tranquil setting.
 

@@ -1,6 +1,87 @@
----\ntitle: "4SeasonsGea , New Modern Apartment in Tirana"\ndescription: "Discover the charm of Tirana with a stay at 4SeasonsGea, a contemporary apartment that offers the perfect blend of city life and serene living."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610422.jpg?k=47af506854c48e903445e1dd5fddbb196e1dd3643939c87e59c17e0927f59f2c&o=&hp=1"\nlanguage: en\nslug: 4seasonsgea-new-modern-apartment-in-tirana\naddress: "Rruga Shyqyri Bërxolli, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.326642\n  lng: 19.814\nprice: "US$50"\npriceFrom: 50\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 44\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.4\n  facilities: 9.3\n  value: 9.7\n  comfort: 9.3\n  staff: 9.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610422.jpg?k=47af506854c48e903445e1dd5fddbb196e1dd3643939c87e59c17e0927f59f2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610550.jpg?k=542a5e5515ff76813c91d7158c7d361dd21f126292d86e6ac387a825a4887347&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406564307.jpg?k=ed96d64652d47e1c834cf3ec12b713137de33e895ac70fea56233fdd4a4d8ba8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610522.jpg?k=a9f8e3301ed64e3758a7d97213a6fd1deda3b01fe2b82220d1cf2e486d318973&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456392897.jpg?k=d6496cdd1b5f9d64ea1586e5507f66cf59b4be5595a6cf8574757015e4fd646f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610303.jpg?k=c07af3bdd35e691b315e6d44df9ef7004f69214eceed5bace73d75ad83041002&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610321.jpg?k=50cad763dc4115557dd9d17ad99a1d3357bc7c32023f6f4834332644bd01e8b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406564144.jpg?k=1c3fe5a37cf47993707e8fd98eb91dbabaea584d569b24cdf3cc2e0e62856f7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474928194.jpg?k=4e7cefbd5173249c57476d74c7fa809961bfc633a78fe592c12b0e7eaf71f994&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (27 Mbps)"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 700 m"\n  - "Tanners' Bridge 1 km"\n  - "Grand Park of Tirana 1.9 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Posta 150 m"\n  - "Makamona 150 m"\nwhatsNearby:\n  - "House of Leaves 200 m"\n  - "Sheshi Paris 300 m"\n  - "Sheshi Skënderbej 400 m"\n  - "Rinia Park 400 m"\n  - "National Museum of History Albania 400 m"\n  - "Parku Europa 450 m"\n  - "Skanderbeg Square 450 m"\n  - "Parku Rinia 450 m"\n  - "Clock Tower Tirana 500 m"\n  - "National Gallery of Arts Tirana 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Mike"\n    country: "United Kingdom"\n    text: "“The property was in a great location close to lots of shops, pubs, restaurants and tourist attractions.”"\n  - name: "Eleonora"\n    country: "Lithuania"\n    text: "“- great location
+---
+title: "4SeasonsGea , New Modern Apartment in Tirana"
+description: "Discover the charm of Tirana with a stay at 4SeasonsGea, a contemporary apartment that offers the perfect blend of city life and serene living."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610422.jpg?k=47af506854c48e903445e1dd5fddbb196e1dd3643939c87e59c17e0927f59f2c&o=&hp=1"
+language: en
+slug: 4seasonsgea-new-modern-apartment-in-tirana
+address: "Rruga Shyqyri Bërxolli, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.326642
+  lng: 19.814
+price: "US$50"
+priceFrom: 50
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 44
+ratings:
+  overall: 9.4
+  location: 9.6
+  cleanliness: 9.4
+  facilities: 9.3
+  value: 9.7
+  comfort: 9.3
+  staff: 9.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610422.jpg?k=47af506854c48e903445e1dd5fddbb196e1dd3643939c87e59c17e0927f59f2c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610550.jpg?k=542a5e5515ff76813c91d7158c7d361dd21f126292d86e6ac387a825a4887347&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406564307.jpg?k=ed96d64652d47e1c834cf3ec12b713137de33e895ac70fea56233fdd4a4d8ba8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610522.jpg?k=a9f8e3301ed64e3758a7d97213a6fd1deda3b01fe2b82220d1cf2e486d318973&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456392897.jpg?k=d6496cdd1b5f9d64ea1586e5507f66cf59b4be5595a6cf8574757015e4fd646f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610303.jpg?k=c07af3bdd35e691b315e6d44df9ef7004f69214eceed5bace73d75ad83041002&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610321.jpg?k=50cad763dc4115557dd9d17ad99a1d3357bc7c32023f6f4834332644bd01e8b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406564144.jpg?k=1c3fe5a37cf47993707e8fd98eb91dbabaea584d569b24cdf3cc2e0e62856f7a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474928194.jpg?k=4e7cefbd5173249c57476d74c7fa809961bfc633a78fe592c12b0e7eaf71f994&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (27 Mbps)"
+roomTypes:
+  - "Apartment with Balcony"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 700 m"
+  - "Tanners' Bridge 1 km"
+  - "Grand Park of Tirana 1.9 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+nearbyRestaurants:
+  - "Posta 150 m"
+  - "Makamona 150 m"
+whatsNearby:
+  - "House of Leaves 200 m"
+  - "Sheshi Paris 300 m"
+  - "Sheshi Skënderbej 400 m"
+  - "Rinia Park 400 m"
+  - "National Museum of History Albania 400 m"
+  - "Parku Europa 450 m"
+  - "Skanderbeg Square 450 m"
+  - "Parku Rinia 450 m"
+  - "Clock Tower Tirana 500 m"
+  - "National Gallery of Arts Tirana 550 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Mike"
+    country: "United Kingdom"
+    text: "“The property was in a great location close to lots of shops, pubs, restaurants and tourist attractions.”"
+  - name: "Eleonora"
+    country: "Lithuania"
+    text: "“- great location
 - easy check-in
-- the room has everything you might need - even shower slippers!”"\n  - name: "Weidong"\n    country: "China"\n    text: "“It’s a perfect accommodation I’ve ever stay. Everything is worth of the room fee!”"\nbookingURL: "https://www.booking.com/hotel/al/4seasonsgea-new-modern-apartment-in-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\n4SeasonsGea stands out for its thoughtful amenities and services, ensuring a hassle-free stay for every guest. The apartment is air-conditioned and boasts a private balcony that offers views of the city's quiet streets, providing a peaceful retreat from the bustling city life. For those seeking convenience, the property is equipped with full-day security, an ATM, and currency exchange services right on the premises.
+- the room has everything you might need - even shower slippers!”"
+  - name: "Weidong"
+    country: "China"
+    text: "“It’s a perfect accommodation I’ve ever stay. Everything is worth of the room fee!”"
+bookingURL: "https://www.booking.com/hotel/al/4seasonsgea-new-modern-apartment-in-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+4SeasonsGea stands out for its thoughtful amenities and services, ensuring a hassle-free stay for every guest. The apartment is air-conditioned and boasts a private balcony that offers views of the city's quiet streets, providing a peaceful retreat from the bustling city life. For those seeking convenience, the property is equipped with full-day security, an ATM, and currency exchange services right on the premises.
 
 The interior of the apartment is designed with comfort and style in mind. Guests will find a cozy bedroom, a sleek bathroom with a shower, and a living area that includes a flat-screen TV complete with streaming services for entertainment. The kitchen is fully equipped with modern appliances, including a microwave and a fridge, making it easy to prepare meals. Additionally, a washing machine is available for guests' convenience, adding to the comforts of home.
 

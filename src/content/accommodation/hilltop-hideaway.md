@@ -1,3 +1,64 @@
----\ntitle: "HILLTOP HIDEAWAY"\ndescription: "HILLTOP HIDEAWAY emerges as a serene retreat, offering breathtaking mountain views and a tranquil garden setting, located approximately 43 km from the bustling Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914055.jpg?k=92a01e9211a33731329802fd19cf05cf399d2bba688312e7430db0e68fcbbbb5&o=&hp=1"\nlanguage: en\nslug: hilltop-hideaway\naddress: "Hajdaran, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.09481597\n  lng: 20.10122958\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.8\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 8.8\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914055.jpg?k=92a01e9211a33731329802fd19cf05cf399d2bba688312e7430db0e68fcbbbb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914119.jpg?k=a1f5d08947804251c24b9b10098bc5aafbc21f985d8e6ea78dd40478d5656f9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914133.jpg?k=9ea7e2f9668582213759b2b4498ddffe73bc1d2be224cc2a0b6c4dbd484468db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356565300.jpg?k=fe6865f4f5a32039091002685ab995eef4586c38749ebfdf1ad94c9c45181696&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356563873.jpg?k=0f1d5d75f7b0b21b40e0079c26681e1ebb38f6ef83f18056af61a24d9490a10e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352916882.jpg?k=0d286dd8778dcde7e82a7549c813260283774e89d6ad211b24841e21cdfea080&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356571799.jpg?k=99e8e2ecc82e805626f8f51126dbc34dd1ab9fca8dca3159efb5dc1612767ebd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914111.jpg?k=eef6c42b723bbd78d887abbe412260f9bcc5b2b4da8f355ddf69cfd5d11fc1fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914137.jpg?k=1ea03f42a39f4b1cdcaffc3949a54e5740385d38b72559ecd4669978c0bd84c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914069.jpg?k=4729557f282599266561e8032e67fae143280e79cb985569f0597f83a4e79a38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914063.jpg?k=49f951b75777ec92aedac795bfb25a1072ca6440a60438f6849b692d0dad5b75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914078.jpg?k=a361ab100090f988443e7ff760157345be9b282ad8b03332f6fdecf7fae604ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914100.jpg?k=e882414d6c474d00d8807941cb68913dc5f2f56811e99443057af3c18759b08f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914091.jpg?k=249d8ddab585a46bdc7863ade3e0b0d72f5efdf92f35a1168405431e8bfda1d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914153.jpg?k=1d757a958111939a11b96520a3c5fc3b648057d1f65014988b9f109a98b4b3ee&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Airport shuttle"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Alan 1.5 km"\n  - "Muza by Tedy Çopja 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 46 km"\n  - "Ohrid Airport 54 km"\nbookingURL: "https://www.booking.com/hotel/al/hilltop-hideaway.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property is distinguished by its spacious accommodations, which include a living room with comfortable seating and dining areas, a fully equipped kitchen boasting modern appliances such as a dishwasher, oven, and microwave, and the luxury of a Blu-ray player for entertainment. The air-conditioned quarters feature four elegantly appointed bedrooms and three well-designed bathrooms equipped with walk-in showers and bidets, enhancing the comfort of each stay. Additional conveniences such as a flat-screen TV, washing machine, and the provision of bed linen, towels, and ironing services underscore the bed and breakfast's commitment to guest satisfaction.
+---
+title: "HILLTOP HIDEAWAY"
+description: "HILLTOP HIDEAWAY emerges as a serene retreat, offering breathtaking mountain views and a tranquil garden setting, located approximately 43 km from the bustling Skanderbeg Square."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914055.jpg?k=92a01e9211a33731329802fd19cf05cf399d2bba688312e7430db0e68fcbbbb5&o=&hp=1"
+language: en
+slug: hilltop-hideaway
+address: "Hajdaran, 3001 Elbasan, Albania"
+city: "Elbasan"
+location: "Elbasan"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.09481597
+  lng: 20.10122958
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.8
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 8.8
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914055.jpg?k=92a01e9211a33731329802fd19cf05cf399d2bba688312e7430db0e68fcbbbb5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914119.jpg?k=a1f5d08947804251c24b9b10098bc5aafbc21f985d8e6ea78dd40478d5656f9d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914133.jpg?k=9ea7e2f9668582213759b2b4498ddffe73bc1d2be224cc2a0b6c4dbd484468db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356565300.jpg?k=fe6865f4f5a32039091002685ab995eef4586c38749ebfdf1ad94c9c45181696&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356563873.jpg?k=0f1d5d75f7b0b21b40e0079c26681e1ebb38f6ef83f18056af61a24d9490a10e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352916882.jpg?k=0d286dd8778dcde7e82a7549c813260283774e89d6ad211b24841e21cdfea080&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356571799.jpg?k=99e8e2ecc82e805626f8f51126dbc34dd1ab9fca8dca3159efb5dc1612767ebd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914111.jpg?k=eef6c42b723bbd78d887abbe412260f9bcc5b2b4da8f355ddf69cfd5d11fc1fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914137.jpg?k=1ea03f42a39f4b1cdcaffc3949a54e5740385d38b72559ecd4669978c0bd84c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914069.jpg?k=4729557f282599266561e8032e67fae143280e79cb985569f0597f83a4e79a38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914063.jpg?k=49f951b75777ec92aedac795bfb25a1072ca6440a60438f6849b692d0dad5b75&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914078.jpg?k=a361ab100090f988443e7ff760157345be9b282ad8b03332f6fdecf7fae604ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914100.jpg?k=e882414d6c474d00d8807941cb68913dc5f2f56811e99443057af3c18759b08f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914091.jpg?k=249d8ddab585a46bdc7863ade3e0b0d72f5efdf92f35a1168405431e8bfda1d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914153.jpg?k=1d757a958111939a11b96520a3c5fc3b648057d1f65014988b9f109a98b4b3ee&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Airport shuttle"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Alan 1.5 km"
+  - "Muza by Tedy Çopja 2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 46 km"
+  - "Ohrid Airport 54 km"
+bookingURL: "https://www.booking.com/hotel/al/hilltop-hideaway.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The property is distinguished by its spacious accommodations, which include a living room with comfortable seating and dining areas, a fully equipped kitchen boasting modern appliances such as a dishwasher, oven, and microwave, and the luxury of a Blu-ray player for entertainment. The air-conditioned quarters feature four elegantly appointed bedrooms and three well-designed bathrooms equipped with walk-in showers and bidets, enhancing the comfort of each stay. Additional conveniences such as a flat-screen TV, washing machine, and the provision of bed linen, towels, and ironing services underscore the bed and breakfast's commitment to guest satisfaction.
 
 Outdoor enthusiasts will appreciate the bed and breakfast's picnic area, an ideal spot for enjoying a day in the natural surroundings. Situated a mere 45 km from the Dajti Ekspres Cable Car and 42 km from the historical Former Residence of Enver Hoxha, HILLTOP HIDEAWAY offers an excellent base for exploring the region. The nearest airport, Tirana International Mother Teresa Airport, is conveniently located 55 km away, making the property an accessible escape for both local and international travelers seeking a blend of comfort, convenience, and natural beauty.

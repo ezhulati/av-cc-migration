@@ -1,4 +1,82 @@
----\ntitle: "Aquamarine Apartments"\ndescription: "Aquamarine Apartments emerges as a premier choice for travelers seeking luxury accommodations right on the waterfront in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368942343.jpg?k=61143776d806216fb3daa1838971f011879769da6a4a01d981ff53ea27596848&o=&hp=1"\nlanguage: en\nslug: aquamarine-apartments\naddress: "Naim Frasheri Street, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87212173\n  lng: 20.01389937\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 325\nratings:\n  overall: 9.2\n  location: 9.6\n  cleanliness: 9.3\n  facilities: 9\n  value: 9\n  comfort: 9.3\n  staff: 9.3\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368942343.jpg?k=61143776d806216fb3daa1838971f011879769da6a4a01d981ff53ea27596848&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461238985.jpg?k=7a8d150b7da582680671a325d7788b815dc44676bb582f05c1f9c940a77f8636&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261300045.jpg?k=d2a1e6e0d4e8adb4f49400ea006249af50f2499084c1fb14fd06e7284d507063&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374817829.jpg?k=33154b1110c2bfb297917b7abfce87405a9bfa80edea32c86bd087ecb1329fd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368944756.jpg?k=30be39348d9dace845e379070559a90666ec79e77f4b6034fafe256d7e032614&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203895824.jpg?k=91d6efd5c863219f99d5e77da3baf3b1a944b7326b515f56a124a9dd5d67ed59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363013347.jpg?k=9bc3a1495a87b6514281baf3cf53a050841a637c8e67c2c9ca66d5f75fbf6b7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261300418.jpg?k=3614ce0b3fa23e65ac56d22790e2ee8eb03f8d3c88daa696a8eadfa1a884b80f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374818899.jpg?k=8480d3131ba3f0adccbfb282ab5b0608e527ff7b1a6f65e29c75773c7533ca62&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Italian Mattarello 10 m"\n  - "Moma Cafè 20 m"\nnearbyBeaches:\n  - "Saranda City Beach 20 m"\n  - "La Petite Beach 400 m"\n  - "Maestral Beach 600 m"\n  - "Sarande Main Beach 1,000 m"\n  - "VIP Beach 1.5 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.7 km"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Ana"\n    country: "Brazil"\n    text: "“Great location at the center of Sarande. Walking distance to the beach, restaurants, bakery. The room was great, super complete and with a great shower!”"\n  - name: "Olga"\n    country: "Czech Republic"\n    text: "“Great location closed to the publc beach in one side and private beaches in another. Host is very friendly and helpful.Bus station, exchange and supermarket is 50 m from accommodation.”"\n  - name: "Sone"\n    country: "Albania"\n    text: "“Everything was perfect. Super clean. Cleaning service during our stay. Host explains you everything and takes care of you all the time. Perfect location. Everything you need is nearby. Big balconies with amazing views.”"\nbookingURL: "https://www.booking.com/hotel/al/aquamarine-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach apartment at Aquamarine Apartments is a testament to modern luxury, equipped with complimentary WiFi and air conditioning to guarantee comfort regardless of the season. The convenience of private parking on-site is a notable perk for guests arriving by car.
+---
+title: "Aquamarine Apartments"
+description: "Aquamarine Apartments emerges as a premier choice for travelers seeking luxury accommodations right on the waterfront in Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368942343.jpg?k=61143776d806216fb3daa1838971f011879769da6a4a01d981ff53ea27596848&o=&hp=1"
+language: en
+slug: aquamarine-apartments
+address: "Naim Frasheri Street, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87212173
+  lng: 20.01389937
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 325
+ratings:
+  overall: 9.2
+  location: 9.6
+  cleanliness: 9.3
+  facilities: 9
+  value: 9
+  comfort: 9.3
+  staff: 9.3
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368942343.jpg?k=61143776d806216fb3daa1838971f011879769da6a4a01d981ff53ea27596848&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461238985.jpg?k=7a8d150b7da582680671a325d7788b815dc44676bb582f05c1f9c940a77f8636&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261300045.jpg?k=d2a1e6e0d4e8adb4f49400ea006249af50f2499084c1fb14fd06e7284d507063&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374817829.jpg?k=33154b1110c2bfb297917b7abfce87405a9bfa80edea32c86bd087ecb1329fd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368944756.jpg?k=30be39348d9dace845e379070559a90666ec79e77f4b6034fafe256d7e032614&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203895824.jpg?k=91d6efd5c863219f99d5e77da3baf3b1a944b7326b515f56a124a9dd5d67ed59&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363013347.jpg?k=9bc3a1495a87b6514281baf3cf53a050841a637c8e67c2c9ca66d5f75fbf6b7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261300418.jpg?k=3614ce0b3fa23e65ac56d22790e2ee8eb03f8d3c88daa696a8eadfa1a884b80f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374818899.jpg?k=8480d3131ba3f0adccbfb282ab5b0608e527ff7b1a6f65e29c75773c7533ca62&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Italian Mattarello 10 m"
+  - "Moma Cafè 20 m"
+nearbyBeaches:
+  - "Saranda City Beach 20 m"
+  - "La Petite Beach 400 m"
+  - "Maestral Beach 600 m"
+  - "Sarande Main Beach 1,000 m"
+  - "VIP Beach 1.5 km"
+whatsNearby:
+  - "Parc National de Butrint 1.7 km"
+  - "Butrint National Park 2.6 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Ana"
+    country: "Brazil"
+    text: "“Great location at the center of Sarande. Walking distance to the beach, restaurants, bakery. The room was great, super complete and with a great shower!”"
+  - name: "Olga"
+    country: "Czech Republic"
+    text: "“Great location closed to the publc beach in one side and private beaches in another. Host is very friendly and helpful.Bus station, exchange and supermarket is 50 m from accommodation.”"
+  - name: "Sone"
+    country: "Albania"
+    text: "“Everything was perfect. Super clean. Cleaning service during our stay. Host explains you everything and takes care of you all the time. Perfect location. Everything you need is nearby. Big balconies with amazing views.”"
+bookingURL: "https://www.booking.com/hotel/al/aquamarine-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each apartment at Aquamarine Apartments is a testament to modern luxury, equipped with complimentary WiFi and air conditioning to guarantee comfort regardless of the season. The convenience of private parking on-site is a notable perk for guests arriving by car.
 
 The accommodations are designed with the discerning traveler in mind, offering most units with breathtaking sea and beach views that promise to enchant. Inside, guests will find a fully equipped kitchen, perfect for those who enjoy the flexibility of preparing their own meals. The dining and seating areas, featuring a flat-screen TV, provide a cozy environment for unwinding after a day of exploration. The attention to detail extends to the private bathrooms, which are stocked with complimentary toiletries, and the provision of bed linen and towels adds an extra layer of convenience.
 

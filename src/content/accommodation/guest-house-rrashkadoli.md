@@ -1,6 +1,83 @@
----\ntitle: "Guest House Rrashkadoli"\ndescription: "Guest House Rrashkadoli emerges as a serene retreat in the heart of Theth, located within the picturesque Shkoder County region and a stone's throw from the breathtaking Theth National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333265942.jpg?k=4f2ba447ad36e13a3d451c09c4179eb7e3bb88cc80a34cb9b060821f02d9496d&o=&hp=1"\nlanguage: en\nslug: guest-house-rrashkadoli\naddress: "Rruga Nikgjonaj Fshati Theth, 4029 Theth, Albania"\ncity: "Theth"\nlocation: "Theth"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.40657762\n  lng: 19.76694859\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 510\nratings:\n  overall: 9.4\n  location: 9.2\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.6\n  comfort: 9.5\n  staff: 9.9\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333265942.jpg?k=4f2ba447ad36e13a3d451c09c4179eb7e3bb88cc80a34cb9b060821f02d9496d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317133993.jpg?k=4591216d5bf4f338b7fda6945b815a4b30dd2ee959d8e800ded1fb8c6b110706&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366903.jpg?k=7fad65f49d9ec91fa7bd08357b74f734506f8c4409fca7e6e1f781f13ca40aef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451355568.jpg?k=01daa409d18c643c57b2535a7ca8b1af3f7d404b7db373ba65b409df1c4739c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450880200.jpg?k=14a34c05ce9db6ef987b9712ebd6572b788d371b8777cae30495e2071f9f6b86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451355750.jpg?k=7b0c764d1e87abcf6ea4aacc5bd0fb7d3ea3e44f4537fda0d49781c103ed3c35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317137659.jpg?k=62eed10ca42ab80775034eb08c50697879ad0eb90fa4ca4cc1dc18ebb38a8fab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450886798.jpg?k=20bd07b47b2c24be97e8abc4247cf60fa17859c0745057022483d4ac8e5791cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366899.jpg?k=426cce0476f729a9563cf04e3b649998714a8276234bf1a43639d3addb12b820&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366910.jpg?k=97f8c1c3752c842726168a7d84c3f3b02623ed96d59ce65c50aaee6a63b4576c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366920.jpg?k=5d50c9beacc7d4b69334f7acc44a5ee6818b38186d7e724a2efcd429c128eb24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451355900.jpg?k=2d10fa44fe5cc3a8a52fc1f4d0370ca548c98c9e7ab2530a6dc05f440d809af3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Malesorja 300 m"\n  - "Cafe Bar 1,000 m"\nwhatsNearby:\n  - "Theth National Park 0 m"\n  - "Theth National Park 1.5 km"\n  - "Valbona Valley National Park 3.5 km"\n  - "Prokletije National Park 8 km"\n  - "Parku Kombëtar Lugina e Valbonës 13 km"\n  - "Nacionalni Park Prokletije 19 km"\n  - "Prokletije National Park 20 km"\nairports:\n  - "Podgorica Airport 42 km"\n  - "Tivat Airport 85 km"\nreviews:\n  - name: "George"\n    country: "United Kingdom"\n    text: "“Very friendly and welcoming staff.
+---
+title: "Guest House Rrashkadoli"
+description: "Guest House Rrashkadoli emerges as a serene retreat in the heart of Theth, located within the picturesque Shkoder County region and a stone's throw from the breathtaking Theth National Park."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333265942.jpg?k=4f2ba447ad36e13a3d451c09c4179eb7e3bb88cc80a34cb9b060821f02d9496d&o=&hp=1"
+language: en
+slug: guest-house-rrashkadoli
+address: "Rruga Nikgjonaj Fshati Theth, 4029 Theth, Albania"
+city: "Theth"
+location: "Theth"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 42.40657762
+  lng: 19.76694859
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 510
+ratings:
+  overall: 9.4
+  location: 9.2
+  cleanliness: 9.5
+  facilities: 9.2
+  value: 9.6
+  comfort: 9.5
+  staff: 9.9
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333265942.jpg?k=4f2ba447ad36e13a3d451c09c4179eb7e3bb88cc80a34cb9b060821f02d9496d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317133993.jpg?k=4591216d5bf4f338b7fda6945b815a4b30dd2ee959d8e800ded1fb8c6b110706&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366903.jpg?k=7fad65f49d9ec91fa7bd08357b74f734506f8c4409fca7e6e1f781f13ca40aef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451355568.jpg?k=01daa409d18c643c57b2535a7ca8b1af3f7d404b7db373ba65b409df1c4739c4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450880200.jpg?k=14a34c05ce9db6ef987b9712ebd6572b788d371b8777cae30495e2071f9f6b86&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451355750.jpg?k=7b0c764d1e87abcf6ea4aacc5bd0fb7d3ea3e44f4537fda0d49781c103ed3c35&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317137659.jpg?k=62eed10ca42ab80775034eb08c50697879ad0eb90fa4ca4cc1dc18ebb38a8fab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450886798.jpg?k=20bd07b47b2c24be97e8abc4247cf60fa17859c0745057022483d4ac8e5791cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366899.jpg?k=426cce0476f729a9563cf04e3b649998714a8276234bf1a43639d3addb12b820&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366910.jpg?k=97f8c1c3752c842726168a7d84c3f3b02623ed96d59ce65c50aaee6a63b4576c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451366920.jpg?k=5d50c9beacc7d4b69334f7acc44a5ee6818b38186d7e724a2efcd429c128eb24&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451355900.jpg?k=2d10fa44fe5cc3a8a52fc1f4d0370ca548c98c9e7ab2530a6dc05f440d809af3&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+nearbyRestaurants:
+  - "Malesorja 300 m"
+  - "Cafe Bar 1,000 m"
+whatsNearby:
+  - "Theth National Park 0 m"
+  - "Theth National Park 1.5 km"
+  - "Valbona Valley National Park 3.5 km"
+  - "Prokletije National Park 8 km"
+  - "Parku Kombëtar Lugina e Valbonës 13 km"
+  - "Nacionalni Park Prokletije 19 km"
+  - "Prokletije National Park 20 km"
+airports:
+  - "Podgorica Airport 42 km"
+  - "Tivat Airport 85 km"
+reviews:
+  - name: "George"
+    country: "United Kingdom"
+    text: "“Very friendly and welcoming staff.
 The host treated us just like their own family.
-Highly recommended stay for people looking for good homely ambience and food was awesome!”"\n  - name: "Sean"\n    country: "Australia"\n    text: "“Great stay! Good location and easy to find if coming from Valbona hike. The place was comfortable and had yummy home cooked meals by friendly hosts. I’d stay here again!”"\n  - name: "Vlera"\n    country: "Germany"\n    text: "“Our stay was fantastic. The room was nice and cozy. The location was perfect: nice and quiet, away from the most frequented places. The food was great for nice prices. And the best part the host. She was very warm and welcoming, and also very...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-rrashkadoli.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property is distinguished by its well-maintained garden, creating an oasis of tranquility for visitors. Additionally, Guest House Rrashkadoli is designed to cater to families, offering spacious family rooms that promise a comfortable stay. The presence of a terrace further enhances the guest experience, providing a perfect spot to unwind and soak in the surrounding beauty.
+Highly recommended stay for people looking for good homely ambience and food was awesome!”"
+  - name: "Sean"
+    country: "Australia"
+    text: "“Great stay! Good location and easy to find if coming from Valbona hike. The place was comfortable and had yummy home cooked meals by friendly hosts. I’d stay here again!”"
+  - name: "Vlera"
+    country: "Germany"
+    text: "“Our stay was fantastic. The room was nice and cozy. The location was perfect: nice and quiet, away from the most frequented places. The food was great for nice prices. And the best part the host. She was very warm and welcoming, and also very...”"
+bookingURL: "https://www.booking.com/hotel/al/guest-house-rrashkadoli.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The property is distinguished by its well-maintained garden, creating an oasis of tranquility for visitors. Additionally, Guest House Rrashkadoli is designed to cater to families, offering spacious family rooms that promise a comfortable stay. The presence of a terrace further enhances the guest experience, providing a perfect spot to unwind and soak in the surrounding beauty.
 
 For those seeking refreshment or a casual bite, the guest house boasts an on-site snack bar and bar, ensuring guests have access to light snacks and drinks without having to venture far.
 

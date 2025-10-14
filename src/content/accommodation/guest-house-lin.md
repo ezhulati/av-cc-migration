@@ -1,4 +1,85 @@
----\ntitle: "Guest House Lin"\ndescription: "Guest House Lin emerges as a serene retreat, boasting a picturesque garden and sweeping mountain views, located in the quaint town of Lin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956768.jpg?k=5ea64a822b40956b017068d1b04a4db38d16dbcaf260062bd4e909d14b8b8958&o=&hp=1"\nlanguage: en\nslug: guest-house-lin\naddress: "SH87, 7300 Lin, Albania"\ncity: "Lin"\nlocation: "Lin"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.06735699\n  lng: 20.64434823\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 256\nratings:\n  overall: 9.5\n  location: 9.9\n  cleanliness: 9.5\n  facilities: 9.1\n  value: 9.3\n  comfort: 9.4\n  staff: 9.8\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956768.jpg?k=5ea64a822b40956b017068d1b04a4db38d16dbcaf260062bd4e909d14b8b8958&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461957783.jpg?k=3604fbc91d65a6b098011d8857ae2f2ae4938a3e5f5fb601ee3aea4c1a3804dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462195103.jpg?k=3be70c082359ccd2b64c61f0b59a999413a8078e721da27019cd99244f849b8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363499425.jpg?k=3a8f89e6268d88e2029de3c858c3f1a12398c154d145e82a719bd35e39601ee9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962556.jpg?k=1cd4cacf04d421502471d80fddfe8024473bef74a17da4ac8820c6edfeb998c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461957018.jpg?k=5a833c71445d03d00933e08752cb7e4d1ad4f509b69527d5018ab4bb174e1a3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462195315.jpg?k=bb2950cd85ac03de64671b57db8ed9e08a2c007177e393601ee7c43a5b3042be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462194416.jpg?k=69ce21467f9f3d0444b86b961518acecbf4667bbf5fcb0e37dbd46df854dc138&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462194245.jpg?k=d3090e2a0629d40da70a177b85289ebd638672052dfef6d8aafac55cbb40a008&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462194145.jpg?k=edd259e460cdffa9e4e771f3ef0a87abe7e50a1a8f6112478eb9f8a7182ec006&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956233.jpg?k=499ae553bb7fde9b219607ad99bc820e8c2304681602371a5b670441fab08769&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956360.jpg?k=61691d39f8973eead689dc9a81dfa7a443443605068aaf2bcf6767ccbbdd8219&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Exceptional breakfast"\nnearbyRestaurants:\n  - "Vila 43 100 m"\n  - "Korca 1.9 km"\nwhatsNearby:\n  - "Remains of Via Egnatia 3.8 km"\n  - "Nature Museum 13 km"\n  - "Samoil's Fortress 14 km"\n  - "Ancient Theatre of Ohrid 14 km"\n  - "Upper Gate 14 km"\n  - "Museum Robev House 14 km"\n  - "National Workshop for Handmade Paper 14 km"\n  - "Icons Gallery 14 km"\n  - "Bay of Bones 15 km"\n  - "Driloni National Park 19 km"\nairports:\n  - "Ohrid Airport 13 km"\n  - "Tirana International Airport Mother Teresa 85 km"\n  - "Kastoria National Airport 86 km"\nreviews:\n  - name: "Ajet"\n    country: "Germany"\n    text: "“The rooms were very nice and comfortable. The Guest House is very centrally located and you can easily access the village on foot. We really enjoyed the garden , at lake side.”"\n  - name: "Anita"\n    country: "Australia"\n    text: "“This place is a true oasis. The turquoise water of Lake Ohrid and the beautifully manicured garden make it a pleasure to simply sit back and watch the world go by. Tomas and Marian do an amazing job at making you feel at home. Their food is all...”"\n  - name: "Julia"\n    country: "Germany"\n    text: "“Amazing accomodation. One of the best accomodations we had during our 2 week Trip in Albania. We only stayed for one night but would have loved to stay longer. The house is directly located at the lake with many sun beds.
-Food for Dinner and...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-lin.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Guest House Lin are thoughtfully designed with guest comfort in mind. Each room is well-appointed with modern amenities including a desk, a flat-screen TV, and air conditioning, ensuring a stay that is both comfortable and convenient. The inclusion of private bathrooms, complete with fresh bed linen and towels, adds a touch of home. The family rooms available make it an ideal option for those traveling with loved ones, promising a cozy and welcoming atmosphere.
+---
+title: "Guest House Lin"
+description: "Guest House Lin emerges as a serene retreat, boasting a picturesque garden and sweeping mountain views, located in the quaint town of Lin."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956768.jpg?k=5ea64a822b40956b017068d1b04a4db38d16dbcaf260062bd4e909d14b8b8958&o=&hp=1"
+language: en
+slug: guest-house-lin
+address: "SH87, 7300 Lin, Albania"
+city: "Lin"
+location: "Lin"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.06735699
+  lng: 20.64434823
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 256
+ratings:
+  overall: 9.5
+  location: 9.9
+  cleanliness: 9.5
+  facilities: 9.1
+  value: 9.3
+  comfort: 9.4
+  staff: 9.8
+  wifi: 9.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956768.jpg?k=5ea64a822b40956b017068d1b04a4db38d16dbcaf260062bd4e909d14b8b8958&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461957783.jpg?k=3604fbc91d65a6b098011d8857ae2f2ae4938a3e5f5fb601ee3aea4c1a3804dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462195103.jpg?k=3be70c082359ccd2b64c61f0b59a999413a8078e721da27019cd99244f849b8b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363499425.jpg?k=3a8f89e6268d88e2029de3c858c3f1a12398c154d145e82a719bd35e39601ee9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461962556.jpg?k=1cd4cacf04d421502471d80fddfe8024473bef74a17da4ac8820c6edfeb998c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461957018.jpg?k=5a833c71445d03d00933e08752cb7e4d1ad4f509b69527d5018ab4bb174e1a3a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462195315.jpg?k=bb2950cd85ac03de64671b57db8ed9e08a2c007177e393601ee7c43a5b3042be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462194416.jpg?k=69ce21467f9f3d0444b86b961518acecbf4667bbf5fcb0e37dbd46df854dc138&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462194245.jpg?k=d3090e2a0629d40da70a177b85289ebd638672052dfef6d8aafac55cbb40a008&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462194145.jpg?k=edd259e460cdffa9e4e771f3ef0a87abe7e50a1a8f6112478eb9f8a7182ec006&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956233.jpg?k=499ae553bb7fde9b219607ad99bc820e8c2304681602371a5b670441fab08769&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956360.jpg?k=61691d39f8973eead689dc9a81dfa7a443443605068aaf2bcf6767ccbbdd8219&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Exceptional breakfast"
+nearbyRestaurants:
+  - "Vila 43 100 m"
+  - "Korca 1.9 km"
+whatsNearby:
+  - "Remains of Via Egnatia 3.8 km"
+  - "Nature Museum 13 km"
+  - "Samoil's Fortress 14 km"
+  - "Ancient Theatre of Ohrid 14 km"
+  - "Upper Gate 14 km"
+  - "Museum Robev House 14 km"
+  - "National Workshop for Handmade Paper 14 km"
+  - "Icons Gallery 14 km"
+  - "Bay of Bones 15 km"
+  - "Driloni National Park 19 km"
+airports:
+  - "Ohrid Airport 13 km"
+  - "Tirana International Airport Mother Teresa 85 km"
+  - "Kastoria National Airport 86 km"
+reviews:
+  - name: "Ajet"
+    country: "Germany"
+    text: "“The rooms were very nice and comfortable. The Guest House is very centrally located and you can easily access the village on foot. We really enjoyed the garden , at lake side.”"
+  - name: "Anita"
+    country: "Australia"
+    text: "“This place is a true oasis. The turquoise water of Lake Ohrid and the beautifully manicured garden make it a pleasure to simply sit back and watch the world go by. Tomas and Marian do an amazing job at making you feel at home. Their food is all...”"
+  - name: "Julia"
+    country: "Germany"
+    text: "“Amazing accomodation. One of the best accomodations we had during our 2 week Trip in Albania. We only stayed for one night but would have loved to stay longer. The house is directly located at the lake with many sun beds.
+Food for Dinner and...”"
+bookingURL: "https://www.booking.com/hotel/al/guest-house-lin.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Guest House Lin are thoughtfully designed with guest comfort in mind. Each room is well-appointed with modern amenities including a desk, a flat-screen TV, and air conditioning, ensuring a stay that is both comfortable and convenient. The inclusion of private bathrooms, complete with fresh bed linen and towels, adds a touch of home. The family rooms available make it an ideal option for those traveling with loved ones, promising a cozy and welcoming atmosphere.
 
 Situated 37 km away from both the Early Christian Basilica and Port Ohrid, and with Ohrid Airport just 28 km away, Guest House Lin serves as a perfect base for exploring the rich cultural heritage and natural beauty of the region. Whether it's the allure of the nearby historical sites or the call of the pristine beachfront, Guest House Lin offers an unforgettable stay for those looking to immerse themselves in the charm and splendor of Lin and its surroundings.

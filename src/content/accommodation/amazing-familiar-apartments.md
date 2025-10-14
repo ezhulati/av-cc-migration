@@ -1,6 +1,81 @@
----\ntitle: "Amazing familiar apartments"\ndescription: "Amazing Familiar Apartments emerges as a serene retreat in the vibrant heart of Sarandë, merely moments away from the city's pristine beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386609044.jpg?k=4fba3b7533da4a7103cef8cc19f1475a1a530e0c0060f7ba3b30ee27228111d4&o=&hp=1"\nlanguage: en\nslug: amazing-familiar-apartments\naddress: "Rruga 40 Shenjtorët, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87261467\n  lng: 20.02726344\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 24\nratings:\n  overall: 9.3\n  location: 9.1\n  cleanliness: 9.9\n  facilities: 9.6\n  value: 9.5\n  comfort: 9.8\n  staff: 9.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386609044.jpg?k=4fba3b7533da4a7103cef8cc19f1475a1a530e0c0060f7ba3b30ee27228111d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386608796.jpg?k=b65259738c9f166c81cb5e55f316b137c9374220d75619f227098d017a2345ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388799810.jpg?k=82d4155ee44782fd9d8dae31a5e39a105af738da5bc1329312eed0793a0a0659&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386609076.jpg?k=dbead4330311454e4ed35b5818165ca755e19f6ba4eb233064883355a2692f94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388799788.jpg?k=361852cf7d7e29f5f9b47ea8bc3d4a22e0d5ce78b29c4a5a0be05568f1998d24&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386608863.jpg?k=16a96bd70b618e41d657ef1c62ac9919a6fe7908bed8cdbea6952fcf4102942b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (25 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Coffee Fast Food 200 m"\n  - "Grand Hotel Saranda 450 m"\nnearbyBeaches:\n  - "Saranda City Beach 1.1 km"\n  - "Maestral Beach 1.2 km"\n  - "La Petite Beach 1.2 km"\n  - "VIP Beach 1.6 km"\n  - "Santa Quaranta Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Franceska"\n    country: "Italy"\n    text: "“Everything was perfect. The staff, the apartments were amazing. If you want to stay in Saranda, you won't be able to find better places than this. You are far from the noise of discos in Saranda. The first two nights of our stay we were in a hotel...”"\n  - name: "Armir"\n    country: "Kosovo"\n    text: "“Everything was beyond perfect.
+---
+title: "Amazing familiar apartments"
+description: "Amazing Familiar Apartments emerges as a serene retreat in the vibrant heart of Sarandë, merely moments away from the city's pristine beaches."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386609044.jpg?k=4fba3b7533da4a7103cef8cc19f1475a1a530e0c0060f7ba3b30ee27228111d4&o=&hp=1"
+language: en
+slug: amazing-familiar-apartments
+address: "Rruga 40 Shenjtorët, Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87261467
+  lng: 20.02726344
+price: "US$32"
+priceFrom: 32
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 24
+ratings:
+  overall: 9.3
+  location: 9.1
+  cleanliness: 9.9
+  facilities: 9.6
+  value: 9.5
+  comfort: 9.8
+  staff: 9.7
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386609044.jpg?k=4fba3b7533da4a7103cef8cc19f1475a1a530e0c0060f7ba3b30ee27228111d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386608796.jpg?k=b65259738c9f166c81cb5e55f316b137c9374220d75619f227098d017a2345ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388799810.jpg?k=82d4155ee44782fd9d8dae31a5e39a105af738da5bc1329312eed0793a0a0659&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386609076.jpg?k=dbead4330311454e4ed35b5818165ca755e19f6ba4eb233064883355a2692f94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388799788.jpg?k=361852cf7d7e29f5f9b47ea8bc3d4a22e0d5ce78b29c4a5a0be05568f1998d24&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386608863.jpg?k=16a96bd70b618e41d657ef1c62ac9919a6fe7908bed8cdbea6952fcf4102942b&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Good free WiFi (25 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "Apartment with Balcony"
+nearbyRestaurants:
+  - "Coffee Fast Food 200 m"
+  - "Grand Hotel Saranda 450 m"
+nearbyBeaches:
+  - "Saranda City Beach 1.1 km"
+  - "Maestral Beach 1.2 km"
+  - "La Petite Beach 1.2 km"
+  - "VIP Beach 1.6 km"
+  - "Santa Quaranta Beach 1.7 km"
+whatsNearby:
+  - "Parc National de Butrint 1.5 km"
+  - "Butrint National Park 2.5 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Franceska"
+    country: "Italy"
+    text: "“Everything was perfect. The staff, the apartments were amazing. If you want to stay in Saranda, you won't be able to find better places than this. You are far from the noise of discos in Saranda. The first two nights of our stay we were in a hotel...”"
+  - name: "Armir"
+    country: "Kosovo"
+    text: "“Everything was beyond perfect.
 The apartment, the host, the utilities etc.
-Everytime we got back from the beach, our host welcomed us back with a bright smile on her face. Everytime I wrote her for ANY question I had, the response was immidiately...”"\n  - name: "Martina"\n    country: "Italy"\n    text: "“Everything as expected, we loved the apartment and Lori was really nice and helpful! 100% recommended!”"\nbookingURL: "https://www.booking.com/hotel/al/perfect-vila.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon arrival, guests are greeted with the unique advantage of a private entrance to their apartment, ensuring a seamless and personalized experience from the very first moment. The accommodations are thoughtfully designed with the modern traveler in mind, featuring air-conditioned rooms that serve as a cool respite from the Mediterranean warmth. Complimentary amenities such as private parking and high-speed WiFi are the cherries on top, catering to the needs of every guest.
+Everytime we got back from the beach, our host welcomed us back with a bright smile on her face. Everytime I wrote her for ANY question I had, the response was immidiately...”"
+  - name: "Martina"
+    country: "Italy"
+    text: "“Everything as expected, we loved the apartment and Lori was really nice and helpful! 100% recommended!”"
+bookingURL: "https://www.booking.com/hotel/al/perfect-vila.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Upon arrival, guests are greeted with the unique advantage of a private entrance to their apartment, ensuring a seamless and personalized experience from the very first moment. The accommodations are thoughtfully designed with the modern traveler in mind, featuring air-conditioned rooms that serve as a cool respite from the Mediterranean warmth. Complimentary amenities such as private parking and high-speed WiFi are the cherries on top, catering to the needs of every guest.
 
 Each apartment boasts a balcony that opens up to breathtaking mountain views, providing a perfect backdrop for morning coffees or evening reflections. The interiors are equipped with a flat-screen TV, a cozy dining area, and a well-appointed kitchen, allowing guests the freedom to dine in comfort and style. The private bathrooms come with a bath and a hairdryer, adding an extra layer of convenience. For those who like to unpack and settle in, ample wardrobe space is available in all units.
 

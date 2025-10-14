@@ -1,4 +1,78 @@
----\ntitle: "Vila Anxhelo&Xhemi"\ndescription: "Vila Anxhelo&Xhemi stands out as a serene retreat in Vlorë, merely a stone's throw away from the pristine Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182028.jpg?k=10297ac8be854b802020675576c7f706be0fb540e982cf6b107259fdbfc9d688&o=&hp=1"\nlanguage: en\nslug: vila-anxhelo-xhemi\naddress: "Rruga kanan maze, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.46216324\n  lng: 19.46612932\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 88\nratings:\n  overall: 9.3\n  location: 8.4\n  cleanliness: 9.7\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.6\n  staff: 9.7\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182028.jpg?k=10297ac8be854b802020675576c7f706be0fb540e982cf6b107259fdbfc9d688&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182069.jpg?k=63a242c2e7e4bda034f8b6618ffa8660eedaf9b77b4f24534a6b42180bb90173&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182108.jpg?k=5e6ddc76644bb8e52b9be098d7833816d3b08dc7081b9b3477f22800ade5d68f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451170115.jpg?k=061f01f61fad543246e59e3adff2b756ceafc9e866ab5b71f0f1f0f283e898aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451170279.jpg?k=d8947212334a0a3ef9d5ec15e4368499f5a9e40aef1cb2936280d7180e549bb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451170420.jpg?k=c581e2a7a2d11a5590d605388d2015853142880089c72efe296de282021fcc9c&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Triple Room with Balcony"\n  - "Double Room"\nnearbyRestaurants:\n  - "Love Beach 450 m"\n  - "Bar Restorant F. Feimi 600 m"\nnearbyBeaches:\n  - "Vjetër Beach 300 m"\n  - "Vlore Beach 2.8 km"\n  - "Ri Beach 3.8 km"\n  - "Narta Beach 3.8 km"\n  - "Beach at Government Villas 5 km"\nwhatsNearby:\n  - "Independence Square 2.3 km"\n  - "Kuzum Baba 2.4 km"\n  - "Scooby Doo Vlore 3.8 km"\nreviews:\n  - name: "Caroline"\n    country: "Denmark"\n    text: "“We loved this place! Greta and her family are so nice, they helped us with all our questions and bookings, made us delicious food and fixed things in our room instantly. The best beach is just in the other side of the road, not crowded, clean...”"\n  - name: "James"\n    country: "Albania"\n    text: "“Very new and clean. Handy to beach via beautiful forest walk. Good wifi. Very nice breakfast included. Easy free parking. Friendly staff. You couldn’t get better for double the price.”"\n  - name: "Ana"\n    country: "Belgium"\n    text: "“Everything was very clean and confortable. The breakfast always delicious and Greta, the host, and her family were always very kind with us and gave us recommendations on where to eat or take a boat tour. The beach is 5 min by walking and you can...”"\nbookingURL: "https://www.booking.com/hotel/al/vila-anxhelo-amp-xhemi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Vila Anxhelo&Xhemi is thoughtfully designed with comfort in mind, boasting air conditioning for those warm Mediterranean days, and a private balcony to enjoy the lush garden views. Entertainment and convenience are at your fingertips with a flat-screen TV, while the private bathroom comes equipped with a bath and complimentary toiletries, adding a touch of luxury to your stay.
+---
+title: "Vila Anxhelo&Xhemi"
+description: "Vila Anxhelo&Xhemi stands out as a serene retreat in Vlorë, merely a stone's throw away from the pristine Vjetër Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182028.jpg?k=10297ac8be854b802020675576c7f706be0fb540e982cf6b107259fdbfc9d688&o=&hp=1"
+language: en
+slug: vila-anxhelo-xhemi
+address: "Rruga kanan maze, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.46216324
+  lng: 19.46612932
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 88
+ratings:
+  overall: 9.3
+  location: 8.4
+  cleanliness: 9.7
+  facilities: 9.3
+  value: 9.5
+  comfort: 9.6
+  staff: 9.7
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182028.jpg?k=10297ac8be854b802020675576c7f706be0fb540e982cf6b107259fdbfc9d688&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182069.jpg?k=63a242c2e7e4bda034f8b6618ffa8660eedaf9b77b4f24534a6b42180bb90173&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453182108.jpg?k=5e6ddc76644bb8e52b9be098d7833816d3b08dc7081b9b3477f22800ade5d68f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451170115.jpg?k=061f01f61fad543246e59e3adff2b756ceafc9e866ab5b71f0f1f0f283e898aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451170279.jpg?k=d8947212334a0a3ef9d5ec15e4368499f5a9e40aef1cb2936280d7180e549bb7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451170420.jpg?k=c581e2a7a2d11a5590d605388d2015853142880089c72efe296de282021fcc9c&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Triple Room with Balcony"
+  - "Double Room"
+nearbyRestaurants:
+  - "Love Beach 450 m"
+  - "Bar Restorant F. Feimi 600 m"
+nearbyBeaches:
+  - "Vjetër Beach 300 m"
+  - "Vlore Beach 2.8 km"
+  - "Ri Beach 3.8 km"
+  - "Narta Beach 3.8 km"
+  - "Beach at Government Villas 5 km"
+whatsNearby:
+  - "Independence Square 2.3 km"
+  - "Kuzum Baba 2.4 km"
+  - "Scooby Doo Vlore 3.8 km"
+reviews:
+  - name: "Caroline"
+    country: "Denmark"
+    text: "“We loved this place! Greta and her family are so nice, they helped us with all our questions and bookings, made us delicious food and fixed things in our room instantly. The best beach is just in the other side of the road, not crowded, clean...”"
+  - name: "James"
+    country: "Albania"
+    text: "“Very new and clean. Handy to beach via beautiful forest walk. Good wifi. Very nice breakfast included. Easy free parking. Friendly staff. You couldn’t get better for double the price.”"
+  - name: "Ana"
+    country: "Belgium"
+    text: "“Everything was very clean and confortable. The breakfast always delicious and Greta, the host, and her family were always very kind with us and gave us recommendations on where to eat or take a boat tour. The beach is 5 min by walking and you can...”"
+bookingURL: "https://www.booking.com/hotel/al/vila-anxhelo-amp-xhemi.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room at Vila Anxhelo&Xhemi is thoughtfully designed with comfort in mind, boasting air conditioning for those warm Mediterranean days, and a private balcony to enjoy the lush garden views. Entertainment and convenience are at your fingertips with a flat-screen TV, while the private bathroom comes equipped with a bath and complimentary toiletries, adding a touch of luxury to your stay.
 
 For those who appreciate the finer things, an on-site bar offers a selection of drinks, perfect for unwinding after a day of exploration. The property's garden invites guests to relax and soak in the natural beauty that surrounds them, providing a peaceful escape from the everyday.
 

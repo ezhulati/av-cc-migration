@@ -1,4 +1,90 @@
----\ntitle: "Villa Fasho Ksamil"\ndescription: "Villa Fasho Ksamil emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303440996.jpg?k=cdccaa70b75b86f2f80df87b6cd190202d00ff07c970834163b1a64bef1fd20c&o=&hp=1"\nlanguage: en\nslug: villa-fasho-ksamil\naddress: "Ksamil Lagjia Nr. 2, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.76903238\n  lng: 20.00252597\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.9\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 8.3\n  value: 8.3\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303440996.jpg?k=cdccaa70b75b86f2f80df87b6cd190202d00ff07c970834163b1a64bef1fd20c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302231.jpg?k=78f4aa67bacbf5713d6a0034a1e5855182bfcc80be201cc7ca3c7efd45248241&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303300366.jpg?k=fb2147ffabac7e62f058cf0c6a1e76006545b655f76327230a6420cbc00a2df9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303281382.jpg?k=38ea69364ad6d093894a1da74c838ad20fce7a299f39d504e281c5c1b2049ca8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303277553.jpg?k=984b5f10f22d620d2d29d294854ae05efa60b8244f52869039cbbad70b38e939&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303441215.jpg?k=7a518ecaeea4b46165c1ce88c128a59b2dc14e5cf799e8c2e71d07f9e8fa60ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303269546.jpg?k=dcb4828eaeae1661f883eaf9798e1d33ec9505041cbd46d59b3275ce14275c6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303269467.jpg?k=23d7b6197a17855455fb0f9a9bbe140fb26d9f6a2de53874a54820db72dff3bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302429.jpg?k=b7d0182ab9cf97207872dc0810a9ddd032b54683fba33f2a37dc128a81704c91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302328.jpg?k=1ffd0a4770b07bf40fa7437e3a8f8b7cab494c7a8a7fb2f3f56e76c5f7b59d5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302062.jpg?k=ecedf41905b926a6e999fa364d85916ffc5645d1d0492b5f9667174915e82278&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303301987.jpg?k=6c3e19f22508a867dfc6643c9adaeb621599e3953c9b366078d02dfa9b3df63e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Bar Vela 30 m"\n  - "Grill House Ksamil 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 350 m"\n  - "Ksamil Beach 400 m"\n  - "Bora Bora Beach 400 m"\n  - "Ksamil Beach 7 450 m"\n  - "Paradise Beach 650 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 150 m"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 3.4 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-fasho-ksamil-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests are greeted with the luxury of a private entrance, ensuring a seamless and exclusive experience from the moment of arrival. The accommodations at Villa Fasho Ksamil are designed with the guest's comfort in mind, featuring air-conditioned rooms that serve as a cool retreat from the sun-soaked adventures outside. The provision of free private parking and complimentary WiFi throughout the property adds to the hassle-free experience, allowing guests to stay connected and navigate their travels with ease.
+---
+title: "Villa Fasho Ksamil"
+description: "Villa Fasho Ksamil emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303440996.jpg?k=cdccaa70b75b86f2f80df87b6cd190202d00ff07c970834163b1a64bef1fd20c&o=&hp=1"
+language: en
+slug: villa-fasho-ksamil
+address: "Ksamil Lagjia Nr. 2, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "villa"
+coordinates:
+  lat: 39.76903238
+  lng: 20.00252597
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 3
+ratings:
+  overall: 8.9
+  location: 9.2
+  cleanliness: 9.2
+  facilities: 8.3
+  value: 8.3
+  comfort: 9.2
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303440996.jpg?k=cdccaa70b75b86f2f80df87b6cd190202d00ff07c970834163b1a64bef1fd20c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302231.jpg?k=78f4aa67bacbf5713d6a0034a1e5855182bfcc80be201cc7ca3c7efd45248241&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303300366.jpg?k=fb2147ffabac7e62f058cf0c6a1e76006545b655f76327230a6420cbc00a2df9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303281382.jpg?k=38ea69364ad6d093894a1da74c838ad20fce7a299f39d504e281c5c1b2049ca8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303277553.jpg?k=984b5f10f22d620d2d29d294854ae05efa60b8244f52869039cbbad70b38e939&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303441215.jpg?k=7a518ecaeea4b46165c1ce88c128a59b2dc14e5cf799e8c2e71d07f9e8fa60ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303269546.jpg?k=dcb4828eaeae1661f883eaf9798e1d33ec9505041cbd46d59b3275ce14275c6e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303269467.jpg?k=23d7b6197a17855455fb0f9a9bbe140fb26d9f6a2de53874a54820db72dff3bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302429.jpg?k=b7d0182ab9cf97207872dc0810a9ddd032b54683fba33f2a37dc128a81704c91&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302328.jpg?k=1ffd0a4770b07bf40fa7437e3a8f8b7cab494c7a8a7fb2f3f56e76c5f7b59d5b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303302062.jpg?k=ecedf41905b926a6e999fa364d85916ffc5645d1d0492b5f9667174915e82278&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303301987.jpg?k=6c3e19f22508a867dfc6643c9adaeb621599e3953c9b366078d02dfa9b3df63e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 18 km"
+  - "Serbian Museum 18 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 19 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 20 km"
+nearbyRestaurants:
+  - "Bar Vela 30 m"
+  - "Grill House Ksamil 50 m"
+nearbyBeaches:
+  - "Ksamil Beach 9 350 m"
+  - "Ksamil Beach 400 m"
+  - "Bora Bora Beach 400 m"
+  - "Ksamil Beach 7 450 m"
+  - "Paradise Beach 650 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 150 m"
+  - "Butrint National Park 2.7 km"
+  - "Plazhi I Krorezes 3.4 km"
+  - "Parc National de Butrint 10 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+bookingURL: "https://www.booking.com/hotel/al/villa-fasho-ksamil-ksamil.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Guests are greeted with the luxury of a private entrance, ensuring a seamless and exclusive experience from the moment of arrival. The accommodations at Villa Fasho Ksamil are designed with the guest's comfort in mind, featuring air-conditioned rooms that serve as a cool retreat from the sun-soaked adventures outside. The provision of free private parking and complimentary WiFi throughout the property adds to the hassle-free experience, allowing guests to stay connected and navigate their travels with ease.
 
 The guest house boasts an array of amenities designed to enhance the stay of every visitor. Each unit is thoughtfully equipped with a satellite flat-screen TV, a fully equipped kitchen complete with an oven and microwave, and a private bathroom featuring a walk-in shower and hair dryer. The attention to detail extends to the provision of bed linen and towels in every unit, ensuring a comfortable and worry-free stay.
 

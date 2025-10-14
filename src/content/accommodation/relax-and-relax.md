@@ -1,4 +1,71 @@
----\ntitle: "Relax and Relax"\ndescription: "Relax and Relax stands as a prime choice for travelers seeking comfort and convenience in Durrës, positioned just moments away from the serene Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208836.jpg?k=a97c35c3127df975e1504f5e26f66a0c50adb09cbadbf54916066419d2a0f98c&o=&hp=1"\nlanguage: en\nslug: relax-and-relax\naddress: "Plazh Durres 5, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28085829\n  lng: 19.5121481\nprice: "US$69"\npriceFrom: 69\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208836.jpg?k=a97c35c3127df975e1504f5e26f66a0c50adb09cbadbf54916066419d2a0f98c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208900.jpg?k=7b8ad768396f39cae23b6a1cd031558b7499bf50edade148c6b88878948494e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208886.jpg?k=d5dde79474aab1a5a78b14ebaa9001fa12ae3a30b451e3b633bfb2c046275b63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208926.jpg?k=ee595e8baa55b7d5237201d699224cbe96b458ba6bce937a754b2012fe017c31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208897.jpg?k=8432166abf3a0cff57020425919aad2811c35528372fe572eecee3c79a64f36f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208921.jpg?k=092caa9a69ad2fe99a6c5147dcaf33ff705c01840035c2aea340642b2e654281&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208881.jpg?k=d90a6ad17bf5905ea83a98f9ab7b9d6588f1d1cf7d93d655e21360a2a689551e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208904.jpg?k=adf092c84c24096e9dab3ceb0968f0bd4bde725196e71b2277be6b6e20dfe01a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208916.jpg?k=316c3a8fdc45d3a47983d887dbab418df9fb88dc4ce10594340344aca0cc7a9d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bar Gerti 50 m"\n  - "Sazani 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 0 m"\n  - "Durres Beach 600 m"\n  - "Golem Beach 1.8 km"\n  - "Mali I Robit Beach 3.7 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nbookingURL: "https://www.booking.com/hotel/al/relax-and-relax.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically located, the apartment is a mere 42 km from the historic Skanderbeg Square, offering a perfect base for those eager to explore the rich cultural tapestry of the area. Adventure seekers will find the Dajti Ekspres Cable Car 46 km away, providing breathtaking aerial views of the region, while the Rock of Kavaje is conveniently just over a kilometer from the doorstep, inviting guests to discover its natural beauty.
+---
+title: "Relax and Relax"
+description: "Relax and Relax stands as a prime choice for travelers seeking comfort and convenience in Durrës, positioned just moments away from the serene Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208836.jpg?k=a97c35c3127df975e1504f5e26f66a0c50adb09cbadbf54916066419d2a0f98c&o=&hp=1"
+language: en
+slug: relax-and-relax
+address: "Plazh Durres 5, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.28085829
+  lng: 19.5121481
+price: "US$69"
+priceFrom: 69
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208836.jpg?k=a97c35c3127df975e1504f5e26f66a0c50adb09cbadbf54916066419d2a0f98c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208900.jpg?k=7b8ad768396f39cae23b6a1cd031558b7499bf50edade148c6b88878948494e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208886.jpg?k=d5dde79474aab1a5a78b14ebaa9001fa12ae3a30b451e3b633bfb2c046275b63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208926.jpg?k=ee595e8baa55b7d5237201d699224cbe96b458ba6bce937a754b2012fe017c31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208897.jpg?k=8432166abf3a0cff57020425919aad2811c35528372fe572eecee3c79a64f36f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208921.jpg?k=092caa9a69ad2fe99a6c5147dcaf33ff705c01840035c2aea340642b2e654281&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208881.jpg?k=d90a6ad17bf5905ea83a98f9ab7b9d6588f1d1cf7d93d655e21360a2a689551e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208904.jpg?k=adf092c84c24096e9dab3ceb0968f0bd4bde725196e71b2277be6b6e20dfe01a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208916.jpg?k=316c3a8fdc45d3a47983d887dbab418df9fb88dc4ce10594340344aca0cc7a9d&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Bar Gerti 50 m"
+  - "Sazani 150 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 0 m"
+  - "Durres Beach 600 m"
+  - "Golem Beach 1.8 km"
+  - "Mali I Robit Beach 3.7 km"
+  - "Qerret Beach 6 km"
+whatsNearby:
+  - "Bekimi 6 km"
+  - "Wine Dhe Pooh 7 km"
+  - "Durres Amphiteatre 7 km"
+  - "Yje Dhe Hena 7 km"
+  - "Sheshi Demokracia 7 km"
+  - "1. Maj 7 km"
+  - "Sotir Noka 7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+bookingURL: "https://www.booking.com/hotel/al/relax-and-relax.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Strategically located, the apartment is a mere 42 km from the historic Skanderbeg Square, offering a perfect base for those eager to explore the rich cultural tapestry of the area. Adventure seekers will find the Dajti Ekspres Cable Car 46 km away, providing breathtaking aerial views of the region, while the Rock of Kavaje is conveniently just over a kilometer from the doorstep, inviting guests to discover its natural beauty.
 
 Beyond its advantageous location, Relax and Relax boasts a generously sized apartment complete with a terrace, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available with a flat-screen TV, making it an ideal retreat for families or groups seeking a blend of exploration and downtime.
 

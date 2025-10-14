@@ -1,3 +1,60 @@
----\ntitle: "Arlis Home"\ndescription: "Arlis Home offers a serene retreat in the heart of Shkodër, providing guests with a blend of modern amenities and homely comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503990277.jpg?k=4f5102f43d50763298a124d90e5766d6faf1ae37d563feb240ae2ff65ce161b7&o=&hp=1"\nlanguage: en\nslug: arlis-home\naddress: "Rruga Taip Adem Dema, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.0778685\n  lng: 19.5034211\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503990277.jpg?k=4f5102f43d50763298a124d90e5766d6faf1ae37d563feb240ae2ff65ce161b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503990301.jpg?k=d3f0af43fe56d79ed9247e8fbbc4b3c56328855489a0db9dc8a97ff155b44420&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/503990302.jpg?k=130e9f46d67a551e345b3d21c48573258ff48c66b28dce52574b166ec5df7437&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990304.jpg?k=b59ad64602af5f862d707101ee3759329367d1c9c7f46f02b79b3cc4ac791201&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990305.jpg?k=849397eba5c33270a2954ca6575a6ffe9e8e170a1a5b277b646509440965c4e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990309.jpg?k=f325c893a31cb87747f2418d35bc465e05c517995ed6e8fd03562d0ef5eec58d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990312.jpg?k=8172913e64605954b00f935b7d7175f8dac7fc0cda78e199b530bd3cc8fabc7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990316.jpg?k=65ab5949c5002cdbdea4699369ad334986ae9fc229fddec87ec19c51daddad2f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "ORION CLUB 250 m"\n  - "Internet - Bar Cafe 300 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.6 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 36 km"\n  - "Tivat Airport 72 km"\n  - "Tirana International Airport Mother Teresa 74 km"\nbookingURL: "https://www.booking.com/hotel/al/arlis-home-shkoder.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nSpanning two bedrooms, the residence is thoughtfully designed to cater to both families and groups of friends. The inclusion of a fully equipped kitchen allows guests the freedom to prepare their own meals, adding a touch of personalization to their dining experience. Entertainment needs are well met, thanks to the presence of a flat-screen TV, making downtime enjoyable within the comfort of this non-smoking abode.
+---
+title: "Arlis Home"
+description: "Arlis Home offers a serene retreat in the heart of Shkodër, providing guests with a blend of modern amenities and homely comfort."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503990277.jpg?k=4f5102f43d50763298a124d90e5766d6faf1ae37d563feb240ae2ff65ce161b7&o=&hp=1"
+language: en
+slug: arlis-home
+address: "Rruga Taip Adem Dema, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hotel"
+coordinates:
+  lat: 42.0778685
+  lng: 19.5034211
+price: "US$36"
+priceFrom: 36
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503990277.jpg?k=4f5102f43d50763298a124d90e5766d6faf1ae37d563feb240ae2ff65ce161b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/503990301.jpg?k=d3f0af43fe56d79ed9247e8fbbc4b3c56328855489a0db9dc8a97ff155b44420&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/503990302.jpg?k=130e9f46d67a551e345b3d21c48573258ff48c66b28dce52574b166ec5df7437&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990304.jpg?k=b59ad64602af5f862d707101ee3759329367d1c9c7f46f02b79b3cc4ac791201&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990305.jpg?k=849397eba5c33270a2954ca6575a6ffe9e8e170a1a5b277b646509440965c4e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990309.jpg?k=f325c893a31cb87747f2418d35bc465e05c517995ed6e8fd03562d0ef5eec58d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990312.jpg?k=8172913e64605954b00f935b7d7175f8dac7fc0cda78e199b530bd3cc8fabc7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/503990316.jpg?k=65ab5949c5002cdbdea4699369ad334986ae9fc229fddec87ec19c51daddad2f&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom House"
+nearbyRestaurants:
+  - "ORION CLUB 250 m"
+  - "Internet - Bar Cafe 300 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 3.6 km"
+  - "National Park Skadar Lake 9 km"
+airports:
+  - "Podgorica Airport 36 km"
+  - "Tivat Airport 72 km"
+  - "Tirana International Airport Mother Teresa 74 km"
+bookingURL: "https://www.booking.com/hotel/al/arlis-home-shkoder.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+Spanning two bedrooms, the residence is thoughtfully designed to cater to both families and groups of friends. The inclusion of a fully equipped kitchen allows guests the freedom to prepare their own meals, adding a touch of personalization to their dining experience. Entertainment needs are well met, thanks to the presence of a flat-screen TV, making downtime enjoyable within the comfort of this non-smoking abode.
 
 Situated a manageable distance from the Port of Bar, just 49 km away, Arlis Home presents an ideal base for exploring the surrounding area. Additionally, the proximity to Podgorica Airport, located 57 km away, offers convenience for international travelers, making arrivals and departures as smooth as possible.

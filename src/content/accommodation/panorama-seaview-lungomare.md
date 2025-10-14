@@ -1,4 +1,63 @@
----\ntitle: "Panorama Seaview Lungomare"\ndescription: "Panorama Seaview Lungomare emerges as a prime choice for travelers seeking a serene getaway in Vlorë, positioned just a short stroll from Vlore Beach and within easy reach of Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151598.jpg?k=ee61dfdfff0b0709d3fb8b49f2bbcf0d5975c476ac90240f1b9ccead4efeb1db&o=&hp=1"\nlanguage: en\nslug: panorama-seaview-lungomare\naddress: "Rruga Shyqyri Ali Merka, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45026198\n  lng: 19.49091244\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151598.jpg?k=ee61dfdfff0b0709d3fb8b49f2bbcf0d5975c476ac90240f1b9ccead4efeb1db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151861.jpg?k=d0839ea13b25cc6c5a69ddf92f259cacac13f506f1b486a117f02b09f176f990&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151778.jpg?k=231869a1a6927d42b36a83b06618bb82827fb2c82bcf846a8a4baff83274753a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151798.jpg?k=84ad9e99ef2c84a6f23341152158d1f161a60dddfa91780aff656968622be5c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151786.jpg?k=5eff41938a650522f710a3f6d5d680616c7a0976abec87261033b67aa2806522&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151763.jpg?k=1792bf7f0fa4d5fb556773750e936c60b7ea19f2be6b29bec7c836400a2065f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151844.jpg?k=a71156aa3269cee2d3ab009fed0de6c95a6200d505ffe3e444aa022859ace5ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151812.jpg?k=248c9755113512d6ae452800a5e8983a6a51ec3dde28f389abaeab46e9eb3e0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151819.jpg?k=7bed80ef74f7abcbc43e1a801f4b19de876f6f05e9cc21060f40e3c1945c4d41&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Restorant Hallall Kleo 100 m"\n  - "Carraro 100 m"\nnearbyBeaches:\n  - "Vlore Beach 350 m"\n  - "Vjetër Beach 850 m"\n  - "Ri Beach 1.7 km"\n  - "Beach at Government Villas 3.4 km"\n  - "Liro Beach 4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.6 km"\n  - "Kuzum Baba 1.9 km"\n  - "Independence Square 2.3 km"\nbookingURL: "https://www.booking.com/hotel/al/panorama-seaview-lungomare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation doesn't just offer a place to rest but an experience, with its terrace providing an ideal spot for soaking in the coastal ambiance. The layout includes a cozy bedroom, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available through the inclusion of a flat-screen TV, making evenings in as appealing as days out exploring.
+---
+title: "Panorama Seaview Lungomare"
+description: "Panorama Seaview Lungomare emerges as a prime choice for travelers seeking a serene getaway in Vlorë, positioned just a short stroll from Vlore Beach and within easy reach of Vjetër Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151598.jpg?k=ee61dfdfff0b0709d3fb8b49f2bbcf0d5975c476ac90240f1b9ccead4efeb1db&o=&hp=1"
+language: en
+slug: panorama-seaview-lungomare
+address: "Rruga Shyqyri Ali Merka, Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45026198
+  lng: 19.49091244
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151598.jpg?k=ee61dfdfff0b0709d3fb8b49f2bbcf0d5975c476ac90240f1b9ccead4efeb1db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151861.jpg?k=d0839ea13b25cc6c5a69ddf92f259cacac13f506f1b486a117f02b09f176f990&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151778.jpg?k=231869a1a6927d42b36a83b06618bb82827fb2c82bcf846a8a4baff83274753a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151798.jpg?k=84ad9e99ef2c84a6f23341152158d1f161a60dddfa91780aff656968622be5c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151786.jpg?k=5eff41938a650522f710a3f6d5d680616c7a0976abec87261033b67aa2806522&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151763.jpg?k=1792bf7f0fa4d5fb556773750e936c60b7ea19f2be6b29bec7c836400a2065f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151844.jpg?k=a71156aa3269cee2d3ab009fed0de6c95a6200d505ffe3e444aa022859ace5ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151812.jpg?k=248c9755113512d6ae452800a5e8983a6a51ec3dde28f389abaeab46e9eb3e0d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151819.jpg?k=7bed80ef74f7abcbc43e1a801f4b19de876f6f05e9cc21060f40e3c1945c4d41&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Restorant Hallall Kleo 100 m"
+  - "Carraro 100 m"
+nearbyBeaches:
+  - "Vlore Beach 350 m"
+  - "Vjetër Beach 850 m"
+  - "Ri Beach 1.7 km"
+  - "Beach at Government Villas 3.4 km"
+  - "Liro Beach 4 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.6 km"
+  - "Kuzum Baba 1.9 km"
+  - "Independence Square 2.3 km"
+bookingURL: "https://www.booking.com/hotel/al/panorama-seaview-lungomare.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodation doesn't just offer a place to rest but an experience, with its terrace providing an ideal spot for soaking in the coastal ambiance. The layout includes a cozy bedroom, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. Entertainment is readily available through the inclusion of a flat-screen TV, making evenings in as appealing as days out exploring.
 
 Situated a mere stone's throw from the heart of Vlorë, guests find themselves conveniently close to Independence Square and the historic Kuzum Baba, with both landmarks less than 3.5 km away. For those venturing from afar, Tirana International Mother Teresa Airport is the nearest gateway, located 151 km from the doorstep of Panorama Seaview Lungomare.
 

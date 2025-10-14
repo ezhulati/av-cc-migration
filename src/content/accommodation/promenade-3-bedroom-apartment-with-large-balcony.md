@@ -1,7 +1,89 @@
----\ntitle: "Promenade 3-Bedroom apartment with large balcony."\ndescription: "Promenade 3-Bedroom Apartment with Large Balcony stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384960579.jpg?k=5fc8c3e3c40f73cdacddf34abcde928da468b0fb6cd6afa02f2c47f568125a78&o=&hp=1"\nlanguage: en\nslug: promenade-3-bedroom-apartment-with-large-balcony\naddress: "L. 1, Rr. Taulantia, Nd. 27, H. 7, Ap. 24, Durrës, Albania, 2025 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31123179\n  lng: 19.43796023\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 10\nratings:\n  overall: 9.7\n  location: 9.8\n  cleanliness: 9.3\n  facilities: 9.5\n  value: 10\n  comfort: 9.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384960579.jpg?k=5fc8c3e3c40f73cdacddf34abcde928da468b0fb6cd6afa02f2c47f568125a78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385142990.jpg?k=e2f857b3e4cbb30e4899ff01d3620074808c04378b99a63e2d50006b8483f9b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399182889.jpg?k=779a6eea164df0062e36a43d4d6fc693c22a32b92ffd34346a39d4abe52ef6a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399182591.jpg?k=1306453f6f11a27791df77f1d11db843ff95768c748c144bbd01ce39c006aab3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399185114.jpg?k=ba5dca9d192cd53ed8b9b60d96ac9387185de5ddffe38a8725d07830d1d74c8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385142640.jpg?k=ee6142d87967a74426fc5cbaf976c9a5be011ee9b428c075905aaa61c8a3c3bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399183535.jpg?k=6d9fedb4c8dc647d332fbe08cd926357acf3e2cc985058cedd1511149531031a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384960591.jpg?k=d0a6845a427509954ebab1d2993b87afe9cdf4dabab317ecca4f193263795021&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523595270.jpg?k=77980f0f7920df52a5164a6656d54bd1bfbec41fcd5293eafa44790f9b7bfa19&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Picante 30 m"\n  - "Golden Apple 50 m"\nnearbyBeaches:\n  - "Currila Beach 100 m"\n  - "Kallmi Beach 900 m"\n  - "West End Beach 2 km"\n  - "Durres Beach 2.5 km"\n  - "Shkëmbi i Kavajës Beach 7 km"\nwhatsNearby:\n  - "1. Maj 400 m"\n  - "Durres Amphiteatre 600 m"\n  - "Yje Dhe Hena 950 m"\n  - "Wine Dhe Pooh 1 km"\n  - "Sheshi Demokracia 1.1 km"\n  - "Sotir Noka 1.3 km"\n  - "Bekimi 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Jennifer"\n    country: "Italy"\n    text: "“- pulizia
+---
+title: "Promenade 3-Bedroom apartment with large balcony."
+description: "Promenade 3-Bedroom Apartment with Large Balcony stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384960579.jpg?k=5fc8c3e3c40f73cdacddf34abcde928da468b0fb6cd6afa02f2c47f568125a78&o=&hp=1"
+language: en
+slug: promenade-3-bedroom-apartment-with-large-balcony
+address: "L. 1, Rr. Taulantia, Nd. 27, H. 7, Ap. 24, Durrës, Albania, 2025 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31123179
+  lng: 19.43796023
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 10
+ratings:
+  overall: 9.7
+  location: 9.8
+  cleanliness: 9.3
+  facilities: 9.5
+  value: 10
+  comfort: 9.8
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384960579.jpg?k=5fc8c3e3c40f73cdacddf34abcde928da468b0fb6cd6afa02f2c47f568125a78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385142990.jpg?k=e2f857b3e4cbb30e4899ff01d3620074808c04378b99a63e2d50006b8483f9b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399182889.jpg?k=779a6eea164df0062e36a43d4d6fc693c22a32b92ffd34346a39d4abe52ef6a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399182591.jpg?k=1306453f6f11a27791df77f1d11db843ff95768c748c144bbd01ce39c006aab3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399185114.jpg?k=ba5dca9d192cd53ed8b9b60d96ac9387185de5ddffe38a8725d07830d1d74c8b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385142640.jpg?k=ee6142d87967a74426fc5cbaf976c9a5be011ee9b428c075905aaa61c8a3c3bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399183535.jpg?k=6d9fedb4c8dc647d332fbe08cd926357acf3e2cc985058cedd1511149531031a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384960591.jpg?k=d0a6845a427509954ebab1d2993b87afe9cdf4dabab317ecca4f193263795021&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523595270.jpg?k=77980f0f7920df52a5164a6656d54bd1bfbec41fcd5293eafa44790f9b7bfa19&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Picante 30 m"
+  - "Golden Apple 50 m"
+nearbyBeaches:
+  - "Currila Beach 100 m"
+  - "Kallmi Beach 900 m"
+  - "West End Beach 2 km"
+  - "Durres Beach 2.5 km"
+  - "Shkëmbi i Kavajës Beach 7 km"
+whatsNearby:
+  - "1. Maj 400 m"
+  - "Durres Amphiteatre 600 m"
+  - "Yje Dhe Hena 950 m"
+  - "Wine Dhe Pooh 1 km"
+  - "Sheshi Demokracia 1.1 km"
+  - "Sotir Noka 1.3 km"
+  - "Bekimi 3.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Jennifer"
+    country: "Italy"
+    text: "“- pulizia
 - posizione (vicina a tutto: mare/spiaggia, ristoranti, supermercati, siti di interesse culturare)
 - disponibilità del proprietario
-- dotazione di tutti i servizi necessari ad un soggiorno comodo e piacevole - ampio terrazzino con vista...”"\n  - name: "Rafał"\n    country: "Poland"\n    text: "“Doskonała miejscówka: rzut beretem od morza i nadmorskich pomników, promenady, knajp oraz molo. Mieszkanie przecudowne - 2 tarasy z widokiem na Adriatyk, 2 łazienki, dobrze wyposażona kuchnia.”"\n  - name: "Stefania"\n    country: "Romania"\n    text: "“Gazda minunata,care ne-a asteptat chiar daca am ajuns la o ora mai tarzie.Predarea si primirea cheilor foarte simpla.Am avut tot necesarul pentru un sejur reusit!AC in toate camerele,apa calda la discretie,bucataria foarte bine utilata,paturi...”"\nbookingURL: "https://www.booking.com/hotel/al/promenade-3-bedroom-apartment-with-large-balcony.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting three well-appointed bedrooms and two modern bathrooms, ensuring ample space for families or groups. The inclusion of bed linen, towels, and a flat-screen TV with cable channels adds to the comfort of the stay. The dining area and a fully-equipped kitchen cater to the needs of those who prefer home-cooked meals, while the terrace with its breathtaking sea views provides the perfect backdrop for any meal or gathering.
+- dotazione di tutti i servizi necessari ad un soggiorno comodo e piacevole - ampio terrazzino con vista...”"
+  - name: "Rafał"
+    country: "Poland"
+    text: "“Doskonała miejscówka: rzut beretem od morza i nadmorskich pomników, promenady, knajp oraz molo. Mieszkanie przecudowne - 2 tarasy z widokiem na Adriatyk, 2 łazienki, dobrze wyposażona kuchnia.”"
+  - name: "Stefania"
+    country: "Romania"
+    text: "“Gazda minunata,care ne-a asteptat chiar daca am ajuns la o ora mai tarzie.Predarea si primirea cheilor foarte simpla.Am avut tot necesarul pentru un sejur reusit!AC in toate camerele,apa calda la discretie,bucataria foarte bine utilata,paturi...”"
+bookingURL: "https://www.booking.com/hotel/al/promenade-3-bedroom-apartment-with-large-balcony.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious haven, boasting three well-appointed bedrooms and two modern bathrooms, ensuring ample space for families or groups. The inclusion of bed linen, towels, and a flat-screen TV with cable channels adds to the comfort of the stay. The dining area and a fully-equipped kitchen cater to the needs of those who prefer home-cooked meals, while the terrace with its breathtaking sea views provides the perfect backdrop for any meal or gathering.
 
 An outdoor dining area allows guests to enjoy the ambient surroundings and the gentle sea breeze, making every meal an experience to remember. For those looking to explore, Kallmi Beach is a mere 1.1 km away, and West End Beach is within a 2.4 km distance, offering a variety of beach experiences close by.
 

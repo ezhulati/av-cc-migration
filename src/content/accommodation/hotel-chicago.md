@@ -1,4 +1,90 @@
----\ntitle: "Hotel Chicago"\ndescription: "Hotel Chicago stands out as a premier destination for travelers seeking comfort and convenience in Shkodër, located just 49 km from the Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800757.jpg?k=d1e327683271b8961afc379007faa01c464f1f226d40a092cab174f00a413a55&o=&hp=1"\nlanguage: en\nslug: hotel-chicago\naddress: "Rruga Kol Idromeno, 4000 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06704963\n  lng: 19.51454422\nprice: "US$65"\npriceFrom: 65\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 568\nratings:\n  overall: 9\n  location: 9.6\n  cleanliness: 9.1\n  facilities: 8.8\n  value: 9\n  comfort: 9.2\n  staff: 8.7\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800757.jpg?k=d1e327683271b8961afc379007faa01c464f1f226d40a092cab174f00a413a55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293134399.jpg?k=e82066fc60105e8b6e88ac5a403454c62aea92dbe71b10073300944ccd45d963&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265504215.jpg?k=30a5a4338d3e43d34a864fc931f2da38ada028036b8bd801bd949a5a1e8b91f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477634717.jpg?k=84f1b573f2db1316e704b09e693183f3f5522c13825ad04e4d9f79975bf1928e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285799089.jpg?k=7b3fd5abbefc2219992ab7306c72547e29c7bd9109ddaa0ac3b6613860583907&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800875.jpg?k=2c9c9f91fe33d26e4676c5b5ceb40276601d89b6ae1c8e1d2afccd2a03f1c1d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800871.jpg?k=e247737040f21b7f53d74a66f447128fc4bb10a7c0bfdffa775a5fc2c6b02bd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800842.jpg?k=c7ed587c2dd972192189ac3e0da73a550e7d843c57e6c2140037f76f7af53f19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800817.jpg?k=00a046fb422b8379d5defe000bcfa197068aa678d7180f0d50c7d65463ddb15a&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Superior Twin Room with City View"\n  - "Deluxe Suite"\n  - "Deluxe Family Room"\n  - "Deluxe Quadruple Room"\nnearbyRestaurants:\n  - "Restorant Piceri Chicago 20 m"\n  - "Restorant Pasta e Vino 30 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.9 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "Diners Club"\nreviews:\n  - name: "Troy"\n    country: "Australia"\n    text: "“Friendly staff, clean room, comfortable bed, good breakfast and very central.”"\n  - name: "Shelley"\n    country: "Australia"\n    text: "“Very friendly and efficient staff especially Iris who helped us with our hiking trip to Valbone. We were able to leave our luggage at the hotel. Clean rooms. Good location. Fabulous breakfast and also packed breakfast when we had early bus to...”"\n  - name: "Kathryn"\n    country: "Australia"\n    text: "“Excellent location. Room and bathroom very good standard.”"\nbookingURL: "https://www.booking.com/hotel/al/chicago.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Hotel Chicago are thoughtfully designed to cater to the modern traveler's needs. Rooms are equipped with air conditioning, ensuring a comfortable environment regardless of the weather outside. Practical amenities such as a desk, kettle, fridge, minibar, and safety deposit box add to the convenience, while entertainment needs are met with a flat-screen TV. The inclusion of a private bathroom with a shower and a wardrobe in each room underscores the hotel's commitment to providing a seamless and comfortable guest experience.
+---
+title: "Hotel Chicago"
+description: "Hotel Chicago stands out as a premier destination for travelers seeking comfort and convenience in Shkodër, located just 49 km from the Port of Bar."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800757.jpg?k=d1e327683271b8961afc379007faa01c464f1f226d40a092cab174f00a413a55&o=&hp=1"
+language: en
+slug: hotel-chicago
+address: "Rruga Kol Idromeno, 4000 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hotel"
+coordinates:
+  lat: 42.06704963
+  lng: 19.51454422
+price: "US$65"
+priceFrom: 65
+starRating: 4
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 568
+ratings:
+  overall: 9
+  location: 9.6
+  cleanliness: 9.1
+  facilities: 8.8
+  value: 9
+  comfort: 9.2
+  staff: 8.7
+  wifi: 8.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800757.jpg?k=d1e327683271b8961afc379007faa01c464f1f226d40a092cab174f00a413a55&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293134399.jpg?k=e82066fc60105e8b6e88ac5a403454c62aea92dbe71b10073300944ccd45d963&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265504215.jpg?k=30a5a4338d3e43d34a864fc931f2da38ada028036b8bd801bd949a5a1e8b91f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477634717.jpg?k=84f1b573f2db1316e704b09e693183f3f5522c13825ad04e4d9f79975bf1928e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285799089.jpg?k=7b3fd5abbefc2219992ab7306c72547e29c7bd9109ddaa0ac3b6613860583907&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800875.jpg?k=2c9c9f91fe33d26e4676c5b5ceb40276601d89b6ae1c8e1d2afccd2a03f1c1d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800871.jpg?k=e247737040f21b7f53d74a66f447128fc4bb10a7c0bfdffa775a5fc2c6b02bd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800842.jpg?k=c7ed587c2dd972192189ac3e0da73a550e7d843c57e6c2140037f76f7af53f19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285800817.jpg?k=00a046fb422b8379d5defe000bcfa197068aa678d7180f0d50c7d65463ddb15a&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Fitness centre"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Facilities for disabled guests"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Superb breakfast"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Superior Twin Room with City View"
+  - "Deluxe Suite"
+  - "Deluxe Family Room"
+  - "Deluxe Quadruple Room"
+nearbyRestaurants:
+  - "Restorant Piceri Chicago 20 m"
+  - "Restorant Pasta e Vino 30 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.9 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+  - "Tivat Airport 74 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "Diners Club"
+reviews:
+  - name: "Troy"
+    country: "Australia"
+    text: "“Friendly staff, clean room, comfortable bed, good breakfast and very central.”"
+  - name: "Shelley"
+    country: "Australia"
+    text: "“Very friendly and efficient staff especially Iris who helped us with our hiking trip to Valbone. We were able to leave our luggage at the hotel. Clean rooms. Good location. Fabulous breakfast and also packed breakfast when we had early bus to...”"
+  - name: "Kathryn"
+    country: "Australia"
+    text: "“Excellent location. Room and bathroom very good standard.”"
+bookingURL: "https://www.booking.com/hotel/al/chicago.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Accommodations at Hotel Chicago are thoughtfully designed to cater to the modern traveler's needs. Rooms are equipped with air conditioning, ensuring a comfortable environment regardless of the weather outside. Practical amenities such as a desk, kettle, fridge, minibar, and safety deposit box add to the convenience, while entertainment needs are met with a flat-screen TV. The inclusion of a private bathroom with a shower and a wardrobe in each room underscores the hotel's commitment to providing a seamless and comfortable guest experience.
 
 Culinary delights await at Hotel Chicago, where guests can start their day with a choice of a buffet or continental breakfast. The on-site restaurant and bar offer further dining options, allowing guests to savor a variety of dishes and beverages without having to leave the comfort of the hotel. For those who enjoy outdoor dining, the hotel's barbecue facilities present an excellent opportunity for a memorable meal.
 

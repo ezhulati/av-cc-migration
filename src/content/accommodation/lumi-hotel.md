@@ -1,4 +1,88 @@
----\ntitle: "Lumi Hotel"\ndescription: "Lumi Hotel emerges as a serene oasis in the heart of Sarandë, a mere stone's throw away from the pristine Maestral Beach and the vibrant Saranda City Beach, both less than a kilometer from the doorstep."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954904.jpg?k=1cfa331a8eabf976ea9305f0784312bd4aa25a39d305043ff8678b4f2aad0c75&o=&hp=1"\nlanguage: en\nslug: lumi-hotel\naddress: "Rruga Skënderbeu, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86845434\n  lng: 20.02005196\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 56\nratings:\n  overall: 9.3\n  location: 8.7\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.6\n  staff: 9.5\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954904.jpg?k=1cfa331a8eabf976ea9305f0784312bd4aa25a39d305043ff8678b4f2aad0c75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954875.jpg?k=061c9c07d8d25908ea7ef0b2a37e7fbfcad470d7d2faa59fe55131044228f11a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955362.jpg?k=fe25452bb02bc2a3e28ac22ebb202d925e09fbe15f086ff533b5c476b5e2edbb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263953874.jpg?k=128a7eb0e4089ff3f0573a2e0757b6ee70e11d280d6d9fb817d9cbf3e031ca92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955722.jpg?k=833a406a441cdf5b80f776b13b88ec69d545d586c7c490b6f1c086d00be7a029&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954148.jpg?k=b694bca0db2c93feaccbc5eb0a889eb635fd343c0c46e489fdd4ca43173fbd51&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955733.jpg?k=ffa3199d1dc599c655a153fd4e0709cd40f572cc57e152bd3f4a15a91bde3555&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955368.jpg?k=d3c2aaaed74057617c33993488104d06ed4713f3502f006b80c49fbe90203ab1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954822.jpg?k=a7465b627d49733c037d997584f06ebf7320426f9e1456572f01aa88a74dbfd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955727.jpg?k=2229cc0292397a3f73022dd41f875695a73b7c168e63a3cccde2b6660b0c72f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279095705.jpg?k=5923a34a7da0441e33da1096248028e187042a614122ac0c4b24e93fd6da4c4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263953288.jpg?k=e9ec1f9d8b10dc0fa664f26379bc7a45379f9f4489c9b35fd555e49907e48e53&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Triple Room"\n  - "King Suite"\n  - "Standard Suite"\nnearbyRestaurants:\n  - "Ostria 50 m"\n  - "Pizzeri Mejdani 250 m"\nnearbyBeaches:\n  - "Maestral Beach 400 m"\n  - "La Petite Beach 450 m"\n  - "Saranda City Beach 650 m"\n  - "VIP Beach 1 km"\n  - "Santa Quaranta Beach 1.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 2.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Branko"\n    country: "Serbia"\n    text: "“Very friendly staff always ready to answer all your requests. The breakfast was extremely tasty and in sufficient quantity. The studio we stayed in was clean, and the king size bed was comfortable. Because of the kindness and comfort, we felt...”"\n  - name: "Güntuğ"\n    country: "Turkey"\n    text: "“Friendly, good people running the business.we loved the staying. Breakfast was good. Clean house.”"\n  - name: "Héctor"\n    country: "Spain"\n    text: "“The treatment is unbeatable. They are a very friendly family and very attentive at all times. The facilities and rooms are very clean and comfortable. The included breakfast is very complete and very good. We leave very happy and we would...”"\nbookingURL: "https://www.booking.com/hotel/al/lumi.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nAccommodations at Lumi Hotel are thoughtfully designed with guest comfort in mind. Each room is a haven of relaxation, equipped with air conditioning, a wardrobe for personal belongings, and a flat-screen TV for entertainment. Select rooms elevate the experience further with the addition of a balcony, offering a private space to enjoy the fresh air and perhaps a morning cup of coffee.
+---
+title: "Lumi Hotel"
+description: "Lumi Hotel emerges as a serene oasis in the heart of Sarandë, a mere stone's throw away from the pristine Maestral Beach and the vibrant Saranda City Beach, both less than a kilometer from the doorstep."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954904.jpg?k=1cfa331a8eabf976ea9305f0784312bd4aa25a39d305043ff8678b4f2aad0c75&o=&hp=1"
+language: en
+slug: lumi-hotel
+address: "Rruga Skënderbeu, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.86845434
+  lng: 20.02005196
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 56
+ratings:
+  overall: 9.3
+  location: 8.7
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 9.5
+  comfort: 9.6
+  staff: 9.5
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954904.jpg?k=1cfa331a8eabf976ea9305f0784312bd4aa25a39d305043ff8678b4f2aad0c75&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954875.jpg?k=061c9c07d8d25908ea7ef0b2a37e7fbfcad470d7d2faa59fe55131044228f11a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955362.jpg?k=fe25452bb02bc2a3e28ac22ebb202d925e09fbe15f086ff533b5c476b5e2edbb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263953874.jpg?k=128a7eb0e4089ff3f0573a2e0757b6ee70e11d280d6d9fb817d9cbf3e031ca92&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955722.jpg?k=833a406a441cdf5b80f776b13b88ec69d545d586c7c490b6f1c086d00be7a029&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954148.jpg?k=b694bca0db2c93feaccbc5eb0a889eb635fd343c0c46e489fdd4ca43173fbd51&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955733.jpg?k=ffa3199d1dc599c655a153fd4e0709cd40f572cc57e152bd3f4a15a91bde3555&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955368.jpg?k=d3c2aaaed74057617c33993488104d06ed4713f3502f006b80c49fbe90203ab1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954822.jpg?k=a7465b627d49733c037d997584f06ebf7320426f9e1456572f01aa88a74dbfd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263955727.jpg?k=2229cc0292397a3f73022dd41f875695a73b7c168e63a3cccde2b6660b0c72f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279095705.jpg?k=5923a34a7da0441e33da1096248028e187042a614122ac0c4b24e93fd6da4c4a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263953288.jpg?k=e9ec1f9d8b10dc0fa664f26379bc7a45379f9f4489c9b35fd555e49907e48e53&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "Triple Room"
+  - "King Suite"
+  - "Standard Suite"
+nearbyRestaurants:
+  - "Ostria 50 m"
+  - "Pizzeri Mejdani 250 m"
+nearbyBeaches:
+  - "Maestral Beach 400 m"
+  - "La Petite Beach 450 m"
+  - "Saranda City Beach 650 m"
+  - "VIP Beach 1 km"
+  - "Santa Quaranta Beach 1.1 km"
+whatsNearby:
+  - "Parc National de Butrint 1.1 km"
+  - "Butrint National Park 2.1 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Branko"
+    country: "Serbia"
+    text: "“Very friendly staff always ready to answer all your requests. The breakfast was extremely tasty and in sufficient quantity. The studio we stayed in was clean, and the king size bed was comfortable. Because of the kindness and comfort, we felt...”"
+  - name: "Güntuğ"
+    country: "Turkey"
+    text: "“Friendly, good people running the business.we loved the staying. Breakfast was good. Clean house.”"
+  - name: "Héctor"
+    country: "Spain"
+    text: "“The treatment is unbeatable. They are a very friendly family and very attentive at all times. The facilities and rooms are very clean and comfortable. The included breakfast is very complete and very good. We leave very happy and we would...”"
+bookingURL: "https://www.booking.com/hotel/al/lumi.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Accommodations at Lumi Hotel are thoughtfully designed with guest comfort in mind. Each room is a haven of relaxation, equipped with air conditioning, a wardrobe for personal belongings, and a flat-screen TV for entertainment. Select rooms elevate the experience further with the addition of a balcony, offering a private space to enjoy the fresh air and perhaps a morning cup of coffee.
 
 For those looking to explore beyond the hotel's immediate surroundings, La Petite Beach awaits at just 1.1 km away, offering another spot for sun-seekers and water enthusiasts. Meanwhile, the Butrint National Park, located 15 km from the hotel, presents an opportunity for adventure and exploration in one of Albania's most treasured natural and historical sites. For guests arriving by air, Ioannina Airport is the nearest gateway, situated 95 km from Lumi Hotel, making it a convenient option for international travelers.
 

@@ -1,6 +1,93 @@
----\ntitle: "Sindi's Daily Apartment"\ndescription: "Sindi's Daily Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512447131.jpg?k=8725c772104029bb4ffb87b2d9584fda1a284bee38a448b062a5a1d985a3bf90&o=&hp=1"\nlanguage: en\nslug: sindi-s-daily-apartment\naddress: "Rruga Hafiz Podgorica Rajfi group, 5th floor, n.29, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3177518\n  lng: 19.44917803\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 9.7\n  value: 10\n  comfort: 10\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512447131.jpg?k=8725c772104029bb4ffb87b2d9584fda1a284bee38a448b062a5a1d985a3bf90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499924953.jpg?k=811762619037abd1d92ac84eafc977502da58eb4891d04c68d7f42fecf3cb955&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512430521.jpg?k=69fb81eb95b6a1f5ad15894a070b041d0717249af076c0e9fa072687e37b675a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508112855.jpg?k=33095d8e92da3d944c30be7e4746d1aff5e806dafedc623bf034a5534b4209f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499070612.jpg?k=89a9ef9125d5088d97dbb4c990903bd2ef00f287120807427b258078635202b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496982983.jpg?k=af1b0adc8bb26a93a1671cd9a68cad759509d9f89ae27d211d5a995c34e60564&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500012851.jpg?k=9d6f4430954dc87e7e585b419892473af25c59c8a99572035c8f38d7638d1f29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508112520.jpg?k=2a113eb838c26bfe14863ef393a32cb54e00b4c79d8c2e126e31198305e0c46c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522251049.jpg?k=7d173a2e2836fabd2b8ac687450a30e79820ff9ff88749aa7d718ce7c8d78de5&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (44 Mbps)"\n  - "Family rooms"\n  - "24-hour front desk"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pelikan 40 m"\n  - "Poli's 100 m"\nnearbyBeaches:\n  - "Currila Beach 1 km"\n  - "Kallmi Beach 1.4 km"\n  - "Durres Beach 1.6 km"\n  - "West End Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Sheshi Demokracia 40 m"\n  - "Wine Dhe Pooh 200 m"\n  - "Yje Dhe Hena 250 m"\n  - "Sotir Noka 400 m"\n  - "Durres Amphiteatre 700 m"\n  - "1. Maj 850 m"\n  - "Bekimi 2.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 24 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Masako"\n    country: "Japan"\n    text: "“Although urgent booking host warmly welcomed us.
+---
+title: "Sindi's Daily Apartment"
+description: "Sindi's Daily Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512447131.jpg?k=8725c772104029bb4ffb87b2d9584fda1a284bee38a448b062a5a1d985a3bf90&o=&hp=1"
+language: en
+slug: sindi-s-daily-apartment
+address: "Rruga Hafiz Podgorica Rajfi group, 5th floor, n.29, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3177518
+  lng: 19.44917803
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 8
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 10
+  facilities: 9.7
+  value: 10
+  comfort: 10
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512447131.jpg?k=8725c772104029bb4ffb87b2d9584fda1a284bee38a448b062a5a1d985a3bf90&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499924953.jpg?k=811762619037abd1d92ac84eafc977502da58eb4891d04c68d7f42fecf3cb955&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512430521.jpg?k=69fb81eb95b6a1f5ad15894a070b041d0717249af076c0e9fa072687e37b675a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508112855.jpg?k=33095d8e92da3d944c30be7e4746d1aff5e806dafedc623bf034a5534b4209f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499070612.jpg?k=89a9ef9125d5088d97dbb4c990903bd2ef00f287120807427b258078635202b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496982983.jpg?k=af1b0adc8bb26a93a1671cd9a68cad759509d9f89ae27d211d5a995c34e60564&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500012851.jpg?k=9d6f4430954dc87e7e585b419892473af25c59c8a99572035c8f38d7638d1f29&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508112520.jpg?k=2a113eb838c26bfe14863ef393a32cb54e00b4c79d8c2e126e31198305e0c46c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522251049.jpg?k=7d173a2e2836fabd2b8ac687450a30e79820ff9ff88749aa7d718ce7c8d78de5&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Good free WiFi (44 Mbps)"
+  - "Family rooms"
+  - "24-hour front desk"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Pelikan 40 m"
+  - "Poli's 100 m"
+nearbyBeaches:
+  - "Currila Beach 1 km"
+  - "Kallmi Beach 1.4 km"
+  - "Durres Beach 1.6 km"
+  - "West End Beach 2.4 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "Sheshi Demokracia 40 m"
+  - "Wine Dhe Pooh 200 m"
+  - "Yje Dhe Hena 250 m"
+  - "Sotir Noka 400 m"
+  - "Durres Amphiteatre 700 m"
+  - "1. Maj 850 m"
+  - "Bekimi 2.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 24 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Masako"
+    country: "Japan"
+    text: "“Although urgent booking host warmly welcomed us.
 Host's father came out from the building before I arrived. This is the best welcome for guests.
-Excellent location, fashionable shopping area, a lot of supermarkets near by, close to bus...”"\n  - name: "Bálint"\n    country: "Hungary"\n    text: "“The apartment is lovely, well-equipped, very cozy and comfortable, so I recommend it to anybody. It is good to message or phone Sindi before the stay so that key takeover is smooth. Location: excellent. Hospitality: excellent. Snacks and coffee:...”"\n  - name: "Erion"\n    country: "Albania"\n    text: "“i liked how neat and organised everything was.
-a great touch was the fact Sindi had left snacks in there too”"\nbookingURL: "https://www.booking.com/hotel/al/sindis-daily-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodation here means stepping into a space designed for relaxation and convenience. The apartment boasts a bedroom equipped with a flat-screen TV offering satellite channels, a kitchen that comes fully equipped with an oven and a fridge, and the added convenience of a washing machine. The bathroom features a modern walk-in shower. Guests can also savor their meals in the fresh air, thanks to the outdoor dining area. Emphasizing comfort, the apartment is both non-smoking and soundproof, ensuring a peaceful retreat.
+Excellent location, fashionable shopping area, a lot of supermarkets near by, close to bus...”"
+  - name: "Bálint"
+    country: "Hungary"
+    text: "“The apartment is lovely, well-equipped, very cozy and comfortable, so I recommend it to anybody. It is good to message or phone Sindi before the stay so that key takeover is smooth. Location: excellent. Hospitality: excellent. Snacks and coffee:...”"
+  - name: "Erion"
+    country: "Albania"
+    text: "“i liked how neat and organised everything was.
+a great touch was the fact Sindi had left snacks in there too”"
+bookingURL: "https://www.booking.com/hotel/al/sindis-daily-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Accommodation here means stepping into a space designed for relaxation and convenience. The apartment boasts a bedroom equipped with a flat-screen TV offering satellite channels, a kitchen that comes fully equipped with an oven and a fridge, and the added convenience of a washing machine. The bathroom features a modern walk-in shower. Guests can also savor their meals in the fresh air, thanks to the outdoor dining area. Emphasizing comfort, the apartment is both non-smoking and soundproof, ensuring a peaceful retreat.
 
 Located within a stone's throw from attractions such as Currila Beach, Durres Beach, and the historic Durres Amphitheatre, guests are perfectly positioned to experience the best of Durrës. For those traveling to and from the city, Tirana International Mother Teresa Airport is a mere 32 km away, making Sindi's Daily Apartment an ideal base for both short and extended stays in this vibrant city.

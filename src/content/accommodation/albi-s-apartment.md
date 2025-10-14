@@ -1,5 +1,82 @@
----\ntitle: "ALBI’S Apartment"\ndescription: "ALBI'S Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and entertainment in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485690666.jpg?k=ffa0dfee8d063e95ff554094d12b0599faaeb1e655214b284691799d46565db9&o=&hp=1"\nlanguage: en\nslug: albi-s-apartment\naddress: "Rruga Siri Kodra, 1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3345285\n  lng: 19.82193994\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 20\nratings:\n  overall: 9.9\n  location: 9.5\n  cleanliness: 10\n  facilities: 9.9\n  value: 9.9\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485690666.jpg?k=ffa0dfee8d063e95ff554094d12b0599faaeb1e655214b284691799d46565db9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495826807.jpg?k=1bce7e76ad74da0f914315106532cfe82f22bbe0122d87c54cdb67ee230d064d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495825307.jpg?k=94925395f2f56303ac571a164b1a085f438bba70f5b7e574bba774c0744f32b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495825287.jpg?k=d51caa78c81b6b9318ca21d7abee6c6116e18fdf05e37c0ec2de401ded295a3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485690675.jpg?k=6a5bf0f4280768016efddc0f6cb0e4f2e7f1e50088cd7c451bd67f7e2497a091&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467933.jpg?k=ddfcb5def356ecd5f8578386d30fbdce0f0a393fe57aacc81a81f15276d8797c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495826454.jpg?k=389947f7ff772a147f98cfc282861a013ecc79d7842a5157d178dc1f2661c9bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495825216.jpg?k=02fa6587b4eb1ef1c27e4daf6f7f0dc3fad03afba7e8c3391791e47b9a4d253f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495826915.jpg?k=abec7e83e07bfcb98ac3f8c31142211da7745e6529a6cb4bb136240ff3373e50&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Tanners' Bridge 950 m"\n  - "House of Leaves 1,000 m"\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 3.7 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Artur"\n    country: "Poland"\n    text: "“We loved everything! Very clean and cosy, with everything you need and in great location. The host was very kind too. We definately recommend this apartment.”"\n  - name: "Veli"\n    country: "Turkey"\n    text: "“The room was spacious, cozy and super clean, the owner was very friendly, he came to pick us up from downtown. The location is in the middle of everywhere”"\n  - name: "Ketty"\n    country: "Italy"\n    text: "“Appartamento nuovo,accogliente, pulito e centralissimo.
-I proprietari sono gentilissimi e molto disponibili.”"\nbookingURL: "https://www.booking.com/hotel/al/albis-apartment-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests are treated to a panoramic terrace view of the mountains, complemented by the added luxury of a casino and complimentary bicycles for an immersive local experience. The convenience of private parking and complimentary WiFi enhances the stay, ensuring seamless connectivity and ease of travel.
+---
+title: "ALBI’S Apartment"
+description: "ALBI'S Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and entertainment in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485690666.jpg?k=ffa0dfee8d063e95ff554094d12b0599faaeb1e655214b284691799d46565db9&o=&hp=1"
+language: en
+slug: albi-s-apartment
+address: "Rruga Siri Kodra, 1010 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3345285
+  lng: 19.82193994
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 20
+ratings:
+  overall: 9.9
+  location: 9.5
+  cleanliness: 10
+  facilities: 9.9
+  value: 9.9
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485690666.jpg?k=ffa0dfee8d063e95ff554094d12b0599faaeb1e655214b284691799d46565db9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495826807.jpg?k=1bce7e76ad74da0f914315106532cfe82f22bbe0122d87c54cdb67ee230d064d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495825307.jpg?k=94925395f2f56303ac571a164b1a085f438bba70f5b7e574bba774c0744f32b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495825287.jpg?k=d51caa78c81b6b9318ca21d7abee6c6116e18fdf05e37c0ec2de401ded295a3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485690675.jpg?k=6a5bf0f4280768016efddc0f6cb0e4f2e7f1e50088cd7c451bd67f7e2497a091&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519467933.jpg?k=ddfcb5def356ecd5f8578386d30fbdce0f0a393fe57aacc81a81f15276d8797c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495826454.jpg?k=389947f7ff772a147f98cfc282861a013ecc79d7842a5157d178dc1f2661c9bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495825216.jpg?k=02fa6587b4eb1ef1c27e4daf6f7f0dc3fad03afba7e8c3391791e47b9a4d253f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495826915.jpg?k=abec7e83e07bfcb98ac3f8c31142211da7745e6529a6cb4bb136240ff3373e50&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Facilities for disabled guests"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Tanners' Bridge 950 m"
+  - "House of Leaves 1,000 m"
+  - "Rinia Park 1.1 km"
+  - "Former Residence of Enver Hoxha 1.6 km"
+  - "Grand Park of Tirana 2.5 km"
+  - "Bunk'Art 1 Museum 3.7 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Artur"
+    country: "Poland"
+    text: "“We loved everything! Very clean and cosy, with everything you need and in great location. The host was very kind too. We definately recommend this apartment.”"
+  - name: "Veli"
+    country: "Turkey"
+    text: "“The room was spacious, cozy and super clean, the owner was very friendly, he came to pick us up from downtown. The location is in the middle of everywhere”"
+  - name: "Ketty"
+    country: "Italy"
+    text: "“Appartamento nuovo,accogliente, pulito e centralissimo.
+I proprietari sono gentilissimi e molto disponibili.”"
+bookingURL: "https://www.booking.com/hotel/al/albis-apartment-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests are treated to a panoramic terrace view of the mountains, complemented by the added luxury of a casino and complimentary bicycles for an immersive local experience. The convenience of private parking and complimentary WiFi enhances the stay, ensuring seamless connectivity and ease of travel.
 
 The apartment itself is a testament to thoughtful hospitality, featuring air-conditioned spaces that cater to every need. The living quarters boast a Nintendo Wii for entertainment, alongside a fully equipped kitchen that includes modern amenities such as a microwave, fridge, and minibar. The living area is designed for relaxation, with a comfortable seating and dining area, leading into a cozy bedroom and a bathroom equipped with a hot tub and bidet. The inclusion of an allergy-free environment, complete with a fireplace, shower, and flat-screen TV with PS3, underscores the apartment's commitment to guest comfort.
 

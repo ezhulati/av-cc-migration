@@ -1,5 +1,90 @@
----\ntitle: "Kingu's Apartment"\ndescription: "Kingu's Apartment emerges as a standout choice for travelers seeking a blend of comfort and convenience in Golem, positioned just a stone's throw away from the pristine Durres Beach and within easy reach of Mali I Robit and Qerret Beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385504281.jpg?k=a3ec62b99a0b08079a5996c5516a62681a3cb838fc425ff655204f32110bb2f4&o=&hp=1"\nlanguage: en\nslug: kingu-s-apartment\naddress: "Golem Beach, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.23273654\n  lng: 19.51902904\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 9\nratings:\n  overall: 9\n  location: 8.9\n  cleanliness: 8.9\n  facilities: 8.9\n  value: 8.9\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385504281.jpg?k=a3ec62b99a0b08079a5996c5516a62681a3cb838fc425ff655204f32110bb2f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713144.jpg?k=6e9962262e2af87ad4665c959f603418356f463bbb9e2993f29a5aa8d724aaea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713159.jpg?k=895e22b54f64c9fa488629e77e4997c711984e77724f9bbb5f8860a3ad67b4d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385504765.jpg?k=100167e0020e6a60a72a4003b5af12e8c6e508c0e63d923b29d81e9b332dbeed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713100.jpg?k=68245d674c998f7863efed83d9ac6bed653f273ef71c8798fb51e3bd84758599&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713156.jpg?k=4c68a0f496089691b48aed1f3967f9af4f42f1d8faee99028995cad42f3e2d49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383714059.jpg?k=8cdf6e254c7d39520aa3f83033cd8728d0d94913169fd4e4183de62d841986f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383714095.jpg?k=31f6fd49459eff58469fcec12c9de8ad00bc4fbfb2640da7e8c25017d2f1fa88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713132.jpg?k=0b6d2e89d8e384cdd7b71730bdc526da8ed29534c7514ec5effb60b8a87aaf74&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Family Suite"\nnearbyRestaurants:\n  - "Prestige İStanbul Kebab House 150 m"\n  - "Ujvara Hotel & Bar Restorant Piceri 300 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 350 m"\n  - "Qerret Beach 550 m"\n  - "Golem Beach 1.7 km"\n  - "Shkëmbi i Kavajës Beach 3.6 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Adela"\n    country: "Albania"\n    text: "“The room is perfect. The location is great just 4 minutes walk from the beach. Everything was clean and inside of the room you have everything you need. Also the room was even bigger than described in my booking reservation. I will definitely...”"\n  - name: "Zeka"\n    country: "Albania"\n    text: "“Best welcome ever! Completely satisfied with the apartment! A perfect place for us on these sunny Albanian days. The beach is quite near, shops and restaurants are all the way throught the promenade. I would strongly recommend Kingu's apartment as...”"\n  - name: "Julian"\n    country: "Albania"\n    text: "“A place for everything and everything in it's place. A perfect spot for such a solo traveler like me, right 2 mins from the beach.
-The spacious place was neat and the linen smelled good, towels as well. WiFi, Iron, Tv, Washing Machine, Fridge,...”"\nbookingURL: "https://www.booking.com/hotel/al/kingus-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nRecently undergoing a comprehensive renovation, Kingu's Apartment presents a cozy yet elegant setting with its two-bedroom layout, offering views of the serene inner courtyard. The attention to detail is evident in the provision of modern amenities such as slippers, a hairdryer, towels, and bed linen, ensuring a comfortable and hassle-free stay. The addition of a private entrance and round-the-clock security underscores a commitment to guest privacy and safety.
+---
+title: "Kingu's Apartment"
+description: "Kingu's Apartment emerges as a standout choice for travelers seeking a blend of comfort and convenience in Golem, positioned just a stone's throw away from the pristine Durres Beach and within easy reach of Mali I Robit and Qerret Beaches."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385504281.jpg?k=a3ec62b99a0b08079a5996c5516a62681a3cb838fc425ff655204f32110bb2f4&o=&hp=1"
+language: en
+slug: kingu-s-apartment
+address: "Golem Beach, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.23273654
+  lng: 19.51902904
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 9
+ratings:
+  overall: 9
+  location: 8.9
+  cleanliness: 8.9
+  facilities: 8.9
+  value: 8.9
+  comfort: 9.2
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385504281.jpg?k=a3ec62b99a0b08079a5996c5516a62681a3cb838fc425ff655204f32110bb2f4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713144.jpg?k=6e9962262e2af87ad4665c959f603418356f463bbb9e2993f29a5aa8d724aaea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713159.jpg?k=895e22b54f64c9fa488629e77e4997c711984e77724f9bbb5f8860a3ad67b4d1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385504765.jpg?k=100167e0020e6a60a72a4003b5af12e8c6e508c0e63d923b29d81e9b332dbeed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713100.jpg?k=68245d674c998f7863efed83d9ac6bed653f273ef71c8798fb51e3bd84758599&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713156.jpg?k=4c68a0f496089691b48aed1f3967f9af4f42f1d8faee99028995cad42f3e2d49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383714059.jpg?k=8cdf6e254c7d39520aa3f83033cd8728d0d94913169fd4e4183de62d841986f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383714095.jpg?k=31f6fd49459eff58469fcec12c9de8ad00bc4fbfb2640da7e8c25017d2f1fa88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713132.jpg?k=0b6d2e89d8e384cdd7b71730bdc526da8ed29534c7514ec5effb60b8a87aaf74&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Airport shuttle"
+  - "Free WiFi"
+  - "Free parking"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Family Suite"
+nearbyRestaurants:
+  - "Prestige İStanbul Kebab House 150 m"
+  - "Ujvara Hotel & Bar Restorant Piceri 300 m"
+nearbyBeaches:
+  - "Mali I Robit Beach 350 m"
+  - "Qerret Beach 550 m"
+  - "Golem Beach 1.7 km"
+  - "Shkëmbi i Kavajës Beach 3.6 km"
+  - "Durres Beach 6 km"
+whatsNearby:
+  - "Durres Amphiteatre 11 km"
+  - "1. Maj 11 km"
+  - "Wine Dhe Pooh 11 km"
+  - "Yje Dhe Hena 11 km"
+  - "Sheshi Demokracia 11 km"
+  - "Bekimi 11 km"
+  - "Sotir Noka 12 km"
+  - "Divjake-Karavasta National Park 20 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+reviews:
+  - name: "Adela"
+    country: "Albania"
+    text: "“The room is perfect. The location is great just 4 minutes walk from the beach. Everything was clean and inside of the room you have everything you need. Also the room was even bigger than described in my booking reservation. I will definitely...”"
+  - name: "Zeka"
+    country: "Albania"
+    text: "“Best welcome ever! Completely satisfied with the apartment! A perfect place for us on these sunny Albanian days. The beach is quite near, shops and restaurants are all the way throught the promenade. I would strongly recommend Kingu's apartment as...”"
+  - name: "Julian"
+    country: "Albania"
+    text: "“A place for everything and everything in it's place. A perfect spot for such a solo traveler like me, right 2 mins from the beach.
+The spacious place was neat and the linen smelled good, towels as well. WiFi, Iron, Tv, Washing Machine, Fridge,...”"
+bookingURL: "https://www.booking.com/hotel/al/kingus-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Recently undergoing a comprehensive renovation, Kingu's Apartment presents a cozy yet elegant setting with its two-bedroom layout, offering views of the serene inner courtyard. The attention to detail is evident in the provision of modern amenities such as slippers, a hairdryer, towels, and bed linen, ensuring a comfortable and hassle-free stay. The addition of a private entrance and round-the-clock security underscores a commitment to guest privacy and safety.
 
 Dining at Kingu's Apartment is an experience in itself, with the on-site restaurant catering to a variety of tastes and preferences. Whether it's dinner, lunch, brunch, or cocktails, the family-friendly dining venue promises a delightful culinary journey.
 

@@ -1,4 +1,95 @@
----\ntitle: "MoonShine Apartament"\ndescription: "MoonShine Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343799828.jpg?k=7779073ef80e6b79bbf45438c47a145b231ef98f82a1a92e1f1ab7edd0db1c7d&o=&hp=1"\nlanguage: en\nslug: moonshine-apartament\naddress: "Rruga e Dibrës, 1057 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33265561\n  lng: 19.82271928\nprice: "US$55"\npriceFrom: 55\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 40\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.3\n  comfort: 9.3\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343799828.jpg?k=7779073ef80e6b79bbf45438c47a145b231ef98f82a1a92e1f1ab7edd0db1c7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344378513.jpg?k=1456e4d240fa035d0050a4f9946123be70ce8e19c3a6b889437901c7cc8e8a64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352162765.jpg?k=e4944160481c9cddaa8dbd9fd5cb03757d967625409ca9ed9f0a5ae7a83482e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344010503.jpg?k=cd01c1eb096f6d08fc0c5c7cdcdf3926c3aa0b8f5069987b64d159152bdeb62e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344011305.jpg?k=c579d2085a559e2b8a9e768d3ff5c17a9ff85e08947af17242ff4933ff2b587d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407706257.jpg?k=9cc914bfb91a6aa61167630d5c9e063837db0a4b3e3fcd2a8f86392c4e75264f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344378227.jpg?k=cebc40c767a54bf1824c49be520660e3413411c678f930df781e1ca830c707ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352162865.jpg?k=20e8057e685d5fe3858147502862e56f8c91c72055a271577a3c7c7e0c3a25e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344010982.jpg?k=391768882a80245d2b0c7c86dd2c67820c894433984f85084754b8a32762c03d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344010952.jpg?k=2c624fb06d63555e034bae170370dc9df9b3b804bee914fd4304f4cf62ccabbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447844871.jpg?k=753b559957ff6b56269687fbefe558c326b2aed336429aefa776effe8e767a0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344176865.jpg?k=21e8abaeceb49a88402e022e108a5e2b1f5342935473001922bdbc761d7dde43&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking"\n  - "Fast free WiFi (87 Mbps)"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 850 m"\n  - "Rinia Park 950 m"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Observator 20 m"\n  - "Shija e Zgares 30 m"\nwhatsNearby:\n  - "Amazing Nature 300 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "National Museum of History Albania 550 m"\n  - "Sheshi Rekreativ tek ish ATSh 600 m"\n  - "Clock Tower Tirana 600 m"\n  - "Sheshi Skënderbej 600 m"\n  - "Skanderbeg Square 600 m"\n  - "Parku Europa 650 m"\n  - "National Gallery of Arts Tirana 750 m"\n  - "Tanners' Bridge 750 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Charalampos"\n    country: "Cyprus"\n    text: "“The appartment is five minutes walk from the Skenderbeg square and the owner very kind and helpfull.”"\n  - name: "Antonio"\n    country: "Spain"\n    text: "“I wish I could give our apartment and our host more than 5 stars -- this place is perfect, so much so that I am already starting to feel homesick at the prospect of leaving (we extended our stay by a week as we loved the apartment and the...”"\n  - name: "Alan"\n    country: "Germany"\n    text: "“From the reservation to the moment we checked out, everything was perfect. He took care of me even though I went late. He explained everything one by one. He even answered my non-house related questions and tried to be helpful. A very kind,...”"\nbookingURL: "https://www.booking.com/hotel/al/best-in-town-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of space and light, boasting a balcony that offers captivating views of the cityscape. Designed to accommodate the modern traveler, the apartment features a well-appointed bedroom, a cozy living room for relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen with a dishwasher and an oven, catering to all culinary needs. The inclusion of a bathroom equipped with a bidet adds a touch of convenience to the living experience.
+---
+title: "MoonShine Apartament"
+description: "MoonShine Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343799828.jpg?k=7779073ef80e6b79bbf45438c47a145b231ef98f82a1a92e1f1ab7edd0db1c7d&o=&hp=1"
+language: en
+slug: moonshine-apartament
+address: "Rruga e Dibrës, 1057 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33265561
+  lng: 19.82271928
+price: "US$55"
+priceFrom: 55
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 40
+ratings:
+  overall: 9.4
+  location: 9.5
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9.3
+  comfort: 9.3
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343799828.jpg?k=7779073ef80e6b79bbf45438c47a145b231ef98f82a1a92e1f1ab7edd0db1c7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344378513.jpg?k=1456e4d240fa035d0050a4f9946123be70ce8e19c3a6b889437901c7cc8e8a64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352162765.jpg?k=e4944160481c9cddaa8dbd9fd5cb03757d967625409ca9ed9f0a5ae7a83482e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344010503.jpg?k=cd01c1eb096f6d08fc0c5c7cdcdf3926c3aa0b8f5069987b64d159152bdeb62e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344011305.jpg?k=c579d2085a559e2b8a9e768d3ff5c17a9ff85e08947af17242ff4933ff2b587d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407706257.jpg?k=9cc914bfb91a6aa61167630d5c9e063837db0a4b3e3fcd2a8f86392c4e75264f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344378227.jpg?k=cebc40c767a54bf1824c49be520660e3413411c678f930df781e1ca830c707ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352162865.jpg?k=20e8057e685d5fe3858147502862e56f8c91c72055a271577a3c7c7e0c3a25e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344010982.jpg?k=391768882a80245d2b0c7c86dd2c67820c894433984f85084754b8a32762c03d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344010952.jpg?k=2c624fb06d63555e034bae170370dc9df9b3b804bee914fd4304f4cf62ccabbd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447844871.jpg?k=753b559957ff6b56269687fbefe558c326b2aed336429aefa776effe8e767a0f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344176865.jpg?k=21e8abaeceb49a88402e022e108a5e2b1f5342935473001922bdbc761d7dde43&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking"
+  - "Fast free WiFi (87 Mbps)"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 850 m"
+  - "Rinia Park 950 m"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Grand Park of Tirana 2.3 km"
+  - "Bunk'Art 1 Museum 3.7 km"
+nearbyRestaurants:
+  - "Observator 20 m"
+  - "Shija e Zgares 30 m"
+whatsNearby:
+  - "Amazing Nature 300 m"
+  - "Sheshi Sulejman Pasha 450 m"
+  - "National Museum of History Albania 550 m"
+  - "Sheshi Rekreativ tek ish ATSh 600 m"
+  - "Clock Tower Tirana 600 m"
+  - "Sheshi Skënderbej 600 m"
+  - "Skanderbeg Square 600 m"
+  - "Parku Europa 650 m"
+  - "National Gallery of Arts Tirana 750 m"
+  - "Tanners' Bridge 750 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Mastercard"
+reviews:
+  - name: "Charalampos"
+    country: "Cyprus"
+    text: "“The appartment is five minutes walk from the Skenderbeg square and the owner very kind and helpfull.”"
+  - name: "Antonio"
+    country: "Spain"
+    text: "“I wish I could give our apartment and our host more than 5 stars -- this place is perfect, so much so that I am already starting to feel homesick at the prospect of leaving (we extended our stay by a week as we loved the apartment and the...”"
+  - name: "Alan"
+    country: "Germany"
+    text: "“From the reservation to the moment we checked out, everything was perfect. He took care of me even though I went late. He explained everything one by one. He even answered my non-house related questions and tried to be helpful. A very kind,...”"
+bookingURL: "https://www.booking.com/hotel/al/best-in-town-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of space and light, boasting a balcony that offers captivating views of the cityscape. Designed to accommodate the modern traveler, the apartment features a well-appointed bedroom, a cozy living room for relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen with a dishwasher and an oven, catering to all culinary needs. The inclusion of a bathroom equipped with a bidet adds a touch of convenience to the living experience.
 
 Guests of MoonShine Apartment are treated to little luxuries that make a big difference in their stay, including the option to unwind with wine or champagne and chocolates or cookies. The provision of bed linen, towels, and a laundry service underscores the apartment's commitment to guest comfort.
 

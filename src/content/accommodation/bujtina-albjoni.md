@@ -1,3 +1,82 @@
----\ntitle: "Bujtina Albjoni"\ndescription: "Bujtina Albjoni stands out as a serene retreat in Valbonë, offering guests a unique blend of comfort and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472268737.jpg?k=91c3cf16a61c88d601200aa75ab68d993cdce394bd3806838e3087faf7975e22&o=&hp=1"\nlanguage: en\nslug: bujtina-albjoni\naddress: "Rruga Azem Hajdari, 8701 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.44794821\n  lng: 19.88715305\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 500\nratings:\n  overall: 8.9\n  location: 9.2\n  cleanliness: 9.1\n  facilities: 8.3\n  value: 9\n  comfort: 9\n  staff: 9.6\n  wifi: 7.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472268737.jpg?k=91c3cf16a61c88d601200aa75ab68d993cdce394bd3806838e3087faf7975e22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310184543.jpg?k=878797eb86fe738946f2f5c2030516bd42f6ab5496299e90b107f427078c29a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304201264.jpg?k=f7f0153655132c1e7b81529c40768bd55924a669b2702d0321d72a09de775275&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370294741.jpg?k=8661be5b25d36bb9707ab39a337d10de7302c185e74dcd5a098fc81cdc0ef6d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309457721.jpg?k=5e12fae9740004b938e329970340ee6e36e783a5378f8c76ea1d3be0e284b4dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472269279.jpg?k=6ecc6b233462273750511c015a7fcdeaa6e92fe7abdccac84fa738dd02eccdbf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370292612.jpg?k=7f3b8987785d2ef43f9dceaa82574f71350a2832a7e59d4e2e8c2480a74cb34e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372249375.jpg?k=4bd15c9947757b68e7ff363b95e878c75e0af3d0bf9d246ec997805a862929c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492622662.jpg?k=7ac9471ca54245bd5d95f72856e4db9a01bd7bca62ff736f8f517d7547700222&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370606905.jpg?k=5b7da80982299faffa5ce2451875c9e02b04f6464505519358c9bf7912080802&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370603695.jpg?k=2ecbd2b49b7419305f309d687bbbb06b4a541a5d86e1ec57f5dfeced1e99e35a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385386317.jpg?k=52ed6c614febaa0ee188db9a72833be91bf17bd94fb12a5dd37bda7d94db4a98&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Tahirs Café & Guesthouse 900 m"\n  - "Fusha E Gjes 2.3 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 2.4 km"\n  - "Prokletije National Park 3.8 km"\n  - "Theth National Park 4.8 km"\n  - "Theth National Park 9 km"\n  - "Nacionalni Park Prokletije 10 km"\n  - "Prokletije National Park 11 km"\n  - "Nacionalni park Prokletije 13 km"\n  - "Valbona Valley National Park 19 km"\nairports:\n  - "Podgorica Airport 53 km"\n  - "Pristina International Airport 95 km"\n  - "Tivat Airport 95 km"\nreviews:\n  - name: "Alex"\n    country: "United Kingdom"\n    text: "“Perfect for a solo traveller. Accommodating hosts and everything you need. Views are out of this world. Thank you.”"\n  - name: "Josh"\n    country: "United Kingdom"\n    text: "“The staff were extremely friendly and pleasure to be around. Some of the friendliest people we met in Albania”"\n  - name: "Jessica"\n    country: "Australia"\n    text: "“My friend and I had a nice stay at Bujtina. The lady who was around was lovely and always made sure we had everything we needed. We liked wandering around the village and exploring some nearby sites.”"\nbookingURL: "https://www.booking.com/hotel/al/bujtina-flamuri.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Bujtina Albjoni are thoughtfully equipped with private bathrooms, cozy slippers, and fresh bed linen, ensuring a restful stay. Mornings here start with a delightful continental breakfast, setting the tone for a day of exploration or relaxation.
+---
+title: "Bujtina Albjoni"
+description: "Bujtina Albjoni stands out as a serene retreat in Valbonë, offering guests a unique blend of comfort and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472268737.jpg?k=91c3cf16a61c88d601200aa75ab68d993cdce394bd3806838e3087faf7975e22&o=&hp=1"
+language: en
+slug: bujtina-albjoni
+address: "Rruga Azem Hajdari, 8701 Valbonë, Albania"
+city: "Valbonë"
+location: "Valbonë"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 42.44794821
+  lng: 19.88715305
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 500
+ratings:
+  overall: 8.9
+  location: 9.2
+  cleanliness: 9.1
+  facilities: 8.3
+  value: 9
+  comfort: 9
+  staff: 9.6
+  wifi: 7.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472268737.jpg?k=91c3cf16a61c88d601200aa75ab68d993cdce394bd3806838e3087faf7975e22&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310184543.jpg?k=878797eb86fe738946f2f5c2030516bd42f6ab5496299e90b107f427078c29a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304201264.jpg?k=f7f0153655132c1e7b81529c40768bd55924a669b2702d0321d72a09de775275&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370294741.jpg?k=8661be5b25d36bb9707ab39a337d10de7302c185e74dcd5a098fc81cdc0ef6d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309457721.jpg?k=5e12fae9740004b938e329970340ee6e36e783a5378f8c76ea1d3be0e284b4dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472269279.jpg?k=6ecc6b233462273750511c015a7fcdeaa6e92fe7abdccac84fa738dd02eccdbf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370292612.jpg?k=7f3b8987785d2ef43f9dceaa82574f71350a2832a7e59d4e2e8c2480a74cb34e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372249375.jpg?k=4bd15c9947757b68e7ff363b95e878c75e0af3d0bf9d246ec997805a862929c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492622662.jpg?k=7ac9471ca54245bd5d95f72856e4db9a01bd7bca62ff736f8f517d7547700222&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370606905.jpg?k=5b7da80982299faffa5ce2451875c9e02b04f6464505519358c9bf7912080802&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370603695.jpg?k=2ecbd2b49b7419305f309d687bbbb06b4a541a5d86e1ec57f5dfeced1e99e35a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385386317.jpg?k=52ed6c614febaa0ee188db9a72833be91bf17bd94fb12a5dd37bda7d94db4a98&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Superb breakfast"
+nearbyRestaurants:
+  - "Tahirs Café & Guesthouse 900 m"
+  - "Fusha E Gjes 2.3 km"
+whatsNearby:
+  - "Valbona Valley National Park 0 m"
+  - "Parku Kombëtar Lugina e Valbonës 2.4 km"
+  - "Prokletije National Park 3.8 km"
+  - "Theth National Park 4.8 km"
+  - "Theth National Park 9 km"
+  - "Nacionalni Park Prokletije 10 km"
+  - "Prokletije National Park 11 km"
+  - "Nacionalni park Prokletije 13 km"
+  - "Valbona Valley National Park 19 km"
+airports:
+  - "Podgorica Airport 53 km"
+  - "Pristina International Airport 95 km"
+  - "Tivat Airport 95 km"
+reviews:
+  - name: "Alex"
+    country: "United Kingdom"
+    text: "“Perfect for a solo traveller. Accommodating hosts and everything you need. Views are out of this world. Thank you.”"
+  - name: "Josh"
+    country: "United Kingdom"
+    text: "“The staff were extremely friendly and pleasure to be around. Some of the friendliest people we met in Albania”"
+  - name: "Jessica"
+    country: "Australia"
+    text: "“My friend and I had a nice stay at Bujtina. The lady who was around was lovely and always made sure we had everything we needed. We liked wandering around the village and exploring some nearby sites.”"
+bookingURL: "https://www.booking.com/hotel/al/bujtina-flamuri.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Bujtina Albjoni are thoughtfully equipped with private bathrooms, cozy slippers, and fresh bed linen, ensuring a restful stay. Mornings here start with a delightful continental breakfast, setting the tone for a day of exploration or relaxation.
 
 Situated 147 km from Pristina International Airport, this guest house is a perfect escape for those seeking a peaceful haven amidst nature's splendor.

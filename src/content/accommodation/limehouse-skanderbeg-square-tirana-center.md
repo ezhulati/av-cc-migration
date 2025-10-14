@@ -1,4 +1,70 @@
----\ntitle: "Limehouse Skanderbeg Square Tirana Center"\ndescription: "Limehouse Skanderbeg Square Tirana Center emerges as a freshly renovated gem in the heart of Tirana, offering a seamless blend of convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832708.jpg?k=9d0be8d7c9bd0bbd642ce964bd2fd135d990bd771aa29d64321498ddb52cf55c&o=&hp=1"\nlanguage: en\nslug: limehouse-skanderbeg-square-tirana-center\naddress: "Rruga Mine Peza, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33050138\n  lng: 19.81351671\nprice: "US$50"\npriceFrom: 50\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 40\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.3\n  comfort: 9.4\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832708.jpg?k=9d0be8d7c9bd0bbd642ce964bd2fd135d990bd771aa29d64321498ddb52cf55c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832235.jpg?k=1e00a2de32a4f66a3cfb1ae5cf1f9066a8df1e6f25f5430b465e08dfac3fde16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832244.jpg?k=07008354d8e5b9fc9e76a6b7c3ea6004aa92aaeb341f6250ba314e54bf92bf96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440833734.jpg?k=d808c93dcf20b79b1f4c3a108e6826cbf8e8a937f455837085a7f06246d293dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518880065.jpg?k=57c075a5d4a9f56865909e89cb19a881d07b39f4a2f38b71aedf1477758afb38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440834161.jpg?k=db23958d3d6a82526f243dd88ed422ba322ca89619370a5dac137866387dfc56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832074.jpg?k=b38733441539ee23bb728d492a10473bc8969afdc14bf4c9e78448de46eec856&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440834116.jpg?k=b25d6055b517a6101c708df48ee535022abf036407f053089122024b0380fa88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440833828.jpg?k=de5feda59efc720b8efbc3bc080f7299fd27e92a811d69f00949b5a5e23dcf3d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Fast free WiFi (178 Mbps)"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 750 m"\n  - "National Gallery of Arts Tirana 750 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Tanners' Bridge 1.1 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 4.5 km"\nreviews:\n  - name: "Sathya"\n    country: "Netherlands"\n    text: "“Both the host and her mother were very kind and responsive. The rooms are in good condition, the kitchen is sufficient for short stay. I would’ve liked a bit more lighting in the living room but that is a personal preference. Overall, would highly...”"\n  - name: "Merita"\n    country: "Albania"\n    text: "“Proximity to the center; the facilities it provided and cleaness”"\n  - name: "Chrysi"\n    country: "Greece"\n    text: "“Clean apartment, very close to Skanderber Square and all the attractions around. 15 minutes walk from the area with the bars. There are 2 parking lots very close. The host was very friendly and answered quickly to all our messages. She even ...”"\nbookingURL: "https://www.booking.com/hotel/al/cozy-amp-lovely-skanderbeg-square-guesthouse-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Limehouse Skanderbeg Square are greeted with a host of thoughtful amenities designed to ensure a hassle-free stay. The presence of an ATM and a minimarket on-site underscores the property's commitment to guest convenience, complemented by the provision of complimentary WiFi accessible throughout the premises. Moreover, the establishment's strict non-smoking policy underscores its dedication to providing a comfortable and healthy environment for all guests.
+---
+title: "Limehouse Skanderbeg Square Tirana Center"
+description: "Limehouse Skanderbeg Square Tirana Center emerges as a freshly renovated gem in the heart of Tirana, offering a seamless blend of convenience and comfort."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832708.jpg?k=9d0be8d7c9bd0bbd642ce964bd2fd135d990bd771aa29d64321498ddb52cf55c&o=&hp=1"
+language: en
+slug: limehouse-skanderbeg-square-tirana-center
+address: "Rruga Mine Peza, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33050138
+  lng: 19.81351671
+price: "US$50"
+priceFrom: 50
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 40
+ratings:
+  overall: 9.5
+  location: 9.7
+  cleanliness: 9.6
+  facilities: 9.2
+  value: 9.3
+  comfort: 9.4
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832708.jpg?k=9d0be8d7c9bd0bbd642ce964bd2fd135d990bd771aa29d64321498ddb52cf55c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832235.jpg?k=1e00a2de32a4f66a3cfb1ae5cf1f9066a8df1e6f25f5430b465e08dfac3fde16&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832244.jpg?k=07008354d8e5b9fc9e76a6b7c3ea6004aa92aaeb341f6250ba314e54bf92bf96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440833734.jpg?k=d808c93dcf20b79b1f4c3a108e6826cbf8e8a937f455837085a7f06246d293dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518880065.jpg?k=57c075a5d4a9f56865909e89cb19a881d07b39f4a2f38b71aedf1477758afb38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440834161.jpg?k=db23958d3d6a82526f243dd88ed422ba322ca89619370a5dac137866387dfc56&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832074.jpg?k=b38733441539ee23bb728d492a10473bc8969afdc14bf4c9e78448de46eec856&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440834116.jpg?k=b25d6055b517a6101c708df48ee535022abf036407f053089122024b0380fa88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440833828.jpg?k=de5feda59efc720b8efbc3bc080f7299fd27e92a811d69f00949b5a5e23dcf3d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Fast free WiFi (178 Mbps)"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "Rinia Park 750 m"
+  - "National Gallery of Arts Tirana 750 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Tanners' Bridge 1.1 km"
+  - "Grand Park of Tirana 2.3 km"
+  - "Bunk'Art 1 Museum 4.5 km"
+reviews:
+  - name: "Sathya"
+    country: "Netherlands"
+    text: "“Both the host and her mother were very kind and responsive. The rooms are in good condition, the kitchen is sufficient for short stay. I would’ve liked a bit more lighting in the living room but that is a personal preference. Overall, would highly...”"
+  - name: "Merita"
+    country: "Albania"
+    text: "“Proximity to the center; the facilities it provided and cleaness”"
+  - name: "Chrysi"
+    country: "Greece"
+    text: "“Clean apartment, very close to Skanderber Square and all the attractions around. 15 minutes walk from the area with the bars. There are 2 parking lots very close. The host was very friendly and answered quickly to all our messages. She even ...”"
+bookingURL: "https://www.booking.com/hotel/al/cozy-amp-lovely-skanderbeg-square-guesthouse-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at Limehouse Skanderbeg Square are greeted with a host of thoughtful amenities designed to ensure a hassle-free stay. The presence of an ATM and a minimarket on-site underscores the property's commitment to guest convenience, complemented by the provision of complimentary WiFi accessible throughout the premises. Moreover, the establishment's strict non-smoking policy underscores its dedication to providing a comfortable and healthy environment for all guests.
 
 Accommodation at Limehouse Skanderbeg Square is nothing short of comfortable and inviting. The air-conditioned apartment boasts two separate bedrooms, a cozy living room, and a fully equipped kitchen with a stovetop, catering to guests' needs for independence and privacy. The inclusion of towels and bed linen further enhances the home-away-from-home experience, ensuring guests can travel light without compromising on comfort.
 

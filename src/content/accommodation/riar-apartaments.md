@@ -1,5 +1,82 @@
----\ntitle: "Riar Apartaments"\ndescription: "Riar Apartaments stands out as a prime choice for travelers seeking comfort and convenience in Korçë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178461.jpg?k=910d421f7a56c54d31b5c444915e97336fa3135e3bdf22b4506c0d1e1ab3bbfa&o=&hp=1"\nlanguage: en\nslug: riar-apartaments\naddress: "Rruga Midhi Kostani Perballe Terminalit, 7000 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.62351585\n  lng: 20.77451273\nprice: "US$102"\npriceFrom: 102\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.9\n  location: 9.4\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178461.jpg?k=910d421f7a56c54d31b5c444915e97336fa3135e3bdf22b4506c0d1e1ab3bbfa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178384.jpg?k=00cc8150e86be36c30758094b8f62af69d5f9e842816420b6143fef18862c1b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178481.jpg?k=261352f4c03025eba6d2f6db1c411c40ba5aa80612aa5f2dad6626ebc888dae6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178477.jpg?k=c055cfcf41e622b715cb606c37c073a3f5acbd4e74f319b188395d40c6c21963&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178453.jpg?k=928ecf0375fead6f44174fab8a0cf5798e454d8aaba26e666cb1d972d087b90e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505619651.jpg?k=652e1094f124f19ac714cb1b95b68442387498ae0f3ecd44751712fd6d5db993&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178472.jpg?k=e79747f73d47bd4449597e1702cdaaa54a912956bd3ef86aacfb5112fae0a851&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178459.jpg?k=0692a488658918acf60f6c219a9b3a15c785a170251b2d962ffde34312028f32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178466.jpg?k=63d7a8e155a52a280ef8047e83dd6f55320aaea4f67d0dbca9d6b29ec4d4640b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Viktoria Coffee Winners 50 m"\n  - "Cegora 250 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 850 m"\n  - "Field of Tears 850 m"\n  - "Parku Rinia 900 m"\n  - "Parku Vangjush Mio 900 m"\n  - "Parku Rinia 1.1 km"\n  - "Sheshi Patriku Joasaf 1.1 km"\n  - "Sheshi Panxhar 4.8 km"\n  - "Sheshi Penetori 12 km"\n  - "Sheshi Koço Plaku 12 km"\nairports:\n  - "Kastoria National Airport 46 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 97 km"\nreviews:\n  - name: "Inapulce"\n    country: "Albania"\n    text: "“Modern design very beautiful and comfortable apartment in front of bus terminal.”"\n  - name: "Likaj"\n    country: "Albania"\n    text: "“The apartment was brand new and very chic. All the beds and sofa were new and very cozy
-The host was very willing to help. A big plus for whose who travel by bus is the terminal only 3 minutes away, from the other part of the street. I will...”"\n  - name: "Tea"\n    country: "Albania"\n    text: "“Amazing property! The hosts are very nice and communicative. The apartment is beautiful and close to the city center.”"\nbookingURL: "https://www.booking.com/hotel/al/riars-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nGuests at Riar Apartaments are treated to a stay in a spacious apartment that boasts two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen, ensuring all the comforts of home are at their fingertips. Additionally, the presence of two bathrooms adds an extra layer of convenience for families or groups. Highlighting its commitment to a comfortable stay, the accommodation is strictly non-smoking.
+---
+title: "Riar Apartaments"
+description: "Riar Apartaments stands out as a prime choice for travelers seeking comfort and convenience in Korçë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178461.jpg?k=910d421f7a56c54d31b5c444915e97336fa3135e3bdf22b4506c0d1e1ab3bbfa&o=&hp=1"
+language: en
+slug: riar-apartaments
+address: "Rruga Midhi Kostani Perballe Terminalit, 7000 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.62351585
+  lng: 20.77451273
+price: "US$102"
+priceFrom: 102
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 9
+ratings:
+  overall: 9.9
+  location: 9.4
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178461.jpg?k=910d421f7a56c54d31b5c444915e97336fa3135e3bdf22b4506c0d1e1ab3bbfa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178384.jpg?k=00cc8150e86be36c30758094b8f62af69d5f9e842816420b6143fef18862c1b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178481.jpg?k=261352f4c03025eba6d2f6db1c411c40ba5aa80612aa5f2dad6626ebc888dae6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178477.jpg?k=c055cfcf41e622b715cb606c37c073a3f5acbd4e74f319b188395d40c6c21963&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178453.jpg?k=928ecf0375fead6f44174fab8a0cf5798e454d8aaba26e666cb1d972d087b90e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505619651.jpg?k=652e1094f124f19ac714cb1b95b68442387498ae0f3ecd44751712fd6d5db993&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178472.jpg?k=e79747f73d47bd4449597e1702cdaaa54a912956bd3ef86aacfb5112fae0a851&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178459.jpg?k=0692a488658918acf60f6c219a9b3a15c785a170251b2d962ffde34312028f32&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178466.jpg?k=63d7a8e155a52a280ef8047e83dd6f55320aaea4f67d0dbca9d6b29ec4d4640b&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Viktoria Coffee Winners 50 m"
+  - "Cegora 250 m"
+whatsNearby:
+  - "Parku Themistokli Gërmenji 850 m"
+  - "Field of Tears 850 m"
+  - "Parku Rinia 900 m"
+  - "Parku Vangjush Mio 900 m"
+  - "Parku Rinia 1.1 km"
+  - "Sheshi Patriku Joasaf 1.1 km"
+  - "Sheshi Panxhar 4.8 km"
+  - "Sheshi Penetori 12 km"
+  - "Sheshi Koço Plaku 12 km"
+airports:
+  - "Kastoria National Airport 46 km"
+  - "Ohrid Airport 60 km"
+  - "Kozani National Airport 97 km"
+reviews:
+  - name: "Inapulce"
+    country: "Albania"
+    text: "“Modern design very beautiful and comfortable apartment in front of bus terminal.”"
+  - name: "Likaj"
+    country: "Albania"
+    text: "“The apartment was brand new and very chic. All the beds and sofa were new and very cozy
+The host was very willing to help. A big plus for whose who travel by bus is the terminal only 3 minutes away, from the other part of the street. I will...”"
+  - name: "Tea"
+    country: "Albania"
+    text: "“Amazing property! The hosts are very nice and communicative. The apartment is beautiful and close to the city center.”"
+bookingURL: "https://www.booking.com/hotel/al/riars-apartament.en-gb.html?aid=8035640"
+bestFor: "Best for Airport Access"
+bestCategories: "Airport Access"
+category: "Airport Access"
+---
+
+Guests at Riar Apartaments are treated to a stay in a spacious apartment that boasts two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen, ensuring all the comforts of home are at their fingertips. Additionally, the presence of two bathrooms adds an extra layer of convenience for families or groups. Highlighting its commitment to a comfortable stay, the accommodation is strictly non-smoking.
 
 One of the standout features of Riar Apartaments is its terrace, which offers a tranquil space for guests to unwind. The inclusion of amenities such as free private parking and complimentary WiFi further enhances the guest experience, making it an attractive option for both short and long stays.
 

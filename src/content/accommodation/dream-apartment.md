@@ -1,1 +1,60 @@
----\ntitle: "DREAM APARTMENT"\ndescription: "DREAM APARTMENT emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312617.jpg?k=23a5b692cf65350487439b3336bd7312684edb51837f04e00b9fcb42f9ef0fe3&o=&hp=1"\nlanguage: en\nslug: dream-apartment\naddress: "Lgj 10 korriku, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4387538\n  lng: 19.49485457\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312617.jpg?k=23a5b692cf65350487439b3336bd7312684edb51837f04e00b9fcb42f9ef0fe3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213256070.jpg?k=c8930e32eb9146468bf4e5f4bb323de97cf5a40fd19cd652a9193c20c7a43409&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312611.jpg?k=afe8992e98f56238ea53cab7ff363f7d3af5303425d3540a661aaf664d59a239&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312615.jpg?k=9997a0299cfa3e53fa297848f5b064ed630c606d6c650ed848ee1837a5543c67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213256089.jpg?k=27c2c41700002b0b0c174bbd16c0d6f4fe3f711c086deabcc2e6d91f2407487c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312616.jpg?k=bd787b52ec3a5c8e44e4fdc4ff2e1e5f2245176df4e8951a2a22dc125a98979a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312610.jpg?k=541de9bbd649eb3110555468fa8cfcfedfec55305f6bb388a2522696d4aa2cbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213256087.jpg?k=5234a0993b30926dbb1514cf2783742b68481544226eea2c2b67e44731f46197&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312618.jpg?k=dc6480028c1cd211f7b23317a4517c3836606971b09351ff31e34db8c3171aff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312614.jpg?k=defbef21eafbb7e308a55cf37fee7c0b7bd2c83ac46485289c6a9c034689f616&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312612.jpg?k=2d3196799162c72278a68cbc5ef818b8f28c59d3b1531960cfb0a5d3c6d7e2dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471313072.jpg?k=52341a94a842a055cabf579bc7caaeb03e3065a51c977812c6cbc03ab5d19978&o=&hp=1"\nnearbyRestaurants:\n  - "Taverna Sulejmanasi 40 m"\n  - "Art Guzhine Luan Memaj 40 m"\nnearbyBeaches:\n  - "Ri Beach 350 m"\n  - "Vlore Beach 450 m"\n  - "Vjetër Beach 1.9 km"\n  - "Beach at Government Villas 2.2 km"\n  - "Liro Beach 2.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 250 m"\n  - "Kuzum Baba 3.2 km"\n  - "Independence Square 3.6 km"\nbookingURL: "https://www.booking.com/hotel/al/dream-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment champions a smoke-free environment, ensuring a clean and healthy stay for all guests. For those flying in, the Tirana International Mother Teresa Airport is located 153 kilometers away, making DREAM APARTMENT an accessible retreat after a journey.
+---
+title: "DREAM APARTMENT"
+description: "DREAM APARTMENT emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312617.jpg?k=23a5b692cf65350487439b3336bd7312684edb51837f04e00b9fcb42f9ef0fe3&o=&hp=1"
+language: en
+slug: dream-apartment
+address: "Lgj 10 korriku, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.4387538
+  lng: 19.49485457
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312617.jpg?k=23a5b692cf65350487439b3336bd7312684edb51837f04e00b9fcb42f9ef0fe3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213256070.jpg?k=c8930e32eb9146468bf4e5f4bb323de97cf5a40fd19cd652a9193c20c7a43409&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312611.jpg?k=afe8992e98f56238ea53cab7ff363f7d3af5303425d3540a661aaf664d59a239&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312615.jpg?k=9997a0299cfa3e53fa297848f5b064ed630c606d6c650ed848ee1837a5543c67&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213256089.jpg?k=27c2c41700002b0b0c174bbd16c0d6f4fe3f711c086deabcc2e6d91f2407487c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312616.jpg?k=bd787b52ec3a5c8e44e4fdc4ff2e1e5f2245176df4e8951a2a22dc125a98979a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312610.jpg?k=541de9bbd649eb3110555468fa8cfcfedfec55305f6bb388a2522696d4aa2cbd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213256087.jpg?k=5234a0993b30926dbb1514cf2783742b68481544226eea2c2b67e44731f46197&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312618.jpg?k=dc6480028c1cd211f7b23317a4517c3836606971b09351ff31e34db8c3171aff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312614.jpg?k=defbef21eafbb7e308a55cf37fee7c0b7bd2c83ac46485289c6a9c034689f616&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312612.jpg?k=2d3196799162c72278a68cbc5ef818b8f28c59d3b1531960cfb0a5d3c6d7e2dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471313072.jpg?k=52341a94a842a055cabf579bc7caaeb03e3065a51c977812c6cbc03ab5d19978&o=&hp=1"
+nearbyRestaurants:
+  - "Taverna Sulejmanasi 40 m"
+  - "Art Guzhine Luan Memaj 40 m"
+nearbyBeaches:
+  - "Ri Beach 350 m"
+  - "Vlore Beach 450 m"
+  - "Vjetër Beach 1.9 km"
+  - "Beach at Government Villas 2.2 km"
+  - "Liro Beach 2.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 250 m"
+  - "Kuzum Baba 3.2 km"
+  - "Independence Square 3.6 km"
+bookingURL: "https://www.booking.com/hotel/al/dream-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This apartment champions a smoke-free environment, ensuring a clean and healthy stay for all guests. For those flying in, the Tirana International Mother Teresa Airport is located 153 kilometers away, making DREAM APARTMENT an accessible retreat after a journey.

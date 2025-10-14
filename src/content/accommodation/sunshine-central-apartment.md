@@ -1,4 +1,81 @@
----\ntitle: "Sunshine Central Apartment"\ndescription: "Sunshine Central Apartment stands as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383152991.jpg?k=5758d66af7cbc909158b7142cc576e093d594f318f22b942e4339c670eb9c5a3&o=&hp=1"\nlanguage: en\nslug: sunshine-central-apartment\naddress: "Rruga Lefter Talo, Pallati 21; Shkalla 2; apt 12, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87549078\n  lng: 20.00376778\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383152991.jpg?k=5758d66af7cbc909158b7142cc576e093d594f318f22b942e4339c670eb9c5a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376703791.jpg?k=2a4fcd32e94fef1a56c495a66af29f8854f0a784086e4bd0d4605ad6d606426b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147649.jpg?k=4287e768d0470752f4afa5e8a4aadb259e5633f3e32ea26188676cf91b30ffb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383146656.jpg?k=41d671ee844ad0599f973807964054236dde5fade010fb513dfdad1f97a149ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147992.jpg?k=4d19e4d7ef24816bce17036c95945923d4caf7b4d57afa8adf252419d088f53b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383152235.jpg?k=c217f83b2ebf56a770b4f76388fa7bdfe96f40822170ebb396f82777db617504&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383146871.jpg?k=d181be1948d97dc968645bf6e1eeed438642e31d6872d72854abdc1dd82fa7b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147848.jpg?k=6df7aa3639ef03dc9e91e9b6611039b46cf75ef1aa80238e239d2a56fd7e0d03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147786.jpg?k=44b164d01f75ff982661c8a92032968e12a02427364ba29176edc0bc5606fbfe&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Iliria 50 m"\n  - "Corner 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 500 m"\n  - "Sarande Main Beach 700 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.4 km"\n  - "Saranda Bay Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Hans"\n    country: "Germany"\n    text: "“Good location, lovely balcony with view overlooking the city and garden.The accommodation is super comfortable and clean.”"\n  - name: "Blerta2b"\n    country: "Greece"\n    text: "“Friendly hosts. Cozy, sparkling clean, very comfortable apartment. Convenient location. Near center,markets, cafes, fish and meat taverns. To the beach and promenade is 6 minutes walk (not in a hurry). The kitchen is equipped with everything you...”"\n  - name: "Marco"\n    country: "Italy"\n    text: "“Appartamento ampio e ben arredato nei minimumi dettagli.Aria condizionata in camera de letto a anche nel salotto, ottima la posizione nel pieno centro di Saranda con supermarcato,bar,panificio sotto l'appartamento,Gentilissimo il proprietario che...”"\nbookingURL: "https://www.booking.com/hotel/al/caramel-sun-central-1-1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of comfort, featuring a well-equipped kitchen with an oven and fridge, a cozy seating area for relaxation, and a bedroom designed for restful nights. Guests can enjoy the modern conveniences of a flat-screen TV and complimentary WiFi, making it easy to stay connected or unwind after a day of adventure. The inclusion of essential amenities such as bed linen, towels, and a convenient laundry service underscores the apartment's commitment to guest comfort.
+---
+title: "Sunshine Central Apartment"
+description: "Sunshine Central Apartment stands as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383152991.jpg?k=5758d66af7cbc909158b7142cc576e093d594f318f22b942e4339c670eb9c5a3&o=&hp=1"
+language: en
+slug: sunshine-central-apartment
+address: "Rruga Lefter Talo, Pallati 21; Shkalla 2; apt 12, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87549078
+  lng: 20.00376778
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383152991.jpg?k=5758d66af7cbc909158b7142cc576e093d594f318f22b942e4339c670eb9c5a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376703791.jpg?k=2a4fcd32e94fef1a56c495a66af29f8854f0a784086e4bd0d4605ad6d606426b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147649.jpg?k=4287e768d0470752f4afa5e8a4aadb259e5633f3e32ea26188676cf91b30ffb6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383146656.jpg?k=41d671ee844ad0599f973807964054236dde5fade010fb513dfdad1f97a149ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147992.jpg?k=4d19e4d7ef24816bce17036c95945923d4caf7b4d57afa8adf252419d088f53b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383152235.jpg?k=c217f83b2ebf56a770b4f76388fa7bdfe96f40822170ebb396f82777db617504&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383146871.jpg?k=d181be1948d97dc968645bf6e1eeed438642e31d6872d72854abdc1dd82fa7b8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147848.jpg?k=6df7aa3639ef03dc9e91e9b6611039b46cf75ef1aa80238e239d2a56fd7e0d03&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383147786.jpg?k=44b164d01f75ff982661c8a92032968e12a02427364ba29176edc0bc5606fbfe&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Iliria 50 m"
+  - "Corner 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 500 m"
+  - "Sarande Main Beach 700 m"
+  - "La Petite Beach 1.2 km"
+  - "Maestral Beach 1.4 km"
+  - "Saranda Bay Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 2.6 km"
+  - "Butrint National Park 3.4 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Hans"
+    country: "Germany"
+    text: "“Good location, lovely balcony with view overlooking the city and garden.The accommodation is super comfortable and clean.”"
+  - name: "Blerta2b"
+    country: "Greece"
+    text: "“Friendly hosts. Cozy, sparkling clean, very comfortable apartment. Convenient location. Near center,markets, cafes, fish and meat taverns. To the beach and promenade is 6 minutes walk (not in a hurry). The kitchen is equipped with everything you...”"
+  - name: "Marco"
+    country: "Italy"
+    text: "“Appartamento ampio e ben arredato nei minimumi dettagli.Aria condizionata in camera de letto a anche nel salotto, ottima la posizione nel pieno centro di Saranda con supermarcato,bar,panificio sotto l'appartamento,Gentilissimo il proprietario che...”"
+bookingURL: "https://www.booking.com/hotel/al/caramel-sun-central-1-1.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of comfort, featuring a well-equipped kitchen with an oven and fridge, a cozy seating area for relaxation, and a bedroom designed for restful nights. Guests can enjoy the modern conveniences of a flat-screen TV and complimentary WiFi, making it easy to stay connected or unwind after a day of adventure. The inclusion of essential amenities such as bed linen, towels, and a convenient laundry service underscores the apartment's commitment to guest comfort.
 
 For those eager to explore the local culture and sights, the apartment's proximity to various sightseeing tours offers an easy gateway to the rich history and vibrant life of Sarandë. With La Petite Beach just 1.5 km away, guests have the luxury of choosing between leisurely beach days or exploring the natural and historical sites nearby.
 

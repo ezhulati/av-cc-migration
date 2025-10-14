@@ -1,4 +1,93 @@
----\ntitle: "Tirana Apartments"\ndescription: "Tirana Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386963200.jpg?k=db099224e82f61b12075cf93e616424f921f7bc44405849ebc974d8e10f44949&o=&hp=1"\nlanguage: en\nslug: tirana-apartments\naddress: "Rruga Mahmut Fortuzi, 10/1, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3344399\n  lng: 19.81878769\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 140\nratings:\n  overall: 9.1\n  location: 9.1\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.1\n  comfort: 9\n  staff: 9.3\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386963200.jpg?k=db099224e82f61b12075cf93e616424f921f7bc44405849ebc974d8e10f44949&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386945731.jpg?k=5387c32d823d4445f9061c7bb3a1909463f53198cab4301ff65f7e6760c19398&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386947403.jpg?k=86b0fee74e42fccd1afe7ee80524cdf648e18c99dec0f2eaeda15404d371c0d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433914577.jpg?k=c5bf30e358e2d4337eff50318713fb62ecc891433b1aff9b301a46fa14c97174&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433914587.jpg?k=dc799e0c8a909d32355c7c0f509a6458c84612f7efb8be6e230cdfdbb0e3412a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386945872.jpg?k=f6e4ad1a9ea688f0ef1227ce2d7b112702228f0d45d2249f62a4dc0e76f89f82&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Studio Apartment"\n  - "One-Bedroom Apartment"\n  - "Studio Apartment with Garden View"\n  - "Studio Apartment with Balcony"\nnearbyAttractions:\n  - "Tanners' Bridge 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Mneri 100 m"\n  - "Mozart 100 m"\nwhatsNearby:\n  - "Amazing Nature 100 m"\n  - "National Museum of History Albania 550 m"\n  - "Sheshi Paris 650 m"\n  - "Sheshi Skënderbej 650 m"\n  - "Sheshi Sulejman Pasha 700 m"\n  - "Skanderbeg Square 750 m"\n  - "Clock Tower Tirana 750 m"\n  - "Parku Europa 800 m"\n  - "House of Leaves 900 m"\n  - "National Gallery of Arts Tirana 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Ahmad"\n    country: "United Kingdom"\n    text: "“Very good location very very nice and clean open high quality finishing apartment much higher them my expectations AAA1 apartment everything so close very nice restaurants near by absolutely beautiful”"\n  - name: "Monique"\n    country: "Croatia"\n    text: "“Rooms are beautiful, clean and comfortable. Host was very helpful and location is great!”"\n  - name: "Klara"\n    country: "Czech Republic"\n    text: "“The apartment was clean and nice. The bathroom was big and beds comfortable”"\nbookingURL: "https://www.booking.com/hotel/al/elite-apartment-3.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Tirana Apartments are treated to well-appointed accommodations, each featuring modern amenities designed to cater to the needs of both leisure and business travelers. The air-conditioned units boast a cozy seating area, a flat-screen TV with satellite channels for entertainment, and a fully equipped kitchen that includes a toaster, fridge, stovetop, coffee machine, and kettle, allowing guests the freedom to prepare their meals just the way they like. The inclusion of a dining area adds a touch of home, while private bathrooms equipped with a hairdryer, shower, and complimentary toiletries ensure a comfortable stay.
+---
+title: "Tirana Apartments"
+description: "Tirana Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386963200.jpg?k=db099224e82f61b12075cf93e616424f921f7bc44405849ebc974d8e10f44949&o=&hp=1"
+language: en
+slug: tirana-apartments
+address: "Rruga Mahmut Fortuzi, 10/1, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3344399
+  lng: 19.81878769
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 140
+ratings:
+  overall: 9.1
+  location: 9.1
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9.1
+  comfort: 9
+  staff: 9.3
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386963200.jpg?k=db099224e82f61b12075cf93e616424f921f7bc44405849ebc974d8e10f44949&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386945731.jpg?k=5387c32d823d4445f9061c7bb3a1909463f53198cab4301ff65f7e6760c19398&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386947403.jpg?k=86b0fee74e42fccd1afe7ee80524cdf648e18c99dec0f2eaeda15404d371c0d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433914577.jpg?k=c5bf30e358e2d4337eff50318713fb62ecc891433b1aff9b301a46fa14c97174&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433914587.jpg?k=dc799e0c8a909d32355c7c0f509a6458c84612f7efb8be6e230cdfdbb0e3412a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386945872.jpg?k=f6e4ad1a9ea688f0ef1227ce2d7b112702228f0d45d2249f62a4dc0e76f89f82&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Studio Apartment"
+  - "One-Bedroom Apartment"
+  - "Studio Apartment with Garden View"
+  - "Studio Apartment with Balcony"
+nearbyAttractions:
+  - "Tanners' Bridge 1.1 km"
+  - "Rinia Park 1.1 km"
+  - "Former Residence of Enver Hoxha 1.5 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Mneri 100 m"
+  - "Mozart 100 m"
+whatsNearby:
+  - "Amazing Nature 100 m"
+  - "National Museum of History Albania 550 m"
+  - "Sheshi Paris 650 m"
+  - "Sheshi Skënderbej 650 m"
+  - "Sheshi Sulejman Pasha 700 m"
+  - "Skanderbeg Square 750 m"
+  - "Clock Tower Tirana 750 m"
+  - "Parku Europa 800 m"
+  - "House of Leaves 900 m"
+  - "National Gallery of Arts Tirana 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Ahmad"
+    country: "United Kingdom"
+    text: "“Very good location very very nice and clean open high quality finishing apartment much higher them my expectations AAA1 apartment everything so close very nice restaurants near by absolutely beautiful”"
+  - name: "Monique"
+    country: "Croatia"
+    text: "“Rooms are beautiful, clean and comfortable. Host was very helpful and location is great!”"
+  - name: "Klara"
+    country: "Czech Republic"
+    text: "“The apartment was clean and nice. The bathroom was big and beds comfortable”"
+bookingURL: "https://www.booking.com/hotel/al/elite-apartment-3.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at Tirana Apartments are treated to well-appointed accommodations, each featuring modern amenities designed to cater to the needs of both leisure and business travelers. The air-conditioned units boast a cozy seating area, a flat-screen TV with satellite channels for entertainment, and a fully equipped kitchen that includes a toaster, fridge, stovetop, coffee machine, and kettle, allowing guests the freedom to prepare their meals just the way they like. The inclusion of a dining area adds a touch of home, while private bathrooms equipped with a hairdryer, shower, and complimentary toiletries ensure a comfortable stay.
 
 Attention to detail is evident in the provision of bed linen and towels in all units, underscoring the apartment complex's commitment to guest comfort. The addition of a balcony in each apartment offers a private outdoor space where guests can unwind and soak in the city's ambiance.
 

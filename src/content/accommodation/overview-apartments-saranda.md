@@ -1,4 +1,81 @@
----\ntitle: "Overview Apartments Saranda"\ndescription: "Overview Apartments Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74991004.jpg?k=e7ab3cafd38e4dbc77412d814ec873e40ef5b62e0868ca6133eff675072a0219&o=&hp=1"\nlanguage: en\nslug: overview-apartments-saranda\naddress: "Rruga 75, AP 3, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8557616\n  lng: 20.02177835\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 6\nratings:\n  overall: 9.3\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9.6\n  comfort: 9.6\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74991004.jpg?k=e7ab3cafd38e4dbc77412d814ec873e40ef5b62e0868ca6133eff675072a0219&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482608476.jpg?k=d1d70ad6b5ff3c3a97ab0363fe906c4722c19d57159f312eeee72b52658e0d1d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488319630.jpg?k=4afec08b5aacb8cb6a6816eee86515b4effac2745fc58dd0ed334f44919c8edb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484377163.jpg?k=6149133a0164c6568b48702f185167465aea2d84f61f7507fe936ada6164670f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484377119.jpg?k=a6448342a967c021b03804aca5f029e554905ac14d6d965d50424e1ee9943a70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484379996.jpg?k=487829696e098fbb76e7fb65206eb8cc02963ba61db2cbc0988d16f5aa75af79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488319618.jpg?k=6919297f115e37cd7a7c85eb232502f9c845ee5079eaa1bd7f364f8d8887e7d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488319627.jpg?k=d993d72b7ed740ddc190c6b3ec16a50e232d80b02767fb63609463fc80eb128f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380000.jpg?k=7db122d6025730c759272ac8044a81d685d41234181f5dc5ee94fbcf7d3a2f06&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "4 Stinët 20 m"\n  - "Taverne Fast Food 50 m"\nnearbyBeaches:\n  - "Flamingo Beach 150 m"\n  - "Mango Beach 200 m"\n  - "Santa Quaranta Beach 300 m"\n  - "VIP Beach 350 m"\n  - "Maestral Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 450 m"\n  - "Butrint National Park 700 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Ivan"\n    country: "Czech Republic"\n    text: "“Beautiful place near the beach, very pleasant landlady!”"\n  - name: "Valerii"\n    country: "Ukraine"\n    text: "“Просторные комфортные аппартаменты с шикарным балконом, рядом есть магазины и хороший пляж.”"\n  - name: "Jovanovic"\n    country: "Serbia"\n    text: "“Plaže su prelepe, smeštaj odličan, sve u svemu zadovoljni smo.”"\nbookingURL: "https://www.booking.com/hotel/al/overview-apartments-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartments are designed with families in mind, featuring spacious family rooms that boast a range of amenities including a balcony, a cozy seating area equipped with a flat-screen TV, and the essential air conditioning and heating to ensure a comfortable stay regardless of the season. Privacy and convenience are paramount, with each unit housing a private bathroom.
+---
+title: "Overview Apartments Saranda"
+description: "Overview Apartments Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74991004.jpg?k=e7ab3cafd38e4dbc77412d814ec873e40ef5b62e0868ca6133eff675072a0219&o=&hp=1"
+language: en
+slug: overview-apartments-saranda
+address: "Rruga 75, AP 3, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.8557616
+  lng: 20.02177835
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 6
+ratings:
+  overall: 9.3
+  location: 9.2
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9.6
+  comfort: 9.6
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74991004.jpg?k=e7ab3cafd38e4dbc77412d814ec873e40ef5b62e0868ca6133eff675072a0219&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482608476.jpg?k=d1d70ad6b5ff3c3a97ab0363fe906c4722c19d57159f312eeee72b52658e0d1d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488319630.jpg?k=4afec08b5aacb8cb6a6816eee86515b4effac2745fc58dd0ed334f44919c8edb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484377163.jpg?k=6149133a0164c6568b48702f185167465aea2d84f61f7507fe936ada6164670f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484377119.jpg?k=a6448342a967c021b03804aca5f029e554905ac14d6d965d50424e1ee9943a70&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484379996.jpg?k=487829696e098fbb76e7fb65206eb8cc02963ba61db2cbc0988d16f5aa75af79&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488319618.jpg?k=6919297f115e37cd7a7c85eb232502f9c845ee5079eaa1bd7f364f8d8887e7d1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488319627.jpg?k=d993d72b7ed740ddc190c6b3ec16a50e232d80b02767fb63609463fc80eb128f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380000.jpg?k=7db122d6025730c759272ac8044a81d685d41234181f5dc5ee94fbcf7d3a2f06&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking on site"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "4 Stinët 20 m"
+  - "Taverne Fast Food 50 m"
+nearbyBeaches:
+  - "Flamingo Beach 150 m"
+  - "Mango Beach 200 m"
+  - "Santa Quaranta Beach 300 m"
+  - "VIP Beach 350 m"
+  - "Maestral Beach 1.3 km"
+whatsNearby:
+  - "Parc National de Butrint 450 m"
+  - "Butrint National Park 700 m"
+  - "Plazhi I Krorezes 6 km"
+  - "Parku Kombetar I Butrintit 10 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Ivan"
+    country: "Czech Republic"
+    text: "“Beautiful place near the beach, very pleasant landlady!”"
+  - name: "Valerii"
+    country: "Ukraine"
+    text: "“Просторные комфортные аппартаменты с шикарным балконом, рядом есть магазины и хороший пляж.”"
+  - name: "Jovanovic"
+    country: "Serbia"
+    text: "“Plaže su prelepe, smeštaj odličan, sve u svemu zadovoljni smo.”"
+bookingURL: "https://www.booking.com/hotel/al/overview-apartments-saranda.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartments are designed with families in mind, featuring spacious family rooms that boast a range of amenities including a balcony, a cozy seating area equipped with a flat-screen TV, and the essential air conditioning and heating to ensure a comfortable stay regardless of the season. Privacy and convenience are paramount, with each unit housing a private bathroom.
 
 For those looking to explore the area at their own pace, Overview Apartments Saranda facilitates this adventure by offering a car rental service directly from the premises. The location is unbeatable, with Santa Quaranta Beach merely 400 meters away, inviting guests to immerse themselves in the local beach culture. Further afield, the historical Butrint National Park is within a manageable distance, offering a perfect day trip opportunity at just 13 km away.
 

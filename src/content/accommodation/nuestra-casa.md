@@ -1,4 +1,92 @@
----\ntitle: "Nuestra Casa"\ndescription: "Nuestra Casa emerges as a serene oasis in the vibrant heart of Tirana, offering a unique blend of comfort and convenience for travelers seeking an authentic Albanian experience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481994346.jpg?k=3e77bac48c24cbe676a36b13d9801af65f0880267dbe8cbff83b3c768a645463&o=&hp=1"\nlanguage: en\nslug: nuestra-casa\naddress: "Rruga Bilal Golemi ndertesa 28 hyrja 5, 1060 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 41.3136497\n  lng: 19.80779862\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 148\nratings:\n  overall: 9.6\n  location: 9.1\n  cleanliness: 9.8\n  facilities: 9.5\n  value: 9.6\n  comfort: 9.6\n  staff: 9.8\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481994346.jpg?k=3e77bac48c24cbe676a36b13d9801af65f0880267dbe8cbff83b3c768a645463&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327509806.jpg?k=c01cd471fa1f247e632c0176bf6bd41c6a01a3a140de65619906d6339e390012&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327510016.jpg?k=328d5f764a9a38a2ae095bf271233ffe95c319237e3d7e48c31a3d5e20006fe2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327508541.jpg?k=b7aad183fd22d1a81cb294b335bfb1cbe80e8836d249d7a92cb2ce6d5cadcec1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202560966.jpg?k=9c2a28fe6f3f4b885f5a99521ef59f1eb97f9b4b0951c4fd4901b46210907ef3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265664258.jpg?k=82e1b24cab369e72a072c745dc89aee63fdcd8527b953c148320b51ce225bbc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327510112.jpg?k=ba5848476618ea2c9e98b6e3867d5c5fbb73088527ebfd2e4e7ac2137c66890b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327510595.jpg?k=36962f6a753b1250fded84454d47c7da9857703ae6d09dd35be47908fd5168bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482270970.jpg?k=f9796403b29656ce4481093b1e3d541d6fd2a7d9f9bad6c2d09f1dbd59f1066f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (50 Mbps)"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Single Room with Private Bathroom"\n  - "Double or Twin Room with Bathroom"\n  - "Double or Twin Room with Bathroom"\nnearbyAttractions:\n  - "Rinia Park 1.5 km"\n  - "House of Leaves 1.6 km"\n  - "National Gallery of Arts Tirana 1.8 km"\n  - "Skanderbeg Square 1.8 km"\n  - "Clock Tower Tirana 1.9 km"\n  - "National Museum of History Albania 1.9 km"\n  - "Tanners' Bridge 2.1 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Anema E Core 50 m"\n  - "Serendiville 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Komuna e Parisit 300 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 550 m"\n  - "Parku I Madh I Tiranës (Grand Park) 700 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 700 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Sheshi Rekreativ Bajram Curri 1.2 km"\n  - "Shesh Rekreativ 1.2 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.2 km"\n  - "Sheshi Rekreativ Sali Butka 1.2 km"\n  - "Grand Park of Tirana 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Joosse"\n    country: "Netherlands"\n    text: "“Super friendly owners and very clean comfortabel apartment! Good location”"\n  - name: "Naana"\n    country: "United Kingdom"\n    text: "“Location was excellent, fantastic communication my host was sooo helpful. Great English she waited up past 1am for me. Very helpful in the morning in regards to taxis to the bus station. Simple breakfast in the morning. Room was clean And had...”"\n  - name: "Adrian"\n    country: "Poland"\n    text: "“Very clean and comfortable room. Great location and friendly host :)”"\nbookingURL: "https://www.booking.com/hotel/al/sleep-well.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodations at Nuestra Casa are thoughtfully designed with the modern traveler in mind. Each soundproof unit is a haven of tranquility, equipped with air conditioning, a flat-screen TV featuring satellite channels, and complimentary WiFi, ensuring guests stay connected and comfortable. The attention to detail is evident in the inclusion of a fridge, coffee machine, bidet, slippers, and a desk in every room, catering to both leisure and business travelers. The private bathrooms, complete with showers and hair dryers, add a touch of home-like comfort, while the provision of a wardrobe and kettle in all units underscores the guest house's commitment to guest satisfaction.
+---
+title: "Nuestra Casa"
+description: "Nuestra Casa emerges as a serene oasis in the vibrant heart of Tirana, offering a unique blend of comfort and convenience for travelers seeking an authentic Albanian experience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481994346.jpg?k=3e77bac48c24cbe676a36b13d9801af65f0880267dbe8cbff83b3c768a645463&o=&hp=1"
+language: en
+slug: nuestra-casa
+address: "Rruga Bilal Golemi ndertesa 28 hyrja 5, 1060 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 41.3136497
+  lng: 19.80779862
+price: "US$29"
+priceFrom: 29
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 148
+ratings:
+  overall: 9.6
+  location: 9.1
+  cleanliness: 9.8
+  facilities: 9.5
+  value: 9.6
+  comfort: 9.6
+  staff: 9.8
+  wifi: 9.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481994346.jpg?k=3e77bac48c24cbe676a36b13d9801af65f0880267dbe8cbff83b3c768a645463&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327509806.jpg?k=c01cd471fa1f247e632c0176bf6bd41c6a01a3a140de65619906d6339e390012&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327510016.jpg?k=328d5f764a9a38a2ae095bf271233ffe95c319237e3d7e48c31a3d5e20006fe2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327508541.jpg?k=b7aad183fd22d1a81cb294b335bfb1cbe80e8836d249d7a92cb2ce6d5cadcec1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202560966.jpg?k=9c2a28fe6f3f4b885f5a99521ef59f1eb97f9b4b0951c4fd4901b46210907ef3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265664258.jpg?k=82e1b24cab369e72a072c745dc89aee63fdcd8527b953c148320b51ce225bbc5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327510112.jpg?k=ba5848476618ea2c9e98b6e3867d5c5fbb73088527ebfd2e4e7ac2137c66890b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327510595.jpg?k=36962f6a753b1250fded84454d47c7da9857703ae6d09dd35be47908fd5168bb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482270970.jpg?k=f9796403b29656ce4481093b1e3d541d6fd2a7d9f9bad6c2d09f1dbd59f1066f&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (50 Mbps)"
+  - "Tea/coffee maker in all rooms"
+roomTypes:
+  - "Single Room with Private Bathroom"
+  - "Double or Twin Room with Bathroom"
+  - "Double or Twin Room with Bathroom"
+nearbyAttractions:
+  - "Rinia Park 1.5 km"
+  - "House of Leaves 1.6 km"
+  - "National Gallery of Arts Tirana 1.8 km"
+  - "Skanderbeg Square 1.8 km"
+  - "Clock Tower Tirana 1.9 km"
+  - "National Museum of History Albania 1.9 km"
+  - "Tanners' Bridge 2.1 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Anema E Core 50 m"
+  - "Serendiville 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Komuna e Parisit 300 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 550 m"
+  - "Parku I Madh I Tiranës (Grand Park) 700 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 700 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Sheshi Rekreativ Bajram Curri 1.2 km"
+  - "Shesh Rekreativ 1.2 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 1.2 km"
+  - "Sheshi Rekreativ Sali Butka 1.2 km"
+  - "Grand Park of Tirana 1.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Joosse"
+    country: "Netherlands"
+    text: "“Super friendly owners and very clean comfortabel apartment! Good location”"
+  - name: "Naana"
+    country: "United Kingdom"
+    text: "“Location was excellent, fantastic communication my host was sooo helpful. Great English she waited up past 1am for me. Very helpful in the morning in regards to taxis to the bus station. Simple breakfast in the morning. Room was clean And had...”"
+  - name: "Adrian"
+    country: "Poland"
+    text: "“Very clean and comfortable room. Great location and friendly host :)”"
+bookingURL: "https://www.booking.com/hotel/al/sleep-well.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The accommodations at Nuestra Casa are thoughtfully designed with the modern traveler in mind. Each soundproof unit is a haven of tranquility, equipped with air conditioning, a flat-screen TV featuring satellite channels, and complimentary WiFi, ensuring guests stay connected and comfortable. The attention to detail is evident in the inclusion of a fridge, coffee machine, bidet, slippers, and a desk in every room, catering to both leisure and business travelers. The private bathrooms, complete with showers and hair dryers, add a touch of home-like comfort, while the provision of a wardrobe and kettle in all units underscores the guest house's commitment to guest satisfaction.
 
 For those needing essentials or a quick snack, the convenience of an on-site minimarket enhances the stay, ensuring that everything one might need is readily available. The proximity to the Grand Park of Tirana and Rinia Park, both just 2 km away, offers guests the opportunity to explore the city's green spaces and enjoy outdoor activities.
 

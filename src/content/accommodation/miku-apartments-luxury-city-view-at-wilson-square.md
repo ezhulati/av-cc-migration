@@ -1,4 +1,90 @@
----\ntitle: "Miku Apartments-LUXURY City View at Wilson Square"\ndescription: "Miku Apartments-LUXURY City View at Wilson Square emerges as a serene oasis amidst the vibrant cityscape, offering a tranquil retreat with its quiet street views, just a stone's throw away from the heart of the action."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990454.jpg?k=db94d7ab437ca6e071e2e1e7f515855f41328d00b17dacb1bc589fcda9d4d572&o=&hp=1"\nlanguage: en\nslug: miku-apartments-luxury-city-view-at-wilson-square\naddress: "Rruga Ymer Kurti, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.317837\n  lng: 19.813928\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 42\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.6\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990454.jpg?k=db94d7ab437ca6e071e2e1e7f515855f41328d00b17dacb1bc589fcda9d4d572&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245987895.jpg?k=a68d8044d0da735f6bba07703d05ef528c26b6ba13782bf7cc1d8965a10cc1f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245988264.jpg?k=4a9290cfcbe07a134201bea0a2d51efdce4869806d80173dcb746b6c537c18e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325716307.jpg?k=def6dcdc413ed19dad922c6b419316bae5aabe1136936ed1b17cd9cded178797&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245989828.jpg?k=cc9384fd9a793410a8cf5fa5c695cf473d1fb5d77c3a3f32fe5d67fb55b2c1c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990736.jpg?k=c03b00937d7a062509c55e1f86aaf88f8eb422436969a9d978d5159fda4670ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990508.jpg?k=1638f50281f816140351cb4b603fcb3257b3b4847f4517358c95913125846b1e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990189.jpg?k=67d6fd554a6a3a8c6e0913e2ae27ab5c890d0461a3b10f5e097ef18aeade8deb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990360.jpg?k=470fcc8e04d13e634c49243b19d9f85c4b97a82b0aaa18d13fa4524b5d1b3884&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990066.jpg?k=e78a508997eb94126531823b4a5dc652ea37858baf5e83305ce8dd68c3152189&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325716134.jpg?k=ef825471bb742e4fd37f57236586efe356dc633e5bf5f4d786005d292219a66e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325716181.jpg?k=1af6e2f8c9293750799bac4643e59a3bbf9ea1dd1edf0131da523ae2df6fb95c&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "House of Leaves 1 km"\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Grand Park of Tirana 1.2 km"\n  - "Skanderbeg Square 1.2 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "National Museum of History Albania 1.3 km"\n  - "Tanners' Bridge 1.4 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Mon Cheri 50 m"\n  - "Fast Food Klasik 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 300 m"\n  - "Former Residence of Enver Hoxha 450 m"\n  - "Parku I Madh I Tiranës (Grand Park) 450 m"\n  - "Shesh Rekreativ 500 m"\n  - "Sheshi Rekreativ Komuna e Parisit 600 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 700 m"\n  - "Rinia Park 850 m"\n  - "Sheshi Rekreativ Piramida 900 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 900 m"\n  - "Parku Rinia 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Fabio"\n    country: "United Kingdom"\n    text: "“Nice modern kitchen and bathroom and excellent host he fulfilled all our needs”"\n  - name: "Ashley"\n    country: "United Kingdom"\n    text: "“Modern looking property, good features , shower and bathroom very good. Good location near to the Blloku. Fantastic host, very informative and helpful.”"\n  - name: "Ahmad"\n    country: "United Arab Emirates"\n    text: "“The apartment is spacious, clean and close to all services .. And Lorin was very helpful with us .. Thank you from the heart”"\nbookingURL: "https://www.booking.com/hotel/al/luxury-apartament-in-blloku-area-nr-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a world of comfort and elegance the moment they step into the spacious three-bedroom apartment. The living space is thoughtfully designed with modern travelers in mind, featuring a sleek, fully equipped kitchen, a cozy dining area, and a living room adorned with a flat-screen TV offering streaming services for entertainment at any time. The inclusion of air conditioning, a bidet, and a dressing room in the unit adds a layer of sophistication and convenience to the stay.
+---
+title: "Miku Apartments-LUXURY City View at Wilson Square"
+description: "Miku Apartments-LUXURY City View at Wilson Square emerges as a serene oasis amidst the vibrant cityscape, offering a tranquil retreat with its quiet street views, just a stone's throw away from the heart of the action."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990454.jpg?k=db94d7ab437ca6e071e2e1e7f515855f41328d00b17dacb1bc589fcda9d4d572&o=&hp=1"
+language: en
+slug: miku-apartments-luxury-city-view-at-wilson-square
+address: "Rruga Ymer Kurti, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.317837
+  lng: 19.813928
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 42
+ratings:
+  overall: 9.6
+  location: 9.5
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 9.6
+  comfort: 9.6
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990454.jpg?k=db94d7ab437ca6e071e2e1e7f515855f41328d00b17dacb1bc589fcda9d4d572&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245987895.jpg?k=a68d8044d0da735f6bba07703d05ef528c26b6ba13782bf7cc1d8965a10cc1f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245988264.jpg?k=4a9290cfcbe07a134201bea0a2d51efdce4869806d80173dcb746b6c537c18e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325716307.jpg?k=def6dcdc413ed19dad922c6b419316bae5aabe1136936ed1b17cd9cded178797&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245989828.jpg?k=cc9384fd9a793410a8cf5fa5c695cf473d1fb5d77c3a3f32fe5d67fb55b2c1c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990736.jpg?k=c03b00937d7a062509c55e1f86aaf88f8eb422436969a9d978d5159fda4670ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990508.jpg?k=1638f50281f816140351cb4b603fcb3257b3b4847f4517358c95913125846b1e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990189.jpg?k=67d6fd554a6a3a8c6e0913e2ae27ab5c890d0461a3b10f5e097ef18aeade8deb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990360.jpg?k=470fcc8e04d13e634c49243b19d9f85c4b97a82b0aaa18d13fa4524b5d1b3884&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990066.jpg?k=e78a508997eb94126531823b4a5dc652ea37858baf5e83305ce8dd68c3152189&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325716134.jpg?k=ef825471bb742e4fd37f57236586efe356dc633e5bf5f4d786005d292219a66e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325716181.jpg?k=1af6e2f8c9293750799bac4643e59a3bbf9ea1dd1edf0131da523ae2df6fb95c&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "House of Leaves 1 km"
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Grand Park of Tirana 1.2 km"
+  - "Skanderbeg Square 1.2 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "National Museum of History Albania 1.3 km"
+  - "Tanners' Bridge 1.4 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Mon Cheri 50 m"
+  - "Fast Food Klasik 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 300 m"
+  - "Former Residence of Enver Hoxha 450 m"
+  - "Parku I Madh I Tiranës (Grand Park) 450 m"
+  - "Shesh Rekreativ 500 m"
+  - "Sheshi Rekreativ Komuna e Parisit 600 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 700 m"
+  - "Rinia Park 850 m"
+  - "Sheshi Rekreativ Piramida 900 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 900 m"
+  - "Parku Rinia 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Fabio"
+    country: "United Kingdom"
+    text: "“Nice modern kitchen and bathroom and excellent host he fulfilled all our needs”"
+  - name: "Ashley"
+    country: "United Kingdom"
+    text: "“Modern looking property, good features , shower and bathroom very good. Good location near to the Blloku. Fantastic host, very informative and helpful.”"
+  - name: "Ahmad"
+    country: "United Arab Emirates"
+    text: "“The apartment is spacious, clean and close to all services .. And Lorin was very helpful with us .. Thank you from the heart”"
+bookingURL: "https://www.booking.com/hotel/al/luxury-apartament-in-blloku-area-nr-2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are welcomed into a world of comfort and elegance the moment they step into the spacious three-bedroom apartment. The living space is thoughtfully designed with modern travelers in mind, featuring a sleek, fully equipped kitchen, a cozy dining area, and a living room adorned with a flat-screen TV offering streaming services for entertainment at any time. The inclusion of air conditioning, a bidet, and a dressing room in the unit adds a layer of sophistication and convenience to the stay.
 
 The apartment's balcony presents an enchanting city view, inviting guests to unwind and soak in the urban landscape from a peaceful vantage point. Complementing the apartment's array of amenities are the thoughtful touches like bed linen, towels, and the availability of a minimarket on-site, ensuring every need is catered to.
 

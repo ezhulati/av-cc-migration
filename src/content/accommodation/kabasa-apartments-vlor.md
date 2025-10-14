@@ -1,5 +1,84 @@
----\ntitle: "Kabasa Apartments Vlorë"\ndescription: "Kabasa Apartments Vlorë emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë, situated just 3."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351907737.jpg?k=3b470837f60e11c52e06c7225e643df676afc65d2827c10a35018bf586185175&o=&hp=1"\nlanguage: en\nslug: kabasa-apartments-vlor\naddress: "Rruga Petrona Haliti, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.48396895\n  lng: 19.47473001\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 4\nratings:\n  overall: 9.2\n  location: 6.3\n  cleanliness: 10\n  facilities: 9.4\n  value: 9.4\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351907737.jpg?k=3b470837f60e11c52e06c7225e643df676afc65d2827c10a35018bf586185175&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943326.jpg?k=0a6fe87f4af690942236580937e5f5e7fbfbae2b613657459f488260de5f8a2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943035.jpg?k=54edabb377496bc2a2c65725418b24f0551921569db81cb2dedfd1cbf52a4012&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463942476.jpg?k=18161ce44a47b3e82ea3deadcda5bcddf8e6e208f4ff1eca8d22b7199a285fd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943074.jpg?k=d688f38d76e89c71e70ea8f5f407f655c776484482b35e7e2fac0c402c625080&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943396.jpg?k=936506c4146b350a5deed5acf73d38cb468949fc9210f5f5fb474d15d2965bae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943928.jpg?k=0fb5be923d92e4849f2e073370794c9701c916ab1e892e4ea53a4e5eb80f7a91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943695.jpg?k=075ff289d80d4eec66eea1e7c1ea8142eab1d8fa5b3ea220ebd6420e765a93fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463944138.jpg?k=5a54c02384c47862dfeb4e232dbb9468ea6505460e8bafa6fac64982da3a757f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463944094.jpg?k=8ed6289ddeb7b0a2110205a7f3643e31332835a6b1b84ac23d9fe8f4bc2e8773&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943961.jpg?k=2ad63f9ae7846eb6aabf38baa45eaf7404f3e14194a446aaa13cfb480789962a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943932.jpg?k=42e5b88f7c11791d26cbf6faed5726b01fc18a5b93a61c57030045c44427e56d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943883.jpg?k=59de169ec56a23959db51fd1941e43313013d4348560ea95e2ff5d5ac9ee358d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943848.jpg?k=22cd643a2cf054359f2ca644a0a84df63160500e5d5fe679b108a6333406da6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943806.jpg?k=6e6a693367b691191c3aa03052befb07e90b94b31c383d24745cde234a30d46a&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (20 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Fast Food - Rodos 900 m"\n  - "Taverna e Miqësisë 1.3 km"\nnearbyBeaches:\n  - "Vjetër Beach 2.6 km"\n  - "Narta Beach 3.5 km"\n  - "Vlore Beach 4.3 km"\n  - "Ri Beach 6 km"\n  - "Beach at Government Villas 7 km"\nwhatsNearby:\n  - "Independence Square 2 km"\n  - "Kuzum Baba 2.4 km"\n  - "Scooby Doo Vlore 6 km"\nreviews:\n  - name: "Elisa"\n    country: "Italy"\n    text: "“New, modern, spacious and bright Apartment. The cleanliness is impeccable. The kitchen is fully equipped. Presence of washing machine, 2 latest generation air conditioners, smart TV. Great Wi-Fi.
-Private and secure parking. The manager of the...”"\n  - name: "Antonio"\n    country: "Italy"\n    text: "“Comfortable apartment with everything you need”"\n  - name: "Noemi"\n    country: "Romania"\n    text: "“The apartament is really beautiful, the kitchen is well equipped, the cleanless is perfect. I loved we have a washing machine too. The host is really nice and helpful. The apartment is in good location, not too far from the beach, but not in the...”"\nbookingURL: "https://www.booking.com/hotel/al/kabasa-apartments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nEach apartment within this distinguished complex is a testament to thoughtful living spaces, boasting a fully equipped kitchen that includes an oven and a fridge, ensuring guests feel right at home. The attention to detail extends to a safety deposit box, a satellite flat-screen TV, ironing facilities, a wardrobe, and a cozy seating area with a sofa, designed for relaxation and entertainment. The private bathrooms are outfitted with showers and slippers, enhancing the comfort of stay, while the inclusion of free WiFi, bed linen, and towels underscores the commitment to guest convenience.
+---
+title: "Kabasa Apartments Vlorë"
+description: "Kabasa Apartments Vlorë emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë, situated just 3."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351907737.jpg?k=3b470837f60e11c52e06c7225e643df676afc65d2827c10a35018bf586185175&o=&hp=1"
+language: en
+slug: kabasa-apartments-vlor
+address: "Rruga Petrona Haliti, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.48396895
+  lng: 19.47473001
+price: "US$59"
+priceFrom: 59
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 4
+ratings:
+  overall: 9.2
+  location: 6.3
+  cleanliness: 10
+  facilities: 9.4
+  value: 9.4
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351907737.jpg?k=3b470837f60e11c52e06c7225e643df676afc65d2827c10a35018bf586185175&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943326.jpg?k=0a6fe87f4af690942236580937e5f5e7fbfbae2b613657459f488260de5f8a2a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943035.jpg?k=54edabb377496bc2a2c65725418b24f0551921569db81cb2dedfd1cbf52a4012&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463942476.jpg?k=18161ce44a47b3e82ea3deadcda5bcddf8e6e208f4ff1eca8d22b7199a285fd4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943074.jpg?k=d688f38d76e89c71e70ea8f5f407f655c776484482b35e7e2fac0c402c625080&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943396.jpg?k=936506c4146b350a5deed5acf73d38cb468949fc9210f5f5fb474d15d2965bae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943928.jpg?k=0fb5be923d92e4849f2e073370794c9701c916ab1e892e4ea53a4e5eb80f7a91&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943695.jpg?k=075ff289d80d4eec66eea1e7c1ea8142eab1d8fa5b3ea220ebd6420e765a93fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463944138.jpg?k=5a54c02384c47862dfeb4e232dbb9468ea6505460e8bafa6fac64982da3a757f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463944094.jpg?k=8ed6289ddeb7b0a2110205a7f3643e31332835a6b1b84ac23d9fe8f4bc2e8773&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943961.jpg?k=2ad63f9ae7846eb6aabf38baa45eaf7404f3e14194a446aaa13cfb480789962a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943932.jpg?k=42e5b88f7c11791d26cbf6faed5726b01fc18a5b93a61c57030045c44427e56d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943883.jpg?k=59de169ec56a23959db51fd1941e43313013d4348560ea95e2ff5d5ac9ee358d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943848.jpg?k=22cd643a2cf054359f2ca644a0a84df63160500e5d5fe679b108a6333406da6e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463943806.jpg?k=6e6a693367b691191c3aa03052befb07e90b94b31c383d24745cde234a30d46a&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Good free WiFi (20 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Fast Food - Rodos 900 m"
+  - "Taverna e Miqësisë 1.3 km"
+nearbyBeaches:
+  - "Vjetër Beach 2.6 km"
+  - "Narta Beach 3.5 km"
+  - "Vlore Beach 4.3 km"
+  - "Ri Beach 6 km"
+  - "Beach at Government Villas 7 km"
+whatsNearby:
+  - "Independence Square 2 km"
+  - "Kuzum Baba 2.4 km"
+  - "Scooby Doo Vlore 6 km"
+reviews:
+  - name: "Elisa"
+    country: "Italy"
+    text: "“New, modern, spacious and bright Apartment. The cleanliness is impeccable. The kitchen is fully equipped. Presence of washing machine, 2 latest generation air conditioners, smart TV. Great Wi-Fi.
+Private and secure parking. The manager of the...”"
+  - name: "Antonio"
+    country: "Italy"
+    text: "“Comfortable apartment with everything you need”"
+  - name: "Noemi"
+    country: "Romania"
+    text: "“The apartament is really beautiful, the kitchen is well equipped, the cleanless is perfect. I loved we have a washing machine too. The host is really nice and helpful. The apartment is in good location, not too far from the beach, but not in the...”"
+bookingURL: "https://www.booking.com/hotel/al/kabasa-apartments-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Each apartment within this distinguished complex is a testament to thoughtful living spaces, boasting a fully equipped kitchen that includes an oven and a fridge, ensuring guests feel right at home. The attention to detail extends to a safety deposit box, a satellite flat-screen TV, ironing facilities, a wardrobe, and a cozy seating area with a sofa, designed for relaxation and entertainment. The private bathrooms are outfitted with showers and slippers, enhancing the comfort of stay, while the inclusion of free WiFi, bed linen, and towels underscores the commitment to guest convenience.
 
 For those looking to explore the vibrant surroundings or requiring transportation, Kabasa Apartments Vlorë offers a car rental service, adding an extra layer of ease to the travel experience. Located a mere 4.2 km from the historical Kuzum Baba and 147 km from Tirana International Mother Teresa Airport, the apartments serve as an ideal base for both leisure and exploration in this captivating region.
 

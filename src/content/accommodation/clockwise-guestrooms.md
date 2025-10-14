@@ -1,4 +1,79 @@
----\ntitle: "Clockwise GuestRooms"\ndescription: "Clockwise GuestRooms emerges as a charmingly renovated guest house in the historic heart of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496888912.jpg?k=8e47e71a5afe14405c68cfef759ecfdd71e37f553ddf24ff21b5a27a71e571b0&o=&hp=1"\nlanguage: en\nslug: clockwise-guestrooms\naddress: "Rruga Qazim Babameto, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07273972\n  lng: 20.14482654\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 99\nratings:\n  overall: 9.6\n  location: 9.4\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.8\n  comfort: 9.5\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496888912.jpg?k=8e47e71a5afe14405c68cfef759ecfdd71e37f553ddf24ff21b5a27a71e571b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496857214.jpg?k=4c23125579c7d2e80b88b64dfb5668035eb61a6220e614c056c5247a0fbf038b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460417670.jpg?k=fff7a2e21b573fe8835c2425d3d18fe810133f90a7ed331c15657f4274cf95c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465405637.jpg?k=e9434eb354f480e70775b2d72d4370273cfd9b97f9bcfed0561380081afe96b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465405091.jpg?k=d8fb8eae5a0d5c9785c5a056436afc9c83aa4b61ef250fdaad6de0124cb981db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510810538.jpg?k=f9d7e6de5364a44054a7cd5e270acde415dba2b9c6b97da67bb82626815d0155&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Good free WiFi (48 Mbps)"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Quadruple Room with Balcony"\n  - "Family Room with Balcony"\nnearbyRestaurants:\n  - "Taverna Tradicionale Sokolli 300 m"\n  - "Argjiro Patisserie 400 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Dane"\n    country: "Canada"\n    text: "“My stay here was incredible. This is the second time I have stayed at Clockwise and I returned to Gjirokaster because I knew I would be staying here again. Joana, the host, is so kind and goes above and beyond for her guests. I could not recommend...”"\n  - name: "Maria"\n    country: "Sweden"\n    text: "“Wow! This place is definitely worth a visit! Joana is an amazing host that ensures that her guests get the best possible stay at her guest house located high up on the hillside. The rooms are incredibly cozy that fits really well into the town's...”"\n  - name: "Guillermo"\n    country: "Germany"\n    text: "“I can only say, the overall experience was AMAZING! The communication before the arrival was excellent, everything was properly handled for us to have a great experience! Everything was clean and tidy with all necessary things for a great stay! ...”"\nbookingURL: "https://www.booking.com/hotel/al/clockwise.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at Clockwise GuestRooms is a haven of relaxation, equipped with air conditioning, a flat-screen TV, and a private bathroom that includes a walk-in shower and plush bathrobes. The highlight for many is the private balcony that comes with an outdoor dining area, allowing guests to soak in the river views while enjoying a meal. Complementing these comforts are thoughtful touches like quality bed linen and towels, ensuring a stay that marries luxury with the comforts of home.
+---
+title: "Clockwise GuestRooms"
+description: "Clockwise GuestRooms emerges as a charmingly renovated guest house in the historic heart of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496888912.jpg?k=8e47e71a5afe14405c68cfef759ecfdd71e37f553ddf24ff21b5a27a71e571b0&o=&hp=1"
+language: en
+slug: clockwise-guestrooms
+address: "Rruga Qazim Babameto, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.07273972
+  lng: 20.14482654
+price: "US$36"
+priceFrom: 36
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 99
+ratings:
+  overall: 9.6
+  location: 9.4
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 9.8
+  comfort: 9.5
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496888912.jpg?k=8e47e71a5afe14405c68cfef759ecfdd71e37f553ddf24ff21b5a27a71e571b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496857214.jpg?k=4c23125579c7d2e80b88b64dfb5668035eb61a6220e614c056c5247a0fbf038b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460417670.jpg?k=fff7a2e21b573fe8835c2425d3d18fe810133f90a7ed331c15657f4274cf95c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465405637.jpg?k=e9434eb354f480e70775b2d72d4370273cfd9b97f9bcfed0561380081afe96b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465405091.jpg?k=d8fb8eae5a0d5c9785c5a056436afc9c83aa4b61ef250fdaad6de0124cb981db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510810538.jpg?k=f9d7e6de5364a44054a7cd5e270acde415dba2b9c6b97da67bb82626815d0155&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Airport shuttle"
+  - "Room service"
+  - "Good free WiFi (48 Mbps)"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Quadruple Room with Balcony"
+  - "Family Room with Balcony"
+nearbyRestaurants:
+  - "Taverna Tradicionale Sokolli 300 m"
+  - "Argjiro Patisserie 400 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Dane"
+    country: "Canada"
+    text: "“My stay here was incredible. This is the second time I have stayed at Clockwise and I returned to Gjirokaster because I knew I would be staying here again. Joana, the host, is so kind and goes above and beyond for her guests. I could not recommend...”"
+  - name: "Maria"
+    country: "Sweden"
+    text: "“Wow! This place is definitely worth a visit! Joana is an amazing host that ensures that her guests get the best possible stay at her guest house located high up on the hillside. The rooms are incredibly cozy that fits really well into the town's...”"
+  - name: "Guillermo"
+    country: "Germany"
+    text: "“I can only say, the overall experience was AMAZING! The communication before the arrival was excellent, everything was properly handled for us to have a great experience! Everything was clean and tidy with all necessary things for a great stay! ...”"
+bookingURL: "https://www.booking.com/hotel/al/clockwise.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Each room at Clockwise GuestRooms is a haven of relaxation, equipped with air conditioning, a flat-screen TV, and a private bathroom that includes a walk-in shower and plush bathrobes. The highlight for many is the private balcony that comes with an outdoor dining area, allowing guests to soak in the river views while enjoying a meal. Complementing these comforts are thoughtful touches like quality bed linen and towels, ensuring a stay that marries luxury with the comforts of home.
 
 Morning at Clockwise GuestRooms begins with a choice of continental, vegetarian, or vegan breakfast options, setting the tone for a day of exploration or relaxation. The on-site restaurant welcomes guests for dinner, lunch, brunch, and cocktails, catering to a range of palates in a family-friendly atmosphere.
 

@@ -1,5 +1,77 @@
----\ntitle: "Apartment 2+1 Golden Ionic Vlora"\ndescription: "Apartment 2+1 Golden Ionic Vlora emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887130.jpg?k=54760c341fe094cdc13643e6bcac74d72f0019a71152ea6c534aa99ee192a767&o=&hp=1"\nlanguage: en\nslug: apartment-2-1-golden-ionic-vlora\naddress: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42273674\n  lng: 19.49318379\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.6\n  location: 7.5\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887130.jpg?k=54760c341fe094cdc13643e6bcac74d72f0019a71152ea6c534aa99ee192a767&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887258.jpg?k=0d4351762e5e5e98e5d6d7ba579cb30dc40237f3ffb28a7b6083a24da4442bd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887303.jpg?k=eafbde211c263cce7437332ec086be34561796877d24d9db09919c8bb977c3a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887373.jpg?k=d6ba2cf16e97c519d2f748aa7e5fe13a3fe9be31488462094dc8c2693a6ff1c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887431.jpg?k=2f9a6aa9cd0aa3bc8f9a1547342e3a4f288e4881e4ca005bdb1821c62388fb6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887380.jpg?k=9fad4610ee7c908d82f993d28a721caabcf2e7acadef23cd8e4a8176d7cbaab2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887385.jpg?k=1655a2b9245f69bab0e47be80d4b5e7cc0ba78e627bffcf420b0d3f0e2fb4a02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887282.jpg?k=02a97eb6418055194cb0c0464ced2135979ecd9172266d43bc6cbc41cd46e198&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887229.jpg?k=0860d2f1fcd1b473f9be63b936bb6aab25863400fcca3e50578eccba0f8b505d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Donatelo 150 m"\n  - "Tiku & Mato 250 m"\nnearbyBeaches:\n  - "Beach at Government Villas 650 m"\n  - "Ri Beach 850 m"\n  - "Liro Beach 1.4 km"\n  - "Vlore Beach 2.2 km"\n  - "Coco Bongo Beach 2.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.5 km"\n  - "Kuzum Baba 5 km"\n  - "Independence Square 5 km"\nairports:\n  - "Corfu International Airport 97 km"\nreviews:\n  - name: "Janka"\n    country: "Slovakia"\n    text: "“We liked the silent from the busy city. The appartement was clean with good condition.
-The view was amazing from the living room and balcony.”"\n  - name: "Ioan"\n    country: "Romania"\n    text: "“The view was great. Clean and all what you need.The apartment was spacious and all facilities you need. Nice furniture.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-2-1-golden-ionic-vlora.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spacious living, featuring two well-appointed bedrooms, a modern bathroom, and the inclusion of essential amenities such as bed linen, towels, and a flat-screen TV. The fully equipped kitchen allows guests the freedom to prepare meals as they wish, while the terrace offers serene garden views for moments of tranquility. Importantly, the accommodation maintains a strict non-smoking policy, catering to the comfort and well-being of all guests.
+---
+title: "Apartment 2+1 Golden Ionic Vlora"
+description: "Apartment 2+1 Golden Ionic Vlora emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887130.jpg?k=54760c341fe094cdc13643e6bcac74d72f0019a71152ea6c534aa99ee192a767&o=&hp=1"
+language: en
+slug: apartment-2-1-golden-ionic-vlora
+address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.42273674
+  lng: 19.49318379
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 4
+ratings:
+  overall: 9.6
+  location: 7.5
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887130.jpg?k=54760c341fe094cdc13643e6bcac74d72f0019a71152ea6c534aa99ee192a767&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887258.jpg?k=0d4351762e5e5e98e5d6d7ba579cb30dc40237f3ffb28a7b6083a24da4442bd9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887303.jpg?k=eafbde211c263cce7437332ec086be34561796877d24d9db09919c8bb977c3a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887373.jpg?k=d6ba2cf16e97c519d2f748aa7e5fe13a3fe9be31488462094dc8c2693a6ff1c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887431.jpg?k=2f9a6aa9cd0aa3bc8f9a1547342e3a4f288e4881e4ca005bdb1821c62388fb6e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887380.jpg?k=9fad4610ee7c908d82f993d28a721caabcf2e7acadef23cd8e4a8176d7cbaab2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887385.jpg?k=1655a2b9245f69bab0e47be80d4b5e7cc0ba78e627bffcf420b0d3f0e2fb4a02&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887282.jpg?k=02a97eb6418055194cb0c0464ced2135979ecd9172266d43bc6cbc41cd46e198&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887229.jpg?k=0860d2f1fcd1b473f9be63b936bb6aab25863400fcca3e50578eccba0f8b505d&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Donatelo 150 m"
+  - "Tiku & Mato 250 m"
+nearbyBeaches:
+  - "Beach at Government Villas 650 m"
+  - "Ri Beach 850 m"
+  - "Liro Beach 1.4 km"
+  - "Vlore Beach 2.2 km"
+  - "Coco Bongo Beach 2.4 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.5 km"
+  - "Kuzum Baba 5 km"
+  - "Independence Square 5 km"
+airports:
+  - "Corfu International Airport 97 km"
+reviews:
+  - name: "Janka"
+    country: "Slovakia"
+    text: "“We liked the silent from the busy city. The appartement was clean with good condition.
+The view was amazing from the living room and balcony.”"
+  - name: "Ioan"
+    country: "Romania"
+    text: "“The view was great. Clean and all what you need.The apartment was spacious and all facilities you need. Nice furniture.”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-2-1-golden-ionic-vlora.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a study in spacious living, featuring two well-appointed bedrooms, a modern bathroom, and the inclusion of essential amenities such as bed linen, towels, and a flat-screen TV. The fully equipped kitchen allows guests the freedom to prepare meals as they wish, while the terrace offers serene garden views for moments of tranquility. Importantly, the accommodation maintains a strict non-smoking policy, catering to the comfort and well-being of all guests.
 
 For those looking to explore the local area, sightseeing tours can easily be arranged, offering a glimpse into the rich culture and natural beauty surrounding Vlorë. Liro Beach, a mere 1.6 km away, invites guests to enjoy the sun and sea, while the historical Kuzum Baba is within easy reach at 5.7 km from the apartment. For international travelers, Tirana International Mother Teresa Airport is the nearest gateway, located 155 km away, with airport transfers and car rental services readily available to ensure a seamless travel experience.
 

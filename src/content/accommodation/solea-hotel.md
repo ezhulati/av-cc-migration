@@ -1,4 +1,77 @@
----\ntitle: "Solea Hotel"\ndescription: "Solea Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489299830.jpg?k=8700abe6b47a4f78dc517974c8f32c222cff99e06bed2dd3e132baf5c764faaf&o=&hp=1"\nlanguage: en\nslug: solea-hotel\naddress: "Rruga Hektor Shyti Second floor, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.454317\n  lng: 19.48329\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 103\nratings:\n  overall: 9.4\n  location: 9.2\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.4\n  comfort: 9.5\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489299830.jpg?k=8700abe6b47a4f78dc517974c8f32c222cff99e06bed2dd3e132baf5c764faaf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491039558.jpg?k=df19123fcae4340a9f9491e805835fb501969713611681269587b9cdf3bf86d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491039349.jpg?k=a00887c60db30f1a686c1147e4a68a3d4282435920656b219f8aaa6fc09c15df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489316989.jpg?k=22b5a9724653c464755da3b48d5782766c7b03a33e1c67c30f97e7ed80cb7701&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489316802.jpg?k=14547db47562a61d4ae6a344c45e5ee8e496fe08007bd161460d57308d37c5c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489318247.jpg?k=12dcf418ebc0886b0ae2b044547547194dc224dee0b6c3e834c2b28219691ee0&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Executive Triple Room"\n  - "Triple Room with View"\n  - "Deluxe Triple Room"\nnearbyRestaurants:\n  - "Argelon 50 m"\n  - "El Dorado Street Food 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 300 m"\n  - "Vlore Beach 1.1 km"\n  - "Ri Beach 2.3 km"\n  - "Beach at Government Villas 3.8 km"\n  - "Liro Beach 4.4 km"\nwhatsNearby:\n  - "Kuzum Baba 1.7 km"\n  - "Independence Square 1.9 km"\n  - "Scooby Doo Vlore 2.2 km"\nreviews:\n  - name: "Jd"\n    country: "United States"\n    text: "“This is a modern well-furnished room with big TV and little fridge. Very comfortable and quiet. Good location.”"\n  - name: "Rick"\n    country: "Spain"\n    text: "“Clean modern room. In the center. Friendly owner. Excellent quality for the money”"\n  - name: "Klajdi"\n    country: "Albania"\n    text: "“Super clean, comfortable, very close to the center”"\nbookingURL: "https://www.booking.com/hotel/al/solea.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on offering well-appointed, air-conditioned accommodations that ensure a restful stay. Each room is equipped with complimentary WiFi and a private bathroom, catering to the needs of modern travelers. For added convenience, guests will find a wardrobe, a flat-screen TV, and a hairdryer in every room, reflecting the hotel's attention to detail.
+---
+title: "Solea Hotel"
+description: "Solea Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489299830.jpg?k=8700abe6b47a4f78dc517974c8f32c222cff99e06bed2dd3e132baf5c764faaf&o=&hp=1"
+language: en
+slug: solea-hotel
+address: "Rruga Hektor Shyti Second floor, 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.454317
+  lng: 19.48329
+price: "US$30"
+priceFrom: 30
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 103
+ratings:
+  overall: 9.4
+  location: 9.2
+  cleanliness: 9.4
+  facilities: 9
+  value: 9.4
+  comfort: 9.5
+  staff: 9.3
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489299830.jpg?k=8700abe6b47a4f78dc517974c8f32c222cff99e06bed2dd3e132baf5c764faaf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491039558.jpg?k=df19123fcae4340a9f9491e805835fb501969713611681269587b9cdf3bf86d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491039349.jpg?k=a00887c60db30f1a686c1147e4a68a3d4282435920656b219f8aaa6fc09c15df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489316989.jpg?k=22b5a9724653c464755da3b48d5782766c7b03a33e1c67c30f97e7ed80cb7701&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489316802.jpg?k=14547db47562a61d4ae6a344c45e5ee8e496fe08007bd161460d57308d37c5c7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489318247.jpg?k=12dcf418ebc0886b0ae2b044547547194dc224dee0b6c3e834c2b28219691ee0&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Executive Triple Room"
+  - "Triple Room with View"
+  - "Deluxe Triple Room"
+nearbyRestaurants:
+  - "Argelon 50 m"
+  - "El Dorado Street Food 100 m"
+nearbyBeaches:
+  - "Vjetër Beach 300 m"
+  - "Vlore Beach 1.1 km"
+  - "Ri Beach 2.3 km"
+  - "Beach at Government Villas 3.8 km"
+  - "Liro Beach 4.4 km"
+whatsNearby:
+  - "Kuzum Baba 1.7 km"
+  - "Independence Square 1.9 km"
+  - "Scooby Doo Vlore 2.2 km"
+reviews:
+  - name: "Jd"
+    country: "United States"
+    text: "“This is a modern well-furnished room with big TV and little fridge. Very comfortable and quiet. Good location.”"
+  - name: "Rick"
+    country: "Spain"
+    text: "“Clean modern room. In the center. Friendly owner. Excellent quality for the money”"
+  - name: "Klajdi"
+    country: "Albania"
+    text: "“Super clean, comfortable, very close to the center”"
+bookingURL: "https://www.booking.com/hotel/al/solea.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel prides itself on offering well-appointed, air-conditioned accommodations that ensure a restful stay. Each room is equipped with complimentary WiFi and a private bathroom, catering to the needs of modern travelers. For added convenience, guests will find a wardrobe, a flat-screen TV, and a hairdryer in every room, reflecting the hotel's attention to detail.
 
 Families visiting Vlorë will appreciate the hotel's family-friendly rooms, designed to provide a comfortable stay for guests of all ages. The terrace offers a tranquil space where one can unwind after a day of exploration.
 

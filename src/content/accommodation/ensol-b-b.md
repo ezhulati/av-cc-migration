@@ -1,4 +1,66 @@
----\ntitle: "Ensol B&B"\ndescription: "Ensol B&B emerges as a serene retreat located a mere 27 km away from the historic Monastery of Saint George the Victorious, providing guests with a unique blend of convenience and tranquility."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877109.jpg?k=28233c0c32a58faa65dac9a71e21a5acabea23dc572de182e702fc550ba358ca&o=&hp=1"\nlanguage: en\nslug: ensol-b-b\naddress: "Rr. Shehat Shehu Near Municipality of Peshkopia, 8301 Peshkopi, Albania"\ncity: "Peshkopi"\nlocation: "Peshkopi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.684866\n  lng: 20.429188\nprice: "US$22"\npriceFrom: 22\nstarRating: 3\nrating: 7.3\nratingWords: "Good"\nnumberOfReviews: 14\nratings:\n  overall: 7.3\n  location: 9.1\n  cleanliness: 6.8\n  facilities: 6.6\n  value: 8.2\n  comfort: 6.8\n  staff: 8.4\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877109.jpg?k=28233c0c32a58faa65dac9a71e21a5acabea23dc572de182e702fc550ba358ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451198261.jpg?k=7a052100c4c979dbba29125950ddb4b31b314e102cc7c5a1f4535db7a61fba15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877117.jpg?k=fefcca975a21e9457be0547576678b0dedffa041a7ae96ee39b5276a45cdd150&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275376930.jpg?k=7a87e7f810b7d9af92d347459aa4df95a2b9e70252a995a300ecf2e3eafe43ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275270445.jpg?k=42132ded71977e1f20cdffc5779c9509601e899e6224068efc9f060c6d75a7ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454004265.jpg?k=7659879dad36c5ac6e6edfcbcc051bed7a65f3aa3b81e3f2186d03fb6c61e541&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877121.jpg?k=312f67d56614253793f68659a46e8018d879f5b9eec6cf6d45f00d608084afdf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466293842.jpg?k=f19dc5b1e0b198549477c70a456481f46975dcbfbc8c004912a92ff6e3a0af89&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483888332.jpg?k=ab07964095457c15955c463719af396a67c4a85457fd4bed32d87c14308829dc&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Basic Triple Room with Shared Bathroom"\nnearbyRestaurants:\n  - "Bar Kafe Visi 30 m"\n  - "New York-Lounge 100 m"\nwhatsNearby:\n  - "Llixhat Peshkopi 1.6 km"\n  - "Llixhat e Peshkopi 1.6 km"\n  - "Lure National Park 19 km"\nairports:\n  - "Ohrid Airport 61 km"\n  - "Tirana International Airport Mother Teresa 66 km"\nbookingURL: "https://www.booking.com/hotel/al/ensol-b-amp-b.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Ensol B&B are thoughtfully designed to cater to families, featuring allergy-free rooms that come equipped with a terrace for soaking in the breathtaking scenery. Each unit boasts a well-appointed kitchen, ensuring that guests feel at home. The attention to detail extends to the bathrooms, which are shared yet offer privacy and are stocked with complimentary bathrobes and toiletries, adding a touch of luxury to the stay.
+---
+title: "Ensol B&B"
+description: "Ensol B&B emerges as a serene retreat located a mere 27 km away from the historic Monastery of Saint George the Victorious, providing guests with a unique blend of convenience and tranquility."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877109.jpg?k=28233c0c32a58faa65dac9a71e21a5acabea23dc572de182e702fc550ba358ca&o=&hp=1"
+language: en
+slug: ensol-b-b
+address: "Rr. Shehat Shehu Near Municipality of Peshkopia, 8301 Peshkopi, Albania"
+city: "Peshkopi"
+location: "Peshkopi"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.684866
+  lng: 20.429188
+price: "US$22"
+priceFrom: 22
+starRating: 3
+rating: 7.3
+ratingWords: "Good"
+numberOfReviews: 14
+ratings:
+  overall: 7.3
+  location: 9.1
+  cleanliness: 6.8
+  facilities: 6.6
+  value: 8.2
+  comfort: 6.8
+  staff: 8.4
+  wifi: 5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877109.jpg?k=28233c0c32a58faa65dac9a71e21a5acabea23dc572de182e702fc550ba358ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451198261.jpg?k=7a052100c4c979dbba29125950ddb4b31b314e102cc7c5a1f4535db7a61fba15&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877117.jpg?k=fefcca975a21e9457be0547576678b0dedffa041a7ae96ee39b5276a45cdd150&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275376930.jpg?k=7a87e7f810b7d9af92d347459aa4df95a2b9e70252a995a300ecf2e3eafe43ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275270445.jpg?k=42132ded71977e1f20cdffc5779c9509601e899e6224068efc9f060c6d75a7ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454004265.jpg?k=7659879dad36c5ac6e6edfcbcc051bed7a65f3aa3b81e3f2186d03fb6c61e541&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877121.jpg?k=312f67d56614253793f68659a46e8018d879f5b9eec6cf6d45f00d608084afdf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466293842.jpg?k=f19dc5b1e0b198549477c70a456481f46975dcbfbc8c004912a92ff6e3a0af89&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483888332.jpg?k=ab07964095457c15955c463719af396a67c4a85457fd4bed32d87c14308829dc&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Basic Triple Room with Shared Bathroom"
+nearbyRestaurants:
+  - "Bar Kafe Visi 30 m"
+  - "New York-Lounge 100 m"
+whatsNearby:
+  - "Llixhat Peshkopi 1.6 km"
+  - "Llixhat e Peshkopi 1.6 km"
+  - "Lure National Park 19 km"
+airports:
+  - "Ohrid Airport 61 km"
+  - "Tirana International Airport Mother Teresa 66 km"
+bookingURL: "https://www.booking.com/hotel/al/ensol-b-amp-b.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Ensol B&B are thoughtfully designed to cater to families, featuring allergy-free rooms that come equipped with a terrace for soaking in the breathtaking scenery. Each unit boasts a well-appointed kitchen, ensuring that guests feel at home. The attention to detail extends to the bathrooms, which are shared yet offer privacy and are stocked with complimentary bathrobes and toiletries, adding a touch of luxury to the stay.
 
 For those who love to explore, the Saint Jovan Bigorski Monastery lies 45 km away, making for an easy day trip. Moreover, the proximity to Ohrid Airport, located 85 km from the property, adds to the convenience for international travelers.
 

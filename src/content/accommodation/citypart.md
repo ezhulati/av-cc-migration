@@ -1,4 +1,76 @@
----\ntitle: "CityPart"\ndescription: "CityPart emerges as a standout accommodation choice for travelers seeking a blend of comfort and convenience, complemented by stunning river views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835464.jpg?k=5ef86e8438a7d5c72f9a7d774c42a1e40b3314ed099b1db2c55abea95735476d&o=&hp=1"\nlanguage: en\nslug: citypart\naddress: "Rruga Filonid Durrsaku, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31566575\n  lng: 19.44631967\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.7\nratingWords: "Average"\nnumberOfReviews: 1\nratings:\n  overall: 6.7\n  location: 10\n  cleanliness: 5\n  facilities: 5\n  value: 7.5\n  comfort: 5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835464.jpg?k=5ef86e8438a7d5c72f9a7d774c42a1e40b3314ed099b1db2c55abea95735476d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835509.jpg?k=5c5e0e9d5107034cf8065a5a56ce4cbac195eb6cc67f803ab6938489d1d16243&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835503.jpg?k=3508e9197577eb1641c4e0f5c9b713606078d93eb278e639e554a781d0bdb6b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835543.jpg?k=2bfd16451cdb28ee3572601d8b12fbaa77d3ad30abf6f5e0ed3a0f024a1907cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835499.jpg?k=d0ddbabde9eeb0252c1892373244fdfc67bf15e2e9b709c98777a2a701618a85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835526.jpg?k=d98a89402704e79538698cc4dac45d72a4a81e730d08c0bc10192b9227b1081b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835530.jpg?k=3d1fdc434b151cb6d48a22444796db45754eff409638056150b0996bbf7ca6c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835535.jpg?k=c3fb399dd6fb492db8cc08c07b0bdf7f1ab200713079c220fa0f6e5a30c96d9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835514.jpg?k=cc9cbe1bf8b6d72e406bcb5fde1e8fe20398ac2f570d56eba56a4191a8456053&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Rotonda 30 m"\n  - "Prague 150 m"\nnearbyBeaches:\n  - "Currila Beach 700 m"\n  - "Kallmi Beach 1.2 km"\n  - "Durres Beach 1.8 km"\n  - "West End Beach 2.2 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "Yje Dhe Hena 100 m"\n  - "Wine Dhe Pooh 200 m"\n  - "Sheshi Demokracia 250 m"\n  - "Durres Amphiteatre 400 m"\n  - "1. Maj 500 m"\n  - "Sotir Noka 550 m"\n  - "Bekimi 3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\nbookingURL: "https://www.booking.com/hotel/al/citypart.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property prides itself on its comprehensive range of facilities, including an elevator for easy access, round-the-clock security for peace of mind, and the convenience of complimentary WiFi throughout. For those looking to explore the area or needing assistance with their travel arrangements, CityPart provides both airport transfer services and car rental options, ensuring a hassle-free stay.
+---
+title: "CityPart"
+description: "CityPart emerges as a standout accommodation choice for travelers seeking a blend of comfort and convenience, complemented by stunning river views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835464.jpg?k=5ef86e8438a7d5c72f9a7d774c42a1e40b3314ed099b1db2c55abea95735476d&o=&hp=1"
+language: en
+slug: citypart
+address: "Rruga Filonid Durrsaku, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31566575
+  lng: 19.44631967
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 6.7
+ratingWords: "Average"
+numberOfReviews: 1
+ratings:
+  overall: 6.7
+  location: 10
+  cleanliness: 5
+  facilities: 5
+  value: 7.5
+  comfort: 5
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835464.jpg?k=5ef86e8438a7d5c72f9a7d774c42a1e40b3314ed099b1db2c55abea95735476d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835509.jpg?k=5c5e0e9d5107034cf8065a5a56ce4cbac195eb6cc67f803ab6938489d1d16243&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835503.jpg?k=3508e9197577eb1641c4e0f5c9b713606078d93eb278e639e554a781d0bdb6b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835543.jpg?k=2bfd16451cdb28ee3572601d8b12fbaa77d3ad30abf6f5e0ed3a0f024a1907cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835499.jpg?k=d0ddbabde9eeb0252c1892373244fdfc67bf15e2e9b709c98777a2a701618a85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835526.jpg?k=d98a89402704e79538698cc4dac45d72a4a81e730d08c0bc10192b9227b1081b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835530.jpg?k=3d1fdc434b151cb6d48a22444796db45754eff409638056150b0996bbf7ca6c4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835535.jpg?k=c3fb399dd6fb492db8cc08c07b0bdf7f1ab200713079c220fa0f6e5a30c96d9b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835514.jpg?k=cc9cbe1bf8b6d72e406bcb5fde1e8fe20398ac2f570d56eba56a4191a8456053&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Rotonda 30 m"
+  - "Prague 150 m"
+nearbyBeaches:
+  - "Currila Beach 700 m"
+  - "Kallmi Beach 1.2 km"
+  - "Durres Beach 1.8 km"
+  - "West End Beach 2.2 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "Yje Dhe Hena 100 m"
+  - "Wine Dhe Pooh 200 m"
+  - "Sheshi Demokracia 250 m"
+  - "Durres Amphiteatre 400 m"
+  - "1. Maj 500 m"
+  - "Sotir Noka 550 m"
+  - "Bekimi 3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+bookingURL: "https://www.booking.com/hotel/al/citypart.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property prides itself on its comprehensive range of facilities, including an elevator for easy access, round-the-clock security for peace of mind, and the convenience of complimentary WiFi throughout. For those looking to explore the area or needing assistance with their travel arrangements, CityPart provides both airport transfer services and car rental options, ensuring a hassle-free stay.
 
 Guests are treated to a holiday home that is not only air-conditioned but also boasts direct access to a terrace, where the sea views are nothing short of breathtaking. The home features a cozy bedroom, a flat-screen TV equipped with streaming services for entertainment, and maintains a non-smoking environment to ensure the comfort and well-being of all guests.
 

@@ -1,4 +1,73 @@
----\ntitle: "Guest House Fier"\ndescription: "Guest House Fier emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated approximately 37 km from the iconic Independence Square and the historic Kuzum Baba."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116683.jpg?k=b10a123499b605b81c0f774276556b787b2eb2a4c03a2994454eaf9542ff2e6e&o=&hp=1"\nlanguage: en\nslug: guest-house-fier\naddress: "Rruga Vasil Pecuke, 9302 Fier, Albania"\ncity: "Fier"\nlocation: "Fier"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.7235552\n  lng: 19.55269634\nprice: "US$25"\npriceFrom: 25\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 84\nratings:\n  overall: 9.6\n  location: 9.3\n  cleanliness: 9.5\n  facilities: 9.4\n  value: 9.7\n  comfort: 9.6\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116683.jpg?k=b10a123499b605b81c0f774276556b787b2eb2a4c03a2994454eaf9542ff2e6e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526511087.jpg?k=1cda9eb5ae9a99f46e81a61cdeb967e2c2cf740c6c3c19a917fa34ef9d3dc1f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116685.jpg?k=852cf83a394c68cd1511b00f12bba3d7fc076b14ba83c8708e22a70730bef1a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116686.jpg?k=7f8e3d46e1002f4bb6164ff4dd26844ca6292feca011a6081c6c49e7a8d05137&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116706.jpg?k=272f47962c1bb46cf129c754f8510e2deb154ccd058e9e8714b8bedd42d41ae7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116700.jpg?k=6839f0d04f5970c1701553a57b96d209a4db6d35595005d2e10eca0e5ba38b4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116694.jpg?k=fe63b6c8183e342eeeb6bb8340d22a6afff1bdd1c825d7aa165d2d4976cccd5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116703.jpg?k=1e1d0ae06f98e1c8289e300f52d6f34b862dc1f965d97c81e0fe24aff62d595b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428207185.jpg?k=7a4b2bf265fc9877c3fc2d502ba19d675673f0e11f910c256dbd907c73612b1f&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Toska Fish 150 m"\n  - "Xhanco 250 m"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 76 km"\nreviews:\n  - name: "Eneida"\n    country: "Albania"\n    text: "“Very very friendly peaople, always ready to gelp. Clean place, with all home amenities and facilities. Good place, quite place. Everything was perfect”"\n  - name: "Jo"\n    country: "Australia"\n    text: "“A really nice apartment that is furnished to be cosy with the comforts of home. The host was very friendly and settled us in personally. We were travelling on bicycles and he allowed us to keep our bikes secure with us in the apartment.”"\n  - name: "Serxhio"\n    country: "Greece"\n    text: "“Cleanliness was the most important advantage in the house, the location was very good and the house big and comfortable with a mountain view”"\nbookingURL: "https://www.booking.com/hotel/al/guest-house-fier.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon arrival, guests are greeted with a host of amenities designed to ensure a seamless stay, including a 24-hour front desk, efficient airport transfer services, an elevator for easy access, and the essential free WiFi connectivity. The apartment itself is a testament to thoughtful accommodation, featuring a spacious layout that includes one bedroom, a bathroom equipped with a bidet and dressing room, and the convenience of bed linen and towels. The living space is enhanced by a flat-screen TV with satellite channels, a dining area for intimate meals, a fully equipped kitchen for those who prefer to prepare their own dishes, and a terrace that offers breathtaking mountain views. Notably, the apartment is air-conditioned, allergy-free, and maintains a non-smoking policy, catering to the comfort and health of all guests.
+---
+title: "Guest House Fier"
+description: "Guest House Fier emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated approximately 37 km from the iconic Independence Square and the historic Kuzum Baba."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116683.jpg?k=b10a123499b605b81c0f774276556b787b2eb2a4c03a2994454eaf9542ff2e6e&o=&hp=1"
+language: en
+slug: guest-house-fier
+address: "Rruga Vasil Pecuke, 9302 Fier, Albania"
+city: "Fier"
+location: "Fier"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.7235552
+  lng: 19.55269634
+price: "US$25"
+priceFrom: 25
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 84
+ratings:
+  overall: 9.6
+  location: 9.3
+  cleanliness: 9.5
+  facilities: 9.4
+  value: 9.7
+  comfort: 9.6
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116683.jpg?k=b10a123499b605b81c0f774276556b787b2eb2a4c03a2994454eaf9542ff2e6e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526511087.jpg?k=1cda9eb5ae9a99f46e81a61cdeb967e2c2cf740c6c3c19a917fa34ef9d3dc1f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116685.jpg?k=852cf83a394c68cd1511b00f12bba3d7fc076b14ba83c8708e22a70730bef1a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116686.jpg?k=7f8e3d46e1002f4bb6164ff4dd26844ca6292feca011a6081c6c49e7a8d05137&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116706.jpg?k=272f47962c1bb46cf129c754f8510e2deb154ccd058e9e8714b8bedd42d41ae7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116700.jpg?k=6839f0d04f5970c1701553a57b96d209a4db6d35595005d2e10eca0e5ba38b4b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116694.jpg?k=fe63b6c8183e342eeeb6bb8340d22a6afff1bdd1c825d7aa165d2d4976cccd5a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450116703.jpg?k=1e1d0ae06f98e1c8289e300f52d6f34b862dc1f965d97c81e0fe24aff62d595b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428207185.jpg?k=7a4b2bf265fc9877c3fc2d502ba19d675673f0e11f910c256dbd907c73612b1f&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Toska Fish 150 m"
+  - "Xhanco 250 m"
+whatsNearby:
+  - "Divjake-Karavasta National Park 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 76 km"
+reviews:
+  - name: "Eneida"
+    country: "Albania"
+    text: "“Very very friendly peaople, always ready to gelp. Clean place, with all home amenities and facilities. Good place, quite place. Everything was perfect”"
+  - name: "Jo"
+    country: "Australia"
+    text: "“A really nice apartment that is furnished to be cosy with the comforts of home. The host was very friendly and settled us in personally. We were travelling on bicycles and he allowed us to keep our bikes secure with us in the apartment.”"
+  - name: "Serxhio"
+    country: "Greece"
+    text: "“Cleanliness was the most important advantage in the house, the location was very good and the house big and comfortable with a mountain view”"
+bookingURL: "https://www.booking.com/hotel/al/guest-house-fier.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Upon arrival, guests are greeted with a host of amenities designed to ensure a seamless stay, including a 24-hour front desk, efficient airport transfer services, an elevator for easy access, and the essential free WiFi connectivity. The apartment itself is a testament to thoughtful accommodation, featuring a spacious layout that includes one bedroom, a bathroom equipped with a bidet and dressing room, and the convenience of bed linen and towels. The living space is enhanced by a flat-screen TV with satellite channels, a dining area for intimate meals, a fully equipped kitchen for those who prefer to prepare their own dishes, and a terrace that offers breathtaking mountain views. Notably, the apartment is air-conditioned, allergy-free, and maintains a non-smoking policy, catering to the comfort and health of all guests.
 
 For those looking to explore the local area or simply enjoy a leisurely ride, a bicycle rental service is readily available on-site. Additionally, a minimarket within the apartment complex adds an extra layer of convenience, allowing guests to easily procure essentials during their stay.
 

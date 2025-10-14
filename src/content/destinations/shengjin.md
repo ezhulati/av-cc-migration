@@ -5,7 +5,6 @@ region: ""
 featuredImage: /images/destinations/shengjin.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

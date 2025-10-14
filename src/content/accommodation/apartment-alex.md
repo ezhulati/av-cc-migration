@@ -1,6 +1,79 @@
----\ntitle: "Apartment Alex"\ndescription: "Apartment Alex emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597246.jpg?k=007e5845c7466d3a60b2e8c6b250cb4cd04ad4f9a14ea2863ff4aba6839512fb&o=&hp=1"\nlanguage: en\nslug: apartment-alex\naddress: "185 Rruga Skënderbeu, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86857674\n  lng: 20.01842161\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.6\n  location: 8.5\n  cleanliness: 10\n  facilities: 9.5\n  value: 9.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597246.jpg?k=007e5845c7466d3a60b2e8c6b250cb4cd04ad4f9a14ea2863ff4aba6839512fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597290.jpg?k=7f3e7d2c737adec00b4367f047d99b64702686c5e64d89cfa28f6b04c962cf9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597232.jpg?k=ebb77478f9fa4ae362bb62c7b6ef2c6c166874d14bc9fc20f39fd2e3f2744953&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452514802.jpg?k=911da6e0c254d2917613c69685ac4d9faef4fd41a0c98e8eb00f4b029aed62aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597239.jpg?k=9150b6420eb0550b351fa8d7703b32020d772497474f4ddba2613ae4856781e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597228.jpg?k=4ed32d654e80d923e31a8173397541c4ef78b8751b8f9b220cce04d7cb027f8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597187.jpg?k=e79b3ad79dee31b725dca62a184cb4d9fade25b19ab4b6ec0a0604ed1025dd52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597255.jpg?k=3d82bb61962dde9da7f934350c16e053549ce354a618399a525f4ab379612319&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597203.jpg?k=7792feaa27dbcfe68be7ae706c5f8a0892b2eeadfe3ccfc457e807a6b5108bf2&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Kafe Bar Joana 150 m"\n  - "Fast Food Mario 250 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 300 m"\n  - "Saranda City Beach 550 m"\n  - "VIP Beach 1.1 km"\n  - "Santa Quaranta Beach 1.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.2 km"\n  - "Butrint National Park 2.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Diego"\n    country: "Italy"\n    text: "“C'è molta privacy.
+---
+title: "Apartment Alex"
+description: "Apartment Alex emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597246.jpg?k=007e5845c7466d3a60b2e8c6b250cb4cd04ad4f9a14ea2863ff4aba6839512fb&o=&hp=1"
+language: en
+slug: apartment-alex
+address: "185 Rruga Skënderbeu, 9702 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86857674
+  lng: 20.01842161
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 5
+ratings:
+  overall: 9.6
+  location: 8.5
+  cleanliness: 10
+  facilities: 9.5
+  value: 9.5
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597246.jpg?k=007e5845c7466d3a60b2e8c6b250cb4cd04ad4f9a14ea2863ff4aba6839512fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597290.jpg?k=7f3e7d2c737adec00b4367f047d99b64702686c5e64d89cfa28f6b04c962cf9d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597232.jpg?k=ebb77478f9fa4ae362bb62c7b6ef2c6c166874d14bc9fc20f39fd2e3f2744953&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452514802.jpg?k=911da6e0c254d2917613c69685ac4d9faef4fd41a0c98e8eb00f4b029aed62aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597239.jpg?k=9150b6420eb0550b351fa8d7703b32020d772497474f4ddba2613ae4856781e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597228.jpg?k=4ed32d654e80d923e31a8173397541c4ef78b8751b8f9b220cce04d7cb027f8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597187.jpg?k=e79b3ad79dee31b725dca62a184cb4d9fade25b19ab4b6ec0a0604ed1025dd52&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597255.jpg?k=3d82bb61962dde9da7f934350c16e053549ce354a618399a525f4ab379612319&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597203.jpg?k=7792feaa27dbcfe68be7ae706c5f8a0892b2eeadfe3ccfc457e807a6b5108bf2&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Kafe Bar Joana 150 m"
+  - "Fast Food Mario 250 m"
+nearbyBeaches:
+  - "Maestral Beach 300 m"
+  - "La Petite Beach 300 m"
+  - "Saranda City Beach 550 m"
+  - "VIP Beach 1.1 km"
+  - "Santa Quaranta Beach 1.1 km"
+whatsNearby:
+  - "Parc National de Butrint 1.2 km"
+  - "Butrint National Park 2.1 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Diego"
+    country: "Italy"
+    text: "“C'è molta privacy.
 in più il proprietario e molto simpatico e disponibile.
-la casa e completa di tutto quello che hai bisogno gli spazi condivisi tipo piscina non è affollata anzi è quasi sempre libera L appartamento è situato in un posto...”"\nbookingURL: "https://www.booking.com/hotel/al/apartman-alex-rruga-skernderbeu-185-saranda-9702-albanie.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, featuring two bedrooms and a living area equipped with a flat-screen TV, offering streaming services for entertainment at any time. The kitchen is a highlight, fully equipped with a dishwasher, microwave, washing machine, toaster, and fridge, catering to all culinary needs. The balcony, adorned with outdoor furniture, presents an idyllic setting to enjoy mountain views, adding a touch of tranquility to the stay.
+la casa e completa di tutto quello che hai bisogno gli spazi condivisi tipo piscina non è affollata anzi è quasi sempre libera L appartamento è situato in un posto...”"
+bookingURL: "https://www.booking.com/hotel/al/apartman-alex-rruga-skernderbeu-185-saranda-9702-albanie.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious haven, featuring two bedrooms and a living area equipped with a flat-screen TV, offering streaming services for entertainment at any time. The kitchen is a highlight, fully equipped with a dishwasher, microwave, washing machine, toaster, and fridge, catering to all culinary needs. The balcony, adorned with outdoor furniture, presents an idyllic setting to enjoy mountain views, adding a touch of tranquility to the stay.
 
 Privacy is paramount at Apartment Alex, with a private entrance that adds an extra layer of comfort for guests. The property is committed to providing a smoke-free environment, ensuring a clean and healthy stay for all.
 

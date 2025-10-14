@@ -1,5 +1,87 @@
----\ntitle: "Colorful Comfy Condo CENTRAL Tirana (with Balcony)"\ndescription: "Colorful Comfy Condo CENTRAL Tirana (with Balcony) emerges as a vibrant choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406112888.jpg?k=82951a2706a4e013dfdf5a0714a5805aae06b073ccd2e5cb42abe58035a4551d&o=&hp=1"\nlanguage: en\nslug: colorful-comfy-condo-central-tirana-with-balcony\naddress: "Rruga Isa Boletini, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33257652\n  lng: 19.82029701\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 21\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 9.9\n  facilities: 9.8\n  value: 9.5\n  comfort: 9.5\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406112888.jpg?k=82951a2706a4e013dfdf5a0714a5805aae06b073ccd2e5cb42abe58035a4551d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113658.jpg?k=6088835a478df06e91b870e1e6b692770881df70bfe7e58807133489c3978efd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438332920.jpg?k=b18bbd37e06d7e040cb97706e565c261d1ed172c5ab7450b200ab789db56b0a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113657.jpg?k=268ffb41b2ffd9bf2d18f51f34cda6f5cfc24bab2e68a04c3ccc629fed66322b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113650.jpg?k=e3461520a7addf1182700e450304fe0e90aee6908943efb0ce3a20e5b255c92e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438333638.jpg?k=c2b43245390347f3130f358f4d1f0b564d8ce5766b65f43e336452eb2320b0b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113654.jpg?k=a4b1783b7cffce64bd2e38e36fdfb4b43a53126d6bbaea09f949e470615ccd28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438332919.jpg?k=d10ba14a2933a6b99c2b2c341afcef74c35f6bb867f7117cf7083a86f7891119&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113641.jpg?k=7a9bcf2de77527c97be82b7803c10cba903b075cf9ba5d0d61b136351156e73f&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 750 m"\n  - "Tanners' Bridge 850 m"\n  - "Rinia Park 900 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Harli 50 m"\n  - "Orzo Meal&More 100 m"\nwhatsNearby:\n  - "Amazing Nature 150 m"\n  - "National Museum of History Albania 450 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "Sheshi Skënderbej 500 m"\n  - "Clock Tower Tirana 550 m"\n  - "Skanderbeg Square 550 m"\n  - "Sheshi Paris 550 m"\n  - "Parku Europa 600 m"\n  - "Sheshi Rekreativ tek ish ATSh 700 m"\n  - "National Gallery of Arts Tirana 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Niels"\n    country: "United Kingdom"\n    text: "“The location was good, albeit a bit difficult to find the gate entrance. The host is very great with communication though with plenty of details on how to get there. The apartment itself was gorgeous!”"\n  - name: "Daniel"\n    country: "Australia"\n    text: "“Everything was perfect about the check-in and accommodation - very clean, comfortable and with plenty of facilities. The hosts were super helpful and the communication was excellent.”"\n  - name: "Armin"\n    country: "Germany"\n    text: "“Friendly and easy going host, comfortable and well equipped apartment with a great bed! Great location too!
-Everything as described in the offering.”"\nbookingURL: "https://www.booking.com/hotel/al/colorful-comfy-condo-central-tirana-with-balcony.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe property distinguishes itself with its brightly decorated spaces that include a welcoming bedroom, a living area equipped with a flat-screen TV boasting streaming services, and a balcony that adds a touch of relaxation to the urban setting. The fully equipped kitchen, complete with a microwave and fridge, alongside a convenient washing machine, ensures guests feel at home. The bathroom, featuring a bidet, along with the provision of towels and bed linen, underscores the condo's attention to guest comfort.
+---
+title: "Colorful Comfy Condo CENTRAL Tirana (with Balcony)"
+description: "Colorful Comfy Condo CENTRAL Tirana (with Balcony) emerges as a vibrant choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406112888.jpg?k=82951a2706a4e013dfdf5a0714a5805aae06b073ccd2e5cb42abe58035a4551d&o=&hp=1"
+language: en
+slug: colorful-comfy-condo-central-tirana-with-balcony
+address: "Rruga Isa Boletini, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33257652
+  lng: 19.82029701
+price: "US$65"
+priceFrom: 65
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 21
+ratings:
+  overall: 9.5
+  location: 9.6
+  cleanliness: 9.9
+  facilities: 9.8
+  value: 9.5
+  comfort: 9.5
+  staff: 9.6
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406112888.jpg?k=82951a2706a4e013dfdf5a0714a5805aae06b073ccd2e5cb42abe58035a4551d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113658.jpg?k=6088835a478df06e91b870e1e6b692770881df70bfe7e58807133489c3978efd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438332920.jpg?k=b18bbd37e06d7e040cb97706e565c261d1ed172c5ab7450b200ab789db56b0a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113657.jpg?k=268ffb41b2ffd9bf2d18f51f34cda6f5cfc24bab2e68a04c3ccc629fed66322b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113650.jpg?k=e3461520a7addf1182700e450304fe0e90aee6908943efb0ce3a20e5b255c92e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438333638.jpg?k=c2b43245390347f3130f358f4d1f0b564d8ce5766b65f43e336452eb2320b0b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113654.jpg?k=a4b1783b7cffce64bd2e38e36fdfb4b43a53126d6bbaea09f949e470615ccd28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438332919.jpg?k=d10ba14a2933a6b99c2b2c341afcef74c35f6bb867f7117cf7083a86f7891119&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406113641.jpg?k=7a9bcf2de77527c97be82b7803c10cba903b075cf9ba5d0d61b136351156e73f&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 750 m"
+  - "Tanners' Bridge 850 m"
+  - "Rinia Park 900 m"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.3 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Harli 50 m"
+  - "Orzo Meal&More 100 m"
+whatsNearby:
+  - "Amazing Nature 150 m"
+  - "National Museum of History Albania 450 m"
+  - "Sheshi Sulejman Pasha 450 m"
+  - "Sheshi Skënderbej 500 m"
+  - "Clock Tower Tirana 550 m"
+  - "Skanderbeg Square 550 m"
+  - "Sheshi Paris 550 m"
+  - "Parku Europa 600 m"
+  - "Sheshi Rekreativ tek ish ATSh 700 m"
+  - "National Gallery of Arts Tirana 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Niels"
+    country: "United Kingdom"
+    text: "“The location was good, albeit a bit difficult to find the gate entrance. The host is very great with communication though with plenty of details on how to get there. The apartment itself was gorgeous!”"
+  - name: "Daniel"
+    country: "Australia"
+    text: "“Everything was perfect about the check-in and accommodation - very clean, comfortable and with plenty of facilities. The hosts were super helpful and the communication was excellent.”"
+  - name: "Armin"
+    country: "Germany"
+    text: "“Friendly and easy going host, comfortable and well equipped apartment with a great bed! Great location too!
+Everything as described in the offering.”"
+bookingURL: "https://www.booking.com/hotel/al/colorful-comfy-condo-central-tirana-with-balcony.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The property distinguishes itself with its brightly decorated spaces that include a welcoming bedroom, a living area equipped with a flat-screen TV boasting streaming services, and a balcony that adds a touch of relaxation to the urban setting. The fully equipped kitchen, complete with a microwave and fridge, alongside a convenient washing machine, ensures guests feel at home. The bathroom, featuring a bidet, along with the provision of towels and bed linen, underscores the condo's attention to guest comfort.
 
 Adding to its appeal, the apartment boasts a private entrance, enhancing the sense of privacy and exclusivity for guests. Its non-smoking policy ensures a clean and fresh environment throughout the stay.
 

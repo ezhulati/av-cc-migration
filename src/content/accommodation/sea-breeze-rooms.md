@@ -1,6 +1,78 @@
----\ntitle: "Sea Breeze Rooms"\ndescription: "Sea Breeze Rooms emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, boasting an impressive proximity to the pristine shores of Spille Beach, Maracit Beach, and Prinos Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499529.jpg?k=23b35d01d1c649bb0f6da817f349e3fee26fea0feb7a1df5b4fcede22e33ce4f&o=&hp=1"\nlanguage: en\nslug: sea-breeze-rooms\naddress: "stefanel, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10245938\n  lng: 19.74643031\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 170\nratings:\n  overall: 9.5\n  location: 9.4\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.6\n  comfort: 9.7\n  staff: 9.8\n  wifi: 9.1\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499529.jpg?k=23b35d01d1c649bb0f6da817f349e3fee26fea0feb7a1df5b4fcede22e33ce4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501166585.jpg?k=3825d8f4cdd305e18ec315ea50a16c134e8725b3ec703074593454ea2c471028&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501114906.jpg?k=5eafb19931c6a03751d1e73e27ffc565dd0cfdc4ddf84e8b8779e78576dec24a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501114899.jpg?k=ae0c5885ef8a036dad9f6a31e2ed7111c3bd2298d733a4924717d76d4a3c24b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499902.jpg?k=118ae0527097d8ac19afc4b8219b5eeca22fbb82c9e598b66ff18b6bf80f005b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501115993.jpg?k=ff010b91383eaead12f72022f4fc9a7f67f620c26b545ecb81efe97df4e49649&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501167399.jpg?k=f7b511b210dffb6c82463f8cbc11f642c2b78070ca2847c61588d2dbc73a3d1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501115976.jpg?k=ab3beb70eccae86565a5be957db7e9bf6b8da88289f0cb1102e1c09bad148f4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499894.jpg?k=f6ae6e5841c85c0dc888846d2c2734dbec96f16ed8e602f2a709c619360aaad7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Taverna Viron 40 m"\n  - "To Steki 50 m"\nnearbyBeaches:\n  - "Spille Beach 150 m"\n  - "Maracit Beach 350 m"\n  - "Prinos Beach 550 m"\n  - "Potam Beach 1,000 m"\n  - "Livadhi Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Natalie"\n    country: "Australia"\n    text: "“Great apartment close to the centre of town with views of the city, garden below and sea. Yes, you have to climb a couple of stairs to reach the apartment (that's how you get the views!) but it is still a very convenient quiet location with a...”"\n  - name: "Grant"\n    country: "United Kingdom"\n    text: "“I had a great stay at Sea breeze. I travelled around Albania for 2 weeks and it was my favourite place I stayed in. LLambro met me at the property and gave me some great information on the places to go and visit and restaurants to eat in
-The...”"\n  - name: "Richard"\n    country: "United Kingdom"\n    text: "“Fabulous in every respect. Beautiful, family run accommodation with lovely garden. Spotlessly clean and great facilities. Very helpful and hospitable family.
-Only five minutes from all local amenities and with great views either side. Will...”"\nbookingURL: "https://www.booking.com/hotel/al/milo-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach accommodation at Sea Breeze Rooms is thoughtfully designed with guest comfort in mind, featuring private entrances, air conditioning, and soundproofing for a peaceful stay. The rooms are equipped with a wardrobe, a private bathroom complete with a bath, and a balcony that invites guests to dine outdoors while soaking in the stunning sea views. Additional amenities include a dressing room and a coffee machine, ensuring a home-away-from-home experience.
+---
+title: "Sea Breeze Rooms"
+description: "Sea Breeze Rooms emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, boasting an impressive proximity to the pristine shores of Spille Beach, Maracit Beach, and Prinos Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499529.jpg?k=23b35d01d1c649bb0f6da817f349e3fee26fea0feb7a1df5b4fcede22e33ce4f&o=&hp=1"
+language: en
+slug: sea-breeze-rooms
+address: "stefanel, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.10245938
+  lng: 19.74643031
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 170
+ratings:
+  overall: 9.5
+  location: 9.4
+  cleanliness: 9.7
+  facilities: 9.4
+  value: 9.6
+  comfort: 9.7
+  staff: 9.8
+  wifi: 9.1
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499529.jpg?k=23b35d01d1c649bb0f6da817f349e3fee26fea0feb7a1df5b4fcede22e33ce4f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501166585.jpg?k=3825d8f4cdd305e18ec315ea50a16c134e8725b3ec703074593454ea2c471028&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501114906.jpg?k=5eafb19931c6a03751d1e73e27ffc565dd0cfdc4ddf84e8b8779e78576dec24a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501114899.jpg?k=ae0c5885ef8a036dad9f6a31e2ed7111c3bd2298d733a4924717d76d4a3c24b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499902.jpg?k=118ae0527097d8ac19afc4b8219b5eeca22fbb82c9e598b66ff18b6bf80f005b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501115993.jpg?k=ff010b91383eaead12f72022f4fc9a7f67f620c26b545ecb81efe97df4e49649&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501167399.jpg?k=f7b511b210dffb6c82463f8cbc11f642c2b78070ca2847c61588d2dbc73a3d1b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501115976.jpg?k=ab3beb70eccae86565a5be957db7e9bf6b8da88289f0cb1102e1c09bad148f4d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499894.jpg?k=f6ae6e5841c85c0dc888846d2c2734dbec96f16ed8e602f2a709c619360aaad7&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Taverna Viron 40 m"
+  - "To Steki 50 m"
+nearbyBeaches:
+  - "Spille Beach 150 m"
+  - "Maracit Beach 350 m"
+  - "Prinos Beach 550 m"
+  - "Potam Beach 1,000 m"
+  - "Livadhi Beach 1.3 km"
+whatsNearby:
+  - "Llogora National Park 16 km"
+airports:
+  - "Corfu International Airport 56 km"
+reviews:
+  - name: "Natalie"
+    country: "Australia"
+    text: "“Great apartment close to the centre of town with views of the city, garden below and sea. Yes, you have to climb a couple of stairs to reach the apartment (that's how you get the views!) but it is still a very convenient quiet location with a...”"
+  - name: "Grant"
+    country: "United Kingdom"
+    text: "“I had a great stay at Sea breeze. I travelled around Albania for 2 weeks and it was my favourite place I stayed in. LLambro met me at the property and gave me some great information on the places to go and visit and restaurants to eat in
+The...”"
+  - name: "Richard"
+    country: "United Kingdom"
+    text: "“Fabulous in every respect. Beautiful, family run accommodation with lovely garden. Spotlessly clean and great facilities. Very helpful and hospitable family.
+Only five minutes from all local amenities and with great views either side. Will...”"
+bookingURL: "https://www.booking.com/hotel/al/milo-apartament.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each accommodation at Sea Breeze Rooms is thoughtfully designed with guest comfort in mind, featuring private entrances, air conditioning, and soundproofing for a peaceful stay. The rooms are equipped with a wardrobe, a private bathroom complete with a bath, and a balcony that invites guests to dine outdoors while soaking in the stunning sea views. Additional amenities include a dressing room and a coffee machine, ensuring a home-away-from-home experience.
 
 Guests can also take advantage of the property's picnic area, perfect for those leisurely afternoons under the sun. Despite its secluded feel, Sea Breeze Rooms remains connected with complimentary WiFi access throughout the property, catering to the needs of both leisure and business travelers.
 

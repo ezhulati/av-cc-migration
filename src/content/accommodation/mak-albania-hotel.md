@@ -1,4 +1,99 @@
----\ntitle: "Mak Albania Hotel"\ndescription: "Stepping into the Mak Albania Hotel feels like entering a realm of sophistication and top-tier hospitality, a five-star gem in the bustling heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269506278.jpg?k=a5b91194484965b145a91f714dc4945bc647851aa59cdab84ed433eb06b8b78a&o=&hp=1"\nlanguage: en\nslug: mak-albania-hotel\naddress: "Sheshi Italia, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31630367\n  lng: 19.82311249\nprice: "US$113"\npriceFrom: 113\nstarRating: 5\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 1142\nratings:\n  overall: 8.4\n  location: 8.8\n  cleanliness: 8.3\n  facilities: 7.9\n  value: 7.7\n  comfort: 8.5\n  staff: 8.6\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269506278.jpg?k=a5b91194484965b145a91f714dc4945bc647851aa59cdab84ed433eb06b8b78a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991455.jpg?k=cfce17643ef2419e9be660a955af179e5d164c86cca0d591cf8f6ad7e0f479b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991334.jpg?k=20ffcd6666e0525771c0246dc5d75ee739a932e4c0f5bc1f258b2ab54fe13ef4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991375.jpg?k=ac32ba64b46a56f140c37002f00e6d0f86e3242cb3626de0a72630e8e38e5471&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991494.jpg?k=71a7ac118124d41a6c52a89938280854b29d61ed7b711e86a7ce3bb8acbdda38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991672.jpg?k=c8b8f3c59e8a58bdb38c7bb8bc0ded049abb5c31546cf87d23d8890b505f4016&o=&hp=1"\namenities:\n  - "2 swimming pools (1 open)"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\n  - "Tower Deluxe Double or Twin Room"\n  - "Junior Suite"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Tanners' Bridge 1.2 km"\n  - "House of Leaves 1.3 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "Skanderbeg Square 1.3 km"\n  - "National Museum of History Albania 1.5 km"\n  - "Bunk'Art 1 Museum 4.9 km"\nnearbyRestaurants:\n  - "Crown Bar 4 m"\n  - "Metropolitan 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek Arena Kombëtare 300 m"\n  - "Shesh Rekreativ 450 m"\n  - "Grand Park of Tirana 500 m"\n  - "Parku I Madh 550 m"\n  - "Shesh Rekreativ 600 m"\n  - "Parku I Madh I Tiranës (Grand Park) 650 m"\n  - "Former Residence of Enver Hoxha 700 m"\n  - "Sheshi Rekreativ Piramida 800 m"\n  - "Rinia Park 1 km"\n  - "Parku Rinia 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Jevgenija"\n    country: "United Kingdom"\n    text: "“Lovely staff. Friendly and always smile. Rooms are cleaned every day,new bedding,new towels,new toiletries if needed.”"\n  - name: "Robert"\n    country: "United Kingdom"\n    text: "“Great location with everything a short walk away. The staff were very pleasant and helpful. Loved the comfort of the room and the buffet breakfast was very nice.”"\n  - name: "Gregg"\n    country: "United Kingdom"\n    text: "“Property was nice, the leisure facilities are really good and great breakfast. Staff nice”"\nbookingURL: "https://www.booking.com/hotel/al/mak-albania-hotel.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe rooms and suites at Mak Albania Hotel redefine luxury with their spacious layouts, deep-stained hardwood floors, and a host of modern amenities. Each accommodation is equipped with air conditioning, a flat-screen TV, a minibar, and a fridge, ensuring comfort and convenience. The private bathrooms are a haven of relaxation, complete with complimentary toiletries and a hairdryer.
+---
+title: "Mak Albania Hotel"
+description: "Stepping into the Mak Albania Hotel feels like entering a realm of sophistication and top-tier hospitality, a five-star gem in the bustling heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269506278.jpg?k=a5b91194484965b145a91f714dc4945bc647851aa59cdab84ed433eb06b8b78a&o=&hp=1"
+language: en
+slug: mak-albania-hotel
+address: "Sheshi Italia, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.31630367
+  lng: 19.82311249
+price: "US$113"
+priceFrom: 113
+starRating: 5
+rating: 8.4
+ratingWords: "Very Good"
+numberOfReviews: 1142
+ratings:
+  overall: 8.4
+  location: 8.8
+  cleanliness: 8.3
+  facilities: 7.9
+  value: 7.7
+  comfort: 8.5
+  staff: 8.6
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269506278.jpg?k=a5b91194484965b145a91f714dc4945bc647851aa59cdab84ed433eb06b8b78a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991455.jpg?k=cfce17643ef2419e9be660a955af179e5d164c86cca0d591cf8f6ad7e0f479b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991334.jpg?k=20ffcd6666e0525771c0246dc5d75ee739a932e4c0f5bc1f258b2ab54fe13ef4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991375.jpg?k=ac32ba64b46a56f140c37002f00e6d0f86e3242cb3626de0a72630e8e38e5471&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991494.jpg?k=71a7ac118124d41a6c52a89938280854b29d61ed7b711e86a7ce3bb8acbdda38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56991672.jpg?k=c8b8f3c59e8a58bdb38c7bb8bc0ded049abb5c31546cf87d23d8890b505f4016&o=&hp=1"
+amenities:
+  - "2 swimming pools (1 open)"
+  - "Spa and wellness centre"
+  - "Non-smoking rooms"
+  - "Fitness centre"
+  - "Room service"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Deluxe Double or Twin Room"
+  - "Tower Deluxe Double or Twin Room"
+  - "Junior Suite"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Tanners' Bridge 1.2 km"
+  - "House of Leaves 1.3 km"
+  - "Clock Tower Tirana 1.3 km"
+  - "Skanderbeg Square 1.3 km"
+  - "National Museum of History Albania 1.5 km"
+  - "Bunk'Art 1 Museum 4.9 km"
+nearbyRestaurants:
+  - "Crown Bar 4 m"
+  - "Metropolitan 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek Arena Kombëtare 300 m"
+  - "Shesh Rekreativ 450 m"
+  - "Grand Park of Tirana 500 m"
+  - "Parku I Madh 550 m"
+  - "Shesh Rekreativ 600 m"
+  - "Parku I Madh I Tiranës (Grand Park) 650 m"
+  - "Former Residence of Enver Hoxha 700 m"
+  - "Sheshi Rekreativ Piramida 800 m"
+  - "Rinia Park 1 km"
+  - "Parku Rinia 1.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Jevgenija"
+    country: "United Kingdom"
+    text: "“Lovely staff. Friendly and always smile. Rooms are cleaned every day,new bedding,new towels,new toiletries if needed.”"
+  - name: "Robert"
+    country: "United Kingdom"
+    text: "“Great location with everything a short walk away. The staff were very pleasant and helpful. Loved the comfort of the room and the buffet breakfast was very nice.”"
+  - name: "Gregg"
+    country: "United Kingdom"
+    text: "“Property was nice, the leisure facilities are really good and great breakfast. Staff nice”"
+bookingURL: "https://www.booking.com/hotel/al/mak-albania-hotel.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+The rooms and suites at Mak Albania Hotel redefine luxury with their spacious layouts, deep-stained hardwood floors, and a host of modern amenities. Each accommodation is equipped with air conditioning, a flat-screen TV, a minibar, and a fridge, ensuring comfort and convenience. The private bathrooms are a haven of relaxation, complete with complimentary toiletries and a hairdryer.
 
 For those looking to stay active, the hotel boasts a complimentary fitness center and two swimming pools. Evening relaxation is elevated at the Infinity Piano Bar and Lounge, where guests can unwind with a drink in hand. Culinary enthusiasts will delight in the Metropolitan Restaurant, offering an exquisite fusion cuisine that tantalizes the taste buds.
 

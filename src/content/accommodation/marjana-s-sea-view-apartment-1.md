@@ -1,4 +1,78 @@
----\ntitle: "Marjana's Sea View Apartment 1"\ndescription: "Marjana's Sea View Apartment 1 emerges as a prime choice for travelers seeking a serene beachfront escape in Lezhë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463794481.jpg?k=f8f8ed9199287503198ced3d83da05bfc20dfaad17360c84fe87b271f7cc337e&o=&hp=1"\nlanguage: en\nslug: marjana-s-sea-view-apartment-1\naddress: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.79311255\n  lng: 19.60277436\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 15\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.8\n  facilities: 9.7\n  value: 10\n  comfort: 9.8\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463794481.jpg?k=f8f8ed9199287503198ced3d83da05bfc20dfaad17360c84fe87b271f7cc337e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206177.jpg?k=a479b08eda71228e0c4b8666c858471e57f06569adb772f1bbc834d9a04afbbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206204.jpg?k=616494120b7d212792325cf49864bb7d7444d13df2fa5a0886471755a010ac81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206199.jpg?k=0442d082d80fcf19701640c6946176650567203948e73e7ac31c5e4cb3b18d07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206182.jpg?k=e6c0d5530d4b49886d63ce1cc54facf2efb371c337b6efb90e932853923933b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206093.jpg?k=9cfa0b7ffd2ae87caf7d528359533419e0d08ef473855e237192b9426887fcfe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206271.jpg?k=23493d05da38c303d9b4c58c887044bd0b112b6061ca192b2e88513b2b3169d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206168.jpg?k=b5d976d3bf8bd37087dd0c7b2331df31a2e80c277c720f0e211bdb49fdd28866&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206173.jpg?k=b209144322831db106270a123fd43cc62d7cc785c62c258de7828ad8d9222fd1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hotel Restorant Molla 100 m"\n  - "Soleil 550 m"\nnearbyBeaches:\n  - "Ylberi Beach 150 m"\n  - "Shëngjin Beach 750 m"\n  - "Laguna Park Beach 2.7 km"\n  - "Kune Beach 2.9 km"\n  - "Rana e Hedhun Beach 4.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Podgorica Airport 68 km"\nreviews:\n  - name: "Sonje"\n    country: "North Macedonia"\n    text: "“Beautiful apartment. Clean. As soon as you leave the building, you are immediately on the beach.”"\n  - name: "Johan"\n    country: "Netherlands"\n    text: "“The apartment was nearly brand new, modern decorated and excellent, complete equipement.”"\n  - name: "Iris"\n    country: "Germany"\n    text: "“Very modern, comfortable and spotlessly clean apartment. Great view of the sea. Personal and uncomplicated check-in. Reaction fast communication. Overall, highly recommended.”"\nbookingURL: "https://www.booking.com/hotel/al/marjanas-sea-view-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The inclusion of a balcony offers breathtaking sea views, allowing guests to soak in the coastal ambiance from the comfort of their accommodation. The convenience of free WiFi and air conditioning adds to the comfort, ensuring a stay that is both connected and comfortable.
+---
+title: "Marjana's Sea View Apartment 1"
+description: "Marjana's Sea View Apartment 1 emerges as a prime choice for travelers seeking a serene beachfront escape in Lezhë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463794481.jpg?k=f8f8ed9199287503198ced3d83da05bfc20dfaad17360c84fe87b271f7cc337e&o=&hp=1"
+language: en
+slug: marjana-s-sea-view-apartment-1
+address: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"
+city: "Lezhë"
+location: "Lezhë"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.79311255
+  lng: 19.60277436
+price: "US$27"
+priceFrom: 27
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 15
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 9.8
+  facilities: 9.7
+  value: 10
+  comfort: 9.8
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463794481.jpg?k=f8f8ed9199287503198ced3d83da05bfc20dfaad17360c84fe87b271f7cc337e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206177.jpg?k=a479b08eda71228e0c4b8666c858471e57f06569adb772f1bbc834d9a04afbbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206204.jpg?k=616494120b7d212792325cf49864bb7d7444d13df2fa5a0886471755a010ac81&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206199.jpg?k=0442d082d80fcf19701640c6946176650567203948e73e7ac31c5e4cb3b18d07&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206182.jpg?k=e6c0d5530d4b49886d63ce1cc54facf2efb371c337b6efb90e932853923933b8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206093.jpg?k=9cfa0b7ffd2ae87caf7d528359533419e0d08ef473855e237192b9426887fcfe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206271.jpg?k=23493d05da38c303d9b4c58c887044bd0b112b6061ca192b2e88513b2b3169d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206168.jpg?k=b5d976d3bf8bd37087dd0c7b2331df31a2e80c277c720f0e211bdb49fdd28866&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456206173.jpg?k=b209144322831db106270a123fd43cc62d7cc785c62c258de7828ad8d9222fd1&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Hotel Restorant Molla 100 m"
+  - "Soleil 550 m"
+nearbyBeaches:
+  - "Ylberi Beach 150 m"
+  - "Shëngjin Beach 750 m"
+  - "Laguna Park Beach 2.7 km"
+  - "Kune Beach 2.9 km"
+  - "Rana e Hedhun Beach 4.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 42 km"
+  - "Podgorica Airport 68 km"
+reviews:
+  - name: "Sonje"
+    country: "North Macedonia"
+    text: "“Beautiful apartment. Clean. As soon as you leave the building, you are immediately on the beach.”"
+  - name: "Johan"
+    country: "Netherlands"
+    text: "“The apartment was nearly brand new, modern decorated and excellent, complete equipement.”"
+  - name: "Iris"
+    country: "Germany"
+    text: "“Very modern, comfortable and spotlessly clean apartment. Great view of the sea. Personal and uncomplicated check-in. Reaction fast communication. Overall, highly recommended.”"
+bookingURL: "https://www.booking.com/hotel/al/marjanas-sea-view-apartment-1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This apartment distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The inclusion of a balcony offers breathtaking sea views, allowing guests to soak in the coastal ambiance from the comfort of their accommodation. The convenience of free WiFi and air conditioning adds to the comfort, ensuring a stay that is both connected and comfortable.
 
 Designed with the modern traveler in mind, the apartment boasts a bedroom equipped with a flat-screen TV and a fully equipped kitchenette, catering to the needs of those who prefer the flexibility of preparing their own meals. The presence of an in-house bar and a nearby minimarket offers additional convenience, providing options for relaxation and essentials without the need to venture far.
 

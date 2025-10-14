@@ -1,6 +1,81 @@
----\ntitle: "Stone House Obelisk"\ndescription: "Discover the charm of Gjirokastër with a stay at Stone House Obelisk, a serene retreat located just 44 km from the tranquil Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336228.jpg?k=f0992ed4b2fee2bc4e8cf40369a5f9bbfb23c10962b38e318d3bb9280ac8c239&o=&hp=1"\nlanguage: en\nslug: stone-house-obelisk\naddress: "Rruga e Zejtareve, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.07474995\n  lng: 20.1382019\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 247\nratings:\n  overall: 9.7\n  location: 9.8\n  cleanliness: 9.8\n  facilities: 9.4\n  value: 9.8\n  comfort: 9.7\n  staff: 9.9\n  wifi: 9.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336228.jpg?k=f0992ed4b2fee2bc4e8cf40369a5f9bbfb23c10962b38e318d3bb9280ac8c239&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298890704.jpg?k=b6c30a11004525239f6c75c15bf3b0a81a5d019340d306b391cd72feb2c8e2e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336239.jpg?k=f4ffc23e74fd9707909724424fdbb36224cde95e77c9e71aabe28e8f569b63c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336241.jpg?k=598f693f6504abeaee33202c9e77a9767ca4529b4090576aef9ca53e2eed4cd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356585.jpg?k=bba1fd3aca23eb6bfb53269d61fe468e6076350a2f98a73508578cb3013e2569&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356246.jpg?k=4cd12c19e03abb567f95195776335abd8bdfad8f2107781d52cbe21df76b8678&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356678.jpg?k=09c8d5574336e0cb8fce3bdb3a18a31777a6c66d38546afba10b2a023f925e91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336245.jpg?k=5b493dffb350cc04c823821e4b74c26241acdf08ccc85c59fbc9e6a495acd704&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336254.jpg?k=30a383936a494f8ab1d3ff861c0ea8e7c07329d1e4a03f462ec452237ddc9a96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336253.jpg?k=aaeaca1b7de16d706bf37e507fc9597dc0ae2142c5f6d0eb895b3aa0969ad31f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356553.jpg?k=deca46b92fa94c54334bca30e617d7f38d08c4bc2602070ec5fbbb2492ebea33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336255.jpg?k=8fbcbf36ac2bcd9d81d300765fa7b448249243ac61e42bf39e81e85b973bc776&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336240.jpg?k=13a87a71ed8c6c65252108927a7f42e33b1863ee9cb1a3a52613b8292def4b64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298355849.jpg?k=92c391ed84cfcb3422fb06d099712862ef7047f1e50cccd78e230aeb7ede2a74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336252.jpg?k=01f6878df1d37cd97770179da68f0b1f9533f15821a4e5190029fe7515918cf2&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Superior Family Room"\nnearbyRestaurants:\n  - "Bineri 30 m"\n  - "Submarine 105 40 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Daniel"\n    country: "Poland"\n    text: "“Delicious breakfast 🥞
+---
+title: "Stone House Obelisk"
+description: "Discover the charm of Gjirokastër with a stay at Stone House Obelisk, a serene retreat located just 44 km from the tranquil Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336228.jpg?k=f0992ed4b2fee2bc4e8cf40369a5f9bbfb23c10962b38e318d3bb9280ac8c239&o=&hp=1"
+language: en
+slug: stone-house-obelisk
+address: "Rruga e Zejtareve, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.07474995
+  lng: 20.1382019
+price: "US$36"
+priceFrom: 36
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 247
+ratings:
+  overall: 9.7
+  location: 9.8
+  cleanliness: 9.8
+  facilities: 9.4
+  value: 9.8
+  comfort: 9.7
+  staff: 9.9
+  wifi: 9.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336228.jpg?k=f0992ed4b2fee2bc4e8cf40369a5f9bbfb23c10962b38e318d3bb9280ac8c239&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298890704.jpg?k=b6c30a11004525239f6c75c15bf3b0a81a5d019340d306b391cd72feb2c8e2e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336239.jpg?k=f4ffc23e74fd9707909724424fdbb36224cde95e77c9e71aabe28e8f569b63c7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336241.jpg?k=598f693f6504abeaee33202c9e77a9767ca4529b4090576aef9ca53e2eed4cd7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356585.jpg?k=bba1fd3aca23eb6bfb53269d61fe468e6076350a2f98a73508578cb3013e2569&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356246.jpg?k=4cd12c19e03abb567f95195776335abd8bdfad8f2107781d52cbe21df76b8678&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356678.jpg?k=09c8d5574336e0cb8fce3bdb3a18a31777a6c66d38546afba10b2a023f925e91&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336245.jpg?k=5b493dffb350cc04c823821e4b74c26241acdf08ccc85c59fbc9e6a495acd704&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336254.jpg?k=30a383936a494f8ab1d3ff861c0ea8e7c07329d1e4a03f462ec452237ddc9a96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336253.jpg?k=aaeaca1b7de16d706bf37e507fc9597dc0ae2142c5f6d0eb895b3aa0969ad31f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298356553.jpg?k=deca46b92fa94c54334bca30e617d7f38d08c4bc2602070ec5fbbb2492ebea33&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336255.jpg?k=8fbcbf36ac2bcd9d81d300765fa7b448249243ac61e42bf39e81e85b973bc776&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336240.jpg?k=13a87a71ed8c6c65252108927a7f42e33b1863ee9cb1a3a52613b8292def4b64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298355849.jpg?k=92c391ed84cfcb3422fb06d099712862ef7047f1e50cccd78e230aeb7ede2a74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336252.jpg?k=01f6878df1d37cd97770179da68f0b1f9533f15821a4e5190029fe7515918cf2&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Airport shuttle"
+  - "Room service"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Superior Family Room"
+nearbyRestaurants:
+  - "Bineri 30 m"
+  - "Submarine 105 40 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Daniel"
+    country: "Poland"
+    text: "“Delicious breakfast 🥞
 Hospitable staff
-At the cobblestone street within the old center.”"\n  - name: "Sneha"\n    country: "India"\n    text: "“Everything was good! The host is very sweet and welcoming. Her English is limited but she tries her best. The rooms is large and clean and beds were comfy The property gets very cold due to the stone structure.”"\n  - name: "Tea"\n    country: "Slovenia"\n    text: "“Everything was great. The host is amazing :) The room was beautiful and the food outstanding.”"\nbookingURL: "https://www.booking.com/hotel/al/stone-house-obelisk-gjirokaster1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Stone House Obelisk are thoughtfully equipped with modern amenities to meet the needs of every guest. Air conditioning, flat-screen TVs with satellite channels, refrigerators, and coffee machines are standard in each unit, along with the added luxury of having fresh fruits delivered directly to the room. The attention to detail extends to the private bathrooms, which are stocked with complimentary toiletries and fresh bed linen, ensuring a comfortable and hassle-free stay.
+At the cobblestone street within the old center.”"
+  - name: "Sneha"
+    country: "India"
+    text: "“Everything was good! The host is very sweet and welcoming. Her English is limited but she tries her best. The rooms is large and clean and beds were comfy The property gets very cold due to the stone structure.”"
+  - name: "Tea"
+    country: "Slovenia"
+    text: "“Everything was great. The host is amazing :) The room was beautiful and the food outstanding.”"
+bookingURL: "https://www.booking.com/hotel/al/stone-house-obelisk-gjirokaster1.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Stone House Obelisk are thoughtfully equipped with modern amenities to meet the needs of every guest. Air conditioning, flat-screen TVs with satellite channels, refrigerators, and coffee machines are standard in each unit, along with the added luxury of having fresh fruits delivered directly to the room. The attention to detail extends to the private bathrooms, which are stocked with complimentary toiletries and fresh bed linen, ensuring a comfortable and hassle-free stay.
 
 For those who need to pick up essentials or a quick snack, the convenience of an on-site minimarket is a welcome feature. The guest house also boasts a lush garden, providing a perfect setting for guests to unwind and soak in the natural beauty of the surroundings.
 

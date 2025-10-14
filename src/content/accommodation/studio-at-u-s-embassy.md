@@ -1,4 +1,87 @@
----\ntitle: "Studio at U.S Embassy"\ndescription: "Studio at U."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503147656.jpg?k=5896288db849e42fed8fe9d8e244d6160634440f461d608789c5625fd4f0e97b&o=&hp=1"\nlanguage: en\nslug: studio-at-u-s-embassy\naddress: "Rruga Jan Kukuzeli, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32182777\n  lng: 19.82817966\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 15\nratings:\n  overall: 9.9\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503147656.jpg?k=5896288db849e42fed8fe9d8e244d6160634440f461d608789c5625fd4f0e97b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503147867.jpg?k=96addc1000a98b196f511a806a8cf3926cd97503117e1de559f03a6f9255e029&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148702.jpg?k=d99ef1ec0e4f8ad5515ebf4fff1c9b2406c2e05585e0aa047cf3819bd5a55a7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148162.jpg?k=70fc34feca7f5ae564bd9a1461cdbeebcf9e5ae35378a0c2da94cce7e02da1f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148011.jpg?k=766882e83e923efb5eef386bb261a680c965fb22537ea2d622a13b7ed02a3ccc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148724.jpg?k=e2d6e8d0e1888a2d1d1c13210d846513bf0a0de83ef51bc07be927e5e0ff2ea7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148522.jpg?k=9371aed9c14666180ded97d577309a5da0e7576635c44d0d59b94cce6967c5bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148672.jpg?k=4bdf653ef2726dee231d33d6f74d1ffc8be6509cf11f4429002a4000847ec291&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148071.jpg?k=c293c2118969ef851e1f8b66790d66d1922784ec1d286e930de2e345e6946521&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Clock Tower Tirana 950 m"\n  - "Skanderbeg Square 1,000 m"\n  - "Grand Park of Tirana 1.1 km"\n  - "House of Leaves 1.1 km"\n  - "National Museum of History Albania 1.2 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Sushi Dragon 30 m"\n  - "Bar Kafe 100 m"\nwhatsNearby:\n  - "Shesh Rekreativ 150 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 350 m"\n  - "Sheshi Rekreativ Piramida 550 m"\n  - "Tanners' Bridge 550 m"\n  - "Shesh Rekreativ 700 m"\n  - "Sheshi Rekreativ tek ish ATSh 700 m"\n  - "Parku I Madh 700 m"\n  - "National Gallery of Arts Tirana 800 m"\n  - "Parku Rinia 850 m"\n  - "Rinia Park 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Marisa"\n    country: "France"\n    text: "“The property was clean and we can find all the facilities.”"\n  - name: "Leonora"\n    country: "Italy"\n    text: "“Struttura bella pulita e attrezzata di tutto quello che serviva, la posizione ottima per girare a piedi e visitare il centro di Tirana”"\n  - name: "Mario"\n    country: "Albania"\n    text: "“The place was amazing for a weekend getaway as the location was perfect! Close to everything important in Tirana and a very peaceful neighborhood.”"\nbookingURL: "https://www.booking.com/hotel/al/studio-at-us-embassy.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nThis air-conditioned 1-bedroom apartment is a haven of modern amenities, featuring free WiFi, a flat-screen TV, and a washing machine. The fully equipped kitchen, complete with an oven and fridge, allows guests the freedom to prepare their meals, adding a touch of home-away-from-home comfort. The provision of towels and bed linen further enhances the stay, ensuring a hassle-free experience.
+---
+title: "Studio at U.S Embassy"
+description: "Studio at U."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503147656.jpg?k=5896288db849e42fed8fe9d8e244d6160634440f461d608789c5625fd4f0e97b&o=&hp=1"
+language: en
+slug: studio-at-u-s-embassy
+address: "Rruga Jan Kukuzeli, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32182777
+  lng: 19.82817966
+price: "US$40"
+priceFrom: 40
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 15
+ratings:
+  overall: 9.9
+  location: 9.7
+  cleanliness: 9.5
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503147656.jpg?k=5896288db849e42fed8fe9d8e244d6160634440f461d608789c5625fd4f0e97b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503147867.jpg?k=96addc1000a98b196f511a806a8cf3926cd97503117e1de559f03a6f9255e029&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148702.jpg?k=d99ef1ec0e4f8ad5515ebf4fff1c9b2406c2e05585e0aa047cf3819bd5a55a7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148162.jpg?k=70fc34feca7f5ae564bd9a1461cdbeebcf9e5ae35378a0c2da94cce7e02da1f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148011.jpg?k=766882e83e923efb5eef386bb261a680c965fb22537ea2d622a13b7ed02a3ccc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148724.jpg?k=e2d6e8d0e1888a2d1d1c13210d846513bf0a0de83ef51bc07be927e5e0ff2ea7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148522.jpg?k=9371aed9c14666180ded97d577309a5da0e7576635c44d0d59b94cce6967c5bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148672.jpg?k=4bdf653ef2726dee231d33d6f74d1ffc8be6509cf11f4429002a4000847ec291&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503148071.jpg?k=c293c2118969ef851e1f8b66790d66d1922784ec1d286e930de2e345e6946521&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 900 m"
+  - "Clock Tower Tirana 950 m"
+  - "Skanderbeg Square 1,000 m"
+  - "Grand Park of Tirana 1.1 km"
+  - "House of Leaves 1.1 km"
+  - "National Museum of History Albania 1.2 km"
+  - "Bunk'Art 1 Museum 4.1 km"
+nearbyRestaurants:
+  - "Sushi Dragon 30 m"
+  - "Bar Kafe 100 m"
+whatsNearby:
+  - "Shesh Rekreativ 150 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 350 m"
+  - "Sheshi Rekreativ Piramida 550 m"
+  - "Tanners' Bridge 550 m"
+  - "Shesh Rekreativ 700 m"
+  - "Sheshi Rekreativ tek ish ATSh 700 m"
+  - "Parku I Madh 700 m"
+  - "National Gallery of Arts Tirana 800 m"
+  - "Parku Rinia 850 m"
+  - "Rinia Park 900 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Marisa"
+    country: "France"
+    text: "“The property was clean and we can find all the facilities.”"
+  - name: "Leonora"
+    country: "Italy"
+    text: "“Struttura bella pulita e attrezzata di tutto quello che serviva, la posizione ottima per girare a piedi e visitare il centro di Tirana”"
+  - name: "Mario"
+    country: "Albania"
+    text: "“The place was amazing for a weekend getaway as the location was perfect! Close to everything important in Tirana and a very peaceful neighborhood.”"
+bookingURL: "https://www.booking.com/hotel/al/studio-at-us-embassy.en-gb.html?aid=8035640"
+bestFor: "Best for Location"
+bestCategories: "Location"
+category: "Location"
+---
+
+This air-conditioned 1-bedroom apartment is a haven of modern amenities, featuring free WiFi, a flat-screen TV, and a washing machine. The fully equipped kitchen, complete with an oven and fridge, allows guests the freedom to prepare their meals, adding a touch of home-away-from-home comfort. The provision of towels and bed linen further enhances the stay, ensuring a hassle-free experience.
 
 One of the standout features of Studio at U.S. Embassy is its strategic location. Within close proximity, guests will find the Toptani Shopping Centre, the National Gallery of Arts Tirana, and the historic Tanners' Bridge. Additionally, the property is just a stone's throw away from the Former Residence of Enver Hoxha, offering a unique glimpse into the country's past.
 

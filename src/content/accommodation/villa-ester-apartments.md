@@ -1,4 +1,93 @@
----\ntitle: "Villa Ester & Apartments"\ndescription: "Villa Ester & Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë, situated a mere 44 km from the serene Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148243198.jpg?k=de890da119d218afc04762f3aa7c710c99c0a7dcbbea99cab693b386f90fadce&o=&hp=1"\nlanguage: en\nslug: villa-ester-apartments\naddress: "Rruga Jorgjia Lubonja, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.61290588\n  lng: 20.78043312\nprice: "US$48"\npriceFrom: 48\nstarRating: 4\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 344\nratings:\n  overall: 9.7\n  location: 9.5\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.7\n  staff: 9.8\n  wifi: 9.7\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148243198.jpg?k=de890da119d218afc04762f3aa7c710c99c0a7dcbbea99cab693b386f90fadce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275356605.jpg?k=a99c141c5b324d89b0afc2053644c946dde3d2cc41dedf11b5d35599e11e064a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148243604.jpg?k=98df5871fa4e7236e799ec3748a8398408f6052f7bf0b22b6d7a5bcff7ebf29d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275702621.jpg?k=b0e23832d55b7621bda3323d4080747d6388b6e9b9c64d6d3e96a9b302f9ebe9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122014496.jpg?k=a606e0cd7763662b05d6a9b86d6ec8b800ab995e58c9f55aa6e3a4f40b06e618&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148487940.jpg?k=e7e535c8e39ffa60f8ca4ff2bfde5ca2433fe8583139b9f5a7199009ebf7e53e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room"\n  - "Standard Double Room"\n  - "Standard King Room"\n  - "Deluxe King Room"\n  - "Deluxe Double or Twin Room with Balcony"\n  - "Standard Triple Room"\n  - "Junior Suite"\nnearbyRestaurants:\n  - "Joen 100 m"\n  - "Olge 200 m"\nwhatsNearby:\n  - "Sheshi Patriku Joasaf 350 m"\n  - "Parku Vangjush Mio 400 m"\n  - "Parku Rinia 400 m"\n  - "Parku Themistokli Gërmenji 650 m"\n  - "Field of Tears 700 m"\n  - "Parku Rinia 1.5 km"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 11 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 62 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Irena"\n    country: "Greece"\n    text: "“The place was perfect.You definitely have to visit it.”"\n  - name: "Enxhi"\n    country: "United Kingdom"\n    text: "“Had an amazing stay at Villa Ester. The staff was very welcoming and friendly. The level of cleanliness exceeded all expectations, everything was impeccably clean. The breakfast was a mix of delicious Albanian dishes and continental options,...”"\n  - name: "Richard"\n    country: "Czech Republic"\n    text: "“Beautiful accommodation in the city center, great breakfast, very helpful and friendly staff. I highly recommend it. Tastefully and modernly furnished rooms, a charming spirit throughout the accommodation”"\nbookingURL: "https://www.booking.com/hotel/al/villa-ester.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe attention to detail is evident in each room, boasting a wardrobe, a desk, and a flat-screen TV for entertainment needs. Select accommodations also feature a balcony, offering guests a private outdoor space to unwind. Comfort is further enhanced with the provision of quality bed linen and towels in all rooms.
+---
+title: "Villa Ester & Apartments"
+description: "Villa Ester & Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë, situated a mere 44 km from the serene Ohrid Lake Springs."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148243198.jpg?k=de890da119d218afc04762f3aa7c710c99c0a7dcbbea99cab693b386f90fadce&o=&hp=1"
+language: en
+slug: villa-ester-apartments
+address: "Rruga Jorgjia Lubonja, 7001 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.61290588
+  lng: 20.78043312
+price: "US$48"
+priceFrom: 48
+starRating: 4
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 344
+ratings:
+  overall: 9.7
+  location: 9.5
+  cleanliness: 9.8
+  facilities: 9.6
+  value: 9.6
+  comfort: 9.7
+  staff: 9.8
+  wifi: 9.7
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148243198.jpg?k=de890da119d218afc04762f3aa7c710c99c0a7dcbbea99cab693b386f90fadce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275356605.jpg?k=a99c141c5b324d89b0afc2053644c946dde3d2cc41dedf11b5d35599e11e064a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148243604.jpg?k=98df5871fa4e7236e799ec3748a8398408f6052f7bf0b22b6d7a5bcff7ebf29d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275702621.jpg?k=b0e23832d55b7621bda3323d4080747d6388b6e9b9c64d6d3e96a9b302f9ebe9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122014496.jpg?k=a606e0cd7763662b05d6a9b86d6ec8b800ab995e58c9f55aa6e3a4f40b06e618&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148487940.jpg?k=e7e535c8e39ffa60f8ca4ff2bfde5ca2433fe8583139b9f5a7199009ebf7e53e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Double Room"
+  - "Standard Double Room"
+  - "Standard King Room"
+  - "Deluxe King Room"
+  - "Deluxe Double or Twin Room with Balcony"
+  - "Standard Triple Room"
+  - "Junior Suite"
+nearbyRestaurants:
+  - "Joen 100 m"
+  - "Olge 200 m"
+whatsNearby:
+  - "Sheshi Patriku Joasaf 350 m"
+  - "Parku Vangjush Mio 400 m"
+  - "Parku Rinia 400 m"
+  - "Parku Themistokli Gërmenji 650 m"
+  - "Field of Tears 700 m"
+  - "Parku Rinia 1.5 km"
+  - "Sheshi Panxhar 6 km"
+  - "Sheshi Koço Plaku 11 km"
+  - "Sheshi Penetori 13 km"
+airports:
+  - "Kastoria National Airport 45 km"
+  - "Ohrid Airport 62 km"
+  - "Kozani National Airport 96 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Irena"
+    country: "Greece"
+    text: "“The place was perfect.You definitely have to visit it.”"
+  - name: "Enxhi"
+    country: "United Kingdom"
+    text: "“Had an amazing stay at Villa Ester. The staff was very welcoming and friendly. The level of cleanliness exceeded all expectations, everything was impeccably clean. The breakfast was a mix of delicious Albanian dishes and continental options,...”"
+  - name: "Richard"
+    country: "Czech Republic"
+    text: "“Beautiful accommodation in the city center, great breakfast, very helpful and friendly staff. I highly recommend it. Tastefully and modernly furnished rooms, a charming spirit throughout the accommodation”"
+bookingURL: "https://www.booking.com/hotel/al/villa-ester.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The attention to detail is evident in each room, boasting a wardrobe, a desk, and a flat-screen TV for entertainment needs. Select accommodations also feature a balcony, offering guests a private outdoor space to unwind. Comfort is further enhanced with the provision of quality bed linen and towels in all rooms.
 
 Culinary experiences at Villa Ester & Apartments are nothing short of exceptional, with the on-site restaurant priding itself on a menu that spans seafood delicacies, alongside international and European dishes, catering to a variety of palates.
 

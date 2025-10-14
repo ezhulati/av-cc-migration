@@ -1,4 +1,76 @@
----\ntitle: "Skanderbeg Flat in Tirana Center"\ndescription: "Skanderbeg Flat in Tirana Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197163.jpg?k=653f77b36b94826fe418b939a189332abc8677c8eca7ee18326dc36a9f6261d5&o=&hp=1"\nlanguage: en\nslug: skanderbeg-flat-in-tirana-center\naddress: "Rruga e Dibrës, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33066191\n  lng: 19.82114867\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.8\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 8.8\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197163.jpg?k=653f77b36b94826fe418b939a189332abc8677c8eca7ee18326dc36a9f6261d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197293.jpg?k=4150710c33003fb7ec0d9b8ff23988e611ceb7064aa0e024609fc3c5f4a0955c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197426.jpg?k=e95690cc079b01565f2b8c3e9103b98c3ee8dca7ffb51a64c756c9604953fd4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197419.jpg?k=98bbb9e35d35433bf0c00d3161a1b73dd6156c3d9353a027d06a31327daba38f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197268.jpg?k=585f749404c58ab348106f0e7d09a335404d7f31f2ccc2a645642a729e6dc62d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197376.jpg?k=9dc2c0832c4972df643975bcfefef3e809475a9410cee6328d91c45c0790e6b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197388.jpg?k=e44563a0bae266d18956bfed5c12868ca3cf9e5c621a244293cbfd41879792be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197409.jpg?k=fb392981646eb06cc630328cd328b600aaaf8653e5735ccc40c6b2dfcd91114a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197236.jpg?k=a6343a6b4e20eb5e9c1b2c938a06b67a33566b697e3d3b8e3ebdc1401b12df21&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 600 m"\n  - "Tanners' Bridge 600 m"\n  - "Rinia Park 700 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Kolonat 30 m"\n  - "LAngolo 50 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 250 m"\n  - "National Museum of History Albania 350 m"\n  - "Clock Tower Tirana 350 m"\n  - "Amazing Nature 350 m"\n  - "Skanderbeg Square 350 m"\n  - "Sheshi Skënderbej 350 m"\n  - "Parku Europa 400 m"\n  - "National Gallery of Arts Tirana 500 m"\n  - "Sheshi Rekreativ tek ish ATSh 500 m"\n  - "Sheshi Paris 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/skanderbeg-flat-in-tirana-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis elegantly appointed apartment features a single bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom, ensuring a stay that combines both luxury and practicality. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by the convenience of free WiFi available throughout the premises, making it easy for guests to stay connected. Emphasizing a smoke-free environment, Skanderbeg Flat ensures a clean and healthy atmosphere for all its guests.
+---
+title: "Skanderbeg Flat in Tirana Center"
+description: "Skanderbeg Flat in Tirana Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197163.jpg?k=653f77b36b94826fe418b939a189332abc8677c8eca7ee18326dc36a9f6261d5&o=&hp=1"
+language: en
+slug: skanderbeg-flat-in-tirana-center
+address: "Rruga e Dibrës, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33066191
+  lng: 19.82114867
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 9.8
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 8.8
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197163.jpg?k=653f77b36b94826fe418b939a189332abc8677c8eca7ee18326dc36a9f6261d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197293.jpg?k=4150710c33003fb7ec0d9b8ff23988e611ceb7064aa0e024609fc3c5f4a0955c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197426.jpg?k=e95690cc079b01565f2b8c3e9103b98c3ee8dca7ffb51a64c756c9604953fd4e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197419.jpg?k=98bbb9e35d35433bf0c00d3161a1b73dd6156c3d9353a027d06a31327daba38f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197268.jpg?k=585f749404c58ab348106f0e7d09a335404d7f31f2ccc2a645642a729e6dc62d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197376.jpg?k=9dc2c0832c4972df643975bcfefef3e809475a9410cee6328d91c45c0790e6b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197388.jpg?k=e44563a0bae266d18956bfed5c12868ca3cf9e5c621a244293cbfd41879792be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197409.jpg?k=fb392981646eb06cc630328cd328b600aaaf8653e5735ccc40c6b2dfcd91114a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519197236.jpg?k=a6343a6b4e20eb5e9c1b2c938a06b67a33566b697e3d3b8e3ebdc1401b12df21&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 600 m"
+  - "Tanners' Bridge 600 m"
+  - "Rinia Park 700 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 2.1 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Kolonat 30 m"
+  - "LAngolo 50 m"
+whatsNearby:
+  - "Sheshi Sulejman Pasha 250 m"
+  - "National Museum of History Albania 350 m"
+  - "Clock Tower Tirana 350 m"
+  - "Amazing Nature 350 m"
+  - "Skanderbeg Square 350 m"
+  - "Sheshi Skënderbej 350 m"
+  - "Parku Europa 400 m"
+  - "National Gallery of Arts Tirana 500 m"
+  - "Sheshi Rekreativ tek ish ATSh 500 m"
+  - "Sheshi Paris 550 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/skanderbeg-flat-in-tirana-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This elegantly appointed apartment features a single bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom, ensuring a stay that combines both luxury and practicality. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by the convenience of free WiFi available throughout the premises, making it easy for guests to stay connected. Emphasizing a smoke-free environment, Skanderbeg Flat ensures a clean and healthy atmosphere for all its guests.
 
 For those looking to explore beyond the immediate vicinity, the apartment is conveniently located near the National Theatre of Opera and Ballet of Albania, the National Museum of History, and the Toptani Shopping Centre, offering a diverse mix of cultural, historical, and retail experiences. Accessibility is further enhanced by the proximity to Tirana International Mother Teresa Airport, just 14 km away, making arrivals and departures as smooth as possible.
 

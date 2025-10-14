@@ -1,4 +1,84 @@
----\ntitle: "Dolce Studio"\ndescription: "Dolce Studio emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë, positioned just a stone's throw away from the pristine La Petite Beach and a leisurely stroll from the vibrant VIP Beach."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"\nlanguage: en\nslug: dolce-studio\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86421487\n  lng: 20.01842981\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.3\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 10\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/rs/f2eab0e7a8259fc3db34eb38096cb24d7c7e8f9b.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472445361.jpg?k=114487fd8553d54da6a8b736409d733637229bc528eb2cb489c11bf32d604aab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472445333.jpg?k=75ece5bbcb93c05373d40a2b99e800ab8fd439c986030e2d2eb526cda133f60c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/472445303.jpg?k=a4b5eff8d119a0a818983c62602ee61d2aaee3cab833b024e3832495b40bc1d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/421616202.jpg?k=385b045c1733ebed86baa5d724ded8b8f53620d4ec8b0286a424bca5d167bbaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/332995831.jpg?k=fac1307d5ad2acde2f8be862ee406934566e0c59fd463c465809adffd61e4823&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/332995827.jpg?k=59730e04b658bbc0f9c3ac5868f9f78e07a43924f3aeed3942e4c964215770d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/332997198.jpg?k=362613d9b74411ec933f4566cc9adc0412390a05be194095dc4212e6a9d5f5db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472445396.jpg?k=da6a939e3a022ad34f9f8a105c4e040e9fb07af654d9078d47a2530fa48da5ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/472439172.jpg?k=b080f01e597df17c803c70100fe35443ef5527d21a00b0df37ab97e573b78b40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/421616043.jpg?k=72753fe169a463a0cb45f900c8ee2fc0e9ae104ce10f30643ea35a507875fa90&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Summer Kiss Food & Drinks 30 m"\n  - "Nertili 100 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 550 m"\n  - "VIP Beach 600 m"\n  - "Santa Quaranta Beach 650 m"\n  - "Flamingo Beach 900 m"\nwhatsNearby:\n  - "Parc National de Butrint 800 m"\n  - "Butrint National Park 1.7 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Sara"\n    country: "Serbia"\n    text: "“Studio je opremljen u potpunosti, nov i čist. Najbliža plaža je na 5 minuta hoda. Osoblje uvek na raspolaganju za sva pitanja i dogovor.”"\n  - name: "Francesco"\n    country: "Italy"\n    text: "“La posizione è molto comoda, la struttura è situata vicino alle belle spiagge di Saranda (Santi Quaranta/Mango beach e molte altre) ed allo stesso tempo vicina al lungomare/porto dove si può uscire la sera inoltre fornisce tutti i servizi...”"\nbookingURL: "https://www.booking.com/hotel/al/dolce-studio.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a world of comfort with the studio's air-conditioned spaces, where every detail is designed for relaxation. The apartment boasts a bedroom that is both spacious and inviting, alongside a fully equipped kitchen that caters to all culinary needs. The inclusion of towels and bed linen ensures a hassle-free stay, allowing guests to focus on unwinding and enjoying their surroundings.
+---
+title: "Dolce Studio"
+description: "Dolce Studio emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë, positioned just a stone's throw away from the pristine La Petite Beach and a leisurely stroll from the vibrant VIP Beach."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+language: en
+slug: dolce-studio
+address: "Rruga Butrinti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86421487
+  lng: 20.01842981
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 3
+ratings:
+  overall: 9.3
+  location: 9.2
+  cleanliness: 9.2
+  facilities: 9.2
+  value: 10
+  comfort: 9.2
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+  - "https://cf.bstatic.com/static/img/flags/12/rs/f2eab0e7a8259fc3db34eb38096cb24d7c7e8f9b.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472445361.jpg?k=114487fd8553d54da6a8b736409d733637229bc528eb2cb489c11bf32d604aab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/472445333.jpg?k=75ece5bbcb93c05373d40a2b99e800ab8fd439c986030e2d2eb526cda133f60c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/472445303.jpg?k=a4b5eff8d119a0a818983c62602ee61d2aaee3cab833b024e3832495b40bc1d7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/421616202.jpg?k=385b045c1733ebed86baa5d724ded8b8f53620d4ec8b0286a424bca5d167bbaa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/332995831.jpg?k=fac1307d5ad2acde2f8be862ee406934566e0c59fd463c465809adffd61e4823&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/332995827.jpg?k=59730e04b658bbc0f9c3ac5868f9f78e07a43924f3aeed3942e4c964215770d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/332997198.jpg?k=362613d9b74411ec933f4566cc9adc0412390a05be194095dc4212e6a9d5f5db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/472445396.jpg?k=da6a939e3a022ad34f9f8a105c4e040e9fb07af654d9078d47a2530fa48da5ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/472439172.jpg?k=b080f01e597df17c803c70100fe35443ef5527d21a00b0df37ab97e573b78b40&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/421616043.jpg?k=72753fe169a463a0cb45f900c8ee2fc0e9ae104ce10f30643ea35a507875fa90&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Terrace"
+nearbyRestaurants:
+  - "Summer Kiss Food & Drinks 30 m"
+  - "Nertili 100 m"
+nearbyBeaches:
+  - "Maestral Beach 300 m"
+  - "La Petite Beach 550 m"
+  - "VIP Beach 600 m"
+  - "Santa Quaranta Beach 650 m"
+  - "Flamingo Beach 900 m"
+whatsNearby:
+  - "Parc National de Butrint 800 m"
+  - "Butrint National Park 1.7 km"
+  - "Plazhi I Krorezes 7 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 11 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Sara"
+    country: "Serbia"
+    text: "“Studio je opremljen u potpunosti, nov i čist. Najbliža plaža je na 5 minuta hoda. Osoblje uvek na raspolaganju za sva pitanja i dogovor.”"
+  - name: "Francesco"
+    country: "Italy"
+    text: "“La posizione è molto comoda, la struttura è situata vicino alle belle spiagge di Saranda (Santi Quaranta/Mango beach e molte altre) ed allo stesso tempo vicina al lungomare/porto dove si può uscire la sera inoltre fornisce tutti i servizi...”"
+bookingURL: "https://www.booking.com/hotel/al/dolce-studio.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are welcomed into a world of comfort with the studio's air-conditioned spaces, where every detail is designed for relaxation. The apartment boasts a bedroom that is both spacious and inviting, alongside a fully equipped kitchen that caters to all culinary needs. The inclusion of towels and bed linen ensures a hassle-free stay, allowing guests to focus on unwinding and enjoying their surroundings.
 
 One of the studio's highlights is its access to a terrace, where breathtaking sea views await. This outdoor space, complete with dining area, invites guests to savor their meals against the backdrop of the Adriatic Sea, making for unforgettable dining experiences under the sky.
 

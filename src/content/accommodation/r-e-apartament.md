@@ -1,4 +1,69 @@
----\ntitle: "R&E Apartament"\ndescription: "R&E Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://lh3.googleusercontent.com/a/ACg8ocIR7jfBZ3AAvdXcQ5oGhj_cWt-2uAMbLzEwkCRKN1yegdM=s96-c64"\nlanguage: en\nslug: r-e-apartament\naddress: "Rruga Uji i Ftohte, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42954811\n  lng: 19.49497324\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a/ACg8ocIR7jfBZ3AAvdXcQ5oGhj_cWt-2uAMbLzEwkCRKN1yegdM=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500808267.jpg?k=c796974300a5e8a6d9e6c7f5ce87aa096ffeb0bb7feb6a64d33fbd7ece20f73b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808242.jpg?k=368f97fca61e0e4f1d1a6b211b644ba16dd67ee88865a4e973d4b9c0616932d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808262.jpg?k=494e4698c8fafdf975ec39158512a996fd4de463a8001cf25a5ee17df4bfda38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808271.jpg?k=6c262c255c7a66e31eef3c0413991cd133102c65ba98f18c39dd04d4685d0020&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808273.jpg?k=668bd66ce9f08e53617b8da301eb4025d8b3e72f59d82f91331239ddb54010a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808274.jpg?k=9381b252bcf70bfab953e3ac3843dd98f028a493df0115ece4cc97a3cbfa02c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808277.jpg?k=1ab23f4c3d8b00d7b3001aa868ed9bad9273da66f71e0d67c5abe5cd7b41c7e6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Mareluna 100 m"\n  - "Bar Restorant Piceri Xhokla 250 m"\nnearbyBeaches:\n  - "Ri Beach 200 m"\n  - "Beach at Government Villas 1.3 km"\n  - "Vlore Beach 1.5 km"\n  - "Liro Beach 2 km"\n  - "Vjetër Beach 2.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 750 m"\n  - "Kuzum Baba 4.2 km"\n  - "Independence Square 4.6 km"\nreviews:\n  - name: "Ebdi"\n    country: "Albania"\n    text: "“It was very welcoming and the owner picked me up and gave me alot info about the city and places where to go. The apartament it had a amazing sea view. The apartament has everything i needed. 🤩🤩 i will be back again in summer”"\nbookingURL: "https://www.booking.com/hotel/al/r-amp-e-apartament.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment doesn't just offer a place to stay; it provides a haven with city and sea views that can be enjoyed from the privacy of its balcony. The interior boasts a modern aesthetic with a flat-screen TV, a fully equipped kitchen complete with a dishwasher, oven, and fridge, and a bathroom outfitted with a bidet and complimentary slippers, ensuring guests have everything they need for a comfortable stay.
+---
+title: "R&E Apartament"
+description: "R&E Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
+featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocIR7jfBZ3AAvdXcQ5oGhj_cWt-2uAMbLzEwkCRKN1yegdM=s96-c64"
+language: en
+slug: r-e-apartament
+address: "Rruga Uji i Ftohte, 9405 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.42954811
+  lng: 19.49497324
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://lh3.googleusercontent.com/a/ACg8ocIR7jfBZ3AAvdXcQ5oGhj_cWt-2uAMbLzEwkCRKN1yegdM=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500808267.jpg?k=c796974300a5e8a6d9e6c7f5ce87aa096ffeb0bb7feb6a64d33fbd7ece20f73b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808242.jpg?k=368f97fca61e0e4f1d1a6b211b644ba16dd67ee88865a4e973d4b9c0616932d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808262.jpg?k=494e4698c8fafdf975ec39158512a996fd4de463a8001cf25a5ee17df4bfda38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808271.jpg?k=6c262c255c7a66e31eef3c0413991cd133102c65ba98f18c39dd04d4685d0020&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808273.jpg?k=668bd66ce9f08e53617b8da301eb4025d8b3e72f59d82f91331239ddb54010a1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808274.jpg?k=9381b252bcf70bfab953e3ac3843dd98f028a493df0115ece4cc97a3cbfa02c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/500808277.jpg?k=1ab23f4c3d8b00d7b3001aa868ed9bad9273da66f71e0d67c5abe5cd7b41c7e6&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Mareluna 100 m"
+  - "Bar Restorant Piceri Xhokla 250 m"
+nearbyBeaches:
+  - "Ri Beach 200 m"
+  - "Beach at Government Villas 1.3 km"
+  - "Vlore Beach 1.5 km"
+  - "Liro Beach 2 km"
+  - "Vjetër Beach 2.7 km"
+whatsNearby:
+  - "Scooby Doo Vlore 750 m"
+  - "Kuzum Baba 4.2 km"
+  - "Independence Square 4.6 km"
+reviews:
+  - name: "Ebdi"
+    country: "Albania"
+    text: "“It was very welcoming and the owner picked me up and gave me alot info about the city and places where to go. The apartament it had a amazing sea view. The apartament has everything i needed. 🤩🤩 i will be back again in summer”"
+bookingURL: "https://www.booking.com/hotel/al/r-amp-e-apartament.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This air-conditioned apartment doesn't just offer a place to stay; it provides a haven with city and sea views that can be enjoyed from the privacy of its balcony. The interior boasts a modern aesthetic with a flat-screen TV, a fully equipped kitchen complete with a dishwasher, oven, and fridge, and a bathroom outfitted with a bidet and complimentary slippers, ensuring guests have everything they need for a comfortable stay.
 
 For those who prefer the convenience of preparing their meals or need to grab something on the go, a minimarket on the premises caters to guests' immediate needs. 
 

@@ -1,5 +1,88 @@
----\ntitle: "Tirana Center Cozy Apartment"\ndescription: "Tirana Center Cozy Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858243.jpg?k=c3dca58954e4b60b3be912da68dbb29258c9fae91b1a5dc8668ebb80fc019011&o=&hp=1"\nlanguage: en\nslug: tirana-center-cozy-apartment\naddress: "Bulevardi Zhan D'Ark, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3275151\n  lng: 19.82716582\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 72\nratings:\n  overall: 9.8\n  location: 9.8\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.7\n  comfort: 9.7\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858243.jpg?k=c3dca58954e4b60b3be912da68dbb29258c9fae91b1a5dc8668ebb80fc019011&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858072.jpg?k=407207f5202dcab65394a5fa1e7fac1dbc1904b2a63aa22c14aeb3f706ab142a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858087.jpg?k=2418abb04e6b6df4bbc7ba7e6a3ab4dd0f5669063713746f88820294643b0408&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423359132.jpg?k=f1b14c807161ecd6f0ccb798a7a628f7b9cc3734077979084deca550d657a9b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858460.jpg?k=8a861487a4a62d9d719eb8969a5ef1862de583c7db797fbd4dabbf5a9d3e55f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858161.jpg?k=8c5f71c8c200f517786834e85c5a655ea44823584538c2554e72fb50568b37ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858429.jpg?k=8d8d9393b865947323597531f8bba9ee5aa3b47566fbd6b2b6b955aab69487a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858467.jpg?k=1866f4e6721c3867477440745212a1bdb7eb6f3f5ebe4ac2e9923f8ec564d274&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858470.jpg?k=96968b03afd9ef300a377b5100aba42527902826b00e3f4aa2118cff669b0a21&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Rinia Park 800 m"\n  - "National Museum of History Albania 850 m"\n  - "House of Leaves 900 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 1.7 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Vila 60 50 m"\n  - "Taverna Vasili-2 Tiranë 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 50 m"\n  - "Tanners' Bridge 150 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Sheshi Rekreativ Piramida 600 m"\n  - "Clock Tower Tirana 600 m"\n  - "Skanderbeg Square 650 m"\n  - "Parku Europa 650 m"\n  - "Parku Rinia 700 m"\n  - "Shesh Rekreativ 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Warre"\n    country: "Belgium"\n    text: "“A really great apartment, exactly as shown in the pictures. Very friendly host and an amazing location.”"\n  - name: "Gillian"\n    country: "Australia"\n    text: "“Great apartment in a good location. Host fantastic to deal with. Great to have kitchen and washing machine. A few flights of stairs, but not a problem for us . Very spacious and comfortable”"\n  - name: "Anoobapro"\n    country: "Italy"\n    text: "“First thing I noticed it was the fresh smell and the clean apartment which followed on my eyesight.
-The host is quite an amazing guy and always with a smile on his face. I would recommend everyone who comes here with their family. Very recommended...”"\nbookingURL: "https://www.booking.com/hotel/al/cozy-apartment-near-city-center-tirana1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis recently updated apartment, with its roots stretching back to 1991, offers guests a modern retreat without sacrificing its charming character. The non-smoking premises boast a generous layout that includes two bedrooms, a living room adorned with a flat-screen TV, and a balcony that presents captivating city views. The kitchen, equipped with a dishwasher and an oven, caters to those who enjoy the comforts of home-cooked meals, while the inclusion of two bathrooms, one with a bidet, adds an extra layer of convenience.
+---
+title: "Tirana Center Cozy Apartment"
+description: "Tirana Center Cozy Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858243.jpg?k=c3dca58954e4b60b3be912da68dbb29258c9fae91b1a5dc8668ebb80fc019011&o=&hp=1"
+language: en
+slug: tirana-center-cozy-apartment
+address: "Bulevardi Zhan D'Ark, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3275151
+  lng: 19.82716582
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 72
+ratings:
+  overall: 9.8
+  location: 9.8
+  cleanliness: 9.6
+  facilities: 9.6
+  value: 9.7
+  comfort: 9.7
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858243.jpg?k=c3dca58954e4b60b3be912da68dbb29258c9fae91b1a5dc8668ebb80fc019011&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858072.jpg?k=407207f5202dcab65394a5fa1e7fac1dbc1904b2a63aa22c14aeb3f706ab142a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858087.jpg?k=2418abb04e6b6df4bbc7ba7e6a3ab4dd0f5669063713746f88820294643b0408&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423359132.jpg?k=f1b14c807161ecd6f0ccb798a7a628f7b9cc3734077979084deca550d657a9b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858460.jpg?k=8a861487a4a62d9d719eb8969a5ef1862de583c7db797fbd4dabbf5a9d3e55f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858161.jpg?k=8c5f71c8c200f517786834e85c5a655ea44823584538c2554e72fb50568b37ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858429.jpg?k=8d8d9393b865947323597531f8bba9ee5aa3b47566fbd6b2b6b955aab69487a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858467.jpg?k=1866f4e6721c3867477440745212a1bdb7eb6f3f5ebe4ac2e9923f8ec564d274&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858470.jpg?k=96968b03afd9ef300a377b5100aba42527902826b00e3f4aa2118cff669b0a21&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking on site"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Rinia Park 800 m"
+  - "National Museum of History Albania 850 m"
+  - "House of Leaves 900 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 1.7 km"
+  - "Bunk'Art 1 Museum 3.7 km"
+nearbyRestaurants:
+  - "Vila 60 50 m"
+  - "Taverna Vasili-2 Tiranë 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek ish ATSh 50 m"
+  - "Tanners' Bridge 150 m"
+  - "Sheshi Sulejman Pasha 450 m"
+  - "National Gallery of Arts Tirana 550 m"
+  - "Sheshi Rekreativ Piramida 600 m"
+  - "Clock Tower Tirana 600 m"
+  - "Skanderbeg Square 650 m"
+  - "Parku Europa 650 m"
+  - "Parku Rinia 700 m"
+  - "Shesh Rekreativ 800 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Warre"
+    country: "Belgium"
+    text: "“A really great apartment, exactly as shown in the pictures. Very friendly host and an amazing location.”"
+  - name: "Gillian"
+    country: "Australia"
+    text: "“Great apartment in a good location. Host fantastic to deal with. Great to have kitchen and washing machine. A few flights of stairs, but not a problem for us . Very spacious and comfortable”"
+  - name: "Anoobapro"
+    country: "Italy"
+    text: "“First thing I noticed it was the fresh smell and the clean apartment which followed on my eyesight.
+The host is quite an amazing guy and always with a smile on his face. I would recommend everyone who comes here with their family. Very recommended...”"
+bookingURL: "https://www.booking.com/hotel/al/cozy-apartment-near-city-center-tirana1.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This recently updated apartment, with its roots stretching back to 1991, offers guests a modern retreat without sacrificing its charming character. The non-smoking premises boast a generous layout that includes two bedrooms, a living room adorned with a flat-screen TV, and a balcony that presents captivating city views. The kitchen, equipped with a dishwasher and an oven, caters to those who enjoy the comforts of home-cooked meals, while the inclusion of two bathrooms, one with a bidet, adds an extra layer of convenience.
 
 For guests who value connectivity, complimentary WiFi access ensures that staying in touch or planning the next day's adventures is effortlessly within reach. The apartment's location on a quiet street further guarantees a peaceful stay, allowing visitors to unwind in tranquility after a day of exploration.
 

@@ -1,3 +1,61 @@
----\ntitle: "Mishel House - Lovely rental unit in CityCenter"\ndescription: "Mishel House is a charming choice for travelers seeking convenience and comfort in the heart of Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399049.jpg?k=974a334662fc5906a175c1407a0b26b5e11d74036bee3c35de36b787ea28c664&o=&hp=1"\nlanguage: en\nslug: mishel-house-lovely-rental-unit-in-citycenter\naddress: "Rruga Berdicej, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.06597785\n  lng: 19.51714581\nprice: "US$34"\npriceFrom: 34\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 4\nratings:\n  overall: 9.1\n  location: 10\n  cleanliness: 8.8\n  facilities: 8.1\n  value: 8.8\n  comfort: 9.4\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399049.jpg?k=974a334662fc5906a175c1407a0b26b5e11d74036bee3c35de36b787ea28c664&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399237.jpg?k=173bda55aa67ebdabab0038976aa7b4e6c9e5f02b6ec239bd4a64c4400fb2dbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399218.jpg?k=859cc9521f5debfcd69389c0bb2a550b351ac61533a64a769532a500f0e84904&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399164.jpg?k=26d5d2fd768d509b2b8c92a012ff2dec4261a8db041de4cf402e44c6fe54e182&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399187.jpg?k=af89a8ebba1514effe47e1e0692878e3a2e4be8f2ea7cb459ebcbfc785cc630b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399225.jpg?k=a4f65e4bb62ab11115ee2585722d53ef12f9e274a6b256ebd3a8cdd85856b28e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399229.jpg?k=5fdca64ec43e860df90caf4c571f593f32069e08f103a7590a68278e40eb5914&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399201.jpg?k=214900e8659333fe1d704053f0d0dd8f8593cd1ac847bd05712d329c987b9b44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399138.jpg?k=2480dcdf4a74d176c644bc17cee07c681bb3ae6ffcad170fa962448610ef2bfc&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "ArtiZanave 50 m"\n  - "Pastiçeri Enoteka 100 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.9 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\nbookingURL: "https://www.booking.com/hotel/al/mishel-house-lovely-rental-unit-in-citycenter.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis appealing rental unit offers complimentary private parking, making it a hassle-free option for those arriving by car. Located just 50 km from the Port of Bar, it presents an ideal base for exploring the surrounding area. 
+---
+title: "Mishel House - Lovely rental unit in CityCenter"
+description: "Mishel House is a charming choice for travelers seeking convenience and comfort in the heart of Shkodër."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399049.jpg?k=974a334662fc5906a175c1407a0b26b5e11d74036bee3c35de36b787ea28c664&o=&hp=1"
+language: en
+slug: mishel-house-lovely-rental-unit-in-citycenter
+address: "Rruga Berdicej, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.06597785
+  lng: 19.51714581
+price: "US$34"
+priceFrom: 34
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 4
+ratings:
+  overall: 9.1
+  location: 10
+  cleanliness: 8.8
+  facilities: 8.1
+  value: 8.8
+  comfort: 9.4
+  staff: 9.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399049.jpg?k=974a334662fc5906a175c1407a0b26b5e11d74036bee3c35de36b787ea28c664&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399237.jpg?k=173bda55aa67ebdabab0038976aa7b4e6c9e5f02b6ec239bd4a64c4400fb2dbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399218.jpg?k=859cc9521f5debfcd69389c0bb2a550b351ac61533a64a769532a500f0e84904&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399164.jpg?k=26d5d2fd768d509b2b8c92a012ff2dec4261a8db041de4cf402e44c6fe54e182&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399187.jpg?k=af89a8ebba1514effe47e1e0692878e3a2e4be8f2ea7cb459ebcbfc785cc630b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399225.jpg?k=a4f65e4bb62ab11115ee2585722d53ef12f9e274a6b256ebd3a8cdd85856b28e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399229.jpg?k=5fdca64ec43e860df90caf4c571f593f32069e08f103a7590a68278e40eb5914&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399201.jpg?k=214900e8659333fe1d704053f0d0dd8f8593cd1ac847bd05712d329c987b9b44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399138.jpg?k=2480dcdf4a74d176c644bc17cee07c681bb3ae6ffcad170fa962448610ef2bfc&o=&hp=1"
+amenities:
+  - "Free parking"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "ArtiZanave 50 m"
+  - "Pastiçeri Enoteka 100 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.9 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+  - "Tivat Airport 74 km"
+bookingURL: "https://www.booking.com/hotel/al/mishel-house-lovely-rental-unit-in-citycenter.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This appealing rental unit offers complimentary private parking, making it a hassle-free option for those arriving by car. Located just 50 km from the Port of Bar, it presents an ideal base for exploring the surrounding area. 
 
 Podgorica Airport is a mere 58 km away for guests flying in, ensuring easy access to and from this delightful accommodation.

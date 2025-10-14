@@ -1,5 +1,105 @@
----\ntitle: "Hotel Ardiani"\ndescription: "Hotel Ardiani stands out as a prime choice for travelers seeking both comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364197187.jpg?k=8891604b3139cbe7879e6524b83cb7d2c5d7f591ad8e648b042b412c79aedb58&o=&hp=1"\nlanguage: en\nslug: hotel-ardiani\naddress: "rruga butrinti ksamil sheshi 4valltart, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.77259176\n  lng: 20.00408558\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 31\nratings:\n  overall: 8.9\n  location: 9.4\n  cleanliness: 8.9\n  facilities: 8.2\n  value: 8.5\n  comfort: 8.7\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364197187.jpg?k=8891604b3139cbe7879e6524b83cb7d2c5d7f591ad8e648b042b412c79aedb58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297862034.jpg?k=8179f14addb35dbab5daec43183b26c4ed2c3260e775381d7487cb08a5699d60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296543009.jpg?k=8cbbfd10d1ea5feebcbdda416ce51d6b3f06b6e5c4641a65397e3b65295058d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247397212.jpg?k=0507b45934ae6813a4e12ff83d57743d7931c22b7ecfe0e40b5c0cfc29674674&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296543384.jpg?k=67c3c5661a61f947d224872a6c16fbab822e2f896e4ccd283dd03d0b3eea2721&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297862000.jpg?k=6189a307a98357735998144683920c19f3977c6b0000c917b3e8bcc47fbd4036&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296543793.jpg?k=ab1c6bc61dd68cd7b3d28ae1c4c5bb3b80f9b2dc4779ff80c9bcef3e7f461887&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364369821.jpg?k=3185d859ac1c8d0d46b159cfa57d2fa8e3b77a56eb07e241d4c8571e3580d428&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364369797.jpg?k=b6e07e004ffb4b738528fdd301fbe8b996666b51d4d371a479b32b837259e4a7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Room"\n  - "Comfort Triple Room"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 19 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 20 km"\nnearbyRestaurants:\n  - "Islands Lounge 20 m"\n  - "Pizzeria Ring 30 m"\nnearbyBeaches:\n  - "Ksamil Beach 150 m"\n  - "Coco Beach 450 m"\n  - "Bora Bora Beach 500 m"\n  - "Ksamil Beach 7 500 m"\n  - "Ksamil Beach 9 650 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 600 m"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 3.1 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 18 km"\n  - "Public Garden 18 km"\n  - "Solomos Museum 18 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 20 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Lynsey"\n    country: "Ireland"\n    text: "“The hotel was centrally located. Shared Balcony to the front and rear to enjoy sunset and our room also had its own balcony. The staff were exceptional went above and beyond to help with taxi, recommendations and even printing our tickets for the...”"\n  - name: "Bana"\n    country: "Ireland"\n    text: "“This hotel is close to everything including beaches, shops and bus stops. Has a big supermarket in front and many restaurants close by. The view from the balcony was incredible”"\n  - name: "Emily"\n    country: "Australia"\n    text: "“Wonderful friendly staff, especially Mary. Location close to the beach
-Ocean views from our balcony”"\nbookingURL: "https://www.booking.com/hotel/al/island.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBeyond its enviable location, Hotel Ardiani prides itself on providing a range of amenities designed to enhance every stay. Guests can expect to find well-appointed rooms featuring air conditioning for those warm summer days, a desk for any work or planning needs, and a flat-screen TV for entertainment. The inclusion of a private bathroom, complete with fresh bed linen and towels, adds a touch of home comfort. Moreover, select rooms boast balconies with breathtaking sea views, allowing guests to wake up to the serene beauty of the Adriatic Sea.
+---
+title: "Hotel Ardiani"
+description: "Hotel Ardiani stands out as a prime choice for travelers seeking both comfort and convenience in the heart of Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364197187.jpg?k=8891604b3139cbe7879e6524b83cb7d2c5d7f591ad8e648b042b412c79aedb58&o=&hp=1"
+language: en
+slug: hotel-ardiani
+address: "rruga butrinti ksamil sheshi 4valltart, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.77259176
+  lng: 20.00408558
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 31
+ratings:
+  overall: 8.9
+  location: 9.4
+  cleanliness: 8.9
+  facilities: 8.2
+  value: 8.5
+  comfort: 8.7
+  staff: 9.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364197187.jpg?k=8891604b3139cbe7879e6524b83cb7d2c5d7f591ad8e648b042b412c79aedb58&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297862034.jpg?k=8179f14addb35dbab5daec43183b26c4ed2c3260e775381d7487cb08a5699d60&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296543009.jpg?k=8cbbfd10d1ea5feebcbdda416ce51d6b3f06b6e5c4641a65397e3b65295058d7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247397212.jpg?k=0507b45934ae6813a4e12ff83d57743d7931c22b7ecfe0e40b5c0cfc29674674&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296543384.jpg?k=67c3c5661a61f947d224872a6c16fbab822e2f896e4ccd283dd03d0b3eea2721&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297862000.jpg?k=6189a307a98357735998144683920c19f3977c6b0000c917b3e8bcc47fbd4036&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296543793.jpg?k=ab1c6bc61dd68cd7b3d28ae1c4c5bb3b80f9b2dc4779ff80c9bcef3e7f461887&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364369821.jpg?k=3185d859ac1c8d0d46b159cfa57d2fa8e3b77a56eb07e241d4c8571e3580d428&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364369797.jpg?k=b6e07e004ffb4b738528fdd301fbe8b996666b51d4d371a479b32b837259e4a7&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Airport shuttle"
+  - "Free WiFi"
+  - "Free parking"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Deluxe Room"
+  - "Comfort Triple Room"
+nearbyAttractions:
+  - "Museum of Banknotes 18 km"
+  - "New Fortress 18 km"
+  - "Serbian Museum 18 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 19 km"
+  - "Ntougkla Square 19 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 20 km"
+nearbyRestaurants:
+  - "Islands Lounge 20 m"
+  - "Pizzeria Ring 30 m"
+nearbyBeaches:
+  - "Ksamil Beach 150 m"
+  - "Coco Beach 450 m"
+  - "Bora Bora Beach 500 m"
+  - "Ksamil Beach 7 500 m"
+  - "Ksamil Beach 9 650 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 600 m"
+  - "Butrint National Park 2.7 km"
+  - "Plazhi I Krorezes 3.1 km"
+  - "Parc National de Butrint 10 km"
+  - "Byzantine Museum 18 km"
+  - "Public Garden 18 km"
+  - "Solomos Museum 18 km"
+  - "Asian Art Museum 18 km"
+  - "Old Fortress 18 km"
+airports:
+  - "Corfu International Airport 20 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Lynsey"
+    country: "Ireland"
+    text: "“The hotel was centrally located. Shared Balcony to the front and rear to enjoy sunset and our room also had its own balcony. The staff were exceptional went above and beyond to help with taxi, recommendations and even printing our tickets for the...”"
+  - name: "Bana"
+    country: "Ireland"
+    text: "“This hotel is close to everything including beaches, shops and bus stops. Has a big supermarket in front and many restaurants close by. The view from the balcony was incredible”"
+  - name: "Emily"
+    country: "Australia"
+    text: "“Wonderful friendly staff, especially Mary. Location close to the beach
+Ocean views from our balcony”"
+bookingURL: "https://www.booking.com/hotel/al/island.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Beyond its enviable location, Hotel Ardiani prides itself on providing a range of amenities designed to enhance every stay. Guests can expect to find well-appointed rooms featuring air conditioning for those warm summer days, a desk for any work or planning needs, and a flat-screen TV for entertainment. The inclusion of a private bathroom, complete with fresh bed linen and towels, adds a touch of home comfort. Moreover, select rooms boast balconies with breathtaking sea views, allowing guests to wake up to the serene beauty of the Adriatic Sea.
 
 The hotel doesn't stop at comfortable accommodations. It also offers a restaurant and bar where guests can unwind and savor local flavors, alongside the convenience of free private parking and complimentary WiFi throughout the property. For those looking to explore, an ATM, a tour desk, and currency exchange services are readily available on-site, ensuring a hassle-free experience.
 

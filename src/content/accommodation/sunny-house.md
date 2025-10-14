@@ -1,4 +1,73 @@
----\ntitle: "SUNNY House"\ndescription: "SUNNY House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153470.jpg?k=034e3b86596a1a7cf005fba2696d1de6271ce179bc020226f77070ebb1d3d00f&o=&hp=1"\nlanguage: en\nslug: sunny-house\naddress: "Rruga Kujtim Laro, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33810475\n  lng: 19.84115126\nprice: "US$33"\npriceFrom: 33\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.8\n  location: 8.9\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153470.jpg?k=034e3b86596a1a7cf005fba2696d1de6271ce179bc020226f77070ebb1d3d00f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153674.jpg?k=ceb503914ac943bc5e06482f7d27633520edef00917f3d94c344dde7611cbe87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153573.jpg?k=5f273e5cb1f92114e38c05ee95af0dcdb31b80518acc363a651f825709f5f423&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153605.jpg?k=2602b41971003626b3685124c345b5590595895dfe2d7471e889444160e625bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153678.jpg?k=0bb696f2182bce13edf4a51b924a0264069806db4b22240bede800ed92252a81&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153670.jpg?k=876f6fae8251d1f1bb8e2e06ae6f598d72358b3419337c37d3bbf07e09a7d095&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153640.jpg?k=f9f57c18e68375dd16df688e02e564b515415f5f473a3a5c299265912919ec2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501293389.jpg?k=720d8078effc438a13dbfbaf2d0b574780a997318c801839e023f38ffd388797&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153760.jpg?k=02874187a7ab6d9bc100ada674c0b1c6bb15477d5f159c52cc50ff954a106c18&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 2.2 km"\n  - "Skanderbeg Square 2.2 km"\n  - "National Museum of History Albania 2.2 km"\n  - "Rinia Park 2.4 km"\n  - "House of Leaves 2.4 km"\n  - "Former Residence of Enver Hoxha 2.8 km"\n  - "Grand Park of Tirana 3.2 km"\nreviews:\n  - name: "Fatjon"\n    country: "United Kingdom"\n    text: "“The house has everything for a needed far a family of 5 and the commodity of 2 toilets. The kitchen is fully equipped but does not really need to use it because all the facilities are a few steps way from the property shops ,good...”"\n  - name: "Paula"\n    country: "United Kingdom"\n    text: "“The hosts were amazing and provided us with great tips and guidance about Tirana. Also the location great, very close to cafes and good restaurants, quite easy to find parking space.”"\n  - name: "Arkadiusz"\n    country: "Poland"\n    text: "“Fantastyczny kontakt z właścicielem obiektu! Mieszkanie niezwykle czyste i urządzone w taki sposób, że niczego tam nie brakowało! Wifi działało bez żadnych zakłóceń. Mieszkanie świetnie wyposażone - było bardzo dużo naczyń, kosmetyki, a nawet...”"\nbookingURL: "https://www.booking.com/hotel/al/sunny-house-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned apartment doesn't just offer a place to stay; it provides a home away from home with its spacious layout that includes 2 bedrooms, a balcony for those serene morning coffees, and complimentary WiFi to keep guests connected. The inclusion of a flat-screen TV equipped with streaming services ensures entertainment is always at hand, while the fully equipped kitchen, boasting a dishwasher, oven, washing machine, toaster, and fridge, invites guests to prepare their meals just the way they like them. For added convenience, towels and bed linen are readily available in this non-smoking and soundproof sanctuary.
+---
+title: "SUNNY House"
+description: "SUNNY House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153470.jpg?k=034e3b86596a1a7cf005fba2696d1de6271ce179bc020226f77070ebb1d3d00f&o=&hp=1"
+language: en
+slug: sunny-house
+address: "Rruga Kujtim Laro, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33810475
+  lng: 19.84115126
+price: "US$33"
+priceFrom: 33
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 8
+ratings:
+  overall: 9.8
+  location: 8.9
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153470.jpg?k=034e3b86596a1a7cf005fba2696d1de6271ce179bc020226f77070ebb1d3d00f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153674.jpg?k=ceb503914ac943bc5e06482f7d27633520edef00917f3d94c344dde7611cbe87&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153573.jpg?k=5f273e5cb1f92114e38c05ee95af0dcdb31b80518acc363a651f825709f5f423&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153605.jpg?k=2602b41971003626b3685124c345b5590595895dfe2d7471e889444160e625bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153678.jpg?k=0bb696f2182bce13edf4a51b924a0264069806db4b22240bede800ed92252a81&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153670.jpg?k=876f6fae8251d1f1bb8e2e06ae6f598d72358b3419337c37d3bbf07e09a7d095&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153640.jpg?k=f9f57c18e68375dd16df688e02e564b515415f5f473a3a5c299265912919ec2e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501293389.jpg?k=720d8078effc438a13dbfbaf2d0b574780a997318c801839e023f38ffd388797&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153760.jpg?k=02874187a7ab6d9bc100ada674c0b1c6bb15477d5f159c52cc50ff954a106c18&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 2.2 km"
+  - "Skanderbeg Square 2.2 km"
+  - "National Museum of History Albania 2.2 km"
+  - "Rinia Park 2.4 km"
+  - "House of Leaves 2.4 km"
+  - "Former Residence of Enver Hoxha 2.8 km"
+  - "Grand Park of Tirana 3.2 km"
+reviews:
+  - name: "Fatjon"
+    country: "United Kingdom"
+    text: "“The house has everything for a needed far a family of 5 and the commodity of 2 toilets. The kitchen is fully equipped but does not really need to use it because all the facilities are a few steps way from the property shops ,good...”"
+  - name: "Paula"
+    country: "United Kingdom"
+    text: "“The hosts were amazing and provided us with great tips and guidance about Tirana. Also the location great, very close to cafes and good restaurants, quite easy to find parking space.”"
+  - name: "Arkadiusz"
+    country: "Poland"
+    text: "“Fantastyczny kontakt z właścicielem obiektu! Mieszkanie niezwykle czyste i urządzone w taki sposób, że niczego tam nie brakowało! Wifi działało bez żadnych zakłóceń. Mieszkanie świetnie wyposażone - było bardzo dużo naczyń, kosmetyki, a nawet...”"
+bookingURL: "https://www.booking.com/hotel/al/sunny-house-tirane.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This air-conditioned apartment doesn't just offer a place to stay; it provides a home away from home with its spacious layout that includes 2 bedrooms, a balcony for those serene morning coffees, and complimentary WiFi to keep guests connected. The inclusion of a flat-screen TV equipped with streaming services ensures entertainment is always at hand, while the fully equipped kitchen, boasting a dishwasher, oven, washing machine, toaster, and fridge, invites guests to prepare their meals just the way they like them. For added convenience, towels and bed linen are readily available in this non-smoking and soundproof sanctuary.
 
 Beyond the confines of SUNNY House, guests will find a variety of dining options to suit any palate, all within close proximity. The property's location also offers easy access to notable attractions such as the Former Residence of Enver Hoxha, the Rock of Kavaje, and the Bektashi World Centre, all adding to the appeal for those keen to explore Tirana's historical and cultural offerings.
 

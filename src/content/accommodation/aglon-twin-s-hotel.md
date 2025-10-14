@@ -1,6 +1,87 @@
----\ntitle: "Aglon Twin's Hotel"\ndescription: "Aglon Twin's Hotel, located in the vibrant heart of Vlorë and a mere stone's throw from the pristine Ri Beach, emerges as a prime choice for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776183.jpg?k=a644264c9ba872ea0023dba41e2becb714676cf146acb643251833e0f7d21f3f&o=&hp=1"\nlanguage: en\nslug: aglon-twin-s-hotel\naddress: "Rruga Dhimitër Konomi Lagjia Uji i Ftohte, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.42996888\n  lng: 19.49401093\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776183.jpg?k=a644264c9ba872ea0023dba41e2becb714676cf146acb643251833e0f7d21f3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503600881.jpg?k=d4ceace3e62fb0ccdd6d7901ea57f5aa99d267cb425333300f5c5e9ca9979a74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503600643.jpg?k=87282d7d8283f6fb96d19b1e4504c140578a6c472263bb59bae9e8f0c9a01c43&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503600890.jpg?k=d4b3a7d89a24183db804f7daba9d0cdd4889e6dad7592ff1eb9ff1ec379a606d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776431.jpg?k=3400b682f4b962b8e6b86f91729f04c2c48d02a86ea9b4830c5b4644a6467c97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776499.jpg?k=0575b4d5fb027bb11e1b8a2f0137ffe506a3de86af8de16a956fd11b89102aea&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony and Sea View"\n  - "Deluxe Double Room with Side Sea View"\n  - "Deluxe Double Room with Side Sea View"\n  - "Deluxe Triple Room"\n  - "Two-Bedroom Suite"\nnearbyRestaurants:\n  - "Mareluna 30 m"\n  - "Kompleksi Sunset Vlore 150 m"\nnearbyBeaches:\n  - "Ri Beach 100 m"\n  - "Beach at Government Villas 1.3 km"\n  - "Vlore Beach 1.4 km"\n  - "Liro Beach 2 km"\n  - "Vjetër Beach 2.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 700 m"\n  - "Kuzum Baba 4.2 km"\n  - "Independence Square 4.5 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "An"\n    country: "Albania"\n    text: "“Nice and new hotel. Aglon Twin’s is my favourite by far. Not only for the wonderful team but also for the management and service The view was amazing.
-The room was clean and had a lot of space. Great breakfast.”"\n  - name: "Alban"\n    country: "Albania"\n    text: "“Great Hotel.Close and free beach offer by hotel. Tasty breakfast and great coffy. Polite staff try always to help.”"\n  - name: "Xhesian"\n    country: "Albania"\n    text: "“I highly recommend Aglon Twins. New hotel just opened 1 months before. Very comfortable and luxurious. Good location near restaurants and grocerys.The beach is near and they offer us a place for free there. Tasty breakfast.
-Everything was great.”"\nbookingURL: "https://www.booking.com/hotel/al/aglon-twin-39-s-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon stepping into Aglon Twin's Hotel, guests are greeted with a plethora of amenities designed to enhance their stay. The hotel prides itself on its around-the-clock front desk service, ensuring assistance is always on hand, regardless of the hour. The allure of the sea is ever-present, with captivating sea views available to guests, serving as a constant reminder of the hotel's exceptional location.
+---
+title: "Aglon Twin's Hotel"
+description: "Aglon Twin's Hotel, located in the vibrant heart of Vlorë and a mere stone's throw from the pristine Ri Beach, emerges as a prime choice for travelers seeking both convenience and comfort."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776183.jpg?k=a644264c9ba872ea0023dba41e2becb714676cf146acb643251833e0f7d21f3f&o=&hp=1"
+language: en
+slug: aglon-twin-s-hotel
+address: "Rruga Dhimitër Konomi Lagjia Uji i Ftohte, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.42996888
+  lng: 19.49401093
+price: "US$86"
+priceFrom: 86
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 4
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776183.jpg?k=a644264c9ba872ea0023dba41e2becb714676cf146acb643251833e0f7d21f3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503600881.jpg?k=d4ceace3e62fb0ccdd6d7901ea57f5aa99d267cb425333300f5c5e9ca9979a74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503600643.jpg?k=87282d7d8283f6fb96d19b1e4504c140578a6c472263bb59bae9e8f0c9a01c43&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503600890.jpg?k=d4b3a7d89a24183db804f7daba9d0cdd4889e6dad7592ff1eb9ff1ec379a606d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776431.jpg?k=3400b682f4b962b8e6b86f91729f04c2c48d02a86ea9b4830c5b4644a6467c97&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776499.jpg?k=0575b4d5fb027bb11e1b8a2f0137ffe506a3de86af8de16a956fd11b89102aea&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room with Balcony and Sea View"
+  - "Deluxe Double Room with Side Sea View"
+  - "Deluxe Double Room with Side Sea View"
+  - "Deluxe Triple Room"
+  - "Two-Bedroom Suite"
+nearbyRestaurants:
+  - "Mareluna 30 m"
+  - "Kompleksi Sunset Vlore 150 m"
+nearbyBeaches:
+  - "Ri Beach 100 m"
+  - "Beach at Government Villas 1.3 km"
+  - "Vlore Beach 1.4 km"
+  - "Liro Beach 2 km"
+  - "Vjetër Beach 2.7 km"
+whatsNearby:
+  - "Scooby Doo Vlore 700 m"
+  - "Kuzum Baba 4.2 km"
+  - "Independence Square 4.5 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "An"
+    country: "Albania"
+    text: "“Nice and new hotel. Aglon Twin’s is my favourite by far. Not only for the wonderful team but also for the management and service The view was amazing.
+The room was clean and had a lot of space. Great breakfast.”"
+  - name: "Alban"
+    country: "Albania"
+    text: "“Great Hotel.Close and free beach offer by hotel. Tasty breakfast and great coffy. Polite staff try always to help.”"
+  - name: "Xhesian"
+    country: "Albania"
+    text: "“I highly recommend Aglon Twins. New hotel just opened 1 months before. Very comfortable and luxurious. Good location near restaurants and grocerys.The beach is near and they offer us a place for free there. Tasty breakfast.
+Everything was great.”"
+bookingURL: "https://www.booking.com/hotel/al/aglon-twin-39-s-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Upon stepping into Aglon Twin's Hotel, guests are greeted with a plethora of amenities designed to enhance their stay. The hotel prides itself on its around-the-clock front desk service, ensuring assistance is always on hand, regardless of the hour. The allure of the sea is ever-present, with captivating sea views available to guests, serving as a constant reminder of the hotel's exceptional location.
 
 Accommodations at Aglon Twin's Hotel are thoughtfully appointed to cater to the needs of modern travelers. Each room is equipped with essential comforts such as air conditioning, a desk for those needing to stay connected, and a television for entertainment. For those desiring a little extra, select rooms also feature a balcony, offering a private outdoor space to unwind and soak in the surroundings. The attention to detail extends to the provision of quality bed linen and towels, ensuring a restful and rejuvenating experience.
 

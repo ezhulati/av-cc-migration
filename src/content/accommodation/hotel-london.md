@@ -1,4 +1,98 @@
----\ntitle: "Hotel LONDON"\ndescription: "Hotel LONDON emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781889.jpg?k=1f1e05350dd280199d7de6dc8f91e1612331193dba5b3284f2374ddb74bbc897&o=&hp=1"\nlanguage: en\nslug: hotel-london\naddress: "Bulevardi Zogu I nr 53, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33096804\n  lng: 19.81739624\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 1204\nratings:\n  overall: 9.4\n  location: 9.9\n  cleanliness: 9.4\n  facilities: 9.1\n  value: 9.4\n  comfort: 9.3\n  staff: 9.7\n  wifi: 9.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781889.jpg?k=1f1e05350dd280199d7de6dc8f91e1612331193dba5b3284f2374ddb74bbc897&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325760303.jpg?k=a146d9f9f94906c0575496cb7d1662359f4d666641b42b4953e9360424563271&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325780801.jpg?k=2be1c9471e6497c2da6c9f3e90cbb2473778feeceaf626ab78738dcf3dbadd0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781851.jpg?k=6e87c7c89cb619e8a80501ecaa39688812022f88724e213926c31562e99d0a98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331354839.jpg?k=a93dc8e02c0d31879e6fb49f9e1fe1fd4f50a318551bc845cbfeb6f5408de0cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403800880.jpg?k=f7d1e79ad2025cb6924e6493b6ad6504435db153920124ef489d2f54ec07fdac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781848.jpg?k=322e62a4bb95c30381525a301dad9344541b80dc97d9bc1bde86e89c0ed891ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348409774.jpg?k=96c44d5ad993b22b3b7a5b8fb9db012db92e435f9386dfc35a5b9d9cd293c704&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325795713.jpg?k=246a1ab57c5e24c1829a76342d6b9c903341b56f01bf447ccddcaad9c6c4b212&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781988.jpg?k=16f10991b4eb83e3aec23caac791c879a28b2d59fdd942ee2fb24fe4a9f7da76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325795731.jpg?k=da930541929be27bd16be214ffbbb241e1b0827aeecdefffaf53681422e83d08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325796130.jpg?k=0b415e076344787e873e725b4e72740133ce0619756cc2092bf4e9292856ab1f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Double Room"\n  - "Double Room"\nnearbyAttractions:\n  - "Rinia Park 700 m"\n  - "Tanners' Bridge 900 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Hotel London 20 m"\n  - "Mase 30 m"\nwhatsNearby:\n  - "National Museum of History Albania 150 m"\n  - "Sheshi Paris 250 m"\n  - "Sheshi Skënderbej 300 m"\n  - "Amazing Nature 300 m"\n  - "Skanderbeg Square 400 m"\n  - "Clock Tower Tirana 400 m"\n  - "Parku Europa 400 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "House of Leaves 500 m"\n  - "National Gallery of Arts Tirana 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Hilmi"\n    country: "Turkey"\n    text: "“There was a very helpful and friendly team. The breakfast was also very sufficient and delicious.”"\n  - name: "Stephen"\n    country: "United Kingdom"\n    text: "“Staff very friendly and helpful. Good variety at breakfast. Great location just off skanderbeg square.”"\n  - name: "Acton"\n    country: "United Kingdom"\n    text: "“Everything this is our second time back to the hotel London, arrived back to the most friendly hotel rooms very clean and comfortable booked a meal which was first class,after a great sleep we were offered a vast selection of breakfast we choose...”"\nbookingURL: "https://www.booking.com/hotel/al/london-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe proximity of Hotel LONDON to notable landmarks such as the Clock Tower Tirana, Et'hem Bey Mosque, and the National Theatre of Opera and Ballet of Albania makes it an ideal base for exploring the rich cultural tapestry of the city. For those looking to unwind within the hotel, the snack bar stands ready to serve a selection of refreshing drinks.
+---
+title: "Hotel LONDON"
+description: "Hotel LONDON emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781889.jpg?k=1f1e05350dd280199d7de6dc8f91e1612331193dba5b3284f2374ddb74bbc897&o=&hp=1"
+language: en
+slug: hotel-london
+address: "Bulevardi Zogu I nr 53, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.33096804
+  lng: 19.81739624
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 1204
+ratings:
+  overall: 9.4
+  location: 9.9
+  cleanliness: 9.4
+  facilities: 9.1
+  value: 9.4
+  comfort: 9.3
+  staff: 9.7
+  wifi: 9.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781889.jpg?k=1f1e05350dd280199d7de6dc8f91e1612331193dba5b3284f2374ddb74bbc897&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325760303.jpg?k=a146d9f9f94906c0575496cb7d1662359f4d666641b42b4953e9360424563271&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325780801.jpg?k=2be1c9471e6497c2da6c9f3e90cbb2473778feeceaf626ab78738dcf3dbadd0c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781851.jpg?k=6e87c7c89cb619e8a80501ecaa39688812022f88724e213926c31562e99d0a98&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331354839.jpg?k=a93dc8e02c0d31879e6fb49f9e1fe1fd4f50a318551bc845cbfeb6f5408de0cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403800880.jpg?k=f7d1e79ad2025cb6924e6493b6ad6504435db153920124ef489d2f54ec07fdac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781848.jpg?k=322e62a4bb95c30381525a301dad9344541b80dc97d9bc1bde86e89c0ed891ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348409774.jpg?k=96c44d5ad993b22b3b7a5b8fb9db012db92e435f9386dfc35a5b9d9cd293c704&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325795713.jpg?k=246a1ab57c5e24c1829a76342d6b9c903341b56f01bf447ccddcaad9c6c4b212&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781988.jpg?k=16f10991b4eb83e3aec23caac791c879a28b2d59fdd942ee2fb24fe4a9f7da76&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325795731.jpg?k=da930541929be27bd16be214ffbbb241e1b0827aeecdefffaf53681422e83d08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325796130.jpg?k=0b415e076344787e873e725b4e72740133ce0619756cc2092bf4e9292856ab1f&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Superb breakfast"
+roomTypes:
+  - "Double Room"
+  - "Double Room"
+nearbyAttractions:
+  - "Rinia Park 700 m"
+  - "Tanners' Bridge 900 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 4.2 km"
+nearbyRestaurants:
+  - "Hotel London 20 m"
+  - "Mase 30 m"
+whatsNearby:
+  - "National Museum of History Albania 150 m"
+  - "Sheshi Paris 250 m"
+  - "Sheshi Skënderbej 300 m"
+  - "Amazing Nature 300 m"
+  - "Skanderbeg Square 400 m"
+  - "Clock Tower Tirana 400 m"
+  - "Parku Europa 400 m"
+  - "Sheshi Sulejman Pasha 450 m"
+  - "House of Leaves 500 m"
+  - "National Gallery of Arts Tirana 600 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Hilmi"
+    country: "Turkey"
+    text: "“There was a very helpful and friendly team. The breakfast was also very sufficient and delicious.”"
+  - name: "Stephen"
+    country: "United Kingdom"
+    text: "“Staff very friendly and helpful. Good variety at breakfast. Great location just off skanderbeg square.”"
+  - name: "Acton"
+    country: "United Kingdom"
+    text: "“Everything this is our second time back to the hotel London, arrived back to the most friendly hotel rooms very clean and comfortable booked a meal which was first class,after a great sleep we were offered a vast selection of breakfast we choose...”"
+bookingURL: "https://www.booking.com/hotel/al/london-tirane.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The proximity of Hotel LONDON to notable landmarks such as the Clock Tower Tirana, Et'hem Bey Mosque, and the National Theatre of Opera and Ballet of Albania makes it an ideal base for exploring the rich cultural tapestry of the city. For those looking to unwind within the hotel, the snack bar stands ready to serve a selection of refreshing drinks.
 
 Accommodations at Hotel LONDON are thoughtfully designed with the guest's comfort in mind. Each room is well-appointed with a desk, air conditioning, and a flat-screen TV, ensuring a restful and productive stay. The inclusion of a private bathroom equipped with a shower and complimentary toiletries adds to the convenience. Select rooms further enhance the experience with the addition of a balcony, offering guests a private outdoor space to relax.
 

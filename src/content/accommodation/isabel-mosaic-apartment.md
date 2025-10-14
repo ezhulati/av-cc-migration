@@ -1,4 +1,79 @@
----\ntitle: "Isabel Mosaic Apartment"\ndescription: "Discover the charm of Tirana from the comfort of Isabel Mosaic Apartment, a prime choice for travelers seeking both convenience and style."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954482.jpg?k=1e61be0dd069c17a9e0a01410f4156694931f8df1903b6fca160a99fd4d1b19b&o=&hp=1"\nlanguage: en\nslug: isabel-mosaic-apartment\naddress: "Rruga Naim Frashëri, Nr 109 2-nd floor, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32886549\n  lng: 19.80476855\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954482.jpg?k=1e61be0dd069c17a9e0a01410f4156694931f8df1903b6fca160a99fd4d1b19b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954563.jpg?k=290e96d141e6826f905ca100db9935c221939a0d604eb322cf8433a3008349b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954543.jpg?k=218933bb2d6d6da10191522c480c45b7239082e501c773f71a7ec1d09cc871a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954566.jpg?k=19953adf1d4a29a93c3945ebec72f84b17d0cc82491b23232303501a5eb0ac1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528145708.jpg?k=7b01d225cdf1bd47ac188a4a7ee726829693f3929502fba3c50c512660d36a1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954555.jpg?k=9378f9554b8b4d732417b7f37bf6aa8cc12e8e004c2afa534809a322558191a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527542825.jpg?k=3fa016500bd0809f3497b5373892304f40e4db7d4953508590661acaef9ec502&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527542858.jpg?k=8fcede4a5546ee5bd3a44dc35a7f2dbd4c1eaf1e88c78a140e0f64d5d06f8d3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527543164.jpg?k=1abf03846136ee665af750032b7918572fcbc3275d4a8c1a934739a5210e4910&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.2 km"\n  - "Rinia Park 1.2 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Tanners' Bridge 1.8 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Kava Bistro Bar 100 m"\n  - "Casa della Pasta Fresca 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 600 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 650 m"\n  - "Sheshi Rekreativ Parku 1Km 700 m"\n  - "Sheshi Rekreativ Sali Butka 750 m"\n  - "Sheshi Rekreativ Don Bosko 800 m"\n  - "Sheshi Paris 850 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 850 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 950 m"\n  - "House of Leaves 1 km"\n  - "National Museum of History Albania 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/isabel-mosaic-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe Isabel Mosaic Apartment itself is a testament to modern living, boasting two elegantly furnished bedrooms, a fully equipped kitchen for those who love to cook, and a bathroom designed with comfort in mind. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring guests have access to leisure at their fingertips. Emphasizing a smoke-free environment, the apartment ensures a clean and healthy stay for all guests.
+---
+title: "Isabel Mosaic Apartment"
+description: "Discover the charm of Tirana from the comfort of Isabel Mosaic Apartment, a prime choice for travelers seeking both convenience and style."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954482.jpg?k=1e61be0dd069c17a9e0a01410f4156694931f8df1903b6fca160a99fd4d1b19b&o=&hp=1"
+language: en
+slug: isabel-mosaic-apartment
+address: "Rruga Naim Frashëri, Nr 109 2-nd floor, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32886549
+  lng: 19.80476855
+price: "US$39"
+priceFrom: 39
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954482.jpg?k=1e61be0dd069c17a9e0a01410f4156694931f8df1903b6fca160a99fd4d1b19b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954563.jpg?k=290e96d141e6826f905ca100db9935c221939a0d604eb322cf8433a3008349b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954543.jpg?k=218933bb2d6d6da10191522c480c45b7239082e501c773f71a7ec1d09cc871a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954566.jpg?k=19953adf1d4a29a93c3945ebec72f84b17d0cc82491b23232303501a5eb0ac1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528145708.jpg?k=7b01d225cdf1bd47ac188a4a7ee726829693f3929502fba3c50c512660d36a1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954555.jpg?k=9378f9554b8b4d732417b7f37bf6aa8cc12e8e004c2afa534809a322558191a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527542825.jpg?k=3fa016500bd0809f3497b5373892304f40e4db7d4953508590661acaef9ec502&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527542858.jpg?k=8fcede4a5546ee5bd3a44dc35a7f2dbd4c1eaf1e88c78a140e0f64d5d06f8d3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527543164.jpg?k=1abf03846136ee665af750032b7918572fcbc3275d4a8c1a934739a5210e4910&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.2 km"
+  - "Rinia Park 1.2 km"
+  - "Clock Tower Tirana 1.3 km"
+  - "National Gallery of Arts Tirana 1.4 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Tanners' Bridge 1.8 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Kava Bistro Bar 100 m"
+  - "Casa della Pasta Fresca 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 600 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 650 m"
+  - "Sheshi Rekreativ Parku 1Km 700 m"
+  - "Sheshi Rekreativ Sali Butka 750 m"
+  - "Sheshi Rekreativ Don Bosko 800 m"
+  - "Sheshi Paris 850 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 850 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 950 m"
+  - "House of Leaves 1 km"
+  - "National Museum of History Albania 1.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/isabel-mosaic-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The Isabel Mosaic Apartment itself is a testament to modern living, boasting two elegantly furnished bedrooms, a fully equipped kitchen for those who love to cook, and a bathroom designed with comfort in mind. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring guests have access to leisure at their fingertips. Emphasizing a smoke-free environment, the apartment ensures a clean and healthy stay for all guests.
 
 Connectivity is never an issue, as free WiFi blankets the property, allowing guests to stay connected with the world or plan their next adventure in Tirana. For those interested in exploring the local culture and history, the apartment is conveniently located near the House of Leaves, Rinia Park, and the Clock Tower of Tirana, making it easy to immerse oneself in the local heritage.
 

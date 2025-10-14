@@ -1,4 +1,81 @@
----\ntitle: "WANDERLUST INN Harmony House - Vibrant Stay"\ndescription: "WANDERLUST INN Harmony House - Vibrant Stay emerges as a beacon of comfort and convenience for travelers exploring the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515105553.jpg?k=3e2d5eaeded5da12cfd35515f4180b96c1f1b60a82e53021a2c241798ebc6863&o=&hp=1"\nlanguage: en\nslug: wanderlust-inn-harmony-house-vibrant-stay\naddress: "Rruga e Elbasanit, 1009 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hostel"\ncoordinates:\n  lat: 41.3113155\n  lng: 19.8360997\nprice: "US$16"\npriceFrom: 16\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515105553.jpg?k=3e2d5eaeded5da12cfd35515f4180b96c1f1b60a82e53021a2c241798ebc6863&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105703.jpg?k=62daa641601062ec1d2ecf11544ab0d4c6372f941845214f407457055bec110c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105727.jpg?k=dee9787f6d38da52b7593ec9446a91ae10266a5bd56af2ef54c8141f594587ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105715.jpg?k=97470b59bf8fb6c89a73a7158c058e35837b97cb1da0fd1e534f92ee4933831c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105709.jpg?k=502286af435fc025eeb10fb7eb9623165b8ec87c5bb77c231602bbe5c9cff755&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/515536185.jpg?k=948c2eb239d639edf1f6406c9fc3c2cf58d115e12862a63b276bf3e9e6510f62&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Bed in 8-Bed Dormitory Room"\n  - "Bed in 6-Bed Mixed Dormitory Room"\n  - "Bed in 6-Bed Female Dormitory Room"\n  - "Bed in 8-Bed Mixed Dormitory Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 2.1 km"\n  - "Rinia Park 2.1 km"\n  - "Clock Tower Tirana 2.3 km"\n  - "Skanderbeg Square 2.3 km"\n  - "House of Leaves 2.4 km"\n  - "National Museum of History Albania 2.6 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Coco Bistro Tirana 1 m"\n  - "Primitivo Wine Cellar 100 m"\nwhatsNearby:\n  - "Parku I Madh 700 m"\n  - "Grand Park of Tirana 900 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1.2 km"\n  - "Sheshi Rekreativ Tika 1.2 km"\n  - "Shesh Rekreativ 1.2 km"\n  - "Shesh Rekreativ 1.6 km"\n  - "Parku I Madh I Tiranës (Grand Park) 1.7 km"\n  - "Sheshi Rekreativ Piramida 1.8 km"\n  - "Tanners' Bridge 1.9 km"\n  - "Former Residence of Enver Hoxha 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 77 km"\nbookingURL: "https://www.booking.com/hotel/al/wanderlust-inn-harmony-house-vibrant-stay.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nThe hostel prides itself on offering well-appointed rooms that come equipped with shared bathrooms, featuring bidets and hairdryers, ensuring guests enjoy both comfort and convenience. The added perk of free WiFi across the premises allows guests to stay connected with the world or plan their next adventure in Tirana.
+---
+title: "WANDERLUST INN Harmony House - Vibrant Stay"
+description: "WANDERLUST INN Harmony House - Vibrant Stay emerges as a beacon of comfort and convenience for travelers exploring the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515105553.jpg?k=3e2d5eaeded5da12cfd35515f4180b96c1f1b60a82e53021a2c241798ebc6863&o=&hp=1"
+language: en
+slug: wanderlust-inn-harmony-house-vibrant-stay
+address: "Rruga e Elbasanit, 1009 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hostel"
+coordinates:
+  lat: 41.3113155
+  lng: 19.8360997
+price: "US$16"
+priceFrom: 16
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515105553.jpg?k=3e2d5eaeded5da12cfd35515f4180b96c1f1b60a82e53021a2c241798ebc6863&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105703.jpg?k=62daa641601062ec1d2ecf11544ab0d4c6372f941845214f407457055bec110c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105727.jpg?k=dee9787f6d38da52b7593ec9446a91ae10266a5bd56af2ef54c8141f594587ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105715.jpg?k=97470b59bf8fb6c89a73a7158c058e35837b97cb1da0fd1e534f92ee4933831c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515105709.jpg?k=502286af435fc025eeb10fb7eb9623165b8ec87c5bb77c231602bbe5c9cff755&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/515536185.jpg?k=948c2eb239d639edf1f6406c9fc3c2cf58d115e12862a63b276bf3e9e6510f62&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Bed in 8-Bed Dormitory Room"
+  - "Bed in 6-Bed Mixed Dormitory Room"
+  - "Bed in 6-Bed Female Dormitory Room"
+  - "Bed in 8-Bed Mixed Dormitory Room"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 2.1 km"
+  - "Rinia Park 2.1 km"
+  - "Clock Tower Tirana 2.3 km"
+  - "Skanderbeg Square 2.3 km"
+  - "House of Leaves 2.4 km"
+  - "National Museum of History Albania 2.6 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+nearbyRestaurants:
+  - "Coco Bistro Tirana 1 m"
+  - "Primitivo Wine Cellar 100 m"
+whatsNearby:
+  - "Parku I Madh 700 m"
+  - "Grand Park of Tirana 900 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 1.2 km"
+  - "Sheshi Rekreativ Tika 1.2 km"
+  - "Shesh Rekreativ 1.2 km"
+  - "Shesh Rekreativ 1.6 km"
+  - "Parku I Madh I Tiranës (Grand Park) 1.7 km"
+  - "Sheshi Rekreativ Piramida 1.8 km"
+  - "Tanners' Bridge 1.9 km"
+  - "Former Residence of Enver Hoxha 1.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 13 km"
+  - "Ohrid Airport 77 km"
+bookingURL: "https://www.booking.com/hotel/al/wanderlust-inn-harmony-house-vibrant-stay.en-gb.html?aid=8035640"
+bestFor: "Best for Hostel Experience"
+bestCategories: "Hostel Experience"
+category: "Hostel Experience"
+---
+
+The hostel prides itself on offering well-appointed rooms that come equipped with shared bathrooms, featuring bidets and hairdryers, ensuring guests enjoy both comfort and convenience. The added perk of free WiFi across the premises allows guests to stay connected with the world or plan their next adventure in Tirana.
 
 Culinary needs are well catered to with a daily breakfast that spans buffet, à la carte, and continental options, promising a delightful start to the day. For those keen on exploring the local sights, the Postbllok - Checkpoint Monument is an easy 2.1 km away, and the Saint Paul Cathedral is accessible at 2.4 km, making WANDERLUST INN an ideal base for cultural excursions.
 

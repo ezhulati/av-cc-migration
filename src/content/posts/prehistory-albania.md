@@ -14,8 +14,6 @@ seo:
   robots: "index"
   metaTitle: "Albania Prehistory - The Dawn of Civilization 2000-167 BCE"
   metaDescription: "Explore the emergence of Illyrian societies in Albania during the Bronze and Iron Ages, their cultural achievements and resistance against Roman conquest."
-  focusKeyword: "albania prehistory"
-  robots: "index"
 ---
 
 ## The Dawn of Civilization

@@ -1,4 +1,70 @@
----\ntitle: "Hamiti Camping Center"\ndescription: "Hamiti Camping Center is a prime choice for travelers seeking a serene getaway in the Vlorë County region of Llogara."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749376.jpg?k=8839883134f39ac90f685b70d1147bbebcae05e71dff76683b658d9a4aa22a78&o=&hp=1"\nlanguage: en\nslug: hamiti-camping-center\naddress: "SH8, Llogara, 9401 Llogara, Albania"\ncity: "Llogara"\nlocation: "Llogara"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.210275\n  lng: 19.579126\nprice: "US$10"\npriceFrom: 10\nstarRating: 3\nrating: 5.7\nratingWords: "Below Average"\nnumberOfReviews: 2\nratings:\n  overall: 5.7\n  location: 8.8\n  cleanliness: 3.8\n  facilities: 3.8\n  value: 6.3\n  comfort: 5\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749376.jpg?k=8839883134f39ac90f685b70d1147bbebcae05e71dff76683b658d9a4aa22a78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749445.jpg?k=31cec198967e4f5204bafd0dec5fa0d0c58aba4a15304796f413b786f810973e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749476.jpg?k=5f62b283a4c6531199e6bb79299de1ad062d3b71c25357cf526b671182b326d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749452.jpg?k=b8f02259fd21b98be26a8bad293658328bc369e7cf95957912669df8a8c8d8fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749529.jpg?k=8f3e7d4fecfa31f7e297c17784e82264597d4dc466f5846f7b8de03334f98014&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749480.jpg?k=1a6a910606c76bb16302ff22b1abf264827eb29fc5167270afd123af2b124182&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749507.jpg?k=4e3f5e1ae432a6e6e1d1ca594d87b6c229a7ac69a51ae9a9a9b670414a6a7a05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749532.jpg?k=b853f537d14bbd68e66b5ce5db5af65f0945b57effbb12633477c9d38878be50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749451.jpg?k=73d7657bd5a3994c850e201cddbafba3caa5548341a90af64715712f3e9d3c48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749454.jpg?k=5f7d724a7a043c8192d200c1398fc53b501f86746c31dc7a10b03d52633e3016&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749459.jpg?k=04e2778ce5cbeef1e79df0a031df2d56188d3aef4378b819fd51893ee092718d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749461.jpg?k=4dd333f4be4d88113d6e5c6ab17f51a1dc4e95cb5e870a1d745b96ae25a398eb&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "Empty lot (bring your own tent)"\n  - "Empty Lot (Bring your own Caravan)"\nnearbyRestaurants:\n  - "Ristorante Hibraj 50 m"\n  - "Hamiti 100 m"\nnearbyBeaches:\n  - "Nazar Beach 4.2 km"\n  - "Palasa Beach 6 km"\n  - "Dhermi Beach 9 km"\n  - "Grama Bay Beach 9 km"\nwhatsNearby:\n  - "Llogora National Park 0 m"\nairports:\n  - "Corfu International Airport 72 km"\nbookingURL: "https://www.booking.com/hotel/al/hamiti-camping-center.en-gb.html?aid=8035640"\nbestFor: "Best for Camping"\nbestCategories: "Camping"\ncategory: "Camping"\n---\n\nJust 41 km away from the iconic Kuzum Baba and the historic Independence Square, this camping center combines convenience with tranquility. 
+---
+title: "Hamiti Camping Center"
+description: "Hamiti Camping Center is a prime choice for travelers seeking a serene getaway in the Vlorë County region of Llogara."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749376.jpg?k=8839883134f39ac90f685b70d1147bbebcae05e71dff76683b658d9a4aa22a78&o=&hp=1"
+language: en
+slug: hamiti-camping-center
+address: "SH8, Llogara, 9401 Llogara, Albania"
+city: "Llogara"
+location: "Llogara"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.210275
+  lng: 19.579126
+price: "US$10"
+priceFrom: 10
+starRating: 3
+rating: 5.7
+ratingWords: "Below Average"
+numberOfReviews: 2
+ratings:
+  overall: 5.7
+  location: 8.8
+  cleanliness: 3.8
+  facilities: 3.8
+  value: 6.3
+  comfort: 5
+  staff: 6.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749376.jpg?k=8839883134f39ac90f685b70d1147bbebcae05e71dff76683b658d9a4aa22a78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749445.jpg?k=31cec198967e4f5204bafd0dec5fa0d0c58aba4a15304796f413b786f810973e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749476.jpg?k=5f62b283a4c6531199e6bb79299de1ad062d3b71c25357cf526b671182b326d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749452.jpg?k=b8f02259fd21b98be26a8bad293658328bc369e7cf95957912669df8a8c8d8fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749529.jpg?k=8f3e7d4fecfa31f7e297c17784e82264597d4dc466f5846f7b8de03334f98014&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749480.jpg?k=1a6a910606c76bb16302ff22b1abf264827eb29fc5167270afd123af2b124182&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749507.jpg?k=4e3f5e1ae432a6e6e1d1ca594d87b6c229a7ac69a51ae9a9a9b670414a6a7a05&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749532.jpg?k=b853f537d14bbd68e66b5ce5db5af65f0945b57effbb12633477c9d38878be50&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749451.jpg?k=73d7657bd5a3994c850e201cddbafba3caa5548341a90af64715712f3e9d3c48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749454.jpg?k=5f7d724a7a043c8192d200c1398fc53b501f86746c31dc7a10b03d52633e3016&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749459.jpg?k=04e2778ce5cbeef1e79df0a031df2d56188d3aef4378b819fd51893ee092718d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749461.jpg?k=4dd333f4be4d88113d6e5c6ab17f51a1dc4e95cb5e870a1d745b96ae25a398eb&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+roomTypes:
+  - "Empty lot (bring your own tent)"
+  - "Empty Lot (Bring your own Caravan)"
+nearbyRestaurants:
+  - "Ristorante Hibraj 50 m"
+  - "Hamiti 100 m"
+nearbyBeaches:
+  - "Nazar Beach 4.2 km"
+  - "Palasa Beach 6 km"
+  - "Dhermi Beach 9 km"
+  - "Grama Bay Beach 9 km"
+whatsNearby:
+  - "Llogora National Park 0 m"
+airports:
+  - "Corfu International Airport 72 km"
+bookingURL: "https://www.booking.com/hotel/al/hamiti-camping-center.en-gb.html?aid=8035640"
+bestFor: "Best for Camping"
+bestCategories: "Camping"
+category: "Camping"
+---
+
+Just 41 km away from the iconic Kuzum Baba and the historic Independence Square, this camping center combines convenience with tranquility. 
 
 Guests can enjoy the comfort of modern amenities, such as free WiFi and a safety deposit box in each unit, alongside the charm of outdoor living with barbecue facilities and a lush garden. 
 

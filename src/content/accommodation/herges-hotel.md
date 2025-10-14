@@ -1,4 +1,90 @@
----\ntitle: "Herges Hotel"\ndescription: "Herges Hotel, located a mere 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67300335.jpg?k=b887a62e2945ab8005da0872c6a1992cc87faee1772522dc217eab54d05c3e67&o=&hp=1"\nlanguage: en\nslug: herges-hotel\naddress: "Rruga Lazer Murati, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32308301\n  lng: 19.47098672\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 154\nratings:\n  overall: 8.7\n  location: 7\n  cleanliness: 9.1\n  facilities: 8.5\n  value: 9\n  comfort: 8.9\n  staff: 9.3\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67300335.jpg?k=b887a62e2945ab8005da0872c6a1992cc87faee1772522dc217eab54d05c3e67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103612210.jpg?k=46d9c01e441a66a8c3375bafb04bc557ee0335f9abcee7ba9d4286fd73ea8214&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67393063.jpg?k=b88e087c4147036b09d72b13d4221205ca90f6ac76b81a473886eb9720eba101&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143470692.jpg?k=f87214710adcbaa46411ac10a6e374dac89ceb1b678001f196451abc83f5dbbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103617817.jpg?k=05a92e832abd14c8104f5db8074d6ba2b368cb118bd76728e8c43ce5a3fab9d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103611827.jpg?k=ac13d33026c9d55c1bd6d802b15a84dc6f73fe4b3a8f1597b85a63f64bb54364&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Room"\n  - "Triple Room"\n  - "Comfort Quadruple Room"\nnearbyRestaurants:\n  - "Bar Milano 350 m"\n  - "Kleo 400 m"\nnearbyBeaches:\n  - "Durres Beach 900 m"\n  - "Currila Beach 2.7 km"\n  - "Kallmi Beach 3.3 km"\n  - "West End Beach 4.1 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\nwhatsNearby:\n  - "Bekimi 850 m"\n  - "Sheshi Demokracia 2 km"\n  - "Wine Dhe Pooh 2 km"\n  - "Sotir Noka 2.1 km"\n  - "Yje Dhe Hena 2.1 km"\n  - "Durres Amphiteatre 2.5 km"\n  - "1. Maj 2.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Bartosz"\n    country: "Poland"\n    text: "“We had the fantastic 6 night stay in Herges Hotel. Comfortable beds, tasty breakfasts, magic omlettes, good coffee. The location is perfect - just 5 minutes to the beach and markets by feet. Big salute for Oliger - amazing service, very helpful...”"\n  - name: "Merima"\n    country: "Bosnia and Herzegovina"\n    text: "“The staff was very kind and helpful and friendly. Breakfast was delicious, nice restaurant, fresh food. The room was big, comfortable and so clean and beautiful. The hotel was great. All best!”"\n  - name: "Said"\n    country: "Serbia"\n    text: "“Enson the guy working at the reception was very kind. greetings for him and the woman who works in the restaurant. all recommendations for this hotel”"\nbookingURL: "https://www.booking.com/hotel/al/herges.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel prides itself on offering air-conditioned accommodations with complimentary WiFi access. Each room, designed with the guest's comfort in mind, includes a private bathroom stocked with free toiletries, ensuring a stay that combines both luxury and practicality. For those who appreciate a view, select rooms offer cityscapes that can be enjoyed from the privacy of a balcony, adding a touch of elegance to the stay.
+---
+title: "Herges Hotel"
+description: "Herges Hotel, located a mere 1."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67300335.jpg?k=b887a62e2945ab8005da0872c6a1992cc87faee1772522dc217eab54d05c3e67&o=&hp=1"
+language: en
+slug: herges-hotel
+address: "Rruga Lazer Murati, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32308301
+  lng: 19.47098672
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 154
+ratings:
+  overall: 8.7
+  location: 7
+  cleanliness: 9.1
+  facilities: 8.5
+  value: 9
+  comfort: 8.9
+  staff: 9.3
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67300335.jpg?k=b887a62e2945ab8005da0872c6a1992cc87faee1772522dc217eab54d05c3e67&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103612210.jpg?k=46d9c01e441a66a8c3375bafb04bc557ee0335f9abcee7ba9d4286fd73ea8214&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67393063.jpg?k=b88e087c4147036b09d72b13d4221205ca90f6ac76b81a473886eb9720eba101&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143470692.jpg?k=f87214710adcbaa46411ac10a6e374dac89ceb1b678001f196451abc83f5dbbe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103617817.jpg?k=05a92e832abd14c8104f5db8074d6ba2b368cb118bd76728e8c43ce5a3fab9d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103611827.jpg?k=ac13d33026c9d55c1bd6d802b15a84dc6f73fe4b3a8f1597b85a63f64bb54364&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Deluxe Room"
+  - "Triple Room"
+  - "Comfort Quadruple Room"
+nearbyRestaurants:
+  - "Bar Milano 350 m"
+  - "Kleo 400 m"
+nearbyBeaches:
+  - "Durres Beach 900 m"
+  - "Currila Beach 2.7 km"
+  - "Kallmi Beach 3.3 km"
+  - "West End Beach 4.1 km"
+  - "Shkëmbi i Kavajës Beach 5 km"
+whatsNearby:
+  - "Bekimi 850 m"
+  - "Sheshi Demokracia 2 km"
+  - "Wine Dhe Pooh 2 km"
+  - "Sotir Noka 2.1 km"
+  - "Yje Dhe Hena 2.1 km"
+  - "Durres Amphiteatre 2.5 km"
+  - "1. Maj 2.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Bartosz"
+    country: "Poland"
+    text: "“We had the fantastic 6 night stay in Herges Hotel. Comfortable beds, tasty breakfasts, magic omlettes, good coffee. The location is perfect - just 5 minutes to the beach and markets by feet. Big salute for Oliger - amazing service, very helpful...”"
+  - name: "Merima"
+    country: "Bosnia and Herzegovina"
+    text: "“The staff was very kind and helpful and friendly. Breakfast was delicious, nice restaurant, fresh food. The room was big, comfortable and so clean and beautiful. The hotel was great. All best!”"
+  - name: "Said"
+    country: "Serbia"
+    text: "“Enson the guy working at the reception was very kind. greetings for him and the woman who works in the restaurant. all recommendations for this hotel”"
+bookingURL: "https://www.booking.com/hotel/al/herges.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel prides itself on offering air-conditioned accommodations with complimentary WiFi access. Each room, designed with the guest's comfort in mind, includes a private bathroom stocked with free toiletries, ensuring a stay that combines both luxury and practicality. For those who appreciate a view, select rooms offer cityscapes that can be enjoyed from the privacy of a balcony, adding a touch of elegance to the stay.
 
 Entertainment and connectivity are guaranteed with the inclusion of flat-screen TVs in all guest rooms, making downtime enjoyable after a day of exploring the city. The hotel's commitment to convenience is further highlighted by its room service, a 24-hour front desk, and currency exchange services, catering to guests' needs at any hour.
 

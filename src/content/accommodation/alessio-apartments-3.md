@@ -1,4 +1,63 @@
----\ntitle: "Alessio Apartments 3"\ndescription: "Alessio Apartments 3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373031139.jpg?k=b07b9124b62c1b8e6542653dc74baa1d85702cd95a694fa95424756124ae4530&o=&hp=1"\nlanguage: en\nslug: alessio-apartments-3\naddress: "Rruga Shyqyri Ali Merka, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45154129\n  lng: 19.48881031\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.4\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 6.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373031139.jpg?k=b07b9124b62c1b8e6542653dc74baa1d85702cd95a694fa95424756124ae4530&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027766.jpg?k=39536971d2c95847ae85bdfc1270f165537843f26718f39d819fd71c3c3f3487&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373030364.jpg?k=9615c6d0656860548ba7149b6803d694535943d6a75a916ce02466c3a5649a98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027917.jpg?k=081823cdd67d6d20c9b51823bb81d422225a3250cea6f1f0e341343a811e1ce6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027365.jpg?k=2b99f00d0961a7e848de12454b006703c69d5e2d7aef31bb79d8b27476375813&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367690732.jpg?k=4d38144259ee586ae97f83b78fcdfd74cfe4b96dd3524d6409d6fef5378379a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373028281.jpg?k=5b54d4a67b740c747ef67da9acda5b8da871bb4df25cae583e04fbd275edbd85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027533.jpg?k=5cc2ab399f0935cdad4ce8de918f2569157cc80a945838bc6c026160a58d5b53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373028890.jpg?k=2d387184b6a85e0b0900e41be15fff160b05b21a5daa4a71214aa5014c2b0c5b&o=&hp=1"\namenities:\n  - "Private parking"\nnearbyRestaurants:\n  - "Brooklyn 30 m"\n  - "Da Michele Ristorante 100 m"\nnearbyBeaches:\n  - "Vlore Beach 550 m"\n  - "Vjetër Beach 650 m"\n  - "Ri Beach 1.8 km"\n  - "Beach at Government Villas 3.5 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.8 km"\n  - "Kuzum Baba 1.8 km"\n  - "Independence Square 2.1 km"\nbookingURL: "https://www.booking.com/hotel/al/alessio-apartments-3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself boasts a thoughtful layout, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are well catered for with the inclusion of a flat-screen TV, ensuring guests have access to their favorite shows and movies after a day of exploration.
+---
+title: "Alessio Apartments 3"
+description: "Alessio Apartments 3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373031139.jpg?k=b07b9124b62c1b8e6542653dc74baa1d85702cd95a694fa95424756124ae4530&o=&hp=1"
+language: en
+slug: alessio-apartments-3
+address: "Rruga Shyqyri Ali Merka, 9405 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45154129
+  lng: 19.48881031
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 2
+ratings:
+  overall: 9.4
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 6.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373031139.jpg?k=b07b9124b62c1b8e6542653dc74baa1d85702cd95a694fa95424756124ae4530&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027766.jpg?k=39536971d2c95847ae85bdfc1270f165537843f26718f39d819fd71c3c3f3487&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373030364.jpg?k=9615c6d0656860548ba7149b6803d694535943d6a75a916ce02466c3a5649a98&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027917.jpg?k=081823cdd67d6d20c9b51823bb81d422225a3250cea6f1f0e341343a811e1ce6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027365.jpg?k=2b99f00d0961a7e848de12454b006703c69d5e2d7aef31bb79d8b27476375813&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367690732.jpg?k=4d38144259ee586ae97f83b78fcdfd74cfe4b96dd3524d6409d6fef5378379a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373028281.jpg?k=5b54d4a67b740c747ef67da9acda5b8da871bb4df25cae583e04fbd275edbd85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373027533.jpg?k=5cc2ab399f0935cdad4ce8de918f2569157cc80a945838bc6c026160a58d5b53&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373028890.jpg?k=2d387184b6a85e0b0900e41be15fff160b05b21a5daa4a71214aa5014c2b0c5b&o=&hp=1"
+amenities:
+  - "Private parking"
+nearbyRestaurants:
+  - "Brooklyn 30 m"
+  - "Da Michele Ristorante 100 m"
+nearbyBeaches:
+  - "Vlore Beach 550 m"
+  - "Vjetër Beach 650 m"
+  - "Ri Beach 1.8 km"
+  - "Beach at Government Villas 3.5 km"
+  - "Liro Beach 4.1 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.8 km"
+  - "Kuzum Baba 1.8 km"
+  - "Independence Square 2.1 km"
+bookingURL: "https://www.booking.com/hotel/al/alessio-apartments-3.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself boasts a thoughtful layout, featuring a single bedroom that promises a restful night's sleep, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are well catered for with the inclusion of a flat-screen TV, ensuring guests have access to their favorite shows and movies after a day of exploration.
 
 For those arriving by car, the convenience of private parking is available, albeit for an additional fee, ensuring peace of mind for travelers with vehicles. And for guests looking to venture further afield, the Tirana International Mother Teresa Airport is accessible, located 151 km from the apartment, making Alessio Apartments 3 an ideal base for both local and international visitors.
 

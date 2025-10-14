@@ -1,4 +1,76 @@
----\ntitle: "Lovely 2-bedroom rental apartment in Tirana center"\ndescription: "Discover the charm of Tirana with a stay at the Lovely 2-bedroom rental apartment, perfectly positioned just 1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986480.jpg?k=eb47f606b859078242693e57323dcb73ef901756e709f12816c3b6efdb2c2901&o=&hp=1"\nlanguage: en\nslug: lovely-2-bedroom-rental-apartment-in-tirana-center\naddress: "Rruga Themistokli Gërmenji 5, Apartment 12, 1011 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32103989\n  lng: 19.8253869\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.8\n  location: 8.8\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 8.8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986480.jpg?k=eb47f606b859078242693e57323dcb73ef901756e709f12816c3b6efdb2c2901&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986504.jpg?k=18bf64b9b873ae0debf92c452d2ddcf8299cf0cb08e3aab940d5110c259fc578&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986505.jpg?k=25eec34ec42ae4d91daf2031d688b3784fd00f46e5df8f451f0bca465c18dd7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986497.jpg?k=0728733f9ca470e661c3c4f35d6c7a40b4a900a05d8d8b80b01a12f57fcf3ebd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986499.jpg?k=82cb56100df8f2daa40a547fcda6ec21a863009b321352e32149cfd6e2c0105f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986495.jpg?k=05aa67c25f1dcdd4d3c13235237bdfa7d06013a2ebf83e73a6517a7d0247db42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986517.jpg?k=0d079c10fa054aebd7bfa363da22f271c31e3572072044f6c79b635976475be7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986509.jpg?k=ed73f1f4f98ccd7b975e576b763e3df3640f73dcb23375bae2a4bb1dcd45a8f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986492.jpg?k=db6dcfa90cfde46b225708981ce3aa77e0fc9b7436ce1cbe3a6430b74408943d&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 900 m"\n  - "Skanderbeg Square 900 m"\n  - "House of Leaves 1,000 m"\n  - "Grand Park of Tirana 1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Bunk'Art 1 Museum 4.4 km"\nnearbyRestaurants:\n  - "The Guilty 20 m"\n  - "Unlimited Soul 20 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek Arena Kombëtare 200 m"\n  - "Shesh Rekreativ 200 m"\n  - "Sheshi Rekreativ Piramida 400 m"\n  - "Shesh Rekreativ 450 m"\n  - "Tanners' Bridge 600 m"\n  - "Former Residence of Enver Hoxha 650 m"\n  - "National Gallery of Arts Tirana 700 m"\n  - "Parku I Madh 700 m"\n  - "Parku Rinia 700 m"\n  - "Rinia Park 700 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/lovely-2-bedroom-rental-apartment-in-tirana-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis exquisite apartment offers a haven of space and comfort, featuring air-conditioned interiors that open up to a serene balcony. Guests can enjoy the convenience of free WiFi throughout their stay, ensuring they remain connected and entertained. The inclusion of a lift adds an extra layer of convenience, particularly for those with heavy luggage or mobility concerns.
+---
+title: "Lovely 2-bedroom rental apartment in Tirana center"
+description: "Discover the charm of Tirana with a stay at the Lovely 2-bedroom rental apartment, perfectly positioned just 1."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986480.jpg?k=eb47f606b859078242693e57323dcb73ef901756e709f12816c3b6efdb2c2901&o=&hp=1"
+language: en
+slug: lovely-2-bedroom-rental-apartment-in-tirana-center
+address: "Rruga Themistokli Gërmenji 5, Apartment 12, 1011 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32103989
+  lng: 19.8253869
+price: "US$41"
+priceFrom: 41
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 2
+ratings:
+  overall: 8.8
+  location: 8.8
+  cleanliness: 8.8
+  facilities: 8.8
+  value: 8.8
+  comfort: 8.8
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986480.jpg?k=eb47f606b859078242693e57323dcb73ef901756e709f12816c3b6efdb2c2901&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986504.jpg?k=18bf64b9b873ae0debf92c452d2ddcf8299cf0cb08e3aab940d5110c259fc578&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986505.jpg?k=25eec34ec42ae4d91daf2031d688b3784fd00f46e5df8f451f0bca465c18dd7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986497.jpg?k=0728733f9ca470e661c3c4f35d6c7a40b4a900a05d8d8b80b01a12f57fcf3ebd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986499.jpg?k=82cb56100df8f2daa40a547fcda6ec21a863009b321352e32149cfd6e2c0105f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986495.jpg?k=05aa67c25f1dcdd4d3c13235237bdfa7d06013a2ebf83e73a6517a7d0247db42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986517.jpg?k=0d079c10fa054aebd7bfa363da22f271c31e3572072044f6c79b635976475be7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986509.jpg?k=ed73f1f4f98ccd7b975e576b763e3df3640f73dcb23375bae2a4bb1dcd45a8f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986492.jpg?k=db6dcfa90cfde46b225708981ce3aa77e0fc9b7436ce1cbe3a6430b74408943d&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "Clock Tower Tirana 900 m"
+  - "Skanderbeg Square 900 m"
+  - "House of Leaves 1,000 m"
+  - "Grand Park of Tirana 1 km"
+  - "National Museum of History Albania 1.1 km"
+  - "Bunk'Art 1 Museum 4.4 km"
+nearbyRestaurants:
+  - "The Guilty 20 m"
+  - "Unlimited Soul 20 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek Arena Kombëtare 200 m"
+  - "Shesh Rekreativ 200 m"
+  - "Sheshi Rekreativ Piramida 400 m"
+  - "Shesh Rekreativ 450 m"
+  - "Tanners' Bridge 600 m"
+  - "Former Residence of Enver Hoxha 650 m"
+  - "National Gallery of Arts Tirana 700 m"
+  - "Parku I Madh 700 m"
+  - "Parku Rinia 700 m"
+  - "Rinia Park 700 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+bookingURL: "https://www.booking.com/hotel/al/lovely-2-bedroom-rental-apartment-in-tirana-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This exquisite apartment offers a haven of space and comfort, featuring air-conditioned interiors that open up to a serene balcony. Guests can enjoy the convenience of free WiFi throughout their stay, ensuring they remain connected and entertained. The inclusion of a lift adds an extra layer of convenience, particularly for those with heavy luggage or mobility concerns.
 
 Accommodation in this delightful apartment includes a cozy living room equipped with a flat-screen TV, perfect for unwinding after a day of exploration. The fully equipped kitchen, complete with a microwave and fridge, allows guests the freedom to prepare their meals just the way they like. With two bathrooms stocked with essentials such as a hair dryer, towels, and bed linen, comfort and convenience are guaranteed.
 

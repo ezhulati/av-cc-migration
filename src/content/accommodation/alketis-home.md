@@ -1,4 +1,64 @@
----\ntitle: "AlKetis home"\ndescription: "AlKetis Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947070.jpg?k=36ef00bf58c9dc99e6e94781a1f0a0f3d3be323b02d00a197dd6a618a5f29cd4&o=&hp=1"\nlanguage: en\nslug: alketis-home\naddress: "Shëtitorja Wilson, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.8104499\n  lng: 19.5958221\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947070.jpg?k=36ef00bf58c9dc99e6e94781a1f0a0f3d3be323b02d00a197dd6a618a5f29cd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947297.jpg?k=da1fb7cfdc80839aad526a9eaafe756ffdb196f13c3093d0618435a9519aa487&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947354.jpg?k=e88955db8126fcb68f6e12b60502756de4c85dbd32a158c38f5c5e180d328b12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947360.jpg?k=3df21f884ff40cf9b4154b41965c9b152842b0d5e16dcfc6347f4ac7111835a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947301.jpg?k=b5cb34e800291fce7ff6081bff572cbcaaf76624e69a2bac838a097b51cec782&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947362.jpg?k=025ed04b15f302d255f70c350066a14eea7b1b43911b1a6efbd9d17c8ea24edb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947367.jpg?k=79588ac620e2fd6645667333e9aab7fd0199c74a93c970cca01fc88daa244773&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947287.jpg?k=39b78876b687b5d725383c215dae6eb2be38fbde142035d4f23e8496a146937b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947292.jpg?k=4d70163577f86a58d2f22fdb1eecb5974b82ac7bc3753d4c26f392282d167d97&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Pizeri Mari 30 m"\n  - "Plaza 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 8 m"\n  - "Ylberi Beach 1.3 km"\n  - "Rana e Hedhun Beach 2.6 km"\n  - "Kune Beach 4.6 km"\n  - "Laguna Park Beach 4.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/alketis-home.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a space where convenience meets modern living. The apartment boasts an air-conditioned environment, ensuring a comfortable retreat from the day's adventures. It features a separate bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to prepare their meals, and a bathroom that caters to all the essentials. Entertainment is readily available with a flat-screen TV, complementing the living space.
+---
+title: "AlKetis home"
+description: "AlKetis Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947070.jpg?k=36ef00bf58c9dc99e6e94781a1f0a0f3d3be323b02d00a197dd6a618a5f29cd4&o=&hp=1"
+language: en
+slug: alketis-home
+address: "Shëtitorja Wilson, 4503 Shëngjin, Albania"
+city: "Shëngjin"
+location: "Shëngjin"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.8104499
+  lng: 19.5958221
+price: "US$27"
+priceFrom: 27
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947070.jpg?k=36ef00bf58c9dc99e6e94781a1f0a0f3d3be323b02d00a197dd6a618a5f29cd4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947297.jpg?k=da1fb7cfdc80839aad526a9eaafe756ffdb196f13c3093d0618435a9519aa487&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947354.jpg?k=e88955db8126fcb68f6e12b60502756de4c85dbd32a158c38f5c5e180d328b12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947360.jpg?k=3df21f884ff40cf9b4154b41965c9b152842b0d5e16dcfc6347f4ac7111835a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947301.jpg?k=b5cb34e800291fce7ff6081bff572cbcaaf76624e69a2bac838a097b51cec782&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947362.jpg?k=025ed04b15f302d255f70c350066a14eea7b1b43911b1a6efbd9d17c8ea24edb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947367.jpg?k=79588ac620e2fd6645667333e9aab7fd0199c74a93c970cca01fc88daa244773&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947287.jpg?k=39b78876b687b5d725383c215dae6eb2be38fbde142035d4f23e8496a146937b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947292.jpg?k=4d70163577f86a58d2f22fdb1eecb5974b82ac7bc3753d4c26f392282d167d97&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Restorant Pizeri Mari 30 m"
+  - "Plaza 100 m"
+nearbyBeaches:
+  - "Shëngjin Beach 8 m"
+  - "Ylberi Beach 1.3 km"
+  - "Rana e Hedhun Beach 2.6 km"
+  - "Kune Beach 4.6 km"
+  - "Laguna Park Beach 4.6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 44 km"
+  - "Podgorica Airport 66 km"
+  - "Tivat Airport 96 km"
+bookingURL: "https://www.booking.com/hotel/al/alketis-home.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are welcomed into a space where convenience meets modern living. The apartment boasts an air-conditioned environment, ensuring a comfortable retreat from the day's adventures. It features a separate bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to prepare their meals, and a bathroom that caters to all the essentials. Entertainment is readily available with a flat-screen TV, complementing the living space.
 
 Connectivity is seamless throughout the property, with free WiFi enabling guests to stay connected with the world or plan their next day's itinerary with ease. The inclusion of a balcony offers a private outdoor space to enjoy the morning breeze or an evening sky.
 

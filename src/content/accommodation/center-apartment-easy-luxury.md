@@ -1,8 +1,91 @@
----\ntitle: "Center Apartment Easy_Luxury"\ndescription: "Center Apartment Easy_Luxury emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464255887.jpg?k=647ec1a6a5ce922ae1ffe5ffbb3c04a4f83703092ef712964fc30c932e6b850a&o=&hp=1"\nlanguage: en\nslug: center-apartment-easy-luxury\naddress: "Rruga e Barrikadave 17-25 building no 18, Entries no 24, floor no 4, apartment no 10, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33162359\n  lng: 19.82012944\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 21\nratings:\n  overall: 9.6\n  location: 9.8\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 8.9\n  comfort: 9.5\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464255887.jpg?k=647ec1a6a5ce922ae1ffe5ffbb3c04a4f83703092ef712964fc30c932e6b850a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529387251.jpg?k=62a3b391030710660d3540948ce405222105ebc34a3a68d7494a0c7da44c3f99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517609246.jpg?k=91502da967d7106281d065ffc616d3bd34f7ff4d09f684c23af445f97fb347a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514345757.jpg?k=04e6f897021b038f92327f98116e779bc13ad5744c9e19125664df199178f2b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514073132.jpg?k=1a982db502c55004be2c1bbc2689556824147085ff59fd8fdf42b079313ed41b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514073351.jpg?k=9302f8e58a93fae98c71adc16b2d90d09fcde4f39efda2b33c34b663c4184ece&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Deluxe Apartment"\nnearbyAttractions:\n  - "Tanners' Bridge 750 m"\n  - "Rinia Park 800 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Akullore Teuta 5 m"\n  - "Pizza King (Hallall) 6 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 350 m"\n  - "Sheshi Sulejman Pasha 350 m"\n  - "Sheshi Skënderbej 400 m"\n  - "Clock Tower Tirana 450 m"\n  - "Skanderbeg Square 450 m"\n  - "Parku Europa 450 m"\n  - "Sheshi Paris 500 m"\n  - "National Gallery of Arts Tirana 600 m"\n  - "House of Leaves 650 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Andrew"\n    country: "United Kingdom"\n    text: "“Very responsive host
+---
+title: "Center Apartment Easy_Luxury"
+description: "Center Apartment Easy_Luxury emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464255887.jpg?k=647ec1a6a5ce922ae1ffe5ffbb3c04a4f83703092ef712964fc30c932e6b850a&o=&hp=1"
+language: en
+slug: center-apartment-easy-luxury
+address: "Rruga e Barrikadave 17-25 building no 18, Entries no 24, floor no 4, apartment no 10, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33162359
+  lng: 19.82012944
+price: "US$75"
+priceFrom: 75
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 21
+ratings:
+  overall: 9.6
+  location: 9.8
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 8.9
+  comfort: 9.5
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464255887.jpg?k=647ec1a6a5ce922ae1ffe5ffbb3c04a4f83703092ef712964fc30c932e6b850a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529387251.jpg?k=62a3b391030710660d3540948ce405222105ebc34a3a68d7494a0c7da44c3f99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517609246.jpg?k=91502da967d7106281d065ffc616d3bd34f7ff4d09f684c23af445f97fb347a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514345757.jpg?k=04e6f897021b038f92327f98116e779bc13ad5744c9e19125664df199178f2b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514073132.jpg?k=1a982db502c55004be2c1bbc2689556824147085ff59fd8fdf42b079313ed41b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514073351.jpg?k=9302f8e58a93fae98c71adc16b2d90d09fcde4f39efda2b33c34b663c4184ece&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Deluxe Apartment"
+nearbyAttractions:
+  - "Tanners' Bridge 750 m"
+  - "Rinia Park 800 m"
+  - "Former Residence of Enver Hoxha 1.2 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 4 km"
+nearbyRestaurants:
+  - "Akullore Teuta 5 m"
+  - "Pizza King (Hallall) 6 m"
+whatsNearby:
+  - "Amazing Nature 200 m"
+  - "National Museum of History Albania 350 m"
+  - "Sheshi Sulejman Pasha 350 m"
+  - "Sheshi Skënderbej 400 m"
+  - "Clock Tower Tirana 450 m"
+  - "Skanderbeg Square 450 m"
+  - "Parku Europa 450 m"
+  - "Sheshi Paris 500 m"
+  - "National Gallery of Arts Tirana 600 m"
+  - "House of Leaves 650 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Andrew"
+    country: "United Kingdom"
+    text: "“Very responsive host
 very helpful and understanding as we checked in late, helped us with parking and sorting late night food options
 overall a wonderful host in a wonderful neighbourhood
-Do book this if you are considering a private and nice...”"\n  - name: "Albana"\n    country: "Albania"\n    text: "“Perfect location! Everything is close, you can explore the
-city from here. It is in an excellent location within walking distance of all the sites. The welcome was very nice and super host, we received a lot of useful advice. Nice, clean and...”"\n  - name: "Giuseppe"\n    country: "Italy"\n    text: "“Everything was perfect, great location very clean and perfectly furnished.”"\nbookingURL: "https://www.booking.com/hotel/al/center-apartment-easy-luxury.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to spacious living and modern amenities. Guests are greeted with a balcony offering sweeping mountain views, an inviting scene for both morning coffees and evening reflections. The interior boasts two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV, and a kitchen that caters to culinary needs with a dishwasher and toaster. The luxury of two bathrooms, each featuring a hot tub, enhances the comfort of stay, while the convenience of air conditioning, a washing machine, and a private entrance underscores a commitment to privacy and ease.
+Do book this if you are considering a private and nice...”"
+  - name: "Albana"
+    country: "Albania"
+    text: "“Perfect location! Everything is close, you can explore the
+city from here. It is in an excellent location within walking distance of all the sites. The welcome was very nice and super host, we received a lot of useful advice. Nice, clean and...”"
+  - name: "Giuseppe"
+    country: "Italy"
+    text: "“Everything was perfect, great location very clean and perfectly furnished.”"
+bookingURL: "https://www.booking.com/hotel/al/center-apartment-easy-luxury.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to spacious living and modern amenities. Guests are greeted with a balcony offering sweeping mountain views, an inviting scene for both morning coffees and evening reflections. The interior boasts two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV, and a kitchen that caters to culinary needs with a dishwasher and toaster. The luxury of two bathrooms, each featuring a hot tub, enhances the comfort of stay, while the convenience of air conditioning, a washing machine, and a private entrance underscores a commitment to privacy and ease.
 
 For those looking to immerse themselves in Tirana's vibrant shopping scene, the Toptani Shopping Centre is within easy reach, as are the National Gallery of Arts Tirana and the Clock Tower Tirana, enriching the cultural tapestry of any visit. The property's location is further complemented by its connectivity, with Tirana International Mother Teresa Airport just 14 km away. The availability of a paid airport shuttle service ensures seamless transitions to and from the residence.
 

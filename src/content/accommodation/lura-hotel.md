@@ -1,5 +1,87 @@
----\ntitle: "LURA Hotel"\ndescription: "LURA Hotel emerges as a serene oasis in Peshkopi, offering guests a harmonious blend of comfort and convenience with its array of amenities and services."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299203.jpg?k=3c4bf0b20b875dc474701d2dd35ab713ab69b44b2b9a5dee6e92fe9d65d0023e&o=&hp=1"\nlanguage: en\nslug: lura-hotel\naddress: "Rr Borie Lure, SH34, Fushë Lurë, Albania Fushe lure, 8301 Peshkopi, Albania"\ncity: "Peshkopi"\nlocation: "Peshkopi"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.80838063\n  lng: 20.22214303\nprice: "US$16"\npriceFrom: 16\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 8\nratings:\n  overall: 8.7\n  location: 9.4\n  cleanliness: 7.8\n  facilities: 8.1\n  value: 9.1\n  comfort: 7.8\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299203.jpg?k=3c4bf0b20b875dc474701d2dd35ab713ab69b44b2b9a5dee6e92fe9d65d0023e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146332344.jpg?k=ab56c8e40dee183c2870467f3047c04c8438c43a3870a8d6aa5e0bfefea4ddbd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299494.jpg?k=2f3599e3ff2f19d698a85098982c6f857d67585422a98f2535e4cde9c64ad27d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299423.jpg?k=cfc7f73b8cba309039ca8048075fdba4bc04180f72bc39f5770c93516918bcba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299318.jpg?k=c6ef1a118c892d526b3187f4405ce8d9a4d2d7db3f11f22ecff35d2a165f9f73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299277.jpg?k=6ca3db63b588d8c47e1f31a9a13c426589373983b99f34a902ca3ae77895b39f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299240.jpg?k=cf467a478dc96fe24104de6070d01768ade39cdbe3e05e0cdc6c02aa7ba5ec17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146332341.jpg?k=721e2cca5fdcc06f1420111246c36edb50ae02d5a991ab9b4dc28c3dda5964d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257309061.jpg?k=8199950239d6935a5cbf93a0b9f463697c71414c181fd238d57cec76f700ca94&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room with Bathroom"\n  - "Standard Twin Room"\n  - "Family Room with Bathroom"\n  - "Twin Room with Bathroom"\n  - "Double Room with Balcony"\nnearbyRestaurants:\n  - "Restorant Kica 22 km"\n  - "Bar-Restorant Miku 22 km"\nwhatsNearby:\n  - "Lure National Park 1.4 km"\n  - "Parku Kombëtar I Lurës 3.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 59 km"\n  - "Ohrid Airport 81 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Jason"\n    country: "Australia"\n    text: "“The staff were very hospitable. Greeted with a friendly welcome when we arrived with our motorbikes. Daniel provided us with exceptional service. Would stay again next time I travel through the Trans Euro Trail.
-Motorbike friendly”"\n  - name: "Piero"\n    country: "Italy"\n    text: "“Excellent property in a nice location. Friendly and helpful staff. Recommended!”"\n  - name: "Luc"\n    country: "Belgium"\n    text: "“Fantastic beautiful and unspoilt valley area; also the drive to Fushe Lure runs through a very beautiful valley. Very friendly owners (father + son).”"\nbookingURL: "https://www.booking.com/hotel/al/lura.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at LURA Hotel is a testament to thoughtful design, boasting balconies that present breathtaking mountain views, alongside vistas of the city that add to the room's charm. The accommodations are well-appointed with modern necessities, including a flat-screen TV and a hairdryer, ensuring a stay that combines relaxation with the comforts of home. The private bathrooms, equipped with a bidet and complimentary toiletries, underscore the hotel's commitment to guest convenience and luxury.
+---
+title: "LURA Hotel"
+description: "LURA Hotel emerges as a serene oasis in Peshkopi, offering guests a harmonious blend of comfort and convenience with its array of amenities and services."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299203.jpg?k=3c4bf0b20b875dc474701d2dd35ab713ab69b44b2b9a5dee6e92fe9d65d0023e&o=&hp=1"
+language: en
+slug: lura-hotel
+address: "Rr Borie Lure, SH34, Fushë Lurë, Albania Fushe lure, 8301 Peshkopi, Albania"
+city: "Peshkopi"
+location: "Peshkopi"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.80838063
+  lng: 20.22214303
+price: "US$16"
+priceFrom: 16
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 8
+ratings:
+  overall: 8.7
+  location: 9.4
+  cleanliness: 7.8
+  facilities: 8.1
+  value: 9.1
+  comfort: 7.8
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299203.jpg?k=3c4bf0b20b875dc474701d2dd35ab713ab69b44b2b9a5dee6e92fe9d65d0023e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146332344.jpg?k=ab56c8e40dee183c2870467f3047c04c8438c43a3870a8d6aa5e0bfefea4ddbd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299494.jpg?k=2f3599e3ff2f19d698a85098982c6f857d67585422a98f2535e4cde9c64ad27d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299423.jpg?k=cfc7f73b8cba309039ca8048075fdba4bc04180f72bc39f5770c93516918bcba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299318.jpg?k=c6ef1a118c892d526b3187f4405ce8d9a4d2d7db3f11f22ecff35d2a165f9f73&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299277.jpg?k=6ca3db63b588d8c47e1f31a9a13c426589373983b99f34a902ca3ae77895b39f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299240.jpg?k=cf467a478dc96fe24104de6070d01768ade39cdbe3e05e0cdc6c02aa7ba5ec17&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146332341.jpg?k=721e2cca5fdcc06f1420111246c36edb50ae02d5a991ab9b4dc28c3dda5964d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257309061.jpg?k=8199950239d6935a5cbf93a0b9f463697c71414c181fd238d57cec76f700ca94&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Single Room with Bathroom"
+  - "Standard Twin Room"
+  - "Family Room with Bathroom"
+  - "Twin Room with Bathroom"
+  - "Double Room with Balcony"
+nearbyRestaurants:
+  - "Restorant Kica 22 km"
+  - "Bar-Restorant Miku 22 km"
+whatsNearby:
+  - "Lure National Park 1.4 km"
+  - "Parku Kombëtar I Lurës 3.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 59 km"
+  - "Ohrid Airport 81 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Jason"
+    country: "Australia"
+    text: "“The staff were very hospitable. Greeted with a friendly welcome when we arrived with our motorbikes. Daniel provided us with exceptional service. Would stay again next time I travel through the Trans Euro Trail.
+Motorbike friendly”"
+  - name: "Piero"
+    country: "Italy"
+    text: "“Excellent property in a nice location. Friendly and helpful staff. Recommended!”"
+  - name: "Luc"
+    country: "Belgium"
+    text: "“Fantastic beautiful and unspoilt valley area; also the drive to Fushe Lure runs through a very beautiful valley. Very friendly owners (father + son).”"
+bookingURL: "https://www.booking.com/hotel/al/lura.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Each room at LURA Hotel is a testament to thoughtful design, boasting balconies that present breathtaking mountain views, alongside vistas of the city that add to the room's charm. The accommodations are well-appointed with modern necessities, including a flat-screen TV and a hairdryer, ensuring a stay that combines relaxation with the comforts of home. The private bathrooms, equipped with a bidet and complimentary toiletries, underscore the hotel's commitment to guest convenience and luxury.
 
 Morning at LURA Hotel begins with a continental breakfast, setting the tone for a day of exploration or relaxation. The hotel's staff, proficient in both English and Albanian, stands ready at the reception to offer insightful advice on the local area, ensuring guests make the most of their stay in Peshkopi.
 

@@ -5,7 +5,6 @@ region: Uncategorized
 featuredImage: /images/destinations/pogradec.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

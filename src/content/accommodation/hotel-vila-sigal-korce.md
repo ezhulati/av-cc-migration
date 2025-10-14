@@ -1,5 +1,86 @@
----\ntitle: "Hotel Vila Sigal Korce"\ndescription: "Hotel Vila Sigal Korce emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, situated within a manageable distance of 44 km from the enchanting Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167998001.jpg?k=bf7851a48c3888f61f3e38fc30a7ab8640388d3113a8f825e2c17940b62eb430&o=&hp=1"\nlanguage: en\nslug: hotel-vila-sigal-korce\naddress: "Lagja 2 Rruga Teni Konomi,, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.61876052\n  lng: 20.78375168\nprice: "US$86"\npriceFrom: 86\nstarRating: 4\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 11\nratings:\n  overall: 9.6\n  location: 9.1\n  cleanliness: 9.8\n  facilities: 9.5\n  value: 9.8\n  comfort: 10\n  staff: 10\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167998001.jpg?k=bf7851a48c3888f61f3e38fc30a7ab8640388d3113a8f825e2c17940b62eb430&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72840766.jpg?k=a104e23f2ae1cae956545e40931da69eee304feb35edc2d6d2bb5d0ecbd54bda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258117209.jpg?k=a0bf659d26564e75c764e7ffe00e5a4cb8cf56137d44a9bee7e0d6b703d68b96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72847339.jpg?k=a8c52c1bd9c6721d851036cd6f1e23fb1c266c94ffaddc6214be587b4911fbb2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72840763.jpg?k=be3c981786298433f3b4f066c6f8bba4428c2ea94ad50c4a1564073420fd93c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167998027.jpg?k=23541baf43a8ffc42e110e430b75fe40f108f2c390dae297b64214c80d2a5989&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Family Double Room"\n  - "Double Room"\n  - "Deluxe Suite"\nnearbyRestaurants:\n  - "Marilyn Monroe 100 m"\n  - "Guest House People 18-99 100 m"\nwhatsNearby:\n  - "Field of Tears 100 m"\n  - "Parku Themistokli Gërmenji 150 m"\n  - "Sheshi Patriku Joasaf 350 m"\n  - "Parku Rinia 650 m"\n  - "Parku Vangjush Mio 650 m"\n  - "Parku Rinia 850 m"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 11 km"\n  - "Sheshi Penetori 12 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Justina"\n    country: "Albania"\n    text: "“Would definitely recommend this place.
-Cleaned and comfortable.”"\n  - name: "Michael"\n    country: "Germany"\n    text: "“Spacious and comfortable room with good bathroom (shower cabin with door!). Good breakfast. Friendly staff. Convienent location (2 minutes walk to Rruga Repubika). Quiet during the night (almost no traffic).”"\nbookingURL: "https://www.booking.com/hotel/al/vila-sigal-korce-korce.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to air-conditioned accommodations that don’t skimp on comfort or functionality. Each room is thoughtfully equipped with a desk for those needing to attend to work, a safety deposit box for valuables, a flat-screen TV for entertainment, and a patio or balcony in select rooms that present captivating city views. The attention to detail extends to the private bathrooms, complete with a bidet, while the inclusion of bed linen and towels ensures a hassle-free stay.
+---
+title: "Hotel Vila Sigal Korce"
+description: "Hotel Vila Sigal Korce emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, situated within a manageable distance of 44 km from the enchanting Ohrid Lake Springs."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167998001.jpg?k=bf7851a48c3888f61f3e38fc30a7ab8640388d3113a8f825e2c17940b62eb430&o=&hp=1"
+language: en
+slug: hotel-vila-sigal-korce
+address: "Lagja 2 Rruga Teni Konomi,, 7001 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.61876052
+  lng: 20.78375168
+price: "US$86"
+priceFrom: 86
+starRating: 4
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 11
+ratings:
+  overall: 9.6
+  location: 9.1
+  cleanliness: 9.8
+  facilities: 9.5
+  value: 9.8
+  comfort: 10
+  staff: 10
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167998001.jpg?k=bf7851a48c3888f61f3e38fc30a7ab8640388d3113a8f825e2c17940b62eb430&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72840766.jpg?k=a104e23f2ae1cae956545e40931da69eee304feb35edc2d6d2bb5d0ecbd54bda&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258117209.jpg?k=a0bf659d26564e75c764e7ffe00e5a4cb8cf56137d44a9bee7e0d6b703d68b96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72847339.jpg?k=a8c52c1bd9c6721d851036cd6f1e23fb1c266c94ffaddc6214be587b4911fbb2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72840763.jpg?k=be3c981786298433f3b4f066c6f8bba4428c2ea94ad50c4a1564073420fd93c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167998027.jpg?k=23541baf43a8ffc42e110e430b75fe40f108f2c390dae297b64214c80d2a5989&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Family Double Room"
+  - "Double Room"
+  - "Deluxe Suite"
+nearbyRestaurants:
+  - "Marilyn Monroe 100 m"
+  - "Guest House People 18-99 100 m"
+whatsNearby:
+  - "Field of Tears 100 m"
+  - "Parku Themistokli Gërmenji 150 m"
+  - "Sheshi Patriku Joasaf 350 m"
+  - "Parku Rinia 650 m"
+  - "Parku Vangjush Mio 650 m"
+  - "Parku Rinia 850 m"
+  - "Sheshi Panxhar 6 km"
+  - "Sheshi Koço Plaku 11 km"
+  - "Sheshi Penetori 12 km"
+airports:
+  - "Kastoria National Airport 45 km"
+  - "Ohrid Airport 61 km"
+  - "Kozani National Airport 96 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Justina"
+    country: "Albania"
+    text: "“Would definitely recommend this place.
+Cleaned and comfortable.”"
+  - name: "Michael"
+    country: "Germany"
+    text: "“Spacious and comfortable room with good bathroom (shower cabin with door!). Good breakfast. Friendly staff. Convienent location (2 minutes walk to Rruga Repubika). Quiet during the night (almost no traffic).”"
+bookingURL: "https://www.booking.com/hotel/al/vila-sigal-korce-korce.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are treated to air-conditioned accommodations that don’t skimp on comfort or functionality. Each room is thoughtfully equipped with a desk for those needing to attend to work, a safety deposit box for valuables, a flat-screen TV for entertainment, and a patio or balcony in select rooms that present captivating city views. The attention to detail extends to the private bathrooms, complete with a bidet, while the inclusion of bed linen and towels ensures a hassle-free stay.
 
 For relaxation, Hotel Vila Sigal Korce invites guests to experience its sauna, providing a perfect escape to rejuvenate after an adventurous day. The property’s location also offers easy access to the Monastery Saint Naum, located just 43 km away, making it a convenient base for cultural excursions.
 

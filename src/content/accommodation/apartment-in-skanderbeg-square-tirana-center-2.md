@@ -1,6 +1,89 @@
----\ntitle: "Apartment in Skanderbeg Square - Tirana Center 2"\ndescription: "Apartment in Skanderbeg Square - Tirana Center 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380702.jpg?k=babc748aa41a225a6c4316da6cfaaa26b264b1bff5b60f54b1f151bc083ca366&o=&hp=1"\nlanguage: en\nslug: apartment-in-skanderbeg-square-tirana-center-2\naddress: "Rruga Ded Gjo Luli 39, 1002 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33025386\n  lng: 19.81635331\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 46\nratings:\n  overall: 9.8\n  location: 9.9\n  cleanliness: 9.7\n  facilities: 9.6\n  value: 9.8\n  comfort: 9.6\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380702.jpg?k=babc748aa41a225a6c4316da6cfaaa26b264b1bff5b60f54b1f151bc083ca366&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501009058.jpg?k=e71a5421d08b57ceff3734aa3a76937f2ed29081832405dd461cd5af6ab04148&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380878.jpg?k=2f80d9bc775c14d5c97ae7f1b33027c6fadab89d1f2ec37809759a81c2d7fdd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484408591.jpg?k=0a80f48ac89a0937ba1660728c0c50f2581785a8ccebbfc3bae41165ac96b03b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484746022.jpg?k=a8cc2723036d162b953c139d6b5df6b24cb278884bb661ba2c167188b722a91f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501631425.jpg?k=c56ce1a53732b61944c97099d0df223cf72294595de087f4dc3b49c7b45ea12d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380808.jpg?k=1a1ce70bd8580463dbae14607f25234acdf5af6e3611e81e80e440daca56b11c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380869.jpg?k=b803ad8ce0566b84728337849dcdcca074bc8c3f17365a1d13c2c1dafe7a0cbb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484852557.jpg?k=9e3aa909eac17cc063856c85cd7ab37613ed54648de7f3270ad3d7807855849d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (21 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 650 m"\n  - "Tanners' Bridge 900 m"\n  - "Former Residence of Enver Hoxha 1 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Zero51 Fast Food 40 m"\n  - "Animus 50 m"\nwhatsNearby:\n  - "National Museum of History Albania 150 m"\n  - "Sheshi Paris 150 m"\n  - "Sheshi Skënderbej 250 m"\n  - "Skanderbeg Square 350 m"\n  - "Parku Europa 400 m"\n  - "House of Leaves 400 m"\n  - "Clock Tower Tirana 400 m"\n  - "Amazing Nature 400 m"\n  - "Sheshi Sulejman Pasha 500 m"\n  - "National Gallery of Arts Tirana 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Antreprenor"\n    country: "Romania"\n    text: "“The flat is absolutely amazing (and really big), very clean, equiped with anything you might need, confortable bed. It is way better in reality than in photos. The location is perfect, right in the heart of Tirana, close to the major top...”"\n  - name: "Gabriel12345"\n    country: "Romania"\n    text: "“fully equipped apartment, located in the center, there are shops and restaurants right next to it, very nice view of the central market, very good communication with the host, very good price-quality ratio.”"\n  - name: "Callan"\n    country: "United Kingdom"\n    text: "“Amazing place. In a really convenient location right by the square. The bus stop to go to the 2 bus terminals is right outside.
+---
+title: "Apartment in Skanderbeg Square - Tirana Center 2"
+description: "Apartment in Skanderbeg Square - Tirana Center 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380702.jpg?k=babc748aa41a225a6c4316da6cfaaa26b264b1bff5b60f54b1f151bc083ca366&o=&hp=1"
+language: en
+slug: apartment-in-skanderbeg-square-tirana-center-2
+address: "Rruga Ded Gjo Luli 39, 1002 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33025386
+  lng: 19.81635331
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 46
+ratings:
+  overall: 9.8
+  location: 9.9
+  cleanliness: 9.7
+  facilities: 9.6
+  value: 9.8
+  comfort: 9.6
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380702.jpg?k=babc748aa41a225a6c4316da6cfaaa26b264b1bff5b60f54b1f151bc083ca366&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501009058.jpg?k=e71a5421d08b57ceff3734aa3a76937f2ed29081832405dd461cd5af6ab04148&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380878.jpg?k=2f80d9bc775c14d5c97ae7f1b33027c6fadab89d1f2ec37809759a81c2d7fdd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484408591.jpg?k=0a80f48ac89a0937ba1660728c0c50f2581785a8ccebbfc3bae41165ac96b03b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484746022.jpg?k=a8cc2723036d162b953c139d6b5df6b24cb278884bb661ba2c167188b722a91f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501631425.jpg?k=c56ce1a53732b61944c97099d0df223cf72294595de087f4dc3b49c7b45ea12d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380808.jpg?k=1a1ce70bd8580463dbae14607f25234acdf5af6e3611e81e80e440daca56b11c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380869.jpg?k=b803ad8ce0566b84728337849dcdcca074bc8c3f17365a1d13c2c1dafe7a0cbb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484852557.jpg?k=9e3aa909eac17cc063856c85cd7ab37613ed54648de7f3270ad3d7807855849d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (21 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Rinia Park 650 m"
+  - "Tanners' Bridge 900 m"
+  - "Former Residence of Enver Hoxha 1 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 4.3 km"
+nearbyRestaurants:
+  - "Zero51 Fast Food 40 m"
+  - "Animus 50 m"
+whatsNearby:
+  - "National Museum of History Albania 150 m"
+  - "Sheshi Paris 150 m"
+  - "Sheshi Skënderbej 250 m"
+  - "Skanderbeg Square 350 m"
+  - "Parku Europa 400 m"
+  - "House of Leaves 400 m"
+  - "Clock Tower Tirana 400 m"
+  - "Amazing Nature 400 m"
+  - "Sheshi Sulejman Pasha 500 m"
+  - "National Gallery of Arts Tirana 600 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Antreprenor"
+    country: "Romania"
+    text: "“The flat is absolutely amazing (and really big), very clean, equiped with anything you might need, confortable bed. It is way better in reality than in photos. The location is perfect, right in the heart of Tirana, close to the major top...”"
+  - name: "Gabriel12345"
+    country: "Romania"
+    text: "“fully equipped apartment, located in the center, there are shops and restaurants right next to it, very nice view of the central market, very good communication with the host, very good price-quality ratio.”"
+  - name: "Callan"
+    country: "United Kingdom"
+    text: "“Amazing place. In a really convenient location right by the square. The bus stop to go to the 2 bus terminals is right outside.
 The place itself was clean and comfortable and secure.
-Very easy check-in and host was very kind and brought extra...”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-with-skanderbeg-square-view-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to a serene garden and the luxury of air-conditioned interiors, making it a refreshing oasis amidst the bustling city life. The apartment boasts an impressive view of the cityscape, situated just a short distance from the Rock of Kavaje and the intriguing House of Leaves. Connectivity is never an issue, with complimentary WiFi enveloping guests in every corner of the apartment.
+Very easy check-in and host was very kind and brought extra...”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-with-skanderbeg-square-view-2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are treated to a serene garden and the luxury of air-conditioned interiors, making it a refreshing oasis amidst the bustling city life. The apartment boasts an impressive view of the cityscape, situated just a short distance from the Rock of Kavaje and the intriguing House of Leaves. Connectivity is never an issue, with complimentary WiFi enveloping guests in every corner of the apartment.
 
 The accommodation itself is a testament to modern living, featuring a spacious layout that includes a bedroom, a living room equipped with a flat-screen TV, and a balcony that offers a tranquil garden view. The kitchen is fully equipped with a microwave and a fridge, catering to all culinary needs, while the bathroom comes with a bidet, ensuring a comfortable stay. It's important to note that the apartment maintains a non-smoking policy, prioritizing the well-being and comfort of all guests.
 

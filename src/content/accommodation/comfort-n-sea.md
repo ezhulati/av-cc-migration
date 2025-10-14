@@ -1,4 +1,77 @@
----\ntitle: "Comfort’n Sea"\ndescription: "Comfort’n Sea emerges as a serene oasis in Mullini i Danit, boasting a prime beachfront location that effortlessly combines the tranquility of a garden setting with the convenience of modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412676.jpg?k=79ee85345f21e437be92493d6271278a20564918cbb2e2b2a44ce03bc9624300&o=&hp=1"\nlanguage: en\nslug: comfort-n-sea\naddress: "Hamallaj , Kompleksi Vala Mar, 2019 Mullini i Danit, Albania"\ncity: "Mullini"\nlocation: "Mullini"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.49441682\n  lng: 19.51372604\nprice: "US$33"\npriceFrom: 33\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 13\nratings:\n  overall: 8.5\n  location: 9.6\n  cleanliness: 7.9\n  facilities: 8.8\n  value: 8.3\n  comfort: 8.3\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412676.jpg?k=79ee85345f21e437be92493d6271278a20564918cbb2e2b2a44ce03bc9624300&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412692.jpg?k=d4b0a76045499f3f556e103f76704e9e31529ef5f2dea3f540e75bc31fb33611&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451415115.jpg?k=217c95bb960feb9b9b3e5c204905d9536a41df26a3a4449e6b2105cb832abef9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412629.jpg?k=4b10f76a7be11acf83a1a1c768f75d581d3ee970d75fc842a912890d2ebf47fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412670.jpg?k=e9bdb1b615c6c5eb70332f1b1e09041c9537e7ac0a08962a27670c46594f907a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412652.jpg?k=fdbec329c90df17bb34092c94b1ac8ec4a016026fd6784b50324ba9040e9ee3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412594.jpg?k=83658eed830bbae035a7aa3d7f583586454819d5934ad23ebf3fb2648f5b808c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412665.jpg?k=826cd0695f2b00b39b57615bf042012686b67d16d700123d4c73de464205485f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451420303.jpg?k=29bd9b2603923642d327d0a75ddd46bd648015e6ac92b08a0424d4df50194f73&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bedouin 100 m"\n  - "Oasis Bar 1.2 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 50 m"\nwhatsNearby:\n  - "Bekimi 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\nreviews:\n  - name: "Erind"\n    country: "Albania"\n    text: "“The apartment was excellent. Had everything needed. A connad shop is 30 sec by walking. The residence was great also for childrens..”"\n  - name: "Mariusz"\n    country: "Germany"\n    text: "“Fantastic location, cleanliness, very good facilities, parking in front of the door”"\n  - name: "Anna"\n    country: "Serbia"\n    text: "“The apartment is totally new in a perfect place to relax. Calm and has everything needed. It has vacuum cleaner, dish washer, market behind the corner, the best and cheapest restaurant is right next door. You have everything to cook and to have...”"\nbookingURL: "https://www.booking.com/hotel/al/comfort-n-sea.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe highlight of Comfort’n Sea is its well-appointed air-conditioned apartment, which features a separate bedroom, a cozy living room, and a fully equipped kitchen complete with a minibar. The inclusion of a flat-screen TV ensures guests have all the comforts of home at their fingertips. The apartment opens up to a balcony that presents a stunning garden view, allowing guests to soak in the natural beauty of the surroundings.
+---
+title: "Comfort’n Sea"
+description: "Comfort’n Sea emerges as a serene oasis in Mullini i Danit, boasting a prime beachfront location that effortlessly combines the tranquility of a garden setting with the convenience of modern amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412676.jpg?k=79ee85345f21e437be92493d6271278a20564918cbb2e2b2a44ce03bc9624300&o=&hp=1"
+language: en
+slug: comfort-n-sea
+address: "Hamallaj , Kompleksi Vala Mar, 2019 Mullini i Danit, Albania"
+city: "Mullini"
+location: "Mullini"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.49441682
+  lng: 19.51372604
+price: "US$33"
+priceFrom: 33
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 13
+ratings:
+  overall: 8.5
+  location: 9.6
+  cleanliness: 7.9
+  facilities: 8.8
+  value: 8.3
+  comfort: 8.3
+  staff: 8.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412676.jpg?k=79ee85345f21e437be92493d6271278a20564918cbb2e2b2a44ce03bc9624300&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412692.jpg?k=d4b0a76045499f3f556e103f76704e9e31529ef5f2dea3f540e75bc31fb33611&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451415115.jpg?k=217c95bb960feb9b9b3e5c204905d9536a41df26a3a4449e6b2105cb832abef9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412629.jpg?k=4b10f76a7be11acf83a1a1c768f75d581d3ee970d75fc842a912890d2ebf47fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412670.jpg?k=e9bdb1b615c6c5eb70332f1b1e09041c9537e7ac0a08962a27670c46594f907a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412652.jpg?k=fdbec329c90df17bb34092c94b1ac8ec4a016026fd6784b50324ba9040e9ee3e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412594.jpg?k=83658eed830bbae035a7aa3d7f583586454819d5934ad23ebf3fb2648f5b808c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412665.jpg?k=826cd0695f2b00b39b57615bf042012686b67d16d700123d4c73de464205485f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451420303.jpg?k=29bd9b2603923642d327d0a75ddd46bd648015e6ac92b08a0424d4df50194f73&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Restaurant"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Bedouin 100 m"
+  - "Oasis Bar 1.2 km"
+nearbyBeaches:
+  - "Lalëz Bay Beach 50 m"
+whatsNearby:
+  - "Bekimi 19 km"
+airports:
+  - "Tirana International Airport Mother Teresa 18 km"
+reviews:
+  - name: "Erind"
+    country: "Albania"
+    text: "“The apartment was excellent. Had everything needed. A connad shop is 30 sec by walking. The residence was great also for childrens..”"
+  - name: "Mariusz"
+    country: "Germany"
+    text: "“Fantastic location, cleanliness, very good facilities, parking in front of the door”"
+  - name: "Anna"
+    country: "Serbia"
+    text: "“The apartment is totally new in a perfect place to relax. Calm and has everything needed. It has vacuum cleaner, dish washer, market behind the corner, the best and cheapest restaurant is right next door. You have everything to cook and to have...”"
+bookingURL: "https://www.booking.com/hotel/al/comfort-n-sea.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The highlight of Comfort’n Sea is its well-appointed air-conditioned apartment, which features a separate bedroom, a cozy living room, and a fully equipped kitchen complete with a minibar. The inclusion of a flat-screen TV ensures guests have all the comforts of home at their fingertips. The apartment opens up to a balcony that presents a stunning garden view, allowing guests to soak in the natural beauty of the surroundings.
 
 Guest convenience is paramount at Comfort’n Sea, with complimentary private parking and WiFi ensuring a hassle-free stay. The 24-hour front desk, round-the-clock security, and currency exchange services underscore the property’s commitment to guest safety and comfort.
 

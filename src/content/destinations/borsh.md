@@ -5,7 +5,6 @@ region: Albanian Riviera
 featuredImage: /images/destinations/borsh.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

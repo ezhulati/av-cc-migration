@@ -1,4 +1,62 @@
----\ntitle: "Luxury Village Villa"\ndescription: "Luxury Village Villa, located in the serene town of Fier, presents an exceptional retreat for those seeking a blend of comfort and convenience."\nfeaturedImage: "https://lh4.googleusercontent.com/-zVpL1-Mn55g/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjXqk6LjWr16lDfgSD7FDvyzXXUyGA/s96-c/photo.jpg64"\nlanguage: en\nslug: luxury-village-villa\naddress: "Kreshpan,Fier, 9308 Fier, Albania"\ncity: "Fier"\nlocation: "Fier"\naccommodationType: "villa"\ncoordinates:\n  lat: 40.6375001\n  lng: 19.5746611\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.1\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://lh4.googleusercontent.com/-zVpL1-Mn55g/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjXqk6LjWr16lDfgSD7FDvyzXXUyGA/s96-c/photo.jpg64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443613106.jpg?k=b9687c7ccbb39b4a81adcee3849601b34af993ae8087710a0f3a76047c9988a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613013.jpg?k=686725e173600fccf0ff1cd187c9cad94f71ff754e580e170c65d145cdb89803&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613088.jpg?k=4312e9b11ee757eb42e0045d924609dfe6b992ca94e686b7d706a5b6c5e8da22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613093.jpg?k=9489922cbdfee6aa3805463a4820a60adc7a6abd8f4831f4b0cda8c46e9b7401&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613103.jpg?k=222a4db18de978d7f0620b6ba72a00ca54ab06c9da80460b8127a56b6d9cf558&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613107.jpg?k=1062993a2345cf47b1718aef018a55bcfad5f241f30ceff8ea047ca30b9c5ff4&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Villa"\nnearbyRestaurants:\n  - "Bar Ferra Liridoni 550 m"\n  - "Lugina e Bilbilave 4.6 km"\nwhatsNearby:\n  - "Independence Square 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 85 km"\nreviews:\n  - name: "Andrzej"\n    country: "Poland"\n    text: "“A very nice wooden house in the highlander style located at the top of the village. We were the first guests with booking. The owners are very nice, contact in communicative English. It was difficult to find the place because the location on the...”"\nbookingURL: "https://www.booking.com/hotel/al/luxury-village-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nGuests will appreciate the villa's spacious layout, which includes a well-appointed bedroom, a cozy living area, and a kitchen equipped with everything needed for a home-cooked meal, including a minibar. The inclusion of air conditioning ensures a comfortable stay regardless of the weather outside. Entertainment needs are met with a flat-screen TV, perfect for relaxing evenings in.
+---
+title: "Luxury Village Villa"
+description: "Luxury Village Villa, located in the serene town of Fier, presents an exceptional retreat for those seeking a blend of comfort and convenience."
+featuredImage: "https://lh4.googleusercontent.com/-zVpL1-Mn55g/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjXqk6LjWr16lDfgSD7FDvyzXXUyGA/s96-c/photo.jpg64"
+language: en
+slug: luxury-village-villa
+address: "Kreshpan,Fier, 9308 Fier, Albania"
+city: "Fier"
+location: "Fier"
+accommodationType: "villa"
+coordinates:
+  lat: 40.6375001
+  lng: 19.5746611
+price: "US$86"
+priceFrom: 86
+starRating: 3
+rating: 7.1
+ratingWords: "Good"
+numberOfReviews: 1
+ratings:
+  overall: 7.1
+  location: 7.5
+  cleanliness: 7.5
+  facilities: 7.5
+  value: 5
+  comfort: 7.5
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://lh4.googleusercontent.com/-zVpL1-Mn55g/AAAAAAAAAAI/AAAAAAAAAAA/ACSILjXqk6LjWr16lDfgSD7FDvyzXXUyGA/s96-c/photo.jpg64"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443613106.jpg?k=b9687c7ccbb39b4a81adcee3849601b34af993ae8087710a0f3a76047c9988a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613013.jpg?k=686725e173600fccf0ff1cd187c9cad94f71ff754e580e170c65d145cdb89803&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613088.jpg?k=4312e9b11ee757eb42e0045d924609dfe6b992ca94e686b7d706a5b6c5e8da22&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613093.jpg?k=9489922cbdfee6aa3805463a4820a60adc7a6abd8f4831f4b0cda8c46e9b7401&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613103.jpg?k=222a4db18de978d7f0620b6ba72a00ca54ab06c9da80460b8127a56b6d9cf558&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/443613107.jpg?k=1062993a2345cf47b1718aef018a55bcfad5f241f30ceff8ea047ca30b9c5ff4&o=&hp=1"
+amenities:
+  - "Free parking"
+roomTypes:
+  - "One-Bedroom Villa"
+nearbyRestaurants:
+  - "Bar Ferra Liridoni 550 m"
+  - "Lugina e Bilbilave 4.6 km"
+whatsNearby:
+  - "Independence Square 20 km"
+airports:
+  - "Tirana International Airport Mother Teresa 85 km"
+reviews:
+  - name: "Andrzej"
+    country: "Poland"
+    text: "“A very nice wooden house in the highlander style located at the top of the village. We were the first guests with booking. The owners are very nice, contact in communicative English. It was difficult to find the place because the location on the...”"
+bookingURL: "https://www.booking.com/hotel/al/luxury-village-villa.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+Guests will appreciate the villa's spacious layout, which includes a well-appointed bedroom, a cozy living area, and a kitchen equipped with everything needed for a home-cooked meal, including a minibar. The inclusion of air conditioning ensures a comfortable stay regardless of the weather outside. Entertainment needs are met with a flat-screen TV, perfect for relaxing evenings in.
 
 One of the villa's highlights is its outdoor terrace, offering a private space to enjoy the fresh air and perhaps a morning cup of coffee or an evening glass of wine. The convenience of free private parking adds to the hassle-free experience, making it easy for guests to explore the surrounding area at their leisure.
 

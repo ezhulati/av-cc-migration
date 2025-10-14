@@ -9,8 +9,7 @@ language: en
 slug: blloku
 seo:
   metaTitle: "Blloku - From Communist Hub to Cosmopolitan Heart of Tirana"
-  metaDescription: "Once a communist-era restricted zone, Tirana's Blloku district now thrums as Albania's most progressive hub.
-"
+  metaDescription: "Once a communist-era restricted zone, Tirana's Blloku district now thrums as Albania's most progressive hub."
 ---
 
 Why Visit Blloku

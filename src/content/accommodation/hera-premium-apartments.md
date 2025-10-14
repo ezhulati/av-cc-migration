@@ -1,4 +1,89 @@
----\ntitle: "Hera Premium Apartments"\ndescription: "Hera Premium Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"\nlanguage: en\nslug: hera-premium-apartments\naddress: "Rruga Butrinti, White Dream residence building, 500 m from Santa Quadranta 5 star hotel., 1001 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85589648\n  lng: 20.020688\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 24\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 9.4\n  facilities: 9.6\n  value: 9.5\n  comfort: 9.4\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://graph.facebook.com/v2.9/10155486196440401/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/sa/ddbc9f79b73a16a528b386ee5082aeb1d348e637.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/xdata/images/xphoto/square64/118250344.webp?k=1f0fbf1a80551c84515c36e5a74af533eeb84abe6310b6c2bca84320dfff4b0d&o=?t=1622127946"\n  - "https://cf.bstatic.com/static/img/flags/12/cz/331344fc12453ef26747d18151eaa5497dc651e9.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Fantastic 50 m"\n  - "Baken Grill 100 m"\nnearbyBeaches:\n  - "Flamingo Beach 100 m"\n  - "Mango Beach 200 m"\n  - "Santa Quaranta Beach 200 m"\n  - "VIP Beach 300 m"\n  - "Maestral Beach 1.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 500 m"\n  - "Butrint National Park 750 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Zbigniew"\n    country: "Poland"\n    text: "“Perfect balcony view. Very well equipped suite. Friendly and carrying hosts. Nice parking place.”"\n  - name: "Asmaa"\n    country: "Saudi Arabia"\n    text: "“The apartment was clean as new. View is amazing. It's not on high level land. it's on the street level . So, you can go home easly. The owners is very nice and helpful and gentle. Bus station to ksamil or to the center is 30 m near. (santa...”"\n  - name: "Jadwiga"\n    country: "Poland"\n    text: "“Nowoczesny, komfortowy i bardzo dobrze wyposażony apartament bezpośrednio nad brzegiem morza. Duży balkon z widokiem na morze, wyspę Korfu i w oddali port w Sarandzie. Doskonałe warunki do wypoczynku, wspaniały widok zachodów słońca.”"\nbookingURL: "https://www.booking.com/hotel/al/hera-premium-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and healthy stay for all guests. The highlight of the accommodation is a spacious apartment that boasts a bedroom, a bathroom, and an array of modern amenities. These include high-quality bed linen, towels, a flat-screen TV equipped with streaming services for endless entertainment, and a fully equipped kitchen for those who prefer to prepare their own meals. The inclusion of a balcony with breathtaking sea views adds a touch of luxury, allowing guests to enjoy the serene landscape from the comfort of their room.
+---
+title: "Hera Premium Apartments"
+description: "Hera Premium Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"
+language: en
+slug: hera-premium-apartments
+address: "Rruga Butrinti, White Dream residence building, 500 m from Santa Quadranta 5 star hotel., 1001 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.85589648
+  lng: 20.020688
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 24
+ratings:
+  overall: 9.5
+  location: 9.3
+  cleanliness: 9.4
+  facilities: 9.6
+  value: 9.5
+  comfort: 9.4
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://graph.facebook.com/v2.9/10155486196440401/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/sa/ddbc9f79b73a16a528b386ee5082aeb1d348e637.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
+  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"
+  - "https://cf.bstatic.com/xdata/images/xphoto/square64/118250344.webp?k=1f0fbf1a80551c84515c36e5a74af533eeb84abe6310b6c2bca84320dfff4b0d&o=?t=1622127946"
+  - "https://cf.bstatic.com/static/img/flags/12/cz/331344fc12453ef26747d18151eaa5497dc651e9.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Terrace"
+nearbyRestaurants:
+  - "Fantastic 50 m"
+  - "Baken Grill 100 m"
+nearbyBeaches:
+  - "Flamingo Beach 100 m"
+  - "Mango Beach 200 m"
+  - "Santa Quaranta Beach 200 m"
+  - "VIP Beach 300 m"
+  - "Maestral Beach 1.2 km"
+whatsNearby:
+  - "Parc National de Butrint 500 m"
+  - "Butrint National Park 750 m"
+  - "Plazhi I Krorezes 6 km"
+  - "Parku Kombetar I Butrintit 10 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Zbigniew"
+    country: "Poland"
+    text: "“Perfect balcony view. Very well equipped suite. Friendly and carrying hosts. Nice parking place.”"
+  - name: "Asmaa"
+    country: "Saudi Arabia"
+    text: "“The apartment was clean as new. View is amazing. It's not on high level land. it's on the street level . So, you can go home easly. The owners is very nice and helpful and gentle. Bus station to ksamil or to the center is 30 m near. (santa...”"
+  - name: "Jadwiga"
+    country: "Poland"
+    text: "“Nowoczesny, komfortowy i bardzo dobrze wyposażony apartament bezpośrednio nad brzegiem morza. Duży balkon z widokiem na morze, wyspę Korfu i w oddali port w Sarandzie. Doskonałe warunki do wypoczynku, wspaniały widok zachodów słońca.”"
+bookingURL: "https://www.booking.com/hotel/al/hera-premium-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and healthy stay for all guests. The highlight of the accommodation is a spacious apartment that boasts a bedroom, a bathroom, and an array of modern amenities. These include high-quality bed linen, towels, a flat-screen TV equipped with streaming services for endless entertainment, and a fully equipped kitchen for those who prefer to prepare their own meals. The inclusion of a balcony with breathtaking sea views adds a touch of luxury, allowing guests to enjoy the serene landscape from the comfort of their room.
 
 Moreover, the apartment features an outdoor dining area, perfect for guests who wish to dine al fresco while soaking in the ambient surroundings. The convenience extends with the provision of free WiFi and complimentary private parking, making stays hassle-free for those arriving by car.
 

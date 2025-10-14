@@ -1,4 +1,67 @@
----\ntitle: "Lake Harmony Haven"\ndescription: "Lake Harmony Haven emerges as a serene retreat in Tushemisht, offering a blend of comfort and convenience for travelers seeking a peaceful escape."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135275.jpg?k=7af9b444044e2387015487ff11defc0aeb12a88a1fe5547cafcd73c11678a6c0&o=&hp=1"\nlanguage: en\nslug: lake-harmony-haven\naddress: "Rruga e Drilonit, Tushemisht, Albania"\ncity: "Tushemisht"\nlocation: "Tushemisht"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90114847\n  lng: 20.71101352\nprice: "US$97"\npriceFrom: 97\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135275.jpg?k=7af9b444044e2387015487ff11defc0aeb12a88a1fe5547cafcd73c11678a6c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135384.jpg?k=ade263e4a048d46d15d3976f6315e142151f634f23c6374dc87e9f51298dfa23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135359.jpg?k=15ea5b8e03d4a8c173e596556e2ddd9ead84926ca02cd491b021f2c5db92745c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135368.jpg?k=143e58f67b6316c5a929545cf4c01fa267d797843e42b94a832569be6b854b29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135356.jpg?k=3042d74ee1dbfe43bf336a2cb60399e7d014b8d220e89a33e3ccb01c870ee076&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470027430.jpg?k=e882c2361df06a1d357771f6723b429fc7a588fd3721a4b6755700f2bf0efee5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135390.jpg?k=ea081010e588dee29be2ec4b56881b2173f57daff1763fc47df3ad7419e3ce78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135379.jpg?k=55d66fb944ea714dd7e59849dbb46512ac01127cb67070a69ef68b9da79ee8d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135347.jpg?k=0df8938cac0e17dfb658f6b4a794785df22e1fb498cd43511e070bc110682de5&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant ARBI 100 m"\n  - "Restorant Mjelma 150 m"\nwhatsNearby:\n  - "National Park Galicica 3 km"\n  - "Driloni National Park 3.5 km"\n  - "National Park Galicica 10 km"\n  - "Bay of Bones 13 km"\nairports:\n  - "Ohrid Airport 29 km"\n  - "Kastoria National Airport 68 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/lake-harmony-haven.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nBoasting breathtaking mountain views, each accommodation invites guests onto its own balcony, where the beauty of Tushemisht can be soaked in from the comfort of your room. The commitment to a smoke-free environment underscores the property's dedication to providing a clean and healthy stay.
+---
+title: "Lake Harmony Haven"
+description: "Lake Harmony Haven emerges as a serene retreat in Tushemisht, offering a blend of comfort and convenience for travelers seeking a peaceful escape."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135275.jpg?k=7af9b444044e2387015487ff11defc0aeb12a88a1fe5547cafcd73c11678a6c0&o=&hp=1"
+language: en
+slug: lake-harmony-haven
+address: "Rruga e Drilonit, Tushemisht, Albania"
+city: "Tushemisht"
+location: "Tushemisht"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.90114847
+  lng: 20.71101352
+price: "US$97"
+priceFrom: 97
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135275.jpg?k=7af9b444044e2387015487ff11defc0aeb12a88a1fe5547cafcd73c11678a6c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135384.jpg?k=ade263e4a048d46d15d3976f6315e142151f634f23c6374dc87e9f51298dfa23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135359.jpg?k=15ea5b8e03d4a8c173e596556e2ddd9ead84926ca02cd491b021f2c5db92745c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135368.jpg?k=143e58f67b6316c5a929545cf4c01fa267d797843e42b94a832569be6b854b29&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135356.jpg?k=3042d74ee1dbfe43bf336a2cb60399e7d014b8d220e89a33e3ccb01c870ee076&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470027430.jpg?k=e882c2361df06a1d357771f6723b429fc7a588fd3721a4b6755700f2bf0efee5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135390.jpg?k=ea081010e588dee29be2ec4b56881b2173f57daff1763fc47df3ad7419e3ce78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135379.jpg?k=55d66fb944ea714dd7e59849dbb46512ac01127cb67070a69ef68b9da79ee8d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135347.jpg?k=0df8938cac0e17dfb658f6b4a794785df22e1fb498cd43511e070bc110682de5&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Three-Bedroom Apartment"
+nearbyRestaurants:
+  - "Restorant ARBI 100 m"
+  - "Restorant Mjelma 150 m"
+whatsNearby:
+  - "National Park Galicica 3 km"
+  - "Driloni National Park 3.5 km"
+  - "National Park Galicica 10 km"
+  - "Bay of Bones 13 km"
+airports:
+  - "Ohrid Airport 29 km"
+  - "Kastoria National Airport 68 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+bookingURL: "https://www.booking.com/hotel/al/lake-harmony-haven.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Boasting breathtaking mountain views, each accommodation invites guests onto its own balcony, where the beauty of Tushemisht can be soaked in from the comfort of your room. The commitment to a smoke-free environment underscores the property's dedication to providing a clean and healthy stay.
 
 The highlight of Lake Harmony Haven is undoubtedly its spacious apartment, which features three well-appointed bedrooms. Entertainment is readily available through a flat-screen TV equipped with cable channels, while the fully equipped kitchen—complete with a dishwasher, oven, washing machine, microwave, and toaster—caters to every culinary need. The charm of the apartment is further enhanced by its parquet floors and a cozy fireplace, creating an atmosphere that is both inviting and tranquil. Additionally, an outdoor dining area offers the perfect setting for al fresco meals amidst the property's serene surroundings.
 

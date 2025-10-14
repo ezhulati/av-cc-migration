@@ -1,4 +1,57 @@
----\ntitle: "Kukësi Resort Aldo"\ndescription: "Kukësi Resort Aldo stands out as a premier destination for travelers seeking a blend of luxury and natural beauty, located just 23 km from the historic Cave Church Archangel Michael."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383300526.jpg?k=eada339b0f3d65d9626e30d3060cb2d82ead05b7c2127d30efef0e4b86377091&o=&hp=1"\nlanguage: en\nslug: kuk-si-resort-aldo\naddress: "Lin, Pogradec 7301, 7301 Lin, Albania"\ncity: "Lin"\nlocation: "Lin"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.0523386\n  lng: 20.64609813\nprice: "US$35"\npriceFrom: 35\nstarRating: 5\nrating: 7.1\nratingWords: "Good"\nnumberOfReviews: 52\nratings:\n  overall: 7.1\n  location: 8.8\n  cleanliness: 6.6\n  facilities: 6.1\n  value: 7.3\n  comfort: 6.6\n  staff: 7.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383300526.jpg?k=eada339b0f3d65d9626e30d3060cb2d82ead05b7c2127d30efef0e4b86377091&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178094.jpg?k=51265812355d1123cd003208f10a4248630d12e35710a470fdc7ab7a6f95cfe6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178098.jpg?k=81e942641b3f444290935fbbf2574de74bda60acb0d2783e5f094ffb406433f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178083.jpg?k=271b8a5f27af193aced7d21192e4d66ae6270e4b05892fff5379d821afeed426&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178091.jpg?k=3489e3d4efc64fd360b6ae55c2d8e5f6a0243382195a2ff430faaf63894db3de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178093.jpg?k=6428d1fe6621fc9c8f151051d461f749a7f56eb23cb0e17c4ffbb56bc2b06c7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382554366.jpg?k=e7d6ec4fcf200d5f92763b2f0ebe7d72c2a991b85254fa546f0cb26d2f619e3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382554077.jpg?k=f0f99a7228e26171bcafb0cc633f9605b2859d10b580b945b1e4ebc6ca0317d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382553856.jpg?k=3771eda4f2b96933fc202a4b65a605a94e0810f1585330c794da60b59b2b14ec&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nbookingURL: "https://www.booking.com/hotel/al/kukesi-resort-aldo-lin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach guest room at Kukësi Resort Aldo is a haven of comfort and convenience, equipped with a desk, air conditioning, and a flat-screen TV for a touch of home. The private bathrooms are well-appointed with a bidet and complimentary toiletries, adding to the room's overall sense of luxury. For those desiring a bit more, selected rooms boast balconies, offering a private outdoor space to relax and take in the surroundings.
+---
+title: "Kukësi Resort Aldo"
+description: "Kukësi Resort Aldo stands out as a premier destination for travelers seeking a blend of luxury and natural beauty, located just 23 km from the historic Cave Church Archangel Michael."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383300526.jpg?k=eada339b0f3d65d9626e30d3060cb2d82ead05b7c2127d30efef0e4b86377091&o=&hp=1"
+language: en
+slug: kuk-si-resort-aldo
+address: "Lin, Pogradec 7301, 7301 Lin, Albania"
+city: "Lin"
+location: "Lin"
+accommodationType: "resort"
+coordinates:
+  lat: 41.0523386
+  lng: 20.64609813
+price: "US$35"
+priceFrom: 35
+starRating: 5
+rating: 7.1
+ratingWords: "Good"
+numberOfReviews: 52
+ratings:
+  overall: 7.1
+  location: 8.8
+  cleanliness: 6.6
+  facilities: 6.1
+  value: 7.3
+  comfort: 6.6
+  staff: 7.1
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383300526.jpg?k=eada339b0f3d65d9626e30d3060cb2d82ead05b7c2127d30efef0e4b86377091&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178094.jpg?k=51265812355d1123cd003208f10a4248630d12e35710a470fdc7ab7a6f95cfe6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178098.jpg?k=81e942641b3f444290935fbbf2574de74bda60acb0d2783e5f094ffb406433f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178083.jpg?k=271b8a5f27af193aced7d21192e4d66ae6270e4b05892fff5379d821afeed426&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178091.jpg?k=3489e3d4efc64fd360b6ae55c2d8e5f6a0243382195a2ff430faaf63894db3de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355178093.jpg?k=6428d1fe6621fc9c8f151051d461f749a7f56eb23cb0e17c4ffbb56bc2b06c7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382554366.jpg?k=e7d6ec4fcf200d5f92763b2f0ebe7d72c2a991b85254fa546f0cb26d2f619e3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382554077.jpg?k=f0f99a7228e26171bcafb0cc633f9605b2859d10b580b945b1e4ebc6ca0317d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382553856.jpg?k=3771eda4f2b96933fc202a4b65a605a94e0810f1585330c794da60b59b2b14ec&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+bookingURL: "https://www.booking.com/hotel/al/kukesi-resort-aldo-lin.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each guest room at Kukësi Resort Aldo is a haven of comfort and convenience, equipped with a desk, air conditioning, and a flat-screen TV for a touch of home. The private bathrooms are well-appointed with a bidet and complimentary toiletries, adding to the room's overall sense of luxury. For those desiring a bit more, selected rooms boast balconies, offering a private outdoor space to relax and take in the surroundings.
 
 Families will appreciate the thoughtful inclusion of a children's playground, making it an ideal choice for guests of all ages. The hotel's private beach area is a rare gem, providing an exclusive retreat to enjoy the sun and sea in peace.
 

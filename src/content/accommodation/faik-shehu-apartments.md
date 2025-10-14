@@ -1,4 +1,82 @@
----\ntitle: "Faik Shehu Apartments"\ndescription: "Faik Shehu Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Durrës coastline."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692583.jpg?k=83c088a9a2ee7d902f04379daacd6326d2160c30bfcd9342bd52bdd5cc7c7b77&o=&hp=1"\nlanguage: en\nslug: faik-shehu-apartments\naddress: "Rr. \"Pavarësia\", 13, 2001, SH4, Durrës, Albania, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31104729\n  lng: 19.48223151\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 20\nratings:\n  overall: 8.2\n  location: 8.8\n  cleanliness: 7.6\n  facilities: 7\n  value: 8.6\n  comfort: 7.8\n  staff: 9\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692583.jpg?k=83c088a9a2ee7d902f04379daacd6326d2160c30bfcd9342bd52bdd5cc7c7b77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95897369.jpg?k=4bf9e5ec56f904b7a8ac7fb3871cde75cf4237a3d7a7b1cbfe1e81e6ceaab103&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95897368.jpg?k=34bb1a9f5882106f8ecdac94b84f9c4d54060b74cf43bd31458dfe98f4a356a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95896173.jpg?k=5baba4b34beb8a402233652e934573ded10f80a1dbe7b5ec21afaf3ae27dbae7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95897380.jpg?k=646105bc20bde83af542ed956681e5eb590436921e1ff84260760cd74840671a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104074152.jpg?k=82ba17dfe37d0f736587f542d856ad45dbb65905b5863a7a1c004c8060388330&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692578.jpg?k=d135378310e5e7c9c3feedab2ad725964db56748bcdff4f1e1f1cb7bc048e393&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692579.jpg?k=7695595dbc2a6936aa1fe7e522e1c72b08720d4d5ae0eb99b04c50f009cfcc34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95896518.jpg?k=5a9d17e4509619eee09180f9c6fcf3339783ac9ab04b69a73db1b418ceb397b4&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Antigua 100 m"\n  - "Restorant de Lux 100 m"\nnearbyBeaches:\n  - "Durres Beach 20 m"\n  - "Currila Beach 2.9 km"\n  - "Shkëmbi i Kavajës Beach 3.6 km"\n  - "Kallmi Beach 4.2 km"\n  - "West End Beach 5 km"\nwhatsNearby:\n  - "Bekimi 1.9 km"\n  - "Wine Dhe Pooh 2.8 km"\n  - "Sheshi Demokracia 2.9 km"\n  - "Yje Dhe Hena 3 km"\n  - "Durres Amphiteatre 3.1 km"\n  - "Sotir Noka 3.2 km"\n  - "1. Maj 3.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Nagy"\n    country: "Hungary"\n    text: "“A környék nagyon szép. Az apartmanból szuper kilátás nyílik a tengerpartra. Az apartman közvetlenül a parton helyezkedik el.”"\n  - name: "Camilla"\n    country: "Sweden"\n    text: "“Underbar värd som hjälpte till när vi behövde. Nära till allting.”"\n  - name: "Molnár"\n    country: "Hungary"\n    text: "“Kényelmes, nagy, a parttól 40 méterre, így a teraszról láttuk a tengert.”"\nbookingURL: "https://www.booking.com/hotel/al/faik-shehu-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartments are thoughtfully designed to cater to the needs of every guest, featuring balconies that present an unobstructed view of the serene waters. Each unit is equipped with a fully functional kitchen, complete with a refrigerator, a cozy dining area, and a comfortable seating area adorned with a flat-screen TV for entertainment. The attention to detail extends to the private bathrooms, which include a bidet, adding a touch of luxury to the overall experience. The convenience of a private entrance and the comfort of air conditioning and a desk in every unit underscore the property's commitment to guest satisfaction.
+---
+title: "Faik Shehu Apartments"
+description: "Faik Shehu Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Durrës coastline."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692583.jpg?k=83c088a9a2ee7d902f04379daacd6326d2160c30bfcd9342bd52bdd5cc7c7b77&o=&hp=1"
+language: en
+slug: faik-shehu-apartments
+address: "Rr. \"Pavarësia\", 13, 2001, SH4, Durrës, Albania, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31104729
+  lng: 19.48223151
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.2
+ratingWords: "Very Good"
+numberOfReviews: 20
+ratings:
+  overall: 8.2
+  location: 8.8
+  cleanliness: 7.6
+  facilities: 7
+  value: 8.6
+  comfort: 7.8
+  staff: 9
+  wifi: 8.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692583.jpg?k=83c088a9a2ee7d902f04379daacd6326d2160c30bfcd9342bd52bdd5cc7c7b77&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95897369.jpg?k=4bf9e5ec56f904b7a8ac7fb3871cde75cf4237a3d7a7b1cbfe1e81e6ceaab103&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95897368.jpg?k=34bb1a9f5882106f8ecdac94b84f9c4d54060b74cf43bd31458dfe98f4a356a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95896173.jpg?k=5baba4b34beb8a402233652e934573ded10f80a1dbe7b5ec21afaf3ae27dbae7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95897380.jpg?k=646105bc20bde83af542ed956681e5eb590436921e1ff84260760cd74840671a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104074152.jpg?k=82ba17dfe37d0f736587f542d856ad45dbb65905b5863a7a1c004c8060388330&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692578.jpg?k=d135378310e5e7c9c3feedab2ad725964db56748bcdff4f1e1f1cb7bc048e393&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692579.jpg?k=7695595dbc2a6936aa1fe7e522e1c72b08720d4d5ae0eb99b04c50f009cfcc34&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95896518.jpg?k=5a9d17e4509619eee09180f9c6fcf3339783ac9ab04b69a73db1b418ceb397b4&o=&hp=1"
+amenities:
+  - "Private parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Antigua 100 m"
+  - "Restorant de Lux 100 m"
+nearbyBeaches:
+  - "Durres Beach 20 m"
+  - "Currila Beach 2.9 km"
+  - "Shkëmbi i Kavajës Beach 3.6 km"
+  - "Kallmi Beach 4.2 km"
+  - "West End Beach 5 km"
+whatsNearby:
+  - "Bekimi 1.9 km"
+  - "Wine Dhe Pooh 2.8 km"
+  - "Sheshi Demokracia 2.9 km"
+  - "Yje Dhe Hena 3 km"
+  - "Durres Amphiteatre 3.1 km"
+  - "Sotir Noka 3.2 km"
+  - "1. Maj 3.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Nagy"
+    country: "Hungary"
+    text: "“A környék nagyon szép. Az apartmanból szuper kilátás nyílik a tengerpartra. Az apartman közvetlenül a parton helyezkedik el.”"
+  - name: "Camilla"
+    country: "Sweden"
+    text: "“Underbar värd som hjälpte till när vi behövde. Nära till allting.”"
+  - name: "Molnár"
+    country: "Hungary"
+    text: "“Kényelmes, nagy, a parttól 40 méterre, így a teraszról láttuk a tengert.”"
+bookingURL: "https://www.booking.com/hotel/al/faik-shehu-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartments are thoughtfully designed to cater to the needs of every guest, featuring balconies that present an unobstructed view of the serene waters. Each unit is equipped with a fully functional kitchen, complete with a refrigerator, a cozy dining area, and a comfortable seating area adorned with a flat-screen TV for entertainment. The attention to detail extends to the private bathrooms, which include a bidet, adding a touch of luxury to the overall experience. The convenience of a private entrance and the comfort of air conditioning and a desk in every unit underscore the property's commitment to guest satisfaction.
 
 Beyond the confines of the apartments, guests will find themselves conveniently located near notable attractions. The property is a mere 6.8 km away from the Rock of Kavaje, offering an easy opportunity to explore the natural beauty of the area. History enthusiasts will appreciate the proximity to the Former Residence of Enver Hoxha and the Durres Amphitheatre, located 38 km and 4.5 km away, respectively. For those traveling by air, the Tirana International Mother Teresa Airport is just 32 km away, making Faik Shehu Apartments an accessible retreat.
 

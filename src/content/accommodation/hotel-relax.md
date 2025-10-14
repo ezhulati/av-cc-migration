@@ -1,4 +1,70 @@
----\ntitle: "Hotel Relax"\ndescription: "Hotel Relax stands as a beacon of comfort and convenience in the heart of Gjirokastër, merely a stone's throw away from the iconic Gjirokastër fortress."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195693098.jpg?k=3edce0ac89181dc9cfb947d2c12a8af3776e464be2021536ef877337e1fa035a&o=&hp=1"\nlanguage: en\nslug: hotel-relax\naddress: "Rruga Gjin Zenebisi, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.0748266\n  lng: 20.13942808\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 73\nratings:\n  overall: 7.9\n  location: 9.5\n  cleanliness: 8.1\n  facilities: 7.3\n  value: 8.2\n  comfort: 8.2\n  staff: 7.7\n  wifi: 6.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195693098.jpg?k=3edce0ac89181dc9cfb947d2c12a8af3776e464be2021536ef877337e1fa035a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195693559.jpg?k=0f1424a58587cc7e47ae370ef2d32ab3cead7cf605c02dcda9aeacea68f683f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195377806.jpg?k=f8cd78690c057d58cce993411c218b1be06d90e39d9195822a4b243f933b0adc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195375420.jpg?k=c138e949d8c340304f1b2a4e4dc01f1c914f4739f9d14e68e97d146224f2b438&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359662400.jpg?k=fab4f611b826ed695db0d3452b652db8e6bbb3a6132ebf33e80aeeca57f85e23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359662534.jpg?k=5e1fce81cf21926116fdb6a055a2fb4c99ef6f388802fcaf8016cf77a2184b14&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room with Private Bathroom"\n  - "Triple Room"\n  - "Suite"\nnearbyRestaurants:\n  - "Muço 30 m"\n  - "Mapo 40 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Marija"\n    country: "North Macedonia"\n    text: "“We arrived in the evening and we didn't have any issues with the check in. It was very straightforward. The hosts were very kind and helpful. The communication was amazing even before the trip. The hotel is located in the very center of the town,...”"\n  - name: "Tobias"\n    country: "Austria"\n    text: "“Location is very good (old town), rooms were spacious and clean, bathroom was recently redone, too. The elderly couple that owns the hotel is very friendly. Albanian-style breakfast was good, although coffee was not included.”"\n  - name: "Anonymous"\n    country: "Albania"\n    text: "“Hotel’s location was perfect, very near to the castle, bazaar and it was perfect. Very clean suite and great breakfast. The hosts were helpful and friendly. We had an amazing experience 😊”"\nbookingURL: "https://www.booking.com/hotel/al/relax-gjirokaster1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at Hotel Relax are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with a television for entertainment and features a private bathroom with a shower, ensuring a refreshing start and end to every day. Select rooms boast private balconies, offering a serene spot to enjoy the morning air or evening sky.
+---
+title: "Hotel Relax"
+description: "Hotel Relax stands as a beacon of comfort and convenience in the heart of Gjirokastër, merely a stone's throw away from the iconic Gjirokastër fortress."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195693098.jpg?k=3edce0ac89181dc9cfb947d2c12a8af3776e464be2021536ef877337e1fa035a&o=&hp=1"
+language: en
+slug: hotel-relax
+address: "Rruga Gjin Zenebisi, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.0748266
+  lng: 20.13942808
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 73
+ratings:
+  overall: 7.9
+  location: 9.5
+  cleanliness: 8.1
+  facilities: 7.3
+  value: 8.2
+  comfort: 8.2
+  staff: 7.7
+  wifi: 6.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195693098.jpg?k=3edce0ac89181dc9cfb947d2c12a8af3776e464be2021536ef877337e1fa035a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195693559.jpg?k=0f1424a58587cc7e47ae370ef2d32ab3cead7cf605c02dcda9aeacea68f683f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195377806.jpg?k=f8cd78690c057d58cce993411c218b1be06d90e39d9195822a4b243f933b0adc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195375420.jpg?k=c138e949d8c340304f1b2a4e4dc01f1c914f4739f9d14e68e97d146224f2b438&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359662400.jpg?k=fab4f611b826ed695db0d3452b652db8e6bbb3a6132ebf33e80aeeca57f85e23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359662534.jpg?k=5e1fce81cf21926116fdb6a055a2fb4c99ef6f388802fcaf8016cf77a2184b14&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Twin Room with Private Bathroom"
+  - "Triple Room"
+  - "Suite"
+nearbyRestaurants:
+  - "Muço 30 m"
+  - "Mapo 40 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Marija"
+    country: "North Macedonia"
+    text: "“We arrived in the evening and we didn't have any issues with the check in. It was very straightforward. The hosts were very kind and helpful. The communication was amazing even before the trip. The hotel is located in the very center of the town,...”"
+  - name: "Tobias"
+    country: "Austria"
+    text: "“Location is very good (old town), rooms were spacious and clean, bathroom was recently redone, too. The elderly couple that owns the hotel is very friendly. Albanian-style breakfast was good, although coffee was not included.”"
+  - name: "Anonymous"
+    country: "Albania"
+    text: "“Hotel’s location was perfect, very near to the castle, bazaar and it was perfect. Very clean suite and great breakfast. The hosts were helpful and friendly. We had an amazing experience 😊”"
+bookingURL: "https://www.booking.com/hotel/al/relax-gjirokaster1.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Accommodations at Hotel Relax are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with a television for entertainment and features a private bathroom with a shower, ensuring a refreshing start and end to every day. Select rooms boast private balconies, offering a serene spot to enjoy the morning air or evening sky.
 
 Culinary delights are just a few steps away, with a restaurant nearby serving a blend of local and international cuisine. For those looking to immerse themselves in the local culture, the hotel's proximity to the vibrant marketplace, just 50 metres away, is ideal. Evening entertainment is also within easy reach, with Bella's nightclub located 500 metres from the hotel.
 

@@ -1,4 +1,65 @@
----\ntitle: "Hotel Panorama Elbasan"\ndescription: "Hotel Panorama Elbasan emerges as a standout destination for travelers seeking both relaxation and adventure in the heart of Elbasan."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277160213.jpg?k=c1490810e8b9be457052bdd84f9ad1ca52375871d61401d7088af2c2bcf29527&o=&hp=1"\nlanguage: en\nslug: hotel-panorama-elbasan\naddress: "Panorama resort elbasan Elbasan, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.12818231\n  lng: 20.10610523\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 50\nratings:\n  overall: 7.9\n  location: 8.5\n  cleanliness: 7.5\n  facilities: 7.6\n  value: 7.8\n  comfort: 7.4\n  staff: 8.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277160213.jpg?k=c1490810e8b9be457052bdd84f9ad1ca52375871d61401d7088af2c2bcf29527&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/307138205.jpg?k=055c55df20274c28b01fc5477d3f3cd03b4350ee7aef71bd1671523ca7611c69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/278692207.jpg?k=ea8d772daccb4909e9a3f652b03eadafb07b83b85a5df934f32315b124860edf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/278429732.jpg?k=5f4823fb8864589bac31b076896b97c9c9534ebd6db56cc1a6626ec62b1221b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/278429735.jpg?k=051b1c80892c25ff4d37bda1fc04095b96d5ade44bcc2492e2149721e05dadfb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/277160241.jpg?k=5691aff9140c5a2d6289e7d272a29878b9d33674128b8d0b9097c0c1b1118e0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/278599387.jpg?k=7abb84949cae032684acafbe58d592319f728b7375580f8888491f575055dff7&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Studio"\nnearbyRestaurants:\n  - "Restorant Bardhi 500 m"\n  - "Taverna Attika 1.4 km"\nwhatsNearby:\n  - "Dajti Mountain National Park 18 km"\n  - "Parku I Bleteve Kokreve 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Ohrid Airport 53 km"\nbookingURL: "https://www.booking.com/hotel/al/panorama-elbasan.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Hotel Panorama Elbasan are designed with comfort and convenience in mind. Each unit features a cozy seating area, a flat-screen TV with cable channels, and a private bathroom equipped with slippers, a bidet, a bath, and a shower. Guests will appreciate the added luxury of a terrace that includes an outdoor dining area, perfect for enjoying meals with a view of the majestic mountains. Additionally, all units are fitted with heating facilities to ensure a comfortable stay regardless of the season.
+---
+title: "Hotel Panorama Elbasan"
+description: "Hotel Panorama Elbasan emerges as a standout destination for travelers seeking both relaxation and adventure in the heart of Elbasan."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277160213.jpg?k=c1490810e8b9be457052bdd84f9ad1ca52375871d61401d7088af2c2bcf29527&o=&hp=1"
+language: en
+slug: hotel-panorama-elbasan
+address: "Panorama resort elbasan Elbasan, 3001 Elbasan, Albania"
+city: "Elbasan"
+location: "Elbasan"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.12818231
+  lng: 20.10610523
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 50
+ratings:
+  overall: 7.9
+  location: 8.5
+  cleanliness: 7.5
+  facilities: 7.6
+  value: 7.8
+  comfort: 7.4
+  staff: 8.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277160213.jpg?k=c1490810e8b9be457052bdd84f9ad1ca52375871d61401d7088af2c2bcf29527&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/307138205.jpg?k=055c55df20274c28b01fc5477d3f3cd03b4350ee7aef71bd1671523ca7611c69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/278692207.jpg?k=ea8d772daccb4909e9a3f652b03eadafb07b83b85a5df934f32315b124860edf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/278429732.jpg?k=5f4823fb8864589bac31b076896b97c9c9534ebd6db56cc1a6626ec62b1221b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/278429735.jpg?k=051b1c80892c25ff4d37bda1fc04095b96d5ade44bcc2492e2149721e05dadfb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/277160241.jpg?k=5691aff9140c5a2d6289e7d272a29878b9d33674128b8d0b9097c0c1b1118e0f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/278599387.jpg?k=7abb84949cae032684acafbe58d592319f728b7375580f8888491f575055dff7&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Room service"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Studio"
+nearbyRestaurants:
+  - "Restorant Bardhi 500 m"
+  - "Taverna Attika 1.4 km"
+whatsNearby:
+  - "Dajti Mountain National Park 18 km"
+  - "Parku I Bleteve Kokreve 18 km"
+airports:
+  - "Tirana International Airport Mother Teresa 44 km"
+  - "Ohrid Airport 53 km"
+bookingURL: "https://www.booking.com/hotel/al/panorama-elbasan.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Hotel Panorama Elbasan are designed with comfort and convenience in mind. Each unit features a cozy seating area, a flat-screen TV with cable channels, and a private bathroom equipped with slippers, a bidet, a bath, and a shower. Guests will appreciate the added luxury of a terrace that includes an outdoor dining area, perfect for enjoying meals with a view of the majestic mountains. Additionally, all units are fitted with heating facilities to ensure a comfortable stay regardless of the season.
 
 Culinary enthusiasts will delight in the hotel's restaurant, which specializes in Greek cuisine, offering a taste of the Mediterranean in the heart of Elbasan. For those looking to unwind with a drink, the on-site bar provides a relaxed atmosphere.
 

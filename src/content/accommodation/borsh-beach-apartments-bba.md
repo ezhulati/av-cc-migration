@@ -1,4 +1,80 @@
----\ntitle: "Borsh Beach Apartments - BBA"\ndescription: "Borsh Beach Apartments - BBA emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from the pristine Borsh Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214167478.jpg?k=2963febea083b56690e71a5a876da4afebf6365f6f9e85bd50c9f1def974f61f&o=&hp=1"\nlanguage: en\nslug: borsh-beach-apartments-bba\naddress: "Rruga Plazhit Rruga Plazhit 155, 9714 Borsh, Albania"\ncity: "Borsh"\nlocation: "Borsh"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.02955007\n  lng: 19.87090076\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 119\nratings:\n  overall: 8.6\n  location: 9\n  cleanliness: 8.7\n  facilities: 7.7\n  value: 8.4\n  comfort: 8.4\n  staff: 9\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214167478.jpg?k=2963febea083b56690e71a5a876da4afebf6365f6f9e85bd50c9f1def974f61f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265151502.jpg?k=c689ad35f1ebc56b035336fecb617478f537ee56fd0867594bf1c290833b28c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826325.jpg?k=ca44517896424240ef36a40ae8372c78b142cbecf3bc935773bbb2c50f7514b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826395.jpg?k=42d476e02044a68cbd105aa6e289f8c4fba34b3d82bbea05ab32816a2a315ca2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265151780.jpg?k=c09194ad7a338eb7f53d19c557dc819d852cc632cf818992b67c49d3dc0e3ef9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184550108.jpg?k=55fa3559a165698a929cca99640355c628ed897d844a35f8834eda9eec73bc0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826351.jpg?k=cdf8afaf7d34f2f3ef6784a31b4266909daf8ae439ac2cd5b8b4bc05436a54c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826447.jpg?k=4bcc70caf404613b4090a59f831ed87295a2553848ab0ef666b5419c86fe71a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826260.jpg?k=1cef5f2c9125f41f6e550537fad4f710053f60cba030312ee0a6324c12577f71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826196.jpg?k=c2534216e9a2e6a2234ad7ab96db32d20aeaed7de78490f6a24ae4f2d826d0b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826140.jpg?k=b227cfa8272571875642a3943c5fbf711c7f6dac3cea0d22402a424699422d8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826049.jpg?k=67bcf2c6640186422c807d0ba1ef9b8dd0df7406883616b5a793ed9914e7a046&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\nnearbyRestaurants:\n  - "Al Mare Borsh 30 m"\n  - "Elisabeta 100 m"\nnearbyBeaches:\n  - "Borsh Beach 150 m"\n  - "Buneci Beach 2.9 km"\n  - "Qeparo Beach 4.2 km"\n  - "Porto Palermo Beach 3 6 km"\n  - "Porto Palermo Beach 7 km"\nairports:\n  - "Corfu International Airport 46 km"\n  - "Ioannina Airport 88 km"\nreviews:\n  - name: "Kamila"\n    country: "Poland"\n    text: "“A comfortable apartment, a quiet spot but still close to restaurants and markets. A small beach just outside the gate. Washing machine is a plus.”"\n  - name: "Agnes"\n    country: "Hungary"\n    text: "“It is very close to the beach ( 15 m). It is clean, the host is nice and helpful. I recommend it.”"\n  - name: "Marian"\n    country: "Czech Republic"\n    text: "“very kind hosts, wonderful view of the great beach. right by the sea, comfortable. 👍”"\nbookingURL: "https://www.booking.com/hotel/al/family.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Borsh Beach Apartments - BBA are designed with the guest's comfort in mind, featuring air-conditioned units equipped with private bathrooms and kitchens. For those who appreciate a view, select units boast balconies or patios offering expansive sea vistas, enhancing the serene experience. The attention to detail is evident with the inclusion of bed linen and towels in each unit, ensuring a hassle-free stay.
+---
+title: "Borsh Beach Apartments - BBA"
+description: "Borsh Beach Apartments - BBA emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from the pristine Borsh Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214167478.jpg?k=2963febea083b56690e71a5a876da4afebf6365f6f9e85bd50c9f1def974f61f&o=&hp=1"
+language: en
+slug: borsh-beach-apartments-bba
+address: "Rruga Plazhit Rruga Plazhit 155, 9714 Borsh, Albania"
+city: "Borsh"
+location: "Borsh"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.02955007
+  lng: 19.87090076
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 119
+ratings:
+  overall: 8.6
+  location: 9
+  cleanliness: 8.7
+  facilities: 7.7
+  value: 8.4
+  comfort: 8.4
+  staff: 9
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214167478.jpg?k=2963febea083b56690e71a5a876da4afebf6365f6f9e85bd50c9f1def974f61f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265151502.jpg?k=c689ad35f1ebc56b035336fecb617478f537ee56fd0867594bf1c290833b28c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826325.jpg?k=ca44517896424240ef36a40ae8372c78b142cbecf3bc935773bbb2c50f7514b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826395.jpg?k=42d476e02044a68cbd105aa6e289f8c4fba34b3d82bbea05ab32816a2a315ca2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265151780.jpg?k=c09194ad7a338eb7f53d19c557dc819d852cc632cf818992b67c49d3dc0e3ef9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184550108.jpg?k=55fa3559a165698a929cca99640355c628ed897d844a35f8834eda9eec73bc0d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826351.jpg?k=cdf8afaf7d34f2f3ef6784a31b4266909daf8ae439ac2cd5b8b4bc05436a54c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826447.jpg?k=4bcc70caf404613b4090a59f831ed87295a2553848ab0ef666b5419c86fe71a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826260.jpg?k=1cef5f2c9125f41f6e550537fad4f710053f60cba030312ee0a6324c12577f71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826196.jpg?k=c2534216e9a2e6a2234ad7ab96db32d20aeaed7de78490f6a24ae4f2d826d0b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826140.jpg?k=b227cfa8272571875642a3943c5fbf711c7f6dac3cea0d22402a424699422d8d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487826049.jpg?k=67bcf2c6640186422c807d0ba1ef9b8dd0df7406883616b5a793ed9914e7a046&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+nearbyRestaurants:
+  - "Al Mare Borsh 30 m"
+  - "Elisabeta 100 m"
+nearbyBeaches:
+  - "Borsh Beach 150 m"
+  - "Buneci Beach 2.9 km"
+  - "Qeparo Beach 4.2 km"
+  - "Porto Palermo Beach 3 6 km"
+  - "Porto Palermo Beach 7 km"
+airports:
+  - "Corfu International Airport 46 km"
+  - "Ioannina Airport 88 km"
+reviews:
+  - name: "Kamila"
+    country: "Poland"
+    text: "“A comfortable apartment, a quiet spot but still close to restaurants and markets. A small beach just outside the gate. Washing machine is a plus.”"
+  - name: "Agnes"
+    country: "Hungary"
+    text: "“It is very close to the beach ( 15 m). It is clean, the host is nice and helpful. I recommend it.”"
+  - name: "Marian"
+    country: "Czech Republic"
+    text: "“very kind hosts, wonderful view of the great beach. right by the sea, comfortable. 👍”"
+bookingURL: "https://www.booking.com/hotel/al/family.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Borsh Beach Apartments - BBA are designed with the guest's comfort in mind, featuring air-conditioned units equipped with private bathrooms and kitchens. For those who appreciate a view, select units boast balconies or patios offering expansive sea vistas, enhancing the serene experience. The attention to detail is evident with the inclusion of bed linen and towels in each unit, ensuring a hassle-free stay.
 
 The convenience on-site extends to a minimarket, catering to guests' everyday needs without the need to venture far. Additionally, the property's barbecue facilities provide an ideal setting for a leisurely evening under the stars.
 

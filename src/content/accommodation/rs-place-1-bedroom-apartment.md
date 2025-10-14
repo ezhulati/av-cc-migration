@@ -1,4 +1,91 @@
----\ntitle: "Rs Place 1-Bedroom Apartment"\ndescription: "Rs Place 1-Bedroom Apartment emerges as a serene haven in the vibrant heart of Tirana, strategically positioned to offer both tranquility and easy access to the city's most sought-after attractions."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408672541.jpg?k=e1d3134e3ae82168fd13722f293cfd2cc4735bab87f324d51cb2ac7ce5ed445a&o=&hp=1"\nlanguage: en\nslug: rs-place-1-bedroom-apartment\naddress: "Don Bosko, Rruga Egnatia, Kompleksi Vizion Plus, apartamenti 9, kulla 6, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33671492\n  lng: 19.80247099\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 31\nratings:\n  overall: 9.2\n  location: 9.3\n  cleanliness: 9.2\n  facilities: 8.3\n  value: 9.6\n  comfort: 9.1\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408672541.jpg?k=e1d3134e3ae82168fd13722f293cfd2cc4735bab87f324d51cb2ac7ce5ed445a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511598121.jpg?k=29abc08929888c4b58d0f1e676df02ac9ef5c72c7f9866260c9b540da566b9ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673740.jpg?k=5593f488d09c25366c0d11649efb3c11f85490ebbf4bf940b32c1c8e6614c226&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673747.jpg?k=a52c8c06d58ba24a3aba4c06a79e7f1ff3c1497bee8c226506e361f333c66ae8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673719.jpg?k=e3ad2ddad2364018b5562d56a35a3700cb9e8392a9fd3ab482c8dcbbacc835d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673742.jpg?k=2999c62cc98c5896965df4e6d79916e46263a70f8632178cff54c41444c65fd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408672927.jpg?k=e251059e5cd7a4eb826fe6fbc1e41981695d6340b8cbf8fb139af83ce19d5195&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673735.jpg?k=fc56020fc56e6fb034ba4c82b3b74f877aba199a64a00ca11a46b5da1937acca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511599617.jpg?k=a62099fec6de68f3dcb02271c82d2739dc538b6f64d7456f5289c89080854a20&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.6 km"\n  - "Skanderbeg Square 1.7 km"\n  - "Clock Tower Tirana 1.8 km"\n  - "Rinia Park 1.9 km"\n  - "National Gallery of Arts Tirana 1.9 km"\n  - "Former Residence of Enver Hoxha 2.1 km"\n  - "Tanners' Bridge 2.3 km"\n  - "Grand Park of Tirana 3.4 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Fast Food Ektos 150 m"\n  - "Lionfish 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Don Bosko 300 m"\n  - "Sheshi Rekreativ Mine Peza 450 m"\n  - "Sheshi Rekreativ Lord Bajron 750 m"\n  - "Sheshi Rekreativ Parku 1Km 850 m"\n  - "Sheshi Paris 1.3 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.4 km"\n  - "Amazing Nature 1.4 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.5 km"\n  - "National Museum of History Albania 1.5 km"\n  - "Sheshi Rekreativ Sali Butka 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Zainah"\n    country: "Saudi Arabia"\n    text: "“Overall, the place was perfect for our short stay. The apartment is spacious and suitable for a group of 4 or more. The contents of the apartment are exactly as described in the description of the apartment. The neighborhood, many various...”"\n  - name: "Maria"\n    country: "Spain"\n    text: "“Amplio y muy cómodo. Nos facilitaron todo en todo momento”"\n  - name: "Csillag"\n    country: "Hungary"\n    text: "“Nagyon szép és tágas apartman. A közelben rengeteg üzlet van. A mélygarázs nagyon hasznos volt.”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-1-bedroom-apartment-with-free-parking-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a slice of the city life with its quiet street views, complemented by the convenience of being only 41 km from the Rock of Kavaje and a short 1.7 km journey from the National Museum of History Albania. Connectivity is never an issue, with free WiFi enveloping guests in every corner of the premises, ensuring that the world is at their fingertips, even as they retreat from it.
+---
+title: "Rs Place 1-Bedroom Apartment"
+description: "Rs Place 1-Bedroom Apartment emerges as a serene haven in the vibrant heart of Tirana, strategically positioned to offer both tranquility and easy access to the city's most sought-after attractions."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408672541.jpg?k=e1d3134e3ae82168fd13722f293cfd2cc4735bab87f324d51cb2ac7ce5ed445a&o=&hp=1"
+language: en
+slug: rs-place-1-bedroom-apartment
+address: "Don Bosko, Rruga Egnatia, Kompleksi Vizion Plus, apartamenti 9, kulla 6, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33671492
+  lng: 19.80247099
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 31
+ratings:
+  overall: 9.2
+  location: 9.3
+  cleanliness: 9.2
+  facilities: 8.3
+  value: 9.6
+  comfort: 9.1
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408672541.jpg?k=e1d3134e3ae82168fd13722f293cfd2cc4735bab87f324d51cb2ac7ce5ed445a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511598121.jpg?k=29abc08929888c4b58d0f1e676df02ac9ef5c72c7f9866260c9b540da566b9ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673740.jpg?k=5593f488d09c25366c0d11649efb3c11f85490ebbf4bf940b32c1c8e6614c226&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673747.jpg?k=a52c8c06d58ba24a3aba4c06a79e7f1ff3c1497bee8c226506e361f333c66ae8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673719.jpg?k=e3ad2ddad2364018b5562d56a35a3700cb9e8392a9fd3ab482c8dcbbacc835d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673742.jpg?k=2999c62cc98c5896965df4e6d79916e46263a70f8632178cff54c41444c65fd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408672927.jpg?k=e251059e5cd7a4eb826fe6fbc1e41981695d6340b8cbf8fb139af83ce19d5195&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408673735.jpg?k=fc56020fc56e6fb034ba4c82b3b74f877aba199a64a00ca11a46b5da1937acca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511599617.jpg?k=a62099fec6de68f3dcb02271c82d2739dc538b6f64d7456f5289c89080854a20&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking on site"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.6 km"
+  - "Skanderbeg Square 1.7 km"
+  - "Clock Tower Tirana 1.8 km"
+  - "Rinia Park 1.9 km"
+  - "National Gallery of Arts Tirana 1.9 km"
+  - "Former Residence of Enver Hoxha 2.1 km"
+  - "Tanners' Bridge 2.3 km"
+  - "Grand Park of Tirana 3.4 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Fast Food Ektos 150 m"
+  - "Lionfish 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Don Bosko 300 m"
+  - "Sheshi Rekreativ Mine Peza 450 m"
+  - "Sheshi Rekreativ Lord Bajron 750 m"
+  - "Sheshi Rekreativ Parku 1Km 850 m"
+  - "Sheshi Paris 1.3 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.4 km"
+  - "Amazing Nature 1.4 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 1.5 km"
+  - "National Museum of History Albania 1.5 km"
+  - "Sheshi Rekreativ Sali Butka 1.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 9 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Zainah"
+    country: "Saudi Arabia"
+    text: "“Overall, the place was perfect for our short stay. The apartment is spacious and suitable for a group of 4 or more. The contents of the apartment are exactly as described in the description of the apartment. The neighborhood, many various...”"
+  - name: "Maria"
+    country: "Spain"
+    text: "“Amplio y muy cómodo. Nos facilitaron todo en todo momento”"
+  - name: "Csillag"
+    country: "Hungary"
+    text: "“Nagyon szép és tágas apartman. A közelben rengeteg üzlet van. A mélygarázs nagyon hasznos volt.”"
+bookingURL: "https://www.booking.com/hotel/al/lovely-1-bedroom-apartment-with-free-parking-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This apartment doesn't just offer a place to stay; it provides a slice of the city life with its quiet street views, complemented by the convenience of being only 41 km from the Rock of Kavaje and a short 1.7 km journey from the National Museum of History Albania. Connectivity is never an issue, with free WiFi enveloping guests in every corner of the premises, ensuring that the world is at their fingertips, even as they retreat from it.
 
 Designed with an eye for comfort and a flair for modern living, the apartment boasts a spacious layout that includes a bedroom, a bathroom, and a living area that seamlessly blends into a fully equipped kitchen. The inclusion of a flat-screen TV with streaming services ensures entertainment is always readily available. The balcony, offering city views, serves as a private oasis where guests can unwind and soak in the urban atmosphere. Soundproofing and a private entrance underscore the apartment's commitment to privacy and tranquility.
 

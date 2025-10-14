@@ -1,5 +1,79 @@
----\ntitle: "Tolis Rooms"\ndescription: "Tolis Rooms, located in the picturesque town of Himare, stands out as a serene retreat just a short 2."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427383893.jpg?k=6b861ad861aa26310d92d860c5923161fc5116ef5ee8c225d6427db5a1c2678f&o=&hp=1"\nlanguage: en\nslug: tolis-rooms\naddress: "20 SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.12025017\n  lng: 19.73207399\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 51\nratings:\n  overall: 9\n  location: 8.9\n  cleanliness: 9.5\n  facilities: 9.4\n  value: 9.1\n  comfort: 9.4\n  staff: 9.3\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427383893.jpg?k=6b861ad861aa26310d92d860c5923161fc5116ef5ee8c225d6427db5a1c2678f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440974401.jpg?k=b707341cb8be74dd58d45024592c3942a7a37c03bd16cfcffbba7e35ab55a6ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443824.jpg?k=65855426c2e5ee427bb2cd815c3237452253b6d78a6f4afe35f7061a7f946163&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440974316.jpg?k=355e2a57daec13af3b5c4e085b6e430941d9d241304bb62041fb993d81e0a452&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440974354.jpg?k=d0aa76eed6047ab1a263ba87638f3f5de4d7fd11cb7681502010191c2809176e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443993.jpg?k=73ee71ad49522f3b72d59cba01811aa95c1ad46cec767789015dd3c8e64d1c55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443563.jpg?k=65a03a3b0fe9fb780ffefb9c45667e692cf22002287945ed1897e82e7fa11c1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443455.jpg?k=14d731e8535e5561e8a6a2c39a26dcd01d1c07781191c49027926b11b0ff0f76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443323.jpg?k=50cc468938ed282faacb4bacd1edac931ab0831a856624e0d851bd0c6c0429fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472206679.jpg?k=c01d5e9e8458c4b3bd3a60006f08e5e382079ea7c3aa89a4e1b1ec144a31626d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472206481.jpg?k=1f065375f2e56e92cbca2a0de830128b7394fbe58026635067e0b36a459d11ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472206308.jpg?k=1b61b0ce81dbe2ca283fe68a03accc5999f852fff8794360482b8a243f160b77&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Café Butterfly 300 m"\n  - "Boho Beach Bar 1.4 km"\nnearbyBeaches:\n  - "Livadhi Beach 1.4 km"\n  - "Akuariumit Beach 1.9 km"\n  - "Spille Beach 2.2 km"\n  - "Jale Beach 2.5 km"\n  - "Maracit Beach 2.7 km"\nwhatsNearby:\n  - "Llogora National Park 14 km"\nairports:\n  - "Corfu International Airport 58 km"\nreviews:\n  - name: "Vanesa"\n    country: "Spain"\n    text: "“The pictures do not depict how wonderful this place is. The views from the attic room are stunning. Olivia and Tolis are amazing hosts. We spent a really good time with them! Also the breakfast is complete and is composed of local products as well...”"\n  - name: "Bruno"\n    country: "Albania"\n    text: "“I usually don't write very good reviews, but this please deserve 10 out of 10. Very good location near the castle. The pace was clean, and with lots of trees. The view is fantastic. One of the best experience ever.
-Probably the best thing... The...”"\n  - name: "Espinosa"\n    country: "Spain"\n    text: "“I really loved the location. When travelling to Himare you can choose to stay right next to the beach (very busy and full of people) or in Himare original town, where Tolis rooms are. A beautiful town with an amazing castle a few meters away. You...”"\nbookingURL: "https://www.booking.com/hotel/al/sophie-rooms-himare.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach apartment is thoughtfully designed to maximize comfort and privacy. Select units boast terraces that offer serene inner courtyard views, creating the perfect backdrop for a morning coffee or an evening unwind. The attention to detail extends to the amenities provided, with each unit featuring a private bathroom, ample wardrobe space, and the convenience of a fridge.
+---
+title: "Tolis Rooms"
+description: "Tolis Rooms, located in the picturesque town of Himare, stands out as a serene retreat just a short 2."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427383893.jpg?k=6b861ad861aa26310d92d860c5923161fc5116ef5ee8c225d6427db5a1c2678f&o=&hp=1"
+language: en
+slug: tolis-rooms
+address: "20 SH8, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.12025017
+  lng: 19.73207399
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 51
+ratings:
+  overall: 9
+  location: 8.9
+  cleanliness: 9.5
+  facilities: 9.4
+  value: 9.1
+  comfort: 9.4
+  staff: 9.3
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427383893.jpg?k=6b861ad861aa26310d92d860c5923161fc5116ef5ee8c225d6427db5a1c2678f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440974401.jpg?k=b707341cb8be74dd58d45024592c3942a7a37c03bd16cfcffbba7e35ab55a6ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443824.jpg?k=65855426c2e5ee427bb2cd815c3237452253b6d78a6f4afe35f7061a7f946163&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440974316.jpg?k=355e2a57daec13af3b5c4e085b6e430941d9d241304bb62041fb993d81e0a452&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440974354.jpg?k=d0aa76eed6047ab1a263ba87638f3f5de4d7fd11cb7681502010191c2809176e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443993.jpg?k=73ee71ad49522f3b72d59cba01811aa95c1ad46cec767789015dd3c8e64d1c55&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443563.jpg?k=65a03a3b0fe9fb780ffefb9c45667e692cf22002287945ed1897e82e7fa11c1c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443455.jpg?k=14d731e8535e5561e8a6a2c39a26dcd01d1c07781191c49027926b11b0ff0f76&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483443323.jpg?k=50cc468938ed282faacb4bacd1edac931ab0831a856624e0d851bd0c6c0429fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472206679.jpg?k=c01d5e9e8458c4b3bd3a60006f08e5e382079ea7c3aa89a4e1b1ec144a31626d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472206481.jpg?k=1f065375f2e56e92cbca2a0de830128b7394fbe58026635067e0b36a459d11ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472206308.jpg?k=1b61b0ce81dbe2ca283fe68a03accc5999f852fff8794360482b8a243f160b77&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Café Butterfly 300 m"
+  - "Boho Beach Bar 1.4 km"
+nearbyBeaches:
+  - "Livadhi Beach 1.4 km"
+  - "Akuariumit Beach 1.9 km"
+  - "Spille Beach 2.2 km"
+  - "Jale Beach 2.5 km"
+  - "Maracit Beach 2.7 km"
+whatsNearby:
+  - "Llogora National Park 14 km"
+airports:
+  - "Corfu International Airport 58 km"
+reviews:
+  - name: "Vanesa"
+    country: "Spain"
+    text: "“The pictures do not depict how wonderful this place is. The views from the attic room are stunning. Olivia and Tolis are amazing hosts. We spent a really good time with them! Also the breakfast is complete and is composed of local products as well...”"
+  - name: "Bruno"
+    country: "Albania"
+    text: "“I usually don't write very good reviews, but this please deserve 10 out of 10. Very good location near the castle. The pace was clean, and with lots of trees. The view is fantastic. One of the best experience ever.
+Probably the best thing... The...”"
+  - name: "Espinosa"
+    country: "Spain"
+    text: "“I really loved the location. When travelling to Himare you can choose to stay right next to the beach (very busy and full of people) or in Himare original town, where Tolis rooms are. A beautiful town with an amazing castle a few meters away. You...”"
+bookingURL: "https://www.booking.com/hotel/al/sophie-rooms-himare.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Each apartment is thoughtfully designed to maximize comfort and privacy. Select units boast terraces that offer serene inner courtyard views, creating the perfect backdrop for a morning coffee or an evening unwind. The attention to detail extends to the amenities provided, with each unit featuring a private bathroom, ample wardrobe space, and the convenience of a fridge.
 
 Mornings at Tolis Rooms are greeted with a delightful continental breakfast, offering a variety of options including freshly made pancakes, a selection of fruits, and refreshing juices - a perfect start to the day.
 

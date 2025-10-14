@@ -1,4 +1,89 @@
----\ntitle: "Duki's Apartments"\ndescription: "Duki's Apartments emerges as a prime choice for travelers seeking a seamless escape in Orikum, offering a blend of convenience and serenity with its poolside views and comprehensive amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263289543.jpg?k=56dc822a293d9da54bb4941b483b5d240486f8905cfcfe9b64f6327efa28d992&o=&hp=1"\nlanguage: en\nslug: duki-s-apartments\naddress: "Rruga Orikum Apartment 5, 2nd floor, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.33998941\n  lng: 19.47679202\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 12\nratings:\n  overall: 8.7\n  location: 8.3\n  cleanliness: 9\n  facilities: 8.1\n  value: 8.5\n  comfort: 9.2\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263289543.jpg?k=56dc822a293d9da54bb4941b483b5d240486f8905cfcfe9b64f6327efa28d992&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263403430.jpg?k=df65f5a4efd4cf0df26eae0a673971d448208ca161ebca434c0f16428cfda59c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429293.jpg?k=0dbf8d384ea9ea2347913fe30c75b15745f40ca321e60959e91cdcc89580ee4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429284.jpg?k=dde518553eb96aa1df1e1b9ef28860748102fee88618a549839c3209ebdc382c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209322.jpg?k=ab82068fc21313b005e1d1024a6c5cfa643d94b360f19fd3edf7b390f39f1d7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215447326.jpg?k=0adce57efcdf9e282b37e8b9a374bc4559d87312caf7abd934d96c25a9fee111&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429548.jpg?k=2277d3de22839c30917190e958da1342ba0c39fd5d9e7f27215dbb212ee070ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429341.jpg?k=bae33a81873d353aa62c04572a444ee338df59121b7e41caab51d6823152605f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475207789.jpg?k=790f3636345163209fdf6ea44f147b6a57907b11d3a4b3e1d166d86c9b7ab9bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429424.jpg?k=8ab0239272193548a7028efc3fc36236b42872f69d8e92cfdcb603ce197664b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429632.jpg?k=cc17f650272425aea9f9acbd91b60d76c0d8a34011165a0f733faf7f2a539de3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429597.jpg?k=c7566112ccade0855bb0cd00a7350777cbbf585ac175a794a7c3eca065e7d8f9&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Kume 150 m"\n  - "Restorant Ibiza 300 m"\nnearbyBeaches:\n  - "Baro Beach 200 m"\n  - "Nettuno Beach 550 m"\n  - "Al Breeze Beach 850 m"\n  - "Radhimë Beach 1.5 km"\n  - "Orikum Beach 2.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 11 km"\n  - "Llogora National Park 14 km"\n  - "Kuzum Baba 14 km"\n  - "Independence Square 15 km"\nairports:\n  - "Corfu International Airport 89 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Jaroslav"\n    country: "Czech Republic"\n    text: "“Apartment close to the beach (pebble beach) and plenty of restaurants (in some you could pay by card).”"\n  - name: "Magdalena"\n    country: "Poland"\n    text: "“The apartment is clean, everything you need is provided.”"\n  - name: "Magda"\n    country: "Poland"\n    text: "“At first we couldn't find the address... After a phone call, the owner came to the station to pick us up. Very nice and friendly people. The apartment was clean. The only minus is that it was not clearly written in the booking that the swimming...”"\nbookingURL: "https://www.booking.com/hotel/al/duki-39-s-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Duki's Apartments are thoughtfully designed to cater to the needs of modern travelers. Each unit boasts a cozy seating area with a sofa bed, a dining space, and a kitchen that leaves no culinary desire unmet, featuring an oven, fridge, stovetop, and an array of kitchenware. The highlight, however, is the private pool available in each unit, offering serene garden views, ensuring privacy and relaxation. To further enhance the comfort of guests, each apartment is furnished with quality bed linen and towels.
+---
+title: "Duki's Apartments"
+description: "Duki's Apartments emerges as a prime choice for travelers seeking a seamless escape in Orikum, offering a blend of convenience and serenity with its poolside views and comprehensive amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263289543.jpg?k=56dc822a293d9da54bb4941b483b5d240486f8905cfcfe9b64f6327efa28d992&o=&hp=1"
+language: en
+slug: duki-s-apartments
+address: "Rruga Orikum Apartment 5, 2nd floor, 9426 Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.33998941
+  lng: 19.47679202
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 12
+ratings:
+  overall: 8.7
+  location: 8.3
+  cleanliness: 9
+  facilities: 8.1
+  value: 8.5
+  comfort: 9.2
+  staff: 9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263289543.jpg?k=56dc822a293d9da54bb4941b483b5d240486f8905cfcfe9b64f6327efa28d992&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263403430.jpg?k=df65f5a4efd4cf0df26eae0a673971d448208ca161ebca434c0f16428cfda59c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429293.jpg?k=0dbf8d384ea9ea2347913fe30c75b15745f40ca321e60959e91cdcc89580ee4b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429284.jpg?k=dde518553eb96aa1df1e1b9ef28860748102fee88618a549839c3209ebdc382c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475209322.jpg?k=ab82068fc21313b005e1d1024a6c5cfa643d94b360f19fd3edf7b390f39f1d7a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215447326.jpg?k=0adce57efcdf9e282b37e8b9a374bc4559d87312caf7abd934d96c25a9fee111&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429548.jpg?k=2277d3de22839c30917190e958da1342ba0c39fd5d9e7f27215dbb212ee070ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429341.jpg?k=bae33a81873d353aa62c04572a444ee338df59121b7e41caab51d6823152605f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475207789.jpg?k=790f3636345163209fdf6ea44f147b6a57907b11d3a4b3e1d166d86c9b7ab9bb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429424.jpg?k=8ab0239272193548a7028efc3fc36236b42872f69d8e92cfdcb603ce197664b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429632.jpg?k=cc17f650272425aea9f9acbd91b60d76c0d8a34011165a0f733faf7f2a539de3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263429597.jpg?k=c7566112ccade0855bb0cd00a7350777cbbf585ac175a794a7c3eca065e7d8f9&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Kume 150 m"
+  - "Restorant Ibiza 300 m"
+nearbyBeaches:
+  - "Baro Beach 200 m"
+  - "Nettuno Beach 550 m"
+  - "Al Breeze Beach 850 m"
+  - "Radhimë Beach 1.5 km"
+  - "Orikum Beach 2.1 km"
+whatsNearby:
+  - "Scooby Doo Vlore 11 km"
+  - "Llogora National Park 14 km"
+  - "Kuzum Baba 14 km"
+  - "Independence Square 15 km"
+airports:
+  - "Corfu International Airport 89 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Jaroslav"
+    country: "Czech Republic"
+    text: "“Apartment close to the beach (pebble beach) and plenty of restaurants (in some you could pay by card).”"
+  - name: "Magdalena"
+    country: "Poland"
+    text: "“The apartment is clean, everything you need is provided.”"
+  - name: "Magda"
+    country: "Poland"
+    text: "“At first we couldn't find the address... After a phone call, the owner came to the station to pick us up. Very nice and friendly people. The apartment was clean. The only minus is that it was not clearly written in the booking that the swimming...”"
+bookingURL: "https://www.booking.com/hotel/al/duki-39-s-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Duki's Apartments are thoughtfully designed to cater to the needs of modern travelers. Each unit boasts a cozy seating area with a sofa bed, a dining space, and a kitchen that leaves no culinary desire unmet, featuring an oven, fridge, stovetop, and an array of kitchenware. The highlight, however, is the private pool available in each unit, offering serene garden views, ensuring privacy and relaxation. To further enhance the comfort of guests, each apartment is furnished with quality bed linen and towels.
 
 For those keen on exploring the local area, Duki's Apartments presents a variety of outdoor activities. From fishing to hiking, the surroundings of Orikum offer ample opportunities for adventure. Families will appreciate the children's playground, making it a suitable option for guests of all ages.
 

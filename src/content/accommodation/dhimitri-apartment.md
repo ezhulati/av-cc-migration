@@ -1,3 +1,78 @@
----\ntitle: "Dhimitri Apartment"\ndescription: "Dhimitri Apartment emerges as a prime choice for travelers seeking comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372720.jpg?k=4b61b2c916760dc0f123f95ef141a01b5f0cc355fe3721bf39659677ffce6a9c&o=&hp=1"\nlanguage: en\nslug: dhimitri-apartment\naddress: "Rrugica Koco Brisku e Ana Komnena, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70970662\n  lng: 19.94600327\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 31\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 8.9\n  value: 9.5\n  comfort: 9.3\n  staff: 9.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372720.jpg?k=4b61b2c916760dc0f123f95ef141a01b5f0cc355fe3721bf39659677ffce6a9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372725.jpg?k=948ed8c9d14ccc2ce286804b1648818bf45adf8854ca051ea817f3d9c74a9717&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372761.jpg?k=b606a28c259a75064e6abb6283786fe8698fa0901fea8de9d3890b7860d18be2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372775.jpg?k=d4f370fcfaada05e953f99c9f19e2d38b3186e2abe7b90da3488e6224eab0a3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372779.jpg?k=1761a64095a38ef061c6b0214acb16d78979a6b6c84ae7dcf2cdebf5904325ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372744.jpg?k=31eb4f6a7dfbdc71912e8a2fc3d265ad02bcfa9e1caee61ea0b981f605730817&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372760.jpg?k=fa242302438fd87133767025b1a91b475597c96bff05721b9869eabfffd1efc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372722.jpg?k=00700fd690748002414e74885fd7aa57f18c53a0e8801b2b92119bd9e7fa4d29&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372723.jpg?k=b4d83b9cbbfcc7f690f0ef51aa1766c694dd61b5cb41262fa8674d4efd2f352f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372730.jpg?k=2b266ec3f3aae1e2f0b14e0d29e8cbb0f3a86ef942dee69ea9ed0bae7660ab60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372766.jpg?k=35a0145d5eb10053daa4d5efd8cd645f9d661272c9c8259aec2b599e86ebb89b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372771.jpg?k=98c9fa27ff1748d42f1806deabf612331aeab64cc18c7cd263234655dc51b942&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372756.jpg?k=eb29a1e2d96ae9ab00f85814390dc559663689aeb0587e3af2b197b3347473ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372782.jpg?k=2507c85854522ea6e70417d84f2ae1bca0791569cbd3565fc2f47d5f29668d94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372789.jpg?k=a89dd82f3ce60935d66843ddbf8d89e2ef457d2f893455966278b6c358d26b72&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Bar Restorant Tradicional Antipatrea 30 m"\n  - "Te Zalua 50 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Sathyavathi"\n    country: "United Kingdom"\n    text: "“Everything about the stay was amazing. Great location with amazing vegetarian food options at Temi. The rooms were very cosy and comfortable. View from the living room and dining is stunning.”"\n  - name: "Lesly"\n    country: "United Kingdom"\n    text: "“Beautiful house, inside the citidal of Berat. Friendly local cat. Lots of restaurants and pleasant bars. Great fun.”"\n  - name: "Andrea"\n    country: "Switzerland"\n    text: "“Really amazing place, super clean, a lot of flexibility for the check in and easy check out.”"\nbookingURL: "https://www.booking.com/hotel/al/dhimitri-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nPositioned on the ground floor for easy access, the apartment is generously sized and thoughtfully appointed with two bedrooms, ensuring ample space for families or groups. Entertainment and convenience are well catered for with a flat-screen TV and a fully equipped kitchen, complete with modern appliances such as a microwave, toaster, washing machine, and fridge. Guests will appreciate the commitment to a smoke-free environment, ensuring a fresh and inviting atmosphere.
+---
+title: "Dhimitri Apartment"
+description: "Dhimitri Apartment emerges as a prime choice for travelers seeking comfort and convenience in Berat."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372720.jpg?k=4b61b2c916760dc0f123f95ef141a01b5f0cc355fe3721bf39659677ffce6a9c&o=&hp=1"
+language: en
+slug: dhimitri-apartment
+address: "Rrugica Koco Brisku e Ana Komnena, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.70970662
+  lng: 19.94600327
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 31
+ratings:
+  overall: 9.2
+  location: 9.7
+  cleanliness: 9.6
+  facilities: 8.9
+  value: 9.5
+  comfort: 9.3
+  staff: 9.7
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372720.jpg?k=4b61b2c916760dc0f123f95ef141a01b5f0cc355fe3721bf39659677ffce6a9c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372725.jpg?k=948ed8c9d14ccc2ce286804b1648818bf45adf8854ca051ea817f3d9c74a9717&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372761.jpg?k=b606a28c259a75064e6abb6283786fe8698fa0901fea8de9d3890b7860d18be2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372775.jpg?k=d4f370fcfaada05e953f99c9f19e2d38b3186e2abe7b90da3488e6224eab0a3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372779.jpg?k=1761a64095a38ef061c6b0214acb16d78979a6b6c84ae7dcf2cdebf5904325ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372744.jpg?k=31eb4f6a7dfbdc71912e8a2fc3d265ad02bcfa9e1caee61ea0b981f605730817&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372760.jpg?k=fa242302438fd87133767025b1a91b475597c96bff05721b9869eabfffd1efc3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372722.jpg?k=00700fd690748002414e74885fd7aa57f18c53a0e8801b2b92119bd9e7fa4d29&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372723.jpg?k=b4d83b9cbbfcc7f690f0ef51aa1766c694dd61b5cb41262fa8674d4efd2f352f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372730.jpg?k=2b266ec3f3aae1e2f0b14e0d29e8cbb0f3a86ef942dee69ea9ed0bae7660ab60&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372766.jpg?k=35a0145d5eb10053daa4d5efd8cd645f9d661272c9c8259aec2b599e86ebb89b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372771.jpg?k=98c9fa27ff1748d42f1806deabf612331aeab64cc18c7cd263234655dc51b942&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372756.jpg?k=eb29a1e2d96ae9ab00f85814390dc559663689aeb0587e3af2b197b3347473ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372782.jpg?k=2507c85854522ea6e70417d84f2ae1bca0791569cbd3565fc2f47d5f29668d94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372789.jpg?k=a89dd82f3ce60935d66843ddbf8d89e2ef457d2f893455966278b6c358d26b72&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Bar Restorant Tradicional Antipatrea 30 m"
+  - "Te Zalua 50 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 17 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 84 km"
+reviews:
+  - name: "Sathyavathi"
+    country: "United Kingdom"
+    text: "“Everything about the stay was amazing. Great location with amazing vegetarian food options at Temi. The rooms were very cosy and comfortable. View from the living room and dining is stunning.”"
+  - name: "Lesly"
+    country: "United Kingdom"
+    text: "“Beautiful house, inside the citidal of Berat. Friendly local cat. Lots of restaurants and pleasant bars. Great fun.”"
+  - name: "Andrea"
+    country: "Switzerland"
+    text: "“Really amazing place, super clean, a lot of flexibility for the check in and easy check out.”"
+bookingURL: "https://www.booking.com/hotel/al/dhimitri-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Historical Sites Proximity"
+bestCategories: "Historical Sites Proximity"
+category: "Historical Sites Proximity"
+---
+
+Positioned on the ground floor for easy access, the apartment is generously sized and thoughtfully appointed with two bedrooms, ensuring ample space for families or groups. Entertainment and convenience are well catered for with a flat-screen TV and a fully equipped kitchen, complete with modern appliances such as a microwave, toaster, washing machine, and fridge. Guests will appreciate the commitment to a smoke-free environment, ensuring a fresh and inviting atmosphere.
 
 For those looking to explore beyond the comforts of Dhimitri Apartment, Tirana International Mother Teresa Airport is located 117 km away, making it a manageable distance for travelers. This property stands out for its blend of security, privacy, and comfort, offering private check-in and check-out services alongside full-day security to ensure peace of mind throughout the stay. Dhimitri Apartment is not just a place to stay; it's a gateway to experiencing Berat with the comforts of home at your fingertips.

@@ -1,4 +1,68 @@
----\ntitle: "Vila Ergys"\ndescription: "Vila Ergys emerges as a serene retreat in Pogradec, perfectly positioned just a stone's throw away from the enchanting Ohrid Lake Springs and the historical Bay of Bones."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520783856.jpg?k=735a2bd3c998766202e4299d8cc2b70bb15b00b090209e337358fd9ac081fdef&o=&hp=1"\nlanguage: en\nslug: vila-ergys\naddress: "Rruga e Drilonit, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.89874682\n  lng: 20.67036818\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520783856.jpg?k=735a2bd3c998766202e4299d8cc2b70bb15b00b090209e337358fd9ac081fdef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520799677.jpg?k=0a111aae09e5a9721b4a60846d8183803768211f177bfaa963a673cbf7143d6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521673752.jpg?k=4791866b8795b501d5cd97a806cfab78129232fcdbfd89caeb60b21f40017166&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523424342.jpg?k=3bd6f197319737880020363786f6d5264958d711cd315de7ef4255a4782f7b18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523424354.jpg?k=34eb5e992a62be13091e2aa71d15201850179161122945423fb4725317b63137&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523420723.jpg?k=6a4cb1cd43f7fdfe55a099dd97859f3dbbdf4eef50b2b2e0a2d1732c557b50aa&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (75 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Apartment - Ground Floor"\n  - "Double Room"\n  - "Family Room"\n  - "Family Room"\n  - "Family Suite"\n  - "Apartment"\nnearbyRestaurants:\n  - "Bar Eleven 250 m"\n  - "Fenix 300 m"\nwhatsNearby:\n  - "Driloni National Park 100 m"\n  - "National Park Galicica 6 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 97 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-ergys-pogradec-district.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nEach apartment at Vila Ergys is thoughtfully equipped with essential amenities to ensure a comfortable stay. From spacious wardrobes to private bathrooms complete with bidets and slippers, the attention to detail is evident. The promise of free WiFi across the board is fulfilled, with select rooms further enhancing your stay with the addition of a balcony. For those needing to attend to work or planning, a desk and a TV are standard inclusions in every unit.
+---
+title: "Vila Ergys"
+description: "Vila Ergys emerges as a serene retreat in Pogradec, perfectly positioned just a stone's throw away from the enchanting Ohrid Lake Springs and the historical Bay of Bones."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520783856.jpg?k=735a2bd3c998766202e4299d8cc2b70bb15b00b090209e337358fd9ac081fdef&o=&hp=1"
+language: en
+slug: vila-ergys
+address: "Rruga e Drilonit, 7301 Pogradec, Albania"
+city: "Pogradec"
+location: "Pogradec"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.89874682
+  lng: 20.67036818
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520783856.jpg?k=735a2bd3c998766202e4299d8cc2b70bb15b00b090209e337358fd9ac081fdef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520799677.jpg?k=0a111aae09e5a9721b4a60846d8183803768211f177bfaa963a673cbf7143d6d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521673752.jpg?k=4791866b8795b501d5cd97a806cfab78129232fcdbfd89caeb60b21f40017166&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523424342.jpg?k=3bd6f197319737880020363786f6d5264958d711cd315de7ef4255a4782f7b18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523424354.jpg?k=34eb5e992a62be13091e2aa71d15201850179161122945423fb4725317b63137&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523420723.jpg?k=6a4cb1cd43f7fdfe55a099dd97859f3dbbdf4eef50b2b2e0a2d1732c557b50aa&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (75 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "Apartment - Ground Floor"
+  - "Double Room"
+  - "Family Room"
+  - "Family Room"
+  - "Family Suite"
+  - "Apartment"
+nearbyRestaurants:
+  - "Bar Eleven 250 m"
+  - "Fenix 300 m"
+whatsNearby:
+  - "Driloni National Park 100 m"
+  - "National Park Galicica 6 km"
+  - "National Park Galicica 14 km"
+  - "Bay of Bones 15 km"
+airports:
+  - "Ohrid Airport 30 km"
+  - "Kastoria National Airport 71 km"
+  - "Tirana International Airport Mother Teresa 97 km"
+bookingURL: "https://www.booking.com/hotel/al/vila-ergys-pogradec-district.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+Each apartment at Vila Ergys is thoughtfully equipped with essential amenities to ensure a comfortable stay. From spacious wardrobes to private bathrooms complete with bidets and slippers, the attention to detail is evident. The promise of free WiFi across the board is fulfilled, with select rooms further enhancing your stay with the addition of a balcony. For those needing to attend to work or planning, a desk and a TV are standard inclusions in every unit.
 
 The allure of Vila Ergys extends beyond its comfortable accommodations. Guests are invited to immerse themselves in the local culture and landscape through a variety of activities. Whether it's exploring the surroundings on a bike tour or experiencing the vibrant nightlife through pub crawls, there's something for everyone to enjoy.
 

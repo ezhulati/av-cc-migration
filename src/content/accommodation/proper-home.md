@@ -1,3 +1,63 @@
----\ntitle: "Proper Home"\ndescription: "Proper Home emerges as a serene retreat in the historic heart of Gjirokastër, boasting a balcony-adorned accommodation that promises both privacy and panoramic views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875095.jpg?k=2d73dc1fd1914681f20d2bb0fd6daf7e95eccb55cb4b7f160480b798e708fc4b&o=&hp=1"\nlanguage: en\nslug: proper-home\naddress: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08156296\n  lng: 20.14570626\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.1\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 8.3\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875095.jpg?k=2d73dc1fd1914681f20d2bb0fd6daf7e95eccb55cb4b7f160480b798e708fc4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875152.jpg?k=fee9c278c8aa005758115e5b6904e9e584735e9cbe9a4596baf38c27ba7f0d7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875371.jpg?k=0fee53fa590f4911037d91128c511e044095d8afda9d3635c1d4a08047c7eb99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875268.jpg?k=5762dee6434de20d605bf9194e1c6283dd9352ae6d3e7e4203dfbea9d1105092&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875090.jpg?k=c17e71949374989c23a1d8e5e425ac3e5844b0bfd6aa82a5a47fb1de3ce54819&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875116.jpg?k=d9be67e48cf9ac8b30ba168e0bee1a116aa5abd0a2857f892f2f948c81e224e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875145.jpg?k=fa055bd3f6ec11cf9f6533b2b5b3ded2c59bd1f0bf92c1f1fe5541bd852f61ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875397.jpg?k=22e10af8f67337fed9340d949c20092ae839667d646dd8a0ac8fb6e31cb59d2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875446.jpg?k=97ae61a045003d6eb354485a5d255ca25da2fded96403b9b00832a1a60f60bcd&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Free parking"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tribeca 150 m"\n  - "Pizzeria Megusta 300 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "Discover"\n  - "American Express"\nbookingURL: "https://www.booking.com/hotel/al/proper-home.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe interior of Proper Home reveals an air-conditioned sanctuary featuring two elegantly appointed bedrooms, a cozy living room, a kitchen equipped with all the essentials, and two well-maintained bathrooms, complemented by a flat-screen TV for entertainment needs.
+---
+title: "Proper Home"
+description: "Proper Home emerges as a serene retreat in the historic heart of Gjirokastër, boasting a balcony-adorned accommodation that promises both privacy and panoramic views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875095.jpg?k=2d73dc1fd1914681f20d2bb0fd6daf7e95eccb55cb4b7f160480b798e708fc4b&o=&hp=1"
+language: en
+slug: proper-home
+address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.08156296
+  lng: 20.14570626
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 3
+ratings:
+  overall: 9.1
+  location: 9.2
+  cleanliness: 9.2
+  facilities: 9.2
+  value: 8.3
+  comfort: 9.2
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875095.jpg?k=2d73dc1fd1914681f20d2bb0fd6daf7e95eccb55cb4b7f160480b798e708fc4b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875152.jpg?k=fee9c278c8aa005758115e5b6904e9e584735e9cbe9a4596baf38c27ba7f0d7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875371.jpg?k=0fee53fa590f4911037d91128c511e044095d8afda9d3635c1d4a08047c7eb99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875268.jpg?k=5762dee6434de20d605bf9194e1c6283dd9352ae6d3e7e4203dfbea9d1105092&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875090.jpg?k=c17e71949374989c23a1d8e5e425ac3e5844b0bfd6aa82a5a47fb1de3ce54819&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875116.jpg?k=d9be67e48cf9ac8b30ba168e0bee1a116aa5abd0a2857f892f2f948c81e224e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875145.jpg?k=fa055bd3f6ec11cf9f6533b2b5b3ded2c59bd1f0bf92c1f1fe5541bd852f61ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875397.jpg?k=22e10af8f67337fed9340d949c20092ae839667d646dd8a0ac8fb6e31cb59d2c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875446.jpg?k=97ae61a045003d6eb354485a5d255ca25da2fded96403b9b00832a1a60f60bcd&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Free parking"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Tribeca 150 m"
+  - "Pizzeria Megusta 300 m"
+airports:
+  - "Corfu International Airport 56 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "Discover"
+  - "American Express"
+bookingURL: "https://www.booking.com/hotel/al/proper-home.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+The interior of Proper Home reveals an air-conditioned sanctuary featuring two elegantly appointed bedrooms, a cozy living room, a kitchen equipped with all the essentials, and two well-maintained bathrooms, complemented by a flat-screen TV for entertainment needs.
 
 Situated 82 km from Ioannina Airport, this apartment stands as an ideal choice for travelers seeking a blend of tranquility, accessibility, and modern amenities in the picturesque setting of Gjirokastër.

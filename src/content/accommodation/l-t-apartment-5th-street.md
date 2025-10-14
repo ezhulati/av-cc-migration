@@ -1,4 +1,85 @@
----\ntitle: "L.T. Apartment 5th street"\ndescription: "L."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095274.jpg?k=0c86d6b0b51522a4cd5c5a4ca83f6c98aeb6f85e90918913cebfcf15bfd723b1&o=&hp=1"\nlanguage: en\nslug: l-t-apartment-5th-street\naddress: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87676632\n  lng: 20.01177825\nprice: "US$20"\npriceFrom: 20\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 129\nratings:\n  overall: 9.4\n  location: 9.2\n  cleanliness: 9.4\n  facilities: 8.8\n  value: 9.4\n  comfort: 9.3\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095274.jpg?k=0c86d6b0b51522a4cd5c5a4ca83f6c98aeb6f85e90918913cebfcf15bfd723b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404413549.jpg?k=ec192a13a5daf9dabd5694686aa0154c80bb68d396ba2bcf528d7496b3ff99ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095327.jpg?k=12db4e368801d9003f85ecd387c8925fa0552ef1120127362a09a6560a990502&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454351341.jpg?k=d9781e3699e3f4469810fe2ee1c0a4278f18637ddb988b147e732dfe5ce8fc58&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513566852.jpg?k=a71a0c2c816a27d7cee9a6a9f303eee683bfc0602f1d0ee984c90fd0e9a0694f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095426.jpg?k=0f75eea29bbb2c7b3be31395f03d3407c962e074d7649562e38fa4a41f815818&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404413370.jpg?k=a81d6abf5f26738f90306d624a7962533ff53073df3ed4ee2c3e3058415a3cb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513566575.jpg?k=f9ca7270903e38bc74bd4c4fe45ca0c6c2b7c5954289809c3263248906876e71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513566933.jpg?k=79437c6aa7e297218c90428af63f00af082a87f5d4495a86b11fec4998e78c4a&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Fast free WiFi (61 Mbps)"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Sea View"\n  - "Two-Bedroom Apartment"\n  - "Penthouse Apartment"\nnearbyRestaurants:\n  - "Isufi 200 m"\n  - "Nasto 300 m"\nnearbyBeaches:\n  - "Saranda City Beach 350 m"\n  - "La Petite Beach 950 m"\n  - "Maestral Beach 1.1 km"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 2.1 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.3 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Gramoz"\n    country: "United Kingdom"\n    text: "“Properly was big, clean, and good location , host was very good,”"\n  - name: "Debopriya"\n    country: "United Kingdom"\n    text: "“Host Elti is amazing! He has helped right from arriving at Saranda, he picked us up, and helped us with literally everything as it was our first time visiting Albania. He has given some really valuable suggestions or advises, and also helped...”"\n  - name: "Lisa"\n    country: "Portugal"\n    text: "“The host was really helpful and friendly, and even picked us up from our bus on arrival and dropped us off for our bus back to Tirana, free of charge! Super hospitable and always available to answer questions throughout our stay!”"\nbookingURL: "https://www.booking.com/hotel/al/lt-apartment-5th-street.en-gb.html?aid=8035640"\nbestFor: "Best for Pet-Friendly Stays"\nbestCategories: "Pet-Friendly Stays"\ncategory: "Pet-Friendly Stays"\n---\n\nGuests are welcomed into a world of modern amenities and homely comfort. Each apartment boasts a private balcony that offers stunning sea views, creating the perfect backdrop for a morning coffee or an evening unwind. The interiors are thoughtfully designed with a cozy seating area, complemented by a satellite flat-screen TV for entertainment. The convenience of a fully equipped kitchen, featuring an oven and a fridge, allows guests the freedom to prepare their meals, adding a touch of home-away-from-home.
+---
+title: "L.T. Apartment 5th street"
+description: "L."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095274.jpg?k=0c86d6b0b51522a4cd5c5a4ca83f6c98aeb6f85e90918913cebfcf15bfd723b1&o=&hp=1"
+language: en
+slug: l-t-apartment-5th-street
+address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87676632
+  lng: 20.01177825
+price: "US$20"
+priceFrom: 20
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 129
+ratings:
+  overall: 9.4
+  location: 9.2
+  cleanliness: 9.4
+  facilities: 8.8
+  value: 9.4
+  comfort: 9.3
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095274.jpg?k=0c86d6b0b51522a4cd5c5a4ca83f6c98aeb6f85e90918913cebfcf15bfd723b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404413549.jpg?k=ec192a13a5daf9dabd5694686aa0154c80bb68d396ba2bcf528d7496b3ff99ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095327.jpg?k=12db4e368801d9003f85ecd387c8925fa0552ef1120127362a09a6560a990502&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454351341.jpg?k=d9781e3699e3f4469810fe2ee1c0a4278f18637ddb988b147e732dfe5ce8fc58&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513566852.jpg?k=a71a0c2c816a27d7cee9a6a9f303eee683bfc0602f1d0ee984c90fd0e9a0694f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330095426.jpg?k=0f75eea29bbb2c7b3be31395f03d3407c962e074d7649562e38fa4a41f815818&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404413370.jpg?k=a81d6abf5f26738f90306d624a7962533ff53073df3ed4ee2c3e3058415a3cb1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513566575.jpg?k=f9ca7270903e38bc74bd4c4fe45ca0c6c2b7c5954289809c3263248906876e71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513566933.jpg?k=79437c6aa7e297218c90428af63f00af082a87f5d4495a86b11fec4998e78c4a&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Fast free WiFi (61 Mbps)"
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "Apartment with Sea View"
+  - "Two-Bedroom Apartment"
+  - "Penthouse Apartment"
+nearbyRestaurants:
+  - "Isufi 200 m"
+  - "Nasto 300 m"
+nearbyBeaches:
+  - "Saranda City Beach 350 m"
+  - "La Petite Beach 950 m"
+  - "Maestral Beach 1.1 km"
+  - "Sarande Main Beach 1.1 km"
+  - "VIP Beach 2.1 km"
+whatsNearby:
+  - "Parc National de Butrint 2.3 km"
+  - "Butrint National Park 3.2 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Gramoz"
+    country: "United Kingdom"
+    text: "“Properly was big, clean, and good location , host was very good,”"
+  - name: "Debopriya"
+    country: "United Kingdom"
+    text: "“Host Elti is amazing! He has helped right from arriving at Saranda, he picked us up, and helped us with literally everything as it was our first time visiting Albania. He has given some really valuable suggestions or advises, and also helped...”"
+  - name: "Lisa"
+    country: "Portugal"
+    text: "“The host was really helpful and friendly, and even picked us up from our bus on arrival and dropped us off for our bus back to Tirana, free of charge! Super hospitable and always available to answer questions throughout our stay!”"
+bookingURL: "https://www.booking.com/hotel/al/lt-apartment-5th-street.en-gb.html?aid=8035640"
+bestFor: "Best for Pet-Friendly Stays"
+bestCategories: "Pet-Friendly Stays"
+category: "Pet-Friendly Stays"
+---
+
+Guests are welcomed into a world of modern amenities and homely comfort. Each apartment boasts a private balcony that offers stunning sea views, creating the perfect backdrop for a morning coffee or an evening unwind. The interiors are thoughtfully designed with a cozy seating area, complemented by a satellite flat-screen TV for entertainment. The convenience of a fully equipped kitchen, featuring an oven and a fridge, allows guests the freedom to prepare their meals, adding a touch of home-away-from-home.
 
 The attention to detail extends to the provision of a private bathroom equipped with a shower and a hairdryer, ensuring a comfortable stay. To further enhance the guest experience, bed linen and towels are meticulously prepared in each unit, underlining the apartment complex's commitment to comfort and hygiene.
 

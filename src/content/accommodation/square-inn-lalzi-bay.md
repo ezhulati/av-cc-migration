@@ -1,4 +1,83 @@
----\ntitle: "Square INN@Lalzi Bay"\ndescription: "Square INN@Lalzi Bay emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464249.jpg?k=365209d0dd2133adf3f961a0c636a2a4e84f6677cfc817749f939b99295270b6&o=&hp=1"\nlanguage: en\nslug: square-inn-lalzi-bay\naddress: "Rruga Gjiri i Lalzit Lura 3, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.50390041\n  lng: 19.51922641\nprice: "US$116"\npriceFrom: 116\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 10\nratings:\n  overall: 9\n  location: 8.5\n  cleanliness: 8.8\n  facilities: 8.5\n  value: 9\n  comfort: 9\n  staff: 9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464249.jpg?k=365209d0dd2133adf3f961a0c636a2a4e84f6677cfc817749f939b99295270b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331335025.jpg?k=053ca2f37f72c9bf511da3fbbdc9897ed6e0c75c11740d3e023eedc18f1afb6c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331335019.jpg?k=a619108eaaf2353ac6c2ed8871b7ae8af68245c4886b0f3895829eb16940cab1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464411.jpg?k=182ba55a36e8d997f06cfeb0fba66d538e6962ddb75bdf45454d874a181cb932&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464288.jpg?k=14ad88bdf434d51079ef05bd0274d7abeb52b6944db846b427a2177166b31749&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464121.jpg?k=3adaa932e2aeb893537664d428caa75a3a41ae99ea5bf1f46d29fcde360a4f96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464958.jpg?k=66501380aadf4e3fd4ec1a5f96d379ca34527fcc9f00b92214d492bc30fbadc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464773.jpg?k=0f17a58d21985d97d341634e83b2b566b78e01149c3781e9e32d39b68cda128b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332465090.jpg?k=9c8b9030275deafdb703a8e4600ccf47e6ae42850372a03615fa1091a0c2e69b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464550.jpg?k=110cdc6d49c2284384b336101de1b588449c9258b47f18a23763acc3c8b4de94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332465172.jpg?k=21c1134cbe7455f0849983cfe8fd119aca4b29a8f87de232c8df6be6680aba49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464454.jpg?k=b7e8ceaf4f15f0acd5bdfbfdc374c32a0c2a18cc9b985782b9072a5cd8241a25&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Triumf 2 400 m"\n  - "Oasis Bar 400 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 400 m"\n  - "Rodoni Beach 10 km"\nwhatsNearby:\n  - "Bekimi 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Zoltan"\n    country: "Hungary"\n    text: "“Cheap and spacious apartment with balcony. Very good mattresses, wi-fi and air conditioning. The supermarket is just 50 meters.”"\n  - name: "Katia"\n    country: "Poland"\n    text: "“This is a retreat! Stunning home, has everything you will need, amazing host and a lot of privacy. Everything is close, 2 min from the beach.Would highly recommended it for a family with young kids and it would be perfect for a couple.”"\n  - name: "Sam"\n    country: "Poland"\n    text: "“There is no better feeling than going on vacation and still feel at home. There is everything you need for a super comportable stay at Elona’s home. The host is definitly 5 star. We will definitely come back to this wonderful gem in an incredible...”"\nbookingURL: "https://www.booking.com/hotel/al/square-inn-lalzi-bay.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis holiday home is not just about its prime location; it offers guests a cozy and inviting atmosphere with its two well-appointed bedrooms, a bathroom stocked with essential amenities, and a living space designed for relaxation. The inclusion of bed linen, towels, a flat-screen TV equipped with streaming services, and a fully equipped kitchen ensures a stay that combines the comforts of home with the luxury of a holiday escape. The balcony, offering serene garden views, adds a touch of tranquility to the overall ambiance of the accommodation.
+---
+title: "Square INN@Lalzi Bay"
+description: "Square INN@Lalzi Bay emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464249.jpg?k=365209d0dd2133adf3f961a0c636a2a4e84f6677cfc817749f939b99295270b6&o=&hp=1"
+language: en
+slug: square-inn-lalzi-bay
+address: "Rruga Gjiri i Lalzit Lura 3, 2000 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.50390041
+  lng: 19.51922641
+price: "US$116"
+priceFrom: 116
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 10
+ratings:
+  overall: 9
+  location: 8.5
+  cleanliness: 8.8
+  facilities: 8.5
+  value: 9
+  comfort: 9
+  staff: 9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464249.jpg?k=365209d0dd2133adf3f961a0c636a2a4e84f6677cfc817749f939b99295270b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331335025.jpg?k=053ca2f37f72c9bf511da3fbbdc9897ed6e0c75c11740d3e023eedc18f1afb6c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331335019.jpg?k=a619108eaaf2353ac6c2ed8871b7ae8af68245c4886b0f3895829eb16940cab1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464411.jpg?k=182ba55a36e8d997f06cfeb0fba66d538e6962ddb75bdf45454d874a181cb932&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464288.jpg?k=14ad88bdf434d51079ef05bd0274d7abeb52b6944db846b427a2177166b31749&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464121.jpg?k=3adaa932e2aeb893537664d428caa75a3a41ae99ea5bf1f46d29fcde360a4f96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464958.jpg?k=66501380aadf4e3fd4ec1a5f96d379ca34527fcc9f00b92214d492bc30fbadc0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464773.jpg?k=0f17a58d21985d97d341634e83b2b566b78e01149c3781e9e32d39b68cda128b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332465090.jpg?k=9c8b9030275deafdb703a8e4600ccf47e6ae42850372a03615fa1091a0c2e69b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464550.jpg?k=110cdc6d49c2284384b336101de1b588449c9258b47f18a23763acc3c8b4de94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332465172.jpg?k=21c1134cbe7455f0849983cfe8fd119aca4b29a8f87de232c8df6be6680aba49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464454.jpg?k=b7e8ceaf4f15f0acd5bdfbfdc374c32a0c2a18cc9b985782b9072a5cd8241a25&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "Two-Bedroom House"
+nearbyRestaurants:
+  - "Triumf 2 400 m"
+  - "Oasis Bar 400 m"
+nearbyBeaches:
+  - "Lalëz Bay Beach 400 m"
+  - "Rodoni Beach 10 km"
+whatsNearby:
+  - "Bekimi 20 km"
+airports:
+  - "Tirana International Airport Mother Teresa 18 km"
+  - "Podgorica Airport 96 km"
+paymentMethods:
+  - "Visa"
+reviews:
+  - name: "Zoltan"
+    country: "Hungary"
+    text: "“Cheap and spacious apartment with balcony. Very good mattresses, wi-fi and air conditioning. The supermarket is just 50 meters.”"
+  - name: "Katia"
+    country: "Poland"
+    text: "“This is a retreat! Stunning home, has everything you will need, amazing host and a lot of privacy. Everything is close, 2 min from the beach.Would highly recommended it for a family with young kids and it would be perfect for a couple.”"
+  - name: "Sam"
+    country: "Poland"
+    text: "“There is no better feeling than going on vacation and still feel at home. There is everything you need for a super comportable stay at Elona’s home. The host is definitly 5 star. We will definitely come back to this wonderful gem in an incredible...”"
+bookingURL: "https://www.booking.com/hotel/al/square-inn-lalzi-bay.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This holiday home is not just about its prime location; it offers guests a cozy and inviting atmosphere with its two well-appointed bedrooms, a bathroom stocked with essential amenities, and a living space designed for relaxation. The inclusion of bed linen, towels, a flat-screen TV equipped with streaming services, and a fully equipped kitchen ensures a stay that combines the comforts of home with the luxury of a holiday escape. The balcony, offering serene garden views, adds a touch of tranquility to the overall ambiance of the accommodation.
 
 Privacy is paramount at Square INN@Lalzi Bay, with the holiday home boasting a private entrance for guests. The availability of free WiFi and private parking further enhances the convenience factor, making it an ideal choice for those traveling by car or requiring constant internet access.
 

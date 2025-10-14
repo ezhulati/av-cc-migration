@@ -1,10 +1,98 @@
----\ntitle: "Albjona Apartment Central"\ndescription: "Albjona Apartment Central emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828034.jpg?k=ba8d2d6f92120cf4784baedf73e5a25b82caa5f6226d57b1b7c44878c42ac038&o=&hp=1"\nlanguage: en\nslug: albjona-apartment-central\naddress: "Rruga Skender Kosturi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33881236\n  lng: 19.81365971\nprice: "US$63"\npriceFrom: 63\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 20\nratings:\n  overall: 9.1\n  location: 9\n  cleanliness: 9.1\n  facilities: 9.4\n  value: 9.4\n  comfort: 9.8\n  staff: 9.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828034.jpg?k=ba8d2d6f92120cf4784baedf73e5a25b82caa5f6226d57b1b7c44878c42ac038&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407827693.jpg?k=8e81f2e0fa002ddfeab6970185deeb585b6c06d8473a2c114f080026d1936a64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360184671.jpg?k=59e90cf29a3eb22d06ae17fda00e6df5f884148f0198aa92966aaa4266c68144&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407827865.jpg?k=5beeceaf14c1e5cc6cf7fc0e38326ce0f197c6a9fe0e0fae05e4b561497fe3f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828169.jpg?k=e5dc179bd37960d219d0c7370951a93078c2dd68a189615e19425e6197b580db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361678779.jpg?k=8b897d76aabbab9dccfb5e9326b0d21bc19015a2e67fa3c1c0da72c2f0df0f3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407827815.jpg?k=ed40428b46cf247e461dfe6b1cab9cdea0e512df0b082f867624b47ff935be78&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361678381.jpg?k=2d5745ac243a7225380520b83f3ae7a5b38154f7e73ebb4a4209f3b35554c35c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828083.jpg?k=bc632db6160e0869c36118824f7f2f4ff2f7e3d4df3d4a58988d2019c0313d00&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Parking on site"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.4 km"\n  - "National Gallery of Arts Tirana 1.5 km"\n  - "Rinia Park 1.6 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Former Residence of Enver Hoxha 2 km"\n  - "Grand Park of Tirana 3.1 km"\n  - "Bunk'Art 1 Museum 4.1 km"\nnearbyRestaurants:\n  - "Il Gusto Bistro 2 200 m"\n  - "Istanbul Simit & Borek 250 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Don Bosko 700 m"\n  - "Sheshi Rekreativ Mine Peza 750 m"\n  - "Amazing Nature 750 m"\n  - "Sheshi Paris 1.1 km"\n  - "National Museum of History Albania 1.1 km"\n  - "Sheshi Skënderbej 1.2 km"\n  - "Skanderbeg Square 1.3 km"\n  - "Sheshi Sulejman Pasha 1.3 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "Parku Europa 1.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Malgorzata"\n    country: "Poland"\n    text: "“Location
+---
+title: "Albjona Apartment Central"
+description: "Albjona Apartment Central emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828034.jpg?k=ba8d2d6f92120cf4784baedf73e5a25b82caa5f6226d57b1b7c44878c42ac038&o=&hp=1"
+language: en
+slug: albjona-apartment-central
+address: "Rruga Skender Kosturi, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33881236
+  lng: 19.81365971
+price: "US$63"
+priceFrom: 63
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 20
+ratings:
+  overall: 9.1
+  location: 9
+  cleanliness: 9.1
+  facilities: 9.4
+  value: 9.4
+  comfort: 9.8
+  staff: 9.6
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828034.jpg?k=ba8d2d6f92120cf4784baedf73e5a25b82caa5f6226d57b1b7c44878c42ac038&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407827693.jpg?k=8e81f2e0fa002ddfeab6970185deeb585b6c06d8473a2c114f080026d1936a64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360184671.jpg?k=59e90cf29a3eb22d06ae17fda00e6df5f884148f0198aa92966aaa4266c68144&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407827865.jpg?k=5beeceaf14c1e5cc6cf7fc0e38326ce0f197c6a9fe0e0fae05e4b561497fe3f4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828169.jpg?k=e5dc179bd37960d219d0c7370951a93078c2dd68a189615e19425e6197b580db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361678779.jpg?k=8b897d76aabbab9dccfb5e9326b0d21bc19015a2e67fa3c1c0da72c2f0df0f3c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407827815.jpg?k=ed40428b46cf247e461dfe6b1cab9cdea0e512df0b082f867624b47ff935be78&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361678381.jpg?k=2d5745ac243a7225380520b83f3ae7a5b38154f7e73ebb4a4209f3b35554c35c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828083.jpg?k=bc632db6160e0869c36118824f7f2f4ff2f7e3d4df3d4a58988d2019c0313d00&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Parking on site"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.4 km"
+  - "National Gallery of Arts Tirana 1.5 km"
+  - "Rinia Park 1.6 km"
+  - "Tanners' Bridge 1.7 km"
+  - "Former Residence of Enver Hoxha 2 km"
+  - "Grand Park of Tirana 3.1 km"
+  - "Bunk'Art 1 Museum 4.1 km"
+nearbyRestaurants:
+  - "Il Gusto Bistro 2 200 m"
+  - "Istanbul Simit & Borek 250 m"
+whatsNearby:
+  - "Sheshi Rekreativ Don Bosko 700 m"
+  - "Sheshi Rekreativ Mine Peza 750 m"
+  - "Amazing Nature 750 m"
+  - "Sheshi Paris 1.1 km"
+  - "National Museum of History Albania 1.1 km"
+  - "Sheshi Skënderbej 1.2 km"
+  - "Skanderbeg Square 1.3 km"
+  - "Sheshi Sulejman Pasha 1.3 km"
+  - "Clock Tower Tirana 1.3 km"
+  - "Parku Europa 1.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Malgorzata"
+    country: "Poland"
+    text: "“Location
 Frendly staff
 Cleanest View
-Well equipped”"\n  - name: "Walter"\n    country: "Finland"\n    text: "“The apartment is cozy and really close to the center. All around there are restaurants, shops and facilities. Also, the view from the balcony is super.”"\n  - name: "R"\n    country: "Albania"\n    text: "“Lovely cozy apartment.. i loooooved the interior 😍
+Well equipped”"
+  - name: "Walter"
+    country: "Finland"
+    text: "“The apartment is cozy and really close to the center. All around there are restaurants, shops and facilities. Also, the view from the balcony is super.”"
+  - name: "R"
+    country: "Albania"
+    text: "“Lovely cozy apartment.. i loooooved the interior 😍
 The host was very kind and very responsive, in real time.
 The bed and also the sofa bed were very comfy. The aerea is perfect. Everything was Ok 👌
-Will definitely book again 😊”"\nbookingURL: "https://www.booking.com/hotel/al/luxary-apartment-ln-the-center-of-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned apartment boasts a welcoming balcony, complemented by complimentary WiFi, ensuring guests stay connected and comfortable throughout their visit. Located 42 km from the captivating Rock of Kavaje and just 2.8 km from the historical Former Residence of Enver Hoxha, Albjona Apartment Central is perfectly positioned for guests to immerse themselves in the local culture and attractions.
+Will definitely book again 😊”"
+bookingURL: "https://www.booking.com/hotel/al/luxary-apartment-ln-the-center-of-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This air-conditioned apartment boasts a welcoming balcony, complemented by complimentary WiFi, ensuring guests stay connected and comfortable throughout their visit. Located 42 km from the captivating Rock of Kavaje and just 2.8 km from the historical Former Residence of Enver Hoxha, Albjona Apartment Central is perfectly positioned for guests to immerse themselves in the local culture and attractions.
 
 The apartment itself is a haven of space and luxury, featuring a bedroom designed for relaxation, a flat-screen TV equipped with streaming services for entertainment, and a fully equipped kitchen ready for culinary adventures. With amenities such as an oven, microwave, washing machine, fridge, and kitchenware, guests have everything they need at their fingertips. Moreover, the inclusion of towels and bed linen adds an extra layer of convenience.
 

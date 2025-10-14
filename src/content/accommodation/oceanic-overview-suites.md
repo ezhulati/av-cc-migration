@@ -1,4 +1,91 @@
----\ntitle: "Oceanic Overview Suites"\ndescription: "Oceanic Overview Suites stands out as a premier destination for travelers seeking both luxury and serenity in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219697.jpg?k=311d56080d5ff6c43f5a8fb98d33fd6ee686225dc15a18871b75f037781fc8dc&o=&hp=1"\nlanguage: en\nslug: oceanic-overview-suites\naddress: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86861291\n  lng: 19.99961261\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 362\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.3\n  comfort: 9.6\n  staff: 9.3\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219697.jpg?k=311d56080d5ff6c43f5a8fb98d33fd6ee686225dc15a18871b75f037781fc8dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362395084.jpg?k=0b620aefc14be60347d920481725dafca9d7c3fdfaae32d45b28e930bf2c8713&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357712406.jpg?k=12b67934f8b70677ba61741987341ddcd5d915d9f7ad96a4b16404673782014b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219683.jpg?k=c518365598d6ba0ace3f726ec92527b2ee40a5224845d92fcb5e7eded40c7a34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219756.jpg?k=af9dbf1dca23508e692032e25fe435fac52731ce4ce6c7f019700b5ba824f254&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362395766.jpg?k=a2597bebba1ef26ab61c409b7d60bdd103c95f4abfa241286308e1c5d77cd1b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357712431.jpg?k=961d0541c3172c6a64db8dc256e46cbbe4808c1f3a4974aae46986bfde2162c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219698.jpg?k=dead1860d10a940f2e0b3cc0632f9599f7f2a2de92ec6ac96c6f76d8927bbd44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357712383.jpg?k=67b61b7d53522fef01523452365f3a3fb70c8cddbed17459930a3c160a73f2f5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Alban 20 m"\n  - "Antika 40 m"\nnearbyBeaches:\n  - "Sarande Main Beach 30 m"\n  - "Saranda City Beach 1 km"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.4 km"\n  - "Saranda Bay Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.4 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Czeglèdi"\n    country: "Hungary"\n    text: "“The location was excellent close to the beach. The rooms were very clean and excatly look like on the pictures. The rooms were well equipped. The breakfast was very nice and diverse.”"\n  - name: "Tatjana"\n    country: "Luxembourg"\n    text: "“Great location in front of the beach. The view from the room is fantastic. We appreciated the free private beach. Breakfast is very good. We went for dinner in their restaurant and dishes are very good quality, I really recommend!”"\n  - name: "Sophie"\n    country: "Netherlands"\n    text: "“Very spacious and clean room. Lovely private beach area.”"\nbookingURL: "https://www.booking.com/hotel/al/oceanic-overview-suites.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Oceanic Overview Suites are designed with guest comfort in mind, featuring terraces that extend the living space into the natural beauty of Sarandë. Selected rooms elevate this experience further with the addition of balconies. Beyond the views, each room is a haven of relaxation, equipped with flat-screen TVs and cozy seating areas, making it easy to unwind after a day of exploration.
+---
+title: "Oceanic Overview Suites"
+description: "Oceanic Overview Suites stands out as a premier destination for travelers seeking both luxury and serenity in Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219697.jpg?k=311d56080d5ff6c43f5a8fb98d33fd6ee686225dc15a18871b75f037781fc8dc&o=&hp=1"
+language: en
+slug: oceanic-overview-suites
+address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.86861291
+  lng: 19.99961261
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 362
+ratings:
+  overall: 9.4
+  location: 9.4
+  cleanliness: 9.5
+  facilities: 9.2
+  value: 9.3
+  comfort: 9.6
+  staff: 9.3
+  wifi: 9.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219697.jpg?k=311d56080d5ff6c43f5a8fb98d33fd6ee686225dc15a18871b75f037781fc8dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362395084.jpg?k=0b620aefc14be60347d920481725dafca9d7c3fdfaae32d45b28e930bf2c8713&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357712406.jpg?k=12b67934f8b70677ba61741987341ddcd5d915d9f7ad96a4b16404673782014b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219683.jpg?k=c518365598d6ba0ace3f726ec92527b2ee40a5224845d92fcb5e7eded40c7a34&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219756.jpg?k=af9dbf1dca23508e692032e25fe435fac52731ce4ce6c7f019700b5ba824f254&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362395766.jpg?k=a2597bebba1ef26ab61c409b7d60bdd103c95f4abfa241286308e1c5d77cd1b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357712431.jpg?k=961d0541c3172c6a64db8dc256e46cbbe4808c1f3a4974aae46986bfde2162c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219698.jpg?k=dead1860d10a940f2e0b3cc0632f9599f7f2a2de92ec6ac96c6f76d8927bbd44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357712383.jpg?k=67b61b7d53522fef01523452365f3a3fb70c8cddbed17459930a3c160a73f2f5&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Very good breakfast"
+nearbyRestaurants:
+  - "Alban 20 m"
+  - "Antika 40 m"
+nearbyBeaches:
+  - "Sarande Main Beach 30 m"
+  - "Saranda City Beach 1 km"
+  - "La Petite Beach 1.2 km"
+  - "Maestral Beach 1.4 km"
+  - "Saranda Bay Beach 1.7 km"
+whatsNearby:
+  - "Parc National de Butrint 2.4 km"
+  - "Butrint National Park 3 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 72 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Czeglèdi"
+    country: "Hungary"
+    text: "“The location was excellent close to the beach. The rooms were very clean and excatly look like on the pictures. The rooms were well equipped. The breakfast was very nice and diverse.”"
+  - name: "Tatjana"
+    country: "Luxembourg"
+    text: "“Great location in front of the beach. The view from the room is fantastic. We appreciated the free private beach. Breakfast is very good. We went for dinner in their restaurant and dishes are very good quality, I really recommend!”"
+  - name: "Sophie"
+    country: "Netherlands"
+    text: "“Very spacious and clean room. Lovely private beach area.”"
+bookingURL: "https://www.booking.com/hotel/al/oceanic-overview-suites.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Oceanic Overview Suites are designed with guest comfort in mind, featuring terraces that extend the living space into the natural beauty of Sarandë. Selected rooms elevate this experience further with the addition of balconies. Beyond the views, each room is a haven of relaxation, equipped with flat-screen TVs and cozy seating areas, making it easy to unwind after a day of exploration.
 
 Mornings at Oceanic Overview Suites start with a delightful continental breakfast, setting the tone for a day of adventure or relaxation. The on-site restaurant and bar cater to all tastes, offering delicious meals and refreshing drinks in a setting that's as inviting as it is elegant.
 

@@ -1,4 +1,87 @@
----\ntitle: "Blue Bay Apartments"\ndescription: "Blue Bay Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, situated just a stone's throw away from Mango Beach and a leisurely stroll from Flamingo Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370575149.jpg?k=1fec8c445b1738aa1a9a8181088913b4472baa7ebfb02d4c1c72c48740bcfe3e&o=&hp=1"\nlanguage: en\nslug: blue-bay-apartments\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.8501367\n  lng: 20.02194507\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 65\nratings:\n  overall: 9.1\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 8.5\n  value: 9.5\n  comfort: 9\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370575149.jpg?k=1fec8c445b1738aa1a9a8181088913b4472baa7ebfb02d4c1c72c48740bcfe3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465197387.jpg?k=6578684db59589b0f3e5ece3918dd1d1ac53e2949e81661ed9567e3d0521f86e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370576100.jpg?k=0113fed036f5a7e8148ed0d627cea0edc401a51d7410c58834131ab02e28442d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465196646.jpg?k=260561b11484f3f99d0bce98742c0364a2490b485511dcbf7879f62ee48b0c57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465196647.jpg?k=d33fd4c9440974c1216f27997df0a469e17b5d9549897c27e06c8a43a2b0d417&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465197395.jpg?k=7e4bfd01d06f2d35da8bd6e58825b2e074126395d61ff8493780079e4ea2f898&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465197388.jpg?k=267529e52197ed644b31529d751ef7f439954166dadfa9b116b8852be2305550&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465198056.jpg?k=d3b68e4e72b91f0903114735313bdaa25ee5722332ffd435a0514caeab6a604d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405080194.jpg?k=dd5f6848ee02f6f5f6fb2963e764bbc72670db03de2f044074b4f2baa8d8fb05&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "River View 100 m"\n  - "Sunrise 250 m"\nnearbyBeaches:\n  - "Mango Beach 100 m"\n  - "Flamingo Beach 500 m"\n  - "Santa Quaranta Beach 850 m"\n  - "VIP Beach 950 m"\n  - "Heaven Beach 1.6 km"\nwhatsNearby:\n  - "Butrint National Park 200 m"\n  - "Parc National de Butrint 1 km"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 9 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Sreejith"\n    country: "India"\n    text: "“We came to the location and called the property number and the guy responded promptly and a lady guided us to the room. The room was clean and the sea view from the apartment was amazing.”"\n  - name: "Golubović"\n    country: "Serbia"\n    text: "“excellent accommodation, separate living room and bedroom. in the accommodation stove, microwave, towels, iron, hairdryer, it's simply ideal for me. look at the sea. parking in front of the building. the first beach literally in front of the...”"\n  - name: "Isaac"\n    country: "United Kingdom"\n    text: "“Alex was a really friendly and knowledgeable host who spoke excellent English. He was happy to share recommendations for things to do and places to visit near Sarandë. The apartment was really clean and had great views from the balcony - exactly...”"\nbookingURL: "https://www.booking.com/hotel/al/blue-bay-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach air-conditioned unit at Blue Bay Apartments is designed with guest comfort in mind, featuring a private bathroom, flat-screen TV, fully equipped kitchen, and a balcony to soak in the serene sea views. The option for family rooms makes this a versatile choice for any traveler, whether on a solo adventure or a family getaway.
+---
+title: "Blue Bay Apartments"
+description: "Blue Bay Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, situated just a stone's throw away from Mango Beach and a leisurely stroll from Flamingo Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370575149.jpg?k=1fec8c445b1738aa1a9a8181088913b4472baa7ebfb02d4c1c72c48740bcfe3e&o=&hp=1"
+language: en
+slug: blue-bay-apartments
+address: "Rruga Butrinti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.8501367
+  lng: 20.02194507
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 65
+ratings:
+  overall: 9.1
+  location: 9.2
+  cleanliness: 9.2
+  facilities: 8.5
+  value: 9.5
+  comfort: 9
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370575149.jpg?k=1fec8c445b1738aa1a9a8181088913b4472baa7ebfb02d4c1c72c48740bcfe3e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465197387.jpg?k=6578684db59589b0f3e5ece3918dd1d1ac53e2949e81661ed9567e3d0521f86e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370576100.jpg?k=0113fed036f5a7e8148ed0d627cea0edc401a51d7410c58834131ab02e28442d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465196646.jpg?k=260561b11484f3f99d0bce98742c0364a2490b485511dcbf7879f62ee48b0c57&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465196647.jpg?k=d33fd4c9440974c1216f27997df0a469e17b5d9549897c27e06c8a43a2b0d417&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465197395.jpg?k=7e4bfd01d06f2d35da8bd6e58825b2e074126395d61ff8493780079e4ea2f898&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465197388.jpg?k=267529e52197ed644b31529d751ef7f439954166dadfa9b116b8852be2305550&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465198056.jpg?k=d3b68e4e72b91f0903114735313bdaa25ee5722332ffd435a0514caeab6a604d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405080194.jpg?k=dd5f6848ee02f6f5f6fb2963e764bbc72670db03de2f044074b4f2baa8d8fb05&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "River View 100 m"
+  - "Sunrise 250 m"
+nearbyBeaches:
+  - "Mango Beach 100 m"
+  - "Flamingo Beach 500 m"
+  - "Santa Quaranta Beach 850 m"
+  - "VIP Beach 950 m"
+  - "Heaven Beach 1.6 km"
+whatsNearby:
+  - "Butrint National Park 200 m"
+  - "Parc National de Butrint 1 km"
+  - "Plazhi I Krorezes 6 km"
+  - "Parku Kombetar I Butrintit 9 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 28 km"
+  - "Ioannina Airport 69 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Sreejith"
+    country: "India"
+    text: "“We came to the location and called the property number and the guy responded promptly and a lady guided us to the room. The room was clean and the sea view from the apartment was amazing.”"
+  - name: "Golubović"
+    country: "Serbia"
+    text: "“excellent accommodation, separate living room and bedroom. in the accommodation stove, microwave, towels, iron, hairdryer, it's simply ideal for me. look at the sea. parking in front of the building. the first beach literally in front of the...”"
+  - name: "Isaac"
+    country: "United Kingdom"
+    text: "“Alex was a really friendly and knowledgeable host who spoke excellent English. He was happy to share recommendations for things to do and places to visit near Sarandë. The apartment was really clean and had great views from the balcony - exactly...”"
+bookingURL: "https://www.booking.com/hotel/al/blue-bay-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each air-conditioned unit at Blue Bay Apartments is designed with guest comfort in mind, featuring a private bathroom, flat-screen TV, fully equipped kitchen, and a balcony to soak in the serene sea views. The option for family rooms makes this a versatile choice for any traveler, whether on a solo adventure or a family getaway.
 
 For those looking to explore the area at their own pace, a car rental service directly from the apartments adds an extra layer of convenience. The proximity to Santa Quaranta Beach, just 1.6 km away, and the historic Butrint National Park, 13 km from the property, positions Blue Bay Apartments as an ideal base for exploring the natural and cultural riches of the region.
 

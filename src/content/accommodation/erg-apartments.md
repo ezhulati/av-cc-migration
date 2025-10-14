@@ -1,5 +1,101 @@
----\ntitle: "ERG APARTMENTS"\ndescription: "ERG APARTMENTS emerges as a modern oasis of comfort and convenience, situated just 3."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027076.jpg?k=6152881b2b1866868aff6c2edbee5900510a67d3a7ea79d8de34a5fdb43a7972&o=&hp=1"\nlanguage: en\nslug: erg-apartments\naddress: "Rruga Lluke Kacaj, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34227201\n  lng: 19.83064157\nprice: "US$74"\npriceFrom: 74\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 109\nratings:\n  overall: 9.6\n  location: 8.9\n  cleanliness: 9.7\n  facilities: 9.7\n  value: 9.7\n  comfort: 9.7\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027076.jpg?k=6152881b2b1866868aff6c2edbee5900510a67d3a7ea79d8de34a5fdb43a7972&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135796.jpg?k=d8ad96c1ba43935fda904457ccd1b647111952cbcf2c9824e788a197404f1411&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350322030.jpg?k=87ecb60c703123ad8dc5e4ec364d1fd523f9a4e09b18e17a396c6d7dea2561e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377351083.jpg?k=175d3bd12d9f8fdaf980b42b2769b5c28c89349ff7223eaca95df3f60e1765de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136642.jpg?k=4dadc6b3aacf4e1645a4ee77415e11754a38e296af1da8ecd8c59519d7785f61&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469137370.jpg?k=048eb24019cc9468616f8597fbc8fbc2f427a7e8e50dd701496c681cc6d8c4a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136786.jpg?k=864266ec6bdbb3c48868f7ea8fd68b03b5f7f20632b606383a39de2c71b52e5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136509.jpg?k=39c718132d9410a5f40b8f56c6d4b9cf243ac73038a2bc60eb7b6b5b07fe4553&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136311.jpg?k=8a204c188c3083f56265f18860785f4937e7617a93375ec9077c7101fdf41efe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136072.jpg?k=df640a865cc93c8eb6e2fc32f70213493add284c26b75963319c793d479bc46c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135951.jpg?k=e070754184d8eb8bc0f85137eaccfc38d482995a4f9fe704a5061b024a06ef90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469134985.jpg?k=cee43243198c0f8d5988176e3e6e67cf8b01ac473779e7199270b8bb364974be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027447.jpg?k=40ea406c0048cf2f40b49a716496b33306d0bb8e0f9fc117eb2a4f347f7b8ceb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027322.jpg?k=bf92bdf400ade44110faff49b8108646e6e22fe35e0d7874942fb43797eedfb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378017726.jpg?k=be02f8977853b54f6929f085a4c3de1dd866bacf1d669f2418299f1da20ad663&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Mountain View"\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.9 km"\n  - "National Gallery of Arts Tirana 2 km"\n  - "House of Leaves 2.1 km"\n  - "Rinia Park 2.2 km"\n  - "Former Residence of Enver Hoxha 2.6 km"\n  - "Bunk'Art 1 Museum 2.6 km"\n  - "Grand Park of Tirana 3.4 km"\nnearbyRestaurants:\n  - "Zgara Korcare Delivery 150 m"\n  - "Bar Restorant Hotel Viktoria 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 800 m"\n  - "Sheshi Rekreativ Gjolek Kokona 900 m"\n  - "Sheshi Jjosef Shtraus 950 m"\n  - "Amazing Nature 1.4 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.6 km"\n  - "Sheshi Sulejman Pasha 1.7 km"\n  - "Tanners' Bridge 1.8 km"\n  - "National Museum of History Albania 1.8 km"\n  - "Clock Tower Tirana 1.9 km"\n  - "Sheshi Skënderbej 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Laurentiu"\n    country: "Romania"\n    text: "“Lovely clean place! Near the center, lots of shops nearby !
-We had good guidance from the owner and the check-in was very easy :-)!”"\n  - name: "Kotsar"\n    country: "Germany"\n    text: "“Big and cozy apartment in a walkable distance from the city center”"\n  - name: "Kayo"\n    country: "Belgium"\n    text: "“Everything was perfect! Very clean and good location! Parking under the building! Owner was very friendly, she gave us some good tips for tirana! We loved everything! I miss albania already. 🇦🇱 thank you for the great experience!”"\nbookingURL: "https://www.booking.com/hotel/al/erg-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nAccommodations at ERG APARTMENTS are thoughtfully appointed with balconies that present breathtaking mountain views, creating a serene backdrop for guests. The living spaces are designed for relaxation and socializing, featuring comfortable seating areas and cable flat-screen TVs. The fully equipped kitchens, complete with dishwashers, ovens, microwaves, toasters, fridges, and kettles, cater to the culinary needs and desires of guests, allowing for the option of dining al fresco in the apartment's outdoor dining area.
+---
+title: "ERG APARTMENTS"
+description: "ERG APARTMENTS emerges as a modern oasis of comfort and convenience, situated just 3."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027076.jpg?k=6152881b2b1866868aff6c2edbee5900510a67d3a7ea79d8de34a5fdb43a7972&o=&hp=1"
+language: en
+slug: erg-apartments
+address: "Rruga Lluke Kacaj, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.34227201
+  lng: 19.83064157
+price: "US$74"
+priceFrom: 74
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 109
+ratings:
+  overall: 9.6
+  location: 8.9
+  cleanliness: 9.7
+  facilities: 9.7
+  value: 9.7
+  comfort: 9.7
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027076.jpg?k=6152881b2b1866868aff6c2edbee5900510a67d3a7ea79d8de34a5fdb43a7972&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135796.jpg?k=d8ad96c1ba43935fda904457ccd1b647111952cbcf2c9824e788a197404f1411&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350322030.jpg?k=87ecb60c703123ad8dc5e4ec364d1fd523f9a4e09b18e17a396c6d7dea2561e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377351083.jpg?k=175d3bd12d9f8fdaf980b42b2769b5c28c89349ff7223eaca95df3f60e1765de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136642.jpg?k=4dadc6b3aacf4e1645a4ee77415e11754a38e296af1da8ecd8c59519d7785f61&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469137370.jpg?k=048eb24019cc9468616f8597fbc8fbc2f427a7e8e50dd701496c681cc6d8c4a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136786.jpg?k=864266ec6bdbb3c48868f7ea8fd68b03b5f7f20632b606383a39de2c71b52e5a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136509.jpg?k=39c718132d9410a5f40b8f56c6d4b9cf243ac73038a2bc60eb7b6b5b07fe4553&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136311.jpg?k=8a204c188c3083f56265f18860785f4937e7617a93375ec9077c7101fdf41efe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469136072.jpg?k=df640a865cc93c8eb6e2fc32f70213493add284c26b75963319c793d479bc46c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135951.jpg?k=e070754184d8eb8bc0f85137eaccfc38d482995a4f9fe704a5061b024a06ef90&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469134985.jpg?k=cee43243198c0f8d5988176e3e6e67cf8b01ac473779e7199270b8bb364974be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027447.jpg?k=40ea406c0048cf2f40b49a716496b33306d0bb8e0f9fc117eb2a4f347f7b8ceb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027322.jpg?k=bf92bdf400ade44110faff49b8108646e6e22fe35e0d7874942fb43797eedfb8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378017726.jpg?k=be02f8977853b54f6929f085a4c3de1dd866bacf1d669f2418299f1da20ad663&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Facilities for disabled guests"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Apartment with Mountain View"
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.9 km"
+  - "National Gallery of Arts Tirana 2 km"
+  - "House of Leaves 2.1 km"
+  - "Rinia Park 2.2 km"
+  - "Former Residence of Enver Hoxha 2.6 km"
+  - "Bunk'Art 1 Museum 2.6 km"
+  - "Grand Park of Tirana 3.4 km"
+nearbyRestaurants:
+  - "Zgara Korcare Delivery 150 m"
+  - "Bar Restorant Hotel Viktoria 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Allias 800 m"
+  - "Sheshi Rekreativ Gjolek Kokona 900 m"
+  - "Sheshi Jjosef Shtraus 950 m"
+  - "Amazing Nature 1.4 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.6 km"
+  - "Sheshi Sulejman Pasha 1.7 km"
+  - "Tanners' Bridge 1.8 km"
+  - "National Museum of History Albania 1.8 km"
+  - "Clock Tower Tirana 1.9 km"
+  - "Sheshi Skënderbej 1.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+paymentMethods:
+  - "Visa"
+reviews:
+  - name: "Laurentiu"
+    country: "Romania"
+    text: "“Lovely clean place! Near the center, lots of shops nearby !
+We had good guidance from the owner and the check-in was very easy :-)!”"
+  - name: "Kotsar"
+    country: "Germany"
+    text: "“Big and cozy apartment in a walkable distance from the city center”"
+  - name: "Kayo"
+    country: "Belgium"
+    text: "“Everything was perfect! Very clean and good location! Parking under the building! Owner was very friendly, she gave us some good tips for tirana! We loved everything! I miss albania already. 🇦🇱 thank you for the great experience!”"
+bookingURL: "https://www.booking.com/hotel/al/erg-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Accommodations at ERG APARTMENTS are thoughtfully appointed with balconies that present breathtaking mountain views, creating a serene backdrop for guests. The living spaces are designed for relaxation and socializing, featuring comfortable seating areas and cable flat-screen TVs. The fully equipped kitchens, complete with dishwashers, ovens, microwaves, toasters, fridges, and kettles, cater to the culinary needs and desires of guests, allowing for the option of dining al fresco in the apartment's outdoor dining area.
 
 The attention to detail extends to the private bathrooms, which are outfitted with bidets and slippers, adding a touch of luxury to the daily routine. The property also prides itself on being inclusive, offering family rooms and facilities for disabled guests, ensuring a welcoming experience for all.
 

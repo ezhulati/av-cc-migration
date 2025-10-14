@@ -1,4 +1,74 @@
----\ntitle: "N’Kanu"\ndescription: "N'Kanu emerges as a serene retreat in the heart of Rrëshen, Lezhë County, offering a unique blend of comfort and adventure with its array of family-friendly amenities and natural beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671342.jpg?k=624475f44202d66d08401b0184e1c13f4412d2cba6fb24d5555a5b021ff4adc9&o=&hp=1"\nlanguage: en\nslug: n-kanu\naddress: "Bojdine Perlat, 4606 Rrëshen, Albania"\ncity: "Rrëshen"\nlocation: "Rrëshen"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.74414649\n  lng: 19.9735164\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.2\n  location: 9.5\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.5\n  comfort: 9.5\n  staff: 10\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671342.jpg?k=624475f44202d66d08401b0184e1c13f4412d2cba6fb24d5555a5b021ff4adc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484905795.jpg?k=4fadcb615e3c505d3448f0e6f1d688a31ad1bf048b11673cb00b473bda25d4a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671475.jpg?k=4e9110925a8e80f792de925843a5579312521609a77bbb9ba32dd684c593ad6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517482951.jpg?k=baefcde9962c4fab24c84b8e4a26a21c482ad3a076e2f11019737cdeec20a0a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484905751.jpg?k=0617117b3e8b91f87322c0e70cad967d6d2b1cd05380c3b17e830ae5af2d3e31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671497.jpg?k=97bf11a378ca6a74a6fef2996c977f5c1fa98520d8c533d1a681cdcc6819e7f8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Good free WiFi (22 Mbps)"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Twin Room"\n  - "Double Room"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Keshtjella Duka 1.4 km"\n  - "Restorant Gold 8 km"\nwhatsNearby:\n  - "Sofra e Kthelles 100 m"\n  - "Lure National Park 18 km"\n  - "Parku Kombëtar I Lurës 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 41 km"\n  - "Ohrid Airport 89 km"\n  - "Podgorica Airport 90 km"\nreviews:\n  - name: "Zedd"\n    country: "Albania"\n    text: "“The food was amazing. The views from the room were great.”"\nbookingURL: "https://www.booking.com/hotel/al/kanu-rreshen.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nAccommodations at N'Kanu are thoughtfully designed to cater to the needs of every guest, featuring work desks, flat-screen TVs, and complimentary WiFi. The attention to detail is evident in the private bathrooms equipped with bidets and slippers, ensuring a comfortable and convenient stay. Select rooms elevate the experience further with balconies that offer a glimpse into the serene surroundings. Comfort is paramount, with all units providing fresh bed linen and towels.
+---
+title: "N’Kanu"
+description: "N'Kanu emerges as a serene retreat in the heart of Rrëshen, Lezhë County, offering a unique blend of comfort and adventure with its array of family-friendly amenities and natural beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671342.jpg?k=624475f44202d66d08401b0184e1c13f4412d2cba6fb24d5555a5b021ff4adc9&o=&hp=1"
+language: en
+slug: n-kanu
+address: "Bojdine Perlat, 4606 Rrëshen, Albania"
+city: "Rrëshen"
+location: "Rrëshen"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.74414649
+  lng: 19.9735164
+price: "US$51"
+priceFrom: 51
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 5
+ratings:
+  overall: 9.2
+  location: 9.5
+  cleanliness: 9.5
+  facilities: 9
+  value: 9.5
+  comfort: 9.5
+  staff: 10
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671342.jpg?k=624475f44202d66d08401b0184e1c13f4412d2cba6fb24d5555a5b021ff4adc9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484905795.jpg?k=4fadcb615e3c505d3448f0e6f1d688a31ad1bf048b11673cb00b473bda25d4a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671475.jpg?k=4e9110925a8e80f792de925843a5579312521609a77bbb9ba32dd684c593ad6b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517482951.jpg?k=baefcde9962c4fab24c84b8e4a26a21c482ad3a076e2f11019737cdeec20a0a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484905751.jpg?k=0617117b3e8b91f87322c0e70cad967d6d2b1cd05380c3b17e830ae5af2d3e31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671497.jpg?k=97bf11a378ca6a74a6fef2996c977f5c1fa98520d8c533d1a681cdcc6819e7f8&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Restaurant"
+  - "Good free WiFi (22 Mbps)"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Twin Room"
+  - "Double Room"
+  - "Quadruple Room"
+nearbyRestaurants:
+  - "Keshtjella Duka 1.4 km"
+  - "Restorant Gold 8 km"
+whatsNearby:
+  - "Sofra e Kthelles 100 m"
+  - "Lure National Park 18 km"
+  - "Parku Kombëtar I Lurës 19 km"
+airports:
+  - "Tirana International Airport Mother Teresa 41 km"
+  - "Ohrid Airport 89 km"
+  - "Podgorica Airport 90 km"
+reviews:
+  - name: "Zedd"
+    country: "Albania"
+    text: "“The food was amazing. The views from the room were great.”"
+bookingURL: "https://www.booking.com/hotel/al/kanu-rreshen.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Accommodations at N'Kanu are thoughtfully designed to cater to the needs of every guest, featuring work desks, flat-screen TVs, and complimentary WiFi. The attention to detail is evident in the private bathrooms equipped with bidets and slippers, ensuring a comfortable and convenient stay. Select rooms elevate the experience further with balconies that offer a glimpse into the serene surroundings. Comfort is paramount, with all units providing fresh bed linen and towels.
 
 The culinary experience at N'Kanu is a delight, with a breakfast menu that includes continental and Italian options, warm dishes, local specialties, and fresh fruits served every morning. The on-site coffee shop and the availability of packed lunches cater to the needs of every palate, ensuring that guests start their day on a high note.
 

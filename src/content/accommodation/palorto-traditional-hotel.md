@@ -1,3 +1,74 @@
----\ntitle: "Palorto Traditional Hotel"\ndescription: "Palorto Traditional Hotel, located in the historic heart of Gjirokastër, stands out as a premier destination for travelers seeking a blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448061832.jpg?k=6e0a3d5ca84d74b280a9ba72f8442744ce5fe49e28d2f0b5c604780ecc62bbd1&o=&hp=1"\nlanguage: en\nslug: palorto-traditional-hotel\naddress: "Rruga Ismail Kadare nr 34, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07504871\n  lng: 20.1351934\nprice: "US$48"\npriceFrom: 48\nstarRating: 4\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 92\nratings:\n  overall: 9.7\n  location: 9.6\n  cleanliness: 9.7\n  facilities: 9.6\n  value: 9.7\n  comfort: 9.7\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448061832.jpg?k=6e0a3d5ca84d74b280a9ba72f8442744ce5fe49e28d2f0b5c604780ecc62bbd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448062682.jpg?k=f4e10180090feb72dd4f27530e1f0fbe9bd7b1b2ce8283677e00dae8521ffb20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448063683.jpg?k=4dfd8c88cbdbe81253dc36f2385b5ec47d49be85d0f5b395f2824301f8387bf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472515510.jpg?k=8901bd3fb5b6d054354acebfd2313eac4991a3eb5fa5860a31919e83e9e4615f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457534873.jpg?k=0ec78bd4e0e668bd1f613afa663f17b9b6d29af7dabff997a69fe3ce90476d85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472514225.jpg?k=f5fdbfcde0b153ce9636ea8111b2cd25fb7c3f0d9562fe0347195e4ad2110ccd&o=&hp=1"\namenities:\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Tea/coffee maker in all rooms"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Double or Twin Room"\n  - "Deluxe Double or Twin Room"\nnearbyRestaurants:\n  - "Bake 150 m"\n  - "Etno 150 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Yash"\n    country: "United Kingdom"\n    text: "“Nice clean property, next to the castle and old quarters of Gjirokaster. We had a nice big room with a big terrace. Breakfast was also great. Definitely worth the money.”"\n  - name: "Dimitri"\n    country: "United Kingdom"\n    text: "“The hotel is everything you want in Gjyrokaster. The best location, clean, newly refurbished hotel, large terrace, excellent breakfast, quiet and comfy. Very attentive service from everybody we met. We are difficult clients but this hotel is...”"\n  - name: "Fatjona"\n    country: "United Kingdom"\n    text: "“Excellent breakfast provided. The decor and room was amazing. Location was fantastic 4 mins walk from centre. Staff were very friendly and helpful. Amazing room. 5 stars.”"\nbookingURL: "https://www.booking.com/hotel/al/palorto-traditional.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room in the hotel is thoughtfully designed with a cozy seating area, ensuring a relaxing retreat for every guest. The accommodations boast modern conveniences such as air conditioning and flat-screen TVs, with select rooms offering the added luxury of a private terrace. The attention to detail extends to the en-suite bathrooms, equipped with hairdryers, highlighting the hotel's commitment to guest comfort.
+---
+title: "Palorto Traditional Hotel"
+description: "Palorto Traditional Hotel, located in the historic heart of Gjirokastër, stands out as a premier destination for travelers seeking a blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448061832.jpg?k=6e0a3d5ca84d74b280a9ba72f8442744ce5fe49e28d2f0b5c604780ecc62bbd1&o=&hp=1"
+language: en
+slug: palorto-traditional-hotel
+address: "Rruga Ismail Kadare nr 34, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.07504871
+  lng: 20.1351934
+price: "US$48"
+priceFrom: 48
+starRating: 4
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 92
+ratings:
+  overall: 9.7
+  location: 9.6
+  cleanliness: 9.7
+  facilities: 9.6
+  value: 9.7
+  comfort: 9.7
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448061832.jpg?k=6e0a3d5ca84d74b280a9ba72f8442744ce5fe49e28d2f0b5c604780ecc62bbd1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448062682.jpg?k=f4e10180090feb72dd4f27530e1f0fbe9bd7b1b2ce8283677e00dae8521ffb20&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448063683.jpg?k=4dfd8c88cbdbe81253dc36f2385b5ec47d49be85d0f5b395f2824301f8387bf4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472515510.jpg?k=8901bd3fb5b6d054354acebfd2313eac4991a3eb5fa5860a31919e83e9e4615f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457534873.jpg?k=0ec78bd4e0e668bd1f613afa663f17b9b6d29af7dabff997a69fe3ce90476d85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472514225.jpg?k=f5fdbfcde0b153ce9636ea8111b2cd25fb7c3f0d9562fe0347195e4ad2110ccd&o=&hp=1"
+amenities:
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Tea/coffee maker in all rooms"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double or Twin Room"
+  - "Deluxe Double or Twin Room"
+  - "Deluxe Double or Twin Room"
+nearbyRestaurants:
+  - "Bake 150 m"
+  - "Etno 150 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Yash"
+    country: "United Kingdom"
+    text: "“Nice clean property, next to the castle and old quarters of Gjirokaster. We had a nice big room with a big terrace. Breakfast was also great. Definitely worth the money.”"
+  - name: "Dimitri"
+    country: "United Kingdom"
+    text: "“The hotel is everything you want in Gjyrokaster. The best location, clean, newly refurbished hotel, large terrace, excellent breakfast, quiet and comfy. Very attentive service from everybody we met. We are difficult clients but this hotel is...”"
+  - name: "Fatjona"
+    country: "United Kingdom"
+    text: "“Excellent breakfast provided. The decor and room was amazing. Location was fantastic 4 mins walk from centre. Staff were very friendly and helpful. Amazing room. 5 stars.”"
+bookingURL: "https://www.booking.com/hotel/al/palorto-traditional.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each room in the hotel is thoughtfully designed with a cozy seating area, ensuring a relaxing retreat for every guest. The accommodations boast modern conveniences such as air conditioning and flat-screen TVs, with select rooms offering the added luxury of a private terrace. The attention to detail extends to the en-suite bathrooms, equipped with hairdryers, highlighting the hotel's commitment to guest comfort.
 
 The Palorto Traditional Hotel also prides itself on its exceptional room service, allowing guests to enjoy the stunning city views in utmost privacy and comfort. For those looking to explore beyond the hotel's doors, Ioannina Airport is conveniently located 83 km away, making it an ideal base for both local and international travelers.

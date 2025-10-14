@@ -1,4 +1,69 @@
----\ntitle: "Apartment sea view 2"\ndescription: "Apartment Sea View 2 stands as a prime choice for travelers seeking a blend of comfort and scenic beauty in Shëngjin."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\nlanguage: en\nslug: apartment-sea-view-2\naddress: "Shetitorja Willson Apartment, Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.80796578\n  lng: 19.59893516\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260743625.jpg?k=856b04f6e5ddd1e5f716032eb3fea67950dab47209bfaa511542ab1af1fdeb48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/467292725.jpg?k=5e025f909dfd50be47b21d9db6f0ac526e0a876a2418bd53ec758271e2b7cd87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/467292814.jpg?k=783487f91296e5bf5d26b96261253400e51eacc85fb47601edfbe38d0e6f07a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/260754786.jpg?k=8d954ad9ea0f69461b155c2145a767f82c171f83b7534be0117509d57f2ae369&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/467292027.jpg?k=7827148cd65ba3c50cd7345f7105659f5057136c200a580fc6f79e8ea4ead9dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/260755098.jpg?k=159d56233bb94975433c186fe54431a110767a2ea3e85a8281c55cd395936e80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/468361120.jpg?k=6bfabcc02322ab96583291a8cfc0e38bc0fb948ae02afd1eda0b8247a1712890&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Ermiri Palace 100 m"\n  - "Kolonat Shengjin 150 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 900 m"\n  - "Rana e Hedhun Beach 2.9 km"\n  - "Laguna Park Beach 4.3 km"\n  - "Kune Beach 4.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 97 km"\nreviews:\n  - name: "Dritan"\n    country: "North Macedonia"\n    text: "“The house ,the view , free parking , free wifi and very clean, host very friendly .”"\nbookingURL: "https://www.booking.com/hotel/al/beautiful-apartment-see-view.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property is distinguished by its thoughtful amenities, including family rooms that cater to guests traveling with loved ones. Select units elevate the experience further, boasting balconies that present breathtaking sea views, alongside modern conveniences such as satellite flat-screen TVs equipped with Nintendo Wii and air conditioning, ensuring a stay that is both entertaining and comfortable.
+---
+title: "Apartment sea view 2"
+description: "Apartment Sea View 2 stands as a prime choice for travelers seeking a blend of comfort and scenic beauty in Shëngjin."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+language: en
+slug: apartment-sea-view-2
+address: "Shetitorja Willson Apartment, Shëngjin, Albania"
+city: "Shëngjin"
+location: "Shëngjin"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.80796578
+  lng: 19.59893516
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260743625.jpg?k=856b04f6e5ddd1e5f716032eb3fea67950dab47209bfaa511542ab1af1fdeb48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/467292725.jpg?k=5e025f909dfd50be47b21d9db6f0ac526e0a876a2418bd53ec758271e2b7cd87&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/467292814.jpg?k=783487f91296e5bf5d26b96261253400e51eacc85fb47601edfbe38d0e6f07a1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/260754786.jpg?k=8d954ad9ea0f69461b155c2145a767f82c171f83b7534be0117509d57f2ae369&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/467292027.jpg?k=7827148cd65ba3c50cd7345f7105659f5057136c200a580fc6f79e8ea4ead9dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/260755098.jpg?k=159d56233bb94975433c186fe54431a110767a2ea3e85a8281c55cd395936e80&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/468361120.jpg?k=6bfabcc02322ab96583291a8cfc0e38bc0fb948ae02afd1eda0b8247a1712890&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Family rooms"
+  - "Bar"
+nearbyRestaurants:
+  - "Ermiri Palace 100 m"
+  - "Kolonat Shengjin 150 m"
+nearbyBeaches:
+  - "Shëngjin Beach 100 m"
+  - "Ylberi Beach 900 m"
+  - "Rana e Hedhun Beach 2.9 km"
+  - "Laguna Park Beach 4.3 km"
+  - "Kune Beach 4.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 43 km"
+  - "Podgorica Airport 66 km"
+  - "Tivat Airport 97 km"
+reviews:
+  - name: "Dritan"
+    country: "North Macedonia"
+    text: "“The house ,the view , free parking , free wifi and very clean, host very friendly .”"
+bookingURL: "https://www.booking.com/hotel/al/beautiful-apartment-see-view.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property is distinguished by its thoughtful amenities, including family rooms that cater to guests traveling with loved ones. Select units elevate the experience further, boasting balconies that present breathtaking sea views, alongside modern conveniences such as satellite flat-screen TVs equipped with Nintendo Wii and air conditioning, ensuring a stay that is both entertaining and comfortable.
 
 Guests have the luxury of enjoying the on-site garden and bar, providing a perfect setting for relaxation after a day of exploration. The inclusion of a lift ensures easy access to all the apartment complex's facilities, highlighting the property's commitment to convenience and accessibility.
 

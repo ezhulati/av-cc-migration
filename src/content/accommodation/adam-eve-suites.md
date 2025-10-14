@@ -1,4 +1,88 @@
----\ntitle: "Adam & Eve Suites"\ndescription: "Adam & Eve Suites stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476551445.jpg?k=98b50adea74e58d9e353554480c9aebe73b991b98f373b3e51841fba40e22579&o=&hp=1"\nlanguage: en\nslug: adam-eve-suites\naddress: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87174811\n  lng: 20.00274274\nprice: "US$79"\npriceFrom: 79\nstarRating: 4\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 29\nratings:\n  overall: 9.8\n  location: 9.7\n  cleanliness: 9.8\n  facilities: 9.7\n  value: 9.7\n  comfort: 9.9\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476551445.jpg?k=98b50adea74e58d9e353554480c9aebe73b991b98f373b3e51841fba40e22579&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476341477.jpg?k=e767404a35214802a14f2eca5e1ea639b20cad34acfca3d50a9820a3cbe737ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480013883.jpg?k=9780afac2f9e7facdaec16c9112832ce813437265f02dfe438b596a116027fb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476545615.jpg?k=393aae332f67ae89f28eedbc267be1b8c9581ad0051d10a57e9e064c5ff00eae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476542694.jpg?k=5f0fe6008b08febbd816f7065cde92e393a5904362b7d54f2ce2b93212c7d64b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476341500.jpg?k=0df23e00905fc557fbc653cbd4761af75c0500ffd889c8d2614ae4d0a336b010&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Tea/coffee maker in all rooms"\nroomTypes:\n  - "Superior Suite"\n  - "Superior Suite"\nnearbyRestaurants:\n  - "Lala Buke Embeltore 50 m"\n  - "Taverna Fredi 50 m"\nnearbyBeaches:\n  - "Sarande Main Beach 300 m"\n  - "Saranda City Beach 600 m"\n  - "La Petite Beach 1 km"\n  - "Maestral Beach 1.2 km"\n  - "Saranda Bay Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.4 km"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Joy"\n    country: "Singapore"\n    text: "“From location to room amenities, highly recommend this perfect stay.”"\n  - name: "Dmytro"\n    country: "Montenegro"\n    text: "“The location is just perfect! The apartments are clean and well equipped. There is private parking (500 Lek per day) at the port site. Restorans and shops just 5 min wolk”"\n  - name: "Alexandra"\n    country: "Romania"\n    text: "“Great accommodation right next to the harbour, walking distance to all points of interest. The view from the small balcony was amazing.”"\nbookingURL: "https://www.booking.com/hotel/al/luxury-beach-apartment-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Adam & Eve Suites is a testament to thoughtful hospitality, equipped with air conditioning for those warm Mediterranean nights, a desk for travelers who need to stay connected, and a flat-screen TV for entertainment. The inclusion of a private bathroom, complete with fresh bed linen and towels, adds a touch of home. Perhaps most appealing is the balcony that comes with each room, offering guests their own private city view, perfect for enjoying a morning coffee or an evening glass of wine. A fridge in every room adds an extra layer of convenience for guests, making it easy to keep snacks and beverages chilled.
+---
+title: "Adam & Eve Suites"
+description: "Adam & Eve Suites stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476551445.jpg?k=98b50adea74e58d9e353554480c9aebe73b991b98f373b3e51841fba40e22579&o=&hp=1"
+language: en
+slug: adam-eve-suites
+address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.87174811
+  lng: 20.00274274
+price: "US$79"
+priceFrom: 79
+starRating: 4
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 29
+ratings:
+  overall: 9.8
+  location: 9.7
+  cleanliness: 9.8
+  facilities: 9.7
+  value: 9.7
+  comfort: 9.9
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476551445.jpg?k=98b50adea74e58d9e353554480c9aebe73b991b98f373b3e51841fba40e22579&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476341477.jpg?k=e767404a35214802a14f2eca5e1ea639b20cad34acfca3d50a9820a3cbe737ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480013883.jpg?k=9780afac2f9e7facdaec16c9112832ce813437265f02dfe438b596a116027fb8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476545615.jpg?k=393aae332f67ae89f28eedbc267be1b8c9581ad0051d10a57e9e064c5ff00eae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476542694.jpg?k=5f0fe6008b08febbd816f7065cde92e393a5904362b7d54f2ce2b93212c7d64b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476341500.jpg?k=0df23e00905fc557fbc653cbd4761af75c0500ffd889c8d2614ae4d0a336b010&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Tea/coffee maker in all rooms"
+roomTypes:
+  - "Superior Suite"
+  - "Superior Suite"
+nearbyRestaurants:
+  - "Lala Buke Embeltore 50 m"
+  - "Taverna Fredi 50 m"
+nearbyBeaches:
+  - "Sarande Main Beach 300 m"
+  - "Saranda City Beach 600 m"
+  - "La Petite Beach 1 km"
+  - "Maestral Beach 1.2 km"
+  - "Saranda Bay Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 2.4 km"
+  - "Butrint National Park 3.1 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Joy"
+    country: "Singapore"
+    text: "“From location to room amenities, highly recommend this perfect stay.”"
+  - name: "Dmytro"
+    country: "Montenegro"
+    text: "“The location is just perfect! The apartments are clean and well equipped. There is private parking (500 Lek per day) at the port site. Restorans and shops just 5 min wolk”"
+  - name: "Alexandra"
+    country: "Romania"
+    text: "“Great accommodation right next to the harbour, walking distance to all points of interest. The view from the small balcony was amazing.”"
+bookingURL: "https://www.booking.com/hotel/al/luxury-beach-apartment-saranda.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room at Adam & Eve Suites is a testament to thoughtful hospitality, equipped with air conditioning for those warm Mediterranean nights, a desk for travelers who need to stay connected, and a flat-screen TV for entertainment. The inclusion of a private bathroom, complete with fresh bed linen and towels, adds a touch of home. Perhaps most appealing is the balcony that comes with each room, offering guests their own private city view, perfect for enjoying a morning coffee or an evening glass of wine. A fridge in every room adds an extra layer of convenience for guests, making it easy to keep snacks and beverages chilled.
 
 For those looking to immerse themselves in the local culture and natural beauty, Adam & Eve Suites serves as an ideal base. The hotel is perfectly positioned for guests to engage in popular activities such as fishing, exploring the vibrant streets of Sarandë, or simply soaking up the sun on nearby beaches. Saranda City Beach is a leisurely stroll away, while the more secluded La Petite Beach can be reached with a short drive, offering a tranquil escape from the hustle and bustle.
 

@@ -1,4 +1,71 @@
----\ntitle: "NewBorn Suite Apartments Vlore"\ndescription: "Discover the charm of Vlore with a stay at NewBorn Suite Apartments Vlore, a prime choice for travelers seeking comfort and convenience mere steps from the beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874763.jpg?k=1d8fba00ebd1d88a3f9d7d1c5541f6268164c62ba7c2dd03e4a1e5966cd032fa&o=&hp=1"\nlanguage: en\nslug: newborn-suite-apartments-vlore\naddress: "Rruga Reshat Osmani, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44781993\n  lng: 19.49604152\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.6\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874763.jpg?k=1d8fba00ebd1d88a3f9d7d1c5541f6268164c62ba7c2dd03e4a1e5966cd032fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874796.jpg?k=8cb71043eb9200645eec82b80dc267d89a4751420459d4e1948e97c148c127a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874784.jpg?k=fb62847df9eed36ee9f5068304a2f4e79a61ab8c58d2246f1455266f0a32ffc1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583412.jpg?k=b2e3503467714d17f038242b66c2b86331078495bdbbc515a58d62bc967ffa8b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874802.jpg?k=dfc06411115340324d344bcb06eef606b7e88f9817d3584e8161799bf680559c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583994.jpg?k=799deb8cb75619195f0f8b6a3b45b932593642824474600d141e08dc0cb27cdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583409.jpg?k=8302c28904651ffc1c5bd82eaddd8aa45be28906a5b047d1437a434e0c8e257a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583411.jpg?k=c1e9496ca189ec5761a4dce37ed6b3bfb9dd70e6e67cfde6cbb57f18d198c5f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874781.jpg?k=7c1b1a13b8495de1fdad8050091356e740b1a1cb9236d47806f94df9231cac42&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Patio 150 m"\n  - "Tradicional Zgara 200 m"\nnearbyBeaches:\n  - "Vlore Beach 200 m"\n  - "Vjetër Beach 1.3 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.3 km"\n  - "Kuzum Baba 2.2 km"\n  - "Independence Square 2.6 km"\nreviews:\n  - name: "Arben"\n    country: "Albania"\n    text: "“Great place and location, near the main Vlora beach, restaurants and beach bars. The place is brand new and clean, while the hosts are very friendly. Overall we had a great vacation in beautiful Albania.”"\n  - name: "Viktoriia"\n    country: "Ukraine"\n    text: "“Хорошие апартаменты, точно как в описании. Находятся в новострое, на момент нашего пребывания не все квартиры ещё сданы в эксплуатацию. В квартире есть всё самое необходимое для проживания. Кондиционеры в каждой комнате. Есть стиральная машина,...”"\nbookingURL: "https://www.booking.com/hotel/al/newborn-suite-apartments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at NewBorn Suite Apartments Vlore are treated to air-conditioned accommodations that boast not only a balcony for soaking in the city or sea views but also come equipped with modern amenities. Each apartment features a flat-screen TV for entertainment, a private bathroom stocked with complimentary toiletries, and a fully-equipped kitchen, complete with an oven, toaster, and fridge, ensuring all the comforts of home are at hand.
+---
+title: "NewBorn Suite Apartments Vlore"
+description: "Discover the charm of Vlore with a stay at NewBorn Suite Apartments Vlore, a prime choice for travelers seeking comfort and convenience mere steps from the beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874763.jpg?k=1d8fba00ebd1d88a3f9d7d1c5541f6268164c62ba7c2dd03e4a1e5966cd032fa&o=&hp=1"
+language: en
+slug: newborn-suite-apartments-vlore
+address: "Rruga Reshat Osmani, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44781993
+  lng: 19.49604152
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 8
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 9.6
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874763.jpg?k=1d8fba00ebd1d88a3f9d7d1c5541f6268164c62ba7c2dd03e4a1e5966cd032fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874796.jpg?k=8cb71043eb9200645eec82b80dc267d89a4751420459d4e1948e97c148c127a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874784.jpg?k=fb62847df9eed36ee9f5068304a2f4e79a61ab8c58d2246f1455266f0a32ffc1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583412.jpg?k=b2e3503467714d17f038242b66c2b86331078495bdbbc515a58d62bc967ffa8b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874802.jpg?k=dfc06411115340324d344bcb06eef606b7e88f9817d3584e8161799bf680559c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583994.jpg?k=799deb8cb75619195f0f8b6a3b45b932593642824474600d141e08dc0cb27cdc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583409.jpg?k=8302c28904651ffc1c5bd82eaddd8aa45be28906a5b047d1437a434e0c8e257a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474583411.jpg?k=c1e9496ca189ec5761a4dce37ed6b3bfb9dd70e6e67cfde6cbb57f18d198c5f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874781.jpg?k=7c1b1a13b8495de1fdad8050091356e740b1a1cb9236d47806f94df9231cac42&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Patio 150 m"
+  - "Tradicional Zgara 200 m"
+nearbyBeaches:
+  - "Vlore Beach 200 m"
+  - "Vjetër Beach 1.3 km"
+  - "Ri Beach 1.4 km"
+  - "Beach at Government Villas 3.2 km"
+  - "Liro Beach 3.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.3 km"
+  - "Kuzum Baba 2.2 km"
+  - "Independence Square 2.6 km"
+reviews:
+  - name: "Arben"
+    country: "Albania"
+    text: "“Great place and location, near the main Vlora beach, restaurants and beach bars. The place is brand new and clean, while the hosts are very friendly. Overall we had a great vacation in beautiful Albania.”"
+  - name: "Viktoriia"
+    country: "Ukraine"
+    text: "“Хорошие апартаменты, точно как в описании. Находятся в новострое, на момент нашего пребывания не все квартиры ещё сданы в эксплуатацию. В квартире есть всё самое необходимое для проживания. Кондиционеры в каждой комнате. Есть стиральная машина,...”"
+bookingURL: "https://www.booking.com/hotel/al/newborn-suite-apartments-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests at NewBorn Suite Apartments Vlore are treated to air-conditioned accommodations that boast not only a balcony for soaking in the city or sea views but also come equipped with modern amenities. Each apartment features a flat-screen TV for entertainment, a private bathroom stocked with complimentary toiletries, and a fully-equipped kitchen, complete with an oven, toaster, and fridge, ensuring all the comforts of home are at hand.
 
 Attention to detail is evident in the provision of crisp bed linen and plush towels, enhancing the overall experience of a stay here. The addition of a terrace offers a perfect spot for guests to unwind after a day of exploration.
 

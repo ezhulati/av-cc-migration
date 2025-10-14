@@ -1,4 +1,87 @@
----\ntitle: "Hotel Visar - Apartments"\ndescription: "Hotel Visar - Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, merely a stone's throw away from the pristine Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\nlanguage: en\nslug: hotel-visar-apartments\naddress: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44372092\n  lng: 19.49549503\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 20\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 9.4\n  facilities: 9.5\n  value: 9\n  comfort: 9.5\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/rs/f2eab0e7a8259fc3db34eb38096cb24d7c7e8f9b.png"\n  - "https://graph.facebook.com/v2.9/10206332178579483/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/xdata/images/xphoto/square64/16763443.webp?k=ec4e291a67a444593b2d49aa044282b18b3984e46c650536496ffa0d52f536d7&o=?t=1489575177"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://graph.facebook.com/v2.9/357290628439723/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-w/743312ca303f4a4be7af10e6d1015d40a0ce81a4.png"\n  - "https://cf.bstatic.com/static/img/flags/12/sa/ddbc9f79b73a16a528b386ee5082aeb1d348e637.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ro/f7031adfc6a577ffae9cdbb9e0c67aaead71dbdb.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308198237.jpg?k=19f151d2c45ed64eeb9b0eca3355197d3d8bdeac21b1f308ea08b9e90a3c4df8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Da Vinci 20 m"\n  - "Amo Pizza 50 m"\nnearbyBeaches:\n  - "Vlore Beach 50 m"\n  - "Ri Beach 900 m"\n  - "Vjetër Beach 1.5 km"\n  - "Beach at Government Villas 2.7 km"\n  - "Liro Beach 3.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 800 m"\n  - "Kuzum Baba 2.7 km"\n  - "Independence Square 3 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Maja"\n    country: "Serbia"\n    text: "“Design of the appartmant is outstanding. Location is great. All possible appliances are available. Hosts were more then helpful.”"\n  - name: "Emilia"\n    country: "Poland"\n    text: "“Bardzo polecam apartament w 1 linii brzegowej do plaży. Właściciel super pomocy bardzo. Kontakt na whatsapie super odpowiada dosłownie od razu. Pokoje czyste wysprzątane. Jeżeli ktoś się zastanawia to naprawdę szczerze polecam bez żadnego wahania....”"\n  - name: "Bonfach26"\n    country: "Italy"\n    text: "“Appartamento grande e moderno, posizione perfetta sopra al lungomare, tutto vicino, bar ristoranti market frutta spiaggia”"\nbookingURL: "https://www.booking.com/hotel/al/visar-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a harmonious blend of comfort and functionality within each apartment. The presence of a balcony invites guests to soak in the tranquil sea vistas, while the seating area provides a cozy nook for relaxation. Entertainment and convenience are at the forefront, with each unit boasting a flat-screen TV and a fully equipped kitchen, complete with an oven and microwave. The attention to detail extends to the private bathrooms, outfitted with bidets and plush bathrobes, enhancing the home-away-from-home experience. Select apartments elevate privacy with their own exclusive entrances, adding an extra layer of exclusivity.
+---
+title: "Hotel Visar - Apartments"
+description: "Hotel Visar - Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, merely a stone's throw away from the pristine Vlore Beach."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+language: en
+slug: hotel-visar-apartments
+address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44372092
+  lng: 19.49549503
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 20
+ratings:
+  overall: 9.5
+  location: 9.6
+  cleanliness: 9.4
+  facilities: 9.5
+  value: 9
+  comfort: 9.5
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/rs/f2eab0e7a8259fc3db34eb38096cb24d7c7e8f9b.png"
+  - "https://graph.facebook.com/v2.9/10206332178579483/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/xdata/images/xphoto/square64/16763443.webp?k=ec4e291a67a444593b2d49aa044282b18b3984e46c650536496ffa0d52f536d7&o=?t=1489575177"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://graph.facebook.com/v2.9/357290628439723/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-w/743312ca303f4a4be7af10e6d1015d40a0ce81a4.png"
+  - "https://cf.bstatic.com/static/img/flags/12/sa/ddbc9f79b73a16a528b386ee5082aeb1d348e637.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/ro/f7031adfc6a577ffae9cdbb9e0c67aaead71dbdb.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308198237.jpg?k=19f151d2c45ed64eeb9b0eca3355197d3d8bdeac21b1f308ea08b9e90a3c4df8&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Da Vinci 20 m"
+  - "Amo Pizza 50 m"
+nearbyBeaches:
+  - "Vlore Beach 50 m"
+  - "Ri Beach 900 m"
+  - "Vjetër Beach 1.5 km"
+  - "Beach at Government Villas 2.7 km"
+  - "Liro Beach 3.4 km"
+whatsNearby:
+  - "Scooby Doo Vlore 800 m"
+  - "Kuzum Baba 2.7 km"
+  - "Independence Square 3 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Maja"
+    country: "Serbia"
+    text: "“Design of the appartmant is outstanding. Location is great. All possible appliances are available. Hosts were more then helpful.”"
+  - name: "Emilia"
+    country: "Poland"
+    text: "“Bardzo polecam apartament w 1 linii brzegowej do plaży. Właściciel super pomocy bardzo. Kontakt na whatsapie super odpowiada dosłownie od razu. Pokoje czyste wysprzątane. Jeżeli ktoś się zastanawia to naprawdę szczerze polecam bez żadnego wahania....”"
+  - name: "Bonfach26"
+    country: "Italy"
+    text: "“Appartamento grande e moderno, posizione perfetta sopra al lungomare, tutto vicino, bar ristoranti market frutta spiaggia”"
+bookingURL: "https://www.booking.com/hotel/al/visar-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to a harmonious blend of comfort and functionality within each apartment. The presence of a balcony invites guests to soak in the tranquil sea vistas, while the seating area provides a cozy nook for relaxation. Entertainment and convenience are at the forefront, with each unit boasting a flat-screen TV and a fully equipped kitchen, complete with an oven and microwave. The attention to detail extends to the private bathrooms, outfitted with bidets and plush bathrobes, enhancing the home-away-from-home experience. Select apartments elevate privacy with their own exclusive entrances, adding an extra layer of exclusivity.
 
 Beyond the confines of the apartments, the location of Hotel Visar - Apartments serves as a gateway to explore Vlorë's coastal beauty. The property is conveniently positioned less than a kilometer from Ri Beach and a short drive from the scenic Vjetër Beach, 2.2 km away. For those intrigued by historical sites, Kuzum Baba awaits at a distance of 3.2 km, promising a glimpse into the local heritage.
 

@@ -1,4 +1,81 @@
----\ntitle: "Life on Green"\ndescription: "Life on Green emerges as a recently renovated gem in Himare, boasting a prime location just 500 meters from the serene Spille Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030776.jpg?k=955578053fe3c5201ee7b5946868d722e648960b2695b47d0e2c979a51c895a7&o=&hp=1"\nlanguage: en\nslug: life-on-green\naddress: "Rr.Hali, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09946783\n  lng: 19.73973011\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 57\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 9\n  value: 9\n  comfort: 9.7\n  staff: 9.9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030776.jpg?k=955578053fe3c5201ee7b5946868d722e648960b2695b47d0e2c979a51c895a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162986.jpg?k=cec93e617291b999f1da5636c78bdbb5308038b0454f9ab732233337fa123cbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163046.jpg?k=0cd2ad65c5b8521e335e5056d20a77d29331f311c67d5ad07fae12db46027e09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162925.jpg?k=4d83c77332a1521bca992ae4678f39de4c82de76ab4994dd8754448eff098912&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030816.jpg?k=a6704ae364bcc01fc30f2bf83a777196ab2642ad8872eb14baa0e7dba75519b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162964.jpg?k=0ee1d66b494dd957757f6ccf575fb8e0d38bc2ba99d633332efc9706fac660a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163052.jpg?k=a7545a0b279671979a32010a499ef0e7b97ab89a435e6517d9ccdcba9043a622&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162930.jpg?k=b32e9c1656beb4b5545032e3444cc15fef365fcfdd75ff011e7c770e6f757a36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163078.jpg?k=214b409ddf521b8b2272d136d57a7719045397f20c5e341528c3b38b9d57abe1&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Esperia 200 m"\n  - "Manolo's 400 m"\nnearbyBeaches:\n  - "Spille Beach 150 m"\n  - "Maracit Beach 750 m"\n  - "Livadhi Beach 850 m"\n  - "Prinos Beach 950 m"\n  - "Potam Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 56 km"\npaymentMethods:\n  - "Visa"\nreviews:\n  - name: "Janna"\n    country: "Netherlands"\n    text: "“This was one of the most amazing places I’ve ever stayed. You can hear the ocean waves from the front door and the animals everywhere are so cute and sweet. Blue followed us on our walk around himare. The family who owns the place is 1000000% the...”"\n  - name: "Julian"\n    country: "Austria"\n    text: "“Stunning location, great hospitality, very clean and modern rooms. Everything just perfect!”"\n  - name: "Sofia"\n    country: "United Kingdom"\n    text: "“This was the best place we stayed in Albania and we are so glad we found it! The rooms are newly renovated and very spacious, and our favourite thing about staying here was being able to jump into the sea everyday from the bottom of the campsite....”"\nbookingURL: "https://www.booking.com/hotel/al/the-life-on-green.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Life on Green are thoughtfully designed with comfort in mind, featuring seating areas in every unit for relaxation. The private bathrooms are modern and fully equipped, including walk-in showers and complimentary toiletries, ensuring a comfortable stay. Additionally, each unit is fitted with air conditioning and a wardrobe, catering to all the essentials of modern living.
+---
+title: "Life on Green"
+description: "Life on Green emerges as a recently renovated gem in Himare, boasting a prime location just 500 meters from the serene Spille Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030776.jpg?k=955578053fe3c5201ee7b5946868d722e648960b2695b47d0e2c979a51c895a7&o=&hp=1"
+language: en
+slug: life-on-green
+address: "Rr.Hali, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.09946783
+  lng: 19.73973011
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 57
+ratings:
+  overall: 9.2
+  location: 9.7
+  cleanliness: 9.6
+  facilities: 9
+  value: 9
+  comfort: 9.7
+  staff: 9.9
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030776.jpg?k=955578053fe3c5201ee7b5946868d722e648960b2695b47d0e2c979a51c895a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162986.jpg?k=cec93e617291b999f1da5636c78bdbb5308038b0454f9ab732233337fa123cbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163046.jpg?k=0cd2ad65c5b8521e335e5056d20a77d29331f311c67d5ad07fae12db46027e09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162925.jpg?k=4d83c77332a1521bca992ae4678f39de4c82de76ab4994dd8754448eff098912&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030816.jpg?k=a6704ae364bcc01fc30f2bf83a777196ab2642ad8872eb14baa0e7dba75519b8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162964.jpg?k=0ee1d66b494dd957757f6ccf575fb8e0d38bc2ba99d633332efc9706fac660a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163052.jpg?k=a7545a0b279671979a32010a499ef0e7b97ab89a435e6517d9ccdcba9043a622&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466162930.jpg?k=b32e9c1656beb4b5545032e3444cc15fef365fcfdd75ff011e7c770e6f757a36&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466163078.jpg?k=214b409ddf521b8b2272d136d57a7719045397f20c5e341528c3b38b9d57abe1&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Esperia 200 m"
+  - "Manolo's 400 m"
+nearbyBeaches:
+  - "Spille Beach 150 m"
+  - "Maracit Beach 750 m"
+  - "Livadhi Beach 850 m"
+  - "Prinos Beach 950 m"
+  - "Potam Beach 1.3 km"
+whatsNearby:
+  - "Llogora National Park 16 km"
+airports:
+  - "Corfu International Airport 56 km"
+paymentMethods:
+  - "Visa"
+reviews:
+  - name: "Janna"
+    country: "Netherlands"
+    text: "“This was one of the most amazing places I’ve ever stayed. You can hear the ocean waves from the front door and the animals everywhere are so cute and sweet. Blue followed us on our walk around himare. The family who owns the place is 1000000% the...”"
+  - name: "Julian"
+    country: "Austria"
+    text: "“Stunning location, great hospitality, very clean and modern rooms. Everything just perfect!”"
+  - name: "Sofia"
+    country: "United Kingdom"
+    text: "“This was the best place we stayed in Albania and we are so glad we found it! The rooms are newly renovated and very spacious, and our favourite thing about staying here was being able to jump into the sea everyday from the bottom of the campsite....”"
+bookingURL: "https://www.booking.com/hotel/al/the-life-on-green.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Life on Green are thoughtfully designed with comfort in mind, featuring seating areas in every unit for relaxation. The private bathrooms are modern and fully equipped, including walk-in showers and complimentary toiletries, ensuring a comfortable stay. Additionally, each unit is fitted with air conditioning and a wardrobe, catering to all the essentials of modern living.
 
 For those who relish outdoor living, the property doesn't disappoint. An outdoor fireplace sets the scene for memorable evenings under the stars, while the availability of barbecue facilities invites guests to enjoy al fresco dining on their private balconies during the warmer months.
 

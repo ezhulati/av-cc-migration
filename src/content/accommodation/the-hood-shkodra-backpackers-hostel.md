@@ -1,4 +1,78 @@
----\ntitle: "The Hood - Shkodra Backpackers Hostel"\ndescription: "The Hood - Shkodra Backpackers Hostel, located in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, stands out as a prime choice for travelers seeking both comfort and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461603774.jpg?k=32dace1cdb7479565bad49edb1a1a7a659a710f6aaf5a4d9e3800c744875bfc9&o=&hp=1"\nlanguage: en\nslug: the-hood-shkodra-backpackers-hostel\naddress: "Rruga Beselidhja, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hostel"\ncoordinates:\n  lat: 42.06056585\n  lng: 19.52056642\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 240\nratings:\n  overall: 9.5\n  location: 8.8\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.5\n  comfort: 9.6\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461603774.jpg?k=32dace1cdb7479565bad49edb1a1a7a659a710f6aaf5a4d9e3800c744875bfc9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451107673.jpg?k=c85b2739c55efb59590333645afe3847e06395d6a3716c3c0a1e4de03271a244&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355474727.jpg?k=9983a3dc4fb434440bce81f9bf99eee7090b8e5fb139747e0987e27b66ec31b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355475013.jpg?k=38b63044119bb71f255545a7e44b63707670eb8b308cb3ea8e688729eafb32ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465394473.jpg?k=65c5fe237a468bc7b262b9483bb0e1b4dc251a4dcfad6b36ce9304a31841de42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355475163.jpg?k=a7cd3d062f7342820f85c24399d054238e7b2e4c571ffae103eaccb74299cc40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512478584.jpg?k=4598b294a1448d8ab16026197756b6dd5c4612e4974aea5a94ff6e51bd50e522&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485428913.jpg?k=fd89fc7dc3063946a6820f8f66e60d1f2e3f24a3d6f3cfb849b141743f42dfbe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483622315.jpg?k=f317373678bae1d36cae911db04ad346967b9eb7cf034d0132491898bcb7b0db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483594381.jpg?k=daa8dc7abeaa19c03d757a6bab23d9c907ccadc41c4c28c98334cc388f526476&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482037078.jpg?k=7e1c45756b5eab806efd61e80ebc68f7c8c563330798a7008261069f2b1258b0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482334319.jpg?k=b04a4284654bff8d454d9775801fc92b4d86d2de09158f71c2b4d74feedf3ea1&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Top Bast 100 m"\n  - "Shkodra Hotel 150 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.7 km"\n  - "National Park Skadar Lake 11 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 75 km"\nreviews:\n  - name: "Daniela"\n    country: "Germany"\n    text: "“Super nice and cosy hostel hidden in a backyard a bit away from the busy part of town. The staff is suoer friendly and the double room was spacious and very clean. The room we stayed in was in a extra backyard just over the street. The bathroom...”"\n  - name: "Anita"\n    country: "Germany"\n    text: "“Super attentive owners and a nice backyard with some space to put up tents ✨There’s a mini bar and a supermarket nearby, they also organize tours to Valbone or Teth. They also stored some things for me for a small fee while I left to do a multi...”"\n  - name: "Amber"\n    country: "United Kingdom"\n    text: "“This hostel was situated in a brilliant location, only a few minutes walk from the centre. Klaus and his family were really friendly and happy to help with any queries we had. The garden had a bar and was a lovely chilled environment to meet new...”"\nbookingURL: "https://www.booking.com/hotel/al/the-hood-shkoder12.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests can enjoy the convenience of free private parking, making exploration of the surrounding area hassle-free. The property prides itself on its commitment to service, with a 24-hour front desk ready to assist, alongside offerings such as airport transfers and a knowledgeable tour desk, all connected by the seamless availability of free WiFi throughout the premises.
+---
+title: "The Hood - Shkodra Backpackers Hostel"
+description: "The Hood - Shkodra Backpackers Hostel, located in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, stands out as a prime choice for travelers seeking both comfort and adventure."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461603774.jpg?k=32dace1cdb7479565bad49edb1a1a7a659a710f6aaf5a4d9e3800c744875bfc9&o=&hp=1"
+language: en
+slug: the-hood-shkodra-backpackers-hostel
+address: "Rruga Beselidhja, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hostel"
+coordinates:
+  lat: 42.06056585
+  lng: 19.52056642
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 240
+ratings:
+  overall: 9.5
+  location: 8.8
+  cleanliness: 9.5
+  facilities: 9
+  value: 9.5
+  comfort: 9.6
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461603774.jpg?k=32dace1cdb7479565bad49edb1a1a7a659a710f6aaf5a4d9e3800c744875bfc9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451107673.jpg?k=c85b2739c55efb59590333645afe3847e06395d6a3716c3c0a1e4de03271a244&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355474727.jpg?k=9983a3dc4fb434440bce81f9bf99eee7090b8e5fb139747e0987e27b66ec31b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355475013.jpg?k=38b63044119bb71f255545a7e44b63707670eb8b308cb3ea8e688729eafb32ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465394473.jpg?k=65c5fe237a468bc7b262b9483bb0e1b4dc251a4dcfad6b36ce9304a31841de42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355475163.jpg?k=a7cd3d062f7342820f85c24399d054238e7b2e4c571ffae103eaccb74299cc40&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512478584.jpg?k=4598b294a1448d8ab16026197756b6dd5c4612e4974aea5a94ff6e51bd50e522&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485428913.jpg?k=fd89fc7dc3063946a6820f8f66e60d1f2e3f24a3d6f3cfb849b141743f42dfbe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483622315.jpg?k=f317373678bae1d36cae911db04ad346967b9eb7cf034d0132491898bcb7b0db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483594381.jpg?k=daa8dc7abeaa19c03d757a6bab23d9c907ccadc41c4c28c98334cc388f526476&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482037078.jpg?k=7e1c45756b5eab806efd61e80ebc68f7c8c563330798a7008261069f2b1258b0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482334319.jpg?k=b04a4284654bff8d454d9775801fc92b4d86d2de09158f71c2b4d74feedf3ea1&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+nearbyRestaurants:
+  - "Top Bast 100 m"
+  - "Shkodra Hotel 150 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.7 km"
+  - "National Park Skadar Lake 11 km"
+airports:
+  - "Podgorica Airport 39 km"
+  - "Tirana International Airport Mother Teresa 72 km"
+  - "Tivat Airport 75 km"
+reviews:
+  - name: "Daniela"
+    country: "Germany"
+    text: "“Super nice and cosy hostel hidden in a backyard a bit away from the busy part of town. The staff is suoer friendly and the double room was spacious and very clean. The room we stayed in was in a extra backyard just over the street. The bathroom...”"
+  - name: "Anita"
+    country: "Germany"
+    text: "“Super attentive owners and a nice backyard with some space to put up tents ✨There’s a mini bar and a supermarket nearby, they also organize tours to Valbone or Teth. They also stored some things for me for a small fee while I left to do a multi...”"
+  - name: "Amber"
+    country: "United Kingdom"
+    text: "“This hostel was situated in a brilliant location, only a few minutes walk from the centre. Klaus and his family were really friendly and happy to help with any queries we had. The garden had a bar and was a lovely chilled environment to meet new...”"
+bookingURL: "https://www.booking.com/hotel/al/the-hood-shkoder12.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests can enjoy the convenience of free private parking, making exploration of the surrounding area hassle-free. The property prides itself on its commitment to service, with a 24-hour front desk ready to assist, alongside offerings such as airport transfers and a knowledgeable tour desk, all connected by the seamless availability of free WiFi throughout the premises.
 
 Accommodations at The Hood - Shkodra Backpackers Hostel are thoughtfully designed, with each room featuring a patio that opens up to breathtaking mountain views. The shared bathroom facilities are well-maintained, ensuring comfort and cleanliness, while the provision of bed linen adds a touch of home.
 

@@ -1,4 +1,78 @@
----\ntitle: "SEA SIDE SUITE"\ndescription: "SEA SIDE SUITE emerges as a prime choice for travelers seeking a serene getaway in Vlorë, perfectly positioned just a short stroll from both Vlore Beach and Ri Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174872.jpg?k=bb56926c9d47a7ddaa7c5b52c1a4b518d494d02e0c63007bceaeb49bcb195b92&o=&hp=1"\nlanguage: en\nslug: sea-side-suite\naddress: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43969576\n  lng: 19.49570922\nprice: "US$47"\npriceFrom: 47\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.8\n  location: 10\n  cleanliness: 10\n  facilities: 9.4\n  value: 10\n  comfort: 10\n  staff: 9.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174872.jpg?k=bb56926c9d47a7ddaa7c5b52c1a4b518d494d02e0c63007bceaeb49bcb195b92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403251711.jpg?k=280d3471036524b8ec2fbfbd12a51bb76c04c516ded0ea3a26a1b6f943430a2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174692.jpg?k=b3847e5137b897d24563619d771537c3af80ccb11dbada7795e9efdc8c02bcac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403253047.jpg?k=f1a45d05ba33dd9dc23187d02afe5240fba242898f0f357086372bbb1c66c46a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403254319.jpg?k=6ce39057693e6311c85f421287d27ff0d2dfce28920b9ed82099cb52823536cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403254470.jpg?k=4780cb587d04ac469a9b2e8b14fc1fa8fc6568e5ba64cc56c08b82f2bb8c62ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403251968.jpg?k=47b7952e82c05c4a45290df42206d1038071d601893e41c545677f214a230bae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174393.jpg?k=53c44662f375c3726891d594bc5a2a6f3ac39989dfee2b69a6c569deca511cf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174352.jpg?k=3531ba7273f4e4e8dac600f1c43c30e0cefdb1e66e3e6a5fe12ae0e7a548fd5c&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pizzeria City 1 m"\n  - "Sapori di Casa 50 m"\nnearbyBeaches:\n  - "Vlore Beach 350 m"\n  - "Ri Beach 450 m"\n  - "Vjetër Beach 1.8 km"\n  - "Beach at Government Villas 2.3 km"\n  - "Liro Beach 3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 400 m"\n  - "Kuzum Baba 3.1 km"\n  - "Independence Square 3.5 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Alexandru"\n    country: "Romania"\n    text: "“Great location. You have everything that you need in the area.”"\nbookingURL: "https://www.booking.com/hotel/al/sea-side-suite.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe charm of SEA SIDE SUITE is further enhanced by its provision of quiet street views from a private balcony, ensuring a tranquil retreat from the bustling city life. Convenience is paramount, with complimentary private parking and the option for a paid airport shuttle service, making travel arrangements seamless for guests.
+---
+title: "SEA SIDE SUITE"
+description: "SEA SIDE SUITE emerges as a prime choice for travelers seeking a serene getaway in Vlorë, perfectly positioned just a short stroll from both Vlore Beach and Ri Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174872.jpg?k=bb56926c9d47a7ddaa7c5b52c1a4b518d494d02e0c63007bceaeb49bcb195b92&o=&hp=1"
+language: en
+slug: sea-side-suite
+address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.43969576
+  lng: 19.49570922
+price: "US$47"
+priceFrom: 47
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 4
+ratings:
+  overall: 9.8
+  location: 10
+  cleanliness: 10
+  facilities: 9.4
+  value: 10
+  comfort: 10
+  staff: 9.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174872.jpg?k=bb56926c9d47a7ddaa7c5b52c1a4b518d494d02e0c63007bceaeb49bcb195b92&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403251711.jpg?k=280d3471036524b8ec2fbfbd12a51bb76c04c516ded0ea3a26a1b6f943430a2a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174692.jpg?k=b3847e5137b897d24563619d771537c3af80ccb11dbada7795e9efdc8c02bcac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403253047.jpg?k=f1a45d05ba33dd9dc23187d02afe5240fba242898f0f357086372bbb1c66c46a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403254319.jpg?k=6ce39057693e6311c85f421287d27ff0d2dfce28920b9ed82099cb52823536cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403254470.jpg?k=4780cb587d04ac469a9b2e8b14fc1fa8fc6568e5ba64cc56c08b82f2bb8c62ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403251968.jpg?k=47b7952e82c05c4a45290df42206d1038071d601893e41c545677f214a230bae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174393.jpg?k=53c44662f375c3726891d594bc5a2a6f3ac39989dfee2b69a6c569deca511cf4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174352.jpg?k=3531ba7273f4e4e8dac600f1c43c30e0cefdb1e66e3e6a5fe12ae0e7a548fd5c&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Pizzeria City 1 m"
+  - "Sapori di Casa 50 m"
+nearbyBeaches:
+  - "Vlore Beach 350 m"
+  - "Ri Beach 450 m"
+  - "Vjetër Beach 1.8 km"
+  - "Beach at Government Villas 2.3 km"
+  - "Liro Beach 3 km"
+whatsNearby:
+  - "Scooby Doo Vlore 400 m"
+  - "Kuzum Baba 3.1 km"
+  - "Independence Square 3.5 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Alexandru"
+    country: "Romania"
+    text: "“Great location. You have everything that you need in the area.”"
+bookingURL: "https://www.booking.com/hotel/al/sea-side-suite.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The charm of SEA SIDE SUITE is further enhanced by its provision of quiet street views from a private balcony, ensuring a tranquil retreat from the bustling city life. Convenience is paramount, with complimentary private parking and the option for a paid airport shuttle service, making travel arrangements seamless for guests.
 
 Accommodation at SEA SIDE SUITE is thoughtfully designed with a single bedroom, but don't let that fool you; the space is ample, featuring a fully equipped kitchen with modern appliances including a dishwasher and an oven. The living area, adorned with a flat-screen TV and comfortable seating, invites guests to unwind. The bathroom, complete with a bidet, adds a touch of luxury to the suite. For those who love dining al fresco, an outdoor dining area offers stunning sea views, enhancing the dining experience. The apartment's commitment to comfort is evident in its non-smoking and soundproof rooms, ensuring a peaceful stay.
 

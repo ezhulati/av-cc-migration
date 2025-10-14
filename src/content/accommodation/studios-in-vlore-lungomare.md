@@ -1,4 +1,66 @@
----\ntitle: "Studios in Vlore Lungomare"\ndescription: "Studios in Vlore Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490223946.jpg?k=959a3e0156ba9eca2631556f0cb0ee309a571ae8880d8b6cd9c662fa91fe29cc&o=&hp=1"\nlanguage: en\nslug: studios-in-vlore-lungomare\naddress: "Rruga Haziz Xhyherri No.8 & 9 on the second floor, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44441763\n  lng: 19.49554962\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490223946.jpg?k=959a3e0156ba9eca2631556f0cb0ee309a571ae8880d8b6cd9c662fa91fe29cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223924.jpg?k=7317d95ab637c9d965c637e41d1e957be518c9f0010e442f2d2d8809b53147fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223950.jpg?k=89259b2b52a665bd9be304700728f9ac6af18f6ca86f35234754891231fee1fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223951.jpg?k=8451f56c05d574fb6606c52a071abcdf46866c8c1addb336a8dc7320135a4254&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223954.jpg?k=04989d1756e0caa3a9fa99647691b556a957a7ceb5e53f5f3e91d87d30fffe3c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223955.jpg?k=1ae084e5c528278e61116931b7ae5801e8d6de41840185df52db2ba2121775a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223958.jpg?k=fea8d1f5bf07acbc0edab126f65b19189d0d87a91a86b21a8140d16a22f891fe&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Private parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Marinero Pizzeria 50 m"\n  - "Da Vinci 100 m"\nnearbyBeaches:\n  - "Vlore Beach 50 m"\n  - "Ri Beach 1,000 m"\n  - "Vjetër Beach 1.5 km"\n  - "Beach at Government Villas 2.8 km"\n  - "Liro Beach 3.5 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 900 m"\n  - "Kuzum Baba 2.6 km"\n  - "Independence Square 3 km"\nbookingURL: "https://www.booking.com/hotel/al/studios-in-vlore-lungomare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property stands out not only for its comfortable lodging but also for its comprehensive amenities, including an on-site restaurant and an enchanting outdoor fireplace, perfect for those chillier evenings. For guests arriving by car, the convenience of private parking is available, albeit for an additional fee.
+---
+title: "Studios in Vlore Lungomare"
+description: "Studios in Vlore Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490223946.jpg?k=959a3e0156ba9eca2631556f0cb0ee309a571ae8880d8b6cd9c662fa91fe29cc&o=&hp=1"
+language: en
+slug: studios-in-vlore-lungomare
+address: "Rruga Haziz Xhyherri No.8 & 9 on the second floor, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44441763
+  lng: 19.49554962
+price: "US$54"
+priceFrom: 54
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490223946.jpg?k=959a3e0156ba9eca2631556f0cb0ee309a571ae8880d8b6cd9c662fa91fe29cc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223924.jpg?k=7317d95ab637c9d965c637e41d1e957be518c9f0010e442f2d2d8809b53147fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223950.jpg?k=89259b2b52a665bd9be304700728f9ac6af18f6ca86f35234754891231fee1fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223951.jpg?k=8451f56c05d574fb6606c52a071abcdf46866c8c1addb336a8dc7320135a4254&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223954.jpg?k=04989d1756e0caa3a9fa99647691b556a957a7ceb5e53f5f3e91d87d30fffe3c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223955.jpg?k=1ae084e5c528278e61116931b7ae5801e8d6de41840185df52db2ba2121775a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490223958.jpg?k=fea8d1f5bf07acbc0edab126f65b19189d0d87a91a86b21a8140d16a22f891fe&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Private parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Beachfront"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Marinero Pizzeria 50 m"
+  - "Da Vinci 100 m"
+nearbyBeaches:
+  - "Vlore Beach 50 m"
+  - "Ri Beach 1,000 m"
+  - "Vjetër Beach 1.5 km"
+  - "Beach at Government Villas 2.8 km"
+  - "Liro Beach 3.5 km"
+whatsNearby:
+  - "Scooby Doo Vlore 900 m"
+  - "Kuzum Baba 2.6 km"
+  - "Independence Square 3 km"
+bookingURL: "https://www.booking.com/hotel/al/studios-in-vlore-lungomare.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property stands out not only for its comfortable lodging but also for its comprehensive amenities, including an on-site restaurant and an enchanting outdoor fireplace, perfect for those chillier evenings. For guests arriving by car, the convenience of private parking is available, albeit for an additional fee.
 
 Connectivity is never an issue, as guests can enjoy complimentary WiFi throughout their stay. The apartment, suitable for up to two guests, is thoughtfully equipped with a satellite TV, washing machine, and a kitchenette complete with a fridge, catering to all the essentials for a self-sufficient stay. Additionally, the non-smoking environment ensures a clean and healthy atmosphere for all guests.
 

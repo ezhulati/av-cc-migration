@@ -1,4 +1,81 @@
----\ntitle: "Villa Rei"\ndescription: "Villa Rei, situated a mere 29 km from the historic Rozafa Castle Shkodra and 31 km from the serene Lake Skadar, stands as a beacon of comfort and luxury in Baks-Rrjoll."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485203071.jpg?k=ced89765d76af3ad88983262e0d712f37fd8938df680d42689e0246da354b5f1&o=&hp=1"\nlanguage: en\nslug: villa-rei\naddress: "Rruga Baks Rrjoll, 4001 Baks-Rrjoll, Albania"\ncity: "Baks-Rrjoll"\nlocation: "Baks-Rrjoll"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.86010328\n  lng: 19.46855745\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.6\n  location: 8\n  cleanliness: 9.5\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485203071.jpg?k=ced89765d76af3ad88983262e0d712f37fd8938df680d42689e0246da354b5f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488815193.jpg?k=a9c1974cc3419ce8d3e2bd2b7c915167c70d3a7439d3cfdb3557c137ea4727fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157189.jpg?k=8c227a6da5742ed67cf907c4b47f608446f621dde49d9226c2a659aeaa191edf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157304.jpg?k=6e6bef8f862e6c2f9d0cb5d5a8a90b36dafb250081d4b9d6237d947d36ef603a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157393.jpg?k=d792010b1dad8188fcebfe90a10f664b07f218cf002d524754535be78179a754&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485202740.jpg?k=7423797b38d981ab077a2897b2a9e3b8f618ac2fbc96e7573f48a75ed5536391&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157151.jpg?k=84853f1c174fbdf3543e5a4fa1b8cce8de4c57586645137ee070774e088f6e49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457416781.jpg?k=b42af491dc1bec9dab32e53dec07cf128e383efa7a6cb1264ca9c1c0ec3d70ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509183416.jpg?k=877b72038930b7e23a854fa0e875e90f8e624347ebdab547e75296d70b98590b&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Family rooms"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom Villa"\nnearbyRestaurants:\n  - "Kafe 300 m"\n  - "Viluni 1.9 km"\nnearbyBeaches:\n  - "Rana e Hedhun Beach 500 m"\n  - "Velipoja Beach 1.7 km"\n  - "Ada Bojana Beach 8 km"\nwhatsNearby:\n  - "Copacabana 14 km"\n  - "Cola Beach 15 km"\n  - "Imperiam Beach 16 km"\n  - "Msm Beach 17 km"\n  - "Tropicana 17 km"\n  - "Plaža Safari 18 km"\n  - "Bukurija Beach 18 km"\n  - "Saranda 19 km"\n  - "Plaža Toni 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 52 km"\n  - "Podgorica Airport 57 km"\n  - "Tivat Airport 85 km"\nreviews:\n  - name: "Francisca"\n    country: "Portugal"\n    text: "“We liked everything. The host is very friendly, it is a 5 minute walk to the beach and a market, has all the amenities and has a very nice garden where our kids were playing. We loved it!”"\nbookingURL: "https://www.booking.com/hotel/al/villa-rei.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe villa itself is a testament to thoughtful design and comfort, featuring a spacious terrace that offers breathtaking mountain views. Housing 2 cozy bedrooms, a welcoming living room complete with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and toaster, Villa Rei ensures every guest's needs are met. The presence of a bathroom equipped with a bidet adds a touch of elegance. The outdoor dining area, overlooking the lush garden, provides the perfect backdrop for meals, making every dining experience memorable.
+---
+title: "Villa Rei"
+description: "Villa Rei, situated a mere 29 km from the historic Rozafa Castle Shkodra and 31 km from the serene Lake Skadar, stands as a beacon of comfort and luxury in Baks-Rrjoll."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485203071.jpg?k=ced89765d76af3ad88983262e0d712f37fd8938df680d42689e0246da354b5f1&o=&hp=1"
+language: en
+slug: villa-rei
+address: "Rruga Baks Rrjoll, 4001 Baks-Rrjoll, Albania"
+city: "Baks-Rrjoll"
+location: "Baks-Rrjoll"
+accommodationType: "villa"
+coordinates:
+  lat: 41.86010328
+  lng: 19.46855745
+price: "US$53"
+priceFrom: 53
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 6
+ratings:
+  overall: 9.6
+  location: 8
+  cleanliness: 9.5
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485203071.jpg?k=ced89765d76af3ad88983262e0d712f37fd8938df680d42689e0246da354b5f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488815193.jpg?k=a9c1974cc3419ce8d3e2bd2b7c915167c70d3a7439d3cfdb3557c137ea4727fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157189.jpg?k=8c227a6da5742ed67cf907c4b47f608446f621dde49d9226c2a659aeaa191edf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157304.jpg?k=6e6bef8f862e6c2f9d0cb5d5a8a90b36dafb250081d4b9d6237d947d36ef603a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157393.jpg?k=d792010b1dad8188fcebfe90a10f664b07f218cf002d524754535be78179a754&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485202740.jpg?k=7423797b38d981ab077a2897b2a9e3b8f618ac2fbc96e7573f48a75ed5536391&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485157151.jpg?k=84853f1c174fbdf3543e5a4fa1b8cce8de4c57586645137ee070774e088f6e49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457416781.jpg?k=b42af491dc1bec9dab32e53dec07cf128e383efa7a6cb1264ca9c1c0ec3d70ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509183416.jpg?k=877b72038930b7e23a854fa0e875e90f8e624347ebdab547e75296d70b98590b&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Family rooms"
+  - "Private beach area"
+roomTypes:
+  - "Two-Bedroom Villa"
+nearbyRestaurants:
+  - "Kafe 300 m"
+  - "Viluni 1.9 km"
+nearbyBeaches:
+  - "Rana e Hedhun Beach 500 m"
+  - "Velipoja Beach 1.7 km"
+  - "Ada Bojana Beach 8 km"
+whatsNearby:
+  - "Copacabana 14 km"
+  - "Cola Beach 15 km"
+  - "Imperiam Beach 16 km"
+  - "Msm Beach 17 km"
+  - "Tropicana 17 km"
+  - "Plaža Safari 18 km"
+  - "Bukurija Beach 18 km"
+  - "Saranda 19 km"
+  - "Plaža Toni 19 km"
+airports:
+  - "Tirana International Airport Mother Teresa 52 km"
+  - "Podgorica Airport 57 km"
+  - "Tivat Airport 85 km"
+reviews:
+  - name: "Francisca"
+    country: "Portugal"
+    text: "“We liked everything. The host is very friendly, it is a 5 minute walk to the beach and a market, has all the amenities and has a very nice garden where our kids were playing. We loved it!”"
+bookingURL: "https://www.booking.com/hotel/al/villa-rei.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The villa itself is a testament to thoughtful design and comfort, featuring a spacious terrace that offers breathtaking mountain views. Housing 2 cozy bedrooms, a welcoming living room complete with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and toaster, Villa Rei ensures every guest's needs are met. The presence of a bathroom equipped with a bidet adds a touch of elegance. The outdoor dining area, overlooking the lush garden, provides the perfect backdrop for meals, making every dining experience memorable.
 
 For those seeking moments of tranquility, the villa's garden and picnic area offer a peaceful retreat. Additionally, the accommodation prides itself on ensuring guests' privacy with a private entrance to each lodging. Beyond the confines of the villa, guests have the option to explore the surroundings with the convenience of car hire services provided by the property.
 

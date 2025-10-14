@@ -1,4 +1,79 @@
----\ntitle: "Apartment on the Beach"\ndescription: "Apartment on the Beach in Vlorë stands out as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695730.jpg?k=2e92d8d3fde4c32711ea83282b2b5f63fb1c366e0fd95057fa6a9c7f8d602727&o=&hp=1"\nlanguage: en\nslug: apartment-on-the-beach\naddress: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44848179\n  lng: 19.49315502\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 10\n  cleanliness: 9\n  facilities: 9\n  value: 10\n  comfort: 9\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695730.jpg?k=2e92d8d3fde4c32711ea83282b2b5f63fb1c366e0fd95057fa6a9c7f8d602727&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695861.jpg?k=004c639d9531f0f54c283e826e01b9644f902ae748b06bdd63d234db1e58e7f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695928.jpg?k=c3f3f0fab7756c8d8e5688dc83197505b74a2aaf04bca975bf5c4b699e5f6e1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695948.jpg?k=b4bad0e6a7bb9e96139c8caef784069a5a1eb18df681ba1d786ff3231f174141&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695903.jpg?k=06cfaebea00c0a676f4d40018a33ffd2ab02bee3a65851ecf85c3a87b5761bbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695828.jpg?k=e987e264d0cd55d34f7b8246505140d377a5adf916681386a6c61baa63113bec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695937.jpg?k=f737c913d71d32581ec0f668ecd0194ecee9d2192d7babb2e6d789018aea7fbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695921.jpg?k=e484a034a9120ff3bdffb62556266e59bb7c75af4edd1ad7508695b7732b4aa4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475862640.jpg?k=9e01455fa38ebfb47687ef272fb8784a13b92e9a8c409387bb6e3d8c8deff991&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Free parking"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Aiden Zgara Korcare 40 m"\n  - "Aiden Zgara Korcare 40 m"\nnearbyBeaches:\n  - "Vlore Beach 50 m"\n  - "Vjetër Beach 1.1 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.4 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nreviews:\n  - name: "Zoran"\n    country: "North Macedonia"\n    text: "“Excellent apartment,with fully equipped and funcional kitchen,а terrace with sea view where we had our morning coffee,kind owners”"\n  - name: "Kemal"\n    country: "Bosnia and Herzegovina"\n    text: "“Location of apartment is very good, only street is between apartment and sea, and nearest beach is just 150 meters from it, so there is no need to use car at all. Place is nice and clean and host is online for any additional wish. Also nearby are...”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-on-the-beach-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment doesn't just promise a stay; it delivers an experience. Guests are treated to a spacious living area that includes one bedroom, one bathroom complete with walk-in shower, and a balcony that offers breathtaking sea views. The inclusion of a fully equipped kitchen, dining area, and an outdoor dining space ensures that every meal feels like a private dining experience. For entertainment, a flat-screen TV with satellite channels is provided, and to ensure a peaceful stay, the apartment boasts soundproofing.
+---
+title: "Apartment on the Beach"
+description: "Apartment on the Beach in Vlorë stands out as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695730.jpg?k=2e92d8d3fde4c32711ea83282b2b5f63fb1c366e0fd95057fa6a9c7f8d602727&o=&hp=1"
+language: en
+slug: apartment-on-the-beach
+address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44848179
+  lng: 19.49315502
+price: "US$36"
+priceFrom: 36
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 5
+ratings:
+  overall: 9.4
+  location: 10
+  cleanliness: 9
+  facilities: 9
+  value: 10
+  comfort: 9
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695730.jpg?k=2e92d8d3fde4c32711ea83282b2b5f63fb1c366e0fd95057fa6a9c7f8d602727&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695861.jpg?k=004c639d9531f0f54c283e826e01b9644f902ae748b06bdd63d234db1e58e7f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695928.jpg?k=c3f3f0fab7756c8d8e5688dc83197505b74a2aaf04bca975bf5c4b699e5f6e1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695948.jpg?k=b4bad0e6a7bb9e96139c8caef784069a5a1eb18df681ba1d786ff3231f174141&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695903.jpg?k=06cfaebea00c0a676f4d40018a33ffd2ab02bee3a65851ecf85c3a87b5761bbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695828.jpg?k=e987e264d0cd55d34f7b8246505140d377a5adf916681386a6c61baa63113bec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695937.jpg?k=f737c913d71d32581ec0f668ecd0194ecee9d2192d7babb2e6d789018aea7fbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695921.jpg?k=e484a034a9120ff3bdffb62556266e59bb7c75af4edd1ad7508695b7732b4aa4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475862640.jpg?k=9e01455fa38ebfb47687ef272fb8784a13b92e9a8c409387bb6e3d8c8deff991&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Fitness centre"
+  - "Free parking"
+  - "Restaurant"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Aiden Zgara Korcare 40 m"
+  - "Aiden Zgara Korcare 40 m"
+nearbyBeaches:
+  - "Vlore Beach 50 m"
+  - "Vjetër Beach 1.1 km"
+  - "Ri Beach 1.4 km"
+  - "Beach at Government Villas 3.2 km"
+  - "Liro Beach 3.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.4 km"
+  - "Kuzum Baba 2.1 km"
+  - "Independence Square 2.5 km"
+reviews:
+  - name: "Zoran"
+    country: "North Macedonia"
+    text: "“Excellent apartment,with fully equipped and funcional kitchen,а terrace with sea view where we had our morning coffee,kind owners”"
+  - name: "Kemal"
+    country: "Bosnia and Herzegovina"
+    text: "“Location of apartment is very good, only street is between apartment and sea, and nearest beach is just 150 meters from it, so there is no need to use car at all. Place is nice and clean and host is online for any additional wish. Also nearby are...”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-on-the-beach-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This air-conditioned apartment doesn't just promise a stay; it delivers an experience. Guests are treated to a spacious living area that includes one bedroom, one bathroom complete with walk-in shower, and a balcony that offers breathtaking sea views. The inclusion of a fully equipped kitchen, dining area, and an outdoor dining space ensures that every meal feels like a private dining experience. For entertainment, a flat-screen TV with satellite channels is provided, and to ensure a peaceful stay, the apartment boasts soundproofing.
 
 Beyond the confines of the apartment, guests have access to a private beach area and a tennis court, ensuring that leisure and activity are always within reach. For those looking to explore the local cuisine, the on-site family-friendly restaurant serves a variety of Italian dishes for lunch, dinner, and brunch.
 

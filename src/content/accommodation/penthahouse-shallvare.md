@@ -1,6 +1,89 @@
----\ntitle: "Penthahouse Shallvare"\ndescription: "Penthahouse Shallvare emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730341.jpg?k=b346233028e289e060153ade5d8f1c3130591a90ef5f039c090c15591c504468&o=&hp=1"\nlanguage: en\nslug: penthahouse-shallvare\naddress: "Bulevardi Gjergj Fishta 7th floor, 1031 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32343135\n  lng: 19.81540149\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 26\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.2\n  facilities: 8.9\n  value: 9.7\n  comfort: 9.1\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730341.jpg?k=b346233028e289e060153ade5d8f1c3130591a90ef5f039c090c15591c504468&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730434.jpg?k=201bd462970437eee3597c26e9138f623e4f864b604be7eec8bfdaa5e791c039&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730390.jpg?k=f5e6a5c1b3de334802520ef0826dd28610deccd00d4d083a62c1ef6e19eb7b5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730385.jpg?k=214805e1495f72a0328c6935be0ebc2e7be2082bbd02b50a8210fab44aa5fcc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730405.jpg?k=98e4ff35689ae9040270948e2502649c7d160cd62e17e9d984ec8ca8f8229fe0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730394.jpg?k=d0f49dde133c0ce6555cce47214bfc0c71e6bcb9ccc2d0a647d8ca4283e4323a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730417.jpg?k=511354e7bcd357c7e43171f055f023408d2c81d4bed1fd835b64d294972f2962&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730429.jpg?k=07326ed496d6eb13767595fe5d496136749166b3f53c246074f0991040c3180e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730399.jpg?k=79d0eccb969d8ed58454cb58e0d689b0406225cdfd94fc2a2eaf46f91444c0ff&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 600 m"\n  - "National Museum of History Albania 700 m"\n  - "Tanners' Bridge 950 m"\n  - "Grand Park of Tirana 1.5 km"\n  - "Bunk'Art 1 Museum 4.8 km"\nnearbyRestaurants:\n  - "Bufe 10 m"\n  - "Taverna Vasili-2 Tirane 40 m"\nwhatsNearby:\n  - "Rinia Park 300 m"\n  - "Former Residence of Enver Hoxha 300 m"\n  - "House of Leaves 350 m"\n  - "Parku Rinia 400 m"\n  - "Sheshi Rekreativ Piramida 500 m"\n  - "National Gallery of Arts Tirana 550 m"\n  - "Parku Europa 550 m"\n  - "Shesh Rekreativ 550 m"\n  - "Skanderbeg Square 600 m"\n  - "Sheshi Skënderbej 600 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Radu"\n    country: "Romania"\n    text: "“Everything was perfect!
+---
+title: "Penthahouse Shallvare"
+description: "Penthahouse Shallvare emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730341.jpg?k=b346233028e289e060153ade5d8f1c3130591a90ef5f039c090c15591c504468&o=&hp=1"
+language: en
+slug: penthahouse-shallvare
+address: "Bulevardi Gjergj Fishta 7th floor, 1031 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32343135
+  lng: 19.81540149
+price: "US$58"
+priceFrom: 58
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 26
+ratings:
+  overall: 9.5
+  location: 9.7
+  cleanliness: 9.2
+  facilities: 8.9
+  value: 9.7
+  comfort: 9.1
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730341.jpg?k=b346233028e289e060153ade5d8f1c3130591a90ef5f039c090c15591c504468&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730434.jpg?k=201bd462970437eee3597c26e9138f623e4f864b604be7eec8bfdaa5e791c039&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730390.jpg?k=f5e6a5c1b3de334802520ef0826dd28610deccd00d4d083a62c1ef6e19eb7b5a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730385.jpg?k=214805e1495f72a0328c6935be0ebc2e7be2082bbd02b50a8210fab44aa5fcc8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730405.jpg?k=98e4ff35689ae9040270948e2502649c7d160cd62e17e9d984ec8ca8f8229fe0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730394.jpg?k=d0f49dde133c0ce6555cce47214bfc0c71e6bcb9ccc2d0a647d8ca4283e4323a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730417.jpg?k=511354e7bcd357c7e43171f055f023408d2c81d4bed1fd835b64d294972f2962&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730429.jpg?k=07326ed496d6eb13767595fe5d496136749166b3f53c246074f0991040c3180e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730399.jpg?k=79d0eccb969d8ed58454cb58e0d689b0406225cdfd94fc2a2eaf46f91444c0ff&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Clock Tower Tirana 600 m"
+  - "National Museum of History Albania 700 m"
+  - "Tanners' Bridge 950 m"
+  - "Grand Park of Tirana 1.5 km"
+  - "Bunk'Art 1 Museum 4.8 km"
+nearbyRestaurants:
+  - "Bufe 10 m"
+  - "Taverna Vasili-2 Tirane 40 m"
+whatsNearby:
+  - "Rinia Park 300 m"
+  - "Former Residence of Enver Hoxha 300 m"
+  - "House of Leaves 350 m"
+  - "Parku Rinia 400 m"
+  - "Sheshi Rekreativ Piramida 500 m"
+  - "National Gallery of Arts Tirana 550 m"
+  - "Parku Europa 550 m"
+  - "Shesh Rekreativ 550 m"
+  - "Skanderbeg Square 600 m"
+  - "Sheshi Skënderbej 600 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Radu"
+    country: "Romania"
+    text: "“Everything was perfect!
 The hosts were very kind, friendly and dedicated, they made some suggestion which helped me a lot to explore Tirana and also were available at any time to ask them question.
-The apartment was very cozy, extremly clean and...”"\n  - name: "Lukas"\n    country: "Czech Republic"\n    text: "“great value & the best location, would go again:)”"\n  - name: "Ledia"\n    country: "Italy"\n    text: "“Tutto...la posizione,la gentilezza dello staff,la tranquillità del cortile,zona servita e a due passi dal centro”"\nbookingURL: "https://www.booking.com/hotel/al/penthahouse-shallvare.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of space and light, boasting a balcony that offers picturesque river views. It is well-appointed with a bedroom, a living area, and a flat-screen TV for entertainment. The kitchen is fully equipped with modern appliances including a dishwasher and a fridge, ensuring guests can easily prepare meals. Additionally, the presence of a bathroom with a bidet adds to the convenience. It's noteworthy that the accommodation maintains a non-smoking policy, ensuring a pleasant environment for all guests.
+The apartment was very cozy, extremly clean and...”"
+  - name: "Lukas"
+    country: "Czech Republic"
+    text: "“great value & the best location, would go again:)”"
+  - name: "Ledia"
+    country: "Italy"
+    text: "“Tutto...la posizione,la gentilezza dello staff,la tranquillità del cortile,zona servita e a due passi dal centro”"
+bookingURL: "https://www.booking.com/hotel/al/penthahouse-shallvare.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of space and light, boasting a balcony that offers picturesque river views. It is well-appointed with a bedroom, a living area, and a flat-screen TV for entertainment. The kitchen is fully equipped with modern appliances including a dishwasher and a fridge, ensuring guests can easily prepare meals. Additionally, the presence of a bathroom with a bidet adds to the convenience. It's noteworthy that the accommodation maintains a non-smoking policy, ensuring a pleasant environment for all guests.
 
 For those keen on discovering local attractions, Penthahouse Shallvare serves as an ideal base. The Pyramid of Tirana, Reja - The Cloud, and the Postbllok - Checkpoint Monument are popular points of interest in close proximity. Moreover, the Tirana International Mother Teresa Airport is conveniently located 15 km away, making arrivals and departures a breeze.
 

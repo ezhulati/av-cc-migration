@@ -1,4 +1,87 @@
----\ntitle: "Cozy small apartment"\ndescription: "Discover the charm of Tirana with a stay at the Cozy Small Apartment, a gem located just a short distance from the city's vibrant heart, Skanderbeg Square, and within easy reach of the breathtaking Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294234.jpg?k=c8497bbdad6976dba07ef6ed8e82aa314d04d2149e28867917ae596940b65b13&o=&hp=1"\nlanguage: en\nslug: cozy-small-apartment\naddress: "Rruga Dritan Hoxha, 1023 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33788176\n  lng: 19.78984037\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294234.jpg?k=c8497bbdad6976dba07ef6ed8e82aa314d04d2149e28867917ae596940b65b13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294537.jpg?k=e9b7f48c9bbdc59b26c2d98d2e6d5534acb120ab76057b182854e448568cedd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294403.jpg?k=9bc1c858e2da32dc6cac2c22ca1437b3fda96912c0b43065df978004cef2586f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377800763.jpg?k=5d61641d6bd4e577579e806addc81ed54a3545f13fe9efbeb2fc92df7bf06e02&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377800674.jpg?k=5b630cd736de3a3818ce09205bd57428a3b96d2cddac68e1216740a76426f4ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526291943.jpg?k=0ac6b7819793c2ce1e2d903b7d60af1a8a1664df997dafdf2272e43e9fc55b19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294616.jpg?k=a62753a8e5336373049b81a00e14fa7abc753d81da186d1f0159cf3a7e0696c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377801317.jpg?k=a29f29a465b7769df80b2816d40ff43eb80adf66d61d7bf30d54da950f3353df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450036037.jpg?k=e5287d4150aa516d21a0945652cbcf8c00e7112ce79b7ede611e0f2248b40230&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free WiFi"\nnearbyAttractions:\n  - "National Museum of History Albania 2.5 km"\n  - "House of Leaves 2.5 km"\n  - "Skanderbeg Square 2.7 km"\n  - "Clock Tower Tirana 2.7 km"\n  - "Rinia Park 2.8 km"\n  - "National Gallery of Arts Tirana 2.9 km"\n  - "Former Residence of Enver Hoxha 3 km"\n  - "Tanners' Bridge 3.3 km"\n  - "Grand Park of Tirana 4.2 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Zgara Darey 50 m"\n  - "Bar Restorant Athina 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 250 m"\n  - "Shesh Rekreativ Yzberisht 950 m"\n  - "Park Lojrash 950 m"\n  - "Sheshi Rekreativ Parku 1Km 1,000 m"\n  - "Sheshi Rekreativ Don Bosko 1.4 km"\n  - "Sheshi Rekreativ Mine Peza 1.5 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.6 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.8 km"\n  - "Sheshi Rekreativ Sali Butka 1.8 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 81 km"\nreviews:\n  - name: "Simone"\n    country: "Italy"\n    text: "“This is a small apartment but had everything we needed during the stay. The building is in front of the bus stop and almost 15 minutes away to city center. Absolutely recommend 👌”"\n  - name: "Bartosz"\n    country: "Poland"\n    text: "“Blisko do przystanku autobusowego, blisko sklep. Schludny, przestronny pokój, miła i pomocna pani.”"\nbookingURL: "https://www.booking.com/hotel/al/cozy-small-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at the Cozy Small Apartment are treated to modern amenities designed to ensure a comfortable and hassle-free stay. The apartment comes equipped with air conditioning, ensuring a cool retreat from the city's hustle and bustle. Security is paramount, with full-day security, a private entrance for guests, and the convenience of a currency exchange service right on the premises.
+---
+title: "Cozy small apartment"
+description: "Discover the charm of Tirana with a stay at the Cozy Small Apartment, a gem located just a short distance from the city's vibrant heart, Skanderbeg Square, and within easy reach of the breathtaking Dajti Ekspres Cable Car."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294234.jpg?k=c8497bbdad6976dba07ef6ed8e82aa314d04d2149e28867917ae596940b65b13&o=&hp=1"
+language: en
+slug: cozy-small-apartment
+address: "Rruga Dritan Hoxha, 1023 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33788176
+  lng: 19.78984037
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 6
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 9.2
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294234.jpg?k=c8497bbdad6976dba07ef6ed8e82aa314d04d2149e28867917ae596940b65b13&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294537.jpg?k=e9b7f48c9bbdc59b26c2d98d2e6d5534acb120ab76057b182854e448568cedd7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294403.jpg?k=9bc1c858e2da32dc6cac2c22ca1437b3fda96912c0b43065df978004cef2586f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377800763.jpg?k=5d61641d6bd4e577579e806addc81ed54a3545f13fe9efbeb2fc92df7bf06e02&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377800674.jpg?k=5b630cd736de3a3818ce09205bd57428a3b96d2cddac68e1216740a76426f4ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526291943.jpg?k=0ac6b7819793c2ce1e2d903b7d60af1a8a1664df997dafdf2272e43e9fc55b19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421294616.jpg?k=a62753a8e5336373049b81a00e14fa7abc753d81da186d1f0159cf3a7e0696c8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377801317.jpg?k=a29f29a465b7769df80b2816d40ff43eb80adf66d61d7bf30d54da950f3353df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450036037.jpg?k=e5287d4150aa516d21a0945652cbcf8c00e7112ce79b7ede611e0f2248b40230&o=&hp=1"
+amenities:
+  - "Airport shuttle (free)"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+nearbyAttractions:
+  - "National Museum of History Albania 2.5 km"
+  - "House of Leaves 2.5 km"
+  - "Skanderbeg Square 2.7 km"
+  - "Clock Tower Tirana 2.7 km"
+  - "Rinia Park 2.8 km"
+  - "National Gallery of Arts Tirana 2.9 km"
+  - "Former Residence of Enver Hoxha 3 km"
+  - "Tanners' Bridge 3.3 km"
+  - "Grand Park of Tirana 4.2 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Zgara Darey 50 m"
+  - "Bar Restorant Athina 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Lord Bajron 250 m"
+  - "Shesh Rekreativ Yzberisht 950 m"
+  - "Park Lojrash 950 m"
+  - "Sheshi Rekreativ Parku 1Km 1,000 m"
+  - "Sheshi Rekreativ Don Bosko 1.4 km"
+  - "Sheshi Rekreativ Mine Peza 1.5 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.6 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 1.8 km"
+  - "Sheshi Rekreativ Sali Butka 1.8 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 1.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 9 km"
+  - "Ohrid Airport 81 km"
+reviews:
+  - name: "Simone"
+    country: "Italy"
+    text: "“This is a small apartment but had everything we needed during the stay. The building is in front of the bus stop and almost 15 minutes away to city center. Absolutely recommend 👌”"
+  - name: "Bartosz"
+    country: "Poland"
+    text: "“Blisko do przystanku autobusowego, blisko sklep. Schludny, przestronny pokój, miła i pomocna pani.”"
+bookingURL: "https://www.booking.com/hotel/al/cozy-small-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at the Cozy Small Apartment are treated to modern amenities designed to ensure a comfortable and hassle-free stay. The apartment comes equipped with air conditioning, ensuring a cool retreat from the city's hustle and bustle. Security is paramount, with full-day security, a private entrance for guests, and the convenience of a currency exchange service right on the premises.
 
 The living space is thoughtfully designed, featuring free WiFi for those needing to stay connected. Entertainment is readily available with a flat-screen TV, and the fully equipped kitchen, complete with a fridge, allows guests the freedom to prepare their meals. Towels and bed linen are thoughtfully provided, adding to the comfort of the stay.
 

@@ -1,5 +1,92 @@
----\ntitle: "Vila Horizont"\ndescription: "Vila Horizont emerges as a prime choice for travelers seeking a serene beachfront escape, complete with panoramic sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473877093.jpg?k=8ff839ea89b040693b30b33cdea0e6381c16bd8e65f668f2ab420f148706a092&o=&hp=1"\nlanguage: en\nslug: vila-horizont\naddress: "Rruga Baks Rrjoll, 4020 Baks-Rrjoll, Albania"\ncity: "Baks-Rrjoll"\nlocation: "Baks-Rrjoll"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.87275505\n  lng: 19.46366757\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 52\nratings:\n  overall: 9.7\n  location: 9.7\n  cleanliness: 10\n  facilities: 9.7\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473877093.jpg?k=8ff839ea89b040693b30b33cdea0e6381c16bd8e65f668f2ab420f148706a092&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943646.jpg?k=db979bbdb205609b3e156b71474fb3d46c7241fd02e159892f26b50c37e69546&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943642.jpg?k=2254d60edaebea0e52a2c891c2a80b84bc5e38a9ec1bc462c060a408e191f6d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311941931.jpg?k=44b6cf29afc0d8ab3109e682272c9508cf1bc8d191e5fac37316f20074e300d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506533933.jpg?k=3aadf7aa15d6057e8cb344e04755bb70e78a5f893e0c9f779d7300424475d18e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943644.jpg?k=bb10fc8e4cecb70c94f844a8a32f0eb20bf5d39c066cb16b5e5a1f7a9aadcf5c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473877706.jpg?k=473c3fb4400de07d56917a305727322d47b3471b9cfb0848d8f0884f1d036b2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943643.jpg?k=9e3b5b1d1b32dfe5a565487b18e3dacd6f28b92c157404c43b2a995414045509&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506534924.jpg?k=40992a6880e83002f21fda82ee5429c1b8023ab9d4a02797a07d1b0c7088b3b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506533573.jpg?k=2f9de9abf8ac76b693e896fc7d4e6158777009aaac56a42a135c71c8a7ba8d4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506533503.jpg?k=69651d7976588be41f62cb252ee061f1538c41c4b5b5fc762befc5f845be216d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490590756.jpg?k=2e2a9ce6e13db21531c49944d4240db6a4792b5d9c6d917641d7c16575f33f2a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Beachfront"\n  - "Family rooms"\n  - "Bar"\nnearbyRestaurants:\n  - "Kafe 1.3 km"\n  - "Viluni 2.1 km"\nnearbyBeaches:\n  - "Rana e Hedhun Beach 1.8 km"\n  - "Velipoja Beach 2 km"\n  - "Ada Bojana Beach 8 km"\nwhatsNearby:\n  - "Copacabana 13 km"\n  - "Cola Beach 14 km"\n  - "Imperiam Beach 16 km"\n  - "Msm Beach 16 km"\n  - "Tropicana 16 km"\n  - "Plaža Safari 17 km"\n  - "Bukurija Beach 17 km"\n  - "Saranda 18 km"\n  - "Plaža Toni 18 km"\n  - "Rozafa Castle Shkodra 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 54 km"\n  - "Podgorica Airport 55 km"\n  - "Tivat Airport 83 km"\nreviews:\n  - name: "Butt"\n    country: "Switzerland"\n    text: "“The host (Johnny) is an extraordinarily nice person who is really invested into making his guests enjoy their stay. We drank with him, laughed with him, and took a look around his small personal Farm. In the vicinity of the location there is a...”"\n  - name: "Kabanen"\n    country: "Estonia"\n    text: "“* The area is quiet, peaceful and the nature is beautiful * The host is WONDERFUL and gave us a warm welcome. He is truly the nicest host we have ever had * The food is amazing as well- very fresh and tasty, definitely try some
-* The room was...”"\n  - name: "Dariusz"\n    country: "Poland"\n    text: "“Great, clean and well-designed room. Very tasty local food - breakfast, dinner and ice cream. All food is home-made and delicious. Everything comes from a garden, field, sea and lake nearby. On breakfast you can eat eggs, bread, cucumbers,...”"\nbookingURL: "https://www.booking.com/hotel/al/vila-horizont.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a haven of comfort, where each room is thoughtfully equipped with a seating area, a flat-screen TV, and a private bathroom adorned with complimentary toiletries, a bidet, and a shower. The convenience of air conditioning and ample wardrobe space adds to the homely feel of the bed and breakfast, ensuring a restful retreat for families and solo travelers alike.
+---
+title: "Vila Horizont"
+description: "Vila Horizont emerges as a prime choice for travelers seeking a serene beachfront escape, complete with panoramic sea views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473877093.jpg?k=8ff839ea89b040693b30b33cdea0e6381c16bd8e65f668f2ab420f148706a092&o=&hp=1"
+language: en
+slug: vila-horizont
+address: "Rruga Baks Rrjoll, 4020 Baks-Rrjoll, Albania"
+city: "Baks-Rrjoll"
+location: "Baks-Rrjoll"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.87275505
+  lng: 19.46366757
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 52
+ratings:
+  overall: 9.7
+  location: 9.7
+  cleanliness: 10
+  facilities: 9.7
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473877093.jpg?k=8ff839ea89b040693b30b33cdea0e6381c16bd8e65f668f2ab420f148706a092&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943646.jpg?k=db979bbdb205609b3e156b71474fb3d46c7241fd02e159892f26b50c37e69546&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943642.jpg?k=2254d60edaebea0e52a2c891c2a80b84bc5e38a9ec1bc462c060a408e191f6d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311941931.jpg?k=44b6cf29afc0d8ab3109e682272c9508cf1bc8d191e5fac37316f20074e300d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506533933.jpg?k=3aadf7aa15d6057e8cb344e04755bb70e78a5f893e0c9f779d7300424475d18e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943644.jpg?k=bb10fc8e4cecb70c94f844a8a32f0eb20bf5d39c066cb16b5e5a1f7a9aadcf5c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473877706.jpg?k=473c3fb4400de07d56917a305727322d47b3471b9cfb0848d8f0884f1d036b2d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311943643.jpg?k=9e3b5b1d1b32dfe5a565487b18e3dacd6f28b92c157404c43b2a995414045509&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506534924.jpg?k=40992a6880e83002f21fda82ee5429c1b8023ab9d4a02797a07d1b0c7088b3b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506533573.jpg?k=2f9de9abf8ac76b693e896fc7d4e6158777009aaac56a42a135c71c8a7ba8d4f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506533503.jpg?k=69651d7976588be41f62cb252ee061f1538c41c4b5b5fc762befc5f845be216d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490590756.jpg?k=2e2a9ce6e13db21531c49944d4240db6a4792b5d9c6d917641d7c16575f33f2a&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Beachfront"
+  - "Family rooms"
+  - "Bar"
+nearbyRestaurants:
+  - "Kafe 1.3 km"
+  - "Viluni 2.1 km"
+nearbyBeaches:
+  - "Rana e Hedhun Beach 1.8 km"
+  - "Velipoja Beach 2 km"
+  - "Ada Bojana Beach 8 km"
+whatsNearby:
+  - "Copacabana 13 km"
+  - "Cola Beach 14 km"
+  - "Imperiam Beach 16 km"
+  - "Msm Beach 16 km"
+  - "Tropicana 16 km"
+  - "Plaža Safari 17 km"
+  - "Bukurija Beach 17 km"
+  - "Saranda 18 km"
+  - "Plaža Toni 18 km"
+  - "Rozafa Castle Shkodra 19 km"
+airports:
+  - "Tirana International Airport Mother Teresa 54 km"
+  - "Podgorica Airport 55 km"
+  - "Tivat Airport 83 km"
+reviews:
+  - name: "Butt"
+    country: "Switzerland"
+    text: "“The host (Johnny) is an extraordinarily nice person who is really invested into making his guests enjoy their stay. We drank with him, laughed with him, and took a look around his small personal Farm. In the vicinity of the location there is a...”"
+  - name: "Kabanen"
+    country: "Estonia"
+    text: "“* The area is quiet, peaceful and the nature is beautiful * The host is WONDERFUL and gave us a warm welcome. He is truly the nicest host we have ever had * The food is amazing as well- very fresh and tasty, definitely try some
+* The room was...”"
+  - name: "Dariusz"
+    country: "Poland"
+    text: "“Great, clean and well-designed room. Very tasty local food - breakfast, dinner and ice cream. All food is home-made and delicious. Everything comes from a garden, field, sea and lake nearby. On breakfast you can eat eggs, bread, cucumbers,...”"
+bookingURL: "https://www.booking.com/hotel/al/vila-horizont.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are welcomed into a haven of comfort, where each room is thoughtfully equipped with a seating area, a flat-screen TV, and a private bathroom adorned with complimentary toiletries, a bidet, and a shower. The convenience of air conditioning and ample wardrobe space adds to the homely feel of the bed and breakfast, ensuring a restful retreat for families and solo travelers alike.
 
 The property doesn't stop at comfortable lodgings; it extends its hospitality to the dining experience with an on-site restaurant, coffee shop, and bar, catering to a variety of tastes and preferences. For those who wish to explore the local area, Vila Horizont offers a bicycle rental service, inviting guests to discover the scenic beauty of the surroundings on two wheels, with cycling routes nearby that promise adventure.
 

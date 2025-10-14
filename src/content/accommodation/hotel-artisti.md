@@ -1,5 +1,85 @@
----\ntitle: "Hotel Artisti"\ndescription: "Hotel Artisti emerges as a charming retreat in the vibrant heart of Vlorë, merely a stone's throw away from the serene Radhimë Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256748199.jpg?k=4991a4c9c92fdd41702062d62e7280ed824007cccfbe642707a4984e1d201bb3&o=&hp=1"\nlanguage: en\nslug: hotel-artisti\naddress: "Rruga Numan Numani Rradhime, 9426 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.36651689\n  lng: 19.48459587\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 160\nratings:\n  overall: 9\n  location: 8.4\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9\n  comfort: 9.1\n  staff: 9.3\n  wifi: 9.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256748199.jpg?k=4991a4c9c92fdd41702062d62e7280ed824007cccfbe642707a4984e1d201bb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256753032.jpg?k=aa731704f61f0090813da132f67a997994f051ad0e04f197762536c82176b69e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256882784.jpg?k=dd38ece2d8825fd70221556f5e3a0a936627cd17a69804c7c5a3e9ad1b023828&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256751385.jpg?k=6ed370c464956c38a98cff334c78392fd3d4ac4c9723c0f9065500ebb9bd3986&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256752674.jpg?k=456dca8de0976621d89912f934f7ed03b27f53ab90a670d0f46b43b3e4f37390&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256753058.jpg?k=171888e4bf41403ba0232dfdc9c5b79ca81c9fb58e99e6d870f870bcfc6624c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256744573.jpg?k=f82d0ce1218598dc03d176402ebaf1fa42682163f6fda1c09a768671200d6017&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256882842.jpg?k=be8e791a739a06606485d9620be4451331ebbf14b4299c951e827b7fbae63e3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256752303.jpg?k=9184aa84ebc2c44f1783e9ffef503f74feb1f6017efb9fe02f747955b2b9c6a3&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Alfonsi 250 m"\n  - "Restorant Erigent 350 m"\nnearbyBeaches:\n  - "Radhimë Beach 250 m"\n  - "Kevi Beach 1,000 m"\n  - "Radhimë Beach 1.4 km"\n  - "Al Breeze Beach 2 km"\n  - "Pitushi's Beach 2.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 8 km"\n  - "Kuzum Baba 11 km"\n  - "Independence Square 12 km"\n  - "Llogora National Park 16 km"\nairports:\n  - "Corfu International Airport 91 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Jorge"\n    country: "Portugal"\n    text: "“We arrived a bit late and there was absolutely no problem. Lovely staff and seaview in the morning, one of the best ever in our lives. Lovely staff also and a very good breakfast. Will come back if possible for sure.”"\n  - name: "Anastasiia"\n    country: "Poland"\n    text: "“The room view was amazing. If you're traveling without a car it may be a little bit hard to walk to the hotel, but it definitely worth it.
-Amazing personal.”"\n  - name: "Liliana"\n    country: "United Kingdom"\n    text: "“I visited Radhime in Vlora and stayed at Hotel Artisti with my family. The owner of the Hotel, Beta, and her staff were super friendly and welcoming. Everything was super clean, like the room and the whole hotel. If you have a family with kids,...”"\nbookingURL: "https://www.booking.com/hotel/al/artisti-vlore1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Artisti are thoughtfully appointed to ensure a restful experience. Each room is equipped with a desk, a flat-screen TV, and a private bathroom, complemented by fresh bed linen and towels. Select rooms offer the added luxury of breathtaking sea views, with every space opening onto a balcony. The comfort of air conditioning and the convenience of a wardrobe are standard across all rooms, ensuring a stay that blends relaxation with practicality.
+---
+title: "Hotel Artisti"
+description: "Hotel Artisti emerges as a charming retreat in the vibrant heart of Vlorë, merely a stone's throw away from the serene Radhimë Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256748199.jpg?k=4991a4c9c92fdd41702062d62e7280ed824007cccfbe642707a4984e1d201bb3&o=&hp=1"
+language: en
+slug: hotel-artisti
+address: "Rruga Numan Numani Rradhime, 9426 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.36651689
+  lng: 19.48459587
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 160
+ratings:
+  overall: 9
+  location: 8.4
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9
+  comfort: 9.1
+  staff: 9.3
+  wifi: 9.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256748199.jpg?k=4991a4c9c92fdd41702062d62e7280ed824007cccfbe642707a4984e1d201bb3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256753032.jpg?k=aa731704f61f0090813da132f67a997994f051ad0e04f197762536c82176b69e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256882784.jpg?k=dd38ece2d8825fd70221556f5e3a0a936627cd17a69804c7c5a3e9ad1b023828&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256751385.jpg?k=6ed370c464956c38a98cff334c78392fd3d4ac4c9723c0f9065500ebb9bd3986&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256752674.jpg?k=456dca8de0976621d89912f934f7ed03b27f53ab90a670d0f46b43b3e4f37390&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256753058.jpg?k=171888e4bf41403ba0232dfdc9c5b79ca81c9fb58e99e6d870f870bcfc6624c7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256744573.jpg?k=f82d0ce1218598dc03d176402ebaf1fa42682163f6fda1c09a768671200d6017&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256882842.jpg?k=be8e791a739a06606485d9620be4451331ebbf14b4299c951e827b7fbae63e3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256752303.jpg?k=9184aa84ebc2c44f1783e9ffef503f74feb1f6017efb9fe02f747955b2b9c6a3&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Superb breakfast"
+nearbyRestaurants:
+  - "Alfonsi 250 m"
+  - "Restorant Erigent 350 m"
+nearbyBeaches:
+  - "Radhimë Beach 250 m"
+  - "Kevi Beach 1,000 m"
+  - "Radhimë Beach 1.4 km"
+  - "Al Breeze Beach 2 km"
+  - "Pitushi's Beach 2.3 km"
+whatsNearby:
+  - "Scooby Doo Vlore 8 km"
+  - "Kuzum Baba 11 km"
+  - "Independence Square 12 km"
+  - "Llogora National Park 16 km"
+airports:
+  - "Corfu International Airport 91 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Jorge"
+    country: "Portugal"
+    text: "“We arrived a bit late and there was absolutely no problem. Lovely staff and seaview in the morning, one of the best ever in our lives. Lovely staff also and a very good breakfast. Will come back if possible for sure.”"
+  - name: "Anastasiia"
+    country: "Poland"
+    text: "“The room view was amazing. If you're traveling without a car it may be a little bit hard to walk to the hotel, but it definitely worth it.
+Amazing personal.”"
+  - name: "Liliana"
+    country: "United Kingdom"
+    text: "“I visited Radhime in Vlora and stayed at Hotel Artisti with my family. The owner of the Hotel, Beta, and her staff were super friendly and welcoming. Everything was super clean, like the room and the whole hotel. If you have a family with kids,...”"
+bookingURL: "https://www.booking.com/hotel/al/artisti-vlore1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Hotel Artisti are thoughtfully appointed to ensure a restful experience. Each room is equipped with a desk, a flat-screen TV, and a private bathroom, complemented by fresh bed linen and towels. Select rooms offer the added luxury of breathtaking sea views, with every space opening onto a balcony. The comfort of air conditioning and the convenience of a wardrobe are standard across all rooms, ensuring a stay that blends relaxation with practicality.
 
 For those looking to explore the local area, Radhimë Beach is located just 1.9 km away, with Kevi Beach slightly further at 2 km, making Hotel Artisti an ideal base for beach enthusiasts. Connectivity is also seamless, with Tirana International Mother Teresa Airport situated 163 km from the hotel, and the added benefit of a paid airport shuttle service available to guests.
 

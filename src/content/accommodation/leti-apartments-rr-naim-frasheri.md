@@ -1,4 +1,74 @@
----\ntitle: "Leti Apartments Rr.Naim Frasheri"\ndescription: "Leti Apartments Rr."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526140579.jpg?k=4d592b74c4caececdaf64aa45fee60270d45411139adb0b634116f6d128b8bf8&o=&hp=1"\nlanguage: en\nslug: leti-apartments-rr-naim-frasheri\naddress: "Rruga Naim Frashëri, 1010 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32844412\n  lng: 19.80581744\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526140579.jpg?k=4d592b74c4caececdaf64aa45fee60270d45411139adb0b634116f6d128b8bf8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140651.jpg?k=aa45c120a77cf1bf31e1fa3e74b9c821896cb682cdd7a1fd4ea1a87ca9e32126&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140657.jpg?k=d97c2428d465331e2daa771ce1244ccd3d961bcd25d56790651506de24779617&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140661.jpg?k=9462c9fea4ff10ac2740835e4571209025ab6d135dbb1d938ca4fc9970f8aeae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140664.jpg?k=db0ab85ce076c1d2daf0118399c5d48ead683ccf8efc372155c24842cc3524d6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "Skanderbeg Square 1.1 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Officina G.A.T. 40 m"\n  - "Vila 31 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 600 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 650 m"\n  - "Sheshi Paris 750 m"\n  - "Sheshi Rekreativ Sali Butka 800 m"\n  - "Sheshi Rekreativ Parku 1Km 800 m"\n  - "Sheshi Rekreativ Don Bosko 850 m"\n  - "House of Leaves 900 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 900 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 900 m"\n  - "National Museum of History Albania 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/leti-apartments-rr-naim-frasheri.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodations at Leti Apartments are designed with the modern traveler in mind, featuring air-conditioned spaces that promise a cool retreat from the bustling city streets. Each apartment boasts a bedroom, a fully equipped kitchen for those who prefer to cook their own meals, and a bathroom. Entertainment needs are well catered for with the provision of a flat-screen TV, ensuring guests have a comfortable and enjoyable stay.
+---
+title: "Leti Apartments Rr.Naim Frasheri"
+description: "Leti Apartments Rr."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526140579.jpg?k=4d592b74c4caececdaf64aa45fee60270d45411139adb0b634116f6d128b8bf8&o=&hp=1"
+language: en
+slug: leti-apartments-rr-naim-frasheri
+address: "Rruga Naim Frashëri, 1010 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32844412
+  lng: 19.80581744
+price: "US$48"
+priceFrom: 48
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526140579.jpg?k=4d592b74c4caececdaf64aa45fee60270d45411139adb0b634116f6d128b8bf8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140651.jpg?k=aa45c120a77cf1bf31e1fa3e74b9c821896cb682cdd7a1fd4ea1a87ca9e32126&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140657.jpg?k=d97c2428d465331e2daa771ce1244ccd3d961bcd25d56790651506de24779617&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140661.jpg?k=9462c9fea4ff10ac2740835e4571209025ab6d135dbb1d938ca4fc9970f8aeae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/526140664.jpg?k=db0ab85ce076c1d2daf0118399c5d48ead683ccf8efc372155c24842cc3524d6&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Rinia Park 1.1 km"
+  - "Skanderbeg Square 1.1 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "National Gallery of Arts Tirana 1.3 km"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Tanners' Bridge 1.7 km"
+  - "Grand Park of Tirana 2.5 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Officina G.A.T. 40 m"
+  - "Vila 31 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 600 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 650 m"
+  - "Sheshi Paris 750 m"
+  - "Sheshi Rekreativ Sali Butka 800 m"
+  - "Sheshi Rekreativ Parku 1Km 800 m"
+  - "Sheshi Rekreativ Don Bosko 850 m"
+  - "House of Leaves 900 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 900 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 900 m"
+  - "National Museum of History Albania 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/leti-apartments-rr-naim-frasheri.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The accommodations at Leti Apartments are designed with the modern traveler in mind, featuring air-conditioned spaces that promise a cool retreat from the bustling city streets. Each apartment boasts a bedroom, a fully equipped kitchen for those who prefer to cook their own meals, and a bathroom. Entertainment needs are well catered for with the provision of a flat-screen TV, ensuring guests have a comfortable and enjoyable stay.
 
 For those eager to discover Tirana's rich cultural tapestry, the apartment's location does not disappoint. A short distance away, visitors will find the House of Leaves, Rinia Park, and the Clock Tower of Tirana, each offering a unique glimpse into the city's heritage. The Dajti Ekspres Cable Car, located 6.7 km away, provides an unforgettable experience with its panoramic views of the area, while the Rock of Kavaje, 42 km away, offers a scenic escape for nature enthusiasts. The Et'hem Bey Mosque, a mere 1.7 km from the apartment, stands as a testament to the city's architectural and spiritual history.
 

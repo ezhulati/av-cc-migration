@@ -1,3 +1,71 @@
----\ntitle: "Magda Studio in Berat Center"\ndescription: "Magda Studio in Berat Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473762365.jpg?k=59921ce45557aedbf2fb10c20578893816a71e5d184e266985f36b4066336743&o=&hp=1"\nlanguage: en\nslug: magda-studio-in-berat-center\naddress: "Rruga Antipatrea, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.70494279\n  lng: 19.95138184\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 23\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 9.5\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.2\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473762365.jpg?k=59921ce45557aedbf2fb10c20578893816a71e5d184e266985f36b4066336743&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005559.jpg?k=bf02ed28b403da6f2e481088771c298af2923e5b9b5526e8b9d79c76bd7ae0f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487156998.jpg?k=6559a1324155f9f8e81c7b8b4f10305334b12a2d65f3dad9f0b2c8c54ee6337c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005544.jpg?k=4f0d9c86b3d83f9305119bfcf0e9a1c746bb1eae7fcc1bc2a0581519a7a54f85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005592.jpg?k=39a60a42fcd602998098a7d5d336736031f475a23892bb825675a4f9b9a7db09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494236312.jpg?k=c357e75d9c53ef298751e1ba581ed934a37af8dcbf4f7dc80809a67105d42967&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005585.jpg?k=73b97ddbfaee3d0e249c504de92721a42a2be7a684c922f66efdae1473c25afb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005552.jpg?k=a57b03d4ffa283081c03c0ef415b82534df5b6a55bf020e1fb176f8c49e44ac0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496839678.jpg?k=f9d20b2be208a211440c27d603f3516f114f47c151ae437aec71f21e9cc2814d&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "City Grill 10 m"\n  - "Street Food Imam Yousuf 50 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Iryna"\n    country: "Ukraine"\n    text: "“Very nice studio, small but has everything you may need. The view from the window is probably the best in Berat. Friendly owner”"\n  - name: "Ian"\n    country: "Canada"\n    text: "“Super clean apartment. Everything is new and you can't beat the location.”"\n  - name: "Py"\n    country: "Netherlands"\n    text: "“The studio is conveniently located in Berat and had everything our family of 3 needed and then some. Immaculately clean. Owner and booking manager were easy to contact and very helpful. Definitely recommended.”"\nbookingURL: "https://www.booking.com/hotel/al/magda-studio-in-berat-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe layout of Magda Studio is thoughtfully designed to cater to the needs of modern travelers. It boasts a well-equipped kitchen, complete with an oven and toaster for those moments when dining in feels just right. The living space is anchored by a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. The presence of a meticulously maintained bathroom, equipped with a shower, alongside the provision of fresh towels and bed linen, underscores the apartment's attention to detail.
+---
+title: "Magda Studio in Berat Center"
+description: "Magda Studio in Berat Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473762365.jpg?k=59921ce45557aedbf2fb10c20578893816a71e5d184e266985f36b4066336743&o=&hp=1"
+language: en
+slug: magda-studio-in-berat-center
+address: "Rruga Antipatrea, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.70494279
+  lng: 19.95138184
+price: "US$30"
+priceFrom: 30
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 23
+ratings:
+  overall: 9.5
+  location: 9.6
+  cleanliness: 9.5
+  facilities: 9.3
+  value: 9.5
+  comfort: 9.2
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473762365.jpg?k=59921ce45557aedbf2fb10c20578893816a71e5d184e266985f36b4066336743&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005559.jpg?k=bf02ed28b403da6f2e481088771c298af2923e5b9b5526e8b9d79c76bd7ae0f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487156998.jpg?k=6559a1324155f9f8e81c7b8b4f10305334b12a2d65f3dad9f0b2c8c54ee6337c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005544.jpg?k=4f0d9c86b3d83f9305119bfcf0e9a1c746bb1eae7fcc1bc2a0581519a7a54f85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005592.jpg?k=39a60a42fcd602998098a7d5d336736031f475a23892bb825675a4f9b9a7db09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494236312.jpg?k=c357e75d9c53ef298751e1ba581ed934a37af8dcbf4f7dc80809a67105d42967&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005585.jpg?k=73b97ddbfaee3d0e249c504de92721a42a2be7a684c922f66efdae1473c25afb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456005552.jpg?k=a57b03d4ffa283081c03c0ef415b82534df5b6a55bf020e1fb176f8c49e44ac0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496839678.jpg?k=f9d20b2be208a211440c27d603f3516f114f47c151ae437aec71f21e9cc2814d&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Free parking"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "City Grill 10 m"
+  - "Street Food Imam Yousuf 50 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 84 km"
+reviews:
+  - name: "Iryna"
+    country: "Ukraine"
+    text: "“Very nice studio, small but has everything you may need. The view from the window is probably the best in Berat. Friendly owner”"
+  - name: "Ian"
+    country: "Canada"
+    text: "“Super clean apartment. Everything is new and you can't beat the location.”"
+  - name: "Py"
+    country: "Netherlands"
+    text: "“The studio is conveniently located in Berat and had everything our family of 3 needed and then some. Immaculately clean. Owner and booking manager were easy to contact and very helpful. Definitely recommended.”"
+bookingURL: "https://www.booking.com/hotel/al/magda-studio-in-berat-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The layout of Magda Studio is thoughtfully designed to cater to the needs of modern travelers. It boasts a well-equipped kitchen, complete with an oven and toaster for those moments when dining in feels just right. The living space is anchored by a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. The presence of a meticulously maintained bathroom, equipped with a shower, alongside the provision of fresh towels and bed linen, underscores the apartment's attention to detail.
 
 Privacy is paramount at Magda Studio, with a private entrance ensuring a sense of seclusion amidst the buzz of Berat. For guests venturing from afar, the proximity to Tirana International Mother Teresa Airport, located 117 km away, makes this apartment a convenient base for both short and extended stays in the region.

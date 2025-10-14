@@ -1,4 +1,82 @@
----\ntitle: "SUNWAY"\ndescription: "SUNWAY Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361285.jpg?k=2dbc6f756ca785342eedadbfabf7b0a4750427c4102e160d92b546d220639153&o=&hp=1"\nlanguage: en\nslug: sunway\naddress: "Rruga Mustafa Bello, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46103959\n  lng: 19.48945319\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 49\nratings:\n  overall: 9.3\n  location: 9.1\n  cleanliness: 9.3\n  facilities: 9.3\n  value: 9.5\n  comfort: 9.5\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361285.jpg?k=2dbc6f756ca785342eedadbfabf7b0a4750427c4102e160d92b546d220639153&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363315.jpg?k=37c4dc754768fd266a4a85745ab2117730d74919e87e320fa7ec17f93dc6d7ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350318253.jpg?k=35e4a13da0f01de64a0206a8acc6a3ae76c9dab01ad33964efa3b13fe6e6b3a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350316934.jpg?k=9918b582655089ed98a82386949ce38df392e96d5fb705f434e91aca6c742a98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361293.jpg?k=f2c240da6830a0ddee42f2f57dc1b4837c7e1b30cc025598cee1982a0894ae1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363318.jpg?k=64c104af946c38113335d56443082e35177da3ec9224bcf01da00dcdd5e7738b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363314.jpg?k=8c96744d08e31458e42c7b2cf60800c830c6115d2229c80b50f2535e07247400&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361286.jpg?k=58df6bcb91f0fa343558f21f5addad969038e0ceb4803b71553da5e3c626304b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348530376.jpg?k=1287a7f8c1a442c4f0f368c799f84f8e38419249b7e273ed607253f3543bdc9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348530389.jpg?k=415e70c9c2310a4a8817e87d10ead03218ffb63d427b8895cc5b709b28a7c324&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361282.jpg?k=aee87bac5f4fe651bfa1c011ec5d6f97f5dee27dd72c3511217160be2ecaa9e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361283.jpg?k=7d76f9b17eb560834a9b30b8d6b0fd1cc187d6287550fe3f96c2411c4202513f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361281.jpg?k=45dda3a638a5236831d2b2eb8558082fc553ebbdee9a3a3a6f5dcece25e39aa2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361284.jpg?k=a32bf8486ac04873c3de5e2cb0096b301f7fea4a64a577a99aa9796a53fdf7f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363312.jpg?k=ac96f19e7db2b22de405abac5f8d424d2813b191ca4e809e7d3cb9ee179a4678&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Liking 50 m"\n  - "3 Fiori 50 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.2 km"\n  - "Vlore Beach 1.5 km"\n  - "Ri Beach 2.9 km"\n  - "Beach at Government Villas 4.5 km"\n  - "Liro Beach 5 km"\nwhatsNearby:\n  - "Kuzum Baba 800 m"\n  - "Independence Square 1.1 km"\n  - "Scooby Doo Vlore 2.8 km"\nreviews:\n  - name: "Cecilia"\n    country: "Sweden"\n    text: "“Wow what an experience!! First of all, a very friendly host! The apartment was super fresh, with wonderful beds and a nice washing machine! Unfortunately a thunderstorm knocked out the apartment's wifi, but our host fixed it right away by calling...”"\n  - name: "Vanja"\n    country: "Montenegro"\n    text: "“Apartment is very big, comfortable, well equipped, on good location between Old town and beach. Owner is polite and kind.”"\n  - name: "Andrey"\n    country: "Russia"\n    text: "““Simply the best,” - sings Tina Turner in her famous song; it is precisely about Sunway apartments. Excellent location, good facilities, and an ambiance of hospitality.”"\nbookingURL: "https://www.booking.com/hotel/al/sunway-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a spacious haven complete with a balcony that boasts breathtaking mountain views. Designed to accommodate the modern traveler, the apartment features two well-appointed bedrooms, a cozy living room for relaxation, and a flat-screen TV for entertainment. The kitchen is fully equipped with essentials including a toaster and a fridge, catering to guests' culinary needs, while the inclusion of a bathroom with a bidet adds an extra layer of convenience.
+---
+title: "SUNWAY"
+description: "SUNWAY Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361285.jpg?k=2dbc6f756ca785342eedadbfabf7b0a4750427c4102e160d92b546d220639153&o=&hp=1"
+language: en
+slug: sunway
+address: "Rruga Mustafa Bello, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.46103959
+  lng: 19.48945319
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 49
+ratings:
+  overall: 9.3
+  location: 9.1
+  cleanliness: 9.3
+  facilities: 9.3
+  value: 9.5
+  comfort: 9.5
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361285.jpg?k=2dbc6f756ca785342eedadbfabf7b0a4750427c4102e160d92b546d220639153&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363315.jpg?k=37c4dc754768fd266a4a85745ab2117730d74919e87e320fa7ec17f93dc6d7ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350318253.jpg?k=35e4a13da0f01de64a0206a8acc6a3ae76c9dab01ad33964efa3b13fe6e6b3a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350316934.jpg?k=9918b582655089ed98a82386949ce38df392e96d5fb705f434e91aca6c742a98&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361293.jpg?k=f2c240da6830a0ddee42f2f57dc1b4837c7e1b30cc025598cee1982a0894ae1c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363318.jpg?k=64c104af946c38113335d56443082e35177da3ec9224bcf01da00dcdd5e7738b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363314.jpg?k=8c96744d08e31458e42c7b2cf60800c830c6115d2229c80b50f2535e07247400&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361286.jpg?k=58df6bcb91f0fa343558f21f5addad969038e0ceb4803b71553da5e3c626304b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348530376.jpg?k=1287a7f8c1a442c4f0f368c799f84f8e38419249b7e273ed607253f3543bdc9a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348530389.jpg?k=415e70c9c2310a4a8817e87d10ead03218ffb63d427b8895cc5b709b28a7c324&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361282.jpg?k=aee87bac5f4fe651bfa1c011ec5d6f97f5dee27dd72c3511217160be2ecaa9e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361283.jpg?k=7d76f9b17eb560834a9b30b8d6b0fd1cc187d6287550fe3f96c2411c4202513f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361281.jpg?k=45dda3a638a5236831d2b2eb8558082fc553ebbdee9a3a3a6f5dcece25e39aa2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361284.jpg?k=a32bf8486ac04873c3de5e2cb0096b301f7fea4a64a577a99aa9796a53fdf7f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349363312.jpg?k=ac96f19e7db2b22de405abac5f8d424d2813b191ca4e809e7d3cb9ee179a4678&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Liking 50 m"
+  - "3 Fiori 50 m"
+nearbyBeaches:
+  - "Vjetër Beach 1.2 km"
+  - "Vlore Beach 1.5 km"
+  - "Ri Beach 2.9 km"
+  - "Beach at Government Villas 4.5 km"
+  - "Liro Beach 5 km"
+whatsNearby:
+  - "Kuzum Baba 800 m"
+  - "Independence Square 1.1 km"
+  - "Scooby Doo Vlore 2.8 km"
+reviews:
+  - name: "Cecilia"
+    country: "Sweden"
+    text: "“Wow what an experience!! First of all, a very friendly host! The apartment was super fresh, with wonderful beds and a nice washing machine! Unfortunately a thunderstorm knocked out the apartment's wifi, but our host fixed it right away by calling...”"
+  - name: "Vanja"
+    country: "Montenegro"
+    text: "“Apartment is very big, comfortable, well equipped, on good location between Old town and beach. Owner is polite and kind.”"
+  - name: "Andrey"
+    country: "Russia"
+    text: "““Simply the best,” - sings Tina Turner in her famous song; it is precisely about Sunway apartments. Excellent location, good facilities, and an ambiance of hospitality.”"
+bookingURL: "https://www.booking.com/hotel/al/sunway-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+This apartment doesn't just offer a place to stay; it provides a spacious haven complete with a balcony that boasts breathtaking mountain views. Designed to accommodate the modern traveler, the apartment features two well-appointed bedrooms, a cozy living room for relaxation, and a flat-screen TV for entertainment. The kitchen is fully equipped with essentials including a toaster and a fridge, catering to guests' culinary needs, while the inclusion of a bathroom with a bidet adds an extra layer of convenience.
 
 Beyond the comfort of the apartment, guests benefit from complimentary amenities such as private parking, an elevator for easy access, and the indispensable free WiFi, ensuring that both leisure and business travelers stay connected. Importantly, SUNWAY upholds a non-smoking policy throughout the property, ensuring a clean and healthy environment for all guests.
 

@@ -1,4 +1,73 @@
----\ntitle: "Vacation Apartment near the lake Apartament afer liqenit"\ndescription: "Vacation Apartment near the lake Apartament afer liqenit emerges as a serene retreat in Pogradec, perfectly positioned for those eager to explore the enchanting surroundings, including the Ohrid Lake Springs and the Bay of Bones."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\nlanguage: en\nslug: vacation-apartment-near-the-lake-apartament-afer-liqenit\naddress: "Rruga Eduard Mortier 8, near \"Mini Market\" Isuf, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90023725\n  lng: 20.65916188\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 12\nratings:\n  overall: 9.2\n  location: 9.8\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9\n  comfort: 8.3\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300704501.jpg?k=16890477988c710a1f77f76eb470089691a478a11384b907ab18d6a1cc5174dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/300704631.jpg?k=ae7f314678520e85511e5aa298e21b1635efdad221b7ebca35ea6a30b590fdc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/300704707.jpg?k=2b5aea460bedf4f56cf7da870bb1e9de52ad32de78d6fd5cd3a3470cff27d035&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704621.jpg?k=3df6580a34df22fed23c4dbfd4103eefd94bfdaa308ed5bc2ecba23f87be94f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704687.jpg?k=e75fe9dfbcb74a5b3b28e7ac7ea7f92a7cd279adbdc622802902ebf5603add41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704706.jpg?k=2d9f1b7339e19a59a8b4bac21fe631ce1b2085553b0b0407c3e2e0ea84939926&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704685.jpg?k=d877d1ef7f548dcc4a87b7ccc17711e0c3294663f086cf53a3eca28f5f1a8aa9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant Agjensia 100 m"\n  - "Zgara Pogradecare 150 m"\nwhatsNearby:\n  - "Driloni National Park 850 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nreviews:\n  - name: "Dario"\n    country: "Albania"\n    text: "“The apartment was a great place, well and luxurious furnished. The host was a good and welcoming person.”"\n  - name: "Sergio"\n    country: "Spain"\n    text: "“Buena insonorización Muebles y electrodomésticos de buena calidad y de todos los materiales de la casa Buena cama”"\nbookingURL: "https://www.booking.com/hotel/al/vacation-apartment-near-the-lake.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThe apartment itself boasts a design that prioritizes space and comfort, featuring a balcony that presents views of a peaceful street, setting the stage for a restful stay. Guests will find the accommodations well-appointed, with a single bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen is fully equipped, catering to those who enjoy preparing their own meals, while the bathroom comes complete with a bidet and a shower, ensuring a comfortable and convenient experience.
+---
+title: "Vacation Apartment near the lake Apartament afer liqenit"
+description: "Vacation Apartment near the lake Apartament afer liqenit emerges as a serene retreat in Pogradec, perfectly positioned for those eager to explore the enchanting surroundings, including the Ohrid Lake Springs and the Bay of Bones."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+language: en
+slug: vacation-apartment-near-the-lake-apartament-afer-liqenit
+address: "Rruga Eduard Mortier 8, near \"Mini Market\" Isuf, 7301 Pogradec, Albania"
+city: "Pogradec"
+location: "Pogradec"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.90023725
+  lng: 20.65916188
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 12
+ratings:
+  overall: 9.2
+  location: 9.8
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9
+  comfort: 8.3
+  staff: 9.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300704501.jpg?k=16890477988c710a1f77f76eb470089691a478a11384b907ab18d6a1cc5174dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/300704631.jpg?k=ae7f314678520e85511e5aa298e21b1635efdad221b7ebca35ea6a30b590fdc8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/300704707.jpg?k=2b5aea460bedf4f56cf7da870bb1e9de52ad32de78d6fd5cd3a3470cff27d035&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704621.jpg?k=3df6580a34df22fed23c4dbfd4103eefd94bfdaa308ed5bc2ecba23f87be94f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704687.jpg?k=e75fe9dfbcb74a5b3b28e7ac7ea7f92a7cd279adbdc622802902ebf5603add41&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704706.jpg?k=2d9f1b7339e19a59a8b4bac21fe631ce1b2085553b0b0407c3e2e0ea84939926&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/300704685.jpg?k=d877d1ef7f548dcc4a87b7ccc17711e0c3294663f086cf53a3eca28f5f1a8aa9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Restorant Agjensia 100 m"
+  - "Zgara Pogradecare 150 m"
+whatsNearby:
+  - "Driloni National Park 850 m"
+  - "National Park Galicica 7 km"
+  - "National Park Galicica 14 km"
+  - "Bay of Bones 16 km"
+airports:
+  - "Ohrid Airport 30 km"
+  - "Kastoria National Airport 71 km"
+  - "Tirana International Airport Mother Teresa 96 km"
+reviews:
+  - name: "Dario"
+    country: "Albania"
+    text: "“The apartment was a great place, well and luxurious furnished. The host was a good and welcoming person.”"
+  - name: "Sergio"
+    country: "Spain"
+    text: "“Buena insonorización Muebles y electrodomésticos de buena calidad y de todos los materiales de la casa Buena cama”"
+bookingURL: "https://www.booking.com/hotel/al/vacation-apartment-near-the-lake.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+The apartment itself boasts a design that prioritizes space and comfort, featuring a balcony that presents views of a peaceful street, setting the stage for a restful stay. Guests will find the accommodations well-appointed, with a single bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen is fully equipped, catering to those who enjoy preparing their own meals, while the bathroom comes complete with a bidet and a shower, ensuring a comfortable and convenient experience.
 
 For those interested in the cultural heritage of the area, the Church of St. John at Kaneo and the Cave Church Archangel Michael are both within a 40 km radius, making for easy day trips. Additionally, the proximity to Ohrid Airport, just 46 km away, adds an extra layer of convenience for international travelers.
 

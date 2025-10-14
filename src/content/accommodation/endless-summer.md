@@ -1,4 +1,72 @@
----\ntitle: "Endless Summer"\ndescription: "Endless Summer stands as a beacon of beachfront bliss in Vlorë, offering guests an unparalleled experience mere steps from the pristine Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875265.jpg?k=03b68f5e17633e5efe40555776c64d5a4bca838382e3a7b2b69cf8e5af079f2f&o=&hp=1"\nlanguage: en\nslug: endless-summer\naddress: "Rruga Çamëria, 9420 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4508579\n  lng: 19.4892716\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.8\n  location: 10\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875265.jpg?k=03b68f5e17633e5efe40555776c64d5a4bca838382e3a7b2b69cf8e5af079f2f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875267.jpg?k=6a6a89bcfe3ae3a7904580a66f0e042ca94fb4fd93d93b7a6b0578aaa1de4a39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875250.jpg?k=010aeefe94d5c529ac21c5e5404c1a96c3c1daf08e68cfec2940a88f558eb17d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875237.jpg?k=8ee29aa08746a1d2dd30e66ac97a1396de02c988604c323571b0a17c3295db83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875248.jpg?k=10b2a12fcb475b5cbaabaf69aa10b7b721624cd19cc64db77e340fbd4ec010bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875290.jpg?k=fca6469e4cefd99c4601e0ff6a15cb6e609041cca7a9f0b37d95d03976d14133&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875245.jpg?k=5fcfbf8a1aeb87ec1b47e77f4bf173606979aaa09ba9dae691bb635cddb9656e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875257.jpg?k=37e1d84d129ad3f64a8154f1d91c6ce2d0aaab0ffa6085de1743678201b1c5ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875227.jpg?k=07386727bcba3e9a6f49bdfb99752cefa24c30f62c13b277d26faa09e958f0df&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (45 Mbps)"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Da Michele Ristorante 2 m"\n  - "Brooklyn 100 m"\nnearbyBeaches:\n  - "Vlore Beach 450 m"\n  - "Vjetër Beach 700 m"\n  - "Ri Beach 1.7 km"\n  - "Beach at Government Villas 3.4 km"\n  - "Liro Beach 4.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.7 km"\n  - "Kuzum Baba 1.9 km"\n  - "Independence Square 2.2 km"\nreviews:\n  - name: "Laurentiu"\n    country: "Romania"\n    text: "“I spent a wonderful stay of 6 nights, the apartment is very well located, very clean and very well equipped with absolutely everything you need. The owner is nice and responds at all hours. We declare ourselves satisfied and hope to come back...”"\n  - name: "Marie"\n    country: "United States"\n    text: "“This is a wonderful place with a great location right on the beach and main boulevard and a beautiful view. I would highly recommend it. Ida was very helpful and made it easy to check in even though we were much later than anticipated due to...”"\nbookingURL: "https://www.booking.com/hotel/al/endless-summer.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a masterpiece of comfort and style, boasting a spacious layout that includes a bedroom, a living room, and a balcony that offers breathtaking mountain views. The modern amenities, such as a flat-screen TV, an equipped kitchenette, and a sleek bathroom with a bidet and shower, ensure guests have everything they need for a comfortable stay. The added benefit of a private entrance enhances the sense of exclusivity and privacy.
+---
+title: "Endless Summer"
+description: "Endless Summer stands as a beacon of beachfront bliss in Vlorë, offering guests an unparalleled experience mere steps from the pristine Vlore Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875265.jpg?k=03b68f5e17633e5efe40555776c64d5a4bca838382e3a7b2b69cf8e5af079f2f&o=&hp=1"
+language: en
+slug: endless-summer
+address: "Rruga Çamëria, 9420 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.4508579
+  lng: 19.4892716
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 5
+ratings:
+  overall: 9.8
+  location: 10
+  cleanliness: 9.5
+  facilities: 9.5
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875265.jpg?k=03b68f5e17633e5efe40555776c64d5a4bca838382e3a7b2b69cf8e5af079f2f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875267.jpg?k=6a6a89bcfe3ae3a7904580a66f0e042ca94fb4fd93d93b7a6b0578aaa1de4a39&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875250.jpg?k=010aeefe94d5c529ac21c5e5404c1a96c3c1daf08e68cfec2940a88f558eb17d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875237.jpg?k=8ee29aa08746a1d2dd30e66ac97a1396de02c988604c323571b0a17c3295db83&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875248.jpg?k=10b2a12fcb475b5cbaabaf69aa10b7b721624cd19cc64db77e340fbd4ec010bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875290.jpg?k=fca6469e4cefd99c4601e0ff6a15cb6e609041cca7a9f0b37d95d03976d14133&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875245.jpg?k=5fcfbf8a1aeb87ec1b47e77f4bf173606979aaa09ba9dae691bb635cddb9656e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875257.jpg?k=37e1d84d129ad3f64a8154f1d91c6ce2d0aaab0ffa6085de1743678201b1c5ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383875227.jpg?k=07386727bcba3e9a6f49bdfb99752cefa24c30f62c13b277d26faa09e958f0df&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (45 Mbps)"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Da Michele Ristorante 2 m"
+  - "Brooklyn 100 m"
+nearbyBeaches:
+  - "Vlore Beach 450 m"
+  - "Vjetër Beach 700 m"
+  - "Ri Beach 1.7 km"
+  - "Beach at Government Villas 3.4 km"
+  - "Liro Beach 4.1 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.7 km"
+  - "Kuzum Baba 1.9 km"
+  - "Independence Square 2.2 km"
+reviews:
+  - name: "Laurentiu"
+    country: "Romania"
+    text: "“I spent a wonderful stay of 6 nights, the apartment is very well located, very clean and very well equipped with absolutely everything you need. The owner is nice and responds at all hours. We declare ourselves satisfied and hope to come back...”"
+  - name: "Marie"
+    country: "United States"
+    text: "“This is a wonderful place with a great location right on the beach and main boulevard and a beautiful view. I would highly recommend it. Ida was very helpful and made it easy to check in even though we were much later than anticipated due to...”"
+bookingURL: "https://www.booking.com/hotel/al/endless-summer.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a masterpiece of comfort and style, boasting a spacious layout that includes a bedroom, a living room, and a balcony that offers breathtaking mountain views. The modern amenities, such as a flat-screen TV, an equipped kitchenette, and a sleek bathroom with a bidet and shower, ensure guests have everything they need for a comfortable stay. The added benefit of a private entrance enhances the sense of exclusivity and privacy.
 
 For those looking to explore the local dining scene, a variety of options are available within close proximity to Endless Summer, offering a taste of the local cuisine and international dishes. The property's strategic location also places it within easy reach of notable landmarks, including Independence Square and Kuzum Baba, making it an ideal base for guests wishing to explore the rich cultural heritage of Vlorë.
 

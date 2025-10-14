@@ -1,4 +1,91 @@
----\ntitle: "Miku Apartment -Charming One Bedroom At Komuna e Parisit"\ndescription: "Miku Apartment - Charming One Bedroom at Komuna e Parisit emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783620.jpg?k=a0e5ee1bdf4e305d4a7f159215bbd7ff4f455d5cd21bd1ed3fd37a04789c0024&o=&hp=1"\nlanguage: en\nslug: miku-apartment-charming-one-bedroom-at-komuna-e-parisit\naddress: "Rruga Myslym Shyri, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31646962\n  lng: 19.80819169\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 19\nratings:\n  overall: 9.2\n  location: 9.7\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.3\n  comfort: 9.4\n  staff: 9.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783620.jpg?k=a0e5ee1bdf4e305d4a7f159215bbd7ff4f455d5cd21bd1ed3fd37a04789c0024&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783621.jpg?k=5e284b53dc40f2260304abaeb754d532436cdf3d49780a6757460351f763c9f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783667.jpg?k=ff4147f35c8576fdae8b597fb6cafc38d7d7fd99cab049f3026bd8f964ed5837&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783623.jpg?k=d94cd889acf6532e6982c9629a8bf57836f532bff5625a82fa8089d2fe8d1b56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783661.jpg?k=019deb9d12cc813af74556c88764c37318818703b161623002e54462d9ea0226&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783462.jpg?k=ea748c3d813a9c0b98f113477442f56b1dd8eff97557f12bf1b9d58176fc2e4f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783485.jpg?k=15ce4fb74c487d1e76ae2b72b37a80b356498c7f3863e382de7bcb0c88f3aafa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783668.jpg?k=f32441985b357916ac659c1071f4337c3e3b740191f650e40b082a2e9a0eac39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783532.jpg?k=50d85649ff5bc968c659ec4b1b4cfc2b013104b35dbebe605db5050ca65b05a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783644.jpg?k=19e6a6571232a4b60e31b1556e44a710256fec7457126f3dbd74388c01efe965&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783618.jpg?k=15cc639d5401fd9e96184b73800ecc85d16daa1e26ae9b5955b0efed47483b3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783660.jpg?k=d83d3917c873536ab8cdfedcd845ad2f9e0da7f099a2bd5f4990820010fc3091&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "House of Leaves 1.3 km"\n  - "National Gallery of Arts Tirana 1.5 km"\n  - "Grand Park of Tirana 1.5 km"\n  - "Skanderbeg Square 1.6 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Tanners' Bridge 1.9 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Ola Fast 20 m"\n  - "Shija e Detit 40 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Komuna e Parisit 100 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 250 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 450 m"\n  - "Parku I Madh I Tiranës (Grand Park) 700 m"\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 950 m"\n  - "Sheshi Rekreativ Sali Butka 1 km"\n  - "Sheshi Rekreativ Bajram Curri 1 km"\n  - "Shesh Rekreativ 1 km"\n  - "Rinia Park 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Jovana"\n    country: "Serbia"\n    text: "“Highly recommend this place to everyone. Great location, very friendly staff and clean apartment. Definitely we will come back. King regards from Serbia ❤️”"\n  - name: "Charlie-rose"\n    country: "United Kingdom"\n    text: "“The apartment was modern and spotlessly clean, and the bed was very comfortable. Very friendly. Cosy. Lovely decor. Nice touches . We had a lovely time and will definitely be returning.”"\n  - name: "Tace"\n    country: "Croatia"\n    text: "“Perfect Stay.The apartment was so clean and with all the necessities for a perfect stay,in a central location,the host Lorain was so helpful wait for my arrival time after 1 o’clock.I highly recommend and I will be back for sure.”"\nbookingURL: "https://www.booking.com/hotel/al/luxury-apartment-myslym-shyri-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a spacious apartment that boasts a well-appointed bedroom, a bathroom equipped with modern facilities including a bidet and a dressing room, and the convenience of air conditioning. The living space is designed to cater to the needs of modern travelers, featuring a flat-screen TV with streaming services, a dining area for intimate meals, and a fully equipped kitchen for those who prefer to prepare their own food. The addition of a balcony offering serene street views adds to the charm of the apartment, providing a perfect nook for relaxation.
+---
+title: "Miku Apartment -Charming One Bedroom At Komuna e Parisit"
+description: "Miku Apartment - Charming One Bedroom at Komuna e Parisit emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783620.jpg?k=a0e5ee1bdf4e305d4a7f159215bbd7ff4f455d5cd21bd1ed3fd37a04789c0024&o=&hp=1"
+language: en
+slug: miku-apartment-charming-one-bedroom-at-komuna-e-parisit
+address: "Rruga Myslym Shyri, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31646962
+  lng: 19.80819169
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 19
+ratings:
+  overall: 9.2
+  location: 9.7
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 9.3
+  comfort: 9.4
+  staff: 9.7
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783620.jpg?k=a0e5ee1bdf4e305d4a7f159215bbd7ff4f455d5cd21bd1ed3fd37a04789c0024&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783621.jpg?k=5e284b53dc40f2260304abaeb754d532436cdf3d49780a6757460351f763c9f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783667.jpg?k=ff4147f35c8576fdae8b597fb6cafc38d7d7fd99cab049f3026bd8f964ed5837&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783623.jpg?k=d94cd889acf6532e6982c9629a8bf57836f532bff5625a82fa8089d2fe8d1b56&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783661.jpg?k=019deb9d12cc813af74556c88764c37318818703b161623002e54462d9ea0226&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783462.jpg?k=ea748c3d813a9c0b98f113477442f56b1dd8eff97557f12bf1b9d58176fc2e4f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783485.jpg?k=15ce4fb74c487d1e76ae2b72b37a80b356498c7f3863e382de7bcb0c88f3aafa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783668.jpg?k=f32441985b357916ac659c1071f4337c3e3b740191f650e40b082a2e9a0eac39&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783532.jpg?k=50d85649ff5bc968c659ec4b1b4cfc2b013104b35dbebe605db5050ca65b05a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783644.jpg?k=19e6a6571232a4b60e31b1556e44a710256fec7457126f3dbd74388c01efe965&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783618.jpg?k=15cc639d5401fd9e96184b73800ecc85d16daa1e26ae9b5955b0efed47483b3a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783660.jpg?k=d83d3917c873536ab8cdfedcd845ad2f9e0da7f099a2bd5f4990820010fc3091&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "House of Leaves 1.3 km"
+  - "National Gallery of Arts Tirana 1.5 km"
+  - "Grand Park of Tirana 1.5 km"
+  - "Skanderbeg Square 1.6 km"
+  - "Clock Tower Tirana 1.6 km"
+  - "National Museum of History Albania 1.6 km"
+  - "Tanners' Bridge 1.9 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Ola Fast 20 m"
+  - "Shija e Detit 40 m"
+whatsNearby:
+  - "Sheshi Rekreativ Komuna e Parisit 100 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 250 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 450 m"
+  - "Parku I Madh I Tiranës (Grand Park) 700 m"
+  - "Former Residence of Enver Hoxha 900 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 950 m"
+  - "Sheshi Rekreativ Sali Butka 1 km"
+  - "Sheshi Rekreativ Bajram Curri 1 km"
+  - "Shesh Rekreativ 1 km"
+  - "Rinia Park 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Jovana"
+    country: "Serbia"
+    text: "“Highly recommend this place to everyone. Great location, very friendly staff and clean apartment. Definitely we will come back. King regards from Serbia ❤️”"
+  - name: "Charlie-rose"
+    country: "United Kingdom"
+    text: "“The apartment was modern and spotlessly clean, and the bed was very comfortable. Very friendly. Cosy. Lovely decor. Nice touches . We had a lovely time and will definitely be returning.”"
+  - name: "Tace"
+    country: "Croatia"
+    text: "“Perfect Stay.The apartment was so clean and with all the necessities for a perfect stay,in a central location,the host Lorain was so helpful wait for my arrival time after 1 o’clock.I highly recommend and I will be back for sure.”"
+bookingURL: "https://www.booking.com/hotel/al/luxury-apartment-myslym-shyri-2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are welcomed into a spacious apartment that boasts a well-appointed bedroom, a bathroom equipped with modern facilities including a bidet and a dressing room, and the convenience of air conditioning. The living space is designed to cater to the needs of modern travelers, featuring a flat-screen TV with streaming services, a dining area for intimate meals, and a fully equipped kitchen for those who prefer to prepare their own food. The addition of a balcony offering serene street views adds to the charm of the apartment, providing a perfect nook for relaxation.
 
 The entire property benefits from complimentary WiFi, ensuring that guests stay connected during their visit. Practicalities are also taken care of, with a lift for easy access and a minimarket on-site for last-minute needs. For those looking to explore the city at their own pace, a car rental service is conveniently available directly from the apartment.
 

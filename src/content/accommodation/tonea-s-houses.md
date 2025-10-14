@@ -1,6 +1,82 @@
----\ntitle: "Tonea's Houses"\ndescription: "Tonea's Houses emerges as a serene oasis in Himare, merely 70 meters from the pristine Livadhi Beach, offering guests an exclusive slice of paradise with its private beach area and lush garden vistas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420704057.jpg?k=2b9368c6f679bc0fed4471280c9a0e92262db75537d62a5977b15a3c724d0dae&o=&hp=1"\nlanguage: en\nslug: tonea-s-houses\naddress: "Livadh, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.10902597\n  lng: 19.72534059\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 203\nratings:\n  overall: 9.2\n  location: 9.4\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.1\n  staff: 9.8\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420704057.jpg?k=2b9368c6f679bc0fed4471280c9a0e92262db75537d62a5977b15a3c724d0dae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357819836.jpg?k=d3991c5ef0b181a3c008767009720419aa274b7d0f2674ce93b3f1d793e47929&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420705399.jpg?k=bab479ac6b0c96e7ed94147979e5938b76fb48070201c3517584a8d3270152ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360031419.jpg?k=1d0224abe4d81327fd65b267833f07209f1b9de0eea5bfdc466788a9d6132577&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360030482.jpg?k=13675d29a31dba74489ce9821ff16b02a857c5c6adfca7ef6349638e081066a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301099763.jpg?k=0cbc3b22ea7aaa4e3c28c914d18d5b1ce51af2abd55c71a7c6d5ea4eea30f77d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301101623.jpg?k=321fae7baf7098b38aa06b4b45dec015a57f4b5b5c8e01430503294ef2026451&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517156125.jpg?k=88e13b9f6d78a58eeed3e7734254b7dcc5b11c7baac6041af4906771dea948bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517155901.jpg?k=04dce771ae2472d28972b2ddeda827d0003b4f2595770bce65b0093e1b00d6ef&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Boho Beach Bar 20 m"\n  - "Viamare Beach Lounge Bar 50 m"\nnearbyBeaches:\n  - "Livadhi Beach 20 m"\n  - "Akuariumit Beach 1.3 km"\n  - "Spille Beach 1.6 km"\n  - "Maracit Beach 2.2 km"\n  - "Jale Beach 2.2 km"\nwhatsNearby:\n  - "Llogora National Park 14 km"\nairports:\n  - "Corfu International Airport 57 km"\nreviews:\n  - name: "Marc"\n    country: "Germany"\n    text: "“Very nice staff, clean spacious room, tasty breakfast, close to the beach, parking on site”"\n  - name: "Sissisp"\n    country: "Italy"\n    text: "“Beautiful location right on the beach, very quiet this time of the year (beginning of November). The room is basic, spacious and nice, bed is comfortable.
+---
+title: "Tonea's Houses"
+description: "Tonea's Houses emerges as a serene oasis in Himare, merely 70 meters from the pristine Livadhi Beach, offering guests an exclusive slice of paradise with its private beach area and lush garden vistas."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420704057.jpg?k=2b9368c6f679bc0fed4471280c9a0e92262db75537d62a5977b15a3c724d0dae&o=&hp=1"
+language: en
+slug: tonea-s-houses
+address: "Livadh, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.10902597
+  lng: 19.72534059
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 203
+ratings:
+  overall: 9.2
+  location: 9.4
+  cleanliness: 9.3
+  facilities: 8.9
+  value: 9.2
+  comfort: 9.1
+  staff: 9.8
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420704057.jpg?k=2b9368c6f679bc0fed4471280c9a0e92262db75537d62a5977b15a3c724d0dae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357819836.jpg?k=d3991c5ef0b181a3c008767009720419aa274b7d0f2674ce93b3f1d793e47929&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420705399.jpg?k=bab479ac6b0c96e7ed94147979e5938b76fb48070201c3517584a8d3270152ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360031419.jpg?k=1d0224abe4d81327fd65b267833f07209f1b9de0eea5bfdc466788a9d6132577&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360030482.jpg?k=13675d29a31dba74489ce9821ff16b02a857c5c6adfca7ef6349638e081066a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301099763.jpg?k=0cbc3b22ea7aaa4e3c28c914d18d5b1ce51af2abd55c71a7c6d5ea4eea30f77d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301101623.jpg?k=321fae7baf7098b38aa06b4b45dec015a57f4b5b5c8e01430503294ef2026451&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517156125.jpg?k=88e13b9f6d78a58eeed3e7734254b7dcc5b11c7baac6041af4906771dea948bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517155901.jpg?k=04dce771ae2472d28972b2ddeda827d0003b4f2595770bce65b0093e1b00d6ef&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Boho Beach Bar 20 m"
+  - "Viamare Beach Lounge Bar 50 m"
+nearbyBeaches:
+  - "Livadhi Beach 20 m"
+  - "Akuariumit Beach 1.3 km"
+  - "Spille Beach 1.6 km"
+  - "Maracit Beach 2.2 km"
+  - "Jale Beach 2.2 km"
+whatsNearby:
+  - "Llogora National Park 14 km"
+airports:
+  - "Corfu International Airport 57 km"
+reviews:
+  - name: "Marc"
+    country: "Germany"
+    text: "“Very nice staff, clean spacious room, tasty breakfast, close to the beach, parking on site”"
+  - name: "Sissisp"
+    country: "Italy"
+    text: "“Beautiful location right on the beach, very quiet this time of the year (beginning of November). The room is basic, spacious and nice, bed is comfortable.
 Hosts are welcoming, kind and helpful.
-The breakfast is so good!”"\n  - name: "Toni"\n    country: "Australia"\n    text: "“One of the only place still operating at Livadh Beach but the service from the staff was still excellent. These are perfectly located rooms directly across from the beach. Very comfortable rooms and an awesome two course breakfast with barista...”"\nbookingURL: "https://www.booking.com/hotel/al/tonea-39-s-vacation-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Tonea's Houses are thoughtfully designed with guest comfort in mind. Each unit is equipped with essential modern conveniences including air conditioning, a flat-screen TV, and a private bathroom featuring a shower and hairdryer. For added comfort, select rooms also offer a cozy seating area, perfect for unwinding after a day under the sun. The attention to detail extends to the provision of crisp bed linen and plush towels, ensuring a restful night's sleep.
+The breakfast is so good!”"
+  - name: "Toni"
+    country: "Australia"
+    text: "“One of the only place still operating at Livadh Beach but the service from the staff was still excellent. These are perfectly located rooms directly across from the beach. Very comfortable rooms and an awesome two course breakfast with barista...”"
+bookingURL: "https://www.booking.com/hotel/al/tonea-39-s-vacation-house.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Tonea's Houses are thoughtfully designed with guest comfort in mind. Each unit is equipped with essential modern conveniences including air conditioning, a flat-screen TV, and a private bathroom featuring a shower and hairdryer. For added comfort, select rooms also offer a cozy seating area, perfect for unwinding after a day under the sun. The attention to detail extends to the provision of crisp bed linen and plush towels, ensuring a restful night's sleep.
 
 Guests can start their day on a high note with a delightful breakfast selection available each morning. The menu includes both continental and vegetarian options, with delicious pancakes and fresh juice, catering to a variety of tastes and dietary preferences. For those seeking a caffeine fix or a relaxing drink, the on-site coffee shop and bar serve up an array of beverages in a welcoming atmosphere.
 

@@ -1,4 +1,86 @@
----\ntitle: "Dajti Paradise Hostel"\ndescription: "Dajti Paradise Hostel emerges as a serene retreat in Lanabregas, offering a unique blend of natural beauty and comfort just 18 km away from the Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516696.jpg?k=556705a9da173cdd088aef208a192074f1481a662ab6a474184c5fddf8e3a795&o=&hp=1"\nlanguage: en\nslug: dajti-paradise-hostel\naddress: "SH47 SH47, Tirana, Albania, 1047 Lanabregas, Albania"\ncity: "Lanabregas"\nlocation: "Lanabregas"\naccommodationType: "hostel"\ncoordinates:\n  lat: 41.34996812\n  lng: 19.91956406\nprice: "US$9"\npriceFrom: 9\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.3\n  location: 10\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 10\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516696.jpg?k=556705a9da173cdd088aef208a192074f1481a662ab6a474184c5fddf8e3a795&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516798.jpg?k=d943dfa8065ee3d92dcd912be270a3fcfafb8724b339095c8923abec41b9c978&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493517624.jpg?k=4e786f08937395096eefbca470ac5592a5f24125d226ea2c3a80fbfd23087d77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493540545.jpg?k=c63ed707499dee87fcfe62d6248bdf34270f9833803f6c5fc1d7d2a6830d51f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493539269.jpg?k=2fbee83bd98a0c13092be1c4f6b5f23ac851d710a89c75041cad313751d27948&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516045.jpg?k=1a06e31faf1cb6df062cf5c4d06ab3da9275ba676065a3786caac907847d52f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516354.jpg?k=9f405f6353df3badbad5992fc2774d43df9965322088fdbbd8114982fbe20756&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493517673.jpg?k=71308ff44f9513da266e61c6000be3e800be8e27503f00cc470de92458ea2e1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493517104.jpg?k=c8f63602f60fe39204aa96297f51d7acf591d3f82c1e5eea7bcd5034afc771a9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Bunk Bed in Mixed Dormitory Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 9 km"\n  - "Clock Tower Tirana 9 km"\n  - "Skanderbeg Square 9 km"\n  - "National Museum of History Albania 9 km"\n  - "Grand Park of Tirana 9 km"\n  - "Rinia Park 9 km"\n  - "House of Leaves 9 km"\n  - "Former Residence of Enver Hoxha 9 km"\nnearbyRestaurants:\n  - "Gurra e Perrise 500 m"\n  - "Panorama 950 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 0 m"\n  - "Sheshi Rekreativ Surrel 2.1 km"\n  - "Mali I Dajtit 2.9 km"\n  - "Bunk'Art 1 Museum 4.9 km"\n  - "Sheshi Rekreativ Banesat Sociale 5 km"\n  - "Sheshi Rekreativ Gjolek Kokona 7 km"\n  - "Sheshi Rekreativ Allias 7 km"\n  - "Sheshi Jjosef Shtraus 7 km"\n  - "Sheshi Rekreativ tek ish ATSh 8 km"\n  - "Tanners' Bridge 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 17 km"\n  - "Ohrid Airport 71 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Avery"\n    country: "United States"\n    text: "“Beautiful spot! They upgraded our room free of charge since the hostel was under renovation.”"\nbookingURL: "https://www.booking.com/hotel/al/dajti-paradise-hostel-surrel-tirana-county-albania.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe hostel's location is strategically chosen to provide guests with easy access to some of the area's most notable attractions. It stands 21 km from the historic Skanderbeg Square and the intriguing Former Residence of Enver Hoxha, as well as a mere 18 km journey to the Bunk'Art 1 Museum, allowing travelers to immerse themselves in the rich cultural tapestry of the region.
+---
+title: "Dajti Paradise Hostel"
+description: "Dajti Paradise Hostel emerges as a serene retreat in Lanabregas, offering a unique blend of natural beauty and comfort just 18 km away from the Dajti Ekspres Cable Car."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516696.jpg?k=556705a9da173cdd088aef208a192074f1481a662ab6a474184c5fddf8e3a795&o=&hp=1"
+language: en
+slug: dajti-paradise-hostel
+address: "SH47 SH47, Tirana, Albania, 1047 Lanabregas, Albania"
+city: "Lanabregas"
+location: "Lanabregas"
+accommodationType: "hostel"
+coordinates:
+  lat: 41.34996812
+  lng: 19.91956406
+price: "US$9"
+priceFrom: 9
+starRating: 3
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 1
+ratings:
+  overall: 8.3
+  location: 10
+  cleanliness: 7.5
+  facilities: 7.5
+  value: 10
+  comfort: 7.5
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516696.jpg?k=556705a9da173cdd088aef208a192074f1481a662ab6a474184c5fddf8e3a795&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516798.jpg?k=d943dfa8065ee3d92dcd912be270a3fcfafb8724b339095c8923abec41b9c978&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493517624.jpg?k=4e786f08937395096eefbca470ac5592a5f24125d226ea2c3a80fbfd23087d77&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493540545.jpg?k=c63ed707499dee87fcfe62d6248bdf34270f9833803f6c5fc1d7d2a6830d51f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493539269.jpg?k=2fbee83bd98a0c13092be1c4f6b5f23ac851d710a89c75041cad313751d27948&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516045.jpg?k=1a06e31faf1cb6df062cf5c4d06ab3da9275ba676065a3786caac907847d52f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516354.jpg?k=9f405f6353df3badbad5992fc2774d43df9965322088fdbbd8114982fbe20756&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493517673.jpg?k=71308ff44f9513da266e61c6000be3e800be8e27503f00cc470de92458ea2e1f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493517104.jpg?k=c8f63602f60fe39204aa96297f51d7acf591d3f82c1e5eea7bcd5034afc771a9&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Bunk Bed in Mixed Dormitory Room"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 9 km"
+  - "Clock Tower Tirana 9 km"
+  - "Skanderbeg Square 9 km"
+  - "National Museum of History Albania 9 km"
+  - "Grand Park of Tirana 9 km"
+  - "Rinia Park 9 km"
+  - "House of Leaves 9 km"
+  - "Former Residence of Enver Hoxha 9 km"
+nearbyRestaurants:
+  - "Gurra e Perrise 500 m"
+  - "Panorama 950 m"
+whatsNearby:
+  - "Dajti Mountain National Park 0 m"
+  - "Sheshi Rekreativ Surrel 2.1 km"
+  - "Mali I Dajtit 2.9 km"
+  - "Bunk'Art 1 Museum 4.9 km"
+  - "Sheshi Rekreativ Banesat Sociale 5 km"
+  - "Sheshi Rekreativ Gjolek Kokona 7 km"
+  - "Sheshi Rekreativ Allias 7 km"
+  - "Sheshi Jjosef Shtraus 7 km"
+  - "Sheshi Rekreativ tek ish ATSh 8 km"
+  - "Tanners' Bridge 8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 17 km"
+  - "Ohrid Airport 71 km"
+paymentMethods:
+  - "Mastercard"
+reviews:
+  - name: "Avery"
+    country: "United States"
+    text: "“Beautiful spot! They upgraded our room free of charge since the hostel was under renovation.”"
+bookingURL: "https://www.booking.com/hotel/al/dajti-paradise-hostel-surrel-tirana-county-albania.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The hostel's location is strategically chosen to provide guests with easy access to some of the area's most notable attractions. It stands 21 km from the historic Skanderbeg Square and the intriguing Former Residence of Enver Hoxha, as well as a mere 18 km journey to the Bunk'Art 1 Museum, allowing travelers to immerse themselves in the rich cultural tapestry of the region.
 
 What sets Dajti Paradise Hostel apart are the breathtaking views that can be enjoyed from the comfort of the rooms. Each room is equipped with a terrace that offers a panoramic view of the surrounding mountains, complemented by a cityscape that can be seen from the shared bathroom facilities. This blend of urban and natural scenery ensures that guests can find tranquility and inspiration during their stay.
 

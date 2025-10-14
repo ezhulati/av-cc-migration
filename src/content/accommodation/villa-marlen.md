@@ -1,4 +1,82 @@
----\ntitle: "VILLA MARLEN"\ndescription: "Villa Marlen emerges as a serene retreat, boasting garden views that complement its proximity to the pristine Ksamil Beach, just a mere 300 meters away."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515109277.jpg?k=c813b2e8c2a6bbb2eb7de7d25f58157fc1acc86107bbcbebda7a4c0993658219&o=&hp=1"\nlanguage: en\nslug: villa-marlen\naddress: "SH81, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "villa"\ncoordinates:\n  lat: 39.77081027\n  lng: 20.00379655\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515109277.jpg?k=c813b2e8c2a6bbb2eb7de7d25f58157fc1acc86107bbcbebda7a4c0993658219&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/497983582.jpg?k=02787e46da743f9b585829e09f64c10a953ba6ffc284ddee2abb0c1d7cff4736&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/497983644.jpg?k=1607836bf0815a0f1d55161d1b5653e266e60325cf829e47ab472d6d77c095e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983637.jpg?k=21d5c299fc02553d3b701426fecf1cc4a779fe7c954201be582ddc64fdb6b7fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983622.jpg?k=19c4c7bde03aa954442f59ee60f610b2aa51f0562632416e992bae0660cce7c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/497984279.jpg?k=10a8e2a6ed4e40db64f2e8bad07462a0c3caadb971e091d7fda5db759065908a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983660.jpg?k=8053ecf15d5d5af7b7ca50373974601a9e7eca48ee93b0244b7189d70b49436b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983631.jpg?k=9cc644bd74416a200233ec24e44864f1fbeb6a484226fb72bafdb0274f2ef4ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983656.jpg?k=363f78efb6a008b1d16875207610ef74a1fdce4f98c63a030bd4b0bc1643976b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/497984374.jpg?k=95f29f40be117c706fd4a7f8d921dfb0f53bc68dabea0ad55be99dd18bbc1f12&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Agave 50 m"\n  - "Kancelari Mondi 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 250 m"\n  - "Bora Bora Beach 450 m"\n  - "Ksamil Beach 7 450 m"\n  - "Ksamil Beach 9 500 m"\n  - "Coco Beach 600 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 400 m"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 3.3 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-marlen-ksamil-sarande1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach accommodation at Villa Marlen is a testament to comfort and simplicity, equipped with air conditioning and a flat-screen TV for those moments of relaxation. The private bathrooms are well-appointed with showers and hair dryers, ensuring a refreshing start or end to the day. Free WiFi is accessible throughout the property, with select rooms enhancing the stay experience with their own patios. For added convenience, bed linen and towels are provided in every unit, ensuring guests feel at home.
+---
+title: "VILLA MARLEN"
+description: "Villa Marlen emerges as a serene retreat, boasting garden views that complement its proximity to the pristine Ksamil Beach, just a mere 300 meters away."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515109277.jpg?k=c813b2e8c2a6bbb2eb7de7d25f58157fc1acc86107bbcbebda7a4c0993658219&o=&hp=1"
+language: en
+slug: villa-marlen
+address: "SH81, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "villa"
+coordinates:
+  lat: 39.77081027
+  lng: 20.00379655
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515109277.jpg?k=c813b2e8c2a6bbb2eb7de7d25f58157fc1acc86107bbcbebda7a4c0993658219&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/497983582.jpg?k=02787e46da743f9b585829e09f64c10a953ba6ffc284ddee2abb0c1d7cff4736&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/497983644.jpg?k=1607836bf0815a0f1d55161d1b5653e266e60325cf829e47ab472d6d77c095e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983637.jpg?k=21d5c299fc02553d3b701426fecf1cc4a779fe7c954201be582ddc64fdb6b7fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983622.jpg?k=19c4c7bde03aa954442f59ee60f610b2aa51f0562632416e992bae0660cce7c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/497984279.jpg?k=10a8e2a6ed4e40db64f2e8bad07462a0c3caadb971e091d7fda5db759065908a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983660.jpg?k=8053ecf15d5d5af7b7ca50373974601a9e7eca48ee93b0244b7189d70b49436b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983631.jpg?k=9cc644bd74416a200233ec24e44864f1fbeb6a484226fb72bafdb0274f2ef4ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/497983656.jpg?k=363f78efb6a008b1d16875207610ef74a1fdce4f98c63a030bd4b0bc1643976b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/497984374.jpg?k=95f29f40be117c706fd4a7f8d921dfb0f53bc68dabea0ad55be99dd18bbc1f12&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyAttractions:
+  - "Museum of Banknotes 18 km"
+  - "New Fortress 18 km"
+  - "Serbian Museum 18 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 19 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 19 km"
+nearbyRestaurants:
+  - "Agave 50 m"
+  - "Kancelari Mondi 50 m"
+nearbyBeaches:
+  - "Ksamil Beach 250 m"
+  - "Bora Bora Beach 450 m"
+  - "Ksamil Beach 7 450 m"
+  - "Ksamil Beach 9 500 m"
+  - "Coco Beach 600 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 400 m"
+  - "Butrint National Park 2.6 km"
+  - "Plazhi I Krorezes 3.3 km"
+  - "Parc National de Butrint 10 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 18 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+bookingURL: "https://www.booking.com/hotel/al/villa-marlen-ksamil-sarande1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each accommodation at Villa Marlen is a testament to comfort and simplicity, equipped with air conditioning and a flat-screen TV for those moments of relaxation. The private bathrooms are well-appointed with showers and hair dryers, ensuring a refreshing start or end to the day. Free WiFi is accessible throughout the property, with select rooms enhancing the stay experience with their own patios. For added convenience, bed linen and towels are provided in every unit, ensuring guests feel at home.
 
 The guest house is not just about its rooms; the garden invites guests to unwind in a tranquil setting, making it an ideal spot for leisurely afternoons. For those looking to explore the rich history of the area, Butrint National Park is just 2.9 km away, offering a glimpse into the past amidst natural beauty.
 

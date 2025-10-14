@@ -1,4 +1,91 @@
----\ntitle: "TAM Serviced Apartment Shallvaret Central District"\ndescription: "TAM Serviced Apartment Shallvaret Central District emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415080282.jpg?k=2a5841ab1b7e4b3ed08e623a4e3e488dc3a84dc8db4d1bc6e72624f3cfc9411c&o=&hp=1"\nlanguage: en\nslug: tam-serviced-apartment-shallvaret-central-district\naddress: "Rruga Reshit Çollaku Kati 9, hyrja 56, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32398885\n  lng: 19.81651654\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 15\nratings:\n  overall: 9.8\n  location: 9.7\n  cleanliness: 9.8\n  facilities: 9.7\n  value: 9.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415080282.jpg?k=2a5841ab1b7e4b3ed08e623a4e3e488dc3a84dc8db4d1bc6e72624f3cfc9411c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415086568.jpg?k=2489ddb79bb7fa49679b3ad7834949bf63194227f19ecb7f9ed2c380344cd70b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415086168.jpg?k=63d27263216969e95bf1f76faf22e663897680612bc79317e32dc542d6139b04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415086140.jpg?k=89e05b2c75638199b7007c0aa24042e700aacf1b8f641f005b26fa10c5c450e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085898.jpg?k=762069a3165af9109d275fa448aaf30b69724f40599a69eb79810908d4dbd2ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085762.jpg?k=3545383ca8c7a38bcd0a128c68d9e49aca0808bf77c73f280efde616070b41a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085560.jpg?k=63092d43e3cd44435b2cb136ead5f7fac6ebc8403eb665892a685d05b7cb9d9b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085510.jpg?k=d4b29a8d22ce9f35d281db67879d1aac52038a81377890057403428dc93d6ff0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085383.jpg?k=bc545d731aca7a3b79a2b927f37bedd51d5d4d849350fabb1197b89bea56998b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085278.jpg?k=e601a6b8f08578e6b9c1915fa2e4c2f65ecbe4405641b92d9e36197eb992b2ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085065.jpg?k=f51f6de2ff0e03eabc170e7e156222705b46c6840dafb95780bd3d1dabdda98c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415084853.jpg?k=be0398af6da8a7e366d3ee6574a86658427af44e7e0980349534fcf21cce894e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415083035.jpg?k=41d9c7d6ccc2f6bfe95a1ca3f5af470e9d5844f02816d1e3cd43e13524cd823e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415083241.jpg?k=e0dd98947bfe36dbe098434516ef35cf3ef3e17b195f4cc5d246f74ed2138e8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415084494.jpg?k=f273789fdfb9c053863f346cec73cdae82a7f8a0512944ed63a40e336c9b3d42&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "24-hour front desk"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 600 m"\n  - "Tanners' Bridge 850 m"\n  - "Grand Park of Tirana 1.5 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Tang Chinese 20 m"\n  - "Bar Restorant 40 m"\nwhatsNearby:\n  - "Rinia Park 150 m"\n  - "Parku Rinia 300 m"\n  - "House of Leaves 300 m"\n  - "Former Residence of Enver Hoxha 350 m"\n  - "Sheshi Rekreativ Piramida 400 m"\n  - "National Gallery of Arts Tirana 450 m"\n  - "Parku Europa 450 m"\n  - "Skanderbeg Square 500 m"\n  - "Clock Tower Tirana 500 m"\n  - "Sheshi Skënderbej 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "John"\n    country: "United Kingdom"\n    text: "“Location, views from balcony, size of the main room, utility room with washing machine.”"\n  - name: "Kejda"\n    country: "Albania"\n    text: "“Beautiful and tidy apartment in a central location in Tirana equipped with everything you need. The communication was very easy and quick. We had a great stay!”"\n  - name: "Ketner"\n    country: "United States"\n    text: "“Fantastic location in a little neighborhood by the casino and the Taiwan Fountain. Immaculately clean. Host very available on whats app”"\nbookingURL: "https://www.booking.com/hotel/al/tam-shallvaret-exclusive-apartment-no1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a world of modernity and ease, thanks to the 24-hour front desk, an elevator for easy access, and the luxury of complimentary WiFi throughout the premises. The commitment to a smoke-free environment further enhances the appeal of TAM Serviced Apartment Shallvaret Central District, making it a breath of fresh air for visitors.
+---
+title: "TAM Serviced Apartment Shallvaret Central District"
+description: "TAM Serviced Apartment Shallvaret Central District emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415080282.jpg?k=2a5841ab1b7e4b3ed08e623a4e3e488dc3a84dc8db4d1bc6e72624f3cfc9411c&o=&hp=1"
+language: en
+slug: tam-serviced-apartment-shallvaret-central-district
+address: "Rruga Reshit Çollaku Kati 9, hyrja 56, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32398885
+  lng: 19.81651654
+price: "US$59"
+priceFrom: 59
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 15
+ratings:
+  overall: 9.8
+  location: 9.7
+  cleanliness: 9.8
+  facilities: 9.7
+  value: 9.5
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415080282.jpg?k=2a5841ab1b7e4b3ed08e623a4e3e488dc3a84dc8db4d1bc6e72624f3cfc9411c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415086568.jpg?k=2489ddb79bb7fa49679b3ad7834949bf63194227f19ecb7f9ed2c380344cd70b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415086168.jpg?k=63d27263216969e95bf1f76faf22e663897680612bc79317e32dc542d6139b04&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415086140.jpg?k=89e05b2c75638199b7007c0aa24042e700aacf1b8f641f005b26fa10c5c450e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085898.jpg?k=762069a3165af9109d275fa448aaf30b69724f40599a69eb79810908d4dbd2ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085762.jpg?k=3545383ca8c7a38bcd0a128c68d9e49aca0808bf77c73f280efde616070b41a1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085560.jpg?k=63092d43e3cd44435b2cb136ead5f7fac6ebc8403eb665892a685d05b7cb9d9b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085510.jpg?k=d4b29a8d22ce9f35d281db67879d1aac52038a81377890057403428dc93d6ff0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085383.jpg?k=bc545d731aca7a3b79a2b927f37bedd51d5d4d849350fabb1197b89bea56998b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085278.jpg?k=e601a6b8f08578e6b9c1915fa2e4c2f65ecbe4405641b92d9e36197eb992b2ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415085065.jpg?k=f51f6de2ff0e03eabc170e7e156222705b46c6840dafb95780bd3d1dabdda98c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415084853.jpg?k=be0398af6da8a7e366d3ee6574a86658427af44e7e0980349534fcf21cce894e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415083035.jpg?k=41d9c7d6ccc2f6bfe95a1ca3f5af470e9d5844f02816d1e3cd43e13524cd823e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415083241.jpg?k=e0dd98947bfe36dbe098434516ef35cf3ef3e17b195f4cc5d246f74ed2138e8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415084494.jpg?k=f273789fdfb9c053863f346cec73cdae82a7f8a0512944ed63a40e336c9b3d42&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "24-hour front desk"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Museum of History Albania 600 m"
+  - "Tanners' Bridge 850 m"
+  - "Grand Park of Tirana 1.5 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+nearbyRestaurants:
+  - "Tang Chinese 20 m"
+  - "Bar Restorant 40 m"
+whatsNearby:
+  - "Rinia Park 150 m"
+  - "Parku Rinia 300 m"
+  - "House of Leaves 300 m"
+  - "Former Residence of Enver Hoxha 350 m"
+  - "Sheshi Rekreativ Piramida 400 m"
+  - "National Gallery of Arts Tirana 450 m"
+  - "Parku Europa 450 m"
+  - "Skanderbeg Square 500 m"
+  - "Clock Tower Tirana 500 m"
+  - "Sheshi Skënderbej 500 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "John"
+    country: "United Kingdom"
+    text: "“Location, views from balcony, size of the main room, utility room with washing machine.”"
+  - name: "Kejda"
+    country: "Albania"
+    text: "“Beautiful and tidy apartment in a central location in Tirana equipped with everything you need. The communication was very easy and quick. We had a great stay!”"
+  - name: "Ketner"
+    country: "United States"
+    text: "“Fantastic location in a little neighborhood by the casino and the Taiwan Fountain. Immaculately clean. Host very available on whats app”"
+bookingURL: "https://www.booking.com/hotel/al/tam-shallvaret-exclusive-apartment-no1.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are welcomed into a world of modernity and ease, thanks to the 24-hour front desk, an elevator for easy access, and the luxury of complimentary WiFi throughout the premises. The commitment to a smoke-free environment further enhances the appeal of TAM Serviced Apartment Shallvaret Central District, making it a breath of fresh air for visitors.
 
 The apartment itself is a testament to thoughtful design and comfort. It boasts a generous layout that includes one bedroom, two well-appointed bathrooms, and a living area that invites relaxation. The inclusion of bed linen, towels, a flat-screen TV equipped with streaming services, a dining area, a fully equipped kitchen, and a balcony offering captivating city views, ensures a stay that is both comfortable and enjoyable. The added benefits of a private entrance and soundproofing guarantee a sense of privacy and tranquility amidst the bustling city life.
 

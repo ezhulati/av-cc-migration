@@ -1,4 +1,88 @@
----\ntitle: "Helga’s Sunset apartment"\ndescription: "Helga's Sunset apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641139.jpg?k=5d6f5a03443dfc9e1c02089290e14966dd0e51f47bfef52176e220cff8b6d5fc&o=&hp=1"\nlanguage: en\nslug: helga-s-sunset-apartment\naddress: "Rruga Vangjush Furxhi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32394287\n  lng: 19.80946621\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 19\nratings:\n  overall: 9.3\n  location: 8.8\n  cleanliness: 9.3\n  facilities: 9.4\n  value: 9.3\n  comfort: 9.3\n  staff: 8.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641139.jpg?k=5d6f5a03443dfc9e1c02089290e14966dd0e51f47bfef52176e220cff8b6d5fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641168.jpg?k=d46628810b79b11946c0fd6a0ec6372b69edbbc5cf7424e9ea47d73cb014c851&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641206.jpg?k=f44c8609bcd0b230c446780dbd228b9c046827ed049dd1c844f97bf727c32174&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641149.jpg?k=515ed04f559fad65fbd996cfdc976d121ef79657a1045ed822bdfe2fbfc74832&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641175.jpg?k=017a915846d20438794dabb6567aa47bbce32c3ef8e242e6caec523ef18e33ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410920575.jpg?k=78673447904d24ac9e17e19c609c3e3f7c200e445f73d81acafccaed58d65a06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641143.jpg?k=7ffa12d6d712055690c571113aeab181b1fa1aebece1d1197b75f21545752e76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641141.jpg?k=cfba5488c186563109643cb11b25d410623223609acfaaccf634e00398d6e4d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410925169.jpg?k=7daf801513b28fcd18431060223cc90e33e7ad48422c241119cfd73b35f81f1b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 900 m"\n  - "Skanderbeg Square 900 m"\n  - "Clock Tower Tirana 950 m"\n  - "National Gallery of Arts Tirana 1,000 m"\n  - "Tanners' Bridge 1.4 km"\n  - "Grand Park of Tirana 1.9 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Fast Food Time Out 50 m"\n  - "Bar Kafe Tepelena 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Blloku 1 Maji 500 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 600 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 600 m"\n  - "House of Leaves 650 m"\n  - "Former Residence of Enver Hoxha 750 m"\n  - "Rinia Park 750 m"\n  - "Sheshi Paris 750 m"\n  - "Sheshi Rekreativ Komuna e Parisit 800 m"\n  - "Sheshi Rekreativ Sali Butka 800 m"\n  - "Parku Rinia 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Deni"\n    country: "Germany"\n    text: "“Very cozy apartment, you find everything you need. Great location!”"\n  - name: "Deni"\n    country: "Germany"\n    text: "“The apartment is very cozy, clean and comfy. The location was great. Shops and main streets nearby.”"\n  - name: "Pedro"\n    country: "Brazil"\n    text: "“Before booking the apartment I had a feeling that it is close to the city center but only when I got there I truly understood how central it is. I appreciated that the host provided everything that you need for a comfortable stay- shampoo, soap,...”"\nbookingURL: "https://www.booking.com/hotel/al/helgas-sunset-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis modern apartment is equipped with air conditioning and offers a serene retreat with its well-appointed bedroom, a flat-screen TV equipped with streaming services for entertainment, and a fully equipped kitchen. The kitchen amenities, including an oven, microwave, washing machine, toaster, and fridge, cater to the needs of guests preferring home-cooked meals. Emphasizing a smoke-free environment, Helga’s Sunset ensures a pleasant stay for all guests.
+---
+title: "Helga’s Sunset apartment"
+description: "Helga's Sunset apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641139.jpg?k=5d6f5a03443dfc9e1c02089290e14966dd0e51f47bfef52176e220cff8b6d5fc&o=&hp=1"
+language: en
+slug: helga-s-sunset-apartment
+address: "Rruga Vangjush Furxhi, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32394287
+  lng: 19.80946621
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 19
+ratings:
+  overall: 9.3
+  location: 8.8
+  cleanliness: 9.3
+  facilities: 9.4
+  value: 9.3
+  comfort: 9.3
+  staff: 8.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641139.jpg?k=5d6f5a03443dfc9e1c02089290e14966dd0e51f47bfef52176e220cff8b6d5fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641168.jpg?k=d46628810b79b11946c0fd6a0ec6372b69edbbc5cf7424e9ea47d73cb014c851&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641206.jpg?k=f44c8609bcd0b230c446780dbd228b9c046827ed049dd1c844f97bf727c32174&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641149.jpg?k=515ed04f559fad65fbd996cfdc976d121ef79657a1045ed822bdfe2fbfc74832&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641175.jpg?k=017a915846d20438794dabb6567aa47bbce32c3ef8e242e6caec523ef18e33ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410920575.jpg?k=78673447904d24ac9e17e19c609c3e3f7c200e445f73d81acafccaed58d65a06&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641143.jpg?k=7ffa12d6d712055690c571113aeab181b1fa1aebece1d1197b75f21545752e76&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641141.jpg?k=cfba5488c186563109643cb11b25d410623223609acfaaccf634e00398d6e4d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410925169.jpg?k=7daf801513b28fcd18431060223cc90e33e7ad48422c241119cfd73b35f81f1b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Museum of History Albania 900 m"
+  - "Skanderbeg Square 900 m"
+  - "Clock Tower Tirana 950 m"
+  - "National Gallery of Arts Tirana 1,000 m"
+  - "Tanners' Bridge 1.4 km"
+  - "Grand Park of Tirana 1.9 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Fast Food Time Out 50 m"
+  - "Bar Kafe Tepelena 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Blloku 1 Maji 500 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 600 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 600 m"
+  - "House of Leaves 650 m"
+  - "Former Residence of Enver Hoxha 750 m"
+  - "Rinia Park 750 m"
+  - "Sheshi Paris 750 m"
+  - "Sheshi Rekreativ Komuna e Parisit 800 m"
+  - "Sheshi Rekreativ Sali Butka 800 m"
+  - "Parku Rinia 850 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Deni"
+    country: "Germany"
+    text: "“Very cozy apartment, you find everything you need. Great location!”"
+  - name: "Deni"
+    country: "Germany"
+    text: "“The apartment is very cozy, clean and comfy. The location was great. Shops and main streets nearby.”"
+  - name: "Pedro"
+    country: "Brazil"
+    text: "“Before booking the apartment I had a feeling that it is close to the city center but only when I got there I truly understood how central it is. I appreciated that the host provided everything that you need for a comfortable stay- shampoo, soap,...”"
+bookingURL: "https://www.booking.com/hotel/al/helgas-sunset-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This modern apartment is equipped with air conditioning and offers a serene retreat with its well-appointed bedroom, a flat-screen TV equipped with streaming services for entertainment, and a fully equipped kitchen. The kitchen amenities, including an oven, microwave, washing machine, toaster, and fridge, cater to the needs of guests preferring home-cooked meals. Emphasizing a smoke-free environment, Helga’s Sunset ensures a pleasant stay for all guests.
 
 For those keen to explore Tirana's vibrant culture, the apartment is conveniently located near Rinia Park, the Clock Tower of Tirana, and the historic Et'hem Bey Mosque. Additionally, the proximity to Tirana International Mother Teresa Airport, just 14 km away, makes Helga’s Sunset an ideal base for both short and extended stays in the city. With complimentary WiFi available throughout the property, guests can stay connected and share their experiences with ease.
 

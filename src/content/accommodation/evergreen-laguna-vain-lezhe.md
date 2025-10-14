@@ -1,4 +1,80 @@
----\ntitle: "Evergreen Laguna Vain-Lezhe"\ndescription: "Evergreen Laguna Vain-Lezhe emerges as a serene oasis in Lezhë, a mere stone's throw away from the historic Rozafa Castle Shkodra, offering a blend of comfort and convenience for travelers."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528836963.jpg?k=0b58554dcd29f4c2281d7067d9fecebaa3c56cabc8114485157bef8050151d50&o=&hp=1"\nlanguage: en\nslug: evergreen-laguna-vain-lezhe\naddress: "Lezhë - Ishull - Vain, 4501 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.756735\n  lng: 19.6134979\nprice: "US$63"\npriceFrom: 63\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528836963.jpg?k=0b58554dcd29f4c2281d7067d9fecebaa3c56cabc8114485157bef8050151d50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528835176.jpg?k=331fe21e84cb9bac6f7a0f5366b7de42242c58bc66c3136f5ca7e4c7bfff0c3e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528833442.jpg?k=3ea84536b99e2a1f95436cddf93480a250a34e975107fe790fd06efd703feff7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525696521.jpg?k=7c35f37a5dd2ede53b12e9fc0fe3643fc24453078cd6257d238fa386a97ed074&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528860476.jpg?k=5b24a43c8799bdfb2ea1f78d63f36f1ae3cfed17be0dc29216ae23c1da03ac7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525697935.jpg?k=3b7d5144b1c5d20f1077a493f67f63aa9c46cc168ba71d5cae699e1b6fd5009a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double or Twin Room"\n  - "Double or Twin Room"\n  - "Double or Twin Room"\n  - "Double or Twin Room"\n  - "Double or Twin Room"\n  - "Double or Twin Room"\nnearbyRestaurants:\n  - "Ishulli I Peshkatareve 250 m"\n  - "Restorant Begu 1.2 km"\nnearbyBeaches:\n  - "Laguna Park Beach 1.7 km"\n  - "Kune Beach 2.1 km"\n  - "Ylberi Beach 4.3 km"\n  - "Tale Beach 4.6 km"\n  - "Shëngjin Beach 4.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 37 km"\n  - "Podgorica Airport 72 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Curraj"\n    country: "Albania"\n    text: "“Great location, really pleasant and clean rooms.he dedication of the staff always to execute everything to the satisfaction of the customer. Evergreen was a new hotel but I really liked the stay there, they have done a nice work with everything...”"\nbookingURL: "https://www.booking.com/hotel/al/evergreen.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nAccommodations at Evergreen Laguna Vain-Lezhe are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with essential amenities such as a wardrobe, a safety deposit box for valuables, and a flat-screen TV for entertainment. The inclusion of a private balcony offers a personal outdoor space to enjoy, while the ensuite bathroom, complete with a bidet, adds an extra layer of privacy and convenience.
+---
+title: "Evergreen Laguna Vain-Lezhe"
+description: "Evergreen Laguna Vain-Lezhe emerges as a serene oasis in Lezhë, a mere stone's throw away from the historic Rozafa Castle Shkodra, offering a blend of comfort and convenience for travelers."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528836963.jpg?k=0b58554dcd29f4c2281d7067d9fecebaa3c56cabc8114485157bef8050151d50&o=&hp=1"
+language: en
+slug: evergreen-laguna-vain-lezhe
+address: "Lezhë - Ishull - Vain, 4501 Lezhë, Albania"
+city: "Lezhë"
+location: "Lezhë"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.756735
+  lng: 19.6134979
+price: "US$63"
+priceFrom: 63
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528836963.jpg?k=0b58554dcd29f4c2281d7067d9fecebaa3c56cabc8114485157bef8050151d50&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528835176.jpg?k=331fe21e84cb9bac6f7a0f5366b7de42242c58bc66c3136f5ca7e4c7bfff0c3e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528833442.jpg?k=3ea84536b99e2a1f95436cddf93480a250a34e975107fe790fd06efd703feff7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525696521.jpg?k=7c35f37a5dd2ede53b12e9fc0fe3643fc24453078cd6257d238fa386a97ed074&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528860476.jpg?k=5b24a43c8799bdfb2ea1f78d63f36f1ae3cfed17be0dc29216ae23c1da03ac7f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525697935.jpg?k=3b7d5144b1c5d20f1077a493f67f63aa9c46cc168ba71d5cae699e1b6fd5009a&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double or Twin Room"
+  - "Double or Twin Room"
+  - "Double or Twin Room"
+  - "Double or Twin Room"
+  - "Double or Twin Room"
+  - "Double or Twin Room"
+nearbyRestaurants:
+  - "Ishulli I Peshkatareve 250 m"
+  - "Restorant Begu 1.2 km"
+nearbyBeaches:
+  - "Laguna Park Beach 1.7 km"
+  - "Kune Beach 2.1 km"
+  - "Ylberi Beach 4.3 km"
+  - "Tale Beach 4.6 km"
+  - "Shëngjin Beach 4.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 37 km"
+  - "Podgorica Airport 72 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Curraj"
+    country: "Albania"
+    text: "“Great location, really pleasant and clean rooms.he dedication of the staff always to execute everything to the satisfaction of the customer. Evergreen was a new hotel but I really liked the stay there, they have done a nice work with everything...”"
+bookingURL: "https://www.booking.com/hotel/al/evergreen.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+Accommodations at Evergreen Laguna Vain-Lezhe are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with essential amenities such as a wardrobe, a safety deposit box for valuables, and a flat-screen TV for entertainment. The inclusion of a private balcony offers a personal outdoor space to enjoy, while the ensuite bathroom, complete with a bidet, adds an extra layer of privacy and convenience.
 
 Mornings at Evergreen Laguna Vain-Lezhe start on a high note with a buffet breakfast, providing a variety of options to cater to different tastes and preferences. 
 

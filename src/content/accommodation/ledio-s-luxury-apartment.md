@@ -1,4 +1,63 @@
----\ntitle: "Ledio’s Luxury Apartment"\ndescription: "Ledio's Luxury Apartment, located in the serene Pogradec area of Korçë County, offers guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404287.jpg?k=b65e62ab1ade1769ecc38aada969b9a1ff5b808250d4d683f0e373de068f70e0&o=&hp=1"\nlanguage: en\nslug: ledio-s-luxury-apartment\naddress: "Rruga Mehdi Zavelani 2nd Floor , Apartment No.5, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90055124\n  lng: 20.66959338\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 11\nratings:\n  overall: 9.7\n  location: 9.8\n  cleanliness: 9.8\n  facilities: 9.8\n  value: 9.5\n  comfort: 9.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404287.jpg?k=b65e62ab1ade1769ecc38aada969b9a1ff5b808250d4d683f0e373de068f70e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479407387.jpg?k=0c648af2212c0d15f84303dbc77f4016135048f9329240a37972929cf8f67c64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404618.jpg?k=315e5e02e5d635a68420874636c90f5f5ae3179cf1017ac460d7bf4f1db77cc8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404534.jpg?k=496fe9298d0d34c514431e97c50b0fccb8876f1d3caf2c32dedc606b1375df75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404851.jpg?k=875ed8c2de0c1bd9b19f3fcc58bc1ed81f166a1ad4a32f5edb296c153faeb353&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479410755.jpg?k=21e96d5d7356095d178aba2bb807c3562e7286cc658881fc86896bf93bc7016c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479405820.jpg?k=09b5f6705e02ddde4d3f64edc32b7c54db68ab9953be3ffc71bd9f222a0da24e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479403975.jpg?k=98788c2388dd6ac1c475da6974fa5d94f3cd59003d091a4684e37269df02071f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479403608.jpg?k=c1eb0c0a04480fa2e398edb69ab968fc0e5696effdd4723f7aa2092e6d150464&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nreviews:\n  - name: "Hima"\n    country: "Albania"\n    text: "“everything was like in photos.20 m far from lake .everythink was clean and confortable .”"\n  - name: "D"\n    country: "Albania"\n    text: "“The owner was kind. The apartment was very nice and i liked it a lot. Totally suggested! 🔥”"\n  - name: "Firdeus"\n    country: "Albania"\n    text: "“The apartment was clean, comfortable and spacious. Highly recommend!”"\nbookingURL: "https://www.booking.com/hotel/al/ledios-luxury-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe apartment itself is a haven of modern amenities and thoughtful design. Guests will find themselves enveloped in comfort, thanks to the air-conditioned interiors that feature two cozy bedrooms, a satellite flat-screen TV for entertainment, and a dining area perfect for enjoying meals. The fully equipped kitchen, complete with a fridge, invites guests to whip up their favorite dishes, while the spacious living room provides a relaxing retreat after a day of adventure. The inclusion of a bidet and a dressing room in the unit adds a touch of luxury and convenience.
+---
+title: "Ledio’s Luxury Apartment"
+description: "Ledio's Luxury Apartment, located in the serene Pogradec area of Korçë County, offers guests a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404287.jpg?k=b65e62ab1ade1769ecc38aada969b9a1ff5b808250d4d683f0e373de068f70e0&o=&hp=1"
+language: en
+slug: ledio-s-luxury-apartment
+address: "Rruga Mehdi Zavelani 2nd Floor , Apartment No.5, 7301 Pogradec, Albania"
+city: "Pogradec"
+location: "Pogradec"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.90055124
+  lng: 20.66959338
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 11
+ratings:
+  overall: 9.7
+  location: 9.8
+  cleanliness: 9.8
+  facilities: 9.8
+  value: 9.5
+  comfort: 9.5
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404287.jpg?k=b65e62ab1ade1769ecc38aada969b9a1ff5b808250d4d683f0e373de068f70e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479407387.jpg?k=0c648af2212c0d15f84303dbc77f4016135048f9329240a37972929cf8f67c64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404618.jpg?k=315e5e02e5d635a68420874636c90f5f5ae3179cf1017ac460d7bf4f1db77cc8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404534.jpg?k=496fe9298d0d34c514431e97c50b0fccb8876f1d3caf2c32dedc606b1375df75&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404851.jpg?k=875ed8c2de0c1bd9b19f3fcc58bc1ed81f166a1ad4a32f5edb296c153faeb353&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479410755.jpg?k=21e96d5d7356095d178aba2bb807c3562e7286cc658881fc86896bf93bc7016c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479405820.jpg?k=09b5f6705e02ddde4d3f64edc32b7c54db68ab9953be3ffc71bd9f222a0da24e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479403975.jpg?k=98788c2388dd6ac1c475da6974fa5d94f3cd59003d091a4684e37269df02071f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479403608.jpg?k=c1eb0c0a04480fa2e398edb69ab968fc0e5696effdd4723f7aa2092e6d150464&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+reviews:
+  - name: "Hima"
+    country: "Albania"
+    text: "“everything was like in photos.20 m far from lake .everythink was clean and confortable .”"
+  - name: "D"
+    country: "Albania"
+    text: "“The owner was kind. The apartment was very nice and i liked it a lot. Totally suggested! 🔥”"
+  - name: "Firdeus"
+    country: "Albania"
+    text: "“The apartment was clean, comfortable and spacious. Highly recommend!”"
+bookingURL: "https://www.booking.com/hotel/al/ledios-luxury-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+The apartment itself is a haven of modern amenities and thoughtful design. Guests will find themselves enveloped in comfort, thanks to the air-conditioned interiors that feature two cozy bedrooms, a satellite flat-screen TV for entertainment, and a dining area perfect for enjoying meals. The fully equipped kitchen, complete with a fridge, invites guests to whip up their favorite dishes, while the spacious living room provides a relaxing retreat after a day of adventure. The inclusion of a bidet and a dressing room in the unit adds a touch of luxury and convenience.
 
 Privacy is paramount at Ledio's Luxury Apartment, as evidenced by the private entrance that ensures guests can enjoy their stay without intrusion. The proximity to significant landmarks, such as the Church of St. John at Kaneo and the Cave Church Archangel Michael, further enhances the appeal of this property. For those traveling by air, the Ohrid Airport is just 45 km away, making arrivals and departures a breeze.
 

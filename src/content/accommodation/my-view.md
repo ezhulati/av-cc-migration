@@ -1,4 +1,71 @@
----\ntitle: "My view"\ndescription: "Discover the charm of Orikum from the comfort of \"My View,\" a serene property that boasts a lush garden and an inviting terrace."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258216.jpg?k=f45664371a64e83f8335ec9db557934c19b9f312dde8b84db52d9c9d5ce3d3db&o=&hp=1"\nlanguage: en\nslug: my-view\naddress: "Rruga Orikum, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.34009711\n  lng: 19.47648757\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 6\nratings:\n  overall: 7.8\n  location: 8\n  cleanliness: 8.8\n  facilities: 7.5\n  value: 6.7\n  comfort: 7.5\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258216.jpg?k=f45664371a64e83f8335ec9db557934c19b9f312dde8b84db52d9c9d5ce3d3db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258397.jpg?k=375fd2d875a72891f2bca9000b099544ab62be7a96c646173f09562141227919&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258297.jpg?k=fc0bcf618b965c4282b8494ed0fa290ce3db27845e96128f5ff8c9d912af2968&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258379.jpg?k=827edb036dccfd109d33e0791a890df241b687b1ed840edf8f4640ef17964b3d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258370.jpg?k=42bacbf3715bf674d5964e919a51da2c8f9092fd4506b2ebee5b6129215f9ef5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258270.jpg?k=3dc82c15c7f94e86e7b6f3484fd513b64bbdac3e4c31ae526cf2638dd70fc9f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258364.jpg?k=d06ec9cd67727e42916aa80c8a96c3aac0fad5467a0082e526b11b83d73a947b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258391.jpg?k=7e2fac41d602e89051e76235cf2b4501c51c33e6d621269e1063d1a1191a3077&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258278.jpg?k=225920ce1307a11530db3349efb8423beaba47c15c889aeca189ab64fb197d2f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Kume 150 m"\n  - "Restorant Ibiza 300 m"\nnearbyBeaches:\n  - "Baro Beach 200 m"\n  - "Nettuno Beach 500 m"\n  - "Al Breeze Beach 850 m"\n  - "Radhimë Beach 1.5 km"\n  - "Orikum Beach 2.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 11 km"\n  - "Llogora National Park 14 km"\n  - "Kuzum Baba 14 km"\n  - "Independence Square 15 km"\nairports:\n  - "Corfu International Airport 89 km"\nbookingURL: "https://www.booking.com/hotel/al/my-view.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests of "My View" are treated to the luxury of space and modern amenities in an air-conditioned apartment that features two cozy bedrooms, a flat-screen TV for entertainment, and a fully equipped kitchen for those moments when dining in feels just right. The added benefits of complimentary private parking and WiFi ensure a hassle-free stay from start to finish.
+---
+title: "My view"
+description: "Discover the charm of Orikum from the comfort of \"My View,\" a serene property that boasts a lush garden and an inviting terrace."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258216.jpg?k=f45664371a64e83f8335ec9db557934c19b9f312dde8b84db52d9c9d5ce3d3db&o=&hp=1"
+language: en
+slug: my-view
+address: "Rruga Orikum, 9426 Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.34009711
+  lng: 19.47648757
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 7.8
+ratingWords: "Good"
+numberOfReviews: 6
+ratings:
+  overall: 7.8
+  location: 8
+  cleanliness: 8.8
+  facilities: 7.5
+  value: 6.7
+  comfort: 7.5
+  staff: 8.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258216.jpg?k=f45664371a64e83f8335ec9db557934c19b9f312dde8b84db52d9c9d5ce3d3db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258397.jpg?k=375fd2d875a72891f2bca9000b099544ab62be7a96c646173f09562141227919&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258297.jpg?k=fc0bcf618b965c4282b8494ed0fa290ce3db27845e96128f5ff8c9d912af2968&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258379.jpg?k=827edb036dccfd109d33e0791a890df241b687b1ed840edf8f4640ef17964b3d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258370.jpg?k=42bacbf3715bf674d5964e919a51da2c8f9092fd4506b2ebee5b6129215f9ef5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258270.jpg?k=3dc82c15c7f94e86e7b6f3484fd513b64bbdac3e4c31ae526cf2638dd70fc9f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258364.jpg?k=d06ec9cd67727e42916aa80c8a96c3aac0fad5467a0082e526b11b83d73a947b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258391.jpg?k=7e2fac41d602e89051e76235cf2b4501c51c33e6d621269e1063d1a1191a3077&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258278.jpg?k=225920ce1307a11530db3349efb8423beaba47c15c889aeca189ab64fb197d2f&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Kume 150 m"
+  - "Restorant Ibiza 300 m"
+nearbyBeaches:
+  - "Baro Beach 200 m"
+  - "Nettuno Beach 500 m"
+  - "Al Breeze Beach 850 m"
+  - "Radhimë Beach 1.5 km"
+  - "Orikum Beach 2.1 km"
+whatsNearby:
+  - "Scooby Doo Vlore 11 km"
+  - "Llogora National Park 14 km"
+  - "Kuzum Baba 14 km"
+  - "Independence Square 15 km"
+airports:
+  - "Corfu International Airport 89 km"
+bookingURL: "https://www.booking.com/hotel/al/my-view.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests of "My View" are treated to the luxury of space and modern amenities in an air-conditioned apartment that features two cozy bedrooms, a flat-screen TV for entertainment, and a fully equipped kitchen for those moments when dining in feels just right. The added benefits of complimentary private parking and WiFi ensure a hassle-free stay from start to finish.
 
 Set a mere 300 meters from the serene Baro Beach, this non-smoking property promises a peaceful retreat. Whether enjoying the view from the private balcony or taking a leisurely stroll to the nearby beaches, guests are guaranteed a memorable stay.
 

@@ -1,1 +1,54 @@
----\ntitle: "Te Raqi"\ndescription: "Te Raqi, a charming accommodation option in Gjirokastër, stands out for its thoughtful amenities and strategic location."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510100008.jpg?k=934c2b46f23010f88a46fa531902fc3ddb0d04f1893aab6258f246314a2881c9&o=&hp=1"\nlanguage: en\nslug: te-raqi\naddress: "Rruga Doktor Vasil Laboviti, 6002 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.07858816\n  lng: 20.13758208\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510100008.jpg?k=934c2b46f23010f88a46fa531902fc3ddb0d04f1893aab6258f246314a2881c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100059.jpg?k=ad98835c98a401618abb8e3353bee4e58baa6c2e2a1874a21a7220f2446ab770&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100061.jpg?k=b5b7e6a38fc81ca542d0fc0285a296e10ffeab7c40bc3b33a0a7645d1e4624e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100064.jpg?k=26ba62179542e4ffba9eeca74c523b6354a98907954cdbd7664d60548bde6806&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100067.jpg?k=893ff2f17c1a9632310bd0ad81652a63c692adf46346793cab2b3dd05289736c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100071.jpg?k=4c6fcf0a4da50067ed08e0eb0b5d1d6923fa13e6848c937779e1c01395fe704c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Private Bathroom"\nnearbyRestaurants:\n  - "Te Raqi 10 m"\n  - "La Bière 50 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nbookingURL: "https://www.booking.com/hotel/al/te-raqi.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nSituated a mere 44 km from the serene Zaravina Lake and 83 km from Ioannina Airport, Te Raqi positions itself as an ideal base for explorers looking to uncover the beauty of Gjirokastër and its surroundings. The property's vantage point offers captivating city views, promising a picturesque backdrop to every stay.
+---
+title: "Te Raqi"
+description: "Te Raqi, a charming accommodation option in Gjirokastër, stands out for its thoughtful amenities and strategic location."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510100008.jpg?k=934c2b46f23010f88a46fa531902fc3ddb0d04f1893aab6258f246314a2881c9&o=&hp=1"
+language: en
+slug: te-raqi
+address: "Rruga Doktor Vasil Laboviti, 6002 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.07858816
+  lng: 20.13758208
+price: "US$31"
+priceFrom: 31
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510100008.jpg?k=934c2b46f23010f88a46fa531902fc3ddb0d04f1893aab6258f246314a2881c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100059.jpg?k=ad98835c98a401618abb8e3353bee4e58baa6c2e2a1874a21a7220f2446ab770&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100061.jpg?k=b5b7e6a38fc81ca542d0fc0285a296e10ffeab7c40bc3b33a0a7645d1e4624e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100064.jpg?k=26ba62179542e4ffba9eeca74c523b6354a98907954cdbd7664d60548bde6806&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100067.jpg?k=893ff2f17c1a9632310bd0ad81652a63c692adf46346793cab2b3dd05289736c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/510100071.jpg?k=4c6fcf0a4da50067ed08e0eb0b5d1d6923fa13e6848c937779e1c01395fe704c&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Private Bathroom"
+nearbyRestaurants:
+  - "Te Raqi 10 m"
+  - "La Bière 50 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 71 km"
+bookingURL: "https://www.booking.com/hotel/al/te-raqi.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Situated a mere 44 km from the serene Zaravina Lake and 83 km from Ioannina Airport, Te Raqi positions itself as an ideal base for explorers looking to uncover the beauty of Gjirokastër and its surroundings. The property's vantage point offers captivating city views, promising a picturesque backdrop to every stay.

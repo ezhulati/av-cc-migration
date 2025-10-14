@@ -1,4 +1,83 @@
----\ntitle: "Sunset Serenity by Ana"\ndescription: "Sunset Serenity by Ana emerges as a gem in Durrës, boasting a prime location close to the pristine Durres Beach, the picturesque Shkëmbi i Kavajës Beach, and the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019213.jpg?k=f4994c8896c996880f0db03612c72d2b7abc94cf6dccd7738c0bd260b87093db&o=&hp=1"\nlanguage: en\nslug: sunset-serenity-by-ana\naddress: "Rruga \"Ankona\", Ndertesa 3, Hyrja 1, Apartamenti 27, Plazh Durres Kati 5, apartamenti 27, 2021 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28521694\n  lng: 19.51083527\nprice: "US$94"\npriceFrom: 94\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019213.jpg?k=f4994c8896c996880f0db03612c72d2b7abc94cf6dccd7738c0bd260b87093db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018931.jpg?k=e51ee574a6e1ab492eccbb771d85f38ac22394a112a479b8877238dad03fa108&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018989.jpg?k=0bbd6bf1f3d3f43d3e27ffebd878d4e55fe5ad233577655151fdbbe5860f77e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018663.jpg?k=eba299de03bdd12b9078b1dbe92c5f9265e4bd572dba07e21cee04c5a8422663&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018864.jpg?k=20ffb401f0065f32fd71e9b7011787c49ac0f2c7bdf84cdca9b45a31d37ea5bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019117.jpg?k=0a16780260c338c09b9d78bb73c519a32605f3b034be18fc21381f80fb9e7db6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018944.jpg?k=6b9c457ec0e6abaebab216f4d4a1adaa08fe6c79979173154ad2386c5e15abee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019009.jpg?k=33c343b6ff0b2a859e7525d3e9523bd5a8bda20edb11a32074384aa0a4ab0728&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494671797.jpg?k=56ba02770da4c9b2ce04a062be0b080e92834bb1075af4b89a0f3c55ae87833d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Restorant 4 Stinet Plazh 50 m"\n  - "Tiara .Bar-Restorant 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Durres Beach 150 m"\n  - "Golem Beach 2.3 km"\n  - "Mali I Robit Beach 4.2 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "1. Maj 6 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Nataliia"\n    country: "Norway"\n    text: "“The house was so close to the beach, located in a peaceful and beautiful area. very clean and the kitchen had everything we needed. Friendly and responsive host. Totally recommend!”"\nbookingURL: "https://www.booking.com/hotel/al/nevis-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are welcomed into a spacious apartment that not only offers a balcony with breathtaking sea views but also features a well-appointed living room, a flat-screen TV for entertainment, and a fully equipped kitchen with modern appliances including an oven and a microwave. The comfort extends to the bedroom and the bathroom, which is complete with a bidet, while towels and bed linen are thoughtfully provided, enhancing the home-away-from-home experience. Additionally, the apartment affords guests the pleasure of garden views, adding to the overall ambiance of tranquility.
+---
+title: "Sunset Serenity by Ana"
+description: "Sunset Serenity by Ana emerges as a gem in Durrës, boasting a prime location close to the pristine Durres Beach, the picturesque Shkëmbi i Kavajës Beach, and the iconic Rock of Kavaje."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019213.jpg?k=f4994c8896c996880f0db03612c72d2b7abc94cf6dccd7738c0bd260b87093db&o=&hp=1"
+language: en
+slug: sunset-serenity-by-ana
+address: "Rruga \"Ankona\", Ndertesa 3, Hyrja 1, Apartamenti 27, Plazh Durres Kati 5, apartamenti 27, 2021 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.28521694
+  lng: 19.51083527
+price: "US$94"
+priceFrom: 94
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019213.jpg?k=f4994c8896c996880f0db03612c72d2b7abc94cf6dccd7738c0bd260b87093db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018931.jpg?k=e51ee574a6e1ab492eccbb771d85f38ac22394a112a479b8877238dad03fa108&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018989.jpg?k=0bbd6bf1f3d3f43d3e27ffebd878d4e55fe5ad233577655151fdbbe5860f77e6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018663.jpg?k=eba299de03bdd12b9078b1dbe92c5f9265e4bd572dba07e21cee04c5a8422663&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018864.jpg?k=20ffb401f0065f32fd71e9b7011787c49ac0f2c7bdf84cdca9b45a31d37ea5bb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019117.jpg?k=0a16780260c338c09b9d78bb73c519a32605f3b034be18fc21381f80fb9e7db6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489018944.jpg?k=6b9c457ec0e6abaebab216f4d4a1adaa08fe6c79979173154ad2386c5e15abee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489019009.jpg?k=33c343b6ff0b2a859e7525d3e9523bd5a8bda20edb11a32074384aa0a4ab0728&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494671797.jpg?k=56ba02770da4c9b2ce04a062be0b080e92834bb1075af4b89a0f3c55ae87833d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Restorant 4 Stinet Plazh 50 m"
+  - "Tiara .Bar-Restorant 100 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 100 m"
+  - "Durres Beach 150 m"
+  - "Golem Beach 2.3 km"
+  - "Mali I Robit Beach 4.2 km"
+  - "Currila Beach 6 km"
+whatsNearby:
+  - "Bekimi 6 km"
+  - "Wine Dhe Pooh 6 km"
+  - "Durres Amphiteatre 6 km"
+  - "Yje Dhe Hena 6 km"
+  - "Sheshi Demokracia 6 km"
+  - "1. Maj 6 km"
+  - "Sotir Noka 7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Nataliia"
+    country: "Norway"
+    text: "“The house was so close to the beach, located in a peaceful and beautiful area. very clean and the kitchen had everything we needed. Friendly and responsive host. Totally recommend!”"
+bookingURL: "https://www.booking.com/hotel/al/nevis-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are welcomed into a spacious apartment that not only offers a balcony with breathtaking sea views but also features a well-appointed living room, a flat-screen TV for entertainment, and a fully equipped kitchen with modern appliances including an oven and a microwave. The comfort extends to the bedroom and the bathroom, which is complete with a bidet, while towels and bed linen are thoughtfully provided, enhancing the home-away-from-home experience. Additionally, the apartment affords guests the pleasure of garden views, adding to the overall ambiance of tranquility.
 
 For convenience, a minimarket on the premises caters to guests' everyday needs, ensuring that essentials are always within reach.
 

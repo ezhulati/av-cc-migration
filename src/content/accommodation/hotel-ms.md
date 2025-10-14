@@ -1,4 +1,89 @@
----\ntitle: "Hotel MS"\ndescription: "Hotel MS stands as a beacon of comfort and convenience in the heart of Sarandë, offering guests an exceptional stay with its stunning sea views and easy beach access."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104597688.jpg?k=b9d2b44ed8a14a0ad1fba4cb9b3aeb8b1adc87f71592d166698daab161f2e8b7&o=&hp=1"\nlanguage: en\nslug: hotel-ms\naddress: "Rruga \"Bilal Golemi\", 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87051731\n  lng: 20.01475632\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 76\nratings:\n  overall: 8.9\n  location: 9.6\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.1\n  comfort: 9.1\n  staff: 9.7\n  wifi: 6.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104597688.jpg?k=b9d2b44ed8a14a0ad1fba4cb9b3aeb8b1adc87f71592d166698daab161f2e8b7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471431067.jpg?k=2dddc22c14268e1956656a0887f929bf6255c91588d3f3d7a765cbbbf03c66fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374089378.jpg?k=0843d088bce6959a250d5c22bfb61b4cbfe039d8f9c47e467bb23138451cca8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680458.jpg?k=fa14b3aba0155238813700dba877b4d805c4e5b8caa09624ab9da3cbe8b99786&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680377.jpg?k=2658a486becca96988538e990f4eff2cc5c8277654583f6e118bb925a4fef95c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680654.jpg?k=df120a868e5878e3d2a00b43bb7e8d3becebad37226bdeac50f598b4c05d8b65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374089377.jpg?k=699288f9f518870d3d428c4c99057843baa482bbddec44ac6000de5b483de1df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200686081.jpg?k=bfbf61f721e377bbe86500eb00b2b724897d02812dc8c725f2676567d7731efa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680389.jpg?k=2188580d7da884f4db4c2a6e0b74403379b38879bd8793678029b75c5d54e772&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Terrace"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Sweet Liberty 20 m"\n  - "Ine's grill and beer 40 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 200 m"\n  - "Maestral Beach 400 m"\n  - "Sarande Main Beach 1 km"\n  - "VIP Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Luigi"\n    country: "Czech Republic"\n    text: "“Everything was super : perfect location, attentive staff and delicious breakfast. And not to forget the view from the balcony. I suggest this place and would definitely consider revisiting if I return to Saranda.”"\n  - name: "Michael"\n    country: "Netherlands"\n    text: "“Great location, very near to everything you needed, in a walking distance. Each one of the staff was helpful and always with a greeting smile. Wide variety of buffet breakfast.”"\n  - name: "Diba"\n    country: "Netherlands"\n    text: "“We really enjoyed our stay at MS hotel. Because it is a small hotel it feels very personal and the owners do everything to make you have a good stay. The beds felt very soft, for us there was almost no noise at night. You stay just across the...”"\nbookingURL: "https://www.booking.com/hotel/al/balkan.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Hotel MS are meticulously designed to ensure maximum comfort. Each room is a haven of relaxation, featuring individual air conditioning, a flat-screen TV with satellite and cable channels, and a private balcony that showcases breathtaking views of the sea and city. The inclusion of a fridge and a private bathroom with a shower, hairdryer, and complimentary toiletries adds to the convenience of each stay.
+---
+title: "Hotel MS"
+description: "Hotel MS stands as a beacon of comfort and convenience in the heart of Sarandë, offering guests an exceptional stay with its stunning sea views and easy beach access."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104597688.jpg?k=b9d2b44ed8a14a0ad1fba4cb9b3aeb8b1adc87f71592d166698daab161f2e8b7&o=&hp=1"
+language: en
+slug: hotel-ms
+address: "Rruga \"Bilal Golemi\", 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.87051731
+  lng: 20.01475632
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 76
+ratings:
+  overall: 8.9
+  location: 9.6
+  cleanliness: 9.3
+  facilities: 8.9
+  value: 9.1
+  comfort: 9.1
+  staff: 9.7
+  wifi: 6.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104597688.jpg?k=b9d2b44ed8a14a0ad1fba4cb9b3aeb8b1adc87f71592d166698daab161f2e8b7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471431067.jpg?k=2dddc22c14268e1956656a0887f929bf6255c91588d3f3d7a765cbbbf03c66fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374089378.jpg?k=0843d088bce6959a250d5c22bfb61b4cbfe039d8f9c47e467bb23138451cca8d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680458.jpg?k=fa14b3aba0155238813700dba877b4d805c4e5b8caa09624ab9da3cbe8b99786&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680377.jpg?k=2658a486becca96988538e990f4eff2cc5c8277654583f6e118bb925a4fef95c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680654.jpg?k=df120a868e5878e3d2a00b43bb7e8d3becebad37226bdeac50f598b4c05d8b65&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374089377.jpg?k=699288f9f518870d3d428c4c99057843baa482bbddec44ac6000de5b483de1df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200686081.jpg?k=bfbf61f721e377bbe86500eb00b2b724897d02812dc8c725f2676567d7731efa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199680389.jpg?k=2188580d7da884f4db4c2a6e0b74403379b38879bd8793678029b75c5d54e772&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Private parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Terrace"
+  - "Very good breakfast"
+nearbyRestaurants:
+  - "Sweet Liberty 20 m"
+  - "Ine's grill and beer 40 m"
+nearbyBeaches:
+  - "Saranda City Beach 150 m"
+  - "La Petite Beach 200 m"
+  - "Maestral Beach 400 m"
+  - "Sarande Main Beach 1 km"
+  - "VIP Beach 1.3 km"
+whatsNearby:
+  - "Parc National de Butrint 1.5 km"
+  - "Butrint National Park 2.4 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Luigi"
+    country: "Czech Republic"
+    text: "“Everything was super : perfect location, attentive staff and delicious breakfast. And not to forget the view from the balcony. I suggest this place and would definitely consider revisiting if I return to Saranda.”"
+  - name: "Michael"
+    country: "Netherlands"
+    text: "“Great location, very near to everything you needed, in a walking distance. Each one of the staff was helpful and always with a greeting smile. Wide variety of buffet breakfast.”"
+  - name: "Diba"
+    country: "Netherlands"
+    text: "“We really enjoyed our stay at MS hotel. Because it is a small hotel it feels very personal and the owners do everything to make you have a good stay. The beds felt very soft, for us there was almost no noise at night. You stay just across the...”"
+bookingURL: "https://www.booking.com/hotel/al/balkan.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Hotel MS are meticulously designed to ensure maximum comfort. Each room is a haven of relaxation, featuring individual air conditioning, a flat-screen TV with satellite and cable channels, and a private balcony that showcases breathtaking views of the sea and city. The inclusion of a fridge and a private bathroom with a shower, hairdryer, and complimentary toiletries adds to the convenience of each stay.
 
 Connectivity is seamless throughout the property, thanks to complimentary WiFi access, ensuring guests are always in touch with the world or able to plan their next adventure. The 24-hour front desk service guarantees that every need is met promptly, day or night.
 

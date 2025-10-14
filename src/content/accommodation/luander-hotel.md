@@ -1,4 +1,101 @@
----\ntitle: "Luander Hotel"\ndescription: "Luander Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226048520.jpg?k=7d606f98e1d30fad1b0d4682c98bd309c6cd7b34461661d7d9c68def35bfc8b2&o=&hp=1"\nlanguage: en\nslug: luander-hotel\naddress: "Llazi Miho Tirane Sh 56, 1041 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.304821\n  lng: 19.75114496\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 165\nratings:\n  overall: 9.5\n  location: 7.9\n  cleanliness: 9.7\n  facilities: 9.6\n  value: 9.7\n  comfort: 9.7\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226048520.jpg?k=7d606f98e1d30fad1b0d4682c98bd309c6cd7b34461661d7d9c68def35bfc8b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477375843.jpg?k=ecb4b4edc99c1d71277201f166b5e9450afe893efab995da86be605e6fa699ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226046433.jpg?k=c224b2ab9c8062b838fb439eb62b89307fb5b2ba36e0017548981122d93f63ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361133004.jpg?k=997f4f81fccef33d3d1dfe4eb06e5423acebed1a5c47f05a9defb91abe30e36f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359060920.jpg?k=7315cebd2c0dfe6aad8d98bd6583ccfd277677572faf99b08876fad9bd426486&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361134743.jpg?k=444f750eedfc1f3f7d3747de215c745c3fc965ea1a5cf88b66d43fa6b83ea358&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361133698.jpg?k=d52b181e7babefec8912729763327de0361cd8ec5b1114921338e4f1e818ace4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361133929.jpg?k=166407a338d13dd901d8776435220e1fcf90c88bd33356a2c18d4e645ec94609&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372426783.jpg?k=44e27cacae913ec52ec7cc2bb241d21c678ee6da8a0e7daae6a681f7ff9e919b&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "King Suite with Spa Bath"\n  - "Triple Room with Balcony"\n  - "Deluxe Double Room"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 6 km"\n  - "House of Leaves 6 km"\n  - "Rinia Park 6 km"\n  - "National Museum of History Albania 6 km"\n  - "Skanderbeg Square 6 km"\n  - "Clock Tower Tirana 6 km"\n  - "Grand Park of Tirana 6 km"\n  - "National Gallery of Arts Tirana 6 km"\n  - "Tanners' Bridge 7 km"\n  - "Bunk'Art 1 Museum 10 km"\nnearbyRestaurants:\n  - "Bunkermar & Grill Bio 150 m"\n  - "Maksi 1.2 km"\nwhatsNearby:\n  - "Sheshi Rekreativ Kombinat 1.6 km"\n  - "Sheshi Xhuzepe Garibaldi 1.7 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 3.8 km"\n  - "Shesh Rekreativ Yzberisht 3.9 km"\n  - "Park Lojrash 3.9 km"\n  - "Sheshi Rekreativ Bajram Curri 4.2 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 4.3 km"\n  - "Sheshi Rekreativ Sali Butka 4.5 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 4.7 km"\n  - "Sheshi Rekreativ Parku 1Km 4.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Esther"\n    country: "Netherlands"\n    text: "“We booked this hotel as a first stop after our flight. It was amazing to swim under the stars after arrival. The room was amazing! Spacy, clean. Lovely balcony. Jacuzzi. Andry was a great help, answered all our questions. We decided to book...”"\n  - name: "Calum"\n    country: "United Kingdom"\n    text: "“Yet another excellent experience at Luander! This time I stayed in the King Bedroom with Spa and it was even better than the other rooms (which were already great!) The room was very spacious, had lots of nice decor, and the bed was huge! Best of...”"\n  - name: "Calum"\n    country: "United Kingdom"\n    text: "“As always, Luander was perfect! We stayed for a couple of days at the end of our trip to have a relaxing conclusion, and it was exactly how Luander always is - friendly, clean, accommodative, and relaxing. We took the triple bedroom with balcony...”"\nbookingURL: "https://www.booking.com/hotel/al/luander-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe hotel prides itself on offering a range of amenities designed to enhance the guest experience. Among these, a seasonal outdoor swimming pool stands out as a refreshing oasis for relaxation. Complimentary private parking, a shared lounge, and a welcoming bar add to the convenience and enjoyment of a stay here. The commitment to guest satisfaction is further evidenced by the provision of a 24-hour front desk, airport transfers, room service, and complimentary WiFi access throughout the property.
+---
+title: "Luander Hotel"
+description: "Luander Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226048520.jpg?k=7d606f98e1d30fad1b0d4682c98bd309c6cd7b34461661d7d9c68def35bfc8b2&o=&hp=1"
+language: en
+slug: luander-hotel
+address: "Llazi Miho Tirane Sh 56, 1041 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.304821
+  lng: 19.75114496
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 165
+ratings:
+  overall: 9.5
+  location: 7.9
+  cleanliness: 9.7
+  facilities: 9.6
+  value: 9.7
+  comfort: 9.7
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226048520.jpg?k=7d606f98e1d30fad1b0d4682c98bd309c6cd7b34461661d7d9c68def35bfc8b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477375843.jpg?k=ecb4b4edc99c1d71277201f166b5e9450afe893efab995da86be605e6fa699ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226046433.jpg?k=c224b2ab9c8062b838fb439eb62b89307fb5b2ba36e0017548981122d93f63ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361133004.jpg?k=997f4f81fccef33d3d1dfe4eb06e5423acebed1a5c47f05a9defb91abe30e36f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359060920.jpg?k=7315cebd2c0dfe6aad8d98bd6583ccfd277677572faf99b08876fad9bd426486&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361134743.jpg?k=444f750eedfc1f3f7d3747de215c745c3fc965ea1a5cf88b66d43fa6b83ea358&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361133698.jpg?k=d52b181e7babefec8912729763327de0361cd8ec5b1114921338e4f1e818ace4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361133929.jpg?k=166407a338d13dd901d8776435220e1fcf90c88bd33356a2c18d4e645ec94609&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372426783.jpg?k=44e27cacae913ec52ec7cc2bb241d21c678ee6da8a0e7daae6a681f7ff9e919b&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "King Suite with Spa Bath"
+  - "Triple Room with Balcony"
+  - "Deluxe Double Room"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 6 km"
+  - "House of Leaves 6 km"
+  - "Rinia Park 6 km"
+  - "National Museum of History Albania 6 km"
+  - "Skanderbeg Square 6 km"
+  - "Clock Tower Tirana 6 km"
+  - "Grand Park of Tirana 6 km"
+  - "National Gallery of Arts Tirana 6 km"
+  - "Tanners' Bridge 7 km"
+  - "Bunk'Art 1 Museum 10 km"
+nearbyRestaurants:
+  - "Bunkermar & Grill Bio 150 m"
+  - "Maksi 1.2 km"
+whatsNearby:
+  - "Sheshi Rekreativ Kombinat 1.6 km"
+  - "Sheshi Xhuzepe Garibaldi 1.7 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 3.8 km"
+  - "Shesh Rekreativ Yzberisht 3.9 km"
+  - "Park Lojrash 3.9 km"
+  - "Sheshi Rekreativ Bajram Curri 4.2 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 4.3 km"
+  - "Sheshi Rekreativ Sali Butka 4.5 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 4.7 km"
+  - "Sheshi Rekreativ Parku 1Km 4.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 84 km"
+reviews:
+  - name: "Esther"
+    country: "Netherlands"
+    text: "“We booked this hotel as a first stop after our flight. It was amazing to swim under the stars after arrival. The room was amazing! Spacy, clean. Lovely balcony. Jacuzzi. Andry was a great help, answered all our questions. We decided to book...”"
+  - name: "Calum"
+    country: "United Kingdom"
+    text: "“Yet another excellent experience at Luander! This time I stayed in the King Bedroom with Spa and it was even better than the other rooms (which were already great!) The room was very spacious, had lots of nice decor, and the bed was huge! Best of...”"
+  - name: "Calum"
+    country: "United Kingdom"
+    text: "“As always, Luander was perfect! We stayed for a couple of days at the end of our trip to have a relaxing conclusion, and it was exactly how Luander always is - friendly, clean, accommodative, and relaxing. We took the triple bedroom with balcony...”"
+bookingURL: "https://www.booking.com/hotel/al/luander-tirane.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+The hotel prides itself on offering a range of amenities designed to enhance the guest experience. Among these, a seasonal outdoor swimming pool stands out as a refreshing oasis for relaxation. Complimentary private parking, a shared lounge, and a welcoming bar add to the convenience and enjoyment of a stay here. The commitment to guest satisfaction is further evidenced by the provision of a 24-hour front desk, airport transfers, room service, and complimentary WiFi access throughout the property.
 
 Accommodations at Luander Hotel are thoughtfully appointed to ensure a comfortable and restful stay. Each room is furnished with a desk, a flat-screen TV, and a private bathroom, complete with bed linen and towels. Select units boast mountain views and come with a balcony, offering guests a serene retreat. The presence of air conditioning and a wardrobe in all guest rooms underscores the hotel's attention to detail and guest comfort.
 

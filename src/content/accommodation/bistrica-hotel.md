@@ -1,5 +1,91 @@
----\ntitle: "Bistrica Hotel"\ndescription: "Bistrica Hotel, located in the heart of Sarandë within the Vlorë County region, stands out as a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259089433.jpg?k=8a1ec0a6dea9b078a8248008a7c8c673a24c95fd6234ca695ea5f5d53d5337c1&o=&hp=1"\nlanguage: en\nslug: bistrica-hotel\naddress: "Rruga Skënderbeu Perball Kishes Ortodokse, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87435468\n  lng: 20.01019101\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 55\nratings:\n  overall: 9.5\n  location: 9.7\n  cleanliness: 9.5\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.5\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259089433.jpg?k=8a1ec0a6dea9b078a8248008a7c8c673a24c95fd6234ca695ea5f5d53d5337c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214509174.jpg?k=70781d785011f337c54dc849d2e47ccb5d413749ab4c567c2af3234c02e6dada&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214506957.jpg?k=1ac27e7b565e96135cb927e6e151c3ac39aa51d9ecd803378c100ea2b5a1271a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210186415.jpg?k=91af773091f2081a5118113daf2abde96bd592f4707c200a1c5458c13bbba9dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210185164.jpg?k=8f8bfdd28ff76310c724afc1124482029482edd5ca36dffb625d7f4a33fe44d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323829.jpg?k=bdbf21526634b908d94d9d6ab41675dc6a1b0dd89465ea866f8849b65dfe13d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323831.jpg?k=d254e2795aa1a74c55e6926c31838d05a14c4f1c848e39605603f672af2d8aba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323830.jpg?k=f88d84ed4da58a1cdd3cf66e625992842368ad09bb67d73d85282ee6140751fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323834.jpg?k=359998f94f37f1efc833977a4b7bc64a9382880b18afbd8e36c325f034f43853&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307015195.jpg?k=8afe19751a103cebcaa06725824530c493e364b9801fa8f3e987dbed66b8f82d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214506983.jpg?k=082db1541331252b703a435caa4d35d5374a8ce714689623d439a927eef6ab13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311322477.jpg?k=dc644183ee03a49080509d58e203ee2be15211a0d81c818e5e9b783e1244bd47&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Breakfast"\nnearbyRestaurants:\n  - "21 Bar 50 m"\n  - "Nasto 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 750 m"\n  - "Sarande Main Beach 850 m"\n  - "Maestral Beach 900 m"\n  - "VIP Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.1 km"\n  - "Butrint National Park 3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Martin"\n    country: "Australia"\n    text: "“Great hotel close to beach and restaurants Staff are lovely and room is clean and had a lovely view of the ocean
-Highly recommended”"\n  - name: "Μαρία"\n    country: "Greece"\n    text: "“We had a fantastic stay at the Bistrica Hotel. It was spotlessly clean, and the breakfast was delicious. The owners and staff were incredibly polite and helpful, making our visit truly enjoyable. Highly recommended!”"\n  - name: "John"\n    country: "United Kingdom"\n    text: "“Very comfortable bed. Excellent facilities and breakfast. Helpful staff.”"\nbookingURL: "https://www.booking.com/hotel/al/bistrica.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering Bistrica Hotel, guests are greeted by a welcoming 24-hour front desk, ensuring assistance is always at hand, day or night. The hotel prides itself on its commitment to connectivity, offering complimentary WiFi throughout the premises, a must-have for both leisure and business travelers.
+---
+title: "Bistrica Hotel"
+description: "Bistrica Hotel, located in the heart of Sarandë within the Vlorë County region, stands out as a prime choice for travelers seeking both comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259089433.jpg?k=8a1ec0a6dea9b078a8248008a7c8c673a24c95fd6234ca695ea5f5d53d5337c1&o=&hp=1"
+language: en
+slug: bistrica-hotel
+address: "Rruga Skënderbeu Perball Kishes Ortodokse, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.87435468
+  lng: 20.01019101
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 55
+ratings:
+  overall: 9.5
+  location: 9.7
+  cleanliness: 9.5
+  facilities: 9.2
+  value: 9.2
+  comfort: 9.5
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259089433.jpg?k=8a1ec0a6dea9b078a8248008a7c8c673a24c95fd6234ca695ea5f5d53d5337c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214509174.jpg?k=70781d785011f337c54dc849d2e47ccb5d413749ab4c567c2af3234c02e6dada&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214506957.jpg?k=1ac27e7b565e96135cb927e6e151c3ac39aa51d9ecd803378c100ea2b5a1271a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210186415.jpg?k=91af773091f2081a5118113daf2abde96bd592f4707c200a1c5458c13bbba9dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210185164.jpg?k=8f8bfdd28ff76310c724afc1124482029482edd5ca36dffb625d7f4a33fe44d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323829.jpg?k=bdbf21526634b908d94d9d6ab41675dc6a1b0dd89465ea866f8849b65dfe13d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323831.jpg?k=d254e2795aa1a74c55e6926c31838d05a14c4f1c848e39605603f672af2d8aba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323830.jpg?k=f88d84ed4da58a1cdd3cf66e625992842368ad09bb67d73d85282ee6140751fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217323834.jpg?k=359998f94f37f1efc833977a4b7bc64a9382880b18afbd8e36c325f034f43853&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307015195.jpg?k=8afe19751a103cebcaa06725824530c493e364b9801fa8f3e987dbed66b8f82d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214506983.jpg?k=082db1541331252b703a435caa4d35d5374a8ce714689623d439a927eef6ab13&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311322477.jpg?k=dc644183ee03a49080509d58e203ee2be15211a0d81c818e5e9b783e1244bd47&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+  - "Breakfast"
+nearbyRestaurants:
+  - "21 Bar 50 m"
+  - "Nasto 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 100 m"
+  - "La Petite Beach 750 m"
+  - "Sarande Main Beach 850 m"
+  - "Maestral Beach 900 m"
+  - "VIP Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 2.1 km"
+  - "Butrint National Park 3 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Martin"
+    country: "Australia"
+    text: "“Great hotel close to beach and restaurants Staff are lovely and room is clean and had a lovely view of the ocean
+Highly recommended”"
+  - name: "Μαρία"
+    country: "Greece"
+    text: "“We had a fantastic stay at the Bistrica Hotel. It was spotlessly clean, and the breakfast was delicious. The owners and staff were incredibly polite and helpful, making our visit truly enjoyable. Highly recommended!”"
+  - name: "John"
+    country: "United Kingdom"
+    text: "“Very comfortable bed. Excellent facilities and breakfast. Helpful staff.”"
+bookingURL: "https://www.booking.com/hotel/al/bistrica.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Upon entering Bistrica Hotel, guests are greeted by a welcoming 24-hour front desk, ensuring assistance is always at hand, day or night. The hotel prides itself on its commitment to connectivity, offering complimentary WiFi throughout the premises, a must-have for both leisure and business travelers.
 
 The accommodations at Bistrica Hotel are thoughtfully designed with the guest's comfort in mind. Each room is equipped with a desk, air conditioning, and a flat-screen TV, creating a perfect blend of functionality and relaxation. The private bathrooms are well-appointed with a bidet and complimentary toiletries, adding a touch of luxury to the stay. For those seeking a little extra space, selected rooms boast a cozy seating area, ideal for unwinding after a day of exploration.
 

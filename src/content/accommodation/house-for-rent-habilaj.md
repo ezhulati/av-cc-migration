@@ -1,4 +1,63 @@
----\ntitle: "House For Rent Habilaj"\ndescription: "House For Rent Habilaj emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505774459.jpg?k=ab50e65884177e21f64308201df956e98de5bbfff8ffe57a2c36c9816f40b5ed&o=&hp=1"\nlanguage: en\nslug: house-for-rent-habilaj\naddress: "Rruga Faik Konica, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45892209\n  lng: 19.48530964\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505774459.jpg?k=ab50e65884177e21f64308201df956e98de5bbfff8ffe57a2c36c9816f40b5ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774454.jpg?k=62127dc0225a0503cc14b1fd7ddb8aefe4429d139ee90af61fe4eff1d7281369&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774462.jpg?k=6a1a47420272ed32204f56a5e473e4e0a3059d94cfc05407851a385fc6a7add3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774471.jpg?k=550b2acaab739d5bedf9c84c2ecfe648e306a86320746597a367278a07a29375&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774479.jpg?k=431ad36c5255c87a61b4b4bf9b3ed98c6b769531a7945509e2c877da6dca625b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774483.jpg?k=ae73e416ef33503f8f352e645730170d04e26aac41adac785b5e02acab380c9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774489.jpg?k=033f466db5927f9a2f29809fa20714a9f680b7bb473c078401b9db8dee2734bc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "BSB 100 m"\n  - "Fast Food Angjelos 250 m"\nnearbyBeaches:\n  - "Vjetër Beach 800 m"\n  - "Vlore Beach 1.4 km"\n  - "Ri Beach 2.7 km"\n  - "Beach at Government Villas 4.3 km"\n  - "Liro Beach 4.9 km"\nwhatsNearby:\n  - "Kuzum Baba 1.2 km"\n  - "Independence Square 1.4 km"\n  - "Scooby Doo Vlore 2.7 km"\nbookingURL: "https://www.booking.com/hotel/al/house-for-rent-habilaj.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with modern amenities. Guests can enjoy the luxury of a large bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a bathroom that caters to all the essentials. Entertainment is readily available with a flat-screen TV, ensuring that guests have a comfortable and enjoyable stay.
+---
+title: "House For Rent Habilaj"
+description: "House For Rent Habilaj emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505774459.jpg?k=ab50e65884177e21f64308201df956e98de5bbfff8ffe57a2c36c9816f40b5ed&o=&hp=1"
+language: en
+slug: house-for-rent-habilaj
+address: "Rruga Faik Konica, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45892209
+  lng: 19.48530964
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505774459.jpg?k=ab50e65884177e21f64308201df956e98de5bbfff8ffe57a2c36c9816f40b5ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774454.jpg?k=62127dc0225a0503cc14b1fd7ddb8aefe4429d139ee90af61fe4eff1d7281369&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774462.jpg?k=6a1a47420272ed32204f56a5e473e4e0a3059d94cfc05407851a385fc6a7add3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774471.jpg?k=550b2acaab739d5bedf9c84c2ecfe648e306a86320746597a367278a07a29375&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774479.jpg?k=431ad36c5255c87a61b4b4bf9b3ed98c6b769531a7945509e2c877da6dca625b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774483.jpg?k=ae73e416ef33503f8f352e645730170d04e26aac41adac785b5e02acab380c9c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/505774489.jpg?k=033f466db5927f9a2f29809fa20714a9f680b7bb473c078401b9db8dee2734bc&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "BSB 100 m"
+  - "Fast Food Angjelos 250 m"
+nearbyBeaches:
+  - "Vjetër Beach 800 m"
+  - "Vlore Beach 1.4 km"
+  - "Ri Beach 2.7 km"
+  - "Beach at Government Villas 4.3 km"
+  - "Liro Beach 4.9 km"
+whatsNearby:
+  - "Kuzum Baba 1.2 km"
+  - "Independence Square 1.4 km"
+  - "Scooby Doo Vlore 2.7 km"
+bookingURL: "https://www.booking.com/hotel/al/house-for-rent-habilaj.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+This apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with modern amenities. Guests can enjoy the luxury of a large bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a bathroom that caters to all the essentials. Entertainment is readily available with a flat-screen TV, ensuring that guests have a comfortable and enjoyable stay.
 
 The commitment to guest convenience is further underscored by the inclusion of complimentary WiFi accessible throughout the premises, allowing visitors to stay connected with the world or plan their next adventure in Vlorë. Additionally, the availability of private parking on-site is a testament to the thoughtful amenities designed to enhance the guest experience.
 

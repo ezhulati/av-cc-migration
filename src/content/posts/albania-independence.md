@@ -13,7 +13,6 @@ seo:
   robots: "index"
   metaTitle: "Albania's Independence - From Chains to Crown (1912-1944)"
   metaDescription: "Albania's 1912 independence declaration opened a turbulent era with failed monarchical experiments cut short by Italian occupation and communists seizing power."
-  robots: "index"
 ---
 
 ## Albania's Path to Independence

@@ -1,4 +1,77 @@
----\ntitle: "Alexander Adriatic Apartments"\ndescription: "Alexander Adriatic Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995806.jpg?k=1f93f225eee40f9c9af49ceebbadaf6c337da261174f847be896abca3b488917&o=&hp=1"\nlanguage: en\nslug: alexander-adriatic-apartments\naddress: "Rruga Kalabria, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3118195\n  lng: 19.48287181\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.7\n  location: 9.2\n  cleanliness: 10\n  facilities: 9.2\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995806.jpg?k=1f93f225eee40f9c9af49ceebbadaf6c337da261174f847be896abca3b488917&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995792.jpg?k=8445c8c32082b8525fc180c73e69410c77d825761566c6312daae56062f6894b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995818.jpg?k=e31c8bddf9c9e61d03d21bd35228c8bcdc484593e34f86646922499725e67e25&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995853.jpg?k=f9c5cc822e9496b6562268b8646379b1eada1fe8e539cde7606c062beae87b3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995868.jpg?k=0a3d1e829b48ec4412d9e79086fda94eb693fb9d8bd4422f04cb0b89209e4a4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995771.jpg?k=68748459bee9d4a7a9aaa31bd5d5beadee70db11912b510203c1e1a48bafc834&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995849.jpg?k=7d12fce90f3783f3502c271351c1ea73d39849e254d4d0d75d0abc16f9ab6494&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995787.jpg?k=a944fb4289903364a640225e6ccb015e6a704456d11fbc76faf8290c628d72f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995846.jpg?k=04d9faf6cefcac1a7b107b16a5b5333aeec318c6c0032ffd5a1a0d5aaec9f377&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (21 Mbps)"\nnearbyRestaurants:\n  - "Antigua 100 m"\n  - "Skrapari 150 m"\nnearbyBeaches:\n  - "Durres Beach 150 m"\n  - "Currila Beach 3 km"\n  - "Shkëmbi i Kavajës Beach 3.6 km"\n  - "Kallmi Beach 4.3 km"\n  - "West End Beach 5 km"\nwhatsNearby:\n  - "Bekimi 1.9 km"\n  - "Wine Dhe Pooh 2.9 km"\n  - "Sheshi Demokracia 2.9 km"\n  - "Yje Dhe Hena 3 km"\n  - "Durres Amphiteatre 3.2 km"\n  - "Sotir Noka 3.2 km"\n  - "1. Maj 3.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Stašová"\n    country: "Czech Republic"\n    text: "“Apartmán byl velmi moderní, všechno nové a velmi čisté, silná klimatizace a plně vybavená koupelna. Kousek k moři i na hlavní ulici, obchod byl za rohem. Velmi ochotná paní majitelka, vždy velmi rychle odpověděla a pomohla. Po předchozích...”"\n  - name: "Tommaso"\n    country: "Italy"\n    text: "“Appartamento bello, pulito è confortevole con tutto quello che serve.”"\nbookingURL: "https://www.booking.com/hotel/al/alexanders-adriatic-apartments-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern amenities, boasting a spacious balcony that offers breathtaking sea views. Designed to accommodate the needs of contemporary travelers, the living space includes a comfortable bedroom, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen featuring a dishwasher and microwave. The convenience of a walk-in shower in the bathroom, along with the provision of towels and bed linen, underscores the property's attention to detail in ensuring a comfortable stay.
+---
+title: "Alexander Adriatic Apartments"
+description: "Alexander Adriatic Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995806.jpg?k=1f93f225eee40f9c9af49ceebbadaf6c337da261174f847be896abca3b488917&o=&hp=1"
+language: en
+slug: alexander-adriatic-apartments
+address: "Rruga Kalabria, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3118195
+  lng: 19.48287181
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.7
+  location: 9.2
+  cleanliness: 10
+  facilities: 9.2
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995806.jpg?k=1f93f225eee40f9c9af49ceebbadaf6c337da261174f847be896abca3b488917&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995792.jpg?k=8445c8c32082b8525fc180c73e69410c77d825761566c6312daae56062f6894b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995818.jpg?k=e31c8bddf9c9e61d03d21bd35228c8bcdc484593e34f86646922499725e67e25&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995853.jpg?k=f9c5cc822e9496b6562268b8646379b1eada1fe8e539cde7606c062beae87b3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995868.jpg?k=0a3d1e829b48ec4412d9e79086fda94eb693fb9d8bd4422f04cb0b89209e4a4d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995771.jpg?k=68748459bee9d4a7a9aaa31bd5d5beadee70db11912b510203c1e1a48bafc834&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995849.jpg?k=7d12fce90f3783f3502c271351c1ea73d39849e254d4d0d75d0abc16f9ab6494&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995787.jpg?k=a944fb4289903364a640225e6ccb015e6a704456d11fbc76faf8290c628d72f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995846.jpg?k=04d9faf6cefcac1a7b107b16a5b5333aeec318c6c0032ffd5a1a0d5aaec9f377&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (21 Mbps)"
+nearbyRestaurants:
+  - "Antigua 100 m"
+  - "Skrapari 150 m"
+nearbyBeaches:
+  - "Durres Beach 150 m"
+  - "Currila Beach 3 km"
+  - "Shkëmbi i Kavajës Beach 3.6 km"
+  - "Kallmi Beach 4.3 km"
+  - "West End Beach 5 km"
+whatsNearby:
+  - "Bekimi 1.9 km"
+  - "Wine Dhe Pooh 2.9 km"
+  - "Sheshi Demokracia 2.9 km"
+  - "Yje Dhe Hena 3 km"
+  - "Durres Amphiteatre 3.2 km"
+  - "Sotir Noka 3.2 km"
+  - "1. Maj 3.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Stašová"
+    country: "Czech Republic"
+    text: "“Apartmán byl velmi moderní, všechno nové a velmi čisté, silná klimatizace a plně vybavená koupelna. Kousek k moři i na hlavní ulici, obchod byl za rohem. Velmi ochotná paní majitelka, vždy velmi rychle odpověděla a pomohla. Po předchozích...”"
+  - name: "Tommaso"
+    country: "Italy"
+    text: "“Appartamento bello, pulito è confortevole con tutto quello che serve.”"
+bookingURL: "https://www.booking.com/hotel/al/alexanders-adriatic-apartments-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of modern amenities, boasting a spacious balcony that offers breathtaking sea views. Designed to accommodate the needs of contemporary travelers, the living space includes a comfortable bedroom, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen featuring a dishwasher and microwave. The convenience of a walk-in shower in the bathroom, along with the provision of towels and bed linen, underscores the property's attention to detail in ensuring a comfortable stay.
 
 Adding to the appeal is the outdoor dining area, allowing guests to enjoy meals al fresco while soaking in the scenic surroundings. With free WiFi available throughout the premises, staying connected is effortlessly easy.
 

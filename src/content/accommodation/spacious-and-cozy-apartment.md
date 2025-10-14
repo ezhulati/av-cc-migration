@@ -1,4 +1,89 @@
----\ntitle: "Spacious and Cozy Apartment"\ndescription: "Spacious and Cozy Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500980870.jpg?k=95a077234375431b110fd04644aacb90f4ebedc980411a93dd2cb424142507f1&o=&hp=1"\nlanguage: en\nslug: spacious-and-cozy-apartment\naddress: "Rruga Arkitekt Sinani, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33369225\n  lng: 19.83533602\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 8\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500980870.jpg?k=95a077234375431b110fd04644aacb90f4ebedc980411a93dd2cb424142507f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517363800.jpg?k=a70b0bfd8466f42248d49bca2578d7a4f0e96b5b4db5e8cf9849a0466cd1f396&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517364686.jpg?k=de759db2f18cba3a0fa0af7d246293f56d43d4000211829e8bf867dadd544be7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500980918.jpg?k=60e7ae08a197a8fe8e576f0ad41b9d5ddebb98188b08b0540129b044255c600b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501858040.jpg?k=44ec550172a2514ef91f5b61eff49a2b1ff09ec047ff47e88a437c98a5d75cad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501065202.jpg?k=b6b2c82076486ab97bd20858f6378962cd5b887c22c4dba1318db0412f793a0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501065373.jpg?k=b037072f1446af56b9fcde89a2ff911ac24539fb31971ffbbaa63297e304f3b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517363949.jpg?k=ab90164af16078df71d3db8c596070c668396b5dc5bff0d8cf09f699d3550661&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517363685.jpg?k=8e21110c4ae842d4f3e07a4644a09ea2d3919e10cdb899b02bafbe73acb1ccc6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Museum of History Albania 1.6 km"\n  - "Rinia Park 1.7 km"\n  - "House of Leaves 1.8 km"\n  - "Former Residence of Enver Hoxha 2.1 km"\n  - "Grand Park of Tirana 2.5 km"\n  - "Bunk'Art 1 Museum 2.8 km"\nnearbyRestaurants:\n  - "Bar Cafe Mei 100 m"\n  - "Mon cheri xhamlliku 100 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 150 m"\n  - "Sheshi Rekreativ Gjolek Kokona 850 m"\n  - "Sheshi Rekreativ tek ish ATSh 950 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Sheshi Sulejman Pasha 1.3 km"\n  - "Amazing Nature 1.4 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "National Gallery of Arts Tirana 1.5 km"\n  - "Skanderbeg Square 1.5 km"\n  - "Parku Europa 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 78 km"\nreviews:\n  - name: "Redion"\n    country: "Albania"\n    text: "“This place was wonderful. Apartment had a great location and was close to city center. Very clean apartment and spacious, also had all amenities that i needed during my stay. Host was very responsive and friendly. Easy access to restaurants and...”"\n  - name: "Arber"\n    country: "Albania"\n    text: "“The owner was superfriendly and helpful on everything that I asked and needed.The apartment was in a perfect location only 7 minutes walking from the city center and everything u need is close.Very clean and arranged.Love it,for sure I will go again.”"\n  - name: "Altin"\n    country: "Italy"\n    text: "“Super apartament, pozicioni shume i mire dhe shume i paster.”"\nbookingURL: "https://www.booking.com/hotel/al/spacious-and-cozy-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment, which strictly prohibits smoking, is strategically positioned 44 km from the Rock of Kavaje, making it an ideal base for exploring the city's rich offerings. Its proximity to notable landmarks such as the Former Residence of Enver Hoxha, Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania adds to its appeal, providing guests with a plethora of cultural and shopping experiences just a stone's throw away.
+---
+title: "Spacious and Cozy Apartment"
+description: "Spacious and Cozy Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500980870.jpg?k=95a077234375431b110fd04644aacb90f4ebedc980411a93dd2cb424142507f1&o=&hp=1"
+language: en
+slug: spacious-and-cozy-apartment
+address: "Rruga Arkitekt Sinani, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33369225
+  lng: 19.83533602
+price: "US$45"
+priceFrom: 45
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 8
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500980870.jpg?k=95a077234375431b110fd04644aacb90f4ebedc980411a93dd2cb424142507f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517363800.jpg?k=a70b0bfd8466f42248d49bca2578d7a4f0e96b5b4db5e8cf9849a0466cd1f396&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517364686.jpg?k=de759db2f18cba3a0fa0af7d246293f56d43d4000211829e8bf867dadd544be7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500980918.jpg?k=60e7ae08a197a8fe8e576f0ad41b9d5ddebb98188b08b0540129b044255c600b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501858040.jpg?k=44ec550172a2514ef91f5b61eff49a2b1ff09ec047ff47e88a437c98a5d75cad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501065202.jpg?k=b6b2c82076486ab97bd20858f6378962cd5b887c22c4dba1318db0412f793a0a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501065373.jpg?k=b037072f1446af56b9fcde89a2ff911ac24539fb31971ffbbaa63297e304f3b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517363949.jpg?k=ab90164af16078df71d3db8c596070c668396b5dc5bff0d8cf09f699d3550661&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517363685.jpg?k=8e21110c4ae842d4f3e07a4644a09ea2d3919e10cdb899b02bafbe73acb1ccc6&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Museum of History Albania 1.6 km"
+  - "Rinia Park 1.7 km"
+  - "House of Leaves 1.8 km"
+  - "Former Residence of Enver Hoxha 2.1 km"
+  - "Grand Park of Tirana 2.5 km"
+  - "Bunk'Art 1 Museum 2.8 km"
+nearbyRestaurants:
+  - "Bar Cafe Mei 100 m"
+  - "Mon cheri xhamlliku 100 m"
+whatsNearby:
+  - "Sheshi Jjosef Shtraus 150 m"
+  - "Sheshi Rekreativ Gjolek Kokona 850 m"
+  - "Sheshi Rekreativ tek ish ATSh 950 m"
+  - "Tanners' Bridge 1.1 km"
+  - "Sheshi Sulejman Pasha 1.3 km"
+  - "Amazing Nature 1.4 km"
+  - "Clock Tower Tirana 1.5 km"
+  - "National Gallery of Arts Tirana 1.5 km"
+  - "Skanderbeg Square 1.5 km"
+  - "Parku Europa 1.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 78 km"
+reviews:
+  - name: "Redion"
+    country: "Albania"
+    text: "“This place was wonderful. Apartment had a great location and was close to city center. Very clean apartment and spacious, also had all amenities that i needed during my stay. Host was very responsive and friendly. Easy access to restaurants and...”"
+  - name: "Arber"
+    country: "Albania"
+    text: "“The owner was superfriendly and helpful on everything that I asked and needed.The apartment was in a perfect location only 7 minutes walking from the city center and everything u need is close.Very clean and arranged.Love it,for sure I will go again.”"
+  - name: "Altin"
+    country: "Italy"
+    text: "“Super apartament, pozicioni shume i mire dhe shume i paster.”"
+bookingURL: "https://www.booking.com/hotel/al/spacious-and-cozy-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment, which strictly prohibits smoking, is strategically positioned 44 km from the Rock of Kavaje, making it an ideal base for exploring the city's rich offerings. Its proximity to notable landmarks such as the Former Residence of Enver Hoxha, Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania adds to its appeal, providing guests with a plethora of cultural and shopping experiences just a stone's throw away.
 
 Guests stepping into the apartment are greeted by a spacious layout that includes a bedroom, a living room, a fully equipped kitchen, and a bathroom, all designed to cater to the needs of modern travelers. Entertainment is readily available with a flat-screen TV, complementing the cozy ambiance of the apartment.
 

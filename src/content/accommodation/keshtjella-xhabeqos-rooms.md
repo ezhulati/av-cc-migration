@@ -1,4 +1,85 @@
----\ntitle: "Keshtjella Xhabeqos Rooms"\ndescription: "Keshtjella Xhabeqos Rooms emerges as a serene oasis located 20 km from the vibrant heart of Tirana's Skanderbeg Square, offering a unique blend of comfort and convenience for travelers seeking an escape from the ordinary."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500316.jpg?k=aeefe097f2035bb53a8bf6979a5e52fcf645c7cf64c4d71c747f3aa5914fdaa9&o=&hp=1"\nlanguage: en\nslug: keshtjella-xhabeqos-rooms\naddress: "Autostrada Tiranë - Elbasan, 1030 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.24004599\n  lng: 19.6607553\nprice: "US$43"\npriceFrom: 43\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500316.jpg?k=aeefe097f2035bb53a8bf6979a5e52fcf645c7cf64c4d71c747f3aa5914fdaa9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500051.jpg?k=caf5121c08a384ea1a61349d0ead2a2b2cb70b70cf72441bf3f6dc9bc0ca1eea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499272.jpg?k=53cb91d0dd18300ab771698ffc29610dfef6ad4cd402d0bfe7a819184711a967&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510546263.jpg?k=a06065204eb1cd29d23eda05c1461b2999dd9dc14c0d869b6e85486e4d16cba8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499468.jpg?k=f15b2df9214b13ce483125d7ba16418bb7c7160c949ab6cbea135720758fcdb9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499943.jpg?k=d6c53dae2cb8898a70e6d5429e256b9fa7f1089c79958814b36cf281d145480f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510546334.jpg?k=6ee44d25d1f7669be9151111c862a4928178679937bc2ad1a621c3e89b319aeb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510546210.jpg?k=be24f97c61d3af0cd39faf140c4836122c3b1eebb281f8ff11adb5f5e28664bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499144.jpg?k=008c00eb32e65d237493f253e62342e67e753a177faa08ea6b0755ac09483fbe&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 16 km"\n  - "Grand Park of Tirana 16 km"\n  - "Rinia Park 16 km"\n  - "House of Leaves 16 km"\n  - "National Museum of History Albania 17 km"\n  - "Skanderbeg Square 17 km"\n  - "National Gallery of Arts Tirana 17 km"\n  - "Clock Tower Tirana 17 km"\n  - "Tanners' Bridge 17 km"\n  - "Durres Amphiteatre 20 km"\nnearbyRestaurants:\n  - "Keshtjella Ndroq 2.5 km"\n  - "Vila Celmeta 3.2 km"\nwhatsNearby:\n  - "Sheshi Rekreativ Kombinat 12 km"\n  - "Sheshi Xhuzepe Garibaldi 12 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 14 km"\n  - "Shesh Rekreativ Yzberisht 14 km"\n  - "Park Lojrash 14 km"\n  - "Sheshi Rekreativ Bajram Curri 15 km"\n  - "Pylli Orbital 15 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 15 km"\n  - "Sheshi Rekreativ Sali Butka 15 km"\n  - "Sheshi Rekreativ Komuna e Parisit 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Ohrid Airport 91 km"\nbookingURL: "https://www.booking.com/hotel/al/keshtjella-xhabeqos-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nFamilies will find Keshtjella Xhabeqos Rooms particularly appealing, thanks to its dedicated kids' club and the availability of attentive room service, ensuring a stay that is both relaxing and engaging for guests of all ages. The hotel's proximity to notable attractions, including the Dajti Ekspres Cable Car 24 km away and the historical Former Residence of Enver Hoxha just 21 km distant, positions it as an ideal base for explorers keen to uncover the rich tapestry of Albania's capital.
+---
+title: "Keshtjella Xhabeqos Rooms"
+description: "Keshtjella Xhabeqos Rooms emerges as a serene oasis located 20 km from the vibrant heart of Tirana's Skanderbeg Square, offering a unique blend of comfort and convenience for travelers seeking an escape from the ordinary."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500316.jpg?k=aeefe097f2035bb53a8bf6979a5e52fcf645c7cf64c4d71c747f3aa5914fdaa9&o=&hp=1"
+language: en
+slug: keshtjella-xhabeqos-rooms
+address: "Autostrada Tiranë - Elbasan, 1030 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.24004599
+  lng: 19.6607553
+price: "US$43"
+priceFrom: 43
+starRating: 4
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500316.jpg?k=aeefe097f2035bb53a8bf6979a5e52fcf645c7cf64c4d71c747f3aa5914fdaa9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521500051.jpg?k=caf5121c08a384ea1a61349d0ead2a2b2cb70b70cf72441bf3f6dc9bc0ca1eea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499272.jpg?k=53cb91d0dd18300ab771698ffc29610dfef6ad4cd402d0bfe7a819184711a967&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510546263.jpg?k=a06065204eb1cd29d23eda05c1461b2999dd9dc14c0d869b6e85486e4d16cba8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499468.jpg?k=f15b2df9214b13ce483125d7ba16418bb7c7160c949ab6cbea135720758fcdb9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499943.jpg?k=d6c53dae2cb8898a70e6d5429e256b9fa7f1089c79958814b36cf281d145480f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510546334.jpg?k=6ee44d25d1f7669be9151111c862a4928178679937bc2ad1a621c3e89b319aeb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510546210.jpg?k=be24f97c61d3af0cd39faf140c4836122c3b1eebb281f8ff11adb5f5e28664bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521499144.jpg?k=008c00eb32e65d237493f253e62342e67e753a177faa08ea6b0755ac09483fbe&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 16 km"
+  - "Grand Park of Tirana 16 km"
+  - "Rinia Park 16 km"
+  - "House of Leaves 16 km"
+  - "National Museum of History Albania 17 km"
+  - "Skanderbeg Square 17 km"
+  - "National Gallery of Arts Tirana 17 km"
+  - "Clock Tower Tirana 17 km"
+  - "Tanners' Bridge 17 km"
+  - "Durres Amphiteatre 20 km"
+nearbyRestaurants:
+  - "Keshtjella Ndroq 2.5 km"
+  - "Vila Celmeta 3.2 km"
+whatsNearby:
+  - "Sheshi Rekreativ Kombinat 12 km"
+  - "Sheshi Xhuzepe Garibaldi 12 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 14 km"
+  - "Shesh Rekreativ Yzberisht 14 km"
+  - "Park Lojrash 14 km"
+  - "Sheshi Rekreativ Bajram Curri 15 km"
+  - "Pylli Orbital 15 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 15 km"
+  - "Sheshi Rekreativ Sali Butka 15 km"
+  - "Sheshi Rekreativ Komuna e Parisit 15 km"
+airports:
+  - "Tirana International Airport Mother Teresa 18 km"
+  - "Ohrid Airport 91 km"
+bookingURL: "https://www.booking.com/hotel/al/keshtjella-xhabeqos-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Families will find Keshtjella Xhabeqos Rooms particularly appealing, thanks to its dedicated kids' club and the availability of attentive room service, ensuring a stay that is both relaxing and engaging for guests of all ages. The hotel's proximity to notable attractions, including the Dajti Ekspres Cable Car 24 km away and the historical Former Residence of Enver Hoxha just 21 km distant, positions it as an ideal base for explorers keen to uncover the rich tapestry of Albania's capital.
 
 Accommodations at Keshtjella Xhabeqos Rooms are thoughtfully appointed, with each guest room featuring a sleek flat-screen TV and the luxury of a private bathroom equipped with a bath, promising a restful and rejuvenating retreat after a day of adventure or relaxation.
 

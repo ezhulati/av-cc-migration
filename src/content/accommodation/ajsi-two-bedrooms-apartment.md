@@ -1,3 +1,67 @@
----\ntitle: "Ajsi Two Bedrooms Apartment"\ndescription: "Ajsi Two Bedrooms Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462772867.jpg?k=3dbf6c13c9b0c07850341835d996b0df867cb0028ddceb3e6ce04aba29fba0b3&o=&hp=1"\nlanguage: en\nslug: ajsi-two-bedrooms-apartment\naddress: "Rruga Janaq Kumi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87505892\n  lng: 19.99927971\nprice: "US$98"\npriceFrom: 98\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462772867.jpg?k=3dbf6c13c9b0c07850341835d996b0df867cb0028ddceb3e6ce04aba29fba0b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773013.jpg?k=1e2325fa864db21c846160a8cb97d3eab43c4f3b7b139672f5a7d790ad32c0a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773022.jpg?k=a6cfcfeb388c6c2c570fda4c9724f7c6d36cb0f16b54c995150ecc4f5af9816f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773030.jpg?k=39b47a0e138cf6e189fdd467d9b63f8e4fef39f04be97f31a68f9fdbc6e7c252&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773036.jpg?k=09d7b618fec5eadc3db7bf0e332d348bc2c99d5c9f635b1c7e05fe7b740595c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773044.jpg?k=6fe347b27e1a64949c2a868c08fb91ebd3c32b36a6f1bb873da0f0a0604c7001&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773047.jpg?k=10782b9e93feb3431671b00cfc4dd507cd441f5571045f23129aeb702a6a51f0&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Pasticeri Byrektore Cako 150 m"\n  - "Mare blu 150 m"\nnearbyBeaches:\n  - "Sarande Main Beach 550 m"\n  - "Saranda City Beach 900 m"\n  - "La Petite Beach 1.5 km"\n  - "Saranda Bay Beach 1.5 km"\n  - "Maestral Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.8 km"\n  - "Butrint National Park 3.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nbookingURL: "https://www.booking.com/hotel/al/ajsi-two-bedrooms-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a home away from home with its array of modern amenities. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, and a washing machine, ensuring a comfortable and hassle-free stay. The fully equipped kitchen, complete with a fridge, invites guests to prepare their meals, adding a personal touch to their dining experience.
+---
+title: "Ajsi Two Bedrooms Apartment"
+description: "Ajsi Two Bedrooms Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462772867.jpg?k=3dbf6c13c9b0c07850341835d996b0df867cb0028ddceb3e6ce04aba29fba0b3&o=&hp=1"
+language: en
+slug: ajsi-two-bedrooms-apartment
+address: "Rruga Janaq Kumi, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87505892
+  lng: 19.99927971
+price: "US$98"
+priceFrom: 98
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462772867.jpg?k=3dbf6c13c9b0c07850341835d996b0df867cb0028ddceb3e6ce04aba29fba0b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773013.jpg?k=1e2325fa864db21c846160a8cb97d3eab43c4f3b7b139672f5a7d790ad32c0a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773022.jpg?k=a6cfcfeb388c6c2c570fda4c9724f7c6d36cb0f16b54c995150ecc4f5af9816f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773030.jpg?k=39b47a0e138cf6e189fdd467d9b63f8e4fef39f04be97f31a68f9fdbc6e7c252&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773036.jpg?k=09d7b618fec5eadc3db7bf0e332d348bc2c99d5c9f635b1c7e05fe7b740595c8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773044.jpg?k=6fe347b27e1a64949c2a868c08fb91ebd3c32b36a6f1bb873da0f0a0604c7001&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/462773047.jpg?k=10782b9e93feb3431671b00cfc4dd507cd441f5571045f23129aeb702a6a51f0&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Pasticeri Byrektore Cako 150 m"
+  - "Mare blu 150 m"
+nearbyBeaches:
+  - "Sarande Main Beach 550 m"
+  - "Saranda City Beach 900 m"
+  - "La Petite Beach 1.5 km"
+  - "Saranda Bay Beach 1.5 km"
+  - "Maestral Beach 1.6 km"
+whatsNearby:
+  - "Parc National de Butrint 2.8 km"
+  - "Butrint National Park 3.5 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+bookingURL: "https://www.booking.com/hotel/al/ajsi-two-bedrooms-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This apartment doesn't just offer a place to stay; it provides a home away from home with its array of modern amenities. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, and a washing machine, ensuring a comfortable and hassle-free stay. The fully equipped kitchen, complete with a fridge, invites guests to prepare their meals, adding a personal touch to their dining experience.
 
 Located 98 km from Ioannina Airport, Ajsi Two Bedrooms Apartment stands out as an accessible retreat for both local and international travelers. Its commitment to a non-smoking environment further ensures a clean and healthy stay for all guests, making it a standout option for those planning their next visit to Sarandë.

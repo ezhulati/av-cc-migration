@@ -15,8 +15,6 @@ seo:
   robots: "index"
   metaTitle: "Winds of Change Propell Albania's EU Pursuit"
   metaDescription: "Propelled by accession talks after almost 20 years of EU membership pursuit, Albania mobilizes to reform as it emerges a rejuvenated tourist and tech hub."
-  focusKeyword: "modern day albania"
-  robots: "index"
 ---
 
 ## Reforms, Revival, and EU Aspirations

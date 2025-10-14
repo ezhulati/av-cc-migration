@@ -1,4 +1,99 @@
----\ntitle: "KEIT Hotel"\ndescription: "KEIT Hotel emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503624748.jpg?k=908ce4b6e8cb518ebfde286856d7b672e901a3b003189ae78f8d07c9b001fada&o=&hp=1"\nlanguage: en\nslug: keit-hotel\naddress: "Rruga Dritan Hoxha, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33437819\n  lng: 19.79994063\nprice: "US$54"\npriceFrom: 54\nstarRating: 4\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 464\nratings:\n  overall: 8.2\n  location: 8.4\n  cleanliness: 8.2\n  facilities: 7.8\n  value: 8\n  comfort: 8.2\n  staff: 8.6\n  wifi: 8.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503624748.jpg?k=908ce4b6e8cb518ebfde286856d7b672e901a3b003189ae78f8d07c9b001fada&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79504837.jpg?k=8e4a01b1def01a732064304eeffde4ccefcfbeb33696c625a0af7ff1e29151a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72243871.jpg?k=e610dee02004637d1a20427fa09a55c4112cad31fda320964222bd8bd236be62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72242860.jpg?k=5c2503f42c63b3cd7cf6d0e21861d346574c7d7dd6f9ec9a1e7381d1518e7c30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220270238.jpg?k=5511db57690349ba541bbcd3cb22cd7e3c1b3c07a2e2c8d9f0d08821e22e2c69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72240245.jpg?k=863c003021ef1ddabb15fcae4ae0073e5596e63d6e7f83838bd1ec660e3aeda6&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Single Room with Balcony"\n  - "Double or Twin Room with Extra Bed"\nnearbyAttractions:\n  - "National Museum of History Albania 1.6 km"\n  - "House of Leaves 1.6 km"\n  - "Skanderbeg Square 1.8 km"\n  - "Clock Tower Tirana 1.8 km"\n  - "Rinia Park 1.9 km"\n  - "National Gallery of Arts Tirana 2 km"\n  - "Former Residence of Enver Hoxha 2.1 km"\n  - "Tanners' Bridge 2.4 km"\n  - "Grand Park of Tirana 3.3 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Bar Kafe 50 m"\n  - "Pajisje per Bare Restorante Edra 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Parku 1Km 500 m"\n  - "Sheshi Rekreativ Don Bosko 550 m"\n  - "Sheshi Rekreativ Mine Peza 550 m"\n  - "Sheshi Rekreativ Lord Bajron 650 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.1 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 1.2 km"\n  - "Sheshi Rekreativ Sali Butka 1.3 km"\n  - "Sheshi Paris 1.4 km"\n  - "Sheshi Rekreativ Bajram Curri 1.5 km"\n  - "Shesh Rekreativ Yzberisht 1.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 81 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Vesna"\n    country: "Montenegro"\n    text: "“Everything was great. Very nice and helpful staf. Great lokacion. Food was very delicious. Free parking. Recommend.”"\n  - name: "Daisy"\n    country: "Malaysia"\n    text: "“Place was awesome, superlative in every sense in the vocabulary , bus stop n station near , just meters away .Room n shower area we stayed very clean .Breakfast was good 👍”"\n  - name: "Michelle"\n    country: "United Kingdom"\n    text: "“Lovely hotel and very comfortable. I only stayed 1 night because I was catching a bus to Montenegro, and the international bus station is 3 min walking from the hotel. Most of the guests who stayed at this hotel have had some kind of medical...”"\nbookingURL: "https://www.booking.com/hotel/al/keit.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at KEIT Hotel are treated to complimentary WiFi access across the premises, ensuring connectivity is never an issue. The hotel's accommodations are designed with guest comfort in mind, featuring air-conditioned rooms equipped with televisions and minibars. Select rooms elevate the experience further with seating areas or balconies, perfect for unwinding while soaking in the mountain and city views. Bathrooms are well-appointed with showers, slippers, and complimentary toiletries, adding a touch of luxury to the stay.
+---
+title: "KEIT Hotel"
+description: "KEIT Hotel emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503624748.jpg?k=908ce4b6e8cb518ebfde286856d7b672e901a3b003189ae78f8d07c9b001fada&o=&hp=1"
+language: en
+slug: keit-hotel
+address: "Rruga Dritan Hoxha, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.33437819
+  lng: 19.79994063
+price: "US$54"
+priceFrom: 54
+starRating: 4
+rating: 8.2
+ratingWords: "Very Good"
+numberOfReviews: 464
+ratings:
+  overall: 8.2
+  location: 8.4
+  cleanliness: 8.2
+  facilities: 7.8
+  value: 8
+  comfort: 8.2
+  staff: 8.6
+  wifi: 8.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503624748.jpg?k=908ce4b6e8cb518ebfde286856d7b672e901a3b003189ae78f8d07c9b001fada&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79504837.jpg?k=8e4a01b1def01a732064304eeffde4ccefcfbeb33696c625a0af7ff1e29151a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72243871.jpg?k=e610dee02004637d1a20427fa09a55c4112cad31fda320964222bd8bd236be62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72242860.jpg?k=5c2503f42c63b3cd7cf6d0e21861d346574c7d7dd6f9ec9a1e7381d1518e7c30&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220270238.jpg?k=5511db57690349ba541bbcd3cb22cd7e3c1b3c07a2e2c8d9f0d08821e22e2c69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72240245.jpg?k=863c003021ef1ddabb15fcae4ae0073e5596e63d6e7f83838bd1ec660e3aeda6&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "24-hour front desk"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Single Room with Balcony"
+  - "Double or Twin Room with Extra Bed"
+nearbyAttractions:
+  - "National Museum of History Albania 1.6 km"
+  - "House of Leaves 1.6 km"
+  - "Skanderbeg Square 1.8 km"
+  - "Clock Tower Tirana 1.8 km"
+  - "Rinia Park 1.9 km"
+  - "National Gallery of Arts Tirana 2 km"
+  - "Former Residence of Enver Hoxha 2.1 km"
+  - "Tanners' Bridge 2.4 km"
+  - "Grand Park of Tirana 3.3 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Bar Kafe 50 m"
+  - "Pajisje per Bare Restorante Edra 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Parku 1Km 500 m"
+  - "Sheshi Rekreativ Don Bosko 550 m"
+  - "Sheshi Rekreativ Mine Peza 550 m"
+  - "Sheshi Rekreativ Lord Bajron 650 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.1 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 1.2 km"
+  - "Sheshi Rekreativ Sali Butka 1.3 km"
+  - "Sheshi Paris 1.4 km"
+  - "Sheshi Rekreativ Bajram Curri 1.5 km"
+  - "Shesh Rekreativ Yzberisht 1.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 9 km"
+  - "Ohrid Airport 81 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Vesna"
+    country: "Montenegro"
+    text: "“Everything was great. Very nice and helpful staf. Great lokacion. Food was very delicious. Free parking. Recommend.”"
+  - name: "Daisy"
+    country: "Malaysia"
+    text: "“Place was awesome, superlative in every sense in the vocabulary , bus stop n station near , just meters away .Room n shower area we stayed very clean .Breakfast was good 👍”"
+  - name: "Michelle"
+    country: "United Kingdom"
+    text: "“Lovely hotel and very comfortable. I only stayed 1 night because I was catching a bus to Montenegro, and the international bus station is 3 min walking from the hotel. Most of the guests who stayed at this hotel have had some kind of medical...”"
+bookingURL: "https://www.booking.com/hotel/al/keit.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at KEIT Hotel are treated to complimentary WiFi access across the premises, ensuring connectivity is never an issue. The hotel's accommodations are designed with guest comfort in mind, featuring air-conditioned rooms equipped with televisions and minibars. Select rooms elevate the experience further with seating areas or balconies, perfect for unwinding while soaking in the mountain and city views. Bathrooms are well-appointed with showers, slippers, and complimentary toiletries, adding a touch of luxury to the stay.
 
 The hotel's bar and terrace offer guests a serene spot to enjoy a drink while admiring the surrounding vistas. For those arriving by car, the convenience of free private parking is a notable perk.
 

@@ -1,4 +1,80 @@
----\ntitle: "Square INN Deluxe Patio Apartment"\ndescription: "Square INN Deluxe Patio Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432679692.jpg?k=d716677170b15a39479c55ac7caddb7e3ffecfe11fffe3dd4bdd4edc2c8726c9&o=&hp=1"\nlanguage: en\nslug: square-inn-deluxe-patio-apartment\naddress: "Rruga Frosina Plaku, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32704586\n  lng: 19.80011537\nprice: "US$162"\npriceFrom: 162\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432679692.jpg?k=d716677170b15a39479c55ac7caddb7e3ffecfe11fffe3dd4bdd4edc2c8726c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677539.jpg?k=0209532b2e59a01808f5f2b30b661036fd6bd4a7edabb08b471f7db895456b09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677597.jpg?k=4d4338ffd16f6bf2a794fd13fe0f567cec429929affd6475f0e4906ca40d5ad2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677556.jpg?k=a4d0e6747b6161e3532b0a21c68c8bb400881147173b571f4040dc9453f0f9e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677566.jpg?k=9d97de8274bad493c2d7b784c82a891ed74aad08f262c2e040b15fa72c696c09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677531.jpg?k=64adab1dd82a8d632a0ee2ba95bd8d3377e68257565d0a7591c7c8ad4adf0d04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677512.jpg?k=d4deddb47113c849c15364fd2b84a68c1725891f75665b3e943e33b932ed3e3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677579.jpg?k=385d92ef7b07be842b3dfa836d11cdd0900eae4e60ddc2695fda94383496be27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677499.jpg?k=c8da426a800a062702a75198cf0269bb6fd653781a39954d2ae78038ce60b545&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.4 km"\n  - "National Museum of History Albania 1.5 km"\n  - "Rinia Park 1.5 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Skanderbeg Square 1.6 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "National Gallery of Arts Tirana 1.7 km"\n  - "Tanners' Bridge 2.2 km"\n  - "Grand Park of Tirana 2.7 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Padrino Catering 50 m"\n  - "Buffitos's 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 400 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 400 m"\n  - "Sheshi Rekreativ Sali Butka 450 m"\n  - "Sheshi Rekreativ Parku 1Km 450 m"\n  - "Sheshi Rekreativ Bajram Curri 700 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 900 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 950 m"\n  - "Sheshi Rekreativ Mine Peza 950 m"\n  - "Sheshi Rekreativ Don Bosko 1.1 km"\n  - "Sheshi Rekreativ Komuna e Parisit 1.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/square-inn-deluxe-patio-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a spacious haven, featuring two well-appointed bedrooms, ensuring ample space for relaxation. Entertainment is readily available through a flat-screen TV equipped with streaming services, perfect for unwinding after a day of exploration. The kitchen does not disappoint, being fully equipped with modern appliances including a dishwasher, an oven, a washing machine, and a fridge, catering to all culinary needs. For added convenience, towels and bed linen are thoughtfully provided, ensuring a comfortable stay.
+---
+title: "Square INN Deluxe Patio Apartment"
+description: "Square INN Deluxe Patio Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432679692.jpg?k=d716677170b15a39479c55ac7caddb7e3ffecfe11fffe3dd4bdd4edc2c8726c9&o=&hp=1"
+language: en
+slug: square-inn-deluxe-patio-apartment
+address: "Rruga Frosina Plaku, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32704586
+  lng: 19.80011537
+price: "US$162"
+priceFrom: 162
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432679692.jpg?k=d716677170b15a39479c55ac7caddb7e3ffecfe11fffe3dd4bdd4edc2c8726c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677539.jpg?k=0209532b2e59a01808f5f2b30b661036fd6bd4a7edabb08b471f7db895456b09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677597.jpg?k=4d4338ffd16f6bf2a794fd13fe0f567cec429929affd6475f0e4906ca40d5ad2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677556.jpg?k=a4d0e6747b6161e3532b0a21c68c8bb400881147173b571f4040dc9453f0f9e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677566.jpg?k=9d97de8274bad493c2d7b784c82a891ed74aad08f262c2e040b15fa72c696c09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677531.jpg?k=64adab1dd82a8d632a0ee2ba95bd8d3377e68257565d0a7591c7c8ad4adf0d04&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677512.jpg?k=d4deddb47113c849c15364fd2b84a68c1725891f75665b3e943e33b932ed3e3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677579.jpg?k=385d92ef7b07be842b3dfa836d11cdd0900eae4e60ddc2695fda94383496be27&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432677499.jpg?k=c8da426a800a062702a75198cf0269bb6fd653781a39954d2ae78038ce60b545&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.4 km"
+  - "National Museum of History Albania 1.5 km"
+  - "Rinia Park 1.5 km"
+  - "Former Residence of Enver Hoxha 1.6 km"
+  - "Skanderbeg Square 1.6 km"
+  - "Clock Tower Tirana 1.6 km"
+  - "National Gallery of Arts Tirana 1.7 km"
+  - "Tanners' Bridge 2.2 km"
+  - "Grand Park of Tirana 2.7 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Padrino Catering 50 m"
+  - "Buffitos's 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Shefqet Musaraj 400 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 400 m"
+  - "Sheshi Rekreativ Sali Butka 450 m"
+  - "Sheshi Rekreativ Parku 1Km 450 m"
+  - "Sheshi Rekreativ Bajram Curri 700 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 900 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 950 m"
+  - "Sheshi Rekreativ Mine Peza 950 m"
+  - "Sheshi Rekreativ Don Bosko 1.1 km"
+  - "Sheshi Rekreativ Komuna e Parisit 1.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/square-inn-deluxe-patio-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a spacious haven, featuring two well-appointed bedrooms, ensuring ample space for relaxation. Entertainment is readily available through a flat-screen TV equipped with streaming services, perfect for unwinding after a day of exploration. The kitchen does not disappoint, being fully equipped with modern appliances including a dishwasher, an oven, a washing machine, and a fridge, catering to all culinary needs. For added convenience, towels and bed linen are thoughtfully provided, ensuring a comfortable stay.
 
 Situated in a location that puts guests in close proximity to notable attractions such as the House of Leaves, Rinia Park, and the National Museum of History Albania, the apartment serves as an ideal base for those keen to explore the rich cultural tapestry of Tirana. Additionally, the Tirana International Mother Teresa Airport is just 13 km away, making arrivals and departures a breeze.
 

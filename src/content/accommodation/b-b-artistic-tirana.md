@@ -1,4 +1,98 @@
----\ntitle: "B&B Artistic Tirana"\ndescription: "B&B Artistic Tirana emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100476015.jpg?k=29d5c704c6a8ec9224811bc725de380716f579d7c4ecb7bf02283ed4fc1aca62&o=&hp=1"\nlanguage: en\nslug: b-b-artistic-tirana\naddress: "Myslym Shyri, 34/1, Apt.1, 1007 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32368964\n  lng: 19.80505317\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 1345\nratings:\n  overall: 8.9\n  location: 8.8\n  cleanliness: 8.9\n  facilities: 8.4\n  value: 9.1\n  comfort: 8.6\n  staff: 9.4\n  wifi: 9.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100476015.jpg?k=29d5c704c6a8ec9224811bc725de380716f579d7c4ecb7bf02283ed4fc1aca62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100476986.jpg?k=e055352229bbc3624b258b86d6962d91d1b6c28b54be9d4cd60d7ad8c125a6ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47710103.jpg?k=d48189dd0318309339f83fdce4207893089416112ff0c9f787266ee88fa3ee32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47710143.jpg?k=8b1ebfff32457da89bdb635ea58ff6f90cb3567fee607f2289c660f3b5cdd8a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100633061.jpg?k=3a8220631b435ec8fd7918b776ac49a7427fcb40921d2827a8a396f1b2756e20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100477009.jpg?k=ade5504701177d3f13107db945af74c2635c5acb11abf503dc01cf65c872ff74&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Twin Room"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "National Museum of History Albania 1.2 km"\n  - "Skanderbeg Square 1.3 km"\n  - "Clock Tower Tirana 1.3 km"\n  - "National Gallery of Arts Tirana 1.3 km"\n  - "Tanners' Bridge 1.8 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Bar Restorant San Mara 6 m"\n  - "Santa 10 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 250 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 400 m"\n  - "Sheshi Rekreativ Sali Butka 450 m"\n  - "Sheshi Rekreativ Bajram Curri 700 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 750 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 750 m"\n  - "Sheshi Rekreativ Komuna e Parisit 750 m"\n  - "House of Leaves 1 km"\n  - "Sheshi Rekreativ Parku 1Km 1 km"\n  - "Sheshi Paris 1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Paula"\n    country: "United Kingdom"\n    text: "“Bed was really comfy, breakfast was amazing!! Really friendly host who couldn't do enough for you 😊 location was a 15 minute walk from Skanderberg Square. We will definitely be back”"\n  - name: "Nataliaisa"\n    country: "United Kingdom"\n    text: "“It's close to the city centre. Eros was an amazing host. He helped us with everything we needed.”"\n  - name: "George"\n    country: "United Kingdom"\n    text: "“Brilliant service and host, lovely breakfast I'll definitely be staying here again next time I'm in Tirana.”"\nbookingURL: "https://www.booking.com/hotel/al/b-amp-b-artistic-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are welcomed into a world of convenience with the availability of a shared kitchen, ensuring that culinary needs are met with ease, and a luggage storage space for those looking for a hassle-free travel experience. The entire property boasts free WiFi, allowing guests to stay connected with the world, while private parking is available for those arriving by car, albeit at an additional cost.
+---
+title: "B&B Artistic Tirana"
+description: "B&B Artistic Tirana emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100476015.jpg?k=29d5c704c6a8ec9224811bc725de380716f579d7c4ecb7bf02283ed4fc1aca62&o=&hp=1"
+language: en
+slug: b-b-artistic-tirana
+address: "Myslym Shyri, 34/1, Apt.1, 1007 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32368964
+  lng: 19.80505317
+price: "US$27"
+priceFrom: 27
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 1345
+ratings:
+  overall: 8.9
+  location: 8.8
+  cleanliness: 8.9
+  facilities: 8.4
+  value: 9.1
+  comfort: 8.6
+  staff: 9.4
+  wifi: 9.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100476015.jpg?k=29d5c704c6a8ec9224811bc725de380716f579d7c4ecb7bf02283ed4fc1aca62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100476986.jpg?k=e055352229bbc3624b258b86d6962d91d1b6c28b54be9d4cd60d7ad8c125a6ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47710103.jpg?k=d48189dd0318309339f83fdce4207893089416112ff0c9f787266ee88fa3ee32&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47710143.jpg?k=8b1ebfff32457da89bdb635ea58ff6f90cb3567fee607f2289c660f3b5cdd8a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100633061.jpg?k=3a8220631b435ec8fd7918b776ac49a7427fcb40921d2827a8a396f1b2756e20&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100477009.jpg?k=ade5504701177d3f13107db945af74c2635c5acb11abf503dc01cf65c872ff74&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+  - "Superb breakfast"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Deluxe Twin Room"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Rinia Park 1.1 km"
+  - "National Museum of History Albania 1.2 km"
+  - "Skanderbeg Square 1.3 km"
+  - "Clock Tower Tirana 1.3 km"
+  - "National Gallery of Arts Tirana 1.3 km"
+  - "Tanners' Bridge 1.8 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Bar Restorant San Mara 6 m"
+  - "Santa 10 m"
+whatsNearby:
+  - "Sheshi Rekreativ Shefqet Musaraj 250 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 400 m"
+  - "Sheshi Rekreativ Sali Butka 450 m"
+  - "Sheshi Rekreativ Bajram Curri 700 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 750 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 750 m"
+  - "Sheshi Rekreativ Komuna e Parisit 750 m"
+  - "House of Leaves 1 km"
+  - "Sheshi Rekreativ Parku 1Km 1 km"
+  - "Sheshi Paris 1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Paula"
+    country: "United Kingdom"
+    text: "“Bed was really comfy, breakfast was amazing!! Really friendly host who couldn't do enough for you 😊 location was a 15 minute walk from Skanderberg Square. We will definitely be back”"
+  - name: "Nataliaisa"
+    country: "United Kingdom"
+    text: "“It's close to the city centre. Eros was an amazing host. He helped us with everything we needed.”"
+  - name: "George"
+    country: "United Kingdom"
+    text: "“Brilliant service and host, lovely breakfast I'll definitely be staying here again next time I'm in Tirana.”"
+bookingURL: "https://www.booking.com/hotel/al/b-amp-b-artistic-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are welcomed into a world of convenience with the availability of a shared kitchen, ensuring that culinary needs are met with ease, and a luggage storage space for those looking for a hassle-free travel experience. The entire property boasts free WiFi, allowing guests to stay connected with the world, while private parking is available for those arriving by car, albeit at an additional cost.
 
 The accommodations at B&B Artistic Tirana are designed with guest comfort in mind. Each unit is air-conditioned and features a cozy seating area, perfect for unwinding after a day of exploration. The presence of a flat-screen TV with satellite channels ensures entertainment is never far away. The inclusion of a kitchen and dining area in each unit adds a touch of home, while the private bathroom comes equipped with slippers, a walk-in shower, and a hair dryer for added convenience. Not to be overlooked, the provision of an oven, microwave, toaster, coffee machine, and kettle in each unit allows for a seamless self-catering experience. Completing the comfort are the bed linen and towels provided in every unit.
 

@@ -1,4 +1,79 @@
----\ntitle: "Hamit Hoxha - Apartment Near Ohrid Lake"\ndescription: "Hamit Hoxha - Apartment Near Ohrid Lake emerges as a prime choice for travelers seeking a serene beachfront escape in Buçimas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467229778.jpg?k=592e09a8280a372c837bad4ebc970f36fbf6dc8613df33b4f02784890530b29f&o=&hp=1"\nlanguage: en\nslug: hamit-hoxha-apartment-near-ohrid-lake\naddress: "Rruga Vilave, 1001 Buçimas, Albania"\ncity: "Buçimas"\nlocation: "Buçimas"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.90029558\n  lng: 20.67246081\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 11\nratings:\n  overall: 9.7\n  location: 9.8\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 10\n  comfort: 9.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467229778.jpg?k=592e09a8280a372c837bad4ebc970f36fbf6dc8613df33b4f02784890530b29f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356005334.jpg?k=32d4b075a5f9b62b94e0e55c0eda973fb96855fac8b6c30c07667160234afb4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356005419.jpg?k=3a841690597e92d7bc3b3a9e960628c63ce1300e71e68fec03d133bcae77215f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467228314.jpg?k=52983b83a1d8d333b1631ed1de8bc9b58697ff4062fa21b2d2330af98ead1720&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356005205.jpg?k=3cf2f5a27bd98a6fe962ceb4eb61a4fbcb9f2a19a2b8eaca1eeb04b4d83bb650&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520203923.jpg?k=91f70abe0eb723a291b02573bedca0838808aa4ec01f4a8d07825794e8e68d92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467231086.jpg?k=82c29fb7f3084406f71d7dd0897cec0bd5ac73fbbde69e480d69a9e168205270&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467230326.jpg?k=6be3b24941db16c8ad1efb268c3b2b458035c6789b83b164f808936e8887ecf9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467232301.jpg?k=cd4fc5310389c5b39e4e94fd745e14cf289aaaa24679524b21eb88f66d72b2b8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Kafe Ani 100 m"\n  - "Waterland Divjaka 150 m"\nwhatsNearby:\n  - "Driloni National Park 350 m"\n  - "National Park Galicica 6 km"\n  - "National Park Galicica 13 km"\n  - "Bay of Bones 15 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 97 km"\nreviews:\n  - name: "Doctor"\n    country: "Ukraine"\n    text: "“The entire host family was very hospitable and helpful. The accommodation is new, clean and comfortable. Everything was comfortable. The beach is two minutes walk. Nearby there are restaurants and cafes. The weather in August in Pogradec is...”"\n  - name: "Jonida"\n    country: "Albania"\n    text: "“The apartment was cozy, clean and really close to the beach”"\n  - name: "Iva"\n    country: "Albania"\n    text: "“Shtepia shume afer plazhit Kati i pare, shume paster, qetesi, zonja qe na priti ishte shume e sjellshme. Cdo gje shume ne rregull.”"\nbookingURL: "https://www.booking.com/hotel/al/vacation-apartment-near-ohrid-lake.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment, designed for comfort and convenience, features a spacious living room equipped with a flat-screen TV, a fully equipped kitchen for those who love to cook, and a bathroom complete with a hair dryer, ensuring all the comforts of home are at guests' fingertips. The inclusion of a balcony adds a touch of luxury, providing a private space to enjoy the breathtaking surroundings.
+---
+title: "Hamit Hoxha - Apartment Near Ohrid Lake"
+description: "Hamit Hoxha - Apartment Near Ohrid Lake emerges as a prime choice for travelers seeking a serene beachfront escape in Buçimas."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467229778.jpg?k=592e09a8280a372c837bad4ebc970f36fbf6dc8613df33b4f02784890530b29f&o=&hp=1"
+language: en
+slug: hamit-hoxha-apartment-near-ohrid-lake
+address: "Rruga Vilave, 1001 Buçimas, Albania"
+city: "Buçimas"
+location: "Buçimas"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.90029558
+  lng: 20.67246081
+price: "US$29"
+priceFrom: 29
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 11
+ratings:
+  overall: 9.7
+  location: 9.8
+  cleanliness: 9.5
+  facilities: 9.5
+  value: 10
+  comfort: 9.5
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467229778.jpg?k=592e09a8280a372c837bad4ebc970f36fbf6dc8613df33b4f02784890530b29f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356005334.jpg?k=32d4b075a5f9b62b94e0e55c0eda973fb96855fac8b6c30c07667160234afb4e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356005419.jpg?k=3a841690597e92d7bc3b3a9e960628c63ce1300e71e68fec03d133bcae77215f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467228314.jpg?k=52983b83a1d8d333b1631ed1de8bc9b58697ff4062fa21b2d2330af98ead1720&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356005205.jpg?k=3cf2f5a27bd98a6fe962ceb4eb61a4fbcb9f2a19a2b8eaca1eeb04b4d83bb650&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520203923.jpg?k=91f70abe0eb723a291b02573bedca0838808aa4ec01f4a8d07825794e8e68d92&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467231086.jpg?k=82c29fb7f3084406f71d7dd0897cec0bd5ac73fbbde69e480d69a9e168205270&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467230326.jpg?k=6be3b24941db16c8ad1efb268c3b2b458035c6789b83b164f808936e8887ecf9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467232301.jpg?k=cd4fc5310389c5b39e4e94fd745e14cf289aaaa24679524b21eb88f66d72b2b8&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Kafe Ani 100 m"
+  - "Waterland Divjaka 150 m"
+whatsNearby:
+  - "Driloni National Park 350 m"
+  - "National Park Galicica 6 km"
+  - "National Park Galicica 13 km"
+  - "Bay of Bones 15 km"
+airports:
+  - "Ohrid Airport 30 km"
+  - "Kastoria National Airport 71 km"
+  - "Tirana International Airport Mother Teresa 97 km"
+reviews:
+  - name: "Doctor"
+    country: "Ukraine"
+    text: "“The entire host family was very hospitable and helpful. The accommodation is new, clean and comfortable. Everything was comfortable. The beach is two minutes walk. Nearby there are restaurants and cafes. The weather in August in Pogradec is...”"
+  - name: "Jonida"
+    country: "Albania"
+    text: "“The apartment was cozy, clean and really close to the beach”"
+  - name: "Iva"
+    country: "Albania"
+    text: "“Shtepia shume afer plazhit Kati i pare, shume paster, qetesi, zonja qe na priti ishte shume e sjellshme. Cdo gje shume ne rregull.”"
+bookingURL: "https://www.booking.com/hotel/al/vacation-apartment-near-ohrid-lake.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This apartment, designed for comfort and convenience, features a spacious living room equipped with a flat-screen TV, a fully equipped kitchen for those who love to cook, and a bathroom complete with a hair dryer, ensuring all the comforts of home are at guests' fingertips. The inclusion of a balcony adds a touch of luxury, providing a private space to enjoy the breathtaking surroundings.
 
 For those who thrive on adventure, the area around Buçimas does not disappoint. With cycling and hiking among the popular activities, guests have ample opportunity to immerse themselves in the natural beauty that envelops this location.
 

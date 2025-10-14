@@ -1,5 +1,81 @@
----\ntitle: "Prestige Rentals"\ndescription: "Prestige Rentals emerges as a serene haven in the heart of Shkodër, offering guests a tranquil retreat with its quiet street views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283260.jpg?k=5426b38a763d83a0735ad20db2eec4f6d3d38968a0f57a3cd376410845892da4&o=&hp=1"\nlanguage: en\nslug: prestige-rentals\naddress: "Bulevardi Zogu I 1262, 4002 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.05970799\n  lng: 19.50451953\nprice: "US$52"\npriceFrom: 52\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 57\nratings:\n  overall: 9.2\n  location: 8.5\n  cleanliness: 9.3\n  facilities: 9\n  value: 9.3\n  comfort: 9.3\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283260.jpg?k=5426b38a763d83a0735ad20db2eec4f6d3d38968a0f57a3cd376410845892da4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283337.jpg?k=9a6e1e1f4dfb375831327a950128cfd656b030ef85d9011dbd04b2279e4ce0fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283314.jpg?k=26295541aa2249b96fbccba4d386d01ddff5309386a95db688ed3439cd7c90e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283284.jpg?k=3b73b728f8b6335292746d9cd4b6ab9155ed2ea44a722653af31decd2b681bda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283304.jpg?k=0f119cb11840ada3cf5d690de59b9156e16b6cf340cdfe93abfdf5df54744b79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283311.jpg?k=2353c5cda7197414e9af852b302c315b1d93364fc29fff302dafeb9a8e36e418&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283318.jpg?k=5a6fa445caf4f50c1fa5670919ff90d7c212ddd2d2140388e0999257da4b0580&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283339.jpg?k=c497d709a7fc5a3d8eb21fd2e8217f1a132417679f9c15990122fd9e077f8c01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348355013.jpg?k=7471ac4a19ae76f804a53c963940e3c3fdaf843c7dc9384ac192ce8fb120488c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283281.jpg?k=186e7b209cfadcb13c078f010d5b2e9c5f3804cf6acbbf99c5f1b345b9a7fbde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348354511.jpg?k=26b4c7ee3019b7b93b427bcb62945b22a96f728833c77d9236e3c3bea1a36535&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283341.jpg?k=785331dea7d5c97a5bace0b0c860358e2844bf3b3d878434a2aac3d1946c72e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283287.jpg?k=f01d36d06fa9b75945b1bded6cd4bb12b7ba95fb06afb7621f48e928a02fba39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283291.jpg?k=3a61232c78a8cb8184e5d68942cc77be6f33c0c55046ab71318dc7c5fbbe0d2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283293.jpg?k=9cdc1f8730265091d5ffc6e22d83c6544e28a66d5ca538d35f4d9f1b3eec7626&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "BORISI 40 m"\n  - "Top Bast 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1.7 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Alicia"\n    country: "Switzerland"\n    text: "“located in the center, very clean and spacy apartment. The shower is amazing and there is even a washing machine. The check-in was super easy as well as the communication with the owner.
-Can definitely recommend! :)”"\n  - name: "Stanisław"\n    country: "Poland"\n    text: "“I am very pleased with my stay. apartment large and comfortable equipped with everything you need, good contact with the host and good price I recommend to everyone”"\n  - name: "Joaquim"\n    country: "Spain"\n    text: "“Big, clean and comfy. It was fully equipped and comfortable. Host was super nice too.”"\nbookingURL: "https://www.booking.com/hotel/al/prestige-rentals.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe apartment at Prestige Rentals boasts an expansive layout, featuring two separate bedrooms and a bathroom, making it an ideal choice for families or groups seeking space and privacy. The fully equipped kitchen, complete with a dining area and microwave, allows guests the freedom to prepare their meals just the way they like. The living room, anchored by a flat-screen TV, offers a cozy spot for relaxation and entertainment.
+---
+title: "Prestige Rentals"
+description: "Prestige Rentals emerges as a serene haven in the heart of Shkodër, offering guests a tranquil retreat with its quiet street views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283260.jpg?k=5426b38a763d83a0735ad20db2eec4f6d3d38968a0f57a3cd376410845892da4&o=&hp=1"
+language: en
+slug: prestige-rentals
+address: "Bulevardi Zogu I 1262, 4002 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.05970799
+  lng: 19.50451953
+price: "US$52"
+priceFrom: 52
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 57
+ratings:
+  overall: 9.2
+  location: 8.5
+  cleanliness: 9.3
+  facilities: 9
+  value: 9.3
+  comfort: 9.3
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283260.jpg?k=5426b38a763d83a0735ad20db2eec4f6d3d38968a0f57a3cd376410845892da4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283337.jpg?k=9a6e1e1f4dfb375831327a950128cfd656b030ef85d9011dbd04b2279e4ce0fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283314.jpg?k=26295541aa2249b96fbccba4d386d01ddff5309386a95db688ed3439cd7c90e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283284.jpg?k=3b73b728f8b6335292746d9cd4b6ab9155ed2ea44a722653af31decd2b681bda&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283304.jpg?k=0f119cb11840ada3cf5d690de59b9156e16b6cf340cdfe93abfdf5df54744b79&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283311.jpg?k=2353c5cda7197414e9af852b302c315b1d93364fc29fff302dafeb9a8e36e418&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283318.jpg?k=5a6fa445caf4f50c1fa5670919ff90d7c212ddd2d2140388e0999257da4b0580&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283339.jpg?k=c497d709a7fc5a3d8eb21fd2e8217f1a132417679f9c15990122fd9e077f8c01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348355013.jpg?k=7471ac4a19ae76f804a53c963940e3c3fdaf843c7dc9384ac192ce8fb120488c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283281.jpg?k=186e7b209cfadcb13c078f010d5b2e9c5f3804cf6acbbf99c5f1b345b9a7fbde&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348354511.jpg?k=26b4c7ee3019b7b93b427bcb62945b22a96f728833c77d9236e3c3bea1a36535&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283341.jpg?k=785331dea7d5c97a5bace0b0c860358e2844bf3b3d878434a2aac3d1946c72e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283287.jpg?k=f01d36d06fa9b75945b1bded6cd4bb12b7ba95fb06afb7621f48e928a02fba39&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283291.jpg?k=3a61232c78a8cb8184e5d68942cc77be6f33c0c55046ab71318dc7c5fbbe0d2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283293.jpg?k=9cdc1f8730265091d5ffc6e22d83c6544e28a66d5ca538d35f4d9f1b3eec7626&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "BORISI 40 m"
+  - "Top Bast 50 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 1.7 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 72 km"
+  - "Tivat Airport 73 km"
+reviews:
+  - name: "Alicia"
+    country: "Switzerland"
+    text: "“located in the center, very clean and spacy apartment. The shower is amazing and there is even a washing machine. The check-in was super easy as well as the communication with the owner.
+Can definitely recommend! :)”"
+  - name: "Stanisław"
+    country: "Poland"
+    text: "“I am very pleased with my stay. apartment large and comfortable equipped with everything you need, good contact with the host and good price I recommend to everyone”"
+  - name: "Joaquim"
+    country: "Spain"
+    text: "“Big, clean and comfy. It was fully equipped and comfortable. Host was super nice too.”"
+bookingURL: "https://www.booking.com/hotel/al/prestige-rentals.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+The apartment at Prestige Rentals boasts an expansive layout, featuring two separate bedrooms and a bathroom, making it an ideal choice for families or groups seeking space and privacy. The fully equipped kitchen, complete with a dining area and microwave, allows guests the freedom to prepare their meals just the way they like. The living room, anchored by a flat-screen TV, offers a cozy spot for relaxation and entertainment.
 
 Adding to the appeal is the apartment's private entrance, which enhances the sense of privacy and exclusivity for guests. Located just 47 km from the Port of Bar, this property positions guests perfectly to explore the surrounding area. Moreover, with Podgorica Airport only 59 km away, Prestige Rentals presents a convenient option for travelers looking for a seamless connection to and from their destination.
 

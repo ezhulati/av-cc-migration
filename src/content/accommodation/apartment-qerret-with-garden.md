@@ -1,4 +1,78 @@
----\ntitle: "Apartment Qerret with Garden"\ndescription: "Apartment Qerret with Garden emerges as a serene retreat in the heart of Golem, Tirana County, offering a unique blend of convenience and tranquility."\nfeaturedImage: "https://lh3.googleusercontent.com/a-/AOh14GgAHEzwnrv1ExZgMiIom7izG_ELkdXQjjb_i5oM=s96-c64"\nlanguage: en\nslug: apartment-qerret-with-garden\naddress: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2194209\n  lng: 19.50774642\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.5\n  location: 9.6\n  cleanliness: 10\n  facilities: 9.6\n  value: 8.8\n  comfort: 9.6\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://lh3.googleusercontent.com/a-/AOh14GgAHEzwnrv1ExZgMiIom7izG_ELkdXQjjb_i5oM=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/xk/b02858506aba20c9844cce25c84ae81896d81c6a.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473833870.jpg?k=3c5e20452b329cb758c66c64ccd071205b1204adc4065ad6454a005e92b42989&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473833883.jpg?k=de6ed98ab1916e3a65fb48601794024cad37d9bed82a4052bb6d39fd1f9566b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/473833889.jpg?k=d8c9d0fa336c422d4654c23cbb7dbb98a342b30b4b99a5d6d8f68d25e226baaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833809.jpg?k=ac3efbf45335b7bef267c5bbe9567fa67bc30fd68eb28d2746d3b929857d3f3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833899.jpg?k=5884fa8de0934bc0fa62d8d7f0c29363ca22421d9e026857470a920f778ee28b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833893.jpg?k=d63bcd09eacdeb2dbcd7fc722573c4f00dac64e7b4743e75469a08ff70ebf961&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833904.jpg?k=4c3b04f13719c334f520336c9b2721c1a1bd66d93845d19eca5af271904ffe46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833910.jpg?k=e40cf41837933603afebfdc1ab576fe00bc4f865b30941238c7ee579712f45ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833879.jpg?k=2a9b7c790dd07acf66acd67d498fbe0eeacb14601e87b6c9db7aeacaf3211809&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Panorama by Supreme Hotel & Spa 100 m"\n  - "Piceri Cegrani 200 m"\nnearbyBeaches:\n  - "Qerret Beach 100 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Golem Beach 3.3 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nreviews:\n  - name: "Liridon"\n    country: "Kosovo"\n    text: "“The place was in great location, near the beach, very helpful and welcoming owner.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-qerret-golem1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting a picturesque garden view, the apartment is a mere stone's throw away from the historic Rock of Kavaje, and within a comfortable driving distance of 50 km from the intriguing Former Residence of Enver Hoxha and the vibrant Skanderbeg Square. This non-smoking haven ensures a restful stay away from the hustle and bustle.
+---
+title: "Apartment Qerret with Garden"
+description: "Apartment Qerret with Garden emerges as a serene retreat in the heart of Golem, Tirana County, offering a unique blend of convenience and tranquility."
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgAHEzwnrv1ExZgMiIom7izG_ELkdXQjjb_i5oM=s96-c64"
+language: en
+slug: apartment-qerret-with-garden
+address: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2194209
+  lng: 19.50774642
+price: "US$75"
+priceFrom: 75
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 6
+ratings:
+  overall: 9.5
+  location: 9.6
+  cleanliness: 10
+  facilities: 9.6
+  value: 8.8
+  comfort: 9.6
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://lh3.googleusercontent.com/a-/AOh14GgAHEzwnrv1ExZgMiIom7izG_ELkdXQjjb_i5oM=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/xk/b02858506aba20c9844cce25c84ae81896d81c6a.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473833870.jpg?k=3c5e20452b329cb758c66c64ccd071205b1204adc4065ad6454a005e92b42989&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/473833883.jpg?k=de6ed98ab1916e3a65fb48601794024cad37d9bed82a4052bb6d39fd1f9566b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/473833889.jpg?k=d8c9d0fa336c422d4654c23cbb7dbb98a342b30b4b99a5d6d8f68d25e226baaa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833809.jpg?k=ac3efbf45335b7bef267c5bbe9567fa67bc30fd68eb28d2746d3b929857d3f3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833899.jpg?k=5884fa8de0934bc0fa62d8d7f0c29363ca22421d9e026857470a920f778ee28b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833893.jpg?k=d63bcd09eacdeb2dbcd7fc722573c4f00dac64e7b4743e75469a08ff70ebf961&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833904.jpg?k=4c3b04f13719c334f520336c9b2721c1a1bd66d93845d19eca5af271904ffe46&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833910.jpg?k=e40cf41837933603afebfdc1ab576fe00bc4f865b30941238c7ee579712f45ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/473833879.jpg?k=2a9b7c790dd07acf66acd67d498fbe0eeacb14601e87b6c9db7aeacaf3211809&o=&hp=1"
+amenities:
+  - "Free parking"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Panorama by Supreme Hotel & Spa 100 m"
+  - "Piceri Cegrani 200 m"
+nearbyBeaches:
+  - "Qerret Beach 100 m"
+  - "Mali I Robit Beach 1.3 km"
+  - "Golem Beach 3.3 km"
+  - "Shkëmbi i Kavajës Beach 5 km"
+  - "Durres Beach 7 km"
+whatsNearby:
+  - "Durres Amphiteatre 12 km"
+  - "1. Maj 12 km"
+  - "Wine Dhe Pooh 12 km"
+  - "Yje Dhe Hena 12 km"
+  - "Sheshi Demokracia 12 km"
+  - "Bekimi 12 km"
+  - "Sotir Noka 12 km"
+  - "Divjake-Karavasta National Park 18 km"
+airports:
+  - "Tirana International Airport Mother Teresa 27 km"
+reviews:
+  - name: "Liridon"
+    country: "Kosovo"
+    text: "“The place was in great location, near the beach, very helpful and welcoming owner.”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-qerret-golem1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Boasting a picturesque garden view, the apartment is a mere stone's throw away from the historic Rock of Kavaje, and within a comfortable driving distance of 50 km from the intriguing Former Residence of Enver Hoxha and the vibrant Skanderbeg Square. This non-smoking haven ensures a restful stay away from the hustle and bustle.
 
 The accommodation features a spacious terrace that invites guests to unwind and soak in the serene surroundings. Inside, the apartment is thoughtfully designed with two cozy bedrooms, a welcoming living room, and a well-equipped kitchen, catering to all the needs of modern travelers.
 

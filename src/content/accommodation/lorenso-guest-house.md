@@ -1,5 +1,81 @@
----\ntitle: "Lorenso Guest House"\ndescription: "Lorenso Guest House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456545408.jpg?k=ffbc781c46f8a884dfb48935d927f051e6ae95a58c39d5a45b18ec246c569150&o=&hp=1"\nlanguage: en\nslug: lorenso-guest-house\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86146289\n  lng: 20.0198333\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 37\nratings:\n  overall: 9.1\n  location: 8.9\n  cleanliness: 8.7\n  facilities: 8.6\n  value: 9.1\n  comfort: 8.7\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456545408.jpg?k=ffbc781c46f8a884dfb48935d927f051e6ae95a58c39d5a45b18ec246c569150&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456544416.jpg?k=460d6f761de6eeff14edf77150717010f3d076fde0a25cff240eaa29e7b9fa63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456544783.jpg?k=213b197ae31064ca753b124d64d86cc6065bd7395c0073f826689c996cd2fd71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368267835.jpg?k=5f4b19ace22bb675b3906627172dc08d31126c053b7fc75536fdd644154bdc45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481597945.jpg?k=c1cb42ec476ffd28c993479313dab0971d949b1af318bb079d37822b981b14a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368265683.jpg?k=61911b87994e717f9274d928ec89c709927622dbc7c4645474c4453e8d2a0ff3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481597807.jpg?k=87d9c9ec05bbc817507257463bf5108316a820bab1a729725c51d862a42078b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456544904.jpg?k=6372e8b314918e260efd00b8e9e2d4f45d0c4fa64fe6fb36c0668de00b7e9c69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481598228.jpg?k=f7057c76420d6a9eaf10795889063b694c9daeca1a7469172a7d82a358048391&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Pizzeria Aragosta 20 m"\n  - "Alexander 100 m"\nnearbyBeaches:\n  - "VIP Beach 250 m"\n  - "Santa Quaranta Beach 350 m"\n  - "Flamingo Beach 600 m"\n  - "Maestral Beach 650 m"\n  - "Mango Beach 800 m"\nwhatsNearby:\n  - "Parc National de Butrint 500 m"\n  - "Butrint National Park 1.3 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Cihan"\n    country: "Turkey"\n    text: "“We did like specifically the view from the balcony”"\n  - name: "Dario"\n    country: "Italy"\n    text: "“Struttura e posizione eccellenti, come la disponibilità e la gentilezza della proprietaria.”"\n  - name: "Christian"\n    country: "Italy"\n    text: "“Proprietaria di casa una persona squisita ,mi ha fatto anche da infermiera per un problema di salute sopravvenutomi, accompagnandomi e assistendomi nel pronto soccorso del luogo.
-Casa è posizione centrale al quinto piano con panorama sulla...”"\nbookingURL: "https://www.booking.com/hotel/al/lorenso-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBeyond its enviable position, Lorenso Guest House captivates guests with its array of well-appointed apartments. Each unit is a haven of comfort, boasting air conditioning for those warm Mediterranean days, a flat-screen TV for entertainment, and a private bathroom equipped with a bidet and complimentary toiletries. The added luxury of a balcony offers guests a private outdoor space to enjoy the serene sea views that characterize Sarandë's picturesque coastline.
+---
+title: "Lorenso Guest House"
+description: "Lorenso Guest House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456545408.jpg?k=ffbc781c46f8a884dfb48935d927f051e6ae95a58c39d5a45b18ec246c569150&o=&hp=1"
+language: en
+slug: lorenso-guest-house
+address: "Rruga Butrinti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86146289
+  lng: 20.0198333
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 37
+ratings:
+  overall: 9.1
+  location: 8.9
+  cleanliness: 8.7
+  facilities: 8.6
+  value: 9.1
+  comfort: 8.7
+  staff: 9.5
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456545408.jpg?k=ffbc781c46f8a884dfb48935d927f051e6ae95a58c39d5a45b18ec246c569150&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456544416.jpg?k=460d6f761de6eeff14edf77150717010f3d076fde0a25cff240eaa29e7b9fa63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456544783.jpg?k=213b197ae31064ca753b124d64d86cc6065bd7395c0073f826689c996cd2fd71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368267835.jpg?k=5f4b19ace22bb675b3906627172dc08d31126c053b7fc75536fdd644154bdc45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481597945.jpg?k=c1cb42ec476ffd28c993479313dab0971d949b1af318bb079d37822b981b14a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368265683.jpg?k=61911b87994e717f9274d928ec89c709927622dbc7c4645474c4453e8d2a0ff3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481597807.jpg?k=87d9c9ec05bbc817507257463bf5108316a820bab1a729725c51d862a42078b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456544904.jpg?k=6372e8b314918e260efd00b8e9e2d4f45d0c4fa64fe6fb36c0668de00b7e9c69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481598228.jpg?k=f7057c76420d6a9eaf10795889063b694c9daeca1a7469172a7d82a358048391&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Pizzeria Aragosta 20 m"
+  - "Alexander 100 m"
+nearbyBeaches:
+  - "VIP Beach 250 m"
+  - "Santa Quaranta Beach 350 m"
+  - "Flamingo Beach 600 m"
+  - "Maestral Beach 650 m"
+  - "Mango Beach 800 m"
+whatsNearby:
+  - "Parc National de Butrint 500 m"
+  - "Butrint National Park 1.3 km"
+  - "Plazhi I Krorezes 7 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 11 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Cihan"
+    country: "Turkey"
+    text: "“We did like specifically the view from the balcony”"
+  - name: "Dario"
+    country: "Italy"
+    text: "“Struttura e posizione eccellenti, come la disponibilità e la gentilezza della proprietaria.”"
+  - name: "Christian"
+    country: "Italy"
+    text: "“Proprietaria di casa una persona squisita ,mi ha fatto anche da infermiera per un problema di salute sopravvenutomi, accompagnandomi e assistendomi nel pronto soccorso del luogo.
+Casa è posizione centrale al quinto piano con panorama sulla...”"
+bookingURL: "https://www.booking.com/hotel/al/lorenso-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Beyond its enviable position, Lorenso Guest House captivates guests with its array of well-appointed apartments. Each unit is a haven of comfort, boasting air conditioning for those warm Mediterranean days, a flat-screen TV for entertainment, and a private bathroom equipped with a bidet and complimentary toiletries. The added luxury of a balcony offers guests a private outdoor space to enjoy the serene sea views that characterize Sarandë's picturesque coastline.
 
 For those in need of additional amenities, the guest house thoughtfully provides the option to request towels and linens, ensuring a hassle-free stay. The proximity to significant landmarks, such as the ancient ruins of Butrint National Park and Ancient Fanoti, located 14 km and 48 km away respectively, positions Lorenso Guest House as a perfect base for explorers keen to delve into the rich history and natural beauty of the region.
 

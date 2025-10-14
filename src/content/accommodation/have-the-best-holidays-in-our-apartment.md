@@ -1,4 +1,71 @@
----\ntitle: "Have the best holidays in our apartment"\ndescription: "Discover unparalleled comfort at \"Have the Best Holidays in Our Apartment,\" a prime choice for travelers seeking a blend of convenience and luxury in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804811.jpg?k=bd7b88fc1812b3b27a3f3296b7c3ec513b9c26e00a70b1af82d52b6a087ec161&o=&hp=1"\nlanguage: en\nslug: have-the-best-holidays-in-our-apartment\naddress: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.870873\n  lng: 19.9968311\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804811.jpg?k=bd7b88fc1812b3b27a3f3296b7c3ec513b9c26e00a70b1af82d52b6a087ec161&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804807.jpg?k=0cdc6e273fea63763ad2bf779b5c1f38aa006b48063204e4b7ac19bc73c7bbaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804809.jpg?k=e06b2d00a3d0d12f67b0c8a2d68cf452f85da63196cc593dd5f8309bc85d7279&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301581.jpg?k=bc43b5757753866b91fed3735d9973fee6280969fe8c4fea873b1a4b5228eb1e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301579.jpg?k=38a448957607c4fa5d0a5cae32279f6f2fe34b1dbf628dfe0949d57733545c56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301593.jpg?k=4c4741aabf248ffb95489bc037720198cd9f3a37982c602b6d7b2b4b4a2e32c4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301586.jpg?k=d000089f0c91b8b538537ec93cc12163defcbd8d66913b41162e5b25201633f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301588.jpg?k=20849ea4f49518da2abe14a1733e66ff71d7b4a7d7a190855fe5e9cf4ca94b84&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301609.jpg?k=89fef29cc1a0c24df1bdf4525170771e04a2fc010e5ac87b375b5e77faf5c368&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Facilities for disabled guests"\nnearbyRestaurants:\n  - "Vibes Lounge Bar 6 m"\n  - "Andon Lapa 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 100 m"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.4 km"\n  - "La Petite Beach 1.5 km"\n  - "Maestral Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.7 km"\n  - "Butrint National Park 3.3 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/have-the-best-holidays-in-our-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nElevating the guest experience, the apartment is equipped with modern amenities including complimentary WiFi, a television for entertainment, a washing machine for longer stays, and a kitchenette complete with a fridge and kitchenware, ensuring all the comforts of home are at your fingertips.
+---
+title: "Have the best holidays in our apartment"
+description: "Discover unparalleled comfort at \"Have the Best Holidays in Our Apartment,\" a prime choice for travelers seeking a blend of convenience and luxury in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804811.jpg?k=bd7b88fc1812b3b27a3f3296b7c3ec513b9c26e00a70b1af82d52b6a087ec161&o=&hp=1"
+language: en
+slug: have-the-best-holidays-in-our-apartment
+address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.870873
+  lng: 19.9968311
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804811.jpg?k=bd7b88fc1812b3b27a3f3296b7c3ec513b9c26e00a70b1af82d52b6a087ec161&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804807.jpg?k=0cdc6e273fea63763ad2bf779b5c1f38aa006b48063204e4b7ac19bc73c7bbaa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804809.jpg?k=e06b2d00a3d0d12f67b0c8a2d68cf452f85da63196cc593dd5f8309bc85d7279&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301581.jpg?k=bc43b5757753866b91fed3735d9973fee6280969fe8c4fea873b1a4b5228eb1e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301579.jpg?k=38a448957607c4fa5d0a5cae32279f6f2fe34b1dbf628dfe0949d57733545c56&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301593.jpg?k=4c4741aabf248ffb95489bc037720198cd9f3a37982c602b6d7b2b4b4a2e32c4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301586.jpg?k=d000089f0c91b8b538537ec93cc12163defcbd8d66913b41162e5b25201633f4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301588.jpg?k=20849ea4f49518da2abe14a1733e66ff71d7b4a7d7a190855fe5e9cf4ca94b84&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475301609.jpg?k=89fef29cc1a0c24df1bdf4525170771e04a2fc010e5ac87b375b5e77faf5c368&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Facilities for disabled guests"
+nearbyRestaurants:
+  - "Vibes Lounge Bar 6 m"
+  - "Andon Lapa 100 m"
+nearbyBeaches:
+  - "Sarande Main Beach 100 m"
+  - "Saranda City Beach 1.1 km"
+  - "Saranda Bay Beach 1.4 km"
+  - "La Petite Beach 1.5 km"
+  - "Maestral Beach 1.6 km"
+whatsNearby:
+  - "Parc National de Butrint 2.7 km"
+  - "Butrint National Park 3.3 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/have-the-best-holidays-in-our-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Elevating the guest experience, the apartment is equipped with modern amenities including complimentary WiFi, a television for entertainment, a washing machine for longer stays, and a kitchenette complete with a fridge and kitchenware, ensuring all the comforts of home are at your fingertips.
 
 For those looking to explore local culinary delights, a variety of dining options are conveniently located near the property, offering a taste of the local cuisine without venturing far.
 

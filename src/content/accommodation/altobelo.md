@@ -1,4 +1,79 @@
----\ntitle: "ALTOBELO"\ndescription: "ALTOBELO stands as a distinguished 4-star hotel in the vibrant heart of Vlorë, merely 800 meters from the serene Vjetër Beach, offering guests a unique blend of urban charm and tranquil beach proximity."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916830.jpg?k=495c18b2df8b40114405628a451b5cc1a6c1d37063f0ec3d8b5eafdf0dc5ba17&o=&hp=1"\nlanguage: en\nslug: altobelo\naddress: "Rruga Cajupi Building 10, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.45677543\n  lng: 19.48549108\nprice: "US$43"\npriceFrom: 43\nstarRating: 4\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 31\nratings:\n  overall: 8.3\n  location: 8.7\n  cleanliness: 8.4\n  facilities: 7.8\n  value: 8.5\n  comfort: 8.3\n  staff: 9\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916830.jpg?k=495c18b2df8b40114405628a451b5cc1a6c1d37063f0ec3d8b5eafdf0dc5ba17&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916978.jpg?k=e076b65f9b2edc540a17b33649a0af9e900ae1b4202261b9877b9d19e06f6c91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377337037.jpg?k=faa024a658b8866af43ad974ee4ba0bfc672a8b13e50a51b6d3adef1ed69bd94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916897.jpg?k=894cfce05f81696f72a91d03285c5418c1b79e7ad56bcefe32ca9a12663585bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916899.jpg?k=dc128be56d329425e005046fab9f6cc182c04ed862e9c800eda6df39a3f3048c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916903.jpg?k=c7cc38f922d9e884b9012a1076edf26f601a078752b959178e10360249da61f3&o=&hp=1"\namenities:\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Twin Room"\n  - "Double Room with Balcony and Sea View"\n  - "Family Room with Balcony"\n  - "Double or Twin Room"\n  - "Double or Twin Room with Balcony"\nnearbyRestaurants:\n  - "Sofra e Lakrorit Ne Vlore 50 m"\n  - "Gelateria 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 600 m"\n  - "Vlore Beach 1.2 km"\n  - "Ri Beach 2.5 km"\n  - "Beach at Government Villas 4.1 km"\n  - "Liro Beach 4.7 km"\nwhatsNearby:\n  - "Kuzum Baba 1.4 km"\n  - "Independence Square 1.6 km"\n  - "Scooby Doo Vlore 2.4 km"\nreviews:\n  - name: "Fabiana"\n    country: "Italy"\n    text: "“Hotel nuovo e moderno con stanze molto ampie e spaziose , staff cordiale e sempre a disposizione per qualunque cosa… ci ritornerei molto volentieri.”"\n  - name: "Fabrizio"\n    country: "Italy"\n    text: "“L' hotel è sito all'undicesimo e dodicesimo piano con ascensore ( come c'è scritto), è nuovissimo,pulitissimo(pulizie più volte al giorno) ,ha il wifi gratis,le camere sono spaziose e pulite. Avevo la camera con balcone da dove si ammirava un...”"\n  - name: "Mario"\n    country: "Italy"\n    text: "“Ottima la posizione, eccellente la pulizia e molto disponibile il proprietario e il fratello che hanno risolto sempre gli inconvenienti”"\nbookingURL: "https://www.booking.com/hotel/al/altobelo.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room in ALTOBELO is a haven of comfort, equipped with air conditioning, complimentary WiFi, and a private bathroom, ensuring a stay that combines convenience with luxury. For those who appreciate the finer details, rooms are furnished with a kettle, a flat-screen TV, and a safety deposit box for personal security. Select accommodations also boast a balcony, offering a private outdoor space to enjoy the fresh air, with some rooms providing breathtaking sea views that are sure to captivate any traveler.
+---
+title: "ALTOBELO"
+description: "ALTOBELO stands as a distinguished 4-star hotel in the vibrant heart of Vlorë, merely 800 meters from the serene Vjetër Beach, offering guests a unique blend of urban charm and tranquil beach proximity."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916830.jpg?k=495c18b2df8b40114405628a451b5cc1a6c1d37063f0ec3d8b5eafdf0dc5ba17&o=&hp=1"
+language: en
+slug: altobelo
+address: "Rruga Cajupi Building 10, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.45677543
+  lng: 19.48549108
+price: "US$43"
+priceFrom: 43
+starRating: 4
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 31
+ratings:
+  overall: 8.3
+  location: 8.7
+  cleanliness: 8.4
+  facilities: 7.8
+  value: 8.5
+  comfort: 8.3
+  staff: 9
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916830.jpg?k=495c18b2df8b40114405628a451b5cc1a6c1d37063f0ec3d8b5eafdf0dc5ba17&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916978.jpg?k=e076b65f9b2edc540a17b33649a0af9e900ae1b4202261b9877b9d19e06f6c91&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377337037.jpg?k=faa024a658b8866af43ad974ee4ba0bfc672a8b13e50a51b6d3adef1ed69bd94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916897.jpg?k=894cfce05f81696f72a91d03285c5418c1b79e7ad56bcefe32ca9a12663585bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916899.jpg?k=dc128be56d329425e005046fab9f6cc182c04ed862e9c800eda6df39a3f3048c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371916903.jpg?k=c7cc38f922d9e884b9012a1076edf26f601a078752b959178e10360249da61f3&o=&hp=1"
+amenities:
+  - "Facilities for disabled guests"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Twin Room"
+  - "Double Room with Balcony and Sea View"
+  - "Family Room with Balcony"
+  - "Double or Twin Room"
+  - "Double or Twin Room with Balcony"
+nearbyRestaurants:
+  - "Sofra e Lakrorit Ne Vlore 50 m"
+  - "Gelateria 150 m"
+nearbyBeaches:
+  - "Vjetër Beach 600 m"
+  - "Vlore Beach 1.2 km"
+  - "Ri Beach 2.5 km"
+  - "Beach at Government Villas 4.1 km"
+  - "Liro Beach 4.7 km"
+whatsNearby:
+  - "Kuzum Baba 1.4 km"
+  - "Independence Square 1.6 km"
+  - "Scooby Doo Vlore 2.4 km"
+reviews:
+  - name: "Fabiana"
+    country: "Italy"
+    text: "“Hotel nuovo e moderno con stanze molto ampie e spaziose , staff cordiale e sempre a disposizione per qualunque cosa… ci ritornerei molto volentieri.”"
+  - name: "Fabrizio"
+    country: "Italy"
+    text: "“L' hotel è sito all'undicesimo e dodicesimo piano con ascensore ( come c'è scritto), è nuovissimo,pulitissimo(pulizie più volte al giorno) ,ha il wifi gratis,le camere sono spaziose e pulite. Avevo la camera con balcone da dove si ammirava un...”"
+  - name: "Mario"
+    country: "Italy"
+    text: "“Ottima la posizione, eccellente la pulizia e molto disponibile il proprietario e il fratello che hanno risolto sempre gli inconvenienti”"
+bookingURL: "https://www.booking.com/hotel/al/altobelo.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each room in ALTOBELO is a haven of comfort, equipped with air conditioning, complimentary WiFi, and a private bathroom, ensuring a stay that combines convenience with luxury. For those who appreciate the finer details, rooms are furnished with a kettle, a flat-screen TV, and a safety deposit box for personal security. Select accommodations also boast a balcony, offering a private outdoor space to enjoy the fresh air, with some rooms providing breathtaking sea views that are sure to captivate any traveler.
 
 The hotel prides itself on its multilingual reception, with staff fluent in both English and Italian, ready to assist guests with any needs or inquiries, ensuring a seamless and welcoming experience from check-in to departure.
 

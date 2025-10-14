@@ -1,5 +1,78 @@
----\ntitle: "Apartment for rent Durres Shkembi Kavajes"\ndescription: "Discover the charm of Durrës from the comfort of the Apartment for Rent Durres Shkembi Kavajes, a prime beachfront property that offers more than just a place to stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712654.jpg?k=67339da51013360dfb4e4cf284e441ffc610aeb5f9ed1a26a273e52412362785&o=&hp=1"\nlanguage: en\nslug: apartment-for-rent-durres-shkembi-kavajes\naddress: "Rruga Shkembi i Kavajes, 1000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2926557\n  lng: 19.51086354\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712654.jpg?k=67339da51013360dfb4e4cf284e441ffc610aeb5f9ed1a26a273e52412362785&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496522088.jpg?k=d179d1123e83b975f5db656c832927c7ad3372c93f2804b6c00207b751af491b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496522326.jpg?k=c7e78e1f8e9888465ed67e09a44abf7887a8288af4d6984db4456c6a921ed129&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462511115.jpg?k=21ad8b9970330f38cef4a003c32524f90faf1fcee6350ce51cdefcd3711cd976&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462512309.jpg?k=f4e7711f696324df1af5faccdd0973cfd3ffbca37e1298a829cdf2c6a85d5150&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712904.jpg?k=0b0739a2211ae6daf88f4161185b4a19331e97380fffd1d6bded4b30afc88ff2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712713.jpg?k=5f3987b8df63fbfd5dc9498cbd1d1cc00927f680f4a2c3ae82c63db136008516&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496520449.jpg?k=3713182f81bce95726389444de75cf114e7a90114e5c919775f3f486044b078d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496520579.jpg?k=dde285bd8895e3544626c664163c0a1168984f3977164a602a1dde887444e34e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Midway Cafe 100 m"\n  - "Am-PM 300 m"\nnearbyBeaches:\n  - "Durres Beach 500 m"\n  - "Shkëmbi i Kavajës Beach 800 m"\n  - "Golem Beach 3.1 km"\n  - "Mali I Robit Beach 5 km"\n  - "Currila Beach 6 km"\nwhatsNearby:\n  - "Bekimi 4.8 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Sheshi Demokracia 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 6 km"\n  - "1. Maj 6 km"\n  - "Sotir Noka 6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Giuseppe"\n    country: "Italy"\n    text: "“Tutto perfetto! L'appartamento è a 2 passi dal mare, con doppio balcone, cucina e tanto altro.
-Elvira, la proprietaria di casa è stata disponibile e gentile sin dal primo minuto.”"\nbookingURL: "https://www.booking.com/hotel/al/palazzo-durres2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nBoasting panoramic city views, the apartment is strategically positioned 40 km from the historic Skanderbeg Square and 44 km from the thrilling Dajti Ekspres Cable Car, making it an ideal base for those looking to immerse themselves in the local culture and adventure. The Rock of Kavaje, another notable landmark, is just 2.9 km away, while the intriguing Former Residence of Enver Hoxha is accessible at 40 km distance.
+---
+title: "Apartment for rent Durres Shkembi Kavajes"
+description: "Discover the charm of Durrës from the comfort of the Apartment for Rent Durres Shkembi Kavajes, a prime beachfront property that offers more than just a place to stay."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712654.jpg?k=67339da51013360dfb4e4cf284e441ffc610aeb5f9ed1a26a273e52412362785&o=&hp=1"
+language: en
+slug: apartment-for-rent-durres-shkembi-kavajes
+address: "Rruga Shkembi i Kavajes, 1000 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2926557
+  lng: 19.51086354
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712654.jpg?k=67339da51013360dfb4e4cf284e441ffc610aeb5f9ed1a26a273e52412362785&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496522088.jpg?k=d179d1123e83b975f5db656c832927c7ad3372c93f2804b6c00207b751af491b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496522326.jpg?k=c7e78e1f8e9888465ed67e09a44abf7887a8288af4d6984db4456c6a921ed129&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462511115.jpg?k=21ad8b9970330f38cef4a003c32524f90faf1fcee6350ce51cdefcd3711cd976&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462512309.jpg?k=f4e7711f696324df1af5faccdd0973cfd3ffbca37e1298a829cdf2c6a85d5150&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712904.jpg?k=0b0739a2211ae6daf88f4161185b4a19331e97380fffd1d6bded4b30afc88ff2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421712713.jpg?k=5f3987b8df63fbfd5dc9498cbd1d1cc00927f680f4a2c3ae82c63db136008516&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496520449.jpg?k=3713182f81bce95726389444de75cf114e7a90114e5c919775f3f486044b078d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496520579.jpg?k=dde285bd8895e3544626c664163c0a1168984f3977164a602a1dde887444e34e&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Midway Cafe 100 m"
+  - "Am-PM 300 m"
+nearbyBeaches:
+  - "Durres Beach 500 m"
+  - "Shkëmbi i Kavajës Beach 800 m"
+  - "Golem Beach 3.1 km"
+  - "Mali I Robit Beach 5 km"
+  - "Currila Beach 6 km"
+whatsNearby:
+  - "Bekimi 4.8 km"
+  - "Wine Dhe Pooh 6 km"
+  - "Sheshi Demokracia 6 km"
+  - "Durres Amphiteatre 6 km"
+  - "Yje Dhe Hena 6 km"
+  - "1. Maj 6 km"
+  - "Sotir Noka 6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+reviews:
+  - name: "Giuseppe"
+    country: "Italy"
+    text: "“Tutto perfetto! L'appartamento è a 2 passi dal mare, con doppio balcone, cucina e tanto altro.
+Elvira, la proprietaria di casa è stata disponibile e gentile sin dal primo minuto.”"
+bookingURL: "https://www.booking.com/hotel/al/palazzo-durres2.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Boasting panoramic city views, the apartment is strategically positioned 40 km from the historic Skanderbeg Square and 44 km from the thrilling Dajti Ekspres Cable Car, making it an ideal base for those looking to immerse themselves in the local culture and adventure. The Rock of Kavaje, another notable landmark, is just 2.9 km away, while the intriguing Former Residence of Enver Hoxha is accessible at 40 km distance.
 
 This inviting apartment features a balcony that offers breathtaking sea views, creating the perfect backdrop for a morning coffee or an evening unwind. Inside, guests will find two cozy bedrooms, a welcoming living room, and a flat-screen TV for entertainment. The equipped kitchen allows for the preparation of home-cooked meals, adding a touch of homeliness to the stay. The bathroom is well-appointed with a bidet and a shower, ensuring a comfortable and refreshing experience.
 

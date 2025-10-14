@@ -1,3 +1,59 @@
----\ntitle: "Gjergjana House"\ndescription: "Gjergjana House, a charming holiday home in Berat, offers a unique blend of historical elegance and modern convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964360.jpg?k=520a60a75bc66e1ebe5d84290984c2cc33ee273ab78e37d1b84b73c7e907105a&o=&hp=1"\nlanguage: en\nslug: gjergjana-house\naddress: "Rruga Rilindja, 5003 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70404296\n  lng: 19.9575554\nprice: "US$64"\npriceFrom: 64\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964360.jpg?k=520a60a75bc66e1ebe5d84290984c2cc33ee273ab78e37d1b84b73c7e907105a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964342.jpg?k=ffbfbecd4b6c41f31a5e82f364b654caa09175786a0836ff4f6aca8366211645&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964350.jpg?k=1b6f972ff2d2bd1afbed37f849689f5cb57418ecf97e853a850af7248647a4cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964348.jpg?k=ca586bdcb8cadc6daf76960fa23288f9335f63a6ddfa0a65201b003ed9c26722&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964365.jpg?k=607776ba4ee5dd32197959c1f9ed004954ba51a576da632b998a70ee7912d198&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964347.jpg?k=45e950c0f76d0b1e094cdda313e69b1c61a3aac78474cc5fca54cf838213ec39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964294.jpg?k=ffe238dd5f6a470fb0f71b13031786d3ee9cc01b614db90a2cf54466b0d2ad01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964346.jpg?k=2dd3b5119afa9dd8a5e42f112f1ce87279fbee012b1965ca09613a7b80364390&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964349.jpg?k=7d5842e8af401465d912de7a0b781863c30d0124196da922a9e4907b1d8d09ec&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom House"\nnearbyRestaurants:\n  - "Gimi Coffee House 150 m"\n  - "Imperial Fish Berat 200 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nbookingURL: "https://www.booking.com/hotel/al/gjergjana-house.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe home itself boasts a spacious terrace that offers stunning views of the city, creating the perfect backdrop for a morning coffee or an evening unwind. Inside, the house is equipped with two cozy bedrooms, a welcoming living room complete with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge. The presence of a clean and functional bathroom with a bidet adds to the comfort of the stay. Notably, the holiday home ensures guest privacy with a dedicated private entrance, making it feel like a home away from home.
+---
+title: "Gjergjana House"
+description: "Gjergjana House, a charming holiday home in Berat, offers a unique blend of historical elegance and modern convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964360.jpg?k=520a60a75bc66e1ebe5d84290984c2cc33ee273ab78e37d1b84b73c7e907105a&o=&hp=1"
+language: en
+slug: gjergjana-house
+address: "Rruga Rilindja, 5003 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.70404296
+  lng: 19.9575554
+price: "US$64"
+priceFrom: 64
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964360.jpg?k=520a60a75bc66e1ebe5d84290984c2cc33ee273ab78e37d1b84b73c7e907105a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964342.jpg?k=ffbfbecd4b6c41f31a5e82f364b654caa09175786a0836ff4f6aca8366211645&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964350.jpg?k=1b6f972ff2d2bd1afbed37f849689f5cb57418ecf97e853a850af7248647a4cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964348.jpg?k=ca586bdcb8cadc6daf76960fa23288f9335f63a6ddfa0a65201b003ed9c26722&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964365.jpg?k=607776ba4ee5dd32197959c1f9ed004954ba51a576da632b998a70ee7912d198&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964347.jpg?k=45e950c0f76d0b1e094cdda313e69b1c61a3aac78474cc5fca54cf838213ec39&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964294.jpg?k=ffe238dd5f6a470fb0f71b13031786d3ee9cc01b614db90a2cf54466b0d2ad01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964346.jpg?k=2dd3b5119afa9dd8a5e42f112f1ce87279fbee012b1965ca09613a7b80364390&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964349.jpg?k=7d5842e8af401465d912de7a0b781863c30d0124196da922a9e4907b1d8d09ec&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom House"
+nearbyRestaurants:
+  - "Gimi Coffee House 150 m"
+  - "Imperial Fish Berat 200 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 8 km"
+  - "Sheshi Tomorri 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 80 km"
+  - "Ohrid Airport 83 km"
+bookingURL: "https://www.booking.com/hotel/al/gjergjana-house.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The home itself boasts a spacious terrace that offers stunning views of the city, creating the perfect backdrop for a morning coffee or an evening unwind. Inside, the house is equipped with two cozy bedrooms, a welcoming living room complete with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a fridge. The presence of a clean and functional bathroom with a bidet adds to the comfort of the stay. Notably, the holiday home ensures guest privacy with a dedicated private entrance, making it feel like a home away from home.
 
 Situated 118 km from Tirana International Mother Teresa Airport, Gjergjana House presents an ideal retreat for those looking to explore the beauty of Berat while enjoying the comforts of a well-appointed holiday home.

@@ -14,8 +14,6 @@ seo:
   focusKeyword: "uka farm"
   robots: "index"
   metaTitle: "%title% - A Culinary and Wine Tasting Experience in Albania"
-  focusKeyword: "uka farm"
-  robots: "index"
 ---
 
 ## An Albanian Culinary Experience

@@ -1,4 +1,82 @@
----\ntitle: "Nicely equipped apartment with sea-view 693"\ndescription: "Discover the charm of Durrës from the comfort of the Nicely Equipped Apartment with Sea-View 693, a prime location for travelers seeking both relaxation and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339485.jpg?k=9bb9bd7a784aeda00a776b5dfb673a2648ef68738121b5118258380813b28fa6&o=&hp=1"\nlanguage: en\nslug: nicely-equipped-apartment-with-sea-view-693\naddress: "8F2W+4MH, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3003125\n  lng: 19.4967344\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 7.5\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339485.jpg?k=9bb9bd7a784aeda00a776b5dfb673a2648ef68738121b5118258380813b28fa6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339748.jpg?k=080fe992e8f8c9d477d7b54616f34782edaf593d3d23295f237fbfdfc7fb4042&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339619.jpg?k=cb474da88c5c99e661cb95032227ab46bbe8097a6569ddf01c79a63f92082b53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339672.jpg?k=41ff8495e1603c722117dd4c66e904ed6355cef535be25e0ebeec7bb7edfb4dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339774.jpg?k=dcfe89dc35f163526fda8c4ee76ef13ba064d6636f9ea9e8bc559ff574a8fa9d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339504.jpg?k=d25ced69c2e0269df766fb21c5724bf7d6ff358861e166b2dc09164b2a810823&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339792.jpg?k=d8e1e29db8818aed50071675d152e35db2a8638aae94e7c44b1eebc3955a8780&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339541.jpg?k=ccde20aa17077c9d91486774794f72cde2345c7c0b8a3dfb273f264ab7787af4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339323.jpg?k=56c863541215ee5bdfb11b2195dbf7e083a97e560564b952c4010cb649eb713a&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Private beach area"\nnearbyRestaurants:\n  - "RRESHKA 100 m"\n  - "Verona 150 m"\nnearbyBeaches:\n  - "Durres Beach 30 m"\n  - "Shkëmbi i Kavajës Beach 1.9 km"\n  - "Currila Beach 4.2 km"\n  - "Golem Beach 4.3 km"\n  - "Kallmi Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3.5 km"\n  - "Wine Dhe Pooh 4.4 km"\n  - "Sheshi Demokracia 4.5 km"\n  - "Yje Dhe Hena 4.5 km"\n  - "Durres Amphiteatre 4.5 km"\n  - "1. Maj 4.7 km"\n  - "Sotir Noka 4.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Géza"\n    country: "Germany"\n    text: "“Great new apartment, freshly renovated. Great view, excellent location, friendly team.”"\nbookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-693.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment stands out for its thoughtful amenities, including a seamless airport transfer service and the option for car rental, making exploration of the surrounding area both easy and accessible. Guests will find themselves in a beautifully air-conditioned space, featuring a separate bedroom, a cozy living room, a fully equipped kitchen for those home-cooked meals, and a bathroom. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that evenings can be as relaxing as the days are adventurous.
+---
+title: "Nicely equipped apartment with sea-view 693"
+description: "Discover the charm of Durrës from the comfort of the Nicely Equipped Apartment with Sea-View 693, a prime location for travelers seeking both relaxation and adventure."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339485.jpg?k=9bb9bd7a784aeda00a776b5dfb673a2648ef68738121b5118258380813b28fa6&o=&hp=1"
+language: en
+slug: nicely-equipped-apartment-with-sea-view-693
+address: "8F2W+4MH, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3003125
+  lng: 19.4967344
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 7.5
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339485.jpg?k=9bb9bd7a784aeda00a776b5dfb673a2648ef68738121b5118258380813b28fa6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339748.jpg?k=080fe992e8f8c9d477d7b54616f34782edaf593d3d23295f237fbfdfc7fb4042&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339619.jpg?k=cb474da88c5c99e661cb95032227ab46bbe8097a6569ddf01c79a63f92082b53&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339672.jpg?k=41ff8495e1603c722117dd4c66e904ed6355cef535be25e0ebeec7bb7edfb4dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339774.jpg?k=dcfe89dc35f163526fda8c4ee76ef13ba064d6636f9ea9e8bc559ff574a8fa9d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339504.jpg?k=d25ced69c2e0269df766fb21c5724bf7d6ff358861e166b2dc09164b2a810823&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339792.jpg?k=d8e1e29db8818aed50071675d152e35db2a8638aae94e7c44b1eebc3955a8780&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339541.jpg?k=ccde20aa17077c9d91486774794f72cde2345c7c0b8a3dfb273f264ab7787af4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476339323.jpg?k=56c863541215ee5bdfb11b2195dbf7e083a97e560564b952c4010cb649eb713a&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Private beach area"
+nearbyRestaurants:
+  - "RRESHKA 100 m"
+  - "Verona 150 m"
+nearbyBeaches:
+  - "Durres Beach 30 m"
+  - "Shkëmbi i Kavajës Beach 1.9 km"
+  - "Currila Beach 4.2 km"
+  - "Golem Beach 4.3 km"
+  - "Kallmi Beach 6 km"
+whatsNearby:
+  - "Bekimi 3.5 km"
+  - "Wine Dhe Pooh 4.4 km"
+  - "Sheshi Demokracia 4.5 km"
+  - "Yje Dhe Hena 4.5 km"
+  - "Durres Amphiteatre 4.5 km"
+  - "1. Maj 4.7 km"
+  - "Sotir Noka 4.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Géza"
+    country: "Germany"
+    text: "“Great new apartment, freshly renovated. Great view, excellent location, friendly team.”"
+bookingURL: "https://www.booking.com/hotel/al/1-bedroom-apartment-693.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment stands out for its thoughtful amenities, including a seamless airport transfer service and the option for car rental, making exploration of the surrounding area both easy and accessible. Guests will find themselves in a beautifully air-conditioned space, featuring a separate bedroom, a cozy living room, a fully equipped kitchen for those home-cooked meals, and a bathroom. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring that evenings can be as relaxing as the days are adventurous.
 
 For those incidental needs or quick snacks, a minimarket on the premises adds an extra layer of convenience to your stay. While the allure of the nearby beaches is undeniable, guests are also positioned perfectly to venture further afield to notable attractions such as the Dajti Ekspres Cable Car and the Rock of Kavaje, promising a full itinerary of exploration and discovery.
 

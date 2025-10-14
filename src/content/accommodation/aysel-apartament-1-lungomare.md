@@ -1,4 +1,70 @@
----\ntitle: "aysel apartament 1 lungomare"\ndescription: "Aysel Apartament 1 Lungomare emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469880844.jpg?k=acd2640463daa13dbf22e5c02b3d3f725141d16bf87f705e806e494b4c1e1b79&o=&hp=1"\nlanguage: en\nslug: aysel-apartament-1-lungomare\naddress: "Rruga Reshat Osmani, 9301 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44729827\n  lng: 19.49586062\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 7\nratings:\n  overall: 9.3\n  location: 8.9\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 8.9\n  comfort: 10\n  staff: 8.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469880844.jpg?k=acd2640463daa13dbf22e5c02b3d3f725141d16bf87f705e806e494b4c1e1b79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470205831.jpg?k=937b9119d149d94013ebc62aa0c348a3e958b3673070a416a18e5e6143f4fe3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470206103.jpg?k=f6c5db6038c170be55d698aeb65120074a55c15bffd79baf84486ef652701e1a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470204750.jpg?k=9b5f33412b0016518d6dab2a36bb6746b835cdcfd21b5f1131be43da0baac3ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470205143.jpg?k=6b06f05fe21cd6adde1619bfdafc17087106207804eea6e0fc85829931ad9597&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469880881.jpg?k=a6a80a512083050447ca5c06c193d6d7f302c1ac8e4d34a1f1cf1093a9431acf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470205651.jpg?k=8ed054b3bad533954f99f56e475dbce2e441df27f6896e7ee5839a23d00ada1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470204456.jpg?k=e392f7323da356fcb7ce4d0f6b523c7a3cda49f5107e6895d6ab9e2093b757c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470206330.jpg?k=ac5274320f326409f4b2b35068501caf85438c647a55f9f7e0c664169ada09c9&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Restorant Xhokla 150 m"\n  - "Primo Gusto 150 m"\nnearbyBeaches:\n  - "Vlore Beach 200 m"\n  - "Ri Beach 1.3 km"\n  - "Vjetër Beach 1.3 km"\n  - "Beach at Government Villas 3.1 km"\n  - "Liro Beach 3.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.2 km"\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.6 km"\nreviews:\n  - name: "Stefan"\n    country: "North Macedonia"\n    text: "“It was very clean and everithing was new or used once or twice.”"\nbookingURL: "https://www.booking.com/hotel/al/aysel-apartament-1-lungomare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a spacious haven, boasting two bedrooms and three living rooms, all designed to provide guests with ample space to relax and unwind. The inclusion of a terrace offering mountain views adds a touch of tranquility to the stay. Modern amenities are not overlooked, with a flat-screen TV, an equipped kitchen featuring an oven and a toaster, and a pristine bathroom with a bidet, ensuring a home-away-from-home experience. The entire space is dedicated to being non-smoking, catering to the comfort and well-being of all guests.
+---
+title: "aysel apartament 1 lungomare"
+description: "Aysel Apartament 1 Lungomare emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469880844.jpg?k=acd2640463daa13dbf22e5c02b3d3f725141d16bf87f705e806e494b4c1e1b79&o=&hp=1"
+language: en
+slug: aysel-apartament-1-lungomare
+address: "Rruga Reshat Osmani, 9301 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44729827
+  lng: 19.49586062
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 7
+ratings:
+  overall: 9.3
+  location: 8.9
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 8.9
+  comfort: 10
+  staff: 8.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469880844.jpg?k=acd2640463daa13dbf22e5c02b3d3f725141d16bf87f705e806e494b4c1e1b79&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470205831.jpg?k=937b9119d149d94013ebc62aa0c348a3e958b3673070a416a18e5e6143f4fe3a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470206103.jpg?k=f6c5db6038c170be55d698aeb65120074a55c15bffd79baf84486ef652701e1a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470204750.jpg?k=9b5f33412b0016518d6dab2a36bb6746b835cdcfd21b5f1131be43da0baac3ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470205143.jpg?k=6b06f05fe21cd6adde1619bfdafc17087106207804eea6e0fc85829931ad9597&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469880881.jpg?k=a6a80a512083050447ca5c06c193d6d7f302c1ac8e4d34a1f1cf1093a9431acf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470205651.jpg?k=8ed054b3bad533954f99f56e475dbce2e441df27f6896e7ee5839a23d00ada1c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470204456.jpg?k=e392f7323da356fcb7ce4d0f6b523c7a3cda49f5107e6895d6ab9e2093b757c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470206330.jpg?k=ac5274320f326409f4b2b35068501caf85438c647a55f9f7e0c664169ada09c9&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Restorant Xhokla 150 m"
+  - "Primo Gusto 150 m"
+nearbyBeaches:
+  - "Vlore Beach 200 m"
+  - "Ri Beach 1.3 km"
+  - "Vjetër Beach 1.3 km"
+  - "Beach at Government Villas 3.1 km"
+  - "Liro Beach 3.8 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.2 km"
+  - "Kuzum Baba 2.3 km"
+  - "Independence Square 2.6 km"
+reviews:
+  - name: "Stefan"
+    country: "North Macedonia"
+    text: "“It was very clean and everithing was new or used once or twice.”"
+bookingURL: "https://www.booking.com/hotel/al/aysel-apartament-1-lungomare.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a spacious haven, boasting two bedrooms and three living rooms, all designed to provide guests with ample space to relax and unwind. The inclusion of a terrace offering mountain views adds a touch of tranquility to the stay. Modern amenities are not overlooked, with a flat-screen TV, an equipped kitchen featuring an oven and a toaster, and a pristine bathroom with a bidet, ensuring a home-away-from-home experience. The entire space is dedicated to being non-smoking, catering to the comfort and well-being of all guests.
 
 For those with a desire to explore beyond the immediate surroundings, Aysel Apartament 1 Lungomare thoughtfully provides on-site parking and car hire options, making it effortless to venture out and discover the local area. Notable nearby attractions include Vjetër Beach and the historic Kuzum Baba, both within easy reach.
 

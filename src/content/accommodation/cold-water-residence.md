@@ -1,4 +1,78 @@
----\ntitle: "Cold Water Residence"\ndescription: "Cold Water Residence in Vlorë stands out as a prime choice for travelers seeking both comfort and convenience, with its prime beachfront location offering stunning sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004624.jpg?k=146c5e8147ff4873b973f003f4a2b83829ba1a6b417d07a77a28d41be230a7ea&o=&hp=1"\nlanguage: en\nslug: cold-water-residence\naddress: "Rruga mehmet agalliu, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44068698\n  lng: 19.49601173\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 38\nratings:\n  overall: 9.1\n  location: 9.3\n  cleanliness: 8.9\n  facilities: 9\n  value: 9.2\n  comfort: 9.3\n  staff: 9.1\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004624.jpg?k=146c5e8147ff4873b973f003f4a2b83829ba1a6b417d07a77a28d41be230a7ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97851170.jpg?k=ed4bbd185dbdca239109f095860a452fc3c151dc25258dabff17a0aa2f11cbee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100083573.jpg?k=2c3df996019173be6e9783f61edaed36111959ecc1ba6a3bf5a61b735828bbce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73351405.jpg?k=14f63110c6e3ff3ae1715fc23a9c86289ae97895dee8b295850fe7600d2fb031&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97851175.jpg?k=6529593beeadb3e6663eb7af32f0ad4e11c0b9283a53e3a85c19c099ffb088f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004626.jpg?k=23cd61b20fde66848d89c8b80a5b5e89a7153d731f611cb049fd64fc628a9442&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004623.jpg?k=e38ecdec55dd5133e12c0c6f687ed42f3ceb1ed5eb98cf7b6a91ecd2df88cdb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150505927.jpg?k=297d4c3a65e213a7c2c8f3133ca7af9e3391e206056de930c2547bb7bd375839&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150505931.jpg?k=bdea02fa3b2523b25d783ce2d337a0b666cd3e9500131d834a9276f56982f96e&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Taverna del Mare 100 m"\n  - "Bizzare 100 m"\nnearbyBeaches:\n  - "Vlore Beach 250 m"\n  - "Ri Beach 600 m"\n  - "Vjetër Beach 1.8 km"\n  - "Beach at Government Villas 2.4 km"\n  - "Liro Beach 3.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 500 m"\n  - "Kuzum Baba 3 km"\n  - "Independence Square 3.4 km"\nreviews:\n  - name: "Vera"\n    country: "North Macedonia"\n    text: "“The location is perfect, it was very clean and comfortable. Also, the host was very kind and they were ready to give us everything we needed.”"\n  - name: "Frenkel"\n    country: "Hungary"\n    text: "“The apartment is in good place, if the most important factor is the nearby of the sea, bars and the shops.”"\n  - name: "Andrew"\n    country: "United Kingdom"\n    text: "“Perfect location, really good size apartment, clean, balcony.”"\nbookingURL: "https://www.booking.com/hotel/al/cold-water-residence.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Cold Water Residence are designed with families in mind, featuring spacious family rooms that ensure a comfortable stay for all. Each apartment is thoughtfully equipped with a fully functional kitchen, complete with kitchenware, and a cozy seating area. Entertainment and practical needs are met with the inclusion of a TV and a washing machine in every unit. For added comfort, air conditioning is standard across all units, with select apartments offering the luxury of a balcony. A unique feature in some apartments is a dressing room, providing guests with a private space to change.
+---
+title: "Cold Water Residence"
+description: "Cold Water Residence in Vlorë stands out as a prime choice for travelers seeking both comfort and convenience, with its prime beachfront location offering stunning sea views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004624.jpg?k=146c5e8147ff4873b973f003f4a2b83829ba1a6b417d07a77a28d41be230a7ea&o=&hp=1"
+language: en
+slug: cold-water-residence
+address: "Rruga mehmet agalliu, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44068698
+  lng: 19.49601173
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 38
+ratings:
+  overall: 9.1
+  location: 9.3
+  cleanliness: 8.9
+  facilities: 9
+  value: 9.2
+  comfort: 9.3
+  staff: 9.1
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004624.jpg?k=146c5e8147ff4873b973f003f4a2b83829ba1a6b417d07a77a28d41be230a7ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97851170.jpg?k=ed4bbd185dbdca239109f095860a452fc3c151dc25258dabff17a0aa2f11cbee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100083573.jpg?k=2c3df996019173be6e9783f61edaed36111959ecc1ba6a3bf5a61b735828bbce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73351405.jpg?k=14f63110c6e3ff3ae1715fc23a9c86289ae97895dee8b295850fe7600d2fb031&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97851175.jpg?k=6529593beeadb3e6663eb7af32f0ad4e11c0b9283a53e3a85c19c099ffb088f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004626.jpg?k=23cd61b20fde66848d89c8b80a5b5e89a7153d731f611cb049fd64fc628a9442&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004623.jpg?k=e38ecdec55dd5133e12c0c6f687ed42f3ceb1ed5eb98cf7b6a91ecd2df88cdb8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150505927.jpg?k=297d4c3a65e213a7c2c8f3133ca7af9e3391e206056de930c2547bb7bd375839&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150505931.jpg?k=bdea02fa3b2523b25d783ce2d337a0b666cd3e9500131d834a9276f56982f96e&o=&hp=1"
+amenities:
+  - "Airport shuttle (free)"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Taverna del Mare 100 m"
+  - "Bizzare 100 m"
+nearbyBeaches:
+  - "Vlore Beach 250 m"
+  - "Ri Beach 600 m"
+  - "Vjetër Beach 1.8 km"
+  - "Beach at Government Villas 2.4 km"
+  - "Liro Beach 3.1 km"
+whatsNearby:
+  - "Scooby Doo Vlore 500 m"
+  - "Kuzum Baba 3 km"
+  - "Independence Square 3.4 km"
+reviews:
+  - name: "Vera"
+    country: "North Macedonia"
+    text: "“The location is perfect, it was very clean and comfortable. Also, the host was very kind and they were ready to give us everything we needed.”"
+  - name: "Frenkel"
+    country: "Hungary"
+    text: "“The apartment is in good place, if the most important factor is the nearby of the sea, bars and the shops.”"
+  - name: "Andrew"
+    country: "United Kingdom"
+    text: "“Perfect location, really good size apartment, clean, balcony.”"
+bookingURL: "https://www.booking.com/hotel/al/cold-water-residence.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Cold Water Residence are designed with families in mind, featuring spacious family rooms that ensure a comfortable stay for all. Each apartment is thoughtfully equipped with a fully functional kitchen, complete with kitchenware, and a cozy seating area. Entertainment and practical needs are met with the inclusion of a TV and a washing machine in every unit. For added comfort, air conditioning is standard across all units, with select apartments offering the luxury of a balcony. A unique feature in some apartments is a dressing room, providing guests with a private space to change.
 
 For those looking to explore the vibrant surroundings of Vlorë, Cold Water Residence serves as a perfect base. The area is ripe for activities such as cycling, allowing guests to immerse themselves in the local landscape. Further afield, Vjetër Beach and the historic site of Kuzum Baba are easily accessible, located just a short drive away.
 

@@ -1,7 +1,95 @@
----\ntitle: "Hotel Vila Kerciku"\ndescription: "Discover the charm of Hotel Vila Kerciku, a modern oasis housed within a beautifully renovated historic building right in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270187615.jpg?k=92df34a16c8eb677d4a666d4c59e33bfdf47d6c03379a1cf370133f4a3df9dfb&o=&hp=1"\nlanguage: en\nslug: hotel-vila-kerciku\naddress: "Sheshi Avni Rustemi Tirane , 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32957816\n  lng: 19.82506514\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 121\nratings:\n  overall: 9.4\n  location: 9.7\n  cleanliness: 9.4\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.3\n  staff: 9.7\n  wifi: 9.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270187615.jpg?k=92df34a16c8eb677d4a666d4c59e33bfdf47d6c03379a1cf370133f4a3df9dfb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15974830.jpg?k=99d6824f5b5fe261e069bd86faf2e79f1f3ac61219a5bc60ad7e8916991bfe6f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/16282998.jpg?k=1400a20cd75e09e5c185b404c3fe7bc7b88beb6165d23a527f648662a0a9d464&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15959395.jpg?k=718891f7191d9d034af049569a0d7d5de888d648869a866ae53ebf42208558a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15959290.jpg?k=49067086b8456a9e884ce0a895e7ecf41b1204e34e769c8e2f282f1cdfc404de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15959244.jpg?k=f3b9272b02ee07cfb08cd0d07284b0d170f962176abbdbfed798b931bbf76fa8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Standard Twin Room"\n  - "Double Room"\nnearbyAttractions:\n  - "Rinia Park 800 m"\n  - "House of Leaves 800 m"\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Rossini Gastropub 20 m"\n  - "Back Home 30 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 200 m"\n  - "Sheshi Sulejman Pasha 300 m"\n  - "Tanners' Bridge 350 m"\n  - "Clock Tower Tirana 500 m"\n  - "National Gallery of Arts Tirana 500 m"\n  - "Skanderbeg Square 550 m"\n  - "Parku Europa 550 m"\n  - "Sheshi Skënderbej 600 m"\n  - "National Museum of History Albania 650 m"\n  - "Amazing Nature 650 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Andrew"\n    country: "United Kingdom"\n    text: "“The location was great with lots of bars and restaurants on the doorstep. The hotel was very clean,beds comfortable, great shower and staff really helpful and friendly. The price was great as well”"\n  - name: "Madeleine"\n    country: "Australia"\n    text: "“Great location, and really friendly staff who helped organise transfers and taxis, and who made fresh omelettes and coffee each morning!”"\n  - name: "Riccardo"\n    country: "Italy"\n    text: "“Convenient central location, spacious and clean room.
+---
+title: "Hotel Vila Kerciku"
+description: "Discover the charm of Hotel Vila Kerciku, a modern oasis housed within a beautifully renovated historic building right in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270187615.jpg?k=92df34a16c8eb677d4a666d4c59e33bfdf47d6c03379a1cf370133f4a3df9dfb&o=&hp=1"
+language: en
+slug: hotel-vila-kerciku
+address: "Sheshi Avni Rustemi Tirane , 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32957816
+  lng: 19.82506514
+price: "US$65"
+priceFrom: 65
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 121
+ratings:
+  overall: 9.4
+  location: 9.7
+  cleanliness: 9.4
+  facilities: 8.9
+  value: 9.2
+  comfort: 9.3
+  staff: 9.7
+  wifi: 9.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270187615.jpg?k=92df34a16c8eb677d4a666d4c59e33bfdf47d6c03379a1cf370133f4a3df9dfb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15974830.jpg?k=99d6824f5b5fe261e069bd86faf2e79f1f3ac61219a5bc60ad7e8916991bfe6f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/16282998.jpg?k=1400a20cd75e09e5c185b404c3fe7bc7b88beb6165d23a527f648662a0a9d464&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15959395.jpg?k=718891f7191d9d034af049569a0d7d5de888d648869a866ae53ebf42208558a1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15959290.jpg?k=49067086b8456a9e884ce0a895e7ecf41b1204e34e769c8e2f282f1cdfc404de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15959244.jpg?k=f3b9272b02ee07cfb08cd0d07284b0d170f962176abbdbfed798b931bbf76fa8&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Restaurant"
+  - "24-hour front desk"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Standard Twin Room"
+  - "Double Room"
+nearbyAttractions:
+  - "Rinia Park 800 m"
+  - "House of Leaves 800 m"
+  - "Former Residence of Enver Hoxha 1.2 km"
+  - "Grand Park of Tirana 2 km"
+  - "Bunk'Art 1 Museum 3.7 km"
+nearbyRestaurants:
+  - "Rossini Gastropub 20 m"
+  - "Back Home 30 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek ish ATSh 200 m"
+  - "Sheshi Sulejman Pasha 300 m"
+  - "Tanners' Bridge 350 m"
+  - "Clock Tower Tirana 500 m"
+  - "National Gallery of Arts Tirana 500 m"
+  - "Skanderbeg Square 550 m"
+  - "Parku Europa 550 m"
+  - "Sheshi Skënderbej 600 m"
+  - "National Museum of History Albania 650 m"
+  - "Amazing Nature 650 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Andrew"
+    country: "United Kingdom"
+    text: "“The location was great with lots of bars and restaurants on the doorstep. The hotel was very clean,beds comfortable, great shower and staff really helpful and friendly. The price was great as well”"
+  - name: "Madeleine"
+    country: "Australia"
+    text: "“Great location, and really friendly staff who helped organise transfers and taxis, and who made fresh omelettes and coffee each morning!”"
+  - name: "Riccardo"
+    country: "Italy"
+    text: "“Convenient central location, spacious and clean room.
 Owner and staff are extremely kind and accommodating.
 Breakfast recommended as well.
-I'd definitely choose this place again.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-kerciku.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nHotel Vila Kerciku doesn't just stop at comfortable accommodations; it also offers a delightful breakfast experience in its dining hall, ensuring a pleasant start to your day. For those peckish moments, a convenient snack bar is available on-site. Moreover, the hotel prides itself on its round-the-clock front desk service and the option for room service, catering to guests' needs at any hour.
+I'd definitely choose this place again.”"
+bookingURL: "https://www.booking.com/hotel/al/vila-kerciku.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Hotel Vila Kerciku doesn't just stop at comfortable accommodations; it also offers a delightful breakfast experience in its dining hall, ensuring a pleasant start to your day. For those peckish moments, a convenient snack bar is available on-site. Moreover, the hotel prides itself on its round-the-clock front desk service and the option for room service, catering to guests' needs at any hour.
 
 Just a stone's throw away, visitors will find a restaurant renowned for its traditional specialties, perfect for those looking to savor local flavors. The hotel's prime location means that iconic landmarks such as Skanderbeg Square, the Clock Tower of Tirana, and the Et'hem Bey Mosque are merely 500 meters away. The surrounding neighborhood is a treasure trove of museums, shops, and cafes, promising an immersive cultural experience.
 

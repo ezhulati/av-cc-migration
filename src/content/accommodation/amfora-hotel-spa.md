@@ -1,4 +1,102 @@
----\ntitle: "Amfora Hotel & Spa"\ndescription: "Amfora Hotel & Spa stands out as a premier destination for travelers seeking both relaxation and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503563585.jpg?k=7eb26b603aa71e9edb3c9ada81733241922c0b410629a275e7daf23feba00fce&o=&hp=1"\nlanguage: en\nslug: amfora-hotel-spa\naddress: "Rruga Pavaresia lagjia 13, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.28324141\n  lng: 19.51342124\nprice: "US$70"\npriceFrom: 70\nstarRating: 4\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 90\nratings:\n  overall: 8.6\n  location: 8.4\n  cleanliness: 9.3\n  facilities: 8.8\n  value: 8.4\n  comfort: 9.2\n  staff: 8.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503563585.jpg?k=7eb26b603aa71e9edb3c9ada81733241922c0b410629a275e7daf23feba00fce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470327167.jpg?k=8cad155f4e77749f2a7b979a8d79451599477758219cba3faa443244cd0adc76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465183922.jpg?k=40ef099e844405848bd7f4f29b100a5fa64739d916daf867372cbabbc9c19ffa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465186607.jpg?k=17f2a443e9fecf6e3867b2e21b12956a89ecaf9ffbd6420a1e74055b7e9cc2b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503593606.jpg?k=3a06b6f0392fe866497da0afb272f02ef292a6497b06050734cfff43bba56b4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465184191.jpg?k=39edef711935a9940daf3b60ec97027cf00b60f7729d4d241f682be2fccdecb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503593973.jpg?k=6e0c48fc2f2c10a1bc98922e23dc5c80db6114490fb2e9cff6bd1906e8a84065&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465185566.jpg?k=899e091805c7a11295163653bc453292beffe4ead68033c6b10dc96d7855493a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503590536.jpg?k=e5fb90fd6e87b13fdc515888ba677d54b3ce527e3a753117151229ab4cf6cba4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465182424.jpg?k=d3386f73bc3891fae4ea095d075fc7a392b2772b3bca6f8a60764d32f833fc05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465182691.jpg?k=a3293caacad7441ebd306e53b6649c8dc1f58cbbbc3fda3fee87a3cbcb356754&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503595969.jpg?k=27806fca17be10bf418c009297a1cb9f541a831836355d2d9648ac57a4b4c7dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465182411.jpg?k=3d5286f2795b01338099fcb15b102d620b24a2d1769b773f927bdaa9702e9736&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465183834.jpg?k=1e29419a05030b6c0ae81bd8c05024cf52c2adf49ffbbd5e3b077414e15a8bcb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503592175.jpg?k=7ba93fd4bb2d01587ccfb6f5909ff4baed457032c82c06f11d48709ec1cce296&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Deluxe Double Room"\n  - "Junior Suite"\nnearbyRestaurants:\n  - "Kosova 50 m"\n  - "Restorant Peja 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 200 m"\n  - "Durres Beach 450 m"\n  - "Golem Beach 2 km"\n  - "Mali I Robit Beach 3.9 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Louise"\n    country: "United Kingdom"\n    text: "“Everything was very clean, staff were amazing and did more than enough for us”"\n  - name: "Labinot"\n    country: "Switzerland"\n    text: "“Very freindly personel and clean hotel! I loved the pool on the back! Very good price for what you get.”"\n  - name: "Giedre"\n    country: "Lithuania"\n    text: "“We stayed here only for 1 night. The hotel is very modern, equipped with all the necessary items. Clean environment, delicious food, and a good breakfast. The staff is friendly and polite. We arrived at late night (2 am)and were very tired,...”"\nbookingURL: "https://www.booking.com/hotel/al/amfora.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room at Amfora Hotel & Spa is a testament to comfort and convenience, equipped with air conditioning, free WiFi, and a desk, ensuring a seamless stay for both leisure and business travelers. Select rooms boast breathtaking mountain views, and every accommodation features a balcony, allowing guests to soak in the serene surroundings. For entertainment and convenience, rooms are furnished with a flat-screen TV and a hairdryer, catering to all guest needs.
+---
+title: "Amfora Hotel & Spa"
+description: "Amfora Hotel & Spa stands out as a premier destination for travelers seeking both relaxation and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503563585.jpg?k=7eb26b603aa71e9edb3c9ada81733241922c0b410629a275e7daf23feba00fce&o=&hp=1"
+language: en
+slug: amfora-hotel-spa
+address: "Rruga Pavaresia lagjia 13, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.28324141
+  lng: 19.51342124
+price: "US$70"
+priceFrom: 70
+starRating: 4
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 90
+ratings:
+  overall: 8.6
+  location: 8.4
+  cleanliness: 9.3
+  facilities: 8.8
+  value: 8.4
+  comfort: 9.2
+  staff: 8.6
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503563585.jpg?k=7eb26b603aa71e9edb3c9ada81733241922c0b410629a275e7daf23feba00fce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470327167.jpg?k=8cad155f4e77749f2a7b979a8d79451599477758219cba3faa443244cd0adc76&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465183922.jpg?k=40ef099e844405848bd7f4f29b100a5fa64739d916daf867372cbabbc9c19ffa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465186607.jpg?k=17f2a443e9fecf6e3867b2e21b12956a89ecaf9ffbd6420a1e74055b7e9cc2b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503593606.jpg?k=3a06b6f0392fe866497da0afb272f02ef292a6497b06050734cfff43bba56b4a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465184191.jpg?k=39edef711935a9940daf3b60ec97027cf00b60f7729d4d241f682be2fccdecb3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503593973.jpg?k=6e0c48fc2f2c10a1bc98922e23dc5c80db6114490fb2e9cff6bd1906e8a84065&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465185566.jpg?k=899e091805c7a11295163653bc453292beffe4ead68033c6b10dc96d7855493a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503590536.jpg?k=e5fb90fd6e87b13fdc515888ba677d54b3ce527e3a753117151229ab4cf6cba4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465182424.jpg?k=d3386f73bc3891fae4ea095d075fc7a392b2772b3bca6f8a60764d32f833fc05&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465182691.jpg?k=a3293caacad7441ebd306e53b6649c8dc1f58cbbbc3fda3fee87a3cbcb356754&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503595969.jpg?k=27806fca17be10bf418c009297a1cb9f541a831836355d2d9648ac57a4b4c7dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465182411.jpg?k=3d5286f2795b01338099fcb15b102d620b24a2d1769b773f927bdaa9702e9736&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465183834.jpg?k=1e29419a05030b6c0ae81bd8c05024cf52c2adf49ffbbd5e3b077414e15a8bcb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503592175.jpg?k=7ba93fd4bb2d01587ccfb6f5909ff4baed457032c82c06f11d48709ec1cce296&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Facilities for disabled guests"
+  - "Free parking"
+  - "Free WiFi"
+  - "2 restaurants"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Standard Double Room"
+  - "Deluxe Double Room"
+  - "Junior Suite"
+nearbyRestaurants:
+  - "Kosova 50 m"
+  - "Restorant Peja 100 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 200 m"
+  - "Durres Beach 450 m"
+  - "Golem Beach 2 km"
+  - "Mali I Robit Beach 3.9 km"
+  - "Qerret Beach 6 km"
+whatsNearby:
+  - "Bekimi 6 km"
+  - "Wine Dhe Pooh 7 km"
+  - "Durres Amphiteatre 7 km"
+  - "Yje Dhe Hena 7 km"
+  - "Sheshi Demokracia 7 km"
+  - "1. Maj 7 km"
+  - "Sotir Noka 7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Louise"
+    country: "United Kingdom"
+    text: "“Everything was very clean, staff were amazing and did more than enough for us”"
+  - name: "Labinot"
+    country: "Switzerland"
+    text: "“Very freindly personel and clean hotel! I loved the pool on the back! Very good price for what you get.”"
+  - name: "Giedre"
+    country: "Lithuania"
+    text: "“We stayed here only for 1 night. The hotel is very modern, equipped with all the necessary items. Clean environment, delicious food, and a good breakfast. The staff is friendly and polite. We arrived at late night (2 am)and were very tired,...”"
+bookingURL: "https://www.booking.com/hotel/al/amfora.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room at Amfora Hotel & Spa is a testament to comfort and convenience, equipped with air conditioning, free WiFi, and a desk, ensuring a seamless stay for both leisure and business travelers. Select rooms boast breathtaking mountain views, and every accommodation features a balcony, allowing guests to soak in the serene surroundings. For entertainment and convenience, rooms are furnished with a flat-screen TV and a hairdryer, catering to all guest needs.
 
 Beyond the comfort of the rooms, Amfora Hotel & Spa excels in services aimed at making every stay memorable. Guests can benefit from room service, a 24-hour front desk, and currency exchange services, ensuring a hassle-free experience. For those looking to explore the area or conduct business, the hotel offers car rental services and a fully equipped business center.
 

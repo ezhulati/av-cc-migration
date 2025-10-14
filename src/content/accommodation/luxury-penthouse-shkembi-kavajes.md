@@ -1,7 +1,87 @@
----\ntitle: "luxury Penthouse shkembi kavajes"\ndescription: "Luxury Penthouse Shkembi Kavajes emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\nlanguage: en\nslug: luxury-penthouse-shkembi-kavajes\naddress: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.27693534\n  lng: 19.51488825\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 9.2\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\n  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489446119.jpg?k=a4c3c07c307c6ebffaa6aa3a46fb64f1d38db3f16ca6b105cfb9a39f17a63afc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/489445953.jpg?k=7393af832d118d28a6c64640fc79f9c218a5faac6512697abbad86016de11240&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/314119959.jpg?k=3b987f098da2231d2e9f1cb82866f23bd7893e9c1c7664da486bd6a513d66221&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/314119820.jpg?k=046e35a4f90bec8596c3abca052c51d4d2603d19017fcfd430025bebdd6d3d26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/314119876.jpg?k=9209be95edff5b9c5007932d8a3d3b7fac4a367968d05541ac0ceab14482b800&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/314121126.jpg?k=2aea64ee56940c35839d8311b303025b141faa64dae45b30f6f1b09bd6d43903&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/314120877.jpg?k=f2e71e8d747bd6d46f719928c91a13555815a9a9cfd515f1ccf55fcfdf113e8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/314121061.jpg?k=f2a8b9005a498dd180de25154a7a5212b2b3f26571a7d1da14f41eccb1f1124e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/313485191.jpg?k=9e71a38d7993a27b952c63949004d7c6dde7e7d1634213a6272c820b1c8c83f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/314121216.jpg?k=fae56443b559990911c77d49e4e000258fd0b387abb63533763423631f12a1aa&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Oyster 20 m"\n  - "Restorant Piceri G&D 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 10 m"\n  - "Durres Beach 1.1 km"\n  - "Golem Beach 1.3 km"\n  - "Mali I Robit Beach 3.2 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 7 km"\n  - "Durres Amphiteatre 7 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Nenad"\n    country: "Germany"\n    text: "“A nice, family-friendly town with many restaurants, cafes and shops. Everything is within reach and quite cheap.
+---
+title: "luxury Penthouse shkembi kavajes"
+description: "Luxury Penthouse Shkembi Kavajes emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+language: en
+slug: luxury-penthouse-shkembi-kavajes
+address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.27693534
+  lng: 19.51488825
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 9.2
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+  - "https://cf.bstatic.com/static/img/flags/12/de/f6251761605d6215469da2bf2c1816db2a128ed2.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489446119.jpg?k=a4c3c07c307c6ebffaa6aa3a46fb64f1d38db3f16ca6b105cfb9a39f17a63afc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/489445953.jpg?k=7393af832d118d28a6c64640fc79f9c218a5faac6512697abbad86016de11240&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/314119959.jpg?k=3b987f098da2231d2e9f1cb82866f23bd7893e9c1c7664da486bd6a513d66221&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/314119820.jpg?k=046e35a4f90bec8596c3abca052c51d4d2603d19017fcfd430025bebdd6d3d26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/314119876.jpg?k=9209be95edff5b9c5007932d8a3d3b7fac4a367968d05541ac0ceab14482b800&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/314121126.jpg?k=2aea64ee56940c35839d8311b303025b141faa64dae45b30f6f1b09bd6d43903&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/314120877.jpg?k=f2e71e8d747bd6d46f719928c91a13555815a9a9cfd515f1ccf55fcfdf113e8d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/314121061.jpg?k=f2a8b9005a498dd180de25154a7a5212b2b3f26571a7d1da14f41eccb1f1124e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/313485191.jpg?k=9e71a38d7993a27b952c63949004d7c6dde7e7d1634213a6272c820b1c8c83f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/314121216.jpg?k=fae56443b559990911c77d49e4e000258fd0b387abb63533763423631f12a1aa&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Oyster 20 m"
+  - "Restorant Piceri G&D 100 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 10 m"
+  - "Durres Beach 1.1 km"
+  - "Golem Beach 1.3 km"
+  - "Mali I Robit Beach 3.2 km"
+  - "Qerret Beach 5 km"
+whatsNearby:
+  - "Bekimi 7 km"
+  - "Wine Dhe Pooh 7 km"
+  - "Durres Amphiteatre 7 km"
+  - "Yje Dhe Hena 7 km"
+  - "Sheshi Demokracia 7 km"
+  - "1. Maj 7 km"
+  - "Sotir Noka 8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Nenad"
+    country: "Germany"
+    text: "“A nice, family-friendly town with many restaurants, cafes and shops. Everything is within reach and quite cheap.
 The host is very kind and ready to help at any time of the day.
-I recommend it to everyone who wants a luxury family vacation for...”"\n  - name: "Kamel"\n    country: "Albania"\n    text: "“Very nice host. Restaurants, shops etc... less than 50 meters.
-Very beautiful view from the terrace.”"\nbookingURL: "https://www.booking.com/hotel/al/luxury-apartment-durres1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, featuring three well-appointed bedrooms, a fully equipped kitchen with an oven and microwave, and a cozy seating area perfect for unwinding. The inclusion of a flat-screen TV and a bathroom outfitted with a bath adds a touch of luxury to the stay. Guests are invited to enjoy the panoramic pool views from the comfort of their balcony, which is also furnished for outdoor relaxation. Emphasizing a smoke-free environment, the accommodation ensures a clean and healthy atmosphere for all guests.
+I recommend it to everyone who wants a luxury family vacation for...”"
+  - name: "Kamel"
+    country: "Albania"
+    text: "“Very nice host. Restaurants, shops etc... less than 50 meters.
+Very beautiful view from the terrace.”"
+bookingURL: "https://www.booking.com/hotel/al/luxury-apartment-durres1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a testament to modern living, featuring three well-appointed bedrooms, a fully equipped kitchen with an oven and microwave, and a cozy seating area perfect for unwinding. The inclusion of a flat-screen TV and a bathroom outfitted with a bath adds a touch of luxury to the stay. Guests are invited to enjoy the panoramic pool views from the comfort of their balcony, which is also furnished for outdoor relaxation. Emphasizing a smoke-free environment, the accommodation ensures a clean and healthy atmosphere for all guests.
 
 Situated 1.5 km from Golem Beach and within easy reach of the city's must-visit sites like Skanderbeg Square, 42 km away, and the Dajti Ekspres Cable Car, 46 km away, the penthouse serves as an ideal base for exploring Durrës and beyond. The Rock of Kavaje, a mere 500 meters from the property, offers a glimpse into the area's natural beauty. For those traveling by air, Tirana International Mother Teresa Airport is conveniently located 36 km from Luxury Penthouse Shkembi Kavajes, making arrivals and departures a breeze.
 

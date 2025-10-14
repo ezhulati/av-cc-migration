@@ -1,4 +1,89 @@
----\ntitle: "Teo Apartaments"\ndescription: "Teo Apartaments stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë, located a mere 200 meters from the pristine shores of Flamingo Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889424.jpg?k=50ece58291c9344325c16db340b9c5641cabf8e108eba6e5261af75ef17bb542&o=&hp=1"\nlanguage: en\nslug: teo-apartaments\naddress: "Rruga Sarande-Butrint,km 3, 9702 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85398773\n  lng: 20.02230942\nprice: "US$50"\npriceFrom: 50\nstarRating: 4\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 124\nratings:\n  overall: 8.8\n  location: 8.7\n  cleanliness: 9.2\n  facilities: 8.7\n  value: 9\n  comfort: 9\n  staff: 8.8\n  wifi: 7.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889424.jpg?k=50ece58291c9344325c16db340b9c5641cabf8e108eba6e5261af75ef17bb542&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889661.jpg?k=50797316b703d27eec8fe3e6e0dd0880d22b98169c273b6515ac6dbc741662c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292882423.jpg?k=2c625cec7a9833dbbc39d1b55dfe1722762c30dc903232d164ab076c5f2394cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889582.jpg?k=122a221a68e698a8c9f7ae14cdd6079944befdc9adee13a9145229c127167a0f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889255.jpg?k=774d47a2ee307030a9c104ed9adee442745da13aed5cdae93032ec192e012434&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889682.jpg?k=9e81fe1ea86f9e4f958169203e2d59765e411266604338083cb95daa9ca49e57&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Facilities for disabled guests"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Apartment with Balcony"\n  - "Apartment with Balcony"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Day & Night Fast Food 10 m"\n  - "Zgara Tradicionale 50 m"\nnearbyBeaches:\n  - "Mango Beach 150 m"\n  - "Flamingo Beach 200 m"\n  - "Santa Quaranta Beach 450 m"\n  - "VIP Beach 550 m"\n  - "Maestral Beach 1.5 km"\nwhatsNearby:\n  - "Butrint National Park 500 m"\n  - "Parc National de Butrint 600 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 10 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Piotr"\n    country: "Poland"\n    text: "“Very nice place, quiet, big rooms, great AC, very clean, close to the beach, underground parking, 2 bathrooms. Very kind and helpfull staff. Great simple breakfast.”"\n  - name: "Ermal"\n    country: "United States"\n    text: "“The owner warmly welcomed us, creating a hospitable atmosphere. The location is perfect.”"\n  - name: "Andy"\n    country: "Poland"\n    text: "“The hosts were very nice, very friendly. The apartment was clean, the breakfast made by the hostess was awesome and very traditional! Appartment is located 100m from the sea and you can get awesome sundusk views in the evening. Perfect for a...”"\nbookingURL: "https://www.booking.com/hotel/al/teo-apartaments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon arrival, visitors are greeted by a welcoming 24-hour front desk, ready to cater to guests' needs at any hour. The property boasts a lush garden and a lively bar, setting the stage for both relaxation and social engagement. For those arriving by car, the convenience of complimentary private parking is a notable perk, removing any parking woes from the equation.
+---
+title: "Teo Apartaments"
+description: "Teo Apartaments stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë, located a mere 200 meters from the pristine shores of Flamingo Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889424.jpg?k=50ece58291c9344325c16db340b9c5641cabf8e108eba6e5261af75ef17bb542&o=&hp=1"
+language: en
+slug: teo-apartaments
+address: "Rruga Sarande-Butrint,km 3, 9702 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.85398773
+  lng: 20.02230942
+price: "US$50"
+priceFrom: 50
+starRating: 4
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 124
+ratings:
+  overall: 8.8
+  location: 8.7
+  cleanliness: 9.2
+  facilities: 8.7
+  value: 9
+  comfort: 9
+  staff: 8.8
+  wifi: 7.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889424.jpg?k=50ece58291c9344325c16db340b9c5641cabf8e108eba6e5261af75ef17bb542&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889661.jpg?k=50797316b703d27eec8fe3e6e0dd0880d22b98169c273b6515ac6dbc741662c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292882423.jpg?k=2c625cec7a9833dbbc39d1b55dfe1722762c30dc903232d164ab076c5f2394cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889582.jpg?k=122a221a68e698a8c9f7ae14cdd6079944befdc9adee13a9145229c127167a0f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889255.jpg?k=774d47a2ee307030a9c104ed9adee442745da13aed5cdae93032ec192e012434&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889682.jpg?k=9e81fe1ea86f9e4f958169203e2d59765e411266604338083cb95daa9ca49e57&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Facilities for disabled guests"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+  - "Apartment with Balcony"
+  - "Apartment with Balcony"
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Day & Night Fast Food 10 m"
+  - "Zgara Tradicionale 50 m"
+nearbyBeaches:
+  - "Mango Beach 150 m"
+  - "Flamingo Beach 200 m"
+  - "Santa Quaranta Beach 450 m"
+  - "VIP Beach 550 m"
+  - "Maestral Beach 1.5 km"
+whatsNearby:
+  - "Butrint National Park 500 m"
+  - "Parc National de Butrint 600 m"
+  - "Plazhi I Krorezes 6 km"
+  - "Parku Kombetar I Butrintit 10 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 69 km"
+reviews:
+  - name: "Piotr"
+    country: "Poland"
+    text: "“Very nice place, quiet, big rooms, great AC, very clean, close to the beach, underground parking, 2 bathrooms. Very kind and helpfull staff. Great simple breakfast.”"
+  - name: "Ermal"
+    country: "United States"
+    text: "“The owner warmly welcomed us, creating a hospitable atmosphere. The location is perfect.”"
+  - name: "Andy"
+    country: "Poland"
+    text: "“The hosts were very nice, very friendly. The apartment was clean, the breakfast made by the hostess was awesome and very traditional! Appartment is located 100m from the sea and you can get awesome sundusk views in the evening. Perfect for a...”"
+bookingURL: "https://www.booking.com/hotel/al/teo-apartaments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Upon arrival, visitors are greeted by a welcoming 24-hour front desk, ready to cater to guests' needs at any hour. The property boasts a lush garden and a lively bar, setting the stage for both relaxation and social engagement. For those arriving by car, the convenience of complimentary private parking is a notable perk, removing any parking woes from the equation.
 
 Accommodations at Teo Apartaments are designed with the guest's comfort and satisfaction in mind. Each unit is equipped with air conditioning, ensuring a cool retreat from the warm Mediterranean sun. The apartments feature a seating area for relaxation, a cable flat-screen TV for entertainment, and a fully equipped kitchen for those who prefer to prepare their meals. The inclusion of a fridge, stovetop, kitchenware, and kettle adds to the convenience, making it feel like a home away from home. The private bathrooms, complete with hair dryers and fresh bed linen, round out the thoughtful amenities provided.
 

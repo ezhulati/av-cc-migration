@@ -1,4 +1,85 @@
----\ntitle: "Apartment Pisha"\ndescription: "Apartment Pisha stands out as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777560.jpg?k=ea20bc1dc76fbd25a6f9477e439ada041e3afbd7cd34d49f4484b1c1750276a5&o=&hp=1"\nlanguage: en\nslug: apartment-pisha\naddress: "L. Nr. 13, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30183105\n  lng: 19.50231929\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 10\nratings:\n  overall: 9\n  location: 8.3\n  cleanliness: 8.3\n  facilities: 9\n  value: 9.5\n  comfort: 9.3\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777560.jpg?k=ea20bc1dc76fbd25a6f9477e439ada041e3afbd7cd34d49f4484b1c1750276a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777548.jpg?k=7ed3fc6a0cf3a2d368cf78a9d2670ebad1f0a0a15dde3a6249e54df6343071f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777518.jpg?k=81f9698242d77371fcd8e751701bcc27324ae42b48477c19b2b93060a0c83ffe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777514.jpg?k=167e3a13fbb73a130eb8f3927dc7b5c154cdf02a718a9d6cae7c17ca534de642&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777532.jpg?k=a7f3a76be6157a3e563b8713d7a13f2c5915b837dce59c9c0a8bf2ea78b2154d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777521.jpg?k=73d8d0cea484a11d729699f8ceeca74fe05c3590aa121b2000532483e72157e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363070221.jpg?k=1e88a98b6e3316e144d30b194376e0cdb00092edc2c135c8cce8032aee3fd7f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777555.jpg?k=5916854badbf857032720421bc4a24851d9e2da1effbac64b85b2db692ee6c14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150688049.jpg?k=f1530c67e4e78a8d0b25b2deebe7d0577357c7f47d799ecc86bb9822ff1a29a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777525.jpg?k=af4aa2e148c442aa91c54b989c37d50f2af2bc9f8edfc71836f21b607acbf659&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777516.jpg?k=ebb4ce1c09d78dabd340c540dc0ef1aa7f699ad300e23f565340685b8b5e80e7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777535.jpg?k=60f2c95af6d8a3c251a5274d044f2b8c8102bac10a5132117ea89c9218590ce1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Bar Restorant 3 Vellezerit 200 m"\n  - "Brendon 250 m"\nnearbyBeaches:\n  - "Durres Beach 500 m"\n  - "Shkëmbi i Kavajës Beach 1.9 km"\n  - "Golem Beach 4.3 km"\n  - "Currila Beach 4.6 km"\n  - "Kallmi Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3.5 km"\n  - "Wine Dhe Pooh 4.7 km"\n  - "Sheshi Demokracia 4.8 km"\n  - "Yje Dhe Hena 4.9 km"\n  - "Durres Amphiteatre 4.9 km"\n  - "1. Maj 5 km"\n  - "Sotir Noka 5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Vova-from-kyiv"\n    country: "Ukraine"\n    text: "“The apartment is really spacious. It has proper lounge and dining areas. Bedrooms are of good size. The hosts are helpful and they live in the same building, so any questions can be solved really fast. In our case there was a problem with one...”"\n  - name: "Jura"\n    country: "Estonia"\n    text: "“Large apartments. 5 minutes walk to the sea. There are shops nearby. The owner solves any problems!!”"\n  - name: "Preda"\n    country: "Germany"\n    text: "“The apartment is comfortable and spacious, air conditioning and fans.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-pisha-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of tranquility and space, boasting three well-appointed bedrooms, a cozy living room, and a balcony that offers picturesque garden views. Modern amenities such as air conditioning, a flat-screen TV, and complimentary WiFi ensure a stay that combines relaxation with connectivity. The kitchen, equipped with a microwave and fridge, invites guests to prepare their meals, adding a touch of personalization to the dining experience.
+---
+title: "Apartment Pisha"
+description: "Apartment Pisha stands out as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777560.jpg?k=ea20bc1dc76fbd25a6f9477e439ada041e3afbd7cd34d49f4484b1c1750276a5&o=&hp=1"
+language: en
+slug: apartment-pisha
+address: "L. Nr. 13, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30183105
+  lng: 19.50231929
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 10
+ratings:
+  overall: 9
+  location: 8.3
+  cleanliness: 8.3
+  facilities: 9
+  value: 9.5
+  comfort: 9.3
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777560.jpg?k=ea20bc1dc76fbd25a6f9477e439ada041e3afbd7cd34d49f4484b1c1750276a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777548.jpg?k=7ed3fc6a0cf3a2d368cf78a9d2670ebad1f0a0a15dde3a6249e54df6343071f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777518.jpg?k=81f9698242d77371fcd8e751701bcc27324ae42b48477c19b2b93060a0c83ffe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777514.jpg?k=167e3a13fbb73a130eb8f3927dc7b5c154cdf02a718a9d6cae7c17ca534de642&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777532.jpg?k=a7f3a76be6157a3e563b8713d7a13f2c5915b837dce59c9c0a8bf2ea78b2154d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777521.jpg?k=73d8d0cea484a11d729699f8ceeca74fe05c3590aa121b2000532483e72157e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363070221.jpg?k=1e88a98b6e3316e144d30b194376e0cdb00092edc2c135c8cce8032aee3fd7f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777555.jpg?k=5916854badbf857032720421bc4a24851d9e2da1effbac64b85b2db692ee6c14&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150688049.jpg?k=f1530c67e4e78a8d0b25b2deebe7d0577357c7f47d799ecc86bb9822ff1a29a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777525.jpg?k=af4aa2e148c442aa91c54b989c37d50f2af2bc9f8edfc71836f21b607acbf659&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777516.jpg?k=ebb4ce1c09d78dabd340c540dc0ef1aa7f699ad300e23f565340685b8b5e80e7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777535.jpg?k=60f2c95af6d8a3c251a5274d044f2b8c8102bac10a5132117ea89c9218590ce1&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Bar Restorant 3 Vellezerit 200 m"
+  - "Brendon 250 m"
+nearbyBeaches:
+  - "Durres Beach 500 m"
+  - "Shkëmbi i Kavajës Beach 1.9 km"
+  - "Golem Beach 4.3 km"
+  - "Currila Beach 4.6 km"
+  - "Kallmi Beach 6 km"
+whatsNearby:
+  - "Bekimi 3.5 km"
+  - "Wine Dhe Pooh 4.7 km"
+  - "Sheshi Demokracia 4.8 km"
+  - "Yje Dhe Hena 4.9 km"
+  - "Durres Amphiteatre 4.9 km"
+  - "1. Maj 5 km"
+  - "Sotir Noka 5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+reviews:
+  - name: "Vova-from-kyiv"
+    country: "Ukraine"
+    text: "“The apartment is really spacious. It has proper lounge and dining areas. Bedrooms are of good size. The hosts are helpful and they live in the same building, so any questions can be solved really fast. In our case there was a problem with one...”"
+  - name: "Jura"
+    country: "Estonia"
+    text: "“Large apartments. 5 minutes walk to the sea. There are shops nearby. The owner solves any problems!!”"
+  - name: "Preda"
+    country: "Germany"
+    text: "“The apartment is comfortable and spacious, air conditioning and fans.”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-pisha-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of tranquility and space, boasting three well-appointed bedrooms, a cozy living room, and a balcony that offers picturesque garden views. Modern amenities such as air conditioning, a flat-screen TV, and complimentary WiFi ensure a stay that combines relaxation with connectivity. The kitchen, equipped with a microwave and fridge, invites guests to prepare their meals, adding a touch of personalization to the dining experience.
 
 Privacy and convenience are paramount at Apartment Pisha, highlighted by the inclusion of private parking on site and a dedicated entrance for guests. The property's location also allows for easy exploration of local attractions, with the historic Durres Amphitheatre and the intriguing House of Leaves museum both within a manageable distance.
 

@@ -1,4 +1,95 @@
----\ntitle: "Hotel Globo"\ndescription: "Hotel Globo stands as a beacon of comfort and convenience in the heart of Durrës, merely a stone's throw away from the pristine Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307630241.jpg?k=64eca38cbad00747de50dacff834d8d9efad26596081c12a329d2161c340932b&o=&hp=1"\nlanguage: en\nslug: hotel-globo\naddress: "Rruga Qafe Bote, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3053\n  lng: 19.496003\nprice: "US$30"\npriceFrom: 30\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 69\nratings:\n  overall: 8.3\n  location: 8.1\n  cleanliness: 7.6\n  facilities: 7.6\n  value: 8.1\n  comfort: 7.6\n  staff: 9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307630241.jpg?k=64eca38cbad00747de50dacff834d8d9efad26596081c12a329d2161c340932b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499549083.jpg?k=c6cfca543657ecb99df5d82ec1e4a400749b53e9ea8fda160a9c65ac15479cc0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367176903.jpg?k=e86f9f205234de6e5cab28b49a6781d02e0afc498707f40a7e5712be62079778&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307630305.jpg?k=2e0a898640f07b688d40bc9fe00562f383092b31a6cd247f8861a8fd1859d096&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363663970.jpg?k=e754318d21aad7b22fc9b87949e345af5a6015d7a1565c5902066cf817346101&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367176906.jpg?k=52e299a51c80e1fd0e346b2318e93c74c7f92a073bc8610c10688a2fab6b0bb3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367176909.jpg?k=f160a09dfaabb3f5c30e3dd93bd94c60e2f1f29bf68ff874868b92c95ba9d177&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915943.jpg?k=8b2ae1c59ce604bc57a18b54ded68c386b31d5a98a3888ddd324ad99c4838ce1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915956.jpg?k=93882d6ba5aed71496b3596145fcebd5e9da3bc8ddcf7352349bcf2c22957bd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915960.jpg?k=270604baf55f3fdfd4749b4b803d902c9adb2dd49c6df68de8f38585750fd56c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915968.jpg?k=272990df7fa0b03afe8033c3d2079987b98f208fae00d173d6c47e2bb34bbc56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915763.jpg?k=77b5ce295db4e28001f60fd4fed337782c48cdf7920b98098f793fcddde5cacc&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Twin Room"\n  - "Deluxe King Room"\n  - "Classic Triple Room"\n  - "Family Room"\n  - "Superior Triple Room"\nnearbyRestaurants:\n  - "Bar Restorant Gjura 100 m"\n  - "Chichken Hause 150 m"\nnearbyBeaches:\n  - "Durres Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 2.4 km"\n  - "Currila Beach 4.1 km"\n  - "Golem Beach 4.8 km"\n  - "Kallmi Beach 6 km"\nwhatsNearby:\n  - "Bekimi 2.9 km"\n  - "Wine Dhe Pooh 4.1 km"\n  - "Sheshi Demokracia 4.2 km"\n  - "Yje Dhe Hena 4.2 km"\n  - "Durres Amphiteatre 4.3 km"\n  - "Sotir Noka 4.5 km"\n  - "1. Maj 4.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Mykolas"\n    country: "Lithuania"\n    text: "“Staff was so friendly, room was clean, big bathroom,”"\n  - name: "Andreja"\n    country: "Slovenia"\n    text: "“Very nice staff, they showed us our room and helped with the luggage. Wifi was working fine, private parking big and right by hotel.”"\n  - name: "Fanni"\n    country: "Hungary"\n    text: "“The staff was extremly kind and helpful they did everything for our comfort. The beach is close, a five minutes walk from the hotel and you are there. The environment is quiet.”"\nbookingURL: "https://www.booking.com/hotel/al/globo-durres12.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically positioned, Hotel Globo is a mere 39 km from the historic Skanderbeg Square, offering easy access to the cultural heartbeat of the area. For those seeking adventure, the Dajti Ekspres Cable Car is located 42 km away, providing breathtaking aerial views of the region. Additionally, the enigmatic Rock of Kavaje is just a short 4.8 km journey, promising an intriguing excursion.
+---
+title: "Hotel Globo"
+description: "Hotel Globo stands as a beacon of comfort and convenience in the heart of Durrës, merely a stone's throw away from the pristine Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307630241.jpg?k=64eca38cbad00747de50dacff834d8d9efad26596081c12a329d2161c340932b&o=&hp=1"
+language: en
+slug: hotel-globo
+address: "Rruga Qafe Bote, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.3053
+  lng: 19.496003
+price: "US$30"
+priceFrom: 30
+starRating: 3
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 69
+ratings:
+  overall: 8.3
+  location: 8.1
+  cleanliness: 7.6
+  facilities: 7.6
+  value: 8.1
+  comfort: 7.6
+  staff: 9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307630241.jpg?k=64eca38cbad00747de50dacff834d8d9efad26596081c12a329d2161c340932b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499549083.jpg?k=c6cfca543657ecb99df5d82ec1e4a400749b53e9ea8fda160a9c65ac15479cc0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367176903.jpg?k=e86f9f205234de6e5cab28b49a6781d02e0afc498707f40a7e5712be62079778&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307630305.jpg?k=2e0a898640f07b688d40bc9fe00562f383092b31a6cd247f8861a8fd1859d096&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363663970.jpg?k=e754318d21aad7b22fc9b87949e345af5a6015d7a1565c5902066cf817346101&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367176906.jpg?k=52e299a51c80e1fd0e346b2318e93c74c7f92a073bc8610c10688a2fab6b0bb3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367176909.jpg?k=f160a09dfaabb3f5c30e3dd93bd94c60e2f1f29bf68ff874868b92c95ba9d177&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915943.jpg?k=8b2ae1c59ce604bc57a18b54ded68c386b31d5a98a3888ddd324ad99c4838ce1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915956.jpg?k=93882d6ba5aed71496b3596145fcebd5e9da3bc8ddcf7352349bcf2c22957bd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915960.jpg?k=270604baf55f3fdfd4749b4b803d902c9adb2dd49c6df68de8f38585750fd56c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915968.jpg?k=272990df7fa0b03afe8033c3d2079987b98f208fae00d173d6c47e2bb34bbc56&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366915763.jpg?k=77b5ce295db4e28001f60fd4fed337782c48cdf7920b98098f793fcddde5cacc&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+  - "Superb breakfast"
+roomTypes:
+  - "Deluxe Twin Room"
+  - "Deluxe King Room"
+  - "Classic Triple Room"
+  - "Family Room"
+  - "Superior Triple Room"
+nearbyRestaurants:
+  - "Bar Restorant Gjura 100 m"
+  - "Chichken Hause 150 m"
+nearbyBeaches:
+  - "Durres Beach 350 m"
+  - "Shkëmbi i Kavajës Beach 2.4 km"
+  - "Currila Beach 4.1 km"
+  - "Golem Beach 4.8 km"
+  - "Kallmi Beach 6 km"
+whatsNearby:
+  - "Bekimi 2.9 km"
+  - "Wine Dhe Pooh 4.1 km"
+  - "Sheshi Demokracia 4.2 km"
+  - "Yje Dhe Hena 4.2 km"
+  - "Durres Amphiteatre 4.3 km"
+  - "Sotir Noka 4.5 km"
+  - "1. Maj 4.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+reviews:
+  - name: "Mykolas"
+    country: "Lithuania"
+    text: "“Staff was so friendly, room was clean, big bathroom,”"
+  - name: "Andreja"
+    country: "Slovenia"
+    text: "“Very nice staff, they showed us our room and helped with the luggage. Wifi was working fine, private parking big and right by hotel.”"
+  - name: "Fanni"
+    country: "Hungary"
+    text: "“The staff was extremly kind and helpful they did everything for our comfort. The beach is close, a five minutes walk from the hotel and you are there. The environment is quiet.”"
+bookingURL: "https://www.booking.com/hotel/al/globo-durres12.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Strategically positioned, Hotel Globo is a mere 39 km from the historic Skanderbeg Square, offering easy access to the cultural heartbeat of the area. For those seeking adventure, the Dajti Ekspres Cable Car is located 42 km away, providing breathtaking aerial views of the region. Additionally, the enigmatic Rock of Kavaje is just a short 4.8 km journey, promising an intriguing excursion.
 
 The accommodations at Hotel Globo are thoughtfully designed with the guest's comfort in mind. Each room is a sanctuary of tranquility, equipped with a desk, air conditioning, and a flat-screen TV for a touch of modernity. The private bathrooms, complete with bidets and complimentary toiletries, add an extra layer of convenience. For those desiring a bit more, selected rooms feature balconies, offering private outdoor spaces to enjoy the surrounding views.
 

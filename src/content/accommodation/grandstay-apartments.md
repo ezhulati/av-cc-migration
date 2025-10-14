@@ -1,5 +1,96 @@
----\ntitle: "Grandstay Apartments"\ndescription: "Grandstay Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience along the Durrës coastline."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526812605.jpg?k=b5a93c7d259723e6ed15481433602cf4469c67d870267febf31b668a2c949867&o=&hp=1"\nlanguage: en\nslug: grandstay-apartments\naddress: "Rruga Taulantia floor number 10 living 14 total apartments nr 40, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31024551\n  lng: 19.44388276\nprice: "US$89"\npriceFrom: 89\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 25\nratings:\n  overall: 9.9\n  location: 9.9\n  cleanliness: 10\n  facilities: 9.8\n  value: 10\n  comfort: 10\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526812605.jpg?k=b5a93c7d259723e6ed15481433602cf4469c67d870267febf31b668a2c949867&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512814771.jpg?k=f59d0c96dec2b689c76024e2a078620a2012bb4729afc9c71518f83a02095530&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525859423.jpg?k=82938bd97a28c92754efcbf2b8773d9c25807b947715d63f754bc87e526c741c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512814823.jpg?k=ed6ac26438c561952f634e5a194eb9128e27f03c29634c2f1255ccebf176bc28&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512815213.jpg?k=3ba47171909b4ae4497cd742d223b4aa1c828de16aa56f95708c85e41587c663&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480726216.jpg?k=1bfacc438b8b8b4c437b38bfa5e8b6c7f545267703afeddbe6759564bd06e363&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "24-hour front desk"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\n  - "Deluxe Apartment"\n  - "Standard Apartment"\n  - "Superior Apartment"\nnearbyRestaurants:\n  - "Cinnabon Durres 50 m"\n  - "Liburn 100 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.3 km"\n  - "Durres Beach 2 km"\n  - "West End Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 200 m"\n  - "Durres Amphiteatre 250 m"\n  - "Yje Dhe Hena 700 m"\n  - "Wine Dhe Pooh 750 m"\n  - "Sheshi Demokracia 900 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Soufiane"\n    country: "Morocco"\n    text: "“The design. Spacious. The quality of the equipments. The view.
-The manager accepted my request to leave at 12.”"\n  - name: "Marcin"\n    country: "United Kingdom"\n    text: "“Great location, fantastic customer service, space. Apartment itself is very well equipped to high standard. It has everything you need for comfortable stay for family. The beds are very comfy, nicely designed bathroom, open living space, and fully...”"\n  - name: "Albert"\n    country: "Albania"\n    text: "“Absolutely thrilled with my stay at this fantastic, brand-new apartment! The modern amenities exceeded my expectations – two 60-inch TVs, Netflix, and reliable internet, making downtime a pleasure. The super comfy mattress ensured a restful...”"\nbookingURL: "https://www.booking.com/hotel/al/grandstay-apartments-003.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at Grandstay Apartments are designed with guest comfort in mind, featuring air conditioning, a cozy seating area, and a flat-screen TV equipped with streaming services for entertainment at any time. The inclusion of a fully equipped kitchen, complete with an oven, microwave, toaster, coffee machine, and kettle, adds a touch of home, while the dining area provides the perfect setting for a meal. Safety is prioritized with the provision of a safety deposit box, and the convenience of a private bathroom equipped with a walk-in shower, slippers, and a hair dryer enhances the overall guest experience. To ensure a restful night's sleep, each unit is furnished with quality bed linen and towels.
+---
+title: "Grandstay Apartments"
+description: "Grandstay Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience along the Durrës coastline."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526812605.jpg?k=b5a93c7d259723e6ed15481433602cf4469c67d870267febf31b668a2c949867&o=&hp=1"
+language: en
+slug: grandstay-apartments
+address: "Rruga Taulantia floor number 10 living 14 total apartments nr 40, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31024551
+  lng: 19.44388276
+price: "US$89"
+priceFrom: 89
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 25
+ratings:
+  overall: 9.9
+  location: 9.9
+  cleanliness: 10
+  facilities: 9.8
+  value: 10
+  comfort: 10
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526812605.jpg?k=b5a93c7d259723e6ed15481433602cf4469c67d870267febf31b668a2c949867&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512814771.jpg?k=f59d0c96dec2b689c76024e2a078620a2012bb4729afc9c71518f83a02095530&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525859423.jpg?k=82938bd97a28c92754efcbf2b8773d9c25807b947715d63f754bc87e526c741c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512814823.jpg?k=ed6ac26438c561952f634e5a194eb9128e27f03c29634c2f1255ccebf176bc28&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512815213.jpg?k=3ba47171909b4ae4497cd742d223b4aa1c828de16aa56f95708c85e41587c663&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480726216.jpg?k=1bfacc438b8b8b4c437b38bfa5e8b6c7f545267703afeddbe6759564bd06e363&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "24-hour front desk"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+  - "Deluxe Apartment"
+  - "Standard Apartment"
+  - "Superior Apartment"
+nearbyRestaurants:
+  - "Cinnabon Durres 50 m"
+  - "Liburn 100 m"
+nearbyBeaches:
+  - "Currila Beach 50 m"
+  - "Kallmi Beach 1.3 km"
+  - "Durres Beach 2 km"
+  - "West End Beach 2.4 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "1. Maj 200 m"
+  - "Durres Amphiteatre 250 m"
+  - "Yje Dhe Hena 700 m"
+  - "Wine Dhe Pooh 750 m"
+  - "Sheshi Demokracia 900 m"
+  - "Sotir Noka 1.2 km"
+  - "Bekimi 3.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Soufiane"
+    country: "Morocco"
+    text: "“The design. Spacious. The quality of the equipments. The view.
+The manager accepted my request to leave at 12.”"
+  - name: "Marcin"
+    country: "United Kingdom"
+    text: "“Great location, fantastic customer service, space. Apartment itself is very well equipped to high standard. It has everything you need for comfortable stay for family. The beds are very comfy, nicely designed bathroom, open living space, and fully...”"
+  - name: "Albert"
+    country: "Albania"
+    text: "“Absolutely thrilled with my stay at this fantastic, brand-new apartment! The modern amenities exceeded my expectations – two 60-inch TVs, Netflix, and reliable internet, making downtime a pleasure. The super comfy mattress ensured a restful...”"
+bookingURL: "https://www.booking.com/hotel/al/grandstay-apartments-003.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at Grandstay Apartments are designed with guest comfort in mind, featuring air conditioning, a cozy seating area, and a flat-screen TV equipped with streaming services for entertainment at any time. The inclusion of a fully equipped kitchen, complete with an oven, microwave, toaster, coffee machine, and kettle, adds a touch of home, while the dining area provides the perfect setting for a meal. Safety is prioritized with the provision of a safety deposit box, and the convenience of a private bathroom equipped with a walk-in shower, slippers, and a hair dryer enhances the overall guest experience. To ensure a restful night's sleep, each unit is furnished with quality bed linen and towels.
 
 Guests can start their day on a high note with a variety of breakfast options available at the apartment. From buffet and continental selections to warm dishes, fresh pastries, and pancakes, there is something to satisfy every palate. For quick bites and essentials, a snack bar and a minimarket are readily accessible within the premises.
 

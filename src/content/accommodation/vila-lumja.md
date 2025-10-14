@@ -1,4 +1,78 @@
----\ntitle: "Vila Lumja"\ndescription: "Vila Lumja emerges as a serene retreat offering breathtaking mountain vistas, located just a stone's throw away from the Dajti Ekspres Cable Car, approximately 3 km to be precise."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208696.jpg?k=c279f862069218298f548e014d2577a0ac84e5514e847124dc211de590757e2e&o=&hp=1"\nlanguage: en\nslug: vila-lumja\naddress: "7 Rruga Pjeter Gurakuqi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.3348942\n  lng: 19.85094205\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208696.jpg?k=c279f862069218298f548e014d2577a0ac84e5514e847124dc211de590757e2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507725111.jpg?k=41e89bbb63e0e76f9a6665fedaf54ab015a0d31ea2b2e586c1331d731a88a770&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507725109.jpg?k=16cabe4457202014eb7aa86bf663c972c893efbc6256d3192c114dbf9be389f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524067277.jpg?k=553cb2e09fa03c9af16b90a71ff730de6858a5d9ed8f63fa4b913f2031a22c67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208721.jpg?k=a9535c1a165f69e2eb05afe4f5d45a8b38e9b452691907c16d0f556b6ffd0c23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524062886.jpg?k=20490ec60c468bb6f1ffb21e9ed3c4a618f4e5c2214bab11d52bf73aa5b7f47b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208718.jpg?k=cc709049e49a643174936f92ce65b9dd2525c03eb712a4cc69cca6aa2009ba64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208755.jpg?k=8515064b28841fd858047e0b4b536a207d34f40859e72e254d7868f067bf1125&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524062866.jpg?k=9f9342c8a86c6fc2c0459736d6b24fda55d8fb45c341f8894dd389fd4245381e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 2.7 km"\n  - "Clock Tower Tirana 2.7 km"\n  - "Skanderbeg Square 2.8 km"\n  - "National Museum of History Albania 2.9 km"\n  - "Rinia Park 3 km"\n  - "House of Leaves 3 km"\n  - "Former Residence of Enver Hoxha 3.2 km"\n  - "Grand Park of Tirana 3.3 km"\nnearbyRestaurants:\n  - "Bar Restorant Luzi 100 m"\n  - "Bar Piceri Belmonda 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"\n  - "Sheshi Rekreativ Banesat Sociale 1.1 km"\n  - "Sheshi Jjosef Shtraus 1.2 km"\n  - "Bunk'Art 1 Museum 1.8 km"\n  - "Sheshi Rekreativ Allias 2 km"\n  - "Sheshi Rekreativ tek ish ATSh 2.2 km"\n  - "Tanners' Bridge 2.3 km"\n  - "Shesh Rekreativ 2.5 km"\n  - "Sheshi Sulejman Pasha 2.5 km"\n  - "Amazing Nature 2.7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 76 km"\nbookingURL: "https://www.booking.com/hotel/al/villa-lumja-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartments at Vila Lumja are designed with comfort in mind, equipped with air conditioning to ensure a pleasant stay regardless of the weather. Convenience is paramount, with complimentary amenities such as private parking and WiFi connectivity, ensuring guests stay connected and hassle-free.
+---
+title: "Vila Lumja"
+description: "Vila Lumja emerges as a serene retreat offering breathtaking mountain vistas, located just a stone's throw away from the Dajti Ekspres Cable Car, approximately 3 km to be precise."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208696.jpg?k=c279f862069218298f548e014d2577a0ac84e5514e847124dc211de590757e2e&o=&hp=1"
+language: en
+slug: vila-lumja
+address: "7 Rruga Pjeter Gurakuqi, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "villa"
+coordinates:
+  lat: 41.3348942
+  lng: 19.85094205
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208696.jpg?k=c279f862069218298f548e014d2577a0ac84e5514e847124dc211de590757e2e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507725111.jpg?k=41e89bbb63e0e76f9a6665fedaf54ab015a0d31ea2b2e586c1331d731a88a770&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507725109.jpg?k=16cabe4457202014eb7aa86bf663c972c893efbc6256d3192c114dbf9be389f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524067277.jpg?k=553cb2e09fa03c9af16b90a71ff730de6858a5d9ed8f63fa4b913f2031a22c67&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208721.jpg?k=a9535c1a165f69e2eb05afe4f5d45a8b38e9b452691907c16d0f556b6ffd0c23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524062886.jpg?k=20490ec60c468bb6f1ffb21e9ed3c4a618f4e5c2214bab11d52bf73aa5b7f47b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208718.jpg?k=cc709049e49a643174936f92ce65b9dd2525c03eb712a4cc69cca6aa2009ba64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208755.jpg?k=8515064b28841fd858047e0b4b536a207d34f40859e72e254d7868f067bf1125&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524062866.jpg?k=9f9342c8a86c6fc2c0459736d6b24fda55d8fb45c341f8894dd389fd4245381e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 2.7 km"
+  - "Clock Tower Tirana 2.7 km"
+  - "Skanderbeg Square 2.8 km"
+  - "National Museum of History Albania 2.9 km"
+  - "Rinia Park 3 km"
+  - "House of Leaves 3 km"
+  - "Former Residence of Enver Hoxha 3.2 km"
+  - "Grand Park of Tirana 3.3 km"
+nearbyRestaurants:
+  - "Bar Restorant Luzi 100 m"
+  - "Bar Piceri Belmonda 200 m"
+whatsNearby:
+  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"
+  - "Sheshi Rekreativ Banesat Sociale 1.1 km"
+  - "Sheshi Jjosef Shtraus 1.2 km"
+  - "Bunk'Art 1 Museum 1.8 km"
+  - "Sheshi Rekreativ Allias 2 km"
+  - "Sheshi Rekreativ tek ish ATSh 2.2 km"
+  - "Tanners' Bridge 2.3 km"
+  - "Shesh Rekreativ 2.5 km"
+  - "Sheshi Sulejman Pasha 2.5 km"
+  - "Amazing Nature 2.7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 13 km"
+  - "Ohrid Airport 76 km"
+bookingURL: "https://www.booking.com/hotel/al/villa-lumja-tirane.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The apartments at Vila Lumja are designed with comfort in mind, equipped with air conditioning to ensure a pleasant stay regardless of the weather. Convenience is paramount, with complimentary amenities such as private parking and WiFi connectivity, ensuring guests stay connected and hassle-free.
 
 Accommodation options vary, catering to different needs and preferences. Some units come with a private bathroom featuring a bidet, and select rooms elevate the living experience with a fully equipped kitchen, including a microwave, perfect for those who enjoy preparing their meals.
 

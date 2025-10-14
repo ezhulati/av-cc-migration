@@ -1,4 +1,77 @@
----\ntitle: "Village of Peace - House 34"\ndescription: "Village of Peace - House 34 emerges as a refreshing retreat in the heart of Shkodër, offering guests a blend of modern amenities and serene garden views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760741.jpg?k=24b816a7bd398478bcb287f68246fcc1669942312c067a269b44cfd7744185d3&o=&hp=1"\nlanguage: en\nslug: village-of-peace-house-34\naddress: "Rruga Kazenes, 4002 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.05213282\n  lng: 19.4887161\nprice: "US$20"\npriceFrom: 20\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 19\nratings:\n  overall: 8.9\n  location: 8.8\n  cleanliness: 9.2\n  facilities: 8.3\n  value: 9.3\n  comfort: 8.3\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760741.jpg?k=24b816a7bd398478bcb287f68246fcc1669942312c067a269b44cfd7744185d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760606.jpg?k=ca184c77a43212e679030257c738e2cb62759194ea06c8fc3bbf6cd4ced4f76b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760605.jpg?k=1599f25daf316db87fe148a6a24c195c0973e80f721a13bc302b863e0b39408f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760523.jpg?k=c334e727424202673c01874f1bca2f2c7c57d9cd73aa39b8d43dc765c0cebaa6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485757617.jpg?k=5b1d6f0ec43861b7ca268d7233916a569b22e4100a1ff359e5fba8db29f0b5e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484576343.jpg?k=dd9317d8b237e5c1ff49b437891d7e7d6cfecbe7cb68e89ddca07bd184259ed6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485758802.jpg?k=908284397b23caf22d9c3d08aa02b513cedc921470debef9256016a746c69f9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760610.jpg?k=9db1dc1b47ec3a9232d2ed1e52727d41d498c4d9c8694db060c8b594fc4e97fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485759498.jpg?k=97bc4a6c83a713d157afcd20cbc7a2d9640353d5c7e2641cef5deee726f41689&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (99 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Elvisi 150 m"\n  - "Restorant Vataksi 250 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 750 m"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 72 km"\n  - "Tivat Airport 73 km"\nreviews:\n  - name: "Mohammed"\n    country: "United Kingdom"\n    text: "“Property was really nice ,bed and breakfast is nice .Lots of fruits are there in garden”"\n  - name: "Ledjana"\n    country: "Albania"\n    text: "“Nice place. Beautiful natyre. Nice confortable place”"\n  - name: "Kiara"\n    country: "Albania"\n    text: "“La pozicione e stuppenda. Il soggiorno era eccelente .”"\nbookingURL: "https://www.booking.com/hotel/al/village-of-peace-house-3.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nThe accommodation prides itself on a 24-hour front desk service, ensuring guests' needs are promptly met, alongside the availability of luggage storage facilities. Designed for relaxation, the air-conditioned apartment boasts a tastefully furnished bedroom, complemented by a bathroom equipped with a bidet, a shower, and complimentary toiletries, all within a smoke-free environment.
+---
+title: "Village of Peace - House 34"
+description: "Village of Peace - House 34 emerges as a refreshing retreat in the heart of Shkodër, offering guests a blend of modern amenities and serene garden views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760741.jpg?k=24b816a7bd398478bcb287f68246fcc1669942312c067a269b44cfd7744185d3&o=&hp=1"
+language: en
+slug: village-of-peace-house-34
+address: "Rruga Kazenes, 4002 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.05213282
+  lng: 19.4887161
+price: "US$20"
+priceFrom: 20
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 19
+ratings:
+  overall: 8.9
+  location: 8.8
+  cleanliness: 9.2
+  facilities: 8.3
+  value: 9.3
+  comfort: 8.3
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760741.jpg?k=24b816a7bd398478bcb287f68246fcc1669942312c067a269b44cfd7744185d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760606.jpg?k=ca184c77a43212e679030257c738e2cb62759194ea06c8fc3bbf6cd4ced4f76b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760605.jpg?k=1599f25daf316db87fe148a6a24c195c0973e80f721a13bc302b863e0b39408f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760523.jpg?k=c334e727424202673c01874f1bca2f2c7c57d9cd73aa39b8d43dc765c0cebaa6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485757617.jpg?k=5b1d6f0ec43861b7ca268d7233916a569b22e4100a1ff359e5fba8db29f0b5e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484576343.jpg?k=dd9317d8b237e5c1ff49b437891d7e7d6cfecbe7cb68e89ddca07bd184259ed6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485758802.jpg?k=908284397b23caf22d9c3d08aa02b513cedc921470debef9256016a746c69f9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485760610.jpg?k=9db1dc1b47ec3a9232d2ed1e52727d41d498c4d9c8694db060c8b594fc4e97fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485759498.jpg?k=97bc4a6c83a713d157afcd20cbc7a2d9640353d5c7e2641cef5deee726f41689&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (99 Mbps)"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Elvisi 150 m"
+  - "Restorant Vataksi 250 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 750 m"
+  - "National Park Skadar Lake 9 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 72 km"
+  - "Tivat Airport 73 km"
+reviews:
+  - name: "Mohammed"
+    country: "United Kingdom"
+    text: "“Property was really nice ,bed and breakfast is nice .Lots of fruits are there in garden”"
+  - name: "Ledjana"
+    country: "Albania"
+    text: "“Nice place. Beautiful natyre. Nice confortable place”"
+  - name: "Kiara"
+    country: "Albania"
+    text: "“La pozicione e stuppenda. Il soggiorno era eccelente .”"
+bookingURL: "https://www.booking.com/hotel/al/village-of-peace-house-3.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+The accommodation prides itself on a 24-hour front desk service, ensuring guests' needs are promptly met, alongside the availability of luggage storage facilities. Designed for relaxation, the air-conditioned apartment boasts a tastefully furnished bedroom, complemented by a bathroom equipped with a bidet, a shower, and complimentary toiletries, all within a smoke-free environment.
 
 Morning risers are greeted with a choice of breakfast options, ranging from buffet, continental, to halal selections, alongside the leisure of an on-site bar. The inviting garden offers a tranquil space for guests to unwind.
 

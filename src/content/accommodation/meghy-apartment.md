@@ -1,3 +1,77 @@
----\ntitle: "Meghy apartment"\ndescription: "Discover the charm of Vlorë with a stay at Meghy Apartment, a prime choice for travelers seeking comfort and convenience less than a kilometer from the serene Vjetër Beach and a mere 13-minute stroll from the vibrant Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378189.jpg?k=0c427774be13fbd9232f5691cd070ca73d08c2500581ab9ce014ced223ae9f12&o=&hp=1"\nlanguage: en\nslug: meghy-apartment\naddress: "Bulevardi ismail Qemali Piano 7, 9400 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45554385\n  lng: 19.48746573\nprice: "US$116"\npriceFrom: 116\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 7.5\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378189.jpg?k=0c427774be13fbd9232f5691cd070ca73d08c2500581ab9ce014ced223ae9f12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467379336.jpg?k=7c367340871045c6b1596fc1cebb2b04f0302bf7718c64e39c922b83b89bc2dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378633.jpg?k=dbf88e62532197430f6b917dffd4d72b124927583d12c6042cc3db4be40c7e6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378088.jpg?k=156ed352943ae7d881805cf5ac0738770b3e0c9b07ad3df455158238f0282a33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378394.jpg?k=d54b9d2ebb25181525225e4e62f73d2960c9cd564109bd7dbbae470e00a79018&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467379809.jpg?k=86643dc7b2411586f060cf6f4402b777a9de0fd3f0ed7ca6e0decf425f03678b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467379017.jpg?k=0eaeb3e82cf72dee817c1bcaf3b5a53b64458cedc24f494025d574d00eddc3c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378755.jpg?k=268f66df8f64067ab0035325d62fd1a7b4e315ace9f503de5b3d7650b6dc3664&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467404560.jpg?k=86233ffb7b176979108154f795ee1feeea232a759a9f332c9f1aa289150a97b4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Rimix Bar 40 m"\n  - "Pulebardha 40 m"\nnearbyBeaches:\n  - "Vjetër Beach 650 m"\n  - "Vlore Beach 1,000 m"\n  - "Ri Beach 2.3 km"\n  - "Beach at Government Villas 3.9 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.4 km"\n  - "Independence Square 1.7 km"\n  - "Scooby Doo Vlore 2.2 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Anonymous"\n    country: "United States"\n    text: "“The property was in very good condition, clean, big enough and comfortable.”"\nbookingURL: "https://www.booking.com/hotel/al/meghy-apartment-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a luxurious experience in the spacious, air-conditioned apartment, which boasts two well-appointed bedrooms and direct access to a balcony that offers breathtaking sea views. Entertainment is readily available with a flat-screen TV, complemented by captivating city views that can be enjoyed from the comfort of this exquisite property.
+---
+title: "Meghy apartment"
+description: "Discover the charm of Vlorë with a stay at Meghy Apartment, a prime choice for travelers seeking comfort and convenience less than a kilometer from the serene Vjetër Beach and a mere 13-minute stroll from the vibrant Vlore Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378189.jpg?k=0c427774be13fbd9232f5691cd070ca73d08c2500581ab9ce014ced223ae9f12&o=&hp=1"
+language: en
+slug: meghy-apartment
+address: "Bulevardi ismail Qemali Piano 7, 9400 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45554385
+  lng: 19.48746573
+price: "US$116"
+priceFrom: 116
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 9.6
+  location: 7.5
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378189.jpg?k=0c427774be13fbd9232f5691cd070ca73d08c2500581ab9ce014ced223ae9f12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467379336.jpg?k=7c367340871045c6b1596fc1cebb2b04f0302bf7718c64e39c922b83b89bc2dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378633.jpg?k=dbf88e62532197430f6b917dffd4d72b124927583d12c6042cc3db4be40c7e6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378088.jpg?k=156ed352943ae7d881805cf5ac0738770b3e0c9b07ad3df455158238f0282a33&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378394.jpg?k=d54b9d2ebb25181525225e4e62f73d2960c9cd564109bd7dbbae470e00a79018&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467379809.jpg?k=86643dc7b2411586f060cf6f4402b777a9de0fd3f0ed7ca6e0decf425f03678b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467379017.jpg?k=0eaeb3e82cf72dee817c1bcaf3b5a53b64458cedc24f494025d574d00eddc3c8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378755.jpg?k=268f66df8f64067ab0035325d62fd1a7b4e315ace9f503de5b3d7650b6dc3664&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467404560.jpg?k=86233ffb7b176979108154f795ee1feeea232a759a9f332c9f1aa289150a97b4&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Rimix Bar 40 m"
+  - "Pulebardha 40 m"
+nearbyBeaches:
+  - "Vjetër Beach 650 m"
+  - "Vlore Beach 1,000 m"
+  - "Ri Beach 2.3 km"
+  - "Beach at Government Villas 3.9 km"
+  - "Liro Beach 4.5 km"
+whatsNearby:
+  - "Kuzum Baba 1.4 km"
+  - "Independence Square 1.7 km"
+  - "Scooby Doo Vlore 2.2 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Anonymous"
+    country: "United States"
+    text: "“The property was in very good condition, clean, big enough and comfortable.”"
+bookingURL: "https://www.booking.com/hotel/al/meghy-apartment-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to a luxurious experience in the spacious, air-conditioned apartment, which boasts two well-appointed bedrooms and direct access to a balcony that offers breathtaking sea views. Entertainment is readily available with a flat-screen TV, complemented by captivating city views that can be enjoyed from the comfort of this exquisite property.
 
 For those looking to unwind with a drink, the convenience of an on-site bar enhances the stay, providing a perfect setting for evening relaxation. Situated 1.8 km from the historic Independence Square and 2.3 km from the iconic Kuzum Baba, guests have easy access to explore the rich cultural heritage of Vlorë. Moreover, the Tirana International Mother Teresa Airport, located 151 km away, ensures that Meghy Apartment is within reach for international travelers seeking a blend of modern amenities and prime location in the heart of Vlorë.

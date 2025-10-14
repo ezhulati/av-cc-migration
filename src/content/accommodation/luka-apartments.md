@@ -1,4 +1,83 @@
----\ntitle: "Luka Apartments"\ndescription: "Luka Apartments emerges as a serene retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Mango Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468392024.jpg?k=10eefe281d5c3f708df7d737b016788da4842be107826c3a5c87b4948c2370ba&o=&hp=1"\nlanguage: en\nslug: luka-apartments\naddress: "Rruga Adem Jashari, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.84335091\n  lng: 20.02321302\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468392024.jpg?k=10eefe281d5c3f708df7d737b016788da4842be107826c3a5c87b4948c2370ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872924.jpg?k=7049754df9c5a815ec9017e12b73a8f8c2c64f99186466970d0ef9782288abe1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872897.jpg?k=f07d86fc0f7975939395a4362063d84be2da0671c37c07f77eb1f2d30ffeae61&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475936113.jpg?k=bb27dc4691a0af9dfed8bf1d974946c73c2d2c761202025532df58e796c19f86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872936.jpg?k=54d52f6d041da9587406521ec1c630b976857282f9da7c26e0f847bcdc4f1be6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872984.jpg?k=6e7cbb8e549a4740274f472580c7ed74663d102825935139c68cd80e97b34423&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment"\n  - "Apartment with Balcony"\n  - "Apartment"\n  - "Apartment with Garden View"\nnearbyRestaurants:\n  - "Bar Aliu 150 m"\n  - "Traditional Country Grill 150 m"\nnearbyBeaches:\n  - "Mango Beach 750 m"\n  - "Heaven Beach 1.1 km"\n  - "Flamingo Beach 1.2 km"\n  - "Santa Quaranta Beach 1.6 km"\n  - "VIP Beach 1.7 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parc National de Butrint 1.7 km"\n  - "Plazhi I Krorezes 5 km"\n  - "Parku Kombetar I Butrintit 9 km"\n  - "Butrint National Park 9 km"\nairports:\n  - "Corfu International Airport 27 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Liliya"\n    country: "Bulgaria"\n    text: "“The host was very cooperative (even though we have not met in person). He helped with directions, parking places, distances to places, and recommendations. The apartment was brand new and very clean. He was trustful enough to let us leave the...”"\n  - name: "Maciej"\n    country: "Poland"\n    text: "“Everything, and most of all the wonderful owner who prepared delicious breakfasts for us”"\n  - name: "Jamal"\n    country: "Netherlands"\n    text: "“New and clean apartment. Good location right between Sarande and Ksamil.”"\nbookingURL: "https://www.booking.com/hotel/al/luka-apartments-sarande.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nStrategically positioned, Luka Apartments is a mere 1.5 km from the tranquil Heaven Beach and just a short distance from the lively Flamingo Beach, offering guests a spectrum of seaside experiences. For those with a penchant for history and nature, the renowned Butrint National Park is accessible within a 12 km drive, promising a day of exploration and discovery.
+---
+title: "Luka Apartments"
+description: "Luka Apartments emerges as a serene retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Mango Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468392024.jpg?k=10eefe281d5c3f708df7d737b016788da4842be107826c3a5c87b4948c2370ba&o=&hp=1"
+language: en
+slug: luka-apartments
+address: "Rruga Adem Jashari, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.84335091
+  lng: 20.02321302
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 6
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 9.6
+  facilities: 9.6
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468392024.jpg?k=10eefe281d5c3f708df7d737b016788da4842be107826c3a5c87b4948c2370ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872924.jpg?k=7049754df9c5a815ec9017e12b73a8f8c2c64f99186466970d0ef9782288abe1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872897.jpg?k=f07d86fc0f7975939395a4362063d84be2da0671c37c07f77eb1f2d30ffeae61&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475936113.jpg?k=bb27dc4691a0af9dfed8bf1d974946c73c2d2c761202025532df58e796c19f86&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872936.jpg?k=54d52f6d041da9587406521ec1c630b976857282f9da7c26e0f847bcdc4f1be6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475872984.jpg?k=6e7cbb8e549a4740274f472580c7ed74663d102825935139c68cd80e97b34423&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Apartment"
+  - "Apartment with Balcony"
+  - "Apartment"
+  - "Apartment with Garden View"
+nearbyRestaurants:
+  - "Bar Aliu 150 m"
+  - "Traditional Country Grill 150 m"
+nearbyBeaches:
+  - "Mango Beach 750 m"
+  - "Heaven Beach 1.1 km"
+  - "Flamingo Beach 1.2 km"
+  - "Santa Quaranta Beach 1.6 km"
+  - "VIP Beach 1.7 km"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parc National de Butrint 1.7 km"
+  - "Plazhi I Krorezes 5 km"
+  - "Parku Kombetar I Butrintit 9 km"
+  - "Butrint National Park 9 km"
+airports:
+  - "Corfu International Airport 27 km"
+  - "Ioannina Airport 69 km"
+reviews:
+  - name: "Liliya"
+    country: "Bulgaria"
+    text: "“The host was very cooperative (even though we have not met in person). He helped with directions, parking places, distances to places, and recommendations. The apartment was brand new and very clean. He was trustful enough to let us leave the...”"
+  - name: "Maciej"
+    country: "Poland"
+    text: "“Everything, and most of all the wonderful owner who prepared delicious breakfasts for us”"
+  - name: "Jamal"
+    country: "Netherlands"
+    text: "“New and clean apartment. Good location right between Sarande and Ksamil.”"
+bookingURL: "https://www.booking.com/hotel/al/luka-apartments-sarande.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Strategically positioned, Luka Apartments is a mere 1.5 km from the tranquil Heaven Beach and just a short distance from the lively Flamingo Beach, offering guests a spectrum of seaside experiences. For those with a penchant for history and nature, the renowned Butrint National Park is accessible within a 12 km drive, promising a day of exploration and discovery.
 
 The establishment prides itself on its family-friendly rooms, each boasting a balcony that opens up to the serene beauty of the surrounding landscape. The interiors are thoughtfully designed with modern amenities, including air conditioning, a flat-screen TV, and a private bathroom equipped with a bidet and hair dryer. The addition of a desk in every unit adds a touch of convenience for guests who may need to attend to work or personal matters during their stay.
 

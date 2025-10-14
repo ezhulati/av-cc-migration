@@ -1,4 +1,69 @@
----\ntitle: "Gjeci Apartment Shengjin"\ndescription: "Gjeci Apartment Shengjin emerges as a premier choice for travelers seeking a blend of comfort and convenience in Lezhë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994095.jpg?k=ec0828df2364ac9939952cce0ae6ae3b54de635c12168ea54f566832befbd7f5&o=&hp=1"\nlanguage: en\nslug: gjeci-apartment-shengjin\naddress: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"\ncity: "Lezhë"\nlocation: "Lezhë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.79549542\n  lng: 19.60463788\nprice: "US$77"\npriceFrom: 77\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994095.jpg?k=ec0828df2364ac9939952cce0ae6ae3b54de635c12168ea54f566832befbd7f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994152.jpg?k=72ff425037fee744f1c8df4c8b441bc5416009c71742300cf3ec27aa80483cec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994143.jpg?k=0e187c9da4a42fca3ab7b79b1dcb85eb786e1f777f043f3e493ce8dffc93bbd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994178.jpg?k=170cd40ef089d3cd011445052cf4b88c6bdbd6b9a379d31d11941cc56aca4e27&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994135.jpg?k=ca62d4648a63dc97d35f342fed0e09f757e4d592246bfd921af1a3291efeee13&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994176.jpg?k=23bf2da52247933dbca87971392b54c8186f367e309d397387a6dae5f6cc225c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994170.jpg?k=2574d695b8b25c0921b20264b4d0abd688f69ba5043e2e6be00b9269ddd6ee96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405978338.jpg?k=c4de9314a930506577a9088ce956711e3eb13a4d49590eb946115efd447c7e0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994146.jpg?k=b7b55024c355a3182cbe25bf137aec6e7f9e843758eaa4dce93aa9afb74ab71c&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Hotel Restorant Molla 250 m"\n  - "Soleil 400 m"\nnearbyBeaches:\n  - "Ylberi Beach 250 m"\n  - "Shëngjin Beach 600 m"\n  - "Laguna Park Beach 3 km"\n  - "Kune Beach 3.2 km"\n  - "Rana e Hedhun Beach 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 42 km"\n  - "Podgorica Airport 68 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/apartment-shengjin-lezhe.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property distinguishes itself with its air-conditioned accommodations that boast a private pool and an inviting garden view, complemented by a balcony for an immersive outdoor experience. The apartment is designed to cater to the needs of modern travelers, featuring a spacious layout that includes two bedrooms, a living room, and a well-equipped kitchen complete with a minibar. Entertainment needs are well met with the availability of a flat-screen TV, ensuring guests have a comfortable and enjoyable stay.
+---
+title: "Gjeci Apartment Shengjin"
+description: "Gjeci Apartment Shengjin emerges as a premier choice for travelers seeking a blend of comfort and convenience in Lezhë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994095.jpg?k=ec0828df2364ac9939952cce0ae6ae3b54de635c12168ea54f566832befbd7f5&o=&hp=1"
+language: en
+slug: gjeci-apartment-shengjin
+address: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"
+city: "Lezhë"
+location: "Lezhë"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.79549542
+  lng: 19.60463788
+price: "US$77"
+priceFrom: 77
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994095.jpg?k=ec0828df2364ac9939952cce0ae6ae3b54de635c12168ea54f566832befbd7f5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994152.jpg?k=72ff425037fee744f1c8df4c8b441bc5416009c71742300cf3ec27aa80483cec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994143.jpg?k=0e187c9da4a42fca3ab7b79b1dcb85eb786e1f777f043f3e493ce8dffc93bbd9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994178.jpg?k=170cd40ef089d3cd011445052cf4b88c6bdbd6b9a379d31d11941cc56aca4e27&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994135.jpg?k=ca62d4648a63dc97d35f342fed0e09f757e4d592246bfd921af1a3291efeee13&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994176.jpg?k=23bf2da52247933dbca87971392b54c8186f367e309d397387a6dae5f6cc225c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994170.jpg?k=2574d695b8b25c0921b20264b4d0abd688f69ba5043e2e6be00b9269ddd6ee96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405978338.jpg?k=c4de9314a930506577a9088ce956711e3eb13a4d49590eb946115efd447c7e0e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994146.jpg?k=b7b55024c355a3182cbe25bf137aec6e7f9e843758eaa4dce93aa9afb74ab71c&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Hotel Restorant Molla 250 m"
+  - "Soleil 400 m"
+nearbyBeaches:
+  - "Ylberi Beach 250 m"
+  - "Shëngjin Beach 600 m"
+  - "Laguna Park Beach 3 km"
+  - "Kune Beach 3.2 km"
+  - "Rana e Hedhun Beach 4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 42 km"
+  - "Podgorica Airport 68 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/apartment-shengjin-lezhe.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This property distinguishes itself with its air-conditioned accommodations that boast a private pool and an inviting garden view, complemented by a balcony for an immersive outdoor experience. The apartment is designed to cater to the needs of modern travelers, featuring a spacious layout that includes two bedrooms, a living room, and a well-equipped kitchen complete with a minibar. Entertainment needs are well met with the availability of a flat-screen TV, ensuring guests have a comfortable and enjoyable stay.
 
 The non-smoking accommodation ensures a clean and healthy environment for all guests. The inclusion of free WiFi throughout the property allows for seamless connectivity, ensuring that guests can stay in touch with loved ones or attend to business matters with ease.
 

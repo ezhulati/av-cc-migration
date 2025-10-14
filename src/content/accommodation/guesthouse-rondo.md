@@ -1,5 +1,83 @@
----\ntitle: "Guesthouse Rondo"\ndescription: "Guesthouse Rondo emerges as a prime choice for travelers seeking a serene beachfront retreat in Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337645326.jpg?k=31c6a048a4cb15aa7bdd69ec89b5ba6cdd8a3b8d60970ff2fa1e13ccb300477f&o=&hp=1"\nlanguage: en\nslug: guesthouse-rondo\naddress: "Himare - Livadh Road, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.11241688\n  lng: 19.72315192\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 45\nratings:\n  overall: 9.2\n  location: 9\n  cleanliness: 9.1\n  facilities: 8.7\n  value: 9.1\n  comfort: 9\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337645326.jpg?k=31c6a048a4cb15aa7bdd69ec89b5ba6cdd8a3b8d60970ff2fa1e13ccb300477f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352680696.jpg?k=e6776d94299bc433efd861f527e1638d51d7466cb39e0bd3e835985c3ea0e0e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352680629.jpg?k=0f7588f006bc33ddf9432088188e6c68d2c12c725a74e92b8cc7a7b190dc311d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352680480.jpg?k=c85c9be02b65f97399027a4872d08d70b993901bb2d769e881aaa89492d44cf1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337636868.jpg?k=a78173384494200fa0f34e8f0ea80846cf04c3bb95959670868424a6c9adcd7f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337298829.jpg?k=219a615cbc66ef584fdd902f6e0aad5d411704ee4b1a60370660620b5ab6a199&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337290115.jpg?k=a519b97bf11195332269e2b524b0d12a166789eb96b7bdfd92d1f38d14bf59cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337645399.jpg?k=9ee4f429e3238c1acb8589a460a7a0b129fe2ea6c8fcac03cf0ffa31382b28bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337638373.jpg?k=7e4f35e02a371a3b4385784f6035e9181b074143e70eb2ea62b871f2bff84d8e&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Ostria 250 m"\n  - "Corali 300 m"\nnearbyBeaches:\n  - "Livadhi Beach 250 m"\n  - "Akuariumit Beach 1,000 m"\n  - "Jale Beach 1.9 km"\n  - "Spille Beach 2 km"\n  - "Folie Marine Beach 2.2 km"\nwhatsNearby:\n  - "Llogora National Park 14 km"\nairports:\n  - "Corfu International Airport 58 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Chiara"\n    country: "Switzerland"\n    text: "“Very nice terrace, clean room, 2 minutes from the beach, restaurants, supermarket. Relaxing location , beach not crowded at all. Very nice owner”"\n  - name: "Megan"\n    country: "United Kingdom"\n    text: "“The room is absolutely huge and the property is really beautiful - especially the garden. Communication with Andonia was always easy and she checked in with us during our stay to make sure we had everything we needed. It's just a short walk from...”"\n  - name: "Inna"\n    country: "Ukraine"\n    text: "“The best were the owners family and nature around!
-The hosts are super nice people! Everything needed for staying was there. A bit thin walls, we could here our neighbors)) But we loved this place!”"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-rondo.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach air-conditioned unit at Guesthouse Rondo is thoughtfully equipped with modern amenities such as a desk, kettle, oven, fridge, safety deposit box, flat-screen TV, and a private bathroom with a shower. The addition of a balcony in each room allows guests to soak in the breathtaking surroundings in privacy.
+---
+title: "Guesthouse Rondo"
+description: "Guesthouse Rondo emerges as a prime choice for travelers seeking a serene beachfront retreat in Himare."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337645326.jpg?k=31c6a048a4cb15aa7bdd69ec89b5ba6cdd8a3b8d60970ff2fa1e13ccb300477f&o=&hp=1"
+language: en
+slug: guesthouse-rondo
+address: "Himare - Livadh Road, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.11241688
+  lng: 19.72315192
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 45
+ratings:
+  overall: 9.2
+  location: 9
+  cleanliness: 9.1
+  facilities: 8.7
+  value: 9.1
+  comfort: 9
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337645326.jpg?k=31c6a048a4cb15aa7bdd69ec89b5ba6cdd8a3b8d60970ff2fa1e13ccb300477f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352680696.jpg?k=e6776d94299bc433efd861f527e1638d51d7466cb39e0bd3e835985c3ea0e0e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352680629.jpg?k=0f7588f006bc33ddf9432088188e6c68d2c12c725a74e92b8cc7a7b190dc311d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352680480.jpg?k=c85c9be02b65f97399027a4872d08d70b993901bb2d769e881aaa89492d44cf1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337636868.jpg?k=a78173384494200fa0f34e8f0ea80846cf04c3bb95959670868424a6c9adcd7f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337298829.jpg?k=219a615cbc66ef584fdd902f6e0aad5d411704ee4b1a60370660620b5ab6a199&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337290115.jpg?k=a519b97bf11195332269e2b524b0d12a166789eb96b7bdfd92d1f38d14bf59cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337645399.jpg?k=9ee4f429e3238c1acb8589a460a7a0b129fe2ea6c8fcac03cf0ffa31382b28bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337638373.jpg?k=7e4f35e02a371a3b4385784f6035e9181b074143e70eb2ea62b871f2bff84d8e&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Ostria 250 m"
+  - "Corali 300 m"
+nearbyBeaches:
+  - "Livadhi Beach 250 m"
+  - "Akuariumit Beach 1,000 m"
+  - "Jale Beach 1.9 km"
+  - "Spille Beach 2 km"
+  - "Folie Marine Beach 2.2 km"
+whatsNearby:
+  - "Llogora National Park 14 km"
+airports:
+  - "Corfu International Airport 58 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Chiara"
+    country: "Switzerland"
+    text: "“Very nice terrace, clean room, 2 minutes from the beach, restaurants, supermarket. Relaxing location , beach not crowded at all. Very nice owner”"
+  - name: "Megan"
+    country: "United Kingdom"
+    text: "“The room is absolutely huge and the property is really beautiful - especially the garden. Communication with Andonia was always easy and she checked in with us during our stay to make sure we had everything we needed. It's just a short walk from...”"
+  - name: "Inna"
+    country: "Ukraine"
+    text: "“The best were the owners family and nature around!
+The hosts are super nice people! Everything needed for staying was there. A bit thin walls, we could here our neighbors)) But we loved this place!”"
+bookingURL: "https://www.booking.com/hotel/al/guesthouse-rondo.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each air-conditioned unit at Guesthouse Rondo is thoughtfully equipped with modern amenities such as a desk, kettle, oven, fridge, safety deposit box, flat-screen TV, and a private bathroom with a shower. The addition of a balcony in each room allows guests to soak in the breathtaking surroundings in privacy.
 
 Beyond the comfort of the rooms, Guesthouse Rondo boasts a communal barbecue area, perfect for family gatherings or a casual meal under the stars. The outdoor dining area provides an idyllic setting for guests to enjoy their meals with a view.
 

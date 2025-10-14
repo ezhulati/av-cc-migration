@@ -1,4 +1,72 @@
----\ntitle: "Cactus Coastal: 3-Bedroom Condo"\ndescription: "Cactus Coastal: 3-Bedroom Condo emerges as a premier choice for travelers seeking comfort and convenience in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881623.jpg?k=94d3aa9286e0a5bda1b7ec6347633ed6c307b67353e686fb306e3664c863b5c2&o=&hp=1"\nlanguage: en\nslug: cactus-coastal-3-bedroom-condo\naddress: "Rruga Murat Tërbaçi, Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44261019\n  lng: 19.49561203\nprice: "US$162"\npriceFrom: 162\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.1\n  location: 9.2\n  cleanliness: 9.2\n  facilities: 9.2\n  value: 9.2\n  comfort: 9.2\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881623.jpg?k=94d3aa9286e0a5bda1b7ec6347633ed6c307b67353e686fb306e3664c863b5c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881701.jpg?k=3be6e130711c0ceb7df16ce2a49520291a5f88e02226d8f8a68915472fb3cfe5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881697.jpg?k=989792a567e2bfce0ce6fff47dc4255e8677f16f64643cef6d71b3d38232f74f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881729.jpg?k=e6d878a88be9b371463517b65c6d4dd7f15107a43fc681b9a817f1ebbf809637&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881720.jpg?k=0ab75c28510376fb19d9f73c02b69b42820b2f0921842e05f697277ccbe40f95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881682.jpg?k=850f4c11d08824230d01ce726d40977b178ece5a5fb83ed05af1d32f672d8765&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881684.jpg?k=47d72436bd62f2b0a15e1e16d6f7024096eca2fa37e95d2418115fa48c0bdf2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881675.jpg?k=4b61a336a6cc4f814d62c2d264cfd76b80102b2a30f50652a32b993f64818fd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881688.jpg?k=31f2863f10248df99b28a9527a0b9693b0226c7c531ceabd56be79910a38872a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "Hannover 30 m"\n  - "The Wave 40 m"\nnearbyBeaches:\n  - "Vlore Beach 50 m"\n  - "Ri Beach 800 m"\n  - "Vjetër Beach 1.6 km"\n  - "Beach at Government Villas 2.6 km"\n  - "Liro Beach 3.3 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 700 m"\n  - "Kuzum Baba 2.8 km"\n  - "Independence Square 3.2 km"\nreviews:\n  - name: "Stefano"\n    country: "Italy"\n    text: "“Modern and clean apartment equipped with every comfort, huge terrace overlooking the promenade”"\nbookingURL: "https://www.booking.com/hotel/al/cactus-coastal-3-bedroom-condo.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern living, featuring four well-appointed bedrooms, a fully equipped kitchen for those who love to cook, and two bathrooms ensuring ample space for groups or families. Entertainment is readily available with a flat-screen TV for guests' enjoyment, and the inclusion of a hot tub adds a touch of luxury to the stay.
+---
+title: "Cactus Coastal: 3-Bedroom Condo"
+description: "Cactus Coastal: 3-Bedroom Condo emerges as a premier choice for travelers seeking comfort and convenience in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881623.jpg?k=94d3aa9286e0a5bda1b7ec6347633ed6c307b67353e686fb306e3664c863b5c2&o=&hp=1"
+language: en
+slug: cactus-coastal-3-bedroom-condo
+address: "Rruga Murat Tërbaçi, Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44261019
+  lng: 19.49561203
+price: "US$162"
+priceFrom: 162
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 3
+ratings:
+  overall: 9.1
+  location: 9.2
+  cleanliness: 9.2
+  facilities: 9.2
+  value: 9.2
+  comfort: 9.2
+  staff: 8.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881623.jpg?k=94d3aa9286e0a5bda1b7ec6347633ed6c307b67353e686fb306e3664c863b5c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881701.jpg?k=3be6e130711c0ceb7df16ce2a49520291a5f88e02226d8f8a68915472fb3cfe5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881697.jpg?k=989792a567e2bfce0ce6fff47dc4255e8677f16f64643cef6d71b3d38232f74f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881729.jpg?k=e6d878a88be9b371463517b65c6d4dd7f15107a43fc681b9a817f1ebbf809637&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881720.jpg?k=0ab75c28510376fb19d9f73c02b69b42820b2f0921842e05f697277ccbe40f95&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881682.jpg?k=850f4c11d08824230d01ce726d40977b178ece5a5fb83ed05af1d32f672d8765&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881684.jpg?k=47d72436bd62f2b0a15e1e16d6f7024096eca2fa37e95d2418115fa48c0bdf2d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881675.jpg?k=4b61a336a6cc4f814d62c2d264cfd76b80102b2a30f50652a32b993f64818fd7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881688.jpg?k=31f2863f10248df99b28a9527a0b9693b0226c7c531ceabd56be79910a38872a&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Apartment"
+nearbyRestaurants:
+  - "Hannover 30 m"
+  - "The Wave 40 m"
+nearbyBeaches:
+  - "Vlore Beach 50 m"
+  - "Ri Beach 800 m"
+  - "Vjetër Beach 1.6 km"
+  - "Beach at Government Villas 2.6 km"
+  - "Liro Beach 3.3 km"
+whatsNearby:
+  - "Scooby Doo Vlore 700 m"
+  - "Kuzum Baba 2.8 km"
+  - "Independence Square 3.2 km"
+reviews:
+  - name: "Stefano"
+    country: "Italy"
+    text: "“Modern and clean apartment equipped with every comfort, huge terrace overlooking the promenade”"
+bookingURL: "https://www.booking.com/hotel/al/cactus-coastal-3-bedroom-condo.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of modern living, featuring four well-appointed bedrooms, a fully equipped kitchen for those who love to cook, and two bathrooms ensuring ample space for groups or families. Entertainment is readily available with a flat-screen TV for guests' enjoyment, and the inclusion of a hot tub adds a touch of luxury to the stay.
 
 Connectivity is never an issue, as free WiFi is available throughout the property, catering to both leisure and business travelers. The commitment to a non-smoking environment ensures a clean and healthy stay for all guests.
 

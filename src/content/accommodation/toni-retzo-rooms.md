@@ -1,4 +1,83 @@
----\ntitle: "Toni Retzo Rooms"\ndescription: "Toni Retzo Rooms emerges as a charming retreat for travelers seeking a serene getaway in Himare, just a short stroll from the pristine Potam Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310851626.jpg?k=ad88df36eb530994e09c964841320e5245d21457a5a0d2d4e1f30b78d0ef7ba5&o=&hp=1"\nlanguage: en\nslug: toni-retzo-rooms\naddress: "SH8, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.09250293\n  lng: 19.75952065\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 394\nratings:\n  overall: 9.4\n  location: 8.9\n  cleanliness: 9.6\n  facilities: 9.3\n  value: 9.1\n  comfort: 9.6\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310851626.jpg?k=ad88df36eb530994e09c964841320e5245d21457a5a0d2d4e1f30b78d0ef7ba5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362243394.jpg?k=d39a3f4626f21c8a3a6387e36d2de42ceeb78213ccff11b769810799a1919ff5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314535369.jpg?k=d2816abd52b33d0ab0267215bd5365cf6961c2a6cb8dff0dfe378ecc49b36c86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362242796.jpg?k=e12aeff64cec732e907ab634248c3b9fdf79b14e7bd8a54dce103bea3c8c3efe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362243386.jpg?k=4b7c5c66152a4f5ea016252ca2a78e1b51cb76f1945b306ab241af73ca0cf303&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451371.jpg?k=1f28312bd3ef1f0289b7e7f47add9a664d3d61d1ff1fc23519f909abe7ac6253&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362243367.jpg?k=dd9173ae8a0a2020503371d93a8ec9aa272af4e0b63aa7a95584d13d6d680073&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451355.jpg?k=a0e8e0e126f4ad01c14f016b04769c568cbbed784f7f17db8cc6d681a99ae915&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451293.jpg?k=f1651801aa80fd1a1cee39a1acbe86a8b48d8683d7b8619f95b580f20cdf7fe0&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Quadruple Room"\n  - "Duplex Quadruple Room"\n  - "Deluxe Double Room"\n  - "Deluxe Double Room"\n  - "Quadruple Room with Bathroom"\nnearbyRestaurants:\n  - "Taverna Velco 250 m"\n  - "Taverna Pirosia 300 m"\nnearbyBeaches:\n  - "Potam Beach 350 m"\n  - "Prinos Beach 650 m"\n  - "Gjiri i Filikurit Beach 950 m"\n  - "Maracit Beach 1.1 km"\n  - "Spille Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 18 km"\nairports:\n  - "Corfu International Airport 55 km"\nreviews:\n  - name: "Iven"\n    country: "Indonesia"\n    text: "“Rooms are extremely cozy, and the interior design as a whole is really fantastic.”"\n  - name: "Booking"\n    country: "Germany"\n    text: "“Comfortable and clean room, excellent breakfast and 5 minute walk to the beach”"\n  - name: "Bos"\n    country: "Netherlands"\n    text: "“Very nice people! The breakfast was very good. The beach is just a 5 minute walk away. The room was really nice, had an amazing view and it had the best shower we have had in Albania”"\nbookingURL: "https://www.booking.com/hotel/al/toni-retzo-appartments.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nStrategically positioned within easy reach of Prinos Beach and a mere 1.7 kilometers from the secluded Gjiri i Filikurit Beach, guests are perfectly placed to enjoy the best of Himare's coastal beauty. The hotel's commitment to comfort and convenience is further underscored by its provision of free WiFi, ensuring guests stay connected, whether for leisure or work.
+---
+title: "Toni Retzo Rooms"
+description: "Toni Retzo Rooms emerges as a charming retreat for travelers seeking a serene getaway in Himare, just a short stroll from the pristine Potam Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310851626.jpg?k=ad88df36eb530994e09c964841320e5245d21457a5a0d2d4e1f30b78d0ef7ba5&o=&hp=1"
+language: en
+slug: toni-retzo-rooms
+address: "SH8, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.09250293
+  lng: 19.75952065
+price: "US$65"
+priceFrom: 65
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 394
+ratings:
+  overall: 9.4
+  location: 8.9
+  cleanliness: 9.6
+  facilities: 9.3
+  value: 9.1
+  comfort: 9.6
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310851626.jpg?k=ad88df36eb530994e09c964841320e5245d21457a5a0d2d4e1f30b78d0ef7ba5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362243394.jpg?k=d39a3f4626f21c8a3a6387e36d2de42ceeb78213ccff11b769810799a1919ff5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314535369.jpg?k=d2816abd52b33d0ab0267215bd5365cf6961c2a6cb8dff0dfe378ecc49b36c86&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362242796.jpg?k=e12aeff64cec732e907ab634248c3b9fdf79b14e7bd8a54dce103bea3c8c3efe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362243386.jpg?k=4b7c5c66152a4f5ea016252ca2a78e1b51cb76f1945b306ab241af73ca0cf303&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451371.jpg?k=1f28312bd3ef1f0289b7e7f47add9a664d3d61d1ff1fc23519f909abe7ac6253&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362243367.jpg?k=dd9173ae8a0a2020503371d93a8ec9aa272af4e0b63aa7a95584d13d6d680073&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451355.jpg?k=a0e8e0e126f4ad01c14f016b04769c568cbbed784f7f17db8cc6d681a99ae915&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451293.jpg?k=f1651801aa80fd1a1cee39a1acbe86a8b48d8683d7b8619f95b580f20cdf7fe0&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Superb breakfast"
+roomTypes:
+  - "Deluxe Quadruple Room"
+  - "Duplex Quadruple Room"
+  - "Deluxe Double Room"
+  - "Deluxe Double Room"
+  - "Quadruple Room with Bathroom"
+nearbyRestaurants:
+  - "Taverna Velco 250 m"
+  - "Taverna Pirosia 300 m"
+nearbyBeaches:
+  - "Potam Beach 350 m"
+  - "Prinos Beach 650 m"
+  - "Gjiri i Filikurit Beach 950 m"
+  - "Maracit Beach 1.1 km"
+  - "Spille Beach 1.3 km"
+whatsNearby:
+  - "Llogora National Park 18 km"
+airports:
+  - "Corfu International Airport 55 km"
+reviews:
+  - name: "Iven"
+    country: "Indonesia"
+    text: "“Rooms are extremely cozy, and the interior design as a whole is really fantastic.”"
+  - name: "Booking"
+    country: "Germany"
+    text: "“Comfortable and clean room, excellent breakfast and 5 minute walk to the beach”"
+  - name: "Bos"
+    country: "Netherlands"
+    text: "“Very nice people! The breakfast was very good. The beach is just a 5 minute walk away. The room was really nice, had an amazing view and it had the best shower we have had in Albania”"
+bookingURL: "https://www.booking.com/hotel/al/toni-retzo-appartments.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Strategically positioned within easy reach of Prinos Beach and a mere 1.7 kilometers from the secluded Gjiri i Filikurit Beach, guests are perfectly placed to enjoy the best of Himare's coastal beauty. The hotel's commitment to comfort and convenience is further underscored by its provision of free WiFi, ensuring guests stay connected, whether for leisure or work.
 
 Accommodations at Toni Retzo Rooms are thoughtfully designed, with select units boasting balconies that offer captivating views of the cityscape. For those who prefer the comforts of home cooking while traveling, certain rooms are equipped with a kitchen, complete with a fridge, an oven, and a stovetop, adding a touch of convenience to your stay.
 

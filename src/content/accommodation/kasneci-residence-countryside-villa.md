@@ -1,4 +1,87 @@
----\ntitle: "\"Kasneci Residence\" Countryside Villa"\ndescription: "Kasneci Residence Countryside Villa emerges as a serene retreat in the heart of the countryside, a mere 16 km from the bustling Skanderbeg Square in Tirana and a short drive from the scenic Dajti Ekspres Cable Car."\nfeaturedImage: "https://graph.facebook.com/v2.9/100001031513425/picture?type=square&height=64&width=64"\nlanguage: en\nslug: kasneci-residence-countryside-villa\naddress: "Rruga Kashar, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.34766381\n  lng: 19.68180003\nprice: "US$485"\npriceFrom: 485\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 8\nratings:\n  overall: 8.2\n  location: 8.1\n  cleanliness: 8.8\n  facilities: 7.8\n  value: 6.9\n  comfort: 8.8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/100001031513425/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/bg/182bcac71254d22e0f05dc843aa8ee912e14a669.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303534985.jpg?k=854d2127285374c49a2642ab6f6a067bd253ee9c9efd76b10062b409a656ef3a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/308406052.jpg?k=5ceec8dc775b9165dab86a1538c4cbbc5e6979fc993f37cc26ff67d16dd83615&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/308405653.jpg?k=563bc2f7884a9fcf395f4f57e467c26f12eca438e79dfc2ae6bc8bff893c98c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/308405608.jpg?k=8ef7cb80d8c09d8f2b09a3bcf6555c6f51e87c7c1f3ad2eb321111ef156c0585&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/308405573.jpg?k=d45eb02a8c214e7fa01b61a706f1398ac3e068e05587e4bd6eea6610880e9b7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/308405580.jpg?k=ad3a571531432dd7d623a66486e65f03786842fbee961a83f3b38cd882b154e9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Villa"\nnearbyAttractions:\n  - "House of Leaves 12 km"\n  - "National Museum of History Albania 12 km"\n  - "Rinia Park 12 km"\n  - "Skanderbeg Square 12 km"\n  - "Former Residence of Enver Hoxha 12 km"\n  - "Clock Tower Tirana 12 km"\n  - "National Gallery of Arts Tirana 12 km"\n  - "Tanners' Bridge 12 km"\n  - "Grand Park of Tirana 13 km"\n  - "Bunk'Art 1 Museum 15 km"\nnearbyRestaurants:\n  - "Cassar Cantina 1.5 km"\n  - "O2 2.3 km"\nwhatsNearby:\n  - "Sheshi Xhuzepe Garibaldi 8 km"\n  - "Sheshi Rekreativ Kombinat 8 km"\n  - "Shesh Rekreativ Yzberisht 9 km"\n  - "Park Lojrash 9 km"\n  - "Sheshi Rekreativ Lord Bajron 9 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 10 km"\n  - "Sheshi Rekreativ Parku 1Km 10 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 10 km"\n  - "Sheshi Rekreativ Bajram Curri 10 km"\n  - "Sheshi Rekreativ Sali Butka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 6 km"\n  - "Ohrid Airport 91 km"\nreviews:\n  - name: "Martin"\n    country: "Bulgaria"\n    text: "“Kasneci residence was an amazing place. Everything was very clean and organized the interior of the house was very nice and very comfortable. The host Igli was an excellent host and very informative and helpful. The Vila is very spacious and quite...”"\nbookingURL: "https://www.booking.com/hotel/al/countryside-villa-in-the-capitol-city-suburbs.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe property doesn't just offer a place to stay; it invites guests to experience a blend of communal and private luxuries. With a shared lounge and a dedicated picnic area, it fosters a sense of community and relaxation. Moreover, the villa takes pride in its accessibility features, ensuring a welcoming experience for guests with disabilities, alongside complimentary WiFi and private parking.
+---
+title: "\"Kasneci Residence\" Countryside Villa"
+description: "Kasneci Residence Countryside Villa emerges as a serene retreat in the heart of the countryside, a mere 16 km from the bustling Skanderbeg Square in Tirana and a short drive from the scenic Dajti Ekspres Cable Car."
+featuredImage: "https://graph.facebook.com/v2.9/100001031513425/picture?type=square&height=64&width=64"
+language: en
+slug: kasneci-residence-countryside-villa
+address: "Rruga Kashar, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "villa"
+coordinates:
+  lat: 41.34766381
+  lng: 19.68180003
+price: "US$485"
+priceFrom: 485
+starRating: 3
+rating: 8.2
+ratingWords: "Very Good"
+numberOfReviews: 8
+ratings:
+  overall: 8.2
+  location: 8.1
+  cleanliness: 8.8
+  facilities: 7.8
+  value: 6.9
+  comfort: 8.8
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://graph.facebook.com/v2.9/100001031513425/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/bg/182bcac71254d22e0f05dc843aa8ee912e14a669.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303534985.jpg?k=854d2127285374c49a2642ab6f6a067bd253ee9c9efd76b10062b409a656ef3a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/308406052.jpg?k=5ceec8dc775b9165dab86a1538c4cbbc5e6979fc993f37cc26ff67d16dd83615&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/308405653.jpg?k=563bc2f7884a9fcf395f4f57e467c26f12eca438e79dfc2ae6bc8bff893c98c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/308405608.jpg?k=8ef7cb80d8c09d8f2b09a3bcf6555c6f51e87c7c1f3ad2eb321111ef156c0585&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/308405573.jpg?k=d45eb02a8c214e7fa01b61a706f1398ac3e068e05587e4bd6eea6610880e9b7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/308405580.jpg?k=ad3a571531432dd7d623a66486e65f03786842fbee961a83f3b38cd882b154e9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Facilities for disabled guests"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Villa"
+nearbyAttractions:
+  - "House of Leaves 12 km"
+  - "National Museum of History Albania 12 km"
+  - "Rinia Park 12 km"
+  - "Skanderbeg Square 12 km"
+  - "Former Residence of Enver Hoxha 12 km"
+  - "Clock Tower Tirana 12 km"
+  - "National Gallery of Arts Tirana 12 km"
+  - "Tanners' Bridge 12 km"
+  - "Grand Park of Tirana 13 km"
+  - "Bunk'Art 1 Museum 15 km"
+nearbyRestaurants:
+  - "Cassar Cantina 1.5 km"
+  - "O2 2.3 km"
+whatsNearby:
+  - "Sheshi Xhuzepe Garibaldi 8 km"
+  - "Sheshi Rekreativ Kombinat 8 km"
+  - "Shesh Rekreativ Yzberisht 9 km"
+  - "Park Lojrash 9 km"
+  - "Sheshi Rekreativ Lord Bajron 9 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 10 km"
+  - "Sheshi Rekreativ Parku 1Km 10 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 10 km"
+  - "Sheshi Rekreativ Bajram Curri 10 km"
+  - "Sheshi Rekreativ Sali Butka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 6 km"
+  - "Ohrid Airport 91 km"
+reviews:
+  - name: "Martin"
+    country: "Bulgaria"
+    text: "“Kasneci residence was an amazing place. Everything was very clean and organized the interior of the house was very nice and very comfortable. The host Igli was an excellent host and very informative and helpful. The Vila is very spacious and quite...”"
+bookingURL: "https://www.booking.com/hotel/al/countryside-villa-in-the-capitol-city-suburbs.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+The property doesn't just offer a place to stay; it invites guests to experience a blend of communal and private luxuries. With a shared lounge and a dedicated picnic area, it fosters a sense of community and relaxation. Moreover, the villa takes pride in its accessibility features, ensuring a welcoming experience for guests with disabilities, alongside complimentary WiFi and private parking.
 
 Accommodation at Kasneci Residence is nothing short of spacious and well-appointed. The villa boasts a living space that includes a fully equipped kitchen, complete with modern appliances such as a dishwasher, oven, and microwave. The living area is designed for comfort, featuring a cozy seating and dining area. The villa houses five bedrooms and five bathrooms, each equipped with a walk-in shower and bidet, ensuring ample space and privacy for guests. The air-conditioned unit also features a balcony that offers an outdoor dining area, perfect for enjoying meals in the fresh air. Entertainment is readily available with a flat-screen TV that includes streaming services, and a DVD player, not to mention the charming addition of a fireplace.
 

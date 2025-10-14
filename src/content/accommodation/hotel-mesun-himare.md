@@ -1,1 +1,76 @@
----\ntitle: "Hotel Mesun Himare"\ndescription: "Hotel Mesun Himare emerges as a prime choice for travelers seeking both comfort and convenience, located just a stone's throw away from the serene Potam Beach and a short stroll from the picturesque Gjiri i Filikurit Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310002072.jpg?k=469e43afc3c3bfc28c8839f74d31c932a707fd0404f20dee246d9c67d39631ff&o=&hp=1"\nlanguage: en\nslug: hotel-mesun-himare\naddress: "Potam Mesun, 8888 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.08905306\n  lng: 19.75467437\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 205\nratings:\n  overall: 9.4\n  location: 9.2\n  cleanliness: 9.5\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.6\n  staff: 9.8\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310002072.jpg?k=469e43afc3c3bfc28c8839f74d31c932a707fd0404f20dee246d9c67d39631ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366814529.jpg?k=155e6df0a66573367e829e6744903b6ba98219ba38fd66f6152f236626d30a74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350508586.jpg?k=36e6bc6bf3b36b20158b804c60ee64f30e2b14fd423d0af01e4f119f62050ae0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465556016.jpg?k=aeca76fc1687c3dcc18fa3913f74061b2c00e6653e7e459c97fdfa33b3465698&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465556536.jpg?k=f33df7d489fe8ab1de081f3dc6738d2bc6e1fe9f461042d8fb937f80e3b96dca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310001930.jpg?k=5e2e4eaaa1909a348efa9ba584c27f490015dad4e9276cb189f47ac7994a7902&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465556274.jpg?k=6d4e09f6568e8486207bc63c074d56113bc816884c48498f141cb01e2d2b5ad6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465554679.jpg?k=94b7112c38701cf6ead2ac113b329ffbe1634aaa645d94fa7cfaec6e493371f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300500059.jpg?k=6ebf04d9795503d630d071b53e9da73f52ed99660dd99c2566f8ba1c0630fdb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528490051.jpg?k=3aba94afe5947b1620c353c84798e5e810e2979ab1e492b1950e092d0fedd602&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297279135.jpg?k=7f7929ac16c8c10ade7bf8d88ac3c83e3a9484c479cc4a6f12bb58d949520225&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528489918.jpg?k=2605818715fbd727d9b4c2121cd1903db29dd27bf13cb42dd48678431fe089f3&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Tramonto Ristorante 250 m"\n  - "Fanes & Beach Bar 250 m"\nnearbyBeaches:\n  - "Potam Beach 150 m"\n  - "Gjiri i Filikurit Beach 400 m"\n  - "Prinos Beach 750 m"\n  - "Maracit Beach 1.1 km"\n  - "Llamani Beach 1.3 km"\nwhatsNearby:\n  - "Llogora National Park 18 km"\nairports:\n  - "Corfu International Airport 55 km"\nreviews:\n  - name: "Maija"\n    country: "Finland"\n    text: "“The room was very clean. Beautiful view of Himare from the balcony. A very pleasant and hospitable host. Ideal for a few days. Close to the beach, but the road to the hotel is uphill.”"\n  - name: "Mathis"\n    country: "Germany"\n    text: "“The location and the view were fantastic. Our host was extremely helpful and drove us to the bus stop in the morning. It was nice and quiet and just a 10 min walk down to the beach or restaurants.”"\n  - name: "Laura"\n    country: "United Kingdom"\n    text: "“Really great location especially if you want to easily access Filikuri beach. Also very close to the bay. The room was huge as was the balcony, amazing views over the bay! Elsa who runs it is very sweet and helpful, always replied at a seconds...”"\nbookingURL: "https://www.booking.com/hotel/al/mesun-sea-view-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nFor beach enthusiasts, the allure of Prinos Beach is within easy reach, being less than 1 km away, making it an effortless destination for guests looking to soak up the sun or enjoy the crystal-clear waters. Situated 142 km from Ioannina Airport, Hotel Mesun Himare serves as an ideal base for exploring the enchanting surroundings of Himare, promising an unforgettable stay marked by convenience, comfort, and scenic beauty.
+---
+title: "Hotel Mesun Himare"
+description: "Hotel Mesun Himare emerges as a prime choice for travelers seeking both comfort and convenience, located just a stone's throw away from the serene Potam Beach and a short stroll from the picturesque Gjiri i Filikurit Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310002072.jpg?k=469e43afc3c3bfc28c8839f74d31c932a707fd0404f20dee246d9c67d39631ff&o=&hp=1"
+language: en
+slug: hotel-mesun-himare
+address: "Potam Mesun, 8888 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.08905306
+  lng: 19.75467437
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 205
+ratings:
+  overall: 9.4
+  location: 9.2
+  cleanliness: 9.5
+  facilities: 8.9
+  value: 9.2
+  comfort: 9.6
+  staff: 9.8
+  wifi: 9.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310002072.jpg?k=469e43afc3c3bfc28c8839f74d31c932a707fd0404f20dee246d9c67d39631ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366814529.jpg?k=155e6df0a66573367e829e6744903b6ba98219ba38fd66f6152f236626d30a74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350508586.jpg?k=36e6bc6bf3b36b20158b804c60ee64f30e2b14fd423d0af01e4f119f62050ae0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465556016.jpg?k=aeca76fc1687c3dcc18fa3913f74061b2c00e6653e7e459c97fdfa33b3465698&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465556536.jpg?k=f33df7d489fe8ab1de081f3dc6738d2bc6e1fe9f461042d8fb937f80e3b96dca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310001930.jpg?k=5e2e4eaaa1909a348efa9ba584c27f490015dad4e9276cb189f47ac7994a7902&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465556274.jpg?k=6d4e09f6568e8486207bc63c074d56113bc816884c48498f141cb01e2d2b5ad6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465554679.jpg?k=94b7112c38701cf6ead2ac113b329ffbe1634aaa645d94fa7cfaec6e493371f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300500059.jpg?k=6ebf04d9795503d630d071b53e9da73f52ed99660dd99c2566f8ba1c0630fdb8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528490051.jpg?k=3aba94afe5947b1620c353c84798e5e810e2979ab1e492b1950e092d0fedd602&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297279135.jpg?k=7f7929ac16c8c10ade7bf8d88ac3c83e3a9484c479cc4a6f12bb58d949520225&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528489918.jpg?k=2605818715fbd727d9b4c2121cd1903db29dd27bf13cb42dd48678431fe089f3&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Tramonto Ristorante 250 m"
+  - "Fanes & Beach Bar 250 m"
+nearbyBeaches:
+  - "Potam Beach 150 m"
+  - "Gjiri i Filikurit Beach 400 m"
+  - "Prinos Beach 750 m"
+  - "Maracit Beach 1.1 km"
+  - "Llamani Beach 1.3 km"
+whatsNearby:
+  - "Llogora National Park 18 km"
+airports:
+  - "Corfu International Airport 55 km"
+reviews:
+  - name: "Maija"
+    country: "Finland"
+    text: "“The room was very clean. Beautiful view of Himare from the balcony. A very pleasant and hospitable host. Ideal for a few days. Close to the beach, but the road to the hotel is uphill.”"
+  - name: "Mathis"
+    country: "Germany"
+    text: "“The location and the view were fantastic. Our host was extremely helpful and drove us to the bus stop in the morning. It was nice and quiet and just a 10 min walk down to the beach or restaurants.”"
+  - name: "Laura"
+    country: "United Kingdom"
+    text: "“Really great location especially if you want to easily access Filikuri beach. Also very close to the bay. The room was huge as was the balcony, amazing views over the bay! Elsa who runs it is very sweet and helpful, always replied at a seconds...”"
+bookingURL: "https://www.booking.com/hotel/al/mesun-sea-view-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+For beach enthusiasts, the allure of Prinos Beach is within easy reach, being less than 1 km away, making it an effortless destination for guests looking to soak up the sun or enjoy the crystal-clear waters. Situated 142 km from Ioannina Airport, Hotel Mesun Himare serves as an ideal base for exploring the enchanting surroundings of Himare, promising an unforgettable stay marked by convenience, comfort, and scenic beauty.

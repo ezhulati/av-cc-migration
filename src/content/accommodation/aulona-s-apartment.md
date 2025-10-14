@@ -1,6 +1,79 @@
----\ntitle: "Aulona's Apartment"\ndescription: "Aulona's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a stone's throw away from Vlore Beach and within easy reach of Ri Beach and Vjetër Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963108.jpg?k=8804cebfb518edf4bd7a657de497ee9f70a415909f76ae803c967bf8ed53c364&o=&hp=1"\nlanguage: en\nslug: aulona-s-apartment\naddress: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.4467204\n  lng: 19.49565298\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 18\nratings:\n  overall: 9.3\n  location: 9.9\n  cleanliness: 9.2\n  facilities: 9\n  value: 9.2\n  comfort: 9.3\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963108.jpg?k=8804cebfb518edf4bd7a657de497ee9f70a415909f76ae803c967bf8ed53c364&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963169.jpg?k=8545af9a395cf64e38d84210344665e05707ff4e5dd6096d1ece21a0e6f2da42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963193.jpg?k=4be51d4802f89ad9cc0a2d6c17ab87e965133a53da3723fe69ef1a49cc20d7ba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963224.jpg?k=98dac9e216a47a061a0b357367c791b9edfef78b1b26851cbe6a0a6c39a3aadf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963138.jpg?k=30ac8690e3bf3df4888fab2d2fbb11a907bc2aef47e827972de00d7e0b2a6d53&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963184.jpg?k=b409cac9bcc0fcc409ce25bf83d95a3c4f4193b9b98a84814f4783df1454106e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963147.jpg?k=872dc98d0ecd51366514282a176a56f469fd4d6843d9c35982cc7d044fceb463&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963179.jpg?k=cef22431c5dde86df4c89a831ec336f4b7d3f66fdc39404c1c08a34fa3b6e09c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963157.jpg?k=13011bebf9fc9cf170c72f5d31287b2977d34ad29fefbb4391550a2cf8353537&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Primo Gusto 150 m"\n  - "Restorant Xhokla 150 m"\nnearbyBeaches:\n  - "Vlore Beach 150 m"\n  - "Ri Beach 1.2 km"\n  - "Vjetër Beach 1.4 km"\n  - "Beach at Government Villas 3 km"\n  - "Liro Beach 3.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.2 km"\n  - "Kuzum Baba 2.3 km"\n  - "Independence Square 2.7 km"\nreviews:\n  - name: "Paul"\n    country: "Romania"\n    text: "“The apartment is very nice and big, the location is excellent, close to the beach and the heart of the Vlore. I really recommend this apartment and for sure if we will come back we will stay there!”"\n  - name: "Selam"\n    country: "Netherlands"\n    text: "“Smooth check-in and really friendly hosts!
-The apartment was really clean, and located in one of the most beautiful areas in the city. I would totally recommend it to anyone!”"\n  - name: "Gorgi"\n    country: "North Macedonia"\n    text: "“Great location near the Vlore beach.
-The apartment is very clean and spacious. The comunication with the host is great and they are very helpful!”"\nbookingURL: "https://www.booking.com/hotel/al/aulonas-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and comfort, featuring two well-appointed bedrooms, a cozy living room, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. The inclusion of a flat-screen TV ensures that entertainment is never far away. Guests can also enjoy serene garden views, adding a touch of tranquility to their stay.
+---
+title: "Aulona's Apartment"
+description: "Aulona's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a stone's throw away from Vlore Beach and within easy reach of Ri Beach and Vjetër Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963108.jpg?k=8804cebfb518edf4bd7a657de497ee9f70a415909f76ae803c967bf8ed53c364&o=&hp=1"
+language: en
+slug: aulona-s-apartment
+address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.4467204
+  lng: 19.49565298
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 18
+ratings:
+  overall: 9.3
+  location: 9.9
+  cleanliness: 9.2
+  facilities: 9
+  value: 9.2
+  comfort: 9.3
+  staff: 9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963108.jpg?k=8804cebfb518edf4bd7a657de497ee9f70a415909f76ae803c967bf8ed53c364&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963169.jpg?k=8545af9a395cf64e38d84210344665e05707ff4e5dd6096d1ece21a0e6f2da42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963193.jpg?k=4be51d4802f89ad9cc0a2d6c17ab87e965133a53da3723fe69ef1a49cc20d7ba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963224.jpg?k=98dac9e216a47a061a0b357367c791b9edfef78b1b26851cbe6a0a6c39a3aadf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963138.jpg?k=30ac8690e3bf3df4888fab2d2fbb11a907bc2aef47e827972de00d7e0b2a6d53&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963184.jpg?k=b409cac9bcc0fcc409ce25bf83d95a3c4f4193b9b98a84814f4783df1454106e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963147.jpg?k=872dc98d0ecd51366514282a176a56f469fd4d6843d9c35982cc7d044fceb463&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963179.jpg?k=cef22431c5dde86df4c89a831ec336f4b7d3f66fdc39404c1c08a34fa3b6e09c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963157.jpg?k=13011bebf9fc9cf170c72f5d31287b2977d34ad29fefbb4391550a2cf8353537&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Primo Gusto 150 m"
+  - "Restorant Xhokla 150 m"
+nearbyBeaches:
+  - "Vlore Beach 150 m"
+  - "Ri Beach 1.2 km"
+  - "Vjetër Beach 1.4 km"
+  - "Beach at Government Villas 3 km"
+  - "Liro Beach 3.7 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.2 km"
+  - "Kuzum Baba 2.3 km"
+  - "Independence Square 2.7 km"
+reviews:
+  - name: "Paul"
+    country: "Romania"
+    text: "“The apartment is very nice and big, the location is excellent, close to the beach and the heart of the Vlore. I really recommend this apartment and for sure if we will come back we will stay there!”"
+  - name: "Selam"
+    country: "Netherlands"
+    text: "“Smooth check-in and really friendly hosts!
+The apartment was really clean, and located in one of the most beautiful areas in the city. I would totally recommend it to anyone!”"
+  - name: "Gorgi"
+    country: "North Macedonia"
+    text: "“Great location near the Vlore beach.
+The apartment is very clean and spacious. The comunication with the host is great and they are very helpful!”"
+bookingURL: "https://www.booking.com/hotel/al/aulonas-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of space and comfort, featuring two well-appointed bedrooms, a cozy living room, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. The inclusion of a flat-screen TV ensures that entertainment is never far away. Guests can also enjoy serene garden views, adding a touch of tranquility to their stay.
 
 For added convenience, a minimarket on the premises allows guests to easily pick up essentials without having to venture far. 
 

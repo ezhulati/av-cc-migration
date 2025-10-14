@@ -1,6 +1,93 @@
----\ntitle: "Christi's Hotel Borova"\ndescription: "Christi's Hotel Borova, situated a mere 44 km from the serene Ohrid Lake Springs, stands as a beacon of comfort and luxury in Korçë, offering guests a 4-star experience that goes beyond the ordinary."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274553895.jpg?k=a42070db63e4d7941e4141ff93db673f8968b7a960b6e9479edc2190699ac612&o=&hp=1"\nlanguage: en\nslug: christi-s-hotel-borova\naddress: "Rruga 6 Deshmoret, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.61555135\n  lng: 20.77885638\nprice: "US$59"\npriceFrom: 59\nstarRating: 4\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 221\nratings:\n  overall: 9.5\n  location: 9.8\n  cleanliness: 9.6\n  facilities: 9.4\n  value: 9.4\n  comfort: 9.6\n  staff: 9.7\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274553895.jpg?k=a42070db63e4d7941e4141ff93db673f8968b7a960b6e9479edc2190699ac612&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327147084.jpg?k=3519998e06a3ba88b0610477dede1156d603d803a4195396abf56293e3de905e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366812582.jpg?k=9f0ab4edeca827a1223ba9f6707ea643e42d40062c93110d18bc7d0e0a9c3adb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327147167.jpg?k=434d6a6b67220dc796318c264e062338e6a5cb69ea274d1e30f4234ea3525f5a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327142772.jpg?k=d7fa3164a5d88ad9ccb264fb9daa858a74fd675e9fbeb67c29b300aa45eb920c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327142785.jpg?k=587edd592f49acd665957490cae7450fe24a7e3e7c3824f4ddc23fa233a57db1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327144099.jpg?k=c741f44d843a30b18d1976e31b10369dd635ae6c197fb08ccb23754acee51f01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327143471.jpg?k=8f3ef1e69424887124e6e0c34a0822794675432901c9faaf774322cb435e5c31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327143596.jpg?k=e3cc03b19087338b3c5a2ac6e7cf983421d56f952c019fb12322ebe0e9d3a657&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Double Room with Balcony"\n  - "Deluxe Triple Room"\n  - "Triple Room with City View"\nnearbyRestaurants:\n  - "Grill Vasport 100 m"\n  - "Helzag 150 m"\nwhatsNearby:\n  - "Parku Vangjush Mio 150 m"\n  - "Parku Rinia 150 m"\n  - "Sheshi Patriku Joasaf 350 m"\n  - "Parku Themistokli Gërmenji 450 m"\n  - "Field of Tears 500 m"\n  - "Parku Rinia 1.3 km"\n  - "Sheshi Panxhar 6 km"\n  - "Sheshi Koço Plaku 12 km"\n  - "Sheshi Penetori 13 km"\nairports:\n  - "Kastoria National Airport 45 km"\n  - "Ohrid Airport 61 km"\n  - "Kozani National Airport 96 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Senad"\n    country: "Serbia"\n    text: "“Best hotel in Korce. Small family hotel. Perfect location. Good internet. Room with balcony. Friendly stuff..”"\n  - name: "Jonida"\n    country: "Albania"\n    text: "“- perfect location
+---
+title: "Christi's Hotel Borova"
+description: "Christi's Hotel Borova, situated a mere 44 km from the serene Ohrid Lake Springs, stands as a beacon of comfort and luxury in Korçë, offering guests a 4-star experience that goes beyond the ordinary."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274553895.jpg?k=a42070db63e4d7941e4141ff93db673f8968b7a960b6e9479edc2190699ac612&o=&hp=1"
+language: en
+slug: christi-s-hotel-borova
+address: "Rruga 6 Deshmoret, 7001 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.61555135
+  lng: 20.77885638
+price: "US$59"
+priceFrom: 59
+starRating: 4
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 221
+ratings:
+  overall: 9.5
+  location: 9.8
+  cleanliness: 9.6
+  facilities: 9.4
+  value: 9.4
+  comfort: 9.6
+  staff: 9.7
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274553895.jpg?k=a42070db63e4d7941e4141ff93db673f8968b7a960b6e9479edc2190699ac612&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327147084.jpg?k=3519998e06a3ba88b0610477dede1156d603d803a4195396abf56293e3de905e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366812582.jpg?k=9f0ab4edeca827a1223ba9f6707ea643e42d40062c93110d18bc7d0e0a9c3adb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327147167.jpg?k=434d6a6b67220dc796318c264e062338e6a5cb69ea274d1e30f4234ea3525f5a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327142772.jpg?k=d7fa3164a5d88ad9ccb264fb9daa858a74fd675e9fbeb67c29b300aa45eb920c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327142785.jpg?k=587edd592f49acd665957490cae7450fe24a7e3e7c3824f4ddc23fa233a57db1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327144099.jpg?k=c741f44d843a30b18d1976e31b10369dd635ae6c197fb08ccb23754acee51f01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327143471.jpg?k=8f3ef1e69424887124e6e0c34a0822794675432901c9faaf774322cb435e5c31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327143596.jpg?k=e3cc03b19087338b3c5a2ac6e7cf983421d56f952c019fb12322ebe0e9d3a657&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Double Room with Balcony"
+  - "Deluxe Triple Room"
+  - "Triple Room with City View"
+nearbyRestaurants:
+  - "Grill Vasport 100 m"
+  - "Helzag 150 m"
+whatsNearby:
+  - "Parku Vangjush Mio 150 m"
+  - "Parku Rinia 150 m"
+  - "Sheshi Patriku Joasaf 350 m"
+  - "Parku Themistokli Gërmenji 450 m"
+  - "Field of Tears 500 m"
+  - "Parku Rinia 1.3 km"
+  - "Sheshi Panxhar 6 km"
+  - "Sheshi Koço Plaku 12 km"
+  - "Sheshi Penetori 13 km"
+airports:
+  - "Kastoria National Airport 45 km"
+  - "Ohrid Airport 61 km"
+  - "Kozani National Airport 96 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Senad"
+    country: "Serbia"
+    text: "“Best hotel in Korce. Small family hotel. Perfect location. Good internet. Room with balcony. Friendly stuff..”"
+  - name: "Jonida"
+    country: "Albania"
+    text: "“- perfect location
 - everything was clean
-- the food was awesome, fresh and tasty, lots of choices - friendly and helpful staff :)”"\n  - name: "Senad"\n    country: "Serbia"\n    text: "“Perfect location. Nice and clean rooms. Friendly stuff ready to help, give info and support you.”"\nbookingURL: "https://www.booking.com/hotel/al/borova.en-gb.html?aid=8035640"\nbestFor: "Best for Location"\nbestCategories: "Location"\ncategory: "Location"\n---\n\nThe commitment to guest convenience is evident through the provision of room service and a 24-hour front desk, complemented by the seamless connectivity of complimentary WiFi accessible throughout the premises. For those looking to unwind with a beverage, the snack bar presents an inviting option.
+- the food was awesome, fresh and tasty, lots of choices - friendly and helpful staff :)”"
+  - name: "Senad"
+    country: "Serbia"
+    text: "“Perfect location. Nice and clean rooms. Friendly stuff ready to help, give info and support you.”"
+bookingURL: "https://www.booking.com/hotel/al/borova.en-gb.html?aid=8035640"
+bestFor: "Best for Location"
+bestCategories: "Location"
+category: "Location"
+---
+
+The commitment to guest convenience is evident through the provision of room service and a 24-hour front desk, complemented by the seamless connectivity of complimentary WiFi accessible throughout the premises. For those looking to unwind with a beverage, the snack bar presents an inviting option.
 
 Accommodations at Christi's Hotel Borova are designed with the discerning traveler in mind. Each room boasts a wardrobe and air conditioning for ultimate comfort, alongside a flat-screen TV for entertainment needs. The private bathrooms are well-appointed with a bidet and complimentary toiletries, ensuring a refreshing start and end to each day. Select rooms elevate the experience further with the addition of a balcony, offering guests a private outdoor space to relax and rejuvenate.
 

@@ -1,5 +1,86 @@
----\ntitle: "Home Inn Apartaments Tirana"\ndescription: "Home Inn Apartments Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717657.jpg?k=63cd915f71dbcc6263d47db5f3b49bb7f8813bab77c61e071ff4dcb0d4565bba&o=&hp=1"\nlanguage: en\nslug: home-inn-apartaments-tirana\naddress: "Rruga Muhamet Gjollesha, 1023 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33154077\n  lng: 19.80359247\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717657.jpg?k=63cd915f71dbcc6263d47db5f3b49bb7f8813bab77c61e071ff4dcb0d4565bba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717692.jpg?k=ddf6ae1bdc4b630f7650ef20e7bf9cb1e88fd398ef8deb9046b743ec67819b0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717688.jpg?k=8577125fae3bc4305a701d851bbb91c44be74f42652cfe7d2de0d6129a760f0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717696.jpg?k=13cf9c2b871fcb36261ee3e8187c13b6b45de84dfddcb29706fcd8ad1efc4952&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183357.jpg?k=71abf31d22446e59e9b31c8bf134b61167fbe28ca5d512bcece9013c68038c1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183349.jpg?k=c7e925729479faabf318910837f00f225b547fbafe94b89e1dda6b692e8d96b8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183354.jpg?k=2752e61bab9dde946a8270d84e8c16a6e65c59792f6ddcf47363ff87010675fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717690.jpg?k=6d00c0d84d9309863f555539d73aaa257ccec9a25a9ff49dd60e9d66de5b9024&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183350.jpg?k=3924168819733ea7441e5914b45b560708bbe394a007dbe13cad74dec223f454&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.4 km"\n  - "Clock Tower Tirana 1.4 km"\n  - "Rinia Park 1.4 km"\n  - "National Gallery of Arts Tirana 1.6 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Tanners' Bridge 2 km"\n  - "Grand Park of Tirana 2.8 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Bar Restorant Il Nido 30 m"\n  - "Pizza Benvenuto 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 350 m"\n  - "Sheshi Rekreativ Don Bosko 550 m"\n  - "Sheshi Rekreativ Parku 1Km 600 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 900 m"\n  - "Sheshi Paris 1,000 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1,000 m"\n  - "Sheshi Rekreativ Sali Butka 1,000 m"\n  - "Sheshi Rekreativ Lord Bajron 1.1 km"\n  - "National Museum of History Albania 1.2 km"\n  - "House of Leaves 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Irmina"\n    country: "Poland"\n    text: "“Hosts are very kind and communication was effective.
-Very pleasant, comfortable and clean apartament, good location”"\n  - name: "Maria"\n    country: "Italy"\n    text: "“Proprietario molto gentile e disponibile, appartamento pulito e posizione ottima”"\nbookingURL: "https://www.booking.com/hotel/al/home-inn-apartaments-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nSecurity is a top priority at Home Inn Apartments Tirana, ensuring peace of mind for guests with round-the-clock security measures, complemented by the charming addition of an outdoor fireplace that adds a touch of warmth to the ambiance.
+---
+title: "Home Inn Apartaments Tirana"
+description: "Home Inn Apartments Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717657.jpg?k=63cd915f71dbcc6263d47db5f3b49bb7f8813bab77c61e071ff4dcb0d4565bba&o=&hp=1"
+language: en
+slug: home-inn-apartaments-tirana
+address: "Rruga Muhamet Gjollesha, 1023 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33154077
+  lng: 19.80359247
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 5
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717657.jpg?k=63cd915f71dbcc6263d47db5f3b49bb7f8813bab77c61e071ff4dcb0d4565bba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717692.jpg?k=ddf6ae1bdc4b630f7650ef20e7bf9cb1e88fd398ef8deb9046b743ec67819b0b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717688.jpg?k=8577125fae3bc4305a701d851bbb91c44be74f42652cfe7d2de0d6129a760f0a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717696.jpg?k=13cf9c2b871fcb36261ee3e8187c13b6b45de84dfddcb29706fcd8ad1efc4952&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183357.jpg?k=71abf31d22446e59e9b31c8bf134b61167fbe28ca5d512bcece9013c68038c1b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183349.jpg?k=c7e925729479faabf318910837f00f225b547fbafe94b89e1dda6b692e8d96b8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183354.jpg?k=2752e61bab9dde946a8270d84e8c16a6e65c59792f6ddcf47363ff87010675fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496717690.jpg?k=6d00c0d84d9309863f555539d73aaa257ccec9a25a9ff49dd60e9d66de5b9024&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503183350.jpg?k=3924168819733ea7441e5914b45b560708bbe394a007dbe13cad74dec223f454&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.4 km"
+  - "Clock Tower Tirana 1.4 km"
+  - "Rinia Park 1.4 km"
+  - "National Gallery of Arts Tirana 1.6 km"
+  - "Former Residence of Enver Hoxha 1.6 km"
+  - "Tanners' Bridge 2 km"
+  - "Grand Park of Tirana 2.8 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Bar Restorant Il Nido 30 m"
+  - "Pizza Benvenuto 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 350 m"
+  - "Sheshi Rekreativ Don Bosko 550 m"
+  - "Sheshi Rekreativ Parku 1Km 600 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 900 m"
+  - "Sheshi Paris 1,000 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1,000 m"
+  - "Sheshi Rekreativ Sali Butka 1,000 m"
+  - "Sheshi Rekreativ Lord Bajron 1.1 km"
+  - "National Museum of History Albania 1.2 km"
+  - "House of Leaves 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Irmina"
+    country: "Poland"
+    text: "“Hosts are very kind and communication was effective.
+Very pleasant, comfortable and clean apartament, good location”"
+  - name: "Maria"
+    country: "Italy"
+    text: "“Proprietario molto gentile e disponibile, appartamento pulito e posizione ottima”"
+bookingURL: "https://www.booking.com/hotel/al/home-inn-apartaments-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Security is a top priority at Home Inn Apartments Tirana, ensuring peace of mind for guests with round-the-clock security measures, complemented by the charming addition of an outdoor fireplace that adds a touch of warmth to the ambiance.
 
 Accommodation here means having access to modern amenities that cater to the needs of contemporary travelers. Each 1-bedroom apartment is a haven of comfort, equipped with air conditioning, a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a microwave and toaster. The inclusion of free WiFi allows guests to stay connected, whether for leisure or work.
 

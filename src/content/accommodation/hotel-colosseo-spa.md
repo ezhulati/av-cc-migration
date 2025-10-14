@@ -1,8 +1,89 @@
----\ntitle: "Hotel Colosseo & Spa"\ndescription: "Discover the charm of Shkoder through the eyes of those who've experienced the comfort and convenience of Hotel Colosseo & Spa."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40628762.jpg?k=d68c9286c2a90e989367e015c1544d4d31eeb3039fa82baf9b67212b19226f40&o=&hp=1"\nlanguage: en\nslug: hotel-colosseo-spa\naddress: "Street Kol Idromeno , 4000 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.06745856\n  lng: 19.5144546\nprice: "US$65"\npriceFrom: 65\nstarRating: 5\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 684\nratings:\n  overall: 8.9\n  location: 9.6\n  cleanliness: 8.7\n  facilities: 8.4\n  value: 8.5\n  comfort: 8.6\n  staff: 9.3\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40628762.jpg?k=d68c9286c2a90e989367e015c1544d4d31eeb3039fa82baf9b67212b19226f40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134913839.jpg?k=cf133e5ade6fd4f5b11f4fa8ef8bae3422a8974c2c5c37767ba49320a67b14d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843886.jpg?k=977dbf0ca9842e61542cd91a4d3add526794a1e5a55e347d6b26e04c619a8efb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843913.jpg?k=e876b0bc9d84911fa7017b83bdf95770bee7dc0d625ae02496d2886d6eee8de3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843877.jpg?k=0464a1c6722352c0c81ef2c063997ee4e50db9f557f037fbbc2348242412a608&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843926.jpg?k=57b7896c746fc51a8941d7968f522d723675b770fa75a3ff534d31e8c4eb1d04&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\n  - "Twin Room"\n  - "Triple Room"\nnearbyRestaurants:\n  - "Stolia Coffeehouse & Brunch 30 m"\n  - "Restorant Pasta e Vino 30 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.9 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 74 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Yurii"\n    country: "Ukraine"\n    text: "“Excellent location in the city center
+---
+title: "Hotel Colosseo & Spa"
+description: "Discover the charm of Shkoder through the eyes of those who've experienced the comfort and convenience of Hotel Colosseo & Spa."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40628762.jpg?k=d68c9286c2a90e989367e015c1544d4d31eeb3039fa82baf9b67212b19226f40&o=&hp=1"
+language: en
+slug: hotel-colosseo-spa
+address: "Street Kol Idromeno , 4000 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hotel"
+coordinates:
+  lat: 42.06745856
+  lng: 19.5144546
+price: "US$65"
+priceFrom: 65
+starRating: 5
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 684
+ratings:
+  overall: 8.9
+  location: 9.6
+  cleanliness: 8.7
+  facilities: 8.4
+  value: 8.5
+  comfort: 8.6
+  staff: 9.3
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40628762.jpg?k=d68c9286c2a90e989367e015c1544d4d31eeb3039fa82baf9b67212b19226f40&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134913839.jpg?k=cf133e5ade6fd4f5b11f4fa8ef8bae3422a8974c2c5c37767ba49320a67b14d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843886.jpg?k=977dbf0ca9842e61542cd91a4d3add526794a1e5a55e347d6b26e04c619a8efb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843913.jpg?k=e876b0bc9d84911fa7017b83bdf95770bee7dc0d625ae02496d2886d6eee8de3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843877.jpg?k=0464a1c6722352c0c81ef2c063997ee4e50db9f557f037fbbc2348242412a608&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135843926.jpg?k=57b7896c746fc51a8941d7968f522d723675b770fa75a3ff534d31e8c4eb1d04&o=&hp=1"
+amenities:
+  - "Indoor swimming pool"
+  - "Spa and wellness centre"
+  - "Non-smoking rooms"
+  - "Fitness centre"
+  - "Room service"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Free WiFi"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Single Room"
+  - "Double Room"
+  - "Twin Room"
+  - "Triple Room"
+nearbyRestaurants:
+  - "Stolia Coffeehouse & Brunch 30 m"
+  - "Restorant Pasta e Vino 30 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.9 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+  - "Tivat Airport 74 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Yurii"
+    country: "Ukraine"
+    text: "“Excellent location in the city center
 Friendly staff
-Everything is great”"\n  - name: "Chris"\n    country: "Spain"\n    text: "“- Really nice staff (hi Erbius and Emanuel! :) )
+Everything is great”"
+  - name: "Chris"
+    country: "Spain"
+    text: "“- Really nice staff (hi Erbius and Emanuel! :) )
 - Turkish bath, pool, sauna
-- Good locatio”"\n  - name: "Frankie68"\n    country: "Italy"\n    text: "“Location in the perfect center of Shkoder... very nice staff”"\nbookingURL: "https://www.booking.com/hotel/al/hote-colosseo.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe Colosseo doesn't just offer a place to stay; it extends a full spectrum of amenities designed to enhance your visit. Guests rave about the complimentary access to a fitness center, an indoor swimming pool, massage facilities, and a sauna, ensuring relaxation and rejuvenation are always within reach. The on-site restaurant, praised for its local specialties, adds a flavorful dimension to the stay.
+- Good locatio”"
+  - name: "Frankie68"
+    country: "Italy"
+    text: "“Location in the perfect center of Shkoder... very nice staff”"
+bookingURL: "https://www.booking.com/hotel/al/hote-colosseo.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The Colosseo doesn't just offer a place to stay; it extends a full spectrum of amenities designed to enhance your visit. Guests rave about the complimentary access to a fitness center, an indoor swimming pool, massage facilities, and a sauna, ensuring relaxation and rejuvenation are always within reach. The on-site restaurant, praised for its local specialties, adds a flavorful dimension to the stay.
 
 Accommodations at the Colosseo are a blend of comfort and functionality. Each air-conditioned room and suite is equipped with an LCD TV offering satellite channels, alongside practical amenities such as a desk, chair, minibar, and safe. The attention to detail extends to the en-suite bathrooms, complete with a bidet, shower, and hairdryer, ensuring a seamless stay. Select rooms also boast a balcony, offering a private slice of Shkoder's skyline.
 

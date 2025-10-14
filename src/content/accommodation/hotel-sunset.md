@@ -1,5 +1,79 @@
----\ntitle: "Hotel Sunset"\ndescription: "Hotel Sunset emerges as a prime choice for travelers seeking comfort and convenience, with its prime location just 60 meters from Shëngjin Beach and a short stroll from Ylberi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458536077.jpg?k=5db78808b160d8e5c87ab76ad5f7e94f9e4d86244be6b158028a61d81a90cbd6&o=&hp=1"\nlanguage: en\nslug: hotel-sunset\naddress: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.80223609\n  lng: 19.60130129\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 27\nratings:\n  overall: 8.8\n  location: 8.9\n  cleanliness: 9\n  facilities: 8.3\n  value: 8.1\n  comfort: 8.5\n  staff: 8.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458536077.jpg?k=5db78808b160d8e5c87ab76ad5f7e94f9e4d86244be6b158028a61d81a90cbd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459016207.jpg?k=2f0f6f81fddc7c305f1b3c51f04616fc46fc1dab8ed2966b3149403a51858d2c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458544767.jpg?k=a2601dc69d02c881a956499b3b90620b612a44c0af4f1558ea6095d2c30698a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458532307.jpg?k=9da3110d8ff58c2939e5d3577ec981daeb6a1cf3ffb1db9e59c2e42f89575f36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458532207.jpg?k=05e229b7df64e0a63b243761db3fa297ad24f571fa70ff3f88e73beb381a543d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458544539.jpg?k=f368ad88c2bfcdb5c7eca48e1d0ffd7c34e4e930fca089f753cb9884ee4bca3d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Studio"\n  - "Standard Apartment"\nnearbyRestaurants:\n  - "Perla M&N 150 m"\n  - "Ara Shengjin 350 m"\nnearbyBeaches:\n  - "Shëngjin Beach 100 m"\n  - "Ylberi Beach 300 m"\n  - "Rana e Hedhun Beach 3.4 km"\n  - "Laguna Park Beach 3.7 km"\n  - "Kune Beach 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 67 km"\nreviews:\n  - name: "Fury"\n    country: "Germany"\n    text: "“The best vacation and & Hotel i've ever had.”"\n  - name: "Kirsi"\n    country: "Finland"\n    text: "“Close to the beach. Services next door. Very professional staff”"\n  - name: "Minir"\n    country: "Kosovo"\n    text: "“Staff was super friendly😊🤗
-Cleanliness was great Good ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ I recommend anyone who is a good hotel looking for his stay 😊😊”"\nbookingURL: "https://www.booking.com/hotel/al/sunset-shengjin1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel's accommodations are designed with guest comfort in mind, featuring air-conditioned rooms that open up to private balconies. Each room is equipped with a flat-screen TV and a private bathroom complete with a bidet, while the option to request additional towels and linens ensures a tailored stay. The presence of a wardrobe in all units adds a touch of home for the duration of your visit.
+---
+title: "Hotel Sunset"
+description: "Hotel Sunset emerges as a prime choice for travelers seeking comfort and convenience, with its prime location just 60 meters from Shëngjin Beach and a short stroll from Ylberi Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458536077.jpg?k=5db78808b160d8e5c87ab76ad5f7e94f9e4d86244be6b158028a61d81a90cbd6&o=&hp=1"
+language: en
+slug: hotel-sunset
+address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"
+city: "Shëngjin"
+location: "Shëngjin"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.80223609
+  lng: 19.60130129
+price: "US$46"
+priceFrom: 46
+starRating: 3
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 27
+ratings:
+  overall: 8.8
+  location: 8.9
+  cleanliness: 9
+  facilities: 8.3
+  value: 8.1
+  comfort: 8.5
+  staff: 8.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458536077.jpg?k=5db78808b160d8e5c87ab76ad5f7e94f9e4d86244be6b158028a61d81a90cbd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459016207.jpg?k=2f0f6f81fddc7c305f1b3c51f04616fc46fc1dab8ed2966b3149403a51858d2c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458544767.jpg?k=a2601dc69d02c881a956499b3b90620b612a44c0af4f1558ea6095d2c30698a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458532307.jpg?k=9da3110d8ff58c2939e5d3577ec981daeb6a1cf3ffb1db9e59c2e42f89575f36&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458532207.jpg?k=05e229b7df64e0a63b243761db3fa297ad24f571fa70ff3f88e73beb381a543d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458544539.jpg?k=f368ad88c2bfcdb5c7eca48e1d0ffd7c34e4e930fca089f753cb9884ee4bca3d&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Studio"
+  - "Standard Apartment"
+nearbyRestaurants:
+  - "Perla M&N 150 m"
+  - "Ara Shengjin 350 m"
+nearbyBeaches:
+  - "Shëngjin Beach 100 m"
+  - "Ylberi Beach 300 m"
+  - "Rana e Hedhun Beach 3.4 km"
+  - "Laguna Park Beach 3.7 km"
+  - "Kune Beach 3.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 43 km"
+  - "Podgorica Airport 67 km"
+reviews:
+  - name: "Fury"
+    country: "Germany"
+    text: "“The best vacation and & Hotel i've ever had.”"
+  - name: "Kirsi"
+    country: "Finland"
+    text: "“Close to the beach. Services next door. Very professional staff”"
+  - name: "Minir"
+    country: "Kosovo"
+    text: "“Staff was super friendly😊🤗
+Cleanliness was great Good ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ I recommend anyone who is a good hotel looking for his stay 😊😊”"
+bookingURL: "https://www.booking.com/hotel/al/sunset-shengjin1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel's accommodations are designed with guest comfort in mind, featuring air-conditioned rooms that open up to private balconies. Each room is equipped with a flat-screen TV and a private bathroom complete with a bidet, while the option to request additional towels and linens ensures a tailored stay. The presence of a wardrobe in all units adds a touch of home for the duration of your visit.
 
 Dining at Hotel Sunset is an experience in itself, with the family-friendly restaurant welcoming guests for dinner, lunch, and brunch. A focus on Mediterranean cuisine allows diners to explore the rich flavors of the region in a cozy setting.
 

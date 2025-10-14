@@ -1,3 +1,74 @@
----\ntitle: "Dea's Home"\ndescription: "Dea's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497653.jpg?k=0d209dc355f26c943a9944e31bd829dcc5538fc5fbe78e9dc44737818ce99ce7&o=&hp=1"\nlanguage: en\nslug: dea-s-home\naddress: "Rruga Vllazën Huta, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33140611\n  lng: 19.82927597\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497653.jpg?k=0d209dc355f26c943a9944e31bd829dcc5538fc5fbe78e9dc44737818ce99ce7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497652.jpg?k=1f798481321baf131a59399d63f8edc684178f783c3787dfc65753731d3d1631&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497639.jpg?k=fef149d8f3fe56698f5d825adf3fe07c47a6402aaa8aca66984d47ca9c7d8509&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497649.jpg?k=b8eeb4027aa96d6e163fc4222d85c5811f0d4f4985ccbbcae903f6b1f09aac80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497647.jpg?k=d6c064f2fb19bdb781ceb4df8581d1914811c719cd672621c91bbf980500916d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497644.jpg?k=dceb4acc8b100e312d85e50c51847c92648f1d50bc561d8f6a8f468c4ff108dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497643.jpg?k=64e2c662eca506422e2a1c0916eaaa694bcf3f308218c792cd20b855f26a7b31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497635.jpg?k=956e1ecd9ca48109b947ded2c22016d3363400f8ea55334b450adfecf996c4a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497638.jpg?k=2dcddeac2c215c6137a304930c3e954678d462faf3571a4ff434bc8cd758f2bf&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (29 Mbps)"\n  - "Family rooms"\nnearbyAttractions:\n  - "National Museum of History Albania 1 km"\n  - "Rinia Park 1.2 km"\n  - "House of Leaves 1.2 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.3 km"\nnearbyRestaurants:\n  - "Bar Kafe 9 m"\n  - "Birrari 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 450 m"\n  - "Tanners' Bridge 600 m"\n  - "Sheshi Sulejman Pasha 700 m"\n  - "Sheshi Jjosef Shtraus 700 m"\n  - "Amazing Nature 850 m"\n  - "Clock Tower Tirana 900 m"\n  - "National Gallery of Arts Tirana 900 m"\n  - "Skanderbeg Square 950 m"\n  - "Parku Europa 950 m"\n  - "Sheshi Skënderbej 1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/deas-home.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis spacious apartment is designed to cater to the needs of modern travelers, featuring two well-appointed bedrooms, a bathroom equipped with essential amenities, and a living area that includes a flat-screen TV with satellite channels for entertainment. The inclusion of bed linen, towels, a dining area, and a fully equipped kitchen ensures guests feel at home, while the balcony offers captivating city views, adding a touch of elegance to the stay. The added benefit of a private entrance underscores the accommodation's commitment to privacy and exclusivity.
+---
+title: "Dea's Home"
+description: "Dea's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497653.jpg?k=0d209dc355f26c943a9944e31bd829dcc5538fc5fbe78e9dc44737818ce99ce7&o=&hp=1"
+language: en
+slug: dea-s-home
+address: "Rruga Vllazën Huta, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33140611
+  lng: 19.82927597
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497653.jpg?k=0d209dc355f26c943a9944e31bd829dcc5538fc5fbe78e9dc44737818ce99ce7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497652.jpg?k=1f798481321baf131a59399d63f8edc684178f783c3787dfc65753731d3d1631&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497639.jpg?k=fef149d8f3fe56698f5d825adf3fe07c47a6402aaa8aca66984d47ca9c7d8509&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497649.jpg?k=b8eeb4027aa96d6e163fc4222d85c5811f0d4f4985ccbbcae903f6b1f09aac80&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497647.jpg?k=d6c064f2fb19bdb781ceb4df8581d1914811c719cd672621c91bbf980500916d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497644.jpg?k=dceb4acc8b100e312d85e50c51847c92648f1d50bc561d8f6a8f468c4ff108dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497643.jpg?k=64e2c662eca506422e2a1c0916eaaa694bcf3f308218c792cd20b855f26a7b31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497635.jpg?k=956e1ecd9ca48109b947ded2c22016d3363400f8ea55334b450adfecf996c4a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497638.jpg?k=2dcddeac2c215c6137a304930c3e954678d462faf3571a4ff434bc8cd758f2bf&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (29 Mbps)"
+  - "Family rooms"
+nearbyAttractions:
+  - "National Museum of History Albania 1 km"
+  - "Rinia Park 1.2 km"
+  - "House of Leaves 1.2 km"
+  - "Former Residence of Enver Hoxha 1.5 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 3.3 km"
+nearbyRestaurants:
+  - "Bar Kafe 9 m"
+  - "Birrari 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek ish ATSh 450 m"
+  - "Tanners' Bridge 600 m"
+  - "Sheshi Sulejman Pasha 700 m"
+  - "Sheshi Jjosef Shtraus 700 m"
+  - "Amazing Nature 850 m"
+  - "Clock Tower Tirana 900 m"
+  - "National Gallery of Arts Tirana 900 m"
+  - "Skanderbeg Square 950 m"
+  - "Parku Europa 950 m"
+  - "Sheshi Skënderbej 1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+bookingURL: "https://www.booking.com/hotel/al/deas-home.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This spacious apartment is designed to cater to the needs of modern travelers, featuring two well-appointed bedrooms, a bathroom equipped with essential amenities, and a living area that includes a flat-screen TV with satellite channels for entertainment. The inclusion of bed linen, towels, a dining area, and a fully equipped kitchen ensures guests feel at home, while the balcony offers captivating city views, adding a touch of elegance to the stay. The added benefit of a private entrance underscores the accommodation's commitment to privacy and exclusivity.
 
 Dea's Home is also strategically located near popular landmarks such as Tanners' Bridge, Toptani Shopping Centre, and the National Theatre of Opera and Ballet of Albania, making it an ideal base for those eager to immerse themselves in the local culture and entertainment. With Tirana International Mother Teresa Airport just 15 km away, guests enjoy easy access to and from this charming retreat. Complemented by the convenience of free WiFi available throughout the property, Dea's Home stands out as a top recommendation for those planning a visit to Tirana.

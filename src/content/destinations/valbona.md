@@ -5,7 +5,6 @@ region: Northern Albania
 featuredImage: /images/destinations/valbona.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en
@@ -13,9 +12,7 @@ slug: valbona
 highlights: []
 seo:
   metaTitle: "Discover %title% - Albania's Alpine Wonder %sep% %sitename%"
-  metaDescription: "Discover Valbona, Albania's alpine paradise. Hike stunning trails, explore traditional villages, and experience the untamed beauty of the Albanian Alps.
-
-"
+  metaDescription: "Discover Valbona, Albania's alpine paradise. Hike stunning trails, explore traditional villages, and experience the untamed beauty of the Albanian Alps."
 ---
 
 Why Visit Valbona

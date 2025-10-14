@@ -1,4 +1,84 @@
----\ntitle: "Univers Resort"\ndescription: "Univers Resort emerges as a distinguished destination for travelers seeking a blend of comfort and convenience in Elbasan."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361673347.jpg?k=486da6575475de6e7cee8dbc86d30eea64ec8f414a8b708ec8b803616d661251&o=&hp=1"\nlanguage: en\nslug: univers-resort\naddress: "L. Emin Matraxhiu, n/h/n, 0001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.11975146\n  lng: 20.09795308\nprice: "US$42"\npriceFrom: 42\nstarRating: 4\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 186\nratings:\n  overall: 7.8\n  location: 8.1\n  cleanliness: 8\n  facilities: 7.9\n  value: 8.3\n  comfort: 8.3\n  staff: 8.4\n  wifi: 5.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361673347.jpg?k=486da6575475de6e7cee8dbc86d30eea64ec8f414a8b708ec8b803616d661251&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88686316.jpg?k=cd74b2a0eaeef63021266c14c71f65ff6249763302b3075c48826133a2d6ff2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/58261834.jpg?k=94a5fc99c0f9aed85129ec6fb01ef2f0eda353518d9f413e4026d80a6679eb72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/121530224.jpg?k=ab60d27d1706e06ccd4d10fd7f8be9b7434d00bb0e143a89047d8a9af5a880ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242733290.jpg?k=9a86ee3699077008829e388049c671ffe05dbe6380117efb1815d050e86d7305&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242733333.jpg?k=5510d8c7d345aa421353830c319e63da0c7de93f89fa450c7dc9e8ea19d43dc1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Room service"\n  - "Airport shuttle"\n  - "Restaurant"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room with Garden View"\n  - "Single Room with Garden View"\n  - "Double Room with Balcony (2 Adults + 1 Child)"\n  - "Large Twin Room"\n  - "Basic Triple Room"\n  - "Classic Quadruple Room"\nnearbyRestaurants:\n  - "Taverna Attika 250 m"\n  - "Don Camillo 750 m"\nwhatsNearby:\n  - "Dajti Mountain National Park 19 km"\n  - "Parku I Bleteve Kokreve 19 km"\nairports:\n  - "Tirana International Airport Mother Teresa 44 km"\n  - "Ohrid Airport 54 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\nreviews:\n  - name: "David"\n    country: "Belgium"\n    text: "“Comfortable rooms, nice facilities, very committed staff. Calm environment. Long breakfast time (7-10am)”"\n  - name: "Elana"\n    country: "Greece"\n    text: "“Elegant decoration, clean rooms and friendly stuff.”"\n  - name: "Elisa"\n    country: "Finland"\n    text: "“Hotel was better than i thought. Good value for money.”"\nbookingURL: "https://www.booking.com/hotel/al/univers-elbasan1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at Univers Resort are treated to well-appointed accommodations, where each room is a haven of comfort. Air conditioning, ample wardrobe space, and a private balcony offering breathtaking mountain views ensure a stay that is both relaxing and invigorating. The inclusion of a private bathroom, a flat-screen TV, and complimentary bed linen and towels add to the convenience, while a seating area in every room provides a cozy nook for relaxation.
+---
+title: "Univers Resort"
+description: "Univers Resort emerges as a distinguished destination for travelers seeking a blend of comfort and convenience in Elbasan."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361673347.jpg?k=486da6575475de6e7cee8dbc86d30eea64ec8f414a8b708ec8b803616d661251&o=&hp=1"
+language: en
+slug: univers-resort
+address: "L. Emin Matraxhiu, n/h/n, 0001 Elbasan, Albania"
+city: "Elbasan"
+location: "Elbasan"
+accommodationType: "resort"
+coordinates:
+  lat: 41.11975146
+  lng: 20.09795308
+price: "US$42"
+priceFrom: 42
+starRating: 4
+rating: 7.8
+ratingWords: "Good"
+numberOfReviews: 186
+ratings:
+  overall: 7.8
+  location: 8.1
+  cleanliness: 8
+  facilities: 7.9
+  value: 8.3
+  comfort: 8.3
+  staff: 8.4
+  wifi: 5.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361673347.jpg?k=486da6575475de6e7cee8dbc86d30eea64ec8f414a8b708ec8b803616d661251&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/88686316.jpg?k=cd74b2a0eaeef63021266c14c71f65ff6249763302b3075c48826133a2d6ff2d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/58261834.jpg?k=94a5fc99c0f9aed85129ec6fb01ef2f0eda353518d9f413e4026d80a6679eb72&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/121530224.jpg?k=ab60d27d1706e06ccd4d10fd7f8be9b7434d00bb0e143a89047d8a9af5a880ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242733290.jpg?k=9a86ee3699077008829e388049c671ffe05dbe6380117efb1815d050e86d7305&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242733333.jpg?k=5510d8c7d345aa421353830c319e63da0c7de93f89fa450c7dc9e8ea19d43dc1&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Room service"
+  - "Airport shuttle"
+  - "Restaurant"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Good breakfast"
+roomTypes:
+  - "Double Room with Garden View"
+  - "Single Room with Garden View"
+  - "Double Room with Balcony (2 Adults + 1 Child)"
+  - "Large Twin Room"
+  - "Basic Triple Room"
+  - "Classic Quadruple Room"
+nearbyRestaurants:
+  - "Taverna Attika 250 m"
+  - "Don Camillo 750 m"
+whatsNearby:
+  - "Dajti Mountain National Park 19 km"
+  - "Parku I Bleteve Kokreve 19 km"
+airports:
+  - "Tirana International Airport Mother Teresa 44 km"
+  - "Ohrid Airport 54 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+reviews:
+  - name: "David"
+    country: "Belgium"
+    text: "“Comfortable rooms, nice facilities, very committed staff. Calm environment. Long breakfast time (7-10am)”"
+  - name: "Elana"
+    country: "Greece"
+    text: "“Elegant decoration, clean rooms and friendly stuff.”"
+  - name: "Elisa"
+    country: "Finland"
+    text: "“Hotel was better than i thought. Good value for money.”"
+bookingURL: "https://www.booking.com/hotel/al/univers-elbasan1.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests at Univers Resort are treated to well-appointed accommodations, where each room is a haven of comfort. Air conditioning, ample wardrobe space, and a private balcony offering breathtaking mountain views ensure a stay that is both relaxing and invigorating. The inclusion of a private bathroom, a flat-screen TV, and complimentary bed linen and towels add to the convenience, while a seating area in every room provides a cozy nook for relaxation.
 
 The hotel is committed to catering to the needs of all guests, including the younger ones, with a children's playground that promises fun and entertainment. The provision of a shared kitchen and room service underscores the resort's dedication to personalized guest experiences, while the 24-hour front desk, airport transfers, and a vibrant kids' club highlight the comprehensive range of services available.
 

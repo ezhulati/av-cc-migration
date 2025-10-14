@@ -1,5 +1,76 @@
----\ntitle: "Kleidi's home"\ndescription: "Kleidi's Home stands as a serene retreat in Vlorë, offering guests a unique blend of comfort and convenience with its garden-view accommodations."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401469.jpg?k=b0854fc8824b23216ae18ecdad5f8154e2a6e396eb576cae6de60c170144e3c7&o=&hp=1"\nlanguage: en\nslug: kleidi-s-home\naddress: "Orikum Dukat; Nd.110;H,1 Orikum Dukat; 9426Vlore, 9426 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.28198362\n  lng: 19.50019647\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401469.jpg?k=b0854fc8824b23216ae18ecdad5f8154e2a6e396eb576cae6de60c170144e3c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519020834.jpg?k=42539e560f57d27177734312b717d3e979fa61a60f880c67f675c9fd2fcf1a8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519020356.jpg?k=dbd89e14ba6f47e6d466ef6c72b3b5c1e79171e5548084c4a0fcfeb351149e16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483364571.jpg?k=fdbb82aa63401a5bb130681313b0430e8d3b0da32abc23ab3445039687cf7c23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483364572.jpg?k=938b39591dfe3eba1ef1a9034212779370d57e93fab62e0b7ec83ab1f9fcd31f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483364577.jpg?k=7ebe86e6bafb2b2abc14035b218000cbd71f991bb4b1ec8722df327763a1b8de&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401624.jpg?k=1cf72ee412cf81d7dd8879f493c83fc191cafd8a2dbd18c7c9e922292b3b60e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401541.jpg?k=34497e177c37b04c474435007353a00ae1eb1325f443ce767cc22aa6a1ff27d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519020657.jpg?k=a5de068e6151e68939c5adec95b1918bd21a7187fe31fd6dc8e1312255bee5bc&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Bar Piceri Cipa 3.7 km"\n  - "Mrizi i Pishave 4.3 km"\nnearbyBeaches:\n  - "Orikum Beach 6 km"\n  - "Nettuno Beach 7 km"\n  - "Baro Beach 7 km"\n  - "Al Breeze Beach 7 km"\n  - "Grama Bay Beach 8 km"\nwhatsNearby:\n  - "Llogora National Park 8 km"\n  - "Scooby Doo Vlore 17 km"\nairports:\n  - "Corfu International Airport 82 km"\nreviews:\n  - name: "Ionescu"\n    country: "Romania"\n    text: "“It is said that good people are disappearing, but I say that good people are a light for other people to be. We had the luck to meet a marvelous family with beautiful children that accommodate us in their precious space. The location is beautiful...”"\n  - name: "Tibor"\n    country: "Hungary"\n    text: "“Az apartman helyzete nagyon jó, közel a hegyek, közel a terger. Nagyon tiszta, modern a szállás. A tulajdonos nagyon kedves, vendégszerető! Mindenkinek ajánlom!”"\n  - name: "Eva"\n    country: "Spain"\n    text: "“Familia encantadora, muy atentos, nos dejaron poner lavadora y nos prestaron el jabón para ello. Nos dieron acompañamiento para la cena a pesar de no estar incluida.
-El alojamiento estaba perfecto todo nuevo y muy limpio en perfectas condiciones,...”"\nbookingURL: "https://www.booking.com/hotel/al/kleidis-home.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nGuests will find themselves in a thoughtfully appointed space, featuring a bedroom that serves as a peaceful haven, a fully equipped kitchenette for those inspired to cook, and a bathroom that caters to all the essentials. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that leisure moments are well spent.
+---
+title: "Kleidi's home"
+description: "Kleidi's Home stands as a serene retreat in Vlorë, offering guests a unique blend of comfort and convenience with its garden-view accommodations."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401469.jpg?k=b0854fc8824b23216ae18ecdad5f8154e2a6e396eb576cae6de60c170144e3c7&o=&hp=1"
+language: en
+slug: kleidi-s-home
+address: "Orikum Dukat; Nd.110;H,1 Orikum Dukat; 9426Vlore, 9426 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.28198362
+  lng: 19.50019647
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401469.jpg?k=b0854fc8824b23216ae18ecdad5f8154e2a6e396eb576cae6de60c170144e3c7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519020834.jpg?k=42539e560f57d27177734312b717d3e979fa61a60f880c67f675c9fd2fcf1a8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519020356.jpg?k=dbd89e14ba6f47e6d466ef6c72b3b5c1e79171e5548084c4a0fcfeb351149e16&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483364571.jpg?k=fdbb82aa63401a5bb130681313b0430e8d3b0da32abc23ab3445039687cf7c23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483364572.jpg?k=938b39591dfe3eba1ef1a9034212779370d57e93fab62e0b7ec83ab1f9fcd31f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483364577.jpg?k=7ebe86e6bafb2b2abc14035b218000cbd71f991bb4b1ec8722df327763a1b8de&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401624.jpg?k=1cf72ee412cf81d7dd8879f493c83fc191cafd8a2dbd18c7c9e922292b3b60e6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401541.jpg?k=34497e177c37b04c474435007353a00ae1eb1325f443ce767cc22aa6a1ff27d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519020657.jpg?k=a5de068e6151e68939c5adec95b1918bd21a7187fe31fd6dc8e1312255bee5bc&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Bar Piceri Cipa 3.7 km"
+  - "Mrizi i Pishave 4.3 km"
+nearbyBeaches:
+  - "Orikum Beach 6 km"
+  - "Nettuno Beach 7 km"
+  - "Baro Beach 7 km"
+  - "Al Breeze Beach 7 km"
+  - "Grama Bay Beach 8 km"
+whatsNearby:
+  - "Llogora National Park 8 km"
+  - "Scooby Doo Vlore 17 km"
+airports:
+  - "Corfu International Airport 82 km"
+reviews:
+  - name: "Ionescu"
+    country: "Romania"
+    text: "“It is said that good people are disappearing, but I say that good people are a light for other people to be. We had the luck to meet a marvelous family with beautiful children that accommodate us in their precious space. The location is beautiful...”"
+  - name: "Tibor"
+    country: "Hungary"
+    text: "“Az apartman helyzete nagyon jó, közel a hegyek, közel a terger. Nagyon tiszta, modern a szállás. A tulajdonos nagyon kedves, vendégszerető! Mindenkinek ajánlom!”"
+  - name: "Eva"
+    country: "Spain"
+    text: "“Familia encantadora, muy atentos, nos dejaron poner lavadora y nos prestaron el jabón para ello. Nos dieron acompañamiento para la cena a pesar de no estar incluida.
+El alojamiento estaba perfecto todo nuevo y muy limpio en perfectas condiciones,...”"
+bookingURL: "https://www.booking.com/hotel/al/kleidis-home.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+Guests will find themselves in a thoughtfully appointed space, featuring a bedroom that serves as a peaceful haven, a fully equipped kitchenette for those inspired to cook, and a bathroom that caters to all the essentials. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that leisure moments are well spent.
 
 Adding to the appeal is the provision of complimentary WiFi and private parking, making stays worry-free for those traveling by car. Despite its policy of being a non-smoking property, it does not compromise on ensuring a welcoming environment for all guests.
 

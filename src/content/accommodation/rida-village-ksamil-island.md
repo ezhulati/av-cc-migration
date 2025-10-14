@@ -1,5 +1,105 @@
----\ntitle: "Rida Village Ksamil Island"\ndescription: "Rida Village Ksamil Island emerges as a charming retreat for travelers seeking both serenity and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378414894.jpg?k=8cd60ea7c87f04298a77799b12b986032f782532ad995ec6c6599fb986bb3ea1&o=&hp=1"\nlanguage: en\nslug: rida-village-ksamil-island\naddress: "Ksamil, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76213188\n  lng: 19.99089807\nprice: "US$129"\npriceFrom: 129\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 137\nratings:\n  overall: 9.1\n  location: 9\n  cleanliness: 9.1\n  facilities: 8.5\n  value: 8.3\n  comfort: 9\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378414894.jpg?k=8cd60ea7c87f04298a77799b12b986032f782532ad995ec6c6599fb986bb3ea1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306106341.jpg?k=9b8bb27165c7aa5d1fc90f3cc7be2927be037080215db9a167212e43e00f42b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377311742.jpg?k=ea2be2c3d1bb206b9f4dcdfe5da4ccdb8949f646c4f435949e81af66eec1fd7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378415602.jpg?k=a5b1d19331a60a35130f641992e6d8f09178e3881568eb36349a29586a70292a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122222988.jpg?k=c635f7ad409fb9feed33fc964e5ffc8b39049d9a6916427ed8de91c1cd2429fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364468578.jpg?k=5c19463b99458e0017ccb2408f57fcc042204ab4f1e9452095801218921042f1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Double Room with Patio"\n  - "Double Room with Patio"\nnearbyAttractions:\n  - "Museum of Banknotes 16 km"\n  - "New Fortress 16 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 17 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 18 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "La Perla 400 m"\n  - "Olive Tarraca 400 m"\nnearbyBeaches:\n  - "Lori Beach 550 m"\n  - "Paradise Beach 550 m"\n  - "Puerto Rico Beach 550 m"\n  - "Ksamil Beach 9 800 m"\n  - "Bora Bora Beach 1.2 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 1.2 km"\n  - "Butrint National Park 3.6 km"\n  - "Plazhi I Krorezes 4.3 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 16 km"\n  - "Solomos Museum 16 km"\n  - "Public Garden 16 km"\n  - "Asian Art Museum 16 km"\n  - "Old Fortress 16 km"\nairports:\n  - "Corfu International Airport 18 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Fabio"\n    country: "Italy"\n    text: "“perfect peaceful location and beautiful setting while still being close to the centre”"\n  - name: "Emily"\n    country: "United Kingdom"\n    text: "“The staff were amazing and the food was spectacular. The rooms were comfy with aircon. Although you could still hear the town from the hotel, the rooms themselves were very quiet.”"\n  - name: "Ricardo"\n    country: "Portugal"\n    text: "“Very welcoming hosts. Nice place just outside Ksamil and because of that it was very quiet but just a five minute walk from the beach
-We had a great meal in the restaurant and the breakfasts were delicious.”"\nbookingURL: "https://www.booking.com/hotel/al/ridavillage.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Rida Village are thoughtfully designed with the guest's comfort in mind. Each room is equipped with essential amenities such as a desk, a flat-screen TV, and a private bathroom, complemented by fresh bed linen and towels. For those desiring a closer connection with nature, select units boast balconies or patios, offering breathtaking mountain views and outdoor dining options. The presence of air conditioning and ample wardrobe space in every unit ensures a stay marked by comfort and ease.
+---
+title: "Rida Village Ksamil Island"
+description: "Rida Village Ksamil Island emerges as a charming retreat for travelers seeking both serenity and convenience in the heart of Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378414894.jpg?k=8cd60ea7c87f04298a77799b12b986032f782532ad995ec6c6599fb986bb3ea1&o=&hp=1"
+language: en
+slug: rida-village-ksamil-island
+address: "Ksamil, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.76213188
+  lng: 19.99089807
+price: "US$129"
+priceFrom: 129
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 137
+ratings:
+  overall: 9.1
+  location: 9
+  cleanliness: 9.1
+  facilities: 8.5
+  value: 8.3
+  comfort: 9
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378414894.jpg?k=8cd60ea7c87f04298a77799b12b986032f782532ad995ec6c6599fb986bb3ea1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306106341.jpg?k=9b8bb27165c7aa5d1fc90f3cc7be2927be037080215db9a167212e43e00f42b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377311742.jpg?k=ea2be2c3d1bb206b9f4dcdfe5da4ccdb8949f646c4f435949e81af66eec1fd7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378415602.jpg?k=a5b1d19331a60a35130f641992e6d8f09178e3881568eb36349a29586a70292a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122222988.jpg?k=c635f7ad409fb9feed33fc964e5ffc8b39049d9a6916427ed8de91c1cd2429fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364468578.jpg?k=5c19463b99458e0017ccb2408f57fcc042204ab4f1e9452095801218921042f1&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+roomTypes:
+  - "Double Room with Patio"
+  - "Double Room with Patio"
+nearbyAttractions:
+  - "Museum of Banknotes 16 km"
+  - "New Fortress 16 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 17 km"
+  - "Archaeological Museum 17 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 18 km"
+  - "Mon Repos Palace 18 km"
+  - "Kapodistrias Museum 19 km"
+nearbyRestaurants:
+  - "La Perla 400 m"
+  - "Olive Tarraca 400 m"
+nearbyBeaches:
+  - "Lori Beach 550 m"
+  - "Paradise Beach 550 m"
+  - "Puerto Rico Beach 550 m"
+  - "Ksamil Beach 9 800 m"
+  - "Bora Bora Beach 1.2 km"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 1.2 km"
+  - "Butrint National Park 3.6 km"
+  - "Plazhi I Krorezes 4.3 km"
+  - "Parc National de Butrint 11 km"
+  - "Byzantine Museum 16 km"
+  - "Solomos Museum 16 km"
+  - "Public Garden 16 km"
+  - "Asian Art Museum 16 km"
+  - "Old Fortress 16 km"
+airports:
+  - "Corfu International Airport 18 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Fabio"
+    country: "Italy"
+    text: "“perfect peaceful location and beautiful setting while still being close to the centre”"
+  - name: "Emily"
+    country: "United Kingdom"
+    text: "“The staff were amazing and the food was spectacular. The rooms were comfy with aircon. Although you could still hear the town from the hotel, the rooms themselves were very quiet.”"
+  - name: "Ricardo"
+    country: "Portugal"
+    text: "“Very welcoming hosts. Nice place just outside Ksamil and because of that it was very quiet but just a five minute walk from the beach
+We had a great meal in the restaurant and the breakfasts were delicious.”"
+bookingURL: "https://www.booking.com/hotel/al/ridavillage.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Rida Village are thoughtfully designed with the guest's comfort in mind. Each room is equipped with essential amenities such as a desk, a flat-screen TV, and a private bathroom, complemented by fresh bed linen and towels. For those desiring a closer connection with nature, select units boast balconies or patios, offering breathtaking mountain views and outdoor dining options. The presence of air conditioning and ample wardrobe space in every unit ensures a stay marked by comfort and ease.
 
 The property doesn't just stop at comfortable rooms. An on-site restaurant caters to culinary desires, while the availability of a bar adds a touch of leisure to the stay. For moments of tranquility, guests are invited to unwind in the picturesque garden or enjoy the serene picnic area, perfect for those leisurely afternoons.
 

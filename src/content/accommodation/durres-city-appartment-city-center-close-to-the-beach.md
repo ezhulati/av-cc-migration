@@ -1,8 +1,88 @@
----\ntitle: "Durres City Appartment, City center & close to the beach"\ndescription: "Durres City Apartment stands out as a prime choice for travelers seeking the perfect blend of urban convenience and beachside bliss."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455041663.jpg?k=d4c6bb6999d3a5550a98ffb675f38d42e96fd1be4616a047544336c1780480d6&o=&hp=1"\nlanguage: en\nslug: durres-city-appartment-city-center-close-to-the-beach\naddress: "Rruga Taulantia, pallati 27 katesh 14-th floor, Apartment 53, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31016726\n  lng: 19.44361553\nprice: "US$86"\npriceFrom: 86\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 19\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 9.9\n  value: 9.9\n  comfort: 10\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455041663.jpg?k=d4c6bb6999d3a5550a98ffb675f38d42e96fd1be4616a047544336c1780480d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480123057.jpg?k=fc86ab01091f22bed53256c71e107d5dc2aa0d492f6eb7145e62f340fcaf89a2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469591930.jpg?k=c1b475b35110ecb698cba41142c3087afc87ca498f5b37be64c243185b32a95b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469591921.jpg?k=96a347db4a432c27a9a396a435034ffccde321291d33f5253c1a6ecd8ec892df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470210356.jpg?k=40961dda23596f05b440379d938cd488143ac94476aea77f53673487ffd32af7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456425380.jpg?k=aa561064bea77c2f326dc78ccd5b50cb043d579cfffa20d901ef030a329dff95&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480123034.jpg?k=d502ef356945f224c5478672bfd42a385528eb00bf48af93b538d937c5049080&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469591933.jpg?k=ae33acdb813fde92c47fb16f9e62ae268563445c6b5d93ff55610f2ebbfde3c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455041884.jpg?k=fc63305c3f74ab5e4d6e40997d373948baf31d5342ba8c01a2c240c70b739df4&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Cinnabon Durres 50 m"\n  - "Caffe del Mar 100 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.3 km"\n  - "Durres Beach 2.1 km"\n  - "West End Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 200 m"\n  - "Durres Amphiteatre 250 m"\n  - "Yje Dhe Hena 750 m"\n  - "Wine Dhe Pooh 750 m"\n  - "Sheshi Demokracia 900 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Dardan"\n    country: "Albania"\n    text: "“The apartment is clean, cosy, very spacious with an amazing view. The host was very polite and friendly, allowed us to checkout later. Would totally recommend!”"\n  - name: "Dominika"\n    country: "Netherlands"\n    text: "“There was a nice view of the city at night.
+---
+title: "Durres City Appartment, City center & close to the beach"
+description: "Durres City Apartment stands out as a prime choice for travelers seeking the perfect blend of urban convenience and beachside bliss."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455041663.jpg?k=d4c6bb6999d3a5550a98ffb675f38d42e96fd1be4616a047544336c1780480d6&o=&hp=1"
+language: en
+slug: durres-city-appartment-city-center-close-to-the-beach
+address: "Rruga Taulantia, pallati 27 katesh 14-th floor, Apartment 53, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31016726
+  lng: 19.44361553
+price: "US$86"
+priceFrom: 86
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 19
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 9.9
+  value: 9.9
+  comfort: 10
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455041663.jpg?k=d4c6bb6999d3a5550a98ffb675f38d42e96fd1be4616a047544336c1780480d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480123057.jpg?k=fc86ab01091f22bed53256c71e107d5dc2aa0d492f6eb7145e62f340fcaf89a2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469591930.jpg?k=c1b475b35110ecb698cba41142c3087afc87ca498f5b37be64c243185b32a95b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469591921.jpg?k=96a347db4a432c27a9a396a435034ffccde321291d33f5253c1a6ecd8ec892df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470210356.jpg?k=40961dda23596f05b440379d938cd488143ac94476aea77f53673487ffd32af7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456425380.jpg?k=aa561064bea77c2f326dc78ccd5b50cb043d579cfffa20d901ef030a329dff95&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480123034.jpg?k=d502ef356945f224c5478672bfd42a385528eb00bf48af93b538d937c5049080&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469591933.jpg?k=ae33acdb813fde92c47fb16f9e62ae268563445c6b5d93ff55610f2ebbfde3c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455041884.jpg?k=fc63305c3f74ab5e4d6e40997d373948baf31d5342ba8c01a2c240c70b739df4&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Cinnabon Durres 50 m"
+  - "Caffe del Mar 100 m"
+nearbyBeaches:
+  - "Currila Beach 50 m"
+  - "Kallmi Beach 1.3 km"
+  - "Durres Beach 2.1 km"
+  - "West End Beach 2.4 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "1. Maj 200 m"
+  - "Durres Amphiteatre 250 m"
+  - "Yje Dhe Hena 750 m"
+  - "Wine Dhe Pooh 750 m"
+  - "Sheshi Demokracia 900 m"
+  - "Sotir Noka 1.2 km"
+  - "Bekimi 3.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+reviews:
+  - name: "Dardan"
+    country: "Albania"
+    text: "“The apartment is clean, cosy, very spacious with an amazing view. The host was very polite and friendly, allowed us to checkout later. Would totally recommend!”"
+  - name: "Dominika"
+    country: "Netherlands"
+    text: "“There was a nice view of the city at night.
 If you lean out you will also see water
 It was clean.
 It is worth mentioning that the apartment has a very nice and helpful owner.
-We had a great rest.”"\n  - name: "Emma"\n    country: "United Kingdom"\n    text: "“Beautiful, modern, clean, comfortable apartment right on the sea front of Durres. The host was excellent and went above and beyond.”"\nbookingURL: "https://www.booking.com/hotel/al/durres-city-appartment-city-center-amp-close-to-the-beach.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to modern comfort and convenience, boasting a spacious layout that includes a balcony offering picturesque mountain views. Guests will find themselves at home in a well-appointed space featuring a bedroom, a cozy living room, a flat-screen TV for entertainment, and a fully equipped kitchen complete with a dishwasher and an oven. The inclusion of a walk-in shower in the bathroom adds a touch of luxury to the overall experience. It's important to note that the accommodation maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
+We had a great rest.”"
+  - name: "Emma"
+    country: "United Kingdom"
+    text: "“Beautiful, modern, clean, comfortable apartment right on the sea front of Durres. The host was excellent and went above and beyond.”"
+bookingURL: "https://www.booking.com/hotel/al/durres-city-appartment-city-center-amp-close-to-the-beach.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to modern comfort and convenience, boasting a spacious layout that includes a balcony offering picturesque mountain views. Guests will find themselves at home in a well-appointed space featuring a bedroom, a cozy living room, a flat-screen TV for entertainment, and a fully equipped kitchen complete with a dishwasher and an oven. The inclusion of a walk-in shower in the bathroom adds a touch of luxury to the overall experience. It's important to note that the accommodation maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.
 
 For those concerned about amenities, Durres City Apartment does not disappoint. The property is equipped with an elevator and an ATM, ensuring that guests' needs are met with ease. Complimentary WiFi is available throughout, keeping visitors connected during their stay. Additionally, the convenience of airport transfers and the availability of a car rental service cater to the needs of travelers looking for seamless transportation options.
 

@@ -1,4 +1,90 @@
----\ntitle: "Panoramic Apartment Amelia"\ndescription: "Panoramic Apartment Amelia emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."\nfeaturedImage: "https://graph.facebook.com/v2.9/10208112010461552/picture?type=square&height=64&width=64"\nlanguage: en\nslug: panoramic-apartment-amelia\naddress: "Rruga Qazim Demi 2, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87416315\n  lng: 20.01299282\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 17\nratings:\n  overall: 8.3\n  location: 9.1\n  cleanliness: 8.4\n  facilities: 7.8\n  value: 7.8\n  comfort: 8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/10208112010461552/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://lh3.googleusercontent.com/a/AATXAJz_8wYx5JS0pWN0Z2MYxi1RX_BlqPQccrXZz52N=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/md/4da604f5774c6c7d1f1fe18cbd58886071f53416.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359659740.jpg?k=c2008669cd204de323eef8d627b4cc9285dbe53a5e96950762d476f36948ac5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491614689.jpg?k=5b0fba7781e36bfb2f21ee90ea35114cbf285d60f9f7d94746d46570bfbd0a0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/491615099.jpg?k=1f56e8105fd69a0823469838ddce813e782b4b469768f0e011f047c17aedec68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491615781.jpg?k=80b5c80d7f2f00980004ae26fc4fb3b836f6715c4acf9fc07120681d4478a60d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491615568.jpg?k=ebed298a682bb0522b23e8f67366d4706e256c3238755d9befa773509573a9d4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491614633.jpg?k=46ec4260a3a62a55a7cc84730712a0cfe6459c5556fd2cb9452b8ef4329be531&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/491615231.jpg?k=3861e4102a812fa6e116b38cda8f682f01c3b1b794163bdc24b2cca0e8b189db&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Haxhi 100 m"\n  - "Centrali 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 650 m"\n  - "Maestral Beach 800 m"\n  - "Sarande Main Beach 1 km"\n  - "VIP Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2 km"\n  - "Butrint National Park 2.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Filomena"\n    country: "Italy"\n    text: "“Ottima posizione, vista meravigliosa , casa molto spaziosa, secondo piano con ascensore.”"\n  - name: "Agnese"\n    country: "Italy"\n    text: "“L'appartamento molto grande con doppi servizi e un bel panorama”"\n  - name: "Valentina"\n    country: "Italy"\n    text: "“Appartamento comodo, molto grande e con panorama mozzafiato! I proprietari di casa disponibili, pronti ad aiutare in ogni modo e soprattutto cordiali! Sicuramente, quando torneremo a Saranda, li ricontatteremo.”"\nbookingURL: "https://www.booking.com/hotel/al/panoramic-amelia-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Panoramic Views"\nbestCategories: "Panoramic Views"\ncategory: "Panoramic Views"\n---\n\nInside, the apartment unfolds into a spacious retreat featuring two bedrooms, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen boasting an oven and microwave. The presence of two bathrooms, each with a shower, ensures privacy and comfort for all guests. Adding to the convenience, towels and bed linen are readily provided, ensuring a seamless stay.
+---
+title: "Panoramic Apartment Amelia"
+description: "Panoramic Apartment Amelia emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
+featuredImage: "https://graph.facebook.com/v2.9/10208112010461552/picture?type=square&height=64&width=64"
+language: en
+slug: panoramic-apartment-amelia
+address: "Rruga Qazim Demi 2, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87416315
+  lng: 20.01299282
+price: "US$58"
+priceFrom: 58
+starRating: 3
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 17
+ratings:
+  overall: 8.3
+  location: 9.1
+  cleanliness: 8.4
+  facilities: 7.8
+  value: 7.8
+  comfort: 8
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://graph.facebook.com/v2.9/10208112010461552/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://lh3.googleusercontent.com/a/AATXAJz_8wYx5JS0pWN0Z2MYxi1RX_BlqPQccrXZz52N=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/md/4da604f5774c6c7d1f1fe18cbd58886071f53416.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359659740.jpg?k=c2008669cd204de323eef8d627b4cc9285dbe53a5e96950762d476f36948ac5d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/491614689.jpg?k=5b0fba7781e36bfb2f21ee90ea35114cbf285d60f9f7d94746d46570bfbd0a0d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/491615099.jpg?k=1f56e8105fd69a0823469838ddce813e782b4b469768f0e011f047c17aedec68&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/491615781.jpg?k=80b5c80d7f2f00980004ae26fc4fb3b836f6715c4acf9fc07120681d4478a60d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/491615568.jpg?k=ebed298a682bb0522b23e8f67366d4706e256c3238755d9befa773509573a9d4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/491614633.jpg?k=46ec4260a3a62a55a7cc84730712a0cfe6459c5556fd2cb9452b8ef4329be531&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/491615231.jpg?k=3861e4102a812fa6e116b38cda8f682f01c3b1b794163bdc24b2cca0e8b189db&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Free parking"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "Apartment with Sea View"
+nearbyRestaurants:
+  - "Haxhi 100 m"
+  - "Centrali 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 100 m"
+  - "La Petite Beach 650 m"
+  - "Maestral Beach 800 m"
+  - "Sarande Main Beach 1 km"
+  - "VIP Beach 1.8 km"
+whatsNearby:
+  - "Parc National de Butrint 2 km"
+  - "Butrint National Park 2.9 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Filomena"
+    country: "Italy"
+    text: "“Ottima posizione, vista meravigliosa , casa molto spaziosa, secondo piano con ascensore.”"
+  - name: "Agnese"
+    country: "Italy"
+    text: "“L'appartamento molto grande con doppi servizi e un bel panorama”"
+  - name: "Valentina"
+    country: "Italy"
+    text: "“Appartamento comodo, molto grande e con panorama mozzafiato! I proprietari di casa disponibili, pronti ad aiutare in ogni modo e soprattutto cordiali! Sicuramente, quando torneremo a Saranda, li ricontatteremo.”"
+bookingURL: "https://www.booking.com/hotel/al/panoramic-amelia-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Panoramic Views"
+bestCategories: "Panoramic Views"
+category: "Panoramic Views"
+---
+
+Inside, the apartment unfolds into a spacious retreat featuring two bedrooms, a cozy living room equipped with a flat-screen TV, and a fully equipped kitchen boasting an oven and microwave. The presence of two bathrooms, each with a shower, ensures privacy and comfort for all guests. Adding to the convenience, towels and bed linen are readily provided, ensuring a seamless stay.
 
 For those who enjoy dining under the open sky, the property boasts an inviting outdoor dining area. Additionally, an on-site bar offers a spot for guests to unwind after a day of exploration.
 

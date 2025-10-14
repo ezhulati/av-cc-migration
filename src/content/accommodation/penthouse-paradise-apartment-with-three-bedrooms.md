@@ -1,4 +1,76 @@
----\ntitle: "Penthouse- Paradise Apartment With Three Bedrooms"\ndescription: "Discover unparalleled hospitality at Penthouse- Paradise Apartment With Three Bedrooms, a premier destination for travelers seeking a blend of comfort and adventure in Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90371966.jpg?k=423aef76ca96c6cf20b132289a3f15329be6cb51822fee854b58281879e70828&o=&hp=1"\nlanguage: en\nslug: penthouse-paradise-apartment-with-three-bedrooms\naddress: "Teky Haderi Eighth floor, atic apartment, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87099284\n  lng: 20.01524935\nprice: "US$35"\npriceFrom: 35\nstarRating: 5\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 2\nratings:\n  overall: 9.2\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 7.5\n  comfort: 8.8\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90371966.jpg?k=423aef76ca96c6cf20b132289a3f15329be6cb51822fee854b58281879e70828&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588035.jpg?k=3b76a53b8b4d930c3259a14c64708495fe72dbe33848329c04604489607621e9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588269.jpg?k=367670167020769ddfeba3fc61e0f8d62be2978f8c9a80e65f631196356af405&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420587893.jpg?k=cb36aaa1cd4b6f406e7438ddabf9b55d7a61820e71234fcb386f7b625b5c5616&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588426.jpg?k=a37431b59d25b630f64d02253e713541d4ee04164cbaa1a8f46f58932ea01d41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588208.jpg?k=53d0b477560aec370055122a37e74c807a3240a2bdcc5ebff04f8fb6e185d10d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588114.jpg?k=95050a321593981eec997678e638ed2c6a05b636fc81b374f368794647e4c662&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588333.jpg?k=a0d58e916050ad51d689d8f44679f4780d06c6b1bf62373e7a1b76b6113f83b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420587900.jpg?k=933e98bbb6a7dbbe680f3455c0ae235c2ff092fcf308aedb426b12a455cedab3&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Terrace"\nnearbyRestaurants:\n  - "Epirus 50 m"\n  - "Sweet Liberty 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 150 m"\n  - "La Petite Beach 300 m"\n  - "Maestral Beach 450 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.6 km"\n  - "Butrint National Park 2.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Lucia"\n    country: "Italy"\n    text: "“La struttura è bellissima, vista favolosa, attico con vista mare si vede tutta saranda, posizione eccellente al centro di saranda si possono raggiungere tutte le spiagge a piedi, stanze molto grandi e pulite”"\nbookingURL: "https://www.booking.com/hotel/al/luxury-saranda-albania-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe Penthouse- Paradise Apartment With Three Bedrooms stands out with its generously sized living space, encompassing three well-appointed bedrooms, two modern bathrooms, and an array of amenities designed to cater to every need. Guests will appreciate the thoughtful inclusion of bed linen, towels, a flat-screen TV with satellite channels, and a fully equipped kitchen. The dining area opens up to a terrace, where one can soak in the majestic sea views. Comfort is paramount, with air conditioning throughout and additional luxuries such as a dressing room and a cozy fireplace.
+---
+title: "Penthouse- Paradise Apartment With Three Bedrooms"
+description: "Discover unparalleled hospitality at Penthouse- Paradise Apartment With Three Bedrooms, a premier destination for travelers seeking a blend of comfort and adventure in Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90371966.jpg?k=423aef76ca96c6cf20b132289a3f15329be6cb51822fee854b58281879e70828&o=&hp=1"
+language: en
+slug: penthouse-paradise-apartment-with-three-bedrooms
+address: "Teky Haderi Eighth floor, atic apartment, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87099284
+  lng: 20.01524935
+price: "US$35"
+priceFrom: 35
+starRating: 5
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 2
+ratings:
+  overall: 9.2
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 7.5
+  comfort: 8.8
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90371966.jpg?k=423aef76ca96c6cf20b132289a3f15329be6cb51822fee854b58281879e70828&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588035.jpg?k=3b76a53b8b4d930c3259a14c64708495fe72dbe33848329c04604489607621e9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588269.jpg?k=367670167020769ddfeba3fc61e0f8d62be2978f8c9a80e65f631196356af405&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420587893.jpg?k=cb36aaa1cd4b6f406e7438ddabf9b55d7a61820e71234fcb386f7b625b5c5616&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588426.jpg?k=a37431b59d25b630f64d02253e713541d4ee04164cbaa1a8f46f58932ea01d41&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588208.jpg?k=53d0b477560aec370055122a37e74c807a3240a2bdcc5ebff04f8fb6e185d10d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588114.jpg?k=95050a321593981eec997678e638ed2c6a05b636fc81b374f368794647e4c662&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420588333.jpg?k=a0d58e916050ad51d689d8f44679f4780d06c6b1bf62373e7a1b76b6113f83b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420587900.jpg?k=933e98bbb6a7dbbe680f3455c0ae235c2ff092fcf308aedb426b12a455cedab3&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Terrace"
+nearbyRestaurants:
+  - "Epirus 50 m"
+  - "Sweet Liberty 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 150 m"
+  - "La Petite Beach 300 m"
+  - "Maestral Beach 450 m"
+  - "Sarande Main Beach 1.1 km"
+  - "VIP Beach 1.4 km"
+whatsNearby:
+  - "Parc National de Butrint 1.6 km"
+  - "Butrint National Park 2.5 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Lucia"
+    country: "Italy"
+    text: "“La struttura è bellissima, vista favolosa, attico con vista mare si vede tutta saranda, posizione eccellente al centro di saranda si possono raggiungere tutte le spiagge a piedi, stanze molto grandi e pulite”"
+bookingURL: "https://www.booking.com/hotel/al/luxury-saranda-albania-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The Penthouse- Paradise Apartment With Three Bedrooms stands out with its generously sized living space, encompassing three well-appointed bedrooms, two modern bathrooms, and an array of amenities designed to cater to every need. Guests will appreciate the thoughtful inclusion of bed linen, towels, a flat-screen TV with satellite channels, and a fully equipped kitchen. The dining area opens up to a terrace, where one can soak in the majestic sea views. Comfort is paramount, with air conditioning throughout and additional luxuries such as a dressing room and a cozy fireplace.
 
 Outdoor living is elevated with a patio featuring barbecue facilities and an outdoor dining area, perfect for al fresco meals. The property also boasts a shared lounge and an outdoor fireplace, creating an ideal setting for relaxation.
 

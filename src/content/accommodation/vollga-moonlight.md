@@ -1,4 +1,75 @@
----\ntitle: "Vollga Moonlight"\ndescription: "Vollga Moonlight emerges as a premier destination for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the pristine Currila Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970078.jpg?k=8a27661313079cce3187fa38c3d89947d5b2d4692e3a27f35ecf1a8a727017c1&o=&hp=1"\nlanguage: en\nslug: vollga-moonlight\naddress: "1 Rruga Taulantia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31084583\n  lng: 19.43961142\nprice: "US$69"\npriceFrom: 69\nstarRating: 4\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970078.jpg?k=8a27661313079cce3187fa38c3d89947d5b2d4692e3a27f35ecf1a8a727017c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970162.jpg?k=07b28c090b7f46369b657a65ab88a5dd822bc4d963d3b15748a82568c2a0ea85&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970089.jpg?k=197838c63d176ff13e05c6251347b9c0b4a6e01625efa9d7906e5a372266a7d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970140.jpg?k=bdf9b0579fb2b53aeda5f9e6bddcedf22a96ae5f1cc44f31f07c5a7a6eb99e2a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970148.jpg?k=b91c6ee9e5fef9fd8414dcfc8c99480cc8601b216a91fb41fa0efa4c899d45e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970128.jpg?k=59293363d27348b65ff2228daa2a42c644e2f18ec257b7069f85899f385044f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970094.jpg?k=15fcb3d32fc0570fb95baf05807b2046dc607ef9abb7db691d7e890e2f696195&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970145.jpg?k=821db6f84d7fe1a9a4e1f9cadbff9dbdbcd38aeec49762c8fe29c95773943aab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497287893.jpg?k=e9ae378df1ede9f82de41aa15c2e6e00e32f4026472beb0cfe53e4fad3969ee9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Gelateria Cela 30 m"\n  - "Palma 50 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1 km"\n  - "West End Beach 2.1 km"\n  - "Durres Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 300 m"\n  - "Durres Amphiteatre 500 m"\n  - "Yje Dhe Hena 900 m"\n  - "Wine Dhe Pooh 950 m"\n  - "Sheshi Demokracia 1 km"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nbookingURL: "https://www.booking.com/hotel/al/vollga-moonlight.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property prides itself on offering a spacious apartment that is a testament to modern living, equipped with a flat-screen TV and a kitchen that leaves nothing to be desired. With amenities ranging from a dishwasher to a washing machine, alongside essential kitchen gadgets like a toaster and a fridge, guests are guaranteed a stay that marries convenience with luxury. The provision of towels and bed linen further adds to the comfort, ensuring a hassle-free experience.
+---
+title: "Vollga Moonlight"
+description: "Vollga Moonlight emerges as a premier destination for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the pristine Currila Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970078.jpg?k=8a27661313079cce3187fa38c3d89947d5b2d4692e3a27f35ecf1a8a727017c1&o=&hp=1"
+language: en
+slug: vollga-moonlight
+address: "1 Rruga Taulantia, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31084583
+  lng: 19.43961142
+price: "US$69"
+priceFrom: 69
+starRating: 4
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970078.jpg?k=8a27661313079cce3187fa38c3d89947d5b2d4692e3a27f35ecf1a8a727017c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970162.jpg?k=07b28c090b7f46369b657a65ab88a5dd822bc4d963d3b15748a82568c2a0ea85&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970089.jpg?k=197838c63d176ff13e05c6251347b9c0b4a6e01625efa9d7906e5a372266a7d7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970140.jpg?k=bdf9b0579fb2b53aeda5f9e6bddcedf22a96ae5f1cc44f31f07c5a7a6eb99e2a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970148.jpg?k=b91c6ee9e5fef9fd8414dcfc8c99480cc8601b216a91fb41fa0efa4c899d45e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970128.jpg?k=59293363d27348b65ff2228daa2a42c644e2f18ec257b7069f85899f385044f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970094.jpg?k=15fcb3d32fc0570fb95baf05807b2046dc607ef9abb7db691d7e890e2f696195&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970145.jpg?k=821db6f84d7fe1a9a4e1f9cadbff9dbdbcd38aeec49762c8fe29c95773943aab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497287893.jpg?k=e9ae378df1ede9f82de41aa15c2e6e00e32f4026472beb0cfe53e4fad3969ee9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Gelateria Cela 30 m"
+  - "Palma 50 m"
+nearbyBeaches:
+  - "Currila Beach 50 m"
+  - "Kallmi Beach 1 km"
+  - "West End Beach 2.1 km"
+  - "Durres Beach 2.4 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "1. Maj 300 m"
+  - "Durres Amphiteatre 500 m"
+  - "Yje Dhe Hena 900 m"
+  - "Wine Dhe Pooh 950 m"
+  - "Sheshi Demokracia 1 km"
+  - "Sotir Noka 1.2 km"
+  - "Bekimi 3.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+bookingURL: "https://www.booking.com/hotel/al/vollga-moonlight.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property prides itself on offering a spacious apartment that is a testament to modern living, equipped with a flat-screen TV and a kitchen that leaves nothing to be desired. With amenities ranging from a dishwasher to a washing machine, alongside essential kitchen gadgets like a toaster and a fridge, guests are guaranteed a stay that marries convenience with luxury. The provision of towels and bed linen further adds to the comfort, ensuring a hassle-free experience.
 
 Privacy and security are paramount at Vollga Moonlight, with the apartment boasting a private entrance and round-the-clock security, ensuring peace of mind for all guests. The addition of a minimarket within the apartment complex is a thoughtful touch, catering to the everyday needs of the guests.
 

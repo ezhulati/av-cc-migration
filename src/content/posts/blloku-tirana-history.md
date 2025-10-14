@@ -14,7 +14,6 @@ seo:
   robots: "index"
   metaTitle: "Blloku - Tirana's Journey from Dictatorship to Vibrant Life"
   metaDescription: "Discover the captivating history of Blloku, Tirana's neighborhood that transformed from a dictator's enclave to a trendy hotspot filled with life and energy."
-  robots: "index"
 ---
 
 Once a mysterious and forbidden zone during the communist era, [Blloku](https://albaniavisit.com/attractions/blloku/) has undergone a remarkable transformation.

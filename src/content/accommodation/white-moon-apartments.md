@@ -1,4 +1,67 @@
----\ntitle: "White Moon Apartments"\ndescription: "Discover the charm of White Moon Apartments, a prime choice for travelers seeking comfort and convenience in Mullini i Danit."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474226899.jpg?k=0afe5648b1d9a92612132618ebe5b3807c9cf075574d4fe272574d07c6d06cf4&o=&hp=1"\nlanguage: en\nslug: white-moon-apartments\naddress: "San Pietro Resort, Gjiri i Lalzit, 2015 Mullini i Danit, Albania"\ncity: "Mullini"\nlocation: "Mullini"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.51292199\n  lng: 19.52015997\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.5\n  location: 7.5\n  cleanliness: 10\n  facilities: 10\n  value: 7.5\n  comfort: 7.5\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474226899.jpg?k=0afe5648b1d9a92612132618ebe5b3807c9cf075574d4fe272574d07c6d06cf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187708.jpg?k=39a6201d7b6c304ebce4e98afe3664c6dd37a45dddc8d5b71f7a3f7de913ffa0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178703.jpg?k=a77fda9274565e0c312b8428234a9d46cd0de9f68d573d428cf4f0b9d11ad948&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187704.jpg?k=a75e5a80e717cd44a53010c1c010ebfc220dcd9adaf14819b4ee250d545085c8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187644.jpg?k=5507dafd6355ccb65bd89c65a8d5e5a1ef31ead4a25fd6203b2c36f2a10fd27f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178676.jpg?k=330ff311fef96af42aaefc29c92415f2697ebc4ffdd0c6ca36cc73eb333a27ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187701.jpg?k=d881707236b000818086fb3821df961a624f4fe6a844788218ec2d8421d2eefe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178720.jpg?k=f550f5d85ca2219d8a0af6351a74da0d562530bccfa94c985829a82046317b5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178716.jpg?k=2191a71cedd8e44482137f475bed763385e0d59000dde28eedcd8e14d2442d5d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Bar Restorant Toni 350 m"\n  - "Coco Mangos 450 m"\nnearbyBeaches:\n  - "Lalëz Bay Beach 400 m"\n  - "Rodoni Beach 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 19 km"\n  - "Podgorica Airport 95 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/white-moon-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests at White Moon Apartments are treated to an array of amenities designed to make their stay as comfortable as possible. Each apartment is a haven of relaxation, featuring air conditioning for those warm summer days, a cozy seating area perfect for unwinding, and a flat-screen TV equipped with streaming services for entertainment at any time. The convenience of a kitchenette, complete with a dishwasher, oven, microwave, coffee machine, and kettle, allows guests the freedom to prepare meals and beverages as they please. Additionally, the inclusion of a dining area ensures that meals can be enjoyed in a comfortable setting.
+---
+title: "White Moon Apartments"
+description: "Discover the charm of White Moon Apartments, a prime choice for travelers seeking comfort and convenience in Mullini i Danit."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474226899.jpg?k=0afe5648b1d9a92612132618ebe5b3807c9cf075574d4fe272574d07c6d06cf4&o=&hp=1"
+language: en
+slug: white-moon-apartments
+address: "San Pietro Resort, Gjiri i Lalzit, 2015 Mullini i Danit, Albania"
+city: "Mullini"
+location: "Mullini"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.51292199
+  lng: 19.52015997
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 1
+ratings:
+  overall: 8.5
+  location: 7.5
+  cleanliness: 10
+  facilities: 10
+  value: 7.5
+  comfort: 7.5
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474226899.jpg?k=0afe5648b1d9a92612132618ebe5b3807c9cf075574d4fe272574d07c6d06cf4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187708.jpg?k=39a6201d7b6c304ebce4e98afe3664c6dd37a45dddc8d5b71f7a3f7de913ffa0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178703.jpg?k=a77fda9274565e0c312b8428234a9d46cd0de9f68d573d428cf4f0b9d11ad948&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187704.jpg?k=a75e5a80e717cd44a53010c1c010ebfc220dcd9adaf14819b4ee250d545085c8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187644.jpg?k=5507dafd6355ccb65bd89c65a8d5e5a1ef31ead4a25fd6203b2c36f2a10fd27f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178676.jpg?k=330ff311fef96af42aaefc29c92415f2697ebc4ffdd0c6ca36cc73eb333a27ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528187701.jpg?k=d881707236b000818086fb3821df961a624f4fe6a844788218ec2d8421d2eefe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178720.jpg?k=f550f5d85ca2219d8a0af6351a74da0d562530bccfa94c985829a82046317b5f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528178716.jpg?k=2191a71cedd8e44482137f475bed763385e0d59000dde28eedcd8e14d2442d5d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Bar Restorant Toni 350 m"
+  - "Coco Mangos 450 m"
+nearbyBeaches:
+  - "Lalëz Bay Beach 400 m"
+  - "Rodoni Beach 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 19 km"
+  - "Podgorica Airport 95 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/white-moon-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Guests at White Moon Apartments are treated to an array of amenities designed to make their stay as comfortable as possible. Each apartment is a haven of relaxation, featuring air conditioning for those warm summer days, a cozy seating area perfect for unwinding, and a flat-screen TV equipped with streaming services for entertainment at any time. The convenience of a kitchenette, complete with a dishwasher, oven, microwave, coffee machine, and kettle, allows guests the freedom to prepare meals and beverages as they please. Additionally, the inclusion of a dining area ensures that meals can be enjoyed in a comfortable setting.
 
 Privacy and comfort extend to the bathrooms, which are outfitted with a hair dryer, bidet, and shower, ensuring that guests have everything they need. The thoughtful provision of bed linen and towels adds an extra layer of convenience, making it easier for travelers to pack light.
 

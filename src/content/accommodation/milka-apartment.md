@@ -1,4 +1,69 @@
----\ntitle: "Milka Apartment"\ndescription: "Milka Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Golem, merely a stone's throw away from the pristine Golem Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757580.jpg?k=4f5d4cd1a5f2ea77316e5f3659f71b6295e782857f6124bb14235cfe7cac938c&o=&hp=1"\nlanguage: en\nslug: milka-apartment\naddress: "Kryemedhenj, 1001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.25265056\n  lng: 19.52157144\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 9.5\n  cleanliness: 9\n  facilities: 9.5\n  value: 9.5\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757580.jpg?k=4f5d4cd1a5f2ea77316e5f3659f71b6295e782857f6124bb14235cfe7cac938c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757593.jpg?k=09884f1ff6dca274bed6c074711f16f973c5282c258d8099fb217cd260e91114&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698059.jpg?k=21da316cd5e2a4d5d076be50651c267a86af8ced398ed6808cd2543730397cca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698607.jpg?k=e1e2ffa49778244efcb6dee9af601a8fdd214cd9446b2854e92de684ed867a3f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366701470.jpg?k=eb4d3b8eeda1273583fa26ac7977ded9186b4159b930af84cbaeb525007b08ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698131.jpg?k=e0ab6ceab48fbe25f0bfcf3a47f35eb08d4ad4f61ce51ff2e6d3a4ec274bdca9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698470.jpg?k=6cdb62f7a964d49dde72a2a06c1e0ae5abed2b16ec983160c7f6161c0d6d7a9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757598.jpg?k=7f8fddf968c196df28d26ca2a8511da583dbceff0346a46cb33de4fe550cbb73&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432070072.jpg?k=5fe550d24a08844a8c81a40456b0cfb944151a4869079d4f44c3aba0cafe37c1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\nnearbyBeaches:\n  - "Golem Beach 100 m"\n  - "Mali I Robit Beach 550 m"\n  - "Shkëmbi i Kavajës Beach 1.4 km"\n  - "Qerret Beach 2.6 km"\n  - "Durres Beach 3.8 km"\nreviews:\n  - name: "Surman"\n    country: "Ukraine"\n    text: "“Все было комфортно для проживания, большие апартаменты со всем необходимым для жизни. Расположение отличное, прям возле моря!”"\n  - name: "Elda"\n    country: "Netherlands"\n    text: "“Milka is super nice and friendly person, always available and ready to help. The location of the apartment is really close to the beach.”"\nbookingURL: "https://www.booking.com/hotel/al/milka-apartment-golem.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to a generously sized apartment that boasts two well-appointed bedrooms and two modern bathrooms, ensuring ample space and privacy. The inclusion of bed linen, towels, a flat-screen TV, and a fully equipped kitchen adds to the comfort and ease of the stay. Perhaps the most enchanting feature is the balcony, presenting breathtaking sea views that promise to elevate the guest experience with serene mornings and tranquil evenings overlooking the water.
+---
+title: "Milka Apartment"
+description: "Milka Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Golem, merely a stone's throw away from the pristine Golem Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757580.jpg?k=4f5d4cd1a5f2ea77316e5f3659f71b6295e782857f6124bb14235cfe7cac938c&o=&hp=1"
+language: en
+slug: milka-apartment
+address: "Kryemedhenj, 1001 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.25265056
+  lng: 19.52157144
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 5
+ratings:
+  overall: 9.4
+  location: 9.5
+  cleanliness: 9
+  facilities: 9.5
+  value: 9.5
+  comfort: 9.5
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757580.jpg?k=4f5d4cd1a5f2ea77316e5f3659f71b6295e782857f6124bb14235cfe7cac938c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757593.jpg?k=09884f1ff6dca274bed6c074711f16f973c5282c258d8099fb217cd260e91114&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698059.jpg?k=21da316cd5e2a4d5d076be50651c267a86af8ced398ed6808cd2543730397cca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698607.jpg?k=e1e2ffa49778244efcb6dee9af601a8fdd214cd9446b2854e92de684ed867a3f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366701470.jpg?k=eb4d3b8eeda1273583fa26ac7977ded9186b4159b930af84cbaeb525007b08ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698131.jpg?k=e0ab6ceab48fbe25f0bfcf3a47f35eb08d4ad4f61ce51ff2e6d3a4ec274bdca9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366698470.jpg?k=6cdb62f7a964d49dde72a2a06c1e0ae5abed2b16ec983160c7f6161c0d6d7a9f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757598.jpg?k=7f8fddf968c196df28d26ca2a8511da583dbceff0346a46cb33de4fe550cbb73&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432070072.jpg?k=5fe550d24a08844a8c81a40456b0cfb944151a4869079d4f44c3aba0cafe37c1&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+nearbyBeaches:
+  - "Golem Beach 100 m"
+  - "Mali I Robit Beach 550 m"
+  - "Shkëmbi i Kavajës Beach 1.4 km"
+  - "Qerret Beach 2.6 km"
+  - "Durres Beach 3.8 km"
+reviews:
+  - name: "Surman"
+    country: "Ukraine"
+    text: "“Все было комфортно для проживания, большие апартаменты со всем необходимым для жизни. Расположение отличное, прям возле моря!”"
+  - name: "Elda"
+    country: "Netherlands"
+    text: "“Milka is super nice and friendly person, always available and ready to help. The location of the apartment is really close to the beach.”"
+bookingURL: "https://www.booking.com/hotel/al/milka-apartment-golem.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to a generously sized apartment that boasts two well-appointed bedrooms and two modern bathrooms, ensuring ample space and privacy. The inclusion of bed linen, towels, a flat-screen TV, and a fully equipped kitchen adds to the comfort and ease of the stay. Perhaps the most enchanting feature is the balcony, presenting breathtaking sea views that promise to elevate the guest experience with serene mornings and tranquil evenings overlooking the water.
 
 Beyond the confines of the apartment, visitors will find themselves conveniently located with Skanderbeg Square only 47 km away, offering a dive into the rich local culture and history. For those intrigued by natural landmarks, the Rock of Kavaje is a mere 5.3 km journey, presenting an opportunity for exploration and adventure. Additionally, the proximity to Tirana International Mother Teresa Airport, situated 41 km from Milka Apartment, ensures a hassle-free arrival and departure, making it an ideal choice for both domestic and international travelers.
 

@@ -1,9 +1,91 @@
----\ntitle: "Monte Mare Hotel"\ndescription: "Monte Mare Hotel, situated a mere stone's throw away from the pristine shores of Vlore Beach in Vlorë, emerges as a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913492.jpg?k=0943e42c185a58e1e605e7a47c888e586d477afc4c19900ab6819cd055fd21f6&o=&hp=1"\nlanguage: en\nslug: monte-mare-hotel\naddress: "Hajro Cakerri Lungo Mare, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.44273841\n  lng: 19.50160703\nprice: "US$35"\npriceFrom: 35\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 302\nratings:\n  overall: 9\n  location: 8\n  cleanliness: 9.4\n  facilities: 8.9\n  value: 9.2\n  comfort: 9.4\n  staff: 9.5\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913492.jpg?k=0943e42c185a58e1e605e7a47c888e586d477afc4c19900ab6819cd055fd21f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913534.jpg?k=cf0be0423a9393698dc62d8d6daffcd1785fed3c7d77780e5708cf9e4ba0dd0c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289276.jpg?k=db17b772356329401159e0c09f508e802b0ffd0dd55bbb5326c482bceeedca36&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218912831.jpg?k=61e2d6e79300577f1c5d847c1c2d47554260e91682d864b1b76d5f7cfb398de9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913575.jpg?k=c7cf501615a1c1b08c587d1fd465fb1c97d11beb6476aecedc1b8d89a8200683&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220628968.jpg?k=da8c11bc9a2f6d2463f412b74bb63c71bd31dce23b79ac71ea97bbeb6915cf26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289236.jpg?k=03972a85a7c5c4fa4e041eba44adfef05ba383ecd75b424b592010c461079a69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913495.jpg?k=31d21c0e9221b0a6a989049594d9d7adce4c5bebe699d3874360a0020ec04557&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913481.jpg?k=03b7ad7bcaefec420660fe0e1caaf88ef2758ac54fdc3cb97fb34129a8394fdb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289190.jpg?k=e0748d8a6eb7f8d423e72d4bd6bffc6a97c1c73792e5d7d5fdb275c5c229adf3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289261.jpg?k=7a91d88e1a2f5e49ba4cdd0dcfcef8d99d6e41a95de79251eb474c5a3f407d77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289249.jpg?k=3b65f30be8b669d4c8bd85372a0f5f920290cb3910a26816421cc183ca7e4a89&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Grill House J&E Restorant 400 m"\n  - "Amo Pizza 500 m"\nnearbyBeaches:\n  - "Vlore Beach 550 m"\n  - "Ri Beach 1,000 m"\n  - "Vjetër Beach 2 km"\n  - "Beach at Government Villas 2.8 km"\n  - "Liro Beach 3.6 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 900 m"\n  - "Kuzum Baba 2.8 km"\n  - "Independence Square 3.2 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Benjamin"\n    country: "United Kingdom"\n    text: "“This is how a hotel should be run:
+---
+title: "Monte Mare Hotel"
+description: "Monte Mare Hotel, situated a mere stone's throw away from the pristine shores of Vlore Beach in Vlorë, emerges as a prime choice for travelers seeking both comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913492.jpg?k=0943e42c185a58e1e605e7a47c888e586d477afc4c19900ab6819cd055fd21f6&o=&hp=1"
+language: en
+slug: monte-mare-hotel
+address: "Hajro Cakerri Lungo Mare, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.44273841
+  lng: 19.50160703
+price: "US$35"
+priceFrom: 35
+starRating: 4
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 302
+ratings:
+  overall: 9
+  location: 8
+  cleanliness: 9.4
+  facilities: 8.9
+  value: 9.2
+  comfort: 9.4
+  staff: 9.5
+  wifi: 8.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913492.jpg?k=0943e42c185a58e1e605e7a47c888e586d477afc4c19900ab6819cd055fd21f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913534.jpg?k=cf0be0423a9393698dc62d8d6daffcd1785fed3c7d77780e5708cf9e4ba0dd0c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289276.jpg?k=db17b772356329401159e0c09f508e802b0ffd0dd55bbb5326c482bceeedca36&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218912831.jpg?k=61e2d6e79300577f1c5d847c1c2d47554260e91682d864b1b76d5f7cfb398de9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913575.jpg?k=c7cf501615a1c1b08c587d1fd465fb1c97d11beb6476aecedc1b8d89a8200683&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220628968.jpg?k=da8c11bc9a2f6d2463f412b74bb63c71bd31dce23b79ac71ea97bbeb6915cf26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289236.jpg?k=03972a85a7c5c4fa4e041eba44adfef05ba383ecd75b424b592010c461079a69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913495.jpg?k=31d21c0e9221b0a6a989049594d9d7adce4c5bebe699d3874360a0020ec04557&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913481.jpg?k=03b7ad7bcaefec420660fe0e1caaf88ef2758ac54fdc3cb97fb34129a8394fdb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289190.jpg?k=e0748d8a6eb7f8d423e72d4bd6bffc6a97c1c73792e5d7d5fdb275c5c229adf3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289261.jpg?k=7a91d88e1a2f5e49ba4cdd0dcfcef8d99d6e41a95de79251eb474c5a3f407d77&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218289249.jpg?k=3b65f30be8b669d4c8bd85372a0f5f920290cb3910a26816421cc183ca7e4a89&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Facilities for disabled guests"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Very good breakfast"
+nearbyRestaurants:
+  - "Grill House J&E Restorant 400 m"
+  - "Amo Pizza 500 m"
+nearbyBeaches:
+  - "Vlore Beach 550 m"
+  - "Ri Beach 1,000 m"
+  - "Vjetër Beach 2 km"
+  - "Beach at Government Villas 2.8 km"
+  - "Liro Beach 3.6 km"
+whatsNearby:
+  - "Scooby Doo Vlore 900 m"
+  - "Kuzum Baba 2.8 km"
+  - "Independence Square 3.2 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Benjamin"
+    country: "United Kingdom"
+    text: "“This is how a hotel should be run:
 -High quality rooms and fixtures
 -Nice balcony
 -Staff authentically happy to serve
 -Owner is nice
-- Great breakfast”"\n  - name: "Aya"\n    country: "Austria"\n    text: "“The mountain view is magical, it’s very near to the main city and the beach but still located in a calm area. The staff are very kind and helpful and the rooms were beautiful clean and comfortable.”"\n  - name: "Mikhail"\n    country: "Kazakhstan"\n    text: "“Please be careful when you planning your trip by the Google maps. The location on the Google map is not correct, so you can be confused. The Hotel itself is clean and comfortable, nothing to complain.”"\nbookingURL: "https://www.booking.com/hotel/al/monte-mare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon entering the air-conditioned sanctuaries that are Monte Mare's guest rooms, visitors are greeted with a suite of amenities designed for the modern traveler. Each room is equipped with a desk, kettle, minibar, and safety deposit box for personal convenience, alongside a flat-screen TV for entertainment needs. The inclusion of a private bathroom with a shower and a wardrobe in all rooms underscores the hotel's commitment to providing a seamless and comfortable guest experience.
+- Great breakfast”"
+  - name: "Aya"
+    country: "Austria"
+    text: "“The mountain view is magical, it’s very near to the main city and the beach but still located in a calm area. The staff are very kind and helpful and the rooms were beautiful clean and comfortable.”"
+  - name: "Mikhail"
+    country: "Kazakhstan"
+    text: "“Please be careful when you planning your trip by the Google maps. The location on the Google map is not correct, so you can be confused. The Hotel itself is clean and comfortable, nothing to complain.”"
+bookingURL: "https://www.booking.com/hotel/al/monte-mare.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Upon entering the air-conditioned sanctuaries that are Monte Mare's guest rooms, visitors are greeted with a suite of amenities designed for the modern traveler. Each room is equipped with a desk, kettle, minibar, and safety deposit box for personal convenience, alongside a flat-screen TV for entertainment needs. The inclusion of a private bathroom with a shower and a wardrobe in all rooms underscores the hotel's commitment to providing a seamless and comfortable guest experience.
 
 Morning at Monte Mare begins with a delightful continental breakfast, setting the tone for a day of exploration or relaxation. The hotel's strategic location not only places guests within a short 600-meter stroll from Vlore Beach but also within easy reach of other local attractions. Vjetër Beach lies just 2.9 km away, offering another scenic spot for beach lovers, while the historic Kuzum Baba is a mere 3.6 km from the hotel, promising a glimpse into the area's rich cultural heritage.
 

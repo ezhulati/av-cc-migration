@@ -1,4 +1,79 @@
----\ntitle: "Lovely 1-Bedroom condo in Tirana"\ndescription: "Discover the charm of Tiranë with a stay at the 1# Lovely 1-Bedroom Condo, a prime choice for travelers seeking comfort and convenience in the heart of Kashar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830445.jpg?k=14739b2ff6ad155780e6c727908055e80646827877afc345272c2ca52b2e84df&o=&hp=1"\nlanguage: en\nslug: lovely-1-bedroom-condo-in-tirana\naddress: "Rruga 3 Deshmoret, 1001 Kashar, Albania"\ncity: "Kashar"\nlocation: "Kashar"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32538689\n  lng: 19.77681694\nprice: "US$26"\npriceFrom: 26\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830445.jpg?k=14739b2ff6ad155780e6c727908055e80646827877afc345272c2ca52b2e84df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830507.jpg?k=11f3082e2c9fc7fd49f6cd830e50f45432a525f44d2b6599aabe2616bc716ac4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830501.jpg?k=408af094c6656acd55de45842ebefc138a3baa554c3c213859a8fdd4487813d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830492.jpg?k=9b810278971678fc3581ebd47c93d18e5fbebbc5852546ad43f72c73e48cf883&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830488.jpg?k=f3f281f9566638ad2516fe128790de425f2233fd0d245a8f316cb6d6d50d7d50&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830486.jpg?k=fd3f415ca571ef18e4934a47d211325d9c1970dfb06a222d6980fce52bb28190&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830489.jpg?k=e6975ac046e229cad400bcd78b0eb7c8e02c8a4b2c3845bf50155644d6873718&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830497.jpg?k=462470d6095e468d09bc22fb718a7d2ff759d74dfe1838ccf982d7fd65c7fb8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830490.jpg?k=da6992945812a2a8a75582f83196a0b4dd8ba4a7809cadd84945fb6b0406852b&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 3.3 km"\n  - "National Museum of History Albania 3.4 km"\n  - "Former Residence of Enver Hoxha 3.4 km"\n  - "Rinia Park 3.5 km"\n  - "Skanderbeg Square 3.6 km"\n  - "Clock Tower Tirana 3.6 km"\n  - "National Gallery of Arts Tirana 3.7 km"\n  - "Tanners' Bridge 4.1 km"\n  - "Grand Park of Tirana 4.3 km"\n  - "Bunk'Art 1 Museum 8 km"\nnearbyRestaurants:\n  - "Coffee Toffee 100 m"\n  - "Pizza Italia Yzb 200 m"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 800 m"\n  - "Park Lojrash 800 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.3 km"\n  - "Sheshi Xhuzepe Garibaldi 1.5 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.6 km"\n  - "Sheshi Rekreativ Kombinat 1.6 km"\n  - "Sheshi Rekreativ Parku 1Km 1.7 km"\n  - "Sheshi Rekreativ Bajram Curri 1.8 km"\n  - "Sheshi Rekreativ Sali Butka 1.9 km"\n  - "Sheshi Rekreativ Lord Bajron 1.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/1-lovely-1-bedroom-condo-in-tirane-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nThe condo excels in providing modern amenities, including complimentary WiFi, ensuring guests stay connected. Entertainment is readily available with a cable flat-screen TV, and the inclusion of a washing machine adds a touch of home comfort. The kitchen, equipped with an oven and fridge, invites guests to prepare their meals, making it an ideal spot for both short and long stays. Towels and bed linen, meticulously provided, enhance the cozy atmosphere of the apartment.
+---
+title: "Lovely 1-Bedroom condo in Tirana"
+description: "Discover the charm of Tiranë with a stay at the 1# Lovely 1-Bedroom Condo, a prime choice for travelers seeking comfort and convenience in the heart of Kashar."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830445.jpg?k=14739b2ff6ad155780e6c727908055e80646827877afc345272c2ca52b2e84df&o=&hp=1"
+language: en
+slug: lovely-1-bedroom-condo-in-tirana
+address: "Rruga 3 Deshmoret, 1001 Kashar, Albania"
+city: "Kashar"
+location: "Kashar"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32538689
+  lng: 19.77681694
+price: "US$26"
+priceFrom: 26
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830445.jpg?k=14739b2ff6ad155780e6c727908055e80646827877afc345272c2ca52b2e84df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830507.jpg?k=11f3082e2c9fc7fd49f6cd830e50f45432a525f44d2b6599aabe2616bc716ac4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830501.jpg?k=408af094c6656acd55de45842ebefc138a3baa554c3c213859a8fdd4487813d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830492.jpg?k=9b810278971678fc3581ebd47c93d18e5fbebbc5852546ad43f72c73e48cf883&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830488.jpg?k=f3f281f9566638ad2516fe128790de425f2233fd0d245a8f316cb6d6d50d7d50&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830486.jpg?k=fd3f415ca571ef18e4934a47d211325d9c1970dfb06a222d6980fce52bb28190&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830489.jpg?k=e6975ac046e229cad400bcd78b0eb7c8e02c8a4b2c3845bf50155644d6873718&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830497.jpg?k=462470d6095e468d09bc22fb718a7d2ff759d74dfe1838ccf982d7fd65c7fb8a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830490.jpg?k=da6992945812a2a8a75582f83196a0b4dd8ba4a7809cadd84945fb6b0406852b&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 3.3 km"
+  - "National Museum of History Albania 3.4 km"
+  - "Former Residence of Enver Hoxha 3.4 km"
+  - "Rinia Park 3.5 km"
+  - "Skanderbeg Square 3.6 km"
+  - "Clock Tower Tirana 3.6 km"
+  - "National Gallery of Arts Tirana 3.7 km"
+  - "Tanners' Bridge 4.1 km"
+  - "Grand Park of Tirana 4.3 km"
+  - "Bunk'Art 1 Museum 8 km"
+nearbyRestaurants:
+  - "Coffee Toffee 100 m"
+  - "Pizza Italia Yzb 200 m"
+whatsNearby:
+  - "Shesh Rekreativ Yzberisht 800 m"
+  - "Park Lojrash 800 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 1.3 km"
+  - "Sheshi Xhuzepe Garibaldi 1.5 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.6 km"
+  - "Sheshi Rekreativ Kombinat 1.6 km"
+  - "Sheshi Rekreativ Parku 1Km 1.7 km"
+  - "Sheshi Rekreativ Bajram Curri 1.8 km"
+  - "Sheshi Rekreativ Sali Butka 1.9 km"
+  - "Sheshi Rekreativ Lord Bajron 1.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 9 km"
+  - "Ohrid Airport 82 km"
+bookingURL: "https://www.booking.com/hotel/al/1-lovely-1-bedroom-condo-in-tirane-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Airport Access"
+bestCategories: "Airport Access"
+category: "Airport Access"
+---
+
+The condo excels in providing modern amenities, including complimentary WiFi, ensuring guests stay connected. Entertainment is readily available with a cable flat-screen TV, and the inclusion of a washing machine adds a touch of home comfort. The kitchen, equipped with an oven and fridge, invites guests to prepare their meals, making it an ideal spot for both short and long stays. Towels and bed linen, meticulously provided, enhance the cozy atmosphere of the apartment.
 
 Situated a mere 4.7 km from the historic Skanderbeg Square, guests have the opportunity to explore the rich cultural heritage of Tiranë. The condo is also conveniently located 5.7 km from the Former Residence of Enver Hoxha, offering a glimpse into the country's intriguing past. For those willing to venture further, the Rock of Kavaje stands 41 km away, presenting an excellent day trip option.
 

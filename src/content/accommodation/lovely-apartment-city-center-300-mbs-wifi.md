@@ -1,4 +1,76 @@
----\ntitle: "Lovely Apartment City Center 300 mbs WiFi"\ndescription: "Discover the charm of Durrës with a stay at Lovely Apartment City Center, a prime location just a stone's throw away from Currila Beach and a short stroll from the vibrant Kallmi Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442326.jpg?k=98d03cbac6992ad824cb5935367618293c64160c01328f969e9d14c3e362060a&o=&hp=1"\nlanguage: en\nslug: lovely-apartment-city-center-300-mbs-wifi\naddress: "Rruga Taulantia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31022321\n  lng: 19.44392066\nprice: "US$75"\npriceFrom: 75\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442326.jpg?k=98d03cbac6992ad824cb5935367618293c64160c01328f969e9d14c3e362060a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442501.jpg?k=a3e70d63cdbc337bb5be8bcf31aef62ef0d1b99086359310966e9846554aa615&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442471.jpg?k=4c1aee4d00ffeb764b9fa6120565ea5a27b3b17b08147bbff73824744783ee7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442485.jpg?k=61f63ad76b99a4d893e874014d831c0fbea2077e4706d3a8d0baa7b8bc94ed04&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442530.jpg?k=50e45b05ce55597b73f7023f2ce20dbdfd8291c191f9822789a5155541a1d32d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442518.jpg?k=a746049c419c14ef1710c21df97929f226f19c7294fda0e3fc1c871d546b3f06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442498.jpg?k=45163a476f71785ace32347b392f37d2e56155e35f96cd54e33f8507a34d6cb2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442426.jpg?k=99b7dc73f63e7c98f737becd09f8d6f8891f04fe41388b577d67d8573f1177f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442369.jpg?k=a5b5adb6bae766b2219a8e28e9884598071809a4ae0f59b39914558345c585c2&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Cinnabon Durres 50 m"\n  - "Liburn 100 m"\nnearbyBeaches:\n  - "Currila Beach 50 m"\n  - "Kallmi Beach 1.3 km"\n  - "Durres Beach 2 km"\n  - "West End Beach 2.4 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 200 m"\n  - "Durres Amphiteatre 250 m"\n  - "Yje Dhe Hena 700 m"\n  - "Wine Dhe Pooh 750 m"\n  - "Sheshi Demokracia 900 m"\n  - "Sotir Noka 1.2 km"\n  - "Bekimi 3.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Lothar"\n    country: "Germany"\n    text: "“Außergewöhnliche Lage im 17. Stock. Meerblick fantastisch. Sehr großes Apartment. Geschmackvoll eingerichtet.”"\nbookingURL: "https://www.booking.com/hotel/al/lovely-apartment-city-center-300-mbs-wifi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and style, boasting a spacious layout that includes a bedroom, a living area with a flat-screen TV, and a balcony that invites guests to breathe in the sea air. The fully equipped kitchen is a dream for those who love to cook, featuring modern appliances such as a dishwasher, oven, washing machine, microwave, and fridge. Adding to the cozy ambiance is a fireplace, perfect for cooler evenings. Guests can also expect the convenience of complimentary WiFi throughout their stay, ensuring they remain connected and entertained.
+---
+title: "Lovely Apartment City Center 300 mbs WiFi"
+description: "Discover the charm of Durrës with a stay at Lovely Apartment City Center, a prime location just a stone's throw away from Currila Beach and a short stroll from the vibrant Kallmi Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442326.jpg?k=98d03cbac6992ad824cb5935367618293c64160c01328f969e9d14c3e362060a&o=&hp=1"
+language: en
+slug: lovely-apartment-city-center-300-mbs-wifi
+address: "Rruga Taulantia, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31022321
+  lng: 19.44392066
+price: "US$75"
+priceFrom: 75
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 9.2
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442326.jpg?k=98d03cbac6992ad824cb5935367618293c64160c01328f969e9d14c3e362060a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442501.jpg?k=a3e70d63cdbc337bb5be8bcf31aef62ef0d1b99086359310966e9846554aa615&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442471.jpg?k=4c1aee4d00ffeb764b9fa6120565ea5a27b3b17b08147bbff73824744783ee7a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442485.jpg?k=61f63ad76b99a4d893e874014d831c0fbea2077e4706d3a8d0baa7b8bc94ed04&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442530.jpg?k=50e45b05ce55597b73f7023f2ce20dbdfd8291c191f9822789a5155541a1d32d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442518.jpg?k=a746049c419c14ef1710c21df97929f226f19c7294fda0e3fc1c871d546b3f06&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442498.jpg?k=45163a476f71785ace32347b392f37d2e56155e35f96cd54e33f8507a34d6cb2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442426.jpg?k=99b7dc73f63e7c98f737becd09f8d6f8891f04fe41388b577d67d8573f1177f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442369.jpg?k=a5b5adb6bae766b2219a8e28e9884598071809a4ae0f59b39914558345c585c2&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Beachfront"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Cinnabon Durres 50 m"
+  - "Liburn 100 m"
+nearbyBeaches:
+  - "Currila Beach 50 m"
+  - "Kallmi Beach 1.3 km"
+  - "Durres Beach 2 km"
+  - "West End Beach 2.4 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "1. Maj 200 m"
+  - "Durres Amphiteatre 250 m"
+  - "Yje Dhe Hena 700 m"
+  - "Wine Dhe Pooh 750 m"
+  - "Sheshi Demokracia 900 m"
+  - "Sotir Noka 1.2 km"
+  - "Bekimi 3.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+reviews:
+  - name: "Lothar"
+    country: "Germany"
+    text: "“Außergewöhnliche Lage im 17. Stock. Meerblick fantastisch. Sehr großes Apartment. Geschmackvoll eingerichtet.”"
+bookingURL: "https://www.booking.com/hotel/al/lovely-apartment-city-center-300-mbs-wifi.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of comfort and style, boasting a spacious layout that includes a bedroom, a living area with a flat-screen TV, and a balcony that invites guests to breathe in the sea air. The fully equipped kitchen is a dream for those who love to cook, featuring modern appliances such as a dishwasher, oven, washing machine, microwave, and fridge. Adding to the cozy ambiance is a fireplace, perfect for cooler evenings. Guests can also expect the convenience of complimentary WiFi throughout their stay, ensuring they remain connected and entertained.
 
 For those keen to explore beyond the beach, the apartment is within easy reach of Skanderbeg Square, 39 km away, and the Dajti Ekspres Cable Car, 43 km away, offering a glimpse into the rich culture and breathtaking landscapes of the area. Tirana International Mother Teresa Airport is conveniently located 33 km from the property, making arrivals and departures a breeze.
 

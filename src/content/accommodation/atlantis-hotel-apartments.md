@@ -1,4 +1,94 @@
----\ntitle: "Atlantis Hotel & Apartments"\ndescription: "Atlantis Hotel & Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678164.jpg?k=9a2043da3111723be56cdcb312227d3537bc701cf59895256a517241ee0857d2&o=&hp=1"\nlanguage: en\nslug: atlantis-hotel-apartments\naddress: "SH81 \"Miqesia\" Square, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76767539\n  lng: 20.00335994\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8\nratingWords: "Very Good"\nnumberOfReviews: 20\nratings:\n  overall: 8\n  location: 8\n  cleanliness: 7.9\n  facilities: 7.4\n  value: 7\n  comfort: 8\n  staff: 7.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678164.jpg?k=9a2043da3111723be56cdcb312227d3537bc701cf59895256a517241ee0857d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526677839.jpg?k=cd217f0797277857e2bc2db471018cb299231ab5db8c18a986ce5fd8a1af00fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526677727.jpg?k=5aa0d1914b85e06a23a07818df53c59db41df698422180230919bae3ba611caf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526676838.jpg?k=9ba457df13b936472a61a09db3c026065416c8bc4411dafc1ee43d2270f42266&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526676658.jpg?k=d5b60eaa652693ef157bc22d149947f46b2a96715f3d70355c3b15620593fa19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526677814.jpg?k=a81430915065710c402a7bec34e5f3476e7cb7261e1d36a6e756f36e0df87a32&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678208.jpg?k=be31e899b769debe7ed2d67f9f47bf196842e960105670dd9e6106dd2e0df50a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678268.jpg?k=f88f898ceb8cf221ec865e824f0ebc432d7f5936689a0d9eb587c736f9f3c270&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678439.jpg?k=cf6d036cc5e6684162bc9ee975172ba7eb066fbfd400bec24dfa9e07c306ad9d&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Exceptional breakfast"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Simple 20 m"\n  - "Cocobeach 50 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 400 m"\n  - "Ksamil Beach 550 m"\n  - "Bora Bora Beach 550 m"\n  - "Ksamil Beach 7 600 m"\n  - "Paradise Beach 650 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 100 m"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 3.6 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/atlantis-residence.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe hotel prides itself on its attentive concierge service, ensuring that every guest's needs are promptly met. Around-the-clock front desk support, airport transfer arrangements, room service, and the luxury of free WiFi across the property further elevate the guest experience. For those who prefer the comforts of home cooking, select rooms are equipped with a kitchen, complete with a fridge, oven, and stovetop, adding a touch of convenience to your stay.
+---
+title: "Atlantis Hotel & Apartments"
+description: "Atlantis Hotel & Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678164.jpg?k=9a2043da3111723be56cdcb312227d3537bc701cf59895256a517241ee0857d2&o=&hp=1"
+language: en
+slug: atlantis-hotel-apartments
+address: "SH81 \"Miqesia\" Square, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.76767539
+  lng: 20.00335994
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8
+ratingWords: "Very Good"
+numberOfReviews: 20
+ratings:
+  overall: 8
+  location: 8
+  cleanliness: 7.9
+  facilities: 7.4
+  value: 7
+  comfort: 8
+  staff: 7.5
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678164.jpg?k=9a2043da3111723be56cdcb312227d3537bc701cf59895256a517241ee0857d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526677839.jpg?k=cd217f0797277857e2bc2db471018cb299231ab5db8c18a986ce5fd8a1af00fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526677727.jpg?k=5aa0d1914b85e06a23a07818df53c59db41df698422180230919bae3ba611caf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526676838.jpg?k=9ba457df13b936472a61a09db3c026065416c8bc4411dafc1ee43d2270f42266&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526676658.jpg?k=d5b60eaa652693ef157bc22d149947f46b2a96715f3d70355c3b15620593fa19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526677814.jpg?k=a81430915065710c402a7bec34e5f3476e7cb7261e1d36a6e756f36e0df87a32&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678208.jpg?k=be31e899b769debe7ed2d67f9f47bf196842e960105670dd9e6106dd2e0df50a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678268.jpg?k=f88f898ceb8cf221ec865e824f0ebc432d7f5936689a0d9eb587c736f9f3c270&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678439.jpg?k=cf6d036cc5e6684162bc9ee975172ba7eb066fbfd400bec24dfa9e07c306ad9d&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+  - "Exceptional breakfast"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 18 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 20 km"
+nearbyRestaurants:
+  - "Simple 20 m"
+  - "Cocobeach 50 m"
+nearbyBeaches:
+  - "Ksamil Beach 9 400 m"
+  - "Ksamil Beach 550 m"
+  - "Bora Bora Beach 550 m"
+  - "Ksamil Beach 7 600 m"
+  - "Paradise Beach 650 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 100 m"
+  - "Butrint National Park 2.6 km"
+  - "Plazhi I Krorezes 3.6 km"
+  - "Parc National de Butrint 10 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/atlantis-residence.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+The hotel prides itself on its attentive concierge service, ensuring that every guest's needs are promptly met. Around-the-clock front desk support, airport transfer arrangements, room service, and the luxury of free WiFi across the property further elevate the guest experience. For those who prefer the comforts of home cooking, select rooms are equipped with a kitchen, complete with a fridge, oven, and stovetop, adding a touch of convenience to your stay.
 
 Morning risers are greeted with the choice of a continental or Full English/Irish breakfast, starting each day on a delicious note. Families will be delighted to find a children's playground on-site, ensuring entertainment for the little ones.
 

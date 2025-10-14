@@ -1,4 +1,80 @@
----\ntitle: "Merville Apartment 3"\ndescription: "Merville Apartment 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617501.jpg?k=936b0c3e11a719391b379d590cf2761292a58f9429af937897e42f2a39a7f92f&o=&hp=1"\nlanguage: en\nslug: merville-apartment-3\naddress: "Rruga Shkembi i Kavajes, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.28340498\n  lng: 19.51146013\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.2\n  location: 10\n  cleanliness: 9.2\n  facilities: 7.5\n  value: 9.2\n  comfort: 9.2\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617501.jpg?k=936b0c3e11a719391b379d590cf2761292a58f9429af937897e42f2a39a7f92f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955123.jpg?k=b774266caace7738664fd095a6741284943321b065ad324b0085daa802994dea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955082.jpg?k=f2244b60e010bd7252fb7eab826d929a46973b6b9e33204a230d96c033547b2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617965.jpg?k=0b8f19fa261bd05db27e47f241c5d650f9485c3368641df594e53fbe0bb335a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617491.jpg?k=9c781910394e6c3c9e4637f3ff48637318f3c64ccf86c31bae3032dd9eb0f180&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955143.jpg?k=ce24f5e67f176889f8a19c412bf6baa7d3e780fbe2b18e0857d930c8672ea5c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955121.jpg?k=03343b7f7ffdfc75fbf6687c0daca67bada893fec7456558eb6eb9e4a4be34a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955092.jpg?k=5deb5be5b67f7c8a165f1b3ce1d4288b514b4a976af7d14ddfc8c34dbadd9a80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444506819.jpg?k=1d6a7912635369bb9aac8da6393708fd68b25f215bb4d9152789fbc1be8aa4f7&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Restorant ANXHELSON 50 m"\n  - "Kosova 100 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 40 m"\n  - "Durres Beach 300 m"\n  - "Golem Beach 2.1 km"\n  - "Mali I Robit Beach 4 km"\n  - "Qerret Beach 6 km"\nwhatsNearby:\n  - "Bekimi 6 km"\n  - "Wine Dhe Pooh 6 km"\n  - "Durres Amphiteatre 6 km"\n  - "Yje Dhe Hena 7 km"\n  - "Sheshi Demokracia 7 km"\n  - "1. Maj 7 km"\n  - "Sotir Noka 7 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\nreviews:\n  - name: "Szilvási"\n    country: "Hungary"\n    text: "“Önálló lakás közvetlenül a tengerpart melletti új apartmanházban. Tiszta, rendezett, csak ajánlani tudom”"\n  - name: "Tordai"\n    country: "Hungary"\n    text: "“Minden nagyon korrekt volt! Örömmel fizeti ki az ember! Vártak bennünket, és többször érdeklődtek telefonon merre járunk!”"\nbookingURL: "https://www.booking.com/hotel/al/merville-apartment-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and light, boasting a balcony that offers serene garden views. It is well-appointed with a bedroom, a cozy living room, a flat-screen TV for entertainment, and a kitchen equipped with modern appliances including an oven and a fridge. The presence of a bathroom with a bidet, alongside a private entrance and round-the-clock security, ensures guests enjoy both comfort and privacy.
+---
+title: "Merville Apartment 3"
+description: "Merville Apartment 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617501.jpg?k=936b0c3e11a719391b379d590cf2761292a58f9429af937897e42f2a39a7f92f&o=&hp=1"
+language: en
+slug: merville-apartment-3
+address: "Rruga Shkembi i Kavajes, Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.28340498
+  lng: 19.51146013
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 3
+ratings:
+  overall: 9.2
+  location: 10
+  cleanliness: 9.2
+  facilities: 7.5
+  value: 9.2
+  comfort: 9.2
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617501.jpg?k=936b0c3e11a719391b379d590cf2761292a58f9429af937897e42f2a39a7f92f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955123.jpg?k=b774266caace7738664fd095a6741284943321b065ad324b0085daa802994dea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955082.jpg?k=f2244b60e010bd7252fb7eab826d929a46973b6b9e33204a230d96c033547b2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617965.jpg?k=0b8f19fa261bd05db27e47f241c5d650f9485c3368641df594e53fbe0bb335a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617491.jpg?k=9c781910394e6c3c9e4637f3ff48637318f3c64ccf86c31bae3032dd9eb0f180&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955143.jpg?k=ce24f5e67f176889f8a19c412bf6baa7d3e780fbe2b18e0857d930c8672ea5c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955121.jpg?k=03343b7f7ffdfc75fbf6687c0daca67bada893fec7456558eb6eb9e4a4be34a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366955092.jpg?k=5deb5be5b67f7c8a165f1b3ce1d4288b514b4a976af7d14ddfc8c34dbadd9a80&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444506819.jpg?k=1d6a7912635369bb9aac8da6393708fd68b25f215bb4d9152789fbc1be8aa4f7&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Restorant ANXHELSON 50 m"
+  - "Kosova 100 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 40 m"
+  - "Durres Beach 300 m"
+  - "Golem Beach 2.1 km"
+  - "Mali I Robit Beach 4 km"
+  - "Qerret Beach 6 km"
+whatsNearby:
+  - "Bekimi 6 km"
+  - "Wine Dhe Pooh 6 km"
+  - "Durres Amphiteatre 6 km"
+  - "Yje Dhe Hena 7 km"
+  - "Sheshi Demokracia 7 km"
+  - "1. Maj 7 km"
+  - "Sotir Noka 7 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+reviews:
+  - name: "Szilvási"
+    country: "Hungary"
+    text: "“Önálló lakás közvetlenül a tengerpart melletti új apartmanházban. Tiszta, rendezett, csak ajánlani tudom”"
+  - name: "Tordai"
+    country: "Hungary"
+    text: "“Minden nagyon korrekt volt! Örömmel fizeti ki az ember! Vártak bennünket, és többször érdeklődtek telefonon merre járunk!”"
+bookingURL: "https://www.booking.com/hotel/al/merville-apartment-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of space and light, boasting a balcony that offers serene garden views. It is well-appointed with a bedroom, a cozy living room, a flat-screen TV for entertainment, and a kitchen equipped with modern appliances including an oven and a fridge. The presence of a bathroom with a bidet, alongside a private entrance and round-the-clock security, ensures guests enjoy both comfort and privacy.
 
 For those looking to explore the local area, Merville Apartment 3 does not disappoint. It is conveniently positioned for guests to engage in cycling adventures around Durrës. Moreover, the property is within easy reach of Golem Beach, merely 2.4 km away, while the historic Skanderbeg Square lies 41 km from the apartment, offering a glimpse into the rich cultural tapestry of the region.
 

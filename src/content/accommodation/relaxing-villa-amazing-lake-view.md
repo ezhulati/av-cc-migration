@@ -1,4 +1,66 @@
----\ntitle: "Relaxing Villa Amazing Lake View"\ndescription: "Relaxing Villa Amazing Lake View stands as a serene retreat in Shirokë, a mere 50 km from the bustling Port of Bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188710.jpg?k=ac6d3e925197492764f59ba813a5ec94e57fce61e90b60fa5e553955ed1b4e4d&o=&hp=1"\nlanguage: en\nslug: relaxing-villa-amazing-lake-view\naddress: "Rruga e Selvijave, Shirokë, Albania"\ncity: "Shirokë"\nlocation: "Shirokë"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.05700223\n  lng: 19.4493427\nprice: "US$151"\npriceFrom: 151\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 7.5\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188710.jpg?k=ac6d3e925197492764f59ba813a5ec94e57fce61e90b60fa5e553955ed1b4e4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489210398.jpg?k=9890bb53b3c4ba3f23dd6822bd96237fcc2fdd6b1ed1a0d27e2ee7de0bac8bcb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489209992.jpg?k=bc4d38e31eb259e6516b67708a7d7b8fe87f87dd349955e6bd147d4618a80828&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489187970.jpg?k=ae6254a196c2aa3633a7d150e0f9ab083330eef273683a93218be461fd5fbf4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188786.jpg?k=99c2e9ddb3f735f1d537ebc0297d11ee281e5686ae5f5fc3125dddd525575511&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188192.jpg?k=e97f684a791041b7b224c69b2f0f133b29f62a2a095987833df6d00faf6284b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188109.jpg?k=e68e0afa413997bcba4839cdf6c0eb272e05067a4665c3a49159013ada8e329a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188389.jpg?k=8627b6736b4b431f2b1bf1cc3eec1616f157b96134912276efbe1efd4843c88f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188832.jpg?k=821abb1270888bdb5e5f8ca90c2eb07951e14cf3ef34ee9ee3684d27322fb888&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Breakfast"\nroomTypes:\n  - "Two-Bedroom Villa"\nnearbyRestaurants:\n  - "Blunote 400 m"\n  - "Kraja 400 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 3.9 km"\n  - "National Park Skadar Lake 6 km"\nairports:\n  - "Podgorica Airport 36 km"\n  - "Tivat Airport 70 km"\n  - "Tirana International Airport Mother Teresa 73 km"\nbookingURL: "https://www.booking.com/hotel/al/relaxing-villa-amazing-lake-view.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe villa itself is a haven of comfort and luxury, featuring air conditioning for those warm summer days, two well-appointed bedrooms, and a kitchen equipped with everything needed for a home-cooked meal. Upon entering through the private entrance, visitors are greeted with thoughtful touches such as fresh fruits, chocolates, and cookies, setting the tone for a stay that's as indulgent as it is comfortable.
+---
+title: "Relaxing Villa Amazing Lake View"
+description: "Relaxing Villa Amazing Lake View stands as a serene retreat in Shirokë, a mere 50 km from the bustling Port of Bar."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188710.jpg?k=ac6d3e925197492764f59ba813a5ec94e57fce61e90b60fa5e553955ed1b4e4d&o=&hp=1"
+language: en
+slug: relaxing-villa-amazing-lake-view
+address: "Rruga e Selvijave, Shirokë, Albania"
+city: "Shirokë"
+location: "Shirokë"
+accommodationType: "villa"
+coordinates:
+  lat: 42.05700223
+  lng: 19.4493427
+price: "US$151"
+priceFrom: 151
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 7.5
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188710.jpg?k=ac6d3e925197492764f59ba813a5ec94e57fce61e90b60fa5e553955ed1b4e4d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489210398.jpg?k=9890bb53b3c4ba3f23dd6822bd96237fcc2fdd6b1ed1a0d27e2ee7de0bac8bcb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489209992.jpg?k=bc4d38e31eb259e6516b67708a7d7b8fe87f87dd349955e6bd147d4618a80828&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489187970.jpg?k=ae6254a196c2aa3633a7d150e0f9ab083330eef273683a93218be461fd5fbf4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188786.jpg?k=99c2e9ddb3f735f1d537ebc0297d11ee281e5686ae5f5fc3125dddd525575511&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188192.jpg?k=e97f684a791041b7b224c69b2f0f133b29f62a2a095987833df6d00faf6284b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188109.jpg?k=e68e0afa413997bcba4839cdf6c0eb272e05067a4665c3a49159013ada8e329a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188389.jpg?k=8627b6736b4b431f2b1bf1cc3eec1616f157b96134912276efbe1efd4843c88f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489188832.jpg?k=821abb1270888bdb5e5f8ca90c2eb07951e14cf3ef34ee9ee3684d27322fb888&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Breakfast"
+roomTypes:
+  - "Two-Bedroom Villa"
+nearbyRestaurants:
+  - "Blunote 400 m"
+  - "Kraja 400 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 3.9 km"
+  - "National Park Skadar Lake 6 km"
+airports:
+  - "Podgorica Airport 36 km"
+  - "Tivat Airport 70 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+bookingURL: "https://www.booking.com/hotel/al/relaxing-villa-amazing-lake-view.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The villa itself is a haven of comfort and luxury, featuring air conditioning for those warm summer days, two well-appointed bedrooms, and a kitchen equipped with everything needed for a home-cooked meal. Upon entering through the private entrance, visitors are greeted with thoughtful touches such as fresh fruits, chocolates, and cookies, setting the tone for a stay that's as indulgent as it is comfortable.
 
 Outdoor enthusiasts will appreciate the terrace, which presents a panoramic view of the surrounding mountains, offering a perfect backdrop for dining al fresco. For those keen on exploring, the villa thoughtfully provides packed lunches, ideal for day trips to explore the local landmarks.
 

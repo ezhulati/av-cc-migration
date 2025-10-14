@@ -1,4 +1,70 @@
----\ntitle: "new studio del mar"\ndescription: "New Studio Del Mar emerges as a serene retreat in the vibrant heart of Vlorë, merely a stone's throw away from the pristine Vjetër Beach and a short stroll from the bustling Vlore Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988531.jpg?k=be9c942066b07c144b3258438cd9ac064b20172da62847caab3edceffcedfa05&o=&hp=1"\nlanguage: en\nslug: new-studio-del-mar\naddress: "Rruga Gavril Dara, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45544393\n  lng: 19.47850355\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 6.3\nratingWords: "Average"\nnumberOfReviews: 1\nratings:\n  overall: 6.3\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 7.5\n  value: 5\n  comfort: 5\n  staff: 5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988531.jpg?k=be9c942066b07c144b3258438cd9ac064b20172da62847caab3edceffcedfa05&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513085.jpg?k=753233507fea934080fca3abf2b7488e3a51e1eaff9ed3c3bb8d62c541bba833&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513083.jpg?k=4ff67e7e26b7be8ad55b4a366f1a3ef19945d922a229d29605de654c7fc3002d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513069.jpg?k=51fe18097e3a188c7d94474f98a7427351d82b336a560cefbeedaf746a69bdb8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513078.jpg?k=d635683b119b0826b65d8f57f0bbc227dd96696733aabede45a1ca4ecd52d360&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988978.jpg?k=2ac96088685bdb30510adf85db9e5df09aa6bf1425dce879aa1a413a7073c3e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513072.jpg?k=af9b97b611ebc3fb5634bd8c0c6aef7c6a9aa2305c9ceaa3886d895d966633bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988704.jpg?k=a4e07cba1becbe30fcb3ca7d7e7081ea52a5cf637924910470c06f064cca25cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988636.jpg?k=5b0c1fe7eabda9a4eee1bb4d98e7b2a6b3df494fb3b42c606e3c9c264d46812e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513067.jpg?k=6e6baaeb67c13a3f07e2e744451b5d12aa73c538c1800b44dc138ec2c3ed10d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513084.jpg?k=270b910e9758fdba1d53c09e09fbfef66d769852259e3c4194226e9fef04d1b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517989342.jpg?k=308731559d252723ee199efd11960433034257e9a22d6b31f7b2443d414942ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513076.jpg?k=7b81d42691057882bb33e5c65961077f168e48b587ecf7158304e1749e72b495&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513089.jpg?k=52f8fc8d50305fd027d6b8deef00a25c2b0a3020a0bc7c7b8bb9ca0ca143c4cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513033.jpg?k=c7b64f53dc21de3bbf0aaf6751824ac7e169468c6485b667c985701a18f64110&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Restorant Taverna Lato Mezuaraj 150 m"\n  - "Gimka 300 m"\nnearbyBeaches:\n  - "Vjetër Beach 150 m"\n  - "Vlore Beach 1.5 km"\n  - "Ri Beach 2.6 km"\n  - "Beach at Government Villas 4 km"\n  - "Liro Beach 4.5 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Independence Square 2 km"\n  - "Scooby Doo Vlore 2.6 km"\nbookingURL: "https://www.booking.com/hotel/al/new-studio-del-mar-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a testament to modern living, offering a breath of fresh air with its non-smoking policy and providing a tranquil haven with air conditioning for those warm Mediterranean days. Guests will find themselves enveloped in comfort in the spacious 1-bedroom layout, which includes a living room equipped with a flat-screen TV for those leisurely evenings in. The fully equipped kitchen, complete with an oven, invites guests to create culinary delights, adding a touch of home-away-from-home feeling to their stay.
+---
+title: "new studio del mar"
+description: "New Studio Del Mar emerges as a serene retreat in the vibrant heart of Vlorë, merely a stone's throw away from the pristine Vjetër Beach and a short stroll from the bustling Vlore Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988531.jpg?k=be9c942066b07c144b3258438cd9ac064b20172da62847caab3edceffcedfa05&o=&hp=1"
+language: en
+slug: new-studio-del-mar
+address: "Rruga Gavril Dara, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45544393
+  lng: 19.47850355
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 6.3
+ratingWords: "Average"
+numberOfReviews: 1
+ratings:
+  overall: 6.3
+  location: 7.5
+  cleanliness: 7.5
+  facilities: 7.5
+  value: 5
+  comfort: 5
+  staff: 5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988531.jpg?k=be9c942066b07c144b3258438cd9ac064b20172da62847caab3edceffcedfa05&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513085.jpg?k=753233507fea934080fca3abf2b7488e3a51e1eaff9ed3c3bb8d62c541bba833&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513083.jpg?k=4ff67e7e26b7be8ad55b4a366f1a3ef19945d922a229d29605de654c7fc3002d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513069.jpg?k=51fe18097e3a188c7d94474f98a7427351d82b336a560cefbeedaf746a69bdb8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513078.jpg?k=d635683b119b0826b65d8f57f0bbc227dd96696733aabede45a1ca4ecd52d360&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988978.jpg?k=2ac96088685bdb30510adf85db9e5df09aa6bf1425dce879aa1a413a7073c3e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513072.jpg?k=af9b97b611ebc3fb5634bd8c0c6aef7c6a9aa2305c9ceaa3886d895d966633bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988704.jpg?k=a4e07cba1becbe30fcb3ca7d7e7081ea52a5cf637924910470c06f064cca25cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988636.jpg?k=5b0c1fe7eabda9a4eee1bb4d98e7b2a6b3df494fb3b42c606e3c9c264d46812e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513067.jpg?k=6e6baaeb67c13a3f07e2e744451b5d12aa73c538c1800b44dc138ec2c3ed10d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513084.jpg?k=270b910e9758fdba1d53c09e09fbfef66d769852259e3c4194226e9fef04d1b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517989342.jpg?k=308731559d252723ee199efd11960433034257e9a22d6b31f7b2443d414942ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513076.jpg?k=7b81d42691057882bb33e5c65961077f168e48b587ecf7158304e1749e72b495&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513089.jpg?k=52f8fc8d50305fd027d6b8deef00a25c2b0a3020a0bc7c7b8bb9ca0ca143c4cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349513033.jpg?k=c7b64f53dc21de3bbf0aaf6751824ac7e169468c6485b667c985701a18f64110&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Restorant Taverna Lato Mezuaraj 150 m"
+  - "Gimka 300 m"
+nearbyBeaches:
+  - "Vjetër Beach 150 m"
+  - "Vlore Beach 1.5 km"
+  - "Ri Beach 2.6 km"
+  - "Beach at Government Villas 4 km"
+  - "Liro Beach 4.5 km"
+whatsNearby:
+  - "Kuzum Baba 1.8 km"
+  - "Independence Square 2 km"
+  - "Scooby Doo Vlore 2.6 km"
+bookingURL: "https://www.booking.com/hotel/al/new-studio-del-mar-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a testament to modern living, offering a breath of fresh air with its non-smoking policy and providing a tranquil haven with air conditioning for those warm Mediterranean days. Guests will find themselves enveloped in comfort in the spacious 1-bedroom layout, which includes a living room equipped with a flat-screen TV for those leisurely evenings in. The fully equipped kitchen, complete with an oven, invites guests to create culinary delights, adding a touch of home-away-from-home feeling to their stay.
 
 Attention to detail is evident in the provision of towels and bed linen, ensuring a comfortable and carefree stay. The addition of a balcony presents an opportunity for guests to enjoy their morning coffee or evening wine while soaking in the coastal ambiance.
 

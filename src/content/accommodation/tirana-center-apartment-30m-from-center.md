@@ -1,4 +1,77 @@
----\ntitle: "Tirana Center Apartment, 30m from center."\ndescription: "Tirana Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495729.jpg?k=f008ce15cb0f820cd7c402067182d4a7b99552dccd981c4e8285444d01c7da0d&o=&hp=1"\nlanguage: en\nslug: tirana-center-apartment-30m-from-center\naddress: "Rruga Ded Gjo Luli, 1031 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32980164\n  lng: 19.81555794\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 12\nratings:\n  overall: 9.7\n  location: 9.6\n  cleanliness: 9.8\n  facilities: 9.4\n  value: 9.8\n  comfort: 9.6\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495729.jpg?k=f008ce15cb0f820cd7c402067182d4a7b99552dccd981c4e8285444d01c7da0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495846.jpg?k=39dbdbf7e8b318e11a67f3b1e1c107aa187938efff27b615e8c09109d42dd574&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495923.jpg?k=981a9a0105b1e881b28700591792ba8ad5bcd5f033feff132c6adab0979c6449&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495943.jpg?k=53773cc21d77f5283f4eda1f772668b4d73197850fb427cdf404a5c577d0c124&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495874.jpg?k=ce0f291e7a2a8b7014a544ade21717d4ad5e0ca5f4b923c7b9f6b340733cf5ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495811.jpg?k=7a74ba895ee78ba27af25565c6f5b143ea269e48563989882cf25a55c834f839&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495908.jpg?k=4f5e68ff0aadac3443da70941a1321926fe092c5a170e9f734caf7e6baf28305&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495829.jpg?k=bed50de579c65398b02a2644083910346caade5e0ccc67e4af613511da81f6dd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495859.jpg?k=790ad00b5b2016fac2c1026d71cd72b0f4ae1a491c8adfb3179a7b3228273229&o=&hp=1"\namenities:\n  - "Parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 600 m"\n  - "Rinia Park 600 m"\n  - "Tanners' Bridge 950 m"\n  - "Former Residence of Enver Hoxha 1,000 m"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.4 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Laura"\n    country: "Kosovo"\n    text: "“Exeptional hospitality. Imagine that one can enter the apartment at 2:30 in the morning?!”"\n  - name: "Ajin"\n    country: "United Kingdom"\n    text: "“The Apartment is amazing. Very very close to the city centre. Very clean and very specious. A definite recommendation to anyone. Amazing host, picked us and was there for every need. Very accessable to public transport, site seeing, hotels and...”"\n  - name: "Thetis"\n    country: "Netherlands"\n    text: "“Very nice apartment at a perfect location. Totally recommended for you stay in Tirana. Super convenient with everything you need.”"\nbookingURL: "https://www.booking.com/hotel/al/tirana-center-apartment-30m-from-center.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nFor those intrigued by the city's rich history, the House of Leaves is just 500 meters away, offering a deep dive into Albania's past. Additionally, the iconic Skanderbeg Square, a hub of activity and culture, is conveniently located 600 meters from the doorstep, ensuring guests are never far from the heart of Tirana's bustling atmosphere.
+---
+title: "Tirana Center Apartment, 30m from center."
+description: "Tirana Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495729.jpg?k=f008ce15cb0f820cd7c402067182d4a7b99552dccd981c4e8285444d01c7da0d&o=&hp=1"
+language: en
+slug: tirana-center-apartment-30m-from-center
+address: "Rruga Ded Gjo Luli, 1031 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32980164
+  lng: 19.81555794
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 12
+ratings:
+  overall: 9.7
+  location: 9.6
+  cleanliness: 9.8
+  facilities: 9.4
+  value: 9.8
+  comfort: 9.6
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495729.jpg?k=f008ce15cb0f820cd7c402067182d4a7b99552dccd981c4e8285444d01c7da0d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495846.jpg?k=39dbdbf7e8b318e11a67f3b1e1c107aa187938efff27b615e8c09109d42dd574&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495923.jpg?k=981a9a0105b1e881b28700591792ba8ad5bcd5f033feff132c6adab0979c6449&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495943.jpg?k=53773cc21d77f5283f4eda1f772668b4d73197850fb427cdf404a5c577d0c124&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495874.jpg?k=ce0f291e7a2a8b7014a544ade21717d4ad5e0ca5f4b923c7b9f6b340733cf5ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495811.jpg?k=7a74ba895ee78ba27af25565c6f5b143ea269e48563989882cf25a55c834f839&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495908.jpg?k=4f5e68ff0aadac3443da70941a1321926fe092c5a170e9f734caf7e6baf28305&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495829.jpg?k=bed50de579c65398b02a2644083910346caade5e0ccc67e4af613511da81f6dd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495859.jpg?k=790ad00b5b2016fac2c1026d71cd72b0f4ae1a491c8adfb3179a7b3228273229&o=&hp=1"
+amenities:
+  - "Parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 600 m"
+  - "Rinia Park 600 m"
+  - "Tanners' Bridge 950 m"
+  - "Former Residence of Enver Hoxha 1,000 m"
+  - "Grand Park of Tirana 2.1 km"
+  - "Bunk'Art 1 Museum 4.4 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Laura"
+    country: "Kosovo"
+    text: "“Exeptional hospitality. Imagine that one can enter the apartment at 2:30 in the morning?!”"
+  - name: "Ajin"
+    country: "United Kingdom"
+    text: "“The Apartment is amazing. Very very close to the city centre. Very clean and very specious. A definite recommendation to anyone. Amazing host, picked us and was there for every need. Very accessable to public transport, site seeing, hotels and...”"
+  - name: "Thetis"
+    country: "Netherlands"
+    text: "“Very nice apartment at a perfect location. Totally recommended for you stay in Tirana. Super convenient with everything you need.”"
+bookingURL: "https://www.booking.com/hotel/al/tirana-center-apartment-30m-from-center.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+For those intrigued by the city's rich history, the House of Leaves is just 500 meters away, offering a deep dive into Albania's past. Additionally, the iconic Skanderbeg Square, a hub of activity and culture, is conveniently located 600 meters from the doorstep, ensuring guests are never far from the heart of Tirana's bustling atmosphere.
 
 The apartment itself does not skimp on amenities. It boasts a spacious layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchen, catering to all the needs of modern travelers. Entertainment is readily available with a flat-screen TV, complemented by the convenience of free WiFi throughout the property.
 

@@ -1,3 +1,61 @@
----\ntitle: "Casa Shtoj I Vjeter, Shkoder"\ndescription: "Casa Shtoj I Vjeter in Shkoder presents an inviting retreat for those seeking a blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469110.jpg?k=8665897ec848a980cbc3bad2d06b793901f23dc30fc0215c49b18cc21165e16c&o=&hp=1"\nlanguage: en\nslug: casa-shtoj-i-vjeter-shkoder\naddress: "Rruga e Hurmave, Shtoji i Vjetër, Albania"\ncity: "Shtoji i Vjetër"\nlocation: "Shtoji i Vjetër"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.11406464\n  lng: 19.5006577\nprice: "US$116"\npriceFrom: 116\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469110.jpg?k=8665897ec848a980cbc3bad2d06b793901f23dc30fc0215c49b18cc21165e16c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469335.jpg?k=04cfd782b103c3c1bf4566a2745090188322acc8f1088ebaf62a693fe593ce56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469345.jpg?k=a94c084c4b087599a21ed1544afb56433e0b6331fad417da1785612711faf8f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469311.jpg?k=dd226f6021939b8b94b95a6c4247a5cee1d0b615b299cb6b389922546983c645&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469265.jpg?k=bad686179143e1a4714a86e9e17b926913c199fb74d5672076a12f74dac61908&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469279.jpg?k=3ebe124f1a7079f15e176e5b1dc2eeeb35079078a3ddda98e3c797fffc5c7bb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469275.jpg?k=b67e63231146f324e36b085032b92308ef38f83f401554ea05452016a81b6307&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469299.jpg?k=7c7d0d1b45a5acc59207e3ed19f86d0ccdcbca5afd68865e484723100568aa94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469250.jpg?k=6f41c8a20832df9722af79e86822a7722f762d4a6fa22b7c3072edfd44f0f9b8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Four-Bedroom House"\nnearbyRestaurants:\n  - "Restorant Shtoji 650 m"\n  - "Bar Restorant Danilli 950 m"\nwhatsNearby:\n  - "National Park Skadar Lake 7 km"\n  - "Rozafa Castle Shkodra 8 km"\nairports:\n  - "Podgorica Airport 33 km"\n  - "Tivat Airport 70 km"\n  - "Tirana International Airport Mother Teresa 78 km"\nbookingURL: "https://www.booking.com/hotel/al/casa-shtoj-i-vjeter-shkoder-shtoj-i-vjeter9.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nAccommodating up to four bedrooms, the residence is ideal for families or groups. Its fully equipped kitchen caters to those who prefer home-cooked meals, while the inclusion of two bathrooms adds to the ease of stay. Entertainment is readily available through the provided flat-screen TV, and the garden views offer a serene backdrop to this cozy getaway.
+---
+title: "Casa Shtoj I Vjeter, Shkoder"
+description: "Casa Shtoj I Vjeter in Shkoder presents an inviting retreat for those seeking a blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469110.jpg?k=8665897ec848a980cbc3bad2d06b793901f23dc30fc0215c49b18cc21165e16c&o=&hp=1"
+language: en
+slug: casa-shtoj-i-vjeter-shkoder
+address: "Rruga e Hurmave, Shtoji i Vjetër, Albania"
+city: "Shtoji i Vjetër"
+location: "Shtoji i Vjetër"
+accommodationType: "villa"
+coordinates:
+  lat: 42.11406464
+  lng: 19.5006577
+price: "US$116"
+priceFrom: 116
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469110.jpg?k=8665897ec848a980cbc3bad2d06b793901f23dc30fc0215c49b18cc21165e16c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469335.jpg?k=04cfd782b103c3c1bf4566a2745090188322acc8f1088ebaf62a693fe593ce56&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469345.jpg?k=a94c084c4b087599a21ed1544afb56433e0b6331fad417da1785612711faf8f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469311.jpg?k=dd226f6021939b8b94b95a6c4247a5cee1d0b615b299cb6b389922546983c645&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469265.jpg?k=bad686179143e1a4714a86e9e17b926913c199fb74d5672076a12f74dac61908&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469279.jpg?k=3ebe124f1a7079f15e176e5b1dc2eeeb35079078a3ddda98e3c797fffc5c7bb7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469275.jpg?k=b67e63231146f324e36b085032b92308ef38f83f401554ea05452016a81b6307&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469299.jpg?k=7c7d0d1b45a5acc59207e3ed19f86d0ccdcbca5afd68865e484723100568aa94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469250.jpg?k=6f41c8a20832df9722af79e86822a7722f762d4a6fa22b7c3072edfd44f0f9b8&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Four-Bedroom House"
+nearbyRestaurants:
+  - "Restorant Shtoji 650 m"
+  - "Bar Restorant Danilli 950 m"
+whatsNearby:
+  - "National Park Skadar Lake 7 km"
+  - "Rozafa Castle Shkodra 8 km"
+airports:
+  - "Podgorica Airport 33 km"
+  - "Tivat Airport 70 km"
+  - "Tirana International Airport Mother Teresa 78 km"
+bookingURL: "https://www.booking.com/hotel/al/casa-shtoj-i-vjeter-shkoder-shtoj-i-vjeter9.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+Accommodating up to four bedrooms, the residence is ideal for families or groups. Its fully equipped kitchen caters to those who prefer home-cooked meals, while the inclusion of two bathrooms adds to the ease of stay. Entertainment is readily available through the provided flat-screen TV, and the garden views offer a serene backdrop to this cozy getaway.
 
 Located a manageable distance from Podgorica Airport, just 52 km away, Casa Shtoj I Vjeter combines accessibility with the tranquility of Shkoder's Shtoji i Vjetër area, making it a compelling choice for visitors to the region.

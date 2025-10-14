@@ -1,4 +1,95 @@
----\ntitle: "Hotel Lubjana"\ndescription: "Hotel Lubjana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, positioned just a stone's throw away from the serene Durres Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836777.jpg?k=7e7fcd5e15a869b6fcdf9b5f5859e593cc497b0057d45bae95ae667ba8347e69&o=&hp=1"\nlanguage: en\nslug: hotel-lubjana\naddress: "2008 Rruga Pavaresia, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.31337947\n  lng: 19.47813515\nprice: "US$47"\npriceFrom: 47\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 310\nratings:\n  overall: 9\n  location: 8.6\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9\n  comfort: 9.2\n  staff: 9.3\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836777.jpg?k=7e7fcd5e15a869b6fcdf9b5f5859e593cc497b0057d45bae95ae667ba8347e69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836603.jpg?k=8ec35d191d5df552c7e2af6bc967ef1fc17b46236863a98ca54075127777951c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366198040.jpg?k=d99a89599a15a8f6e975cf51550f24f377f5593d7c474c1d520f9121f0b9ba11&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836281.jpg?k=bb1e71303f232007ea27775b7bb630116ff4d916a80d743fc7ca001386fc92be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366198011.jpg?k=756c743ef0287499c0827b561dd1468c783f56f6a7f534c0298573d2ee129a1e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366835741.jpg?k=c72bbbbb886cdfca123f2fb8995c27582a62b8eaf2194731f5f0546388b00a2e&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony"\n  - "Deluxe Double Room with Balcony and Sea View"\n  - "Suite with Sea View"\n  - "Triple Room with Sea View"\nnearbyRestaurants:\n  - "Restorant Mira Mare 50 m"\n  - "Recep Tayyip Erdogan 100 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Currila Beach 2.7 km"\n  - "Kallmi Beach 3.9 km"\n  - "Shkëmbi i Kavajës Beach 4 km"\n  - "West End Beach 4.8 km"\nwhatsNearby:\n  - "Bekimi 1.6 km"\n  - "Wine Dhe Pooh 2.5 km"\n  - "Sheshi Demokracia 2.5 km"\n  - "Yje Dhe Hena 2.6 km"\n  - "Sotir Noka 2.8 km"\n  - "Durres Amphiteatre 2.8 km"\n  - "1. Maj 3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Sokołowska"\n    country: "Italy"\n    text: "“Exceptional value for money spent. The hotel seemed to have just been opened, everything was clean, staff was very nice, especially a Ukrainian girl who worked at the bar - super kind and entertaining. Tasty pastries at breakfast. We enjoyed it a...”"\n  - name: "Monchaya"\n    country: "Thailand"\n    text: "“The hotel staffs are excellent. Housekeeping, restaurants, receptionists and all sections are super friendly and effective”"\n  - name: "Craig"\n    country: "United Kingdom"\n    text: "“Second time I have stayed here in the last 3 months. Polite, professional, and cheerful staff who will do anything to make the stay great. The hotel is clean and we’ll set out. Rooms are bright and comfortable; the beds are especially comfy. This...”"\nbookingURL: "https://www.booking.com/hotel/al/lubjana-durres2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon arrival, guests are greeted with the promise of hassle-free parking in the hotel's private lot, setting the tone for a stay marked by ease and accessibility. The presence of a welcoming terrace invites guests to unwind in the open air, while the on-site restaurant and bar promise culinary delights and refreshing beverages to suit all palates.
+---
+title: "Hotel Lubjana"
+description: "Hotel Lubjana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, positioned just a stone's throw away from the serene Durres Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836777.jpg?k=7e7fcd5e15a869b6fcdf9b5f5859e593cc497b0057d45bae95ae667ba8347e69&o=&hp=1"
+language: en
+slug: hotel-lubjana
+address: "2008 Rruga Pavaresia, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.31337947
+  lng: 19.47813515
+price: "US$47"
+priceFrom: 47
+starRating: 4
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 310
+ratings:
+  overall: 9
+  location: 8.6
+  cleanliness: 9.3
+  facilities: 8.9
+  value: 9
+  comfort: 9.2
+  staff: 9.3
+  wifi: 8.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836777.jpg?k=7e7fcd5e15a869b6fcdf9b5f5859e593cc497b0057d45bae95ae667ba8347e69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836603.jpg?k=8ec35d191d5df552c7e2af6bc967ef1fc17b46236863a98ca54075127777951c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366198040.jpg?k=d99a89599a15a8f6e975cf51550f24f377f5593d7c474c1d520f9121f0b9ba11&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836281.jpg?k=bb1e71303f232007ea27775b7bb630116ff4d916a80d743fc7ca001386fc92be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366198011.jpg?k=756c743ef0287499c0827b561dd1468c783f56f6a7f534c0298573d2ee129a1e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366835741.jpg?k=c72bbbbb886cdfca123f2fb8995c27582a62b8eaf2194731f5f0546388b00a2e&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+  - "Good breakfast"
+roomTypes:
+  - "Deluxe Double Room with Balcony"
+  - "Deluxe Double Room with Balcony and Sea View"
+  - "Suite with Sea View"
+  - "Triple Room with Sea View"
+nearbyRestaurants:
+  - "Restorant Mira Mare 50 m"
+  - "Recep Tayyip Erdogan 100 m"
+nearbyBeaches:
+  - "Durres Beach 100 m"
+  - "Currila Beach 2.7 km"
+  - "Kallmi Beach 3.9 km"
+  - "Shkëmbi i Kavajës Beach 4 km"
+  - "West End Beach 4.8 km"
+whatsNearby:
+  - "Bekimi 1.6 km"
+  - "Wine Dhe Pooh 2.5 km"
+  - "Sheshi Demokracia 2.5 km"
+  - "Yje Dhe Hena 2.6 km"
+  - "Sotir Noka 2.8 km"
+  - "Durres Amphiteatre 2.8 km"
+  - "1. Maj 3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Sokołowska"
+    country: "Italy"
+    text: "“Exceptional value for money spent. The hotel seemed to have just been opened, everything was clean, staff was very nice, especially a Ukrainian girl who worked at the bar - super kind and entertaining. Tasty pastries at breakfast. We enjoyed it a...”"
+  - name: "Monchaya"
+    country: "Thailand"
+    text: "“The hotel staffs are excellent. Housekeeping, restaurants, receptionists and all sections are super friendly and effective”"
+  - name: "Craig"
+    country: "United Kingdom"
+    text: "“Second time I have stayed here in the last 3 months. Polite, professional, and cheerful staff who will do anything to make the stay great. The hotel is clean and we’ll set out. Rooms are bright and comfortable; the beds are especially comfy. This...”"
+bookingURL: "https://www.booking.com/hotel/al/lubjana-durres2.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Upon arrival, guests are greeted with the promise of hassle-free parking in the hotel's private lot, setting the tone for a stay marked by ease and accessibility. The presence of a welcoming terrace invites guests to unwind in the open air, while the on-site restaurant and bar promise culinary delights and refreshing beverages to suit all palates.
 
 For those arriving from afar or planning their departure, Hotel Lubjana's commitment to convenience is further underscored by its 24-hour front desk service, offering airport transfers that ensure seamless travel arrangements. The addition of complimentary WiFi throughout the property allows guests to stay connected, whether for leisure or business purposes.
 

@@ -1,6 +1,82 @@
----\ntitle: "Cozy Seaview Apartment Vollga Central"\ndescription: "Cozy Seaview Apartment Vollga Central emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414314010.jpg?k=a063ff360a46c05079b97e96e3cffce05651c8d07b4e46d773af38ee2bb614ab&o=&hp=1"\nlanguage: en\nslug: cozy-seaview-apartment-vollga-central\naddress: "Rruga Taulantia, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31194878\n  lng: 19.43597954\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 16\nratings:\n  overall: 9.6\n  location: 9.8\n  cleanliness: 9.5\n  facilities: 9.7\n  value: 9.4\n  comfort: 9.7\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414314010.jpg?k=a063ff360a46c05079b97e96e3cffce05651c8d07b4e46d773af38ee2bb614ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496423.jpg?k=fd0d0e2f73c41f100e807b1355e6f484a8bbde5d85ef7d9281f7669807976b55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496426.jpg?k=18c6d12b0155cf0446b53b2523e3d332019da1e22aafd8fb4b2067a4b9634154&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496455.jpg?k=7a049f396ec0296539c76129324a89b88f79b91bf9db3dae7d00e8a6753db4a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414313029.jpg?k=65f0bd3efcfdfcef2f9b040e6279799abd321f1c6383f25371b26008e6d6b1eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496436.jpg?k=73e2d52fdda67804ce52cc77dba772fc9724708cab37f7cd6d1c346513e2cb4d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496439.jpg?k=6a9308225a0eff757a2c484929bd944661e63c53c280d3cd7253528427c9c3f8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496422.jpg?k=11ccdedcd2313e05906a7a56c0cebdb963445bd3ae0249daf3bf338a00dc19e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464366532.jpg?k=0f7c79dcdd29f4c72b1d2775ab95af12116bb9008b924142ec82e2b15eadb352&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Private beach area"\nroomTypes:\n  - "Apartment with Sea View"\nnearbyRestaurants:\n  - "Pasticeri Cialda 7 m"\n  - "Fish House 40 m"\nwhatsNearby:\n  - "1. Maj 550 m"\n  - "Durres Amphiteatre 750 m"\n  - "Yje Dhe Hena 1.1 km"\n  - "Wine Dhe Pooh 1.2 km"\n  - "Sheshi Demokracia 1.2 km"\n  - "Sotir Noka 1.3 km"\n  - "Bekimi 4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Juliet"\n    country: "United Kingdom"\n    text: "“Apartment was huge and very well equipped. The host was extremely accommodating. Initially, she was willing to extend the checkout time to enable us to leave bags whilst seeing the sights of Durres.
-We had only booked for one night but I broke my...”"\n  - name: "Tiffany"\n    country: "Australia"\n    text: "“Our host Casey was fantastic..so much communication, help and tips!
-The apartment was a really good size, the view is amazing, and the location is central. Casey made everything super easy.”"\n  - name: "Ismadi"\n    country: "Singapore"\n    text: "“Sea view is superb! Very spacious! Feels at home. Fully equipped with all you need in an apartment. Communication with host is very good, with clear instructions on how to check in & prompt responses. Very near to city centre with wide range of...”"\nbookingURL: "https://www.booking.com/hotel/al/cosy-apartment-vollga.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spaciousness and comfort, boasting two well-appointed bedrooms, a bathroom complete with essential linens and towels, and a living area that includes a flat-screen TV with streaming services for entertainment. The dining space, fully equipped kitchen, and a balcony offering panoramic views of the sea further enhance the living experience. Notably, the apartment is designed with air conditioning, soundproofing, and even a cozy fireplace, catering to guests' needs for comfort and privacy. Additionally, the property provides captivating mountain vistas, adding another layer of tranquility to the stay.
+---
+title: "Cozy Seaview Apartment Vollga Central"
+description: "Cozy Seaview Apartment Vollga Central emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414314010.jpg?k=a063ff360a46c05079b97e96e3cffce05651c8d07b4e46d773af38ee2bb614ab&o=&hp=1"
+language: en
+slug: cozy-seaview-apartment-vollga-central
+address: "Rruga Taulantia, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31194878
+  lng: 19.43597954
+price: "US$53"
+priceFrom: 53
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 16
+ratings:
+  overall: 9.6
+  location: 9.8
+  cleanliness: 9.5
+  facilities: 9.7
+  value: 9.4
+  comfort: 9.7
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414314010.jpg?k=a063ff360a46c05079b97e96e3cffce05651c8d07b4e46d773af38ee2bb614ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496423.jpg?k=fd0d0e2f73c41f100e807b1355e6f484a8bbde5d85ef7d9281f7669807976b55&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496426.jpg?k=18c6d12b0155cf0446b53b2523e3d332019da1e22aafd8fb4b2067a4b9634154&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496455.jpg?k=7a049f396ec0296539c76129324a89b88f79b91bf9db3dae7d00e8a6753db4a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414313029.jpg?k=65f0bd3efcfdfcef2f9b040e6279799abd321f1c6383f25371b26008e6d6b1eb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496436.jpg?k=73e2d52fdda67804ce52cc77dba772fc9724708cab37f7cd6d1c346513e2cb4d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496439.jpg?k=6a9308225a0eff757a2c484929bd944661e63c53c280d3cd7253528427c9c3f8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407496422.jpg?k=11ccdedcd2313e05906a7a56c0cebdb963445bd3ae0249daf3bf338a00dc19e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464366532.jpg?k=0f7c79dcdd29f4c72b1d2775ab95af12116bb9008b924142ec82e2b15eadb352&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Private beach area"
+roomTypes:
+  - "Apartment with Sea View"
+nearbyRestaurants:
+  - "Pasticeri Cialda 7 m"
+  - "Fish House 40 m"
+whatsNearby:
+  - "1. Maj 550 m"
+  - "Durres Amphiteatre 750 m"
+  - "Yje Dhe Hena 1.1 km"
+  - "Wine Dhe Pooh 1.2 km"
+  - "Sheshi Demokracia 1.2 km"
+  - "Sotir Noka 1.3 km"
+  - "Bekimi 4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+reviews:
+  - name: "Juliet"
+    country: "United Kingdom"
+    text: "“Apartment was huge and very well equipped. The host was extremely accommodating. Initially, she was willing to extend the checkout time to enable us to leave bags whilst seeing the sights of Durres.
+We had only booked for one night but I broke my...”"
+  - name: "Tiffany"
+    country: "Australia"
+    text: "“Our host Casey was fantastic..so much communication, help and tips!
+The apartment was a really good size, the view is amazing, and the location is central. Casey made everything super easy.”"
+  - name: "Ismadi"
+    country: "Singapore"
+    text: "“Sea view is superb! Very spacious! Feels at home. Fully equipped with all you need in an apartment. Communication with host is very good, with clear instructions on how to check in & prompt responses. Very near to city centre with wide range of...”"
+bookingURL: "https://www.booking.com/hotel/al/cosy-apartment-vollga.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a study in spaciousness and comfort, boasting two well-appointed bedrooms, a bathroom complete with essential linens and towels, and a living area that includes a flat-screen TV with streaming services for entertainment. The dining space, fully equipped kitchen, and a balcony offering panoramic views of the sea further enhance the living experience. Notably, the apartment is designed with air conditioning, soundproofing, and even a cozy fireplace, catering to guests' needs for comfort and privacy. Additionally, the property provides captivating mountain vistas, adding another layer of tranquility to the stay.
 
 For convenience, a minimarket is located on-site, and guests will find a variety of dining options in the vicinity, making it easy to explore local flavors. Positioned 40 km from Skanderbeg Square and 44 km from the Dajti Ekspres Cable Car, the apartment offers a perfect base for exploring the wider Durrës area. Tirana International Mother Teresa Airport, the nearest airport, is 34 km away, facilitating easy travel arrangements for international and domestic visitors alike.
 

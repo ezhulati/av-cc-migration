@@ -1,6 +1,87 @@
----\ntitle: "Equador Sea View Apartment"\ndescription: "Equador Sea View Apartment emerges as a prime choice for travelers seeking a serene getaway in Sarandë, boasting an enviable location just a stone's throw away from the pristine Flamingo Beach and a short stroll from the vibrant Mango Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248053767.jpg?k=b3b2e491392046e5dcb83f07fafbdc91f841a9a529a7c8bb14978ab2d4b4da67&o=&hp=1"\nlanguage: en\nslug: equador-sea-view-apartment\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.85072202\n  lng: 20.02195536\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 10\nratings:\n  overall: 9.3\n  location: 8.8\n  cleanliness: 9.3\n  facilities: 9.3\n  value: 9\n  comfort: 9.3\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248053767.jpg?k=b3b2e491392046e5dcb83f07fafbdc91f841a9a529a7c8bb14978ab2d4b4da67&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039872.jpg?k=66e6067b6df4ed5b6c0e0ec574be216985578b3dcf34542d0e0546d1cb3ec50c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248042428.jpg?k=d1b38ec07797f3504ff5ef4274a30f480ce516c20273bc15befeff10838920c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296380205.jpg?k=d492e20e36c08d9310bec284260bfb5bab8c9f26ff1e728223a9f71686627507&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039877.jpg?k=9abcccf8782648c4fc5c35b03919bb6c230e498a9afeee6cfb4a7c98d190c58d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039885.jpg?k=9112620385ac73f2a62eb423ffa0ff4bb7fcd127b109c6de6c4684009d5d8a14&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248042297.jpg?k=a8228c0afec72822a11bde736b1b98b477f8842a1ce41f256b2ddc3ba2f39d70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039879.jpg?k=6058cc277fcfdd6c0011464eb0157d70eaa1f8a39f8dc6f3ec83c1c1823a5a6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248078802.jpg?k=10b7ddedff740f87c01a0b3e80bb8b43da0683d20c57c99ae51570dd65230ce1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039870.jpg?k=aa7ba53f551f46fac097f0638a309b5e2a47074da7c184ae88352ae5110e5011&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039886.jpg?k=8ba9a03bf67ee000e1aca30ff6613bf797fd49ed3a9e4a02e2746992cc98cff5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296379292.jpg?k=eb4475b776534eaa337008a96c89a3e567da13307244bde4c8ec15f7622ecd61&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Clubitalianelmondo 150 m"\n  - "Sunrise 150 m"\nnearbyBeaches:\n  - "Mango Beach 100 m"\n  - "Flamingo Beach 450 m"\n  - "Santa Quaranta Beach 800 m"\n  - "VIP Beach 900 m"\n  - "Heaven Beach 1.6 km"\nwhatsNearby:\n  - "Butrint National Park 250 m"\n  - "Parc National de Butrint 950 m"\n  - "Plazhi I Krorezes 6 km"\n  - "Parku Kombetar I Butrintit 9 km"\n  - "Butrint National Park 10 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "Dragana"\n    country: "Bosnia and Herzegovina"\n    text: "“We liked almost everything, the location of the apartment, far from the city crowd, a wonderful beach that is clean and tidy, close to shops and restaurants. A well-equipped apartment with free parking. Kudos to the hosts!”"\n  - name: "Jeja1409"\n    country: "Serbia"\n    text: "“The entire facility where the apartment is located is extremely clean and tidy. Excellent location. The apartment has an exceptional view of the sea. The equipment of the apartment is commendable.”"\n  - name: "Renáta"\n    country: "Hungary"\n    text: "“beautiful view
+---
+title: "Equador Sea View Apartment"
+description: "Equador Sea View Apartment emerges as a prime choice for travelers seeking a serene getaway in Sarandë, boasting an enviable location just a stone's throw away from the pristine Flamingo Beach and a short stroll from the vibrant Mango Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248053767.jpg?k=b3b2e491392046e5dcb83f07fafbdc91f841a9a529a7c8bb14978ab2d4b4da67&o=&hp=1"
+language: en
+slug: equador-sea-view-apartment
+address: "Rruga Butrinti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.85072202
+  lng: 20.02195536
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 10
+ratings:
+  overall: 9.3
+  location: 8.8
+  cleanliness: 9.3
+  facilities: 9.3
+  value: 9
+  comfort: 9.3
+  staff: 9.3
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248053767.jpg?k=b3b2e491392046e5dcb83f07fafbdc91f841a9a529a7c8bb14978ab2d4b4da67&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039872.jpg?k=66e6067b6df4ed5b6c0e0ec574be216985578b3dcf34542d0e0546d1cb3ec50c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248042428.jpg?k=d1b38ec07797f3504ff5ef4274a30f480ce516c20273bc15befeff10838920c7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296380205.jpg?k=d492e20e36c08d9310bec284260bfb5bab8c9f26ff1e728223a9f71686627507&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039877.jpg?k=9abcccf8782648c4fc5c35b03919bb6c230e498a9afeee6cfb4a7c98d190c58d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039885.jpg?k=9112620385ac73f2a62eb423ffa0ff4bb7fcd127b109c6de6c4684009d5d8a14&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248042297.jpg?k=a8228c0afec72822a11bde736b1b98b477f8842a1ce41f256b2ddc3ba2f39d70&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039879.jpg?k=6058cc277fcfdd6c0011464eb0157d70eaa1f8a39f8dc6f3ec83c1c1823a5a6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248078802.jpg?k=10b7ddedff740f87c01a0b3e80bb8b43da0683d20c57c99ae51570dd65230ce1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039870.jpg?k=aa7ba53f551f46fac097f0638a309b5e2a47074da7c184ae88352ae5110e5011&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248039886.jpg?k=8ba9a03bf67ee000e1aca30ff6613bf797fd49ed3a9e4a02e2746992cc98cff5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296379292.jpg?k=eb4475b776534eaa337008a96c89a3e567da13307244bde4c8ec15f7622ecd61&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Clubitalianelmondo 150 m"
+  - "Sunrise 150 m"
+nearbyBeaches:
+  - "Mango Beach 100 m"
+  - "Flamingo Beach 450 m"
+  - "Santa Quaranta Beach 800 m"
+  - "VIP Beach 900 m"
+  - "Heaven Beach 1.6 km"
+whatsNearby:
+  - "Butrint National Park 250 m"
+  - "Parc National de Butrint 950 m"
+  - "Plazhi I Krorezes 6 km"
+  - "Parku Kombetar I Butrintit 9 km"
+  - "Butrint National Park 10 km"
+airports:
+  - "Corfu International Airport 28 km"
+  - "Ioannina Airport 69 km"
+reviews:
+  - name: "Dragana"
+    country: "Bosnia and Herzegovina"
+    text: "“We liked almost everything, the location of the apartment, far from the city crowd, a wonderful beach that is clean and tidy, close to shops and restaurants. A well-equipped apartment with free parking. Kudos to the hosts!”"
+  - name: "Jeja1409"
+    country: "Serbia"
+    text: "“The entire facility where the apartment is located is extremely clean and tidy. Excellent location. The apartment has an exceptional view of the sea. The equipment of the apartment is commendable.”"
+  - name: "Renáta"
+    country: "Hungary"
+    text: "“beautiful view
 spacious, comfortable accommodation
-helpful host”"\nbookingURL: "https://www.booking.com/hotel/al/equador-sea-view-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a haven of comfort and convenience, featuring air conditioning for those warm Mediterranean days. It houses a spacious bedroom, a cozy living room, and a fully equipped kitchen complete with an oven and coffee machine, ensuring guests feel right at home. The bathroom is modern and includes a walk-in shower and hairdryer, catering to all needs.
+helpful host”"
+bookingURL: "https://www.booking.com/hotel/al/equador-sea-view-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The apartment itself is a haven of comfort and convenience, featuring air conditioning for those warm Mediterranean days. It houses a spacious bedroom, a cozy living room, and a fully equipped kitchen complete with an oven and coffee machine, ensuring guests feel right at home. The bathroom is modern and includes a walk-in shower and hairdryer, catering to all needs.
 
 One of the standout features of this accommodation is the outdoor dining area, where guests can savor their meals against the backdrop of the expansive sea. The apartment also prioritizes guest privacy and comfort with soundproofing and a private entrance.
 

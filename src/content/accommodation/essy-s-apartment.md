@@ -1,3 +1,67 @@
----\ntitle: "Essy's Apartment"\ndescription: "Essy's Apartment in Korçë emerges as a serene retreat, perfectly positioned 44 km from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755687.jpg?k=00fc6023b344ab1a5aa0ade75d88136b0485a8556b489ff89f9261296e1cf203&o=&hp=1"\nlanguage: en\nslug: essy-s-apartment\naddress: "Rruga Viktor Eftimiu, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.60989031\n  lng: 20.77716353\nprice: "US$54"\npriceFrom: 54\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 31\nratings:\n  overall: 9.8\n  location: 9.3\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.8\n  comfort: 9.9\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755687.jpg?k=00fc6023b344ab1a5aa0ade75d88136b0485a8556b489ff89f9261296e1cf203&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755693.jpg?k=f3e13614f7b941dcb68cfe6b04b20f00ce6c235af49a17cb86c6f8c95051eff1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755683.jpg?k=a4a0c7f9ac95993814e3192cb68ad3709d6c9293f750f170e2fcacf878cd2923&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490670817.jpg?k=365cb080c933cb5301af1cc983c46dfbc24ad908429dcdc625e32994a4c2af80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490669343.jpg?k=7a48266cc4c8a7e01881312b6e793cce4b03a868cadb9de0aa47ef78553340c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755689.jpg?k=47b846f69ea1efc0776b4e482ac23e51ffed224ba211fb232b6c249975c40bbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755680.jpg?k=278dac994cf9b595d18c0ed76ac25a8899c0b80fe83aa79543c4ed210d03bc55&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487854584.jpg?k=22ddf224ed1809d5e8bc12d4d1dfb054f56053910599db0f5d069ffe311ce351&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487854606.jpg?k=4b2269f9ab2c41d948076f2e897c4050c90b05666c3f799f5cd786a42d8594cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490669110.jpg?k=975632075044e274d3f9aece7296c485e5081b1a25a4f2de5e17e16abd54ee60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755691.jpg?k=d744dc0c5c2f09e885056fcd3c2dc4cf2728567ce4b038053046887960519288&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755698.jpg?k=c58ad4359bc8936286828e7142b325ccc08485d2e3c3f9e0cd19d8d0c3e5ada9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nreviews:\n  - name: "Romina"\n    country: "Albania"\n    text: "“Essy Apartment nuk është hera e parë që e vizitoj. Saherë që vi në Korçë, është zgjedhja ime. Më pëlqen komforti që ofron ky apartament. Kushtet, pastërtia, pritja etj”"\n  - name: "Elena"\n    country: "Albania"\n    text: "“Gjithçka e kompletuar me detaje. Pastertia e jashtezakonshme, apartamenti ishte super komod dhe i ngrohte. Staffi shume i mire & miqesor & i gatshem per te ndihmuar ne gjithçka. Do ta rekomandoj me shume kenaqesi.”"\n  - name: "Ina"\n    country: "Albania"\n    text: "“The apartment was really cozy and spacious and had all facilities needed. Super clean and comfortable. It is a 10 minute walking distance from the city center. We really enjoyed our stay and would come back again.”"\nbookingURL: "https://www.booking.com/hotel/al/esters-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests can enjoy the modern comforts of home, including air conditioning, complimentary WiFi, and a flat-screen TV. The apartment is equipped with a washing machine and a fully outfitted kitchen, complete with a microwave, ensuring a hassle-free stay. For those seeking additional ease, towels and linens are available upon request. Emphasizing a commitment to a clean and healthy environment, the accommodation maintains a strict non-smoking policy.
+---
+title: "Essy's Apartment"
+description: "Essy's Apartment in Korçë emerges as a serene retreat, perfectly positioned 44 km from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755687.jpg?k=00fc6023b344ab1a5aa0ade75d88136b0485a8556b489ff89f9261296e1cf203&o=&hp=1"
+language: en
+slug: essy-s-apartment
+address: "Rruga Viktor Eftimiu, 7001 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.60989031
+  lng: 20.77716353
+price: "US$54"
+priceFrom: 54
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 31
+ratings:
+  overall: 9.8
+  location: 9.3
+  cleanliness: 9.9
+  facilities: 9.9
+  value: 9.8
+  comfort: 9.9
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755687.jpg?k=00fc6023b344ab1a5aa0ade75d88136b0485a8556b489ff89f9261296e1cf203&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755693.jpg?k=f3e13614f7b941dcb68cfe6b04b20f00ce6c235af49a17cb86c6f8c95051eff1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755683.jpg?k=a4a0c7f9ac95993814e3192cb68ad3709d6c9293f750f170e2fcacf878cd2923&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490670817.jpg?k=365cb080c933cb5301af1cc983c46dfbc24ad908429dcdc625e32994a4c2af80&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490669343.jpg?k=7a48266cc4c8a7e01881312b6e793cce4b03a868cadb9de0aa47ef78553340c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755689.jpg?k=47b846f69ea1efc0776b4e482ac23e51ffed224ba211fb232b6c249975c40bbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755680.jpg?k=278dac994cf9b595d18c0ed76ac25a8899c0b80fe83aa79543c4ed210d03bc55&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487854584.jpg?k=22ddf224ed1809d5e8bc12d4d1dfb054f56053910599db0f5d069ffe311ce351&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487854606.jpg?k=4b2269f9ab2c41d948076f2e897c4050c90b05666c3f799f5cd786a42d8594cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490669110.jpg?k=975632075044e274d3f9aece7296c485e5081b1a25a4f2de5e17e16abd54ee60&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755691.jpg?k=d744dc0c5c2f09e885056fcd3c2dc4cf2728567ce4b038053046887960519288&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755698.jpg?k=c58ad4359bc8936286828e7142b325ccc08485d2e3c3f9e0cd19d8d0c3e5ada9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+reviews:
+  - name: "Romina"
+    country: "Albania"
+    text: "“Essy Apartment nuk është hera e parë që e vizitoj. Saherë që vi në Korçë, është zgjedhja ime. Më pëlqen komforti që ofron ky apartament. Kushtet, pastërtia, pritja etj”"
+  - name: "Elena"
+    country: "Albania"
+    text: "“Gjithçka e kompletuar me detaje. Pastertia e jashtezakonshme, apartamenti ishte super komod dhe i ngrohte. Staffi shume i mire & miqesor & i gatshem per te ndihmuar ne gjithçka. Do ta rekomandoj me shume kenaqesi.”"
+  - name: "Ina"
+    country: "Albania"
+    text: "“The apartment was really cozy and spacious and had all facilities needed. Super clean and comfortable. It is a 10 minute walking distance from the city center. We really enjoyed our stay and would come back again.”"
+bookingURL: "https://www.booking.com/hotel/al/esters-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests can enjoy the modern comforts of home, including air conditioning, complimentary WiFi, and a flat-screen TV. The apartment is equipped with a washing machine and a fully outfitted kitchen, complete with a microwave, ensuring a hassle-free stay. For those seeking additional ease, towels and linens are available upon request. Emphasizing a commitment to a clean and healthy environment, the accommodation maintains a strict non-smoking policy.
 
 Located a mere 72 km from Kastoria National Airport, Essy's Apartment stands as an ideal choice for travelers seeking a blend of tranquility, convenience, and modern amenities.

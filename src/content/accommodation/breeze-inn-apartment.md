@@ -1,4 +1,78 @@
----\ntitle: "Breeze inn Apartment"\ndescription: "Breeze Inn Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382097.jpg?k=1eee928f6b5e26c5fc7325154aea31a5be7d3fb4c54bee949eac0b84ac27a840&o=&hp=1"\nlanguage: en\nslug: breeze-inn-apartment\naddress: "Rruga Hajredin Haxhiraj, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.46761469\n  lng: 19.48751607\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9.4\n  location: 9\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9.5\n  comfort: 9.5\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382097.jpg?k=1eee928f6b5e26c5fc7325154aea31a5be7d3fb4c54bee949eac0b84ac27a840&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385218.jpg?k=e3405c2928fe019839a8c3578f1bf3c2552cada1471c6d70e1d0612856c54081&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385317.jpg?k=b114e40f0d401fdf434e509ccae40fea0fb42b697cfc2f48b1753c8c5e82e871&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385293.jpg?k=8c22982e6119fa3b70f41c03e45822075d41ba507da2f5302e6721307ba856b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469384974.jpg?k=7f2864ca005444b56b513e15d43a4f16b494c995a6b3036763424c37855e0ef7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385255.jpg?k=b213b10379bba8150ec469af2ee417d07581e751690c36f1ac15b9701461f3a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469381948.jpg?k=10b884af2deb52bac1c41b9f938b731a5c9101c83d7d893067aa01495131364a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382100.jpg?k=d753776093be000b95011fb1c1e24f913939d8e0bbd094e718c196c16759840a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382120.jpg?k=2bbb08b9a2c221a35176255548fd44fcb7e25b9b795bdc13c1526482d31c42f5&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Lian 100 m"\n  - "Medusa 150 m"\nnearbyBeaches:\n  - "Vjetër Beach 1.7 km"\n  - "Vlore Beach 2.2 km"\n  - "Ri Beach 3.6 km"\n  - "Narta Beach 5 km"\n  - "Beach at Government Villas 5 km"\nwhatsNearby:\n  - "Independence Square 450 m"\n  - "Kuzum Baba 500 m"\n  - "Scooby Doo Vlore 3.5 km"\nreviews:\n  - name: "Brigit"\n    country: "Netherlands"\n    text: "“Received well by the owner, brand new, spotless apartment with great bathroom, decorated well, lights could be set to warm tint which is fantastic compared to the bright white TL lighting that is standard. Host is super accommodating and helped us...”"\n  - name: "Tina"\n    country: "Italy"\n    text: "“The structure from the outside is not wonderful, but the apartment is beautiful, new and very clean.”"\n  - name: "Ilariaruberto"\n    country: "Italy"\n    text: "“The apartment is wonderful, it fully respects the photos. Equipped with every comfort as described. There are sheets, towels, cutlery, flat iron, air conditioning and everything you need. I stayed 8 days and if I had to go back to Valona I would...”"\nbookingURL: "https://www.booking.com/hotel/al/breeze-inn-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to modern living, boasting a spacious layout that includes a bedroom, a living room, and a balcony offering captivating city views. The inclusion of a flat-screen TV, an equipped kitchenette complete with a fridge, and a bathroom featuring a bidet, ensures that guests have all the comforts of home at their fingertips. Notably, the apartment is designed to be non-smoking and soundproof, providing a peaceful retreat in the bustling city.
+---
+title: "Breeze inn Apartment"
+description: "Breeze Inn Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382097.jpg?k=1eee928f6b5e26c5fc7325154aea31a5be7d3fb4c54bee949eac0b84ac27a840&o=&hp=1"
+language: en
+slug: breeze-inn-apartment
+address: "Rruga Hajredin Haxhiraj, 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.46761469
+  lng: 19.48751607
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 5
+ratings:
+  overall: 9.4
+  location: 9
+  cleanliness: 9.5
+  facilities: 9.5
+  value: 9.5
+  comfort: 9.5
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382097.jpg?k=1eee928f6b5e26c5fc7325154aea31a5be7d3fb4c54bee949eac0b84ac27a840&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385218.jpg?k=e3405c2928fe019839a8c3578f1bf3c2552cada1471c6d70e1d0612856c54081&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385317.jpg?k=b114e40f0d401fdf434e509ccae40fea0fb42b697cfc2f48b1753c8c5e82e871&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385293.jpg?k=8c22982e6119fa3b70f41c03e45822075d41ba507da2f5302e6721307ba856b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469384974.jpg?k=7f2864ca005444b56b513e15d43a4f16b494c995a6b3036763424c37855e0ef7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469385255.jpg?k=b213b10379bba8150ec469af2ee417d07581e751690c36f1ac15b9701461f3a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469381948.jpg?k=10b884af2deb52bac1c41b9f938b731a5c9101c83d7d893067aa01495131364a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382100.jpg?k=d753776093be000b95011fb1c1e24f913939d8e0bbd094e718c196c16759840a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382120.jpg?k=2bbb08b9a2c221a35176255548fd44fcb7e25b9b795bdc13c1526482d31c42f5&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Lian 100 m"
+  - "Medusa 150 m"
+nearbyBeaches:
+  - "Vjetër Beach 1.7 km"
+  - "Vlore Beach 2.2 km"
+  - "Ri Beach 3.6 km"
+  - "Narta Beach 5 km"
+  - "Beach at Government Villas 5 km"
+whatsNearby:
+  - "Independence Square 450 m"
+  - "Kuzum Baba 500 m"
+  - "Scooby Doo Vlore 3.5 km"
+reviews:
+  - name: "Brigit"
+    country: "Netherlands"
+    text: "“Received well by the owner, brand new, spotless apartment with great bathroom, decorated well, lights could be set to warm tint which is fantastic compared to the bright white TL lighting that is standard. Host is super accommodating and helped us...”"
+  - name: "Tina"
+    country: "Italy"
+    text: "“The structure from the outside is not wonderful, but the apartment is beautiful, new and very clean.”"
+  - name: "Ilariaruberto"
+    country: "Italy"
+    text: "“The apartment is wonderful, it fully respects the photos. Equipped with every comfort as described. There are sheets, towels, cutlery, flat iron, air conditioning and everything you need. I stayed 8 days and if I had to go back to Valona I would...”"
+bookingURL: "https://www.booking.com/hotel/al/breeze-inn-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to modern living, boasting a spacious layout that includes a bedroom, a living room, and a balcony offering captivating city views. The inclusion of a flat-screen TV, an equipped kitchenette complete with a fridge, and a bathroom featuring a bidet, ensures that guests have all the comforts of home at their fingertips. Notably, the apartment is designed to be non-smoking and soundproof, providing a peaceful retreat in the bustling city.
 
 For those in need of essentials or a quick snack, the convenience of a minimarket on the premises adds an extra layer of ease to the stay. Furthermore, the proximity to Kuzum Baba, just 1.6 km away, invites guests to explore one of Vlorë's renowned landmarks.
 

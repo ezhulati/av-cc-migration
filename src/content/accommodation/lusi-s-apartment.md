@@ -1,3 +1,63 @@
----\ntitle: "Lusi's apartment"\ndescription: "Lusi's Apartment emerges as a serene retreat in Pogradec, perfectly positioned just a short drive from the enchanting Ohrid Lake Springs and the intriguing Bay of Bones."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174259.jpg?k=38d2c211a81948caaac731e5d86948fa731e3482000a9cf8eaef27eb6203e8c1&o=&hp=1"\nlanguage: en\nslug: lusi-s-apartment\naddress: "Rruga e Stadiumit, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.8997712\n  lng: 20.663316\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174259.jpg?k=38d2c211a81948caaac731e5d86948fa731e3482000a9cf8eaef27eb6203e8c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174447.jpg?k=f8bb1ee14ab13d79a08860ed653ab03a3afa978e50601d4ba735dcceca843bab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174362.jpg?k=69871fb2f7bed56783c2c5711f2ab574c1ddf08eb60823154f41793c2b26b5ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174328.jpg?k=f374ff79ab1d59a519f6336bcb57c54b8b5035321c30e6f2efe345e2a51c20a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174340.jpg?k=06fdc5987eb2d9adac30b867a43f3fbf2dbf0fed6ef85ac769d1612d2150a203&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174432.jpg?k=48136dba587a85ab9a246074fc81bf4407c492deab8469c5c197b690b1e57d6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174391.jpg?k=7a7a49cb9928b9af20835448bb7198ae0c0e429813cacf2a5313a29f11f82883&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174369.jpg?k=3ead0e63b80271e992cf668c4ccd71f0d034539189e70a1488f489c8e49094d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174366.jpg?k=86483045c3a36ad974f8036c2e9422f16f680e98cfa1c826695e5becacbc45e4&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Bossi 150 m"\n  - "Fast Food Pere 200 m"\nwhatsNearby:\n  - "Driloni National Park 500 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 71 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nbookingURL: "https://www.booking.com/hotel/al/lusis-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nThe apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a living area with a flat-screen TV, and a fully equipped kitchen. Here, culinary enthusiasts can enjoy the use of an oven, microwave, washing machine, toaster, and fridge - perfect for those who prefer a taste of home while traveling. The inclusion of towels and bed linen adds a touch of convenience to the experience.
+---
+title: "Lusi's apartment"
+description: "Lusi's Apartment emerges as a serene retreat in Pogradec, perfectly positioned just a short drive from the enchanting Ohrid Lake Springs and the intriguing Bay of Bones."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174259.jpg?k=38d2c211a81948caaac731e5d86948fa731e3482000a9cf8eaef27eb6203e8c1&o=&hp=1"
+language: en
+slug: lusi-s-apartment
+address: "Rruga e Stadiumit, 7301 Pogradec, Albania"
+city: "Pogradec"
+location: "Pogradec"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.8997712
+  lng: 20.663316
+price: "US$32"
+priceFrom: 32
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174259.jpg?k=38d2c211a81948caaac731e5d86948fa731e3482000a9cf8eaef27eb6203e8c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174447.jpg?k=f8bb1ee14ab13d79a08860ed653ab03a3afa978e50601d4ba735dcceca843bab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174362.jpg?k=69871fb2f7bed56783c2c5711f2ab574c1ddf08eb60823154f41793c2b26b5ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174328.jpg?k=f374ff79ab1d59a519f6336bcb57c54b8b5035321c30e6f2efe345e2a51c20a1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174340.jpg?k=06fdc5987eb2d9adac30b867a43f3fbf2dbf0fed6ef85ac769d1612d2150a203&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174432.jpg?k=48136dba587a85ab9a246074fc81bf4407c492deab8469c5c197b690b1e57d6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174391.jpg?k=7a7a49cb9928b9af20835448bb7198ae0c0e429813cacf2a5313a29f11f82883&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174369.jpg?k=3ead0e63b80271e992cf668c4ccd71f0d034539189e70a1488f489c8e49094d7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174366.jpg?k=86483045c3a36ad974f8036c2e9422f16f680e98cfa1c826695e5becacbc45e4&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Bossi 150 m"
+  - "Fast Food Pere 200 m"
+whatsNearby:
+  - "Driloni National Park 500 m"
+  - "National Park Galicica 7 km"
+  - "National Park Galicica 14 km"
+  - "Bay of Bones 16 km"
+airports:
+  - "Ohrid Airport 30 km"
+  - "Kastoria National Airport 71 km"
+  - "Tirana International Airport Mother Teresa 96 km"
+bookingURL: "https://www.booking.com/hotel/al/lusis-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a living area with a flat-screen TV, and a fully equipped kitchen. Here, culinary enthusiasts can enjoy the use of an oven, microwave, washing machine, toaster, and fridge - perfect for those who prefer a taste of home while traveling. The inclusion of towels and bed linen adds a touch of convenience to the experience.
 
 For those keen on exploring the spiritual heritage of the region, the Church of St. John at Kaneo and the Cave Church Archangel Michael are both within a 41 km radius, offering a glimpse into the area's rich ecclesiastical history. With Ohrid Airport only 45 km away, Lusi's Apartment stands as an accessible gateway for travelers seeking both tranquility and adventure in the heart of Pogradec.

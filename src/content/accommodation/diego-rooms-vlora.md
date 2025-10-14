@@ -1,3 +1,63 @@
----\ntitle: "Diego Rooms Vlora"\ndescription: "Diego Rooms Vlora emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering air-conditioned accommodations complete with a private balcony."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526463258.jpg?k=32f8077efc10e3da0bb12db9c6e255ef1cc64208e520cd4c80e1fec225920c45&o=&hp=1"\nlanguage: en\nslug: diego-rooms-vlora\naddress: "Rruga Francesko Krispi, 9405 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.43925773\n  lng: 19.49882779\nprice: "US$42"\npriceFrom: 42\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526463258.jpg?k=32f8077efc10e3da0bb12db9c6e255ef1cc64208e520cd4c80e1fec225920c45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526459267.jpg?k=50aaa12fbead20222cdd39b4fa330d5369ad77d743db058bb8a9f4fda8027b01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526460361.jpg?k=db99452002f8075deec2471da36411a551a36f173febf900ae3b26bca2cf8e6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526460034.jpg?k=2a841c04924cd2ca036468da53c34c714124cf33f1ff0fe4943a34074f1c3d7a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526458900.jpg?k=c519efb30d8159d1543eead0166654ea57633a1ff583d334041b72e2cb2046a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526466660.jpg?k=24114421a142f6361585d5bd3aa9966cd2a92b7cd5e0350304daa910f6220223&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526461101.jpg?k=c3187d746d915f1727bea05bbe17717ab2efb47975a748b9050edeac2706edf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476463861.jpg?k=6909ac1407e626ff3eb56fe8b863592291c6538c046425ef4cf380d1e6db65d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526459687.jpg?k=b2fa53cd572af461be24a9c54c593892766a0424f82974c3c4e4063c993ce7ec&o=&hp=1"\namenities:\n  - "Free parking"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Pizzeria City 250 m"\n  - "City lounge 300 m"\nnearbyBeaches:\n  - "Vlore Beach 500 m"\n  - "Ri Beach 550 m"\n  - "Vjetër Beach 2 km"\n  - "Beach at Government Villas 2.4 km"\n  - "Liro Beach 3.1 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 450 m"\n  - "Kuzum Baba 3.2 km"\n  - "Independence Square 3.6 km"\nbookingURL: "https://www.booking.com/hotel/al/diego-rooms-vlora.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests will find themselves enveloped in comfort within the holiday home, which features a spacious bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a terrace that presents breathtaking mountain views. The inclusion of a fully equipped kitchen, outfitted with a microwave and fridge, adds a touch of home, allowing guests the option to prepare their meals. The convenience of a modern bathroom with a bidet further enhances the living experience.
+---
+title: "Diego Rooms Vlora"
+description: "Diego Rooms Vlora emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering air-conditioned accommodations complete with a private balcony."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526463258.jpg?k=32f8077efc10e3da0bb12db9c6e255ef1cc64208e520cd4c80e1fec225920c45&o=&hp=1"
+language: en
+slug: diego-rooms-vlora
+address: "Rruga Francesko Krispi, 9405 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.43925773
+  lng: 19.49882779
+price: "US$42"
+priceFrom: 42
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526463258.jpg?k=32f8077efc10e3da0bb12db9c6e255ef1cc64208e520cd4c80e1fec225920c45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526459267.jpg?k=50aaa12fbead20222cdd39b4fa330d5369ad77d743db058bb8a9f4fda8027b01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526460361.jpg?k=db99452002f8075deec2471da36411a551a36f173febf900ae3b26bca2cf8e6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526460034.jpg?k=2a841c04924cd2ca036468da53c34c714124cf33f1ff0fe4943a34074f1c3d7a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526458900.jpg?k=c519efb30d8159d1543eead0166654ea57633a1ff583d334041b72e2cb2046a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526466660.jpg?k=24114421a142f6361585d5bd3aa9966cd2a92b7cd5e0350304daa910f6220223&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526461101.jpg?k=c3187d746d915f1727bea05bbe17717ab2efb47975a748b9050edeac2706edf4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476463861.jpg?k=6909ac1407e626ff3eb56fe8b863592291c6538c046425ef4cf380d1e6db65d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526459687.jpg?k=b2fa53cd572af461be24a9c54c593892766a0424f82974c3c4e4063c993ce7ec&o=&hp=1"
+amenities:
+  - "Free parking"
+roomTypes:
+  - "One-Bedroom House"
+nearbyRestaurants:
+  - "Pizzeria City 250 m"
+  - "City lounge 300 m"
+nearbyBeaches:
+  - "Vlore Beach 500 m"
+  - "Ri Beach 550 m"
+  - "Vjetër Beach 2 km"
+  - "Beach at Government Villas 2.4 km"
+  - "Liro Beach 3.1 km"
+whatsNearby:
+  - "Scooby Doo Vlore 450 m"
+  - "Kuzum Baba 3.2 km"
+  - "Independence Square 3.6 km"
+bookingURL: "https://www.booking.com/hotel/al/diego-rooms-vlora.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests will find themselves enveloped in comfort within the holiday home, which features a spacious bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a terrace that presents breathtaking mountain views. The inclusion of a fully equipped kitchen, outfitted with a microwave and fridge, adds a touch of home, allowing guests the option to prepare their meals. The convenience of a modern bathroom with a bidet further enhances the living experience.
 
 Situated 153 km from Tirana International Mother Teresa Airport, Diego Rooms Vlora offers a blend of convenience and tranquility, making it a compelling choice for those looking to immerse themselves in the beauty and culture of Vlorë.

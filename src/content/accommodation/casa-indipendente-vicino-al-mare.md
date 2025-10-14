@@ -1,7 +1,79 @@
----\ntitle: "casa indipendente vicino al mare"\ndescription: "Casa Indipendente Vicino al Mare emerges as a serene retreat in the heart of Orikum, Vlorë County, offering a tranquil escape with the convenience of nearby beaches such as Nettuno and Orikum."\nfeaturedImage: "https://graph.facebook.com/v2.9/1695461120571528/picture?type=square&height=64&width=64"\nlanguage: en\nslug: casa-indipendente-vicino-al-mare\naddress: "Via Giulio Cesare 67 Orikum, Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.32475619\n  lng: 19.47649386\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 3\nratings:\n  overall: 9.2\n  location: 6.7\n  cleanliness: 9.2\n  facilities: 10\n  value: 9.2\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/1695461120571528/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"\n  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481746988.jpg?k=fb426ad4e9d67cc253fbc10edab63044bb5137921df0bd66ec2122c15a7bd317&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481785712.jpg?k=bb3c1824b6a21d9f868ae9b77990d19407b65c59e83f278f5b3cc4a94fbd0c6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/481785716.jpg?k=f5f37484d34d7d03596122980053708868d0278c82ea976fbbfe2efae304d5f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785717.jpg?k=69642b5da0a24d0fe6a50656bda3f0bd38e334a266aa904c3a22eb7bcd34e938&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785711.jpg?k=7e37b266e17ec38520e38af2943c9c99f4c97b282ea2ee5fc6712978bc6810d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785710.jpg?k=047b855acc6f4ea4ca432b17872f16479e6271fa67a76d2c9076c4877d80f669&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785721.jpg?k=cf3059f8889749b099a1def8a762807a745b4caade9d5b893a4ca6f76d3b8411&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785723.jpg?k=6970e02365ee9b42b1e28fd696cac6be716f8de9ad605763102a8f27cf02b55f&o=&hp=1"\namenities:\n  - "Free parking"\nnearbyRestaurants:\n  - "Pastiçeri Epoca 300 m"\n  - "Mats Beach Bar and Cafe 450 m"\nnearbyBeaches:\n  - "Nettuno Beach 1.5 km"\n  - "Orikum Beach 1.6 km"\n  - "Baro Beach 1.9 km"\n  - "Al Breeze Beach 2.4 km"\n  - "Radhimë Beach 3.1 km"\nwhatsNearby:\n  - "Llogora National Park 13 km"\n  - "Scooby Doo Vlore 13 km"\n  - "Kuzum Baba 16 km"\n  - "Independence Square 16 km"\nairports:\n  - "Corfu International Airport 87 km"\nreviews:\n  - name: "Ilaria"\n    country: "Italy"\n    text: "“Tutto eccellente. Casa completa e vicina ai servizi.
+---
+title: "casa indipendente vicino al mare"
+description: "Casa Indipendente Vicino al Mare emerges as a serene retreat in the heart of Orikum, Vlorë County, offering a tranquil escape with the convenience of nearby beaches such as Nettuno and Orikum."
+featuredImage: "https://graph.facebook.com/v2.9/1695461120571528/picture?type=square&height=64&width=64"
+language: en
+slug: casa-indipendente-vicino-al-mare
+address: "Via Giulio Cesare 67 Orikum, Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.32475619
+  lng: 19.47649386
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 3
+ratings:
+  overall: 9.2
+  location: 6.7
+  cleanliness: 9.2
+  facilities: 10
+  value: 9.2
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://graph.facebook.com/v2.9/1695461120571528/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+  - "https://cf.bstatic.com/static/img/flags/12/es/0bcb9025339e650f3fbbcfb64ac38edd46efe4f6.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481746988.jpg?k=fb426ad4e9d67cc253fbc10edab63044bb5137921df0bd66ec2122c15a7bd317&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/481785712.jpg?k=bb3c1824b6a21d9f868ae9b77990d19407b65c59e83f278f5b3cc4a94fbd0c6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/481785716.jpg?k=f5f37484d34d7d03596122980053708868d0278c82ea976fbbfe2efae304d5f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785717.jpg?k=69642b5da0a24d0fe6a50656bda3f0bd38e334a266aa904c3a22eb7bcd34e938&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785711.jpg?k=7e37b266e17ec38520e38af2943c9c99f4c97b282ea2ee5fc6712978bc6810d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785710.jpg?k=047b855acc6f4ea4ca432b17872f16479e6271fa67a76d2c9076c4877d80f669&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785721.jpg?k=cf3059f8889749b099a1def8a762807a745b4caade9d5b893a4ca6f76d3b8411&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/481785723.jpg?k=6970e02365ee9b42b1e28fd696cac6be716f8de9ad605763102a8f27cf02b55f&o=&hp=1"
+amenities:
+  - "Free parking"
+nearbyRestaurants:
+  - "Pastiçeri Epoca 300 m"
+  - "Mats Beach Bar and Cafe 450 m"
+nearbyBeaches:
+  - "Nettuno Beach 1.5 km"
+  - "Orikum Beach 1.6 km"
+  - "Baro Beach 1.9 km"
+  - "Al Breeze Beach 2.4 km"
+  - "Radhimë Beach 3.1 km"
+whatsNearby:
+  - "Llogora National Park 13 km"
+  - "Scooby Doo Vlore 13 km"
+  - "Kuzum Baba 16 km"
+  - "Independence Square 16 km"
+airports:
+  - "Corfu International Airport 87 km"
+reviews:
+  - name: "Ilaria"
+    country: "Italy"
+    text: "“Tutto eccellente. Casa completa e vicina ai servizi.
 Parcheggio privato dentro al cancello.
 Personale super gentile e disponibile.
-Zona tranquilla senza rumori.”"\n  - name: "María"\n    country: "Spain"\n    text: "“La tranquilidad del lugar, se duerme muy bien. La hospitalidad de la anfitriona.”"\nbookingURL: "https://www.booking.com/hotel/al/casa-indipendente-vicino-al-mare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodation itself boasts a thoughtfully designed apartment that caters to the needs of modern travelers. Guests will find a cozy bedroom complemented by a living area equipped with a flat-screen TV, perfect for unwinding after a day of exploration. The apartment also features a well-equipped kitchen, allowing visitors the freedom to prepare their meals. The inclusion of a bathroom with both a bidet and a bath or shower adds a touch of convenience and comfort. Moreover, the seating area and fireplace offer a warm and inviting atmosphere, making it an ideal setting for relaxation.
+Zona tranquilla senza rumori.”"
+  - name: "María"
+    country: "Spain"
+    text: "“La tranquilidad del lugar, se duerme muy bien. La hospitalidad de la anfitriona.”"
+bookingURL: "https://www.booking.com/hotel/al/casa-indipendente-vicino-al-mare.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodation itself boasts a thoughtfully designed apartment that caters to the needs of modern travelers. Guests will find a cozy bedroom complemented by a living area equipped with a flat-screen TV, perfect for unwinding after a day of exploration. The apartment also features a well-equipped kitchen, allowing visitors the freedom to prepare their meals. The inclusion of a bathroom with both a bidet and a bath or shower adds a touch of convenience and comfort. Moreover, the seating area and fireplace offer a warm and inviting atmosphere, making it an ideal setting for relaxation.
 
 Adding to the appeal is the property's commitment to a smoke-free environment, ensuring a clean and healthy stay for all guests. The provision of free private parking further enhances the convenience factor, making it an effortless choice for travelers with vehicles.
 

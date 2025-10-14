@@ -1,6 +1,88 @@
----\ntitle: "BUJTINA IZET SELIMAj"\ndescription: "Discover the serene beauty of Valbonë with a stay at BUJTINA IZET SELIMAj, a charming guest house that promises breathtaking mountain views right from your window."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465195866.jpg?k=5cbf6156851455f0398f87b7d8b607a5d66869bb7781331f8af07a3f5f72f861&o=&hp=1"\nlanguage: en\nslug: bujtina-izet-selimaj\naddress: "Rruga Azem Hajdari 8, 8701 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.44588293\n  lng: 19.8857837\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 286\nratings:\n  overall: 8.5\n  location: 9.3\n  cleanliness: 8.5\n  facilities: 8.2\n  value: 8.8\n  comfort: 8.6\n  staff: 9.5\n  wifi: 6.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465195866.jpg?k=5cbf6156851455f0398f87b7d8b607a5d66869bb7781331f8af07a3f5f72f861&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464127510.jpg?k=fbaf4b47694d77e7130a47862b6430a944a32cdee138b761a6e169c6ffccdf23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356177115.jpg?k=aa886d4a55d8d2a2ce1c22773cdd1b532ed437237612296d75fd2759caa9c88b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275441308.jpg?k=2a57897d8df570afa69ec77e02b8b0e5696538b2bad4d5337a66bae61fac5d5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465195540.jpg?k=b3c63eeb16f73eef7204644acbce6b37850c33d374681e34202b25399c13cfce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464127925.jpg?k=aeff06ce7fe99148ae1a4501278cba886cfbf04128993bf3a7c661645228a760&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356176578.jpg?k=740c0b08bfcc65658494d437035621e5ae862e2dadd36e772f3808152d4e986b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384989215.jpg?k=8a5eda866a2862f83c89b37b65c88d2390e57a6c7d05c8320a01ee4c083d2671&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478390785.jpg?k=e7a5bd8c2e5517ff8504bd2af918c5a5ecb7039a8bb389ace3df4cb5a8a41d20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478390545.jpg?k=416a35cfef7574fed6f34fccf5961c4975a28cb4493fd9941e6f9d69d618cfde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464128412.jpg?k=8973c84c4fa27ae823b363b4efe7c50d814c47bdd923a174f0d5525b6c70ae60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464128099.jpg?k=42e1f54043a1b84e75aaee6cd2b90639deb5207ba9fa16d91a21faa3712c3cd1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Restaurant"\n  - "Free parking"\n  - "Good free WiFi (22 Mbps)"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nnearbyRestaurants:\n  - "Tahirs Café & Guesthouse 1.1 km"\n  - "Fusha E Gjes 2.1 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 2.6 km"\n  - "Prokletije National Park 4 km"\n  - "Theth National Park 4.8 km"\n  - "Theth National Park 9 km"\n  - "Nacionalni Park Prokletije 10 km"\n  - "Prokletije National Park 11 km"\n  - "Nacionalni park Prokletije 14 km"\n  - "Valbona Valley National Park 19 km"\nairports:\n  - "Podgorica Airport 52 km"\n  - "Tivat Airport 95 km"\n  - "Pristina International Airport 95 km"\nreviews:\n  - name: "Muhammad"\n    country: "Malaysia"\n    text: "“The location of the place was great. It was a nearby hiking area and it is accessible to walk to all sorts of hiking locations. There's a boy there and he has a fluent English so it helps a lot to ask questions etc”"\n  - name: "Antonio"\n    country: "Albania"\n    text: "“Comfortable room, warm and clean. Very welcoming host”"\n  - name: "Johannes"\n    country: "Germany"\n    text: "“Very nice and friendly family. The rooms are in the first floor of their house and on the evening the heawas on, very convenientin October. The food was very good.
+---
+title: "BUJTINA IZET SELIMAj"
+description: "Discover the serene beauty of Valbonë with a stay at BUJTINA IZET SELIMAj, a charming guest house that promises breathtaking mountain views right from your window."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465195866.jpg?k=5cbf6156851455f0398f87b7d8b607a5d66869bb7781331f8af07a3f5f72f861&o=&hp=1"
+language: en
+slug: bujtina-izet-selimaj
+address: "Rruga Azem Hajdari 8, 8701 Valbonë, Albania"
+city: "Valbonë"
+location: "Valbonë"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 42.44588293
+  lng: 19.8857837
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 286
+ratings:
+  overall: 8.5
+  location: 9.3
+  cleanliness: 8.5
+  facilities: 8.2
+  value: 8.8
+  comfort: 8.6
+  staff: 9.5
+  wifi: 6.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465195866.jpg?k=5cbf6156851455f0398f87b7d8b607a5d66869bb7781331f8af07a3f5f72f861&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464127510.jpg?k=fbaf4b47694d77e7130a47862b6430a944a32cdee138b761a6e169c6ffccdf23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356177115.jpg?k=aa886d4a55d8d2a2ce1c22773cdd1b532ed437237612296d75fd2759caa9c88b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275441308.jpg?k=2a57897d8df570afa69ec77e02b8b0e5696538b2bad4d5337a66bae61fac5d5b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465195540.jpg?k=b3c63eeb16f73eef7204644acbce6b37850c33d374681e34202b25399c13cfce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464127925.jpg?k=aeff06ce7fe99148ae1a4501278cba886cfbf04128993bf3a7c661645228a760&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356176578.jpg?k=740c0b08bfcc65658494d437035621e5ae862e2dadd36e772f3808152d4e986b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384989215.jpg?k=8a5eda866a2862f83c89b37b65c88d2390e57a6c7d05c8320a01ee4c083d2671&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478390785.jpg?k=e7a5bd8c2e5517ff8504bd2af918c5a5ecb7039a8bb389ace3df4cb5a8a41d20&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478390545.jpg?k=416a35cfef7574fed6f34fccf5961c4975a28cb4493fd9941e6f9d69d618cfde&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464128412.jpg?k=8973c84c4fa27ae823b363b4efe7c50d814c47bdd923a174f0d5525b6c70ae60&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464128099.jpg?k=42e1f54043a1b84e75aaee6cd2b90639deb5207ba9fa16d91a21faa3712c3cd1&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Restaurant"
+  - "Free parking"
+  - "Good free WiFi (22 Mbps)"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+nearbyRestaurants:
+  - "Tahirs Café & Guesthouse 1.1 km"
+  - "Fusha E Gjes 2.1 km"
+whatsNearby:
+  - "Valbona Valley National Park 0 m"
+  - "Parku Kombëtar Lugina e Valbonës 2.6 km"
+  - "Prokletije National Park 4 km"
+  - "Theth National Park 4.8 km"
+  - "Theth National Park 9 km"
+  - "Nacionalni Park Prokletije 10 km"
+  - "Prokletije National Park 11 km"
+  - "Nacionalni park Prokletije 14 km"
+  - "Valbona Valley National Park 19 km"
+airports:
+  - "Podgorica Airport 52 km"
+  - "Tivat Airport 95 km"
+  - "Pristina International Airport 95 km"
+reviews:
+  - name: "Muhammad"
+    country: "Malaysia"
+    text: "“The location of the place was great. It was a nearby hiking area and it is accessible to walk to all sorts of hiking locations. There's a boy there and he has a fluent English so it helps a lot to ask questions etc”"
+  - name: "Antonio"
+    country: "Albania"
+    text: "“Comfortable room, warm and clean. Very welcoming host”"
+  - name: "Johannes"
+    country: "Germany"
+    text: "“Very nice and friendly family. The rooms are in the first floor of their house and on the evening the heawas on, very convenientin October. The food was very good.
 They have a lovely garden with many flowers.
-The restaurant is also the meeting ...”"\nbookingURL: "https://www.booking.com/hotel/al/guest-hause-valbone.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at BUJTINA IZET SELIMAj are thoughtfully designed with comfort in mind, featuring family rooms that cater to guests of all ages. Select units boast the added luxury of a dressing room, ensuring privacy and space for all. Every room is equipped with a private bathroom, complete with a bath, blending functionality with comfort.
+The restaurant is also the meeting ...”"
+bookingURL: "https://www.booking.com/hotel/al/guest-hause-valbone.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at BUJTINA IZET SELIMAj are thoughtfully designed with comfort in mind, featuring family rooms that cater to guests of all ages. Select units boast the added luxury of a dressing room, ensuring privacy and space for all. Every room is equipped with a private bathroom, complete with a bath, blending functionality with comfort.
 
 For those looking to savor local flavors, the on-site restaurant serves up a variety of delectable dishes, while the terrace offers a perfect spot for relaxation and taking in the natural surroundings.
 

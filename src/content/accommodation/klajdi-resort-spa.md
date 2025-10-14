@@ -1,7 +1,102 @@
----\ntitle: "Klajdi Resort & SPA"\ndescription: "Klajdi Resort & SPA emerges as a modern oasis in Durrës, offering guests an exclusive slice of paradise with its private beach area and a plethora of amenities designed for comfort and relaxation."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260312288.jpg?k=5508991667766012377f3958ba0b0f897656f07ba2d4fde1532c80c9f741152c&o=&hp=1"\nlanguage: en\nslug: klajdi-resort-spa\naddress: "Mali i Robit, Golem, 2001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "resort"\ncoordinates:\n  lat: 41.23732392\n  lng: 19.51588824\nprice: "US$113"\npriceFrom: 113\nstarRating: 5\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 764\nratings:\n  overall: 8.8\n  location: 8.9\n  cleanliness: 9\n  facilities: 8.7\n  value: 8.5\n  comfort: 9\n  staff: 8.9\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260312288.jpg?k=5508991667766012377f3958ba0b0f897656f07ba2d4fde1532c80c9f741152c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269001483.jpg?k=f3731dfe7beb629a7551bc2dda22bea9ba924f9df016635d09703f171e867151&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269002346.jpg?k=cf59eb272d6ec5506fcf350c05d04491401aef83b85df0ad384c97da702e5adb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279972261.jpg?k=e336b6d59666f5905c7ccb7b6ba9add545db83f2cba1c2fe3363f2906fbd375a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480512957.jpg?k=28dfd8f678827177f885e29d0c7f132cbfb60721b40f27a2147bb677fe87ce44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321384408.jpg?k=9ed62c5b38e41fa34d49a9522a4ad12eaf117549c747b53eff040a4cabfcd11b&o=&hp=1"\namenities:\n  - "3 swimming pools"\n  - "Spa and wellness centre"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Bar"\n  - "Beachfront"\n  - "Private beach area"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Double Room"\n  - "Double Room with Balcony and Sea View"\n  - "Presidential Suite"\n  - "Suite with Terrace"\n  - "Deluxe Queen Suite"\n  - "Deluxe King Suite"\n  - "Standard Triple Room"\n  - "Superior Triple Room with Sea View"\n  - "Family Room"\nnearbyRestaurants:\n  - "Pizza Hallall 100 m"\n  - "Pizza Orjent 150 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 0 m"\n  - "Qerret Beach 800 m"\n  - "Golem Beach 1.2 km"\n  - "Shkëmbi i Kavajës Beach 3.1 km"\n  - "Durres Beach 5 km"\nwhatsNearby:\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Samuel"\n    country: "United Kingdom"\n    text: "“The rooms were clean, the view from the balcony is breath taking, I watched the sun rise and sunset everyday. Spent most time in the Sauna and restorant. Lovely experience.”"\n  - name: "Thelma"\n    country: "United Kingdom"\n    text: "“waking up to beach view was amazing
+---
+title: "Klajdi Resort & SPA"
+description: "Klajdi Resort & SPA emerges as a modern oasis in Durrës, offering guests an exclusive slice of paradise with its private beach area and a plethora of amenities designed for comfort and relaxation."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260312288.jpg?k=5508991667766012377f3958ba0b0f897656f07ba2d4fde1532c80c9f741152c&o=&hp=1"
+language: en
+slug: klajdi-resort-spa
+address: "Mali i Robit, Golem, 2001 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "resort"
+coordinates:
+  lat: 41.23732392
+  lng: 19.51588824
+price: "US$113"
+priceFrom: 113
+starRating: 5
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 764
+ratings:
+  overall: 8.8
+  location: 8.9
+  cleanliness: 9
+  facilities: 8.7
+  value: 8.5
+  comfort: 9
+  staff: 8.9
+  wifi: 8.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260312288.jpg?k=5508991667766012377f3958ba0b0f897656f07ba2d4fde1532c80c9f741152c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269001483.jpg?k=f3731dfe7beb629a7551bc2dda22bea9ba924f9df016635d09703f171e867151&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269002346.jpg?k=cf59eb272d6ec5506fcf350c05d04491401aef83b85df0ad384c97da702e5adb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279972261.jpg?k=e336b6d59666f5905c7ccb7b6ba9add545db83f2cba1c2fe3363f2906fbd375a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480512957.jpg?k=28dfd8f678827177f885e29d0c7f132cbfb60721b40f27a2147bb677fe87ce44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321384408.jpg?k=9ed62c5b38e41fa34d49a9522a4ad12eaf117549c747b53eff040a4cabfcd11b&o=&hp=1"
+amenities:
+  - "3 swimming pools"
+  - "Spa and wellness centre"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Bar"
+  - "Beachfront"
+  - "Private beach area"
+  - "Fabulous breakfast"
+roomTypes:
+  - "Double Room"
+  - "Double Room with Balcony and Sea View"
+  - "Presidential Suite"
+  - "Suite with Terrace"
+  - "Deluxe Queen Suite"
+  - "Deluxe King Suite"
+  - "Standard Triple Room"
+  - "Superior Triple Room with Sea View"
+  - "Family Room"
+nearbyRestaurants:
+  - "Pizza Hallall 100 m"
+  - "Pizza Orjent 150 m"
+nearbyBeaches:
+  - "Mali I Robit Beach 0 m"
+  - "Qerret Beach 800 m"
+  - "Golem Beach 1.2 km"
+  - "Shkëmbi i Kavajës Beach 3.1 km"
+  - "Durres Beach 5 km"
+whatsNearby:
+  - "Durres Amphiteatre 10 km"
+  - "1. Maj 10 km"
+  - "Wine Dhe Pooh 10 km"
+  - "Yje Dhe Hena 11 km"
+  - "Sheshi Demokracia 11 km"
+  - "Bekimi 11 km"
+  - "Sotir Noka 11 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Samuel"
+    country: "United Kingdom"
+    text: "“The rooms were clean, the view from the balcony is breath taking, I watched the sun rise and sunset everyday. Spent most time in the Sauna and restorant. Lovely experience.”"
+  - name: "Thelma"
+    country: "United Kingdom"
+    text: "“waking up to beach view was amazing
 breakfast was exceptional
 the gentleman-at the reception and the lady were both very friendly and helpful.Both spoke English
-All Restaurant staff were very helpful and accommodating(Macid served us all our...”"\n  - name: "Chisom"\n    country: "United Kingdom"\n    text: "“The location, the sunset, seaview from the rooms, general cleanliness and staff”"\nbookingURL: "https://www.booking.com/hotel/al/klajdi-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nFor those seeking a bit more luxury, select rooms boast balconies, providing a perfect setting for a morning coffee or evening wind-down, while suites elevate the experience further with additional seating areas. The resort doesn’t just cater to adults; a well-maintained garden houses a children's playground, making it a family-friendly destination where memories are waiting to be made.
+All Restaurant staff were very helpful and accommodating(Macid served us all our...”"
+  - name: "Chisom"
+    country: "United Kingdom"
+    text: "“The location, the sunset, seaview from the rooms, general cleanliness and staff”"
+bookingURL: "https://www.booking.com/hotel/al/klajdi-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+For those seeking a bit more luxury, select rooms boast balconies, providing a perfect setting for a morning coffee or evening wind-down, while suites elevate the experience further with additional seating areas. The resort doesn’t just cater to adults; a well-maintained garden houses a children's playground, making it a family-friendly destination where memories are waiting to be made.
 
 The Klajdi Resort & SPA ensures that guests’ needs are met around the clock with a 24-hour reception desk. After soaking up the sun on the beach, visitors can unwind at the on-site bar, which offers a variety of refreshing drinks in a relaxed atmosphere.
 

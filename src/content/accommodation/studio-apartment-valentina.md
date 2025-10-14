@@ -1,4 +1,62 @@
----\ntitle: "Studio Apartment Valentina"\ndescription: "Studio Apartment Valentina emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515503213.jpg?k=66360ac1c16968af68504143b338c11d1a5c4d0c65fd6d3f93a1300496e60d0e&o=&hp=1"\nlanguage: en\nslug: studio-apartment-valentina\naddress: "Rruga Omer Nishani, 1060 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34062242\n  lng: 19.82878544\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515503213.jpg?k=66360ac1c16968af68504143b338c11d1a5c4d0c65fd6d3f93a1300496e60d0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563954.jpg?k=8516ea1cd04e0adad04f6f0b5ac1234efb028f6578402f9b1fc05c126ce65fa2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563958.jpg?k=4a46f99827b3efcc9e89ee9b99299926f890559609685aefc66ddfddd38e3d52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514564007.jpg?k=4a8548c4bb4fc84f3121e4b4a4fd3135559c7f5b1b65997c5eb029dc9839da45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563976.jpg?k=a2cd8b4603a8ebf5ff3fce1f74a0f503a3cc8d8815481f3a4226b57c77268098&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563936.jpg?k=929d2cfc3fafabb8b7ea621b82105d0cf52be6acc7de647e4f398026eb95d72c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563944.jpg?k=c28a716b1999bcc8024ef86cdff75b92de9d4cc22d6f6adbc7336989cdd6a04f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563964.jpg?k=d7320e8171f633f4bb0508edcc4f26785144cec7b976ed21003530116220a2c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514753068.jpg?k=0e6a319df4d9d6c0891f595a2656c6aaf0c90fce341affc742764211526b77e9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Ahmet"\n    country: "Turkey"\n    text: "“Perfect, clean, house lady was a very good person, we were very satisfied”"\nbookingURL: "https://www.booking.com/hotel/al/studio-apartment-valentina.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself, having undergone recent renovations, presents a modern and cozy retreat. It boasts a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with all the essentials, including an oven, fridge, and washing machine. The provision of towels and bed linen adds a touch of home comfort, ensuring a restful stay. Notably, the property is committed to providing a smoke-free environment, enhancing the air quality and comfort for all guests.
+---
+title: "Studio Apartment Valentina"
+description: "Studio Apartment Valentina emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515503213.jpg?k=66360ac1c16968af68504143b338c11d1a5c4d0c65fd6d3f93a1300496e60d0e&o=&hp=1"
+language: en
+slug: studio-apartment-valentina
+address: "Rruga Omer Nishani, 1060 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.34062242
+  lng: 19.82878544
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515503213.jpg?k=66360ac1c16968af68504143b338c11d1a5c4d0c65fd6d3f93a1300496e60d0e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563954.jpg?k=8516ea1cd04e0adad04f6f0b5ac1234efb028f6578402f9b1fc05c126ce65fa2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563958.jpg?k=4a46f99827b3efcc9e89ee9b99299926f890559609685aefc66ddfddd38e3d52&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514564007.jpg?k=4a8548c4bb4fc84f3121e4b4a4fd3135559c7f5b1b65997c5eb029dc9839da45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563976.jpg?k=a2cd8b4603a8ebf5ff3fce1f74a0f503a3cc8d8815481f3a4226b57c77268098&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563936.jpg?k=929d2cfc3fafabb8b7ea621b82105d0cf52be6acc7de647e4f398026eb95d72c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563944.jpg?k=c28a716b1999bcc8024ef86cdff75b92de9d4cc22d6f6adbc7336989cdd6a04f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514563964.jpg?k=d7320e8171f633f4bb0508edcc4f26785144cec7b976ed21003530116220a2c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514753068.jpg?k=0e6a319df4d9d6c0891f595a2656c6aaf0c90fce341affc742764211526b77e9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Ahmet"
+    country: "Turkey"
+    text: "“Perfect, clean, house lady was a very good person, we were very satisfied”"
+bookingURL: "https://www.booking.com/hotel/al/studio-apartment-valentina.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself, having undergone recent renovations, presents a modern and cozy retreat. It boasts a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with all the essentials, including an oven, fridge, and washing machine. The provision of towels and bed linen adds a touch of home comfort, ensuring a restful stay. Notably, the property is committed to providing a smoke-free environment, enhancing the air quality and comfort for all guests.
 
 For added convenience, the apartment features an array of amenities designed to make the stay as effortless as possible. Complimentary WiFi and private parking on site are just the beginning. The presence of a lift, round-the-clock security, and currency exchange services on the premises speaks to the thoughtful consideration given to guest needs and security.
 

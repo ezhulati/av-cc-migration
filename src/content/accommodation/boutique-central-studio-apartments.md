@@ -1,5 +1,87 @@
----\ntitle: "Boutique Central Studio Apartments"\ndescription: "Boutique Central Studio Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789812.jpg?k=4182586acb07e34acb1de609aa3bb53689909145d62552714592a96092289db7&o=&hp=1"\nlanguage: en\nslug: boutique-central-studio-apartments\naddress: "Rruga Skenderbeu, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32990489\n  lng: 19.82162391\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 41\nratings:\n  overall: 9.3\n  location: 9.8\n  cleanliness: 9\n  facilities: 8.7\n  value: 9.1\n  comfort: 9.4\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789812.jpg?k=4182586acb07e34acb1de609aa3bb53689909145d62552714592a96092289db7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789839.jpg?k=1b698d474d9b5c20cbf32acd5ea6f7323681e15cc15b0e8a69fbae18b621c2a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855262.jpg?k=4191b7ef455d427911851c0a136271bf30316e829c8c46c3b8b592c1288f030a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855264.jpg?k=a2e6bec50f554c8f9d49df21d69fc93a0c0396f340d17c2919689307899e257f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789749.jpg?k=1e67b1d5d0f0f4eb397a6f5d2dd29c6e3271dfb176531b1555c126e9924a3913&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855244.jpg?k=58bc8eb070fa65e8733a6433853c1ab8bae13b7d4bcd5e8f8c533165eb321820&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "Studio"\n  - "Deluxe Studio"\nnearbyAttractions:\n  - "House of Leaves 550 m"\n  - "Rinia Park 650 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Opa - Greek Street Food (9 Katëshet) 40 m"\n  - "Pizaa 100 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 150 m"\n  - "Clock Tower Tirana 300 m"\n  - "Skanderbeg Square 300 m"\n  - "Parku Europa 350 m"\n  - "Sheshi Skënderbej 350 m"\n  - "National Museum of History Albania 350 m"\n  - "National Gallery of Arts Tirana 400 m"\n  - "Sheshi Rekreativ tek ish ATSh 450 m"\n  - "Amazing Nature 450 m"\n  - "Tanners' Bridge 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Jesus"\n    country: "Spain"\n    text: "“Staff is really friendly and kind. Location is excellent, next to everything”"\n  - name: "Richard"\n    country: "Switzerland"\n    text: "“great location a few minutes walk from the Skanderbeg square away. many food options around. safe neighbourhood.
-easy check-in with the host via whatsapp and the keys were quickly delivered. Easy to get to from the airport, as the airport bus...”"\n  - name: "Philip"\n    country: "United Arab Emirates"\n    text: "“The location was superb right in the middle of Tirana. The amenities provided were simple yet functional.”"\nbookingURL: "https://www.booking.com/hotel/al/boutique-central-studio-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach apartment in this complex is designed with the guest's comfort in mind, featuring air-conditioned units equipped with essential amenities such as a wardrobe, kettle, oven, fridge, and safety deposit box. The inclusion of a flat-screen TV, balcony, and a private bathroom with a walk-in shower adds a touch of luxury to the stay. For those concerned with privacy and noise, the soundproofing of all units ensures a peaceful retreat amidst the bustling city.
+---
+title: "Boutique Central Studio Apartments"
+description: "Boutique Central Studio Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789812.jpg?k=4182586acb07e34acb1de609aa3bb53689909145d62552714592a96092289db7&o=&hp=1"
+language: en
+slug: boutique-central-studio-apartments
+address: "Rruga Skenderbeu, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32990489
+  lng: 19.82162391
+price: "US$46"
+priceFrom: 46
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 41
+ratings:
+  overall: 9.3
+  location: 9.8
+  cleanliness: 9
+  facilities: 8.7
+  value: 9.1
+  comfort: 9.4
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789812.jpg?k=4182586acb07e34acb1de609aa3bb53689909145d62552714592a96092289db7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789839.jpg?k=1b698d474d9b5c20cbf32acd5ea6f7323681e15cc15b0e8a69fbae18b621c2a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855262.jpg?k=4191b7ef455d427911851c0a136271bf30316e829c8c46c3b8b592c1288f030a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855264.jpg?k=a2e6bec50f554c8f9d49df21d69fc93a0c0396f340d17c2919689307899e257f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506789749.jpg?k=1e67b1d5d0f0f4eb397a6f5d2dd29c6e3271dfb176531b1555c126e9924a3913&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399855244.jpg?k=58bc8eb070fa65e8733a6433853c1ab8bae13b7d4bcd5e8f8c533165eb321820&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+roomTypes:
+  - "Studio"
+  - "Deluxe Studio"
+nearbyAttractions:
+  - "House of Leaves 550 m"
+  - "Rinia Park 650 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 2 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Opa - Greek Street Food (9 Katëshet) 40 m"
+  - "Pizaa 100 m"
+whatsNearby:
+  - "Sheshi Sulejman Pasha 150 m"
+  - "Clock Tower Tirana 300 m"
+  - "Skanderbeg Square 300 m"
+  - "Parku Europa 350 m"
+  - "Sheshi Skënderbej 350 m"
+  - "National Museum of History Albania 350 m"
+  - "National Gallery of Arts Tirana 400 m"
+  - "Sheshi Rekreativ tek ish ATSh 450 m"
+  - "Amazing Nature 450 m"
+  - "Tanners' Bridge 550 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Jesus"
+    country: "Spain"
+    text: "“Staff is really friendly and kind. Location is excellent, next to everything”"
+  - name: "Richard"
+    country: "Switzerland"
+    text: "“great location a few minutes walk from the Skanderbeg square away. many food options around. safe neighbourhood.
+easy check-in with the host via whatsapp and the keys were quickly delivered. Easy to get to from the airport, as the airport bus...”"
+  - name: "Philip"
+    country: "United Arab Emirates"
+    text: "“The location was superb right in the middle of Tirana. The amenities provided were simple yet functional.”"
+bookingURL: "https://www.booking.com/hotel/al/boutique-central-studio-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each apartment in this complex is designed with the guest's comfort in mind, featuring air-conditioned units equipped with essential amenities such as a wardrobe, kettle, oven, fridge, and safety deposit box. The inclusion of a flat-screen TV, balcony, and a private bathroom with a walk-in shower adds a touch of luxury to the stay. For those concerned with privacy and noise, the soundproofing of all units ensures a peaceful retreat amidst the bustling city.
 
 The convenience extends beyond the apartments themselves, with each unit boasting a private entrance, free WiFi, and the option for private parking at a nominal fee. For guests looking to explore the vibrant surroundings, the area is renowned for its hiking trails, and the property facilitates adventure seekers with car hire services.
 

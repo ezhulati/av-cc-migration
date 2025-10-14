@@ -1,9 +1,85 @@
----\ntitle: "Vila Gridi- Apartamente me Qera"\ndescription: "Vila Gridi- Apartamente me Qera emerges as a serene oasis in Spille, merely 700 meters from the pristine Spille Beach and a stone's throw away from the iconic Rock of Kavaje."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361819.jpg?k=47c7ce952f7ed6d2b51ab0b289a353c2bb6c69d8d0e0c3ce9334f708197cccc3&o=&hp=1"\nlanguage: en\nslug: vila-gridi-apartamente-me-qera\naddress: "Perballe Ugjences ,Spille, 2510 Spille, Albania"\ncity: "Spille"\nlocation: "Spille"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.09627437\n  lng: 19.46699114\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 93\nratings:\n  overall: 9.2\n  location: 8.8\n  cleanliness: 9.4\n  facilities: 8.9\n  value: 9.4\n  comfort: 9.1\n  staff: 9.7\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361819.jpg?k=47c7ce952f7ed6d2b51ab0b289a353c2bb6c69d8d0e0c3ce9334f708197cccc3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311819.jpg?k=df3792403308454698ff4e1b17f65c23b488524f9fcf79fe370ad8111afe472d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209677355.jpg?k=ffbf8b156a6d34cd28d7bd2eed9f85333b9cc82f1ced7c8d2085066e26746eec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311843.jpg?k=3301c389e4292aed653f15f5f9c26e9970a787aafe7ba2cae3a11afd0a0bcbfd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361797.jpg?k=d97aeea835b449515836b5e076b459d32e204e09e892db9f3320270938e7b29c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311827.jpg?k=ed7b6afc8053afcda0298f1d903253803d4e1f477f09b0b7fb64a8795546d891&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209677487.jpg?k=d24501e90c2052fa80e574ceab94a8d5cf685e69d48db718c773a6997b7422da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311813.jpg?k=713da8cf4f676c2cf66ac76f942c41c400bd52fdbd015a524c0d3b0fe9c8849c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361810.jpg?k=351d7451227a097d2ebdcf1099bf28a45787e85fcd8b3db2e1505206dc1e0834&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361871.jpg?k=18765ff2f94ebdb5f93216a4235a50715767eebce37a246c51c3194ca840112c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361799.jpg?k=f769d5ab2271c8ebc1e693740030b9d467027be234d5c119ff50ac4240fe52c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361882.jpg?k=88fbb3bf82230aa07af75390681881b22d67a6e911162d66c06dbe80efc99d69&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Posh Beach 1.2 km"\n  - "Grill House Kalaja 6 km"\nnearbyBeaches:\n  - "Spille Beach 700 m"\n  - "General Beach 3.7 km"\nwhatsNearby:\n  - "Divjake-Karavasta National Park 4.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 40 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Acute77"\n    country: "Poland"\n    text: "“The hosts are very kind people. The apartment is exceptional in this area.”"\n  - name: "Perparim"\n    country: "United Kingdom"\n    text: "“It was a fun experience and had everything me and my family needed and the neighbours and owners were polite and friendly”"\n  - name: "Beata"\n    country: "Poland"\n    text: "“Very nice and helpful owners, English speaking. Really great People!
+---
+title: "Vila Gridi- Apartamente me Qera"
+description: "Vila Gridi- Apartamente me Qera emerges as a serene oasis in Spille, merely 700 meters from the pristine Spille Beach and a stone's throw away from the iconic Rock of Kavaje."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361819.jpg?k=47c7ce952f7ed6d2b51ab0b289a353c2bb6c69d8d0e0c3ce9334f708197cccc3&o=&hp=1"
+language: en
+slug: vila-gridi-apartamente-me-qera
+address: "Perballe Ugjences ,Spille, 2510 Spille, Albania"
+city: "Spille"
+location: "Spille"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.09627437
+  lng: 19.46699114
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 93
+ratings:
+  overall: 9.2
+  location: 8.8
+  cleanliness: 9.4
+  facilities: 8.9
+  value: 9.4
+  comfort: 9.1
+  staff: 9.7
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361819.jpg?k=47c7ce952f7ed6d2b51ab0b289a353c2bb6c69d8d0e0c3ce9334f708197cccc3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311819.jpg?k=df3792403308454698ff4e1b17f65c23b488524f9fcf79fe370ad8111afe472d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209677355.jpg?k=ffbf8b156a6d34cd28d7bd2eed9f85333b9cc82f1ced7c8d2085066e26746eec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311843.jpg?k=3301c389e4292aed653f15f5f9c26e9970a787aafe7ba2cae3a11afd0a0bcbfd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361797.jpg?k=d97aeea835b449515836b5e076b459d32e204e09e892db9f3320270938e7b29c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311827.jpg?k=ed7b6afc8053afcda0298f1d903253803d4e1f477f09b0b7fb64a8795546d891&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209677487.jpg?k=d24501e90c2052fa80e574ceab94a8d5cf685e69d48db718c773a6997b7422da&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207311813.jpg?k=713da8cf4f676c2cf66ac76f942c41c400bd52fdbd015a524c0d3b0fe9c8849c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361810.jpg?k=351d7451227a097d2ebdcf1099bf28a45787e85fcd8b3db2e1505206dc1e0834&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361871.jpg?k=18765ff2f94ebdb5f93216a4235a50715767eebce37a246c51c3194ca840112c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361799.jpg?k=f769d5ab2271c8ebc1e693740030b9d467027be234d5c119ff50ac4240fe52c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301361882.jpg?k=88fbb3bf82230aa07af75390681881b22d67a6e911162d66c06dbe80efc99d69&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Posh Beach 1.2 km"
+  - "Grill House Kalaja 6 km"
+nearbyBeaches:
+  - "Spille Beach 700 m"
+  - "General Beach 3.7 km"
+whatsNearby:
+  - "Divjake-Karavasta National Park 4.6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 40 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Acute77"
+    country: "Poland"
+    text: "“The hosts are very kind people. The apartment is exceptional in this area.”"
+  - name: "Perparim"
+    country: "United Kingdom"
+    text: "“It was a fun experience and had everything me and my family needed and the neighbours and owners were polite and friendly”"
+  - name: "Beata"
+    country: "Poland"
+    text: "“Very nice and helpful owners, English speaking. Really great People!
 Very clean place.
 Green, full of plants Oasis in Spille.
 Good working AC, clean.
 Possibility of Washing machine using.
-Private parking place.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-gridi-apartamente-me-qera.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nGuests are treated to the convenience of complimentary private parking and the luxury of free WiFi, ensuring that both their vehicles and digital needs are well taken care of. Each apartment within this complex is a testament to comfort and convenience, boasting air conditioning for those warm summer days, a cozy seating area perfect for unwinding, and a flat-screen TV with cable channels for entertainment needs. The inclusion of a kitchenette and dining area allows guests the freedom to prepare and enjoy their meals in the comfort of their own space, while the private bathroom comes equipped with slippers, a bidet, and a shower, adding a touch of home-like comfort to the experience.
+Private parking place.”"
+bookingURL: "https://www.booking.com/hotel/al/vila-gridi-apartamente-me-qera.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+Guests are treated to the convenience of complimentary private parking and the luxury of free WiFi, ensuring that both their vehicles and digital needs are well taken care of. Each apartment within this complex is a testament to comfort and convenience, boasting air conditioning for those warm summer days, a cozy seating area perfect for unwinding, and a flat-screen TV with cable channels for entertainment needs. The inclusion of a kitchenette and dining area allows guests the freedom to prepare and enjoy their meals in the comfort of their own space, while the private bathroom comes equipped with slippers, a bidet, and a shower, adding a touch of home-like comfort to the experience.
 
 For dining al fresco, an outdoor dining area is available, allowing guests to savor their meals amidst the beauty of Vila Gridi's gardens. Families will appreciate the children's playground, providing a safe and fun space for little ones to play and explore.
 

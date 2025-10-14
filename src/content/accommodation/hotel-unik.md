@@ -1,6 +1,74 @@
----\ntitle: "Hotel Unik"\ndescription: "Hotel Unik stands out as a prime choice for travelers seeking comfort and convenience in Pogradec, situated a mere 9 km from the enchanting Ohrid Lake Springs."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902513.jpg?k=db727ce29bc2811a2ef72114b2ead622d43052578420f7fe25e5e41ad1890d4b&o=&hp=1"\nlanguage: en\nslug: hotel-unik\naddress: "Rruga Kajo Karafili, 8582 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.90550959\n  lng: 20.65119602\nprice: "US$29"\npriceFrom: 29\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 8\nratings:\n  overall: 9.2\n  location: 9.1\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 9.4\n  comfort: 9.1\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902513.jpg?k=db727ce29bc2811a2ef72114b2ead622d43052578420f7fe25e5e41ad1890d4b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902576.jpg?k=ecf673d56a87f9fdcfea7fccfc3c87400f4fca31b7b2f8a9b3b814be96db06c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902582.jpg?k=49f566742dffb348386d13f9e2cda8a919eb9fe6521f323408dc8b350140e790&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902607.jpg?k=1fbdbfb2ae0742efa5252abf3fcbad2b53959a730982a5cb1c6b221850b03627&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902563.jpg?k=362640c5d5b2b4c1a4c1d5da7fe21e2ac1110f59ad1c563328517022bc184f44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902569.jpg?k=e021617e8f7ff2d6cf5c547e499b384e4d2652a81c1e412552146ec2e575f241&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902587.jpg?k=5cce6c6b4b6f3a75996056e7b468a6df5c484c304e76c5afbd75695348580ae3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902594.jpg?k=e18f99c9107fd9947c3341128307e295f1fe04472b10f90d018f7c75196335df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523987478.jpg?k=b98e19e5bfdb77e1e67bcc750e7549ffcd17e06da9bd0fa7f11e38535822d24a&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\nnearbyRestaurants:\n  - "Zgara Pogradecare 300 m"\n  - "Bakery Kosovari 450 m"\nwhatsNearby:\n  - "Driloni National Park 1.7 km"\n  - "National Park Galicica 8 km"\n  - "National Park Galicica 15 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 95 km"\nreviews:\n  - name: "Christiane"\n    country: "France"\n    text: "“L emplacement facile à trouver
+---
+title: "Hotel Unik"
+description: "Hotel Unik stands out as a prime choice for travelers seeking comfort and convenience in Pogradec, situated a mere 9 km from the enchanting Ohrid Lake Springs."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902513.jpg?k=db727ce29bc2811a2ef72114b2ead622d43052578420f7fe25e5e41ad1890d4b&o=&hp=1"
+language: en
+slug: hotel-unik
+address: "Rruga Kajo Karafili, 8582 Pogradec, Albania"
+city: "Pogradec"
+location: "Pogradec"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.90550959
+  lng: 20.65119602
+price: "US$29"
+priceFrom: 29
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 8
+ratings:
+  overall: 9.2
+  location: 9.1
+  cleanliness: 8.8
+  facilities: 8.8
+  value: 9.4
+  comfort: 9.1
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902513.jpg?k=db727ce29bc2811a2ef72114b2ead622d43052578420f7fe25e5e41ad1890d4b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902576.jpg?k=ecf673d56a87f9fdcfea7fccfc3c87400f4fca31b7b2f8a9b3b814be96db06c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902582.jpg?k=49f566742dffb348386d13f9e2cda8a919eb9fe6521f323408dc8b350140e790&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902607.jpg?k=1fbdbfb2ae0742efa5252abf3fcbad2b53959a730982a5cb1c6b221850b03627&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902563.jpg?k=362640c5d5b2b4c1a4c1d5da7fe21e2ac1110f59ad1c563328517022bc184f44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902569.jpg?k=e021617e8f7ff2d6cf5c547e499b384e4d2652a81c1e412552146ec2e575f241&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902587.jpg?k=5cce6c6b4b6f3a75996056e7b468a6df5c484c304e76c5afbd75695348580ae3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902594.jpg?k=e18f99c9107fd9947c3341128307e295f1fe04472b10f90d018f7c75196335df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523987478.jpg?k=b98e19e5bfdb77e1e67bcc750e7549ffcd17e06da9bd0fa7f11e38535822d24a&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Balcony"
+nearbyRestaurants:
+  - "Zgara Pogradecare 300 m"
+  - "Bakery Kosovari 450 m"
+whatsNearby:
+  - "Driloni National Park 1.7 km"
+  - "National Park Galicica 8 km"
+  - "National Park Galicica 15 km"
+  - "Bay of Bones 16 km"
+airports:
+  - "Ohrid Airport 30 km"
+  - "Kastoria National Airport 72 km"
+  - "Tirana International Airport Mother Teresa 95 km"
+reviews:
+  - name: "Christiane"
+    country: "France"
+    text: "“L emplacement facile à trouver
 La gentillesse du personnel
-La proprete”"\nbookingURL: "https://www.booking.com/hotel/al/unik-pogradec1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nA mere stone's throw from significant landmarks, Hotel Unik is conveniently positioned 39 km from the historic Cave Church Archangel Michael and 40 km from the Early Christian Basilica, making it an ideal base for explorers keen on delving into the region's rich cultural tapestry. Additionally, the Bay of Bones is located 23 km away, offering guests a unique glimpse into the past.
+La proprete”"
+bookingURL: "https://www.booking.com/hotel/al/unik-pogradec1.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+A mere stone's throw from significant landmarks, Hotel Unik is conveniently positioned 39 km from the historic Cave Church Archangel Michael and 40 km from the Early Christian Basilica, making it an ideal base for explorers keen on delving into the region's rich cultural tapestry. Additionally, the Bay of Bones is located 23 km away, offering guests a unique glimpse into the past.
 
 Guests can expect well-appointed rooms equipped with essential modern conveniences such as air conditioning, a flat-screen TV, and a private bathroom complete with a bidet and hairdryer. The thoughtful inclusion of a wardrobe and desk in each room, alongside the captivating city views, enhances the overall comfort and functionality of the stay.
 

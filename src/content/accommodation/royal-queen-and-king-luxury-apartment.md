@@ -1,4 +1,90 @@
----\ntitle: "Royal Queen and King Luxury apartment"\ndescription: "Royal Queen and King Luxury Apartment emerges as a premier choice for travelers seeking unparalleled comfort and convenience in Sarandë, Vlorë County."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234591066.jpg?k=e8966a224dfab8bf62171167f712651d05e7dcf0b7dbf99988c147b68c71dd01&o=&hp=1"\nlanguage: en\nslug: royal-queen-and-king-luxury-apartment\naddress: "61 Rruga Mitat Hoxha, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86902248\n  lng: 20.00220332\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 24\nratings:\n  overall: 9.9\n  location: 9.9\n  cleanliness: 9.9\n  facilities: 9.9\n  value: 9.8\n  comfort: 9.9\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234591066.jpg?k=e8966a224dfab8bf62171167f712651d05e7dcf0b7dbf99988c147b68c71dd01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234582996.jpg?k=16a282c1160f9d29ff038d9991db740f5e6f8518b477dcad03d8a29994570bee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289389402.jpg?k=22af964e093e83ddd0ef07a7a981ed52a0801d0f034d725d5a94915e5ae3d369&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307219128.jpg?k=876677d765ca8953295f1b6b0ddbd93f800566d6285184e9e9eb32392a7ab2b3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234582870.jpg?k=2fcd267279a6e4aacb9cbb35742d165eb7b70aedc72b18e1060cf0de9af0ec9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234584129.jpg?k=75963f3416953a75725e6083cf89fc5a17b234b796827036283711b3fb8701d3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345826779.jpg?k=3f69fd9a4abb69ec246cd13995681d6e063a3cb945cbb4cfc41c1bfd6cf6a964&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234582943.jpg?k=6f551d0d0e765515109e45727c3c125a6fda18fdc5fe8977d644d216af66f73e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289390338.jpg?k=82e5b741caf0510ad19f934dfb795d46549c1341967f30f96f348d6f3a272bb4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234583166.jpg?k=6c2b3477a5168f9e1d9ec49b3d6031f932de99ca0344a2a4d65bdecddf1f4497&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234590442.jpg?k=4e5eca2809c80e361ccfdeca5b1a95c60a37aeba29688e8c292105ab7e1d56ab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289390007.jpg?k=03bfe4430a5907ee75ab0c8974845560874c93664b94cde187e8d6b620890643&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Terrace"\n  - "Bar"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Maria Madalena 50 m"\n  - "Beer Burger Saranda 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 10 m"\n  - "Saranda City Beach 800 m"\n  - "La Petite Beach 1 km"\n  - "Maestral Beach 1.1 km"\n  - "VIP Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.2 km"\n  - "Butrint National Park 2.9 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Patryk"\n    country: "Poland"\n    text: "“The manager Alisa is very friendly and responsive and a great professional in her job. The apartment is true very luxurious. Huge balcony with panoramic sea views from the living room. This apartment has everything to feel happy! Three minutes...”"\n  - name: "Lorenzo"\n    country: "Italy"\n    text: "“Luxury apartment with amazing sea view! Great balcony with beautiful views of the beach, palm trees and luxury yachts, overlooking the town of Sarande, the beautiful bay and out to Corfu. Perfect location. Royal Queen and King Luxury the apartment...”"\n  - name: "Oskar"\n    country: "United Kingdom"\n    text: "“The sea view from the apartment and balcony is SUPER!!! It is true luxury apartment! I could not ask for something more. A very buautiful style, brand-new! Spacious, bright, luxury apartment. Everything is very convenient. It is a very clean!...”"\nbookingURL: "https://www.booking.com/hotel/al/royal-queen-and-king-luxury-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe apartment itself is a testament to luxury living, boasting two well-appointed bedrooms, a bathroom equipped with a walk-in shower, and a dressing room designed for utmost privacy. The inclusion of bed linen, towels, a flat-screen TV with streaming services, a dining area, and a fully equipped kitchen underscores the property's commitment to a home-away-from-home experience. Additionally, the air-conditioned unit's soundproofing ensures a tranquil retreat for every guest.
+---
+title: "Royal Queen and King Luxury apartment"
+description: "Royal Queen and King Luxury Apartment emerges as a premier choice for travelers seeking unparalleled comfort and convenience in Sarandë, Vlorë County."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234591066.jpg?k=e8966a224dfab8bf62171167f712651d05e7dcf0b7dbf99988c147b68c71dd01&o=&hp=1"
+language: en
+slug: royal-queen-and-king-luxury-apartment
+address: "61 Rruga Mitat Hoxha, Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86902248
+  lng: 20.00220332
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 24
+ratings:
+  overall: 9.9
+  location: 9.9
+  cleanliness: 9.9
+  facilities: 9.9
+  value: 9.8
+  comfort: 9.9
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234591066.jpg?k=e8966a224dfab8bf62171167f712651d05e7dcf0b7dbf99988c147b68c71dd01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234582996.jpg?k=16a282c1160f9d29ff038d9991db740f5e6f8518b477dcad03d8a29994570bee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289389402.jpg?k=22af964e093e83ddd0ef07a7a981ed52a0801d0f034d725d5a94915e5ae3d369&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307219128.jpg?k=876677d765ca8953295f1b6b0ddbd93f800566d6285184e9e9eb32392a7ab2b3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234582870.jpg?k=2fcd267279a6e4aacb9cbb35742d165eb7b70aedc72b18e1060cf0de9af0ec9a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234584129.jpg?k=75963f3416953a75725e6083cf89fc5a17b234b796827036283711b3fb8701d3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345826779.jpg?k=3f69fd9a4abb69ec246cd13995681d6e063a3cb945cbb4cfc41c1bfd6cf6a964&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234582943.jpg?k=6f551d0d0e765515109e45727c3c125a6fda18fdc5fe8977d644d216af66f73e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289390338.jpg?k=82e5b741caf0510ad19f934dfb795d46549c1341967f30f96f348d6f3a272bb4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234583166.jpg?k=6c2b3477a5168f9e1d9ec49b3d6031f932de99ca0344a2a4d65bdecddf1f4497&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234590442.jpg?k=4e5eca2809c80e361ccfdeca5b1a95c60a37aeba29688e8c292105ab7e1d56ab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289390007.jpg?k=03bfe4430a5907ee75ab0c8974845560874c93664b94cde187e8d6b620890643&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Terrace"
+  - "Bar"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Maria Madalena 50 m"
+  - "Beer Burger Saranda 100 m"
+nearbyBeaches:
+  - "Sarande Main Beach 10 m"
+  - "Saranda City Beach 800 m"
+  - "La Petite Beach 1 km"
+  - "Maestral Beach 1.1 km"
+  - "VIP Beach 1.8 km"
+whatsNearby:
+  - "Parc National de Butrint 2.2 km"
+  - "Butrint National Park 2.9 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Patryk"
+    country: "Poland"
+    text: "“The manager Alisa is very friendly and responsive and a great professional in her job. The apartment is true very luxurious. Huge balcony with panoramic sea views from the living room. This apartment has everything to feel happy! Three minutes...”"
+  - name: "Lorenzo"
+    country: "Italy"
+    text: "“Luxury apartment with amazing sea view! Great balcony with beautiful views of the beach, palm trees and luxury yachts, overlooking the town of Sarande, the beautiful bay and out to Corfu. Perfect location. Royal Queen and King Luxury the apartment...”"
+  - name: "Oskar"
+    country: "United Kingdom"
+    text: "“The sea view from the apartment and balcony is SUPER!!! It is true luxury apartment! I could not ask for something more. A very buautiful style, brand-new! Spacious, bright, luxury apartment. Everything is very convenient. It is a very clean!...”"
+bookingURL: "https://www.booking.com/hotel/al/royal-queen-and-king-luxury-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+The apartment itself is a testament to luxury living, boasting two well-appointed bedrooms, a bathroom equipped with a walk-in shower, and a dressing room designed for utmost privacy. The inclusion of bed linen, towels, a flat-screen TV with streaming services, a dining area, and a fully equipped kitchen underscores the property's commitment to a home-away-from-home experience. Additionally, the air-conditioned unit's soundproofing ensures a tranquil retreat for every guest.
 
 On-site amenities further elevate the stay experience. Guests have the luxury of choosing from a restaurant, coffee shop, and bar without needing to step out of the comfort zone the Royal Queen and King Luxury Apartment provides. For those looking to unwind, the apartment doesn't disappoint, offering beauty services, a fitness room, and yoga classes. Moreover, the opportunity to explore the locale through sightseeing tours adds an adventurous twist to the stay.
 

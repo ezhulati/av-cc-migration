@@ -1,9 +1,96 @@
----\ntitle: "Ventus Harbor Hotel"\ndescription: "Ventus Harbor Hotel emerges as a distinguished destination for travelers seeking a blend of comfort and culture in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106504217.jpg?k=bd8e0d955b41215770d3fe926f9799e9256128450136b0fde57f04414fca28c3&o=&hp=1"\nlanguage: en\nslug: ventus-harbor-hotel\naddress: "Rruga Taulantia, Lagjia 1, 1010 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.30881858\n  lng: 19.43907179\nprice: "US$75"\npriceFrom: 75\nstarRating: 4\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 430\nratings:\n  overall: 8.6\n  location: 9.4\n  cleanliness: 8.3\n  facilities: 7.9\n  value: 8.2\n  comfort: 8.4\n  staff: 9\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106504217.jpg?k=bd8e0d955b41215770d3fe926f9799e9256128450136b0fde57f04414fca28c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503105.jpg?k=d9546ec9b667284e7dc8767c18223f6670784cfdc7eda5355b2e352ec904ee52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503101.jpg?k=64e780774a74cc8b32d5fceacb534f28878b544f4c6db406b99b022838cc4e4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164155496.jpg?k=092972fcec98e63733b25a096ece0e46e6ce57c65f311ba2714e0389197de336&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106503411.jpg?k=9d586c85b0a24b0b85bba2ce7eb8dc61ad1d1cf085c6b4164a59306a6e5c9fd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503075.jpg?k=db698dd2efe26e9c38da835377ab87c84537415f5def5571cbb358fd0b27b203&o=&hp=1"\namenities:\n  - "Indoor swimming pool"\n  - "Airport shuttle"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Good breakfast"\nroomTypes:\n  - "Double Room with Balcony and Sea View"\n  - "Standard Triple Room with Sea View"\nnearbyRestaurants:\n  - "The Wall 2 200 m"\n  - "Bar Restorant Piceri Troplini 200 m"\nnearbyBeaches:\n  - "Currila Beach 150 m"\n  - "Kallmi Beach 1.2 km"\n  - "West End Beach 2.3 km"\n  - "Durres Beach 2.5 km"\n  - "Shkëmbi i Kavajës Beach 6 km"\nwhatsNearby:\n  - "1. Maj 450 m"\n  - "Durres Amphiteatre 650 m"\n  - "Yje Dhe Hena 1.1 km"\n  - "Wine Dhe Pooh 1.1 km"\n  - "Sheshi Demokracia 1.2 km"\n  - "Sotir Noka 1.5 km"\n  - "Bekimi 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Stacey"\n    country: "United Kingdom"\n    text: "“Amazing location, couldn’t beat the views. Was like being in the Maldives, out on the water like that”"\n  - name: "Arafath"\n    country: "United Kingdom"\n    text: "“Dream stay in the hotel at sea. The sound of the sea and the views are exceptional.”"\n  - name: "Ondřej"\n    country: "Czech Republic"\n    text: "“Very original accommodation.
+---
+title: "Ventus Harbor Hotel"
+description: "Ventus Harbor Hotel emerges as a distinguished destination for travelers seeking a blend of comfort and culture in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106504217.jpg?k=bd8e0d955b41215770d3fe926f9799e9256128450136b0fde57f04414fca28c3&o=&hp=1"
+language: en
+slug: ventus-harbor-hotel
+address: "Rruga Taulantia, Lagjia 1, 1010 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.30881858
+  lng: 19.43907179
+price: "US$75"
+priceFrom: 75
+starRating: 4
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 430
+ratings:
+  overall: 8.6
+  location: 9.4
+  cleanliness: 8.3
+  facilities: 7.9
+  value: 8.2
+  comfort: 8.4
+  staff: 9
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106504217.jpg?k=bd8e0d955b41215770d3fe926f9799e9256128450136b0fde57f04414fca28c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503105.jpg?k=d9546ec9b667284e7dc8767c18223f6670784cfdc7eda5355b2e352ec904ee52&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503101.jpg?k=64e780774a74cc8b32d5fceacb534f28878b544f4c6db406b99b022838cc4e4a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164155496.jpg?k=092972fcec98e63733b25a096ece0e46e6ce57c65f311ba2714e0389197de336&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106503411.jpg?k=9d586c85b0a24b0b85bba2ce7eb8dc61ad1d1cf085c6b4164a59306a6e5c9fd0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105503075.jpg?k=db698dd2efe26e9c38da835377ab87c84537415f5def5571cbb358fd0b27b203&o=&hp=1"
+amenities:
+  - "Indoor swimming pool"
+  - "Airport shuttle"
+  - "Fitness centre"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Good breakfast"
+roomTypes:
+  - "Double Room with Balcony and Sea View"
+  - "Standard Triple Room with Sea View"
+nearbyRestaurants:
+  - "The Wall 2 200 m"
+  - "Bar Restorant Piceri Troplini 200 m"
+nearbyBeaches:
+  - "Currila Beach 150 m"
+  - "Kallmi Beach 1.2 km"
+  - "West End Beach 2.3 km"
+  - "Durres Beach 2.5 km"
+  - "Shkëmbi i Kavajës Beach 6 km"
+whatsNearby:
+  - "1. Maj 450 m"
+  - "Durres Amphiteatre 650 m"
+  - "Yje Dhe Hena 1.1 km"
+  - "Wine Dhe Pooh 1.1 km"
+  - "Sheshi Demokracia 1.2 km"
+  - "Sotir Noka 1.5 km"
+  - "Bekimi 3.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Stacey"
+    country: "United Kingdom"
+    text: "“Amazing location, couldn’t beat the views. Was like being in the Maldives, out on the water like that”"
+  - name: "Arafath"
+    country: "United Kingdom"
+    text: "“Dream stay in the hotel at sea. The sound of the sea and the views are exceptional.”"
+  - name: "Ondřej"
+    country: "Czech Republic"
+    text: "“Very original accommodation.
 Great enjoyment.
 Nice and cozy room with spacious bathroom.
 Really lovely terrace with spectacular view of the sea and the city.
 Super friendly staff helpful with everything.
-Great and tasty breakfast with fresh...”"\nbookingURL: "https://www.booking.com/hotel/al/ventus-harbor-durres.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel's guest rooms, each boasting air-conditioning and complimentary WiFi, are designed with the modern traveler in mind. The allure of the sea is ever-present, with rooms offering serene views that promise a tranquil backdrop to your stay. Convenience meets luxury in each space, equipped with a flat-screen satellite TV, a desk for any work or planning needs, and a private bathroom that includes either a bath or a shower, alongside a hairdryer for guest use.
+Great and tasty breakfast with fresh...”"
+bookingURL: "https://www.booking.com/hotel/al/ventus-harbor-durres.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel's guest rooms, each boasting air-conditioning and complimentary WiFi, are designed with the modern traveler in mind. The allure of the sea is ever-present, with rooms offering serene views that promise a tranquil backdrop to your stay. Convenience meets luxury in each space, equipped with a flat-screen satellite TV, a desk for any work or planning needs, and a private bathroom that includes either a bath or a shower, alongside a hairdryer for guest use.
 
 Morning at Ventus Harbor Hotel begins with a continental breakfast, setting the tone for a day of exploration or relaxation. For those seeking rejuvenation, the hotel's spa facilities stand ready to pamper, featuring a wellness and fitness center designed to cater to all levels of fitness and relaxation needs.
 

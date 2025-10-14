@@ -1,4 +1,77 @@
----\ntitle: "Jico Travel - Sefo Apartment"\ndescription: "Jico Travel - Sefo Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of local charm in Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243154.jpg?k=6fc02ba857747d57ee66d8ae52ad56eb7020a8374aee05824a50734fe01b8d9e&o=&hp=1"\nlanguage: en\nslug: jico-travel-sefo-apartment\naddress: "Rruga Pelivan Leskaj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.42953309\n  lng: 19.49551663\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.7\n  location: 8.3\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243154.jpg?k=6fc02ba857747d57ee66d8ae52ad56eb7020a8374aee05824a50734fe01b8d9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243093.jpg?k=6830e4cf18d0ceb3b081c2475e90b0836ddbb9c76e05367b615837ded3136d4e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243162.jpg?k=8fa785c2e257665d4aa2a4ab612f476c618a8f594d4cc8486f4873fd360ca2b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243148.jpg?k=aa3af8b2960b96bc2083c1ec0f96d8f27190da85b9303e27de13c1e903d9c295&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243150.jpg?k=1ce3f699dd42b5be84305834489f0770d52e81ebd7b81dcd2b5e12e07d0999c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243178.jpg?k=05ba4b300a99c56d6b280a4e65a4ad11bdd0714944b8ba5cd9817d770ee8c1c9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243095.jpg?k=16dcacf44cbdfa4ee145bd056a496ac0f5b4d6d6a4acf24fcde97f95666786b2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243106.jpg?k=adef70e92defe09295925a5c98033001ebfe1031e6f31f225a8494feba281619&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243151.jpg?k=a68a5f5fa167f97edb6d2fdc3b66c7b232ba4477bca44efe88aacbffd8ecd382&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Mareluna 150 m"\n  - "Kompleksi Sunset Vlore 250 m"\nnearbyBeaches:\n  - "Vlore Beach 250 m"\n  - "Ri Beach 850 m"\n  - "Vjetër Beach 1.7 km"\n  - "Beach at Government Villas 2.7 km"\n  - "Liro Beach 3.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 750 m"\n  - "Kuzum Baba 4.2 km"\n  - "Independence Square 4.6 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Joanna"\n    country: "Poland"\n    text: "“Bardzo wygodny apartament, czysto, przygotowane ręczniki i mydełka. Świetny kontakt z personelem. Serdecznie polecamy”"\n  - name: "Trifamily"\n    country: "Norway"\n    text: "“Wyjątkowo miła obsługa. Duży czysty i ładny apartament. Polecamy”"\nbookingURL: "https://www.booking.com/hotel/al/endri-apartment-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Jico Travel - Sefo Apartment are treated to a seamless experience, thanks to the inclusion of modern facilities such as an elevator and luggage storage space, complemented by complimentary WiFi accessible throughout the premises. The highlight, however, is the spacious apartment itself, which boasts a balcony offering garden views, two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen with an oven and a fridge. The presence of a flat-screen TV, along with the provision of towels and bed linen, adds to the comfort of the stay. Notably, the apartment ensures guest privacy with its private entrance.
+---
+title: "Jico Travel - Sefo Apartment"
+description: "Jico Travel - Sefo Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of local charm in Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243154.jpg?k=6fc02ba857747d57ee66d8ae52ad56eb7020a8374aee05824a50734fe01b8d9e&o=&hp=1"
+language: en
+slug: jico-travel-sefo-apartment
+address: "Rruga Pelivan Leskaj, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.42953309
+  lng: 19.49551663
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.7
+  location: 8.3
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243154.jpg?k=6fc02ba857747d57ee66d8ae52ad56eb7020a8374aee05824a50734fe01b8d9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243093.jpg?k=6830e4cf18d0ceb3b081c2475e90b0836ddbb9c76e05367b615837ded3136d4e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243162.jpg?k=8fa785c2e257665d4aa2a4ab612f476c618a8f594d4cc8486f4873fd360ca2b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243148.jpg?k=aa3af8b2960b96bc2083c1ec0f96d8f27190da85b9303e27de13c1e903d9c295&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243150.jpg?k=1ce3f699dd42b5be84305834489f0770d52e81ebd7b81dcd2b5e12e07d0999c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243178.jpg?k=05ba4b300a99c56d6b280a4e65a4ad11bdd0714944b8ba5cd9817d770ee8c1c9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243095.jpg?k=16dcacf44cbdfa4ee145bd056a496ac0f5b4d6d6a4acf24fcde97f95666786b2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243106.jpg?k=adef70e92defe09295925a5c98033001ebfe1031e6f31f225a8494feba281619&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456243151.jpg?k=a68a5f5fa167f97edb6d2fdc3b66c7b232ba4477bca44efe88aacbffd8ecd382&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Mareluna 150 m"
+  - "Kompleksi Sunset Vlore 250 m"
+nearbyBeaches:
+  - "Vlore Beach 250 m"
+  - "Ri Beach 850 m"
+  - "Vjetër Beach 1.7 km"
+  - "Beach at Government Villas 2.7 km"
+  - "Liro Beach 3.4 km"
+whatsNearby:
+  - "Scooby Doo Vlore 750 m"
+  - "Kuzum Baba 4.2 km"
+  - "Independence Square 4.6 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Joanna"
+    country: "Poland"
+    text: "“Bardzo wygodny apartament, czysto, przygotowane ręczniki i mydełka. Świetny kontakt z personelem. Serdecznie polecamy”"
+  - name: "Trifamily"
+    country: "Norway"
+    text: "“Wyjątkowo miła obsługa. Duży czysty i ładny apartament. Polecamy”"
+bookingURL: "https://www.booking.com/hotel/al/endri-apartment-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests at Jico Travel - Sefo Apartment are treated to a seamless experience, thanks to the inclusion of modern facilities such as an elevator and luggage storage space, complemented by complimentary WiFi accessible throughout the premises. The highlight, however, is the spacious apartment itself, which boasts a balcony offering garden views, two well-appointed bedrooms, a cozy living room, and a fully equipped kitchen with an oven and a fridge. The presence of a flat-screen TV, along with the provision of towels and bed linen, adds to the comfort of the stay. Notably, the apartment ensures guest privacy with its private entrance.
 
 For those keen on exploring the local sights, the apartment facilitates sightseeing tours in the vicinity. Additionally, the convenience of airport transfers, alongside bicycle and car rental services, underscores the property's commitment to providing a hassle-free stay for its guests.
 

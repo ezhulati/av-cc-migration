@@ -1,5 +1,93 @@
----\ntitle: "Peppermint Apartment"\ndescription: "Peppermint Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated merely 100 meters from the serene Qerret Beach and a short 1."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"\nlanguage: en\nslug: peppermint-apartment\naddress: "Rruga Qerret Plazh, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.21936838\n  lng: 19.50783793\nprice: "US$67"\npriceFrom: 67\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 14\nratings:\n  overall: 9.7\n  location: 9.8\n  cleanliness: 9.6\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.8\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://graph.facebook.com/v2.9/1310362092699410/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"\n  - "https://cf.bstatic.com/static/img/flags/12/be/0ba6c3d43988f099040bcddb874fbd5434389efa.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332357012.jpg?k=9779c184c570fd2c5d431b52b0e863d56f13213e6150a0015ecce4dada397b18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/316482103.jpg?k=7419bf072c84308e5f3597fd541fdf15039d57931d403c0b33be387449f84594&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/316482127.jpg?k=451a7ab98af94d8ae4278fad9c1d4754af0e2a53ec25b2e51dabf354301a6906&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/307906844.jpg?k=4e91f1a9d2830e98f985aa9701fbda456179f8c23d75927c8bbb92d242fc7800&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/315486246.jpg?k=7a639bffb742095b0000388e01bb01b19a1dd5e6e5b291e5bec6a1d582620835&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Private beach area"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Panorama by Supreme Hotel & Spa 100 m"\n  - "Piceri Cegrani 200 m"\nnearbyBeaches:\n  - "Qerret Beach 100 m"\n  - "Mali I Robit Beach 1.3 km"\n  - "Golem Beach 3.3 km"\n  - "Shkëmbi i Kavajës Beach 5 km"\n  - "Durres Beach 7 km"\nwhatsNearby:\n  - "Durres Amphiteatre 12 km"\n  - "1. Maj 12 km"\n  - "Wine Dhe Pooh 12 km"\n  - "Yje Dhe Hena 12 km"\n  - "Sheshi Demokracia 12 km"\n  - "Bekimi 12 km"\n  - "Sotir Noka 12 km"\n  - "Divjake-Karavasta National Park 18 km"\nairports:\n  - "Tirana International Airport Mother Teresa 27 km"\nreviews:\n  - name: "Genci"\n    country: "Albania"\n    text: "“near beach, clean, comfortable, friendly. the light concept in the rooms is very cosy, you feel immediately very comfortable”"\n  - name: "Marina"\n    country: "Albania"\n    text: "“The apartment was amazing. We had everything we needed and it was really clean and quiet.
-We had a wonderful time! A like home feeling; Thanks for the beautiful memories!”"\n  - name: "Fulvio"\n    country: "Albania"\n    text: "“Superb balcony! Fully equipped apartment! Excellent for couples!!”"\nbookingURL: "https://www.booking.com/hotel/al/peppermint-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort, boasting a well-equipped kitchen with an oven and fridge, a cozy seating area, and a bathroom complete with a bath. The inclusion of a flat-screen TV adds a touch of modernity to the space, while the private balcony offers views of the inner courtyard, providing a tranquil setting for guests to unwind.
+---
+title: "Peppermint Apartment"
+description: "Peppermint Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated merely 100 meters from the serene Qerret Beach and a short 1."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+language: en
+slug: peppermint-apartment
+address: "Rruga Qerret Plazh, Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.21936838
+  lng: 19.50783793
+price: "US$67"
+priceFrom: 67
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 14
+ratings:
+  overall: 9.7
+  location: 9.8
+  cleanliness: 9.6
+  facilities: 9.6
+  value: 9.6
+  comfort: 9.8
+  staff: 9.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://graph.facebook.com/v2.9/1310362092699410/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+  - "https://cf.bstatic.com/static/img/flags/12/be/0ba6c3d43988f099040bcddb874fbd5434389efa.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332357012.jpg?k=9779c184c570fd2c5d431b52b0e863d56f13213e6150a0015ecce4dada397b18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/316482103.jpg?k=7419bf072c84308e5f3597fd541fdf15039d57931d403c0b33be387449f84594&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/316482127.jpg?k=451a7ab98af94d8ae4278fad9c1d4754af0e2a53ec25b2e51dabf354301a6906&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/307906844.jpg?k=4e91f1a9d2830e98f985aa9701fbda456179f8c23d75927c8bbb92d242fc7800&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/315486246.jpg?k=7a639bffb742095b0000388e01bb01b19a1dd5e6e5b291e5bec6a1d582620835&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Private beach area"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Panorama by Supreme Hotel & Spa 100 m"
+  - "Piceri Cegrani 200 m"
+nearbyBeaches:
+  - "Qerret Beach 100 m"
+  - "Mali I Robit Beach 1.3 km"
+  - "Golem Beach 3.3 km"
+  - "Shkëmbi i Kavajës Beach 5 km"
+  - "Durres Beach 7 km"
+whatsNearby:
+  - "Durres Amphiteatre 12 km"
+  - "1. Maj 12 km"
+  - "Wine Dhe Pooh 12 km"
+  - "Yje Dhe Hena 12 km"
+  - "Sheshi Demokracia 12 km"
+  - "Bekimi 12 km"
+  - "Sotir Noka 12 km"
+  - "Divjake-Karavasta National Park 18 km"
+airports:
+  - "Tirana International Airport Mother Teresa 27 km"
+reviews:
+  - name: "Genci"
+    country: "Albania"
+    text: "“near beach, clean, comfortable, friendly. the light concept in the rooms is very cosy, you feel immediately very comfortable”"
+  - name: "Marina"
+    country: "Albania"
+    text: "“The apartment was amazing. We had everything we needed and it was really clean and quiet.
+We had a wonderful time! A like home feeling; Thanks for the beautiful memories!”"
+  - name: "Fulvio"
+    country: "Albania"
+    text: "“Superb balcony! Fully equipped apartment! Excellent for couples!!”"
+bookingURL: "https://www.booking.com/hotel/al/peppermint-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of comfort, boasting a well-equipped kitchen with an oven and fridge, a cozy seating area, and a bathroom complete with a bath. The inclusion of a flat-screen TV adds a touch of modernity to the space, while the private balcony offers views of the inner courtyard, providing a tranquil setting for guests to unwind.
 
 For those with a penchant for the finer things in life, Peppermint Apartment does not disappoint. The option to enjoy wine or champagne and chocolates or cookies adds an extra layer of luxury to the stay, catering to guests' desires for indulgence. Moreover, the property is strictly non-smoking, ensuring a clean and fresh environment for all occupants.
 

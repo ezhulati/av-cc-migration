@@ -1,4 +1,85 @@
----\ntitle: "Kristi Apartments 01"\ndescription: "Kristi Apartments 01 emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256557.jpg?k=3259826941d6b7c12fc47faca5998d12bad36f28608ce26d8340b970eebe3759&o=&hp=1"\nlanguage: en\nslug: kristi-apartments-01\naddress: "Rruga Luigj Gurakuqi, P. 37, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32928148\n  lng: 19.82340156\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 41\nratings:\n  overall: 9.5\n  location: 9.8\n  cleanliness: 9.6\n  facilities: 9.7\n  value: 9.6\n  comfort: 9.5\n  staff: 9.6\n  wifi: 8.8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256557.jpg?k=3259826941d6b7c12fc47faca5998d12bad36f28608ce26d8340b970eebe3759&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256543.jpg?k=917580a4e30e31530857eb269997aa656246c90e390f08091c5d94f6e5c24570&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512827789.jpg?k=b1972d55d1ccd518cef69d09dfca054be07279adcdc3337c38b321e74d8dc588&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256529.jpg?k=b67bc2d8d65fc45d0537d2d3412c6bba36089e742ae1009fa0348d39919811a1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512827436.jpg?k=5f9bacb96928ab960cf0569cf8599248fee5f20ae643d4fea2cd65b94bd760a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522439805.jpg?k=b331f12bfd1bfb22db35d0d787e8bee6ca4afd03d5907237b98389e89db28310&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512827418.jpg?k=337adff59b36273c0e0ac6115c8df2f11ca136dec7be37f99125b2ebf0f6d79f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256554.jpg?k=5b90435b0b14eac9c07ac9b4d14f500915673560f44af413a89753b10b2ffabb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522443766.jpg?k=114181e1d6aafb407fac7b8744ec3319c38ac595e83a37c4fbe092c62c8c3bdb&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Fast free WiFi (98 Mbps)"\nnearbyAttractions:\n  - "House of Leaves 650 m"\n  - "Rinia Park 650 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 1.9 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Torcoletto da Fabio 50 m"\n  - "Grill House Greek Original Souvlaki 50 m"\nwhatsNearby:\n  - "Sheshi Sulejman Pasha 150 m"\n  - "Sheshi Rekreativ tek ish ATSh 250 m"\n  - "Clock Tower Tirana 350 m"\n  - "Tanners' Bridge 400 m"\n  - "Skanderbeg Square 400 m"\n  - "National Gallery of Arts Tirana 400 m"\n  - "Parku Europa 400 m"\n  - "Sheshi Skënderbej 450 m"\n  - "National Museum of History Albania 500 m"\n  - "Parku Rinia 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Naseeb"\n    country: "United Kingdom"\n    text: "“The host was very helpful and accommodating throughout my stay. There is a washing machine and all other amenities that you may need for a short trip. Would definitely return to this property when visiting Tirana, thanks again!”"\n  - name: "Albi"\n    country: "Norway"\n    text: "“Everything was the same as in the photo, the quality was great.”"\n  - name: "Nea"\n    country: "Finland"\n    text: "“The location was really good and the apartment was really nice! Our host gave us very good instructions before our arrival and he was also really nice. Value for money was perfect! If we come to Tirana again, we will come here.”"\nbookingURL: "https://www.booking.com/hotel/al/kristi-apartments-01.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe property boasts an array of amenities designed to enhance the guest experience, including an elevator for easy access, ample luggage storage space, and the essential free WiFi that spans across the premises. For guests looking to venture further afield or ensure a smooth arrival and departure, Kristi Apartments 01 offers both airport transfer services and a convenient car rental option.
+---
+title: "Kristi Apartments 01"
+description: "Kristi Apartments 01 emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256557.jpg?k=3259826941d6b7c12fc47faca5998d12bad36f28608ce26d8340b970eebe3759&o=&hp=1"
+language: en
+slug: kristi-apartments-01
+address: "Rruga Luigj Gurakuqi, P. 37, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32928148
+  lng: 19.82340156
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 41
+ratings:
+  overall: 9.5
+  location: 9.8
+  cleanliness: 9.6
+  facilities: 9.7
+  value: 9.6
+  comfort: 9.5
+  staff: 9.6
+  wifi: 8.8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256557.jpg?k=3259826941d6b7c12fc47faca5998d12bad36f28608ce26d8340b970eebe3759&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256543.jpg?k=917580a4e30e31530857eb269997aa656246c90e390f08091c5d94f6e5c24570&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512827789.jpg?k=b1972d55d1ccd518cef69d09dfca054be07279adcdc3337c38b321e74d8dc588&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256529.jpg?k=b67bc2d8d65fc45d0537d2d3412c6bba36089e742ae1009fa0348d39919811a1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512827436.jpg?k=5f9bacb96928ab960cf0569cf8599248fee5f20ae643d4fea2cd65b94bd760a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522439805.jpg?k=b331f12bfd1bfb22db35d0d787e8bee6ca4afd03d5907237b98389e89db28310&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512827418.jpg?k=337adff59b36273c0e0ac6115c8df2f11ca136dec7be37f99125b2ebf0f6d79f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411256554.jpg?k=5b90435b0b14eac9c07ac9b4d14f500915673560f44af413a89753b10b2ffabb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522443766.jpg?k=114181e1d6aafb407fac7b8744ec3319c38ac595e83a37c4fbe092c62c8c3bdb&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Fast free WiFi (98 Mbps)"
+nearbyAttractions:
+  - "House of Leaves 650 m"
+  - "Rinia Park 650 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 1.9 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Torcoletto da Fabio 50 m"
+  - "Grill House Greek Original Souvlaki 50 m"
+whatsNearby:
+  - "Sheshi Sulejman Pasha 150 m"
+  - "Sheshi Rekreativ tek ish ATSh 250 m"
+  - "Clock Tower Tirana 350 m"
+  - "Tanners' Bridge 400 m"
+  - "Skanderbeg Square 400 m"
+  - "National Gallery of Arts Tirana 400 m"
+  - "Parku Europa 400 m"
+  - "Sheshi Skënderbej 450 m"
+  - "National Museum of History Albania 500 m"
+  - "Parku Rinia 550 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Naseeb"
+    country: "United Kingdom"
+    text: "“The host was very helpful and accommodating throughout my stay. There is a washing machine and all other amenities that you may need for a short trip. Would definitely return to this property when visiting Tirana, thanks again!”"
+  - name: "Albi"
+    country: "Norway"
+    text: "“Everything was the same as in the photo, the quality was great.”"
+  - name: "Nea"
+    country: "Finland"
+    text: "“The location was really good and the apartment was really nice! Our host gave us very good instructions before our arrival and he was also really nice. Value for money was perfect! If we come to Tirana again, we will come here.”"
+bookingURL: "https://www.booking.com/hotel/al/kristi-apartments-01.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The property boasts an array of amenities designed to enhance the guest experience, including an elevator for easy access, ample luggage storage space, and the essential free WiFi that spans across the premises. For guests looking to venture further afield or ensure a smooth arrival and departure, Kristi Apartments 01 offers both airport transfer services and a convenient car rental option.
 
 Accommodation at Kristi Apartments 01 is thoughtfully designed with the modern traveler in mind. The apartment features a cozy bedroom, a living area equipped with a flat-screen TV and streaming services for entertainment, and a fully equipped kitchenette complete with an oven and toaster for those moments when dining in feels just right. A washing machine, a sleek bathroom with a shower, and the provision of fresh towels and bed linen underscore the property's commitment to comfort and convenience. The added bonus of a private entrance ensures that guests enjoy a sense of privacy and exclusivity throughout their stay.
 

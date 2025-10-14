@@ -1,5 +1,101 @@
----\ntitle: "Priam Hotel Luxury Resort"\ndescription: "Priam Hotel Luxury Resort stands as a beacon of comfort and luxury in Vlorë, offering guests an exceptional stay mere steps away from the pristine Beach at Government Villas."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478223431.jpg?k=bf0bda104ebe8cc79b2d3217faec978b0e01e6dab5bdc7ff3b68eac2dbcf4a16&o=&hp=1"\nlanguage: en\nslug: priam-hotel-luxury-resort\naddress: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "resort"\ncoordinates:\n  lat: 40.42475788\n  lng: 19.49084537\nprice: "US$116"\npriceFrom: 116\nstarRating: 5\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 354\nratings:\n  overall: 8.9\n  location: 8.7\n  cleanliness: 9.3\n  facilities: 8.6\n  value: 8.5\n  comfort: 9.3\n  staff: 9.1\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478223431.jpg?k=bf0bda104ebe8cc79b2d3217faec978b0e01e6dab5bdc7ff3b68eac2dbcf4a16&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478110828.jpg?k=674c5abfaa9c3015f5b1cb3af2fea80cd5ae297c5dd99c7234969f5cec93fb33&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319849466.jpg?k=79e12ec5b822a11bd2d13f615265f4984989f627d28769bed0bf118d125b93e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478213287.jpg?k=138ea75224b2814400b5b188ce89c847950473eb9d5461c6d1800168c6fd90a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478190644.jpg?k=1a406013f04b3f60c3cdc687dc0f1ec3b80115240b1030e693f58c5c27e0b7c3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468246161.jpg?k=e56bcfed9642ecb1a4c7f87570563682fd8c12d8b849e69b811f515ffccb11ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478187113.jpg?k=e142174c6b3a3b3acb3504bfac69169d66b8429a9734df2ebaa70081b5a81218&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478187133.jpg?k=8a88f0d66678fbec65d4363db44f349417c74734b0e2fb3fb053dc8bb99a2c39&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478107989.jpg?k=df73802690c31f8988700e8849bdbb72d606ffe124aea44223566c7ef02a1c12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306386850.jpg?k=5f76c175fab9b6c05ef5ba48d7513ec0ebfb8f067cc1296800843ac2f5f6bea8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478111843.jpg?k=193d8f5ea3d9d46b45752bdeaa41ef08d8c8367f71906848fc5ad606ae3ff7b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478093243.jpg?k=ad62a9334fa918f1950f2e38020100108c1b3c1cb38b01c7d8f7ba50b6a785b2&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Good breakfast"\nroomTypes:\n  - "Standard Suite"\n  - "Suite"\n  - "Junior Suite with Sea View"\n  - "Deluxe Suite"\n  - "Deluxe Junior Suite"\n  - "Suite with Hot Tub"\n  - "Superior Suite with Sea View"\n  - "Deluxe King Suite"\nnearbyRestaurants:\n  - "Amadeo Ristorante 20 m"\n  - "Restorant Montreal 50 m"\nnearbyBeaches:\n  - "Beach at Government Villas 650 m"\n  - "Ri Beach 650 m"\n  - "Liro Beach 1.4 km"\n  - "Vlore Beach 2 km"\n  - "Coco Bongo Beach 2.5 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.3 km"\n  - "Kuzum Baba 4.8 km"\n  - "Independence Square 5 km"\nairports:\n  - "Corfu International Airport 97 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Enrico"\n    country: "Italy"\n    text: "“Great location and lovely environment. Strongly recommended.”"\n  - name: "Franceska"\n    country: "Albania"\n    text: "“Everything excellent as always. That’s why it is our only choice for our weekends in Vlora.”"\n  - name: "Hailey"\n    country: "United Kingdom"\n    text: "“The room was spacious, modern and offered such a stunning view
-We also had lunch and dinner at Amadeo which is an elegant and fine dining restaurant”"\nbookingURL: "https://www.booking.com/hotel/al/priam-luxury-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Priam Hotel Luxury Resort are a testament to modern luxury, with each unit featuring air conditioning, a flat-screen TV with satellite channels, a minibar, and a kettle, ensuring a stay that marries comfort with convenience. The attention to detail extends to the bathrooms, where a bidet and a shower await to refresh and rejuvenate. Select rooms elevate the experience further, offering captivating city views that add a touch of romance to the ambiance.
+---
+title: "Priam Hotel Luxury Resort"
+description: "Priam Hotel Luxury Resort stands as a beacon of comfort and luxury in Vlorë, offering guests an exceptional stay mere steps away from the pristine Beach at Government Villas."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478223431.jpg?k=bf0bda104ebe8cc79b2d3217faec978b0e01e6dab5bdc7ff3b68eac2dbcf4a16&o=&hp=1"
+language: en
+slug: priam-hotel-luxury-resort
+address: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "resort"
+coordinates:
+  lat: 40.42475788
+  lng: 19.49084537
+price: "US$116"
+priceFrom: 116
+starRating: 5
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 354
+ratings:
+  overall: 8.9
+  location: 8.7
+  cleanliness: 9.3
+  facilities: 8.6
+  value: 8.5
+  comfort: 9.3
+  staff: 9.1
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478223431.jpg?k=bf0bda104ebe8cc79b2d3217faec978b0e01e6dab5bdc7ff3b68eac2dbcf4a16&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478110828.jpg?k=674c5abfaa9c3015f5b1cb3af2fea80cd5ae297c5dd99c7234969f5cec93fb33&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319849466.jpg?k=79e12ec5b822a11bd2d13f615265f4984989f627d28769bed0bf118d125b93e1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478213287.jpg?k=138ea75224b2814400b5b188ce89c847950473eb9d5461c6d1800168c6fd90a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478190644.jpg?k=1a406013f04b3f60c3cdc687dc0f1ec3b80115240b1030e693f58c5c27e0b7c3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468246161.jpg?k=e56bcfed9642ecb1a4c7f87570563682fd8c12d8b849e69b811f515ffccb11ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478187113.jpg?k=e142174c6b3a3b3acb3504bfac69169d66b8429a9734df2ebaa70081b5a81218&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478187133.jpg?k=8a88f0d66678fbec65d4363db44f349417c74734b0e2fb3fb053dc8bb99a2c39&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478107989.jpg?k=df73802690c31f8988700e8849bdbb72d606ffe124aea44223566c7ef02a1c12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306386850.jpg?k=5f76c175fab9b6c05ef5ba48d7513ec0ebfb8f067cc1296800843ac2f5f6bea8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478111843.jpg?k=193d8f5ea3d9d46b45752bdeaa41ef08d8c8367f71906848fc5ad606ae3ff7b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478093243.jpg?k=ad62a9334fa918f1950f2e38020100108c1b3c1cb38b01c7d8f7ba50b6a785b2&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+  - "Good breakfast"
+roomTypes:
+  - "Standard Suite"
+  - "Suite"
+  - "Junior Suite with Sea View"
+  - "Deluxe Suite"
+  - "Deluxe Junior Suite"
+  - "Suite with Hot Tub"
+  - "Superior Suite with Sea View"
+  - "Deluxe King Suite"
+nearbyRestaurants:
+  - "Amadeo Ristorante 20 m"
+  - "Restorant Montreal 50 m"
+nearbyBeaches:
+  - "Beach at Government Villas 650 m"
+  - "Ri Beach 650 m"
+  - "Liro Beach 1.4 km"
+  - "Vlore Beach 2 km"
+  - "Coco Bongo Beach 2.5 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.3 km"
+  - "Kuzum Baba 4.8 km"
+  - "Independence Square 5 km"
+airports:
+  - "Corfu International Airport 97 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Enrico"
+    country: "Italy"
+    text: "“Great location and lovely environment. Strongly recommended.”"
+  - name: "Franceska"
+    country: "Albania"
+    text: "“Everything excellent as always. That’s why it is our only choice for our weekends in Vlora.”"
+  - name: "Hailey"
+    country: "United Kingdom"
+    text: "“The room was spacious, modern and offered such a stunning view
+We also had lunch and dinner at Amadeo which is an elegant and fine dining restaurant”"
+bookingURL: "https://www.booking.com/hotel/al/priam-luxury-resort.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Priam Hotel Luxury Resort are a testament to modern luxury, with each unit featuring air conditioning, a flat-screen TV with satellite channels, a minibar, and a kettle, ensuring a stay that marries comfort with convenience. The attention to detail extends to the bathrooms, where a bidet and a shower await to refresh and rejuvenate. Select rooms elevate the experience further, offering captivating city views that add a touch of romance to the ambiance.
 
 For those looking to explore the local culture and history, the hotel is just a short drive from the iconic Kuzum Baba and Independence Square, making it an ideal base for guests eager to discover Vlorë's rich heritage. Moreover, with Tirana International Mother Teresa Airport located 157 km away, the resort is a manageable distance for international travelers seeking a serene escape on Albania's coast.
 

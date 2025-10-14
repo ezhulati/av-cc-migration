@@ -1,5 +1,93 @@
----\ntitle: "Arkle Apartment 4"\ndescription: "Arkle Apartment 4 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047125.jpg?k=357f5485b3bc762d573322c4bc2552075ec266fadbae083689125cc696808058&o=&hp=1"\nlanguage: en\nslug: arkle-apartment-4\naddress: "Rruga Adbyl Frasheri, Tiranë, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.31903776\n  lng: 19.8156614\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 11\nratings:\n  overall: 9.6\n  location: 9.1\n  cleanliness: 9.8\n  facilities: 9.8\n  value: 9.5\n  comfort: 9.5\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047125.jpg?k=357f5485b3bc762d573322c4bc2552075ec266fadbae083689125cc696808058&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047110.jpg?k=27e183ac4b9c95fc2460d568bf8f87677f589210edbc7bd83a4505ec67bcff38&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047108.jpg?k=160593221fe0b33987788b5a7bce50911d14f764ad8f740f4f12606d1157a8dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047121.jpg?k=4e0e9be69c1fd03d551b67015cb2e15e6792aff0f506f0e4094fd08c8eba0a99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047177.jpg?k=1309f3d8a6312ef1ac9714ad913f990d24ff357860001c9ab24a8f1d3c3ea36f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047174.jpg?k=1c3ee01e142658da1800621d831b20fa712bf654f88c1476580a225591f99614&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047124.jpg?k=a3ed28c7241049d1a3641816a1caa8fb3c241655834ebfc7bba72ccbe80b496e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047160.jpg?k=d94bf25187411c84e91ee060b3b436e63638aca033019b2b9e3b03a5c8d65638&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047123.jpg?k=1dfd83cbd6c451a6dc3a60002a56a6f741183c631b91846ec6682659b5ee397b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "House of Leaves 850 m"\n  - "National Gallery of Arts Tirana 900 m"\n  - "Skanderbeg Square 1 km"\n  - "Clock Tower Tirana 1 km"\n  - "Grand Park of Tirana 1.1 km"\n  - "National Museum of History Albania 1.2 km"\n  - "Tanners' Bridge 1.2 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Del Maestro 30 m"\n  - "Alar Fast Casual 50 m"\nwhatsNearby:\n  - "Former Residence of Enver Hoxha 250 m"\n  - "Shesh Rekreativ 350 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 450 m"\n  - "Parku I Madh I Tiranës (Grand Park) 550 m"\n  - "Rinia Park 650 m"\n  - "Sheshi Rekreativ Piramida 700 m"\n  - "Sheshi Rekreativ Komuna e Parisit 750 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 750 m"\n  - "Parku Rinia 750 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Alexia"\n    country: "Spain"\n    text: "“My husband and I stayed at Villa Allko for 2 nights. Everything was great, clean and comfortable. The only thing to note is that the owner doesn't live at the location, so make sure you are able to call or message for check-in. The location was...”"\n  - name: "Armand"\n    country: "United Kingdom"\n    text: "“Great place. Wonderful host and very clean. Is easy to get to and it was a great night sleep. Highly recommended. Great price also”"\n  - name: "Şafak"\n    country: "Turkey"\n    text: "“hersey eksiksiz ve tamdi konumu kolay bulunabilirdi sessiz rahat ve en onemlisi
-temizlik konusunda cok titiz davranilmis bir evde varolan hersey vardi yer sahibi cok anlayisli ve guleryuzlu idi tekrar gelecek olursak kalacagimiz tek yer olacaktir.”"\nbookingURL: "https://www.booking.com/hotel/al/villa-allko.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with a separate bedroom, a bathroom, and a fully equipped kitchen with a dining area, ensuring guests feel at home. The inclusion of modern amenities such as a flat-screen TV, free WiFi, and the thoughtful provision of towels and bed linen, enhances the comfort of the stay.
+---
+title: "Arkle Apartment 4"
+description: "Arkle Apartment 4 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047125.jpg?k=357f5485b3bc762d573322c4bc2552075ec266fadbae083689125cc696808058&o=&hp=1"
+language: en
+slug: arkle-apartment-4
+address: "Rruga Adbyl Frasheri, Tiranë, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.31903776
+  lng: 19.8156614
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 11
+ratings:
+  overall: 9.6
+  location: 9.1
+  cleanliness: 9.8
+  facilities: 9.8
+  value: 9.5
+  comfort: 9.5
+  staff: 9.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047125.jpg?k=357f5485b3bc762d573322c4bc2552075ec266fadbae083689125cc696808058&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047110.jpg?k=27e183ac4b9c95fc2460d568bf8f87677f589210edbc7bd83a4505ec67bcff38&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047108.jpg?k=160593221fe0b33987788b5a7bce50911d14f764ad8f740f4f12606d1157a8dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047121.jpg?k=4e0e9be69c1fd03d551b67015cb2e15e6792aff0f506f0e4094fd08c8eba0a99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047177.jpg?k=1309f3d8a6312ef1ac9714ad913f990d24ff357860001c9ab24a8f1d3c3ea36f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047174.jpg?k=1c3ee01e142658da1800621d831b20fa712bf654f88c1476580a225591f99614&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047124.jpg?k=a3ed28c7241049d1a3641816a1caa8fb3c241655834ebfc7bba72ccbe80b496e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047160.jpg?k=d94bf25187411c84e91ee060b3b436e63638aca033019b2b9e3b03a5c8d65638&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501047123.jpg?k=1dfd83cbd6c451a6dc3a60002a56a6f741183c631b91846ec6682659b5ee397b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "House of Leaves 850 m"
+  - "National Gallery of Arts Tirana 900 m"
+  - "Skanderbeg Square 1 km"
+  - "Clock Tower Tirana 1 km"
+  - "Grand Park of Tirana 1.1 km"
+  - "National Museum of History Albania 1.2 km"
+  - "Tanners' Bridge 1.2 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Del Maestro 30 m"
+  - "Alar Fast Casual 50 m"
+whatsNearby:
+  - "Former Residence of Enver Hoxha 250 m"
+  - "Shesh Rekreativ 350 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 450 m"
+  - "Parku I Madh I Tiranës (Grand Park) 550 m"
+  - "Rinia Park 650 m"
+  - "Sheshi Rekreativ Piramida 700 m"
+  - "Sheshi Rekreativ Komuna e Parisit 750 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 750 m"
+  - "Parku Rinia 750 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 800 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Alexia"
+    country: "Spain"
+    text: "“My husband and I stayed at Villa Allko for 2 nights. Everything was great, clean and comfortable. The only thing to note is that the owner doesn't live at the location, so make sure you are able to call or message for check-in. The location was...”"
+  - name: "Armand"
+    country: "United Kingdom"
+    text: "“Great place. Wonderful host and very clean. Is easy to get to and it was a great night sleep. Highly recommended. Great price also”"
+  - name: "Şafak"
+    country: "Turkey"
+    text: "“hersey eksiksiz ve tamdi konumu kolay bulunabilirdi sessiz rahat ve en onemlisi
+temizlik konusunda cok titiz davranilmis bir evde varolan hersey vardi yer sahibi cok anlayisli ve guleryuzlu idi tekrar gelecek olursak kalacagimiz tek yer olacaktir.”"
+bookingURL: "https://www.booking.com/hotel/al/villa-allko.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This apartment doesn't just offer a place to stay; it provides a spacious sanctuary equipped with a separate bedroom, a bathroom, and a fully equipped kitchen with a dining area, ensuring guests feel at home. The inclusion of modern amenities such as a flat-screen TV, free WiFi, and the thoughtful provision of towels and bed linen, enhances the comfort of the stay.
 
 For those keen on exploring the city's historical and modern attractions, Arkle Apartment 4 is conveniently situated near the Postbllok - Checkpoint Monument, Pyramid of Tirana, and Reja - The Cloud, making it easy for guests to immerse themselves in the local culture and history. Additionally, the Tirana International Mother Teresa Airport is just 16 km away, facilitating easy travel arrangements for international guests.
 

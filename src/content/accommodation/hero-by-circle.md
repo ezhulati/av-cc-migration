@@ -1,4 +1,75 @@
----\ntitle: "Hero by Circle"\ndescription: "Hero by Circle emerges as a distinguished choice for travelers seeking a blend of comfort and convenience, with its prime location offering breathtaking mountain views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512189117.jpg?k=ccb4bffd40d6ab7cee426a5e3b30e7e33217901f021b34561c31abab9587cb61&o=&hp=1"\nlanguage: en\nslug: hero-by-circle\naddress: "Rruga Mahmut Fortuzi, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33529963\n  lng: 19.81891609\nprice: "US$37"\npriceFrom: 37\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512189117.jpg?k=ccb4bffd40d6ab7cee426a5e3b30e7e33217901f021b34561c31abab9587cb61&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512190172.jpg?k=08b99a8884494aeac82efe54d329156acd7c1b86f884aeb9e0d9dd260f2c8ff5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193866.jpg?k=a862b9ac460105b1909450c445d081ba7bdc90dcc043092bdad8863479a1e331&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193442.jpg?k=eef93eff4c662189fddda61eb95a3e5014d5bba0ff46af3ac355e14023d881a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193531.jpg?k=dc579e989c6cdf2c82e1155e73b0aeff56b9ee2e464fa2f8c297b479894b5399&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512185829.jpg?k=5ed495d905f7a957d42e1d55277d4b623d3d1c5c60e2220efd302cc903b5ebb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193487.jpg?k=2ab48d1ae4d85206852cf536152ac88da3f454334b76236ba6748b1e594ebb19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193483.jpg?k=59a966153560a413797d1ce9a91c4dff665f6f81070b57825f44e724eaab9ffe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513551300.jpg?k=c9e2b78b9d7a9f75177e12e11b638322f2b92dc20d7098674a0714aedb53c7d8&o=&hp=1"\namenities:\n  - "Fast free WiFi (73 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1 km"\n  - "Tanners' Bridge 1.1 km"\n  - "Rinia Park 1.2 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 3.8 km"\nnearbyRestaurants:\n  - "AC Longue 40 m"\n  - "Trinity 150 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 650 m"\n  - "Sheshi Paris 750 m"\n  - "Sheshi Skënderbej 750 m"\n  - "Sheshi Sulejman Pasha 800 m"\n  - "Skanderbeg Square 850 m"\n  - "Clock Tower Tirana 850 m"\n  - "Parku Europa 850 m"\n  - "Sheshi Rekreativ Mine Peza 950 m"\n  - "House of Leaves 1,000 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/hero-by-circle.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe apartment itself is a testament to modern living, boasting a spacious layout that is both air-conditioned and well-appointed. Guests are greeted with a tastefully furnished living space that includes a satellite flat-screen TV, a cozy dining area, and the luxury of a fully equipped kitchen. The inclusion of wine or champagne as part of the in-room amenities adds a touch of elegance to the stay, ensuring guests feel thoroughly pampered.
+---
+title: "Hero by Circle"
+description: "Hero by Circle emerges as a distinguished choice for travelers seeking a blend of comfort and convenience, with its prime location offering breathtaking mountain views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512189117.jpg?k=ccb4bffd40d6ab7cee426a5e3b30e7e33217901f021b34561c31abab9587cb61&o=&hp=1"
+language: en
+slug: hero-by-circle
+address: "Rruga Mahmut Fortuzi, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33529963
+  lng: 19.81891609
+price: "US$37"
+priceFrom: 37
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512189117.jpg?k=ccb4bffd40d6ab7cee426a5e3b30e7e33217901f021b34561c31abab9587cb61&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512190172.jpg?k=08b99a8884494aeac82efe54d329156acd7c1b86f884aeb9e0d9dd260f2c8ff5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193866.jpg?k=a862b9ac460105b1909450c445d081ba7bdc90dcc043092bdad8863479a1e331&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193442.jpg?k=eef93eff4c662189fddda61eb95a3e5014d5bba0ff46af3ac355e14023d881a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193531.jpg?k=dc579e989c6cdf2c82e1155e73b0aeff56b9ee2e464fa2f8c297b479894b5399&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512185829.jpg?k=5ed495d905f7a957d42e1d55277d4b623d3d1c5c60e2220efd302cc903b5ebb6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193487.jpg?k=2ab48d1ae4d85206852cf536152ac88da3f454334b76236ba6748b1e594ebb19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512193483.jpg?k=59a966153560a413797d1ce9a91c4dff665f6f81070b57825f44e724eaab9ffe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513551300.jpg?k=c9e2b78b9d7a9f75177e12e11b638322f2b92dc20d7098674a0714aedb53c7d8&o=&hp=1"
+amenities:
+  - "Fast free WiFi (73 Mbps)"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1 km"
+  - "Tanners' Bridge 1.1 km"
+  - "Rinia Park 1.2 km"
+  - "Former Residence of Enver Hoxha 1.6 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 3.8 km"
+nearbyRestaurants:
+  - "AC Longue 40 m"
+  - "Trinity 150 m"
+whatsNearby:
+  - "Amazing Nature 200 m"
+  - "National Museum of History Albania 650 m"
+  - "Sheshi Paris 750 m"
+  - "Sheshi Skënderbej 750 m"
+  - "Sheshi Sulejman Pasha 800 m"
+  - "Skanderbeg Square 850 m"
+  - "Clock Tower Tirana 850 m"
+  - "Parku Europa 850 m"
+  - "Sheshi Rekreativ Mine Peza 950 m"
+  - "House of Leaves 1,000 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/hero-by-circle.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The apartment itself is a testament to modern living, boasting a spacious layout that is both air-conditioned and well-appointed. Guests are greeted with a tastefully furnished living space that includes a satellite flat-screen TV, a cozy dining area, and the luxury of a fully equipped kitchen. The inclusion of wine or champagne as part of the in-room amenities adds a touch of elegance to the stay, ensuring guests feel thoroughly pampered.
 
 For those eager to explore, Hero by Circle is conveniently located less than a kilometer from Skanderbeg Square, placing guests in the lap of the city's vibrant life. Cultural landmarks such as the National Theatre of Opera and Ballet of Albania and the National Museum of History Albania are within easy reach, offering a deep dive into the country's rich heritage. Additionally, the Toptani Shopping Centre nearby caters to the needs of shopping aficionados, making it an ideal spot for both leisure and exploration.
 

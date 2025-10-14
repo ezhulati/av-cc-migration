@@ -1,5 +1,85 @@
----\ntitle: "Edea's Apartment"\ndescription: "Edea's Apartment offers a refreshing stay in the heart of Korçë, providing guests with a comfortable, air-conditioned retreat complete with a private balcony."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\nlanguage: en\nslug: edea-s-apartment\naddress: "Rruga 1 Maji, 7001 Korçë, Albania"\ncity: "Korçë"\nlocation: "Korçë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.62439276\n  lng: 20.77524065\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 7\nratings:\n  overall: 9.6\n  location: 8.9\n  cleanliness: 10\n  facilities: 8.9\n  value: 9.6\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"\n  - "https://cf.bstatic.com/static/img/flags/12/xk/b02858506aba20c9844cce25c84ae81896d81c6a.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310805903.jpg?k=b81f80444c57ad5e8fe7db921fdcf57e8d59aa7347b1f2d01bb00ccc68eb0787&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/306129351.jpg?k=7df36f1b2d7119122db6bca0b620e4e7821ef73164bfea3872bc097fb2e26e49&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/343489678.jpg?k=c95d5aa39ff4cf5a1cac21a9ba6e44fc1df2adf4d898f1ea721e4223c3312152&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129304.jpg?k=80c7dce325b8ba4755bffd0131825e88a3e55aa2cf91adab9762020cbdc51655&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129348.jpg?k=0555a61c0021dcc350f6940da7f4f768d7fc21bf474e302ee9d7508eb01dd3fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129319.jpg?k=e97f25ed8f31562424b7c0cb23c410d00b205902652c5d7239bd8001c4596777&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129314.jpg?k=2ee959e9eb2801929bb64ba9a9095bf18442894c5f7133df5c661028f3386c6b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\nnearbyRestaurants:\n  - "Viktoria Coffee Winners 150 m"\n  - "Cegora 250 m"\nwhatsNearby:\n  - "Parku Themistokli Gërmenji 850 m"\n  - "Field of Tears 900 m"\n  - "Parku Rinia 1,000 m"\n  - "Parku Vangjush Mio 1,000 m"\n  - "Parku Rinia 1 km"\n  - "Sheshi Patriku Joasaf 1.2 km"\n  - "Sheshi Panxhar 4.8 km"\n  - "Sheshi Penetori 12 km"\n  - "Sheshi Koço Plaku 12 km"\nairports:\n  - "Kastoria National Airport 46 km"\n  - "Ohrid Airport 60 km"\n  - "Kozani National Airport 97 km"\nreviews:\n  - name: "Nuni"\n    country: "Albania"\n    text: "“Everything was perfect. The owner was really polite and the house was stellar.”"\n  - name: "Denis"\n    country: "France"\n    text: "“Appartement neuf , propre , assez bien situé
-Bon accueil, personne gentille”"\n  - name: "Serxhio"\n    country: "France"\n    text: "“Le tout. Une appartement équipé de A a Z.
-Très moderne”"\nbookingURL: "https://www.booking.com/hotel/al/edea-39-s-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Couples"\nbestCategories: "Couples"\ncategory: "Couples"\n---\n\nGuests will find themselves in a thoughtfully arranged space, featuring two cozy bedrooms, a bathroom, and a fully equipped kitchen that caters to all culinary needs. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring relaxation is on the agenda.
+---
+title: "Edea's Apartment"
+description: "Edea's Apartment offers a refreshing stay in the heart of Korçë, providing guests with a comfortable, air-conditioned retreat complete with a private balcony."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+language: en
+slug: edea-s-apartment
+address: "Rruga 1 Maji, 7001 Korçë, Albania"
+city: "Korçë"
+location: "Korçë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.62439276
+  lng: 20.77524065
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 7
+ratings:
+  overall: 9.6
+  location: 8.9
+  cleanliness: 10
+  facilities: 8.9
+  value: 9.6
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"
+  - "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"
+  - "https://cf.bstatic.com/static/img/flags/12/xk/b02858506aba20c9844cce25c84ae81896d81c6a.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310805903.jpg?k=b81f80444c57ad5e8fe7db921fdcf57e8d59aa7347b1f2d01bb00ccc68eb0787&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/306129351.jpg?k=7df36f1b2d7119122db6bca0b620e4e7821ef73164bfea3872bc097fb2e26e49&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/343489678.jpg?k=c95d5aa39ff4cf5a1cac21a9ba6e44fc1df2adf4d898f1ea721e4223c3312152&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129304.jpg?k=80c7dce325b8ba4755bffd0131825e88a3e55aa2cf91adab9762020cbdc51655&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129348.jpg?k=0555a61c0021dcc350f6940da7f4f768d7fc21bf474e302ee9d7508eb01dd3fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129319.jpg?k=e97f25ed8f31562424b7c0cb23c410d00b205902652c5d7239bd8001c4596777&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/306129314.jpg?k=2ee959e9eb2801929bb64ba9a9095bf18442894c5f7133df5c661028f3386c6b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+nearbyRestaurants:
+  - "Viktoria Coffee Winners 150 m"
+  - "Cegora 250 m"
+whatsNearby:
+  - "Parku Themistokli Gërmenji 850 m"
+  - "Field of Tears 900 m"
+  - "Parku Rinia 1,000 m"
+  - "Parku Vangjush Mio 1,000 m"
+  - "Parku Rinia 1 km"
+  - "Sheshi Patriku Joasaf 1.2 km"
+  - "Sheshi Panxhar 4.8 km"
+  - "Sheshi Penetori 12 km"
+  - "Sheshi Koço Plaku 12 km"
+airports:
+  - "Kastoria National Airport 46 km"
+  - "Ohrid Airport 60 km"
+  - "Kozani National Airport 97 km"
+reviews:
+  - name: "Nuni"
+    country: "Albania"
+    text: "“Everything was perfect. The owner was really polite and the house was stellar.”"
+  - name: "Denis"
+    country: "France"
+    text: "“Appartement neuf , propre , assez bien situé
+Bon accueil, personne gentille”"
+  - name: "Serxhio"
+    country: "France"
+    text: "“Le tout. Une appartement équipé de A a Z.
+Très moderne”"
+bookingURL: "https://www.booking.com/hotel/al/edea-39-s-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Couples"
+bestCategories: "Couples"
+category: "Couples"
+---
+
+Guests will find themselves in a thoughtfully arranged space, featuring two cozy bedrooms, a bathroom, and a fully equipped kitchen that caters to all culinary needs. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring relaxation is on the agenda.
 
 For those looking to explore the historical and natural beauty of the area, the Monastery Saint Naum is just a short journey away. Conveniently, Kastoria National Airport is situated 71 km from the apartment, making Edea's Apartment an ideal choice for travelers seeking both comfort and adventure in Korçë.

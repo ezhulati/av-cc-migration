@@ -1,5 +1,93 @@
----\ntitle: "Perla Luxury Penthouse"\ndescription: "Perla Luxury Penthouse emerges as a premier choice for travelers seeking a blend of comfort and convenience in Tirana."\nfeaturedImage: "https://graph.facebook.com/v2.9/1170892026340885/picture?type=square&height=64&width=64"\nlanguage: en\nslug: perla-luxury-penthouse\naddress: "SH58 Floor 5, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34046321\n  lng: 19.860152\nprice: "US$113"\npriceFrom: 113\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.5\n  location: 8.8\n  cleanliness: 9.1\n  facilities: 9.7\n  value: 9.1\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/1170892026340885/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"\n  - "https://lh3.googleusercontent.com/a/AAcHTtesi8oYmydibTtWivzD9FkxVMUG132zeD9BHd580da3=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315168970.jpg?k=8f57c67e631b3d00f96204f3ebcc37391d2ddd9c967091f67bd48c7d2b7f8af2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/318752850.jpg?k=ec84cdd02de444c2230704f8fab901acd86e587833593abd207235b67f1ee473&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/315168971.jpg?k=2c6124ad4106a126f1afade95144d7e1f4c4d9f8474829c4a2d265c464989112&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/315168988.jpg?k=f5e8d991bf9eae9fdff8f5bd10faf380a7b9718e4fa0794fea9fbc5688e62c20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/318752813.jpg?k=61bc68c456dd7ccb48dabac2f8a2b6230485a450660f1bc29ff0d2697bb531cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/319774810.jpg?k=aeed785191c4b56ea2e32cab70c94158733f726818e7cf6ac1fd238f0b84f3ee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/315168954.jpg?k=64e165a63a9eabafc8909b120cdd7ba7f918d78b97f9eab7a2603c2b9ee52cc8&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (33 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 3.7 km"\n  - "Clock Tower Tirana 3.7 km"\n  - "Skanderbeg Square 3.7 km"\n  - "National Museum of History Albania 3.8 km"\n  - "Rinia Park 3.9 km"\n  - "House of Leaves 4 km"\n  - "Former Residence of Enver Hoxha 4.2 km"\n  - "Grand Park of Tirana 4.3 km"\nnearbyRestaurants:\n  - "Kean 500 m"\n  - "Maxi Caffe 550 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Banesat Sociale 950 m"\n  - "Bunk'Art 1 Museum 1 km"\n  - "Sheshi Rekreativ Gjolek Kokona 1.6 km"\n  - "Sheshi Jjosef Shtraus 2.1 km"\n  - "Dajti Mountain National Park 2.2 km"\n  - "Sheshi Rekreativ Allias 2.3 km"\n  - "Sheshi Rekreativ tek ish ATSh 3.1 km"\n  - "Tanners' Bridge 3.2 km"\n  - "Sheshi Sulejman Pasha 3.5 km"\n  - "Shesh Rekreativ 3.5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 76 km"\nreviews:\n  - name: "Sindi"\n    country: "Albania"\n    text: "“This was my second time staying in this apartment.
-I love the place, it’s really spacious, cozy and it has a big jaccuzi and a big terrace. We really enjoyed staying here, it was just perfect to get away from all the noise and have a quiet day...”"\n  - name: "Bart"\n    country: "Netherlands"\n    text: "“Amazing views and jacuzzi, host welcomed us with some wine and beers. Everything brand new and good quality. Responsive and helpful host who was very generous with check out time, definetly would come back!”"\n  - name: "Emma"\n    country: "Albania"\n    text: "“Host were super welcoming and nice ! Had a great stay and definitely worth the money!”"\nbookingURL: "https://www.booking.com/hotel/al/perla-suite.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nThe apartment is thoughtfully designed with two bedrooms, a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven, and a cozy seating area perfect for unwinding. Entertainment is readily available with a flat-screen TV, and the convenience of two bathrooms, each fitted with a bidet, adds to the comfort of the stay. For those who appreciate the finer things in life, the inclusion of wine or champagne as part of the in-room amenities elevates the experience.
+---
+title: "Perla Luxury Penthouse"
+description: "Perla Luxury Penthouse emerges as a premier choice for travelers seeking a blend of comfort and convenience in Tirana."
+featuredImage: "https://graph.facebook.com/v2.9/1170892026340885/picture?type=square&height=64&width=64"
+language: en
+slug: perla-luxury-penthouse
+address: "SH58 Floor 5, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.34046321
+  lng: 19.860152
+price: "US$113"
+priceFrom: 113
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 9
+ratings:
+  overall: 9.5
+  location: 8.8
+  cleanliness: 9.1
+  facilities: 9.7
+  value: 9.1
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://graph.facebook.com/v2.9/1170892026340885/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/nl/7b4427cefda046f99f0efc11622be2e83b8ba511.png"
+  - "https://lh3.googleusercontent.com/a/AAcHTtesi8oYmydibTtWivzD9FkxVMUG132zeD9BHd580da3=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315168970.jpg?k=8f57c67e631b3d00f96204f3ebcc37391d2ddd9c967091f67bd48c7d2b7f8af2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/318752850.jpg?k=ec84cdd02de444c2230704f8fab901acd86e587833593abd207235b67f1ee473&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/315168971.jpg?k=2c6124ad4106a126f1afade95144d7e1f4c4d9f8474829c4a2d265c464989112&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/315168988.jpg?k=f5e8d991bf9eae9fdff8f5bd10faf380a7b9718e4fa0794fea9fbc5688e62c20&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/318752813.jpg?k=61bc68c456dd7ccb48dabac2f8a2b6230485a450660f1bc29ff0d2697bb531cc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/319774810.jpg?k=aeed785191c4b56ea2e32cab70c94158733f726818e7cf6ac1fd238f0b84f3ee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/315168954.jpg?k=64e165a63a9eabafc8909b120cdd7ba7f918d78b97f9eab7a2603c2b9ee52cc8&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Good free WiFi (33 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 3.7 km"
+  - "Clock Tower Tirana 3.7 km"
+  - "Skanderbeg Square 3.7 km"
+  - "National Museum of History Albania 3.8 km"
+  - "Rinia Park 3.9 km"
+  - "House of Leaves 4 km"
+  - "Former Residence of Enver Hoxha 4.2 km"
+  - "Grand Park of Tirana 4.3 km"
+nearbyRestaurants:
+  - "Kean 500 m"
+  - "Maxi Caffe 550 m"
+whatsNearby:
+  - "Sheshi Rekreativ Banesat Sociale 950 m"
+  - "Bunk'Art 1 Museum 1 km"
+  - "Sheshi Rekreativ Gjolek Kokona 1.6 km"
+  - "Sheshi Jjosef Shtraus 2.1 km"
+  - "Dajti Mountain National Park 2.2 km"
+  - "Sheshi Rekreativ Allias 2.3 km"
+  - "Sheshi Rekreativ tek ish ATSh 3.1 km"
+  - "Tanners' Bridge 3.2 km"
+  - "Sheshi Sulejman Pasha 3.5 km"
+  - "Shesh Rekreativ 3.5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 13 km"
+  - "Ohrid Airport 76 km"
+reviews:
+  - name: "Sindi"
+    country: "Albania"
+    text: "“This was my second time staying in this apartment.
+I love the place, it’s really spacious, cozy and it has a big jaccuzi and a big terrace. We really enjoyed staying here, it was just perfect to get away from all the noise and have a quiet day...”"
+  - name: "Bart"
+    country: "Netherlands"
+    text: "“Amazing views and jacuzzi, host welcomed us with some wine and beers. Everything brand new and good quality. Responsive and helpful host who was very generous with check out time, definetly would come back!”"
+  - name: "Emma"
+    country: "Albania"
+    text: "“Host were super welcoming and nice ! Had a great stay and definitely worth the money!”"
+bookingURL: "https://www.booking.com/hotel/al/perla-suite.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+The apartment is thoughtfully designed with two bedrooms, a fully equipped kitchen featuring modern appliances such as a dishwasher and an oven, and a cozy seating area perfect for unwinding. Entertainment is readily available with a flat-screen TV, and the convenience of two bathrooms, each fitted with a bidet, adds to the comfort of the stay. For those who appreciate the finer things in life, the inclusion of wine or champagne as part of the in-room amenities elevates the experience.
 
 One of the highlights of Perla Luxury Penthouse is the outdoor dining area, where guests can savor a meal while soaking in the breathtaking mountain views, adding a touch of romance to the evening. The property doesn't stop at offering a luxurious stay; it also provides practical amenities such as barbecue facilities, on-site parking, and an electric vehicle charging station, catering to the needs of every guest.
 

@@ -5,7 +5,6 @@ region: Southern Albania
 featuredImage: /images/destinations/grabove.jpg
 images: []
 coordinates:
-seo:
   lat: 0
   lng: 0
 language: en

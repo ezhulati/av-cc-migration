@@ -1,6 +1,93 @@
----\ntitle: "Supreme City Center Tirana"\ndescription: "Supreme City Center Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041208.jpg?k=3edc4f841a7d4b16ae460d3060ec36b7d012e8b514fcb92cfd8f35cb2449473f&o=&hp=1"\nlanguage: en\nslug: supreme-city-center-tirana\naddress: "Milan Shuflaj street, 1121 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33202391\n  lng: 19.8096143\nprice: "US$36"\npriceFrom: 36\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 5\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.5\n  facilities: 9.5\n  value: 9.5\n  comfort: 10\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041208.jpg?k=3edc4f841a7d4b16ae460d3060ec36b7d012e8b514fcb92cfd8f35cb2449473f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041283.jpg?k=dffe94d4f937aec7c90a0474f10cbb7da034e53606fa89f0aaac5aa81dabed5b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507843853.jpg?k=a856dd9a11d675744484af1f28a0302b62185dd832aff127fe68722b6f355fce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519672058.jpg?k=7ad57bec3bd7545bb7f79644d32286da0225f9923bf10aef34e0ef0145f04250&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894066.jpg?k=bf2da5e488d74fd906646a0c1b83d6279182fbb67045634ad5e81b01d9b311be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894065.jpg?k=e3ff4e9249dc6f42844f1ea65eb988f4579a2de05874a326e7a3339f9740fe7d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518042041.jpg?k=b54bef57492ab8655cb769c8b343a1106c10800103ac0fc68b5469892ba70d88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519671967.jpg?k=01c4bf59fd9a249079c9f1a2189082aa62b6c8f49a563139e96b1c436066ed87&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041087.jpg?k=1611d27fbe575c3e04cc450059340e365eebf5680dd674e6aed565882e06bc99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519671866.jpg?k=b7151bdbbc93469c42bf4888e0f884cad28e0b74c5a0ba05982b5d6d7decb998&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894056.jpg?k=7226e4af79736d58c862bdb0a209e37e14c904629fdd98587de37d265f9a6e1e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894057.jpg?k=650eb67368579e9009cd9c533dda8890becfe2bd87068636570cfae30fe915d2&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Deluxe Apartment"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Byrek Pica 40 m"\n  - "Bar Restorant Vila Tafaj 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 300 m"\n  - "Sheshi Paris 550 m"\n  - "Sheshi Rekreativ Don Bosko 550 m"\n  - "National Museum of History Albania 700 m"\n  - "Sheshi Skënderbej 800 m"\n  - "Amazing Nature 800 m"\n  - "House of Leaves 800 m"\n  - "Skanderbeg Square 950 m"\n  - "Parku Europa 950 m"\n  - "Clock Tower Tirana 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Sergi"\n    country: "Italy"\n    text: "“Apartment super clean, host helped us with recomandation on what to visit.Great location 5 min walk from city centre. Totaly recomand it!!”"\n  - name: "Ana"\n    country: "Italy"\n    text: "“The apartment was very comfort!
+---
+title: "Supreme City Center Tirana"
+description: "Supreme City Center Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041208.jpg?k=3edc4f841a7d4b16ae460d3060ec36b7d012e8b514fcb92cfd8f35cb2449473f&o=&hp=1"
+language: en
+slug: supreme-city-center-tirana
+address: "Milan Shuflaj street, 1121 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33202391
+  lng: 19.8096143
+price: "US$36"
+priceFrom: 36
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 5
+ratings:
+  overall: 9.6
+  location: 9.5
+  cleanliness: 9.5
+  facilities: 9.5
+  value: 9.5
+  comfort: 10
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041208.jpg?k=3edc4f841a7d4b16ae460d3060ec36b7d012e8b514fcb92cfd8f35cb2449473f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041283.jpg?k=dffe94d4f937aec7c90a0474f10cbb7da034e53606fa89f0aaac5aa81dabed5b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507843853.jpg?k=a856dd9a11d675744484af1f28a0302b62185dd832aff127fe68722b6f355fce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519672058.jpg?k=7ad57bec3bd7545bb7f79644d32286da0225f9923bf10aef34e0ef0145f04250&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894066.jpg?k=bf2da5e488d74fd906646a0c1b83d6279182fbb67045634ad5e81b01d9b311be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894065.jpg?k=e3ff4e9249dc6f42844f1ea65eb988f4579a2de05874a326e7a3339f9740fe7d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518042041.jpg?k=b54bef57492ab8655cb769c8b343a1106c10800103ac0fc68b5469892ba70d88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519671967.jpg?k=01c4bf59fd9a249079c9f1a2189082aa62b6c8f49a563139e96b1c436066ed87&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518041087.jpg?k=1611d27fbe575c3e04cc450059340e365eebf5680dd674e6aed565882e06bc99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519671866.jpg?k=b7151bdbbc93469c42bf4888e0f884cad28e0b74c5a0ba05982b5d6d7decb998&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894056.jpg?k=7226e4af79736d58c862bdb0a209e37e14c904629fdd98587de37d265f9a6e1e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506894057.jpg?k=650eb67368579e9009cd9c533dda8890becfe2bd87068636570cfae30fe915d2&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Deluxe Apartment"
+nearbyAttractions:
+  - "Rinia Park 1.1 km"
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Tanners' Bridge 1.5 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+nearbyRestaurants:
+  - "Byrek Pica 40 m"
+  - "Bar Restorant Vila Tafaj 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 300 m"
+  - "Sheshi Paris 550 m"
+  - "Sheshi Rekreativ Don Bosko 550 m"
+  - "National Museum of History Albania 700 m"
+  - "Sheshi Skënderbej 800 m"
+  - "Amazing Nature 800 m"
+  - "House of Leaves 800 m"
+  - "Skanderbeg Square 950 m"
+  - "Parku Europa 950 m"
+  - "Clock Tower Tirana 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Sergi"
+    country: "Italy"
+    text: "“Apartment super clean, host helped us with recomandation on what to visit.Great location 5 min walk from city centre. Totaly recomand it!!”"
+  - name: "Ana"
+    country: "Italy"
+    text: "“The apartment was very comfort!
 We were so happy about the coffee machine equipped with free coffee capsules by the host.
-Super clean and perfect location!”"\n  - name: "Abdulla"\n    country: "Armenia"\n    text: "“Host was very nice and picked us from Airport. Apartment super cleen and full of Amenities. Great Central Location, you reach by walk each point of interest !”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-in-center-of-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to a modern living space that boasts a panoramic city view from its welcoming balcony. The accommodation is meticulously designed to cater to the needs of the modern traveler, featuring an air-conditioned environment that houses a bedroom, a living room, and a fully equipped kitchen complete with an oven and a coffee machine. The attention to detail extends to the bathroom, equipped with a shower and complemented by slippers, towels, and bed linen for a touch of home-like comfort. Notably, the guest house ensures privacy and ease of access with a private entrance for guests.
+Super clean and perfect location!”"
+  - name: "Abdulla"
+    country: "Armenia"
+    text: "“Host was very nice and picked us from Airport. Apartment super cleen and full of Amenities. Great Central Location, you reach by walk each point of interest !”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-in-center-of-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are treated to a modern living space that boasts a panoramic city view from its welcoming balcony. The accommodation is meticulously designed to cater to the needs of the modern traveler, featuring an air-conditioned environment that houses a bedroom, a living room, and a fully equipped kitchen complete with an oven and a coffee machine. The attention to detail extends to the bathroom, equipped with a shower and complemented by slippers, towels, and bed linen for a touch of home-like comfort. Notably, the guest house ensures privacy and ease of access with a private entrance for guests.
 
 For those who might need to pick up essentials or snacks, a convenient minimarket on the premises adds to the appeal of Supreme City Center Tirana. The location is unbeatable for those eager to explore, with the National Museum of History Albania, House of Leaves, and Rinia Park within easy reach, making it an ideal base for cultural excursions and leisurely strolls.
 

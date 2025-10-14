@@ -1,3 +1,82 @@
----\ntitle: "Marvi's Gated Beach area apt"\ndescription: "Marvi's Gated Beach Area Apartment emerges as a serene oasis in Durrës, boasting an enviable location mere steps from the pristine Durres Beach and a short drive from the captivating Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691591.jpg?k=3c541150b45e891d5482bb00cdc8158385bb871e693550e92ecb2598d40aa31f&o=&hp=1"\nlanguage: en\nslug: marvi-s-gated-beach-area-apt\naddress: "Plazh 13, Rezidenca Qeveritare Durres, Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2988423\n  lng: 19.49909496\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.8\n  location: 8.8\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691591.jpg?k=3c541150b45e891d5482bb00cdc8158385bb871e693550e92ecb2598d40aa31f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691631.jpg?k=439b4277475d29cfcf25e95f2fee256c914a18543075b1b6fe40aecface8dbe9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691632.jpg?k=f33c7b69d3f3b8a3d783b13979e671abfa09a8eb096ec3b0cf17454a0fbdc96e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691628.jpg?k=f7b82c16bd48a9c17dccdfe19863569f49afbc4a159a42911e3b72f3903ebe35&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691625.jpg?k=8e9b7a2998ffe1a7235d5eaded68211db179a396ae873effb1d8773c4cb1a4dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492908911.jpg?k=c4f54af514d10f1423964b5fe2e40e32dff474b6481cdecffc6ce6396ac31287&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691613.jpg?k=b8b9d9c2f3578c78134f3a20a16e8fed94650cacd7e3166904553b8e264e5337&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691612.jpg?k=93ca43fc26dedc0ec215070f0afd91ccc03f2366a60042ba1fd3542ac6353a23&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691615.jpg?k=55d1f2e3cbfbde4d41b9c725c1b421f911a4c99807ed94e7b217cb3105eeca6f&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Beachfront"\nnearbyRestaurants:\n  - "RRESHKA 200 m"\n  - "Pista e Vogel Iliria 200 m"\nnearbyBeaches:\n  - "Durres Beach 100 m"\n  - "Shkëmbi i Kavajës Beach 1.7 km"\n  - "Golem Beach 4.1 km"\n  - "Currila Beach 4.4 km"\n  - "Mali I Robit Beach 6 km"\nwhatsNearby:\n  - "Bekimi 3.7 km"\n  - "Wine Dhe Pooh 4.6 km"\n  - "Sheshi Demokracia 4.7 km"\n  - "Yje Dhe Hena 4.7 km"\n  - "Durres Amphiteatre 4.8 km"\n  - "1. Maj 4.9 km"\n  - "Sotir Noka 5 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Emi"\n    country: "Croatia"\n    text: "“At Marvin's, I found excellent hosts and perfect peace. The house is located inside the gated woody area rimmed with a sandy beach, while the vibrant town with its many coffee bars, restaurants, grocery shops and friendly people is, so to say,...”"\n  - name: "Tibor"\n    country: "Serbia"\n    text: "“Tetszett minden. Nyugodt félreeső környéken van. Az autót is maximális biztonságban tudtuk.”"\nbookingURL: "https://www.booking.com/hotel/al/marvis-beachside-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis meticulously designed one-bedroom apartment is a haven of comfort, offering guests a seamless blend of modern amenities and homely warmth. With complimentary WiFi, guests can stay connected while enjoying the comforts of a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a toaster and fridge. The air-conditioned space is thoughtfully appointed with a bidet and a dressing room, ensuring a stay that is as comfortable as it is convenient. The added benefit of a private entrance underscores the apartment's commitment to privacy and exclusivity.
+---
+title: "Marvi's Gated Beach area apt"
+description: "Marvi's Gated Beach Area Apartment emerges as a serene oasis in Durrës, boasting an enviable location mere steps from the pristine Durres Beach and a short drive from the captivating Shkëmbi i Kavajës Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691591.jpg?k=3c541150b45e891d5482bb00cdc8158385bb871e693550e92ecb2598d40aa31f&o=&hp=1"
+language: en
+slug: marvi-s-gated-beach-area-apt
+address: "Plazh 13, Rezidenca Qeveritare Durres, Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2988423
+  lng: 19.49909496
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 9.8
+  location: 8.8
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691591.jpg?k=3c541150b45e891d5482bb00cdc8158385bb871e693550e92ecb2598d40aa31f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691631.jpg?k=439b4277475d29cfcf25e95f2fee256c914a18543075b1b6fe40aecface8dbe9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691632.jpg?k=f33c7b69d3f3b8a3d783b13979e671abfa09a8eb096ec3b0cf17454a0fbdc96e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691628.jpg?k=f7b82c16bd48a9c17dccdfe19863569f49afbc4a159a42911e3b72f3903ebe35&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691625.jpg?k=8e9b7a2998ffe1a7235d5eaded68211db179a396ae873effb1d8773c4cb1a4dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492908911.jpg?k=c4f54af514d10f1423964b5fe2e40e32dff474b6481cdecffc6ce6396ac31287&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691613.jpg?k=b8b9d9c2f3578c78134f3a20a16e8fed94650cacd7e3166904553b8e264e5337&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691612.jpg?k=93ca43fc26dedc0ec215070f0afd91ccc03f2366a60042ba1fd3542ac6353a23&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358691615.jpg?k=55d1f2e3cbfbde4d41b9c725c1b421f911a4c99807ed94e7b217cb3105eeca6f&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Beachfront"
+nearbyRestaurants:
+  - "RRESHKA 200 m"
+  - "Pista e Vogel Iliria 200 m"
+nearbyBeaches:
+  - "Durres Beach 100 m"
+  - "Shkëmbi i Kavajës Beach 1.7 km"
+  - "Golem Beach 4.1 km"
+  - "Currila Beach 4.4 km"
+  - "Mali I Robit Beach 6 km"
+whatsNearby:
+  - "Bekimi 3.7 km"
+  - "Wine Dhe Pooh 4.6 km"
+  - "Sheshi Demokracia 4.7 km"
+  - "Yje Dhe Hena 4.7 km"
+  - "Durres Amphiteatre 4.8 km"
+  - "1. Maj 4.9 km"
+  - "Sotir Noka 5 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Emi"
+    country: "Croatia"
+    text: "“At Marvin's, I found excellent hosts and perfect peace. The house is located inside the gated woody area rimmed with a sandy beach, while the vibrant town with its many coffee bars, restaurants, grocery shops and friendly people is, so to say,...”"
+  - name: "Tibor"
+    country: "Serbia"
+    text: "“Tetszett minden. Nyugodt félreeső környéken van. Az autót is maximális biztonságban tudtuk.”"
+bookingURL: "https://www.booking.com/hotel/al/marvis-beachside-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This meticulously designed one-bedroom apartment is a haven of comfort, offering guests a seamless blend of modern amenities and homely warmth. With complimentary WiFi, guests can stay connected while enjoying the comforts of a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a toaster and fridge. The air-conditioned space is thoughtfully appointed with a bidet and a dressing room, ensuring a stay that is as comfortable as it is convenient. The added benefit of a private entrance underscores the apartment's commitment to privacy and exclusivity.
 
 Beyond the confines of this inviting apartment, guests will find the Dajti Ekspres Cable Car 43 km away, offering an adventure for those inclined to explore the heights, while the Rock of Kavaje is a mere 3.9 km away for those who prefer to keep their explorations grounded. For international travelers, the Tirana International Mother Teresa Airport is conveniently located 34 km from the property, making Marvi's Gated Beach Area Apartment an ideal choice for both local and international guests seeking a memorable stay in Durrës.

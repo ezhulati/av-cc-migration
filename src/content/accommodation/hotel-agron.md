@@ -1,4 +1,85 @@
----\ntitle: "Hotel Agron"\ndescription: "Hotel Agron emerges as a distinguished choice for travelers seeking both the vibrancy of Tirana's city life and the tranquility of its picturesque surroundings."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360591637.jpg?k=aa5f4a365a991fec57829ecebb4d5b5c3361e127e6fc9de47300582f96ab7165&o=&hp=1"\nlanguage: en\nslug: hotel-agron\naddress: "227 Rruga e Elbasanit Hotel Agron, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.312532\n  lng: 19.83544\nprice: "US$44"\npriceFrom: 44\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 7\nratings:\n  overall: 7.9\n  location: 8.3\n  cleanliness: 7.5\n  facilities: 7.1\n  value: 7.5\n  comfort: 7.5\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360591637.jpg?k=aa5f4a365a991fec57829ecebb4d5b5c3361e127e6fc9de47300582f96ab7165&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369567368.jpg?k=3a954c3c34b1c8c39440297f93e7673a3e19675deeecbbca9115fff1f60fc472&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373776127.jpg?k=7cc865c016b1f678465f44eb12f37264f02d31dd79df35a72e61b1ffaa15733a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359935769.jpg?k=86433da98ef853f09a25feb7ea55e8faa503967350ef9b39d4704f9714c4525c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360590254.jpg?k=3d3ccf5bde7bd23b9e920912e5a94bf7964cb9692595dd0a57293607071adb1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360590234.jpg?k=99960fe386d09b94ca48f74d5c70b1f42a17f3f578e9ed17a38739d8f125041e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "24-hour front desk"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Budget Double Room"\n  - "Budget Twin Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 2 km"\n  - "Rinia Park 2 km"\n  - "Clock Tower Tirana 2.1 km"\n  - "Skanderbeg Square 2.2 km"\n  - "House of Leaves 2.2 km"\n  - "National Museum of History Albania 2.4 km"\n  - "Bunk'Art 1 Museum 4.6 km"\nnearbyRestaurants:\n  - "Primitivo 150 m"\n  - "Sofra e Ariut 200 m"\nwhatsNearby:\n  - "Parku I Madh 600 m"\n  - "Grand Park of Tirana 800 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1 km"\n  - "Shesh Rekreativ 1.1 km"\n  - "Sheshi Rekreativ Tika 1.2 km"\n  - "Shesh Rekreativ 1.5 km"\n  - "Parku I Madh I Tiranës (Grand Park) 1.6 km"\n  - "Sheshi Rekreativ Piramida 1.6 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Former Residence of Enver Hoxha 1.8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 77 km"\nreviews:\n  - name: "Learta"\n    country: "United Kingdom"\n    text: "“The location is perfect . The staff very disponible. Everything was ok.”"\nbookingURL: "https://www.booking.com/hotel/al/agron-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at Hotel Agron are treated to an array of amenities designed to enhance their stay. The establishment boasts a welcoming bar, complemented by the convenience of complimentary WiFi and ample private parking for those arriving by car. The proximity to significant landmarks such as the Former Residence of Enver Hoxha, the evocative Rock of Kavaje, and the historical Postbllok - Checkpoint Monument, positions Hotel Agron as an ideal base for exploring the rich cultural tapestry of Tirana.
+---
+title: "Hotel Agron"
+description: "Hotel Agron emerges as a distinguished choice for travelers seeking both the vibrancy of Tirana's city life and the tranquility of its picturesque surroundings."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360591637.jpg?k=aa5f4a365a991fec57829ecebb4d5b5c3361e127e6fc9de47300582f96ab7165&o=&hp=1"
+language: en
+slug: hotel-agron
+address: "227 Rruga e Elbasanit Hotel Agron, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.312532
+  lng: 19.83544
+price: "US$44"
+priceFrom: 44
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 7
+ratings:
+  overall: 7.9
+  location: 8.3
+  cleanliness: 7.5
+  facilities: 7.1
+  value: 7.5
+  comfort: 7.5
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360591637.jpg?k=aa5f4a365a991fec57829ecebb4d5b5c3361e127e6fc9de47300582f96ab7165&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369567368.jpg?k=3a954c3c34b1c8c39440297f93e7673a3e19675deeecbbca9115fff1f60fc472&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373776127.jpg?k=7cc865c016b1f678465f44eb12f37264f02d31dd79df35a72e61b1ffaa15733a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359935769.jpg?k=86433da98ef853f09a25feb7ea55e8faa503967350ef9b39d4704f9714c4525c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360590254.jpg?k=3d3ccf5bde7bd23b9e920912e5a94bf7964cb9692595dd0a57293607071adb1b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360590234.jpg?k=99960fe386d09b94ca48f74d5c70b1f42a17f3f578e9ed17a38739d8f125041e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "24-hour front desk"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Budget Double Room"
+  - "Budget Twin Room"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 2 km"
+  - "Rinia Park 2 km"
+  - "Clock Tower Tirana 2.1 km"
+  - "Skanderbeg Square 2.2 km"
+  - "House of Leaves 2.2 km"
+  - "National Museum of History Albania 2.4 km"
+  - "Bunk'Art 1 Museum 4.6 km"
+nearbyRestaurants:
+  - "Primitivo 150 m"
+  - "Sofra e Ariut 200 m"
+whatsNearby:
+  - "Parku I Madh 600 m"
+  - "Grand Park of Tirana 800 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 1 km"
+  - "Shesh Rekreativ 1.1 km"
+  - "Sheshi Rekreativ Tika 1.2 km"
+  - "Shesh Rekreativ 1.5 km"
+  - "Parku I Madh I Tiranës (Grand Park) 1.6 km"
+  - "Sheshi Rekreativ Piramida 1.6 km"
+  - "Tanners' Bridge 1.7 km"
+  - "Former Residence of Enver Hoxha 1.8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 13 km"
+  - "Ohrid Airport 77 km"
+reviews:
+  - name: "Learta"
+    country: "United Kingdom"
+    text: "“The location is perfect . The staff very disponible. Everything was ok.”"
+bookingURL: "https://www.booking.com/hotel/al/agron-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests at Hotel Agron are treated to an array of amenities designed to enhance their stay. The establishment boasts a welcoming bar, complemented by the convenience of complimentary WiFi and ample private parking for those arriving by car. The proximity to significant landmarks such as the Former Residence of Enver Hoxha, the evocative Rock of Kavaje, and the historical Postbllok - Checkpoint Monument, positions Hotel Agron as an ideal base for exploring the rich cultural tapestry of Tirana.
 
 The accommodations at Hotel Agron are thoughtfully appointed, ensuring a comfortable and memorable stay. Each room opens up to a balcony that presents either a serene mountain vista or a captivating cityscape, allowing guests to soak in the beauty of Tirana from the comfort of their private space. The rooms are equipped with modern conveniences including air conditioning and flat-screen TVs, alongside en-suite bathrooms complete with a bidet and complimentary toiletries, ensuring a blend of luxury and practicality.
 

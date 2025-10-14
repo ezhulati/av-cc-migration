@@ -1,4 +1,84 @@
----\ntitle: "Apartament 8"\ndescription: "Discover the charm of Golem with a stay at Apartament 8, a prime choice for travelers seeking comfort and convenience mere steps from the serene Mali I Robit Beach and a short stroll from the picturesque Qerret Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340198.jpg?k=847f81851dfc94594e540cf3fad66e0b326e5820f3f22f3447f00c96522b8ec6&o=&hp=1"\nlanguage: en\nslug: apartament-8\naddress: "Rruga Mak Abania, Mali Robit, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2327992\n  lng: 19.5170993\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 8.8\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340198.jpg?k=847f81851dfc94594e540cf3fad66e0b326e5820f3f22f3447f00c96522b8ec6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467198956.jpg?k=fdcd27bc997c2f2cf3a188190ecdc7d2a07281588ecc2a4d71c131ebb3bbc42a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340193.jpg?k=f2e754179b37f31833f9d70a7ca9a4c9f8fae023f1835c87a32401e6e9388c18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340195.jpg?k=815d1f620e31b7bc6bd14f399e6287a3f78a8aaa542bfa604a31fc5532b1cb8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480128453.jpg?k=667050be5aa2ec5a037f4cb43373c945d51292ae62b3e1814e223ce196470301&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340188.jpg?k=3ff5a54963ea52eeebcde017a68f1956ce8df833c55d6495d2973d9a2a445f6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340190.jpg?k=3df81b4be35ea91eb9684190255cab1726b19351260f8f4d67f7a9bfbd2d9584&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480127476.jpg?k=95dc84f2b1329207b8856e0cfb7f337bd5eefeb005654f41af84e9cca4e89148&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467198847.jpg?k=3667ca98e90d1064496380ede9cda206775326efbca880b87398bd813369557c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340191.jpg?k=4253eff71de8ceb601522e42eb668c22e62dc2bb715a380ef7bd60f72bb8520d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340196.jpg?k=3969f8cf7a62163d061cacbaabd5f9baeaca3706246869d475c26e2f2867ef66&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340197.jpg?k=a7bc47e4c9a8b13a8f35aa6b5ee7e76ae13797a88b97d6948c14f44744358f72&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340202.jpg?k=77b97c1f5a4a562b34eab399a8f6f489ced085b9a2b03153ff36abb60631036f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340203.jpg?k=310663fdc62231ba7ab5dcd729a16fa0409839b8665a82ff0709ae21b01de84d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359649881.jpg?k=164036c10a5d50eb1dc5fdb4c1d7bb45d0d27f8ec3fec9bc7e841a8c71459aec&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyRestaurants:\n  - "Prestige İStanbul Kebab House 30 m"\n  - "Fishinn 2 150 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 200 m"\n  - "Qerret Beach 450 m"\n  - "Golem Beach 1.7 km"\n  - "Shkëmbi i Kavajës Beach 3.6 km"\n  - "Durres Beach 6 km"\nwhatsNearby:\n  - "Durres Amphiteatre 11 km"\n  - "1. Maj 11 km"\n  - "Wine Dhe Pooh 11 km"\n  - "Yje Dhe Hena 11 km"\n  - "Sheshi Demokracia 11 km"\n  - "Bekimi 11 km"\n  - "Sotir Noka 11 km"\n  - "Divjake-Karavasta National Park 20 km"\nairports:\n  - "Tirana International Airport Mother Teresa 25 km"\nreviews:\n  - name: "Nadia"\n    country: "Spain"\n    text: "“the treatment by the owners was incredible! they provided us with everything!”"\nbookingURL: "https://www.booking.com/hotel/al/apartament-8.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nApartament 8 is a haven of relaxation, boasting two cozy bedrooms, a living space illuminated by natural light streaming through its balcony doors, and a flat-screen TV for entertainment. The fully equipped kitchen, complete with a microwave and minibar, invites guests to prepare their meals with ease, while the inclusion of a washing machine adds to the convenience. The modern bathroom, featuring a bidet, ensures a refreshing start or end to your day.
+---
+title: "Apartament 8"
+description: "Discover the charm of Golem with a stay at Apartament 8, a prime choice for travelers seeking comfort and convenience mere steps from the serene Mali I Robit Beach and a short stroll from the picturesque Qerret Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340198.jpg?k=847f81851dfc94594e540cf3fad66e0b326e5820f3f22f3447f00c96522b8ec6&o=&hp=1"
+language: en
+slug: apartament-8
+address: "Rruga Mak Abania, Mali Robit, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2327992
+  lng: 19.5170993
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 8.8
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340198.jpg?k=847f81851dfc94594e540cf3fad66e0b326e5820f3f22f3447f00c96522b8ec6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467198956.jpg?k=fdcd27bc997c2f2cf3a188190ecdc7d2a07281588ecc2a4d71c131ebb3bbc42a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340193.jpg?k=f2e754179b37f31833f9d70a7ca9a4c9f8fae023f1835c87a32401e6e9388c18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340195.jpg?k=815d1f620e31b7bc6bd14f399e6287a3f78a8aaa542bfa604a31fc5532b1cb8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480128453.jpg?k=667050be5aa2ec5a037f4cb43373c945d51292ae62b3e1814e223ce196470301&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340188.jpg?k=3ff5a54963ea52eeebcde017a68f1956ce8df833c55d6495d2973d9a2a445f6b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340190.jpg?k=3df81b4be35ea91eb9684190255cab1726b19351260f8f4d67f7a9bfbd2d9584&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480127476.jpg?k=95dc84f2b1329207b8856e0cfb7f337bd5eefeb005654f41af84e9cca4e89148&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467198847.jpg?k=3667ca98e90d1064496380ede9cda206775326efbca880b87398bd813369557c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340191.jpg?k=4253eff71de8ceb601522e42eb668c22e62dc2bb715a380ef7bd60f72bb8520d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340196.jpg?k=3969f8cf7a62163d061cacbaabd5f9baeaca3706246869d475c26e2f2867ef66&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340197.jpg?k=a7bc47e4c9a8b13a8f35aa6b5ee7e76ae13797a88b97d6948c14f44744358f72&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340202.jpg?k=77b97c1f5a4a562b34eab399a8f6f489ced085b9a2b03153ff36abb60631036f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340203.jpg?k=310663fdc62231ba7ab5dcd729a16fa0409839b8665a82ff0709ae21b01de84d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359649881.jpg?k=164036c10a5d50eb1dc5fdb4c1d7bb45d0d27f8ec3fec9bc7e841a8c71459aec&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Private beach area"
+nearbyRestaurants:
+  - "Prestige İStanbul Kebab House 30 m"
+  - "Fishinn 2 150 m"
+nearbyBeaches:
+  - "Mali I Robit Beach 200 m"
+  - "Qerret Beach 450 m"
+  - "Golem Beach 1.7 km"
+  - "Shkëmbi i Kavajës Beach 3.6 km"
+  - "Durres Beach 6 km"
+whatsNearby:
+  - "Durres Amphiteatre 11 km"
+  - "1. Maj 11 km"
+  - "Wine Dhe Pooh 11 km"
+  - "Yje Dhe Hena 11 km"
+  - "Sheshi Demokracia 11 km"
+  - "Bekimi 11 km"
+  - "Sotir Noka 11 km"
+  - "Divjake-Karavasta National Park 20 km"
+airports:
+  - "Tirana International Airport Mother Teresa 25 km"
+reviews:
+  - name: "Nadia"
+    country: "Spain"
+    text: "“the treatment by the owners was incredible! they provided us with everything!”"
+bookingURL: "https://www.booking.com/hotel/al/apartament-8.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Apartament 8 is a haven of relaxation, boasting two cozy bedrooms, a living space illuminated by natural light streaming through its balcony doors, and a flat-screen TV for entertainment. The fully equipped kitchen, complete with a microwave and minibar, invites guests to prepare their meals with ease, while the inclusion of a washing machine adds to the convenience. The modern bathroom, featuring a bidet, ensures a refreshing start or end to your day.
 
 For those intrigued by history, the former Residence of Enver Hoxha lies 48 km away, offering a glimpse into Albania's past. Meanwhile, the Durres Amphitheatre, 17 km from the apartment, presents a cultural excursion. With Tirana International Mother Teresa Airport only 42 km away, Apartament 8 serves as an accessible retreat for both international and domestic travelers.
 

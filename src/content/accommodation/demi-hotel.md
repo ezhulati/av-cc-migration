@@ -1,4 +1,99 @@
----\ntitle: "Demi Hotel"\ndescription: "Demi Hotel emerges as a distinguished choice for travelers seeking both relaxation and adventure in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199732894.jpg?k=f057f42ab41bc519a43381fe08881ceab2635f8897320bc558e622708ae845c1&o=&hp=1"\nlanguage: en\nslug: demi-hotel\naddress: "Rruga Butrinti, 1011 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86963874\n  lng: 20.01422659\nprice: "US$108"\npriceFrom: 108\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 454\nratings:\n  overall: 9.2\n  location: 9.6\n  cleanliness: 9.5\n  facilities: 9.3\n  value: 8.7\n  comfort: 9.5\n  staff: 9.2\n  wifi: 8.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199732894.jpg?k=f057f42ab41bc519a43381fe08881ceab2635f8897320bc558e622708ae845c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310120681.jpg?k=a1ef0bb8c32cc88802ef77d843f6285c15cd23cc88caf790719a84b715503b96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207856495.jpg?k=1db9299a36df104e66dabe0d0e4ad3dcac66c5a014c8210d6794bede355fc5e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374533785.jpg?k=d355f949bd9bdc69a8f60c77542306731d8e03ec56f98dd05d5b6ea63f8a26b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374533789.jpg?k=1b11ecdf92affa371606be9c9e8d667eb198ff858a98cacf3a6d527254dc4622&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374519740.jpg?k=4c6b251dcccb2e1bc44ea0824fa83f1f817d3a864e5f27503321f65c41efef7f&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Private beach area"\n  - "Superb breakfast"\nroomTypes:\n  - "Standard Double Room with Side Sea View"\n  - "Double Room with Balcony"\n  - "Double or Twin Room with Side Sea View"\n  - "Deluxe Double Room with Balcony and Sea View"\n  - "Superior Double Room"\n  - "Deluxe Suite"\n  - "VIP Suite"\n  - "Triple Room with Balcony"\n  - "Superior Suite with Sea View"\nnearbyRestaurants:\n  - "Restorant Agimi & S 8 m"\n  - "RESORANT DEMI 20 m"\nnearbyBeaches:\n  - "La Petite Beach 100 m"\n  - "Saranda City Beach 250 m"\n  - "Maestral Beach 300 m"\n  - "Sarande Main Beach 950 m"\n  - "VIP Beach 1.3 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.5 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Samantha"\n    country: "United Kingdom"\n    text: "“The reception staff and the restaurant staff were lovely, despite during main lunch service being clearly understaffed and very busy. We stayed towards the end of the season, so the hotel and surrounding area were very quiet and relaxing. We were...”"\n  - name: "Sweeeeeeetzerland"\n    country: "Switzerland"\n    text: "“the view is fantastic! sunsets are the best! the location is superb!”"\n  - name: "Michael"\n    country: "Australia"\n    text: "“The room was large and stylishly decorated. The bed and pillows were really comfortable. It had all facilities such as iron and ironing board, a safe, coffee and tea making, a stocked minibar. We had a balcony with a great view view of Sarande and...”"\nbookingURL: "https://www.booking.com/hotel/al/demi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Demi Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with a flat-screen TV offering satellite and cable channels, a well-stocked minibar, and a cozy seating area. The highlight, however, is the private balcony that presents breathtaking views of the sea and cityscape, allowing guests to soak in the beauty of Sarandë from the comfort of their room. Bathrooms are well-appointed with modern showers, hairdryers, and complimentary toiletries, ensuring a refreshing start and end to each day.
+---
+title: "Demi Hotel"
+description: "Demi Hotel emerges as a distinguished choice for travelers seeking both relaxation and adventure in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199732894.jpg?k=f057f42ab41bc519a43381fe08881ceab2635f8897320bc558e622708ae845c1&o=&hp=1"
+language: en
+slug: demi-hotel
+address: "Rruga Butrinti, 1011 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.86963874
+  lng: 20.01422659
+price: "US$108"
+priceFrom: 108
+starRating: 4
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 454
+ratings:
+  overall: 9.2
+  location: 9.6
+  cleanliness: 9.5
+  facilities: 9.3
+  value: 8.7
+  comfort: 9.5
+  staff: 9.2
+  wifi: 8.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199732894.jpg?k=f057f42ab41bc519a43381fe08881ceab2635f8897320bc558e622708ae845c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310120681.jpg?k=a1ef0bb8c32cc88802ef77d843f6285c15cd23cc88caf790719a84b715503b96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207856495.jpg?k=1db9299a36df104e66dabe0d0e4ad3dcac66c5a014c8210d6794bede355fc5e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374533785.jpg?k=d355f949bd9bdc69a8f60c77542306731d8e03ec56f98dd05d5b6ea63f8a26b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374533789.jpg?k=1b11ecdf92affa371606be9c9e8d667eb198ff858a98cacf3a6d527254dc4622&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374519740.jpg?k=4c6b251dcccb2e1bc44ea0824fa83f1f817d3a864e5f27503321f65c41efef7f&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Private beach area"
+  - "Superb breakfast"
+roomTypes:
+  - "Standard Double Room with Side Sea View"
+  - "Double Room with Balcony"
+  - "Double or Twin Room with Side Sea View"
+  - "Deluxe Double Room with Balcony and Sea View"
+  - "Superior Double Room"
+  - "Deluxe Suite"
+  - "VIP Suite"
+  - "Triple Room with Balcony"
+  - "Superior Suite with Sea View"
+nearbyRestaurants:
+  - "Restorant Agimi & S 8 m"
+  - "RESORANT DEMI 20 m"
+nearbyBeaches:
+  - "La Petite Beach 100 m"
+  - "Saranda City Beach 250 m"
+  - "Maestral Beach 300 m"
+  - "Sarande Main Beach 950 m"
+  - "VIP Beach 1.3 km"
+whatsNearby:
+  - "Parc National de Butrint 1.5 km"
+  - "Butrint National Park 2.4 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Samantha"
+    country: "United Kingdom"
+    text: "“The reception staff and the restaurant staff were lovely, despite during main lunch service being clearly understaffed and very busy. We stayed towards the end of the season, so the hotel and surrounding area were very quiet and relaxing. We were...”"
+  - name: "Sweeeeeeetzerland"
+    country: "Switzerland"
+    text: "“the view is fantastic! sunsets are the best! the location is superb!”"
+  - name: "Michael"
+    country: "Australia"
+    text: "“The room was large and stylishly decorated. The bed and pillows were really comfortable. It had all facilities such as iron and ironing board, a safe, coffee and tea making, a stocked minibar. We had a balcony with a great view view of Sarande and...”"
+bookingURL: "https://www.booking.com/hotel/al/demi.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Demi Hotel are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with a flat-screen TV offering satellite and cable channels, a well-stocked minibar, and a cozy seating area. The highlight, however, is the private balcony that presents breathtaking views of the sea and cityscape, allowing guests to soak in the beauty of Sarandë from the comfort of their room. Bathrooms are well-appointed with modern showers, hairdryers, and complimentary toiletries, ensuring a refreshing start and end to each day.
 
 For those looking to unwind, the hotel's bar and shared lounge offer the perfect setting for relaxing evenings or mingling with fellow travelers. 
 

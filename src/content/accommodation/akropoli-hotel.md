@@ -1,4 +1,87 @@
----\ntitle: "Akropoli Hotel"\ndescription: "Akropoli Hotel, situated a mere 8 kilometers from the vibrant heart of Durrës, presents a perfect blend of traditional Albanian hospitality and modern comforts."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31314025.jpg?k=d01503abb949542b19cb873a0e4a13e8989d4bea22e3d9aaf0ebfc7e6cfca8fb&o=&hp=1"\nlanguage: en\nslug: akropoli-hotel\naddress: "Bulevardi i Pishave, 2001 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.26253418\n  lng: 19.52223703\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 6\nratings:\n  overall: 8.9\n  location: 9.6\n  cleanliness: 8.8\n  facilities: 7.9\n  value: 8.8\n  comfort: 9.2\n  staff: 9.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31314025.jpg?k=d01503abb949542b19cb873a0e4a13e8989d4bea22e3d9aaf0ebfc7e6cfca8fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31717569.jpg?k=16f750bcfee285b1180775825a9a88d5d9ca8f4c749cfcc1eea9064b8e528920&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31313150.jpg?k=1568254da463cf799b5b056445c26822915084a59b3c3f974f09bbbb04c0108f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31721909.jpg?k=b0113a91e6debb48ab19614980e8433e2458ece7b8817548ad18dcfe9c0b6ec5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31362261.jpg?k=a7e1da333668b8608f7bf32f0b4694c8f4e7c7eaad602f621e477be5c2525302&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31313396.jpg?k=b747e8efa8fdac7fcb59d1ebffb101ad7477c225879b81956abeff929c359442&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony and Sea View"\nnearbyRestaurants:\n  - "Oaz Durres 150 m"\n  - "Sevian Pizza & Snack 300 m"\nnearbyBeaches:\n  - "Golem Beach 200 m"\n  - "Shkëmbi i Kavajës Beach 450 m"\n  - "Mali I Robit Beach 1.6 km"\n  - "Durres Beach 2.8 km"\n  - "Qerret Beach 3.7 km"\nwhatsNearby:\n  - "Bekimi 8 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Jelena"\n    country: "Hungary"\n    text: "“The location is very good , few minutes walking to the sea, and the shop is just the next door. The owners and all stuff is very helpful and friendly , helped us a lot with transfer, and other requests we had. We had a great view on the sunset sea...”"\n  - name: "Lenir"\n    country: "Italy"\n    text: "“La disponibilità, la pulizia, la gentilezza, il fatto d’essere vicino alla spiaggia, il fatto che parlano italiano ed inglese, il fatto che la conduzione dell’albergo è di famigli, il team di persone che lavorano educati e pronti ad aiutare in...”"\n  - name: "M_koczan_viki"\n    country: "Hungary"\n    text: "“Minden nagyon szuper volt, a medence vize nagyon kellemes, mindennap tisztítják. A reggeli nagyon finom volt. A szoba tiszta volt, a klíma pillanatok alatt lehűtötte a szobát. Konkrétan a szomszédba van a bolt, a part is közel van.”"\nbookingURL: "https://www.booking.com/hotel/al/akropoli.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to well-appointed rooms equipped with TVs, pay-per-view channels, and refrigerators for their convenience. The accommodations ensure privacy and comfort, with each featuring a shower, hairdryer, and complimentary toiletries. Select rooms elevate the experience further, boasting balconies that offer breathtaking sea views, allowing guests to soak in the beauty of the Adriatic coast from the comfort of their rooms.
+---
+title: "Akropoli Hotel"
+description: "Akropoli Hotel, situated a mere 8 kilometers from the vibrant heart of Durrës, presents a perfect blend of traditional Albanian hospitality and modern comforts."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31314025.jpg?k=d01503abb949542b19cb873a0e4a13e8989d4bea22e3d9aaf0ebfc7e6cfca8fb&o=&hp=1"
+language: en
+slug: akropoli-hotel
+address: "Bulevardi i Pishave, 2001 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.26253418
+  lng: 19.52223703
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 6
+ratings:
+  overall: 8.9
+  location: 9.6
+  cleanliness: 8.8
+  facilities: 7.9
+  value: 8.8
+  comfort: 9.2
+  staff: 9.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31314025.jpg?k=d01503abb949542b19cb873a0e4a13e8989d4bea22e3d9aaf0ebfc7e6cfca8fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31717569.jpg?k=16f750bcfee285b1180775825a9a88d5d9ca8f4c749cfcc1eea9064b8e528920&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31313150.jpg?k=1568254da463cf799b5b056445c26822915084a59b3c3f974f09bbbb04c0108f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31721909.jpg?k=b0113a91e6debb48ab19614980e8433e2458ece7b8817548ad18dcfe9c0b6ec5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31362261.jpg?k=a7e1da333668b8608f7bf32f0b4694c8f4e7c7eaad602f621e477be5c2525302&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31313396.jpg?k=b747e8efa8fdac7fcb59d1ebffb101ad7477c225879b81956abeff929c359442&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room with Balcony and Sea View"
+nearbyRestaurants:
+  - "Oaz Durres 150 m"
+  - "Sevian Pizza & Snack 300 m"
+nearbyBeaches:
+  - "Golem Beach 200 m"
+  - "Shkëmbi i Kavajës Beach 450 m"
+  - "Mali I Robit Beach 1.6 km"
+  - "Durres Beach 2.8 km"
+  - "Qerret Beach 3.7 km"
+whatsNearby:
+  - "Bekimi 8 km"
+  - "Durres Amphiteatre 9 km"
+  - "Wine Dhe Pooh 9 km"
+  - "1. Maj 9 km"
+  - "Yje Dhe Hena 9 km"
+  - "Sheshi Demokracia 9 km"
+  - "Sotir Noka 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Jelena"
+    country: "Hungary"
+    text: "“The location is very good , few minutes walking to the sea, and the shop is just the next door. The owners and all stuff is very helpful and friendly , helped us a lot with transfer, and other requests we had. We had a great view on the sunset sea...”"
+  - name: "Lenir"
+    country: "Italy"
+    text: "“La disponibilità, la pulizia, la gentilezza, il fatto d’essere vicino alla spiaggia, il fatto che parlano italiano ed inglese, il fatto che la conduzione dell’albergo è di famigli, il team di persone che lavorano educati e pronti ad aiutare in...”"
+  - name: "M_koczan_viki"
+    country: "Hungary"
+    text: "“Minden nagyon szuper volt, a medence vize nagyon kellemes, mindennap tisztítják. A reggeli nagyon finom volt. A szoba tiszta volt, a klíma pillanatok alatt lehűtötte a szobát. Konkrétan a szomszédba van a bolt, a part is közel van.”"
+bookingURL: "https://www.booking.com/hotel/al/akropoli.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to well-appointed rooms equipped with TVs, pay-per-view channels, and refrigerators for their convenience. The accommodations ensure privacy and comfort, with each featuring a shower, hairdryer, and complimentary toiletries. Select rooms elevate the experience further, boasting balconies that offer breathtaking sea views, allowing guests to soak in the beauty of the Adriatic coast from the comfort of their rooms.
 
 The hotel is enveloped in a lush garden, creating a serene oasis for guests. Akropoli Hotel doesn't just stop at providing a restful stay; it ensures a holistic experience with its on-site café bar that opens up to a terrace, inviting guests to unwind with a drink in hand. Families will appreciate the children's playground, making it a hit for guests of all ages.
 

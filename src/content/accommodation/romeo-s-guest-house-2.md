@@ -1,4 +1,78 @@
----\ntitle: "Romeo’s Guest House 2"\ndescription: "Romeo’s Guest House 2 emerges as a serene retreat, offering breathtaking mountain vistas and a cozy stay, situated approximately 43 km from the enchanting Butrint National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265192230.jpg?k=ad74a7d01986174bfced4c0442374f4e6332d3e88a39958cbddeb0fea11fbcfd&o=&hp=1"\nlanguage: en\nslug: romeo-s-guest-house-2\naddress: "SH8 vela apartaments since 1999, 9715 Piqeras, Albania"\ncity: "Piqeras"\nlocation: "Piqeras"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.02071167\n  lng: 19.89188108\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.5\nratingWords: "Very Good"\nnumberOfReviews: 29\nratings:\n  overall: 8.5\n  location: 8.4\n  cleanliness: 7.9\n  facilities: 7.9\n  value: 8.5\n  comfort: 7.9\n  staff: 9.1\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265192230.jpg?k=ad74a7d01986174bfced4c0442374f4e6332d3e88a39958cbddeb0fea11fbcfd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245945129.jpg?k=41d3b528d4ee1d3e836c78fdbb248b08c798010e639480e3ba498a3690d2eca5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245446651.jpg?k=ced828922d3bd861ca9009ceb782c7dbb937bc5d6a6b5c8aab44200872ddec6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235263015.jpg?k=02910cc42830302454a2b10da68ccaddd6c47d7a4cb0d3b76a760d0991bddf71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245945233.jpg?k=3918e3e3b39fa06704aba2a61982158a85059677e9b7d4315d40db746c22504d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314449455.jpg?k=64bcd055b9447f281626282f20f27e15d2bfa529083250d99258a73d14ab0e98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314449497.jpg?k=6bf623928b49cb035ba1de19cf9a7ca644275407a46cfee3b166c746c5957706&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/246307995.jpg?k=0f39e00e217acf8efc569ec9d88a97b1690461990eefc42792332b718afb0117&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314449513.jpg?k=8d1b90fd59911a6d58039bddba37d2385c2d318fc1a11af285a47b438e4d3529&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232462749.jpg?k=5d9f2d1bb17a97ef068f71bd146f889c613de8ab49954a3f14288e2b27209ad6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265194138.jpg?k=6616fc2bf79ba63ac4bb2bac07e3fadd95368c0e457489ec0fbbd237cc1f78f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265193996.jpg?k=a9dc493365e043579076cf1f0554ef08c0ee8c3d6ddb2e10df7f5c546799f081&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Tea/coffee maker in all rooms"\nnearbyRestaurants:\n  - "Bar Restorant Pizza Panorama 300 m"\n  - "Bar Bitri 400 m"\nnearbyBeaches:\n  - "Buneci Beach 1.5 km"\n  - "Borsh Beach 2.2 km"\n  - "Lukova Beach 5 km"\n  - "Qeparo Beach 6 km"\n  - "Porto Palermo Beach 3 8 km"\nairports:\n  - "Corfu International Airport 45 km"\n  - "Ioannina Airport 86 km"\nreviews:\n  - name: "Arben"\n    country: "United Kingdom"\n    text: "“The property was very clean with a nice kitchen, the host was very friendly. Good location for visiting nearby beaches.”"\n  - name: "Sarka"\n    country: "Czech Republic"\n    text: "“Spacious and clean apartment located in the house on the hill. This is a quiet place with nice terrace. You can admire sea from the window. The owner is nice person, speaking good English.”"\n  - name: "Ciprian"\n    country: "Romania"\n    text: "“The accomodation location is on the hill, from where you can admire the sea.
-The host is a nice and helpful person and provided US with everything we needed.”"\nbookingURL: "https://www.booking.com/hotel/al/romeos-guest-house-2.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property doesn't just stop at providing excellent rooms; it extends its hospitality to include a terrace where guests can soak in the surrounding beauty. The in-house restaurant adds to the charm, offering delightful dining options without having to leave the comfort of the guest house. For those arriving by car, the availability of free private parking and the added benefit of complimentary WiFi throughout the premises make staying connected and exploring the local area effortless.
+---
+title: "Romeo’s Guest House 2"
+description: "Romeo’s Guest House 2 emerges as a serene retreat, offering breathtaking mountain vistas and a cozy stay, situated approximately 43 km from the enchanting Butrint National Park."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265192230.jpg?k=ad74a7d01986174bfced4c0442374f4e6332d3e88a39958cbddeb0fea11fbcfd&o=&hp=1"
+language: en
+slug: romeo-s-guest-house-2
+address: "SH8 vela apartaments since 1999, 9715 Piqeras, Albania"
+city: "Piqeras"
+location: "Piqeras"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.02071167
+  lng: 19.89188108
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.5
+ratingWords: "Very Good"
+numberOfReviews: 29
+ratings:
+  overall: 8.5
+  location: 8.4
+  cleanliness: 7.9
+  facilities: 7.9
+  value: 8.5
+  comfort: 7.9
+  staff: 9.1
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265192230.jpg?k=ad74a7d01986174bfced4c0442374f4e6332d3e88a39958cbddeb0fea11fbcfd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245945129.jpg?k=41d3b528d4ee1d3e836c78fdbb248b08c798010e639480e3ba498a3690d2eca5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245446651.jpg?k=ced828922d3bd861ca9009ceb782c7dbb937bc5d6a6b5c8aab44200872ddec6d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235263015.jpg?k=02910cc42830302454a2b10da68ccaddd6c47d7a4cb0d3b76a760d0991bddf71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245945233.jpg?k=3918e3e3b39fa06704aba2a61982158a85059677e9b7d4315d40db746c22504d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314449455.jpg?k=64bcd055b9447f281626282f20f27e15d2bfa529083250d99258a73d14ab0e98&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314449497.jpg?k=6bf623928b49cb035ba1de19cf9a7ca644275407a46cfee3b166c746c5957706&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/246307995.jpg?k=0f39e00e217acf8efc569ec9d88a97b1690461990eefc42792332b718afb0117&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314449513.jpg?k=8d1b90fd59911a6d58039bddba37d2385c2d318fc1a11af285a47b438e4d3529&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232462749.jpg?k=5d9f2d1bb17a97ef068f71bd146f889c613de8ab49954a3f14288e2b27209ad6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265194138.jpg?k=6616fc2bf79ba63ac4bb2bac07e3fadd95368c0e457489ec0fbbd237cc1f78f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265193996.jpg?k=a9dc493365e043579076cf1f0554ef08c0ee8c3d6ddb2e10df7f5c546799f081&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Tea/coffee maker in all rooms"
+nearbyRestaurants:
+  - "Bar Restorant Pizza Panorama 300 m"
+  - "Bar Bitri 400 m"
+nearbyBeaches:
+  - "Buneci Beach 1.5 km"
+  - "Borsh Beach 2.2 km"
+  - "Lukova Beach 5 km"
+  - "Qeparo Beach 6 km"
+  - "Porto Palermo Beach 3 8 km"
+airports:
+  - "Corfu International Airport 45 km"
+  - "Ioannina Airport 86 km"
+reviews:
+  - name: "Arben"
+    country: "United Kingdom"
+    text: "“The property was very clean with a nice kitchen, the host was very friendly. Good location for visiting nearby beaches.”"
+  - name: "Sarka"
+    country: "Czech Republic"
+    text: "“Spacious and clean apartment located in the house on the hill. This is a quiet place with nice terrace. You can admire sea from the window. The owner is nice person, speaking good English.”"
+  - name: "Ciprian"
+    country: "Romania"
+    text: "“The accomodation location is on the hill, from where you can admire the sea.
+The host is a nice and helpful person and provided US with everything we needed.”"
+bookingURL: "https://www.booking.com/hotel/al/romeos-guest-house-2.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The property doesn't just stop at providing excellent rooms; it extends its hospitality to include a terrace where guests can soak in the surrounding beauty. The in-house restaurant adds to the charm, offering delightful dining options without having to leave the comfort of the guest house. For those arriving by car, the availability of free private parking and the added benefit of complimentary WiFi throughout the premises make staying connected and exploring the local area effortless.
 
 For moments of tranquility, the garden invites guests to unwind and immerse themselves in the peaceful ambiance of the property. Despite its secluded feel, Romeo’s Guest House 2 remains within reach of the outside world, with Ioannina Airport located 120 km away, making it a convenient option for both local and international travelers seeking a picturesque escape.

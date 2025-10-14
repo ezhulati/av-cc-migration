@@ -1,4 +1,54 @@
----\ntitle: "Musaj Mountain Villa"\ndescription: "Musaj Mountain Villa, located in the heart of Elbasan, offers a serene retreat with its stunning mountain views and comprehensive amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471756405.jpg?k=50eeba318a8b2897a736768c36f07b04610408f5d85e6825aff06c33f0027e56&o=&hp=1"\nlanguage: en\nslug: musaj-mountain-villa\naddress: "Gjinar, Elbasan, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.037886\n  lng: 20.19160199\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471756405.jpg?k=50eeba318a8b2897a736768c36f07b04610408f5d85e6825aff06c33f0027e56&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471754580.jpg?k=d0ce9ef991ea222584bca032a76f0bfc18d884cd49bddd235baba83b494b941f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471847547.jpg?k=627b433e6e80579eee55fdb32c0c8a2ac288c26bebd3ca4a14926ec4c4fd2b70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471754288.jpg?k=0e2b6181e1b5389c4bb9abce4f6d0129e47dc031468416fad82fa6749c65853d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471848516.jpg?k=cfcaadd23760a0c91c15f561b6d1ffb92ec55fb2d064c21d43ca3ca9ea3bb929&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471848566.jpg?k=dc8006cb178dabe56a17fa424ddca4437fecf145762532b271dd78f7a9e4f400&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471847900.jpg?k=f1cb2b135d8050a3368b09c219db777af03c51fad6b2789f12dc8856efad70da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471848568.jpg?k=28ff95ccbebf09a9110eb2e029dd478d11c2e6513728077f004ba3498f980319&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471906769.jpg?k=1e17d560de7cc21db1f1ef9bec79e55117ae9a199c4f3fd56a4067cc9e916d9b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/musaj-mountain-villa.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe villa is well-equipped to cater to the needs of its visitors, featuring a shared kitchen and luggage storage facilities. The interior of the holiday home is thoughtfully designed, boasting a flat-screen TV with cable channels for entertainment, a cozy seating area, a practical desk, and two well-appointed bathrooms. To enhance the comfort of your stay, towels and bed linen are readily provided.
+---
+title: "Musaj Mountain Villa"
+description: "Musaj Mountain Villa, located in the heart of Elbasan, offers a serene retreat with its stunning mountain views and comprehensive amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471756405.jpg?k=50eeba318a8b2897a736768c36f07b04610408f5d85e6825aff06c33f0027e56&o=&hp=1"
+language: en
+slug: musaj-mountain-villa
+address: "Gjinar, Elbasan, 3001 Elbasan, Albania"
+city: "Elbasan"
+location: "Elbasan"
+accommodationType: "villa"
+coordinates:
+  lat: 41.037886
+  lng: 20.19160199
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471756405.jpg?k=50eeba318a8b2897a736768c36f07b04610408f5d85e6825aff06c33f0027e56&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471754580.jpg?k=d0ce9ef991ea222584bca032a76f0bfc18d884cd49bddd235baba83b494b941f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471847547.jpg?k=627b433e6e80579eee55fdb32c0c8a2ac288c26bebd3ca4a14926ec4c4fd2b70&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471754288.jpg?k=0e2b6181e1b5389c4bb9abce4f6d0129e47dc031468416fad82fa6749c65853d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471848516.jpg?k=cfcaadd23760a0c91c15f561b6d1ffb92ec55fb2d064c21d43ca3ca9ea3bb929&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471848566.jpg?k=dc8006cb178dabe56a17fa424ddca4437fecf145762532b271dd78f7a9e4f400&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471847900.jpg?k=f1cb2b135d8050a3368b09c219db777af03c51fad6b2789f12dc8856efad70da&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471848568.jpg?k=28ff95ccbebf09a9110eb2e029dd478d11c2e6513728077f004ba3498f980319&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471906769.jpg?k=1e17d560de7cc21db1f1ef9bec79e55117ae9a199c4f3fd56a4067cc9e916d9b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/musaj-mountain-villa.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The villa is well-equipped to cater to the needs of its visitors, featuring a shared kitchen and luggage storage facilities. The interior of the holiday home is thoughtfully designed, boasting a flat-screen TV with cable channels for entertainment, a cozy seating area, a practical desk, and two well-appointed bathrooms. To enhance the comfort of your stay, towels and bed linen are readily provided.
 
 One of the highlights of Musaj Mountain Villa is its outdoor dining area, perfect for enjoying meals in the fresh air. During the warmer months, guests are invited to take advantage of the barbecue facilities and savor their meals on the private balcony, adding a special touch to the dining experience.
 

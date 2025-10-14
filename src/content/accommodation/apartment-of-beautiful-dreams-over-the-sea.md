@@ -1,4 +1,82 @@
----\ntitle: "apartment of beautiful dreams over the sea"\ndescription: "Apartment of Beautiful Dreams Over the Sea stands as a beacon of comfort and relaxation in Sarandë, offering guests a unique blend of convenience and serenity."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541520.jpg?k=db6dcfc12c3cec8a61be1e524185add0a1f592c627ed590ad5a5fcb1a6dba54f&o=&hp=1"\nlanguage: en\nslug: apartment-of-beautiful-dreams-over-the-sea\naddress: "Quarter No 1 , Street RRuga Butrinti garden + playground , second floor, apartment no. 6, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86227618\n  lng: 20.01963209\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.6\nratingWords: "Very Good"\nnumberOfReviews: 7\nratings:\n  overall: 8.6\n  location: 9.3\n  cleanliness: 8.6\n  facilities: 8.2\n  value: 8.6\n  comfort: 8.9\n  staff: 8.2\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541520.jpg?k=db6dcfc12c3cec8a61be1e524185add0a1f592c627ed590ad5a5fcb1a6dba54f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541527.jpg?k=54888cadf74b40ccf020811c92fa1c4c256630b15ee0fae038d6b714d0de8c70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541477.jpg?k=c4ec10b59e4ed430da6f95c57d110c79558d298377d06879de3a16f73b4d4f77&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541435.jpg?k=e778cfd6c6e6c5f47b432a79e141822529195bc781ac468fd9b148eb6d44b1c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541507.jpg?k=c6eb6a2406856df717fb897a475668f37d2fab291ffec58b2318c8b7ac140bdc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541514.jpg?k=11f875c69c61b427f8615407d38c0d0db233886f236a4477caaf0bdebf86b4a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541492.jpg?k=936c1fb55a50f04cd0c1d2f28ba207781838513afddc2013364be113e4e08b62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541500.jpg?k=662b8acdb0e4ccd9eb72f76410f11f143cffaa454e3df17090452c049ea9ec3b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541426.jpg?k=df6ced52a03534d4a1b4cdc0042bf726f9116f59264e28d75c7ea7b46fa75cd1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541472.jpg?k=06d39cc7d7b793a3fd31add45bf8c28cce66a9ed6c3e1c35c96e6689fd12b5e2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192540713.jpg?k=910ecf35f4875eb655348e4942f77394ccbabdab0c561d6a35b1d79098dba701&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541431.jpg?k=664ee82bd876295c1911fe5516f8097e1ca04c73c861bfe015f69c3aee5dc7af&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Street Food 30 m"\n  - "Renoir 40 m"\nnearbyBeaches:\n  - "VIP Beach 350 m"\n  - "Santa Quaranta Beach 450 m"\n  - "Maestral Beach 550 m"\n  - "Flamingo Beach 650 m"\n  - "La Petite Beach 800 m"\nwhatsNearby:\n  - "Parc National de Butrint 600 m"\n  - "Butrint National Park 1.4 km"\n  - "Plazhi I Krorezes 7 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 11 km"\nairports:\n  - "Corfu International Airport 29 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Lilia"\n    country: "Spain"\n    text: "“the apartment is spacious and comfortable, the beds are great. The bathroom and shower were great.”"\n  - name: "Stefano"\n    country: "Italy"\n    text: "“Well located, spacious and with a beautiful view”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-of-beautiful-dreams-over-the-sea.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe property is equipped with a lift for easy access and caters to families with a well-maintained children's playground. For those looking to explore the area at their own pace, a bicycle rental service is readily available, and airport transfers ensure a hassle-free arrival and departure.
+---
+title: "apartment of beautiful dreams over the sea"
+description: "Apartment of Beautiful Dreams Over the Sea stands as a beacon of comfort and relaxation in Sarandë, offering guests a unique blend of convenience and serenity."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541520.jpg?k=db6dcfc12c3cec8a61be1e524185add0a1f592c627ed590ad5a5fcb1a6dba54f&o=&hp=1"
+language: en
+slug: apartment-of-beautiful-dreams-over-the-sea
+address: "Quarter No 1 , Street RRuga Butrinti garden + playground , second floor, apartment no. 6, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86227618
+  lng: 20.01963209
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.6
+ratingWords: "Very Good"
+numberOfReviews: 7
+ratings:
+  overall: 8.6
+  location: 9.3
+  cleanliness: 8.6
+  facilities: 8.2
+  value: 8.6
+  comfort: 8.9
+  staff: 8.2
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541520.jpg?k=db6dcfc12c3cec8a61be1e524185add0a1f592c627ed590ad5a5fcb1a6dba54f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541527.jpg?k=54888cadf74b40ccf020811c92fa1c4c256630b15ee0fae038d6b714d0de8c70&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541477.jpg?k=c4ec10b59e4ed430da6f95c57d110c79558d298377d06879de3a16f73b4d4f77&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541435.jpg?k=e778cfd6c6e6c5f47b432a79e141822529195bc781ac468fd9b148eb6d44b1c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541507.jpg?k=c6eb6a2406856df717fb897a475668f37d2fab291ffec58b2318c8b7ac140bdc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541514.jpg?k=11f875c69c61b427f8615407d38c0d0db233886f236a4477caaf0bdebf86b4a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541492.jpg?k=936c1fb55a50f04cd0c1d2f28ba207781838513afddc2013364be113e4e08b62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541500.jpg?k=662b8acdb0e4ccd9eb72f76410f11f143cffaa454e3df17090452c049ea9ec3b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541426.jpg?k=df6ced52a03534d4a1b4cdc0042bf726f9116f59264e28d75c7ea7b46fa75cd1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541472.jpg?k=06d39cc7d7b793a3fd31add45bf8c28cce66a9ed6c3e1c35c96e6689fd12b5e2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192540713.jpg?k=910ecf35f4875eb655348e4942f77394ccbabdab0c561d6a35b1d79098dba701&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541431.jpg?k=664ee82bd876295c1911fe5516f8097e1ca04c73c861bfe015f69c3aee5dc7af&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Street Food 30 m"
+  - "Renoir 40 m"
+nearbyBeaches:
+  - "VIP Beach 350 m"
+  - "Santa Quaranta Beach 450 m"
+  - "Maestral Beach 550 m"
+  - "Flamingo Beach 650 m"
+  - "La Petite Beach 800 m"
+whatsNearby:
+  - "Parc National de Butrint 600 m"
+  - "Butrint National Park 1.4 km"
+  - "Plazhi I Krorezes 7 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 11 km"
+airports:
+  - "Corfu International Airport 29 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Lilia"
+    country: "Spain"
+    text: "“the apartment is spacious and comfortable, the beds are great. The bathroom and shower were great.”"
+  - name: "Stefano"
+    country: "Italy"
+    text: "“Well located, spacious and with a beautiful view”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-of-beautiful-dreams-over-the-sea.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+The property is equipped with a lift for easy access and caters to families with a well-maintained children's playground. For those looking to explore the area at their own pace, a bicycle rental service is readily available, and airport transfers ensure a hassle-free arrival and departure.
 
 Inside, the apartment boasts a tastefully decorated bedroom, a fully equipped kitchen complete with an oven and toaster, and a cozy seating area centered around a flat-screen TV. The highlight, however, is the balcony. Outfitted with comfortable outdoor furniture, it offers an unparalleled view of the sea, making it the perfect spot for morning coffees or evening relaxation. The apartment is designed to be allergy-free and maintains a strict non-smoking policy, ensuring a comfortable environment for all guests.
 

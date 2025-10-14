@@ -1,4 +1,86 @@
----\ntitle: "Klidi Apartment"\ndescription: "Klidi Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435059.jpg?k=10dc63945b2250d5b42b33d98f977ccc79c8c0b023bdfaec09ba71907e5b0e0a&o=&hp=1"\nlanguage: en\nslug: klidi-apartment\naddress: "Rruga Nikolla Zoraqi 9, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3356221\n  lng: 19.8403917\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 11\nratings:\n  overall: 9.7\n  location: 9.8\n  cleanliness: 9.3\n  facilities: 9.5\n  value: 9.8\n  comfort: 10\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435059.jpg?k=10dc63945b2250d5b42b33d98f977ccc79c8c0b023bdfaec09ba71907e5b0e0a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435065.jpg?k=e74450b0ad67d300037afb5a84c2af71adbeff955dfed26c6451b95d89e83231&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207649.jpg?k=ea34241ec8a09877bf4c772a78edbb7bd972b24ceb53d11dd6948f1e5709ca6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435069.jpg?k=6762ba4ab910c7f15f406c70fe70b28e15c3362403a8a31dce4694b62c7bbb00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435070.jpg?k=df77febcf86a4c2604069955b73975a84a77005eabd515f9d9be74a81e1e3d86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435061.jpg?k=33c2cfa2fec75188919bc8971eb54ea6020df0d23c2833522a4fe3acb9c32056&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207221.jpg?k=8db7195a6672b7dc28d63a1d538abd6bc1c0a1f599618fd01d230017381911d6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207227.jpg?k=fdfd8a603a214291c81889c39c7547f9c37be0c61d3c4c807279063c95c25deb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207225.jpg?k=ab4879eba690243fc82456182a7382ede70a0f48be613a0b51c002fc6f7ecd0d&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyAttractions:\n  - "Skanderbeg Square 2 km"\n  - "National Museum of History Albania 2 km"\n  - "Rinia Park 2.2 km"\n  - "House of Leaves 2.2 km"\n  - "Bunk'Art 1 Museum 2.3 km"\n  - "Former Residence of Enver Hoxha 2.5 km"\n  - "Grand Park of Tirana 2.9 km"\nnearbyRestaurants:\n  - "Byrektore 150 m"\n  - "Bar Kafe Kaja Restorant 200 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 350 m"\n  - "Sheshi Rekreativ Gjolek Kokona 500 m"\n  - "Sheshi Rekreativ tek ish ATSh 1.4 km"\n  - "Sheshi Rekreativ Allias 1.5 km"\n  - "Tanners' Bridge 1.6 km"\n  - "Sheshi Sulejman Pasha 1.7 km"\n  - "Amazing Nature 1.8 km"\n  - "Clock Tower Tirana 1.9 km"\n  - "National Gallery of Arts Tirana 1.9 km"\n  - "Shesh Rekreativ 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 77 km"\nreviews:\n  - name: "Xhulio"\n    country: "Germany"\n    text: "“the apartment was in perfect condition, I recommend it to everyone”"\n  - name: "Anonymous"\n    country: "Germany"\n    text: "“Was near to city center, comfortable clean and the owner very friendly helpful Definitely recommend it !”"\n  - name: "Anonymous"\n    country: "Albania"\n    text: "“The property was extremely clean and luxurious. The view from the balcony was amazing. The property was really spacious and the area was lovely. The owners of the property we’re really nice and helped me get around as I didn’t know what I had near...”"\nbookingURL: "https://www.booking.com/hotel/al/klidi-apartment-tirane1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable stay. Emphasizing a clean and healthy environment, the accommodation is strictly non-smoking.
+---
+title: "Klidi Apartment"
+description: "Klidi Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435059.jpg?k=10dc63945b2250d5b42b33d98f977ccc79c8c0b023bdfaec09ba71907e5b0e0a&o=&hp=1"
+language: en
+slug: klidi-apartment
+address: "Rruga Nikolla Zoraqi 9, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3356221
+  lng: 19.8403917
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 11
+ratings:
+  overall: 9.7
+  location: 9.8
+  cleanliness: 9.3
+  facilities: 9.5
+  value: 9.8
+  comfort: 10
+  staff: 9.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435059.jpg?k=10dc63945b2250d5b42b33d98f977ccc79c8c0b023bdfaec09ba71907e5b0e0a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435065.jpg?k=e74450b0ad67d300037afb5a84c2af71adbeff955dfed26c6451b95d89e83231&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207649.jpg?k=ea34241ec8a09877bf4c772a78edbb7bd972b24ceb53d11dd6948f1e5709ca6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435069.jpg?k=6762ba4ab910c7f15f406c70fe70b28e15c3362403a8a31dce4694b62c7bbb00&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435070.jpg?k=df77febcf86a4c2604069955b73975a84a77005eabd515f9d9be74a81e1e3d86&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435061.jpg?k=33c2cfa2fec75188919bc8971eb54ea6020df0d23c2833522a4fe3acb9c32056&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207221.jpg?k=8db7195a6672b7dc28d63a1d538abd6bc1c0a1f599618fd01d230017381911d6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207227.jpg?k=fdfd8a603a214291c81889c39c7547f9c37be0c61d3c4c807279063c95c25deb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492207225.jpg?k=ab4879eba690243fc82456182a7382ede70a0f48be613a0b51c002fc6f7ecd0d&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyAttractions:
+  - "Skanderbeg Square 2 km"
+  - "National Museum of History Albania 2 km"
+  - "Rinia Park 2.2 km"
+  - "House of Leaves 2.2 km"
+  - "Bunk'Art 1 Museum 2.3 km"
+  - "Former Residence of Enver Hoxha 2.5 km"
+  - "Grand Park of Tirana 2.9 km"
+nearbyRestaurants:
+  - "Byrektore 150 m"
+  - "Bar Kafe Kaja Restorant 200 m"
+whatsNearby:
+  - "Sheshi Jjosef Shtraus 350 m"
+  - "Sheshi Rekreativ Gjolek Kokona 500 m"
+  - "Sheshi Rekreativ tek ish ATSh 1.4 km"
+  - "Sheshi Rekreativ Allias 1.5 km"
+  - "Tanners' Bridge 1.6 km"
+  - "Sheshi Sulejman Pasha 1.7 km"
+  - "Amazing Nature 1.8 km"
+  - "Clock Tower Tirana 1.9 km"
+  - "National Gallery of Arts Tirana 1.9 km"
+  - "Shesh Rekreativ 2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 77 km"
+reviews:
+  - name: "Xhulio"
+    country: "Germany"
+    text: "“the apartment was in perfect condition, I recommend it to everyone”"
+  - name: "Anonymous"
+    country: "Germany"
+    text: "“Was near to city center, comfortable clean and the owner very friendly helpful Definitely recommend it !”"
+  - name: "Anonymous"
+    country: "Albania"
+    text: "“The property was extremely clean and luxurious. The view from the balcony was amazing. The property was really spacious and the area was lovely. The owners of the property we’re really nice and helped me get around as I didn’t know what I had near...”"
+bookingURL: "https://www.booking.com/hotel/al/klidi-apartment-tirane1.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable stay. Emphasizing a clean and healthy environment, the accommodation is strictly non-smoking.
 
 Connectivity is never an issue, as free WiFi is available throughout the premises, ensuring guests stay connected with the world or plan their next adventure in Tirana. For those eager to explore the local culture and attractions, Klidi Apartment is conveniently located near the Bektashi World Centre, the historic Tanners' Bridge, and the Toptani Shopping Centre, offering a blend of cultural, historical, and retail experiences.
 

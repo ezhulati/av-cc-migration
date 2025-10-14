@@ -1,4 +1,83 @@
----\ntitle: "Hotel Germenji"\ndescription: "Hotel Germenji emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Gërmenj."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371477.jpg?k=cbc99acd65a74a55262dbbd6ac03b51f20cdcc7df5aae5370be4c7e2b218dbb6&o=&hp=1"\nlanguage: en\nslug: hotel-germenji\naddress: "Rruga Nacionale Erseke-Leskovik ,21st km Rruga nacionale Erseke-Leskovik ,21st km, 7401 Gërmenj, Albania"\ncity: "Gërmenj"\nlocation: "Gërmenj"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.22580111\n  lng: 20.66051559\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.4\nratingWords: "Very Good"\nnumberOfReviews: 44\nratings:\n  overall: 8.4\n  location: 8.5\n  cleanliness: 7.8\n  facilities: 7.3\n  value: 8.4\n  comfort: 7.4\n  staff: 9.3\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371477.jpg?k=cbc99acd65a74a55262dbbd6ac03b51f20cdcc7df5aae5370be4c7e2b218dbb6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371519.jpg?k=df1e5282411f98e7ef121fad55bda80b1aeb103815c08b26ba6d9dfae156fd6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371457.jpg?k=b6bb63f5ce592d5f3358fa63e34fff47c1a0fc867bc2bda0542031ce372a42fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371502.jpg?k=1b8346f6a5bc94e0b49ee3c0cd4f1c136150ae9ce7fdbb72dd6e4c299b2ed378&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371515.jpg?k=2ba9d3ae3d03974e0d7d2d32b8ed33195d573d08106adc20c3a4f6c6eaf9fec4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371527.jpg?k=b5e4fefb3e4f5f860392b442eab63924a4d199e663612fb1dea6ea7001f16772&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371495.jpg?k=0af0c89ea70e38e4b3a57f7014fbd1b90cd076f3818f1f06330c5baaff874f60&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371466.jpg?k=2e7c0c48120a58f72f07af4af1a04ad13de890a26247ae48bfb2aca1a5f8534b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371429.jpg?k=072f6530efea4a186c929317062d6002c9367e35af3fa5b47b9488364be36b71&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Shared Bathroom"\n  - "Double Room with Shared Bathroom"\n  - "Twin Room with Shared Bathroom"\n  - "Family Room with Mountain View"\n  - "Family Room with Private Bathroom"\n  - "Family Room with Private Bathroom"\n  - "Family Room with Shared Bathroom"\n  - "6-Bed Mixed Dormitory Room"\nnearbyRestaurants:\n  - "Hotel Jorgo Bar 1.7 km"\n  - "Te Bunkeri 13 km"\nwhatsNearby:\n  - "Pindus National Park 12 km"\nairports:\n  - "Kastoria National Airport 57 km"\n  - "Ioannina Airport 59 km"\n  - "Corfu International Airport 93 km"\nreviews:\n  - name: "Pauline"\n    country: "France"\n    text: "“Nice room, really clean. Great breakfast. Delicious diner near the fireplace. Friendly staff”"\n  - name: "Alexander"\n    country: "Germany"\n    text: "“This is really a rustic place at a remote road so don't expect luxury.
-However the owner is a great person, very friendly and helpful even sending a car to deliver a forgotten t-Shirt to me (Thanks again :-) . Owner speaks very well English. It...”"\n  - name: "Emil"\n    country: "Poland"\n    text: "“The owner is a very nice man, he cooked what we wanted. Very good coffee and eating. Fantastic silence, a lot of stars on heaven in the night - the lack of sorrounded lights causes it. Lovely place. Big balcony. The room with balcony is quite cold.”"\nbookingURL: "https://www.booking.com/hotel/al/germenji.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nRooms at Hotel Germenji are thoughtfully designed, with select accommodations featuring balconies for a breath of fresh air and a view. Comfort is paramount, as evidenced by the inclusion of shared bathrooms equipped with bidets and slippers, catering to the needs of the modern traveler.
+---
+title: "Hotel Germenji"
+description: "Hotel Germenji emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Gërmenj."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371477.jpg?k=cbc99acd65a74a55262dbbd6ac03b51f20cdcc7df5aae5370be4c7e2b218dbb6&o=&hp=1"
+language: en
+slug: hotel-germenji
+address: "Rruga Nacionale Erseke-Leskovik ,21st km Rruga nacionale Erseke-Leskovik ,21st km, 7401 Gërmenj, Albania"
+city: "Gërmenj"
+location: "Gërmenj"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.22580111
+  lng: 20.66051559
+price: "US$32"
+priceFrom: 32
+starRating: 3
+rating: 8.4
+ratingWords: "Very Good"
+numberOfReviews: 44
+ratings:
+  overall: 8.4
+  location: 8.5
+  cleanliness: 7.8
+  facilities: 7.3
+  value: 8.4
+  comfort: 7.4
+  staff: 9.3
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371477.jpg?k=cbc99acd65a74a55262dbbd6ac03b51f20cdcc7df5aae5370be4c7e2b218dbb6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371519.jpg?k=df1e5282411f98e7ef121fad55bda80b1aeb103815c08b26ba6d9dfae156fd6d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371457.jpg?k=b6bb63f5ce592d5f3358fa63e34fff47c1a0fc867bc2bda0542031ce372a42fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371502.jpg?k=1b8346f6a5bc94e0b49ee3c0cd4f1c136150ae9ce7fdbb72dd6e4c299b2ed378&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371515.jpg?k=2ba9d3ae3d03974e0d7d2d32b8ed33195d573d08106adc20c3a4f6c6eaf9fec4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371527.jpg?k=b5e4fefb3e4f5f860392b442eab63924a4d199e663612fb1dea6ea7001f16772&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371495.jpg?k=0af0c89ea70e38e4b3a57f7014fbd1b90cd076f3818f1f06330c5baaff874f60&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371466.jpg?k=2e7c0c48120a58f72f07af4af1a04ad13de890a26247ae48bfb2aca1a5f8534b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371429.jpg?k=072f6530efea4a186c929317062d6002c9367e35af3fa5b47b9488364be36b71&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Room service"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Shared Bathroom"
+  - "Double Room with Shared Bathroom"
+  - "Twin Room with Shared Bathroom"
+  - "Family Room with Mountain View"
+  - "Family Room with Private Bathroom"
+  - "Family Room with Private Bathroom"
+  - "Family Room with Shared Bathroom"
+  - "6-Bed Mixed Dormitory Room"
+nearbyRestaurants:
+  - "Hotel Jorgo Bar 1.7 km"
+  - "Te Bunkeri 13 km"
+whatsNearby:
+  - "Pindus National Park 12 km"
+airports:
+  - "Kastoria National Airport 57 km"
+  - "Ioannina Airport 59 km"
+  - "Corfu International Airport 93 km"
+reviews:
+  - name: "Pauline"
+    country: "France"
+    text: "“Nice room, really clean. Great breakfast. Delicious diner near the fireplace. Friendly staff”"
+  - name: "Alexander"
+    country: "Germany"
+    text: "“This is really a rustic place at a remote road so don't expect luxury.
+However the owner is a great person, very friendly and helpful even sending a car to deliver a forgotten t-Shirt to me (Thanks again :-) . Owner speaks very well English. It...”"
+  - name: "Emil"
+    country: "Poland"
+    text: "“The owner is a very nice man, he cooked what we wanted. Very good coffee and eating. Fantastic silence, a lot of stars on heaven in the night - the lack of sorrounded lights causes it. Lovely place. Big balcony. The room with balcony is quite cold.”"
+bookingURL: "https://www.booking.com/hotel/al/germenji.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Rooms at Hotel Germenji are thoughtfully designed, with select accommodations featuring balconies for a breath of fresh air and a view. Comfort is paramount, as evidenced by the inclusion of shared bathrooms equipped with bidets and slippers, catering to the needs of the modern traveler.
 
 Situated 86 km from Ioannina Airport, the hotel's location makes it a convenient gateway for exploring the enchanting surroundings of Gërmenj. Whether in town for business or leisure, Hotel Germenji stands out as a prime lodging option that promises a memorable stay.

@@ -1,4 +1,78 @@
----\ntitle: "Guesthouse Zeka"\ndescription: "Guesthouse Zeka emerges as a charming retreat for travelers seeking the serene beauty of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490032339.jpg?k=8b85c014ddd582cf6bb79c6819bd6bb2e7566cb5615ee9bef287c13ddf0cb4fb&o=&hp=1"\nlanguage: en\nslug: guesthouse-zeka\naddress: "Ksamil, rruga baba sherifi, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 39.76995545\n  lng: 20.0074565\nprice: "US$81"\npriceFrom: 81\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490032339.jpg?k=8b85c014ddd582cf6bb79c6819bd6bb2e7566cb5615ee9bef287c13ddf0cb4fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490032329.jpg?k=fa895e25b962b2e63a5bc3a38f21b26dd22589c8347036f9746989fd8d95eb68&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/490032343.jpg?k=abb1e5f24295644edec455c55fce95dcb235869e5b52efd86e8d5af3e72d3ccf&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Double Room with Private Bathroom"\nnearbyAttractions:\n  - "Museum of Banknotes 18 km"\n  - "New Fortress 18 km"\n  - "Serbian Museum 18 km"\n  - "Theotoki G. Square 18 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 19 km"\n  - "Trion Martiron Park 19 km"\n  - "Mon Repos Palace 19 km"\nnearbyRestaurants:\n  - "Grill House Gyros 150 m"\n  - "Taverna Kuburi 300 m"\nnearbyBeaches:\n  - "Ksamil Beach 550 m"\n  - "Ksamil Beach 9 750 m"\n  - "Bora Bora Beach 800 m"\n  - "Ksamil Beach 7 800 m"\n  - "Coco Beach 850 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 500 m"\n  - "Butrint National Park 2.3 km"\n  - "Plazhi I Krorezes 3.4 km"\n  - "Parc National de Butrint 10 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 18 km"\n  - "Old Fortress 18 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 69 km"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-zeka.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis property distinguishes itself with its commitment to providing a comfortable and smoke-free environment. Guests are welcomed into rooms that are not only air-conditioned but also boast access to a private balcony, allowing for moments of tranquility while overlooking the surrounding landscapes. The convenience of complimentary private parking and WiFi enhances the stay, ensuring that guests' needs are met with the utmost consideration.
+---
+title: "Guesthouse Zeka"
+description: "Guesthouse Zeka emerges as a charming retreat for travelers seeking the serene beauty of Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490032339.jpg?k=8b85c014ddd582cf6bb79c6819bd6bb2e7566cb5615ee9bef287c13ddf0cb4fb&o=&hp=1"
+language: en
+slug: guesthouse-zeka
+address: "Ksamil, rruga baba sherifi, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 39.76995545
+  lng: 20.0074565
+price: "US$81"
+priceFrom: 81
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490032339.jpg?k=8b85c014ddd582cf6bb79c6819bd6bb2e7566cb5615ee9bef287c13ddf0cb4fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490032329.jpg?k=fa895e25b962b2e63a5bc3a38f21b26dd22589c8347036f9746989fd8d95eb68&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/490032343.jpg?k=abb1e5f24295644edec455c55fce95dcb235869e5b52efd86e8d5af3e72d3ccf&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Double Room with Private Bathroom"
+nearbyAttractions:
+  - "Museum of Banknotes 18 km"
+  - "New Fortress 18 km"
+  - "Serbian Museum 18 km"
+  - "Theotoki G. Square 18 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 19 km"
+  - "Trion Martiron Park 19 km"
+  - "Mon Repos Palace 19 km"
+nearbyRestaurants:
+  - "Grill House Gyros 150 m"
+  - "Taverna Kuburi 300 m"
+nearbyBeaches:
+  - "Ksamil Beach 550 m"
+  - "Ksamil Beach 9 750 m"
+  - "Bora Bora Beach 800 m"
+  - "Ksamil Beach 7 800 m"
+  - "Coco Beach 850 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 500 m"
+  - "Butrint National Park 2.3 km"
+  - "Plazhi I Krorezes 3.4 km"
+  - "Parc National de Butrint 10 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 18 km"
+  - "Old Fortress 18 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 69 km"
+bookingURL: "https://www.booking.com/hotel/al/guesthouse-zeka.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This property distinguishes itself with its commitment to providing a comfortable and smoke-free environment. Guests are welcomed into rooms that are not only air-conditioned but also boast access to a private balcony, allowing for moments of tranquility while overlooking the surrounding landscapes. The convenience of complimentary private parking and WiFi enhances the stay, ensuring that guests' needs are met with the utmost consideration.
 
 Accommodations at Guesthouse Zeka are thoughtfully equipped with a flat-screen TV, and the inclusion of towels and bed linen adds a touch of home-like comfort. Perhaps one of the most captivating features is the guesthouse's offering of lake views, providing a serene backdrop to a relaxing stay.
 

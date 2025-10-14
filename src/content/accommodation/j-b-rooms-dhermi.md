@@ -1,5 +1,77 @@
----\ntitle: "J&B Rooms Dhermi"\ndescription: "J&B Rooms Dhermi emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Dhërmi, merely a stone's throw away from the pristine Palasa Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491532.jpg?k=bd75314e76b6f5515c30e1ebc31d5084adf5f12e63b67b7be22c74801d59d44d&o=&hp=1"\nlanguage: en\nslug: j-b-rooms-dhermi\naddress: "Rruga Kontraqe, 9422 Dhërmi, Albania"\ncity: "Dhërmi"\nlocation: "Dhërmi"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.15535251\n  lng: 19.6303542\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 70\nratings:\n  overall: 9.2\n  location: 8.1\n  cleanliness: 9.5\n  facilities: 8.8\n  value: 8.9\n  comfort: 9.4\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491532.jpg?k=bd75314e76b6f5515c30e1ebc31d5084adf5f12e63b67b7be22c74801d59d44d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479191972.jpg?k=5594c021ec2af2fd76e41bfc3a20db07efb275730c596b5a03f9119beb97ab74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479191878.jpg?k=79a985495c25d3505e1c86831f5d138ba0c5114562ab4eaaa00e17c7196790d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491479.jpg?k=74ea8ad786cab0d54f712f2220750f89220a1d454bc74f91cac601293ed86234&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473477713.jpg?k=8660262c1743b03c01d206d6630b8b3ed684c6e80046ba6d1c6be27abc303cb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210605100.jpg?k=56ca18c62ae797004ef156d1ba7f359ad61906df13e5a4bc33b5b61b59b0eeb1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470897789.jpg?k=882ccacf8a8e77c1fe7830e220f3d28a1ff2faba76ef762006c8ad2121ee64b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210603108.jpg?k=1a7d35ac6cc55e966c3eb76803421ac7a59e3290204de6c16eed7354e9bff25c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210604182.jpg?k=4cd91449755a77561e2d31df867934ed79eee2fe76cca3af85a7304eeb2e5cab&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Restorant Genti 150 m"\n  - "Grillhouse Martino 150 m"\nnearbyBeaches:\n  - "Palasa Beach 1.2 km"\n  - "Dhermi Beach 1.3 km"\n  - "Nazar Beach 3.6 km"\n  - "Gjipe Beach 4.6 km"\n  - "Beach Me Shpella 5 km"\nwhatsNearby:\n  - "Llogora National Park 5 km"\nairports:\n  - "Corfu International Airport 65 km"\nreviews:\n  - name: "Carolina"\n    country: "Spain"\n    text: "“The owners are super friendly and kind, they were waiting for us when we arrived, easy check-in, you can pay by euro or lekkes, everything was very clean, new and organized. The bathroom is large and spacious. The location by car to the center and...”"\n  - name: "Xhoi"\n    country: "Austria"\n    text: "“Parking in front of the house. Clean room. Nice view from the balcony. 5min drive to the beach. 5 min walk from many restaurants: pizzeria,bakery,supermarket,creperia
-The owner was super friendly and very helpful.”"\n  - name: "Marjo"\n    country: "Albania"\n    text: "“The view was great, the apartment was very clean and furnished very quiet , and the host was friendly and polite. Excellent”"\nbookingURL: "https://www.booking.com/hotel/al/j-amp-b-rooms-dhermi.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nEach room at J&B Rooms Dhermi is a haven of comfort, equipped with air conditioning for those warm Mediterranean days, and a balcony to soak in the stunning vistas. Entertainment and convenience are ensured with a flat-screen TV, while the private bathrooms boast modern amenities including a bidet and hair dryer, ensuring a stay that blends relaxation with the comforts of home. The thoughtful inclusion of soundproofing, bed linen, and towels in every unit underscores the guest house's commitment to providing a restful and hassle-free experience.
+---
+title: "J&B Rooms Dhermi"
+description: "J&B Rooms Dhermi emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Dhërmi, merely a stone's throw away from the pristine Palasa Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491532.jpg?k=bd75314e76b6f5515c30e1ebc31d5084adf5f12e63b67b7be22c74801d59d44d&o=&hp=1"
+language: en
+slug: j-b-rooms-dhermi
+address: "Rruga Kontraqe, 9422 Dhërmi, Albania"
+city: "Dhërmi"
+location: "Dhërmi"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.15535251
+  lng: 19.6303542
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 70
+ratings:
+  overall: 9.2
+  location: 8.1
+  cleanliness: 9.5
+  facilities: 8.8
+  value: 8.9
+  comfort: 9.4
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491532.jpg?k=bd75314e76b6f5515c30e1ebc31d5084adf5f12e63b67b7be22c74801d59d44d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479191972.jpg?k=5594c021ec2af2fd76e41bfc3a20db07efb275730c596b5a03f9119beb97ab74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479191878.jpg?k=79a985495c25d3505e1c86831f5d138ba0c5114562ab4eaaa00e17c7196790d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491479.jpg?k=74ea8ad786cab0d54f712f2220750f89220a1d454bc74f91cac601293ed86234&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473477713.jpg?k=8660262c1743b03c01d206d6630b8b3ed684c6e80046ba6d1c6be27abc303cb1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210605100.jpg?k=56ca18c62ae797004ef156d1ba7f359ad61906df13e5a4bc33b5b61b59b0eeb1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470897789.jpg?k=882ccacf8a8e77c1fe7830e220f3d28a1ff2faba76ef762006c8ad2121ee64b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210603108.jpg?k=1a7d35ac6cc55e966c3eb76803421ac7a59e3290204de6c16eed7354e9bff25c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210604182.jpg?k=4cd91449755a77561e2d31df867934ed79eee2fe76cca3af85a7304eeb2e5cab&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Restorant Genti 150 m"
+  - "Grillhouse Martino 150 m"
+nearbyBeaches:
+  - "Palasa Beach 1.2 km"
+  - "Dhermi Beach 1.3 km"
+  - "Nazar Beach 3.6 km"
+  - "Gjipe Beach 4.6 km"
+  - "Beach Me Shpella 5 km"
+whatsNearby:
+  - "Llogora National Park 5 km"
+airports:
+  - "Corfu International Airport 65 km"
+reviews:
+  - name: "Carolina"
+    country: "Spain"
+    text: "“The owners are super friendly and kind, they were waiting for us when we arrived, easy check-in, you can pay by euro or lekkes, everything was very clean, new and organized. The bathroom is large and spacious. The location by car to the center and...”"
+  - name: "Xhoi"
+    country: "Austria"
+    text: "“Parking in front of the house. Clean room. Nice view from the balcony. 5min drive to the beach. 5 min walk from many restaurants: pizzeria,bakery,supermarket,creperia
+The owner was super friendly and very helpful.”"
+  - name: "Marjo"
+    country: "Albania"
+    text: "“The view was great, the apartment was very clean and furnished very quiet , and the host was friendly and polite. Excellent”"
+bookingURL: "https://www.booking.com/hotel/al/j-amp-b-rooms-dhermi.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Each room at J&B Rooms Dhermi is a haven of comfort, equipped with air conditioning for those warm Mediterranean days, and a balcony to soak in the stunning vistas. Entertainment and convenience are ensured with a flat-screen TV, while the private bathrooms boast modern amenities including a bidet and hair dryer, ensuring a stay that blends relaxation with the comforts of home. The thoughtful inclusion of soundproofing, bed linen, and towels in every unit underscores the guest house's commitment to providing a restful and hassle-free experience.
 
 The sun terrace invites guests to bask in the warmth of the Albanian sun, offering a perfect setting for leisurely afternoons. For those who prefer the cool shade, the garden offers a peaceful escape, ideal for unwinding amidst nature.
 

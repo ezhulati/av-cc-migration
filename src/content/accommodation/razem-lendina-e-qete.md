@@ -1,4 +1,72 @@
----\ntitle: "Razem Lendina e Qete"\ndescription: "Razem Lendina e Qete emerges as a serene retreat in Razëm, situated a mere 48 km from the historic Clock Tower and the Parliament of Montenegro in Podgorica."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456484635.jpg?k=1b7f5a915339dd816bf910515654d76b68b7cc25bdd2b613796e72658681dd74&o=&hp=1"\nlanguage: en\nslug: razem-lendina-e-qete\naddress: "Lendina e qete, 2001 Razëm, Albania"\ncity: "Razëm"\nlocation: "Razëm"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.346392\n  lng: 19.549073\nprice: "US$51"\npriceFrom: 51\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456484635.jpg?k=1b7f5a915339dd816bf910515654d76b68b7cc25bdd2b613796e72658681dd74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456480929.jpg?k=65faf919de6fd88c9a8cced9af99707d0a06dfef5838c5597a84f77149378e07&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456483572.jpg?k=79549a9d7a3dfbcf78d16e57d8b82a1e84efe81307b6a2e5e94a327bc6245af5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407179043.jpg?k=a0d8d7daf1233a4b7825b94e31867e7680d4a7dc9bcc83fc5b61dee143b5b1f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456479778.jpg?k=cfac3d60c68087a009907908e6c6eed9ed8f08df438784a130ba7aecd7e26bf4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529519246.jpg?k=afcd299be0dbd20e3b8aa2ee4b7043d82a63684cb0c2efdf1b30e66833a28aec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456479827.jpg?k=e10aecb36cb3b6d6526fff7952669f662a25f611e1a6d2de33af728dee7a66d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499615697.jpg?k=d231cf1e5bd5e751f2a8bde12992733a72277d9906c9cfb2f31db8b773267c9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509127782.jpg?k=2e1147069d47e5f2b49d0ad23fde1c9e374713416900d4ea425b3e08d5865df9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508641751.jpg?k=0efb79b613bc998c656a9e32056dea9a6c9d2e5e100ac8be2928b27701869816&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499615414.jpg?k=56532e3ab07aa665c48c868281e80fd0a413c18abdad2d775dcb33c844d10995&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475970583.jpg?k=59a723f9d600431b8869aef653d4d98a562eced12b5f04348a4d26a70a1b1c31&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Restaurant"\n  - "Airport shuttle (free)"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room"\n  - "Deluxe Double Room"\nnearbyRestaurants:\n  - "Marek Dragani 4.6 km"\n  - "Restorant Kapllaj 6 km"\nwhatsNearby:\n  - "National Park Skadar Lake 11 km"\n  - "Theth National Park 16 km"\nairports:\n  - "Podgorica Airport 24 km"\n  - "Tivat Airport 67 km"\nbookingURL: "https://www.booking.com/hotel/al/lendina-e-qete.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Razem Lendina e Qete are thoughtfully designed to ensure an unparalleled stay. Each room boasts a balcony that presents a picturesque view of the city, complemented by modern amenities including free WiFi, a flat-screen TV with cable channels, and a game console for entertainment. The attention to detail extends to the private bathrooms, equipped with a bidet, complimentary toiletries, and a hairdryer, ensuring a refreshing start and end to each day. For added comfort, a seating area is standard in all rooms, with select accommodations featuring a DVD player and a minibar, catering to the needs of every guest.
+---
+title: "Razem Lendina e Qete"
+description: "Razem Lendina e Qete emerges as a serene retreat in Razëm, situated a mere 48 km from the historic Clock Tower and the Parliament of Montenegro in Podgorica."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456484635.jpg?k=1b7f5a915339dd816bf910515654d76b68b7cc25bdd2b613796e72658681dd74&o=&hp=1"
+language: en
+slug: razem-lendina-e-qete
+address: "Lendina e qete, 2001 Razëm, Albania"
+city: "Razëm"
+location: "Razëm"
+accommodationType: "hotel"
+coordinates:
+  lat: 42.346392
+  lng: 19.549073
+price: "US$51"
+priceFrom: 51
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456484635.jpg?k=1b7f5a915339dd816bf910515654d76b68b7cc25bdd2b613796e72658681dd74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456480929.jpg?k=65faf919de6fd88c9a8cced9af99707d0a06dfef5838c5597a84f77149378e07&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456483572.jpg?k=79549a9d7a3dfbcf78d16e57d8b82a1e84efe81307b6a2e5e94a327bc6245af5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407179043.jpg?k=a0d8d7daf1233a4b7825b94e31867e7680d4a7dc9bcc83fc5b61dee143b5b1f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456479778.jpg?k=cfac3d60c68087a009907908e6c6eed9ed8f08df438784a130ba7aecd7e26bf4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529519246.jpg?k=afcd299be0dbd20e3b8aa2ee4b7043d82a63684cb0c2efdf1b30e66833a28aec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456479827.jpg?k=e10aecb36cb3b6d6526fff7952669f662a25f611e1a6d2de33af728dee7a66d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499615697.jpg?k=d231cf1e5bd5e751f2a8bde12992733a72277d9906c9cfb2f31db8b773267c9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509127782.jpg?k=2e1147069d47e5f2b49d0ad23fde1c9e374713416900d4ea425b3e08d5865df9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508641751.jpg?k=0efb79b613bc998c656a9e32056dea9a6c9d2e5e100ac8be2928b27701869816&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499615414.jpg?k=56532e3ab07aa665c48c868281e80fd0a413c18abdad2d775dcb33c844d10995&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475970583.jpg?k=59a723f9d600431b8869aef653d4d98a562eced12b5f04348a4d26a70a1b1c31&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Restaurant"
+  - "Airport shuttle (free)"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room"
+  - "Deluxe Double Room"
+nearbyRestaurants:
+  - "Marek Dragani 4.6 km"
+  - "Restorant Kapllaj 6 km"
+whatsNearby:
+  - "National Park Skadar Lake 11 km"
+  - "Theth National Park 16 km"
+airports:
+  - "Podgorica Airport 24 km"
+  - "Tivat Airport 67 km"
+bookingURL: "https://www.booking.com/hotel/al/lendina-e-qete.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Razem Lendina e Qete are thoughtfully designed to ensure an unparalleled stay. Each room boasts a balcony that presents a picturesque view of the city, complemented by modern amenities including free WiFi, a flat-screen TV with cable channels, and a game console for entertainment. The attention to detail extends to the private bathrooms, equipped with a bidet, complimentary toiletries, and a hairdryer, ensuring a refreshing start and end to each day. For added comfort, a seating area is standard in all rooms, with select accommodations featuring a DVD player and a minibar, catering to the needs of every guest.
 
 The hotel prides itself on its exceptional service, with a 24-hour reception staffed by a multilingual team proficient in Greek, English, Italian, and Albanian, ready to assist with any inquiries or recommendations to enhance your stay.
 

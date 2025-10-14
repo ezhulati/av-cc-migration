@@ -1,4 +1,80 @@
----\ntitle: "Apartment in Golem"\ndescription: "Apartment in Golem emerges as a prime choice for travelers seeking a serene getaway, boasting impressive pool views and a prime location just a short distance from the pristine shores of Shkëmbi i Kavajës Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485782755.jpg?k=a141323e073ee12d9817fc642715f2e5bb8b7c9bea2a718d90a53599462bd0db&o=&hp=1"\nlanguage: en\nslug: apartment-in-golem\naddress: "Rruga Qemal Stafa, Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.24721784\n  lng: 19.52373277\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 7.5\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485782755.jpg?k=a141323e073ee12d9817fc642715f2e5bb8b7c9bea2a718d90a53599462bd0db&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783243.jpg?k=e228abe17113077ea25977fca8a4718cb31a18027944da314f695d39ff61d00c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783990.jpg?k=fbcd6d960bfa7fd86331bcfad6f7cdc5881b7fba531023b64b1da30199b4e9eb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783646.jpg?k=fb77516de7e3680ebeedeb8cef154a3e2adb12ceba48b4dbdad4d63e4c6f7ac7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485784430.jpg?k=1cdb114939f1845598522b93943c67e82fd00c9f1bccc4106f49264fbcb52771&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783290.jpg?k=ba3b96847d1ed8677b9682880c2ea49c3ce847dea0156850fa09c89bde3d4ef8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783769.jpg?k=29fa8fcd19c5565bfb03dfffc489cd91c49ea282f702e9a1cebd6e377545a179&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485784226.jpg?k=ac85fbdfe784f6d09e8806b550340275da6a5891b84b1095d88153a86feaa0f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485784166.jpg?k=9c6d7285ee53e8c9e198407accfb234560d04b9b60eb7147edaa726cbc4948b7&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Fast free WiFi (79 Mbps)"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Brutal Steakhouse 100 m"\n  - "Alto Mare 300 m"\nnearbyBeaches:\n  - "Mali I Robit Beach 350 m"\n  - "Golem Beach 350 m"\n  - "Shkëmbi i Kavajës Beach 2 km"\n  - "Qerret Beach 2.1 km"\n  - "Durres Beach 4.5 km"\nwhatsNearby:\n  - "Bekimi 10 km"\n  - "Durres Amphiteatre 10 km"\n  - "1. Maj 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Ivona"\n    country: "North Macedonia"\n    text: "“Great location, clean, tidy and cozy, the building has a great parking and an elevator. The host is great and responsive. We had a small issue with the bathroom, and the hosts took care of it immediately.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-in-golem-golem3.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis air-conditioned apartment is a haven of comfort, featuring a spacious balcony that presents stunning mountain vistas. Guests are welcomed into a cozy living space, complete with a flat-screen TV and a well-equipped kitchen, including a toaster for those leisurely morning breakfasts. The accommodation includes one bedroom and a bathroom outfitted with a bidet, ensuring a comfortable stay for all who visit.
+---
+title: "Apartment in Golem"
+description: "Apartment in Golem emerges as a prime choice for travelers seeking a serene getaway, boasting impressive pool views and a prime location just a short distance from the pristine shores of Shkëmbi i Kavajës Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485782755.jpg?k=a141323e073ee12d9817fc642715f2e5bb8b7c9bea2a718d90a53599462bd0db&o=&hp=1"
+language: en
+slug: apartment-in-golem
+address: "Rruga Qemal Stafa, Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.24721784
+  lng: 19.52373277
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 1
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 7.5
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485782755.jpg?k=a141323e073ee12d9817fc642715f2e5bb8b7c9bea2a718d90a53599462bd0db&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783243.jpg?k=e228abe17113077ea25977fca8a4718cb31a18027944da314f695d39ff61d00c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783990.jpg?k=fbcd6d960bfa7fd86331bcfad6f7cdc5881b7fba531023b64b1da30199b4e9eb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783646.jpg?k=fb77516de7e3680ebeedeb8cef154a3e2adb12ceba48b4dbdad4d63e4c6f7ac7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485784430.jpg?k=1cdb114939f1845598522b93943c67e82fd00c9f1bccc4106f49264fbcb52771&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783290.jpg?k=ba3b96847d1ed8677b9682880c2ea49c3ce847dea0156850fa09c89bde3d4ef8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485783769.jpg?k=29fa8fcd19c5565bfb03dfffc489cd91c49ea282f702e9a1cebd6e377545a179&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485784226.jpg?k=ac85fbdfe784f6d09e8806b550340275da6a5891b84b1095d88153a86feaa0f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485784166.jpg?k=9c6d7285ee53e8c9e198407accfb234560d04b9b60eb7147edaa726cbc4948b7&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Fast free WiFi (79 Mbps)"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Brutal Steakhouse 100 m"
+  - "Alto Mare 300 m"
+nearbyBeaches:
+  - "Mali I Robit Beach 350 m"
+  - "Golem Beach 350 m"
+  - "Shkëmbi i Kavajës Beach 2 km"
+  - "Qerret Beach 2.1 km"
+  - "Durres Beach 4.5 km"
+whatsNearby:
+  - "Bekimi 10 km"
+  - "Durres Amphiteatre 10 km"
+  - "1. Maj 10 km"
+  - "Wine Dhe Pooh 10 km"
+  - "Yje Dhe Hena 10 km"
+  - "Sheshi Demokracia 10 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Ivona"
+    country: "North Macedonia"
+    text: "“Great location, clean, tidy and cozy, the building has a great parking and an elevator. The host is great and responsive. We had a small issue with the bathroom, and the hosts took care of it immediately.”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-in-golem-golem3.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This air-conditioned apartment is a haven of comfort, featuring a spacious balcony that presents stunning mountain vistas. Guests are welcomed into a cozy living space, complete with a flat-screen TV and a well-equipped kitchen, including a toaster for those leisurely morning breakfasts. The accommodation includes one bedroom and a bathroom outfitted with a bidet, ensuring a comfortable stay for all who visit.
 
 Beyond the confines of the apartment, guests can explore the local area with ease. The Dajti Ekspres Cable Car offers breathtaking views and is located 50 km away, providing an excellent day trip option. For those interested in local landmarks, the Rock of Kavaje is a mere 4.3 km from the apartment, inviting guests to discover the natural beauty of the region.
 

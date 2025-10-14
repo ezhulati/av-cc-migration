@@ -1,3 +1,69 @@
----\ntitle: "Shtepia e Drerit"\ndescription: "Shtepia e Drerit emerges as a serene retreat in the heart of Lëpushë, a mere stone's throw away from the majestic Prokletije National Park."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055827.jpg?k=09ae7eb7ff8636b44fbf00305b200039218fb6512d5c5469b5f499ce0edd5559&o=&hp=1"\nlanguage: en\nslug: shtepia-e-drerit\naddress: "Shkoder klemend lepushe, 4304 Lëpushë, Albania"\ncity: "Lëpushë"\nlocation: "Lëpushë"\naccommodationType: "villa"\ncoordinates:\n  lat: 42.54660162\n  lng: 19.71647729\nprice: "US$57"\npriceFrom: 57\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055827.jpg?k=09ae7eb7ff8636b44fbf00305b200039218fb6512d5c5469b5f499ce0edd5559&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055671.jpg?k=22b38dc5a0b0e8b07bf33085af94faa2e516aad06f600be8e9f25c021dd6c8d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055768.jpg?k=8a4dcfcc164b2bb4f8355cd5a8adae83b1c3c89f539c693b653e92c3d37a9bfd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055756.jpg?k=cbec59920ae1f3c3d5cdd2c7e2b785cfbfeabe0213793083ad9cef97c304e44e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478071057.jpg?k=c8ffbe8636e8759273217fec19136ec0b01625ae5173a3ad06faf7ce8fba52a8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055794.jpg?k=60e9c38d1546fa85b1613dea9c2ae95e9ce5ce06fff9c8ff3aff04f945bcb5aa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055871.jpg?k=1e6964398ced88c73a9493655e40ab462397b30f4551e01a1dcf239b5c9e6e47&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480899996.jpg?k=5fc01435afc7d59bae70582ba9cfc802b091b2011ea1590884458b9e901864a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480901002.jpg?k=7428cf32ab1e2a10fbd025c8dfd1d4707936ff94f4b157c6ec4fca880952b95b&o=&hp=1"\namenities:\n  - "Swimming Pool"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "One-Bedroom Villa"\nnearbyRestaurants:\n  - "Restorant Kelmendi 900 m"\n  - "Sebastiani 1.6 km"\nwhatsNearby:\n  - "Prokletije National Park 3 km"\n  - "Theth National Park 9 km"\n  - "Valbona Valley National Park 13 km"\n  - "Theth National Park 16 km"\n  - "Prokletije National Park 17 km"\n  - "Nacionalni Park Prokletije 17 km"\n  - "Nacionalni park Prokletije 19 km"\n  - "Parku Kombëtar Lugina e Valbonës 19 km"\nairports:\n  - "Podgorica Airport 42 km"\n  - "Tivat Airport 82 km"\nbookingURL: "https://www.booking.com/hotel/al/shtepia-e-drerit.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe villa boasts a well-appointed bedroom and a modern bathroom, complemented by a flat-screen TV for entertainment. The inclusion of a balcony adds a touch of elegance, providing guests with a private space to enjoy the surrounding beauty.
+---
+title: "Shtepia e Drerit"
+description: "Shtepia e Drerit emerges as a serene retreat in the heart of Lëpushë, a mere stone's throw away from the majestic Prokletije National Park."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055827.jpg?k=09ae7eb7ff8636b44fbf00305b200039218fb6512d5c5469b5f499ce0edd5559&o=&hp=1"
+language: en
+slug: shtepia-e-drerit
+address: "Shkoder klemend lepushe, 4304 Lëpushë, Albania"
+city: "Lëpushë"
+location: "Lëpushë"
+accommodationType: "villa"
+coordinates:
+  lat: 42.54660162
+  lng: 19.71647729
+price: "US$57"
+priceFrom: 57
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055827.jpg?k=09ae7eb7ff8636b44fbf00305b200039218fb6512d5c5469b5f499ce0edd5559&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055671.jpg?k=22b38dc5a0b0e8b07bf33085af94faa2e516aad06f600be8e9f25c021dd6c8d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055768.jpg?k=8a4dcfcc164b2bb4f8355cd5a8adae83b1c3c89f539c693b653e92c3d37a9bfd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055756.jpg?k=cbec59920ae1f3c3d5cdd2c7e2b785cfbfeabe0213793083ad9cef97c304e44e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478071057.jpg?k=c8ffbe8636e8759273217fec19136ec0b01625ae5173a3ad06faf7ce8fba52a8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055794.jpg?k=60e9c38d1546fa85b1613dea9c2ae95e9ce5ce06fff9c8ff3aff04f945bcb5aa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055871.jpg?k=1e6964398ced88c73a9493655e40ab462397b30f4551e01a1dcf239b5c9e6e47&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480899996.jpg?k=5fc01435afc7d59bae70582ba9cfc802b091b2011ea1590884458b9e901864a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480901002.jpg?k=7428cf32ab1e2a10fbd025c8dfd1d4707936ff94f4b157c6ec4fca880952b95b&o=&hp=1"
+amenities:
+  - "Swimming Pool"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "One-Bedroom Villa"
+nearbyRestaurants:
+  - "Restorant Kelmendi 900 m"
+  - "Sebastiani 1.6 km"
+whatsNearby:
+  - "Prokletije National Park 3 km"
+  - "Theth National Park 9 km"
+  - "Valbona Valley National Park 13 km"
+  - "Theth National Park 16 km"
+  - "Prokletije National Park 17 km"
+  - "Nacionalni Park Prokletije 17 km"
+  - "Nacionalni park Prokletije 19 km"
+  - "Parku Kombëtar Lugina e Valbonës 19 km"
+airports:
+  - "Podgorica Airport 42 km"
+  - "Tivat Airport 82 km"
+bookingURL: "https://www.booking.com/hotel/al/shtepia-e-drerit.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The villa boasts a well-appointed bedroom and a modern bathroom, complemented by a flat-screen TV for entertainment. The inclusion of a balcony adds a touch of elegance, providing guests with a private space to enjoy the surrounding beauty.
 
 For those arriving by air, Podgorica Airport is conveniently located 60 km away, making Shtepia e Drerit an accessible haven for both local and international travelers seeking a peaceful escape.

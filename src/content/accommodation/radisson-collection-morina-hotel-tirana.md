@@ -1,4 +1,107 @@
----\ntitle: "Radisson Collection Morina Hotel, Tirana"\ndescription: "Radisson Collection Morina Hotel, Tirana, emerges as a premier destination for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798891.jpg?k=bb16f2341733f9f33c56e3e6d92014e5fe6b1dfd6c3cb9aef4d76fcd8ca69cf3&o=&hp=1"\nlanguage: en\nslug: radisson-collection-morina-hotel-tirana\naddress: "Rruga Hamdi Garunja, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.3032\n  lng: 19.8162\nprice: "US$113"\npriceFrom: 113\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 246\nratings:\n  overall: 9.1\n  location: 8.6\n  cleanliness: 9.3\n  facilities: 9.1\n  value: 8.6\n  comfort: 9.3\n  staff: 8.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798891.jpg?k=bb16f2341733f9f33c56e3e6d92014e5fe6b1dfd6c3cb9aef4d76fcd8ca69cf3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798945.jpg?k=7f3ff4ee57853e477da9b32c8f8fd4bb9027b5ad4c907fed3110c94486999119&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798949.jpg?k=9a6512a656e32105b4085d161b4d1ae3c6de5742c65375289814007883a2403a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798885.jpg?k=605f9e6f7aa4c7444890a25c1e57526c79b14809ed77db18df56154eedd266c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354450300.jpg?k=040c85f3e853426584cfccbcfada40b9e14ced959154d979ef2a9d6f8664ef26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798918.jpg?k=a44a0a9b153cc88b652983ba0f92677da771e6ffc4bd9b16bd96842371a9acaa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350439686.jpg?k=9da618e5e5bd080210cc22f96c0f3ca73addbebcad8fd87194e76f760ce33934&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798962.jpg?k=900a5b3205d85a3b53becf98fdc3e89a0bdbef37174cc0d226b3b03afba88de9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798879.jpg?k=b14b3aa5280d61a8e0a2994edc3b3bf4eda5b526bfc96e68601e5a481300abbc&o=&hp=1"\namenities:\n  - "2 swimming pools"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Facilities for disabled guests"\n  - "Free parking"\n  - "Free WiFi"\n  - "Tea/coffee maker in all rooms"\n  - "Bar"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Collection Room"\n  - "Collection Room with Lake View"\n  - "Collection Superior Room"\n  - "Collection Premium Room"\n  - "Junior Suite with Lake View"\n  - "Suite with Lake View"\nnearbyAttractions:\n  - "Rinia Park 2.4 km"\n  - "National Gallery of Arts Tirana 2.6 km"\n  - "House of Leaves 2.6 km"\n  - "Tanners' Bridge 2.7 km"\n  - "Skanderbeg Square 2.7 km"\n  - "Clock Tower Tirana 2.7 km"\n  - "National Museum of History Albania 2.9 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Lentis Fish 40 m"\n  - "Tissi Bar 150 m"\nwhatsNearby:\n  - "Pylli Orbital 300 m"\n  - "Sheshi Rekreativ Tika 600 m"\n  - "Parku I Madh I Tiranës (Grand Park) 1.2 km"\n  - "Grand Park of Tirana 1.3 km"\n  - "Sheshi Rekreativ Komuna e Parisit 1.7 km"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.7 km"\n  - "Parku I Madh 1.8 km"\n  - "Shesh Rekreativ 1.8 km"\n  - "Sheshi Rekreativ tek Arena Kombëtare 1.9 km"\n  - "Former Residence of Enver Hoxha 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 13 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Inesa"\n    country: "United Kingdom"\n    text: "“Very clean perfect location The breakfast was 🌟🌟🌟🌟🌟”"\n  - name: "Lul"\n    country: "United Kingdom"\n    text: "“An amazing atmosphere, good service and super clean”"\n  - name: "Yanneman"\n    country: "Australia"\n    text: "“we like the property the room and the location was amazing and the staff at the breakfast area”"\nbookingURL: "https://www.booking.com/hotel/al/radisson-collection-morina-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nUpon arrival, visitors are greeted with a plethora of facilities designed to cater to every need. The hotel boasts a state-of-the-art fitness center, ample private parking, and serene outdoor spaces including a garden and terrace, perfect for relaxation after a day of exploration. Connectivity is never an issue, with complimentary WiFi enveloping the premises, allowing guests to stay connected effortlessly.
+---
+title: "Radisson Collection Morina Hotel, Tirana"
+description: "Radisson Collection Morina Hotel, Tirana, emerges as a premier destination for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798891.jpg?k=bb16f2341733f9f33c56e3e6d92014e5fe6b1dfd6c3cb9aef4d76fcd8ca69cf3&o=&hp=1"
+language: en
+slug: radisson-collection-morina-hotel-tirana
+address: "Rruga Hamdi Garunja, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.3032
+  lng: 19.8162
+price: "US$113"
+priceFrom: 113
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 246
+ratings:
+  overall: 9.1
+  location: 8.6
+  cleanliness: 9.3
+  facilities: 9.1
+  value: 8.6
+  comfort: 9.3
+  staff: 8.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798891.jpg?k=bb16f2341733f9f33c56e3e6d92014e5fe6b1dfd6c3cb9aef4d76fcd8ca69cf3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798945.jpg?k=7f3ff4ee57853e477da9b32c8f8fd4bb9027b5ad4c907fed3110c94486999119&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798949.jpg?k=9a6512a656e32105b4085d161b4d1ae3c6de5742c65375289814007883a2403a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798885.jpg?k=605f9e6f7aa4c7444890a25c1e57526c79b14809ed77db18df56154eedd266c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354450300.jpg?k=040c85f3e853426584cfccbcfada40b9e14ced959154d979ef2a9d6f8664ef26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798918.jpg?k=a44a0a9b153cc88b652983ba0f92677da771e6ffc4bd9b16bd96842371a9acaa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350439686.jpg?k=9da618e5e5bd080210cc22f96c0f3ca73addbebcad8fd87194e76f760ce33934&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798962.jpg?k=900a5b3205d85a3b53becf98fdc3e89a0bdbef37174cc0d226b3b03afba88de9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798879.jpg?k=b14b3aa5280d61a8e0a2994edc3b3bf4eda5b526bfc96e68601e5a481300abbc&o=&hp=1"
+amenities:
+  - "2 swimming pools"
+  - "Fitness centre"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Facilities for disabled guests"
+  - "Free parking"
+  - "Free WiFi"
+  - "Tea/coffee maker in all rooms"
+  - "Bar"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Collection Room"
+  - "Collection Room with Lake View"
+  - "Collection Superior Room"
+  - "Collection Premium Room"
+  - "Junior Suite with Lake View"
+  - "Suite with Lake View"
+nearbyAttractions:
+  - "Rinia Park 2.4 km"
+  - "National Gallery of Arts Tirana 2.6 km"
+  - "House of Leaves 2.6 km"
+  - "Tanners' Bridge 2.7 km"
+  - "Skanderbeg Square 2.7 km"
+  - "Clock Tower Tirana 2.7 km"
+  - "National Museum of History Albania 2.9 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Lentis Fish 40 m"
+  - "Tissi Bar 150 m"
+whatsNearby:
+  - "Pylli Orbital 300 m"
+  - "Sheshi Rekreativ Tika 600 m"
+  - "Parku I Madh I Tiranës (Grand Park) 1.2 km"
+  - "Grand Park of Tirana 1.3 km"
+  - "Sheshi Rekreativ Komuna e Parisit 1.7 km"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.7 km"
+  - "Parku I Madh 1.8 km"
+  - "Shesh Rekreativ 1.8 km"
+  - "Sheshi Rekreativ tek Arena Kombëtare 1.9 km"
+  - "Former Residence of Enver Hoxha 2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 13 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Inesa"
+    country: "United Kingdom"
+    text: "“Very clean perfect location The breakfast was 🌟🌟🌟🌟🌟”"
+  - name: "Lul"
+    country: "United Kingdom"
+    text: "“An amazing atmosphere, good service and super clean”"
+  - name: "Yanneman"
+    country: "Australia"
+    text: "“we like the property the room and the location was amazing and the staff at the breakfast area”"
+bookingURL: "https://www.booking.com/hotel/al/radisson-collection-morina-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+Upon arrival, visitors are greeted with a plethora of facilities designed to cater to every need. The hotel boasts a state-of-the-art fitness center, ample private parking, and serene outdoor spaces including a garden and terrace, perfect for relaxation after a day of exploration. Connectivity is never an issue, with complimentary WiFi enveloping the premises, allowing guests to stay connected effortlessly.
 
 The Radisson Collection Morina Hotel, Tirana, takes pride in its well-appointed accommodations. Each air-conditioned room is a haven of comfort, equipped with modern essentials such as a desk, coffee machine, fridge, minibar, and safety deposit box. Entertainment and convenience are at the forefront, with a flat-screen TV and a private balcony adding to the room's appeal. The ensuite bathrooms, complete with a bidet, along with the provision of premium bed linen and towels, underscore the hotel's attention to detail.
 

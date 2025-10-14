@@ -1,5 +1,95 @@
----\ntitle: "Eden Apartment: 2BR, Family friendly"\ndescription: "Eden Apartment: 2BR, Family Friendly emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\nlanguage: en\nslug: eden-apartment-2br-family-friendly\naddress: "Rruga Don Bosko, 1016 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3433902\n  lng: 19.80076048\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 9.8\n  location: 8.8\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517791078.jpg?k=f8c23953959f0fc84f0d48c7ec19bcc1161c2de34d2980f63be40cb3d972e834&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517791063.jpg?k=0cc9d06193bae2da32b325961c8e030bbc801fe8dd93806b2ab5d22eaf8e11dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/517791069.jpg?k=5f7ca0fd915293587e39f7d2604c862bf4bdff3d5e413ccbe9da36b0e62bacc6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/517790994.jpg?k=06e4a3f9f458649841123856ee6af7fb47c189f32bcc21afb2caba1518a2d7b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791065.jpg?k=e6729de411a5e57685c6eb6990e537509243611da74a5d75328f0d2733e4a2bb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791066.jpg?k=5819363e508e8a4f4d02dd921553678e60f864a9bef3de77fa69eb0161b7fb83&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791070.jpg?k=92c4448b8326b39e670fb6a4a7ed218cba195e1a79183a166f2fcd0402ad2de9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791072.jpg?k=1ca277ced608a56cc4b69e623a2ac4d30829a295b0ff204e29633a511a7970af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791076.jpg?k=0ee3338d627216550f973834b6c65c8edd57d21b4aa6e40c243a60990ef7016c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791080.jpg?k=571c16425e3cb6e2ac5c2937ad9f0e0f22e287d153a263c92786c6ada8406ceb&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 2.3 km"\n  - "Skanderbeg Square 2.3 km"\n  - "Clock Tower Tirana 2.4 km"\n  - "National Gallery of Arts Tirana 2.5 km"\n  - "Rinia Park 2.5 km"\n  - "Tanners' Bridge 2.8 km"\n  - "Former Residence of Enver Hoxha 2.9 km"\n  - "Grand Park of Tirana 4.1 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Bar Restorant Piceri Besi 150 m"\n  - "Coffee House Toni 200 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 850 m"\n  - "Sheshi Rekreativ Don Bosko 900 m"\n  - "Sheshi Rekreativ Mine Peza 1.1 km"\n  - "Sheshi Rekreativ Parku 1Km 1.5 km"\n  - "Amazing Nature 1.9 km"\n  - "Sheshi Paris 2 km"\n  - "Shesh Rekreativ Yzberisht 2 km"\n  - "Park Lojrash 2.1 km"\n  - "National Museum of History Albania 2.1 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 2.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 9 km"\n  - "Ohrid Airport 81 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Iva"\n    country: "United Kingdom"\n    text: "“It was spacious. Heat was working fast. Had facilities for my baby. Comfortable. Modern interior
-Friendly stuff very fast in responding. Helped with our luggage.”"\nbookingURL: "https://www.booking.com/hotel/al/eden-apartment-2br-family-friendly.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe apartment itself is a haven of space and light, boasting air-conditioned interiors that open up to a serene balcony. Guests are treated to views of the meticulously maintained garden and the quaint inner courtyard, providing a peaceful retreat from the bustling city life. With the convenience of an elevator, an on-site minimarket, and currency exchange services, Eden Apartment ensures a hassle-free stay for all its guests.
+---
+title: "Eden Apartment: 2BR, Family friendly"
+description: "Eden Apartment: 2BR, Family Friendly emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+language: en
+slug: eden-apartment-2br-family-friendly
+address: "Rruga Don Bosko, 1016 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3433902
+  lng: 19.80076048
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 9.8
+  location: 8.8
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517791078.jpg?k=f8c23953959f0fc84f0d48c7ec19bcc1161c2de34d2980f63be40cb3d972e834&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/517791063.jpg?k=0cc9d06193bae2da32b325961c8e030bbc801fe8dd93806b2ab5d22eaf8e11dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/517791069.jpg?k=5f7ca0fd915293587e39f7d2604c862bf4bdff3d5e413ccbe9da36b0e62bacc6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/517790994.jpg?k=06e4a3f9f458649841123856ee6af7fb47c189f32bcc21afb2caba1518a2d7b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791065.jpg?k=e6729de411a5e57685c6eb6990e537509243611da74a5d75328f0d2733e4a2bb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791066.jpg?k=5819363e508e8a4f4d02dd921553678e60f864a9bef3de77fa69eb0161b7fb83&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791070.jpg?k=92c4448b8326b39e670fb6a4a7ed218cba195e1a79183a166f2fcd0402ad2de9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791072.jpg?k=1ca277ced608a56cc4b69e623a2ac4d30829a295b0ff204e29633a511a7970af&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791076.jpg?k=0ee3338d627216550f973834b6c65c8edd57d21b4aa6e40c243a60990ef7016c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/517791080.jpg?k=571c16425e3cb6e2ac5c2937ad9f0e0f22e287d153a263c92786c6ada8406ceb&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 2.3 km"
+  - "Skanderbeg Square 2.3 km"
+  - "Clock Tower Tirana 2.4 km"
+  - "National Gallery of Arts Tirana 2.5 km"
+  - "Rinia Park 2.5 km"
+  - "Tanners' Bridge 2.8 km"
+  - "Former Residence of Enver Hoxha 2.9 km"
+  - "Grand Park of Tirana 4.1 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Bar Restorant Piceri Besi 150 m"
+  - "Coffee House Toni 200 m"
+whatsNearby:
+  - "Sheshi Rekreativ Lord Bajron 850 m"
+  - "Sheshi Rekreativ Don Bosko 900 m"
+  - "Sheshi Rekreativ Mine Peza 1.1 km"
+  - "Sheshi Rekreativ Parku 1Km 1.5 km"
+  - "Amazing Nature 1.9 km"
+  - "Sheshi Paris 2 km"
+  - "Shesh Rekreativ Yzberisht 2 km"
+  - "Park Lojrash 2.1 km"
+  - "National Museum of History Albania 2.1 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 2.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 9 km"
+  - "Ohrid Airport 81 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Iva"
+    country: "United Kingdom"
+    text: "“It was spacious. Heat was working fast. Had facilities for my baby. Comfortable. Modern interior
+Friendly stuff very fast in responding. Helped with our luggage.”"
+bookingURL: "https://www.booking.com/hotel/al/eden-apartment-2br-family-friendly.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+The apartment itself is a haven of space and light, boasting air-conditioned interiors that open up to a serene balcony. Guests are treated to views of the meticulously maintained garden and the quaint inner courtyard, providing a peaceful retreat from the bustling city life. With the convenience of an elevator, an on-site minimarket, and currency exchange services, Eden Apartment ensures a hassle-free stay for all its guests.
 
 Accommodation at Eden Apartment is thoughtfully designed with families in mind. The two-bedroom setup is complemented by a fully equipped kitchen, featuring modern appliances such as a dishwasher and an oven. The living area, adorned with a flat-screen TV and comfortable seating, invites guests to unwind. The presence of two bathrooms, each fitted with a bidet, along with the provision of towels and bed linen, underscores the apartment's commitment to comfort.
 

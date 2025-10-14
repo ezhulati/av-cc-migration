@@ -1,4 +1,82 @@
----\ntitle: "Apartment sea view"\ndescription: "Apartment Sea View stands as a prime beachfront gem in Durrës, offering guests an unparalleled experience just steps away from the shimmering shores of Shkëmbi i Kavajës Beach and a short stroll from the vibrant Golem Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895935.jpg?k=d89988f821240122041ea70d3e5f26b5be8f9d8c393ce55325044126096f6f75&o=&hp=1"\nlanguage: en\nslug: apartment-sea-view\naddress: "Qark Durrës, 2504 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.26901686\n  lng: 19.51883603\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 16\nratings:\n  overall: 9.5\n  location: 9.8\n  cleanliness: 9.1\n  facilities: 9.7\n  value: 9.7\n  comfort: 9.4\n  staff: 9.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895935.jpg?k=d89988f821240122041ea70d3e5f26b5be8f9d8c393ce55325044126096f6f75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449436635.jpg?k=8ae16ed630589bd5048145620b3cb83a4d0f781368e9256fecb41819165e45d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895681.jpg?k=0d6d57905cba454b79ae232590b302cc694a0c67828dd0216965f4497d4da3ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895926.jpg?k=0c81491b9d66e531c1144b3a42409e47441171fdd3271624cd203d25d5963c9c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895933.jpg?k=2e1303bbe0d2fc6621341ba34c201d797480d4307128612e696b9b8b72d3023f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432715014.jpg?k=852d31fcdb78c41b99d273187190d2eec05c6a6f169ef3d47d09bb05ff2234c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449548102.jpg?k=e29a2dc387ceda2176d3c64b1027abd8698bbbfed2bd3d63a569758941f2a75e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475940090.jpg?k=54e0eea087f6b922eda1cdb20e04a78406c89a59b3187a7d01c26fcd00f476b5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449485626.jpg?k=2972ec2bc0fcc3c33ad307f4972aaf6f4d21c55842489ddc5349e59306743002&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (21 Mbps)"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Anxhelson 100 m"\n  - "Fresh Fish 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 50 m"\n  - "Golem Beach 400 m"\n  - "Durres Beach 2 km"\n  - "Mali I Robit Beach 2.3 km"\n  - "Qerret Beach 4.3 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Durres Amphiteatre 8 km"\n  - "Wine Dhe Pooh 8 km"\n  - "1. Maj 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Sinisa"\n    country: "North Macedonia"\n    text: "“Excellent and comfortable apartment, it has everything for a family to enjoy on vacation, the beach is a few steps away, as well as markets and restaurants....highly recommended”"\n  - name: "Gergely"\n    country: "Austria"\n    text: "“Eine sehr zentrale Lage, Strand und geschäfte in der nähe.
-Gastgeber sehr aufmerksam, Wohnung war super, es war ein toller Urlaub,wir kommen gern wieder.”"\n  - name: "Stević"\n    country: "Bosnia and Herzegovina"\n    text: "“Unser aufenthalt war sehr angenehm, erholsam lage top, supermarkt restaurants alles in der nähe man findet alles sehr einfach, kann man nur empfehlen”"\nbookingURL: "https://www.booking.com/hotel/al/neuwertige-wohnung-in-unmittelbarer-strandnahe.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of space and comfort, boasting a bedroom that promises restful nights, a bathroom equipped with essentials, and the added touches of bed linen and towels. The living area is designed for relaxation and entertainment, featuring a flat-screen TV and a dining area that invites guests to enjoy home-cooked meals prepared in the fully equipped kitchen. Perhaps the crown jewel of the apartment is its balcony, offering sweeping sea views that capture the essence of coastal living. Guests can also enjoy serene inner courtyard views, adding to the apartment's tranquil ambiance.
+---
+title: "Apartment sea view"
+description: "Apartment Sea View stands as a prime beachfront gem in Durrës, offering guests an unparalleled experience just steps away from the shimmering shores of Shkëmbi i Kavajës Beach and a short stroll from the vibrant Golem Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895935.jpg?k=d89988f821240122041ea70d3e5f26b5be8f9d8c393ce55325044126096f6f75&o=&hp=1"
+language: en
+slug: apartment-sea-view
+address: "Qark Durrës, 2504 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.26901686
+  lng: 19.51883603
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 16
+ratings:
+  overall: 9.5
+  location: 9.8
+  cleanliness: 9.1
+  facilities: 9.7
+  value: 9.7
+  comfort: 9.4
+  staff: 9.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895935.jpg?k=d89988f821240122041ea70d3e5f26b5be8f9d8c393ce55325044126096f6f75&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449436635.jpg?k=8ae16ed630589bd5048145620b3cb83a4d0f781368e9256fecb41819165e45d7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895681.jpg?k=0d6d57905cba454b79ae232590b302cc694a0c67828dd0216965f4497d4da3ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895926.jpg?k=0c81491b9d66e531c1144b3a42409e47441171fdd3271624cd203d25d5963c9c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895933.jpg?k=2e1303bbe0d2fc6621341ba34c201d797480d4307128612e696b9b8b72d3023f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432715014.jpg?k=852d31fcdb78c41b99d273187190d2eec05c6a6f169ef3d47d09bb05ff2234c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449548102.jpg?k=e29a2dc387ceda2176d3c64b1027abd8698bbbfed2bd3d63a569758941f2a75e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475940090.jpg?k=54e0eea087f6b922eda1cdb20e04a78406c89a59b3187a7d01c26fcd00f476b5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449485626.jpg?k=2972ec2bc0fcc3c33ad307f4972aaf6f4d21c55842489ddc5349e59306743002&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (21 Mbps)"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Anxhelson 100 m"
+  - "Fresh Fish 150 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 50 m"
+  - "Golem Beach 400 m"
+  - "Durres Beach 2 km"
+  - "Mali I Robit Beach 2.3 km"
+  - "Qerret Beach 4.3 km"
+whatsNearby:
+  - "Bekimi 7 km"
+  - "Durres Amphiteatre 8 km"
+  - "Wine Dhe Pooh 8 km"
+  - "1. Maj 8 km"
+  - "Yje Dhe Hena 8 km"
+  - "Sheshi Demokracia 8 km"
+  - "Sotir Noka 8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Sinisa"
+    country: "North Macedonia"
+    text: "“Excellent and comfortable apartment, it has everything for a family to enjoy on vacation, the beach is a few steps away, as well as markets and restaurants....highly recommended”"
+  - name: "Gergely"
+    country: "Austria"
+    text: "“Eine sehr zentrale Lage, Strand und geschäfte in der nähe.
+Gastgeber sehr aufmerksam, Wohnung war super, es war ein toller Urlaub,wir kommen gern wieder.”"
+  - name: "Stević"
+    country: "Bosnia and Herzegovina"
+    text: "“Unser aufenthalt war sehr angenehm, erholsam lage top, supermarkt restaurants alles in der nähe man findet alles sehr einfach, kann man nur empfehlen”"
+bookingURL: "https://www.booking.com/hotel/al/neuwertige-wohnung-in-unmittelbarer-strandnahe.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of space and comfort, boasting a bedroom that promises restful nights, a bathroom equipped with essentials, and the added touches of bed linen and towels. The living area is designed for relaxation and entertainment, featuring a flat-screen TV and a dining area that invites guests to enjoy home-cooked meals prepared in the fully equipped kitchen. Perhaps the crown jewel of the apartment is its balcony, offering sweeping sea views that capture the essence of coastal living. Guests can also enjoy serene inner courtyard views, adding to the apartment's tranquil ambiance.
 
 Situated 43 km from the historic Skanderbeg Square and 47 km from the adventure-ready Dajti Ekspres Cable Car, Apartment Sea View serves as an ideal base for exploring the rich cultural tapestry and natural beauty of the area. With Tirana International Mother Teresa Airport just 37 km away, the apartment is conveniently accessible for international travelers seeking the ultimate seaside retreat in Durrës.

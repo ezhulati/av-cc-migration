@@ -1,4 +1,74 @@
----\ntitle: "Timber Guest House"\ndescription: "Timber Guest House emerges as a charming retreat in the heart of Berat, offering guests a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363644.jpg?k=620ff46e02ad4d593c77f7ae87b18d431b113ceda42b76332e61980e9ca9df2b&o=&hp=1"\nlanguage: en\nslug: timber-guest-house\naddress: "Rruga Mihal Komnena, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 40.70672197\n  lng: 19.95278654\nprice: "US$38"\npriceFrom: 38\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 9.7\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363644.jpg?k=620ff46e02ad4d593c77f7ae87b18d431b113ceda42b76332e61980e9ca9df2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363846.jpg?k=b5f42b975ccf100c5ed3727163fbc9deb13a0087950863d6e0b352bf3dbd6d01&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363800.jpg?k=0cc6aa026caf5cb5decd5742e7dd9982ef94e7c8cf6c980860407475a24396fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363727.jpg?k=aac8aa247cd508d24bf009873b2642ae992f135f098467942ba63131f307b3bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363663.jpg?k=dcdc4891372147bb2c1fabf06419ddae3981acd92e0f04b6a4b0623c51300b5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363782.jpg?k=6c5811d7565cd8cdcff6f4f2224d18ceab1ae47ad7400902cd12d3e384781b45&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490374350.jpg?k=6bbbf2e2233088208f094c55fb52d39cd0626f01266cb4ae7f27e02b81fd13e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363684.jpg?k=a9e5244cfaab582228efce448f72830c698fedd872d08a0abe1357c4e27b1545&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363589.jpg?k=5aabcb3b53d4b96bf8e857a316c3a6d8a647b0f8151ca3670bac43c9c5f2be3b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Quadruple Room with Balcony"\nnearbyRestaurants:\n  - "Hotel Rezidenca Desaret 50 m"\n  - "Solidarity Shop Berat 150 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 16 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Flaurent"\n    country: "Albania"\n    text: "“Everything was perfect we had such a wonderful time we enjoyed everything. The location is perfect and peaceful.”"\n  - name: "Janice"\n    country: "Malaysia"\n    text: "“Friendly host family with good whatsapp communication in English for directions. Very comfortable apartment, nice balcony with beautiful nature surrounds away from noise and traffic. Perfect location for exploring Berat”"\n  - name: "Daniela"\n    country: "United Kingdom"\n    text: "“Excellent location, beautifully decorated spacious accommodation. Very clean with comfortable bed. A perfect place to stay”"\nbookingURL: "https://www.booking.com/hotel/al/timber-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nAccommodations at Timber Guest House are thoughtfully designed with guest comfort in mind. Each room boasts a balcony, allowing visitors to enjoy their own slice of Berat's serene environment. The guest house goes above and beyond by equipping rooms with modern amenities such as free WiFi, a flat-screen TV, and a washing machine. The addition of a fully equipped kitchenette, complete with a toaster and fridge, adds a touch of home, while the thoughtful inclusion of fruits, chocolates, or cookies upon arrival adds a personal touch to the warm welcome.
+---
+title: "Timber Guest House"
+description: "Timber Guest House emerges as a charming retreat in the heart of Berat, offering guests a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363644.jpg?k=620ff46e02ad4d593c77f7ae87b18d431b113ceda42b76332e61980e9ca9df2b&o=&hp=1"
+language: en
+slug: timber-guest-house
+address: "Rruga Mihal Komnena, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 40.70672197
+  lng: 19.95278654
+price: "US$38"
+priceFrom: 38
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 9
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 9.7
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363644.jpg?k=620ff46e02ad4d593c77f7ae87b18d431b113ceda42b76332e61980e9ca9df2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363846.jpg?k=b5f42b975ccf100c5ed3727163fbc9deb13a0087950863d6e0b352bf3dbd6d01&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363800.jpg?k=0cc6aa026caf5cb5decd5742e7dd9982ef94e7c8cf6c980860407475a24396fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363727.jpg?k=aac8aa247cd508d24bf009873b2642ae992f135f098467942ba63131f307b3bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363663.jpg?k=dcdc4891372147bb2c1fabf06419ddae3981acd92e0f04b6a4b0623c51300b5e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363782.jpg?k=6c5811d7565cd8cdcff6f4f2224d18ceab1ae47ad7400902cd12d3e384781b45&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490374350.jpg?k=6bbbf2e2233088208f094c55fb52d39cd0626f01266cb4ae7f27e02b81fd13e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363684.jpg?k=a9e5244cfaab582228efce448f72830c698fedd872d08a0abe1357c4e27b1545&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363589.jpg?k=5aabcb3b53d4b96bf8e857a316c3a6d8a647b0f8151ca3670bac43c9c5f2be3b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Quadruple Room with Balcony"
+nearbyRestaurants:
+  - "Hotel Rezidenca Desaret 50 m"
+  - "Solidarity Shop Berat 150 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 16 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 83 km"
+reviews:
+  - name: "Flaurent"
+    country: "Albania"
+    text: "“Everything was perfect we had such a wonderful time we enjoyed everything. The location is perfect and peaceful.”"
+  - name: "Janice"
+    country: "Malaysia"
+    text: "“Friendly host family with good whatsapp communication in English for directions. Very comfortable apartment, nice balcony with beautiful nature surrounds away from noise and traffic. Perfect location for exploring Berat”"
+  - name: "Daniela"
+    country: "United Kingdom"
+    text: "“Excellent location, beautifully decorated spacious accommodation. Very clean with comfortable bed. A perfect place to stay”"
+bookingURL: "https://www.booking.com/hotel/al/timber-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+Accommodations at Timber Guest House are thoughtfully designed with guest comfort in mind. Each room boasts a balcony, allowing visitors to enjoy their own slice of Berat's serene environment. The guest house goes above and beyond by equipping rooms with modern amenities such as free WiFi, a flat-screen TV, and a washing machine. The addition of a fully equipped kitchenette, complete with a toaster and fridge, adds a touch of home, while the thoughtful inclusion of fruits, chocolates, or cookies upon arrival adds a personal touch to the warm welcome.
 
 The convenience doesn’t end there; Timber Guest House also features a snack bar and a minimarket, ensuring that guests have everything they need right at their fingertips. For those looking to unwind, the property's garden offers a tranquil escape, a perfect spot to relax after a day of exploring Berat.
 

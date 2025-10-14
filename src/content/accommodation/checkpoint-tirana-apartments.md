@@ -1,4 +1,90 @@
----\ntitle: "Checkpoint Tirana Apartments"\ndescription: "Checkpoint Tirana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068895.jpg?k=e89589327664393a090d9b7daac1f95e5b946b419c0299956aa0ff0f1c2418c6&o=&hp=1"\nlanguage: en\nslug: checkpoint-tirana-apartments\naddress: "Rruga Ferit Xhajko Sa kalon kryqezimin e Dispancerise me Siri Kodren, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33733953\n  lng: 19.82089291\nprice: "US$40"\npriceFrom: 40\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 32\nratings:\n  overall: 9.7\n  location: 9.2\n  cleanliness: 9.8\n  facilities: 9.8\n  value: 9.8\n  comfort: 9.8\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068895.jpg?k=e89589327664393a090d9b7daac1f95e5b946b419c0299956aa0ff0f1c2418c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478067722.jpg?k=e1b64b5d7e2d777c81cb97ca1a4cb3bd2d7600d24f9d2b0cc9c543dc61e62a22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478065277.jpg?k=764c057f61aa0db82c3c59890a0651485218654b63d1fb0b5432b400c4cc007f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068898.jpg?k=1ad41c245660993e3b6ecaa3e391f48fd6e2f10fe1ab03404c165447fb2033f4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478067442.jpg?k=e7a1d2b53fb07e0359ed66bd8e45a90e4971b1539797737b17d19e30c330ccba&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478065268.jpg?k=5865b9bd73f442cd7e2e2bd9c66385eb62a97f5ba6d04ba2f440edfc83750de9&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Good free WiFi (31 Mbps)"\n  - "Family rooms"\nroomTypes:\n  - "Apartment"\n  - "Apartment"\n  - "Apartment"\n  - "Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.2 km"\n  - "House of Leaves 1.2 km"\n  - "Tanners' Bridge 1.3 km"\n  - "Rinia Park 1.4 km"\n  - "Former Residence of Enver Hoxha 1.8 km"\n  - "Grand Park of Tirana 2.8 km"\n  - "Bunk'Art 1 Museum 3.6 km"\nnearbyRestaurants:\n  - "Bar Kafe Restorant Durrsi 150 m"\n  - "Byrektore 200 m"\nwhatsNearby:\n  - "Amazing Nature 450 m"\n  - "National Museum of History Albania 950 m"\n  - "Sheshi Sulejman Pasha 1,000 m"\n  - "Sheshi Paris 1 km"\n  - "Sheshi Skënderbej 1 km"\n  - "Clock Tower Tirana 1.1 km"\n  - "Skanderbeg Square 1.1 km"\n  - "Parku Europa 1.1 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.1 km"\n  - "Sheshi Rekreativ Mine Peza 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Anne"\n    country: "Germany"\n    text: "“very modern and beautiful house and room. Spotless clean, pretty interior and very comfortable bed and pillows. In walking distance to the center (15 min) as well as close to supermarkets and shops. We very much liked it - highly recommended!”"\n  - name: "Rızvan"\n    country: "Azerbaijan"\n    text: "“Reception and the girl who work there very pretty. I visit this apartament again”"\n  - name: "Suzana"\n    country: "Montenegro"\n    text: "“Perfect location for the main city centre and attractions. The room was very clean and spacious. Thank you Ani for hosting”"\nbookingURL: "https://www.booking.com/hotel/al/checkpoint-tirana-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe proximity to notable landmarks such as the National Gallery of Arts Tirana, Clock Tower Tirana, and the Et'hem Bey Mosque adds to the appeal, making it an attractive option for those keen to immerse themselves in the local heritage. For guests arriving by car, the convenience of private parking is available, albeit for an additional fee.
+---
+title: "Checkpoint Tirana Apartments"
+description: "Checkpoint Tirana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068895.jpg?k=e89589327664393a090d9b7daac1f95e5b946b419c0299956aa0ff0f1c2418c6&o=&hp=1"
+language: en
+slug: checkpoint-tirana-apartments
+address: "Rruga Ferit Xhajko Sa kalon kryqezimin e Dispancerise me Siri Kodren, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33733953
+  lng: 19.82089291
+price: "US$40"
+priceFrom: 40
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 32
+ratings:
+  overall: 9.7
+  location: 9.2
+  cleanliness: 9.8
+  facilities: 9.8
+  value: 9.8
+  comfort: 9.8
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068895.jpg?k=e89589327664393a090d9b7daac1f95e5b946b419c0299956aa0ff0f1c2418c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478067722.jpg?k=e1b64b5d7e2d777c81cb97ca1a4cb3bd2d7600d24f9d2b0cc9c543dc61e62a22&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478065277.jpg?k=764c057f61aa0db82c3c59890a0651485218654b63d1fb0b5432b400c4cc007f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068898.jpg?k=1ad41c245660993e3b6ecaa3e391f48fd6e2f10fe1ab03404c165447fb2033f4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478067442.jpg?k=e7a1d2b53fb07e0359ed66bd8e45a90e4971b1539797737b17d19e30c330ccba&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478065268.jpg?k=5865b9bd73f442cd7e2e2bd9c66385eb62a97f5ba6d04ba2f440edfc83750de9&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Good free WiFi (31 Mbps)"
+  - "Family rooms"
+roomTypes:
+  - "Apartment"
+  - "Apartment"
+  - "Apartment"
+  - "Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1.2 km"
+  - "House of Leaves 1.2 km"
+  - "Tanners' Bridge 1.3 km"
+  - "Rinia Park 1.4 km"
+  - "Former Residence of Enver Hoxha 1.8 km"
+  - "Grand Park of Tirana 2.8 km"
+  - "Bunk'Art 1 Museum 3.6 km"
+nearbyRestaurants:
+  - "Bar Kafe Restorant Durrsi 150 m"
+  - "Byrektore 200 m"
+whatsNearby:
+  - "Amazing Nature 450 m"
+  - "National Museum of History Albania 950 m"
+  - "Sheshi Sulejman Pasha 1,000 m"
+  - "Sheshi Paris 1 km"
+  - "Sheshi Skënderbej 1 km"
+  - "Clock Tower Tirana 1.1 km"
+  - "Skanderbeg Square 1.1 km"
+  - "Parku Europa 1.1 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.1 km"
+  - "Sheshi Rekreativ Mine Peza 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Anne"
+    country: "Germany"
+    text: "“very modern and beautiful house and room. Spotless clean, pretty interior and very comfortable bed and pillows. In walking distance to the center (15 min) as well as close to supermarkets and shops. We very much liked it - highly recommended!”"
+  - name: "Rızvan"
+    country: "Azerbaijan"
+    text: "“Reception and the girl who work there very pretty. I visit this apartament again”"
+  - name: "Suzana"
+    country: "Montenegro"
+    text: "“Perfect location for the main city centre and attractions. The room was very clean and spacious. Thank you Ani for hosting”"
+bookingURL: "https://www.booking.com/hotel/al/checkpoint-tirana-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The proximity to notable landmarks such as the National Gallery of Arts Tirana, Clock Tower Tirana, and the Et'hem Bey Mosque adds to the appeal, making it an attractive option for those keen to immerse themselves in the local heritage. For guests arriving by car, the convenience of private parking is available, albeit for an additional fee.
 
 Accommodations at Checkpoint Tirana Apartments do not disappoint. Each unit is thoughtfully equipped with modern amenities including a flat-screen TV, complimentary WiFi, and air conditioning, ensuring a stay that is as comfortable as it is connected. The inclusion of a private bathroom, complete with a bath and slippers, adds a touch of luxury to the experience, while the provision of a desk caters to the needs of business travelers or those simply wishing to pen their adventures.
 

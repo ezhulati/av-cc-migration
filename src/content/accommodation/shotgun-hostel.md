@@ -1,4 +1,72 @@
----\ntitle: "Shotgun Hostel"\ndescription: "Shotgun Hostel emerges as a charming retreat in Vuno, boasting a harmonious blend of communal spaces including a garden, lounge, and a terrace complemented by a welcoming bar."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361592490.jpg?k=2d4e9527c3f2dd88376dc349fce011ace13813e26dca2c25bf820992d1e7a422&o=&hp=1"\nlanguage: en\nslug: shotgun-hostel\naddress: "SH8, 9417 Vuno, Albania"\ncity: "Vuno"\nlocation: "Vuno"\naccommodationType: "hostel"\ncoordinates:\n  lat: 40.14113934\n  lng: 19.69525467\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 66\nratings:\n  overall: 9.1\n  location: 9.3\n  cleanliness: 9\n  facilities: 8.6\n  value: 9.2\n  comfort: 8.5\n  staff: 9.4\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361592490.jpg?k=2d4e9527c3f2dd88376dc349fce011ace13813e26dca2c25bf820992d1e7a422&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471863801.jpg?k=3edf2a5ab5534b0aed0ae88c85552bb43c34639deddd077b2d68502a80acd055&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363453214.jpg?k=2e30f40f72728c18bacc45759779c32e4cb0781e8dc2e10537d5964b7ba184ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363451470.jpg?k=2d954479f1c4ac49970eb871cdb7fbe2183f2426ee43467bc97e9f47e1f5b5a5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452326.jpg?k=12f0089526190c886699c072a602867a62eb7fde5b83eb5f5f4dee00170826bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452566.jpg?k=76ca8f7a06c50de0fecb5b005eed82049be79d9c04dbdc6d6b0ce62e2581be94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452455.jpg?k=2ee6b7ca4364677f3bb8ea6a705e397ea3414ca38f19569928ec14284c96aed3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452969.jpg?k=55be7dbfaf04adc50ffff265865eade5a6975b43c45fdcc4cdeedb6fdb0327b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452836.jpg?k=f4e4d42b70437016c67e9fe5dfdcb4600667b45eb0d5c1fbad4d9dc794a0c9d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452707.jpg?k=f98395aa682aa8767961d5d6d0199c76f55fcd2c479badfa0a9bbf4ff95e576c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363449562.jpg?k=7f09678b439f4e9b568772a64793e0a4a10f4fa6ae3dabb8afa305ea911ffa41&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363449665.jpg?k=537af81dc67924c8dfce5819eb1065b527a9a3f9ddf069ea462ddd9c9374b946&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Breakfast"\nnearbyBeaches:\n  - "Folie Marine Beach 2.2 km"\n  - "Jale Beach 2.3 km"\n  - "Beach Me Shpella 2.4 km"\n  - "Gjipe Beach 2.6 km"\n  - "Akuariumit Beach 3.3 km"\nreviews:\n  - name: "Tess"\n    country: "United Kingdom"\n    text: "“Lovely village home with comfy rooms and delicious breakfast available to order the night before! The owners are wonderful and offer the cheapest boat tour around to beautiful caves and coves! I loved everything 😁”"\n  - name: "Stacey"\n    country: "Australia"\n    text: "“Very welcoming feel, the communal space was fantastic. Bree helped was fantastic with giving recommendations and providing everything needed.”"\n  - name: "Tim"\n    country: "Germany"\n    text: "“The hosts care about the guests. I was about to do a hike on Maja e Cikes and Adrian made sure I had thought this through and showed me the possible trails in 3D. In general, Vuno is a very calm and relaxing village. The atmosphere is also lived...”"\nbookingURL: "https://www.booking.com/hotel/al/sg-hostel-vuno-vuno.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Shotgun Hostel are thoughtfully designed, with each room opening up to a balcony that presents breathtaking mountain views. Select units elevate the experience further, offering vistas of the sea, while the comfort of every guest is ensured with shared bathroom facilities equipped with showers. For added convenience, bed linen and towels are provided in every room.
+---
+title: "Shotgun Hostel"
+description: "Shotgun Hostel emerges as a charming retreat in Vuno, boasting a harmonious blend of communal spaces including a garden, lounge, and a terrace complemented by a welcoming bar."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361592490.jpg?k=2d4e9527c3f2dd88376dc349fce011ace13813e26dca2c25bf820992d1e7a422&o=&hp=1"
+language: en
+slug: shotgun-hostel
+address: "SH8, 9417 Vuno, Albania"
+city: "Vuno"
+location: "Vuno"
+accommodationType: "hostel"
+coordinates:
+  lat: 40.14113934
+  lng: 19.69525467
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 66
+ratings:
+  overall: 9.1
+  location: 9.3
+  cleanliness: 9
+  facilities: 8.6
+  value: 9.2
+  comfort: 8.5
+  staff: 9.4
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361592490.jpg?k=2d4e9527c3f2dd88376dc349fce011ace13813e26dca2c25bf820992d1e7a422&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471863801.jpg?k=3edf2a5ab5534b0aed0ae88c85552bb43c34639deddd077b2d68502a80acd055&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363453214.jpg?k=2e30f40f72728c18bacc45759779c32e4cb0781e8dc2e10537d5964b7ba184ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363451470.jpg?k=2d954479f1c4ac49970eb871cdb7fbe2183f2426ee43467bc97e9f47e1f5b5a5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452326.jpg?k=12f0089526190c886699c072a602867a62eb7fde5b83eb5f5f4dee00170826bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452566.jpg?k=76ca8f7a06c50de0fecb5b005eed82049be79d9c04dbdc6d6b0ce62e2581be94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452455.jpg?k=2ee6b7ca4364677f3bb8ea6a705e397ea3414ca38f19569928ec14284c96aed3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452969.jpg?k=55be7dbfaf04adc50ffff265865eade5a6975b43c45fdcc4cdeedb6fdb0327b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452836.jpg?k=f4e4d42b70437016c67e9fe5dfdcb4600667b45eb0d5c1fbad4d9dc794a0c9d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363452707.jpg?k=f98395aa682aa8767961d5d6d0199c76f55fcd2c479badfa0a9bbf4ff95e576c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363449562.jpg?k=7f09678b439f4e9b568772a64793e0a4a10f4fa6ae3dabb8afa305ea911ffa41&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363449665.jpg?k=537af81dc67924c8dfce5819eb1065b527a9a3f9ddf069ea462ddd9c9374b946&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Breakfast"
+nearbyBeaches:
+  - "Folie Marine Beach 2.2 km"
+  - "Jale Beach 2.3 km"
+  - "Beach Me Shpella 2.4 km"
+  - "Gjipe Beach 2.6 km"
+  - "Akuariumit Beach 3.3 km"
+reviews:
+  - name: "Tess"
+    country: "United Kingdom"
+    text: "“Lovely village home with comfy rooms and delicious breakfast available to order the night before! The owners are wonderful and offer the cheapest boat tour around to beautiful caves and coves! I loved everything 😁”"
+  - name: "Stacey"
+    country: "Australia"
+    text: "“Very welcoming feel, the communal space was fantastic. Bree helped was fantastic with giving recommendations and providing everything needed.”"
+  - name: "Tim"
+    country: "Germany"
+    text: "“The hosts care about the guests. I was about to do a hike on Maja e Cikes and Adrian made sure I had thought this through and showed me the possible trails in 3D. In general, Vuno is a very calm and relaxing village. The atmosphere is also lived...”"
+bookingURL: "https://www.booking.com/hotel/al/sg-hostel-vuno-vuno.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Shotgun Hostel are thoughtfully designed, with each room opening up to a balcony that presents breathtaking mountain views. Select units elevate the experience further, offering vistas of the sea, while the comfort of every guest is ensured with shared bathroom facilities equipped with showers. For added convenience, bed linen and towels are provided in every room.
 
 Mornings at Shotgun Hostel start on a high note with a delightful continental breakfast, setting the tone for the day. For those who enjoy outdoor dining, the hostel also features a barbecue area, perfect for socializing and enjoying grilled delicacies under the sky.
 

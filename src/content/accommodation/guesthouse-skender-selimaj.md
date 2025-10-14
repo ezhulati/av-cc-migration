@@ -1,4 +1,87 @@
----\ntitle: "Guesthouse Skender Selimaj"\ndescription: "Guesthouse Skender Selimaj stands as a serene retreat in the heart of Valbonë, offering more than just a place to stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304393762.jpg?k=fc22c8ac910455c655e42fcf11bd975674c6b509c5e77f4868d663a08832ad1b&o=&hp=1"\nlanguage: en\nslug: guesthouse-skender-selimaj\naddress: "Rruga Azem Hajdari, 8701 Valbonë, Albania"\ncity: "Valbonë"\nlocation: "Valbonë"\naccommodationType: "guesthouse"\ncoordinates:\n  lat: 42.44608898\n  lng: 19.88513067\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 544\nratings:\n  overall: 8.9\n  location: 9.4\n  cleanliness: 8.6\n  facilities: 8.1\n  value: 8.9\n  comfort: 8.5\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304393762.jpg?k=fc22c8ac910455c655e42fcf11bd975674c6b509c5e77f4868d663a08832ad1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378233446.jpg?k=c26368eb84e50c200f88b04372bfddb62b4b31d5cf0c5a115a490672c94ec01c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378234017.jpg?k=3db99dc488b01a017a83509941a2f783ff542400d87159d567bc749163d95133&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378636038.jpg?k=8bc44b7ab982ee707887bd2019eaed38fabb94b3197094aabc36937c309bb62c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378233769.jpg?k=d9d9d18945d36f49c11138d8a7d77106acc7427c296e254426960a998a35dd48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378233743.jpg?k=d7c2efdc5f25dc9d01539c66c5a0584e27c6159cce46bfe3e0b7af42907ecba4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308193993.jpg?k=e39dcf6bf423eea3485d100e187ab64df9067c1eff15fde4dff49b20292541f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482227019.jpg?k=644797882acd7805cfab24b4d616d5757b9a7e41d4180f277b71ae0f43007244&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485727335.jpg?k=645b84f0d8c598cb1787a4df2da49d135bbf4fd4b0a79d16324ccc3e9938560b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Restaurant"\n  - "Free parking"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Standard Double Room"\n  - "Standard Twin Room with Mountain View"\n  - "Basic Triple Room"\n  - "Quadruple Room"\nnearbyRestaurants:\n  - "Tahirs Café & Guesthouse 1.1 km"\n  - "Fusha E Gjes 2.1 km"\nwhatsNearby:\n  - "Valbona Valley National Park 0 m"\n  - "Parku Kombëtar Lugina e Valbonës 2.7 km"\n  - "Prokletije National Park 3.9 km"\n  - "Theth National Park 4.7 km"\n  - "Theth National Park 9 km"\n  - "Nacionalni Park Prokletije 10 km"\n  - "Prokletije National Park 11 km"\n  - "Nacionalni park Prokletije 14 km"\n  - "Valbona Valley National Park 19 km"\nairports:\n  - "Podgorica Airport 52 km"\n  - "Tivat Airport 95 km"\n  - "Pristina International Airport 95 km"\nreviews:\n  - name: "Karolina"\n    country: "Slovenia"\n    text: "“The owners (lovely couple) is so nice, although they barely speak any English. Breakfast and dinner are very good, we were so full after dinner. The location is around 35-40min of walk from the trail, so it is not such a problem, they can even...”"\n  - name: "Dalley"\n    country: "Australia"\n    text: "“The hosts were absolutely lovely, helpful and shared their placid farming lifestyle with us.”"\n  - name: "Malin"\n    country: "Australia"\n    text: "“Everything you can wish for when you are hiking through Albania. Small and clean room. The food was great and more than enough. Also gluten free was no problem!”"\nbookingURL: "https://www.booking.com/hotel/al/guesthouse-skender-selimaj.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodations at Guesthouse Skender Selimaj are thoughtfully designed with soundproofing, ensuring a peaceful and private experience for every guest. Each room is well-appointed with essential comforts such as a private bathroom, cozy slippers, and fresh bed linen, promising a restful night's sleep amidst the tranquility of Valbonë.
+---
+title: "Guesthouse Skender Selimaj"
+description: "Guesthouse Skender Selimaj stands as a serene retreat in the heart of Valbonë, offering more than just a place to stay."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304393762.jpg?k=fc22c8ac910455c655e42fcf11bd975674c6b509c5e77f4868d663a08832ad1b&o=&hp=1"
+language: en
+slug: guesthouse-skender-selimaj
+address: "Rruga Azem Hajdari, 8701 Valbonë, Albania"
+city: "Valbonë"
+location: "Valbonë"
+accommodationType: "guesthouse"
+coordinates:
+  lat: 42.44608898
+  lng: 19.88513067
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 544
+ratings:
+  overall: 8.9
+  location: 9.4
+  cleanliness: 8.6
+  facilities: 8.1
+  value: 8.9
+  comfort: 8.5
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304393762.jpg?k=fc22c8ac910455c655e42fcf11bd975674c6b509c5e77f4868d663a08832ad1b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378233446.jpg?k=c26368eb84e50c200f88b04372bfddb62b4b31d5cf0c5a115a490672c94ec01c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378234017.jpg?k=3db99dc488b01a017a83509941a2f783ff542400d87159d567bc749163d95133&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378636038.jpg?k=8bc44b7ab982ee707887bd2019eaed38fabb94b3197094aabc36937c309bb62c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378233769.jpg?k=d9d9d18945d36f49c11138d8a7d77106acc7427c296e254426960a998a35dd48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378233743.jpg?k=d7c2efdc5f25dc9d01539c66c5a0584e27c6159cce46bfe3e0b7af42907ecba4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308193993.jpg?k=e39dcf6bf423eea3485d100e187ab64df9067c1eff15fde4dff49b20292541f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482227019.jpg?k=644797882acd7805cfab24b4d616d5757b9a7e41d4180f277b71ae0f43007244&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485727335.jpg?k=645b84f0d8c598cb1787a4df2da49d135bbf4fd4b0a79d16324ccc3e9938560b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Restaurant"
+  - "Free parking"
+  - "Family rooms"
+  - "Bar"
+  - "Fabulous breakfast"
+roomTypes:
+  - "Standard Double Room"
+  - "Standard Twin Room with Mountain View"
+  - "Basic Triple Room"
+  - "Quadruple Room"
+nearbyRestaurants:
+  - "Tahirs Café & Guesthouse 1.1 km"
+  - "Fusha E Gjes 2.1 km"
+whatsNearby:
+  - "Valbona Valley National Park 0 m"
+  - "Parku Kombëtar Lugina e Valbonës 2.7 km"
+  - "Prokletije National Park 3.9 km"
+  - "Theth National Park 4.7 km"
+  - "Theth National Park 9 km"
+  - "Nacionalni Park Prokletije 10 km"
+  - "Prokletije National Park 11 km"
+  - "Nacionalni park Prokletije 14 km"
+  - "Valbona Valley National Park 19 km"
+airports:
+  - "Podgorica Airport 52 km"
+  - "Tivat Airport 95 km"
+  - "Pristina International Airport 95 km"
+reviews:
+  - name: "Karolina"
+    country: "Slovenia"
+    text: "“The owners (lovely couple) is so nice, although they barely speak any English. Breakfast and dinner are very good, we were so full after dinner. The location is around 35-40min of walk from the trail, so it is not such a problem, they can even...”"
+  - name: "Dalley"
+    country: "Australia"
+    text: "“The hosts were absolutely lovely, helpful and shared their placid farming lifestyle with us.”"
+  - name: "Malin"
+    country: "Australia"
+    text: "“Everything you can wish for when you are hiking through Albania. Small and clean room. The food was great and more than enough. Also gluten free was no problem!”"
+bookingURL: "https://www.booking.com/hotel/al/guesthouse-skender-selimaj.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodations at Guesthouse Skender Selimaj are thoughtfully designed with soundproofing, ensuring a peaceful and private experience for every guest. Each room is well-appointed with essential comforts such as a private bathroom, cozy slippers, and fresh bed linen, promising a restful night's sleep amidst the tranquility of Valbonë.
 
 Mornings at the guesthouse begin with a delightful continental breakfast, setting the tone for a day of exploration or relaxation. The on-site restaurant, a hit among both guests and locals, serves up delectable local cuisine for lunch, dinner, and brunch in a family-friendly atmosphere. Whether it's a hearty meal to start the day or a sumptuous dinner to cap off an evening, the culinary offerings here are sure to satisfy any palate.
 

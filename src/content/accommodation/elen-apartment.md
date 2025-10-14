@@ -1,5 +1,82 @@
----\ntitle: "Elen Apartment"\ndescription: "Elen Apartment emerges as a prime choice for travelers seeking a serene getaway close to the pristine shores of Orikum."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153018.jpg?k=1efe722f22cfbe38ba5ff82682f26064dbc1edc1d7f4c2376f695f00c9b9855e&o=&hp=1"\nlanguage: en\nslug: elen-apartment\naddress: "SH8 Rruga Radhime Orikum, building 3, 9426 Orikum, Albania"\ncity: "Orikum"\nlocation: "Orikum"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.34066705\n  lng: 19.48060488\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 20\nratings:\n  overall: 9.5\n  location: 9.1\n  cleanliness: 9.6\n  facilities: 9.8\n  value: 9.1\n  comfort: 9.6\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153018.jpg?k=1efe722f22cfbe38ba5ff82682f26064dbc1edc1d7f4c2376f695f00c9b9855e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153119.jpg?k=5c0adbb9f567de12adaa23b604afe957a5ba5473c89df68c5913f2233f171b03&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153033.jpg?k=7cc12a77b8e66ad1143b5123caa1cb128d2bfa6300d16e16a7e7b1cdf3f3d957&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269247425.jpg?k=1a2d1a4b8c76806ec837323bbd27607ebe85ce8f5f000f217c0b0af8f36ff4c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153062.jpg?k=69fdbe6bec52a018a93e28a9522070371f3f9553c1f6ad011a183419e2c08a30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153067.jpg?k=6e2eeaa8121c1e9d70923bbc1c825d47ea8e476ddfc4fb5e4455fa437fd8a7c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201152973.jpg?k=c23e70a2dc722767d3ebd68a543b49f32393f9b8bd92ec29ef417c7b726fc616&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153065.jpg?k=a2c3177230979cc6a9fce116f9b4b299b3b1ac6b809562e6e245d6376ce3288f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153079.jpg?k=d8774f6b2aee9c3810079f8b3a5357c9b3cb5147417b1eae64d97739dfde1154&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269247298.jpg?k=ae86ce78707ee0f242f8ad047119eed7aa063721ce91d28a131bf11aed396a59&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269247166.jpg?k=504680118c62e463f40126c535d9f82492f84d6fd8ee9b284f515d436136aeac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153040.jpg?k=7b894766f8fee02f0319267f8e3c3be4f9db007e63033eff673692f034df7646&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Restorant Ibiza 150 m"\n  - "Tiku&Mato Orikum 200 m"\nnearbyBeaches:\n  - "Baro Beach 250 m"\n  - "Al Breeze Beach 600 m"\n  - "Nettuno Beach 900 m"\n  - "Radhimë Beach 1.3 km"\n  - "Orikum Beach 2.4 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 11 km"\n  - "Llogora National Park 14 km"\n  - "Kuzum Baba 14 km"\n  - "Independence Square 15 km"\nairports:\n  - "Corfu International Airport 89 km"\nreviews:\n  - name: "Wesol15"\n    country: "Poland"\n    text: "“Apartment was really nice. Ellen was not there, but her friend took care of use really good, she was very helpful and always when we were asking for something, our query was addressed.
-My wife loved really soft blankets :)”"\n  - name: "Ugljesa"\n    country: "Serbia"\n    text: "“This new, spotlessly clean and very tastefully decoreted apartment is located at the ground floor of a recently built house (the last in the row, so no traffic noice from the main road is heard). Large, soft double bed. Fully equipped kitchen...”"\n  - name: "Divjon"\n    country: "Albania"\n    text: "“The location provided parking and easy access. It has a balcony where you can enjoy a night cap. Would go there again.”"\nbookingURL: "https://www.booking.com/hotel/al/elen-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Adventure Activities"\nbestCategories: "Adventure Activities"\ncategory: "Adventure Activities"\n---\n\nThis property stands out for its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The convenience of complimentary private parking and WiFi access further enhances the guest experience, allowing for ease of travel and connectivity throughout the stay.
+---
+title: "Elen Apartment"
+description: "Elen Apartment emerges as a prime choice for travelers seeking a serene getaway close to the pristine shores of Orikum."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153018.jpg?k=1efe722f22cfbe38ba5ff82682f26064dbc1edc1d7f4c2376f695f00c9b9855e&o=&hp=1"
+language: en
+slug: elen-apartment
+address: "SH8 Rruga Radhime Orikum, building 3, 9426 Orikum, Albania"
+city: "Orikum"
+location: "Orikum"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.34066705
+  lng: 19.48060488
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 20
+ratings:
+  overall: 9.5
+  location: 9.1
+  cleanliness: 9.6
+  facilities: 9.8
+  value: 9.1
+  comfort: 9.6
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153018.jpg?k=1efe722f22cfbe38ba5ff82682f26064dbc1edc1d7f4c2376f695f00c9b9855e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153119.jpg?k=5c0adbb9f567de12adaa23b604afe957a5ba5473c89df68c5913f2233f171b03&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153033.jpg?k=7cc12a77b8e66ad1143b5123caa1cb128d2bfa6300d16e16a7e7b1cdf3f3d957&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269247425.jpg?k=1a2d1a4b8c76806ec837323bbd27607ebe85ce8f5f000f217c0b0af8f36ff4c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153062.jpg?k=69fdbe6bec52a018a93e28a9522070371f3f9553c1f6ad011a183419e2c08a30&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153067.jpg?k=6e2eeaa8121c1e9d70923bbc1c825d47ea8e476ddfc4fb5e4455fa437fd8a7c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201152973.jpg?k=c23e70a2dc722767d3ebd68a543b49f32393f9b8bd92ec29ef417c7b726fc616&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153065.jpg?k=a2c3177230979cc6a9fce116f9b4b299b3b1ac6b809562e6e245d6376ce3288f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153079.jpg?k=d8774f6b2aee9c3810079f8b3a5357c9b3cb5147417b1eae64d97739dfde1154&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269247298.jpg?k=ae86ce78707ee0f242f8ad047119eed7aa063721ce91d28a131bf11aed396a59&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269247166.jpg?k=504680118c62e463f40126c535d9f82492f84d6fd8ee9b284f515d436136aeac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153040.jpg?k=7b894766f8fee02f0319267f8e3c3be4f9db007e63033eff673692f034df7646&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Restorant Ibiza 150 m"
+  - "Tiku&Mato Orikum 200 m"
+nearbyBeaches:
+  - "Baro Beach 250 m"
+  - "Al Breeze Beach 600 m"
+  - "Nettuno Beach 900 m"
+  - "Radhimë Beach 1.3 km"
+  - "Orikum Beach 2.4 km"
+whatsNearby:
+  - "Scooby Doo Vlore 11 km"
+  - "Llogora National Park 14 km"
+  - "Kuzum Baba 14 km"
+  - "Independence Square 15 km"
+airports:
+  - "Corfu International Airport 89 km"
+reviews:
+  - name: "Wesol15"
+    country: "Poland"
+    text: "“Apartment was really nice. Ellen was not there, but her friend took care of use really good, she was very helpful and always when we were asking for something, our query was addressed.
+My wife loved really soft blankets :)”"
+  - name: "Ugljesa"
+    country: "Serbia"
+    text: "“This new, spotlessly clean and very tastefully decoreted apartment is located at the ground floor of a recently built house (the last in the row, so no traffic noice from the main road is heard). Large, soft double bed. Fully equipped kitchen...”"
+  - name: "Divjon"
+    country: "Albania"
+    text: "“The location provided parking and easy access. It has a balcony where you can enjoy a night cap. Would go there again.”"
+bookingURL: "https://www.booking.com/hotel/al/elen-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Adventure Activities"
+bestCategories: "Adventure Activities"
+category: "Adventure Activities"
+---
+
+This property stands out for its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The convenience of complimentary private parking and WiFi access further enhances the guest experience, allowing for ease of travel and connectivity throughout the stay.
 
 The apartment itself is a haven of comfort, featuring air conditioning for those warm summer days. It boasts a bedroom that promises restful nights, a fully equipped kitchenette with a dining area for home-cooked meals, and a bathroom equipped with a walk-in shower for ultimate relaxation. For added convenience, towels and bed linen are readily available, ensuring guests have everything they need for a comfortable stay.
 

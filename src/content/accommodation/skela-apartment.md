@@ -1,4 +1,60 @@
----\ntitle: "Skela Apartment"\ndescription: "Skela Apartment emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering a unique blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425175807.jpg?k=3ac3ced872d3beab144d47759a27cf6e278f33285a17348470510dbd8182eead&o=&hp=1"\nlanguage: en\nslug: skela-apartment\naddress: "Lagja Pavaresua Skele, 9404 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.45265585\n  lng: 19.48446143\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.3\nratingWords: "Very Good"\nnumberOfReviews: 1\nratings:\n  overall: 8.3\n  location: 10\n  cleanliness: 10\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425175807.jpg?k=3ac3ced872d3beab144d47759a27cf6e278f33285a17348470510dbd8182eead&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175750.jpg?k=423acca6acb2babb2419d9cdb767366c82436de882724f5b90f2f5507b3a2c26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175818.jpg?k=b97e4bbf980549e96ae07e32daa77204ef2c6755af03c55f2a488e059cdeef12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175832.jpg?k=f19f8a610a2cba6bcd6ec0ed28155ff5035b74042ab89b05188fec92c151ac62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175845.jpg?k=dc1a04db31748a7004e7b94578bbf8d3a5bb76acd18d8d2716b610fdc5ffbd37&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "The Dodo Bar & 50 m"\n  - "Taushani 100 m"\nnearbyBeaches:\n  - "Vjetër Beach 250 m"\n  - "Vlore Beach 900 m"\n  - "Ri Beach 2.1 km"\n  - "Beach at Government Villas 3.6 km"\n  - "Liro Beach 4.2 km"\nwhatsNearby:\n  - "Kuzum Baba 1.8 km"\n  - "Scooby Doo Vlore 2 km"\n  - "Independence Square 2.1 km"\nbookingURL: "https://www.booking.com/hotel/al/skela-apartment-vlora.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of modern amenities, boasting air conditioning for those warm Mediterranean days. It includes a separate bedroom, ensuring privacy and tranquility for guests. The kitchen comes fully equipped, catering to those who enjoy the comfort of a home-cooked meal while traveling. Additionally, the presence of a flat-screen TV ensures entertainment is never far away. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
+---
+title: "Skela Apartment"
+description: "Skela Apartment emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering a unique blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425175807.jpg?k=3ac3ced872d3beab144d47759a27cf6e278f33285a17348470510dbd8182eead&o=&hp=1"
+language: en
+slug: skela-apartment
+address: "Lagja Pavaresua Skele, 9404 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.45265585
+  lng: 19.48446143
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.3
+ratingWords: "Very Good"
+numberOfReviews: 1
+ratings:
+  overall: 8.3
+  location: 10
+  cleanliness: 10
+  facilities: 7.5
+  value: 7.5
+  comfort: 7.5
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425175807.jpg?k=3ac3ced872d3beab144d47759a27cf6e278f33285a17348470510dbd8182eead&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175750.jpg?k=423acca6acb2babb2419d9cdb767366c82436de882724f5b90f2f5507b3a2c26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175818.jpg?k=b97e4bbf980549e96ae07e32daa77204ef2c6755af03c55f2a488e059cdeef12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175832.jpg?k=f19f8a610a2cba6bcd6ec0ed28155ff5035b74042ab89b05188fec92c151ac62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/425175845.jpg?k=dc1a04db31748a7004e7b94578bbf8d3a5bb76acd18d8d2716b610fdc5ffbd37&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "The Dodo Bar & 50 m"
+  - "Taushani 100 m"
+nearbyBeaches:
+  - "Vjetër Beach 250 m"
+  - "Vlore Beach 900 m"
+  - "Ri Beach 2.1 km"
+  - "Beach at Government Villas 3.6 km"
+  - "Liro Beach 4.2 km"
+whatsNearby:
+  - "Kuzum Baba 1.8 km"
+  - "Scooby Doo Vlore 2 km"
+  - "Independence Square 2.1 km"
+bookingURL: "https://www.booking.com/hotel/al/skela-apartment-vlora.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of modern amenities, boasting air conditioning for those warm Mediterranean days. It includes a separate bedroom, ensuring privacy and tranquility for guests. The kitchen comes fully equipped, catering to those who enjoy the comfort of a home-cooked meal while traveling. Additionally, the presence of a flat-screen TV ensures entertainment is never far away. Emphasizing a healthy living environment, the accommodation maintains a strict non-smoking policy.
 
 For beach enthusiasts, Vjetër Beach is conveniently located just 500 meters from the doorstep, offering an intimate setting for sunbathing or a leisurely stroll along the shore. For those looking to explore further, Kuzum Baba is a mere 2.8 km away, promising an intriguing visit.
 

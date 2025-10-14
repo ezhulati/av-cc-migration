@@ -1,4 +1,79 @@
----\ntitle: "Comfortable Small Apartment."\ndescription: "Comfortable Small Apartment in Sarandë stands out as a prime choice for travelers seeking both convenience and comfort."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636376.jpg?k=1a6b8544d19b59025c70b8d91d4b660eb7f87b9a92b13c95b8ae11bc0709037f&o=&hp=1"\nlanguage: en\nslug: comfortable-small-apartment\naddress: "Rruga Themistokli Bahima 37, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87288991\n  lng: 19.99613595\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 9\nratings:\n  overall: 9.7\n  location: 8.9\n  cleanliness: 10\n  facilities: 10\n  value: 9.7\n  comfort: 10\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636376.jpg?k=1a6b8544d19b59025c70b8d91d4b660eb7f87b9a92b13c95b8ae11bc0709037f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636385.jpg?k=88f01f1a394acba7b47b27a43f4236dce385865902391f95a919ab67517cc90e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636407.jpg?k=2c038ec7237cd8d4fbd635af6f2c81c80ae61d4942cf67cd438868d98ec9805f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636403.jpg?k=55353287ec527ba3d84a1a19cf0004e70055f5f616d696f6605776091de85c64&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636390.jpg?k=03d0bf5073e7f41348dff990b927715ad23369df3b54b568b75c08b979cabecf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480607719.jpg?k=7bd48ebaa7a3e2e51b1b2502df78c11fb9e3a12718fd51fd65eea3b79c86f868&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482899632.jpg?k=bcf3cadaf3cc3791912c6564d6484ac00f9384bf86a9e18871a2cb999fc67ad1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636415.jpg?k=36535cb21b4934349d4f88bfb3c60afc01f161a8ec50e2376ec79c8f8b5f964a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482899745.jpg?k=d0aa5a772c750f301795f767e7c56eaa7920f33ec2083231a430099ef0948158&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Taverna Rustemi 50 m"\n  - "Kozi Bistro 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 250 m"\n  - "Saranda City Beach 1.1 km"\n  - "Saranda Bay Beach 1.3 km"\n  - "La Petite Beach 1.6 km"\n  - "Maestral Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.9 km"\n  - "Butrint National Park 3.5 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Paula"\n    country: "Portugal"\n    text: "“Fica em sarande perto da praia e um pouco longe do centro. Mas o apartamento é agradável e tem tudo o que é preciso adorámos”"\n  - name: "Zuzia"\n    country: "Poland"\n    text: "“Lokalizacja w porządku, spokojna okolica, trochę na uboczu, ale ok. 15min do publicznej plaży i dużo bliżej plaże prywatne. Świetne wyposażenie, kuchnia, TV, łazienka. Przywitała nas Pani domowymi wypiekami, wodą i serem, co było przemiłym...”"\n  - name: "Davor"\n    country: "Bosnia and Herzegovina"\n    text: "“Vrlo prijatna i ugodna vlasnica, susretljiva i uvjek na raspolaganju. Docekani smo sa nekoliko ustipaka i komada odlicnog sira i zdjelom divnih domacih smokava ubranih netom prije sluzenja. Smjestajna jedinica sa svim pratecim sadrzajima izuzetno...”"\nbookingURL: "https://www.booking.com/hotel/al/comfortable-small-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThis cozy retreat is not just about its prime location; it comes fully equipped to meet the needs of modern travelers. Guests will find themselves in a well-appointed space featuring one bedroom, a bathroom complete with essential linens and towels, and a living area dominated by a flat-screen TV for entertainment. The fully equipped kitchen allows for the preparation of home-cooked meals, adding a touch of home-away-from-home comfort. Perhaps one of the most captivating features is the balcony, offering serene mountain views – a perfect backdrop for morning coffees or evening relaxation.
+---
+title: "Comfortable Small Apartment."
+description: "Comfortable Small Apartment in Sarandë stands out as a prime choice for travelers seeking both convenience and comfort."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636376.jpg?k=1a6b8544d19b59025c70b8d91d4b660eb7f87b9a92b13c95b8ae11bc0709037f&o=&hp=1"
+language: en
+slug: comfortable-small-apartment
+address: "Rruga Themistokli Bahima 37, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87288991
+  lng: 19.99613595
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 9
+ratings:
+  overall: 9.7
+  location: 8.9
+  cleanliness: 10
+  facilities: 10
+  value: 9.7
+  comfort: 10
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636376.jpg?k=1a6b8544d19b59025c70b8d91d4b660eb7f87b9a92b13c95b8ae11bc0709037f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636385.jpg?k=88f01f1a394acba7b47b27a43f4236dce385865902391f95a919ab67517cc90e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636407.jpg?k=2c038ec7237cd8d4fbd635af6f2c81c80ae61d4942cf67cd438868d98ec9805f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636403.jpg?k=55353287ec527ba3d84a1a19cf0004e70055f5f616d696f6605776091de85c64&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636390.jpg?k=03d0bf5073e7f41348dff990b927715ad23369df3b54b568b75c08b979cabecf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480607719.jpg?k=7bd48ebaa7a3e2e51b1b2502df78c11fb9e3a12718fd51fd65eea3b79c86f868&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482899632.jpg?k=bcf3cadaf3cc3791912c6564d6484ac00f9384bf86a9e18871a2cb999fc67ad1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636415.jpg?k=36535cb21b4934349d4f88bfb3c60afc01f161a8ec50e2376ec79c8f8b5f964a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482899745.jpg?k=d0aa5a772c750f301795f767e7c56eaa7920f33ec2083231a430099ef0948158&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Taverna Rustemi 50 m"
+  - "Kozi Bistro 100 m"
+nearbyBeaches:
+  - "Sarande Main Beach 250 m"
+  - "Saranda City Beach 1.1 km"
+  - "Saranda Bay Beach 1.3 km"
+  - "La Petite Beach 1.6 km"
+  - "Maestral Beach 1.8 km"
+whatsNearby:
+  - "Parc National de Butrint 2.9 km"
+  - "Butrint National Park 3.5 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Paula"
+    country: "Portugal"
+    text: "“Fica em sarande perto da praia e um pouco longe do centro. Mas o apartamento é agradável e tem tudo o que é preciso adorámos”"
+  - name: "Zuzia"
+    country: "Poland"
+    text: "“Lokalizacja w porządku, spokojna okolica, trochę na uboczu, ale ok. 15min do publicznej plaży i dużo bliżej plaże prywatne. Świetne wyposażenie, kuchnia, TV, łazienka. Przywitała nas Pani domowymi wypiekami, wodą i serem, co było przemiłym...”"
+  - name: "Davor"
+    country: "Bosnia and Herzegovina"
+    text: "“Vrlo prijatna i ugodna vlasnica, susretljiva i uvjek na raspolaganju. Docekani smo sa nekoliko ustipaka i komada odlicnog sira i zdjelom divnih domacih smokava ubranih netom prije sluzenja. Smjestajna jedinica sa svim pratecim sadrzajima izuzetno...”"
+bookingURL: "https://www.booking.com/hotel/al/comfortable-small-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+This cozy retreat is not just about its prime location; it comes fully equipped to meet the needs of modern travelers. Guests will find themselves in a well-appointed space featuring one bedroom, a bathroom complete with essential linens and towels, and a living area dominated by a flat-screen TV for entertainment. The fully equipped kitchen allows for the preparation of home-cooked meals, adding a touch of home-away-from-home comfort. Perhaps one of the most captivating features is the balcony, offering serene mountain views – a perfect backdrop for morning coffees or evening relaxation.
 
 Adding to the convenience, Comfortable Small Apartment provides complimentary WiFi and on-site parking, ensuring that guests' stay is as hassle-free as possible. The added benefit of a private entrance enhances the sense of privacy and exclusivity during the stay.
 

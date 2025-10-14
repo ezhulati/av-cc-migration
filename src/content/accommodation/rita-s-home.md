@@ -1,4 +1,88 @@
----\ntitle: "Rita's Home"\ndescription: "Rita's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401876993.jpg?k=70155fc1de5383397c41b26500d0b01cb199856c5bba546a248a3f8c2f809c6b&o=&hp=1"\nlanguage: en\nslug: rita-s-home\naddress: "Rruga Lidhja e Prizrenit, 1019 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3174449\n  lng: 19.8180943\nprice: "US$32"\npriceFrom: 32\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 43\nratings:\n  overall: 8.9\n  location: 9.5\n  cleanliness: 8.6\n  facilities: 7.6\n  value: 9.3\n  comfort: 8.7\n  staff: 9.5\n  wifi: 9.4\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401876993.jpg?k=70155fc1de5383397c41b26500d0b01cb199856c5bba546a248a3f8c2f809c6b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877050.jpg?k=30545b95fb4deac91f172d7f97111f3c3f1848a2082336cde272fbb46e73c47e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877037.jpg?k=439416437bb1beea0feb02dbf333127e06405e119f59ad88b3f6e148eac41339&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877053.jpg?k=f050ea252fd93954fee49f833f6a258bd67c636695554211df9eef24ce3dd3b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877056.jpg?k=c8ddc5f886ac3827b3c8c6525256b48be293d62a6f29bd69cdd7e9b0c0b7581e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877068.jpg?k=93ff544fa84a91504317b6b35010e0e5cbbf5b0c65b940c4a82ce2c15416a2c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877075.jpg?k=4b843a4908146ff176abc168ae16f259212988a7e03fb9e42c49b7264cd404ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877043.jpg?k=61f3e2644347ef9f3698a149f8a0a0c27b075a641ec608ed82e28d6bac46dec1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877058.jpg?k=cc458f308fef6f082c7ddcebba84ff0bd1d769c493c714128198606264dc0ce7&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1,000 m"\n  - "House of Leaves 1 km"\n  - "Skanderbeg Square 1.2 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "Tanners' Bridge 1.2 km"\n  - "National Museum of History Albania 1.3 km"\n  - "Bunk'Art 1 Museum 5 km"\nnearbyRestaurants:\n  - "Urban Roots 10 m"\n  - "4 PM 50 m"\nwhatsNearby:\n  - "Shesh Rekreativ 250 m"\n  - "Former Residence of Enver Hoxha 400 m"\n  - "Parku I Madh I Tiranës (Grand Park) 400 m"\n  - "Sheshi Rekreativ tek Arena Kombëtare 600 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 650 m"\n  - "Sheshi Rekreativ Piramida 700 m"\n  - "Rinia Park 800 m"\n  - "Grand Park of Tirana 850 m"\n  - "Shesh Rekreativ 900 m"\n  - "Parku Rinia 900 m"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Luca"\n    country: "Germany"\n    text: "“Very central good to explore Tirana by foot. Also Rita was very friendly and helped us to get to the right bus. Would have liked to stay longer.”"\n  - name: "Shihpo"\n    country: "France"\n    text: "“Rita is a friendly host, very easy to reach by WhatsApp and she feels very close like a mother.”"\n  - name: "Lucyna"\n    country: "Poland"\n    text: "“Everything fantastic; a great, caring host who makes you feel welcome; the place is clean and has a lot of space;”"\nbookingURL: "https://www.booking.com/hotel/al/ritas-home.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nConstructed in 1970, Rita's Home has been thoughtfully designed to offer guests a serene retreat amidst the bustling city life. The apartment boasts a spacious layout that includes a bedroom, a living room with a flat-screen TV, an equipped kitchenette complete with an oven and a fridge, and a bathroom featuring a bidet. The addition of a balcony provides tranquil street views, allowing guests to soak in the local atmosphere from the comfort of their accommodation.
+---
+title: "Rita's Home"
+description: "Rita's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401876993.jpg?k=70155fc1de5383397c41b26500d0b01cb199856c5bba546a248a3f8c2f809c6b&o=&hp=1"
+language: en
+slug: rita-s-home
+address: "Rruga Lidhja e Prizrenit, 1019 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3174449
+  lng: 19.8180943
+price: "US$32"
+priceFrom: 32
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 43
+ratings:
+  overall: 8.9
+  location: 9.5
+  cleanliness: 8.6
+  facilities: 7.6
+  value: 9.3
+  comfort: 8.7
+  staff: 9.5
+  wifi: 9.4
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401876993.jpg?k=70155fc1de5383397c41b26500d0b01cb199856c5bba546a248a3f8c2f809c6b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877050.jpg?k=30545b95fb4deac91f172d7f97111f3c3f1848a2082336cde272fbb46e73c47e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877037.jpg?k=439416437bb1beea0feb02dbf333127e06405e119f59ad88b3f6e148eac41339&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877053.jpg?k=f050ea252fd93954fee49f833f6a258bd67c636695554211df9eef24ce3dd3b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877056.jpg?k=c8ddc5f886ac3827b3c8c6525256b48be293d62a6f29bd69cdd7e9b0c0b7581e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877068.jpg?k=93ff544fa84a91504317b6b35010e0e5cbbf5b0c65b940c4a82ce2c15416a2c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877075.jpg?k=4b843a4908146ff176abc168ae16f259212988a7e03fb9e42c49b7264cd404ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877043.jpg?k=61f3e2644347ef9f3698a149f8a0a0c27b075a641ec608ed82e28d6bac46dec1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401877058.jpg?k=cc458f308fef6f082c7ddcebba84ff0bd1d769c493c714128198606264dc0ce7&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1,000 m"
+  - "House of Leaves 1 km"
+  - "Skanderbeg Square 1.2 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "Tanners' Bridge 1.2 km"
+  - "National Museum of History Albania 1.3 km"
+  - "Bunk'Art 1 Museum 5 km"
+nearbyRestaurants:
+  - "Urban Roots 10 m"
+  - "4 PM 50 m"
+whatsNearby:
+  - "Shesh Rekreativ 250 m"
+  - "Former Residence of Enver Hoxha 400 m"
+  - "Parku I Madh I Tiranës (Grand Park) 400 m"
+  - "Sheshi Rekreativ tek Arena Kombëtare 600 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 650 m"
+  - "Sheshi Rekreativ Piramida 700 m"
+  - "Rinia Park 800 m"
+  - "Grand Park of Tirana 850 m"
+  - "Shesh Rekreativ 900 m"
+  - "Parku Rinia 900 m"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Luca"
+    country: "Germany"
+    text: "“Very central good to explore Tirana by foot. Also Rita was very friendly and helped us to get to the right bus. Would have liked to stay longer.”"
+  - name: "Shihpo"
+    country: "France"
+    text: "“Rita is a friendly host, very easy to reach by WhatsApp and she feels very close like a mother.”"
+  - name: "Lucyna"
+    country: "Poland"
+    text: "“Everything fantastic; a great, caring host who makes you feel welcome; the place is clean and has a lot of space;”"
+bookingURL: "https://www.booking.com/hotel/al/ritas-home.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Constructed in 1970, Rita's Home has been thoughtfully designed to offer guests a serene retreat amidst the bustling city life. The apartment boasts a spacious layout that includes a bedroom, a living room with a flat-screen TV, an equipped kitchenette complete with an oven and a fridge, and a bathroom featuring a bidet. The addition of a balcony provides tranquil street views, allowing guests to soak in the local atmosphere from the comfort of their accommodation.
 
 One of the standout features of Rita's Home is its commitment to privacy and convenience, highlighted by the provision of a private entrance for guests. This ensures a personalized and uninterrupted stay, catering to those who value their solitude and peace.
 

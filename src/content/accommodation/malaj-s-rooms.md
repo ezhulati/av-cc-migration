@@ -1,4 +1,84 @@
----\ntitle: "Malaj's Rooms"\ndescription: "Malaj's Rooms emerges as a serene oasis in the heart of Sarandë, merely steps away from the pristine La Petite Beach and a stone's throw from the vibrant Maestral Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523575559.jpg?k=b262da3fe9fac6f8130c34bb243ac80e0568a0b6ddf4b06c835b1aa328489b97&o=&hp=1"\nlanguage: en\nslug: malaj-s-rooms\naddress: "9701 Rruga Skënderbeu, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.86940382\n  lng: 20.01752154\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 19\nratings:\n  overall: 9.5\n  location: 8.8\n  cleanliness: 9.7\n  facilities: 9.3\n  value: 9.7\n  comfort: 9.3\n  staff: 9.9\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523575559.jpg?k=b262da3fe9fac6f8130c34bb243ac80e0568a0b6ddf4b06c835b1aa328489b97&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686746.jpg?k=189a3cc6e5bca74911d29e4d13655fe6eef7ece14a9e34fcd45c3344e987ffd8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686756.jpg?k=4f592504ad6dd136a4cad81aa4de6119970c3f086d09a09686e3c4a381fe7fa5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686763.jpg?k=3f774b18828b5f308efc8e79f59c3e6bee39c83ad80d67a3d36c5905c08caaea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523573384.jpg?k=8f9f3a60cfc30becc4f768e94409388a62c238e253b99f57848002b934fead26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478787096.jpg?k=fafb361c6f3ceac7c90473b6e89efd95fd8ae46c2e13690d91c2a156ce83b139&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686739.jpg?k=4e32298bafaf5e32f38616d37e404197efe5426ad26db2f2e494bd296c2c4a0d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478787095.jpg?k=9926becd63b2465432eddff702d0489a9fde276cf665a1b4c649801a9e794703&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686751.jpg?k=c592ccc28b2b78677b6ae44566e301c9e9e5ae3a4b98f0198a738bd90fe8f2b2&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Kafe Bar Joana 150 m"\n  - "Trumëza 250 m"\nnearbyBeaches:\n  - "La Petite Beach 300 m"\n  - "Maestral Beach 300 m"\n  - "Saranda City Beach 400 m"\n  - "VIP Beach 1.2 km"\n  - "Santa Quaranta Beach 1.2 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.3 km"\n  - "Butrint National Park 2.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\nreviews:\n  - name: "Sarah"\n    country: "Germany"\n    text: "“The owner is really helpful, attentive, sweet and friendly. The balcony and the garden are really nice. The Apartment is very clean.”"\n  - name: "Kathinka"\n    country: "Belgium"\n    text: "“Spacious, super clean apartment with comfortable beds, Wi-Fi and parking in front of the house. The hosts were super lovely and very helpful (picked us up at the petrol station nearby to find the way to the apartment and brought some cold...”"\n  - name: "Zuzana"\n    country: "Slovakia"\n    text: "“Domáci veľmi príjemní , snažili sa vo všetkom vyjsť v ústrety. Deti mali črevné ťažkosti , zabezpečili aj odvoz do nemocnice a komunikáciu s ošetrujúcim personálom. Boli sme veľmi spokojní. Ďakujeme!”"\nbookingURL: "https://www.booking.com/hotel/al/malajs-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to an array of amenities designed to enhance their stay. Each room, a haven of comfort and style, boasts air conditioning, ensuring a restful retreat from the Mediterranean warmth. Complimentary private parking and WiFi are provided, adding to the seamless experience.
+---
+title: "Malaj's Rooms"
+description: "Malaj's Rooms emerges as a serene oasis in the heart of Sarandë, merely steps away from the pristine La Petite Beach and a stone's throw from the vibrant Maestral Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523575559.jpg?k=b262da3fe9fac6f8130c34bb243ac80e0568a0b6ddf4b06c835b1aa328489b97&o=&hp=1"
+language: en
+slug: malaj-s-rooms
+address: "9701 Rruga Skënderbeu, Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.86940382
+  lng: 20.01752154
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 19
+ratings:
+  overall: 9.5
+  location: 8.8
+  cleanliness: 9.7
+  facilities: 9.3
+  value: 9.7
+  comfort: 9.3
+  staff: 9.9
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523575559.jpg?k=b262da3fe9fac6f8130c34bb243ac80e0568a0b6ddf4b06c835b1aa328489b97&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686746.jpg?k=189a3cc6e5bca74911d29e4d13655fe6eef7ece14a9e34fcd45c3344e987ffd8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686756.jpg?k=4f592504ad6dd136a4cad81aa4de6119970c3f086d09a09686e3c4a381fe7fa5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686763.jpg?k=3f774b18828b5f308efc8e79f59c3e6bee39c83ad80d67a3d36c5905c08caaea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523573384.jpg?k=8f9f3a60cfc30becc4f768e94409388a62c238e253b99f57848002b934fead26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478787096.jpg?k=fafb361c6f3ceac7c90473b6e89efd95fd8ae46c2e13690d91c2a156ce83b139&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686739.jpg?k=4e32298bafaf5e32f38616d37e404197efe5426ad26db2f2e494bd296c2c4a0d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478787095.jpg?k=9926becd63b2465432eddff702d0489a9fde276cf665a1b4c649801a9e794703&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478686751.jpg?k=c592ccc28b2b78677b6ae44566e301c9e9e5ae3a4b98f0198a738bd90fe8f2b2&o=&hp=1"
+amenities:
+  - "Airport shuttle (free)"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Kafe Bar Joana 150 m"
+  - "Trumëza 250 m"
+nearbyBeaches:
+  - "La Petite Beach 300 m"
+  - "Maestral Beach 300 m"
+  - "Saranda City Beach 400 m"
+  - "VIP Beach 1.2 km"
+  - "Santa Quaranta Beach 1.2 km"
+whatsNearby:
+  - "Parc National de Butrint 1.3 km"
+  - "Butrint National Park 2.2 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+reviews:
+  - name: "Sarah"
+    country: "Germany"
+    text: "“The owner is really helpful, attentive, sweet and friendly. The balcony and the garden are really nice. The Apartment is very clean.”"
+  - name: "Kathinka"
+    country: "Belgium"
+    text: "“Spacious, super clean apartment with comfortable beds, Wi-Fi and parking in front of the house. The hosts were super lovely and very helpful (picked us up at the petrol station nearby to find the way to the apartment and brought some cold...”"
+  - name: "Zuzana"
+    country: "Slovakia"
+    text: "“Domáci veľmi príjemní , snažili sa vo všetkom vyjsť v ústrety. Deti mali črevné ťažkosti , zabezpečili aj odvoz do nemocnice a komunikáciu s ošetrujúcim personálom. Boli sme veľmi spokojní. Ďakujeme!”"
+bookingURL: "https://www.booking.com/hotel/al/malajs-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to an array of amenities designed to enhance their stay. Each room, a haven of comfort and style, boasts air conditioning, ensuring a restful retreat from the Mediterranean warmth. Complimentary private parking and WiFi are provided, adding to the seamless experience.
 
 The accommodations at Malaj's Rooms are thoughtfully appointed, featuring terraces that present breathtaking sea views, perfect for savoring your morning coffee or unwinding in the evening. The interiors are equipped with cable flat-screen TVs, dining areas, and well-fitted kitchens, allowing guests the flexibility to dine in comfort. Private bathrooms come complete with bidets, plush bathrobes, and hair dryers, adding a touch of luxury to the daily routine. Additionally, each unit offers a balcony with an outdoor dining area, overlooking the lush garden, ideal for those moments of quiet contemplation or intimate meals under the stars. Storage is ample, with wardrobes provided in every unit, ensuring guests can easily settle in and make themselves at home.
 

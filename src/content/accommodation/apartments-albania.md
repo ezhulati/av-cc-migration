@@ -1,4 +1,85 @@
----\ntitle: "Apartments Albania"\ndescription: "Apartments Albania emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384184.jpg?k=811946d42ae2e0f3a2650d30ffe7070ab52addc4227f0698e52ac88813d41839&o=&hp=1"\nlanguage: en\nslug: apartments-albania\naddress: "Rruga Karl Gega Saranda Mieszkanie, piętro 2, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.86789464\n  lng: 20.0194064\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 8.1\nratingWords: "Very Good"\nnumberOfReviews: 3\nratings:\n  overall: 8.1\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 8.8\n  value: 7.5\n  comfort: 10\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384184.jpg?k=811946d42ae2e0f3a2650d30ffe7070ab52addc4227f0698e52ac88813d41839&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650198.jpg?k=985b2dd327f7927f386b891e544e9953cd1d7c76261780bd479c86f39cde1f65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650290.jpg?k=1a18a4920dd2afd5f4397174f88a9f17aa5a2a9323acb718b4d7f98faceec7be&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193781085.jpg?k=e03a5f64ba797e3761a7f359627058469d1465189e37ace9209e752c7755f7cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193387922.jpg?k=74b6f874790b0a8c6d3e5b5d28907745d03f3719506119ef24c950351d75529a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271555864.jpg?k=44cf0d8eadd04a52544ba94cd703bf5fdef810d299ec9cc7b83914801bdc99e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650253.jpg?k=26ea58f0d3a147998ae12c6cd8e9a72a7c1716dd564177019b7b2177d9dca0fd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650127.jpg?k=6925a2697d8853673b663a584dfe2fbd59397c58c77b558efac9e399a784b095&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384220.jpg?k=51fe2d4392b95f4080232c87a74a6b03d0da3980554d90ab0f1fee9a670d4b08&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650061.jpg?k=eead463854c7953cf8afe2438a8783b2247372de2cda79fbd1187418dd59fd69&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384226.jpg?k=1471021c825e13421100654ba3a2a2f31d549d3605b6dee0d1e10060bf578f75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384222.jpg?k=a3301cecdf0fd4267ed785916be7d2fac250861a5bd91c13c8b4bce0dbbfdab4&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nnearbyRestaurants:\n  - "Ostria 150 m"\n  - "Fast Food Mario 250 m"\nnearbyBeaches:\n  - "Maestral Beach 300 m"\n  - "La Petite Beach 400 m"\n  - "Saranda City Beach 650 m"\n  - "VIP Beach 1,000 m"\n  - "Santa Quaranta Beach 1 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.1 km"\n  - "Butrint National Park 2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 11 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Danijela"\n    country: "Serbia"\n    text: "“The facility was excellent. Spacious, huge terrace, sunbeds, parasol. Everything is excellent.”"\nbookingURL: "https://www.booking.com/hotel/al/apartment-albania.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe highlight of Apartments Albania is its well-appointed accommodation, boasting a bedroom, bathroom, and a terrace offering mesmerizing sea views. The apartment is equipped with modern amenities including a flat-screen TV with streaming services, a fully equipped kitchenette, and even a patio that serves as a quaint outdoor dining area. Designed with the guest's health in mind, the apartment is both allergy-free and non-smoking, ensuring a comfortable environment for all.
+---
+title: "Apartments Albania"
+description: "Apartments Albania emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384184.jpg?k=811946d42ae2e0f3a2650d30ffe7070ab52addc4227f0698e52ac88813d41839&o=&hp=1"
+language: en
+slug: apartments-albania
+address: "Rruga Karl Gega Saranda Mieszkanie, piętro 2, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.86789464
+  lng: 20.0194064
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 8.1
+ratingWords: "Very Good"
+numberOfReviews: 3
+ratings:
+  overall: 8.1
+  location: 7.5
+  cleanliness: 7.5
+  facilities: 8.8
+  value: 7.5
+  comfort: 10
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384184.jpg?k=811946d42ae2e0f3a2650d30ffe7070ab52addc4227f0698e52ac88813d41839&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650198.jpg?k=985b2dd327f7927f386b891e544e9953cd1d7c76261780bd479c86f39cde1f65&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650290.jpg?k=1a18a4920dd2afd5f4397174f88a9f17aa5a2a9323acb718b4d7f98faceec7be&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193781085.jpg?k=e03a5f64ba797e3761a7f359627058469d1465189e37ace9209e752c7755f7cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193387922.jpg?k=74b6f874790b0a8c6d3e5b5d28907745d03f3719506119ef24c950351d75529a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271555864.jpg?k=44cf0d8eadd04a52544ba94cd703bf5fdef810d299ec9cc7b83914801bdc99e1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650253.jpg?k=26ea58f0d3a147998ae12c6cd8e9a72a7c1716dd564177019b7b2177d9dca0fd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650127.jpg?k=6925a2697d8853673b663a584dfe2fbd59397c58c77b558efac9e399a784b095&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384220.jpg?k=51fe2d4392b95f4080232c87a74a6b03d0da3980554d90ab0f1fee9a670d4b08&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312650061.jpg?k=eead463854c7953cf8afe2438a8783b2247372de2cda79fbd1187418dd59fd69&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384226.jpg?k=1471021c825e13421100654ba3a2a2f31d549d3605b6dee0d1e10060bf578f75&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384222.jpg?k=a3301cecdf0fd4267ed785916be7d2fac250861a5bd91c13c8b4bce0dbbfdab4&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+nearbyRestaurants:
+  - "Ostria 150 m"
+  - "Fast Food Mario 250 m"
+nearbyBeaches:
+  - "Maestral Beach 300 m"
+  - "La Petite Beach 400 m"
+  - "Saranda City Beach 650 m"
+  - "VIP Beach 1,000 m"
+  - "Santa Quaranta Beach 1 km"
+whatsNearby:
+  - "Parc National de Butrint 1.1 km"
+  - "Butrint National Park 2 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 11 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Danijela"
+    country: "Serbia"
+    text: "“The facility was excellent. Spacious, huge terrace, sunbeds, parasol. Everything is excellent.”"
+bookingURL: "https://www.booking.com/hotel/al/apartment-albania.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The highlight of Apartments Albania is its well-appointed accommodation, boasting a bedroom, bathroom, and a terrace offering mesmerizing sea views. The apartment is equipped with modern amenities including a flat-screen TV with streaming services, a fully equipped kitchenette, and even a patio that serves as a quaint outdoor dining area. Designed with the guest's health in mind, the apartment is both allergy-free and non-smoking, ensuring a comfortable environment for all.
 
 For those planning to explore the vibrant surroundings, the property provides the convenience of packed lunches, perfect for day trips. Additionally, guests looking to immerse themselves in the local culture and natural beauty can take advantage of the free shuttle service, room service, and tour organizing services offered.
 

@@ -1,5 +1,82 @@
----\ntitle: "Villa Esmi Durres"\ndescription: "Villa Esmi Durres emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic beauty in Durres."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514978469.jpg?k=eaa0c97251a4d1464fe6d3231d0de81d5223969b73d40abcceeffce45f93b3a7&o=&hp=1"\nlanguage: en\nslug: villa-esmi-durres\naddress: "Shkallnur, Kodra e Kuajve, 2000 Kryemëdhej, Albania"\ncity: "Kryemëdhej"\nlocation: "Kryemëdhej"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.27577618\n  lng: 19.5242982\nprice: "US$969"\npriceFrom: 969\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 5\nratings:\n  overall: 9\n  location: 9\n  cleanliness: 9\n  facilities: 9\n  value: 8.5\n  comfort: 9.5\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514978469.jpg?k=eaa0c97251a4d1464fe6d3231d0de81d5223969b73d40abcceeffce45f93b3a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009897.jpg?k=1690eac506aed0c582be370e4b534bd2067f2e0882cbcec6a9afe2aca9bc4a8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009932.jpg?k=a9a73410438226101c64f389e07ad4658faf113ce471ac4ef64b6e5e584ccf09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515448240.jpg?k=0989750ec6c7e74c415613c9fb9d506d269c3ae450afd841871108afc426f517&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515450315.jpg?k=1077f66037946a392b00c1d07febd615f703c226d505bdbbacbb838cb80f1908&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508008120.jpg?k=aaec0613c6da090c2ec7dbd5411a894a38d3acad85d987f36f5880c402fc3c15&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009915.jpg?k=5c5446fde3584056a71f9cf9f8bcc530bf1bc7caeabd024548ab99ebfc2b3ce1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009931.jpg?k=771c1ac4accf544434495c6f71093fbdcc873aac78f10b0a9883a7debce9c0f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515449639.jpg?k=299931060bbc2b4807f0d17036aa2ac5177b33acdcb0744303a4cdafaa6168e5&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Villa with Private Pool"\nnearbyRestaurants:\n  - "At Çiftliği 100 m"\n  - "Hotel Espana 650 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 700 m"\n  - "Golem Beach 1.2 km"\n  - "Durres Beach 1.7 km"\n  - "Mali I Robit Beach 3.1 km"\n  - "Qerret Beach 5 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "1. Maj 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 21 km"\npaymentMethods:\n  - "Diners Club"\nreviews:\n  - name: "Tim"\n    country: "Germany"\n    text: "“War wirklich Top.
-Klasse ausgestattet und alles was man für einen luxuriösen Urlaub braucht. Besonders war der Super Service und Kontakt zu Micaela. Sie war für uns jeder Zeit ansprechbar und hat alle unsere Wünsche sofort erfüllt.”"\nbookingURL: "https://www.booking.com/hotel/al/endless-summer-durres-durazzo1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nThe property is well-appointed with a range of amenities designed to enhance the stay of its guests. Among these, the private pool and garden stand out, offering a serene retreat for relaxation. The inclusion of barbecue facilities alongside free WiFi and private parking adds to the convenience factor, ensuring a hassle-free holiday experience.
+---
+title: "Villa Esmi Durres"
+description: "Villa Esmi Durres emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic beauty in Durres."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514978469.jpg?k=eaa0c97251a4d1464fe6d3231d0de81d5223969b73d40abcceeffce45f93b3a7&o=&hp=1"
+language: en
+slug: villa-esmi-durres
+address: "Shkallnur, Kodra e Kuajve, 2000 Kryemëdhej, Albania"
+city: "Kryemëdhej"
+location: "Kryemëdhej"
+accommodationType: "villa"
+coordinates:
+  lat: 41.27577618
+  lng: 19.5242982
+price: "US$969"
+priceFrom: 969
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 5
+ratings:
+  overall: 9
+  location: 9
+  cleanliness: 9
+  facilities: 9
+  value: 8.5
+  comfort: 9.5
+  staff: 9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514978469.jpg?k=eaa0c97251a4d1464fe6d3231d0de81d5223969b73d40abcceeffce45f93b3a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009897.jpg?k=1690eac506aed0c582be370e4b534bd2067f2e0882cbcec6a9afe2aca9bc4a8d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009932.jpg?k=a9a73410438226101c64f389e07ad4658faf113ce471ac4ef64b6e5e584ccf09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515448240.jpg?k=0989750ec6c7e74c415613c9fb9d506d269c3ae450afd841871108afc426f517&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515450315.jpg?k=1077f66037946a392b00c1d07febd615f703c226d505bdbbacbb838cb80f1908&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508008120.jpg?k=aaec0613c6da090c2ec7dbd5411a894a38d3acad85d987f36f5880c402fc3c15&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009915.jpg?k=5c5446fde3584056a71f9cf9f8bcc530bf1bc7caeabd024548ab99ebfc2b3ce1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508009931.jpg?k=771c1ac4accf544434495c6f71093fbdcc873aac78f10b0a9883a7debce9c0f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515449639.jpg?k=299931060bbc2b4807f0d17036aa2ac5177b33acdcb0744303a4cdafaa6168e5&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Villa with Private Pool"
+nearbyRestaurants:
+  - "At Çiftliği 100 m"
+  - "Hotel Espana 650 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 700 m"
+  - "Golem Beach 1.2 km"
+  - "Durres Beach 1.7 km"
+  - "Mali I Robit Beach 3.1 km"
+  - "Qerret Beach 5 km"
+whatsNearby:
+  - "Bekimi 7 km"
+  - "Wine Dhe Pooh 8 km"
+  - "Durres Amphiteatre 8 km"
+  - "Yje Dhe Hena 8 km"
+  - "Sheshi Demokracia 8 km"
+  - "1. Maj 8 km"
+  - "Sotir Noka 8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 21 km"
+paymentMethods:
+  - "Diners Club"
+reviews:
+  - name: "Tim"
+    country: "Germany"
+    text: "“War wirklich Top.
+Klasse ausgestattet und alles was man für einen luxuriösen Urlaub braucht. Besonders war der Super Service und Kontakt zu Micaela. Sie war für uns jeder Zeit ansprechbar und hat alle unsere Wünsche sofort erfüllt.”"
+bookingURL: "https://www.booking.com/hotel/al/endless-summer-durres-durazzo1.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+The property is well-appointed with a range of amenities designed to enhance the stay of its guests. Among these, the private pool and garden stand out, offering a serene retreat for relaxation. The inclusion of barbecue facilities alongside free WiFi and private parking adds to the convenience factor, ensuring a hassle-free holiday experience.
 
 Accommodation at Villa Esmi Durres is nothing short of luxurious, with a spacious layout that includes 7 bedrooms and 5 bathrooms, accommodating a variety of group sizes. The villa is equipped with modern comforts such as a flat-screen TV with streaming services, air conditioning, and a fully equipped kitchen. The terrace, offering stunning sea views, and a hot tub, further elevate the living experience, providing perfect spots for unwinding.
 

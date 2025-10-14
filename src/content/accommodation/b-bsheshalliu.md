@@ -1,4 +1,63 @@
----\ntitle: "B&BSheshalliu"\ndescription: "B&BSheshalliu emerges as a charming retreat in the heart of Berat, offering guests a serene stay with the convenience of modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452481751.jpg?k=e9c6c85b93a8cd03e357595a6cc6dd43b817b878e42dcb8cf726b9f04fd6c00c&o=&hp=1"\nlanguage: en\nslug: b-bsheshalliu\naddress: "Rruga Dr. Lluka, 5000 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70655626\n  lng: 19.95231718\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 215\nratings:\n  overall: 9.7\n  location: 9.7\n  cleanliness: 9.7\n  facilities: 9.5\n  value: 9.8\n  comfort: 9.6\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452481751.jpg?k=e9c6c85b93a8cd03e357595a6cc6dd43b817b878e42dcb8cf726b9f04fd6c00c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387675991.jpg?k=005178f1b1e16156ece99d6f866171c3d3a8b60635739cf1504ce7a53084afd9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294424875.jpg?k=3d3c0794675609316f064e8f9a3a8dc77a0600306d505c43bf38e13d14b97f48&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294424913.jpg?k=bf9aef597e07ae95130a6eee57da3c7bfd780c5e228a8cd895e6356320324269&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294424952.jpg?k=f62d25b347d90212aefd58608d07dbe46716fcf6411aba10d48861e91a81803a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294425120.jpg?k=36bae471401a34ead42db5628f8e2e2b06bb5112bdf0cf3fe24922bf40cb32e6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Good free WiFi (37 Mbps)"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room"\n  - "Triple Room with Private Bathroom"\nreviews:\n  - name: "Maximilian"\n    country: "Germany"\n    text: "“Very cosy and clean with nice views. Friendly and helpful owners, great breakfast with freshly made pastries and home-made jam.”"\n  - name: "Ruben"\n    country: "Netherlands"\n    text: "“The owners were super friendly and the location and view are great!”"\n  - name: "Dorota"\n    country: "Poland"\n    text: "“Perfectly located - in the centre but quiet. Nice and very helpful host. Great homemade breakfast. Clean and pleasant room with comfortable beds. I wish I could stay longer. Highly recommended”"\nbookingURL: "https://www.booking.com/hotel/al/b-amp-bsheshalliu.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nGuests at B&BSheshalliu are greeted with thoughtfully appointed units, each featuring a cozy seating area and a television equipped with cable channels for entertainment. The private bathrooms add a touch of luxury with slippers, a bidet, and a refreshing shower, complemented by a dressing room for added privacy and convenience. To ensure a comfortable stay, each unit is also supplied with crisp bed linen and soft towels.
+---
+title: "B&BSheshalliu"
+description: "B&BSheshalliu emerges as a charming retreat in the heart of Berat, offering guests a serene stay with the convenience of modern amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452481751.jpg?k=e9c6c85b93a8cd03e357595a6cc6dd43b817b878e42dcb8cf726b9f04fd6c00c&o=&hp=1"
+language: en
+slug: b-bsheshalliu
+address: "Rruga Dr. Lluka, 5000 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.70655626
+  lng: 19.95231718
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 215
+ratings:
+  overall: 9.7
+  location: 9.7
+  cleanliness: 9.7
+  facilities: 9.5
+  value: 9.8
+  comfort: 9.6
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452481751.jpg?k=e9c6c85b93a8cd03e357595a6cc6dd43b817b878e42dcb8cf726b9f04fd6c00c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387675991.jpg?k=005178f1b1e16156ece99d6f866171c3d3a8b60635739cf1504ce7a53084afd9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294424875.jpg?k=3d3c0794675609316f064e8f9a3a8dc77a0600306d505c43bf38e13d14b97f48&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294424913.jpg?k=bf9aef597e07ae95130a6eee57da3c7bfd780c5e228a8cd895e6356320324269&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294424952.jpg?k=f62d25b347d90212aefd58608d07dbe46716fcf6411aba10d48861e91a81803a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294425120.jpg?k=36bae471401a34ead42db5628f8e2e2b06bb5112bdf0cf3fe24922bf40cb32e6&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Good free WiFi (37 Mbps)"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Double Room"
+  - "Triple Room with Private Bathroom"
+reviews:
+  - name: "Maximilian"
+    country: "Germany"
+    text: "“Very cosy and clean with nice views. Friendly and helpful owners, great breakfast with freshly made pastries and home-made jam.”"
+  - name: "Ruben"
+    country: "Netherlands"
+    text: "“The owners were super friendly and the location and view are great!”"
+  - name: "Dorota"
+    country: "Poland"
+    text: "“Perfectly located - in the centre but quiet. Nice and very helpful host. Great homemade breakfast. Clean and pleasant room with comfortable beds. I wish I could stay longer. Highly recommended”"
+bookingURL: "https://www.booking.com/hotel/al/b-amp-bsheshalliu.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Guests at B&BSheshalliu are greeted with thoughtfully appointed units, each featuring a cozy seating area and a television equipped with cable channels for entertainment. The private bathrooms add a touch of luxury with slippers, a bidet, and a refreshing shower, complemented by a dressing room for added privacy and convenience. To ensure a comfortable stay, each unit is also supplied with crisp bed linen and soft towels.
 
 Mornings at B&BSheshalliu start on a high note with a diverse breakfast menu that caters to various tastes. Whether one prefers a hearty Full English/Irish breakfast or delights in Italian specialties and fresh pastries, the bed and breakfast promises a culinary journey to kickstart the day. Additionally, the on-site coffee shop and lounge provide the perfect spots for guests to unwind and savor their favorite beverages.
 

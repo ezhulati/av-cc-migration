@@ -1,4 +1,61 @@
----\ntitle: "PALMS & SUNSET GUEST HOUSE"\ndescription: "Discover the charm of Vlorë with a stay at PALMS & SUNSET GUEST HOUSE, a prime choice for travelers seeking both comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489037614.jpg?k=471afd9083fe3d11593ae31265ef0f367ed86aefba293779cf2564b001d6dc2e&o=&hp=1"\nlanguage: en\nslug: palms-sunset-guest-house\naddress: "Rruga Kasao Petoshari, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44628253\n  lng: 19.49877249\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489037614.jpg?k=471afd9083fe3d11593ae31265ef0f367ed86aefba293779cf2564b001d6dc2e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037697.jpg?k=ca802dbf87d6e48df8deec8fc620dd55936681fea8c9a901070350a1c4174e5d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037702.jpg?k=775583a72607905d30d4419b7f9083ed5b1b92028c1bb982897646436178c189&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037713.jpg?k=bace1d5ab4045043c65199862d25f9d346797c0ecfeda9af0fec23f3781cefab&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037717.jpg?k=71a5be5b635ff1e5b427348ab35f6fbadbb0f82959e93d5d802961996938312d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyRestaurants:\n  - "Grill House J&E Restorant 300 m"\n  - "Marinero Pizzeria 400 m"\nnearbyBeaches:\n  - "Vlore Beach 350 m"\n  - "Ri Beach 1.2 km"\n  - "Vjetër Beach 1.6 km"\n  - "Beach at Government Villas 3.1 km"\n  - "Liro Beach 3.8 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.1 km"\n  - "Kuzum Baba 2.4 km"\n  - "Independence Square 2.8 km"\nbookingURL: "https://www.booking.com/hotel/al/palms-amp-sunset-guest-house.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe property doesn't just offer a place to sleep; it provides a home away from home. With two bedrooms, a fully equipped kitchen featuring a fridge and stovetop, and a cozy seating area, guests have everything they need at their fingertips. The inclusion of a flat-screen TV and a bathroom with a bidet adds a touch of luxury to the living space. Moreover, the outdoor dining area offers guests the unique opportunity to dine al fresco while soaking in the breathtaking sea views, making every meal an experience to remember.
+---
+title: "PALMS & SUNSET GUEST HOUSE"
+description: "Discover the charm of Vlorë with a stay at PALMS & SUNSET GUEST HOUSE, a prime choice for travelers seeking both comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489037614.jpg?k=471afd9083fe3d11593ae31265ef0f367ed86aefba293779cf2564b001d6dc2e&o=&hp=1"
+language: en
+slug: palms-sunset-guest-house
+address: "Rruga Kasao Petoshari, 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44628253
+  lng: 19.49877249
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489037614.jpg?k=471afd9083fe3d11593ae31265ef0f367ed86aefba293779cf2564b001d6dc2e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037697.jpg?k=ca802dbf87d6e48df8deec8fc620dd55936681fea8c9a901070350a1c4174e5d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037702.jpg?k=775583a72607905d30d4419b7f9083ed5b1b92028c1bb982897646436178c189&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037713.jpg?k=bace1d5ab4045043c65199862d25f9d346797c0ecfeda9af0fec23f3781cefab&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/489037717.jpg?k=71a5be5b635ff1e5b427348ab35f6fbadbb0f82959e93d5d802961996938312d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyRestaurants:
+  - "Grill House J&E Restorant 300 m"
+  - "Marinero Pizzeria 400 m"
+nearbyBeaches:
+  - "Vlore Beach 350 m"
+  - "Ri Beach 1.2 km"
+  - "Vjetër Beach 1.6 km"
+  - "Beach at Government Villas 3.1 km"
+  - "Liro Beach 3.8 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.1 km"
+  - "Kuzum Baba 2.4 km"
+  - "Independence Square 2.8 km"
+bookingURL: "https://www.booking.com/hotel/al/palms-amp-sunset-guest-house.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The property doesn't just offer a place to sleep; it provides a home away from home. With two bedrooms, a fully equipped kitchen featuring a fridge and stovetop, and a cozy seating area, guests have everything they need at their fingertips. The inclusion of a flat-screen TV and a bathroom with a bidet adds a touch of luxury to the living space. Moreover, the outdoor dining area offers guests the unique opportunity to dine al fresco while soaking in the breathtaking sea views, making every meal an experience to remember.
 
 Privacy and tranquility are paramount at PALMS & SUNSET GUEST HOUSE. The accommodation features a private entrance and soundproofing, ensuring a peaceful retreat from the hustle and bustle of daily life. Guests are also invited to unwind in the serene garden, a perfect spot for relaxation.
 

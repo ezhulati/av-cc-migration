@@ -1,4 +1,73 @@
----\ntitle: "Prince of Lake Hotel"\ndescription: "Prince of Lake Hotel emerges as a distinguished choice for travelers seeking a serene getaway."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497857379.jpg?k=3acef9ad581640bcb1679facb036e3f19edb8bf28949ba6b749d9703e5f423d1&o=&hp=1"\nlanguage: en\nslug: prince-of-lake-hotel\naddress: "Sh41, Zus, Albania, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "hotel"\ncoordinates:\n  lat: 42.03942797\n  lng: 19.48226202\nprice: "US$60"\npriceFrom: 60\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 377\nratings:\n  overall: 7.8\n  location: 8.5\n  cleanliness: 7.8\n  facilities: 7.7\n  value: 7.7\n  comfort: 7.8\n  staff: 7.6\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497857379.jpg?k=3acef9ad581640bcb1679facb036e3f19edb8bf28949ba6b749d9703e5f423d1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504135693.jpg?k=dd7d49e144b8e4dd30282aa37f1c064b630b29d2fa93ce258657ed591ea41f06&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374473720.jpg?k=ed0bb418684fea6c1e9e5637db726067eeacbe7104ab9eb57ee9be5100333288&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348617002.jpg?k=b2b79e85cc7847c5e705d453d4a2c6c67a5cfb42ba66f5f9fb8bbff4f2fea6ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504135746.jpg?k=b3ed49169b4c3f2211fda5bd05bf3ac2c428fed50c2785ff3e154c7af30a3d6d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504133273.jpg?k=056cf43f8d63631a08f73a6b5826b1a1f257f766247207678195ba18e532976a&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Bar"\n  - "Beachfront"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Deluxe Double Room with Castle View"\n  - "Suite with River View"\n  - "Family Room"\n  - "Triple Room with Balcony"\n  - "Deluxe Family Suite"\nnearbyRestaurants:\n  - "Prince of Lake 20 m"\n  - "Illyria 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 1.2 km"\n  - "National Park Skadar Lake 9 km"\nairports:\n  - "Podgorica Airport 39 km"\n  - "Tirana International Airport Mother Teresa 71 km"\n  - "Tivat Airport 73 km"\nbookingURL: "https://www.booking.com/hotel/al/prince-of-lake.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nStrategically located in Canaj, a mere 48 km from Podgorica, this hotel stands out for its prime positioning. 
+---
+title: "Prince of Lake Hotel"
+description: "Prince of Lake Hotel emerges as a distinguished choice for travelers seeking a serene getaway."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497857379.jpg?k=3acef9ad581640bcb1679facb036e3f19edb8bf28949ba6b749d9703e5f423d1&o=&hp=1"
+language: en
+slug: prince-of-lake-hotel
+address: "Sh41, Zus, Albania, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "hotel"
+coordinates:
+  lat: 42.03942797
+  lng: 19.48226202
+price: "US$60"
+priceFrom: 60
+starRating: 3
+rating: 7.8
+ratingWords: "Good"
+numberOfReviews: 377
+ratings:
+  overall: 7.8
+  location: 8.5
+  cleanliness: 7.8
+  facilities: 7.7
+  value: 7.7
+  comfort: 7.8
+  staff: 7.6
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497857379.jpg?k=3acef9ad581640bcb1679facb036e3f19edb8bf28949ba6b749d9703e5f423d1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504135693.jpg?k=dd7d49e144b8e4dd30282aa37f1c064b630b29d2fa93ce258657ed591ea41f06&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374473720.jpg?k=ed0bb418684fea6c1e9e5637db726067eeacbe7104ab9eb57ee9be5100333288&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348617002.jpg?k=b2b79e85cc7847c5e705d453d4a2c6c67a5cfb42ba66f5f9fb8bbff4f2fea6ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504135746.jpg?k=b3ed49169b4c3f2211fda5bd05bf3ac2c428fed50c2785ff3e154c7af30a3d6d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504133273.jpg?k=056cf43f8d63631a08f73a6b5826b1a1f257f766247207678195ba18e532976a&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Bar"
+  - "Beachfront"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Deluxe Double Room with Castle View"
+  - "Suite with River View"
+  - "Family Room"
+  - "Triple Room with Balcony"
+  - "Deluxe Family Suite"
+nearbyRestaurants:
+  - "Prince of Lake 20 m"
+  - "Illyria 50 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 1.2 km"
+  - "National Park Skadar Lake 9 km"
+airports:
+  - "Podgorica Airport 39 km"
+  - "Tirana International Airport Mother Teresa 71 km"
+  - "Tivat Airport 73 km"
+bookingURL: "https://www.booking.com/hotel/al/prince-of-lake.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Strategically located in Canaj, a mere 48 km from Podgorica, this hotel stands out for its prime positioning. 
 
 It offers easy access to the vibrant city of Bar, just 33 km away, and the historic town of Ulcinj, located 26 km from the establishment. 
 

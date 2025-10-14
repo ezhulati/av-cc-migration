@@ -1,4 +1,77 @@
----\ntitle: "MonMon Apartment"\ndescription: "MonMon Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445030.jpg?k=bc5856d4bdfe419b1586519bafcf99a5a376148fc2316c3321779b6e6a971cce&o=&hp=1"\nlanguage: en\nslug: monmon-apartment\naddress: "Rruga e Dibrës, 1007 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.34033693\n  lng: 19.82939915\nprice: "US$47"\npriceFrom: 47\nstarRating: 4\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 2\nratings:\n  overall: 8.8\n  location: 7.5\n  cleanliness: 8.8\n  facilities: 8.8\n  value: 8.8\n  comfort: 8.8\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445030.jpg?k=bc5856d4bdfe419b1586519bafcf99a5a376148fc2316c3321779b6e6a971cce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445041.jpg?k=642e31e7742444844bda276549e73eecb40309fdf723fbc1d0f29e5272d63a6a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445035.jpg?k=13539ea358e63aca72c197d5ce321cd33a0bb697e8ff1840b83477806019519a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445022.jpg?k=1c1be3493cbfae835c9b83322bca1e9a57e5bcbf09a1cdc1e631018bc38de076&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445056.jpg?k=b82b652038716e19cd97d4d39f8469807f198c3649c9d31b78955def7ba437fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445045.jpg?k=99d003d333bc26a7e53b4a61f34c4292e154172f56df2c4908b91669d4b23f9e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445048.jpg?k=c870fcda0a68557acfae0a1481aefc8ebbe4f57371f515253b9102d9f8ce20b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445036.jpg?k=f96918ef56b9bedd97e5105f326ba790f65019858166b1d88fc47b9d505caa86&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445043.jpg?k=6104907f9b964b90ef687b9fafa3514f82c27ec3eedb51d6e8d7d5940affcd18&o=&hp=1"\namenities:\n  - "Fast free WiFi (81 Mbps)"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 1.6 km"\n  - "National Gallery of Arts Tirana 1.7 km"\n  - "House of Leaves 1.9 km"\n  - "Rinia Park 2 km"\n  - "Former Residence of Enver Hoxha 2.4 km"\n  - "Bunk'Art 1 Museum 2.8 km"\n  - "Grand Park of Tirana 3.2 km"\nnearbyRestaurants:\n  - "Bon SE Sugar 50 m"\n  - "Bar Restorant Shoqeria 100 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 850 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"\n  - "Sheshi Rekreativ Allias 1 km"\n  - "Amazing Nature 1.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.4 km"\n  - "Sheshi Sulejman Pasha 1.5 km"\n  - "Tanners' Bridge 1.6 km"\n  - "National Museum of History Albania 1.6 km"\n  - "Clock Tower Tirana 1.6 km"\n  - "Sheshi Skënderbej 1.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/qera-ditore-kompleksi-arlis-farmacia-10.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nA stone's throw from significant landmarks, the apartment is conveniently positioned 2.9 km from the historical Former Residence of Enver Hoxha and a brief journey from the natural beauty of the Rock of Kavaje, 43 km away. For those interested in exploring the local culture, Tanners' Bridge is just 2.2 km from the doorstep, while the Clock Tower Tirana and Et'hem Bey Mosque are both within a 1.9 km radius.
+---
+title: "MonMon Apartment"
+description: "MonMon Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445030.jpg?k=bc5856d4bdfe419b1586519bafcf99a5a376148fc2316c3321779b6e6a971cce&o=&hp=1"
+language: en
+slug: monmon-apartment
+address: "Rruga e Dibrës, 1007 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.34033693
+  lng: 19.82939915
+price: "US$47"
+priceFrom: 47
+starRating: 4
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 2
+ratings:
+  overall: 8.8
+  location: 7.5
+  cleanliness: 8.8
+  facilities: 8.8
+  value: 8.8
+  comfort: 8.8
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445030.jpg?k=bc5856d4bdfe419b1586519bafcf99a5a376148fc2316c3321779b6e6a971cce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445041.jpg?k=642e31e7742444844bda276549e73eecb40309fdf723fbc1d0f29e5272d63a6a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445035.jpg?k=13539ea358e63aca72c197d5ce321cd33a0bb697e8ff1840b83477806019519a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445022.jpg?k=1c1be3493cbfae835c9b83322bca1e9a57e5bcbf09a1cdc1e631018bc38de076&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445056.jpg?k=b82b652038716e19cd97d4d39f8469807f198c3649c9d31b78955def7ba437fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445045.jpg?k=99d003d333bc26a7e53b4a61f34c4292e154172f56df2c4908b91669d4b23f9e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445048.jpg?k=c870fcda0a68557acfae0a1481aefc8ebbe4f57371f515253b9102d9f8ce20b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445036.jpg?k=f96918ef56b9bedd97e5105f326ba790f65019858166b1d88fc47b9d505caa86&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445043.jpg?k=6104907f9b964b90ef687b9fafa3514f82c27ec3eedb51d6e8d7d5940affcd18&o=&hp=1"
+amenities:
+  - "Fast free WiFi (81 Mbps)"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 1.6 km"
+  - "National Gallery of Arts Tirana 1.7 km"
+  - "House of Leaves 1.9 km"
+  - "Rinia Park 2 km"
+  - "Former Residence of Enver Hoxha 2.4 km"
+  - "Bunk'Art 1 Museum 2.8 km"
+  - "Grand Park of Tirana 3.2 km"
+nearbyRestaurants:
+  - "Bon SE Sugar 50 m"
+  - "Bar Restorant Shoqeria 100 m"
+whatsNearby:
+  - "Sheshi Jjosef Shtraus 850 m"
+  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"
+  - "Sheshi Rekreativ Allias 1 km"
+  - "Amazing Nature 1.2 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.4 km"
+  - "Sheshi Sulejman Pasha 1.5 km"
+  - "Tanners' Bridge 1.6 km"
+  - "National Museum of History Albania 1.6 km"
+  - "Clock Tower Tirana 1.6 km"
+  - "Sheshi Skënderbej 1.6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+bookingURL: "https://www.booking.com/hotel/al/qera-ditore-kompleksi-arlis-farmacia-10.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+A stone's throw from significant landmarks, the apartment is conveniently positioned 2.9 km from the historical Former Residence of Enver Hoxha and a brief journey from the natural beauty of the Rock of Kavaje, 43 km away. For those interested in exploring the local culture, Tanners' Bridge is just 2.2 km from the doorstep, while the Clock Tower Tirana and Et'hem Bey Mosque are both within a 1.9 km radius.
 
 The interior of MonMon Apartment is thoughtfully designed to cater to the needs of modern travelers. It boasts a spacious bedroom, a living area equipped with a flat-screen TV offering a wide range of cable channels, and a fully equipped kitchen. The kitchen amenities, including an oven, toaster, washing machine, fridge, and stovetop, ensure guests have everything they need to feel at home.
 

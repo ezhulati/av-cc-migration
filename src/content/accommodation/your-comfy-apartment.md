@@ -1,4 +1,76 @@
----\ntitle: "Your Comfy Apartment"\ndescription: "Your Comfy Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460744.jpg?k=97f57f17b62ec9365f2d585ee37010a157d2a57a4eef9bb421fb2473c2e99b96&o=&hp=1"\nlanguage: en\nslug: your-comfy-apartment\naddress: "3 Rruga Beqir Luga 7, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32980528\n  lng: 19.82711444\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 2\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460744.jpg?k=97f57f17b62ec9365f2d585ee37010a157d2a57a4eef9bb421fb2473c2e99b96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460334.jpg?k=1d682d3fed53d250addbd8b39d2073beae9831e761535b3b04518bfe8e069395&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015214.jpg?k=dc1f0c2fb2327754e1b931a4e54b1bf07789caf909ecd830d980101f6a8188b4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460780.jpg?k=da2bb9b772c5e2f3c6e7d032182d6bc4e6488493ec64ecd06f2a610d10c6edd7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015201.jpg?k=c22fe4147bd74a8764e3d2396933aa800f6ff8f003ee36f6764a7a8228a724a0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015209.jpg?k=0b868b23f4a37baeb9171d296f1106e33d6b95c6c3f5849c6412338b5dc0c330&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460368.jpg?k=9013e59529d7d702a8286de317ada55705a54b03b0ef9b03695a92a965cd858b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015219.jpg?k=0986ae368908c1106b0dc259f306a1add48292ff3bedcee6bcc3f53e093bc254&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015108.jpg?k=15cfc3ffbc763cb2fecb68941f330fa828c59833f8b4014046f392bf40381a84&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Fast free WiFi (83 Mbps)"\nnearbyAttractions:\n  - "National Museum of History Albania 800 m"\n  - "Rinia Park 950 m"\n  - "House of Leaves 950 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2 km"\n  - "Bunk'Art 1 Museum 3.6 km"\nnearbyRestaurants:\n  - "Meet Friends 40 m"\n  - "Pizzeria Grano Tenero 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ tek ish ATSh 200 m"\n  - "Tanners' Bridge 400 m"\n  - "Sheshi Sulejman Pasha 450 m"\n  - "Clock Tower Tirana 650 m"\n  - "National Gallery of Arts Tirana 650 m"\n  - "Skanderbeg Square 700 m"\n  - "Parku Europa 700 m"\n  - "Amazing Nature 800 m"\n  - "Sheshi Rekreativ Piramida 800 m"\n  - "Sheshi Skënderbej 800 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/your-comfy-apartment-tirane.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis one-bedroom apartment is a haven of modern amenities, featuring a living room equipped with a flat-screen TV and streaming services, ensuring entertainment is always at guests' fingertips. The fully equipped kitchen, complete with an oven and toaster, invites guests to prepare their meals just the way they like them, adding a touch of home to their travel experience. The inclusion of a bathroom outfitted with a hairdryer underscores the apartment's commitment to providing all the essentials for a comfortable stay. It's worth noting that the accommodation maintains a non-smoking policy, ensuring a fresh and welcoming environment for all guests.
+---
+title: "Your Comfy Apartment"
+description: "Your Comfy Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460744.jpg?k=97f57f17b62ec9365f2d585ee37010a157d2a57a4eef9bb421fb2473c2e99b96&o=&hp=1"
+language: en
+slug: your-comfy-apartment
+address: "3 Rruga Beqir Luga 7, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32980528
+  lng: 19.82711444
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 2
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460744.jpg?k=97f57f17b62ec9365f2d585ee37010a157d2a57a4eef9bb421fb2473c2e99b96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460334.jpg?k=1d682d3fed53d250addbd8b39d2073beae9831e761535b3b04518bfe8e069395&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015214.jpg?k=dc1f0c2fb2327754e1b931a4e54b1bf07789caf909ecd830d980101f6a8188b4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460780.jpg?k=da2bb9b772c5e2f3c6e7d032182d6bc4e6488493ec64ecd06f2a610d10c6edd7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015201.jpg?k=c22fe4147bd74a8764e3d2396933aa800f6ff8f003ee36f6764a7a8228a724a0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015209.jpg?k=0b868b23f4a37baeb9171d296f1106e33d6b95c6c3f5849c6412338b5dc0c330&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460368.jpg?k=9013e59529d7d702a8286de317ada55705a54b03b0ef9b03695a92a965cd858b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015219.jpg?k=0986ae368908c1106b0dc259f306a1add48292ff3bedcee6bcc3f53e093bc254&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015108.jpg?k=15cfc3ffbc763cb2fecb68941f330fa828c59833f8b4014046f392bf40381a84&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Fast free WiFi (83 Mbps)"
+nearbyAttractions:
+  - "National Museum of History Albania 800 m"
+  - "Rinia Park 950 m"
+  - "House of Leaves 950 m"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2 km"
+  - "Bunk'Art 1 Museum 3.6 km"
+nearbyRestaurants:
+  - "Meet Friends 40 m"
+  - "Pizzeria Grano Tenero 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ tek ish ATSh 200 m"
+  - "Tanners' Bridge 400 m"
+  - "Sheshi Sulejman Pasha 450 m"
+  - "Clock Tower Tirana 650 m"
+  - "National Gallery of Arts Tirana 650 m"
+  - "Skanderbeg Square 700 m"
+  - "Parku Europa 700 m"
+  - "Amazing Nature 800 m"
+  - "Sheshi Rekreativ Piramida 800 m"
+  - "Sheshi Skënderbej 800 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+bookingURL: "https://www.booking.com/hotel/al/your-comfy-apartment-tirane.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This one-bedroom apartment is a haven of modern amenities, featuring a living room equipped with a flat-screen TV and streaming services, ensuring entertainment is always at guests' fingertips. The fully equipped kitchen, complete with an oven and toaster, invites guests to prepare their meals just the way they like them, adding a touch of home to their travel experience. The inclusion of a bathroom outfitted with a hairdryer underscores the apartment's commitment to providing all the essentials for a comfortable stay. It's worth noting that the accommodation maintains a non-smoking policy, ensuring a fresh and welcoming environment for all guests.
 
 For those who might need to pick up a few essentials or a quick snack, the convenience of an on-site minimarket cannot be overstated. 
 

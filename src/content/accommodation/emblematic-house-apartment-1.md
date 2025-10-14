@@ -1,3 +1,64 @@
----\ntitle: "Emblematic House Apartment 1"\ndescription: "Emblematic House Apartment 1 emerges as a charming retreat in the historic heart of Gjirokastër, a mere 45 km away from the serene Zaravina Lake."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163877.jpg?k=3da204c571e3f450f73f96154406247ea3dcdcf75227dd1695817cd5ca52a93b&o=&hp=1"\nlanguage: en\nslug: emblematic-house-apartment-1\naddress: "Rruga Selam Musai, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.07301223\n  lng: 20.13627111\nprice: "US$78"\npriceFrom: 78\nstarRating: 3\nrating: 10\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 10\n  location: 10\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163877.jpg?k=3da204c571e3f450f73f96154406247ea3dcdcf75227dd1695817cd5ca52a93b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163910.jpg?k=9dc29c0d8ee84bef33579119e085e51108d8187b72b4303742ebb418f221b6ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163906.jpg?k=d7ec4ea2709e7747776d6b430cf47b1d864cd1a5b3e32064a2ea52590a8f3db0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163899.jpg?k=948e1489d03ac4908566a3fc7b4401480bbf7687ee12d434de776bc2989b969a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163887.jpg?k=1c0ca3dd8927df085682aef031035d96b4ac0d02bc2407714efd5cb38a93b99b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163896.jpg?k=dc11c46e6b2bb79c8bf9a413ae80042d80ddd53508e2d0407b89cdde2e99b728&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163865.jpg?k=2e6b9c3aaa236f39e71711c586176ce86b4bca8b568a91248c278bf4fdcc6780&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163901.jpg?k=58d36028cb01acd860e8eb3b6919acd34662c6f2df50e7e7fc46c1b7ec27031a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163889.jpg?k=69e3950a1f48309fd32d8ed38677124bfce5249969394ed63b9732edb1c05bbe&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "Apartment with Balcony"\nnearbyRestaurants:\n  - "Tradicional Kotoni 100 m"\n  - "Naka 150 m"\nairports:\n  - "Corfu International Airport 55 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Samantha"\n    country: "United States"\n    text: "“The best balcony in the whole city and the AC works perfectly! Message the host before you arrive to find out where to meet for parking.”"\nbookingURL: "https://www.booking.com/hotel/al/emblematic-house-apartment-1.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nAccommodation at Emblematic House Apartment 1 is thoughtfully designed with guest comfort in mind. The apartment boasts a spacious bedroom, a cozy living room, and a balcony that presents breathtaking mountain vistas. The inclusion of a flat-screen TV, an equipped kitchen featuring an oven and a microwave, and a contemporary bathroom with a walk-in shower ensures a stay that lacks for nothing. Towels and bed linen, provided for guests, add an extra layer of convenience.
+---
+title: "Emblematic House Apartment 1"
+description: "Emblematic House Apartment 1 emerges as a charming retreat in the historic heart of Gjirokastër, a mere 45 km away from the serene Zaravina Lake."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163877.jpg?k=3da204c571e3f450f73f96154406247ea3dcdcf75227dd1695817cd5ca52a93b&o=&hp=1"
+language: en
+slug: emblematic-house-apartment-1
+address: "Rruga Selam Musai, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.07301223
+  lng: 20.13627111
+price: "US$78"
+priceFrom: 78
+starRating: 3
+rating: 10
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 10
+  location: 10
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163877.jpg?k=3da204c571e3f450f73f96154406247ea3dcdcf75227dd1695817cd5ca52a93b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163910.jpg?k=9dc29c0d8ee84bef33579119e085e51108d8187b72b4303742ebb418f221b6ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163906.jpg?k=d7ec4ea2709e7747776d6b430cf47b1d864cd1a5b3e32064a2ea52590a8f3db0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163899.jpg?k=948e1489d03ac4908566a3fc7b4401480bbf7687ee12d434de776bc2989b969a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163887.jpg?k=1c0ca3dd8927df085682aef031035d96b4ac0d02bc2407714efd5cb38a93b99b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163896.jpg?k=dc11c46e6b2bb79c8bf9a413ae80042d80ddd53508e2d0407b89cdde2e99b728&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163865.jpg?k=2e6b9c3aaa236f39e71711c586176ce86b4bca8b568a91248c278bf4fdcc6780&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163901.jpg?k=58d36028cb01acd860e8eb3b6919acd34662c6f2df50e7e7fc46c1b7ec27031a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163889.jpg?k=69e3950a1f48309fd32d8ed38677124bfce5249969394ed63b9732edb1c05bbe&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "Apartment with Balcony"
+nearbyRestaurants:
+  - "Tradicional Kotoni 100 m"
+  - "Naka 150 m"
+airports:
+  - "Corfu International Airport 55 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Samantha"
+    country: "United States"
+    text: "“The best balcony in the whole city and the AC works perfectly! Message the host before you arrive to find out where to meet for parking.”"
+bookingURL: "https://www.booking.com/hotel/al/emblematic-house-apartment-1.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Accommodation at Emblematic House Apartment 1 is thoughtfully designed with guest comfort in mind. The apartment boasts a spacious bedroom, a cozy living room, and a balcony that presents breathtaking mountain vistas. The inclusion of a flat-screen TV, an equipped kitchen featuring an oven and a microwave, and a contemporary bathroom with a walk-in shower ensures a stay that lacks for nothing. Towels and bed linen, provided for guests, add an extra layer of convenience.
 
 Privacy and peace are paramount here, with soundproofing and a private entrance allowing guests to enjoy their stay undisturbed. Located 84 km from Ioannina Airport, Emblematic House Apartment 1 stands out as a prime choice for travelers seeking a blend of historical ambiance and modern comforts in Gjirokastër.

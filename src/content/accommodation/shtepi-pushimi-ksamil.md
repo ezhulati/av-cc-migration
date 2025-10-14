@@ -1,4 +1,80 @@
----\ntitle: "Shtepi pushimi Ksamil"\ndescription: "Shtepi pushimi Ksamil emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in the heart of Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477035800.jpg?k=94e9fb41cfdbd51d03a3a5d3bebefe513608b4060a5ef2232168cdd6f8523589&o=&hp=1"\nlanguage: en\nslug: shtepi-pushimi-ksamil\naddress: "Ksamil, Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.76464387\n  lng: 20.00196425\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 3\nratings:\n  overall: 7.5\n  location: 7.5\n  cleanliness: 6.7\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 8.3\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477035800.jpg?k=94e9fb41cfdbd51d03a3a5d3bebefe513608b4060a5ef2232168cdd6f8523589&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035865.jpg?k=cb8bb462e1091cbb8068393ddda6273e1c662ae49024b993a073a5d6eb24a2e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035872.jpg?k=0efd8fedb43ef45abcd1c4cdeb86dc5ad2469ef723b90e78bcf38da710da65fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035878.jpg?k=a40f3557fbd2fc54f082b197ecf3a49d7af43a95651c36d966667e1fdeded44e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035883.jpg?k=29f228c903f4cc9de4c3aac9ceabab595677f4ef5f8a52f308b2dd11b7610f73&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 18 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 20 km"\nnearbyRestaurants:\n  - "Krenari Grill Station 100 m"\n  - "Mario Seafood 100 m"\nnearbyBeaches:\n  - "Ksamil Beach 9 450 m"\n  - "Paradise Beach 500 m"\n  - "Lori Beach 650 m"\n  - "Puerto Rico Beach 700 m"\n  - "Bora Bora Beach 750 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 300 m"\n  - "Butrint National Park 2.6 km"\n  - "Plazhi I Krorezes 3.9 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 17 km"\n  - "Public Garden 17 km"\n  - "Solomos Museum 17 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 19 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/shtepi-pushimi-ksamil.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests at Shtepi pushimi Ksamil are treated to a host of amenities designed to enhance their stay. The apartment boasts a refreshing air-conditioned interior, ensuring a cool escape from the sun-soaked adventures that await outdoors. Connectivity is never an issue, with complimentary WiFi allowing guests to share their experiences or stay in touch with loved ones. Additionally, the convenience of on-site parking, available at no extra charge, adds to the seamless experience, providing peace of mind for those traveling by car.
+---
+title: "Shtepi pushimi Ksamil"
+description: "Shtepi pushimi Ksamil emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in the heart of Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477035800.jpg?k=94e9fb41cfdbd51d03a3a5d3bebefe513608b4060a5ef2232168cdd6f8523589&o=&hp=1"
+language: en
+slug: shtepi-pushimi-ksamil
+address: "Ksamil, Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.76464387
+  lng: 20.00196425
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.5
+ratingWords: "Good"
+numberOfReviews: 3
+ratings:
+  overall: 7.5
+  location: 7.5
+  cleanliness: 6.7
+  facilities: 7.5
+  value: 7.5
+  comfort: 7.5
+  staff: 8.3
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477035800.jpg?k=94e9fb41cfdbd51d03a3a5d3bebefe513608b4060a5ef2232168cdd6f8523589&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035865.jpg?k=cb8bb462e1091cbb8068393ddda6273e1c662ae49024b993a073a5d6eb24a2e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035872.jpg?k=0efd8fedb43ef45abcd1c4cdeb86dc5ad2469ef723b90e78bcf38da710da65fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035878.jpg?k=a40f3557fbd2fc54f082b197ecf3a49d7af43a95651c36d966667e1fdeded44e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/477035883.jpg?k=29f228c903f4cc9de4c3aac9ceabab595677f4ef5f8a52f308b2dd11b7610f73&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 17 km"
+  - "Archaeological Museum 18 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 18 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 20 km"
+nearbyRestaurants:
+  - "Krenari Grill Station 100 m"
+  - "Mario Seafood 100 m"
+nearbyBeaches:
+  - "Ksamil Beach 9 450 m"
+  - "Paradise Beach 500 m"
+  - "Lori Beach 650 m"
+  - "Puerto Rico Beach 700 m"
+  - "Bora Bora Beach 750 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 300 m"
+  - "Butrint National Park 2.6 km"
+  - "Plazhi I Krorezes 3.9 km"
+  - "Parc National de Butrint 11 km"
+  - "Byzantine Museum 17 km"
+  - "Public Garden 17 km"
+  - "Solomos Museum 17 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 19 km"
+  - "Ioannina Airport 70 km"
+bookingURL: "https://www.booking.com/hotel/al/shtepi-pushimi-ksamil.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests at Shtepi pushimi Ksamil are treated to a host of amenities designed to enhance their stay. The apartment boasts a refreshing air-conditioned interior, ensuring a cool escape from the sun-soaked adventures that await outdoors. Connectivity is never an issue, with complimentary WiFi allowing guests to share their experiences or stay in touch with loved ones. Additionally, the convenience of on-site parking, available at no extra charge, adds to the seamless experience, providing peace of mind for those traveling by car.
 
 The accommodation itself is thoughtfully laid out, featuring a spacious terrace that invites guests to unwind and soak in the tranquil surroundings. Inside, the apartment reveals a cozy bedroom, a welcoming living room, and a well-equipped kitchen, catering to all the needs of modern travelers. Entertainment is readily available, with a flat-screen TV serving as a centerpiece for relaxed evenings in.
 

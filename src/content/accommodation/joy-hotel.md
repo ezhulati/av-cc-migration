@@ -1,3 +1,84 @@
----\ntitle: "Joy Hotel"\ndescription: "Joy Hotel, situated in the vibrant heart of Sarandë and merely a stone's throw away from Saranda City Beach, emerges as a beacon of comfort and convenience for travelers."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893408.jpg?k=a129dc062b1d5c49ddb6fe2ff891dcb755eb2d85a301cd4ff0a3d482e1d84aac&o=&hp=1"\nlanguage: en\nslug: joy-hotel\naddress: "Rruga \"Adem Sheme\" Nr.26 Sarande, Albania, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.876656\n  lng: 20.004379\nprice: "US$35"\npriceFrom: 35\nstarRating: 2\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 145\nratings:\n  overall: 7.9\n  location: 8.5\n  cleanliness: 8.5\n  facilities: 7.8\n  value: 8.5\n  comfort: 8.5\n  staff: 8.4\n  wifi: 5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893408.jpg?k=a129dc062b1d5c49ddb6fe2ff891dcb755eb2d85a301cd4ff0a3d482e1d84aac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892396.jpg?k=6f775366adb4547a4bdbaae70d0318904889cef64b9f069bf33d88a755466db0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151067270.jpg?k=ed1774630e52f137222a4041e1d52db2a9b340cba43bcc4b64e0eb214c055ef3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892411.jpg?k=e994278ccedb1cd6f31548b89154bacf87d8fb4c1e216ddc77f2aa24ad4c8fe8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893396.jpg?k=269ebf1a87e4163cad720df7b9861c550ebc3d2a155f4f7eb61673aed622139f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893321.jpg?k=b9666c54e57c7310bb4733316646e4337cbc8ad82ba9477858fb7e136e43d21f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892384.jpg?k=4014c9018b9c1fea9b92272dca3f8454978a5bf424b6b3ab81d983bc9068b053&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194925499.jpg?k=408f2a5669cb00b9739f15b21311eadc3d5220306e73d51db2f62e1b9ff5d432&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892432.jpg?k=e5435565b9d81d95983733d01b9c8e90ea62817cb9044521357e9466fce5e212&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\n  - "Bar"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Pasuria E Detit - Fish Store 20 m"\n  - "Oda e Babës 100 m"\nnearbyBeaches:\n  - "Saranda City Beach 550 m"\n  - "Sarande Main Beach 850 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.4 km"\n  - "Saranda Bay Beach 1.9 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.6 km"\n  - "Butrint National Park 3.4 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Martina"\n    country: "Austria"\n    text: "“Super friendly owners! We came very late for check in - no problem for them! Breakfast was good but not a lot to choose from (Bred, butter, eggs, fruits, croissant, juice, coffee) Room was clean! All in all very nice deal!”"\n  - name: "Aneta"\n    country: "North Macedonia"\n    text: "“The staff are really nice . The rooms are very spacious and clean. The location is also good, 5 minutes walk from the port and Saranda promenade.”"\n  - name: "Raffaele"\n    country: "Netherlands"\n    text: "“very good location, room very clean and tidy. very nice balcony and really fresh. never hot. everyone are really good and the owner helps us with suitcase”"\nbookingURL: "https://www.booking.com/hotel/al/joy.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nAccommodations at Joy Hotel are thoughtfully appointed, with each room boasting its own balcony for guests to enjoy the urban tapestry of Sarandë. The rooms are not only a sanctuary of rest but also offer practical conveniences such as a fridge, ensuring refreshments are always at hand. Private bathrooms equipped with showers and complimentary toiletries add to the comfort, while the city views from the rooms serve as a constant reminder of the hotel's prime location.
+---
+title: "Joy Hotel"
+description: "Joy Hotel, situated in the vibrant heart of Sarandë and merely a stone's throw away from Saranda City Beach, emerges as a beacon of comfort and convenience for travelers."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893408.jpg?k=a129dc062b1d5c49ddb6fe2ff891dcb755eb2d85a301cd4ff0a3d482e1d84aac&o=&hp=1"
+language: en
+slug: joy-hotel
+address: "Rruga \"Adem Sheme\" Nr.26 Sarande, Albania, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.876656
+  lng: 20.004379
+price: "US$35"
+priceFrom: 35
+starRating: 2
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 145
+ratings:
+  overall: 7.9
+  location: 8.5
+  cleanliness: 8.5
+  facilities: 7.8
+  value: 8.5
+  comfort: 8.5
+  staff: 8.4
+  wifi: 5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893408.jpg?k=a129dc062b1d5c49ddb6fe2ff891dcb755eb2d85a301cd4ff0a3d482e1d84aac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892396.jpg?k=6f775366adb4547a4bdbaae70d0318904889cef64b9f069bf33d88a755466db0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151067270.jpg?k=ed1774630e52f137222a4041e1d52db2a9b340cba43bcc4b64e0eb214c055ef3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892411.jpg?k=e994278ccedb1cd6f31548b89154bacf87d8fb4c1e216ddc77f2aa24ad4c8fe8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893396.jpg?k=269ebf1a87e4163cad720df7b9861c550ebc3d2a155f4f7eb61673aed622139f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893321.jpg?k=b9666c54e57c7310bb4733316646e4337cbc8ad82ba9477858fb7e136e43d21f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892384.jpg?k=4014c9018b9c1fea9b92272dca3f8454978a5bf424b6b3ab81d983bc9068b053&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194925499.jpg?k=408f2a5669cb00b9739f15b21311eadc3d5220306e73d51db2f62e1b9ff5d432&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194892432.jpg?k=e5435565b9d81d95983733d01b9c8e90ea62817cb9044521357e9466fce5e212&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+  - "Bar"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Pasuria E Detit - Fish Store 20 m"
+  - "Oda e Babës 100 m"
+nearbyBeaches:
+  - "Saranda City Beach 550 m"
+  - "Sarande Main Beach 850 m"
+  - "La Petite Beach 1.2 km"
+  - "Maestral Beach 1.4 km"
+  - "Saranda Bay Beach 1.9 km"
+whatsNearby:
+  - "Parc National de Butrint 2.6 km"
+  - "Butrint National Park 3.4 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Martina"
+    country: "Austria"
+    text: "“Super friendly owners! We came very late for check in - no problem for them! Breakfast was good but not a lot to choose from (Bred, butter, eggs, fruits, croissant, juice, coffee) Room was clean! All in all very nice deal!”"
+  - name: "Aneta"
+    country: "North Macedonia"
+    text: "“The staff are really nice . The rooms are very spacious and clean. The location is also good, 5 minutes walk from the port and Saranda promenade.”"
+  - name: "Raffaele"
+    country: "Netherlands"
+    text: "“very good location, room very clean and tidy. very nice balcony and really fresh. never hot. everyone are really good and the owner helps us with suitcase”"
+bookingURL: "https://www.booking.com/hotel/al/joy.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Accommodations at Joy Hotel are thoughtfully appointed, with each room boasting its own balcony for guests to enjoy the urban tapestry of Sarandë. The rooms are not only a sanctuary of rest but also offer practical conveniences such as a fridge, ensuring refreshments are always at hand. Private bathrooms equipped with showers and complimentary toiletries add to the comfort, while the city views from the rooms serve as a constant reminder of the hotel's prime location.
 
 For those looking to explore the local beaches, Joy Hotel presents an ideal base. Sarande Main Beach is within easy reach, located less than 1 km away, and the quaint La Petite Beach can be found after a leisurely 17-minute walk. Furthermore, for guests arriving from afar, Ioannina Airport is 97 km away, making Joy Hotel a strategic choice for both domestic and international travelers seeking a blend of convenience and hospitality in Sarandë.

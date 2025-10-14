@@ -1,6 +1,105 @@
----\ntitle: "Hotel Ajden by Mira Mare"\ndescription: "Hotel Ajden by Mira Mare stands out as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440511877.jpg?k=d035c51e8bea68aa29c43c2e8a0ad3393fd52b3d6c4e30723ab7eac6121cbf40&o=&hp=1"\nlanguage: en\nslug: hotel-ajden-by-mira-mare\naddress: "Rruga Jul Cezari, Ksamil 9706, 9706 Ksamil, Albania"\ncity: "Ksamil"\nlocation: "Ksamil"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.76402969\n  lng: 19.9958088\nprice: "US$323"\npriceFrom: 323\nstarRating: 4\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 243\nratings:\n  overall: 8.7\n  location: 8.4\n  cleanliness: 8.9\n  facilities: 8.4\n  value: 8.3\n  comfort: 8.9\n  staff: 9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440511877.jpg?k=d035c51e8bea68aa29c43c2e8a0ad3393fd52b3d6c4e30723ab7eac6121cbf40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458454933.jpg?k=e4f4e047f1ed49863dabd7b1f9de5c4c91ec4c0c2523dd38540b048b60e2c295&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432686851.jpg?k=03283c4ef3704ab704361d7f3e9a61cd548fe286c6a23165fdc27a2f78fad8ac&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472585007.jpg?k=385dd7f0b961cedb2fb595c09e32cdb21fb492c6f31ed1f6fd0471339c948ac3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472584733.jpg?k=723f311dd9dbf0d46df233dd00414649b18cafbbe3892a96c203f2339d93b6fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472584634.jpg?k=e71bb904a3dc0da1c1951d256a001dfe3c59d10cfa5538271f73d5a466345649&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Deluxe Double Room with Balcony and Sea View"\nnearbyAttractions:\n  - "Museum of Banknotes 17 km"\n  - "New Fortress 17 km"\n  - "Serbian Museum 17 km"\n  - "Theotoki G. Square 17 km"\n  - "Archaeological Museum 17 km"\n  - "Ntougkla Square 18 km"\n  - "Trion Martiron Park 18 km"\n  - "Mon Repos Palace 19 km"\n  - "Kapodistrias Museum 19 km"\nnearbyRestaurants:\n  - "Family 100 m"\n  - "Nepsi Self Service 100 m"\nnearbyBeaches:\n  - "Paradise Beach 200 m"\n  - "Lori Beach 250 m"\n  - "Puerto Rico Beach 350 m"\n  - "Ksamil Beach 9 400 m"\n  - "Bora Bora Beach 800 m"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parku Kombetar I Butrintit 700 m"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 4 km"\n  - "Parc National de Butrint 11 km"\n  - "Byzantine Museum 16 km"\n  - "Public Garden 16 km"\n  - "Solomos Museum 16 km"\n  - "Asian Art Museum 17 km"\n  - "Old Fortress 17 km"\nairports:\n  - "Corfu International Airport 18 km"\n  - "Ioannina Airport 70 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Akhter"\n    country: "Albania"\n    text: "“Loved my stay here! The room was cozy, the view was amazing, and the breakfast was top-notch. Definitely coming back to this hotel when I'm in Kasmil again.”"\n  - name: "Ioana"\n    country: "Romania"\n    text: "“Clean place. Cleaning was made every day.
-Close to the beaches. Close to the centre of Ksamil. Big terrace.”"\n  - name: "Pedro"\n    country: "Portugal"\n    text: "“The hotel is very well located , away from all the fuzz from the beachs hotels with partys during the night. I sugest that you rent a car for your rides.
-The rooms are very good , and being a new hotel the rooms was very good . Breakfast was ok,...”"\nbookingURL: "https://www.booking.com/hotel/al/ajden-by-mira-mare.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe hotel boasts a seasonal outdoor swimming pool, complimentary private parking, a welcoming shared lounge, and a lively bar, ensuring that every aspect of the guest's stay is catered to. With a commitment to guest satisfaction, Hotel Ajden by Mira Mare also provides room service, a 24-hour front desk, and free WiFi throughout the property, all within an allergy-free environment.
+---
+title: "Hotel Ajden by Mira Mare"
+description: "Hotel Ajden by Mira Mare stands out as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440511877.jpg?k=d035c51e8bea68aa29c43c2e8a0ad3393fd52b3d6c4e30723ab7eac6121cbf40&o=&hp=1"
+language: en
+slug: hotel-ajden-by-mira-mare
+address: "Rruga Jul Cezari, Ksamil 9706, 9706 Ksamil, Albania"
+city: "Ksamil"
+location: "Ksamil"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.76402969
+  lng: 19.9958088
+price: "US$323"
+priceFrom: 323
+starRating: 4
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 243
+ratings:
+  overall: 8.7
+  location: 8.4
+  cleanliness: 8.9
+  facilities: 8.4
+  value: 8.3
+  comfort: 8.9
+  staff: 9
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440511877.jpg?k=d035c51e8bea68aa29c43c2e8a0ad3393fd52b3d6c4e30723ab7eac6121cbf40&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458454933.jpg?k=e4f4e047f1ed49863dabd7b1f9de5c4c91ec4c0c2523dd38540b048b60e2c295&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432686851.jpg?k=03283c4ef3704ab704361d7f3e9a61cd548fe286c6a23165fdc27a2f78fad8ac&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472585007.jpg?k=385dd7f0b961cedb2fb595c09e32cdb21fb492c6f31ed1f6fd0471339c948ac3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472584733.jpg?k=723f311dd9dbf0d46df233dd00414649b18cafbbe3892a96c203f2339d93b6fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472584634.jpg?k=e71bb904a3dc0da1c1951d256a001dfe3c59d10cfa5538271f73d5a466345649&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Deluxe Double Room with Balcony and Sea View"
+nearbyAttractions:
+  - "Museum of Banknotes 17 km"
+  - "New Fortress 17 km"
+  - "Serbian Museum 17 km"
+  - "Theotoki G. Square 17 km"
+  - "Archaeological Museum 17 km"
+  - "Ntougkla Square 18 km"
+  - "Trion Martiron Park 18 km"
+  - "Mon Repos Palace 19 km"
+  - "Kapodistrias Museum 19 km"
+nearbyRestaurants:
+  - "Family 100 m"
+  - "Nepsi Self Service 100 m"
+nearbyBeaches:
+  - "Paradise Beach 200 m"
+  - "Lori Beach 250 m"
+  - "Puerto Rico Beach 350 m"
+  - "Ksamil Beach 9 400 m"
+  - "Bora Bora Beach 800 m"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parku Kombetar I Butrintit 700 m"
+  - "Butrint National Park 3.2 km"
+  - "Plazhi I Krorezes 4 km"
+  - "Parc National de Butrint 11 km"
+  - "Byzantine Museum 16 km"
+  - "Public Garden 16 km"
+  - "Solomos Museum 16 km"
+  - "Asian Art Museum 17 km"
+  - "Old Fortress 17 km"
+airports:
+  - "Corfu International Airport 18 km"
+  - "Ioannina Airport 70 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Akhter"
+    country: "Albania"
+    text: "“Loved my stay here! The room was cozy, the view was amazing, and the breakfast was top-notch. Definitely coming back to this hotel when I'm in Kasmil again.”"
+  - name: "Ioana"
+    country: "Romania"
+    text: "“Clean place. Cleaning was made every day.
+Close to the beaches. Close to the centre of Ksamil. Big terrace.”"
+  - name: "Pedro"
+    country: "Portugal"
+    text: "“The hotel is very well located , away from all the fuzz from the beachs hotels with partys during the night. I sugest that you rent a car for your rides.
+The rooms are very good , and being a new hotel the rooms was very good . Breakfast was ok,...”"
+bookingURL: "https://www.booking.com/hotel/al/ajden-by-mira-mare.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The hotel boasts a seasonal outdoor swimming pool, complimentary private parking, a welcoming shared lounge, and a lively bar, ensuring that every aspect of the guest's stay is catered to. With a commitment to guest satisfaction, Hotel Ajden by Mira Mare also provides room service, a 24-hour front desk, and free WiFi throughout the property, all within an allergy-free environment.
 
 Guest accommodations are thoughtfully designed with comfort in mind. Each room is equipped with air conditioning, a desk, a flat-screen TV, and a private bathroom complete with bed linen and towels. For those desiring a picturesque view, select rooms offer balconies that open up to breathtaking sea vistas, while all guests can enjoy the urban landscape from their private terraces.
 

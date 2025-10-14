@@ -1,5 +1,97 @@
----\ntitle: "Hotel Bahamas"\ndescription: "Discover the serene oasis of Hotel Bahamas, a charming retreat perched on the edge of a private pebbly beach just a stone's throw from the vibrant town of Sarandë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989806.jpg?k=b69cf697fadbf44c58c02d2928b4cc8ac2eb675c6a95aa22fcbd974ef0e61c76&o=&hp=1"\nlanguage: en\nslug: hotel-bahamas\naddress: "Turizem - Kanali Cukes, 9703 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.84628943\n  lng: 20.0215745\nprice: "US$54"\npriceFrom: 54\nstarRating: 4\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 377\nratings:\n  overall: 7.9\n  location: 8.2\n  cleanliness: 8\n  facilities: 7.6\n  value: 7.4\n  comfort: 8\n  staff: 8.3\n  wifi: 7.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989806.jpg?k=b69cf697fadbf44c58c02d2928b4cc8ac2eb675c6a95aa22fcbd974ef0e61c76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/132072316.jpg?k=4ec6ebadc97407322a3560df4672278302307fefa42cbd6792def7fa9b05e684&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989820.jpg?k=9791cd5fc3d36fe7bb78b3d4b3098fb0e895edfba0800541a16904fb5dd129fa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989842.jpg?k=fc1e1e89d8c507b49cd22c04f2f3e3d06928aad2e29d5c2b01093419e322e0a9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989849.jpg?k=b7d73c53263c8346cef237d192973204326bda6f067d40b4fb81e070f518a938&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989775.jpg?k=9c6e03a0e341b3503111a27ecf782adf2d2eacecc98d7e85fb77c8e68295fdcd&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Private beach area"\n  - "Breakfast"\nroomTypes:\n  - "Panoramic Triple Room with Balcony and Sea View"\n  - "Triple Room with Balcony and Sea View"\n  - "Superior Triple Room with Balcony and Sea View"\n  - "Panoramic Quadruple Room with Balcony and Side Sea View"\n  - "Quadruple Room with Balcony and Side Sea View"\n  - "Superior Quadruple Room with Balcony and Side Sea View"\n  - "Family Suite with Balcony"\nnearbyRestaurants:\n  - "River View 350 m"\n  - "Bar Aliu 400 m"\nnearbyBeaches:\n  - "Mango Beach 400 m"\n  - "Flamingo Beach 900 m"\n  - "Heaven Beach 1.2 km"\n  - "Santa Quaranta Beach 1.3 km"\n  - "VIP Beach 1.4 km"\nwhatsNearby:\n  - "Butrint National Park 50 m"\n  - "Parc National de Butrint 1.4 km"\n  - "Plazhi I Krorezes 5 km"\n  - "Parku Kombetar I Butrintit 9 km"\n  - "Butrint National Park 9 km"\nairports:\n  - "Corfu International Airport 28 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Natalia"\n    country: "United Kingdom"\n    text: "“We had a great stay here. We liked the beach, the pool and the breakfast. The water was a bit warm and we ventured to go swimming. However, the beach is not sandy. The staff was amiable and very helpful. The friendly manner of the hotel manager...”"\n  - name: "Siim"\n    country: "Estonia"\n    text: "“Staff was very friendly and helpful.
-Kids loved the pool, beach was close aswell”"\n  - name: "Federico"\n    country: "Ireland"\n    text: "“Hotel Bahamas was beyond my expectations. Everything was perfect!!! I booked a panoramic room for 2 people, the sea view when waking up every morning is priceless. I have to highlighted how spotless the room, lobby, restaurant, pool and beach...”"\nbookingURL: "https://www.booking.com/hotel/al/bahamas.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at Hotel Bahamas are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with modern amenities including cable TV, a refrigerator, and a private balcony, ensuring a stay that is both comfortable and convenient. The en-suite bathrooms, equipped with showers, add a touch of privacy and luxury.
+---
+title: "Hotel Bahamas"
+description: "Discover the serene oasis of Hotel Bahamas, a charming retreat perched on the edge of a private pebbly beach just a stone's throw from the vibrant town of Sarandë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989806.jpg?k=b69cf697fadbf44c58c02d2928b4cc8ac2eb675c6a95aa22fcbd974ef0e61c76&o=&hp=1"
+language: en
+slug: hotel-bahamas
+address: "Turizem - Kanali Cukes, 9703 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.84628943
+  lng: 20.0215745
+price: "US$54"
+priceFrom: 54
+starRating: 4
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 377
+ratings:
+  overall: 7.9
+  location: 8.2
+  cleanliness: 8
+  facilities: 7.6
+  value: 7.4
+  comfort: 8
+  staff: 8.3
+  wifi: 7.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989806.jpg?k=b69cf697fadbf44c58c02d2928b4cc8ac2eb675c6a95aa22fcbd974ef0e61c76&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/132072316.jpg?k=4ec6ebadc97407322a3560df4672278302307fefa42cbd6792def7fa9b05e684&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989820.jpg?k=9791cd5fc3d36fe7bb78b3d4b3098fb0e895edfba0800541a16904fb5dd129fa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989842.jpg?k=fc1e1e89d8c507b49cd22c04f2f3e3d06928aad2e29d5c2b01093419e322e0a9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989849.jpg?k=b7d73c53263c8346cef237d192973204326bda6f067d40b4fb81e070f518a938&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989775.jpg?k=9c6e03a0e341b3503111a27ecf782adf2d2eacecc98d7e85fb77c8e68295fdcd&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Private beach area"
+  - "Breakfast"
+roomTypes:
+  - "Panoramic Triple Room with Balcony and Sea View"
+  - "Triple Room with Balcony and Sea View"
+  - "Superior Triple Room with Balcony and Sea View"
+  - "Panoramic Quadruple Room with Balcony and Side Sea View"
+  - "Quadruple Room with Balcony and Side Sea View"
+  - "Superior Quadruple Room with Balcony and Side Sea View"
+  - "Family Suite with Balcony"
+nearbyRestaurants:
+  - "River View 350 m"
+  - "Bar Aliu 400 m"
+nearbyBeaches:
+  - "Mango Beach 400 m"
+  - "Flamingo Beach 900 m"
+  - "Heaven Beach 1.2 km"
+  - "Santa Quaranta Beach 1.3 km"
+  - "VIP Beach 1.4 km"
+whatsNearby:
+  - "Butrint National Park 50 m"
+  - "Parc National de Butrint 1.4 km"
+  - "Plazhi I Krorezes 5 km"
+  - "Parku Kombetar I Butrintit 9 km"
+  - "Butrint National Park 9 km"
+airports:
+  - "Corfu International Airport 28 km"
+  - "Ioannina Airport 69 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Natalia"
+    country: "United Kingdom"
+    text: "“We had a great stay here. We liked the beach, the pool and the breakfast. The water was a bit warm and we ventured to go swimming. However, the beach is not sandy. The staff was amiable and very helpful. The friendly manner of the hotel manager...”"
+  - name: "Siim"
+    country: "Estonia"
+    text: "“Staff was very friendly and helpful.
+Kids loved the pool, beach was close aswell”"
+  - name: "Federico"
+    country: "Ireland"
+    text: "“Hotel Bahamas was beyond my expectations. Everything was perfect!!! I booked a panoramic room for 2 people, the sea view when waking up every morning is priceless. I have to highlighted how spotless the room, lobby, restaurant, pool and beach...”"
+bookingURL: "https://www.booking.com/hotel/al/bahamas.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at Hotel Bahamas are thoughtfully designed with guest comfort in mind. Each air-conditioned room is equipped with modern amenities including cable TV, a refrigerator, and a private balcony, ensuring a stay that is both comfortable and convenient. The en-suite bathrooms, equipped with showers, add a touch of privacy and luxury.
 
 Culinary delights await at the hotel's on-site restaurant, where guests can savor traditional Albanian cuisine in a welcoming atmosphere. The adjacent bar provides a cozy spot for refreshing beverages and light snacks. For those seeking a bit of fun and activity, a beach volleyball court offers the chance to engage in some friendly competition.
 

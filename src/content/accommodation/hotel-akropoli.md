@@ -1,4 +1,107 @@
----\ntitle: "Hotel Akropoli"\ndescription: "Hotel Akropoli emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364284550.jpg?k=ae6d015bd39125057d68537946c4f93767857f30878c41c99f80ccd4c59fae71&o=&hp=1"\nlanguage: en\nslug: hotel-akropoli\naddress: "Durrsi street. Rruga Ali Bakiu Rruga \"Ali Bakiu\", Sheshi Shqiponja, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.338275\n  lng: 19.784258\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 368\nratings:\n  overall: 9\n  location: 8.2\n  cleanliness: 9\n  facilities: 8.6\n  value: 9\n  comfort: 8.8\n  staff: 9.6\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364284550.jpg?k=ae6d015bd39125057d68537946c4f93767857f30878c41c99f80ccd4c59fae71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364284620.jpg?k=a3f46bfe0bf0fa6f90e89d3deb94522014f7f0d428a241c53c47d8f154af53f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364009673.jpg?k=9953371074806d7a14d2afa1e7cea4ed40e05eb8d65ddfe4fb42c8ae1c23d12a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485778311.jpg?k=42df498c4a69f739cfde1894515b2bb3c26e5034e18b9afacf7f4614443f7f92&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193448953.jpg?k=1cd1f980e1e8027989d717db6318b8720bf671dbc3041052f24a41076807334a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376112660.jpg?k=90ddeb937c88f6f9e70b1b1bd6c6a22529e923ce449b2b8ada865d089f041ac7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364021649.jpg?k=a8449307b2ee4e292358f2881fa518899e0572e6b5c1ee36461e2f66254aeeb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491416781.jpg?k=db6f785b863d39c0404186c6b4d820e3855bf733e1ba2bb83eccfe1f02e774fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491416726.jpg?k=4634df491ba56216905252f9bd3a90e732452f9cbf5cd8b4aa442a1f11d0e87b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Superb breakfast"\nroomTypes:\n  - "Deluxe Double Room"\n  - "Family Room with Balcony"\n  - "Double Room with Balcony (3 Adults)"\n  - "Deluxe Triple Room"\nnearbyAttractions:\n  - "National Museum of History Albania 2.9 km"\n  - "House of Leaves 3 km"\n  - "Skanderbeg Square 3.1 km"\n  - "Clock Tower Tirana 3.2 km"\n  - "Rinia Park 3.2 km"\n  - "National Gallery of Arts Tirana 3.3 km"\n  - "Former Residence of Enver Hoxha 3.4 km"\n  - "Tanners' Bridge 3.7 km"\n  - "Grand Park of Tirana 4.5 km"\n  - "Bunk'Art 1 Museum 7 km"\nnearbyRestaurants:\n  - "Fast Food 150 m"\n  - "Bar Planet 350 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Lord Bajron 750 m"\n  - "Shesh Rekreativ Yzberisht 750 m"\n  - "Park Lojrash 750 m"\n  - "Sheshi Rekreativ Parku 1Km 1.3 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 1.8 km"\n  - "Sheshi Rekreativ Don Bosko 1.8 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1.9 km"\n  - "Sheshi Rekreativ Mine Peza 1.9 km"\n  - "Sheshi Rekreativ Sali Butka 2.1 km"\n  - "Sheshi Rekreativ Shefqet Musaraj 2.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 8 km"\n  - "Ohrid Airport 82 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Tomasz"\n    country: "Poland"\n    text: "“Breakfast was very good - this was the greatest omelett I've eaten in my life. Hospitable and very nice owner, welcomed us with tea. :) Worth the price.”"\n  - name: "Taslin"\n    country: "United Kingdom"\n    text: "“The hotel management personnel were excellent in their attitude and support. I felt very homely and the food were delicious. It is worthy to stay in the hotel considering the location and environment.”"\n  - name: "Alex"\n    country: "Canada"\n    text: "“The place is very good, not noisy, very clean. Beds are comfortable. The owner of the place is nice family who are very friendly and helpful. We arrived late night and they served us with hot tasty sandwiches. Nice breakfast with homemade bread....”"\nbookingURL: "https://www.booking.com/hotel/al/akropoli-tirana1.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe hotel prides itself on its commitment to service, featuring a 24-hour front desk, efficient airport transfers, attentive room service, and the convenience of free WiFi throughout the premises. Accommodations at Hotel Akropoli are thoughtfully designed, each equipped with a cozy seating area, a flat-screen TV with satellite channels, and a private bathroom complete with a hairdryer and bidet. Select units boast city views, and every room extends an invitation to the outdoors with its own balcony.
+---
+title: "Hotel Akropoli"
+description: "Hotel Akropoli emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364284550.jpg?k=ae6d015bd39125057d68537946c4f93767857f30878c41c99f80ccd4c59fae71&o=&hp=1"
+language: en
+slug: hotel-akropoli
+address: "Durrsi street. Rruga Ali Bakiu Rruga \"Ali Bakiu\", Sheshi Shqiponja, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.338275
+  lng: 19.784258
+price: "US$53"
+priceFrom: 53
+starRating: 3
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 368
+ratings:
+  overall: 9
+  location: 8.2
+  cleanliness: 9
+  facilities: 8.6
+  value: 9
+  comfort: 8.8
+  staff: 9.6
+  wifi: 9.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364284550.jpg?k=ae6d015bd39125057d68537946c4f93767857f30878c41c99f80ccd4c59fae71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364284620.jpg?k=a3f46bfe0bf0fa6f90e89d3deb94522014f7f0d428a241c53c47d8f154af53f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364009673.jpg?k=9953371074806d7a14d2afa1e7cea4ed40e05eb8d65ddfe4fb42c8ae1c23d12a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485778311.jpg?k=42df498c4a69f739cfde1894515b2bb3c26e5034e18b9afacf7f4614443f7f92&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193448953.jpg?k=1cd1f980e1e8027989d717db6318b8720bf671dbc3041052f24a41076807334a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376112660.jpg?k=90ddeb937c88f6f9e70b1b1bd6c6a22529e923ce449b2b8ada865d089f041ac7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364021649.jpg?k=a8449307b2ee4e292358f2881fa518899e0572e6b5c1ee36461e2f66254aeeb7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491416781.jpg?k=db6f785b863d39c0404186c6b4d820e3855bf733e1ba2bb83eccfe1f02e774fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491416726.jpg?k=4634df491ba56216905252f9bd3a90e732452f9cbf5cd8b4aa442a1f11d0e87b&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Superb breakfast"
+roomTypes:
+  - "Deluxe Double Room"
+  - "Family Room with Balcony"
+  - "Double Room with Balcony (3 Adults)"
+  - "Deluxe Triple Room"
+nearbyAttractions:
+  - "National Museum of History Albania 2.9 km"
+  - "House of Leaves 3 km"
+  - "Skanderbeg Square 3.1 km"
+  - "Clock Tower Tirana 3.2 km"
+  - "Rinia Park 3.2 km"
+  - "National Gallery of Arts Tirana 3.3 km"
+  - "Former Residence of Enver Hoxha 3.4 km"
+  - "Tanners' Bridge 3.7 km"
+  - "Grand Park of Tirana 4.5 km"
+  - "Bunk'Art 1 Museum 7 km"
+nearbyRestaurants:
+  - "Fast Food 150 m"
+  - "Bar Planet 350 m"
+whatsNearby:
+  - "Sheshi Rekreativ Lord Bajron 750 m"
+  - "Shesh Rekreativ Yzberisht 750 m"
+  - "Park Lojrash 750 m"
+  - "Sheshi Rekreativ Parku 1Km 1.3 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 1.8 km"
+  - "Sheshi Rekreativ Don Bosko 1.8 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 1.9 km"
+  - "Sheshi Rekreativ Mine Peza 1.9 km"
+  - "Sheshi Rekreativ Sali Butka 2.1 km"
+  - "Sheshi Rekreativ Shefqet Musaraj 2.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 8 km"
+  - "Ohrid Airport 82 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Tomasz"
+    country: "Poland"
+    text: "“Breakfast was very good - this was the greatest omelett I've eaten in my life. Hospitable and very nice owner, welcomed us with tea. :) Worth the price.”"
+  - name: "Taslin"
+    country: "United Kingdom"
+    text: "“The hotel management personnel were excellent in their attitude and support. I felt very homely and the food were delicious. It is worthy to stay in the hotel considering the location and environment.”"
+  - name: "Alex"
+    country: "Canada"
+    text: "“The place is very good, not noisy, very clean. Beds are comfortable. The owner of the place is nice family who are very friendly and helpful. We arrived late night and they served us with hot tasty sandwiches. Nice breakfast with homemade bread....”"
+bookingURL: "https://www.booking.com/hotel/al/akropoli-tirana1.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The hotel prides itself on its commitment to service, featuring a 24-hour front desk, efficient airport transfers, attentive room service, and the convenience of free WiFi throughout the premises. Accommodations at Hotel Akropoli are thoughtfully designed, each equipped with a cozy seating area, a flat-screen TV with satellite channels, and a private bathroom complete with a hairdryer and bidet. Select units boast city views, and every room extends an invitation to the outdoors with its own balcony.
 
 Guests can start their day with a choice of continental or American breakfast, setting the tone for a day of exploration or relaxation. For those looking to explore the area on two wheels or by car, the hotel offers bike and car rental services, with the surrounding area being popular among cycling enthusiasts.
 

@@ -1,4 +1,93 @@
----\ntitle: "Hotel Oresti Center"\ndescription: "Discover the charm of Hotel Oresti Center, a gem located in the heart of Tirana, merely steps away from the iconic Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124634016.jpg?k=ed209d5591f3611ecabca9960ef228f2f68553b5dfafd4589508090fc2ddb9ae&o=&hp=1"\nlanguage: en\nslug: hotel-oresti-center\naddress: "Str. BARDHOK BIBA ,12 TIRANA, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33079166\n  lng: 19.81956527\nprice: "US$125"\npriceFrom: 125\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 1322\nratings:\n  overall: 9.5\n  location: 9.8\n  cleanliness: 9.6\n  facilities: 9.2\n  value: 9.3\n  comfort: 9.5\n  staff: 9.6\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124634016.jpg?k=ed209d5591f3611ecabca9960ef228f2f68553b5dfafd4589508090fc2ddb9ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124631994.jpg?k=0cc49aa49e5b8b417f960a4eaad474cb1dfa7a93deb1ad83cb16607758dd8ddf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350350224.jpg?k=6a04f40e53cc951d314897364e5b26d93a4f9ac9dd2d731cadbef74ce1fb6c1c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350350178.jpg?k=e304237b20766f53a57bb555cc62f99fe7ed4c8389b025f17e865be148a50fe7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325032564.jpg?k=339469dcc3d6a40e0a62c6322114bbd73d9bcdb6a9a4c241a4bc06efe17da49a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312698196.jpg?k=19a56cb84e572febd57e84e1f4f7d03b3b4018705bc4a4d5f239fc538474f4be&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Superior Quadruple Room"\nnearbyAttractions:\n  - "Rinia Park 700 m"\n  - "Tanners' Bridge 700 m"\n  - "Former Residence of Enver Hoxha 1.1 km"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4 km"\nnearbyRestaurants:\n  - "Bar Restorant Korça 30 m"\n  - "Degusto 50 m"\nwhatsNearby:\n  - "National Museum of History Albania 250 m"\n  - "Sheshi Skënderbej 300 m"\n  - "Amazing Nature 300 m"\n  - "Sheshi Sulejman Pasha 300 m"\n  - "Skanderbeg Square 350 m"\n  - "Clock Tower Tirana 350 m"\n  - "Parku Europa 350 m"\n  - "Sheshi Paris 400 m"\n  - "National Gallery of Arts Tirana 500 m"\n  - "House of Leaves 500 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Natalia"\n    country: "Poland"\n    text: "“Everything was perfect. From the check in to the check out. Friendly staff and highly focused on great customer service. Thank you”"\n  - name: "Nikolaos"\n    country: "Greece"\n    text: "“Location, proximity to the City centre, nice and kind staff, clean room”"\n  - name: "Leo"\n    country: "Hungary"\n    text: "“This was the second time we stayed in this hotel and if we go again to Tirana we would stay here again. The location is very convenient close to everything. The hotel looks new everything is modern good condition. The beds are comfortable....”"\nbookingURL: "https://www.booking.com/hotel/al/center-rooms-oresti.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nEach room at Hotel Oresti Center is thoughtfully equipped with an LCD TV featuring satellite channels, ensuring entertainment is always at your fingertips. A fridge in every room adds an extra layer of convenience for guests, making it easy to keep snacks and beverages cool. The inclusion of private bathrooms with showers in all accommodations underscores the hotel's attention to guest comfort and privacy.
+---
+title: "Hotel Oresti Center"
+description: "Discover the charm of Hotel Oresti Center, a gem located in the heart of Tirana, merely steps away from the iconic Skanderbeg Square."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124634016.jpg?k=ed209d5591f3611ecabca9960ef228f2f68553b5dfafd4589508090fc2ddb9ae&o=&hp=1"
+language: en
+slug: hotel-oresti-center
+address: "Str. BARDHOK BIBA ,12 TIRANA, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.33079166
+  lng: 19.81956527
+price: "US$125"
+priceFrom: 125
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 1322
+ratings:
+  overall: 9.5
+  location: 9.8
+  cleanliness: 9.6
+  facilities: 9.2
+  value: 9.3
+  comfort: 9.5
+  staff: 9.6
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124634016.jpg?k=ed209d5591f3611ecabca9960ef228f2f68553b5dfafd4589508090fc2ddb9ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124631994.jpg?k=0cc49aa49e5b8b417f960a4eaad474cb1dfa7a93deb1ad83cb16607758dd8ddf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350350224.jpg?k=6a04f40e53cc951d314897364e5b26d93a4f9ac9dd2d731cadbef74ce1fb6c1c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350350178.jpg?k=e304237b20766f53a57bb555cc62f99fe7ed4c8389b025f17e865be148a50fe7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325032564.jpg?k=339469dcc3d6a40e0a62c6322114bbd73d9bcdb6a9a4c241a4bc06efe17da49a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312698196.jpg?k=19a56cb84e572febd57e84e1f4f7d03b3b4018705bc4a4d5f239fc538474f4be&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Superior Quadruple Room"
+nearbyAttractions:
+  - "Rinia Park 700 m"
+  - "Tanners' Bridge 700 m"
+  - "Former Residence of Enver Hoxha 1.1 km"
+  - "Grand Park of Tirana 2.1 km"
+  - "Bunk'Art 1 Museum 4 km"
+nearbyRestaurants:
+  - "Bar Restorant Korça 30 m"
+  - "Degusto 50 m"
+whatsNearby:
+  - "National Museum of History Albania 250 m"
+  - "Sheshi Skënderbej 300 m"
+  - "Amazing Nature 300 m"
+  - "Sheshi Sulejman Pasha 300 m"
+  - "Skanderbeg Square 350 m"
+  - "Clock Tower Tirana 350 m"
+  - "Parku Europa 350 m"
+  - "Sheshi Paris 400 m"
+  - "National Gallery of Arts Tirana 500 m"
+  - "House of Leaves 500 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Natalia"
+    country: "Poland"
+    text: "“Everything was perfect. From the check in to the check out. Friendly staff and highly focused on great customer service. Thank you”"
+  - name: "Nikolaos"
+    country: "Greece"
+    text: "“Location, proximity to the City centre, nice and kind staff, clean room”"
+  - name: "Leo"
+    country: "Hungary"
+    text: "“This was the second time we stayed in this hotel and if we go again to Tirana we would stay here again. The location is very convenient close to everything. The hotel looks new everything is modern good condition. The beds are comfortable....”"
+bookingURL: "https://www.booking.com/hotel/al/center-rooms-oresti.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Each room at Hotel Oresti Center is thoughtfully equipped with an LCD TV featuring satellite channels, ensuring entertainment is always at your fingertips. A fridge in every room adds an extra layer of convenience for guests, making it easy to keep snacks and beverages cool. The inclusion of private bathrooms with showers in all accommodations underscores the hotel's attention to guest comfort and privacy.
 
 For those who appreciate outdoor relaxation, the hotel's garden with a seating area provides a tranquil oasis in the middle of the urban excitement. It's a perfect spot to unwind after a day of exploring Tirana.
 

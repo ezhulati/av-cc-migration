@@ -1,4 +1,74 @@
----\ntitle: "Sion Saranda Apartment 19"\ndescription: "Sion Saranda Apartment 19 emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192147.jpg?k=8cecb9bb2f2620e211883b1539157bc328b13b46d9af57e2c03d480a558dd3d7&o=&hp=1"\nlanguage: en\nslug: sion-saranda-apartment-19\naddress: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87304272\n  lng: 20.01436124\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 7.5\nratingWords: "Good"\nnumberOfReviews: 1\nratings:\n  overall: 7.5\n  location: 10\n  cleanliness: 5\n  facilities: 7.5\n  value: 7.5\n  comfort: 7.5\n  staff: 7.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192147.jpg?k=8cecb9bb2f2620e211883b1539157bc328b13b46d9af57e2c03d480a558dd3d7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192187.jpg?k=332ab90d6cca54bde7676baa1c28757affe0512156f073bafe8340c9eebc999b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192180.jpg?k=c775c3e56752a42aabf9f8236c206eac3f71d7e3f9dc469d52b4aa5fd9a00146&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192200.jpg?k=31b7c291e8647f7459aa69f796ab7325175ba2b4f07a5c77bdc1684262cb35cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192191.jpg?k=5ada0b5c5dd2655c9788bedebc22468fde4cd4243ac363437ea5aed56c6804ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192186.jpg?k=7abedcd37103136936f34b80a757c7c5630efaa43d6c0987397617c9329359df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192206.jpg?k=b9acd5ac055ebb2aa3c81f80955ad0ad56d2e59e022dc246d5f5ce948e639ab6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192169.jpg?k=1ebe2ef7c9eaf7e68c0be9986509bf735c58b8e753cd32a0b27dafe293b57c12&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192150.jpg?k=55a3946892d1e6db9b67582a866f87226ed68071bd6657b34b3f9f2510a5a940&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Free WiFi"\nroomTypes:\n  - "Apartment"\nnearbyRestaurants:\n  - "TUNELI RESTAURANT 30 m"\n  - "Le 5 Stelle & Pizzeria 40 m"\nnearbyBeaches:\n  - "Saranda City Beach 100 m"\n  - "La Petite Beach 500 m"\n  - "Maestral Beach 650 m"\n  - "Sarande Main Beach 1.1 km"\n  - "VIP Beach 1.6 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.8 km"\n  - "Butrint National Park 2.7 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 71 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/sion-saranda-apartment-19.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis generously sized apartment is well-appointed with a bedroom that promises restful nights, a living area equipped with a satellite TV for entertainment, and a balcony that serves as a private vista to the sea and city's landscape. The kitchen doesn't disappoint either, being fully equipped with modern appliances including an oven, toaster, washing machine, fridge, and all necessary kitchenware, making self-catering a breeze. For added convenience, towels and bed linen are readily provided, ensuring a comfortable stay.
+---
+title: "Sion Saranda Apartment 19"
+description: "Sion Saranda Apartment 19 emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192147.jpg?k=8cecb9bb2f2620e211883b1539157bc328b13b46d9af57e2c03d480a558dd3d7&o=&hp=1"
+language: en
+slug: sion-saranda-apartment-19
+address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87304272
+  lng: 20.01436124
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 7.5
+ratingWords: "Good"
+numberOfReviews: 1
+ratings:
+  overall: 7.5
+  location: 10
+  cleanliness: 5
+  facilities: 7.5
+  value: 7.5
+  comfort: 7.5
+  staff: 7.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192147.jpg?k=8cecb9bb2f2620e211883b1539157bc328b13b46d9af57e2c03d480a558dd3d7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192187.jpg?k=332ab90d6cca54bde7676baa1c28757affe0512156f073bafe8340c9eebc999b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192180.jpg?k=c775c3e56752a42aabf9f8236c206eac3f71d7e3f9dc469d52b4aa5fd9a00146&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192200.jpg?k=31b7c291e8647f7459aa69f796ab7325175ba2b4f07a5c77bdc1684262cb35cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192191.jpg?k=5ada0b5c5dd2655c9788bedebc22468fde4cd4243ac363437ea5aed56c6804ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192186.jpg?k=7abedcd37103136936f34b80a757c7c5630efaa43d6c0987397617c9329359df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192206.jpg?k=b9acd5ac055ebb2aa3c81f80955ad0ad56d2e59e022dc246d5f5ce948e639ab6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192169.jpg?k=1ebe2ef7c9eaf7e68c0be9986509bf735c58b8e753cd32a0b27dafe293b57c12&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192150.jpg?k=55a3946892d1e6db9b67582a866f87226ed68071bd6657b34b3f9f2510a5a940&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Free WiFi"
+roomTypes:
+  - "Apartment"
+nearbyRestaurants:
+  - "TUNELI RESTAURANT 30 m"
+  - "Le 5 Stelle & Pizzeria 40 m"
+nearbyBeaches:
+  - "Saranda City Beach 100 m"
+  - "La Petite Beach 500 m"
+  - "Maestral Beach 650 m"
+  - "Sarande Main Beach 1.1 km"
+  - "VIP Beach 1.6 km"
+whatsNearby:
+  - "Parc National de Butrint 1.8 km"
+  - "Butrint National Park 2.7 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 71 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/sion-saranda-apartment-19.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This generously sized apartment is well-appointed with a bedroom that promises restful nights, a living area equipped with a satellite TV for entertainment, and a balcony that serves as a private vista to the sea and city's landscape. The kitchen doesn't disappoint either, being fully equipped with modern appliances including an oven, toaster, washing machine, fridge, and all necessary kitchenware, making self-catering a breeze. For added convenience, towels and bed linen are readily provided, ensuring a comfortable stay.
 
 For those looking to explore the area at their own pace, the availability of a car rental service directly from the apartment adds a layer of ease to travel plans. Adventure seekers and nature lovers will find Butrint National Park, located 17 km away, an unmissable destination, rich in history and natural beauty.
 

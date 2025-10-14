@@ -1,4 +1,68 @@
----\ntitle: "dOn.2"\ndescription: "Discover the charm of Durrës with a stay at dOn."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822080.jpg?k=4ec807a1d274dc310258c4639354e8c5c4ebd68735be8c21e4ae719b27920e5e&o=&hp=1"\nlanguage: en\nslug: don-2\naddress: "Golem, durres 2, 2000 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.24969377\n  lng: 19.52279817\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822080.jpg?k=4ec807a1d274dc310258c4639354e8c5c4ebd68735be8c21e4ae719b27920e5e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822072.jpg?k=61b9b2f0e7e356f28407525e1f0868e7afb62dd155b99f0ac81a0d07cc593e00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822065.jpg?k=29b0595294307fedf2630fc5fb6cc3efad6330b0d5d2c14c2ae1d37f609b5a00&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515486638.jpg?k=11ed8b43c2dd9c9f9ed4994fe29709db44cd6fd755046a3c0ac2fe4cccded92f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515485361.jpg?k=898ecc8210a1e1ead5187b443beb5b0d99ed31aa34496d3d284a7f54a8dd1906&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515486637.jpg?k=9fbb8b489a1863afb2e2a8001274226a024a1b4a19891cb6134204d37d8e03a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822023.jpg?k=8ee158f8ddea14b4294c4004357b8225d1b3b0f47afb355899cf7a50da87dbf7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515486636.jpg?k=57c035fb585c57cb3330d4592ce0cba95373dd41bf3490d311e9418cec1071d5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515485268.jpg?k=109ad85103811a8560fda30aaec6a641969cbc2f94cfb3001d334fc4f4d7e170&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Pizza Valledoria 200 m"\n  - "Alto Mare 200 m"\nnearbyBeaches:\n  - "Golem Beach 200 m"\n  - "Mali I Robit Beach 300 m"\n  - "Shkëmbi i Kavajës Beach 1.8 km"\n  - "Qerret Beach 2.3 km"\n  - "Durres Beach 4.2 km"\nwhatsNearby:\n  - "Bekimi 10 km"\n  - "Durres Amphiteatre 10 km"\n  - "Wine Dhe Pooh 10 km"\n  - "1. Maj 10 km"\n  - "Yje Dhe Hena 10 km"\n  - "Sheshi Demokracia 10 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nbookingURL: "https://www.booking.com/hotel/al/don-2.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis holiday home doesn't just boast an enviable location; it's a haven of comfort too. Guests are welcomed into a space that features two separate bedrooms, ensuring privacy and tranquility. The living room invites relaxation, while the fully equipped kitchen caters to those who love to cook. Modern conveniences haven't been overlooked, with air conditioning for those warmer days and a flat-screen TV for entertainment evenings. The commitment to a smoke-free environment ensures a pleasant stay for all guests.
+---
+title: "dOn.2"
+description: "Discover the charm of Durrës with a stay at dOn."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822080.jpg?k=4ec807a1d274dc310258c4639354e8c5c4ebd68735be8c21e4ae719b27920e5e&o=&hp=1"
+language: en
+slug: don-2
+address: "Golem, durres 2, 2000 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.24969377
+  lng: 19.52279817
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822080.jpg?k=4ec807a1d274dc310258c4639354e8c5c4ebd68735be8c21e4ae719b27920e5e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822072.jpg?k=61b9b2f0e7e356f28407525e1f0868e7afb62dd155b99f0ac81a0d07cc593e00&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822065.jpg?k=29b0595294307fedf2630fc5fb6cc3efad6330b0d5d2c14c2ae1d37f609b5a00&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515486638.jpg?k=11ed8b43c2dd9c9f9ed4994fe29709db44cd6fd755046a3c0ac2fe4cccded92f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515485361.jpg?k=898ecc8210a1e1ead5187b443beb5b0d99ed31aa34496d3d284a7f54a8dd1906&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515486637.jpg?k=9fbb8b489a1863afb2e2a8001274226a024a1b4a19891cb6134204d37d8e03a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488822023.jpg?k=8ee158f8ddea14b4294c4004357b8225d1b3b0f47afb355899cf7a50da87dbf7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515486636.jpg?k=57c035fb585c57cb3330d4592ce0cba95373dd41bf3490d311e9418cec1071d5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515485268.jpg?k=109ad85103811a8560fda30aaec6a641969cbc2f94cfb3001d334fc4f4d7e170&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Pizza Valledoria 200 m"
+  - "Alto Mare 200 m"
+nearbyBeaches:
+  - "Golem Beach 200 m"
+  - "Mali I Robit Beach 300 m"
+  - "Shkëmbi i Kavajës Beach 1.8 km"
+  - "Qerret Beach 2.3 km"
+  - "Durres Beach 4.2 km"
+whatsNearby:
+  - "Bekimi 10 km"
+  - "Durres Amphiteatre 10 km"
+  - "Wine Dhe Pooh 10 km"
+  - "1. Maj 10 km"
+  - "Yje Dhe Hena 10 km"
+  - "Sheshi Demokracia 10 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+bookingURL: "https://www.booking.com/hotel/al/don-2.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This holiday home doesn't just boast an enviable location; it's a haven of comfort too. Guests are welcomed into a space that features two separate bedrooms, ensuring privacy and tranquility. The living room invites relaxation, while the fully equipped kitchen caters to those who love to cook. Modern conveniences haven't been overlooked, with air conditioning for those warmer days and a flat-screen TV for entertainment evenings. The commitment to a smoke-free environment ensures a pleasant stay for all guests.
 
 Connectivity is seamless, with free WiFi available throughout the property, ensuring that guests can stay in touch with the world or plan their next day's adventures with ease. For those looking to explore further, the House of Leaves and Rinia Park are both within a similar distance, offering cultural insights and green escapes.
 

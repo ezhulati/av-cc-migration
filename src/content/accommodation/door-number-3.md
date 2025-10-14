@@ -1,4 +1,76 @@
----\ntitle: "Door number 3"\ndescription: "Door Number 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951723.jpg?k=8cf54defdb3858386c82d30abbddb855ca99ec53ab7891ba7fd3971dc981f1cd&o=&hp=1"\nlanguage: en\nslug: door-number-3\naddress: "Rruga Ramazan Kasa, 1057 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33405279\n  lng: 19.81182928\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 6.9\nratingWords: "Average"\nnumberOfReviews: 2\nratings:\n  overall: 6.9\n  location: 7.5\n  cleanliness: 6.3\n  facilities: 5\n  value: 6.3\n  comfort: 6.3\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951723.jpg?k=8cf54defdb3858386c82d30abbddb855ca99ec53ab7891ba7fd3971dc981f1cd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951722.jpg?k=cd241f51e09f775a3d771b8ea248ad13dfc049f119e803902e8b03f75296f362&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951726.jpg?k=80a3608d24efc35a08355ee46b3c5c45b16ffda4cc7e93d2a39de78d1b97becf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951720.jpg?k=2d14aeb2c91cfae67b68064f4a8b9aa64312d4b0cd37d2ad052386a83e09b4e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481303311.jpg?k=160a115fcfeb3dcb14a50debd9ab57b8963b6d7ab20e72868c152d9f7e2c23a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515241824.jpg?k=73c651db85daa15cc2d5e78a6604a16dd200b9df41fa1426d674d0cc77fd4da8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518540497.jpg?k=0861d11ebb46cca3b19c97bcf741f81f6c5095ce0c40a550b84876af1712f5b6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481303307.jpg?k=f6c57c7633a1a33efb1ca8e7e15045cc90fe7219ac68c021d9885555d2a900b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951717.jpg?k=aa3601687decbdd5cc4eabab086772d49b5275d9181905b0c8c555b92aa70afc&o=&hp=1"\namenities:\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.1 km"\n  - "Rinia Park 1.2 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.7 km"\n  - "Bunk'Art 1 Museum 4.4 km"\nnearbyRestaurants:\n  - "Kantina Binjaket Winery Binjaket 8 m"\n  - "Byrektore 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 350 m"\n  - "Sheshi Rekreativ Don Bosko 500 m"\n  - "Sheshi Paris 600 m"\n  - "Amazing Nature 600 m"\n  - "National Museum of History Albania 700 m"\n  - "Sheshi Skënderbej 800 m"\n  - "House of Leaves 900 m"\n  - "Skanderbeg Square 950 m"\n  - "Parku Europa 950 m"\n  - "Clock Tower Tirana 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/kmy.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThis air-conditioned apartment boasts a well-appointed bedroom, a cozy living room, and a fully equipped kitchen that includes an oven and a kettle, ensuring guests feel at home. The bathroom is equipped with a shower and complimentary slippers, adding a touch of hospitality. Entertainment needs are met with a flat-screen TV, and the added benefit of a private entrance enhances the sense of privacy.
+---
+title: "Door number 3"
+description: "Door Number 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951723.jpg?k=8cf54defdb3858386c82d30abbddb855ca99ec53ab7891ba7fd3971dc981f1cd&o=&hp=1"
+language: en
+slug: door-number-3
+address: "Rruga Ramazan Kasa, 1057 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33405279
+  lng: 19.81182928
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 6.9
+ratingWords: "Average"
+numberOfReviews: 2
+ratings:
+  overall: 6.9
+  location: 7.5
+  cleanliness: 6.3
+  facilities: 5
+  value: 6.3
+  comfort: 6.3
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951723.jpg?k=8cf54defdb3858386c82d30abbddb855ca99ec53ab7891ba7fd3971dc981f1cd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951722.jpg?k=cd241f51e09f775a3d771b8ea248ad13dfc049f119e803902e8b03f75296f362&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951726.jpg?k=80a3608d24efc35a08355ee46b3c5c45b16ffda4cc7e93d2a39de78d1b97becf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951720.jpg?k=2d14aeb2c91cfae67b68064f4a8b9aa64312d4b0cd37d2ad052386a83e09b4e1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481303311.jpg?k=160a115fcfeb3dcb14a50debd9ab57b8963b6d7ab20e72868c152d9f7e2c23a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515241824.jpg?k=73c651db85daa15cc2d5e78a6604a16dd200b9df41fa1426d674d0cc77fd4da8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518540497.jpg?k=0861d11ebb46cca3b19c97bcf741f81f6c5095ce0c40a550b84876af1712f5b6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481303307.jpg?k=f6c57c7633a1a33efb1ca8e7e15045cc90fe7219ac68c021d9885555d2a900b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951717.jpg?k=aa3601687decbdd5cc4eabab086772d49b5275d9181905b0c8c555b92aa70afc&o=&hp=1"
+amenities:
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1.1 km"
+  - "Rinia Park 1.2 km"
+  - "Tanners' Bridge 1.5 km"
+  - "Former Residence of Enver Hoxha 1.5 km"
+  - "Grand Park of Tirana 2.7 km"
+  - "Bunk'Art 1 Museum 4.4 km"
+nearbyRestaurants:
+  - "Kantina Binjaket Winery Binjaket 8 m"
+  - "Byrektore 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 350 m"
+  - "Sheshi Rekreativ Don Bosko 500 m"
+  - "Sheshi Paris 600 m"
+  - "Amazing Nature 600 m"
+  - "National Museum of History Albania 700 m"
+  - "Sheshi Skënderbej 800 m"
+  - "House of Leaves 900 m"
+  - "Skanderbeg Square 950 m"
+  - "Parku Europa 950 m"
+  - "Clock Tower Tirana 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/kmy.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+This air-conditioned apartment boasts a well-appointed bedroom, a cozy living room, and a fully equipped kitchen that includes an oven and a kettle, ensuring guests feel at home. The bathroom is equipped with a shower and complimentary slippers, adding a touch of hospitality. Entertainment needs are met with a flat-screen TV, and the added benefit of a private entrance enhances the sense of privacy.
 
 Connectivity is seamless with free WiFi available throughout the property, ensuring guests stay connected with the world. For those keen on delving into the local culture, the apartment is conveniently located near the House of Leaves, the National Theatre of Opera and Ballet of Albania, and the Clock Tower Tirana, offering a deep dive into Albania's rich history and vibrant arts scene.
 

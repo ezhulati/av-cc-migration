@@ -1,4 +1,88 @@
----\ntitle: "HOLIDAY APARTMENTS Vlore"\ndescription: "HOLIDAY APARTMENTS Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373629.jpg?k=fa058134785872242044121f31ab1ce7e2322821ce5d5935e4fa5f3598158f37&o=&hp=1"\nlanguage: en\nslug: holiday-apartments-vlore\naddress: "uje i ftohte vlore, 9402 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.41625288\n  lng: 19.485653\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 8.2\nratingWords: "Very Good"\nnumberOfReviews: 64\nratings:\n  overall: 8.2\n  location: 8.2\n  cleanliness: 8.3\n  facilities: 8.1\n  value: 8.2\n  comfort: 8.5\n  staff: 8.8\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373629.jpg?k=fa058134785872242044121f31ab1ce7e2322821ce5d5935e4fa5f3598158f37&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240836891.jpg?k=2093b0d2db9ff032348b70cfb04f56235e695b2698d3ad50780feb5c90729ecf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/243832433.jpg?k=79bbce12bed8a465c55c4f0dbe16456cfc39891555c8e94597cb716e9d38b12f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373852.jpg?k=35fbc691be5677bce3a7c3dcfc110a9f32f4c49531be4bab4b091683a4b71d42&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240838365.jpg?k=33bd03f62c119eab823219aacbcd36840f18d22f0e03c5701e1a95a339001513&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/243833799.jpg?k=c7cce7683291909d77f74cbaa95d474afc13c808c325f426cecb0d54c943976b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240858443.jpg?k=9febb2186fd079ce3d197d0bcdfdf0e234959931af653e457539c3668170bc8d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373403.jpg?k=efd833da751d783ea975befe29392c0ca11b9bc5482d7db1e067edb47423ba70&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435247187.jpg?k=4f40fe60d3450b94f04b3bec285470e6e579a969d5eedf19b97cab9175e5655a&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Spa and wellness centre"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Fast free WiFi (58 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Apartment"\n  - "Apartment with Sea View"\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Perla E Jonit 10 m"\n  - "Movida 100 m"\nnearbyBeaches:\n  - "Beach at Government Villas 150 m"\n  - "Liro Beach 450 m"\n  - "Coco Bongo Beach 1.4 km"\n  - "Sunny Beach 1.6 km"\n  - "Ri Beach 1.7 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 2.4 km"\n  - "Kuzum Baba 6 km"\n  - "Independence Square 6 km"\nairports:\n  - "Corfu International Airport 96 km"\nreviews:\n  - name: "Martin"\n    country: "Italy"\n    text: "“The location was perfect. Apartment was very clean. Everything was right”"\n  - name: "Arifi"\n    country: "Albania"\n    text: "“Nice area of the city, close to the beach and swimming pool on the site(with payment) but clean and water slide.”"\n  - name: "Arifi"\n    country: "Albania"\n    text: "“Big apartment and new. Spa was amazing, costs only 20€. I recomend”"\nbookingURL: "https://www.booking.com/hotel/al/diamond-hill-apartaments-vlore.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe accommodations at HOLIDAY APARTMENTS Vlore are designed with guest comfort in mind, featuring air conditioning, fully equipped kitchens with dining areas, flat-screen TVs, and private bathrooms stocked with complimentary toiletries. Select units elevate the experience further, boasting balconies that provide stunning sea views and outdoor dining areas, perfect for enjoying a meal with a view. Additionally, the provision of bed linen and towels in each unit adds a touch of home-like comfort.
+---
+title: "HOLIDAY APARTMENTS Vlore"
+description: "HOLIDAY APARTMENTS Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373629.jpg?k=fa058134785872242044121f31ab1ce7e2322821ce5d5935e4fa5f3598158f37&o=&hp=1"
+language: en
+slug: holiday-apartments-vlore
+address: "uje i ftohte vlore, 9402 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.41625288
+  lng: 19.485653
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 8.2
+ratingWords: "Very Good"
+numberOfReviews: 64
+ratings:
+  overall: 8.2
+  location: 8.2
+  cleanliness: 8.3
+  facilities: 8.1
+  value: 8.2
+  comfort: 8.5
+  staff: 8.8
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373629.jpg?k=fa058134785872242044121f31ab1ce7e2322821ce5d5935e4fa5f3598158f37&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240836891.jpg?k=2093b0d2db9ff032348b70cfb04f56235e695b2698d3ad50780feb5c90729ecf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/243832433.jpg?k=79bbce12bed8a465c55c4f0dbe16456cfc39891555c8e94597cb716e9d38b12f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373852.jpg?k=35fbc691be5677bce3a7c3dcfc110a9f32f4c49531be4bab4b091683a4b71d42&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240838365.jpg?k=33bd03f62c119eab823219aacbcd36840f18d22f0e03c5701e1a95a339001513&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/243833799.jpg?k=c7cce7683291909d77f74cbaa95d474afc13c808c325f426cecb0d54c943976b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240858443.jpg?k=9febb2186fd079ce3d197d0bcdfdf0e234959931af653e457539c3668170bc8d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373403.jpg?k=efd833da751d783ea975befe29392c0ca11b9bc5482d7db1e067edb47423ba70&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435247187.jpg?k=4f40fe60d3450b94f04b3bec285470e6e579a969d5eedf19b97cab9175e5655a&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Spa and wellness centre"
+  - "Fitness centre"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Fast free WiFi (58 Mbps)"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Apartment"
+  - "Apartment with Sea View"
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Perla E Jonit 10 m"
+  - "Movida 100 m"
+nearbyBeaches:
+  - "Beach at Government Villas 150 m"
+  - "Liro Beach 450 m"
+  - "Coco Bongo Beach 1.4 km"
+  - "Sunny Beach 1.6 km"
+  - "Ri Beach 1.7 km"
+whatsNearby:
+  - "Scooby Doo Vlore 2.4 km"
+  - "Kuzum Baba 6 km"
+  - "Independence Square 6 km"
+airports:
+  - "Corfu International Airport 96 km"
+reviews:
+  - name: "Martin"
+    country: "Italy"
+    text: "“The location was perfect. Apartment was very clean. Everything was right”"
+  - name: "Arifi"
+    country: "Albania"
+    text: "“Nice area of the city, close to the beach and swimming pool on the site(with payment) but clean and water slide.”"
+  - name: "Arifi"
+    country: "Albania"
+    text: "“Big apartment and new. Spa was amazing, costs only 20€. I recomend”"
+bookingURL: "https://www.booking.com/hotel/al/diamond-hill-apartaments-vlore.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The accommodations at HOLIDAY APARTMENTS Vlore are designed with guest comfort in mind, featuring air conditioning, fully equipped kitchens with dining areas, flat-screen TVs, and private bathrooms stocked with complimentary toiletries. Select units elevate the experience further, boasting balconies that provide stunning sea views and outdoor dining areas, perfect for enjoying a meal with a view. Additionally, the provision of bed linen and towels in each unit adds a touch of home-like comfort.
 
 Guests at HOLIDAY APARTMENTS Vlore can start their day on the right note with a choice of breakfast options, including continental, Full English/Irish, or Italian, served every morning on the property. The presence of a coffee shop and a minimarket on-site adds to the convenience, ensuring guests have easy access to quick bites and essentials during their stay.
 

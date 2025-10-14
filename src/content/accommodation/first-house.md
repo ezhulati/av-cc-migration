@@ -1,4 +1,80 @@
----\ntitle: "First House"\ndescription: "First House stands as a prime beachfront destination in Himare, mere steps away from the pristine Spille Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204994849.jpg?k=64f4ddfbc28d9b5130b5f754eb953e63a7a0cad3011e7fc48d3e1b1126c6344e&o=&hp=1"\nlanguage: en\nslug: first-house\naddress: "SH8 20, 9425 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.10059388\n  lng: 19.74790213\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 220\nratings:\n  overall: 9.5\n  location: 9.3\n  cleanliness: 9.7\n  facilities: 9.5\n  value: 9.1\n  comfort: 9.8\n  staff: 9.8\n  wifi: 9.6\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204994849.jpg?k=64f4ddfbc28d9b5130b5f754eb953e63a7a0cad3011e7fc48d3e1b1126c6344e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204995324.jpg?k=1d68c230b4a1522b8b1147fa8f274d19ef047b075c148b6217d3ec66e84630c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205001959.jpg?k=861dd3633017856d60b06bac56ceb3e890dddf3f5474750b9a46612f801aa465&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205001830.jpg?k=e69b088a825f5711ae88f754d9efa6bf6c55ef8f7731318c1cb0fc708761891d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204998896.jpg?k=0038c8f9d3c6988f06de64911bcb4628194e3d2b3e398214cae55bd65dfaf42c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205000046.jpg?k=b66ab326e68c253bd5b74f00a9de5d62b07d7b5c4247e4923637eca62fddea8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422307.jpg?k=b8c644471b8b825246a520e65e5039c4ea925ae43b992f7b65bd27df56730cfe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422183.jpg?k=13bacd3859f8e47c227539d01d1502b7acc787d69ed269fd7a1b06dfbcaa3cc5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422071.jpg?k=cf5d1fb3212a833280e9fabf9f69880af712da0823af66db7edbcb145d36d609&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422026.jpg?k=83a1f0e2e2d87807c8dd5bce6bfbfed22d483fa330dc61222f56de7d8f102c74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422006.jpg?k=2d4cff872b2dc972d191c53947b48546740dc104311053a3f5be772f5a2bd8d2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205421997.jpg?k=113828633159ad10d53eeb5f3e15d0307f4cc4f0def532ab3d2da0840b0d2e2e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Beachfront"\n  - "Fabulous breakfast"\nnearbyRestaurants:\n  - "La Famiglia Kreperi 50 m"\n  - "Valentino 50 m"\nnearbyBeaches:\n  - "Spille Beach 50 m"\n  - "Maracit Beach 100 m"\n  - "Prinos Beach 350 m"\n  - "Potam Beach 750 m"\n  - "Livadhi Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Erika"\n    country: "Romania"\n    text: "“Great design, really cozy, big, comfortable, clean room, good location, near to the beach, simple, but good breakfast, nice hosts.”"\n  - name: "Kat"\n    country: "Poland"\n    text: "“It was the best stay we had in Albania (out of 6 stays!). This place combines the best of Greece & Albania the owner is greek-albanian). Perfect location, very kind & attentive owner, very good breakfast. Wholeheartedly recommend, great value for...”"\n  - name: "Vendela"\n    country: "Norway"\n    text: "“Loved everything about our stay. The location was perfect, our room had a breath taking view and the staff was really kind and helpful. Breakfast was also really lovely.”"\nbookingURL: "https://www.booking.com/hotel/al/first-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nAccommodations at First House are thoughtfully equipped with modern comforts and conveniences. Each air-conditioned unit features a desk, a safety deposit box for valuables, and a flat-screen TV for entertainment. The inclusion of a balcony and a private bathroom with a walk-in shower adds to the appeal, providing a perfect blend of functionality and relaxation. Moreover, guests can savor the breathtaking sea views or opt for units that offer patios with outdoor dining areas, where the beauty of the surrounding mountains can be fully appreciated.
+---
+title: "First House"
+description: "First House stands as a prime beachfront destination in Himare, mere steps away from the pristine Spille Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204994849.jpg?k=64f4ddfbc28d9b5130b5f754eb953e63a7a0cad3011e7fc48d3e1b1126c6344e&o=&hp=1"
+language: en
+slug: first-house
+address: "SH8 20, 9425 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.10059388
+  lng: 19.74790213
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 220
+ratings:
+  overall: 9.5
+  location: 9.3
+  cleanliness: 9.7
+  facilities: 9.5
+  value: 9.1
+  comfort: 9.8
+  staff: 9.8
+  wifi: 9.6
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204994849.jpg?k=64f4ddfbc28d9b5130b5f754eb953e63a7a0cad3011e7fc48d3e1b1126c6344e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204995324.jpg?k=1d68c230b4a1522b8b1147fa8f274d19ef047b075c148b6217d3ec66e84630c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205001959.jpg?k=861dd3633017856d60b06bac56ceb3e890dddf3f5474750b9a46612f801aa465&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205001830.jpg?k=e69b088a825f5711ae88f754d9efa6bf6c55ef8f7731318c1cb0fc708761891d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204998896.jpg?k=0038c8f9d3c6988f06de64911bcb4628194e3d2b3e398214cae55bd65dfaf42c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205000046.jpg?k=b66ab326e68c253bd5b74f00a9de5d62b07d7b5c4247e4923637eca62fddea8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422307.jpg?k=b8c644471b8b825246a520e65e5039c4ea925ae43b992f7b65bd27df56730cfe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422183.jpg?k=13bacd3859f8e47c227539d01d1502b7acc787d69ed269fd7a1b06dfbcaa3cc5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422071.jpg?k=cf5d1fb3212a833280e9fabf9f69880af712da0823af66db7edbcb145d36d609&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422026.jpg?k=83a1f0e2e2d87807c8dd5bce6bfbfed22d483fa330dc61222f56de7d8f102c74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205422006.jpg?k=2d4cff872b2dc972d191c53947b48546740dc104311053a3f5be772f5a2bd8d2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205421997.jpg?k=113828633159ad10d53eeb5f3e15d0307f4cc4f0def532ab3d2da0840b0d2e2e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Beachfront"
+  - "Fabulous breakfast"
+nearbyRestaurants:
+  - "La Famiglia Kreperi 50 m"
+  - "Valentino 50 m"
+nearbyBeaches:
+  - "Spille Beach 50 m"
+  - "Maracit Beach 100 m"
+  - "Prinos Beach 350 m"
+  - "Potam Beach 750 m"
+  - "Livadhi Beach 1.5 km"
+whatsNearby:
+  - "Llogora National Park 17 km"
+airports:
+  - "Corfu International Airport 56 km"
+reviews:
+  - name: "Erika"
+    country: "Romania"
+    text: "“Great design, really cozy, big, comfortable, clean room, good location, near to the beach, simple, but good breakfast, nice hosts.”"
+  - name: "Kat"
+    country: "Poland"
+    text: "“It was the best stay we had in Albania (out of 6 stays!). This place combines the best of Greece & Albania the owner is greek-albanian). Perfect location, very kind & attentive owner, very good breakfast. Wholeheartedly recommend, great value for...”"
+  - name: "Vendela"
+    country: "Norway"
+    text: "“Loved everything about our stay. The location was perfect, our room had a breath taking view and the staff was really kind and helpful. Breakfast was also really lovely.”"
+bookingURL: "https://www.booking.com/hotel/al/first-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Accommodations at First House are thoughtfully equipped with modern comforts and conveniences. Each air-conditioned unit features a desk, a safety deposit box for valuables, and a flat-screen TV for entertainment. The inclusion of a balcony and a private bathroom with a walk-in shower adds to the appeal, providing a perfect blend of functionality and relaxation. Moreover, guests can savor the breathtaking sea views or opt for units that offer patios with outdoor dining areas, where the beauty of the surrounding mountains can be fully appreciated.
 
 Connectivity is never an issue, as complimentary WiFi is available throughout the property, ensuring guests can stay connected with the world or share their memorable moments with ease. The provision of bed linen and towels in each unit underscores the complex's attention to detail and commitment to guest comfort.
 

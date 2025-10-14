@@ -1,4 +1,60 @@
----\ntitle: "Minty Apartment - 145"\ndescription: "Minty Apartment - 145 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281523091.jpg?k=5139cab5041081a34d1843a81034d520ee080b4f82c4275063ae73da254216fb&o=&hp=1"\nlanguage: en\nslug: minty-apartment-145\naddress: "Perla Resort, Gjiri i Lalzit, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.50638728\n  lng: 19.5199833\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 5.4\nratingWords: "Below Average"\nnumberOfReviews: 1\nratings:\n  overall: 5.4\n  location: 2.5\n  cleanliness: 10\n  facilities: 5\n  value: 5\n  comfort: 7.5\n  staff: 2.5\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281523091.jpg?k=5139cab5041081a34d1843a81034d520ee080b4f82c4275063ae73da254216fb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/281523069.jpg?k=bdd6468bcbd794c85c8fcbef917a367ac628c2f457b47ccc357698d04769612d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/281523099.jpg?k=010135a9b1431300112a338f4222d36a7e62f59560355b3248ed693fbfedeadb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/526076650.jpg?k=a93d8d5fd2aebb9695460f275094ce0ef614444e595f581f6cd863b3b2517619&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/281523090.jpg?k=a158a06cd052501ca4fadf0b95b83ee33a10ac2c6fc2e0f9b7ffd483a884289c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/281523074.jpg?k=0eb110e25ef525599f0e06af3acb503a4959527f240bcd34ca88c2f8ea331e9a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/281523130.jpg?k=0a7750812fff05c38fb36a4e2f61b01dd7c981639befac50cb4a5a26ef65a8db&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nnearbyBeaches:\n  - "Lalëz Bay Beach 450 m"\n  - "Rodoni Beach 9 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/minty-apartment-145.en-gb.html?aid=8035640"\nbestFor: "Best for Families"\nbestCategories: "Families"\ncategory: "Families"\n---\n\nThe accommodation boasts two well-appointed bedrooms, a functional kitchenette equipped with an oven and fridge, and a cozy seating area perfect for unwinding. Entertainment needs are met with a flat-screen TV, while two bathrooms, each with a bidet, ensure privacy and convenience. The inclusion of towels and bed linen adds a touch of home. Additionally, an outdoor dining area invites guests to enjoy meals under the open sky.
+---
+title: "Minty Apartment - 145"
+description: "Minty Apartment - 145 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281523091.jpg?k=5139cab5041081a34d1843a81034d520ee080b4f82c4275063ae73da254216fb&o=&hp=1"
+language: en
+slug: minty-apartment-145
+address: "Perla Resort, Gjiri i Lalzit, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.50638728
+  lng: 19.5199833
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 5.4
+ratingWords: "Below Average"
+numberOfReviews: 1
+ratings:
+  overall: 5.4
+  location: 2.5
+  cleanliness: 10
+  facilities: 5
+  value: 5
+  comfort: 7.5
+  staff: 2.5
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281523091.jpg?k=5139cab5041081a34d1843a81034d520ee080b4f82c4275063ae73da254216fb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/281523069.jpg?k=bdd6468bcbd794c85c8fcbef917a367ac628c2f457b47ccc357698d04769612d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/281523099.jpg?k=010135a9b1431300112a338f4222d36a7e62f59560355b3248ed693fbfedeadb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/526076650.jpg?k=a93d8d5fd2aebb9695460f275094ce0ef614444e595f581f6cd863b3b2517619&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/281523090.jpg?k=a158a06cd052501ca4fadf0b95b83ee33a10ac2c6fc2e0f9b7ffd483a884289c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/281523074.jpg?k=0eb110e25ef525599f0e06af3acb503a4959527f240bcd34ca88c2f8ea331e9a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/281523130.jpg?k=0a7750812fff05c38fb36a4e2f61b01dd7c981639befac50cb4a5a26ef65a8db&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Private beach area"
+nearbyBeaches:
+  - "Lalëz Bay Beach 450 m"
+  - "Rodoni Beach 9 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/minty-apartment-145.en-gb.html?aid=8035640"
+bestFor: "Best for Families"
+bestCategories: "Families"
+category: "Families"
+---
+
+The accommodation boasts two well-appointed bedrooms, a functional kitchenette equipped with an oven and fridge, and a cozy seating area perfect for unwinding. Entertainment needs are met with a flat-screen TV, while two bathrooms, each with a bidet, ensure privacy and convenience. The inclusion of towels and bed linen adds a touch of home. Additionally, an outdoor dining area invites guests to enjoy meals under the open sky.
 
 Convenience is further enhanced by an on-site minimarket, ensuring essentials are always within reach. Families will be delighted by the children's playground, promising fun and entertainment for the younger guests.
 

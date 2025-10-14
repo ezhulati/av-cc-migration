@@ -1,4 +1,83 @@
----\ntitle: "Hotel Vila Arbri"\ndescription: "Hotel Vila Arbri emerges as a charming retreat in the heart of Berat, boasting a serene garden that immediately sets the tone for a tranquil stay."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461693229.jpg?k=70102d81ce90035be0404ea722786d5b52e147a75e4747883ed141452056261a&o=&hp=1"\nlanguage: en\nslug: hotel-vila-arbri\naddress: "Rruga Thoma Bello, 5001 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.6997951\n  lng: 19.96535864\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 246\nratings:\n  overall: 9.2\n  location: 8.6\n  cleanliness: 9.7\n  facilities: 9.3\n  value: 9.6\n  comfort: 9.6\n  staff: 9.7\n  wifi: 8\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461693229.jpg?k=70102d81ce90035be0404ea722786d5b52e147a75e4747883ed141452056261a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256561836.jpg?k=ec3f145bfcba714d3dc468f3ee3471c8b0c47bbaae1a61d43b5a5a660b4b73c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257060990.jpg?k=c756b56d3b4605bd95bdedd3f8e404c26b8b06bea9ce32f9347bacf7c7b1681f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461542.jpg?k=002556274bd8bb60817ce943b5b38e23b1ff6e90b0f803a339d4c13997af3929&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460876353.jpg?k=f24265fbb3ae3778776a95c0258021710eef832f94135c1585c4f830ffd94f80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487285322.jpg?k=e5637e9868d6dfdb17d97e4787ed83fc15823656b00aedb50511aad1b0b46ead&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363451771.jpg?k=e4fde3800fd646b6bc738e99489ace88ba5f959b2424adcf52aff48c29a9a9a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257061311.jpg?k=3cb2a391138b91c45cf6c6b14136919618257fb396cf96aff879675ec2b2b535&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500701552.jpg?k=04a255267f43919820ac91964b5b106de0a771822ea20242453e609dc79a2b1f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372555472.jpg?k=0f164d5b1f2a2b456e339ab09185820f4cb1d2424101b52f4922cde3409a7ed9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474617585.jpg?k=752b32da399d11719535910944b9b3a78be29ca6dc4c08472bdd9919c8e54dd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461692750.jpg?k=84185a0470998d3e23308a0af38672b7f116f516af174a0c4412640a7af094c8&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\n  - "Superb breakfast"\nroomTypes:\n  - "Triple Room with Balcony"\n  - "Triple Room with Garden View"\n  - "Double Room with Balcony"\n  - "Mixed Dormitory Room"\n  - "Family Room"\nnearbyRestaurants:\n  - "Driloni 100 m"\n  - "Pizza Aksa 250 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 8 km"\n  - "Sheshi Tomorri 15 km"\nairports:\n  - "Tirana International Airport Mother Teresa 80 km"\n  - "Ohrid Airport 83 km"\nreviews:\n  - name: "Chouchou1709"\n    country: "Austria"\n    text: "“Everything was perfect. The 4 bed room was clean, enough towels and space, beds were comfortable, the shower great. The breakfast was very delicious. The host lady was very nice. Highly recommend!”"\n  - name: "Natalie"\n    country: "Australia"\n    text: "“Room was spacious and clean. Very comfortable stay for a few nights with a large balcony to enjoy. The hosts were accommodating and friendly. Greeted us on arrival and assisted with anything we needed such as arranging taxis.”"\n  - name: "Sani-jawad"\n    country: "United Kingdom"\n    text: "“The host was exceptionally friendly. The beds and pillows were very comfortable. Room was very clean. Breakfast in the outdoor garden was nice.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-arbri.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nAccommodations at Hotel Vila Arbri are thoughtfully designed with guest comfort in mind. Each room is equipped with modern amenities including air conditioning, a cozy seating area, and a flat-screen TV with an array of satellite channels. The inclusion of a safety deposit box adds an extra layer of security to guests' stay, while the private bathrooms feature a bidet, complimentary toiletries, and a hairdryer, ensuring a home-away-from-home experience. The provision of pristine bed linen and fluffy towels further enhances the comfort level.
+---
+title: "Hotel Vila Arbri"
+description: "Hotel Vila Arbri emerges as a charming retreat in the heart of Berat, boasting a serene garden that immediately sets the tone for a tranquil stay."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461693229.jpg?k=70102d81ce90035be0404ea722786d5b52e147a75e4747883ed141452056261a&o=&hp=1"
+language: en
+slug: hotel-vila-arbri
+address: "Rruga Thoma Bello, 5001 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.6997951
+  lng: 19.96535864
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 246
+ratings:
+  overall: 9.2
+  location: 8.6
+  cleanliness: 9.7
+  facilities: 9.3
+  value: 9.6
+  comfort: 9.6
+  staff: 9.7
+  wifi: 8
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461693229.jpg?k=70102d81ce90035be0404ea722786d5b52e147a75e4747883ed141452056261a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256561836.jpg?k=ec3f145bfcba714d3dc468f3ee3471c8b0c47bbaae1a61d43b5a5a660b4b73c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257060990.jpg?k=c756b56d3b4605bd95bdedd3f8e404c26b8b06bea9ce32f9347bacf7c7b1681f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463461542.jpg?k=002556274bd8bb60817ce943b5b38e23b1ff6e90b0f803a339d4c13997af3929&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460876353.jpg?k=f24265fbb3ae3778776a95c0258021710eef832f94135c1585c4f830ffd94f80&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487285322.jpg?k=e5637e9868d6dfdb17d97e4787ed83fc15823656b00aedb50511aad1b0b46ead&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363451771.jpg?k=e4fde3800fd646b6bc738e99489ace88ba5f959b2424adcf52aff48c29a9a9a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257061311.jpg?k=3cb2a391138b91c45cf6c6b14136919618257fb396cf96aff879675ec2b2b535&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500701552.jpg?k=04a255267f43919820ac91964b5b106de0a771822ea20242453e609dc79a2b1f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372555472.jpg?k=0f164d5b1f2a2b456e339ab09185820f4cb1d2424101b52f4922cde3409a7ed9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474617585.jpg?k=752b32da399d11719535910944b9b3a78be29ca6dc4c08472bdd9919c8e54dd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461692750.jpg?k=84185a0470998d3e23308a0af38672b7f116f516af174a0c4412640a7af094c8&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Free parking"
+  - "Family rooms"
+  - "Superb breakfast"
+roomTypes:
+  - "Triple Room with Balcony"
+  - "Triple Room with Garden View"
+  - "Double Room with Balcony"
+  - "Mixed Dormitory Room"
+  - "Family Room"
+nearbyRestaurants:
+  - "Driloni 100 m"
+  - "Pizza Aksa 250 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 8 km"
+  - "Sheshi Tomorri 15 km"
+airports:
+  - "Tirana International Airport Mother Teresa 80 km"
+  - "Ohrid Airport 83 km"
+reviews:
+  - name: "Chouchou1709"
+    country: "Austria"
+    text: "“Everything was perfect. The 4 bed room was clean, enough towels and space, beds were comfortable, the shower great. The breakfast was very delicious. The host lady was very nice. Highly recommend!”"
+  - name: "Natalie"
+    country: "Australia"
+    text: "“Room was spacious and clean. Very comfortable stay for a few nights with a large balcony to enjoy. The hosts were accommodating and friendly. Greeted us on arrival and assisted with anything we needed such as arranging taxis.”"
+  - name: "Sani-jawad"
+    country: "United Kingdom"
+    text: "“The host was exceptionally friendly. The beds and pillows were very comfortable. Room was very clean. Breakfast in the outdoor garden was nice.”"
+bookingURL: "https://www.booking.com/hotel/al/vila-arbri.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Accommodations at Hotel Vila Arbri are thoughtfully designed with guest comfort in mind. Each room is equipped with modern amenities including air conditioning, a cozy seating area, and a flat-screen TV with an array of satellite channels. The inclusion of a safety deposit box adds an extra layer of security to guests' stay, while the private bathrooms feature a bidet, complimentary toiletries, and a hairdryer, ensuring a home-away-from-home experience. The provision of pristine bed linen and fluffy towels further enhances the comfort level.
 
 One of the hotel's standout features is its terrace, offering a peaceful haven where guests can unwind and connect with the surrounding nature. The convenience of complimentary WiFi and private parking adds to the seamless experience, allowing visitors to stay connected and explore the area with ease.
 

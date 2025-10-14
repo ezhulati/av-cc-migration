@@ -1,4 +1,80 @@
----\ntitle: "Daily Apartment 2"\ndescription: "Daily Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263166.jpg?k=bde97025a6286eee7fbfa7bb5111c7f2f110b3e0de09c9c58ba69ac1ea707339&o=&hp=1"\nlanguage: en\nslug: daily-apartment-2\naddress: "Rruga Selaudin Zorba 2 floor, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3443519\n  lng: 19.83107422\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nrating: 7.8\nratingWords: "Good"\nnumberOfReviews: 4\nratings:\n  overall: 7.8\n  location: 7.5\n  cleanliness: 7.5\n  facilities: 8.1\n  value: 7.5\n  comfort: 8.1\n  staff: 8.1\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263166.jpg?k=bde97025a6286eee7fbfa7bb5111c7f2f110b3e0de09c9c58ba69ac1ea707339&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511262863.jpg?k=f8280263efc2abcb39a055165f9d18ab5e187d7ea275f0122282d8a7e93255c1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263179.jpg?k=def1a34cac3b5512645f0da434be959693f7e474febcba66603e02d17c075bb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263068.jpg?k=887e6f0cd2f30cc5421653c7f2b8e6abd009aa7b9103ca898cf3779f15b66d2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263077.jpg?k=b2814589889c44bfaa6f29b0f32e66e29d815e7b0aef8e5de8549ec1deb8ab4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353581671.jpg?k=1f3e84635d1f3fda536f02e1dd297a2002b25fdaede285cadd3f811879d604bc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511262868.jpg?k=b921280339e6b12e3217395a83b35378642e5efdf735e796accb5b85ca82c033&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263271.jpg?k=384ec0db68f2956b577ec38eaf170aac445280f637ce160cb368fe38f7ba8026&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353581697.jpg?k=e6d7e83dc2db3ffb01db93ce70ea8167f6d2cec7fda37e4628dbc06be738803f&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Skanderbeg Square 2.1 km"\n  - "National Gallery of Arts Tirana 2.2 km"\n  - "House of Leaves 2.3 km"\n  - "Rinia Park 2.4 km"\n  - "Bunk'Art 1 Museum 2.6 km"\n  - "Former Residence of Enver Hoxha 2.8 km"\n  - "Grand Park of Tirana 3.6 km"\nnearbyRestaurants:\n  - "Vila 5 200 m"\n  - "Nevada Caffe 300 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 600 m"\n  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"\n  - "Sheshi Jjosef Shtraus 1.1 km"\n  - "Amazing Nature 1.6 km"\n  - "Sheshi Rekreativ tek ish ATSh 1.8 km"\n  - "Sheshi Sulejman Pasha 1.9 km"\n  - "National Museum of History Albania 2 km"\n  - "Tanners' Bridge 2 km"\n  - "Clock Tower Tirana 2.1 km"\n  - "Sheshi Skënderbej 2.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\nbookingURL: "https://www.booking.com/hotel/al/daily-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself boasts a spacious layout, complete with air conditioning for those warm Albanian afternoons. Guests will appreciate the private balcony, offering a serene spot to unwind after a day of exploration. Complimentary WiFi ensures that staying connected is hassle-free, while the option for private parking adds an extra layer of convenience for those arriving by car.
+---
+title: "Daily Apartment 2"
+description: "Daily Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263166.jpg?k=bde97025a6286eee7fbfa7bb5111c7f2f110b3e0de09c9c58ba69ac1ea707339&o=&hp=1"
+language: en
+slug: daily-apartment-2
+address: "Rruga Selaudin Zorba 2 floor, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3443519
+  lng: 19.83107422
+price: "US$59"
+priceFrom: 59
+starRating: 3
+rating: 7.8
+ratingWords: "Good"
+numberOfReviews: 4
+ratings:
+  overall: 7.8
+  location: 7.5
+  cleanliness: 7.5
+  facilities: 8.1
+  value: 7.5
+  comfort: 8.1
+  staff: 8.1
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263166.jpg?k=bde97025a6286eee7fbfa7bb5111c7f2f110b3e0de09c9c58ba69ac1ea707339&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511262863.jpg?k=f8280263efc2abcb39a055165f9d18ab5e187d7ea275f0122282d8a7e93255c1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263179.jpg?k=def1a34cac3b5512645f0da434be959693f7e474febcba66603e02d17c075bb5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263068.jpg?k=887e6f0cd2f30cc5421653c7f2b8e6abd009aa7b9103ca898cf3779f15b66d2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263077.jpg?k=b2814589889c44bfaa6f29b0f32e66e29d815e7b0aef8e5de8549ec1deb8ab4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353581671.jpg?k=1f3e84635d1f3fda536f02e1dd297a2002b25fdaede285cadd3f811879d604bc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511262868.jpg?k=b921280339e6b12e3217395a83b35378642e5efdf735e796accb5b85ca82c033&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263271.jpg?k=384ec0db68f2956b577ec38eaf170aac445280f637ce160cb368fe38f7ba8026&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353581697.jpg?k=e6d7e83dc2db3ffb01db93ce70ea8167f6d2cec7fda37e4628dbc06be738803f&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Skanderbeg Square 2.1 km"
+  - "National Gallery of Arts Tirana 2.2 km"
+  - "House of Leaves 2.3 km"
+  - "Rinia Park 2.4 km"
+  - "Bunk'Art 1 Museum 2.6 km"
+  - "Former Residence of Enver Hoxha 2.8 km"
+  - "Grand Park of Tirana 3.6 km"
+nearbyRestaurants:
+  - "Vila 5 200 m"
+  - "Nevada Caffe 300 m"
+whatsNearby:
+  - "Sheshi Rekreativ Allias 600 m"
+  - "Sheshi Rekreativ Gjolek Kokona 1,000 m"
+  - "Sheshi Jjosef Shtraus 1.1 km"
+  - "Amazing Nature 1.6 km"
+  - "Sheshi Rekreativ tek ish ATSh 1.8 km"
+  - "Sheshi Sulejman Pasha 1.9 km"
+  - "National Museum of History Albania 2 km"
+  - "Tanners' Bridge 2 km"
+  - "Clock Tower Tirana 2.1 km"
+  - "Sheshi Skënderbej 2.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+bookingURL: "https://www.booking.com/hotel/al/daily-apartment-2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself boasts a spacious layout, complete with air conditioning for those warm Albanian afternoons. Guests will appreciate the private balcony, offering a serene spot to unwind after a day of exploration. Complimentary WiFi ensures that staying connected is hassle-free, while the option for private parking adds an extra layer of convenience for those arriving by car.
 
 Accommodation at Daily Apartment 2 includes a well-appointed bedroom, a fully equipped kitchen featuring an oven and a fridge, and a cozy seating area perfect for relaxing evenings in. The presence of a flat-screen TV ensures entertainment is always at hand. The bathroom, equipped with a bidet, underscores the apartment's commitment to comfort. For guests' convenience, towels and linens are available upon request.
 

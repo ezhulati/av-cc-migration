@@ -1,4 +1,77 @@
----\ntitle: "Hostel Utopia"\ndescription: "Hostel Utopia stands out as a vibrant oasis in the heart of Tirana, offering guests a unique blend of communal charm and modern amenities."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726019.jpg?k=791fdd2706cbb134fec390fa6c7b79ade01097ee6286f649de8746d8796f5cbc&o=&hp=1"\nlanguage: en\nslug: hostel-utopia\naddress: "Rruga e Durrësit, 1050 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hostel"\ncoordinates:\n  lat: 41.33221039\n  lng: 19.80948847\nprice: "US$11"\npriceFrom: 11\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726019.jpg?k=791fdd2706cbb134fec390fa6c7b79ade01097ee6286f649de8746d8796f5cbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726029.jpg?k=c9b59db75caa7b8644e3c7e08f4f9120950b9f85f3404fa983405864ed0d9a8a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520771075.jpg?k=ca5d552b8e2067db4c02d67dbfdebc5b304b77fee68f30962ae889238185ddb7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726014.jpg?k=0493fe82869d135b09cc5a470c3b4b1892a8f80c610419703cc9be6c6f6348f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726026.jpg?k=eb3e4b2499cf0e26d820a82b4e2ece586482d998e6274e46c65bf7338512e227&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726056.jpg?k=8bd6d8c14c7ee2cfc69fcfea6e34d0da529783bd21814d566910329ec3a98e53&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\nroomTypes:\n  - "Bunk Bed in Mixed Dormitory Room"\n  - "Bunk Bed in Mixed Dormitory Room"\n  - "Bunk Bed in Mixed Dormitory Room"\n  - "Bunk Bed in Female Dormitory Room"\nnearbyAttractions:\n  - "Rinia Park 1.1 km"\n  - "National Gallery of Arts Tirana 1.2 km"\n  - "Former Residence of Enver Hoxha 1.4 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 4.7 km"\nnearbyRestaurants:\n  - "Byrek Pica 50 m"\n  - "Natyr Albania 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Mine Peza 250 m"\n  - "Sheshi Rekreativ Don Bosko 500 m"\n  - "Sheshi Paris 550 m"\n  - "National Museum of History Albania 750 m"\n  - "Sheshi Skënderbej 800 m"\n  - "Amazing Nature 800 m"\n  - "House of Leaves 850 m"\n  - "Skanderbeg Square 950 m"\n  - "Parku Europa 950 m"\n  - "Clock Tower Tirana 1,000 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/hostel-utopia.en-gb.html?aid=8035640"\nbestFor: "Best for Budget"\nbestCategories: "Budget"\ncategory: "Budget"\n---\n\nStrategically positioned, Hostel Utopia allows easy access to some of Tirana's most sought-after attractions. Rinia Park, the National Theatre of Opera and Ballet of Albania, and the iconic Clock Tower of Tirana are just a stone's throw away. Moreover, the hostel's location a mere 1.1 km from the bustling Skanderbeg Square places guests in the perfect spot to explore the city's vibrant heart.
+---
+title: "Hostel Utopia"
+description: "Hostel Utopia stands out as a vibrant oasis in the heart of Tirana, offering guests a unique blend of communal charm and modern amenities."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726019.jpg?k=791fdd2706cbb134fec390fa6c7b79ade01097ee6286f649de8746d8796f5cbc&o=&hp=1"
+language: en
+slug: hostel-utopia
+address: "Rruga e Durrësit, 1050 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hostel"
+coordinates:
+  lat: 41.33221039
+  lng: 19.80948847
+price: "US$11"
+priceFrom: 11
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726019.jpg?k=791fdd2706cbb134fec390fa6c7b79ade01097ee6286f649de8746d8796f5cbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726029.jpg?k=c9b59db75caa7b8644e3c7e08f4f9120950b9f85f3404fa983405864ed0d9a8a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520771075.jpg?k=ca5d552b8e2067db4c02d67dbfdebc5b304b77fee68f30962ae889238185ddb7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726014.jpg?k=0493fe82869d135b09cc5a470c3b4b1892a8f80c610419703cc9be6c6f6348f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726026.jpg?k=eb3e4b2499cf0e26d820a82b4e2ece586482d998e6274e46c65bf7338512e227&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726056.jpg?k=8bd6d8c14c7ee2cfc69fcfea6e34d0da529783bd21814d566910329ec3a98e53&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+roomTypes:
+  - "Bunk Bed in Mixed Dormitory Room"
+  - "Bunk Bed in Mixed Dormitory Room"
+  - "Bunk Bed in Mixed Dormitory Room"
+  - "Bunk Bed in Female Dormitory Room"
+nearbyAttractions:
+  - "Rinia Park 1.1 km"
+  - "National Gallery of Arts Tirana 1.2 km"
+  - "Former Residence of Enver Hoxha 1.4 km"
+  - "Tanners' Bridge 1.5 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+nearbyRestaurants:
+  - "Byrek Pica 50 m"
+  - "Natyr Albania 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Mine Peza 250 m"
+  - "Sheshi Rekreativ Don Bosko 500 m"
+  - "Sheshi Paris 550 m"
+  - "National Museum of History Albania 750 m"
+  - "Sheshi Skënderbej 800 m"
+  - "Amazing Nature 800 m"
+  - "House of Leaves 850 m"
+  - "Skanderbeg Square 950 m"
+  - "Parku Europa 950 m"
+  - "Clock Tower Tirana 1,000 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/hostel-utopia.en-gb.html?aid=8035640"
+bestFor: "Best for Budget"
+bestCategories: "Budget"
+category: "Budget"
+---
+
+Strategically positioned, Hostel Utopia allows easy access to some of Tirana's most sought-after attractions. Rinia Park, the National Theatre of Opera and Ballet of Albania, and the iconic Clock Tower of Tirana are just a stone's throw away. Moreover, the hostel's location a mere 1.1 km from the bustling Skanderbeg Square places guests in the perfect spot to explore the city's vibrant heart.
 
 Accommodations at Hostel Utopia cater to a range of preferences, with each room boasting a shared bathroom equipped with modern conveniences such as a bidet and hairdryer. Select rooms elevate the experience further, featuring a kitchen complete with a microwave. Regardless of their choice, guests are assured comfort with provided bed linen and towels.
 

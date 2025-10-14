@@ -1,5 +1,90 @@
----\ntitle: "Cozy sunlit apartment with scenic balcony view"\ndescription: "Discover the charm of Tirana from the comfort of the Cozy Sunlit Apartment, a serene haven offering a scenic balcony view that captures the essence of city living."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046989.jpg?k=a72d944bc50366ad67668b2a5e2500f2a1e7384f9cba9baf4095cd3d0fe530d0&o=&hp=1"\nlanguage: en\nslug: cozy-sunlit-apartment-with-scenic-balcony-view\naddress: "8RJV+PM6, Rruga Shemsie Haka, Tirana 1001, Shqipëri, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33196932\n  lng: 19.84366189\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 10\nratings:\n  overall: 9.8\n  location: 9\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 9.8\n  staff: 10\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046989.jpg?k=a72d944bc50366ad67668b2a5e2500f2a1e7384f9cba9baf4095cd3d0fe530d0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467685291.jpg?k=cf6fabcff083971cdb45bff808d5457c92603d7ddceec250f7c17287bc09feca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467685959.jpg?k=2c851f634640574e9b5f43afe15e63ee8a7011ad199a42522442eb6b9361516e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046751.jpg?k=a9c9435c5fe2afeb279ce91083e73d8c03e619e23c70a7496519b305e1f5ebda&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467685412.jpg?k=92832b6ee6d42876128f1d48e25b74abb4b470bf5c707c08464482ca6ea61831&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432047001.jpg?k=05da2aa9feeca70623d73dbb3132c784870a00d05c1e0b65b96299ca1c67d3da&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046876.jpg?k=fdff1fd8b0fe06622d3dc64946284f78ef2839bf739e7e3eb9a87d209364c9f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432047004.jpg?k=0d607abf5f1dc0ef737239805b180bb29d44fbc4d3ffcf6d1213ba5fd4b7d245&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523086886.jpg?k=16c69507870e0454dd67ab147a435c2423890d23e4d4b49b4bba8c5dd48cafdf&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nnearbyAttractions:\n  - "Clock Tower Tirana 2.1 km"\n  - "Skanderbeg Square 2.1 km"\n  - "National Museum of History Albania 2.2 km"\n  - "Rinia Park 2.3 km"\n  - "House of Leaves 2.4 km"\n  - "Bunk'Art 1 Museum 2.4 km"\n  - "Former Residence of Enver Hoxha 2.5 km"\n  - "Grand Park of Tirana 2.7 km"\nnearbyRestaurants:\n  - "Bar Kafe Olsi 100 m"\n  - "A Chef 150 m"\nwhatsNearby:\n  - "Sheshi Jjosef Shtraus 700 m"\n  - "Sheshi Rekreativ Gjolek Kokona 900 m"\n  - "Sheshi Rekreativ tek ish ATSh 1.5 km"\n  - "Tanners' Bridge 1.6 km"\n  - "Sheshi Rekreativ Banesat Sociale 1.7 km"\n  - "Shesh Rekreativ 1.8 km"\n  - "Sheshi Sulejman Pasha 1.9 km"\n  - "Sheshi Rekreativ Allias 2 km"\n  - "Sheshi Rekreativ Piramida 2 km"\n  - "National Gallery of Arts Tirana 2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 12 km"\n  - "Ohrid Airport 77 km"\nreviews:\n  - name: "Maiia"\n    country: "Russia"\n    text: "“You can find everything for long stay here, from washing machine and iron to some kitchen staff and dishes. Like at home
-Irena, the owner, was so nice to us and helped us a lot. Even cared about giving us tv box to watch something cute for...”"\n  - name: "Xavi"\n    country: "Spain"\n    text: "“Todo perfecto, los dueños del apartamento muy atentos y nos dieron informacion sobre los autobuses, restaurantes y demas actividades por la zona”"\n  - name: "Andreas"\n    country: "Germany"\n    text: "“Tolle Kommunikation noch vor der Anreise! Problemlose Schlüsselübergabe, alles hat so geklappt, wie vorher erklärt. Die Wohnung ist sehr schön eingerichtet, richtig gemütlich. Direkt in der Nähe sind Einkaufsmöglichkeiten und Bars/Cafes....”"\nbookingURL: "https://www.booking.com/hotel/al/cozy-sunlit-apartment-with-scenic-balcony-view.en-gb.html?aid=8035640"\nbestFor: "Best for Quiet Retreats"\nbestCategories: "Quiet Retreats"\ncategory: "Quiet Retreats"\n---\n\nThe apartment itself is a masterpiece of comfort and convenience, featuring a spacious layout that includes a bedroom, a living room equipped with a flat-screen TV, and a fully equipped kitchen boasting an oven and a fridge. The inclusion of a bathroom with a bidet, along with complimentary towels and bed linen, ensures guests enjoy a hassle-free stay. The quiet street views from the balcony add a touch of tranquility to the urban setting, while the outdoor dining area invites guests to savor meals under the open sky.
+---
+title: "Cozy sunlit apartment with scenic balcony view"
+description: "Discover the charm of Tirana from the comfort of the Cozy Sunlit Apartment, a serene haven offering a scenic balcony view that captures the essence of city living."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046989.jpg?k=a72d944bc50366ad67668b2a5e2500f2a1e7384f9cba9baf4095cd3d0fe530d0&o=&hp=1"
+language: en
+slug: cozy-sunlit-apartment-with-scenic-balcony-view
+address: "8RJV+PM6, Rruga Shemsie Haka, Tirana 1001, Shqipëri, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33196932
+  lng: 19.84366189
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 10
+ratings:
+  overall: 9.8
+  location: 9
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 9.8
+  staff: 10
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046989.jpg?k=a72d944bc50366ad67668b2a5e2500f2a1e7384f9cba9baf4095cd3d0fe530d0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467685291.jpg?k=cf6fabcff083971cdb45bff808d5457c92603d7ddceec250f7c17287bc09feca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467685959.jpg?k=2c851f634640574e9b5f43afe15e63ee8a7011ad199a42522442eb6b9361516e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046751.jpg?k=a9c9435c5fe2afeb279ce91083e73d8c03e619e23c70a7496519b305e1f5ebda&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467685412.jpg?k=92832b6ee6d42876128f1d48e25b74abb4b470bf5c707c08464482ca6ea61831&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432047001.jpg?k=05da2aa9feeca70623d73dbb3132c784870a00d05c1e0b65b96299ca1c67d3da&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046876.jpg?k=fdff1fd8b0fe06622d3dc64946284f78ef2839bf739e7e3eb9a87d209364c9f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432047004.jpg?k=0d607abf5f1dc0ef737239805b180bb29d44fbc4d3ffcf6d1213ba5fd4b7d245&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523086886.jpg?k=16c69507870e0454dd67ab147a435c2423890d23e4d4b49b4bba8c5dd48cafdf&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+nearbyAttractions:
+  - "Clock Tower Tirana 2.1 km"
+  - "Skanderbeg Square 2.1 km"
+  - "National Museum of History Albania 2.2 km"
+  - "Rinia Park 2.3 km"
+  - "House of Leaves 2.4 km"
+  - "Bunk'Art 1 Museum 2.4 km"
+  - "Former Residence of Enver Hoxha 2.5 km"
+  - "Grand Park of Tirana 2.7 km"
+nearbyRestaurants:
+  - "Bar Kafe Olsi 100 m"
+  - "A Chef 150 m"
+whatsNearby:
+  - "Sheshi Jjosef Shtraus 700 m"
+  - "Sheshi Rekreativ Gjolek Kokona 900 m"
+  - "Sheshi Rekreativ tek ish ATSh 1.5 km"
+  - "Tanners' Bridge 1.6 km"
+  - "Sheshi Rekreativ Banesat Sociale 1.7 km"
+  - "Shesh Rekreativ 1.8 km"
+  - "Sheshi Sulejman Pasha 1.9 km"
+  - "Sheshi Rekreativ Allias 2 km"
+  - "Sheshi Rekreativ Piramida 2 km"
+  - "National Gallery of Arts Tirana 2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 12 km"
+  - "Ohrid Airport 77 km"
+reviews:
+  - name: "Maiia"
+    country: "Russia"
+    text: "“You can find everything for long stay here, from washing machine and iron to some kitchen staff and dishes. Like at home
+Irena, the owner, was so nice to us and helped us a lot. Even cared about giving us tv box to watch something cute for...”"
+  - name: "Xavi"
+    country: "Spain"
+    text: "“Todo perfecto, los dueños del apartamento muy atentos y nos dieron informacion sobre los autobuses, restaurantes y demas actividades por la zona”"
+  - name: "Andreas"
+    country: "Germany"
+    text: "“Tolle Kommunikation noch vor der Anreise! Problemlose Schlüsselübergabe, alles hat so geklappt, wie vorher erklärt. Die Wohnung ist sehr schön eingerichtet, richtig gemütlich. Direkt in der Nähe sind Einkaufsmöglichkeiten und Bars/Cafes....”"
+bookingURL: "https://www.booking.com/hotel/al/cozy-sunlit-apartment-with-scenic-balcony-view.en-gb.html?aid=8035640"
+bestFor: "Best for Quiet Retreats"
+bestCategories: "Quiet Retreats"
+category: "Quiet Retreats"
+---
+
+The apartment itself is a masterpiece of comfort and convenience, featuring a spacious layout that includes a bedroom, a living room equipped with a flat-screen TV, and a fully equipped kitchen boasting an oven and a fridge. The inclusion of a bathroom with a bidet, along with complimentary towels and bed linen, ensures guests enjoy a hassle-free stay. The quiet street views from the balcony add a touch of tranquility to the urban setting, while the outdoor dining area invites guests to savor meals under the open sky.
 
 For those looking to venture further, the Dajti Ekspres Cable Car is located just 4 km away, offering breathtaking views of the city from above. The historical Former Residence of Enver Hoxha is also within close proximity, situated 3.3 km from the apartment. For guests arriving by air, the Tirana International Mother Teresa Airport is conveniently 17 km away, ensuring easy access to and from the property.
 

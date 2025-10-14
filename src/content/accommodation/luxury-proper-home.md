@@ -1,4 +1,70 @@
----\ntitle: "Luxury Proper Home"\ndescription: "Luxury Proper Home stands out as a premier accommodation choice in Gjirokastër, offering guests a seamless blend of comfort and convenience with its modern amenities and thoughtful services."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804078.jpg?k=a6286b098c28d45399d3d3097d994dcf87eef544962203730d679dd467eb7e4a&o=&hp=1"\nlanguage: en\nslug: luxury-proper-home\naddress: "redonbime@hotmail.com, 6001 Gjirokastër, Albania"\ncity: "Gjirokastër"\nlocation: "Gjirokastër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.08233177\n  lng: 20.13932188\nprice: "US$53"\npriceFrom: 53\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.4\n  location: 9.4\n  cleanliness: 9.4\n  facilities: 9.2\n  value: 9.5\n  comfort: 9.2\n  staff: 9.2\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804078.jpg?k=a6286b098c28d45399d3d3097d994dcf87eef544962203730d679dd467eb7e4a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804135.jpg?k=86474a231bc96bbffd41f50d0e97d80523b962de2170678667e1df9fd9c3c857&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804133.jpg?k=374465d53884016c01dd2ad6958501a63381a4c4629ea43ff55755d28161970f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804142.jpg?k=23eb3d412b7036112a9e53cc2f7108b8d51f4ab0cd172046a7243292d670c866&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804131.jpg?k=bdc06a71f3ea923baf96d381c9cae9a075d48771308d81015667f343a5bb8002&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452069705.jpg?k=6a528011bf7cfb5d875a12d59af0078963e94a65f01f9162b9a7d53c6915b1cf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804118.jpg?k=a9db6b28b5dd4613e738d9b5704e3ff69829f817a7b2a35beffc2827ee75817c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804144.jpg?k=536d4bc0e2d15fe6cf17d088630f14a13abf8889ccbda33327a8bb219d94ce34&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804121.jpg?k=b0f4105a9c79700a38971a69ec80d2158fa0b770b5348f3ae9181876ceb8f351&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Free parking"\n  - "Family rooms"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "The Taste of the Sea 100 m"\n  - "Gold 150 m"\nairports:\n  - "Corfu International Airport 56 km"\n  - "Ioannina Airport 71 km"\nreviews:\n  - name: "Lorena"\n    country: "Albania"\n    text: "“The host was very nice. The appartment was the same as the photos here in booking, it was big and comfortable. And for location and value of money it's worth it.”"\n  - name: "Joy"\n    country: "Singapore"\n    text: "“Apartment was spacious, extremely clean, conveniently located yet quiet at night. Perfect if not for no hangers as mentioned, dirty dishes and its decrepit building with difficult locks and faulty elevator.”"\n  - name: "Graciela"\n    country: "Albania"\n    text: "“Cdo gje ishte perfekte, duke filluar qe tek arredimi, comforti, pastertia dhe komunikimi☺️. Zgjedhja ideale.”"\nbookingURL: "https://www.booking.com/hotel/al/proper-home-gjirokaster.en-gb.html?aid=8035640"\nbestFor: "Best for Luxury"\nbestCategories: "Luxury"\ncategory: "Luxury"\n---\n\nSet against the backdrop of the serene Zaravina Lake, just 44 km away, guests can enjoy the tranquility of the area while benefiting from the non-smoking environment that Luxury Proper Home prides itself on. Additionally, the provision of a picnic area adds a unique touch, allowing visitors to savor moments of leisure amidst picturesque settings.
+---
+title: "Luxury Proper Home"
+description: "Luxury Proper Home stands out as a premier accommodation choice in Gjirokastër, offering guests a seamless blend of comfort and convenience with its modern amenities and thoughtful services."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804078.jpg?k=a6286b098c28d45399d3d3097d994dcf87eef544962203730d679dd467eb7e4a&o=&hp=1"
+language: en
+slug: luxury-proper-home
+address: "redonbime@hotmail.com, 6001 Gjirokastër, Albania"
+city: "Gjirokastër"
+location: "Gjirokastër"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.08233177
+  lng: 20.13932188
+price: "US$53"
+priceFrom: 53
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 16
+ratings:
+  overall: 9.4
+  location: 9.4
+  cleanliness: 9.4
+  facilities: 9.2
+  value: 9.5
+  comfort: 9.2
+  staff: 9.2
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804078.jpg?k=a6286b098c28d45399d3d3097d994dcf87eef544962203730d679dd467eb7e4a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804135.jpg?k=86474a231bc96bbffd41f50d0e97d80523b962de2170678667e1df9fd9c3c857&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804133.jpg?k=374465d53884016c01dd2ad6958501a63381a4c4629ea43ff55755d28161970f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804142.jpg?k=23eb3d412b7036112a9e53cc2f7108b8d51f4ab0cd172046a7243292d670c866&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804131.jpg?k=bdc06a71f3ea923baf96d381c9cae9a075d48771308d81015667f343a5bb8002&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452069705.jpg?k=6a528011bf7cfb5d875a12d59af0078963e94a65f01f9162b9a7d53c6915b1cf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804118.jpg?k=a9db6b28b5dd4613e738d9b5704e3ff69829f817a7b2a35beffc2827ee75817c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804144.jpg?k=536d4bc0e2d15fe6cf17d088630f14a13abf8889ccbda33327a8bb219d94ce34&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804121.jpg?k=b0f4105a9c79700a38971a69ec80d2158fa0b770b5348f3ae9181876ceb8f351&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Free parking"
+  - "Family rooms"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "The Taste of the Sea 100 m"
+  - "Gold 150 m"
+airports:
+  - "Corfu International Airport 56 km"
+  - "Ioannina Airport 71 km"
+reviews:
+  - name: "Lorena"
+    country: "Albania"
+    text: "“The host was very nice. The appartment was the same as the photos here in booking, it was big and comfortable. And for location and value of money it's worth it.”"
+  - name: "Joy"
+    country: "Singapore"
+    text: "“Apartment was spacious, extremely clean, conveniently located yet quiet at night. Perfect if not for no hangers as mentioned, dirty dishes and its decrepit building with difficult locks and faulty elevator.”"
+  - name: "Graciela"
+    country: "Albania"
+    text: "“Cdo gje ishte perfekte, duke filluar qe tek arredimi, comforti, pastertia dhe komunikimi☺️. Zgjedhja ideale.”"
+bookingURL: "https://www.booking.com/hotel/al/proper-home-gjirokaster.en-gb.html?aid=8035640"
+bestFor: "Best for Luxury"
+bestCategories: "Luxury"
+category: "Luxury"
+---
+
+Set against the backdrop of the serene Zaravina Lake, just 44 km away, guests can enjoy the tranquility of the area while benefiting from the non-smoking environment that Luxury Proper Home prides itself on. Additionally, the provision of a picnic area adds a unique touch, allowing visitors to savor moments of leisure amidst picturesque settings.
 
 The accommodation itself is a testament to modern living, boasting an air-conditioned apartment with two separate bedrooms, a fully equipped kitchen for those who love to cook, and a bathroom designed with comfort in mind. Entertainment needs are catered to with a flat-screen TV, ensuring that guests have access to their favorite shows and movies during their stay. Moreover, the convenience of a dry cleaning service speaks to the property’s commitment to meeting the needs of every guest.
 

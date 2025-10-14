@@ -1,6 +1,91 @@
----\ntitle: "Eja Apartment 2"\ndescription: "Eja Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497700836.jpg?k=f7908a9e7738aa7cca673fdaf370942dba5626d0a0f5494e6cd7682f8a235f8f&o=&hp=1"\nlanguage: en\nslug: eja-apartment-2\naddress: "Rruga Reshit Petrela, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33595436\n  lng: 19.8137694\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.9\n  location: 9.2\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497700836.jpg?k=f7908a9e7738aa7cca673fdaf370942dba5626d0a0f5494e6cd7682f8a235f8f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497700890.jpg?k=03c5bec81d36c12142c50ea98f2436f73cc9ef16e4e72cadc0552b74c1f8990b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494651641.jpg?k=ad2bc0e86a74ea1ec6f450e7bbeb125482c1f34b7fe5f3cbb7203dadd8820d4c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513989839.jpg?k=83dd3ad39e15815bb992d36e9b155d9b0a99a68297f5e0943f0ff0023c9fb7f9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494651615.jpg?k=55a0433330f55b7d2d915e68ef38723dca8308f7c9d8ca70d91f69ec4089c87b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513987747.jpg?k=49987303bc2c156c497c1d7bcc5347f90ef6f6eda4ba4741636bcb44c22b1eea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513989867.jpg?k=0e3bd1b4eca0076a0d56c040a2b9c82514da0cd0740a376deec2e3df3920bdc1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494651632.jpg?k=b9a5e1ad16e942125b684f2943272d3918376da36618eff6de40e8d0aac964a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513987629.jpg?k=45bf8a83619d59d289da3344768cba6847ad6f7dbbf0050a9c66657600173605&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1.2 km"\n  - "Rinia Park 1.3 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Former Residence of Enver Hoxha 1.7 km"\n  - "Grand Park of Tirana 2.8 km"\n  - "Bunk'Art 1 Museum 4.2 km"\nnearbyRestaurants:\n  - "Bar Class 20 m"\n  - "Te Shefi 50 m"\nwhatsNearby:\n  - "Amazing Nature 550 m"\n  - "Sheshi Rekreativ Mine Peza 550 m"\n  - "Sheshi Rekreativ Don Bosko 650 m"\n  - "Sheshi Paris 750 m"\n  - "National Museum of History Albania 800 m"\n  - "Sheshi Skënderbej 900 m"\n  - "Skanderbeg Square 1 km"\n  - "Clock Tower Tirana 1 km"\n  - "Parku Europa 1 km"\n  - "House of Leaves 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Matias"\n    country: "Germany"\n    text: "“This place is a triple win! Firstly, it's super clean, with a spotless vibe that made my stay extra comfy. Secondly, the cozy atmosphere wraps you up like a warm blanket – perfect for relaxation. Lastly, the location is a sweet spot, adding...”"\n  - name: "Bauerag"\n    country: "Germany"\n    text: "“Sehr modernes und hochwertig renoviertes Apartment in einer Seitenstr. vom Ring auf der Seite zum Flughafen gegenüber des Gerichtsgebäudes.. Vollwertig ausgestattet.
+---
+title: "Eja Apartment 2"
+description: "Eja Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497700836.jpg?k=f7908a9e7738aa7cca673fdaf370942dba5626d0a0f5494e6cd7682f8a235f8f&o=&hp=1"
+language: en
+slug: eja-apartment-2
+address: "Rruga Reshit Petrela, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33595436
+  lng: 19.8137694
+price: "US$45"
+priceFrom: 45
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.9
+  location: 9.2
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497700836.jpg?k=f7908a9e7738aa7cca673fdaf370942dba5626d0a0f5494e6cd7682f8a235f8f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497700890.jpg?k=03c5bec81d36c12142c50ea98f2436f73cc9ef16e4e72cadc0552b74c1f8990b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494651641.jpg?k=ad2bc0e86a74ea1ec6f450e7bbeb125482c1f34b7fe5f3cbb7203dadd8820d4c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513989839.jpg?k=83dd3ad39e15815bb992d36e9b155d9b0a99a68297f5e0943f0ff0023c9fb7f9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494651615.jpg?k=55a0433330f55b7d2d915e68ef38723dca8308f7c9d8ca70d91f69ec4089c87b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513987747.jpg?k=49987303bc2c156c497c1d7bcc5347f90ef6f6eda4ba4741636bcb44c22b1eea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513989867.jpg?k=0e3bd1b4eca0076a0d56c040a2b9c82514da0cd0740a376deec2e3df3920bdc1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494651632.jpg?k=b9a5e1ad16e942125b684f2943272d3918376da36618eff6de40e8d0aac964a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513987629.jpg?k=45bf8a83619d59d289da3344768cba6847ad6f7dbbf0050a9c66657600173605&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1.2 km"
+  - "Rinia Park 1.3 km"
+  - "Tanners' Bridge 1.5 km"
+  - "Former Residence of Enver Hoxha 1.7 km"
+  - "Grand Park of Tirana 2.8 km"
+  - "Bunk'Art 1 Museum 4.2 km"
+nearbyRestaurants:
+  - "Bar Class 20 m"
+  - "Te Shefi 50 m"
+whatsNearby:
+  - "Amazing Nature 550 m"
+  - "Sheshi Rekreativ Mine Peza 550 m"
+  - "Sheshi Rekreativ Don Bosko 650 m"
+  - "Sheshi Paris 750 m"
+  - "National Museum of History Albania 800 m"
+  - "Sheshi Skënderbej 900 m"
+  - "Skanderbeg Square 1 km"
+  - "Clock Tower Tirana 1 km"
+  - "Parku Europa 1 km"
+  - "House of Leaves 1.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Matias"
+    country: "Germany"
+    text: "“This place is a triple win! Firstly, it's super clean, with a spotless vibe that made my stay extra comfy. Secondly, the cozy atmosphere wraps you up like a warm blanket – perfect for relaxation. Lastly, the location is a sweet spot, adding...”"
+  - name: "Bauerag"
+    country: "Germany"
+    text: "“Sehr modernes und hochwertig renoviertes Apartment in einer Seitenstr. vom Ring auf der Seite zum Flughafen gegenüber des Gerichtsgebäudes.. Vollwertig ausgestattet.
 Sehr schnelle und sehr hilfsbereite Kommunikation mit dem Gastgeber.
-Parken in...”"\nbookingURL: "https://www.booking.com/hotel/al/eja-apartment-2.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to thoughtful accommodation, boasting a well-equipped kitchen complete with a dishwasher and oven, a cozy seating area, and a modern bathroom featuring a walk-in shower. Designed with tranquility in mind, the apartment offers soundproofing, ensuring a peaceful stay. Additionally, the commitment to guest comfort is evident with the apartment being both allergy-free and non-smoking.
+Parken in...”"
+bookingURL: "https://www.booking.com/hotel/al/eja-apartment-2.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to thoughtful accommodation, boasting a well-equipped kitchen complete with a dishwasher and oven, a cozy seating area, and a modern bathroom featuring a walk-in shower. Designed with tranquility in mind, the apartment offers soundproofing, ensuring a peaceful stay. Additionally, the commitment to guest comfort is evident with the apartment being both allergy-free and non-smoking.
 
 For those looking to explore Tirana, Eja Apartment 2 is ideally situated close to notable landmarks such as the Clock Tower Tirana, Et'hem Bey Mosque, and the Toptani Shopping Centre. Cultural enthusiasts will find the National Museum of History Albania, the National Theatre of Opera and Ballet of Albania, and the House of Leaves within easy reach, promising a rich exploration of Albania's heritage.
 

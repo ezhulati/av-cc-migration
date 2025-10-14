@@ -1,4 +1,86 @@
----\ntitle: "Full flat for you 5 to 7 min walk from center"\ndescription: "Discover the convenience and comfort of \"Full Flat for You,\" a prime accommodation choice located just a short 5 to 7-minute stroll from the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100243.jpg?k=20744ee2bea7b276f967adc0eca3363c6b0c3445deabe9d579dbe16279a7822a&o=&hp=1"\nlanguage: en\nslug: full-flat-for-you-5-to-7-min-walk-from-center\naddress: "Rruga Muhamet Gjollesha, 1060 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32336963\n  lng: 19.80348991\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 7\nratings:\n  overall: 7.9\n  location: 8.3\n  cleanliness: 7.1\n  facilities: 7.1\n  value: 8\n  comfort: 8.3\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100243.jpg?k=20744ee2bea7b276f967adc0eca3363c6b0c3445deabe9d579dbe16279a7822a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100452.jpg?k=6fe7d179fff2b0e995ab45db3c05ee4893508b741478b96c2fec92ae71a5d164&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100678.jpg?k=3b315de5816458dec9299329acb872ef59d5eac473112464b2badab35768e342&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100639.jpg?k=4a7714f0bb30455e035680a7d352c58201ec0d02ec8b0df1902bab9193b5ec88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490306363.jpg?k=982c4388812af4fd0628a6da867518558786cd921cd80180abceedc4f5517715&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100657.jpg?k=f6d4b0f4fdff2c4ebbeaa09bbd91b93afe1230b398edbeb735dfef3b99d4e003&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490306353.jpg?k=7b7138e1e6200b24cd47d8215bef1536ddb0706b68dee356c0e44a26a97e3420&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100746.jpg?k=2c57d85881416a437595303fe759ca8c40afcc6dd1d1fa06d4cd04e3374ff696&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490306340.jpg?k=2e1bea9128051c1f3008798460a6937edb5393e2c462cc6b6f3abd1256b009d6&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Good free WiFi (47 Mbps)"\n  - "Restaurant"\n  - "Family rooms"\n  - "Bar"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Rinia Park 1.2 km"\n  - "National Museum of History Albania 1.3 km"\n  - "Skanderbeg Square 1.4 km"\n  - "Clock Tower Tirana 1.4 km"\n  - "National Gallery of Arts Tirana 1.5 km"\n  - "Tanners' Bridge 1.9 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Tradita Arabe - Arabic 50 m"\n  - "Everest 100 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 100 m"\n  - "Sheshi Rekreativ Sali Butka 300 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 400 m"\n  - "Sheshi Rekreativ Bajram Curri 600 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 650 m"\n  - "Sheshi Rekreativ Komuna e Parisit 800 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 800 m"\n  - "Sheshi Rekreativ Parku 1Km 950 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1 km"\n  - "House of Leaves 1.1 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nreviews:\n  - name: "Garbolino"\n    country: "Italy"\n    text: "“Struttura in posizione centrale e comoda per tutti i servizi. Accogliente e Host sempre presente e disponibile!”"\nbookingURL: "https://www.booking.com/hotel/al/all-flat-for-u.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\n"Full Flat for You" is not just about its prime location; it's a haven of amenities designed to cater to every need of its guests. The property boasts a welcoming bar, an on-site restaurant serving delectable cuisine, a handy minimarket for all your essentials, and reliable dry cleaning services, ensuring a hassle-free stay. Connectivity is a breeze with complimentary WiFi accessible throughout the premises, and for those arriving by car, the convenience of on-site parking is a notable perk.
+---
+title: "Full flat for you 5 to 7 min walk from center"
+description: "Discover the convenience and comfort of \"Full Flat for You,\" a prime accommodation choice located just a short 5 to 7-minute stroll from the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100243.jpg?k=20744ee2bea7b276f967adc0eca3363c6b0c3445deabe9d579dbe16279a7822a&o=&hp=1"
+language: en
+slug: full-flat-for-you-5-to-7-min-walk-from-center
+address: "Rruga Muhamet Gjollesha, 1060 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32336963
+  lng: 19.80348991
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 7
+ratings:
+  overall: 7.9
+  location: 8.3
+  cleanliness: 7.1
+  facilities: 7.1
+  value: 8
+  comfort: 8.3
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100243.jpg?k=20744ee2bea7b276f967adc0eca3363c6b0c3445deabe9d579dbe16279a7822a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100452.jpg?k=6fe7d179fff2b0e995ab45db3c05ee4893508b741478b96c2fec92ae71a5d164&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100678.jpg?k=3b315de5816458dec9299329acb872ef59d5eac473112464b2badab35768e342&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100639.jpg?k=4a7714f0bb30455e035680a7d352c58201ec0d02ec8b0df1902bab9193b5ec88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490306363.jpg?k=982c4388812af4fd0628a6da867518558786cd921cd80180abceedc4f5517715&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100657.jpg?k=f6d4b0f4fdff2c4ebbeaa09bbd91b93afe1230b398edbeb735dfef3b99d4e003&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490306353.jpg?k=7b7138e1e6200b24cd47d8215bef1536ddb0706b68dee356c0e44a26a97e3420&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519100746.jpg?k=2c57d85881416a437595303fe759ca8c40afcc6dd1d1fa06d4cd04e3374ff696&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490306340.jpg?k=2e1bea9128051c1f3008798460a6937edb5393e2c462cc6b6f3abd1256b009d6&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Good free WiFi (47 Mbps)"
+  - "Restaurant"
+  - "Family rooms"
+  - "Bar"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 1.2 km"
+  - "Rinia Park 1.2 km"
+  - "National Museum of History Albania 1.3 km"
+  - "Skanderbeg Square 1.4 km"
+  - "Clock Tower Tirana 1.4 km"
+  - "National Gallery of Arts Tirana 1.5 km"
+  - "Tanners' Bridge 1.9 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Tradita Arabe - Arabic 50 m"
+  - "Everest 100 m"
+whatsNearby:
+  - "Sheshi Rekreativ Shefqet Musaraj 100 m"
+  - "Sheshi Rekreativ Sali Butka 300 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 400 m"
+  - "Sheshi Rekreativ Bajram Curri 600 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 650 m"
+  - "Sheshi Rekreativ Komuna e Parisit 800 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 800 m"
+  - "Sheshi Rekreativ Parku 1Km 950 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 1 km"
+  - "House of Leaves 1.1 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+reviews:
+  - name: "Garbolino"
+    country: "Italy"
+    text: "“Struttura in posizione centrale e comoda per tutti i servizi. Accogliente e Host sempre presente e disponibile!”"
+bookingURL: "https://www.booking.com/hotel/al/all-flat-for-u.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+"Full Flat for You" is not just about its prime location; it's a haven of amenities designed to cater to every need of its guests. The property boasts a welcoming bar, an on-site restaurant serving delectable cuisine, a handy minimarket for all your essentials, and reliable dry cleaning services, ensuring a hassle-free stay. Connectivity is a breeze with complimentary WiFi accessible throughout the premises, and for those arriving by car, the convenience of on-site parking is a notable perk.
 
 For those keen on exploring Tirana's charming surroundings, the apartment facilitates this adventure by offering bike hire services. And for further exploration, a car rental service is readily available, making it easy to discover the city's hidden gems at your own pace.
 

@@ -1,4 +1,73 @@
----\ntitle: "Vacation 893"\ndescription: "Vacation 893 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260421.jpg?k=fd0979a659eb14166a01b4c0f4dbd1bf43266ff62984109bf181f59d3e5ae340&o=&hp=1"\nlanguage: en\nslug: vacation-893\naddress: "7GC9+MCW Durres, 2001 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.2721648\n  lng: 19.5185263\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260421.jpg?k=fd0979a659eb14166a01b4c0f4dbd1bf43266ff62984109bf181f59d3e5ae340&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260437.jpg?k=a3353b69813df548b2edf5d043e8d10b6f81f4c8054d3daf45cd1b21a3aa059e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260427.jpg?k=db1d454f6f6a3e55d5b16c7f0990390bc5cb660b9d50588eeb1fbff597b857ca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165676.jpg?k=2576f042a77d5e12453a8591ca256d75661434bc0562d7d592919921d545c3e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165632.jpg?k=50e8ed9574d939479d24121a77ad60d89dbe7a801ea6067842d701a86cc1a698&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165635.jpg?k=a4f7f86472484aa5dd0353251c6fe1d67f9afe3672ec6eac992cc7a404d0e536&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165637.jpg?k=c99458da8b330e7697058b986d01c9680e928631b53c88784be2def6e4a52213&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165643.jpg?k=b2c7f87949b9be62369cfb5dfe355928de3263ced13cd33501db1291575a8ac8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165646.jpg?k=e92252c215aea32061b677d1d572cbb93aa6683b2ab50c089f915cc83be7c111&o=&hp=1"\namenities:\n  - "Free WiFi"\nnearbyRestaurants:\n  - "Benilva 100 m"\n  - "Restorant Pizzeri Troplini 2 150 m"\nnearbyBeaches:\n  - "Shkëmbi i Kavajës Beach 100 m"\n  - "Golem Beach 750 m"\n  - "Durres Beach 1.7 km"\n  - "Mali I Robit Beach 2.7 km"\n  - "Qerret Beach 4.7 km"\nwhatsNearby:\n  - "Bekimi 7 km"\n  - "Wine Dhe Pooh 8 km"\n  - "Durres Amphiteatre 8 km"\n  - "Yje Dhe Hena 8 km"\n  - "1. Maj 8 km"\n  - "Sheshi Demokracia 8 km"\n  - "Sotir Noka 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nbookingURL: "https://www.booking.com/hotel/al/vacation-893.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis non-smoking property, positioned 1.8 km from the bustling Durres Beach, ensures a tranquil stay. Guests will find themselves enveloped in comfort within the spacious two-bedroom apartment, which boasts a host of modern amenities. From a fully equipped kitchen featuring a dishwasher, oven, washing machine, microwave, to a fridge, every need is catered to. The inclusion of a TV and complimentary WiFi further enhances the living experience, making it feel like a home away from home.
+---
+title: "Vacation 893"
+description: "Vacation 893 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260421.jpg?k=fd0979a659eb14166a01b4c0f4dbd1bf43266ff62984109bf181f59d3e5ae340&o=&hp=1"
+language: en
+slug: vacation-893
+address: "7GC9+MCW Durres, 2001 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.2721648
+  lng: 19.5185263
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260421.jpg?k=fd0979a659eb14166a01b4c0f4dbd1bf43266ff62984109bf181f59d3e5ae340&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260437.jpg?k=a3353b69813df548b2edf5d043e8d10b6f81f4c8054d3daf45cd1b21a3aa059e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513260427.jpg?k=db1d454f6f6a3e55d5b16c7f0990390bc5cb660b9d50588eeb1fbff597b857ca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165676.jpg?k=2576f042a77d5e12453a8591ca256d75661434bc0562d7d592919921d545c3e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165632.jpg?k=50e8ed9574d939479d24121a77ad60d89dbe7a801ea6067842d701a86cc1a698&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165635.jpg?k=a4f7f86472484aa5dd0353251c6fe1d67f9afe3672ec6eac992cc7a404d0e536&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165637.jpg?k=c99458da8b330e7697058b986d01c9680e928631b53c88784be2def6e4a52213&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165643.jpg?k=b2c7f87949b9be62369cfb5dfe355928de3263ced13cd33501db1291575a8ac8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507165646.jpg?k=e92252c215aea32061b677d1d572cbb93aa6683b2ab50c089f915cc83be7c111&o=&hp=1"
+amenities:
+  - "Free WiFi"
+nearbyRestaurants:
+  - "Benilva 100 m"
+  - "Restorant Pizzeri Troplini 2 150 m"
+nearbyBeaches:
+  - "Shkëmbi i Kavajës Beach 100 m"
+  - "Golem Beach 750 m"
+  - "Durres Beach 1.7 km"
+  - "Mali I Robit Beach 2.7 km"
+  - "Qerret Beach 4.7 km"
+whatsNearby:
+  - "Bekimi 7 km"
+  - "Wine Dhe Pooh 8 km"
+  - "Durres Amphiteatre 8 km"
+  - "Yje Dhe Hena 8 km"
+  - "1. Maj 8 km"
+  - "Sheshi Demokracia 8 km"
+  - "Sotir Noka 8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+bookingURL: "https://www.booking.com/hotel/al/vacation-893.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This non-smoking property, positioned 1.8 km from the bustling Durres Beach, ensures a tranquil stay. Guests will find themselves enveloped in comfort within the spacious two-bedroom apartment, which boasts a host of modern amenities. From a fully equipped kitchen featuring a dishwasher, oven, washing machine, microwave, to a fridge, every need is catered to. The inclusion of a TV and complimentary WiFi further enhances the living experience, making it feel like a home away from home.
 
 For those keen to explore beyond the beach, the Dajti Ekspres Cable Car awaits at a distance of 47 km, offering breathtaking views and an unforgettable adventure. Meanwhile, the Rock of Kavaje, less than 1 km away, presents an opportunity for exploration and discovery. Conveniently, Tirana International Mother Teresa Airport is located just 38 km from Vacation 893, ensuring smooth travel arrangements for international guests.
 

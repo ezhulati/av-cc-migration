@@ -1,4 +1,82 @@
----\ntitle: "Silver Apartments Condor Center"\ndescription: "Silver Apartments Condor Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523816641.jpg?k=f53768ae5bd790c30a2295dd4f70dbbfac4ee4346c9ee22f0cb5dc84f51bd35a&o=&hp=1"\nlanguage: en\nslug: silver-apartments-condor-center\naddress: "Rruga e Kavajës Condor Center, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3240162\n  lng: 19.7962966\nprice: "US$41"\npriceFrom: 41\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523816641.jpg?k=f53768ae5bd790c30a2295dd4f70dbbfac4ee4346c9ee22f0cb5dc84f51bd35a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816685.jpg?k=e97eb39904f5236d783bfeb045303078fa7445ccc6b0a180e8dc398649b08598&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816689.jpg?k=5b1c58023b8a25c00b44263ab74cf89aa8487fd1505aa1a7ab2dd0fdf61a61a7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816693.jpg?k=629dec67ea11863e96efcfcb2f9dd299925226c238be14213e1b80102792a846&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816697.jpg?k=5dab147073dac9f9436577214c791060716ce7d7ae881d0f56f339381f0eea0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816703.jpg?k=8667a8c1e4b5e4e2aaac362f6b1dd86da137ba035b6d4885603645092784ecb1&o=&hp=1"\namenities:\n  - "Spa and wellness centre"\n  - "Non-smoking rooms"\n  - "Fitness centre"\n  - "Facilities for disabled guests"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Private beach area"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.7 km"\n  - "Former Residence of Enver Hoxha 1.8 km"\n  - "Rinia Park 1.8 km"\n  - "National Museum of History Albania 1.9 km"\n  - "Skanderbeg Square 2 km"\n  - "Clock Tower Tirana 2 km"\n  - "National Gallery of Arts Tirana 2.1 km"\n  - "Tanners' Bridge 2.5 km"\n  - "Grand Park of Tirana 2.8 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Punishtja E Pastave 50 m"\n  - "Byrektore 50 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Kongresi i Lushnjës 50 m"\n  - "Sheshi Rekreativ Sali Butka 250 m"\n  - "Sheshi Rekreativ Bajram Curri 350 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 450 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 450 m"\n  - "Sheshi Rekreativ Parku 1Km 700 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 950 m"\n  - "Sheshi Rekreativ Komuna e Parisit 1.2 km"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.3 km"\n  - "Sheshi Rekreativ Mine Peza 1.4 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 81 km"\nbookingURL: "https://www.booking.com/hotel/al/silver-apartments.en-gb.html?aid=8035640"\nbestFor: "Best for Wellness & Spa"\nbestCategories: "Wellness & Spa"\ncategory: "Wellness & Spa"\n---\n\nThe apartment complex is distinguished by its commitment to accessibility and security, offering features such as an elevator, round-the-clock security, and complimentary WiFi across the premises. It also prides itself on being inclusive, with specially designed facilities for guests with disabilities.
+---
+title: "Silver Apartments Condor Center"
+description: "Silver Apartments Condor Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523816641.jpg?k=f53768ae5bd790c30a2295dd4f70dbbfac4ee4346c9ee22f0cb5dc84f51bd35a&o=&hp=1"
+language: en
+slug: silver-apartments-condor-center
+address: "Rruga e Kavajës Condor Center, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3240162
+  lng: 19.7962966
+price: "US$41"
+priceFrom: 41
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523816641.jpg?k=f53768ae5bd790c30a2295dd4f70dbbfac4ee4346c9ee22f0cb5dc84f51bd35a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816685.jpg?k=e97eb39904f5236d783bfeb045303078fa7445ccc6b0a180e8dc398649b08598&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816689.jpg?k=5b1c58023b8a25c00b44263ab74cf89aa8487fd1505aa1a7ab2dd0fdf61a61a7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816693.jpg?k=629dec67ea11863e96efcfcb2f9dd299925226c238be14213e1b80102792a846&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816697.jpg?k=5dab147073dac9f9436577214c791060716ce7d7ae881d0f56f339381f0eea0b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/523816703.jpg?k=8667a8c1e4b5e4e2aaac362f6b1dd86da137ba035b6d4885603645092784ecb1&o=&hp=1"
+amenities:
+  - "Spa and wellness centre"
+  - "Non-smoking rooms"
+  - "Fitness centre"
+  - "Facilities for disabled guests"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Private beach area"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.7 km"
+  - "Former Residence of Enver Hoxha 1.8 km"
+  - "Rinia Park 1.8 km"
+  - "National Museum of History Albania 1.9 km"
+  - "Skanderbeg Square 2 km"
+  - "Clock Tower Tirana 2 km"
+  - "National Gallery of Arts Tirana 2.1 km"
+  - "Tanners' Bridge 2.5 km"
+  - "Grand Park of Tirana 2.8 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Punishtja E Pastave 50 m"
+  - "Byrektore 50 m"
+whatsNearby:
+  - "Sheshi Rekreativ Kongresi i Lushnjës 50 m"
+  - "Sheshi Rekreativ Sali Butka 250 m"
+  - "Sheshi Rekreativ Bajram Curri 350 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 450 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 450 m"
+  - "Sheshi Rekreativ Parku 1Km 700 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 950 m"
+  - "Sheshi Rekreativ Komuna e Parisit 1.2 km"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 1.3 km"
+  - "Sheshi Rekreativ Mine Peza 1.4 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 81 km"
+bookingURL: "https://www.booking.com/hotel/al/silver-apartments.en-gb.html?aid=8035640"
+bestFor: "Best for Wellness & Spa"
+bestCategories: "Wellness & Spa"
+category: "Wellness & Spa"
+---
+
+The apartment complex is distinguished by its commitment to accessibility and security, offering features such as an elevator, round-the-clock security, and complimentary WiFi across the premises. It also prides itself on being inclusive, with specially designed facilities for guests with disabilities.
 
 Accommodation at Silver Apartments Condor Center is generously proportioned, boasting a balcony that invites natural light and fresh air. The layout includes two bedrooms, a cozy living room, and a kitchen equipped with modern amenities, including a minibar, ensuring a home-away-from-home experience. Entertainment needs are well met with the provision of a flat-screen TV.
 

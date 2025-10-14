@@ -1,4 +1,84 @@
----\ntitle: "Vila Kosteli"\ndescription: "Vila Kosteli emerges as a prime choice for travelers seeking comfort and convenience in Himare, positioned just a short stroll from the pristine Maracit Beach and the tranquil Spille Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108651521.jpg?k=ff568fd345c10d5cb2b93e5379407c29e53c29017c5ed34cdeef6fc6e089e047&o=&hp=1"\nlanguage: en\nslug: vila-kosteli\naddress: "National Road Vlore-Sarande, 9422 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.100125\n  lng: 19.748716\nprice: "US$48"\npriceFrom: 48\nstarRating: 3\nrating: 9.1\nratingWords: "Outstanding"\nnumberOfReviews: 319\nratings:\n  overall: 9.1\n  location: 9.4\n  cleanliness: 9.6\n  facilities: 9\n  value: 8.9\n  comfort: 9.4\n  staff: 9.8\n  wifi: 7.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108651521.jpg?k=ff568fd345c10d5cb2b93e5379407c29e53c29017c5ed34cdeef6fc6e089e047&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108651507.jpg?k=bd6226b49883536987c826b72ecebebf66ba8e258442907b3a30d5f1d470a48b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51796001.jpg?k=75355f9517585b08b088332efe63e9a52ff54bbe46f9b551362842f6ad5e9804&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51795970.jpg?k=9dbab9c935ac4feecd016cc97dc10dc5ec20df79ec9b12da92fb86f29448b81a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51796011.jpg?k=96cb8525db6f788d407d64924340bcc558a8f5f6337bb4efc9f27d4ca7075a98&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51796016.jpg?k=4765fea9accd22043510638a83ca7de112bc9764ac80c550c5500259269beb46&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Double Room with Sea View"\n  - "Classic Triple Room"\n  - "Comfort Triple Room"\n  - "Standard Triple Room with Sea View"\n  - "Triple Room"\n  - "Deluxe Triple Room with Sea View"\n  - "Two-Bedroom Suite"\n  - "Standard Suite"\n  - "Deluxe Suite with Sea View"\nnearbyRestaurants:\n  - "Restorant Maistro 50 m"\n  - "Valentino 150 m"\nnearbyBeaches:\n  - "Maracit Beach 50 m"\n  - "Spille Beach 100 m"\n  - "Prinos Beach 250 m"\n  - "Potam Beach 650 m"\n  - "Gjiri i Filikurit Beach 1.6 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Georgia"\n    country: "Australia"\n    text: "“We had the most incredible time staying in this lovely villa. It is within walking distance to the beach, town and restaurants. Our room had a cute balcony with views to the ocean and a very comfortable bed. The highlight of our stay was breakfast...”"\n  - name: "Jenny"\n    country: "Jersey"\n    text: "“Fantastic room with sea view from large terrace. Very good breakfast. Beach so close we even had a swim before breakfast on our last day.”"\n  - name: "Hilary"\n    country: "United Kingdom"\n    text: "“Great hosts and a good breakfast. The room, though small was spotless and serviceable.”"\nbookingURL: "https://www.booking.com/hotel/al/vila-kosteli.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe attention to detail in each guest room at Vila Kosteli is evident. From the essential wardrobe for personal belongings to the luxury of air conditioning for those warmer days, every aspect has been thoughtfully considered. The inclusion of a flat-screen TV and a private bathroom in all units ensures a stay that combines relaxation with entertainment. For guests seeking a little extra, selected rooms boast a seating area for added comfort, alongside a balcony that presents captivating city views, inviting guests to unwind in their private oasis.
+---
+title: "Vila Kosteli"
+description: "Vila Kosteli emerges as a prime choice for travelers seeking comfort and convenience in Himare, positioned just a short stroll from the pristine Maracit Beach and the tranquil Spille Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108651521.jpg?k=ff568fd345c10d5cb2b93e5379407c29e53c29017c5ed34cdeef6fc6e089e047&o=&hp=1"
+language: en
+slug: vila-kosteli
+address: "National Road Vlore-Sarande, 9422 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.100125
+  lng: 19.748716
+price: "US$48"
+priceFrom: 48
+starRating: 3
+rating: 9.1
+ratingWords: "Outstanding"
+numberOfReviews: 319
+ratings:
+  overall: 9.1
+  location: 9.4
+  cleanliness: 9.6
+  facilities: 9
+  value: 8.9
+  comfort: 9.4
+  staff: 9.8
+  wifi: 7.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108651521.jpg?k=ff568fd345c10d5cb2b93e5379407c29e53c29017c5ed34cdeef6fc6e089e047&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108651507.jpg?k=bd6226b49883536987c826b72ecebebf66ba8e258442907b3a30d5f1d470a48b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51796001.jpg?k=75355f9517585b08b088332efe63e9a52ff54bbe46f9b551362842f6ad5e9804&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51795970.jpg?k=9dbab9c935ac4feecd016cc97dc10dc5ec20df79ec9b12da92fb86f29448b81a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51796011.jpg?k=96cb8525db6f788d407d64924340bcc558a8f5f6337bb4efc9f27d4ca7075a98&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51796016.jpg?k=4765fea9accd22043510638a83ca7de112bc9764ac80c550c5500259269beb46&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Double Room with Sea View"
+  - "Classic Triple Room"
+  - "Comfort Triple Room"
+  - "Standard Triple Room with Sea View"
+  - "Triple Room"
+  - "Deluxe Triple Room with Sea View"
+  - "Two-Bedroom Suite"
+  - "Standard Suite"
+  - "Deluxe Suite with Sea View"
+nearbyRestaurants:
+  - "Restorant Maistro 50 m"
+  - "Valentino 150 m"
+nearbyBeaches:
+  - "Maracit Beach 50 m"
+  - "Spille Beach 100 m"
+  - "Prinos Beach 250 m"
+  - "Potam Beach 650 m"
+  - "Gjiri i Filikurit Beach 1.6 km"
+whatsNearby:
+  - "Llogora National Park 17 km"
+airports:
+  - "Corfu International Airport 56 km"
+reviews:
+  - name: "Georgia"
+    country: "Australia"
+    text: "“We had the most incredible time staying in this lovely villa. It is within walking distance to the beach, town and restaurants. Our room had a cute balcony with views to the ocean and a very comfortable bed. The highlight of our stay was breakfast...”"
+  - name: "Jenny"
+    country: "Jersey"
+    text: "“Fantastic room with sea view from large terrace. Very good breakfast. Beach so close we even had a swim before breakfast on our last day.”"
+  - name: "Hilary"
+    country: "United Kingdom"
+    text: "“Great hosts and a good breakfast. The room, though small was spotless and serviceable.”"
+bookingURL: "https://www.booking.com/hotel/al/vila-kosteli.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The attention to detail in each guest room at Vila Kosteli is evident. From the essential wardrobe for personal belongings to the luxury of air conditioning for those warmer days, every aspect has been thoughtfully considered. The inclusion of a flat-screen TV and a private bathroom in all units ensures a stay that combines relaxation with entertainment. For guests seeking a little extra, selected rooms boast a seating area for added comfort, alongside a balcony that presents captivating city views, inviting guests to unwind in their private oasis.
 
 Situated a mere 400 meters from the serene Prinos Beach, Vila Kosteli offers an ideal base for beach enthusiasts. Moreover, the property's location ensures that the wonders of Himare are within easy reach, while the Ioannina Airport, located 143 km away, provides convenient access for international travelers.
 

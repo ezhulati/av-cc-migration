@@ -1,4 +1,78 @@
----\ntitle: "May Apartments Studio"\ndescription: "May Apartments Studio emerges as a prime choice for travelers seeking a blend of comfort and convenience in Saranda."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565838.jpg?k=58e52368ee5658cf81710c846b11755d3b510b9887ffe0545824f5d09e3926e8&o=&hp=1"\nlanguage: en\nslug: may-apartments-studio\naddress: "8 Rruga Mitro Xhani, Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.87225244\n  lng: 20.00124675\nprice: "US$65"\npriceFrom: 65\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.6\n  location: 10\n  cleanliness: 10\n  facilities: 9.2\n  value: 10\n  comfort: 8.3\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565838.jpg?k=58e52368ee5658cf81710c846b11755d3b510b9887ffe0545824f5d09e3926e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565786.jpg?k=fdd91e1d595c2bcf4f8214fe4e438a174612a6105f95f357439c0fe39d0f363a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565868.jpg?k=27582efa6c14bd0b615226e700058b2a973854e221ed9d965d192a85ba93d460&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565842.jpg?k=f21c9638ae64fcf61a2f9090849be1d9b8e4ad01f015fb9e12b6db2ed241c859&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565816.jpg?k=1317a0a5ccaff13d3da34cec9b6771e1dea9b9a27e98f4a472d38b8d47c8db52&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565610.jpg?k=8d7b66fc29a5ef16ceaa470631e68057c96d88efa50397db28ffc06f50ffbf90&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565876.jpg?k=fdf4e81c447508afa0a93e707eabb99a4cdfaf9a257c0d5399f03cf2d16ade1b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565854.jpg?k=9639415874d3a73524813d4fd98b94783fcb5664c0a089eb1af8127c604cb2f7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565798.jpg?k=1169dbc140dd3657389b2802633710c8ced46980f3eb00d901a2f126a471b785&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom House"\nnearbyRestaurants:\n  - "Taverna Fish Filipi 40 m"\n  - "Taverna Joan 100 m"\nnearbyBeaches:\n  - "Sarande Main Beach 350 m"\n  - "Saranda City Beach 700 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.3 km"\n  - "Saranda Bay Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.5 km"\n  - "Butrint National Park 3.2 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 30 km"\n  - "Ioannina Airport 72 km"\nreviews:\n  - name: "Kyriakos"\n    country: "Greece"\n    text: "“Great property, amazing location very close to the port and the shops.”"\n  - name: "Aminata"\n    country: "France"\n    text: "“L'appartement était parfaitement situé, l'accueil était irréprochable, la gentillesse du personnel ainsi que la disponibilité sont à relever. Nous avons passé un excellent séjour dans cet appartement.”"\nbookingURL: "https://www.booking.com/hotel/al/may-apartments-studio.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe property shines with its modern amenities and thoughtful touches designed to make guests' stays as comfortable and hassle-free as possible. The highlight is undoubtedly the spacious terrace, offering captivating city views that promise to enchant guests from dawn till dusk. Inside, the holiday home is a testament to modern living, featuring air conditioning for those warm Mediterranean days, a separate bedroom for privacy, and a fully equipped kitchen ready for culinary adventures. An oven and fridge add to the convenience, allowing guests to prepare meals just the way they like them.
+---
+title: "May Apartments Studio"
+description: "May Apartments Studio emerges as a prime choice for travelers seeking a blend of comfort and convenience in Saranda."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565838.jpg?k=58e52368ee5658cf81710c846b11755d3b510b9887ffe0545824f5d09e3926e8&o=&hp=1"
+language: en
+slug: may-apartments-studio
+address: "8 Rruga Mitro Xhani, Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.87225244
+  lng: 20.00124675
+price: "US$65"
+priceFrom: 65
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.6
+  location: 10
+  cleanliness: 10
+  facilities: 9.2
+  value: 10
+  comfort: 8.3
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565838.jpg?k=58e52368ee5658cf81710c846b11755d3b510b9887ffe0545824f5d09e3926e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565786.jpg?k=fdd91e1d595c2bcf4f8214fe4e438a174612a6105f95f357439c0fe39d0f363a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565868.jpg?k=27582efa6c14bd0b615226e700058b2a973854e221ed9d965d192a85ba93d460&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565842.jpg?k=f21c9638ae64fcf61a2f9090849be1d9b8e4ad01f015fb9e12b6db2ed241c859&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565816.jpg?k=1317a0a5ccaff13d3da34cec9b6771e1dea9b9a27e98f4a472d38b8d47c8db52&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565610.jpg?k=8d7b66fc29a5ef16ceaa470631e68057c96d88efa50397db28ffc06f50ffbf90&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565876.jpg?k=fdf4e81c447508afa0a93e707eabb99a4cdfaf9a257c0d5399f03cf2d16ade1b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565854.jpg?k=9639415874d3a73524813d4fd98b94783fcb5664c0a089eb1af8127c604cb2f7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478565798.jpg?k=1169dbc140dd3657389b2802633710c8ced46980f3eb00d901a2f126a471b785&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Terrace"
+roomTypes:
+  - "One-Bedroom House"
+nearbyRestaurants:
+  - "Taverna Fish Filipi 40 m"
+  - "Taverna Joan 100 m"
+nearbyBeaches:
+  - "Sarande Main Beach 350 m"
+  - "Saranda City Beach 700 m"
+  - "La Petite Beach 1.2 km"
+  - "Maestral Beach 1.3 km"
+  - "Saranda Bay Beach 1.7 km"
+whatsNearby:
+  - "Parc National de Butrint 2.5 km"
+  - "Butrint National Park 3.2 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 30 km"
+  - "Ioannina Airport 72 km"
+reviews:
+  - name: "Kyriakos"
+    country: "Greece"
+    text: "“Great property, amazing location very close to the port and the shops.”"
+  - name: "Aminata"
+    country: "France"
+    text: "“L'appartement était parfaitement situé, l'accueil était irréprochable, la gentillesse du personnel ainsi que la disponibilité sont à relever. Nous avons passé un excellent séjour dans cet appartement.”"
+bookingURL: "https://www.booking.com/hotel/al/may-apartments-studio.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The property shines with its modern amenities and thoughtful touches designed to make guests' stays as comfortable and hassle-free as possible. The highlight is undoubtedly the spacious terrace, offering captivating city views that promise to enchant guests from dawn till dusk. Inside, the holiday home is a testament to modern living, featuring air conditioning for those warm Mediterranean days, a separate bedroom for privacy, and a fully equipped kitchen ready for culinary adventures. An oven and fridge add to the convenience, allowing guests to prepare meals just the way they like them.
 
 Attention to detail is evident in the provision of towels and bed linen, ensuring a cozy and welcoming environment. Moreover, the commitment to a non-smoking and soundproof space speaks volumes about the care put into ensuring a peaceful stay for all guests.
 

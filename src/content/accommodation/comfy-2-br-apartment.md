@@ -1,4 +1,90 @@
----\ntitle: "Comfy 2 BR Apartment"\ndescription: "Comfy 2 BR Apartment emerges as a prime choice for travelers seeking spacious and comfortable accommodation in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119813.jpg?k=1675aa302d1e9752a149090e0194e75be4e17278bf5db0c771ff447f809dd2bd&o=&hp=1"\nlanguage: en\nslug: comfy-2-br-apartment\naddress: "Rruga Siri Kodra, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33855961\n  lng: 19.81894747\nprice: "US$39"\npriceFrom: 39\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 20\nratings:\n  overall: 9.5\n  location: 9.5\n  cleanliness: 9.4\n  facilities: 9.1\n  value: 9.4\n  comfort: 9.9\n  staff: 9.9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119813.jpg?k=1675aa302d1e9752a149090e0194e75be4e17278bf5db0c771ff447f809dd2bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120544.jpg?k=e9de9cc4394dec12fcaa6640163dcc25dbaa757dc3e7e419d447358c44d088c0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120883.jpg?k=f88e0335f67b07df83acb4ab3ea22c31f7e76f75909bf4587a8b265ba2c123e8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119978.jpg?k=4b722b4f8d01bf88804db74fd927aa68b0f651a994fc9bb6d3929c3d04cb4735&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120345.jpg?k=838994f551be4a788fc205927fa428be21d48204577e4895036e0db72cf59328&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488121026.jpg?k=3c8dbf853ee881c85d8c5033d21d0385a7683c62b347ad09bbe78136127e0834&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120168.jpg?k=98031709c8ab71afd2f873b8f60f1c9b1103e32e819ba6526c13bea80147eb5f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120419.jpg?k=f31f316ff86373234aa094aa7cc5227db744fab8051e71db60e20caa6ef5df82&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119694.jpg?k=664dfe2724e32636a7c15b3f9062fb82f94d56fa44f554eca92177b418b8f704&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 1.3 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Tanners' Bridge 1.5 km"\n  - "Rinia Park 1.5 km"\n  - "Former Residence of Enver Hoxha 2 km"\n  - "Grand Park of Tirana 3 km"\n  - "Bunk'Art 1 Museum 3.7 km"\nnearbyRestaurants:\n  - "Byrektore 6 m"\n  - "Trinity 250 m"\nwhatsNearby:\n  - "Amazing Nature 550 m"\n  - "National Museum of History Albania 1 km"\n  - "Sheshi Paris 1.1 km"\n  - "Sheshi Rekreativ Mine Peza 1.1 km"\n  - "Sheshi Rekreativ Don Bosko 1.1 km"\n  - "Sheshi Skënderbej 1.1 km"\n  - "Sheshi Sulejman Pasha 1.1 km"\n  - "Skanderbeg Square 1.2 km"\n  - "Clock Tower Tirana 1.2 km"\n  - "Parku Europa 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Konieczna"\n    country: "Poland"\n    text: "“All was the best. Very clean, big apartaments. Was all What we needed. 11/10! We are very excited!”"\n  - name: "Giovenale"\n    country: "Italy"\n    text: "“Grande disponibilità e sollecitudine nell'accoglierci con un preavviso minimo. La casa è grande, accogliente, pulita, ben organizzata. Situata in un quartiere tranquillo, a 15 minuti a piedi dal centro e con bus per il centro della città proprio...”"\n  - name: "Di̇lan"\n    country: "Turkey"\n    text: "“Konumu Tiran merkeze 10/15 dakika yürüme mesafesindeydi. Evde yeme içmeyi düşünüyorsanız da tüm gereçler mevcut. Ev sahibimiz gibi ev de çok güzeldi.”"\nbookingURL: "https://www.booking.com/hotel/al/comfy-2-br-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a haven of comfort, featuring two well-appointed bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and a cozy seating area for relaxation. Entertainment needs are well catered to with a flat-screen TV, while the inclusion of a bathroom equipped with a bidet adds a touch of luxury. The highlight for many, however, is the outdoor dining area on the terrace, allowing guests to enjoy meals al fresco.
+---
+title: "Comfy 2 BR Apartment"
+description: "Comfy 2 BR Apartment emerges as a prime choice for travelers seeking spacious and comfortable accommodation in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119813.jpg?k=1675aa302d1e9752a149090e0194e75be4e17278bf5db0c771ff447f809dd2bd&o=&hp=1"
+language: en
+slug: comfy-2-br-apartment
+address: "Rruga Siri Kodra, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33855961
+  lng: 19.81894747
+price: "US$39"
+priceFrom: 39
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 20
+ratings:
+  overall: 9.5
+  location: 9.5
+  cleanliness: 9.4
+  facilities: 9.1
+  value: 9.4
+  comfort: 9.9
+  staff: 9.9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119813.jpg?k=1675aa302d1e9752a149090e0194e75be4e17278bf5db0c771ff447f809dd2bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120544.jpg?k=e9de9cc4394dec12fcaa6640163dcc25dbaa757dc3e7e419d447358c44d088c0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120883.jpg?k=f88e0335f67b07df83acb4ab3ea22c31f7e76f75909bf4587a8b265ba2c123e8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119978.jpg?k=4b722b4f8d01bf88804db74fd927aa68b0f651a994fc9bb6d3929c3d04cb4735&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120345.jpg?k=838994f551be4a788fc205927fa428be21d48204577e4895036e0db72cf59328&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488121026.jpg?k=3c8dbf853ee881c85d8c5033d21d0385a7683c62b347ad09bbe78136127e0834&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120168.jpg?k=98031709c8ab71afd2f873b8f60f1c9b1103e32e819ba6526c13bea80147eb5f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488120419.jpg?k=f31f316ff86373234aa094aa7cc5227db744fab8051e71db60e20caa6ef5df82&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119694.jpg?k=664dfe2724e32636a7c15b3f9062fb82f94d56fa44f554eca92177b418b8f704&o=&hp=1"
+amenities:
+  - "Airport shuttle (free)"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 1.3 km"
+  - "National Gallery of Arts Tirana 1.4 km"
+  - "Tanners' Bridge 1.5 km"
+  - "Rinia Park 1.5 km"
+  - "Former Residence of Enver Hoxha 2 km"
+  - "Grand Park of Tirana 3 km"
+  - "Bunk'Art 1 Museum 3.7 km"
+nearbyRestaurants:
+  - "Byrektore 6 m"
+  - "Trinity 250 m"
+whatsNearby:
+  - "Amazing Nature 550 m"
+  - "National Museum of History Albania 1 km"
+  - "Sheshi Paris 1.1 km"
+  - "Sheshi Rekreativ Mine Peza 1.1 km"
+  - "Sheshi Rekreativ Don Bosko 1.1 km"
+  - "Sheshi Skënderbej 1.1 km"
+  - "Sheshi Sulejman Pasha 1.1 km"
+  - "Skanderbeg Square 1.2 km"
+  - "Clock Tower Tirana 1.2 km"
+  - "Parku Europa 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Konieczna"
+    country: "Poland"
+    text: "“All was the best. Very clean, big apartaments. Was all What we needed. 11/10! We are very excited!”"
+  - name: "Giovenale"
+    country: "Italy"
+    text: "“Grande disponibilità e sollecitudine nell'accoglierci con un preavviso minimo. La casa è grande, accogliente, pulita, ben organizzata. Situata in un quartiere tranquillo, a 15 minuti a piedi dal centro e con bus per il centro della città proprio...”"
+  - name: "Di̇lan"
+    country: "Turkey"
+    text: "“Konumu Tiran merkeze 10/15 dakika yürüme mesafesindeydi. Evde yeme içmeyi düşünüyorsanız da tüm gereçler mevcut. Ev sahibimiz gibi ev de çok güzeldi.”"
+bookingURL: "https://www.booking.com/hotel/al/comfy-2-br-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a haven of comfort, featuring two well-appointed bedrooms, a fully equipped kitchen complete with a dishwasher and an oven, and a cozy seating area for relaxation. Entertainment needs are well catered to with a flat-screen TV, while the inclusion of a bathroom equipped with a bidet adds a touch of luxury. The highlight for many, however, is the outdoor dining area on the terrace, allowing guests to enjoy meals al fresco.
 
 Adding to the convenience, Comfy 2 BR Apartment provides complimentary WiFi and private parking, ensuring a hassle-free stay. For those looking to explore Tirana at their own pace, a car rental service is readily available on-site.
 

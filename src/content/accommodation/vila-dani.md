@@ -1,3 +1,61 @@
----\ntitle: "Vila Dani"\ndescription: "Vila Dani emerges as a serene oasis in Durrës, located a mere 41 km away from the historic Skanderbeg Square and a short drive from the Dajti Ekspres Cable Car, setting the stage for a memorable retreat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913398.jpg?k=0529c1fd8a42ae47e6d87bff5d4b170d54c1f985cc81da3df27cb753c214e82d&o=&hp=1"\nlanguage: en\nslug: vila-dani\naddress: "Rruga Gjiri i Lalzit, 2011 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.51130991\n  lng: 19.53507864\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913398.jpg?k=0529c1fd8a42ae47e6d87bff5d4b170d54c1f985cc81da3df27cb753c214e82d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478674844.jpg?k=88a577aaf77100162e177ddaac66e56625080ac1dfb9fb0f8b0953894ecdacbc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478681589.jpg?k=8b04d5e1ec78c9f5616669345b202f1fae7c5e04e96f84bde3151a8455685c7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913512.jpg?k=464bc2b348b370effd45df43996c265a4fb3bf12caa58aab774b14df3ba29da3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478678876.jpg?k=dc6df4758536927b96581eb17c85b25d162d4a5d27da8697839b0d6b923bd0a4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478677870.jpg?k=f97d8bf67c717834ca33647e47302d112c5f121378ff64ec1a3e6c03b194657a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913502.jpg?k=96a63ec8feed5e368e00a05bd224b2a532a489699245e3cc26f2c634345bc2cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478673348.jpg?k=cf579eaaf8688af8dc763e458c063c90c080b852a60c5e0e1a987d2df032df19&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478680530.jpg?k=4da3b346e4718c6370fce8935fe3db57169cf51f50985a907c9a1c934aa3c139&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\nnearbyRestaurants:\n  - "Bar Badi 700 m"\n  - "Bar Restorant Toni 1.6 km"\nnearbyBeaches:\n  - "Lalëz Bay Beach 1.7 km"\n  - "Rodoni Beach 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 18 km"\n  - "Podgorica Airport 96 km"\nbookingURL: "https://www.booking.com/hotel/al/vila-dani-durres1.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nGuests are treated to well-appointed rooms, each featuring a work desk for those needing to stay productive. Privacy and comfort are paramount, with each room boasting a private bathroom equipped with a bidet and hairdryer, ensuring a home-away-from-home experience. Entertainment and relaxation are just a click away with the inclusion of a flat-screen TV and air conditioning in every room, with select accommodations offering the added luxury of a balcony. The attention to detail is evident with the provision of quality bed linen and towels, enhancing the overall stay experience.
+---
+title: "Vila Dani"
+description: "Vila Dani emerges as a serene oasis in Durrës, located a mere 41 km away from the historic Skanderbeg Square and a short drive from the Dajti Ekspres Cable Car, setting the stage for a memorable retreat."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913398.jpg?k=0529c1fd8a42ae47e6d87bff5d4b170d54c1f985cc81da3df27cb753c214e82d&o=&hp=1"
+language: en
+slug: vila-dani
+address: "Rruga Gjiri i Lalzit, 2011 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.51130991
+  lng: 19.53507864
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913398.jpg?k=0529c1fd8a42ae47e6d87bff5d4b170d54c1f985cc81da3df27cb753c214e82d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478674844.jpg?k=88a577aaf77100162e177ddaac66e56625080ac1dfb9fb0f8b0953894ecdacbc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478681589.jpg?k=8b04d5e1ec78c9f5616669345b202f1fae7c5e04e96f84bde3151a8455685c7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913512.jpg?k=464bc2b348b370effd45df43996c265a4fb3bf12caa58aab774b14df3ba29da3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478678876.jpg?k=dc6df4758536927b96581eb17c85b25d162d4a5d27da8697839b0d6b923bd0a4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478677870.jpg?k=f97d8bf67c717834ca33647e47302d112c5f121378ff64ec1a3e6c03b194657a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913502.jpg?k=96a63ec8feed5e368e00a05bd224b2a532a489699245e3cc26f2c634345bc2cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478673348.jpg?k=cf579eaaf8688af8dc763e458c063c90c080b852a60c5e0e1a987d2df032df19&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478680530.jpg?k=4da3b346e4718c6370fce8935fe3db57169cf51f50985a907c9a1c934aa3c139&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+nearbyRestaurants:
+  - "Bar Badi 700 m"
+  - "Bar Restorant Toni 1.6 km"
+nearbyBeaches:
+  - "Lalëz Bay Beach 1.7 km"
+  - "Rodoni Beach 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 18 km"
+  - "Podgorica Airport 96 km"
+bookingURL: "https://www.booking.com/hotel/al/vila-dani-durres1.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Guests are treated to well-appointed rooms, each featuring a work desk for those needing to stay productive. Privacy and comfort are paramount, with each room boasting a private bathroom equipped with a bidet and hairdryer, ensuring a home-away-from-home experience. Entertainment and relaxation are just a click away with the inclusion of a flat-screen TV and air conditioning in every room, with select accommodations offering the added luxury of a balcony. The attention to detail is evident with the provision of quality bed linen and towels, enhancing the overall stay experience.
 
 Strategically positioned, Vila Dani offers easy access to notable attractions, including the Rock of Kavaje and the historical Former Residence of Enver Hoxha, enriching guests' travel experience. For those arriving by air, the Tirana International Mother Teresa Airport is conveniently located just 27 km away, making Vila Dani an ideal choice for both leisure and business travelers seeking a blend of tranquility, convenience, and a touch of local culture.

@@ -1,4 +1,99 @@
----\ntitle: "ART Hotel Tirana"\ndescription: "ART Hotel Tirana emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185275882.jpg?k=4bc0b50b4612305d8a7aff174f2451ae37a44948f2572d1f548c4a11f0a15725&o=&hp=1"\nlanguage: en\nslug: art-hotel-tirana\naddress: "Rruga e Kavajës Nr. 96/2, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.32773293\n  lng: 19.80977127\nprice: "US$57"\npriceFrom: 57\nstarRating: 4\nrating: 9.2\nratingWords: "Outstanding"\nnumberOfReviews: 1304\nratings:\n  overall: 9.2\n  location: 9.4\n  cleanliness: 9.3\n  facilities: 8.9\n  value: 9.1\n  comfort: 9.3\n  staff: 9.5\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185275882.jpg?k=4bc0b50b4612305d8a7aff174f2451ae37a44948f2572d1f548c4a11f0a15725&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185274601.jpg?k=e67e494d0b431d16ddcdd40e7d056ee3d317e4b3620cc5b5dcc9c220b373eed1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185776409.jpg?k=b9cc4548a3200d7a49c822b7111e7a8552f5e40c8bdacfa5413be5fb907ce6e3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185097535.jpg?k=7bc6cf0d87a634cfc58355a78106c38e4c24a20853cfc41ffc8bfa7c863f3a74&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185097531.jpg?k=6df4732c8086db81f826fb28848e3299731365ae7e5e7623f9d09e664d6e22d9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185274730.jpg?k=5598365d305f5ac922d24b12b5ea8fcf55c107826c3e207e19c5de879d2d1011&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185274596.jpg?k=f855f34763a880f6ce1216b648b5c404f41ae786372c9d5cdf7d3fe00808dbd6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185775224.jpg?k=9fde9b0e8ba028008ef9d364530e46a8a8a9454e9c8a537f46f8057e20085626&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460019667.jpg?k=08e8a2b479d906916aa0a431f941b1734b13cb1c6cb23b2e10092203220a5deb&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Single Room with Balcony"\nnearbyAttractions:\n  - "Clock Tower Tirana 850 m"\n  - "National Gallery of Arts Tirana 950 m"\n  - "Former Residence of Enver Hoxha 1,000 m"\n  - "Tanners' Bridge 1.4 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 4.9 km"\nnearbyRestaurants:\n  - "Fish n Chips 20 m"\n  - "Siar 50 m"\nwhatsNearby:\n  - "Sheshi Paris 450 m"\n  - "House of Leaves 550 m"\n  - "National Museum of History Albania 650 m"\n  - "Sheshi Skënderbej 700 m"\n  - "Sheshi Rekreativ Mine Peza 700 m"\n  - "Parku Europa 800 m"\n  - "Rinia Park 800 m"\n  - "Skanderbeg Square 800 m"\n  - "Sheshi Rekreativ Shefqet Musaraj 800 m"\n  - "Parku Rinia 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Anja"\n    country: "Montenegro"\n    text: "“Everything was good but internet and tv were not working..🫶”"\n  - name: "Yueyue"\n    country: "United Kingdom"\n    text: "“The room was really spacious. The king size bed and pillows were very comfortable. The rooms were full of paintings on the wall, which was interesting. The staff were very pleasant, responsive and helpful. The breakfast was alright. Stayed two...”"\n  - name: "Paul"\n    country: "United States"\n    text: "“Excellent location. Walking distance to everything. Bus stops nearby. Friendly English speaking staff. Nice room. Fair price.”"\nbookingURL: "https://www.booking.com/hotel/al/sarajevo-art.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe accommodations at ART Hotel Tirana are designed with the modern traveler in mind, featuring air-conditioned rooms equipped with flat-screen TVs, desks, and private bathrooms. For those desiring a bit more, select rooms boast terraces where guests can unwind and soak in the city's atmosphere. A notable highlight is the inclusion of a seating area in all rooms, ensuring a comfortable and spacious environment for relaxation.
+---
+title: "ART Hotel Tirana"
+description: "ART Hotel Tirana emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185275882.jpg?k=4bc0b50b4612305d8a7aff174f2451ae37a44948f2572d1f548c4a11f0a15725&o=&hp=1"
+language: en
+slug: art-hotel-tirana
+address: "Rruga e Kavajës Nr. 96/2, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.32773293
+  lng: 19.80977127
+price: "US$57"
+priceFrom: 57
+starRating: 4
+rating: 9.2
+ratingWords: "Outstanding"
+numberOfReviews: 1304
+ratings:
+  overall: 9.2
+  location: 9.4
+  cleanliness: 9.3
+  facilities: 8.9
+  value: 9.1
+  comfort: 9.3
+  staff: 9.5
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185275882.jpg?k=4bc0b50b4612305d8a7aff174f2451ae37a44948f2572d1f548c4a11f0a15725&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185274601.jpg?k=e67e494d0b431d16ddcdd40e7d056ee3d317e4b3620cc5b5dcc9c220b373eed1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185776409.jpg?k=b9cc4548a3200d7a49c822b7111e7a8552f5e40c8bdacfa5413be5fb907ce6e3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185097535.jpg?k=7bc6cf0d87a634cfc58355a78106c38e4c24a20853cfc41ffc8bfa7c863f3a74&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185097531.jpg?k=6df4732c8086db81f826fb28848e3299731365ae7e5e7623f9d09e664d6e22d9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185274730.jpg?k=5598365d305f5ac922d24b12b5ea8fcf55c107826c3e207e19c5de879d2d1011&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185274596.jpg?k=f855f34763a880f6ce1216b648b5c404f41ae786372c9d5cdf7d3fe00808dbd6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185775224.jpg?k=9fde9b0e8ba028008ef9d364530e46a8a8a9454e9c8a537f46f8057e20085626&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460019667.jpg?k=08e8a2b479d906916aa0a431f941b1734b13cb1c6cb23b2e10092203220a5deb&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+  - "Fabulous breakfast"
+roomTypes:
+  - "Single Room with Balcony"
+nearbyAttractions:
+  - "Clock Tower Tirana 850 m"
+  - "National Gallery of Arts Tirana 950 m"
+  - "Former Residence of Enver Hoxha 1,000 m"
+  - "Tanners' Bridge 1.4 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 4.9 km"
+nearbyRestaurants:
+  - "Fish n Chips 20 m"
+  - "Siar 50 m"
+whatsNearby:
+  - "Sheshi Paris 450 m"
+  - "House of Leaves 550 m"
+  - "National Museum of History Albania 650 m"
+  - "Sheshi Skënderbej 700 m"
+  - "Sheshi Rekreativ Mine Peza 700 m"
+  - "Parku Europa 800 m"
+  - "Rinia Park 800 m"
+  - "Skanderbeg Square 800 m"
+  - "Sheshi Rekreativ Shefqet Musaraj 800 m"
+  - "Parku Rinia 850 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Anja"
+    country: "Montenegro"
+    text: "“Everything was good but internet and tv were not working..🫶”"
+  - name: "Yueyue"
+    country: "United Kingdom"
+    text: "“The room was really spacious. The king size bed and pillows were very comfortable. The rooms were full of paintings on the wall, which was interesting. The staff were very pleasant, responsive and helpful. The breakfast was alright. Stayed two...”"
+  - name: "Paul"
+    country: "United States"
+    text: "“Excellent location. Walking distance to everything. Bus stops nearby. Friendly English speaking staff. Nice room. Fair price.”"
+bookingURL: "https://www.booking.com/hotel/al/sarajevo-art.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The accommodations at ART Hotel Tirana are designed with the modern traveler in mind, featuring air-conditioned rooms equipped with flat-screen TVs, desks, and private bathrooms. For those desiring a bit more, select rooms boast terraces where guests can unwind and soak in the city's atmosphere. A notable highlight is the inclusion of a seating area in all rooms, ensuring a comfortable and spacious environment for relaxation.
 
 Guests at ART Hotel Tirana are greeted each morning with a buffet breakfast, offering a variety of choices to start the day right. The hotel's restaurant is a culinary delight, specializing in European cuisine and promising an exquisite dining experience.
 

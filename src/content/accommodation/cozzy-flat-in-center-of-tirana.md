@@ -1,4 +1,79 @@
----\ntitle: "Cozzy flat in center of Tirana"\ndescription: "Discover the charm of Tirana with a stay at the Cozzy Flat, ideally situated just a short distance from the vibrant Skanderbeg Square and the scenic Dajti Ekspres Cable Car."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582283.jpg?k=aa2134884062dec9129d9efe4c6f639040c0f10a20b87ab6292718e3930e39ea&o=&hp=1"\nlanguage: en\nslug: cozzy-flat-in-center-of-tirana\naddress: "Rruga Muhamet Gjollesha 1 floor, 1050 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3235481\n  lng: 19.80294191\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 7.9\nratingWords: "Good"\nnumberOfReviews: 10\nratings:\n  overall: 7.9\n  location: 8.5\n  cleanliness: 8\n  facilities: 6.5\n  value: 8\n  comfort: 7.3\n  staff: 8.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582283.jpg?k=aa2134884062dec9129d9efe4c6f639040c0f10a20b87ab6292718e3930e39ea&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519581816.jpg?k=bd7dabc95c8e7a8e70eb86e80927c1d35829b2a48602264e2b3692987aec6bd4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493851211.jpg?k=97b0558e124f860415bfc1ac8338f8c66927bc38a55e29a2d0db73e857325db6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493851525.jpg?k=afa32ed868fc3ddaecf2b184fb87897ba805b4cb03fa211d4b6bd9f591b257af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483395963.jpg?k=79b768d276081a0444dcb4d6468e60a4411d014874b025d925b19911803e8f2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476713254.jpg?k=05766e60d8465e3efcb4a5731e5e540af20ecb63882096d7fd6ac9465056764b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582170.jpg?k=b5a5e65f96c218e92e62de94ff807adb9d89c52de8815c944624ef714e067613&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493856536.jpg?k=a9e7b04973fc824ff8f50eec067a32eb2f2cddeb3267e904425e2b029c64a2ef&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582653.jpg?k=cbf7512e4b8672855d1031ce3c2365d000f2cdbb14d61d38f2e4f2450c650f81&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Good free WiFi (50 Mbps)"\n  - "Family rooms"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 1.2 km"\n  - "Rinia Park 1.3 km"\n  - "National Museum of History Albania 1.4 km"\n  - "Skanderbeg Square 1.4 km"\n  - "Clock Tower Tirana 1.5 km"\n  - "National Gallery of Arts Tirana 1.5 km"\n  - "Tanners' Bridge 2 km"\n  - "Grand Park of Tirana 2.3 km"\n  - "Bunk'Art 1 Museum 6 km"\nnearbyRestaurants:\n  - "Tradita Arabe - Arabic 100 m"\n  - "Pepe Nero Fish 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Shefqet Musaraj 50 m"\n  - "Sheshi Rekreativ Sali Butka 250 m"\n  - "Sheshi Rekreativ Blloku 1 Maji 450 m"\n  - "Sheshi Rekreativ Bajram Curri 550 m"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 600 m"\n  - "Sheshi Rekreativ Komuna e Parisit 800 m"\n  - "Sheshi Rekreativ tek Stadiumi Dinamo 850 m"\n  - "Sheshi Rekreativ Parku 1Km 900 m"\n  - "Sheshi Rekreativ Pallati me Shigjeta 1,000 m"\n  - "House of Leaves 1.2 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 80 km"\nbookingURL: "https://www.booking.com/hotel/al/cosy-flat.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe Cozzy Flat distinguishes itself with its generous offering of amenities, including complimentary WiFi and on-site parking, ensuring a hassle-free experience for every guest. Additionally, the property boasts a range of services such as luggage storage, a business center, and currency exchange, catering to both leisure and business travelers alike.
+---
+title: "Cozzy flat in center of Tirana"
+description: "Discover the charm of Tirana with a stay at the Cozzy Flat, ideally situated just a short distance from the vibrant Skanderbeg Square and the scenic Dajti Ekspres Cable Car."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582283.jpg?k=aa2134884062dec9129d9efe4c6f639040c0f10a20b87ab6292718e3930e39ea&o=&hp=1"
+language: en
+slug: cozzy-flat-in-center-of-tirana
+address: "Rruga Muhamet Gjollesha 1 floor, 1050 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3235481
+  lng: 19.80294191
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 7.9
+ratingWords: "Good"
+numberOfReviews: 10
+ratings:
+  overall: 7.9
+  location: 8.5
+  cleanliness: 8
+  facilities: 6.5
+  value: 8
+  comfort: 7.3
+  staff: 8.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582283.jpg?k=aa2134884062dec9129d9efe4c6f639040c0f10a20b87ab6292718e3930e39ea&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519581816.jpg?k=bd7dabc95c8e7a8e70eb86e80927c1d35829b2a48602264e2b3692987aec6bd4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493851211.jpg?k=97b0558e124f860415bfc1ac8338f8c66927bc38a55e29a2d0db73e857325db6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493851525.jpg?k=afa32ed868fc3ddaecf2b184fb87897ba805b4cb03fa211d4b6bd9f591b257af&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483395963.jpg?k=79b768d276081a0444dcb4d6468e60a4411d014874b025d925b19911803e8f2d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476713254.jpg?k=05766e60d8465e3efcb4a5731e5e540af20ecb63882096d7fd6ac9465056764b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582170.jpg?k=b5a5e65f96c218e92e62de94ff807adb9d89c52de8815c944624ef714e067613&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493856536.jpg?k=a9e7b04973fc824ff8f50eec067a32eb2f2cddeb3267e904425e2b029c64a2ef&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519582653.jpg?k=cbf7512e4b8672855d1031ce3c2365d000f2cdbb14d61d38f2e4f2450c650f81&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Good free WiFi (50 Mbps)"
+  - "Family rooms"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 1.2 km"
+  - "Rinia Park 1.3 km"
+  - "National Museum of History Albania 1.4 km"
+  - "Skanderbeg Square 1.4 km"
+  - "Clock Tower Tirana 1.5 km"
+  - "National Gallery of Arts Tirana 1.5 km"
+  - "Tanners' Bridge 2 km"
+  - "Grand Park of Tirana 2.3 km"
+  - "Bunk'Art 1 Museum 6 km"
+nearbyRestaurants:
+  - "Tradita Arabe - Arabic 100 m"
+  - "Pepe Nero Fish 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Shefqet Musaraj 50 m"
+  - "Sheshi Rekreativ Sali Butka 250 m"
+  - "Sheshi Rekreativ Blloku 1 Maji 450 m"
+  - "Sheshi Rekreativ Bajram Curri 550 m"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 600 m"
+  - "Sheshi Rekreativ Komuna e Parisit 800 m"
+  - "Sheshi Rekreativ tek Stadiumi Dinamo 850 m"
+  - "Sheshi Rekreativ Parku 1Km 900 m"
+  - "Sheshi Rekreativ Pallati me Shigjeta 1,000 m"
+  - "House of Leaves 1.2 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 80 km"
+bookingURL: "https://www.booking.com/hotel/al/cosy-flat.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The Cozzy Flat distinguishes itself with its generous offering of amenities, including complimentary WiFi and on-site parking, ensuring a hassle-free experience for every guest. Additionally, the property boasts a range of services such as luggage storage, a business center, and currency exchange, catering to both leisure and business travelers alike.
 
 Guests will find themselves at home in the spacious ground-floor apartment, which features a well-appointed bedroom, a living area with a flat-screen TV boasting cable channels, and a fully equipped kitchen. The inclusion of an oven, microwave, washing machine, and toaster adds a touch of convenience to the stay, while the available laundry service underscores the property's commitment to guest comfort.
 

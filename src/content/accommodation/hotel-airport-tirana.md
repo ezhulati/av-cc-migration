@@ -1,9 +1,111 @@
----\ntitle: "Hotel Airport Tirana"\ndescription: "Discover the convenience and comfort of Hotel Airport Tirana, a contemporary 4-star establishment situated directly opposite the Tirana International Airport."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39815625.jpg?k=d166c8dccd34237a02ac0462a0399cd825712c5f427ec19d3a56d9dd465f377d&o=&hp=1"\nlanguage: en\nslug: hotel-airport-tirana\naddress: "Tirana International Airport , 0190 Rinas, Albania"\ncity: "Rinas"\nlocation: "Rinas"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.41652256\n  lng: 19.71265107\nprice: "US$81"\npriceFrom: 81\nstarRating: 4\nrating: 9\nratingWords: "Outstanding"\nnumberOfReviews: 1294\nratings:\n  overall: 9\n  location: 9.4\n  cleanliness: 9.1\n  facilities: 8.8\n  value: 8.5\n  comfort: 9.2\n  staff: 9.3\n  wifi: 9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39815625.jpg?k=d166c8dccd34237a02ac0462a0399cd825712c5f427ec19d3a56d9dd465f377d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518361523.jpg?k=f4d63f0048c6947b63a1d9560bccc7a883b4d9908c5bd23c0825571fa28375bd&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39821571.jpg?k=ee4ee3b11066f6e448fb8fcf0eb81d32012143a51446321d10bfc6c55ffaa47e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167646506.jpg?k=ac27435e8194c8281680b1d1ec98c3f09e92090c3a8da0d4ed441bda7805fd94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167646312.jpg?k=cfc9f116f6e6b3f176a95a79f940b9b3b8b933c0395948e2646c14524876c37e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167639401.jpg?k=4183a5834b7238e17fd70be63c8d8f42fdd7aa7e9e4cf2f906ca8dbad2a3d2f0&o=&hp=1"\namenities:\n  - "Outdoor swimming pool"\n  - "Airport shuttle (free)"\n  - "Spa and wellness centre"\n  - "Fitness centre"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Facilities for disabled guests"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Superior Single Room"\n  - "Standard Single Room"\n  - "Superior Double Room"\n  - "Standard Double Room"\n  - "Standard Twin Room"\n  - "Comfort Triple Room"\n  - "Standard Family Room"\nnearbyAttractions:\n  - "National Museum of History Albania 13 km"\n  - "House of Leaves 13 km"\n  - "Skanderbeg Square 13 km"\n  - "Clock Tower Tirana 13 km"\n  - "Rinia Park 14 km"\n  - "National Gallery of Arts Tirana 14 km"\n  - "Former Residence of Enver Hoxha 14 km"\n  - "Tanners' Bridge 14 km"\n  - "Bunk'Art 1 Museum 14 km"\n  - "Grand Park of Tirana 15 km"\nnearbyRestaurants:\n  - "Authentic Family 30 m"\n  - "Shija 1.6 km"\nwhatsNearby:\n  - "Shesh Rekreativ Yzberisht 11 km"\n  - "Sheshi Rekreativ Lord Bajron 11 km"\n  - "Park Lojrash 11 km"\n  - "Dajti Mountain National Park 11 km"\n  - "Sheshi Rekreativ Don Bosko 12 km"\n  - "Sheshi Rekreativ Parku 1Km 12 km"\n  - "Sheshi Rekreativ Mine Peza 12 km"\n  - "Sheshi Xhuzepe Garibaldi 12 km"\n  - "Sheshi Rekreativ Kongresi i Lushnjës 12 km"\n  - "Sheshi Rekreativ Pallati me Shigjeta 12 km"\nairports:\n  - "Tirana International Airport Mother Teresa 100 m"\n  - "Ohrid Airport 90 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Carlsson"\n    country: "Sweden"\n    text: "“Super service and pick-up at airport
+---
+title: "Hotel Airport Tirana"
+description: "Discover the convenience and comfort of Hotel Airport Tirana, a contemporary 4-star establishment situated directly opposite the Tirana International Airport."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39815625.jpg?k=d166c8dccd34237a02ac0462a0399cd825712c5f427ec19d3a56d9dd465f377d&o=&hp=1"
+language: en
+slug: hotel-airport-tirana
+address: "Tirana International Airport , 0190 Rinas, Albania"
+city: "Rinas"
+location: "Rinas"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.41652256
+  lng: 19.71265107
+price: "US$81"
+priceFrom: 81
+starRating: 4
+rating: 9
+ratingWords: "Outstanding"
+numberOfReviews: 1294
+ratings:
+  overall: 9
+  location: 9.4
+  cleanliness: 9.1
+  facilities: 8.8
+  value: 8.5
+  comfort: 9.2
+  staff: 9.3
+  wifi: 9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39815625.jpg?k=d166c8dccd34237a02ac0462a0399cd825712c5f427ec19d3a56d9dd465f377d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518361523.jpg?k=f4d63f0048c6947b63a1d9560bccc7a883b4d9908c5bd23c0825571fa28375bd&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39821571.jpg?k=ee4ee3b11066f6e448fb8fcf0eb81d32012143a51446321d10bfc6c55ffaa47e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167646506.jpg?k=ac27435e8194c8281680b1d1ec98c3f09e92090c3a8da0d4ed441bda7805fd94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167646312.jpg?k=cfc9f116f6e6b3f176a95a79f940b9b3b8b933c0395948e2646c14524876c37e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167639401.jpg?k=4183a5834b7238e17fd70be63c8d8f42fdd7aa7e9e4cf2f906ca8dbad2a3d2f0&o=&hp=1"
+amenities:
+  - "Outdoor swimming pool"
+  - "Airport shuttle (free)"
+  - "Spa and wellness centre"
+  - "Fitness centre"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Facilities for disabled guests"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Superior Single Room"
+  - "Standard Single Room"
+  - "Superior Double Room"
+  - "Standard Double Room"
+  - "Standard Twin Room"
+  - "Comfort Triple Room"
+  - "Standard Family Room"
+nearbyAttractions:
+  - "National Museum of History Albania 13 km"
+  - "House of Leaves 13 km"
+  - "Skanderbeg Square 13 km"
+  - "Clock Tower Tirana 13 km"
+  - "Rinia Park 14 km"
+  - "National Gallery of Arts Tirana 14 km"
+  - "Former Residence of Enver Hoxha 14 km"
+  - "Tanners' Bridge 14 km"
+  - "Bunk'Art 1 Museum 14 km"
+  - "Grand Park of Tirana 15 km"
+nearbyRestaurants:
+  - "Authentic Family 30 m"
+  - "Shija 1.6 km"
+whatsNearby:
+  - "Shesh Rekreativ Yzberisht 11 km"
+  - "Sheshi Rekreativ Lord Bajron 11 km"
+  - "Park Lojrash 11 km"
+  - "Dajti Mountain National Park 11 km"
+  - "Sheshi Rekreativ Don Bosko 12 km"
+  - "Sheshi Rekreativ Parku 1Km 12 km"
+  - "Sheshi Rekreativ Mine Peza 12 km"
+  - "Sheshi Xhuzepe Garibaldi 12 km"
+  - "Sheshi Rekreativ Kongresi i Lushnjës 12 km"
+  - "Sheshi Rekreativ Pallati me Shigjeta 12 km"
+airports:
+  - "Tirana International Airport Mother Teresa 100 m"
+  - "Ohrid Airport 90 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Carlsson"
+    country: "Sweden"
+    text: "“Super service and pick-up at airport
 Needed transport day after to Tirana city - hotel fixed it al at a good price.
 Albanian brekfast
 Been here several time and it is a very good hotel
-Thanks Jörgen”"\n  - name: "Krzysztof"\n    country: "Netherlands"\n    text: "“Very nice hotel, very close to the airport (extremely convenient), high standard rooms, breakfast served already from 3:00 AM, perfect if you have early flight.”"\n  - name: "Daniela"\n    country: "United Arab Emirates"\n    text: "“Very friendly and attentive staff. They know how to acomodate customer needs!
-Walking distance from the airport.”"\nbookingURL: "https://www.booking.com/hotel/al/airport-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for Airport Access"\nbestCategories: "Airport Access"\ncategory: "Airport Access"\n---\n\nGuests can unwind in the tastefully decorated rooms, adorned in soothing blue and yellow hues, each boasting its own balcony for a private outdoor retreat. The accommodations are well-appointed with modern necessities such as a flat-screen satellite TV, minibar, and personal safe, ensuring a stay that combines relaxation with convenience.
+Thanks Jörgen”"
+  - name: "Krzysztof"
+    country: "Netherlands"
+    text: "“Very nice hotel, very close to the airport (extremely convenient), high standard rooms, breakfast served already from 3:00 AM, perfect if you have early flight.”"
+  - name: "Daniela"
+    country: "United Arab Emirates"
+    text: "“Very friendly and attentive staff. They know how to acomodate customer needs!
+Walking distance from the airport.”"
+bookingURL: "https://www.booking.com/hotel/al/airport-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for Airport Access"
+bestCategories: "Airport Access"
+category: "Airport Access"
+---
+
+Guests can unwind in the tastefully decorated rooms, adorned in soothing blue and yellow hues, each boasting its own balcony for a private outdoor retreat. The accommodations are well-appointed with modern necessities such as a flat-screen satellite TV, minibar, and personal safe, ensuring a stay that combines relaxation with convenience.
 
 Culinary experiences at Hotel Airport Tirana are a highlight, with the hotel's elegant restaurant offering a menu rich in Albanian and European flavors. The dining experience is elevated by the option of outdoor seating in the courtyard, where guests can enjoy their meals by a charming water fountain during the warmer months.
 

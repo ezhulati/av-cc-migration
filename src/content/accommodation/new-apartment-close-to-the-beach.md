@@ -1,4 +1,59 @@
----\ntitle: "New apartment close to the beach"\ndescription: "Discover the charm of Vlorë with a stay at this prime beachfront apartment, merely a stone's throw away from Vlore Beach and within easy reach of Ri and Vjetër Beaches."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313591954.jpg?k=541560d6b3072ad0c9d2361aff7f1a334701152c21a87885a27cea38004da44e&o=&hp=1"\nlanguage: en\nslug: new-apartment-close-to-the-beach\naddress: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"\ncity: "Vlorë"\nlocation: "Vlorë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.44836775\n  lng: 19.49583955\nprice: "US$59"\npriceFrom: 59\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313591954.jpg?k=541560d6b3072ad0c9d2361aff7f1a334701152c21a87885a27cea38004da44e&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Family rooms"\n  - "Beachfront"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Tradicional Zgara 150 m"\n  - "Restorant Xhokla 200 m"\nnearbyBeaches:\n  - "Vlore Beach 200 m"\n  - "Vjetër Beach 1.3 km"\n  - "Ri Beach 1.4 km"\n  - "Beach at Government Villas 3.2 km"\n  - "Liro Beach 3.9 km"\nwhatsNearby:\n  - "Scooby Doo Vlore 1.3 km"\n  - "Kuzum Baba 2.1 km"\n  - "Independence Square 2.5 km"\nbookingURL: "https://www.booking.com/hotel/al/new-apartment-close-to-the-beach.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes a bedroom, a living area with a flat-screen TV, and a fully equipped kitchen. Here, guests will find everything needed for a self-sufficient stay, from an oven and fridge to a washing machine and stovetop. The inclusion of towels and bed linen ensures a hassle-free experience, allowing more time to explore or simply relax.
+---
+title: "New apartment close to the beach"
+description: "Discover the charm of Vlorë with a stay at this prime beachfront apartment, merely a stone's throw away from Vlore Beach and within easy reach of Ri and Vjetër Beaches."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313591954.jpg?k=541560d6b3072ad0c9d2361aff7f1a334701152c21a87885a27cea38004da44e&o=&hp=1"
+language: en
+slug: new-apartment-close-to-the-beach
+address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"
+city: "Vlorë"
+location: "Vlorë"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.44836775
+  lng: 19.49583955
+price: "US$59"
+priceFrom: 59
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313591954.jpg?k=541560d6b3072ad0c9d2361aff7f1a334701152c21a87885a27cea38004da44e&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Family rooms"
+  - "Beachfront"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Tradicional Zgara 150 m"
+  - "Restorant Xhokla 200 m"
+nearbyBeaches:
+  - "Vlore Beach 200 m"
+  - "Vjetër Beach 1.3 km"
+  - "Ri Beach 1.4 km"
+  - "Beach at Government Villas 3.2 km"
+  - "Liro Beach 3.9 km"
+whatsNearby:
+  - "Scooby Doo Vlore 1.3 km"
+  - "Kuzum Baba 2.1 km"
+  - "Independence Square 2.5 km"
+bookingURL: "https://www.booking.com/hotel/al/new-apartment-close-to-the-beach.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a haven of comfort and convenience, boasting a spacious layout that includes a bedroom, a living area with a flat-screen TV, and a fully equipped kitchen. Here, guests will find everything needed for a self-sufficient stay, from an oven and fridge to a washing machine and stovetop. The inclusion of towels and bed linen ensures a hassle-free experience, allowing more time to explore or simply relax.
 
 Situated just a short drive from the historical landmarks of Kuzum Baba and Independence Square, the apartment serves as an ideal base for those looking to immerse themselves in the local culture and history. Moreover, with Tirana International Mother Teresa Airport 152 km away, it offers a perfect retreat for both domestic and international travelers seeking the ultimate Vlorë experience.
 

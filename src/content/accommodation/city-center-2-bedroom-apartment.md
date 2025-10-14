@@ -1,4 +1,73 @@
----\ntitle: "City Center 2 Bedroom Apartment"\ndescription: "City Center 2 Bedroom Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928523.jpg?k=d78466d84bd112a19154b3103869a66b5e77f9a825f3b96d73de70c111a58001&o=&hp=1"\nlanguage: en\nslug: city-center-2-bedroom-apartment\naddress: "Rruga Kajo Karafili, 1019 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.32881151\n  lng: 19.8153046\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nratingWords: "Needs Improvement"\nnumberOfReviews: 0\nratings:\n  overall: 0\n  location: 0\n  cleanliness: 0\n  facilities: 0\n  value: 0\n  comfort: 0\n  staff: 0\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928523.jpg?k=d78466d84bd112a19154b3103869a66b5e77f9a825f3b96d73de70c111a58001&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928031.jpg?k=4420340ab0d429f5ca341ead7f54a3771d27c0dc938d0a8302c80ec5b72abef4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928416.jpg?k=c8f723048f3674773bb57ed721eb372cfd2800528130c9e966eb0b4f89c048cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928364.jpg?k=772a6d020792d9c81274c8d35bd6306a72018b495dca8f2b96779e985cd4faf6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928240.jpg?k=0022ff4220c02185f25d8a0affb8b84f09c91f1797e7500c632ab67e0c6dc11c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928436.jpg?k=ab49afb17f6ad22ced93e04ff2cbda560ae45f25802cd4cb727f1e88ed30457c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928120.jpg?k=7f01ef7057b0d310a5e37aed51f8212b7646ccccf9083692d3f5f0211af92216&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928132.jpg?k=fc4e1cf78b1ae7c584862c29193bf577d31bbb8b102266a8ce1ca4010dfddd79&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928143.jpg?k=ec2fbb7cddc3827aa99e5f7abd818c505059c1fcb778a47fb279824cea0b5801&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\nnearbyAttractions:\n  - "Former Residence of Enver Hoxha 900 m"\n  - "Tanners' Bridge 950 m"\n  - "Grand Park of Tirana 2.1 km"\n  - "Bunk'Art 1 Museum 4.5 km"\nnearbyRestaurants:\n  - "Bondi Cafe 9 m"\n  - "Piceri Seven 50 m"\nwhatsNearby:\n  - "Sheshi Paris 50 m"\n  - "National Museum of History Albania 200 m"\n  - "Sheshi Skënderbej 200 m"\n  - "House of Leaves 250 m"\n  - "Skanderbeg Square 350 m"\n  - "Parku Europa 350 m"\n  - "Clock Tower Tirana 400 m"\n  - "Parku Rinia 500 m"\n  - "Rinia Park 500 m"\n  - "National Gallery of Arts Tirana 550 m"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 79 km"\nbookingURL: "https://www.booking.com/hotel/al/city-center-2-bedroom-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nLocated less than a kilometer from the iconic Skanderbeg Square, the apartment ensures that guests are in the vicinity of Tirana's vibrant life, yet far enough to enjoy a peaceful retreat. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay.
+---
+title: "City Center 2 Bedroom Apartment"
+description: "City Center 2 Bedroom Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928523.jpg?k=d78466d84bd112a19154b3103869a66b5e77f9a825f3b96d73de70c111a58001&o=&hp=1"
+language: en
+slug: city-center-2-bedroom-apartment
+address: "Rruga Kajo Karafili, 1019 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.32881151
+  lng: 19.8153046
+price: "US$35"
+priceFrom: 35
+starRating: 3
+ratingWords: "Needs Improvement"
+numberOfReviews: 0
+ratings:
+  overall: 0
+  location: 0
+  cleanliness: 0
+  facilities: 0
+  value: 0
+  comfort: 0
+  staff: 0
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928523.jpg?k=d78466d84bd112a19154b3103869a66b5e77f9a825f3b96d73de70c111a58001&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928031.jpg?k=4420340ab0d429f5ca341ead7f54a3771d27c0dc938d0a8302c80ec5b72abef4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928416.jpg?k=c8f723048f3674773bb57ed721eb372cfd2800528130c9e966eb0b4f89c048cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928364.jpg?k=772a6d020792d9c81274c8d35bd6306a72018b495dca8f2b96779e985cd4faf6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928240.jpg?k=0022ff4220c02185f25d8a0affb8b84f09c91f1797e7500c632ab67e0c6dc11c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928436.jpg?k=ab49afb17f6ad22ced93e04ff2cbda560ae45f25802cd4cb727f1e88ed30457c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928120.jpg?k=7f01ef7057b0d310a5e37aed51f8212b7646ccccf9083692d3f5f0211af92216&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928132.jpg?k=fc4e1cf78b1ae7c584862c29193bf577d31bbb8b102266a8ce1ca4010dfddd79&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928143.jpg?k=ec2fbb7cddc3827aa99e5f7abd818c505059c1fcb778a47fb279824cea0b5801&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+nearbyAttractions:
+  - "Former Residence of Enver Hoxha 900 m"
+  - "Tanners' Bridge 950 m"
+  - "Grand Park of Tirana 2.1 km"
+  - "Bunk'Art 1 Museum 4.5 km"
+nearbyRestaurants:
+  - "Bondi Cafe 9 m"
+  - "Piceri Seven 50 m"
+whatsNearby:
+  - "Sheshi Paris 50 m"
+  - "National Museum of History Albania 200 m"
+  - "Sheshi Skënderbej 200 m"
+  - "House of Leaves 250 m"
+  - "Skanderbeg Square 350 m"
+  - "Parku Europa 350 m"
+  - "Clock Tower Tirana 400 m"
+  - "Parku Rinia 500 m"
+  - "Rinia Park 500 m"
+  - "National Gallery of Arts Tirana 550 m"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 79 km"
+bookingURL: "https://www.booking.com/hotel/al/city-center-2-bedroom-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Located less than a kilometer from the iconic Skanderbeg Square, the apartment ensures that guests are in the vicinity of Tirana's vibrant life, yet far enough to enjoy a peaceful retreat. The commitment to a non-smoking environment underscores the property's dedication to providing a clean and healthy stay.
 
 The apartment itself is a testament to modern living, equipped with a flat-screen TV and a kitchen that boasts an array of appliances including an oven, microwave, washing machine, toaster, and fridge. The inclusion of towels and bed linen adds a touch of convenience, ensuring guests have everything they need at their fingertips.
 

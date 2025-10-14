@@ -1,4 +1,87 @@
----\ntitle: "Garden Boutique B&B"\ndescription: "Garden Boutique B&B emerges as a serene oasis in the heart of Tirana, merely a kilometer away from the bustling Skanderberg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164639354.jpg?k=c92455c512ac0fa7a2742c889b4992a4d1987b29f3b8203d1eddffdcbef4128c&o=&hp=1"\nlanguage: en\nslug: garden-boutique-b-b\naddress: "Rruga Kusuri No8, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33423696\n  lng: 19.81428403\nprice: "US$56"\npriceFrom: 56\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 1583\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.8\n  facilities: 9.5\n  value: 9.8\n  comfort: 9.7\n  staff: 9.9\n  wifi: 9.2\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164639354.jpg?k=c92455c512ac0fa7a2742c889b4992a4d1987b29f3b8203d1eddffdcbef4128c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359922138.jpg?k=30f116090ccd8e86f34f0ed7635b4f2764d97ee793aa3733653ab833f7fc90d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359915130.jpg?k=c123de5f8dddac03c0df50763a8329310a3ce1abd57572ebbb3528df4e39c865&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359920975.jpg?k=9d1ff8b40570383ed2ad9503735bbe92bd3b9978b25034298a29bf2f4a0bb1df&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359921636.jpg?k=1c32b9101dc56ed661a02ccc58a212c802419d0aecbf83c47e9b5d3a728bbd22&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359921549.jpg?k=a8dfa6dbf6d04f88982fb70dcdca9bf5de08fc076d97a11bd84e2d540e4dc147&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Deluxe Double or Twin Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1 km"\n  - "Rinia Park 1.1 km"\n  - "Tanners' Bridge 1.3 km"\n  - "Former Residence of Enver Hoxha 1.5 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 4.3 km"\nnearbyRestaurants:\n  - "Boleros 40 m"\n  - "Bon Appetit 100 m"\nwhatsNearby:\n  - "Amazing Nature 400 m"\n  - "Sheshi Paris 550 m"\n  - "Sheshi Rekreativ Mine Peza 550 m"\n  - "National Museum of History Albania 600 m"\n  - "Sheshi Rekreativ Don Bosko 700 m"\n  - "Sheshi Skënderbej 700 m"\n  - "Skanderbeg Square 850 m"\n  - "Clock Tower Tirana 850 m"\n  - "Parku Europa 850 m"\n  - "House of Leaves 850 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\nreviews:\n  - name: "Daniela"\n    country: "Italy"\n    text: "“Last week I spent a few days at Garden Boutique B&B in Tirana with a friend. Top experience! Everybody at the B&B was extremely kind and helpful. They understand Italian and somebody also speak it. Our room was new, big and very clean. Breakfast...”"\n  - name: "Piotr"\n    country: "Poland"\n    text: "“Super people, great quality of the budiling and room, tasty breakfast”"\n  - name: "Craig"\n    country: "United Kingdom"\n    text: "“Hosts were excellent. Anna, lovely lady could not be more hospitable, always happy to chat and help. Next time I will bring my family and ensure I can stay here again. The entrance to the Hotel was really nice and homely too. Really enjoyed my stay”"\nbookingURL: "https://www.booking.com/hotel/al/garden-b-amp-b.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests are treated to the comfort of air-conditioned rooms, each equipped with a flat-screen TV, refrigerator, and an en suite bathroom. Select accommodations boast balconies that overlook the lush garden, providing a picturesque setting for morning coffees or evening relaxation. The attention to detail is evident with the inclusion of bathrobes, complimentary toiletries, and a hairdryer, ensuring a stay that marries luxury with home-like comfort.
+---
+title: "Garden Boutique B&B"
+description: "Garden Boutique B&B emerges as a serene oasis in the heart of Tirana, merely a kilometer away from the bustling Skanderberg Square."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164639354.jpg?k=c92455c512ac0fa7a2742c889b4992a4d1987b29f3b8203d1eddffdcbef4128c&o=&hp=1"
+language: en
+slug: garden-boutique-b-b
+address: "Rruga Kusuri No8, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.33423696
+  lng: 19.81428403
+price: "US$56"
+priceFrom: 56
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 1583
+ratings:
+  overall: 9.6
+  location: 9.5
+  cleanliness: 9.8
+  facilities: 9.5
+  value: 9.8
+  comfort: 9.7
+  staff: 9.9
+  wifi: 9.2
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164639354.jpg?k=c92455c512ac0fa7a2742c889b4992a4d1987b29f3b8203d1eddffdcbef4128c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359922138.jpg?k=30f116090ccd8e86f34f0ed7635b4f2764d97ee793aa3733653ab833f7fc90d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359915130.jpg?k=c123de5f8dddac03c0df50763a8329310a3ce1abd57572ebbb3528df4e39c865&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359920975.jpg?k=9d1ff8b40570383ed2ad9503735bbe92bd3b9978b25034298a29bf2f4a0bb1df&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359921636.jpg?k=1c32b9101dc56ed661a02ccc58a212c802419d0aecbf83c47e9b5d3a728bbd22&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359921549.jpg?k=a8dfa6dbf6d04f88982fb70dcdca9bf5de08fc076d97a11bd84e2d540e4dc147&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Deluxe Double or Twin Room"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1 km"
+  - "Rinia Park 1.1 km"
+  - "Tanners' Bridge 1.3 km"
+  - "Former Residence of Enver Hoxha 1.5 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 4.3 km"
+nearbyRestaurants:
+  - "Boleros 40 m"
+  - "Bon Appetit 100 m"
+whatsNearby:
+  - "Amazing Nature 400 m"
+  - "Sheshi Paris 550 m"
+  - "Sheshi Rekreativ Mine Peza 550 m"
+  - "National Museum of History Albania 600 m"
+  - "Sheshi Rekreativ Don Bosko 700 m"
+  - "Sheshi Skënderbej 700 m"
+  - "Skanderbeg Square 850 m"
+  - "Clock Tower Tirana 850 m"
+  - "Parku Europa 850 m"
+  - "House of Leaves 850 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+reviews:
+  - name: "Daniela"
+    country: "Italy"
+    text: "“Last week I spent a few days at Garden Boutique B&B in Tirana with a friend. Top experience! Everybody at the B&B was extremely kind and helpful. They understand Italian and somebody also speak it. Our room was new, big and very clean. Breakfast...”"
+  - name: "Piotr"
+    country: "Poland"
+    text: "“Super people, great quality of the budiling and room, tasty breakfast”"
+  - name: "Craig"
+    country: "United Kingdom"
+    text: "“Hosts were excellent. Anna, lovely lady could not be more hospitable, always happy to chat and help. Next time I will bring my family and ensure I can stay here again. The entrance to the Hotel was really nice and homely too. Really enjoyed my stay”"
+bookingURL: "https://www.booking.com/hotel/al/garden-b-amp-b.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests are treated to the comfort of air-conditioned rooms, each equipped with a flat-screen TV, refrigerator, and an en suite bathroom. Select accommodations boast balconies that overlook the lush garden, providing a picturesque setting for morning coffees or evening relaxation. The attention to detail is evident with the inclusion of bathrobes, complimentary toiletries, and a hairdryer, ensuring a stay that marries luxury with home-like comfort.
 
 The communal breakfast area, complete with a coffee machine, invites guests to start their day in the company of fellow travelers, amidst the aroma of freshly brewed coffee. 
 

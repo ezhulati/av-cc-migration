@@ -1,4 +1,96 @@
----\ntitle: "Holiday apartaments"\ndescription: "Holiday Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481139739.jpg?k=5625bdcf544dbe38c941325c0ed880923f0785237264b5c86ae5dd14ae9c1784&o=&hp=1"\nlanguage: en\nslug: holiday-apartaments\naddress: "493 Rruga e Dibrës, Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.3457365\n  lng: 19.83999188\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 43\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.6\n  facilities: 9.5\n  value: 9.7\n  comfort: 9.6\n  staff: 9.6\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481139739.jpg?k=5625bdcf544dbe38c941325c0ed880923f0785237264b5c86ae5dd14ae9c1784&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481064283.jpg?k=e4bd12a6cc64a9368e7be3ab999969e80e80e1fbb38f45494b9e7421366635e4&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481140529.jpg?k=fc5164223a35defacaecf352a190fc39dcee746ad0d203c66dd0055b6eac0f65&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481126409.jpg?k=73f65f815fdfe3699ddb9a429d078781fd8ac72625ac7f6a1dfb755db23037b1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481064290.jpg?k=2bd0a0577868d434b16fd48b1bc74e3de60dd1ab3891406c81a3959f7040e278&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481132443.jpg?k=a87e2a9897e2db77449fb7834c3f7cfd9007b70c4c45a385f9c351eaaaa748ca&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Standard Apartment"\n  - "Apartment with Balcony"\nnearbyAttractions:\n  - "Clock Tower Tirana 2.6 km"\n  - "Skanderbeg Square 2.6 km"\n  - "National Gallery of Arts Tirana 2.7 km"\n  - "House of Leaves 2.9 km"\n  - "Rinia Park 3 km"\n  - "Former Residence of Enver Hoxha 3.3 km"\n  - "Grand Park of Tirana 3.9 km"\nnearbyRestaurants:\n  - "Zgara Korçare 20 m"\n  - "Fast Food 150 m"\nwhatsNearby:\n  - "Sheshi Rekreativ Allias 500 m"\n  - "Sheshi Rekreativ Gjolek Kokona 650 m"\n  - "Sheshi Jjosef Shtraus 1.2 km"\n  - "Bunk'Art 1 Museum 1.8 km"\n  - "Amazing Nature 2.2 km"\n  - "Sheshi Rekreativ tek ish ATSh 2.3 km"\n  - "Tanners' Bridge 2.4 km"\n  - "Sheshi Sulejman Pasha 2.4 km"\n  - "Sheshi Rekreativ Banesat Sociale 2.5 km"\n  - "National Museum of History Albania 2.6 km"\nairports:\n  - "Tirana International Airport Mother Teresa 11 km"\n  - "Ohrid Airport 78 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "Discover"\nreviews:\n  - name: "Kacper"\n    country: "Poland"\n    text: "“Apartment was very good, we booked at the last minute but it was perfectly prepared. Very modern, clean and I think pretty new apartments. With no issue I can say that standard of apartemnt was very very high.”"\n  - name: "Emanuela"\n    country: "Italy"\n    text: "“Wonderful apartment, fully equipped. The owners are very kind and flexible, they allowed us to visita Tirana while they were taking care of our kitten. The position is great, just 30 minutes to the very centre. A lot of services and shops around.”"\n  - name: "Diveyaa"\n    country: "United Kingdom"\n    text: "“Everything was so clean and nice, the owners were so lovely and accommodating towards us, very easy to contact and they were extremely helpful, would recommend and stay here again!”"\nbookingURL: "https://www.booking.com/hotel/al/holiday-apartaments-tirana.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartments are thoughtfully designed with air conditioning to ensure a comfortable stay regardless of the weather. The convenience of complimentary private parking and WiFi adds to the seamless experience for guests. Each apartment is a self-contained haven with a fully equipped kitchen, including a dining table for those who prefer home-cooked meals. Entertainment and relaxation are guaranteed with a flat-screen TV featuring satellite channels. The private bathrooms are well-appointed with showers, hair dryers, and complimentary toiletries, ensuring a comfortable stay.
+---
+title: "Holiday apartaments"
+description: "Holiday Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481139739.jpg?k=5625bdcf544dbe38c941325c0ed880923f0785237264b5c86ae5dd14ae9c1784&o=&hp=1"
+language: en
+slug: holiday-apartaments
+address: "493 Rruga e Dibrës, Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.3457365
+  lng: 19.83999188
+price: "US$46"
+priceFrom: 46
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 43
+ratings:
+  overall: 9.6
+  location: 9.5
+  cleanliness: 9.6
+  facilities: 9.5
+  value: 9.7
+  comfort: 9.6
+  staff: 9.6
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481139739.jpg?k=5625bdcf544dbe38c941325c0ed880923f0785237264b5c86ae5dd14ae9c1784&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481064283.jpg?k=e4bd12a6cc64a9368e7be3ab999969e80e80e1fbb38f45494b9e7421366635e4&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481140529.jpg?k=fc5164223a35defacaecf352a190fc39dcee746ad0d203c66dd0055b6eac0f65&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481126409.jpg?k=73f65f815fdfe3699ddb9a429d078781fd8ac72625ac7f6a1dfb755db23037b1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481064290.jpg?k=2bd0a0577868d434b16fd48b1bc74e3de60dd1ab3891406c81a3959f7040e278&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481132443.jpg?k=a87e2a9897e2db77449fb7834c3f7cfd9007b70c4c45a385f9c351eaaaa748ca&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+roomTypes:
+  - "Standard Apartment"
+  - "Apartment with Balcony"
+nearbyAttractions:
+  - "Clock Tower Tirana 2.6 km"
+  - "Skanderbeg Square 2.6 km"
+  - "National Gallery of Arts Tirana 2.7 km"
+  - "House of Leaves 2.9 km"
+  - "Rinia Park 3 km"
+  - "Former Residence of Enver Hoxha 3.3 km"
+  - "Grand Park of Tirana 3.9 km"
+nearbyRestaurants:
+  - "Zgara Korçare 20 m"
+  - "Fast Food 150 m"
+whatsNearby:
+  - "Sheshi Rekreativ Allias 500 m"
+  - "Sheshi Rekreativ Gjolek Kokona 650 m"
+  - "Sheshi Jjosef Shtraus 1.2 km"
+  - "Bunk'Art 1 Museum 1.8 km"
+  - "Amazing Nature 2.2 km"
+  - "Sheshi Rekreativ tek ish ATSh 2.3 km"
+  - "Tanners' Bridge 2.4 km"
+  - "Sheshi Sulejman Pasha 2.4 km"
+  - "Sheshi Rekreativ Banesat Sociale 2.5 km"
+  - "National Museum of History Albania 2.6 km"
+airports:
+  - "Tirana International Airport Mother Teresa 11 km"
+  - "Ohrid Airport 78 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "Discover"
+reviews:
+  - name: "Kacper"
+    country: "Poland"
+    text: "“Apartment was very good, we booked at the last minute but it was perfectly prepared. Very modern, clean and I think pretty new apartments. With no issue I can say that standard of apartemnt was very very high.”"
+  - name: "Emanuela"
+    country: "Italy"
+    text: "“Wonderful apartment, fully equipped. The owners are very kind and flexible, they allowed us to visita Tirana while they were taking care of our kitten. The position is great, just 30 minutes to the very centre. A lot of services and shops around.”"
+  - name: "Diveyaa"
+    country: "United Kingdom"
+    text: "“Everything was so clean and nice, the owners were so lovely and accommodating towards us, very easy to contact and they were extremely helpful, would recommend and stay here again!”"
+bookingURL: "https://www.booking.com/hotel/al/holiday-apartaments-tirana.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartments are thoughtfully designed with air conditioning to ensure a comfortable stay regardless of the weather. The convenience of complimentary private parking and WiFi adds to the seamless experience for guests. Each apartment is a self-contained haven with a fully equipped kitchen, including a dining table for those who prefer home-cooked meals. Entertainment and relaxation are guaranteed with a flat-screen TV featuring satellite channels. The private bathrooms are well-appointed with showers, hair dryers, and complimentary toiletries, ensuring a comfortable stay.
 
 For those who appreciate outdoor spaces, select units boast balconies that offer a breath of fresh air and a change of scenery without leaving the comfort of the apartment. Practical amenities such as a kettle and a wardrobe in every unit underscore the attention to detail in ensuring a convenient and enjoyable stay.
 

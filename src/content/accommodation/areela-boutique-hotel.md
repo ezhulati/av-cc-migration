@@ -1,4 +1,97 @@
----\ntitle: "Areela Boutique Hotel"\ndescription: "Discover the charm of Tirana from the comfort of Areela Boutique Hotel, a gem located in the city's oldest neighborhood and a mere stone's throw from Skanderbeg Square."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83695322.jpg?k=7e8a4b9005b0099797625b46295a5325fe492bb320eec98085b0b8165c43f483&o=&hp=1"\nlanguage: en\nslug: areela-boutique-hotel\naddress: "Rruga Mahmut Fortuzi Nr 5, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.33492748\n  lng: 19.81856883\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 8.9\nratingWords: "Very Good"\nnumberOfReviews: 1425\nratings:\n  overall: 8.9\n  location: 8.7\n  cleanliness: 9\n  facilities: 8.4\n  value: 8.9\n  comfort: 8.9\n  staff: 9.5\n  wifi: 8.9\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83695322.jpg?k=7e8a4b9005b0099797625b46295a5325fe492bb320eec98085b0b8165c43f483&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83696567.jpg?k=52bdbb9f6fc454038c44d89787010eaba9549c5116c61a41c605dc463ba0f1f5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83697977.jpg?k=8bfe4263c5a1334521e6d36fdf37ae6048f2d3395b0d99e232bbe9a7533d6341&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104361170.jpg?k=28a4f2cdba973a83dd70f29264820536d35f98169f8bb817e5ca9268fdd50d40&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83696970.jpg?k=ffc7f4faf5c398f5e9e0370240c8baa946eb9dd36d6e8c0894141e03e4f0c4ff&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83696614.jpg?k=ef12099df35ff49aebe48ef823e5f7e8b9a16765d5c7b54ba47a0799ba1dd125&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "24-hour front desk"\n  - "Bar"\n  - "Very good breakfast"\nroomTypes:\n  - "Single Room"\n  - "Double Room"\nnearbyAttractions:\n  - "National Gallery of Arts Tirana 1,000 m"\n  - "Tanners' Bridge 1.1 km"\n  - "Rinia Park 1.1 km"\n  - "Former Residence of Enver Hoxha 1.6 km"\n  - "Grand Park of Tirana 2.6 km"\n  - "Bunk'Art 1 Museum 3.9 km"\nnearbyRestaurants:\n  - "Aroma Cvaffe 50 m"\n  - "Mozart 150 m"\nwhatsNearby:\n  - "Amazing Nature 200 m"\n  - "National Museum of History Albania 600 m"\n  - "Sheshi Paris 700 m"\n  - "Sheshi Skënderbej 700 m"\n  - "Sheshi Sulejman Pasha 750 m"\n  - "Skanderbeg Square 800 m"\n  - "Clock Tower Tirana 800 m"\n  - "Parku Europa 850 m"\n  - "House of Leaves 950 m"\n  - "Sheshi Rekreativ Mine Peza 950 m"\nairports:\n  - "Tirana International Airport Mother Teresa 10 km"\n  - "Ohrid Airport 79 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "American Express"\nreviews:\n  - name: "Maria"\n    country: "Spain"\n    text: "“It was clean, beautifully decorated, spacious room with a nice balcony, warm good shower, nice breakfast and a cosy breakfast area, very relaxing and walkable distance from everything, like a little oasis in the city.”"\n  - name: "Carmelo"\n    country: "Italy"\n    text: "“Staff was friendly and helpful. The room was very clean. Bathroom a bit too small but all rest was great. I recommend it if you go to Tirana. Thank you”"\n  - name: "Lisbora"\n    country: "Austria"\n    text: "“Great location, 5 mins to the city center. Friendly staff, comfy and clean rooms.”"\nbookingURL: "https://www.booking.com/hotel/al/areela.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe rooms at Areela Boutique Hotel are a testament to elegance, adorned in a classic chic style that promises comfort and luxury. Guests can look forward to a restful night's sleep on hypoallergenic linen and Serta Perfect Sleeper mattresses, while enjoying modern amenities such as air conditioning, a flat-screen TV, and a minibar. The private bathrooms are well-appointed with a shower, hairdryer, and complimentary toiletries, and select rooms boast furnished balconies for a private outdoor retreat.
+---
+title: "Areela Boutique Hotel"
+description: "Discover the charm of Tirana from the comfort of Areela Boutique Hotel, a gem located in the city's oldest neighborhood and a mere stone's throw from Skanderbeg Square."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83695322.jpg?k=7e8a4b9005b0099797625b46295a5325fe492bb320eec98085b0b8165c43f483&o=&hp=1"
+language: en
+slug: areela-boutique-hotel
+address: "Rruga Mahmut Fortuzi Nr 5, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.33492748
+  lng: 19.81856883
+price: "US$46"
+priceFrom: 46
+starRating: 3
+rating: 8.9
+ratingWords: "Very Good"
+numberOfReviews: 1425
+ratings:
+  overall: 8.9
+  location: 8.7
+  cleanliness: 9
+  facilities: 8.4
+  value: 8.9
+  comfort: 8.9
+  staff: 9.5
+  wifi: 8.9
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83695322.jpg?k=7e8a4b9005b0099797625b46295a5325fe492bb320eec98085b0b8165c43f483&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83696567.jpg?k=52bdbb9f6fc454038c44d89787010eaba9549c5116c61a41c605dc463ba0f1f5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83697977.jpg?k=8bfe4263c5a1334521e6d36fdf37ae6048f2d3395b0d99e232bbe9a7533d6341&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104361170.jpg?k=28a4f2cdba973a83dd70f29264820536d35f98169f8bb817e5ca9268fdd50d40&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83696970.jpg?k=ffc7f4faf5c398f5e9e0370240c8baa946eb9dd36d6e8c0894141e03e4f0c4ff&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83696614.jpg?k=ef12099df35ff49aebe48ef823e5f7e8b9a16765d5c7b54ba47a0799ba1dd125&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "24-hour front desk"
+  - "Bar"
+  - "Very good breakfast"
+roomTypes:
+  - "Single Room"
+  - "Double Room"
+nearbyAttractions:
+  - "National Gallery of Arts Tirana 1,000 m"
+  - "Tanners' Bridge 1.1 km"
+  - "Rinia Park 1.1 km"
+  - "Former Residence of Enver Hoxha 1.6 km"
+  - "Grand Park of Tirana 2.6 km"
+  - "Bunk'Art 1 Museum 3.9 km"
+nearbyRestaurants:
+  - "Aroma Cvaffe 50 m"
+  - "Mozart 150 m"
+whatsNearby:
+  - "Amazing Nature 200 m"
+  - "National Museum of History Albania 600 m"
+  - "Sheshi Paris 700 m"
+  - "Sheshi Skënderbej 700 m"
+  - "Sheshi Sulejman Pasha 750 m"
+  - "Skanderbeg Square 800 m"
+  - "Clock Tower Tirana 800 m"
+  - "Parku Europa 850 m"
+  - "House of Leaves 950 m"
+  - "Sheshi Rekreativ Mine Peza 950 m"
+airports:
+  - "Tirana International Airport Mother Teresa 10 km"
+  - "Ohrid Airport 79 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "American Express"
+reviews:
+  - name: "Maria"
+    country: "Spain"
+    text: "“It was clean, beautifully decorated, spacious room with a nice balcony, warm good shower, nice breakfast and a cosy breakfast area, very relaxing and walkable distance from everything, like a little oasis in the city.”"
+  - name: "Carmelo"
+    country: "Italy"
+    text: "“Staff was friendly and helpful. The room was very clean. Bathroom a bit too small but all rest was great. I recommend it if you go to Tirana. Thank you”"
+  - name: "Lisbora"
+    country: "Austria"
+    text: "“Great location, 5 mins to the city center. Friendly staff, comfy and clean rooms.”"
+bookingURL: "https://www.booking.com/hotel/al/areela.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The rooms at Areela Boutique Hotel are a testament to elegance, adorned in a classic chic style that promises comfort and luxury. Guests can look forward to a restful night's sleep on hypoallergenic linen and Serta Perfect Sleeper mattresses, while enjoying modern amenities such as air conditioning, a flat-screen TV, and a minibar. The private bathrooms are well-appointed with a shower, hairdryer, and complimentary toiletries, and select rooms boast furnished balconies for a private outdoor retreat.
 
 Service at Areela Boutique Hotel is top-notch, with a 24-hour front desk ready to cater to guests' needs, including room service. For those looking for additional conveniences, laundry, ironing, and dry cleaning services are available for a surcharge. Each morning, guests are invited to start their day with a continental breakfast served in the dining hall, setting the right tone for exploration or relaxation.
 

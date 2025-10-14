@@ -1,4 +1,76 @@
----\ntitle: "Drago House, City Center location"\ndescription: "Drago House stands as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446060.jpg?k=adb7db4edc8758226fc1abd970e44a0bac06bebf5687d72f8879723501bcb492&o=&hp=1"\nlanguage: en\nslug: drago-house-city-center-location\naddress: "4001 Bulevardi Zogu I 3rd Floor, 4001 Shkodër, Albania"\ncity: "Shkodër"\nlocation: "Shkodër"\naccommodationType: "apartment"\ncoordinates:\n  lat: 42.0643323\n  lng: 19.50845499\nprice: "US$70"\npriceFrom: 70\nstarRating: 3\nrating: 9.7\nratingWords: "Exceptional"\nnumberOfReviews: 14\nratings:\n  overall: 9.7\n  location: 9.6\n  cleanliness: 9.5\n  facilities: 9.6\n  value: 9.6\n  comfort: 9.8\n  staff: 9.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446060.jpg?k=adb7db4edc8758226fc1abd970e44a0bac06bebf5687d72f8879723501bcb492&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446172.jpg?k=aa05ac968330a5022a276caa84a4d7b84e83387ceb629b5a3331c0176869f74e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446176.jpg?k=433c76a357bdd6954e322e341cf4e9ae7f3dab0eb60efac4b7146dee9b50b86c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446190.jpg?k=e91aaa35e9b26bddfc3212ff949e7cfb0d3d440ea9817ea04e85c351bc80a840&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446115.jpg?k=73ffe9da41581a19c25ae7d69d1eb27c3052d45abffacab58c974ab0887c0869&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446133.jpg?k=acd6c7d1e0e011913bc51f8ae1329939f945dad11bbfdea836d5b288d9e8f6ce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446138.jpg?k=e911de59996b4ea31bd5a5e406c095da7fbfeba7f5057b7ea4e5a8c1c77c6e9f&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446157.jpg?k=743a35bcf04756bcf8fdad445b717d10bfceed4178c80cfdac641cde3271b8f1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446194.jpg?k=020a3d50f16cc7b15aed961ae9e3606124341851479a2128dd34fe691d88d46c&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Fast Food Shija Parruce 20 m"\n  - "Pastiçeri ORALDI 50 m"\nwhatsNearby:\n  - "Rozafa Castle Shkodra 2.3 km"\n  - "National Park Skadar Lake 10 km"\nairports:\n  - "Podgorica Airport 38 km"\n  - "Tirana International Airport Mother Teresa 73 km"\n  - "Tivat Airport 73 km"\npaymentMethods:\n  - "Mastercard"\nreviews:\n  - name: "Suraya"\n    country: "Malaysia"\n    text: "“Awesome apartment with modern design. Otti,the host really helpful and friendly. The location of the apartment just 5mins walking distance from city centre. Close to bus stop to lake koman.”"\n  - name: "Ivan"\n    country: "Croatia"\n    text: "“The location is perfect - centrally located and the apartment is spacious and clean. The self-check-in process was incredibly straightforward, and communication with the host was quick and efficient.”"\n  - name: "Gazmend"\n    country: "Kosovo"\n    text: "“Banesë moderne, në zonë qendrore, sall pak hapa larg shëtitores qendrore të Shkodrës. Mundësi parkimi falas fill jashtë ndërtesës. Natën qetë, ani se me dritare bash kah arteria kryesore e qytetit. Dysheku i fortë, bash për qefin tem. Pronari ka...”"\nbookingURL: "https://www.booking.com/hotel/al/drago-house-city-center-location.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nGuests at Drago House are treated to a suite of amenities designed to make their stay as comfortable as possible. The apartment boasts air conditioning, ensuring a cool and pleasant environment regardless of the weather outside. Connectivity is never an issue, with complimentary WiFi and on-site parking provided to all guests, adding a layer of convenience to their stay.
+---
+title: "Drago House, City Center location"
+description: "Drago House stands as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446060.jpg?k=adb7db4edc8758226fc1abd970e44a0bac06bebf5687d72f8879723501bcb492&o=&hp=1"
+language: en
+slug: drago-house-city-center-location
+address: "4001 Bulevardi Zogu I 3rd Floor, 4001 Shkodër, Albania"
+city: "Shkodër"
+location: "Shkodër"
+accommodationType: "apartment"
+coordinates:
+  lat: 42.0643323
+  lng: 19.50845499
+price: "US$70"
+priceFrom: 70
+starRating: 3
+rating: 9.7
+ratingWords: "Exceptional"
+numberOfReviews: 14
+ratings:
+  overall: 9.7
+  location: 9.6
+  cleanliness: 9.5
+  facilities: 9.6
+  value: 9.6
+  comfort: 9.8
+  staff: 9.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446060.jpg?k=adb7db4edc8758226fc1abd970e44a0bac06bebf5687d72f8879723501bcb492&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446172.jpg?k=aa05ac968330a5022a276caa84a4d7b84e83387ceb629b5a3331c0176869f74e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446176.jpg?k=433c76a357bdd6954e322e341cf4e9ae7f3dab0eb60efac4b7146dee9b50b86c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446190.jpg?k=e91aaa35e9b26bddfc3212ff949e7cfb0d3d440ea9817ea04e85c351bc80a840&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446115.jpg?k=73ffe9da41581a19c25ae7d69d1eb27c3052d45abffacab58c974ab0887c0869&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446133.jpg?k=acd6c7d1e0e011913bc51f8ae1329939f945dad11bbfdea836d5b288d9e8f6ce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446138.jpg?k=e911de59996b4ea31bd5a5e406c095da7fbfeba7f5057b7ea4e5a8c1c77c6e9f&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446157.jpg?k=743a35bcf04756bcf8fdad445b717d10bfceed4178c80cfdac641cde3271b8f1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446194.jpg?k=020a3d50f16cc7b15aed961ae9e3606124341851479a2128dd34fe691d88d46c&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Fast Food Shija Parruce 20 m"
+  - "Pastiçeri ORALDI 50 m"
+whatsNearby:
+  - "Rozafa Castle Shkodra 2.3 km"
+  - "National Park Skadar Lake 10 km"
+airports:
+  - "Podgorica Airport 38 km"
+  - "Tirana International Airport Mother Teresa 73 km"
+  - "Tivat Airport 73 km"
+paymentMethods:
+  - "Mastercard"
+reviews:
+  - name: "Suraya"
+    country: "Malaysia"
+    text: "“Awesome apartment with modern design. Otti,the host really helpful and friendly. The location of the apartment just 5mins walking distance from city centre. Close to bus stop to lake koman.”"
+  - name: "Ivan"
+    country: "Croatia"
+    text: "“The location is perfect - centrally located and the apartment is spacious and clean. The self-check-in process was incredibly straightforward, and communication with the host was quick and efficient.”"
+  - name: "Gazmend"
+    country: "Kosovo"
+    text: "“Banesë moderne, në zonë qendrore, sall pak hapa larg shëtitores qendrore të Shkodrës. Mundësi parkimi falas fill jashtë ndërtesës. Natën qetë, ani se me dritare bash kah arteria kryesore e qytetit. Dysheku i fortë, bash për qefin tem. Pronari ka...”"
+bookingURL: "https://www.booking.com/hotel/al/drago-house-city-center-location.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Guests at Drago House are treated to a suite of amenities designed to make their stay as comfortable as possible. The apartment boasts air conditioning, ensuring a cool and pleasant environment regardless of the weather outside. Connectivity is never an issue, with complimentary WiFi and on-site parking provided to all guests, adding a layer of convenience to their stay.
 
 The accommodation itself is a testament to thoughtful design and comfort. Featuring a spacious layout, the apartment includes a balcony that invites guests to enjoy the city's ambiance from the privacy of their own space. The bedroom is a cozy sanctuary for rest, while the living room offers ample space for relaxation and entertainment. A well-equipped kitchen, complete with an oven and a fridge, allows guests the freedom to prepare their meals just the way they like them. Towels and bed linen, meticulously selected for comfort and style, are readily available in the apartment, which maintains a strict non-smoking policy to ensure the air remains fresh and inviting.
 

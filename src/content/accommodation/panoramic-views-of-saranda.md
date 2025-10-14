@@ -1,4 +1,84 @@
----\ntitle: "Panoramic Views of Saranda"\ndescription: "Panoramic Views of Saranda emerges as a prime choice for travelers seeking a serene getaway in Sarandë, located conveniently close to both Heaven Beach (1."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582627.jpg?k=d6d22009396f2de8876331e2809017c698102c8d2fc900ae69e5c3373f66e7f2&o=&hp=1"\nlanguage: en\nslug: panoramic-views-of-saranda\naddress: "Rruga Butrinti, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "apartment"\ncoordinates:\n  lat: 39.84032048\n  lng: 20.02371152\nprice: "US$58"\npriceFrom: 58\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 4\nratings:\n  overall: 9.9\n  location: 9.4\n  cleanliness: 10\n  facilities: 10\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582627.jpg?k=d6d22009396f2de8876331e2809017c698102c8d2fc900ae69e5c3373f66e7f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582623.jpg?k=b8d77abe95e243ff968df285c8868521c86c0b47917e41e03275960f654491f0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582632.jpg?k=4a2eb3c18f3c1936c9e6a7da78aa46dc7df0f083ec52084a866f6cc4b3804584&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582669.jpg?k=50f05481696ec7d33324dbcc325d4f8b558a320b59506a193a29d5e21a6cee1e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582637.jpg?k=046398098335138e43de9b4df553f082d9a8defa0be87ad6505ec338979b4329&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481891244.jpg?k=b240afe5b5d0b136fedccb3d25fcf0e724c99f1ab36ec5a9fe97b5e935d96a75&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582606.jpg?k=766af649d0b30676a4da942b0a55092c409b9034c8bca62c305a3e200645a6c2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582629.jpg?k=9ee525fe37ff1976ea4ce0c8379d22306f814e828e523d2f72aaa16f8a7d17c7&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582641.jpg?k=0ce4dc9087399ff2a4deb02bb301f399b9112001ec98034b101872c9f9b3e026&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyRestaurants:\n  - "Traditional Country Grill 350 m"\n  - "Aliu 400 m"\nnearbyBeaches:\n  - "Heaven Beach 1 km"\n  - "Mango Beach 1.1 km"\n  - "Flamingo Beach 1.6 km"\n  - "Santa Quaranta Beach 1.9 km"\n  - "VIP Beach 2 km"\nwhatsNearby:\n  - "Butrint National Park 0 m"\n  - "Parc National de Butrint 2.1 km"\n  - "Plazhi I Krorezes 4.9 km"\n  - "Parku Kombetar I Butrintit 8 km"\n  - "Butrint National Park 9 km"\nairports:\n  - "Corfu International Airport 27 km"\n  - "Ioannina Airport 69 km"\nreviews:\n  - name: "S"\n    country: "Albania"\n    text: "“This place was so amazing! My boyfriend and I went for a last minute trip to Saranda and found this gem for a great price. It was super close to the city and only a 10 minute drive from Ksamil. We loved how peaceful and relaxing the place was...”"\n  - name: "Anonymous"\n    country: "Albania"\n    text: "“The apartment was very clean and the location was excellent between Saranda and Ksamil. The view was amazing and the surrounding area was very quiet.”"\n  - name: "Valentina"\n    country: "Romania"\n    text: "“Curat, gazda foarte prietenoasa, micul dejun este inclus deși eu când am făcut rezervarea nu mi sa precizat ca am inclus, aproape de plajele din Ksamil .”"\nbookingURL: "https://www.booking.com/hotel/al/panoramic-views-of-saranda.en-gb.html?aid=8035640"\nbestFor: "Best for Panoramic Views"\nbestCategories: "Panoramic Views"\ncategory: "Panoramic Views"\n---\n\nThe apartment boasts a generous layout that includes a bedroom, a living room equipped with a flat-screen TV, and a kitchen that comes fully equipped with a dishwasher and an oven. The bathroom is well-appointed with a shower. One of the highlights of this accommodation is its terrace and mountain views, offering guests a picturesque backdrop to their stay. The patio, adorned with outdoor furniture, presents an idyllic setting for enjoying lake views, ensuring moments of relaxation and contemplation. The added benefit of a private entrance enhances the sense of exclusivity and privacy for guests.
+---
+title: "Panoramic Views of Saranda"
+description: "Panoramic Views of Saranda emerges as a prime choice for travelers seeking a serene getaway in Sarandë, located conveniently close to both Heaven Beach (1."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582627.jpg?k=d6d22009396f2de8876331e2809017c698102c8d2fc900ae69e5c3373f66e7f2&o=&hp=1"
+language: en
+slug: panoramic-views-of-saranda
+address: "Rruga Butrinti, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "apartment"
+coordinates:
+  lat: 39.84032048
+  lng: 20.02371152
+price: "US$58"
+priceFrom: 58
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 4
+ratings:
+  overall: 9.9
+  location: 9.4
+  cleanliness: 10
+  facilities: 10
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582627.jpg?k=d6d22009396f2de8876331e2809017c698102c8d2fc900ae69e5c3373f66e7f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582623.jpg?k=b8d77abe95e243ff968df285c8868521c86c0b47917e41e03275960f654491f0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582632.jpg?k=4a2eb3c18f3c1936c9e6a7da78aa46dc7df0f083ec52084a866f6cc4b3804584&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582669.jpg?k=50f05481696ec7d33324dbcc325d4f8b558a320b59506a193a29d5e21a6cee1e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582637.jpg?k=046398098335138e43de9b4df553f082d9a8defa0be87ad6505ec338979b4329&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481891244.jpg?k=b240afe5b5d0b136fedccb3d25fcf0e724c99f1ab36ec5a9fe97b5e935d96a75&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582606.jpg?k=766af649d0b30676a4da942b0a55092c409b9034c8bca62c305a3e200645a6c2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582629.jpg?k=9ee525fe37ff1976ea4ce0c8379d22306f814e828e523d2f72aaa16f8a7d17c7&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582641.jpg?k=0ce4dc9087399ff2a4deb02bb301f399b9112001ec98034b101872c9f9b3e026&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyRestaurants:
+  - "Traditional Country Grill 350 m"
+  - "Aliu 400 m"
+nearbyBeaches:
+  - "Heaven Beach 1 km"
+  - "Mango Beach 1.1 km"
+  - "Flamingo Beach 1.6 km"
+  - "Santa Quaranta Beach 1.9 km"
+  - "VIP Beach 2 km"
+whatsNearby:
+  - "Butrint National Park 0 m"
+  - "Parc National de Butrint 2.1 km"
+  - "Plazhi I Krorezes 4.9 km"
+  - "Parku Kombetar I Butrintit 8 km"
+  - "Butrint National Park 9 km"
+airports:
+  - "Corfu International Airport 27 km"
+  - "Ioannina Airport 69 km"
+reviews:
+  - name: "S"
+    country: "Albania"
+    text: "“This place was so amazing! My boyfriend and I went for a last minute trip to Saranda and found this gem for a great price. It was super close to the city and only a 10 minute drive from Ksamil. We loved how peaceful and relaxing the place was...”"
+  - name: "Anonymous"
+    country: "Albania"
+    text: "“The apartment was very clean and the location was excellent between Saranda and Ksamil. The view was amazing and the surrounding area was very quiet.”"
+  - name: "Valentina"
+    country: "Romania"
+    text: "“Curat, gazda foarte prietenoasa, micul dejun este inclus deși eu când am făcut rezervarea nu mi sa precizat ca am inclus, aproape de plajele din Ksamil .”"
+bookingURL: "https://www.booking.com/hotel/al/panoramic-views-of-saranda.en-gb.html?aid=8035640"
+bestFor: "Best for Panoramic Views"
+bestCategories: "Panoramic Views"
+category: "Panoramic Views"
+---
+
+The apartment boasts a generous layout that includes a bedroom, a living room equipped with a flat-screen TV, and a kitchen that comes fully equipped with a dishwasher and an oven. The bathroom is well-appointed with a shower. One of the highlights of this accommodation is its terrace and mountain views, offering guests a picturesque backdrop to their stay. The patio, adorned with outdoor furniture, presents an idyllic setting for enjoying lake views, ensuring moments of relaxation and contemplation. The added benefit of a private entrance enhances the sense of exclusivity and privacy for guests.
 
 For those interested in exploring the local area, Butrint National Park is accessible at a distance of 12 km, offering a glimpse into the region's natural beauty and historical significance. Further afield, Ancient Fanoti stands 46 km away, inviting adventurous explorers to discover its ancient charms. The nearest airport, Ioannina Airport, is located 99 km from the property, making Panoramic Views of Saranda a convenient option for international and domestic travelers alike.
 

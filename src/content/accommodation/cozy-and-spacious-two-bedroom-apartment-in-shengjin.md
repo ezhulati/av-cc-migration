@@ -1,6 +1,81 @@
----\ntitle: "Cozy and spacious two bedroom apartment in Shengjin"\ndescription: "Discover the charm of Shëngjin from the comfort of a beachfront gem, the Cozy and Spacious Two Bedroom Apartment."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878855.jpg?k=4c8e189a8002d115b0c0ae733e856b4a975ac27c65cc1f291b8e3f33f634efce&o=&hp=1"\nlanguage: en\nslug: cozy-and-spacious-two-bedroom-apartment-in-shengjin\naddress: "Rruga Shëngjin - Kune 8th floor, Shëngjin, Albania"\ncity: "Shëngjin"\nlocation: "Shëngjin"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.8079496\n  lng: 19.59862232\nprice: "US$161"\npriceFrom: 161\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 6\nratings:\n  overall: 9.9\n  location: 9.6\n  cleanliness: 10\n  facilities: 10\n  value: 9.6\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878855.jpg?k=4c8e189a8002d115b0c0ae733e856b4a975ac27c65cc1f291b8e3f33f634efce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382876677.jpg?k=a35eab62118074dc1e1e8c4c9fbc801be3136d258700c16787b237190c4fac2b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382875834.jpg?k=c7543f0d8f27c8b46763ffa4ecf231b329aceb67cda1d8de93b7916b7bffef94&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878844.jpg?k=b6024944ba8e1b4163f455b7217ba07c6384e8aab7764e26fba1aad5f93ff517&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878801.jpg?k=a4763d2b9fdeefe325b34f72c5ea0cbe156a99db8b7dc3056263920f24c225bf&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878806.jpg?k=ad2017e0e939aec78a2f5405be3ad266f507ea5e88a0fbbae0418ac3258585f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878847.jpg?k=be681600d096409be902997140ce16adb022b1964fcdf1f631f2ce84baad9aee&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878840.jpg?k=d12be637a3b2e6eec31a70880b73a3fe814606e0690ca4455bc1bee7dbf5b5ec&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878836.jpg?k=07651cb0eae51ea05b895796182c9edd373cc8bf27ffe8bc48d7ac89d08e2286&o=&hp=1"\namenities:\n  - "Free WiFi"\n  - "Beachfront"\nroomTypes:\n  - "Two-Bedroom Apartment"\nnearbyRestaurants:\n  - "Ermiri Palace 50 m"\n  - "Kolonat Shengjin 100 m"\nnearbyBeaches:\n  - "Shëngjin Beach 50 m"\n  - "Ylberi Beach 900 m"\n  - "Rana e Hedhun Beach 2.9 km"\n  - "Laguna Park Beach 4.3 km"\n  - "Kune Beach 4.3 km"\nairports:\n  - "Tirana International Airport Mother Teresa 43 km"\n  - "Podgorica Airport 66 km"\n  - "Tivat Airport 97 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Piotr"\n    country: "Poland"\n    text: "“The apartment is modern and clean.
+---
+title: "Cozy and spacious two bedroom apartment in Shengjin"
+description: "Discover the charm of Shëngjin from the comfort of a beachfront gem, the Cozy and Spacious Two Bedroom Apartment."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878855.jpg?k=4c8e189a8002d115b0c0ae733e856b4a975ac27c65cc1f291b8e3f33f634efce&o=&hp=1"
+language: en
+slug: cozy-and-spacious-two-bedroom-apartment-in-shengjin
+address: "Rruga Shëngjin - Kune 8th floor, Shëngjin, Albania"
+city: "Shëngjin"
+location: "Shëngjin"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.8079496
+  lng: 19.59862232
+price: "US$161"
+priceFrom: 161
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 6
+ratings:
+  overall: 9.9
+  location: 9.6
+  cleanliness: 10
+  facilities: 10
+  value: 9.6
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878855.jpg?k=4c8e189a8002d115b0c0ae733e856b4a975ac27c65cc1f291b8e3f33f634efce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382876677.jpg?k=a35eab62118074dc1e1e8c4c9fbc801be3136d258700c16787b237190c4fac2b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382875834.jpg?k=c7543f0d8f27c8b46763ffa4ecf231b329aceb67cda1d8de93b7916b7bffef94&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878844.jpg?k=b6024944ba8e1b4163f455b7217ba07c6384e8aab7764e26fba1aad5f93ff517&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878801.jpg?k=a4763d2b9fdeefe325b34f72c5ea0cbe156a99db8b7dc3056263920f24c225bf&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878806.jpg?k=ad2017e0e939aec78a2f5405be3ad266f507ea5e88a0fbbae0418ac3258585f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878847.jpg?k=be681600d096409be902997140ce16adb022b1964fcdf1f631f2ce84baad9aee&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878840.jpg?k=d12be637a3b2e6eec31a70880b73a3fe814606e0690ca4455bc1bee7dbf5b5ec&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878836.jpg?k=07651cb0eae51ea05b895796182c9edd373cc8bf27ffe8bc48d7ac89d08e2286&o=&hp=1"
+amenities:
+  - "Free WiFi"
+  - "Beachfront"
+roomTypes:
+  - "Two-Bedroom Apartment"
+nearbyRestaurants:
+  - "Ermiri Palace 50 m"
+  - "Kolonat Shengjin 100 m"
+nearbyBeaches:
+  - "Shëngjin Beach 50 m"
+  - "Ylberi Beach 900 m"
+  - "Rana e Hedhun Beach 2.9 km"
+  - "Laguna Park Beach 4.3 km"
+  - "Kune Beach 4.3 km"
+airports:
+  - "Tirana International Airport Mother Teresa 43 km"
+  - "Podgorica Airport 66 km"
+  - "Tivat Airport 97 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Piotr"
+    country: "Poland"
+    text: "“The apartment is modern and clean.
 There's great view from one of the balconies.
-The contact with the host was very good.”"\n  - name: "Snezana"\n    country: "Slovenia"\n    text: "“The apartment is located in an excellent location right next to the beach. There is no problem with parking because there is a huge parking lot right next to it, where the parking fee is not too expensive. The apartment itself is very spacious and...”"\n  - name: "Eliona"\n    country: "Albania"\n    text: "“Very spacious and clean, comfortable beds, the kitchen had a lot of things we needed”"\nbookingURL: "https://www.booking.com/hotel/al/cozy-and-spacious-2-bedroom-apartment-in-shengjin.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis apartment doesn't just boast a prime location; it's a haven of comfort and style. Guests are greeted with a generously sized living space that opens up to breathtaking sea views from a private balcony. The interior features two well-appointed bedrooms, a modern living room complete with a flat-screen TV for entertainment, and a fully equipped kitchen with an oven and microwave for those who love to cook. The convenience of two bathrooms, each with a walk-in shower, ensures a comfortable stay for all guests. To add to the comfort, the apartment is stocked with fresh towels and bed linen.
+The contact with the host was very good.”"
+  - name: "Snezana"
+    country: "Slovenia"
+    text: "“The apartment is located in an excellent location right next to the beach. There is no problem with parking because there is a huge parking lot right next to it, where the parking fee is not too expensive. The apartment itself is very spacious and...”"
+  - name: "Eliona"
+    country: "Albania"
+    text: "“Very spacious and clean, comfortable beds, the kitchen had a lot of things we needed”"
+bookingURL: "https://www.booking.com/hotel/al/cozy-and-spacious-2-bedroom-apartment-in-shengjin.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This apartment doesn't just boast a prime location; it's a haven of comfort and style. Guests are greeted with a generously sized living space that opens up to breathtaking sea views from a private balcony. The interior features two well-appointed bedrooms, a modern living room complete with a flat-screen TV for entertainment, and a fully equipped kitchen with an oven and microwave for those who love to cook. The convenience of two bathrooms, each with a walk-in shower, ensures a comfortable stay for all guests. To add to the comfort, the apartment is stocked with fresh towels and bed linen.
 
 Beyond the confines of this cozy retreat, the property offers practical amenities to enhance your stay. An elevator provides easy access to the apartment, ensuring a hassle-free experience for all guests. The added convenience of an ATM on-site and complimentary WiFi throughout the property means that every need is catered to. For those who prefer dining al fresco, an outdoor dining area is available, perfect for enjoying meals with a view.
 

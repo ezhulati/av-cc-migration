@@ -1,8 +1,79 @@
----\ntitle: "The Well House - UNESCO"\ndescription: "The Well House - UNESCO stands out as a premier destination for travelers seeking a blend of comfort and convenience in Berat."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939433.jpg?k=9283ef25854a565120c18f745c212eaa561f902e67e84f4e721d06ac9d06caca&o=&hp=1"\nlanguage: en\nslug: the-well-house-unesco\naddress: "Rruga Shpiragu, 5000 Berat, Albania"\ncity: "Berat"\nlocation: "Berat"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.70249664\n  lng: 19.94498147\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.4\nratingWords: "Outstanding"\nnumberOfReviews: 173\nratings:\n  overall: 9.4\n  location: 9.6\n  cleanliness: 9.4\n  facilities: 9\n  value: 9.4\n  comfort: 9.3\n  staff: 9.7\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939433.jpg?k=9283ef25854a565120c18f745c212eaa561f902e67e84f4e721d06ac9d06caca&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358948377.jpg?k=3a7a55b2221f9e4ae792e28b8e000e0a591ba26f5d7c23f1dcf6e62a47c9cd80&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940484.jpg?k=38e2d321f9a25064dd5e92dc06c9c84688b84d57e3ab2ebe0c5991ff53168720&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939491.jpg?k=ca0bce3b4ff4374990c3f6ec2ba9c4e1c784417528700c09b5031b9803dd6a0b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940601.jpg?k=27a2beb01926732ef8f64500b91f2eb4018c212a47455c205f1f4f0c114bb97c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172246754.jpg?k=045c4382f32811a22b6367044cd741c2b44c5d96c370348fe607375b9b14ef99&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939363.jpg?k=feb3a68527a253a15eba3830472e52d9ef8b631919edba2a2d102bf6a2e808c5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939436.jpg?k=7e7f150aa23f24beac478d02cb8d316192a67052c0503d9ff84313ec4e4ac833&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939489.jpg?k=04559dc56d373afb2c85323e85b7bc494c5bdc118d5058e586dff8920daaea63&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940615.jpg?k=63e3ed7aeebb8c3ed7647b39a9d5cc501834be97b0ecf8cdb84c0ab95c7949b9&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940609.jpg?k=5ddb3ee6f0b65f1bb5b78a01fcf374061ab5f8b0428f7ea21d2c804b9f269419&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433418013.jpg?k=3ecfdd195c928476fb008dc6735e3cf3b3cf880dd94586ac99be30c2dbb9817b&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Eni Traditional Food Berat 50 m"\n  - "Ura Gorices 100 m"\nwhatsNearby:\n  - "Tomorr Mountain National Park 9 km"\n  - "Sheshi Tomorri 17 km"\nairports:\n  - "Tirana International Airport Mother Teresa 79 km"\n  - "Ohrid Airport 84 km"\nreviews:\n  - name: "Jānis"\n    country: "Latvia"\n    text: "“Nice, cozy, clean room. Super pleasant staff - special thanks to the lady at the reception. Rich and delicious breakfast. Property with a historical atmosphere, located in the Old Centre at the riverside. Probably the most pleasant property from...”"\n  - name: "Dirk"\n    country: "Belgium"\n    text: "“Quiet, clean, very nice interior
+---
+title: "The Well House - UNESCO"
+description: "The Well House - UNESCO stands out as a premier destination for travelers seeking a blend of comfort and convenience in Berat."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939433.jpg?k=9283ef25854a565120c18f745c212eaa561f902e67e84f4e721d06ac9d06caca&o=&hp=1"
+language: en
+slug: the-well-house-unesco
+address: "Rruga Shpiragu, 5000 Berat, Albania"
+city: "Berat"
+location: "Berat"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.70249664
+  lng: 19.94498147
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.4
+ratingWords: "Outstanding"
+numberOfReviews: 173
+ratings:
+  overall: 9.4
+  location: 9.6
+  cleanliness: 9.4
+  facilities: 9
+  value: 9.4
+  comfort: 9.3
+  staff: 9.7
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939433.jpg?k=9283ef25854a565120c18f745c212eaa561f902e67e84f4e721d06ac9d06caca&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358948377.jpg?k=3a7a55b2221f9e4ae792e28b8e000e0a591ba26f5d7c23f1dcf6e62a47c9cd80&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940484.jpg?k=38e2d321f9a25064dd5e92dc06c9c84688b84d57e3ab2ebe0c5991ff53168720&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939491.jpg?k=ca0bce3b4ff4374990c3f6ec2ba9c4e1c784417528700c09b5031b9803dd6a0b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940601.jpg?k=27a2beb01926732ef8f64500b91f2eb4018c212a47455c205f1f4f0c114bb97c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172246754.jpg?k=045c4382f32811a22b6367044cd741c2b44c5d96c370348fe607375b9b14ef99&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939363.jpg?k=feb3a68527a253a15eba3830472e52d9ef8b631919edba2a2d102bf6a2e808c5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939436.jpg?k=7e7f150aa23f24beac478d02cb8d316192a67052c0503d9ff84313ec4e4ac833&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358939489.jpg?k=04559dc56d373afb2c85323e85b7bc494c5bdc118d5058e586dff8920daaea63&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940615.jpg?k=63e3ed7aeebb8c3ed7647b39a9d5cc501834be97b0ecf8cdb84c0ab95c7949b9&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358940609.jpg?k=5ddb3ee6f0b65f1bb5b78a01fcf374061ab5f8b0428f7ea21d2c804b9f269419&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433418013.jpg?k=3ecfdd195c928476fb008dc6735e3cf3b3cf880dd94586ac99be30c2dbb9817b&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Eni Traditional Food Berat 50 m"
+  - "Ura Gorices 100 m"
+whatsNearby:
+  - "Tomorr Mountain National Park 9 km"
+  - "Sheshi Tomorri 17 km"
+airports:
+  - "Tirana International Airport Mother Teresa 79 km"
+  - "Ohrid Airport 84 km"
+reviews:
+  - name: "Jānis"
+    country: "Latvia"
+    text: "“Nice, cozy, clean room. Super pleasant staff - special thanks to the lady at the reception. Rich and delicious breakfast. Property with a historical atmosphere, located in the Old Centre at the riverside. Probably the most pleasant property from...”"
+  - name: "Dirk"
+    country: "Belgium"
+    text: "“Quiet, clean, very nice interior
 Good breakfast
 Accomodating people
-Good area”"\n  - name: "Dirk"\n    country: "Belgium"\n    text: "“Very nice and cosy place. Traditional house and relaxing atmosphere. Would definitely go back or recommend to my friends. Also nice breakfast.
-People very friendly and accomodating”"\nbookingURL: "https://www.booking.com/hotel/al/vila-4-bed-amp-breakfast.en-gb.html?aid=8035640"\nbestFor: "Best for Historical Sites Proximity"\nbestCategories: "Historical Sites Proximity"\ncategory: "Historical Sites Proximity"\n---\n\nUpon arrival, guests are greeted with the luxury of a private entrance, leading to a world where every detail is catered to for an exceptional stay. The accommodations boast a thoughtful layout, including a cozy seating area perfect for unwinding. Entertainment is readily available through the flat-screen TV equipped with satellite channels, ensuring guests are never far from global happenings or a relaxing evening in. The attention to detail extends to the private bathrooms, which are outfitted with slippers, a bidet, and a shower, providing a spa-like experience in the privacy of one's room. Notably, all units are designed to be allergy-free and soundproof, promising a serene and uninterrupted stay.
+Good area”"
+  - name: "Dirk"
+    country: "Belgium"
+    text: "“Very nice and cosy place. Traditional house and relaxing atmosphere. Would definitely go back or recommend to my friends. Also nice breakfast.
+People very friendly and accomodating”"
+bookingURL: "https://www.booking.com/hotel/al/vila-4-bed-amp-breakfast.en-gb.html?aid=8035640"
+bestFor: "Best for Historical Sites Proximity"
+bestCategories: "Historical Sites Proximity"
+category: "Historical Sites Proximity"
+---
+
+Upon arrival, guests are greeted with the luxury of a private entrance, leading to a world where every detail is catered to for an exceptional stay. The accommodations boast a thoughtful layout, including a cozy seating area perfect for unwinding. Entertainment is readily available through the flat-screen TV equipped with satellite channels, ensuring guests are never far from global happenings or a relaxing evening in. The attention to detail extends to the private bathrooms, which are outfitted with slippers, a bidet, and a shower, providing a spa-like experience in the privacy of one's room. Notably, all units are designed to be allergy-free and soundproof, promising a serene and uninterrupted stay.
 
 The Well House - UNESCO takes pride in its breakfast offerings, available each morning. Catering to diverse dietary preferences, the menu includes vegetarian, vegan, and halal options, ensuring a delightful start to the day for all guests.
 

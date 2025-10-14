@@ -1,4 +1,71 @@
----\ntitle: "Green house, 1 bedroom & 1 kitchen apartment, located in Elbasan city center"\ndescription: "Discover the charm of Elbasan with a stay at the Green House, a modern apartment that promises a blend of comfort and convenience right in the heart of the city."\nfeaturedImage: "https://graph.facebook.com/v2.9/571117980721230/picture?type=square&height=64&width=64"\nlanguage: en\nslug: green-house-1-bedroom-1-kitchen-apartment-located-in-elbasan-city-center\naddress: "L 28 nentori, Mbrapa pallatit te sportit , Tomorr Sinani, Rruga Esat Bordi, 3001 Elbasan, Albania"\ncity: "Elbasan"\nlocation: "Elbasan"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.11138147\n  lng: 20.07770113\nprice: "US$45"\npriceFrom: 45\nstarRating: 3\nrating: 9.9\nratingWords: "Exceptional"\nnumberOfReviews: 3\nratings:\n  overall: 9.9\n  location: 10\n  cleanliness: 10\n  facilities: 9.2\n  value: 10\n  comfort: 10\n  staff: 10\n  wifi: 0\nimages:\n  - "https://graph.facebook.com/v2.9/571117980721230/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"\n  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411576988.jpg?k=afedf3a3358b379a01370c73ea06cf07e6bd32c8b49d9fb1d6bbc3cdb492455d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/319646993.jpg?k=ee2d12945b783675b601dc9ed30430221afe3defb197ba7bcb8f124f769743ae&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max500/494847167.jpg?k=357dc4210d1f8be5f00fde3e1f32a70d61b7d39569859add419432175da7b2f3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/419222648.jpg?k=a78dad76a5e4bd1d575d325b6c51f2c98514fe94e082e162ca96e394b599ec31&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411576789.jpg?k=fcd79715a6dd161532c9864d26d4618ee49ba0f81080d9eeb2b6f211b8963d88&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/316901105.jpg?k=222e7d74367c87c9368b1188c78609eeb2b67d8b45ff1d6626c965e44eae7063&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/411576940.jpg?k=c11b0248d51489830c0b644312166ef01094c004ed99e7c21668a017b3b1b66a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/493929929.jpg?k=a83df53ad926f7aa02a0e9156b98e1fbdc08d4ee3639ee804dd3e53389d4e981&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max300/412625126.jpg?k=9faa0788cf9ac71eea905c9de3d00ce66e422ef271bbc8ea38047cba79c568e6&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Airport shuttle"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\n  - "UnionPay credit card"\nreviews:\n  - name: "Griselda"\n    country: "United Kingdom"\n    text: "“We absolutely loved our stay at the apartment.so close to the centre of the city and all the amenities.very nice and modern. The kids loved the Netflix/youtube very much.”"\n  - name: "Klea"\n    country: "Italy"\n    text: "“Posizione eccellente, a pochi passi dal centro città. Attorno c’è tutto quello che serve: supermercato, bar, stazione autobus per altre città ecc. Fabiana è stata molto gentile e ci è venuta incontro tante volte. La casa è eccezionale, c’era tutto...”"\nbookingURL: "https://www.booking.com/hotel/al/green-house-elbasan12.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nUpon arrival, guests are greeted by a 24-hour front desk, complemented by round-the-clock security, ensuring peace of mind throughout their stay. Connectivity is never an issue, as free WiFi is available across the premises. For those looking to explore the area or needing a ride to the airport, the apartment facilitates both with its efficient airport transfer and car rental services.
+---
+title: "Green house, 1 bedroom & 1 kitchen apartment, located in Elbasan city center"
+description: "Discover the charm of Elbasan with a stay at the Green House, a modern apartment that promises a blend of comfort and convenience right in the heart of the city."
+featuredImage: "https://graph.facebook.com/v2.9/571117980721230/picture?type=square&height=64&width=64"
+language: en
+slug: green-house-1-bedroom-1-kitchen-apartment-located-in-elbasan-city-center
+address: "L 28 nentori, Mbrapa pallatit te sportit , Tomorr Sinani, Rruga Esat Bordi, 3001 Elbasan, Albania"
+city: "Elbasan"
+location: "Elbasan"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.11138147
+  lng: 20.07770113
+price: "US$45"
+priceFrom: 45
+starRating: 3
+rating: 9.9
+ratingWords: "Exceptional"
+numberOfReviews: 3
+ratings:
+  overall: 9.9
+  location: 10
+  cleanliness: 10
+  facilities: 9.2
+  value: 10
+  comfort: 10
+  staff: 10
+  wifi: 0
+images:
+  - "https://graph.facebook.com/v2.9/571117980721230/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/gb/15b607e8c3750857a144c70857d273e26ac13d66.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+  - "https://cf.bstatic.com/static/img/flags/12/it/cb5e3f3d7cd0ce4d1dbbc457863a4c8e55e73be7.png"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411576988.jpg?k=afedf3a3358b379a01370c73ea06cf07e6bd32c8b49d9fb1d6bbc3cdb492455d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/319646993.jpg?k=ee2d12945b783675b601dc9ed30430221afe3defb197ba7bcb8f124f769743ae&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max500/494847167.jpg?k=357dc4210d1f8be5f00fde3e1f32a70d61b7d39569859add419432175da7b2f3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/419222648.jpg?k=a78dad76a5e4bd1d575d325b6c51f2c98514fe94e082e162ca96e394b599ec31&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411576789.jpg?k=fcd79715a6dd161532c9864d26d4618ee49ba0f81080d9eeb2b6f211b8963d88&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/316901105.jpg?k=222e7d74367c87c9368b1188c78609eeb2b67d8b45ff1d6626c965e44eae7063&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/411576940.jpg?k=c11b0248d51489830c0b644312166ef01094c004ed99e7c21668a017b3b1b66a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/493929929.jpg?k=a83df53ad926f7aa02a0e9156b98e1fbdc08d4ee3639ee804dd3e53389d4e981&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max300/412625126.jpg?k=9faa0788cf9ac71eea905c9de3d00ce66e422ef271bbc8ea38047cba79c568e6&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Airport shuttle"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+  - "UnionPay credit card"
+reviews:
+  - name: "Griselda"
+    country: "United Kingdom"
+    text: "“We absolutely loved our stay at the apartment.so close to the centre of the city and all the amenities.very nice and modern. The kids loved the Netflix/youtube very much.”"
+  - name: "Klea"
+    country: "Italy"
+    text: "“Posizione eccellente, a pochi passi dal centro città. Attorno c’è tutto quello che serve: supermercato, bar, stazione autobus per altre città ecc. Fabiana è stata molto gentile e ci è venuta incontro tante volte. La casa è eccezionale, c’era tutto...”"
+bookingURL: "https://www.booking.com/hotel/al/green-house-elbasan12.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+Upon arrival, guests are greeted by a 24-hour front desk, complemented by round-the-clock security, ensuring peace of mind throughout their stay. Connectivity is never an issue, as free WiFi is available across the premises. For those looking to explore the area or needing a ride to the airport, the apartment facilitates both with its efficient airport transfer and car rental services.
 
 The apartment itself is a haven of space and privacy. It features one cozy bedroom, a bathroom equipped with modern necessities, and a living room designed for relaxation, complete with a flat-screen TV. The kitchen is fully equipped, boasting a dining area and an oven, perfect for those who enjoy preparing their meals. Adding to the comfort, the apartment offers soundproofing and a private entrance, ensuring a tranquil retreat from the city's hustle and bustle.
 

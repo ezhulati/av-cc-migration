@@ -1,5 +1,84 @@
----\ntitle: "British Hotel Pogradec"\ndescription: "British Hotel Pogradec emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Pogradec, merely 8."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203413759.jpg?k=78738309178f7a606feec0a187f8df83c7194e6392006bbfa110e7ee4728244e&o=&hp=1"\nlanguage: en\nslug: british-hotel-pogradec\naddress: "Rruga Rinia Road Lagja nr 2, 7301 Pogradec, Albania"\ncity: "Pogradec"\nlocation: "Pogradec"\naccommodationType: "hotel"\ncoordinates:\n  lat: 40.901409\n  lng: 20.658087\nprice: "US$52"\npriceFrom: 52\nstarRating: 4\nrating: 8.8\nratingWords: "Very Good"\nnumberOfReviews: 236\nratings:\n  overall: 8.8\n  location: 9.5\n  cleanliness: 8.7\n  facilities: 8.4\n  value: 8.5\n  comfort: 8.8\n  staff: 9.2\n  wifi: 8.3\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203413759.jpg?k=78738309178f7a606feec0a187f8df83c7194e6392006bbfa110e7ee4728244e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523711605.jpg?k=eec4c9e103bb83ffd62ac5dd26ca096424f31030d60159c0ed22351ff94acb26&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210554803.jpg?k=1ea1bb118acc11bdc9d5c4b5436d1a174168a7c4e0c048e086b4efa2ae89959b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203424083.jpg?k=c4d46a1841eabfcc2dfb93e423a8b30e36eef3937904aeeeda34c09c389c8127&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203421931.jpg?k=fe010ae31aaadc3fc87a5aa907124c097b994d0786f039c59eb595b67f8bcce8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210554902.jpg?k=69aa528864febe3157900ef2219debbc4f9129163ffe0d84cae61b4e7c56c4f2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315467246.jpg?k=dc70dd4973fcf46b3cac82d0f51824a242a039f5df4743ad8853a0e3f7b1b9f6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203415199.jpg?k=a743692817fd24c71287984f13c73d735da5889003399dcd9d509f1cd1d75ffa&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523711999.jpg?k=0c0a0ee6aaaa73a0347eb9c7cb84e2cba513e32f7ec66d4bee31644352bd1457&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Bar"\n  - "Fabulous breakfast"\nroomTypes:\n  - "Double Room"\n  - "King Suite"\n  - "Triple Room"\n  - "Family Room"\n  - "Apartment"\nnearbyRestaurants:\n  - "Rusi Grill 20 m"\n  - "Bar Pasticeri Tushi 40 m"\nwhatsNearby:\n  - "Driloni National Park 950 m"\n  - "National Park Galicica 7 km"\n  - "National Park Galicica 14 km"\n  - "Bay of Bones 16 km"\nairports:\n  - "Ohrid Airport 30 km"\n  - "Kastoria National Airport 72 km"\n  - "Tirana International Airport Mother Teresa 96 km"\nreviews:\n  - name: "Daniela"\n    country: "Spain"\n    text: "“When we arrived, we want to change the room and the service was excellent, very kind. The bed was very comfortable, a big bathroom, we recommend the big room, was more comfortable.”"\n  - name: "Veliaj"\n    country: "Albania"\n    text: "“great hotel,great location,you can see the lake from the room,bar and tarrace.Very clean room,very polite staf including the lady manager who is very kind and caring.
-Abundant breakfast and good coffee.”"\n  - name: "Anila"\n    country: "Albania"\n    text: "“Excellent hotel in the city center with lake view, very clean snd staff very polite. I will definitely go back.”"\nbookingURL: "https://www.booking.com/hotel/al/british-pogradec.en-gb.html?aid=8035640"\nbestFor: "Best for Lake Views"\nbestCategories: "Lake Views"\ncategory: "Lake Views"\n---\n\nConnectivity is seamless within the premises, thanks to complimentary WiFi, ensuring guests stay connected with the world or plan their next adventure in Pogradec. The hotel prides itself on its round-the-clock front desk and efficient dry cleaning services, catering to all guest needs at any hour.
+---
+title: "British Hotel Pogradec"
+description: "British Hotel Pogradec emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Pogradec, merely 8."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203413759.jpg?k=78738309178f7a606feec0a187f8df83c7194e6392006bbfa110e7ee4728244e&o=&hp=1"
+language: en
+slug: british-hotel-pogradec
+address: "Rruga Rinia Road Lagja nr 2, 7301 Pogradec, Albania"
+city: "Pogradec"
+location: "Pogradec"
+accommodationType: "hotel"
+coordinates:
+  lat: 40.901409
+  lng: 20.658087
+price: "US$52"
+priceFrom: 52
+starRating: 4
+rating: 8.8
+ratingWords: "Very Good"
+numberOfReviews: 236
+ratings:
+  overall: 8.8
+  location: 9.5
+  cleanliness: 8.7
+  facilities: 8.4
+  value: 8.5
+  comfort: 8.8
+  staff: 9.2
+  wifi: 8.3
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203413759.jpg?k=78738309178f7a606feec0a187f8df83c7194e6392006bbfa110e7ee4728244e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523711605.jpg?k=eec4c9e103bb83ffd62ac5dd26ca096424f31030d60159c0ed22351ff94acb26&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210554803.jpg?k=1ea1bb118acc11bdc9d5c4b5436d1a174168a7c4e0c048e086b4efa2ae89959b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203424083.jpg?k=c4d46a1841eabfcc2dfb93e423a8b30e36eef3937904aeeeda34c09c389c8127&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203421931.jpg?k=fe010ae31aaadc3fc87a5aa907124c097b994d0786f039c59eb595b67f8bcce8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210554902.jpg?k=69aa528864febe3157900ef2219debbc4f9129163ffe0d84cae61b4e7c56c4f2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315467246.jpg?k=dc70dd4973fcf46b3cac82d0f51824a242a039f5df4743ad8853a0e3f7b1b9f6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203415199.jpg?k=a743692817fd24c71287984f13c73d735da5889003399dcd9d509f1cd1d75ffa&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523711999.jpg?k=0c0a0ee6aaaa73a0347eb9c7cb84e2cba513e32f7ec66d4bee31644352bd1457&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Bar"
+  - "Fabulous breakfast"
+roomTypes:
+  - "Double Room"
+  - "King Suite"
+  - "Triple Room"
+  - "Family Room"
+  - "Apartment"
+nearbyRestaurants:
+  - "Rusi Grill 20 m"
+  - "Bar Pasticeri Tushi 40 m"
+whatsNearby:
+  - "Driloni National Park 950 m"
+  - "National Park Galicica 7 km"
+  - "National Park Galicica 14 km"
+  - "Bay of Bones 16 km"
+airports:
+  - "Ohrid Airport 30 km"
+  - "Kastoria National Airport 72 km"
+  - "Tirana International Airport Mother Teresa 96 km"
+reviews:
+  - name: "Daniela"
+    country: "Spain"
+    text: "“When we arrived, we want to change the room and the service was excellent, very kind. The bed was very comfortable, a big bathroom, we recommend the big room, was more comfortable.”"
+  - name: "Veliaj"
+    country: "Albania"
+    text: "“great hotel,great location,you can see the lake from the room,bar and tarrace.Very clean room,very polite staf including the lady manager who is very kind and caring.
+Abundant breakfast and good coffee.”"
+  - name: "Anila"
+    country: "Albania"
+    text: "“Excellent hotel in the city center with lake view, very clean snd staff very polite. I will definitely go back.”"
+bookingURL: "https://www.booking.com/hotel/al/british-pogradec.en-gb.html?aid=8035640"
+bestFor: "Best for Lake Views"
+bestCategories: "Lake Views"
+category: "Lake Views"
+---
+
+Connectivity is seamless within the premises, thanks to complimentary WiFi, ensuring guests stay connected with the world or plan their next adventure in Pogradec. The hotel prides itself on its round-the-clock front desk and efficient dry cleaning services, catering to all guest needs at any hour.
 
 Accommodations at British Hotel Pogradec are thoughtfully designed with guest comfort in mind. Each room is equipped with a wardrobe for personal belongings, air conditioning for a pleasant climate control, and a flat-screen TV for entertainment. Select rooms boast a captivating city view, adding an extra layer of delight to the stay.
 

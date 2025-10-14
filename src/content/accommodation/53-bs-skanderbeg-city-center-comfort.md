@@ -1,4 +1,67 @@
----\ntitle: "53° Bs Skanderbeg City Center Comfort"\ndescription: "53° Bs Skanderbeg City Center Comfort emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375869.jpg?k=cdff8379d021a9919215488d2da9848c4d0b2b69507e4776d83b8f306de3a8af&o=&hp=1"\nlanguage: en\nslug: 53-bs-skanderbeg-city-center-comfort\naddress: "Rruga Abdulla Keta, 1001 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33200813\n  lng: 19.82141971\nprice: "US$46"\npriceFrom: 46\nstarRating: 3\nrating: 8.7\nratingWords: "Very Good"\nnumberOfReviews: 5\nratings:\n  overall: 8.7\n  location: 9\n  cleanliness: 8.5\n  facilities: 7.5\n  value: 8.5\n  comfort: 9.5\n  staff: 9\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375869.jpg?k=cdff8379d021a9919215488d2da9848c4d0b2b69507e4776d83b8f306de3a8af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375974.jpg?k=0911a5acc8b783fd55cfcf91aefd60b27db7da0c0c5bbed20092f11f8df74700&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375939.jpg?k=88839bbce05bb0b9a5272466490ff8481cfa420afb1f05cd9e82703e1a877723&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375930.jpg?k=c512ff6a447461c47958aa8bbf5658dd582c82255430639fa4bd4a2897a752af&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375982.jpg?k=a0d4733b1f925c71df47b58f388f7a7290d86548c220ca5c21c8096f27dd6890&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451950989.jpg?k=b9c8ee369e911c448a9423eb88bbfc7fbd25ab976ad011408d2df68e5e2ffe7b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375954.jpg?k=f4c2d6b209742580c37d11e9f688acafcc7e2c1148798ab81be556bab7563be2&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375926.jpg?k=5ae59b2f7bbcbd282b8bcd5b5a7055460421c2ac4c0d640c1ac5bec59bdae057&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375916.jpg?k=c4f4e5f614446c9fb2dceb480c4e1531b82feac7a880c2a77373c594cb333597&o=&hp=1"\namenities:\n  - "Private parking"\n  - "Free WiFi"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "House of Leaves 700 m"\n  - "Tanners' Bridge 750 m"\n  - "Rinia Park 850 m"\n  - "Former Residence of Enver Hoxha 1.3 km"\n  - "Grand Park of Tirana 2.2 km"\n  - "Bunk'Art 1 Museum 3.8 km"\nreviews:\n  - name: "Martin"\n    country: "Slovakia"\n    text: "“Cistota, komfort, perfektne vybavenie, klimatizacia, poloha, luxus”"\n  - name: "Giada"\n    country: "Italy"\n    text: "“Casa molto bella. Letto e divani comodi. Ascensore. Balcone lavatrice tv Check- in semplice e la proprietaria gentilissima e parla benissimo l'italiano...parcheggio vicinissimo...tutto perfetto”"\nbookingURL: "https://www.booking.com/hotel/al/53deg-bs-skanderbeg-city-center-comfort.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment itself is a testament to modern living, equipped with a fully functional kitchen that includes an oven and toaster, ensuring that guests can feel at home, preparing meals at their leisure. The living space is thoughtfully designed with a flat-screen TV and a comfortable seating area, perfect for unwinding after a day of exploration. The convenience of a private bathroom, complete with a bidet, alongside the provision of towels and bed linen, adds to the seamless experience offered at this property. The added benefit of a private entrance enhances the sense of privacy and exclusivity.
+---
+title: "53° Bs Skanderbeg City Center Comfort"
+description: "53° Bs Skanderbeg City Center Comfort emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375869.jpg?k=cdff8379d021a9919215488d2da9848c4d0b2b69507e4776d83b8f306de3a8af&o=&hp=1"
+language: en
+slug: 53-bs-skanderbeg-city-center-comfort
+address: "Rruga Abdulla Keta, 1001 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33200813
+  lng: 19.82141971
+price: "US$46"
+priceFrom: 46
+starRating: 3
+rating: 8.7
+ratingWords: "Very Good"
+numberOfReviews: 5
+ratings:
+  overall: 8.7
+  location: 9
+  cleanliness: 8.5
+  facilities: 7.5
+  value: 8.5
+  comfort: 9.5
+  staff: 9
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375869.jpg?k=cdff8379d021a9919215488d2da9848c4d0b2b69507e4776d83b8f306de3a8af&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375974.jpg?k=0911a5acc8b783fd55cfcf91aefd60b27db7da0c0c5bbed20092f11f8df74700&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375939.jpg?k=88839bbce05bb0b9a5272466490ff8481cfa420afb1f05cd9e82703e1a877723&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375930.jpg?k=c512ff6a447461c47958aa8bbf5658dd582c82255430639fa4bd4a2897a752af&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375982.jpg?k=a0d4733b1f925c71df47b58f388f7a7290d86548c220ca5c21c8096f27dd6890&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451950989.jpg?k=b9c8ee369e911c448a9423eb88bbfc7fbd25ab976ad011408d2df68e5e2ffe7b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375954.jpg?k=f4c2d6b209742580c37d11e9f688acafcc7e2c1148798ab81be556bab7563be2&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375926.jpg?k=5ae59b2f7bbcbd282b8bcd5b5a7055460421c2ac4c0d640c1ac5bec59bdae057&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375916.jpg?k=c4f4e5f614446c9fb2dceb480c4e1531b82feac7a880c2a77373c594cb333597&o=&hp=1"
+amenities:
+  - "Private parking"
+  - "Free WiFi"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "House of Leaves 700 m"
+  - "Tanners' Bridge 750 m"
+  - "Rinia Park 850 m"
+  - "Former Residence of Enver Hoxha 1.3 km"
+  - "Grand Park of Tirana 2.2 km"
+  - "Bunk'Art 1 Museum 3.8 km"
+reviews:
+  - name: "Martin"
+    country: "Slovakia"
+    text: "“Cistota, komfort, perfektne vybavenie, klimatizacia, poloha, luxus”"
+  - name: "Giada"
+    country: "Italy"
+    text: "“Casa molto bella. Letto e divani comodi. Ascensore. Balcone lavatrice tv Check- in semplice e la proprietaria gentilissima e parla benissimo l'italiano...parcheggio vicinissimo...tutto perfetto”"
+bookingURL: "https://www.booking.com/hotel/al/53deg-bs-skanderbeg-city-center-comfort.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment itself is a testament to modern living, equipped with a fully functional kitchen that includes an oven and toaster, ensuring that guests can feel at home, preparing meals at their leisure. The living space is thoughtfully designed with a flat-screen TV and a comfortable seating area, perfect for unwinding after a day of exploration. The convenience of a private bathroom, complete with a bidet, alongside the provision of towels and bed linen, adds to the seamless experience offered at this property. The added benefit of a private entrance enhances the sense of privacy and exclusivity.
 
 Strategically located, 53° Bs Skanderbeg City Center Comfort is a gateway to some of Tirana's most sought-after attractions. Guests are mere moments away from the historic Skanderbeg Square, the intriguing Former Residence of Enver Hoxha, and the prestigious National Theatre of Opera and Ballet of Albania. For those looking to explore beyond the city, Tirana International Mother Teresa Airport is conveniently situated just 14 km away, making arrivals and departures a breeze.
 

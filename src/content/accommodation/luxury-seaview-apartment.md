@@ -1,5 +1,94 @@
----\ntitle: "Luxury Seaview Apartment"\ndescription: "Luxury Seaview Apartment stands as a premier beachfront destination in Durrës, mere steps away from the inviting sands of Durres Beach and a scenic 39 km drive from the historic Skanderbeg Square."\nfeaturedImage: "https://lh3.googleusercontent.com/a/AEdFTp5u-bERW_M6Vzykv76fa9xKCVD_3LCheiLhpa6xBA=s96-c64"\nlanguage: en\nslug: luxury-seaview-apartment\naddress: "Pavaresia Lagja nr.13, 2008 Durrës, Albania"\ncity: "Durrës"\nlocation: "Durrës"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.30576316\n  lng: 19.48886363\nprice: "US$67"\npriceFrom: 67\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 126\nratings:\n  overall: 9.6\n  location: 9.5\n  cleanliness: 9.3\n  facilities: 9.5\n  value: 9.5\n  comfort: 9.6\n  staff: 9.6\n  wifi: 10\nimages:\n  - "https://lh3.googleusercontent.com/a/AEdFTp5u-bERW_M6Vzykv76fa9xKCVD_3LCheiLhpa6xBA=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"\n  - "https://lh3.googleusercontent.com/a-/AAuE7mBLqN_ZCRVGDFc68NTBUhbhUj6S--tGMzbqYwjN8Y8=s96-c64"\n  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"\n  - "https://graph.facebook.com/v2.9/10155879568116014/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/se/831bfd16d8feeff6a0728e4328b39feeb65b55e8.png"\n  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"\n  - "https://cf.bstatic.com/static/img/flags/12/ae/18f09dc466538137aafc7d41018ea00e17497a27.png"\n  - "https://cf.bstatic.com/xdata/images/xphoto/square64/185539829.webp?k=10559749d57aae340ce17ee2b7287fb007cbafa0b5447a7d6956aae343276ddb&o=?t=1671321545"\n  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"\n  - "https://graph.facebook.com/v2.9/10217114002394290/picture?type=square&height=64&width=64"\n  - "https://cf.bstatic.com/static/img/flags/12/fi/8d4e15edaaf838f3da7ae9ffff47bb7197c824bb.png"\n  - "https://cf.bstatic.com/xdata/images/xphoto/square64/15772045.webp?k=69408ffe2acc86db8853dad54c9e0b656cdcd400d1067207bd55aa632d02bdef&o=?t=1488703561"\n  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"\n  - "https://graph.facebook.com/v2.9/10205025753308805/picture?type=square&height=64&width=64"\namenities:\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "24-hour front desk"\n  - "Bar"\nroomTypes:\n  - "Three-Bedroom Apartment"\nnearbyRestaurants:\n  - "Beach bar Germany Hotel 50 m"\n  - "Madre Perla 100 m"\nnearbyBeaches:\n  - "Durres Beach 4 m"\n  - "Shkëmbi i Kavajës Beach 2.8 km"\n  - "Currila Beach 3.5 km"\n  - "Kallmi Beach 4.9 km"\n  - "Golem Beach 5 km"\nwhatsNearby:\n  - "Bekimi 2.6 km"\n  - "Wine Dhe Pooh 3.5 km"\n  - "Sheshi Demokracia 3.6 km"\n  - "Yje Dhe Hena 3.7 km"\n  - "Durres Amphiteatre 3.7 km"\n  - "1. Maj 3.9 km"\n  - "Sotir Noka 3.9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 22 km"\nreviews:\n  - name: "Xhullima"\n    country: "Albania"\n    text: "“Excellent location; so close to the sea. The facilities were great and clean. The host was very nice and helpful.”"\n  - name: "Tomasz"\n    country: "Poland"\n    text: "“Large apartment with a beautiful view. Super helpful owner.”"\n  - name: "Jonas"\n    country: "Sweden"\n    text: "“Spacious, beautiful. Just Great! Way better than any picture will show.
-Great comunication with host throuhout.”"\nbookingURL: "https://www.booking.com/hotel/al/sea-view-apartment-durres1234.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThe apartment itself is a study in spacious luxury, boasting three well-appointed bedrooms, two modern bathrooms, and an array of amenities designed for comfort and convenience. Guests will find everything from crisp bed linen and plush towels to a flat-screen TV equipped with streaming services. The dining area provides a perfect setting for meals, while the fully equipped kitchen caters to every culinary need. Perhaps the crown jewel of the apartment is its terrace, offering breathtaking sea views that promise to enchant every visitor.
+---
+title: "Luxury Seaview Apartment"
+description: "Luxury Seaview Apartment stands as a premier beachfront destination in Durrës, mere steps away from the inviting sands of Durres Beach and a scenic 39 km drive from the historic Skanderbeg Square."
+featuredImage: "https://lh3.googleusercontent.com/a/AEdFTp5u-bERW_M6Vzykv76fa9xKCVD_3LCheiLhpa6xBA=s96-c64"
+language: en
+slug: luxury-seaview-apartment
+address: "Pavaresia Lagja nr.13, 2008 Durrës, Albania"
+city: "Durrës"
+location: "Durrës"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.30576316
+  lng: 19.48886363
+price: "US$67"
+priceFrom: 67
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 126
+ratings:
+  overall: 9.6
+  location: 9.5
+  cleanliness: 9.3
+  facilities: 9.5
+  value: 9.5
+  comfort: 9.6
+  staff: 9.6
+  wifi: 10
+images:
+  - "https://lh3.googleusercontent.com/a/AEdFTp5u-bERW_M6Vzykv76fa9xKCVD_3LCheiLhpa6xBA=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/al/fb2cbf96bcebc05e7b4b8c533c756c27197c23dd.png"
+  - "https://lh3.googleusercontent.com/a-/AAuE7mBLqN_ZCRVGDFc68NTBUhbhUj6S--tGMzbqYwjN8Y8=s96-c64"
+  - "https://cf.bstatic.com/static/img/flags/12/pl/75b9e2fa7cc892a3726c29a937b2006c7f5beffd.png"
+  - "https://graph.facebook.com/v2.9/10155879568116014/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/se/831bfd16d8feeff6a0728e4328b39feeb65b55e8.png"
+  - "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+  - "https://cf.bstatic.com/static/img/flags/12/ae/18f09dc466538137aafc7d41018ea00e17497a27.png"
+  - "https://cf.bstatic.com/xdata/images/xphoto/square64/185539829.webp?k=10559749d57aae340ce17ee2b7287fb007cbafa0b5447a7d6956aae343276ddb&o=?t=1671321545"
+  - "https://cf.bstatic.com/static/img/flags/12/fr/80667cd1f58bba217c1ec87dea9ccd1335ed8dba.png"
+  - "https://graph.facebook.com/v2.9/10217114002394290/picture?type=square&height=64&width=64"
+  - "https://cf.bstatic.com/static/img/flags/12/fi/8d4e15edaaf838f3da7ae9ffff47bb7197c824bb.png"
+  - "https://cf.bstatic.com/xdata/images/xphoto/square64/15772045.webp?k=69408ffe2acc86db8853dad54c9e0b656cdcd400d1067207bd55aa632d02bdef&o=?t=1488703561"
+  - "https://cf.bstatic.com/static/img/flags/12/mk/ce384359e8a520450122357078887345161335e2.png"
+  - "https://graph.facebook.com/v2.9/10205025753308805/picture?type=square&height=64&width=64"
+amenities:
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "24-hour front desk"
+  - "Bar"
+roomTypes:
+  - "Three-Bedroom Apartment"
+nearbyRestaurants:
+  - "Beach bar Germany Hotel 50 m"
+  - "Madre Perla 100 m"
+nearbyBeaches:
+  - "Durres Beach 4 m"
+  - "Shkëmbi i Kavajës Beach 2.8 km"
+  - "Currila Beach 3.5 km"
+  - "Kallmi Beach 4.9 km"
+  - "Golem Beach 5 km"
+whatsNearby:
+  - "Bekimi 2.6 km"
+  - "Wine Dhe Pooh 3.5 km"
+  - "Sheshi Demokracia 3.6 km"
+  - "Yje Dhe Hena 3.7 km"
+  - "Durres Amphiteatre 3.7 km"
+  - "1. Maj 3.9 km"
+  - "Sotir Noka 3.9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 22 km"
+reviews:
+  - name: "Xhullima"
+    country: "Albania"
+    text: "“Excellent location; so close to the sea. The facilities were great and clean. The host was very nice and helpful.”"
+  - name: "Tomasz"
+    country: "Poland"
+    text: "“Large apartment with a beautiful view. Super helpful owner.”"
+  - name: "Jonas"
+    country: "Sweden"
+    text: "“Spacious, beautiful. Just Great! Way better than any picture will show.
+Great comunication with host throuhout.”"
+bookingURL: "https://www.booking.com/hotel/al/sea-view-apartment-durres1234.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+The apartment itself is a study in spacious luxury, boasting three well-appointed bedrooms, two modern bathrooms, and an array of amenities designed for comfort and convenience. Guests will find everything from crisp bed linen and plush towels to a flat-screen TV equipped with streaming services. The dining area provides a perfect setting for meals, while the fully equipped kitchen caters to every culinary need. Perhaps the crown jewel of the apartment is its terrace, offering breathtaking sea views that promise to enchant every visitor.
 
 For moments of relaxation, the property features an in-house bar and lounge, inviting guests to unwind in style. Additionally, those looking to explore the area can take advantage of the car rental service available on-site.
 

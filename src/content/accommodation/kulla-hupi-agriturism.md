@@ -1,4 +1,83 @@
----\ntitle: "Kulla Hupi Agriturism"\ndescription: "Kulla Hupi Agriturism emerges as a serene retreat for those seeking an escape into the countryside of Bulqizë."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465742573.jpg?k=cd199a4ff0bee64d9e6bd9fbf52a5a21e546a3a313c411d0a20f851b79bfebe5&o=&hp=1"\nlanguage: en\nslug: kulla-hupi-agriturism\naddress: "Rruga Skënderbeu, Dushaj Lagjia Lepurakë, 8402 Bulqizë, Albania"\ncity: "Bulqizë"\nlocation: "Bulqizë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.52808425\n  lng: 20.29836141\nprice: "US$31"\npriceFrom: 31\nstarRating: 3\nrating: 9.5\nratingWords: "Exceptional"\nnumberOfReviews: 141\nratings:\n  overall: 9.5\n  location: 9.4\n  cleanliness: 9.5\n  facilities: 9\n  value: 9.4\n  comfort: 9.4\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465742573.jpg?k=cd199a4ff0bee64d9e6bd9fbf52a5a21e546a3a313c411d0a20f851b79bfebe5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522128207.jpg?k=bb1a4d303f2475a101679f99b0ed2086ad13163c93aa9a13cadd97678cfb1a76&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307275755.jpg?k=fceaf35117fe915e559b61cd3a9fde91e75b315c12b0041673c997c9dfec7880&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465757802.jpg?k=0fa5ecb48e4fb2b3116210cd5de58a914d61ae60ab884407ed03e03c0aa58090&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464593551.jpg?k=6ca398e991fe6d1df12e49e73fa52175f662e20c480a895cca375104749fbe18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366715300.jpg?k=7bc8b3807075054849656d3ad89e6984760d1d900f0d123c14e788bdb928cf2d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522128213.jpg?k=7f9451d4fc572c2a5f902519e4380063a6a05a311454cd0bad45fb6478601dd0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465759178.jpg?k=55a28e21f8c73bc3eff4ff060ee39cee810f0a79f956b7b243cf4631e3e90331&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522128199.jpg?k=737ccbf317502fd2ac5588e10d9ec96532a5d4be71795092abc27b8f8e5d92c6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465788170.jpg?k=6ee3105b52c6366d8302f65bf7741d1cf978f3263241e983858a23987c2da4e0&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465787938.jpg?k=fca97338653391deb086d4e06978756c224efa5b8707ffa72d2b329726c0d6ad&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465787705.jpg?k=b569e5471d177754fd83980a2eb5eca8d48207b07dc80de471c0319b501efe93&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Airport shuttle"\n  - "Free parking"\n  - "Free WiFi"\n  - "Restaurant"\n  - "Family rooms"\n  - "Exceptional breakfast"\nroomTypes:\n  - "Bed in 6-Bed Dormitory Room"\n  - "Bed in 4-Bed Female Dormitory Room"\n  - "Double Room with Mountain View"\n  - "Twin Room with Mountain View"\n  - "Queen Room with Garden View"\n  - "Double Room with Garden View"\n  - "Basic Triple Room"\nnearbyRestaurants:\n  - "Fast-Food Eri 7 km"\n  - "My Cherry 8 km"\nairports:\n  - "Tirana International Airport Mother Teresa 49 km"\n  - "Ohrid Airport 53 km"\nreviews:\n  - name: "Robin"\n    country: "United Kingdom"\n    text: "“Everyone here was super kind and helpful. The food was absolutely fantastic, all local, Much travelling no more than about 20 metres. The location is gorgeous and peaceful. We were thrilled with our stay.”"\n  - name: "Katarzyna"\n    country: "France"\n    text: "“Lovely place in a countryside, perfectly renovated tower with beautiful garden and animals, great dinner and breakfast.”"\n  - name: "Svenja"\n    country: "Albania"\n    text: "“I just loved it there! My little son was super welcomed and everybody cared! The food was excellent and we had the best stay so far in Albania. Best greetings going out to the Nonas! :-) The spot was perfect and calm for friends of nature! The...”"\nbookingURL: "https://www.booking.com/hotel/al/kulla-hupi-guesthouse.en-gb.html?aid=8035640"\nbestFor: "Best for Agritourism"\nbestCategories: "Agritourism"\ncategory: "Agritourism"\n---\n\nAccommodations at Kulla Hupi Agriturism feature guest rooms equipped with patios and outdoor dining areas, allowing visitors to immerse themselves in the natural beauty of the surroundings. Select rooms also offer the added comfort of private bathrooms, ensuring a more intimate and convenient stay.
+---
+title: "Kulla Hupi Agriturism"
+description: "Kulla Hupi Agriturism emerges as a serene retreat for those seeking an escape into the countryside of Bulqizë."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465742573.jpg?k=cd199a4ff0bee64d9e6bd9fbf52a5a21e546a3a313c411d0a20f851b79bfebe5&o=&hp=1"
+language: en
+slug: kulla-hupi-agriturism
+address: "Rruga Skënderbeu, Dushaj Lagjia Lepurakë, 8402 Bulqizë, Albania"
+city: "Bulqizë"
+location: "Bulqizë"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.52808425
+  lng: 20.29836141
+price: "US$31"
+priceFrom: 31
+starRating: 3
+rating: 9.5
+ratingWords: "Exceptional"
+numberOfReviews: 141
+ratings:
+  overall: 9.5
+  location: 9.4
+  cleanliness: 9.5
+  facilities: 9
+  value: 9.4
+  comfort: 9.4
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465742573.jpg?k=cd199a4ff0bee64d9e6bd9fbf52a5a21e546a3a313c411d0a20f851b79bfebe5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522128207.jpg?k=bb1a4d303f2475a101679f99b0ed2086ad13163c93aa9a13cadd97678cfb1a76&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307275755.jpg?k=fceaf35117fe915e559b61cd3a9fde91e75b315c12b0041673c997c9dfec7880&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465757802.jpg?k=0fa5ecb48e4fb2b3116210cd5de58a914d61ae60ab884407ed03e03c0aa58090&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464593551.jpg?k=6ca398e991fe6d1df12e49e73fa52175f662e20c480a895cca375104749fbe18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366715300.jpg?k=7bc8b3807075054849656d3ad89e6984760d1d900f0d123c14e788bdb928cf2d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522128213.jpg?k=7f9451d4fc572c2a5f902519e4380063a6a05a311454cd0bad45fb6478601dd0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465759178.jpg?k=55a28e21f8c73bc3eff4ff060ee39cee810f0a79f956b7b243cf4631e3e90331&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522128199.jpg?k=737ccbf317502fd2ac5588e10d9ec96532a5d4be71795092abc27b8f8e5d92c6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465788170.jpg?k=6ee3105b52c6366d8302f65bf7741d1cf978f3263241e983858a23987c2da4e0&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465787938.jpg?k=fca97338653391deb086d4e06978756c224efa5b8707ffa72d2b329726c0d6ad&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465787705.jpg?k=b569e5471d177754fd83980a2eb5eca8d48207b07dc80de471c0319b501efe93&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Airport shuttle"
+  - "Free parking"
+  - "Free WiFi"
+  - "Restaurant"
+  - "Family rooms"
+  - "Exceptional breakfast"
+roomTypes:
+  - "Bed in 6-Bed Dormitory Room"
+  - "Bed in 4-Bed Female Dormitory Room"
+  - "Double Room with Mountain View"
+  - "Twin Room with Mountain View"
+  - "Queen Room with Garden View"
+  - "Double Room with Garden View"
+  - "Basic Triple Room"
+nearbyRestaurants:
+  - "Fast-Food Eri 7 km"
+  - "My Cherry 8 km"
+airports:
+  - "Tirana International Airport Mother Teresa 49 km"
+  - "Ohrid Airport 53 km"
+reviews:
+  - name: "Robin"
+    country: "United Kingdom"
+    text: "“Everyone here was super kind and helpful. The food was absolutely fantastic, all local, Much travelling no more than about 20 metres. The location is gorgeous and peaceful. We were thrilled with our stay.”"
+  - name: "Katarzyna"
+    country: "France"
+    text: "“Lovely place in a countryside, perfectly renovated tower with beautiful garden and animals, great dinner and breakfast.”"
+  - name: "Svenja"
+    country: "Albania"
+    text: "“I just loved it there! My little son was super welcomed and everybody cared! The food was excellent and we had the best stay so far in Albania. Best greetings going out to the Nonas! :-) The spot was perfect and calm for friends of nature! The...”"
+bookingURL: "https://www.booking.com/hotel/al/kulla-hupi-guesthouse.en-gb.html?aid=8035640"
+bestFor: "Best for Agritourism"
+bestCategories: "Agritourism"
+category: "Agritourism"
+---
+
+Accommodations at Kulla Hupi Agriturism feature guest rooms equipped with patios and outdoor dining areas, allowing visitors to immerse themselves in the natural beauty of the surroundings. Select rooms also offer the added comfort of private bathrooms, ensuring a more intimate and convenient stay.
 
 Located a mere 8 km from the heart of Bulqiza and 46 km from the vibrant city of Tirana, Kulla Hupi Agriturism serves as an ideal base for exploring the rich cultural and natural landscapes of the region. For those traveling by air, Tirana International Mother Teresa Airport is conveniently situated just 53 km away, making the property easily accessible for international guests.
 

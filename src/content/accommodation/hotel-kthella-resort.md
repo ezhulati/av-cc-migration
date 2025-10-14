@@ -1,4 +1,70 @@
----\ntitle: "Hotel Kthella Resort"\ndescription: "Discover the charm of Rrëshen with a stay at Hotel Kthella Resort, a distinguished 4-star establishment that stands out for its comprehensive amenities and exceptional service."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581392.jpg?k=c009ea388f0f1b5dcde3dff345f4ccfe71433a304c836911276c68c7a1b8b360&o=&hp=1"\nlanguage: en\nslug: hotel-kthella-resort\naddress: "Rruga Vincenco D'Paoli Kthella Autogrill Resort, 4600 Rrëshen, Albania"\ncity: "Rrëshen"\nlocation: "Rrëshen"\naccommodationType: "hotel"\ncoordinates:\n  lat: 41.77283823\n  lng: 19.86914992\nprice: "US$36"\npriceFrom: 36\nstarRating: 4\nrating: 6.2\nratingWords: "Average"\nnumberOfReviews: 6\nratings:\n  overall: 6.2\n  location: 6.3\n  cleanliness: 6.7\n  facilities: 6.3\n  value: 5.4\n  comfort: 7.1\n  staff: 5.4\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581392.jpg?k=c009ea388f0f1b5dcde3dff345f4ccfe71433a304c836911276c68c7a1b8b360&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483471245.jpg?k=f6a4ec7c0301ec4c5a1e5218c17830ed0057a51f01b7104bdc0f91f91f303db5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483471415.jpg?k=7cc258134b0d8eaa6e390e3e316a8ea8d6c2dbc4e101168f1378acdbf6a5d041&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581390.jpg?k=fa1f8093b5cb897d442f35ef38c17eb4d84cd984fdc34c4061d00beae273440e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483471335.jpg?k=e481a8844ae3e430ea64fb8c3fa808a7cdbd2d4cab9270fabc36cefb5a56d0cc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581391.jpg?k=c33556ff4037726d56bf6913c1911e73dfbab9f4052b7cbc318a32367c78c4bb&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "2 restaurants"\n  - "Family rooms"\n  - "Bar"\n  - "Breakfast"\nroomTypes:\n  - "Double Room with Balcony"\n  - "Deluxe Room"\n  - "Family Room"\nnearbyRestaurants:\n  - "Vila Livio 100 m"\n  - "City bar 700 m"\nwhatsNearby:\n  - "Sofra e Kthelles 9 km"\nairports:\n  - "Tirana International Airport Mother Teresa 40 km"\n  - "Podgorica Airport 82 km"\n  - "Ohrid Airport 98 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nbookingURL: "https://www.booking.com/hotel/al/kthella-resort.en-gb.html?aid=8035640"\nbestFor: "Best for Mountain Views"\nbestCategories: "Mountain Views"\ncategory: "Mountain Views"\n---\n\nUpon arrival, visitors are greeted by the serene beauty of the hotel's garden and the welcoming ambiance of its shared lounge and terrace. The on-site restaurant serves a variety of delectable dishes, catering to diverse palates and providing a taste of the local cuisine.
+---
+title: "Hotel Kthella Resort"
+description: "Discover the charm of Rrëshen with a stay at Hotel Kthella Resort, a distinguished 4-star establishment that stands out for its comprehensive amenities and exceptional service."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581392.jpg?k=c009ea388f0f1b5dcde3dff345f4ccfe71433a304c836911276c68c7a1b8b360&o=&hp=1"
+language: en
+slug: hotel-kthella-resort
+address: "Rruga Vincenco D'Paoli Kthella Autogrill Resort, 4600 Rrëshen, Albania"
+city: "Rrëshen"
+location: "Rrëshen"
+accommodationType: "hotel"
+coordinates:
+  lat: 41.77283823
+  lng: 19.86914992
+price: "US$36"
+priceFrom: 36
+starRating: 4
+rating: 6.2
+ratingWords: "Average"
+numberOfReviews: 6
+ratings:
+  overall: 6.2
+  location: 6.3
+  cleanliness: 6.7
+  facilities: 6.3
+  value: 5.4
+  comfort: 7.1
+  staff: 5.4
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581392.jpg?k=c009ea388f0f1b5dcde3dff345f4ccfe71433a304c836911276c68c7a1b8b360&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483471245.jpg?k=f6a4ec7c0301ec4c5a1e5218c17830ed0057a51f01b7104bdc0f91f91f303db5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483471415.jpg?k=7cc258134b0d8eaa6e390e3e316a8ea8d6c2dbc4e101168f1378acdbf6a5d041&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581390.jpg?k=fa1f8093b5cb897d442f35ef38c17eb4d84cd984fdc34c4061d00beae273440e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483471335.jpg?k=e481a8844ae3e430ea64fb8c3fa808a7cdbd2d4cab9270fabc36cefb5a56d0cc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581391.jpg?k=c33556ff4037726d56bf6913c1911e73dfbab9f4052b7cbc318a32367c78c4bb&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "2 restaurants"
+  - "Family rooms"
+  - "Bar"
+  - "Breakfast"
+roomTypes:
+  - "Double Room with Balcony"
+  - "Deluxe Room"
+  - "Family Room"
+nearbyRestaurants:
+  - "Vila Livio 100 m"
+  - "City bar 700 m"
+whatsNearby:
+  - "Sofra e Kthelles 9 km"
+airports:
+  - "Tirana International Airport Mother Teresa 40 km"
+  - "Podgorica Airport 82 km"
+  - "Ohrid Airport 98 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+bookingURL: "https://www.booking.com/hotel/al/kthella-resort.en-gb.html?aid=8035640"
+bestFor: "Best for Mountain Views"
+bestCategories: "Mountain Views"
+category: "Mountain Views"
+---
+
+Upon arrival, visitors are greeted by the serene beauty of the hotel's garden and the welcoming ambiance of its shared lounge and terrace. The on-site restaurant serves a variety of delectable dishes, catering to diverse palates and providing a taste of the local cuisine.
 
 Hotel Kthella Resort ensures a hassle-free experience with its 24-hour front desk, ATM on premises, and complimentary WiFi throughout the hotel. For those arriving by car, the convenience of free private parking is a notable perk. Additionally, the hotel offers car hire services, encouraging guests to explore the picturesque surroundings at their leisure.
 

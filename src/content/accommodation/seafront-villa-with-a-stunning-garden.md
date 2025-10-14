@@ -1,8 +1,91 @@
----\ntitle: "Seafront Villa with a Stunning Garden"\ndescription: "Seafront Villa with a Stunning Garden emerges as a premier choice for travelers seeking the perfect blend of comfort and convenience in Golem."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363121932.jpg?k=cd0190319de92f3fababbeb693ecef90f43ef44e0f511618379ccd8044411a46&o=&hp=1"\nlanguage: en\nslug: seafront-villa-with-a-stunning-garden\naddress: "Rruga Viena Vila 57, Viena Complex, 2504 Golem, Albania"\ncity: "Golem"\nlocation: "Golem"\naccommodationType: "villa"\ncoordinates:\n  lat: 41.25649421\n  lng: 19.522603\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 16\nratings:\n  overall: 9.3\n  location: 9.5\n  cleanliness: 9.7\n  facilities: 9.4\n  value: 9.7\n  comfort: 9.4\n  staff: 9.7\n  wifi: 7.5\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363121932.jpg?k=cd0190319de92f3fababbeb693ecef90f43ef44e0f511618379ccd8044411a46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202832990.jpg?k=ba2059c4cf5e7fe291e20ec7c18e12158a06e7f5725bbd5381f3763b6f89f448&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202831799.jpg?k=9150b98d681692d3b033772ce69a26badc224346e7d74ddf6be2baf7a893986d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298425364.jpg?k=ff266bb50699feae884221ef421cc310adc0a08b357807233b38df65f6004f8e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298425210.jpg?k=f2caeffac36a3d7cf843e97c0b411ee7244ab26cda81c0e79b66d77cf4065179&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363124396.jpg?k=932a345b55056c64585339824b39bfeac01a5495b55fc9a7808462bca374f2a6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125833.jpg?k=a38df9ba95cde1fbeb999a392e5d460086124df54d2e9a44b572542d77bca5fc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363126009.jpg?k=a466747b39313e647704c3c1c8339a3b7ce37d065d030567fd283d471cbf5d46&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202831869.jpg?k=2095123dc7591e79364b9c9b0c8f40ce992838644b07f0a48756421333fe9f0e&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458370953.jpg?k=2a6dacd9377cd56c103b50df501574da3ccb12c5df70883bd99927315cead4d8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363124793.jpg?k=9a3ac700e7993c20dedd5f2b560249a7a61f458cbda49d9b0d710302e688348c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298425042.jpg?k=9694976f17307ca2ebca28510f0b89537e54836d7ba14ca765521d27ea580dc5&o=&hp=1"\namenities:\n  - "Airport shuttle (free)"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\nnearbyRestaurants:\n  - "Flobede Furrë Buke 300 m"\n  - "Pashtriku 500 m"\nnearbyBeaches:\n  - "Golem Beach 200 m"\n  - "Mali I Robit Beach 950 m"\n  - "Shkëmbi i Kavajës Beach 1 km"\n  - "Qerret Beach 3 km"\n  - "Durres Beach 3.4 km"\nwhatsNearby:\n  - "Bekimi 9 km"\n  - "Durres Amphiteatre 9 km"\n  - "Wine Dhe Pooh 9 km"\n  - "1. Maj 9 km"\n  - "Yje Dhe Hena 9 km"\n  - "Sheshi Demokracia 9 km"\n  - "Sotir Noka 10 km"\nairports:\n  - "Tirana International Airport Mother Teresa 23 km"\nreviews:\n  - name: "Gazmir"\n    country: "Albania"\n    text: "“Very nice, quiet and well-organized property, 3 min walking distance from the beach.
+---
+title: "Seafront Villa with a Stunning Garden"
+description: "Seafront Villa with a Stunning Garden emerges as a premier choice for travelers seeking the perfect blend of comfort and convenience in Golem."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363121932.jpg?k=cd0190319de92f3fababbeb693ecef90f43ef44e0f511618379ccd8044411a46&o=&hp=1"
+language: en
+slug: seafront-villa-with-a-stunning-garden
+address: "Rruga Viena Vila 57, Viena Complex, 2504 Golem, Albania"
+city: "Golem"
+location: "Golem"
+accommodationType: "villa"
+coordinates:
+  lat: 41.25649421
+  lng: 19.522603
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 16
+ratings:
+  overall: 9.3
+  location: 9.5
+  cleanliness: 9.7
+  facilities: 9.4
+  value: 9.7
+  comfort: 9.4
+  staff: 9.7
+  wifi: 7.5
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363121932.jpg?k=cd0190319de92f3fababbeb693ecef90f43ef44e0f511618379ccd8044411a46&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202832990.jpg?k=ba2059c4cf5e7fe291e20ec7c18e12158a06e7f5725bbd5381f3763b6f89f448&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202831799.jpg?k=9150b98d681692d3b033772ce69a26badc224346e7d74ddf6be2baf7a893986d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298425364.jpg?k=ff266bb50699feae884221ef421cc310adc0a08b357807233b38df65f6004f8e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298425210.jpg?k=f2caeffac36a3d7cf843e97c0b411ee7244ab26cda81c0e79b66d77cf4065179&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363124396.jpg?k=932a345b55056c64585339824b39bfeac01a5495b55fc9a7808462bca374f2a6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363125833.jpg?k=a38df9ba95cde1fbeb999a392e5d460086124df54d2e9a44b572542d77bca5fc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363126009.jpg?k=a466747b39313e647704c3c1c8339a3b7ce37d065d030567fd283d471cbf5d46&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202831869.jpg?k=2095123dc7591e79364b9c9b0c8f40ce992838644b07f0a48756421333fe9f0e&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458370953.jpg?k=2a6dacd9377cd56c103b50df501574da3ccb12c5df70883bd99927315cead4d8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363124793.jpg?k=9a3ac700e7993c20dedd5f2b560249a7a61f458cbda49d9b0d710302e688348c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298425042.jpg?k=9694976f17307ca2ebca28510f0b89537e54836d7ba14ca765521d27ea580dc5&o=&hp=1"
+amenities:
+  - "Airport shuttle (free)"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+nearbyRestaurants:
+  - "Flobede Furrë Buke 300 m"
+  - "Pashtriku 500 m"
+nearbyBeaches:
+  - "Golem Beach 200 m"
+  - "Mali I Robit Beach 950 m"
+  - "Shkëmbi i Kavajës Beach 1 km"
+  - "Qerret Beach 3 km"
+  - "Durres Beach 3.4 km"
+whatsNearby:
+  - "Bekimi 9 km"
+  - "Durres Amphiteatre 9 km"
+  - "Wine Dhe Pooh 9 km"
+  - "1. Maj 9 km"
+  - "Yje Dhe Hena 9 km"
+  - "Sheshi Demokracia 9 km"
+  - "Sotir Noka 10 km"
+airports:
+  - "Tirana International Airport Mother Teresa 23 km"
+reviews:
+  - name: "Gazmir"
+    country: "Albania"
+    text: "“Very nice, quiet and well-organized property, 3 min walking distance from the beach.
 The host Gani was very friendly, communicative and made sure that everything was perfect for us to enjoy our stay.
-Great property for couples, families or group...”"\n  - name: "Carol"\n    country: "United Kingdom"\n    text: "“The location is a very short walk to the beach, good location to be away from the large crowds. Great location for our family with free parking space, plenty of room and excellent facilities.”"\n  - name: "Natalia"\n    country: "Spain"\n    text: "“Skerdi and his father (Gani) were tremendously friendly and very responsive every time I contacted them.
+Great property for couples, families or group...”"
+  - name: "Carol"
+    country: "United Kingdom"
+    text: "“The location is a very short walk to the beach, good location to be away from the large crowds. Great location for our family with free parking space, plenty of room and excellent facilities.”"
+  - name: "Natalia"
+    country: "Spain"
+    text: "“Skerdi and his father (Gani) were tremendously friendly and very responsive every time I contacted them.
 The house is really nice, comfortable and exactly as the pictures shown on the web.
-The veranda is very cute and the house has all the...”"\nbookingURL: "https://www.booking.com/hotel/al/villa-57-viena-complex.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nThis beachfront gem boasts a spacious layout, featuring two well-appointed bedrooms, a cozy living room, and a terrace that offers breathtaking garden views. Guests can enjoy modern comforts such as air conditioning, a flat-screen TV, and a fully equipped kitchen with an oven and microwave, ensuring a home-away-from-home experience. The villa also includes two bathrooms equipped with a bidet, enhancing the convenience factor. Privacy and security are paramount, with a private entrance and full-day security ensuring a worry-free stay.
+The veranda is very cute and the house has all the...”"
+bookingURL: "https://www.booking.com/hotel/al/villa-57-viena-complex.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+This beachfront gem boasts a spacious layout, featuring two well-appointed bedrooms, a cozy living room, and a terrace that offers breathtaking garden views. Guests can enjoy modern comforts such as air conditioning, a flat-screen TV, and a fully equipped kitchen with an oven and microwave, ensuring a home-away-from-home experience. The villa also includes two bathrooms equipped with a bidet, enhancing the convenience factor. Privacy and security are paramount, with a private entrance and full-day security ensuring a worry-free stay.
 
 Beyond the confines of the villa, guests have access to a variety of onsite amenities. A minimarket caters to daily needs, while the availability of table tennis, free private parking, and complimentary WiFi add to the villa’s appeal. Those looking to explore the outdoors will find fishing and barbecue facilities at their disposal, promising memorable moments under the sun.
 

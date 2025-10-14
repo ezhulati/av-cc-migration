@@ -1,4 +1,90 @@
----\ntitle: "Hotel LIDI"\ndescription: "Hotel LIDI emerges as a serene oasis in Sarandë, located just a short distance of 2 km from the vibrant Saranda City Beach."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511185.jpg?k=195db6f3be8b4cdac4cfc3cd6d28d5ff5a4eea61b7c05805cd0d61640d3554dc&o=&hp=1"\nlanguage: en\nslug: hotel-lidi\naddress: "Rruga Skënderbeu Next to Gas Station \"Pit Stop\", 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hotel"\ncoordinates:\n  lat: 39.87151501\n  lng: 20.02831236\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.6\nratingWords: "Exceptional"\nnumberOfReviews: 77\nratings:\n  overall: 9.6\n  location: 8.4\n  cleanliness: 9.8\n  facilities: 9.6\n  value: 9.7\n  comfort: 9.7\n  staff: 9.7\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511185.jpg?k=195db6f3be8b4cdac4cfc3cd6d28d5ff5a4eea61b7c05805cd0d61640d3554dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213381964.jpg?k=97efecf957c2dd58631a24ff6f9b27bbdffea942204adc02968846d60c739a57&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511718.jpg?k=d66f92ceeaa978eb44dcb2f9625006839045571a166d2f036909fd1ed9eb9b20&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486733325.jpg?k=2bdd2a403ee9e09539139638af172ac7585e76ca2f1a495f556adddb06b13099&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213381941.jpg?k=5dfbcf662c30297896841b7a7ae0374a50bbd719528fca82b83a0cc335fb57fe&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511921.jpg?k=a6a92f10cd43fad1040edb7a4af81bfd25ff7d66a7dd92534a74dd8d1321589b&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383512010.jpg?k=ad9aacf12e429034bf1fb1eb785496a70e3f80b6196e94a0b7a8b7a3cdb2fea8&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213381917.jpg?k=2561695def8481c36e4f25f218d03ddb56f3b643112eeca812b85671fb80f480&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490296653.jpg?k=a49b09d700e46f9c94d9178440c8afe3275bb0739986804e666cde1471a93c62&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486935203.jpg?k=88236fe911f95f5df9537d7daf42b0b3696d740fa768103f2d1f3ffb10f836a3&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486742351.jpg?k=774d219ffbb2c63847f5d9d7d16c6475e3f3e4b3883c7ec4f5c14511583cba30&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486733367.jpg?k=7a320c2383827a5c563ab297743a79fbd60f3a0934f552ce84ca557274c1639b&o=&hp=1"\namenities:\n  - "Airport shuttle"\n  - "Non-smoking rooms"\n  - "Free parking"\n  - "Free WiFi"\n  - "Bar"\n  - "Very good breakfast"\nnearbyRestaurants:\n  - "Coffee Fast Food 100 m"\n  - "Pizzeri Mejdani 550 m"\nnearbyBeaches:\n  - "Maestral Beach 1.2 km"\n  - "La Petite Beach 1.2 km"\n  - "Saranda City Beach 1.2 km"\n  - "VIP Beach 1.6 km"\n  - "Santa Quaranta Beach 1.7 km"\nwhatsNearby:\n  - "Parc National de Butrint 1.4 km"\n  - "Butrint National Park 2.4 km"\n  - "Plazhi I Krorezes 8 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 12 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 69 km"\npaymentMethods:\n  - "Maestro"\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Sara"\n    country: "Portugal"\n    text: "“Location was good, ~10min from the beach, with private parking available. The hosts were really thoughtful and nice! The room was spatious, clean and comfortable, as well as the bathroom. Buffet breakfast was available.”"\n  - name: "Hannah"\n    country: "Switzerland"\n    text: "“The three of us spent four nights at Hotel Lidi in Saranda and were absolutely thrilled. After a long and tiring journey, we received a very warm and courteous welcome. The kind and helpful staff, who pays attention to every little detail and...”"\n  - name: "Agnieszka"\n    country: "Poland"\n    text: "“The staff was really friendly, breakfasts were delicious and rooms were very clean - totally recommend ♡”"\nbookingURL: "https://www.booking.com/hotel/al/lidi.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nEach room is thoughtfully equipped with a desk and a flat-screen TV, catering to both leisure and business travelers. Select accommodations also feature a balcony, offering a private space to enjoy the tranquil surroundings.
+---
+title: "Hotel LIDI"
+description: "Hotel LIDI emerges as a serene oasis in Sarandë, located just a short distance of 2 km from the vibrant Saranda City Beach."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511185.jpg?k=195db6f3be8b4cdac4cfc3cd6d28d5ff5a4eea61b7c05805cd0d61640d3554dc&o=&hp=1"
+language: en
+slug: hotel-lidi
+address: "Rruga Skënderbeu Next to Gas Station \"Pit Stop\", 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hotel"
+coordinates:
+  lat: 39.87151501
+  lng: 20.02831236
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.6
+ratingWords: "Exceptional"
+numberOfReviews: 77
+ratings:
+  overall: 9.6
+  location: 8.4
+  cleanliness: 9.8
+  facilities: 9.6
+  value: 9.7
+  comfort: 9.7
+  staff: 9.7
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511185.jpg?k=195db6f3be8b4cdac4cfc3cd6d28d5ff5a4eea61b7c05805cd0d61640d3554dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213381964.jpg?k=97efecf957c2dd58631a24ff6f9b27bbdffea942204adc02968846d60c739a57&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511718.jpg?k=d66f92ceeaa978eb44dcb2f9625006839045571a166d2f036909fd1ed9eb9b20&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486733325.jpg?k=2bdd2a403ee9e09539139638af172ac7585e76ca2f1a495f556adddb06b13099&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213381941.jpg?k=5dfbcf662c30297896841b7a7ae0374a50bbd719528fca82b83a0cc335fb57fe&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511921.jpg?k=a6a92f10cd43fad1040edb7a4af81bfd25ff7d66a7dd92534a74dd8d1321589b&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383512010.jpg?k=ad9aacf12e429034bf1fb1eb785496a70e3f80b6196e94a0b7a8b7a3cdb2fea8&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213381917.jpg?k=2561695def8481c36e4f25f218d03ddb56f3b643112eeca812b85671fb80f480&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490296653.jpg?k=a49b09d700e46f9c94d9178440c8afe3275bb0739986804e666cde1471a93c62&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486935203.jpg?k=88236fe911f95f5df9537d7daf42b0b3696d740fa768103f2d1f3ffb10f836a3&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486742351.jpg?k=774d219ffbb2c63847f5d9d7d16c6475e3f3e4b3883c7ec4f5c14511583cba30&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486733367.jpg?k=7a320c2383827a5c563ab297743a79fbd60f3a0934f552ce84ca557274c1639b&o=&hp=1"
+amenities:
+  - "Airport shuttle"
+  - "Non-smoking rooms"
+  - "Free parking"
+  - "Free WiFi"
+  - "Bar"
+  - "Very good breakfast"
+nearbyRestaurants:
+  - "Coffee Fast Food 100 m"
+  - "Pizzeri Mejdani 550 m"
+nearbyBeaches:
+  - "Maestral Beach 1.2 km"
+  - "La Petite Beach 1.2 km"
+  - "Saranda City Beach 1.2 km"
+  - "VIP Beach 1.6 km"
+  - "Santa Quaranta Beach 1.7 km"
+whatsNearby:
+  - "Parc National de Butrint 1.4 km"
+  - "Butrint National Park 2.4 km"
+  - "Plazhi I Krorezes 8 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 12 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 69 km"
+paymentMethods:
+  - "Maestro"
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Sara"
+    country: "Portugal"
+    text: "“Location was good, ~10min from the beach, with private parking available. The hosts were really thoughtful and nice! The room was spatious, clean and comfortable, as well as the bathroom. Buffet breakfast was available.”"
+  - name: "Hannah"
+    country: "Switzerland"
+    text: "“The three of us spent four nights at Hotel Lidi in Saranda and were absolutely thrilled. After a long and tiring journey, we received a very warm and courteous welcome. The kind and helpful staff, who pays attention to every little detail and...”"
+  - name: "Agnieszka"
+    country: "Poland"
+    text: "“The staff was really friendly, breakfasts were delicious and rooms were very clean - totally recommend ♡”"
+bookingURL: "https://www.booking.com/hotel/al/lidi.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Each room is thoughtfully equipped with a desk and a flat-screen TV, catering to both leisure and business travelers. Select accommodations also feature a balcony, offering a private space to enjoy the tranquil surroundings.
 
 For beach enthusiasts, Maestral Beach and La Petite Beach are conveniently located 2 km and 2.1 km from the hotel, respectively, providing easy access to sun, sea, and sand. For those traveling from afar, the nearest airport is in Ioannina, 94 km from Hotel LIDI, with the hotel offering a paid shuttle service for a seamless travel experience.
 

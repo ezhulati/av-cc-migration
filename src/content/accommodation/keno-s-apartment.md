@@ -1,4 +1,72 @@
----\ntitle: "Keno's Apartment"\ndescription: "Keno's Apartment in Sarandë emerges as a charming retreat for travelers seeking both relaxation and adventure."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67774515.jpg?k=40630df3829406b750c3239f6edf43e645c298a244dbef1ebfd745edf5438929&o=&hp=1"\nlanguage: en\nslug: keno-s-apartment\naddress: "Rruga Hamalloi, 9701 Sarandë, Albania"\ncity: "Sarandë"\nlocation: "Sarandë"\naccommodationType: "hostel"\ncoordinates:\n  lat: 39.87786888\n  lng: 20.02073497\nprice: "US$27"\npriceFrom: 27\nstarRating: 3\nrating: 7.4\nratingWords: "Good"\nnumberOfReviews: 8\nratings:\n  overall: 7.4\n  location: 6.6\n  cleanliness: 8.1\n  facilities: 6.9\n  value: 7.5\n  comfort: 7.5\n  staff: 7.8\n  wifi: 0\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67774515.jpg?k=40630df3829406b750c3239f6edf43e645c298a244dbef1ebfd745edf5438929&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482180877.jpg?k=006330bcc227f64b81c1346c3377726e073cd5dc6326cc0b05d01766fb981b44&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204145684.jpg?k=aa75dc9158d1928d55ca51e05016d021b666ab4287d04efcb17a1dcd36558bcc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51197387.jpg?k=77cb27b216a35d0852e54d02bf3955bcebd26227feb530595b18aef9689ddbb5&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204145657.jpg?k=fb7e90e75fa01cd4b45783bb7debb8a0ee4860c97b25f3d4d87d79a8b7d5f88a&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482180894.jpg?k=29ca85805cd3efb0d7e79575466a9ef678cc4a7ec9e113dd893b0cbd0536d2c1&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free parking"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Terrace"\nroomTypes:\n  - "Triple Room"\nnearbyRestaurants:\n  - "Grand Hotel Saranda 600 m"\n  - "Le 5 Stelle & Pizzeria 750 m"\nnearbyBeaches:\n  - "Mango Beach 0 m"\n  - "Saranda City Beach 850 m"\n  - "La Petite Beach 1.2 km"\n  - "Maestral Beach 1.3 km"\n  - "Sarande Main Beach 1.8 km"\nwhatsNearby:\n  - "Parc National de Butrint 2.1 km"\n  - "Butrint National Park 3.1 km"\n  - "Plazhi I Krorezes 9 km"\n  - "Parku Kombetar I Butrintit 12 km"\n  - "Butrint National Park 13 km"\nairports:\n  - "Corfu International Airport 31 km"\n  - "Ioannina Airport 70 km"\nbookingURL: "https://www.booking.com/hotel/al/kenos-hostel.en-gb.html?aid=8035640"\nbestFor: "Best for Hostel Experience"\nbestCategories: "Hostel Experience"\ncategory: "Hostel Experience"\n---\n\nEach room at Keno's Apartment is a haven of comfort, boasting balconies that offer sweeping views of the cityscape. The promise of air-conditioned spaces and practical work desks in all units ensures a blend of leisure and productivity for every guest.
+---
+title: "Keno's Apartment"
+description: "Keno's Apartment in Sarandë emerges as a charming retreat for travelers seeking both relaxation and adventure."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67774515.jpg?k=40630df3829406b750c3239f6edf43e645c298a244dbef1ebfd745edf5438929&o=&hp=1"
+language: en
+slug: keno-s-apartment
+address: "Rruga Hamalloi, 9701 Sarandë, Albania"
+city: "Sarandë"
+location: "Sarandë"
+accommodationType: "hostel"
+coordinates:
+  lat: 39.87786888
+  lng: 20.02073497
+price: "US$27"
+priceFrom: 27
+starRating: 3
+rating: 7.4
+ratingWords: "Good"
+numberOfReviews: 8
+ratings:
+  overall: 7.4
+  location: 6.6
+  cleanliness: 8.1
+  facilities: 6.9
+  value: 7.5
+  comfort: 7.5
+  staff: 7.8
+  wifi: 0
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67774515.jpg?k=40630df3829406b750c3239f6edf43e645c298a244dbef1ebfd745edf5438929&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482180877.jpg?k=006330bcc227f64b81c1346c3377726e073cd5dc6326cc0b05d01766fb981b44&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204145684.jpg?k=aa75dc9158d1928d55ca51e05016d021b666ab4287d04efcb17a1dcd36558bcc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51197387.jpg?k=77cb27b216a35d0852e54d02bf3955bcebd26227feb530595b18aef9689ddbb5&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204145657.jpg?k=fb7e90e75fa01cd4b45783bb7debb8a0ee4860c97b25f3d4d87d79a8b7d5f88a&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482180894.jpg?k=29ca85805cd3efb0d7e79575466a9ef678cc4a7ec9e113dd893b0cbd0536d2c1&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free parking"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Terrace"
+roomTypes:
+  - "Triple Room"
+nearbyRestaurants:
+  - "Grand Hotel Saranda 600 m"
+  - "Le 5 Stelle & Pizzeria 750 m"
+nearbyBeaches:
+  - "Mango Beach 0 m"
+  - "Saranda City Beach 850 m"
+  - "La Petite Beach 1.2 km"
+  - "Maestral Beach 1.3 km"
+  - "Sarande Main Beach 1.8 km"
+whatsNearby:
+  - "Parc National de Butrint 2.1 km"
+  - "Butrint National Park 3.1 km"
+  - "Plazhi I Krorezes 9 km"
+  - "Parku Kombetar I Butrintit 12 km"
+  - "Butrint National Park 13 km"
+airports:
+  - "Corfu International Airport 31 km"
+  - "Ioannina Airport 70 km"
+bookingURL: "https://www.booking.com/hotel/al/kenos-hostel.en-gb.html?aid=8035640"
+bestFor: "Best for Hostel Experience"
+bestCategories: "Hostel Experience"
+category: "Hostel Experience"
+---
+
+Each room at Keno's Apartment is a haven of comfort, boasting balconies that offer sweeping views of the cityscape. The promise of air-conditioned spaces and practical work desks in all units ensures a blend of leisure and productivity for every guest.
 
 For those who revel in the outdoors, the property invites you to enjoy its barbecue facilities. Cyclists will find themselves in paradise, with the area around the hostel being celebrated for its cycling routes. Moreover, the option of car hire directly from Keno's Apartment opens up endless possibilities for exploration.
 

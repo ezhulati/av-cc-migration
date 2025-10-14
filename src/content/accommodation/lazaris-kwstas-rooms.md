@@ -1,6 +1,84 @@
----\ntitle: "Lazaris kwstas Rooms"\ndescription: "Lazaris Kwstas Rooms emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Himare."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161284.jpg?k=efc1d940c0214e5450d6c9295e97837d2876d358d4032d4511a8294b62c655e6&o=&hp=1"\nlanguage: en\nslug: lazaris-kwstas-rooms\naddress: "SH8 6, Stefanel. Himare., 9452 Himare, Albania"\ncity: "Himare"\nlocation: "Himare"\naccommodationType: "apartment"\ncoordinates:\n  lat: 40.09998294\n  lng: 19.75061452\nprice: "US$35"\npriceFrom: 35\nstarRating: 3\nrating: 9.3\nratingWords: "Outstanding"\nnumberOfReviews: 239\nratings:\n  overall: 9.3\n  location: 9.4\n  cleanliness: 9.2\n  facilities: 8.8\n  value: 9\n  comfort: 9.1\n  staff: 9.5\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161284.jpg?k=efc1d940c0214e5450d6c9295e97837d2876d358d4032d4511a8294b62c655e6&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161561.jpg?k=8ac4e37343fb45583a1537922cfe6b423ddbe22019f52495790949631d75897d&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373013685.jpg?k=c595dde97d8b7a2284f6d226ef3dcb5ebc07aa657bfa231e3a08f5c3ac091f96&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491325682.jpg?k=df1ad426cfb0796e58f5debdcb3bd3caf3d862ed95b1590d83227ae190289fde&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470658963.jpg?k=ce687dc56771cbcad5d6257f26188a1d97e67bc3e8ca46c47479f85c73f2e558&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161426.jpg?k=5ae8f51c5ae8469502f28401e6f7d504112db29a61cc3dd9ebaba8a1b52c3602&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365456568.jpg?k=8a5fc3d99dc333f51b0d0076809f7059cb584bdd27eefb61161b25c363874a71&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161658.jpg?k=b81098f96e13697e16f2fd41e4017157ca2016d584a4c1c3b69f4d2278b7cb91&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491325999.jpg?k=a816b8e34f0e0707c32a7dabd3e5ca2b0a96836df91c87bf101188bcdee8df09&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470660747.jpg?k=871a40b77ec214992e026ec2c4b6050a96f21578068dac9b0c8bdc29b14122e1&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470660212.jpg?k=6385d87aec15e0cec758229ebc413b645dd1c04ec6c2be393ad3248debdc866c&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470659994.jpg?k=739c5e0233edf469b075b2bb5f9dae7bca477955bf562566fe96b0b8db367627&o=&hp=1"\namenities:\n  - "Free parking"\n  - "Non-smoking rooms"\n  - "Room service"\n  - "Free WiFi"\n  - "Family rooms"\n  - "Beachfront"\n  - "Breakfast"\nnearbyRestaurants:\n  - "Orzo 100 m"\n  - "Restorant Piceri Neranxi 200 m"\nnearbyBeaches:\n  - "Maracit Beach 100 m"\n  - "Prinos Beach 100 m"\n  - "Spille Beach 250 m"\n  - "Potam Beach 550 m"\n  - "Gjiri i Filikurit Beach 1.5 km"\nwhatsNearby:\n  - "Llogora National Park 17 km"\nairports:\n  - "Corfu International Airport 56 km"\nreviews:\n  - name: "Meron"\n    country: "Israel"\n    text: "“We had one night there The place located next to the beach
+---
+title: "Lazaris kwstas Rooms"
+description: "Lazaris Kwstas Rooms emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Himare."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161284.jpg?k=efc1d940c0214e5450d6c9295e97837d2876d358d4032d4511a8294b62c655e6&o=&hp=1"
+language: en
+slug: lazaris-kwstas-rooms
+address: "SH8 6, Stefanel. Himare., 9452 Himare, Albania"
+city: "Himare"
+location: "Himare"
+accommodationType: "apartment"
+coordinates:
+  lat: 40.09998294
+  lng: 19.75061452
+price: "US$35"
+priceFrom: 35
+starRating: 3
+rating: 9.3
+ratingWords: "Outstanding"
+numberOfReviews: 239
+ratings:
+  overall: 9.3
+  location: 9.4
+  cleanliness: 9.2
+  facilities: 8.8
+  value: 9
+  comfort: 9.1
+  staff: 9.5
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161284.jpg?k=efc1d940c0214e5450d6c9295e97837d2876d358d4032d4511a8294b62c655e6&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161561.jpg?k=8ac4e37343fb45583a1537922cfe6b423ddbe22019f52495790949631d75897d&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373013685.jpg?k=c595dde97d8b7a2284f6d226ef3dcb5ebc07aa657bfa231e3a08f5c3ac091f96&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491325682.jpg?k=df1ad426cfb0796e58f5debdcb3bd3caf3d862ed95b1590d83227ae190289fde&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470658963.jpg?k=ce687dc56771cbcad5d6257f26188a1d97e67bc3e8ca46c47479f85c73f2e558&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161426.jpg?k=5ae8f51c5ae8469502f28401e6f7d504112db29a61cc3dd9ebaba8a1b52c3602&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365456568.jpg?k=8a5fc3d99dc333f51b0d0076809f7059cb584bdd27eefb61161b25c363874a71&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161658.jpg?k=b81098f96e13697e16f2fd41e4017157ca2016d584a4c1c3b69f4d2278b7cb91&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491325999.jpg?k=a816b8e34f0e0707c32a7dabd3e5ca2b0a96836df91c87bf101188bcdee8df09&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470660747.jpg?k=871a40b77ec214992e026ec2c4b6050a96f21578068dac9b0c8bdc29b14122e1&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470660212.jpg?k=6385d87aec15e0cec758229ebc413b645dd1c04ec6c2be393ad3248debdc866c&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470659994.jpg?k=739c5e0233edf469b075b2bb5f9dae7bca477955bf562566fe96b0b8db367627&o=&hp=1"
+amenities:
+  - "Free parking"
+  - "Non-smoking rooms"
+  - "Room service"
+  - "Free WiFi"
+  - "Family rooms"
+  - "Beachfront"
+  - "Breakfast"
+nearbyRestaurants:
+  - "Orzo 100 m"
+  - "Restorant Piceri Neranxi 200 m"
+nearbyBeaches:
+  - "Maracit Beach 100 m"
+  - "Prinos Beach 100 m"
+  - "Spille Beach 250 m"
+  - "Potam Beach 550 m"
+  - "Gjiri i Filikurit Beach 1.5 km"
+whatsNearby:
+  - "Llogora National Park 17 km"
+airports:
+  - "Corfu International Airport 56 km"
+reviews:
+  - name: "Meron"
+    country: "Israel"
+    text: "“We had one night there The place located next to the beach
 Nice view from the balcony
-The room was very nice”"\n  - name: "Success"\n    country: "United Kingdom"\n    text: "“Spacious rooms. Great host, even with the language barrier they were still amazing. Yummy breakfast. The room had everything we needed to feel at home. Yeah, felt homely. Loved every bit of it.”"\n  - name: "Nika"\n    country: "Slovenia"\n    text: "“Apartment is very clean, close to the sea and hosts are really friendly. We enjoyed our stay and we definitely recommend it.”"\nbookingURL: "https://www.booking.com/hotel/al/kosta-llazari-rooms.en-gb.html?aid=8035640"\nbestFor: "Best for Beach Access"\nbestCategories: "Beach Access"\ncategory: "Beach Access"\n---\n\nUpon arrival, guests are welcomed into air-conditioned accommodations that boast not only a balcony for soaking in the coastal ambiance but also the luxury of free private parking and high-speed WiFi. The establishment prides itself on exceptional guest services, including a 24-hour front desk, round-the-clock security, and a currency exchange, ensuring a worry-free and seamless experience from check-in to departure.
+The room was very nice”"
+  - name: "Success"
+    country: "United Kingdom"
+    text: "“Spacious rooms. Great host, even with the language barrier they were still amazing. Yummy breakfast. The room had everything we needed to feel at home. Yeah, felt homely. Loved every bit of it.”"
+  - name: "Nika"
+    country: "Slovenia"
+    text: "“Apartment is very clean, close to the sea and hosts are really friendly. We enjoyed our stay and we definitely recommend it.”"
+bookingURL: "https://www.booking.com/hotel/al/kosta-llazari-rooms.en-gb.html?aid=8035640"
+bestFor: "Best for Beach Access"
+bestCategories: "Beach Access"
+category: "Beach Access"
+---
+
+Upon arrival, guests are welcomed into air-conditioned accommodations that boast not only a balcony for soaking in the coastal ambiance but also the luxury of free private parking and high-speed WiFi. The establishment prides itself on exceptional guest services, including a 24-hour front desk, round-the-clock security, and a currency exchange, ensuring a worry-free and seamless experience from check-in to departure.
 
 The rooms at Lazaris Kwstas are designed with comfort and convenience in mind. Each unit features a terrace for private outdoor relaxation, a flat-screen TV equipped with streaming services for entertainment at any hour, and a well-appointed kitchen for those who enjoy the comforts of home-cooked meals. The private bathrooms come equipped with modern amenities, including showers, slippers, and hair dryers, while a fridge, stovetop, and kettle add an extra layer of convenience to each stay.
 

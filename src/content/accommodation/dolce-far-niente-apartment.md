@@ -1,4 +1,76 @@
----\ntitle: "Dolce far niente Apartment"\ndescription: "Dolce far niente Apartment emerges as a recently renovated gem in the heart of Tirana, offering a seamless blend of comfort and convenience."\nfeaturedImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003877.jpg?k=9ea9fe4d681480ac14177c5981a6cea4c6f8b2656c4c440b5b3f9feff32f7386&o=&hp=1"\nlanguage: en\nslug: dolce-far-niente-apartment\naddress: "Rruga Petro Marko, 1000 Tirana, Albania"\ncity: "Tirana"\nlocation: "Tirana"\naccommodationType: "apartment"\ncoordinates:\n  lat: 41.33420599\n  lng: 19.80798503\nprice: "US$43"\npriceFrom: 43\nstarRating: 3\nrating: 9.8\nratingWords: "Exceptional"\nnumberOfReviews: 98\nratings:\n  overall: 9.8\n  location: 9.4\n  cleanliness: 9.9\n  facilities: 9.7\n  value: 9.7\n  comfort: 9.8\n  staff: 9.8\n  wifi: 10\nimages:\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003877.jpg?k=9ea9fe4d681480ac14177c5981a6cea4c6f8b2656c4c440b5b3f9feff32f7386&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003840.jpg?k=2ca71b7a020cd4beee16a85f9f377dfd46462b3405828b03aa302dd0c1ae82cb&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003873.jpg?k=d9514f10c87f29b8c03b053271c4e26c7e31d6c00c60aa27d210a4503a97e4ed&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003835.jpg?k=dd0e34be6a7a9328fd59f6daf0fa6571dc4f75ca14f2b0818243680b2e5ff809&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003696.jpg?k=8a5c6383417559b2bc0e6ad0e84ad9974f1256f3dba15a9a66795f432127a505&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368014921.jpg?k=879561c0edc5095b2c4d6af99586e81e530e676e5676334535327b12bab91bce&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003856.jpg?k=e38b70ba98405bef4523c5a2bb1d06971ebdee460214594d7e13ee8941810f18&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003867.jpg?k=3c886c65cabec7e191e4ba017c787e5f9b0882aaa9851fd5fb40b8cc70a456dc&o=&hp=1"\n  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423061141.jpg?k=27113f8bd291f0d1009cac80fc4bace158cf6865b861fd11862b15c29764e68d&o=&hp=1"\namenities:\n  - "Non-smoking rooms"\n  - "Private parking"\n  - "Free WiFi"\n  - "Family rooms"\nroomTypes:\n  - "One-Bedroom Apartment"\nnearbyAttractions:\n  - "Clock Tower Tirana 1.2 km"\n  - "Rinia Park 1.4 km"\n  - "National Gallery of Arts Tirana 1.4 km"\n  - "Former Residence of Enver Hoxha 1.7 km"\n  - "Tanners' Bridge 1.7 km"\n  - "Grand Park of Tirana 2.9 km"\n  - "Bunk'Art 1 Museum 4.7 km"\npaymentMethods:\n  - "Mastercard"\n  - "Visa"\nreviews:\n  - name: "Donjeta"\n    country: "United Kingdom"\n    text: "“Such a lovely apartment, nice and clean and all the amenities. Great location”"\n  - name: "Daniela"\n    country: "United Kingdom"\n    text: "“I loved the cleanliness of the flat and that it has everything we needed as we were there for 9 days.”"\n  - name: "Florenc"\n    country: "Germany"\n    text: "“Ledia (the host) is always punctual and makes sure we don't miss a thing during our stay. The apartment is clean and tidy and makes you feel like you're at home. Our favorite place to call home in Tirana!”"\nbookingURL: "https://www.booking.com/hotel/al/dolce-far-niente-apartment.en-gb.html?aid=8035640"\nbestFor: "Best for City Center Proximity"\nbestCategories: "City Center Proximity"\ncategory: "City Center Proximity"\n---\n\nThe apartment distinguishes itself with modern amenities, including complimentary WiFi accessible throughout the premises and the option for private parking on site. Culinary enthusiasts will appreciate the on-site restaurant, providing a convenient dining option after a day of exploration. For those wishing to venture further, the Dajti Ekspres Cable Car is a mere 5.4 km away, offering breathtaking views and an unforgettable experience.
+---
+title: "Dolce far niente Apartment"
+description: "Dolce far niente Apartment emerges as a recently renovated gem in the heart of Tirana, offering a seamless blend of comfort and convenience."
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003877.jpg?k=9ea9fe4d681480ac14177c5981a6cea4c6f8b2656c4c440b5b3f9feff32f7386&o=&hp=1"
+language: en
+slug: dolce-far-niente-apartment
+address: "Rruga Petro Marko, 1000 Tirana, Albania"
+city: "Tirana"
+location: "Tirana"
+accommodationType: "apartment"
+coordinates:
+  lat: 41.33420599
+  lng: 19.80798503
+price: "US$43"
+priceFrom: 43
+starRating: 3
+rating: 9.8
+ratingWords: "Exceptional"
+numberOfReviews: 98
+ratings:
+  overall: 9.8
+  location: 9.4
+  cleanliness: 9.9
+  facilities: 9.7
+  value: 9.7
+  comfort: 9.8
+  staff: 9.8
+  wifi: 10
+images:
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003877.jpg?k=9ea9fe4d681480ac14177c5981a6cea4c6f8b2656c4c440b5b3f9feff32f7386&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003840.jpg?k=2ca71b7a020cd4beee16a85f9f377dfd46462b3405828b03aa302dd0c1ae82cb&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003873.jpg?k=d9514f10c87f29b8c03b053271c4e26c7e31d6c00c60aa27d210a4503a97e4ed&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003835.jpg?k=dd0e34be6a7a9328fd59f6daf0fa6571dc4f75ca14f2b0818243680b2e5ff809&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003696.jpg?k=8a5c6383417559b2bc0e6ad0e84ad9974f1256f3dba15a9a66795f432127a505&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368014921.jpg?k=879561c0edc5095b2c4d6af99586e81e530e676e5676334535327b12bab91bce&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003856.jpg?k=e38b70ba98405bef4523c5a2bb1d06971ebdee460214594d7e13ee8941810f18&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003867.jpg?k=3c886c65cabec7e191e4ba017c787e5f9b0882aaa9851fd5fb40b8cc70a456dc&o=&hp=1"
+  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423061141.jpg?k=27113f8bd291f0d1009cac80fc4bace158cf6865b861fd11862b15c29764e68d&o=&hp=1"
+amenities:
+  - "Non-smoking rooms"
+  - "Private parking"
+  - "Free WiFi"
+  - "Family rooms"
+roomTypes:
+  - "One-Bedroom Apartment"
+nearbyAttractions:
+  - "Clock Tower Tirana 1.2 km"
+  - "Rinia Park 1.4 km"
+  - "National Gallery of Arts Tirana 1.4 km"
+  - "Former Residence of Enver Hoxha 1.7 km"
+  - "Tanners' Bridge 1.7 km"
+  - "Grand Park of Tirana 2.9 km"
+  - "Bunk'Art 1 Museum 4.7 km"
+paymentMethods:
+  - "Mastercard"
+  - "Visa"
+reviews:
+  - name: "Donjeta"
+    country: "United Kingdom"
+    text: "“Such a lovely apartment, nice and clean and all the amenities. Great location”"
+  - name: "Daniela"
+    country: "United Kingdom"
+    text: "“I loved the cleanliness of the flat and that it has everything we needed as we were there for 9 days.”"
+  - name: "Florenc"
+    country: "Germany"
+    text: "“Ledia (the host) is always punctual and makes sure we don't miss a thing during our stay. The apartment is clean and tidy and makes you feel like you're at home. Our favorite place to call home in Tirana!”"
+bookingURL: "https://www.booking.com/hotel/al/dolce-far-niente-apartment.en-gb.html?aid=8035640"
+bestFor: "Best for City Center Proximity"
+bestCategories: "City Center Proximity"
+category: "City Center Proximity"
+---
+
+The apartment distinguishes itself with modern amenities, including complimentary WiFi accessible throughout the premises and the option for private parking on site. Culinary enthusiasts will appreciate the on-site restaurant, providing a convenient dining option after a day of exploration. For those wishing to venture further, the Dajti Ekspres Cable Car is a mere 5.4 km away, offering breathtaking views and an unforgettable experience.
 
 Accommodation at Dolce far niente Apartment is thoughtfully designed for comfort and privacy. The air-conditioned unit features a separate bedroom, a cozy living room, and a fully equipped kitchen with an oven, catering to guests' every need. The inclusion of towels and bed linen adds a touch of home, while the strict non-smoking policy ensures a pleasant environment for all.
 
