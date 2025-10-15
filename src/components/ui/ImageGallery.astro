@@ -321,7 +321,7 @@ const remainingCount = images.length > 5 ? images.length - 5 : 0;
   }
 </style>
 
-<script define:vars={{ images, title }}>
+<script is:inline define:vars={{ images, title }}>
   // Gallery functionality with ALL images
   const galleryImages = Array.from(document.querySelectorAll('[data-image-index]'));
   const lightbox = document.getElementById('lightbox');
@@ -339,7 +339,7 @@ const remainingCount = images.length > 5 ? images.length - 5 : 0;
     alt: `${title} - Image ${idx + 1}`
   }));
 
-  function openLightbox(index: number) {
+  function openLightbox(index) {
     currentIndex = index;
     showImage(currentIndex);
     lightbox?.setAttribute('aria-hidden', 'false');
@@ -351,7 +351,7 @@ const remainingCount = images.length > 5 ? images.length - 5 : 0;
     document.body.style.overflow = '';
   }
 
-  function showImage(index: number) {
+  function showImage(index) {
     if (!lightboxImage || !currentIndexEl) return;
 
     currentIndex = index;

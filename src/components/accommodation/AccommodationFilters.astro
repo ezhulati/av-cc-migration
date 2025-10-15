@@ -243,7 +243,12 @@ const { starRatings, types, locations } = Astro.props;
     const cards = document.querySelectorAll('[data-accommodation]');
 
     function applyFilters() {
-      const activeFilters = {
+      const activeFilters: {
+        starRating: string[];
+        accommodationType: string[];
+        location: string[];
+        amenities: string[];
+      } = {
         starRating: [],
         accommodationType: [],
         location: [],
@@ -252,15 +257,19 @@ const { starRatings, types, locations } = Astro.props;
 
       // Collect active filters
       filterInputs.forEach(input => {
-        if (input.checked) {
-          const filterType = input.dataset.filter;
-          activeFilters[filterType].push(input.value);
+        const inputEl = input as HTMLInputElement;
+        if (inputEl.checked) {
+          const filterType = inputEl.dataset.filter as keyof typeof activeFilters;
+          if (filterType && filterType in activeFilters) {
+            activeFilters[filterType].push(inputEl.value);
+          }
         }
       });
 
       // Apply filters to cards
       cards.forEach(card => {
-        const data = JSON.parse(card.dataset.accommodation);
+        const cardEl = card as HTMLElement;
+        const data = JSON.parse(cardEl.dataset.accommodation || '{}');
         let visible = true;
 
         // Check star rating
@@ -270,34 +279,34 @@ const { starRatings, types, locations } = Astro.props;
 
         // Check accommodation type
         if (activeFilters.accommodationType.length > 0) {
-          visible = visible && activeFilters.accommodationType.includes(data.accommodationType);
+          visible = visible && activeFilters.accommodationType.includes(String(data.accommodationType));
         }
 
         // Check location
         if (activeFilters.location.length > 0) {
-          visible = visible && activeFilters.location.includes(data.location);
+          visible = visible && activeFilters.location.includes(String(data.location));
         }
 
         // Check amenities (show if ANY selected amenity is present)
         if (activeFilters.amenities.length > 0) {
           const hasAmenity = activeFilters.amenities.some(amenity =>
-            data.amenities.includes(amenity)
+            data.amenities && data.amenities.includes(amenity)
           );
           visible = visible && hasAmenity;
         }
 
         // Toggle visibility
         if (visible) {
-          card.style.display = 'block';
-          setTimeout(() => card.style.opacity = '1', 10);
+          cardEl.style.display = 'block';
+          setTimeout(() => cardEl.style.opacity = '1', 10);
         } else {
-          card.style.opacity = '0';
-          setTimeout(() => card.style.display = 'none', 300);
+          cardEl.style.opacity = '0';
+          setTimeout(() => cardEl.style.display = 'none', 300);
         }
       });
 
       // Update results count
-      const visibleCount = Array.from(cards).filter(c => c.style.display !== 'none').length;
+      const visibleCount = Array.from(cards).filter(c => (c as HTMLElement).style.display !== 'none').length;
       const resultsCount = document.getElementById('resultsCount');
       if (resultsCount) {
         resultsCount.textContent = `${visibleCount} properties found`;
@@ -311,7 +320,7 @@ const { starRatings, types, locations } = Astro.props;
 
     clearButton?.addEventListener('click', () => {
       filterInputs.forEach(input => {
-        input.checked = false;
+        (input as HTMLInputElement).checked = false;
       });
       applyFilters();
     });

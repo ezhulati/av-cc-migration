@@ -120,9 +120,9 @@ const articleSchema = type === 'article' ? {
 )}
 
 <!-- Structured Data -->
-<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
 {articleSchema && (
-  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 )}
 
 <!-- Additional SEO Meta Tags -->
