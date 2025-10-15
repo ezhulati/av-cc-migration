@@ -27,3 +27,6 @@ data/*.json
 # public/images/*
 # !public/images/.gitkeep
 Practical-UI.pdf
+
+# Accommodation images - too large for git, will move to CDN later
+public/images/accommodation/
