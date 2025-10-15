@@ -4,9 +4,9 @@ description: "Discover Grabovë in Albania's Vjosa Valley: directions, heritage 
 region: Southern Albania
 featuredImage: /images/destinations/DJI_0312.jpg
 images:
-##   - "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
-##   - "/images/destinations/DSC06885.jpg"
-##   - "/images/destinations/DJI_0319.jpg"
+  - "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
+  - "/images/destinations/DSC06885.jpg"
+  - "/images/destinations/DJI_0319.jpg"
 coordinates:
   lat: 40.1833
   lng: 20.1667
@@ -19,8 +19,8 @@ timeNeeded: "2-3 days"
 bestSeason: "April-June, September-October (grape harvest)"
 highlights:
   - "Bujtina Te Xhako guesthouse with exceptional traditional cuisine (9.2/10 rating)"
-##   - "Direct access to Europe's last wild river, the Vjosa"
-##   - "Stone architecture and 200-year oak tree at St. Kyriaki Chapel"
+  - "Direct access to Europe's last wild river, the Vjosa"
+  - "Stone architecture and 200-year oak tree at St. Kyriaki Chapel"
 seo:
   metaTitle: "%title% Përmet Village Guide – Food, Stays & The Vjosa River"
   metaDescription: "Discover Grabovë in Albania's Vjosa Valley: directions, heritage homes, Tek Xhako guesthouse, forest walks, and local dishes that make Përmet cuisine famous."

@@ -4,15 +4,15 @@ description: "Discover Orikum, Albania's low-key coastal town. Real tips on beac
 region: Coastal
 featuredImage: "/images/destinations/Orikum_Adriatic_521877671.jpeg"
 images:
-##   - "/images/destinations/Llogara_pass_630098996.jpeg"
-##   - "/images/destinations/kishamarmiroit_orikum_465839410.jpeg"
-##   - "/images/destinations/Albanian_beach_405209603.jpeg"
-##   - "/images/destinations/Albanian_Riviera_Roads_142612510.jpeg"
-##   - "/images/destinations/kisha_e_marmiroit_church_of_orikum_465839477.jpeg"
-##   - "/images/destinations/Orikum_Albania_1126394940.jpeg"
-##   - "/images/destinations/Orikum_albania_1126393279.jpeg"
-##   - "/images/destinations/marina_i_Orikum_1126394061.jpeg"
-##   - "/images/destinations/Orikum_Adriatic_521877671.jpeg"
+  - "/images/destinations/Llogara_pass_630098996.jpeg"
+  - "/images/destinations/kishamarmiroit_orikum_465839410.jpeg"
+  - "/images/destinations/Albanian_beach_405209603.jpeg"
+  - "/images/destinations/Albanian_Riviera_Roads_142612510.jpeg"
+  - "/images/destinations/kisha_e_marmiroit_church_of_orikum_465839477.jpeg"
+  - "/images/destinations/Orikum_Albania_1126394940.jpeg"
+  - "/images/destinations/Orikum_albania_1126393279.jpeg"
+  - "/images/destinations/marina_i_Orikum_1126394061.jpeg"
+  - "/images/destinations/Orikum_Adriatic_521877671.jpeg"
 coordinates:
   lat: 40.3167
   lng: 19.4667
@@ -24,9 +24,9 @@ budgetRange: "€30-70/day"
 timeNeeded: "1-2 days (often combined with Vlorë)"
 bestSeason: "May-June, September"
 highlights:
-##   - "Ancient Orikum ruins (Julius Caesar's naval base, 6th century BC)"
-##   - "Karaburun Peninsula hiking and boat access"
-##   - "Authentic local restaurants with fresh seafood at non-tourist prices"
+  - "Ancient Orikum ruins (Julius Caesar's naval base, 6th century BC)"
+  - "Karaburun Peninsula hiking and boat access"
+  - "Authentic local restaurants with fresh seafood at non-tourist prices"
 seo:
   metaDescription: "Discover Orikum, Albania's low-key coastal town. Real tips on beaches, costs, and local life - without the tourist crowds of the Albanian Riviera.
 ## "

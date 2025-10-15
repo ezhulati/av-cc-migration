@@ -4,16 +4,16 @@ description: "Explore Lin, Albania—Europe's oldest lakeside village. Discover 
 region: Southern Albania
 featuredImage: /images/destinations/Lin.jpg
 images:
-##   - "/images/accommodation/Lin-Village-Stays-Albania.jpg"
+  - "/images/accommodation/Lin-Village-Stays-Albania.jpg"
   - "/images/posts/Remains-of-an-early-Christian-church-in-the-small-fishing-village-of-Lin-Albania-.jpeg"
   - "/images/destinations/Beautiful-lakeshore-landscape-at-lake-ohrid-near-Lin-village-Albania-.jpeg"
-##   - "/images/destinations/Lin-Albania.jpg"
-##   - "/images/destinations/Lin-Village-Organic-food.jpg"
-##   - "/images/destinations/Lin-architechture.jpg"
-##   - "/images/destinations/Bunker-over-lin-village-at-lake-ohrid-Albania.jpg"
-##   - "/images/destinations/Lin-Gueshouse.jpg"
-##   - "/images/destinations/Lin.jpg"
-##   - "/images/destinations/Lin-Albania-Village.jpg"
+  - "/images/destinations/Lin-Albania.jpg"
+  - "/images/destinations/Lin-Village-Organic-food.jpg"
+  - "/images/destinations/Lin-architechture.jpg"
+  - "/images/destinations/Bunker-over-lin-village-at-lake-ohrid-Albania.jpg"
+  - "/images/destinations/Lin-Gueshouse.jpg"
+  - "/images/destinations/Lin.jpg"
+  - "/images/destinations/Lin-Albania-Village.jpg"
 coordinates:
   lat: 41.0425
   lng: 20.6858
@@ -25,10 +25,10 @@ budgetRange: "€20-60"
 timeNeeded: "2-3 days"
 bestSeason: "May-Jun, Sep-Oct"
 highlights:
-##   - 8,500-year-old Neolithic stilt-house settlement
-##   - 6th-century Byzantine basilica with protected mosaics
-##   - Guesthouse stays with home-cooked trout dinners
-##   - Cross-border access to North Macedonia's Ohrid
+  - 8,500-year-old Neolithic stilt-house settlement
+  - 6th-century Byzantine basilica with protected mosaics
+  - Guesthouse stays with home-cooked trout dinners
+  - Cross-border access to North Macedonia's Ohrid
 seo:
   metaDescription: "Explore Lin, Albania—Europe's oldest lakeside village. Discover 8,500 years of history, lakefront stays, trout dining, and authentic cross-border culture."
 ---

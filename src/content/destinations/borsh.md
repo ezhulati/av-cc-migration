@@ -4,8 +4,8 @@ description: "Discover Borsh Beach, Albania's longest coastline. Travel tips on 
 region: Albanian Riviera
 featuredImage: "/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg"
 images:
-##   - "/images/destinations/Borsh-Beach-Albania-2.jpg"
-##   - "/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg"
+  - "/images/destinations/Borsh-Beach-Albania-2.jpg"
+  - "/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg"
 coordinates:
   lat: 40.0342
   lng: 19.8681
@@ -17,10 +17,10 @@ budgetRange: "€20-70"
 timeNeeded: "2-4 days"
 bestSeason: "Jun, Sep"
 highlights:
-##   - Albania's longest beach at 7 kilometers
-##   - Authentic olive oil production villages
-##   - Borsh Castle ruins with coastal panoramas
-##   - Budget-friendly alternative to crowded Riviera spots
+  - Albania's longest beach at 7 kilometers
+  - Authentic olive oil production villages
+  - Borsh Castle ruins with coastal panoramas
+  - Budget-friendly alternative to crowded Riviera spots
 seo:
   metaDescription: "Discover Borsh Beach, Albania's longest coastline. Travel tips on buses, stays, dining, and things to do for an authentic and affordable seaside escape."
 ---

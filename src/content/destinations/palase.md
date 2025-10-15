@@ -4,15 +4,15 @@ description: "Discover Palase, where Julius Caesar landed in 48 BC. Today, Alban
 region: Albanian Riviera
 featuredImage: "/images/destinations/Palase_DJI_0279.jpg"
 images:
-##   - "/images/destinations/Palase_DJI_0308.jpg"
-##   - "/images/destinations/Palase_IMG_2896.jpg"
-##   - "/images/destinations/Palase_DJI_0309.jpg"
-##   - "/images/accommodation/465266231.jpg"
-##   - "/images/destinations/Palase_IMG_2782-2.jpg"
-##   - "/images/destinations/Palase_DJI_0279.jpg"
-##   - "/images/destinations/Palase_IMG_2967.jpg"
-##   - "/images/destinations/Palase_DJI_0295.jpg"
-##   - "/images/destinations/Palase_DJI_0303.jpg"
+  - "/images/destinations/Palase_DJI_0308.jpg"
+  - "/images/destinations/Palase_IMG_2896.jpg"
+  - "/images/destinations/Palase_DJI_0309.jpg"
+  - "/images/accommodation/465266231.jpg"
+  - "/images/destinations/Palase_IMG_2782-2.jpg"
+  - "/images/destinations/Palase_DJI_0279.jpg"
+  - "/images/destinations/Palase_IMG_2967.jpg"
+  - "/images/destinations/Palase_DJI_0295.jpg"
+  - "/images/destinations/Palase_DJI_0303.jpg"
 coordinates:
   lat: 40.1500
   lng: 19.5833
@@ -24,9 +24,9 @@ budgetRange: "€50-300/day (budget guesthouses to luxury resorts)"
 timeNeeded: "3 days minimum"
 bestSeason: "May-June, September (41% cheaper than July-August)"
 highlights:
-##   - "1.5 km Blue Flag beach with crystal-clear Ionian waters"
-##   - "Green Coast Resort (€400-500/night) and expanding luxury development"
-##   - "Paragliding from Llogara Pass with coastal views"
+  - "1.5 km Blue Flag beach with crystal-clear Ionian waters"
+  - "Green Coast Resort (€400-500/night) and expanding luxury development"
+  - "Paragliding from Llogara Pass with coastal views"
 seo:
   metaDescription: "Discover Palase, where Julius Caesar landed in 48 BC. Today, Albania's first Blue Flag beach combines ancient history with luxury resorts and clear waters."
 ---

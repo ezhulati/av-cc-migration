@@ -4,14 +4,14 @@ description: "Albania's Jalë Beach offers clear waters and unforgettable holida
 region: Albanian Riviera
 featuredImage: "/images/destinations/jale-beach.jpeg"
 images:
-##   - "/images/destinations/Jale043Jale.jpg "Jale043Jale 1024x768""
-##   - "/images/destinations/Jale008Jale.jpeg "Jale008Jale 1024x734""
-##   - "/images/destinations/Jale003Jale.jpeg "Jale003Jale 1024x685""
-##   - "/images/destinations/Jale014Jale.jpg "Jale014Jale 1024x768""
-##   - "/images/destinations/Jale038Jale.jpg "Jale038Jale 1024x701""
-##   - "/images/destinations/Jale016Jale.jpg "Jale016Jale 1024x768""
+  - "/images/destinations/Jale043Jale.jpg "Jale043Jale 1024x768""
+  - "/images/destinations/Jale008Jale.jpeg "Jale008Jale 1024x734""
+  - "/images/destinations/Jale003Jale.jpeg "Jale003Jale 1024x685""
+  - "/images/destinations/Jale014Jale.jpg "Jale014Jale 1024x768""
+  - "/images/destinations/Jale038Jale.jpg "Jale038Jale 1024x701""
+  - "/images/destinations/Jale016Jale.jpg "Jale016Jale 1024x768""
   - "/images/destinations/White-fog-high-in-mountains-on-Llogara-pass.jpeg"
-##   - "/images/destinations/Jale033Jale.jpg "Jale033Jale""
+  - "/images/destinations/Jale033Jale.jpg "Jale033Jale""
   - "/images/destinations/Llogara-pass-in-Albania-1.jpeg"
   - "/images/destinations/Jal-Beach-Folie-Marine-Resort.jpg"
 coordinates:
@@ -26,12 +26,11 @@ timeNeeded: "2-4 days"
 bestSeason: "June, September (fewer crowds, lower prices)"
 highlights:
   - "Folie Marine Beach Resort with exceptional breakfast and beach club atmosphere"
-##   - "Clear pebble beach with multi-colored smooth stones"
-##   - "Weekend performances by Albanian celebrities and DJs"
+  - "Clear pebble beach with multi-colored smooth stones"
+  - "Weekend performances by Albanian celebrities and DJs"
 seo:
   metaTitle: "Discover Jal Beach - Albania"
   metaDescription: "Albania's Jalë Beach offers clear waters and unforgettable holiday excursions. Discover plenty of reasons to visit and save on flights, hotels, and transportation."
-##   focusKeyword: "jale beach, Jale Beach Albania"
 ---
 
 ## Why Visit Jale Beach

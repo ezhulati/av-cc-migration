@@ -4,12 +4,12 @@ description: "Discover Pema e Thatë, once a restricted military zone, now a stu
 region: Beaches
 featuredImage: /images/destinations/Pema-e-Thate.jpg
 images:
-##   - "/images/destinations/DSC00469.jpg "DSC00469""
-##   - "/images/destinations/IMG_1929.jpg "IMG 1929""
-##   - "/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2""
-##   - "/images/destinations/Pema-e-thate-1.jpg "Pema e thate 1""
-##   - "/images/destinations/IMG_1939.jpeg "IMG 1939""
-##   - "/images/destinations/IMG_1938.jpeg "IMG 1938""
+  - "/images/destinations/DSC00469.jpg "DSC00469""
+  - "/images/destinations/IMG_1929.jpg "IMG 1929""
+  - "/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2""
+  - "/images/destinations/Pema-e-thate-1.jpg "Pema e thate 1""
+  - "/images/destinations/IMG_1939.jpeg "IMG 1939""
+  - "/images/destinations/IMG_1938.jpeg "IMG 1938""
 coordinates:
   lat: 39.7667
   lng: 20.0167
@@ -21,9 +21,9 @@ budgetRange: "€30-60/day"
 timeNeeded: "Half day (often combined with Ksamil/Butrint visit)"
 bestSeason: "May-June, September-October"
 highlights:
-##   - "Unique sandy seafloor beneath pebble beach for comfortable swimming"
-##   - "Direct views of Corfu, Greece across the narrow strait"
-##   - "Part of Butrint National Park with nearby UNESCO site (3 km)"
+  - "Unique sandy seafloor beneath pebble beach for comfortable swimming"
+  - "Direct views of Corfu, Greece across the narrow strait"
+  - "Part of Butrint National Park with nearby UNESCO site (3 km)"
 seo:
   metaTitle: "%title% - Discover Albania's Historic Beach "
   metaDescription: "Discover Pema e Thatë, once a restricted military zone, now a stunning beach offering lush landscapes, rich history, and views of Greece across the strait."

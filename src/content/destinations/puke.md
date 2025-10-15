@@ -5,27 +5,27 @@ region: Northern Albania
 featuredImage: "/images/destinations/Puke-Albania.jpg"
 images:
   - "/images/destinations/hiking-from-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps.jpeg"
-##   - "/images/destinations/Sunrise-Lindita.jpg "Sunrise Lindita""
-##   - "/images/destinations/Puka.jpg "Puka""
+  - "/images/destinations/Sunrise-Lindita.jpg "Sunrise Lindita""
+  - "/images/destinations/Puka.jpg "Puka""
   - "/images/destinations/Hotel-Demokracia-Albania.jpg"
-##   - "/images/destinations/City-of-Puka-Albania.jpeg "City of Puka Albania""
+  - "/images/destinations/City-of-Puka-Albania.jpeg "City of Puka Albania""
   - "/images/destinations/Mrizi-i-Zanave-Agroturizem.jpg"
   - "/images/destinations/Fishta-Guesthouse-Puke-Albania.jpg"
   - "/images/destinations/Sunrise-Lindita-Apartment.jpg"
-##   - "/images/destinations/Hotel-Demokracia.jpg "Hotel Demokracia""
+  - "/images/destinations/Hotel-Demokracia.jpg "Hotel Demokracia""
   - "/images/destinations/Hiking-Trekking-from-Theth-to-Valbona-villages-in-Albania.jpeg"
-##   - "/images/destinations/Puke-Albania.jpg "Puke Albania""
-##   - "/images/destinations/Puka-Albania.jpeg "Puka Albania""
+  - "/images/destinations/Puke-Albania.jpg "Puke Albania""
+  - "/images/destinations/Puka-Albania.jpeg "Puka Albania""
   - "/images/destinations/Thethi-Northen-Albanian-Alps.jpeg"
-##   - "/images/destinations/Valbona-valley.jpeg "Valbona valley""
+  - "/images/destinations/Valbona-valley.jpeg "Valbona valley""
   - "/images/destinations/Village-by-the-lake-Koman.jpeg"
   - "/images/destinations/Grunas-Waterfall-in-Theth-National-Park.jpeg"
-##   - "/images/destinations/Fishta-Guesthouse.jpg "Fishta Guesthouse""
-##   - "/images/destinations/NKonak-Guesthouse-Puke.jpg "NKonak Guesthouse Puke""
-##   - "/images/destinations/Iballe-Guesthouse-Puke.jpg "Iballe Guesthouse Puke""
+  - "/images/destinations/Fishta-Guesthouse.jpg "Fishta Guesthouse""
+  - "/images/destinations/NKonak-Guesthouse-Puke.jpg "NKonak Guesthouse Puke""
+  - "/images/destinations/Iballe-Guesthouse-Puke.jpg "Iballe Guesthouse Puke""
   - "/images/destinations/Mrizi-i-Zanave-Agroturizem-Albania.jpg"
   - "/images/destinations/Nkonak-Guesthouse-Puke-Albania.jpg"
-##   - "/images/destinations/Iballe-Guesthouse.jpg "Iballe Guesthouse""
+  - "/images/destinations/Iballe-Guesthouse.jpg "Iballe Guesthouse""
 coordinates:
   lat: 42.0453
   lng: 19.8983
@@ -37,10 +37,10 @@ budgetRange: "€18-60"
 timeNeeded: "3-4 days"
 bestSeason: "May-Oct"
 highlights:
-##   - Drin River Class III-IV whitewater rafting
-##   - Gateway to Theth and Valbona National Parks
-##   - Traditional Albanian mountain villages and customs
-##   - Grunas Canyon hiking and waterfalls
+  - Drin River Class III-IV whitewater rafting
+  - Gateway to Theth and Valbona National Parks
+  - Traditional Albanian mountain villages and customs
+  - Grunas Canyon hiking and waterfalls
 seo:
   metaDescription: "Explore Pukë, Northern Albania's captivating blend of history, nature, and culture. Uncover its beauty, from majestic mountains & charming villages to rich culture."
 ---
