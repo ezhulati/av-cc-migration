@@ -4,10 +4,10 @@ description: "Discover the ancient ruins of Apollonia to explore a piece of Alba
 region: Southern Albania
 featuredImage: "/images/destinations/Apollonia.jpeg"
 images:
-##   - "/images/destinations/Apollonia_Albania.jpeg "Apollonia Albania 1024x768""
+  - "/images/destinations/Apollonia_Albania.jpeg"
   - "/images/destinations/Church-of-Saint-Mary-in-Apollonia.jpeg"
   - "/images/destinations/apollonia-roman-temple-albania.jpg"
-##   - "/images/destinations/Apollonia.jpeg "Apollonia""
+  - "/images/destinations/Apollonia.jpeg"
   - "/images/destinations/apollonia-temple-albania.jpg"
 coordinates:
   lat: 40.7264
@@ -20,15 +20,13 @@ budgetRange: "€15-45"
 timeNeeded: "Half-day to 1 day"
 bestSeason: "Apr-Oct"
 highlights:
-##   - 7th-century BCE Greek ruins and forum
-##   - Byzantine monastery with ancient library site
-##   - Roman amphitheater and triumphal arch
-##   - Archaeological museum with mosaics
+  - 7th-century BCE Greek ruins and forum
+  - Byzantine monastery with ancient library site
+  - Roman amphitheater and triumphal arch
+  - Archaeological museum with mosaics
 seo:
   metaTitle: "The Apollonia Archaeological Park: A Window into the Past"
   metaDescription: "Discover the ancient ruins of Apollonia to explore a piece of Albania's rich history. Walk amid well-preserved artifacts from a city that once shaped Mediterranean culture."
-##   focusKeyword: "apollonia"
-##   robots: "index"
 ---
 
 ## Why Visit Apollonia
