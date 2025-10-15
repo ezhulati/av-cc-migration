@@ -49,7 +49,14 @@ const {
 const slug = accommodation.data.slug || accommodation.slug;
 
 // Combine featured image with gallery images
-const allImages = [featuredImage, ...(images || [])].filter(Boolean) as string[];
+// Use placeholder for broken external images
+const placeholderImage = `https://placehold.co/1200x800/1a1a1a/white?text=${encodeURIComponent(title)}`;
+const processImage = (img: string | undefined) => img?.startsWith('http') ? placeholderImage : img || placeholderImage;
+
+const allImages = [
+  processImage(featuredImage),
+  ...(images || []).map(processImage)
+].filter(Boolean) as string[];
 const hasMultipleImages = allImages.length > 1;
 
 // Calculate if we have detailed ratings
