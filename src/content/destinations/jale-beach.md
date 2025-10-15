@@ -4,14 +4,14 @@ description: "Albania's Jalë Beach offers clear waters and unforgettable holida
 region: Albanian Riviera
 featuredImage: "/images/destinations/jale-beach.jpeg"
 images:
-  - "/images/destinations/Jale043Jale.jpg "Jale043Jale 1024x768""
-  - "/images/destinations/Jale008Jale.jpeg "Jale008Jale 1024x734""
-  - "/images/destinations/Jale003Jale.jpeg "Jale003Jale 1024x685""
-  - "/images/destinations/Jale014Jale.jpg "Jale014Jale 1024x768""
-  - "/images/destinations/Jale038Jale.jpg "Jale038Jale 1024x701""
-  - "/images/destinations/Jale016Jale.jpg "Jale016Jale 1024x768""
+  - "/images/destinations/Jale043Jale.jpg"
+  - "/images/destinations/Jale008Jale.jpeg"
+  - "/images/destinations/Jale003Jale.jpeg"
+  - "/images/destinations/Jale014Jale.jpg"
+  - "/images/destinations/Jale038Jale.jpg"
+  - "/images/destinations/Jale016Jale.jpg"
   - "/images/destinations/White-fog-high-in-mountains-on-Llogara-pass.jpeg"
-  - "/images/destinations/Jale033Jale.jpg "Jale033Jale""
+  - "/images/destinations/Jale033Jale.jpg"
   - "/images/destinations/Llogara-pass-in-Albania-1.jpeg"
   - "/images/destinations/Jal-Beach-Folie-Marine-Resort.jpg"
 coordinates:
