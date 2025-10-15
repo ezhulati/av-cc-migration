@@ -44,7 +44,7 @@ amenities:
 roomTypes:
   - "Three-Bedroom Villa"
 nearbyRestaurants:
-  - "Restorant \Ambassador\\" 350 m"
+  - "Restorant Ambassador  350 m"
   - "George Boutique Voskopoje 400 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"

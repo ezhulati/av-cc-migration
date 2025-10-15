@@ -48,7 +48,7 @@ roomTypes:
   - "Two-Bedroom Apartment"
 nearbyRestaurants:
   - "Feedra Bar-Bilardo 30 m"
-  - "Bar Kafe \Bistro 1760\\"\" 150 m"
+  - "Bar Kafe Bistro 1760 150 m"
 whatsNearby:
   - "Parku Rinia 300 m"
   - "Parku Vangjush Mio 300 m"

@@ -24,5 +24,5 @@ The apartment itself is a testament to spacious living and modern amenities. Gue
 
 For those looking to immerse themselves in Tirana's vibrant shopping scene, the Toptani Shopping Centre is within easy reach, as are the National Gallery of Arts Tirana and the Clock Tower Tirana, enriching the cultural tapestry of any visit. The property's location is further complemented by its connectivity, with Tirana International Mother Teresa Airport just 14 km away. The availability of a paid airport shuttle service ensures seamless transitions to and from the residence.
 
-Center Apartment Easy\_Luxury not only offers a sanctuary of luxury and relaxation but also serves as a gateway to the rich historical and cultural experiences of Tirana. It is an ideal choice for those who value the fusion of convenience, comfort, and the opportunity to immerse in the local culture.
+Center Apartment Easy_Luxury not only offers a sanctuary of luxury and relaxation but also serves as a gateway to the rich historical and cultural experiences of Tirana. It is an ideal choice for those who value the fusion of convenience, comfort, and the opportunity to immerse in the local culture.
 

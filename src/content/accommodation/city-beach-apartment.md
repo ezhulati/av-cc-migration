@@ -48,7 +48,7 @@ amenities:
   - "Family rooms"
   - "Beachfront"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
   - "Epirus 50 m"
 nearbyBeaches:
   - "Saranda City Beach 100 m"

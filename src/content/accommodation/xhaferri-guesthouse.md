@@ -43,7 +43,7 @@ roomTypes:
   - "Family Room"
 nearbyRestaurants:
   - "Flora 3.6 km"
-  - "Bar Kafe \Turhani\\"\" 3.6 km"
+  - "Bar Kafe Turhani 3.6 km"
 whatsNearby:
   - "Tomorr Mountain National Park 250 m"
   - "Sheshi Tomorri 14 km"

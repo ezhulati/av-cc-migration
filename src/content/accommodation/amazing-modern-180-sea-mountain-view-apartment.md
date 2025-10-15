@@ -43,7 +43,7 @@ roomTypes:
   - "One-Bedroom House"
 nearbyRestaurants:
   - "Taverna del Mare 20 m"
-  - "Bar \Season Gastro\\"\" 100 m"
+  - "Bar Season Gastro 100 m"
 nearbyBeaches:
   - "Vlore Beach 150 m"
   - "Ri Beach 650 m"

@@ -44,7 +44,7 @@ roomTypes:
   - "One-Bedroom Apartment"
 nearbyRestaurants:
   - "Dante 50 m"
-  - "Bar Kafe \Vila ART\\"\" 100 m"
+  - "Bar Kafe Vila ART 100 m"
 whatsNearby:
   - "National Park Galicica 2.8 km"
   - "Driloni National Park 3.8 km"

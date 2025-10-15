@@ -52,7 +52,7 @@ roomTypes:
   - "Deluxe Double Room"
   - "Deluxe Family Room"
 nearbyRestaurants:
-  - "Bar Kafe \Turizmi i Vjeter\\"\" 50 m"
+  - "Bar Kafe Turizmi i Vjeter 50 m"
   - "New York-Lounge 100 m"
 whatsNearby:
   - "Llixhat Peshkopi 1.7 km"

@@ -46,7 +46,7 @@ nearbyAttractions:
   - "Bunk'Art 1 Museum 4.5 km"
 nearbyRestaurants:
   - "Zesty Tirana 50 m"
-  - "Bar Kafe \Yogurteria 2\\"\" 100 m"
+  - "Bar Kafe Yogurteria 2 100 m"
 whatsNearby:
   - "Sheshi Rekreativ tek Arena Kombëtare 100 m"
   - "Shesh Rekreativ 200 m"

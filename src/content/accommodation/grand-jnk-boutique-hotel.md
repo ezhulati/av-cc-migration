@@ -49,7 +49,7 @@ roomTypes:
   - "Deluxe Suite"
 nearbyRestaurants:
   - "The Old House Inn 100 m"
-  - "Bar Kafe \Adi\\"\" 150 m"
+  - "Bar Kafe Adi 150 m"
 whatsNearby:
   - "Partia Socialiste Kukes 400 m"
   - "Brekija Perla Kuksiane 800 m"

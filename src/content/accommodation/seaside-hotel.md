@@ -51,7 +51,7 @@ roomTypes:
   - "Suite"
 nearbyRestaurants:
   - "Taverna del Mare 40 m"
-  - "Bar \Season Gastro\\"\" 150 m"
+  - "Bar Season Gastro 150 m"
 nearbyBeaches:
   - "Vlore Beach 200 m"
   - "Ri Beach 650 m"

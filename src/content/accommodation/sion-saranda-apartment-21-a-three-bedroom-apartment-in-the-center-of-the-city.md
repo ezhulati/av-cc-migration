@@ -47,7 +47,7 @@ roomTypes:
   - "Apartment"
 nearbyRestaurants:
   - "Le 5 Stelle & Pizzeria 50 m"
-  - "Bar Kafe \Enea\\"\" 100 m"
+  - "Bar Kafe Enea 100 m"
 nearbyBeaches:
   - "Saranda City Beach 150 m"
   - "La Petite Beach 450 m"

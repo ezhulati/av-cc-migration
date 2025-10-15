@@ -42,7 +42,7 @@ roomTypes:
   - "Double Room"
   - "Family Room with Bathroom"
 nearbyRestaurants:
-  - "Restorant \Shiroka\\"\" 100 m"
+  - "Restorant Shiroka 100 m"
   - "Hotel 200 m"
 whatsNearby:
   - "Rozafa Castle Shkodra 3.4 km"

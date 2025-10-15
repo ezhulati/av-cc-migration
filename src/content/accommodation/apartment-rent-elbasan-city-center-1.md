@@ -50,7 +50,7 @@ roomTypes:
   - "Apartment"
 nearbyRestaurants:
   - "Fast Food Ervini 100 m"
-  - "Bar Kafe \Xhessika\\"\" 100 m"
+  - "Bar Kafe Xhessika 100 m"
 whatsNearby:
   - "Dajti Mountain National Park 19 km"
 airports:

@@ -44,7 +44,7 @@ amenities:
 roomTypes:
   - "One-Bedroom Apartment"
 nearbyRestaurants:
-  - "Bar Kafe \Turhani\\"\" 150 m"
+  - "Bar Kafe Turhani 150 m"
   - "Restorant Shpetimi 200 m"
 whatsNearby:
   - "Tomorr Mountain National Park 3.5 km"

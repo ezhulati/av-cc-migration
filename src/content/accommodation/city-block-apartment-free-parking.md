@@ -56,7 +56,7 @@ nearbyAttractions:
   - "Bunk'Art 1 Museum 5 km"
 nearbyRestaurants:
   - "Byrek Pica Peinirli 50 m"
-  - "Creperie \I saw it first\\"\" 50 m"
+  - "Creperie I saw it first 50 m"
 whatsNearby:
   - "Sheshi Rekreativ tek Stadiumi Dinamo 300 m"
   - "Parku I Madh I Tiranës (Grand Park) 400 m"

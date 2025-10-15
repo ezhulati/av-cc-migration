@@ -48,7 +48,7 @@ roomTypes:
   - "Double Room with Terrace"
 nearbyRestaurants:
   - "B7 Zogaj 10 m"
-  - "Vila \Imperial\\"\" 800 m"
+  - "Vila Imperial 800 m"
 whatsNearby:
   - "National Park Skadar Lake 2.5 km"
   - "Rozafa Castle Shkodra 7 km"

@@ -43,7 +43,7 @@ amenities:
   - "Free WiFi"
   - "Terrace"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
   - "TUNELI RESTAURANT 100 m"
 nearbyBeaches:
   - "Saranda City Beach 150 m"

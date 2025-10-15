@@ -41,7 +41,7 @@ amenities:
   - "Free WiFi"
   - "Beachfront"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
   - "Casa Nostra 100 m"
 whatsNearby:
   - "Parc National de Butrint 1.6 km"

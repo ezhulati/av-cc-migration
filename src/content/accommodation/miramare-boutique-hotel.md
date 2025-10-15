@@ -47,7 +47,7 @@ roomTypes:
   - "Double Room with Side Sea View"
   - "Deluxe Double Room with Sea View"
 nearbyRestaurants:
-  - "Bar \Season Gastro\\"\" 40 m"
+  - "Bar Season Gastro 40 m"
   - "Bizzare 40 m"
 nearbyBeaches:
   - "Vlore Beach 100 m"

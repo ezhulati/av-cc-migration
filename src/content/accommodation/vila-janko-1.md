@@ -46,7 +46,7 @@ amenities:
 roomTypes:
   - "One-Bedroom House"
 nearbyRestaurants:
-  - "Restorant \Ambassador\\" 150 m"
+  - "Restorant Ambassador  150 m"
   - "Vila Falo 250 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"

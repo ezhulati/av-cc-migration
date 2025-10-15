@@ -50,7 +50,7 @@ roomTypes:
   - "Triple Room"
   - "Quadruple Room"
 nearbyRestaurants:
-  - "Restorant \Ambassador\\" 200 m"
+  - "Restorant Ambassador  200 m"
   - "George Boutique Voskopoje 200 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"

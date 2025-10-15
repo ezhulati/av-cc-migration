@@ -44,7 +44,7 @@ roomTypes:
   - "Duplex Suite"
 nearbyRestaurants:
   - "Kooperativa 40 m"
-  - "Bar Kafe \Konaku\\"\" 40 m"
+  - "Bar Kafe Konaku 40 m"
 whatsNearby:
   - "Parku Vangjush Mio 300 m"
   - "Parku Rinia 300 m"

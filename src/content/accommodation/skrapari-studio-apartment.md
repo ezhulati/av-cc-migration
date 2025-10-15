@@ -47,7 +47,7 @@ roomTypes:
   - "One-Bedroom Apartment"
 nearbyRestaurants:
   - "Bar Hotel Sokoli 50 m"
-  - "Bar Kafe \Turhani\\"\" 150 m"
+  - "Bar Kafe Turhani 150 m"
 whatsNearby:
   - "Tomorr Mountain National Park 3.5 km"
   - "Sheshi Tomorri 16 km"

@@ -21,5 +21,5 @@ The apartment itself is a haven of comfort, featuring air conditioning for those
 
 Connectivity is never an issue, as free WiFi is available throughout the property, allowing guests to stay connected with the world or plan their next day's adventures in Tirana. For those looking to indulge in some retail therapy or enjoy local cuisine, the Toptani Shopping Centre is conveniently located nearby. Art enthusiasts will appreciate the close proximity to the National Gallery of Arts Tirana, and the Saint Paul Cathedral offers a spiritual retreat.
 
-Situated just 14 km from Tirana International Mother Teresa Airport, 13°Bs\*Toptani/City Center is an ideal choice for travelers seeking a blend of convenience, comfort, and access to cultural landmarks. Whether it's for a short stay or a longer retreat, this apartment promises an unforgettable experience in the heart of Tirana.
+Situated just 14 km from Tirana International Mother Teresa Airport, 13°Bs*Toptani/City Center is an ideal choice for travelers seeking a blend of convenience, comfort, and access to cultural landmarks. Whether it's for a short stay or a longer retreat, this apartment promises an unforgettable experience in the heart of Tirana.
 

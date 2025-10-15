@@ -34,7 +34,7 @@ images:
 amenities:
   - "Free WiFi"
 nearbyRestaurants:
-  - "Bar Kafe \Select\\"\" 10 m"
+  - "Bar Kafe Select 10 m"
   - "Select 50 m"
 whatsNearby:
   - "Driloni National Park 450 m"

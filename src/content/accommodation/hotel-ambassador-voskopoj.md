@@ -46,7 +46,7 @@ roomTypes:
   - "Triple Room"
   - "Queen Room with Spa Bath"
 nearbyRestaurants:
-  - "Restorant \Ambassador\\" 30 m"
+  - "Restorant Ambassador  30 m"
   - "Vila Falo 100 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"

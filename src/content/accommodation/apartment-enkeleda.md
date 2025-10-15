@@ -44,7 +44,7 @@ amenities:
   - "Beachfront"
   - "Private beach area"
 nearbyRestaurants:
-  - "Bar Kafe \Select\\"\" 40 m"
+  - "Bar Kafe Select 40 m"
   - "Bar Rrushi 50 m"
 whatsNearby:
   - "Driloni National Park 450 m"

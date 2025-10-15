@@ -74,13 +74,13 @@ paymentMethods:
   - "Mastercard"
   - "Visa"
 reviews:
-  - name: "Novak\"
+  - name: "Novak"
     country: "Poland"
     text: "“It was a short stay, but I'm sure I'll come back again to spend the warm summer days with my family.”"
   - name: "Johansson"
     country: "Germany"
     text: "“Every time I come back, I leave more satisfied than the last time.”"
-  - name: "Novak\"
+  - name: "Novak"
     country: "Poland"
     text: "“The rooms were spacious, impeccably clean, and beautifully designed.
 Fresh seafood , very good service.

@@ -48,7 +48,7 @@ roomTypes:
   - "Deluxe Double Room"
   - "Suite"
 nearbyRestaurants:
-  - "Bar Kafe \Bistro 1760\\"\" 20 m"
+  - "Bar Kafe Bistro 1760 20 m"
   - "Kooperativa 30 m"
 whatsNearby:
   - "Parku Rinia 300 m"

@@ -41,7 +41,7 @@ amenities:
   - "Free WiFi"
 nearbyRestaurants:
   - "Bar Pizzeri Jamaica 150 m"
-  - "Bar Kafe \Adi\\"\" 150 m"
+  - "Bar Kafe Adi 150 m"
 whatsNearby:
   - "Partia Socialiste Kukes 350 m"
   - "Brekija Perla Kuksiane 1.1 km"

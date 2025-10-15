@@ -46,7 +46,7 @@ amenities:
   - "Family rooms"
   - "Breakfast"
 nearbyRestaurants:
-  - "Restorant \Ambassador\\" 100 m"
+  - "Restorant Ambassador  100 m"
   - "Vila Falo 200 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"

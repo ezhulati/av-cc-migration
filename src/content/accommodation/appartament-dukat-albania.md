@@ -47,7 +47,7 @@ roomTypes:
   - "One-Bedroom Apartment"
 nearbyRestaurants:
   - "Alegria 500 m"
-  - "Restorant \Petro\\"\" 2.1 km"
+  - "Restorant Petro 2.1 km"
 nearbyBeaches:
   - "Grama Bay Beach 7 km"
   - "Nazar Beach 7 km"

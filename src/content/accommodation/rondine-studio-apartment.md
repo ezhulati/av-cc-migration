@@ -55,7 +55,7 @@ nearbyAttractions:
   - "Grand Park of Tirana 2.7 km"
   - "Bunk'Art 1 Museum 2.8 km"
 nearbyRestaurants:
-  - "Akullore \Kamelia\\"\" 30 m"
+  - "Akullore Kamelia 30 m"
   - "Pizzeri Hallall Arbri 50 m"
 whatsNearby:
   - "Sheshi Jjosef Shtraus 400 m"

@@ -52,7 +52,7 @@ nearbyAttractions:
   - "Bunk'Art 1 Museum 4.9 km"
 nearbyRestaurants:
   - "Tamel 6 m"
-  - "Bar Kafe \Mon Cheri\\" 20 m"
+  - "Bar Kafe Mon Cheri  20 m"
 whatsNearby:
   - "House of Leaves 450 m"
   - "Rinia Park 450 m"

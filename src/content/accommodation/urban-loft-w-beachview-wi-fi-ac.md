@@ -39,7 +39,7 @@ amenities:
   - "Free WiFi"
   - "Family rooms"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
   - "Restorant Kalija 100 m"
 nearbyBeaches:
   - "Saranda City Beach 100 m"

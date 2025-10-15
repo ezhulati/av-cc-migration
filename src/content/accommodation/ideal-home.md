@@ -44,7 +44,7 @@ roomTypes:
   - "Two-Bedroom Apartment"
 nearbyRestaurants:
   - "il piaccere 4 m"
-  - "Bar Kafe \Il Piacere\\"\" 20 m"
+  - "Bar Kafe Il Piacere 20 m"
 whatsNearby:
   - "Rozafa Castle Shkodra 2.3 km"
   - "National Park Skadar Lake 10 km"

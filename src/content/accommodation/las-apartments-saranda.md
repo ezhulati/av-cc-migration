@@ -43,7 +43,7 @@ amenities:
   - "Terrace"
 nearbyRestaurants:
   - "Epirus 30 m"
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
 nearbyBeaches:
   - "Saranda City Beach 100 m"
   - "La Petite Beach 350 m"

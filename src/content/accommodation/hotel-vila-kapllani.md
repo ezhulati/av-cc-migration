@@ -49,7 +49,7 @@ roomTypes:
   - "Triple Room with Balcony"
   - "Quadruple Room with Balcony"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
   - "Casa Nostra 100 m"
 nearbyBeaches:
   - "Saranda City Beach 200 m"

@@ -42,7 +42,7 @@ roomTypes:
   - "Holiday Home"
 nearbyRestaurants:
   - "Stelas Café 3.6 km"
-  - "Restorant \Ambassador\\" 5 km"
+  - "Restorant Ambassador  5 km"
 whatsNearby:
   - "Sheshi Panxhar 10 km"
   - "Parku Vangjush Mio 14 km"

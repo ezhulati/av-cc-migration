@@ -46,7 +46,7 @@ amenities:
 roomTypes:
   - "Triple Room with Lake View"
 nearbyRestaurants:
-  - "Vila \Imperial\\"\" 10 m"
+  - "Vila Imperial 10 m"
   - "Taverna Shkodrane 350 m"
 whatsNearby:
   - "National Park Skadar Lake 3.2 km"

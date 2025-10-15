@@ -68,11 +68,10 @@ paymentMethods:
 reviews:
   - name: "Przemysław"
     country: "Poland"
-    text: "“Very nice owner. She was in constant contact with us before collecting the keys to the apartment and quickly answered the questions we asked. Location very good, large beach across the street. The apartment's equipment is as described. Lots of...”"
+    text: "Very nice owner. She was in constant contact with us before collecting the keys to the apartment and quickly answered the questions we asked. Location very good, large beach across the street. The apartment's equipment is as described. Lots of..."
   - name: "Laura"
     country: "Finland"
-    text: "“perfect location; beachfront, lovely restaurants & bars nearby. seaview, helpful staff & spar shop 5min away.
-+++ washing machine is very nice extra.”"
+    text: "perfect location; beachfront, lovely restaurants & bars nearby. seaview, helpful staff & spar shop 5min away. +++ washing machine is very nice extra."
 bookingURL: "https://www.booking.com/hotel/al/airy-beautiful-apartment-on-currila-beach.en-gb.html?aid=8035640"
 bestFor: "Best for Beach Access"
 bestCategories: "Beach Access"

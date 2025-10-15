@@ -50,7 +50,7 @@ roomTypes:
   - "Queen Room"
   - "Standard Twin Room"
 nearbyRestaurants:
-  - "Bar Kafe \Turhani\\"\" 50 m"
+  - "Bar Kafe Turhani 50 m"
   - "Restorant Shpetimi 200 m"
 whatsNearby:
   - "Tomorr Mountain National Park 3.4 km"

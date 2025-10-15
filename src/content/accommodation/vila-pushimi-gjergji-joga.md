@@ -46,7 +46,7 @@ roomTypes:
   - "One-Bedroom Chalet"
 nearbyRestaurants:
   - "Taverna Voskopoje 150 m"
-  - "Restorant \Ambassador\\" 250 m"
+  - "Restorant Ambassador  250 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"
   - "Sheshi Penetori 12 km"

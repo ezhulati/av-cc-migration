@@ -49,7 +49,7 @@ roomTypes:
   - "Double Room with Balcony"
 nearbyRestaurants:
   - "Proper Pizza Korce 6 m"
-  - "Bar Kafe \FindFour\\"\" 50 m"
+  - "Bar Kafe FindFour 50 m"
 whatsNearby:
   - "Field of Tears 150 m"
   - "Parku Themistokli Gërmenji 200 m"

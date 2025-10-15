@@ -47,7 +47,7 @@ amenities:
   - "Breakfast"
 nearbyRestaurants:
   - "George Boutique Voskopoje 0 m"
-  - "Restorant \Ambassador\\" 100 m"
+  - "Restorant Ambassador  100 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"
   - "Sheshi Penetori 13 km"

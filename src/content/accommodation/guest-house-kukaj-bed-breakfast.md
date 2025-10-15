@@ -1,5 +1,5 @@
 ---
-title: "Guest House Kukaj \ Bed & Breakfast"
+title: "Guest House Kukaj  Bed & Breakfast"
 description: "Guest House Kukaj Bed & Breakfast stands as a serene retreat in the heart of Valbonë, Kukës County, offering breathtaking mountain views right from its balcony."
 featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488531378.jpg?k=22e807d0d18be75210025adda298937bdbd6ffba97ed5f9866d1c25592903b00&o=&hp=1"
 language: en

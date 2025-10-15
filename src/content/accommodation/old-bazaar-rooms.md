@@ -45,7 +45,7 @@ roomTypes:
   - "Double Room"
   - "Deluxe King Room"
 nearbyRestaurants:
-  - "Bar Kafe \Bistro 1760\\"\" 30 m"
+  - "Bar Kafe Bistro 1760 30 m"
   - "Fix Si Qemoti 40 m"
 whatsNearby:
   - "Parku Rinia 300 m"

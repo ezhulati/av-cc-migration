@@ -43,7 +43,7 @@ amenities:
   - "Family rooms"
   - "Terrace"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 150 m"
+  - "Bar Kafe Enea 150 m"
   - "Casa Nostra 150 m"
 nearbyBeaches:
   - "Saranda City Beach 300 m"

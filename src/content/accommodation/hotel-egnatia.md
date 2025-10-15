@@ -49,7 +49,7 @@ roomTypes:
   - "Standard Quadruple Room"
 nearbyRestaurants:
   - "Fataj Restorant 3.9 km"
-  - "Fast Food \Station\\"\" 5 km"
+  - "Fast Food Station 5 km"
 whatsNearby:
   - "Sheshi Koço Plaku 12 km"
 airports:

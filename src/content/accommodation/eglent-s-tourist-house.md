@@ -45,7 +45,7 @@ roomTypes:
   - "Two-Bedroom Apartment"
 nearbyRestaurants:
   - "Grand Hotel Saranda 550 m"
-  - "Bar Kafe \Enea\\"\" 850 m"
+  - "Bar Kafe Enea 850 m"
 nearbyBeaches:
   - "Saranda City Beach 950 m"
   - "La Petite Beach 1.2 km"

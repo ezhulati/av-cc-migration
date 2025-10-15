@@ -47,7 +47,7 @@ roomTypes:
   - "Quadruple Room"
 nearbyRestaurants:
   - "Vila Falo 400 m"
-  - "Restorant \Ambassador\\" 500 m"
+  - "Restorant Ambassador  500 m"
 whatsNearby:
   - "Sheshi Panxhar 12 km"
   - "Sheshi Penetori 13 km"

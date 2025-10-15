@@ -50,7 +50,7 @@ roomTypes:
   - "Triple Room"
 nearbyRestaurants:
   - "Kanione 20 m"
-  - "Bar Kafe \Turhani\\"\" 1.4 km"
+  - "Bar Kafe Turhani 1.4 km"
 whatsNearby:
   - "Tomorr Mountain National Park 4.8 km"
   - "Sheshi Tomorri 17 km"

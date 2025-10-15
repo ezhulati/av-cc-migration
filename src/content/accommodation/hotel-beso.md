@@ -42,7 +42,7 @@ amenities:
 roomTypes:
   - "Double Room"
 nearbyRestaurants:
-  - "Restorant \Ylli Salos\\"\" 300 m"
+  - "Restorant Ylli Salos 300 m"
   - "River Restorant 2.9 km"
 airports:
   - "Corfu International Airport 81 km"

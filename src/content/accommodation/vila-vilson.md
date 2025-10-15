@@ -51,7 +51,7 @@ roomTypes:
   - "Triple Room with Balcony"
   - "Triple Room with Balcony"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
   - "Epirus 100 m"
 nearbyBeaches:
   - "Saranda City Beach 100 m"

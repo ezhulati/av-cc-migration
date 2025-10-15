@@ -38,7 +38,7 @@ images:
 amenities:
   - "Free WiFi"
 nearbyRestaurants:
-  - "Restorant \Petro\\"\" 50 m"
+  - "Restorant Petro 50 m"
   - "Alegria 2 km"
 nearbyBeaches:
   - "Grama Bay Beach 9 km"

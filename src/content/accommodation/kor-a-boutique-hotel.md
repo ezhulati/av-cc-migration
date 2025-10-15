@@ -51,7 +51,7 @@ roomTypes:
   - "Suite with Hot Tub"
 nearbyRestaurants:
   - "Vila 95 200 m"
-  - "Bar Kafe \FindFour\\"\" 250 m"
+  - "Bar Kafe FindFour 250 m"
 whatsNearby:
   - "Field of Tears 250 m"
   - "Parku Themistokli Gërmenji 300 m"

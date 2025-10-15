@@ -41,7 +41,7 @@ amenities:
   - "Free WiFi"
   - "Family rooms"
 nearbyRestaurants:
-  - "Bar Kafe \Oaz\\" 100 m"
+  - "Bar Kafe Oaz  100 m"
   - "Arbri 200 m"
 nearbyBeaches:
   - "Vjetër Beach 1.7 km"

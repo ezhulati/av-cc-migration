@@ -43,7 +43,7 @@ roomTypes:
   - "Chalet"
 nearbyRestaurants:
   - "Bujtina Korabi 6 km"
-  - "Bar Kafe \Turizmi i Vjeter\\"\" 19 km"
+  - "Bar Kafe Turizmi i Vjeter 19 km"
 whatsNearby:
   - "Llixhat Peshkopi 19 km"
   - "Llixhat e Peshkopi 19 km"

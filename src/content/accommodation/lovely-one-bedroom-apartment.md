@@ -45,7 +45,7 @@ amenities:
   - "Airport shuttle"
   - "Free WiFi"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 50 m"
+  - "Bar Kafe Enea 50 m"
   - "Casa Nostra 100 m"
 nearbyBeaches:
   - "Saranda City Beach 150 m"

@@ -42,7 +42,7 @@ amenities:
   - "Family rooms"
   - "Terrace"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 100 m"
+  - "Bar Kafe Enea 100 m"
   - "Restorant Kalija 100 m"
 nearbyBeaches:
   - "Saranda City Beach 250 m"

@@ -47,7 +47,7 @@ amenities:
   - "Very good breakfast"
 nearbyRestaurants:
   - "Kafe Bar Joana 100 m"
-  - "Bar Kafe \Enea\\"\" 300 m"
+  - "Bar Kafe Enea 300 m"
 nearbyBeaches:
   - "Saranda City Beach 400 m"
   - "La Petite Beach 450 m"

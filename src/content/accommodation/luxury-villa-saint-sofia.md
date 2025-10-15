@@ -42,7 +42,7 @@ amenities:
   - "Free WiFi"
   - "Family rooms"
 nearbyRestaurants:
-  - "Restorant \Ambassador\\" 300 m"
+  - "Restorant Ambassador  300 m"
   - "George Boutique Voskopoje 400 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"

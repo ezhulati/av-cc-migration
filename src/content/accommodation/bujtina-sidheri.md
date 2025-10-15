@@ -54,7 +54,7 @@ roomTypes:
   - "Luxury Triple Room"
 nearbyRestaurants:
   - "Vila 95 100 m"
-  - "Bar Kafe \FindFour\\"\" 150 m"
+  - "Bar Kafe FindFour 150 m"
 whatsNearby:
   - "Field of Tears 150 m"
   - "Parku Themistokli Gërmenji 250 m"

@@ -43,7 +43,7 @@ roomTypes:
   - "Three-Bedroom Apartment"
 nearbyRestaurants:
   - "Fast Foods Belioni 200 m"
-  - "Bar Kafe \90\\"\" 350 m"
+  - "Bar Kafe 90 350 m"
 airports:
   - "Corfu International Airport 77 km"
   - "Ioannina Airport 94 km"

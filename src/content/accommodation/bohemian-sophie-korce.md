@@ -49,7 +49,7 @@ roomTypes:
   - "Double Room"
   - "Double Room with Extra Bed"
 nearbyRestaurants:
-  - "Bar Kafe \Bistro 1760\\"\" 50 m"
+  - "Bar Kafe Bistro 1760 50 m"
   - "Kantina O Vangos 50 m"
 whatsNearby:
   - "Parku Rinia 250 m"

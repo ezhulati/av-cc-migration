@@ -38,7 +38,7 @@ amenities:
 roomTypes:
   - "Two-Bedroom House"
 nearbyRestaurants:
-  - "Bar Kafe \Select\\"\" 10 m"
+  - "Bar Kafe Select 10 m"
   - "Bar Rrushi 50 m"
 whatsNearby:
   - "Driloni National Park 500 m"

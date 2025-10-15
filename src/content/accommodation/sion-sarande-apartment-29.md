@@ -41,7 +41,7 @@ amenities:
 roomTypes:
   - "Apartment"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 30 m"
+  - "Bar Kafe Enea 30 m"
   - "Restorant Kalija 50 m"
 nearbyBeaches:
   - "Saranda City Beach 150 m"

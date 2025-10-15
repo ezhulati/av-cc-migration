@@ -44,7 +44,7 @@ roomTypes:
   - "Twin Room with Balcony"
   - "Twin Room with Garden View"
 nearbyRestaurants:
-  - "Bar Kafe \90\\"\" 200 m"
+  - "Bar Kafe 90 200 m"
   - "Gjysh Selimi 250 m"
 airports:
   - "Corfu International Airport 76 km"

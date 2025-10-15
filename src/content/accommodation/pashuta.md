@@ -46,7 +46,7 @@ amenities:
   - "Exceptional breakfast"
 nearbyRestaurants:
   - "Vila Falo 150 m"
-  - "Restorant \Ambassador\\" 200 m"
+  - "Restorant Ambassador  200 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"
   - "Sheshi Penetori 13 km"

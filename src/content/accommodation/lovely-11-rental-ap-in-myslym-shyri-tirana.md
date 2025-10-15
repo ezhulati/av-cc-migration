@@ -47,7 +47,7 @@ nearbyAttractions:
   - "Grand Park of Tirana 1.7 km"
   - "Bunk'Art 1 Museum 5 km"
 nearbyRestaurants:
-  - "Bar Kafe \Mon Cheri\\" 50 m"
+  - "Bar Kafe Mon Cheri  50 m"
   - "100 Shijet e Detit 50 m"
 whatsNearby:
   - "House of Leaves 500 m"

@@ -44,7 +44,7 @@ roomTypes:
   - "Apartment with Balcony"
 nearbyRestaurants:
   - "Pizzeri Kupa Hallall 150 m"
-  - "Bar Kafe \Turizmi\\"\" 200 m"
+  - "Bar Kafe Turizmi 200 m"
 whatsNearby:
   - "Dajti Mountain National Park 3 km"
   - "Sheshi Rekreativ Allias 18 km"

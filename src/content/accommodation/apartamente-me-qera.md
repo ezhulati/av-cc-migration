@@ -39,7 +39,7 @@ roomTypes:
   - "One-Bedroom Apartment"
   - "One-Bedroom Apartment"
 nearbyRestaurants:
-  - "Bar Kafe \Select\\"\" 50 m"
+  - "Bar Kafe Select 50 m"
   - "Bar Rrushi 50 m"
 whatsNearby:
   - "Driloni National Park 450 m"

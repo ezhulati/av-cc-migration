@@ -40,7 +40,7 @@ amenities:
   - "Free parking"
   - "Terrace"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 100 m"
+  - "Bar Kafe Enea 100 m"
   - "Restorant Kalija 150 m"
 nearbyBeaches:
   - "Saranda City Beach 250 m"

@@ -46,7 +46,7 @@ roomTypes:
   - "Quadruple Room with Terrace"
 nearbyRestaurants:
   - "Pizzeri Kupa Hallall 250 m"
-  - "Bar Kafe \Turizmi\\"\" 250 m"
+  - "Bar Kafe Turizmi 250 m"
 whatsNearby:
   - "Dajti Mountain National Park 2.9 km"
   - "Sheshi Rekreativ Allias 18 km"

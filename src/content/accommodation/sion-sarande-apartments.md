@@ -55,7 +55,7 @@ roomTypes:
   - "Two-Bedroom Apartment"
   - "Two-Bedroom Apartment"
 nearbyRestaurants:
-  - "Bar Kafe \Enea\\"\" 40 m"
+  - "Bar Kafe Enea 40 m"
   - "Restorant Kalija 50 m"
 nearbyBeaches:
   - "Saranda City Beach 150 m"

@@ -51,7 +51,7 @@ nearbyAttractions:
   - "Bunk'Art 1 Museum 9 km"
   - "Grand Park of Tirana 9 km"
 nearbyRestaurants:
-  - "Bar Kafe \Arkensi\\"\" 250 m"
+  - "Bar Kafe Arkensi 250 m"
   - "Bar Palma 250 m"
 whatsNearby:
   - "Sheshi Rekreativ Lord Bajron 6 km"

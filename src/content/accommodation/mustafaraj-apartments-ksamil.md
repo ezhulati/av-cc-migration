@@ -52,7 +52,7 @@ nearbyAttractions:
   - "Kapodistrias Museum 20 km"
 nearbyRestaurants:
   - "Freskia e Jonit 100 m"
-  - "Beach Bar \Bella Vista\\"\" 100 m"
+  - "Beach Bar Bella Vista 100 m"
 nearbyBeaches:
   - "Ksamil Beach 9 3 m"
   - "Bora Bora Beach 300 m"

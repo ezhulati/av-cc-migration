@@ -45,7 +45,7 @@ roomTypes:
   - "Double Room with Balcony"
 nearbyRestaurants:
   - "Kanione 550 m"
-  - "Bar Kafe \Turhani\\"\" 850 m"
+  - "Bar Kafe Turhani 850 m"
 whatsNearby:
   - "Tomorr Mountain National Park 4.2 km"
   - "Sheshi Tomorri 17 km"

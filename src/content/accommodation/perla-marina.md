@@ -39,7 +39,7 @@ amenities:
   - "Free WiFi"
 nearbyRestaurants:
   - "Taverna del Mare 40 m"
-  - "Bar \Season Gastro\\"\" 50 m"
+  - "Bar Season Gastro 50 m"
 nearbyBeaches:
   - "Vlore Beach 150 m"
   - "Ri Beach 650 m"

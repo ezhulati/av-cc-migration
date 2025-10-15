@@ -41,7 +41,7 @@ amenities:
 roomTypes:
   - "Deluxe Villa"
 nearbyRestaurants:
-  - "Restorant \Ambassador\\" 9 m"
+  - "Restorant Ambassador  9 m"
   - "Vila Falo 100 m"
 whatsNearby:
   - "Sheshi Panxhar 11 km"

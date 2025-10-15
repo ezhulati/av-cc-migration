@@ -47,7 +47,7 @@ roomTypes:
   - "Quadruple Room with Private Bathroom"
 nearbyRestaurants:
   - "Bujtina Korabi 7 km"
-  - "Bar Kafe \Turizmi i Vjeter\\"\" 20 km"
+  - "Bar Kafe Turizmi i Vjeter 20 km"
 whatsNearby:
   - "Lure National Park 20 km"
 airports:
