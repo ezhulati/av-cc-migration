@@ -11,6 +11,9 @@
   # Node version
   NODE_VERSION = "18"
 
+  # Increase Node.js memory limit for building 8,400+ accommodation pages
+  NODE_OPTIONS = "--max_old_space_size=4096"
+
 # Redirect rules (if needed)
 [[redirects]]
   from = "/*"
