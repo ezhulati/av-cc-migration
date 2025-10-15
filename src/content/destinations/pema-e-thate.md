@@ -4,12 +4,12 @@ description: "Discover Pema e Thatë, once a restricted military zone, now a stu
 region: Beaches
 featuredImage: /images/destinations/Pema-e-Thate.jpg
 images:
-  - "/images/destinations/DSC00469.jpg "DSC00469""
-  - "/images/destinations/IMG_1929.jpg "IMG 1929""
-  - "/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2""
-  - "/images/destinations/Pema-e-thate-1.jpg "Pema e thate 1""
-  - "/images/destinations/IMG_1939.jpeg "IMG 1939""
-  - "/images/destinations/IMG_1938.jpeg "IMG 1938""
+  - "/images/destinations/DSC00469.jpg"
+  - "/images/destinations/IMG_1929.jpg"
+  - "/images/activities/Butrint-in-Albania-2.jpeg"
+  - "/images/destinations/Pema-e-thate-1.jpg"
+  - "/images/destinations/IMG_1939.jpeg"
+  - "/images/destinations/IMG_1938.jpeg"
 coordinates:
   lat: 39.7667
   lng: 20.0167
