@@ -1,19 +1,31 @@
 ---
-title: Zhulat
-description: Nestled in the Gjirokastër region, Zhulat offers travelers a rare glimpse into authentic Albanian village life where Papa Zhuli once created the customary laws that would shape southern Albania for centuries.
+title: "Zhulat - Albania's Historic Village of Law and Legend"
+description: "Explore Zhulat, birthplace of the Kanun of Labëria and home to ancient castle ruins. Discover authentic Albanian village life and centuries of cultural heritage."
 region: Southern Albania
-featuredImage: /images/destinations/zhulat.jpg
-images: []
+featuredImage: "/images/destinations/Zhulati-Crest-1.png"
+images:
+  - "/images/destinations/Zhulati-Crest-1.png"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.0997
+  lng: 20.1539
 language: en
 slug: zhulat
-highlights: []
+essence: "Ancestral village where Papa Zhuli's Kanun law and Ottoman-era heritage endure"
+distanceFromTirana: "3.5hr"
+budgetRange: "€15-40"
+timeNeeded: "Half-day to 1 day"
+bestSeason: "May-Oct"
+highlights:
+  - Papa Zhuli's Kanun of Labëria birthplace
+  - 3rd-century BCE castle ruins with valley views
+  - Traditional stone architecture and village life
+  - Personal heritage site for AlbaniaVisit.com founder
 seo:
-  metaTitle: "%title% - Albania's Historic Village of Law and Legend"
+  metaTitle: "Zhulat - Albania's Historic Village of Law and Legend"
   metaDescription: "Explore Zhulat, birthplace of the Kanun of Labëria and home to ancient castle ruins. Discover authentic Albanian village life and centuries of cultural heritage."
 ---
+
+## Why Visit Zhulat
 
 A Timeless Albanian Village with a Legacy of Law and Legend
 
@@ -108,6 +120,4 @@ For travelers seeking authentic experiences beyond Albania’s more famous desti
 As someone who carries the village’s name as my family identity, I invite you to discover Zhulat—not just as a destination, but as a journey into the heart of Albania’s enduring spirit.
 
 ***[Enri Zhulati](https://albaniavisit.com/about/team/enri/)** is the founder of AlbaniaVisit.com and a proud descendant of Zhulat villagers who migrated to the highlands of the village of Grabovë near Përmet during Ottoman times. His family preserved their Christian faith while carrying the name of their ancestral village forward through generations.*
-
-![](/images/destinations/Zhulati-Crest-1.png)
 

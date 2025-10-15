@@ -3,34 +3,42 @@ title: Përmet
 description: Known as the "City of Roses," Permet boasts pristine landscapes, rugged mountain terrain, and an array of adrenaline-pumping activities.
 region: Southern Albania
 featuredImage: /images/destinations/permet.jpg
-images: []
+images:
+  - "/images/destinations/permet.jpg"
+  - "/images/destinations/Permet-Albania-Town-Center.jpeg"
+  - "/images/destinations/Permet-on-the-Vjosa-River-in-Albania-1.jpeg"
+  - "/images/destinations/rafters-floating-on-Vjose-river-Permet-Albania.jpeg"
+  - "/images/destinations/Trebeshine-Dhembel-Nemercke-hugged-by-the-crystal-clear-waters-of-river-Vjosa.jpeg"
+  - "/images/destinations/The-River-Vjosa-in-Permet-Albania.jpeg"
+  - "/images/destinations/thermal-baths-of-Permet-Albania.-Langarica-Canyon-Kadiut-Bridge.jpeg"
+  - "/images/destinations/Thermal-baths-of-Permet.jpeg"
+  - "/images/destinations/Teqja-Permet.jpeg"
+  - "/images/destinations/Permet-1.jpeg"
+  - "/images/destinations/Vjosa-Rover-and-mountains-in-Permet-Albania.jpeg"
+  - "/images/destinations/Fir-of-Hotova-National-Park-Permet.jpeg"
+  - "/images/destinations/Gryka_e_Kelcyres.jpg"
+  - "/images/destinations/Souvenirs-Permet.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.2364
+  lng: 20.3517
 language: en
 slug: permet
-highlights: []
+essence: "Europe's last wild river flows through the City of Roses, where thermal springs heal, gliko sweetens, and iso-polyphonic songs echo through mountain valleys"
+distanceFromTirana: "230 km south"
+budgetRange: "€20-50/day"
+timeNeeded: "2-3 days"
+bestSeason: "May-Oct (thermal springs year-round)"
+highlights:
+  - Vjosa River—Europe's first Wild River National Park with world-class rafting
+  - Bënjë thermal springs beneath the Ottoman Katiu Bridge in Lengarica Canyon
+  - Gliko traditional fruit preserves famous throughout Albania
+  - Iso-polyphonic music and kaba clarinet traditions (UNESCO-protected)
+  - Fir of Hotova National Park—34,000 hectares of pristine Balkan forest
 seo:
   metaDescription: "Experience the charm of Përmet with our diverse category listing. Find everything you need to make your visit truly memorable."
 ---
 
-Custom Audio Player 
-
-## Listen to this story
-
-–
-
-Speed 0.75× 1× 1.25× 1.5× 2×
-
-Volume 
-
-### Share this audio story
-
-[](# "Share on WhatsApp")[](# "Share on Facebook")[](# "Share on Twitter")[](# "Share on Telegram")[](# "Share via Email")
-
-![AlbaniaVisit logo](/images/posts/AlbaniaVisit_logo_plane_black.png)
-
-Where Nature and Tradition Embrace in Albania’s Southeastern Heartland
+## Why Visit Permet
 
 A place where wild rivers flow between ancient mountains. Where thermal waters bubble from stone. Where grandmothers still make gliko preserves from recipes centuries old.
 
@@ -40,31 +48,20 @@ Known as the “City of Roses,” this southeastern Albanian treasure rests in t
 
 Founded centuries ago, then transformed through Ottoman rule and communist isolation, Përmet has emerged as a living narrative of Albania’s vibrant history. Yet somehow, it remains one of the country’s best-kept secrets.
 
-![Permet, Albania, The town swuare and memorial  bust of Naim Frasheri.](/images/destinations/Permet-Albania-Town-Center.jpeg "Permet Albania Town Center")
-
-*The town square Përmet, Albania,*
-
-In the next few minutes, we’ll journey through Përmet’s dramatic landscapes, taste its renowned cuisine, and discover why this small corner of Albania holds such oversized cultural significance.
+In the next few minutes, we'll journey through Përmet's dramatic landscapes, taste its renowned cuisine, and discover why this small corner of Albania holds such oversized cultural significance.
 
 This is your guide to a place where nature and tradition create perfect harmony.
 
-The first time I visited Përmet, I was a child sent to stay with my aunt for a summer month after communism fell. Those weeks left an indelible impression—swimming in the crystal-clear Vjosa, hiking the mountains around my father’s ancestral village of Grabovë, and fishing with my cousin Foti, who knew every bend in the river and every trail through the hills.
+The first time I visited Përmet, I was a child sent to stay with my aunt for a summer month after communism fell. Those weeks left an indelible impression—swimming in the crystal-clear Vjosa, hiking the mountains around my father's ancestral village of Grabovë, and fishing with my cousin Foti, who knew every bend in the river and every trail through the hills.
 
-Today, I’m returning to share this special place with you.
+Today, I'm returning to share this special place with you.
 
-![Përmet on the Vjosa River](/images/destinations/Permet-on-the-Vjosa-River-in-Albania-1.jpeg "Permet on the Vjosa River in Albania 1")
-
-*Përmet on the Vjosa River*
-
-The Embrace of Mountains
+## The Embrace of Mountains
 
 “The air here feels different,” I tell my friend as we stand at the edge of town, watching morning light spill across the Vjosa valley. Përmet awakens slowly, the silhouettes of the Nemërçkë mountains (reaching 2,485 meters) gradually revealing themselves against the brightening sky.
 
 We begin our day with a short climb up to the City Stone (Guri i Qytetit), a massive rock outcropping at the edge of town. Local legend claims it was thrown here by an ancient giant. The modest hike rewards us with panoramic views of Përmet and the surrounding landscape.
 
-![White water rafting](/images/destinations/rafters-floating-on-Vjose-river-Permet-Albania.jpeg "rafters floating on Vjose river Permet Albania")
-
-*Rafters floating on Vjosa river.*
 
 “My father’s family originally came from [Zhulat](https://albaniavisit.com/destinations/zhulat/) in [southern Albania](https://albaniavisit.com/southern-albania/),” I explain as we gaze out over the valley. “But when the Ottomans invaded, they fled to the highlands and settled in Grabovë, just beyond those mountains. This region has been a haven for those seeking refuge throughout history.”
 
@@ -74,11 +71,7 @@ As we descend back into town, the aroma of fresh byrek and strong mountain coffe
 
 “Përmet people are known for their hospitality,” I say. “It’s a place where different religions—Orthodox, Muslim, and Bektashi—have coexisted peacefully for centuries. That spirit of welcome extends to visitors too.”
 
-![Albanian mountain ring Trebeshine - Dhembel - Nemercke hugged by the  crystal clear waters of river Vjosa](/images/destinations/Trebeshine-Dhembel-Nemercke-hugged-by-the-crystal-clear-waters-of-river-Vjosa.jpeg "Trebeshine Dhembel Nemercke hugged by the crystal clear waters of river Vjosa")
-
-*Albanian mountain ring Trebeshinë – Dhëmbel – Nemërçkë hugged by the crystal clear waters of the river Vjosa, Përmet.*
-
-A Taste of Tradition
+## A Taste of Tradition
 
 No visit to Përmet would be complete without exploring its renowned culinary heritage. We make our way to the town market, where local producers display their specialties with evident pride.
 
@@ -94,11 +87,7 @@ Our lunch at a family-run restaurant introduces more traditional dishes: gjellë
 
 “Albanian cuisine reflects our history,” explains the restaurant owner. “The Ottoman influence, the isolation during communism when we had to be self-sufficient, and our connection to the land—it’s all there on the plate.”
 
-![Vjosa River ](/images/destinations/The-River-Vjosa-in-Permet-Albania.jpeg "The River Vjosa in Permet Albania")
-
-*The Vjosa River and mountains through flowers in Përmet, also known as the city of flowers.*
-
-The Wild Vjosa
+## The Wild Vjosa
 
 After lunch, we head to the jewel of the region: the [Vjosa River](https://albaniavisit.com/attractions/vjosa-river/). In 2023, it became Europe’s first Wild River National Park, protecting its pristine waters and diverse ecosystem from dam construction and pollution.
 
@@ -112,9 +101,9 @@ We’ve arranged to meet a local guide for rafting through the Këlcyrë Gorge. 
 
 The rafting adventure proves exhilarating—navigating rapids, floating through calm stretches where we can marvel at the canyon walls, and spotting birds of prey circling overhead. The power of the river is humbling, a reminder of nature’s untamed beauty.
 
-“Now I understand why you love this place,” my friend says, soaked but smiling as we pull our raft ashore. “It feels alive.”
+"Now I understand why you love this place," my friend says, soaked but smiling as we pull our raft ashore. "It feels alive."
 
-Thermal Waters and Timeless Music
+## Thermal Waters and Timeless Music
 
 As the afternoon wanes, we drive 14 kilometers to the village of Bënjë, home to Përmet’s famous thermal springs. The road winds through gorgeous countryside, past small villages where time seems to slow.
 
@@ -124,9 +113,6 @@ We arrive at the elegant [Katiu Bridge](https://albaniavisit.com/attractions/kad
 
 The warm water (around 30°C) feels divine after our active day. Steam rises from the pools, creating a mystical atmosphere as the setting sun paints the canyon walls golden. Other visitors—both locals and tourists—share the space respectfully, some engaged in quiet conversation, others simply closing their eyes in meditation.
 
-![Thermal baths of Përmet](/images/destinations/thermal-baths-of-Permet-Albania.-Langarica-Canyon-Kadiut-Bridge.jpeg "thermal baths of Permet Albania. Langarica Canyon Kadiut Bridge")
-
-*Stream of hot sulfuric water in the thermal baths of Përmet Albania. Langarica Canyon, Kadiut Bridge*
 
 “My father told me stories of how people would travel for days to reach these waters,” I say. “Some called them miracle springs. Science now explains the mineral benefits, but there’s still something magical about them.”
 
@@ -142,11 +128,7 @@ Over dinner—grilled trout from the Vjosa, mountain herbs, and local wine—we 
 
 “In these songs, you hear the soul of Albania,” I tell my friend. “Especially in Përmet, where culture and nature have always been intertwined.”
 
-![Canyon Langaric](/images/destinations/Thermal-baths-of-Permet.jpeg "Thermal baths of Permet")
-
-*Thermal springs in Langarica Canyon.*
-
-Villages Frozen in Time
+## Villages Frozen in Time
 
 For our second day, we venture into the countryside surrounding Përmet to discover villages where life continues much as it has for centuries.
 
@@ -154,9 +136,6 @@ We begin with a drive to Leusë, a small village perched on a mountainside with 
 
 As we approach the whitewashed church, an elderly caretaker greets us warmly and unlocks the heavy wooden door. Inside, the walls come alive with vibrant Byzantine-style paintings depicting saints, biblical scenes, and everyday life from the 18th century.
 
-![Teqe of Baba Abdullah is a Bektashi tekke in the village of Alipostivan](/images/destinations/Teqja-Permet.jpeg "Teqja Permet")
-
-*Teqe of Baba Abdullah is a Bektashi tekke in the village of Alipostivan, Përmet Municipality.*
 
 “These frescoes were painted by local masters,” the caretaker explains. “They used natural pigments from the surrounding mountains and forests.”
 
@@ -168,17 +147,12 @@ From Leusë, we continue to Frashër, the ancestral home of the Frashëri brothe
 
 Standing in the simple stone house where such influential minds once gathered, my friend comments on how often small places produce great thinkers. “Perhaps it’s the solitude of mountains,” I suggest, “or the need to reach beyond one’s borders when physical space is limited.”
 
-![Guri i Qyteit, a big rock portruding from the ground in Përmet.](/images/destinations/Permet-1.jpeg "Permet 1")
-
-*Guri i Qytetit, a large rock protruding vertically from the ground in Përmet.*
-
-Nature’s Cathedral
+## Nature's Cathedral
 
 Our final destination is the Fir of Hotova National Park, often called the “lungs of southern Albania.” This vast protected forest (over 34,000 hectares) is one of the largest of its kind in the Balkans and remains lush and green even in summer’s heat.
 
 As we hike beneath ancient fir trees, the filtered sunlight creates patterns on the forest floor. The air feels noticeably cooler and carries the scent of pine resin and wild herbs.
 
-![Vjosa Rover and mountains in Permet Albania](/images/destinations/Vjosa-Rover-and-mountains-in-Permet-Albania.jpeg "Vjosa Rover and mountains in Permet Albania")
 
 “My cousin Foti knew all the medicinal plants in these forests,” I say, pointing out wild oregano growing alongside the trail. “He could treat a cold, a cut, or a stomachache with leaves and roots gathered right here.”
 
@@ -186,17 +160,14 @@ The biodiversity is remarkable—from tiny alpine flowers to mushrooms erupting 
 
 After about an hour of hiking, we reach a clearing with views of the Nemërçkë mountains rising dramatically across the valley. We pause for a simple picnic of bread, cheese, and fruit purchased from village markets earlier in the day.
 
-“This is Albania at its most authentic,” I say, gesturing to the panorama before us. “Unspoiled, unhurried, and deeply connected to the land.”
+"This is Albania at its most authentic," I say, gesturing to the panorama before us. "Unspoiled, unhurried, and deeply connected to the land."
 
-The Flavor of Memory
+## The Flavor of Memory
 
 For our final evening in Përmet, we’re invited to dinner at a local family’s home—an experience that reveals the true heart of Albanian hospitality.
 
 The table overflows with home-cooked dishes: peppers stuffed with rice and herbs, slow-roasted lamb with mountain potatoes, fresh salads drizzled with local olive oil, and of course, several varieties of gliko for dessert. Each dish comes with a story—where the ingredients were grown, how the recipe was passed down, what occasions traditionally call for such food.
 
-![Canyon of Lengarica in the Fir of Hotova National Park, Përmet.](/images/destinations/Fir-of-Hotova-National-Park-Permet.jpeg "Fir of Hotova National Park Permet")
-
-*Canyon of Lengarica in the Fir of Hotova National Park, Përmet.*
 
 As is customary, we begin the meal with a toast of homemade raki. “Gezuar!” (Cheers!) echoes around the table, and the strong fruit brandy warms our throats and loosens conversation.
 
@@ -206,13 +177,10 @@ Our host family, learning of my connection to Grabovë, eagerly shares their kno
 
 As night falls, we sit in the garden listening to more iso-polyphonic songs, this time performed informally by family members who learned them from their parents and grandparents. The moon rises over Nemërçkë mountain, silvering the landscape that has witnessed countless such gatherings through centuries.
 
-Beyond Përmet
+## Beyond Përmet
 
 Përmet rewards those who linger, but even a day or two reveals its essential character. For travelers planning their own journey to this special corner of Albania, here are some practical considerations:
 
-![Gryka e Kelcyres](/images/destinations/Gryka_e_Kelcyres.jpg "Gryka e Kelcyres")
-
-*Kelcyra Gorge*
 
 **Getting There**: Përmet lies about 3.5 hours by car from Tirana. The most convenient approach is to rent a vehicle, allowing flexibility to explore the surrounding villages and natural sites. Alternatively, daily buses connect Përmet to the capital and to nearby Gjirokastër (about 70km away).
 
@@ -233,11 +201,7 @@ Përmet rewards those who linger, but even a day or two reveals its essential ch
 
 **Packing Tips**: Bring sturdy shoes for hiking, swimwear for the thermal springs, and light layers for changing mountain weather. If planning to camp or hike extensively, a good map or GPS is essential as trail markings can be inconsistent.
 
-![Souvenir shopping in Përmet](/images/destinations/Souvenirs-Permet.jpeg "Souvenirs Permet")
-
-*Souvenir shopping in Përmet*
-
-The Heart of Albania
+## The Heart of Albania
 
 As we prepare to leave Përmet, I find myself gathering memories like precious stones: the taste of walnut gliko, the sound of clarinet echoing off canyon walls, the sensation of thermal waters soothing tired muscles, and most of all, the genuine warmth of the people.
 

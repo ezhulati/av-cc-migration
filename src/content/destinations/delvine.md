@@ -1,18 +1,29 @@
 ---
-title: Delvinë
-description: Discover Delvinë's rich 3,000-year history, outdoor activities like hiking trails and biking routes, and charming small-town hospitality in this scenic southern Albanian destination.
+title: "Discover Delvinë - Albania"
+description: "Discover Delvinë, home to the Finiq archaeological site, surrounded by lush landscapes and rolling hills."
 region: Southern Albania
-featuredImage: /images/destinations/delvine.jpg
-images: []
+featuredImage: /images/destinations/Blue-eye-Delvine-scaled.jpeg
+images:
+  - "/images/destinations/Blue-eye-Delvine-scaled.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.0167
+  lng: 20.1000
 language: en
 slug: delvine
-highlights: []
+essence: "A small mountain town offering ancient heritage, fresh air, and access to nearby archaeological sites without the tourist crowds."
+distanceFromTirana: "260 km (3 hours)"
+budgetRange: "€25-40/day"
+timeNeeded: "1-2 days"
+bestSeason: "April-June, September-October"
+highlights:
+  - "Finiq archaeological site (2nd century BC)"
+  - "Delvinë Castle and Ottoman-era architecture"
+  - "Butrint National Park nearby (15 km)"
 seo:
-  metaDescription: "Find high-quality Delvinë products and services at competitive prices. Explore our collection and shop now!"
+  metaDescription: "Discover Delvinë, home to the Finiq archaeological site, surrounded by lush landscapes and rolling hills."
 ---
+
+## Why Visit Delvine
 
 Why Visit
 

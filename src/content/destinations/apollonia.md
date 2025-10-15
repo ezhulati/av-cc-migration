@@ -1,21 +1,37 @@
 ---
-title: Apollonia
-description: Discover the ancient ruins of Apollonia to explore a piece of Albania's rich history. Walk amid well-preserved artifacts from a city that once shaped Mediterranean culture.
+title: "The Apollonia Archaeological Park: A Window into the Past"
+description: "Discover the ancient ruins of Apollonia to explore a piece of Albania's rich history. Walk amid well-preserved artifacts from a city that once shaped Mediterranean culture."
 region: Southern Albania
-featuredImage: /images/destinations/apollonia.jpg
-images: []
+featuredImage: "/images/destinations/Apollonia.jpeg"
+images:
+##   - "/images/destinations/Apollonia_Albania.jpeg "Apollonia Albania 1024x768""
+  - "/images/destinations/Church-of-Saint-Mary-in-Apollonia.jpeg"
+  - "/images/destinations/apollonia-roman-temple-albania.jpg"
+##   - "/images/destinations/Apollonia.jpeg "Apollonia""
+  - "/images/destinations/apollonia-temple-albania.jpg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.7264
+  lng: 19.4753
 language: en
 slug: apollonia
-highlights: []
+essence: "Ancient Greek colony where Caesar once studied and philosophers shaped minds"
+distanceFromTirana: "2hr"
+budgetRange: "€15-45"
+timeNeeded: "Half-day to 1 day"
+bestSeason: "Apr-Oct"
+highlights:
+##   - 7th-century BCE Greek ruins and forum
+##   - Byzantine monastery with ancient library site
+##   - Roman amphitheater and triumphal arch
+##   - Archaeological museum with mosaics
 seo:
   metaTitle: "The Apollonia Archaeological Park: A Window into the Past"
-  metaDescription: "%excerpt%"
-  focusKeyword: "apollonia"
-  robots: "index"
+  metaDescription: "Discover the ancient ruins of Apollonia to explore a piece of Albania's rich history. Walk amid well-preserved artifacts from a city that once shaped Mediterranean culture."
+##   focusKeyword: "apollonia"
+##   robots: "index"
 ---
+
+## Why Visit Apollonia
 
 Why Visit Apollonia
 
@@ -39,15 +55,13 @@ By the 4th century BCE, the city became a respected cultural center. Renowned ph
 
 Major academies and the most extensive library in the region nurtured intellectual advancements. 
 
-![Apollonia](/images/destinations/Apollonia.jpeg "Apollonia")
-
 Apollonia’s contributions to philosophical thinking, art, and innovations helped shape Mediterranean society.
 
 Today, Apollonia’s longevity and past glory represent Albania’s important regional influence and resilience. 
 
 The city remains a source of heritage and pride. Its ruins tell stories of ingenuity that still connect to Albania’s spirit.
 
-![Apollonia Albania](/images/destinations/apollonia-temple-albania.jpg "apollonia temple albania")Things To See and Do
+Things To See and Do
 
 The sprawling archaeological park allows you to imagine Apollonia at its peak vividly. Major sites include:
 
@@ -65,7 +79,7 @@ Nearby activities to complement your exploration include hiking for panoramic vi
 
 The 13th-century Ardenica Monastery is a highlight nearby attraction.
 
-![Apollonia Albania](/images/destinations/apollonia-roman-temple-albania.jpg "apollonia roman temple albania")Travel Information
+Travel Information
 
 **When to Visit:** The spring and autumn months offer mild weather perfect for exploring the archaeological ruins. 
 
@@ -79,7 +93,7 @@ Summers can be hot, so visiting in the morning or late afternoon is best during 
 
 **Packing Tips:** Bring good walking shoes, sun protection, insect repellant, lightweight layers, and clothes that dry quickly.
 
-![Apollonia Albania 1024x768](/images/destinations/Apollonia_Albania.jpeg "Apollonia Albania 1024x768")Planning Your Visit
+Planning Your Visit
 
 **Getting There:** The airports in Tirana and Vlorë provide international access. Alternately, ferries arrive from Italy in Durrës and Vlorë. Rent a car or take a bus from these cities to reach Apollonia.
 
@@ -93,7 +107,7 @@ Summers can be hot, so visiting in the morning or late afternoon is best during 
 
 **Two-Week Itinerary:** After fully exploring Apollonia, visit Tirana, hike in Lura National Park, see the Blue Eye Spring, and island-hop along the Albanian Riviera.
 
-![Church of Saint Mary in Apollonia 1024x582](/images/destinations/Church-of-Saint-Mary-in-Apollonia.jpeg "Church of Saint Mary in Apollonia 1024x582")Nearby Destinations
+Nearby Destinations
 
 Apollonia is conveniently located near several other fascinating Albanian destinations:
 

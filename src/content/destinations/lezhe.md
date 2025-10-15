@@ -1,18 +1,33 @@
 ---
-title: Lezhë
-description: "Lezhë, Albania: where ancient Illyrian roots and the modern era intertwine, creating a captivating blend of history and culture."
+title: "Discover Lezhë - Albania's Perfect Blend of History & Nature"
+description: "Uncover the wonders of Lezhë, Albania, with its rich history, breathtaking landscapes, and vibrant culture. Immerse yourself in this enchanting destination."
 region: Northern Albania
-featuredImage: /images/destinations/lezhe.jpg
-images: []
+featuredImage: /images/destinations/lezhe.jpeg
+images:
+  - "/images/destinations/IMG_3538.jpeg"
+  - "/images/destinations/IMG_3532.jpeg"
+  - "/images/destinations/IMG_3545.jpeg"
+  - "/images/destinations/IMG_3504.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 41.7836
+  lng: 19.6436
 language: en
 slug: lezhe
-highlights: []
+essence: "Where Skanderbeg's league united Albania and Adriatic beaches meet Illyrian heritage"
+distanceFromTirana: "1hr"
+budgetRange: "€18-50"
+timeNeeded: "1-2 days"
+bestSeason: "Apr-Oct"
+highlights:
+  - Skanderbeg Memorial and medieval castle
+  - Mrizi i Zanave farm-to-table agrotourism
+  - Drin River delta and Adriatic coastline
+  - Byzantine Church of St. Nicholas frescoes
 seo:
-  metaDescription: "Explore the wonders of Lezhë with our diverse range of products and services. Find everything you need to make the most of your Lezhë visit."
+  metaDescription: "Uncover the wonders of Lezhë, Albania, with its rich history, breathtaking landscapes, and vibrant culture. Immerse yourself in this enchanting destination."
 ---
+
+## Why Visit Lezhe
 
 A Brief History of Lezhë
 
@@ -118,8 +133,6 @@ Beaches like Shëngjin, Velipoja, and Rana e Hedhun are ideal for swimming, sunb
 
 Nearby villages offer opportunities to experience local culture and cuisine.
 
-![IMG 3504](/images/destinations/IMG_3504.jpeg "IMG 3504")
-
 The Adriatic coastline in Lezhë.
 
 The Kune-Vain Lagoon
@@ -140,19 +153,13 @@ While in Lezhë, visiting **Mrizi i Zanave Agroturizëm** is highly recommended.
 
 Located in the nearby village of Fishtë, this farm-to-table restaurant has gained national acclaim for its commitment to sustainable agriculture and traditional Albanian cuisine with a modern twist.
 
-![IMG 3532](/images/destinations/IMG_3532.jpeg "IMG 3532")
-
 Set in a picturesque rural landscape, Mrizi i Zanave offers a unique dining experience.
 
 Nearly all ingredients are sourced directly from the restaurant’s organic farm or local producers.
 
-![IMG 3545](/images/destinations/IMG_3545.jpeg "IMG 3545")
-
 The menu changes seasonally, reflecting the freshest available produce.
 
 Guests can savor homemade cheeses, cured meats, fresh salads, and slow-cooked meats, all prepared with care and creativity.
-
-![IMG 3538](/images/destinations/IMG_3538.jpeg "IMG 3538")
 
 Beyond dining, visitors can tour the farm, learn about traditional farming practices, and even participate in cooking workshops.
 

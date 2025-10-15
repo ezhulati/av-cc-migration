@@ -1,18 +1,30 @@
 ---
-title: Shëngjin
-description: Discover Shëngjin, Albania, where the beauty of the Adriatic Sea intertwines with the authentic charm of a coastal town untouched by mass tourism.
-region: ""
-featuredImage: /images/destinations/shengjin.jpg
-images: []
+title: "Shëngjin - Adriatic Charm and Authentic Albania Combined"
+description: "Explore Shëngjin, Albania – a coastal gem where pristine Adriatic beaches, fresh seafood, and local hospitality create an authentic and rejuvenating escape."
+region: Northern Albania
+featuredImage: "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
+images:
+  - "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 41.8133
+  lng: 19.5983
 language: en
 slug: shengjin
-highlights: []
+essence: "Unspoiled Adriatic beaches where fishing traditions meet Albanian hospitality"
+distanceFromTirana: "1.5hr"
+budgetRange: "€15-55"
+timeNeeded: "2-3 days"
+bestSeason: "Jun-Sep"
+highlights:
+  - Golden sand beaches with Adriatic views
+  - Fresh-caught seafood and tavë kosi
+  - Kune-Vain Lagoon wetland bird sanctuary
+  - Authentic coastal Albanian atmosphere
 seo:
-  metaDescription: "Escape to the coastal town of Shëngjin and indulge in its sandy beaches, vibrant nightlife, and delicious seafood. Book your seaside getaway today!"
+  metaDescription: "Explore Shëngjin, Albania – a coastal gem where pristine Adriatic beaches, fresh seafood, and local hospitality create an authentic and rejuvenating escape."
 ---
+
+## Why Visit Shengjin
 
 Why Visit Shëngjin
 

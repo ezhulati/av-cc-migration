@@ -1,19 +1,31 @@
 ---
-title: Voskopoja
-description: Step into Voskopoja, where history meets natural beauty in a serene Albanian village.
+title: "Discover Voskopoja - Albania's Historic Mountain Village"
+description: "Explore Voskopoja, Albania's hidden gem with Byzantine churches, cobbled streets, and stunning trails. Plan your visit to this historic mountain retreat today."
 region: Mountains
-featuredImage: /images/destinations/voskopoja.jpg
-images: []
+featuredImage: /images/destinations/Voskopoja.jpeg
+images:
+  - "/images/destinations/Voskopoja.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.6342
+  lng: 20.7272
 language: en
 slug: voskopoja
-highlights: []
+essence: "Once-great Aromanian city where Byzantine churches preserve 18th-century frescoes"
+distanceFromTirana: "3.5hr"
+budgetRange: "€18-55"
+timeNeeded: "1-2 days"
+bestSeason: "May-Oct, Dec-Feb (skiing)"
+highlights:
+  - Five endangered Byzantine churches with frescoes
+  - Aromanian cultural heritage and traditions
+  - Mountain hiking and winter skiing
+  - New Academy and Balkans' first printing press history
 seo:
-  metaTitle: "Discover Voskopoja - Albania’s Historic Mountain Village"
-  metaDescription: "Explore Voskopoja, Albania’s hidden gem with Byzantine churches, cobbled streets, and stunning trails. Plan your visit to this historic mountain retreat today."
+  metaTitle: "Discover Voskopoja - Albania's Historic Mountain Village"
+  metaDescription: "Explore Voskopoja, Albania's hidden gem with Byzantine churches, cobbled streets, and stunning trails. Plan your visit to this historic mountain retreat today."
 ---
+
+## Why Visit Voskopoja
 
 Albania’s Hidden Mountain Retreat
 

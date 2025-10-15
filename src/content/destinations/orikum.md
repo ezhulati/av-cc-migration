@@ -1,34 +1,50 @@
 ---
-title: Orikum
-description: Visit Orikum, where you'll find quieter beaches and lower prices than the rest of the Albanian coast, but don't expect luxury or sophisticated tourism.
+title: "Orikum, Albania Travel Guide | Visit Albania"
+description: "Discover Orikum, Albania's low-key coastal town. Real tips on beaches, costs, and local life - without the tourist crowds of the Albanian Riviera."
 region: Coastal
-featuredImage: /images/destinations/orikum.jpg
-images: []
+featuredImage: "/images/destinations/Orikum_Adriatic_521877671.jpeg"
+images:
+##   - "/images/destinations/Llogara_pass_630098996.jpeg"
+##   - "/images/destinations/kishamarmiroit_orikum_465839410.jpeg"
+##   - "/images/destinations/Albanian_beach_405209603.jpeg"
+##   - "/images/destinations/Albanian_Riviera_Roads_142612510.jpeg"
+##   - "/images/destinations/kisha_e_marmiroit_church_of_orikum_465839477.jpeg"
+##   - "/images/destinations/Orikum_Albania_1126394940.jpeg"
+##   - "/images/destinations/Orikum_albania_1126393279.jpeg"
+##   - "/images/destinations/marina_i_Orikum_1126394061.jpeg"
+##   - "/images/destinations/Orikum_Adriatic_521877671.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.3167
+  lng: 19.4667
 language: en
 slug: orikum
-highlights: []
+essence: "A working coastal town with ancient Roman ruins and calm beaches, offering local prices and authentic Albanian life without the Riviera polish."
+distanceFromTirana: "135 km (2.5 hours)"
+budgetRange: "€30-70/day"
+timeNeeded: "1-2 days (often combined with Vlorë)"
+bestSeason: "May-June, September"
+highlights:
+##   - "Ancient Orikum ruins (Julius Caesar's naval base, 6th century BC)"
+##   - "Karaburun Peninsula hiking and boat access"
+##   - "Authentic local restaurants with fresh seafood at non-tourist prices"
 seo:
-  metaDescription: "Experience the allure of Orikum with our diverse category listing. Discover a wide range of options for your enjoyment."
+  metaDescription: "Discover Orikum, Albania's low-key coastal town. Real tips on beaches, costs, and local life - without the tourist crowds of the Albanian Riviera.
+## "
 ---
+
+## Why Visit Orikum
 
 Why Visit
 
 Orikum isn’t your typical Albanian coastal town. While places like Saranda and Ksamil draw summer crowds with their beach clubs and tourist infrastructure, Orikum remains decidedly local. The town sits 15km from [Vlorë](https://albaniavisit.com/destinations/vlora/), where ancient ruins meet the Adriatic and outdoor activities trump nightlife.
 
-![](/images/destinations/Orikum_albania_1126393279.jpeg)Best Time to Visit
+Best Time to Visit
 
 Timing matters in Orikum. July and August bring heat and higher prices, but the town never gets as crowded as other Albanian beach destinations. September offers the best combination – warm water, mild temperatures, and lower accommodation costs.
 
 Winter reveals a different side of Orikum. Many businesses close, and the streets empty out. If you’re looking for local life and don’t mind limited options, winter stays can be remarkably affordable. Just know that many buildings lack proper heating.
 
-![](/images/destinations/marina_i_Orikum_1126394061.jpeg)
-
-*Orikum Marina, set against the Karaburun Peninsula, is Albania’s first modern yacht harbor connecting the Riviera with the wider Adriatic.*
-
-![](/images/destinations/Orikum_Albania_1126394940.jpeg)Things to See in Orikum
+Things to See in Orikum
 
 The ancient Orikum ruins tell a fascinating story – this was once Julius Caesar’s naval base. Unlike more developed archaeological sites, here you can often have the ruins to yourself. There’s no fancy visitor center, just authentic remains of a 6th-century BC settlement. Bring water and wear good shoes – the site has minimal facilities.
 
@@ -36,11 +52,7 @@ The [Karaburun Peninsula](https://albaniavisit.com/attractions/karaburun-peninsu
 
 Orikum Beach lacks the picture-perfect white sand of southern Albania, but the water stays calm and clear. The gradual slope makes it good for families with small children. Beach chairs cost €3-5 per day, but bring your own umbrella – rental options are limited.
 
-![](/images/destinations/kishamarmiroit_orikum_465839410.jpeg)
-
-*Marmiroi Church near Pashaliman, a 12th–13th century Byzantine monument dedicated to Saint Mary, stands as one of Albania’s most important Cultural Monuments.*
-
-![](/images/destinations/kisha_e_marmiroit_church_of_orikum_465839477.jpeg)Staying in Orikum
+Staying in Orikum
 
 Orikum splits into distinct areas, each with trade-offs:
 
@@ -62,13 +74,7 @@ Getting Around & Beyond
 
 While Orikum looks small on maps, the heat can make walking challenging in summer months. Local buses run to Vlorë (€1, 30 minutes) but follow no fixed schedule. Taxis charge €7-10 for the same trip – agree on the fare before getting in.
 
-![](/images/destinations/Albanian_Riviera_Roads_142612510.jpeg)
-
 Renting a car makes sense if you plan to explore. The roads to [Llogara National Park](https://albaniavisit.com/attractions/llogara-national-park/) and [Porto Palermo](https://albaniavisit.com/attractions/porto-palermo-castle/) are well-maintained but winding. Parking in town is unregulated and can be chaotic in summer.
-
-![](/images/destinations/Llogara_pass_630098996.jpeg)
-
-*View from the Llogara Pass with white fog rolling over the mountains, the winding serpentine road, and the Albanian Riviera stretching toward Palasa Beach under a blue sky.*
 
 Worth Your Time?
 
@@ -89,7 +95,7 @@ Practical Tips-   **ATMs:** Only use machines attached to bank buildings – the
 
 Budget travelers can manage on €30-40 per day, while €70-80 covers mid-range hotels and better restaurants. Even luxury options rarely exceed €150 daily, making Orikum notably cheaper than similar Mediterranean destinations.
 
-![](/images/destinations/Orikum_Adriatic_521877671.jpeg)Best Swimming Spots
+Best Swimming Spots
 
 The main beach gets crowded by local standards (though it’s still calm compared to Ksamil). Better options include:
 
@@ -99,7 +105,7 @@ The main beach gets crowded by local standards (though it’s still calm compare
 
 Skip the overpriced beach clubs – the best spots are the free public sections.
 
-![](/images/destinations/Albanian_beach_405209603.jpeg)Where Not to Stay
+Where Not to Stay
 
 Avoid accommodations:
 

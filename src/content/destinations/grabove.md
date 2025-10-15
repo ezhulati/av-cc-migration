@@ -1,25 +1,36 @@
 ---
-title: Grabovë
-description: A practical guide to Grabovë—how to get there, what to eat, where to stay, and how to explore the Vjosa Valley like a local.
+title: "Grabovë Përmet Village Guide – Food, Stays & The Vjosa River"
+description: "Discover Grabovë in Albania's Vjosa Valley: directions, heritage homes, Tek Xhako guesthouse, forest walks, and local dishes that make Përmet cuisine famous."
 region: Southern Albania
-featuredImage: /images/destinations/grabove.jpg
-images: []
+featuredImage: /images/destinations/DJI_0312.jpg
+images:
+##   - "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
+##   - "/images/destinations/DSC06885.jpg"
+##   - "/images/destinations/DJI_0319.jpg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.1833
+  lng: 20.1667
 language: en
 slug: grabove
-highlights: []
+essence: "A tiny stone village perched above the Vjosa Valley where exceptional farm-to-table cuisine and restored heritage homes create an authentic agrotourism experience."
+distanceFromTirana: "240 km (4 hours)"
+budgetRange: "€30-50/day"
+timeNeeded: "2-3 days"
+bestSeason: "April-June, September-October (grape harvest)"
+highlights:
+  - "Bujtina Te Xhako guesthouse with exceptional traditional cuisine (9.2/10 rating)"
+##   - "Direct access to Europe's last wild river, the Vjosa"
+##   - "Stone architecture and 200-year oak tree at St. Kyriaki Chapel"
 seo:
   metaTitle: "%title% Përmet Village Guide – Food, Stays & The Vjosa River"
-  metaDescription: "Discover Grabovë in Albania’s Vjosa Valley: directions, heritage homes, Tek Xhako guesthouse, forest walks, and local dishes that make Përmet cuisine famous."
+  metaDescription: "Discover Grabovë in Albania's Vjosa Valley: directions, heritage homes, Tek Xhako guesthouse, forest walks, and local dishes that make Përmet cuisine famous."
 ---
+
+## Why Visit Grabove
 
 Why Visit Grabovë
 
 Few Albanian villages feel as untouched yet welcoming as Grabovë, a tiny settlement 5 km southeast of Këlcyrë and about half an hour from the town of [Përmet](https://albaniavisit.com/destinations/permet/). Perched at **344 m above sea level** on the sunny side of the Vjosa Valley, it offers stone architecture, farm-to-table meals, and direct access to forest and river trails.
-
-![St Kyriaki (Shën e Diela) Church in Grabovë, Albania](/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg)
 
 St Kyriaki Chapel, Grabovë. Under [communism](https://albaniavisit.com/communist-era/) (1967-1990) locals masked the ruined shrine as a barn and worshipped beneath this 200-year oak; after the regime collapsed they rebuilt the chapel and erected the white cross now visible.
 
@@ -82,7 +93,7 @@ Bujtina Te Xhako has earned exceptional ratings:
 
 **Tip:** Tek Xhako fills fast on summer weekends—book ahead or message them on WhatsApp if dates look full online.
 
-![](/images/destinations/DSC06885.jpg)![](/images/destinations/DJI_0319.jpg)**Food & Dining at Bujtina Te Xhako**
+**Food & Dining at Bujtina Te Xhako**
 
 The property is particularly celebrated for its cuisine, offering both traditional Albanian dishes and exceptional hospitality:
 

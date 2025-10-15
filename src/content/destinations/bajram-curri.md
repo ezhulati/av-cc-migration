@@ -1,19 +1,31 @@
 ---
-title: Bajram Curri
-description: Step off the beaten path and explore Bajram Curri, a town where Albania's rich history, diverse culture, and stunning natural landscapes converge.
+title: "Bajram Curri - Authentic Blend of History, Culture & Nature"
+description: "From its rich history and diverse culture to its stunning natural landscapes, find out why Bajram Curri is a must-visit."
 region: Northern Albania
-featuredImage: /images/destinations/bajram-curri.jpg
-images: []
+featuredImage: /images/destinations/bajram-curri.jpeg
+images:
+  - "/images/destinations/bajram-curri.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 42.3578
+  lng: 20.0081
 language: en
 slug: bajram-curri
-highlights: []
+essence: "Gateway to Valbona Valley where Albanian Alps meet freedom fighter heritage"
+distanceFromTirana: "4hr"
+budgetRange: "€20-60"
+timeNeeded: "2-3 days (plus Valbona trips)"
+bestSeason: "May-Oct"
+highlights:
+  - Valbona Valley National Park gateway
+  - Koman Lake ferry journey
+  - Ottoman mosques and Byzantine churches
+  - Albanian independence heritage sites
 seo:
-  metaTitle: "%title% - Authentic Blend of History, Culture &amp; Nature"
+  metaTitle: "Bajram Curri - Authentic Blend of History, Culture & Nature"
   metaDescription: "From its rich history and diverse culture to its stunning natural landscapes, find out why Bajram Curri is a must-visit."
 ---
+
+## Why Visit Bajram Curri
 
 Key Takeaway
 

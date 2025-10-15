@@ -1,19 +1,35 @@
 ---
-title: Pema e Thatë
-description: From guarded military buffer to seaside haven, Pema e Thatë embodies Albania's transformation and offers an unparalleled coastal experience steeped in history.
+title: "Pema e Thatë - Discover Albania's Historic Beach"
+description: "Discover Pema e Thatë, once a restricted military zone, now a stunning beach offering lush landscapes, rich history, and views of Greece across the strait."
 region: Beaches
-featuredImage: /images/destinations/pema-e-thate.jpg
-images: []
+featuredImage: /images/destinations/Pema-e-Thate.jpg
+images:
+##   - "/images/destinations/DSC00469.jpg "DSC00469""
+##   - "/images/destinations/IMG_1929.jpg "IMG 1929""
+##   - "/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2""
+##   - "/images/destinations/Pema-e-thate-1.jpg "Pema e thate 1""
+##   - "/images/destinations/IMG_1939.jpeg "IMG 1939""
+##   - "/images/destinations/IMG_1938.jpeg "IMG 1938""
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 39.7667
+  lng: 20.0167
 language: en
 slug: pema-e-thate
-highlights: []
+essence: "A former communist military zone turned family beach near Ksamil, offering sandy seafloor swimming and direct views of Corfu across the strait."
+distanceFromTirana: "280 km (5 hours)"
+budgetRange: "€30-60/day"
+timeNeeded: "Half day (often combined with Ksamil/Butrint visit)"
+bestSeason: "May-June, September-October"
+highlights:
+##   - "Unique sandy seafloor beneath pebble beach for comfortable swimming"
+##   - "Direct views of Corfu, Greece across the narrow strait"
+##   - "Part of Butrint National Park with nearby UNESCO site (3 km)"
 seo:
   metaTitle: "%title% - Discover Albania's Historic Beach "
   metaDescription: "Discover Pema e Thatë, once a restricted military zone, now a stunning beach offering lush landscapes, rich history, and views of Greece across the strait."
 ---
+
+## Why Visit Pema E Thate
 
 Where the Tides of History Meet Paradise
 
@@ -31,35 +47,25 @@ Reaching this hidden gem requires a bit of effort, but the journey is part of th
 2.  **Head to Ksamil:** From Saranda, take a local bus or taxi to [Ksamil](https://albaniavisit.com/destinations/ksamil/), which takes about 15 minutes.
 3.  **The Final Stretch:** From Ksamil, you have two options:-   **By Road:** Hire a taxi or rent a car for the last 3 km. The road is partially paved and winds through beautiful forest scenery.
     -   **By Sea:** For a more scenic approach, take a boat trip from Ksamil. Many local operators offer this service during the summer months.
-4.  **Walking Option:** For the adventurous, hiking from Ksamil is possible. The trail is about 3 km and offers stunning views, but ensure you’re prepared with water and proper footwear.![IMG 1929](/images/destinations/IMG_1929.jpg "IMG 1929")
-
-There is no entrance fee to access the beach. For sunbathers, beach chairs and umbrellas are available for rent.
+4.  **Walking Option:** For the adventurous, hiking from Ksamil is possible. The trail is about 3 km and offers stunning views, but ensure you’re prepared with water and proper footwear.There is no entrance fee to access the beach. For sunbathers, beach chairs and umbrellas are available for rent.
 
 Prices can vary depending on the season, ranging from $10 to $40 per day for a set of two chairs and an umbrella.
 
 It’s advisable to bring cash, as card facilities may be limited.
 
-![pema e thate beach beds and umbrellas](/images/destinations/DSC00469.jpg "DSC00469")
+Best Time to Visit:** Late spring (May-June) or early autumn (September-October) offer pleasant weather and fewer crowds. Summer (July-August) is busiest but perfect for beach activities.
 
-**Best Time to Visit:** Late spring (May-June) or early autumn (September-October) offer pleasant weather and fewer crowds. Summer (July-August) is busiest but perfect for beach activities.
-
-![Pema e thate parking free](/images/destinations/IMG_1938.jpeg "IMG 1938")
-
-**Parking:** Parking is free.
+Parking:** Parking is free.
 
 **Amenities and Facilities:** Pema e Thatë offers more facilities than you might expect for a secluded beach. There’s a pizzeria on-site for those craving a slice of Italy by the Ionian Sea. Additionally, a beach cafe serves several food and drinks, allowing you to stay refreshed throughout your visit.
 
-![Pema e Thate](/images/destinations/Pema-e-thate-1.jpg "Pema e thate 1")
-
-**Tip:** While there are food and drink options available, it’s still a good idea to bring some of your snacks, water, and beach essentials. This gives you more flexibility, especially if you explore beyond the immediate beach area.
+Tip:** While there are food and drink options available, it’s still a good idea to bring some of your snacks, water, and beach essentials. This gives you more flexibility, especially if you explore beyond the immediate beach area.
 
 A Coastline Shaped by Centuries
 
 At first glance, Pema e Thatë’s pebbled shoreline resembles many other beaches along the [Albanian Riviera](https://albaniavisit.com/attractions/albanian-riviera/).
 
 However, you’ll notice something different once you enter the water. The sea floor is covered in soft sand. This unexpected change in texture surprised me.
-
-![Pema e Thatë](/images/destinations/IMG_1939.jpeg "IMG 1939")
 
 Online articles report that this sand may not be natural, suggesting beach operators added it to enhance the swimming experience and the blue color of the water.
 
@@ -68,10 +74,6 @@ Regardless of the sand’s origin, Pema e Thatë, like much of this coastline, h
 Over the centuries, the area has seen the rise and fall of various civilizations, adding an intriguing historical dimension to its natural beauty.
 
 Nearby, the ancient city of [Butrint](https://albaniavisit.com/destinations/butrint/), now a [UNESCO World Heritage site](https://albaniavisit.com/attractions/unesco-world-heritage-sites/), speaks of Greek, [Roman](https://albaniavisit.com/albanias-roman-era/), and [Byzantine](https://albaniavisit.com/byzantine-era-albania/) legacies. But the beach’s recent past gives it a unique character.
-
-![Butrint](/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2")
-
-*Butrint National Park*
 
 These peaceful waters became a theater of conflict during World War II. The Strait of Corfu, visible from the shore, was the site of the [1946 Corfu Channel Incident](https://en.wikipedia.org/wiki/Corfu_Channel_incident).
 

@@ -1,18 +1,29 @@
 ---
-title: Peshkopi
-description: "Peshkopi, Albania: A raw and authentic experience of rural life, far from the beaten tourist path."
-region: ""
-featuredImage: /images/destinations/peshkopi.jpg
-images: []
+title: "Peshkopi - Discovering Authentic Rural Life in Albania"
+description: "Explore Peshkopi, Albania, a small town offering an authentic look at rural life. Engage with locals, discover rugged landscapes, and embrace simplicity."
+region: Northeast Albania
+featuredImage: /images/destinations/peshkopi.jpeg
+images:
+  - "/images/destinations/peshkopi.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 41.6833
+  lng: 20.4333
 language: en
 slug: peshkopi
-highlights: []
+essence: "An off-the-beaten-path mountain town near Korabi peak offering genuine rural Albanian life, homestay experiences, and rugged natural surroundings."
+distanceFromTirana: "150 km (3 hours)"
+budgetRange: "€20-35/day"
+timeNeeded: "2-3 days"
+bestSeason: "May-September (winter can be harsh)"
+highlights:
+  - "Access to Korabi Mountain (Albania's highest peak, 2,764m)"
+  - "Authentic homestay experiences with local families"
+  - "Drini i Zi River for nature walks and reflection"
 seo:
-  metaDescription: "Shop the best selection of Peshkopi products and essentials. Find all your Peshkopi needs in one convenient place."
+  metaDescription: "Explore Peshkopi, Albania, a small town offering an authentic look at rural life. Engage with locals, discover rugged landscapes, and embrace simplicity."
 ---
+
+## Why Visit Peshkopi
 
 Why Visit Peshkopi
 

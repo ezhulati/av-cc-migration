@@ -1,18 +1,30 @@
 ---
-title: Korcë
-description: Discover Korçë, an artistic wonder with bustling markets, centuries-old traditions, stunning sights like its cathedral and museums, and natural beauty in the surrounding mountains.
+title: "Discover Korça - Visit Albania"
+description: "Experience Korçë's vibrant culture, artistic heritage, and lively markets—a captivating blend of tradition and modernity in Southeast Albania."
 region: Southern Albania
-featuredImage: /images/destinations/korce.jpg
-images: []
+featuredImage: /images/destinations/Korce-scaled.jpeg
+images:
+  - "/images/destinations/Korce-scaled.jpeg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.6186
+  lng: 20.7806
 language: en
 slug: korce
-highlights: []
+essence: "Where beer, lakror pastries, and medieval art meet in Albania's cultural capital"
+distanceFromTirana: "3hr"
+budgetRange: "€20-60"
+timeNeeded: "2-3 days"
+bestSeason: "May-Sep"
+highlights:
+  - National Museum of Medieval Art with Byzantine treasures
+  - Korçë Brewery and Albanian beer culture
+  - Old Bazaar with artisan workshops
+  - Orthodox Cathedral and Ottoman architecture
 seo:
-  metaDescription: "Explore the vibrant city of Korçë with our diverse category listings. Find attractions, services, and more in Korçë."
+  metaDescription: "Experience Korçë's vibrant culture, artistic heritage, and lively markets—a captivating blend of tradition and modernity in Southeast Albania."
 ---
+
+## Why Visit Korce
 
 Why Visit
 

@@ -1,18 +1,31 @@
 ---
-title: Borsh
-description: Borsh, Albania’s seven-kilometer beach, blends authentic village life with Ionian beauty—offering space, affordability, and a genuine coastal escape.
+title: "Borsh Albania - Your Guide to the Riviera's 7km Beach (2025)"
+description: "Discover Borsh Beach, Albania's longest coastline. Travel tips on buses, stays, dining, and things to do for an authentic and affordable seaside escape."
 region: Albanian Riviera
-featuredImage: /images/destinations/borsh.jpg
-images: []
+featuredImage: "/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg"
+images:
+##   - "/images/destinations/Borsh-Beach-Albania-2.jpg"
+##   - "/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 40.0342
+  lng: 19.8681
 language: en
 slug: borsh
-highlights: []
+essence: "Seven uninterrupted kilometers of white pebbles where olive groves meet Ionian waters"
+distanceFromTirana: "4hr"
+budgetRange: "€20-70"
+timeNeeded: "2-4 days"
+bestSeason: "Jun, Sep"
+highlights:
+##   - Albania's longest beach at 7 kilometers
+##   - Authentic olive oil production villages
+##   - Borsh Castle ruins with coastal panoramas
+##   - Budget-friendly alternative to crowded Riviera spots
 seo:
-  metaDescription: "Experience the coastal paradise of Borsh with our diverse range of products and services. Shop now for the best deals!"
+  metaDescription: "Discover Borsh Beach, Albania's longest coastline. Travel tips on buses, stays, dining, and things to do for an authentic and affordable seaside escape."
 ---
+
+## Why Visit Borsh
 
 A guide to Albania’s longest stretch of coast
 
@@ -24,9 +37,7 @@ Getting to Borsh
 
 The coastal road The journey to Borsh sets the tone for what you’ll find—beautiful but requiring a bit of patience with Albanian logistics. From Saranda, the coastal road hugs dramatic cliffs before descending toward Borsh’s distinctive long beach, a route that offers glimpses of every cove and village you’ll want to explore later.
 
-![](/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg)
-
-**From Saranda by Bus**
+From Saranda by Bus**
 
 Three daily buses connect Saranda with Borsh, covering the 45 kilometers in 45-90 minutes depending on stops. Here’s exactly how it works: head to the area near Friendship Park in Saranda’s city center, around the archaeological ruins. Look for minibuses with “Himara” or “Vlore” painted on their windshields—these pass through Borsh on their way north. Tell the driver “Borsh” when you board, and you’ll pay about €8 in cash directly to him.
 
@@ -57,7 +68,7 @@ Together, these communities maintain their agricultural identity despite growing
 
 This cultural authenticity sets Borsh apart from more developed Albanian coastal destinations. Tourism happens around village life rather than replacing it, creating opportunities for genuine cultural exchange that many travelers find more meaningful than resort experiences.
 
-![](/images/destinations/Borsh-Beach-Albania-2.jpg)Where to Stay in Borsh
+Where to Stay in Borsh
 
 Borsh, Albania: The Seven-Kilometer Beach
 

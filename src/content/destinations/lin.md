@@ -1,18 +1,39 @@
 ---
-title: Lin Village
-description: Discover Lin, Albania—home to the oldest stilt-house settlement in Europe. Plan your visit with local stays, trout dinners, and lakeside views.
+title: "Lin, Albania - Explore Europe's Oldest Lakeside Village"
+description: "Explore Lin, Albania—Europe's oldest lakeside village. Discover 8,500 years of history, lakefront stays, trout dining, and authentic cross-border culture."
 region: Southern Albania
-featuredImage: /images/destinations/lin.jpg
-images: []
+featuredImage: /images/destinations/Lin.jpg
+images:
+##   - "/images/accommodation/Lin-Village-Stays-Albania.jpg"
+  - "/images/posts/Remains-of-an-early-Christian-church-in-the-small-fishing-village-of-Lin-Albania-.jpeg"
+  - "/images/destinations/Beautiful-lakeshore-landscape-at-lake-ohrid-near-Lin-village-Albania-.jpeg"
+##   - "/images/destinations/Lin-Albania.jpg"
+##   - "/images/destinations/Lin-Village-Organic-food.jpg"
+##   - "/images/destinations/Lin-architechture.jpg"
+##   - "/images/destinations/Bunker-over-lin-village-at-lake-ohrid-Albania.jpg"
+##   - "/images/destinations/Lin-Gueshouse.jpg"
+##   - "/images/destinations/Lin.jpg"
+##   - "/images/destinations/Lin-Albania-Village.jpg"
 coordinates:
-  lat: 0
-  lng: 0
+  lat: 41.0425
+  lng: 20.6858
 language: en
 slug: lin
-highlights: []
+essence: "Europe's oldest lakeside settlement where 8,500-year stilt-houses meet Byzantine mosaics"
+distanceFromTirana: "3hr"
+budgetRange: "€20-60"
+timeNeeded: "2-3 days"
+bestSeason: "May-Jun, Sep-Oct"
+highlights:
+##   - 8,500-year-old Neolithic stilt-house settlement
+##   - 6th-century Byzantine basilica with protected mosaics
+##   - Guesthouse stays with home-cooked trout dinners
+##   - Cross-border access to North Macedonia's Ohrid
 seo:
-  metaDescription: "Discover a wide range of Lin products and accessories. Shop now for high-quality Lin items at great prices."
+  metaDescription: "Explore Lin, Albania—Europe's oldest lakeside village. Discover 8,500 years of history, lakefront stays, trout dining, and authentic cross-border culture."
 ---
+
+## Why Visit Lin
 
 Why Visit Lin
 
@@ -24,17 +45,11 @@ Albania is closer than you think. Use the tool below to compare flights to Tiran
 
 💡 **Pro Tip:** Tuesday and Wednesday departures typically offer the best prices to Tirana
 
-![](/images/destinations/Lin-architechture.jpg)![](/images/destinations/Lin-Albania.jpg)Step Into Prehistoric Time
+Step Into Prehistoric Time
 
 In 2023, underwater archaeologists confirmed that Lin is the site of Europe’s oldest known stilt-house settlement — older than the Swiss pile dwellings by nearly 2,000 years. Beneath [Lake Ohrid](https://albaniavisit.com/attractions/lake-ohrid/), they found wooden posts, artifacts, seeds, and evidence of a Neolithic village that dates back over 8,500 years.
 
-![Lin Basilica ruins](/images/posts/Remains-of-an-early-Christian-church-in-the-small-fishing-village-of-Lin-Albania-.jpeg)
-
 Above the water, Lin holds another treasure: the 6th-century Byzantine basilica that crowns the village hill. Covered for protection most of the year, its mosaics depict birds, bees, and fish, echoing both [Christian themes](https://albaniavisit.com/byzantine-era-albania/) and Lake Ohrid’s natural life. You can contact the caretaker to arrange a private viewing.
-
-![Lin village, Albania](/images/destinations/Lin-Albania-Village.jpg)
-
-*Lin village along Lake Ohrid, Albania*
 
 Stay by the Water, Eat Like a Local
 
@@ -52,23 +67,13 @@ Staying in Lin means living in someone’s home. These are guesthouses, not hote
 
 Some listings show up under Pogradec, so search by name when using Booking.com. Most places require cash. Book ahead for summer.
 
-![Guesthouse in Lin Village, Albania](/images/accommodation/Lin-Village-Stays-Albania.jpg)
-
-*Guesthouse in Lin Village, Albania*
-
 ### Find Guesthouses in Lin & Lake Ohrid
 
 Browse real-time availability for guesthouses in Lin and the surrounding Lake Ohrid region—directly from verified listings. No fluff, just local stays run by people who live there.
 
 💡 **Note:** Some Lin listings appear under “Pogradec” in booking systems. Look for guesthouse names like *House 1960*, *Rosa B&B*, and *Guesthouse Lin*.
 
-![](/images/destinations/Lin.jpg)
-
-*Kisha e Shën Varvarës*
-
-How to Get There![](/images/destinations/Beautiful-lakeshore-landscape-at-lake-ohrid-near-Lin-village-Albania-.jpeg)
-
-**From Tirana by Bus**: Buses to Pogradec leave hourly (600 lek / ~€6). Ask the driver to drop you at the Lin turnoff. From there, it’s a 2 km downhill walk or quick taxi ride.
+How to Get ThereFrom Tirana by Bus**: Buses to Pogradec leave hourly (600 lek / ~€6). Ask the driver to drop you at the Lin turnoff. From there, it’s a 2 km downhill walk or quick taxi ride.
 
 **By Car**: 2.5–3 hours from Tirana via Elbasan. Stop at the Qafë Thanë viewpoint.
 
@@ -82,7 +87,7 @@ What to Do Around Lin
 
 Lin is a base. From here, the entire Lake Ohrid region opens up — both the Albanian and Macedonian sides.
 
-![](/images/destinations/Bunker-over-lin-village-at-lake-ohrid-Albania.jpg)Day Tours and Cross-Border Trips
+Day Tours and Cross-Border Trips
 
 [Lake Ohrid Circle Tour from Macedonia](https://viator.tpm.li/sJQu3yv5) →
 
@@ -102,7 +107,7 @@ Late May to mid-June, and September to October. You’ll beat the summer crowds,
 
 In winter, it’s quiet. Some guesthouses stay open, especially if you message in advance. The lake turns moody, and the pace slows even more.
 
-![](/images/destinations/Lin-Gueshouse.jpg)Know Before You Go
+Know Before You Go
 
 **Cash is king** – no ATMs in Lin. Withdraw in Pogradec.
 
@@ -112,7 +117,7 @@ In winter, it’s quiet. Some guesthouses stay open, especially if you message i
 
 **Visa-free entry** for most travelers (EU, US, UK, Canada, etc.)
 
-![Lin Village market](/images/destinations/Lin-Village-Organic-food.jpg)Your Turn to Visit
+Your Turn to Visit
 
 You’re not coming to Lin for five-star hotels. You’re coming to watch fishermen row out at dawn. To eat food grown meters from your plate. To stand on stones older than the pyramids.
 
