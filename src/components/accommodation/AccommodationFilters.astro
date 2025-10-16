@@ -8,154 +8,450 @@ interface Props {
 const { starRatings, types, locations } = Astro.props;
 ---
 
-<aside class="filters-sidebar">
+<aside class="filters-sidebar" id="filtersSidebar">
+  <!-- Mobile Close Button -->
+  <button class="close-filters-mobile" id="closeFiltersMobile" aria-label="Close filters">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <line x1="18" y1="6" x2="6" y2="18"></line>
+      <line x1="6" y1="6" x2="18" y2="18"></line>
+    </svg>
+  </button>
+
+  <!-- Header -->
   <div class="filters-header">
-    <h2>Filter Results</h2>
-    <button class="clear-filters" id="clearFilters">Clear All</button>
+    <div class="filters-title">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+      </svg>
+      <h2>Filters</h2>
+    </div>
+    <button class="clear-all-btn" id="clearFilters">
+      Clear all
+    </button>
   </div>
 
-  <!-- Star Rating Filter -->
+  <!-- Search -->
   <div class="filter-section">
-    <h3>Star Rating</h3>
+    <label class="filter-label">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"></circle>
+        <path d="m21 21-4.35-4.35"></path>
+      </svg>
+      Search properties
+    </label>
+    <input
+      type="text"
+      id="searchInput"
+      class="search-input"
+      placeholder="Search by name or location..."
+    />
+  </div>
+
+  <!-- Price Range -->
+  <div class="filter-section">
+    <div class="filter-label">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="12" y1="1" x2="12" y2="23"></line>
+        <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+      </svg>
+      Price per night
+    </div>
+    <div class="price-range-wrapper">
+      <div class="price-inputs">
+        <div class="price-input-group">
+          <span class="currency">$</span>
+          <input type="number" id="minPrice" class="price-input" placeholder="Min" value="0" min="0" max="500">
+        </div>
+        <span class="price-separator">—</span>
+        <div class="price-input-group">
+          <span class="currency">$</span>
+          <input type="number" id="maxPrice" class="price-input" placeholder="Max" value="500" min="0" max="500">
+        </div>
+      </div>
+      <input
+        type="range"
+        id="priceRange"
+        class="price-slider"
+        min="0"
+        max="500"
+        value="500"
+      />
+      <div class="price-range-labels">
+        <span>$0</span>
+        <span>$500+</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Star Rating -->
+  <div class="filter-section">
+    <div class="filter-label">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2">
+        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+      </svg>
+      Star rating
+    </div>
     <div class="filter-options">
       {starRatings.map(rating => (
-        <label class="filter-option">
+        <label class="filter-checkbox">
           <input
             type="checkbox"
             name="starRating"
             value={rating}
             data-filter="starRating"
           />
-          <span class="checkbox-custom"></span>
-          <span class="filter-label">
-            {[...Array(rating)].map(() => '⭐').join('')} {rating} Star
+          <span class="checkbox-box">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
           </span>
+          <span class="checkbox-label">
+            <span class="stars">
+              {[...Array(5)].map((_, i) => (
+                <svg
+                  width="14"
+                  height="14"
+                  viewBox="0 0 24 24"
+                  fill={i < rating ? 'currentColor' : 'none'}
+                  stroke="currentColor"
+                  stroke-width="2"
+                  class={i < rating ? 'star-filled' : 'star-empty'}
+                >
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                </svg>
+              ))}
+            </span>
+          </span>
+          <span class="item-count" data-count-filter="starRating" data-count-value={rating}></span>
         </label>
       ))}
     </div>
   </div>
 
-  <!-- Accommodation Type Filter -->
+  <!-- Property Type -->
   <div class="filter-section">
-    <h3>Property Type</h3>
+    <div class="filter-label">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+      </svg>
+      Property type
+    </div>
     <div class="filter-options">
       {types.map(type => (
-        <label class="filter-option">
+        <label class="filter-checkbox">
           <input
             type="checkbox"
             name="accommodationType"
             value={type}
             data-filter="accommodationType"
           />
-          <span class="checkbox-custom"></span>
-          <span class="filter-label">{type.charAt(0).toUpperCase() + type.slice(1)}</span>
+          <span class="checkbox-box">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+          </span>
+          <span class="checkbox-label">{type.charAt(0).toUpperCase() + type.slice(1)}</span>
+          <span class="item-count" data-count-filter="accommodationType" data-count-value={type}></span>
         </label>
       ))}
     </div>
   </div>
 
-  <!-- Location Filter -->
+  <!-- Location -->
   <div class="filter-section">
-    <h3>Location</h3>
-    <div class="filter-options scrollable">
-      {locations.map(location => (
-        <label class="filter-option">
+    <div class="filter-label">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+        <circle cx="12" cy="10" r="3"></circle>
+      </svg>
+      Location
+    </div>
+    <div class="location-search-wrapper">
+      <input
+        type="text"
+        id="locationSearch"
+        class="location-search"
+        placeholder="Search locations..."
+      />
+    </div>
+    <div class="filter-options scrollable" id="locationOptions">
+      {locations.slice(0, 10).map(location => (
+        <label class="filter-checkbox">
           <input
             type="checkbox"
             name="location"
             value={location}
             data-filter="location"
+            data-location={location}
           />
-          <span class="checkbox-custom"></span>
-          <span class="filter-label">{location}</span>
+          <span class="checkbox-box">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+          </span>
+          <span class="checkbox-label">{location}</span>
+          <span class="item-count" data-count-filter="location" data-count-value={location}></span>
         </label>
       ))}
     </div>
+    <button class="show-more-btn" id="showMoreLocations">
+      Show all {locations.length} locations
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg>
+    </button>
   </div>
 
-  <!-- Amenities Filter -->
+  <!-- Amenities -->
   <div class="filter-section">
-    <h3>Amenities</h3>
+    <div class="filter-label">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polyline points="20 6 9 17 4 12"></polyline>
+      </svg>
+      Popular amenities
+    </div>
     <div class="filter-options">
       {['WiFi', 'Pool', 'Parking', 'Air Conditioning', 'Restaurant', 'Bar', 'Gym', 'Spa'].map(amenity => (
-        <label class="filter-option">
+        <label class="filter-checkbox">
           <input
             type="checkbox"
             name="amenities"
             value={amenity}
             data-filter="amenities"
           />
-          <span class="checkbox-custom"></span>
-          <span class="filter-label">{amenity}</span>
+          <span class="checkbox-box">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+          </span>
+          <span class="checkbox-label">{amenity}</span>
+          <span class="item-count" data-count-filter="amenities" data-count-value={amenity}></span>
         </label>
       ))}
     </div>
   </div>
+
+  <!-- Apply Button (Mobile) -->
+  <button class="apply-filters-mobile" id="applyFiltersMobile">
+    Show results
+  </button>
 </aside>
+
+<!-- Overlay for mobile -->
+<div class="filters-overlay" id="filtersOverlay"></div>
 
 <style>
   .filters-sidebar {
     background: white;
-    border-radius: 12px;
-    padding: 24px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    border: 1px solid #e8e8e8;
     position: sticky;
     top: 100px;
-    height: fit-content;
     max-height: calc(100vh - 120px);
     overflow-y: auto;
+    overflow-x: hidden;
   }
 
+  /* Scrollbar Styling */
+  .filters-sidebar::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .filters-sidebar::-webkit-scrollbar-track {
+    background: #f5f5f5;
+  }
+
+  .filters-sidebar::-webkit-scrollbar-thumb {
+    background: #d0d0d0;
+    border-radius: 3px;
+  }
+
+  .filters-sidebar::-webkit-scrollbar-thumb:hover {
+    background: #b0b0b0;
+  }
+
+  .close-filters-mobile {
+    display: none;
+  }
+
+  /* Header */
   .filters-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 24px;
-    padding-bottom: 16px;
-    border-bottom: 2px solid #f0f0f0;
+    padding: 24px;
+    border-bottom: 1px solid #f0f0f0;
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
   }
 
-  .filters-header h2 {
+  .filters-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .filters-title svg {
+    color: #666;
+  }
+
+  .filters-title h2 {
     font-size: 20px;
     font-weight: 700;
     color: #1a1a1a;
     margin: 0;
   }
 
-  .clear-filters {
+  .clear-all-btn {
     background: none;
     border: none;
     color: #e31c2a;
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
-    padding: 4px 8px;
-    border-radius: 4px;
+    padding: 6px 12px;
+    border-radius: 8px;
     transition: background 0.2s;
   }
 
-  .clear-filters:hover {
+  .clear-all-btn:hover {
     background: #fff5f5;
   }
 
+  /* Filter Section */
   .filter-section {
-    margin-bottom: 28px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #e8e8e8;
+    padding: 20px 24px;
+    border-bottom: 1px solid #f0f0f0;
   }
 
   .filter-section:last-child {
     border-bottom: none;
-    margin-bottom: 0;
   }
 
-  .filter-section h3 {
-    font-size: 16px;
+  .filter-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 15px;
     font-weight: 600;
-    color: #333;
-    margin: 0 0 16px 0;
+    color: #1a1a1a;
+    margin-bottom: 16px;
   }
 
+  .filter-label svg {
+    color: #666;
+    flex-shrink: 0;
+  }
+
+  /* Search Input */
+  .search-input {
+    width: 100%;
+    padding: 12px 16px;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 10px;
+    font-size: 14px;
+    transition: all 0.2s;
+  }
+
+  .search-input:focus {
+    outline: none;
+    border-color: #e31c2a;
+    box-shadow: 0 0 0 3px rgba(227, 28, 42, 0.1);
+  }
+
+  /* Price Range */
+  .price-range-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .price-inputs {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .price-input-group {
+    flex: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 0 12px;
+    transition: all 0.2s;
+  }
+
+  .price-input-group:focus-within {
+    border-color: #e31c2a;
+    box-shadow: 0 0 0 3px rgba(227, 28, 42, 0.1);
+  }
+
+  .currency {
+    font-size: 14px;
+    font-weight: 600;
+    color: #666;
+  }
+
+  .price-input {
+    width: 100%;
+    border: none;
+    padding: 12px 8px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .price-input:focus {
+    outline: none;
+  }
+
+  .price-separator {
+    color: #999;
+    font-weight: 600;
+  }
+
+  .price-slider {
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(to right, #e31c2a 0%, #e31c2a 100%);
+    outline: none;
+    -webkit-appearance: none;
+  }
+
+  .price-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #e31c2a;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .price-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #e31c2a;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .price-range-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #999;
+  }
+
+  /* Filter Options */
   .filter-options {
     display: flex;
     flex-direction: column;
@@ -163,33 +459,35 @@ const { starRatings, types, locations } = Astro.props;
   }
 
   .filter-options.scrollable {
-    max-height: 200px;
+    max-height: 250px;
     overflow-y: auto;
+    padding-right: 8px;
   }
 
-  .filter-option {
+  .filter-checkbox {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
     cursor: pointer;
-    padding: 4px;
-    border-radius: 4px;
+    padding: 8px;
+    border-radius: 8px;
     transition: background 0.2s;
+    position: relative;
   }
 
-  .filter-option:hover {
+  .filter-checkbox:hover {
     background: #f9f9f9;
   }
 
-  .filter-option input[type="checkbox"] {
+  .filter-checkbox input[type="checkbox"] {
     display: none;
   }
 
-  .checkbox-custom {
+  .checkbox-box {
     width: 20px;
     height: 20px;
     border: 2px solid #d0d0d0;
-    border-radius: 4px;
+    border-radius: 6px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -197,22 +495,98 @@ const { starRatings, types, locations } = Astro.props;
     flex-shrink: 0;
   }
 
-  .filter-option input[type="checkbox"]:checked + .checkbox-custom {
+  .checkbox-box svg {
+    opacity: 0;
+    transform: scale(0.5);
+    transition: all 0.2s;
+  }
+
+  .filter-checkbox input[type="checkbox"]:checked + .checkbox-box {
     background: #e31c2a;
     border-color: #e31c2a;
   }
 
-  .filter-option input[type="checkbox"]:checked + .checkbox-custom::after {
-    content: '✓';
+  .filter-checkbox input[type="checkbox"]:checked + .checkbox-box svg {
+    opacity: 1;
+    transform: scale(1);
     color: white;
-    font-size: 14px;
-    font-weight: bold;
   }
 
-  .filter-label {
+  .checkbox-label {
     font-size: 14px;
-    color: #555;
+    color: #333;
+    flex: 1;
     user-select: none;
+  }
+
+  .stars {
+    display: flex;
+    gap: 2px;
+  }
+
+  .star-filled {
+    color: #FDB813;
+  }
+
+  .star-empty {
+    color: #e0e0e0;
+  }
+
+  .item-count {
+    font-size: 13px;
+    color: #999;
+    font-weight: 500;
+  }
+
+  /* Location Search */
+  .location-search-wrapper {
+    margin-bottom: 12px;
+  }
+
+  .location-search {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 13px;
+    transition: all 0.2s;
+  }
+
+  .location-search:focus {
+    outline: none;
+    border-color: #e31c2a;
+    box-shadow: 0 0 0 3px rgba(227, 28, 42, 0.1);
+  }
+
+  .show-more-btn {
+    width: 100%;
+    margin-top: 12px;
+    padding: 10px;
+    background: none;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 8px;
+    color: #666;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    transition: all 0.2s;
+  }
+
+  .show-more-btn:hover {
+    border-color: #e31c2a;
+    color: #e31c2a;
+  }
+
+  .apply-filters-mobile {
+    display: none;
+  }
+
+  .filters-overlay {
+    display: none;
   }
 
   /* Mobile Responsive */
@@ -223,106 +597,72 @@ const { starRatings, types, locations } = Astro.props;
       top: 0;
       height: 100vh;
       max-height: 100vh;
-      width: 300px;
-      z-index: 1000;
-      transition: left 0.3s;
+      width: 90%;
+      max-width: 400px;
+      z-index: 1001;
+      transition: left 0.3s ease;
       border-radius: 0;
+      border-right: 1px solid #e8e8e8;
     }
 
     .filters-sidebar.open {
       left: 0;
     }
+
+    .close-filters-mobile {
+      display: flex;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 36px;
+      height: 36px;
+      background: #f5f5f5;
+      border: none;
+      border-radius: 50%;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 11;
+    }
+
+    .apply-filters-mobile {
+      display: block;
+      position: sticky;
+      bottom: 0;
+      width: 100%;
+      padding: 16px;
+      background: white;
+      border: none;
+      border-top: 1px solid #f0f0f0;
+      color: white;
+      background: #e31c2a;
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      z-index: 10;
+    }
+
+    .filters-overlay {
+      display: block;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 1000;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s;
+    }
+
+    .filters-overlay.active {
+      opacity: 1;
+      visibility: visible;
+    }
   }
 </style>
 
 <script>
-  // Filter functionality
-  document.addEventListener('DOMContentLoaded', () => {
-    const filterInputs = document.querySelectorAll('[data-filter]');
-    const clearButton = document.getElementById('clearFilters');
-    const cards = document.querySelectorAll('[data-accommodation]');
-
-    function applyFilters() {
-      const activeFilters: {
-        starRating: string[];
-        accommodationType: string[];
-        location: string[];
-        amenities: string[];
-      } = {
-        starRating: [],
-        accommodationType: [],
-        location: [],
-        amenities: []
-      };
-
-      // Collect active filters
-      filterInputs.forEach(input => {
-        const inputEl = input as HTMLInputElement;
-        if (inputEl.checked) {
-          const filterType = inputEl.dataset.filter as keyof typeof activeFilters;
-          if (filterType && filterType in activeFilters) {
-            activeFilters[filterType].push(inputEl.value);
-          }
-        }
-      });
-
-      // Apply filters to cards
-      cards.forEach(card => {
-        const cardEl = card as HTMLElement;
-        const data = JSON.parse(cardEl.dataset.accommodation || '{}');
-        let visible = true;
-
-        // Check star rating
-        if (activeFilters.starRating.length > 0) {
-          visible = visible && activeFilters.starRating.includes(String(data.starRating));
-        }
-
-        // Check accommodation type
-        if (activeFilters.accommodationType.length > 0) {
-          visible = visible && activeFilters.accommodationType.includes(String(data.accommodationType));
-        }
-
-        // Check location
-        if (activeFilters.location.length > 0) {
-          visible = visible && activeFilters.location.includes(String(data.location));
-        }
-
-        // Check amenities (show if ANY selected amenity is present)
-        if (activeFilters.amenities.length > 0) {
-          const hasAmenity = activeFilters.amenities.some(amenity =>
-            data.amenities && data.amenities.includes(amenity)
-          );
-          visible = visible && hasAmenity;
-        }
-
-        // Toggle visibility
-        if (visible) {
-          cardEl.style.display = 'block';
-          setTimeout(() => cardEl.style.opacity = '1', 10);
-        } else {
-          cardEl.style.opacity = '0';
-          setTimeout(() => cardEl.style.display = 'none', 300);
-        }
-      });
-
-      // Update results count
-      const visibleCount = Array.from(cards).filter(c => (c as HTMLElement).style.display !== 'none').length;
-      const resultsCount = document.getElementById('resultsCount');
-      if (resultsCount) {
-        resultsCount.textContent = `${visibleCount} properties found`;
-      }
-    }
-
-    // Attach listeners
-    filterInputs.forEach(input => {
-      input.addEventListener('change', applyFilters);
-    });
-
-    clearButton?.addEventListener('click', () => {
-      filterInputs.forEach(input => {
-        (input as HTMLInputElement).checked = false;
-      });
-      applyFilters();
-    });
-  });
+  // Filter functionality will be added in the index page
 </script>

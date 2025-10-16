@@ -3,7 +3,7 @@ title: UNESCO World Heritage
 description: Explore Albania's standout UNESCO sites spanning ancient ruins, Ottoman architecture, pristine lakes, and primeval forests.
 type: ""
 location: ""
-featuredImage: ""
+featuredImage: /images/attractions/Berat-Castle-Berat-Albania.jpeg
 images: []
 language: en
 slug: unesco-world-heritage-sites

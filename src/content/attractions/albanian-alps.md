@@ -3,7 +3,7 @@ title: The Albanian Alps
 description: Traversing the Accursed Mountains and Southern Pindus massifs rewards daring eco-tourists with extraordinary hiking, rock climbing, villages frozen in time and glimpses of Europe's past.
 type: ""
 location: ""
-featuredImage: ""
+featuredImage: /images/attractions/Albanian-Alps.jpeg
 images: []
 language: en
 slug: albanian-alps

@@ -3,7 +3,7 @@ title: Albania's Museums
 description: Albania's museums vividly chronicle the nation's journey through artifacts, art, and stories spanning ancient civilizations, communist rule, and beyond.
 type: Museums
 location: ""
-featuredImage: ""
+featuredImage: /images/attractions/Ethnographic-museum-in-Berat.jpeg
 images: []
 language: en
 slug: museums

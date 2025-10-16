@@ -109,6 +109,8 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
                 <select id="sortBy">
                   <option value="rating-desc">Highest Rated</option>
                   <option value="rating-asc">Lowest Rated</option>
+                  <option value="price-asc">Price (Low to High)</option>
+                  <option value="price-desc">Price (High to Low)</option>
                   <option value="name-asc">Name (A-Z)</option>
                   <option value="name-desc">Name (Z-A)</option>
                 </select>
@@ -129,6 +131,7 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
                   amenities={accommodation.data.amenities || []}
                   description={accommodation.data.description}
                   language={accommodation.data.language}
+                  priceFrom={accommodation.data.priceFrom}
                 />
               ))}
             </div>
@@ -418,15 +421,245 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
   </style>
 
   <script>
-    // Sorting functionality
     document.addEventListener('DOMContentLoaded', () => {
+      const grid = document.querySelector('.accommodations-grid') as HTMLElement;
       const sortSelect = document.getElementById('sortBy') as HTMLSelectElement;
-      const grid = document.querySelector('.accommodations-grid');
+      const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+      const priceRange = document.getElementById('priceRange') as HTMLInputElement;
+      const minPriceInput = document.getElementById('minPrice') as HTMLInputElement;
+      const maxPriceInput = document.getElementById('maxPrice') as HTMLInputElement;
+      const resultsCount = document.getElementById('resultsCount') as HTMLHeadingElement;
+      const emptyState = document.getElementById('emptyState') as HTMLElement;
+      const locationSearchInput = document.getElementById('locationSearch') as HTMLInputElement;
 
-      if (!sortSelect || !grid) return;
+      if (!grid) return;
 
-      sortSelect.addEventListener('change', () => {
-        const cards = Array.from(grid.children) as HTMLElement[];
+      // Get all cards
+      const getAllCards = () => Array.from(grid.children) as HTMLElement[];
+
+      // Update results count
+      const updateResultsCount = () => {
+        const visibleCards = getAllCards().filter(card => card.style.display !== 'none');
+        const count = visibleCards.length;
+        resultsCount.textContent = `${count} ${count === 1 ? 'property' : 'properties'} found`;
+
+        // Show/hide empty state
+        if (count === 0) {
+          emptyState.style.display = 'block';
+          grid.style.display = 'none';
+        } else {
+          emptyState.style.display = 'none';
+          grid.style.display = 'grid';
+        }
+      };
+
+      // Update item count badges
+      const updateItemCounts = () => {
+        const visibleCards = getAllCards().filter(card => card.style.display !== 'none');
+
+        // Count by filter type
+        const counts: Record<string, Record<string, number>> = {
+          starRating: {},
+          accommodationType: {},
+          location: {},
+        };
+
+        visibleCards.forEach(card => {
+          try {
+            const data = JSON.parse(card.dataset.accommodation || '{}');
+            const starRating = data.starRating || 3;
+            const type = data.accommodationType || 'hotel';
+            const location = data.location || '';
+
+            counts.starRating[starRating] = (counts.starRating[starRating] || 0) + 1;
+            counts.accommodationType[type] = (counts.accommodationType[type] || 0) + 1;
+            counts.location[location] = (counts.location[location] || 0) + 1;
+          } catch (e) {
+            console.error('Error parsing card data:', e);
+          }
+        });
+
+        // Update count badges
+        document.querySelectorAll('[data-count-filter]').forEach(badge => {
+          const filterType = badge.getAttribute('data-count-filter');
+          const filterValue = badge.getAttribute('data-count-value');
+
+          if (filterType && filterValue && counts[filterType]) {
+            const count = counts[filterType][filterValue] || 0;
+            badge.textContent = count.toString();
+          }
+        });
+      };
+
+      // Get active filters
+      const getActiveFilters = () => {
+        const filters = {
+          search: searchInput?.value.toLowerCase() || '',
+          minPrice: parseInt(minPriceInput?.value || '0') || 0,
+          maxPrice: parseInt(maxPriceInput?.value || '500') || 500,
+          starRatings: Array.from(document.querySelectorAll('input[name="starRating"]:checked'))
+            .map(cb => parseInt((cb as HTMLInputElement).value)),
+          types: Array.from(document.querySelectorAll('input[name="accommodationType"]:checked'))
+            .map(cb => (cb as HTMLInputElement).value),
+          locations: Array.from(document.querySelectorAll('input[name="location"]:checked'))
+            .map(cb => (cb as HTMLInputElement).value),
+          amenities: Array.from(document.querySelectorAll('input[name="amenity"]:checked'))
+            .map(cb => (cb as HTMLInputElement).value),
+        };
+        return filters;
+      };
+
+      // Apply all filters
+      const applyFilters = () => {
+        const filters = getActiveFilters();
+        const cards = getAllCards();
+
+        cards.forEach(card => {
+          try {
+            const data = JSON.parse(card.dataset.accommodation || '{}');
+            const title = card.querySelector('.card-title')?.textContent?.toLowerCase() || '';
+            const location = data.location?.toLowerCase() || '';
+            const starRating = data.starRating || 3;
+            const type = data.accommodationType || 'hotel';
+            const price = data.priceFrom || 0;
+            const amenities = data.amenities || [];
+
+            let visible = true;
+
+            // Search filter
+            if (filters.search && !title.includes(filters.search) && !location.includes(filters.search)) {
+              visible = false;
+            }
+
+            // Price filter
+            if (price < filters.minPrice || price > filters.maxPrice) {
+              visible = false;
+            }
+
+            // Star rating filter
+            if (filters.starRatings.length > 0 && !filters.starRatings.includes(starRating)) {
+              visible = false;
+            }
+
+            // Type filter
+            if (filters.types.length > 0 && !filters.types.includes(type)) {
+              visible = false;
+            }
+
+            // Location filter
+            if (filters.locations.length > 0 && !filters.locations.includes(data.location)) {
+              visible = false;
+            }
+
+            // Amenities filter
+            if (filters.amenities.length > 0) {
+              const hasAllAmenities = filters.amenities.every(amenity =>
+                amenities.some((a: string) => a.toLowerCase().includes(amenity.toLowerCase()))
+              );
+              if (!hasAllAmenities) {
+                visible = false;
+              }
+            }
+
+            card.style.display = visible ? '' : 'none';
+          } catch (e) {
+            console.error('Error filtering card:', e);
+          }
+        });
+
+        updateResultsCount();
+        updateItemCounts();
+      };
+
+      // Search functionality
+      searchInput?.addEventListener('input', () => {
+        applyFilters();
+      });
+
+      // Price range functionality
+      const updatePriceDisplay = () => {
+        const min = parseInt(minPriceInput?.value || '0');
+        const max = parseInt(maxPriceInput?.value || '500');
+
+        if (priceRange) {
+          priceRange.value = max.toString();
+        }
+      };
+
+      priceRange?.addEventListener('input', () => {
+        if (maxPriceInput) {
+          maxPriceInput.value = priceRange.value;
+        }
+        applyFilters();
+      });
+
+      minPriceInput?.addEventListener('input', () => {
+        updatePriceDisplay();
+        applyFilters();
+      });
+
+      maxPriceInput?.addEventListener('input', () => {
+        updatePriceDisplay();
+        applyFilters();
+      });
+
+      // Checkbox filters
+      document.querySelectorAll('input[type="checkbox"][data-filter]').forEach(checkbox => {
+        checkbox.addEventListener('change', applyFilters);
+      });
+
+      // Location search
+      locationSearchInput?.addEventListener('input', () => {
+        const searchTerm = locationSearchInput.value.toLowerCase();
+        const locationCheckboxes = document.querySelectorAll('input[name="location"]');
+
+        locationCheckboxes.forEach(cb => {
+          const label = cb.closest('.filter-checkbox');
+          const locationName = (cb as HTMLInputElement).value.toLowerCase();
+
+          if (label) {
+            if (locationName.includes(searchTerm)) {
+              (label as HTMLElement).style.display = '';
+            } else {
+              (label as HTMLElement).style.display = 'none';
+            }
+          }
+        });
+      });
+
+      // Clear all filters
+      document.getElementById('clearFilters')?.addEventListener('click', () => {
+        // Reset search
+        if (searchInput) searchInput.value = '';
+
+        // Reset price range
+        if (minPriceInput) minPriceInput.value = '0';
+        if (maxPriceInput) maxPriceInput.value = '500';
+        if (priceRange) priceRange.value = '500';
+
+        // Uncheck all checkboxes
+        document.querySelectorAll('input[type="checkbox"][data-filter]').forEach(cb => {
+          (cb as HTMLInputElement).checked = false;
+        });
+
+        // Reset location search
+        if (locationSearchInput) locationSearchInput.value = '';
+        document.querySelectorAll('input[name="location"]').forEach(cb => {
+          const label = cb.closest('.filter-checkbox');
+          if (label) (label as HTMLElement).style.display = '';
+        });
+
+        applyFilters();
+      });
+
+      // Clear all from empty state
+      document.getElementById('clearAllFilters')?.addEventListener('click', () => {
+        document.getElementById('clearFilters')?.click();
+      });
+
+      // Sorting functionality
+      sortSelect?.addEventListener('change', () => {
+        const cards = getAllCards();
         const sortValue = sortSelect.value;
 
         cards.sort((a, b) => {
@@ -440,6 +673,10 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
               return (bData.starRating || 3) - (aData.starRating || 3);
             case 'rating-asc':
               return (aData.starRating || 3) - (bData.starRating || 3);
+            case 'price-asc':
+              return (aData.priceFrom || 0) - (bData.priceFrom || 0);
+            case 'price-desc':
+              return (bData.priceFrom || 0) - (aData.priceFrom || 0);
             case 'name-asc':
               return aTitle.localeCompare(bTitle);
             case 'name-desc':
@@ -456,38 +693,39 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
       // Mobile filters toggle
       const mobileFiltersBtn = document.getElementById('mobileFiltersBtn');
       const filtersSidebar = document.querySelector('.filters-sidebar');
+      const filtersOverlay = document.querySelector('.filters-overlay');
+      const closeFiltersBtn = document.getElementById('closeFilters');
+      const applyFiltersBtn = document.getElementById('applyFilters');
 
-      mobileFiltersBtn?.addEventListener('click', () => {
-        filtersSidebar?.classList.toggle('open');
+      const openMobileFilters = () => {
+        filtersSidebar?.classList.add('open');
+        filtersOverlay?.classList.add('active');
+        document.body.style.overflow = 'hidden';
+      };
+
+      const closeMobileFilters = () => {
+        filtersSidebar?.classList.remove('open');
+        filtersOverlay?.classList.remove('active');
+        document.body.style.overflow = '';
+      };
+
+      mobileFiltersBtn?.addEventListener('click', openMobileFilters);
+      closeFiltersBtn?.addEventListener('click', closeMobileFilters);
+      filtersOverlay?.addEventListener('click', closeMobileFilters);
+      applyFiltersBtn?.addEventListener('click', closeMobileFilters);
+
+      // Show more locations
+      const showMoreBtn = document.getElementById('showMoreLocations');
+      showMoreBtn?.addEventListener('click', () => {
+        const locationList = document.querySelector('.location-list');
+        locationList?.classList.toggle('expanded');
+        showMoreBtn.textContent = locationList?.classList.contains('expanded')
+          ? 'Show Less'
+          : 'Show More Locations';
       });
 
-      // Clear all filters from empty state
-      document.getElementById('clearAllFilters')?.addEventListener('click', () => {
-        document.getElementById('clearFilters')?.click();
-      });
-
-      // Show/hide empty state based on visible cards
-      const observer = new MutationObserver(() => {
-        const gridEl = grid as HTMLElement;
-        const visibleCards = Array.from(gridEl.children).filter(
-          (card: Element) => (card as HTMLElement).style.display !== 'none'
-        );
-        const emptyState = document.getElementById('emptyState');
-
-        if (visibleCards.length === 0) {
-          emptyState!.style.display = 'block';
-          gridEl.style.display = 'none';
-        } else {
-          emptyState!.style.display = 'none';
-          gridEl.style.display = 'grid';
-        }
-      });
-
-      observer.observe(grid, {
-        attributes: true,
-        subtree: true,
-        attributeFilter: ['style']
-      });
+      // Initial update
+      updateItemCounts();
     });
   </script>
 

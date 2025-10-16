@@ -3,7 +3,7 @@ title: Skanderbeg Museum
 description: Explore the life and legacy of Albania's national hero, Skanderbeg, at this must-visit museum in Krujë, complete with engaging exhibits and enriching programs.
 type: Museums
 location: ""
-featuredImage: ""
+featuredImage: /images/attractions/Monument-of-Skanderbeg.jpeg
 images: []
 language: en
 slug: skanderbeg-museum

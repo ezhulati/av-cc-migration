@@ -3,7 +3,7 @@ title: Vjosa River
 description: Discover the Vjosa Wild River National Park, Europe's last wild, free flowing river.
 type: National Parks &amp; Reserves
 location: ""
-featuredImage: ""
+featuredImage: /images/attractions/Vjosa_National_Park_Fly_Fishing_Albania.jpeg
 images: []
 language: en
 slug: vjosa-river
