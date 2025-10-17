@@ -1,6 +1,6 @@
 ---
-title: "Discover Krujë - Albania"
-description: "Explore Kruje, Albania's hidden gem, where stunning landscapes, medieval history, and vibrant culture come together for an unforgettable Balkan experience."
+title: "Krujë - The Fortress Where Albania's National Hero Defied an Empire for 25 Years"
+description: "Discover Krujë, the mountain fortress where Gjergj Kastrioti Skanderbeg led Albanian resistance against the Ottoman Empire (1443-1468), creating the national identity that survives today through castle ruins, museums, and the 17th-century Old Bazaar."
 region: Northern Albania
 featuredImage: "/images/destinations/kruje.jpeg"
 images:
@@ -28,12 +28,14 @@ budgetRange: "€15-45"
 timeNeeded: "1-2 days"
 bestSeason: "Apr-Oct"
 highlights:
-  - Skanderbeg Museum and Castle fortress
-  - 17th-century Old Bazaar with handicrafts
-  - Ethnographic Museum in Ottoman house
-  - National Park hiking and waterfalls
+  - Skanderbeg's fortress where 25 years of Ottoman resistance (1443-1468) created Albanian national identity
+  - National Skanderbeg Museum chronicling the life of Gjergj Kastrioti (1405-1468)
+  - 17th-century Old Bazaar maintaining traditional handicrafts in Ottoman-era stone buildings
+  - Ethnographic Museum in 18th-century Ottoman house showing pre-communist Albanian life
+  - View from castle across Adriatic plain toward Tirana and Durrës coast
 seo:
-  metaDescription: "Explore Kruje, Albania's hidden gem, where stunning landscapes, medieval history, and vibrant culture come together for an unforgettable Balkan experience."
+  metaTitle: "Krujë Albania - Skanderbeg Fortress, Castle Museum & Old Bazaar Guide"
+  metaDescription: "Explore Krujë, where Skanderbeg led 25 years of resistance (1443-1468) against Ottoman Empire. Complete guide to the castle, museum, 17th-century bazaar, and Albania's most important historical site."
 ---
 
 ## Why Visit Kruje
