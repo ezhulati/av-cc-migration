@@ -3,7 +3,7 @@ title: Medaur Winery
 description: Experience the essence of Albania's wine culture at Medaur Winery in Tirana. Enjoy guided tastings, vineyard tours, and local cuisine in a welcoming atmosphere. A must-visit for every wine enthusiast.
 type: Agrotourism
 location: ""
-featuredImage: /images/attractions/medaur-winery.jpg
+featuredImage: /images/attractions/Medaur_Winery_Nature_Kuqe.jpeg
 images: []
 language: en
 slug: medaur-winery
