@@ -324,6 +324,55 @@ try {
       height: 90vh;
       min-height: 600px;
       overflow: hidden;
+      cursor: pointer;
+    }
+
+    /* Pause indicator - shown when user pauses the slider */
+    .hero-slider.paused-by-user::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 15;
+      width: 80px;
+      height: 80px;
+      background: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(10px);
+      border-radius: 50%;
+      border: 3px solid rgba(255, 255, 255, 0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none;
+      animation: pause-indicator-fade-in 0.3s ease-out;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    }
+
+    /* Pause icon using CSS */
+    .hero-slider.paused-by-user::before {
+      content: '❚❚';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 16;
+      font-size: 32px;
+      color: white;
+      pointer-events: none;
+      letter-spacing: 4px;
+      animation: pause-indicator-fade-in 0.3s ease-out;
+    }
+
+    @keyframes pause-indicator-fade-in {
+      from {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.8);
+      }
+      to {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+      }
     }
 
     .slider-container {
