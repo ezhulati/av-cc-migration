@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property stands out for its thoughtful amenities, including a garden that offers a serene city view, elevating the urban living experience. The commitment to guest comfort is evident in the provision of full-day security and complimentary WiFi access throughout the premises, ensuring both safety and connectivity.

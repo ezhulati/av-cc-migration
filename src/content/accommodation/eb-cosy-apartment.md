@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment boasts a well-appointed living space, complete with a flat-screen TV and air conditioning, ensuring a stay that is both relaxing and entertaining. The availability of a 24-hour front desk and an on-site minimarket adds layers of convenience, catering to guests' needs around the clock.

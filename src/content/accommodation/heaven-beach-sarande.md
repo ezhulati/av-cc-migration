@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Bar"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Accommodations at Heaven Beach Sarandë are thoughtfully equipped with essential amenities to ensure a comfortable experience. Each room features a private bathroom, a refrigerator for convenience, air conditioning for those warm Mediterranean nights, and either a balcony or terrace, offering guests their own slice of paradise.

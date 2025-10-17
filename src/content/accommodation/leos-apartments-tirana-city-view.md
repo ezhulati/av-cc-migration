@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests can enjoy the luxury of connectivity with complimentary WiFi, and for those arriving by car, private parking is available for a nominal fee. The accommodation itself boasts an air-conditioned environment featuring two separate bedrooms, a cozy living room, a fully equipped kitchen for those who prefer to cook their meals, and a bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable stay. An added benefit is the apartment's private entrance, offering an extra layer of privacy.

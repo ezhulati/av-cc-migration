@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This generously sized apartment features a bedroom equipped with a flat-screen TV, ensuring entertainment and relaxation are never far away. The inclusion of a fully equipped kitchen, complete with an oven and fridge, alongside a washing machine, adds a layer of convenience for guests preferring home-cooked meals or those on longer stays. The luxury of a hot tub in the bathroom elevates the experience, offering a perfect retreat after a day of exploration. Complimentary towels and bed linen underscore the apartment's commitment to comfort and ease.

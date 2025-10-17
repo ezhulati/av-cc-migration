@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just promise space; it delivers it, along with modern amenities such as air conditioning, a balcony for those tranquil morning coffees, and complimentary WiFi to keep guests connected. For those interested in exploring the cultural side of Tirana, Noa's Happy Place is conveniently positioned just 1.7 km from the intriguing Bunk'Art 1 Museum and a short distance from the Bektashi World Centre, making it an ideal base for cultural enthusiasts.

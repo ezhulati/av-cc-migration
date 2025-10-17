@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation boasts a thoughtfully designed two-bedroom apartment, complete with a modern bathroom, a flat-screen TV equipped with cable channels for entertainment, and a dining area perfect for enjoying home-cooked meals. The kitchen is fully equipped, catering to all culinary needs, whether for a quick breakfast or a full dinner. Perhaps the most captivating feature is the terrace, offering panoramic views of the sea, where guests can dine al fresco in the dedicated outdoor dining area, surrounded by the tranquil beauty of the garden.

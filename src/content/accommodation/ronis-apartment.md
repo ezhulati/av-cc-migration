@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The layout of Roni's Apartment is thoughtfully designed, featuring a spacious bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to prepare their meals, and a well-maintained bathroom. Emphasizing a smoke-free environment, the accommodation caters to health-conscious guests, providing a clean and fresh atmosphere.

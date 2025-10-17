@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Each apartment within this complex is a testament to thoughtful design, featuring air conditioning for those warm summer days, private bathrooms for uninterrupted privacy, and a fully equipped kitchen. The inclusion of a dishwasher, microwave, toaster, and fridge in the kitchen allows guests the freedom to prepare their meals just the way they like. Moreover, the provision of bed linen and towels adds an extra layer of convenience.

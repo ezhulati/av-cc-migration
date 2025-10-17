@@ -14,6 +14,7 @@ amenities:
   - "Parking"
   - "Bar"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests at Irini's Olive Garden are treated to breathtaking views of both the sea and the mountains, providing a picturesque backdrop for a memorable stay. The property prides itself on offering ample amenities, including complimentary private parking for those arriving by car, ensuring a hassle-free experience from start to finish.

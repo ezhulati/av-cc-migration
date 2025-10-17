@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Helen's House is designed to cater to the needs of families and groups, featuring spacious family rooms that open up to terraces with stunning mountain vistas. The living areas are thoughtfully furnished with comfortable seating and equipped with flat-screen TVs, allowing guests to unwind in style. The convenience of a fully equipped kitchen, including a toaster and fridge, adds a touch of home, while the private bathrooms come with showers and hair dryers, ensuring a comfortable and hassle-free stay.

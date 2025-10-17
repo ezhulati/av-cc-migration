@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a well-appointed balcony that offers breathtaking sea views, creating a perfect backdrop for any vacation. Inside, guests will find a cozy bedroom, a welcoming living room equipped with a TV, and a fully equipped kitchen that includes a dishwasher and an oven, ensuring all the comforts of home are at hand. The inclusion of a bathroom with a shower adds to the convenience, while the outdoor dining area invites guests to savor their meals against the backdrop of stunning mountain scenery. Additionally, a dedicated dressing room provides added privacy for guests.

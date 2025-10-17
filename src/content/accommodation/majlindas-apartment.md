@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort and style, boasting soundproof rooms that promise a peaceful retreat from the outside world. It features two elegantly appointed bedrooms, a living room designed for relaxation, and a dining area perfect for intimate meals. The fully equipped kitchen, complete with a fridge, invites guests to prepare their own culinary delights, while the inclusion of a satellite flat-screen TV ensures entertainment is always at hand. For added convenience, towels and bed linen are readily available, and the entire apartment is designated as allergy-free and non-smoking, catering to the well-being of all guests.

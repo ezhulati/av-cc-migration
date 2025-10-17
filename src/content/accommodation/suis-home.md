@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The highlight of Sui's Home is undoubtedly its well-appointed apartments. Each unit features a balcony that presents sweeping views of the cityscape, alongside a cozy bedroom, a spacious living area with a flat-screen TV, and a fully equipped kitchen complete with a dishwasher and an oven. The luxury of a walk-in shower in the bathroom, coupled with the thoughtful addition of wine or champagne and fruits upon arrival, sets the tone for a memorable stay. For added convenience, guests have access to essential amenities such as bed linen, towels, and laundry services.

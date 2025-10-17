@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Tonea's Houses are thoughtfully designed with guest comfort in mind. Each unit is equipped with essential modern conveniences including air conditioning, a flat-screen TV, and a private bathroom featuring a shower and hairdryer. For added comfort, select rooms also offer a cozy seating area, perfect for unwinding after a day under the sun. The attention to detail extends to the provision of crisp bed linen and plush towels, ensuring a restful night's sleep.

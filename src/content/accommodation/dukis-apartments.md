@@ -16,6 +16,7 @@ amenities:
   - "Bar"
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The accommodations at Duki's Apartments are thoughtfully designed to cater to the needs of modern travelers. Each unit boasts a cozy seating area with a sofa bed, a dining space, and a kitchen that leaves no culinary desire unmet, featuring an oven, fridge, stovetop, and an array of kitchenware. The highlight, however, is the private pool available in each unit, offering serene garden views, ensuring privacy and relaxation. To further enhance the comfort of guests, each apartment is furnished with quality bed linen and towels.

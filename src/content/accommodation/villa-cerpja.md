@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and fresh stay for all guests. The inclusion of free private parking adds an extra layer of convenience, catering to those who arrive by car.

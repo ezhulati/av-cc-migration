@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Familiar Apartments are designed with guest comfort in mind, featuring air-conditioned spaces that open up to a balcony or patio, where visitors can bask in the tranquil views of the lush garden. Each apartment is thoughtfully equipped with a terrace that boasts sea views, ensuring a picturesque start and end to every day. The interiors are modern and inviting, with a flat-screen TV, dining area, and a kitchen that comes complete with an oven, fridge, stovetop, and kettle, catering to all culinary needs. The attention to detail extends to the private bathrooms, which are outfitted with a bidet, bathrobes, and a hairdryer, adding a touch of luxury to the experience. For added convenience, bed linen and towels are provided in all units.

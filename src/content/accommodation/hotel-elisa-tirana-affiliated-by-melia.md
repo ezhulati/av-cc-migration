@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Hotel Elisa Tirana are designed with the discerning traveler in mind, featuring city views that capture the essence of Tirana's vibrant atmosphere. Each room is equipped with modern amenities including air conditioning, a flat-screen TV with satellite channels, a minibar, and a coffee machine, complemented by a sleek ensuite bathroom with complimentary toiletries, ensuring a blend of luxury and comfort.

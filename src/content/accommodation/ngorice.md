@@ -14,6 +14,7 @@ amenities:
   - "Bar"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The attention to detail in the guest rooms at N'Gorice is evident. From the ample wardrobe space to the modern amenities like flat-screen TVs and complimentary toiletries, every aspect has been thoughtfully curated to meet the needs of the modern traveler.

@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This non-smoking apartment boasts two well-appointed bedrooms, ensuring ample space and privacy for guests. The heart of the home, a fully equipped kitchen, invites guests to prepare their meals with ease, adding a touch of homeliness to the travel experience. For entertainment and relaxation, a flat-screen TV stands ready in the living area, perfect for unwinding after a day of exploration.

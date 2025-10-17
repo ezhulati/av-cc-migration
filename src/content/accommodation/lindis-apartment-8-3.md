@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This one-bedroom haven is equipped with complimentary WiFi, ensuring guests stay connected during their visit. Entertainment is readily available through a flat-screen TV, perfect for unwinding after a day of exploration. The kitchen, complete with an oven and microwave, invites guests to prepare their meals, offering a taste of home away from home. Essential comforts such as towels and bed linen are thoughtfully provided, enhancing the overall stay experience.

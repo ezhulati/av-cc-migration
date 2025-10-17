@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Eni's Apartments are treated to air-conditioned units that boast not only a patio for those gentle morning breezes but also come equipped with all the essentials for a self-sufficient stay. From a fully equipped kitchen, complete with an oven, toaster, fridge, and kettle, to the convenience of a washing machine, every detail is thoughtfully provided. The living spaces are designed to be a home away from home, featuring comfortable seating areas, flat-screen TVs for entertainment, and private bathrooms with walk-in showers and hairdryers. The addition of bed linen and towels in every unit adds a touch of hotel-like luxury to the experience.

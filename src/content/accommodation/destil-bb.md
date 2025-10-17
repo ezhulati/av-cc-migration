@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Destil B&B are designed with the modern traveler in mind, featuring air conditioning, satellite flat-screen TVs, and complimentary WiFi. The attention to detail is evident in the private bathrooms equipped with walk-in showers and slippers, ensuring a comfortable stay. For those desiring a breath of fresh air, select rooms boast balconies that offer a glimpse of the garden or city's skyline. Comfort is further enhanced by the provision of quality bed linen and towels in every unit.

@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment distinguishes itself by being in close proximity to some of Tirana's most notable attractions, including the intriguing Reja - The Cloud, the National Museum of History Albania, and the evocative House of Leaves. Moreover, it's just a short stroll from the historical Former Residence of Enver Hoxha, adding a layer of historical intrigue to your stay.

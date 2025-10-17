@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Olive B&B is thoughtfully equipped with a desk, a flat-screen TV, and a private bathroom, ensuring a stay that blends convenience with the coziness of home. Guests can also expect the added comfort of bed linen and towels, along with heating facilities to keep the chill at bay.

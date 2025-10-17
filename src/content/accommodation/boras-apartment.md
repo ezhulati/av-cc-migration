@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Albanian afternoons, a flat-screen TV for evening entertainment, and a dining area perfect for a cozy meal in. The kitchen is fully equipped, boasting an oven among other essentials, allowing guests the freedom to prepare their meals as they wish. The inclusion of a private entrance enhances the sense of privacy and exclusivity.

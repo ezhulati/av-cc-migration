@@ -13,6 +13,7 @@ location: "Himare"
 amenities:
   - "Air Conditioning"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Each apartment at Sofia's Rooms is a testament to thoughtful design, boasting a private entrance that leads into a sanctuary of peace. The rooms are equipped with air conditioning and soundproofing, guaranteeing a restful night's sleep. The presence of a wardrobe and a private bathroom with a shower adds to the convenience, making it feel like a home away from home. For those seeking a touch of luxury, select units offer a terrace or balcony, presenting stunning views of the surrounding mountains or lush gardens, perfect for a morning coffee or an evening of relaxation.

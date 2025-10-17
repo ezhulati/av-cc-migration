@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Tirana"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Çuçi B&B is thoughtfully equipped with essential amenities to enhance the comfort of your stay. Guests can expect to find a wardrobe, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels. Additionally, the convenience of having a fridge in the room adds a touch of home, making it easier to store snacks and beverages.

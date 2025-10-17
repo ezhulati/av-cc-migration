@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in spaciousness and comfort, offering a balcony that presents serene mountain views. It is well-appointed with a bedroom, a living room that invites relaxation, a flat-screen TV for entertainment, and a kitchen equipped with modern appliances including an oven and a microwave. The convenience of a walk-in shower in the bathroom, along with the provision of towels and bed linen, underscores the thoughtful amenities provided. Notably, the apartment is designed to be allergy-free and maintains a strict non-smoking policy, ensuring a comfortable stay for all guests.

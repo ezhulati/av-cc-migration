@@ -13,6 +13,7 @@ location: "Korçë"
 amenities:
   - "WiFi"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment itself is well-appointed, featuring two bedrooms that promise a restful night's sleep, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom that caters to all essential needs.

@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home. With air conditioning, a spacious bedroom, a cozy living room, and a fully equipped kitchen that includes an oven and a coffee machine, guests have everything they need at their fingertips. The inclusion of a private bathroom equipped with a bidet and complimentary slippers adds a touch of luxury to the stay. Moreover, the provision of towels and bed linen ensures a comfortable and hassle-free experience.

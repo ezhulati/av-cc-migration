@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring air conditioning for those warm Tirana days. Guests will find a cozy bedroom waiting for them, alongside a fully equipped kitchen for all culinary needs, and a bathroom. Entertainment is readily available with a flat-screen TV, ensuring a relaxing stay. It's important to note that this accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.

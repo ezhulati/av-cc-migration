@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This generously sized apartment boasts a modern living space complete with a bedroom, a flat-screen TV featuring a wide array of cable channels, and a kitchen outfitted with all the essentials, including a dishwasher, fridge, and washing machine. The provision of towels and bed linen adds a touch of home comfort to the stay.

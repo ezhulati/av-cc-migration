@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Bar"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a world of comfort and elegance, with each air-conditioned room equipped with modern conveniences such as a desk, kettle, minibar, safety deposit box, flat-screen TV, and a private bathroom complete with a shower. Attention to detail is evident, with high-quality bed linen and towels provided to enhance the stay.

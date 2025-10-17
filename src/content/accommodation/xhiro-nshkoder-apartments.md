@@ -17,6 +17,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Connectivity is a breeze at Xhiro n'Shkoder Apartments, with complimentary WiFi enveloping the property, ensuring that guests remain connected with the world or plan their next adventure in Shkodër. For those looking to explore the local area at their own pace, the availability of a bicycle rental service and a car rental service provides the perfect opportunity to discover the hidden gems of Shkoder County.

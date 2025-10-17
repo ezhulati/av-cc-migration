@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on offering top-notch services, including a 24-hour front desk, round-the-clock security, and a convenient currency exchange for international guests. Each air-conditioned unit at Villa B&E 2 is designed with guest comfort in mind, featuring private bathrooms, flat-screen TVs, fully equipped kitchens, and terraces. The addition of balconies with outdoor dining areas in every unit enhances the living experience, allowing guests to savor meals amidst the backdrop of Vlorë's stunning landscape. Select units also boast dressing rooms, providing an extra layer of privacy and convenience.

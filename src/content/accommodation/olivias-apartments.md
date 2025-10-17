@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This spacious apartment is thoughtfully appointed with modern amenities to ensure a comfortable stay. It features one bedroom, a bathroom, and a living area that includes a flat-screen TV and a dining space. The fully equipped kitchen allows for home-cooked meals, which can be enjoyed on the balcony that offers breathtaking mountain views. Designed with a non-smoking policy, the apartment ensures a clean and healthy environment for all guests.

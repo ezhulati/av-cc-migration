@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 The studio is thoughtfully designed with modern travelers in mind, featuring air conditioning for those warm Mediterranean days, a fully equipped kitchenette for intimate meals, and a sleek bathroom. The commitment to a non-smoking environment ensures a fresh and inviting atmosphere throughout the stay.

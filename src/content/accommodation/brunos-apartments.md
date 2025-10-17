@@ -14,6 +14,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment boasts a layout of two bedrooms, a bathroom, and a kitchen that comes fully equipped to cater to guests' culinary needs. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring a cozy night in is always an option.

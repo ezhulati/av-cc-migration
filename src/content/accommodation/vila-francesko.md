@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Ksamil"
 amenities:
   - "WiFi"
+ratingWords: "Fair"
 ---
 
 Perfectly positioned, Vila Françesko is a mere 500 meters from the vibrant Ksamil Beach 9, closely followed by the tranquil Bora Bora Beach at 600 meters, and a short drive of 2.7 km brings guests to the historic Butrint National Park.

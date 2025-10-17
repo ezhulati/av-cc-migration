@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment within this complex is a testament to thoughtful design and guest comfort. Air conditioning ensures a respite from the Mediterranean heat, while the inclusion of a seating area and a flat-screen TV with satellite channels allows for relaxing evenings in. The convenience of a fully equipped kitchen and dining area enables guests to prepare and enjoy meals at their leisure. Privacy and comfort are paramount, with each unit boasting a private bathroom complete with a hair dryer, bidet, and complimentary toiletries. For those with sensitivities, the assurance of allergy-free and soundproof accommodations adds an extra layer of comfort to the stay.

@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, complete with a balcony that offers breathtaking mountain views. It features a well-appointed bedroom, a cozy living room with a flat-screen TV for entertainment, and a fully equipped kitchen with a fridge. The convenience of a bathroom equipped with a bidet, along with the provision of towels and bed linen, adds to the comfort of the stay. Notably, the property is soundproof, promising guests a peaceful and undisturbed experience.

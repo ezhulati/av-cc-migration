@@ -13,5 +13,6 @@ category: "Reviews"
 starRating: 3
 rating: 3
 accommodationType: "hotel"
+ratingWords: "Fair"
 ---
 

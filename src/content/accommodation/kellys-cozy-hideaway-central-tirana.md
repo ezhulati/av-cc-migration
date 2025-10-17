@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Following a recent renovation, the apartment boasts a modern and inviting atmosphere. Guests will find themselves enveloped in comfort with two well-appointed bedrooms, a bathroom equipped with a bidet and dressing room, and the added convenience of allergy-free and non-smoking premises. The inclusion of bed linen, towels, and a flat-screen TV with streaming services ensures a stay that combines the comforts of home with the luxuries of a hotel.

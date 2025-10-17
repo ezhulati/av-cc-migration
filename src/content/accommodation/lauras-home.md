@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property distinguishes itself with its spacious apartment, designed to cater to the modern traveler's needs. The apartment is well-appointed with a bedroom, a bathroom, and includes amenities such as bed linen, towels, a flat-screen TV with satellite channels, a dining area, and a fully equipped kitchen. Perhaps the most captivating feature is the balcony, offering unobstructed sea views, perfect for enjoying the serene environment. Additionally, the apartment is non-smoking and soundproof, ensuring a peaceful stay.

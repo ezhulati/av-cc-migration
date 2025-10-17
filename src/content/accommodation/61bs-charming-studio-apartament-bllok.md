@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This inviting studio apartment is not only close to the heart of the city, with Skanderbeg Square just 1.7 km away, but it also offers easy access to the serene Rock of Kavaje, located 45 km away. For those interested in modern art and architecture, Reja - The Cloud and the Pyramid of Tirana are nearby, along with Rinia Park, providing a perfect blend of cultural and natural exploration opportunities.

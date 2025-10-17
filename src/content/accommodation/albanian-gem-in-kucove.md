@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is thoughtfully designed with two bedrooms, offering a cozy retreat after a day of exploration. The presence of a fully equipped kitchen adds a touch of home, allowing guests the freedom to prepare their meals as they please. Entertainment is readily available with a flat-screen TV, ensuring relaxation is on the agenda. Importantly, the accommodation maintains a non-smoking policy, catering to the comfort and well-being of all guests.

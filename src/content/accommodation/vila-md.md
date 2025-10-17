@@ -12,6 +12,7 @@ accommodationType: "villa"
 location: "Tirana"
 amenities:
   - "Spa"
+ratingWords: "Fair"
 ---
 
 The charm of Vila M&D is further enhanced by balconies that open up to serene inner courtyard views, available in every unit. The accommodations are thoughtfully designed, featuring ample wardrobe space and private bathrooms, catering to the needs of modern travelers.

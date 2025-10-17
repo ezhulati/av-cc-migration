@@ -12,6 +12,7 @@ accommodationType: "hotel"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at As e vogël, As e madhe are thoughtfully designed with guest comfort in mind. Each room is furnished with a wardrobe for personal belongings and features a private bathroom stocked with complimentary toiletries and a shower. For those seeking a touch of home, select rooms boast a fully equipped kitchen, including a fridge, perfect for longer stays or those who prefer to prepare their own meals. Additionally, all rooms are furnished with a desk and a flat-screen TV, catering to both leisure and business travelers.

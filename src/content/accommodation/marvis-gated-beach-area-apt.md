@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This meticulously designed one-bedroom apartment is a haven of comfort, offering guests a seamless blend of modern amenities and homely warmth. With complimentary WiFi, guests can stay connected while enjoying the comforts of a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a toaster and fridge. The air-conditioned space is thoughtfully appointed with a bidet and a dressing room, ensuring a stay that is as comfortable as it is convenient. The added benefit of a private entrance underscores the apartment's commitment to privacy and exclusivity.

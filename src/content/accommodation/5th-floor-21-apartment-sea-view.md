@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment boasts a thoughtful layout, featuring two cozy bedrooms, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom. Entertainment is readily available with a flat-screen TV, complemented by free WiFi to keep guests connected and entertained throughout their stay.

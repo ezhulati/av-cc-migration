@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "WiFi"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The property stands out for its thoughtfully designed studios, each boasting free WiFi and a cozy seating area, perfect for unwinding after a day of adventure. A notable feature is the shared kitchen, allowing guests the flexibility to prepare meals as they please, a boon for those preferring a taste of home while on the road.

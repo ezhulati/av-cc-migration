@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Accommodations at Bujtina Ziçi are thoughtfully designed to cater to families and groups, with select units boasting unique features such as private entrances, dining areas, fireplaces, and even dishwashers for that home-away-from-home feeling. The attention to detail extends to the private bathrooms equipped with plush bathrobes, and for those seeking a touch more luxury, some rooms offer terraces with mesmerizing mountain views, alongside a dressing room for added convenience.

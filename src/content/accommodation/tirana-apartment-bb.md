@@ -17,6 +17,7 @@ amenities:
   - "Mountain View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in comfort and efficiency, featuring a well-equipped kitchenette with a dishwasher and an oven, a cozy seating area, and a bathroom with a bidet. The inclusion of a flat-screen TV ensures entertainment needs are met, while the balcony, adorned with outdoor furniture, offers stunning mountain views. Practical amenities such as bed linen, towels, and laundry service are thoughtfully provided, enhancing the stay.

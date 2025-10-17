@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a generously sized apartment that boasts a well-appointed bedroom, a cozy living room for relaxation, a kitchen equipped with everything needed for a home-cooked meal, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring that evenings can be spent enjoying favorite shows or movies.

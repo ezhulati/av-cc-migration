@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to an expansive apartment that boasts a balcony offering captivating city views. The accommodation is thoughtfully designed with a separate bedroom, a cozy living room, a flat-screen TV for entertainment, and a fully equipped kitchen for those who enjoy preparing their own meals. The inclusion of two bathrooms, one featuring a luxurious hot tub and both equipped with a bidet, adds a touch of sophistication to the stay.

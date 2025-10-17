@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Strategically positioned, the apartment is a mere 7.7 km from the intriguing Rock of Kavaje, while the buzz of Skanderbeg Square lies 37 km away, offering a perfect blend of tranquility and city exploration. For those intrigued by the marvels of nature, the Dajti Ekspres Cable Car awaits at a distance of 41 km, promising an adventure not to be missed.

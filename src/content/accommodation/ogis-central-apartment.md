@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment distinguishes itself with its generous offering of amenities, including complimentary WiFi and on-site parking, ensuring a hassle-free stay for every guest. For those venturing a bit further, the Rock of Kavaje stands 44 km away, while the National Theatre of Opera and Ballet of Albania is an easy 500-meter stroll, adding a cultural touch to the visit.

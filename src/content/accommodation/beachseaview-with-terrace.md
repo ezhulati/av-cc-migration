@@ -19,6 +19,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 The property prides itself on modern conveniences, including complimentary WiFi accessible throughout the premises and the convenience of private parking. An elevator and a minimarket on-site ensure that guests' needs are met with ease, adding to the comfort of their stay.

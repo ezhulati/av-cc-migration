@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Sarandë"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation, featuring a cozy bedroom and a well-appointed bathroom complete with a bath, is designed for relaxation and convenience, boasting a satellite flat-screen TV for entertainment needs. Beyond the confines of this inviting apartment, guests are welcomed to unwind in the lush garden, offering a tranquil escape from the bustling city life.

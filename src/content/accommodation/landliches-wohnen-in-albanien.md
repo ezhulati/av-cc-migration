@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property boasts a cozy apartment setup, complete with a bedroom, a bathroom, and a flat-screen TV for entertainment. It's a strictly non-smoking environment, catering to those who prioritize a clean and fresh living space.

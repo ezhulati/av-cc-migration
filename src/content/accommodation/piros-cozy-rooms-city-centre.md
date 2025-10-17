@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Parking"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Piro's Cozy Rooms are treated to a seamless experience, with complimentary WiFi and parking adding to the ease of their stay. The tranquility of quiet street views serves as a backdrop to this urban retreat, ensuring a peaceful respite from the day's adventures.

@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a generously sized apartment, boasting a separate bedroom, a bathroom equipped with essentials, and a living room adorned with a flat-screen TV for entertainment. The heart of the home lies in its fully equipped kitchen, complete with a dining area and oven, inviting guests to prepare meals as if they were in their own home. Complimentary towels and bed linen further enhance the comfort of the stay.

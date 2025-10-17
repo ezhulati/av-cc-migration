@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Vila B&E are thoughtfully designed with guest comfort in mind. Each apartment boasts a private balcony that opens up to tranquil garden views, creating a perfect backdrop for relaxation. The interiors are equipped with modern amenities including air conditioning, a cable flat-screen TV, and complimentary WiFi, ensuring a stay that combines relaxation with connectivity. The inclusion of a well-fitted kitchen and a private bathroom, complete with a hair dryer, adds a touch of home-away-from-home convenience.

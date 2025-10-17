@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is generously sized, featuring two well-appointed bedrooms, a cozy living room, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, ensuring guests have a relaxing stay.

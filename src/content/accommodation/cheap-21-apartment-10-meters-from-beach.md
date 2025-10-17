@@ -18,6 +18,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Offering the comforts of home with the luxury of beachside living, this apartment comes fully equipped with air conditioning, ensuring a comfortable stay regardless of the weather. Guests will appreciate the complimentary amenities such as high-speed WiFi and on-site parking, making their stay both connected and convenient.

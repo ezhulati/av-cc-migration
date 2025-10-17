@@ -12,6 +12,7 @@ accommodationType: "villa"
 amenities:
   - "WiFi"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Accommodations at Erika's House are designed with guest comfort in mind, boasting private bathrooms and complimentary WiFi access across the board. For those desiring a bit more, select rooms elevate the experience with the addition of a terrace, offering a serene spot to unwind.

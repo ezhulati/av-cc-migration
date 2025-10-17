@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 This studio apartment is thoughtfully designed to cater to the needs of modern travelers, featuring air conditioning for those warm Tirana days. The space is efficiently laid out with a bedroom, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom, ensuring a comfortable stay. It's important to note that the accommodation maintains a non-smoking policy, promoting a clean and healthy environment.

@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious retreat, offering guests a balcony from which they can savor mountain views, a cozy bedroom for restful nights, and a living room for relaxation. The kitchen comes well-equipped, featuring both a fridge and a minibar, catering to guests' culinary needs. Entertainment is readily available with a flat-screen TV, ensuring that guests have all the comforts of home at their fingertips.

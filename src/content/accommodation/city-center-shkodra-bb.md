@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each unit within the complex is thoughtfully equipped with essential furnishings, including a wardrobe and a flat-screen TV, ensuring a stay that combines relaxation with the comforts of home. Select apartments elevate the experience further with private bathrooms featuring a bidet, slippers, a hairdryer, and complimentary toiletries, alongside the provision of bed linen and towels for added convenience.

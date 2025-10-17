@@ -13,6 +13,7 @@ location: "Gjirokastër"
 amenities:
   - "Bar"
   - "TV"
+ratingWords: "Fair"
 ---
 
 For those seeking convenience, GUEST HOUSE ÇANI does not disappoint. The establishment is equipped with a satellite flat-screen TV in its well-appointed rooms, alongside essential comforts such as towels and bed linen. It prides itself on being an allergy-free and non-smoking environment, catering to the well-being of all guests.

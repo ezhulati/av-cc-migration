@@ -20,6 +20,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are greeted with the luxury of a private entrance, ensuring a seamless arrival experience. Inside, each apartment is a haven of comfort, equipped with air conditioning to beat the summer heat, alongside complimentary private parking and WiFi, catering to the needs of the modern traveler.

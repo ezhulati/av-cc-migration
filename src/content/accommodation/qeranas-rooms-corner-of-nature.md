@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Air Conditioning"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Each room at Qerana's Rooms is a testament to comfort and convenience, boasting a private balcony that offers guests a slice of nature's tranquility. The attention to detail is evident in the private bathrooms equipped with a bidet and hairdryer, ensuring a comfortable stay. The provision of free WiFi across the rooms, with select accommodations offering enchanting garden views, enhances the guest experience. Moreover, the presence of air conditioning and a desk in every unit underscores the hotel's commitment to guest satisfaction.

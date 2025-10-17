@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Gjirokastër"
 amenities:
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment itself is thoughtfully designed with two bedrooms, a fully equipped kitchen, and a bathroom, catering to the needs of travelers seeking a home away from home. For those keen on exploring the natural beauty of the area, Zaravina Lake is a mere 44 km away, making for an easy day trip.

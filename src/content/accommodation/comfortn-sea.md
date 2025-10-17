@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The highlight of Comfort'n Sea is its well-appointed air-conditioned apartment, which features a separate bedroom, a cozy living room, and a fully equipped kitchen complete with a minibar. The inclusion of a flat-screen TV ensures guests have all the comforts of home at their fingertips. The apartment opens up to a balcony that presents a stunning garden view, allowing guests to soak in the natural beauty of the surroundings.

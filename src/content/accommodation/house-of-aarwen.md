@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Strategically positioned within walking distance of Sarande Main Beach and just a short journey from the tranquil La Petite Beach, guests are perfectly placed to soak up the coastal charm of Sarandë. The hotel's thoughtful design ensures that select accommodations boast patios offering captivating city views, adding an extra layer of enjoyment to the stay.

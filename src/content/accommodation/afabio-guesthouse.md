@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The guesthouse boasts a well-appointed 1-bedroom apartment, complete with a flat-screen TV, air conditioning, and a cozy living room, ensuring a comfortable and relaxing experience. For those who appreciate the convenience of home, A&Fabio Guesthouse goes the extra mile by offering kitchenette facilities, allowing guests the freedom to prepare meals as they wish. Additionally, the provision of towels and linens for a nominal supplement ensures a hassle-free stay.

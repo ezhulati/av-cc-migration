@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a fully immersive experience. Equipped with air conditioning and free WiFi accessible throughout the premises, guests are ensured a comfortable and connected stay. The living space is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for culinary adventures, and a bathroom that caters to all essential needs. Entertainment is also on hand with the inclusion of a flat-screen TV, making it an ideal retreat for both short and long stays.

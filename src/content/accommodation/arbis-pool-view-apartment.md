@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, featuring a well-appointed bedroom, a bathroom complete with essential linens and towels, and a living area that includes a flat-screen TV with satellite channels for entertainment. The dining area, alongside a fully equipped kitchen, allows guests the freedom to prepare and enjoy their meals with a backdrop of serene pool views. Adding to the charm is a terrace and an outdoor dining area, perfect for meals al fresco while soaking in the peaceful street views. Notably, the apartment maintains a non-smoking and soundproof environment, ensuring a comfortable stay for all guests.

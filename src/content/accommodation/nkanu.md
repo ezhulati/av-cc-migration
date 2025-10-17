@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at N'Kanu are thoughtfully designed to cater to the needs of every guest, featuring work desks, flat-screen TVs, and complimentary WiFi. The attention to detail is evident in the private bathrooms equipped with bidets and slippers, ensuring a comfortable and convenient stay. Select rooms elevate the experience further with balconies that offer a glimpse into the serene surroundings. Comfort is paramount, with all units providing fresh bed linen and towels.

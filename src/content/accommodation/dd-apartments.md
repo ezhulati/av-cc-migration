@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This one-bedroom apartment is not just about its prime location; it's equipped with modern amenities to ensure a stay that combines comfort with convenience. Guests can enjoy the luxury of a cable flat-screen TV, a washing machine, and a fully equipped kitchen complete with a fridge, all connected with complimentary WiFi. The commitment to a non-smoking environment further enhances the quality of stay for all guests.

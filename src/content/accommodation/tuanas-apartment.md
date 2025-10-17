@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon entering the apartment, guests are greeted by a thoughtfully arranged space, boasting a single bedroom that promises restful nights. The living area, equipped with a flat-screen TV, invites relaxation and entertainment in equal measure. For those who prefer to weave their own culinary magic, the kitchen does not disappoint. It is fully stocked with modern appliances including an oven, microwave, washing machine, toaster, and fridge, ensuring that every meal can be a home-cooked delight. Moreover, the provision of towels and bed linen adds a touch of convenience to the stay, making it easier for guests to pack light.

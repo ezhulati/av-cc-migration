@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Parking"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment boasts a serene garden view, complemented by the availability of a welcoming patio, perfect for guests looking to unwind in a tranquil setting. With its strategic location, approximately 12 km from the iconic Skanderbeg Square and a similar distance from the historical Former Residence of Enver Hoxha, guests have the unique opportunity to explore the rich cultural tapestry of Tirana with ease.

@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This non-smoking, one-bedroom haven is equipped with modern amenities designed to cater to the needs of contemporary travelers. Guests can enjoy the convenience of free WiFi, a satellite flat-screen TV, and a washing machine, ensuring a stay that combines relaxation with the comforts of home. The fully equipped kitchen, complete with an oven and toaster, invites guests to prepare their meals, while complimentary fruits add a thoughtful touch to the welcoming atmosphere. Towels and bed linen are also provided, ensuring a hassle-free stay.

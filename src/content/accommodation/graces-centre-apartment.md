@@ -13,6 +13,7 @@ location: "Shkodër"
 amenities:
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The accommodation boasts an air-conditioned space that includes a bedroom, a living room, and a fully equipped kitchen complete with an oven and kettle, ensuring guests feel right at home. The bathroom features a walk-in shower and is stocked with bathrobes, towels, and bed linen, highlighting the apartment's attention to detail and commitment to guest comfort. Notably, the apartment is designed to be allergy-free and maintains a strict non-smoking policy, catering to the health and well-being of all guests.

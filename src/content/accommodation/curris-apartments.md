@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment, a strict non-smoking establishment, is a mere 2.8 km away from the picturesque Golem Beach, making it an ideal base for beach enthusiasts. The accommodation itself is a testament to modern living, boasting a 2-bedroom layout complete with a flat-screen TV, a washing machine, and a fully equipped kitchen that includes a minibar. The addition of free WiFi ensures that guests remain connected and entertained throughout their stay.

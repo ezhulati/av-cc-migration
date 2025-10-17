@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment distinguishes itself with its generous space, featuring a balcony that offers a breath of fresh air, two cozy bedrooms for a restful night's sleep, a welcoming living room for relaxation, and a well-equipped kitchen complete with a fridge for those who enjoy preparing their meals. Entertainment is readily available with a flat-screen TV, ensuring guests have a pleasant stay. Importantly, the entire apartment is a smoke-free zone, catering to the comfort of all guests.

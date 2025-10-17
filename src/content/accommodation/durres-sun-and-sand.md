@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property prides itself on its well-appointed holiday home, featuring a single bedroom, a bathroom, and a fully equipped kitchen that caters to all culinary needs. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring guests have a comfortable and enjoyable stay. Emphasizing a smoke-free environment, Durrës Sun and Sand ensures a clean and healthy atmosphere for all its guests.

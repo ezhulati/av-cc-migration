@@ -19,6 +19,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at SARA'S VILLA are designed with the discerning guest in mind, featuring air-conditioned rooms that promise a restful retreat. The convenience of complimentary private parking and WiFi adds to the allure, making it an ideal spot for both leisure and business travelers.

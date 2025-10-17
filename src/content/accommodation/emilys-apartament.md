@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself presents a cozy yet elegant setting, featuring a single bedroom that promises a restful night's sleep. The space is thoughtfully designed with a fully equipped kitchenette, allowing guests the freedom to prepare their meals as they please. The inclusion of a flat-screen TV ensures entertainment needs are well catered to, making it an ideal choice for both short and extended stays.

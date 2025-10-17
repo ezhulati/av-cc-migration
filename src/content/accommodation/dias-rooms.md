@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just boast a desirable location; it comes fully equipped to meet all the needs of modern travelers. Featuring a bedroom that promises restful nights, a kitchen outfitted with an oven and fridge for those who love to cook, and the added convenience of a washing machine, it ensures a stay that combines the comforts of home with the luxury of a getaway. The inclusion of a flat-screen TV, complimentary WiFi, and free private parking further enhances the guest experience, making it a hassle-free retreat.

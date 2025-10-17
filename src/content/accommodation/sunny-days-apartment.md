@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring a well-appointed bedroom, a fully equipped kitchen complete with a toaster and fridge, and a cozy seating area. The inclusion of a flat-screen TV ensures entertainment is always at hand. The bathroom, equipped with a bidet, adds a touch of modernity to the space. One of the highlights is the balcony, which provides an intimate outdoor dining area where guests can savor their meals against the backdrop of serene street views.

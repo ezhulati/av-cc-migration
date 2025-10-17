@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 The accommodations at N'Peze Hotel are thoughtfully designed, with select rooms offering the added luxury of a balcony that opens up to breathtaking mountain views, promising a serene start or end to any day. Each room is equipped with a wardrobe, ensuring ample storage for personal belongings, making it an ideal retreat for both short and long stays.

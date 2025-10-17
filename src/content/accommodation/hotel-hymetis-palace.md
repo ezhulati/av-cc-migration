@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room in Hotel Hymeti's Palace is a testament to comfort and sophistication, boasting air conditioning and a flat-screen TV for the ultimate relaxation. For those seeking a little extra space, select accommodations include a cozy seating area. The allure of nature is never far away, with some rooms offering breathtaking views of the surrounding mountains and lake, ensuring a picturesque start and end to every day. The private bathrooms are a haven of cleanliness and luxury, complete with a bidet, soft bathrobes, slippers, and complimentary toiletries for a touch of pampering.

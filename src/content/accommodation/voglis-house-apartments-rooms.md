@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment and room is a testament to modern living, equipped with air conditioning for those warm Mediterranean days. Entertainment and relaxation are guaranteed with the inclusion of a flat-screen TV in every unit. The private bathrooms are notably designed with walk-in showers and complimentary slippers, adding a touch of home-comfort luxury. For guests inclined towards self-catering, select rooms boast fully equipped kitchens, complete with all necessary kitchenware. A desk in every unit ensures that both leisure and business travelers can find their needs met.

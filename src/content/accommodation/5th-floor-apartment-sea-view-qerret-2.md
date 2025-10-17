@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Located a mere 8.2 km from the iconic Rock of Kavaje and within easy reach of historical landmarks such as the Former Residence of Enver Hoxha and the Durres Amphitheatre, this property serves as an ideal base for exploring the rich cultural tapestry of the area. Moreover, the bustling heart of the city, Skanderbeg Square, is only 50 km away, offering a perfect day trip opportunity.

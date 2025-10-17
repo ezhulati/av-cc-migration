@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Within its walls, the apartment unveils a sanctuary of comfort, featuring a bedroom adorned with a flat-screen TV boasting satellite channels, alongside a kitchen equipped with modern appliances including a dishwasher and an oven. The presence of a washing machine adds a layer of convenience for guests, while the bathroom, equipped with a walk-in shower, ensures a refreshing start or end to the day. Attention to detail is evident in the provision of towels and bed linen, enhancing the home-away-from-home experience.

@@ -13,6 +13,7 @@ location: "Pogradec"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The guesthouse boasts an elegantly appointed air-conditioned apartment featuring a separate bedroom, a cozy living room, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are well catered for with the inclusion of a flat-screen TV, making it an ideal haven for relaxation after a day of exploration.

@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, boasting a spacious living room equipped with a flat-screen TV featuring satellite channels, ensuring entertainment is always at hand. The kitchen doesn't disappoint either, being fully equipped with modern appliances including a dishwasher and a fridge, catering to all culinary needs. The inclusion of a private bathroom, complete with slippers, alongside towels and bed linen, adds a touch of luxury to the stay. Notably, the apartment prides itself on its non-smoking environment and private entrance, guaranteeing utmost privacy and a peaceful atmosphere.

@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa itself is a haven of tranquility, boasting garden views that can be savored from the privacy of a balcony or while lounging on the terrace. With two bedrooms, three living rooms, and a bathroom equipped with complimentary toiletries and a bidet, the space is designed to cater to the needs of modern travelers seeking both comfort and style. The inclusion of a flat-screen TV and the convenience of laundry service further enhance the guest experience, ensuring a stay that combines the comforts of home with the luxury of a hotel.

@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Shkodër"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each unit within Amo's Hotel is thoughtfully designed, featuring a cozy seating area and a flat-screen TV, making it a perfect retreat after a day of exploration. Guests will appreciate the attention to detail, including the provision of soft bed linen and plush towels, enhancing the overall comfort of their stay.

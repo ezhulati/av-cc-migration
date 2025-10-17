@@ -14,6 +14,7 @@ amenities:
   - "Bar"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at B&BSheshalliu are greeted with thoughtfully appointed units, each featuring a cozy seating area and a television equipped with cable channels for entertainment. The private bathrooms add a touch of luxury with slippers, a bidet, and a refreshing shower, complemented by a dressing room for added privacy and convenience. To ensure a comfortable stay, each unit is also supplied with crisp bed linen and soft towels.

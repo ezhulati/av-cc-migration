@@ -16,6 +16,7 @@ amenities:
   - "Restaurant"
   - "Spa"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 The villa prides itself on offering well-appointed accommodations that come with a seating area, ensuring guests have ample space to unwind. Each unit opens up to a patio featuring an outdoor dining area where guests can savor meals against the backdrop of breathtaking mountain views. The commitment to guest comfort is further underscored by the inclusion of soundproof rooms, ensuring a peaceful retreat from the bustling city life.

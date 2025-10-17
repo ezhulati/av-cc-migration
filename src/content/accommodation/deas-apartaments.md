@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The highlight of Dea's Apartments is its meticulously designed 1-bedroom apartment, which boasts a harmonious blend of functionality and style. Guests can unwind in the spacious living room, equipped with a flat-screen TV offering satellite channels, perfect for those moments of relaxation after a day of exploring the city. The apartment doesn't stop at entertainment; a fully equipped kitchen awaits those who love to cook, featuring a refrigerator and kitchenware, complemented by a cozy dining area.

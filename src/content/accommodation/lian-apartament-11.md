@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a well-appointed bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom designed with comfort in mind. Entertainment is readily available with a TV set for guests' enjoyment.

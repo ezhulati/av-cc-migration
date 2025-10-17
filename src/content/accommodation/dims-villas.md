@@ -13,6 +13,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 Each accommodation at Dim's Villas is thoughtfully designed to maximize the breathtaking sea views, with terraces that seem to invite the outside in. Inside, guests will find a fully equipped kitchen, complete with a refrigerator and kitchenware, ensuring a home-away-from-home experience. The private bathrooms, equipped with baths, along with the provision of bed linen and towels, add a touch of personal care to the stay.

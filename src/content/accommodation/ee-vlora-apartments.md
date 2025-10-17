@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to comfort and convenience, boasting a generous layout that includes a well-appointed bedroom, a cozy living room, and a balcony that presents enchanting garden views. The living space is enhanced by modern amenities such as air conditioning, a flat-screen TV, and a fully equipped kitchen complete with an oven and toaster, ensuring guests feel right at home. The inclusion of a bathroom with a bidet adds a touch of luxury to the overall experience.

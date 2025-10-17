@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Following its 2016 renovation, the apartment presents a modern retreat, boasting a spacious balcony that offers guests a private outdoor space to relax. Inside, the air-conditioned space is thoughtfully designed to cater to the needs of contemporary travelers. It features a cozy bedroom, a living room for unwinding, and a dining area perfect for enjoying meals prepared in the fully equipped kitchen, complete with a toaster for those morning delights. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the provision of free WiFi keeps guests connected throughout their stay.

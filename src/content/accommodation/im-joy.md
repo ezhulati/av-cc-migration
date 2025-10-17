@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at I'M JOY are designed with the discerning traveler in mind, featuring balconies that boast breathtaking sea views, creating an ideal backdrop for relaxation. Each apartment is a haven of comfort, equipped with a satellite flat-screen TV in the seating area, a fully furnished kitchen complete with a dishwasher, oven, fridge, stovetop, and essential kitchenware. Not to mention, the convenience of a coffee machine and kettle for those morning or evening refreshments. The private bathrooms are modern and equipped with walk-in showers and hair dryers, ensuring a refreshing start or end to the day. For added comfort, all units are supplied with fresh bed linen and towels.

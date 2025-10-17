@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Bar"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 A short stroll from Freddy's doorsteps reveals a vibrant world of shopping streets and lively bars, perfect for those looking to explore the local scene. For guests interested in a more relaxed experience, the hotel offers a cozy common living room, stocked with an array of books, inviting visitors to unwind and perhaps discover a new favorite read.

@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a living area with a flat-screen TV, and a fully equipped kitchen. Here, culinary enthusiasts can enjoy the use of an oven, microwave, washing machine, toaster, and fridge - perfect for those who prefer a taste of home while traveling. The inclusion of towels and bed linen adds a touch of convenience to the experience.

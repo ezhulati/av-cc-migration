@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment, boasting a modern air-conditioned interior, offers guests a serene retreat with its well-appointed bedroom, a fully equipped kitchen featuring a microwave and fridge, and a cozy seating area perfect for unwinding after a day of sightseeing. The inclusion of a flat-screen TV, alongside a bathroom complete with a bidet, ensures that guests experience the comforts of home. Towels and bed linen, meticulously prepared, await to envelop guests in warmth and comfort.

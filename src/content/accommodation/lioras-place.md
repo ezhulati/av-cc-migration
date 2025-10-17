@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Liora's Place are treated to a garden that invites relaxation and contemplation. The accommodation itself boasts air-conditioning, ensuring a comfortable stay regardless of the weather outside. For those arriving by car, the convenience of private parking on-site is a notable perk, alongside complimentary WiFi that keeps guests connected during their stay. Emphasizing a healthy living environment, the property maintains a strict non-smoking policy.

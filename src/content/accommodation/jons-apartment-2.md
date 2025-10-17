@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Spa"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The property is distinguished not only by its scenic surroundings but also by its modern amenities, including complimentary WiFi access throughout. Guests can unwind on the expansive terrace, a perfect spot for soaking in the natural beauty of the area.

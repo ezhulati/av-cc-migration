@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment stands out for its generous space, featuring a well-appointed bedroom, a cozy living room, and a balcony that offers breathtaking views of the sea. The inclusion of a flat-screen TV, a fully equipped kitchen with an oven and microwave, and a bathroom complete with a bath, ensures guests have everything they need for a home-away-from-home experience. The provision of towels and bed linen adds an extra layer of convenience.

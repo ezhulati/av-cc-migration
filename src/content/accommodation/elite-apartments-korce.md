@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with the luxury of a private entrance, ensuring a seamless and personalized experience from the outset. The apartments are a testament to contemporary living, equipped with free WiFi and air conditioning to guarantee a comfortable stay regardless of the season.

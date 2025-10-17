@@ -18,6 +18,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartments themselves are a testament to thoughtful design and functionality. Each unit is accessible through a private entrance, ensuring a sense of exclusivity and privacy for guests. The interiors are marked by their cleanliness and modern amenities. Tiled floors lead the way to a fully equipped kitchen, complete with a toaster, fridge, coffee machine, and kettle, catering to the culinary needs of guests. The living space is complemented by a dining area and a flat-screen TV with streaming services, perfect for unwinding after a day of exploration. The provision of air conditioning, free private parking, and complimentary WiFi further enhances the guest experience, ensuring comfort and connectivity throughout their stay.

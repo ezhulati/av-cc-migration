@@ -16,6 +16,7 @@ amenities:
   - "Breakfast"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Mövenpick Hotel Lalez Durres are thoughtfully designed with the discerning traveler in mind. Each air-conditioned room is equipped with modern amenities including a desk, coffee machine, minibar, and safety deposit box. The addition of a flat-screen TV, private balcony, and an en-suite bathroom with a bidet further enhances the living space. Guests will appreciate the attention to detail, including the provision of plush bed linen and towels.

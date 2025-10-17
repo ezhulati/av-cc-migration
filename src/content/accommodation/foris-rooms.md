@@ -10,6 +10,7 @@ starRating: 3
 rating: 3
 accommodationType: "hotel"
 location: "Himare"
+ratingWords: "Fair"
 ---
 
 The hotel's commitment to service is evident with a multilingual staff proficient in Greek, English, and Albanian, ready to assist guests around the clock at the 24-hour front desk. Whether it's local recommendations or assistance with any requests, the team at Fori's Rooms ensures a seamless and enjoyable experience for all.

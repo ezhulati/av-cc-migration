@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Located just a stone's throw away from the pristine Narta Beach, merely 2.2 km to be exact, and a short drive from the historic Independence Square, 11 km away, Cathrin's offers an ideal base for exploring the natural beauty and cultural heritage of the region. The property is also conveniently situated 12 km from the iconic Kuzum Baba, making it a perfect spot for those looking to immerse themselves in the local attractions.

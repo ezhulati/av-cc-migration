@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 This apartment distinguishes itself with its spacious layout, featuring a well-appointed bedroom, a cozy living room for relaxation, and a balcony that offers tranquil garden views, providing a perfect backdrop for morning coffees or evening reflections. The inclusion of a well-equipped kitchen caters to the needs of those who prefer the comforts of home-cooked meals, while the availability of air conditioning ensures a comfortable stay regardless of the season.

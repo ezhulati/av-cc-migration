@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Alma's Home are designed with comfort and convenience in mind, featuring a range of amenities to enhance the stay of every guest. Each unit is thoughtfully equipped with a seating area for relaxation, a coffee machine for those morning delights, and a private bathroom complete with a bidet. For guests who prefer the comforts of home, select rooms offer a fully equipped kitchen, including a dishwasher, ensuring a hassle-free stay.

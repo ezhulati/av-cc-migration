@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment is thoughtfully equipped with two bedrooms, a fully-fitted kitchen boasting a dishwasher and microwave, a flat-screen TV for entertainment, a cozy seating area, and two modern bathrooms, each with a bidet. The added benefit of a private entrance ensures an extra layer of privacy for guests.

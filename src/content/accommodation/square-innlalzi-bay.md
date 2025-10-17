@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This holiday home is not just about its prime location; it offers guests a cozy and inviting atmosphere with its two well-appointed bedrooms, a bathroom stocked with essential amenities, and a living space designed for relaxation. The inclusion of bed linen, towels, a flat-screen TV equipped with streaming services, and a fully equipped kitchen ensures a stay that combines the comforts of home with the luxury of a holiday escape. The balcony, offering serene garden views, adds a touch of tranquility to the overall ambiance of the accommodation.

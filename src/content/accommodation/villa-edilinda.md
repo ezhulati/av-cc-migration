@@ -17,6 +17,7 @@ amenities:
   - "Bar"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guest accommodations boast balconies that open up to serene garden views, creating a tranquil backdrop for relaxation. Each room is thoughtfully appointed with modern comforts including air conditioning, a flat-screen TV with cable channels, a refrigerator, and a kettle, alongside essentials like a shower, complimentary toiletries, and ample wardrobe space. The convenience of free WiFi in every room adds to the seamless experience of staying at Villa Edi&Linda.

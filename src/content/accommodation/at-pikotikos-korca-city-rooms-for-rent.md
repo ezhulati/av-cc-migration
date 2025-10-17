@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at At Pikotiko's are thoughtfully designed with guest comfort in mind. Each room is well-appointed with a desk, a flat-screen TV, and a private bathroom, ensuring a restful and productive stay. The inclusion of bed linen, towels, a fridge, and a kettle in every room adds a touch of home, while air conditioning and a wardrobe are standard, providing convenience for all guests.

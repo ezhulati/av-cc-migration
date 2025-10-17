@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The highlight of this accommodation is undoubtedly its spacious apartments. Each unit, designed with the modern traveler in mind, features two well-appointed bedrooms, a cozy living room for relaxation, and a balcony that presents an enchanting view of the bustling city. The inclusion of a flat-screen TV, a fully equipped kitchen with modern appliances such as a microwave and toaster, and two pristine bathrooms with a bidet, ensures guests have everything they need for a comfortable stay.

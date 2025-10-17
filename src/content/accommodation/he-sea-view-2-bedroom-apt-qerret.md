@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, boasting a balcony that offers breathtaking views of the sea. It features two well-appointed bedrooms, a cozy living room for relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen with an oven and fridge, perfect for those who enjoy preparing their own meals. The inclusion of a bathroom with a bidet, along with complimentary towels and bed linen, adds a touch of convenience and comfort to the stay. Guests can also appreciate the tranquil street views that add to the apartment's peaceful ambiance.

@@ -10,6 +10,7 @@ starRating: 3
 rating: 3
 accommodationType: "villa"
 location: "Pogradec"
+ratingWords: "Fair"
 ---
 
 The property is strategically positioned away from the hustle and bustle, yet remains within reach of notable attractions. The Cave Church Archangel Michael and the Early Christian Basilica stand 33 km and 47 km away, respectively, inviting exploration into the region's rich history. For those interested in the local culture, Port Ohrid and the Church of St. John at Kaneo are both situated 47 km from the residence, offering a glimpse into the architectural beauty and spiritual heritage of the area.

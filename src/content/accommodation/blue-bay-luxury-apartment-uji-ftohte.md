@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious retreat, featuring a balcony that offers stunning sea views, making it a perfect setting for morning coffees or evening relaxation. Inside, guests will find two cozy bedrooms, a living room designed for relaxation, and a flat-screen TV for entertainment. The kitchen is fully equipped with a dishwasher and an oven, catering to all culinary needs, while the bathroom comes with a shower. For added convenience, towels and bed linen are readily available, emphasizing the property's attention to detail.

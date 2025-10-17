@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in thoughtful amenities and homely comfort. Guests are treated to a cozy bedroom, a well-appointed bathroom complete with bed linen and towels, and a living space that boasts a flat-screen TV with satellite channels for those evenings in. The dining area and fully equipped kitchen cater to every culinary need, while the balcony presents a tranquil view of a quiet street, perfect for unwinding after a day of exploration.

@@ -10,6 +10,7 @@ starRating: 3
 rating: 3
 accommodationType: "villa"
 location: "Tirana"
+ratingWords: "Fair"
 ---
 
 A mere stroll away, less than 1 km to be precise, guests can explore the bustling Toptani Shopping Centre, take a leisurely 11-minute walk to the iconic Clock Tower Tirana, or discover the architectural marvel of Et'hem Bey Mosque. For those intrigued by the allure of nature and adventure, the Dajti Ekspres Cable Car awaits, just 4.9 km from the doorstep, offering an escape to breathtaking views and serene landscapes.

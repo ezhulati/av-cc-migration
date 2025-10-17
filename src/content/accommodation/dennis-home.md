@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accessibility is a hallmark of Denni's Home, with free private parking making it a breeze for guests to explore the surrounding area or venture to Ancient Fanoti, located 50 km away. The guest house itself is a haven of privacy and tranquility, featuring accommodations with a dining area, a fully equipped kitchen including a fridge, and a flat-screen TV for entertainment. The highlight for many is the opportunity to dine al fresco in the outdoor dining area, where meals are enjoyed against the backdrop of stunning sea views. The thoughtful inclusion of a private entrance and soundproofing in each unit underscores a commitment to guest privacy and comfort.

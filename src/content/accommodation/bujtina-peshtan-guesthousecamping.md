@@ -12,6 +12,7 @@ accommodationType: "villa"
 location: "Lac"
 amenities:
   - "Spa"
+ratingWords: "Fair"
 ---
 
 One of the standout features of Bujtina Peshtan is its commitment to enhancing the guest experience beyond the confines of its property. The guesthouse thoughtfully offers packed lunches, ideal for those planning to venture into the surrounding areas for excursions and day trips.

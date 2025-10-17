@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guest accommodations at Noah's Home are meticulously appointed to ensure a restful stay. From the crisp air conditioning, functional desk, and sleek flat-screen TV to the pristine private bathroom stocked with fresh bed linen and towels, every detail has been considered. The highlight, however, is the terrace that accompanies each room, offering breathtaking views of the sea, designed to captivate and soothe in equal measure. The presence of a wardrobe in all units further adds to the convenience, ensuring guests can settle in and feel at home.

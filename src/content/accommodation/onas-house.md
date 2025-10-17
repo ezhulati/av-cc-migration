@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Laundry"
+ratingWords: "Fair"
 ---
 
 Each space within Ona's House is thoughtfully equipped to ensure a stay that combines the essence of home with the luxury of vacation. The kitchenette comes fully stocked with a stovetop, fridge, microwave, and dining table, catering to all culinary needs. The inclusion of a private bathroom, complete with a shower and washing machine, adds to the convenience factor, making it ideal for both short and extended stays.

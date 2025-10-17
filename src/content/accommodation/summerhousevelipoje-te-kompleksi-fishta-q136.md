@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, offering a spacious layout with a bedroom that promises restful nights. Entertainment and convenience are well catered for, thanks to a flat-screen TV equipped with cable channels and a fully equipped kitchen. Here, guests have everything they need at their fingertips, from an oven for delightful home-cooked meals to a washing machine for hassle-free laundry days. The inclusion of towels and bed linen ensures a stay that combines the comforts of home with the luxury of hotel living.

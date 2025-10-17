@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 The highlight of this apartment is undoubtedly its direct access to a private balcony, complemented by complimentary WiFi, ensuring guests stay connected while soaking in the breathtaking views. Emphasizing a smoke-free environment, the apartment is situated a mere 2.4 km from the picturesque Golem Beach, making it an ideal spot for beach enthusiasts.

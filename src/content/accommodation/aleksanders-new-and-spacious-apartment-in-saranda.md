@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to rest; it provides a home away from home with its generously sized living space. Guests are treated to a well-appointed apartment featuring one bedroom and two bathrooms, ensuring ample space and privacy. The inclusion of bed linen and towels, coupled with a flat-screen TV boasting satellite channels, ensures a comfortable and entertaining stay. The dining area and fully equipped kitchen offer the freedom to dine in, while the balcony presents a tranquil view of a quiet street, perfect for unwinding after a day of exploration.

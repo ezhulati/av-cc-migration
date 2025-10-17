@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa complex stands out for its thoughtfully designed units, each boasting air conditioning for those warm summer days, a cozy seating area perfect for unwinding, and a flat-screen TV equipped with streaming services to keep guests entertained. The inclusion of a fully equipped kitchen, complete with a dishwasher, oven, microwave, coffee machine, and kettle, adds a touch of home, while the dining area provides the perfect setting for a family meal. Safety is paramount, with each unit featuring a safety deposit box, and the private bathrooms come equipped with a walk-in shower, hair dryer, and complimentary toiletries, ensuring a comfortable and hassle-free stay.

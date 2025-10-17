@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is fully equipped for a hassle-free stay, featuring a modern kitchen with an oven and stovetop, a flat-screen TV for entertainment, and a bathroom complete with a bidet, ensuring all the comforts of home are at guests' fingertips. Despite its central location, Joni's Home guarantees a peaceful retreat with its quiet street views, allowing for a tranquil escape from the hustle and bustle.

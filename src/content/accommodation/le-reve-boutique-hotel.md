@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon entering, guests are greeted with tastefully appointed rooms that boast not just functionality with desks and flat-screen TVs, but also the comfort of private bathrooms, complete with fresh bed linen and towels. For those seeking a glimpse of the Ionian Sea, select rooms offer breathtaking sea views, complemented by private balconies, perfect for a morning coffee or evening relaxation. Comfort is paramount, with each room featuring air conditioning and ample wardrobe space, ensuring a stay that combines both relaxation and convenience.

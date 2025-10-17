@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Parking"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Sheme's is a haven of relaxation, featuring air conditioning for those warm Mediterranean days, complimentary private parking to ease the worries of car travelers, and free WiFi to keep guests connected with the world or to plan their next adventure in Sarandë. The attention to detail is evident in the well-appointed rooms, which come equipped with a wardrobe, a flat-screen TV for entertainment, and a private bathroom, ensuring a comfortable and private retreat after a day of exploration.

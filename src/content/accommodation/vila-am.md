@@ -13,6 +13,7 @@ location: "Gjirokastër"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa boasts a well-appointed bedroom, a bathroom equipped with modern amenities, and a kitchen that comes fully equipped, catering to those who prefer the comforts of home-cooked meals. Entertainment needs are met with the provision of a flat-screen TV, ensuring guests have enjoyable indoor moments.

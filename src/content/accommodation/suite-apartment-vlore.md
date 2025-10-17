@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it presents a home away from home with its air-conditioned spaces, inclusive of a bedroom that opens up to breathtaking sea views from a private balcony. The living area, equipped with a flat-screen TV, alongside a kitchen fitted with modern appliances including a dishwasher and an oven, ensures guests have everything they need at their fingertips. The convenience of a private parking space and complimentary WiFi adds to the seamless experience.

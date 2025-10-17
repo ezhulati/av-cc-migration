@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a cozy living room for unwinding after a day of exploration, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom. The inclusion of a flat-screen TV and complimentary WiFi ensures that guests remain connected and entertained throughout their stay. Additionally, the balcony offers serene garden views, providing a tranquil backdrop for morning coffees or evening relaxation.

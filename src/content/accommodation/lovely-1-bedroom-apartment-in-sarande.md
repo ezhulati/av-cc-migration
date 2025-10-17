@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. Guests will appreciate the thoughtful amenities, including a fully equipped kitchen, a modern bathroom, and a living space accentuated by a flat-screen TV for entertainment. The inclusion of a balcony adds a touch of elegance, providing a peaceful spot to enjoy the surrounding garden views.

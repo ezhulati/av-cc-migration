@@ -18,6 +18,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a world where each room is thoughtfully designed with comfort in mind. Equipped with air conditioning, a flat-screen TV, and a private bathroom stocked with complimentary toiletries, the accommodations ensure a restful stay. For those desiring a little extra, select rooms also feature a balcony, offering private views of the surrounding landscape.

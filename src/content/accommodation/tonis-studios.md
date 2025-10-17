@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The attention to detail in each unit is evident, boasting a terrace for guests to enjoy the fresh air, a fully equipped kitchen complete with a microwave, dining area, and all the necessary kitchenware, making it an ideal choice for those who prefer the comforts of home-cooked meals while on vacation. The inclusion of a flat-screen TV, private bathroom with shower, hair dryer, and the thoughtful provision of bed linen and towels, further enhances the homely experience. For added convenience, a fridge, stovetop, and kettle are also provided in each unit.

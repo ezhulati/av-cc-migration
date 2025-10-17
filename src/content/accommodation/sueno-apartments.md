@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Sueño Apartments are treated to a serene mountain view, a rarity in the bustling cityscape. Each apartment is a testament to modern living, featuring balconies that offer sweeping views of the city, satellite flat-screen TVs for entertainment, and dining areas for intimate meals. The well-equipped kitchens cater to those who prefer home-cooked meals, while the private bathrooms come with thoughtful touches such as slippers and hair dryers, ensuring a comfortable stay.

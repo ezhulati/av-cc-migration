@@ -19,6 +19,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Phoenice's Apartment are treated to a realm of amenities, including complimentary private parking and WiFi, ensuring a stay that is both connected and carefree. The option for outdoor dining adds a touch of charm, allowing visitors to savor meals amidst the tranquil surroundings.

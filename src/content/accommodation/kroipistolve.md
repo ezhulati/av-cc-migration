@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Guests are treated to accommodations that boast terraces with breathtaking mountain views, alongside fully equipped kitchens featuring ovens and microwaves for a home-cooked meal away from home. The presence of a shared bathroom with a bidet in every unit, complemented by patios offering an outdoor dining experience amidst garden views, adds a touch of elegance and comfort. Moreover, the provision of bed linen and towels in each unit underscores the guest house's commitment to convenience and hygiene.

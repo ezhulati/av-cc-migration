@@ -19,6 +19,7 @@ amenities:
   - "Sea View"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on a comprehensive array of facilities, including a welcoming bar, an on-site restaurant serving a variety of culinary delights, and the convenience of room service for those moments of relaxation in the comfort of one's own space. The promise of free WiFi throughout ensures that guests remain connected, whether for leisure or business purposes.

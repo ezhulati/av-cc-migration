@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This modern apartment, established in 2009, offers a refreshing retreat with its air-conditioned spaces and complimentary WiFi accessible throughout the premises. Guests will find themselves at ease in the spacious layout, which includes two cozy bedrooms, a welcoming living room, a fully equipped kitchen for those who love to cook, and a well-maintained bathroom. Entertainment needs are also catered to with a flat-screen TV available for guest use.

@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Sarandë"
 amenities:
   - "WiFi"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into air-conditioned accommodations that promise privacy and relaxation, complemented by modern amenities including complimentary WiFi. For those desiring a breath of fresh air and scenic views, select rooms are enhanced with the addition of private balconies.

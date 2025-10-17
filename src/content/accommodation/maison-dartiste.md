@@ -15,6 +15,7 @@ amenities:
   - "Breakfast"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The proximity to cultural landmarks such as the House of Leaves, National Museum of History Albania, and National Theatre of Opera and Ballet of Albania makes Maison D'artiste an attractive option for those looking to immerse themselves in the local culture. Additionally, the hostel facilitates a shared kitchen, providing an ATM and currency exchange services, ensuring that guests have everything they need right at their fingertips.

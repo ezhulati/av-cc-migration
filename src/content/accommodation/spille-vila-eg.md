@@ -19,6 +19,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, visitors are greeted by the lush surroundings of a meticulously maintained garden, complete with barbecue facilities, perfect for an evening of leisure under the stars. Security is paramount, with full-day monitoring ensuring a worry-free stay. The property boasts breathtaking views of both the garden and an inner courtyard, creating an atmosphere of tranquil seclusion.

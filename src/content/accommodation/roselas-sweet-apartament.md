@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 A mere stone's throw away from the captivating Rock of Kavaje, the enlightening House of Leaves, and the National Museum of History Albania, guests find themselves enveloped in the city's vibrant history and culture. Moreover, the Dajti Ekspres Cable Car, located just 6.1 km away, provides an adventurous escape to stunning natural landscapes.

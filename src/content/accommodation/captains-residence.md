@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 CAPTAIN'S RESIDENCE ensures a hassle-free stay with amenities designed to cater to every guest's needs. Each air-conditioned unit is thoughtfully equipped with modern conveniences such as a desk, kettle, oven, toaster, safety deposit box, flat-screen TV, and a balcony for soaking in the city or sea views. The private bathrooms come with a bath, adding a touch of luxury to your stay. For those who love to cook, the apartments boast a dining area and a fully equipped kitchen, complete with a fridge, stovetop, and all necessary kitchenware. Additionally, the provision of bed linen and towels adds an extra layer of comfort.

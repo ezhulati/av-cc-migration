@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The accommodation itself is a testament to thoughtful design and comfort. The air-conditioned apartment features a harmonious blend of living space, including a bedroom that promises restful nights, and a living room designed for relaxation. The fully equipped kitchen, complete with a refrigerator and coffee machine, invites guests to feel at home, while the bathroom offers modern comforts including a shower and complimentary slippers. Perhaps the jewel in the crown is the balcony, which serves as a charming outdoor dining area, offering guests a private slice of the outdoors.

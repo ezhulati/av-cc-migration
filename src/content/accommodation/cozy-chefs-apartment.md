@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at the Cozy Chef's Apartment are treated to a haven of space and comfort. The apartment boasts two well-appointed bedrooms and two bathrooms, ensuring ample privacy and convenience for all guests. Attention to detail is evident in the provision of quality bed linen and towels, enhancing the overall stay experience.

@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 This apartment, located a mere 2.3 km from the popular Durres Beach, ensures that guests are never far from the water's edge. The living space is thoughtfully designed, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who love to cook, and a bathroom that provides all the essentials for a refreshing stay.

@@ -14,6 +14,7 @@ amenities:
   - "Parking"
   - "Restaurant"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Hotel&Restaurant Aroma are thoughtfully appointed, ensuring a comfortable stay. Each air-conditioned room is equipped with a flat-screen TV, free WiFi, and a private bathroom stocked with complimentary toiletries. The convenience of free private parking and the availability of a shuttle service underscore the hotel's commitment to guest satisfaction, facilitating exploration of the picturesque surroundings.

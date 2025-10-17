@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment's interior is thoughtfully designed to cater to every need, featuring two well-appointed bedrooms that promise restful nights. Entertainment is readily available with a flat-screen TV equipped with satellite channels, ensuring guests are never far from global happenings or a relaxing movie night. Culinary enthusiasts will delight in the fully equipped kitchen, boasting a dishwasher, oven, washing machine, microwave, and toaster, making meal preparation not just convenient but a joy. The provision of towels and bed linen adds a touch of home, ensuring a comfortable and hassle-free stay.

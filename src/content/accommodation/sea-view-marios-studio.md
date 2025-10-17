@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will find themselves enveloped in comfort within the air-conditioned confines of the apartment, which boasts two cozy bedrooms, a fully equipped kitchen for those home-cooked meals, and a bathroom that caters to all the essentials. Entertainment is readily available with a flat-screen TV, ensuring that guests have access to their favorite shows and movies after a day of adventure.

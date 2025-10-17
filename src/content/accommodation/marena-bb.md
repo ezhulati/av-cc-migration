@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a space that feels like a home away from home, featuring two cozy bedrooms and three well-appointed bathrooms. The attention to detail is evident in the provision of crisp bed linen, plush towels, and the modern conveniences of a flat-screen TV with cable channels. The dining area and fully equipped kitchen offer all the necessities for a comfortable stay, while the terrace presents breathtaking mountain views, perfect for a moment of reflection or a morning coffee.

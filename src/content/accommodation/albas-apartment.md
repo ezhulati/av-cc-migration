@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a generously sized apartment that boasts a balcony offering a slice of Vlorë's serene environment. The layout is thoughtfully designed, featuring a single bedroom complemented by a spacious living area and a kitchen equipped with everything needed for a self-sufficient stay. The provision of towels and bed linen adds a touch of home, ensuring a comfortable and hassle-free experience.

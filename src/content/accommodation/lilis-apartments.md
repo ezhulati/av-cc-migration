@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Lili's Apartments are treated to spacious accommodations that boast a balcony with breathtaking mountain views. The apartment includes two bedrooms, four living rooms, and a modern kitchen equipped with an oven and microwave, ensuring all the comforts of home are at hand. The inclusion of a flat-screen TV and a bathroom with a walk-in shower adds a touch of luxury to the stay. For those in need of it, towels and linens are available upon request, ensuring every need is met with the utmost attention to detail.

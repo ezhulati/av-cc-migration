@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment within this complex is a testament to comfort and functionality, equipped with essential amenities such as a wardrobe, a flat-screen TV, and air conditioning. The attention to detail is evident in the provision of a private bathroom complete with a bath and complimentary toiletries, ensuring a stay that marries luxury with the comforts of home. For those who value connectivity, free WiFi is available throughout, with select rooms offering the added luxury of a terrace to soak in the breathtaking surroundings.

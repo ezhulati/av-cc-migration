@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests at J&P Apartment are treated to a host of amenities designed to enhance their stay. The apartment boasts a generous layout, including a balcony that invites guests to unwind in the open air. Inside, two bedrooms offer ample space for relaxation, while the living room provides a cozy setting for leisurely evenings. The kitchen doesn't disappoint either, coming well-equipped and even featuring a minibar for those who appreciate a good drink.

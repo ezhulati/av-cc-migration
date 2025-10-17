@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests of Fane's Apartments are treated to well-appointed units equipped with modern amenities. A flat-screen TV with satellite channels provides entertainment for those moments spent indoors, while a kitchenette and dining area offer the convenience of home-cooked meals. The inclusion of a private bathroom, complete with a shower and hairdryer, adds to the comfort of each stay. Additionally, rooms feature a city view and come with a handy fridge, catering to the needs of every guest.

@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment, a smoke-free environment located merely 2.3 km from the bustling Durres Beach, boasts a generously sized layout. Guests can enjoy the luxury of a balcony that opens up to breathtaking sea views, making every morning a picturesque experience. The accommodation features two well-appointed bedrooms, a cozy living room for relaxation, and a flat-screen TV for entertainment. The kitchen comes fully equipped with an oven and a fridge, catering to all culinary needs, while the bathroom includes a bidet, adding a touch of comfort to the stay.

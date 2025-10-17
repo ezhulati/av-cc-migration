@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Positioned just 400 meters from the vibrant Mango Beach and within easy reach of the historic Butrint National Park, 13 kilometers away, guests are perfectly situated to explore the natural and cultural treasures of the area. The studio's proximity to Ancient Fanoti, 47 kilometers away, further invites exploration of the region's rich history.

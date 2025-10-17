@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room, a sanctuary of relaxation, is outfitted with a private bathroom featuring a refreshing shower, a flat-screen TV for entertainment, and air conditioning for those warm Mediterranean nights. Select accommodations also include a seating area, offering a cozy nook for guests to unwind. The convenience of in-room refrigeration allows visitors to keep beverages and snacks chilled to perfection.

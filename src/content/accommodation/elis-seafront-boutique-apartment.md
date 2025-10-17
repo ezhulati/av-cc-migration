@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of spaciousness and modern amenities. Guests are treated to a beautifully appointed living space that includes a bedroom with sweeping sea views, a cozy living room, and a fully equipped kitchen boasting a dishwasher and an oven. The inclusion of a flat-screen TV, free WiFi, and air conditioning ensures a stay that combines relaxation with the comforts of home. The bathroom, featuring a walk-in shower, along with a bidet and a dressing room, underscores the apartment's commitment to luxury and convenience. Notably, the property is an allergy-free and non-smoking environment, catering to the well-being of all guests.

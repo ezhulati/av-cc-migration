@@ -20,6 +20,7 @@ amenities:
   - "Mountain View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment, situated on the ground floor for easy access, boasts two well-appointed bedrooms, each complemented by a flat-screen TV with satellite channels, ensuring entertainment is always at hand. The fully equipped kitchen is a culinary enthusiast's dream, featuring modern appliances such as a dishwasher, oven, washing machine, microwave, and toaster. The patio, adorned with outdoor furniture, presents an idyllic setting for guests to enjoy breathtaking mountain views, enhancing the overall tranquility of the stay.

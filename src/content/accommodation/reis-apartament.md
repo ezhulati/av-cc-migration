@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Occupying a convenient ground-floor position, the apartment boasts a spacious layout that includes a bedroom, a living area equipped with a flat-screen TV and streaming services, and a fully equipped kitchen. The kitchen comes complete with a refrigerator, essential kitchenware, and a washing machine, ensuring all the comforts of home are at guests' fingertips. For those requiring them, towels and linens are available for a nominal supplement, adding an extra layer of convenience to the stay.

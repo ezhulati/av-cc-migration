@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a range of amenities designed to enhance their stay. Air conditioning ensures a comfortable environment regardless of the weather, while complimentary private parking and WiFi address the practical needs of modern travelers. The apartments themselves are a testament to thoughtful design, featuring terraces that present breathtaking mountain vistas. Inside, a flat-screen TV, a well-equipped kitchen, and a private bathroom with a shower await, alongside a wardrobe for personal storage.

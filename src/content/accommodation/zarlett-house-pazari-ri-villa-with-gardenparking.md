@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property, a smoke-free environment located just 1.8 km from the historical Former Residence of Enver Hoxha, invites guests into a world of tranquility and relaxation. The ground-floor villa is thoughtfully designed with two spacious bedrooms, ensuring a restful night's sleep for all. The living space is enhanced by a flat-screen TV equipped with streaming services, perfect for unwinding after a day of sightseeing. A fully equipped kitchen, complete with modern appliances such as an oven, microwave, washing machine, fridge, and stovetop, allows guests the freedom to prepare their own meals, adding a touch of home to their travel experience.

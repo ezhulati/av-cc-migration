@@ -16,6 +16,7 @@ amenities:
   - "Breakfast"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel's accommodations are a testament to its commitment to guest comfort and satisfaction. Each air-conditioned room is thoughtfully equipped with modern amenities such as a desk, coffee machine, fridge, minibar, safety deposit box, flat-screen TV, and a private balcony. The attention to detail extends to the private bathrooms, which feature showers, and the provision of bed linen and towels in every room. Select rooms also boast captivating city views, adding an extra layer of enjoyment to the stay.

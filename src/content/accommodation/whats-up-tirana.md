@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment complex stands out not only for its strategic location but also for its array of amenities designed to cater to the needs of the modern traveler. Each unit is a haven of comfort, equipped with air conditioning, a flat-screen TV complete with streaming services, a microwave, and a coffee machine, ensuring that guests feel right at home. The attention to detail extends to the bathrooms, which are fitted with showers, hair dryers, and even bidets, adding a touch of luxury to the stay. For those who appreciate the outdoors, select rooms feature balconies offering breathtaking mountain views, while all guests can enjoy the communal sun terrace.

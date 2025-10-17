@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and light, boasting air-conditioned interiors that include two well-appointed bedrooms, a fully equipped kitchen complete with an oven and microwave, and a cozy seating area perfect for unwinding after a day of exploration. The inclusion of two modern bathrooms, each with a walk-in shower, adds a layer of privacy and convenience, while the balcony presents an opportunity to soak in the city's dynamic atmosphere from the comfort of your temporary home.

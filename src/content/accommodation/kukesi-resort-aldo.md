@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each guest room at Kukësi Resort Aldo is a haven of comfort and convenience, equipped with a desk, air conditioning, and a flat-screen TV for a touch of home. The private bathrooms are well-appointed with a bidet and complimentary toiletries, adding to the room's overall sense of luxury. For those desiring a bit more, selected rooms boast balconies, offering a private outdoor space to relax and take in the surroundings.

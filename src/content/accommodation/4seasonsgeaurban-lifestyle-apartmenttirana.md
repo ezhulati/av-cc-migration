@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Restaurant"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring air conditioning for those warm Tirana days. It boasts a bedroom that promises restful nights, a living room designed for relaxation, and a dining area perfect for enjoying meals prepared in the fully equipped kitchen, complete with a stovetop. Guests will appreciate the thoughtful inclusion of bed linen, towels, and housekeeping services, making for a hassle-free stay.

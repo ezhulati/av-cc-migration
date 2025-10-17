@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Perched at a strategic distance from notable landmarks, the apartment is a mere 44 km from the historic Skanderbeg Square and 48 km from the scenic Dajti Ekspres Cable Car, making it an ideal base for explorers. Moreover, the Rock of Kavaje is conveniently situated just 5.6 km away, with Mali I Robit Beach further enhancing the locale's appeal at a distance of 1.8 km.

@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Restaurant"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Set against a backdrop of lush gardens, each accommodation at Blerina's Agritourism Concept is thoughtfully designed to ensure guests' comfort and convenience. Air-conditioned units feature cozy seating areas, flat-screen TVs equipped with streaming services, and private bathrooms outfitted with walk-in showers, bathrobes, and slippers for a touch of luxury. Select units boast balconies, offering guests a private slice of nature's beauty, while all are furnished with coffee machines, crisp bed linen, and plush towels to enhance the stay.

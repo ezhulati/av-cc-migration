@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property boasts two well-appointed bedrooms and a bathroom, complete with all the necessary linens and towels. The living space is enhanced by a flat-screen TV equipped with streaming services, a dining area ready for memorable meals, and a fully stocked kitchen for those who love to cook. Perhaps the most enchanting feature is the terrace, offering serene garden views - an ideal backdrop for both relaxation and outdoor dining. The added benefit of a private entrance ensures that guests enjoy their stay with an extra layer of privacy.

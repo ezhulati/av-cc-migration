@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Parking"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Anja's Place are treated to the convenience of modern amenities within a smoke-free environment, ensuring a comfortable and refreshing stay. Each room is equipped with a flat-screen TV, complemented by the inclusion of towels and bed linen for an added touch of home. The provision of air conditioning and heating systems in each accommodation guarantees a pleasant atmosphere, regardless of the season, while the private bathrooms enhance the sense of privacy and exclusivity.

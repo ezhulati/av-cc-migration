@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a spacious layout that includes two bedrooms, a living room that opens up to breathtaking sea views from a private balcony, and a fully equipped kitchen with modern amenities such as a toaster and a fridge. The inclusion of a flat-screen TV ensures entertainment is always at hand, while the convenience of an in-apartment bathroom equipped with a bidet adds to the comfort. For those who appreciate the finer details, towels and bed linen are thoughtfully provided, enhancing the home-away-from-home experience.

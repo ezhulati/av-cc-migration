@@ -13,6 +13,7 @@ location: "Gjirokastër"
 amenities:
   - "WiFi"
   - "Parking"
+ratingWords: "Fair"
 ---
 
 This charming guest house provides the convenience of complimentary private parking and ensures guests stay connected with free WiFi throughout their stay.

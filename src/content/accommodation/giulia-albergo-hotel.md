@@ -14,6 +14,7 @@ amenities:
   - "Breakfast"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each air-conditioned room at Giulia Albérgo Hotel is a testament to comfort and convenience, equipped with a desk, a safety deposit box, a flat-screen TV, a balcony for personal retreats, and a private bathroom complete with a bidet. The addition of a fridge in every room adds an extra layer of convenience for guests.

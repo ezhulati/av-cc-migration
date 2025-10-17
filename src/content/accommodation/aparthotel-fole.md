@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at ApartHotel Folé are a testament to modern living, equipped with air conditioning, fully outfitted kitchens, flat-screen TVs, and private bathrooms that include thoughtful touches like slippers and hair dryers. For those sensitive to noise, select units offer the added benefit of soundproofing, ensuring a peaceful stay. Storage needs are effortlessly met with the inclusion of wardrobes in every unit.

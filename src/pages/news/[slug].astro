@@ -1,0 +1,30 @@
+---
+/**
+ * News Article Page
+ * Dynamic routing for individual news articles
+ */
+
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import NewsLayout from '../../layouts/NewsLayout.astro';
+
+export async function getStaticPaths() {
+  const news = await getCollection('news', ({ data }) => {
+    // Only include published articles
+    return data.status === 'publish' && (!data.language || data.language === 'en');
+  });
+
+  return news.map(newsArticle => ({
+    params: { slug: newsArticle.slug },
+    props: { newsArticle },
+  }));
+}
+
+interface Props {
+  newsArticle: CollectionEntry<'news'>;
+}
+
+const { newsArticle } = Astro.props;
+---
+
+<NewsLayout newsArticle={newsArticle} />

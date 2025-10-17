@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment doesn't skimp on amenities, providing guests with complimentary WiFi, a flat-screen TV for entertainment, a washing machine for convenience, and a fully equipped kitchen that includes a toaster for those morning delights.

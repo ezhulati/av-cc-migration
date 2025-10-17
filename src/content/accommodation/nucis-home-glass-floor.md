@@ -9,6 +9,7 @@ category: "null"
 starRating: 3
 rating: 3
 accommodationType: "apartment"
+ratingWords: "Fair"
 ---
 
 The apartment doesn't stop at visual delights; it comprises two well-appointed bedrooms and a fully equipped bathroom, complete with a bidet, ensuring a comfortable stay for all who visit. For those keen on exploring the local culture and natural surroundings, the area offers ample opportunities for fishing, promising an engaging experience for outdoor enthusiasts.

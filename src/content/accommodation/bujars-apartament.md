@@ -17,6 +17,7 @@ amenities:
   - "Sea View"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This smoke-free property is also a stone's throw away from the natural beauty of Lake Skadar, located 46 km away, making it an ideal spot for nature enthusiasts and those looking to unwind in a tranquil setting. The apartment itself boasts a well-appointed balcony that offers breathtaking sea views, providing a perfect backdrop for a morning coffee or an evening relaxation session.

@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment doesn't just offer a place to stay; it provides a living experience. With a spacious layout that includes a bedroom, a well-appointed kitchen stocked with modern appliances such as an oven, microwave, washing machine, toaster, and fridge, guests can enjoy the comforts of home while on the road. The inclusion of a flat-screen TV with satellite channels ensures entertainment is always at hand, while the outdoor dining area invites guests to enjoy meals with a view.

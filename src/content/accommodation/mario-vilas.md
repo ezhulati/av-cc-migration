@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Tirana"
 amenities:
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 Guests at Mario Vila's can start their day with a diverse breakfast selection, catering to Italian, vegetarian, and halal preferences, ensuring a satisfying beginning to any day.

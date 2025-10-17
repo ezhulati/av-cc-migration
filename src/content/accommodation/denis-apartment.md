@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a generously sized apartment that boasts a balcony, providing a perfect setting for morning coffees or evening relaxation. The accommodation includes a cozy bedroom, a comfortable living room for unwinding, and a well-equipped kitchen for those who enjoy preparing their meals. Entertainment needs are catered to with a flat-screen TV, making it easy to stay in and enjoy a quiet night.

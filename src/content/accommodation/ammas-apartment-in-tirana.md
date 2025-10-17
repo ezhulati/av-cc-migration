@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property stands out for its proximity to cultural hotspots, including the House of Leaves, Reja - The Cloud, and the National Museum of History Albania, ensuring that guests have plenty to explore right at their doorstep. Moreover, the iconic Skanderbeg Square is merely a 1.3 km stroll away, making it an ideal base for both leisure and exploration.

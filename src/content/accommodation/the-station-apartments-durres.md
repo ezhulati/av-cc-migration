@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to modern accommodations equipped with air conditioning, ensuring a restful retreat from the bustling city life. Each room boasts a private bathroom, complemented by the inclusion of a washing machine and a flat-screen TV, catering to the needs of the contemporary traveler. The availability of free WiFi throughout the property ensures that guests remain connected and entertained during their stay.

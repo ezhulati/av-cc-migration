@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "WiFi"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment offers a serene retreat with its well-appointed bedroom, a cozy living room, and a fully equipped kitchen that includes modern amenities such as a dishwasher and a kettle. The bathroom is equipped with a bidet and comes with complimentary slippers, ensuring guests enjoy both comfort and convenience. To enhance the stay, towels and bed linen are thoughtfully provided, emphasizing the property's attention to detail.

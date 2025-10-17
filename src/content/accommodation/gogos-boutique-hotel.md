@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Air Conditioning"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 Each room in the hotel is a haven of comfort, featuring air conditioning, complimentary WiFi, and private bathrooms, guaranteeing privacy and ease for every guest. The attention to detail is evident in the provision of crisp bed linen and fluffy towels, enhancing the overall experience. For those desiring a little extra, select rooms offer balconies, providing a perfect nook for morning reflections or evening relaxation.

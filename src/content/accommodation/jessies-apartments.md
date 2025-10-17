@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a living space enhanced by a flat-screen TV with streaming services, and a balcony that presents captivating city views. The inclusion of a fully equipped kitchen, complete with a microwave and fridge, alongside a washing machine, ensures a home-away-from-home experience. The convenience of two bathrooms, each with a bidet, adds to the comfort of the stay. Notably, the apartment is designed to be non-smoking and soundproof, providing a peaceful retreat in the bustling city.

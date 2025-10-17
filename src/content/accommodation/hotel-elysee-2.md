@@ -18,6 +18,7 @@ amenities:
   - "Spa"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Hotel Elysee is thoughtfully equipped with modern amenities to ensure a restful stay. Guests can enjoy the luxury of air-conditioned spaces, complimentary Wi-Fi, a well-stocked minibar, cable TV, and a work desk. The en-suite bathrooms are appointed with a shower, complimentary toiletries, and a hairdryer, adding to the comfort of your stay.

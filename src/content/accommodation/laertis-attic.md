@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Spanning a generous layout, the apartment boasts two well-appointed bedrooms and two bathrooms, ensuring ample space for guests. The inclusion of bed linen, towels, a flat-screen TV with cable channels, and a dining area enhances the living experience. The heart of this accommodation, however, is its fully equipped kitchen and the adjoining balcony that presents breathtaking mountain views. Here, guests can savor their meals in an outdoor dining setting, enveloped by the city's picturesque landscape. The feature of a private entrance underscores the property's commitment to privacy and exclusivity.

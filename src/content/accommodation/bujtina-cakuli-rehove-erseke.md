@@ -13,6 +13,7 @@ location: "Lac"
 amenities:
   - "Breakfast"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Accommodations at BUJTINA CAKULI are thoughtfully designed with guest comfort in mind, each unit boasting a private bathroom to ensure privacy and convenience. The promise of a delightful breakfast awaits every morning, offering a taste of local specialties and cheeses that cater to the culinary curious. Additionally, the on-site coffee shop and the option for packed lunches add a layer of ease for guests planning to explore the surrounding area.

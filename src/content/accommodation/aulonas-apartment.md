@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and comfort, featuring two well-appointed bedrooms, a cozy living room, a fully equipped kitchen for those who prefer to prepare their own meals, and a bathroom. The inclusion of a flat-screen TV ensures that entertainment is never far away. Guests can also enjoy serene garden views, adding a touch of tranquility to their stay.

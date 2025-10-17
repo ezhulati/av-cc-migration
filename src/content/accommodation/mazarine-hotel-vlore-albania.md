@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel goes above and beyond to ensure a seamless stay, offering free WiFi throughout the property and a coveted private beach area for those looking to soak up the sun in a more secluded setting. The 24-hour front desk and additional services such as airport transfers and car rental options underscore the hotel's commitment to guest satisfaction.

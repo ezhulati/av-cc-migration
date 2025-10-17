@@ -17,6 +17,7 @@ amenities:
   - "Pool"
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. The inclusion of air conditioning, free private parking, and complimentary WiFi ensures that every stay is as comfortable as it is convenient.

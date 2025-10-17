@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This well-appointed apartment boasts a serene bedroom, a fully equipped kitchen for those who love to cook, and a modern bathroom, ensuring a stay that combines the comforts of home with the luxury of travel. Guests can unwind in the living space, enhanced by a flat-screen TV, perfect for relaxing evenings in.

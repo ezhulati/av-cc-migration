@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in spacious living, featuring two well-appointed bedrooms, a modern bathroom, and the inclusion of essential amenities such as bed linen, towels, and a flat-screen TV. The fully equipped kitchen allows guests the freedom to prepare meals as they wish, while the terrace offers serene garden views for moments of tranquility. Importantly, the accommodation maintains a strict non-smoking policy, catering to the comfort and well-being of all guests.

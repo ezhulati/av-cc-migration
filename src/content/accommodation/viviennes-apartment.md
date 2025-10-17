@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, boasting a balcony that offers tranquil street views, ideal for guests seeking a peaceful retreat. With three well-appointed bedrooms, a cozy living room equipped with a TV, and a fully equipped kitchen featuring modern amenities such as a dishwasher and an oven, guests are guaranteed a stay that marries comfort with convenience. The inclusion of a bathroom equipped with a bidet adds a touch of luxury to the overall experience.

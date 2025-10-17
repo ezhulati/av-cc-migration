@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious retreat, featuring two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and an equipped kitchen that includes an oven and a toaster, catering to guests' culinary needs. The inclusion of a bathroom with a bidet adds a touch of convenience to the stay. Additionally, the terrace offers a space for relaxation and contemplation of the city's rhythm from a comfortable distance.

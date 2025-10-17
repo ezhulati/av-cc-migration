@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The highlight of J's House Shkoder is undoubtedly its spacious apartment, which boasts a balcony that presents guests with tranquil garden views. The apartment is well-appointed, featuring two cozy bedrooms, a welcoming living room equipped with a satellite flat-screen TV for entertainment, an equipped kitchen for those who prefer to prepare their meals, and a bathroom that offers both a walk-in shower and a bath for relaxation. The outdoor dining area invites guests to savor their meals against the backdrop of captivating city views, enhancing the dining experience. It's important to note that the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.

@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Bar"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 Following a thoughtful renovation in 2016, Villa Gjecaj's accommodations boast simplicity and warmth, with hardwood floors and wooden furnishings throughout. Each room, equipped with a private en-suite bathroom and shower, promises a restful stay. Select rooms also offer balconies, providing breathtaking views of the surrounding valley.

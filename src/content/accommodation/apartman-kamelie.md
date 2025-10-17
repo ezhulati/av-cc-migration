@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and light, boasting a generous layout that includes a bedroom, a living area with a flat-screen TV, and a balcony that invites guests to bask in the breathtaking coastal ambiance. The kitchen is thoughtfully equipped with modern appliances such as a microwave, toaster, washing machine, fridge, and stovetop, ensuring that every culinary need is met. For added convenience, towels and bed linen are readily provided, enhancing the home-away-from-home feel.

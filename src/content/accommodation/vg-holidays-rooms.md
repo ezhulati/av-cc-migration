@@ -14,6 +14,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Every accommodation unit is a testament to comfort and convenience, featuring a terrace that presents breathtaking sea views, ensuring guests wake up to the soothing sounds and sights of the ocean. The interiors are thoughtfully equipped with a flat-screen TV, a kitchenette that caters to culinary needs, and a private bathroom complete with a bidet and plush bathrobes, adding a touch of luxury to the stay. For added convenience, bed linen is provided in all units, ensuring a restful night's sleep.

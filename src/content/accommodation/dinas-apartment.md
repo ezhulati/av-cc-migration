@@ -13,6 +13,7 @@ location: "Himare"
 amenities:
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to well-appointed units, each boasting a flat-screen TV for entertainment needs. The attention to detail extends to the private bathrooms equipped in every unit, ensuring privacy and comfort. Select rooms elevate the experience further with balconies, offering a breath of fresh air and select units presenting mesmerizing sea views, adding a touch of tranquility to the stay.

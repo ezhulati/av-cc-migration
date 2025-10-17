@@ -12,6 +12,7 @@ accommodationType: "villa"
 amenities:
   - "Restaurant"
   - "Bar"
+ratingWords: "Fair"
 ---
 
 Security is paramount at Guest-Room Zoi&Teri, with full-day security and private entrances for each accommodation, ensuring peace of mind for every guest. The on-site restaurant caters to a variety of tastes and dining preferences, serving dinner, lunch, brunch, and high tea in a family-friendly atmosphere.

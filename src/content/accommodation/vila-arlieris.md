@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Vila Arli&Eris is thoughtfully equipped with modern amenities including a desk, a flat-screen TV, air conditioning, and for those chilly evenings, heating facilities. The private bathrooms come with a shower and a hair dryer, ensuring guests feel at home. Select rooms elevate the experience further with the addition of a terrace, perfect for soaking in the surrounding tranquility.

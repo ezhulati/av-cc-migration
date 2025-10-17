@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern living, boasting air conditioning for those warm Tirana days, two cozy bedrooms for a restful night's sleep, a flat-screen TV for entertainment, and a fully equipped kitchen to cater to culinary needs. The inclusion of complimentary private parking and WiFi adds to the seamless experience offered at Sk_Grand Apartment, ensuring that guests' stays are as hassle-free as possible.

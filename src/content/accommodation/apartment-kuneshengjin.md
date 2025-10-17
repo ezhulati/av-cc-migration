@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Located in the heart of Shëngjin, this property stands out for its easy access to the pristine Laguna Park Beach, just 3 km away, and the historic Rozafa Castle Shkodra, situated 41 km from the premises, making it an ideal spot for both relaxation and exploration.

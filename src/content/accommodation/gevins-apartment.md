@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This one-bedroom apartment doesn't just offer a place to stay; it provides a fully immersive living experience. Equipped with air conditioning, free WiFi, and a flat-screen TV for entertainment, guests can enjoy all the comforts of home. The inclusion of a washing machine and a fully equipped kitchen with a fridge and stovetop caters to those preferring home-cooked meals, adding a touch of personalization to the dining experience. The provision of towels and bed linen ensures a hassle-free stay, allowing guests to travel lighter.

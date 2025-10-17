@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Designed with the modern traveler in mind, The Grandfather's Room features air-conditioned accommodations equipped with a fully functional kitchen, cozy seating, and dining areas, alongside a television for entertainment. The rooms are soundproofed, ensuring a peaceful stay, and come with thoughtful touches such as complimentary fruits, adding a personal feel to the experience.

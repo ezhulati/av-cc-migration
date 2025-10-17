@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property prides itself on providing a smoke-free environment complemented by the luxury of private parking on the premises, along with complimentary WiFi access for all guests. The charm of Golem Beach is less than 1 km away, making Armand's Apartment an ideal base for beach lovers and explorers alike.

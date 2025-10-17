@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern comfort and convenience, boasting a well-appointed bedroom, a bathroom stocked with essential linens and towels, and a living space that includes a flat-screen TV and a dining area. The heart of this accommodation, however, is its fully equipped kitchen and the adjoining balcony, offering breathtaking sea views that promise to elevate your dining experience. The addition of a patio, serving as an alternative outdoor dining area, underscores the apartment's commitment to providing spaces that are both functional and inviting.

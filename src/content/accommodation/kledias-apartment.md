@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property distinguishes itself with its spacious, air-conditioned two-bedroom apartment, which comes complete with a balcony that boasts breathtaking sea views. The living room is designed for relaxation, featuring a flat-screen TV for entertainment. The kitchen doesn't disappoint either, being fully equipped with modern appliances including a dishwasher and a fridge, catering to all culinary needs. Additionally, the convenience of a bathroom equipped with a hairdryer adds to the thoughtful amenities provided.

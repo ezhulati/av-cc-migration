@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will appreciate the ease of access to both free WiFi and on-site parking, a rarity in such a sought-after location, all without any additional charge. The apartment's commitment to a smoke-free environment further enhances the quality of stay, providing a fresh and healthy living space for all visitors.

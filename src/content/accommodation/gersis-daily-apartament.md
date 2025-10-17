@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This modern apartment doesn't just boast an ideal location; it comes fully equipped to meet the needs of contemporary travelers. Guests will find themselves at home with amenities such as air conditioning, free private parking, and the essential 24-hour front desk service. The convenience of complimentary WiFi throughout the stay ensures that guests remain connected, whether for leisure or work.

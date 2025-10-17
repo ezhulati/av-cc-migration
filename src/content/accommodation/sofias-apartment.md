@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to comfort and convenience, boasting a well-equipped kitchenette that caters to the culinary needs of its guests. The view from the property is a picturesque scene of lush gardens, providing a tranquil backdrop for a relaxing stay. Further afield, the Early Christian Basilica and the bustling Port Ohrid are both within a 40 km radius, offering a glimpse into the region's rich historical tapestry.

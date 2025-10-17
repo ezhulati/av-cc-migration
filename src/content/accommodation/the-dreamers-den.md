@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This non-smoking property distinguishes itself with generous living spaces, featuring two well-appointed bedrooms that promise restful nights. Entertainment and connectivity are guaranteed with the inclusion of a flat-screen TV and complimentary WiFi, ensuring guests stay connected with the world or unwind as they please. The Dreamer's Den goes above and beyond in providing a home-away-from-home experience with a fully equipped kitchen. Complete with a dishwasher, oven, washing machine, microwave, and fridge, it invites guests to craft their meals with ease. The thoughtful provision of towels and bed linen further exemplifies the apartment's commitment to guest comfort.

@@ -12,6 +12,7 @@ accommodationType: "villa"
 location: "Tirana"
 amenities:
   - "Air Conditioning"
+ratingWords: "Fair"
 ---
 
 For those intrigued by Albania's rich history, the H&A Guest House serves as an ideal base, situated 47 km from the intriguing Former Residence of Enver Hoxha and equally close to the heart of the country's capital at Skanderbeg Square. Nature and history enthusiasts alike will appreciate the proximity to Rinia Park and the House of Leaves, both 46 km from the property, offering a glimpse into Albania's vibrant culture and past.

@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a spacious apartment that boasts a private balcony, offering a tranquil spot to unwind with a view. The accommodation includes a comfortable bedroom, a cozy living room for relaxation, and a well-equipped kitchen, catering to all the needs of modern travelers.

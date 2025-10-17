@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The accommodation boasts a well-appointed bedroom, a fully equipped kitchen for those who enjoy preparing their meals, and a modern bathroom, ensuring a stay that is as comfortable as it is convenient. Guests can unwind on the private balcony, a perfect spot for morning coffees or evening relaxation, all while staying connected with complimentary WiFi and benefiting from the convenience of free private parking.

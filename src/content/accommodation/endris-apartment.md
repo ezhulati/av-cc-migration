@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a spacious, air-conditioned haven complete with a welcoming balcony and the essential modern amenity of free WiFi. The non-smoking environment ensures a clean and healthy stay for all guests.

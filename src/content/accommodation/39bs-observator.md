@@ -10,6 +10,7 @@ starRating: 3
 rating: 3
 accommodationType: "apartment"
 location: "Tirana"
+ratingWords: "Fair"
 ---
 
 For those interested in exploring local landmarks, 39°Bs Observator is conveniently close to several notable attractions, including Tanners' Bridge, Clock Tower Tirana, and the enchanting Et'hem Bey Mosque. Further afield, the Rock of Kavaje stands 43 km away, offering an adventurous day trip for those inclined.

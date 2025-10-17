@@ -17,6 +17,7 @@ amenities:
   - "Mountain View"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to well-appointed accommodations that boast air conditioning for those warm days, a desk for any writing or work needs, a flat-screen TV for entertainment, and a private bathroom stocked with fresh bed linen and towels. Each room extends an invitation to the outdoors with a balcony offering breathtaking mountain views, while select units present a captivating cityscape. The added luxury of a patio in all rooms ensures that guests can immerse themselves in the tranquil surroundings at their leisure.

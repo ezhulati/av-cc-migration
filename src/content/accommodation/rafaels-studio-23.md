@@ -13,6 +13,7 @@ location: "Himare"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation features a well-appointed bedroom, a kitchenette equipped with everything needed for a self-sufficient stay, and a bathroom. Entertainment needs are catered to with the inclusion of a flat-screen TV, ensuring guests have a pleasant and comfortable stay.

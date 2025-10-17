@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on communal spaces that foster interaction, including a shared kitchen and lounge, perfect for guests looking to mingle or simply relax in a cozy environment. The apartment itself is a testament to thoughtful accommodation, boasting a balcony that offers sweeping views of the city. Designed to cater to the needs of modern travelers, the space includes a bedroom, a living area with a flat-screen TV, and a fully equipped kitchen with an oven and fridge. The inclusion of a private bathroom, complete with a shower, towels, and bed linen, adds to the comfort of the stay.

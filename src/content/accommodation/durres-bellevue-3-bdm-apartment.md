@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Boasting a generous layout, the apartment features three well-appointed bedrooms, a cozy living room, and a balcony that opens up to breathtaking sea vistas. Entertainment is guaranteed with a flat-screen TV, while the fully equipped kitchen, complete with an oven and microwave, invites guests to prepare their meals just the way they like. The presence of two bathrooms, each with a bidet, along with the provision of towels and bed linen, adds to the convenience. An outdoor dining area further enhances the appeal, offering an ideal spot for memorable meals under the sky.

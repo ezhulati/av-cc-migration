@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, featuring two separate bedrooms, a bathroom, and a living room equipped with a flat-screen TV, ensuring ample space for relaxation and entertainment. The inclusion of a fully equipped kitchen with a dining area and oven adds a touch of home, allowing guests the option to prepare their meals. Complimentary WiFi and the provision of towels and bed linen further enhance the comfort of stay.

@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Restaurant"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Hotel Restaurant Natyra e Qetë are thoughtfully designed to ensure a restful stay. Each room is furnished with a desk, air conditioning, and a flat-screen TV for guests' entertainment. The private bathrooms are well-appointed with a bidet and complimentary toiletries, adding to the comfort of the stay. For those seeking a little extra, select rooms boast a patio, offering a perfect spot to relax and soak in the surroundings. Convenience is further enhanced with the inclusion of a fridge in every unit, ensuring refreshments are always at hand.

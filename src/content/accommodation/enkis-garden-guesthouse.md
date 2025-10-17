@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The accommodations at Enki's Garden Guesthouse are thoughtfully designed with guest comfort in mind, featuring essential amenities such as a wardrobe, and complemented by the inclusion of bed linen and towels in every unit. The presence of a shared kitchen and a sun-drenched terrace further enhances the homely atmosphere, allowing guests to prepare their meals or unwind in the open air.

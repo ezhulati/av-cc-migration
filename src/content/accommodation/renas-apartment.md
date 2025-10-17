@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned haven not only promises a serene stay with its garden views but also ensures privacy and ease with private parking on-site and complimentary WiFi. The apartment is a strict non-smoking zone, maintaining a fresh and inviting atmosphere for all guests. Its proximity to Skanderbeg Square, a mere 4.3 km, positions it perfectly for guests eager to explore the city's vibrant heart.

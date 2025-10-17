@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment distinguishes itself with modern amenities, including air conditioning, a lift for easy access, and the indispensable convenience of an ATM. Guests can enjoy the luxury of seamless connectivity with complimentary WiFi available throughout the premises, making it an ideal spot for both leisure and business travelers.

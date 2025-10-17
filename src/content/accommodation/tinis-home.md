@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Spanning two bedrooms, the interior of Tini's Home is thoughtfully designed to cater to the needs of its guests. The kitchen is well-equipped with an oven and toaster, complementing the cozy living space that features a flat-screen TV and comfortable seating area. The presence of two bathrooms, each with a shower, underscores the property's commitment to guest comfort. The outdoor dining area invites guests to enjoy their meals amidst the serene backdrop of Vuno, while the fireplace provides a cozy refuge on cooler evenings. The added benefit of a private entrance enhances the sense of privacy and exclusivity.

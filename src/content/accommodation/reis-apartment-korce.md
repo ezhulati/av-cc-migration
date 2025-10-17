@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern living, featuring air conditioning for those warm summer days. It houses 2 separate bedrooms, a cozy living room, and a fully equipped kitchen complete with a minibar, catering to all culinary needs. The inclusion of 2 bathrooms adds an extra layer of privacy and convenience for guests. Entertainment is readily available with a flat-screen TV, ensuring that leisure time is well spent.

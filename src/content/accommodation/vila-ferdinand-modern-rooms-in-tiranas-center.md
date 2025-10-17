@@ -16,6 +16,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on offering well-appointed, air-conditioned accommodations that cater to the modern traveler's needs. Each room is equipped with essential amenities such as a desk, coffee machine, fridge, safety deposit box, flat-screen TV, and a private bathroom with a shower. The commitment to guest comfort is evident in the provision of free WiFi throughout the property, with select rooms also boasting a balcony for those who appreciate outdoor relaxation. The inclusion of bed linen and towels in all rooms underscores the hotel's attention to detail and dedication to providing a hassle-free stay.

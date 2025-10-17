@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Lake Drive Rooms&Apartments are treated to an array of amenities designed to enhance their stay. The establishment boasts a shared lounge perfect for relaxation, alongside the practicality of a shared kitchen. Security is prioritized with full-day monitoring, ensuring a worry-free experience. Connectivity is seamless, with complimentary WiFi accessible throughout the premises, and for those arriving by car, private parking is available for a nominal fee.

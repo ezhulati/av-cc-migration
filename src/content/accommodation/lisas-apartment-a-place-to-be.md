@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment, located a mere 42 km from the iconic Skanderbeg Square, boasts modern amenities that cater to the needs of contemporary travelers. Guests can enjoy the convenience of free WiFi, a flat-screen TV for entertainment, and a washing machine, making it ideal for both short and long stays. The fully equipped kitchen, complete with a fridge, invites guests to prepare their meals just the way they like them, offering a taste of home in a new city.

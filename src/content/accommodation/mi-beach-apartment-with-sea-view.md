@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 The apartment is thoughtfully designed to cater to all needs, featuring a cozy seating area, a dining space, and a fully equipped kitchen complete with a dishwasher. For added comfort, towels and bed linen are readily provided in this self-catering accommodation, ensuring a home-away-from-home experience. The inclusion of a private bathroom with a bidet adds a touch of luxury to the overall stay.

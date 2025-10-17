@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Rooftop Privé are treated to breathtaking city and mountain views from their very own balconies, a feature that significantly enhances the stay experience. The apartments are designed with the modern traveler in mind, boasting cable flat-screen TVs, well-equipped kitchens, and private bathrooms complete with bidets, slippers, and hair dryers. The inclusion of dishwashers, ovens, microwaves, coffee machines, and kettles in each unit adds a layer of convenience for guests, allowing them to feel right at home.

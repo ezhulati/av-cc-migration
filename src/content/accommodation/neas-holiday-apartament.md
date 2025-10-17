@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home with its air-conditioned spaces, complemented by complimentary WiFi and on-site parking, ensuring guests enjoy both comfort and convenience without additional charges. The presence of a lift and round-the-clock security underscores the property's commitment to guest safety and ease of access.

@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Vila F&M Ksamil are thoughtfully designed to cater to the needs of families and groups alike, with select units boasting fully equipped kitchens for those who enjoy the comforts of home-cooked meals. Each room is a haven of comfort, featuring air conditioning, a flat-screen TV for entertainment, and a private bathroom with a walk-in shower, promising a refreshing start to each day. The added convenience of a desk in every unit makes it an ideal choice for guests who may need to attend to work or personal matters during their stay.

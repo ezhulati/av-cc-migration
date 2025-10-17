@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Shtëpi përdhese are treated to complimentary WiFi and on-site parking, adding to the ease of their visit. The property is a mere 10 km away from the intriguing Rock of Kavaje, while those interested in historical and political landmarks might appreciate the proximity to the Former Residence of Enver Hoxha, located 38 km from the holiday home.

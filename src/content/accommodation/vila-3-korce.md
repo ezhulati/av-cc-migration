@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on its round-the-clock front desk service, alongside a convenient currency exchange facility, catering to the needs of international travelers. Each accommodation unit at Vila 3 Korçë is a testament to comfort and elegance, boasting air conditioning for those warm summer days, and a terrace that invites guests to unwind in privacy. Entertainment and connectivity are guaranteed with the inclusion of a flat-screen TV in every room, while the private bathrooms come equipped with a bidet and hair dryer, adding a touch of home-like comfort.

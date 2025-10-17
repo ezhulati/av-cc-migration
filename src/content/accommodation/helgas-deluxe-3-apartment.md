@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property doesn't just offer a place to stay; it provides a living experience. The apartment boasts a generous layout, featuring two bedrooms, a living room, and a balcony that invites guests to unwind in a spacious setting. The inclusion of a well-equipped kitchen caters to those who prefer the comforts of home-cooked meals, while a flat-screen TV ensures entertainment needs are met.

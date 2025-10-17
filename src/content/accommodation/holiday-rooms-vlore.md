@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Tirana"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property boasts modern amenities, including a flat-screen TV in each room, along with the provision of towels and bed linen, ensuring a stay that marries the comforts of home with the elegance of hotel living. For those seeking moments of tranquility, the guest house's garden offers a peaceful retreat, inviting guests to unwind amidst lush surroundings.

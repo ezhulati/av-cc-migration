@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at VILLA 24 Sarandë is designed to enhance the guest experience, featuring a terrace that offers serene garden views. The living spaces are thoughtfully arranged with a seating area and a satellite flat-screen TV, ensuring relaxation is always within reach. The fully equipped kitchen, complete with a dishwasher and an oven, allows guests the freedom to prepare their meals just the way they like. The attention to detail extends to the private bathrooms, which are outfitted with a bidet and slippers for that extra touch of home. Moreover, every unit opens up to a balcony that presents an outdoor dining area and captivating city views, with bed linen and towels provided for added convenience.

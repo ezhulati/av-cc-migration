@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property distinguishes itself with its array of family rooms, each presenting a terrace that frames the breathtaking sea views. Inside, guests are treated to the modern comforts of a satellite flat-screen TV, a kitchen equipped with an oven, fridge, and essential kitchenware, and a private bathroom featuring a walk-in shower and hair dryer. The convenience of free private parking and complimentary WiFi further enhances the guest experience, ensuring a stay that is as carefree as it is comfortable.

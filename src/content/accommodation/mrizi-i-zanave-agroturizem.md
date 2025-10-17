@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Restaurant"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 Surrounded by lush gardens, the property boasts a selection of accommodations, each thoughtfully designed with guests' comfort in mind. From rooms equipped with essential amenities such as air conditioning, free WiFi, and private bathrooms complete with bidets and slippers, to select units that feature balconies offering breathtaking views of the surrounding mountains and gardens, Mrizi i Zanave Agroturizëm caters to a variety of preferences.

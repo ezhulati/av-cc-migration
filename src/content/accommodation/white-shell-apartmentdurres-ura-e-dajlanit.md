@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The White Shell Apartment doesn't just offer a place to stay; it provides a home away from home. The accommodation boasts a tastefully decorated bedroom, a modern bathroom stocked with fresh bed linen and towels, and a living area equipped with a flat-screen TV for those evenings in. The dining area and fully equipped kitchen cater to all culinary needs, whether it's a quick breakfast or a leisurely dinner. Adding to the charm is a balcony that overlooks a tranquil garden, offering a peaceful retreat after a day of exploration.

@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on offering round-the-clock front desk service, unwavering security, and a hassle-free currency exchange, catering to the needs of international and local visitors alike. Each room is a haven of comfort, equipped with air conditioning, a flat-screen TV boasting satellite channels, a refrigerator, and a kettle for those moments of relaxation. The addition of a hot tub, slippers, and a wardrobe in every unit elevates the standard of guest comfort. Bathrooms are private and well-appointed with showers and hair dryers, ensuring a refreshing start or end to the day. Select rooms go a step further, featuring fully equipped kitchens complete with kitchenware, perfect for those who prefer a home-cooked meal even while traveling.

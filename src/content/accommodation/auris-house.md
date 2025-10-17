@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Boasting a spacious balcony that presents breathtaking sea views, the apartment is thoughtfully designed to cater to the needs of modern travelers. It features a cozy bedroom, a welcoming living room equipped with a flat-screen TV for entertainment, and an equipped kitchen that includes a toaster and a fridge, allowing guests to prepare their meals with ease. The inclusion of a walk-in shower in the bathroom adds a touch of luxury to the overall experience.

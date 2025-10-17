@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Strategically positioned to offer easy access to notable landmarks such as Reja - The Cloud, Rinia Park, and Saint Paul Cathedral, E&K Cozy Place ensures guests are always just a stone's throw away from the city's cultural heartbeat. Moreover, its proximity to the historical Former Residence of Enver Hoxha adds a layer of intrigue to its location.

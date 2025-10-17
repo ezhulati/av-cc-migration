@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa itself is a testament to spacious living, featuring four generously sized bedrooms, a cozy living room, a kitchen equipped with everything needed for a home-cooked meal, and four well-appointed bathrooms. Guests can enjoy the added luxury of a flat-screen TV and relish the tranquil garden views that promise a soothing backdrop to their stay.

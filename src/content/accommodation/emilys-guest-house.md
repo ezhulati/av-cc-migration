@@ -13,6 +13,7 @@ location: "Vlorë"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment is thoughtfully designed with a single bedroom, complemented by a fully equipped kitchen for those who enjoy the comforts of home-cooked meals while traveling.

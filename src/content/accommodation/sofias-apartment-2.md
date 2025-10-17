@@ -13,6 +13,7 @@ location: "Pogradec"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, boasting a cozy living room equipped with a flat-screen TV, perfect for unwinding after a day of exploration. The inclusion of a fully equipped kitchenette offers guests the convenience of home-cooked meals, adding a personal touch to the stay. The accommodation also features a well-appointed bathroom, ensuring a comfortable and hassle-free experience.

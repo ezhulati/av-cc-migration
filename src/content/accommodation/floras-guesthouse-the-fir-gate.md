@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Restaurant"
   - "Spa"
+ratingWords: "Fair"
 ---
 
 The accommodations at Flora's Guesthouse are thoughtfully designed with the comfort of families in mind, featuring spacious family rooms. Each unit is equipped with a desk, ensuring that guests have a comfortable space for writing or working. The private bathrooms are well-appointed with a bidet and slippers, adding a touch of luxury to the stay. Moreover, the convenience of complimentary WiFi allows guests to stay connected with the world or plan their next adventure in the area.

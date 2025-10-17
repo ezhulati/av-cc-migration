@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, featuring two well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for those who enjoy crafting their meals, and a bathroom. Entertainment needs are met with a flat-screen TV, ensuring guests have access to their favorite shows and movies during their stay. Beyond the interior comforts, guests are treated to tranquil garden views, adding a touch of serenity to their stay.

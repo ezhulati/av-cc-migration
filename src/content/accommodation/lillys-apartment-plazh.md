@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a balcony that opens up to breathtaking sea views, creating a serene backdrop for your stay. Inside, guests will find a well-appointed space featuring a single bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen is equipped with a fridge and stovetop, perfect for preparing meals, and the bathroom includes a bidet. For added comfort, towels and bed linen are readily provided, ensuring a home-away-from-home experience in a smoke-free environment.

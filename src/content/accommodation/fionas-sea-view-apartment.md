@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious retreat, equipped with two bedrooms and a bathroom, along with essential amenities such as bed linen, towels, and a flat-screen TV with satellite channels. The dining area and a fully equipped kitchen cater to the needs of those who prefer home-cooked meals, while the terrace offers an idyllic setting for meals outdoors, with garden views adding to the ambiance. The added convenience of a private entrance underscores the accommodation's dedication to privacy and exclusivity.

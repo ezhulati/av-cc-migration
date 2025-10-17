@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This one-bedroom apartment doesn't skimp on amenities. It boasts a cozy living room complete with a flat-screen TV equipped with streaming services for those evenings when guests prefer a quiet night in. The kitchenette is thoughtfully equipped with a fridge and minibar, catering to the needs of those who enjoy the flexibility of preparing their own meals. Additionally, the inclusion of slippers adds a touch of homey comfort to the bathroom facilities.

@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Tirana"
 amenities:
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The property boasts air-conditioned family rooms, ensuring a comfortable stay for guests of all ages. For those who prefer to dine in, select units come equipped with a well-appointed kitchen, featuring an oven, microwave, and fridge, catering to the culinary needs of guests.

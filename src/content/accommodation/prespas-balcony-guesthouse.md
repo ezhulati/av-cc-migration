@@ -15,6 +15,7 @@ amenities:
   - "Breakfast"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Each accommodation at Prespa's Balcony Guesthouse is thoughtfully designed to enhance the guest experience, boasting patios that open up to breathtaking views of mountains, lakes, or the meticulously maintained garden. The presence of a fully equipped kitchen, complete with a dishwasher and an oven, adds a touch of home, while the balcony with an outdoor dining area invites guests to dine amidst nature, overlooking the inner courtyard. Comfort is further ensured with shared bathroom facilities, soft slippers, and crisp bed linen provided in every unit.

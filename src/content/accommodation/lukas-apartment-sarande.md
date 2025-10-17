@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just boast a coveted location; it invites guests into a world of comfort and convenience. The interior reveals a generously sized living space adorned with a balcony that presents breathtaking sea views. It houses two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes modern amenities such as an oven and a toaster. The inclusion of a bathroom with a luxurious hot tub, complemented by towels and bed linen, adds a touch of elegance to the stay. For those with a penchant for sweet treats, the thoughtful provision of chocolates or cookies is sure to delight.

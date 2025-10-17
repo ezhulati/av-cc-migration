@@ -18,6 +18,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Mamma's Apartments are treated to a suite of amenities designed to make their stay as comfortable as possible. Each apartment boasts air conditioning, ensuring a cool retreat from the Mediterranean warmth. The convenience of complimentary private parking and WiFi access throughout the property adds to the hassle-free experience.

@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The highlight of Aneta's Beach House is undoubtedly its spacious apartment. Designed to cater to the needs of modern travelers, the apartment features two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and an equipped kitchen complete with a dishwasher and an oven. The inclusion of a hot tub in the bathroom adds a touch of luxury, ensuring guests can unwind in style. For convenience, towels and bed linen are readily available in the apartment. Additionally, the accommodation prides itself on offering added privacy and tranquility through a private entrance and soundproofing.

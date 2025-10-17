@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guesthouse A&F prides itself on its thoughtfully designed rooms, each boasting a balcony that presents breathtaking mountain views, setting the stage for a tranquil retreat. The rooms are equipped with modern amenities including a satellite flat-screen TV, a dining area, and a well-appointed kitchen, ensuring guests feel right at home. The private bathrooms come with a shower and complimentary toiletries, adding a touch of convenience to your stay. Moreover, each unit features a patio with an outdoor dining area, perfect for enjoying city views while savoring a meal.

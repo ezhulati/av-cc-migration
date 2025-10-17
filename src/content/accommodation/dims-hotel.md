@@ -17,6 +17,7 @@ amenities:
   - "Restaurant"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel prides itself on offering a range of facilities designed to cater to the needs of every guest. From the tranquility of its garden to the practicality of free private parking, DIM'S Hotel goes above and beyond to create a welcoming atmosphere. The addition of a terrace and an on-site restaurant elevates the guest experience, allowing for moments of relaxation and culinary delight without the need to venture far.

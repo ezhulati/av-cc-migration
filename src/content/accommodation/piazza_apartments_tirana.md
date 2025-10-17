@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and light, boasting a balcony that offers captivating city views. It is well-appointed with a bedroom, a living room that invites relaxation, a flat-screen TV for entertainment, and a kitchen equipped with modern appliances including a dishwasher and an oven. The inclusion of a bathroom with a bidet, alongside a private entrance that welcomes guests with fruits, chocolates, or cookies, adds a personal touch to the stay. Notably, the accommodation is designed to be allergy-free, ensuring a comfortable experience for all guests.

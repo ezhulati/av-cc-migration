@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This one-bedroom apartment doesn't just boast a strategic location; it also offers a sanctuary of comfort with its air-conditioned spaces, ensuring a cool retreat from the bustling city life. Guests are treated to breathtaking views of both the mountain and the city, providing a serene backdrop to their stay. The apartment is a smoke-free environment, ensuring a clean and healthy space for all guests.

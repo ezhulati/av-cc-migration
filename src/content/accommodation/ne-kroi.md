@@ -16,6 +16,7 @@ amenities:
   - "Breakfast"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Në Kroi are thoughtfully designed with the modern traveler in mind, featuring air-conditioned rooms that boast a harmonious blend of functionality and comfort. Each room is equipped with a fully furnished kitchen, including a dishwasher and microwave, ensuring guests feel right at home. The attention to detail extends to a safety deposit box, a cable flat-screen TV, ironing facilities, a desk, and a cozy seating area, making each stay as comfortable as possible. The private bathrooms are well-appointed with showers, bathrobes, slippers, and hair dryers, complemented by the provision of bed linen and towels, enhancing the overall guest experience.

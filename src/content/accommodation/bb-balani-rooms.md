@@ -13,6 +13,7 @@ location: "Shkodër"
 amenities:
   - "Air Conditioning"
   - "Restaurant"
+ratingWords: "Fair"
 ---
 
 Upon arrival, visitors are greeted by a private entrance that ushers them into a world where relaxation meets luxury. The guest house prides itself on offering a welcoming atmosphere where guests can unwind with a selection of wine or champagne and fresh fruits, setting the tone for a memorable stay. Each room is thoughtfully equipped with air conditioning, heating, and a private bathroom, catering to the needs of modern travelers seeking comfort in every detail.

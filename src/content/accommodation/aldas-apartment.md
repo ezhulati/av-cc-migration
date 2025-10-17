@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to thoughtful design and comfort. Guests are greeted with a spacious layout that includes a bedroom, a living room equipped with a flat-screen TV, and a balcony that offers serene garden views - an ideal spot for morning coffees or quiet evenings. The kitchen, equipped with a fridge and kitchenware, caters to those who prefer home-cooked meals, while the private bathroom with a shower adds to the convenience.

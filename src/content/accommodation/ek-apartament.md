@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven featuring a balcony that invites guests to bask in the breathtaking surroundings. It houses two bedrooms, a cozy living room, and a well-equipped kitchen, ensuring a stay that feels like home. Entertainment is readily available with a flat-screen TV for those moments of indoor relaxation.

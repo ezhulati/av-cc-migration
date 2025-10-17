@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Bar"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 Each room at Lida's House is thoughtfully designed with guest comfort in mind, featuring air conditioning, soundproofing, and a private bathroom equipped with a bidet. For those who prefer to cater to their culinary needs, select units come with a well-equipped kitchen, including an oven, microwave, and stovetop, complemented by a fridge.

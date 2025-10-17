@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with the luxury of a private entrance, ensuring a seamless transition into comfort and privacy. The apartment is designed to cater to families, featuring spacious family rooms that promise a comfortable stay for all.

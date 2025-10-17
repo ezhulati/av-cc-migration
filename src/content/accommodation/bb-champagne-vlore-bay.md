@@ -20,6 +20,7 @@ amenities:
   - "Sea View"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests arriving by car will appreciate the complimentary private parking, a rarity in such a prime location. The property doesn't just stop at offering convenience; it extends its hospitality to include a range of facilities designed to enhance the stay of every guest. From the on-site restaurant serving a variety of delectable dishes to the availability of free WiFi across the premises, B&B Champagne, Vlore Bay ensures a seamless and connected stay. The inclusion of a lift and room service further underscores the property's commitment to guest comfort and satisfaction.

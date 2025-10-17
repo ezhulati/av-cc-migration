@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Bar"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Beyond the comfort of the rooms, the guesthouse features private bathrooms equipped with showers, complemented by picturesque views of the surrounding garden and mountains, adding a touch of tranquility to the stay.

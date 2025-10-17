@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Xhaferaj's Rooms are treated to accommodations that boast not only quiet street views but also modern amenities designed to ensure a comfortable stay. Each unit is outfitted with air conditioning, a flat-screen TV featuring satellite channels, a refrigerator, and a kettle, alongside essentials such as a shower, complimentary slippers, and a desk. The soundproofing in all units guarantees a peaceful night's sleep, while private bathrooms, hair dryers, and bed linens add to the convenience.

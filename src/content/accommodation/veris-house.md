@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Veri's House are treated to the convenience of complimentary private parking and seamless connectivity with free WiFi, making it an ideal choice for both leisure and business travelers. The commitment to a smoke-free environment further enhances the appeal of this residence, located merely moments away from the historical Former Residence of Enver Hoxha.

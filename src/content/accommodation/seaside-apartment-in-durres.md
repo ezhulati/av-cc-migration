@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This generously sized apartment is designed to cater to the needs of modern travelers, boasting a well-appointed bedroom, a sleek flat-screen TV, and a kitchen equipped with all the essentials, including an oven, microwave, washing machine, and fridge. The inclusion of a balcony adds a touch of luxury, allowing guests to enjoy their morning coffee or evening drinks with a view.

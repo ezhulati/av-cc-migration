@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment in this collection boasts complimentary WiFi access, ensuring connectivity is never an issue for guests. The variety in accommodations caters to diverse needs and preferences, with select units featuring balconies, cozy seating areas, and televisions for entertainment. For those who prefer dining in, options with dining areas, refrigerators, and dining tables are available, and some units even include a well-equipped kitchenette for a more home-like experience. The convenience of private bathrooms equipped with showers, complimentary toiletries, and towels adds to the comfort of the stay.

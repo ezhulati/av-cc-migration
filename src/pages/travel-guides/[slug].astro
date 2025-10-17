@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import TravelGuideLayout from '../../layouts/TravelGuideLayout.astro';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('travel-guides', ({ data }) => {
+    return data.status === 'publish' || !data.status;
+  });
+
+  return guides.map(guide => ({
+    params: { slug: guide.data.slug || guide.slug },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+---
+
+<TravelGuideLayout guide={guide} />

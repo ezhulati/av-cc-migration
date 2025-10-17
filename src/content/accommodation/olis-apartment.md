@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Air Conditioning"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each guest room is a testament to thoughtful luxury, featuring modern amenities such as air conditioning, a microwave, and a refrigerator. Morning routines are elevated with the inclusion of a coffee machine, while the presence of a bidet and hairdryer in the bathrooms adds a touch of sophistication. For those needing to attend to business or personal matters, a desk is provided, alongside ample storage solutions with a wardrobe. Entertainment needs are met with a flat-screen TV, making every stay both relaxing and enjoyable.

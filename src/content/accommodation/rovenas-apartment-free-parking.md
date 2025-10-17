@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home. Equipped with air conditioning, complimentary WiFi, and private parking, guests are ensured a comfortable and convenient stay. The apartment boasts a modern design with a fully equipped kitchen, a dining area, and a cozy bedroom, complemented by bed linen and towels. The inclusion of a flat-screen TV with streaming services ensures entertainment is always at hand.

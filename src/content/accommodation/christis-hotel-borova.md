@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The commitment to guest convenience is evident through the provision of room service and a 24-hour front desk, complemented by the seamless connectivity of complimentary WiFi accessible throughout the premises. For those looking to unwind with a beverage, the snack bar presents an inviting option.

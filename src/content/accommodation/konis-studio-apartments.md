@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Parking"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at KONI's Studio Apartments are designed with the modern traveler in mind. Each apartment is equipped with essential amenities, including air conditioning for those warm Tirana days, a flat-screen TV for evening entertainment, and a private bathroom featuring a bidet and hair dryer for added convenience. For guests desiring a breath of fresh air without stepping out, select units boast balconies offering a glimpse of the city's dynamic rhythm.

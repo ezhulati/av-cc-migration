@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Villa Maçi is a testament to thoughtful design, boasting balconies that invite the outside in, fully equipped kitchens ready for culinary adventures, and cozy dining areas perfect for intimate meals. Entertainment is never far with flat-screen TVs available in each unit, while the inclusion of private bathrooms equipped with bidets and hair dryers adds a touch of home-like comfort. For those sensitive to noise, the soundproofing of all units ensures a peaceful retreat from the bustling city life.

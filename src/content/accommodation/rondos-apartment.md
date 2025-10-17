@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Lac"
 amenities:
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 This generously sized apartment features two well-appointed bedrooms, a cozy living room, and a kitchen equipped with everything needed for a home-cooked meal. Additionally, the presence of a fireplace enhances the homely atmosphere, making it an ideal retreat for those looking to unwind.

@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The penthouse itself is a study in spacious luxury, offering a generously sized bedroom, two well-appointed bathrooms, and an array of modern conveniences such as a flat-screen TV equipped with streaming services, a dining area, and a fully equipped kitchen. The terrace, presenting breathtaking sea views, and a balcony equipped with outdoor furniture, offer serene spots for guests to unwind while enjoying the mountainous landscape.

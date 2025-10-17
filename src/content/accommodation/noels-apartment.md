@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests stepping into this spacious apartment are greeted with a tastefully furnished living space that opens onto a balcony offering panoramic views of the sea. The apartment features two well-appointed bedrooms, a modern living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen with an oven and fridge, catering to all culinary needs. The presence of a clean, functional bathroom with a shower enhances the comfort of the stay. Emphasizing a healthy living environment, the apartment maintains a strict non-smoking policy.

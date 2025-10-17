@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests stepping into Eldi's Apartments are greeted by a generously sized living space that boasts a modern aesthetic. The apartment features two cozy bedrooms, a living area designed for relaxation, and a balcony that invites guests to unwind in the open air. Culinary enthusiasts will appreciate the well-equipped kitchen, complete with a minibar, ensuring a home-away-from-home experience. Entertainment needs are catered to with a flat-screen TV, perfect for leisurely evenings in.

@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The guesthouse features a spacious apartment layout, including 2 bedrooms, a living room, a fully equipped kitchen, and a bathroom, all designed with the guest's comfort in mind. Entertainment is readily available through the provision of a flat-screen TV, catering to the needs of those looking for a relaxing night in. Importantly, the entire accommodation maintains a non-smoking policy, promoting a clean and healthy environment.

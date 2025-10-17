@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a window to the vibrant life of Tirana with its city and serene inner courtyard views, all while ensuring guests remain a comfortable distance of 43 km from the Rock of Kavaje. For those interested in Albania's rich history, the proximity to the Former Residence of Enver Hoxha, just 1.5 km away, makes for an intriguing visit.

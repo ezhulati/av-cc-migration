@@ -19,6 +19,7 @@ amenities:
   - "Sea View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and comfort, featuring air-conditioned interiors that open up to a private balcony, offering breathtaking sea views. Guests can enjoy the convenience of free WiFi throughout their stay, ensuring they remain connected and entertained. The living space is thoughtfully designed, boasting a fully equipped kitchen with modern appliances including an oven and a toaster, making in-apartment dining a breeze. The inclusion of a flat-screen TV and a cozy seating area allows for relaxing evenings in, while the bathroom comes well-appointed with a bidet, complementing the home-like comfort with a touch of luxury.

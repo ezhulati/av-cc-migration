@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will find themselves in a tastefully appointed apartment featuring a single bedroom, a bathroom, and a fully equipped kitchen that caters to all culinary needs. Entertainment is readily available with the inclusion of a flat-screen TV, making each moment inside as engaging as those spent exploring the city. Emphasizing a commitment to health and comfort, the accommodation maintains a strict non-smoking policy throughout.

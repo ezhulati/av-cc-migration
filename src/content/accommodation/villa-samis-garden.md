@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Air Conditioning"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The villa itself is a haven of comfort, featuring air conditioning for those warm Albanian afternoons, two cozy bedrooms for restful nights, and a living room designed for relaxation. The kitchen comes fully equipped, boasting a fridge and stovetop, perfect for those who enjoy a home-cooked meal even while traveling.

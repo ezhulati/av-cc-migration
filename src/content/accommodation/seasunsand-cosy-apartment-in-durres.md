@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern living, featuring a spacious layout that includes one bedroom, a bathroom, and a balcony that offers breathtaking sea views. The attention to detail is evident in the provision of bed linen, towels, and a flat-screen TV equipped with streaming services, catering to the entertainment needs of all guests. The dining area and fully equipped kitchen further enhance the home-away-from-home experience, allowing guests to prepare and enjoy meals at their leisure. It's important to note that this is a non-smoking accommodation, ensuring a clean and fresh environment for all.

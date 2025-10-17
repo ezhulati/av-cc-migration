@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with the convenience of private check-in and check-out services, alongside a currency exchange facility, ensuring a seamless start to their stay. The apartment itself is a testament to thoughtful hospitality, boasting a spacious terrace that presents breathtaking mountain views. Inside, the holiday home is equipped with two cozy bedrooms, a welcoming living room, and a satellite flat-screen TV for entertainment. The kitchen is fully equipped, catering to guests' culinary needs, while the bathroom is complete with a bidet and shower, ensuring a comfortable stay.

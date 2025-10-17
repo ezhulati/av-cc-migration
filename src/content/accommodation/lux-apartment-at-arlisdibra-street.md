@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a spacious haven with two bedrooms, ensuring ample room for guests. Entertainment and connectivity are at guests' fingertips, thanks to the inclusion of a flat-screen TV with satellite channels and complimentary WiFi that spans the entire property. The fully equipped kitchen, complete with a dishwasher and an oven, alongside a convenient washing machine, adds a touch of home, allowing guests to maintain their daily routines with ease. The bathroom doesn't disappoint either, featuring a walk-in shower that promises a refreshing start or end to the day. For added comfort, towels and bed linen are readily available, ensuring a hassle-free stay.

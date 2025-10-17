@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, boasting a balcony that offers serene garden views. It is well-appointed with two bedrooms, a cozy living room, and a flat-screen TV for entertainment needs. The kitchen comes fully equipped, including a fridge, catering to those who prefer home-cooked meals. Additionally, the presence of a bathroom equipped with either a bath or shower adds to the convenience factor. It's important to note that the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.

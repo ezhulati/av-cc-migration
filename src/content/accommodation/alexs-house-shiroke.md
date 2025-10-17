@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa itself is a testament to comfort and luxury, featuring air conditioning for those warm summer days. It is thoughtfully designed with a separate bedroom, ensuring privacy and tranquility. The inclusion of bathrobes adds a touch of elegance to the experience. The living spaces are designed to foster relaxation, with a cozy seating area and a living room that invites guests to unwind. Entertainment is readily available through a flat-screen TV equipped with streaming services, perfect for evenings in.

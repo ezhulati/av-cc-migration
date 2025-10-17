@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is thoughtfully designed to cater to the needs of its guests, featuring a cozy bedroom, a welcoming living room complete with a flat-screen TV, and a fully equipped kitchen that includes a dining area. The convenience of having a bathroom equipped with a bidet and a washing machine adds to the comfort of the stay, while the provision of towels and bed linen ensures a hassle-free experience.

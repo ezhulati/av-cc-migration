@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "24-hour Reception"
+ratingWords: "Fair"
 ---
 
 The accommodations at Maxola's Dream Orikum are thoughtfully designed, featuring air conditioning, private bathrooms, and ample wardrobe space, catering to the needs of modern travelers. Those staying at the hotel can immerse themselves in the local area's natural beauty, with hiking and cycling among the popular activities available.

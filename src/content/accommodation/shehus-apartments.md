@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to comfort and privacy, featuring air conditioning for those warm Mediterranean days. It includes one separate bedroom, a cozy living room, and a fully equipped kitchen with modern amenities such as an oven and fridge, ensuring guests feel right at home. The inclusion of a balcony, which serves as an enchanting outdoor dining area, allows for memorable meals against a backdrop of sea and mountain views. The commitment to a non-smoking environment and the provision of a private entrance underscore the property's dedication to guest privacy and comfort.

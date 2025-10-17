@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This beachfront gem boasts a well-appointed 1-bedroom apartment that is both non-smoking and soundproof, ensuring a peaceful retreat for all guests. The living space is equipped with a satellite flat-screen TV, a washing machine, and a fully equipped kitchen complete with a minibar, catering to all the comforts of home. The addition of free WiFi allows guests to stay connected, whether for leisure or work.

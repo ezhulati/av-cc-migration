@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Eagle's Nest is a haven of comfort, featuring air conditioning, a dining area, and a cozy seating area equipped with a satellite flat-screen TV for those moments of relaxation. The attention to detail is evident in the provision of a private bathroom in all units, complete with a bidet and hair dryer, ensuring a home-away-from-home experience. For guests who prefer to prepare their own meals, selected rooms boast a fully equipped kitchen, including an oven, adding a touch of convenience to their stay. Moreover, the inclusion of bed linen and towels in each unit underscores the complex's commitment to guest comfort.

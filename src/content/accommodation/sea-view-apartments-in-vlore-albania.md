@@ -21,6 +21,7 @@ amenities:
   - "Sea View"
   - "Mountain View"
   - "Laundry"
+ratingWords: "Fair"
 ---
 
 Guests at Sea View Apartments are treated to an array of facilities designed to enhance their stay. The property boasts a terrace and barbecue facilities for those leisurely evenings under the stars, complemented by the assurance of full-day security. An added convenience is the inclusion of an elevator, ensuring easy access to all levels of the property, alongside an outdoor fireplace that adds a touch of warmth and ambiance.

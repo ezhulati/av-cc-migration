@@ -13,6 +13,7 @@ location: "Korçë"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment boasts two well-appointed bedrooms, a fully equipped kitchen with modern appliances including an oven and a toaster, and a cozy seating area perfect for unwinding after a day of exploration. Entertainment needs are catered to with a flat-screen TV, while the inclusion of a bathroom with a bidet, along with towels and bed linen, adds to the convenience. Notably, the apartment is designed to be non-smoking and soundproof, providing a peaceful retreat in the heart of the city.

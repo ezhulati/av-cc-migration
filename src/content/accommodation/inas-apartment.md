@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern living, boasting air-conditioned spaces that promise a cool retreat from the Mediterranean warmth. Guests will find themselves at home in a space that features a bedroom designed for relaxation, a living area equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that caters to culinary adventures. The commitment to a non-smoking environment ensures a fresh and inviting atmosphere throughout the stay.

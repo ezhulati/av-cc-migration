@@ -18,6 +18,7 @@ amenities:
   - "Breakfast"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon entering the Doro City, guests are greeted with a modern and luxurious ambiance that extends to each of its well-appointed rooms. Designed with the contemporary traveler in mind, the accommodations boast air conditioning, complimentary Wi-Fi, and a host of amenities including a cozy seating area, a functional desk, and a flat-screen TV for your entertainment needs. The private bathrooms are equipped with a shower and hairdryer, ensuring a comfortable stay.

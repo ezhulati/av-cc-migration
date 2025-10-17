@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Çoçja Boutique Hotel are thoughtfully designed with the modern traveler in mind. Each air-conditioned room boasts free WiFi and a private bathroom, ensuring a stay that combines comfort with connectivity. For those requiring a space to work or study, rooms are equipped with desks, and entertainment needs are met with flat-screen TVs. Select rooms also feature balconies, offering a private outdoor space to enjoy the surrounding views. Convenience is further enhanced with in-room fridges and the availability of airport transfers, making both arrivals and departures a breeze. For the explorers, a bicycle rental service opens the door to local adventures.

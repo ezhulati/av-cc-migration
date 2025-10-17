@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, boasting a terrace that offers breathtaking mountain vistas. Inside, guests will find two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV for entertainment, and a kitchen that comes fully equipped with a microwave and fridge, ensuring all the comforts of home. The inclusion of a modern bathroom with a bidet, along with the provision of towels and bed linen, adds to the thoughtful amenities provided.

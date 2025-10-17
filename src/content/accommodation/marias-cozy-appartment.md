@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself, having undergone recent renovations, presents a modern and welcoming ground-floor accommodation. It boasts a well-appointed bedroom, a living space equipped with a flat-screen TV for entertainment, and a fully equipped kitchen. The kitchen is a highlight for those who prefer the comforts of home-cooked meals while traveling, featuring a dishwasher, oven, washing machine, fridge, and stovetop. Additionally, the provision of a private entrance enhances the sense of privacy and exclusivity for guests.

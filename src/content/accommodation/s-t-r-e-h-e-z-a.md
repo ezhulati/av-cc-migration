@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Following a recent renovation, S t r e h ë z a invites guests into a world of modernity and ease. The apartment boasts a generous layout, featuring a well-appointed bedroom, a living area with a flat-screen TV equipped with streaming services, and a balcony that offers captivating city views. The kitchen doesn't disappoint either, being fully equipped with a fridge, stovetop, washing machine, and all necessary kitchenware, ensuring that guests feel right at home. Complimentary towels and bed linen further enhance the comfort of the stay.

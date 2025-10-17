@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to thoughtful living spaces, featuring a bedroom that promises restful nights, a fully equipped kitchen for those who love to cook, and two bathrooms, adding an extra layer of convenience for families or groups. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have access to their favorite shows and movies after a day of exploration.

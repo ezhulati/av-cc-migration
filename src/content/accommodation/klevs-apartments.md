@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Klev's Apartments are treated to a seamless experience, with complimentary WiFi and on-site parking enhancing the ease of their visit. The apartment itself is a testament to modern living, boasting a bedroom that merges comfort with style, a flat-screen TV equipped with streaming services for entertainment at any hour, and a fully equipped kitchen that includes an oven and a fridge. The presence of a washing machine adds a layer of convenience for longer stays, while the option to request towels and linens ensures a hassle-free visit.

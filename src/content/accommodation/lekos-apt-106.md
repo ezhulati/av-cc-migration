@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The interior of Leko's Apt 106 is thoughtfully designed to cater to the needs of modern travelers. Guests will find a cozy bedroom waiting for them, alongside a well-equipped kitchen featuring an oven and a toaster for those moments when dining in feels just right. The living space is complemented by a flat-screen TV and a comfortable seating area, perfect for unwinding after a day of exploration. The bathroom, equipped with a bidet, along with the provision of towels and bed linen, adds an extra layer of comfort to the stay.

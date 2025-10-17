@@ -20,6 +20,7 @@ amenities:
   - "Mountain View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests of Seashell Art Decor Studio Modern are treated to the luxury of complimentary private parking, alongside the added peace of mind provided by full-day security and the convenience of an elevator. The apartment itself is a haven of modern amenities, including complimentary WiFi, ensuring guests stay connected. The living space is adorned with a flat-screen TV for entertainment, a washing machine for longer stays, and a fully equipped kitchen complete with an oven and fridge, catering to all culinary needs.

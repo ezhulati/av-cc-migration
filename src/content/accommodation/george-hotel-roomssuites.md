@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at George Hotel Rooms&Suites is a haven of comfort, equipped with air conditioning, ample storage, and a flat-screen TV for those moments of relaxation. The private bathrooms, complete with fresh bed linen and towels, ensure a private and serene retreat. For guests desiring a glimpse of the city's rhythm, terraces offer captivating views, while select accommodations boast a fully equipped kitchen, including an oven, microwave, and stovetop, catering to every culinary need.

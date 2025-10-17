@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment distinguishes itself with its spacious, air-conditioned interiors, boasting a welcoming balcony that invites guests to enjoy their own private slice of Tirana's ambiance. Complimentary WiFi and private parking are just the tip of the iceberg in terms of the amenities offered, ensuring a hassle-free stay for every guest.

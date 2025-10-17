@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, boasting two bedrooms and a bathroom, complete with bed linen and towels for a comfortable stay. Entertainment is readily available with a flat-screen TV equipped with streaming services, ensuring guests have access to their favorite shows and movies. The dining area and fully-equipped kitchen cater to both quick meals and elaborate dinners, with the added option of a barbecue for those who enjoy outdoor cooking. The balcony, offering views of the city, serves as the perfect backdrop for morning coffees or evening relaxation.

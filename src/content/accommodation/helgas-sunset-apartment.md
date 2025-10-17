@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This modern apartment is equipped with air conditioning and offers a serene retreat with its well-appointed bedroom, a flat-screen TV equipped with streaming services for entertainment, and a fully equipped kitchen. The kitchen amenities, including an oven, microwave, washing machine, toaster, and fridge, cater to the needs of guests preferring home-cooked meals. Emphasizing a smoke-free environment, Helga's Sunset ensures a pleasant stay for all guests.

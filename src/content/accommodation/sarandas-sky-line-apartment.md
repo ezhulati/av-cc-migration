@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment is thoughtfully designed to cater to the needs of its guests, featuring air conditioning for those warm Mediterranean days, alongside the luxury of a private balcony where one can enjoy the serene views of Sarandë. Convenience is further enhanced with complimentary private parking and WiFi, ensuring a hassle-free stay. Emphasizing a smoke-free environment, Saranda's Sky Line Apartment prioritizes the comfort and well-being of its guests.

@@ -19,6 +19,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a panoramic terrace view of the mountains, complemented by the added luxury of a casino and complimentary bicycles for an immersive local experience. The convenience of private parking and complimentary WiFi enhances the stay, ensuring seamless connectivity and ease of travel.

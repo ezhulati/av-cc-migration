@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, boasting a terrace that invites guests to relax, a cozy bedroom for a restful night's sleep, a living room designed for leisure, and a well-equipped kitchen complete with a minibar for those midnight cravings. Entertainment is readily available with the inclusion of a flat-screen TV, making it an ideal setting for both short and long stays.

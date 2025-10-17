@@ -13,6 +13,7 @@ location: "Gjirokastër"
 amenities:
   - "Air Conditioning"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Boutique Hotel Musée is a testament to comfort and style, equipped with air conditioning, a flat-screen TV boasting cable channels, a refrigerator, and a kettle for those morning or evening refreshments. The attention to detail extends to the bathrooms, which are equipped with a bidet, complimentary toiletries, and a hairdryer, ensuring a stay that combines luxury with the comforts of home. Moreover, guests can enjoy captivating city views right from their rooms, further enhancing the experience with the added touch of provided bed linen and towels.

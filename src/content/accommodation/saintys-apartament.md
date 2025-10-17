@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Inside, the apartment unfolds as a spacious retreat, featuring two well-appointed bedrooms designed to accommodate the modern traveler. Entertainment is readily available through a flat-screen TV equipped with streaming services, ensuring guests are never far from their favorite shows or movies. The heart of the home, a fully equipped kitchen, awaits those who delight in culinary exploration, offering an oven, microwave, washing machine, toaster, and fridge. Meals can be savored in an outdoor dining area, where guests are treated to tranquil garden views, adding a touch of nature to their dining experience.

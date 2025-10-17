@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Parking"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel prides itself on providing a seamless stay with complimentary WiFi and private parking for all guests. Accommodations at Kalemi's Beachside Hotel are thoughtfully designed with air conditioning and televisions in every room, ensuring a comfortable and relaxing environment. The inclusion of private bathrooms, equipped with either a bath or shower, adds to the convenience and privacy of the guest experience.

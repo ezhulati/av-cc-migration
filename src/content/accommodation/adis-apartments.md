@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself offers a refreshing, smoke-free environment, complete with air conditioning for those warm Mediterranean days. It features a separate bedroom, ensuring privacy and a peaceful night's sleep. The inclusion of a fully equipped kitchenette allows guests the freedom to prepare their own meals, adding a touch of home comfort to their stay. Entertainment needs are also met with the provision of a flat-screen TV, perfect for unwinding after a day of adventure.

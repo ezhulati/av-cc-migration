@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a thoughtfully designed space, featuring one bedroom, a fully equipped kitchenette, and a modern bathroom, ensuring a stay that combines home comfort with the luxury of a holiday escape. Entertainment needs are well catered for with the inclusion of a flat-screen TV, complemented by the convenience of complimentary WiFi throughout the property, making it easy for guests to stay connected or plan their next day's adventure.

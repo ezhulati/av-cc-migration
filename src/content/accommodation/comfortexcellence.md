@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This exceptional apartment not only boasts a serene terrace and the luxury of air conditioning but also ensures guests enjoy the ease of complimentary private parking and WiFi connectivity throughout their stay. Emphasizing a smoke-free environment, Comfort, Excellence is conveniently positioned just 9.3 km from the historical Former Residence of Enver Hoxha.

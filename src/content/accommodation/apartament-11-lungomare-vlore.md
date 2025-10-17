@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Boasting a strategic location, the property is a short distance from the city's historical heart, with Kuzum Baba and Independence Square located approximately 4 kilometers away, making it an ideal base for exploring the rich cultural tapestry of Vlorë.

@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment is a haven of space and light, featuring a bedroom that promises restful nights. The living area is equipped with a flat-screen TV, perfect for unwinding after a day of exploration. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with an oven and microwave, allowing for the preparation of home-cooked meals. The provision of towels and bed linen adds a layer of convenience for guests.

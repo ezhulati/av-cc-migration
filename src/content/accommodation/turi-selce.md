@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 The guest house itself is a haven of tranquility, boasting a lush garden where guests can unwind and air-conditioned rooms that promise a restful night's sleep. Each accommodation comes with its own balcony, providing breathtaking mountain views that are sure to inspire. The convenience of complimentary private parking adds to the seamless experience.

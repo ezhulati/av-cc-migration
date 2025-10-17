@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property boasts well-appointed rooms, each featuring air conditioning to ensure a comfortable stay regardless of the season. Guests will appreciate the convenience of complimentary private parking and WiFi, making stays both hassle-free and connected. The accommodations are thoughtfully designed with a fully equipped kitchen, including a microwave and coffee machine, ensuring that home-cooked meals are never out of reach. Entertainment needs are met with a flat-screen TV, and the inclusion of a private bathroom with a bath adds an extra layer of privacy and comfort. Select units further benefit from a private entrance, offering an enhanced sense of exclusivity.

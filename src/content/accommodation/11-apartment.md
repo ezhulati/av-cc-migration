@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The 1+1 Apartment itself is a haven of space and light, boasting air-conditioned interiors that are thoughtfully designed for a relaxing stay. Guests will appreciate the convenience of a fully equipped kitchen, complete with an oven and fridge, making self-catering a breeze. The living area, featuring a flat-screen TV and comfortable seating, provides a cozy retreat after a day of exploration. The inclusion of a modern bathroom with a bidet adds to the apartment's appeal, ensuring a comfortable and hassle-free stay.

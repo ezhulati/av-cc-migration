@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Tirana"
 amenities:
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring a well-equipped kitchen with an oven and fridge, a cozy seating area for relaxation, and a modern bathroom with a walk-in shower. Additional comforts include soundproofing for a peaceful night's sleep, a bidet, and thoughtful touches like bed linen, towels, and regular housekeeping service.

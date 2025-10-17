@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This generously sized apartment boasts a private balcony, providing guests with a tranquil spot to unwind. The interior includes a cozy bedroom, a welcoming living area, and a kitchen equipped with all the essentials for a home-cooked meal. Entertainment needs are met with the inclusion of a flat-screen TV, making evenings in a pleasure. Importantly, for the health and comfort of all guests, smoking is not permitted within the accommodation.

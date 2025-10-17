@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Boasting a well-appointed balcony that offers breathtaking mountain views, the cottage features two cozy bedrooms, a welcoming living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen complete with an oven and fridge. The inclusion of a bathroom with a bidet adds a touch of convenience, while the option to request towels and linens ensures a hassle-free stay. The highlight of Darmo's Cottage is undoubtedly its charming fireplace, promising warm, memorable evenings.

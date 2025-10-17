@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Breakfast"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Accommodations at B&B La Quiete are thoughtfully appointed to ensure a comfortable stay. Each unit comes equipped with essential amenities such as a wardrobe, a private bathroom complete with a shower and hair dryer, and complimentary WiFi access. For an added touch of luxury, select rooms also feature a terrace, offering guests a private slice of paradise. Comfort is further enhanced with the provision of quality bed linen and towels in every room.

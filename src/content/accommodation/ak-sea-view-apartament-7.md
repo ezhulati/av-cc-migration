@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 Upon entering the apartment, guests are greeted with a thoughtfully designed space that includes one bedroom, a fully equipped kitchen, and a bathroom, all enhanced by the luxury of air conditioning. The addition of a balcony allows for uninterrupted views of the sea, providing a serene backdrop for morning coffees or evening relaxation.

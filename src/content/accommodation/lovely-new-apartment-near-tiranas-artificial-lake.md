@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned haven is a mere 1.8 km from the bustling Skanderbeg Square, ensuring guests are never far from the heart of the city's vibrant life. For those arriving by car, the convenience of private parking on-site is a welcome feature, along with complimentary WiFi that keeps guests connected throughout their stay. Emphasizing a healthy living environment, the property maintains a strict non-smoking policy.

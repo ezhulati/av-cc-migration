@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is distinguished by its commitment to guest services, featuring a complimentary shuttle service, round-the-clock front desk assistance, and seamless connectivity with free WiFi accessible throughout the premises. For those who prefer a smoke-free environment, this property ensures a clean and fresh stay, located merely a short stroll from Sarande Main Beach.

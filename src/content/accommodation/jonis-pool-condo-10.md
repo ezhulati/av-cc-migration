@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Following a recent renovation, Joni's Pool Condo 10 presents a modern one-bedroom apartment equipped with a fully functional kitchen, including a fridge and stovetop, ensuring guests feel right at home. The living space is thoughtfully designed with a flat-screen TV and a cozy seating area, perfect for unwinding after a day of exploration. The convenience of a private bathroom, complete with a shower, towels, and bed linen, adds to the comfort of the stay.

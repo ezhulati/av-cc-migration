@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartments boast a thoughtful array of amenities designed to cater to the needs of every guest. From the privacy of a separate entrance to the communal warmth of family rooms, the attention to detail is evident. Each apartment is equipped with air conditioning, ensuring a comfortable retreat from the city's hustle and bustle. The living spaces are furnished with cozy seating areas, flat-screen TVs complete with streaming services for entertainment, and kitchens that invite guests to prepare their meals. The dining areas add a touch of home, while private bathrooms come stocked with complimentary toiletries, a hair dryer, and a shower.

@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in comfort and privacy, offering guests a cozy one-bedroom sanctuary equipped with all the essentials for a relaxing stay. From the crisp bed linen and fluffy towels to the modern flat-screen TV and a fully equipped kitchen, every detail has been thoughtfully curated to ensure guests feel at home. The dining area provides a perfect spot for a leisurely meal, while the terrace, overlooking the lush garden, invites guests to unwind in the beauty of their surroundings.

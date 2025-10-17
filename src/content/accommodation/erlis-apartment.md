@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Strategically located, the apartment is within easy reach of notable landmarks including the Rock of Kavaje, the historical Former Residence of Enver Hoxha, and the ancient Durres Amphitheatre, making it an ideal base for explorers keen on delving into the region's rich history. Moreover, the heart of the city, Skanderbeg Square, is merely 50 km away, offering a deep dive into the local culture and lifestyle.

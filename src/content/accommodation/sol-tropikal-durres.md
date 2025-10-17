@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Sol Tropikal Durrës are treated to air-conditioned accommodations that thoughtfully combine functionality and comfort. Each room is equipped with a desk, kettle, minibar, safety deposit box, flat-screen TV, and a private bathroom with a shower, ensuring a stay that is as relaxing as it is convenient. The addition of a terrace or balcony in every room, with select units offering breathtaking sea views, allows guests to soak in the serene surroundings from the privacy of their accommodations. Complimentary bed linen and towels further add to the comfort provided.

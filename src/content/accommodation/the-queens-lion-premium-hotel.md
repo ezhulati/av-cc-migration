@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 A favorite among travelers, The Queen's Lion Premium HOTEL is strategically positioned within a short stroll from VIP Beach and Flamingo Beach, making it an ideal choice for beach enthusiasts. Guests can enjoy the ease of complimentary WiFi and the convenience of room service, ensuring a stay that is both connected and catered to.

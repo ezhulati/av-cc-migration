@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides an experience. Guests are treated to a realm of luxury that includes air conditioning for those warm summer days, a hot tub for relaxing evenings, and the convenience of free WiFi throughout the premises. Accessibility is also a priority, with a lift ensuring that all guests can navigate the property with ease.

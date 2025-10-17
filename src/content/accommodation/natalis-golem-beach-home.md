@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This beachfront gem boasts a modern 1-bedroom apartment equipped with air conditioning, ensuring a comfortable stay regardless of the weather. The inclusion of free WiFi, a flat-screen TV, and a washing machine adds a layer of convenience for guests, while the fully equipped kitchen, complete with a dishwasher and oven, invites visitors to feel at home. The thoughtful provision of towels and bed linen further enhances the comfort of the stay.

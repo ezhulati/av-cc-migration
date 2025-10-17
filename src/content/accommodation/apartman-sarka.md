@@ -14,6 +14,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Apartmán Šárka boasts a generous layout, including a balcony that offers a breath of fresh air, two cozy bedrooms for a restful night's sleep, a welcoming living room for relaxation, and a well-equipped kitchen complete with an oven and toaster for those who enjoy preparing their meals. The entire property is a smoke-free environment, ensuring a clean and healthy stay for all guests.

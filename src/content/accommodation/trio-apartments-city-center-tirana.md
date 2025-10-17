@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Trio Apartment's City Center Tirana are designed with the modern traveler in mind, featuring fully equipped kitchens, complimentary WiFi that covers every corner of the premises, and the option of private parking on site. For those venturing a bit further, the Rock of Kavaje stands 42 km away, while the Toptani Shopping Centre is merely 700 metres from the doorstep, offering a unique blend of local culture and retail therapy.

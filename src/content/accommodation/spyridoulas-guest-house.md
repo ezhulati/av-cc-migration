@@ -21,6 +21,7 @@ amenities:
   - "Balcony"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The guest house prides itself on its array of amenities designed to enhance every stay. Each room, boasting a private balcony, is a haven of relaxation, equipped with air conditioning, a flat-screen TV, and a private bathroom complete with a bath. Soundproofing ensures that guests enjoy undisturbed peace, making it an ideal escape for those seeking tranquility.

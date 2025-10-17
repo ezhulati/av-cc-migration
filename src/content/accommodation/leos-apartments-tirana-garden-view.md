@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This exquisite apartment boasts a refreshing balcony view, encapsulating the essence of Tirana's vibrant spirit. Inside, guests are treated to a modern, air-conditioned haven featuring a spacious bedroom, a cozy living room, and a fully equipped kitchen complete with an oven and a coffee machine - perfect for those who enjoy the comforts of home-cooked meals. The inclusion of a sleek bathroom equipped with a bidet and a hairdryer adds to the apartment's appeal, ensuring a comfortable stay.

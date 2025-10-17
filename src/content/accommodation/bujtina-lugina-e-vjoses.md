@@ -14,6 +14,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each accommodation unit is thoughtfully equipped with a balcony, ensuring guests can enjoy the breathtaking mountain views in privacy. The rooms are designed for ultimate comfort, featuring air conditioning, a flat-screen TV, and a private bathroom complete with a bidet and complimentary toiletries, ensuring a stay that is both comfortable and luxurious.

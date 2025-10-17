@@ -17,6 +17,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Leo's Apartment are treated to a suite of amenities designed to make their stay as effortless and enjoyable as possible. Complimentary WiFi and on-site parking are just the beginning. The apartment prides itself on being a smoke-free environment, ensuring a clean and healthy stay for all guests.

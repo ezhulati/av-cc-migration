@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a generously sized living space, featuring two well-appointed bedrooms, a sleek flat-screen TV, and a balcony perfect for soaking in the local ambiance. The heart of the apartment is its fully equipped kitchen, where visitors can find everything from a dishwasher and oven to a washing machine, fridge, and stovetop, making self-catering a breeze. The inclusion of towels and bed linen adds a touch of homey comfort, while the outdoor dining area invites guests to enjoy meals under the open sky.

@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Boasting a spacious terrace that opens up to enchanting garden views, the air-conditioned property features a single bedroom complemented by a fully equipped kitchen, ensuring a comfortable stay for travelers. Guests will appreciate the added convenience of complimentary private parking, making excursions around Sarandë a breeze.

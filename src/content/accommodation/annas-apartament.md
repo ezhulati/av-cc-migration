@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment's generous layout includes two well-appointed bedrooms, a living area with a flat-screen TV for entertainment, and a fully equipped kitchen for those who enjoy preparing their meals. Additionally, the inclusion of a washing machine adds a touch of home-away-from-home convenience, while the modern bathroom, complete with a bidet, ensures a comfortable stay. Guests will appreciate the commitment to a non-smoking environment, promoting a clean and fresh atmosphere.

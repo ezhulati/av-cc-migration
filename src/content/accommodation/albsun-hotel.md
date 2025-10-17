@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel boasts an array of family rooms, each thoughtfully designed with a seating area to ensure guests' utmost comfort. Modern amenities such as air conditioning, a safety deposit box, and a flat-screen TV are standard in every room, with select accommodations featuring a balcony for those who appreciate a private outdoor space. Additionally, the convenience of having a fridge in the room adds a touch of home for travelers.

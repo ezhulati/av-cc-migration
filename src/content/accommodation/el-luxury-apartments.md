@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a sophisticated air-conditioned apartment that features a spacious bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring relaxation and leisure are always within reach.

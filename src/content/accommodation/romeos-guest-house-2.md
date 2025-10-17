@@ -14,6 +14,7 @@ amenities:
   - "Parking"
   - "Restaurant"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The property doesn't just stop at providing excellent rooms; it extends its hospitality to include a terrace where guests can soak in the surrounding beauty. The in-house restaurant adds to the charm, offering delightful dining options without having to leave the comfort of the guest house. For those arriving by car, the availability of free private parking and the added benefit of complimentary WiFi throughout the premises make staying connected and exploring the local area effortless.

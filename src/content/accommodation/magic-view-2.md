@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is thoughtfully designed to cater to the needs of modern travelers, featuring two well-appointed bedrooms, a bathroom equipped with essential amenities, and a living space that includes a flat-screen TV and a dining area. The fully equipped kitchen and the inviting terrace further enhance the living experience, allowing guests to prepare their meals while enjoying the panoramic views of the sea. Notably, the property maintains a non-smoking environment, ensuring a clean and fresh atmosphere for all guests.

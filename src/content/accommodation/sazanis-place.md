@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The accommodation at Sazani's Place is thoughtfully designed for comfort and convenience, boasting an air-conditioned space that includes a cozy bedroom, a welcoming living room, and a fully equipped kitchen complete with modern appliances like an oven and a kettle. The bathroom is well-appointed with a bidet and a hair dryer, ensuring a home-away-from-home experience. Guests are also treated to the added luxury of provided towels and bed linen, enhancing the stay with touches of home.

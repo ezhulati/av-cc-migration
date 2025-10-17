@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home with its air-conditioned interiors, a balcony that invites guests to unwind, complimentary private parking, and the essential free WiFi connectivity. For those looking to explore beyond the sandy shores, Laguna Park Beach is a mere 3 km journey, while the historic Rozafa Castle Shkodra awaits 41 km away, offering a glimpse into the region's rich past.

@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 This spacious apartment doesn't just offer a place to stay; it provides a home away from home with its air-conditioned living space, a fully equipped kitchen complete with an oven, and a cozy bedroom designed for restful nights. The inclusion of towels and bed linen ensures a comfortable and hassle-free stay, while the private entrance offers that sought-after sense of seclusion and privacy.

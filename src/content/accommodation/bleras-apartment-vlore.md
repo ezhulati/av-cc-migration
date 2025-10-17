@@ -17,6 +17,7 @@ amenities:
   - "Mountain View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is equipped with modern amenities designed for the utmost comfort and convenience of its guests. It features high-speed WiFi, a flat-screen TV for entertainment, and a washing machine, ensuring a hassle-free stay. The kitchen is fully equipped, complete with a fridge and stovetop, inviting guests to prepare their meals while enjoying the mountain views from the terrace, which is thoughtfully furnished with outdoor seating.

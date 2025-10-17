@@ -13,6 +13,7 @@ location: "Korçë"
 amenities:
   - "Air Conditioning"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Korça Boutique Hotel are thoughtfully designed, featuring flat-screen TVs for entertainment, air conditioning for comfort, and private bathrooms for privacy. Select rooms elevate the experience further with the addition of balconies, allowing guests to enjoy their own slice of tranquility.

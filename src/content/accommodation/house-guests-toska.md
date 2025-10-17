@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The holiday home is well-appointed with modern amenities, including free WiFi, ensuring guests stay connected. The interior features a cozy two-bedroom layout, equipped with a flat-screen TV and a washing machine for all your laundry needs. The kitchen is fully equipped, complete with a fridge, making it easy for guests to prepare their meals just the way they like.

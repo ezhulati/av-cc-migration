@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The residence welcomes guests into a world of comfort with its air-conditioned interiors that open up to a lush garden view from a private terrace. Designed to accommodate the modern traveler, Laert's Home features two cozy bedrooms alongside a fully equipped kitchen, ensuring a stay that combines the essence of home with the convenience of top-notch amenities.

@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon entering the apartment, visitors are greeted with a spacious layout that includes three well-appointed bedrooms, each promising a restful night's sleep. The living space is anchored by a flat-screen TV, perfect for leisurely evenings in. Culinary enthusiasts will appreciate the fully equipped kitchen, complete with a dishwasher and an oven, making meal preparation not just possible but a pleasure. Additionally, the inclusion of a washing machine adds a layer of convenience for longer stays.

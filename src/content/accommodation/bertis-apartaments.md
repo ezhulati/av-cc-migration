@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring air conditioning for those warm Mediterranean days. It boasts two separate bedrooms, a cozy living room for unwinding, a fully equipped kitchen for those who love to cook, and a bathroom that meets all essential needs. The inclusion of a flat-screen TV ensures that entertainment is always at hand.

@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Jelena's Luxury Apartments are thoughtfully designed with the modern traveler in mind, featuring spacious terraces that offer expansive sea vistas, cozy seating areas for relaxation, and satellite flat-screen TVs for entertainment. The fully equipped kitchens, complete with ovens, microwaves, toasters, fridges, stovetops, coffee machines, and kettles, cater to every culinary need, while the private bathrooms boast bidets and hair dryers for added convenience. The provision of high-quality bed linen and towels underscores the aparthotel's commitment to guest comfort.

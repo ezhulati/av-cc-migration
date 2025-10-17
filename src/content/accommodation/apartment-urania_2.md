@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 The apartment is a haven for entertainment and comfort, equipped with an Xbox 360 for gaming enthusiasts. The kitchen is fully furnished with an oven, fridge, and stovetop, catering to all culinary needs. The living space is thoughtfully designed with a cozy seating area and a dining space, complemented by a bedroom and a bathroom complete with a bidet and bath. The highlight is undoubtedly the patio, offering breathtaking sea views and outfitted with outdoor furniture for guests to unwind and soak in the ambiance. The added benefit of a private entrance ensures an undisturbed and intimate experience.

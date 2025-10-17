@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This ground-floor gem boasts a spacious bedroom, a fully equipped kitchen complete with a refrigerator, a cozy living room, and a flat-screen TV for entertainment. Guests will appreciate the thoughtful provision of towels and bed linen, ensuring a comfortable stay. The apartment prides itself on its non-smoking policy and enhances guest privacy with a dedicated private entrance.

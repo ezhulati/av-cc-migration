@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "WiFi"
   - "Bar"
+ratingWords: "Fair"
 ---
 
 Accommodations at Villa Joanna&Mattheo are thoughtfully designed, with select rooms offering either garden or city views, ensuring a picturesque start to every day. Each room comes equipped with a private bathroom and benefits from complimentary WiFi, ensuring guests stay connected and comfortable throughout their visit.

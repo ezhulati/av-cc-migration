@@ -17,6 +17,7 @@ amenities:
   - "Bar"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel's accommodations are a testament to contemporary elegance, featuring modern furnishings complemented by high-quality linens, ensuring a restful night's sleep. Each room is equipped with a flat-screen cable TV, a safe, and a minibar, catering to the needs of the modern traveler. The attention to detail extends to the bathrooms, which are outfitted with showers, hairdryers, slippers, and complimentary toiletries, adding a touch of luxury to the guest experience.

@@ -18,6 +18,7 @@ amenities:
   - "Mountain View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living and modern amenities. Guests are greeted with a balcony offering sweeping mountain views, an inviting scene for both morning coffees and evening reflections. The interior boasts two well-appointed bedrooms, a cozy living room equipped with a flat-screen TV, and a kitchen that caters to culinary needs with a dishwasher and toaster. The luxury of two bathrooms, each featuring a hot tub, enhances the comfort of stay, while the convenience of air conditioning, a washing machine, and a private entrance underscores a commitment to privacy and ease.

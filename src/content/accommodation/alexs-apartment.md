@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern amenities, boasting an air-conditioned space that includes a bedroom, a living room with a satellite flat-screen TV, a dining area, and a fully equipped kitchen complete with a fridge. The inclusion of a balcony allows guests to dine al fresco while soaking in the serene atmosphere of the surroundings. Designed with the discerning traveler in mind, the apartment ensures privacy and tranquility through soundproofing and a private entrance.

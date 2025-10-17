@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property stands out for its thoughtful amenities designed to enhance the guest experience. Each air-conditioned unit boasts a separate bedroom, providing privacy and a peaceful retreat after a day of adventures. The inclusion of a bathroom equipped with slippers adds a touch of homely comfort, while the seating area and living room offer ample space for relaxation. Guests are welcomed through a private entrance, hinting at the exclusivity and personalized attention to detail that Duplex Mino prides itself on. The provision of free WiFi and a flat-screen TV ensures that guests remain connected and entertained throughout their stay.

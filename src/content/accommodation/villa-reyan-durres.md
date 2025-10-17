@@ -10,6 +10,7 @@ starRating: 3
 rating: 3
 accommodationType: "villa"
 location: "Tirana"
+ratingWords: "Fair"
 ---
 
 Security is paramount, with round-the-clock surveillance, alongside the exclusivity of private check-in and check-out services, enhancing the personalized experience. Additionally, the convenience of a currency exchange service on-site caters to the international traveler.

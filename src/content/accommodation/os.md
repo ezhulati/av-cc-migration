@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at O&S are thoughtfully designed with guest comfort in mind. Each room is equipped with modern amenities including air conditioning, a flat-screen TV, and complimentary WiFi, ensuring a stay that is both comfortable and connected. For those who appreciate the finer details, rooms boast a wardrobe, private bathroom, bed linen, and towels, with select units featuring a terrace or balcony. These outdoor spaces offer serene garden views and an outdoor dining area, perfect for those moments of quiet reflection or intimate meals under the stars. Additionally, the guest house offers allergy-free and soundproof units, catering to the needs of every guest.

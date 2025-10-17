@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to an array of amenities designed to enhance their stay. Each room boasts air conditioning for those warm Mediterranean nights, alongside a terrace that presents breathtaking mountain views. The living spaces are thoughtfully equipped with a seating area and a cable flat-screen TV for entertainment. The inclusion of a fully equipped kitchen, featuring an oven and a fridge, adds a touch of home, while the private bathrooms come with a bath for ultimate relaxation. Adding to the appeal, every unit opens up to a balcony that includes an outdoor dining area, allowing guests to dine amidst garden views. Comfort is further ensured with the provision of bed linen and towels in each unit.

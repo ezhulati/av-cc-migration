@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This accommodation prides itself on providing a smoke-free environment, ensuring a clean and fresh stay for all guests. The apartment boasts a well-appointed bedroom, a fully equipped kitchen for those who enjoy preparing their own meals, and a bathroom. Entertainment needs are met with a flat-screen TV, perfect for unwinding after a day of exploration.

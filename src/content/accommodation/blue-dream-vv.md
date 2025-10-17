@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment within the complex is thoughtfully equipped with air conditioning, ensuring a comfortable environment regardless of the weather. The living spaces are designed for relaxation, featuring a cozy seating area, a flat-screen TV with satellite channels for entertainment, and a fully equipped kitchen for those who prefer to prepare their own meals. The inclusion of a dining area allows guests to enjoy their culinary creations in the comfort of their apartment. Private bathrooms come standard with slippers, a shower, and a hair dryer, adding a touch of luxury to the daily routine.

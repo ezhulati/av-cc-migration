@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, featuring a bedroom that promises restful nights. The living room is equipped with a flat-screen TV, offering a wide range of satellite channels for entertainment. A fully equipped kitchen awaits those who love to cook, complemented by a bathroom outfitted with a bidet, ensuring all the comforts of home.

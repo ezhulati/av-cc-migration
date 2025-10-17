@@ -12,6 +12,7 @@ accommodationType: "hotel"
 amenities:
   - "Breakfast"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 In this smoke-free accommodation, every detail is carefully considered to enhance your stay, including the provision of soft towels and crisp bed linen in each room. Mornings here start on a high note with a delightful breakfast available on-site, featuring an array of fresh pastries and cheese to satisfy your taste buds.

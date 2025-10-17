@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The guest house features a spacious apartment that is thoughtfully designed with two bedrooms and two bathrooms, making it an ideal choice for families or groups. The inclusion of bed linen, towels, a flat-screen TV, and a fully equipped kitchen adds to the convenience, allowing guests to feel at home. The highlight, however, is the terrace that offers breathtaking sea views, complemented by an outdoor dining area that overlooks the well-maintained garden, perfect for enjoying meals in a picturesque setting.

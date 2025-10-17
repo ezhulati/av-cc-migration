@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in thoughtful accommodation, boasting a single bedroom that merges comfort with functionality. Guests will find themselves at home with a flat-screen TV, a fully equipped kitchen, and the convenience of a washing machine, all within a smoke-free environment. The inclusion of a bathroom equipped with a shower adds to the practicality of the space, ensuring a stay that is as comfortable as it is convenient.

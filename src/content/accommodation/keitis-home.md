@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This accommodation doesn't just offer a place to stay; it provides a fully immersive experience. With complimentary WiFi, guests are treated to modern conveniences including a flat-screen TV and a washing machine. The kitchenette, equipped with a refrigerator and kitchenware, adds a touch of home, allowing visitors to prepare their meals with ease. The added benefit of a private entrance ensures that privacy is paramount, offering guests a secluded haven.

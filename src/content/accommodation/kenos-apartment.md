@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "Bar"
   - "Spa"
+ratingWords: "Fair"
 ---
 
 Each room at Keno's Apartment is a haven of comfort, boasting balconies that offer sweeping views of the cityscape. The promise of air-conditioned spaces and practical work desks in all units ensures a blend of leisure and productivity for every guest.

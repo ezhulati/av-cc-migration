@@ -12,6 +12,7 @@ accommodationType: "villa"
 location: "Himare"
 amenities:
   - "Parking"
+ratingWords: "Fair"
 ---
 
 Accommodations at Peter's Sea House are thoughtfully designed with guest comfort in mind, featuring air-conditioned units equipped with a wardrobe and a private bathroom, ensuring a restful stay. The added convenience of private parking available for a nominal fee further enhances the guest experience.

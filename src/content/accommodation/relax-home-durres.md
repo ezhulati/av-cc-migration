@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 For those looking to immerse themselves in the rich history and vibrant city life, Skanderbeg Square is accessible at 43 km away, with the Dajti Ekspres Cable Car offering breathtaking views at 47 km from the doorstep. Additionally, the property is a stone's throw away, at just 90 meters, from Shkëmbi i Kavajës Beach, making it an ideal spot for guests wishing to experience the diverse coastal landscape of Albania.

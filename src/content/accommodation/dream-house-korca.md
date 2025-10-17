@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon stepping into Dream House Korça, guests are greeted with a meticulously designed space that features two cozy bedrooms, a fully equipped kitchen complete with a microwave and fridge, and a welcoming seating area perfect for unwinding. The centerpiece of the living space is undoubtedly the flat-screen TV, providing entertainment after a day of exploration. The bathroom does not disappoint either, with a hot tub ready to soothe tired muscles. For those in need of it, towels and linens are available upon request, ensuring a hassle-free stay.

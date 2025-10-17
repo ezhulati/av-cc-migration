@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa itself is a spacious haven, featuring three bedrooms and direct access to a balcony that offers serene views of a quiet street, perfect for those moments of reflection or a morning cup of coffee. The terrace extends the living space outdoors, presenting captivating city views. Inside, guests are treated to modern amenities including a satellite flat-screen TV, a fully equipped kitchen boasting an oven, toaster, and fridge, and not one, but two bathrooms complete with walk-in showers and plush bathrobes. The inclusion of a cozy seating area and a warming fireplace further enhances the homely atmosphere.

@@ -12,6 +12,7 @@ accommodationType: "villa"
 location: "Tirana"
 amenities:
   - "WiFi"
+ratingWords: "Fair"
 ---
 
 The accommodation itself is air-conditioned, ensuring a comfortable stay regardless of the weather, and is located a mere 3.9 km from the Dajti Ekspres Cable Car, offering easy access to one of the city's most breathtaking views. Guests can enjoy the convenience of free WiFi available throughout the property, keeping them connected during their stay. Moreover, Skanderbeg Square, a hub of activity and culture, is only 1.2 km away, inviting guests to immerse themselves in the local lifestyle.

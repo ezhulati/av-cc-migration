@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Rama's Hotel are thoughtfully designed to cater to the modern traveler's needs. Each room is well-appointed with a desk, air conditioning, and a flat-screen TV, ensuring a blend of functionality and comfort. The inclusion of a private bathroom, equipped with a bidet and hairdryer, underscores the hotel's attention to guest convenience. Select rooms further boast a balcony, offering guests a private outdoor space to relax and unwind. The presence of a wardrobe in all rooms highlights the hotel's commitment to providing a seamless stay.

@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts an impressive array of amenities. Guests are treated to spacious, air-conditioned living quarters complete with a balcony that offers sweeping views of the city. The interior is thoughtfully designed for comfort and utility, featuring two well-appointed bedrooms, a fully equipped kitchen with modern appliances such as a microwave and fridge, and a cozy seating area perfect for unwinding. Entertainment and relaxation are further enhanced by the inclusion of a flat-screen TV and two bathrooms, one of which is equipped with a luxurious hot tub. The provision of towels and bed linen adds a touch of home.

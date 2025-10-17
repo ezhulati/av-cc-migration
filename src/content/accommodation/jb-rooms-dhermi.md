@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at J&B Rooms Dhermi is a haven of comfort, equipped with air conditioning for those warm Mediterranean days, and a balcony to soak in the stunning vistas. Entertainment and convenience are ensured with a flat-screen TV, while the private bathrooms boast modern amenities including a bidet and hair dryer, ensuring a stay that blends relaxation with the comforts of home. The thoughtful inclusion of soundproofing, bed linen, and towels in every unit underscores the guest house's commitment to providing a restful and hassle-free experience.

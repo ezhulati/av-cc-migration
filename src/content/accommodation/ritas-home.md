@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Constructed in 1970, Rita's Home has been thoughtfully designed to offer guests a serene retreat amidst the bustling city life. The apartment boasts a spacious layout that includes a bedroom, a living room with a flat-screen TV, an equipped kitchenette complete with an oven and a fridge, and a bathroom featuring a bidet. The addition of a balcony provides tranquil street views, allowing guests to soak in the local atmosphere from the comfort of their accommodation.

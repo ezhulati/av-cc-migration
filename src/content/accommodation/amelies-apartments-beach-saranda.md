@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel's strategic location places it within easy reach of Saranda City Beach, merely 1.4 km away, and not much further from the tranquil Saranda Bay Beach, located 1.8 km from the premises. Each room at Amelie's Apartments & Beach Saranda opens up to a balcony, presenting guests with the opportunity to bask in the breathtaking sea views that define this picturesque region.

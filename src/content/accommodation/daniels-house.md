@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests can enjoy the modern comforts of home, thanks to the apartment's free WiFi, flat-screen TV, washing machine, and a kitchen that leaves nothing to be desired with its dishwasher and oven. The added benefit of a private entrance and round-the-clock security ensures a stay that is both secluded and safe.

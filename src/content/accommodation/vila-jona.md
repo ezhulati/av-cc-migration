@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Sarandë"
 amenities:
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 Accommodations at Vila Jon'a are thoughtfully designed to cater to the needs of families and groups, with select units boasting fully equipped kitchens complete with a fridge, ensuring that home comforts are never far away. Each unit features a private bathroom, ensuring privacy and convenience for every guest.

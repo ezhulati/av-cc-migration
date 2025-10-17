@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to rest; it provides a home away from home. Guests are greeted with a spacious layout that includes two bedrooms, a cozy living room, and a balcony that offers tranquil street views - a perfect setting for morning coffees or evening relaxation. The inclusion of modern amenities such as a flat-screen TV, an equipped kitchen with an oven and a microwave, and a bathroom with a walk-in shower ensures that every need is met with style and ease. The provision of towels and bed linen further enhances the comfort of the stay.

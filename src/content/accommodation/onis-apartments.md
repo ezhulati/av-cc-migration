@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment is well-equipped with a television and an ensuite bathroom that includes a hairdryer, complimentary toiletries, and a shower, catering to the needs of modern travelers. While towels and bed linen are available for a nominal fee, the attention to detail in ensuring guest comfort is evident.

@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment boasts a generous layout, featuring two bedrooms that promise restful nights, a cozy living room for relaxation, and a balcony that offers serene views of the inner courtyard. The inclusion of a flat-screen TV, an equipped kitchen complete with an oven and microwave, and a contemporary bathroom with a walk-in shower, ensures that guests have everything they need at their fingertips. For added convenience, towels and bed linen are readily provided.

@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, featuring two well-appointed bedrooms, two bathrooms, and an array of amenities including bed linen, towels, and a flat-screen TV with cable channels. The dining area and fully equipped kitchen invite guests to feel at home, while the balcony presents breathtaking sea views, perfect for unwinding after a day of exploration. The added benefit of a private entrance and round-the-clock security offers unparalleled privacy and peace of mind.

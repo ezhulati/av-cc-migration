@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of tranquility, boasting soundproof rooms that promise a peaceful retreat from the bustling city life. A mere 1.8 km away from the historical Former Residence of Enver Hoxha, it offers a unique blend of modern amenities and a nod to the area's rich history. The accommodation features a generously sized living space, complete with a balcony that presents serene garden views. Guests can enjoy the comforts of home with a satellite flat-screen TV, a fully equipped kitchen, and a bathroom that includes a walk-in shower and a bidet. For added convenience, towels and linens are available upon request.

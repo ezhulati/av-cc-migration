@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The interior reveals a thoughtfully composed layout featuring two cozy bedrooms, a bathroom, and a kitchen equipped with everything needed for a comfortable stay. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have access to leisure activities during their downtime. Emphasizing a commitment to a healthy living environment, the property maintains a strict non-smoking policy.

@@ -17,6 +17,7 @@ amenities:
   - "Bar"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Colombia Apartments&Rooms are designed with the guest's comfort in mind. Each unit is equipped with air conditioning, a cozy seating area, and a flat-screen TV with satellite channels for those moments of relaxation. The safety deposit box, private bathroom complete with a bidet, slippers, and hair dryer, alongside a well-stocked minibar, fridge, coffee machine, and kettle, ensure a stay that combines convenience with luxury. The provision of bed linen and towels adds a touch of home.

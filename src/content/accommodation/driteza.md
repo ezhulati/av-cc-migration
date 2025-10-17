@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Dritëza are thoughtfully designed to cater to the diverse needs of its guests. Each room extends into a private patio, complemented by a satellite flat-screen TV, a dining area, and a fully equipped kitchen. The attention to detail is evident in the private bathrooms, which feature walk-in showers, plush bathrobes, and slippers, promising a stay that is as comfortable as it is luxurious. Select units elevate the experience further with terraces or balconies, offering enchanting views of the garden or the city's dynamic skyline.

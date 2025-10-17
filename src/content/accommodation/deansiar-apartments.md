@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home with its air-conditioned spaces, including two well-appointed bedrooms, a fully equipped kitchen for those who love to cook, and two modern bathrooms. The inclusion of a flat-screen TV ensures guests can enjoy a cozy night in after a day of sightseeing.

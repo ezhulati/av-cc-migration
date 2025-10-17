@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with a well-appointed holiday home that boasts a spacious terrace and sweeping garden views. The interior is thoughtfully designed to cater to all needs, featuring two cozy bedrooms, a welcoming living room with a flat-screen TV, and a fully equipped kitchen complete with an oven and microwave. The inclusion of a modern bathroom with a bidet adds a touch of luxury to the stay.

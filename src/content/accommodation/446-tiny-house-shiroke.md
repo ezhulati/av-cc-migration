@@ -11,6 +11,7 @@ rating: 4
 accommodationType: "villa"
 amenities:
   - "Spa"
+ratingWords: "Fair"
 ---
 
 Security is paramount, with around-the-clock services and a commitment to privacy through private check-in and check-out processes, ensuring a peaceful and secure stay. The villa itself, boasting a cozy bedroom and a well-appointed bathroom complete with a bidet and bath, promises comfort and relaxation. Guests are welcomed through a private entrance into a space where the enjoyment of wine or champagne sets the tone for a luxurious stay. The commitment to a non-smoking environment further enhances the quality of the guest experience.

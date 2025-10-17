@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a harmonious blend of modern amenities and homely comfort. Guests will find a well-appointed kitchen at their disposal, perfect for those evenings when dining in feels just right. The inclusion of a flat-screen TV and a view overlooking the garden adds an extra layer of relaxation to the stay.

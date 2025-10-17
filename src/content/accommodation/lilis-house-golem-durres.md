@@ -14,6 +14,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern living, featuring air-conditioning for those warm Durres days. It boasts a well-appointed bedroom, a cozy living room for relaxation, and a fully equipped kitchen with a fridge and kettle, ensuring guests feel right at home. The convenience of a private bathroom with a shower and the luxury of a flat-screen TV add to the apartment's appeal.

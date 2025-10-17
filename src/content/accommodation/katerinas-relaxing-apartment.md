@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The interior of Katerina's Relaxing Apartment is thoughtfully designed to ensure a comfortable stay. It features an air-conditioned space with a separate bedroom, a cozy living room, a fully equipped kitchen for those who love to prepare their meals, and a bathroom that caters to all the essentials. The addition of a private entrance enhances the sense of privacy, making it an ideal choice for guests prioritizing their own space.

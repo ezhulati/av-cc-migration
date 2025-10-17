@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a space where every detail is curated for comfort and privacy. The villa boasts a spacious layout that includes two well-appointed bedrooms, a cozy living room, and a terrace that offers captivating city views, perfect for unwinding after a day of exploration. The inclusion of a flat-screen TV, an equipped kitchen with modern appliances such as an oven and a fridge, and a bathroom complete with a bidet, ensures a stay that combines the essence of home with the luxury of a hotel. Towels and bed linen are thoughtfully provided, enhancing the homely feel of the accommodation. The added convenience of a private entrance underscores the villa's commitment to guest privacy.

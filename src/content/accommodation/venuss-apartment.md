@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a spacious sanctuary featuring one bedroom, a bathroom equipped with fresh bed linen and towels, and a living area that includes a flat-screen TV with cable channels for those moments of relaxation. The dining area and fully equipped kitchen cater to both quick meals and elaborate dinners, making it perfect for travelers looking to feel at home away from home. Adding to the charm is a balcony that presents captivating city views, alongside the peaceful ambiance of quiet street vistas.

@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, featuring three well-appointed bedrooms, a cozy living room, and a balcony that presents captivating city views. For those who prefer to dine in, the kitchen is fully equipped with an oven and a microwave, making meal preparation both easy and enjoyable. The inclusion of a flat-screen TV ensures that entertainment is never far away, while the convenience of a bathroom with a shower adds to the overall comfort of the stay.

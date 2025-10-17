@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests will find themselves enveloped in the spaciousness of the apartment, which boasts a welcoming balcony, a cozy bedroom, a comfortable living room, and a well-equipped kitchen complete with a fridge. This ensures that every stay is as comfortable as it is memorable.

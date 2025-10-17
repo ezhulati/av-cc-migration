@@ -14,6 +14,7 @@ amenities:
   - "Parking"
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 This air-conditioned haven is not just about its prime location; it boasts an array of amenities designed for comfort and convenience. Guests will find themselves in a beautifully composed living space featuring two cozy bedrooms, a fully equipped kitchen for those homemade meals, and two modern bathrooms. To add to the comfort, the apartment comes with towels and bed linen, ensuring a hassle-free stay.

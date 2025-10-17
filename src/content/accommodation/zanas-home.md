@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This spacious apartment doesn't just promise a place to stay; it offers a home away from home. Guests can enjoy the luxury of a balcony offering sweeping city views, alongside the comfort of two well-appointed bedrooms, a cozy living room, and the convenience of a fully equipped kitchen featuring an oven and a microwave. The inclusion of a flat-screen TV and complimentary WiFi throughout the property ensures that both leisure and business travelers have their needs met. Notably, the accommodation maintains a non-smoking policy, ensuring a clean and fresh environment for all guests.

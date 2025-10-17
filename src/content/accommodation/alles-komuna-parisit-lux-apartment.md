@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a sanctuary of modern living, boasting a spacious bedroom, a fully equipped kitchen for those who love to cook, and a sleek bathroom. Entertainment needs are well catered for with the inclusion of a flat-screen TV, ensuring guests have a comfortable stay. The entire space is a smoke-free environment, promoting a clean and healthy atmosphere.

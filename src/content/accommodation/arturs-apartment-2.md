@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in spacious living, featuring a bedroom that promises restful nights. Entertainment and practicality coalesce in the living space, which is equipped with a flat-screen TV and a kitchen that leaves nothing to be desired. Whether it's whipping up a quick snack or a full meal, the oven, microwave, washing machine, toaster, and fridge ensure that every culinary need is met. The option to dine al fresco in the outdoor dining area, with garden views as a backdrop, elevates the experience.

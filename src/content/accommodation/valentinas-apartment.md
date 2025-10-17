@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, making it a perfect retreat after a day of exploration. Emphasizing a smoke-free environment, Valentina's Apartment ensures a clean and healthy stay for all guests.

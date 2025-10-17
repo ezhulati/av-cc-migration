@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Mountain View"
   - "Laundry"
+ratingWords: "Fair"
 ---
 
 Following a comprehensive renovation, Ada's Home Pogradec invites guests into a world of modern comfort. The apartment boasts two well-appointed bedrooms, ensuring ample space for families or groups. The heart of this home away from home is undoubtedly its fully equipped kitchen, featuring a dishwasher and an oven, allowing guests the freedom to prepare their meals as they please. The inclusion of a bathroom complete with a bidet, slippers, and a washing machine adds a layer of convenience, while the provision of towels and bed linen underscores the attention to detail that characterizes this property.

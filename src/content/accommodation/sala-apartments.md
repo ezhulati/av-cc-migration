@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into air-conditioned spaces that boast not only a private bathroom and flat-screen TV but also a fully equipped kitchen and a balcony for personal enjoyment. The inclusion of family rooms and a terrace further enhances the appeal, making it an ideal choice for travelers seeking both solitude and space.

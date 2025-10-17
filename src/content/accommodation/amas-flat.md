@@ -19,6 +19,7 @@ amenities:
   - "Mountain View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment doesn't just promise a place to stay; it offers a home away from home. With two generously sized bedrooms, a living space adorned with a flat-screen TV, and a balcony that presents breathtaking mountain views, guests are invited to relax in style. The inclusion of outdoor furniture on the balcony further enhances the appeal, providing a serene spot to enjoy a morning coffee or an evening glass of wine.

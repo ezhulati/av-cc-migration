@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is a stone's throw away from significant landmarks, including the National Museum of History Albania and the intriguing Former Residence of Enver Hoxha, making it an ideal base for explorers keen on delving into Albania's rich history and culture. Despite its central location, the property maintains a non-smoking policy, ensuring a clean and healthy environment for its guests.

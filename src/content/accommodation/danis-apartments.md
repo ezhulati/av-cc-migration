@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Spa"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Upon arrival, visitors are greeted with the luxury of a private balcony, accessible through each apartment, allowing for an intimate experience of the city's vibrant atmosphere. The establishment prides itself on its commitment to guest satisfaction, offering round-the-clock front desk support, unwavering security, and even currency exchange services to cater to international visitors.

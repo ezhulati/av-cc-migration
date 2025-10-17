@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern living, boasting a generous layout that includes two well-appointed bedrooms, a cozy living room, and a terrace that presents breathtaking mountain vistas. Guests will find the inclusion of a flat-screen TV, an equipped kitchen complete with a dishwasher and microwave, and a bathroom with either a bath or shower, ensuring a stay that marries convenience with comfort. The added perks of free private parking and complimentary WiFi only enhance the appeal of Sam's Apartment - Tirana.

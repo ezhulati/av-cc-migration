@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This 5-star hotel distinguishes itself with its comprehensive amenities, including complimentary WiFi, an on-site restaurant, and a bar, ensuring guests enjoy a blend of convenience and luxury. For those arriving by air or planning to explore the region at their leisure, Diora's offers both airport transfer services and car rental options, adding a layer of ease to travel arrangements.

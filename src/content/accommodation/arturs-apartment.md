@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to comfort and convenience, boasting a balcony that offers picturesque garden views. It is well-appointed with a cozy bedroom, a welcoming living room equipped with a TV, and a kitchen that comes fully equipped with an oven and microwave, ensuring guests have everything they need at their fingertips. The inclusion of an outdoor dining area allows guests to immerse themselves in the natural beauty of their surroundings while enjoying a meal. Designed with peace in mind, the apartment is both non-smoking and soundproof, ensuring a tranquil stay.

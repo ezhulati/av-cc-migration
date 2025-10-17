@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a haven of comfort and style within the apartment, which features a cozy bedroom, a modern bathroom equipped with bed linen and towels, a flat-screen TV for entertainment, and a fully equipped kitchen for those who love to cook. The highlight, however, is the balcony offering panoramic sea views, perfect for enjoying the serene surroundings. Additionally, the accommodation is enhanced by a charming fireplace, adding a touch of warmth and ambiance to the space.

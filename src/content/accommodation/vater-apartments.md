@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment within the complex is a testament to thoughtful design, featuring soundproofing for a tranquil retreat amidst the city's hustle. Guests can enjoy the comfort of air conditioning, a cozy seating area, and the modern convenience of a flat-screen TV equipped with streaming services. The inclusion of a fully equipped kitchen, complete with a dishwasher, oven, fridge, and coffee machine, caters to those who appreciate the option to prepare their own meals. Additionally, the presence of a desk in all units adds a considerate touch for business travelers or those documenting their adventures.

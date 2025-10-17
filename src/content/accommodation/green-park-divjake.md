@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Restaurant"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each accommodation unit is a haven of comfort, equipped with air conditioning and a flat-screen TV for those moments of relaxation. The private bathrooms are outfitted with showers and plush bathrobes, ensuring a pampered experience. Guests will appreciate the added convenience of complimentary WiFi, and select rooms boast balconies for those who love to start their day with a breath of fresh air. Comfort is further enhanced with thoughtful touches like quality bed linen and towels provided in every room.

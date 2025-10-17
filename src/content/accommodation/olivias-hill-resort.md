@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Olivia's Hill Resort are a testament to thoughtful luxury, with each air-conditioned room boasting essentials and extras alike: a desk for the working traveler, a kettle and fridge for in-room refreshments, a minibar for those evening relaxations, and a safety deposit box for peace of mind. Entertainment and comfort are guaranteed with a flat-screen TV, while the private balcony offers a personal oasis. The private bathrooms, equipped with showers, ensure privacy and convenience, complemented by the provision of fresh bed linen and towels.

@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a spacious retreat after a day of exploration. Boasting two bedrooms, two living rooms, and a balcony that offers captivating city views, guests can unwind in a setting that feels like home. The inclusion of modern conveniences such as air conditioning, a flat-screen TV, an equipped kitchen with a microwave and toaster, and two well-appointed bathrooms with a bidet, ensures a stay that combines comfort with convenience. The added benefit of a private entrance enhances the sense of privacy and exclusivity.

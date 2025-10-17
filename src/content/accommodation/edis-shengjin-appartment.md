@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Positioned just a short 500-meter stroll from the inviting sands of Shëngjin Beach, this property stands out for its commitment to a smoke-free environment, promising a clean and healthy stay for all. The apartment itself is a study in efficiency and comfort, featuring a single bedroom, a fully equipped kitchen for those who love to prepare their meals, and a bathroom designed with simplicity and functionality in mind. Entertainment needs are not overlooked, with a flat-screen TV available for guests' enjoyment.

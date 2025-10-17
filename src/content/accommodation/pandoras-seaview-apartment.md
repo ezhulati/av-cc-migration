@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment is designed to cater to the needs of modern travelers, featuring a well-appointed bedroom, a cozy living room, and a kitchen equipped with all the essentials. For added convenience, towels and bed linen are readily provided, ensuring a hassle-free stay. Emphasizing a clean and healthy environment, the accommodation strictly adheres to a non-smoking policy.

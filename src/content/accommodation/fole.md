@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Tirana"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 This capsule hotel redefines minimalist luxury, with every accommodation outfitted with a sleek flat-screen TV offering a wide array of satellite channels, ensuring entertainment is always at guests' fingertips. Comfort is paramount at Folè, where soft bed linen and plush towels are standard in every room, inviting guests to relax and unwind in style.

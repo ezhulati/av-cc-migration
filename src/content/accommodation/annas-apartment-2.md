@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Strategically positioned, the apartment is a mere 43 km from the scenic Dajti Ekspres Cable Car, offering an easy gateway to one of the area's top attractions. Additionally, it's conveniently close to the Rock of Kavaje and the historical Former Residence of Enver Hoxha, making it an ideal base for explorers keen to uncover the rich tapestry of the region's history and natural beauty. The heart of the city, Skanderbeg Square, is also within a manageable distance, located just 39 km away, providing guests with a taste of local culture and architecture.

@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious retreat featuring a bedroom, a bathroom equipped with a bidet, and comes complete with bed linen and towels for guest convenience. Entertainment and dining needs are well catered for with a flat-screen TV offering cable channels and a dining area adjacent to a fully equipped kitchen. Perhaps the most captivating feature is the balcony, presenting breathtaking mountain views, perfect for those serene morning coffees or tranquil evening reflections. Additionally, the apartment benefits from soundproofing, ensuring a peaceful stay amidst the vibrant city life.

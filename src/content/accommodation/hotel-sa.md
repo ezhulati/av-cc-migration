@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Tirana"
 amenities:
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment features a thoughtful layout with two bedrooms, a fully equipped kitchen for all culinary needs, and a well-appointed bathroom, all within a smoke-free environment.

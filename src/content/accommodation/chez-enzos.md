@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and comfort, boasting air-conditioned interiors that open up to a balcony offering sweeping views of the river and cityscape. The living space is thoughtfully designed with a modern traveler in mind, featuring a well-equipped kitchen complete with an oven and toaster, a cozy seating area, and a flat-screen TV for entertainment. The bedroom is a sanctuary for rest, complemented by a bathroom outfitted with a bidet, ensuring a refreshing start and end to each day. For added convenience, towels, bed linen, and even a welcoming touch of fruits are provided, enhancing the homely experience.

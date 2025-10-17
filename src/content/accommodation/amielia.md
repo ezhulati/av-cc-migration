@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation boasts a cozy 1-bedroom layout, equipped with a flat-screen TV, air conditioning, and a welcoming living room, designed for relaxation and comfort. For those who prefer the homely touch of a meal in, the apartment is fitted with kitchen facilities ready to cater to your culinary needs.

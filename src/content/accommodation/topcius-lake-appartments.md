@@ -13,6 +13,7 @@ location: "Lac"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Topciu's Lake Apartments is designed to be a home away from home. Guests are treated to breathtaking garden views from their own balconies, creating a perfect backdrop for a morning coffee or an evening unwind. The interiors are thoughtfully furnished, featuring a cozy seating area, a cable flat-screen TV for entertainment, and a fully equipped kitchenette that includes a fridge and a stovetop, catering to guests' culinary needs. The convenience of a private bathroom, complete with a shower and complimentary toiletries, adds to the comfort, while the inclusion of a wardrobe in the units underscores the attention to guests' needs.

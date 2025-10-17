@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts a generous layout, featuring a bedroom, a living room, and a terrace that presents breathtaking sea views. Guests can enjoy the comfort of a flat-screen TV, an equipped kitchenette complete with a fridge and kitchenware, and a bathroom with a shower. For added convenience, towels and bed linen are readily available in the apartment, ensuring a comfortable stay.

@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Aliaj's Guest House is thoughtfully equipped with a television and a private bathroom that includes a shower and slippers, ensuring a comfortable and relaxing stay. The in-room kitchen, complete with a toaster, fridge, and kitchenware, offers guests the flexibility to prepare their meals, adding a touch of home.

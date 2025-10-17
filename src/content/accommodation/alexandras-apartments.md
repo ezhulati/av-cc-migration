@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Alexandra's Apartments are treated to an array of amenities designed to enhance their stay. Each apartment is a haven of comfort, featuring air conditioning, complimentary private parking, and access to free WiFi, ensuring a seamless connection to the digital world. The living spaces are thoughtfully appointed with a terrace that opens up to mesmerizing sea views, creating a perfect backdrop for relaxation. The seating area, complemented by a flat-screen TV, invites guests to unwind after a day of exploration.

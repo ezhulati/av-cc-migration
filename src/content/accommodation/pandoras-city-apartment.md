@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment is not just about its prime location; it offers a spacious living environment that includes a balcony, a cozy bedroom, a living room for relaxation, and a well-equipped kitchen complete with a fridge for those who prefer home-cooked meals. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable stay. Emphasizing a clean and healthy living space, the accommodation is strictly non-smoking.

@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious and elegant living, boasting a balcony that offers captivating city views. Guests can enjoy the comfort of a large bedroom, a cozy living room equipped with a flat-screen TV for those leisurely evenings, a fully equipped kitchen for home-cooked meals, and a bathroom featuring a refreshing shower.

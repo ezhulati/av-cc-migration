@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will find themselves enveloped in comfort, thanks to the apartment's thoughtful amenities, including air conditioning to beat the heat, complimentary WiFi to stay connected, and a flat-screen TV for entertainment. The space itself is thoughtfully designed, featuring a cozy bedroom, a fully equipped kitchenette for those who enjoy crafting their meals, and a well-appointed bathroom, ensuring a stay that combines convenience with the comforts of home.

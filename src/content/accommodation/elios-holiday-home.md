@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Elio's are thoughtfully designed with family-friendly rooms that cater to the needs of all guests. Each unit is equipped with a cozy seating area, complete with a flat-screen TV for entertainment, and a private bathroom stocked with a hairdryer, complimentary toiletries, and a bidet for added convenience. The presence of a fridge, stovetop, kitchenware, and kettle in the rooms allows guests the freedom to prepare their own meals, making it an ideal choice for longer stays or those preferring a touch of home.

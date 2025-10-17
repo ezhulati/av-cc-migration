@@ -16,6 +16,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Apartament Gloria&Mitati are treated to well-appointed units equipped with modern amenities to ensure a comfortable stay. Each apartment features air conditioning, a cozy seating area, and a flat-screen TV with satellite channels for entertainment. The inclusion of a fully equipped kitchen, complete with a fridge, stovetop, and kitchenware, alongside a coffee machine and kettle, allows guests the freedom to prepare their meals just the way they like. The private bathrooms add a touch of luxury with soft bathrobes, a bidet, and a hairdryer, ensuring a refreshing start or end to the day.

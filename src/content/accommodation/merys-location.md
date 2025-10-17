@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is thoughtfully laid out with a single bedroom, a bathroom, and a kitchen that comes fully equipped to cater to every culinary need. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have all they need for a cozy night in. Importantly, Mery's Location maintains a strict non-smoking policy, ensuring a clean and fresh environment for all who stay.

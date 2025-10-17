@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each air-conditioned unit within Krisa's Apartment is thoughtfully equipped with a private bathroom, a flat-screen TV for entertainment, a fully equipped kitchen for those home-cooked meals, and a balcony to soak in the serene surroundings. For guests craving a bit more outdoor space, select rooms boast a terrace, perfect for enjoying the balmy evenings.

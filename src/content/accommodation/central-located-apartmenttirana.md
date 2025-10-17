@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned two-bedroom apartment doesn't just promise a place to stay; it offers a home away from home. Guests can enjoy the luxury of a flat-screen TV, a washing machine, and a fully equipped kitchen complete with a fridge, ensuring all the comforts of home are at their fingertips. The commitment to a non-smoking environment further enhances the quality of stay, ensuring a fresh and welcoming ambiance.

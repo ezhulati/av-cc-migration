@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment boasts a generous layout, featuring two well-appointed bedrooms, a cozy living room with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a microwave, catering to all culinary needs. The inclusion of a bathroom with a bidet adds a touch of modern convenience. One of the highlights of Kelvi's Apartment is its terrace, offering breathtaking lake views that promise to captivate guests, alongside an outdoor dining area that invites serene moments under the sky. For those staying a bit longer or in need of fresh attire, a laundry service is readily available, ensuring a hassle-free stay.

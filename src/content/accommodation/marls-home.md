@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Upon arrival, visitors are greeted by a thoughtfully designed space that caters to both relaxation and entertainment needs. The presence of a DVD player, alongside a fully equipped kitchen featuring an oven, microwave, and fridge, allows guests to feel right at home. The living area, complete with a cozy seating and dining space, invites families and friends to gather and create memories. With two bedrooms and a bathroom equipped with a bidet and bath, Marl's Home accommodates guests with both privacy and comfort.

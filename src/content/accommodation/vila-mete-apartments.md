@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a spacious sanctuary complete with two bedrooms, a living room that invites relaxation, and a balcony that opens up to breathtaking mountain vistas. The inclusion of a fully equipped kitchen, featuring a dishwasher and an oven, ensures that guests have everything they need at their fingertips. Moreover, the availability of a flat-screen TV adds a touch of home comfort, perfect for winding down after a day of adventure.

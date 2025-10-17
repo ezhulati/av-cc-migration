@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and light, boasting a generous layout that includes three well-appointed bedrooms, a cozy living room, and a balcony that offers serene garden views - a perfect setting for morning coffees or evening relaxation. The inclusion of a flat-screen TV, an equipped kitchen complete with an oven and toaster, and two modern bathrooms, one of which features a bidet, ensures guests have all the comforts of home at their fingertips. Additionally, the convenience of complimentary WiFi and private parking on site adds to the seamless experience of staying at Ioli's House.

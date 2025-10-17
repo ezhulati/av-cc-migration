@@ -16,6 +16,7 @@ amenities:
   - "Breakfast"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Vila Alexander B&B are thoughtfully designed with guest comfort in mind. Select rooms boast the luxury of a private entrance, ensuring a secluded and intimate experience. These spaces are well-appointed with modern amenities including air conditioning, desks, and outdoor furniture for a touch of home. Entertainment and convenience are not overlooked, with satellite flat-screen TVs and fully equipped kitchens available in certain units, alongside private bathrooms complete with bidets and slippers. The attention to detail extends to the provision of crisp bed linen and soft towels in every room.

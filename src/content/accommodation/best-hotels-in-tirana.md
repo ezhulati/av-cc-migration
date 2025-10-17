@@ -12,5 +12,6 @@ starRating: 3
 rating: 3
 accommodationType: "hotel"
 location: "Tirana"
+ratingWords: "Fair"
 ---
 

@@ -14,6 +14,7 @@ amenities:
   - "Parking"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Accommodations at Ensol B&B are thoughtfully designed to cater to families, featuring allergy-free rooms that come equipped with a terrace for soaking in the breathtaking scenery. Each unit boasts a well-appointed kitchen, ensuring that guests feel at home. The attention to detail extends to the bathrooms, which are shared yet offer privacy and are stocked with complimentary bathrobes and toiletries, adding a touch of luxury to the stay.

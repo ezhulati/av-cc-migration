@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment features two well-appointed bedrooms, providing ample space for relaxation after a day of exploration. The living room, equipped with a flat-screen TV offering cable channels, serves as a cozy retreat for entertainment or leisure. A fully equipped kitchen, complete with a microwave and fridge, allows guests the freedom to prepare meals as they wish, adding a touch of home to their travel experience. Additionally, the convenience of a bathroom equipped with a hair dryer underscores the thoughtful amenities provided.

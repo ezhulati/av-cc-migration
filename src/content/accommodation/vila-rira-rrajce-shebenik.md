@@ -13,6 +13,7 @@ location: "Lac"
 amenities:
   - "Restaurant"
   - "TV"
+ratingWords: "Fair"
 ---
 
 For those arriving from afar or planning to explore the surrounding beauty, VILA RIRA simplifies travel logistics with efficient airport transfer services and the convenience of an on-site car rental service. The accommodations are thoughtfully designed to cater to diverse preferences, featuring select units with balconies, cable flat-screen TVs, and cozy seating areas. Privacy and comfort are paramount, with each unit housing a private bathroom equipped with slippers and complimentary toiletries, ensuring a stay that combines the essence of home with the luxury of a guest house.

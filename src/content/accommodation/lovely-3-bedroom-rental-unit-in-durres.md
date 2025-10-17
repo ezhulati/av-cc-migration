@@ -17,6 +17,7 @@ amenities:
   - "Sea View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a seamless blend of comfort and elegance in a spacious apartment that boasts a balcony with breathtaking sea views. The interior is thoughtfully designed with a cozy living room, a flat-screen TV for entertainment, and a fully equipped kitchen featuring an oven and a fridge, making it ideal for those who enjoy preparing their meals. The presence of two bathrooms, one of which includes a luxurious hot tub, adds an extra layer of convenience and relaxation to the stay. To further enhance the experience, the apartment provides high-quality bed linen, towels, and a laundry service, ensuring every need is met with the utmost attention to detail.

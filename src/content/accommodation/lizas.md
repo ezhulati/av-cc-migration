@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Sea View"
   - "Laundry"
+ratingWords: "Fair"
 ---
 
 The property prides itself on its spacious apartment that boasts a separate bedroom, ensuring privacy and comfort. The fully equipped kitchen, complete with an oven and toaster, invites guests to prepare their meals just the way they like. The dining area, coupled with an outdoor dining space, provides the perfect backdrop for meals with a view. Whether it's breakfast at sunrise or dinner under the stars, the sea views from Liza's are truly mesmerizing.

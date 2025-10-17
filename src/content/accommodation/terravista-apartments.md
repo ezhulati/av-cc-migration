@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Terra'Vista is a testament to modern living, equipped with air conditioning, a flat-screen TV, and complimentary WiFi. The attention to detail is evident in the private bathrooms, complete with a bidet and plush bathrobes, ensuring a stay that is both comfortable and luxurious. Selected units boast the added luxury of a terrace, inviting guests to unwind in their private outdoor space. The provision of bed linen and towels in all units underscores the property's commitment to guest comfort.

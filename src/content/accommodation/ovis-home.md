@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and comfort, boasting two well-appointed bedrooms and a fully equipped kitchen, complete with an oven and fridge, ensuring a home-away-from-home experience. The living area, adorned with a flat-screen TV and cozy seating, invites guests to relax after a day of city exploration. The convenience of a private bathroom, equipped with a bidet, along with the provision of towels and bed linen, adds to the seamless stay experience. Additionally, the unique feature of a dressing room offers an added layer of privacy and convenience for guests.

@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Privacy and ease define the experience at Vila-Amo, with a dedicated private entrance ensuring a seamless arrival and departure for guests. The establishment prides itself on offering a range of amenities designed to enhance the stay of every visitor. These include a shared kitchen, ensuring that guests have the flexibility to prepare meals at their leisure, complemented by full-day security and a currency exchange service, adding an extra layer of convenience and peace of mind.

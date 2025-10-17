@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at B&B E R A is a haven of comfort, featuring air-conditioning for those warm summer days and a balcony that presents breathtaking sea views. Entertainment and practical needs are met with a flat-screen TV and a kitchen equipped with an oven, microwave, and fridge. The convenience of a walk-in shower and the thoughtful touch of complimentary chocolates or cookies add to the welcoming atmosphere.

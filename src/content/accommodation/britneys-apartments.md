@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Britney's Apartments are designed with the modern traveler in mind. Each apartment boasts a private entrance, ensuring a sense of exclusivity and privacy. The interiors are thoughtfully equipped with a full kitchen, including an oven, and a cozy seating area complemented by a flat-screen TV for those moments of relaxation. Convenience is further enhanced with the inclusion of a washing machine and a sleek private bathroom featuring a bidet and hair dryer. For added comfort, air conditioning and a desk are standard in all units, catering to both leisure and business travelers.

@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Star Room's is thoughtfully designed with guest comfort in mind, featuring a private balcony for enjoying the gentle Mediterranean breeze. The rooms are equipped with modern amenities including air conditioning for those warm summer days, a flat-screen TV for entertainment, and a private bathroom complete with a bath. For added convenience, a fridge is provided in every unit, making it easy for guests to store refreshments and snacks.

@@ -12,6 +12,7 @@ accommodationType: "villa"
 location: "Tirana"
 amenities:
   - "WiFi"
+ratingWords: "Fair"
 ---
 
 Guests at Kosta's Home enjoy the benefit of complimentary WiFi throughout the premises, ensuring that connectivity is never an issue. The property proudly maintains a non-smoking policy, catering to the comfort and well-being of all guests.

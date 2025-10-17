@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a seamless blend of convenience and comfort in each room, which comes equipped with a desk, a flat-screen TV, air conditioning, and a private bathroom stocked with complimentary toiletries. For those seeking a little extra, select rooms boast balconies that offer a private oasis of relaxation. The attention to detail extends to the provision of plush bed linen and towels, ensuring a restful night's sleep.

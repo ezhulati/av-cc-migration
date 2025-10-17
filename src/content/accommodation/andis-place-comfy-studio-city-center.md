@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This recently updated studio apartment, with its roots tracing back to 1990, offers a modern retreat with the charm of historical architecture. Guests are treated to a suite of amenities including air conditioning, complimentary WiFi, ensuring a stay that combines the ease of modern living with the warmth of home. The space is strictly non-smoking, promoting a clean and healthy environment, and is located a brief journey from the Former Residence of Enver Hoxha, adding a touch of historical intrigue to the visit.

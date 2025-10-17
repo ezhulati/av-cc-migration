@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 A stone's throw away from pivotal landmarks, the apartment is conveniently located 700 meters from the National Gallery of Arts Tirana, and equally close to both the Clock Tower Tirana and Et'hem Bey Mosque, making it an ideal base for guests eager to immerse themselves in the local heritage. Skanderbeg Square, a hub of activity and culture, is also just 700 meters away, ensuring guests are never far from the vibrant heart of the city.

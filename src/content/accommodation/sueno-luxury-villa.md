@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa's interior is a testament to luxury living, boasting tiled floors across its expansive layout that includes 9 bedrooms and 4 bathrooms. Each bathroom is a sanctuary of relaxation, equipped with a hot tub, bidet, and complimentary slippers, enhancing the comfort of every stay. The presence of a terrace offering captivating pool views adds to the villa's charm, alongside amenities such as a flat-screen TV, a fully equipped kitchen, and additional bathrooms featuring walk-in showers and bathrobes. The commitment to guest privacy and comfort is further underscored by the villa's private entrance and soundproofing.

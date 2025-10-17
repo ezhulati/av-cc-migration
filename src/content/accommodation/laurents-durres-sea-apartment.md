@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Laurent's Durres Sea Apartment are treated to a seamless stay, thanks to the availability of complimentary WiFi and on-site parking. The apartment itself is a haven of space and light, boasting a balcony that offers unobstructed views of the sea. Designed to accommodate the modern traveler, the apartment features two well-appointed bedrooms, a cozy living room with a flat-screen TV, and a fully equipped kitchen that includes a dishwasher and an oven. The presence of two bathrooms, each with a bidet, along with the provision of towels and bed linen, underscores the apartment's commitment to guest comfort. Notably, the property maintains a non-smoking policy throughout.

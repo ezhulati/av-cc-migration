@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Breakfast"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Every room at ELÉA Guesthouse Himare is a testament to thoughtful hospitality, featuring air conditioning, soundproofing for a peaceful night's sleep, ample wardrobe space, and a sleek, private bathroom equipped with a walk-in shower. The attention to detail extends to the outdoor spaces as well; guests can enjoy their own terrace, complete with an outdoor dining area to soak in the surrounding beauty.

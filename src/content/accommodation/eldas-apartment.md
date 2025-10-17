@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "Air Conditioning"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation features a cozy one-bedroom layout, complete with a TV, air conditioning, and a welcoming living room, designed to be a home away from home. For those arriving from afar, Ioannina Airport is located 97 km away, making Elda's Apartment a reachable retreat for international and domestic travelers alike.

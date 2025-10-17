@@ -16,6 +16,7 @@ amenities:
   - "Bar"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Hotel Kalemi 2 are thoughtfully designed with the modern traveler in mind. Each room is a haven of comfort, featuring air conditioning, a flat-screen TV with satellite channels, a minibar, and a kettle for that much-needed morning brew. The attention to detail extends to the private bathrooms equipped with a shower, complimentary toiletries, and a hairdryer, ensuring a stay that is as comfortable as it is convenient. Select rooms elevate the experience further with balconies offering captivating city views, inviting guests to soak in the ambiance of Gjirokastër from the privacy of their room.

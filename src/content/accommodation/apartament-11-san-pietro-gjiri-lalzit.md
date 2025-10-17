@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is thoughtfully designed to cater to the needs of modern travelers, featuring a well-appointed bedroom, a sleek flat-screen TV, and a fully equipped kitchen. The kitchen comes complete with an oven, fridge, washing machine, minibar, and all necessary kitchenware, making it perfect for those who prefer the comforts of home-cooked meals. The highlight for many, however, is the outdoor dining area, where guests can savor their meals amidst the soothing backdrop of the garden's lush views.

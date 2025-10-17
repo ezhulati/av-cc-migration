@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself presents a well-appointed living space, featuring one bedroom, a bathroom, and a living area that opens up to a balcony with captivating city views. Comfort is prioritized with the provision of quality bed linen and towels, while entertainment needs are met with a flat-screen TV equipped with cable channels. The fully equipped kitchen stands ready for culinary adventures, making it an ideal setting for both short and extended stays.

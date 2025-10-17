@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home. Guests are treated to a generously sized living space that boasts a balcony for those serene morning coffees or tranquil evening reflections. The layout includes two cozy bedrooms, a living area designed for relaxation, and a kitchen that comes fully equipped with modern appliances, including a dishwasher, ensuring that every need is met with ease.

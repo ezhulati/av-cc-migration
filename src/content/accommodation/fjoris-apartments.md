@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Fjori's is designed with the modern traveler in mind, featuring a fully equipped kitchen, free WiFi, and the convenience of a washing machine. Entertainment needs are met with a flat-screen TV in every unit, while the comfort of air conditioning is a standard. For those who appreciate outdoor spaces, select rooms boast a balcony, offering a glimpse of the city's vibrant life.

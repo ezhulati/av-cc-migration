@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Air Conditioning"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel prides itself on its attentive 24-hour front desk service, ready to meet guests' needs at any hour, including currency exchange services. Each guest room is thoughtfully designed with a desk, air conditioning, and a flat-screen TV, ensuring a blend of functionality and comfort. The private bathrooms are equipped with showers, and for those seeking a little extra, select rooms boast balconies offering a glimpse of the area's beauty.

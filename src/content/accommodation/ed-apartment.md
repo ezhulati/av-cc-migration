@@ -20,6 +20,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is equipped with modern amenities, including air conditioning, a cable flat-screen TV, and a fully equipped kitchen, ensuring a comfortable stay for guests. The inclusion of a dining area and a cozy living room adds to the homely feel, while the balcony offers breathtaking sea views, allowing guests to soak in the picturesque surroundings.

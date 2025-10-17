@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, featuring three well-appointed bedrooms that promise restful nights. Entertainment and connectivity are at guests' fingertips, thanks to the inclusion of a cable flat-screen TV. A dining area provides the perfect setting for meals, whether they're home-cooked in the fully equipped kitchen or delivered from one of the many nearby eateries.

@@ -17,6 +17,7 @@ amenities:
   - "Breakfast"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Sar'Otel are a testament to modern elegance, with each room bathed in natural light, showcasing contemporary furnishings. Guests will find all the essentials for a relaxing stay, such as a flat-screen TV, air conditioning, a minibar, and a workspace. The private bathrooms are equipped with showers, and most rooms boast the added luxury of a balcony.

@@ -13,6 +13,7 @@ location: "Lac"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The interior of Vinny's Place reveals an air-conditioned sanctuary featuring a single bedroom, a well-appointed kitchenette, and a bathroom equipped for comfort. Entertainment needs are met with a flat-screen TV, making it an ideal setting for relaxation after a day of exploration.

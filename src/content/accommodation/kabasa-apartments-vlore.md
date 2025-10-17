@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment within this distinguished complex is a testament to thoughtful living spaces, boasting a fully equipped kitchen that includes an oven and a fridge, ensuring guests feel right at home. The attention to detail extends to a safety deposit box, a satellite flat-screen TV, ironing facilities, a wardrobe, and a cozy seating area with a sofa, designed for relaxation and entertainment. The private bathrooms are outfitted with showers and slippers, enhancing the comfort of stay, while the inclusion of free WiFi, bed linen, and towels underscores the commitment to guest convenience.

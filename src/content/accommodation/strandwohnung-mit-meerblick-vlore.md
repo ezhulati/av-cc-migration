@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Each apartment at Strandwohnung mit Meerblick is thoughtfully designed with air conditioning for those warm Mediterranean days and comes equipped with a balcony that serves as a private vista to the azure waters. The interiors boast a fully equipped kitchen, complete with a dishwasher, oven, fridge, and stovetop, ensuring that guests feel right at home. The convenience of a coffee machine and kettle adds a touch of home comfort, while the inclusion of bed linen and towels in all units underscores the attention to detail that makes a stay here truly hassle-free.

@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Breakfast"
   - "Room Service"
+ratingWords: "Fair"
 ---
 
 The hotel prides itself on modern amenities, including complimentary WiFi that keeps guests connected, room service for those moments of relaxation, and a 24-hour front desk ensuring assistance is always at hand. The bar serves as a cozy nook for guests to unwind with a drink after a day of exploration.

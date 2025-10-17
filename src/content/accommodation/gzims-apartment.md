@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property stands out for its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The apartment itself is a haven of comfort, featuring one bedroom, a bathroom equipped with fresh bed linen and towels, and a living area that includes a flat-screen TV with cable channels for entertainment. The dining area opens up to a fully equipped kitchen, allowing guests to prepare their meals just the way they like. Perhaps the most charming feature is the balcony that offers picturesque city views, perfect for enjoying meals in the outdoor dining area while taking in the tranquil street scenes below.

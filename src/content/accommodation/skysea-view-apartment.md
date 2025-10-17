@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with the promise of a hassle-free stay, thanks to the 24-hour front desk, seamless airport transfer services, and the modern convenience of an elevator and complimentary WiFi. The apartment itself is a spacious sanctuary, boasting a balcony that offers captivating city views. It is thoughtfully designed with a comfortable bedroom, a cozy living room equipped with a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a bathroom complete with a bidet and shower. For added convenience, an ironing service is readily available, ensuring that guests look their best with minimal effort.

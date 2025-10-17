@@ -19,6 +19,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property boasts an array of amenities designed to enhance the guest experience, including complimentary private parking, an elevator for easy access, and high-speed WiFi throughout the premises. Security is a top priority at Luna_FF, with round-the-clock surveillance and a dedicated housekeeping service ensuring a safe and immaculate environment. Additionally, the convenience of an on-site currency exchange service means guests have one less thing to worry about during their stay.

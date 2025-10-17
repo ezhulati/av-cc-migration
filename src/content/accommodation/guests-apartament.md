@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each air-conditioned unit within the apartment complex is thoughtfully equipped with modern amenities including a wardrobe, coffee machine, dishwasher, oven, and safety deposit box. Entertainment and connectivity are ensured with the provision of a flat-screen TV and complimentary WiFi. The charm of the rooms is further enhanced by a balcony that presents guests with stunning mountain vistas, inviting them to unwind in the tranquility of nature.

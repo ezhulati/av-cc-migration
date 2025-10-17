@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment boasts a welcoming balcony, complemented by complimentary WiFi, ensuring guests stay connected and comfortable throughout their visit. The commitment to a smoke-free environment further enhances the appeal for health-conscious visitors. Additionally, the convenience of an elevator adds to the effortless experience of staying here.

@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property stands out for its commitment to providing a smoke-free environment, ensuring a clean and fresh stay for all guests. It's also conveniently situated 43 km from the Dajti Ekspres Cable Car, offering an easy gateway to one of the area's top attractions.

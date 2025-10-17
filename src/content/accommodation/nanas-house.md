@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property boasts a generous layout, featuring a sun-drenched terrace perfect for leisurely mornings, a cozy bedroom for restful nights, a spacious living area for relaxation, and a fully equipped kitchen for culinary adventures. Entertainment is readily available with a flat-screen TV, complemented by picturesque garden views that promise a serene backdrop during your stay.

@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring two well-appointed bedrooms, a fully equipped kitchen with an oven and fridge, and a cozy seating area perfect for unwinding after a day of exploration. Entertainment is readily available through the flat-screen TV, and the convenience of free WiFi throughout the property ensures guests stay connected. The inclusion of a private bathroom, complete with either a bath or shower, along with the provision of towels and bed linen, adds to the homely feel of the accommodation. Notably, the private entrance to the apartment enhances the sense of privacy and exclusivity.

@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Breakfast"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 Accommodations at GuestHouse "Shtëpia ime" are thoughtfully appointed with modern comforts to ensure a pleasant stay. Each unit boasts air conditioning, a refrigerator, minibar, and kettle, alongside a walk-in shower, slippers, and ample wardrobe space. The attention to detail extends to the private bathrooms, which are well-equipped with a bath and hair dryer for a touch of luxury. For those seeking the comforts of home, select rooms feature a fully equipped kitchen, complete with a toaster, allowing guests the freedom to prepare their own meals.

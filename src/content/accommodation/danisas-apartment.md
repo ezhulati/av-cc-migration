@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This non-smoking apartment is designed to cater to the needs of modern travelers, featuring a spacious layout that includes a balcony, a cozy bedroom, a welcoming living room, and a well-equipped kitchenette complete with a toaster. Entertainment needs are well met with the availability of a flat-screen TV, ensuring guests have a pleasant stay.

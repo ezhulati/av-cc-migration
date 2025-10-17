@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation boasts a well-appointed balcony that frames captivating sea vistas. Inside, guests will find a cozy bedroom, a welcoming living room, and a flat-screen TV for entertainment. The kitchen comes fully equipped with an oven and toaster, catering to those who enjoy preparing their meals. Additionally, the convenience of a walk-in shower in the bathroom, along with provided towels and bed linen, enhances the home-away-from-home experience. Notably, the apartment maintains a non-smoking and soundproof environment, ensuring a peaceful stay.

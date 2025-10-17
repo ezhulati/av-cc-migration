@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern amenities, featuring air-conditioned spaces designed for relaxation and entertainment. Guests can unwind in the cozy living room, equipped with a flat-screen TV and game console, perfect for leisurely evenings after a day of exploration. The inclusion of a fully equipped kitchen, complete with a microwave, allows for the convenience of home-cooked meals, further enhancing the homely atmosphere of Bruno's Apartment. Additionally, the provision of towels and bed linen ensures a comfortable and hassle-free stay.

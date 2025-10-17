@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment, set against a backdrop of lush garden views, is a haven of tranquility. It boasts two well-appointed bedrooms, ensuring a restful night's sleep for all guests. The living space is thoughtfully designed with a satellite flat-screen TV and a cozy dining area, perfect for leisurely meals. A fully equipped kitchen, complete with a refrigerator, allows visitors the freedom to prepare their own culinary delights, adding a touch of home to their travel experience.

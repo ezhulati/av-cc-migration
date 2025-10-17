@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed with the convenience of complimentary private parking and the luxury of free WiFi throughout the property. Each room opens up to a balcony where one can enjoy the lush surroundings in privacy. The accommodations are thoughtfully equipped with air conditioning for comfort in all seasons. Entertainment and relaxation are ensured with a flat-screen TV available in every room, alongside a private bathroom that includes a shower and a hair dryer for personal care. The addition of a wardrobe in all units adds a touch of home, ensuring guests have ample space for their belongings.

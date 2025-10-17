@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Ona's Apartments are thoughtfully designed with guest needs in mind. Select units boast a cable flat-screen TV for entertainment, a fully equipped kitchen ready for culinary adventures with an oven, and the privacy of a bathroom equipped with a bidet and hair dryer for added convenience. For those sensitive to noise, soundproof options are available, ensuring a restful night's sleep.

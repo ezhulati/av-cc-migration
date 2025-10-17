@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is thoughtfully designed with guests' needs in mind, featuring a cozy bedroom, a well-equipped kitchenette complete with a fridge and stovetop, and a comfortable seating area for unwinding. Entertainment is readily available through the flat-screen TV, and the bathroom comes well-appointed with a bidet, ensuring a comfortable stay. Towels and bed linen are meticulously provided, enhancing the home-away-from-home experience. Additionally, the apartment prides itself on offering added privacy and tranquility through a private entrance and soundproofing.

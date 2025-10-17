@@ -15,6 +15,7 @@ amenities:
   - "Parking"
   - "Spa"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 This air-conditioned abode welcomes guests with a spacious balcony that leads to a terrace, setting the stage for a relaxing stay. Complimentary private parking and WiFi are just the beginning of the thoughtful amenities provided. With a strict non-smoking policy, the property maintains a fresh and clean environment, ensuring a comfortable stay for all guests. Located just over 5 kilometers from the iconic Skanderbeg Square, the house offers a perfect base for exploring Tirana's rich history and vibrant culture.

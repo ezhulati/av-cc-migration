@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in comfort and functionality, boasting air-conditioned spaces that include a well-appointed bedroom, a fully equipped kitchen with modern appliances such as a microwave and toaster, and a cozy seating area perfect for unwinding. The presence of a flat-screen TV adds a touch of home, while the bathroom is equipped with a walk-in shower, highlighting the apartment's attention to detail. For those in need of it, towels and linens are available upon request, emphasizing the property's commitment to guest convenience.

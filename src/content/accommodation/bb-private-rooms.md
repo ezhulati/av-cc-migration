@@ -19,6 +19,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with the convenience of complimentary private parking and the seamless connectivity of free WiFi throughout the premises. The property elevates the homestay experience by offering access to a terrace where one can soak in the urban panorama, alongside a casino that promises evenings filled with excitement.

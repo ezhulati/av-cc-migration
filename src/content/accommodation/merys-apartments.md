@@ -15,6 +15,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a home away from home experience, with each apartment featuring a private balcony, a fully equipped kitchen, and a cozy seating area. Entertainment and practical needs are well catered for with a flat-screen TV and a washing machine, while the private bathroom comes equipped with a walk-in shower and a hairdryer. For added convenience, bed linen and towels are readily provided, ensuring a comfortable stay.

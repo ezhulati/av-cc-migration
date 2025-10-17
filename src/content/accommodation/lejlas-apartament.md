@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a serene, air-conditioned space that opens up to a private balcony, promising an oasis of tranquility. The apartment boasts a generous layout, including a terrace for soaking in the surrounding beauty, a cozy bedroom for restful nights, a spacious living room for relaxation, and a fully equipped kitchen with a fridge, catering to all culinary needs.

@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This bed and breakfast features rooms equipped with satellite TV, ensuring guests stay entertained throughout their visit.

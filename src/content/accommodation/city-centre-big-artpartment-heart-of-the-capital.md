@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation is thoughtfully designed with a single bedroom, a bathroom equipped with essential linens and towels, and a living area that includes a flat-screen TV with cable channels, a dining space, and a fully stocked kitchen. The balcony presents serene mountain views, adding a touch of tranquility to the urban dwelling. Notably, the apartment features a private entrance, enhancing the sense of exclusivity and privacy for guests.

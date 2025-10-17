@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment doesn't just offer a place to stay; it provides a haven with city and sea views that can be enjoyed from the privacy of its balcony. The interior boasts a modern aesthetic with a flat-screen TV, a fully equipped kitchen complete with a dishwasher, oven, and fridge, and a bathroom outfitted with a bidet and complimentary slippers, ensuring guests have everything they need for a comfortable stay.

@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Spa"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of tranquility and comfort. Guests are treated to a well-appointed space featuring an air-conditioned bedroom, ensuring a restful night's sleep. The inclusion of a modern bathroom equipped with slippers and a hairdryer adds a touch of luxury to the stay. The living area, designed for relaxation, leads out to a balcony that serves as a charming outdoor dining space, perfect for enjoying meals with a view.

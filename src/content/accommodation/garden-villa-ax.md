@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with the sight of a lush garden and a welcoming terrace, setting the tone for a relaxing stay. The property boasts a private entrance, ensuring a seamless experience for all who visit. Each room at Garden Villa A&X is a testament to thoughtful hospitality, equipped with air conditioning to provide a respite from the Mediterranean warmth. The convenience of complimentary private parking and WiFi further enhances the guest experience, making it an ideal choice for both leisure and business travelers.

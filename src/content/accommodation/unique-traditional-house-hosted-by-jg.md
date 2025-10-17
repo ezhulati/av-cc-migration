@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Unique Traditional House ensures a memorable stay with its array of amenities. The villa boasts two cozy bedrooms, a bathroom stocked with essentials, and a living space designed for relaxation. The inclusion of a flat-screen TV with streaming services, a dining area, a fully equipped kitchen, and a patio overlooking a lush garden enhances the home-away-from-home experience. The outdoor dining area and a fireplace add a touch of luxury to evenings spent indoors, while the private entrance and round-the-clock security ensure peace of mind throughout the stay.

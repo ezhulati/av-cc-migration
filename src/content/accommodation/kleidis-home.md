@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will find themselves in a thoughtfully appointed space, featuring a bedroom that serves as a peaceful haven, a fully equipped kitchenette for those inspired to cook, and a bathroom that caters to all the essentials. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that leisure moments are well spent.

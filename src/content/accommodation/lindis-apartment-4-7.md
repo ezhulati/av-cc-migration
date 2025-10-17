@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment is a haven of space and tranquility, boasting a well-appointed bedroom, a cozy living room, and a balcony that offers serene street views, perfect for unwinding after a day of exploration. The inclusion of modern amenities such as air conditioning, complimentary WiFi accessible throughout the premises, and private parking enhances the convenience factor. The living space is equipped with a flat-screen TV, a fully equipped kitchen featuring a dishwasher and an oven, and a bathroom with a walk-in shower, ensuring guests feel at home.

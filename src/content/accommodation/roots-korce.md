@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 This apartment complex distinguishes itself by offering air-conditioned units complete with fully equipped kitchens, empowering guests with the freedom to craft their own culinary experiences. Each apartment ensures privacy and convenience with an en-suite bathroom, featuring modern amenities such as a bidet and hair dryer. The promise of connectivity is fulfilled with complimentary WiFi access, and select rooms elevate the guest experience further with the addition of a terrace.

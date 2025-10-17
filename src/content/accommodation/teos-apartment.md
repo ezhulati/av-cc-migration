@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodating guests with two cozy bedrooms, the apartment is equipped with a kitchen that includes both an oven and a microwave, catering to all culinary needs. The living space is designed for relaxation, featuring a flat-screen TV and a comfortable seating area, alongside a bathroom that comes complete with a bidet, ensuring a home-like comfort. The addition of a private entrance enhances the sense of privacy and exclusivity for those staying.

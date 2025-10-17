@@ -16,6 +16,7 @@ amenities:
   - "Parking"
   - "Spa"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 This apartment complex doesn't just boast an enviable position; it ensures guests stay connected and comfortable, thanks to the inclusion of air conditioning and complimentary WiFi across all units. Privacy and convenience are paramount, with each apartment featuring its own private bathroom. For guests desiring a little extra, selected rooms elevate the experience with the addition of a balcony, offering a private outdoor space to relax and soak in the surroundings.

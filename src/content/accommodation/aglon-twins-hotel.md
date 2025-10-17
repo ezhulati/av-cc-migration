@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon stepping into Aglon Twin's Hotel, guests are greeted with a plethora of amenities designed to enhance their stay. The hotel prides itself on its around-the-clock front desk service, ensuring assistance is always on hand, regardless of the hour. The allure of the sea is ever-present, with captivating sea views available to guests, serving as a constant reminder of the hotel's exceptional location.

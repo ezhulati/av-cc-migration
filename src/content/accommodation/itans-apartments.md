@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 This charming apartment boasts a welcoming balcony, providing a serene spot to unwind after a day of exploration. Inside, guests will find a thoughtfully arranged space consisting of a bedroom, a fully equipped kitchen ready to cater to any culinary desire, and a well-maintained bathroom, ensuring a comfortable stay.

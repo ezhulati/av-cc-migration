@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, boasting a bedroom, a bathroom, and an array of amenities including bed linen, towels, and a flat-screen TV with cable channels. The dining area and fully-equipped kitchen cater to those who prefer home-cooked meals, while the balcony offers breathtaking sea views, perfect for dining al fresco and soaking in the city's ambiance.

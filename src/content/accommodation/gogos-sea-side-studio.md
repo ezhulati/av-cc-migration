@@ -16,6 +16,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 The studio boasts a tranquil garden with sweeping views of the ocean, setting the stage for a peaceful escape. With the added perks of complimentary WiFi and private parking, guests are assured a hassle-free stay. The soundproof property ensures a quiet, undisturbed experience, allowing visitors to fully unwind.

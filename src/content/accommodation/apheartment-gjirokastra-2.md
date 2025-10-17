@@ -13,6 +13,7 @@ location: "Gjirokastër"
 amenities:
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to thoughtful accommodation, featuring two well-appointed bedrooms, a fully equipped kitchen for those who enjoy crafting their own meals, and a bathroom designed with modern amenities. Adding to the charm is a balcony that invites guests to unwind and soak in the local atmosphere.

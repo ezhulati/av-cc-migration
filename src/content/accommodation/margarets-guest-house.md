@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 The guest house boasts apartments that are a testament to thoughtful living spaces, featuring cozy seating areas with sofas, dining areas for intimate meals, and fully equipped kitchens ready for culinary adventures with an oven, microwave, toaster, and fridge. The allure of dining al fresco is made real on terraces that present breathtaking mountain views, ensuring every meal is accompanied by nature's grandeur. For added convenience, each unit is equipped with a wardrobe and a coffee machine, catering to both storage and caffeine needs.

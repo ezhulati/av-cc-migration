@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is thoughtfully designed with two bedrooms, ensuring ample space for guests. The kitchen is well-equipped with an oven and a fridge, catering to those who prefer home-cooked meals. Entertainment needs are met with a flat-screen TV in a cozy seating area, making it a perfect spot for unwinding. The convenience of a bathroom equipped with a bidet, along with the provision of towels and bed linen, adds to the comfort of the stay. Notably, the apartment elevates the experience with additional touches such as the option of wine or champagne, adding a hint of luxury to the stay.

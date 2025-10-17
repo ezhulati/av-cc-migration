@@ -15,6 +15,7 @@ amenities:
   - "Sea View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned studio apartment is a haven of comfort, offering guests a flat-screen TV, a washing machine, and a fully equipped kitchen complete with a fridge, ensuring a home-away-from-home experience. The commitment to a non-smoking environment further enhances the quality of stay for all guests.

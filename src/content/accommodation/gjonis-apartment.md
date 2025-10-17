@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a serene retreat with its spacious layout that includes two bedrooms, a living room, and a balcony that presents quiet street views. The inclusion of modern comforts such as air conditioning, a flat-screen TV, and an equipped kitchen with an oven and toaster, ensures guests feel at home. The bathroom, equipped with a hot tub, adds a touch of luxury to the stay, making it perfect for relaxation after a day of exploration.

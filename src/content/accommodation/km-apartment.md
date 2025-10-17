@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Situated merely 2.2 km from the iconic Skanderbeg Square and a short 7 km journey from the Dajti Ekspres Cable Car, K&M Apartment positions guests perfectly to explore the vibrant city of Tirana. The apartment itself is a haven of space and modern amenities, featuring a bedroom that promises restful nights, a flat-screen TV equipped with streaming services for entertainment at any hour, and a fully equipped kitchen. The kitchen, complete with a microwave, fridge, and washing machine, offers guests the freedom to prepare meals and snacks as they wish, all while enjoying the city's panoramic views.

@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern living, featuring a well-appointed bedroom, a cozy living room complete with a flat-screen TV, a fully equipped kitchen with a dining area, and a bathroom outfitted with a bath and a washing machine. Guests can rest easy knowing that the entire apartment is a smoke-free environment, ensuring a clean and healthy stay.

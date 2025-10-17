@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property stands out not only for its enviable location but also for the array of amenities designed to enhance every stay. The apartment itself is a spacious retreat, boasting a well-appointed bedroom, a cozy living room complete with a flat-screen TV, and a fully equipped kitchen that includes an oven and a fridge. The highlight, however, is the terrace that offers guests a chance to dine al fresco while soaking in the garden's tranquil beauty.

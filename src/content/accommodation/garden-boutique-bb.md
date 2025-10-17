@@ -14,6 +14,7 @@ amenities:
   - "Bar"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to the comfort of air-conditioned rooms, each equipped with a flat-screen TV, refrigerator, and an en suite bathroom. Select accommodations boast balconies that overlook the lush garden, providing a picturesque setting for morning coffees or evening relaxation. The attention to detail is evident with the inclusion of bathrobes, complimentary toiletries, and a hairdryer, ensuring a stay that marries luxury with home-like comfort.

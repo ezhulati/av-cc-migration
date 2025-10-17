@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and light, boasting a balcony that offers breathtaking views of the sea. Designed to cater to the needs of modern travelers, it features a well-appointed bedroom, a cozy living room for relaxation, a flat-screen TV for entertainment, and a fully equipped kitchen with an oven and microwave, allowing guests the freedom to prepare their meals. The inclusion of a bathroom with a bidet adds a touch of convenience to the stay.

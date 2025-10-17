@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Room Service"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Très Belle are treated to a seamless stay experience, starting with the ease of complimentary private parking, an essential for those driving in. Connectivity is never an issue, thanks to the hotel's provision of free WiFi throughout the premises. For added convenience, the hotel boasts a 24-hour front desk, room service, and even a currency exchange facility, ensuring a hassle-free stay for international guests.

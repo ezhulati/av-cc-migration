@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, visitors are greeted with the convenience of complimentary private parking and the modern necessity of free WiFi. The property's thoughtful layout includes a welcoming patio and an expansive terrace, perfect for soaking in the surrounding garden and city views. For those who relish the outdoors, the guesthouse provides an outdoor fireplace and a picnic area, inviting guests to relax or dine al fresco against a picturesque backdrop.

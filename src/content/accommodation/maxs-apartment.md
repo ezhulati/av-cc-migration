@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This non-smoking apartment is a haven of tranquility, offering guests a serene stay with its well-appointed features. The accommodation boasts a spacious bedroom designed for relaxation, a fully equipped kitchen for those who love to prepare their meals, and a modern bathroom. Entertainment is readily available with a flat-screen TV, ensuring guests have a pleasant and comfortable stay.

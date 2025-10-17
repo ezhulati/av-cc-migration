@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment is a haven of comfort, offering guests a garden view that promises relaxation amidst nature. The commitment to guest convenience is evident with the provision of complimentary WiFi and private parking, ensuring a hassle-free stay. The non-smoking policy of the property further ensures a clean and healthy environment for all guests.

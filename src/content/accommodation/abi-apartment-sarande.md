@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The ground-floor apartment is notably spacious, featuring a bedroom equipped with a flat-screen TV and a fully equipped kitchen. The kitchen comes complete with modern appliances including an oven, microwave, washing machine, toaster, and fridge, catering to all culinary needs. The highlight for many guests is the opportunity to dine al fresco in the outdoor dining area, where the backdrop of the sea enhances every meal.

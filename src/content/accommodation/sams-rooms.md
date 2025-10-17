@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Tirana"
 amenities:
   - "WiFi"
+ratingWords: "Fair"
 ---
 
 Privacy is a priority at Sam's Rooms, with each unit boasting its own entrance. The attention to detail extends to the interiors, where guests will find everything needed for a comfortable stay, including a wardrobe for personal belongings. The private bathrooms are well-appointed with baths and bathrobes, ensuring a touch of luxury. Complimentary WiFi, along with bed linen and towels, are provided in every unit, ensuring guests feel at home.

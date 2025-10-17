@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Tina's Apartment are treated to a suite of services designed to enhance their stay. The shared kitchen is a highlight, offering the freedom to prepare meals in a well-equipped space, featuring an oven and a fridge. Additionally, the availability of dry cleaning services adds an extra layer of convenience for those looking to keep their travel wardrobe fresh throughout their visit.

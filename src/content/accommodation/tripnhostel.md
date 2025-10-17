@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The heart of Trip'n'Hostel is its expansive yard, complete with a barbecue setup for guests looking to enjoy an outdoor meal. The on-site bar and rooftop terrace provide perfect spots for unwinding after a day of exploration, offering panoramic views of the town that are sure to impress.

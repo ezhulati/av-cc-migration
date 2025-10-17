@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Parking"
   - "Bar"
+ratingWords: "Fair"
 ---
 
 The property doesn't stop at offering mere accommodation; it extends its hospitality to ensure guests have a memorable stay. With amenities such as free private parking, complimentary WiFi, and 24-hour front desk assistance, convenience is at the forefront. For those looking to secure their valuables, the safety deposit box in each apartment provides peace of mind.

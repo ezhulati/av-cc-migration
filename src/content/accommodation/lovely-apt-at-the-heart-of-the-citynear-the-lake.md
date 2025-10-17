@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Lovely Apt offers guests a unique blend of comfort and convenience with its spacious layout that includes a bedroom, a living room equipped with a flat-screen TV, and a balcony that presents breathtaking mountain views. The kitchen is fully equipped with modern appliances, including an oven and a fridge, ensuring guests can feel at home. The apartment also features a bathroom complete with a bidet, alongside air-conditioning, a bath, and a dressing room, catering to all your needs for a comfortable stay. Notably, the apartment is designed to be non-smoking and soundproof, ensuring a peaceful retreat for all guests.

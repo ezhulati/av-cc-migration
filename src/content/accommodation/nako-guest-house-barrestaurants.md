@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room, boasting a private balcony, presents breathtaking mountain views, inviting guests to unwind in the tranquility of nature. The accommodations are thoughtfully designed with a seating area, ensuring a cozy space for relaxation. Entertainment is readily available with flat-screen TVs equipped with satellite channels, catering to the diverse tastes of guests. The private bathrooms are well-appointed with complimentary toiletries, a bidet, bath, and shower, adding a touch of luxury to the guest experience. Moreover, the convenience of a private entrance and the inclusion of a fridge in every unit underscore the guest house's attention to detail in ensuring a comfortable stay.

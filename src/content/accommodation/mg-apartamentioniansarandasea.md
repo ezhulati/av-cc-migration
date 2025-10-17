@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven of comfort, featuring a balcony that presents a stunning vista of the Ionian Sea. It is well-appointed with a bedroom, a living room that invites relaxation, a flat-screen TV for entertainment, and a kitchen equipped with modern amenities including a toaster and a fridge. The inclusion of a bathroom with a bath adds a touch of luxury to the overall experience. It's important to note that the accommodation maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.

@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment distinguishes itself with its commitment to providing a smoke-free environment, ensuring a clean and healthy stay for all guests. The inclusion of a balcony offers breathtaking sea views, allowing guests to soak in the coastal ambiance from the comfort of their accommodation. The convenience of free WiFi and air conditioning adds to the comfort, ensuring a stay that is both connected and comfortable.

@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "WiFi"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 The guesthouse prides itself on offering well-appointed units, each equipped with essential amenities to ensure a comfortable stay. Guests can expect to find a wardrobe, a desk, and a kettle in their rooms, alongside the convenience of a shared bathroom that comes with a bidet and hair dryer. The highlight, however, is the complimentary WiFi that keeps guests connected throughout their stay.

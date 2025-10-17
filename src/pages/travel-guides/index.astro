@@ -1,0 +1,530 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+// Get all published travel guides, sorted by date
+const allGuides = await getCollection('travel-guides', ({ data }) => {
+  return data.status === 'publish' || !data.status;
+});
+
+const guides = allGuides.sort((a, b) => {
+  return new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime();
+});
+
+// Get unique categories
+const allCategories = new Set<string>();
+guides.forEach(guide => {
+  guide.data.categories?.forEach(cat => allCategories.add(cat));
+});
+const categories = Array.from(allCategories).sort();
+
+// SEO
+const title = 'Travel Guides | AlbaniaVisit';
+const description = 'Comprehensive travel guides for Albania. Plan your perfect trip with insider tips, destination guides, and practical travel information.';
+const canonical = 'https://albaniavisit.com/travel-guides/';
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+>
+  <div class="travel-guides-page">
+    <!-- Hero Section -->
+    <header class="page-header">
+      <div class="header-content">
+        <h1>Travel Guides</h1>
+        <p class="subtitle">
+          Expert travel guides to help you discover the best of Albania. From planning your trip to exploring hidden gems.
+        </p>
+
+        <div class="header-stats">
+          <div class="stat">
+            <span class="stat-value">{guides.length}</span>
+            <span class="stat-label">Guides</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value">{categories.length}</span>
+            <span class="stat-label">Categories</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="content-wrapper">
+      <div class="container">
+        <!-- Categories Filter -->
+        {categories.length > 0 && (
+          <div class="categories-section">
+            <h2>Browse by Category</h2>
+            <div class="categories-grid">
+              {categories.map(category => (
+                <button class="category-chip" data-category={category}>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                    <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                  </svg>
+                  <span>{category}</span>
+                </button>
+              ))}
+              <button class="category-chip active" data-category="all">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                  <path d="M9 22V12h6v10"></path>
+                </svg>
+                <span>All Guides</span>
+              </button>
+            </div>
+          </div>
+        )}
+
+        <!-- Travel Guides Grid -->
+        <div class="guides-section">
+          <div class="guides-header">
+            <h2>All Travel Guides</h2>
+            <p class="guides-count">
+              Showing <span id="guides-count">{guides.length}</span> guides
+            </p>
+          </div>
+
+          <div class="guides-grid" id="guides-grid">
+            {guides.map(guide => {
+              const slug = guide.data.slug || guide.slug;
+              const categoriesStr = guide.data.categories?.join(',') || '';
+
+              return (
+                <article class="guide-card" data-categories={categoriesStr}>
+                  <a href={`/travel-guides/${slug}/`} class="card-link">
+                    {guide.data.featuredImage ? (
+                      <div class="card-image">
+                        <img
+                          src={guide.data.featuredImage}
+                          alt={guide.data.title}
+                          loading="lazy"
+                        />
+                      </div>
+                    ) : (
+                      <div class="card-image-placeholder">
+                        <svg width="60" height="60" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                          <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                          <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                        </svg>
+                      </div>
+                    )}
+                    <div class="card-content">
+                      {guide.data.categories && guide.data.categories.length > 0 && (
+                        <div class="card-categories">
+                          {guide.data.categories.slice(0, 2).map(cat => (
+                            <span class="card-category">{cat}</span>
+                          ))}
+                        </div>
+                      )}
+                      <h3 class="card-title">{guide.data.title}</h3>
+                      <p class="card-description">{guide.data.description}</p>
+                      <div class="card-meta">
+                        {guide.data.author && (
+                          <span class="card-author">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                              <circle cx="12" cy="7" r="4"></circle>
+                            </svg>
+                            {guide.data.author}
+                          </span>
+                        )}
+                        <time class="card-date" datetime={guide.data.pubDate.toISOString()}>
+                          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                            <line x1="16" y1="2" x2="16" y2="6"></line>
+                            <line x1="8" y1="2" x2="8" y2="6"></line>
+                            <line x1="3" y1="10" x2="21" y2="10"></line>
+                          </svg>
+                          {guide.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                        </time>
+                      </div>
+                    </div>
+                  </a>
+                </article>
+              );
+            })}
+          </div>
+
+          {guides.length === 0 && (
+            <div class="no-guides">
+              <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+              </svg>
+              <p>No travel guides available yet. Check back soon!</p>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .travel-guides-page {
+    background: #fafafa;
+  }
+
+  /* Header */
+  .page-header {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    color: white;
+    padding: 60px 0 80px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .page-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.1;
+  }
+
+  .header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .page-header h1 {
+    font-size: 48px;
+    font-weight: 800;
+    margin: 0 0 16px 0;
+    letter-spacing: -0.5px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.9);
+    max-width: 700px;
+    margin: 0 0 32px 0;
+  }
+
+  .header-stats {
+    display: flex;
+    gap: 48px;
+    flex-wrap: wrap;
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .stat-value {
+    font-size: 32px;
+    font-weight: 700;
+    color: #e31c2a;
+  }
+
+  .stat-label {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  /* Content Wrapper */
+  .content-wrapper {
+    padding: 3rem 2rem;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  /* Categories Section */
+  .categories-section {
+    margin-bottom: 3rem;
+  }
+
+  .categories-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #2c3e50;
+  }
+
+  .categories-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .category-chip {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    background: white;
+    border: 2px solid #dee2e6;
+    border-radius: 25px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #495057;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .category-chip:hover {
+    border-color: #3498db;
+    color: #3498db;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.15);
+  }
+
+  .category-chip.active {
+    background: #3498db;
+    border-color: #3498db;
+    color: white;
+  }
+
+  .category-chip svg {
+    flex-shrink: 0;
+  }
+
+  /* Guides Section */
+  .guides-section {
+    margin-top: 2rem;
+  }
+
+  .guides-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #dee2e6;
+  }
+
+  .guides-header h2 {
+    font-size: 1.875rem;
+    margin: 0;
+    color: #2c3e50;
+  }
+
+  .guides-count {
+    color: #6c757d;
+    font-size: 1rem;
+    margin: 0;
+  }
+
+  /* Guides Grid */
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+  }
+
+  .guide-card {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
+  }
+
+  .guide-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  }
+
+  .guide-card.hidden {
+    display: none;
+  }
+
+  .card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card-image {
+    width: 100%;
+    height: 240px;
+    overflow: hidden;
+    background: #f8f9fa;
+  }
+
+  .card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+
+  .guide-card:hover .card-image img {
+    transform: scale(1.05);
+  }
+
+  .card-image-placeholder {
+    width: 100%;
+    height: 240px;
+    background: linear-gradient(135deg, #e8f4f8 0%, #d4e8f0 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3498db;
+  }
+
+  .card-content {
+    padding: 1.5rem;
+  }
+
+  .card-categories {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .card-category {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.75rem;
+    background: #e8f4f8;
+    color: #2980b9;
+    border-radius: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .card-title {
+    font-size: 1.375rem;
+    font-weight: 700;
+    margin: 0 0 0.75rem 0;
+    color: #2c3e50;
+    line-height: 1.3;
+  }
+
+  .card-description {
+    font-size: 0.95rem;
+    color: #6c757d;
+    line-height: 1.6;
+    margin: 0 0 1rem 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-meta {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.875rem;
+    color: #868e96;
+  }
+
+  .card-author,
+  .card-date {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  /* No Guides Message */
+  .no-guides {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: #6c757d;
+  }
+
+  .no-guides svg {
+    margin-bottom: 1.5rem;
+    color: #dee2e6;
+  }
+
+  .no-guides p {
+    font-size: 1.125rem;
+    margin: 0;
+  }
+
+  /* Responsive */
+  @media (max-width: 968px) {
+    .page-header h1 {
+      font-size: 36px;
+    }
+
+    .subtitle {
+      font-size: 16px;
+    }
+
+    .header-stats {
+      gap: 32px;
+    }
+
+    .stat-value {
+      font-size: 28px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .page-header {
+      padding: 40px 0 60px;
+    }
+
+    .page-header h1 {
+      font-size: 28px;
+    }
+
+    .guides-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .guides-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+  }
+</style>
+
+<script>
+  // Category filtering
+  document.addEventListener('DOMContentLoaded', () => {
+    const categoryChips = document.querySelectorAll('.category-chip');
+    const guideCards = document.querySelectorAll('.guide-card');
+    const guidesCount = document.getElementById('guides-count');
+
+    categoryChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        const category = chip.getAttribute('data-category');
+
+        // Update active state
+        categoryChips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+
+        // Filter guides
+        let visibleCount = 0;
+        guideCards.forEach(card => {
+          const cardCategories = card.getAttribute('data-categories') || '';
+
+          if (category === 'all' || cardCategories.includes(category)) {
+            card.classList.remove('hidden');
+            visibleCount++;
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+
+        // Update count
+        if (guidesCount) {
+          guidesCount.textContent = visibleCount.toString();
+        }
+      });
+    });
+  });
+</script>

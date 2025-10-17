@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Trako's Home are treated to air-conditioned comfort in each of its rooms, which come complete with complimentary WiFi and private bathrooms, ensuring a stay that blends convenience with tranquility. The allure of the hotel is further enhanced by its provision of mountain views that can be enjoyed from the privacy of one's balcony, a feature available in every room. Adding to the comfort, each room is also furnished with a flat-screen TV and slippers, catering to the needs of modern travelers seeking a blend of homey comfort and luxury.

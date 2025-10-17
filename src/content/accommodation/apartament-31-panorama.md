@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and luxury, equipped with three well-appointed bedrooms, a sleek flat-screen TV, and a kitchen that leaves nothing to be desired. With amenities ranging from an oven and toaster to a washing machine, fridge, and minibar, it caters to every need of its guests. The commitment to a non-smoking environment further enhances the quality of stay, ensuring a fresh and inviting atmosphere.

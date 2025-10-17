@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious and comfortable living, featuring two well-appointed bedrooms, two bathrooms, and the added touches of bed linen and towels. Entertainment is readily available through a flat-screen TV equipped with cable channels, and the dining area and fully equipped kitchen allow guests the freedom to dine in comfort. The balcony offers breathtaking mountain views, setting the scene for memorable moments. Upon entry, guests are welcomed with thoughtful gestures of fruits and chocolates or cookies, enhancing the feeling of a personalized stay. Additionally, the apartment is designed to be allergy-free and strictly non-smoking, ensuring a comfortable environment for all guests.

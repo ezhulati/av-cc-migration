@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "WiFi"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 The property prides itself on being a smoke-free environment, ensuring a clean and healthy stay for all guests. Adding to the appeal is the inclusion of an Italian breakfast, allowing guests to start their day with a delightful culinary experience.

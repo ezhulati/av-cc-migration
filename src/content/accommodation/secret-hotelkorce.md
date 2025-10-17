@@ -10,6 +10,7 @@ starRating: 3
 rating: 3
 accommodationType: "hotel"
 location: "Korce"
+ratingWords: "Fair"
 ---
 
 Strategically positioned, the hotel is a mere 43 km away from the natural beauty of Ohrid Lake Springs, making it an ideal base for explorers eager to experience the area's natural wonders. Additionally, the Monastery Saint Naum shares the same distance, offering a cultural excursion for those intrigued by historical and spiritual sites.

@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, visitors are greeted with the unique feature of a private entrance, leading into spaces that are as welcoming as they are functional. The family-friendly nature of White & Blue Apartments is further highlighted by its thoughtful amenities, including a picnic area designed for memorable moments under the sun.

@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Equipped with complimentary WiFi, the apartment ensures a seamless stay with its array of modern amenities including a television, washing machine, and a fully equipped kitchen complete with an oven and fridge. The added benefit of a private entrance enhances the sense of exclusivity and privacy for guests.

@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at B&B Visar - Rooms is a testament to thoughtful hospitality, featuring soundproofing for a tranquil retreat from the bustling city life. Guests can expect well-appointed accommodations equipped with modern amenities such as air conditioning, a flat-screen TV, and complimentary WiFi, ensuring a stay that is both comfortable and connected. The attention to detail extends to the private bathrooms, which are fitted with a bidet and bathrobes, alongside the provision of quality bed linen and towels, enhancing the overall guest experience.

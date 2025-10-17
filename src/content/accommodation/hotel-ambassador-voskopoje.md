@@ -11,6 +11,7 @@ rating: 3
 accommodationType: "hotel"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will find comfort in the thoughtfully designed rooms, each featuring a patio that overlooks the serene garden. The private bathrooms are well-equipped with showers and complimentary toiletries, ensuring a comfortable stay. Moreover, the rooms offer a glimpse of the city's charm through their windows. For entertainment and convenience, all accommodations are furnished with a flat-screen TV and a hairdryer, catering to the needs of modern travelers.

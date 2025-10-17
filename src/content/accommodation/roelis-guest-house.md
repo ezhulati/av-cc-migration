@@ -14,6 +14,7 @@ amenities:
   - "Bar"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The guest house itself is a marvel of comfort and elegance, featuring two well-appointed bedrooms, a fully equipped kitchen complete with an oven and a fridge, and a cozy seating area for relaxation. Entertainment is readily available through the inclusion of a flat-screen TV, ensuring that guests have everything they need at their fingertips. The property also boasts a modern bathroom equipped with a bidet, alongside the luxury of a separate bath and dressing room, ensuring privacy and convenience. Designed with health and comfort in mind, the holiday home is both allergy-free and soundproof, providing a peaceful oasis for all who stay.

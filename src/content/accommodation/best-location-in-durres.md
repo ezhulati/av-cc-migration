@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Tirana"
 amenities:
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The accommodation itself boasts a tastefully furnished bedroom, a fully equipped kitchen for those who love to prepare their meals, and a bathroom complete with all essentials. Attention to detail is evident with the provision of quality towels and bed linen, ensuring a comfortable and restful night's sleep.

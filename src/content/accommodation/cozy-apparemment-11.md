@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment's layout is thoughtfully designed, featuring a spacious bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who enjoy preparing their own meals, and a modern bathroom. Entertainment needs are well catered to with the inclusion of a flat-screen TV, ensuring guests have a pleasant stay.

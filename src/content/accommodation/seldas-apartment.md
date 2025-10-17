@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment is distinguished by its thoughtful amenities, including complimentary private parking and WiFi, ensuring a seamless stay for all guests. The commitment to a non-smoking environment further enhances the comfort and quality of the experience. The highlight of this accommodation is its spacious terrace, offering breathtaking sea views, alongside a cozy patio that serves as an idyllic outdoor dining space.

@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring a single bedroom, a bathroom, and a fully equipped kitchen for those who enjoy crafting their meals. Entertainment is readily available with the inclusion of a flat-screen TV, ensuring guests have all the comforts of home at their fingertips. Emphasizing a healthy living environment, the accommodation is strictly non-smoking.

@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Noela's Place are treated to modern amenities that ensure a stay without compromise. The apartment boasts a sleek flat-screen TV, a convenient washing machine, and a fully equipped kitchen that includes a minibar, catering to all your culinary needs. The addition of free WiFi throughout the property allows guests to stay connected and share their experiences with ease.

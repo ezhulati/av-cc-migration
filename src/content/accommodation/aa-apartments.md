@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property stands out not only for its strategic location but also for the amenities it offers. Guests can enjoy the luxury of a fully air-conditioned apartment that boasts a separate bedroom, a fully equipped kitchen for those who prefer to prepare their meals, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring a comfortable stay. The commitment to a non-smoking environment further enhances the quality of the air and the overall guest experience.

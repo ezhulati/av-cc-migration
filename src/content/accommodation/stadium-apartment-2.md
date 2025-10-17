@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This one-bedroom haven is not just about its prime location; it offers guests a seamless stay with amenities designed to cater to every need. Equipped with complimentary WiFi, guests can stay connected effortlessly. The living space is adorned with a flat-screen TV for entertainment, a washing machine for longer stays, and a fully equipped kitchen complete with an oven and fridge, making dining in a breeze. Comfort is further enhanced with the provision of fresh towels and bed linen, ensuring a restful night's sleep.

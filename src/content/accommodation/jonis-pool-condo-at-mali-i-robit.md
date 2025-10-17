@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The allure of Joni's Pool Condo doesn't stop at its prime location. Guests are treated to a suite of modern amenities within a non-smoking apartment that boasts an air-conditioned bedroom, a bathroom stocked with fresh bed linen and towels, and a living space adorned with a flat-screen TV for those leisurely downtime moments. The fully equipped kitchen caters to home-cooked meal enthusiasts, while the balcony presents an inviting pool view, perfect for sipping morning coffee or unwinding in the evening breeze.

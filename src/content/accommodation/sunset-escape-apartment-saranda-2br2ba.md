@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This non-smoking property excels in offering a spacious living environment, featuring two well-appointed bedrooms and a balcony that serves as a window to captivating sea and city views. The living space is enhanced by modern amenities including a flat-screen TV equipped with streaming services, ensuring entertainment is always at guests' fingertips. The fully equipped kitchen, boasting an oven, microwave, washing machine, toaster, and fridge, invites guests to feel at home, providing everything needed for a comfortable stay.

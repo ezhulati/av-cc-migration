@@ -13,6 +13,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern amenities, featuring air conditioning for those warm summer days, a bedroom that promises restful nights, and a living room designed for relaxation. The kitchen is fully equipped with a fridge and kettle, catering to guests' culinary needs, while the bathroom offers a refreshing shower experience. Entertainment is readily available through a flat-screen TV equipped with cable channels, complemented by the peaceful ambiance of quiet street views.

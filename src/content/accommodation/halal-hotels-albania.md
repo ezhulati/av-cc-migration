@@ -21,6 +21,7 @@ amenities:
   - "Breakfast"
   - "Kitchen"
   - "Sea View"
+ratingWords: "Fair"
 ---
 
 Albania is quickly rising on the radar for Muslim travelers seeking authentic experiences, scenic beauty, and halal-conscious stays. With a majority-Muslim population and a history of [religious coexistence](https://albaniavisit.com/religious-sites-albania/), Albania is naturally aligned with halal values.

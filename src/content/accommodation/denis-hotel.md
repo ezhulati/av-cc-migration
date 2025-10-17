@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "WiFi"
   - "Parking"
+ratingWords: "Fair"
 ---
 
 What sets Deni's Hotel apart is not just its proximity to key attractions but also the commitment to guest satisfaction. The establishment boasts of providing seamless connectivity with complimentary WiFi and the assurance of free private parking, a boon for those arriving by car. The availability of family rooms makes it an ideal choice for travelers of all types, be it solo adventurers or families looking for a comfortable stay.

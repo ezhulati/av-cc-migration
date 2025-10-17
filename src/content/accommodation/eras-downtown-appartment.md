@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern living, boasting a well-appointed bedroom, a bathroom equipped with essential amenities, bed linen, towels, and a flat-screen TV with satellite channels for entertainment. The dining area and fully equipped kitchen cater to guests' culinary needs, while the terrace offers breathtaking mountain views, perfect for dining al fresco and soaking in the city's ambiance. Notably, the apartment is designed to be allergy-free and maintains a strict non-smoking policy, ensuring a comfortable stay for all guests.

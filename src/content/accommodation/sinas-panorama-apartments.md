@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Sina's Panorama is designed to be a home away from home, featuring a balcony with sweeping sea views, a cozy seating area, and a flat-screen TV for entertainment. The fully equipped kitchen, complete with a toaster, fridge, and all necessary kitchenware, allows guests the freedom to prepare their meals. Additionally, the convenience of a private bathroom, complete with a shower and hair dryer, ensures a comfortable stay. For added comfort, each unit is furnished with fresh bed linen and towels.

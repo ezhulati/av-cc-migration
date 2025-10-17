@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Guest House Noah&Kristel is a testament to thoughtful hospitality, featuring a terrace that presents breathtaking mountain views, perfect for those moments of reflection or sipping a morning coffee. Inside, guests are treated to a suite of modern amenities including a cable flat-screen TV, a fully equipped kitchen complete with an oven, microwave, and fridge, ensuring that every culinary need is met. The inclusion of a pristine bathroom equipped with a bidet and hairdryer adds a touch of home comfort.

@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Situated a mere stone's throw away from the iconic Skanderbeg Square, less than 1 km to be precise, this property stands out for its commitment to a smoke-free environment, ensuring a clean and fresh stay for all guests. The apartment itself is a spacious haven, featuring a bedroom that promises restful nights. Entertainment is readily available with a flat-screen TV equipped with cable channels, perfect for unwinding after a day of exploration.

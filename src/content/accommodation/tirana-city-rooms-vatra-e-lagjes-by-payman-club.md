@@ -17,6 +17,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a world where convenience meets comfort, with each room boasting a private balcony for those serene morning coffees or tranquil evening reflections. The homestay prides itself on providing a seamless stay, offering complimentary WiFi and on-site parking to all guests.

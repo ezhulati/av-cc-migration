@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on offering a seamless stay with essentials such as a restaurant, elevator access, and a shared kitchen, ensuring that every need is met with ease. Connectivity is never an issue, as free WiFi is available throughout the premises. For those arriving with belongings or in need of assistance, luggage storage, concierge services, and currency exchange are readily available, highlighting the property's commitment to guest convenience.

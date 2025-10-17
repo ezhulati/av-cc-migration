@@ -15,6 +15,7 @@ amenities:
   - "Air Conditioning"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Apartament 1+1 stands out for its proximity to iconic landmarks, including the Bay of Bones, Early Christian Basilica, and the enchanting Port Ohrid, all located less than 40 km away. For those fascinated by religious history, the Church of St. John at Kaneo and the Cave Church Archangel Michael are also nearby, offering a glimpse into the area's rich cultural heritage.

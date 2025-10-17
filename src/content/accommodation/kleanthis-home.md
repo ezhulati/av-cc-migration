@@ -13,6 +13,7 @@ location: "Saranda"
 amenities:
   - "Restaurant"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment boasts a generous layout, featuring two distinct bedrooms, a bathroom, and a living room designed for relaxation. The kitchen doesn't disappoint either, being fully equipped with modern amenities including a dishwasher, alongside a dining area for guests to enjoy their meals.

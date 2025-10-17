@@ -19,6 +19,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a serene retreat with its spacious layout that includes a bedroom, a living room equipped with a satellite flat-screen TV, an equipped kitchen, and a bathroom featuring both a bidet and a bath. The addition of a balcony and garden views allows guests to dine al fresco in an outdoor dining area, enjoying the city's ambiance from the comfort of their temporary home. The thoughtful inclusion of air conditioning, free WiFi, and on-site parking enhances the convenience factor, making stays here worry-free.

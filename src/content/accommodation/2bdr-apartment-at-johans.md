@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment doesn't just promise a place to stay; it offers a home away from home with its welcoming balcony and complimentary WiFi, ensuring guests stay connected and comfortable. The presence of an elevator adds a touch of convenience, especially for those with heavy luggage or mobility needs.

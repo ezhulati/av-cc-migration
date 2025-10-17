@@ -18,6 +18,7 @@ amenities:
   - "Breakfast"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Duka's Hotel are thoughtfully designed with guest comfort in mind. Each room features a balcony, offering a private outdoor space for guests to enjoy. Select rooms elevate the experience further by offering serene pool views, allowing for moments of tranquility right from the comfort of one's room. The inclusion of air conditioning and a flat-screen TV in every room ensures a comfortable and entertaining stay, while private bathrooms equipped with a bidet and hairdryer add an extra layer of convenience.

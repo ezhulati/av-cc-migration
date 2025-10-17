@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, boasting two well-appointed bedrooms and two bathrooms, ensuring ample space for guests. The inclusion of bed linen, towels, a flat-screen TV equipped with streaming services, a dining area, a fully equipped kitchen, and a balcony offering serene views of the inner courtyard, elevates the living experience. Guests are welcomed with the thoughtful touch of chocolates or cookies, adding a personal flair to the warm hospitality on offer. Importantly, the accommodation maintains a strict non-smoking policy, ensuring a pleasant environment for all guests.

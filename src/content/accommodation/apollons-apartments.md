@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Lac"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment is thoughtfully equipped with essential amenities including a wardrobe, a flat-screen TV, and a private bathroom, complemented by bed linen and towels for an added touch of home. The convenience of in-room fridges allows guests to keep refreshments cool and handy, enhancing the overall comfort of their stay.

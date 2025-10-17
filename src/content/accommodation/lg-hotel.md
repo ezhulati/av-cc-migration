@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guest accommodations at L&G Hotel are a testament to thoughtful design and comfort. Each air-conditioned room is a private retreat, offering free WiFi and en-suite bathrooms for the utmost privacy and convenience. The attention to detail is evident in the provision of a seating area and a flat-screen TV in every room, ensuring guests have a space to unwind. For those desiring the comforts of home, select rooms boast a fully equipped kitchen, including a fridge, making longer stays as comfortable as possible. Complementing these amenities, the hotel ensures all rooms are impeccably dressed with fresh bed linen and towels.

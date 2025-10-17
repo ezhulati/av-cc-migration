@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment's design maximizes space and comfort, featuring a bedroom, bathroom, and living areas adorned with crisp bed linen and plush towels. Entertainment is readily available through a flat-screen TV equipped with streaming services, perfect for unwinding after a day of exploration. The dining area and fully equipped kitchen cater to those who prefer home-cooked meals, while the balcony presents serene mountain views, adding a touch of tranquility to the stay. Notably, the apartment prioritizes guest privacy with its soundproofing and private entrance, ensuring a peaceful retreat.

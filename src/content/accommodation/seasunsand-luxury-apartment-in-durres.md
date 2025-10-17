@@ -22,6 +22,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of luxury, boasting a spacious layout that includes a bedroom, a bathroom complete with a bidet and dressing room, and an expansive terrace offering breathtaking sea views. The living space is equipped with modern amenities such as a flat-screen TV with streaming services, air conditioning, a fully equipped kitchen, and complimentary WiFi, ensuring guests feel at home. The inclusion of bed linen, towels, and the convenience of free private parking adds to the seamless experience.

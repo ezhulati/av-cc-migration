@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, boasting a terrace that offers breathtaking sea views. Designed to accommodate the needs of modern travelers, it features two well-appointed bedrooms, a cozy living room complete with a flat-screen TV, and a kitchenette equipped with an oven and microwave for those home-cooked meals. The inclusion of a bathroom with a bidet, along with towels and bed linen, adds to the convenience factor, ensuring a home-away-from-home experience.

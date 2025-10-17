@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation doesn't just stop at providing a place to stay; it ensures comfort is at the forefront. Each room, designed with families in mind, boasts a terrace that invites the sea breeze right into the living space. The interiors are thoughtfully equipped with modern amenities including air conditioning for those warmer days, a flat-screen TV for entertainment, and a private bathroom complete with a bath and hair dryer for convenience. To further enhance the stay, each unit is thoughtfully prepared with fresh bed linen and towels, ensuring a comfortable and hassle-free experience.

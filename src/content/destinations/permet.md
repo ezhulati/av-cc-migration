@@ -1,5 +1,5 @@
 ---
-title: "Përmet - Where Europe's First Wild River National Park Protects 272 Kilometers of Free-Flowing Vjosa"
+title: "Përmet"
 description: "Discover Përmet on the Vjosa River, which in March 2023 became Europe's first Wild River National Park protecting 272 kilometers of undammed waterway. The town of 11,000 offers Bënjë thermal springs beneath Ottoman bridges, gliko preserves famous across Albania, Frashëri brothers' intellectual legacy, and iso-polyphonic music traditions amid Trebeshinë-Dhëmbel-Nemërçkë mountains."
 region: Southern Albania
 featuredImage: /images/destinations/permet.jpeg
@@ -44,8 +44,8 @@ highlights:
   - Iso-polyphonic singing and kaba clarinet music (UNESCO Intangible Cultural Heritage since 2008)
   - Fir of Hotova National Park protecting 34,000 hectares of Balkan fir forests
 seo:
-  metaTitle: "Përmet Albania - Vjosa Wild River National Park & Bënjë Thermal Springs Guide"
-  metaDescription: "Explore Përmet where March 2023 created Europe's first Wild River National Park protecting 272km of Vjosa River. Bënjë thermal springs, gliko preserves, Frashëri brothers' legacy, and UNESCO-protected iso-polyphonic music traditions."
+  metaTitle: "Përmet Albania - Vjosa Wild River & Thermal Springs"
+  metaDescription: "Explore Përmet on the Vjosa, Europe's only Wild River National Park. Rafting, Bënjë thermal springs, gliko preserves, UNESCO music. 230km from Tirana."
 ---
 
 ## Europe's Last Wild River Gets Protection

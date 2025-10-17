@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The studio is a haven of tranquility, boasting a tastefully decorated bedroom that invites relaxation at every turn. The fully equipped kitchen, complete with an oven and toaster, ensures that guests can prepare their meals just the way they like. The living area, anchored by a sleek flat-screen TV and a cozy seating arrangement, is the perfect spot to unwind after a day of exploration. The inclusion of a luxurious bathroom, outfitted with a hot tub, elevates the experience, offering a private oasis for rejuvenation.

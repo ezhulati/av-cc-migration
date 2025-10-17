@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Boasting a generous layout, the apartment features two well-appointed bedrooms, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and two modern bathrooms. Entertainment is readily available with a flat-screen TV, ensuring guests have a pleasant stay. Moreover, visitors are treated to serene garden views, adding an extra layer of tranquility to their stay.

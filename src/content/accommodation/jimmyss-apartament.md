@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Strategically positioned, guests have easy access to notable landmarks including the evocative Postbllok - Checkpoint Monument, the serene Saint Paul Cathedral, and the intriguing House of Leaves, with the historic Former Residence of Enver Hoxha just a short stroll away.

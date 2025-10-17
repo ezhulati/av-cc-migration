@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Ari's Apartment Sarande are treated to the luxury of both complimentary WiFi and on-site parking, a rarity in such a sought-after location. The apartment, a strictly non-smoking environment, is a mere stone's throw away from the serene Maestral Beach, positioned at a convenient 1.1 km distance.

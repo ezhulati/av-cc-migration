@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort and convenience, featuring air-conditioning for those warm Mediterranean days. It houses a cozy bedroom, a spacious living room for relaxation, a fully equipped kitchen ready for home-cooked meals with a fridge and kettle, and a modern bathroom complete with a bidet and hairdryer. For added convenience, guests will find towels and bed linen readily available, ensuring a hassle-free stay.

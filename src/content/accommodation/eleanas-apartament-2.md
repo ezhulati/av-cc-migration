@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, accommodating guests in two well-appointed bedrooms. The living area, equipped with a flat-screen TV, provides a cozy setting for relaxation after a day of adventure. Culinary enthusiasts will appreciate the fully equipped kitchen, allowing for the preparation of meals just the way one likes. The convenience of a private entrance enhances the sense of exclusivity and privacy, making it feel like a home away from home.

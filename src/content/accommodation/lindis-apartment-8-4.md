@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious retreat, featuring two well-appointed bedrooms, a living area with a flat-screen TV for entertainment, and a fully equipped kitchen. The kitchen is a dream for those who love to cook, boasting modern appliances including a dishwasher, oven, washing machine, microwave, and fridge. Adding to the comfort, the apartment provides fresh towels and bed linen, ensuring a home-away-from-home experience. A notable feature is the private entrance, offering guests an added layer of privacy during their stay.

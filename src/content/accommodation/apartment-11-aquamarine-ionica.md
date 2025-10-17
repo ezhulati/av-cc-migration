@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will appreciate the ease of access to the serene Beach at Government Villas and Ri Beach, both merely a stone's throw away. Despite its central location, the apartment promises a tranquil retreat with its air-conditioned spaces, private parking, and complimentary WiFi, ensuring a hassle-free stay.

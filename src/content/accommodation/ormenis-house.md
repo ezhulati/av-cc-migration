@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a meticulously designed space that boasts an air of tranquility and privacy. The apartment features two well-appointed bedrooms, a living room that serves as a cozy gathering space, and a dining area perfect for enjoying meals prepared in the fully equipped kitchen. Modern amenities, including a cable flat-screen TV and complimentary WiFi, ensure a stay that combines the comforts of home with the luxuries of a hotel. The inclusion of towels and bed linen adds a touch of convenience to the experience.

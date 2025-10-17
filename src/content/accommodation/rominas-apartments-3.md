@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Sarandë"
 amenities:
   - "WiFi"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on offering seamless connectivity with free WiFi accessible throughout, ensuring guests stay connected with the world or plan their next day's adventure without a hitch. For those arriving by air, the convenience is extended with Ioannina Airport located 98 km away, facilitating a straightforward journey to this inviting retreat.

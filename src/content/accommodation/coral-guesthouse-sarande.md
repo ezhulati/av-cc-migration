@@ -18,6 +18,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Guests are treated to a serene garden and breathtaking mountain views, setting the stage for a relaxing getaway. The beachfront location not only provides easy access to the sandy shores but also ensures that guests can enjoy the convenience of free WiFi and private parking without any hassle.

@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Vila Anxhelo&Xhemi is thoughtfully designed with comfort in mind, boasting air conditioning for those warm Mediterranean days, and a private balcony to enjoy the lush garden views. Entertainment and convenience are at your fingertips with a flat-screen TV, while the private bathroom comes equipped with a bath and complimentary toiletries, adding a touch of luxury to your stay.

@@ -12,6 +12,7 @@ accommodationType: "apartment"
 location: "Tirana"
 amenities:
   - "Restaurant"
+ratingWords: "Fair"
 ---
 
 Recently undergoing a comprehensive renovation, Kingu's Apartment presents a cozy yet elegant setting with its two-bedroom layout, offering views of the serene inner courtyard. The attention to detail is evident in the provision of modern amenities such as slippers, a hairdryer, towels, and bed linen, ensuring a comfortable and hassle-free stay. The addition of a private entrance and round-the-clock security underscores a commitment to guest privacy and safety.

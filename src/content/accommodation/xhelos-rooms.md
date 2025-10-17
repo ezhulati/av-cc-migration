@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property's strategic location places guests within a stone's throw of cultural landmarks, including the National Theatre of Opera and Ballet of Albania, Tanners' Bridge, and the historic Clock Tower Tirana, all located 400 meters away. Additionally, the revered Et'hem Bey Mosque is just a brief walk from the doorstep, enriching the stay with cultural immersion.

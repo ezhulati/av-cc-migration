@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This cozy haven features a well-appointed bedroom, a fully equipped kitchenette for those who love to whip up their own meals, and a bathroom that caters to all your needs. Entertainment is readily available with a flat-screen TV, ensuring that guests have a pleasant and comfortable stay. Emphasizing a clean and healthy living space, the accommodation strictly maintains a non-smoking policy.

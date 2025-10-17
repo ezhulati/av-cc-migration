@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Sun&Moon Ohridlake Apartments are designed with the modern traveler in mind, featuring air-conditioned units that boast a harmonious blend of comfort and style. Each apartment is equipped with a seating area, a state-of-the-art flat-screen TV complete with streaming services, a fully equipped kitchenette for those who love to whip up their meals, and a dining area for intimate dinners. The private bathrooms are meticulously fitted with a hair dryer for convenience. Select units elevate the experience further with either a terrace or balcony, offering splendid views or a breath of fresh air.

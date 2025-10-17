@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern amenities. Guests will find themselves at home with free WiFi, a flat-screen TV for entertainment, and a washing machine for convenience. The kitchen is fully equipped, boasting an oven and fridge, ensuring that meal preparation is as effortless as it is enjoyable. Towels and bed linen are thoughtfully provided, enhancing the comfort of the stay. Additionally, the feature of a private entrance underscores the apartment's commitment to guest privacy.

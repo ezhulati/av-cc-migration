@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Designed with families in mind, the property boasts a children's playground, ensuring that younger guests are entertained, while on-site parking adds an extra layer of convenience for those arriving by car.

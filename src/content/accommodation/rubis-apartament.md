@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to spacious living, boasting a balcony that offers a breath of fresh air, two cozy bedrooms, a welcoming living room, and a kitchen equipped with everything needed for a home-cooked meal. For added comfort, guests will find the apartment stocked with fresh towels and bed linen, making for a stay that combines the comforts of home with the luxury of a hotel. Notably, the apartment is designed as a non-smoking and soundproof space, providing a peaceful haven for those seeking tranquility.

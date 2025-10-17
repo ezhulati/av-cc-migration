@@ -12,6 +12,7 @@ accommodationType: "apartment"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will find themselves in a generously sized apartment, which features two well-appointed bedrooms, a cozy living room, a bathroom, and a kitchen equipped with all the essentials for a home-cooked meal. Entertainment needs are also catered to with the inclusion of a flat-screen TV, ensuring a pleasant stay for all who visit.

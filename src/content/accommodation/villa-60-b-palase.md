@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa itself is a testament to modern living, boasting air-conditioned spaces that open up to a balcony where the beauty of Palasë can be soaked in. It accommodates guests in two spacious bedrooms and provides a living room that is perfect for unwinding. The presence of a flat-screen TV, an equipped kitchen complete with a dishwasher and an oven, and two well-appointed bathrooms with a bidet, ensures that guests have everything they need for a comfortable stay. The provision of towels and bed linen adds a touch of home.

@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will find themselves enveloped in comfort within the spacious apartment, which boasts a separate bedroom, a bathroom, and a living room complete with a flat-screen TV for entertainment. The fully equipped kitchen, featuring a dining area and fridge, allows for the preparation of home-cooked meals, adding a touch of homeliness to the travel experience.

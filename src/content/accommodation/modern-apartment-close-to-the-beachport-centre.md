@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests will appreciate the seamless blend of comfort and functionality that defines this spacious apartment. Featuring a welcoming balcony that invites relaxation, a cozy bedroom designed for restful nights, a living room that serves as a haven of relaxation, and a well-equipped kitchen complete with an oven and microwave, every detail has been thoughtfully considered to ensure an unforgettable stay. The provision of towels and bed linen adds a touch of convenience, underscoring the apartment's commitment to guests' comfort.

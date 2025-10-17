@@ -19,6 +19,7 @@ amenities:
   - "Breakfast"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and comfort, featuring a living room that seamlessly blends a seating and dining area, making it perfect for both relaxation and entertaining. The fully equipped kitchen, complete with an oven, microwave, and toaster, caters to all culinary needs, whether it's a quick breakfast or a full dinner. The inclusion of a DVD player and a flat-screen TV with satellite channels ensures entertainment options are plentiful, making it an ideal retreat for families or groups.

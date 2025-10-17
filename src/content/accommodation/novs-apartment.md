@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, featuring two well-appointed bedrooms, a living area equipped with a flat-screen TV and access to streaming services for those cozy nights in. The kitchen doesn't disappoint either, being fully equipped with modern appliances including an oven and a microwave, alongside a washing machine for utmost convenience. The inclusion of a bathroom with a bath adds that extra layer of comfort, ensuring guests have everything they need right at their fingertips. For those in need of it, towels and linens are available upon request, ensuring a hassle-free stay.

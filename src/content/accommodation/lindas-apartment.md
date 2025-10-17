@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Positioned a mere 3.2 km from the historic Independence Square, Linda's Apartment offers more than just a place to rest. The accommodation boasts a spacious layout, including a balcony that invites guests to bask in the tranquil garden views, two cozy bedrooms for a restful night's sleep, a welcoming living room, and a well-equipped kitchen that caters to all culinary needs. Entertainment is readily available with a flat-screen TV for those moments of relaxation indoors.

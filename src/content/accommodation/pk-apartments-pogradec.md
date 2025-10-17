@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious retreat, offering a terrace that frames breathtaking mountain vistas. It is well-appointed with a cozy bedroom, a welcoming living room complete with a flat-screen TV, and a fully equipped kitchen that includes an oven and a fridge. The convenience of a private bathroom with a bidet, alongside the comfort of air conditioning, ensures a stay that blends relaxation with the comforts of home. Privacy and tranquility are paramount, with soundproofing and a private entrance to enhance the sense of seclusion.

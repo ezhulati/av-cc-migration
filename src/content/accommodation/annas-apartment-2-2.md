@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 This air-conditioned accommodation doesn't just boast a strategic location; it also offers guests a serene retreat with its garden views. The apartment is thoughtfully designed to cater to the needs of modern travelers, featuring two cozy bedrooms, a spacious living room for relaxation, and a balcony that presents breathtaking mountain views. The inclusion of a fully equipped kitchen with a dishwasher and an oven adds a touch of home, while the convenience of complimentary WiFi and private parking enhances the overall stay experience. The bathroom, equipped with a walk-in shower, underscores the apartment's commitment to comfort and convenience.

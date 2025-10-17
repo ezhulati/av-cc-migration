@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself boasts modern comforts in a cozy setting. Guests will appreciate the air-conditioned space, which includes two well-appointed bedrooms, a living room for relaxation, and a dining area for intimate meals. The kitchen comes fully equipped with an oven, ensuring that home-cooked meals are on the menu whenever desired. A flat-screen TV rounds out the amenities, making it easy to catch up on favorite shows after a day of exploration.

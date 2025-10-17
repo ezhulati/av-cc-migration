@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to thoughtful accommodation, boasting two well-appointed bedrooms that promise a restful night's sleep. The living space is designed to cater to the modern traveler's needs, featuring a fully equipped kitchen with a microwave and toaster, a cozy seating area for relaxation, and a flat-screen TV for entertainment. The inclusion of air conditioning and complimentary WiFi access further enhances the comfort levels, ensuring a stay that is both pleasant and connected.

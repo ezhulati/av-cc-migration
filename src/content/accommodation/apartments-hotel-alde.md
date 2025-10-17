@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Bar"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 Mornings at Apartments Hotel AL&DE start on a high note with a choice of continental or Italian breakfast, setting the tone for a day of exploration or relaxation. The property's serene garden provides a tranquil oasis for guests looking to unwind in the midst of nature's beauty.

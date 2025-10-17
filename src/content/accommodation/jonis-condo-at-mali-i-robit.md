@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This inviting condo is distinguished by its spacious layout, featuring two well-appointed bedrooms, a living area equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that caters to all culinary needs with a dishwasher and an oven. The inclusion of a washing machine adds to the convenience, ensuring a hassle-free stay. The two bathrooms, equipped with a bidet, underscore the condo's commitment to comfort and privacy, further enhanced by a private entrance exclusive to guests.

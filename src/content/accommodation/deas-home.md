@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This spacious apartment is designed to cater to the needs of modern travelers, featuring two well-appointed bedrooms, a bathroom equipped with essential amenities, and a living area that includes a flat-screen TV with satellite channels for entertainment. The inclusion of bed linen, towels, a dining area, and a fully equipped kitchen ensures guests feel at home, while the balcony offers captivating city views, adding a touch of elegance to the stay. The added benefit of a private entrance underscores the accommodation's commitment to privacy and exclusivity.

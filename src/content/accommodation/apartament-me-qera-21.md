@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will appreciate the thoughtful amenities that ensure a hassle-free stay. The apartment boasts a robust free WiFi connection, perfect for planning the next day's adventures or a night in streaming favorite shows. The inclusion of a flat-screen TV, washing machine, and a fully equipped kitchen with a fridge adds a touch of home-away-from-home comfort, making it suitable for both short and extended stays.

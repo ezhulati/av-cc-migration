@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Designed with families in mind, Sunset House Aurora&Ersi presents an array of accommodations that cater to the modern traveler's needs. Each unit is a testament to comfort and convenience, featuring air conditioning, a cozy seating area, and a satellite flat-screen TV for entertainment. The kitchens are well-equipped, allowing guests the freedom to prepare their meals. Select units elevate the experience further with a private bathroom equipped with a walk-in shower, plush bathrobes, a hairdryer, and complimentary toiletries. Emphasizing health and comfort, the property ensures that all accommodations are allergy-free and soundproof, promising a restful night's sleep.

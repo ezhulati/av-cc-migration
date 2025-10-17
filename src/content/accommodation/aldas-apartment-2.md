@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This smoke-free property doesn't just boast an enviable location; it also offers a cozy retreat after a day of adventure. Guests can unwind in a space thoughtfully designed with two bedrooms, a fully equipped kitchen for those home-cooked meals, and a bathroom. Entertainment is readily available with a flat-screen TV, making it easy to relax after a day in the sun. The inclusion of air conditioning throughout the apartment guarantees comfort regardless of the weather outside.

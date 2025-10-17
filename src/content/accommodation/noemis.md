@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment stands out for its spacious, air-conditioned interiors, boasting a welcoming balcony and the essential modern amenity of free WiFi. Its proximity to notable landmarks adds to its appeal, with the Et'hem Bey Mosque, National Museum of History Albania, and the National Theatre of Opera and Ballet of Albania all within a 2 km radius. For those arriving by car, the convenience of private parking is available, albeit for an additional fee.

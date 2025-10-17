@@ -13,6 +13,7 @@ location: "Himare"
 amenities:
   - "WiFi"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guests at Bodini's Rooms are treated to thoughtfully appointed units, each featuring essential amenities such as a wardrobe for personal belongings. The private bathrooms come equipped with showers and slippers, ensuring a comfortable stay. Moreover, the guest house prides itself on offering free WiFi across all units, with select rooms further enhancing the guest experience by offering terraces for an intimate connection with the surroundings. Comfort is paramount, as evidenced by the provision of quality bed linen and towels in every room.

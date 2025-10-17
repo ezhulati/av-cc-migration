@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern living, boasting an air-conditioned space that includes a bedroom, a living room, and a fully equipped kitchen complete with a dishwasher and coffee machine. The inclusion of a bathroom equipped with a bidet and slippers, alongside the provision of towels and bed linen, underscores the property's commitment to guest comfort. Notably, Hera's Home is designed as a non-smoking and soundproof space, ensuring a peaceful retreat amidst the city's hustle and bustle.

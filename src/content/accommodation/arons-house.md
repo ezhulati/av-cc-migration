@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This 2-bedroom apartment doesn't just promise a stay; it delivers an experience, equipped with air conditioning for those warm Albanian afternoons, a flat-screen TV for entertainment, and a fully equipped kitchen with a minibar to cater to all culinary needs. The inclusion of a washing machine, along with towels and bed linen, underscores the thoughtful touches designed to make guests feel at home.

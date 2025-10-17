@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Designed with discerning guests in mind, the apartment features a single bedroom, a bathroom, and a fully equipped kitchen, ensuring a stay that combines both comfort and convenience. Entertainment needs are well catered to with the inclusion of a flat-screen TV, complemented by picturesque garden views that promise a visually soothing experience.

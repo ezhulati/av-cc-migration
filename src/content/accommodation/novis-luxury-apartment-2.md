@@ -20,6 +20,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 NOVI's Luxury Apartment 2 is distinguished by its generous amenities, including complimentary WiFi and on-site parking, ensuring a hassle-free stay for every guest. The addition of a chic bar on the premises allows for relaxing evenings with a drink in hand, without ever having to leave the comfort of this luxurious retreat.

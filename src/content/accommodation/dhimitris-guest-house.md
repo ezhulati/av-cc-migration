@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room at Dhimitri's Guest House is well-appointed, featuring a flat-screen TV for entertainment and a private bathroom for your convenience. Guests can start their day on the right note with a delightful continental breakfast served each morning, ensuring energy and enthusiasm for the day's adventures.

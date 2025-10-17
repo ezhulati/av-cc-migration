@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a spacious haven with a balcony that boasts sweeping city views. Guests can enjoy the luxury of two bedrooms, a cozy living room, and the convenience of a fully equipped kitchen that includes an oven and a toaster, perfect for those who prefer to prepare their meals. The inclusion of a flat-screen TV and free WiFi ensures that entertainment and connectivity are readily available. Moreover, the property prides itself on being non-smoking and includes a lift for easy access.

@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The residence boasts an elegantly appointed apartment that caters to every need. With a bedroom, bathroom, and inclusive of bed linen and towels, the space is designed for relaxation. The living area, equipped with a flat-screen TV and streaming services, merges seamlessly into a dining space and a fully equipped kitchen, ensuring a home-away-from-home experience. The highlight, however, is the balcony offering panoramic sea views, perfect for enjoying meals in the fresh air with a backdrop of the lake.

@@ -17,6 +17,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a verdant garden setting, where the cares of the world seem to dissolve. The property doesn't just offer a place to stay; it invites guests into a realm of comfort with its family-friendly rooms, some of which feature balconies with breathtaking mountain views, ensuring a stay that is as refreshing as it is memorable.

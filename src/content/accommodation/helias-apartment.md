@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Positioned strategically, guests find themselves a mere 1.8 km from the vibrant Golem Beach, while also enjoying proximity to significant cultural landmarks. The historic Skanderbeg Square and the intriguing Former Residence of Enver Hoxha are both within a 48 km radius, offering a glimpse into the rich tapestry of the region's history. For those intrigued by natural wonders, the Rock of Kavaje is just 6.3 km away, presenting an ideal excursion for nature enthusiasts.

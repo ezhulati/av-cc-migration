@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon entering, guests are greeted by a spacious, air-conditioned living space that opens up to a balcony overlooking a serene garden. The home boasts two well-appointed bedrooms, promising a restful night's sleep. The highlight, however, is the terrace that offers breathtaking mountain views, perfect for those who appreciate nature's beauty.

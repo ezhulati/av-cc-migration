@@ -13,6 +13,7 @@ location: "Vlorë"
 amenities:
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each unit at Uzeiri's Houses is thoughtfully equipped with a terrace for personal enjoyment of the outdoors, a private bathroom for comfort and privacy, and a flat-screen TV for entertainment needs.

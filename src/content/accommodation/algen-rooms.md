@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment is a testament to modern living, equipped with a satellite flat-screen TV, a kitchen that comes complete with an oven, and a private bathroom that includes both a bath or shower and slippers, ensuring a home-away-from-home experience.

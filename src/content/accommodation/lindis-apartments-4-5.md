@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Located merely 2.2 km from the iconic Skanderbeg Square, the apartment serves as an ideal base for exploring the vibrant city. The space is thoughtfully designed with a cozy 1-bedroom layout, featuring a living room equipped with a flat-screen TV and streaming services for entertainment needs. The kitchen does not disappoint, being fully equipped with modern appliances including a dishwasher and an oven, catering to guests' culinary adventures. The convenience is further enhanced with the inclusion of a bathroom stocked with a hairdryer, alongside the provision of towels and bed linen, ensuring a comfortable stay.

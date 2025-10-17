@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to modern living, boasting a balcony that presents captivating city views. It features a well-appointed bedroom, a cozy living room equipped with a flat-screen TV for entertainment, and a fully equipped kitchen that includes an oven and a microwave, catering to guests' culinary needs. The inclusion of a bathroom with a bidet adds a touch of convenience, with the option to request towels and linens for a nominal supplement.

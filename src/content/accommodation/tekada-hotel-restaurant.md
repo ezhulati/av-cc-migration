@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a world where convenience meets elegance, with each room thoughtfully equipped with a wardrobe, a private bathroom featuring a shower and complimentary toiletries, a flat-screen TV, and air conditioning. For those seeking a touch of luxury, select rooms also offer a terrace, providing an ideal spot to unwind and soak in the picturesque surroundings.

@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartments at Tirana G&G are designed to cater to the modern traveler's needs. Each one-bedroom apartment boasts a cozy living room equipped with a flat-screen TV that includes streaming services, a fully equipped kitchen for those who prefer to prepare their meals, and a bathroom outfitted with a hairdryer for added convenience.

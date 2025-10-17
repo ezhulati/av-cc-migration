@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of space and comfort, featuring a well-appointed bedroom and a living room equipped with a flat-screen TV, ensuring guests have both the luxury of rest and entertainment at their fingertips. Despite its tranquil beachside setting, the property maintains a strict non-smoking policy, ensuring a clean and fresh environment for all guests.

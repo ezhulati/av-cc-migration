@@ -19,6 +19,7 @@ amenities:
   - "Sea View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This recently updated apartment boasts a modern design with a focus on comfort and convenience. The accommodation features a spacious bedroom, a living area with a flat-screen TV, and a balcony that presents a stunning sea view, allowing guests to soak in the beauty of their surroundings from the comfort of their room. The kitchenette is thoughtfully equipped with modern appliances including a dishwasher, oven, washing machine, microwave, and toaster, catering to the needs of those who prefer to prepare their own meals. Additionally, the provision of towels and bed linen ensures a hassle-free stay.

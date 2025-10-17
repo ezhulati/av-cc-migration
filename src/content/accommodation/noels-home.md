@@ -13,6 +13,7 @@ location: "Korçë"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to comfort and convenience, featuring two well-appointed bedrooms and a cozy living room equipped with a flat-screen TV for those relaxing evenings in. The kitchen is fully equipped, catering to guests' culinary needs, while the bathroom boasts a modern walk-in shower and includes a hair dryer, ensuring a home-away-from-home experience.

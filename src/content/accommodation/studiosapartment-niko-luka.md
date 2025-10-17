@@ -20,6 +20,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "Mountain View"
+ratingWords: "Fair"
 ---
 
 Each apartment and studio within this property is a testament to thoughtful design, boasting a private entrance that leads guests into a world of warmth and relaxation. The presence of a heated pool, visible from select units, adds a touch of luxury to the stay, ensuring memorable moments of leisure. The accommodations are not only air-conditioned but also come with the promise of free private parking and seamless connectivity through complimentary WiFi, addressing all the essentials of modern travel.

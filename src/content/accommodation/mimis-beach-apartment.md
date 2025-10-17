@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just boast an enviable location; it comes fully equipped to ensure a stay that combines luxury with the comforts of home. The spacious layout includes one bedroom, a bathroom complete with bed linen and towels, and a living area that features a flat-screen TV with satellite channels, a dining area, and a fully equipped kitchen. The balcony, offering breathtaking sea views, and a patio equipped with outdoor furniture, provide the perfect settings for guests to enjoy the mountain vistas or simply relax with a morning coffee or evening drink.

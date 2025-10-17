@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Air Conditioning"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern living, featuring air conditioning for those warm Albanian days. It houses a single bedroom, a cozy living room for relaxation, and a fully equipped kitchen boasting an oven and kettle for culinary enthusiasts. The inclusion of a bathroom equipped with a bidet and slippers adds a touch of home comfort, while the provision of towels and bed linen ensures a hassle-free stay. Emphasizing a clean and healthy living environment, the accommodation strictly adheres to a non-smoking policy.

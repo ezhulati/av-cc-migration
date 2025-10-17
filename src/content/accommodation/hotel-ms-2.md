@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Parking"
   - "Bar"
+ratingWords: "Fair"
 ---
 
 The hotel prides itself on offering impeccable service around the clock, ensuring guests' needs are met with a 24-hour front desk and unwavering full-day security. Connectivity is never an issue, as guests enjoy access to complimentary WiFi throughout the premises. For those arriving by car, private parking is available, providing peace of mind for an additional fee.

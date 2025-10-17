@@ -13,6 +13,7 @@ location: "Sarandë"
 amenities:
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The accommodations at Aria&Erika Apartments are designed with the modern traveler in mind, featuring air-conditioned spaces that promise a respite from the Mediterranean heat. For those who value privacy and the option to prepare their own meals, select units boast fully equipped kitchens, adding a touch of home to the travel experience.

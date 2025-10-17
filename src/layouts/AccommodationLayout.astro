@@ -48,13 +48,10 @@ const {
 
 const slug = accommodation.data.slug || accommodation.slug;
 
-// Process images
-const placeholderImage = `https://placehold.co/1200x800/1a1a1a/white?text=${encodeURIComponent(title)}`;
-const processImage = (img: string | undefined) => img?.startsWith('http') ? placeholderImage : img || placeholderImage;
-
+// Process images - keep external URLs (CDN images are valid!)
 const allImages = [
-  processImage(featuredImage),
-  ...(images || []).map(processImage)
+  featuredImage,
+  ...(images || [])
 ].filter(Boolean) as string[];
 
 const hasDetailedRatings = ratings && rating && rating > 0;
@@ -806,9 +803,17 @@ const hasDetailedRatings = ratings && rating && rating > 0;
     gap: 20px;
   }
 
+  @media (min-width: 1024px) {
+    .sidebar-column {
+      position: sticky;
+      top: 2rem; /* Space below navigation */
+      align-self: flex-start;
+      z-index: 10; /* Ensure sidebar stays above main content */
+    }
+  }
+
   .sticky-card {
-    position: sticky;
-    top: 24px;
+    /* Removed redundant sticky positioning - parent handles it */
   }
 
   .booking-card {

@@ -18,6 +18,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa prides itself on its commitment to a smoke-free environment, ensuring a clean and healthy stay for all guests. With the added convenience of complimentary private parking, visitors are spared the usual hassles associated with city visits. The guest house is equipped with modern amenities including free WiFi, a cable flat-screen TV, and a washing machine. The kitchen is fully stocked with an oven and microwave, catering to the needs of those who prefer home-cooked meals.

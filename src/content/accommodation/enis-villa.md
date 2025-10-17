@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Spa"
   - "Kitchen"
+ratingWords: "Fair"
 ---
 
 The interior of Eni's Villa is a testament to thoughtful design and comfort. It houses three elegantly appointed bedrooms, two spacious living rooms, and a kitchen equipped with modern appliances including an oven and a kettle. The villa's two bathrooms are outfitted with walk-in showers and plush bathrobes, adding a touch of luxury to the experience. Whether it's enjoying a meal in the outdoor dining area or cozying up by the fireplace on a chilly evening, guests are invited to relax in style. The provision of bed linen, towels, and an ironing service further underscores the villa's commitment to guest comfort.

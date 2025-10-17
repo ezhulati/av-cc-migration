@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Spa"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This property distinguishes itself with its commitment to a smoke-free environment, ensuring a clean and healthy stay for all guests. Additionally, the allure of the Rock of Kavaje, located 43 km away, adds to the charm of choosing Azurè Apartments for your stay.

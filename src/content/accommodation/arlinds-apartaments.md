@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Arlind's Apartments are treated to a host of amenities designed to ensure a stay that is as relaxing as it is enjoyable. Each air-conditioned unit boasts a thoughtful array of facilities including a desk, kettle, oven, fridge, and safety deposit box, alongside a flat-screen TV for entertainment needs. The presence of a terrace and a private bathroom with a shower adds to the comfort, while a dining area and a fully equipped kitchen, complete with a stovetop and kitchenware, allow guests the freedom to prepare their own meals. Complimentary bed linen and towels underscore the apartment complex's commitment to convenience.

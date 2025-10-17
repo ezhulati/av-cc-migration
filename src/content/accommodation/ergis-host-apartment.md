@@ -16,6 +16,7 @@ amenities:
   - "Bar"
   - "Spa"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Guest accommodations boast modern comforts such as air conditioning, refrigeration, and a minibar, alongside thoughtful touches like a coffee machine for that perfect morning start. Bathrooms, shared yet intimate, are well-appointed with a bidet, bathrobes, and even slippers to enhance the home-away-from-home experience. The commitment to guest satisfaction is evident in the complimentary WiFi and the special addition of fruits, chocolates, or cookies in the rooms, with select spaces also featuring a balcony for private outdoor relaxation.

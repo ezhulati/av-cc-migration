@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment is strategically located, offering easy access to notable landmarks such as the Dajti Ekspres Cable Car, the historical Rock of Kavaje, and the intriguing Former Residence of Enver Hoxha, all within a reasonable drive. Moreover, the property ensures a smoke-free environment, enhancing the comfort of your stay, and is conveniently situated a mere 38 km from the bustling Skanderbeg Square.

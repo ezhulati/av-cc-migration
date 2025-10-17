@@ -21,6 +21,7 @@ amenities:
   - "Sea View"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The villa itself is a spacious holiday home that commands breathtaking sea views from its balcony. Designed to accommodate with ease, it features three well-appointed bedrooms, a cozy living room complete with a flat-screen TV, and a fully equipped kitchen that includes an oven and a microwave. The presence of two bathrooms equipped with walk-in showers adds to the convenience, ensuring a comfortable stay for all guests. Notably, the holiday home is air-conditioned and includes amenities such as a washing machine and a hair dryer, catering to all the needs of the modern traveler.

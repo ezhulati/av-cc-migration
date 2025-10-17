@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment distinguishes itself with amenities designed for the modern traveler. Guests will appreciate the convenience of free WiFi, ensuring they stay connected during their visit. The living space is thoughtfully equipped with a flat-screen TV and a washing machine, catering to both entertainment and practical needs. The fully equipped kitchen, complete with a dishwasher, invites guests to prepare their meals, adding a touch of home to their travel experience.

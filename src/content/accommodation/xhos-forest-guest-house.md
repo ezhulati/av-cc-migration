@@ -20,6 +20,7 @@ amenities:
   - "Breakfast"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room is equipped with modern amenities such as air conditioning, a flat-screen TV with satellite channels, a dishwasher, and a kettle, catering to the needs of the contemporary traveler. The attention to detail extends to the provision of slippers and a desk in every room, enhancing the overall guest experience. Private bathrooms come standard with a hair dryer, and the availability of free WiFi in the rooms adds an extra layer of convenience, with select rooms also boasting a balcony for those who appreciate outdoor relaxation.

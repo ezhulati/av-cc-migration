@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The holiday home itself is a testament to thoughtful accommodation, featuring an air-conditioned space with a separate bedroom, a fully equipped kitchen for those who enjoy crafting their meals, and a modern bathroom. Entertainment needs are met with the inclusion of a flat-screen TV, ensuring that guests have access to leisure even within the comfort of their abode.

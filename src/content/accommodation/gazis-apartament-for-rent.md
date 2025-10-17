@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a testament to convenience and comfort, offering guests a spacious balcony to enjoy the tranquil garden views, complemented by the ease of complimentary private parking. Inside, the one-bedroom haven is equipped with a satellite flat-screen TV, a washing machine, and a kitchen that's fully outfitted with a fridge and stovetop, all connected by the convenience of free WiFi.

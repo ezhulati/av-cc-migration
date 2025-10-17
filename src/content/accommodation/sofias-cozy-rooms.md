@@ -13,6 +13,7 @@ location: "Himare"
 amenities:
   - "WiFi"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Beyond the comfort of the rooms, guests are treated to the convenience of complimentary WiFi throughout the property, allowing for seamless connectivity and the sharing of picturesque moments with loved ones. The terrace, a peaceful spot for relaxation, invites guests to unwind under the sky, adding an extra layer of tranquility to the stay.

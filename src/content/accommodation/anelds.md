@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This pet-friendly haven doesn't just welcome guests but their furry companions too, making it an ideal choice for travelers looking to explore Sarandë with their pets. The convenience of complimentary WiFi throughout the property ensures that guests remain connected and entertained throughout their stay.

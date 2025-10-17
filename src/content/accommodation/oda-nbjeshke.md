@@ -16,6 +16,7 @@ amenities:
   - "Bar"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Rooms at Oda N'Bjeshke are thoughtfully designed with the guest's comfort in mind, featuring a desk, a private bathroom equipped with a shower and complimentary toiletries, and the convenience of free WiFi. For those seeking a more picturesque experience, select rooms offer breathtaking mountain views, adding an extra layer of enchantment to the stay. Entertainment and connectivity are ensured with the inclusion of a flat-screen TV and a hairdryer in every unit, catering to the needs of the modern traveler.

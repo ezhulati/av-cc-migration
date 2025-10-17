@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The interior of Arte Apartment Vlorë is a testament to thoughtful design and comfort. Guests are welcomed into a spacious setting, complete with two well-appointed bedrooms, ensuring a restful night's sleep. The living space is enhanced by a flat-screen TV with satellite channels, perfect for those moments of relaxation. A fully equipped kitchen awaits those who enjoy preparing their meals, boasting modern appliances including a dishwasher, oven, washing machine, and fridge. The balcony, adorned with outdoor furniture, offers a picturesque backdrop of the mountain, ideal for sipping wine or champagne provided as part of the in-room amenities.

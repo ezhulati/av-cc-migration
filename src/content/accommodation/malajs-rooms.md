@@ -20,6 +20,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to an array of amenities designed to enhance their stay. Each room, a haven of comfort and style, boasts air conditioning, ensuring a restful retreat from the Mediterranean warmth. Complimentary private parking and WiFi are provided, adding to the seamless experience.

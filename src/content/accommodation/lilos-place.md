@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This spacious apartment doesn't just offer a place to stay; it provides a home away from home with its air-conditioned rooms, a balcony that presents a breathtaking mountain panorama, and a host of modern amenities. Guests will find themselves in a two-bedroom haven, complete with a cozy living room, a flat-screen TV for entertainment, a fully equipped kitchen for those who love to cook, and a bathroom that caters to both bath and shower preferences. Importantly, the entire space is dedicated to non-smokers, ensuring a fresh and welcoming environment.

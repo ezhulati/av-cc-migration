@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home with its air-conditioned, 2-bedroom layout that includes a living room equipped with a flat-screen TV boasting streaming services, a fully equipped kitchen ready for culinary adventures with an oven and toaster, and a bathroom complete with slippers, ensuring a comfortable and self-sufficient stay. The added bonus of mountain views elevates the experience, offering guests a serene backdrop to their urban exploration.

@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "WiFi"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The hotel prides itself on providing air-conditioned accommodations, each boasting a private bathroom and complimentary WiFi, ensuring guests stay connected and comfortable throughout their visit. The commitment to a smoke-free environment further enhances the quality of stay for all guests.

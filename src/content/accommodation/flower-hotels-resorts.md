@@ -1,7 +1,7 @@
 ---
 title: "Flower Hotels & Resorts"
 description: "Flower Hotels & Resorts stands as a beacon of luxury and comfort, offering guests an unparalleled experience with its stunning sea views in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403558955.jpg?k=8acc5ba5c3c252669421e80a686d7699e875fe0b130b109b58bc026d33b9b8dc&o=&hp=1"
+featuredImage: "https://placehold.co/1200x800/0052CC/white?text=Flower+Hotels+%26+Resorts"
 language: en
 slug: flower-hotels-resorts
 address: "Rruga Qemal Stafa, 2504 Golem, Albania"
@@ -27,12 +27,9 @@ ratings:
   staff: 8.5
   wifi: 7.8
 images:
-  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403558955.jpg?k=8acc5ba5c3c252669421e80a686d7699e875fe0b130b109b58bc026d33b9b8dc&o=&hp=1"
-  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311925229.jpg?k=a3d0732010782eba1e1a50233a554ebc4608180d193d5645ab11d7c628a1550e&o=&hp=1"
-  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377243695.jpg?k=c4f750702ef6eed636c049863cc4a4dea8c9ad95ebb2c08af20d962b1fcf1f43&o=&hp=1"
-  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404863486.jpg?k=678e3ea9b7d578b91006b2dbe972fca9d3fa0e33cb98c7145e0dbaa3c63e0a2b&o=&hp=1"
-  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311925325.jpg?k=af8cdf311675d31de3538223f4a42d88fa5a2a43a580b418023e9f1047c09559&o=&hp=1"
-  - "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404863497.jpg?k=8097a6b18dd165bf0829b669d441e052c61838dcf26dfe1442ff09a297004f1b&o=&hp=1"
+  - "https://placehold.co/1200x800/0052CC/white?text=Flower+Hotels+%26+Resorts"
+# Note: Original Booking.com CDN images have expired (404).
+# These placeholders will be replaced with fresh images from the booking URL below.
 amenities:
   - "Outdoor swimming pool"
   - "Spa and wellness centre"

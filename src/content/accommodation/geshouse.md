@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 A stone's throw away from cultural landmarks such as the Et'hem Bey Mosque, Reja - The Cloud, and the National Museum of History Albania, guests find themselves immersed in the rich tapestry of Tirana's history and culture. The proximity to the Former Residence of Enver Hoxha adds a layer of historical intrigue to the stay, making it an ideal spot for those keen to explore Albania's past.

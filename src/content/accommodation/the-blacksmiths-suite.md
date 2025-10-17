@@ -13,6 +13,7 @@ location: "Shkodër"
 amenities:
   - "Bar"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Attention to detail is evident in the provision of quality bed linen, towels, and meticulous housekeeping services, ensuring a comfortable and hassle-free stay. Families visiting The Blacksmith's Suite will find a welcoming environment for their little ones, thanks to the outdoor play equipment designed to entertain and engage children in a safe setting.

@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Upon arrival, guests are greeted with the convenience of free private parking and the assurance of full-day security, making for a worry-free stay. The addition of free WiFi and a currency exchange service on-site further enhances the guest experience, ensuring all needs are met without stepping outside the complex.

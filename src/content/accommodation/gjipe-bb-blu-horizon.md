@@ -15,6 +15,7 @@ amenities:
   - "Bar"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Gjipe B&B Blu Horizon are designed with guest comfort in mind. Each unit is air-conditioned, ensuring a cool and comfortable stay. The rooms feature a private balcony equipped with an outdoor dining area, perfect for enjoying meals with a view. Entertainment is readily available through the flat-screen TV with satellite channels, catering to guests' diverse viewing preferences. Moreover, the property prides itself on being allergy-free and strictly non-smoking, ensuring a clean and healthy environment for all guests.

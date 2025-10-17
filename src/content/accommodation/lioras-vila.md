@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Boasting a generous layout, Liora's Vila presents a sprawling terrace that invites guests to bask in the serene atmosphere of its well-manicured garden. The villa accommodates guests in four elegantly appointed bedrooms, complemented by a spacious living room that serves as a perfect gathering space. Culinary enthusiasts will delight in the well-equipped kitchen, offering all the essentials for crafting memorable meals. Entertainment is readily available, with a flat-screen TV set as a focal point in the living area, ensuring guests can unwind in style.

@@ -12,6 +12,7 @@ accommodationType: "hotel"
 location: "Tirana"
 amenities:
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each room in the hotel is thoughtfully designed to maximize comfort, featuring a cozy seating area, a flat-screen TV with an array of cable channels, and a private bathroom equipped with a hairdryer and shower. The inclusion of a wardrobe in guest rooms adds a convenient touch for travelers.

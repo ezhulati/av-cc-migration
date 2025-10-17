@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to breathtaking mountain vistas from the comfort of a spacious terrace, while the convenience of complimentary WiFi ensures that connectivity is never an issue. Each room at Grandpa's Home is thoughtfully designed with guest comfort in mind, featuring cozy seating areas, flat-screen TVs with satellite channels, and private bathrooms equipped with slippers and walk-in showers. The addition of a patio and an outdoor dining area in every unit allows visitors to immerse themselves in the tranquil garden views, making every moment of their stay memorable.

@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 A mere stone's throw away from the historical Former Residence of Enver Hoxha, and equipped with an elevator, the property ensures easy access and a hassle-free stay. Guests have the unique opportunity to enjoy outdoor dining, adding a touch of charm to the overall experience.

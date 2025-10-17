@@ -15,6 +15,7 @@ amenities:
   - "Restaurant"
   - "Breakfast"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 Accommodations at Timo's Guest House are thoughtfully designed with comfort and convenience in mind. Each air-conditioned room opens up to a private terrace, offering guests the unique opportunity to soak in breathtaking river views right from their patio. The attention to detail extends inside the rooms, where guests will find a coffee machine for their morning brew, alongside a private bathroom equipped with a walk-in shower and plush bathrobes. Complimentary WiFi, along with bed linen and towels, are standard in every unit, adding to the comfort of your stay.

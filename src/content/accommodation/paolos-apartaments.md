@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The establishment prides itself on its array of amenities, including a lush garden for moments of relaxation, a welcoming bar for evening unwinds, and the convenience of a 24-hour front desk to meet guests' needs at any hour. Families will find Paolo's Apartments particularly appealing, thanks to its spacious family rooms and the added benefit of housekeeping services ensuring a comfortable and hassle-free stay.

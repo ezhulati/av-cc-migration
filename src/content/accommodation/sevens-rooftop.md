@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Sea View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a study in spacious, airy comfort, featuring a balcony that presents breathtaking sea views. Guests can expect a well-appointed living space that includes a bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen is fully equipped with modern appliances such as an oven and a microwave, catering to all culinary needs. Additionally, the convenience of a private bathroom equipped with a shower, along with the provision of towels and bed linen, underscores the apartment's commitment to comfort. The added benefit of a private entrance enhances the sense of exclusivity and privacy for guests.

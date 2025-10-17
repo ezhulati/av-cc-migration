@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of modern amenities, featuring air conditioning for those warm Mediterranean days. Guests will find a cozy bedroom waiting to envelop them in relaxation after a day of adventure. The living room provides a spacious area for unwinding, while the fully equipped kitchen, complete with an oven, ensures that home-cooked meals are a delightful option. The convenience of a private bathroom, equipped with a shower and hair dryer, adds to the comfort of the stay.

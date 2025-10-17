@@ -13,6 +13,7 @@ location: "Shkodër"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodation itself features two well-appointed bedrooms, a bathroom, and a kitchen equipped with everything needed for a self-sufficient stay. Entertainment needs are catered to with the inclusion of a flat-screen TV, making it a perfect retreat for both leisure and business travelers.

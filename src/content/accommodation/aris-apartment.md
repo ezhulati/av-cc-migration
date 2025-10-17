@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This generously sized apartment is designed to cater to the needs of modern travelers, featuring a bedroom that promises restful nights. Entertainment is readily available with a flat-screen TV equipped with cable channels, ensuring guests are never far from their favorite shows. The inclusion of a fully equipped kitchen, complete with an oven and a fridge, allows guests the freedom to prepare their meals just the way they like. Additionally, the convenience of a washing machine simplifies longer stays. The bathroom, equipped with a bidet, along with the provision of towels and bed linen, underscores the apartment's commitment to comfort.

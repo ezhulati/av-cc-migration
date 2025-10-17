@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned 1-bedroom apartment is a haven of tranquility, boasting a garden view that invites guests to unwind in a peaceful setting. The availability of private parking and complimentary WiFi enhances the stay, ensuring that guests enjoy both ease and connectivity throughout their visit. The commitment to a non-smoking environment further underscores the property's dedication to providing a clean and healthy atmosphere.

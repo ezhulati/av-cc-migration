@@ -17,6 +17,7 @@ amenities:
   - "Restaurant"
   - "Breakfast"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Casa Gaçe do not disappoint, with each room and suite boasting air conditioning, satellite TV, and complimentary WiFi, ensuring a comfortable and connected stay. The attention to detail is evident in the provision of a private bathroom equipped with a shower in every unit, along with thoughtful extras such as free toiletries and a hair dryer, enhancing the overall guest experience.

@@ -16,6 +16,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The accommodations at Villa Madia&Avniu are thoughtfully designed with comfort and convenience in mind. Each holiday home is air-conditioned and offers a harmonious blend of space and privacy. Guests are treated to a well-appointed living area, complete with a satellite flat-screen TV, alongside a fully equipped kitchen featuring an oven and a fridge, ensuring all the comforts of home. The inclusion of a private bathroom with a bidet and hairdryer, along with the provision of bed linen and towels, adds to the seamless experience.

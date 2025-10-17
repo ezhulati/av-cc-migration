@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at Flora's is a testament to thoughtful design, offering guests a private balcony from which the sea can be admired, alongside a cozy seating area perfect for unwinding. Entertainment and connectivity are ensured with a flat-screen TV, while the fully equipped kitchen, featuring an oven and a fridge, invites guests to feel at home. The inclusion of a private bathroom with a bidet, air conditioning, and ample wardrobe space further enhances the living experience, ensuring comfort regardless of the duration of stay.

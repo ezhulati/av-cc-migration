@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The Großzügige Wohnung stands out for its generous space, featuring three well-appointed bedrooms, ensuring ample room for families or groups. Entertainment is readily available with a flat-screen TV equipped with cable channels, perfect for relaxing evenings after a day of exploration. The apartment doesn't just stop at providing a place to rest; a fully equipped kitchen, complete with a fridge, minibar, and washing machine, invites guests to feel at home, making it an ideal spot for longer stays.

@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 HERIS'S APARTMENT stands out for its modern amenities and thoughtful touches designed to make guests feel at home. The air-conditioned apartment features a spacious bedroom, a living room that invites relaxation, and a dining area perfect for enjoying meals. The fully equipped kitchen, complete with an oven, allows guests the freedom to prepare their own meals, adding a touch of home comfort to their travel experience. For a sweet treat, chocolates or cookies are provided, adding a personal touch to the welcoming atmosphere.

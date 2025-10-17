@@ -14,6 +14,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "Laundry"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a haven of comfort, featuring air conditioning for those warm Albanian days. It includes a cozy bedroom, a bathroom equipped with a hair dryer, a welcoming seating area, and a living room designed for relaxation. The balcony, adorned with outdoor furniture, presents an idyllic setting for guests to enjoy the sea's tranquil vistas. For added convenience, the apartment is stocked with essential bed linen, towels, and offers a laundry service.

@@ -14,6 +14,7 @@ amenities:
   - "WiFi"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This generously sized apartment boasts a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for those who love to cook, and a modern bathroom. Entertainment needs are catered to with a flat-screen TV, ensuring guests have a comfortable stay. The entire apartment benefits from complimentary WiFi, allowing visitors to stay connected with ease. Emphasizing a clean and healthy living environment, the accommodation strictly adheres to a non-smoking policy.

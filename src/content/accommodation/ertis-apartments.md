@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The facility is equipped with an elevator, ensuring easy access to all, and features family rooms, making it an ideal option for those traveling in groups or with family. Each unit within Erti's Apartments is thoughtfully furnished with air conditioning to ensure a comfortable stay regardless of the weather. Select apartments boast additional amenities, including a flat-screen TV, washing machine, and a coffee machine, all set within a fully equipped kitchen, allowing guests the freedom to prepare their meals just the way they like.

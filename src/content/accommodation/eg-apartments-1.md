@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment is thoughtfully designed to cater to the needs of modern travelers, featuring air conditioning for those warm summer days. Guests will appreciate the added convenience of complimentary private parking and WiFi, ensuring a hassle-free stay. Emphasizing a smoke-free environment, E&G Apartments 1 prioritizes the comfort and well-being of its guests.

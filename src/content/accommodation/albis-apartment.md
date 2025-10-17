@@ -17,6 +17,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just boast a strategic location; it offers a serene retreat with its city and mountain views. Guests can enjoy the luxury of a private balcony, ideal for soaking in the surroundings or enjoying a quiet meal. The interior is thoughtfully designed with a cozy bedroom, a spacious living room equipped with a flat-screen TV for entertainment, and an allergy-free environment ensuring a comfortable stay for all guests. The kitchen, equipped with an oven and microwave, caters to those who prefer home-cooked meals, while the convenience of a modern bathroom with a shower adds to the comfort.

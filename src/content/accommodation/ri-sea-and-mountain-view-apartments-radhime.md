@@ -19,6 +19,7 @@ amenities:
   - "Balcony"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment at R&I Sea and Mountain View is designed with guest comfort in mind, featuring air conditioning, a private balcony, and complimentary WiFi. The family-friendly accommodations include a spacious seating area, a flat-screen TV for entertainment, and a fully equipped kitchen with modern appliances such as an oven, microwave, toaster, fridge, and stovetop. Additionally, guests can expect the convenience of a private bathroom equipped with a bidet and hair dryer, along with the provision of fresh bed linen and towels for a hassle-free stay.

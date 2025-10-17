@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The apartment itself is a spacious haven, boasting a bedroom that merges comfort with style, complemented by a flat-screen TV equipped with streaming services for those leisurely evenings in. The kitchen doesn't skimp on amenities either, featuring an oven, toaster, washing machine, fridge, and stovetop, ensuring that guests have everything they need to feel at home. The provision of towels and bed linen adds a touch of convenience, while the private entrance to the accommodation ensures privacy and ease of access.

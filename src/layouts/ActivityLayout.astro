@@ -180,7 +180,8 @@ const ogImage = featuredImage || '/images/albaniavisit-og-default.jpg';
 
   .hero-image {
     position: relative;
-    height: 450px;
+    height: 92vh;
+    min-height: 750px;
     overflow: hidden;
   }
 
@@ -193,10 +194,10 @@ const ogImage = featuredImage || '/images/albaniavisit-og-default.jpg';
   .hero-overlay {
     position: absolute;
     inset: 0;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6));
+    background: linear-gradient(to bottom, transparent 40%, rgba(0,0,0,0.4) 70%, rgba(0,0,0,0.8));
     display: flex;
     align-items: flex-end;
-    padding: 3rem 2rem;
+    padding: 2rem 2rem;
   }
 
   .hero-content {
@@ -240,6 +241,7 @@ const ogImage = featuredImage || '/images/albaniavisit-og-default.jpg';
     font-weight: 700;
     margin: 0 0 0.5rem 0;
     line-height: 1.2;
+    text-align: left;
   }
 
   .category-tag {
@@ -254,6 +256,7 @@ const ogImage = featuredImage || '/images/albaniavisit-og-default.jpg';
     max-width: 700px;
     line-height: 1.6;
     margin: 0;
+    text-align: left;
   }
 
   /* Content Grid */
@@ -504,6 +507,11 @@ const ogImage = featuredImage || '/images/albaniavisit-og-default.jpg';
 
     .lead-description {
       font-size: 1rem;
+    }
+
+    .hero-image {
+      height: 80vh;
+      min-height: 600px;
     }
 
     .prose {

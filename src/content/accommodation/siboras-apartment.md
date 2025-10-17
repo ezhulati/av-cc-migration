@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it offers a spacious sanctuary complete with a balcony that boasts serene garden views. The accommodation includes a well-appointed bedroom, a cozy living room, and a flat-screen TV for entertainment. The kitchen is fully equipped with an oven and a fridge, catering to all culinary needs, while the bathroom comes with a bidet, ensuring a comfortable and convenient experience.

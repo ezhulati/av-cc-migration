@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned apartment boasts a thoughtful layout, including a balcony that presents serene city and quiet street views, ensuring a peaceful retreat from the bustling city life. Located 42 km from the historic Rozafa Castle Shkodra, it serves as an ideal base for explorers eager to immerse themselves in the local culture and history.

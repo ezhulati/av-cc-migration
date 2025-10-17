@@ -17,6 +17,7 @@ amenities:
   - "Restaurant"
   - "Bar"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The guesthouse prides itself on its array of amenities designed to ensure a comfortable stay. Each room is equipped with modern conveniences such as air conditioning, a flat-screen TV complete with streaming services, a minibar, and a coffee machine. The attention to detail extends to the bathrooms, where guests can find a bidet and hair dryer, alongside the provision of free WiFi throughout the property. Select rooms also boast balconies, offering private vistas of the surrounding mountains, while all guests can enjoy the added comfort of complimentary bed linen and towels.

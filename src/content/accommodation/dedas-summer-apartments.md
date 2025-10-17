@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Each apartment is thoughtfully designed to cater to the modern traveler's needs, featuring air-conditioning for those warm summer days and a private balcony to enjoy the gentle sea breeze. The inclusion of free WiFi allows guests to stay connected, whether for leisure or work. The heart of these apartments is undoubtedly the fully equipped kitchen, complete with a dining table, enabling guests to prepare and enjoy their meals with ease. Entertainment is readily available through the flat-screen TV with cable channels, ensuring guests are never at a loss for things to do.

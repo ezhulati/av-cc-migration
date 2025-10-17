@@ -14,6 +14,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are treated to an array of amenities within the apartment, including a terrace that invites relaxation under the sky, a cozy bedroom for restful nights, a welcoming living room for leisurely downtime, and a well-equipped kitchen that caters to culinary whims. Entertainment needs are effortlessly met with the provision of a flat-screen TV, ensuring that guests have access to their favorite shows and movies.

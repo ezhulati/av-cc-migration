@@ -1,5 +1,5 @@
 ---
-title: "Butrint - Where UNESCO Protects 2,500 Years of Mediterranean History From Greek Theater to Byzantine Mosaics"
+title: "Butrint"
 description: "Explore Butrint National Park, where UNESCO designation (1992, briefly endangered 1997-2005) protects Albania's most complete archaeological sequence—4th-century BCE Greek theater with freed slave inscriptions, Roman forum preserved under protective soil, 6th-century Byzantine baptistery mosaics rivaling Ravenna, and Venetian-Ottoman fortifications controlling the Corfu Strait."
 region: Southern Albania
 featuredImage: "/images/destinations/butrint.jpeg"
@@ -56,8 +56,8 @@ highlights:
   - Sanctuary of Asclepius where 300+ bronze votive offerings document ancient Greek healing pilgrimage
   - Wetland setting where Lake Butrint meets Ionian Sea supporting 246 bird species across marshes, channels, and Mediterranean forest
 seo:
-  metaTitle: "Butrint UNESCO World Heritage Site - 2,500 Years of Greek, Roman & Byzantine Albania"
-  metaDescription: "Explore Butrint National Park's 2,500-year archaeological sequence: 4th-century BCE Greek theater with freed slave inscriptions, Roman forum, 6th-century Byzantine mosaics rivaling Ravenna, Venetian fortifications. UNESCO site 18km from Saranda."
+  metaTitle: "Butrint Albania - UNESCO Greek & Roman Archaeological Site"
+  metaDescription: "Explore Butrint's 2,500-year history: Greek theater, Roman forum, Byzantine mosaics. Albania's premier UNESCO World Heritage site, 18km from Saranda."
   focusKeyword: "butrint,butrint national park,unesco world heritage albania"
 ---
 

@@ -18,6 +18,7 @@ amenities:
   - "Breakfast"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are welcomed into a world of convenience with the availability of a shared kitchen, ensuring that culinary needs are met with ease, and a luggage storage space for those looking for a hassle-free travel experience. The entire property boasts free WiFi, allowing guests to stay connected with the world, while private parking is available for those arriving by car, albeit at an additional cost.

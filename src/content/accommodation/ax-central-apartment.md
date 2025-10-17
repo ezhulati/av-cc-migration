@@ -15,6 +15,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Merely a stone's throw away from the Toptani Shopping Centre, and within walking distance to the Clock Tower Tirana and Et'hem Bey Mosque, the apartment's location ensures that guests are never far from the action. The Dajti Ekspres Cable Car, a popular attraction offering breathtaking views of the city, is just 5 km away, while the historical Former Residence of Enver Hoxha and the picturesque Rock of Kavaje are also easily accessible.

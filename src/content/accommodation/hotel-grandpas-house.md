@@ -14,6 +14,7 @@ amenities:
   - "Pool"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Hotel Grandpa's House are thoughtfully designed to ensure maximum comfort, featuring air-conditioned rooms equipped with essential amenities such as a wardrobe, a safety deposit box, a flat-screen TV, and a patio. The private bathrooms come with a bidet, enhancing the convenience of your stay, while a fridge in each room adds an extra layer of comfort for guests.

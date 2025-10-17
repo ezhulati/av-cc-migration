@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests will appreciate the seamless connectivity offered by the complimentary WiFi that spans across the entire apartment, ensuring that the world is at their fingertips. A mere 1.3 km away, the vibrant Skanderbeg Square invites visitors to immerse themselves in the local culture and history.

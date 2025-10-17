@@ -15,6 +15,7 @@ amenities:
   - "Kitchen"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This air-conditioned one-bedroom haven stands out for its commitment to providing a smoke-free environment, ensuring a pleasant stay for all guests. Situated a short distance from notable landmarks such as the Clock Tower Tirana and Et'hem Bey Mosque, and only 2.3 km from the historical Former Residence of Enver Hoxha, visitors are perfectly placed to soak in the local culture and history.

@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Restaurant"
   - "Breakfast"
+ratingWords: "Fair"
 ---
 
 The on-site restaurant at Stephen Center B&B elevates the dining experience for guests, serving a variety of international dishes alongside a welcoming breakfast to start the day right. For those looking to explore local flavors, a grocery store is conveniently located just 60 meters away, inviting guests to sample the local produce.

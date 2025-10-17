@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Strategically located, the apartment finds itself a brief journey from the vibrant Coco Bongo Beach, the historic Kuzum Baba viewpoint, and the iconic Independence Square, making it an ideal base for exploring the rich tapestry of Vlorë's attractions.

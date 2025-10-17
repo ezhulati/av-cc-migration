@@ -1,5 +1,5 @@
 ---
-title: "Peshkopi - Gateway to Mount Korab Where Albania's Highest Peak Rises 2,764 Meters on the North Macedonia Border"
+title: "Peshkopi"
 description: "Discover Peshkopi, the Dibër region capital of 14,000 serving as base for climbing Mount Korab (2,764m) - Albania's highest peak straddling the North Macedonia border. This northeastern mountain town offers access to Shebenik-Jabllanicë National Park, communist-era relics in isolated valleys, and authentic Albanian mountain life far from tourism circuits."
 region: Northeast Albania
 featuredImage: /images/destinations/peshkopi.jpeg
@@ -23,8 +23,8 @@ highlights:
   - Remote mountain villages maintaining traditional alpine economy and architecture
   - Communist-era isolation creating preserved cultural landscape with minimal foreign influence
 seo:
-  metaTitle: "Peshkopi Albania - Mount Korab (2,764m) & Shebenik-Jabllanicë National Park Guide"
-  metaDescription: "Explore Peshkopi gateway to Mount Korab (2,764m), Albania's highest peak. Shebenik-Jabllanicë National Park, Drini i Zi valley, and authentic northeastern Albanian mountain life in Dibër region."
+  metaTitle: "Peshkopi Albania - Mount Korab Climbing & Hiking Guide"
+  metaDescription: "Explore Peshkopi, gateway to Mount Korab (2,764m), Albania's highest peak. 2-day climbing expeditions, Shebenik-Jabllanicë National Park. 150km from Tirana."
 ---
 
 ## Albania's Highest Peak and the Valleys Below

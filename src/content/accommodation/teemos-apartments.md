@@ -14,6 +14,7 @@ amenities:
   - "Restaurant"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Positioned on the ground floor, the apartment reveals a generous layout featuring two bedrooms, a living room designed for leisure, and a flat-screen TV for entertainment. The kitchen does not disappoint, being well-equipped with an oven and a fridge, catering to the culinary needs of guests who prefer home-cooked meals. Moreover, the outdoor dining area invites guests to enjoy their meals while soaking in the local atmosphere.

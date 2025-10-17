@@ -13,6 +13,7 @@ amenities:
   - "Air Conditioning"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Accommodations at Eva's House are thoughtfully designed to cater to families, featuring select units that extend into a terrace and a cozy seating area equipped with a flat-screen TV, all enveloped in the comfort of air conditioning. Privacy and comfort are paramount, with each unit boasting a dedicated bathroom, providing a personal oasis of relaxation.

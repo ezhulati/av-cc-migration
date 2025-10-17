@@ -1,0 +1,634 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  newsArticle: CollectionEntry<'news'>;
+}
+
+const { newsArticle } = Astro.props;
+const { Content } = await newsArticle.render();
+
+// Destructure frontmatter data with fallbacks
+const {
+  title,
+  description,
+  pubDate,
+  updatedDate,
+  author,
+  categories,
+  tags,
+  featuredImage,
+} = newsArticle.data;
+
+// Use frontmatter slug or fall back to file system slug
+const slug = newsArticle.data.slug || newsArticle.slug;
+
+// Canonical URL
+const canonicalURL = `https://albaniavisit.com/news/${slug}/`;
+
+// Featured image for meta tags
+const ogImage = featuredImage || '/images/albaniavisit-og-default.jpg';
+
+// Format dates
+const publishDate = new Date(pubDate).toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+
+const updateDate = updatedDate ? new Date(updatedDate).toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+}) : null;
+---
+
+<BaseLayout
+  title={`${title} | Albania News`}
+  description={description}
+  canonical={canonicalURL}
+  image={ogImage}
+>
+  <article class="news-page">
+    <!-- Hero Section -->
+    <section class="hero-section">
+      {featuredImage ? (
+        <div class="hero-image">
+          <img
+            src={featuredImage}
+            alt={title}
+            loading="eager"
+          />
+          <div class="hero-overlay">
+            <div class="hero-content">
+              <div class="breadcrumbs">
+                <a href="/">Home</a>
+                <span>/</span>
+                <a href="/news/">News</a>
+                {categories && categories.length > 0 && (
+                  <>
+                    <span>/</span>
+                    <span>{categories[0]}</span>
+                  </>
+                )}
+              </div>
+              <h1>{title}</h1>
+              <div class="meta">
+                <span class="date">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                  </svg>
+                  {publishDate}
+                </span>
+                {author && (
+                  <span class="author">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                      <circle cx="12" cy="7" r="4"></circle>
+                    </svg>
+                    {author}
+                  </span>
+                )}
+              </div>
+              <p class="lead-description">{description}</p>
+            </div>
+          </div>
+        </div>
+      ) : (
+        <div class="hero-text-only">
+          <div class="container">
+            <div class="breadcrumbs">
+              <a href="/">Home</a>
+              <span>/</span>
+              <a href="/news/">News</a>
+              {categories && categories.length > 0 && (
+                <>
+                  <span>/</span>
+                  <span>{categories[0]}</span>
+                </>
+              )}
+            </div>
+            <h1>{title}</h1>
+            <div class="meta">
+              <span class="date">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                  <line x1="16" y1="2" x2="16" y2="6"></line>
+                  <line x1="8" y1="2" x2="8" y2="6"></line>
+                  <line x1="3" y1="10" x2="21" y2="10"></line>
+                </svg>
+                {publishDate}
+              </span>
+              {author && (
+                <span class="author">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="12" cy="7" r="4"></circle>
+                  </svg>
+                  {author}
+                </span>
+              )}
+            </div>
+            <p class="lead-description">{description}</p>
+          </div>
+        </div>
+      )}
+    </section>
+
+    <div class="content-wrapper">
+      <div class="container">
+        <div class="content-grid">
+          <!-- Main Content -->
+          <div class="main-content">
+            <div class="prose" data-article-content>
+              <Content />
+            </div>
+
+            <!-- Tags -->
+            {tags && tags.length > 0 && (
+              <div class="tags-section">
+                <h3>Tags</h3>
+                <div class="tags">
+                  {tags.map(tag => (
+                    <span class="tag">{tag}</span>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            <!-- Update info -->
+            {updateDate && (
+              <div class="update-info">
+                Last updated: {updateDate}
+              </div>
+            )}
+          </div>
+
+          <!-- Sidebar -->
+          <aside class="sidebar">
+            <!-- Categories Card -->
+            {categories && categories.length > 0 && (
+              <div class="info-card">
+                <h3>Categories</h3>
+                <div class="category-list">
+                  {categories.map(category => (
+                    <div class="category-badge">
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+                        <line x1="7" y1="7" x2="7.01" y2="7"></line>
+                      </svg>
+                      <span>{category}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            <!-- Explore More -->
+            <div class="info-card">
+              <h3>Explore More</h3>
+              <div class="explore-links">
+                <a href="/news/" class="explore-link">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M19 20H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v1m2 13a2 2 0 0 1-2-2V7m2 13a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"></path>
+                  </svg>
+                  <span>All News</span>
+                </a>
+                <a href="/destinations/" class="explore-link">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                    <circle cx="12" cy="10" r="3"></circle>
+                  </svg>
+                  <span>Destinations</span>
+                </a>
+                <a href="/attractions/" class="explore-link">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                  </svg>
+                  <span>Attractions</span>
+                </a>
+                <a href="/activities/" class="explore-link">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                    <path d="M2 17l10 5 10-5"></path>
+                    <path d="M2 12l10 5 10-5"></path>
+                  </svg>
+                  <span>Activities</span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Stay Updated Card -->
+            <div class="info-card tips-card">
+              <h3>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <path d="M12 16v-4"></path>
+                  <path d="M12 8h.01"></path>
+                </svg>
+                Stay Updated
+              </h3>
+              <p>Get the latest news and updates about Albania delivered to your inbox.</p>
+              <a href="/contact/" class="cta-button">Subscribe</a>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  /* Hero Section */
+  .hero-section {
+    margin-top: -2rem;
+  }
+
+  .hero-image {
+    position: relative;
+    height: 92vh;
+    min-height: 750px;
+    overflow: hidden;
+  }
+
+  .hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, transparent 40%, rgba(0,0,0,0.4) 70%, rgba(0,0,0,0.8));
+    display: flex;
+    align-items: flex-end;
+    padding: 2rem 2rem;
+  }
+
+  .hero-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+    color: white;
+  }
+
+  .hero-text-only {
+    background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+    color: white;
+    padding: 4rem 2rem;
+  }
+
+  .hero-text-only .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .breadcrumbs {
+    display: flex;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+    opacity: 0.9;
+  }
+
+  .breadcrumbs a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+
+  .hero-content h1,
+  .hero-text-only h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem 0;
+    line-height: 1.2;
+    text-align: left;
+  }
+
+  .meta {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+    opacity: 0.95;
+  }
+
+  .meta span {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .meta svg {
+    opacity: 0.8;
+  }
+
+  .lead-description {
+    font-size: 1.25rem;
+    max-width: 700px;
+    line-height: 1.6;
+    margin: 0;
+    text-align: left;
+  }
+
+  /* Content Grid */
+  .content-wrapper {
+    padding: 3rem 2rem;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .content-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  @media (min-width: 1024px) {
+    .content-grid {
+      grid-template-columns: 1fr 350px;
+    }
+  }
+
+  /* Prose Styles */
+  .prose {
+    font-size: 1.125rem;
+    line-height: 1.75;
+    color: #2c3e50;
+  }
+
+  .prose h2 {
+    font-size: 2rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+
+  .prose h3 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    color: #34495e;
+  }
+
+  .prose p {
+    margin-bottom: 1.25rem;
+  }
+
+  .prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 2rem 0;
+  }
+
+  .prose a {
+    color: #3498db;
+    text-decoration: none;
+  }
+
+  .prose a:hover {
+    text-decoration: underline;
+  }
+
+  .prose ul,
+  .prose ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+  }
+
+  .prose li {
+    margin-bottom: 0.5rem;
+  }
+
+  /* Tags Section */
+  .tags-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #dee2e6;
+  }
+
+  .tags-section h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .tag {
+    background: #e8f4f8;
+    color: #2c3e50;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  /* Update Info */
+  .update-info {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-left: 4px solid #3498db;
+    color: #6c757d;
+    font-size: 0.9rem;
+  }
+
+  /* Sidebar */
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .info-card {
+    background: white;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 1.5rem;
+  }
+
+  .info-card h3 {
+    font-size: 1.25rem;
+    margin: 0 0 1rem 0;
+    color: #2c3e50;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .category-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .category-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    background: #e8f4f8;
+    border-radius: 6px;
+    color: #2c3e50;
+    font-weight: 500;
+  }
+
+  .category-badge svg {
+    color: #3498db;
+  }
+
+  /* Explore Links */
+  .explore-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .explore-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    border-radius: 4px;
+    background: #f8f9fa;
+    color: #2c3e50;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+
+  .explore-link:hover {
+    background: #e9ecef;
+  }
+
+  .explore-link svg {
+    color: #3498db;
+    flex-shrink: 0;
+  }
+
+  /* Tips Card */
+  .tips-card {
+    background: linear-gradient(135deg, #f0f8ff 0%, #e0f0ff 100%);
+    border-color: #3498db;
+  }
+
+  .tips-card p {
+    margin: 0 0 1rem 0;
+    color: #2c3e50;
+    line-height: 1.6;
+  }
+
+  .cta-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background-color 0.2s;
+  }
+
+  .cta-button:hover {
+    background: #2980b9;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .hero-content h1,
+    .hero-text-only h1 {
+      font-size: 2rem;
+    }
+
+    .lead-description {
+      font-size: 1rem;
+    }
+
+    .hero-image {
+      height: 80vh;
+      min-height: 600px;
+    }
+
+    .prose {
+      font-size: 1rem;
+    }
+
+    .meta {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+  }
+</style>
+
+<script is:inline>
+  // Article Read More Functionality (if needed for long articles)
+  document.addEventListener('DOMContentLoaded', function() {
+    const articleContent = document.querySelector('[data-article-content]');
+    if (!articleContent) return;
+
+    const elements = Array.from(articleContent.children);
+    let paragraphCount = 0;
+    let h2Count = 0;
+    let insertIndex = -1;
+
+    for (let i = 0; i < elements.length; i++) {
+      if (elements[i].tagName === 'H2') {
+        h2Count++;
+      }
+      if (elements[i].tagName === 'P') {
+        paragraphCount++;
+        if (paragraphCount >= 3 || (h2Count >= 2 && paragraphCount >= 2)) {
+          insertIndex = i;
+          break;
+        }
+      }
+    }
+
+    if (insertIndex !== -1 && insertIndex < elements.length - 3) {
+      const readMoreBtn = document.createElement('button');
+      readMoreBtn.className = 'read-more-btn';
+      readMoreBtn.innerHTML = `
+        <span>Continue Reading</span>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M19 9l-7 7-7-7"></path>
+        </svg>
+      `;
+
+      elements[insertIndex].insertAdjacentElement('afterend', readMoreBtn);
+
+      const allChildren = Array.from(articleContent.children);
+      const buttonIndex = allChildren.indexOf(readMoreBtn);
+
+      for (let i = buttonIndex + 1; i < allChildren.length; i++) {
+        allChildren[i].style.display = 'none';
+        allChildren[i].setAttribute('data-hidden-by-readmore', 'true');
+      }
+
+      readMoreBtn.addEventListener('click', () => {
+        const hiddenElements = articleContent.querySelectorAll('[data-hidden-by-readmore="true"]');
+        hiddenElements.forEach(el => {
+          el.style.display = '';
+          el.removeAttribute('data-hidden-by-readmore');
+        });
+        readMoreBtn.remove();
+      });
+    }
+  });
+</script>

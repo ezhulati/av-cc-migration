@@ -17,6 +17,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home with its air-conditioned living spaces, complemented by a balcony that opens up to refreshing garden views. Guests can enjoy the convenience of free WiFi and private parking, making their stay hassle-free. The non-smoking environment ensures a clean and healthy atmosphere for all visitors.

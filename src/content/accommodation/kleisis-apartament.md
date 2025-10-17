@@ -13,6 +13,7 @@ location: "Tirana"
 amenities:
   - "Bar"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Located strategically, the property is a mere 8.2 km from the historical Former Residence of Enver Hoxha and 29 km from the natural beauty of the Rock of Kavaje, positioning it perfectly for guests eager to explore the rich tapestry of Tirana's cultural and natural attractions. Skanderbeg Square, a pivotal landmark, is just 7.2 km away, while the Dajti Ekspres Cable Car offers an adventurous escape 12 km from the doorstep, promising an easy route to exploration and adventure.

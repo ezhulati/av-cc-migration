@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just boast an enviable location; it offers a sanctuary of space and comfort. Guests are greeted with a well-appointed living area, a serene bedroom, and a balcony that invites quiet moments in the fresh air. The kitchen is equipped with a fridge and other essentials, making it perfect for those who prefer a home-cooked meal even while on the move. Entertainment needs are met with a flat-screen TV, complementing the cozy ambiance of the apartment.

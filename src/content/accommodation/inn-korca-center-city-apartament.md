@@ -16,6 +16,7 @@ amenities:
   - "Kitchen"
   - "Mountain View"
   - "TV"
+ratingWords: "Fair"
 ---
 
 INN Korça doesn't just offer a place to stay; it provides a home away from home with its air-conditioned, spacious apartment that caters to every need. Guests will find themselves enveloped in comfort with a fully equipped kitchen, complete with a toaster, fridge, and all necessary kitchenware, making meal preparation a breeze. The living area, designed for relaxation, includes a cozy seating area and a dining space, perfect for enjoying home-cooked meals or entertaining guests. The apartment boasts two inviting bedrooms and a well-appointed bathroom featuring a bidet and shower, ensuring a comfortable stay for all.

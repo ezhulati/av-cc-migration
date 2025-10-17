@@ -17,6 +17,7 @@ amenities:
   - "Restaurant"
   - "Balcony"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests at Oda's Room are treated to well-appointed accommodations, each featuring air conditioning for those warm Mediterranean nights, a desk for any work or planning needs, and a balcony that presents captivating city views. The essence of home is captured with the inclusion of a private bathroom, a flat-screen TV for entertainment, and the thoughtful addition of bed linen and towels. Moreover, the convenience of having a fridge in the room adds an extra layer of comfort for guests wishing to keep beverages and snacks close at hand.

@@ -18,6 +18,7 @@ amenities:
   - "Balcony"
   - "Laundry"
   - "TV"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just offer a place to stay; it provides a home away from home with its fully equipped kitchen, free WiFi, and a welcoming balcony that boasts captivating city views. The space is thoughtfully designed with a flat-screen TV, air conditioning, and a cozy living room, ensuring a comfortable and relaxing stay. The addition of a private entrance enhances the sense of exclusivity and privacy, inviting guests to unwind with complimentary fruits, chocolates, or cookies upon arrival. Moreover, the convenience of a laundry service adds to the seamless experience.

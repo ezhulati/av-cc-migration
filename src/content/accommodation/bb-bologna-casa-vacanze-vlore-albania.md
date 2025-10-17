@@ -17,6 +17,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 The property, which stands a short distance of 2.3 km from the iconic Independence Square, boasts a meticulously renovated apartment. This inviting space is equipped with a flat-screen TV in its airy bedroom, complemented by a modern bathroom, ensuring a comfortable stay. The highlight for many, however, is the inclusion of a private kitchen, perfect for those moments when the allure of a home-cooked meal is preferred over the local dining scene.

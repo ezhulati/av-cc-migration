@@ -16,6 +16,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "TV"
+ratingWords: "Fair"
 ---
 
 Guests are greeted with the luxury of privacy and ease, thanks to private entrances to each apartment, ensuring a seamless experience from arrival to departure. The pet-friendly policy further elevates the appeal, making it an inclusive option for all members of the family, furry ones included. Connectivity is never an issue, with complimentary WiFi available throughout the premises.

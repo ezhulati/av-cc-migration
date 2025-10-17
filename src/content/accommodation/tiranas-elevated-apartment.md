@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 This apartment doesn't just boast an enviable location; its interiors are equally impressive. Guests are welcomed into a spacious haven, complete with a balcony that invites the outside in. The two-bedroom setup is complemented by a cozy living room, perfect for unwinding after a day of exploration. The kitchen doesn't disappoint either, being well-equipped with modern appliances including a microwave and a fridge, ensuring that guests feel right at home. The provision of towels and bed linen adds a touch of convenience, underscoring the thoughtful touches that characterize this accommodation.

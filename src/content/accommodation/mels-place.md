@@ -14,6 +14,7 @@ amenities:
   - "Spa"
   - "Kitchen"
   - "Balcony"
+ratingWords: "Fair"
 ---
 
 This apartment, boasting a spacious layout complete with a balcony that offers sweeping city views, is designed to cater to the needs of modern travelers. Guests will find a well-appointed living room, a bedroom that promises restful nights, and a fully equipped kitchen featuring a dishwasher and an oven, ensuring that home-cooked meals are never off the menu. The inclusion of a walk-in shower in the bathroom, along with the provision of towels and bed linen, adds a touch of convenience to the stay.
