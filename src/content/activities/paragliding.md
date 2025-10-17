@@ -2,7 +2,7 @@
 title: Paragliding Albania
 description: Your complete guide to paragliding in Albania with verified operator contacts, current pricing, and the best locations from Tirana's mountains to the Albanian Riviera.
 category: Outdoor Adventure
-featuredImage: /images/activities/paragliding.jpg
+featuredImage: /images/activities/paragliding-temp.jpg
 language: en
 slug: paragliding
 seo:

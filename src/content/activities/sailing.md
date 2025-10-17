@@ -2,7 +2,7 @@
 title: Sailing Albania
 description: Explore the best of Albania's sailing spots, from serene marinas to ancient coastal towns, and uncover the essentials for a perfect maritime adventure.
 category: ""
-featuredImage: /images/activities/sailing.jpg
+featuredImage: /images/attractions/coastal-albania.jpeg
 language: en
 slug: sailing
 seo:
