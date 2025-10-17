@@ -5,12 +5,12 @@ interface Props {
 }
 
 const { images, title } = Astro.props;
-const galleryId = `gallery-${Math.random().toString(36).substr(2, 9)}`;
+const galleryId = `gallery-${Math.random().toString(36).substring(2, 11)}`;
 ---
 
 <div class="lightbox-gallery" data-gallery-id={galleryId}>
   <div class="gallery-grid">
-    {images.map((image, index) => (
+    {images.map((image: string, index: number) => (
       <button
         class="gallery-item"
         data-index={index}
@@ -64,26 +64,26 @@ const galleryId = `gallery-${Math.random().toString(36).substr(2, 9)}`;
 
 <script>
   // Initialize all galleries on the page
-  function initGallery(galleryElement) {
+  function initGallery(galleryElement: Element) {
     const galleryItems = galleryElement.querySelectorAll('.gallery-item');
-    const lightbox = galleryElement.querySelector('.lightbox-modal');
-    const lightboxImage = lightbox.querySelector('.lightbox-image');
-    const lightboxCounter = lightbox.querySelector('.lightbox-counter');
-    const closeBtn = lightbox.querySelector('.lightbox-close');
-    const prevBtn = lightbox.querySelector('.lightbox-prev');
-    const nextBtn = lightbox.querySelector('.lightbox-next');
+    const lightbox = galleryElement.querySelector('.lightbox-modal') as HTMLElement;
+    const lightboxImage = lightbox.querySelector('.lightbox-image') as HTMLImageElement;
+    const lightboxCounter = lightbox.querySelector('.lightbox-counter') as HTMLElement;
+    const closeBtn = lightbox.querySelector('.lightbox-close') as HTMLButtonElement;
+    const prevBtn = lightbox.querySelector('.lightbox-prev') as HTMLButtonElement;
+    const nextBtn = lightbox.querySelector('.lightbox-next') as HTMLButtonElement;
 
     // Collect all image sources
-    const images = Array.from(galleryItems).map(item => {
+    const images = Array.from(galleryItems).map((item: Element) => {
       const img = item.querySelector('img');
       return img ? img.src : '';
-    }).filter(src => src);
+    }).filter((src: string) => src);
 
     let currentIndex = 0;
     let touchStartX = 0;
     let touchEndX = 0;
 
-    function openLightbox(index) {
+    function openLightbox(index: number) {
       currentIndex = index;
       updateLightbox();
       lightbox.classList.add('active');
@@ -124,7 +124,7 @@ const galleryId = `gallery-${Math.random().toString(36).substr(2, 9)}`;
     }
 
     // Gallery item clicks
-    galleryItems.forEach((item, index) => {
+    galleryItems.forEach((item: Element, index: number) => {
       item.addEventListener('click', () => openLightbox(index));
     });
 
@@ -136,14 +136,14 @@ const galleryId = `gallery-${Math.random().toString(36).substr(2, 9)}`;
     nextBtn.addEventListener('click', showNext);
 
     // Click outside to close
-    lightbox.addEventListener('click', (e) => {
+    lightbox.addEventListener('click', (e: MouseEvent) => {
       if (e.target === lightbox) {
         closeLightbox();
       }
     });
 
     // Keyboard navigation
-    document.addEventListener('keydown', (e) => {
+    document.addEventListener('keydown', (e: KeyboardEvent) => {
       if (!lightbox.classList.contains('active')) return;
 
       switch(e.key) {
@@ -160,11 +160,11 @@ const galleryId = `gallery-${Math.random().toString(36).substr(2, 9)}`;
     });
 
     // Touch/swipe gestures
-    lightbox.addEventListener('touchstart', (e) => {
+    lightbox.addEventListener('touchstart', (e: TouchEvent) => {
       touchStartX = e.changedTouches[0].screenX;
     }, { passive: true });
 
-    lightbox.addEventListener('touchend', (e) => {
+    lightbox.addEventListener('touchend', (e: TouchEvent) => {
       touchEndX = e.changedTouches[0].screenX;
       handleSwipe();
     }, { passive: true });
@@ -183,7 +183,7 @@ const galleryId = `gallery-${Math.random().toString(36).substr(2, 9)}`;
     }
 
     // Preload adjacent images for smooth navigation
-    function preloadImage(index) {
+    function preloadImage(index: number) {
       if (index >= 0 && index < images.length) {
         const img = new Image();
         img.src = images[index];
@@ -202,7 +202,7 @@ const galleryId = `gallery-${Math.random().toString(36).substr(2, 9)}`;
   // Initialize all galleries when DOM is loaded
   document.addEventListener('DOMContentLoaded', () => {
     const galleries = document.querySelectorAll('.lightbox-gallery');
-    galleries.forEach(gallery => initGallery(gallery));
+    galleries.forEach((gallery: Element) => initGallery(gallery));
   });
 </script>
 
