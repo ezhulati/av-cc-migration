@@ -626,6 +626,14 @@ const allImages = featuredImage ? [featuredImage, ...images] : images;
     gap: 1.5rem;
   }
 
+  @media (min-width: 1024px) {
+    .sidebar {
+      position: sticky;
+      top: 9rem; /* Add space below the navigation header */
+      align-self: flex-start;
+    }
+  }
+
   .info-card {
     background: white;
     border: 1px solid #dee2e6;

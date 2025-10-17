@@ -1,6 +1,6 @@
 ---
-title: "Discover Jal Beach - Albania"
-description: "Albania's Jalë Beach offers clear waters and unforgettable holiday excursions. Discover plenty of reasons to visit and save on flights, hotels, and transportation."
+title: "Jalë Beach - Where Albania's Beach Club Culture Found Its Capital"
+description: "Discover Jalë Beach on Albania's Riviera, where the Llogara Tunnel now delivers access to Folie Marine resort, weekend celebrity performances, and the Ionian's clearest pebble waters—all transforming from communist military zone to Mediterranean luxury destination."
 region: Albanian Riviera
 featuredImage: "/images/destinations/jale-beach.jpeg"
 images:
@@ -25,12 +25,14 @@ budgetRange: "€40-100/day (camping to resort)"
 timeNeeded: "2-4 days"
 bestSeason: "June, September (fewer crowds, lower prices)"
 highlights:
-  - "Folie Marine Beach Resort with exceptional breakfast and beach club atmosphere"
-  - "Clear pebble beach with multi-colored smooth stones"
-  - "Weekend performances by Albanian celebrities and DJs"
+  - Llogara Tunnel completion (2024) cutting journey time from 4 hours to 3-3.5 hours
+  - Folie Marine Beach Resort and its ambitious Folie Village development (completion 2026)
+  - Weekend performances by Albanian rappers and DJs creating unique cultural scene
+  - Pebble beach with multi-colored stones creating exceptional water clarity
+  - Transition from communist military zone to Mediterranean luxury destination
 seo:
-  metaTitle: "Discover Jal Beach - Albania"
-  metaDescription: "Albania's Jalë Beach offers clear waters and unforgettable holiday excursions. Discover plenty of reasons to visit and save on flights, hotels, and transportation."
+  metaTitle: "Jalë Beach Albania - Folie Marine Resort & Llogara Tunnel Guide | Riviera"
+  metaDescription: "Explore Jalë Beach on Albania's Riviera - Folie Marine resort, celebrity performances, new Llogara Tunnel access, and crystal-clear Ionian waters. Complete guide to the coast's emerging luxury destination."
 ---
 
 ## Why Visit Jale Beach
