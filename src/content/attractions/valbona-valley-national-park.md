@@ -32,7 +32,7 @@ The nearest international airport is **[Tirana International Airport (TIA)](http
 
 Albania is closer than you think. Use the tool below to compare flights to Tirana International Airport (TIA) from your city—then start planning your escape to the mountains.
 
-![Valbona valley](/images/destinations/Valbona-valley.jpeg "Valbona valley")
+![Valbona valley](/images/destinations/Valbona-valley.jpeg)
 
 *Valbona river in the beautiful Valbona valley in the Dinaric Alps in Albania*
 
@@ -52,7 +52,7 @@ The park’s most famous trail is the one-way trek from Valbona to Theth, crossi
 
 It winds through ancient pine forests, crosses rocky ridgelines, and opens into panoramic views over both valleys. Most travelers use a ferry to get into Valbona, then hike over the pass into Theth the next day.
 
-![Hiking Trekking from Theth to Valbona villages in Albania](/images/destinations/Hiking-Trekking-from-Theth-to-Valbona-villages-in-Albania.jpeg "Hiking Trekking from Theth to Valbona villages in Albania")
+![Hiking Trekking from Theth to Valbona villages in Albania](/images/destinations/Hiking-Trekking-from-Theth-to-Valbona-villages-in-Albania.jpeg)
 
 *Hiking the Valbona to Theth trail in the Accursed Mountains, Albania*
 
@@ -68,7 +68,7 @@ If you’d rather skip the logistics, you can book a full multi-day experience w
 
 **[3-Day Private Adventure (Tirana–Theth–Valbona)](https://getyourguide.tpm.li/UEvKva6q)**
 
-![Forest in the Valbona Valley National Park Albania Beech Forrest](/images/attractions/Forest-in-the-Valbona-Valley-National-Park-Albania-Beech-Forrest.jpeg "Forest in the Valbona Valley National Park Albania Beech Forrest")
+![Forest in the Valbona Valley National Park Albania Beech Forrest](/images/attractions/Forest-in-the-Valbona-Valley-National-Park-Albania-Beech-Forrest.jpeg)
 
 *Primeval Beech Forrest on a steep slope in the Albanian Alps*
 

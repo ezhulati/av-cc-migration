@@ -20,7 +20,7 @@ Demarcated Boundaries
 
 This small enclave stretches between main city thoroughfares: Boulevard Dëshmorët e Kombit, Rruga Ibrahim Rugova, Rruga Myslym Shyri, and Rruga Kavajës. You’ll find peaceful tree-lined sidewalks perfect for strolling by colorful buildings alongside enough modern cafes, boutiques, and galleries to keep visitors engaged.
 
-![Boulevard Dhëshmorët Tirana](/images/attractions/Boulevard-Deshmoret-Tirana.jpg "Boulevard Deshmoret Tirana")
+![Boulevard Dhëshmorët Tirana](/images/attractions/Boulevard-Deshmoret-Tirana.jpg)
 
 *Boulevard Dhëshmorët e Kombit*, *Tirana*
 
@@ -30,7 +30,7 @@ Given its current vibe, it’s startling, but entering Blloku was strictly illeg
 
 **Read**: [From Dictator’s Enclave to Tirana’s Trendiest Neighborhood](https://albaniavisit.com/blloku-tirana-history/)
 
-![Former dictator Enver Hoxhas home.](/images/attractions/Former_Enver_Hoxha_House.jpg "Former Enver Hoxha House")
+![Former dictator Enver Hoxhas home.](/images/attractions/Former_Enver_Hoxha_House.jpg)
 
 *Former dictator Enver Hoxhas home.*
 
@@ -42,13 +42,13 @@ Nightlife and Hospitality
 
 After hours, cocktail bars, pubs, and dance spots welcome revelrous locals and worldly visitors eager to connect. Sip thoughtfully mixed beverages on an open terrace or enter a pulsating nightclub within a transformed communist villa. Also, visit the famed Hemingway Bar, named for the legendary writer.
 
-![Hemingway Bar Tirana](/images/attractions/hemingway-bar-tirana.jpg "hemingway bar tirana")
+![Hemingway Bar Tirana](/images/attractions/hemingway-bar-tirana.jpg)
 
 *Hemingway Bar, Tirana*
 
 Beyond bars, Blloku also claims cultural pillars like the National Arts Gallery or Mezuraj Museum, which showcase Albanian fine art and sculpture. Various independent galleries promote the country’s thriving contemporary creativity.
 
-![National Arts Gallery Tirana](/images/attractions/National-Arts-Gallery-Tirana.jpg "National Arts Gallery Tirana")
+![National Arts Gallery Tirana](/images/attractions/National-Arts-Gallery-Tirana.jpg)
 
 *National Arts Gallery, Tirana*
 
@@ -58,7 +58,7 @@ Blloku provides varied lodging, from design-led boutique hotels and minimalist a
 
 Start days fueling up at European-style cafes before exploring side streets, eyeing pastel facades now home to trendy enterprises. Find the red-brick Villa of Enver Hoxha contrasting modern structures surrounding it. Later, take in stunning city views over [Mount Dajti](https://albaniavisit.com/attractions/mount-dajti/) from rooftop bars before sampling Blloku’s spirited nightlife into the early hours.
 
-![Enver Hoxhas Villa Blloku](/images/posts/Blloku-Enver-Hoxha.jpg "Blloku Enver Hoxha")
+![Enver Hoxhas Villa Blloku](/images/posts/Blloku-Enver-Hoxha.jpg)
 
 *Former communist dictator Enver Hoxha’s Villa in the Blloku district.*
 

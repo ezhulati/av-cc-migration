@@ -3,7 +3,7 @@ title: Ethnographic Museum of Krujë
 description: Encapsulating Albania's remarkable cultural complexity accrued over centuries, Krujë’s spellbinding Ethnographic Museum showcases over 4,000 Ottoman-era antiques from intricate costumes to household items within an exquisitely restored merchant home exhibiting craftsmanship rivaling the collections themselves.
 type: Museums
 location: ""
-featuredImage: /images/attractions/ethnographic-museum-kruje.jpg
+featuredImage: /images/attractions/gjirokastra-castle-museum.jpg
 images: []
 language: en
 slug: ethnographic-museum-kruje

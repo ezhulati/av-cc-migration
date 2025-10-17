@@ -101,7 +101,7 @@ const slug = destination.slug;
           )}
 
           <!-- Article Body -->
-          <div class="prose prose-lg max-w-none article-content">
+          <div class="prose prose-lg max-w-none article-content" data-article-content>
             <Content />
           </div>
 
@@ -615,6 +615,146 @@ const slug = destination.slug;
 
     .gallery__grid {
       grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script is:inline>
+  // ========================================
+  // Article Read More Functionality
+  // ========================================
+  document.addEventListener('DOMContentLoaded', function() {
+    const articleContent = document.querySelector('[data-article-content]');
+
+    if (!articleContent) return;
+
+    // Get all direct children
+    const elements = Array.from(articleContent.children);
+
+    // Count all paragraphs and H2s to find a good insertion point
+    let paragraphCount = 0;
+    let h2Count = 0;
+    let insertIndex = -1;
+
+    for (let i = 0; i < elements.length; i++) {
+      if (elements[i].tagName === 'H2') {
+        h2Count++;
+      }
+      if (elements[i].tagName === 'P') {
+        paragraphCount++;
+        // Insert after 3 paragraphs OR after 2nd H2 section starts (whichever comes first)
+        if (paragraphCount >= 3 || (h2Count >= 2 && paragraphCount >= 2)) {
+          insertIndex = i;
+          break;
+        }
+      }
+    }
+
+    // Only show button if there's substantial content after the insertion point
+    if (insertIndex !== -1 && insertIndex < elements.length - 3) {
+      // Create Read More button
+      const readMoreBtn = document.createElement('button');
+      readMoreBtn.className = 'read-more-btn';
+      readMoreBtn.innerHTML = `
+        <span>Continue Reading Full Story</span>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M19 9l-7 7-7-7"></path>
+        </svg>
+      `;
+
+      // Insert button after the paragraph
+      elements[insertIndex].insertAdjacentElement('afterend', readMoreBtn);
+
+      // NOW hide everything after the insertion point
+      // We need to re-query to account for the button we just added
+      const allChildren = Array.from(articleContent.children);
+      const buttonIndex = allChildren.indexOf(readMoreBtn);
+
+      for (let i = buttonIndex + 1; i < allChildren.length; i++) {
+        allChildren[i].style.display = 'none';
+        allChildren[i].setAttribute('data-hidden-by-readmore', 'true');
+      }
+
+      // Handle click
+      readMoreBtn.addEventListener('click', () => {
+        // Show all hidden content
+        const hiddenElements = articleContent.querySelectorAll('[data-hidden-by-readmore="true"]');
+        hiddenElements.forEach(el => {
+          el.style.display = '';
+          el.removeAttribute('data-hidden-by-readmore');
+          el.classList.add('revealed-content');
+        });
+        // Remove the button
+        readMoreBtn.remove();
+      });
+    }
+  });
+</script>
+
+<style is:inline>
+  /* Read More Button */
+  .read-more-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+    margin: 2rem 0;
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+    color: white;
+    border: none;
+    font-size: 1.0625rem;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.3);
+  }
+
+  .read-more-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
+  }
+
+  .read-more-btn:active {
+    transform: translateY(0);
+  }
+
+  .read-more-btn span {
+    letter-spacing: 0.3px;
+    order: 1;
+  }
+
+  .read-more-btn svg {
+    flex-shrink: 0;
+    order: 2;
+    margin-left: 0.25rem;
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(4px);
+    }
+  }
+
+  /* Revealed content animation */
+  .revealed-content {
+    animation: fadeIn 0.4s ease-in;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
     }
   }
 </style>

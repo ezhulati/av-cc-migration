@@ -1,0 +1,272 @@
+---
+interface Experience {
+  time?: string;
+  title: string;
+  description: string;
+  cost?: string;
+  tips?: string[];
+}
+
+interface Props {
+  period: 'morning' | 'afternoon' | 'evening';
+  experiences: Experience[];
+  destinationName?: string;
+}
+
+const { period, experiences, destinationName } = Astro.props;
+
+// Icon and styling based on time of day
+const periodConfig = {
+  morning: {
+    icon: '<circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>',
+    gradient: 'linear-gradient(135deg, #FFF9E6 0%, #FFE4B5 100%)',
+    color: '#F39C12',
+    title: 'Morning'
+  },
+  afternoon: {
+    icon: '<circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line>',
+    gradient: 'linear-gradient(135deg, #E8F5FF 0%, #B8E1FF 100%)',
+    color: '#3498DB',
+    title: 'Afternoon'
+  },
+  evening: {
+    icon: '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>',
+    gradient: 'linear-gradient(135deg, #E8E4F3 0%, #C9C0E8 100%)',
+    color: '#8E44AD',
+    title: 'Evening'
+  }
+};
+
+const config = periodConfig[period];
+---
+
+{experiences && experiences.length > 0 && (
+  <div class="time-card" style={`background: ${config.gradient}`}>
+    <div class="time-header">
+      <svg class="time-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={config.color} stroke-width="2">
+        <Fragment set:html={config.icon} />
+      </svg>
+      <h3 class="time-title">{config.title} in {destinationName || 'Town'}</h3>
+    </div>
+
+    <div class="experiences-list">
+      {experiences.map((exp, index) => (
+        <div class="experience-item">
+          <div class="exp-header">
+            <h4 class="exp-title">{exp.title}</h4>
+            <div class="exp-meta">
+              {exp.time && (
+                <span class="exp-time">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <polyline points="12 6 12 12 16 14"></polyline>
+                  </svg>
+                  {exp.time}
+                </span>
+              )}
+              {exp.cost && (
+                <span class="exp-cost">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="12" y1="1" x2="12" y2="23"></line>
+                    <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+                  </svg>
+                  {exp.cost}
+                </span>
+              )}
+            </div>
+          </div>
+
+          <p class="exp-description">{exp.description}</p>
+
+          {exp.tips && exp.tips.length > 0 && (
+            <details class="exp-tips">
+              <summary>💡 Tips & Details</summary>
+              <ul class="tips-list">
+                {exp.tips.map(tip => (
+                  <li>{tip}</li>
+                ))}
+              </ul>
+            </details>
+          )}
+        </div>
+      ))}
+    </div>
+  </div>
+)}
+
+<style>
+  .time-card {
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 2px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .time-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .time-icon {
+    flex-shrink: 0;
+  }
+
+  .time-title {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2c3e50;
+  }
+
+  .experiences-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .experience-item {
+    background: white;
+    border-radius: 8px;
+    padding: 1.25rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .experience-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .exp-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .exp-title {
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #2c3e50;
+    flex: 1;
+  }
+
+  .exp-meta {
+    display: flex;
+    gap: 0.75rem;
+    flex-shrink: 0;
+  }
+
+  .exp-time,
+  .exp-cost {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-size: 0.875rem;
+    color: #6c757d;
+    white-space: nowrap;
+  }
+
+  .exp-time svg,
+  .exp-cost svg {
+    color: #e74c3c;
+  }
+
+  .exp-description {
+    margin: 0 0 0.75rem 0;
+    color: #495057;
+    line-height: 1.6;
+  }
+
+  .exp-tips {
+    margin-top: 0.75rem;
+    padding: 0.75rem;
+    background: #f8f9fa;
+    border-radius: 6px;
+    border-left: 3px solid #e74c3c;
+  }
+
+  .exp-tips summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: #2c3e50;
+    font-size: 0.9375rem;
+    user-select: none;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .exp-tips summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .exp-tips summary::before {
+    content: '▶';
+    display: inline-block;
+    font-size: 0.75rem;
+    transition: transform 0.2s;
+    color: #e74c3c;
+  }
+
+  .exp-tips[open] summary::before {
+    transform: rotate(90deg);
+  }
+
+  .tips-list {
+    margin: 0.75rem 0 0 0;
+    padding-left: 1.5rem;
+    color: #495057;
+    font-size: 0.9375rem;
+  }
+
+  .tips-list li {
+    margin-bottom: 0.5rem;
+  }
+
+  .tips-list li:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .time-card {
+      padding: 1rem;
+    }
+
+    .time-title {
+      font-size: 1.25rem;
+    }
+
+    .experience-item {
+      padding: 1rem;
+    }
+
+    .exp-header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .exp-meta {
+      width: 100%;
+      justify-content: flex-start;
+    }
+
+    .exp-title {
+      font-size: 1rem;
+    }
+
+    .exp-time,
+    .exp-cost {
+      font-size: 0.8125rem;
+    }
+  }
+</style>

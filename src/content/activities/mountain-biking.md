@@ -2,7 +2,7 @@
 title: Mountain Biking
 description: From knife-edge ridges with heart-stopping views to overgrown forest paths hiding crumbling monasteries, Albania promises epic mountain biking adventures behind every craggy peak.
 category: Outdoor Adventure
-featuredImage: /images/activities/mountain-biking.jpg
+featuredImage: /images/activities/hiking-trekking.jpg
 language: en
 slug: mountain-biking
 seo:

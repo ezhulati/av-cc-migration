@@ -19,7 +19,7 @@ Named after Gjergj Kastrioti “Skanderbeg” (pronounced: *JYERJ Kahs-tree-OH-t
 
 On any given day, you’ll find families strolling, children playing among the 100 fountain jets, and artists performing under the city lights. Whether you come for the architecture, history, or atmosphere, Skanderbeg Square is where Albania’s past and present meet.
 
-![Skanderbeg monument](/images/attractions/Monument-of-Skanderbeg.jpeg "Monument of Skanderbeg")
+![Skanderbeg monument](/images/attractions/Monument-of-Skanderbeg.jpeg)
 
 *Skanderbeg monument on the square*
 
@@ -41,7 +41,7 @@ The story of Skanderbeg Square reflects Tirana’s transformation over the last 
 
 Today’s Skanderbeg Square represents renewal—connecting layers of Albania’s history in a single, unified space.
 
-![People walking Skanderbeg Square Tirana](/images/attractions/ftgy7trp-be.jpg "ftgy7trp be")Architecture and Landmarks
+![People walking Skanderbeg Square Tirana](/images/attractions/ftgy7trp-be.jpg)Architecture and Landmarks
 
 The 2017 redesign emphasizes open space, accessibility, and symbolism. The paving stones were sourced from all regions of Albania, creating a mosaic that mirrors the country’s diversity. The plaza gently slopes upward toward the center—about two meters higher than its edges—with water trickling over its surface from an understated fountain.
 
@@ -65,7 +65,7 @@ Around the square, each building tells part of Albania’s story:
 
 Together, these landmarks form a circular showcase of Albania’s architectural evolution—from Ottoman heritage to socialist monumentalism and modern urban renewal.
 
-![Et'hem Bey Mosque in Skanderberg Square. Tirana, Albania](/images/attractions/Ethem-Bey-Mosque.jpeg "Ethem Bey Mosque")
+![Et'hem Bey Mosque in Skanderberg Square. Tirana, Albania](/images/attractions/Ethem-Bey-Mosque.jpeg)
 
 *Et’hem Bey Mosque in Skanderberg Square, Tirana*
 
@@ -84,7 +84,7 @@ Throughout the year, you might encounter:
 
 From sunrise prayers to midnight fireworks, the square adapts to every occasion. It is Tirana’s most democratic space—where everyone belongs.
 
-![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/National-Opera-and-Ballet-Theater-of-Albania.jpeg "National Opera and Ballet Theater of Albania")
+![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/National-Opera-and-Ballet-Theater-of-Albania.jpeg)
 
 *National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.*
 
@@ -110,7 +110,7 @@ Walk the perimeter to see each major landmark in under 30 minutes.
 
 Bring water and sun protection in summer—the open paving can get hot midday.
 
-![The main square in Tirana, the capital city of Albania](/images/attractions/main-square-in-Tirana.jpeg "main square in Tirana")
+![The main square in Tirana, the capital city of Albania](/images/attractions/main-square-in-Tirana.jpeg)
 
 *Skanderbeg square in Tirana, the capital city of Albania*
 

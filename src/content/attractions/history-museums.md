@@ -3,7 +3,7 @@ title: History Museums In Albania
 description: Discover the rich history of Albania through its fascinating museums.
 type: Museums
 location: ""
-featuredImage: /images/attractions/history-museums.jpg
+featuredImage: /images/attractions/bunkart1.jpg
 images: []
 language: en
 slug: history-museums

@@ -3,7 +3,7 @@ title: Drisht Castle
 description: Drisht Castle’s strategic clifftop location has ensured perpetual significance across regimes since its 1000 BCE founding – as evidenced by defensive ruins still overlooking regional trade routes where Ottoman forces finally toppled the stronghold's Venetian-built walls in 1478.
 type: Castles &amp; Fortresses
 location: ""
-featuredImage: /images/attractions/drisht-castle.jpg
+featuredImage: /images/attractions/castles-and-fortresses-in-albania.jpg
 images: []
 language: en
 slug: drisht-castle

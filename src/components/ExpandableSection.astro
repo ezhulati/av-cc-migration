@@ -1,0 +1,235 @@
+---
+interface Props {
+  title: string;
+  icon?: 'info' | 'clock' | 'location' | 'warning' | 'money' | 'bed' | 'plane' | 'default';
+  defaultOpen?: boolean;
+  variant?: 'default' | 'primary' | 'warning' | 'success';
+}
+
+const {
+  title,
+  icon = 'default',
+  defaultOpen = false,
+  variant = 'default'
+} = Astro.props;
+
+const iconPaths = {
+  info: '<circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line>',
+  clock: '<circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>',
+  location: '<path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle>',
+  warning: '<path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line>',
+  money: '<line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>',
+  bed: '<rect x="2" y="4" width="20" height="16" rx="2"></rect><line x1="2" y1="10" x2="22" y2="10"></line>',
+  plane: '<path d="M17.8 19.2L16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"></path>',
+  default: '<path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline>'
+};
+
+const variantClasses = {
+  default: 'section-default',
+  primary: 'section-primary',
+  warning: 'section-warning',
+  success: 'section-success'
+};
+---
+
+<div class={`expandable-section ${variantClasses[variant]}`} data-section>
+  <button class="section-header" data-toggle aria-expanded={defaultOpen ? "true" : "false"}>
+    <div class="header-content">
+      {icon !== 'default' && (
+        <svg class="header-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <Fragment set:html={iconPaths[icon]} />
+        </svg>
+      )}
+      <h3 class="section-title">{title}</h3>
+    </div>
+    <svg class="chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <polyline points="6 9 12 15 18 9"></polyline>
+    </svg>
+  </button>
+
+  <div class="section-content" data-content style={defaultOpen ? '' : 'display: none;'}>
+    <div class="section-inner">
+      <slot />
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  // Expandable section functionality
+  document.querySelectorAll('[data-toggle]').forEach((toggle) => {
+    toggle.addEventListener('click', () => {
+      const section = toggle.closest('[data-section]');
+      const content = section?.querySelector('[data-content]');
+      const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+
+      if (content) {
+        if (isExpanded) {
+          // Collapse
+          content.style.display = 'none';
+          toggle.setAttribute('aria-expanded', 'false');
+        } else {
+          // Expand
+          content.style.display = 'block';
+          toggle.setAttribute('aria-expanded', 'true');
+        }
+      }
+    });
+  });
+</script>
+
+<style>
+  .expandable-section {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    transition: all 0.2s ease;
+  }
+
+  .expandable-section:hover {
+    border-color: #c1c9d0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  /* Variant styles */
+  .section-primary {
+    border-color: #e74c3c;
+  }
+
+  .section-primary .section-header {
+    background: linear-gradient(135deg, #fff5f5 0%, #ffe8e8 100%);
+  }
+
+  .section-warning {
+    border-color: #f39c12;
+  }
+
+  .section-warning .section-header {
+    background: linear-gradient(135deg, #fffbf0 0%, #fff3dc 100%);
+  }
+
+  .section-success {
+    border-color: #27ae60;
+  }
+
+  .section-success .section-header {
+    background: linear-gradient(135deg, #f0fff4 0%, #dcffe8 100%);
+  }
+
+  /* Header */
+  .section-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25rem 1.5rem;
+    background: #f8f9fa;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    text-align: left;
+  }
+
+  .section-header:hover {
+    background: #e9ecef;
+  }
+
+  .header-content {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex: 1;
+  }
+
+  .header-icon {
+    color: #e74c3c;
+    flex-shrink: 0;
+  }
+
+  .section-title {
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+
+  /* Chevron icon */
+  .chevron {
+    flex-shrink: 0;
+    color: #6c757d;
+    transition: transform 0.2s ease;
+  }
+
+  .section-header[aria-expanded="true"] .chevron {
+    transform: rotate(180deg);
+  }
+
+  /* Content */
+  .section-content {
+    background: white;
+  }
+
+  .section-inner {
+    padding: 1.5rem;
+    color: #2c3e50;
+    line-height: 1.75;
+  }
+
+  /* Make nested elements in slot work nicely */
+  .section-inner :global(h4) {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+
+  .section-inner :global(p) {
+    margin-bottom: 1rem;
+  }
+
+  .section-inner :global(p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .section-inner :global(ul),
+  .section-inner :global(ol) {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+  }
+
+  .section-inner :global(li) {
+    margin-bottom: 0.5rem;
+  }
+
+  .section-inner :global(a) {
+    color: #e74c3c;
+    text-decoration: none;
+  }
+
+  .section-inner :global(a:hover) {
+    text-decoration: underline;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .section-header {
+      padding: 1rem;
+    }
+
+    .section-title {
+      font-size: 1rem;
+    }
+
+    .section-inner {
+      padding: 1rem;
+      font-size: 0.9375rem;
+    }
+
+    .header-icon,
+    .chevron {
+      width: 18px;
+      height: 18px;
+    }
+  }
+</style>

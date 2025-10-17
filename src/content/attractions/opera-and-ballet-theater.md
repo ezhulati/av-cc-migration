@@ -16,7 +16,7 @@ Albania’s National Theatre of Opera and Ballet
 
 The **National Theatre of Opera and Ballet of Albania** is the country’s premier venue for opera, ballet, and classical music. Located in the Palace of Culture on [Skanderbeg Square](https://albaniavisit.com/attractions/skanderbeg-square/) at the heart of [Tirana](https://albaniavisit.com/destinations/tirana/), this theater was founded in 1953 and moved into its permanent home in the early 1960s during Albania’s communist era. For more than six decades, it has hosted both Albanian productions and international classics at remarkably accessible prices.
 
-![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/National-Theatre-of-Opera-and-Ballet-of-Albania-1.jpeg "National Theatre of Opera and Ballet of Albania 1")How to Buy Tickets
+![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/National-Theatre-of-Opera-and-Ballet-of-Albania-1.jpeg)How to Buy Tickets
 
 The most important thing visitors should know about ticketing:
 
@@ -30,7 +30,7 @@ Because the ticketing system is completely manual, popular shows sell out quickl
 
 For the best chance of securing tickets, watch the theater’s Facebook page **[@tkob.gov.al](https://www.facebook.com/tkob.gov.al/)** for performance announcements and visit the box office within a day or two. The official website **[tkob.gov.al](https://tkob.gov.al/)** provides general information but no ticketing functionality. Contact the box office at **+355 67 632 7313** to inquire about current availability, though English may be limited.
 
-![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/Palace-of-Culture-or-Opera-at-Skanderbeg-Square-in-Tirana.jpeg "Palace of Culture or Opera at Skanderbeg Square in Tirana")
+![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/Palace-of-Culture-or-Opera-at-Skanderbeg-Square-in-Tirana.jpeg)
 
 *Entrance to the Palace of Culture or Opera at Skanderbeg Square in Tirana*
 
@@ -46,7 +46,7 @@ What to Expect at a Performance
 
 **Dress Code:** There isn’t one. Smart casual is common, but you’ll see a wide range of attire.
 
-![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/National-Opera-and-Ballet-Theater-.jpeg "National Opera and Ballet Theater")
+![National Opera and Ballet Theater of Albania in Tirana on Skanderbeg Square.](/images/attractions/National-Opera-and-Ballet-Theater-.jpeg)
 
 *Evening view of the National Opera and Ballet Theater of Albania*
 

@@ -16,7 +16,7 @@ Venture Into Albania’s Towering Trebeshinë Peaks
 
 Rising steeply along Albania’s central southern border with Greece lies a formidable barrier of sharply jagged limestone massifs towering high above the Ionian Sea, plunging dramatically towards azure waters nearly one vertical mile below. This thrusting array of stony horns and blades christened the Trebeshinë Mountain Range presents a downright intimidating sight even from a distance that only further captures the imaginations of intrepid climbers scoping imposing summit challengers found nowhere else across the Western Balkans.
 
-![Mount Trebeshine](/images/attractions/Trebeshine.jpeg "Trebeshine")Sheer Face Climbing Beckons the Boldest Explorers
+![Mount Trebeshine](/images/attractions/Trebeshine.jpeg)Sheer Face Climbing Beckons the Boldest Explorers
 
 While a few difficult trails approach some peaks internally from northern valleys for traditional hiking ascent, most routes tackling Trebeshinë’s central pillars rely almost exclusively on sheer rock climbing, requiring advanced technical skills, quality gear, and ample preparations accounting for duration, emergency scenarios and monitoring fickle Mediterranean weather patterns capable of turning foul on a whim.
 

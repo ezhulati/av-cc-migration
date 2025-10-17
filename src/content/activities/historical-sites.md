@@ -2,7 +2,7 @@
 title: Historical Sightseeing
 description: Diverse well-preserved ruins convey Illyria's formidable shield against Rome, Greek coastal colonies facilitating Mediterranean trade, and Ottoman architectural integration.
 category: ""
-featuredImage: /images/activities/historical-sites.jpg
+featuredImage: /images/destinations/butrint.jpeg
 language: en
 slug: historical-sites
 seo:
@@ -20,7 +20,7 @@ While Albania is home to four UNESCO World Heritage sites—including Butrint an
 
 By visiting these well-preserved ruins, history enthusiasts can understand how strategic Mediterranean positions and rugged terrains shaped the destinies of empires.
 
-![Roman Amphitheater Durrës](/images/posts/Durres-Amiphitheater.jpg "Durres Amiphitheater")
+![Roman Amphitheater Durrës](/images/posts/Durres-Amiphitheater.jpg)
 
 Roman Amphitheater Durrës.
 
@@ -34,7 +34,7 @@ Founded in 588 BCE, Apollonia grew into a prominent Greek city-state before expe
 
 Visitors can explore ruins such as the Bouleuterion council house, a theater seating 3,500 people, and one of the area’s largest early churches, highlighting the extended Greek presence.
 
-![Ancient Illyrians](/images/posts/Ancient-Illyrians.png "Ancient Illyrians")
+![Ancient Illyrians](/images/posts/Ancient-Illyrians.png)
 
 Apollonia was an ancient Greek city in Illyria, located on the right bank of the Vjosa River.
 
@@ -52,7 +52,7 @@ In Durrës, the largest arena in the Balkans, constructed in the 2nd century AD 
 
 Despite the damage caused by the earthquake, its remains reflect its past grandeur. It once hosted events for up to 20,000 spectators.
 
-![Statue of emperor Constantine in the fortress of Berat city, Albania](/images/activities/Statue-of-emperor-Constantine-in-the-fortress-of-Berat-city-Albania.jpeg "Statue of emperor Constantine in the fortress of Berat city Albania")
+![Statue of emperor Constantine in the fortress of Berat city, Albania](/images/activities/Statue-of-emperor-Constantine-in-the-fortress-of-Berat-city-Albania.jpeg)
 
 Statue of emperor Constantine in the fortress of Berat city.
 
@@ -66,7 +66,7 @@ Located on a hill overlooking the Vivari Channel, [Butrint](https://albaniavisit
 
 Visitors can explore structures like the theater, baptistery, and city walls amidst lush surroundings.
 
-![Butrint](/images/activities/Butrint-in-Albania-2.jpeg "Butrint in Albania 2")
+![Butrint](/images/activities/Butrint-in-Albania-2.jpeg)
 
 Butrint in Southern Albania.
 
@@ -78,7 +78,7 @@ Berat’s roots date back to 200 BCE with the Illyrians. It flourished under Byz
 
 Castle remnants, terraced houses, religious buildings, and cobblestone lanes reflect a blend of cultures over generations.
 
-![Berat Castle](/images/activities/Berat-with-view-of-castle-walls.jpeg "Berat with view of castle walls")
+![Berat Castle](/images/activities/Berat-with-view-of-castle-walls.jpeg)
 
 Berat castle walls and the tiled roofs of homes.
 
@@ -88,7 +88,7 @@ Berat castle walls and the tiled roofs of homes.
 
 The imposing Gjirokastër Fortress offers panoramic views and insights into Albania’s military past.
 
-![Clock Tower with waving Albanian flag in Gjirokaster Citadel or castle attraction in Albania, Europe](/images/activities/Gjirokastra-Citadel-Castle.jpeg "Gjirokastra Citadel Castle")
+![Clock Tower with waving Albanian flag in Gjirokaster Citadel or castle attraction in Albania, Europe](/images/activities/Gjirokastra-Citadel-Castle.jpeg)
 
 Clock Tower and Citadel in Gjirokastër.
 
@@ -106,7 +106,7 @@ It was perhaps the most important of the several classical towns known as Apollo
 
 The archaeological park allows visitors to step back in time among temples, stoas, and other classical structures.
 
-![APOLLONIA, ALBANIA](/images/activities/Apollonia-1.jpeg "Apollonia 1 1024x684")
+![APOLLONIA, ALBANIA](/images/activities/Apollonia-1.jpeg)
 
 The ancient city of Apollonia.
 
@@ -118,7 +118,7 @@ In the 15th century, Skanderbeg led resistance against Ottoman forces, notably r
 
 The nearby Old Bazaar offers a glimpse into traditional Albanian culture, with handicraft shops and historic houses.
 
-![Fortress and Skanderbeg Museum, Kruja, Kruje, Albania](/images/activities/Fortress-and-Skanderbeg-Museum-Dusk-Kruja-Kruje.jpeg "Fortress and Skanderbeg Museum Dusk Kruja Kruje 1024x683")
+![Fortress and Skanderbeg Museum, Kruja, Kruje, Albania](/images/activities/Fortress-and-Skanderbeg-Museum-Dusk-Kruja-Kruje.jpeg)
 
 Fortress and Skanderbeg Museum, Krujë, Albania.
 

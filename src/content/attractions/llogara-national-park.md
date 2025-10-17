@@ -16,13 +16,13 @@ Escape to Albania’s Llogara National Park
 
 A rugged outdoor paradise sprawls across Albania’s southwestern edge, framing the Ionian Riviera’s sublime shorelines. Llogara National Park blankets this seaside pocket with vibrant wildlife, alpine trails, wind-sculpted ridges, and a rich cultural legacy spanning ancient Illyrians to contemporary writers alike, discovering stirring muses within the wilderness sanctuary.
 
-![llogara national park Albania 1](/images/attractions/llogara-national-park-Albania-1.jpeg "llogara national park Albania 1")Location & History
+![llogara national park Albania 1](/images/attractions/llogara-national-park-Albania-1.jpeg)Location & History
 
 The national park unfolds south of the bustling capital [Tirana](https://albaniavisit.com/destinations/tirana/) near Albania’s cultural center of Vlorë, straddling the Ceraunian range parallel to azure waters along the Albanian Riviera.
 
 Historical roots, however, delve much earlier, dating to Illyrian tribes who found haven high above the tumultuous Mediterranean tides crashing far below their mountain stronghold. More recently, Llogara Pass has gained fame as a stunningly scenic stretch of roadway with lookouts capturing the entire national park plunging dramatically into the sea.
 
-![Albania Llogara National park](/images/attractions/Llogara-Park.jpeg "Llogara Park")
+![Albania Llogara National park](/images/attractions/Llogara-Park.jpeg)
 
 *Llogara National Park*
 
@@ -32,13 +32,13 @@ Beyond the celebrated [Llogara Pass](https://albaniavisit.com/attractions/llogar
 
 Spring annunciates its long-awaited arrival each year, blanketing meadows and groves in vibrant wildflower hues from March to late May. More leisure visitors, however, prefer the golden summer months stretching from June through September to enjoy shaded forest picnics and Adriatic breezes.
 
-![National Park Llogara](/images/attractions/National-Park-Llogara.jpeg "National Park Llogara")Outdoor Adventurous Playground
+![National Park Llogara](/images/attractions/National-Park-Llogara.jpeg)Outdoor Adventurous Playground
 
 While sightseers satisfy themselves on short scenic strolls past babbling streams and shimmering canopies, Llogara National Park also caters to thrill-seeking outdoor athletes from across Albania and nearby global destinations.
 
 Paragliders living in seaside [Vlorë](https://albaniavisit.com/destinations/vlora/) often tackle thermals rising off coastal bluffs for untethered flights with birds-eye views across idyllic beaches and villages resembling scattered dollhouses along the mountain’s feet.
 
-![paragliding llogara](/images/attractions/paragliding-llogara.jpeg "paragliding llogara")
+![paragliding llogara](/images/attractions/paragliding-llogara.jpeg)
 
 *Paragliding from Llogara Pass down to the Ionia Sea, Llogara National Park.*
 
@@ -46,7 +46,7 @@ Serious hikers looking to check off towering peaks challenge trails across the p
 
 Seasoned [cyclists zigzag](https://albaniavisit.com/activities/cycle-albania/) across inner park gravel paths and winding side roads well off the beaten track of careless vehicular traffic. While still demanding respect, Llogara National Park hides gentler trails welcoming Albanian families, foreign tourists, and new visitors with unexpectedly far-reaching vistas after even short walks through fragrant wildflower valleys.
 
-![Llogara pass in Albania.](/images/destinations/White-fog-high-in-mountains-on-Llogara-pass.jpeg "White fog high in mountains on Llogara pass")
+![Llogara pass in Albania.](/images/destinations/White-fog-high-in-mountains-on-Llogara-pass.jpeg)
 
 Llogara pass in Albania.
 
@@ -56,11 +56,11 @@ Yet the raw natural splendor only tells part of Llogara National Park’s enrich
 
 Local guesthouses beckon roadtrippers inward off the Riviera beaches to enjoy genuine hospitality passed down generations reflected through regional Vlora cuisine, engraved handicrafts, and folk songs performed in town squares beneath the Milky Way. Perhaps most alluring remains Llogara’s enduring ability to inspire bliss through panoramas and open frontiers, evoking nostalgia echoed by Ismail Kadare and many other prolific Albanian writers who honed their voices traipsing slopes seemingly little changed since ancient times.
 
-![Llogara pass Albanian Riviera](/images/attractions/Palasë.jpeg "Palasë 1024x683")Planning Your Balkan Adventure
+![Llogara pass Albanian Riviera](/images/attractions/Palasë.jpeg)Planning Your Balkan Adventure
 
 While daytrippers easily access Llogara National Park’s southern villages and trails closest to Vlora city, fully unlocking its natural treasures often requires longer stays, best facilitated through the main town of Palasë deeper in the park’s heartland. Visitors can choose between hotel resorts clustered nearer the coastline’s beaches or more affordable lodges nestled in mountain nooks operated by local families for generations.
 
-![Llogara pass in Albania 1](/images/destinations/Llogara-pass-in-Albania-1.jpeg "Llogara pass in Albania 1")
+![Llogara pass in Albania 1](/images/destinations/Llogara-pass-in-Albania-1.jpeg)
 
 *Winding mountain road on the Llogara pass.*
 

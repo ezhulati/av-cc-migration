@@ -1,0 +1,298 @@
+---
+/**
+ * Activities Archive Page
+ * Lists all activities and things to do
+ */
+
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const activities = await getCollection('activities', ({ data }) => {
+  return !data.language || data.language === 'en';
+});
+
+// Sort by title
+const sortedActivities = activities.sort((a, b) =>
+  a.data.title.localeCompare(b.data.title)
+);
+
+// Group by category if available
+const byCategory: Record<string, typeof activities> = {};
+sortedActivities.forEach(activity => {
+  const category = activity.data.category || 'Other Activities';
+  if (!byCategory[category]) byCategory[category] = [];
+  byCategory[category].push(activity);
+});
+---
+
+<BaseLayout
+  title="Activities & Things to Do in Albania | Visit Albania"
+  description="Discover exciting activities and experiences in Albania. From hiking and water sports to cultural tours and adventure activities."
+  canonical="https://albaniavisit.com/activities/"
+>
+  <div class="activities-archive">
+    <!-- Hero Section -->
+    <header class="page-header">
+      <div class="header-content">
+        <h1>Activities in Albania</h1>
+        <p class="subtitle">
+          From outdoor adventures to cultural experiences, discover all the amazing things you can do in Albania.
+        </p>
+
+        <div class="header-stats">
+          <div class="stat">
+            <span class="stat-value">{sortedActivities.length}</span>
+            <span class="stat-label">Activities</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value">{Object.keys(byCategory).length}</span>
+            <span class="stat-label">Categories</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Activities Grid -->
+    <section class="content-section">
+      <div class="container">
+        {Object.entries(byCategory).map(([category, acts]) => (
+          <div class="category-section">
+            <h2>{category}</h2>
+            <div class="activities-grid">
+              {acts.map(activity => (
+                <a href={`/activities/${activity.slug}/`} class="activity-card">
+                  {activity.data.featuredImage && (
+                    <div class="card-image">
+                      <img
+                        src={activity.data.featuredImage}
+                        alt={activity.data.title}
+                        loading="lazy"
+                      />
+                    </div>
+                  )}
+                  <div class="card-content">
+                    <h3>{activity.data.title}</h3>
+                    <p>{activity.data.description}</p>
+                    {activity.data.category && (
+                      <div class="category-badge">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                          <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                          <path d="M2 17l10 5 10-5"></path>
+                          <path d="M2 12l10 5 10-5"></path>
+                        </svg>
+                        <span>{activity.data.category}</span>
+                      </div>
+                    )}
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .activities-archive {
+    background: #fafafa;
+  }
+
+  /* Header */
+  .page-header {
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    color: white;
+    padding: 60px 0 80px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .page-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.1;
+  }
+
+  .header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .page-header h1 {
+    font-size: 48px;
+    font-weight: 800;
+    margin: 0 0 16px 0;
+    letter-spacing: -0.5px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.9);
+    max-width: 700px;
+    margin: 0 0 32px 0;
+  }
+
+  .header-stats {
+    display: flex;
+    gap: 48px;
+    flex-wrap: wrap;
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .stat-value {
+    font-size: 32px;
+    font-weight: 700;
+    color: #e31c2a;
+  }
+
+  .stat-label {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .content-section {
+    padding: 3rem 2rem;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .category-section {
+    margin-bottom: 4rem;
+  }
+
+  .category-section:last-child {
+    margin-bottom: 0;
+  }
+
+  .category-section h2 {
+    font-size: 2rem;
+    margin: 0 0 2rem 0;
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5rem;
+  }
+
+  .activities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+
+  .activity-card {
+    display: block;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .activity-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  }
+
+  .card-image {
+    aspect-ratio: 16 / 10;
+    overflow: hidden;
+    background: #f0f0f0;
+  }
+
+  .card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+  }
+
+  .activity-card:hover .card-image img {
+    transform: scale(1.05);
+  }
+
+  .card-content {
+    padding: 1.5rem;
+  }
+
+  .card-content h3 {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.5rem;
+    color: #2c3e50;
+  }
+
+  .card-content p {
+    margin: 0 0 1rem 0;
+    color: #666;
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .category-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #3498db;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  .category-badge svg {
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 968px) {
+    .page-header h1 {
+      font-size: 36px;
+    }
+
+    .subtitle {
+      font-size: 16px;
+    }
+
+    .header-stats {
+      gap: 32px;
+    }
+
+    .stat-value {
+      font-size: 28px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .page-header {
+      padding: 40px 0 60px;
+    }
+
+    .page-header h1 {
+      font-size: 28px;
+    }
+
+    .activities-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

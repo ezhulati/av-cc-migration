@@ -16,7 +16,7 @@ The Spellbinding Drive Up Albania’s Llogara Pass
 
 Albania captivates roadtrippers with winding coastal routes offering breathtaking vistas around every hairpin bend. But no mountain pass has quite the allure for visitors as Llogara National Park. This high-altitude corridor packs Mediterranean flourish, alpine meadows, blinding beaches, and electric adrenaline into one unforgettable 10-kilometer stretch.
 
-![Llogara pass in Albania](/images/attractions/Llogara-pass-in-Albania.jpeg "Llogara pass in Albania")
+![Llogara pass in Albania](/images/attractions/Llogara-pass-in-Albania.jpeg)
 
 *The winding roads of the Llogara Pass.*
 
@@ -26,13 +26,13 @@ Llogara Pass sits around 65 kilometers south of Albania’s capital, [Tirana](ht
 
 The name Llogara originates from expansive mountain meadows dotting the windswept peaks. But contemporary fame comes from the passage hewn through verdant slopes offering staggering vantage points of the roaring sea. Most visitors seek the glowing promise of postcard panoramas revealed at each hairpin turn.
 
-![Llogara pass road in Albania](/images/attractions/Llogara-pass-road-in-Albania.jpeg "Llogara pass road in Albania")A National Park Playground
+![Llogara pass road in Albania](/images/attractions/Llogara-pass-road-in-Albania.jpeg)A National Park Playground
 
 Llogara National Park provides plenty for visitors beyond scenic driving. Many walking trails stem from parking lots, allowing hikers to discover hidden coves and vistas free of vehicular noise. The [Karaburun Peninsula](https://albaniavisit.com/attractions/karaburun-peninsula-hidden-beaches-bays-caves/), best accessed by boat from [Dhërmi](https://albaniavisit.com/destinations/dhermi/), even offers merged limestone formations and secluded beaches on the mountain stronghold’s southern tip.
 
 Families often set up picnics across grassy clearings while watching paragliders sail silently past on coastal thermals above. The park visitor center in [Palasë](https://albaniavisit.com/destinations/palase/) village provides local insights, maps, and guides and hosts most events when the mountain meadows thrive under spring wildflowers.
 
-![Paragliding from Llogara Pass Albania](/images/attractions/Paragliding-from-Llogara-Pass-1.jpeg "Paragliding from Llogara Pass 1")
+![Paragliding from Llogara Pass Albania](/images/attractions/Paragliding-from-Llogara-Pass-1.jpeg)
 
 *Paragliding from the Llogara Pass in Albania.*
 

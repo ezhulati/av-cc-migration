@@ -2,7 +2,7 @@
 title: A Cyclist's Paradise
 description: Discover Albania's untapped potential as a cycling destination. From challenging mountain terrains in the north to leisurely coastal routes in the south, Albania offers a unique blend of adventure and culture for cyclists.
 category: ""
-featuredImage: /images/activities/cycle-albania.jpg
+featuredImage: /images/activities/hiking-trekking.jpg
 language: en
 slug: cycle-albania
 ---

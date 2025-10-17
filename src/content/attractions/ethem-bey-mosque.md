@@ -17,7 +17,7 @@ Surrounded by buildings evoking Italianate flair, Austro-Hungarian practicality,
 
 Having endured countless threats of demolition under 20th-century policies antagonistic to religion, today, the fully-restored mosque stands as a living testament to the nation’s hardiness while providing an urban sanctuary nurturing Albania’s long-shattered Islamic lineage. This is the deeper story told through finely carved stone and rapturous frescoes.
 
-![Skanderbeg square and Et'hem Bey Mosque](/images/attractions/Skanderbeg-Square-1.jpeg "Skanderbeg Square 1")
+![Skanderbeg square and Et'hem Bey Mosque](/images/attractions/Skanderbeg-Square-1.jpeg)
 
 *Skanderbeg monument and The Et’hem Bey Mosque in the center of Tirana*
 
@@ -29,7 +29,7 @@ True to imperial style, an elegant portico supported by columns surrounds the ma
 
 By borrowing the empire’s architectural vocabulary, Et’hem Bey mosque symbolized regional allegiance through bricks overseen by Istanbul’s governor dispatched westward. Yet, the simultaneous incorporation of local motifs through interior detailing allowed the adaptation of imported style towards Albania’s native creative spirit, signaling early national identity.
 
-![Et'hem Bey Mosque](/images/attractions/Ethem-Bey-Mosque-Tirana-Albania.jpeg "Ethem Bey Mosque Tirana Albania")
+![Et'hem Bey Mosque](/images/attractions/Ethem-Bey-Mosque-Tirana-Albania.jpeg)
 
 Et’hem Bey Mosque
 
@@ -41,7 +41,7 @@ The fanciful works spanning nearly 300 square meters retain stylistic elements o
 
 Standing as the singular illustrated mosque interior in Albania, the works showcase Tirana’s historic role along prominent Silk Road trade routes where artistic techniques were diffused through exchange between East and West. Surviving earthquakes and dictatorships, these esoteric paintings continue fueling questions regarding Albanian identity seated at the frontier between European society and Islamic administration.
 
-![Ethem Bey mosque and clock tower in Tirana](/images/attractions/Ethem-Bey-mosque-and-clock-tower-in-Tirana.jpeg "Ethem Bey mosque and clock tower in Tirana")
+![Ethem Bey mosque and clock tower in Tirana](/images/attractions/Ethem-Bey-mosque-and-clock-tower-in-Tirana.jpeg)
 
 *Ethem Bey mosque and clock tower in Tirana*
 

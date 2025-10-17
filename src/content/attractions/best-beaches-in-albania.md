@@ -17,7 +17,7 @@ What are the Best Beaches in Albania?
 
 The best beaches in Albania reward those who seek out its prized shores along the Adriatic and Ionian coasts—from Ksamil’s crystalline turquoise waters reminiscent of postcards to Gjipe’s blissful seclusion reachable only on foot, Dhërmi’s summer parties vibrating late into the night, Jala’s beach clubs neighboring hidden coves, and the endless golden sands of Velipoja set against wetlands bursting with birds. Only by discovering these diverse coastal marvels for yourself can you fully experience Albania’s spectacular beaches.
 
-![Landscape with beach and Adriatic Sea views at sunset in Durres](/images/attractions/Landscape-with-beach-and-Adriatic-Sea-views-at-sunset-in-Durres.jpeg "Landscape with beach and Adriatic Sea views at sunset in Durres")
+![Landscape with beach and Adriatic Sea views at sunset in Durres](/images/attractions/Landscape-with-beach-and-Adriatic-Sea-views-at-sunset-in-Durres.jpeg)
 
 *Golden Hour illuminates Durrës beach on the Adriatic Sea*
 
@@ -29,7 +29,7 @@ Shkodër Region
 
 Stretching for nearly 3 miles along the coast, Velipoja Beach is a nature lover’s dream, with protected wetlands perfect for birdwatching. Stroll for hours along this seemingly endless golden sandy shoreline near the Buna River delta, which attracts flocks of migrating birds. Beachfront restaurants serve up fresh seafood with views of the sun setting behind the mountains.
 
-![Velipoje Beach Albania](/images/attractions/Velipoje-Beach-Albania.jpg "Velipoje Beach Albania")
+![Velipoje Beach Albania](/images/attractions/Velipoje-Beach-Albania.jpg)
 
 *The sweeping sandy coastline of Velipoja Beach in northwestern Albania on the Adriatic Sea.*
 
@@ -43,11 +43,11 @@ Kunë Beach impresses with its serene atmosphere and pristine natural environmen
 
 Just 15 minutes south, Shëngjin Beach mixes golden sands with historic charm in a popular coastal town setting. Lined with beach clubs, it bustles with activity during the summer months. Visit the nearby Porto Romano ruins to glimpse the area’s ancient history. The 13th-century Venetian-built Shëngjin Castle towers photogenically on an island just offshore.
 
-![Shëngjin Albania](/images/attractions/Shengjin-Lezhe-Albania.jpeg "Shengjin Lezhe Albania")
+![Shëngjin Albania](/images/attractions/Shengjin-Lezhe-Albania.jpeg)
 
 Adventurous travelers will love Rana e Hedhun Beach’s crescent-shaped cove and sprawling windswept dunes, surrounded by lush hillsides. Hike or drive down through bushy vegetation to this tucked-away gem, perfect for beachcombing and sunset views.
 
-![Rana e Hedhun](/images/attractions/Rana-e-Hedhun.jpeg "Rana e Hedhun")
+![Rana e Hedhun](/images/attractions/Rana-e-Hedhun.jpeg)
 
 *Rana e Hedhun, Shëngjin on the Adriatic Coast.*
 
@@ -57,7 +57,7 @@ Durrës Region
 
 The beaches of Gjiri i Lalzit, including Shen Pjeter, Hamallaj, and Rrushkull, offer scenic tranquility with their pebbled bays and crystal waters, all within a short drive of Durrës or Tirana. Relax in the peaceful surroundings of olive groves and grazing livestock.
 
-![Gjiri i Lalzit](/images/attractions/Gjiri-i-Lalzit.jpeg "Gjiri i Lalzit")
+![Gjiri i Lalzit](/images/attractions/Gjiri-i-Lalzit.jpeg)
 
 *Gjiri i Lalzit in Durrës on the Adriatic coast.*
 
@@ -67,7 +67,7 @@ Just north of Durrës city, Kallmi Beach’s shallow, calm waters are perfect fo
 
 Within Durrës itself, the golden sands of Durrës Beach bustle with activities during the summer months. By day, sunbathers pack the beach and lively promenade lined with restaurants and clubs. By night, beachfront bars keep the energy pumping into the early morning hours.
 
-![Durres Beach Albania](/images/attractions/Durres-Beach-Albania.jpeg "Durres Beach Albania")
+![Durres Beach Albania](/images/attractions/Durres-Beach-Albania.jpeg)
 
 *Durrës Beach on the Adriatic coast*
 
@@ -77,7 +77,7 @@ Kavajë Region
 
 Golem Beach has gained popularity recently for its lively resorts and range of activities catering to sunseekers. Dance the day away at beach clubs, or try your hand at watersports like jet skiing and parasailing. Families appreciate the kid-friendly amenities.
 
-![Golem Durres Albania](/images/destinations/Golem-Durres-Albania.jpeg "Golem Durres Albania")
+![Golem Durres Albania](/images/destinations/Golem-Durres-Albania.jpeg)
 
 *Sandy beach in Golem, Durrës*
 
@@ -93,7 +93,7 @@ The Ionian Riviera
 
 Stretching along Albania’s southwest coast, the sapphire waters and the Ionian Sea pebbled beaches create a Mediterranean paradise. Exploring the beaches along this coastal route, you’ll encounter everything from ancient historic sites to trendy beach clubs.
 
-![Albanian Riviera](/images/attractions/AdobeStock_411471644.jpeg "AdobeStock 411471644 1024x683")
+![Albanian Riviera](/images/attractions/AdobeStock_411471644.jpeg)
 
 *Tranquil azure waters gently lap at pebbled shores on the scenic Albanian Riviera.*
 
@@ -101,19 +101,19 @@ Vlorë Region
 
 Our Ionian voyage starts just south of bustling [Vlorë](https://albaniavisit.com/destinations/vlora/) city in Zvërnec Village. Here, the 13th-century Zvërnec Monastery stands photogenically on an offshore island, linked to the mainland by a narrow causeway. After touring this historic site, dip in the neighboring tranquil waters of Zvërnec Beach before continuing south.
 
-![St. Marys Monastery Zvernec Vlore](/images/attractions/St.-Marys-Monastery-Zvernec-Vlore.jpeg "St. Marys Monastery Zvernec Vlore")
+![St. Marys Monastery Zvernec Vlore](/images/attractions/St.-Marys-Monastery-Zvernec-Vlore.jpeg)
 
 *St. Mary’s Monastery, Zvërnec, Laguna Narte, Albania*
 
 The next stop is Palasë Beach, where the road turns to follow a rocky coastline with beaches nestled in scenic coves and river valleys. This peaceful beach marks the official start of the Albanian Riviera, known locally as Bregdeti. Sink into serenity on its unspoiled shores backed by hills covered in olive groves and vineyards.
 
-![Green Coast Albania Palase](/images/attractions/Green-Coast-Albania-Blue-Flag-Certification-1.jpeg "Green Coast Albania Blue Flag Certification 1 1024x576")
+![Green Coast Albania Palase](/images/attractions/Green-Coast-Albania-Blue-Flag-Certification-1.jpeg)
 
 *Green Coast, Palasë, Albania*
 
 Further along, the energy amps up at Dhërmi Beach as cafes and beach clubs line its pebbled golden shore. By day, beachgoers flock here to soak up the lively social scene. After dark, Dhërmi comes even more alive with thumping beach parties late into the night.
 
-![Dhermi](/images/destinations/Dhermi.jpg "Dhermi 1024x576")
+![Dhermi](/images/destinations/Dhermi.jpg)
 
 *Crystal waters shining under the Albanian sun at idyllic Dhermi Beach*
 
@@ -121,13 +121,13 @@ Just north, Drymades Beach offers a more peaceful alternative with its sheltered
 
 Adventurous travelers can take the spectacular hike down to Gjipe Beach’s secluded stone cove, encircled by verdant cliffs and accessible only on foot or by sea. This isolated paradise is perfect for leaving behind the modern world and returning to nature.
 
-![Gjipe Beach, Albania](/images/attractions/Gjipe_beach1.jpeg "Gjipe beach1 1024x683")
+![Gjipe Beach, Albania](/images/attractions/Gjipe_beach1.jpeg)
 
 *Emerald waters and white pebble sand dotted with beach chairs on Gjipe Beach*
 
 Jala Beach strikes an ideal balance between social and solitary. During summer, its main strip bustles with vibrant beach clubs, while wooden boardwalks lead to tucked-away rocky coves ideal for swimming in crystalline waters. The rest of the year, it returns to a sleepy fishing village.
 
-![Jale Beach Albania](/images/attractions/Jale-Beach-Albanian-Riviera.jpeg "Jale Beach Albanian Riviera 1024x685")
+![Jale Beach Albania](/images/attractions/Jale-Beach-Albanian-Riviera.jpeg)
 
 *Jalë Beach, Albanian Riviera*
 
@@ -135,19 +135,19 @@ Himarë Region
 
 The excitement continues as we reach vibrant Himarë. Its sweeping sandy bay bustles with al fresco diners and sunbathers by day and late-night beach clubs in the summer.
 
-![Himare](/images/destinations/Himare.jpeg "Himare")
+![Himare](/images/destinations/Himare.jpeg)
 
 *Himarë Beach on the Albania Riviera*
 
 Neighboring Livadhi Beach provides more space to spread out on its lengthy pebbled shore lined with beachfront tavernas.
 
-![Livadhi beach Himare](/images/attractions/Livadhi-beach-Himare.jpeg "Livadhi beach Himare")
+![Livadhi beach Himare](/images/attractions/Livadhi-beach-Himare.jpeg)
 
 *Livadhi beach, Himare, Albanian Riviera*
 
 At picturesque Llamani Beach just south, an unusual mix of freshwater springs and seawater creates excellent swimming and snorkeling. Diving below the refreshing surface reveals schools of fish, starfish, and sea urchins. Soak up tranquility on this stretch of pebbles tucked beneath hills covered in olive groves.
 
-![Llaman Beach on the Albanian Riviera](/images/attractions/Llaman_Beach.jpeg "Llaman Beach")
+![Llaman Beach on the Albanian Riviera](/images/attractions/Llaman_Beach.jpeg)
 
 *Llaman Beach on the Albanian Riviera*
 
@@ -155,7 +155,7 @@ Outdoor enthusiasts will also appreciate the natural beauty and biodiversity of 
 
 The massive uninterrupted length of Borsh Beach allows for endless seaside exploration with hardly another soul in sight, even during peak season. Beachcombers delight in stumbling upon seashells and smoothly polished pebbles along this shore. Stop for a bite at one of the scattered tavernas with epic ocean views.
 
-![Borsh](/images/attractions/Borsh.jpeg "Borsh 1024x683")
+![Borsh](/images/attractions/Borsh.jpeg)
 
 *Borsh beach with beautiful landscape on the Albanian Riviera*
 
@@ -167,13 +167,13 @@ The final stretch of the Albanian Riviera dazzles as we reach Sarandë. The trop
 
 Nearby, the aptly named Mirror Beach offers glass-like reflective waters that flawlessly duplicate the sky on calm days. Stroll this quiet shoreline to enjoy mesmerizing views above and below the surface. For more privacy, seek Monastery Beach, home to ancient historic relics and perfectly tranquil surroundings.
 
-![Mirrors beach](/images/attractions/Mirror-beach.jpeg "Mirror beach")
+![Mirrors beach](/images/attractions/Mirror-beach.jpeg)
 
 *Mirror beach on the Albanian Riviera*
 
 At the fringe of Sarandë town, Vurgu Beach bustles with summertime activity with its strip of lively bars, restaurants, and lodging. Just 10 minutes south, Santa Quaranta Beach offers a less crowded alternative with a peaceful atmosphere. Further south, Bunec Beach lies empty most of the year, attracting just a scattering of sunbathers and swimmers to its remote cove.
 
-![Bunec Beach Albania](/images/attractions/Bunec-Beach-in-Piqeras-Albania.jpeg "Bunec Beach in Piqeras Albania 1024x768")
+![Bunec Beach Albania](/images/attractions/Bunec-Beach-in-Piqeras-Albania.jpeg)
 
 *Bunec Beach in southern Albania boasts fine pebble sand perfect for sunbathing and swimming*
 

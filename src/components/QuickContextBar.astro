@@ -1,0 +1,152 @@
+---
+interface Props {
+  region?: string;
+  distanceFromTirana?: string;
+  budgetRange?: string;
+  timeNeeded?: string;
+  bestSeason?: string;
+}
+
+const { region, distanceFromTirana, budgetRange, timeNeeded, bestSeason } = Astro.props;
+
+// Only render if we have at least one piece of data
+const hasData = region || distanceFromTirana || budgetRange || timeNeeded || bestSeason;
+---
+
+{hasData && (
+  <div class="quick-context-bar">
+    <div class="context-container">
+      <div class="context-items">
+        {region && (
+          <div class="context-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+              <circle cx="12" cy="10" r="3"></circle>
+            </svg>
+            <span>{region}</span>
+          </div>
+        )}
+
+        {distanceFromTirana && (
+          <div class="context-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+              <circle cx="8" cy="18" r="2"></circle>
+              <circle cx="16" cy="18" r="2"></circle>
+              <path d="M3 11V6a2 2 0 0 1 2-2h4l3 3h7a2 2 0 0 1 2 2v2"></path>
+            </svg>
+            <span>{distanceFromTirana} from Tirana</span>
+          </div>
+        )}
+
+        {budgetRange && (
+          <div class="context-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="12" y1="1" x2="12" y2="23"></line>
+              <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+            </svg>
+            <span>{budgetRange}/day</span>
+          </div>
+        )}
+
+        {timeNeeded && (
+          <div class="context-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+            <span>{timeNeeded}</span>
+          </div>
+        )}
+
+        {bestSeason && (
+          <div class="context-item">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <span>{bestSeason}</span>
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+)}
+
+<style>
+  .quick-context-bar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: white;
+    border-bottom: 1px solid #dee2e6;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  .context-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.75rem 2rem;
+  }
+
+  .context-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: center;
+  }
+
+  .context-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    color: #2c3e50;
+    white-space: nowrap;
+  }
+
+  .context-item svg {
+    color: #e74c3c;
+    flex-shrink: 0;
+  }
+
+  /* Mobile optimizations */
+  @media (max-width: 768px) {
+    .context-container {
+      padding: 0.5rem 1rem;
+    }
+
+    .context-items {
+      gap: 1rem;
+      font-size: 0.8125rem;
+    }
+
+    .context-item svg {
+      width: 14px;
+      height: 14px;
+    }
+
+    /* Allow wrapping on mobile */
+    .context-item span {
+      white-space: normal;
+    }
+  }
+
+  /* Extra small screens - make it more compact */
+  @media (max-width: 480px) {
+    .context-items {
+      gap: 0.75rem;
+    }
+
+    .context-item {
+      font-size: 0.75rem;
+    }
+  }
+</style>

@@ -1,0 +1,22 @@
+Image Mapping Summary:
+
+Total Content Items: 116
+- Destinations: 37
+- Activities: 11  
+- Attractions: 68
+
+Images Fixed:
+✅ Automatic mapping: 75 files
+✅ Manual mapping: 2 files (Vlora, Qeparo)
+Total fixed: 77/116 (66%)
+
+Remaining unmatched: 39 files (34%)
+
+These include:
+- 8 destinations without matching images
+- 7 activities without matching images  
+- 24 attractions without matching images
+
+The site now displays many more images on archive pages.
+Unmatched items will show gray placeholder boxes.
+

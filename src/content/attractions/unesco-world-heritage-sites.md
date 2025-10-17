@@ -40,7 +40,7 @@ Don’t miss the medieval castle and defense tower from Butrint’s Venetian per
 
 Butrint encapsulates Albania’s layered history, earning its place as the country’s first UNESCO World Heritage Site in 1992.
 
-![butrint albania](/images/attractions/butrint-1.jpeg "butrint 1 1024x684")
+![butrint albania](/images/attractions/butrint-1.jpeg)
 
 *Ancient theater in the ruins of Butrint in southern Albania*
 
@@ -58,7 +58,7 @@ Just beyond lies the ancient hilltop citadel gazing down over red-tiled roofs.
 
 Exploring the cobbled lanes of Berat’s historic quarters reveals the enduring beauty of craftsmanship from centuries past.
 
-![Houses in Berat](/images/posts/Windows-in-Berat-city.jpeg "Windows in Berat city")
+![Houses in Berat](/images/posts/Windows-in-Berat-city.jpeg)
 
 *Ottoman Era Houses in Berat*
 
@@ -76,7 +76,7 @@ As you wander past the Ottoman-style houses, they grow organically from the rock
 
 Gjirokastra represents an architectural and cultural jewel that beautifully withstands the passage of time.
 
-![Gjirokastra](/images/destinations/gjirokastra-albania.jpeg "gjirokastra albania")
+![Gjirokastra](/images/destinations/gjirokastra-albania.jpeg)
 
 *Gjirokastra*
 
@@ -90,7 +90,7 @@ Moreover, the area around Ohrid formed an important crossroads between civilizat
 
 The region around Pogradec in Albania was [inhabited by Illyrians](https://albaniavisit.com/prehistory-albania/) in the 5th century BC, [followed by Romans](https://albaniavisit.com/albanias-roman-era/) along the Via Egnatia trade route.
 
-![Ohrid Lake](/images/attractions/pogradec-ohrid-lake.jpeg "pogradec ohrid lake")
+![Ohrid Lake](/images/attractions/pogradec-ohrid-lake.jpeg)
 
 *Lake Ohrid in Pogradec*
 
@@ -104,7 +104,7 @@ Its exquisite Byzantine frescoes watch over the lakeside from above.
 
 Walking the trails around the monastery with Lake Ohrid views perfectly showcases Albania’s harmony of culture and nature.
 
-![St. Naum Monastery](/images/attractions/St.-Naum-Monastery.jpeg "St. Naum Monastery")
+![St. Naum Monastery](/images/attractions/St.-Naum-Monastery.jpeg)
 
 *Saint Naum Monastery near Ohrid in Macedonia*
 
@@ -126,7 +126,7 @@ The fresh mountain air and sunlight streaming through branches awaken your sense
 
 You’ll emerge reconnected with nature, understanding why the conservation of these ancient forests matters.
 
-![Albania Primeval Beech Forests](/images/attractions/Primeval-Beech-Forests-Albania-1.jpeg "Primeval Beech Forests Albania 1")
+![Albania Primeval Beech Forests](/images/attractions/Primeval-Beech-Forests-Albania-1.jpeg)
 
 *Albania’s Primeval Beech Forest*
 
@@ -136,7 +136,7 @@ Besides its four inscribed World Heritage sites, Albania maintains a tentative l
 
 The ancient city of [Apollonia](https://albaniavisit.com/destinations/apollonia/) represents an important archaeological gem spanning the Greek, Illyrian, and Roman eras.
 
-![Apollonia](/images/attractions/Apollonia-Albania-1.jpeg "Apollonia Albania 1")
+![Apollonia](/images/attractions/Apollonia-Albania-1.jpeg)
 
 *Ancient ruins of Apollonia*
 
