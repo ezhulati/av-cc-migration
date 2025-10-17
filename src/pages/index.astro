@@ -62,6 +62,22 @@ try {
       ))}
     </div>
 
+    <!-- Navigation Controls (only show if more than 1 image) -->
+    {heroImages.length > 1 && (
+      <>
+        <button class="slider-nav slider-nav-prev" aria-label="Previous slide">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M15 18l-6-6 6-6"/>
+          </svg>
+        </button>
+        <button class="slider-nav slider-nav-next" aria-label="Next slide">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M9 18l6-6-6-6"/>
+          </svg>
+        </button>
+      </>
+    )}
+
     <!-- Hero Content Overlay -->
     <div class="hero-content">
       <h1 class="hero-title animate-fade-in">Visit Albania</h1>
@@ -146,6 +162,11 @@ try {
             showSlide(currentSlide);
           }
 
+          function prevSlide() {
+            currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+            showSlide(currentSlide);
+          }
+
           function startAutoSlide() {
             stopAutoSlide(); // Clear any existing interval
             if (isVisible && !isHovered) {
@@ -182,6 +203,74 @@ try {
               stopAutoSlide();
             }
           });
+
+          // Arrow button navigation
+          const prevButton = document.querySelector('.slider-nav-prev');
+          const nextButton = document.querySelector('.slider-nav-next');
+
+          if (prevButton) {
+            prevButton.addEventListener('click', (e) => {
+              e.stopPropagation();
+              prevSlide();
+              stopAutoSlide();
+              setTimeout(startAutoSlide, slideInterval); // Resume auto-advance after delay
+            });
+          }
+
+          if (nextButton) {
+            nextButton.addEventListener('click', (e) => {
+              e.stopPropagation();
+              nextSlide();
+              stopAutoSlide();
+              setTimeout(startAutoSlide, slideInterval); // Resume auto-advance after delay
+            });
+          }
+
+          // Keyboard navigation (Arrow keys)
+          document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+              prevSlide();
+              stopAutoSlide();
+              setTimeout(startAutoSlide, slideInterval);
+            } else if (e.key === 'ArrowRight') {
+              nextSlide();
+              stopAutoSlide();
+              setTimeout(startAutoSlide, slideInterval);
+            }
+          });
+
+          // Touch/Swipe gestures for mobile
+          let touchStartX = 0;
+          let touchEndX = 0;
+          const minSwipeDistance = 50;
+
+          if (heroSlider) {
+            heroSlider.addEventListener('touchstart', (e) => {
+              touchStartX = e.changedTouches[0].screenX;
+            }, { passive: true });
+
+            heroSlider.addEventListener('touchend', (e) => {
+              touchEndX = e.changedTouches[0].screenX;
+              handleSwipe();
+            }, { passive: true });
+          }
+
+          function handleSwipe() {
+            const distance = touchEndX - touchStartX;
+
+            if (Math.abs(distance) < minSwipeDistance) return; // Ignore small swipes
+
+            if (distance > 0) {
+              // Swipe right (show previous)
+              prevSlide();
+            } else {
+              // Swipe left (show next)
+              nextSlide();
+            }
+
+            stopAutoSlide();
+            setTimeout(startAutoSlide, slideInterval);
+          }
 
           // Start the slider
           startAutoSlide();
@@ -243,6 +332,69 @@ try {
     /* Exiting slide - fade out while animation continues */
     .slide.exiting {
       opacity: 0 !important;
+    }
+
+    /* Navigation Arrows */
+    .slider-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 20;
+      background: rgba(0, 0, 0, 0.3);
+      backdrop-filter: blur(8px);
+      border: 2px solid rgba(255, 255, 255, 0.2);
+      color: white;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .hero-slider:hover .slider-nav {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .slider-nav:hover {
+      background: rgba(0, 0, 0, 0.5);
+      border-color: rgba(255, 255, 255, 0.4);
+      transform: translateY(-50%) scale(1.1);
+    }
+
+    .slider-nav:active {
+      transform: translateY(-50%) scale(0.95);
+    }
+
+    .slider-nav-prev {
+      left: 2rem;
+    }
+
+    .slider-nav-next {
+      right: 2rem;
+    }
+
+    /* Mobile: Always show arrows subtly */
+    @media (max-width: 768px) {
+      .slider-nav {
+        opacity: 0.7;
+        pointer-events: auto;
+        width: 40px;
+        height: 40px;
+      }
+
+      .slider-nav-prev {
+        left: 1rem;
+      }
+
+      .slider-nav-next {
+        right: 1rem;
+      }
     }
 
     /* Ken Burns effect variants - cycles through 7 patterns for any number of slides */
