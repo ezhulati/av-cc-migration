@@ -3,7 +3,7 @@ title: Secluded Beaches
 description: Discover Albania's virgin, secluded, boat-only beaches. From the mystical allure of Grama Bay to the picture-perfect serenity of Filikuri Beach, leave the crowds behind and plunge into crystalline waters.
 type: Beaches
 location: ""
-featuredImage: /images/attractions/karaburun-peninsula-hidden-beaches-bays-caves.jpg
+featuredImage: /images/attractions/Grama-Bay-Albania-1024x768.jpg
 images: []
 language: en
 slug: secluded-boat-only-virgin-beaches

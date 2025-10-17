@@ -1,6 +1,6 @@
 ---
-title: "Discover Korça - Visit Albania"
-description: "Experience Korçë's vibrant culture, artistic heritage, and lively markets—a captivating blend of tradition and modernity in Southeast Albania."
+title: "Korçë - Where Albania's First Albanian-Language School Defied an Empire"
+description: "Discover Korçë, southeastern Albania's intellectual capital where the first Albanian-language school opened in 1887, the National Museum of Medieval Art houses Balkans' finest Byzantine collection, and Korça Brewery (est. 1928) still produces Albania's most iconic beer."
 region: Southern Albania
 featuredImage: /images/destinations/Korce-scaled.jpeg
 images:
@@ -16,12 +16,14 @@ budgetRange: "€20-60"
 timeNeeded: "2-3 days"
 bestSeason: "May-Sep"
 highlights:
-  - National Museum of Medieval Art with Byzantine treasures
-  - Korçë Brewery and Albanian beer culture
-  - Old Bazaar with artisan workshops
-  - Orthodox Cathedral and Ottoman architecture
+  - First Albanian-language school (1887) during Ottoman restrictions on Albanian education
+  - National Museum of Medieval Art with Albania's finest Byzantine icon collection
+  - Korça Brewery (est. 1928) producing Albania's signature beer for nearly a century
+  - Old Bazaar's artisan workshops continuing traditional crafts
+  - French lycée legacy and unique francophone cultural influence
 seo:
-  metaDescription: "Experience Korçë's vibrant culture, artistic heritage, and lively markets—a captivating blend of tradition and modernity in Southeast Albania."
+  metaTitle: "Korçë Albania - Medieval Art, Brewery & Cultural History Guide | Southeast Albania"
+  metaDescription: "Explore Korçë, Albania's intellectual capital with the first Albanian school (1887), National Museum of Medieval Art, Korça Brewery (1928), and French cultural legacy. Complete historical and travel guide."
 ---
 
 ## Why Visit Korce

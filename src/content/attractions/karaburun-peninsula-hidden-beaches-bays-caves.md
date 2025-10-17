@@ -3,7 +3,7 @@ title: Karaburun Peninsula
 description: Escape the crowds and journey along Albania's Karaburun Peninsula to discover secluded beaches, breathtaking landscapes, mystical caves, and rich marine life in this Adriatic and Ionian paradise where the two seas meet.
 type: Beaches
 location: ""
-featuredImage: /images/attractions/karaburun-peninsula-hidden-beaches-bays-caves.jpg
+featuredImage: /images/attractions/Karaburun-Peninsula-Albania-1024x768.jpg
 images: []
 language: en
 slug: karaburun-peninsula-hidden-beaches-bays-caves
