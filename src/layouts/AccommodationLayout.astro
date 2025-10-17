@@ -1,10 +1,11 @@
 ---
 /**
- * World-Class Accommodation Layout - 2025 Edition
- * Symmetrical, no wasted space, showcases ALL hotel data beautifully
+ * Premium Accommodation Layout
+ * Classic chic design that respects the user and showcases properties beautifully
  */
 
 import BaseLayout from './BaseLayout.astro';
+import LightboxGallery from '../components/LightboxGallery.astro';
 import type { CollectionEntry } from 'astro:content';
 
 export interface Props {
@@ -45,11 +46,9 @@ const {
   bestFor,
 } = accommodation.data;
 
-// Use frontmatter slug or fall back to file system slug
 const slug = accommodation.data.slug || accommodation.slug;
 
-// Combine featured image with gallery images
-// Use placeholder for broken external images
+// Process images
 const placeholderImage = `https://placehold.co/1200x800/1a1a1a/white?text=${encodeURIComponent(title)}`;
 const processImage = (img: string | undefined) => img?.startsWith('http') ? placeholderImage : img || placeholderImage;
 
@@ -57,9 +56,7 @@ const allImages = [
   processImage(featuredImage),
   ...(images || []).map(processImage)
 ].filter(Boolean) as string[];
-const hasMultipleImages = allImages.length > 1;
 
-// Calculate if we have detailed ratings
 const hasDetailedRatings = ratings && rating && rating > 0;
 ---
 
@@ -71,107 +68,101 @@ const hasDetailedRatings = ratings && rating && rating > 0;
   type="website"
   language={language}
 >
-  <article class="hotel-page">
-    <!-- Hero Section with Gallery -->
-    <section class="hero-gallery">
-      <div class="gallery-container">
-        {hasMultipleImages ? (
-          <div class="gallery-grid">
-            <button class="main-image" data-image-index="0">
-              <img src={allImages[0]} alt={title} loading="eager" />
-            </button>
-            <div class="side-images">
-              {allImages.slice(1, 5).map((image, index) => (
-                <button class="side-image" data-image-index={index + 1}>
-                  <img src={image} alt={`${title} - ${index + 2}`} loading="lazy" />
-                  {index === 3 && allImages.length > 5 && (
-                    <div class="more-photos-overlay">
-                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
-                        <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
-                      </svg>
-                      <span>+{allImages.length - 5} photos</span>
-                    </div>
-                  )}
-                </button>
-              ))}
-            </div>
-          </div>
-        ) : (
-          <div class="single-image">
-            <img src={allImages[0]} alt={title} loading="eager" />
-          </div>
-        )}
+  <article class="accommodation-page">
+    <!-- Breadcrumbs -->
+    <div class="container-custom">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href={language === 'sq' ? '/sq/' : '/'}>Home</a>
+        <span class="separator">/</span>
+        <a href={language === 'sq' ? '/sq/accommodation/' : '/accommodation/'}>Accommodation</a>
+        <span class="separator">/</span>
+        <span class="current">{city || location || 'Property'}</span>
+      </nav>
+    </div>
 
-        <button class="view-all-photos" id="viewAllPhotos">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
-            <rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/>
-          </svg>
-          Show all {allImages.length} photos
-        </button>
-      </div>
-    </section>
-
-    <!-- Main Content -->
-    <div class="content-container">
-      <div class="content-grid">
-        <!-- Left Column: Hotel Info -->
-        <div class="main-content">
-          <!-- Header -->
-          <header class="hotel-header">
-            <div class="header-top">
+    <!-- Property Header -->
+    <section class="property-header">
+      <div class="container-custom">
+        <div class="header-content">
+          <div class="header-main">
+            <div class="header-badges">
               {accommodationType && (
-                <span class="property-type">{accommodationType.charAt(0).toUpperCase() + accommodationType.slice(1)}</span>
+                <span class="property-type-badge">
+                  {accommodationType.charAt(0).toUpperCase() + accommodationType.slice(1)}
+                </span>
               )}
               {starRating && starRating > 0 && (
-                <div class="star-rating">
-                  {[...Array(5)].map((_, i) => (
-                    <span class={i < starRating ? 'star filled' : 'star'}>★</span>
+                <div class="star-rating-display">
+                  {[...Array(5)].map((_, i: number) => (
+                    <svg
+                      width="18"
+                      height="18"
+                      viewBox="0 0 24 24"
+                      fill={i < starRating ? '#FDB813' : 'none'}
+                      stroke={i < starRating ? '#FDB813' : '#D1D5DB'}
+                      stroke-width="2"
+                    >
+                      <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                    </svg>
                   ))}
                 </div>
               )}
             </div>
-
-            <h1>{title}</h1>
-
-            <div class="location-info">
+            <h1 class="property-title">{title}</h1>
+            <div class="location-display">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
                 <circle cx="12" cy="10" r="3"/>
               </svg>
               <span>{address || location || city}</span>
             </div>
-
-            {rating && rating > 0 && (
-              <div class="rating-badge">
-                <div class="rating-score">{rating.toFixed(1)}</div>
-                <div class="rating-details">
-                  <strong>{ratingWords || 'Very Good'}</strong>
-                  {numberOfReviews && numberOfReviews > 0 && (
-                    <span>{numberOfReviews.toLocaleString()} reviews</span>
-                  )}
-                </div>
+          </div>
+          {rating && rating > 0 && (
+            <div class="rating-display">
+              <div class="rating-score">{rating.toFixed(1)}</div>
+              <div class="rating-info">
+                <strong>{ratingWords || 'Excellent'}</strong>
+                {numberOfReviews && numberOfReviews > 0 && (
+                  <span>{numberOfReviews.toLocaleString()} reviews</span>
+                )}
               </div>
-            )}
-          </header>
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
 
-          <!-- Description -->
-          <section class="description-section">
-            <h2>About This Property</h2>
+    <!-- Photo Gallery -->
+    {allImages && allImages.length > 0 && (
+      <section class="gallery-section">
+        <div class="container-custom">
+          <LightboxGallery images={allImages} title={title} />
+        </div>
+      </section>
+    )}
+
+    <!-- Main Content Area -->
+    <div class="container-custom">
+      <div class="content-layout">
+        <!-- Left Column: Property Details -->
+        <div class="main-column">
+
+          <!-- About This Property -->
+          <section class="content-card">
+            <h2 class="section-title">About This Property</h2>
             <div class="description-content">
               <Content />
             </div>
           </section>
 
-          <!-- Amenities Grid -->
+          <!-- Popular Amenities -->
           {amenities && amenities.length > 0 && (
-            <section class="amenities-section">
-              <h2>Popular Amenities</h2>
+            <section class="content-card">
+              <h2 class="section-title">Popular Amenities</h2>
               <div class="amenities-grid">
-                {amenities.map(amenity => (
+                {amenities.map((amenity: string) => (
                   <div class="amenity-item">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
                       <polyline points="20 6 9 17 4 12"/>
                     </svg>
                     <span>{amenity}</span>
@@ -181,15 +172,16 @@ const hasDetailedRatings = ratings && rating && rating > 0;
             </section>
           )}
 
-          <!-- Room Types -->
+          <!-- Available Rooms -->
           {roomTypes && roomTypes.length > 0 && (
-            <section class="rooms-section">
-              <h2>Available Rooms</h2>
-              <div class="rooms-grid">
-                {roomTypes.map(room => (
-                  <div class="room-card">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <section class="content-card">
+              <h2 class="section-title">Available Rooms</h2>
+              <div class="rooms-list">
+                {roomTypes.map((room: string) => (
+                  <div class="room-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                       <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                      <polyline points="9 22 9 12 15 12 15 22"/>
                     </svg>
                     <span>{room}</span>
                   </div>
@@ -198,85 +190,85 @@ const hasDetailedRatings = ratings && rating && rating > 0;
             </section>
           )}
 
-          <!-- Detailed Ratings -->
+          <!-- Guest Ratings -->
           {hasDetailedRatings && (
-            <section class="detailed-ratings">
-              <h2>Guest Ratings</h2>
-              <div class="ratings-grid">
+            <section class="content-card">
+              <h2 class="section-title">Guest Ratings</h2>
+              <div class="ratings-list">
                 {ratings.location > 0 && (
-                  <div class="rating-bar">
-                    <div class="rating-bar-header">
-                      <span>Location</span>
-                      <strong>{ratings.location.toFixed(1)}</strong>
+                  <div class="rating-row">
+                    <div class="rating-row-header">
+                      <span class="rating-label">Location</span>
+                      <strong class="rating-value">{ratings.location.toFixed(1)}</strong>
                     </div>
-                    <div class="bar-track">
-                      <div class="bar-fill" style={`width: ${(ratings.location / 10) * 100}%`}></div>
+                    <div class="rating-bar-track">
+                      <div class="rating-bar-fill" style={`width: ${(ratings.location / 10) * 100}%`}></div>
                     </div>
                   </div>
                 )}
                 {ratings.cleanliness > 0 && (
-                  <div class="rating-bar">
-                    <div class="rating-bar-header">
-                      <span>Cleanliness</span>
-                      <strong>{ratings.cleanliness.toFixed(1)}</strong>
+                  <div class="rating-row">
+                    <div class="rating-row-header">
+                      <span class="rating-label">Cleanliness</span>
+                      <strong class="rating-value">{ratings.cleanliness.toFixed(1)}</strong>
                     </div>
-                    <div class="bar-track">
-                      <div class="bar-fill" style={`width: ${(ratings.cleanliness / 10) * 100}%`}></div>
+                    <div class="rating-bar-track">
+                      <div class="rating-bar-fill" style={`width: ${(ratings.cleanliness / 10) * 100}%`}></div>
                     </div>
                   </div>
                 )}
                 {ratings.comfort > 0 && (
-                  <div class="rating-bar">
-                    <div class="rating-bar-header">
-                      <span>Comfort</span>
-                      <strong>{ratings.comfort.toFixed(1)}</strong>
+                  <div class="rating-row">
+                    <div class="rating-row-header">
+                      <span class="rating-label">Comfort</span>
+                      <strong class="rating-value">{ratings.comfort.toFixed(1)}</strong>
                     </div>
-                    <div class="bar-track">
-                      <div class="bar-fill" style={`width: ${(ratings.comfort / 10) * 100}%`}></div>
+                    <div class="rating-bar-track">
+                      <div class="rating-bar-fill" style={`width: ${(ratings.comfort / 10) * 100}%`}></div>
                     </div>
                   </div>
                 )}
                 {ratings.facilities > 0 && (
-                  <div class="rating-bar">
-                    <div class="rating-bar-header">
-                      <span>Facilities</span>
-                      <strong>{ratings.facilities.toFixed(1)}</strong>
+                  <div class="rating-row">
+                    <div class="rating-row-header">
+                      <span class="rating-label">Facilities</span>
+                      <strong class="rating-value">{ratings.facilities.toFixed(1)}</strong>
                     </div>
-                    <div class="bar-track">
-                      <div class="bar-fill" style={`width: ${(ratings.facilities / 10) * 100}%`}></div>
+                    <div class="rating-bar-track">
+                      <div class="rating-bar-fill" style={`width: ${(ratings.facilities / 10) * 100}%`}></div>
                     </div>
                   </div>
                 )}
                 {ratings.staff > 0 && (
-                  <div class="rating-bar">
-                    <div class="rating-bar-header">
-                      <span>Staff</span>
-                      <strong>{ratings.staff.toFixed(1)}</strong>
+                  <div class="rating-row">
+                    <div class="rating-row-header">
+                      <span class="rating-label">Staff</span>
+                      <strong class="rating-value">{ratings.staff.toFixed(1)}</strong>
                     </div>
-                    <div class="bar-track">
-                      <div class="bar-fill" style={`width: ${(ratings.staff / 10) * 100}%`}></div>
+                    <div class="rating-bar-track">
+                      <div class="rating-bar-fill" style={`width: ${(ratings.staff / 10) * 100}%`}></div>
                     </div>
                   </div>
                 )}
                 {ratings.value > 0 && (
-                  <div class="rating-bar">
-                    <div class="rating-bar-header">
-                      <span>Value for Money</span>
-                      <strong>{ratings.value.toFixed(1)}</strong>
+                  <div class="rating-row">
+                    <div class="rating-row-header">
+                      <span class="rating-label">Value for Money</span>
+                      <strong class="rating-value">{ratings.value.toFixed(1)}</strong>
                     </div>
-                    <div class="bar-track">
-                      <div class="bar-fill" style={`width: ${(ratings.value / 10) * 100}%`}></div>
+                    <div class="rating-bar-track">
+                      <div class="rating-bar-fill" style={`width: ${(ratings.value / 10) * 100}%`}></div>
                     </div>
                   </div>
                 )}
                 {ratings.wifi > 0 && (
-                  <div class="rating-bar">
-                    <div class="rating-bar-header">
-                      <span>Free WiFi</span>
-                      <strong>{ratings.wifi.toFixed(1)}</strong>
+                  <div class="rating-row">
+                    <div class="rating-row-header">
+                      <span class="rating-label">Free WiFi</span>
+                      <strong class="rating-value">{ratings.wifi.toFixed(1)}</strong>
                     </div>
-                    <div class="bar-track">
-                      <div class="bar-fill" style={`width: ${(ratings.wifi / 10) * 100}%`}></div>
+                    <div class="rating-bar-track">
+                      <div class="rating-bar-fill" style={`width: ${(ratings.wifi / 10) * 100}%`}></div>
                     </div>
                   </div>
                 )}
@@ -286,17 +278,17 @@ const hasDetailedRatings = ratings && rating && rating > 0;
 
           <!-- Guest Reviews -->
           {reviews && reviews.length > 0 && (
-            <section class="reviews-section">
-              <h2>Guest Reviews</h2>
-              <div class="reviews-grid">
-                {reviews.map(review => (
+            <section class="content-card">
+              <h2 class="section-title">Guest Reviews</h2>
+              <div class="reviews-container">
+                {reviews.map((review: {name: string, country: string, text: string}) => (
                   <div class="review-card">
                     <div class="review-header">
                       <div class="reviewer-avatar">
                         {review.name.charAt(0).toUpperCase()}
                       </div>
-                      <div>
-                        <strong>{review.name}</strong>
+                      <div class="reviewer-info">
+                        <strong class="reviewer-name">{review.name}</strong>
                         <span class="reviewer-country">{review.country}</span>
                       </div>
                     </div>
@@ -308,15 +300,16 @@ const hasDetailedRatings = ratings && rating && rating > 0;
           )}
         </div>
 
-        <!-- Right Column: Location & Booking Info -->
-        <aside class="sidebar">
+        <!-- Right Column: Booking & Location Info -->
+        <aside class="sidebar-column">
+
           <!-- Booking Card -->
-          <div class="booking-card sticky">
-            {price && (
-              <div class="price-section">
-                <span class="price-label">From</span>
-                <div class="price-amount">{price}</div>
-                <span class="price-note">per night</span>
+          <div class="booking-card sticky-card">
+            {priceFrom && (
+              <div class="price-display">
+                <span class="price-prefix">From</span>
+                <div class="price-value">${priceFrom}</div>
+                <span class="price-suffix">per night</span>
               </div>
             )}
 
@@ -324,9 +317,9 @@ const hasDetailedRatings = ratings && rating && rating > 0;
               href={bookingURL || `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(city || location || title)}&aid=8035640`}
               target="_blank"
               rel="noopener noreferrer"
-              class="book-now-btn"
+              class="book-button"
             >
-              <span>Check Availability on Booking.com</span>
+              <span>Check Availability</span>
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
                 <polyline points="15 3 21 3 21 9"/>
@@ -335,29 +328,29 @@ const hasDetailedRatings = ratings && rating && rating > 0;
             </a>
 
             {bestFor && (
-              <div class="best-for-badge">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+              <div class="best-for-tag">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
                 </svg>
                 {bestFor}
               </div>
             )}
 
-            <div class="booking-features">
-              <div class="feature">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <div class="booking-benefits">
+              <div class="benefit-item">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
                   <polyline points="20 6 9 17 4 12"/>
                 </svg>
                 <span>Free cancellation</span>
               </div>
-              <div class="feature">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <div class="benefit-item">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
                   <polyline points="20 6 9 17 4 12"/>
                 </svg>
-                <span>No payment needed today</span>
+                <span>No prepayment needed</span>
               </div>
-              <div class="feature">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <div class="benefit-item">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
                   <polyline points="20 6 9 17 4 12"/>
                 </svg>
                 <span>Instant confirmation</span>
@@ -365,98 +358,94 @@ const hasDetailedRatings = ratings && rating && rating > 0;
             </div>
 
             {paymentMethods && paymentMethods.length > 0 && (
-              <div class="payment-methods">
-                <span class="payment-label">We accept:</span>
-                <div class="payment-icons">
-                  {paymentMethods.map(method => (
-                    <div class="payment-icon">{method}</div>
+              <div class="payment-info">
+                <span class="payment-label">Accepted payment:</span>
+                <div class="payment-methods">
+                  {paymentMethods.map((method: string) => (
+                    <span class="payment-method">{method}</span>
                   ))}
                 </div>
               </div>
             )}
           </div>
 
-          <!-- Nearby Beaches -->
+          <!-- Location Information Cards -->
           {nearbyBeaches && nearbyBeaches.length > 0 && (
             <div class="info-card">
-              <h3>
+              <h3 class="info-card-title">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <path d="M12 2v20M2 12h20M6.5 2v20M17.5 2v20"/>
                 </svg>
                 Nearby Beaches
               </h3>
-              <ul>
-                {nearbyBeaches.map(beach => (
+              <ul class="info-list">
+                {nearbyBeaches.map((beach: string) => (
                   <li>{beach}</li>
                 ))}
               </ul>
             </div>
           )}
 
-          <!-- Nearby Attractions -->
           {nearbyAttractions && nearbyAttractions.length > 0 && (
             <div class="info-card">
-              <h3>
+              <h3 class="info-card-title">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
                   <circle cx="12" cy="10" r="3"/>
                 </svg>
                 Top Attractions
               </h3>
-              <ul>
-                {nearbyAttractions.slice(0, 8).map(attraction => (
+              <ul class="info-list">
+                {nearbyAttractions.slice(0, 8).map((attraction: string) => (
                   <li>{attraction}</li>
                 ))}
               </ul>
             </div>
           )}
 
-          <!-- Nearby Restaurants -->
           {nearbyRestaurants && nearbyRestaurants.length > 0 && (
             <div class="info-card">
-              <h3>
+              <h3 class="info-card-title">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2M7 2v20M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"/>
                 </svg>
                 Restaurants Nearby
               </h3>
-              <ul>
-                {nearbyRestaurants.map(restaurant => (
+              <ul class="info-list">
+                {nearbyRestaurants.map((restaurant: string) => (
                   <li>{restaurant}</li>
                 ))}
               </ul>
             </div>
           )}
 
-          <!-- What's Nearby -->
           {whatsNearby && whatsNearby.length > 0 && (
             <div class="info-card">
-              <h3>
+              <h3 class="info-card-title">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <circle cx="12" cy="12" r="10"/>
                   <path d="M12 6v6l4 2"/>
                 </svg>
                 What's Nearby
               </h3>
-              <ul>
-                {whatsNearby.slice(0, 8).map(place => (
+              <ul class="info-list">
+                {whatsNearby.slice(0, 8).map((place: string) => (
                   <li>{place}</li>
                 ))}
               </ul>
             </div>
           )}
 
-          <!-- Airports -->
           {airports && airports.length > 0 && (
             <div class="info-card">
-              <h3>
+              <h3 class="info-card-title">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/>
                 </svg>
                 Nearest Airports
               </h3>
-              <ul>
-                {airports.map(airport => (
+              <ul class="info-list">
+                {airports.map((airport: string) => (
                   <li>{airport}</li>
                 ))}
               </ul>
@@ -465,291 +454,187 @@ const hasDetailedRatings = ratings && rating && rating > 0;
         </aside>
       </div>
     </div>
-
-    <!-- Lightbox -->
-    <div class="lightbox" id="lightbox">
-      <button class="lightbox-close">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
-        </svg>
-      </button>
-
-      <button class="lightbox-prev">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <polyline points="15 18 9 12 15 6"/>
-        </svg>
-      </button>
-
-      <img class="lightbox-image" src="" alt="" />
-
-      <button class="lightbox-next">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <polyline points="9 18 15 12 9 6"/>
-        </svg>
-      </button>
-
-      <div class="lightbox-counter">
-        <span class="current-index">1</span> / <span class="total-images">{allImages.length}</span>
-      </div>
-    </div>
   </article>
 </BaseLayout>
 
 <style>
-  /* Reset & Base */
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  /* Container */
+  .container-custom {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 24px;
   }
 
-  .hotel-page {
-    background: #f8f9fa;
+  .accommodation-page {
+    background: #fafafa;
     min-height: 100vh;
+    padding-bottom: 80px;
   }
 
-  /* Hero Gallery */
-  .hero-gallery {
-    background: #000;
-    width: 100%;
-  }
-
-  .gallery-container {
-    max-width: 1400px;
-    margin: 0 auto;
-    position: relative;
-  }
-
-  .gallery-grid {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 8px;
-    height: 600px;
-  }
-
-  .main-image {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-    position: relative;
-  }
-
-  .main-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s;
-  }
-
-  .main-image:hover img {
-    transform: scale(1.05);
-  }
-
-  .side-images {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
-  }
-
-  .side-image {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-    position: relative;
-  }
-
-  .side-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.3s;
-  }
-
-  .side-image:hover img {
-    transform: scale(1.05);
-  }
-
-  .more-photos-overlay {
-    position: absolute;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.7);
+  /* Breadcrumbs */
+  .breadcrumbs {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    color: white;
-    gap: 8px;
-    font-size: 18px;
+    gap: 12px;
+    padding: 20px 0;
+    font-size: 14px;
+    color: #666;
+  }
+
+  .breadcrumbs a {
+    color: #666;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .breadcrumbs a:hover {
+    color: #e41e20;
+  }
+
+  .breadcrumbs .separator {
+    color: #d1d5db;
+  }
+
+  .breadcrumbs .current {
+    color: #1a1a1a;
     font-weight: 600;
   }
 
-  .view-all-photos {
-    position: absolute;
-    bottom: 24px;
-    right: 24px;
+  /* Property Header */
+  .property-header {
     background: white;
-    border: none;
-    padding: 12px 24px;
-    border-radius: 8px;
-    font-size: 15px;
-    font-weight: 600;
-    cursor: pointer;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 32px 0;
+    margin-bottom: 32px;
+  }
+
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 32px;
+  }
+
+  .header-main {
+    flex: 1;
+  }
+
+  .header-badges {
     display: flex;
     align-items: center;
-    gap: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    transition: all 0.2s;
-    z-index: 10;
-  }
-
-  .view-all-photos:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
-  }
-
-  .single-image {
-    height: 500px;
-    overflow: hidden;
-  }
-
-  .single-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  /* Content Container */
-  .content-container {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 40px 24px;
-  }
-
-  .content-grid {
-    display: grid;
-    grid-template-columns: 1fr 400px;
-    gap: 40px;
-    align-items: start;
-  }
-
-  /* Hotel Header */
-  .hotel-header {
-    background: white;
-    padding: 32px;
-    border-radius: 16px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-    margin-bottom: 24px;
-  }
-
-  .header-top {
-    display: flex;
-    align-items: center;
-    gap: 16px;
+    gap: 12px;
     margin-bottom: 16px;
   }
 
-  .property-type {
-    background: #e8f4fd;
+  .property-type-badge {
+    display: inline-block;
+    padding: 6px 16px;
+    background: #f0f9ff;
     color: #0369a1;
-    padding: 6px 14px;
     border-radius: 20px;
     font-size: 13px;
     font-weight: 600;
     text-transform: capitalize;
   }
 
-  .star-rating {
+  .star-rating-display {
     display: flex;
     gap: 2px;
   }
 
-  .star {
-    font-size: 18px;
-    color: #ddd;
-  }
-
-  .star.filled {
-    color: #fbbf24;
-  }
-
-  .hotel-header h1 {
-    font-size: 32px;
+  .property-title {
+    font-size: 36px;
     font-weight: 700;
-    color: #111;
-    margin-bottom: 12px;
+    color: #1a1a1a;
+    margin: 0 0 12px 0;
     line-height: 1.2;
   }
 
-  .location-info {
+  .location-display {
     display: flex;
     align-items: center;
     gap: 8px;
     color: #666;
-    font-size: 15px;
-    margin-bottom: 20px;
+    font-size: 16px;
   }
 
-  .rating-badge {
-    display: inline-flex;
+  .location-display svg {
+    color: #999;
+    flex-shrink: 0;
+  }
+
+  .rating-display {
+    display: flex;
     align-items: center;
     gap: 16px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #003B95 0%, #0052CC 100%);
+    padding: 20px 28px;
+    border-radius: 16px;
     color: white;
-    padding: 16px 24px;
-    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 59, 149, 0.2);
   }
 
   .rating-score {
-    font-size: 36px;
+    font-size: 44px;
     font-weight: 700;
     line-height: 1;
   }
 
-  .rating-details {
+  .rating-info {
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    gap: 4px;
   }
 
-  .rating-details strong {
-    font-size: 16px;
+  .rating-info strong {
+    font-size: 17px;
+    font-weight: 600;
   }
 
-  .rating-details span {
-    font-size: 13px;
+  .rating-info span {
+    font-size: 14px;
     opacity: 0.9;
   }
 
-  .reviewer-country {
-    color: #666;
-    font-size: 13px;
+  /* Gallery Section */
+  .gallery-section {
+    margin-bottom: 48px;
   }
 
-  /* Sections */
-  .main-content section {
+  /* Content Layout */
+  .content-layout {
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 32px;
+    align-items: start;
+  }
+
+  /* Main Column */
+  .main-column {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .content-card {
     background: white;
-    padding: 32px;
     border-radius: 16px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-    margin-bottom: 24px;
+    padding: 32px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    border: 1px solid #f0f0f0;
   }
 
-  .main-content h2 {
+  .section-title {
     font-size: 24px;
     font-weight: 700;
-    color: #111;
-    margin-bottom: 20px;
+    color: #1a1a1a;
+    margin: 0 0 24px 0;
+    line-height: 1.2;
   }
 
   .description-content {
     font-size: 16px;
-    line-height: 1.8;
+    line-height: 1.75;
     color: #444;
   }
 
@@ -757,106 +642,115 @@ const hasDetailedRatings = ratings && rating && rating > 0;
     margin-bottom: 16px;
   }
 
+  .description-content :global(p:last-child) {
+    margin-bottom: 0;
+  }
+
   /* Amenities Grid */
   .amenities-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
   }
 
   .amenity-item {
     display: flex;
     align-items: center;
-    gap: 12px;
-    padding: 12px;
-    background: #f8f9fa;
-    border-radius: 8px;
+    gap: 10px;
+    padding: 12px 16px;
+    background: #fafafa;
+    border-radius: 10px;
     font-size: 15px;
     color: #333;
+    border: 1px solid #f0f0f0;
   }
 
   .amenity-item svg {
-    color: #10b981;
+    color: #22c55e;
     flex-shrink: 0;
   }
 
-  /* Rooms Grid */
-  .rooms-grid {
+  /* Rooms List */
+  .rooms-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     gap: 16px;
   }
 
-  .room-card {
+  .room-item {
     display: flex;
     align-items: center;
     gap: 12px;
-    padding: 16px;
+    padding: 16px 20px;
     background: #f0f9ff;
-    border: 2px solid #e0f2fe;
+    border: 1px solid #e0f2fe;
     border-radius: 12px;
     font-weight: 500;
     color: #0369a1;
+    font-size: 15px;
   }
 
-  .room-card svg {
+  .room-item svg {
     flex-shrink: 0;
   }
 
-  /* Detailed Ratings */
-  .ratings-grid {
+  /* Ratings List */
+  .ratings-list {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 20px;
   }
 
-  .rating-bar {
+  .rating-row {
     display: flex;
     flex-direction: column;
     gap: 8px;
   }
 
-  .rating-bar-header {
+  .rating-row-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+  }
+
+  .rating-label {
     font-size: 15px;
-  }
-
-  .rating-bar-header span {
     color: #666;
+    font-weight: 500;
   }
 
-  .rating-bar-header strong {
-    color: #111;
-    font-size: 16px;
+  .rating-value {
+    font-size: 17px;
+    font-weight: 700;
+    color: #1a1a1a;
   }
 
-  .bar-track {
+  .rating-bar-track {
     height: 8px;
     background: #e5e7eb;
     border-radius: 4px;
     overflow: hidden;
   }
 
-  .bar-fill {
+  .rating-bar-fill {
     height: 100%;
-    background: linear-gradient(90deg, #10b981 0%, #059669 100%);
+    background: linear-gradient(90deg, #22c55e 0%, #16a34a 100%);
     border-radius: 4px;
-    transition: width 0.5s ease;
+    transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   /* Reviews */
-  .reviews-grid {
-    display: grid;
+  .reviews-container {
+    display: flex;
+    flex-direction: column;
     gap: 20px;
   }
 
   .review-card {
-    padding: 20px;
-    background: #f8f9fa;
+    padding: 24px;
+    background: #fafafa;
     border-radius: 12px;
-    border-left: 4px solid #667eea;
+    border-left: 4px solid #003B95;
   }
 
   .review-header {
@@ -870,19 +764,31 @@ const hasDetailedRatings = ratings && rating && rating > 0;
     width: 48px;
     height: 48px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #003B95 0%, #0052CC 100%);
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 20px;
     font-weight: 700;
+    flex-shrink: 0;
   }
 
-  .review-header strong {
-    display: block;
-    font-size: 15px;
-    color: #111;
+  .reviewer-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .reviewer-name {
+    font-size: 16px;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .reviewer-country {
+    font-size: 14px;
+    color: #666;
   }
 
   .review-text {
@@ -890,60 +796,66 @@ const hasDetailedRatings = ratings && rating && rating > 0;
     line-height: 1.6;
     color: #555;
     font-style: italic;
+    margin: 0;
   }
 
   /* Sidebar */
-  .sidebar {
-    position: sticky;
-    top: 24px;
+  .sidebar-column {
     display: flex;
     flex-direction: column;
     gap: 20px;
   }
 
+  .sticky-card {
+    position: sticky;
+    top: 24px;
+  }
+
   .booking-card {
     background: white;
-    padding: 28px;
     border-radius: 16px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 28px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
     border: 2px solid #e5e7eb;
   }
 
-  .price-section {
+  .price-display {
     text-align: center;
     padding-bottom: 24px;
-    border-bottom: 2px solid #f3f4f6;
     margin-bottom: 24px;
+    border-bottom: 2px solid #f3f4f6;
   }
 
-  .price-label {
+  .price-prefix {
     display: block;
-    font-size: 13px;
+    font-size: 14px;
     color: #666;
+    font-weight: 500;
     margin-bottom: 8px;
   }
 
-  .price-amount {
-    font-size: 40px;
+  .price-value {
+    font-size: 44px;
     font-weight: 700;
-    color: #111;
+    color: #1a1a1a;
     line-height: 1;
     margin-bottom: 4px;
   }
 
-  .price-note {
+  .price-suffix {
+    display: block;
     font-size: 14px;
     color: #888;
   }
 
-  .book-now-btn {
+  .book-button {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 8px;
+    gap: 10px;
     width: 100%;
-    padding: 16px;
-    background: linear-gradient(135deg, #d32f2f 0%, #c41825 100%);
+    padding: 18px 24px;
+    background: linear-gradient(135deg, #e41e20 0%, #c41825 100%);
     color: white;
     border: none;
     border-radius: 12px;
@@ -952,33 +864,38 @@ const hasDetailedRatings = ratings && rating && rating > 0;
     cursor: pointer;
     text-decoration: none;
     transition: all 0.2s;
-    margin-bottom: 16px;
+    box-shadow: 0 2px 8px rgba(228, 30, 32, 0.2);
   }
 
-  .book-now-btn:hover {
+  .book-button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(211, 47, 47, 0.3);
+    box-shadow: 0 6px 20px rgba(228, 30, 32, 0.3);
   }
 
-  .best-for-badge {
+  .book-button svg {
+    flex-shrink: 0;
+  }
+
+  .best-for-tag {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
-    padding: 12px;
+    padding: 12px 16px;
     background: #fef3c7;
     color: #92400e;
-    border-radius: 8px;
+    border-radius: 10px;
     font-size: 14px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin: 16px 0 20px 0;
   }
 
-  .best-for-badge svg {
+  .best-for-tag svg {
     color: #f59e0b;
+    flex-shrink: 0;
   }
 
-  .booking-features {
+  .booking-benefits {
     display: flex;
     flex-direction: column;
     gap: 12px;
@@ -988,20 +905,21 @@ const hasDetailedRatings = ratings && rating && rating > 0;
     margin-bottom: 20px;
   }
 
-  .feature {
+  .benefit-item {
     display: flex;
     align-items: center;
     gap: 10px;
     font-size: 14px;
     color: #333;
+    font-weight: 500;
   }
 
-  .feature svg {
-    color: #10b981;
+  .benefit-item svg {
+    color: #22c55e;
     flex-shrink: 0;
   }
 
-  .payment-methods {
+  .payment-info {
     display: flex;
     flex-direction: column;
     gap: 12px;
@@ -1013,17 +931,17 @@ const hasDetailedRatings = ratings && rating && rating > 0;
     font-weight: 600;
   }
 
-  .payment-icons {
+  .payment-methods {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
   }
 
-  .payment-icon {
+  .payment-method {
     padding: 6px 12px;
-    background: #f8f9fa;
+    background: #fafafa;
     border: 1px solid #e5e7eb;
-    border-radius: 6px;
+    border-radius: 8px;
     font-size: 12px;
     font-weight: 600;
     color: #555;
@@ -1032,230 +950,115 @@ const hasDetailedRatings = ratings && rating && rating > 0;
   /* Info Cards */
   .info-card {
     background: white;
-    padding: 24px;
     border-radius: 16px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    padding: 24px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    border: 1px solid #f0f0f0;
   }
 
-  .info-card h3 {
+  .info-card-title {
     display: flex;
     align-items: center;
     gap: 10px;
     font-size: 18px;
     font-weight: 700;
-    color: #111;
-    margin-bottom: 16px;
+    color: #1a1a1a;
+    margin: 0 0 16px 0;
   }
 
-  .info-card h3 svg {
-    color: #667eea;
+  .info-card-title svg {
+    color: #003B95;
+    flex-shrink: 0;
   }
 
-  .info-card ul {
+  .info-list {
     list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .info-card li {
+  .info-list li {
     font-size: 14px;
     color: #555;
     padding-left: 20px;
     position: relative;
   }
 
-  .info-card li::before {
+  .info-list li::before {
     content: '→';
     position: absolute;
     left: 0;
-    color: #667eea;
+    color: #003B95;
     font-weight: 700;
-  }
-
-  /* Lightbox */
-  .lightbox {
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.95);
-    z-index: 9999;
-    display: none;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .lightbox.active {
-    display: flex;
-  }
-
-  .lightbox-image {
-    max-width: 90vw;
-    max-height: 90vh;
-    object-fit: contain;
-  }
-
-  .lightbox-close,
-  .lightbox-prev,
-  .lightbox-next {
-    position: absolute;
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    border: 2px solid rgba(255, 255, 255, 0.2);
-    color: white;
-    padding: 12px;
-    border-radius: 50%;
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-
-  .lightbox-close:hover,
-  .lightbox-prev:hover,
-  .lightbox-next:hover {
-    background: rgba(255, 255, 255, 0.2);
-    transform: scale(1.1);
-  }
-
-  .lightbox-close {
-    top: 24px;
-    right: 24px;
-  }
-
-  .lightbox-prev {
-    left: 24px;
-  }
-
-  .lightbox-next {
-    right: 24px;
-  }
-
-  .lightbox-counter {
-    position: absolute;
-    bottom: 24px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(0, 0, 0, 0.7);
-    backdrop-filter: blur(10px);
-    color: white;
-    padding: 12px 24px;
-    border-radius: 24px;
-    font-size: 16px;
-    font-weight: 600;
   }
 
   /* Responsive */
   @media (max-width: 1024px) {
-    .content-grid {
+    .content-layout {
       grid-template-columns: 1fr;
     }
 
-    .sidebar {
-      position: static;
+    .sidebar-column {
       order: -1;
+    }
+
+    .sticky-card {
+      position: static;
     }
   }
 
   @media (max-width: 768px) {
-    .gallery-grid {
-      grid-template-columns: 1fr;
-      height: auto;
+    .container-custom {
+      padding: 0 16px;
     }
 
-    .main-image {
-      height: 350px;
+    .property-header {
+      padding: 24px 0;
     }
 
-    .side-images {
-      display: none;
+    .header-content {
+      flex-direction: column;
+      gap: 20px;
     }
 
-    .content-container {
-      padding: 24px 16px;
+    .property-title {
+      font-size: 28px;
     }
 
-    .hotel-header {
+    .rating-display {
+      width: 100%;
+      padding: 16px 20px;
+    }
+
+    .rating-score {
+      font-size: 36px;
+    }
+
+    .content-card {
       padding: 24px;
     }
 
-    .hotel-header h1 {
-      font-size: 24px;
+    .section-title {
+      font-size: 20px;
     }
 
-    .main-content section {
+    .amenities-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .rooms-list {
+      grid-template-columns: 1fr;
+    }
+
+    .booking-card {
       padding: 24px;
     }
 
-    .amenities-grid,
-    .rooms-grid {
-      grid-template-columns: 1fr;
+    .price-value {
+      font-size: 36px;
     }
   }
 </style>
-
-<script is:inline define:vars={{ allImages, title }}>
-  // Lightbox functionality
-  const lightbox = document.getElementById('lightbox');
-  const lightboxImage = lightbox?.querySelector('.lightbox-image');
-  const currentIndexEl = lightbox?.querySelector('.current-index');
-  const closeBtn = lightbox?.querySelector('.lightbox-close');
-  const prevBtn = lightbox?.querySelector('.lightbox-prev');
-  const nextBtn = lightbox?.querySelector('.lightbox-next');
-  const viewAllBtn = document.getElementById('viewAllPhotos');
-  const imageButtons = document.querySelectorAll('[data-image-index]');
-
-  let currentIndex = 0;
-
-  function openLightbox(index) {
-    currentIndex = index;
-    showImage(currentIndex);
-    lightbox.classList.add('active');
-    document.body.style.overflow = 'hidden';
-  }
-
-  function closeLightbox() {
-    lightbox.classList.remove('active');
-    document.body.style.overflow = '';
-  }
-
-  function showImage(index) {
-    if (!lightboxImage || !currentIndexEl) return;
-    currentIndex = index;
-    lightboxImage.src = allImages[index];
-    lightboxImage.alt = `${title} - Image ${index + 1}`;
-    currentIndexEl.textContent = (index + 1).toString();
-  }
-
-  function nextImage() {
-    showImage((currentIndex + 1) % allImages.length);
-  }
-
-  function prevImage() {
-    showImage((currentIndex - 1 + allImages.length) % allImages.length);
-  }
-
-  // Event listeners
-  imageButtons.forEach(btn => {
-    btn.addEventListener('click', () => {
-      const index = parseInt(btn.getAttribute('data-image-index') || '0');
-      openLightbox(index);
-    });
-  });
-
-  viewAllBtn?.addEventListener('click', () => openLightbox(0));
-  closeBtn?.addEventListener('click', closeLightbox);
-  prevBtn?.addEventListener('click', prevImage);
-  nextBtn?.addEventListener('click', nextImage);
-
-  // Keyboard navigation
-  document.addEventListener('keydown', (e) => {
-    if (lightbox?.classList.contains('active')) {
-      if (e.key === 'Escape') closeLightbox();
-      if (e.key === 'ArrowLeft') prevImage();
-      if (e.key === 'ArrowRight') nextImage();
-    }
-  });
-
-  // Close on background click
-  lightbox?.addEventListener('click', (e) => {
-    if (e.target === lightbox) closeLightbox();
-  });
-</script>
