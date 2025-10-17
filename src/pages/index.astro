@@ -28,10 +28,19 @@ try {
   heroImages = files
     .filter(file => {
       const ext = path.extname(file).toLowerCase();
-      return imageExtensions.includes(ext) && !file.startsWith('.');
+      // Exclude README and hidden files
+      return imageExtensions.includes(ext) && !file.startsWith('.') && !file.toLowerCase().includes('readme');
     })
     .sort() // Sort alphabetically for consistency
     .map(file => `/images/hero/${file}`);
+
+  // Ensure we have at least one image
+  if (heroImages.length === 0) {
+    console.warn('No hero images found, using fallback');
+    heroImages = ['/images/hero/VisitAlbania.jpeg'];
+  }
+
+  console.log(`Loaded ${heroImages.length} hero images`);
 } catch (err) {
   console.error('Error reading hero images:', err);
   // Fallback to a default image if directory doesn't exist
@@ -73,57 +82,117 @@ try {
 
   <script is:inline>
     (function() {
+      'use strict';
+
       function initSlider() {
-        const slides = document.querySelectorAll('.slide');
-        let currentSlide = 0;
-        let zIndexCounter = 1;
-        const slideInterval = 5000;
+        try {
+          const slides = document.querySelectorAll('.slide');
+          const heroSlider = document.querySelector('.hero-slider');
 
-        function showSlide(index) {
-          // Mark previous slide as exiting
-          slides.forEach((slide, i) => {
-            if (i === currentSlide && i !== index) {
-              slide.classList.add('exiting');
-              slide.style.zIndex = zIndexCounter++;
+          // Validation: Ensure required elements exist
+          if (!slides || slides.length === 0) {
+            console.warn('Hero slider: No slides found');
+            return;
+          }
+
+          // If only one slide, no need to animate
+          if (slides.length === 1) {
+            console.log('Hero slider: Single slide mode, auto-advance disabled');
+            return;
+          }
+
+          let currentSlide = 0;
+          let zIndexCounter = 1;
+          let autoSlide = null;
+          let isHovered = false;
+          let isVisible = true;
+          const slideInterval = 5000;
+          const fadeCompleteDelay = 1000;
+
+          function showSlide(index) {
+            if (index < 0 || index >= slides.length) {
+              console.error(`Hero slider: Invalid index ${index}`);
+              return;
+            }
+
+            // Mark previous slide as exiting
+            slides.forEach((slide, i) => {
+              if (i === currentSlide && i !== index) {
+                slide.classList.add('exiting');
+                slide.style.zIndex = String(zIndexCounter++);
+              }
+            });
+
+            // Set new active slide with higher z-index
+            slides.forEach((slide, i) => {
+              slide.classList.remove('active');
+              if (i === index) {
+                slide.classList.remove('exiting');
+                slide.style.zIndex = String(zIndexCounter++ + 1);
+                slide.classList.add('active');
+              }
+            });
+
+            // Clean up exiting class after fade completes
+            setTimeout(() => {
+              slides.forEach(slide => slide.classList.remove('exiting'));
+            }, fadeCompleteDelay);
+
+            currentSlide = index;
+          }
+
+          function nextSlide() {
+            currentSlide = (currentSlide + 1) % slides.length;
+            showSlide(currentSlide);
+          }
+
+          function startAutoSlide() {
+            stopAutoSlide(); // Clear any existing interval
+            if (isVisible && !isHovered) {
+              autoSlide = setInterval(nextSlide, slideInterval);
+            }
+          }
+
+          function stopAutoSlide() {
+            if (autoSlide) {
+              clearInterval(autoSlide);
+              autoSlide = null;
+            }
+          }
+
+          // Pause on hover
+          if (heroSlider) {
+            heroSlider.addEventListener('mouseenter', () => {
+              isHovered = true;
+              stopAutoSlide();
+            });
+
+            heroSlider.addEventListener('mouseleave', () => {
+              isHovered = false;
+              startAutoSlide();
+            });
+          }
+
+          // Pause when tab is not visible (performance + accessibility)
+          document.addEventListener('visibilitychange', () => {
+            isVisible = !document.hidden;
+            if (isVisible && !isHovered) {
+              startAutoSlide();
+            } else {
+              stopAutoSlide();
             }
           });
 
-          // Set new active slide with higher z-index
-          slides.forEach((slide, i) => {
-            slide.classList.remove('active');
-            if (i === index) {
-              slide.classList.remove('exiting');
-              slide.style.zIndex = zIndexCounter++ + 1;
-              slide.classList.add('active');
-            }
-          });
+          // Start the slider
+          startAutoSlide();
 
-          // Clean up exiting class after fade completes
-          setTimeout(() => {
-            slides.forEach(slide => slide.classList.remove('exiting'));
-          }, 1000);
-
-          currentSlide = index;
-        }
-
-        function nextSlide() {
-          currentSlide = (currentSlide + 1) % slides.length;
-          showSlide(currentSlide);
-        }
-
-        let autoSlide = setInterval(nextSlide, slideInterval);
-
-        const heroSlider = document.querySelector('.hero-slider');
-        if (heroSlider) {
-          heroSlider.addEventListener('mouseenter', () => {
-            clearInterval(autoSlide);
-          });
-          heroSlider.addEventListener('mouseleave', () => {
-            autoSlide = setInterval(nextSlide, slideInterval);
-          });
+          console.log(`Hero slider initialized with ${slides.length} slides`);
+        } catch (error) {
+          console.error('Hero slider initialization error:', error);
         }
       }
 
+      // Initialize when DOM is ready
       if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initSlider);
       } else {
