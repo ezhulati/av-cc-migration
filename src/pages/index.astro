@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import fs from 'fs';
+import path from 'path';
 
 const posts = await getCollection('posts', ({ data }) => {
   return data.language === 'en';
@@ -15,6 +17,26 @@ const pages = await getCollection('pages', ({ data }) => {
 
 // Sort posts by date (most recent first)
 posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+
+// Dynamically load hero images from /public/images/hero
+const heroImagesPath = path.join(process.cwd(), 'public', 'images', 'hero');
+const imageExtensions = ['.jpg', '.jpeg', '.png', '.webp', '.gif'];
+
+let heroImages: string[] = [];
+try {
+  const files = fs.readdirSync(heroImagesPath);
+  heroImages = files
+    .filter(file => {
+      const ext = path.extname(file).toLowerCase();
+      return imageExtensions.includes(ext) && !file.startsWith('.');
+    })
+    .sort() // Sort alphabetically for consistency
+    .map(file => `/images/hero/${file}`);
+} catch (err) {
+  console.error('Error reading hero images:', err);
+  // Fallback to a default image if directory doesn't exist
+  heroImages = ['/images/hero/VisitAlbania.jpeg'];
+}
 ---
 
 <BaseLayout
@@ -24,51 +46,22 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
   <!-- Hero Section with Image Slider -->
   <section class="hero-slider">
     <div class="slider-container">
-      <!-- Slide 1: Visit Albania (Main) -->
-      <div class="slide active" style="background-image: url('/images/hero/VisitAlbania.jpeg');">
-        <div class="slide-overlay"></div>
-      </div>
-
-      <!-- Slide 2: Ksamil Beach -->
-      <div class="slide" style="background-image: url('/images/attractions/ksamil-1-scaled.jpeg');">
-        <div class="slide-overlay"></div>
-      </div>
-
-      <!-- Slide 3: Gjipe Beach -->
-      <div class="slide" style="background-image: url('/images/destinations/Gjipe-Beach-blue-water-scaled.jpeg');">
-        <div class="slide-overlay"></div>
-      </div>
-
-      <!-- Slide 4: Himare Coast -->
-      <div class="slide" style="background-image: url('/images/destinations/Himare.jpeg');">
-        <div class="slide-overlay"></div>
-      </div>
-
-      <!-- Slide 5: Qeparo Village -->
-      <div class="slide" style="background-image: url('/images/destinations/TraditionalhousesQeparovillageAlbanianRiviera.jpeg');">
-        <div class="slide-overlay"></div>
-      </div>
-
-      <!-- Slide 6: Palase Beach -->
-      <div class="slide" style="background-image: url('/images/destinations/Palasë-scaled.jpeg');">
-        <div class="slide-overlay"></div>
-      </div>
-
-      <!-- Slide 7: Apollonia Archaeological Site -->
-      <div class="slide" style="background-image: url('/images/attractions/Apollonia-scaled.jpeg');">
-        <div class="slide-overlay"></div>
-      </div>
+      {heroImages.map((image, index) => (
+        <div class={`slide ${index === 0 ? 'active' : ''}`} style={`background-image: url('${image}');`}>
+          <div class="slide-overlay"></div>
+        </div>
+      ))}
     </div>
 
     <!-- Slider Dots Navigation -->
     <div class="slider-dots">
-      <button class="dot active" data-slide="0" aria-label="Go to slide 1"></button>
-      <button class="dot" data-slide="1" aria-label="Go to slide 2"></button>
-      <button class="dot" data-slide="2" aria-label="Go to slide 3"></button>
-      <button class="dot" data-slide="3" aria-label="Go to slide 4"></button>
-      <button class="dot" data-slide="4" aria-label="Go to slide 5"></button>
-      <button class="dot" data-slide="5" aria-label="Go to slide 6"></button>
-      <button class="dot" data-slide="6" aria-label="Go to slide 7"></button>
+      {heroImages.map((_, index) => (
+        <button
+          class={`dot ${index === 0 ? 'active' : ''}`}
+          data-slide={index}
+          aria-label={`Go to slide ${index + 1}`}
+        ></button>
+      ))}
     </div>
 
     <!-- Hero Content Overlay -->
@@ -205,14 +198,14 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
       opacity: 0 !important;
     }
 
-    /* Ken Burns effect variants for different slides */
-    .slide:nth-child(1).active { animation: kenburns-center 6.5s ease-out forwards; }
-    .slide:nth-child(2).active { animation: kenburns-top-right 6.5s ease-out forwards; }
-    .slide:nth-child(3).active { animation: kenburns-bottom-left 6.5s ease-out forwards; }
-    .slide:nth-child(4).active { animation: kenburns-left 6.5s ease-out forwards; }
-    .slide:nth-child(5).active { animation: kenburns-top-left 6.5s ease-out forwards; }
-    .slide:nth-child(6).active { animation: kenburns-right 6.5s ease-out forwards; }
-    .slide:nth-child(7).active { animation: kenburns-bottom-right 6.5s ease-out forwards; }
+    /* Ken Burns effect variants - cycles through 7 patterns for any number of slides */
+    .slide:nth-child(7n+1).active { animation: kenburns-center 6.5s ease-out forwards; }
+    .slide:nth-child(7n+2).active { animation: kenburns-top-right 6.5s ease-out forwards; }
+    .slide:nth-child(7n+3).active { animation: kenburns-bottom-left 6.5s ease-out forwards; }
+    .slide:nth-child(7n+4).active { animation: kenburns-left 6.5s ease-out forwards; }
+    .slide:nth-child(7n+5).active { animation: kenburns-top-left 6.5s ease-out forwards; }
+    .slide:nth-child(7n+6).active { animation: kenburns-right 6.5s ease-out forwards; }
+    .slide:nth-child(7n).active { animation: kenburns-bottom-right 6.5s ease-out forwards; }
 
     .slide-overlay {
       position: absolute;
