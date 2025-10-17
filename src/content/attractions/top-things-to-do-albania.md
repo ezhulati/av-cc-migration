@@ -3,7 +3,7 @@ title: 10 Things to See & Do in Albania
 description: From the sun-kissed beaches of the Albanian Riviera to the historical charm of Gjirokastër, this guide offers a comprehensive look at the top 10 must-do activities in Albania.
 type: ""
 location: ""
-featuredImage: /images/attractions/top-things-to-do-albania.jpg
+featuredImage: /images/attractions/albanian-riviera.jpg
 images: []
 language: en
 slug: top-things-to-do-albania

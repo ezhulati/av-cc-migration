@@ -3,7 +3,7 @@ title: Porto Palermo Castle
 description: Explore the historical marvel of Porto Palermo Castle in Albania—how it was built, why it matters in Albania's history, and what makes it a must-visit for any traveler.
 type: Castles &amp; Fortresses
 location: ""
-featuredImage: /images/attractions/porto-palermo-castle.jpg
+featuredImage: /images/attractions/castles-and-fortresses-in-albania.jpg
 images: []
 language: en
 slug: porto-palermo-castle

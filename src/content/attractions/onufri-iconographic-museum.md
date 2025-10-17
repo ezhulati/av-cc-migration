@@ -3,7 +3,7 @@ title: Onufri Museum
 description: Step into the world of Byzantine art at Onufri Iconographic Museum. Experience the history of Albania through a collection of 173 significant objects.
 type: Museums
 location: ""
-featuredImage: /images/attractions/onufri-iconographic-museum.jpg
+featuredImage: /images/attractions/berat-ethnographic-museum.jpg
 images: []
 language: en
 slug: onufri-iconographic-museum

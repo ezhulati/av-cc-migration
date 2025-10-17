@@ -3,7 +3,7 @@ title: The National History Museum
 description: Begin a historical exploration at the National History Museum, where Albania's rich and complex past unfolds through a series of captivating exhibits.
 type: Museums
 location: ""
-featuredImage: /images/attractions/national-history-museum.jpg
+featuredImage: /images/attractions/bunkart1.jpg
 images: []
 language: en
 slug: national-history-museum

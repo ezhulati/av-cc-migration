@@ -3,7 +3,7 @@ title: Kardhiq Castle
 description: Explore Kardhiq Castle's rich history and strategic architecture, a compelling destination that merges Albania's past with panoramic natural beauty.
 type: Castles &amp; Fortresses
 location: ""
-featuredImage: /images/attractions/kardhiq-castle.jpg
+featuredImage: /images/attractions/castles-and-fortresses-in-albania.jpg
 images: []
 language: en
 slug: kardhiq-castle

@@ -3,7 +3,7 @@ title: Mountain Peaks
 description: Beyond Albania’s sun-kissed coastline lies a hiker’s wonderland of jagged ridges, ice-blue tarns and windswept highland pastures grazed by free-roaming herds. Get ready to explore tumultuous history and unspoiled beauty as you journey skyward into the Balkans’ best mountains.
 type: Mountains
 location: ""
-featuredImage: /images/attractions/mountains.jpg
+featuredImage: /images/attractions/Gramoz-Mountains.jpeg
 images: []
 language: en
 slug: mountains
