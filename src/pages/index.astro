@@ -122,6 +122,7 @@ try {
           let autoSlide = null;
           let isHovered = false;
           let isVisible = true;
+          let isPausedByUser = false; // Track if user manually paused
           const slideInterval = 5000;
           const fadeCompleteDelay = 1000;
 
@@ -169,7 +170,7 @@ try {
 
           function startAutoSlide() {
             stopAutoSlide(); // Clear any existing interval
-            if (isVisible && !isHovered) {
+            if (isVisible && !isHovered && !isPausedByUser) {
               autoSlide = setInterval(nextSlide, slideInterval);
             }
           }
@@ -270,6 +271,30 @@ try {
 
             stopAutoSlide();
             setTimeout(startAutoSlide, slideInterval);
+          }
+
+          // Click/Tap to pause/resume slider
+          if (heroSlider) {
+            heroSlider.addEventListener('click', (e) => {
+              // Don't trigger if clicking navigation buttons
+              if (e.target.closest('.slider-nav') || e.target.closest('.hero-cta') || e.target.closest('.btn')) {
+                return;
+              }
+
+              // Toggle pause state
+              isPausedByUser = !isPausedByUser;
+
+              if (isPausedByUser) {
+                stopAutoSlide();
+                // Add visual feedback - subtle overlay indicator
+                heroSlider.classList.add('paused-by-user');
+                console.log('Hero slider: Paused by user');
+              } else {
+                heroSlider.classList.remove('paused-by-user');
+                startAutoSlide();
+                console.log('Hero slider: Resumed by user');
+              }
+            });
           }
 
           // Start the slider
