@@ -1,7 +1,7 @@
 ---
 title: JB Beach Apartment - Durrës
 description: The apartment itself boasts a generous layout, featuring a bedroom, a living room, and a terrace that presents breathtaking sea views. Guests can enjoy the comf
-featuredImage: "/images/accommodation/ALm5wu39-VGL37oWAmQ2oQNV3AfsrHNTeyRNwjSDsQdF_gs96-c64"
+featuredImage: "/images/accommodation/ALm5wu39-VGL37oWAmQ2oQNV3AfsrHNTeyRNwjSDsQdF_gs96-c64.png"
 language: en
 slug: jb-beach-apartment-durres
 images: []

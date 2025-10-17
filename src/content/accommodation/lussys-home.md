@@ -1,7 +1,7 @@
 ---
 title: Lussy's home
 description: The apartment itself is a testament to spacious living, boasting a balcony that offers serene garden views, a cozy bedroom for restful nights, a welcoming livin
-featuredImage: "/images/accommodation/AOh14Gj92FEXmZ_TVnYxQTDBHu9JM_B6WT60B19AlXOe5rUs96-c64"
+featuredImage: "/images/accommodation/AOh14Gj92FEXmZ_TVnYxQTDBHu9JM_B6WT60B19AlXOe5rUs96-c64.jpg"
 language: en
 slug: lussys-home
 images: []

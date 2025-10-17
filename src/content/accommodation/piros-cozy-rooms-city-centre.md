@@ -1,7 +1,7 @@
 ---
 title: Piro's Cozy Rooms - City Centre
 description: Guests at Piro's Cozy Rooms are treated to a seamless experience, with complimentary WiFi and parking adding to the ease of their stay. The tranquility of quiet
-featuredImage: "/images/accommodation/AOh14GjydZNbHC9E6LjvORm_7U5bJYPWK1Cj3nhMIsH1nws96-c64"
+featuredImage: "/images/accommodation/AOh14GjydZNbHC9E6LjvORm_7U5bJYPWK1Cj3nhMIsH1nws96-c64.jpg"
 language: en
 slug: piros-cozy-rooms-city-centre
 images: []

@@ -1,7 +1,7 @@
 ---
 title: Adrian's apartment
 description: Guests at Adrian's Apartment are treated to modern amenities that ensure a stay without compromise. The apartment boasts a sleek flat-screen TV, a washing machi
-featuredImage: "/images/accommodation/AATXAJxC_lTi-xc5qt93F9qdy6J8m7YhyPyoFP0TULN2s96-c64"
+featuredImage: "/images/accommodation/AATXAJxC_lTi-xc5qt93F9qdy6J8m7YhyPyoFP0TULN2s96-c64.png"
 language: en
 slug: adrians-apartment
 images: []

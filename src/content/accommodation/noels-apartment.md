@@ -1,7 +1,7 @@
 ---
 title: Noel's apartment
 description: Guests stepping into this spacious apartment are greeted with a tastefully furnished living space that opens onto a balcony offering panoramic views of the sea.
-featuredImage: "/images/accommodation/AOh14Ggpos_4UNrn6pi_FzxfUe9A-YTaIrLjMSeEdw5bs96-c64"
+featuredImage: "/images/accommodation/AOh14Ggpos_4UNrn6pi_FzxfUe9A-YTaIrLjMSeEdw5bs96-c64.jpg"
 language: en
 slug: noels-apartment
 images: []

@@ -1,7 +1,7 @@
 ---
 title: Erind's apartment,Pampas
 description: The apartment itself is a testament to spacious living, featuring a well-appointed bedroom, a cozy living room for relaxation, a fully equipped kitchen for thos
-featuredImage: "/images/accommodation/AOh14GgrsRWa3iEtwt0TkPgOJiY5Vm3tlsTs7RbFnE17iws96-c64"
+featuredImage: "/images/accommodation/AOh14GgrsRWa3iEtwt0TkPgOJiY5Vm3tlsTs7RbFnE17iws96-c64.jpg"
 language: en
 slug: erinds-apartmentpampas
 images: []

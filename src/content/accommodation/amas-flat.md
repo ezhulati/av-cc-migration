@@ -1,7 +1,7 @@
 ---
 title: AMA's flat
 description: This air-conditioned apartment doesn't just promise a place to stay; it offers a home away from home. With two generously sized bedrooms, a living space adorned
-featuredImage: "/images/accommodation/AOh14GiMizqYCGWTzucwpXJ_8BPXAMSP4MzLP_O2kvEMdAs96-c64"
+featuredImage: "/images/accommodation/AOh14GiMizqYCGWTzucwpXJ_8BPXAMSP4MzLP_O2kvEMdAs96-c64.png"
 language: en
 slug: amas-flat
 images: []

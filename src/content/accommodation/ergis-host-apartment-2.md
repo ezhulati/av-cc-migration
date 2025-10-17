@@ -1,7 +1,7 @@
 ---
 title: Ergi's Host Apartment
 description: This apartment doesn't just offer a place to stay; it provides a home away from home with its fully equipped kitchen, free WiFi, and a welcoming balcony that bo
-featuredImage: "/images/accommodation/AOh14Gg1JopbDE3fCRA_Z_ki6WMx0EgcYuALHuX-hb8Wuws96-c64"
+featuredImage: "/images/accommodation/AOh14Gg1JopbDE3fCRA_Z_ki6WMx0EgcYuALHuX-hb8Wuws96-c64.png"
 language: en
 slug: ergis-host-apartment-2
 images: []

@@ -1,7 +1,7 @@
 ---
 title: R&E Apartament
 description: This air-conditioned apartment doesn't just offer a place to stay; it provides a haven with city and sea views that can be enjoyed from the privacy of its balco
-featuredImage: "/images/accommodation/ACg8ocIR7jfBZ3AAvdXcQ5oGhj_cWt-2uAMbLzEwkCRKN1yegdMs96-c64"
+featuredImage: "/images/accommodation/ACg8ocIR7jfBZ3AAvdXcQ5oGhj_cWt-2uAMbLzEwkCRKN1yegdMs96-c64.jpg"
 language: en
 slug: re-apartament
 images: []

@@ -1,7 +1,7 @@
 ---
 title: 1+1 apartament in golem
 description: "The apartment itself is a spacious retreat, offering guests a balcony from which they can savor mountain views, a cozy bedroom for restful nights, and..."
-featuredImage: "/images/accommodation/AATXAJyURccqUA7sgV-AGXqgOlD9xWjA5R6UfHWn1Z1Us96-c64"
+featuredImage: "/images/accommodation/AATXAJyURccqUA7sgV-AGXqgOlD9xWjA5R6UfHWn1Z1Us96-c64.png"
 language: en
 slug: 11-apartament-in-golem
 images: []

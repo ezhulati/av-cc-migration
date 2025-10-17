@@ -1,7 +1,7 @@
 ---
 title: Gersi's Daily Apartament
 description: "This modern apartment doesn't just boast an ideal location; it comes fully equipped to meet the needs of contemporary travelers."
-featuredImage: "/images/accommodation/AOh14Gjcm6Y4HNlrNa_bY54vMH6qQuSbAKulde9kIV26s96-c64"
+featuredImage: "/images/accommodation/AOh14Gjcm6Y4HNlrNa_bY54vMH6qQuSbAKulde9kIV26s96-c64.jpg"
 language: en
 slug: gersis-daily-apartament
 images: []
