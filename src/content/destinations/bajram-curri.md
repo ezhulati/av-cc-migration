@@ -1,10 +1,12 @@
 ---
-title: "Bajram Curri - Authentic Blend of History, Culture & Nature"
+title: "Bajram Curri"
 description: "From its rich history and diverse culture to its stunning natural landscapes, find out why Bajram Curri is a must-visit."
 region: Northern Albania
 featuredImage: /images/destinations/bajram-curri.jpeg
 images:
   - "/images/destinations/bajram-curri.jpeg"
+  - "/images/destinations/Bajram-Curri-Tropoje-Albania.jpeg"
+  - "/images/destinations/Bajram_Curri_Qytet-2.jpg"
 coordinates:
   lat: 42.3578
   lng: 20.0081

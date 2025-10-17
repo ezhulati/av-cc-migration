@@ -1,5 +1,5 @@
 ---
-title: "Grabovë - Where Albania's Last Wild River Meets Authentic Agrotourism"
+title: "Grabovë"
 description: "Discover Grabovë, a stone village above the Vjosa Valley where Bujtina Te Xhako's farm-to-table cuisine (9.2 rating) represents Albanian agrotourism at its finest. Mountain trails, wild rivers, and authentic village life 30 minutes from Përmet."
 region: Southern Albania
 featuredImage: /images/destinations/DJI_0312.jpg
@@ -7,6 +7,8 @@ images:
   - "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
   - "/images/destinations/DSC06885.jpg"
   - "/images/destinations/DJI_0319.jpg"
+  - "/images/destinations/DJI_0312.jpg"
+  - "/images/destinations/Sarande-Ksamil.jpeg"
 coordinates:
   lat: 40.1833
   lng: 20.1667

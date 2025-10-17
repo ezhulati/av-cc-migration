@@ -1,5 +1,5 @@
 ---
-title: "Krujë - The Fortress Where Albania's National Hero Defied an Empire for 25 Years"
+title: "Krujë"
 description: "Discover Krujë, the mountain fortress where Gjergj Kastrioti Skanderbeg led Albanian resistance against the Ottoman Empire (1443-1468), creating the national identity that survives today through castle ruins, museums, and the 17th-century Old Bazaar."
 region: Northern Albania
 featuredImage: "/images/destinations/kruje.jpeg"
@@ -17,6 +17,13 @@ images:
   - "/images/destinations/Kruje-bazaar.jpg"
   - "/images/destinations/Kruje_View_From_Castle.jpeg"
   - "/images/accommodation/440800640.jpg"
+  - "/images/destinations/Kruje-6-scaled.jpeg"
+  - "/images/destinations/Kruja-1-scaled.jpeg"
+  - "/images/destinations/Kruje-2-scaled.jpeg"
+  - "/images/destinations/Kruje-4-scaled.jpeg"
+  - "/images/destinations/Kruje-Bazaar-scaled.jpeg"
+  - "/images/destinations/Kruje_View_From_Castle-scaled.jpeg"
+  - "/images/destinations/Kruje-Castle-and-its-fortress.jpeg"
 coordinates:
   lat: 41.5089
   lng: 19.7928

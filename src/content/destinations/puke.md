@@ -1,5 +1,5 @@
 ---
-title: "Pukë - Visit Albania's Rugged Alpine Mountain Escape"
+title: "Pukë"
 description: "Explore Pukë, Northern Albania's captivating blend of history, nature, and culture. Uncover its beauty, from majestic mountains & charming villages to rich culture."
 region: Northern Albania
 featuredImage: "/images/destinations/Puke-Albania.jpg"
@@ -26,6 +26,9 @@ images:
   - "/images/destinations/Mrizi-i-Zanave-Agroturizem-Albania.jpg"
   - "/images/destinations/Nkonak-Guesthouse-Puke-Albania.jpg"
   - "/images/destinations/Iballe-Guesthouse.jpg"
+  - "/images/destinations/Puke.png"
+  - "/images/destinations/Puke-albania.jpeg"
+  - "/images/destinations/Koman-Fierza-Lake-Albania.jpeg"
 coordinates:
   lat: 42.0453
   lng: 19.8983

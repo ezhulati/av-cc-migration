@@ -1,5 +1,5 @@
 ---
-title: "Pema e Thatë - Discover Albania's Historic Beach"
+title: "Pema e Thatë"
 description: "Discover Pema e Thatë, once a restricted military zone, now a stunning beach offering lush landscapes, rich history, and views of Greece across the strait."
 region: Beaches
 featuredImage: /images/destinations/Pema-e-Thate.jpg
@@ -10,6 +10,10 @@ images:
   - "/images/destinations/Pema-e-thate-1.jpg"
   - "/images/destinations/IMG_1939.jpeg"
   - "/images/destinations/IMG_1938.jpeg"
+  - "/images/destinations/Pema-e-Thate.jpg"
+  - "/images/destinations/IMG_1950.jpeg"
+  - "/images/destinations/IMG_1950-1.jpeg"
+  - "/images/destinations/IMG_1946.jpeg"
 coordinates:
   lat: 39.7667
   lng: 20.0167

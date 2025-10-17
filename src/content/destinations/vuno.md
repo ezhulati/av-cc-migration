@@ -1,5 +1,5 @@
 ---
-title: "Visit Vuno - Authentic Village Life On Albania's Riviera"
+title: "Vuno"
 description: "Planning a trip to Albania? Get travel tips about Vuno, a small coastal village on the Albanian Riviera - from accommodation and costs to seasonal changes."
 region: Albanian Riviera
 featuredImage: "/images/destinations/Village-of-Vuno-Albania.jpeg"
@@ -9,6 +9,7 @@ images:
   - "/images/destinations/Vuno-Albanian-village.jpeg"
   - "/images/destinations/Himare-Albanian-Riviera.jpeg"
   - "/images/destinations/Dhermi-beach.jpeg"
+  - "/images/destinations/White-houses-with-yellow-shutters-moutains-and-sea.-Vuno-Albania.jpeg"
 coordinates:
   lat: 40.1294
   lng: 19.7367

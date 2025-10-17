@@ -1,5 +1,5 @@
 ---
-title: "Tepelena - Discover Historic Tepelenë Along The Vjosa River"
+title: "Tepelena"
 description: "Explore Tepelenë's rich history along the Vjosa River, birthplace of Ali Pasha and a gateway to Southern Albania's natural beauty."
 region: Southern Albania
 featuredImage: "/images/destinations/Kalaja_e_Tepelenes.jpg"
@@ -9,6 +9,8 @@ images:
   - "/images/destinations/Kalaja_e_Tepelenes.jpg"
   - "/images/destinations/The-Cold-Water-spring-of-Tepelena-City.jpeg"
   - "/images/destinations/Lumi-Drino-river-Tepelene.jpeg"
+  - "/images/destinations/tepelene.jpg"
+  - "/images/destinations/Tepelene-scaled.jpeg"
 coordinates:
   lat: 40.2972
   lng: 20.0186

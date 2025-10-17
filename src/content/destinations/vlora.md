@@ -1,10 +1,16 @@
 ---
-title: "Vlorë Albania Travel Guide 2025 | Where Two Seas Meet"
+title: "Vlorë"
 description: "Discover the top attractions like beaches, nightlife, and historic sites in Vlora, Albania—things to do, where to stay, local cuisine, and planning tips."
 region: Southern Albania
 featuredImage: "/images/destinations/Vlora-main-scaled.jpeg"
 images:
   - "/images/destinations/Vlora-main-scaled.jpeg"
+  - "/images/destinations/Vlora-coastline.jpeg"
+  - "/images/destinations/Vlora-Historic-Center.jpeg"
+  - "/images/destinations/Vlore-Albania.jpeg"
+  - "/images/destinations/Vlora-city.jpeg"
+  - "/images/destinations/Vlora-city-1.jpeg"
+  - "/images/destinations/Kuzum-Baba-hill-Vlora.jpeg"
 coordinates:
   lat: 40.4686
   lng: 19.4914

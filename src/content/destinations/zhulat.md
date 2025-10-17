@@ -1,10 +1,16 @@
 ---
-title: "Zhulat - Albania's Historic Village of Law and Legend"
+title: "Zhulat"
 description: "Explore Zhulat, birthplace of the Kanun of Labëria and home to ancient castle ruins. Discover authentic Albanian village life and centuries of cultural heritage."
 region: Southern Albania
-featuredImage: "/images/destinations/Zhulati-Crest-1.png"
+featuredImage: "/images/destinations/Zhulati-Village-Albania.jpg"
 images:
+  - "/images/destinations/Zhulati-Village-Albania.jpg"
   - "/images/destinations/Zhulati-Crest-1.png"
+  - "/images/destinations/Zhulati-Family-Crest.jpg"
+  - "/images/destinations/Zhulati-Family.png"
+  - "/images/destinations/Zhulati.png"
+  - "/images/destinations/Zhulat-Family-Crest.jpg"
+  - "/images/destinations/Zhulati-Crest.png"
 coordinates:
   lat: 40.0997
   lng: 20.1539

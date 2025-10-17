@@ -1,10 +1,11 @@
 ---
-title: "Shëngjin - Adriatic Charm and Authentic Albania Combined"
+title: "Shëngjin"
 description: "Explore Shëngjin, Albania – a coastal gem where pristine Adriatic beaches, fresh seafood, and local hospitality create an authentic and rejuvenating escape."
 region: Northern Albania
 featuredImage: "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
 images:
   - "/images/destinations/St-Kyriaki-Shen-e-Diela-Church.jpg"
+  - "/images/destinations/Shengjini-beach-Albania.jpeg"
 coordinates:
   lat: 41.8133
   lng: 19.5983

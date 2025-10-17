@@ -1,11 +1,13 @@
 ---
-title: "Borsh Albania - Your Guide to the Riviera's 7km Beach (2025)"
+title: "Borsh"
 description: "Discover Borsh Beach, Albania's longest coastline. Travel tips on buses, stays, dining, and things to do for an authentic and affordable seaside escape."
 region: Albanian Riviera
 featuredImage: "/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg"
 images:
   - "/images/destinations/Borsh-Beach-Albania-2.jpg"
   - "/images/destinations/Borsh-Beach-Albanian-Riviera-2.jpg"
+  - "/images/destinations/Borsh-beach.jpeg"
+  - "/images/destinations/Borsh-Beach.jpg"
 coordinates:
   lat: 40.0342
   lng: 19.8681

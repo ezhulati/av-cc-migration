@@ -2,7 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import QuickContextBar from '../components/QuickContextBar.astro';
 import ExpandableSection from '../components/ExpandableSection.astro';
-import ImageSlider from '../components/ImageSlider.astro';
+import LightboxGallery from '../components/LightboxGallery.astro';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -124,11 +124,11 @@ const allImages = featuredImage ? [featuredImage, ...images] : images;
 
             <!-- Read More Button (inserted by JS) -->
 
-            <!-- Image Slider -->
+            <!-- Image Gallery -->
             {allImages.length > 0 && (
               <section class="gallery-section">
                 <h2 class="section-heading">Photo Gallery</h2>
-                <ImageSlider images={allImages} title={title} showThumbnails={true} />
+                <LightboxGallery images={allImages} title={title} />
               </section>
             )}
 
@@ -631,6 +631,17 @@ const allImages = featuredImage ? [featuredImage, ...images] : images;
       position: sticky;
       top: 12rem; /* Add space below the navigation header */
       align-self: flex-start;
+      max-height: calc(100vh - 13rem);
+      overflow-y: auto;
+      overflow-x: hidden;
+      /* Hide scrollbar but keep functionality */
+      scrollbar-width: none; /* Firefox */
+      -ms-overflow-style: none; /* IE and Edge */
+    }
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .sidebar::-webkit-scrollbar {
+      display: none;
     }
   }
 

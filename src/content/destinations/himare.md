@@ -1,5 +1,5 @@
 ---
-title: "Himarë - Where Two Names Guard the Same Riviera Coastline"
+title: "Himarë"
 description: "Discover Himarë/Himara, the Albanian Riviera's most culturally complex town where Greek-speaking villagers, ancient castle fortifications, and contested identity meet turquoise Ionian coves beneath the Ceraunian Mountains."
 region: Southern Albania
 featuredImage: "/images/destinations/Himare.jpeg"
@@ -16,6 +16,14 @@ images:
   - "/images/destinations/IMG_2321.jpg"
   - "/images/destinations/IMG_3522.jpg"
   - "/images/destinations/IMG_2455.jpg"
+  - "/images/destinations/Himare.jpg"
+  - "/images/destinations/Himare-albania.jpg"
+  - "/images/destinations/Himare-castle.jpg"
+  - "/images/destinations/Livadhi-Beach-Himara.jpeg"
+  - "/images/destinations/Himare_1.jpeg"
+  - "/images/destinations/Ali-Pasha-Porto-Palermo-Castle-Himare.jpeg"
+  - "/images/destinations/IMG_2375.jpeg"
+  - "/images/destinations/Stema_e_Bashkise_Himare.svg"
 coordinates:
   lat: 40.1014
   lng: 19.7442

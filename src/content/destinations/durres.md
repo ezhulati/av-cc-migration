@@ -1,5 +1,5 @@
 ---
-title: "Durrës - Where Rome's Largest Balkan Amphitheater Hides in Plain Sight"
+title: "Durrës"
 description: "Discover Durrës, Albania's ancient port where a 15,000-seat Roman amphitheater sits beneath modern apartments, and 2,700 years of Adriatic history meet contemporary beach culture."
 region: Central Albania
 featuredImage: "/images/destinations/Durres.jpeg"
@@ -14,6 +14,18 @@ images:
   - "/images/destinations/Great-Mosque-of-Durres-or-Grand-Mosque-of-Durres-Fatih-Mosque-.jpeg"
   - "/images/destinations/Golem-Durres-Albania.jpeg"
   - "/images/destinations/Amphitheatre-Durres-Albania-.jpeg"
+  - "/images/destinations/Durres-3.jpeg"
+  - "/images/destinations/sandy-beach-in-Durres-Adriatic-Sea-scaled.jpeg"
+  - "/images/destinations/Great-Mosque-of-Durres-or-Grand-Mosque-of-Durres-Fatih-Mosque--scaled.jpeg"
+  - "/images/destinations/Roman-amphitheater-in-Durres-scaled.jpeg"
+  - "/images/destinations/Monument-of-Partisan-in-Durres-Albania-scaled.jpeg"
+  - "/images/destinations/Durres-scaled.jpeg"
+  - "/images/destinations/Durres-Albania-scaled.jpeg"
+  - "/images/destinations/Durres-Amphitheatre.jpg"
+  - "/images/destinations/Durres-Beach.jpg"
+  - "/images/destinations/Durres-city-and-port.jpeg"
+  - "/images/destinations/Durres-Albania-1.jpeg"
+  - "/images/destinations/Durres-2.jpeg"
 coordinates:
   lat: 41.3237
   lng: 19.4569

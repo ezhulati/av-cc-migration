@@ -1,5 +1,5 @@
 ---
-title: "Discover Theth - Albania"
+title: "Theth"
 description: "Fairytale natural beauty and friendly locals make Thethi an attractive tourist destination in the northern Albanian Alps."
 region: Northern Albania
 featuredImage: "/images/destinations/theth.jpg"
@@ -8,6 +8,10 @@ images:
   - "/images/destinations/Thethi-Northen-Albanian-Alps.jpeg"
   - "/images/destinations/Theth-National-Park.-Shkoder-County-Albania.jpeg"
   - "/images/destinations/hiking-from-Theth-Valley-to-Valbona-Valley-in-Albanian-Alps-1.jpeg"
+  - "/images/destinations/Theth07_AlbaniaVisit.com_.jpg"
+  - "/images/destinations/Thoth-scaled.jpeg"
+  - "/images/destinations/Teth03_AlbaniaVisit.com_.jpg"
+  - "/images/destinations/Teth02_AlbaniaVisit.com_.jpg"
 coordinates:
   lat: 42.3944
   lng: 19.7764

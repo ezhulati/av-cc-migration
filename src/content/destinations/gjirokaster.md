@@ -1,5 +1,5 @@
 ---
-title: "Gjirokastër - The Stone City Where a Dictator and Poet Share a Birthplace"
+title: "Gjirokastër"
 description: "Discover Gjirokastër, Albania's UNESCO 'City of Stone' where Ottoman tower houses cascade down mountains, a 12th-century fortress holds Cold War secrets, and both dictator Enver Hoxha and Nobel-nominated writer Ismail Kadare were born."
 region: Southern Albania
 featuredImage: "/images/destinations/gjirokaster.jpeg"
@@ -10,6 +10,10 @@ images:
   - "/images/destinations/Gjirokastra.jpeg"
   - "/images/activities/Gjirokastra-Citadel-Castle.jpeg"
   - "/images/destinations/Gjirokastra.jpg"
+  - "/images/destinations/Gjirokaster-scaled.jpeg"
+  - "/images/destinations/Gjirokaster-old-town-city.jpeg"
+  - "/images/destinations/Clock-tower-in-the-castle-in-Gjirokaster-Albania.jpeg"
+  - "/images/destinations/Stema_e_Bashkise_Gjirokaster.svg"
 coordinates:
   lat: 40.0758
   lng: 20.1389

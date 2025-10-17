@@ -1,5 +1,5 @@
 ---
-title: "The Apollonia Archaeological Park: A Window into the Past"
+title: "Apollonia"
 description: "Discover the ancient ruins of Apollonia to explore a piece of Albania's rich history. Walk amid well-preserved artifacts from a city that once shaped Mediterranean culture."
 region: Southern Albania
 featuredImage: "/images/destinations/Apollonia.jpeg"
@@ -9,6 +9,15 @@ images:
   - "/images/destinations/apollonia-roman-temple-albania.jpg"
   - "/images/destinations/Apollonia.jpeg"
   - "/images/destinations/apollonia-temple-albania.jpg"
+  - "/images/destinations/Apollonia.jpg"
+  - "/images/destinations/Apollonia-scaled.jpeg"
+  - "/images/destinations/Apollonia_albania_temple_ruins-scaled.jpeg"
+  - "/images/destinations/apollonia-albania-visit-scaled.jpeg"
+  - "/images/destinations/Apollonia_albania_temple_ruins-1-scaled.jpeg"
+  - "/images/destinations/apollonia-albania-visit-1-scaled.jpeg"
+  - "/images/destinations/apollonia-albania-visit-5-scaled.jpeg"
+  - "/images/destinations/apollonia-albania-visit-4-scaled.jpeg"
+  - "/images/destinations/apollonia-albania-monestary.jpg"
 coordinates:
   lat: 40.7264
   lng: 19.4753

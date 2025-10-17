@@ -170,12 +170,23 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
       opacity: 0;
       transition: opacity 1.5s ease-in-out;
       z-index: 1;
+      will-change: transform;
     }
 
     .slide.active {
       opacity: 1;
       z-index: 2;
+      animation: kenburns 20s ease-out forwards;
     }
+
+    /* Ken Burns effect variants for different slides */
+    .slide:nth-child(1).active { animation: kenburns-center 20s ease-out forwards; }
+    .slide:nth-child(2).active { animation: kenburns-top-right 20s ease-out forwards; }
+    .slide:nth-child(3).active { animation: kenburns-bottom-left 20s ease-out forwards; }
+    .slide:nth-child(4).active { animation: kenburns-left 20s ease-out forwards; }
+    .slide:nth-child(5).active { animation: kenburns-top-left 20s ease-out forwards; }
+    .slide:nth-child(6).active { animation: kenburns-right 20s ease-out forwards; }
+    .slide:nth-child(7).active { animation: kenburns-bottom-right 20s ease-out forwards; }
 
     .slide-overlay {
       position: absolute;
@@ -286,6 +297,77 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
     .animate-slide-up {
       animation: slide-up 1s ease-out 0.3s forwards;
       opacity: 0;
+    }
+
+    /* Ken Burns Effect Keyframe Animations */
+    @keyframes kenburns-center {
+      0% {
+        transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+      }
+      100% {
+        transform: translate3d(0, 0, 0) scale3d(1.15, 1.15, 1);
+      }
+    }
+
+    @keyframes kenburns-top-right {
+      0% {
+        transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+      }
+      100% {
+        transform: translate3d(-5%, -5%, 0) scale3d(1.15, 1.15, 1);
+      }
+    }
+
+    @keyframes kenburns-bottom-left {
+      0% {
+        transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+      }
+      100% {
+        transform: translate3d(5%, 5%, 0) scale3d(1.15, 1.15, 1);
+      }
+    }
+
+    @keyframes kenburns-left {
+      0% {
+        transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+      }
+      100% {
+        transform: translate3d(5%, 0, 0) scale3d(1.15, 1.15, 1);
+      }
+    }
+
+    @keyframes kenburns-top-left {
+      0% {
+        transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+      }
+      100% {
+        transform: translate3d(5%, -5%, 0) scale3d(1.15, 1.15, 1);
+      }
+    }
+
+    @keyframes kenburns-right {
+      0% {
+        transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+      }
+      100% {
+        transform: translate3d(-5%, 0, 0) scale3d(1.15, 1.15, 1);
+      }
+    }
+
+    @keyframes kenburns-bottom-right {
+      0% {
+        transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+      }
+      100% {
+        transform: translate3d(-5%, 5%, 0) scale3d(1.15, 1.15, 1);
+      }
+    }
+
+    /* Accessibility: Respect user's motion preferences */
+    @media (prefers-reduced-motion: reduce) {
+      .slide.active {
+        animation: none;
+      }
     }
 
     /* Responsive */

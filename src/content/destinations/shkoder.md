@@ -1,5 +1,5 @@
 ---
-title: "Discover Shkodër - Albania"
+title: "Shkodër"
 description: "Explore Shkodër's rich heritage, vibrant culture, and natural wonders—a perfect blend of ancient history, modernity, and breathtaking landscapes."
 region: Northern Albania
 featuredImage: "/images/destinations/shkoder.jpeg"
@@ -14,6 +14,9 @@ images:
   - "/images/destinations/Albania-Shkodra_AdobeStock_660856172.jpeg"
   - "/images/destinations/Rozafa-Castle-Fortress-in-Shkoder-Albania_AdobeStock_272041047.jpeg"
   - "/images/destinations/Saint-Francis-Catholic-Church-bell-tower-Shkodra-Albania_AdobeStock_361575021.jpeg"
+  - "/images/destinations/Shkodra-scaled.jpeg"
+  - "/images/destinations/Rozafa-Castle-Shkoder.jpeg"
+  - "/images/destinations/Rozafa-castle-Ramparts-and-Bojana-river-Shkodra-Albania_AdobeStock_361574682.jpeg"
 coordinates:
   lat: 42.0683
   lng: 19.5156

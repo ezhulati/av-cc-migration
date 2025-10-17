@@ -1,5 +1,5 @@
 ---
-title: "Korçë - Where Albania's First Albanian-Language School Defied an Empire"
+title: "Korçë"
 description: "Discover Korçë, southeastern Albania's intellectual capital where the first Albanian-language school opened in 1887, the National Museum of Medieval Art houses Balkans' finest Byzantine collection, and Korça Brewery (est. 1928) still produces Albania's most iconic beer."
 region: Southern Albania
 featuredImage: /images/destinations/Korce-scaled.jpeg

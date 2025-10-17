@@ -8,6 +8,7 @@
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import LightboxGallery from '../../components/LightboxGallery.astro';
 
 export async function getStaticPaths() {
   const destinations = await getCollection('destinations', ({ data }) => {
@@ -105,17 +106,11 @@ const slug = destination.slug;
             <Content />
           </div>
 
-          <!-- Gallery -->
+          <!-- Photo Gallery -->
           {images && images.length > 0 && (
             <section class="gallery">
-              <h2 class="gallery__title">Gallery</h2>
-              <div class="gallery__grid">
-                {images.map((img, index) => (
-                  <figure class="gallery__item">
-                    <img src={img} alt={`${title} ${index + 1}`} loading="lazy" />
-                  </figure>
-                ))}
-              </div>
+              <h2 class="gallery__title">Photo Gallery</h2>
+              <LightboxGallery images={images} title={title} />
             </section>
           )}
 

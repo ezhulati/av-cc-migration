@@ -1,5 +1,5 @@
 ---
-title: "Discover Valbona - Albania's Alpine Wonder | Visit Albania"
+title: "Valbona"
 description: "Discover Valbona, Albania's alpine paradise. Hike stunning trails, explore traditional villages, and experience the untamed beauty of the Albanian Alps."
 region: Northern Albania
 featuredImage: /images/destinations/valbona.jpeg
@@ -22,6 +22,8 @@ images:
   - "/images/destinations/Valbona-to-Theth-Trail-Outpost.jpg"
   - "/images/destinations/Raki-Valbona-edited-5f44c739.jpg"
   - "/images/destinations/Valbona-Valley.jpg"
+  - "/images/destinations/Valbona-valley.jpeg"
+  - "/images/destinations/Valbona-Valley-Albania.jpg"
 coordinates:
   lat: 42.4139
   lng: 19.9339

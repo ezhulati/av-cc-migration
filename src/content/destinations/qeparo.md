@@ -1,5 +1,5 @@
 ---
-title: "Qeparo - A Quaint Seaside Village in the Albanian Riviera"
+title: "Qeparo"
 description: "Explore Qeparo, a peaceful seaside village on the Albanian Riviera with pristine beaches, historical sites, and traditional architecture and authentic Albania."
 region: Southern Albania
 featuredImage: "/images/destinations/Traditional-houses-Qeparo-village-Albanian-Riviera.jpeg"
@@ -12,6 +12,11 @@ images:
   - "/images/destinations/IMG_2333.jpeg"
   - "/images/destinations/dji_fly_20240820_185014_107_1724216491719_photo.jpg"
   - "/images/destinations/dji_fly_20240820_201928_159_1724221289993_photo.jpg"
+  - "/images/destinations/Qeparo-Albanian-Riviera-scaled.jpeg"
+  - "/images/destinations/Qeparo-village.jpeg"
+  - "/images/destinations/62AF0BD8-3A10-496E-A4ED-BF51784F3BCF_4_5005_c.jpeg"
+  - "/images/destinations/C5887EA6-A96E-4E98-9B56-8CB5858F83AF_1_201_a.heic"
+  - "/images/destinations/C5887EA6-A96E-4E98-9B56-8CB5858F83AF_1_201_a-1.heic"
 coordinates:
   lat: 40.0625
   lng: 19.8236

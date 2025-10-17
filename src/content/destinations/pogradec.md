@@ -1,5 +1,5 @@
 ---
-title: "Discover Pogradec - Albania's Pristine Lakeside Wonderland"
+title: "Pogradec"
 description: "Explore Pogradec, Albania, where the serene beauty of Lake Ohrid meets rich history and vibrant culture. Uncover this picturesque haven, and explore its wonders."
 region: Southern Albania
 featuredImage: "/images/destinations/pogradec.jpeg"
@@ -18,6 +18,13 @@ images:
   - "/images/destinations/Pogradec-_DSC02002.jpg"
   - "/images/destinations/Pogradec-_DSC02011.jpg"
   - "/images/destinations/Pogradec_DSC01958.jpg"
+  - "/images/destinations/Pogradec-scaled.jpeg"
+  - "/images/destinations/Pogradec-Albania-scaled.jpeg"
+  - "/images/destinations/Pogradec-city-scaled.jpeg"
+  - "/images/destinations/Pogradec-Lake-Ohrid-Albania-scaled.jpeg"
+  - "/images/destinations/Pogradec-town.jpeg"
+  - "/images/destinations/Drilon-National-Park.jpeg"
+  - "/images/destinations/Driloni-National-Park.jpeg"
 coordinates:
   lat: 40.9025
   lng: 20.6525

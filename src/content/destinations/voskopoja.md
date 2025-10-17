@@ -1,5 +1,5 @@
 ---
-title: "Discover Voskopoja - Albania's Historic Mountain Village"
+title: "Voskopoja"
 description: "Explore Voskopoja, Albania's hidden gem with Byzantine churches, cobbled streets, and stunning trails. Plan your visit to this historic mountain retreat today."
 region: Mountains
 featuredImage: /images/destinations/Voskopoja.jpeg

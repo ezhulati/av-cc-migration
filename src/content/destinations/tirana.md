@@ -1,5 +1,5 @@
 ---
-title: "Discover Tirana - Albania's Vibrant Capital City"
+title: "Tirana"
 description: "Discover Tirana, Albania's bold capital, where history meets modern life. Explore Skanderbeg Square, Mount Dajti, vibrant cafes, and rich culture."
 region: Central Albania
 featuredImage: /images/destinations/AdobeStock_287498228.jpeg
@@ -19,6 +19,27 @@ images:
   - "/images/posts/WWII-bunker-BunkArt-Albania.jpeg"
   - "/images/destinations/Dajti-National-Park.jpeg"
   - "/images/destinations/Tirana-capital-city-view-from-east-hills-Cable-Car.jpg"
+  - "/images/destinations/Tirana-1.jpg"
+  - "/images/destinations/Tirana-Albania.jpeg"
+  - "/images/destinations/View-over-Tirana.jpeg"
+  - "/images/destinations/Palace-of-Culture-or-Opera-at-Skanderbeg-Square-in-Tirana.jpeg"
+  - "/images/destinations/Skanderbeg-Square-1.jpeg"
+  - "/images/destinations/Tirana.jpg"
+  - "/images/destinations/Overhead-view-Tirana.jpeg"
+  - "/images/destinations/Coffee-Culture-Albania.jpeg"
+  - "/images/destinations/Tirana-Night.jpeg"
+  - "/images/destinations/Market-Tirana.jpeg"
+  - "/images/destinations/National-Theatre-of-Opera-and-Ballet-of-Albania.jpeg"
+  - "/images/destinations/Namazgjah-Mosque-in-Tirana.jpeg"
+  - "/images/destinations/Ethem-Bey-Mosque.jpeg"
+  - "/images/destinations/market-in-tirana.jpeg"
+  - "/images/destinations/National-Theatre-of-Opera-and-Ballet-of-Albania-1.jpeg"
+  - "/images/destinations/Skanderbeg-Square-2.jpg"
+  - "/images/destinations/Landscape-of-Tirana-viewed-behind-a-fountain-on-an-artificial-lake-Albania.jpeg"
+  - "/images/destinations/Tirana-Komiteti.jpg"
+  - "/images/destinations/Tirana-Traffic.jpeg"
+  - "/images/destinations/Screenshot-2023-12-26-at-5.23.16 PM.png"
+  - "/images/destinations/Stema_e_Bashkise_Tirane.svg"
 coordinates:
   lat: 41.3275
   lng: 19.8187

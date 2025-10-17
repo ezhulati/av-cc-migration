@@ -1,5 +1,5 @@
 ---
-title: "Dhërmi - Where Orthodox Tradition Meets Riviera Transformation"
+title: "Dhërmi"
 description: "Discover Dhërmi's duality: a historic Orthodox hilltop village overlooking beaches that host Europe's electronic music festivals. The Albanian Riviera's most fascinating cultural collision."
 region: Albanian Riviera
 featuredImage: /images/destinations/dhermi.jpeg
@@ -12,6 +12,24 @@ images:
   - "/images/destinations/Dhermi.jpg"
   - "/images/destinations/Vuno-Dhermi-Albanian-Riviera.jpeg"
   - "/images/destinations/AdobeStock_443014451.jpeg"
+  - "/images/destinations/dhermi-1.jpeg"
+  - "/images/destinations/Dhermi-scaled.jpeg"
+  - "/images/destinations/GOPR3314-scaled.jpg"
+  - "/images/destinations/GOPR3389-scaled.jpg"
+  - "/images/destinations/Dhermi-beach-albania-scaled.jpeg"
+  - "/images/destinations/Dhermi-Beach-Albania-1-scaled.jpeg"
+  - "/images/destinations/Dhermi-Albania-scaled.jpeg"
+  - "/images/destinations/Dhermi-Beach-Albanian-Riviera-scaled.jpeg"
+  - "/images/destinations/Dhermi-Beach-Riviera--scaled.jpeg"
+  - "/images/destinations/AdobeStock_472988316-scaled.jpeg"
+  - "/images/destinations/Dhërmi-Albania-scaled.jpeg"
+  - "/images/destinations/Bambo-bar-Dhermi-scaled.jpeg"
+  - "/images/destinations/Dhermi-Beach-Bar-scaled.jpeg"
+  - "/images/destinations/The-Albanian-Riviera.jpeg"
+  - "/images/destinations/Qeparo-Albanian-Riviera-scaled.jpeg"
+  - "/images/destinations/AdobeStock_443014451-scaled.jpeg"
+  - "/images/destinations/james-grant-jody-wisternoff-live.jpg"
+  - "/images/destinations/kala-2019-highlights.jpg"
 coordinates:
   lat: 40.1533
   lng: 19.6397

@@ -1,5 +1,5 @@
 ---
-title: "Gjipe Beach - The Last Wild Canyon Before Development Arrives"
+title: "Gjipe Beach"
 description: "Discover Gjipe Beach, where an 800-meter Triassic canyon meets the Ionian Sea - accessible only by steep hike or boat, camping on pebbles beneath 150-meter limestone walls. Albania's most dramatic beach, for now."
 region: Albanian Riviera
 featuredImage: "/images/destinations/gjipe.jpeg"
@@ -26,6 +26,8 @@ images:
   - "/images/destinations/Llogara-pass-in-Albania-1.jpeg"
   - "/images/destinations/Gjipe_DJI_0496.jpg"
   - "/images/destinations/Gjipe_DSC07614.jpg"
+  - "/images/destinations/Gjipe-copy-scaled.jpeg"
+  - "/images/destinations/Gjipe-Beach-Albania-scaled.jpeg"
 coordinates:
   lat: 40.1167
   lng: 19.6333

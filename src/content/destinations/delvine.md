@@ -1,10 +1,12 @@
 ---
-title: "Delvinë - Where Ancient Phoenike Meets Mountain Albania"
+title: "Delvinë"
 description: "Discover Delvinë, a mountain town gateway to Phoenike's ancient ruins, the Blue Eye spring, and authentic southern Albanian culture between the coast and highlands."
 region: Southern Albania
 featuredImage: /images/destinations/Blue-eye-Delvine-scaled.jpeg
 images:
   - "/images/destinations/Blue-eye-Delvine-scaled.jpeg"
+  - "/images/destinations/Delvine-Albania.jpeg"
+  - "/images/destinations/Delvine-Albania-1.jpeg"
 coordinates:
   lat: 40.0167
   lng: 20.1000
