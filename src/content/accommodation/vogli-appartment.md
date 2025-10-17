@@ -1,7 +1,7 @@
 ---
 title: "Vogli Appartment"
 description: "Vogli Appartment emerges as a serene retreat in the vibrant city of Durrës, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480029290.jpg?k=d2654b29cee0c6feda8fe4556a67be1acad56858d7a56e3c237725d9f040ead0&o=&hp=1"
+featuredImage: "/images/accommodation/vogli-appartment-480029290.jpg"
 language: en
 slug: vogli-appartment
 address: "Rruga Pavaresia, Durrës, Albania"

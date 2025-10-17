@@ -1,7 +1,7 @@
 ---
 title: "Central Studio Apartments"
 description: "Central Studio Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/central-studio-apartments-0e43c9b9a23d.jpg"
 language: en
 slug: central-studio-apartments
 address: "Rruga Shyqyri Berxolli, P 53, 1001 Tirana, Albania"

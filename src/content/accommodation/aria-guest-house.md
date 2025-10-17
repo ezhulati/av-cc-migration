@@ -1,7 +1,7 @@
 ---
 title: "Aria Guest house"
 description: "Aria Guest House, located a mere stone's throw from the pristine shores of Prinos Beach in Himare, presents a charming retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266553225.jpg?k=defe57964637b5470a64c39004418c5a81118102354c795bbe62306f5f580b01&o=&hp=1"
+featuredImage: "/images/accommodation/aria-guest-house-266553225.jpg"
 language: en
 slug: aria-guest-house
 address: "SH8, 1000 Himare, Albania"

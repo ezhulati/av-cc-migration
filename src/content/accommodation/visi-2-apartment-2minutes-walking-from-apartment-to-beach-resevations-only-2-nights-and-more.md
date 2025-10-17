@@ -1,7 +1,7 @@
 ---
 title: "VISI 2 APARTMENT 2minutes walking from apartment to beach resevations only 2 nights and more"
 description: "VISI 2 APARTMENT stands as a prime choice for travelers seeking the perfect blend of convenience and comfort during their stay in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481679990.jpg?k=eeda9cd2ca48d77c232b695ef1aa77f7726e09cb3999308ee774b4223aad95bc&o=&hp=1"
+featuredImage: "/images/accommodation/visi-2-apartment-2minutes-walking-from-apartment-to-beach-resevations-only-2-nights-and-more-481679990.jpg"
 language: en
 slug: visi-2-apartment-2minutes-walking-from-apartment-to-beach-resevations-only-2-nights-and-more
 address: "Rruga Iliria, 2001 Durrës, Albania"

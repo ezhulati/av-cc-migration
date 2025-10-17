@@ -1,7 +1,7 @@
 ---
 title: "Apartments in White Residence"
 description: "Apartments in White Residence, located in the vibrant heart of Sarandë, offers an exceptional stay mere steps away from the pristine Santa Quaranta and VIP Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242302806.jpg?k=2d07302b782696baa6ea09aea6e8ac35fdc17c3a13cdd3e476f6ef5e0f4b0674&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-in-white-residence-242302806.jpg"
 language: en
 slug: apartments-in-white-residence
 address: "Rruga Butrinti, Sarandë 9702, Албания квартира №6, этаж 3, 9702 Sarandë, Albania"

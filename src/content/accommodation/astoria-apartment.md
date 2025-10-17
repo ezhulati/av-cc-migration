@@ -1,7 +1,7 @@
 ---
 title: "Astoria Apartment"
 description: "Astoria Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489082678.jpg?k=d994c7d5d8a9595b71c6c5be794e199b1e256d4e04f3aa51c0c8d230c84e8b7b&o=&hp=1"
+featuredImage: "/images/accommodation/astoria-apartment-489082678.jpg"
 language: en
 slug: astoria-apartment
 address: "Rruga Tish Dahia, 1060 Tirana, Albania"

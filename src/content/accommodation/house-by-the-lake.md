@@ -1,7 +1,7 @@
 ---
 title: "House by the lake"
 description: "House by the Lake emerges as a serene beachfront haven in Pogradec, offering guests an intimate escape with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321856872.jpg?k=ecc7b5addf55b448acf7b70df092547af77d3f44a27ca61c86ed816eb0886e0e&o=&hp=1"
+featuredImage: "/images/accommodation/house-by-the-lake-321856872.jpg"
 language: en
 slug: house-by-the-lake
 address: "tushemisht, pogradec, albania, 7301 Pogradec, Albania"

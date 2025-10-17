@@ -1,7 +1,7 @@
 ---
 title: "Nord House"
 description: "Nord House emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, situated a mere 42 km from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329463037.jpg?k=2fbe2777aea14e8cc2861f9f164e2e555e04c8352fd558feef487c35cbcd697f&o=&hp=1"
+featuredImage: "/images/accommodation/nord-house-329463037.jpg"
 language: en
 slug: nord-house
 address: "Rruga Midhi Kostani, 7001 Korçë, Albania"

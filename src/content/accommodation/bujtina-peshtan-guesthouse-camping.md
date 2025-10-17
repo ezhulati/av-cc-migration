@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Peshtan Guesthouse&Camping"
 description: "Bujtina Peshtan Guesthouse&Camping, a recently renovated haven in Tepelenë, offers a unique blend of comfort and convenience for travelers seeking an escape from the ordinary."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495947909.jpg?k=c7c2a186a8630b91ba079f6a3b3a9a258eba80105f711e324703265d1aef4a3d&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-peshtan-guesthouse-camping-495947909.jpg"
 language: en
 slug: bujtina-peshtan-guesthouse-camping
 address: "Peshtan, Tepelene, 6300 Tepelenë, Albania"

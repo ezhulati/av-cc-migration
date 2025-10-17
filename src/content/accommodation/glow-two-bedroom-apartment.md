@@ -1,7 +1,7 @@
 ---
 title: "Glow Two Bedroom Apartment"
 description: "Glow Two Bedroom Apartment emerges as a prime choice for travelers seeking comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/glow-two-bedroom-apartment-29d5c93ac695.jpg"
 language: en
 slug: glow-two-bedroom-apartment
 address: "Rruga Baba Sherifi, 9706 Ksamil, Albania"

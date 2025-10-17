@@ -1,7 +1,7 @@
 ---
 title: "Durres Rebi Apartment"
 description: "Discover the charm of Durrës with a stay at Durres Rebi Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407324044.jpg?k=3b74d9e825e8942ca294e638e78158f9b3e244ea11d17e5708d2da3db462de06&o=&hp=1"
+featuredImage: "/images/accommodation/durres-rebi-apartment-407324044.jpg"
 language: en
 slug: durres-rebi-apartment
 address: "Rruga Agostin Serreqi, 2001 Durrës, Albania"

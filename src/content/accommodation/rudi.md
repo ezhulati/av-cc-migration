@@ -1,7 +1,7 @@
 ---
 title: "Rudi"
 description: "Rudi emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514361941.jpg?k=4951a6090377afeae30d6597b7467af1ac28539cf5b131ea7a7b6f0e9c9b0c9a&o=&hp=1"
+featuredImage: "/images/accommodation/rudi-514361941.jpg"
 language: en
 slug: rudi
 address: "Rruga Shyqyri Ishmi, 1001 Tirana, Albania"

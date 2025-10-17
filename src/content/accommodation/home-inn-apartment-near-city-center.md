@@ -1,7 +1,7 @@
 ---
 title: "Home Inn Apartment near City Center"
 description: "Discover the charm of Tirana with a stay at Home Inn Apartment, a prime choice for travelers seeking convenience and comfort close to the city center."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498835967.jpg?k=ee11cdf12b6c60a1b00934d067817109029ed015f5d8d3dad5c8a69f11592ebf&o=&hp=1"
+featuredImage: "/images/accommodation/home-inn-apartment-near-city-center-498835967.jpg"
 language: en
 slug: home-inn-apartment-near-city-center
 address: "Rruga Muhamet Gjollesha, 1001 Tirana, Albania"

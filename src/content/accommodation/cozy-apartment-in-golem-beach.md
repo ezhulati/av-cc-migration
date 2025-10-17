@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartment in Golem Beach"
 description: "Cozy Apartment in Golem Beach emerges as a prime choice for travelers seeking a serene getaway in the heart of the Tirana County region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498136952.jpg?k=11db8bb7719c802553a4ed0b210108d69c561c34587d4e1323d0da1d7682c35b&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-in-golem-beach-498136952.jpg"
 language: en
 slug: cozy-apartment-in-golem-beach
 address: "https://g.co/kgs/JFwbAU, Golem, Albania"

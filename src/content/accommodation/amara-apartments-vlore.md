@@ -1,7 +1,7 @@
 ---
 title: "Amara Apartments Vlore"
 description: "Amara Apartments Vlore stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460936041.jpg?k=6e8118660ec182105d264ad2506efb7fa66824a661da2eef9e7a189f82ec164c&o=&hp=1"
+featuredImage: "/images/accommodation/amara-apartments-vlore-460936041.jpg"
 language: en
 slug: amara-apartments-vlore
 address: "Rruga Uji i Ftohte, 9402 Vlorë, Albania"

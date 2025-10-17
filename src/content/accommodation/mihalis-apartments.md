@@ -1,7 +1,7 @@
 ---
 title: "Mihalis Apartments"
 description: "Mihalis Apartments emerges as a prime choice for travelers seeking comfort and convenience in Himare, located just a short 600-meter stroll from the pristine Livadhi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209433324.jpg?k=b065c252f4e02ff7d4f9ae8290b962ee712d4f3fad47d6b836c0819b3e72b7dd&o=&hp=1"
+featuredImage: "/images/accommodation/mihalis-apartments-209433324.jpg"
 language: en
 slug: mihalis-apartments
 address: "Himare - Livadh Road, 2005 Himare, Albania"

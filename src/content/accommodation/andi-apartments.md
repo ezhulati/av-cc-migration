@@ -1,7 +1,7 @@
 ---
 title: "Andi Apartments"
 description: "Andi Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134030666.jpg?k=38743b895293df3d186431df7ec25b6064943e447d811044d034d85b09098fd1&o=&hp=1"
+featuredImage: "/images/accommodation/andi-apartments-134030666.jpg"
 language: en
 slug: andi-apartments
 address: "Rruga Hajdar Hidi, 1001 Tirana, Albania"

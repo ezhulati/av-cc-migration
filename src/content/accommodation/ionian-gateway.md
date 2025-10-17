@@ -1,7 +1,7 @@
 ---
 title: "Ionian Gateway"
 description: "Ionian Gateway emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46301788.jpg?k=5c95a61f07af3b5045378e1d16766a86087c625d8183e6aebbddaf0d180449a7&o=&hp=1"
+featuredImage: "/images/accommodation/ionian-gateway-46301788.jpg"
 language: en
 slug: ionian-gateway
 address: "Rruga Gjergj Arianiti, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfy Modern Luxury - Central"
 description: "Comfy Modern Luxury - Central emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414021042.jpg?k=ca937b522588247326a297812eb468faa0ccc67f9175c10f86a7f2cf6fa98785&o=&hp=1"
+featuredImage: "/images/accommodation/comfy-modern-luxury-central-414021042.jpg"
 language: en
 slug: comfy-modern-luxury-central
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

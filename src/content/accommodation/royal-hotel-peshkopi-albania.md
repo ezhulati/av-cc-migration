@@ -1,7 +1,7 @@
 ---
 title: "Royal Hotel Peshkopi Albania"
 description: "Royal Hotel Peshkopi Albania emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Peshkopi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263707065.jpg?k=7aacf32f52a0978043d5cb88125636ec30c013e78f6cdfc7c67b8a30744e3119&o=&hp=1"
+featuredImage: "/images/accommodation/royal-hotel-peshkopi-albania-263707065.jpg"
 language: en
 slug: royal-hotel-peshkopi-albania
 address: "Bulevardi Elez Isufi, 8301 Peshkopi, Albania"

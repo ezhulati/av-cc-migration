@@ -1,7 +1,7 @@
 ---
 title: "Hotel Realdo"
 description: "Hotel Realdo emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519465522.jpg?k=8c5ee2e1240f8d8bc56f27e2b96562b7f17827b47edf91c69418d51ac3d7f9fe&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-realdo-519465522.jpg"
 language: en
 slug: hotel-realdo
 address: "Rruga Sali Vranishti, 9401 Vlorë, Albania"

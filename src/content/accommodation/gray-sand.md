@@ -1,7 +1,7 @@
 ---
 title: "Gray sand"
 description: "Gray Sand emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, offering close proximity to the charming Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481914809.jpg?k=d285da6c83446e5aaf456732e1d6c448713968be3306f06d0c5c38dde2fe8f34&o=&hp=1"
+featuredImage: "/images/accommodation/gray-sand-481914809.jpg"
 language: en
 slug: gray-sand
 address: "Rr. Sazani 34 5th floor, Vlorë, Albania"

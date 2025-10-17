@@ -1,7 +1,7 @@
 ---
 title: "Royal Land"
 description: "Royal Land emerges as a serene adults-only oasis in Theth, offering a unique blend of natural beauty and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481322219.jpg?k=72042c668ee5fc6d539193ecceaf57ef0820065cbb801019ac7eee0febe3d431&o=&hp=1"
+featuredImage: "/images/accommodation/royal-land-481322219.jpg"
 language: en
 slug: royal-land
 address: "Rruga Gjecaj, 4000 Theth, Albania"

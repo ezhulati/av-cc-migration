@@ -1,7 +1,7 @@
 ---
 title: "Vila Alpini Lepushe"
 description: "Vila Alpini Lepushe emerges as a serene retreat in the heart of Lëpushë, located within the picturesque Shkoder County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468018686.jpg?k=b8f8ffa46a5c59fb63b14b5111d796d859330a06cbda922b868db2bacf80d965&o=&hp=1"
+featuredImage: "/images/accommodation/vila-alpini-lepushe-468018686.jpg"
 language: en
 slug: vila-alpini-lepushe
 address: "Rruga Lepushe, 4304 Lëpushë, Albania"

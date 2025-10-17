@@ -1,7 +1,7 @@
 ---
 title: "Centre Hotel"
 description: "Centre Hotel is a distinguished choice for travelers seeking comfortable accommodation in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382725072.jpg?k=5e66f0317102fe240e2a321f2ba24ef24786b2186d08ebdd326859068ad776cd&o=&hp=1"
+featuredImage: "/images/accommodation/centre-hotel-382725072.jpg"
 language: en
 slug: centre-hotel
 address: "Centre, 5001 Berat, Albania"

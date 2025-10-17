@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment - Unique 3 Bedroom At Olympic Residence"
 description: "Miku Apartment - Unique 3 Bedroom At Olympic Residence emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389737963.jpg?k=b82fbffb78f10b95a3cdbca9b88c16839bc5c21a92fd65f9298ae84e36c941d8&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-unique-3-bedroom-at-olympic-residence-389737963.jpg"
 language: en
 slug: miku-apartment-unique-3-bedroom-at-olympic-residence
 address: "Rruga Prokop Mima, Tirana, Albania"

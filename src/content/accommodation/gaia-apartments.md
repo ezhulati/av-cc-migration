@@ -1,7 +1,7 @@
 ---
 title: "Gaia Apartments"
 description: "Gaia Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, positioned just a stone's throw away from the serene Vjetër Beach and a short 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485692449.jpg?k=48c68db577a12cdb506000940816ed7a9c0c1c9f0c34227b4f01518752399533&o=&hp=1"
+featuredImage: "/images/accommodation/gaia-apartments-485692449.jpg"
 language: en
 slug: gaia-apartments
 address: "Rr. Sazani Nd.103, H,14 Ap.6/7, 9402 Vlorë, Albania"

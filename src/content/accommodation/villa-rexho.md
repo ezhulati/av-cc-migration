@@ -1,7 +1,7 @@
 ---
 title: "Villa Rexho"
 description: "Villa Rexho emerges as a modern oasis in the heart of Berat, offering guests a serene retreat with its air-conditioned accommodations that open up to a charming patio."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494183572.jpg?k=59f535d41bc8b485d58d00914950db71c4b5b3c0f7eaee9a53c575e2ed31b59e&o=&hp=1"
+featuredImage: "/images/accommodation/villa-rexho-494183572.jpg"
 language: en
 slug: villa-rexho
 address: "Rruga Belulaj, Starove, 5001 Berat, Albania"

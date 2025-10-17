@@ -1,7 +1,7 @@
 ---
 title: "Troci Hotel"
 description: "Troci Hotel, located just a short drive from the heart of Tirana and 8."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525930462.jpg?k=d857a25372b35e8200191ff3b95eb85cbe3f164645e04659ec0f37d4262350da&o=&hp=1"
+featuredImage: "/images/accommodation/troci-hotel-525930462.jpg"
 language: en
 slug: troci-hotel
 address: "1 SH53, 1054 Tirana, Albania"

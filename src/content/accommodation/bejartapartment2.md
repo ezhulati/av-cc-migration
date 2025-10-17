@@ -1,7 +1,7 @@
 ---
 title: "BejartApartment2"
 description: "BejartApartment2 emerges as a gem in the heart of Tirana, boasting a prime location mere steps away from iconic landmarks such as Skanderbeg Square, the National Theatre of Opera and Ballet of Albania, and the National Museum of History Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358001088.jpg?k=4f338cb57219d5f7d55397fdd2b531f25b330f3e45797d7989dec726fb6e835b&o=&hp=1"
+featuredImage: "/images/accommodation/bejartapartment2-358001088.jpg"
 language: en
 slug: bejartapartment2
 address: "Rruga Hysen Hasan Huqi Pallati 60/1 Shkalla 2 Apartamenti 4, 1000 Tirana, Albania"

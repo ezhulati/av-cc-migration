@@ -1,7 +1,7 @@
 ---
 title: "Alex Apartments"
 description: "Alex Apartments in Sarandë emerges as a prime choice for travelers seeking comfort and convenience, a mere stone's throw away from the pristine Sarande Main Beach and Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360460846.jpg?k=7048e038d69b21b3345d37a8fe28678cf000ad1b2f3bb0d4b50505b29152bfc0&o=&hp=1"
+featuredImage: "/images/accommodation/alex-apartments-360460846.jpg"
 language: en
 slug: alex-apartments
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

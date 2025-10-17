@@ -1,7 +1,7 @@
 ---
 title: "SOLE VLORA APARTMENT"
 description: "SOLE VLORA APARTMENT emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519980229.jpg?k=e9623ff663e27af077123807c9e894e22245b3073f0dbb8a64b86fbbc96a18f2&o=&hp=1"
+featuredImage: "/images/accommodation/sole-vlora-apartment-519980229.jpg"
 language: en
 slug: sole-vlora-apartment
 address: "Rruga Mehmet Agalliu, 1001 Vlorë, Albania"

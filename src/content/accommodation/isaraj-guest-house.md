@@ -1,7 +1,7 @@
 ---
 title: "Isaraj Guest House"
 description: "Isaraj Guest House, located in the historic heart of Gjirokastër and a mere stone's throw from the serene Zaravina Lake, presents a charming retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476342871.jpg?k=d3351a9735c62163bf51250c9e5522c01732b1691fa8f7a3382786063a4e83b3&o=&hp=1"
+featuredImage: "/images/accommodation/isaraj-guest-house-476342871.jpg"
 language: en
 slug: isaraj-guest-house
 address: "Rruga Rustem Asqeri,Gjirokaster 1/ A1/Privat, 6001 Gjirokastër, Albania"

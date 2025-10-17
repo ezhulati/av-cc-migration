@@ -1,7 +1,7 @@
 ---
 title: "Hotel Celiku"
 description: "Hotel Celiku emerges as a serene retreat in Muriqan, located a mere 33 km from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473228335.jpg?k=342d2a7a603e045aac616cdaa9ee8bdbf2f9d6deffee6f38d64324b9caf6b674&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-celiku-473228335.jpg"
 language: en
 slug: hotel-celiku
 address: "SH41 rruga shtuf dogane, 4001 Muriqan, Albania"

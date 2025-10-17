@@ -1,7 +1,7 @@
 ---
 title: "Hotel Shkodra L"
 description: "Hotel Shkodra L emerges as a serene oasis in the heart of Shkodër, boasting a meticulously landscaped garden and a sun-drenched terrace."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429070842.jpg?k=e921b383cc4f3d755608ff67385a00e6f869447a8c9e11301df246d7c2846999&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-shkodra-l-429070842.jpg"
 language: en
 slug: hotel-shkodra-l
 address: "Rruga Kardinal Mikel Koliqi, 4001 Shkodër, Albania"

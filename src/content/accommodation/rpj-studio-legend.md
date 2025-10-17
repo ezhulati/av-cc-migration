@@ -1,7 +1,7 @@
 ---
 title: "RPJ Studio Legend"
 description: "RPJ Studio Legend emerges as a standout choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506740910.jpg?k=80e9cb6d2600772ac26baa5db4734fee868164cf5a8e1628bb19044435968271&o=&hp=1"
+featuredImage: "/images/accommodation/rpj-studio-legend-506740910.jpg"
 language: en
 slug: rpj-studio-legend
 address: "Rruga Azem Sulo, 9401 Vlorë, Albania"

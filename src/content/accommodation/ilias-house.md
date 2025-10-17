@@ -1,7 +1,7 @@
 ---
 title: "Ilias House"
 description: "Ilias House emerges as a prime choice for travelers seeking a serene beachfront getaway, situated merely 500 meters from the pristine shores of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369832345.jpg?k=4c60fe80d311cf6cc0c7e5a6cf32ba96e7eda1a4d8b5ed6dd6b506ee34dbf332&o=&hp=1"
+featuredImage: "/images/accommodation/ilias-house-369832345.jpg"
 language: en
 slug: ilias-house
 address: "Ali Pash Tepelena b.b., Ksamil, 9701 Ksamil, 9706, Albanien, 9706 Ksamil, Albania"

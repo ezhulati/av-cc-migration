@@ -1,7 +1,7 @@
 ---
 title: "Arben Qemeri Guest House"
 description: "Arben Qemeri Guest House, located in the historic heart of Berat, presents a charming option for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355988734.jpg?k=84a589f9b770eb0faad93f6c27d9796eb476d68cac4bf2699b3c60f33eae1fba&o=&hp=1"
+featuredImage: "/images/accommodation/arben-qemeri-guest-house-355988734.jpg"
 language: en
 slug: arben-qemeri-guest-house
 address: "Rruga Mihal Komnena, 5001 Berat, Albania"

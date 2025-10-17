@@ -1,7 +1,7 @@
 ---
 title: "Villamaria Hotel"
 description: "Villamaria Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience with its beachfront location in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52780379.jpg?k=10584afcb534447253f4d454138b1f6fa73539bc1ec9dd2c3a88b0bbd1dfa436&o=&hp=1"
+featuredImage: "/images/accommodation/villamaria-hotel-52780379.jpg"
 language: en
 slug: villamaria-hotel
 address: "Rruga Shehu, 8405 Vlorë, Albania"

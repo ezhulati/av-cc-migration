@@ -1,7 +1,7 @@
 ---
 title: "Luxury gated comunity apartament"
 description: "Luxury Gated Community Apartment emerges as a premier choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427410939.jpg?k=06540378dcf86016f9038ded8ac9ff4b67bbb405031d933f2720af7d67247a4a&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-gated-comunity-apartament-427410939.jpg"
 language: en
 slug: luxury-gated-comunity-apartament
 address: "Rruga Ibrahim Shalqizi, Touch Of Sun, SAUK, Tirane, 1001 Tirana, Albania"

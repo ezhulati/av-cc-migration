@@ -1,7 +1,7 @@
 ---
 title: "Saranda apartment with sea view"
 description: "Discover the charm of Sarandë from the comfort of the Saranda apartment, a prime choice for travelers seeking both serenity and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424199863.jpg?k=14dc53429b5e80355199d272db37c5fac0185eb196dabee8d0f7958263f11256&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-apartment-with-sea-view-424199863.jpg"
 language: en
 slug: saranda-apartment-with-sea-view
 address: "Rruga Gjergj Araniti 22, 9701 Sarandë, Albania"

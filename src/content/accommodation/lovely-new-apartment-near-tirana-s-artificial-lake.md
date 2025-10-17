@@ -1,7 +1,7 @@
 ---
 title: "Lovely new apartment near Tirana's artificial Lake"
 description: "Discover the charm of Tirana from the comfort of the Lovely new apartment near Tirana's artificial Lake, a prime accommodation choice for travelers seeking both serenity and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/lovely-new-apartment-near-tirana-s-artificial-lake-0e43c9b9a23d.jpg"
 language: en
 slug: lovely-new-apartment-near-tirana-s-artificial-lake
 address: "Rruga Faik Konica, 1010 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blue Heaven Beachfront"
 description: "Blue Heaven Beachfront emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518829136.jpg?k=25834c56b6927b715d61623b611e7afaeda56e9f748d6b5d7fd4f6b24ea5ca3f&o=&hp=1"
+featuredImage: "/images/accommodation/blue-heaven-beachfront-518829136.jpg"
 language: en
 slug: blue-heaven-beachfront
 address: "Rruga Currila, Durrës, Albania"

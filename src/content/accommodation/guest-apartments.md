@@ -1,7 +1,7 @@
 ---
 title: "Guest Apartments"
 description: "Guest Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Golem, close to the serene Mali I Robit and Golem Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485793548.jpg?k=6ecf0c9441e3325fa916f9b77470b9c2d4ebaf77d89d969982c3e9a4f0db272c&o=&hp=1"
+featuredImage: "/images/accommodation/guest-apartments-485793548.jpg"
 language: en
 slug: guest-apartments
 address: "Rruga Ismail Qemali, 2501 Golem, Albania"

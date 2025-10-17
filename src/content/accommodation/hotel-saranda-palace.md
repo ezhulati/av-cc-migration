@@ -1,7 +1,7 @@
 ---
 title: "Hotel Saranda Palace"
 description: "Hotel Saranda Palace stands out as a premier destination for travelers seeking both relaxation and adventure by the sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200064172.jpg?k=9c3bbf90d0f74ce159618240804176c1bdd537ac91f1dda110a65b5bd115bb16&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-saranda-palace-200064172.jpg"
 language: en
 slug: hotel-saranda-palace
 address: "Rruga Arbrit, Lagjia 4, 9703 Sarandë, Albania"

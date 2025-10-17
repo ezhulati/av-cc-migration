@@ -1,7 +1,7 @@
 ---
 title: "Tirana New Bazaar- Apartment no-1"
 description: "Tirana New Bazaar- Apartment no-1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415710497.jpg?k=f00d347dbddfecde751a9f4148a6d9936cb492505bee9a77259432213f949f56&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-new-bazaar-apartment-no-1-415710497.jpg"
 language: en
 slug: tirana-new-bazaar-apartment-no-1
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Charming and Bright Tirana Center Apartament"
 description: "Charming and Bright Tirana Center Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463504148.jpg?k=285acac406d4c329fef598eac59b89c26d37072c47926b78a28f228b05371d51&o=&hp=1"
+featuredImage: "/images/accommodation/charming-and-bright-tirana-center-apartament-463504148.jpg"
 language: en
 slug: charming-and-bright-tirana-center-apartament
 address: "Rruga e Bogdanëve, 1001 Tirana, Albania"

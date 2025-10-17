@@ -1,7 +1,7 @@
 ---
 title: "8th Floor Luxury Apartament Tirana"
 description: "Discover the epitome of urban elegance at 8th Floor Luxury Apartment Tirana, a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374389080.jpg?k=ee41c8cb8cdba49a6b088f48442626100e51c3098c7608f38b19642c052a6fef&o=&hp=1"
+featuredImage: "/images/accommodation/8th-floor-luxury-apartament-tirana-374389080.jpg"
 language: en
 slug: 8th-floor-luxury-apartament-tirana
 address: "Rruga Medar Shtylla 8, Tirana, Albania"

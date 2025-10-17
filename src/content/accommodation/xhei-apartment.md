@@ -1,7 +1,7 @@
 ---
 title: "Xhei Apartment!"
 description: "Xhei Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503202163.jpg?k=9a627ec90ac5a447fc2f56db309916b985bf4355073350b45f682336f306a4a7&o=&hp=1"
+featuredImage: "/images/accommodation/xhei-apartment-503202163.jpg"
 language: en
 slug: xhei-apartment
 address: "Rruga Xhavit Shyqyri Demneri, 1001 Tirana, Albania"

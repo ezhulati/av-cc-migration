@@ -1,7 +1,7 @@
 ---
 title: "Apartament Center Tirana"
 description: "Apartament Center Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511607079.jpg?k=5d5ab9363f6ccbe566074cbb3a849b80d69aeed56d90f14d4af3e93385754bad&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-center-tirana-511607079.jpg"
 language: en
 slug: apartament-center-tirana
 address: "Rruga e Kavajës, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Seaside Vila Genti Pollo"
 description: "Seaside Vila Genti Pollo emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/seaside-vila-genti-pollo-12a07b30d7fe.jpg"
 language: en
 slug: seaside-vila-genti-pollo
 address: "Rruga Riviera, 6700 Ksamil, Albania"

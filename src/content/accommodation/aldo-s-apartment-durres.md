@@ -1,7 +1,7 @@
 ---
 title: "Aldo's apartment durres"
 description: "Aldo's Apartment Durres emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450379256.jpg?k=1eb0b6ebe39fa516c43793f1cf2b3ce8a1dd8cc418a37f0d4b059063eefd3c05&o=&hp=1"
+featuredImage: "/images/accommodation/aldo-s-apartment-durres-450379256.jpg"
 language: en
 slug: aldo-s-apartment-durres
 address: "Rruga Mujo Ulqinak, Lagja 5 Kati 4, 2001 Durrës, Albania"

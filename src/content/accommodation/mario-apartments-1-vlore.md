@@ -1,7 +1,7 @@
 ---
 title: "Mario Apartments 1 - Vlore"
 description: "Mario Apartments 1 - Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/mario-apartments-1-vlore-d2bf46fbe4c1.jpg"
 language: en
 slug: mario-apartments-1-vlore
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

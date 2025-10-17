@@ -1,7 +1,7 @@
 ---
 title: "Bejart Apartment 5"
 description: "Bejart Apartment 5 emerges as a gem in the heart of Tirana, boasting a prime location that places it within arm's reach of the National Theatre of Opera and Ballet of Albania and the National Museum of History Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509930843.jpg?k=53f3f36aeae3a2517b085a1cad8ed67ab2ab028578557cae0970b0f969290306&o=&hp=1"
+featuredImage: "/images/accommodation/bejart-apartment-5-509930843.jpg"
 language: en
 slug: bejart-apartment-5
 address: "Rruga Musa Agolli, 1001 Tirana, Albania"

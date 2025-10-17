@@ -1,7 +1,7 @@
 ---
 title: "Zaganjori Guesthouse"
 description: "Zaganjori Guesthouse is a prime choice for travelers seeking a serene beachfront escape in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475941132.jpg?k=0794812bc66fb48ec980194d2296e2bd3039f4cbd34eb46951190a7feb65b0e5&o=&hp=1"
+featuredImage: "/images/accommodation/zaganjori-guesthouse-475941132.jpg"
 language: en
 slug: zaganjori-guesthouse
 address: "Rruga Zogaj, 4001 Shkodër, Albania"

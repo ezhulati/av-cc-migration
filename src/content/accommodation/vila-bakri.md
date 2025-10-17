@@ -1,7 +1,7 @@
 ---
 title: "ViLa Bakri"
 description: "ViLa Bakri emerges as a serene retreat in Elbasan, strategically positioned a mere 38 km from the historic Skanderbeg Square and equally accessible to the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520872157.jpg?k=09ecdcfcdcd9e11417cbbaa981c1ed8241a45af1567786a4d4e25643c08c89dc&o=&hp=1"
+featuredImage: "/images/accommodation/vila-bakri-520872157.jpg"
 language: en
 slug: vila-bakri
 address: "Rruga Elbasan-Metalurgji km1, 3001 Elbasan, Albania"

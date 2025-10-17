@@ -1,7 +1,7 @@
 ---
 title: "Azure Inn Hotel"
 description: "Azure Inn Hotel stands as a beacon of comfort and convenience in Sarandë, merely a stone's throw away from the pristine Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454098899.jpg?k=b515c62cdb9879dc7084785db620e8446840ebd4a151d622f270f60a16488b11&o=&hp=1"
+featuredImage: "/images/accommodation/azure-inn-hotel-454098899.jpg"
 language: en
 slug: azure-inn-hotel
 address: "Rruga Sarande - Butrint Kanali i Cukes, 9701 Sarandë, Albania"

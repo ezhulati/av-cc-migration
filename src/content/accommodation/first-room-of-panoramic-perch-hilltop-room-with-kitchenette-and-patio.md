@@ -1,7 +1,7 @@
 ---
 title: "First Room of Panoramic Perch - Hilltop Room with Kitchenette and Patio"
 description: "First Room of Panoramic Perch - Hilltop Room with Kitchenette and Patio, located in the vibrant city of Vlorë, offers a unique retreat just 200 meters from the serene Radhimë Beach and a short distance from its namesake, providing guests with an unparalleled beachfront experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461986122.jpg?k=d595291fa9b5bd7de6de30113254d4ed7525d6ce0190713020f59ebc4105bf04&o=&hp=1"
+featuredImage: "/images/accommodation/first-room-of-panoramic-perch-hilltop-room-with-kitchenette-and-patio-461986122.jpg"
 language: en
 slug: first-room-of-panoramic-perch-hilltop-room-with-kitchenette-and-patio
 address: "Rruga Numan Bilani Radhimë, 9400, Albania, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "BELUX HOTEL"
 description: "BELUX HOTEL emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335535650.jpg?k=2c4fc0d0a1a1264cae6bbec5bc1026a7806327ff8a5e7551955f32a3e0d030b5&o=&hp=1"
+featuredImage: "/images/accommodation/belux-hotel-335535650.jpg"
 language: en
 slug: belux-hotel
 address: "Rr.Mine Peza nr.19 1001 Tirana, Albania, 1001 Tirana, Albania"

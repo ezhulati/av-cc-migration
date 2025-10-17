@@ -1,7 +1,7 @@
 ---
 title: "ADRIATIC Seaview Apartments"
 description: "ADRIATIC Seaview Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477601783.jpg?k=20f7850e3c84d4b44813969861d298b57967dfa2b9e75aa6035e66d073a6f63a&o=&hp=1"
+featuredImage: "/images/accommodation/adriatic-seaview-apartments-477601783.jpg"
 language: en
 slug: adriatic-seaview-apartments
 address: "41.284871,19.511700, 1008 Durrës, Albania"

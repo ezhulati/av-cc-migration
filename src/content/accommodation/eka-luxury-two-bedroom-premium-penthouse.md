@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury Two-Bedroom Premium Penthouse"
 description: "EKA Luxury Two-Bedroom Premium Penthouse stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203359669.jpg?k=d6f35f4a22b07d93475ff5cbe94b4ad79026fc1edcb6357d7a7de500fc771e45&o=&hp=1"
+featuredImage: "/images/accommodation/eka-luxury-two-bedroom-premium-penthouse-203359669.jpg"
 language: en
 slug: eka-luxury-two-bedroom-premium-penthouse
 address: "Rruga 940, Durrës, Albania"

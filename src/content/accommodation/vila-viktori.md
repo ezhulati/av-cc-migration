@@ -1,7 +1,7 @@
 ---
 title: "Vila Viktori"
 description: "Vila Viktori emerges as a serene retreat for travelers seeking the perfect blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412172706.jpg?k=077f481c8bb2113fe34b541d23dbf2bc3da5581bdfe276e3cbb90106c53b66a7&o=&hp=1"
+featuredImage: "/images/accommodation/vila-viktori-412172706.jpg"
 language: en
 slug: vila-viktori
 address: "Rr. Liqeni Ksamil, Albania, 9706 Ksamil, Albania"

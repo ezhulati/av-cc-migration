@@ -1,7 +1,7 @@
 ---
 title: "Hotel Frojd - Beach Front Resort"
 description: "Hotel Frojd - Beach Front Resort stands as a distinguished 4-star haven in Shëngjin, boasting direct beachfront access that promises an unforgettable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302255880.jpg?k=2ab3559d9bb54c1f09913289c9705779d7711f7c923a7e5283dbe9006dbe9d4a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-frojd-beach-front-resort-302255880.jpg"
 language: en
 slug: hotel-frojd-beach-front-resort
 address: "Qender Shengjin Shetitorja Wilson, 1234 Shëngjin, Albania"

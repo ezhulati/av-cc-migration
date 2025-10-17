@@ -1,7 +1,7 @@
 ---
 title: "Fishta apartments Q5 35"
 description: "Fishta Apartments Q5 35 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464491683.jpg?k=00384551fa4102a7921d29b98c8cb97e4729c995b4c5106ce4ef7eba6e101cf1&o=&hp=1"
+featuredImage: "/images/accommodation/fishta-apartments-q5-35-464491683.jpg"
 language: en
 slug: fishta-apartments-q5-35
 address: "Rruga e Peshkatarëve, 4020 Velipojë, Albania"

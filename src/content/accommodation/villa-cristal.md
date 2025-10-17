@@ -1,7 +1,7 @@
 ---
 title: "Villa Cristal"
 description: "Villa Cristal emerges as a prime choice for travelers seeking a serene getaway in Vlorë, perfectly positioned just a short distance from the pristine shores of Palasa Beach and the vibrant scenes of Dhermi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336258965.jpg?k=84582917300f4397b12f2d25b7d39558b032d365ed892416a9ac5976118badc3&o=&hp=1"
+featuredImage: "/images/accommodation/villa-cristal-336258965.jpg"
 language: en
 slug: villa-cristal
 address: "Rezidenca Olea ,Drimades ,Dhermi, 9224 Vlorë, Albania"

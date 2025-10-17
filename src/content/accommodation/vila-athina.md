@@ -1,7 +1,7 @@
 ---
 title: "Vila Athina"
 description: "Vila Athina stands out as a prime choice for travelers seeking a serene beachfront escape, complete with breathtaking sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488028289.jpg?k=a649c208311d40c4e82ae31203a41379b4a4af3f51cfefc5220049cd04d4f6c9&o=&hp=1"
+featuredImage: "/images/accommodation/vila-athina-488028289.jpg"
 language: en
 slug: vila-athina
 address: "Rruga: Fuerte Ventura 4 & Ismail Qemali, Ksamil Sarande 1, Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Premium Apartaments 10"
 description: "Premium Apartaments 10 emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363114483.jpg?k=c9a39cd2f5bec2484b1fe425df9db00f7b1f47e9f4ccf11a30faecb28674475f&o=&hp=1"
+featuredImage: "/images/accommodation/premium-apartaments-10-363114483.jpg"
 language: en
 slug: premium-apartaments-10
 address: "Rruga Murat Tërbaçi Apartament, 9300 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Top Villas private swimming pool"
 description: "Top Villas Private Swimming Pool emerges as a serene oasis, offering a unique blend of comfort and luxury approximately 26 km away from the bustling Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/top-villas-private-swimming-pool-d3882ab9674d.jpg"
 language: en
 slug: top-villas-private-swimming-pool
 address: "Durres, durres Albania, Durrës, Albania"

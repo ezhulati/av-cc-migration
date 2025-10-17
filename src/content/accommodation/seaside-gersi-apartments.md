@@ -1,7 +1,7 @@
 ---
 title: "Seaside Gersi Apartments"
 description: "Discover the charm of Durrës with a stay at Seaside Gersi Apartments, a prime choice for travelers seeking comfort and convenience mere steps from the Adriatic Sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523728828.jpg?k=8d759c1ae8888b87c6d192c41eea76eedbb25d333bd54520f764e1802b08036d&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-gersi-apartments-523728828.jpg"
 language: en
 slug: seaside-gersi-apartments
 address: "Rr.Poseidon 00820177 Apartment nr.12,building nr.9,floor 1,, 2021 Durrës, Albania"

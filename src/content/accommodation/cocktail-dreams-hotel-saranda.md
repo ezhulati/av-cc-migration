@@ -1,7 +1,7 @@
 ---
 title: "Cocktail & Dreams Hotel Saranda"
 description: "Cocktail & Dreams Hotel Saranda emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146243184.jpg?k=1f44c9a4c5be033d80b246ef8c6a1f02ad50ff0a415877511efdb5502d442721&o=&hp=1"
+featuredImage: "/images/accommodation/cocktail-dreams-hotel-saranda-146243184.jpg"
 language: en
 slug: cocktail-dreams-hotel-saranda
 address: "Mitat Hoxha, 9703 Sarandë, Albania"

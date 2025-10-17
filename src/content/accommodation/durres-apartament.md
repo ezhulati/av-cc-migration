@@ -1,7 +1,7 @@
 ---
 title: "Durres Apartament"
 description: "Durres Apartament emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498226297.jpg?k=591147f81c22b16722309812004b8f94d9619864e4a2ca1f9aad4ac653853320&o=&hp=1"
+featuredImage: "/images/accommodation/durres-apartament-498226297.jpg"
 language: en
 slug: durres-apartament
 address: "Vollga Durres, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Maison Elenoire"
 description: "Maison Elenoire emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526775129.jpg?k=e91cf02d83fbfa66fc6231c2ac9a9c5e96aee080fc4d1dabeb29ea1ced470b11&o=&hp=1"
+featuredImage: "/images/accommodation/maison-elenoire-526775129.jpg"
 language: en
 slug: maison-elenoire
 address: "Rruga Ismail Qemali Samos Tower, 6nd floor, apartment 22, 1000 Tirana, Albania"

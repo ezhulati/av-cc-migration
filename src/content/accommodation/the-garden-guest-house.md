@@ -1,7 +1,7 @@
 ---
 title: "The Garden Guest House"
 description: "The Garden Guest House emerges as a serene oasis located merely 43 km away from the iconic Rock of Kavaje, offering a unique blend of comfort and convenience in Divjakë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464196916.jpg?k=d5a4174fccc4f5ad0154e522bcc0a8e15d4f2e4cd69ec6abc174a37ee95bd096&o=&hp=1"
+featuredImage: "/images/accommodation/the-garden-guest-house-464196916.jpg"
 language: en
 slug: the-garden-guest-house
 address: "Lagjia 2, Lagjia e Gorrenjve, 9022 Divjakë, Albania"

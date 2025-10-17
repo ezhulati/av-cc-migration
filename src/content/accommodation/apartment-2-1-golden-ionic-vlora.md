@@ -1,7 +1,7 @@
 ---
 title: "Apartment 2+1 Golden Ionic Vlora"
 description: "Apartment 2+1 Golden Ionic Vlora emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425887130.jpg?k=54760c341fe094cdc13643e6bcac74d72f0019a71152ea6c534aa99ee192a767&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-2-1-golden-ionic-vlora-425887130.jpg"
 language: en
 slug: apartment-2-1-golden-ionic-vlora
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Studio near U.S. Embassy"
 description: "Discover the charm of Tirana with a stay at the Studio near U."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508794433.jpg?k=5e2f303bbe0655ddf14af462edc47c071dd3943a63d95c7cf0bb6dc895cef582&o=&hp=1"
+featuredImage: "/images/accommodation/studio-near-u-s-embassy-508794433.jpg"
 language: en
 slug: studio-near-u-s-embassy
 address: "Rruga Nasi Pavllo, 1011 Tirana, Albania"

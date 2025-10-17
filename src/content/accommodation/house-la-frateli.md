@@ -1,7 +1,7 @@
 ---
 title: "House La Frateli"
 description: "House La Frateli stands as a serene retreat in the heart of Korçë, a mere stone's throw from the historic Monastery Saint Naum and the pristine Ohrid Lake Springs, both located 44 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515306362.jpg?k=72f1dcb5a3f1533f4f809cd76ee1c7e4c020fc5bae9232feddac85f179b0bec6&o=&hp=1"
+featuredImage: "/images/accommodation/house-la-frateli-515306362.jpg"
 language: en
 slug: house-la-frateli
 address: "Rruga Anesti Dishnica, 7001 Korçë, Albania"

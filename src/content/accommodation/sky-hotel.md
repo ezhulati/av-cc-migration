@@ -1,7 +1,7 @@
 ---
 title: "Sky Hotel"
 description: "Sky Hotel, situated in the vibrant city of Shkodër and a mere 47 km from the Port of Bar, stands out as a premier destination for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374052318.jpg?k=06d3d39fb531f73bbced531f59fa968902ac671c5794295788cf83b1e78bdcf4&o=&hp=1"
+featuredImage: "/images/accommodation/sky-hotel-374052318.jpg"
 language: en
 slug: sky-hotel
 address: "Rruga Mbreti Gent, 4006 Shkodër, Albania"

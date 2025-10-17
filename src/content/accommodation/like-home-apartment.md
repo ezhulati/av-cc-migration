@@ -1,7 +1,7 @@
 ---
 title: "Like Home Apartment"
 description: "Discover the charm of Golem with a stay at Like Home Apartment, a prime choice for travelers seeking comfort and convenience mere steps from the beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482047805.jpg?k=daa7cc059bbc68e3d32d81b1d225d2c30d5ef9766aabad74760c3e925722c2aa&o=&hp=1"
+featuredImage: "/images/accommodation/like-home-apartment-482047805.jpg"
 language: en
 slug: like-home-apartment
 address: "Bulevardi Pishave Golem 1, Golem, Albania"

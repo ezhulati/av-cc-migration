@@ -1,7 +1,7 @@
 ---
 title: "Tsaousi Apartments"
 description: "Tsaousi Apartments, a recently updated gem in Çaush, offers travelers a serene retreat with its well-manicured garden and the charm of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492612403.jpg?k=abb406bd34982229af39993011873e84db64521273173f79f59637f89ac00c37&o=&hp=1"
+featuredImage: "/images/accommodation/tsaousi-apartments-492612403.jpg"
 language: en
 slug: tsaousi-apartments
 address: "Τσαούσι 1, Çaush, Albania"

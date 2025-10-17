@@ -1,7 +1,7 @@
 ---
 title: "Ajla Apartment"
 description: "Ajla Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://graph.facebook.com/v2.9/10153527975306388/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/ajla-apartment-picture?type.jpg"
 language: en
 slug: ajla-apartment
 address: "Rruga Pavaresia Plazh Durres, Durrës, Albania"

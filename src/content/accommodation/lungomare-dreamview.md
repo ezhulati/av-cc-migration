@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Dreamview"
 description: "Lungomare Dreamview emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485479995.jpg?k=e65d4dd617c9f19127ab4c9998ffd9ad3faab904cbcdd7576d1f664151d199ea&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-dreamview-485479995.jpg"
 language: en
 slug: lungomare-dreamview
 address: "Rruga Murat Tërbaçi 5th Floor , Apartment 33rd, 9401 Vlorë, Albania"

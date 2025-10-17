@@ -1,7 +1,7 @@
 ---
 title: "Arte Apartment"
 description: "Arte Apartment stands as a beacon of comfort and convenience in the heart of Sarandë, Vlorë County, offering guests a unique blend of mountain and city views from its inviting balcony spaces."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474656709.jpg?k=bd4fabb323ccaac67a2f4acd9803febce591b74671db107535c5e4f646f5abaf&o=&hp=1"
+featuredImage: "/images/accommodation/arte-apartment-474656709.jpg"
 language: en
 slug: arte-apartment
 address: "Rruga Idriz Alidhima 298, 9701 Sarandë, Albania"

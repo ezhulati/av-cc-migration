@@ -1,7 +1,7 @@
 ---
 title: "Margarita - Entire house with 4 bedrooms and free parking"
 description: "Margarita presents a serene retreat in the heart of Gjirokastër, offering an entire house complete with four bedrooms and the convenience of free parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479171972.jpg?k=79e84fb3aead10babd72fc46b7687167052ee47ab9ba4958e6397a9f8bd4f3b2&o=&hp=1"
+featuredImage: "/images/accommodation/margarita-entire-house-with-4-bedrooms-and-free-parking-479171972.jpg"
 language: en
 slug: margarita-entire-house-with-4-bedrooms-and-free-parking
 address: "Rruga Ibrahim Xharba 2, 6001 Gjirokastër, Albania"

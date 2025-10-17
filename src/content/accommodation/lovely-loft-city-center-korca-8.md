@@ -1,7 +1,7 @@
 ---
 title: "Lovely Loft City Center Korca 8"
 description: "Situated in the heart of Korçë, Lovely Loft City Center Korca #8 is a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506073848.jpg?k=6614386bccbf1451184b35ab8d3201206017f91b5c67337085e9e1fa398ec324&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-loft-city-center-korca-8-506073848.jpg"
 language: en
 slug: lovely-loft-city-center-korca-8
 address: "Rruga 6 Deshmoret, 7002 Korçë, Albania"

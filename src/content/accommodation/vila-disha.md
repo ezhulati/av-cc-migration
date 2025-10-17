@@ -1,7 +1,7 @@
 ---
 title: "VILA DISHA"
 description: "VILA DISHA stands as a serene retreat in Tirana, boasting breathtaking mountain views and a suite of amenities designed for the modern traveler."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522161590.jpg?k=0ad8921fc014480d66636756d1606421141acedbcda05809c00dd92e83fe1d81&o=&hp=1"
+featuredImage: "/images/accommodation/vila-disha-522161590.jpg"
 language: en
 slug: vila-disha
 address: "Verri, shengjergj 6, 1043 Tirana, Albania"

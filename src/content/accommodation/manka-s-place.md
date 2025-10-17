@@ -1,7 +1,7 @@
 ---
 title: "Manka' s Place"
 description: "Manka's Place emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389950097.jpg?k=70729a1b7bc8e17d6b12312be8d6f3110fc4f1fa3e15f56e5bace67d29f77317&o=&hp=1"
+featuredImage: "/images/accommodation/manka-s-place-389950097.jpg"
 language: en
 slug: manka-s-place
 address: "33 Rruga Bilal Golemi, 1001 Tirana, Albania"

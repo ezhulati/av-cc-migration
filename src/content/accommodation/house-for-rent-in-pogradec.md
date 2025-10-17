@@ -1,7 +1,7 @@
 ---
 title: "House For Rent in Pogradec"
 description: "House For Rent in Pogradec emerges as a prime choice for travelers seeking a serene beachfront escape, conveniently located just a short drive from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499689524.jpg?k=db7bf9467e1ae360692a6936870248b099db60b9b543590489d4ec0318b4c979&o=&hp=1"
+featuredImage: "/images/accommodation/house-for-rent-in-pogradec-499689524.jpg"
 language: en
 slug: house-for-rent-in-pogradec
 address: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Sunny Place"
 description: "Apartment Sunny Place stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503061463.jpg?k=e112eebc386bd021c2f9aa86c7f94e28f5018f5490005780290ba9ccf39ab31b&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-sunny-place-503061463.jpg"
 language: en
 slug: apartment-sunny-place
 address: "Rruga Liria, Durrës, Albania"

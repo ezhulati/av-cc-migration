@@ -1,7 +1,7 @@
 ---
 title: "Heart of Tirana"
 description: "Heart of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516908871.jpg?k=f48ed199c499c45b47870a44cd6af990f7f29d2318610106a11d32de86e01c02&o=&hp=1"
+featuredImage: "/images/accommodation/heart-of-tirana-516908871.jpg"
 language: en
 slug: heart-of-tirana
 address: "3 Rruga Kostandin Kristoforidhi, 1000 Tirana, Albania"

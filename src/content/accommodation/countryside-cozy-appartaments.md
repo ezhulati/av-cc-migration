@@ -1,7 +1,7 @@
 ---
 title: "Countryside Cozy Appartaments"
 description: "Discover the charm of Countryside Cozy Apartments, a serene haven located in the picturesque Vlorë, just a stone's throw away from the historic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468511208.jpg?k=b903479f79118d00a506f03b596532810cee0d85a8fa381d3a2d393e0d32efe8&o=&hp=1"
+featuredImage: "/images/accommodation/countryside-cozy-appartaments-468511208.jpg"
 language: en
 slug: countryside-cozy-appartaments
 address: "Vlorë , Cerkovinë, 9411 Vlorë, Albania"

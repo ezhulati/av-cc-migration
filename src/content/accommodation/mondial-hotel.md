@@ -1,7 +1,7 @@
 ---
 title: "Mondial Hotel"
 description: "Discover the charm of Tirana from the comfort of the Mondial Hotel, a distinguished 4-star establishment that stands out for its exceptional amenities and prime location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135072679.jpg?k=817eb85e9846e2876db843f77838f3f4ff31e68298ae7c8d2dd21e7d91bdfc75&o=&hp=1"
+featuredImage: "/images/accommodation/mondial-hotel-135072679.jpg"
 language: en
 slug: mondial-hotel
 address: "Rr.Muhamet Gjollesha Nd.90, 1023 Tirana, Albania"

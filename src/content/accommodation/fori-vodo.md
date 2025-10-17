@@ -1,7 +1,7 @@
 ---
 title: "Fori Vodo"
 description: "Fori Vodo emerges as a charming 3-star retreat in Divjakë, located just 44 km away from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481703390.jpg?k=bc170acea5e5275e52a96433e8647e6bca8ae2b4a5815903cb9d9eb4d3a43c68&o=&hp=1"
+featuredImage: "/images/accommodation/fori-vodo-481703390.jpg"
 language: en
 slug: fori-vodo
 address: "Rruga Xengut, 9022 Divjakë, Albania"

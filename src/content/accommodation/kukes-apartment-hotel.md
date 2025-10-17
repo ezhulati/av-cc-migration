@@ -1,7 +1,7 @@
 ---
 title: "Kukes Apartment Hotel"
 description: "Kukes Apartment Hotel emerges as a prime choice for travelers seeking comfort and convenience in Kukës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492852210.jpg?k=0a0c3ef4bf5604477183c8077c8b8bc2fb450cbdd12d35dcd7c191b5f937434a&o=&hp=1"
+featuredImage: "/images/accommodation/kukes-apartment-hotel-492852210.jpg"
 language: en
 slug: kukes-apartment-hotel
 address: "Lagjia 4, Pallati 15, Apt.8, 8501 Kukës, Albania"

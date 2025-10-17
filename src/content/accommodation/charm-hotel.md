@@ -1,7 +1,7 @@
 ---
 title: "Charm Hotel"
 description: "Charm Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, situated just a stone's throw away from the pristine Vlore Beach and a leisurely stroll from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506531466.jpg?k=d6cfac332c322674bb67b5da106660cac7d144df9e2c81715097fec4fe81fd7b&o=&hp=1"
+featuredImage: "/images/accommodation/charm-hotel-506531466.jpg"
 language: en
 slug: charm-hotel
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

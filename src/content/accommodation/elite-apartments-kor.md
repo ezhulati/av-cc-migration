@@ -1,7 +1,7 @@
 ---
 title: "Elite Apartments Korçë"
 description: "Elite Apartments Korçë emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222501520.jpg?k=50aad82060b8fe8730020df9d6b279374ef64226fe830f83bd84289f16256d07&o=&hp=1"
+featuredImage: "/images/accommodation/elite-apartments-kor-222501520.jpg"
 language: en
 slug: elite-apartments-kor
 address: "Bulevardi Gjergj Kastrioti, 7001 Korçë, Albania"

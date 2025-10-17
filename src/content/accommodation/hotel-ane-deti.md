@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ane Deti"
 description: "Hotel Ane Deti emerges as a charming retreat in Golem, merely a stone's throw away from the serene Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464149550.jpg?k=cce02282dd03e1b978b7925254e2b57ae5f7d40e7cce78780dd536b71a0edadd&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-ane-deti-464149550.jpg"
 language: en
 slug: hotel-ane-deti
 address: "Rruga Plazhit, 2504 Golem, Albania"

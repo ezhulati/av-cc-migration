@@ -1,7 +1,7 @@
 ---
 title: "Studio by the beach - Vlore"
 description: "Studio by the Beach - Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience, coupled with a touch of adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464677352.jpg?k=ddbad1138b8922a7b2b17ed121a887d65b452303525df41f90a93f807069a439&o=&hp=1"
+featuredImage: "/images/accommodation/studio-by-the-beach-vlore-464677352.jpg"
 language: en
 slug: studio-by-the-beach-vlore
 address: "Rruga Petro Marko 2, 9345 Vlorë, Albania"

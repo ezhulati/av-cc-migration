@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sarajet e Pashait 1"
 description: "Hotel Sarajet e Pashait 1 emerges as a serene oasis, merely 450 meters from the pristine sands of a nearby beach and a short 3."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/233076993.jpg?k=196294c804c4d500781cddf1da2a97fd2cc488c7ab1ccc0d608ede8ea8590e4f&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-sarajet-e-pashait-1-233076993.jpg"
 language: en
 slug: hotel-sarajet-e-pashait-1
 address: "Perivolo, 9425 Dhërmi, Albania"

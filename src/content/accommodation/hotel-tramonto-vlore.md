@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tramonto Vlore"
 description: "Hotel Tramonto Vlore emerges as a prime choice for travelers seeking both serenity and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470324493.jpg?k=7b42ebc8cd263436d3054d857968185a5da67efd0097e760922684b0febcad4b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-tramonto-vlore-470324493.jpg"
 language: en
 slug: hotel-tramonto-vlore
 address: "Rruga Sali Vranishti, 9400 Vlorë, Albania"

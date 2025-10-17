@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Suites"
 description: "Mustafa Suites emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located a mere 80 meters from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384063120.jpg?k=bf31cdc059675f50edb27647b818bb24e586aa5edd3a1de401b1bd5be63aebd0&o=&hp=1"
+featuredImage: "/images/accommodation/mustafa-suites-384063120.jpg"
 language: en
 slug: mustafa-suites
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

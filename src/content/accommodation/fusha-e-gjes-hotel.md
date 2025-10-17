@@ -1,7 +1,7 @@
 ---
 title: "Fusha e Gjes Hotel"
 description: "Fusha e Gjes Hotel stands out as a charming retreat in Valbonë, offering guests a blend of comfort and convenience with its well-appointed garden, inviting terrace, and on-site dining options."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468749537.jpg?k=b848f52a67641d51e68d6ad0c40e5e1bc47835673be3ff5efa0cced7aa728df4&o=&hp=1"
+featuredImage: "/images/accommodation/fusha-e-gjes-hotel-468749537.jpg"
 language: en
 slug: fusha-e-gjes-hotel
 address: "Rruga Azem Hajdari, 8701 Valbonë, Albania"

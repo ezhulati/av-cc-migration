@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartment Golem"
 description: "Studio Apartment Golem emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476807265.jpg?k=7013418157b00e5f2f0b5ca5f42c3c031235e22cd46e835ab24f1373c15f28b4&o=&hp=1"
+featuredImage: "/images/accommodation/studio-apartment-golem-476807265.jpg"
 language: en
 slug: studio-apartment-golem
 address: "Rruga Fan Noli, 2504 Golem, Albania"

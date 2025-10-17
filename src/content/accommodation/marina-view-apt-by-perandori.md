@@ -1,7 +1,7 @@
 ---
 title: "Marina View APT by Perandori"
 description: "Marina View APT by Perandori, a recently renovated gem in Vlorë, offers an exceptional stay near the serene Vjetër Beach and the vibrant Vlore Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJxqR_dxQbDPt5Z29SQtO1rEdV-nd02S8bpkOT-E=s96-c64"
+featuredImage: "/images/accommodation/marina-view-apt-by-perandori-AATXAJxqR_dx.jpg"
 language: en
 slug: marina-view-apt-by-perandori
 address: "Rr. Sazani Apt.32, Floor.6, Entry.9, Building.45, Vlorë, Albania"

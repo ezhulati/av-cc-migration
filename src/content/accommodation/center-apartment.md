@@ -1,7 +1,7 @@
 ---
 title: "Center apartment"
 description: "Center Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468981120.jpg?k=8d60284163ec22aa7f7ae461c4ae5c6774e1e14bddb3cab938ed8b2b01049f21&o=&hp=1"
+featuredImage: "/images/accommodation/center-apartment-468981120.jpg"
 language: en
 slug: center-apartment
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

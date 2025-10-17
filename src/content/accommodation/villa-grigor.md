@@ -1,7 +1,7 @@
 ---
 title: "Villa Grigor"
 description: "Villa Grigor stands out as a premier choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413994455.jpg?k=a86928a8021cdca016e7695fdae95d31104aae2b0cf3bf473afa432f2b62d936&o=&hp=1"
+featuredImage: "/images/accommodation/villa-grigor-413994455.jpg"
 language: en
 slug: villa-grigor
 address: "Rruga Angjeliu, Berat, Albania"

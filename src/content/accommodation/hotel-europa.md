@@ -1,7 +1,7 @@
 ---
 title: "Hotel Europa"
 description: "Hotel Europa stands as a beacon of comfort and convenience in the heart of Tirana, offering guests a seamless blend of modern amenities and welcoming hospitality."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307713628.jpg?k=6dcdea77f287a1c296ee7955957dd309ea0a0aed0215c85cfeccdfb24fe59971&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-europa-307713628.jpg"
 language: en
 slug: hotel-europa
 address: "29 Rruga Myslym Shyri, 1001 Tirana, Albania"

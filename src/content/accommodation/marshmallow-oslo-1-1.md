@@ -1,7 +1,7 @@
 ---
 title: "Marshmallow Oslo 1+1"
 description: "Marshmallow Oslo 1+1 emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, boasting splendid garden views and a mere stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492346379.jpg?k=1bfbcea20976f867751545b5c847e9a03f005578530ee2e482ec58765f602dd8&o=&hp=1"
+featuredImage: "/images/accommodation/marshmallow-oslo-1-1-492346379.jpg"
 language: en
 slug: marshmallow-oslo-1-1
 address: "Rruga Murat Tërbaçi 6, 9401 Vlorë, Albania"

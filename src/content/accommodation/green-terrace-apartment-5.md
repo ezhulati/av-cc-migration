@@ -1,7 +1,7 @@
 ---
 title: "Green Terrace Apartment 5"
 description: "Green Terrace Apartment 5 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340258566.jpg?k=caed59a46dc7a74fa1869c1a4d20e412d0a355cd2567cc1fd771274e115ea6c1&o=&hp=1"
+featuredImage: "/images/accommodation/green-terrace-apartment-5-340258566.jpg"
 language: en
 slug: green-terrace-apartment-5
 address: "Rruga Don Bosko, 1001 Tirana, Albania"

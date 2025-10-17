@@ -1,7 +1,7 @@
 ---
 title: "Shengjin - Helios Home"
 description: "Shengjin - Helios Home emerges as a prime choice for travelers seeking the perfect blend of comfort and scenic beauty right on the shores of Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155613530.jpg?k=5f90f67bdb692cfab00b97fd33605335ce9291bd5fa140706c8fe051acb4536a&o=&hp=1"
+featuredImage: "/images/accommodation/shengjin-helios-home-155613530.jpg"
 language: en
 slug: shengjin-helios-home
 address: "Rruga Shëngjin - Kune Lezhë Distric, 4503 Shëngjin, Albania"

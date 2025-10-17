@@ -1,7 +1,7 @@
 ---
 title: "Arso Studio Tirana"
 description: "Arso Studio Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112860141.jpg?k=e34c3bb40192eb5cfd7a0bc639deec1f510740ef6c4d6c1a4292008953118c6e&o=&hp=1"
+featuredImage: "/images/accommodation/arso-studio-tirana-112860141.jpg"
 language: en
 slug: arso-studio-tirana
 address: "Rruga Sulejman Delvina P.Moskat 8/60, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Star Hotel astir"
 description: "Star Hotel Astir emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190218282.jpg?k=61a1d31e750f2c831458c0432aa59b4fb4fd4fe33c6d0ce62cbe70123900819c&o=&hp=1"
+featuredImage: "/images/accommodation/star-hotel-astir-190218282.jpg"
 language: en
 slug: star-hotel-astir
 address: "Rruga Teodor Keko In the same building with Artisti Lounge, second floor, 1001 Tirana, Albania"

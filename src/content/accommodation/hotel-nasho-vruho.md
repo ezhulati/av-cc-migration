@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nasho Vruho"
 description: "Hotel Nasho Vruho emerges as a charming retreat in the heart of Berat, offering guests a harmonious blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/391673742.jpg?k=3a023c69e2ffb12acae6abf052eb7cf6f67735558f90141f3dfaaa119ebbf7cf&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-nasho-vruho-391673742.jpg"
 language: en
 slug: hotel-nasho-vruho
 address: "Rruga Llambi Guxhumani, 5001 Berat, Albania"

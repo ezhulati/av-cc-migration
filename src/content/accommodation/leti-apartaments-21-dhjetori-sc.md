@@ -1,7 +1,7 @@
 ---
 title: "LETI APARTAMENTS 21 DHJETORI SC"
 description: "Discover the charm of Tirana from the comfort of LETI APARTAMENTS 21 DHJETORI SC, a prime choice for travelers seeking a blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380417182.jpg?k=be1d5eb0e6ee27f1f8850a20bc901eaafe0ab44631c5c905a60e9e381b85c58b&o=&hp=1"
+featuredImage: "/images/accommodation/leti-apartaments-21-dhjetori-sc-380417182.jpg"
 language: en
 slug: leti-apartaments-21-dhjetori-sc
 address: "Rruga e Kavajës, 1023 Tirana, Albania"

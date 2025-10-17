@@ -1,7 +1,7 @@
 ---
 title: "Cane Apartment New Bazaar"
 description: "Cane Apartment New Bazaar emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523499547.jpg?k=5ce87b04070119520acddf892c6232154d3d7c390b31cf7368b24d41c7e18757&o=&hp=1"
+featuredImage: "/images/accommodation/cane-apartment-new-bazaar-523499547.jpg"
 language: en
 slug: cane-apartment-new-bazaar
 address: "Rruga Musa Maci apartment 8 / floor 2, 1001 Tirana, Albania"

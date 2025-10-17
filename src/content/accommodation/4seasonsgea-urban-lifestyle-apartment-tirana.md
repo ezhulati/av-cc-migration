@@ -1,7 +1,7 @@
 ---
 title: "4SeasonsGea,Urban Lifestyle Apartment,Tirana"
 description: "Discover the charm of Tirana with a stay at the 4SeasonsGea Urban Lifestyle Apartment, a gem located just 600 meters from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506102578.jpg?k=81abe58d34876f60abca4b82295fc7ff6ffdb3a50df0f168524391ea66dcb73d&o=&hp=1"
+featuredImage: "/images/accommodation/4seasonsgea-urban-lifestyle-apartment-tirana-506102578.jpg"
 language: en
 slug: 4seasonsgea-urban-lifestyle-apartment-tirana
 address: "Rruga Shyqyri Bërxolli, 1001 Tirana, Albania"

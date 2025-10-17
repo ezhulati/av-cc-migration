@@ -1,7 +1,7 @@
 ---
 title: "Villa Mehmeti"
 description: "Villa Mehmeti emerges as a charming choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365218183.jpg?k=520ce099fb20905a40235b93bdca8a221b2c7675d434281734acf4c93de72ded&o=&hp=1"
+featuredImage: "/images/accommodation/villa-mehmeti-365218183.jpg"
 language: en
 slug: villa-mehmeti
 address: "Rruga 40 Shenjtorët, 9701 Sarandë, Albania"

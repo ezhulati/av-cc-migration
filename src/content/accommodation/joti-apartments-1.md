@@ -1,7 +1,7 @@
 ---
 title: "Joti Apartments 1"
 description: "Joti Apartments 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491179496.jpg?k=d9ceda1ab4c91ae91e0394e1b7409b3671dba589879ff0876526a3097cf7795a&o=&hp=1"
+featuredImage: "/images/accommodation/joti-apartments-1-491179496.jpg"
 language: en
 slug: joti-apartments-1
 address: "Rruga Lefter Talo 1 floor 2 floor, 9701 Sarandë, Albania"

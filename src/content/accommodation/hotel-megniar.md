@@ -1,7 +1,7 @@
 ---
 title: "HOTEL MEGNIAR"
 description: "HOTEL MEGNIAR emerges as a charming retreat in Lushnjë, located a mere 46 km from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369667280.jpg?k=2ca59b22d2e2f9bbe0e2e1ca88255e9f3dcc33c714d3ae7ea3e7c6e10ef67f48&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-megniar-369667280.jpg"
 language: en
 slug: hotel-megniar
 address: "LAGJA 18 TETORI, 9001 Lushnjë, Albania"

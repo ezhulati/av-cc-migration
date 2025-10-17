@@ -1,7 +1,7 @@
 ---
 title: "City & Harbour at the Door 2 Bedrooms Central Apartment"
 description: "Discover the charm of Vlorë with a stay at the City & Harbour at the Door 2 Bedrooms Central Apartment, a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514793897.jpg?k=2315d5864f30a27c9e9091a45518de4a04389f15458752a706686b0914116f88&o=&hp=1"
+featuredImage: "/images/accommodation/city-harbour-at-the-door-2-bedrooms-central-apartment-514793897.jpg"
 language: en
 slug: city-harbour-at-the-door-2-bedrooms-central-apartment
 address: "Rruga Kosova, 9401 Vlorë, Albania"

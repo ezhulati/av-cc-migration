@@ -1,7 +1,7 @@
 ---
 title: "Hotel Omer The Ottoman House"
 description: "Hotel Omer The Ottoman House stands out as a prime choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156370006.jpg?k=11a3da1916c8279b5ed900fe1ea6648ec41f95d08f1b5cee25a10256164d748e&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-omer-the-ottoman-house-156370006.jpg"
 language: en
 slug: hotel-omer-the-ottoman-house
 address: "Rruga Antipatrea, 5001 Berat, Albania"

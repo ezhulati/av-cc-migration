@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa Juna Sarande with Private Beach"
 description: "Luxury Villa Juna Sarande stands as a beacon of comfort and exclusivity, right on the edge of the pristine Saranda Bay Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309169422.jpg?k=509818c2b85a2e67b60f1e42851a10553365c930cf074eafdb6c58def07d9460&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-villa-juna-sarande-with-private-beach-309169422.jpg"
 language: en
 slug: luxury-villa-juna-sarande-with-private-beach
 address: "Rruga Idriz Alidhima Next to Mucobega Hotel 2, 9701 Sarandë, Albania"

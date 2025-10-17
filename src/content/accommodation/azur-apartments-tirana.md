@@ -1,7 +1,7 @@
 ---
 title: "Azurè Apartments Tirana"
 description: "Azurè Apartments Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528028330.jpg?k=c99bd496958abb12282dd192ec6980222b022356c7cb1843087cfc301e17195d&o=&hp=1"
+featuredImage: "/images/accommodation/azur-apartments-tirana-528028330.jpg"
 language: en
 slug: azur-apartments-tirana
 address: "Rruga e Saraçëve, 1001 Tirana, Albania"

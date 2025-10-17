@@ -1,7 +1,7 @@
 ---
 title: "Mina"
 description: "Mina stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/mina-f69a0f45af41.jpg"
 language: en
 slug: mina
 address: "Rruga Reshit Petrela, 1057 Tirana, Albania"

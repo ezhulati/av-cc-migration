@@ -1,7 +1,7 @@
 ---
 title: "Heaven Beach Sarandë"
 description: "Heaven Beach Sarandë emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309728093.jpg?k=b3c9bee17b6234dbb301209790f12fb3f5a0807f63c94bb3e15b6c35ad68fc5c&o=&hp=1"
+featuredImage: "/images/accommodation/heaven-beach-sarand-309728093.jpg"
 language: en
 slug: heaven-beach-sarand
 address: "Berdenesh, 9701 Sarandë, Albania"

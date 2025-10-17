@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vlora International"
 description: "Discover the charm of Hotel Vlora International, a modern oasis located just a stone's throw away from the serene Vlora Bay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213148418.jpg?k=c9e83fb9574c59369b5ae4e622cfefbe136ff044c5bd79e38649d0e4b59608c4&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vlora-international-213148418.jpg"
 language: en
 slug: hotel-vlora-international
 address: "Rruga Ismail Qemali, 9400 Vlorë, Albania"

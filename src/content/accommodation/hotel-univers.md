@@ -1,7 +1,7 @@
 ---
 title: "Hotel Univers"
 description: "Hotel Univers stands as a beacon of comfort and convenience in Bajram Curri, located a mere 45 km from the historic Visoki Dečani Monastery."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508358338.jpg?k=a6cba02efef480bf4ba48952265252fa702eaf1757132cbd1a7c4471ed7d53ef&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-univers-508358338.jpg"
 language: en
 slug: hotel-univers
 address: "Rruga Ram Sadria Kryqezimi i Dragobise, 8702 Bajram Curri, Albania"

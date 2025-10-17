@@ -1,7 +1,7 @@
 ---
 title: "Eni`s Apartments"
 description: "Eni's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in their accommodation."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"
+featuredImage: "/images/accommodation/eni-s-apartments-7eb52a437de4.jpg"
 language: en
 slug: eni-s-apartments
 address: "Rruga Tom Plezha, 1057 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "L&I"
 description: "L&I Homestay, located in the picturesque city of Berat, stands out as a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/324126433.jpg?k=87096bbfce0d365d670ab283822ea50352231dee93b877baf857f01003f598fe&o=&hp=1"
+featuredImage: "/images/accommodation/l-i-324126433.jpg"
 language: en
 slug: l-i
 address: "Rruga e Kishës Una villa con due piani, 5000 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Relax"
 description: "Hotel Relax stands as a beacon of comfort and convenience in the heart of Gjirokastër, merely a stone's throw away from the iconic Gjirokastër fortress."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195693098.jpg?k=3edce0ac89181dc9cfb947d2c12a8af3776e464be2021536ef877337e1fa035a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-relax-195693098.jpg"
 language: en
 slug: hotel-relax
 address: "Rruga Gjin Zenebisi, 6001 Gjirokastër, Albania"

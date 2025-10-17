@@ -1,7 +1,7 @@
 ---
 title: "Sea Horizon Vsl Suites & Apartments"
 description: "Sea Horizon Vsl Suites & Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257541976.jpg?k=e10f4c6cac64f133bcad656ad8c24ba371b35285f74ac34726517c0a9805eb84&o=&hp=1"
+featuredImage: "/images/accommodation/sea-horizon-vsl-suites-apartments-257541976.jpg"
 language: en
 slug: sea-horizon-vsl-suites-apartments
 address: "Rruga Mitat Hoxha, Sarandë, Albania"

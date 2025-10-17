@@ -1,7 +1,7 @@
 ---
 title: "Vila Korani"
 description: "Vila Korani emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259638336.jpg?k=68f90af3458aa8dfc2f8e83e06f9752655f29a541648328b0eb0a6625c5cbeb0&o=&hp=1"
+featuredImage: "/images/accommodation/vila-korani-259638336.jpg"
 language: en
 slug: vila-korani
 address: "Rruga Qemal Stafa Nr.123, 1005 Tirana, Albania"

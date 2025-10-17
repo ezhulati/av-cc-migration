@@ -1,7 +1,7 @@
 ---
 title: "Marshmallow Kraal sea view"
 description: "Marshmallow Kraal Sea View emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, boasting an enviable location just 80 meters from Vjetër Beach and a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488719698.jpg?k=2cb1dc63505fe53653eca118422eb124ee5c0572d8279a1896d1f3b62cfc743e&o=&hp=1"
+featuredImage: "/images/accommodation/marshmallow-kraal-sea-view-488719698.jpg"
 language: en
 slug: marshmallow-kraal-sea-view
 address: "Rr. Sazani, Vlorë, Albania"

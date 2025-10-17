@@ -1,7 +1,7 @@
 ---
 title: "Dream Hotel"
 description: "Dream Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience, positioned just a short stroll from the pristine sands of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412622221.jpg?k=74f80c411b8118f438695a2c70361e57ca40204bc84945abf82136306d8be691&o=&hp=1"
+featuredImage: "/images/accommodation/dream-hotel-412622221.jpg"
 language: en
 slug: dream-hotel
 address: "Lagjia nr.1 Rruga Ali Pashe Tepelena, 9701 Ksamil, Albania"

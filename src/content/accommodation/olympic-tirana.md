@@ -1,7 +1,7 @@
 ---
 title: "Olympic Tirana"
 description: "Olympic Tirana emerges as a standout choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499559402.jpg?k=d49ee9bd379de654028a08c457d5165fa67ee3b48b5782d1383a73676a2e6a40&o=&hp=1"
+featuredImage: "/images/accommodation/olympic-tirana-499559402.jpg"
 language: en
 slug: olympic-tirana
 address: "Rruga Bilal Golemi 5, 1060 Tirana, Albania"

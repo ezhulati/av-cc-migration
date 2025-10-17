@@ -1,7 +1,7 @@
 ---
 title: "Ndreu"
 description: "Ndreu presents a refreshing retreat for travelers seeking the perfect blend of comfort and convenience in Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475628132.jpg?k=39981e06dd36400963f85d96d3b596db4abe4da102c732239dd5e5f7912092ed&o=&hp=1"
+featuredImage: "/images/accommodation/ndreu-475628132.jpg"
 language: en
 slug: ndreu
 address: "Shengjin, Lezhë, Albania"

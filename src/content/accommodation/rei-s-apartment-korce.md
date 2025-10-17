@@ -1,7 +1,7 @@
 ---
 title: "Rei’s Apartment Korce"
 description: "Rei’s Apartment Korce emerges as a prime choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515018027.jpg?k=a495711d7219adbcedc1262970efea7624ec5d5ea22840f469d05213d9b5309c&o=&hp=1"
+featuredImage: "/images/accommodation/rei-s-apartment-korce-515018027.jpg"
 language: en
 slug: rei-s-apartment-korce
 address: "Rruga Midhi Kostani, 7000 Korçë, Albania"

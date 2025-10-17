@@ -1,7 +1,7 @@
 ---
 title: "Vlore Holiday House"
 description: "Vlore Holiday House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349969123.jpg?k=a786d6e631dbfd92bf85a79a19cfdf81f9d6e926151c7fb3346e3b58e9d35379&o=&hp=1"
+featuredImage: "/images/accommodation/vlore-holiday-house-349969123.jpg"
 language: en
 slug: vlore-holiday-house
 address: "Rruga Reshat Osmani, 9401 Vlorë, Albania"

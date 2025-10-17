@@ -1,7 +1,7 @@
 ---
 title: "Rubin Guesthouse Gjirokastra"
 description: "Rubin Guesthouse Gjirokastra emerges as a serene retreat in the heart of Gjirokastër, a mere stone's throw away from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474387989.jpg?k=b079b985ff51d09511ff6c9b3c7cc7b6b433a49f36f7e6084468d35dcca76ea8&o=&hp=1"
+featuredImage: "/images/accommodation/rubin-guesthouse-gjirokastra-474387989.jpg"
 language: en
 slug: rubin-guesthouse-gjirokastra
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

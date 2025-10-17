@@ -1,7 +1,7 @@
 ---
 title: "Freddy's Hotel"
 description: "Freddy's Hotel emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356679823.jpg?k=c6ae71edb825d9553ced09c489db6129edee84ca27c7c86b7b45bd4c66952a13&o=&hp=1"
+featuredImage: "/images/accommodation/freddy-s-hotel-356679823.jpg"
 language: en
 slug: freddy-s-hotel
 address: "Rruga Bardhok Biba 75, 1001 Tirana, Albania"

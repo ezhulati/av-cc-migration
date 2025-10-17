@@ -1,7 +1,7 @@
 ---
 title: "Lino house"
 description: "Lino House emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309512132.jpg?k=54233ee5191180e863a4b05c5b6190a3d6da2a338eb06d7dc0559fa10fe50989&o=&hp=1"
+featuredImage: "/images/accommodation/lino-house-309512132.jpg"
 language: en
 slug: lino-house
 address: "relinobanushi@gmail.com, 9701 Sarandë, Albania"

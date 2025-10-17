@@ -1,7 +1,7 @@
 ---
 title: "Pietro Guesthouse"
 description: "Pietro Guesthouse emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
+featuredImage: "/images/accommodation/pietro-guesthouse-41b962c4f1fc.jpg"
 language: en
 slug: pietro-guesthouse
 address: "31 Rruga Bardhok Biba, 1016 Tirana, Albania"

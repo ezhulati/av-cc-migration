@@ -1,7 +1,7 @@
 ---
 title: "Gjiri i Lalzit lura3"
 description: "Gjiri i Lalzit lura3 emerges as a serene retreat for those seeking a blend of comfort and convenience amidst the vibrant landscapes of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400636610.jpg?k=0197093968ed53f613c9b179411c2600a1b07cf495184a69ff768015f9c0f32f&o=&hp=1"
+featuredImage: "/images/accommodation/gjiri-i-lalzit-lura3-400636610.jpg"
 language: en
 slug: gjiri-i-lalzit-lura3
 address: "Rruga Gjiri i Lalzit, Durrës, Albania"

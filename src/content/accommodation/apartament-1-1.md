@@ -1,7 +1,7 @@
 ---
 title: "Apartament 1+1"
 description: "Discover the charm of Pogradec with a stay at Apartament 1+1, a prime location for travelers seeking both tranquility and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473658537.jpg?k=6ded390fb721db657b5641f108e63064865d09fb5d06478f40987a3272c3413d&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-1-1-473658537.jpg"
 language: en
 slug: apartament-1-1
 address: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

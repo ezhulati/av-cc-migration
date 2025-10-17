@@ -1,7 +1,7 @@
 ---
 title: "Vlora Apartment, Lungomare"
 description: "Vlora Apartment, Lungomare, emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from the tranquil Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494954163.jpg?k=04d5932ca2c6346189c847f20803ff2f44cf7b85eb8f9db13086bb28b75575c1&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-apartment-lungomare-494954163.jpg"
 language: en
 slug: vlora-apartment-lungomare
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

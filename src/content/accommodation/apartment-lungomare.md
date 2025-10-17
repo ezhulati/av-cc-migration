@@ -1,7 +1,7 @@
 ---
 title: "APARTMENT LUNGOMARE"
 description: "APARTMENT LUNGOMARE emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403265154.jpg?k=2edbbef606ecabaccfdccc0e3333cc9a8c63323d3d224594d06d06a2a2d0d23c&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-lungomare-403265154.jpg"
 language: en
 slug: apartment-lungomare
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

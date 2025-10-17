@@ -1,7 +1,7 @@
 ---
 title: "Lost Beach Hotel"
 description: "Discover the charm of Sarandë at the Lost Beach Hotel, a gem located just a stone's throw away from the pristine Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477659936.jpg?k=e875a1241e848d8a1b73fc8446d9cf71d3f7fedc8d97efe34bf362670c3e8c60&o=&hp=1"
+featuredImage: "/images/accommodation/lost-beach-hotel-477659936.jpg"
 language: en
 slug: lost-beach-hotel
 address: "Rruga Nacionale Sarande-Ksamil, 9701 Sarandë, Albania"

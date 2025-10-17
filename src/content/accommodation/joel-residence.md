@@ -1,7 +1,7 @@
 ---
 title: "Joel Residence"
 description: "Joel Residence Hotel stands as a prime destination for travelers seeking the perfect blend of comfort and local cuisine, right on the shores of the Adriatic Sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288859547.jpg?k=33f60e329f15be574d106eade2355a87e462e23b41da8337f7803d15bf4f4964&o=&hp=1"
+featuredImage: "/images/accommodation/joel-residence-288859547.jpg"
 language: en
 slug: joel-residence
 address: "Lagjia 13, Plazh Hekurudha, 2003 Durrës, Albania"

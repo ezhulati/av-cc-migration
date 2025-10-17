@@ -1,7 +1,7 @@
 ---
 title: "Berti Apartament"
 description: "Berti Apartament emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short stroll from Sarande Main Beach and within easy reach of Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488727407.jpg?k=8363391b1fa7ac94c5125f134c3e29d4b56c6df75413bb541578496a215a49c9&o=&hp=1"
+featuredImage: "/images/accommodation/berti-apartament-488727407.jpg"
 language: en
 slug: berti-apartament
 address: "Saranda, AL - Corfu, GR, 9702 Sarandë, Albania"

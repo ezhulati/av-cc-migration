@@ -1,7 +1,7 @@
 ---
 title: "Leko’s apt 106"
 description: "Leko's Apt 106 emerges as a prime choice for travelers seeking comfort and convenience in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349977006.jpg?k=b322f143bebe271cb320a78fbecc72d8ca7cb5374e26852c08a79f5f8fc7ff8e&o=&hp=1"
+featuredImage: "/images/accommodation/leko-s-apt-106-349977006.jpg"
 language: en
 slug: leko-s-apt-106
 address: "Himare, 9425 Himare, Albania"

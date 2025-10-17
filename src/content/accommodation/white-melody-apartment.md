@@ -1,7 +1,7 @@
 ---
 title: "White Melody Apartment"
 description: "Discover the charm of Tirana with a stay at White Melody Apartment, a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523134972.jpg?k=15b742df06336d07024a6df232904753d76f60472806bbecb6ddf48f2253971f&o=&hp=1"
+featuredImage: "/images/accommodation/white-melody-apartment-523134972.jpg"
 language: en
 slug: white-melody-apartment
 address: "Rruga Hoxhë Vokrri, Tirana, Albania"

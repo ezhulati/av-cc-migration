@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nais Beach"
 description: "Hotel Nais Beach emerges as a prime choice for travelers seeking comfort and convenience mere steps away from the pebbly shores of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68218670.jpg?k=8e9e95b96256547e326320638cf48c84d48ab12952d488063605253cf3dc90a0&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-nais-beach-68218670.jpg"
 language: en
 slug: hotel-nais-beach
 address: "Rruga Taulantia, Currila, 2001 Durrës, Albania"

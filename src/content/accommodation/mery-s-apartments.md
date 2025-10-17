@@ -1,7 +1,7 @@
 ---
 title: "MERY'S Apartments"
 description: "MERY'S Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359937678.jpg?k=6755a89c9808ad3b071593b0029b115b74d4b7dc645ac7f2a721196676086e51&o=&hp=1"
+featuredImage: "/images/accommodation/mery-s-apartments-359937678.jpg"
 language: en
 slug: mery-s-apartments
 address: "Rruga Venecia, 2003 Durrës, Albania"

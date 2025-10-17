@@ -1,7 +1,7 @@
 ---
 title: "Vilat Alpine Golden Gjinar"
 description: "Vilat Alpine Golden Gjinar stands as a serene retreat in Elbasan, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516486027.jpg?k=d218119554226faef2ef2c736c17cc772f314f23131ead93bad39b3c8d42ba95&o=&hp=1"
+featuredImage: "/images/accommodation/vilat-alpine-golden-gjinar-516486027.jpg"
 language: en
 slug: vilat-alpine-golden-gjinar
 address: "SH88, 3001 Elbasan, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pazari Apartment"
 description: "Pazari Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513828534.jpg?k=8266780a61a22f0fc5a9d47e6f413483a52bf0b90770880b7ff4233da91180c0&o=&hp=1"
+featuredImage: "/images/accommodation/pazari-apartment-513828534.jpg"
 language: en
 slug: pazari-apartment
 address: "Rr Luigj Gurakuqi, 1001 Tirana, Albania"

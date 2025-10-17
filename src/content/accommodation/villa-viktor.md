@@ -1,7 +1,7 @@
 ---
 title: "Villa Viktor"
 description: "Villa Viktor emerges as a charming retreat in Sarandë, offering guests a unique blend of comfort and convenience with its prime beachfront location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193280305.jpg?k=84f9ca568bf3037a7d9f533f42f0d49a97f8dc1d06ede0bba791eae7f6846810&o=&hp=1"
+featuredImage: "/images/accommodation/villa-viktor-193280305.jpg"
 language: en
 slug: villa-viktor
 address: "Sheshi Europa, 9702 Sarandë, Albania"

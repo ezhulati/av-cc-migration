@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Villa Juri"
 description: "Guesthouse Villa Juri in Berat stands out as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of local charm."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195920601.jpg?k=747271b1de47097909ecb9179e8a4e129f295e352814cae08d3c02c964f0d586&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-villa-juri-195920601.jpg"
 language: en
 slug: guesthouse-villa-juri
 address: "Rruga Ismail Leshi, Berat, Albania, 5001 Berat, Albania"

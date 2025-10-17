@@ -1,7 +1,7 @@
 ---
 title: "Vila Bali"
 description: "Vila Bali emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451655901.jpg?k=21b69c3b38c352ae15b810ceeb204448bb6370448da6a981b9499d052a136805&o=&hp=1"
+featuredImage: "/images/accommodation/vila-bali-451655901.jpg"
 language: en
 slug: vila-bali
 address: "Kongresi i lushnjes 38, Durrës, Albania"

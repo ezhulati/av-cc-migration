@@ -1,7 +1,7 @@
 ---
 title: "Dhome me qera"
 description: "Dhome me qera emerges as a prime choice for travelers seeking a serene stay in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494564101.jpg?k=46663f067449be886e19f9547dfcfd939ce2d006692061a6095a50e9acd7e11d&o=&hp=1"
+featuredImage: "/images/accommodation/dhome-me-qera-494564101.jpg"
 language: en
 slug: dhome-me-qera
 address: "Rruga Muhamet Gjollesha, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rezidenca SHOPI"
 description: "Rezidenca SHOPI Apartments emerges as a modern haven in the heart of Elbasan, offering guests a serene retreat with its city and garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157985063.jpg?k=c8ebf45bdcd5426e0a8de1d87d502866a5cd91be3c3d35b2cb8b0da44ab14803&o=&hp=1"
+featuredImage: "/images/accommodation/rezidenca-shopi-157985063.jpg"
 language: en
 slug: rezidenca-shopi
 address: "elbasan, 3001 Elbasan, Albania"

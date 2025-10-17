@@ -1,7 +1,7 @@
 ---
 title: "Amar"
 description: "Amar stands out as a prime choice for travelers seeking comfort and convenience in Golem, situated just a stone's throw away from both Golem Beach and Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498466226.jpg?k=ce2e7ac9c335b7a10ef9e8fe5dfaeba47e18ec552075cd7293f1fa5449acdcea&o=&hp=1"
+featuredImage: "/images/accommodation/amar-498466226.jpg"
 language: en
 slug: amar
 address: "Golem, Next to Flower Hotel, 2504 Golem, Albania"

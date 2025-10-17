@@ -1,7 +1,7 @@
 ---
 title: "Vollga Moonlight"
 description: "Vollga Moonlight emerges as a premier destination for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the pristine Currila Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496970078.jpg?k=8a27661313079cce3187fa38c3d89947d5b2d4692e3a27f35ecf1a8a727017c1&o=&hp=1"
+featuredImage: "/images/accommodation/vollga-moonlight-496970078.jpg"
 language: en
 slug: vollga-moonlight
 address: "1 Rruga Taulantia, 2001 Durrës, Albania"

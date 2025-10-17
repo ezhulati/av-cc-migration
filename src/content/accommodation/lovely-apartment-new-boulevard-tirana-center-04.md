@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment New Boulevard Tirana Center 04"
 description: "Lovely Apartment New Boulevard Tirana Center 04 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513913845.jpg?k=fd9b6a4a9d69f01f7b39d0efa5a43b77962d208712e5d68a7446707ec79d6828&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-new-boulevard-tirana-center-04-513913845.jpg"
 language: en
 slug: lovely-apartment-new-boulevard-tirana-center-04
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

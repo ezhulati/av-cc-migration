@@ -1,7 +1,7 @@
 ---
 title: "LIFT @Vollga with BBQ and patio"
 description: "LIFT @Vollga with BBQ and patio emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438182556.jpg?k=2ee9649a0872c2041e41ac854cea59c56cf03abb155cac6a74bf7ec1a7f2ab03&o=&hp=1"
+featuredImage: "/images/accommodation/lift-vollga-with-bbq-and-patio-438182556.jpg"
 language: en
 slug: lift-vollga-with-bbq-and-patio
 address: "Rruga Taulantia, 1057 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Village of Peace - House 38"
 description: "Village of Peace - House 38 emerges as a recently updated gem in the heart of Shkodër, offering guests a serene retreat with its lush garden and inviting bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485668849.jpg?k=27106038fe9a706accc290977ef296b021c28c1f03ef6353a70ef589ae806cc9&o=&hp=1"
+featuredImage: "/images/accommodation/village-of-peace-house-38-485668849.jpg"
 language: en
 slug: village-of-peace-house-38
 address: "Rruga Kazenës, 4002 Shkodër, Albania"

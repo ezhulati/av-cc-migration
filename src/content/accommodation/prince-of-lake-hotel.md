@@ -1,7 +1,7 @@
 ---
 title: "Prince of Lake Hotel"
 description: "Prince of Lake Hotel emerges as a distinguished choice for travelers seeking a serene getaway."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497857379.jpg?k=3acef9ad581640bcb1679facb036e3f19edb8bf28949ba6b749d9703e5f423d1&o=&hp=1"
+featuredImage: "/images/accommodation/prince-of-lake-hotel-497857379.jpg"
 language: en
 slug: prince-of-lake-hotel
 address: "Sh41, Zus, Albania, 4001 Shkodër, Albania"

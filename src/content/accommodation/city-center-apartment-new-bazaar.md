@@ -1,7 +1,7 @@
 ---
 title: "City center Apartment New Bazaar"
 description: "City Center Apartment New Bazaar emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512805129.jpg?k=88b510c19c127cffb0bc4beab4679056586aaa408660fd90c3b211bbb4ee64cc&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-apartment-new-bazaar-512805129.jpg"
 language: en
 slug: city-center-apartment-new-bazaar
 address: "Rruga Tefta Tashko-Koço Pallati 176, shkalla 1, kati 4, apartment 11, 1000 Tirana, Albania"

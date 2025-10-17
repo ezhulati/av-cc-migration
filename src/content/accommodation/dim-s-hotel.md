@@ -1,7 +1,7 @@
 ---
 title: "DIM'S Hotel"
 description: "DIM'S Hotel emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527220976.jpg?k=3a0133b8dc9cc5c16085507e42570d3269a6ce468b17d53acb51262ed43006a5&o=&hp=1"
+featuredImage: "/images/accommodation/dim-s-hotel-527220976.jpg"
 language: en
 slug: dim-s-hotel
 address: "Rr. Konferenca e Labinotit Nr. 38 , Lagjia 1, Korce, 7002 Korçë, Albania"

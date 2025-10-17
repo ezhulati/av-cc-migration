@@ -1,7 +1,7 @@
 ---
 title: "Thyamis Apartment"
 description: "Thyamis Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480728275.jpg?k=a7ef0005470139726150f5b2ca16e63bc0b1450de45fcceadf586ae1d27137b9&o=&hp=1"
+featuredImage: "/images/accommodation/thyamis-apartment-480728275.jpg"
 language: en
 slug: thyamis-apartment
 address: "Rruga Bardhyl floor no.5, 1001 Tirana, Albania"

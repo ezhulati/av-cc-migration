@@ -1,7 +1,7 @@
 ---
 title: "Aqua Blue Hotel"
 description: "Aqua Blue Hotel stands out as a serene oasis in Vlorë, merely 60 meters from the pristine Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493538374.jpg?k=c65711be8a41e56265819381209cc9b39529b2b1823fd22bd8653b9adfff6372&o=&hp=1"
+featuredImage: "/images/accommodation/aqua-blue-hotel-493538374.jpg"
 language: en
 slug: aqua-blue-hotel
 address: "Rruga Aleksandër Moisiu, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kshira Oasis - Luxury 7-Bedroom Vila"
 description: "Kshira Oasis - Luxury 7-Bedroom Villa stands as a premier destination for travelers seeking an exclusive retreat just a stone's throw away from Qeparo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031751.jpg?k=4b122ac43525e0545bf648a025c353fc722e14d2ea66fdff20001ad5e5eddd98&o=&hp=1"
+featuredImage: "/images/accommodation/kshira-oasis-luxury-7-bedroom-vila-456031751.jpg"
 language: en
 slug: kshira-oasis-luxury-7-bedroom-vila
 address: "Himare / QEPARO PROTOPAPE VL 0708, 1001 Qeparo, Albania"

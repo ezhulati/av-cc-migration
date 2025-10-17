@@ -1,7 +1,7 @@
 ---
 title: "Hotel Berati"
 description: "Discover the charm of Berati with a stay at the esteemed Hotel Berati, a prime choice for travelers seeking both comfort and convenience in the heart of the city's historical center."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/17744908.jpg?k=b3e0534e3f7aae6897ddce6f11ae0961defff65432a3794ee2f287a8767a19bb&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-berati-17744908.jpg"
 language: en
 slug: hotel-berati
 address: "Ruga Veli Zaloshnja, 5000 Berat, Albania"

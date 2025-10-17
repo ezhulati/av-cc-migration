@@ -1,7 +1,7 @@
 ---
 title: "Julton Events Hotel"
 description: "Julton Events Hotel emerges as a serene oasis just a short drive from the bustling heart of Domje, offering a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350743212.jpg?k=cf4169d1eea84ba23a957370be6bc8462a833bccddde5eedf97808e14f4e0418&o=&hp=1"
+featuredImage: "/images/accommodation/julton-events-hotel-350743212.jpg"
 language: en
 slug: julton-events-hotel
 address: "Rruga Bylis domje 4, 1053 Domje, Albania"

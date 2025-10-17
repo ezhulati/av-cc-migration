@@ -1,7 +1,7 @@
 ---
 title: "SI-RI Apartment"
 description: "SI-RI Apartment offers a refreshing stay in the historic heart of Gjirokastër, providing guests with a comfortable, air-conditioned retreat complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482816018.jpg?k=31f4c357f7de9dabcb23b7ae3b136494e3605b5e1a3da294b1534114767bd77f&o=&hp=1"
+featuredImage: "/images/accommodation/si-ri-apartment-482816018.jpg"
 language: en
 slug: si-ri-apartment
 address: "Girokaster, 6001 Gjirokastër, Albania"

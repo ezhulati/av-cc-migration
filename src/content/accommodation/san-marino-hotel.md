@@ -1,7 +1,7 @@
 ---
 title: "San Marino Hotel"
 description: "San Marino Hotel, located in the vibrant city of Vlorë, stands out as a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307443421.jpg?k=a53f848a286f6cd35b980f37159aab6081e310071f370e4cc127915454782627&o=&hp=1"
+featuredImage: "/images/accommodation/san-marino-hotel-307443421.jpg"
 language: en
 slug: san-marino-hotel
 address: "Rruga Lef Sallata lemas, 9401 Vlorë, Albania"

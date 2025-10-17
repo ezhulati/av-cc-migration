@@ -1,7 +1,7 @@
 ---
 title: "Saranda Aquamarine Sea View Condo"
 description: "Saranda Aquamarine Sea View Condo emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523724030.jpg?k=8ae95f832e0f56e4d18710f49bea5602e797f9155c136363a9bba695c8ecaab2&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-aquamarine-sea-view-condo-523724030.jpg"
 language: en
 slug: saranda-aquamarine-sea-view-condo
 address: "Rr. Butrinti, 9701 Sarandë, Albania"

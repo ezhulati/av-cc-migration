@@ -1,7 +1,7 @@
 ---
 title: "White Hotel"
 description: "White Hotel emerges as a serene oasis in Borsh, just a stone's throw away from the pristine Borsh Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367159032.jpg?k=6ae46b8fe557a750c590aa149293d74898f65c1c58904e4aeb1be2b8cbaa7f02&o=&hp=1"
+featuredImage: "/images/accommodation/white-hotel-367159032.jpg"
 language: en
 slug: white-hotel
 address: "Road Plazhi, 9714 Borsh, Albania"

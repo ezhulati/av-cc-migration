@@ -1,7 +1,7 @@
 ---
 title: "Sancho Farm Albania"
 description: "Sancho Farm Albania, located in the serene town of Memaliaj, stands out as a premier destination for travelers seeking a blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364861762.jpg?k=4c82e5f04674cdd88f4353c6919bea1de92698fdd1b41ac0826a3ac773c957a8&o=&hp=1"
+featuredImage: "/images/accommodation/sancho-farm-albania-364861762.jpg"
 language: en
 slug: sancho-farm-albania
 address: "rr. Medi Bisha, 6302 Memaliaj, Albania"

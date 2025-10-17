@@ -1,7 +1,7 @@
 ---
 title: "Vila Alba"
 description: "Vila Alba emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489967603.jpg?k=b0b98452b3615bf7c4218759f881b4e831b55dfec869dcbe20b7a026550d476d&o=&hp=1"
+featuredImage: "/images/accommodation/vila-alba-489967603.jpg"
 language: en
 slug: vila-alba
 address: "Rruga Foqon Postoli, 7002 Korçë, Albania"

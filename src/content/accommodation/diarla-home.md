@@ -1,7 +1,7 @@
 ---
 title: "Diarla home"
 description: "Diarla Home stands out as a serene retreat, situated 42 km away from the bustling Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522150745.jpg?k=8f4ec6cf4137c4ed8209728e1dcc41af4575776161e37d809757eb730e179f17&o=&hp=1"
+featuredImage: "/images/accommodation/diarla-home-522150745.jpg"
 language: en
 slug: diarla-home
 address: "darezez e re, 9300 Fier, Albania"

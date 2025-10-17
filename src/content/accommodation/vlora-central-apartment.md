@@ -1,7 +1,7 @@
 ---
 title: "Vlora Central Apartment"
 description: "Vlora Central Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476558826.jpg?k=2fea5ff0a03354e06aca370ce36377a19e76d3c541614b830645324bf8a74dfc&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-central-apartment-476558826.jpg"
 language: en
 slug: vlora-central-apartment
 address: "veledin kollozi, 9402 Vlorë, Albania"

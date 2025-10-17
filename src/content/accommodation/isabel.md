@@ -1,7 +1,7 @@
 ---
 title: "Isabel"
 description: "Isabel stands as a prime choice for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/isabel-2c7be68fb3f9.jpg"
 language: en
 slug: isabel
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

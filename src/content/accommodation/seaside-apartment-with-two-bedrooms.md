@@ -1,7 +1,7 @@
 ---
 title: "Seaside Apartment with two bedrooms"
 description: "Seaside Apartment with two bedrooms emerges as a prime choice for travelers seeking a blend of comfort and adventure in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305686000.jpg?k=3668cdfc3509e3ffbad31588ac2da6436a84662cc8e16da68927302bb763255f&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-apartment-with-two-bedrooms-305686000.jpg"
 language: en
 slug: seaside-apartment-with-two-bedrooms
 address: "rruga Kaso Petoshati 250 M larg nga Shkolla e Marines Vlore Shkolla e Marines, Vlorë, Albania"

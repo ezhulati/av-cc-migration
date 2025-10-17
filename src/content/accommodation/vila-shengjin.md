@@ -1,7 +1,7 @@
 ---
 title: "vila shengjin"
 description: "Vila Shengjin emerges as a prime beachfront destination in Lezhë, offering guests an unparalleled blend of comfort and convenience just 2."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/vila-shengjin-8d80ab6bf73f.jpg"
 language: en
 slug: vila-shengjin
 address: "Rruga Shengjin, 4501 Lezhë, Albania"

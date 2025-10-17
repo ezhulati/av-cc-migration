@@ -1,7 +1,7 @@
 ---
 title: "Hotel Oxhaku by Go4sea"
 description: "Hotel Oxhaku by Go4sea, located in the vibrant heart of Sarandë within the Vlorë County region, stands out as a beacon for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270412289.jpg?k=990edcb59a5d11720a97e908e2e7fe9226dce223cc751bd795dd60dfed3c4c01&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-oxhaku-by-go4sea-270412289.jpg"
 language: en
 slug: hotel-oxhaku-by-go4sea
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

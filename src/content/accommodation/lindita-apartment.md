@@ -1,7 +1,7 @@
 ---
 title: "Lindita Apartment"
 description: "Lindita Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516310914.jpg?k=26fdc5db1872c807e286e0a042df110514329590dffdc0fe2d0253357f8d3422&o=&hp=1"
+featuredImage: "/images/accommodation/lindita-apartment-516310914.jpg"
 language: en
 slug: lindita-apartment
 address: "Rruga Gjon Buzuku, 1001 Tirana, Albania"

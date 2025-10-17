@@ -1,7 +1,7 @@
 ---
 title: "RTSH Apartment"
 description: "RTSH Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435513397.jpg?k=08420d1facb66c5c5da17fbc6e81ba09f22298ab8f0b17ee3dfaa4996fa0674e&o=&hp=1"
+featuredImage: "/images/accommodation/rtsh-apartment-435513397.jpg"
 language: en
 slug: rtsh-apartment
 address: "Street Ismail Qemali, palace 34, Stair1, Floor 6, apartment 18, 1010 Tirana, Albania"

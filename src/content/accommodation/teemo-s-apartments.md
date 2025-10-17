@@ -1,7 +1,7 @@
 ---
 title: "Teemo's Apartments"
 description: "Teemo's Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480330425.jpg?k=cc3b57560a65c9ead3aef92d8ffdaec564f6d66554a7ba6cbeeb3b8b5b4588da&o=&hp=1"
+featuredImage: "/images/accommodation/teemo-s-apartments-480330425.jpg"
 language: en
 slug: teemo-s-apartments
 address: "450 onhezmus street, 50 m from the citys hospital, apartment complex 58, first floor, first apartment., 9701 Sarandë, Albania"

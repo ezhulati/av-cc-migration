@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sofo"
 description: "Hotel Sofo stands as a serene retreat in Llogara, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498866325.jpg?k=a17c670d49626c07c8c2ab9f125127f771b951a763363a840f5265780b0261fc&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-sofo-498866325.jpg"
 language: en
 slug: hotel-sofo
 address: "SH8, 9426 Llogara, Albania"

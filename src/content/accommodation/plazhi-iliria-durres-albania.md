@@ -1,7 +1,7 @@
 ---
 title: "Plazhi “Iliria” Durres Albania"
 description: "Plazhi “Iliria” Durres Albania emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515802003.jpg?k=5e52089dbabab8415d97635f35f4a9577b2f6dce80328843462de1f842bf5c1c&o=&hp=1"
+featuredImage: "/images/accommodation/plazhi-iliria-durres-albania-515802003.jpg"
 language: en
 slug: plazhi-iliria-durres-albania
 address: "Durres, Plazhi Iliria, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Gersi's Daily Apartament"
 description: "Gersi's Daily Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14Gjcm6Y4HNlrNa_bY54vMH6qQuSbAKulde9kIV26=s96-c64"
+featuredImage: "/images/accommodation/gersi-s-daily-apartament-AOh14Gjcm6Y4.jpg"
 language: en
 slug: gersi-s-daily-apartament
 address: "Rruga Selman Riza First Floor, 1028 Tirana, Albania"

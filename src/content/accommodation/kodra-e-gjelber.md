@@ -1,7 +1,7 @@
 ---
 title: "Kodra E Gjelber"
 description: "Kodra E Gjelber emerges as a distinguished choice for travelers seeking both comfort and convenience, situated 33 km from the vibrant Independence Square in Hundëkuq."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403340101.jpg?k=21c6d9016319abaca1a7797194b1233d04d71c851ac4f366250184df9cce366a&o=&hp=1"
+featuredImage: "/images/accommodation/kodra-e-gjelber-403340101.jpg"
 language: en
 slug: kodra-e-gjelber
 address: "E853 Qafa e Koshovices, 9300 Hundëkuq, Albania"

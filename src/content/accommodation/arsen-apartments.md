@@ -1,7 +1,7 @@
 ---
 title: "Arsen Apartments"
 description: "Arsen Apartments emerges as a charming choice for travelers seeking a serene getaway in Sarandë, located conveniently close to the pristine Mango Beach and the tranquil Heaven Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367849655.jpg?k=d5072859cf650350477d13bfcc5ba4da8af9eac459e2a159e4b23f3236b8bf22&o=&hp=1"
+featuredImage: "/images/accommodation/arsen-apartments-367849655.jpg"
 language: en
 slug: arsen-apartments
 address: "Turizem - kanali i cukes 3, 9700 Sarandë, Albania"

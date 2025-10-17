@@ -1,7 +1,7 @@
 ---
 title: "Square INN Komuna"
 description: "Square INN Komuna emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487250565.jpg?k=0fdd988acb1e043c09737719da2fd74bd52b52c0debe8ede5ac832a941f3cd3f&o=&hp=1"
+featuredImage: "/images/accommodation/square-inn-komuna-487250565.jpg"
 language: en
 slug: square-inn-komuna
 address: "Sheshi Jozef San Martin Pallati 3, Kati 7, 1002 Tirana, Albania"

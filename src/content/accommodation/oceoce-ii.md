@@ -1,7 +1,7 @@
 ---
 title: "OceOce II"
 description: "OceOce II emerges as a serene retreat in Elbasan, offering guests a unique blend of comfort and convenience with its well-appointed accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458436109.jpg?k=7da058d5b512f1ce2476c4c145311288a5104934a3bd97f65351179f851c75ee&o=&hp=1"
+featuredImage: "/images/accommodation/oceoce-ii-458436109.jpg"
 language: en
 slug: oceoce-ii
 address: "813 Bulevardi Qemal Stafa, 3001 Elbasan, Albania"

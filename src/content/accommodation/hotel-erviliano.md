@@ -1,7 +1,7 @@
 ---
 title: "Hotel Erviliano"
 description: "Hotel Erviliano stands as a serene oasis in Borsh, offering breathtaking sea views and a mere stone's throw away from the pristine Borsh Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299161922.jpg?k=f02f312f716708d8a225dcc77ceb0c381f752d2278863a63e548af1055dc4548&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-erviliano-299161922.jpg"
 language: en
 slug: hotel-erviliano
 address: "Shkalle Borsh, 9400 Borsh, Albania"

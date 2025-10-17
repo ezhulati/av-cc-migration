@@ -1,7 +1,7 @@
 ---
 title: "Casa Shtoj I Vjeter, Shkoder"
 description: "Casa Shtoj I Vjeter in Shkoder presents an inviting retreat for those seeking a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489469110.jpg?k=8665897ec848a980cbc3bad2d06b793901f23dc30fc0215c49b18cc21165e16c&o=&hp=1"
+featuredImage: "/images/accommodation/casa-shtoj-i-vjeter-shkoder-489469110.jpg"
 language: en
 slug: casa-shtoj-i-vjeter-shkoder
 address: "Rruga e Hurmave, Shtoji i Vjetër, Albania"

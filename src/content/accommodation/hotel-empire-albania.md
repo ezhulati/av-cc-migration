@@ -1,7 +1,7 @@
 ---
 title: "Hotel Empire Albania"
 description: "Hotel Empire Albania emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422612496.jpg?k=556005a1bd5ad7b0f24176c08d20b568029ae429a4e39a3014cd08939a3bd073&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-empire-albania-422612496.jpg"
 language: en
 slug: hotel-empire-albania
 address: "Pavarësia Street, 2000 Durrës, Albania"

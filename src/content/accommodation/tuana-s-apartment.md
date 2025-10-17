@@ -1,7 +1,7 @@
 ---
 title: "Tuana's Apartment"
 description: "Tuana's Apartment emerges as a serene retreat in the heart of Shkodër, a mere 49 km away from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451974869.jpg?k=10ad289e66741f5e117299a8ace151e608387ece0c82769611ffc5a476ecf0a3&o=&hp=1"
+featuredImage: "/images/accommodation/tuana-s-apartment-451974869.jpg"
 language: en
 slug: tuana-s-apartment
 address: "Rruga Hodo Beg Sokoli Ground floor/First floor, 4001 Shkodër, Albania"

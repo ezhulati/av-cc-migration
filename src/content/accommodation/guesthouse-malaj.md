@@ -1,7 +1,7 @@
 ---
 title: "GuestHouse Malaj"
 description: "GuestHouse Malaj stands as a prime choice for travelers seeking comfort and convenience in Shkodër, Shkoder County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501100778.jpg?k=426036153a59d55e5ee7151bdb15a377fa5030de1fd281820cb98627ed052e70&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-malaj-501100778.jpg"
 language: en
 slug: guesthouse-malaj
 address: "Shkoder Bypass, Shkodër, Albania"

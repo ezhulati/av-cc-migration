@@ -1,7 +1,7 @@
 ---
 title: "Center Tirana Goldi Apartment"
 description: "Discover the charm of Tirana from the comfort of the Center Tirana Goldi Apartment, a prime choice for travelers seeking both convenience and style."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/center-tirana-goldi-apartment-f69a0f45af41.jpg"
 language: en
 slug: center-tirana-goldi-apartment
 address: "Rruga Gjon Buzuku 9, 1015 Tirana, Albania"

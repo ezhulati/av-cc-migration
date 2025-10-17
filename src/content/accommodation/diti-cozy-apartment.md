@@ -1,7 +1,7 @@
 ---
 title: "Diti Cozy Apartment"
 description: "Diti Cozy Apartment emerges as a modern haven for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361206828.jpg?k=836e18138e21b4cf5125ab60f577fb675980a719a5b9b16381cf902f36763b7f&o=&hp=1"
+featuredImage: "/images/accommodation/diti-cozy-apartment-361206828.jpg"
 language: en
 slug: diti-cozy-apartment
 address: "Rruga Zonja Çurre, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DEJA BLUE Beach House Bay of Lalzi Durres Gjiri Lalzit"
 description: "DEJA BLUE Beach House Bay of Lalzi Durres Gjiri Lalzit stands as a serene retreat for those seeking a tranquil escape by the sea."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/deja-blue-beach-house-bay-of-lalzi-durres-gjiri-lalzit-d321d61d78a8.jpg"
 language: en
 slug: deja-blue-beach-house-bay-of-lalzi-durres-gjiri-lalzit
 address: "Rruga Gjiri i Lalzit, 2015 Durrës, Albania"

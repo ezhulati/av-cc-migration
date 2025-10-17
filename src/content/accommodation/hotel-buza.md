@@ -1,7 +1,7 @@
 ---
 title: "Hotel Buza"
 description: "Discover the charm of Hotel Buza, a serene oasis located in the heart of Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106364772.jpg?k=fa4d162404acebb990bbe3fcd08899f1b6d591e9a40af600d633c5be1deed33a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-buza-106364772.jpg"
 language: en
 slug: hotel-buza
 address: "SH1 - Shkoder Koplik First KM, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Berg Seaview Vlore"
 description: "Berg Seaview Vlore emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487697442.jpg?k=659dcf1af11fe61d66a4e14eda3c554a889de8987fc572054520c9ef4be456d5&o=&hp=1"
+featuredImage: "/images/accommodation/berg-seaview-vlore-487697442.jpg"
 language: en
 slug: berg-seaview-vlore
 address: "Pavli Flloko 9400 Vlore 5, 9400 Vlorë, Albania"

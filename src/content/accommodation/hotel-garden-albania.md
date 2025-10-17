@@ -1,7 +1,7 @@
 ---
 title: "Hotel Garden Albania"
 description: "Hotel Garden Albania emerges as a serene oasis in Golem, a stone's throw away from the pristine shores of Qerret Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400095452.jpg?k=30d33fba963243e7d296867f1f969abcc164a9cf09ef6bfe1120ec90e93d7873&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-garden-albania-400095452.jpg"
 language: en
 slug: hotel-garden-albania
 address: "mali i robit Rruga fshatrave turistike 2, 2504 Golem, Albania"

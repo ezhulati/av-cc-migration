@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bar Restaurant America"
 description: "Hotel Bar Restaurant America emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Kukës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142512253.jpg?k=47c55c15ace2a7cc687ab5bbb7ddd197a94fef62eaad2fe6b205936100442e37&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bar-restaurant-america-142512253.jpg"
 language: en
 slug: hotel-bar-restaurant-america
 address: "Rruga Eksod 99 Eksodi 99, 8502 Kukës, Albania"

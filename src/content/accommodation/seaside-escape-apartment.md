@@ -1,7 +1,7 @@
 ---
 title: "Seaside Escape Apartment"
 description: "Seaside Escape Apartment, located in the vibrant heart of Sarandë, offers a serene retreat just 200 meters from Sarande Main Beach and a short stroll from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472228708.jpg?k=98c54b3906f889978c35ca7b1eedcc5ceb5222b4ebbbdee386be2143c9c77fd5&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-escape-apartment-472228708.jpg"
 language: en
 slug: seaside-escape-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Boulevard Boutique Aparthotel"
 description: "Boulevard Boutique Aparthotel emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, positioned strategically within a short distance from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296385965.jpg?k=f07fe28b73b2912125617ac32ba3f2c1b3d649c29771a8d204139686a232d15e&o=&hp=1"
+featuredImage: "/images/accommodation/boulevard-boutique-aparthotel-296385965.jpg"
 language: en
 slug: boulevard-boutique-aparthotel
 address: "Bulevardi Fan Noli Nr 50, 7001 Korçë, Albania"

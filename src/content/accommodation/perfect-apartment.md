@@ -1,7 +1,7 @@
 ---
 title: "Perfect Apartment"
 description: "Perfect Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"
+featuredImage: "/images/accommodation/perfect-apartment-7eb52a437de4.jpg"
 language: en
 slug: perfect-apartment
 address: "Bulevardi Zogu I apt. 8, floor 3, 1016 Tirana, Albania"

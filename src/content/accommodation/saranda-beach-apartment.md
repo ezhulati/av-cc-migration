@@ -1,7 +1,7 @@
 ---
 title: "Saranda Beach Apartment"
 description: "Saranda Beach Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372662169.jpg?k=5a422aeff0f842c3088eee5414123cd4a53257d2da533b4ac95197211cd633f1&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-beach-apartment-372662169.jpg"
 language: en
 slug: saranda-beach-apartment
 address: "140 Rruga Abedin Dino SHK 1 AP 2, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartments Roxhela"
 description: "Apartments Roxhela emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183247720.jpg?k=132518f5bbbcf2e00310253baea908b0e7294bbd18878cd1c75b60ffe3b0548a&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-roxhela-183247720.jpg"
 language: en
 slug: apartments-roxhela
 address: "Rruga Butrinti, 9702 Sarandë, Albania"

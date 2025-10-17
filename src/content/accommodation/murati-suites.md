@@ -1,7 +1,7 @@
 ---
 title: "Murati Suites"
 description: "Murati Suites stands as a prime choice for travelers seeking comfort and convenience on the shores of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303325203.jpg?k=3d32520828fbb69ea4ff0967312836ec5a6351f0d05a3fc066136e1c06b7284f&o=&hp=1"
+featuredImage: "/images/accommodation/murati-suites-303325203.jpg"
 language: en
 slug: murati-suites
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Heraklis Hotel"
 description: "Heraklis Hotel, situated in the historic heart of Berat, offers a refreshing blend of modern amenities and local charm."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188620956.jpg?k=6da0e8195550de1f8b779d1d328293fb77e8123625d4d4240e688b7ed9a76d82&o=&hp=1"
+featuredImage: "/images/accommodation/heraklis-hotel-188620956.jpg"
 language: en
 slug: heraklis-hotel
 address: "Rruga Andrea Tavanxhiu, 5001 Berat, Albania"

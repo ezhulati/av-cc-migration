@@ -1,7 +1,7 @@
 ---
 title: "Vacation apartment in Vlora"
 description: "Discover the charm of Vlorë with a stay at the Vacation Apartment in Vlora, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483746984.jpg?k=2554617d5ab2e965d600c450cbd9b3bbe9739431d3260bc17c49825de2d2f9c2&o=&hp=1"
+featuredImage: "/images/accommodation/vacation-apartment-in-vlora-483746984.jpg"
 language: en
 slug: vacation-apartment-in-vlora
 address: "Rruga Murat Tërbaçi 2, 9401 Vlorë, Albania"

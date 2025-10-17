@@ -1,7 +1,7 @@
 ---
 title: "Mario Vila's"
 description: "Mario Vila's stands out as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519635914.jpg?k=a9df8bafea19f0c99debb3f06e7b3d3cb6ed1cbe14e6a0af153ff4da753d0c60&o=&hp=1"
+featuredImage: "/images/accommodation/mario-vila-s-519635914.jpg"
 language: en
 slug: mario-vila-s
 address: "SH72, 5001 Berat, Albania"

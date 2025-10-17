@@ -1,7 +1,7 @@
 ---
 title: "Enxhi's apartment"
 description: "Enxhi's Apartment emerges as a serene haven in the vibrant heart of Tirana, merely a stone's throw away from the city's most captivating landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498117866.jpg?k=f01f9a91b3aa14a89e07a11555f9777b780b1778e5b528ce4dfd3a75734cd481&o=&hp=1"
+featuredImage: "/images/accommodation/enxhi-s-apartment-498117866.jpg"
 language: en
 slug: enxhi-s-apartment
 address: "Rruga Perlat Rexhepi, 1019 Tirana, Albania"

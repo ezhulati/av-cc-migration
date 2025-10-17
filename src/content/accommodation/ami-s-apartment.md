@@ -1,7 +1,7 @@
 ---
 title: "Ami's Apartment"
 description: "Ami's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/ami-s-apartment-315f92289c48.jpg"
 language: en
 slug: ami-s-apartment
 address: "Rruga Ismail Qemali, Sarandë, Albania"

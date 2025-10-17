@@ -1,7 +1,7 @@
 ---
 title: "MetaB&B"
 description: "MetaB&B in Gusmar emerges as a serene retreat for travelers seeking a blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485348070.jpg?k=5751b8f029e80dd749d46e90f308f4917b2632f03a719b70c9915276ec4032c5&o=&hp=1"
+featuredImage: "/images/accommodation/metab-b-485348070.jpg"
 language: en
 slug: metab-b
 address: "Gusmar,Tepelene,Albania Rruga Shahin Demo, 6301 Gusmar, Albania"

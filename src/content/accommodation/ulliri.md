@@ -1,7 +1,7 @@
 ---
 title: "Ulliri"
 description: "Ulliri emerges as a serene oasis in the heart of Tirana, offering guests a tranquil garden setting amidst the city's vibrant life."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460052403.jpg?k=85125650be0d0ae24e6234ed26053e09c7da68a18fe19d12b4b0be20ef2eec2a&o=&hp=1"
+featuredImage: "/images/accommodation/ulliri-460052403.jpg"
 language: en
 slug: ulliri
 address: "Rruga Maksim Artioti, 1001 Tirana, Albania"

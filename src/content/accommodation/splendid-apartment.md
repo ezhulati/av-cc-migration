@@ -1,7 +1,7 @@
 ---
 title: "Splendid Apartment"
 description: "Splendid Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500452998.jpg?k=d86b304d9653032129e62bf9c35d9fc64cbbf3520b42b31ea6f0d9d2aa128cbd&o=&hp=1"
+featuredImage: "/images/accommodation/splendid-apartment-500452998.jpg"
 language: en
 slug: splendid-apartment
 address: "Bulevardi Bajram Curri Building 10, 9th floor, Ap. 29, 1022 Tirana, Albania"

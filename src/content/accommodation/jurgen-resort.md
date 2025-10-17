@@ -1,7 +1,7 @@
 ---
 title: "Jurgen Resort"
 description: "Jurgen Resort, a distinguished four-star haven, offers a serene escape just 3 km away from the Dajti Ekspres Cable Car in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144861747.jpg?k=b714a77a9214e8c4dd0404fd190c3c1223892c8bd642e113e2bb2839b1ae58dd&o=&hp=1"
+featuredImage: "/images/accommodation/jurgen-resort-144861747.jpg"
 language: en
 slug: jurgen-resort
 address: "SH54 Tirane , rruga nacionale Dajt , Linz, 1005 Tirana, Albania"

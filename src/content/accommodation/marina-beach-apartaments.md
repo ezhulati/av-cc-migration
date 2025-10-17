@@ -1,7 +1,7 @@
 ---
 title: "Marina Beach Apartaments"
 description: "Marina Beach Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474585749.jpg?k=5f94b6eec8f43aafb7f9542a18d12c06969a71519c826fd7318b9a985c049ccd&o=&hp=1"
+featuredImage: "/images/accommodation/marina-beach-apartaments-474585749.jpg"
 language: en
 slug: marina-beach-apartaments
 address: "Rruga Haziz Xhyherri, 9406 Vlorë, Albania"

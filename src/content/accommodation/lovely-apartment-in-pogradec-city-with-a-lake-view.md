@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartment in Pogradec city with a lake view"
 description: "Discover the charm of Pogradec with a stay at the Lovely apartment in Pogradec city, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415256542.jpg?k=d058885ab3137d7533e6d19ce95085522303169e1addb6b723361e544eb13617&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-in-pogradec-city-with-a-lake-view-415256542.jpg"
 language: en
 slug: lovely-apartment-in-pogradec-city-with-a-lake-view
 address: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

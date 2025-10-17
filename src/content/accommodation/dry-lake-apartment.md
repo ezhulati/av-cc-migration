@@ -1,7 +1,7 @@
 ---
 title: "Dry Lake Apartment"
 description: "Dry Lake Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529399761.jpg?k=91a9325380ce6f6a608ea298e99619082a4e2edfa98e4231cfc2ec4742a54b78&o=&hp=1"
+featuredImage: "/images/accommodation/dry-lake-apartment-529399761.jpg"
 language: en
 slug: dry-lake-apartment
 address: "Rruga Hamdi Sina, 1001 Tirana, Albania"

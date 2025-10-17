@@ -1,7 +1,7 @@
 ---
 title: "Kabasa Apartments Vlorë"
 description: "Kabasa Apartments Vlorë emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë, situated just 3."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351907737.jpg?k=3b470837f60e11c52e06c7225e643df676afc65d2827c10a35018bf586185175&o=&hp=1"
+featuredImage: "/images/accommodation/kabasa-apartments-vlor-351907737.jpg"
 language: en
 slug: kabasa-apartments-vlor
 address: "Rruga Petrona Haliti, 9400 Vlorë, Albania"

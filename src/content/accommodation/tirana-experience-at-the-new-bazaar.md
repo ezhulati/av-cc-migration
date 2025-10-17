@@ -1,7 +1,7 @@
 ---
 title: "Tirana Experience at the New Bazaar"
 description: "Tirana Experience at the New Bazaar emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/tirana-experience-at-the-new-bazaar-f69a0f45af41.jpg"
 language: en
 slug: tirana-experience-at-the-new-bazaar
 address: "Rruga Hoxha Tahsim 54, 1017 Tirana, Albania"

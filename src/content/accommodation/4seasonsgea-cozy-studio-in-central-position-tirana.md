@@ -1,7 +1,7 @@
 ---
 title: "4SeasonsGea , Cozy Studio In Central Position , Tirana"
 description: "4SeasonsGea Cozy Studio stands as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456391638.jpg?k=535317a70728af5e6e355da5908a95c045c99dc651f060c3185ef416d6fbe4d2&o=&hp=1"
+featuredImage: "/images/accommodation/4seasonsgea-cozy-studio-in-central-position-tirana-456391638.jpg"
 language: en
 slug: 4seasonsgea-cozy-studio-in-central-position-tirana
 address: "Rruga Shyqyri Bërxolli, 1001 Tirana, Albania"

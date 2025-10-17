@@ -1,7 +1,7 @@
 ---
 title: "Center Apartment Easy_Luxury"
 description: "Center Apartment Easy_Luxury emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464255887.jpg?k=647ec1a6a5ce922ae1ffe5ffbb3c04a4f83703092ef712964fc30c932e6b850a&o=&hp=1"
+featuredImage: "/images/accommodation/center-apartment-easy-luxury-464255887.jpg"
 language: en
 slug: center-apartment-easy-luxury
 address: "Rruga e Barrikadave 17-25 building no 18, Entries no 24, floor no 4, apartment no 10, 1000 Tirana, Albania"

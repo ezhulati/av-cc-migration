@@ -1,7 +1,7 @@
 ---
 title: "Apartment Escape"
 description: "Apartment Escape in Durrës emerges as a prime choice for travelers seeking a blend of comfort and convenience, right on the doorstep of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433831093.jpg?k=281f8f7edc493c09a65e8c87e91aeccfebf00b77b2aeae798d912e31a12bcf29&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-escape-433831093.jpg"
 language: en
 slug: apartment-escape
 address: "Shetitorja e Plazhit, 2001 Durrës, Albania"

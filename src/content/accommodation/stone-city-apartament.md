@@ -1,7 +1,7 @@
 ---
 title: "Stone City Apartament"
 description: "Stone City Apartment emerges as a distinguished choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504160657.jpg?k=cf1bcada09bcdd35d77d3ce43a7fc4b50b99f82d73e81e4616f4653ef05216c4&o=&hp=1"
+featuredImage: "/images/accommodation/stone-city-apartament-504160657.jpg"
 language: en
 slug: stone-city-apartament
 address: "30 Rruga Studenti, 6001 Gjirokastër, Albania"

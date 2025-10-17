@@ -1,7 +1,7 @@
 ---
 title: "Top view hostel"
 description: "Top View Hostel, located a mere 200 meters from the pristine shores of Currila Beach in Durrës, offers guests a unique blend of convenience and serenity."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471203791.jpg?k=07836a69fcae0ac9a0dc017f25d483450855913b17dbffc5a42c5b78acc7b25f&o=&hp=1"
+featuredImage: "/images/accommodation/top-view-hostel-471203791.jpg"
 language: en
 slug: top-view-hostel
 address: "Rruga Mbreteresha Teuta, 2001 Durrës, Albania"

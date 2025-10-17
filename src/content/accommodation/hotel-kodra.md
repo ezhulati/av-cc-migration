@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kodra"
 description: "Hotel Kodra, situated in the historic city of Gjirokastër and a mere 44 km from the serene Zaravina Lake, stands out as a beacon of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180916393.jpg?k=fc598fef23a8e9279784bb8b96ad3415c251b5cfa06d4b5c7a8effa433d27a37&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kodra-180916393.jpg"
 language: en
 slug: hotel-kodra
 address: "Lagjia 11 Janari Rruga E Zejtareve, 6002 Gjirokastër, Albania"

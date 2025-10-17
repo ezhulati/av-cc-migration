@@ -1,7 +1,7 @@
 ---
 title: "ILLYRIAN Paradise"
 description: "ILLYRIAN Paradise emerges as a serene retreat in the heart of Kalive Gjoka, a stone's throw away from the pristine Pasqyra Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJzKolOhuS9r1lMG1xjajqfOT31uT9YkpeFqlFU9=s96-c64"
+featuredImage: "/images/accommodation/illyrian-paradise-AATXAJzKolOh.jpg"
 language: en
 slug: illyrian-paradise
 address: "Road Manastir, 9706, Kalive Gjoka, Albania"

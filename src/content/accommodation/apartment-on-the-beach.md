@@ -1,7 +1,7 @@
 ---
 title: "Apartment on the Beach"
 description: "Apartment on the Beach in Vlorë stands out as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475695730.jpg?k=2e92d8d3fde4c32711ea83282b2b5f63fb1c366e0fd95057fa6a9c7f8d602727&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-on-the-beach-475695730.jpg"
 language: en
 slug: apartment-on-the-beach
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

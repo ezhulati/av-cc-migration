@@ -1,7 +1,7 @@
 ---
 title: "Ionian Apartments"
 description: "Ionian Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë, situated a mere stone's throw away from the pristine Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/122867391.webp?k=123b95f55f199d639645d3eae065263faeb2d3060dd4facbad214d6d9ff4420c&o=?t=1625691110"
+featuredImage: "/images/accommodation/ionian-apartments-122867391.we.jpg"
 language: en
 slug: ionian-apartments
 address: "Butrint kanali cukes, 9702 Sarandë, Albania"

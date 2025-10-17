@@ -1,7 +1,7 @@
 ---
 title: "Home Sweet Home - Guest House"
 description: "Home Sweet Home - Guest House emerges as a premier adults-only accommodation in the heart of Tirana, offering a unique blend of comfort and convenience for its guests."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322861767.jpg?k=cf222a8474051d4068f1eccbc46860eb6fd88a5ba2e7aadb87aa9895eb34df3a&o=&hp=1"
+featuredImage: "/images/accommodation/home-sweet-home-guest-house-322861767.jpg"
 language: en
 slug: home-sweet-home-guest-house
 address: "Rruga Loni Ligori 44 Tirana Albania, 1001 Tirana, Albania"

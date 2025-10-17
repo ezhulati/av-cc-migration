@@ -1,7 +1,7 @@
 ---
 title: "eri apartament"
 description: "Eri Apartament emerges as a serene retreat in the vibrant heart of Himare, offering guests a blend of comfort and convenience with its air-conditioned accommodations that boast a private terrace."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GhcSTu92MjVlF1dIVH-wzYPm947rvwxp7ap1euh=s96-c64"
+featuredImage: "/images/accommodation/eri-apartament-AOh14GhcSTu9.jpg"
 language: en
 slug: eri-apartament
 address: "spile himare, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mustang"
 description: "Mustang Hotel emerges as a serene oasis, boasting an on-site bar and air-conditioned accommodations equipped with complimentary WiFi, just a short 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87276985.jpg?k=009541423b3e3b4f26ae9dc8010e34a5f16fd1a75b862e86c7a4d56ecc1f9c3f&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-mustang-87276985.jpg"
 language: en
 slug: hotel-mustang
 address: "Rruga Llazi Miho, Kombinat, Km1, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Venus - Cozy APT with Terrace"
 description: "Venus - Cozy APT with Terrace stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocI10IXpPFdxVoztcLakPk-PJw6NxNFQBpYlD9aLmBXP=s96-c64"
+featuredImage: "/images/accommodation/venus-cozy-apt-with-terrace-ACg8ocI10IXp.jpg"
 language: en
 slug: venus-cozy-apt-with-terrace
 address: "Rruga Gjergj Arianiti Penthouse, 9401 Vlorë, Albania"

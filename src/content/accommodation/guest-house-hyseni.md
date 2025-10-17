@@ -1,7 +1,7 @@
 ---
 title: "Guest House Hyseni"
 description: "Guest House Hyseni stands as a serene retreat in Bulqizë, offering breathtaking mountain views and the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454304808.jpg?k=2311bc5e238ad8980924cce710a38f359cdfcfaf15b1124e3acd755ae6c87860&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-hyseni-454304808.jpg"
 language: en
 slug: guest-house-hyseni
 address: "Sopot, Bulqize, 8401 Bulqizë, Albania"

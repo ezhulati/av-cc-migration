@@ -1,7 +1,7 @@
 ---
 title: "luxury Penthouse shkembi kavajes"
 description: "Luxury Penthouse Shkembi Kavajes emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/luxury-penthouse-shkembi-kavajes-d3882ab9674d.jpg"
 language: en
 slug: luxury-penthouse-shkembi-kavajes
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

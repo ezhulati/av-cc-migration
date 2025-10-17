@@ -1,7 +1,7 @@
 ---
 title: "Brand New Apartment- Great location Seafront with pool access"
 description: "Discover the epitome of coastal living at the Brand New Apartment, a gem situated just a stone's throw away from the pristine shores of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504506579.jpg?k=2d6177fc42e24eb9ee751a31b82020847f9b385242c6c2a4b54713c7164ccf75&o=&hp=1"
+featuredImage: "/images/accommodation/brand-new-apartment-great-location-seafront-with-pool-access-504506579.jpg"
 language: en
 slug: brand-new-apartment-great-location-seafront-with-pool-access
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

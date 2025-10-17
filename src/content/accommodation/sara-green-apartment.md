@@ -1,7 +1,7 @@
 ---
 title: "Sara green apartment"
 description: "Sara Green Apartment emerges as a serene retreat in the vibrant heart of Tirana, located just a short drive from the iconic Skanderbeg Square and the adventurous Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454320921.jpg?k=8f4bb57ebe5f11936f6c2c50fdc6c6c54c14bfa76f050c66c6e7508855b11c60&o=&hp=1"
+featuredImage: "/images/accommodation/sara-green-apartment-454320921.jpg"
 language: en
 slug: sara-green-apartment
 address: "Rruga Teodor Keko, Tirana, Albania"

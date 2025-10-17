@@ -1,7 +1,7 @@
 ---
 title: "Martin Ferraj Riviera"
 description: "Martin Ferraj Riviera stands out as a recently updated gem in Vlorë, boasting a prime location just 700 meters from the serene Vjetër Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/static/img/identity/profile/b47cd0e05ec8b7831167f4f7593ead56402a6bb4.svg"
+featuredImage: "/images/accommodation/martin-ferraj-riviera-b47cd0e05ec8.jpg"
 language: en
 slug: martin-ferraj-riviera
 address: "Rruga Çamëria Floor 4, 9401 Vlorë, Albania"

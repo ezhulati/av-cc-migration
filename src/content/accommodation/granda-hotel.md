@@ -1,7 +1,7 @@
 ---
 title: "Granda Hotel"
 description: "Granda Hotel emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323488201.jpg?k=f714f9bbf76fd0e1d3cedf4f7067a3472db928308df197bab1ba603d355f1867&o=&hp=1"
+featuredImage: "/images/accommodation/granda-hotel-323488201.jpg"
 language: en
 slug: granda-hotel
 address: "Rruga Teodor Keko, 1001 Tirana, Albania"

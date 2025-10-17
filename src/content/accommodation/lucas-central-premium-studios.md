@@ -1,7 +1,7 @@
 ---
 title: "Lucas Central Premium Studios"
 description: "Lucas Central Premium Studios emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495392284.jpg?k=6dc4e9a2f7b2b170c3a922f17913970ac0cc68d6bdd1f046c831129b4aeba74e&o=&hp=1"
+featuredImage: "/images/accommodation/lucas-central-premium-studios-495392284.jpg"
 language: en
 slug: lucas-central-premium-studios
 address: "Rruga Çamëria, Tirana, Albania"

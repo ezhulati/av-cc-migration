@@ -1,7 +1,7 @@
 ---
 title: "Kalemi Sunrise Studios"
 description: "Kalemi Sunrise Studios emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Borsh."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525164357.jpg?k=b84685bbdada240a8799d161836afe9e323a5bc017b1fb342c0c1e5a0cd33e24&o=&hp=1"
+featuredImage: "/images/accommodation/kalemi-sunrise-studios-525164357.jpg"
 language: en
 slug: kalemi-sunrise-studios
 address: "Rruga Plazhi, 9714 Borsh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Sami’s Garden"
 description: "Villa Sami's Garden, located a mere 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511252864.jpg?k=2de53f816bb7518194b6933e5c334f105b42a8bbe778ce70bb2a1c75b9085b16&o=&hp=1"
+featuredImage: "/images/accommodation/villa-sami-s-garden-511252864.jpg"
 language: en
 slug: villa-sami-s-garden
 address: "57 Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"

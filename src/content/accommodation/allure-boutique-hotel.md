@@ -1,7 +1,7 @@
 ---
 title: "Allure Boutique Hotel"
 description: "Allure Boutique Hotel emerges as a distinguished 4-star destination in the heart of Tirana, offering an exceptional stay a stone's throw away from the iconic Skanderbeg Square and within easy reach of the Dajti Ekspres Cable Car, located just 5."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248208562.jpg?k=6f1d2d600670d677c1e6a51a15acc8876e88ca6386d888df508757919f8bc8d3&o=&hp=1"
+featuredImage: "/images/accommodation/allure-boutique-hotel-248208562.jpg"
 language: en
 slug: allure-boutique-hotel
 address: "Street Fortuzi Building 137, 1001 Tirana, Albania"

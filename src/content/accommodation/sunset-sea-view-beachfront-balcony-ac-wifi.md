@@ -1,7 +1,7 @@
 ---
 title: "Sunset Sea View - Beachfront Balcony - AC - Wifi"
 description: "Sunset Sea View - Beachfront Balcony - AC - Wifi emerges as a prime choice for travelers seeking a serene beachfront retreat in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528715226.jpg?k=5f8b140a90a5190e26cc23a71dc48324f620f499f7d6befe7e68f24cd72436b1&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-sea-view-beachfront-balcony-ac-wifi-528715226.jpg"
 language: en
 slug: sunset-sea-view-beachfront-balcony-ac-wifi
 address: "Rruga Shkembi i Kavajes, 2021 Durrës, Albania"

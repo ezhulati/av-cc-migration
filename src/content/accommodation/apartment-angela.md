@@ -1,7 +1,7 @@
 ---
 title: "Apartment Angela"
 description: "Apartment Angela emerges as a serene retreat in Ksamil, positioned a mere stone's throw away from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522267375.jpg?k=f2d86edd8cd048426ad1b5e4e9ad97361b9a72b11595300e495cc7dcc29a7fda&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-angela-522267375.jpg"
 language: en
 slug: apartment-angela
 address: "Rruga baba sherifi ksamil Ksamil, 9706 Ksamil, Albania"

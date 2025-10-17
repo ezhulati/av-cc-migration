@@ -1,7 +1,7 @@
 ---
 title: "House for rent Jurgen"
 description: "Discover the charm of Golem with a stay at House for Rent Jurgen, a serene holiday home boasting a lush garden and prime location just a stone's throw away from the pristine Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484743814.jpg?k=4cc9f96ab7b56f53519530e84d2caf2385930f68f9270072b4678ec345e3c08b&o=&hp=1"
+featuredImage: "/images/accommodation/house-for-rent-jurgen-484743814.jpg"
 language: en
 slug: house-for-rent-jurgen
 address: "Rruga Qemal Stafa, 2504 Golem, Albania"

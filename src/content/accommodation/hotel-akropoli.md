@@ -1,7 +1,7 @@
 ---
 title: "Hotel Akropoli"
 description: "Hotel Akropoli emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364284550.jpg?k=ae6d015bd39125057d68537946c4f93767857f30878c41c99f80ccd4c59fae71&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-akropoli-364284550.jpg"
 language: en
 slug: hotel-akropoli
 address: "Durrsi street. Rruga Ali Bakiu Rruga \"Ali Bakiu\", Sheshi Shqiponja, 1001 Tirana, Albania"

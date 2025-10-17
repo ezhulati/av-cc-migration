@@ -1,7 +1,7 @@
 ---
 title: "Ezekiel Luxury Suite"
 description: "Ezekiel Luxury Suite emerges as a premier choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527652485.jpg?k=2ffe1628dc5f11b904cffe35130f34d7ad429aa46381c0a0d3c45725c4a84e7f&o=&hp=1"
+featuredImage: "/images/accommodation/ezekiel-luxury-suite-527652485.jpg"
 language: en
 slug: ezekiel-luxury-suite
 address: "Rruga Petro Marko, 9401 Vlorë, Albania"

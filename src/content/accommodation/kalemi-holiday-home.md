@@ -1,7 +1,7 @@
 ---
 title: "Kalemi holiday home"
 description: "Kalemi Holiday Home stands as a serene retreat in the heart of Ksamil, a mere stone's throw away from the pristine sands of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481351966.jpg?k=c58a84afe57f9d473d4cf7c5a6a6d9001affafa6fa178349473793e2c7a0e057&o=&hp=1"
+featuredImage: "/images/accommodation/kalemi-holiday-home-481351966.jpg"
 language: en
 slug: kalemi-holiday-home
 address: "Rruga kristal Ksamil, Albania, Ksamil, Albania"

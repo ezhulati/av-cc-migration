@@ -1,7 +1,7 @@
 ---
 title: "Apartment 16"
 description: "Apartment 16 emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, perfectly positioned just a stone's throw away from Mali I Robit Beach and within easy reach of the picturesque Qerret Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451353342.jpg?k=33943b8dcdcfef714ddcf0e8435299461bafff9d017129fbd55d27611bfc5ee1&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-16-451353342.jpg"
 language: en
 slug: apartment-16
 address: "Prestige, Rruga Mak Albania, 2504 Golem, Albania"

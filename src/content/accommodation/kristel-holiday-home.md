@@ -1,7 +1,7 @@
 ---
 title: "Kristel Holiday Home"
 description: "Kristel Holiday Home emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned just a short stroll from the pristine Vjetër Beach and within easy reach of the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451658971.jpg?k=166e34d9cf08cd3b7e7ce7077c1c5a328c91bacccd530fd26d3cc8025e6b6a03&o=&hp=1"
+featuredImage: "/images/accommodation/kristel-holiday-home-451658971.jpg"
 language: en
 slug: kristel-holiday-home
 address: "Rruga Aleks Çaçi, 9401 Vlorë, Albania"

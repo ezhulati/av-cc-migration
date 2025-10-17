@@ -1,7 +1,7 @@
 ---
 title: "Besart room"
 description: "Besart Room emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484988316.jpg?k=a547130f5f1f254e7055148e5a03136779680dc47926037cff75956404191f09&o=&hp=1"
+featuredImage: "/images/accommodation/besart-room-484988316.jpg"
 language: en
 slug: besart-room
 address: "Rruga Orikum, Vlorë, Albania"

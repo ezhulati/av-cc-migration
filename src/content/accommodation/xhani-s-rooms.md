@@ -1,7 +1,7 @@
 ---
 title: "Xhani's Rooms"
 description: "Discover the charm of Durrës with a stay at Xhani's Rooms, a stone's throw away from the serene Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469141387.jpg?k=f8a370f0b5da25e2b80aa4f3ee8fadb222185604b444a52abe82051453605c2e&o=&hp=1"
+featuredImage: "/images/accommodation/xhani-s-rooms-469141387.jpg"
 language: en
 slug: xhani-s-rooms
 address: "Rruga Venecia, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Musaj Mountain Villa"
 description: "Musaj Mountain Villa, located in the heart of Elbasan, offers a serene retreat with its stunning mountain views and comprehensive amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471756405.jpg?k=50eeba318a8b2897a736768c36f07b04610408f5d85e6825aff06c33f0027e56&o=&hp=1"
+featuredImage: "/images/accommodation/musaj-mountain-villa-471756405.jpg"
 language: en
 slug: musaj-mountain-villa
 address: "Gjinar, Elbasan, 3001 Elbasan, Albania"

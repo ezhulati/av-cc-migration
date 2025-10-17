@@ -1,7 +1,7 @@
 ---
 title: "Fox Apartments"
 description: "Fox Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480023820.jpg?k=73903bf6135a8cbbd101363c5c93c652341b64904c7c3267f82d881941df2899&o=&hp=1"
+featuredImage: "/images/accommodation/fox-apartments-480023820.jpg"
 language: en
 slug: fox-apartments
 address: "Bulevardi Zogu I 2, Tirana, Albania"

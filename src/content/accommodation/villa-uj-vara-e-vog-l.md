@@ -1,7 +1,7 @@
 ---
 title: "Villa Ujëvara e vogël"
 description: "Villa Ujëvara e vogël, a serene retreat located just a short distance from the breathtaking Theth National Park, offers guests an unparalleled experience amidst the rugged beauty of Theth."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490429842.jpg?k=984ba46c9fde5bebbdad7fa3855ac55d2045852e4db3501e7175e4d5e7f7b3e7&o=&hp=1"
+featuredImage: "/images/accommodation/villa-uj-vara-e-vog-l-490429842.jpg"
 language: en
 slug: villa-uj-vara-e-vog-l
 address: "Rruga Gjecaj, 4001 Theth, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Strakoshaguesthouse dhermi"
 description: "Strakoshaguesthouse Dhermi emerges as a serene retreat, merely a stone's throw away from the pristine Dhermi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484360194.jpg?k=67c44e79f6f5e4ca4d02ff5132e826ecf92d4634e30dfad4fff116afeddb05c3&o=&hp=1"
+featuredImage: "/images/accommodation/strakoshaguesthouse-dhermi-484360194.jpg"
 language: en
 slug: strakoshaguesthouse-dhermi
 address: "Dhermi rruga e kampit 2, 9422 Dhërmi, Albania"

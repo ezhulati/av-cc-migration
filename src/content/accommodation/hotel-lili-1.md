@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lili-1"
 description: "Hotel Lili-1 emerges as a charming choice for travelers seeking comfort and convenience in the heart of Sarandë, Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376033402.jpg?k=7de563f2c255617c85d924f5f5347c8061b1e0cda1c069034b50e616012398a8&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-lili-1-376033402.jpg"
 language: en
 slug: hotel-lili-1
 address: "Rruga Adem Sheme 87, 9701 Sarandë, Albania"

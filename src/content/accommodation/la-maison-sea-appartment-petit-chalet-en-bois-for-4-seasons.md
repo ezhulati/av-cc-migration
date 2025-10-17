@@ -1,7 +1,7 @@
 ---
 title: "LA MAISON - Sea Appartment & Petit Chalet en Bois for 4 SEASONS"
 description: "LA MAISON - Sea Apartment & Petit Chalet en Bois for 4 SEASONS stands out as a prime choice for travelers seeking a blend of comfort and convenience, coupled with a touch of elegance."
-featuredImage: "https://lh4.googleusercontent.com/-kkxbNYRkq88/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQN5-7a1wdcnZdB6iN603MWqZIosBw/s96-c/photo.jpg64"
+featuredImage: "/images/accommodation/la-maison-sea-appartment-petit-chalet-en-bois-for-4-seasons-photo.jpg64.jpg"
 language: en
 slug: la-maison-sea-appartment-petit-chalet-en-bois-for-4-seasons
 address: "Rruga Fan Noli 8, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Host apartament."
 description: "Host Apartment stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtfmmWNxOKMpjgpMU8pWus6W3BgP1Jv0c20Q4w1RDedS=s96-c64"
+featuredImage: "/images/accommodation/host-apartament-AAcHTtfmmWNx.jpg"
 language: en
 slug: host-apartament
 address: "Rruga Tefta Tashko-Koço, 1005 Tirana, Albania"

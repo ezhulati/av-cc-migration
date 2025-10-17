@@ -1,7 +1,7 @@
 ---
 title: "Vila Kosteli"
 description: "Vila Kosteli emerges as a prime choice for travelers seeking comfort and convenience in Himare, positioned just a short stroll from the pristine Maracit Beach and the tranquil Spille Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108651521.jpg?k=ff568fd345c10d5cb2b93e5379407c29e53c29017c5ed34cdeef6fc6e089e047&o=&hp=1"
+featuredImage: "/images/accommodation/vila-kosteli-108651521.jpg"
 language: en
 slug: vila-kosteli
 address: "National Road Vlore-Sarande, 9422 Himare, Albania"

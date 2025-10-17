@@ -1,7 +1,7 @@
 ---
 title: "Riku's Rooms Sarande"
 description: "Riku's Rooms Sarande emerges as a charming retreat for travelers seeking both comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475681252.jpg?k=783f3c4e89cd62641cc72cc1d686215a54391f20cb0fe8527995d408c2925ba3&o=&hp=1"
+featuredImage: "/images/accommodation/riku-s-rooms-sarande-475681252.jpg"
 language: en
 slug: riku-s-rooms-sarande
 address: "Rruga Idriz Alidhima, 9027 Sarandë, Albania"

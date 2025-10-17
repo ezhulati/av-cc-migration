@@ -1,7 +1,7 @@
 ---
 title: "Villa Ndreca"
 description: "Villa Ndreca, located in the serene Vlorë County region and a mere stone's throw from the pristine Borsh Beach, offers guests an oasis of tranquility and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355606078.jpg?k=9d238daa3d4c301bc07b36c290d3b79c5c48bde3637d946f62e463a46001fb79&o=&hp=1"
+featuredImage: "/images/accommodation/villa-ndreca-355606078.jpg"
 language: en
 slug: villa-ndreca
 address: "Rruga Kubove,Borsh - Villa Ndreca, Qazim Pali, Albania"

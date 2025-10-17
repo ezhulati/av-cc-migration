@@ -1,7 +1,7 @@
 ---
 title: "Senator Hotel"
 description: "Senator Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78793110.jpg?k=1fa6c2b50d54137985659c4c0a23ef9b07a62354e0fc673b8681377e0e9e3515&o=&hp=1"
+featuredImage: "/images/accommodation/senator-hotel-78793110.jpg"
 language: en
 slug: senator-hotel
 address: "Rruga Fortuzi 47, 1001 Tirana, Albania"

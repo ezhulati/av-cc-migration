@@ -1,7 +1,7 @@
 ---
 title: "Hotel Veri"
 description: "Hotel Veri stands out as a distinguished choice for travelers seeking comfort and convenience in Peshkopi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116602548.jpg?k=a03c51d36f1a89ad670865eb506aa4df3e356700e321b2cec5c6a02b39442178&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-veri-116602548.jpg"
 language: en
 slug: hotel-veri
 address: "Peshkopi Rruga Tercilio Kardinali, 8301 Peshkopi, Albania"

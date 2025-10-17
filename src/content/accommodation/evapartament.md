@@ -1,7 +1,7 @@
 ---
 title: "EVApartament"
 description: "EVApartament, a recently updated gem in Tirana, offers travelers a unique blend of comfort and convenience, located just a short distance from the city's key attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520613481.jpg?k=f1fbb2e47a53778d06d8331b1c34c1d82699aff3f8bfdfb5c4f4929796d2b31e&o=&hp=1"
+featuredImage: "/images/accommodation/evapartament-520613481.jpg"
 language: en
 slug: evapartament
 address: "Rruga Zihni Sako Iris Residence Stair 1, 1001 Tirana, Albania"

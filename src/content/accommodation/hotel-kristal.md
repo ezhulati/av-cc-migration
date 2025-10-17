@@ -1,7 +1,7 @@
 ---
 title: "HOTEL KRISTAL"
 description: "HOTEL KRISTAL emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306513438.jpg?k=d8ade0e01367ecde0246956d2daa9c83a502c2b5c6419790b0f118487a042d33&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kristal-306513438.jpg"
 language: en
 slug: hotel-kristal
 address: "Rruga Azem Sulo HOTEL KRISTAL NR 18, 9402 Vlorë, Albania"

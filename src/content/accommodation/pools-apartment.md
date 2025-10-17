@@ -1,7 +1,7 @@
 ---
 title: "Pools Apartment"
 description: "Pools Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386111092.jpg?k=8a1ec6522fedd90843a92b1abb02a1679b070adea903e96d07f7e15416ba2fa3&o=&hp=1"
+featuredImage: "/images/accommodation/pools-apartment-386111092.jpg"
 language: en
 slug: pools-apartment
 address: "Rruga Guri Nazifi, 9701 Sarandë, Albania"

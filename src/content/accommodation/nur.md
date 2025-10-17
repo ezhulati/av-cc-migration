@@ -1,7 +1,7 @@
 ---
 title: "Nur"
 description: "Nur Apartments in Korçë stand out as a prime choice for travelers seeking comfort and convenience, located just a stone's throw away from the serene Monastery Saint Naum at 43 km and the tranquil Ohrid Lake Springs at 44 km."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423986059.jpg?k=9df620f38221319aa90b4b9e6f73fd01ecdf3233e45c1834a43f9198be733bda&o=&hp=1"
+featuredImage: "/images/accommodation/nur-423986059.jpg"
 language: en
 slug: nur
 address: "Rruga Floresha Mytevelli, 7001 Korçë, Albania"

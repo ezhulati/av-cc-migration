@@ -1,7 +1,7 @@
 ---
 title: "Plazhi Gjeneralit"
 description: "Plazhi Gjeneralit stands out as a prime choice for travelers seeking a serene getaway, mere steps away from the inviting sands of General Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474064039.jpg?k=babfeeb84c67ca78a6c6f25ed690cbdcc587b7d3aceecc04c5532fa4298e1139&o=&hp=1"
+featuredImage: "/images/accommodation/plazhi-gjeneralit-474064039.jpg"
 language: en
 slug: plazhi-gjeneralit
 address: "Plazhi i Gjeneralit Bardhor, Domen - Kavajë, 2502 Kavajë, Albania"

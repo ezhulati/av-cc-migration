@@ -1,7 +1,7 @@
 ---
 title: "★ Meniko's House ★ Amazing Sea View"
 description: "Meniko's House stands out as a prime choice for travelers seeking a serene beachfront escape with breathtaking mountain and sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/168239281.jpg?k=97380d208d3eef42473c48e78a1aea809c50ad8fbd472f2c18c68ac43fe29002&o=&hp=1"
+featuredImage: "/images/accommodation/meniko-s-house-amazing-sea-view-168239281.jpg"
 language: en
 slug: meniko-s-house-amazing-sea-view
 address: "Stefanel Hill 2 , 9425 Himare, Albania"

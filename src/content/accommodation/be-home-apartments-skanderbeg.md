@@ -1,7 +1,7 @@
 ---
 title: "Be Home Apartments, Skanderbeg"
 description: "Be Home Apartments, Skanderbeg emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496340799.jpg?k=246f9927e44430c220133c29f5e2e4ffb7ac7eb78a58207a9bfde06e558bbf0e&o=&hp=1"
+featuredImage: "/images/accommodation/be-home-apartments-skanderbeg-496340799.jpg"
 language: en
 slug: be-home-apartments-skanderbeg
 address: "Rruga Çamëria, 1002 Tirana, Albania"

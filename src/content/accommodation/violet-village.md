@@ -1,7 +1,7 @@
 ---
 title: "Violet Village"
 description: "Violet Village emerges as a serene retreat in Borsh, boasting an enviable position mere steps from the pristine Borsh Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519019187.jpg?k=476975127a4438c14456590f85c50159ac79cf5576842b8716de5daaf498f5b2&o=&hp=1"
+featuredImage: "/images/accommodation/violet-village-519019187.jpg"
 language: en
 slug: violet-village
 address: "Rruga Plazhit, 9400 Borsh, Albania"

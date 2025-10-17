@@ -1,7 +1,7 @@
 ---
 title: "Crown Deluxe Apartments"
 description: "Crown Deluxe Apartments stands out as a serene oasis in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296581595.jpg?k=2bb189d32d1aee8f2050a4c39e50f4bad66224b35c25c5bfbd259694f01c0763&o=&hp=1"
+featuredImage: "/images/accommodation/crown-deluxe-apartments-296581595.jpg"
 language: en
 slug: crown-deluxe-apartments
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

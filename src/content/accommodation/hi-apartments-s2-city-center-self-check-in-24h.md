@@ -1,7 +1,7 @@
 ---
 title: "Hi Apartments S2 City Center self check in 24h"
 description: "Hi Apartments S2 City Center emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491443240.jpg?k=fd187dc194fd8c66ba7c00982b3cf0a91eb997b8bb8d8e9e7b733de227e291fd&o=&hp=1"
+featuredImage: "/images/accommodation/hi-apartments-s2-city-center-self-check-in-24h-491443240.jpg"
 language: en
 slug: hi-apartments-s2-city-center-self-check-in-24h
 address: "Street Isa Boletini Left Entry, Floor 6, app.42, 1001 Tirana, Albania"

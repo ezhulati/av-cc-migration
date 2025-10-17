@@ -1,7 +1,7 @@
 ---
 title: "Apartments Fishta Q5/24"
 description: "Apartments Fishta Q5/24 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521911558.jpg?k=065760773d9cdc9f4d56ac0c643c5852071ecc53bd5562b3fe3da75de6d9d1eb&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-fishta-q5-24-521911558.jpg"
 language: en
 slug: apartments-fishta-q5-24
 address: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"

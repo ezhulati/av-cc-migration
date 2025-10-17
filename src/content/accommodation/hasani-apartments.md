@@ -1,7 +1,7 @@
 ---
 title: "Hasani Apartments"
 description: "Hasani Apartments emerges as a serene retreat, located just a short distance from the pristine shores of Heaven Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474288975.jpg?k=e83c7eda2db64e9ccfcbdb1eb0ed96077e0011f940ed1e70ddc0df7c7ef970dc&o=&hp=1"
+featuredImage: "/images/accommodation/hasani-apartments-474288975.jpg"
 language: en
 slug: hasani-apartments
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

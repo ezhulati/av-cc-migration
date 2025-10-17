@@ -1,7 +1,7 @@
 ---
 title: "Shenmiter Lukove"
 description: "Shenmiter Lukove emerges as a serene retreat in the heart of Lukovë, a mere stone's throw away from the pristine Lukova Beach and the historic Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378029589.jpg?k=c6b3baae905b4a6dec902f4c24f9365dbb31fe7cb304cfadb06b60d7df79255e&o=&hp=1"
+featuredImage: "/images/accommodation/shenmiter-lukove-378029589.jpg"
 language: en
 slug: shenmiter-lukove
 address: "Lukovë - Shpellë, 9713 Lukovë, Albania"

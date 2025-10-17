@@ -1,7 +1,7 @@
 ---
 title: "RIVA Guest House"
 description: "RIVA Guest House emerges as a serene retreat, offering breathtaking mountain vistas and a tranquil garden setting, located approximately 45 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/riva-guest-house-c84a361d6701.jpg"
 language: en
 slug: riva-guest-house
 address: "Rruga Ramadan Mane, Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "bed & breakfast Local Living Edi"
 description: "Local Living Edi Bed & Breakfast emerges as a charming retreat in the heart of Berat, offering a unique blend of local hospitality and modern comforts."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467552166.jpg?k=a849df81d7709862dd8eefa77f5658a667121f91a46beb9d18642d7d7dce40ba&o=&hp=1"
+featuredImage: "/images/accommodation/bed-breakfast-local-living-edi-467552166.jpg"
 language: en
 slug: bed-breakfast-local-living-edi
 address: "Rruga Antipatrea, 5001 Berat, Albania"

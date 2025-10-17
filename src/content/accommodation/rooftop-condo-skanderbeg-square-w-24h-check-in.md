@@ -1,7 +1,7 @@
 ---
 title: "Rooftop Condo @Skanderbeg Square w/ 24H Check In"
 description: "Rooftop Condo @Skanderbeg Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514574176.jpg?k=e6d6dfdc7d356af505856497d64cf811a4a1ffdbe41108d4bee0a66adac46e0e&o=&hp=1"
+featuredImage: "/images/accommodation/rooftop-condo-skanderbeg-square-w-24h-check-in-514574176.jpg"
 language: en
 slug: rooftop-condo-skanderbeg-square-w-24h-check-in
 address: "Rruga e Barrikadave, Tirana, Albania"

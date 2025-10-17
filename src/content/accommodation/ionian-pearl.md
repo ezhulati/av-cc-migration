@@ -1,7 +1,7 @@
 ---
 title: "Ionian Pearl"
 description: "Ionian Pearl emerges as a distinguished choice for travelers seeking a serene getaway in Dhërmi, positioned merely a stone's throw away from the pristine Dhermi Beach at a distance of 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367673172.jpg?k=c32cc8d6d3a6f8ca78e9fb98fd4acf36ea8343b0cfef4d7d025e9c450e9e4617&o=&hp=1"
+featuredImage: "/images/accommodation/ionian-pearl-367673172.jpg"
 language: en
 slug: ionian-pearl
 address: "Dhermi, 5555 Dhërmi, Albania"

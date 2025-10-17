@@ -1,7 +1,7 @@
 ---
 title: "Private Room Vlora"
 description: "Discover the charm of Vlorë with a stay at Private Room Vlora, a prime choice for travelers seeking a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500040579.jpg?k=c31acf7fd1e982bd539ac4494baefb22dec688404650eff4f6fb784742ae58c8&o=&hp=1"
+featuredImage: "/images/accommodation/private-room-vlora-500040579.jpg"
 language: en
 slug: private-room-vlora
 address: "Rruga Dush Strati, 9401 Vlorë, Albania"

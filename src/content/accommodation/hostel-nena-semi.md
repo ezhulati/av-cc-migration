@@ -1,7 +1,7 @@
 ---
 title: "Hostel Nena Semi"
 description: "Hostel Nena Semi stands out as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490732577.jpg?k=25563c1e6a00f54e0f68bf51edbc186a8b24b57fd7978b3b16b57b9ecc662bed&o=&hp=1"
+featuredImage: "/images/accommodation/hostel-nena-semi-490732577.jpg"
 language: en
 slug: hostel-nena-semi
 address: "Rruga Sami Frashëri Partia e Lirise Building, 3rd floor, 1001 Tirana, Albania"

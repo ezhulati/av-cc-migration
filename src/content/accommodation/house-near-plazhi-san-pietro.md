@@ -1,7 +1,7 @@
 ---
 title: "House near 'Plazhi San Pietro'"
 description: "Discover the charm of a serene getaway at House near 'Plazhi San Pietro', a prime holiday home offering a blend of comfort and convenience for travelers seeking a peaceful retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473955643.jpg?k=2adacec5f3bc57f5518d07fcaff672ece620b9fa445885b63085e42a98cb016a&o=&hp=1"
+featuredImage: "/images/accommodation/house-near-plazhi-san-pietro-473955643.jpg"
 language: en
 slug: house-near-plazhi-san-pietro
 address: "Near Plazhi San Pietro, 2011 Fushë-Draç, Albania"

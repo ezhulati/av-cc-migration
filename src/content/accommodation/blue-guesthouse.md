@@ -1,7 +1,7 @@
 ---
 title: "Blue Guesthouse"
 description: "Blue Guesthouse emerges as a serene retreat in the historic heart of Gjirokastër, offering a tranquil garden setting for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473208165.jpg?k=c6fa55a68ac2e59388439a418d01f97b9bd4eaef477a634b5cfc024feb96607c&o=&hp=1"
+featuredImage: "/images/accommodation/blue-guesthouse-473208165.jpg"
 language: en
 slug: blue-guesthouse
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

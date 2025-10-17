@@ -1,7 +1,7 @@
 ---
 title: "Seferi's Apartament"
 description: "Seferi's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454389962.jpg?k=816d44a11763770cc5296aebe115cc1f3b6774fbd6f45408fdf981280e015689&o=&hp=1"
+featuredImage: "/images/accommodation/seferi-s-apartament-454389962.jpg"
 language: en
 slug: seferi-s-apartament
 address: "Rruga Lefter Talo 40, 9701 Sarandë, Albania"

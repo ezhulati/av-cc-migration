@@ -1,7 +1,7 @@
 ---
 title: "Luxurious Central Apartment"
 description: "Located in the heart of Tirana, Luxurious Central Apartment offers an exceptional stay with its prime location and top-notch amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492560254.jpg?k=4dafb40654da7148cba999105eddfa96c8d19863e4f2f6b3fecc27f0d57f318d&o=&hp=1"
+featuredImage: "/images/accommodation/luxurious-central-apartment-492560254.jpg"
 language: en
 slug: luxurious-central-apartment
 address: "Rruga Nikolla Jorga, 1001 Tirana, Albania"

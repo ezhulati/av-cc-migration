@@ -1,7 +1,7 @@
 ---
 title: "Modern Beachside Apartment 100Mbs"
 description: "Modern Beachside Apartment 100Mbs stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518326556.jpg?k=e8623ae94f4ef94815a67e0da5d340313a77ae21f76e241cf88383c2a34dd8d1&o=&hp=1"
+featuredImage: "/images/accommodation/modern-beachside-apartment-100mbs-518326556.jpg"
 language: en
 slug: modern-beachside-apartment-100mbs
 address: "Rruga Taulantia, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Arturi"
 description: "Bujtina Arturi emerges as a serene retreat in the heart of Valbonë, offering breathtaking mountain and river views from its well-appointed accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390950878.jpg?k=a40950cb3bfa37e151a33b6451bbc59ffb55134b9de9e0959e329166730f4fba&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-arturi-390950878.jpg"
 language: en
 slug: bujtina-arturi
 address: "Rruga Azem Hajdari Valbone, Valbonë, Albania"

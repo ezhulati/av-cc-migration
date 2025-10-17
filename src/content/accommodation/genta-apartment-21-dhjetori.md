@@ -1,7 +1,7 @@
 ---
 title: "Genta apartment \"21 Dhjetori\""
 description: "Genta Apartment \"21 Dhjetori\" emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498574911.jpg?k=3b41e011658825c5fff239b59075dc1819acd76d0623597aaefd9ffe541009fc&o=&hp=1"
+featuredImage: "/images/accommodation/genta-apartment-21-dhjetori-498574911.jpg"
 language: en
 slug: genta-apartment-21-dhjetori
 address: "Rruga Frosina Plaku, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Olti"
 description: "Vila Olti emerges as a charming guest house that captivates with its prime location, merely 400 meters from the serene Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479291203.jpg?k=f329213c4124630d80b5396d0740baf83bccfc093b02b27c08a3cf41e4b5c7a0&o=&hp=1"
+featuredImage: "/images/accommodation/vila-olti-479291203.jpg"
 language: en
 slug: vila-olti
 address: "Rruga Andrea Varfi 57, 9401 Vlorë, Albania"

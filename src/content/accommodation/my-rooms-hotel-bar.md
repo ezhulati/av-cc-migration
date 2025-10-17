@@ -1,7 +1,7 @@
 ---
 title: "My Rooms Hotel & Bar"
 description: "My Rooms Hotel & Bar emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494150166.jpg?k=cfc5e73c87d18a1a65bd570e49b3a2ff23981671405be425309c1e80aea1fc27&o=&hp=1"
+featuredImage: "/images/accommodation/my-rooms-hotel-bar-494150166.jpg"
 language: en
 slug: my-rooms-hotel-bar
 address: "Rruga \"Mihal Duri\" Nd.7 H.1., 1050 Tirana, Albania"

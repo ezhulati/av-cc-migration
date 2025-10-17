@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Apartment 22"
 description: "Albania Dream Apartment 22 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359343853.jpg?k=28a4672c54eec06d0c873e7962864994082bcae8ea1a40576f0565d3ab278ffe&o=&hp=1"
+featuredImage: "/images/accommodation/albania-dream-apartment-22-359343853.jpg"
 language: en
 slug: albania-dream-apartment-22
 address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"

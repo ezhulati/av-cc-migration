@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Sophisticated 2BD Apartment At Taiwan"
 description: "Miku Apartment-Sophisticated 2BD Apartment At Taiwan emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://graph.facebook.com/v2.9/10154567167317576/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/miku-apartment-sophisticated-2bd-apartment-at-taiwan-picture?type.jpg"
 language: en
 slug: miku-apartment-sophisticated-2bd-apartment-at-taiwan
 address: "Rruga Ibrahim Rugova rruga ibrahim rugova, 1001 Tirana, Albania"

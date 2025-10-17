@@ -1,7 +1,7 @@
 ---
 title: "HANI CEPIT"
 description: "HANI CEPIT emerges as a serene oasis in Librazhd, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472264365.jpg?k=f67f64d2edcdc30c5090ae4edeb069527a87371caa4ebd91ddd514dc2aa2cbb8&o=&hp=1"
+featuredImage: "/images/accommodation/hani-cepit-472264365.jpg"
 language: en
 slug: hani-cepit
 address: "Xhyrë, 3400 Librazhd, Albania"

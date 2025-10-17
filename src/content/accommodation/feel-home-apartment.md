@@ -1,7 +1,7 @@
 ---
 title: "Feel Home Apartment"
 description: "Feel Home Apartment emerges as a prime choice for travelers seeking a blend of historical charm and modern comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493299066.jpg?k=edfdbf6a120c5d566757e5fe375f8fbca26e29afa25901d26604861e6f00c424&o=&hp=1"
+featuredImage: "/images/accommodation/feel-home-apartment-493299066.jpg"
 language: en
 slug: feel-home-apartment
 address: "Rruga Myslym Shyri P.2, Sh.2, Floor 2, 1001 Tirana, Albania"

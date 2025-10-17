@@ -1,7 +1,7 @@
 ---
 title: "Klajdi appartament"
 description: "Klajdi Apartment emerges as a prime choice for travelers seeking a serene stay in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482565356.jpg?k=a6c6c5d972e401b7ff49339735bb2a64dc52fb14d9acd0fce0db66fb631a4280&o=&hp=1"
+featuredImage: "/images/accommodation/klajdi-appartament-482565356.jpg"
 language: en
 slug: klajdi-appartament
 address: "Rruga Muzhakaj, Berat, Albania"

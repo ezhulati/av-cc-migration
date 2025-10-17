@@ -1,7 +1,7 @@
 ---
 title: "Golden Cherry"
 description: "Golden Cherry emerges as a prime choice for travelers seeking a blend of comfort and convenience, coupled with breathtaking mountain views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399758555.jpg?k=1f98ec65b88c4df2c3fd091b39d425599fbd2b2df27638efb1ec9fbc7d624f29&o=&hp=1"
+featuredImage: "/images/accommodation/golden-cherry-399758555.jpg"
 language: en
 slug: golden-cherry
 address: "Rruga Qemal Stafa, Pallati 61, Shkalla 1. Apartamenti 1, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Merville_Beachfront Apartment"
 description: "Merville_Beachfront Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472395357.jpg?k=c37c33bff3e6fe86492bfa68e5170dd37b7572685522d93ccde882a96313361d&o=&hp=1"
+featuredImage: "/images/accommodation/merville-beachfront-apartment-472395357.jpg"
 language: en
 slug: merville-beachfront-apartment
 address: "Merville Apartament, Rr. Ankona, Shkembi Kavajes, Durres Hyrja B, Kati 4/2, 1001 Durrës, Albania"

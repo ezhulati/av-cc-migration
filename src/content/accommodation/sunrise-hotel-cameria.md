@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Hotel Cameria"
 description: "Sunrise Hotel Cameria emerges as a prime choice for travelers seeking comfort and convenience mere steps away from the beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99553525.jpg?k=3c212eb6216c651dbf396a05f20403b594f28a1498af34ce6e9c060f5eb345f0&o=&hp=1"
+featuredImage: "/images/accommodation/sunrise-hotel-cameria-99553525.jpg"
 language: en
 slug: sunrise-hotel-cameria
 address: "Pavaresia 67, 2000 Durrës, Albania"

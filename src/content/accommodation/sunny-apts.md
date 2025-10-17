@@ -1,7 +1,7 @@
 ---
 title: "Sunny Apts"
 description: "Sunny Apts emerges as a gem in Sarandë, boasting a prime location just a short stroll from the pristine Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423494142.jpg?k=af3fe8234d9ee6df6430cd3714c1ef1b0f67c00f18826ad115b48952ba78e742&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-apts-423494142.jpg"
 language: en
 slug: sunny-apts
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

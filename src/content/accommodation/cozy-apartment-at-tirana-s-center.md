@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartment at Tirana's Center"
 description: "Cozy Apartment at Tirana's Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518187534.jpg?k=f9998a11acd8fc28054b22b0d3e8634c1581ebc34389efe7f5ae2b6cdee28a6c&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-at-tirana-s-center-518187534.jpg"
 language: en
 slug: cozy-apartment-at-tirana-s-center
 address: "Rruga e Kavajës, 1010 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "AM LUXURY APARTMENT"
 description: "AM LUXURY APARTMENT emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504362542.jpg?k=deb5fc9be1888d0b538ef4b9f04cfa25fc71b453b7cb6fbabf995793cfd01b0f&o=&hp=1"
+featuredImage: "/images/accommodation/am-luxury-apartment-504362542.jpg"
 language: en
 slug: am-luxury-apartment
 address: "Rruga Perlat Rexhepi, 1014 Tirana, Albania"

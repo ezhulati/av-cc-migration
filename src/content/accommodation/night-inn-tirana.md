@@ -1,7 +1,7 @@
 ---
 title: "Night Inn Tirana"
 description: "Night Inn Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326125376.jpg?k=7e914303a532916ba94e709064568babdce1755347cdee5299a36f1de3dbcdf5&o=&hp=1"
+featuredImage: "/images/accommodation/night-inn-tirana-326125376.jpg"
 language: en
 slug: night-inn-tirana
 address: "22 Rruga Çamëria, 1001 Tirana, Albania"

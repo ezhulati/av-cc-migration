@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Villa Joanna&Mattheo"
 description: "Guesthouse Villa Joanna&Mattheo emerges as a charming retreat in the heart of Sarandë, Vlorë County, located a scenic 35 km journey from Corfu Town."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167720685.jpg?k=dfac936c24ba46b14a1b325d714cee6d3d30f049b340ef12bf7ed441a2d2df9b&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-villa-joanna-mattheo-167720685.jpg"
 language: en
 slug: guesthouse-villa-joanna-mattheo
 address: "Rruga 40 shenjtoret, 9703 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Roza's Apartment Tirana Center"
 description: "Roza's Apartment Tirana Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350464443.jpg?k=1da2a069e449026900a11d089b12b032b08f7e79df5f55463bb0babbc1cf4cee&o=&hp=1"
+featuredImage: "/images/accommodation/roza-s-apartment-tirana-center-350464443.jpg"
 language: en
 slug: roza-s-apartment-tirana-center
 address: "Rruga Ibrahim Kodra, Building NR 4, Entrance NR7 Apartment NR7, Tirana, Albania"

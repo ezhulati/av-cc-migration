@@ -1,7 +1,7 @@
 ---
 title: "Villa Di Abel 2"
 description: "Villa Di Abel 2 emerges as a prime choice for travelers seeking a serene getaway in Vlorë, perfectly positioned a mere stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479183818.jpg?k=1e037285113cd947f05c3480eaa6d1408ee1622f5aa8001c5d89547a2dbd8769&o=&hp=1"
+featuredImage: "/images/accommodation/villa-di-abel-2-479183818.jpg"
 language: en
 slug: villa-di-abel-2
 address: "Rruga Francesko Krispi, Vlorë, Albania"

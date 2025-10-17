@@ -1,7 +1,7 @@
 ---
 title: "Vlora Home"
 description: "Vlora Home emerges as a serene retreat in the vibrant city of Vlorë, strategically positioned just a stone's throw away from the pristine Vjetër Beach and the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499791154.jpg?k=9eabecf699870c2700009428a98d593d78356b5238270953543fe01bdceff006&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-home-499791154.jpg"
 language: en
 slug: vlora-home
 address: "Rruga Sadik Zotaj, close toTirana Bank building, 9404 Vlorë, Albania"

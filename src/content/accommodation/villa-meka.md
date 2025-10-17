@@ -1,7 +1,7 @@
 ---
 title: "Villa Meka"
 description: "Villa Meka emerges as a charming choice for travelers seeking a serene getaway in Durrës, positioned conveniently close to the pristine Durres Beach and a mere 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435158514.jpg?k=673fa07af55d262cf8eed06619f826affe68e4d6124bfe6b81f54618ba9af409&o=&hp=1"
+featuredImage: "/images/accommodation/villa-meka-435158514.jpg"
 language: en
 slug: villa-meka
 address: "Rruga Apulia plazh, 2000 Durrës, Albania"

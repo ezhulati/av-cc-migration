@@ -1,7 +1,7 @@
 ---
 title: "Durres Tabaku Apartament"
 description: "Durres Tabaku Apartament emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the pristine Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464476575.jpg?k=f3c336787ab9c54c37c180655ef819565f5a5fdd9edfa3b1fdb2af08afce3596&o=&hp=1"
+featuredImage: "/images/accommodation/durres-tabaku-apartament-464476575.jpg"
 language: en
 slug: durres-tabaku-apartament
 address: "Rruga Iliria, Durrës, Albania"

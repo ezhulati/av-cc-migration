@@ -1,7 +1,7 @@
 ---
 title: "Aleko's Apartment Double room"
 description: "Aleko's Apartment Double Room emerges as a serene retreat in the historic heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503376202.jpg?k=99572956b5bfb4ffb8f0c9ac0d95563fbe0a26c3107bd3608f45ce654e4cc417&o=&hp=1"
+featuredImage: "/images/accommodation/aleko-s-apartment-double-room-503376202.jpg"
 language: en
 slug: aleko-s-apartment-double-room
 address: "Rruga Rexhep Qosja, 6001 Gjirokastër, Albania"

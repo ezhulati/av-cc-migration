@@ -1,7 +1,7 @@
 ---
 title: "Domi Luxury beach view apartments in Saranda"
 description: "Domi Luxury Beach View Apartments in Saranda emerges as a prime choice for travelers seeking comfort and convenience mere steps away from the pristine shores of Flamingo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387543619.jpg?k=44de81506de2ce4c1a2f3747c109e5e93d3fa686eb4e1168359395ac9a11bc9b&o=&hp=1"
+featuredImage: "/images/accommodation/domi-luxury-beach-view-apartments-in-saranda-387543619.jpg"
 language: en
 slug: domi-luxury-beach-view-apartments-in-saranda
 address: "Rruga Butrinti km3, 9702 Sarandë, Albania"

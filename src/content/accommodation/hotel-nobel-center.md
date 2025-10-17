@@ -1,7 +1,7 @@
 ---
 title: "HOTEL NOBEL CENTER"
 description: "HOTEL NOBEL CENTER emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492310708.jpg?k=7f79660b4919402aa21ccdf0f5cd802d72912e281ea9e096742059f713cb6bf4&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-nobel-center-492310708.jpg"
 language: en
 slug: hotel-nobel-center
 address: "Rruga Urani Pano Rruga Urani Pano, 1001 Tirana, Albania"

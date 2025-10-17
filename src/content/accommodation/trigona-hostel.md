@@ -1,7 +1,7 @@
 ---
 title: "Trigona Hostel"
 description: "Trigona Hostel, located in the historic heart of Gjirokastër and a mere 44 km from the serene Zaravina Lake, stands out for its unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205736592.jpg?k=735f8ec10f5c02135d4a8099feca3e710e08f7c013c2739d4feb34e20658d2a5&o=&hp=1"
+featuredImage: "/images/accommodation/trigona-hostel-205736592.jpg"
 language: en
 slug: trigona-hostel
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

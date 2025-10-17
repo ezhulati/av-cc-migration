@@ -1,7 +1,7 @@
 ---
 title: "Pogradec apartments"
 description: "Pogradec Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Pogradec."
-featuredImage: "https://lh3.googleusercontent.com/a/AEdFTp5sc_E5qqkNT8Cs7Rk80fbizwsf5sP5e0XIWErT=s96-c64"
+featuredImage: "/images/accommodation/pogradec-apartments-AEdFTp5sc_E5.jpg"
 language: en
 slug: pogradec-apartments
 address: "Rruga e Stadiumit, 7301 Pogradec, Albania"

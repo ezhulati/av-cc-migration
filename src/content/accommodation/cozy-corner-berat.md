@@ -1,7 +1,7 @@
 ---
 title: "Cozy Corner Berat"
 description: "Cozy Corner Berat emerges as a charming retreat in the heart of Berat, providing guests with a serene garden setting and the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527300989.jpg?k=2219db3466960b7764339635207ef94bbeecc8ce52b5a1f2d8fe5274d239927a&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-corner-berat-527300989.jpg"
 language: en
 slug: cozy-corner-berat
 address: "Rruga Telegrafi, 5001 Berat, Albania"

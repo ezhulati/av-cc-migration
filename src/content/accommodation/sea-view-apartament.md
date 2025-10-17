@@ -1,7 +1,7 @@
 ---
 title: "Sea view apartament"
 description: "Discover the charm of Pogradec with a stay at the Sea View Apartment, a serene holiday home that promises more than just a place to rest."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513926613.jpg?k=f2877928fd42f8c8e2bd31f733c4ac18c20c4a0158c342b6f73653d7eab6e443&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartament-513926613.jpg"
 language: en
 slug: sea-view-apartament
 address: "Rruga 10 Deshmoret e Pojskes, 7301 Pogradec, Albania"

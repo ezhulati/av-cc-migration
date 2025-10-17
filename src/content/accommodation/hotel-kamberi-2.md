@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kamberi 2"
 description: "Hotel Kamberi 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424956636.jpg?k=304141d3c6a79ab8765168fccb2b5d6590e86d4aaad032b7956a3ed001b9b70e&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kamberi-2-424956636.jpg"
 language: en
 slug: hotel-kamberi-2
 address: "Shkoder ,Velipoje ,Rruga Nr.2, 4001 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DeanSiar Apartment’s"
 description: "DeanSiar Apartment in Vlorë presents a refreshing retreat for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468914041.jpg?k=cf5b5741f9894063866bb924e00d62ab924ef422ee60e027d3f93df2ae922575&o=&hp=1"
+featuredImage: "/images/accommodation/deansiar-apartment-s-468914041.jpg"
 language: en
 slug: deansiar-apartment-s
 address: "Rruga Gjergj Kastrioti, Vlorë, Albania"

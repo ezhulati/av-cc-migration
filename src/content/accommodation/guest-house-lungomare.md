@@ -1,7 +1,7 @@
 ---
 title: "Guest House Lungomare"
 description: "Guest House Lungomare emerges as a serene retreat in the vibrant city of Vlorë, offering travelers a blend of comfort and convenience with its air-conditioned accommodations that boast private balconies."
-featuredImage: "https://lh4.googleusercontent.com/-fZXC_zUSFIk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkwGJeqTtT731X1lL1CesBwIaFEg/s96-c/photo.jpg64"
+featuredImage: "/images/accommodation/guest-house-lungomare-photo.jpg64.jpg"
 language: en
 slug: guest-house-lungomare
 address: "Rruga Reshat Osmani, 9401 Vlorë, Albania"

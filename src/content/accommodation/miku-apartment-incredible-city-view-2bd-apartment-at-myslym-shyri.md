@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Incredible City View 2Bd Apartment at Myslym Shyri"
 description: "Miku Apartment-Incredible City View 2Bd Apartment at Myslym Shyri emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334126408.jpg?k=ef983957f37956532d77a6a3d8485051ccc7ef6ab0a6b592fa53729859bbf828&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-incredible-city-view-2bd-apartment-at-myslym-shyri-334126408.jpg"
 language: en
 slug: miku-apartment-incredible-city-view-2bd-apartment-at-myslym-shyri
 address: "Rruga Myslym Shyri, 1019 Tirana, Albania"

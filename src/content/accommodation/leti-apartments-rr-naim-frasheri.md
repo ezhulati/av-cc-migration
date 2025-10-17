@@ -1,7 +1,7 @@
 ---
 title: "Leti Apartments Rr.Naim Frasheri"
 description: "Leti Apartments Rr."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526140579.jpg?k=4d592b74c4caececdaf64aa45fee60270d45411139adb0b634116f6d128b8bf8&o=&hp=1"
+featuredImage: "/images/accommodation/leti-apartments-rr-naim-frasheri-526140579.jpg"
 language: en
 slug: leti-apartments-rr-naim-frasheri
 address: "Rruga Naim Frashëri, 1010 Tirana, Albania"

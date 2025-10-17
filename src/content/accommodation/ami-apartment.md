@@ -1,7 +1,7 @@
 ---
 title: "Ami Apartment"
 description: "Ami Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/302374621.webp?k=01cc08f3415b12730871f83d5724b362352b57e5f72c48d38fb6c6941c2a8627&o=?t=1704681323"
+featuredImage: "/images/accommodation/ami-apartment-302374621.we.jpg"
 language: en
 slug: ami-apartment
 address: "167 Rruga Adem Sheme, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "ByRam Home"
 description: "ByRam Home emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës, situated merely 500 meters from the inviting Durres Beach and within a manageable distance of 39 km from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488016539.jpg?k=c9e52274354aaf14999f0b9af1dfe56277638283463495695d81dc26c29acbde&o=&hp=1"
+featuredImage: "/images/accommodation/byram-home-488016539.jpg"
 language: en
 slug: byram-home
 address: "Rruga Pavaresia, Durrës, Albania"

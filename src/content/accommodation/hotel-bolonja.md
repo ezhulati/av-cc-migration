@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bolonja"
 description: "Hotel Bolonja stands as a beacon of comfort and convenience in Shëngjin, just a stone's throw away from the pristine Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389393636.jpg?k=4197b4929d465fc1ca0f1a142b0dfd4cb826a346c0a7816bb14104d45f4737a9&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bolonja-389393636.jpg"
 language: en
 slug: hotel-bolonja
 address: "Rruga e Portit, 4500 Shëngjin, Albania"

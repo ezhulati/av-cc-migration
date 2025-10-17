@@ -1,7 +1,7 @@
 ---
 title: "OniRana Apartments"
 description: "OniRana Apartments emerges as a serene retreat in the heart of Borsh, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131949776.jpg?k=29c6dffb5787e3bcb3512b4bada9c6ead5b89638c34f28171f570980625a7552&o=&hp=1"
+featuredImage: "/images/accommodation/onirana-apartments-131949776.jpg"
 language: en
 slug: onirana-apartments
 address: "1 km from Borsh center, 9714 Borsh, Albania"

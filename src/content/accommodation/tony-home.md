@@ -1,7 +1,7 @@
 ---
 title: "Tony Home"
 description: "Tony Home stands as a prime beachfront retreat in Borsh, merely 70 meters from the pristine Borsh Beach, offering guests a unique blend of convenience and serenity."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472865302.jpg?k=1748f350feea340b9d2e2a343eafaa3a200e1ad2e49e2e12bfbb72946f774fbd&o=&hp=1"
+featuredImage: "/images/accommodation/tony-home-472865302.jpg"
 language: en
 slug: tony-home
 address: "Rruga Plazhit, 9714 Borsh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Stay in Tirana Modern Apartment Located in Center 03"
 description: "Discover the epitome of urban living at Stay in Tirana Modern Apartment Located in Center 03, a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513016106.jpg?k=cdf9b7b56e9c3d73f1bd4db44c726d93fc14f18ff2b1218fd35644ee4a66cac0&o=&hp=1"
+featuredImage: "/images/accommodation/stay-in-tirana-modern-apartment-located-in-center-03-513016106.jpg"
 language: en
 slug: stay-in-tirana-modern-apartment-located-in-center-03
 address: "Rruga Qemal Stafa 1, 1001 Tirana, Albania"

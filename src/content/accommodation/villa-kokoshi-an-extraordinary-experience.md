@@ -1,7 +1,7 @@
 ---
 title: "Villa Kokoshi, an extraordinary experience."
 description: "Villa Kokoshi stands as a testament to luxury and history in the heart of Berat, offering guests an unparalleled stay in a structure that dates back to the early 20th century."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408381637.jpg?k=dad661896c1e5357381833f5e60a83b583531304abfac558dc23deb4ce7132a9&o=&hp=1"
+featuredImage: "/images/accommodation/villa-kokoshi-an-extraordinary-experience-408381637.jpg"
 language: en
 slug: villa-kokoshi-an-extraordinary-experience
 address: "Rrugica Mbrica, 5001 Berat, Albania"

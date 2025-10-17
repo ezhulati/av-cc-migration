@@ -1,7 +1,7 @@
 ---
 title: "Ngjela Apartments"
 description: "Discover the charm of Sarandë with a stay at Ngjela Apartments, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362093389.jpg?k=00c8a0f9cb97da941511a0c85a776eec5a581bee1048b56d0eae90e009985684&o=&hp=1"
+featuredImage: "/images/accommodation/ngjela-apartments-362093389.jpg"
 language: en
 slug: ngjela-apartments
 address: "Road Onhezmi, 9701 Sarandë, Albania"

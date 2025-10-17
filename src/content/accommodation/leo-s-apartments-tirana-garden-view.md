@@ -1,7 +1,7 @@
 ---
 title: "Leo's Apartments Tirana Garden View"
 description: "Leo's Apartments Tirana Garden View emerges as a serene oasis in the heart of Tirana, offering guests a unique blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406538751.jpg?k=eb61c30eade67c3e5e925fd71e914fa1787cd526484bc54da4c2ea4ffcb32de4&o=&hp=1"
+featuredImage: "/images/accommodation/leo-s-apartments-tirana-garden-view-406538751.jpg"
 language: en
 slug: leo-s-apartments-tirana-garden-view
 address: "Rruga Abdyl Frashëri, 1001 Tirana, Albania"

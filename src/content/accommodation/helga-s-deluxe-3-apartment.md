@@ -1,7 +1,7 @@
 ---
 title: "Helga’s Deluxe 3 Apartment"
 description: "Helga's Deluxe 3 Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410793760.jpg?k=c84b58350c4620dab4edf74954f761144d427251e2458e5511b204018be8ed7c&o=&hp=1"
+featuredImage: "/images/accommodation/helga-s-deluxe-3-apartment-410793760.jpg"
 language: en
 slug: helga-s-deluxe-3-apartment
 address: "Rruga Nikolla Jorga, 1001 Tirana, Albania"

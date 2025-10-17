@@ -1,7 +1,7 @@
 ---
 title: "ESTO's Apartament near Tirana Airport 1 - Self CheckIN -Netflix - FREE Parking"
 description: "ESTO's Apartment near Tirana Airport 1 stands out as a prime choice for travelers seeking convenience and comfort close to the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382540.jpg?k=3250709c7538faced12f18aab3fb52a14791a95bcbf9822f8c28d4874e414b9d&o=&hp=1"
+featuredImage: "/images/accommodation/esto-s-apartament-near-tirana-airport-1-self-checkin-netflix-free-parking-469382540.jpg"
 language: en
 slug: esto-s-apartament-near-tirana-airport-1-self-checkin-netflix-free-parking
 address: "Rruga NATO, Valias, Albania"

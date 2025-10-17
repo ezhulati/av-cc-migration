@@ -1,7 +1,7 @@
 ---
 title: "Apartament me kopesht"
 description: "Discover the charm of Durrës with a stay at Apartament me kopesht, a gem just a stone's throw away from the pristine Kallmi Beach and a leisurely stroll from the vibrant West End Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJz7LgaUf5UjVc-aDCYfOe9xV0wpvk5L-A6TWao=s96-c64"
+featuredImage: "/images/accommodation/apartament-me-kopesht-AATXAJz7LgaU.jpg"
 language: en
 slug: apartament-me-kopesht
 address: "Rruga Currila, 2002 Durrës, Albania"

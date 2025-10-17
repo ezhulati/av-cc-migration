@@ -1,7 +1,7 @@
 ---
 title: "VILLA ELENI"
 description: "VILLA ELENI is a serene retreat in Zvërnec, a mere stone's throw away from the pristine Narta Beach and the historic Independence Square, located 11 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505467332.jpg?k=77d2e1f5689acfb7a22a0fd10f441c6fa9a4cea7d6cedc4aa944f69ba0247a1d&o=&hp=1"
+featuredImage: "/images/accommodation/villa-eleni-505467332.jpg"
 language: en
 slug: villa-eleni
 address: "Rruga e manastirit, 9401 Zvërnec, Albania"

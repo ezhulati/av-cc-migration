@@ -1,7 +1,7 @@
 ---
 title: "Ar Apartment"
 description: "Ar Apartment emerges as a modern oasis in Vlorë, boasting a prime location that effortlessly connects guests to the serene beauty of Vlore Beach, Vjetër Beach, and Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454483714.jpg?k=4910cda8f911de74360d5cd3596352508e11599ecdf3a6a299587377371d91ea&o=&hp=1"
+featuredImage: "/images/accommodation/ar-apartment-454483714.jpg"
 language: en
 slug: ar-apartment
 address: "Rruga Murat Tërbaçi, 9405 Vlorë, Albania"

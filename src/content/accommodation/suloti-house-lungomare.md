@@ -1,7 +1,7 @@
 ---
 title: "Suloti House Lungomare"
 description: "Suloti House Lungomare emerges as a serene oasis in Vlorë, boasting a coveted private beach area and enchanting garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475103256.jpg?k=c7916049923e106699fc56ab2ebb31532486570a0c037566fc0de1fb74a47747&o=&hp=1"
+featuredImage: "/images/accommodation/suloti-house-lungomare-475103256.jpg"
 language: en
 slug: suloti-house-lungomare
 address: "Rruga Pavlo Flloko, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Casa de la Playa"
 description: "Casa de la Playa emerges as a charming retreat in Shkodër, positioned just a short 700 meters stroll from the pristine Velipoja Beach and a mere 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361913548.jpg?k=59b0a0103c63355945f2ce82794a847d0d7307b0a396a7fa656235d7ca101b04&o=&hp=1"
+featuredImage: "/images/accommodation/casa-de-la-playa-361913548.jpg"
 language: en
 slug: casa-de-la-playa
 address: "Velipoje, 4001 Shkodër, Albania"

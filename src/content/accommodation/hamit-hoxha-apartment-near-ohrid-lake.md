@@ -1,7 +1,7 @@
 ---
 title: "Hamit Hoxha - Apartment Near Ohrid Lake"
 description: "Hamit Hoxha - Apartment Near Ohrid Lake emerges as a prime choice for travelers seeking a serene beachfront escape in Buçimas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467229778.jpg?k=592e09a8280a372c837bad4ebc970f36fbf6dc8613df33b4f02784890530b29f&o=&hp=1"
+featuredImage: "/images/accommodation/hamit-hoxha-apartment-near-ohrid-lake-467229778.jpg"
 language: en
 slug: hamit-hoxha-apartment-near-ohrid-lake
 address: "Rruga Vilave, 1001 Buçimas, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Stella del Lago Family Apartment Deluxe Penthouse"
 description: "Stella del Lago Family Apartment Deluxe Penthouse stands out as a prime choice for travelers seeking a blend of comfort and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402930468.jpg?k=56783541e6d14cc72299ae9bfe07eb42e551a06646f84e3661d71ffda72f4994&o=&hp=1"
+featuredImage: "/images/accommodation/stella-del-lago-family-apartment-deluxe-penthouse-402930468.jpg"
 language: en
 slug: stella-del-lago-family-apartment-deluxe-penthouse
 address: "Building 3, Entrance 2, Ap. 53, Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

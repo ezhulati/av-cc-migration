@@ -1,7 +1,7 @@
 ---
 title: "CASA INTERA la paghi come una camera THE HOME with the price of a room"
 description: "CASA INTERA la paghi come una camera THE HOME offers a unique proposition for travelers seeking the comfort and space of an apartment with the affordability of a single room."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471863878.jpg?k=60c462f8403b5f3846b25dd9e13356c2dff3ed40df9c71ac267da6cbcb36430c&o=&hp=1"
+featuredImage: "/images/accommodation/casa-intera-la-paghi-come-una-camera-the-home-with-the-price-of-a-room-471863878.jpg"
 language: en
 slug: casa-intera-la-paghi-come-una-camera-the-home-with-the-price-of-a-room
 address: "Rruga Aleksander Goga, 2016 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Dori apartments in the heart of Blloku"
 description: "Discover the charm of Tirana with a stay at Dori Apartments, a prime choice for travelers seeking comfort and convenience in the vibrant heart of Blloku."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410631874.jpg?k=87599951718268f43dab0e113bf29d34b76adb23e828e5b8e570faf93ec4548b&o=&hp=1"
+featuredImage: "/images/accommodation/dori-apartments-in-the-heart-of-blloku-410631874.jpg"
 language: en
 slug: dori-apartments-in-the-heart-of-blloku
 address: "Rruga Sami Frashëri Pall 17 nr 28, 1019 Tirana, Albania"

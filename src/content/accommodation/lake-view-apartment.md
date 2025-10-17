@@ -1,7 +1,7 @@
 ---
 title: "Lake view apartment"
 description: "Lake View Apartment emerges as a serene retreat in Pogradec, offering a blend of comfort and scenic beauty for travelers seeking a tranquil escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477835131.jpg?k=f7dcf33524d71b2a741589a616958193a4b31bb1eb452bffd46b804b59a78a9a&o=&hp=1"
+featuredImage: "/images/accommodation/lake-view-apartment-477835131.jpg"
 language: en
 slug: lake-view-apartment
 address: "Rruga Dëshmorët e Pojskës, kati 6, ap. 28, 7301 Pogradec, Albania"

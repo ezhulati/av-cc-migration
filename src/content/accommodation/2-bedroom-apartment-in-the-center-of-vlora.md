@@ -1,7 +1,7 @@
 ---
 title: "2 Bedroom Apartment in the Center of Vlora"
 description: "Discover the charm of Vlorë with a stay at the centrally located 2 Bedroom Apartment in the Center of Vlora."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481968246.jpg?k=7ceca0a80be00465f1cdae4f385e429149b904f9665aecd6f5ac61c641c96655&o=&hp=1"
+featuredImage: "/images/accommodation/2-bedroom-apartment-in-the-center-of-vlora-481968246.jpg"
 language: en
 slug: 2-bedroom-apartment-in-the-center-of-vlora
 address: "Rruga Sadik Zotaj 6 Floor, 8401 Vlorë, Albania"

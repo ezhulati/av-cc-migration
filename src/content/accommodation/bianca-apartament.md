@@ -1,7 +1,7 @@
 ---
 title: "Bianca Apartament"
 description: "Bianca Apartament emerges as a prime beachfront gem in Golem, offering guests an unparalleled blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310694227.jpg?k=f5d0968d2748f6d3941c694e86f0a0878fe7ede2162686a322810dd875f65bad&o=&hp=1"
+featuredImage: "/images/accommodation/bianca-apartament-310694227.jpg"
 language: en
 slug: bianca-apartament
 address: "2504 Rruga Skënderbeu Durres,Kavaje, 2002 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament 1+1 Lungomare , Vlore"
 description: "Discover the charm of Vlorë with a stay at Apartament 1+1 Lungomare, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478051699.jpg?k=1bb85236e25a1b9d28567ea4610b235432234dcdae6ea8a857f2e8f12a73f81e&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-1-1-lungomare-vlore-478051699.jpg"
 language: en
 slug: apartament-1-1-lungomare-vlore
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

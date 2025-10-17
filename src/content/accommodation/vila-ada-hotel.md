@@ -1,7 +1,7 @@
 ---
 title: "Vila Ada Hotel"
 description: "Vila Ada Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211680888.jpg?k=16cf979553bf7891f545809c8e1786fd6e2c3b77bc0005a16f681fd1b874da1a&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ada-hotel-211680888.jpg"
 language: en
 slug: vila-ada-hotel
 address: "Sulejman Pitarka 66, 1001 Tirana, Albania"

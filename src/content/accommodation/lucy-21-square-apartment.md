@@ -1,7 +1,7 @@
 ---
 title: "Lucy 21-Square Apartment"
 description: "Lucy 21-Square Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509757131.jpg?k=c843c19682e95a41785acbb29497c1845ea79a49a9bef1d0efc01717589ccabf&o=&hp=1"
+featuredImage: "/images/accommodation/lucy-21-square-apartment-509757131.jpg"
 language: en
 slug: lucy-21-square-apartment
 address: "Rruga Frederik Shiroka Ndertesa. 10, H.24 Apt.25, 1023 Tirana, Albania"

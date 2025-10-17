@@ -1,7 +1,7 @@
 ---
 title: "Vila Lika Durres"
 description: "Vila Lika Durres emerges as a prime choice for travelers seeking a serene retreat close to the vibrant Durres Beach in the heart of Durres County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492233608.jpg?k=cd766b057bb6274a46bb3cddb5bd9ee5e4b9f6f4a03e3ba28cc2c4632da132d9&o=&hp=1"
+featuredImage: "/images/accommodation/vila-lika-durres-492233608.jpg"
 language: en
 slug: vila-lika-durres
 address: "Rruga e Shqipeve, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ferma Albanik"
 description: "Ferma Albanik emerges as a serene retreat in the heart of Këlcyrë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336374519.jpg?k=48a70189466d84e1996186c8c26f1d4429ee3a90afacfd1a5b89bac8beea5fec&o=&hp=1"
+featuredImage: "/images/accommodation/ferma-albanik-336374519.jpg"
 language: en
 slug: ferma-albanik
 address: "Ballaban, 6406 Këlcyrë, Albania"

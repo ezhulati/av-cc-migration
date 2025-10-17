@@ -1,7 +1,7 @@
 ---
 title: "Villa Ani"
 description: "Villa Ani emerges as a serene oasis in the heart of Borsh, Vlorë County, offering guests a unique blend of natural beauty and modern comforts."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387663141.jpg?k=167f13c6921709854fa1ec4f919dab90c8d238aa4fd1cda6ec635214b6e284ed&o=&hp=1"
+featuredImage: "/images/accommodation/villa-ani-387663141.jpg"
 language: en
 slug: villa-ani
 address: "SH8, 9714 Borsh, Albania"

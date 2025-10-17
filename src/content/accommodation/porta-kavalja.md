@@ -1,7 +1,7 @@
 ---
 title: "Porta Kavalja"
 description: "Porta Kavalja emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem, just a stone's throw away from the serene Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200656549.jpg?k=85a288077169fea4a4807ef7e8ecf6df00962ca71adf8ce93ebca731a776bb55&o=&hp=1"
+featuredImage: "/images/accommodation/porta-kavalja-200656549.jpg"
 language: en
 slug: porta-kavalja
 address: "Bulevardi Pishave Golem, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DeLux Apartment (by Mishel)"
 description: "DeLux Apartment (by Mishel) emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486668540.jpg?k=c9cb3102a1d7dd3afee3ab5b285d0b00ed9d46dc8c0bd14ef2543adb570c521b&o=&hp=1"
+featuredImage: "/images/accommodation/delux-apartment-by-mishel-486668540.jpg"
 language: en
 slug: delux-apartment-by-mishel
 address: "Rruga Lule Bore, Hyrja 2 Ap 2/ Floor 3/ Entry 2, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SEASIDE STUDIO APARTMENT VLORE"
 description: "SEASIDE STUDIO APARTMENT VLORE emerges as a prime choice for travelers seeking a blend of comfort, convenience, and entertainment in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421015481.jpg?k=ba1154d44afc7bde3a5733d97d9aaf7136442ac4006d9ab3a60c518c29ef4dac&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-studio-apartment-vlore-421015481.jpg"
 language: en
 slug: seaside-studio-apartment-vlore
 address: "Lgj. 10 korriku, 9400 Vlorë, Albania"

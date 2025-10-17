@@ -1,7 +1,7 @@
 ---
 title: "Saranda Port View Apartments"
 description: "Saranda Port View Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/saranda-port-view-apartments-d321d61d78a8.jpg"
 language: en
 slug: saranda-port-view-apartments
 address: "Saranda, AL, Sarandë, Albania"

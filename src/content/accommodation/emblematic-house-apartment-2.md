@@ -1,7 +1,7 @@
 ---
 title: "Emblematic House Apartment 2"
 description: "Emblematic House Apartment 2 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the historic heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468133446.jpg?k=42713b4f43e4974040326ef0d1ac0ee4d6c93009737d9b4c93c850428b15c3e6&o=&hp=1"
+featuredImage: "/images/accommodation/emblematic-house-apartment-2-468133446.jpg"
 language: en
 slug: emblematic-house-apartment-2
 address: "Rruga Selam Musai, 6001 Gjirokastër, Albania"

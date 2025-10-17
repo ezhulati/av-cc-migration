@@ -1,7 +1,7 @@
 ---
 title: "Amar’s apartment"
 description: "Amar's Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience right on the shores of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517798159.jpg?k=5035c357a7b1b61f482250bb819d754c698eb5c5d0014b7f12c1cf86a65e62d4&o=&hp=1"
+featuredImage: "/images/accommodation/amar-s-apartment-517798159.jpg"
 language: en
 slug: amar-s-apartment
 address: "Rruga Venecia, Nd.31, H.4, Ap.19, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "One bedroom appartement at Durres 50 m away from the beach with sea view and furnished balcony"
 description: "Discover the charm of coastal living at the One Bedroom Apartment in Durres, a gem located just a stone's throw away from the pristine Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351784582.jpg?k=6ec7f6be5716177c8207d6beb8769d4acac0fd868835d970e6aaffa3aeac0eba&o=&hp=1"
+featuredImage: "/images/accommodation/one-bedroom-appartement-at-durres-50-m-away-from-the-beach-with-sea-view-and-furnished-balcony-351784582.jpg"
 language: en
 slug: one-bedroom-appartement-at-durres-50-m-away-from-the-beach-with-sea-view-and-furnished-balcony
 address: "Hyrja, Rruga Plazh 13 , 2100 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartments Mehmeti"
 description: "Apartments Mehmeti emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305187245.jpg?k=8348d28a0e776052d9d7a650da941d4d5c6073dfeff097bbd7980e3a951e8da4&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-mehmeti-305187245.jpg"
 language: en
 slug: apartments-mehmeti
 address: "Rruga Leka Gjiknuri 116, 9401 Vlorë, Albania"

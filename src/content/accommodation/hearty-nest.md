@@ -1,7 +1,7 @@
 ---
 title: "Hearty Nest"
 description: "Hearty Nest emerges as a serene oasis in the heart of Tirana, boasting a lush garden and an inviting terrace for guests seeking tranquility amidst the city's vibrant life."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507868697.jpg?k=73dc6f7ce3100dc419d4de454b4dce0a829f63f6f7a25411d38cdfab8b199b91&o=&hp=1"
+featuredImage: "/images/accommodation/hearty-nest-507868697.jpg"
 language: en
 slug: hearty-nest
 address: "Rruga Çamëria, 1009 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tranquil Apartment in Sarandë."
 description: "Tranquil Apartment in Sarandë emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468349862.jpg?k=f303142577dbff6f6cee71a1184da01ca71e3e204a6a8e7d1a1d35335695f2cf&o=&hp=1"
+featuredImage: "/images/accommodation/tranquil-apartment-in-sarand-468349862.jpg"
 language: en
 slug: tranquil-apartment-in-sarand
 address: "Rruga Butrinti, Sarandë, Albania"

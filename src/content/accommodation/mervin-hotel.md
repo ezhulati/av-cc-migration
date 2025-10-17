@@ -1,7 +1,7 @@
 ---
 title: "Mervin Hotel"
 description: "Mervin Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Krujë, situated just 31 km from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150349082.jpg?k=9638e9f28f658caaa45910a5ca6b9bb66b7631f2a4afb60944211b9f4cfb961f&o=&hp=1"
+featuredImage: "/images/accommodation/mervin-hotel-150349082.jpg"
 language: en
 slug: mervin-hotel
 address: "Rruga Kryesore Qender Kruje, 1501 Krujë, Albania"

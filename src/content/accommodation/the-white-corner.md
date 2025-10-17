@@ -1,7 +1,7 @@
 ---
 title: "The White Corner"
 description: "The White Corner emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482612519.jpg?k=54a9b9fa9b02c6a83bb5736df5b9fe8a7cbf6a982b399388e343067180aafb7a&o=&hp=1"
+featuredImage: "/images/accommodation/the-white-corner-482612519.jpg"
 language: en
 slug: the-white-corner
 address: "Rruga Abaz Çelkupa, Durrës, Albania"

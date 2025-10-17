@@ -1,7 +1,7 @@
 ---
 title: "Drymades Inn Resort"
 description: "Drymades Inn Resort, located a mere stone's throw from the pristine shores of Palasa Beach in Dhërmi, stands out as a premier destination for travelers seeking both serenity and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490743918.jpg?k=e02bf79bb5aaaed865482dc6f691b9dc296ecdc7ea683241c38b1a0910777a8c&o=&hp=1"
+featuredImage: "/images/accommodation/drymades-inn-resort-490743918.jpg"
 language: en
 slug: drymades-inn-resort
 address: "Rruga Perivolo, 1001 Dhërmi, Albania"

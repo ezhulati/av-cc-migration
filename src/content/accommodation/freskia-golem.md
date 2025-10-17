@@ -1,7 +1,7 @@
 ---
 title: "FRESKIA GOLEM"
 description: "FRESKIA GOLEM emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, situated merely 600 meters from the pristine Golem Beach and a short stroll from Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"
+featuredImage: "/images/accommodation/freskia-golem-ecc2e23c1dd8.jpg"
 language: en
 slug: freskia-golem
 address: "Rruga Kristal Kati 4, 2504 Golem, Albania"

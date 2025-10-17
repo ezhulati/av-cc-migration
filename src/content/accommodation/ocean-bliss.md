@@ -1,7 +1,7 @@
 ---
 title: "Ocean Bliss"
 description: "Ocean Bliss stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471018668.jpg?k=1c4c0665af5b17637bebcc40afa0c48e6e66aa046e1a2126618d4157e0dee65d&o=&hp=1"
+featuredImage: "/images/accommodation/ocean-bliss-471018668.jpg"
 language: en
 slug: ocean-bliss
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

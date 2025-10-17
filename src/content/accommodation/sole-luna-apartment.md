@@ -1,7 +1,7 @@
 ---
 title: "Sole & Luna Apartment"
 description: "Sole & Luna Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër, located just a stone's throw away from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498236976.jpg?k=30cd1ce7192b5d1d54db99d7c9081ab05db87c92ee062c3f75a9e3a70ccb5bc5&o=&hp=1"
+featuredImage: "/images/accommodation/sole-luna-apartment-498236976.jpg"
 language: en
 slug: sole-luna-apartment
 address: "Bulevardi Skënderbeu, Ap. 40, 4001 Shkodër, Albania"

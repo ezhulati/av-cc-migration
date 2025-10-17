@@ -1,7 +1,7 @@
 ---
 title: "Saranda Sea View Family Apartment"
 description: "Saranda Sea View Family Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404385304.jpg?k=1714c857416e8e9506e1c7a912f14ac974b6cce4ce1c197e2f734a1cfe9cb6f0&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-sea-view-family-apartment-404385304.jpg"
 language: en
 slug: saranda-sea-view-family-apartment
 address: "v288+cmw, sarande, albania coordinates 39.86555 20.01681, 9701 Sarandë, Albania"

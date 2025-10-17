@@ -1,7 +1,7 @@
 ---
 title: "Hotel Darda"
 description: "Hotel Darda, located a mere 7."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461542737.jpg?k=583e8863d362e10e1fa3dbc64e636faa9daef90e7d163be95b9ef0363f2db839&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-darda-461542737.jpg"
 language: en
 slug: hotel-darda
 address: "Rruga Australia, 1030 Kamëz, Albania"

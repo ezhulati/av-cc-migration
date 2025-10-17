@@ -1,7 +1,7 @@
 ---
 title: "★ The Cozy Little Apartment ★"
 description: "The Cozy Little Apartment in Shkodër offers a serene retreat for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/178422898.jpg?k=586b24b600d1736ca7b5111e765524e43d2cda340dbb4b294d60aa0b0d7613de&o=&hp=1"
+featuredImage: "/images/accommodation/the-cozy-little-apartment-178422898.jpg"
 language: en
 slug: the-cozy-little-apartment
 address: "Bulevardi Skënderbeu 50, 4001 Shkodër, Albania"

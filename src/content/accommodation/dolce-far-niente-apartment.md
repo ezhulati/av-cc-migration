@@ -1,7 +1,7 @@
 ---
 title: "Dolce far niente Apartment"
 description: "Dolce far niente Apartment emerges as a recently renovated gem in the heart of Tirana, offering a seamless blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368003877.jpg?k=9ea9fe4d681480ac14177c5981a6cea4c6f8b2656c4c440b5b3f9feff32f7386&o=&hp=1"
+featuredImage: "/images/accommodation/dolce-far-niente-apartment-368003877.jpg"
 language: en
 slug: dolce-far-niente-apartment
 address: "Rruga Petro Marko, 1000 Tirana, Albania"

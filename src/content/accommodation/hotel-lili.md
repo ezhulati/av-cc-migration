@@ -1,7 +1,7 @@
 ---
 title: "\"HOTEL LILI\""
 description: "\"HOTEL LILI\" emerges as a charming retreat in the heart of Sarandë, situated within the picturesque Vlorë County region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449361111.jpg?k=0ea3ae6ff696f4f5df6655bb2d0a90668c45227937acd07916a6323014407321&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-lili-449361111.jpg"
 language: en
 slug: hotel-lili
 address: "50 Rruga Adem Sheme, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Inas apartment golem"
 description: "Inas Apartment Golem emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508927182.jpg?k=de7e568f852b2ae9103a764c33102007a6df0081d06bcbe4ed1dd03016ff0549&o=&hp=1"
+featuredImage: "/images/accommodation/inas-apartment-golem-508927182.jpg"
 language: en
 slug: inas-apartment-golem
 address: "Rruga Viena, 2504 Golem, Albania"

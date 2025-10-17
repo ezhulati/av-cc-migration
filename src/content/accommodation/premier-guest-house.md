@@ -1,7 +1,7 @@
 ---
 title: "PREMIER GUEST HOUSE"
 description: "PREMIER GUEST HOUSE stands out as a serene haven in Vlorë, merely 500 meters from the pristine Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365427579.jpg?k=7b8c0a5fa75819eed4fccc52e6cf07474d8042ebed94f1e1d8097d99750e0977&o=&hp=1"
+featuredImage: "/images/accommodation/premier-guest-house-365427579.jpg"
 language: en
 slug: premier-guest-house
 address: "Rruga Vlorë, Vlorë, Albania"

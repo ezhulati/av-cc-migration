@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kocollari"
 description: "Hotel Kocollari stands as a charming retreat in the heart of Gjirokastër, a mere 44 km away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493226998.jpg?k=f1e3545f02285df9289f1419d4b046cd1d94a4a27858e615358c600f75e86555&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kocollari-493226998.jpg"
 language: en
 slug: hotel-kocollari
 address: "ura e lumit, varrezat e deshmoreve, 6001 Gjirokastër, Albania"

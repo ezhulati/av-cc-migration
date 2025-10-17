@@ -1,7 +1,7 @@
 ---
 title: "Draci Apartments"
 description: "Draci Apartments emerges as a serene oasis in Sarandë, boasting a lush garden view that promises a tranquil retreat just 2 km away from the bustling Saranda City Beach and the equally inviting Maestral Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/draci-apartments-12a07b30d7fe.jpg"
 language: en
 slug: draci-apartments
 address: "V2FG+3J7, Sarandë, Albania, 9701 Sarandë, Albania"

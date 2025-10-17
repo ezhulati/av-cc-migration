@@ -1,7 +1,7 @@
 ---
 title: "Aleks Holiday Rooms"
 description: "Aleks Holiday Rooms emerges as a serene retreat in the heart of Ksamil, a mere stone's throw away from the pristine sands of Ksamil Beach."
-featuredImage: "https://lh3.googleusercontent.com/a-/AFdZucqbuk7pr6VqnJbRt9qMhTcTrsxWVeX9srmJ6FXtsw=s96-c64"
+featuredImage: "/images/accommodation/aleks-holiday-rooms-AFdZucqbuk7p.jpg"
 language: en
 slug: aleks-holiday-rooms
 address: "39.7740085, 20.0086110 Q2F5+JC5 Ksamil, 9706 Ksamil, Albania"

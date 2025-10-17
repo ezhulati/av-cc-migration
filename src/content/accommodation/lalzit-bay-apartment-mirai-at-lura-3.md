@@ -1,7 +1,7 @@
 ---
 title: "Lalzit Bay Apartment Mirai at Lura 3"
 description: "Lalzit Bay Apartment Mirai at Lura 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Mullini i Danit."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426933367.jpg?k=9199d08e8e62564ec6e3629256d898851cf3aa75df46a0c60cdbf6e08a7063c8&o=&hp=1"
+featuredImage: "/images/accommodation/lalzit-bay-apartment-mirai-at-lura-3-426933367.jpg"
 language: en
 slug: lalzit-bay-apartment-mirai-at-lura-3
 address: "Lalëzit Bay, Mullini i Danit, Albania"

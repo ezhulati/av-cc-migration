@@ -1,7 +1,7 @@
 ---
 title: "LURA Hotel"
 description: "LURA Hotel emerges as a serene oasis in Peshkopi, offering guests a harmonious blend of comfort and convenience with its array of amenities and services."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529299203.jpg?k=3c4bf0b20b875dc474701d2dd35ab713ab69b44b2b9a5dee6e92fe9d65d0023e&o=&hp=1"
+featuredImage: "/images/accommodation/lura-hotel-529299203.jpg"
 language: en
 slug: lura-hotel
 address: "Rr Borie Lure, SH34, Fushë Lurë, Albania Fushe lure, 8301 Peshkopi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blue Ivy Villa"
 description: "Blue Ivy Villa emerges as a serene retreat in the vibrant heart of Vlorë, offering guests a unique blend of privacy and accessibility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472816209.jpg?k=4899d81023c5dfc45d454bbd45cb59b295e58606ee9accb12b0fecaaeef45f9b&o=&hp=1"
+featuredImage: "/images/accommodation/blue-ivy-villa-472816209.jpg"
 language: en
 slug: blue-ivy-villa
 address: "Palase, 9425 Vlorë, Albania"

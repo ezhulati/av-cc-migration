@@ -1,7 +1,7 @@
 ---
 title: "Tranquillity Apartament 1"
 description: "Tranquillity Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438833267.jpg?k=5258502a40348c1dd52b629410db84c4068ecc7675e5db2594681fa8954158fb&o=&hp=1"
+featuredImage: "/images/accommodation/tranquillity-apartament-1-438833267.jpg"
 language: en
 slug: tranquillity-apartament-1
 address: "Rruga Shyqyri Brari, 1060 Tirana, Albania"

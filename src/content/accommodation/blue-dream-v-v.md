@@ -1,7 +1,7 @@
 ---
 title: "Blue Dream V&V"
 description: "Blue Dream V&V emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467611998.jpg?k=7320896d8dba2c47b725429e9b73286552ad480ec82b7dfafbd918d36f6896f2&o=&hp=1"
+featuredImage: "/images/accommodation/blue-dream-v-v-467611998.jpg"
 language: en
 slug: blue-dream-v-v
 address: "Rr. \"Zenel Gjoleka\", Nd.43, H.13, Ap.54, 9701 SARANDE, 9701 Sarandë, Albania"

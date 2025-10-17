@@ -1,7 +1,7 @@
 ---
 title: "Seaview Apartment in Vlore"
 description: "Seaview Apartment in Vlore emerges as a prime choice for travelers seeking a serene beachfront escape, situated just a short stroll from Ri Beach and within easy reach of the Beach at Government Villas."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtcCjO9J51cBkHslei0k5FsbSDh1-lQCh00gmA_y=s96-c64"
+featuredImage: "/images/accommodation/seaview-apartment-in-vlore-AAcHTtcCjO9J.jpg"
 language: en
 slug: seaview-apartment-in-vlore
 address: "Rruga Dhimitër Konomi, 9400 Vlorë, Albania"

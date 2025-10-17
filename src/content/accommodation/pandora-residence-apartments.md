@@ -1,7 +1,7 @@
 ---
 title: "Pandora Residence Apartments"
 description: "Pandora Residence Apartments emerges as a serene haven in the bustling heart of the city, located just a stone's throw from the vibrant Elbasani Street."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99781679.jpg?k=2439f42e7dd370479eac475f7e54005298fefa04f953a5a9efe51cc048e5fd59&o=&hp=1"
+featuredImage: "/images/accommodation/pandora-residence-apartments-99781679.jpg"
 language: en
 slug: pandora-residence-apartments
 address: "Rruga Fuat Toptani 2, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DANTE APARTAMENT"
 description: "DANTE APARTAMENT emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from the vibrant Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362947206.jpg?k=cab23bd6f001c75717302249d6932d23dce56dda1b83dcc85655336f30825d31&o=&hp=1"
+featuredImage: "/images/accommodation/dante-apartament-362947206.jpg"
 language: en
 slug: dante-apartament
 address: "Rruga Murat Tërbaçi Akademia e marines, 9401 Vlorë, Albania"

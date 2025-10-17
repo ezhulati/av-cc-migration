@@ -1,7 +1,7 @@
 ---
 title: "Ulcas guest huse"
 description: "Ulcas Guest House emerges as a serene oasis in Vlorë, offering a tranquil retreat just a stone's throw away from the pristine Vlore Beach and a short stroll from the enchanting Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450636907.jpg?k=78be65c58ab61c41b98178ce84c3c9af8619bcecadf582abf86dd86b0fd03358&o=&hp=1"
+featuredImage: "/images/accommodation/ulcas-guest-huse-450636907.jpg"
 language: en
 slug: ulcas-guest-huse
 address: "Rruga Çamëria, 9402 Vlorë, Albania"

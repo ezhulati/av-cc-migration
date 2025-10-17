@@ -1,7 +1,7 @@
 ---
 title: "Apartment 50m Away From The Beach"
 description: "Apartment 50m Away From The Beach stands as a prime choice for travelers seeking a serene beachfront retreat in Durrës, merely a stone's throw from the pristine Shkëmbi i Kavajës Beach."
-featuredImage: "https://graph.facebook.com/v2.9/636689726521392/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/apartment-50m-away-from-the-beach-picture?type.jpg"
 language: en
 slug: apartment-50m-away-from-the-beach
 address: "Rruga Shkembi i Kavajes, 1001 Durrës, Albania"

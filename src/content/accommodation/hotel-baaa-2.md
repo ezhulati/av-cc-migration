@@ -1,7 +1,7 @@
 ---
 title: "Hotel BAAA 2"
 description: "Discover the charm of Hotel BAAA 2, a standout property located in the heart of Sarandë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://graph.facebook.com/v2.9/10214411470667185/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/hotel-baaa-2-picture?type.jpg"
 language: en
 slug: hotel-baaa-2
 address: "Rruga Onhezmi, 9701 Sarandë, Albania"

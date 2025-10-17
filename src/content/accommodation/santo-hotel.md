@@ -1,7 +1,7 @@
 ---
 title: "SANTO Hotel"
 description: "SANTO Hotel, located in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, offers guests a unique blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306229000.jpg?k=4ebff72854c1120aa0d1a1aaf8ed0f94d41fb2cfaeb4b3c447da995fc754858d&o=&hp=1"
+featuredImage: "/images/accommodation/santo-hotel-306229000.jpg"
 language: en
 slug: santo-hotel
 address: "Rruga Marin Bicikemi, 4001 Shkodër, Albania"

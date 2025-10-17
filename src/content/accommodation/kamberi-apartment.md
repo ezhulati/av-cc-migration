@@ -1,7 +1,7 @@
 ---
 title: "Kamberi Apartment"
 description: "Kamberi Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359477786.jpg?k=bfecd742f3503ac6dccc24179bfea7b6489e82556047249111855763f4650b35&o=&hp=1"
+featuredImage: "/images/accommodation/kamberi-apartment-359477786.jpg"
 language: en
 slug: kamberi-apartment
 address: "Lagjia Pavaresia, Rr. \"Gjergj Araniti\", pallati Goleni 2, kati 5, hyrja 17, 9400 Vlorë, Albania"

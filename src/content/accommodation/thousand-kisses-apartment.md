@@ -1,7 +1,7 @@
 ---
 title: "Thousand Kisses Apartment"
 description: "Thousand Kisses Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389174627.jpg?k=30734b1c9a4d7175c8a49bc4338c1c419fd508a38adc3517e3def5ccbd4ec093&o=&hp=1"
+featuredImage: "/images/accommodation/thousand-kisses-apartment-389174627.jpg"
 language: en
 slug: thousand-kisses-apartment
 address: "Rruga Guri Nazifi 4, Sarandë, Albania, Sarandë, Albania"

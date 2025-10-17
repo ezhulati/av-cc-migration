@@ -1,7 +1,7 @@
 ---
 title: "Kallmi View Eco Rooms"
 description: "Kallmi View Eco Rooms emerges as a serene oasis in Durrës, boasting a prime location mere steps from West End Beach and a short stroll from Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483479742.jpg?k=72b90ec9cf76035b5f2a91af00de9009915fb49858973fc4422ac1efd9ea0775&o=&hp=1"
+featuredImage: "/images/accommodation/kallmi-view-eco-rooms-483479742.jpg"
 language: en
 slug: kallmi-view-eco-rooms
 address: "Rruga Kallmi, 2001 Durrës, Albania"

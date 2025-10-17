@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Llogara, Log Cabins"
 description: "Hotel Uji I Panjes Llogara Log Cabins stands as a serene retreat in Vlorë, a mere stone's throw away from the historic Kuzum Baba and Independence Square, at distances of 41 km and 42 km respectively."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375193811.jpg?k=42807bb0b377235670914c4eafd04cd55ce8adf2820b47972d723885ded4eec7&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-llogara-log-cabins-375193811.jpg"
 language: en
 slug: bujtina-llogara-log-cabins
 address: "LLOGARA VLORE SH8, 9405 Vlorë, Albania"

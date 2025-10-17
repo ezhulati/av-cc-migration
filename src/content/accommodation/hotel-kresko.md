@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kresko"
 description: "Hotel Kresko stands out as a serene oasis in Lushnjë, located a mere 45 km from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/191120710.jpg?k=91dc50233b6eccef6022075f012cadb42b0376cac25ba74ece9f8de566f79917&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kresko-191120710.jpg"
 language: en
 slug: hotel-kresko
 address: "Lagjia 18 Tetori Rrethrrotullimi i Savres, 9000 Lushnjë, Albania"

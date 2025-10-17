@@ -1,7 +1,7 @@
 ---
 title: "G Balcony Apartment"
 description: "G Balcony Apartment stands as a prime beachfront gem in Vlorë, offering guests the rare opportunity to wake up just steps away from the serene Ri Beach and the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260368546.jpg?k=066843ac73c2838fae664a32a13a823153a4948c17822998d855725c502fcc0e&o=&hp=1"
+featuredImage: "/images/accommodation/g-balcony-apartment-260368546.jpg"
 language: en
 slug: g-balcony-apartment
 address: "Rruga Murat Terbaci, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Hakuna Matata"
 description: "Appartamento Hakuna Matata stands out as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474326729.jpg?k=e38b11b84891d7e75195b61857438f00dab5841ab7ac5cf35e36c63bb6963233&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-hakuna-matata-474326729.jpg"
 language: en
 slug: appartamento-hakuna-matata
 address: "Rruga Marin Bicikemi, 4000 Shkodër, Albania"

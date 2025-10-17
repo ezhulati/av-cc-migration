@@ -1,7 +1,7 @@
 ---
 title: "Gruda Apartments"
 description: "Gruda Apartments in Shkodër stands out as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/gruda-apartments-d2bf46fbe4c1.jpg"
 language: en
 slug: gruda-apartments
 address: "Rruga Daut Borici 2, 4001 Shkodër, Albania"

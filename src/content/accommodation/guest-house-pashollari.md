@@ -1,7 +1,7 @@
 ---
 title: "Guest House Pashollari"
 description: "Guest House Pashollari emerges as a serene retreat in the heart of Berat, boasting accommodations that offer both mountain and river views, ensuring a picturesque stay for every guest."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213908778.jpg?k=23e39d19a105d2096dd2582a0f7935e3402d6dd04eaddbab8166ae84cd2c2147&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-pashollari-213908778.jpg"
 language: en
 slug: guest-house-pashollari
 address: "Rruga At Theodhori Apt 22, 5001 Berat, Albania"

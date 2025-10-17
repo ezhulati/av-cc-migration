@@ -1,7 +1,7 @@
 ---
 title: "Pandora's Seaview Apartment"
 description: "Pandora's Seaview Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521490402.jpg?k=fdc78ec0874b2e885cbe3c3fb58f0249b0711ef629e5fa6be8be7fc1a19ea079&o=&hp=1"
+featuredImage: "/images/accommodation/pandora-s-seaview-apartment-521490402.jpg"
 language: en
 slug: pandora-s-seaview-apartment
 address: "Rruga Shkembi i Kavajes, 2019 Durrës, Albania"

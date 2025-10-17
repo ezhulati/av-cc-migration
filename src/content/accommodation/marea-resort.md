@@ -1,7 +1,7 @@
 ---
 title: "Marea Resort"
 description: "Discover the hidden gem of Marea Resort, a serene oasis surrounded by lush pine trees, merely a stone's throw away from the crystalline sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486599560.jpg?k=0e117e1d5d34c530a54a8b8dedc54ec1aaa91eb22e90162a6f6b48c5c2844bf5&o=&hp=1"
+featuredImage: "/images/accommodation/marea-resort-486599560.jpg"
 language: en
 slug: marea-resort
 address: "Rr. Golem - Kavaje, 1000 Golem, Albania"

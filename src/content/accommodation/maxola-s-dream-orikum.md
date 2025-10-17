@@ -1,7 +1,7 @@
 ---
 title: "Maxola's Dream Orikum"
 description: "Maxola's Dream Orikum emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just steps away from the serene Orikum Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99799647.jpg?k=9fe96bdb6ea7db880070cba4364164a94f9febedb18bfe8624bb2e64bac34b43&o=&hp=1"
+featuredImage: "/images/accommodation/maxola-s-dream-orikum-99799647.jpg"
 language: en
 slug: maxola-s-dream-orikum
 address: "Rruga Pashaliman 133, 9426 Orikum, Albania"

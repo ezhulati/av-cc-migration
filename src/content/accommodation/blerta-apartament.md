@@ -1,7 +1,7 @@
 ---
 title: "Blerta apartament"
 description: "Blerta Apartment emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469153014.jpg?k=0d13e65c121edb488736c7a03426eeaecd954cab8db0d83cf015b5d71f39dc01&o=&hp=1"
+featuredImage: "/images/accommodation/blerta-apartament-469153014.jpg"
 language: en
 slug: blerta-apartament
 address: "Rruga Uji i Ftohte, Vlorë, Albania"

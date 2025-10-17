@@ -1,7 +1,7 @@
 ---
 title: "Modern Apt in Mangalem21 Complex WiFi,AC"
 description: "Discover the epitome of modern living at the Modern Apt in Mangalem21 Complex, a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481045208.jpg?k=dfc70a4672f91c875bb8f2446fbf1689d34049eb4aff5b1758bad95346a813c7&o=&hp=1"
+featuredImage: "/images/accommodation/modern-apt-in-mangalem21-complex-wifi-ac-481045208.jpg"
 language: en
 slug: modern-apt-in-mangalem21-complex-wifi-ac
 address: "25 Rruga Pasho Hysa 5, 1001 Tirana, Albania"

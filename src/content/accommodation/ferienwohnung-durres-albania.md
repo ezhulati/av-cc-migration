@@ -1,7 +1,7 @@
 ---
 title: "Ferienwohnung Durres Albania"
 description: "Ferienwohnung Durres Albania emerges as a prime choice for travelers seeking comfort and convenience in Durrës, situated just a short stroll from Currila Beach and within easy reach of Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470611275.jpg?k=37393bc3d433ae7be1b19ecfa832c7d47d4e8eea1dc59e124a20c1a873a1b432&o=&hp=1"
+featuredImage: "/images/accommodation/ferienwohnung-durres-albania-470611275.jpg"
 language: en
 slug: ferienwohnung-durres-albania
 address: "8 Rruga Mbreteresha Teuta, Durrës, Albania"

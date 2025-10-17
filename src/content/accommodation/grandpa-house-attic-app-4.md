@@ -1,7 +1,7 @@
 ---
 title: "Grandpa House-Attic App 4"
 description: "Grandpa House-Attic App 4 emerges as a charming retreat in the heart of Tirana, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518195394.jpg?k=16bc444f859020c69247e52fc04d7f64638a071461de71718064264312185963&o=&hp=1"
+featuredImage: "/images/accommodation/grandpa-house-attic-app-4-518195394.jpg"
 language: en
 slug: grandpa-house-attic-app-4
 address: "Rruga Bardhok Biba 47-43, Tiranë, Albania, 8RM9+2FH Tirana, Albania, 1001 Tirana, Albania"

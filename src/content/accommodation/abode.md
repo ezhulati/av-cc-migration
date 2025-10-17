@@ -1,7 +1,7 @@
 ---
 title: "abode"
 description: "Abode stands as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496151611.jpg?k=bdc9389dc8f62ed6490c737168c18a2598b468782198c4467ab041f08f89722d&o=&hp=1"
+featuredImage: "/images/accommodation/abode-496151611.jpg"
 language: en
 slug: abode
 address: "Rruga Tish Dahia, 1001 Tirana, Albania"

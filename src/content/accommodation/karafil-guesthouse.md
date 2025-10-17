@@ -1,7 +1,7 @@
 ---
 title: "Karafil Guesthouse"
 description: "Karafil Guesthouse emerges as a charming retreat in Gjirokastër, situated a mere 45 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113069469.jpg?k=926fe2fd58b68352dd9ca5c665082d947690e10ee56638b90711fa8b23d0f0de&o=&hp=1"
+featuredImage: "/images/accommodation/karafil-guesthouse-113069469.jpg"
 language: en
 slug: karafil-guesthouse
 address: "07 Rruga Pertef Kokona, 6001 Gjirokastër, Albania"

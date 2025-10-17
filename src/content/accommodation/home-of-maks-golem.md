@@ -1,7 +1,7 @@
 ---
 title: "Home of Maks Golem"
 description: "Discover the charm of seaside living at Home of Maks Golem, a distinguished beachfront property that stands out for its prime location just a stone's throw away from Golem Beach and a short stroll from Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491327679.jpg?k=870b5dfb093be8c7ecb1df7043280cac00ae3f5702f4aa90c992a0354452e7db&o=&hp=1"
+featuredImage: "/images/accommodation/home-of-maks-golem-491327679.jpg"
 language: en
 slug: home-of-maks-golem
 address: "Bulevardi i Pishave,Market Golemi,Golem (Kavajë) 3 piano, Golem, Albania"

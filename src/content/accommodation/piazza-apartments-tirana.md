@@ -1,7 +1,7 @@
 ---
 title: "Piazza_Apartments_Tirana"
 description: "Piazza Apartments Tirana emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a glimpse into the vibrant culture of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410419002.jpg?k=e3650f2c2d9e1aadb5562d13670ed18d77d43b83ceeb0a109566d3f2a62b1c2b&o=&hp=1"
+featuredImage: "/images/accommodation/piazza-apartments-tirana-410419002.jpg"
 language: en
 slug: piazza-apartments-tirana
 address: "Rruga Sulejman Pasha Nd 92 Ap 16, 1000 Tirana, Albania"

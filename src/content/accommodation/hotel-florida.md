@@ -1,7 +1,7 @@
 ---
 title: "Hotel Florida"
 description: "Hotel Florida emerges as a serene oasis just a stone's throw away from the vibrant Durres Beach, offering guests a unique blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500289849.jpg?k=3be3a673592ae393bec2a8f7dbe5bdf8f669d65697d6c5db7dfb67cc72f3eb7a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-florida-500289849.jpg"
 language: en
 slug: hotel-florida
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

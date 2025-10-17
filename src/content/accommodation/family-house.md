@@ -1,7 +1,7 @@
 ---
 title: "Family house"
 description: "Family House emerges as a prime beachfront gem in Vlorë, boasting an enviable location just a stone's throw away from Ri Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462466018.jpg?k=2154a994b0d50876ee728200414b41f79501f98ad358117dfa837fd2af45a072&o=&hp=1"
+featuredImage: "/images/accommodation/family-house-462466018.jpg"
 language: en
 slug: family-house
 address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

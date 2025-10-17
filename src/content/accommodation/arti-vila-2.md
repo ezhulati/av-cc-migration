@@ -1,7 +1,7 @@
 ---
 title: "Arti Vila 2"
 description: "Arti Vila 2 emerges as a serene oasis in the heart of Ksamil, boasting an enviable position mere steps away from the pristine shores of Lori Beach and Ksamil Beach 9, and a short drive from the natural wonders of Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420776769.jpg?k=850be7d83286d0f58e8d9c824bf40da464f59a94b7cf3638e6b2440cc99da921&o=&hp=1"
+featuredImage: "/images/accommodation/arti-vila-2-420776769.jpg"
 language: en
 slug: arti-vila-2
 address: "Hasan Tahsini 14, 1000 Ksamil, Albania"

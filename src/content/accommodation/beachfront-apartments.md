@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Apartments"
 description: "Beachfront Apartments in Sarandë emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527152762.jpg?k=d8af975f11eb5cf9534b9fd7883bf479b66cf128b1824323f6845d8818228f83&o=&hp=1"
+featuredImage: "/images/accommodation/beachfront-apartments-527152762.jpg"
 language: en
 slug: beachfront-apartments
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Boka"
 description: "Hotel Boka emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434320152.jpg?k=91dbcae758b24a42463553db5c9c3a9c54583f0983875d88e4c24f45aefa0569&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-boka-434320152.jpg"
 language: en
 slug: hotel-boka
 address: "Rruga Shemsi Haka Vila Nr.6, 1001 Tirana, Albania"

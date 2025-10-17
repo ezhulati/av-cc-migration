@@ -1,7 +1,7 @@
 ---
 title: "Old Beach Apartment Vlora"
 description: "Old Beach Apartment Vlora stands as a prime choice for travelers seeking a serene beachfront escape in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368896494.jpg?k=c137e39986b7df6daf10a02975cfe9663166be74850d2a3488811940684ace7c&o=&hp=1"
+featuredImage: "/images/accommodation/old-beach-apartment-vlora-368896494.jpg"
 language: en
 slug: old-beach-apartment-vlora
 address: "Rr. Sazani, Plazhi Vjeter, Vlore, 9401 Vlorë, Albania"

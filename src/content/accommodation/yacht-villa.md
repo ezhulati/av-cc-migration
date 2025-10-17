@@ -1,7 +1,7 @@
 ---
 title: "Yacht Villa"
 description: "Yacht Villa emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/yacht-villa-0e43c9b9a23d.jpg"
 language: en
 slug: yacht-villa
 address: "Saranda, AL - Corfu, GR, 1907 Sarandë, Albania"

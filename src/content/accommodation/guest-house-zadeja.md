@@ -1,7 +1,7 @@
 ---
 title: "Guest House Zadeja"
 description: "Discover the charm of Shkodër at Guest House Zadeja, a serene oasis located just 49 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262752145.jpg?k=f1f3652da2413450cf8f72e5a42b11b02dc0349370a88c9df5beb18eb113fa3e&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-zadeja-262752145.jpg"
 language: en
 slug: guest-house-zadeja
 address: "Rruga Filip Shiroka nr. 15, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "OLD HOUSE"
 description: "OLD HOUSE stands out as a distinguished choice for travelers seeking a blend of comfort and convenience in Shkodër, located just 45 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/241305339.jpg?k=0ad4992ca869c3f3ea6e243f260db93de8148a5922edb12c2bee6e0f1478b2ac&o=&hp=1"
+featuredImage: "/images/accommodation/old-house-241305339.jpg"
 language: en
 slug: old-house
 address: "SH41 Hotel Shpija e Gjyshit, 4001 Shkodër, Albania"

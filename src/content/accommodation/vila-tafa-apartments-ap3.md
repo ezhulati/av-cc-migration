@@ -1,7 +1,7 @@
 ---
 title: "Vila Tafa apartments ap3"
 description: "Vila Tafa Apartments ap3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404593102.jpg?k=924c955194231783e4b5ff7ede4c1b34c651396f243d5f45a258e55dbc88349b&o=&hp=1"
+featuredImage: "/images/accommodation/vila-tafa-apartments-ap3-404593102.jpg"
 language: en
 slug: vila-tafa-apartments-ap3
 address: "Rruga Petro Nini Luarasi, 1001 Tirana, Albania"

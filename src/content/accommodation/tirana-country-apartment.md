@@ -1,7 +1,7 @@
 ---
 title: "Tirana country apartment"
 description: "Tirana Country Apartment emerges as a serene retreat in the vibrant city of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506974773.jpg?k=ecf8648b08c107a47ea0dc6539c2ffea58e1d9bbc478eac1a61d16771cc16a14&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-country-apartment-506974773.jpg"
 language: en
 slug: tirana-country-apartment
 address: "Autostrada Tiranë - Elbasan, 1000 Tirana, Albania"

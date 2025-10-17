@@ -1,7 +1,7 @@
 ---
 title: "Dionis House"
 description: "Dionis House emerges as a charming holiday retreat in the heart of Shkodër, offering guests a seamless blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464454826.jpg?k=a69901164a3a7dd7f80e488a7c99f70b58bd9c0d004d646fa079595a7904238d&o=&hp=1"
+featuredImage: "/images/accommodation/dionis-house-464454826.jpg"
 language: en
 slug: dionis-house
 address: "Rruga Justin Godard Nr. 20, 4001 Shkodër, Albania"

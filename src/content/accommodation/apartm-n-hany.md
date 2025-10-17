@@ -1,7 +1,7 @@
 ---
 title: "Apartmán Hany"
 description: "Apartmán Hany stands as a prime beachfront gem in Durrës, offering guests the rare opportunity to wake up just a few steps from the serene Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472768580.jpg?k=2e8e55a79aa33d58cabf50859dffa25f485fb483154206798c9f3d1e5ddc39bf&o=&hp=1"
+featuredImage: "/images/accommodation/apartm-n-hany-472768580.jpg"
 language: en
 slug: apartm-n-hany
 address: "Shetitorja e Plazhit, Durrës, Albania"

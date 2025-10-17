@@ -1,7 +1,7 @@
 ---
 title: "Ksamil Apartments"
 description: "Ksamil Apartments emerges as a prime choice for travelers seeking both comfort and convenience, situated merely 300 meters from the vibrant heart of Ksamil and a short 450-meter stroll to the nearest beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319281783.jpg?k=323c1d2deb3aaa3eb33297401975a79a1bee08b6b6a740d425eb005209862338&o=&hp=1"
+featuredImage: "/images/accommodation/ksamil-apartments-319281783.jpg"
 language: en
 slug: ksamil-apartments
 address: "Baba Sherifi dhe Orfeu, 9607 Ksamil, Albania"

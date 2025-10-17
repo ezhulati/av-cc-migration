@@ -1,7 +1,7 @@
 ---
 title: "Alimaj Apartments Marina"
 description: "Alimaj Apartments Marina emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355455839.jpg?k=157d38de9111b39bbd958c4faa8e12a222e00f2e1a15c0438ad8b31f01316416&o=&hp=1"
+featuredImage: "/images/accommodation/alimaj-apartments-marina-355455839.jpg"
 language: en
 slug: alimaj-apartments-marina
 address: "Rruga Dhimitër Konomi 4th Floor, 9401 Vlorë, Albania"

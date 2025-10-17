@@ -1,7 +1,7 @@
 ---
 title: "Sunnyside Villa"
 description: "Sunnyside Villa emerges as a premier choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/393210751.jpg?k=46a5f78879834b8541ca5a6ac0818e479f003a78a9a8417a9101f0aadc6cab0c&o=&hp=1"
+featuredImage: "/images/accommodation/sunnyside-villa-393210751.jpg"
 language: en
 slug: sunnyside-villa
 address: "Rruga Hamallaj-Rrushkull, 2010 Durrës, Albania"

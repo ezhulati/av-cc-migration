@@ -1,7 +1,7 @@
 ---
 title: "La Casita"
 description: "La Casita emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399313223.jpg?k=8b61fb31908eadec27253b6e9895ffd556c3b2d6549cab3038fe79cdb657ac1e&o=&hp=1"
+featuredImage: "/images/accommodation/la-casita-399313223.jpg"
 language: en
 slug: la-casita
 address: "Rruga Don Bosko, Tirana, Albania"

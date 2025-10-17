@@ -1,7 +1,7 @@
 ---
 title: "Katerina's Relaxing Apartment"
 description: "Katerina's Relaxing Apartment in Sarandë stands out as a gem for travelers seeking comfort and convenience in their accommodation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481732234.jpg?k=d0eb55d8e4e32d6380b5b185cc805903266dcb8a44ed582e4675f062f0f5a0d5&o=&hp=1"
+featuredImage: "/images/accommodation/katerina-s-relaxing-apartment-481732234.jpg"
 language: en
 slug: katerina-s-relaxing-apartment
 address: "Finiqi, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Discover Tirana from our 3-room apartment with free parking-Komuna e Parisit"
 description: "Discover Tirana from a Prime Location: 3-Room Apartment in Komuna e Parisit with Complimentary Parking"
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489505036.jpg?k=92cb03bb2210d0fb758919416cf415a782799a55705fb6550d0419f2076b02f2&o=&hp=1"
+featuredImage: "/images/accommodation/discover-tirana-from-our-3-room-apartment-with-free-parking-komuna-e-parisit-489505036.jpg"
 language: en
 slug: discover-tirana-from-our-3-room-apartment-with-free-parking-komuna-e-parisit
 address: "Rruga Medar Shtylla, 1020 Tirana, Albania"

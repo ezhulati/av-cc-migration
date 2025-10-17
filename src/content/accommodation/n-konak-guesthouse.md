@@ -1,7 +1,7 @@
 ---
 title: "N'konak Guesthouse"
 description: "N'konak Guesthouse, situated in the serene Shkoder County region of Pukë, emerges as a charming retreat for travelers seeking both tranquility and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266378086.jpg?k=c84cde8e8ce43d160140a49b5fcdca341b5901b1c425d286bf0bcf598b258154&o=&hp=1"
+featuredImage: "/images/accommodation/n-konak-guesthouse-266378086.jpg"
 language: en
 slug: n-konak-guesthouse
 address: "44 Ymer Puka, 4401 Pukë, Albania"

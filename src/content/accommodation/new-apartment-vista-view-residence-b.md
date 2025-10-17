@@ -1,7 +1,7 @@
 ---
 title: "NEW apartment Vista View Residence B"
 description: "Discover the charm of Sarandë from the comfort of Vista View Residence B, a modern apartment that promises an unforgettable stay with its prime beachfront location."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/new-apartment-vista-view-residence-b-d321d61d78a8.jpg"
 language: en
 slug: new-apartment-vista-view-residence-b
 address: "Rruga Qazim Demi App.14 floor 4, 9702 Sarandë, Albania"

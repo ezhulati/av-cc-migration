@@ -1,7 +1,7 @@
 ---
 title: "apartamente Melodi"
 description: "Just a stone's throw away from the vibrant Durres Beach, Apartamente Melodi emerges as a recently updated gem in Durrës, boasting air-conditioned accommodations with complimentary WiFi and on-site private parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388446764.jpg?k=162a1107cac685640a6e5343de3e88359bda8102644d36e16089f4de885546f4&o=&hp=1"
+featuredImage: "/images/accommodation/apartamente-melodi-388446764.jpg"
 language: en
 slug: apartamente-melodi
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

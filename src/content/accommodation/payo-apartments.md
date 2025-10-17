@@ -1,7 +1,7 @@
 ---
 title: "Payo Apartments"
 description: "Payo Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432891081.jpg?k=10c50477585319e33057236e7dd46754ecb5ef7bce6a3c65fa739e18c23d8202&o=&hp=1"
+featuredImage: "/images/accommodation/payo-apartments-432891081.jpg"
 language: en
 slug: payo-apartments
 address: "600 Rruga Idriz Alidhima, 9701 Sarandë, Albania"

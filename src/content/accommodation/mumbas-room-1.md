@@ -1,7 +1,7 @@
 ---
 title: "Mumbas Room 1"
 description: "Mumbas Room 1 emerges as a standout choice for travelers seeking a serene beachfront escape in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474119215.jpg?k=63c99be47d7dbbea31a73cf01c66144fe85c300b92904403eba2e7833050e101&o=&hp=1"
+featuredImage: "/images/accommodation/mumbas-room-1-474119215.jpg"
 language: en
 slug: mumbas-room-1
 address: "Himare, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfy Modern Urban Apartment - Central"
 description: "Comfy Modern Urban Apartment - Central emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449162017.jpg?k=2287917e149a38a70d268aeac9435a60ab522651936291365dfe0f4353a87f9a&o=&hp=1"
+featuredImage: "/images/accommodation/comfy-modern-urban-apartment-central-449162017.jpg"
 language: en
 slug: comfy-modern-urban-apartment-central
 address: "Rruga Kongresi i Tiranes, 1001 Tirana, Albania"

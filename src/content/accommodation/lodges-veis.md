@@ -1,7 +1,7 @@
 ---
 title: "Lodges VEIS"
 description: "Lodges VEIS emerges as a serene retreat in the picturesque landscape of Kamenicë, Korçë County, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410424823.jpg?k=3c5f773bef4e8cb360949a88a0d33f06921e2990a7d0b6dfbe11e3d5a886bb99&o=&hp=1"
+featuredImage: "/images/accommodation/lodges-veis-410424823.jpg"
 language: en
 slug: lodges-veis
 address: "40°31'48.1\"N 20°43'56.6\"E, 7017 Kamenicë, Albania"

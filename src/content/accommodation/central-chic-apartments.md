@@ -1,7 +1,7 @@
 ---
 title: "Central Chic Apartments"
 description: "Central Chic Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+featuredImage: "/images/accommodation/central-chic-apartments-8103dfb0481c.jpg"
 language: en
 slug: central-chic-apartments
 address: "Rruga e Barrikadave Green Terrace Building (4th floor), 1001 Tirana, Albania"

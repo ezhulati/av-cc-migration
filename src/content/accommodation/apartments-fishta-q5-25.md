@@ -1,7 +1,7 @@
 ---
 title: "Apartments Fishta Q5/25"
 description: "Apartments Fishta Q5/25 emerges as a prime choice for travelers seeking a serene beachfront escape in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527475058.jpg?k=937117ee0320e395ada466e93c9c4dbb2124aee8a46040e7f5629efc68cced09&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-fishta-q5-25-527475058.jpg"
 language: en
 slug: apartments-fishta-q5-25
 address: "Rruga Velipoje, 4020 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Adrian’s apartment"
 description: "Adrian's Apartment emerges as a refreshing choice for travelers seeking comfort and convenience in Orikum."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJxC_lTi-xc5qt93F9qdy6J8m7YhyPyoFP0TULN2=s96-c64"
+featuredImage: "/images/accommodation/adrian-s-apartment-AATXAJxC_lTi.jpg"
 language: en
 slug: adrian-s-apartment
 address: "Rruga Kaonët, Orikum, Albania"

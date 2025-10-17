@@ -1,7 +1,7 @@
 ---
 title: "V Apartment"
 description: "V Apartment emerges as a serene haven, offering guests a unique blend of comfort and convenience with its prime location just a short distance from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479917850.jpg?k=01c240c71f5ffd22e5b1802ebe851a80443fc6729689a49733882d201f728382&o=&hp=1"
+featuredImage: "/images/accommodation/v-apartment-479917850.jpg"
 language: en
 slug: v-apartment
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "T.A.O APARTMENT"
 description: "T."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499813384.jpg?k=f62ecdcda49886e03bb2f3eef61b5b6429354b55fcddbc997b58ca7f872b3d1a&o=&hp=1"
+featuredImage: "/images/accommodation/t-a-o-apartment-499813384.jpg"
 language: en
 slug: t-a-o-apartment
 address: "Rruga Mikel Maruli, 1001 Tirana, Albania"

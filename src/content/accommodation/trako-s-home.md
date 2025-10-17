@@ -1,7 +1,7 @@
 ---
 title: "Trako`s Home"
 description: "Trako's Home emerges as a charming retreat in the heart of Korçë, standing out for its serene ambiance and thoughtful amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/186021975.jpg?k=5454879be6cfe9914722173e0b770105e4e4a927ea532e1d1a06544c9b9feeed&o=&hp=1"
+featuredImage: "/images/accommodation/trako-s-home-186021975.jpg"
 language: en
 slug: trako-s-home
 address: "Rr. Nuci Naci, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament Luani"
 description: "Apartament Luani emerges as a serene retreat, situated merely a stone's throw away from the pristine shores of Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/apartament-luani-0e43c9b9a23d.jpg"
 language: en
 slug: apartament-luani
 address: "Rruga Naim Frashëri, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "New Apartment Tirana City Centre"
 description: "New Apartment Tirana City Centre emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424138639.jpg?k=20790021971e36513d3c6acf75c97d97b58c414d1697633786fa2de9bc385fb1&o=&hp=1"
+featuredImage: "/images/accommodation/new-apartment-tirana-city-centre-424138639.jpg"
 language: en
 slug: new-apartment-tirana-city-centre
 address: "Rruga Çerçiz Topulli, 1001 Tirana, Albania"

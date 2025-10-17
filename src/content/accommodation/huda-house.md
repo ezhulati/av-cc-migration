@@ -1,7 +1,7 @@
 ---
 title: "Huda house"
 description: "Huda House emerges as a serene retreat for travelers seeking both tranquility and adventure, situated in the charming town of Delvinë, a mere 31 km from the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482876897.jpg?k=8164938bc737b4477f8bd01161912290e610bc31883b16b790a7906a0fb99863&o=&hp=1"
+featuredImage: "/images/accommodation/huda-house-482876897.jpg"
 language: en
 slug: huda-house
 address: "Rruga Rakip Demo, 9704 Delvinë, Albania"

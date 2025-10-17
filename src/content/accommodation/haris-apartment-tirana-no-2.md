@@ -1,7 +1,7 @@
 ---
 title: "Haris Apartment Tirana no.2"
 description: "Haris Apartment Tirana no."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/163178303.jpg?k=0e03ffe1ff3d3dfce642edac1d4f9417f210e45eeef69cfa2ccafd79f675d905&o=&hp=1"
+featuredImage: "/images/accommodation/haris-apartment-tirana-no-2-163178303.jpg"
 language: en
 slug: haris-apartment-tirana-no-2
 address: "Rruga Ismail Qemali Pallati 12/1,near Liceu Artistik,Tirana 1001,Albania, 1001 Tirana, Albania"

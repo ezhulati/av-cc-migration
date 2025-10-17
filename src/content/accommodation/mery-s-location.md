@@ -1,7 +1,7 @@
 ---
 title: "Mery’s Location"
 description: "Mery's Location offers a refreshing stay in the historic heart of Berat, providing guests with a modern, air-conditioned apartment that boasts its own private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501715045.jpg?k=bab1c4e51bef733d693b89eebf08006fc3d61a3b32c0a8e217544ae25a125859&o=&hp=1"
+featuredImage: "/images/accommodation/mery-s-location-501715045.jpg"
 language: en
 slug: mery-s-location
 address: "Rruga Migjeni Piano terra citofono Drizari, 5000 Berat, Albania"

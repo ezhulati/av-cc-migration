@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alion"
 description: "Hotel Alion emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308299857.jpg?k=d10bbd7892ad5c9018ae1e0a7363cc5d46d01467f4f0fee5553217178f216afe&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-alion-308299857.jpg"
 language: en
 slug: hotel-alion
 address: "Rruga Agaveve 36, 2008 Durrës, Albania"

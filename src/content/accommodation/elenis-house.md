@@ -1,7 +1,7 @@
 ---
 title: "Elenis House"
 description: "Elenis House emerges as a serene retreat in Finiq, offering spacious, air-conditioned accommodations complete with balconies and complimentary WiFi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481390233.jpg?k=003ef9f0937b45643066ced2047ad7ad7acdbb643755a5a86367cd0c3faddfaf&o=&hp=1"
+featuredImage: "/images/accommodation/elenis-house-481390233.jpg"
 language: en
 slug: elenis-house
 address: "Dermish, Finiq Municipality, Vlore, Finiq, Albania"

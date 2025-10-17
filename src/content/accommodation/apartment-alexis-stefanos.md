@@ -1,7 +1,7 @@
 ---
 title: "Apartment Alexis Stefanos"
 description: "Apartment Alexis Stefanos stands out as a prime choice for travelers seeking comfort and convenience in Himare, located just a short stroll from the pristine Spille Beach and the serene Maracit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485319039.jpg?k=d8413378ae2078ee8158fa13989a439ed21d429a5c34d19bcf59880abf079383&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-alexis-stefanos-485319039.jpg"
 language: en
 slug: apartment-alexis-stefanos
 address: "Zentrum, gegenüber Kindergarten (Gelbes Haus), 9425 Himare, Albania"

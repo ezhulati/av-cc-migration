@@ -1,7 +1,7 @@
 ---
 title: "Seaside Green Hill"
 description: "Seaside Green Hill emerges as a prime choice for travelers seeking a serene getaway in Shëngjin, just a stone's throw away from the pristine shores of Shëngjin Beach and a short stroll from the tranquil Ylberi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483726718.jpg?k=c9492938aa74be664b6b05ec1c2c1bcce5c8e39489efb0385d5bbdbec021779d&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-green-hill-483726718.jpg"
 language: en
 slug: seaside-green-hill
 address: "Bulevardi Nënë Tereza, 4503 Shëngjin, Albania"

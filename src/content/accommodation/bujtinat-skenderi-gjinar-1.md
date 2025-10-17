@@ -1,7 +1,7 @@
 ---
 title: "Bujtinat Skenderi Gjinar 1"
 description: "Bujtinat Skenderi Gjinar 1 emerges as a serene retreat in the heart of Gjinar, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456085688.jpg?k=ea78e62cb6709e3cbe89ddb0e42eb6537486612af4277b6f1dc8db8da69c5f5d&o=&hp=1"
+featuredImage: "/images/accommodation/bujtinat-skenderi-gjinar-1-456085688.jpg"
 language: en
 slug: bujtinat-skenderi-gjinar-1
 address: "Bujtinat Skenderi Bujtinat Skenderi, 3014 Gjinar, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Casa Nada"
 description: "Casa Nada emerges as a recently renovated gem in the heart of Tirana, a stone's throw away from iconic landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and the National Museum of History Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470145594.jpg?k=0b02251361d4987f4990dee50ff49e8e8c150b7b2c307fa365486ffd3113d1c9&o=&hp=1"
+featuredImage: "/images/accommodation/casa-nada-470145594.jpg"
 language: en
 slug: casa-nada
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

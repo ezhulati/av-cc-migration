@@ -1,7 +1,7 @@
 ---
 title: "D1 Apartments"
 description: "D1 Apartments emerges as a serene haven in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/d1-apartments-d321d61d78a8.jpg"
 language: en
 slug: d1-apartments
 address: "Rruga Kostandin Kristoforidhi 31/1, 1001 Tirana, Albania"

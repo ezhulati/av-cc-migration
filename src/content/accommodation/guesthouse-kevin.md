@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Kevin"
 description: "Guesthouse Kevin emerges as a charming retreat in Kukës, boasting a fresh renovation that promises a comfortable and memorable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477063985.jpg?k=aa3b6c0814ffd89a28b7ae00f113e7842db7256aec21219f92bcef8f50c38902&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-kevin-477063985.jpg"
 language: en
 slug: guesthouse-kevin
 address: "Matranxh, 8506 Kukës, Albania"

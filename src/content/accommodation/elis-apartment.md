@@ -1,7 +1,7 @@
 ---
 title: "Elis apartment"
 description: "Elis Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/75820657.jpg?k=b310cd8b31e7804d51c073b5759727fdf1dbe61a57109caafbcfe276b17280e6&o=&hp=1"
+featuredImage: "/images/accommodation/elis-apartment-75820657.jpg"
 language: en
 slug: elis-apartment
 address: "Rruga Murat Terbaci, 9400 Vlorë, Albania"

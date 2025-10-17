@@ -1,7 +1,7 @@
 ---
 title: "Studio Office"
 description: "Studio Office emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494654891.jpg?k=ae1c971209feee33383add578f540c1f0d809667677eecd070b4cb6c0fe4ee40&o=&hp=1"
+featuredImage: "/images/accommodation/studio-office-494654891.jpg"
 language: en
 slug: studio-office
 address: "Rruga Haxhi Kika, Tirana 1022 7 Floor, 1000 Tirana, Albania"

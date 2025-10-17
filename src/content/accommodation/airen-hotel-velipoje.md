@@ -1,7 +1,7 @@
 ---
 title: "Airen Hotel Velipoje"
 description: "Airen Hotel Velipoje stands out as a prime choice for travelers seeking both comfort and convenience, located just a short 500-meter stroll from the pristine sands of Viluni Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152234707.jpg?k=b15adf0989330fd19ff4532396b83ad05c664394c202fe4dd495443e7707fa07&o=&hp=1"
+featuredImage: "/images/accommodation/airen-hotel-velipoje-152234707.jpg"
 language: en
 slug: airen-hotel-velipoje
 address: "Rruga Shkodër - Velipojë Shkodër, 4020 Velipojë, Albania"

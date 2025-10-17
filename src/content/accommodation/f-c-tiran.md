@@ -1,7 +1,7 @@
 ---
 title: "F C Tiranë"
 description: "F C Tiranë emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501168734.jpg?k=f859167c4409768991be2a6017439773f7902e35ff52c28b923fec912456494f&o=&hp=1"
+featuredImage: "/images/accommodation/f-c-tiran-501168734.jpg"
 language: en
 slug: f-c-tiran
 address: "Rruga Sulejman Delvina Godina 2, Apartmenti 10, 1019 Tirana, Albania"

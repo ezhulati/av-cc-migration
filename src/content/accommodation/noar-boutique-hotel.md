@@ -1,7 +1,7 @@
 ---
 title: "Noar Boutique Hotel"
 description: "Discover the charm of Vlorë with a stay at Noar Boutique Hotel, a gem located just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415097458.jpg?k=e70a6b3381242e9729a6d8eb2aded993654fee73fa706c77e8d1d602aaf0ce13&o=&hp=1"
+featuredImage: "/images/accommodation/noar-boutique-hotel-415097458.jpg"
 language: en
 slug: noar-boutique-hotel
 address: "FF2Q+W4 Vlorë, 9401 Vlorë, Albania"

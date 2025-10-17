@@ -1,7 +1,7 @@
 ---
 title: "Villa in Vlore"
 description: "Villa in Vlore stands as a serene retreat in the vibrant city of Vlorë, conveniently located just a short distance from the pristine Vlore Beach and the historic Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489493246.jpg?k=de6e58c32b5fe1c1494419c25aa98e8cd06d6c668b0ff1c34aafdb6ea205f810&o=&hp=1"
+featuredImage: "/images/accommodation/villa-in-vlore-489493246.jpg"
 language: en
 slug: villa-in-vlore
 address: "Rruga Hasan Bleta, 9400 Vlorë, Albania"

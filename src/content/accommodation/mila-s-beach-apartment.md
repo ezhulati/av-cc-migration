@@ -1,7 +1,7 @@
 ---
 title: "MILA'S BEACH APARTMENT"
 description: "MILA'S BEACH APARTMENT emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510256889.jpg?k=a23c5cfcd9c3810d255f65fa6fc7560684950cf0cbce46d410a75bb90c63d4e0&o=&hp=1"
+featuredImage: "/images/accommodation/mila-s-beach-apartment-510256889.jpg"
 language: en
 slug: mila-s-beach-apartment
 address: "Rruga Porta e Detit, Durrës, Albania"

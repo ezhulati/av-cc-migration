@@ -1,7 +1,7 @@
 ---
 title: "SEA SIDE SUITE"
 description: "SEA SIDE SUITE emerges as a prime choice for travelers seeking a serene getaway in Vlorë, perfectly positioned just a short stroll from both Vlore Beach and Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402174872.jpg?k=bb56926c9d47a7ddaa7c5b52c1a4b518d494d02e0c63007bceaeb49bcb195b92&o=&hp=1"
+featuredImage: "/images/accommodation/sea-side-suite-402174872.jpg"
 language: en
 slug: sea-side-suite
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

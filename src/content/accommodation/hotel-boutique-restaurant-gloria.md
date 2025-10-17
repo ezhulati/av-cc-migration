@@ -1,7 +1,7 @@
 ---
 title: "Hotel Boutique Restaurant Gloria"
 description: "Hotel Boutique Restaurant Gloria emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68018854.jpg?k=0efcd145dc1eb498c82a962cbb4b4401e3c1ef56a84d2ed3e96fb67f681091b7&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-boutique-restaurant-gloria-68018854.jpg"
 language: en
 slug: hotel-boutique-restaurant-gloria
 address: "Tirane, Rruga Qemal Stafa, 1000 Tirana, Albania"

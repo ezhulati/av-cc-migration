@@ -1,7 +1,7 @@
 ---
 title: "Vila Emante"
 description: "Vila Emante emerges as a serene retreat in Tushemisht, offering guests a unique blend of comfort and convenience with its air-conditioned accommodations that boast a private patio."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389940173.jpg?k=a82e9ffbd1c4f689fb53289de5ea327e33dfa9aa05c859424bd3e3472299ae1a&o=&hp=1"
+featuredImage: "/images/accommodation/vila-emante-389940173.jpg"
 language: en
 slug: vila-emante
 address: "Tushemisht Pogradec, 7301 Tushemisht, Albania"

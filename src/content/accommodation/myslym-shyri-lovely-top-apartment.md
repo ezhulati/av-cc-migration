@@ -1,7 +1,7 @@
 ---
 title: "Myslym Shyri lovely top apartment"
 description: "Myslym Shyri Lovely Top Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515889362.jpg?k=11ff12fc9c9eff67b7b6124fa777c6f023246abaae6d83be46d849b944b17c92&o=&hp=1"
+featuredImage: "/images/accommodation/myslym-shyri-lovely-top-apartment-515889362.jpg"
 language: en
 slug: myslym-shyri-lovely-top-apartment
 address: "Rr Myslym Shyri, pallati 31/1 ap 18, 1001 Tirana, Albania"

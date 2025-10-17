@@ -1,7 +1,7 @@
 ---
 title: "Marash Rrgalla Guesthouse"
 description: "Marash Rrgalla Guesthouse emerges as a serene haven in Theth, merely 600 meters from the enchanting Theth National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213309236.jpg?k=375e1af8f76f3787039912e35f1d45191959009423b2ede708a5977b221b519e&o=&hp=1"
+featuredImage: "/images/accommodation/marash-rrgalla-guesthouse-213309236.jpg"
 language: en
 slug: marash-rrgalla-guesthouse
 address: "Rruga e Gjelajve Theth, 4027 Theth, Albania"

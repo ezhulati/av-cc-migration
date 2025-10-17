@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Sara"
 description: "Guesthouse Sara emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated merely 500 meters from the serene Vjetër Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502440328.jpg?k=9ed3588283bda89f32aa7ae4c7bd044ed8b667847a2de83ec27b4ea383f4c3d6&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-sara-502440328.jpg"
 language: en
 slug: guesthouse-sara
 address: "Rruga Kosova, Vlorë, Albania"

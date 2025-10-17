@@ -1,7 +1,7 @@
 ---
 title: "Baba"
 description: "Discover the charm of Vlorë with a stay at Baba, a serene holiday home perfectly positioned just a short distance from the vibrant Vlore Beach and the historic Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492174301.jpg?k=1ddff4a23060214e71b5416c315cd0433b8c6ca01a9b7f174705b2797616ef91&o=&hp=1"
+featuredImage: "/images/accommodation/baba-492174301.jpg"
 language: en
 slug: baba
 address: "TASIM GJOKUTAJ 40, 9403 Vlorë, Albania"

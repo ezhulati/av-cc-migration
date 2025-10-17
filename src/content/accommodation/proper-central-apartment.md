@@ -1,7 +1,7 @@
 ---
 title: "Proper Central Apartment"
 description: "Proper Central Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335652154.jpg?k=8877919193250b66e4e1ca75ec3cbe93d8eaeeeccc486c364d768e0b611dde2b&o=&hp=1"
+featuredImage: "/images/accommodation/proper-central-apartment-335652154.jpg"
 language: en
 slug: proper-central-apartment
 address: "Rruga Mihal Duri, Floor No. 4, 1001 Tirana, Albania"

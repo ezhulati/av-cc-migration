@@ -1,7 +1,7 @@
 ---
 title: "Sui's Home"
 description: "Sui's Home emerges as a modern oasis in the heart of Tirana, boasting a prime location that places guests mere steps away from the city's most iconic landmarks, including Skanderbeg Square, the Former Residence of Enver Hoxha, and the National Museum of History Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372015759.jpg?k=62c9000f7c2b12fccd56aa377c214266066f71459f7b11b1a181b272fafffbba&o=&hp=1"
+featuredImage: "/images/accommodation/sui-s-home-372015759.jpg"
 language: en
 slug: sui-s-home
 address: "Rruga Prokop Myzeqari Ap nr.8, 1001 Tirana, Albania"

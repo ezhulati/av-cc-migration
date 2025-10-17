@@ -1,7 +1,7 @@
 ---
 title: "four generation hotel"
 description: "Four Generation Hotel, situated in the serene town of Shirokë and a mere 49 km from the bustling Port of Bar, stands out for its breathtaking mountain views and its commitment to guest convenience, including complimentary WiFi and on-site private parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368367043.jpg?k=a0542360394e647d19992b15283c4318b3cb787e0d112b961b9a4f150047dcba&o=&hp=1"
+featuredImage: "/images/accommodation/four-generation-hotel-368367043.jpg"
 language: en
 slug: four-generation-hotel
 address: "Rruga e Shestaneve, 4001 Shirokë, Albania"

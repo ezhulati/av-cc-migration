@@ -1,7 +1,7 @@
 ---
 title: "The Apartments in VALAMAR"
 description: "The Apartments in VALAMAR presents a serene retreat for travelers seeking the perfect blend of mountain tranquility and beachside bliss."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349951635.jpg?k=e41317630bed5083819edd21f574bf44f079f0c9aabb0331c36ac8c03b021b9b&o=&hp=1"
+featuredImage: "/images/accommodation/the-apartments-in-valamar-349951635.jpg"
 language: en
 slug: the-apartments-in-valamar
 address: "Vala Mar Residences Apartment No. 4 and 5, Building No. 3, Second Floor, Hamallaj, Albania"

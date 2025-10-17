@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Residence"
 description: "Deluxe Residence stands out as a gem in Durrës, offering guests a refreshing retreat just steps away from the shimmering shores of Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476744109.jpg?k=a81b73ce9d0c174e2f0f83f3d222c199aafddeac5727cca1cd2124c8f40ababe&o=&hp=1"
+featuredImage: "/images/accommodation/deluxe-residence-476744109.jpg"
 language: en
 slug: deluxe-residence
 address: "Rruga Liria Rrushbull, Durres pallati 99, 2008 Durrës, Albania"

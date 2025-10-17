@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mira Mare"
 description: "Hotel Mira Mare stands out as a premier destination for travelers seeking comfort and convenience in Ksamil, just a short 270-meter stroll from the pristine beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/230874331.jpg?k=997281223d192d68edd8fb73baf51bb23d0034163d8d8625d80c2df94c81a1fa&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-mira-mare-230874331.jpg"
 language: en
 slug: hotel-mira-mare
 address: "Rruga Kol Jakova, 9706 Ksamil, Albania"

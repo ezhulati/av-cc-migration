@@ -1,7 +1,7 @@
 ---
 title: "Himara Apartments"
 description: "Himara Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307937894.jpg?k=fd162312b4647e67cf795bb5206f601dd08127931b7cd11513f226ac2ccb2962&o=&hp=1"
+featuredImage: "/images/accommodation/himara-apartments-307937894.jpg"
 language: en
 slug: himara-apartments
 address: "Stefanel, 9425 Himare, Albania"

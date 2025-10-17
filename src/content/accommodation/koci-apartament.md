@@ -1,7 +1,7 @@
 ---
 title: "Koci Apartament"
 description: "Koci Apartament emerges as a serene retreat for travelers seeking both tranquility and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475235561.jpg?k=49fd57c3ea9ad8f66821f7e0c6e9f18101ea28f3937fdcb451e26783be88cf33&o=&hp=1"
+featuredImage: "/images/accommodation/koci-apartament-475235561.jpg"
 language: en
 slug: koci-apartament
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

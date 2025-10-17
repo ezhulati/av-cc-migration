@@ -1,7 +1,7 @@
 ---
 title: "Bejart Apartment 1"
 description: "Bejart Apartment 1 emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322238274.jpg?k=1a68d3d260eb52f2d72b4a51451ff1e9d622d28174df9021d86e057484e0d223&o=&hp=1"
+featuredImage: "/images/accommodation/bejart-apartment-1-322238274.jpg"
 language: en
 slug: bejart-apartment-1
 address: "Rruga Ferit Xhajko Apartment 60 ,Entrance 1, 1000 Tirana, Albania"

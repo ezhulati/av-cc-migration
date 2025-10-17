@@ -1,7 +1,7 @@
 ---
 title: "Guest House MURATI"
 description: "Guest House MURATI emerges as a charming retreat for travelers seeking the perfect blend of convenience and comfort in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253618225.jpg?k=e1ed9faad267143b481cdd8a734f0ca7ef5ba929eeb0498e3e05914eb0c73675&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-murati-253618225.jpg"
 language: en
 slug: guest-house-murati
 address: "Rruga Borzilok shtepia nr.19, 2008 Durrës, Albania"

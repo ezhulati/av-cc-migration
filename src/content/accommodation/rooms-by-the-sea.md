@@ -1,7 +1,7 @@
 ---
 title: "Rooms by the sea"
 description: "Rooms by the Sea, situated in the picturesque town of Himare, stands out as a prime choice for travelers seeking proximity to the pristine Spille Beach, just a few steps away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260646759.jpg?k=fe3bef19e8b0cf58daa21cc483a7ca1531bd4570fe737295243c3db54636f2c0&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-by-the-sea-260646759.jpg"
 language: en
 slug: rooms-by-the-sea
 address: "Spile, 9425 Himare, Albania"

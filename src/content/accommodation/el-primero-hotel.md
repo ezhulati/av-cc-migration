@@ -1,7 +1,7 @@
 ---
 title: "El Primero Hotel"
 description: "El Primero Hotel stands as a beacon of comfort and luxury in Sarandë, just a stone's throw away from the pristine Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262385244.jpg?k=74a1fd472719ad0e6caf4f467aed1b7df974257a3abb6cdd93adce1ac4827302&o=&hp=1"
+featuredImage: "/images/accommodation/el-primero-hotel-262385244.jpg"
 language: en
 slug: el-primero-hotel
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

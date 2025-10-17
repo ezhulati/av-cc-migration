@@ -1,7 +1,7 @@
 ---
 title: "Vlora Sea Apartments"
 description: "Vlora Sea Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473439862.jpg?k=eabbb72ab7c3655f031357c7ca5743511433d1e58f1ae323f0d83d9d1e2d567e&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-sea-apartments-473439862.jpg"
 language: en
 slug: vlora-sea-apartments
 address: "Rr. Sazani 2nd floor Emigres building, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Designer Villa Voskopoje"
 description: "Designer Villa Voskopoje emerges as a standout accommodation choice for travelers seeking a blend of comfort and luxury in the heart of Korçë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442700420.jpg?k=a69c1e9a6ca202dfb8a44503b0205ff6717f779fcd429cc61d6e8f318664f8ff&o=&hp=1"
+featuredImage: "/images/accommodation/designer-villa-voskopoje-442700420.jpg"
 language: en
 slug: designer-villa-voskopoje
 address: "Rruga Rilindja Voskopojare, Voskopojë, Albania"

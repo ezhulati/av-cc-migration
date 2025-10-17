@@ -1,7 +1,7 @@
 ---
 title: "Julia Hotel"
 description: "Julia Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location offering breathtaking sea views and immediate access to the beaches, just a minute's walk away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468502598.jpg?k=8059a9b46eb0c0ffeb725e15b1559004e91e6e37b8b4b8239edcc3a2234078f7&o=&hp=1"
+featuredImage: "/images/accommodation/julia-hotel-468502598.jpg"
 language: en
 slug: julia-hotel
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

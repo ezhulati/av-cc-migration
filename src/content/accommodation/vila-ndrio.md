@@ -1,7 +1,7 @@
 ---
 title: "Vila Ndrio"
 description: "Vila Ndrio stands as a beacon of luxury and comfort, offering its guests an unparalleled experience in the heart of Pogradec, merely 3 km away from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372620025.jpg?k=cb647206b640a70ae9e5830f4d6ed004a8ba7964dcd3ad8d0c6abe63eb7ba3b2&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ndrio-372620025.jpg"
 language: en
 slug: vila-ndrio
 address: "Vila ndrio, 7301 Pogradec, Albania"

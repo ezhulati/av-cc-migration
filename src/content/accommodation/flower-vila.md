@@ -1,7 +1,7 @@
 ---
 title: "Flower Vila"
 description: "Flower Vila emerges as a serene retreat just a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171087802.jpg?k=9b8bd7987c188559c0a9d18e31383a34fc86a9d44f92251fa564747900df2af3&o=&hp=1"
+featuredImage: "/images/accommodation/flower-vila-171087802.jpg"
 language: en
 slug: flower-vila
 address: "St. Adem Sheme St 47., 1001 Sarandë, Albania"

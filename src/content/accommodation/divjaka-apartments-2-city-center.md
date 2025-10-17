@@ -1,7 +1,7 @@
 ---
 title: "Divjaka Apartments 2 - City Center"
 description: "Divjaka Apartments 2 - City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Divjakë."
-featuredImage: "https://graph.facebook.com/v2.9/803758263313277/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/divjaka-apartments-2-city-center-picture?type.jpg"
 language: en
 slug: divjaka-apartments-2-city-center
 address: "Rruga e Divjakës, 9022 Divjakë, Albania"

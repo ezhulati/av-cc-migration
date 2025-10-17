@@ -1,7 +1,7 @@
 ---
 title: "Ventus Harbor Hotel"
 description: "Ventus Harbor Hotel emerges as a distinguished destination for travelers seeking a blend of comfort and culture in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106504217.jpg?k=bd8e0d955b41215770d3fe926f9799e9256128450136b0fde57f04414fca28c3&o=&hp=1"
+featuredImage: "/images/accommodation/ventus-harbor-hotel-106504217.jpg"
 language: en
 slug: ventus-harbor-hotel
 address: "Rruga Taulantia, Lagjia 1, 1010 Durrës, Albania"

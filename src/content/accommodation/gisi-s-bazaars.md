@@ -1,7 +1,7 @@
 ---
 title: "Gisi's Bazaars"
 description: "Gisi's Bazaars emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494661271.jpg?k=a45354e4c11a47da43fa4729f270664f9c7d5adcf4ee2048286e42dcd03d95e7&o=&hp=1"
+featuredImage: "/images/accommodation/gisi-s-bazaars-494661271.jpg"
 language: en
 slug: gisi-s-bazaars
 address: "Rruga Beqir Luga, 1000 Tirana, Albania"

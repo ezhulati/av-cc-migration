@@ -1,7 +1,7 @@
 ---
 title: "Kevi ‘s place"
 description: "Kevi's Place emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519888174.jpg?k=b0c8764808b9f6eeaaf24417c002f2ac9b629deb520c15d4c1fb5d1830ed3230&o=&hp=1"
+featuredImage: "/images/accommodation/kevi-s-place-519888174.jpg"
 language: en
 slug: kevi-s-place
 address: "Rruga Kristaq Capo, Tirana, Albania"

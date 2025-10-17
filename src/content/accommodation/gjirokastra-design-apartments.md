@@ -1,7 +1,7 @@
 ---
 title: "Gjirokastra Design Apartments"
 description: "Gjirokastra Design Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516422456.jpg?k=eeb3afb19ecd682da98e301d6081669757bbd25f7b44b97ad84365740bf64738&o=&hp=1"
+featuredImage: "/images/accommodation/gjirokastra-design-apartments-516422456.jpg"
 language: en
 slug: gjirokastra-design-apartments
 address: "Bulevardi 18 Shtatori, Nd Nr.30, Floor 3, near Hospital, 6001 Gjirokastër, Albania"

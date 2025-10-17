@@ -1,7 +1,7 @@
 ---
 title: "Alimaj Apartments Marina 2"
 description: "Alimaj Apartments Marina 2 emerges as a prime choice for travelers seeking a serene getaway in Vlorë, boasting an enviable location that's a stone's throw away from the pristine Ri Beach and a short drive from the tranquil Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355459756.jpg?k=ec6f98dd4e9bced10487d6c807c5d0fa344a1c9f966c9428a9c694ec2c17650b&o=&hp=1"
+featuredImage: "/images/accommodation/alimaj-apartments-marina-2-355459756.jpg"
 language: en
 slug: alimaj-apartments-marina-2
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

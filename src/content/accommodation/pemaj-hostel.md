@@ -1,7 +1,7 @@
 ---
 title: "Pemaj Hostel"
 description: "Pemaj Hostel, located in the vibrant city of Shkodër, stands out as a haven for travelers seeking both adventure and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109459370.jpg?k=6dba6fc0a0acfa39fb3e454886461d14231de5b747684defaf984e22b2b26494&o=&hp=1"
+featuredImage: "/images/accommodation/pemaj-hostel-109459370.jpg"
 language: en
 slug: pemaj-hostel
 address: "N.Skenderbeg, Str.Doktor Lito, Nr.36, 4001 Shkodër, Albania"

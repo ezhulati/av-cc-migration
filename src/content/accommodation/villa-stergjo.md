@@ -1,7 +1,7 @@
 ---
 title: "Villa Stergjo"
 description: "Villa Stergjo stands out as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515499378.jpg?k=2c113c8ee5d48ce6842b43521ffc3b8ba66329a96e3006407d8f2e935151d869&o=&hp=1"
+featuredImage: "/images/accommodation/villa-stergjo-515499378.jpg"
 language: en
 slug: villa-stergjo
 address: "Rruga Koço Brisku, 5001 Berat, Albania"

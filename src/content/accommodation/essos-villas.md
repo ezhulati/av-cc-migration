@@ -1,7 +1,7 @@
 ---
 title: "Essos Villas"
 description: "Essos Villas emerges as a prime choice for travelers seeking a serene beachfront escape, located just a stone's throw away from the pristine Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380361786.jpg?k=a4e08f4679b8f7bfed216f7f906a1ac6d9182d99eeaae85877a2f2aeea4d9cb6&o=&hp=1"
+featuredImage: "/images/accommodation/essos-villas-380361786.jpg"
 language: en
 slug: essos-villas
 address: "Rruga Megali Hora, Dhërmi, Albania"

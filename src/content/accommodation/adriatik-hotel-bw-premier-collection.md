@@ -1,7 +1,7 @@
 ---
 title: "Adriatik Hotel, BW Premier Collection"
 description: "Adriatik Hotel, BW Premier Collection, emerges as a premier destination for travelers seeking a blend of luxury and convenience, mere steps away from the pristine shores and only 5 km from the vibrant heart of Durres."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/101097242.jpg?k=0c6af1938fb52f79168765eb79c9f62f1a326f89704d9f4daa30c1941fb74626&o=&hp=1"
+featuredImage: "/images/accommodation/adriatik-hotel-bw-premier-collection-101097242.jpg"
 language: en
 slug: adriatik-hotel-bw-premier-collection
 address: "Lagja 13 Plazh, 2000 Durrës, Albania"

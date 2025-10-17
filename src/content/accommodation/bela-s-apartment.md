@@ -1,7 +1,7 @@
 ---
 title: "Bela's Apartment"
 description: "Bela's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503336065.jpg?k=b252c6b67207285a898e68513bf920db3284a5f0daead592d31106bb34211df2&o=&hp=1"
+featuredImage: "/images/accommodation/bela-s-apartment-503336065.jpg"
 language: en
 slug: bela-s-apartment
 address: "Rruga Irfan Tomini, 1001 Tirana, Albania"

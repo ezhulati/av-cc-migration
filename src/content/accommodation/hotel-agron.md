@@ -1,7 +1,7 @@
 ---
 title: "Hotel Agron"
 description: "Hotel Agron emerges as a distinguished choice for travelers seeking both the vibrancy of Tirana's city life and the tranquility of its picturesque surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360591637.jpg?k=aa5f4a365a991fec57829ecebb4d5b5c3361e127e6fc9de47300582f96ab7165&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-agron-360591637.jpg"
 language: en
 slug: hotel-agron
 address: "227 Rruga e Elbasanit Hotel Agron, 1001 Tirana, Albania"

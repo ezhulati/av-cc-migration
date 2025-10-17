@@ -1,7 +1,7 @@
 ---
 title: "Aparthotel Shkodra"
 description: "Aparthotel Shkodra emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem, situated just 8km from the vibrant historical center of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295265879.jpg?k=f014b2cab2444e60116f16eb123724e02972508b2c68656063477d89354409ed&o=&hp=1"
+featuredImage: "/images/accommodation/aparthotel-shkodra-295265879.jpg"
 language: en
 slug: aparthotel-shkodra
 address: "Lagjja 13, Shkembi i Kavajes, Plazh Durrës, 1001 Durrës, Albania"

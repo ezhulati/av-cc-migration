@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa 2"
 description: "Luxury Villa 2 emerges as a premier choice for travelers seeking an exceptional stay in Vlorë, offering a blend of comfort and convenience with its air-conditioned accommodations that feature a private pool, a serene garden view, and an inviting balcony."
-featuredImage: "https://graph.facebook.com/v2.9/2139747319475166/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/luxury-villa-2-picture?type.jpg"
 language: en
 slug: luxury-villa-2
 address: "Rruga Aleksandër Moisiu, 4900 Vlorë, Albania"

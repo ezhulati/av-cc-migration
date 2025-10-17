@@ -1,7 +1,7 @@
 ---
 title: "Apartment Juri"
 description: "Apartment Juri, located in the vibrant heart of Vlorë, offers a prime beachfront experience just a stone's throw away from Ri Beach and a leisurely stroll from the serene Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490162561.jpg?k=9e46da3093a08796b866589a461151e21de978ecc07cf1502d77a223be9ab1b3&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-juri-490162561.jpg"
 language: en
 slug: apartment-juri
 address: "Rruga Dhimitër Konomi 14, 9405 Vlorë, Albania"

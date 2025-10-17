@@ -1,7 +1,7 @@
 ---
 title: "Apartamiento 5 minutos al mar"
 description: "Apartamiento 5 minutos al mar emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489671452.jpg?k=5841ace17674c3aa830648da88c0692938ce88028b56c2460e8b34a39f1cf484&o=&hp=1"
+featuredImage: "/images/accommodation/apartamiento-5-minutos-al-mar-489671452.jpg"
 language: en
 slug: apartamiento-5-minutos-al-mar
 address: "Rruga Murat Tërbaçi, 9045 Vlorë, Albania"

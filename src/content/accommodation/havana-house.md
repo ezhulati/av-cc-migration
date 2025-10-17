@@ -1,7 +1,7 @@
 ---
 title: "HAVANA HOUSE"
 description: "HAVANA HOUSE emerges as a serene oasis in Sakës, offering guests a unique blend of comfort and convenience with its prime location close to the pristine Ylberi Beach and just a short distance from Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/341961413.jpg?k=be98373abf6b626f3aaeb8ca2ddcbcc77570461648046561a5176a94e0b22cd3&o=&hp=1"
+featuredImage: "/images/accommodation/havana-house-341961413.jpg"
 language: en
 slug: havana-house
 address: "Shëngjin - Kune, 4503 Sakës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Green Trails Apartment - Fully renovated with mountain view"
 description: "Green Trails Apartment stands as a beacon of modern comfort and convenience, situated a mere 43 km from the iconic Rock of Kavaje in Divjakë."
-featuredImage: "https://lh3.googleusercontent.com/a/AEdFTp6WsM_oEJrgnlOZsx2q56cIGs6xkVa83B5u4keq=s96-c64"
+featuredImage: "/images/accommodation/green-trails-apartment-fully-renovated-with-mountain-view-AEdFTp6WsM_o.jpg"
 language: en
 slug: green-trails-apartment-fully-renovated-with-mountain-view
 address: "SH57 Divjake, 9022 Divjakë, Albania"

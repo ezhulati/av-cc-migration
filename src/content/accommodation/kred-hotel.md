@@ -1,7 +1,7 @@
 ---
 title: "KRED HOTEL"
 description: "KRED HOTEL emerges as a charming retreat in Orikum, positioned conveniently less than a kilometer from the serene Orikum Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366647926.jpg?k=c37c3752370b9f15bb54d6e62c7201f110a3c653791cb5a920ffb189533fb140&o=&hp=1"
+featuredImage: "/images/accommodation/kred-hotel-366647926.jpg"
 language: en
 slug: kred-hotel
 address: "lagja isvorit orikum, 9426 Orikum, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Stylish apartament with Ps4 at Kika2"
 description: "Stylish Apartment with PS4 at Kika2 emerges as a contemporary haven for travelers seeking the comfort of home blended with the convenience of modern amenities in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485015100.jpg?k=df406ed54ebb65260f8338e97888e8a363cce421cc108e819cd8d42829c85bec&o=&hp=1"
+featuredImage: "/images/accommodation/stylish-apartament-with-ps4-at-kika2-485015100.jpg"
 language: en
 slug: stylish-apartament-with-ps4-at-kika2
 address: "Rruga Tish Dahia, 1010 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Juli Ksamil"
 description: "Villa Juli Ksamil emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Ksamil, just a short stroll from the pristine sands of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304069633.jpg?k=d475c167cdacaebbaab320d9aa67a7363559e0f80b19c1a232e101ff274147ed&o=&hp=1"
+featuredImage: "/images/accommodation/villa-juli-ksamil-304069633.jpg"
 language: en
 slug: villa-juli-ksamil
 address: "Road Baba Sherifi 99, 9706 Ksamil, Albania"

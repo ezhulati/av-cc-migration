@@ -1,7 +1,7 @@
 ---
 title: "House"
 description: "Discover the charm of Vlorë at House, a serene holiday home perfectly positioned close to both Vlore Beach and Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473962621.jpg?k=abc798b1f77df3f265dd56421fe260d2a2ea36124cb6b5cb85ab405069377c16&o=&hp=1"
+featuredImage: "/images/accommodation/house-473962621.jpg"
 language: en
 slug: house
 address: "Rruga Sulejman Delvina, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Adriatik Apartment"
 description: "Adriatik Apartment emerges as a prime choice for travelers seeking a blend of comfort and adventure right on the doorstep of Durrës's Shkëmbi i Kavajës Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJyaidRCieDOqoMJGfzR78N1FVSTuXoxhiG0jW2o=s96-c64"
+featuredImage: "/images/accommodation/adriatik-apartment-AATXAJyaidRC.jpg"
 language: en
 slug: adriatik-apartment
 address: "Rruga Pavaresia, Durrës, Albania"

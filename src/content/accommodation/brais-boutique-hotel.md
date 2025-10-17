@@ -1,7 +1,7 @@
 ---
 title: "Brais Boutique Hotel"
 description: "Brais Boutique Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158360959.jpg?k=e73543deccb8b5343f288a4969416653265d2eef2b58082674ab416d1b6da4ff&o=&hp=1"
+featuredImage: "/images/accommodation/brais-boutique-hotel-158360959.jpg"
 language: en
 slug: brais-boutique-hotel
 address: "Rruga Xhamia, 2001 Durrës, Albania"

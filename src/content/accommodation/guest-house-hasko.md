@@ -1,7 +1,7 @@
 ---
 title: "Guest House Hasko"
 description: "Guest House Hasko, located in the historic heart of Gjirokastër, presents a serene retreat just a stone's throw away from the enchanting Zaravina Lake, 44 km to be precise."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507042271.jpg?k=a34e31b1e48fee0fda1e3dea6e07e6c144d09ef978e20d4f51c77fc92cc6fd56&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-hasko-507042271.jpg"
 language: en
 slug: guest-house-hasko
 address: "Rruga Inajete Dumi, 6001 Gjirokastër, Albania"

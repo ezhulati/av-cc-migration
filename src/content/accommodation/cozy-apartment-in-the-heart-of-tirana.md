@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartment in the heart of Tirana"
 description: "Cozy Apartment in the Heart of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433083197.jpg?k=61ead72070aa6e1edde199657978a4db197ea7c0058fab6ac2413c004ddcc120&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-in-the-heart-of-tirana-433083197.jpg"
 language: en
 slug: cozy-apartment-in-the-heart-of-tirana
 address: "Rruga Komuna e Parisit 21, 1000 Tirana, Albania"

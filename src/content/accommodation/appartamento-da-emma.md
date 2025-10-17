@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Da Emma"
 description: "Appartamento Da Emma stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, offering a spacious, air-conditioned retreat just a short distance from the pristine Vjetër Beach and the lively Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520279689.jpg?k=6458880c49b64c6de1a3a955c8a165373094e3a713a9fc7e333e7a7fb2f7a8d1&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-da-emma-520279689.jpg"
 language: en
 slug: appartamento-da-emma
 address: "L. Pavarësia, Rr. Gj. Araniti, Nd. 144 Kodi Postar 9401, Vlore, Albania 4 Piano, 9401 Vlorë, Albania"

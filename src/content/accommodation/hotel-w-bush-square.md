@@ -1,7 +1,7 @@
 ---
 title: "Hotel W Bush Square"
 description: "Hotel W Bush Square emerges as a distinguished choice for travelers seeking comfort and convenience in Fushë-Krujë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465831126.jpg?k=4994d67fbd1ff51e465aced1dbffda6a7083e828102b7f10ce085a228be6f572&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-w-bush-square-465831126.jpg"
 language: en
 slug: hotel-w-bush-square
 address: "Qender ,Fushe Kruje, 1502 Fushë-Krujë, Albania"

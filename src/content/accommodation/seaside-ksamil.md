@@ -1,7 +1,7 @@
 ---
 title: "Seaside Ksamil"
 description: "Seaside Ksamil emerges as a serene oasis in the heart of Ksamil, merely a stone's throw away from the pristine shores of Puerto Rico Beach and Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161094923.jpg?k=881865c5c69cbce18eb3bbfffaef9eeaf0b782c4c2d3535ad9819f437d499d14&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-ksamil-161094923.jpg"
 language: en
 slug: seaside-ksamil
 address: "Road Deti Jon & Marina Ksamil Number Building 19, 9706 Ksamil, Albania"

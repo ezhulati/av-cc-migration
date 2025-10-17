@@ -1,7 +1,7 @@
 ---
 title: "Home sweet Home 2 - Guest House"
 description: "Home Sweet Home 2 - Guest House emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334542745.jpg?k=360e7510651f35759e4dc5f918acac3cc8cb101ededca42bce0acd3c6fc66cd1&o=&hp=1"
+featuredImage: "/images/accommodation/home-sweet-home-2-guest-house-334542745.jpg"
 language: en
 slug: home-sweet-home-2-guest-house
 address: "Rruga Loni Ligori Pallati Iliad SHPK Shkalla 3 Apartamenti 3, 1023 Tirana, Albania"

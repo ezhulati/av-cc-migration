@@ -1,7 +1,7 @@
 ---
 title: "Vila C++"
 description: "Vila C++ emerges as a standout choice for travelers seeking a blend of comfort, convenience, and a touch of local flavor in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462881699.jpg?k=2d56b46fa60ba40e124b2d811cdcb066bc66de13b70ca624cf3f669a015e5232&o=&hp=1"
+featuredImage: "/images/accommodation/vila-c-462881699.jpg"
 language: en
 slug: vila-c
 address: "Rruga Pal Golemi, 5001 Berat, Albania"

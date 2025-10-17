@@ -1,7 +1,7 @@
 ---
 title: "Relax Holiday Apartment"
 description: "Relax Holiday Apartment in Sarandë emerges as a prime choice for travelers seeking comfort and convenience in one package."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420568150.jpg?k=835c8c2d99650e28890adebe440093368a817dde92b1b7260a0af9a4f3fe2171&o=&hp=1"
+featuredImage: "/images/accommodation/relax-holiday-apartment-420568150.jpg"
 language: en
 slug: relax-holiday-apartment
 address: "Rruga Butrinti 6, 9701 Sarandë, Albania"

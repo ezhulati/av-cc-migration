@@ -1,7 +1,7 @@
 ---
 title: "Apartament 15"
 description: "Discover the serene beauty of Golem with a stay at Apartament 15, a charming property that boasts a prime beachfront location and the tranquility of its own garden."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451349931.jpg?k=bdb14fb2473736cdcebcc115c870d332f18deaa026676b7ce10572f8d4476fb7&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-15-451349931.jpg"
 language: en
 slug: apartament-15
 address: "Rruga Mak Albania, Mali Robit, Golem, 2504 Golem, Albania"

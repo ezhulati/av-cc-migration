@@ -1,7 +1,7 @@
 ---
 title: "Apartment Sweet 21"
 description: "Apartment Sweet 21 emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496037162.jpg?k=abe2bfa0a2b63c1015902cd884f85f1320da058fb3c784a8babedaaf4dcfc0a2&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-sweet-21-496037162.jpg"
 language: en
 slug: apartment-sweet-21
 address: "Rruga e Kavajës, Tirana, Albania"

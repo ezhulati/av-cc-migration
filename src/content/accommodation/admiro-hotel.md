@@ -1,7 +1,7 @@
 ---
 title: "ADMIRO Hotel"
 description: "ADMIRO Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368969398.jpg?k=d733bd003f441d6f830f76111c21c6143e0a0538e85be4fc9ff0e8546b2dec95&o=&hp=1"
+featuredImage: "/images/accommodation/admiro-hotel-368969398.jpg"
 language: en
 slug: admiro-hotel
 address: "Rruga Admiral Ksamil, 9706 Ksamil, Albania"

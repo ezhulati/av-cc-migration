@@ -1,7 +1,7 @@
 ---
 title: "Camping Albania-Secret Village Den"
 description: "Camping Albania-Secret Village Den emerges as a prime choice for travelers seeking a blend of comfort and adventure in Sarandë, located just a stone's throw away from the pristine Saranda Bay Beach and a short distance from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377164119.jpg?k=44eaf3cccd6f3ca66303353ea1ebcb8f93dee2cbc174cfa414b3d788b4fbcbd2&o=&hp=1"
+featuredImage: "/images/accommodation/camping-albania-secret-village-den-377164119.jpg"
 language: en
 slug: camping-albania-secret-village-den
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

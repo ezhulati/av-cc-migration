@@ -1,7 +1,7 @@
 ---
 title: "KeSa Apartment"
 description: "KeSa Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381899548.jpg?k=8a48ac741675babc5891a65afaa96eac9d63427b679d557133f02226c51428fb&o=&hp=1"
+featuredImage: "/images/accommodation/kesa-apartment-381899548.jpg"
 language: en
 slug: kesa-apartment
 address: "Rruga Jani Dudo, Korçë, Albania"

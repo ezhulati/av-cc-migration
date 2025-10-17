@@ -1,7 +1,7 @@
 ---
 title: "Duplex Seaview Condo"
 description: "Duplex Seaview Condo stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260315289.jpg?k=7101afb0217ad0f6668ab38433ccf51c2895246d736c72b5e3a74d7deae36511&o=&hp=1"
+featuredImage: "/images/accommodation/duplex-seaview-condo-260315289.jpg"
 language: en
 slug: duplex-seaview-condo
 address: "Cape of Rodon Prive' Resort, Durrës, Albania"

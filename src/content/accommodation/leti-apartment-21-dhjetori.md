@@ -1,7 +1,7 @@
 ---
 title: "LETI APARTMENT 21 DHJETORI"
 description: "Discover the charm of Tirana from the comfort of LETI APARTMENT 21 DHJETORI, a prime choice for travelers seeking both convenience and style."
-featuredImage: "https://graph.facebook.com/v2.9/2341788455847202/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/leti-apartment-21-dhjetori-picture?type.jpg"
 language: en
 slug: leti-apartment-21-dhjetori
 address: "Rruga Frederik Shiroka, 1010 Tirana, Albania"

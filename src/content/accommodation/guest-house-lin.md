@@ -1,7 +1,7 @@
 ---
 title: "Guest House Lin"
 description: "Guest House Lin emerges as a serene retreat, boasting a picturesque garden and sweeping mountain views, located in the quaint town of Lin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461956768.jpg?k=5ea64a822b40956b017068d1b04a4db38d16dbcaf260062bd4e909d14b8b8958&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-lin-461956768.jpg"
 language: en
 slug: guest-house-lin
 address: "SH87, 7300 Lin, Albania"

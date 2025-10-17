@@ -1,7 +1,7 @@
 ---
 title: "Artemis Beach House"
 description: "Artemis Beach House emerges as a serene oasis in Vlorë, offering an unparalleled blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493024640.jpg?k=5421d2cc03960298b23991dcc26215c083074c66abf1cd345dc2609a9dcf318a&o=&hp=1"
+featuredImage: "/images/accommodation/artemis-beach-house-493024640.jpg"
 language: en
 slug: artemis-beach-house
 address: "Rruga Aleksandër Moisiu Uji Ftohte Vlore Apt.8, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tosi"
 description: "Hotel Tosi stands out as a prime choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361098756.jpg?k=e84f7529837cc0eb385b2bc7ba3938fcbfd70568a2aa8df0c77706174220f04e&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-tosi-361098756.jpg"
 language: en
 slug: hotel-tosi
 address: "Rruga Hamdi Pepo, 1001 Tirana, Albania"

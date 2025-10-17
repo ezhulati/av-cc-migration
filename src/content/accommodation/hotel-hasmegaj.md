@@ -1,7 +1,7 @@
 ---
 title: "Hotel Hasmegaj"
 description: "Hotel Hasmegaj emerges as a serene retreat in Mjedë, a mere 17 km away from the historic Rozafa Castle Shkodra."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438403755.jpg?k=38f108259877a773143f460be531f1a663eecf58c47295c048f371c6661e6304&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-hasmegaj-438403755.jpg"
 language: en
 slug: hotel-hasmegaj
 address: "Rruga Mjede - Vau i Dejes 35, Mjede, 4026 Mjedë, Albania"

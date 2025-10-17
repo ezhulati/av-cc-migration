@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mangalemi"
 description: "Hotel Mangalemi stands as a testament to Berati's rich history, seamlessly blending the remnants of Turkish mansions with the charm of the historic Mangalem Quarter."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291787748.jpg?k=4c51eb3ab531b1cdb2f5819ead4af25c665c5227ebbbd8c938450190d908aa06&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-mangalemi-291787748.jpg"
 language: en
 slug: hotel-mangalemi
 address: "Rruga \"Mihal Komneno\", 5001 Berat, Albania"

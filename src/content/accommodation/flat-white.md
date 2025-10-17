@@ -1,7 +1,7 @@
 ---
 title: "Flat White"
 description: "Flat White emerges as a modern gem in Krujë, offering a refreshing retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404018282.jpg?k=574b7101e5f6c9aefc068f35434c6dd6abc45e1b5222c64a6d7bd5615726bd0f&o=&hp=1"
+featuredImage: "/images/accommodation/flat-white-404018282.jpg"
 language: en
 slug: flat-white
 address: "Rruga Vrana Konti, 2nd floor, 08, 1501 Krujë, Albania"

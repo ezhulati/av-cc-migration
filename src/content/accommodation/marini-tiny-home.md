@@ -1,7 +1,7 @@
 ---
 title: "Marini Tiny Home"
 description: "Marini Tiny Home emerges as a charming retreat in the heart of Tirana, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331102869.jpg?k=25bd017644519b68b3a40ffd875ad8ff89db206a1b465af2198173b41bd98a15&o=&hp=1"
+featuredImage: "/images/accommodation/marini-tiny-home-331102869.jpg"
 language: en
 slug: marini-tiny-home
 address: "Rruga Pjetër Bogdani, 1001 Tirana, Albania"

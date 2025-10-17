@@ -1,7 +1,7 @@
 ---
 title: "Denis's House"
 description: "Denis's House, located in the serene Elbasan County region of Gramsh, offers a tranquil retreat with breathtaking river views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497350402.jpg?k=1f6112479099084414d0b51fc876b5390b18a0463f3ab8bbc4323fc0697eaac6&o=&hp=1"
+featuredImage: "/images/accommodation/denis-s-house-497350402.jpg"
 language: en
 slug: denis-s-house
 address: "Rruga Hamit Dollani, 3301 Gramsh, Albania"

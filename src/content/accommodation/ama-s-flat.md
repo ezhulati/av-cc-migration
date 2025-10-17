@@ -1,7 +1,7 @@
 ---
 title: "AMA’s flat"
 description: "AMA's Flat emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GiMizqYCGWTzucwpXJ_8BPXAMSP4MzLP_O2kvEMdA=s96-c64"
+featuredImage: "/images/accommodation/ama-s-flat-AOh14GiMizqY.jpg"
 language: en
 slug: ama-s-flat
 address: "Rruga Kongresi i Manastirit kompleksi ASL shkalla 1 appartamenti 38, 1000 Tirana, Albania"

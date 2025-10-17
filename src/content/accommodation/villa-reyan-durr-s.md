@@ -1,7 +1,7 @@
 ---
 title: "Villa ReyAn Durrës"
 description: "Villa ReyAn Durrës emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468951071.jpg?k=1a85cccfcf8e6a2f9bd481d507aa4b276017b49f556fed3c7f87a3dbb2668124&o=&hp=1"
+featuredImage: "/images/accommodation/villa-reyan-durr-s-468951071.jpg"
 language: en
 slug: villa-reyan-durr-s
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

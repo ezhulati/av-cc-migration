@@ -1,7 +1,7 @@
 ---
 title: "City Center Apartment Vjosa River"
 description: "City Center Apartment Vjosa River offers a refreshing stay in the heart of Memaliaj, providing guests with the comfort of air-conditioned spaces complemented by the convenience of a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488088418.jpg?k=23b9f756f0e75b5c6693fa849468376743a2719f5c2003f550e826269d633487&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-apartment-vjosa-river-488088418.jpg"
 language: en
 slug: city-center-apartment-vjosa-river
 address: "Rruga 15 Janari 1973 2 flor, 6302 Memaliaj, Albania"

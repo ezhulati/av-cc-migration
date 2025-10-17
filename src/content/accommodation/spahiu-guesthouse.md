@@ -1,7 +1,7 @@
 ---
 title: "Spahiu Guesthouse"
 description: "Spahiu Guesthouse emerges as a charming retreat in the heart of Ksamil, a stone's throw away from the pristine Ksamil Beach and a leisurely stroll from the vibrant Coco Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360254027.jpg?k=6e74c68312905cb5072673f2e3d140be6d99cbc23d1e3f3b46dbdf0ed23c727b&o=&hp=1"
+featuredImage: "/images/accommodation/spahiu-guesthouse-360254027.jpg"
 language: en
 slug: spahiu-guesthouse
 address: "ksamil nr 2, 9702 Ksamil, Albania"

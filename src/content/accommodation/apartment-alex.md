@@ -1,7 +1,7 @@
 ---
 title: "Apartment Alex"
 description: "Apartment Alex emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412597246.jpg?k=007e5845c7466d3a60b2e8c6b250cb4cd04ad4f9a14ea2863ff4aba6839512fb&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-alex-412597246.jpg"
 language: en
 slug: apartment-alex
 address: "185 Rruga Skënderbeu, 9702 Sarandë, Albania"

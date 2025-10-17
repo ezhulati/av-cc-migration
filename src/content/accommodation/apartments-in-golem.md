@@ -1,7 +1,7 @@
 ---
 title: "Apartments in Golem"
 description: "Discover the charm of Golem with a stay at Apartments in Golem, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380021496.jpg?k=9b5730c1221fad7adb75db1b2a1c7046190a52d5fe8bb9f5174d0f01ef0609d3&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-in-golem-380021496.jpg"
 language: en
 slug: apartments-in-golem
 address: "Golem, Golem, Albania"

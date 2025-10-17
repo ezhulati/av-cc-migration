@@ -1,7 +1,7 @@
 ---
 title: "RESTORANT PIZZERI MATTEO"
 description: "RESTORANT PIZZERI MATTEO emerges as a serene retreat in Tragjas, offering a unique blend of comfort and convenience for travelers seeking an escape or an adventure 22 km away from the historic Kuzum Baba and Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981114.jpg?k=ba24abe2d7cd984bc53b46fc7e55bb035ca1a841528444d178d4c276f903cdca&o=&hp=1"
+featuredImage: "/images/accommodation/restorant-pizzeri-matteo-492981114.jpg"
 language: en
 slug: restorant-pizzeri-matteo
 address: "Rruga Beqir Sinani 4, 9426 Tragjas, Albania"

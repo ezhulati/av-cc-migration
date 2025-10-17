@@ -1,7 +1,7 @@
 ---
 title: "TEUTA- Luxury Penthouse 200m2"
 description: "Discover the epitome of coastal luxury at TEUTA- Luxury Penthouse 200m2, a premier destination for discerning travelers seeking an unparalleled experience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472082404.jpg?k=bb2bbae42c6bf77cd79e8b21042fc906bbcb5e2edfbc2ce3d43b892739939104&o=&hp=1"
+featuredImage: "/images/accommodation/teuta-luxury-penthouse-200m2-472082404.jpg"
 language: en
 slug: teuta-luxury-penthouse-200m2
 address: "Rruga Gjergj Araniti Vis a vis Shabani Restaurant, 9701 Sarandë, Albania"

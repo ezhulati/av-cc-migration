@@ -1,7 +1,7 @@
 ---
 title: "R&E Apartament"
 description: "R&E Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocIR7jfBZ3AAvdXcQ5oGhj_cWt-2uAMbLzEwkCRKN1yegdM=s96-c64"
+featuredImage: "/images/accommodation/r-e-apartament-ACg8ocIR7jfB.jpg"
 language: en
 slug: r-e-apartament
 address: "Rruga Uji i Ftohte, 9405 Vlorë, Albania"

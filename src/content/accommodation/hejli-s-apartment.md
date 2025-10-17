@@ -1,7 +1,7 @@
 ---
 title: "Hejli's Apartment"
 description: "Hejli's Apartment emerges as a serene retreat in the vibrant heart of Tirana, situated a mere 3."
-featuredImage: "https://lh3.googleusercontent.com/a/AItbvml-A0rTqRdk6zpqs7VWSmEoWvTcSUEAmbWtKAAN=s96-c64"
+featuredImage: "/images/accommodation/hejli-s-apartment-AItbvml-A0rT.jpg"
 language: en
 slug: hejli-s-apartment
 address: "Rruga Pasho Hysa, 1004 Tirana, Albania"

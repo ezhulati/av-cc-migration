@@ -1,7 +1,7 @@
 ---
 title: "Oliver"
 description: "Oliver Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458214798.jpg?k=771e00c43bf73cdf152576a83a3a2a0401b7dbf7d38e521524fed5d175fc3a13&o=&hp=1"
+featuredImage: "/images/accommodation/oliver-458214798.jpg"
 language: en
 slug: oliver
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

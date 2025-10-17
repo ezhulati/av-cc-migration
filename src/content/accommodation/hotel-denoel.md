@@ -1,7 +1,7 @@
 ---
 title: "HOTEL DENOEL"
 description: "HOTEL DENOEL emerges as a distinguished choice for travelers seeking comfort and convenience in Ksamil, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496557965.jpg?k=a3cfdc5f0738d621b51b1ce11d9f66b7edbd6d76a9afd88688d4390c221aee9f&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-denoel-496557965.jpg"
 language: en
 slug: hotel-denoel
 address: "Rruga Riviera 1234 pema e that, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Summer apartment by seaside for rent"
 description: "Summer Apartment by Seaside offers a refreshing retreat in the heart of Golem, Tirana County, boasting a prime location that combines serene garden views with the convenience of being just a short stroll from the vibrant Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412787168.jpg?k=51cba11546534783b20d3cb5fc87e6e77d0599bf1149c36a5ff2b5d16aa68fe8&o=&hp=1"
+featuredImage: "/images/accommodation/summer-apartment-by-seaside-for-rent-412787168.jpg"
 language: en
 slug: summer-apartment-by-seaside-for-rent
 address: "Rruga Fan Noli, 2504 Golem, Albania"

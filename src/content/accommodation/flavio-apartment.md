@@ -1,7 +1,7 @@
 ---
 title: "Flavio Apartment"
 description: "Flavio Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467819789.jpg?k=9c5f9a66ac14be383dd6dfaf82b8b1e2452b0673148eb2286294cb914b8bbfcd&o=&hp=1"
+featuredImage: "/images/accommodation/flavio-apartment-467819789.jpg"
 language: en
 slug: flavio-apartment
 address: "Rruga Mis Durhan, 9402 Vlorë, Albania"

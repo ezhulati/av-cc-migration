@@ -1,7 +1,7 @@
 ---
 title: "City Center Apartment Scutari"
 description: "City Center Apartment Scutari emerges as a prime choice for travelers seeking modern comforts in the heart of Shkodër, merely 48 km away from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471208551.jpg?k=88f8caffeebb5bb0587f66877f9aa7b4c61809d2f388e979207bc8554b8f9ca1&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-apartment-scutari-471208551.jpg"
 language: en
 slug: city-center-apartment-scutari
 address: "Rruga Hafiz Sabri Bushati, Shkodër, Albania"

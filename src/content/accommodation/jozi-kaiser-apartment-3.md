@@ -1,7 +1,7 @@
 ---
 title: "Jozi Kaiser Apartment 3"
 description: "Jozi Kaiser Apartment 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373078552.jpg?k=1b7c2563f979e882a359bfad097a51a0a5099eaecc003288de691c17d3e65df8&o=&hp=1"
+featuredImage: "/images/accommodation/jozi-kaiser-apartment-3-373078552.jpg"
 language: en
 slug: jozi-kaiser-apartment-3
 address: "Vila e Zogut, Rruga Kont Urani 34, Pallati 5 katesh, 2001 Durrës, Albania"

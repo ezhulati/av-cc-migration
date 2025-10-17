@@ -1,7 +1,7 @@
 ---
 title: "Happy Apartament"
 description: "Happy Apartament emerges as a charming retreat in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410981638.jpg?k=989324060abbc1a93c208e95e7f363917b1a7575ec083dfaacb820dd3e18b496&o=&hp=1"
+featuredImage: "/images/accommodation/happy-apartament-410981638.jpg"
 language: en
 slug: happy-apartament
 address: "Rruga Reshit Petrela, 1057 Tirana, Albania"

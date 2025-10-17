@@ -1,7 +1,7 @@
 ---
 title: "Shtepi Pushimi Tushemisht"
 description: "Shtepi Pushimi Tushemisht emerges as a serene retreat in the picturesque Korçë County region of Tushemisht, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359587276.jpg?k=9a310b6caab769fb2b798ad27102033c534b01292c087d9c7aff794c76824a0f&o=&hp=1"
+featuredImage: "/images/accommodation/shtepi-pushimi-tushemisht-359587276.jpg"
 language: en
 slug: shtepi-pushimi-tushemisht
 address: "Rruga e Drilonit, Tushemisht, Albania"

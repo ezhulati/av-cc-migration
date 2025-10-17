@@ -1,7 +1,7 @@
 ---
 title: "Second Room of Panoramic Perch - Hilltop Room with Kitchenette and Patio"
 description: "Discover the charm of Second Room of Panoramic Perch, a captivating hilltop retreat boasting breathtaking garden and mountain views, located just a stone's throw away from the serene Radhimë Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468253931.jpg?k=f92903a94c6b99599f235883179758d40f0c0b6d40dd4d1f0719e71735e38430&o=&hp=1"
+featuredImage: "/images/accommodation/second-room-of-panoramic-perch-hilltop-room-with-kitchenette-and-patio-468253931.jpg"
 language: en
 slug: second-room-of-panoramic-perch-hilltop-room-with-kitchenette-and-patio
 address: "Rruga Numan Bilani Radhimë, 9400, Albania, 9400 Vlorë, Albania"

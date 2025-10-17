@@ -1,7 +1,7 @@
 ---
 title: "GUEST HOUSE ÇANI"
 description: "GUEST HOUSE ÇANI stands as a serene retreat in Gjirokastër, a mere stone's throw away from the tranquil Zaravina Lake, located 44 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486023295.jpg?k=00f65a060424456b0fa3e16167c6e9d61df3703bc7fdac8537efbc53f1756f91&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-ani-486023295.jpg"
 language: en
 slug: guest-house-ani
 address: "Rruga Baki Gjebrea, 6001 Gjirokastër, Albania"

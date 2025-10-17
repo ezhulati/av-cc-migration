@@ -1,7 +1,7 @@
 ---
 title: "SEA & SUN APARTMENT"
 description: "SEA & SUN APARTMENT emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479563645.jpg?k=0a56ce980fc7998e9d8efed1897b3ad8ff937a714d120b70053ec4eefe4c9ffb&o=&hp=1"
+featuredImage: "/images/accommodation/sea-sun-apartment-479563645.jpg"
 language: en
 slug: sea-sun-apartment
 address: "Rruga SAZANI VLORE, 9402 Vlorë, Albania"

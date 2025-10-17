@@ -1,7 +1,7 @@
 ---
 title: "Marku Appartaments\""
 description: "Marku Apartments emerges as a prime choice for travelers seeking comfortable and spacious accommodations in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475955666.jpg?k=8d72a69b32962604f88b5eb729557b7094bdfdfbd187c476f785d8b831a429f5&o=&hp=1"
+featuredImage: "/images/accommodation/marku-appartaments-475955666.jpg"
 language: en
 slug: marku-appartaments
 address: "Porto ,Saranda, Sarandë, Albania"

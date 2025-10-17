@@ -1,7 +1,7 @@
 ---
 title: "Fane's Apartments"
 description: "Fane's Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358091743.jpg?k=62c939a44a734ea48cbeef95af040e739479312930fbc93266cbd8ad28981ff7&o=&hp=1"
+featuredImage: "/images/accommodation/fane-s-apartments-358091743.jpg"
 language: en
 slug: fane-s-apartments
 address: "6 SH8, 9425 Himare, Albania"

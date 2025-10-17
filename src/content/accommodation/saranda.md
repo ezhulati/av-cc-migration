@@ -1,7 +1,7 @@
 ---
 title: "Saranda"
 description: "Discover the charm of Saranda, a prime accommodation choice located just moments away from the pristine Mango Beach and a short stroll from the inviting Flamingo Beach in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485276889.jpg?k=8777e69f7ecf0c2069709dc04cbeec30cfadc9461e1c25108a762fa91317b78f&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-485276889.jpg"
 language: en
 slug: saranda
 address: "Rruga Butrinti, Sarandë, Albania"

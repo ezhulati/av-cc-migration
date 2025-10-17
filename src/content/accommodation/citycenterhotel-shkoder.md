@@ -1,7 +1,7 @@
 ---
 title: "CityCenterHotel Shkoder"
 description: "CityCenterHotel Shkoder emerges as a standout choice for travelers seeking comfort and convenience in the heart of Shkodër, Shkoder County, just 49 km away from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465000350.jpg?k=caed0fa2375254aea64dc3c32522c206f9e537221ceedc90d7670196f0776721&o=&hp=1"
+featuredImage: "/images/accommodation/citycenterhotel-shkoder-465000350.jpg"
 language: en
 slug: citycenterhotel-shkoder
 address: "Rruga Kolë Idromeno .CitycenterHotel, 4001 Shkodër, Albania"

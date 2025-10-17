@@ -1,7 +1,7 @@
 ---
 title: "Centrum lux apartment"
 description: "Centrum Lux Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519614050.jpg?k=a22d3f6848689603c6cf801ff7fce37344c77586692d48a614f9dc9231b90e15&o=&hp=1"
+featuredImage: "/images/accommodation/centrum-lux-apartment-519614050.jpg"
 language: en
 slug: centrum-lux-apartment
 address: "Rruga Riza Cerova, 1001 Tirana, Albania"

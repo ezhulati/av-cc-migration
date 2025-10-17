@@ -1,7 +1,7 @@
 ---
 title: "RX villa"
 description: "Discover the charm of RX Villa, a serene getaway located in the heart of Kashar, just a stone's throw away from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480245704.jpg?k=f878a7b097fb061ec7772804c142b9f48de26dff69e1801131bf61789ae0fc11&o=&hp=1"
+featuredImage: "/images/accommodation/rx-villa-480245704.jpg"
 language: en
 slug: rx-villa
 address: "Rruga Xharronit 12, 1051 Kashar, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Tranquillo"
 description: "Apartment Tranquillo in Golem presents a serene retreat for travelers seeking comfort and convenience in one location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477434151.jpg?k=dcc46ecec6eae3e70134775dc77b0822799176d91cdc34157c2667b275df7058&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-tranquillo-477434151.jpg"
 language: en
 slug: apartment-tranquillo
 address: "Bulevardi i pishave, 2001 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Studio at U.S Embassy"
 description: "Studio at U."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503147656.jpg?k=5896288db849e42fed8fe9d8e244d6160634440f461d608789c5625fd4f0e97b&o=&hp=1"
+featuredImage: "/images/accommodation/studio-at-u-s-embassy-503147656.jpg"
 language: en
 slug: studio-at-u-s-embassy
 address: "Rruga Jan Kukuzeli, 1001 Tirana, Albania"

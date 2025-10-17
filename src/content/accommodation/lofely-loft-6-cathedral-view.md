@@ -1,7 +1,7 @@
 ---
 title: "Lofely Loft 6 Cathedral View"
 description: "Lofely Loft #6# Cathedral View stands out as a prime choice for travelers seeking comfort and convenience in Korçë, located just a short distance from the serene Ohrid Lake Springs (44 km) and the historic Monastery Saint Naum (43 km)."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506069587.jpg?k=aee45c4248e394403f233ee7785c46e9a4b9864a204b2b6d5de0a4b6d97904d5&o=&hp=1"
+featuredImage: "/images/accommodation/lofely-loft-6-cathedral-view-506069587.jpg"
 language: en
 slug: lofely-loft-6-cathedral-view
 address: "Bulevardi Republika, 7000 Korçë, Albania"

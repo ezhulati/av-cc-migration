@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartment"
 description: "Tirana Apartment emerges as a prime choice for travelers seeking the comfort of home in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520513429.jpg?k=5cb4b43a5f441e14ed846210c18b16dfa5378c12bbbb8e53140d9be794634a7f&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-apartment-520513429.jpg"
 language: en
 slug: tirana-apartment
 address: "Rruga e Durrësit, 1001 Tirana, Albania"

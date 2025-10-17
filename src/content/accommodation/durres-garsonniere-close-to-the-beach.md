@@ -1,7 +1,7 @@
 ---
 title: "Durres Garsonniere ,close to the beach"
 description: "Durres Garsonniere presents an inviting retreat for travelers seeking the perfect blend of comfort and convenience, situated a mere stone's throw away from the pristine shores of Kallmi Beach and within easy reach of Currila and West End Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514443079.jpg?k=ecd1b2a3014f70affae4ae2c7abb26bf2ec25095ccb01ebf5fba890bf88d0fa2&o=&hp=1"
+featuredImage: "/images/accommodation/durres-garsonniere-close-to-the-beach-514443079.jpg"
 language: en
 slug: durres-garsonniere-close-to-the-beach
 address: "Rruga e Currilave Rezidenca e White Hill, 2001 Durrës, Albania"

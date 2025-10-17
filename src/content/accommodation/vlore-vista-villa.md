@@ -1,7 +1,7 @@
 ---
 title: "Vlore Vista Villa"
 description: "Vlore Vista Villa stands out as a prime choice for travelers seeking a serene getaway with breathtaking sea panoramas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484031631.jpg?k=5fc2b9b14fc360d997e01a0d5926a0042611d9b8838f1cc68a0fc924687cc607&o=&hp=1"
+featuredImage: "/images/accommodation/vlore-vista-villa-484031631.jpg"
 language: en
 slug: vlore-vista-villa
 address: "Rruga 4 Heronjte, 9400 Vlorë, Albania"

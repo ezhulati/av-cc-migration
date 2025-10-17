@@ -1,7 +1,7 @@
 ---
 title: "Elbasan center family apartment n.42"
 description: "Elbasan Center Family Apartment No."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525889463.jpg?k=9906d9c4146a0bbe4a257e4ee307a9b283b1c92e4950c3a13eb1620e5a861594&o=&hp=1"
+featuredImage: "/images/accommodation/elbasan-center-family-apartment-n-42-525889463.jpg"
 language: en
 slug: elbasan-center-family-apartment-n-42
 address: "Rruga 11 Nëntori, 3001 Elbasan, Albania"

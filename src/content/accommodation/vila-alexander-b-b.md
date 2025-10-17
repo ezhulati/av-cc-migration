@@ -1,7 +1,7 @@
 ---
 title: "Vila Alexander B&B"
 description: "Vila Alexander B&B stands as a serene retreat in Valbonë, offering guests a unique blend of comfort and natural beauty with its stunning mountain views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378616861.jpg?k=6af0c4f0a947c683a1e89db1d6099e22ade1a374b051f6386a653951ca0e5463&o=&hp=1"
+featuredImage: "/images/accommodation/vila-alexander-b-b-378616861.jpg"
 language: en
 slug: vila-alexander-b-b
 address: "Rruga Azem Hajdari 30/2, 8702 Valbonë, Albania"

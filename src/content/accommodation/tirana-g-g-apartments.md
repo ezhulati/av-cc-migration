@@ -1,7 +1,7 @@
 ---
 title: "Tirana G&G Apartments"
 description: "Tirana G&G Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467051995.jpg?k=bd4e5f20ec1f37a7baa8b2c4fb24d58e6a5ef3b143a4136d7a133b94e2a24b91&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-g-g-apartments-467051995.jpg"
 language: en
 slug: tirana-g-g-apartments
 address: "Rruga Myslym Shyri, 1010 Tirana, Albania"

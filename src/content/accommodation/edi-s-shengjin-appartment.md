@@ -1,7 +1,7 @@
 ---
 title: "Edi's Shengjin appartment"
 description: "Edi's Shengjin Apartment emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479530919.jpg?k=f3b62af628a831d2f699f60d6f938c1fb55a51a9a512e870bb8419a9fb14a83d&o=&hp=1"
+featuredImage: "/images/accommodation/edi-s-shengjin-appartment-479530919.jpg"
 language: en
 slug: edi-s-shengjin-appartment
 address: "Rruga Lezhë - Shëngjin, 4503 Shëngjin, Albania"

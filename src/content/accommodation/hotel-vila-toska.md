@@ -1,7 +1,7 @@
 ---
 title: "HOTEL VILA TOSKA"
 description: "HOTEL VILA TOSKA emerges as a serene retreat in Piskupat, situated a mere 24 km from the tranquil Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369930086.jpg?k=5dfee000bf2e82a370ae746c045720bb1f8f9d6131f685792905909f5c082432&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-toska-369930086.jpg"
 language: en
 slug: hotel-vila-toska
 address: "Pogradec Albania 82 , First hotel in Piskupat village, 1585 Piskupat, Albania"

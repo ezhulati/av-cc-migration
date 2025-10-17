@@ -1,7 +1,7 @@
 ---
 title: "NewBorn Suite Apartments Vlore"
 description: "Discover the charm of Vlore with a stay at NewBorn Suite Apartments Vlore, a prime choice for travelers seeking comfort and convenience mere steps from the beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471874763.jpg?k=1d8fba00ebd1d88a3f9d7d1c5541f6268164c62ba7c2dd03e4a1e5966cd032fa&o=&hp=1"
+featuredImage: "/images/accommodation/newborn-suite-apartments-vlore-471874763.jpg"
 language: en
 slug: newborn-suite-apartments-vlore
 address: "Rruga Reshat Osmani, 9400 Vlorë, Albania"

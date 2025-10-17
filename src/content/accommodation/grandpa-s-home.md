@@ -1,7 +1,7 @@
 ---
 title: "Grandpa’s Home"
 description: "Grandpa's Home, situated in the historic heart of Gjirokastër and a mere 44 km from the serene Zaravina Lake, offers guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380682563.jpg?k=ac222bf256f40aece5d01475b2032f8a77208e99d33bd4e6e6c1d279cb214ab0&o=&hp=1"
+featuredImage: "/images/accommodation/grandpa-s-home-380682563.jpg"
 language: en
 slug: grandpa-s-home
 address: "Lagjia 11 Janari, Rr. Alqi Kondi 7, 6001 Gjirokastër, Albania"

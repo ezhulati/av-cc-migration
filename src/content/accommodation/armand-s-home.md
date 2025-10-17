@@ -1,7 +1,7 @@
 ---
 title: "Armand’s Home"
 description: "Armand's Home offers a comfortable stay in Korçë, providing guests with a spacious apartment that boasts a balcony for a touch of outdoor living."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496511436.jpg?k=cf6444a02a33d2abef84fcde0e006a29d52d5ac600c2a79b9942e9f05b17262f&o=&hp=1"
+featuredImage: "/images/accommodation/armand-s-home-496511436.jpg"
 language: en
 slug: armand-s-home
 address: "Rruga 1 Maj, Korçë, Albania"

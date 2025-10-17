@@ -1,7 +1,7 @@
 ---
 title: "Hotel Marigona"
 description: "Hotel Marigona emerges as a serene retreat in the vibrant heart of Shëngjin, a mere stone's throw from the pristine sands of Ylberi Beach and the lively Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497903838.jpg?k=9438fc01a7287434ea38d44677b44a57e5e8119c4dfd40dda3f2385554c0e6ab&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-marigona-497903838.jpg"
 language: en
 slug: hotel-marigona
 address: "Rruga Kënallë - Kune 4503, Shengjin, 4503 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Albjoni"
 description: "Bujtina Albjoni stands out as a serene retreat in Valbonë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472268737.jpg?k=91c3cf16a61c88d601200aa75ab68d993cdce394bd3806838e3087faf7975e22&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-albjoni-472268737.jpg"
 language: en
 slug: bujtina-albjoni
 address: "Rruga Azem Hajdari, 8701 Valbonë, Albania"

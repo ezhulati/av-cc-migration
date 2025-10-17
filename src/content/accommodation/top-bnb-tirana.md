@@ -1,7 +1,7 @@
 ---
 title: "Top BnB Tirana"
 description: "Top BnB Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434002154.jpg?k=d1b705dad2b1e7bc27b351d580a7775870a7707523f25ab689933b07ec3254b6&o=&hp=1"
+featuredImage: "/images/accommodation/top-bnb-tirana-434002154.jpg"
 language: en
 slug: top-bnb-tirana
 address: "Rruga Panorama Kati 2, Apartamenti nr 6, 1001 Tirana, Albania"

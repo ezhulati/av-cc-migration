@@ -1,7 +1,7 @@
 ---
 title: "Urbanin Apartment & Hotel"
 description: "Urbanin Apartment & Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/391753661.jpg?k=0f98ef19e0a1b0a70b72ad873e8ab568535176cf6b6221df0ccebd61eaed8f54&o=&hp=1"
+featuredImage: "/images/accommodation/urbanin-apartment-hotel-391753661.jpg"
 language: en
 slug: urbanin-apartment-hotel
 address: "Perballe QSUT, Rruga e Dibrës 1023, Tiranë 1001, Tirane 1001, 1001 Tirana, Albania"

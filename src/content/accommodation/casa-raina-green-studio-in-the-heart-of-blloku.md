@@ -1,7 +1,7 @@
 ---
 title: "CASA RAINA, Green studio in the heart of Blloku"
 description: "CASA RAINA stands out as a prime choice for travelers seeking a blend of comfort and convenience in the vibrant heart of Tirana's Blloku area."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411545237.jpg?k=0a5dfb6bdb97a0f500ef1bdef89131fb62a1f0d3ddcd0b4f81312534bb769113&o=&hp=1"
+featuredImage: "/images/accommodation/casa-raina-green-studio-in-the-heart-of-blloku-411545237.jpg"
 language: en
 slug: casa-raina-green-studio-in-the-heart-of-blloku
 address: "Rruga Sami Frashëri, 1019 Tirana, Albania"

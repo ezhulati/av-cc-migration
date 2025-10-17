@@ -1,7 +1,7 @@
 ---
 title: "Franci's apartment"
 description: "Franci's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/franci-s-apartment-d321d61d78a8.jpg"
 language: en
 slug: franci-s-apartment
 address: "Rruga Ibrahim Dervishi, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bega's Apartment in Golem, Durrës"
 description: "Bega's Apartment in Golem, Durrës, emerges as a prime choice for travelers seeking comfort and convenience a short stroll from the serene Golem Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/bega-s-apartment-in-golem-durr-s-0e43c9b9a23d.jpg"
 language: en
 slug: bega-s-apartment-in-golem-durr-s
 address: "Rruga e Gjuzeve, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Center, Selvia White Apartment"
 description: "Center, Selvia White Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507019551.jpg?k=04b9643d2c7fd222178b24781adc821beb15f9c4a6f7e62ed4c6d9cce7296a5d&o=&hp=1"
+featuredImage: "/images/accommodation/center-selvia-white-apartment-507019551.jpg"
 language: en
 slug: center-selvia-white-apartment
 address: "12 Rruga e Saraçëve 7th floor, 1001 Tirana, Albania"

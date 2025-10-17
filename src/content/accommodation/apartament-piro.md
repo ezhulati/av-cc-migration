@@ -1,7 +1,7 @@
 ---
 title: "Apartament Piro"
 description: "Apartament Piro stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499251085.jpg?k=7e8a536cfbf1d92fc88ad5eb7586bce0ca620edd24c085598b95775cb7aeeb71&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-piro-499251085.jpg"
 language: en
 slug: apartament-piro
 address: "Saranda, AL - Corfu, GR, Sarandë, Albania"

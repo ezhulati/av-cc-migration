@@ -1,7 +1,7 @@
 ---
 title: "Moonlight Apartment"
 description: "Moonlight Apartment offers a refreshing stay in Shkodër, providing guests with the comfort of air-conditioned spaces complemented by the luxury of a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495180480.jpg?k=9304975fbf9d3c0c8b969f8b034f0ecfc88d7fc76fdbed7c12196cdb813a0554&o=&hp=1"
+featuredImage: "/images/accommodation/moonlight-apartment-495180480.jpg"
 language: en
 slug: moonlight-apartment
 address: "Bulevardi Skënderbeu, 4001 Shkodër, Albania"

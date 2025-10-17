@@ -1,7 +1,7 @@
 ---
 title: "Apartmán Kamelie"
 description: "Apartmán Kamelie emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian coast."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372584903.jpg?k=1b970e7241ddec5f3847f79c6d9092ce617063871f3bf90ac002db5a74ce3988&o=&hp=1"
+featuredImage: "/images/accommodation/apartm-n-kamelie-372584903.jpg"
 language: en
 slug: apartm-n-kamelie
 address: "Rruga Plazhit Level 13, ap.169, 2021 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Dritan Tethorja"
 description: "Guesthouse Dritan Tethorja emerges as a serene retreat in the heart of Theth, merely 4 km away from the enchanting Theth National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91598801.jpg?k=67ab358a5b0c3159123b8ff5a4823fa5f1b37813e8c9ca68ad9f1cfcdc4b434c&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-dritan-tethorja-91598801.jpg"
 language: en
 slug: guesthouse-dritan-tethorja
 address: "Theth, 1368 Theth, Albania"

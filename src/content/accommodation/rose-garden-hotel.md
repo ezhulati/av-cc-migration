@@ -1,7 +1,7 @@
 ---
 title: "Rose Garden Hotel"
 description: "Rose Garden Hotel emerges as a serene oasis in Gjirokastër, located a mere 45 km from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364000680.jpg?k=f1427d3d9ee2e94e2e4f3f357469e72a8e70c7501a31cf8e54338f18b7377bca&o=&hp=1"
+featuredImage: "/images/accommodation/rose-garden-hotel-364000680.jpg"
 language: en
 slug: rose-garden-hotel
 address: "Rruga Astrit Karagjozi, 6001 Gjirokastër, Albania"

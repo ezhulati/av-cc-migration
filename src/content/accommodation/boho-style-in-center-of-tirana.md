@@ -1,7 +1,7 @@
 ---
 title: "Boho style in Center of Tirana"
 description: "Boho Style in the Center of Tirana emerges as a recently renovated gem, strategically positioned in the heart of Tirana, a stone's throw away from iconic landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and the House of Leaves."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390713265.jpg?k=a8b9a76194470ef51ed7e0934b234f931f721252ef484e712bc6d2074d031217&o=&hp=1"
+featuredImage: "/images/accommodation/boho-style-in-center-of-tirana-390713265.jpg"
 language: en
 slug: boho-style-in-center-of-tirana
 address: "25 Rruga e Bogdanëve, 1001 Tirana, Albania"

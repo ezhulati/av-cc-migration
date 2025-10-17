@@ -1,7 +1,7 @@
 ---
 title: "Seashell Beach Rooms"
 description: "Seashell Beach Rooms emerges as a charming retreat for travelers seeking comfort and convenience in Durrës, located just 80 meters from the pristine Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347487004.jpg?k=142594b2cde3e827c4825b11940571366bcd13675cc8e023e2d19672ad06a181&o=&hp=1"
+featuredImage: "/images/accommodation/seashell-beach-rooms-347487004.jpg"
 language: en
 slug: seashell-beach-rooms
 address: "Shkembi Kavajes,Durres, 2001 Durrës, Albania"

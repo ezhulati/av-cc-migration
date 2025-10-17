@@ -1,7 +1,7 @@
 ---
 title: "Seaside Apartments"
 description: "Seaside Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its stunning sea views and proximity to Liro Beach, merely 300 meters away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476763590.jpg?k=37a4c2282da8bfe4ce72ab374d01d1f5bf800dbc04de466b33e5cf45ca3e5fa2&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-apartments-476763590.jpg"
 language: en
 slug: seaside-apartments
 address: "Rruga Aleksandër Moisiu, 9402 Vlorë, Albania"

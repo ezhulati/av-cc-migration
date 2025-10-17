@@ -1,7 +1,7 @@
 ---
 title: "Matthews Beach House"
 description: "Matthews Beach House in Vlorë stands out as a prime choice for travelers seeking a blend of comfort, privacy, and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478167880.jpg?k=f5c31e5f8163b0ef5499223a0a473e36e4965926c3431980b2a38c62946f23d9&o=&hp=1"
+featuredImage: "/images/accommodation/matthews-beach-house-478167880.jpg"
 language: en
 slug: matthews-beach-house
 address: "Rruga Aleksandër Moisiu Uji Ftohte Vlore, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Summer house Saranda"
 description: "Summer House Saranda emerges as a prime choice for travelers seeking a serene getaway in the heart of Sarandë, just a stone's throw away from the pristine Sarande Main Beach and a brief stroll from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467643610.jpg?k=67703d2bd8c82eb2762b785fba85529936b75d016d0b17ba2d3f53c1bfeed42a&o=&hp=1"
+featuredImage: "/images/accommodation/summer-house-saranda-467643610.jpg"
 language: en
 slug: summer-house-saranda
 address: "65 Rruga Mitat Hoxha Nd. 65, Karti 2, Apartamenti 5, 9701 Sarandë, Albania"

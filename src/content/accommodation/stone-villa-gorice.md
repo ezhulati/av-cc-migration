@@ -1,7 +1,7 @@
 ---
 title: "Stone Villa Gorice"
 description: "Stone Villa Gorice emerges as a serene retreat in the historic heart of Berat, offering guests a glimpse into city life from the comfort of air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369176136.jpg?k=5a238fbe10f2f096d3d04fe1989740a6bde6cb462e02a6e15b87e846dcf6be1a&o=&hp=1"
+featuredImage: "/images/accommodation/stone-villa-gorice-369176136.jpg"
 language: en
 slug: stone-villa-gorice
 address: "Rruga Nikolla Buhuri, 5000 Berat, Albania"

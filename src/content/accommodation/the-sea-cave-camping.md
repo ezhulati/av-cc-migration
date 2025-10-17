@@ -1,7 +1,7 @@
 ---
 title: "THE SEA CAVE CAMPING"
 description: "THE SEA CAVE CAMPING in Himare stands out as a prime destination for travelers seeking an exceptional outdoor experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209548725.jpg?k=0a6296d060e4683e9f24d48eed38e8c4f959366de35d5a35486a67f7d51daf69&o=&hp=1"
+featuredImage: "/images/accommodation/the-sea-cave-camping-209548725.jpg"
 language: en
 slug: the-sea-cave-camping
 address: "rr.Hali, 9425 Himare, Albania"

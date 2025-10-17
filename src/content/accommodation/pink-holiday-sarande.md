@@ -1,7 +1,7 @@
 ---
 title: "Pink Holiday Sarande"
 description: "Pink Holiday Sarande emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419591842.jpg?k=ac281300e63859c7baa22ef63ed457f0d7c4142ac32af92cb9fa27fa9c02ed3e&o=&hp=1"
+featuredImage: "/images/accommodation/pink-holiday-sarande-419591842.jpg"
 language: en
 slug: pink-holiday-sarande
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

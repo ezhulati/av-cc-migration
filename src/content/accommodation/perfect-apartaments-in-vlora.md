@@ -1,7 +1,7 @@
 ---
 title: "Perfect apartaments in Vlora"
 description: "Perfect Apartments in Vlora stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë, just a short stroll away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490536141.jpg?k=60181c8a7b779feaa8505926d3fa0377bea694fa13e310483c7658aae377486a&o=&hp=1"
+featuredImage: "/images/accommodation/perfect-apartaments-in-vlora-490536141.jpg"
 language: en
 slug: perfect-apartaments-in-vlora
 address: "Rruga Pelivan Leskaj, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Home in CITY CENTER"
 description: "Home in the city center, situated in the heart of Përmet, offers a refreshing retreat with its air-conditioned accommodations, terrace, and complimentary WiFi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364105941.jpg?k=32705763e846352fcb830da5e286f4bc3278c6c7796dc2f6e6cbb24eee3b6c16&o=&hp=1"
+featuredImage: "/images/accommodation/home-in-city-center-364105941.jpg"
 language: en
 slug: home-in-city-center
 address: "Lagjia Varrosh, near school Meleq Gosnishti, 6401 Përmet, Albania"

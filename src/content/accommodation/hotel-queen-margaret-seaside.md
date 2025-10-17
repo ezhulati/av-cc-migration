@@ -1,7 +1,7 @@
 ---
 title: "Hotel Queen Margaret Seaside"
 description: "Hotel Queen Margaret Seaside emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449586071.jpg?k=c1364755db36c2af5dd225d241c7ccf08df35cef410c6c6f811827a6454ce5cb&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-queen-margaret-seaside-449586071.jpg"
 language: en
 slug: hotel-queen-margaret-seaside
 address: "Rruga Fan Noli, Lagja nr2, 9400 Ksamil, Albania"

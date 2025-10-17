@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartments 365"
 description: "Studio Apartments 365 emerges as a prime choice for travelers seeking a blend of comfort, convenience, and wellness in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331305532.jpg?k=606ea7e275ed3d975807cb2da27e8bf6318a2c1ca75eab61de964f2ce8d41082&o=&hp=1"
+featuredImage: "/images/accommodation/studio-apartments-365-331305532.jpg"
 language: en
 slug: studio-apartments-365
 address: "Rruga e Dibrës, 1005 Tirana, Albania"

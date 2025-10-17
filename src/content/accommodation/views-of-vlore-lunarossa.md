@@ -1,7 +1,7 @@
 ---
 title: "Views of Vlore - Lunarossa"
 description: "Views of Vlore - Lunarossa emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368351226.jpg?k=f7d8b1f96be7a36b3cbe4416623b6fe3cb9c408cb0fb8dc9227c5aca57223c96&o=&hp=1"
+featuredImage: "/images/accommodation/views-of-vlore-lunarossa-368351226.jpg"
 language: en
 slug: views-of-vlore-lunarossa
 address: "Rruga Dhimitër Konomi, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "B&B Bologna Casa Vacanze Vlorë Albania"
 description: "B&B Bologna Casa Vacanze Vlorë Albania emerges as a serene retreat for travelers seeking both the tranquility of a private beach and the convenience of city proximity."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463444002.jpg?k=8549e9f18511571382b52333cd2bcd7cf62426e169eff01490c6a9f49c4234cb&o=&hp=1"
+featuredImage: "/images/accommodation/b-b-bologna-casa-vacanze-vlor-albania-463444002.jpg"
 language: en
 slug: b-b-bologna-casa-vacanze-vlor-albania
 address: "Rruga Mis Durhan, 9401 Vlorë, Albania"

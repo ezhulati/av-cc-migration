@@ -1,7 +1,7 @@
 ---
 title: "Bed and Breakfast Kotoni"
 description: "Bed and Breakfast Kotoni stands as a testament to Gjirokastër's rich history, offering guests a unique glimpse into the UNESCO-protected town's past through its three centuries-old architecture."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143195195.jpg?k=35dba36215177425fea29bf5cb9117ca6b691b41e56451deb6ecdb697f986072&o=&hp=1"
+featuredImage: "/images/accommodation/bed-and-breakfast-kotoni-143195195.jpg"
 language: en
 slug: bed-and-breakfast-kotoni
 address: "Rruga Bashkim Kokon - Lagja Paloso, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Ceno"
 description: "Villa Ceno stands out as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493158294.jpg?k=1ecaac23131b5e040960ecf51a431a5dce2f5fe8f3124b8cbc79f543460ebd2d&o=&hp=1"
+featuredImage: "/images/accommodation/villa-ceno-493158294.jpg"
 language: en
 slug: villa-ceno
 address: "Rruga Haxhi Ceno, 5000 Berat, Albania"

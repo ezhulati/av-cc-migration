@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bebej Tradicional"
 description: "Hotel Bebej Tradicional emerges as a charming choice for travelers seeking a blend of comfort and convenience in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298350376.jpg?k=7c449a61a8c9317b4fc04a6e8068ee9150ba4c49f6a549dbd1035c60e5f85ba9&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bebej-tradicional-298350376.jpg"
 language: en
 slug: hotel-bebej-tradicional
 address: "Rruga Isuf Omari, 6001 Gjirokastër, Albania"

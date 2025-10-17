@@ -1,7 +1,7 @@
 ---
 title: "Be Solei Studio Apartments Sol 2"
 description: "Be Solei Studio Apartments Sol 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509303142.jpg?k=e82c2a9b337bbe6f7a6c502f7ce8d6577a42f2423bca10c7ec24b3ad8a460d18&o=&hp=1"
+featuredImage: "/images/accommodation/be-solei-studio-apartments-sol-2-509303142.jpg"
 language: en
 slug: be-solei-studio-apartments-sol-2
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

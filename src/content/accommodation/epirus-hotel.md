@@ -1,7 +1,7 @@
 ---
 title: "Epirus Hotel"
 description: "The Epirus Hotel stands out for its prime beachfront position, offering guests the luxury of stepping straight from their elegantly appointed, air-conditioned rooms or studios onto the soft sands of the beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190770845.jpg?k=aaf06b010a4a123bd7fd782b713987733a3bd9d8c2d2e8ca1bf6b26781465b3c&o=&hp=1"
+featuredImage: "/images/accommodation/epirus-hotel-190770845.jpg"
 language: en
 slug: epirus-hotel
 address: "Mitat Hoxha 2, 9700 Sarandë, Albania"

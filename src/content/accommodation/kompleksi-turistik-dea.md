@@ -1,7 +1,7 @@
 ---
 title: "Kompleksi Turistik DEA"
 description: "Kompleksi Turistik DEA, located a mere 13 km from the historic Rozafa Castle in Shkodër, emerges as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483707771.jpg?k=68a9a28bfff5b9ffd4890aa554619243070260f09407106be00708a58903cbd5&o=&hp=1"
+featuredImage: "/images/accommodation/kompleksi-turistik-dea-483707771.jpg"
 language: en
 slug: kompleksi-turistik-dea
 address: "Rruga Shkodër Mjedë, 4016 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "MARION HOTEL"
 description: "MARION HOTEL emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419614615.jpg?k=d605360fd14eab75abfa0fc5695fd34a4dc84873228bc5e7d39761586d66ee93&o=&hp=1"
+featuredImage: "/images/accommodation/marion-hotel-419614615.jpg"
 language: en
 slug: marion-hotel
 address: "Tre Vëllezërit Kondi, 1000 Tirana, Albania"

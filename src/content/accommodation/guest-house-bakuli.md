@@ -1,7 +1,7 @@
 ---
 title: "Guest House Bakuli"
 description: "Guest House Bakuli stands as a charming retreat in the heart of Gjirokastër, a mere 44 km away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456635755.jpg?k=2b09ac8850974c7bf6fee497ed8e823f1363a0bef80cc6d1be1569363de7cf9d&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-bakuli-456635755.jpg"
 language: en
 slug: guest-house-bakuli
 address: "Rruga Varosh, 6001 Gjirokastër, Albania"

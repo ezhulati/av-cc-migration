@@ -1,7 +1,7 @@
 ---
 title: "Blue Paradise Apartment"
 description: "Blue Paradise Apartment, located in the serene Lukovë, presents an exceptional beachfront living experience, a mere 36 km away from the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491396253.jpg?k=9bdca38b89e1ecf89201094e52285bf71b5b83c491222bc10a1204d046824246&o=&hp=1"
+featuredImage: "/images/accommodation/blue-paradise-apartment-491396253.jpg"
 language: en
 slug: blue-paradise-apartment
 address: "Lukovë - Shpellë, 9713 Lukovë, Albania"

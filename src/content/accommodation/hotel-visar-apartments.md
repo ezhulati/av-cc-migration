@@ -1,7 +1,7 @@
 ---
 title: "Hotel Visar - Apartments"
 description: "Hotel Visar - Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, merely a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/hotel-visar-apartments-0e43c9b9a23d.jpg"
 language: en
 slug: hotel-visar-apartments
 address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

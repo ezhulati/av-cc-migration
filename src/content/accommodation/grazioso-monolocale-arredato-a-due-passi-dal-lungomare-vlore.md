@@ -1,7 +1,7 @@
 ---
 title: "Grazioso Monolocale arredato a due passi dal lungomare vlore"
 description: "Grazioso Monolocale arredato a due passi dal lungomare vlore emerges as a charming choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/grazioso-monolocale-arredato-a-due-passi-dal-lungomare-vlore-2c7be68fb3f9.jpg"
 language: en
 slug: grazioso-monolocale-arredato-a-due-passi-dal-lungomare-vlore
 address: "Rruga Aristill Kokoshi, Vlorë, Albania"

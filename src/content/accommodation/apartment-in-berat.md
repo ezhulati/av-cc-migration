@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Berat."
 description: "Apartment in Berat stands out as a prime choice for travelers seeking comfort and convenience in the historic city of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496144617.jpg?k=552397cfb33a1c0e34697778e858eb23440050998f1a8bcd10a5faf28fd0cc88&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-berat-496144617.jpg"
 language: en
 slug: apartment-in-berat
 address: "Rruga Pal Golemi, Berat, Albania"

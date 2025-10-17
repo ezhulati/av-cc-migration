@@ -1,7 +1,7 @@
 ---
 title: "Zzz Apartment"
 description: "Zzz Apartment emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510540944.jpg?k=be43bf64c8999effd8a045f4db81b194b3bac8dba6c5c13d7c63be9ab60e326d&o=&hp=1"
+featuredImage: "/images/accommodation/zzz-apartment-510540944.jpg"
 language: en
 slug: zzz-apartment
 address: "Rruga Studenti, 4001 Shkodër, Albania"

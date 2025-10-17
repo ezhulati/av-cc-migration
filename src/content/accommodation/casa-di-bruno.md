@@ -1,7 +1,7 @@
 ---
 title: "Casa di Bruno"
 description: "Casa di Bruno is a serene retreat in Shkodër, conveniently 50 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500546628.jpg?k=ad07dee0224d0dc9c7c17a6f136f347cfdcd8d574669390bd560eadd529f9ddd&o=&hp=1"
+featuredImage: "/images/accommodation/casa-di-bruno-500546628.jpg"
 language: en
 slug: casa-di-bruno
 address: "Rruga Berdicej, Shkodër, Albania"

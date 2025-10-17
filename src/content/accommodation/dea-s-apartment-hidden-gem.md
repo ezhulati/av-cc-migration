@@ -1,7 +1,7 @@
 ---
 title: "Dea’s Apartment: Hidden Gem"
 description: "Dea's Apartment: Hidden Gem emerges as a standout choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519690285.jpg?k=ba70fe956f9c07a80785078b5a1166b53f01cb344cc4c43b18e25a85e5fd099f&o=&hp=1"
+featuredImage: "/images/accommodation/dea-s-apartment-hidden-gem-519690285.jpg"
 language: en
 slug: dea-s-apartment-hidden-gem
 address: "Rruga Petro Nini Luarasi, 1001 Tirana, Albania"

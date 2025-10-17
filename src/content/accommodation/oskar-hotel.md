@@ -1,7 +1,7 @@
 ---
 title: "Oskar Hotel"
 description: "Oskar Hotel emerges as a prime choice for travelers seeking both comfort and convenience, located a mere 300 meters from the pristine beachfront and just 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106407978.jpg?k=65596e3cf44441717fc14e645138306ac3044b71dba6fbd677bff3492d0e4f33&o=&hp=1"
+featuredImage: "/images/accommodation/oskar-hotel-106407978.jpg"
 language: en
 slug: oskar-hotel
 address: "Sarande Albania, 9703 Sarandë, Albania"

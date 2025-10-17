@@ -1,7 +1,7 @@
 ---
 title: "Villa delux"
 description: "Villa Delux stands as a serene retreat in Qeparo, offering guests a unique blend of comfort and scenic beauty just 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472455064.jpg?k=375baf067f653b7a453f9aa26cbd3559a8349d94040623bd3cf3aba24ea47bfa&o=&hp=1"
+featuredImage: "/images/accommodation/villa-delux-472455064.jpg"
 language: en
 slug: villa-delux
 address: "Qeparo, Qeparo, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Redona Apartament"
 description: "Redona Apartament stands as a beacon of comfort and convenience in Vlorë, offering guests a unique blend of privacy and scenic beauty just a stone's throw away from Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465960216.jpg?k=58745c5ef9d88c27a3c56cbc3ef5e0b3878f81a81ca733da6365853c4a8fe385&o=&hp=1"
+featuredImage: "/images/accommodation/redona-apartament-465960216.jpg"
 language: en
 slug: redona-apartament
 address: "Rruga Jani Rexha, 9401 Vlorë, Albania"

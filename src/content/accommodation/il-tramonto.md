@@ -1,7 +1,7 @@
 ---
 title: "Il Tramonto"
 description: "Il Tramonto stands as a distinguished 4-star haven in Shirokë, boasting a prime beachfront location that effortlessly combines the serenity of its garden and terrace with the culinary delights of its on-site restaurant."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400760515.jpg?k=13bd20ec8d67124ea685113ef7ed5bd6241f1ad024b60c4f5bf3c712c321a725&o=&hp=1"
+featuredImage: "/images/accommodation/il-tramonto-400760515.jpg"
 language: en
 slug: il-tramonto
 address: "Rruga Zogaj, 4001 Shirokë, Albania"

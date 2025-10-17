@@ -1,7 +1,7 @@
 ---
 title: "Center of Tirana \"Blue Marine\" Studio Apartment"
 description: "Discover the charm of Tirana with a stay at the \"Blue Marine\" Studio Apartment, a prime choice for travelers seeking convenience and comfort in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398941649.jpg?k=dd2bcb58adafaf96f57b914fc4b895f281efe3914900d4c10126d386102c015a&o=&hp=1"
+featuredImage: "/images/accommodation/center-of-tirana-blue-marine-studio-apartment-398941649.jpg"
 language: en
 slug: center-of-tirana-blue-marine-studio-apartment
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

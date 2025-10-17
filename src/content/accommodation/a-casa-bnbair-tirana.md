@@ -1,7 +1,7 @@
 ---
 title: "A casa bnbAir Tirana"
 description: "A Casa BnbAir Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518134685.jpg?k=f73179e3e9c570d53b8b74288a5ab800c51b9ba4b1d9d1977673a7ce0c2cfaf8&o=&hp=1"
+featuredImage: "/images/accommodation/a-casa-bnbair-tirana-518134685.jpg"
 language: en
 slug: a-casa-bnbair-tirana
 address: "Rruga Dritan Hoxha,Apartment 2,Floor 1,, 1000 Tirana, Albania"

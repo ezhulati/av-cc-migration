@@ -1,7 +1,7 @@
 ---
 title: "Don Robert Apartment"
 description: "Don Robert Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361518494.jpg?k=21812ca1b032e63f3e2e19eb4ad7a2592483453f51545a9a447577c1537e5977&o=&hp=1"
+featuredImage: "/images/accommodation/don-robert-apartment-361518494.jpg"
 language: en
 slug: don-robert-apartment
 address: "Lagjja 13 , Shkembi i Kavajes , Plazh Durres ,1001 , Durres , Albania, 1001 Durrës, Albania"

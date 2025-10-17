@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Sidheri"
 description: "Bujtina Sidheri stands out as a premier destination for travelers seeking a blend of comfort and convenience in Korçë, located just 44 km away from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214299884.jpg?k=e23c57942b65eaa8e0a53fafd6e09b3a75cb8943458958ed1dec1f42ff5a9334&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-sidheri-214299884.jpg"
 language: en
 slug: bujtina-sidheri
 address: "Rruga Mbledhja e Beratit 25, 7000 Korçë, Albania"

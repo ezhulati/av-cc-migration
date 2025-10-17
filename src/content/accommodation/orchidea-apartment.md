@@ -1,7 +1,7 @@
 ---
 title: "Orchidea Apartment"
 description: "Orchidea Apartment emerges as a serene retreat in Pogradec, offering air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502984630.jpg?k=75c309dfc739cad3b3e747e41d2dfc7bf72af4d939992683bb18bb3a386d40a1&o=&hp=1"
+featuredImage: "/images/accommodation/orchidea-apartment-502984630.jpg"
 language: en
 slug: orchidea-apartment
 address: "Rruga Islam Dani, 7301 Pogradec, Albania"

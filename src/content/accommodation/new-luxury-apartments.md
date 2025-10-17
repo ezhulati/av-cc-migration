@@ -1,7 +1,7 @@
 ---
 title: "New Luxury Apartments"
 description: "New Luxury Apartments emerges as a premier choice for travelers seeking exceptional accommodation in Sarandë, boasting an enviable location mere steps from Sarande Main Beach and just over a kilometer from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454294322.jpg?k=ff6dfa15c106ee0a796f7b7367d4709e25985b3812e3ba14c8136f868b5eed8f&o=&hp=1"
+featuredImage: "/images/accommodation/new-luxury-apartments-454294322.jpg"
 language: en
 slug: new-luxury-apartments
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

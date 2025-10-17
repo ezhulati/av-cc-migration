@@ -1,7 +1,7 @@
 ---
 title: "Vecchia spiaggia, mare, palazzo bianco di Pilo, Appartamento n° 28, 7° piano, Valona"
 description: "Vecchia Spiaggia stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499151710.jpg?k=1277dd0fc6a5543614429283d8e6cc7ae7c4cae1a080d7faad4faefba0e7cd19&o=&hp=1"
+featuredImage: "/images/accommodation/vecchia-spiaggia-mare-palazzo-bianco-di-pilo-appartamento-n-28-7-piano-valona-499151710.jpg"
 language: en
 slug: vecchia-spiaggia-mare-palazzo-bianco-di-pilo-appartamento-n-28-7-piano-valona
 address: "Spiaga vechia Valona, palazo di Pilo Pando, Apartamenti 28, piani 7, 0033 Vlorë, Albania"

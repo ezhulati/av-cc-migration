@@ -1,7 +1,7 @@
 ---
 title: "Merkel Apartments"
 description: "Merkel Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451246104.jpg?k=49df4a53fc780f3ac882168bcc5ae201a2253088921e01903b0355a1005e7f08&o=&hp=1"
+featuredImage: "/images/accommodation/merkel-apartments-451246104.jpg"
 language: en
 slug: merkel-apartments
 address: "Rruga Mis Durhan, 9400 Vlorë, Albania"

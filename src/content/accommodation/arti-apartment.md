@@ -1,7 +1,7 @@
 ---
 title: "Arti apartment"
 description: "Arti Apartment emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned for both tranquility and adventure."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/arti-apartment-d2bf46fbe4c1.jpg"
 language: en
 slug: arti-apartment
 address: "Amali Andoni 10 4, 9401 Vlorë, Albania"

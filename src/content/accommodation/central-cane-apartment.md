@@ -1,7 +1,7 @@
 ---
 title: "Central Cane Apartment"
 description: "Central Cane Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527018324.jpg?k=fa0e0a1a9f44166a5ffcc90ee9a72d486b08f99d98fe02a80449e19b178f5f80&o=&hp=1"
+featuredImage: "/images/accommodation/central-cane-apartment-527018324.jpg"
 language: en
 slug: central-cane-apartment
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

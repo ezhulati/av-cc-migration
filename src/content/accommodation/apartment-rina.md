@@ -1,7 +1,7 @@
 ---
 title: "Apartment Rina"
 description: "Apartment Rina emerges as a serene oasis in the heart of Sarandë, boasting both garden and city views that promise a stay filled with tranquility and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71633871.jpg?k=aa88506ee4833e825374fd3f098ef062e78f48b21f8e441d05b8af28645430a6&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-rina-71633871.jpg"
 language: en
 slug: apartment-rina
 address: "Pandeli Bocari, 24, lagjia nr 1. Sarande, 9700 Sarandë, Albania"

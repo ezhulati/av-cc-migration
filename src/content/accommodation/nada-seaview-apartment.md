@@ -1,7 +1,7 @@
 ---
 title: "Nada SeaView Apartment"
 description: "Nada SeaView Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215011355.jpg?k=b1005704de16f5a50cd5b5495557d2a47026f4809ed7b05228902773d7a161d2&o=&hp=1"
+featuredImage: "/images/accommodation/nada-seaview-apartment-215011355.jpg"
 language: en
 slug: nada-seaview-apartment
 address: "Kompleksi Bardh e Blu,Section D,7th floor,nr 36.Shengjin,Lezhe., 4001 Shëngjin, Albania"

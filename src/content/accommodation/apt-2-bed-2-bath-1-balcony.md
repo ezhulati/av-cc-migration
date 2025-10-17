@@ -1,7 +1,7 @@
 ---
 title: "Apt 2 bed + 2 bath & 1 balcony"
 description: "Discover the charm of Durrës with a stay at the conveniently located apartment, just a short distance from the serene Currila Beach and the vibrant Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485419721.jpg?k=b02414a96bc41c1027f8aab92045d290c318863ad7c61f8e38f53c26d7f15c07&o=&hp=1"
+featuredImage: "/images/accommodation/apt-2-bed-2-bath-1-balcony-485419721.jpg"
 language: en
 slug: apt-2-bed-2-bath-1-balcony
 address: "Lagja 5, Rruga Hysen Myshketa, pallati G&Xh, Kati i 7 , 2L, 2004 Durrës, Albania"

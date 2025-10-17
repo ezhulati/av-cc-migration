@@ -1,7 +1,7 @@
 ---
 title: "Villa Agimi Ksamil"
 description: "Villa Agimi Ksamil emerges as a serene retreat, a mere stone's throw away from the pristine shores of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378688144.jpg?k=6bc5da622cbda76ec496e73dd8d365b4156649fe3ab45dd24d8a673cf7dfe3b3&o=&hp=1"
+featuredImage: "/images/accommodation/villa-agimi-ksamil-378688144.jpg"
 language: en
 slug: villa-agimi-ksamil
 address: "Road Baba Sherifi, 9706 Ksamil, Albania"

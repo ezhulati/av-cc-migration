@@ -1,7 +1,7 @@
 ---
 title: "Biraci Residence"
 description: "Biraci Residence emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193391254.jpg?k=bc8e89e99d73ca8bb48ad5d982da3e39aeddaccc2f46d57b74c2a133604616df&o=&hp=1"
+featuredImage: "/images/accommodation/biraci-residence-193391254.jpg"
 language: en
 slug: biraci-residence
 address: "Isa Boletini - Tafil Buzi 4 Valltaret, 9706 Ksamil, Albania"

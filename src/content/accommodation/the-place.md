@@ -1,7 +1,7 @@
 ---
 title: "The Place"
 description: "The Place, situated in the vibrant heart of Vlorë and a stone's throw away from the serene Vjetër Beach, redefines beachfront living with its array of top-notch amenities and breathtaking views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209022245.jpg?k=d37c09fae10fb9d9f3f9eef0a8e0c2bd820b58bb037247d6d8135b5cc95382c6&o=&hp=1"
+featuredImage: "/images/accommodation/the-place-209022245.jpg"
 language: en
 slug: the-place
 address: "Rruga transballkanike Ap nr. 31, 8th floor, 9401 Vlorë, Albania"

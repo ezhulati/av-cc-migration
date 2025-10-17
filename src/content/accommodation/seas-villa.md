@@ -1,7 +1,7 @@
 ---
 title: "Seas Villa"
 description: "Seas Villa emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478791732.jpg?k=edde15d6d4758d70f7d85219a0d150bb255706159117a04061cd885fcb3d7330&o=&hp=1"
+featuredImage: "/images/accommodation/seas-villa-478791732.jpg"
 language: en
 slug: seas-villa
 address: "Rruga cameria Rruga cameria, 9706 Ksamil, Albania"

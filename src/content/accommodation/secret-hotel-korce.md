@@ -1,7 +1,7 @@
 ---
 title: "Secret Hotel,Korce"
 description: "Secret Hotel, Korce emerges as a distinguished destination for travelers seeking an exceptional stay in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344778944.jpg?k=47f45efef6186b103ee5c4f8e3f3f0a879dbe751a8f9941618fdb48e859d0e42&o=&hp=1"
+featuredImage: "/images/accommodation/secret-hotel-korce-344778944.jpg"
 language: en
 slug: secret-hotel-korce
 address: "Bulevardi Republika rruga Guri Dolani, 7001 Korçë, Albania"

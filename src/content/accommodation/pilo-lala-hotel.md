@@ -1,7 +1,7 @@
 ---
 title: "Pilo Lala Hotel"
 description: "Pilo Lala Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Lushnjë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412729018.jpg?k=581149da36aa4dc27a99a0a8595d01ad30bea794dcf6ef00626ec8ae83348d59&o=&hp=1"
+featuredImage: "/images/accommodation/pilo-lala-hotel-412729018.jpg"
 language: en
 slug: pilo-lala-hotel
 address: "Bulevardi Kryesore Perballe, bkt, Lushnje, 9000 Lushnjë, Albania"

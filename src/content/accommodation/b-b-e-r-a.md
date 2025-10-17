@@ -1,7 +1,7 @@
 ---
 title: "B&B E R A"
 description: "B&B E R A stands out as a gem in Shëngjin, boasting a prime location close to both Shëngjin Beach and Ylberi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464746322.jpg?k=99175358135c04c98e254a71ee4ac0dbc2ac112236c1c690ae7be70a0a1f9fe0&o=&hp=1"
+featuredImage: "/images/accommodation/b-b-e-r-a-464746322.jpg"
 language: en
 slug: b-b-e-r-a
 address: "Rr. Fran Ivanaj, Shëngjin, Lezhe 1000, 1000 Shëngjin, Albania"

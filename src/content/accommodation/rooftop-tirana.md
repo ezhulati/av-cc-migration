@@ -1,7 +1,7 @@
 ---
 title: "Rooftop Tirana"
 description: "Rooftop Tirana emerges as a serene oasis in the heart of Albania's bustling capital, offering guests a unique blend of urban convenience and tranquil retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523445073.jpg?k=f7dc0a2c722627a3cba3dc378b0b3dffb1a5b7697285508e011a54b3a441163e&o=&hp=1"
+featuredImage: "/images/accommodation/rooftop-tirana-523445073.jpg"
 language: en
 slug: rooftop-tirana
 address: "Bardhok Biba 6,TREMA ENGENERRING TR 1713 Shkalla A, NR.35. KATI 11, 1000 Tirana, Albania"

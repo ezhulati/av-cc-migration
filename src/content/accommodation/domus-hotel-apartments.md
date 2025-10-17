@@ -1,7 +1,7 @@
 ---
 title: "Domus Hotel & Apartments"
 description: "Domus Hotel & Apartments emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375852481.jpg?k=7931a3db12fd28f1faf21c56630d33f051a5d7015eb1c2b49c0670175d8d30aa&o=&hp=1"
+featuredImage: "/images/accommodation/domus-hotel-apartments-375852481.jpg"
 language: en
 slug: domus-hotel-apartments
 address: "Kune, Shengjin, 4503 Shëngjin, Albania"

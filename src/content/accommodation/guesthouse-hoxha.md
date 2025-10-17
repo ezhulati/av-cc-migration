@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Hoxha"
 description: "Guesthouse Hoxha emerges as a charming retreat in the historic heart of Gjirokastër, a mere 45 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445482849.jpg?k=65883e866e495d13692c1bf3e1aa8420cec845656d2a518108a3162544e8bf0a&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-hoxha-445482849.jpg"
 language: en
 slug: guesthouse-hoxha
 address: "Rruga Hysen Hoxha, 6001 Gjirokastër, Albania"

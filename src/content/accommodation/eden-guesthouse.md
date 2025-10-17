@@ -1,7 +1,7 @@
 ---
 title: "EDEN GUESTHOUSE"
 description: "EDEN GUESTHOUSE emerges as a serene haven in the heart of Tirana, offering a unique blend of comfort and convenience for travelers seeking an immersive city experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478920074.jpg?k=dd6272617984363e9e2892a827c4467bfdee8f6420a30d8a9f643cf9c3d4f0ee&o=&hp=1"
+featuredImage: "/images/accommodation/eden-guesthouse-478920074.jpg"
 language: en
 slug: eden-guesthouse
 address: "Rruga Liman Kaba, Tirana, Albania"

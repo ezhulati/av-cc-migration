@@ -1,7 +1,7 @@
 ---
 title: "Lovely 2 bedroom condo with parking on premises!"
 description: "The Lovely 2 Bedroom Condo with Parking on Premises offers a comfortable and convenient stay in Berat, complete with modern amenities and thoughtful touches."
-featuredImage: "https://graph.facebook.com/v2.9/1788372537893026/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/lovely-2-bedroom-condo-with-parking-on-premises-picture?type.jpg"
 language: en
 slug: lovely-2-bedroom-condo-with-parking-on-premises
 address: "Rruga Staver Naco, Berat, Albania"

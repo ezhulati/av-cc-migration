@@ -1,7 +1,7 @@
 ---
 title: "MyKsamil Apartments"
 description: "MyKsamil Apartments emerges as a charming retreat in the heart of Ksamil, merely 600 meters from the inviting pebbly shores."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71059441.jpg?k=995d79db9d644fe0b4bf1c261284476b56b169ac89a8e7bca9d300c7e1e60252&o=&hp=1"
+featuredImage: "/images/accommodation/myksamil-apartments-71059441.jpg"
 language: en
 slug: myksamil-apartments
 address: "Rruga Bogova 19, 9701 Ksamil, Albania"

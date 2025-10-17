@@ -1,7 +1,7 @@
 ---
 title: "Hotel Shpetimi"
 description: "Hotel Shpetimi stands out as a prime choice for travelers seeking comfort and convenience in Çorovodë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284641048.jpg?k=f6d38033912b00f55c13b14ae5dc862df69205143f19e989fb29934f537be732&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-shpetimi-284641048.jpg"
 language: en
 slug: hotel-shpetimi
 address: "Sheshi Riza Cerova, 5401 Çorovodë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Niku"
 description: "Hotel Niku stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202171264.jpg?k=9ed4ba97ddded1f68491982846d73fc105d04b016b9ca3324b11d93dd99eb7ec&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-niku-202171264.jpg"
 language: en
 slug: hotel-niku
 address: "Rruga Siri Kodra, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Shtepi me qera Vlore"
 description: "Shtepi me qera Vlore stands out as a prime choice for travelers seeking comfortable lodging in Vlorë, conveniently positioned just a short distance from the iconic Kuzum Baba at 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493814737.jpg?k=54379b235f50b55bbf3278151f0959139187883260c76fd8024d7c4235b6dccd&o=&hp=1"
+featuredImage: "/images/accommodation/shtepi-me-qera-vlore-493814737.jpg"
 language: en
 slug: shtepi-me-qera-vlore
 address: "Rruga Rakip Malile, 9401 Vlorë, Albania"

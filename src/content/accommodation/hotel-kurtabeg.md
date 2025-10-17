@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kurtabeg"
 description: "Located a mere 49 km from the bustling Port of Bar, Hotel Kurtabeg emerges as a serene oasis in the vibrant city of Shkodër, offering guests a tranquil retreat with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489054240.jpg?k=f62344ed138306b603adccc772cae49ea0de232b3b396120be8831fa91b7a968&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kurtabeg-489054240.jpg"
 language: en
 slug: hotel-kurtabeg
 address: "Rruga Lek Dukagjini, tek teatri Migjeni, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Albania"
 description: "Apartment Albania emerges as a prime choice for travelers seeking a blend of comfort and convenience in Orikum."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+featuredImage: "/images/accommodation/apartment-albania-bebbb1d5ff29.jpg"
 language: en
 slug: apartment-albania
 address: "Bulevardi Princesha Rugjine, 9426 Orikum, Albania"

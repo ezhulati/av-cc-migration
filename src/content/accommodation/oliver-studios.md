@@ -1,7 +1,7 @@
 ---
 title: "Oliver Studios"
 description: "Oliver Studios emerges as a serene oasis in Ksamil, a mere stone's throw away from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144022523.jpg?k=f9ce4979607961b09042da2e65c55ba7ff978e82b8b5aa2a784538968dc2a72c&o=&hp=1"
+featuredImage: "/images/accommodation/oliver-studios-144022523.jpg"
 language: en
 slug: oliver-studios
 address: "Rruga Ismail Qemali, 9706 Ksamil, Albania"

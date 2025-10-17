@@ -1,7 +1,7 @@
 ---
 title: "Farm SuLove"
 description: "Farm SuLove in Langozaj emerges as a serene retreat for those seeking a blend of comfort and adventure amidst the mountains."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388180299.jpg?k=a1d47cee5a7d7225c78a8f39f36ef256aea46bd0389e80a103481215d8a876ee&o=&hp=1"
+featuredImage: "/images/accommodation/farm-sulove-388180299.jpg"
 language: en
 slug: farm-sulove
 address: "garm SuLove, Langozaj, Albania"

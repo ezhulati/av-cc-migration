@@ -1,7 +1,7 @@
 ---
 title: "Bay Inn Apartment Vlore"
 description: "Bay Inn Apartment Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367968975.jpg?k=9878da8f8a86a26a7bb480b6d6cf6caf067190df3018117825b4bd1e38f0ce58&o=&hp=1"
+featuredImage: "/images/accommodation/bay-inn-apartment-vlore-367968975.jpg"
 language: en
 slug: bay-inn-apartment-vlore
 address: "Rruga Aleksandër Moisiu, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Enea"
 description: "Guesthouse Enea stands out as a prime choice for travelers seeking a serene retreat in Pogradec, having undergone a recent renovation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500043634.jpg?k=ffa786e2b6bc80a55dd6847656d1eebc06cc00fe2833d05e36f87db6bb57f4b5&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-enea-500043634.jpg"
 language: en
 slug: guesthouse-enea
 address: "Pogradec, 7301 Pogradec, Albania"

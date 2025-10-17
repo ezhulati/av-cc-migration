@@ -1,7 +1,7 @@
 ---
 title: "Villa Senkaj"
 description: "Villa Senkaj emerges as a serene retreat in the vibrant city of Vlorë, striking a perfect balance between convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521770335.jpg?k=958e8fe676eee9aa5140a90d5a0829dec7c218201ccc826319a2c87d78b6fa22&o=&hp=1"
+featuredImage: "/images/accommodation/villa-senkaj-521770335.jpg"
 language: en
 slug: villa-senkaj
 address: "105 Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

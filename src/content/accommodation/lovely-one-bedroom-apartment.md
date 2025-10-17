@@ -1,7 +1,7 @@
 ---
 title: "Lovely one bedroom apartment"
 description: "Discover the charm of Sarandë from the comfort of the Lovely One Bedroom Apartment, a prime choice for travelers seeking both city excitement and serene beach vibes."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495591555.jpg?k=309eba01d2a92f85ee158e76fa1c3af0eb2dade9145a2aaa068df90ff731127c&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-one-bedroom-apartment-495591555.jpg"
 language: en
 slug: lovely-one-bedroom-apartment
 address: "Rruga Flamurit, 9700 Sarandë, Albania"

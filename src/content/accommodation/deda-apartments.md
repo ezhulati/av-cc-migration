@@ -1,7 +1,7 @@
 ---
 title: "Deda Apartments"
 description: "Deda Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/deda-apartments-2c7be68fb3f9.jpg"
 language: en
 slug: deda-apartments
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "My Home Guest House-Apartment"
 description: "My Home Guest House-Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209170666.jpg?k=299937c6b963179dc95f075a73e031e616e670540885802b06c4dc9bf625541a&o=&hp=1"
+featuredImage: "/images/accommodation/my-home-guest-house-apartment-209170666.jpg"
 language: en
 slug: my-home-guest-house-apartment
 address: "L.13 Plazh. Rr Pavaresia. Rr. Shen Mehill . Durrës, Albania, 2001 Durrës, Albania"

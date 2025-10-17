@@ -1,7 +1,7 @@
 ---
 title: "Luxury Central Suite 2 (3min Beach)"
 description: "Luxury Central Suite 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Himare, Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487396424.jpg?k=05931c64a3e4c9ed9608adb3af4c71e6665a5a077a6df4e9dc3298c516bdb52e&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-central-suite-2-3min-beach-487396424.jpg"
 language: en
 slug: luxury-central-suite-2-3min-beach
 address: "Himare, Himare, Albania"

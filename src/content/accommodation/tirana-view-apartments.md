@@ -1,7 +1,7 @@
 ---
 title: "Tirana View Apartments"
 description: "Tirana View Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521986159.jpg?k=e277c2cb85421d797803a4a7b9574b0fb3b7f11306ca46532e33edf12d272a0a&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-view-apartments-521986159.jpg"
 language: en
 slug: tirana-view-apartments
 address: "Rruga Kristaq Capo, 1001 Tirana, Albania"

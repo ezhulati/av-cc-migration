@@ -1,7 +1,7 @@
 ---
 title: "Seven's Rooftop"
 description: "Seven's Rooftop emerges as a prime beachfront gem in Durrës, boasting an enviable location mere steps from Shkëmbi i Kavajës Beach and a short stroll from Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474052069.jpg?k=daa7daa48c93b31183355317bc3989e6f1cbf83e5d1c06b82ecbc6cda250d052&o=&hp=1"
+featuredImage: "/images/accommodation/seven-s-rooftop-474052069.jpg"
 language: en
 slug: seven-s-rooftop
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

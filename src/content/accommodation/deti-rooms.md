@@ -1,7 +1,7 @@
 ---
 title: "Deti Rooms"
 description: "Deti Rooms emerges as a serene oasis in Durrës, merely a stone's throw away from the pristine Durres Beach and within a comfortable distance of 37 km from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466449569.jpg?k=7d4a95fe5950e9f95a3020880580a4c6a252002e698353c385e63a1d3ff93976&o=&hp=1"
+featuredImage: "/images/accommodation/deti-rooms-466449569.jpg"
 language: en
 slug: deti-rooms
 address: "Rruga Ura e Dajlanit, 2001 Durrës, Albania"

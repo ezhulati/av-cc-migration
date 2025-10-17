@@ -1,7 +1,7 @@
 ---
 title: "Jani Studio Apartments"
 description: "Jani Studio Apartments emerges as a prime choice for travelers seeking comfort and convenience in the historic heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488728486.jpg?k=38f23a0b664471bcf2a6c1b331d4a4a7e5dbf317b22b04f7de0ad897ab7a21dc&o=&hp=1"
+featuredImage: "/images/accommodation/jani-studio-apartments-488728486.jpg"
 language: en
 slug: jani-studio-apartments
 address: "Rruga Koço Koçollari, 6000 Gjirokastër, Albania"

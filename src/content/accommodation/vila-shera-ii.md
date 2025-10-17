@@ -1,7 +1,7 @@
 ---
 title: "Vila Shera - II"
 description: "Vila Shera - II emerges as a pristine choice for travelers seeking a blend of comfort and adventure in Mullini i Danit."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428042224.jpg?k=52b180301beae79e1f6e9fb28ae77ad78cbc8c260fb4384d96f5b4e9776b1764&o=&hp=1"
+featuredImage: "/images/accommodation/vila-shera-ii-428042224.jpg"
 language: en
 slug: vila-shera-ii
 address: "Lura 1 Complex, Mullini i Danit, Albania"

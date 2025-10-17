@@ -1,7 +1,7 @@
 ---
 title: "Vila Falo"
 description: "Vila Falo stands out as a premier destination for those seeking a blend of luxury and comfort in Voskopojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504752015.jpg?k=8ae2ca1d8beebabb805b1ed663ee23bb7690487a3e4740c3f337230404554323&o=&hp=1"
+featuredImage: "/images/accommodation/vila-falo-504752015.jpg"
 language: en
 slug: vila-falo
 address: "Rruga Gjergj Simon Sina, Voskopojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "BeHOME"
 description: "BeHOME stands as a modern oasis in the heart of Tirana, offering a serene retreat just a stone's throw away from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/behome-d321d61d78a8.jpg"
 language: en
 slug: behome
 address: "Rruga Ded Gjo Luli, 1002 Tirana, Albania"

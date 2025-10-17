@@ -1,7 +1,7 @@
 ---
 title: "Mövenpick Hotel Lalez Durres"
 description: "Mövenpick Hotel Lalez Durres emerges as a premier destination for travelers seeking both relaxation and adventure in Durrës, merely a short stroll from the pristine Lalëz Bay Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318721422.jpg?k=e97b4a719c97193578e73c5991936c9d1ea1329c94c8a7e0923d23d08c049981&o=&hp=1"
+featuredImage: "/images/accommodation/m-venpick-hotel-lalez-durres-318721422.jpg"
 language: en
 slug: m-venpick-hotel-lalez-durres
 address: "Gjiri I Lalezit kompleksi Lura 2, 1001 Durrës, Albania"

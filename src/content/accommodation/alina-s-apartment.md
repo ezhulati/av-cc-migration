@@ -1,7 +1,7 @@
 ---
 title: "Alina's Apartment"
 description: "Alina's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473806337.jpg?k=f010babebe9469add60bed018f4a38309b75dbad092c1d8246b2700a36cf6c3c&o=&hp=1"
+featuredImage: "/images/accommodation/alina-s-apartment-473806337.jpg"
 language: en
 slug: alina-s-apartment
 address: "Rruga Skënder Kosturi Ap 5 H2 ND 68, 1016 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pallati me Xixa"
 description: "Pallati me Xixa emerges as a serene retreat in the vibrant heart of Stan i Ri, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473863386.jpg?k=e9dfaca2260626df3a689f0eeff108b16f9db3f3bc59b9066f803ee793581f90&o=&hp=1"
+featuredImage: "/images/accommodation/pallati-me-xixa-473863386.jpg"
 language: en
 slug: pallati-me-xixa
 address: "Rruga e Hencëve no.170 Qerret, 2504 Stan i Ri, Albania"

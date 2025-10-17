@@ -1,7 +1,7 @@
 ---
 title: "GRANDE APARTMENT KORCE"
 description: "Grande Apartment Korçë emerges as a prime choice for travelers seeking comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407142298.jpg?k=72137b7ecf21ddbfcd71b5f14a4caaaa723eed358afb0a2c61e55ddb07ff0aac&o=&hp=1"
+featuredImage: "/images/accommodation/grande-apartment-korce-407142298.jpg"
 language: en
 slug: grande-apartment-korce
 address: "Rruga Floresha Myteveli, 7000 Korçë, Albania"

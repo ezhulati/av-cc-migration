@@ -1,7 +1,7 @@
 ---
 title: "Fleeville Apartment Tirana"
 description: "Fleeville Apartment Tirana emerges as a modern oasis in the heart of Tirana, boasting a prime location that places guests moments away from iconic landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and the Pyramid of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513101004.jpg?k=c3b878e25c366c503be177a2911abcc7d3da370f9a54d330e395c4c1c6db3817&o=&hp=1"
+featuredImage: "/images/accommodation/fleeville-apartment-tirana-513101004.jpg"
 language: en
 slug: fleeville-apartment-tirana
 address: "Rruga Emin Duraku Nd.10, H.6, Ap.7, 1019 Tirana, Albania"

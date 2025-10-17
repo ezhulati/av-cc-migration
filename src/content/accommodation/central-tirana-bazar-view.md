@@ -1,7 +1,7 @@
 ---
 title: "Central - Tirana BAZAR View"
 description: "Central - Tirana BAZAR View stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509553439.jpg?k=573e73aacd531a92c689140d4b69c5e942904ce453b6d47e63fba36614adbcb6&o=&hp=1"
+featuredImage: "/images/accommodation/central-tirana-bazar-view-509553439.jpg"
 language: en
 slug: central-tirana-bazar-view
 address: "Rruga Shenasi Dishnica Pazari Ri, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Grand Hotel & Spa Tirana"
 description: "Discover the charm of Grand Hotel & Spa Tirana, a prime destination for travelers seeking the vibrant heart of the city's nightlife and café culture."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/12142148.jpg?k=58e96fa0a486a8c1487c38fe61f0063bf1d2a8488fe7844f2b703695b26a3a50&o=&hp=1"
+featuredImage: "/images/accommodation/grand-hotel-spa-tirana-12142148.jpg"
 language: en
 slug: grand-hotel-spa-tirana
 address: "Ismail Qemali Str, Building No 11, 1000 Tirana, Albania"

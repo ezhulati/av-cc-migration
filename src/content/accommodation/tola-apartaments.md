@@ -1,7 +1,7 @@
 ---
 title: "Tola Apartaments"
 description: "Tola Apartments emerges as a prime choice for travelers seeking comfort and convenience in Pogradec, positioned strategically to offer easy access to a plethora of historical and natural attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449301841.jpg?k=12da95ed733aa68929cacee42e74736ce77ec6bb679c207227fe050bfc347e3a&o=&hp=1"
+featuredImage: "/images/accommodation/tola-apartaments-449301841.jpg"
 language: en
 slug: tola-apartaments
 address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"

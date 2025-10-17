@@ -1,7 +1,7 @@
 ---
 title: "Selca Cem"
 description: "Selca Cem emerges as a serene oasis in Shkodër, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434585843.jpg?k=0bd490e3b386f7b195961420f4501fa330cb917091d8caadd6e8d730b655a053&o=&hp=1"
+featuredImage: "/images/accommodation/selca-cem-434585843.jpg"
 language: en
 slug: selca-cem
 address: "Selce, 4304 Shkodër, Albania"

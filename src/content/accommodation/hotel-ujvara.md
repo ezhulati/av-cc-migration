@@ -1,7 +1,7 @@
 ---
 title: "HOTEL UJVARA"
 description: "Discover the charm of HOTEL UJVARA, a serene oasis located in the heart of Belsh-Qendra, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382514146.jpg?k=1e699ad1193ac17a8b3d8692a3a08237ee9a927524b83d9c8490f298f061bb72&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-ujvara-382514146.jpg"
 language: en
 slug: hotel-ujvara
 address: "Rruga Cezma e Vjeter 75, 3008 Belsh-Qendra, Albania"

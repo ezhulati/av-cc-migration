@@ -1,7 +1,7 @@
 ---
 title: "Appartamento incantevole con posto auto privato"
 description: "Appartamento Incantevole con Posto Auto Privato emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386571560.jpg?k=0669d13c93aee9618cfd2030a5ea15b06dbdfff854b086203a033311cb91b9a5&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-incantevole-con-posto-auto-privato-386571560.jpg"
 language: en
 slug: appartamento-incantevole-con-posto-auto-privato
 address: "Via Zaho Koka, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Arjan"
 description: "Guesthouse Arjan, located in the historic heart of Berat, presents travelers with a serene retreat that boasts modern comforts in a picturesque setting."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194272477.jpg?k=b626801bb7c8210fae7fe476690c93d023bc2549193a8b12f2f80a521c18f3af&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-arjan-194272477.jpg"
 language: en
 slug: guesthouse-arjan
 address: "Rruga Kol Myzeqari, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Downtown Tirana Apartments"
 description: "Downtown Tirana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/94794317.jpg?k=b3aadd2cebf2aee01a0a642bd3d053293322ac9cab3202adb8cb04ed9946e633&o=&hp=1"
+featuredImage: "/images/accommodation/downtown-tirana-apartments-94794317.jpg"
 language: en
 slug: downtown-tirana-apartments
 address: "RRUGA MYSLYM SHYRI, 1000 Tirana, Albania"

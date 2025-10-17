@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Villa Colombo"
 description: "Jico Travel - Villa Colombo emerges as a serene oasis in the vibrant city of Vlorë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
+featuredImage: "/images/accommodation/jico-travel-villa-colombo-c9a51000ce90.jpg"
 language: en
 slug: jico-travel-villa-colombo
 address: "Rruga Azem Sulo, 9041 Vlorë, Albania"

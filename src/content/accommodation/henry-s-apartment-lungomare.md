@@ -1,7 +1,7 @@
 ---
 title: "Henry's Apartment lungomare"
 description: "Henry's Apartment Lungomare emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from the pristine Vlore Beach and a leisurely stroll from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509682585.jpg?k=777798f7e934c26ba34167dad37b6c1fa2b990a96e1e2ca68745e8df3fb87ab1&o=&hp=1"
+featuredImage: "/images/accommodation/henry-s-apartment-lungomare-509682585.jpg"
 language: en
 slug: henry-s-apartment-lungomare
 address: "Rruga Haziz Xhyherri, 9400 Vlorë, Albania"

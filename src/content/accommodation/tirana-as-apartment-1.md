@@ -1,7 +1,7 @@
 ---
 title: "Tirana AS Apartment 1"
 description: "Tirana AS Apartment 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515651583.jpg?k=77fc4e83eaafb1707d08168f47e7d8f2f776e2e8bd1b6ea4019727cd6d4e788e&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-as-apartment-1-515651583.jpg"
 language: en
 slug: tirana-as-apartment-1
 address: "Rruga Kostandin Kristoforidhi, 1001 Tirana, Albania"

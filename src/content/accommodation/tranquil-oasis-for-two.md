@@ -1,7 +1,7 @@
 ---
 title: "Tranquil Oasis for Two"
 description: "Tranquil Oasis for Two emerges as a serene haven in the bustling heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419024302.jpg?k=dd04de5bde162690fe1660eeb17f0b7c56f0df1017caddf5935316ef027beeb0&o=&hp=1"
+featuredImage: "/images/accommodation/tranquil-oasis-for-two-419024302.jpg"
 language: en
 slug: tranquil-oasis-for-two
 address: "Rruga Medar Shtylla Pallati Tirhino B, Ap. 1/3, 1060 Tirana, Albania"

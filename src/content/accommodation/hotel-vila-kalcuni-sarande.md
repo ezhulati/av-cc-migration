@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Kalcuni Sarande"
 description: "Hotel Vila Kalcuni Sarande stands as a prime beachfront destination in Sarandë, captivating guests with its elegant design and air-conditioned comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376430929.jpg?k=a909ed7b9000414999067e2b31f765db965ff38c7d21290b646389c3144a44c8&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-kalcuni-sarande-376430929.jpg"
 language: en
 slug: hotel-vila-kalcuni-sarande
 address: "Rruga Mitat Hoxha 61/2, 0699 Sarandë, Albania"

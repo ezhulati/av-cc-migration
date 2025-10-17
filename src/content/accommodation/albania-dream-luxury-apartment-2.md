@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Luxury Apartment 2"
 description: "Albania Dream Luxury Apartment 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379454145.jpg?k=9ea47d4c0b608498c3aa7f2eee4acf28f3e94f5f1311b8a54df3a009e12a968b&o=&hp=1"
+featuredImage: "/images/accommodation/albania-dream-luxury-apartment-2-379454145.jpg"
 language: en
 slug: albania-dream-luxury-apartment-2
 address: "Rruga Butrinti, 9700 Çukë, Albania"

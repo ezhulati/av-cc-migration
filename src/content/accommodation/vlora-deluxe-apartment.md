@@ -1,7 +1,7 @@
 ---
 title: "Vlora Deluxe Apartment"
 description: "Vlora Deluxe Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from Liro Beach and a short stroll from the Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483270551.jpg?k=9a2f6086e84cded3176222e6a5a0fede0e986e715de9a380ea854bb7ef1524b9&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-deluxe-apartment-483270551.jpg"
 language: en
 slug: vlora-deluxe-apartment
 address: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"

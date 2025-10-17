@@ -1,7 +1,7 @@
 ---
 title: "Ormeni’s house"
 description: "Ormeni's House stands out as a serene retreat in the vibrant city of Vlorë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219596363.jpg?k=69392fdb55c53a83d38af0d533a4e0bfc4993d096e2f7598c6c83edbb9abe48d&o=&hp=1"
+featuredImage: "/images/accommodation/ormeni-s-house-219596363.jpg"
 language: en
 slug: ormeni-s-house
 address: "Rruga Çamëria Lungomare, piano terra, Vlorë, Albania"

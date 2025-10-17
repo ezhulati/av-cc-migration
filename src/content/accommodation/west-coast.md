@@ -1,7 +1,7 @@
 ---
 title: "West Coast"
 description: "West Coast presents a refreshing retreat in Vlorë, boasting air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487993409.jpg?k=da78edff9de03bd58cc14a9b2ecf88dbb23131ec1aa99707dec63cef4582d454&o=&hp=1"
+featuredImage: "/images/accommodation/west-coast-487993409.jpg"
 language: en
 slug: west-coast
 address: "Rruga Aleksandër Moisiu 5, 1111 Vlorë, Albania"

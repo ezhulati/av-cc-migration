@@ -1,7 +1,7 @@
 ---
 title: "AlKetis home"
 description: "AlKetis Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519947070.jpg?k=36ef00bf58c9dc99e6e94781a1f0a0f3d3be323b02d00a197dd6a618a5f29cd4&o=&hp=1"
+featuredImage: "/images/accommodation/alketis-home-519947070.jpg"
 language: en
 slug: alketis-home
 address: "Shëtitorja Wilson, 4503 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Argileos Rooms"
 description: "Perched atop a hill with commanding views of the ocean, Argileos Rooms presents a serene escape just a short drive from the vibrant center of Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463890236.jpg?k=a1218419d4a6f80cf096f6c4cfcb62d876f3a9916854c21d507fe76dcfcf4c65&o=&hp=1"
+featuredImage: "/images/accommodation/argileos-rooms-463890236.jpg"
 language: en
 slug: argileos-rooms
 address: "Himare, 9999 Himare, Albania"

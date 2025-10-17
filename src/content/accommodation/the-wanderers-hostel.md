@@ -1,7 +1,7 @@
 ---
 title: "The Wanderers Hostel"
 description: "The Wanderers Hostel in Shkodër stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198733463.jpg?k=29f865cd3dd4f007938ac0322ca3ad5cf10002f804ac576ebb5a451409605cb0&o=&hp=1"
+featuredImage: "/images/accommodation/the-wanderers-hostel-198733463.jpg"
 language: en
 slug: the-wanderers-hostel
 address: "Gjuhadol, 4001 Shkodër, Albania"

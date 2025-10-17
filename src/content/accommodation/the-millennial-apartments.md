@@ -1,7 +1,7 @@
 ---
 title: "The Millennial Apartments"
 description: "The Millennial Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated just a short stroll from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449627568.jpg?k=9d3e3c08201024cc1f93f9141743385cc42215f35e3e02037a061eed8b817717&o=&hp=1"
+featuredImage: "/images/accommodation/the-millennial-apartments-449627568.jpg"
 language: en
 slug: the-millennial-apartments
 address: "Rruga Kostandin Kristoforidhi 31/1, 1001 Tirana, Albania"

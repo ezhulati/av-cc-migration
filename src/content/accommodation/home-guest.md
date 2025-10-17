@@ -1,7 +1,7 @@
 ---
 title: "Home guest"
 description: "Home Guest emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461239810.jpg?k=36221505af32bf818fc5ca756f602cc0680c1cd3706da66a103cf96f8aec7cca&o=&hp=1"
+featuredImage: "/images/accommodation/home-guest-461239810.jpg"
 language: en
 slug: home-guest
 address: "Rruga 4 Dëshmorët, 1001 Tirana, Albania"

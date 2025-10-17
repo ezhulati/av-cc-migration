@@ -1,7 +1,7 @@
 ---
 title: "Vila Sita"
 description: "Vila Sita emerges as a serene retreat for travelers seeking a blend of comfort and convenience, complemented by a picturesque garden view."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"
+featuredImage: "/images/accommodation/vila-sita-03bc324ed9f9.jpg"
 language: en
 slug: vila-sita
 address: "Rruga Muco Delo Apartament 55, Vlorë, Albania"

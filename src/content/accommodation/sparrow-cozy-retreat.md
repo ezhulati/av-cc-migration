@@ -1,7 +1,7 @@
 ---
 title: "Sparrow Cozy Retreat"
 description: "Sparrow Cozy Retreat emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://graph.facebook.com/v2.9/2821594041464468/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/sparrow-cozy-retreat-picture?type.jpg"
 language: en
 slug: sparrow-cozy-retreat
 address: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"

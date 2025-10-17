@@ -1,7 +1,7 @@
 ---
 title: "Apartment in the Village with a Sea View"
 description: "Apartment in the Village with a Sea View stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from Vjetër Beach and within easy reach of Vlore Beach and Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438144501.jpg?k=e14c429aa0dd60003a32c629db95841406a7e8683c316e48da562f14756bf95b&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-the-village-with-a-sea-view-438144501.jpg"
 language: en
 slug: apartment-in-the-village-with-a-sea-view
 address: "Rr. Sazani, 9404 Vlorë, Albania"

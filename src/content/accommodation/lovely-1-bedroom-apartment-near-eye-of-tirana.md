@@ -1,7 +1,7 @@
 ---
 title: "Lovely 1 bedroom apartment near Eye of Tirana"
 description: "Discover the charm of Tirana with a stay at the Lovely 1-bedroom apartment near Eye of Tirana, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366490143.jpg?k=34228b39c63fca985fc785b310e9feb45c6f6dd9c18885ce936fc9815ad43a8c&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-1-bedroom-apartment-near-eye-of-tirana-366490143.jpg"
 language: en
 slug: lovely-1-bedroom-apartment-near-eye-of-tirana
 address: "13 Rruga Mine Peza, Tirana, Albania"

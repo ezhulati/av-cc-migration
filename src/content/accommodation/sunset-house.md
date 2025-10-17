@@ -1,7 +1,7 @@
 ---
 title: "Sunset House"
 description: "Sunset House emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/sunset-house-12a07b30d7fe.jpg"
 language: en
 slug: sunset-house
 address: "Rruga Aleksandër Moisiu, AQUAMARINE residence, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Roberto"
 description: "Hotel Roberto emerges as a serene retreat in the heart of Korçë, offering a tranquil garden setting and the convenience of complimentary private parking for those arriving by car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457500723.jpg?k=2bc58763f47a84b125d7d4decd02f1717225b92ea23860379358e6c8388aa9f9&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-roberto-457500723.jpg"
 language: en
 slug: hotel-roberto
 address: "Rruga Sotir Kozmo, 7001 Korçë, Albania"

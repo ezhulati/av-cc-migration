@@ -1,7 +1,7 @@
 ---
 title: "Tech apartment"
 description: "Tech Apartment emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478131111.jpg?k=d7936000d4ce94507ccd5e79a1dedcb7ad941fbac1d1b30032361fce6349d86d&o=&hp=1"
+featuredImage: "/images/accommodation/tech-apartment-478131111.jpg"
 language: en
 slug: tech-apartment
 address: "Rruga Qemal Stafa, Tirana, Albania"

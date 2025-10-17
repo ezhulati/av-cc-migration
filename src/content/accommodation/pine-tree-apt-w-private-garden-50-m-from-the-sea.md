@@ -1,7 +1,7 @@
 ---
 title: "Pine-Tree Apt w/ Private Garden 50 m from the Sea"
 description: "Pine-Tree Apt w/ Private Garden 50 m from the Sea emerges as a serene retreat in the heart of Golem, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190225540.jpg?k=7bfd5f3007740824c820627efd4db4b953c00ed8d40b2566d2313550f248fb53&o=&hp=1"
+featuredImage: "/images/accommodation/pine-tree-apt-w-private-garden-50-m-from-the-sea-190225540.jpg"
 language: en
 slug: pine-tree-apt-w-private-garden-50-m-from-the-sea
 address: "Rruga Viena Kompleksi Eurocol P7 Apt2, 2500 Golem, Albania"

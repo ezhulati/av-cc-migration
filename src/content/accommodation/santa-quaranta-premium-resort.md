@@ -1,7 +1,7 @@
 ---
 title: "Santa Quaranta Premium Resort"
 description: "Santa Quaranta Premium Resort stands as a beacon of luxury in Sarandë, offering guests an unparalleled beachfront experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/93526997.jpg?k=bd1912eaa232b5337475dfab75f73c713eb5221bc5a4d47529f77f5210a495be&o=&hp=1"
+featuredImage: "/images/accommodation/santa-quaranta-premium-resort-93526997.jpg"
 language: en
 slug: santa-quaranta-premium-resort
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

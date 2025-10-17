@@ -1,7 +1,7 @@
 ---
 title: "Apartamenti8 Korca"
 description: "Apartamenti8 Korca emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382351547.jpg?k=2978b310e415af6d0e15af1c79e1775abb44a82749e321f8aa1fcb6fff36d52c&o=&hp=1"
+featuredImage: "/images/accommodation/apartamenti8-korca-382351547.jpg"
 language: en
 slug: apartamenti8-korca
 address: "Bulevardi Republika, Korçë, Albania"

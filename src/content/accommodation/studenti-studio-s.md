@@ -1,7 +1,7 @@
 ---
 title: "Studenti Studio's"
 description: "Studenti Studio's emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471112157.jpg?k=a3db33053952105e5e37b6140f54d662e3fa9dd29fa5a800511e9b776822e92e&o=&hp=1"
+featuredImage: "/images/accommodation/studenti-studio-s-471112157.jpg"
 language: en
 slug: studenti-studio-s
 address: "Rruga Studenti nr 35/2, 1001 Tirana, Albania"

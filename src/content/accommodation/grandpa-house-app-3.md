@@ -1,7 +1,7 @@
 ---
 title: "Grandpa House - App.3"
 description: "Grandpa House - App."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520120544.jpg?k=ff14f5c3a614c2d93cb468751e3c3e8a22f3c28c24ed85304f08d184d60786f2&o=&hp=1"
+featuredImage: "/images/accommodation/grandpa-house-app-3-520120544.jpg"
 language: en
 slug: grandpa-house-app-3
 address: "Rruga Bardhok Biba, 1001 Tirana, Albania"

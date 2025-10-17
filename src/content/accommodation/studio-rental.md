@@ -1,7 +1,7 @@
 ---
 title: "Studio rental"
 description: "Studio Rental in Vlorë stands out as a prime choice for travelers seeking both comfort and convenience, with its strategic location offering panoramic city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519974663.jpg?k=0e3e910ec75f48b5c7516dde959d890280419f6848851b0999a688abfc3e1b69&o=&hp=1"
+featuredImage: "/images/accommodation/studio-rental-519974663.jpg"
 language: en
 slug: studio-rental
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

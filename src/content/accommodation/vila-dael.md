@@ -1,7 +1,7 @@
 ---
 title: "Vila Dael"
 description: "Vila Dael emerges as a prime choice for travelers seeking comfort and convenience, merely a stone's throw away from the serene Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471400365.jpg?k=e6ee13ed63a50c53d271b3455bc80e77614805afad1ecd02fc71785217945803&o=&hp=1"
+featuredImage: "/images/accommodation/vila-dael-471400365.jpg"
 language: en
 slug: vila-dael
 address: "Rruga Pavaresia, Durrës, Albania"

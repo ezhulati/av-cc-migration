@@ -1,7 +1,7 @@
 ---
 title: "Resort Mezini"
 description: "Resort Mezini emerges as a serene oasis in Ersekë, boasting an impressive array of amenities including a lush garden, an inviting terrace, and a welcoming restaurant and bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435210824.jpg?k=86247e49c59ce757cb0b7c512f6ad9848aaf20f2b204ecee042e35b9ab4308c4&o=&hp=1"
+featuredImage: "/images/accommodation/resort-mezini-435210824.jpg"
 language: en
 slug: resort-mezini
 address: "sh75 Rruga Demokracia, 7402 Ersekë, Albania"

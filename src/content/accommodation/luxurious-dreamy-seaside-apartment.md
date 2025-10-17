@@ -1,7 +1,7 @@
 ---
 title: "Luxurious Dreamy seaside apartment"
 description: "Discover the epitome of coastal elegance at the Luxurious Dreamy Seaside Apartment, a recently updated haven located right on the shores of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525887560.jpg?k=315403473c38d3d47c7cba6e9fa3afb268b8d8dbc4559ad2e8b850dd148fe4e9&o=&hp=1"
+featuredImage: "/images/accommodation/luxurious-dreamy-seaside-apartment-525887560.jpg"
 language: en
 slug: luxurious-dreamy-seaside-apartment
 address: "Rruga Agaveve, 2008 Durrës, Albania"

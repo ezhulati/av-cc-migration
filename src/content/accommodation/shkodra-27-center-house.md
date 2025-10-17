@@ -1,7 +1,7 @@
 ---
 title: "Shkodra 27 center house"
 description: "Shkodra 27 Center House emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër, located just 49 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461470403.jpg?k=845d6df08dbfb5970ce740dbe6603798963ba93afc1c390f707369f964592759&o=&hp=1"
+featuredImage: "/images/accommodation/shkodra-27-center-house-461470403.jpg"
 language: en
 slug: shkodra-27-center-house
 address: "Rruga Kongresi i Manastirit, 4001 Shkodër, Albania"

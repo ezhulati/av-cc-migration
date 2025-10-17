@@ -1,7 +1,7 @@
 ---
 title: "White House"
 description: "White House, situated in the vibrant heart of Sarandë, Vlorë County, emerges as a prime choice for travelers seeking a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/white-house-d3882ab9674d.jpg"
 language: en
 slug: white-house
 address: "Rruga Janaq Kumi, 9701 Sarandë, Albania"

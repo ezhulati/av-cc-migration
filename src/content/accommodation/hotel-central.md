@@ -1,7 +1,7 @@
 ---
 title: "Hotel Central"
 description: "Hotel Central stands as a beacon of convenience and comfort in the heart of Tirana, merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294406839.jpg?k=87e6c1610f7f6597a88c8a659d3fd7c80f254e7aeeb9539b01486125c483f1fa&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-central-294406839.jpg"
 language: en
 slug: hotel-central
 address: "Rruga \" Karl Gega\", 1001 Tirana, Albania"

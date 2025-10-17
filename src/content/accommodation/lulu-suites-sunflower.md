@@ -1,7 +1,7 @@
 ---
 title: "Lulu Suites - Sunflower"
 description: "Lulu Suites - Sunflower emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470497875.jpg?k=2e0f276425257aadd017c06862de4ae2006fbce7f6a7941078a001212e71db8c&o=&hp=1"
+featuredImage: "/images/accommodation/lulu-suites-sunflower-470497875.jpg"
 language: en
 slug: lulu-suites-sunflower
 address: "Rruga Iliria, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vesper Suites"
 description: "Vesper Suites emerges as a prime choice for travelers seeking a serene beachfront escape in Dhërmi, located merely 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421637871.jpg?k=89539322e8fe4bdc7d8f598e7282a0df4339933a7a0fcc646235a08fe25c0fff&o=&hp=1"
+featuredImage: "/images/accommodation/vesper-suites-421637871.jpg"
 language: en
 slug: vesper-suites
 address: "Olea Residence, Dhermi, 1001 Dhërmi, Albania"

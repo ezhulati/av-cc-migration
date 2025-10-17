@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Marilyn"
 description: "Beachfront Marilyn emerges as a prime choice for travelers seeking a serene getaway on Durres Golem Long Beach, offering air-conditioned accommodations complete with a balcony and complimentary WiFi access."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475545156.jpg?k=48956baf0d3ef9655c12daa769283738cf7f20a22668d326a4877ef7f0fbb88c&o=&hp=1"
+featuredImage: "/images/accommodation/beachfront-marilyn-475545156.jpg"
 language: en
 slug: beachfront-marilyn
 address: "Rruga Kompleksit, 2001 Durrës, Albania"

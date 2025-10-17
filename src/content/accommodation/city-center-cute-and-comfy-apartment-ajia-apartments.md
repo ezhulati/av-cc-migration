@@ -1,7 +1,7 @@
 ---
 title: "City Center Cute and Comfy Apartment - Ajia Apartments"
 description: "City Center Cute and Comfy Apartment - Ajia Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/city-center-cute-and-comfy-apartment-ajia-apartments-8d80ab6bf73f.jpg"
 language: en
 slug: city-center-cute-and-comfy-apartment-ajia-apartments
 address: "Rruga Ali Pashë Gucia, 1001 Tirana, Albania"

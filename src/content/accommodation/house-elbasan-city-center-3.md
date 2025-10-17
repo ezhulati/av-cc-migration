@@ -1,7 +1,7 @@
 ---
 title: "House Elbasan city center 3"
 description: "House Elbasan City Center 3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Elbasan."
-featuredImage: "https://graph.facebook.com/v2.9/10155574436535500/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/house-elbasan-city-center-3-picture?type.jpg"
 language: en
 slug: house-elbasan-city-center-3
 address: "Lagjia 28 Nentori, 3001 Elbasan, Albania"

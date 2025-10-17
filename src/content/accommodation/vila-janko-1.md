@@ -1,7 +1,7 @@
 ---
 title: "Vila Janko 1"
 description: "Vila Janko 1 emerges as a serene retreat in the heart of Voskopojë, Korçë County, offering a unique blend of tranquility and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320346992.jpg?k=5da24a6e8550900ff6f99c7f339b23a8ccec85018a24288480dd713ccf264291&o=&hp=1"
+featuredImage: "/images/accommodation/vila-janko-1-320346992.jpg"
 language: en
 slug: vila-janko-1
 address: "Rruga Gjergj Simon Sina, Voskopojë, Albania"

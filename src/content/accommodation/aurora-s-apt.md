@@ -1,7 +1,7 @@
 ---
 title: "Aurora’s apt"
 description: "Aurora's Apartment emerges as a prime choice for travelers seeking a beachfront haven in Vlorë, merely steps away from the pristine Vlore Beach and a short stroll from the vibrant Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478281937.jpg?k=5fad0c982d17ebc5c434732e7f010a4801b3604db0fe1356b1e3b39e3aac574f&o=&hp=1"
+featuredImage: "/images/accommodation/aurora-s-apt-478281937.jpg"
 language: en
 slug: aurora-s-apt
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "KEIT Hotel"
 description: "KEIT Hotel emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503624748.jpg?k=908ce4b6e8cb518ebfde286856d7b672e901a3b003189ae78f8d07c9b001fada&o=&hp=1"
+featuredImage: "/images/accommodation/keit-hotel-503624748.jpg"
 language: en
 slug: keit-hotel
 address: "Rruga Dritan Hoxha, 1001 Tirana, Albania"

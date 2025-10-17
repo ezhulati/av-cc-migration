@@ -1,7 +1,7 @@
 ---
 title: "Apartment Valbona by Orikum Apartments"
 description: "Apartment Valbona by Orikum Apartments emerges as a serene retreat in the heart of Orikum, offering a tranquil garden setting just a short distance from the pristine Baro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462588990.jpg?k=a7518f88831e84244aeab81ac32667927e9f72b2020ac4f0f27248687374f3b9&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-valbona-by-orikum-apartments-462588990.jpg"
 language: en
 slug: apartment-valbona-by-orikum-apartments
 address: "Rruga Orikum, 9426 Orikum, Albania"

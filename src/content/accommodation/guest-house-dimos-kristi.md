@@ -1,7 +1,7 @@
 ---
 title: "Guest House Dimos Kristi"
 description: "Guest House Dimos Kristi emerges as a serene haven in the heart of Përmet, offering travelers air-conditioned accommodations complete with a balcony and complimentary WiFi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477311987.jpg?k=a3b3171f6f5414376ad54d6aa85cb8d1b61682869b47bd65b6ce81961b133125&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-dimos-kristi-477311987.jpg"
 language: en
 slug: guest-house-dimos-kristi
 address: "Apt 4, 2 Nexhip Bënja, Lagjia Bajame, 6401 Përmet, Albania"

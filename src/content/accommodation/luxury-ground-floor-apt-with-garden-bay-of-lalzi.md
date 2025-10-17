@@ -1,7 +1,7 @@
 ---
 title: "Luxury ground floor Apt with garden - Bay of Lalzi"
 description: "Discover the epitome of comfort and convenience at the Luxury Ground Floor Apartment in the Bay of Lalzi, a prime choice for travelers seeking a serene getaway close to Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476904180.jpg?k=3d5010b67cfba6caa301f803eaacbba619085c7d5de76f315d9921e324cfe810&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-ground-floor-apt-with-garden-bay-of-lalzi-476904180.jpg"
 language: en
 slug: luxury-ground-floor-apt-with-garden-bay-of-lalzi
 address: "Plazhi San Pietro, Gjiri i Lalezit Durres Building 3A - 3 Shkalla 1, Apartment 112, 2000 Durrës, Albania"

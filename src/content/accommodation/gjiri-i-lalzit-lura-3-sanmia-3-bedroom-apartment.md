@@ -1,7 +1,7 @@
 ---
 title: "Gjiri i Lalzit - Lura 3 - SanMia 3 Bedroom apartment"
 description: "Discover the serene beauty and comfort of Gjiri i Lalzit - Lura 3 - SanMia, a 3-bedroom apartment that stands out for its prime location and exceptional amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471448592.jpg?k=2d3c48eea86a83c4b2ac2cf574a2fbb9f0f791cfebc1afeb0f4691e733900a17&o=&hp=1"
+featuredImage: "/images/accommodation/gjiri-i-lalzit-lura-3-sanmia-3-bedroom-apartment-471448592.jpg"
 language: en
 slug: gjiri-i-lalzit-lura-3-sanmia-3-bedroom-apartment
 address: "Plazhi San Pietro, Kompleksi Lura 3, Gjiri i Lalzit, 2015 Mullini i Danit, Albania"

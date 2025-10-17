@@ -1,7 +1,7 @@
 ---
 title: "Keno's Apartment"
 description: "Keno's Apartment in Sarandë emerges as a charming retreat for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67774515.jpg?k=40630df3829406b750c3239f6edf43e645c298a244dbef1ebfd745edf5438929&o=&hp=1"
+featuredImage: "/images/accommodation/keno-s-apartment-67774515.jpg"
 language: en
 slug: keno-s-apartment
 address: "Rruga Hamalloi, 9701 Sarandë, Albania"

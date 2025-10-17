@@ -1,7 +1,7 @@
 ---
 title: "Square INN@Lalzi Bay"
 description: "Square INN@Lalzi Bay emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332464249.jpg?k=365209d0dd2133adf3f961a0c636a2a4e84f6677cfc817749f939b99295270b6&o=&hp=1"
+featuredImage: "/images/accommodation/square-inn-lalzi-bay-332464249.jpg"
 language: en
 slug: square-inn-lalzi-bay
 address: "Rruga Gjiri i Lalzit Lura 3, 2000 Durrës, Albania"

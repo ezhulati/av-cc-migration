@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restaurant Vila Ime Voskopoje"
 description: "Hotel Restaurant Vila Ime Voskopoje emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Voskopojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143941324.jpg?k=62e35c8d8583abe83e7ab3939da9ee74bdfd752ad8dc4ed4e2979ea442588786&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-restaurant-vila-ime-voskopoje-143941324.jpg"
 language: en
 slug: hotel-restaurant-vila-ime-voskopoje
 address: "Rruga Shen Kolli 200 m nga Kisha e Shen Mehilli, 7029 Voskopojë, Albania"

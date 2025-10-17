@@ -1,7 +1,7 @@
 ---
 title: "Your tidy & affordable base in Tiranë!"
 description: "Discover a gem in the heart of Tirana at \"Your tidy & affordable base in Tiranë!"
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473972790.jpg?k=fab42f1a32c25f80bd1514ffbadbc385f2a756b6bcad5119a9512aa20dd50d03&o=&hp=1"
+featuredImage: "/images/accommodation/your-tidy-affordable-base-in-tiran-473972790.jpg"
 language: en
 slug: your-tidy-affordable-base-in-tiran
 address: "Rruga Ferit Xhajko, 1001 Tirana, Albania"

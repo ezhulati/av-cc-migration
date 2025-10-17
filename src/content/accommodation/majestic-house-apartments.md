@@ -1,7 +1,7 @@
 ---
 title: "Majestic house apartments"
 description: "Majestic House Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486898357.jpg?k=772b73489f1403bdeeaabbb8787ea500a34debc8c942d667e485d7c737f60e94&o=&hp=1"
+featuredImage: "/images/accommodation/majestic-house-apartments-486898357.jpg"
 language: en
 slug: majestic-house-apartments
 address: "Shkembi i Kavajes, 2008 Durrës, Albania"

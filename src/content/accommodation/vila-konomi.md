@@ -1,7 +1,7 @@
 ---
 title: "Vila Konomi"
 description: "Vila Konomi emerges as a serene oasis in the vibrant heart of Sarandë, a stone's throw away from the pristine Sarande Main Beach and merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410457170.jpg?k=eb207e4872fe8ea35d42b595918eb0f880bb6660f8aae4df392288d7f87500a0&o=&hp=1"
+featuredImage: "/images/accommodation/vila-konomi-410457170.jpg"
 language: en
 slug: vila-konomi
 address: "Rruga Janaq Kumi, Sarandë, Albania"

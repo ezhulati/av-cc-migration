@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Lula 2"
 description: "Guesthouse Lula 2 emerges as a serene retreat in the heart of Tepelenë, Gjirokastër County, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450066868.jpg?k=0f1aa363a2ffd57cfc0ba57b463b40134054091196190276c1e8d1ee01e280b7&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-lula-2-450066868.jpg"
 language: en
 slug: guesthouse-lula-2
 address: "Rruga Ago Celi, 6301 Tepelenë, Albania"

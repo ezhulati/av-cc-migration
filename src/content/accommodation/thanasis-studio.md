@@ -1,7 +1,7 @@
 ---
 title: "Thanasis studio"
 description: "Thanasis Studio emerges as a serene retreat in the heart of Spile, boasting proximity to the pristine shores of Prinos Beach, Spille Beach, and Maracit Beach, all within a 2 km radius."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424470180.jpg?k=fbcfd6d8c9d4ed68ab9cdf627578cd6b0185cac03dda7dea7282954623e01869&o=&hp=1"
+featuredImage: "/images/accommodation/thanasis-studio-424470180.jpg"
 language: en
 slug: thanasis-studio
 address: "Himare, 9425 Spile, Albania"

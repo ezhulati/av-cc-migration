@@ -1,7 +1,7 @@
 ---
 title: "Iviol apartament"
 description: "Discover the charm of Vlorë with a stay at the Iviol Apartment, a prime choice for travelers seeking comfort and convenience in this vibrant city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443215735.jpg?k=c1c270927bf72106414eea1879047d3d782b7e899ea7c6865734945bf61c5f8d&o=&hp=1"
+featuredImage: "/images/accommodation/iviol-apartament-443215735.jpg"
 language: en
 slug: iviol-apartament
 address: "Rruga Isa Boletini, 9401 Vlorë, Albania"

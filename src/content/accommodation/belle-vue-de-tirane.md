@@ -1,7 +1,7 @@
 ---
 title: "Belle vue de TIRANE"
 description: "Belle vue de TIRANE emerges as a prime choice for travelers seeking a serene retreat in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482172815.jpg?k=9bc46e76e4793af82b6549f9513b78d1351ce97d7a6818188bc639ee1d344755&o=&hp=1"
+featuredImage: "/images/accommodation/belle-vue-de-tirane-482172815.jpg"
 language: en
 slug: belle-vue-de-tirane
 address: "Rruga Mustafa Matohiti Nd 7, H.13, Ap 24 SELITE, FARKE,, 1044 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "EQ Tirana Apartments"
 description: "EQ Tirana Apartments emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484683595.jpg?k=d446c34aa03e20a75d7a8fe0155f8ef4280d3000575824cd47862e762686b2fb&o=&hp=1"
+featuredImage: "/images/accommodation/eq-tirana-apartments-484683595.jpg"
 language: en
 slug: eq-tirana-apartments
 address: "Rruga e Durrësit 3, Tirana, Albania"

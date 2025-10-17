@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment in heart of Tirana"
 description: "Discover the charm of Tirana from the comfort of the Lovely Apartment, a prime choice for travelers seeking both convenience and tranquility in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400689751.jpg?k=6683e71c71f8caa40a97b17797d1fc4455ffdaf1e0bc7ae39495377bb2073943&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-in-heart-of-tirana-400689751.jpg"
 language: en
 slug: lovely-apartment-in-heart-of-tirana
 address: "Rruga Musa Maci, Tirana, Albania"

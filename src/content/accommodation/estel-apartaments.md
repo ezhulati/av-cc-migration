@@ -1,7 +1,7 @@
 ---
 title: "ESTEL Apartaments"
 description: "ESTEL Apartaments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525524665.jpg?k=fd833e2c6614f3275ea95faf04eb29f261c33dea4f2872b47544c89f507268e7&o=&hp=1"
+featuredImage: "/images/accommodation/estel-apartaments-525524665.jpg"
 language: en
 slug: estel-apartaments
 address: "Rruga Jordan Misja, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Teuta Apartament"
 description: "Teuta Apartament in Sarandë emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152196265.jpg?k=035bbfcf4164e9d14f0ce2a9881be05c298e207ceaa18620c102561e8a6e38ad&o=&hp=1"
+featuredImage: "/images/accommodation/teuta-apartament-152196265.jpg"
 language: en
 slug: teuta-apartament
 address: "Rruga Gjergj Araniti tek Paradiso cafe, 9701 Sarandë, Albania"

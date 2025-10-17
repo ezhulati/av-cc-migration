@@ -1,7 +1,7 @@
 ---
 title: "Centrum Apartment"
 description: "Centrum Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476571837.jpg?k=d5c958e0cccdf5d004bb78f269efcc0b0e9f90d4ee52e4be2642ac8afb053fc0&o=&hp=1"
+featuredImage: "/images/accommodation/centrum-apartment-476571837.jpg"
 language: en
 slug: centrum-apartment
 address: "Rruga Telat Noga, 9701 Sarandë, Albania"

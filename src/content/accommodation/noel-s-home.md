@@ -1,7 +1,7 @@
 ---
 title: "Noel's Home"
 description: "Noel's Home emerges as a serene retreat in the heart of Korçë, offering guests a refreshing stay in its air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332347263.jpg?k=fac0499703d87bdeccf958edb92086324d95953a5496e9d71e874494b51e68dc&o=&hp=1"
+featuredImage: "/images/accommodation/noel-s-home-332347263.jpg"
 language: en
 slug: noel-s-home
 address: "Rruga 1 Maj, Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunny studio in new complex"
 description: "Discover the charm of Tirana with a stay at the Sunny Studio, a modern gem located just a short distance from the city's vibrant heart."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439208041.jpg?k=11541945e79486ca937b8497b9fc4d6bc8c233fb10cdbc3e43ae9db8030b0019&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-studio-in-new-complex-439208041.jpg"
 language: en
 slug: sunny-studio-in-new-complex
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

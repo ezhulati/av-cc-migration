@@ -1,7 +1,7 @@
 ---
 title: "Sea View Family Apartment"
 description: "Sea View Family Apartment in Sarandë emerges as a prime choice for travelers seeking comfort and convenience, mere steps away from the pristine Mango Beach and a leisurely stroll from the serene Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448177834.jpg?k=56d20505583515d78bbfef56f4de94081eac65742cfaa6cb3ff260a2db468954&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-family-apartment-448177834.jpg"
 language: en
 slug: sea-view-family-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

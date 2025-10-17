@@ -1,7 +1,7 @@
 ---
 title: "Sunny Holiday 3"
 description: "Sunny Holiday 3 emerges as a prime beachfront destination in Sarandë, offering an idyllic retreat less than a kilometer from the serene La Petite Beach and a mere stone's throw from the vibrant Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421942156.jpg?k=71250f2df7c4b141aceca7a942e602fa859784d9bf5e641f6cf2e0a1d2c83623&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-holiday-3-421942156.jpg"
 language: en
 slug: sunny-holiday-3
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

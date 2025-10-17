@@ -1,7 +1,7 @@
 ---
 title: "Villa Apartments S&F City Centre"
 description: "Villa Apartments S&F City Centre emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476994489.jpg?k=ae72783c85defbd37c7e17eff9f54b4d67e9cfaf0d74f4e44ce56c3d9df45502&o=&hp=1"
+featuredImage: "/images/accommodation/villa-apartments-s-f-city-centre-476994489.jpg"
 language: en
 slug: villa-apartments-s-f-city-centre
 address: "Rruga Fortuzi, 1010 Tirana, Albania"

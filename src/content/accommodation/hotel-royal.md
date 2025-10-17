@@ -1,7 +1,7 @@
 ---
 title: "Hotel Royal"
 description: "Hotel Royal stands out as a premier destination for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466439383.jpg?k=18a196f07e8e08fe796e3de88f800b3bc0bb46e2940f7051ad32217c8f685abe&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-royal-466439383.jpg"
 language: en
 slug: hotel-royal
 address: "Rruga Peshkimi, 4001 Shkodër, Albania"

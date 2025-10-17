@@ -1,7 +1,7 @@
 ---
 title: "Centerbestview of Tirana"
 description: "Centerbestview of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351643166.jpg?k=78fecd584c514cb3dfc12e499668966d9cac5d63fdd84c8024f7e697b6eb9208&o=&hp=1"
+featuredImage: "/images/accommodation/centerbestview-of-tirana-351643166.jpg"
 language: en
 slug: centerbestview-of-tirana
 address: "Rruga Konstandin Kristoforidhi, Nr 3, Njesia Bashkiake Nr 2, 1001 Tirana, Albania"

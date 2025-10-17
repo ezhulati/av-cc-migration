@@ -1,7 +1,7 @@
 ---
 title: "Apartment Number One"
 description: "Apartment Number One, a charming 3-star property located in the heart of Gjirokastër, presents guests with a comfortable and convenient stay, complete with air-conditioned accommodations and complimentary WiFi access."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291272135.jpg?k=169179d39acc13e7344ae8c6466418ebed66816bd17459314667b46ced81d3f8&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-number-one-291272135.jpg"
 language: en
 slug: apartment-number-one
 address: "Rruga Harillaq Liti, Gjirokaster 6001, 6001 Gjirokastër, Albania"

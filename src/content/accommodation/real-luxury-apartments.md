@@ -1,7 +1,7 @@
 ---
 title: "Real Luxury Apartments"
 description: "Real Luxury Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469895762.jpg?k=5eaed53500e4453046ff59194107adcd655da1cd4d95672ffc51c0fc9d40c03d&o=&hp=1"
+featuredImage: "/images/accommodation/real-luxury-apartments-469895762.jpg"
 language: en
 slug: real-luxury-apartments
 address: "Rruga: Vasil Llaci, 9706 Sarandë, Albania"

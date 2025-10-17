@@ -1,7 +1,7 @@
 ---
 title: "Rustic Holiday Villa Upper Qeparo"
 description: "Rustic Holiday Villa Upper Qeparo emerges as a serene retreat, offering guests a unique blend of comfort and privacy amidst lush garden surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397274897.jpg?k=868d644b4535ac4cb24db0dd2b759cb9d01cc21c45719282f506129bc46c4e36&o=&hp=1"
+featuredImage: "/images/accommodation/rustic-holiday-villa-upper-qeparo-397274897.jpg"
 language: en
 slug: rustic-holiday-villa-upper-qeparo
 address: "Villa on Church Road, Upper Qeparo, Himara, 1111 Himare, Albania"

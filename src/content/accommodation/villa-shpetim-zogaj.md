@@ -1,7 +1,7 @@
 ---
 title: "Villa Shpetim Zogaj."
 description: "Villa Shpetim Zogaj emerges as a serene retreat, merely a stone's throw away from the pristine shores of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300525145.jpg?k=fffe171699417b99a10d5b6d330482e93a534eac620ab8ae8391b3fc3f3c50b1&o=&hp=1"
+featuredImage: "/images/accommodation/villa-shpetim-zogaj-300525145.jpg"
 language: en
 slug: villa-shpetim-zogaj
 address: "Riza Cerova 16, 9706 Ksamil, Albania"

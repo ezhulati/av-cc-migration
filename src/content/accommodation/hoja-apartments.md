@@ -1,7 +1,7 @@
 ---
 title: "Hoja Apartments"
 description: "Hoja Apartments in Tirana presents a refined choice for travelers seeking both comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438399463.jpg?k=6ebde4d330a676fe8f9c88f3d5da6aea6a03de9e8447f5ce299e728fde64318d&o=&hp=1"
+featuredImage: "/images/accommodation/hoja-apartments-438399463.jpg"
 language: en
 slug: hoja-apartments
 address: "Rruga Dede Gjo Luli Pallati, 1 / Shkalla, 1 / Apartamenti, 2, 1001 Tirana, Albania"

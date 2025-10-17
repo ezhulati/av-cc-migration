@@ -1,7 +1,7 @@
 ---
 title: "Vila 43 Lin"
 description: "Vila 43 Lin emerges as a serene retreat for travelers seeking a blend of comfort and natural beauty, located just 23 km from the historic Cave Church Archangel Michael."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258969543.jpg?k=bc0ded3013c9983c143453b0fa00cee909182aad52ef7577ecc9843e99581970&o=&hp=1"
+featuredImage: "/images/accommodation/vila-43-lin-258969543.jpg"
 language: en
 slug: vila-43-lin
 address: "Sh87 Lin, 7305 Pogradec, Albania, 7305 Lin, Albania"

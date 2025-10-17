@@ -1,7 +1,7 @@
 ---
 title: "Modern apartment in Tirana"
 description: "Modern Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/166396189.webp?k=212b1c70ac69ccb26577d2e59ea44a86e702be8cc7b253c5582a4587b626f6c2&o=?t=1659905389"
+featuredImage: "/images/accommodation/modern-apartment-in-tirana-166396189.we.jpg"
 language: en
 slug: modern-apartment-in-tirana
 address: "Rruga Pasho Hysa, Tirana, Albania"

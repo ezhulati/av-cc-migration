@@ -1,7 +1,7 @@
 ---
 title: "Alabaster Luxury Cheap House Tirana"
 description: "Alabaster Luxury Cheap House Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504786959.jpg?k=7eb4d648429b7bbae313b9de96cf4f8bfa763415433840514c2b8fec26bee6a1&o=&hp=1"
+featuredImage: "/images/accommodation/alabaster-luxury-cheap-house-tirana-504786959.jpg"
 language: en
 slug: alabaster-luxury-cheap-house-tirana
 address: "Rruga Babë Rexha, 1003 Tirana, Albania"

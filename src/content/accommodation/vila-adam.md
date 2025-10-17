@@ -1,7 +1,7 @@
 ---
 title: "Vila Adam"
 description: "Vila Adam emerges as a serene retreat in the heart of Ksamil, merely a stone's throw away from the pristine Ksamil Beach and the vibrant Coco Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495448728.jpg?k=af51d75c066d7729c511260549e976edecca9026d53fcd4bfe2e13fc0c22ec48&o=&hp=1"
+featuredImage: "/images/accommodation/vila-adam-495448728.jpg"
 language: en
 slug: vila-adam
 address: "Rruga Kristal, 9706 Ksamil, Albania"

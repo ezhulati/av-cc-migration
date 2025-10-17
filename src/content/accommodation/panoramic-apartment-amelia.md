@@ -1,7 +1,7 @@
 ---
 title: "Panoramic Apartment Amelia"
 description: "Panoramic Apartment Amelia emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://graph.facebook.com/v2.9/10208112010461552/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/panoramic-apartment-amelia-picture?type.jpg"
 language: en
 slug: panoramic-apartment-amelia
 address: "Rruga Qazim Demi 2, 9701 Sarandë, Albania"

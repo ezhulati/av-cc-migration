@@ -1,7 +1,7 @@
 ---
 title: "Vila Koltrina"
 description: "Vila Koltrina emerges as a serene oasis in Shkodër, located a mere 48 km from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375545707.jpg?k=5ff4aae06ef537f2cffda24fc3570c73e00033b6df457ec9dd6a52f13e026d44&o=&hp=1"
+featuredImage: "/images/accommodation/vila-koltrina-375545707.jpg"
 language: en
 slug: vila-koltrina
 address: "Rruga Hafiz Sabri Bushati 6, 4001 Shkodër, Albania"

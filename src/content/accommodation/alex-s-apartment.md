@@ -1,7 +1,7 @@
 ---
 title: "Alex's Apartment"
 description: "Alex's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience along the picturesque shores of Durrës."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/alex-s-apartment-0e43c9b9a23d.jpg"
 language: en
 slug: alex-s-apartment
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

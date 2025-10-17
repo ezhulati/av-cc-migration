@@ -1,7 +1,7 @@
 ---
 title: "I love Tirana 2"
 description: "I Love Tirana 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498356649.jpg?k=d05335093f995d2e3efb1eec7526cd7e5f6d7e065addbf7ce4d474117f25e951&o=&hp=1"
+featuredImage: "/images/accommodation/i-love-tirana-2-498356649.jpg"
 language: en
 slug: i-love-tirana-2
 address: "15 Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"

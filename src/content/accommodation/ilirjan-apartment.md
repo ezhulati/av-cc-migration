@@ -1,7 +1,7 @@
 ---
 title: "Ilirjan apartment"
 description: "Ilirjan Apartment emerges as a prime choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/ilirjan-apartment-315f92289c48.jpg"
 language: en
 slug: ilirjan-apartment
 address: "Rruga Teodor Keko, 1001 Tirana, Albania"

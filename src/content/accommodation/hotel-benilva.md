@@ -1,7 +1,7 @@
 ---
 title: "Hotel Benilva"
 description: "Discover the charm of Hotel Benilva, a serene getaway boasting its own private beach adorned with complimentary deck chairs and parasols, ensuring a perfect blend of relaxation and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300854045.jpg?k=d4f4dde826a80b1c291a8d88d246c4ad3edeb6dcf015e8c3defc9980b2583911&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-benilva-300854045.jpg"
 language: en
 slug: hotel-benilva
 address: "Rr. Shkëmbi i Kavajës, 2001 Durrës, Albania"

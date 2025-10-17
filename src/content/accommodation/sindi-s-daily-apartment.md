@@ -1,7 +1,7 @@
 ---
 title: "Sindi's Daily Apartment"
 description: "Sindi's Daily Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512447131.jpg?k=8725c772104029bb4ffb87b2d9584fda1a284bee38a448b062a5a1d985a3bf90&o=&hp=1"
+featuredImage: "/images/accommodation/sindi-s-daily-apartment-512447131.jpg"
 language: en
 slug: sindi-s-daily-apartment
 address: "Rruga Hafiz Podgorica Rajfi group, 5th floor, n.29, 2001 Durrës, Albania"

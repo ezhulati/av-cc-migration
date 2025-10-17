@@ -1,7 +1,7 @@
 ---
 title: "Villa 69 - Jonufer"
 description: "Villa 69 - Jonufer stands out as a prime choice for travelers seeking a blend of comfort and convenience, with its accommodations offering breathtaking sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373489985.jpg?k=2728c6f7266e2de05067f2a9c7eef5a697f83761ad8f49a17029c0e538e389ed&o=&hp=1"
+featuredImage: "/images/accommodation/villa-69-jonufer-373489985.jpg"
 language: en
 slug: villa-69-jonufer
 address: "Rruga Sali Vranishti, 9401 Vlorë, Albania"

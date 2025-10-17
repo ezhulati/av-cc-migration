@@ -1,7 +1,7 @@
 ---
 title: "Miracle Apartments Saranda"
 description: "Miracle Apartments Saranda emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294057384.jpg?k=06ec951604c90186731148ab263c411dab7e4f04d5c2a6050bd7eb710a0347f7&o=&hp=1"
+featuredImage: "/images/accommodation/miracle-apartments-saranda-294057384.jpg"
 language: en
 slug: miracle-apartments-saranda
 address: "Rruga: Skenderbeg P2, 9701 Sarandë, Albania"

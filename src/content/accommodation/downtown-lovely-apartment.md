@@ -1,7 +1,7 @@
 ---
 title: "Downtown lovely apartment"
 description: "Downtown Lovely Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443624385.jpg?k=1d7c4c3af5756d4add8a1e8d1841c2e232a1cabac4c67c9f5493019bb34632dc&o=&hp=1"
+featuredImage: "/images/accommodation/downtown-lovely-apartment-443624385.jpg"
 language: en
 slug: downtown-lovely-apartment
 address: "Rruga Studenti Ap 34. Bilding 32, 4001 Shkodër, Albania"

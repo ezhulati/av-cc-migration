@@ -1,7 +1,7 @@
 ---
 title: "Chez Sara"
 description: "Chez Sara emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390584754.jpg?k=41a18490a4cd32ec3b1fb9ed51ced1d02c58798630cc3c32ccaadf6028525f06&o=&hp=1"
+featuredImage: "/images/accommodation/chez-sara-390584754.jpg"
 language: en
 slug: chez-sara
 address: "Rruga Tish Dahia Kika’s Complex, Building 1-C8,3rd Floor, Apt A, 1060 Tirana, Albania"

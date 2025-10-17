@@ -1,7 +1,7 @@
 ---
 title: "Flutura Apartments"
 description: "Flutura Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë's southern gateway."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150962575.jpg?k=8bffbb3f7f50f26d7f98110248afe14ff15197319d7f23f00b6c66a0c7fd82a2&o=&hp=1"
+featuredImage: "/images/accommodation/flutura-apartments-150962575.jpg"
 language: en
 slug: flutura-apartments
 address: "Uji I Ftoht, Plazhi I Ri, 9400 Vlorë, Albania"

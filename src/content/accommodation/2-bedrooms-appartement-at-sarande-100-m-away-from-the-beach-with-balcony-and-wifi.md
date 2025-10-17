@@ -1,7 +1,7 @@
 ---
 title: "2 bedrooms appartement at Sarande 100 m away from the beach with balcony and wifi"
 description: "Discover the charm of Sarandë with a stay at this inviting apartment, located a mere stone's throw away from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351758391.jpg?k=88ace596cbb440846281a67c4dce12b10d99d671476dd500c448fbc83065d88f&o=&hp=1"
+featuredImage: "/images/accommodation/2-bedrooms-appartement-at-sarande-100-m-away-from-the-beach-with-balcony-and-wifi-351758391.jpg"
 language: en
 slug: 2-bedrooms-appartement-at-sarande-100-m-away-from-the-beach-with-balcony-and-wifi
 address: "Rruga Mitat Hoxha 124 Qarku i Vlorës,, 9701 Sarandë, Albania"

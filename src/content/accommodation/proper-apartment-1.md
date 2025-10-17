@@ -1,7 +1,7 @@
 ---
 title: "Proper Apartment 1"
 description: "Proper Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332044698.jpg?k=bca79d429172f6f7d2281e5cd7d1e5fdcbf70712831a9900060abdf2ad00faa0&o=&hp=1"
+featuredImage: "/images/accommodation/proper-apartment-1-332044698.jpg"
 language: en
 slug: proper-apartment-1
 address: "Rruga Him Kolli, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "LUMNIK - Hotel & Apartments"
 description: "LUMNIK - Hotel & Apartments emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368381055.jpg?k=d2103db947cb8643faecff05dea507352cc29dda61061277e8e2513853e42224&o=&hp=1"
+featuredImage: "/images/accommodation/lumnik-hotel-apartments-368381055.jpg"
 language: en
 slug: lumnik-hotel-apartments
 address: "SH32, 4500 Lezhë, Albania"

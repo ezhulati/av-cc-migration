@@ -1,7 +1,7 @@
 ---
 title: "Harmony"
 description: "Harmony Guest House emerges as a serene retreat in Vlorë, a mere stone's throw away from the pristine Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475295702.jpg?k=7a787ef514dfa562becb49aadf13ee445dacd40f8219585c09a7b353935db698&o=&hp=1"
+featuredImage: "/images/accommodation/harmony-475295702.jpg"
 language: en
 slug: harmony
 address: "Rruga Azem Sulo, 9401 Vlorë, Albania"

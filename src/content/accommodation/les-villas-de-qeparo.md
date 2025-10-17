@@ -1,7 +1,7 @@
 ---
 title: "Les Villas de Qeparo"
 description: "Les Villas de Qeparo emerges as a serene retreat, offering guests a unique blend of comfort and natural beauty, just a short 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334877426.jpg?k=f23f21a8f189084d7aa89b0c8313e1723c309b78abd6f07c449ec2fe2fd05072&o=&hp=1"
+featuredImage: "/images/accommodation/les-villas-de-qeparo-334877426.jpg"
 language: en
 slug: les-villas-de-qeparo
 address: "Unnamed Road, 9416 Qeparo, Albania"

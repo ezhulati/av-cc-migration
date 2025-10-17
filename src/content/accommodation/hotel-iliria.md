@@ -1,7 +1,7 @@
 ---
 title: "Hotel Iliria"
 description: "Hotel Iliria, located in the vibrant city of Shkodër and a mere 44 km from the Port of Bar, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462703680.jpg?k=8145808b654605a9b9b1bd4af3959eb814a5add578b594e4b2b24b9597c7f270&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-iliria-462703680.jpg"
 language: en
 slug: hotel-iliria
 address: "SH41, 4001 Shkodër, Albania"

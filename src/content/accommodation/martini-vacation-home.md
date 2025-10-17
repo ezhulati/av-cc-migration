@@ -1,7 +1,7 @@
 ---
 title: "Martini Vacation Home"
 description: "Martini Vacation Home stands as a serene oasis in Sarandë, merely a stone's throw away from the pristine Heaven Beach and a short drive from the vibrant Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290143870.jpg?k=a35dcae3336aea1bd7de01ab2031e07e5de7bd366e5d27995cff5eb858b51067&o=&hp=1"
+featuredImage: "/images/accommodation/martini-vacation-home-290143870.jpg"
 language: en
 slug: martini-vacation-home
 address: "SH81, 9701 Sarandë, Albania"

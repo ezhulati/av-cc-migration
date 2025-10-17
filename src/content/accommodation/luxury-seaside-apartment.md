@@ -1,7 +1,7 @@
 ---
 title: "Luxury seaside apartment"
 description: "Luxury Seaside Apartment stands as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just steps away from the vibrant Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465629688.jpg?k=971933892c5cbf00beca1fe02db125eb12d6da249e997e30fd45c4f5dc34a79d&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-seaside-apartment-465629688.jpg"
 language: en
 slug: luxury-seaside-apartment
 address: "Rruga e Agaveve 36 , Apartamenti 6 Shkalla 3, 2027 Durrës, Albania"

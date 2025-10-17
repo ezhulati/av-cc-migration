@@ -1,7 +1,7 @@
 ---
 title: "Albanian Star Hotel"
 description: "Discover the hidden gem of Golem at the Albanian Star Hotel, a serene escape just a short drive from the historic city of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472130953.jpg?k=4c31aa3887fa7391b4ad9b21047e281df6b747a0d756645954c20ec80abaeef6&o=&hp=1"
+featuredImage: "/images/accommodation/albanian-star-hotel-472130953.jpg"
 language: en
 slug: albanian-star-hotel
 address: "Rruga Kompleksit (SH4), Plepa, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Brilant Studio Apartment City Center"
 description: "Brilant Studio Apartment City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429018624.jpg?k=f4d16ec26a68c85ba1433b8cb2a24508e5aadab2f1351c30d17f18c4d5c01e96&o=&hp=1"
+featuredImage: "/images/accommodation/brilant-studio-apartment-city-center-429018624.jpg"
 language: en
 slug: brilant-studio-apartment-city-center
 address: "Rruga Jeronim De Rada Nr 8, 1000 Tirana, Albania"

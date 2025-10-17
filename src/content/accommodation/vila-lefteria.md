@@ -1,7 +1,7 @@
 ---
 title: "Vila Lefteria"
 description: "Vila Lefteria emerges as a serene retreat in the heart of Këlcyrë, providing guests with a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478097266.jpg?k=318d684051a978626d83d68c8f202ecdf7ffc723adaa9be61a12cc41f268da02&o=&hp=1"
+featuredImage: "/images/accommodation/vila-lefteria-478097266.jpg"
 language: en
 slug: vila-lefteria
 address: "Rruga Kryepeshkopi Anastas, Këlcyrë, Albania"

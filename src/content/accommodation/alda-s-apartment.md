@@ -1,7 +1,7 @@
 ---
 title: "Alda's Apartment"
 description: "Alda's Apartment emerges as a serene retreat in Golem, perfectly positioned just a stone's throw away from the pristine sands of Golem Beach and Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451428342.jpg?k=3f7da83e70564772e54ec22165b95af0733ba790252b3a52d012ce580ea6ee37&o=&hp=1"
+featuredImage: "/images/accommodation/alda-s-apartment-451428342.jpg"
 language: en
 slug: alda-s-apartment
 address: "Rruga Plazhit A6, 2nd Floor, Golem, Albania"

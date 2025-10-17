@@ -1,7 +1,7 @@
 ---
 title: "Apartament ne tirane"
 description: "Discover the charm of Tirana with a stay at Apartament ne Tirane, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443356667.jpg?k=ded58094329c992613611eaff9a317e1a28b7251825f50be7cc66029f590d0a1&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-ne-tirane-443356667.jpg"
 language: en
 slug: apartament-ne-tirane
 address: "Rruga Siri Kodra, 1001 Tirana, Albania"

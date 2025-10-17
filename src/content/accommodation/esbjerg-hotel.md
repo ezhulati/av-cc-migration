@@ -1,7 +1,7 @@
 ---
 title: "Esbjerg Hotel"
 description: "Esbjerg Hotel, a distinguished 4-star establishment, graces the shores of Vlorë, offering guests an exceptional beachfront experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477815410.jpg?k=91080733033061ab8dccf6cca090bb8e9c2aedc7fb375a0bf9246e1aaf3dc94d&o=&hp=1"
+featuredImage: "/images/accommodation/esbjerg-hotel-477815410.jpg"
 language: en
 slug: esbjerg-hotel
 address: "9401 Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"

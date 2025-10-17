@@ -1,7 +1,7 @@
 ---
 title: "Modern Furnished Apartment with View"
 description: "Modern Furnished Apartment with View stands out as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210098819.jpg?k=d954653eea08819130e83a8f342c6353740f4fcec71dd93f10fe68d3fd699b76&o=&hp=1"
+featuredImage: "/images/accommodation/modern-furnished-apartment-with-view-210098819.jpg"
 language: en
 slug: modern-furnished-apartment-with-view
 address: "Rruga Teodor Keko Oslo Bar Astir Building, Nd. 2, H. 2, Ap 39, Floor 9., 1061 Tirana, Albania"

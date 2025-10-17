@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment 65"
 description: "Sea View Apartment 65 emerges as a prime choice for travelers seeking a serene getaway in Durrës, boasting an enviable location just a stone's throw away from Shkëmbi i Kavajës Beach and within easy reach of the city's must-visit sites."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493074575.jpg?k=f6dbfd0539a888a1eed1d66539004ea1f32c9199f64d498f5b4f15d90ee665ea&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartment-65-493074575.jpg"
 language: en
 slug: sea-view-apartment-65
 address: "Golem, Durres, 2001 Durrës, Albania"

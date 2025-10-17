@@ -1,7 +1,7 @@
 ---
 title: "The Yellow' Condo"
 description: "Discover the charm of Berat with a stay at 'The Yellow' Condo, a prime choice for travelers seeking comfort and convenience in air-conditioned accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379982625.jpg?k=eaa7fa65c53c2bc50dd6f35ba532b9fecc13bad94c274f4a3896ae3b3f52ed81&o=&hp=1"
+featuredImage: "/images/accommodation/the-yellow-condo-379982625.jpg"
 language: en
 slug: the-yellow-condo
 address: "Rruga Andrea I, 5005 Berat, Albania"

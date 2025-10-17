@@ -1,7 +1,7 @@
 ---
 title: "Zani’s Apartments"
 description: "Zani’s Apartments presents a remarkable option for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377784315.jpg?k=93b90bb2bff45520f7fea5dea455ed2a4a42c14b93c0f620c08488445da753a4&o=&hp=1"
+featuredImage: "/images/accommodation/zani-s-apartments-377784315.jpg"
 language: en
 slug: zani-s-apartments
 address: "Rruga Venecia, 2002 Durrës, Albania"

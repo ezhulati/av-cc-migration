@@ -1,7 +1,7 @@
 ---
 title: "Hotel Renti Velipoje"
 description: "Hotel Renti Velipoje stands as a beacon of four-star luxury on the Velipojë coastline, boasting direct beachfront access that promises an unforgettable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455718521.jpg?k=f130cf3ec302abacc68ef782461ab7d8cb7577b744e91e129440e6d9f3dce1a1&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-renti-velipoje-455718521.jpg"
 language: en
 slug: hotel-renti-velipoje
 address: "Rruga Pashko Selita, 4000 Velipojë, Albania"

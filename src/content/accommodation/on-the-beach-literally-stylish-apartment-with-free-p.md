@@ -1,7 +1,7 @@
 ---
 title: "On the Beach (literally) stylish apartment with free P"
 description: "On the Beach (literally) stylish apartment with free parking emerges as a prime choice for travelers seeking the ultimate blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194220201.jpg?k=207f265d142bcf082f77f6b276525e61a53927789a106206966c48fc53d2bcfa&o=&hp=1"
+featuredImage: "/images/accommodation/on-the-beach-literally-stylish-apartment-with-free-p-194220201.jpg"
 language: en
 slug: on-the-beach-literally-stylish-apartment-with-free-p
 address: "Rr. Sazani, Nd. 109, H.8, Ap. 23, 9403 Vlorë, Albania"

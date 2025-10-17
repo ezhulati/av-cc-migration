@@ -1,7 +1,7 @@
 ---
 title: "The Seaside Oasis Apartment"
 description: "The Seaside Oasis Apartment, positioned a mere stone's throw away from Vlorë's pristine Vlore Beach and within easy reach of Ri Beach, presents a refreshing retreat for travelers seeking both convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513498573.jpg?k=b39a7d4bdaa1510888bd405e9c1382af02595fa1b53a70006ad297de600565a8&o=&hp=1"
+featuredImage: "/images/accommodation/the-seaside-oasis-apartment-513498573.jpg"
 language: en
 slug: the-seaside-oasis-apartment
 address: "Rruga Reshat Osmani, Vlorë, Albania"

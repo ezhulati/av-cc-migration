@@ -1,7 +1,7 @@
 ---
 title: "Bliss Apartment"
 description: "Bliss Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506557736.jpg?k=4ba421acfbd0c14c69f737a5450dc618c7ac4ac2fc5dc698eb3a292f354f765e&o=&hp=1"
+featuredImage: "/images/accommodation/bliss-apartment-506557736.jpg"
 language: en
 slug: bliss-apartment
 address: "Rruga Kongresi i Manastirit, ASL Building, Entrance 2, 7th floor, Apt. nr. 42, 1015 Tirana, Albania"

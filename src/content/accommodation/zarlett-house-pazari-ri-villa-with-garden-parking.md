@@ -1,7 +1,7 @@
 ---
 title: "Zarlett House, Pazari ri ,Villa with Garden,Parking"
 description: "Zarlett House, Pazari ri, Villa with Garden, Parking emerges as a serene oasis in the heart of Tirana, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510543861.jpg?k=80ac468e92c90278e21149cc3dd260b28bc4e4b11a77252d6cfc6bca24909c2a&o=&hp=1"
+featuredImage: "/images/accommodation/zarlett-house-pazari-ri-villa-with-garden-parking-510543861.jpg"
 language: en
 slug: zarlett-house-pazari-ri-villa-with-garden-parking
 address: "Rruga Riza Jasa, 1001 Tirana, Albania"

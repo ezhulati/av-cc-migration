@@ -1,7 +1,7 @@
 ---
 title: "Biku Guesthouse on the hill"
 description: "Biku Guesthouse on the Hill emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479615442.jpg?k=8103dfb8522ac242ebeba7362c949e1a64b7e987de828cf020a3baab33605929&o=&hp=1"
+featuredImage: "/images/accommodation/biku-guesthouse-on-the-hill-479615442.jpg"
 language: en
 slug: biku-guesthouse-on-the-hill
 address: "Rruga Stefan Pano, Vlorë, Albania"

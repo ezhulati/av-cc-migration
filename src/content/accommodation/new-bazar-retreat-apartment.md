@@ -1,7 +1,7 @@
 ---
 title: "New Bazar Retreat Apartment"
 description: "New Bazar Retreat Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527128624.jpg?k=004039b8647f7a906cb7753bda91e71bc9f35373afd0573be1ecf1d8cf418c16&o=&hp=1"
+featuredImage: "/images/accommodation/new-bazar-retreat-apartment-527128624.jpg"
 language: en
 slug: new-bazar-retreat-apartment
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Green Garden Villa"
 description: "Green Garden Villa emerges as a serene oasis in the heart of Durrës, merely a stone's throw away from the pristine Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491334769.jpg?k=96bf15797ecb201f4d824777a8330212511a4b5830e4d7bdb04888574f1bb1a3&o=&hp=1"
+featuredImage: "/images/accommodation/green-garden-villa-491334769.jpg"
 language: en
 slug: green-garden-villa
 address: "Rruga Venecia, 2008 Durrës, Albania"

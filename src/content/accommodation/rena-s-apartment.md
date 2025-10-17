@@ -1,7 +1,7 @@
 ---
 title: "Rena’s apartment"
 description: "Rena's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498475402.jpg?k=1e4663021d843511acb1e65c87b95b4b325dd88343982efc6329ae4084f96c87&o=&hp=1"
+featuredImage: "/images/accommodation/rena-s-apartment-498475402.jpg"
 language: en
 slug: rena-s-apartment
 address: "Rruga Faruk S. Begolli app 13, 1001 Tirana, Albania"

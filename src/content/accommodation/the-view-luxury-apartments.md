@@ -1,7 +1,7 @@
 ---
 title: "\"The View\" Luxury Apartments"
 description: "\"The View\" Luxury Apartments emerges as a premier choice for travelers seeking exceptional accommodation in Sarandë, boasting an enviable seafront location mere steps away from both Saranda City Beach and La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360942602.jpg?k=cd63e2472a5ffbf8f77fc14e68c590144dcd1153420c3451509b8f06eae77c45&o=&hp=1"
+featuredImage: "/images/accommodation/the-view-luxury-apartments-360942602.jpg"
 language: en
 slug: the-view-luxury-apartments
 address: "Road Butrinti, 9701 Sarandë, Albania"

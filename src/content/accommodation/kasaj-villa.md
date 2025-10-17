@@ -1,7 +1,7 @@
 ---
 title: "Kasaj Villa"
 description: "Kasaj Villa, located in the historic city of Gjirokastër, presents a serene retreat just a stone's throw away from the enchanting Zaravina Lake, 43 km to be precise."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352421888.jpg?k=4a7e3e8b2bfd1f6cba3a1f8778ffbc97a4d54de21b17232daab85acd87a5c64b&o=&hp=1"
+featuredImage: "/images/accommodation/kasaj-villa-352421888.jpg"
 language: en
 slug: kasaj-villa
 address: "Rruga Celo Sinani, 6002 Gjirokastër, Albania"

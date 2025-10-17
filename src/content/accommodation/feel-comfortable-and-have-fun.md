@@ -1,7 +1,7 @@
 ---
 title: "feel comfortable and have fun"
 description: "Discover the charm of Tirana with a stay at \"Feel Comfortable and Have Fun,\" a prime apartment offering a blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494589206.jpg?k=c378fbacb4bf9c915dd497ea6d7f86fcc6ae9eecc5d37d121ab92b273866d0ae&o=&hp=1"
+featuredImage: "/images/accommodation/feel-comfortable-and-have-fun-494589206.jpg"
 language: en
 slug: feel-comfortable-and-have-fun
 address: "Rruga Feizi Himzo, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Fishta apartments Q5 34"
 description: "Fishta Apartments Q5 34 emerges as a prime choice for travelers seeking a serene beachfront escape in Velipojë, merely a stone's throw away from the pristine Velipoja Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464489808.jpg?k=ae0e3c88a8c815c33aeec3b2f58749599d6e095532a50918b3a2951f14611bc0&o=&hp=1"
+featuredImage: "/images/accommodation/fishta-apartments-q5-34-464489808.jpg"
 language: en
 slug: fishta-apartments-q5-34
 address: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest House Bracaj"
 description: "Discover the charm of Çorovodë with a stay at Guest House Bracaj, a serene retreat located in the heart of Berat County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462758637.jpg?k=c85ac84204dfc0647713769f8a03ff039fd263f884ee00ad9c6a0428a1b41698&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-bracaj-462758637.jpg"
 language: en
 slug: guest-house-bracaj
 address: "Corovode, Skrapare , Cerernisht, 5401 Çorovodë, Albania"

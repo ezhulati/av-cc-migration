@@ -1,7 +1,7 @@
 ---
 title: "AJ Apartments, Hidden Gem in the Heart of Tirana"
 description: "AJ Apartments emerges as a modern retreat right in the pulsating heart of Tirana, offering a seamless blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338823990.jpg?k=d3fd9190741554b0e4d4cfab8f7353203c2f10391238b7d25eafb8c8ee56adfa&o=&hp=1"
+featuredImage: "/images/accommodation/aj-apartments-hidden-gem-in-the-heart-of-tirana-338823990.jpg"
 language: en
 slug: aj-apartments-hidden-gem-in-the-heart-of-tirana
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

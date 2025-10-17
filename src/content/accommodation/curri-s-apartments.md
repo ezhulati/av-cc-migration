@@ -1,7 +1,7 @@
 ---
 title: "Curri’s Apartments"
 description: "Curri's Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449468452.jpg?k=b19b1803eda4854175997138f3d69339f2c1164852ddd84c2ab22832909e5c33&o=&hp=1"
+featuredImage: "/images/accommodation/curri-s-apartments-449468452.jpg"
 language: en
 slug: curri-s-apartments
 address: "Rruga Shkëmbi, Kavajë, Albania, Durrës, Albania"

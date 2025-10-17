@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Laura con vista Lungomare"
 description: "Appartamento Laura con vista Lungomare stands as a prime beachfront gem in Vlorë, offering guests the unique opportunity to wake up just 400 meters from the pristine Vlore Beach and a short stroll from the serene Vjetër Beach."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14Gjp4k7JU4ZRLsm6O70vHfIBGJLRN3-Ot4kXf7Cl=s96-c64"
+featuredImage: "/images/accommodation/appartamento-laura-con-vista-lungomare-AOh14Gjp4k7J.jpg"
 language: en
 slug: appartamento-laura-con-vista-lungomare
 address: "Vlore - Kanine, Vlorë, Albania"

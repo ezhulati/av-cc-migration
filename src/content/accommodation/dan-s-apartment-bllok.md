@@ -1,7 +1,7 @@
 ---
 title: "DAN's Apartment BLLOK"
 description: "DAN's Apartment BLLOK emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490604581.jpg?k=efd8b94b270f8ff160b56a270240606bf8033fd8b36331ea25b41294b27c15bf&o=&hp=1"
+featuredImage: "/images/accommodation/dan-s-apartment-bllok-490604581.jpg"
 language: en
 slug: dan-s-apartment-bllok
 address: "Rruga Abdyl Frashëri, 1001 Tirana, Albania"

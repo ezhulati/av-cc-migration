@@ -1,7 +1,7 @@
 ---
 title: "Vila Paza"
 description: "Vila Paza emerges as a serene oasis in Sarandë, boasting a lush garden and an inviting terrace for guests seeking tranquility and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296710472.jpg?k=01db7b7c88be20f974876fdc3d37b7c85cf811e05c87072e913da9b97c9b7988&o=&hp=1"
+featuredImage: "/images/accommodation/vila-paza-296710472.jpg"
 language: en
 slug: vila-paza
 address: "SH81, 9704 Sarandë, Albania"

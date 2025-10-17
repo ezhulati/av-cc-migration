@@ -1,7 +1,7 @@
 ---
 title: "mk hotel tirana"
 description: "MK Hotel Tirana emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modern amenities in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304390520.jpg?k=01b40b0c98a907a9387064bcd6db552245d86550fff4ca096b4bddd9863cba30&o=&hp=1"
+featuredImage: "/images/accommodation/mk-hotel-tirana-304390520.jpg"
 language: en
 slug: mk-hotel-tirana
 address: "Rinas Road Tirana Business Park, Core 2, Unit 1, 1000 Tirana, Albania"

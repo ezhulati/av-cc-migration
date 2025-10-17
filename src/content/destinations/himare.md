@@ -1,6 +1,6 @@
 ---
-title: "Discover Himarë - Albania"
-description: "Explore Himarë, a stunning coastal town on the Albanian Riviera. From sun-kissed beaches to rich cultural heritage, discover what makes Himarë a must-visit."
+title: "Himarë - Where Two Names Guard the Same Riviera Coastline"
+description: "Discover Himarë/Himara, the Albanian Riviera's most culturally complex town where Greek-speaking villagers, ancient castle fortifications, and contested identity meet turquoise Ionian coves beneath the Ceraunian Mountains."
 region: Southern Albania
 featuredImage: "/images/destinations/Himare.jpeg"
 images:
@@ -27,13 +27,14 @@ budgetRange: "€30-60/day"
 timeNeeded: "2-3 days"
 bestSeason: "May-Jun, Sep-Oct"
 highlights:
-  - Ancient Himarë Castle with Byzantine, Venetian, and Ottoman layers spanning millennia
-  - Livadhi and Filikuri beaches offering secluded coves beyond the main promenade
-  - Fresh Ionian seafood and local tavë kosi in family-run waterfront tavernas
-  - Porto Palermo Castle (Ali Pasha's fortress) on a dramatic coastal peninsula
-  - Traditional xhiro evening stroll along the waterfront promenade
+  - Ancient Himarë Castle with Chaonian, Byzantine, Venetian, and Ottoman archaeological layers
+  - Greek-speaking Himariote population maintaining distinct cultural identity within Albania
+  - Porto Palermo's triangular Ali Pasha fortress on a dramatic peninsula (1804-1807)
+  - Livadhi Beach and secluded coves stretching between Vlorë and Sarandë
+  - Traditional waterfront tavernas serving fresh Ionian seafood and local wine
 seo:
-  metaDescription: "Explore Himarë, a stunning coastal town on the Albanian Riviera. From sun-kissed beaches to rich cultural heritage, discover what makes Himarë a must-visit."
+  metaTitle: "Himarë Albania - Ancient Riviera Town & Beaches Guide | Cultural Identity"
+  metaDescription: "Explore Himarë/Himara on the Albanian Riviera - ancient castle, Greek-speaking villages, Porto Palermo fortress, and pristine Ionian beaches. Complete cultural and travel guide."
 ---
 ## Why Visit Himarë
 

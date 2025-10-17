@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment D18"
 description: "Lovely Apartment D18 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497334086.jpg?k=dbff224bae3131e2129c1941f40d2b5e173da4243a64c7947689bf9f179a698f&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-d18-497334086.jpg"
 language: en
 slug: lovely-apartment-d18
 address: "Rruga Jorgo Plaku, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunset Aparthotel"
 description: "Sunset Aparthotel emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489767536.jpg?k=7528fa82d0227a02b2f5a6e2713e69e8dc6531b5e5d0e609c835b901799eebb2&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-aparthotel-489767536.jpg"
 language: en
 slug: sunset-aparthotel
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

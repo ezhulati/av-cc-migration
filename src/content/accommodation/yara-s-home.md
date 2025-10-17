@@ -1,7 +1,7 @@
 ---
 title: "Yara’s Home"
 description: "Yara's Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490334989.jpg?k=ec5088036640dabfce4171f3aee7607afd1e0bfc6782e24524ff9140e9699f6d&o=&hp=1"
+featuredImage: "/images/accommodation/yara-s-home-490334989.jpg"
 language: en
 slug: yara-s-home
 address: "Rruga Beniamin Kruta, 1023 Tirana, Albania"

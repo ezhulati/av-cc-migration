@@ -1,7 +1,7 @@
 ---
 title: "Borsh Amantius Apartments"
 description: "Borsh Amantius Apartments in Himare stands out for its prime location, a mere 2."
-featuredImage: "https://graph.facebook.com/v2.9/10210140382130217/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/borsh-amantius-apartments-picture?type.jpg"
 language: en
 slug: borsh-amantius-apartments
 address: "Borsh, Himare, Himare, Albania"

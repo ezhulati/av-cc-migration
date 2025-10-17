@@ -1,7 +1,7 @@
 ---
 title: "BRAND NEW Luxurious seaside apartment"
 description: "Discover the epitome of seaside luxury at BRAND NEW Luxurious Seaside Apartment, a prime destination for travelers seeking an exceptional stay in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461056192.jpg?k=19d0ccdc25e54c86d70a222df41cf850de398318f915deb082130760fcab1ebf&o=&hp=1"
+featuredImage: "/images/accommodation/brand-new-luxurious-seaside-apartment-461056192.jpg"
 language: en
 slug: brand-new-luxurious-seaside-apartment
 address: "Rruga Agaveve, 2001 Durrës, Albania"

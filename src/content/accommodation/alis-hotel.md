@@ -1,7 +1,7 @@
 ---
 title: "Alis Hotel"
 description: "Alis Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314581423.jpg?k=923f18aa33e7367b68f42c3efbbc12f2b7abefc29b8633cb406be7f60a92ab08&o=&hp=1"
+featuredImage: "/images/accommodation/alis-hotel-314581423.jpg"
 language: en
 slug: alis-hotel
 address: "Rruga Don Bosko Perball Gjykates te Rrethit Shkoder, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Home Sweet Home Tirana"
 description: "Home Sweet Home Tirana emerges as a serene oasis in the heart of Tirana, located just a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484232660.jpg?k=d69856448cc3ff5aceb69a4071cd4e44229d1cadc2ba85ba8262f1a396eb8329&o=&hp=1"
+featuredImage: "/images/accommodation/home-sweet-home-tirana-484232660.jpg"
 language: en
 slug: home-sweet-home-tirana
 address: "Rruga Margarita Tutulani, 1001 Tirana, Albania"

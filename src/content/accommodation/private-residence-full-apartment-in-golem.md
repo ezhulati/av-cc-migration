@@ -1,7 +1,7 @@
 ---
 title: "Private Residence Full Apartment in Golem"
 description: "Private Residence Full Apartment in Golem emerges as a prime choice for travelers seeking a serene beachfront getaway, mere steps from the pristine sands of Golem Beach and a short stroll from the captivating Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379472239.jpg?k=3df42e5f024ac0e6ead60b2b77902c9d7d275b5801cc95a0e72ee5eabc657e80&o=&hp=1"
+featuredImage: "/images/accommodation/private-residence-full-apartment-in-golem-379472239.jpg"
 language: en
 slug: private-residence-full-apartment-in-golem
 address: "Rruga Roma, 1000 Golem, Albania"

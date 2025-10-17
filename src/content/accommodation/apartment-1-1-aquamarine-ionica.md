@@ -1,7 +1,7 @@
 ---
 title: "Apartment 1+1 Aquamarine Ionica"
 description: "Apartment 1+1 Aquamarine Ionica stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426473414.jpg?k=27c8267e15e8fb6391474b03f1870f237fda1d714e2e5884a67f4ab480fba4a0&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-1-1-aquamarine-ionica-426473414.jpg"
 language: en
 slug: apartment-1-1-aquamarine-ionica
 address: "Rruga Dhimitër Konomi 8, 9401 Vlorë, Albania"

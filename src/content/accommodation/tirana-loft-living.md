@@ -1,7 +1,7 @@
 ---
 title: "Tirana Loft Living"
 description: "Tirana Loft Living emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526219525.jpg?k=87e3632ece2c763dd810ca063001913cf3c14e94875b955f823f45514e91ecb1&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-loft-living-526219525.jpg"
 language: en
 slug: tirana-loft-living
 address: "Rruga Petro Nini Luarasi, 1001 Tirana, Albania"

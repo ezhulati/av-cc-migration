@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Sherifaj"
 description: "Bujtina Sherifaj emerges as a serene retreat in the heart of Valbonë, offering guests an enchanting escape with its lush garden, inviting terrace, and on-site restaurant."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151667540.jpg?k=5cd0bf817340b740f11a8bc7fa710f04fa6af27f9e23fe3835a68793af02a9a2&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-sherifaj-151667540.jpg"
 language: en
 slug: bujtina-sherifaj
 address: "Rruga Azem Hajdari Quki i Valbones, 9999 Valbonë, Albania"

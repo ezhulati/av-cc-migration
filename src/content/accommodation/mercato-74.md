@@ -1,7 +1,7 @@
 ---
 title: "Mercato 74"
 description: "Mercato 74 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514513560.jpg?k=7f5035670b2a2ff5d44a6eda4c936c9d40a812987d925b91a1f68cad03dd1671&o=&hp=1"
+featuredImage: "/images/accommodation/mercato-74-514513560.jpg"
 language: en
 slug: mercato-74
 address: "Rruga Profesor Halil Myrto, 2001 Durrës, Albania"

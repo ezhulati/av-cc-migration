@@ -1,7 +1,7 @@
 ---
 title: "Pashuta"
 description: "Pashuta stands out as a prime choice for travelers seeking a blend of comfort and convenience in Voskopojë, Korçë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210247753.jpg?k=32eb17769df84196119e116f68a602e40a7a606cefe798c1b401b61c76adef01&o=&hp=1"
+featuredImage: "/images/accommodation/pashuta-210247753.jpg"
 language: en
 slug: pashuta
 address: "Rruga e Vjeter e Karvaneve, Voskopojë, Albania, 7029 Voskopojë, Albania"

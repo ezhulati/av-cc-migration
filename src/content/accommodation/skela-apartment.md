@@ -1,7 +1,7 @@
 ---
 title: "Skela Apartment"
 description: "Skela Apartment emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425175807.jpg?k=3ac3ced872d3beab144d47759a27cf6e278f33285a17348470510dbd8182eead&o=&hp=1"
+featuredImage: "/images/accommodation/skela-apartment-425175807.jpg"
 language: en
 slug: skela-apartment
 address: "Lagja Pavaresua Skele, 9404 Vlorë, Albania"

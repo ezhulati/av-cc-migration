@@ -1,7 +1,7 @@
 ---
 title: "Sofra Kolonjare"
 description: "Sofra Kolonjare emerges as a distinguished 4-star retreat in Ersekë, boasting an impressive array of amenities including a serene garden, an inviting restaurant, and a welcoming bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498454482.jpg?k=41daf0b04d78220c23a1232c4fb69b981d419c6d74501400ca635e87ccd7cc0f&o=&hp=1"
+featuredImage: "/images/accommodation/sofra-kolonjare-498454482.jpg"
 language: en
 slug: sofra-kolonjare
 address: "Erseke, Korce, Albania, 7401 Ersekë, Albania"

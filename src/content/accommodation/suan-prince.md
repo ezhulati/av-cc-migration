@@ -1,7 +1,7 @@
 ---
 title: "Suan prince"
 description: "Suan Prince emerges as a standout choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467055787.jpg?k=7a9caaff66d5a0833f377febfed0140772ebda6c00876cdb7bcc264d54da88fc&o=&hp=1"
+featuredImage: "/images/accommodation/suan-prince-467055787.jpg"
 language: en
 slug: suan-prince
 address: "4 Rruga Lefter Talo, 0732 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely Sea View Apartment"
 description: "Lovely Sea View Apartment stands as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367509861.jpg?k=0131302f31589b735b00f268149790e5753c0a36c65446a09f7fd855e82474f7&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-sea-view-apartment-367509861.jpg"
 language: en
 slug: lovely-sea-view-apartment
 address: "Rr. Kosova, 9400 Vlorë, Albania"

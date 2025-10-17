@@ -1,7 +1,7 @@
 ---
 title: "Hotel Olsi"
 description: "Hotel Olsi stands as a beacon of comfort and convenience in the heart of Sarandë, offering guests an exceptional stay mere steps away from the pristine Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472526107.jpg?k=dab32f19d2bfa2cbf6f035ab183fb1eb1c192fd34e0b14e0eea22d69fde5400a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-olsi-472526107.jpg"
 language: en
 slug: hotel-olsi
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Sunlight Apartment"
 description: "Tirana Sunlight Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433614428.jpg?k=a42b44cd55bf5e66a31e623074c93aaeea268f8e6c7e6c237ce954a83b01aea2&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-sunlight-apartment-433614428.jpg"
 language: en
 slug: tirana-sunlight-apartment
 address: "Rruga Mahmut Fortuzi, 1001 Tirana, Albania"

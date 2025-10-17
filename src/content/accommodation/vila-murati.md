@@ -1,7 +1,7 @@
 ---
 title: "Vila Murati"
 description: "Vila Murati emerges as a modern oasis in the heart of Tirana, boasting a recent renovation that has breathed new life into its walls."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477685725.jpg?k=43e2f12c228b255f7930327d20b71bf57f86182d86356a6d6b23e18999590f6f&o=&hp=1"
+featuredImage: "/images/accommodation/vila-murati-477685725.jpg"
 language: en
 slug: vila-murati
 address: "Cheerfull Villa, 1000 Tirana, Albania"

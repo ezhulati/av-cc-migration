@@ -1,7 +1,7 @@
 ---
 title: "Hidden Gem Tirana"
 description: "Hidden Gem Tirana emerges as a standout choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129368905.jpg?k=891d57693433ddcc373b40c8c6b677389b5fa4d39f8e08b3418e8547217282df&o=&hp=1"
+featuredImage: "/images/accommodation/hidden-gem-tirana-129368905.jpg"
 language: en
 slug: hidden-gem-tirana
 address: "Bulevardi Bajram Curri, Pallati Aviacioni i Ri, Hyrja 29, Apartamenti 8, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Amantia Vlore- Sea View Apartments"
 description: "Villa Amantia Vlore - Sea View Apartments emerges as a prime choice for travelers seeking a serene getaway in Vlorë, perfectly positioned just a stone's throw away from both Ri Beach and the Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406640403.jpg?k=ecad946523f9d9ca0518cc180773286630b2016cb6974acbd009b89ed7ee5669&o=&hp=1"
+featuredImage: "/images/accommodation/villa-amantia-vlore-sea-view-apartments-406640403.jpg"
 language: en
 slug: villa-amantia-vlore-sea-view-apartments
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

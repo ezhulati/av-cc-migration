@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartments-LUXURY City View at Wilson Square"
 description: "Miku Apartments-LUXURY City View at Wilson Square emerges as a serene oasis amidst the vibrant cityscape, offering a tranquil retreat with its quiet street views, just a stone's throw away from the heart of the action."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245990454.jpg?k=db94d7ab437ca6e071e2e1e7f515855f41328d00b17dacb1bc589fcda9d4d572&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartments-luxury-city-view-at-wilson-square-245990454.jpg"
 language: en
 slug: miku-apartments-luxury-city-view-at-wilson-square
 address: "Rruga Ymer Kurti, 1001 Tirana, Albania"

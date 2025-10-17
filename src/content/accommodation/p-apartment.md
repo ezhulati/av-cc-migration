@@ -1,7 +1,7 @@
 ---
 title: "P-Apartment"
 description: "P-Apartment in Sarandë emerges as a prime choice for travelers seeking both comfort and convenience, located merely 600 meters from the bustling Sarande Main Beach and a short distance from the serene Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217257000.jpg?k=c38e9f9738fd0d84ed9746ea5a35abb75e05b59d47c2a939f2fe71f593b22d18&o=&hp=1"
+featuredImage: "/images/accommodation/p-apartment-217257000.jpg"
 language: en
 slug: p-apartment
 address: "Rruga Themistokli Bahima, Nr. 17 Lagjia Nr. 4, Sarande, 9700 Sarandë, Albania"

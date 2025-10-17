@@ -1,7 +1,7 @@
 ---
 title: "Lungomare beachhouse"
 description: "Lungomare Beachhouse emerges as a prime choice for travelers seeking a serene seaside escape, boasting breathtaking sea views and a prime location just a stone's throw away from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438244377.jpg?k=25f6e104acfe9fb4531ce45be3f190d892565ce14e44ddb4df08f7859c9e5f5d&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-beachhouse-438244377.jpg"
 language: en
 slug: lungomare-beachhouse
 address: "Rruga Dhimitër Konomi 413, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The Panoramic Villa"
 description: "The Panoramic Villa emerges as a premier choice for travelers seeking a blend of comfort and convenience in Shirokë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474746282.jpg?k=3be80008388674c29d8e1f635a81c6170c19acde2e18e496904fef21604020ce&o=&hp=1"
+featuredImage: "/images/accommodation/the-panoramic-villa-474746282.jpg"
 language: en
 slug: the-panoramic-villa
 address: "Rruga e Selvijave, 4001 Shirokë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Amarilis Luxury Apartments"
 description: "Amarilis Luxury Apartments stands out as a prime choice for travelers seeking comfort and convenience in Saranda."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477442042.jpg?k=9d22f85694ff204a0d3b1ed1b066705ef3a5b9da765c1d16f256206a7a1d7ce0&o=&hp=1"
+featuredImage: "/images/accommodation/amarilis-luxury-apartments-477442042.jpg"
 language: en
 slug: amarilis-luxury-apartments
 address: "Rruga Telat Noga, 9703 Sarandë, Albania"

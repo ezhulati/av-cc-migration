@@ -1,7 +1,7 @@
 ---
 title: "Luxury Rent Apartment 4"
 description: "Luxury Rent Apartment 4 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498004827.jpg?k=60563f838550143cdba55043823f135ba473b89bc1a6936a7f7627d8fe24f489&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-rent-apartment-4-498004827.jpg"
 language: en
 slug: luxury-rent-apartment-4
 address: "Rruga e Dibrës 9, Tirana, Albania"

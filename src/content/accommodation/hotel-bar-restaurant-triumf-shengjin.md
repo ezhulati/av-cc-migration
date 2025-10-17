@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bar Restaurant Triumf Shengjin"
 description: "Hotel Bar Restaurant Triumf Shengjin emerges as a distinguished choice for travelers seeking a blend of comfort and convenience on their visit to Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387896979.jpg?k=f4b31a54dfac387f79112d7e363a00d9cd5abba58752f7eb34f3a0324a98ad5c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bar-restaurant-triumf-shengjin-387896979.jpg"
 language: en
 slug: hotel-bar-restaurant-triumf-shengjin
 address: "Rruga Shëngjin - Kune Lagjia Fran Ivanaj, 4503 Shëngjin, Albania"

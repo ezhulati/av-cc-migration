@@ -1,7 +1,7 @@
 ---
 title: "Hotel Oresti Center"
 description: "Discover the charm of Hotel Oresti Center, a gem located in the heart of Tirana, merely steps away from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124634016.jpg?k=ed209d5591f3611ecabca9960ef228f2f68553b5dfafd4589508090fc2ddb9ae&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-oresti-center-124634016.jpg"
 language: en
 slug: hotel-oresti-center
 address: "Str. BARDHOK BIBA ,12 TIRANA, 1000 Tirana, Albania"

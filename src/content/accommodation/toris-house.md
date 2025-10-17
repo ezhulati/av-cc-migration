@@ -1,7 +1,7 @@
 ---
 title: "Toris House"
 description: "Toris House emerges as a charming holiday home in Ksamil, offering a serene garden and a welcoming terrace for guests seeking a tranquil retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151024058.jpg?k=2714784c07d1a56b508e9d3d72491707a3ae250f531b8ead716cdd63130be79f&o=&hp=1"
+featuredImage: "/images/accommodation/toris-house-151024058.jpg"
 language: en
 slug: toris-house
 address: "iliria 1, 9706 Ksamil, Albania"

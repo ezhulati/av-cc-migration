@@ -1,7 +1,7 @@
 ---
 title: "Hotel Infinity"
 description: "Hotel Infinity stands out as a prime choice for travelers seeking comfort and convenience mere steps away from Ylberi Beach in Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489340524.jpg?k=edaac0792406ad98fb691a311c909c53ccc175ca3d161d433e0303d97a79a33a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-infinity-489340524.jpg"
 language: en
 slug: hotel-infinity
 address: "Shëngjin - Kune, Lezhë, Albania"

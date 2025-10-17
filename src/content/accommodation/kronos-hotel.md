@@ -1,7 +1,7 @@
 ---
 title: "Kronos Hotel"
 description: "Kronos Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491715379.jpg?k=4fe81db9e03afc1f143d9060c2a1ef238c7723791d10f10552aaf75b557919f2&o=&hp=1"
+featuredImage: "/images/accommodation/kronos-hotel-491715379.jpg"
 language: en
 slug: kronos-hotel
 address: "Ambulanca Koxhas, Shijak Maminas, 1001 Durrës, Albania"

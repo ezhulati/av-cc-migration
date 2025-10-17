@@ -1,7 +1,7 @@
 ---
 title: "The Blacksmith's Suite"
 description: "The Blacksmith's Suite emerges as a serene oasis in Shkodër, located conveniently within 50 km of the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148696533.jpg?k=f68c2b2204394c1dda571ac533afede6781f8e94ec074601d1468a1c8d2c41d7&o=&hp=1"
+featuredImage: "/images/accommodation/the-blacksmith-s-suite-148696533.jpg"
 language: en
 slug: the-blacksmith-s-suite
 address: "Rruga Shtjefen Gjecovi Nr. 36, 4001 Shkodër, Albania"

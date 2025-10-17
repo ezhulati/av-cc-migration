@@ -1,7 +1,7 @@
 ---
 title: "Sarah appartamento"
 description: "Sarah Appartamento emerges as a distinguished choice for travelers seeking a blend of comfort, convenience, and captivating city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377362184.jpg?k=77a3fc00a81fc345d04b74ac79b844ab14ae828f76e020656682120968289dd1&o=&hp=1"
+featuredImage: "/images/accommodation/sarah-appartamento-377362184.jpg"
 language: en
 slug: sarah-appartamento
 address: "Rruga Dhimitër Konomi, 2400 Vlorë, Albania"

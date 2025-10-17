@@ -1,7 +1,7 @@
 ---
 title: "Apartment Panorama"
 description: "Apartment Panorama presents a serene retreat in Sarandë, boasting breathtaking mountain vistas and an enviable location just a stone's throw from Saranda City Beach and a leisurely stroll from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190202818.jpg?k=f67636c398d34b4398e21bb0775542c90de6dfeb271a7b15fadf8ff15578583c&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-panorama-190202818.jpg"
 language: en
 slug: apartment-panorama
 address: "Rruga Gjergj Araniti 5th floor / apt 17, 9701 Sarandë, Albania"

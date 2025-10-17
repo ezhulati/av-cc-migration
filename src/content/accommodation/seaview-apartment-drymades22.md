@@ -1,7 +1,7 @@
 ---
 title: "Seaview Apartment Drymades22"
 description: "Seaview Apartment Drymades22 emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, merely a stone's throw away from the pristine Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486790157.jpg?k=e0d6b4551061432fa2f1dedd50c010b7684daed6d5fc405b04530dee0718c71f&o=&hp=1"
+featuredImage: "/images/accommodation/seaview-apartment-drymades22-486790157.jpg"
 language: en
 slug: seaview-apartment-drymades22
 address: "Rruga Perivolo, 9422 Himare, Albania"

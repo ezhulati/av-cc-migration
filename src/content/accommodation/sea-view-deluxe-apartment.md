@@ -1,7 +1,7 @@
 ---
 title: "Sea View Deluxe Apartment"
 description: "Sea View Deluxe Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405585853.jpg?k=8fe3b2a8db248b212fb496972834ac5930a21477cef0f92d0e483e62582b793d&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-deluxe-apartment-405585853.jpg"
 language: en
 slug: sea-view-deluxe-apartment
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

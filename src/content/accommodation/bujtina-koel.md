@@ -1,7 +1,7 @@
 ---
 title: "Bujtina KOEL"
 description: "Bujtina KOEL emerges as a serene retreat in the historic heart of Gjirokastër, a mere 47 km from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525195003.jpg?k=d4ad66b9a81fab8b4e8c6d84fa9fe57b0105613f4a1215222bd7c9f38a19dd69&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-koel-525195003.jpg"
 language: en
 slug: bujtina-koel
 address: "3892+QGH Labovë e Sipërme, 6003 Gjirokastër, Albania"

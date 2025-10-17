@@ -1,7 +1,7 @@
 ---
 title: "Aqua Holiday Apartments"
 description: "Aqua Holiday Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310914439.jpg?k=01b5bf76754725817a87d479d2754dacc9834c1f4b8f1fa12cebc14433c32d52&o=&hp=1"
+featuredImage: "/images/accommodation/aqua-holiday-apartments-310914439.jpg"
 language: en
 slug: aqua-holiday-apartments
 address: "Rr. Aleksander Moisiu, 9401 Vlorë, Albania"

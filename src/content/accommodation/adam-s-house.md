@@ -1,7 +1,7 @@
 ---
 title: "Adam's House"
 description: "Adam's House emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521770316.jpg?k=f75353f8b5f20a7292616f8f3e41d9e81a1939553da294df24cae152bf0a5484&o=&hp=1"
+featuredImage: "/images/accommodation/adam-s-house-521770316.jpg"
 language: en
 slug: adam-s-house
 address: "Rruga Jan Kukuzeli, 1001 Tirana, Albania"

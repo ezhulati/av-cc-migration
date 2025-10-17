@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ajka"
 description: "Hotel Ajka stands as a charming retreat in the heart of Berat, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142962138.jpg?k=3fc25158ce44dc26b9ce941db0206c5902ae2b5b31b2988397cfb069a18edbd9&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-ajka-142962138.jpg"
 language: en
 slug: hotel-ajka
 address: "Lagjia Gorice, Rruga Kristaq Tutulani, 5001 Berat, Albania"

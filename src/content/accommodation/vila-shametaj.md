@@ -1,7 +1,7 @@
 ---
 title: "VILA SHAMETAJ"
 description: "VILA SHAMETAJ emerges as a gem in Gjirokastër, boasting a recent renovation that has breathed new life into its accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383131005.jpg?k=a462d0d4645d3ab6baa20c1f9f0b03219f18aa7278b8184727147688ab811e9f&o=&hp=1"
+featuredImage: "/images/accommodation/vila-shametaj-383131005.jpg"
 language: en
 slug: vila-shametaj
 address: "Rruga SABRI SHAMETAJ,ANTIGONE, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "BEQIRI APARTMENT"
 description: "BEQIRI APARTMENT, situated in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, presents a serene retreat with its air-conditioned accommodations that boast both mountain and garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522063121.jpg?k=cf272e590f500c8b096f0d8d09926cbbc991bad394d61a9b87c78c438c3eafd2&o=&hp=1"
+featuredImage: "/images/accommodation/beqiri-apartment-522063121.jpg"
 language: en
 slug: beqiri-apartment
 address: "Rruga Martin Camaj, 4001 Shkodër, Albania"

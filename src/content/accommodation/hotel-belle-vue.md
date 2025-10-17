@@ -1,7 +1,7 @@
 ---
 title: "Hotel Belle Vue"
 description: "Hotel Belle Vue emerges as a serene oasis for travelers seeking a tranquil retreat in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485523087.jpg?k=e5f150411c8429256761174ed142db19e3e13588d412da7b4de2a94c91f83617&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-belle-vue-485523087.jpg"
 language: en
 slug: hotel-belle-vue
 address: "SH81, 9706 Ksamil, Albania"

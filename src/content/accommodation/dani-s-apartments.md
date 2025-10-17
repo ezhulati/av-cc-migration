@@ -1,7 +1,7 @@
 ---
 title: "Dani's Apartments"
 description: "Dani's Apartments stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, just a stone's throw away from the pristine Maestral Beach."
-featuredImage: "https://graph.facebook.com/v2.9/2653375821659412/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/dani-s-apartments-picture?type.jpg"
 language: en
 slug: dani-s-apartments
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

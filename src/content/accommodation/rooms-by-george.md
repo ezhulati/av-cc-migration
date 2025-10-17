@@ -1,7 +1,7 @@
 ---
 title: "Rooms by George"
 description: "Discover the charm of Dhërmi with a stay at Rooms by George, a serene retreat located just a stone's throw away from the pristine Dhermi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482234438.jpg?k=17e25e5d630b1e28aa13f2cf7c82b11bcf3f1203de3cc7ca70225126fe824a71&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-by-george-482234438.jpg"
 language: en
 slug: rooms-by-george
 address: "Dhermi Kontraqe, 9425 Dhërmi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Broci Apartment"
 description: "Broci Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479292723.jpg?k=e4c946fff0f54107054ae6dc20af400a352bb9355b67ac9096d68fa2d4c3f8db&o=&hp=1"
+featuredImage: "/images/accommodation/broci-apartment-479292723.jpg"
 language: en
 slug: broci-apartment
 address: "Bulevardi Zogu I, 1001 Tirana, Albania"

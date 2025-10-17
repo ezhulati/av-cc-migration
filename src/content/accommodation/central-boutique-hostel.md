@@ -1,7 +1,7 @@
 ---
 title: "Central Boutique Hostel"
 description: "Central Boutique Hostel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467001120.jpg?k=8bb4af255df99633521244f591e5e5c7059a925c5e2232d87e136be9a849e1fa&o=&hp=1"
+featuredImage: "/images/accommodation/central-boutique-hostel-467001120.jpg"
 language: en
 slug: central-boutique-hostel
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

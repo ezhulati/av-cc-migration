@@ -1,7 +1,7 @@
 ---
 title: "Villa Ceni"
 description: "Villa Ceni emerges as a serene oasis in Elbasan, offering guests a unique blend of comfort and convenience with its prime location and well-appointed amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406050293.jpg?k=6a95bef06978c5c8473f20b135055dcc98f63d8209562ae4b73f55891942a4f6&o=&hp=1"
+featuredImage: "/images/accommodation/villa-ceni-406050293.jpg"
 language: en
 slug: villa-ceni
 address: "Rruga Kadri Hoxha, 3001 Elbasan, Albania"

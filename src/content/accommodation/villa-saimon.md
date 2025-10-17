@@ -1,7 +1,7 @@
 ---
 title: "Villa Saimon"
 description: "Villa Saimon emerges as a serene oasis, offering a unique blend of comfort and convenience, just a stone's throw away from the vibrant Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486670203.jpg?k=c4a1ef747e9a039da6ecf8b2bbb28bab7d58ef3a28098a263f79a19c5ad7c451&o=&hp=1"
+featuredImage: "/images/accommodation/villa-saimon-486670203.jpg"
 language: en
 slug: villa-saimon
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

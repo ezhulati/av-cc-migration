@@ -1,7 +1,7 @@
 ---
 title: "Bungaja Chalets"
 description: "Bungaja Chalets emerges as a serene retreat in Shkodër, a mere 7."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481393734.jpg?k=42a7d7a098ae91bfb95e4e1175f8ee38aae2fdae4df296b31db59d589395e27e&o=&hp=1"
+featuredImage: "/images/accommodation/bungaja-chalets-481393734.jpg"
 language: en
 slug: bungaja-chalets
 address: "Rruga e Thethit, Nderlyse, Theth, Shkoder, 4009 Shkodër, Albania"

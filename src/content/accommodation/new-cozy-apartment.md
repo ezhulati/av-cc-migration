@@ -1,7 +1,7 @@
 ---
 title: "New cozy apartment"
 description: "Discover the charm of Tirana with a stay at the New Cozy Apartment, a modern retreat that promises comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352731035.jpg?k=007ffad9b1f6a94cd6fe2b2ff7e8d9795bf63aaa23447b7b4d8154930cbcb057&o=&hp=1"
+featuredImage: "/images/accommodation/new-cozy-apartment-352731035.jpg"
 language: en
 slug: new-cozy-apartment
 address: "Rruga Sali Nivica, Tirana, Albania"

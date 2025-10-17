@@ -1,7 +1,7 @@
 ---
 title: "Star Hotel Saranda"
 description: "Star Hotel Saranda emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289577455.jpg?k=928f1349da19ac08e7bcd91ad30ae06b5427efab4567acab021905d497510367&o=&hp=1"
+featuredImage: "/images/accommodation/star-hotel-saranda-289577455.jpg"
 language: en
 slug: star-hotel-saranda
 address: "Rruga Lefter Talo., 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Xani"
 description: "Villa Xani emerges as a prime choice for travelers seeking a serene getaway in Himare, just a stone's throw away from the pristine Spille Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301183404.jpg?k=aefc686bb0ad0df90bc57879d7f3a3faec795d765315ed516d95a6be740d7e6b&o=&hp=1"
+featuredImage: "/images/accommodation/villa-xani-301183404.jpg"
 language: en
 slug: villa-xani
 address: "Rruga Himarë, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Beliz"
 description: "Villa Beliz emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508700843.jpg?k=c2c896cf35825ae1a95e6a069b3a9f480b6861a97e2fa07eb4012b0b66431cd9&o=&hp=1"
+featuredImage: "/images/accommodation/villa-beliz-508700843.jpg"
 language: en
 slug: villa-beliz
 address: "Rruga Memo Meto Building no.9, 1001 Tirana, Albania"

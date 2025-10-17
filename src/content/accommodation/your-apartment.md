@@ -1,7 +1,7 @@
 ---
 title: "Your Apartment"
 description: "Your Apartment in Pogradec emerges as a prime choice for travelers seeking both comfort and convenience, located just a stone's throw away from the enchanting Bay of Bones and within easy reach of the Early Christian Basilica."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
+featuredImage: "/images/accommodation/your-apartment-b56c632712cb.jpg"
 language: en
 slug: your-apartment
 address: "Rruga Gani Butka, 7301 Pogradec, Albania"

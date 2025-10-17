@@ -1,7 +1,7 @@
 ---
 title: "Eden Tiranë"
 description: "Eden Tiranë emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491107493.jpg?k=373b386df450b4a60b411555093fe2055dfa375c03af5398cc1800632c5a0bb6&o=&hp=1"
+featuredImage: "/images/accommodation/eden-tiran-491107493.jpg"
 language: en
 slug: eden-tiran
 address: "Rruga Kasem Shima,Pallati Marsi 4,Ap.24. TIRANË, 3001 Tirana, Albania"

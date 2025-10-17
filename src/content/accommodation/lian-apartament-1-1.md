@@ -1,7 +1,7 @@
 ---
 title: "Lian Apartament 1+1"
 description: "Lian Apartment 1+1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377769114.jpg?k=72d7f667592d4286da317a26cf115b7f70ae340bcc2882a699ea62f422cb9b23&o=&hp=1"
+featuredImage: "/images/accommodation/lian-apartament-1-1-377769114.jpg"
 language: en
 slug: lian-apartament-1-1
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

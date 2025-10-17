@@ -1,7 +1,7 @@
 ---
 title: "Elinas apartment with amazing sea view from 2 BALCONIES!!!"
 description: "Elinas Apartment stands as a prime beachfront gem in Sarandë, boasting breathtaking sea views from not one, but two balconies."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/263035685.webp?k=6d9a695d071319fa5c58343fbf9df725466879b6826038a908c75c6cd7f8f0ba&o=?t=1692878073"
+featuredImage: "/images/accommodation/elinas-apartment-with-amazing-sea-view-from-2-balconies-263035685.we.jpg"
 language: en
 slug: elinas-apartment-with-amazing-sea-view-from-2-balconies
 address: "Rruga Ismail Qemali, Sarandë, Albania"

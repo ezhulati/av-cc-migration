@@ -1,7 +1,7 @@
 ---
 title: "Apartment Kune, Shëngjin 3"
 description: "Apartment Kune, Shëngjin 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473875892.jpg?k=8fd59299a00f0b780b4703b19c1388fa26cfa0bd621f210e80e48d41617a38f5&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-kune-sh-ngjin-3-473875892.jpg"
 language: en
 slug: apartment-kune-sh-ngjin-3
 address: "Shëngjin - Kune, 4503 Shëngjin, Albania"

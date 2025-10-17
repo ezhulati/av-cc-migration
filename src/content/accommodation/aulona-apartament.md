@@ -1,7 +1,7 @@
 ---
 title: "Aulona Apartament"
 description: "Aulona Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a short stroll from Ri Beach and within easy reach of Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504014588.jpg?k=8311d544567b0f4a8cf8afa10f2a0048ed6dc4d89274d14a10895777a5cce5de&o=&hp=1"
+featuredImage: "/images/accommodation/aulona-apartament-504014588.jpg"
 language: en
 slug: aulona-apartament
 address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

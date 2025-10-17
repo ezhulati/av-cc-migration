@@ -1,7 +1,7 @@
 ---
 title: "Brayan guest house"
 description: "Brayan Guest House emerges as a prime choice for travelers seeking a serene retreat close to Pogradec, offering a blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488440737.jpg?k=35e8ab569e58ccdb582be56e8da617e6f55ef5cbc659bd8712afdde2a99f952a&o=&hp=1"
+featuredImage: "/images/accommodation/brayan-guest-house-488440737.jpg"
 language: en
 slug: brayan-guest-house
 address: "Rruga Pjeter Bogdani, Pogradec, Albania"

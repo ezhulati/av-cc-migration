@@ -1,7 +1,7 @@
 ---
 title: "Vila Park Hotel 1"
 description: "Vila Park Hotel 1 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137282800.jpg?k=518b17713525ffee5e0e6633982b69187c9d363ddfe4142fd798e9d36f0d8399&o=&hp=1"
+featuredImage: "/images/accommodation/vila-park-hotel-1-137282800.jpg"
 language: en
 slug: vila-park-hotel-1
 address: "Rruga e Elbasanit , Nr. 125 Tirana, 1011 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kulla Relax"
 description: "Kulla Relax emerges as a prime choice for travelers seeking comfortable accommodations in Elbasan."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361138423.jpg?k=488ab353fcb2def942b5a0c5fcc6edc469f9506634b011e8b1019600a91927b4&o=&hp=1"
+featuredImage: "/images/accommodation/kulla-relax-361138423.jpg"
 language: en
 slug: kulla-relax
 address: "Gjinar, 3001 Elbasan, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Elite Apartments"
 description: "Elite Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273324139.jpg?k=ce574fa3f82372c5b621b9f8bf7233103c3a70a79e73dd1788887f1d226d3a77&o=&hp=1"
+featuredImage: "/images/accommodation/elite-apartments-273324139.jpg"
 language: en
 slug: elite-apartments
 address: "Lura 3 Resort Gjiri i Lalzit, 2001 Durrës, Albania"

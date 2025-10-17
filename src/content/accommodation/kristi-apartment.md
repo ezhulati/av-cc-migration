@@ -1,7 +1,7 @@
 ---
 title: "Kristi apartment"
 description: "Kristi Apartment emerges as a serene retreat offering picturesque garden views, located just a short distance from the vibrant heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364961547.jpg?k=f7a9273c53bb8247bc71c113fecacb4e3496cbefdec3b7bb968faab82a996aa9&o=&hp=1"
+featuredImage: "/images/accommodation/kristi-apartment-364961547.jpg"
 language: en
 slug: kristi-apartment
 address: "Rruga Pjetër Bogdani, 1001 Tirana, Albania"

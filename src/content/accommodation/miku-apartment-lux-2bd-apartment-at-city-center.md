@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment - LUX 2Bd Apartment At City Center"
 description: "Miku Apartment shines as a beacon of comfort and convenience in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330076917.jpg?k=86232896ecf4eff3e2b8d99f5254eced7ce10c4bb120baa6f772e634a3af7b8f&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-lux-2bd-apartment-at-city-center-330076917.jpg"
 language: en
 slug: miku-apartment-lux-2bd-apartment-at-city-center
 address: "Zenel Babaoci, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "first floor ap for rent 1+1"
 description: "Discover the charm of Korçë with a stay at the First Floor Apartment 1+1, a prime accommodation choice offering serene inner courtyard views."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/first-floor-ap-for-rent-1-1-f69a0f45af41.jpg"
 language: en
 slug: first-floor-ap-for-rent-1-1
 address: "Rruga Viktor Eftimiu a/1, 7001 Korçë, Albania"

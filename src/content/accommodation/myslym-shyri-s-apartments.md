@@ -1,7 +1,7 @@
 ---
 title: "Myslym Shyri's Apartments"
 description: "Myslym Shyri's Apartments emerges as a prime choice for travelers seeking the heart of Tirana's vibrant city life."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469797622.jpg?k=2d219560f8befa510e4a1ae7ae970304567c3e546d69173290468412b8502bf5&o=&hp=1"
+featuredImage: "/images/accommodation/myslym-shyri-s-apartments-469797622.jpg"
 language: en
 slug: myslym-shyri-s-apartments
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

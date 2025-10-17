@@ -1,7 +1,7 @@
 ---
 title: "Koroni Boutique Hotel"
 description: "Koroni Boutique Hotel stands out as a modern oasis in the historic heart of Berat, providing guests with a seamless blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494050131.jpg?k=4f952817c404827d2b75f2e6c8a523d538e7aae6622ffdc19352e898bf50163b&o=&hp=1"
+featuredImage: "/images/accommodation/koroni-boutique-hotel-494050131.jpg"
 language: en
 slug: koroni-boutique-hotel
 address: "Rruga e Goricës, 5001 Berat, Albania"

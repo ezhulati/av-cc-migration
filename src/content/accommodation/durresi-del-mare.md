@@ -1,7 +1,7 @@
 ---
 title: "Durresi Del Mare"
 description: "Durresi Del Mare emerges as a prime choice for travelers seeking comfort and convenience in Durrës, positioned just a breath away from the serene Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477585844.jpg?k=35a9b470edd90d39b4a1071392d4e1515b2d8731ba384ff28bc676aacc7e7f05&o=&hp=1"
+featuredImage: "/images/accommodation/durresi-del-mare-477585844.jpg"
 language: en
 slug: durresi-del-mare
 address: "Rruga Taulantia, 2001 Durrës, Albania"

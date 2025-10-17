@@ -1,7 +1,7 @@
 ---
 title: "Vila Mario Himare"
 description: "Vila Mario Himare emerges as a prime choice for travelers seeking a serene getaway, strategically positioned within a short distance from the pristine shores of Prinos Beach and Maracit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416575929.jpg?k=18fd727939ab019d5d4dffaa08c767fdaec81ec4fafa121daa863e18882b6964&o=&hp=1"
+featuredImage: "/images/accommodation/vila-mario-himare-416575929.jpg"
 language: en
 slug: vila-mario-himare
 address: "Himare, 9425 Himare, Albania"

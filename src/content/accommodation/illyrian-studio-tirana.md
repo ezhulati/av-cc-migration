@@ -1,7 +1,7 @@
 ---
 title: "Illyrian studio Tirana"
 description: "Illyrian Studio Tirana emerges as a serene retreat for travelers seeking the perfect blend of convenience and comfort in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513659966.jpg?k=03784ee8335af5475b22d7a635811899ada828efc42d953d6ccadaf98e5e1555&o=&hp=1"
+featuredImage: "/images/accommodation/illyrian-studio-tirana-513659966.jpg"
 language: en
 slug: illyrian-studio-tirana
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

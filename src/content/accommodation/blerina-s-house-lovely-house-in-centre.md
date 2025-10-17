@@ -1,7 +1,7 @@
 ---
 title: "Blerina's house (lovely house in centre)"
 description: "Blerina's House stands out as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382907763.jpg?k=1db93383a0acd658864c8f744a8958ff2ce3ec14466c94925b101f5a1d545419&o=&hp=1"
+featuredImage: "/images/accommodation/blerina-s-house-lovely-house-in-centre-382907763.jpg"
 language: en
 slug: blerina-s-house-lovely-house-in-centre
 address: "Rruga Fejzo Mehmeti, 2751 Sarandë, Albania"

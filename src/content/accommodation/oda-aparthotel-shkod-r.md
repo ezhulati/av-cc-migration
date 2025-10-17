@@ -1,7 +1,7 @@
 ---
 title: "ODA Aparthotel Shkodër"
 description: "ODA Aparthotel Shkodër emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257816916.jpg?k=bf4d6ff52bcba3650ac7894c91f903e25110a4ce2cb0616e0c13c76d457cd59f&o=&hp=1"
+featuredImage: "/images/accommodation/oda-aparthotel-shkod-r-257816916.jpg"
 language: en
 slug: oda-aparthotel-shkod-r
 address: "Rruga Studenti, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest House Bumbli"
 description: "Discover the charm of Berat with a stay at Guest House Bumbli, a serene retreat that boasts both lake and city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364568234.jpg?k=36cdebe75f89a74a489f491fb0c2611b18f94e0eff9167d1ec4cf7e0a7d33ba6&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-bumbli-364568234.jpg"
 language: en
 slug: guest-house-bumbli
 address: "Rruga Veri Zaloshnja, 5001 Berat, Albania"

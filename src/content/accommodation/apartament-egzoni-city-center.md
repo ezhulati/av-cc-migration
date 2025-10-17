@@ -1,7 +1,7 @@
 ---
 title: "Apartament Egzoni City Center"
 description: "Apartament Egzoni City Center emerges as a prime choice for travelers seeking comfort and convenience in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464967977.jpg?k=1b545c3ac344489d165a768560679764b205336502564126b0d1ccd305e9a849&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-egzoni-city-center-464967977.jpg"
 language: en
 slug: apartament-egzoni-city-center
 address: "Rruga Koli Vesho Apartament , 7 floor, 5001 Berat, Albania"

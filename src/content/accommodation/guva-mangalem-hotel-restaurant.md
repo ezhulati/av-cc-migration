@@ -1,7 +1,7 @@
 ---
 title: "Guva Mangalem Hotel Restaurant"
 description: "Guva Mangalem Hotel Restaurant stands out as a prime choice for travelers seeking a blend of comfort and local flavor in their accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453640584.jpg?k=8f0c90d567c37a5065a3507a39d239d99f192196fcaecb10c85ca51001192a94&o=&hp=1"
+featuredImage: "/images/accommodation/guva-mangalem-hotel-restaurant-453640584.jpg"
 language: en
 slug: guva-mangalem-hotel-restaurant
 address: "L. Mangalem, 5001 Berat, Albania"

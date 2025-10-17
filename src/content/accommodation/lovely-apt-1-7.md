@@ -1,7 +1,7 @@
 ---
 title: "Lovely apt.1-7"
 description: "Discover the charm of Tirana with a stay at Lovely apt."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452160855.jpg?k=e02be98c56a0d850830f97d592097d7810411670e0d341db2a00cdead30c704e&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apt-1-7-452160855.jpg"
 language: en
 slug: lovely-apt-1-7
 address: "Rruga Gani Strazimiri, 1012 Tirana, Albania"

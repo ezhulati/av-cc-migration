@@ -1,7 +1,7 @@
 ---
 title: "Rooms for rent Gezim Ismailaj"
 description: "Discover the charm of Mbrakull with a stay at the recently updated Rooms for Rent Gezim Ismailaj, a guest house that boasts a serene garden setting."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492726587.jpg?k=1a72be117686a6193dae9afce4c052c5783c5410c5bec58eecff21dea883bcfd&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-for-rent-gezim-ismailaj-492726587.jpg"
 language: en
 slug: rooms-for-rent-gezim-ismailaj
 address: "Rruga Polican Mbrakull, 5016 Mbrakull, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Edea's Apartment"
 description: "Edea's Apartment offers a refreshing stay in the heart of Korçë, providing guests with a comfortable, air-conditioned retreat complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/edea-s-apartment-d3882ab9674d.jpg"
 language: en
 slug: edea-s-apartment
 address: "Rruga 1 Maji, 7001 Korçë, Albania"

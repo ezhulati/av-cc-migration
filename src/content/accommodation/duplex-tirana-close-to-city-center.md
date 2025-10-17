@@ -1,7 +1,7 @@
 ---
 title: "DUPLEX TIRANA CLOSE TO CITY CENTER"
 description: "DUPLEX TIRANA CLOSE TO CITY CENTER emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357013099.jpg?k=da1ee72090d3b4d1fde091a4a8699397cc74e0fbab8ac2ae4181c1f9713f8d62&o=&hp=1"
+featuredImage: "/images/accommodation/duplex-tirana-close-to-city-center-357013099.jpg"
 language: en
 slug: duplex-tirana-close-to-city-center
 address: "Rruga 4 Dëshmorët, 1007 Tirana, Albania"

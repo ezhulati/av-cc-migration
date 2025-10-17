@@ -1,7 +1,7 @@
 ---
 title: "Cozy House"
 description: "Cozy House, located in the heart of Shkodër within the Shkoder County region, presents a charming retreat complete with a balcony that promises a serene stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495943968.jpg?k=788c87b7559f1613e9209c86a1cc19ff7f48e93c3b9b4a7c7502fa41b6adc7d0&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-house-495943968.jpg"
 language: en
 slug: cozy-house
 address: "Rruga Qemal Draçini, 4001 Shkodër, Albania"

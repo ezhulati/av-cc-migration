@@ -1,7 +1,7 @@
 ---
 title: "Fancy Summer Sea View Apartment"
 description: "Fancy Summer Sea View Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, coupled with stunning natural scenery."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/fancy-summer-sea-view-apartment-12a07b30d7fe.jpg"
 language: en
 slug: fancy-summer-sea-view-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

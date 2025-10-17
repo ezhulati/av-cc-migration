@@ -1,7 +1,7 @@
 ---
 title: "Lucky Apartament Luxury Panorama"
 description: "Lucky Apartment Luxury Panorama emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416859332.jpg?k=1af9eab5c2d9a5d2a6bd70ac029f4c6085310d592913ea4cb002b2723b9e75b2&o=&hp=1"
+featuredImage: "/images/accommodation/lucky-apartament-luxury-panorama-416859332.jpg"
 language: en
 slug: lucky-apartament-luxury-panorama
 address: "Rruga Shkallnuri, 2021 Durrës, Albania"

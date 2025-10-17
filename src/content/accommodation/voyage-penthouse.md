@@ -1,7 +1,7 @@
 ---
 title: "Voyage Penthouse"
 description: "Voyage Penthouse emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460985341.jpg?k=6a0e992e31ef04cfaa70ba90aaf5efc34395a4c7dbb966fb38bafe818ab56f17&o=&hp=1"
+featuredImage: "/images/accommodation/voyage-penthouse-460985341.jpg"
 language: en
 slug: voyage-penthouse
 address: "Rruga Abdyl Frashëri, 1004 Tirana, Albania"

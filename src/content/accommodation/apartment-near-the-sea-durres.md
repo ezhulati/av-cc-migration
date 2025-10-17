@@ -1,7 +1,7 @@
 ---
 title: "Apartment near the sea, Durres"
 description: "Apartment near the Sea, Durres, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486512708.jpg?k=580bd1e83fa4e57c66ee74c0e4f11a0242b7cc6e5a4e1e38c52874b6dcc2ddfb&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-near-the-sea-durres-486512708.jpg"
 language: en
 slug: apartment-near-the-sea-durres
 address: "Rruga Pavarësia, 2008 Durrës, Albania"

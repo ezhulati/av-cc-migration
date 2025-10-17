@@ -1,7 +1,7 @@
 ---
 title: "Trésor Art Boutique Hotel"
 description: "Trésor Art Boutique Hotel stands out as a beacon of comfort and style in Korçë, offering guests an exceptional stay with its blend of modern amenities and impeccable service."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292618450.jpg?k=96adab53c5c35646242dac271a109ab0b551884282db568b5ec7b0f0e240aab7&o=&hp=1"
+featuredImage: "/images/accommodation/tr-sor-art-boutique-hotel-292618450.jpg"
 language: en
 slug: tr-sor-art-boutique-hotel
 address: "Rruga Niko Dodona, 7001 Korçë, Albania"

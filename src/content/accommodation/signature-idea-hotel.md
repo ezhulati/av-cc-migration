@@ -1,7 +1,7 @@
 ---
 title: "Signature Idea hotel"
 description: "Discover the charm of Tirana with a stay at the Signature Idea Hotel, a gem located just a stone's throw away from the iconic Skenderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204952300.jpg?k=3a6445b3b6f210ffa1005276d3150eecee0f81b2449c72d840eef0161423c2a4&o=&hp=1"
+featuredImage: "/images/accommodation/signature-idea-hotel-204952300.jpg"
 language: en
 slug: signature-idea-hotel
 address: "Bulevard Zogu i Pare 62/3, 1001 Tirana, Albania"

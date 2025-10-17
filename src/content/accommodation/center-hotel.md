@@ -1,7 +1,7 @@
 ---
 title: "Center Hotel"
 description: "Center Hotel, located in the historic heart of Gjirokastër and a mere 44 km from the serene Zaravina Lake, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471876072.jpg?k=ac307e611efe964c8616ee7e5c585de9edb26614d4f0205692139989c05b2844&o=&hp=1"
+featuredImage: "/images/accommodation/center-hotel-471876072.jpg"
 language: en
 slug: center-hotel
 address: "18 Shtatori 5, 6001 Gjirokastër, Albania"

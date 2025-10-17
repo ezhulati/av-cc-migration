@@ -1,7 +1,7 @@
 ---
 title: "Hotel DelMar"
 description: "Hotel DelMar emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473628642.jpg?k=41969b64f1cc362fbb20c33a34a9a376b399c09f74894870c81f630e03055997&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-delmar-473628642.jpg"
 language: en
 slug: hotel-delmar
 address: "Rruga e Detit Rruga Qemal Stafa, 2504 Golem, Albania"

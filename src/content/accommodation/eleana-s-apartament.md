@@ -1,7 +1,7 @@
 ---
 title: "Eleana's Apartament"
 description: "Eleana's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154761229.jpg?k=7587a7416ad7aa89d50a72994bbc586b663688a4ebf8bf3b76f75b140f40987c&o=&hp=1"
+featuredImage: "/images/accommodation/eleana-s-apartament-154761229.jpg"
 language: en
 slug: eleana-s-apartament
 address: "lagjja nr1 rruga ionianet 20, 9701 Sarandë, Albania"

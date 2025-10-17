@@ -1,7 +1,7 @@
 ---
 title: "Villa Mance"
 description: "Villa Mance emerges as a serene retreat in the heart of Berat, offering guests a stay marked by comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478392334.jpg?k=71aadebbc199ce8f587722db05c03b3570857584fafab19dcd2b83f1344c61da&o=&hp=1"
+featuredImage: "/images/accommodation/villa-mance-478392334.jpg"
 language: en
 slug: villa-mance
 address: "Rruga nacionale . nr 75, 5001 Berat, Albania"

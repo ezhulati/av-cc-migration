@@ -1,7 +1,7 @@
 ---
 title: "Residence Martin 21"
 description: "Residence Martin 21 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, located just a kilometer away from the serene Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143783231.jpg?k=7cb88c76403fd16403c044d19d3b2b402aa95741b7976d5732ef97252daa0134&o=&hp=1"
+featuredImage: "/images/accommodation/residence-martin-21-143783231.jpg"
 language: en
 slug: residence-martin-21
 address: "Uji i Ftohte, Rruga Azem Sulo, 9401 Vlorë, Albania"

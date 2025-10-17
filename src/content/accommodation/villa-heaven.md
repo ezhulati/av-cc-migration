@@ -1,7 +1,7 @@
 ---
 title: "Villa Heaven"
 description: "Villa Heaven emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362392522.jpg?k=d3c33faaea4ba798b825c42e84bde60f48795db0eb4d190c491cccbfd3926dcf&o=&hp=1"
+featuredImage: "/images/accommodation/villa-heaven-362392522.jpg"
 language: en
 slug: villa-heaven
 address: "Rruga Freskia, 9706 Ksamil, Albania"

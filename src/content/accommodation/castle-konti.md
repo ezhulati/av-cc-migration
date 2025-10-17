@@ -1,7 +1,7 @@
 ---
 title: "Castle Konti"
 description: "Castle Konti emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/229866560.jpg?k=ea7f40657a5ec085f2ed53e62e9a952afab2b8a2ee5ed3203b2f40c2ca5b91e5&o=&hp=1"
+featuredImage: "/images/accommodation/castle-konti-229866560.jpg"
 language: en
 slug: castle-konti
 address: "Rruga arban, 1041 Tirana, Albania"

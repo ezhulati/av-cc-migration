@@ -1,7 +1,7 @@
 ---
 title: "Sunshine Place"
 description: "Sunshine Place emerges as a serene retreat in Elbasan, strategically positioned a mere 40 km away from the vibrant Skanderbeg Square and the captivating Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428035822.jpg?k=f22deb14bffb2cbf8cc496761183b764e83a719394aa81f319b646bfba718ecf&o=&hp=1"
+featuredImage: "/images/accommodation/sunshine-place-428035822.jpg"
 language: en
 slug: sunshine-place
 address: "Rruga e Re 1283 , 14 door number, 3001 Elbasan, Albania"

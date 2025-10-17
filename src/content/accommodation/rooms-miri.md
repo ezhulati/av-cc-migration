@@ -1,7 +1,7 @@
 ---
 title: "Rooms Miri"
 description: "Discover the charm of Tirana with a stay at Rooms Miri, a prime accommodation choice that places guests in the heart of the city's vibrant life."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484094773.jpg?k=715a8277719175c357b55a8496cfb999b48810dbfd58640c09e9b6d5c87042a7&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-miri-484094773.jpg"
 language: en
 slug: rooms-miri
 address: "Rruga Pjetër Budi 1, Tirana, Albania"

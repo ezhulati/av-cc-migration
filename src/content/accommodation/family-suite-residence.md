@@ -1,7 +1,7 @@
 ---
 title: "FAMILY SUITE RESIDENCE"
 description: "FAMILY SUITE RESIDENCE stands as a beacon of comfort and convenience in the heart of Vlorë, mere steps away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/family-suite-residence-8d80ab6bf73f.jpg"
 language: en
 slug: family-suite-residence
 address: "VIA: DURO SHASKA NDERTESA NR 7, 9405 Vlorë, Albania"

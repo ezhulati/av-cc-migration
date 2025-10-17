@@ -1,7 +1,7 @@
 ---
 title: "Monte Rei Hotel"
 description: "Monte Rei Hotel, located a mere 42 km from the iconic Rock of Kavaje in Lushnjë, stands out for its comprehensive amenities and serene setting."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485154304.jpg?k=ba9f6c3f173d74e6b5ae0fb1b549234a062aebbca85a3adcb57681e01e2d0fac&o=&hp=1"
+featuredImage: "/images/accommodation/monte-rei-hotel-485154304.jpg"
 language: en
 slug: monte-rei-hotel
 address: "SH4 Nr.55, 9012 Lushnjë, Albania"

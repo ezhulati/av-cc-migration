@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restorant Delisia"
 description: "Hotel Restorant Delisia stands as a beacon of comfort and elegance in Korçë, a mere 44 km from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334023678.jpg?k=79106fc16ec84a1931f376f36426e33bab09da82ad5bb49c02e86775af284147&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-restorant-delisia-334023678.jpg"
 language: en
 slug: hotel-restorant-delisia
 address: "Rruga Kristaq Isak 20 Lagja 4, 7001 Korçë, Albania"

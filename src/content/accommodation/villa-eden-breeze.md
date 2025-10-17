@@ -1,7 +1,7 @@
 ---
 title: "Villa Eden Breeze"
 description: "Villa Eden Breeze stands out as a prime choice for travelers seeking comfort and convenience, located just a short 200-meter stroll from the main beach in Sarande."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368731803.jpg?k=fbd38114f5e0bdb6ea99db9d7c8737122047424077a45f70345317526b4d823d&o=&hp=1"
+featuredImage: "/images/accommodation/villa-eden-breeze-368731803.jpg"
 language: en
 slug: villa-eden-breeze
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

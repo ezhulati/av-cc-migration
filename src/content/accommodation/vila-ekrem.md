@@ -1,7 +1,7 @@
 ---
 title: "Vila EKREM"
 description: "Vila EKREM emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280733315.jpg?k=99c8b3e492688c886c9fb76049a81b7065e9d8b307b1409a8787bc1fff109d81&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ekrem-280733315.jpg"
 language: en
 slug: vila-ekrem
 address: "Bulevardi Republika Lagjja nr.1, God nr. 1, 7002 Korçë, Albania"

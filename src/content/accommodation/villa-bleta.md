@@ -1,7 +1,7 @@
 ---
 title: "Villa Bleta"
 description: "Villa Bleta stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, situated merely 400 meters from the serene Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466033893.jpg?k=9ea4e8144d5e537b00e9ddc476623758ea3d4190595043e85cc2be51f276ae70&o=&hp=1"
+featuredImage: "/images/accommodation/villa-bleta-466033893.jpg"
 language: en
 slug: villa-bleta
 address: "FF5C+GQ Vlorë, Albania, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ahmetaj Guest House"
 description: "Discover the charm of Gjirokastër with a stay at Ahmetaj Guest House, a distinguished 3-star hotel that promises comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315073861.jpg?k=0be1aea92ac6cbc938bbf487ba23afebdfe07c43d687b651573ea1c2f91d4d51&o=&hp=1"
+featuredImage: "/images/accommodation/ahmetaj-guest-house-315073861.jpg"
 language: en
 slug: ahmetaj-guest-house
 address: "Rruga Ismail Kadare 0692821019, 6001 Gjirokastër, Albania"

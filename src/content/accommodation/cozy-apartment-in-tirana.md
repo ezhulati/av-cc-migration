@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartment in Tirana"
 description: "Discover the charm of Tirana with a stay at Cozy Apartment, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527705249.jpg?k=f76833cfdf3927f90129ebbfbd7a4e756e2ea5a0598cfbc3bfe9534853faa868&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-in-tirana-527705249.jpg"
 language: en
 slug: cozy-apartment-in-tirana
 address: "4 Rruga Him Kolli, 1001 Tirana, Albania"

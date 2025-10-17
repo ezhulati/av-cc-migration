@@ -1,7 +1,7 @@
 ---
 title: "Saranda's Dream"
 description: "Saranda's Dream stands as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470007053.jpg?k=169e382cf15ac0f5dc7055230c638c6491f4744b603a04b84fe94bfb21500b09&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-s-dream-470007053.jpg"
 language: en
 slug: saranda-s-dream
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "central apartment"
 description: "Central Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501028399.jpg?k=5cb6918303d2e9dae193fccbceea3f217b529deb6cc236ef4c53c1de2c0d9643&o=&hp=1"
+featuredImage: "/images/accommodation/central-apartment-501028399.jpg"
 language: en
 slug: central-apartment
 address: "Rruga Hoxha Tahsim, 1000 Tirana, Albania"

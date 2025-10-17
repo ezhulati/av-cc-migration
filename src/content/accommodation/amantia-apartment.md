@@ -1,7 +1,7 @@
 ---
 title: "Amantia apartment"
 description: "Amantia Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+featuredImage: "/images/accommodation/amantia-apartment-bebbb1d5ff29.jpg"
 language: en
 slug: amantia-apartment
 address: "Rruga Besim Zyma, Tirana, Albania"

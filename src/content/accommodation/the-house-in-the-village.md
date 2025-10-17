@@ -1,7 +1,7 @@
 ---
 title: "The house in the village"
 description: "The House in the Village emerges as a charming retreat for travelers seeking a serene stay away from the bustling city center, yet within a comfortable distance from Tirana's key attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488095508.jpg?k=1b7907b932c568c783472665a10d4424892554724fc73f4f099d2dc976b67026&o=&hp=1"
+featuredImage: "/images/accommodation/the-house-in-the-village-488095508.jpg"
 language: en
 slug: the-house-in-the-village
 address: "Pellumbas, Tirana, 1001 Tirana, Albania"

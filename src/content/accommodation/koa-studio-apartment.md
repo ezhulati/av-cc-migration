@@ -1,7 +1,7 @@
 ---
 title: "Koa Studio Apartment"
 description: "Koa Studio Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"
+featuredImage: "/images/accommodation/koa-studio-apartment-ecc2e23c1dd8.jpg"
 language: en
 slug: koa-studio-apartment
 address: "Street Factory Flour Building 1, Apartment 13, 7001 Korçë, Albania"

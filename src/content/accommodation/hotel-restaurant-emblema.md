@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restaurant Emblema"
 description: "Hotel Restaurant Emblema stands out as a serene retreat in Petrelë, situated a mere 15 km from the bustling Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195923089.jpg?k=c89121a5418d1c2f142d9cde2f6daeebdbfab08089707613eb7db8299d7b53c7&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-restaurant-emblema-195923089.jpg"
 language: en
 slug: hotel-restaurant-emblema
 address: "Rruga Petreles, 1034 Petrelë, Albania"

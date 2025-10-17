@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Zeus"
 description: "Hotel Vila Zeus stands out as a prime choice for travelers seeking convenience and comfort right next to Tirana Airport."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205489043.jpg?k=6c926b4fe0d1315296b4b1435a665180a6ef88aa7a529074da6092b0f2d51712&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-zeus-205489043.jpg"
 language: en
 slug: hotel-vila-zeus
 address: "Rinas Airport, 1001 Rinas, Albania"

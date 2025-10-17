@@ -1,7 +1,7 @@
 ---
 title: "Modern Apartment at Train Station - THE NEST"
 description: "Modern Apartment at Train Station - THE NEST emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
+featuredImage: "/images/accommodation/modern-apartment-at-train-station-the-nest-c9a51000ce90.jpg"
 language: en
 slug: modern-apartment-at-train-station-the-nest
 address: "Rruga Reshit Petrela, Tirana, Albania"

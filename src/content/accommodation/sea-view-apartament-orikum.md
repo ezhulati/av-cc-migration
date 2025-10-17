@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartament Orikum"
 description: "Sea View Apartment Orikum emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491400623.jpg?k=a0f3de4b606a46383922a06687ac98d4705bf7707b5cf4fcd554a722732a07d8&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartament-orikum-491400623.jpg"
 language: en
 slug: sea-view-apartament-orikum
 address: "Rruga Orikum 4, 9426 Vlorë, Albania"

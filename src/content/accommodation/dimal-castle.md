@@ -1,7 +1,7 @@
 ---
 title: "DIMAL CASTLE"
 description: "DIMAL CASTLE stands out as a charming retreat in Poshnje, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525844157.jpg?k=1eb2216c16274b3c71e25f0367c3c87fa4b565497b719c098e3d1b0d5f358df8&o=&hp=1"
+featuredImage: "/images/accommodation/dimal-castle-525844157.jpg"
 language: en
 slug: dimal-castle
 address: "Rruga e Poshnjes, 5008 Poshnje, Albania"

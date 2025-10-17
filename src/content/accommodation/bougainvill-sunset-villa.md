@@ -1,7 +1,7 @@
 ---
 title: "Bougainvill Sunset Villa"
 description: "Bougainvill Sunset Villa emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic beauty in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153550819.jpg?k=19627c912d5af559fe02516cdcd2cbf3a5992ee57f8a282efe14cfcd29516f35&o=&hp=1"
+featuredImage: "/images/accommodation/bougainvill-sunset-villa-153550819.jpg"
 language: en
 slug: bougainvill-sunset-villa
 address: "km 1 rruga e butrintit kanali i cukes sarande Bougainville bay resort, 9702 Sarandë, Albania"

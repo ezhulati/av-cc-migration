@@ -1,7 +1,7 @@
 ---
 title: "Fllad Resort & SPA Durres"
 description: "Fllad Resort & SPA Durres emerges as a premier destination for travelers seeking a blend of luxury and leisure on the sun-drenched shores of Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343281023.jpg?k=a614922a18d78bc8789468f93f37152c9b9c31166414534eeea88dd1cb61a241&o=&hp=1"
+featuredImage: "/images/accommodation/fllad-resort-spa-durres-343281023.jpg"
 language: en
 slug: fllad-resort-spa-durres
 address: "Bulevardi i Pishave, Golem, 2501 Golem, Albania"

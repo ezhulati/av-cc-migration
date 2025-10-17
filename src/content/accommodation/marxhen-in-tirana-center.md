@@ -1,7 +1,7 @@
 ---
 title: "Marxhen in Tirana Center"
 description: "Marxhen in Tirana Center emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modernity in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521455405.jpg?k=1a0d16b8b1b8d961ccd53a8e29af907f3bd635ba2c0960ed9cd3775467f2baf6&o=&hp=1"
+featuredImage: "/images/accommodation/marxhen-in-tirana-center-521455405.jpg"
 language: en
 slug: marxhen-in-tirana-center
 address: "Bulevardi Zhan D'Ark nd134 app 4, 1001 Tirana, Albania"

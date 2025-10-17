@@ -1,7 +1,7 @@
 ---
 title: "Cozy Helen Apartament"
 description: "Cozy Helen Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489069311.jpg?k=b2eeeef486a926c1c8cd3fe7270d0ed7949f4e18feb7c6a8d74434ec7e67929a&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-helen-apartament-489069311.jpg"
 language: en
 slug: cozy-helen-apartament
 address: "Rruga Njazi Demi Floor number 2 ,Apartament number 4, 1022 Tirana, Albania"

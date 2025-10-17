@@ -1,7 +1,7 @@
 ---
 title: "Modern 1 Bedroom City Apartment"
 description: "Modern 1 Bedroom City Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448452298.jpg?k=e00a88acf484f0277cb7f9f9007042c5fbeb04e0e55c51ff7f4bd5d0615e8c2b&o=&hp=1"
+featuredImage: "/images/accommodation/modern-1-bedroom-city-apartment-448452298.jpg"
 language: en
 slug: modern-1-bedroom-city-apartment
 address: "Rruga Mine Peza, Nd. 1, Nr. ap. 6, 1003 Tirana, Albania"

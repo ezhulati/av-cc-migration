@@ -1,7 +1,7 @@
 ---
 title: "Rent Room"
 description: "Discover the charm of Vlorë at Rent Room, a prime accommodation choice for travelers seeking both convenience and comfort."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/rent-room-d2bf46fbe4c1.jpg"
 language: en
 slug: rent-room
 address: "Rruga Andrea Varfi, Vlorë, Albania"

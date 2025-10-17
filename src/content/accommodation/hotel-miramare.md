@@ -1,7 +1,7 @@
 ---
 title: "Hotel Miramare"
 description: "Hotel Miramare stands out as a beacon of comfort and convenience in Vlorë, located just a short 500-meter stroll from the pristine Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282685885.jpg?k=df735ffdd69d6af123a0dbb501614194aa40d16212db2c49daf651c1769f5f2c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-miramare-282685885.jpg"
 language: en
 slug: hotel-miramare
 address: "Near Goverment Residence, 8402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VIVI LA VITA"
 description: "VIVI LA VITA emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/227218795.jpg?k=010b9c8dccc7470203bee37ca209a4e274798d182c7c38bad197d9302d815f6f&o=&hp=1"
+featuredImage: "/images/accommodation/vivi-la-vita-227218795.jpg"
 language: en
 slug: vivi-la-vita
 address: "Artificial lake of Tirana (250 meters to the left from the Zoo), 1001 Tirana, Albania"

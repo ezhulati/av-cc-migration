@@ -1,7 +1,7 @@
 ---
 title: "The best comfort ever."
 description: "The Best Comfort Ever emerges as a shining example of modern convenience and elegance in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495663207.jpg?k=94c9c924e794730b8a758013c5221166043f7db2507fcd38a62eb3def39ce0d3&o=&hp=1"
+featuredImage: "/images/accommodation/the-best-comfort-ever-495663207.jpg"
 language: en
 slug: the-best-comfort-ever
 address: "Rruga e Elbasanit, 1001 Tirana, Albania"

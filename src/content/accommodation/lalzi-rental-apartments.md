@@ -1,7 +1,7 @@
 ---
 title: "Lalzi Rental apartments"
 description: "Lalzi Rental Apartments emerges as a refreshing retreat in Durrës, boasting a recent renovation that promises modern comforts and conveniences."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471756353.jpg?k=8095290e5610e65dfbc4e66d0c35e2ee76299504865163080981dc34d2aeca9d&o=&hp=1"
+featuredImage: "/images/accommodation/lalzi-rental-apartments-471756353.jpg"
 language: en
 slug: lalzi-rental-apartments
 address: "Hamallaj, Hidrovor ValaMar, 2012 Durrës, Albania"

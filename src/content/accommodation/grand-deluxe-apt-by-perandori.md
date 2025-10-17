@@ -1,7 +1,7 @@
 ---
 title: "Grand Deluxe APT by Perandori"
 description: "Grand Deluxe APT by Perandori emerges as a modern oasis in the heart of Vlorë, a stone's throw away from the serene Vjetër Beach and the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476155091.jpg?k=e20f6216e44c42641d9fc2a2948d1f5b6e4fa5c744885d562fd748b52c9b587f&o=&hp=1"
+featuredImage: "/images/accommodation/grand-deluxe-apt-by-perandori-476155091.jpg"
 language: en
 slug: grand-deluxe-apt-by-perandori
 address: "Rr. Sazani, 9301 Vlorë, Albania"

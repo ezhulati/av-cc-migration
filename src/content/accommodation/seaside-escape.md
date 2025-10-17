@@ -1,7 +1,7 @@
 ---
 title: "Seaside Escape"
 description: "Seaside Escape, located in the vibrant heart of Sarandë, stands a mere 700 meters from Saranda City Beach and just a short stroll from La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472241999.jpg?k=e60db1bea73be624f0f5e1d80a311503402e8643fd8b428b019742d4ab6c05e5&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-escape-472241999.jpg"
 language: en
 slug: seaside-escape
 address: "Rruga Gjergj Araniti, 9700 Sarandë, Albania"

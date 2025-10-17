@@ -1,7 +1,7 @@
 ---
 title: "HOTEL VILA TWIX"
 description: "Hotel Vila Twix stands out as a charming retreat in Berat, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210620055.jpg?k=2e929f3e1a7b82702d532e58812305bc28dc4a2b22fcc9ba46301a9affd25af5&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-twix-210620055.jpg"
 language: en
 slug: hotel-vila-twix
 address: "Rruga At Theodhori, 1234 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Großzügige Wohnung in zentraler Lage mit Balkon"
 description: "Discover the charm of Sarandë with a stay at the Großzügige Wohnung, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464066809.jpg?k=b30c2edfc7607d094d173bc6cbc1048a06734f39360e8025dddf5374fac6662a&o=&hp=1"
+featuredImage: "/images/accommodation/gro-z-gige-wohnung-in-zentraler-lage-mit-balkon-464066809.jpg"
 language: en
 slug: gro-z-gige-wohnung-in-zentraler-lage-mit-balkon
 address: "Saranda, AL - Corfu, GR, Sarandë, Albania"

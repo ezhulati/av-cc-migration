@@ -1,7 +1,7 @@
 ---
 title: "Geri Apartment"
 description: "Geri Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/geri-apartment-29d5c93ac695.jpg"
 language: en
 slug: geri-apartment
 address: "Sheshi Valltaret, Ksamil, 9706 Ksamil, Albania"

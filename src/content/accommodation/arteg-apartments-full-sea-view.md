@@ -1,7 +1,7 @@
 ---
 title: "Arteg Apartments - Full Sea View"
 description: "Arteg Apartments - Full Sea View stands as a premier beachfront destination in Durrës, offering guests an unparalleled experience of the Adriatic Sea's majesty."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/arteg-apartments-full-sea-view-c84a361d6701.jpg"
 language: en
 slug: arteg-apartments-full-sea-view
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

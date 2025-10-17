@@ -1,7 +1,7 @@
 ---
 title: "Hotel Arvi"
 description: "Discover the charm of Hotel Arvi, a gem that stands out for its strategic location and exceptional amenities, making it a favorite among travelers seeking both convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161231139.jpg?k=9cf387cc02cbc38a03711f55e25b6482a47dfd974d76652424264d7e19270016&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-arvi-161231139.jpg"
 language: en
 slug: hotel-arvi
 address: "Lagja 1, Rruga Taulantia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Viola apartament Blloku"
 description: "Discover the charm of Tirana from the comfort of Viola Apartment Blloku, a prime choice for travelers seeking both convenience and style."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452642600.jpg?k=5378c877d40c0a237713f6c707e2ff66a5465a8fa4bdeb2572e32e650ed69aad&o=&hp=1"
+featuredImage: "/images/accommodation/viola-apartament-blloku-452642600.jpg"
 language: en
 slug: viola-apartament-blloku
 address: "Rruga Andon Zako Çajupi 6 floor 4 apt 7, 1000 Tirana, Albania"

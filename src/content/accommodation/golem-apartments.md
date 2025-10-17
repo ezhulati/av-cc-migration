@@ -1,7 +1,7 @@
 ---
 title: "Golem Apartments"
 description: "Golem Apartments emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort, just a stone's throw away from the inviting sandy shores."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106809822.jpg?k=6569b28cbc486de3b227d2cf8922e8f9946abb5e9f5c9377e59dc2f886953d23&o=&hp=1"
+featuredImage: "/images/accommodation/golem-apartments-106809822.jpg"
 language: en
 slug: golem-apartments
 address: "Mali Robit Mak, 1001 Golem, Albania"

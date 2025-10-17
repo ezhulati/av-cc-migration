@@ -1,7 +1,7 @@
 ---
 title: "Dori Apartments Lura 2"
 description: "Dori Apartments Lura 2 emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, mere steps away from the pristine shores of Lalëz Bay Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968212.jpg?k=33906accb483619a02aef2f0a7f82bb54886f70bd1c9a76a510a0116500bb54c&o=&hp=1"
+featuredImage: "/images/accommodation/dori-apartments-lura-2-328968212.jpg"
 language: en
 slug: dori-apartments-lura-2
 address: "Lalez Bay, Durres, 4001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "City Centre Cozy Apartment"
 description: "City Centre Cozy Apartment emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490950619.jpg?k=c88f14f277943cfb5842bcbead6fceca5f75277dbfb8ea409a92b7c728bd67c4&o=&hp=1"
+featuredImage: "/images/accommodation/city-centre-cozy-apartment-490950619.jpg"
 language: en
 slug: city-centre-cozy-apartment
 address: "Bulevardi Zogu I, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Leo Apartament"
 description: "Leo Apartament stands as a beacon of comfort and convenience in the heart of Vlorë, offering guests a serene retreat just a stone's throw away from the pristine Vlore Beach and the charming Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476666078.jpg?k=22b6b133301c296135fd9fc1ba9e2a80cbf752cedeeddfa5f0d1d70f40e3c317&o=&hp=1"
+featuredImage: "/images/accommodation/leo-apartament-476666078.jpg"
 language: en
 slug: leo-apartament
 address: "Rruga Çamëria, 9404 Vlorë, Albania"

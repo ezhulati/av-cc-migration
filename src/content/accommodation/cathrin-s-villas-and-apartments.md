@@ -1,7 +1,7 @@
 ---
 title: "Cathrin’s villas and apartments"
 description: "Cathrin's Villas and Apartments emerges as a serene retreat in the heart of Zvërnec, Vlorë County, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496922649.jpg?k=ff890dbc8f13d31995ae35257403be20ac89f9fbd18d4642bb51f3ae388f106b&o=&hp=1"
+featuredImage: "/images/accommodation/cathrin-s-villas-and-apartments-496922649.jpg"
 language: en
 slug: cathrin-s-villas-and-apartments
 address: "Rruga Zvërnec, Zvërnec, Albania"

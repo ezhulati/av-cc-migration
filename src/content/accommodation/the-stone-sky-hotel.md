@@ -1,7 +1,7 @@
 ---
 title: "The Stone Sky Hotel"
 description: "Discover the charm of Gjirokastër with a stay at The Stone Sky Hotel, a serene oasis offering a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466443930.jpg?k=a93c45e381a57601b52ba691a07d36be41a84ea81fb61ebc64b3002c025d3fc8&o=&hp=1"
+featuredImage: "/images/accommodation/the-stone-sky-hotel-466443930.jpg"
 language: en
 slug: the-stone-sky-hotel
 address: "Rruga Gjin Zenebisi rruga Veziret, 6002 Gjirokastër, Albania"

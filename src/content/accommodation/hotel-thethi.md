@@ -1,7 +1,7 @@
 ---
 title: "Hotel Thethi"
 description: "Hotel Thethi emerges as a distinguished choice for travelers seeking a serene retreat close to Theth National Park, located just 5."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/hotel-thethi-f69a0f45af41.jpg"
 language: en
 slug: hotel-thethi
 address: "Rr Gjecaj, 4001 Theth, Albania"

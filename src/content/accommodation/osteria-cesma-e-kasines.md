@@ -1,7 +1,7 @@
 ---
 title: "Osteria Cesma e Kasines"
 description: "Osteria Cesma e Kasines emerges as a charming retreat in the heart of Bradashesh, Elbasan County, offering guests a serene escape with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503107453.jpg?k=a7be3f07a769bba7df9ea2d7ad89bfcecfe4c8ab6575c266588294190fe04e85&o=&hp=1"
+featuredImage: "/images/accommodation/osteria-cesma-e-kasines-503107453.jpg"
 language: en
 slug: osteria-cesma-e-kasines
 address: "SH3, Bradashesh, Albania"

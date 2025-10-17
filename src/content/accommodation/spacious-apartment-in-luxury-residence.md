@@ -1,7 +1,7 @@
 ---
 title: "Spacious apartment in luxury residence"
 description: "Discover the epitome of comfort and convenience at the Spacious Apartment in Luxury Residence, located in the serene town of Çeliku."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415090547.jpg?k=35ef7605e77cf775248c99d135deb1f9a372fc79bbcac14c64b173923f7ecc47&o=&hp=1"
+featuredImage: "/images/accommodation/spacious-apartment-in-luxury-residence-415090547.jpg"
 language: en
 slug: spacious-apartment-in-luxury-residence
 address: "Rruga Vilave, 1001 Çeliku, Albania"

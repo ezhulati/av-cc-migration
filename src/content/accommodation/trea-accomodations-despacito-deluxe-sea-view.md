@@ -1,7 +1,7 @@
 ---
 title: "TreA Accomodations - Despacito Deluxe Sea View"
 description: "TreA Accommodations - Despacito Deluxe Sea View stands as a prime beachfront haven in Vlorë, offering guests an unparalleled blend of convenience and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470493847.jpg?k=e433517ede965652f217c1e244a0ad77390c32d29347fa1417f521c7fbd5e5fb&o=&hp=1"
+featuredImage: "/images/accommodation/trea-accomodations-despacito-deluxe-sea-view-470493847.jpg"
 language: en
 slug: trea-accomodations-despacito-deluxe-sea-view
 address: "Rr. Sazani, 9402 Vlorë, Albania"

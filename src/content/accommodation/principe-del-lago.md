@@ -1,7 +1,7 @@
 ---
 title: "PRINCIPE DEL LAGO"
 description: "PRINCIPE DEL LAGO emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Shkodër, located 44 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311057842.jpg?k=8a9993343178ed26f768fa8af8aa4f483b92eb45c2ddbb673ce236c43261b189&o=&hp=1"
+featuredImage: "/images/accommodation/principe-del-lago-311057842.jpg"
 language: en
 slug: principe-del-lago
 address: "SH41, 4002 Shkodër, Albania"

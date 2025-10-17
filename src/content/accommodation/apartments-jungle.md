@@ -1,7 +1,7 @@
 ---
 title: "Apartments Jungle"
 description: "Apartments Jungle emerges as a refreshing oasis of comfort in the heart of Durrës, boasting air-conditioned accommodations complete with a welcoming terrace."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498903352.jpg?k=d9dfa14356ff6dbb84f4ece59803da7b29fda07eb3c5ebce9624cd71261dfdc0&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-jungle-498903352.jpg"
 language: en
 slug: apartments-jungle
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

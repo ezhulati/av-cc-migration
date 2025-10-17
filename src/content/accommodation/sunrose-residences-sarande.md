@@ -1,7 +1,7 @@
 ---
 title: "SunRose Residences Sarande"
 description: "SunRose Residences Sarande emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë, just a stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479125786.jpg?k=55ef067693363b1ce34d3181b9c37170e1c4db38e370350b247bd3d0b327dbb7&o=&hp=1"
+featuredImage: "/images/accommodation/sunrose-residences-sarande-479125786.jpg"
 language: en
 slug: sunrose-residences-sarande
 address: "Rruga Mitat Hoxha 5-floor Apartament, 9701 Sarandë, Albania"

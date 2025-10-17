@@ -1,7 +1,7 @@
 ---
 title: "Promenade Hotel"
 description: "Promenade Hotel, situated in the heart of Shkodër within the Shkoder County region, emerges as a distinguished choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190448070.jpg?k=18e87795d39d4100dec20086f489ccd0cfb254c2c624b48a3b249bff4ef68d78&o=&hp=1"
+featuredImage: "/images/accommodation/promenade-hotel-190448070.jpg"
 language: en
 slug: promenade-hotel
 address: "Rruga G'juhadol nr 7, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Hideaway"
 description: "Tirana Center Hideaway emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424916254.jpg?k=879a0c486bb7c7d86128678b6a6ac9d93917ff50cdfc31280614fd897d533656&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-center-hideaway-424916254.jpg"
 language: en
 slug: tirana-center-hideaway
 address: "Rruga Zenel Baboçi, 1001 Tirana, Albania"

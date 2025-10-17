@@ -1,7 +1,7 @@
 ---
 title: "Luxury dublex"
 description: "Luxury Duplex emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, positioned just moments from the serene Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481606803.jpg?k=31a981a23d765daed4b9edf3c5f82941589dce0754aedd79f316b75bd7c9ffff&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-dublex-481606803.jpg"
 language: en
 slug: luxury-dublex
 address: "Rruga Teuta 5, 2009 Durrës, Albania"

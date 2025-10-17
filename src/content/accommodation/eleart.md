@@ -1,7 +1,7 @@
 ---
 title: "Eleart"
 description: "Eleart emerges as a distinguished choice for travelers seeking the comfort of air-conditioned accommodations paired with the convenience of modern amenities in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198240144.jpg?k=126983ff63e4464f8c7b8f3fa0467988c5393edbc53f8ca5af56067e46923167&o=&hp=1"
+featuredImage: "/images/accommodation/eleart-198240144.jpg"
 language: en
 slug: eleart
 address: "Rruga e Fshatrave Turistike 37, Qerret, Albania, 2504 Golem, Albania"

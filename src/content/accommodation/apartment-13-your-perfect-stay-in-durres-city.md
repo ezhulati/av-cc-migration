@@ -1,7 +1,7 @@
 ---
 title: "Apartment 13 - Your Perfect Stay in Durres City"
 description: "Apartment 13 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379209987.jpg?k=d46995809f0c5588749f3137b6ff0ff9ad4e2444fdd5d0ae2d50f1cee0f58731&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-13-your-perfect-stay-in-durres-city-379209987.jpg"
 language: en
 slug: apartment-13-your-perfect-stay-in-durres-city
 address: "Rruga Ramazan Jella 13, 7, 2005 Durrës, Albania"

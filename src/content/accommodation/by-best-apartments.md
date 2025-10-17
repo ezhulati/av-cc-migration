@@ -1,7 +1,7 @@
 ---
 title: "By Best Apartments"
 description: "By Best Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of the city, just a stone's throw away from Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161762405.jpg?k=2cf1b242091f08db82f8b353e450cd30b017314941456149c7c10b33ff7fc0af&o=&hp=1"
+featuredImage: "/images/accommodation/by-best-apartments-161762405.jpg"
 language: en
 slug: by-best-apartments
 address: "Rruga Sami Frashëri Vortek Building, in front of Police Directory, 1001 Tirana, Albania"

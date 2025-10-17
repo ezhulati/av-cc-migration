@@ -1,7 +1,7 @@
 ---
 title: "Likehome Square 21"
 description: "Likehome Square 21 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527212867.jpg?k=57fb8c9103a135824ac6245079d7953a0e601c56cb51bb06b68d523d84db8ce1&o=&hp=1"
+featuredImage: "/images/accommodation/likehome-square-21-527212867.jpg"
 language: en
 slug: likehome-square-21
 address: "Rruga e Kavajës, 1060 Tirana, Albania"

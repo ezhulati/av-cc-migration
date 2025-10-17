@@ -1,7 +1,7 @@
 ---
 title: "Xhiro n'Shkoder Apartments"
 description: "Xhiro n'Shkoder Apartments emerges as a prime choice for travelers seeking a blend of convenience and comfort in Shkodër, Shkoder County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515248489.jpg?k=e1723152fe4259957cd75388465951f89a64fba0d55ecb044ab2a54a9724b496&o=&hp=1"
+featuredImage: "/images/accommodation/xhiro-n-shkoder-apartments-515248489.jpg"
 language: en
 slug: xhiro-n-shkoder-apartments
 address: "Kole Idromeno, 4001 Shkodër, Albania"

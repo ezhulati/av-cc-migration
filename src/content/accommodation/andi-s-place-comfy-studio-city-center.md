@@ -1,7 +1,7 @@
 ---
 title: "Andi's Place-Comfy Studio-City Center"
 description: "Andi's Place-Comfy Studio-City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442488542.jpg?k=49d7215b22e3db9cb34ea8091cdccd00fb3a15591b14f08dc63634b57327a105&o=&hp=1"
+featuredImage: "/images/accommodation/andi-s-place-comfy-studio-city-center-442488542.jpg"
 language: en
 slug: andi-s-place-comfy-studio-city-center
 address: "Rruga Sulejman Pasha, 1016 Tirana, Albania"

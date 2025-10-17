@@ -1,7 +1,7 @@
 ---
 title: "Britney's Apartments"
 description: "Britney's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450483165.jpg?k=3c0929903a7d28c838c21d51a11866e611dbba035f8dc2620113a2f6b709bdaf&o=&hp=1"
+featuredImage: "/images/accommodation/britney-s-apartments-450483165.jpg"
 language: en
 slug: britney-s-apartments
 address: "Rruga Maliq Muço, 1001 Tirana, Albania"

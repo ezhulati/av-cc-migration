@@ -1,7 +1,7 @@
 ---
 title: "The Central View Boutique Hotel"
 description: "The Central View Boutique Hotel, located a mere 600 meters from the serene Vjetër Beach in Vlorë, stands out as a premier destination for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351548413.jpg?k=a4816d752db98afd659a76146e9d1b749add90ee54ea3601fbabba3c738373cb&o=&hp=1"
+featuredImage: "/images/accommodation/the-central-view-boutique-hotel-351548413.jpg"
 language: en
 slug: the-central-view-boutique-hotel
 address: "Rruga Çamëria The Central View Boutique Hotel , Main Entrance Cobo Center , Vlore Albania, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Seafront Villa with a Stunning Garden"
 description: "Seafront Villa with a Stunning Garden emerges as a premier choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363121932.jpg?k=cd0190319de92f3fababbeb693ecef90f43ef44e0f511618379ccd8044411a46&o=&hp=1"
+featuredImage: "/images/accommodation/seafront-villa-with-a-stunning-garden-363121932.jpg"
 language: en
 slug: seafront-villa-with-a-stunning-garden
 address: "Rruga Viena Vila 57, Viena Complex, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "One Roof Apartaments"
 description: "One Roof Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://graph.facebook.com/v2.9/1206694479536305/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/one-roof-apartaments-picture?type.jpg"
 language: en
 slug: one-roof-apartaments
 address: "Rruga e Dibrës, Tirana, Albania"

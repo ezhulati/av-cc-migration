@@ -1,7 +1,7 @@
 ---
 title: "Sion Sarande Apartment 33"
 description: "Sion Sarande Apartment 33 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495594557.jpg?k=4418b1bef18d768fa5f68a92da2e489ba86e292891070b67a5d5cb4dc2674dfd&o=&hp=1"
+featuredImage: "/images/accommodation/sion-sarande-apartment-33-495594557.jpg"
 language: en
 slug: sion-sarande-apartment-33
 address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"

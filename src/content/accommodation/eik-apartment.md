@@ -1,7 +1,7 @@
 ---
 title: "Eik Apartment"
 description: "Eik Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459238479.jpg?k=9d0b5732f1df9485864e92bf702f34268cce555354d4eb09d25c6734c3d91969&o=&hp=1"
+featuredImage: "/images/accommodation/eik-apartment-459238479.jpg"
 language: en
 slug: eik-apartment
 address: "Rruga Adrianet, 2001 Durrës, Albania"

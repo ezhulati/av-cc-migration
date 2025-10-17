@@ -1,7 +1,7 @@
 ---
 title: "Duka Apts"
 description: "Duka Apts emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its accommodations offering breathtaking sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140452568.jpg?k=df0fd8951b2c83b91ce15896c95c972af534e9b52930f851689c1a54e651a581&o=&hp=1"
+featuredImage: "/images/accommodation/duka-apts-140452568.jpg"
 language: en
 slug: duka-apts
 address: "145 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

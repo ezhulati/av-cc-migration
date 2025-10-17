@@ -1,7 +1,7 @@
 ---
 title: "Guest house Plazhi Dhermi"
 description: "Discover the charm of Dhërmi with a stay at Guest House Plazhi Dhermi, a haven of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/49335931.jpg?k=4de2cff8c2643fcd486ccd4134ac9d3acc17c91e60555c85b0fdf5f466871e59&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-plazhi-dhermi-49335931.jpg"
 language: en
 slug: guest-house-plazhi-dhermi
 address: "Dhermi Beach, 9422 Dhërmi, Albania"

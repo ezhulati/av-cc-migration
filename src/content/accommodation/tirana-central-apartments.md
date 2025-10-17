@@ -1,7 +1,7 @@
 ---
 title: "Tirana Central Apartments"
 description: "Tirana Central Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488045353.jpg?k=9597cd4795aac2b1fa1349f427557a69096ddd4625c80973fff5c682f50e482b&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-central-apartments-488045353.jpg"
 language: en
 slug: tirana-central-apartments
 address: "Rruga Myslym Shyri, Godina B, Hyrja 7, Apartamenti 114, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Dori duplex in the heart of Blloku"
 description: "Discover the charm of Tirana from the comfort of Dori Duplex, a prime accommodation choice located in the vibrant heart of Blloku."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410841553.jpg?k=23b84151986013a81a36fca2ccc7bc9d8d72253c04b1b932b57accf742a8a0b3&o=&hp=1"
+featuredImage: "/images/accommodation/dori-duplex-in-the-heart-of-blloku-410841553.jpg"
 language: en
 slug: dori-duplex-in-the-heart-of-blloku
 address: "Rruga Sami Frashëri Pall 17, 1019 Tirana, Albania"

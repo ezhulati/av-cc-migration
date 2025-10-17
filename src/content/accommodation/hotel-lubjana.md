@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lubjana"
 description: "Hotel Lubjana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, positioned just a stone's throw away from the serene Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366836777.jpg?k=7e7fcd5e15a869b6fcdf9b5f5859e593cc497b0057d45bae95ae667ba8347e69&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-lubjana-366836777.jpg"
 language: en
 slug: hotel-lubjana
 address: "2008 Rruga Pavaresia, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury vila"
 description: "Luxury Vila emerges as a serene retreat offering breathtaking mountain views and a tranquil garden setting, just a short distance from the heart of the action."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354410654.jpg?k=91b83e600a0dc70feae38efc92fb2248d5af980a024d33c03bd3d85508b819bf&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-vila-354410654.jpg"
 language: en
 slug: luxury-vila
 address: "Rruga Bilal Xhaferri, 1047 Babru, Albania"

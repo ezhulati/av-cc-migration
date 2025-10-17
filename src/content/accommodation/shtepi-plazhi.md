@@ -1,7 +1,7 @@
 ---
 title: "shtepi plazhi"
 description: "Shtepi Plazhi emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin, located just a short stroll from the pristine Shëngjin Beach and within easy reach of Ylberi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146539791.jpg?k=27db1bca5e2ebc05fb7990c64e7be6dc818d240dd7a7a6cd0795cb4b51457c10&o=&hp=1"
+featuredImage: "/images/accommodation/shtepi-plazhi-146539791.jpg"
 language: en
 slug: shtepi-plazhi
 address: "Bulevardi Nënë Tereza sheshi willson, 4500 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Deluxe"
 description: "Hotel Deluxe emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122791634.jpg?k=25acbc14cb381fcb8cb099abca2e073f3097d132287f9a1df878fdb187bb9988&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-deluxe-122791634.jpg"
 language: en
 slug: hotel-deluxe
 address: "Rruga Teodor Keko, 1001 Tirana, Albania"

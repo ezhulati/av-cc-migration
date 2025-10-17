@@ -1,7 +1,7 @@
 ---
 title: "Nicole Apartments Rental"
 description: "Nicole Apartments Rental emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520881305.jpg?k=c056f14e8fb71fe51412c31484d432f23f9d4196966890eabb0964be64d0669c&o=&hp=1"
+featuredImage: "/images/accommodation/nicole-apartments-rental-520881305.jpg"
 language: en
 slug: nicole-apartments-rental
 address: "Rruga Iljaz Reka Building nr. 8, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Modern design apartment"
 description: "Discover a serene retreat in the heart of Shkodër, where the Modern Design Apartment offers a unique blend of comfort and style."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496424848.jpg?k=122de1368c0f2a4227c602cdfc1ccc571bc510eb7975b96d2a5a7569f4560abb&o=&hp=1"
+featuredImage: "/images/accommodation/modern-design-apartment-496424848.jpg"
 language: en
 slug: modern-design-apartment
 address: "Rruga Kadukej, Shkodër, Albania"

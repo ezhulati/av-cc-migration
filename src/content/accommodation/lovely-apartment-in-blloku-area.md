@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartment in Blloku area"
 description: "Discover the charm of Tirana from the comfort of the Lovely Apartment in Blloku Area, a prime choice for travelers seeking both convenience and style."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498926817.jpg?k=129eb95c02f5fb4bb20f8fc8f1d676803a556401f07a9cc16216593acfb5ea2c&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-in-blloku-area-498926817.jpg"
 language: en
 slug: lovely-apartment-in-blloku-area
 address: "Rruga Ibrahim Rugova, 1019 Tirana, Albania"

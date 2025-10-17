@@ -1,7 +1,7 @@
 ---
 title: "River Bridge private room"
 description: "River Bridge Private Room emerges as a serene haven in the heart of Gjirokastër, a mere 44 km from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471520872.jpg?k=5c9d09b6ae32f5e544cf1ed82669c97422b2ac0172a78ee5346703a9c40a5840&o=&hp=1"
+featuredImage: "/images/accommodation/river-bridge-private-room-471520872.jpg"
 language: en
 slug: river-bridge-private-room
 address: "Rruga Valere, 6001 Gjirokastër, Albania"

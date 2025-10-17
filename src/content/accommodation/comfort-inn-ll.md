@@ -1,7 +1,7 @@
 ---
 title: "Comfort Inn ll"
 description: "Comfort Inn II emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446044273.jpg?k=899de3fd64b39e8d97f50d9fc26e9dcd2b3b96167912c57d06bf648c39b367d1&o=&hp=1"
+featuredImage: "/images/accommodation/comfort-inn-ll-446044273.jpg"
 language: en
 slug: comfort-inn-ll
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

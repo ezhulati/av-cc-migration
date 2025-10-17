@@ -1,7 +1,7 @@
 ---
 title: "VH Broadway Tirana Hotel"
 description: "VH Broadway Tirana Hotel emerges as a prime choice for travelers seeking both convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328968613.jpg?k=2ad64044c23ccefb265dbd1f6beca76cc55ff120dd08494959d62210a6dcb441&o=&hp=1"
+featuredImage: "/images/accommodation/vh-broadway-tirana-hotel-328968613.jpg"
 language: en
 slug: vh-broadway-tirana-hotel
 address: "Rr. Ramiz Kovaci Nr 8, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Saimir Apartment"
 description: "Saimir Apartment stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, just a stone's throw away from the pristine Liro Beach and a short distance from the exclusive Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375963374.jpg?k=47ec57ea9bdcfbd9edeaf95895547ba149e3ad794f9dfbd94dea1f870f3696b4&o=&hp=1"
+featuredImage: "/images/accommodation/saimir-apartment-375963374.jpg"
 language: en
 slug: saimir-apartment
 address: "Rruga Aleksandër Moisiu, 9403 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Eva's House"
 description: "Eva's House emerges as a serene retreat in Lukovë, boasting a prime beachfront location with captivating sea views, just a short 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377533677.jpg?k=92add10aad57a69dd1e22b92f1dc08b3a563e454dbd79f648066813bcf886130&o=&hp=1"
+featuredImage: "/images/accommodation/eva-s-house-377533677.jpg"
 language: en
 slug: eva-s-house
 address: "Baliaqes lukove Shpelle lukove,Lukove, 9713 Lukovë, Albania"

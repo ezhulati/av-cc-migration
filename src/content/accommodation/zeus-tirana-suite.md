@@ -1,7 +1,7 @@
 ---
 title: "Zeus Tirana Suite"
 description: "Zeus Tirana Suite emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463820306.jpg?k=29ab932ce048f95f520d4cf4a68ff728cbc443d3f9af905d60036c703069e338&o=&hp=1"
+featuredImage: "/images/accommodation/zeus-tirana-suite-463820306.jpg"
 language: en
 slug: zeus-tirana-suite
 address: "Rruga Çerçiz Topulli, 1001 Tirana, Albania"

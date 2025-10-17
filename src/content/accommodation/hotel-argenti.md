@@ -1,7 +1,7 @@
 ---
 title: "Hotel Argenti"
 description: "Discover the charm of Shkodra with a stay at Hotel Argenti, a gem that stands just a short 5-minute stroll from the bustling city center."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409779612.jpg?k=0986bd7113d1a0a4b03445ed294285ead0a14d1e603b33996e2f179470e89685&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-argenti-409779612.jpg"
 language: en
 slug: hotel-argenti
 address: "Bulevardi \"Mehmet Pashe Plaku\", 4001 Shkodër, Albania"

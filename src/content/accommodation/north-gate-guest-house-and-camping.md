@@ -1,7 +1,7 @@
 ---
 title: "North Gate Guest House and Camping"
 description: "North Gate Guest House and Camping, located in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, offers guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383455953.jpg?k=505ef163f33e31751be134dc98f8f41046907a439323c2044ac628211b38a895&o=&hp=1"
+featuredImage: "/images/accommodation/north-gate-guest-house-and-camping-383455953.jpg"
 language: en
 slug: north-gate-guest-house-and-camping
 address: "Rruga Dora Distria, 4001 Shkodër, Albania"

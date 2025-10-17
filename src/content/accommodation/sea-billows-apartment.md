@@ -1,7 +1,7 @@
 ---
 title: "Sea Billows Apartment"
 description: "Sea Billows Apartment, located in the vibrant heart of Sarandë, offers a refreshing retreat just a stone's throw away from Saranda City Beach and within easy walking distance to La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477309543.jpg?k=1d34ac2b5e25b5802fb030a6edac0894d569a8c1700d997da08b1aab45a86b86&o=&hp=1"
+featuredImage: "/images/accommodation/sea-billows-apartment-477309543.jpg"
 language: en
 slug: sea-billows-apartment
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

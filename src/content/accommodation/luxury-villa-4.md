@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa 4"
 description: "Luxury Villa 4 emerges as a premier destination for travelers seeking an exceptional stay in Vlorë, boasting air-conditioned accommodations complete with a private pool, a serene garden view, and an inviting balcony."
-featuredImage: "https://graph.facebook.com/v2.9/10206512159537059/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/luxury-villa-4-picture?type.jpg"
 language: en
 slug: luxury-villa-4
 address: "Rruga Aleksandër Moisiu Vlore, 4900 Vlorë, Albania"

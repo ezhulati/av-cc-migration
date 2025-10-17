@@ -1,7 +1,7 @@
 ---
 title: "Isufi Guest Houses"
 description: "Isufi Guest Houses emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208631893.jpg?k=282d0c59931b260fe2d69848c68792749dc7889fd8f31740c3fc2823c1725506&o=&hp=1"
+featuredImage: "/images/accommodation/isufi-guest-houses-208631893.jpg"
 language: en
 slug: isufi-guest-houses
 address: "Rruga Lefter Talo 701, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sun and Sand Apartment"
 description: "Sun and Sand Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, merely a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJyn1Llqe8BE9N3C99K7jkygiXeR9YjL4EaQcra_=s96-c64"
+featuredImage: "/images/accommodation/sun-and-sand-apartment-AATXAJyn1Llq.jpg"
 language: en
 slug: sun-and-sand-apartment
 address: "Rruga Rushit Gurishova, 9403 Vlorë, Albania"

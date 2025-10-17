@@ -1,7 +1,7 @@
 ---
 title: "Radhima Beach Apartment-Tirana Resort"
 description: "Radhima Beach Apartment-Tirana Resort offers an exceptional stay for those seeking the perfect blend of comfort and convenience right on the shores of Orikum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150498576.jpg?k=e5233e47b5c53e97216aca2f40722e583e22db8b20f3d6446835e6026ef60bc5&o=&hp=1"
+featuredImage: "/images/accommodation/radhima-beach-apartment-tirana-resort-150498576.jpg"
 language: en
 slug: radhima-beach-apartment-tirana-resort
 address: "Rradhime (near Marina of Orikum), 9420 Orikum, Albania"

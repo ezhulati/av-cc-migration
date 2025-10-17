@@ -1,7 +1,7 @@
 ---
 title: "Sunny breeze apartment"
 description: "Sunny Breeze Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, conveniently located less than a kilometer from Ri Beach and a leisurely 19-minute stroll from the Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438790356.jpg?k=b6cd222e867c81023f51ccded7efbb9ff374b4d2b6d9713c9e8c4d164a88e74f&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-breeze-apartment-438790356.jpg"
 language: en
 slug: sunny-breeze-apartment
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

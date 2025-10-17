@@ -1,7 +1,7 @@
 ---
 title: "Te SHPIA"
 description: "Te SHPIA, located in the serene Shkoder County region of Baks-Rrjoll, presents an idyllic retreat for travelers seeking tranquility and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481848125.jpg?k=a650a8f78c0aa6bd751d033e296a9cc4fbb2237a729b1c32b728fafc69465084&o=&hp=1"
+featuredImage: "/images/accommodation/te-shpia-481848125.jpg"
 language: en
 slug: te-shpia
 address: "Rruga Baks Rrjoll, Baks-Rrjoll, Albania"

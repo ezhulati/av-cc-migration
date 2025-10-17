@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ksamili"
 description: "Hotel Ksamili stands as a beacon of comfort and convenience in the heart of Ksamil, merely a stone's throw away from the pristine shores of Puerto Rico Beach and a brief journey from the historic wonders of the UNESCO-listed Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445877338.jpg?k=e57eff364b8b81bb0b50f8681c6bfee13a7f9d45781f8a93ce8ec41bf555ae4c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-ksamili-445877338.jpg"
 language: en
 slug: hotel-ksamili
 address: "Rruga Amantia, 9706 Ksamil, Albania"

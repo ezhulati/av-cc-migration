@@ -1,7 +1,7 @@
 ---
 title: "Marina' Apartment, Mali i Robit"
 description: "Marina Apartment in Mali i Robit emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their beach getaway."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481090003.jpg?k=88d2ab07a9a2f0c0379dd01c46387abe923396a8b60eeaca53e9a199c57f4dc5&o=&hp=1"
+featuredImage: "/images/accommodation/marina-apartment-mali-i-robit-481090003.jpg"
 language: en
 slug: marina-apartment-mali-i-robit
 address: "Rruga Skënderbeu 2, Golem, Albania"

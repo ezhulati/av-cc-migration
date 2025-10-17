@@ -1,7 +1,7 @@
 ---
 title: "Breeze Seaview Apartment"
 description: "Breeze Seaview Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477396273.jpg?k=2c316f478329989ffefb020544992ea564682ba658395b10199c976f7d96a6fc&o=&hp=1"
+featuredImage: "/images/accommodation/breeze-seaview-apartment-477396273.jpg"
 language: en
 slug: breeze-seaview-apartment
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

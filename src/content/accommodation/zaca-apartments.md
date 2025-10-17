@@ -1,7 +1,7 @@
 ---
 title: "Zaca Apartments"
 description: "Zaca Apartments emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491300163.jpg?k=3071164b06d8f47e06f9e5ee4fcc225517bd455afc191c3c18b1327825a04a3e&o=&hp=1"
+featuredImage: "/images/accommodation/zaca-apartments-491300163.jpg"
 language: en
 slug: zaca-apartments
 address: "KSAMIL , NAIM FRASHERI 10, 9706 Ksamil, Albania"

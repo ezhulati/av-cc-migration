@@ -1,7 +1,7 @@
 ---
 title: "Sulo Villa"
 description: "Sulo Villa emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned just a short 400-meter stroll from the pristine Radhimë Beach in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428061609.jpg?k=58fbbe2f854c20ef4028f949dcc2769684b9dd19a82a6373a526d2e48d82b14a&o=&hp=1"
+featuredImage: "/images/accommodation/sulo-villa-428061609.jpg"
 language: en
 slug: sulo-villa
 address: "Radhime, 9400 Vlorë, Albania"

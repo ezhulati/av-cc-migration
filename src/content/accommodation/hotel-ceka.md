@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ceka"
 description: "Hotel Ceka stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368662324.jpg?k=c8c5f8ac729565915f1da2cb8e89d1c1016df17351fcf589e317f924f807aab3&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-ceka-368662324.jpg"
 language: en
 slug: hotel-ceka
 address: "Rruga Mbreteresha Teuta, 2001 Durrës, Albania"

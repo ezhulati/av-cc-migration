@@ -1,7 +1,7 @@
 ---
 title: "Emblematic House Apartment 1"
 description: "Emblematic House Apartment 1 emerges as a charming retreat in the historic heart of Gjirokastër, a mere 45 km away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468163877.jpg?k=3da204c571e3f450f73f96154406247ea3dcdcf75227dd1695817cd5ca52a93b&o=&hp=1"
+featuredImage: "/images/accommodation/emblematic-house-apartment-1-468163877.jpg"
 language: en
 slug: emblematic-house-apartment-1
 address: "Rruga Selam Musai, 6001 Gjirokastër, Albania"

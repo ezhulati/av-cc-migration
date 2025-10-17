@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa 5"
 description: "Luxury Villa 5 emerges as a premier choice for travelers seeking an exceptional stay in Vlorë, boasting air-conditioned accommodations complete with a private pool, a serene garden view, and an inviting balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485017471.jpg?k=0255d530a130b5d20fcac764cfa832f9283e6cb59c3fe0dd0894946bf33f0f1b&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-villa-5-485017471.jpg"
 language: en
 slug: luxury-villa-5
 address: "Rruga Aleksandër Moisiu, 4900 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Xheni's Apartment"
 description: "Xheni's Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511670590.jpg?k=e0c881ebee42c87d5058d19f779f8e3b6e63979d8632d8b970e4d0be042d8ae5&o=&hp=1"
+featuredImage: "/images/accommodation/xheni-s-apartment-511670590.jpg"
 language: en
 slug: xheni-s-apartment
 address: "Rruga Ibrahim Rugova, 1001 Tirana, Albania"

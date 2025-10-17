@@ -1,7 +1,7 @@
 ---
 title: "Apartment in front of the beach"
 description: "Apartment in Front of the Beach stands as a prime beachfront gem located in the heart of Durrës, mere steps away from the serene Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471470473.jpg?k=2ba4aae583854c2e0b56ca7685396b966103544f7b3664625e99e9ffec492eeb&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-front-of-the-beach-471470473.jpg"
 language: en
 slug: apartment-in-front-of-the-beach
 address: "Rock of Kavaje, Durrës, Albania"

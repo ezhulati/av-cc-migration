@@ -1,7 +1,7 @@
 ---
 title: "Rooms to let Spiropali"
 description: "Rooms to Let Spiropali emerges as a charming retreat for travelers seeking a serene seaside escape, located approximately 44 km from the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433422962.jpg?k=1714199f5d732619a19e7d5011c43090a6fa83a8d16a5ff4caf9beb1eb20fa2e&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-to-let-spiropali-433422962.jpg"
 language: en
 slug: rooms-to-let-spiropali
 address: "Piqeras 9700, Albania, 9700 Piqeras, Albania"

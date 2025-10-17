@@ -1,7 +1,7 @@
 ---
 title: "Bocca Hotel Korce"
 description: "Bocca Hotel Korce emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455139135.jpg?k=c396f61f53cd83329825dd7d5af7ed5bf3f341b447e947afbdf63585dd30a959&o=&hp=1"
+featuredImage: "/images/accommodation/bocca-hotel-korce-455139135.jpg"
 language: en
 slug: bocca-hotel-korce
 address: "Bulevardi Republika Perballe Bibliotekes Publike \"Thimi Mitko\", 7001 Korçë, Albania"

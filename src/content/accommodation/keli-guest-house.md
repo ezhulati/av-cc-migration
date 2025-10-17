@@ -1,7 +1,7 @@
 ---
 title: "KELI Guest House"
 description: "KELI Guest House emerges as a serene retreat in Përmet, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/223005281.jpg?k=5309ca50d4e8692ec40e510f72af774eee9b62f2d8ef46343ca508102ce82b5f&o=&hp=1"
+featuredImage: "/images/accommodation/keli-guest-house-223005281.jpg"
 language: en
 slug: keli-guest-house
 address: "Lagje Bajame Permet Deja wu, 6401 Përmet, Albania"

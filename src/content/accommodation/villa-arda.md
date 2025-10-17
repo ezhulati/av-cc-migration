@@ -1,7 +1,7 @@
 ---
 title: "Villa Arda"
 description: "Villa Arda emerges as a serene oasis in Qerret, offering guests a unique blend of comfort and convenience with its close proximity to Qerret Beach and just a leisurely 14-minute stroll from Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466004196.jpg?k=f90dad62f35832d95f9ab663b60457d7b70480213aa0a62949b510511a826940&o=&hp=1"
+featuredImage: "/images/accommodation/villa-arda-466004196.jpg"
 language: en
 slug: villa-arda
 address: "Rruga Pavaresia e Kosoves, 2017 Qerret, Albania"

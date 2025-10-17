@@ -1,7 +1,7 @@
 ---
 title: "Hotel Eiffel"
 description: "Hotel Eiffel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508064988.jpg?k=87d1ab17e32c35a9e50eff08a2576006bc108963f705641380ecd82a67472817&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-eiffel-508064988.jpg"
 language: en
 slug: hotel-eiffel
 address: "Rruga 28 Nëntori, 1050 Tirana, Albania"

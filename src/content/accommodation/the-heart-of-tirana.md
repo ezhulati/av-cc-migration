@@ -1,7 +1,7 @@
 ---
 title: "The Heart of Tirana"
 description: "The Heart of Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502338355.jpg?k=41912e867371d8190dabbe01afaa9e28ba2fd83a75a9ba915ee134434a641b59&o=&hp=1"
+featuredImage: "/images/accommodation/the-heart-of-tirana-502338355.jpg"
 language: en
 slug: the-heart-of-tirana
 address: "Rruga Ukraina e Lirë, 1001 Tirana, Albania"

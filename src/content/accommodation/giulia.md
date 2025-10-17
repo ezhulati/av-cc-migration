@@ -1,7 +1,7 @@
 ---
 title: "Giulia"
 description: "Giulia emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from the pristine Vlore Beach and within easy walking distance of the serene Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481484546.jpg?k=cee10f5b11d9c5c4cae3c017df16b9984dba3ef022885ca939a9d3c4c546eef5&o=&hp=1"
+featuredImage: "/images/accommodation/giulia-481484546.jpg"
 language: en
 slug: giulia
 address: "Rruga Avni Rustemi, Vlorë, Albania"

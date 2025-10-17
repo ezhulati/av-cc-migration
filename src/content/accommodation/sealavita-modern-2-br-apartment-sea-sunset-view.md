@@ -1,7 +1,7 @@
 ---
 title: "SeaLaVita, Modern 2 BR Apartment Sea & Sunset View"
 description: "SeaLaVita stands out as a modern 2-bedroom apartment offering breathtaking sea and sunset views, perfectly positioned in the vibrant city of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421193291.jpg?k=5282b8c5da98ac8b62824e20449d68022e4b106e5f4892e40336e634057ab9f2&o=&hp=1"
+featuredImage: "/images/accommodation/sealavita-modern-2-br-apartment-sea-sunset-view-421193291.jpg"
 language: en
 slug: sealavita-modern-2-br-apartment-sea-sunset-view
 address: "Rruga Haziz Xhyherri, Vlorë, Albania"

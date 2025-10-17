@@ -1,7 +1,7 @@
 ---
 title: "Villa Ermali"
 description: "Villa Ermali emerges as a serene oasis in Ksamil, offering guests a unique blend of natural beauty and modern comforts."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269319441.jpg?k=68c4f8cb8c28b9d34976d27966f853042e9be8503c4694f1dcc29a035af5e0e8&o=&hp=1"
+featuredImage: "/images/accommodation/villa-ermali-269319441.jpg"
 language: en
 slug: villa-ermali
 address: "Road\"Pasqyra \" Manastir - Albania 8, 9706 Ksamil, Albania"

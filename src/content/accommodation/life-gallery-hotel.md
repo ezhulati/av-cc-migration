@@ -1,7 +1,7 @@
 ---
 title: "Life Gallery Hotel"
 description: "In the heart of Korçë's historic district, the Life Gallery Hotel, which first opened its doors in May 2011 and recently underwent a comprehensive renovation in July 2023, stands as a testament to refined accommodation and local hospitality."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478806928.jpg?k=0ab9029b1c5d51fce0e64c6322412f66a8b3274ff85298d6f2d6001bafacb2f4&o=&hp=1"
+featuredImage: "/images/accommodation/life-gallery-hotel-478806928.jpg"
 language: en
 slug: life-gallery-hotel
 address: "Bulevard Republika Nr. 55, 7004 Korçë, Albania"

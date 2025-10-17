@@ -1,7 +1,7 @@
 ---
 title: "Plazhi i vjeter"
 description: "Plazhi i Vjeter stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473766186.jpg?k=6f4bba68bec9ae0b2abcced09d15cdd2076264436f6410eed0d1d9194e75e96e&o=&hp=1"
+featuredImage: "/images/accommodation/plazhi-i-vjeter-473766186.jpg"
 language: en
 slug: plazhi-i-vjeter
 address: "Rruga Gjergj Kastrioti, 9440 Vlorë, Albania"

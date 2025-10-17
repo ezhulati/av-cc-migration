@@ -1,7 +1,7 @@
 ---
 title: "Guest House Sabriu"
 description: "Guest House Sabriu emerges as a charming retreat located just 32 km from the historic Monastery of Saint George the Victorious in Rabdisht."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164226779.jpg?k=bb7ec37f51633c062d554c1b46a24c076373df7c22a6f0e747ae779504ff0b66&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-sabriu-164226779.jpg"
 language: en
 slug: guest-house-sabriu
 address: "Rabdisht, 8301 Rabdisht, Albania"

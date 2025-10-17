@@ -1,7 +1,7 @@
 ---
 title: "The Olives Terrace Residences"
 description: "The Olives Terrace Residences, located a mere 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304603180.jpg?k=80f96d7527ee49037a2492d5a9917ad013aaa401b6ab7367a3f593940d325e22&o=&hp=1"
+featuredImage: "/images/accommodation/the-olives-terrace-residences-304603180.jpg"
 language: en
 slug: the-olives-terrace-residences
 address: "Rruga Perivolo, 9422 Dhërmi, Albania"

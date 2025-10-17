@@ -1,7 +1,7 @@
 ---
 title: "Apartments Luis"
 description: "Apartments Luis emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151010816.jpg?k=9358d6baade50946ae3d60abb8cd84395755253754e72efa911d198e275251a5&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-luis-151010816.jpg"
 language: en
 slug: apartments-luis
 address: "rruga butrinti, 9999 Ksamil, Albania"

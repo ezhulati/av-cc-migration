@@ -1,7 +1,7 @@
 ---
 title: "Apartament afer detit dhe qytetit. Relax total"
 description: "Discover the serene oasis of \"Apartament afer detit dhe qytetit."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407102553.jpg?k=34f0c32dda8f95a86f464caa3841142819afee638ada99f366a6944653f7684b&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-afer-detit-dhe-qytetit-relax-total-407102553.jpg"
 language: en
 slug: apartament-afer-detit-dhe-qytetit-relax-total
 address: "Rruga Liria, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SUNNY House"
 description: "SUNNY House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500153470.jpg?k=034e3b86596a1a7cf005fba2696d1de6271ce179bc020226f77070ebb1d3d00f&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-house-500153470.jpg"
 language: en
 slug: sunny-house
 address: "Rruga Kujtim Laro, 1001 Tirana, Albania"

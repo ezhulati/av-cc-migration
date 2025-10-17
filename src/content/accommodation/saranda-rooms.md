@@ -1,7 +1,7 @@
 ---
 title: "Saranda Rooms"
 description: "Saranda Rooms emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, just a short stroll from the pristine Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461520269.jpg?k=9c662c5ec740a3bc93b67d663d23dfc99a076eae40335ce40ab314c281ad94c5&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-rooms-461520269.jpg"
 language: en
 slug: saranda-rooms
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment in the heart of Tirana"
 description: "Apartment in the Heart of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500829296.jpg?k=90005e54d90283e765b9392838604a84a9d4ea940f38c2b7fcb3d213324a9798&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-the-heart-of-tirana-500829296.jpg"
 language: en
 slug: apartment-in-the-heart-of-tirana
 address: "Rruga Frederik Shiroka , Ndertesat 22 , Hyrja 18, Apartament 16, Tirana, Albania"

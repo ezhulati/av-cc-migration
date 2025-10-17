@@ -1,7 +1,7 @@
 ---
 title: "Entire apartment castle view"
 description: "Entire Apartment Castle View stands out as a modern retreat in the historic heart of Berat, boasting recent renovations that enhance its charm and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471218931.jpg?k=3f6d4357867a52431916204fc2c1224848c37db2647f34f5cfee3f14304a4d59&o=&hp=1"
+featuredImage: "/images/accommodation/entire-apartment-castle-view-471218931.jpg"
 language: en
 slug: entire-apartment-castle-view
 address: "Bulevardi Republika, 5001 Berat, Albania"

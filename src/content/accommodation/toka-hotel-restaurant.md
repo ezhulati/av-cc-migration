@@ -1,7 +1,7 @@
 ---
 title: "Toka Hotel Restaurant"
 description: "Toka Hotel Restaurant emerges as a premier destination for those seeking exceptional hospitality in Pogradec, located a mere 15 km from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429913729.jpg?k=adddc751ca755113eba05d6e6c8861b185366e59b2ebb6ad217f2106cf42ced9&o=&hp=1"
+featuredImage: "/images/accommodation/toka-hotel-restaurant-429913729.jpg"
 language: en
 slug: toka-hotel-restaurant
 address: "sh3, 7305 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "AS, Bllok Studio & Apartment"
 description: "AS, Bllok Studio & Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522111972.jpg?k=3f703daeed534e019f1341aafb5cd36ece484703f82cc71582410e5c54e3a584&o=&hp=1"
+featuredImage: "/images/accommodation/as-bllok-studio-apartment-522111972.jpg"
 language: en
 slug: as-bllok-studio-apartment
 address: "Rruga Sami Frashëri appartament Nr.34, building 2, floor 4, 1019 Tirana, Albania"

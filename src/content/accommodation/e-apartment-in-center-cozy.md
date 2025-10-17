@@ -1,7 +1,7 @@
 ---
 title: "E Apartment, in Center, Cozy"
 description: "E Apartment, in Center, Cozy, emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477013332.jpg?k=e960bc0afd81ea00beb2359a04586d5083ed293cc3207bd246fab2c9c664a768&o=&hp=1"
+featuredImage: "/images/accommodation/e-apartment-in-center-cozy-477013332.jpg"
 language: en
 slug: e-apartment-in-center-cozy
 address: "Rruga Mine Peza, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Murataj Lekures"
 description: "Vila Murataj Lekures emerges as a serene oasis in Sarandë, offering a tranquil retreat just a stone's throw away from the pristine shores of Maestral Beach and La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475041135.jpg?k=f5d21c369f37014f8962c4a154c558ed4331bc17aacd8683db365de190380002&o=&hp=1"
+featuredImage: "/images/accommodation/vila-murataj-lekures-475041135.jpg"
 language: en
 slug: vila-murataj-lekures
 address: "Lagja Lekures Sarande, 9703 Sarandë, Albania"

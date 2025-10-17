@@ -1,7 +1,7 @@
 ---
 title: "VILLA 53"
 description: "VILLA 53 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479429194.jpg?k=ad746ca73e95be0eaa6ffee3f24c41d656200cd535a7c90b626a5f6ff5e77ce8&o=&hp=1"
+featuredImage: "/images/accommodation/villa-53-479429194.jpg"
 language: en
 slug: villa-53
 address: "Rruga Gjon Buzuku 53, 1010 Tirana, Albania"

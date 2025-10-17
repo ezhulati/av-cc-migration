@@ -1,7 +1,7 @@
 ---
 title: "Vila Enea"
 description: "Vila Enea emerges as a serene oasis in Durrës, boasting a prime location close to the pristine Durres Beach and a mere 38 km from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464815495.jpg?k=197873cdc255bbcc831da22fdd733c7ba7d339f54e588ebdf698a3e3df37d371&o=&hp=1"
+featuredImage: "/images/accommodation/vila-enea-464815495.jpg"
 language: en
 slug: vila-enea
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

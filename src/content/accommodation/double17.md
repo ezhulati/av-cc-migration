@@ -1,7 +1,7 @@
 ---
 title: "DOUBLE17"
 description: "Discover the charm of Gjirokastër with a stay at DOUBLE17, a prime accommodation choice that stands out for its breathtaking mountain views and convenient location, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471063599.jpg?k=7ea145cfc38df88c93ea21edf6c2195b05337420afd6c9b82de1d7a4e3c9914c&o=&hp=1"
+featuredImage: "/images/accommodation/double17-471063599.jpg"
 language: en
 slug: double17
 address: "Rruga Doktor Vasil Jorgji, 6002 Gjirokastër, Albania"

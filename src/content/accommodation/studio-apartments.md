@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartments"
 description: "Studio Apartments presents a serene retreat in the heart of Sarandë, boasting a prime location that is a stone's throw away from the pristine Santa Quaranta Beach and the exclusive VIP Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340444697.jpg?k=31a18de958d34a5e0959b97e1fea618843c4ed8b34fb66dfcc26426d42e4c545&o=&hp=1"
+featuredImage: "/images/accommodation/studio-apartments-340444697.jpg"
 language: en
 slug: studio-apartments
 address: "Rruga Butrinti Mbi Santa Quaranta, 9701 Sarandë, Albania"

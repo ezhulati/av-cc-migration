@@ -1,7 +1,7 @@
 ---
 title: "Vila Elmazi Fa & Fe"
 description: "Vila Elmazi Fa & Fe emerges as a prime choice for travelers seeking a serene getaway in Ksamil, boasting garden views that promise a tranquil retreat."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtdLevBWoYXNtTMLAUvbZifZtlECAjKa-Hl-jWfpc6BFNa4=s96-c64"
+featuredImage: "/images/accommodation/vila-elmazi-fa-fe-AAcHTtdLevBW.jpg"
 language: en
 slug: vila-elmazi-fa-fe
 address: "Road Ali Pashe Tepelena, 9706 Ksamil, Albania"

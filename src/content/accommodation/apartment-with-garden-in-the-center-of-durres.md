@@ -1,7 +1,7 @@
 ---
 title: "Apartment with garden in the center of Durres"
 description: "Discover the charm of Durrës with a stay at the centrally located Apartment with Garden."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/214516577.webp?k=d3fa854cf2bc11f6acbbbd96223107ce8303d1c7fa11901c4b3d6913eb755ca3&o=?t=1555485169"
+featuredImage: "/images/accommodation/apartment-with-garden-in-the-center-of-durres-214516577.we.jpg"
 language: en
 slug: apartment-with-garden-in-the-center-of-durres
 address: "Rruga Enver Velja, 2000 Durrës, Albania"

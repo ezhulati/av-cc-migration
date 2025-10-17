@@ -1,7 +1,7 @@
 ---
 title: "gzim's apartment"
 description: "Gzim's Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210726301.jpg?k=a6cee269344834384264f03ed0892e1c6265c3a46a340e1ee0084ed5b6f44992&o=&hp=1"
+featuredImage: "/images/accommodation/gzim-s-apartment-210726301.jpg"
 language: en
 slug: gzim-s-apartment
 address: "Rruga Shkallnuri, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blin Apartments"
 description: "Blin Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524090567.jpg?k=ad5f17835387647e2490b5e438a18dbcba60a2223cb6040a6c2e5857433bdbcb&o=&hp=1"
+featuredImage: "/images/accommodation/blin-apartments-524090567.jpg"
 language: en
 slug: blin-apartments
 address: "Rruga e Bogdanëve Floor 3, 1001 Tirana, Albania"

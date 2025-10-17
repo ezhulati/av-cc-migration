@@ -1,7 +1,7 @@
 ---
 title: "Studio Silva 2"
 description: "Studio Silva 2 emerges as a standout choice for travelers seeking the vibrant heart of Tirana, located just 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/159966814.jpg?k=8065f1b0f461f8402ef01fb004a608a218695d1e3a6735d311f7620a35c78c15&o=&hp=1"
+featuredImage: "/images/accommodation/studio-silva-2-159966814.jpg"
 language: en
 slug: studio-silva-2
 address: "Rruga Medar Shtylla, 1010 Tirana, Albania"

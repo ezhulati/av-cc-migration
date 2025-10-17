@@ -1,7 +1,7 @@
 ---
 title: "Ogi's Central Apartment"
 description: "Ogi's Central Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453530336.jpg?k=aa5f38cba335d2b2d9f4dcd7781d63f40ecfbdf3c4d3bc94fbc7d87861d8b150&o=&hp=1"
+featuredImage: "/images/accommodation/ogi-s-central-apartment-453530336.jpg"
 language: en
 slug: ogi-s-central-apartment
 address: "32 Rruga Qemal Stafa Ap.14, 1017 Tirana, Albania"

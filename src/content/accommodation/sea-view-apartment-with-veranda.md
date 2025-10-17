@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment with Veranda"
 description: "Sea View Apartment with Veranda in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, mere steps away from the pristine Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478102188.jpg?k=f7cb3e521c5b701edc68536a76d4776431c5b153733a52a7deb274045bb11fc2&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartment-with-veranda-478102188.jpg"
 language: en
 slug: sea-view-apartment-with-veranda
 address: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"

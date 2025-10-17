@@ -1,7 +1,7 @@
 ---
 title: "Dori Apartments Perla Resort"
 description: "Dori Apartments Perla Resort, located a mere stone's throw away from the serene Lalëz Bay Beach and within easy reach of the historic Skanderbeg Square, stands as a prime choice for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327321927.jpg?k=7ffeee31337bdec528c4f9e33042b93b1f29cd7721e4719637ef04aa39394451&o=&hp=1"
+featuredImage: "/images/accommodation/dori-apartments-perla-resort-327321927.jpg"
 language: en
 slug: dori-apartments-perla-resort
 address: "Rruga Gjiri i Lalzit, 4000 Durrës, Albania"

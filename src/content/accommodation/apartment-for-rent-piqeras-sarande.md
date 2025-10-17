@@ -1,7 +1,7 @@
 ---
 title: "Apartment for rent Piqeras, Sarande"
 description: "Apartment for Rent Piqeras, Sarande, emerges as a recently updated haven for travelers seeking the comfort of home with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472966763.jpg?k=f723953e174eba15e9bb6224395b0250e7fe7d20beeff5fdb057273c51b856d8&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-for-rent-piqeras-sarande-472966763.jpg"
 language: en
 slug: apartment-for-rent-piqeras-sarande
 address: "Piqeras, Sarande Posta Shqiptare, Piqeras, 1001 Piqeras, Albania"

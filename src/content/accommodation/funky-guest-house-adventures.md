@@ -1,7 +1,7 @@
 ---
 title: "Funky Guest House & Adventures"
 description: "Funky Guest House & Adventures emerges as a charming choice for travelers seeking a blend of comfort and adventure in Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105062315.jpg?k=3b3ff64139399955cd9509622de3fccef3a9a61c73012056fb0cf84e02c4c377&o=&hp=1"
+featuredImage: "/images/accommodation/funky-guest-house-adventures-105062315.jpg"
 language: en
 slug: funky-guest-house-adventures
 address: "Sheshi Abdyl Frasheri, 6401 Përmet, Albania"

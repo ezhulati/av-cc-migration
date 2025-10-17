@@ -1,7 +1,7 @@
 ---
 title: "Central Apartment in Shkodra"
 description: "Central Apartment in Shkodra emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër, Shkoder County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507723779.jpg?k=7172ba2b0848cb019f9b738f1d497a9fc4dd66afd6aabfd466062f20b7f1f766&o=&hp=1"
+featuredImage: "/images/accommodation/central-apartment-in-shkodra-507723779.jpg"
 language: en
 slug: central-apartment-in-shkodra
 address: "Rruga Studenti, Ndertesa 34, Hyrja 3, Apartamenti 26, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Gold"
 description: "Hotel Gold emerges as a prime choice for travelers seeking a blend of comfort and convenience along the picturesque coastline of Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472503391.jpg?k=32ecd5ee48e9f02002e846612eb2dd98c29bc0d73cadaaef2f29d575dd745cce&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-gold-472503391.jpg"
 language: en
 slug: hotel-gold
 address: "Rruga Aleksander Moisiu, 9401 Vlorë, Albania"

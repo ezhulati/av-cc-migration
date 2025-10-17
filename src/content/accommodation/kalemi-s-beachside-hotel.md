@@ -1,7 +1,7 @@
 ---
 title: "Kalemi's Beachside Hotel"
 description: "Kalemi's Beachside Hotel emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273152724.jpg?k=710b5688e57701658bff10c20b576d9fca2752c5289fabef97410806565ed96c&o=&hp=1"
+featuredImage: "/images/accommodation/kalemi-s-beachside-hotel-273152724.jpg"
 language: en
 slug: kalemi-s-beachside-hotel
 address: "Rr. \"Mithat Hoxha\", 9700 Sarandë, Albania"

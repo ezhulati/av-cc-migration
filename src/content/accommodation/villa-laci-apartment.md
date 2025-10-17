@@ -1,7 +1,7 @@
 ---
 title: "Villa Laci Apartment"
 description: "Villa Laci Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486339226.jpg?k=5b03affd48f1261e5ac0b93a1d7fcb22ad7462f7ef72e55b739f8231bc912ea5&o=&hp=1"
+featuredImage: "/images/accommodation/villa-laci-apartment-486339226.jpg"
 language: en
 slug: villa-laci-apartment
 address: "70 Rruga Hafiz Ibrahim Dalliu, Tirana, Albania"

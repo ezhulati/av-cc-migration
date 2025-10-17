@@ -1,7 +1,7 @@
 ---
 title: "Aleksi rooms"
 description: "Aleksi Rooms emerges as a charming choice for travelers seeking comfort and convenience in Shëngjin, positioned less than a kilometer from the pristine Shëngjin Beach and a brief 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153166191.jpg?k=36c1b853e885c31bd9700d90049d094c98da0eaeb9ec61bc96413cda046bd44c&o=&hp=1"
+featuredImage: "/images/accommodation/aleksi-rooms-153166191.jpg"
 language: en
 slug: aleksi-rooms
 address: "Bulevardi Nënë Tereza Pallati 87, 4503 Shëngjin, Albania"

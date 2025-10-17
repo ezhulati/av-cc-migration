@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Tinari Theth"
 description: "Bujtina Tinari Theth emerges as a serene retreat, located just a short 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519808370.jpg?k=2b59046568545885241f098bbd7450c6f225e36d5c67b7e2a6a362187d5eddad&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-tinari-theth-519808370.jpg"
 language: en
 slug: bujtina-tinari-theth
 address: "Rruga Fushe, 4001 Theth, Albania"

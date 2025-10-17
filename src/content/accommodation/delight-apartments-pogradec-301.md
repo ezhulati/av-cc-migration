@@ -1,7 +1,7 @@
 ---
 title: "Delight Apartments Pogradec 301"
 description: "Delight Apartments Pogradec 301 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456042533.jpg?k=e316a84230acebcbe9c51978f8a1c2773958bb2eeaa1e37275ccd695f7b72a9b&o=&hp=1"
+featuredImage: "/images/accommodation/delight-apartments-pogradec-301-456042533.jpg"
 language: en
 slug: delight-apartments-pogradec-301
 address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"

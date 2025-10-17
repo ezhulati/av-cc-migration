@@ -1,7 +1,7 @@
 ---
 title: "Elios Wooden room"
 description: "Elios Wooden Room emerges as a serene retreat, offering guests a unique stay with its garden views and the convenience of a balcony, situated merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491343432.jpg?k=bfb2b2828a24c3f2c20591d84f7c8feb88f972909ecb8ec48ad6541f9b0aab90&o=&hp=1"
+featuredImage: "/images/accommodation/elios-wooden-room-491343432.jpg"
 language: en
 slug: elios-wooden-room
 address: "Rruga Xhezmi Delli 3, 1001 Tirana, Albania"

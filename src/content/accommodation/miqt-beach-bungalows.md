@@ -1,7 +1,7 @@
 ---
 title: "MIQT Beach - Bungalows"
 description: "MIQT Beach - Bungalows emerges as a serene oasis just 60 meters from the pristine shores of Orikum Beach, offering a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451670270.jpg?k=ab690646204b2165506a28507ac7f23a1e5f2b176f7e5bc7d8cf1f68ab7b72be&o=&hp=1"
+featuredImage: "/images/accommodation/miqt-beach-bungalows-451670270.jpg"
 language: en
 slug: miqt-beach-bungalows
 address: "Pasha Liman, 9426 Orikum, Albania"

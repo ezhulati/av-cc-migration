@@ -1,7 +1,7 @@
 ---
 title: "Come&Recome Tirana Apartments"
 description: "Come&Recome Tirana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491860696.jpg?k=a5eb4bfe4459638b6066822fa00dec3dba61aa05a67edaa1a534f819d4f949b4&o=&hp=1"
+featuredImage: "/images/accommodation/come-recome-tirana-apartments-491860696.jpg"
 language: en
 slug: come-recome-tirana-apartments
 address: "Rruga Margarita Tutulani 2 Floor, 1019 Tirana, Albania"

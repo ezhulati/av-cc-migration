@@ -1,7 +1,7 @@
 ---
 title: "Trident Residence"
 description: "Trident Residence emerges as a premier beachfront haven in Vlorë, perfectly positioned just a stone's throw away from the pristine Ri Beach and the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-x/8c8621a1f1257f11662c74da47986e0bf59d2175.png"
+featuredImage: "/images/accommodation/trident-residence-8c8621a1f125.jpg"
 language: en
 slug: trident-residence
 address: "Rruga Dhimitër Konomi, Vlorë, Albania"

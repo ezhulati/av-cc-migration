@@ -1,7 +1,7 @@
 ---
 title: "Holiday Home Ali"
 description: "Holiday Home Ali stands as a serene retreat in Piqeras, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258959808.jpg?k=81c575e1272c5fb38bdaa119844075f3995acd48ea22443b60f7cdeff6ad9767&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-home-ali-258959808.jpg"
 language: en
 slug: holiday-home-ali
 address: "Rr. \"Piqeras\", Nd. 14, Piqeras, Lukove, 9713, Himare, 9713 Piqeras, Albania"

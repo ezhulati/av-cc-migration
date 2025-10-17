@@ -1,7 +1,7 @@
 ---
 title: "Penthahouse Shallvare"
 description: "Penthahouse Shallvare emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479730341.jpg?k=b346233028e289e060153ade5d8f1c3130591a90ef5f039c090c15591c504468&o=&hp=1"
+featuredImage: "/images/accommodation/penthahouse-shallvare-479730341.jpg"
 language: en
 slug: penthahouse-shallvare
 address: "Bulevardi Gjergj Fishta 7th floor, 1031 Tirana, Albania"

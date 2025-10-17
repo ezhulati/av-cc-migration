@@ -1,7 +1,7 @@
 ---
 title: "Select Hill Resort"
 description: "Select Hill Resort offers a luxurious escape in the heart of Albania's Tirana area, with breathtaking mountain views, top-notch amenities, and exceptional service."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326206132.jpg?k=0c250a05c7d816a637fb30bfdfa3ee06e127e03dceaf780e0f456ae063f15102&o=&hp=1"
+featuredImage: "/images/accommodation/select-hill-resort-326206132.jpg"
 language: en
 slug: select-hill-resort
 address: "Rruga: Nacionale Tirane-Dajt Km5, 1001 Tirana, Albania"

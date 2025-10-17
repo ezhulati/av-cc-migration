@@ -1,7 +1,7 @@
 ---
 title: "Sea La Vie Anesti"
 description: "Sea La Vie Anesti emerges as a prime choice for travelers seeking a serene beachfront getaway in Borsh, just a stone's throw away from the pristine Borsh Beach and the historic Butrint National Park."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/sea-la-vie-anesti-2c7be68fb3f9.jpg"
 language: en
 slug: sea-la-vie-anesti
 address: "Rruga Plazhit 158, 9714 Borsh, Albania"

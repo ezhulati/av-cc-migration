@@ -1,7 +1,7 @@
 ---
 title: "New Bazar Luxury Apartment"
 description: "Discover the epitome of urban luxury at New Bazar Luxury Apartment, a premier destination for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498968590.jpg?k=9d9ee5f7a0bf5095c26347b5747cc05d90574117641f29dc1fbeef63c17c456e&o=&hp=1"
+featuredImage: "/images/accommodation/new-bazar-luxury-apartment-498968590.jpg"
 language: en
 slug: new-bazar-luxury-apartment
 address: "Rruga Ismail Qemali, 1001 Tirana, Albania"

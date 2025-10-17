@@ -1,7 +1,7 @@
 ---
 title: "City Center 8 - Tirana Way Apartments"
 description: "City Center 8 - Tirana Way Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409498143.jpg?k=859bdc1f9eda4c86c02872acaaa8297c2ea6628c9c564d0d555bd021eee23855&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-8-tirana-way-apartments-409498143.jpg"
 language: en
 slug: city-center-8-tirana-way-apartments
 address: "Rruga Reshit Petrela, 1057 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "090 Center Apartment"
 description: "090 Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/090-center-apartment-d321d61d78a8.jpg"
 language: en
 slug: 090-center-apartment
 address: "Rruga e Barrikadave, Tirana, Albania"

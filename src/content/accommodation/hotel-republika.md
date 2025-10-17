@@ -1,7 +1,7 @@
 ---
 title: "Hotel Republika"
 description: "Hotel Republika emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194071149.jpg?k=ebf8a35a7bbbb9a7636cdf79e1525db7db9be832665b5dde706f29b1a54755b2&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-republika-194071149.jpg"
 language: en
 slug: hotel-republika
 address: "Bulevardi Zogu I Tirana, Albania, 1001 Tirana, Albania"

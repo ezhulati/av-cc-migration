@@ -55,9 +55,8 @@ const formattedDate = new Intl.DateTimeFormat(language === 'sq' ? 'sq-AL' : 'en-
           <li><a href={language === 'sq' ? '/sq/' : '/'}>Home</a></li>
           <li><a href={language === 'sq' ? '/sq/blog/' : '/blog/'}>Blog</a></li>
           {category && (
-            <li><a href={`${language === 'sq' ? '/sq' : ''}/blog/category/${category.toLowerCase()}/`}>{category}</a></li>
+            <li aria-current="page">{category}</li>
           )}
-          <li aria-current="page">{title}</li>
         </ol>
       </nav>
 
@@ -208,7 +207,16 @@ const formattedDate = new Intl.DateTimeFormat(language === 'sq' ? 'sq-AL' : 'en-
 
   /* Post Layout - Two Columns */
   .post-layout {
-    @apply grid lg:grid-cols-[1fr_300px] gap-12;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  @media (min-width: 1024px) {
+    .post-layout {
+      grid-template-columns: 1fr 300px;
+      align-items: start;
+    }
   }
 
   .post-main {
@@ -343,10 +351,28 @@ const formattedDate = new Intl.DateTimeFormat(language === 'sq' ? 'sq-AL' : 'en-
   /* Sidebar */
   .post-sidebar {
     @apply space-y-6;
+    position: sticky;
+    top: 2rem;
+    align-self: flex-start;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    /* Smooth scrolling */
+    scroll-behavior: smooth;
+    /* Hide scrollbar but keep functionality */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .post-sidebar::-webkit-scrollbar {
+    display: none;
   }
 
   .sidebar-card {
-    @apply rounded-lg border bg-card text-card-foreground shadow-sm p-6;
+    @apply rounded-lg border text-card-foreground shadow-sm p-6;
+    background: hsl(var(--card));
+    flex-shrink: 0;
   }
 
   .sidebar-title {
@@ -385,6 +411,9 @@ const formattedDate = new Intl.DateTimeFormat(language === 'sq' ? 'sq-AL' : 'en-
 
     .post-sidebar {
       @apply order-first;
+      position: static;
+      max-height: none;
+      overflow: visible;
     }
   }
 

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Soleil"
 description: "Hotel Soleil stands as a beacon of comfort and luxury in Jal, just a stone's throw away from the pristine Jale Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438161139.jpg?k=c3a547f41a9b6a361921e52f96f18135ffb6f976d5ba7f18dc02c8d0866b20d7&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-soleil-438161139.jpg"
 language: en
 slug: hotel-soleil
 address: "Jale Vlorë, Albania, 9400 Jal, Albania"

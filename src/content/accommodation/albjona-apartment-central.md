@@ -1,7 +1,7 @@
 ---
 title: "Albjona Apartment Central"
 description: "Albjona Apartment Central emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407828034.jpg?k=ba8d2d6f92120cf4784baedf73e5a25b82caa5f6226d57b1b7c44878c42ac038&o=&hp=1"
+featuredImage: "/images/accommodation/albjona-apartment-central-407828034.jpg"
 language: en
 slug: albjona-apartment-central
 address: "Rruga Skender Kosturi, 1001 Tirana, Albania"

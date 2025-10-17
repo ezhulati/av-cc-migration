@@ -1,7 +1,7 @@
 ---
 title: "Vila Riand"
 description: "Vila Riand emerges as a prime choice for travelers seeking a serene getaway in Borsh, located a mere 48 km from the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318497138.jpg?k=03700068dac91ecbfef46ba3456d2391847c973803ac777acd65d471662edc3d&o=&hp=1"
+featuredImage: "/images/accommodation/vila-riand-318497138.jpg"
 language: en
 slug: vila-riand
 address: "Lagja Vonja, 9700 Borsh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Garden Rooms"
 description: "Garden Rooms, a serene haven located a mere 500 meters from the pristine shores of Livadhi Beach in Himare, offers guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373224428.jpg?k=1a8e2215321739b8c9f04dea75e889738a86dac779071036d2bf1ce0060916f4&o=&hp=1"
+featuredImage: "/images/accommodation/garden-rooms-373224428.jpg"
 language: en
 slug: garden-rooms
 address: "Livadhi Ximara, 9425 Himare, Albania"

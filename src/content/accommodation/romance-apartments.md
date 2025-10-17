@@ -1,7 +1,7 @@
 ---
 title: "ROMANCE Apartments"
 description: "ROMANCE Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364847460.jpg?k=6e4495d7a5d932952611d1aa934e2d3655f7e87660ecf66b2d91ebfe58a7ad53&o=&hp=1"
+featuredImage: "/images/accommodation/romance-apartments-364847460.jpg"
 language: en
 slug: romance-apartments
 address: "Rruga e Durrësit floor 4, building 17, door 5, 1001 Tirana, Albania"

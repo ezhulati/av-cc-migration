@@ -1,7 +1,7 @@
 ---
 title: "Villa Minaj"
 description: "Villa Minaj emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, mere steps away from the pristine shores of Ksamil Beach 9 and a short stroll from the idyllic Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503978083.jpg?k=df1b5cdf4f53906fea33860836b3323d3c526c44fe489e7630d6eb42368bf088&o=&hp=1"
+featuredImage: "/images/accommodation/villa-minaj-503978083.jpg"
 language: en
 slug: villa-minaj
 address: "Rruga Naim Frashëri, 9706 Ksamil, Albania"

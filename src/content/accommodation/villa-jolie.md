@@ -1,7 +1,7 @@
 ---
 title: "Villa Jolie"
 description: "Villa Jolie emerges as a serene retreat for travelers seeking a blend of comfort and convenience, complemented by breathtaking sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478238592.jpg?k=caea7014b32da737aff31be6bbbb4fff9810b4e63efa70064d56c75c931f3c5b&o=&hp=1"
+featuredImage: "/images/accommodation/villa-jolie-478238592.jpg"
 language: en
 slug: villa-jolie
 address: "SH8, 9425 Himare, Albania"

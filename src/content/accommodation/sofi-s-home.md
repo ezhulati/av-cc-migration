@@ -1,7 +1,7 @@
 ---
 title: "Sofi's home"
 description: "Sofi's Home emerges as a serene retreat in the historic heart of Gjirokastër, offering guests a comfortable stay with its air-conditioned accommodations that feature a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/sofi-s-home-8d80ab6bf73f.jpg"
 language: en
 slug: sofi-s-home
 address: "Rruga Jace Hormova, Gjirokastër, Albania"

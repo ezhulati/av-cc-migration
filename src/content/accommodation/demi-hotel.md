@@ -1,7 +1,7 @@
 ---
 title: "Demi Hotel"
 description: "Demi Hotel emerges as a distinguished choice for travelers seeking both relaxation and adventure in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199732894.jpg?k=f057f42ab41bc519a43381fe08881ceab2635f8897320bc558e622708ae845c1&o=&hp=1"
+featuredImage: "/images/accommodation/demi-hotel-199732894.jpg"
 language: en
 slug: demi-hotel
 address: "Rruga Butrinti, 1011 Sarandë, Albania"

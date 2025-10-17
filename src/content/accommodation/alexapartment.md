@@ -1,7 +1,7 @@
 ---
 title: "alexapartment"
 description: "Alexapartment in Berat stands out as a prime choice for travelers seeking comfort and convenience in their accommodation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476186834.jpg?k=70dc41203758e4bfda6aeda1404983908bf79043cde38fce0015e74ebade6005&o=&hp=1"
+featuredImage: "/images/accommodation/alexapartment-476186834.jpg"
 language: en
 slug: alexapartment
 address: "Rruga Ilia Therecka, 5000 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Piro's Cozy Rooms - City Centre"
 description: "Piro's Cozy Rooms - City Centre emerges as a gem in the heart of Korçë, offering a blend of modern comfort and convenience."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GjydZNbHC9E6LjvORm_7U5bJYPWK1Cj3nhMIsH1nw=s96-c64"
+featuredImage: "/images/accommodation/piro-s-cozy-rooms-city-centre-AOh14GjydZNb.jpg"
 language: en
 slug: piro-s-cozy-rooms-city-centre
 address: "12 Rruga Kostandin Kristoforidhi, 7001 Korçë, Albania"

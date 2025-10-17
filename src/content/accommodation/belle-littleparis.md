@@ -1,7 +1,7 @@
 ---
 title: "Belle, Littleparis"
 description: "Discover the charm of Korçë at Belle, Littleparis, a serene oasis located just a stone's throw away from the enchanting Ohrid Lake Springs."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJwLpilKiLK_FSzmoDL7l_iBH9RSFYaeKuUCpWa0=s96-c64"
+featuredImage: "/images/accommodation/belle-littleparis-AATXAJwLpilK.jpg"
 language: en
 slug: belle-littleparis
 address: "Rrugica Piro Lena, pazari i Vjeter Korce Second floor, 7001 Korçë, Albania"

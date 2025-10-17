@@ -1,7 +1,7 @@
 ---
 title: "Yellow Mood Brand New Modern Apartment in best area of the city"
 description: "Yellow Mood Brand New Modern Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494920752.jpg?k=6cef8e146be0c03a36428263588541fe03b0de6549483b59d58389cb305f05d0&o=&hp=1"
+featuredImage: "/images/accommodation/yellow-mood-brand-new-modern-apartment-in-best-area-of-the-city-494920752.jpg"
 language: en
 slug: yellow-mood-brand-new-modern-apartment-in-best-area-of-the-city
 address: "Rruga Taulantia, 2001 Durrës, Albania"

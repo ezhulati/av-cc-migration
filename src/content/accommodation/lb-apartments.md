@@ -1,7 +1,7 @@
 ---
 title: "LB Apartments"
 description: "LB Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526321208.jpg?k=d70ea4f081ff2a28b8bb93258cc4a062214e2feed84e335fba0817a9220e8084&o=&hp=1"
+featuredImage: "/images/accommodation/lb-apartments-526321208.jpg"
 language: en
 slug: lb-apartments
 address: "Rruga Mihal Duri, 1010 Tirana, Albania"

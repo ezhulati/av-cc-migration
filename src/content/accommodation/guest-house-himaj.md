@@ -1,7 +1,7 @@
 ---
 title: "Guest House Himaj"
 description: "Guest House Himaj in Berat stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431282200.jpg?k=ad107bd725ca613b412f9bd506f42ddefb82d5ea1bb5cd317a8d9b503c8ddc60&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-himaj-431282200.jpg"
 language: en
 slug: guest-house-himaj
 address: "Rruga Shkembi, 350m from the Berat Castle, 1.2km from the City Center Lagjia\"Deshmoret e Kombit\", 5001 Berat, Albania"

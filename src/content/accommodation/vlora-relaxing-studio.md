@@ -1,7 +1,7 @@
 ---
 title: "Vlora Relaxing Studio"
 description: "Vlora Relaxing Studio emerges as a serene haven for travelers seeking both comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368313473.jpg?k=f0dd06e97283d2b0bc600b0cf32e1be81149745e96fad33851ef5162bb2633c1&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-relaxing-studio-368313473.jpg"
 language: en
 slug: vlora-relaxing-studio
 address: "Dhimiter Konomi, 9405 Vlorë, Albania"

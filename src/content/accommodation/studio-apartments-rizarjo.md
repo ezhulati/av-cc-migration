@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartments Rizarjo"
 description: "Studio Apartments Rizarjo emerges as a charming retreat in the heart of Ksamil, offering a serene escape with its panoramic mountain vistas and proximity to the pristine shores of Ksamil Beach and Coco Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486965231.jpg?k=b334b93df0586103abf373c5659ad806ea47378f8190720194fc701b938c47e0&o=&hp=1"
+featuredImage: "/images/accommodation/studio-apartments-rizarjo-486965231.jpg"
 language: en
 slug: studio-apartments-rizarjo
 address: "Rr tafil buzi malakaster 6 4, 9706 Ksamil, Albania"

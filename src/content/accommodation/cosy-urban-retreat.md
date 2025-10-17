@@ -1,7 +1,7 @@
 ---
 title: "Cosy Urban Retreat"
 description: "Cosy Urban Retreat emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507885779.jpg?k=98eb011c227e41c55aae2a0518276e24912cb87ce086cccc4dbc60a99f4bed87&o=&hp=1"
+featuredImage: "/images/accommodation/cosy-urban-retreat-507885779.jpg"
 language: en
 slug: cosy-urban-retreat
 address: "Rruga Jeronim De Rada, 1001 Tirana, Albania"

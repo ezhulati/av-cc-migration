@@ -1,7 +1,7 @@
 ---
 title: "Comfort Inn X"
 description: "Comfort Inn X emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of the city, merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496137809.jpg?k=efff0519ffc6296caf4a6004f43ee1dc58b12757480abaf67bef95ce832b1d4f&o=&hp=1"
+featuredImage: "/images/accommodation/comfort-inn-x-496137809.jpg"
 language: en
 slug: comfort-inn-x
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

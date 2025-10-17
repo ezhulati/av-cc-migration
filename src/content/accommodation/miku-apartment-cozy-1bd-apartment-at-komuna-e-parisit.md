@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Cozy 1BD Apartment at Komuna e Parisit"
 description: "Miku Apartment-Cozy 1BD Apartment at Komuna e Parisit emerges as a serene retreat in the vibrant heart of Tirana, located just 2 km from the iconic Skanderbeg Square and a short drive of 6."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514098099.jpg?k=051b40ed06fd70612ed9273ec76c8e7cf54061e58f948fd5f5090ab7e0bd04bc&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-cozy-1bd-apartment-at-komuna-e-parisit-514098099.jpg"
 language: en
 slug: miku-apartment-cozy-1bd-apartment-at-komuna-e-parisit
 address: "Rruga Sami Frashëri Apartamenti nr 22, 1001 Tirana, Albania"

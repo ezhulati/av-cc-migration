@@ -1,7 +1,7 @@
 ---
 title: "Apartament Golem Holiday Apartment"
 description: "Discover the charm of seaside living at Apartament Golem Holiday Apartment, a prime destination for travelers seeking the perfect blend of comfort and convenience on the Golem coastline."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473951665.jpg?k=dacc9cfffdaac73376987848b2810e7b866c2d716b6526e6afae4e3932f9c5fc&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-golem-holiday-apartment-473951665.jpg"
 language: en
 slug: apartament-golem-holiday-apartment
 address: "Rruga e Fshatrave Turistike, 1022 Golem, Albania"

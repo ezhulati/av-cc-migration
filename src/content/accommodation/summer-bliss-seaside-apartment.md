@@ -1,7 +1,7 @@
 ---
 title: "Summer bliss, seaside apartment"
 description: "Summer Bliss Seaside Apartment emerges as a prime choice for travelers seeking a serene getaway in Durrës, just a stone's throw away from the inviting Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470225715.jpg?k=8643151ceb924d51b9c7fdd8424f34f481756f1d0d39cda57cba56056afd6b02&o=&hp=1"
+featuredImage: "/images/accommodation/summer-bliss-seaside-apartment-470225715.jpg"
 language: en
 slug: summer-bliss-seaside-apartment
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

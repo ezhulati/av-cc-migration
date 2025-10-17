@@ -1,7 +1,7 @@
 ---
 title: "Ionian Seaview"
 description: "Ionian Seaview stands as a prime choice for travelers seeking a serene getaway, situated a mere stone's throw away from the pristine Spille Beach in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207265052.jpg?k=6f4e435cb27a86737b50fb59f17449b80cd2964d57634a2aefd97701bfe27c48&o=&hp=1"
+featuredImage: "/images/accommodation/ionian-seaview-207265052.jpg"
 language: en
 slug: ionian-seaview
 address: "In front of Himara Stadium, 9425 Himare, Albania"

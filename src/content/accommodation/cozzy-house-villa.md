@@ -1,7 +1,7 @@
 ---
 title: "Cozzy House - Villa"
 description: "Cozzy House - Villa emerges as a serene retreat in the vibrant heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432063997.jpg?k=951cd695313b9119d8bdd308b52e88c49aa407f5ce95850bce4da8a35a5c02e7&o=&hp=1"
+featuredImage: "/images/accommodation/cozzy-house-villa-432063997.jpg"
 language: en
 slug: cozzy-house-villa
 address: "Rruga Artan Lenja, 1001 Tirana, Albania"

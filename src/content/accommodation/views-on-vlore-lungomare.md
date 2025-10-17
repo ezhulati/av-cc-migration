@@ -1,7 +1,7 @@
 ---
 title: "Views on Vlore - Lungomare"
 description: "Views on Vlore - Lungomare emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, positioned less than a kilometer from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/views-on-vlore-lungomare-d321d61d78a8.jpg"
 language: en
 slug: views-on-vlore-lungomare
 address: "Rruga Çamëria 5, 9400 Vlorë, Albania"

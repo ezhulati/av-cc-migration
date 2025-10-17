@@ -1,7 +1,7 @@
 ---
 title: "Karaburun Sunset Beach"
 description: "Karaburun Sunset Beach emerges as a serene oasis in Orikum, offering guests an exclusive slice of paradise with its private beach area just a stone's throw away from Nettuno Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302697422.jpg?k=f53dcd54f7b3fba15724ec6573f66b14d6a670a2e708fb6e9a7a23951709117f&o=&hp=1"
+featuredImage: "/images/accommodation/karaburun-sunset-beach-302697422.jpg"
 language: en
 slug: karaburun-sunset-beach
 address: "Rruga Pashaliman, 9426 Orikum, Albania"

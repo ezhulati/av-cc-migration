@@ -1,7 +1,7 @@
 ---
 title: "Appartamenti Nicola"
 description: "Appartamenti Nicola emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477241967.jpg?k=6b8a7e76d5a1494d38321bde7ec14999d70ec1df6f1b00c6ed47254b0f77766a&o=&hp=1"
+featuredImage: "/images/accommodation/appartamenti-nicola-477241967.jpg"
 language: en
 slug: appartamenti-nicola
 address: "Rruga Teuta, 2000 Durrës, Albania"

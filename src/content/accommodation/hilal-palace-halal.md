@@ -1,7 +1,7 @@
 ---
 title: "Hilal Palace - Halal"
 description: "Hilal Palace - Halal emerges as a serene oasis in Golem, offering a tranquil retreat less than a kilometer away from the pristine sands of Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379689809.jpg?k=e591b8208a3b9dde6b526fd257911a5b514985a176a5ae5560182a09e0196371&o=&hp=1"
+featuredImage: "/images/accommodation/hilal-palace-halal-379689809.jpg"
 language: en
 slug: hilal-palace-halal
 address: "Bulevardi i Palmave, 2504 Golem, Albania"

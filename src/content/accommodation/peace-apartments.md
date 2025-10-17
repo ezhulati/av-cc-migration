@@ -1,7 +1,7 @@
 ---
 title: "Peace Apartments"
 description: "Peace Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/peace-apartments-12a07b30d7fe.jpg"
 language: en
 slug: peace-apartments
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

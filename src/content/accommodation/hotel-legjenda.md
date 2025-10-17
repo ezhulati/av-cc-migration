@@ -1,7 +1,7 @@
 ---
 title: "Hotel Legjenda"
 description: "Hotel Legjenda stands as a serene oasis in Shkodër, a mere 46 km from the bustling Port of Bar, offering a tranquil retreat with its outdoor swimming pool, private parking, lush garden, and inviting terrace."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274937240.jpg?k=538d22357a4f6bac58c7bbaa8f979c9faef9859078869c4818e19dbfd254fafe&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-legjenda-274937240.jpg"
 language: en
 slug: hotel-legjenda
 address: "Camping Legjenda, Road Agron 1, 4001 Shkodër, Albania"

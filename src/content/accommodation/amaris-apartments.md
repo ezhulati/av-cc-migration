@@ -1,7 +1,7 @@
 ---
 title: "Amaris Apartments"
 description: "Amaris Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360276932.jpg?k=ee6443397c82d1649a423e7e85d00c47fb90c0be635a07430bca95197331349b&o=&hp=1"
+featuredImage: "/images/accommodation/amaris-apartments-360276932.jpg"
 language: en
 slug: amaris-apartments
 address: "Rruga Pavaresia, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Flat 86 - Explore the heart of Tirana"
 description: "Flat 86 presents an exceptional stay experience in the vibrant heart of Tirana, located merely 800 meters from the iconic Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502710180.jpg?k=179ea22e5cafd8f987513eb19a311fd635255f4c05b481ffcb090ec006a6117f&o=&hp=1"
+featuredImage: "/images/accommodation/flat-86-explore-the-heart-of-tirana-502710180.jpg"
 language: en
 slug: flat-86-explore-the-heart-of-tirana
 address: "Rruga Isa Boletini, 1001 Tirana, Albania"

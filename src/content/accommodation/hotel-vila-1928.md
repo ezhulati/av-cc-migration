@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila 1928"
 description: "Hotel Vila 1928 emerges as a charming retreat in the heart of Tirana, boasting a serene garden, a welcoming shared lounge, and a lively bar, all complemented by the convenience of complimentary WiFi accessible throughout the premises."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130166435.jpg?k=c6b66d280f00b05ffebc27a963efbe983f7d034b3d806fbb08c8968c422af341&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-1928-130166435.jpg"
 language: en
 slug: hotel-vila-1928
 address: "Rr. Kavajes, next to Islam Alla str., 1001 Tirana, Albania"

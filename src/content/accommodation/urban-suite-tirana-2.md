@@ -1,7 +1,7 @@
 ---
 title: "Urban Suite Tirana 2"
 description: "Urban Suite Tirana 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522191424.jpg?k=b75a96d2a327debed1311c4c1832202d3cbf751e50a71d62251d9a478130ab45&o=&hp=1"
+featuredImage: "/images/accommodation/urban-suite-tirana-2-522191424.jpg"
 language: en
 slug: urban-suite-tirana-2
 address: "Rruga Haxhi Hysen Dalliu Nd.50 Kati 1 Apt.2, 1012 Tirana, Albania"

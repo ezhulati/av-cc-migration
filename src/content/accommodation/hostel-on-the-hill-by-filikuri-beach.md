@@ -1,7 +1,7 @@
 ---
 title: "Hostel on the Hill - by Filikuri Beach"
 description: "Hostel on the Hill - by Filikuri Beach stands out as a serene retreat in Himare, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526571502.jpg?k=bd845ae056f2bea884ba47200e8b77f5ec57e090154a8940891f4617b8db558b&o=&hp=1"
+featuredImage: "/images/accommodation/hostel-on-the-hill-by-filikuri-beach-526571502.jpg"
 language: en
 slug: hostel-on-the-hill-by-filikuri-beach
 address: "Rruga Andre Dhima 61, 9425 Himare, Albania"

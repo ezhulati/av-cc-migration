@@ -1,7 +1,7 @@
 ---
 title: "I Love Tirana 3"
 description: "Located just over a kilometer from the vibrant heart of the city at Skanderbeg Square, \"I Love Tirana 3\" emerges as a top choice for travelers seeking a blend of comfort and convenience in Albania's bustling capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495518990.jpg?k=1ac8a5a17659c57261609acee20fc3fff1e47701ee70152dd4dfff2c66fb7e60&o=&hp=1"
+featuredImage: "/images/accommodation/i-love-tirana-3-495518990.jpg"
 language: en
 slug: i-love-tirana-3
 address: "Rruga Haxhi Hysen Dalliu 15, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse on Canyon"
 description: "Guesthouse on Canyon emerges as a serene retreat in the heart of Tepelenë, located within the picturesque Gjirokastër County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495077329.jpg?k=f1925f800c8b4e94c136ac6319ec60d40f7ace996c9a591b26f3a5ba031b911f&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-on-canyon-495077329.jpg"
 language: en
 slug: guesthouse-on-canyon
 address: "Unnamed, Road, Nivica, 6301 Tepelenë, Albania"

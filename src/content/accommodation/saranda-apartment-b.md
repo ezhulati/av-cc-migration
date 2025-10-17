@@ -1,7 +1,7 @@
 ---
 title: "Saranda Apartment B"
 description: "Saranda Apartment B emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426857438.jpg?k=7ec96af7442c2cba1195355db03dc96b88a7038199d1635b9218ae52e0da6ad0&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-apartment-b-426857438.jpg"
 language: en
 slug: saranda-apartment-b
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

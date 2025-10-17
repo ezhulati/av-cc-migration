@@ -1,7 +1,7 @@
 ---
 title: "J L apartament 2 bedroom tirana resort"
 description: "J L Apartment 2 Bedroom Tirana Resort stands out for its breathtaking sea views and its prime location just a short stroll from Baro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347001322.jpg?k=0507aef1f6ac4eb092139dff701c3bf9611fb6aeef8efacc137d1b9408181505&o=&hp=1"
+featuredImage: "/images/accommodation/j-l-apartament-2-bedroom-tirana-resort-347001322.jpg"
 language: en
 slug: j-l-apartament-2-bedroom-tirana-resort
 address: "Rruga Nacionale e Vjetër, 1234 Vorë, Albania"

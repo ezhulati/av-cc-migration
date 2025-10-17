@@ -1,7 +1,7 @@
 ---
 title: "Hylli i drites"
 description: "Hylli i Drites emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213828617.jpg?k=d6d0d948a498be3a7cfd0f3f20c9309f83ab5e18ef0f170c8bba3d1ce5b08eef&o=&hp=1"
+featuredImage: "/images/accommodation/hylli-i-drites-213828617.jpg"
 language: en
 slug: hylli-i-drites
 address: "Rruga lezhe vaudejes trosha 4005, 4005 Lezhë, Albania"

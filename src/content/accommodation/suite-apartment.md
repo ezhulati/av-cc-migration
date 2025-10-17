@@ -1,7 +1,7 @@
 ---
 title: "Suite apartment"
 description: "Suite Apartment in Vlorë stands as a prime choice for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the pristine Ri Beach and the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484760859.jpg?k=dfabd13ee52640004d2e222f48aae9044bd99525ad0094bc1e26ab8d13f0bf6b&o=&hp=1"
+featuredImage: "/images/accommodation/suite-apartment-484760859.jpg"
 language: en
 slug: suite-apartment
 address: "Vlore, 1001 Vlorë, Albania"

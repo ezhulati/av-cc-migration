@@ -1,7 +1,7 @@
 ---
 title: "Elin Deluxe Apartment"
 description: "Elin Deluxe Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking mountain and sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356445565.jpg?k=83d634c2c52d135fde19980552fa916cd9ce1cd461ab44fcaf747641b746dcc4&o=&hp=1"
+featuredImage: "/images/accommodation/elin-deluxe-apartment-356445565.jpg"
 language: en
 slug: elin-deluxe-apartment
 address: "Mbrapa \"Hotel Ylli\" Shkalla B, kati 3, apartments nr 63, 1001 Skataj, Albania"

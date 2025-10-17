@@ -1,7 +1,7 @@
 ---
 title: "Bledi Apartments"
 description: "Bledi Apartments emerges as a prime choice for travelers seeking a serene retreat in Sarandë, boasting garden views that promise a tranquil escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476974121.jpg?k=17854bd21673bcdd02ecccdb226f3ae33bae7d53f893a58647b22e5373b28a89&o=&hp=1"
+featuredImage: "/images/accommodation/bledi-apartments-476974121.jpg"
 language: en
 slug: bledi-apartments
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "HOTEL RENATO"
 description: "HOTEL RENATO emerges as a charming retreat in the heart of Ksamil, merely a stone's throw away from the pristine Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456703373.jpg?k=90f7f3be0fac4f05e2c19ffd45878ce28d2616ae1aa676de063ef4b030a011a6&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-renato-456703373.jpg"
 language: en
 slug: hotel-renato
 address: "Rruga Riviera Rruga Naim Frasheri, 9706 Ksamil, Albania"

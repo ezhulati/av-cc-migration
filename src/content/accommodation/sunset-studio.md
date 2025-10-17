@@ -1,7 +1,7 @@
 ---
 title: "Sunset Studio"
 description: "Sunset Studio emerges as a prime choice for travelers seeking a serene retreat in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499097415.jpg?k=d1fafb2df09428d2c8245bf1eef2ff3c3c440def1ff3ad0642f356f96a6f12a4&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-studio-499097415.jpg"
 language: en
 slug: sunset-studio
 address: "Bulevardi Bajram Curri Nd. 1 Maji , Ap 26, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Alfred"
 description: "Villa Alfred emerges as a prime choice for travelers seeking comfort and convenience in the heart of Saranda."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143718195.jpg?k=e013a54f45b788c1acd2ef1601d7f1698c2af832274b3462f7b72b2071a9f055&o=&hp=1"
+featuredImage: "/images/accommodation/villa-alfred-143718195.jpg"
 language: en
 slug: villa-alfred
 address: "Rruga Adem Sheme 59, 9701 Sarandë, Albania"

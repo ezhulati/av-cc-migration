@@ -1,7 +1,7 @@
 ---
 title: "The View Hotel Ksamil"
 description: "The View Hotel Ksamil emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil, just a short stroll from the pristine Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517636901.jpg?k=b89fbecc8d60c541960aebad378a34af0f1c4491e5c268eb2d2c303bc2efdf57&o=&hp=1"
+featuredImage: "/images/accommodation/the-view-hotel-ksamil-517636901.jpg"
 language: en
 slug: the-view-hotel-ksamil
 address: "Rruga Parajsa, Ksamil, 9706 Ksamil, Albania"

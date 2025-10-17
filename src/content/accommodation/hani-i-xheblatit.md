@@ -1,7 +1,7 @@
 ---
 title: "Hani i Xheblatit"
 description: "Hani i Xheblatit emerges as a serene retreat for travelers seeking a blend of comfort and adventure in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155324884.jpg?k=d71d0db5d0948b0e3e762716c94b9e5118a5e07d3de6d10bbf52021ba328e8ac&o=&hp=1"
+featuredImage: "/images/accommodation/hani-i-xheblatit-155324884.jpg"
 language: en
 slug: hani-i-xheblatit
 address: "Rr. Antipatrea | Lagja Mangalem,, 5001 Berat, Albania"

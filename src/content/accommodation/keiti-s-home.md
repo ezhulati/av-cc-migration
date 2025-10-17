@@ -1,7 +1,7 @@
 ---
 title: "Keiti's home"
 description: "Keiti's Home emerges as a serene retreat in Dukati i Ri, offering breathtaking mountain views and a tranquil setting just 29 km from Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484033550.jpg?k=1a239a1a4095cf005d1450fdee8065dccdb44774d55f5e2227c1d4dc2d94ad94&o=&hp=1"
+featuredImage: "/images/accommodation/keiti-s-home-484033550.jpg"
 language: en
 slug: keiti-s-home
 address: "Orikum Dukat;Nd.110;H. 1; Orikum;Dukat; 9426; Vlore, Dukati i Ri, Albania"

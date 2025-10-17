@@ -1,7 +1,7 @@
 ---
 title: "Vila Elida"
 description: "Vila Elida emerges as a serene oasis in Tragjas, boasting a stunning pool that offers panoramic views of the surrounding landscape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204311682.jpg?k=40f287da2ded9f35d576595255c7f6d210f9649bfc6b94380ec6afa2cc6cca04&o=&hp=1"
+featuredImage: "/images/accommodation/vila-elida-204311682.jpg"
 language: en
 slug: vila-elida
 address: "Vila Tragjas, 9426 Tragjas, Albania"

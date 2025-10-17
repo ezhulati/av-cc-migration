@@ -1,7 +1,7 @@
 ---
 title: "M&I Beach Apartment with Sea View"
 description: "M&I Beach Apartment with Sea View stands as a prime choice for travelers seeking a serene getaway in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297407800.jpg?k=e345cdb78709c1a50984708c00bf333a68aa9e6e865a9f10520f62dd6ca44db1&o=&hp=1"
+featuredImage: "/images/accommodation/m-i-beach-apartment-with-sea-view-297407800.jpg"
 language: en
 slug: m-i-beach-apartment-with-sea-view
 address: "Te Shkembi i Kavajes, Durres Te Bar DEJVI, 2000 Durrës, Albania"

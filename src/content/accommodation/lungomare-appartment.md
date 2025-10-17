@@ -1,7 +1,7 @@
 ---
 title: "Lungomare appartment"
 description: "Lungomare Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a short 300-meter stroll from the pristine Vlore Beach and within easy reach of Ri Beach at 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491829208.jpg?k=a9fdd9f77049cecc596260635b99addc33290009ced4dd8a3f1984b141668aec&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-appartment-491829208.jpg"
 language: en
 slug: lungomare-appartment
 address: "Rruga Leka Gjiknuri, 9401 Vlorë, Albania"

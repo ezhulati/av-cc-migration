@@ -1,7 +1,7 @@
 ---
 title: "Hotel Olive"
 description: "Hotel Olive emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, positioned strategically just a short distance from the pristine Vlore Beach and the serene Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244437508.jpg?k=7f6f5cb5659a8717ee5471dff5fb61fbf001349c648e7a6af5a8e5298bebb008&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-olive-244437508.jpg"
 language: en
 slug: hotel-olive
 address: "Rruga Kosova, Pallati Cobo 2, 9404 Vlorë, Albania"

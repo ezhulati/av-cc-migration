@@ -1,7 +1,7 @@
 ---
 title: "Flowers & Green 2 Bedrooms Apartment & Box Garage"
 description: "Flowers & Green 2 Bedrooms Apartment & Box Garage emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512010558.jpg?k=9d2f1f600874a85e69802c02e7e6018858b611ed56b84682a09316d109a552e6&o=&hp=1"
+featuredImage: "/images/accommodation/flowers-green-2-bedrooms-apartment-box-garage-512010558.jpg"
 language: en
 slug: flowers-green-2-bedrooms-apartment-box-garage
 address: "Rruga Francesko Krispi, 9405 Vlorë, Albania"

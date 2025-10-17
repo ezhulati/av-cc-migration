@@ -1,7 +1,7 @@
 ---
 title: "Ujevara apartaments"
 description: "Discover the charm of Durrës with a stay at Ujevara Apartments, a prime choice for travelers seeking both comfort and convenience in the heart of Durres County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503984736.jpg?k=4dd3d1b3465c217021201332c6ca8cdba996b32c826f9475c640ee704f510458&o=&hp=1"
+featuredImage: "/images/accommodation/ujevara-apartaments-503984736.jpg"
 language: en
 slug: ujevara-apartaments
 address: "Rruga Shkembi i Kavajes, 2002 Durrës, Albania"

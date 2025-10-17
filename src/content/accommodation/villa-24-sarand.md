@@ -1,7 +1,7 @@
 ---
 title: "VILLA 24 Sarandë"
 description: "VILLA 24 Sarandë emerges as a recently renovated gem in the heart of Sarandë, boasting air-conditioned rooms complemented by free WiFi and on-site parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370432586.jpg?k=fa71f8488e181cc1876f017140603f6ee7e427bbd0de4dee954af704f2d0b71a&o=&hp=1"
+featuredImage: "/images/accommodation/villa-24-sarand-370432586.jpg"
 language: en
 slug: villa-24-sarand
 address: "Rruga Janaq Kumi Building No 24, 9700 Sarandë, Albania"

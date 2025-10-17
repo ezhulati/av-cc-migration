@@ -1,7 +1,7 @@
 ---
 title: "Escape Luxury Apartment"
 description: "Escape Luxury Apartment in Shëngjin stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485575791.jpg?k=aee01cce0e6e56df7927f33189d9285cef103d6907c875e1fdd57c53bb8bd1f3&o=&hp=1"
+featuredImage: "/images/accommodation/escape-luxury-apartment-485575791.jpg"
 language: en
 slug: escape-luxury-apartment
 address: "Shëngjin - Kune, Shëngjin, Albania"

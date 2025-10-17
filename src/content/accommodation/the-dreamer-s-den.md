@@ -1,7 +1,7 @@
 ---
 title: "The Dreamer's Den"
 description: "The Dreamer's Den emerges as a prime choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481401408.jpg?k=af2b443898df3e1aeb2294cdbdcb579e84bd96bff0070c85f24cb49d9cd06613&o=&hp=1"
+featuredImage: "/images/accommodation/the-dreamer-s-den-481401408.jpg"
 language: en
 slug: the-dreamer-s-den
 address: "Rruga Aleksandri i Madh 5, 1056 Tirana, Albania"

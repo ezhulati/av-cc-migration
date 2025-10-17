@@ -1,7 +1,7 @@
 ---
 title: "Lana Studio"
 description: "Lana Studio emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471171358.jpg?k=946cbd6753ca4b461ff77ddf5c7dfb2d00f0b35aa9f09fc349a6a0d8bc799a35&o=&hp=1"
+featuredImage: "/images/accommodation/lana-studio-471171358.jpg"
 language: en
 slug: lana-studio
 address: "Rruga Reshit Çollaku Pallati Bora, Shkalla 1,, 1000 Tirana, Albania"

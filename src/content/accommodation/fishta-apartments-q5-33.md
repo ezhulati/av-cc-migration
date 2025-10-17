@@ -1,7 +1,7 @@
 ---
 title: "Fishta Apartments Q5 33"
 description: "Fishta Apartments Q5 33 emerges as a prime choice for travelers seeking a serene beachfront escape in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464154265.jpg?k=cb56fe94df1b874ffe8a771bee516b5c9ccba8b2409f4c1a634a81328e988963&o=&hp=1"
+featuredImage: "/images/accommodation/fishta-apartments-q5-33-464154265.jpg"
 language: en
 slug: fishta-apartments-q5-33
 address: "Rruga shtepia e peshkatareve, 4001 Velipojë, Albania"

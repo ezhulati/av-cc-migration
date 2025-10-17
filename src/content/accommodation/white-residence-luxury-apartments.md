@@ -1,7 +1,7 @@
 ---
 title: "White Residence Luxury Apartments"
 description: "White Residence Luxury Apartments stands as a beacon of comfort and convenience in the vibrant heart of Sarandë, offering guests a unique blend of modern amenities and prime location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69164524.jpg?k=6d5c0d5eb74fbc34f635b862248661437323dc11f97be7e3b1ce030000ca0c39&o=&hp=1"
+featuredImage: "/images/accommodation/white-residence-luxury-apartments-69164524.jpg"
 language: en
 slug: white-residence-luxury-apartments
 address: "Rruga Kryesore Sarande-Butrint, 9702 Sarandë, Albania"

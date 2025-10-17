@@ -1,7 +1,7 @@
 ---
 title: "Leon Apartments 3"
 description: "Leon Apartments 3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482070385.jpg?k=34534d34e66e0954684590b4606bbcd78dd47f7cf41059c7fefee5886f0473d6&o=&hp=1"
+featuredImage: "/images/accommodation/leon-apartments-3-482070385.jpg"
 language: en
 slug: leon-apartments-3
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

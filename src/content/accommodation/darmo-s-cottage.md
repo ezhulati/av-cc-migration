@@ -1,7 +1,7 @@
 ---
 title: "DARMO'S COTTAGE"
 description: "Darmo's Cottage emerges as a serene retreat in the heart of Korçë, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515659571.jpg?k=1bc024a596207aa323c5f22a21a24ee77def9285f9805bc6343778f3f1cc1443&o=&hp=1"
+featuredImage: "/images/accommodation/darmo-s-cottage-515659571.jpg"
 language: en
 slug: darmo-s-cottage
 address: "Mborje,near Ristozi church, 7001 Korçë, Albania"

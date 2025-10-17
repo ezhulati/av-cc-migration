@@ -1,7 +1,7 @@
 ---
 title: "Lovely and quite appartament 1-6"
 description: "Discover the charm of Tirana with a stay at the Lovely and Quiet Apartment 1-6, a serene oasis located strategically to offer both tranquility and easy access to the city's most iconic attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445538775.jpg?k=e1491774d259047ec72a604625b126bad06c30d4e790c5851dc22d4f05eee264&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-and-quite-appartament-1-6-445538775.jpg"
 language: en
 slug: lovely-and-quite-appartament-1-6
 address: "gani srazimiri nd.68.h.1.njesia administrative nr.4.njesia bashkiake nr.4.1012 tirane, 1012 Tirana, Albania"

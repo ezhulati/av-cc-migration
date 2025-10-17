@@ -1,7 +1,7 @@
 ---
 title: "Fabio's Apartament Pogradec"
 description: "Fabio's Apartment Pogradec emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Pogradec, Korçë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477338998.jpg?k=6011d97da7e1db6f8f57d58b6669264e0e46ef8eb785f7d518440c5029f94e17&o=&hp=1"
+featuredImage: "/images/accommodation/fabio-s-apartament-pogradec-477338998.jpg"
 language: en
 slug: fabio-s-apartament-pogradec
 address: "Rruga Dëshmorët e Pojskës, Pogradec, Albania"

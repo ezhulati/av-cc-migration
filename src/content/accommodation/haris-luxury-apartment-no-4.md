@@ -1,7 +1,7 @@
 ---
 title: "Haris Luxury Apartment no.4"
 description: "Haris Luxury Apartment no."
-featuredImage: "https://graph.facebook.com/v2.9/10153424097550763/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/haris-luxury-apartment-no-4-picture?type.jpg"
 language: en
 slug: haris-luxury-apartment-no-4
 address: "Rruga Ismail Qemali Pallati Abau, Kati 3, Tirana 1001, Tirana, Albania"

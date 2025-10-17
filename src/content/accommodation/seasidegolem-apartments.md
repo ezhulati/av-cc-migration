@@ -1,7 +1,7 @@
 ---
 title: "SeaSideGolem Apartments"
 description: "SeaSideGolem Apartments emerges as a serene oasis in the heart of Golem, offering a tranquil garden setting just a stone's throw away from the pristine shores of Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472972675.jpg?k=22e88f1d92da8c4bc55e9e7bc850f27844eb52f3c3e4a015237a63576a5f0e8b&o=&hp=1"
+featuredImage: "/images/accommodation/seasidegolem-apartments-472972675.jpg"
 language: en
 slug: seasidegolem-apartments
 address: "Rruga Fan Noli, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Super Spacious Rooftop Flat / Amazing City View"
 description: "Super Spacious Rooftop Flat / Amazing City View stands out as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475095899.jpg?k=24763e45f19252e66f30df4380ca18c53c84ee7fe093799b38d0a15e1b2ff163&o=&hp=1"
+featuredImage: "/images/accommodation/super-spacious-rooftop-flat-amazing-city-view-475095899.jpg"
 language: en
 slug: super-spacious-rooftop-flat-amazing-city-view
 address: "Rruga 4 Heronjte, 9401 Vlorë, Albania"

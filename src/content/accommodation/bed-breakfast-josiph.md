@@ -1,7 +1,7 @@
 ---
 title: "Bed & Breakfast JOSIPH"
 description: "Bed & Breakfast JOSIPH emerges as a charming retreat in the heart of Berat, providing guests with an intimate experience complemented by modern conveniences."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207803259.jpg?k=f9bc7370a2e4d33c3fb05c6348f2e23f438e9e55e69b5a87f38a171604c5f50b&o=&hp=1"
+featuredImage: "/images/accommodation/bed-breakfast-josiph-207803259.jpg"
 language: en
 slug: bed-breakfast-josiph
 address: "Rruga Mbrica Lagja Kala, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament Palase RRE"
 description: "Discover the charm of Himare with a stay at Apartament Palase RRE, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465266231.jpg?k=925175095d5e3fbd0ef070fc639f20aa942bbcdd2a1e229b2c4c3c3f72bb82b8&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-palase-rre-465266231.jpg"
 language: en
 slug: apartament-palase-rre
 address: "Green coast residences Palase Apartment 185c, 9425 Himare, Albania"

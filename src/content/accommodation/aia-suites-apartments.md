@@ -1,7 +1,7 @@
 ---
 title: "AiA Suites & Apartments"
 description: "AiA Suites & Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462935747.jpg?k=e807a893d62a7667361fc6688af134dc76048d03261e805e7db473dae5b8f473&o=&hp=1"
+featuredImage: "/images/accommodation/aia-suites-apartments-462935747.jpg"
 language: en
 slug: aia-suites-apartments
 address: "Rruga Reshit Petrela, 1001 Tirana, Albania"

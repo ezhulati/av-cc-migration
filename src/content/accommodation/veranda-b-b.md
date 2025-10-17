@@ -1,7 +1,7 @@
 ---
 title: "Veranda B&B"
 description: "Veranda B&B is a charming choice for travelers seeking comfortable lodging in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311669132.jpg?k=0987f28c74deafacdc41017554a4da424a84cc62196a655b6da03311e445bf1d&o=&hp=1"
+featuredImage: "/images/accommodation/veranda-b-b-311669132.jpg"
 language: en
 slug: veranda-b-b
 address: "Lagjia\"30 vjetori\" Rr.\"Shetitorja Osumi\", 1100 Berat, Albania"

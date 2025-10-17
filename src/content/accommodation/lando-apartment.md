@@ -1,7 +1,7 @@
 ---
 title: "Lando Apartment"
 description: "Lando Apartment emerges as a serene retreat in the heart of Shkodër, a mere stone's throw away from the bustling Port of Bar, located 49 km away."
-featuredImage: "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"
+featuredImage: "/images/accommodation/lando-apartment-photo.jpg?sz.jpg"
 language: en
 slug: lando-apartment
 address: "Lagja Rus (neighbour), 4001 Shkodër, Albania"

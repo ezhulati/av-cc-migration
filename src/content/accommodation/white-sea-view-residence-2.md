@@ -1,7 +1,7 @@
 ---
 title: "White Sea View Residence 2"
 description: "White Sea View Residence 2 stands as a beacon of comfort and convenience in Sarandë, merely steps away from the pristine Flamingo Beach and a short stroll from Mango Beach."
-featuredImage: "https://graph.facebook.com/v2.9/5514607085285575/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/white-sea-view-residence-2-picture?type.jpg"
 language: en
 slug: white-sea-view-residence-2
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

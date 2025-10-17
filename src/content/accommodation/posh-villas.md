@@ -1,7 +1,7 @@
 ---
 title: "Posh Villas"
 description: "Posh Villas emerges as a premier destination for those seeking an exceptional stay along the pristine shores of Spille Beach in Rrogozhinë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483297315.jpg?k=2e86fffb038de7f7ed6e518bc2f8c615ab0e783d91372c5a3d4498d279c4c59a&o=&hp=1"
+featuredImage: "/images/accommodation/posh-villas-483297315.jpg"
 language: en
 slug: posh-villas
 address: "spille, Rrogozhinë, Albania"

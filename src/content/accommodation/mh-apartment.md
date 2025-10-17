@@ -1,7 +1,7 @@
 ---
 title: "MH apartment"
 description: "MH Apartment emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations complemented by the convenience of modern amenities in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502020471.jpg?k=0c6089c37d9919a4db0f0342310957e34bfd8faac0405bc1932382bfc09896bc&o=&hp=1"
+featuredImage: "/images/accommodation/mh-apartment-502020471.jpg"
 language: en
 slug: mh-apartment
 address: "Rruga Reshit Petrela Kompleksi Usluga, kati 4, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Green Apartment"
 description: "Green Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491197939.jpg?k=f3a449a41cb9aa681acc226710d22ab66317c58ed87fb8abfd004d8597232084&o=&hp=1"
+featuredImage: "/images/accommodation/green-apartment-491197939.jpg"
 language: en
 slug: green-apartment
 address: "Rruga Isa Boletini, 1001 Tirana, Albania"

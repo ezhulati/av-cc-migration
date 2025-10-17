@@ -1,7 +1,7 @@
 ---
 title: "4SeasonsGea , New Modern Apartment in Tirana"
 description: "Discover the charm of Tirana with a stay at 4SeasonsGea, a contemporary apartment that offers the perfect blend of city life and serene living."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404610422.jpg?k=47af506854c48e903445e1dd5fddbb196e1dd3643939c87e59c17e0927f59f2c&o=&hp=1"
+featuredImage: "/images/accommodation/4seasonsgea-new-modern-apartment-in-tirana-404610422.jpg"
 language: en
 slug: 4seasonsgea-new-modern-apartment-in-tirana
 address: "Rruga Shyqyri Bërxolli, 1001 Tirana, Albania"

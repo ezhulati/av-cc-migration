@@ -1,7 +1,7 @@
 ---
 title: "Vila Ridvani"
 description: "Vila Ridvani emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/287089695.jpg?k=8fa46506598aec8281708fee8fd8d6f1677cefecc017dd12e1471899a104a162&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ridvani-287089695.jpg"
 language: en
 slug: vila-ridvani
 address: "Marin Barleti, 7000 Korçë, Albania"

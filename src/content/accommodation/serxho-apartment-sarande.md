@@ -1,7 +1,7 @@
 ---
 title: "Serxho Apartment Sarande"
 description: "Serxho Apartment Sarande emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474651843.jpg?k=9eb5908fdff9161ca40facd2ef77cdbb434659ba9227d3e3b93f77509da3b09c&o=&hp=1"
+featuredImage: "/images/accommodation/serxho-apartment-sarande-474651843.jpg"
 language: en
 slug: serxho-apartment-sarande
 address: "Rruga Gjergj Araniti, 9027 Sarandë, Albania"

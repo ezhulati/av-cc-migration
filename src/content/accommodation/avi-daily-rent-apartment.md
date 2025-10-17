@@ -1,7 +1,7 @@
 ---
 title: "Avi - Daily Rent Apartment"
 description: "Avi - Daily Rent Apartment emerges as a modern oasis in the heart of Tirana, boasting a prime location that places guests within arm's reach of the city's most iconic landmarks, including the Postbllok - Checkpoint Monument, Saint Paul Cathedral, and the Pyramid of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494113419.jpg?k=f2c5486e7327d0dd792a5336d598a0d1ed591115a99193e5f54c7d1589869b00&o=&hp=1"
+featuredImage: "/images/accommodation/avi-daily-rent-apartment-494113419.jpg"
 language: en
 slug: avi-daily-rent-apartment
 address: "Rruga Maksim Artioti, Tirana, Albania"

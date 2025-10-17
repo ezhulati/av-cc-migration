@@ -1,7 +1,7 @@
 ---
 title: "Relax5"
 description: "Relax5 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460445068.jpg?k=85b2b15c97563441d97fc85bfeebf0e9a0afec0509ae0683ddaaab854fa19417&o=&hp=1"
+featuredImage: "/images/accommodation/relax5-460445068.jpg"
 language: en
 slug: relax5
 address: "Rruga Shkembi i Kavajes, 2008 Durrës, Albania"

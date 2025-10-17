@@ -1,7 +1,7 @@
 ---
 title: "Apartment 19"
 description: "Apartment 19 emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations paired with the convenience of a central location in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491563118.jpg?k=6a8f47a542e86a21abe8491de0d9589bffb907b02db0a9b7bfa88e6a9dd10205&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-19-491563118.jpg"
 language: en
 slug: apartment-19
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

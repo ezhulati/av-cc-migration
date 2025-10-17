@@ -1,7 +1,7 @@
 ---
 title: "Zana`s Home"
 description: "Zana's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388250356.jpg?k=e5951c79717e1f3d60117f042d0bd83325af319d40fb03c4aca6f0721465e89d&o=&hp=1"
+featuredImage: "/images/accommodation/zana-s-home-388250356.jpg"
 language: en
 slug: zana-s-home
 address: "2 Rruga Mine Peza, 1001 Tirana, Albania"

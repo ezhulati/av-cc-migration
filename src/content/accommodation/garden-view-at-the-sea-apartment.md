@@ -1,7 +1,7 @@
 ---
 title: "Garden View at The Sea Apartment"
 description: "Garden View at The Sea Apartment emerges as a serene retreat in the heart of Golem, boasting an enviable location just a stone's throw away from both Shkëmbi i Kavajës Beach and Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380284073.jpg?k=7b94ce339b71d89df3002b3975e744654110052a72a05cd435b78ff1a58186b3&o=&hp=1"
+featuredImage: "/images/accommodation/garden-view-at-the-sea-apartment-380284073.jpg"
 language: en
 slug: garden-view-at-the-sea-apartment
 address: "rruga grand blue fafa resort, pallati garden rooms, apartamenti 13, kati 2, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "XH&A 's swaying seashell Saranda"
 description: "XH&A's Swaying Seashell Saranda emerges as a prime beachfront gem in Sarandë, boasting an enviable location just a stone's throw away from Maestral Beach and within easy reach of La Petite and VIP Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490589373.jpg?k=7847838f5ee9b54b4922fc0c6f725510691deaaee0940c087f488984256ee31a&o=&hp=1"
+featuredImage: "/images/accommodation/xh-a-s-swaying-seashell-saranda-490589373.jpg"
 language: en
 slug: xh-a-s-swaying-seashell-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

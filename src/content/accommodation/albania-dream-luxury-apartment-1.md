@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Luxury Apartment 1"
 description: "Albania Dream Luxury Apartment 1 emerges as a premier beachfront gem in Sarandë, boasting an enviable location mere steps from the pristine sands of Flamingo Beach and a short stroll from Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487899509.jpg?k=fb74c3e6fe3583202673e9e38fda2eb74aaefb465243718fb08099a9efff3e6d&o=&hp=1"
+featuredImage: "/images/accommodation/albania-dream-luxury-apartment-1-487899509.jpg"
 language: en
 slug: albania-dream-luxury-apartment-1
 address: "Rruga Butrinti, 9700 Sarandë, Albania"

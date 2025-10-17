@@ -1,7 +1,7 @@
 ---
 title: "Scanderbeg Square Apartment"
 description: "Scanderbeg Square Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495592268.jpg?k=a08be0bd5eb21a81ea917c7848e2e2e4c986d6ca3878fffc455f092d80c75606&o=&hp=1"
+featuredImage: "/images/accommodation/scanderbeg-square-apartment-495592268.jpg"
 language: en
 slug: scanderbeg-square-apartment
 address: "10 Rruga Çamëria Apartment 1 , Floor 1, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Centropolis Apartments"
 description: "Centropolis Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër, located just 48 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356578810.jpg?k=6e0357394dfde8c2ecc583bec6c0864461f4e006eef6835b4a90678385cdec0e&o=&hp=1"
+featuredImage: "/images/accommodation/centropolis-apartments-356578810.jpg"
 language: en
 slug: centropolis-apartments
 address: "Rruga Studenti, 4001 Shkodër, Albania"

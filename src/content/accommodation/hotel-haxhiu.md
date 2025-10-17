@@ -1,7 +1,7 @@
 ---
 title: "Hotel Haxhiu"
 description: "Discover the charm of Tirana with a stay at Hotel Haxhiu, a cozy establishment that promises comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144132246.jpg?k=d4f4de54cbee290964becb03731574ac8d492f998588c6eafb963115cd9ff74a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-haxhiu-144132246.jpg"
 language: en
 slug: hotel-haxhiu
 address: "RR. QEMAL STAFA NR 391, 1001 Tirana, Albania"

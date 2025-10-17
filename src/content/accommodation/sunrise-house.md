@@ -1,7 +1,7 @@
 ---
 title: "Sunrise house"
 description: "Sunrise House emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390993402.jpg?k=8c86a7869345665d4c2b6a5143ad17c5aeaa17271ff8ba58f9c141091bffdbe4&o=&hp=1"
+featuredImage: "/images/accommodation/sunrise-house-390993402.jpg"
 language: en
 slug: sunrise-house
 address: "Rruga Butrinti, 9402 Sarandë, Albania"

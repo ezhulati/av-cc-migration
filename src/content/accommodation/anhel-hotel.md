@@ -1,7 +1,7 @@
 ---
 title: "Anhel Hotel"
 description: "Anhel Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470493904.jpg?k=e976ade80e9b12f6e349427c17a7ea90cf511e2c9cb512b8bd44a4818cb025c4&o=&hp=1"
+featuredImage: "/images/accommodation/anhel-hotel-470493904.jpg"
 language: en
 slug: anhel-hotel
 address: "Rruga Nikolla Buhuri, 5001 Berat, Albania"

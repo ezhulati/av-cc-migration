@@ -1,7 +1,7 @@
 ---
 title: "Ada’s Home Pogradec"
 description: "Ada’s Home Pogradec emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376723821.jpg?k=ee2a1aa60637b92c9922c05bf6de8e9d59c5159c3f2a4f3a10c6380a2e88a972&o=&hp=1"
+featuredImage: "/images/accommodation/ada-s-home-pogradec-376723821.jpg"
 language: en
 slug: ada-s-home-pogradec
 address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"

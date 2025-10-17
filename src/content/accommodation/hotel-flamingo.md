@@ -1,7 +1,7 @@
 ---
 title: "Hotel Flamingo"
 description: "Hotel Flamingo stands out as a premier choice for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149116999.jpg?k=f72f2a04865045be35279fd63c0443ec6ccdb06df74132a08d572bbd122b56a7&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-flamingo-149116999.jpg"
 language: en
 slug: hotel-flamingo
 address: "Rruga e Veteraneve; Lagja12, 7001 Korçë, Albania"

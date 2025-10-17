@@ -1,7 +1,7 @@
 ---
 title: "Vogklis House"
 description: "Vogklis House emerges as a serene retreat, situated a mere 700 meters from the pristine shores of Qeparo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320299313.jpg?k=6701c99d71ec6583525f9c002a1bd50e945465e2fe854176789a87713bfe7545&o=&hp=1"
+featuredImage: "/images/accommodation/vogklis-house-320299313.jpg"
 language: en
 slug: vogklis-house
 address: "Qeparo, 9416 Qeparo, Albania"

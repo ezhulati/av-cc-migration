@@ -1,7 +1,7 @@
 ---
 title: "TONY"
 description: "Tony Hotel stands out as a prime choice for travelers seeking both entertainment and comfort in the heart of Shëngjin, just a stone's throw away from the pristine Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491331277.jpg?k=2b37237c1581d6e13682d78fc4ba915d102014d6f154cfeb796933ca028271fe&o=&hp=1"
+featuredImage: "/images/accommodation/tony-491331277.jpg"
 language: en
 slug: tony
 address: "Bulevardi Nënë Tereza, 4503 Shëngjin, Albania"

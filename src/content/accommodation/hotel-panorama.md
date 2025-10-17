@@ -1,7 +1,7 @@
 ---
 title: "Hotel Panorama"
 description: "Hotel Panorama emerges as a serene retreat in Himare, located just 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471117003.jpg?k=d83a763720bad18f6cae40241e964ca61dbe3424396d6b99d1ed28ad6e075aad&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-panorama-471117003.jpg"
 language: en
 slug: hotel-panorama
 address: "Potam, 9425 Himare, Albania"

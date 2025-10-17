@@ -1,7 +1,7 @@
 ---
 title: "VIOLCA GUEST HOUSE"
 description: "Discover the charm of Durrës with a stay at VIOLCA GUEST HOUSE, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479889999.jpg?k=06e8d272d032bbcddf985ddcd110bb85b55bf60ff3c965391061fe501a3200e6&o=&hp=1"
+featuredImage: "/images/accommodation/violca-guest-house-479889999.jpg"
 language: en
 slug: violca-guest-house
 address: "Rruga Vegimi, 2008 Durrës, Albania"

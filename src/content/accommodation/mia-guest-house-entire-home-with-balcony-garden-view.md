@@ -1,7 +1,7 @@
 ---
 title: "Mia Guest House - Entire home with balcony & garden view"
 description: "Mia Guest House, a recently renovated gem in Divjakë, stands out for its serene garden views and the promise of a tranquil retreat."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/mia-guest-house-entire-home-with-balcony-garden-view-29d5c93ac695.jpg"
 language: en
 slug: mia-guest-house-entire-home-with-balcony-garden-view
 address: "Rruga Dituria, Divjake, 9022 Divjakë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rovena's Apartment - free parking"
 description: "Rovena's Apartment stands out as a serene haven in Tirana, offering guests the luxury of free parking—a rarity in the bustling city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/187078375.jpg?k=8276ad8c56c7aabe1fc00011f6cb1d2d274f1e4e96fb75825e84a3c77bed8a2e&o=&hp=1"
+featuredImage: "/images/accommodation/rovena-s-apartment-free-parking-187078375.jpg"
 language: en
 slug: rovena-s-apartment-free-parking
 address: "Rruga Siri Kodra, 1000 Tirana, Albania"

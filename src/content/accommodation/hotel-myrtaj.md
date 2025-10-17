@@ -1,7 +1,7 @@
 ---
 title: "Hotel Myrtaj"
 description: "Hotel Myrtaj emerges as a charming retreat in the heart of Sarandë, located conveniently within a stone's throw from Saranda City Beach and a brief stroll from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264097239.jpg?k=9c0b6ad40a30f9c80eccaa326336f36259f5f5b6c5edf6ca1f16a297f8c76490&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-myrtaj-264097239.jpg"
 language: en
 slug: hotel-myrtaj
 address: "Rr. Onhezmi (over Conad Supermarket), 9701 Sarandë, Albania"

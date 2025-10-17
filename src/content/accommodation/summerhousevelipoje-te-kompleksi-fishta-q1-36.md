@@ -1,7 +1,7 @@
 ---
 title: "SummerhouseVelipoje-Te Kompleksi Fishta-Q1,36"
 description: "SummerhouseVelipoje-Te Kompleksi Fishta-Q1,36 emerges as a prime choice for travelers seeking a serene beachfront escape in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410959113.jpg?k=0beb57b7b4c6a71d57ecb01c3e767f1a6c5886d8649863375e3c6280b2e9cc1c&o=&hp=1"
+featuredImage: "/images/accommodation/summerhousevelipoje-te-kompleksi-fishta-q1-36-410959113.jpg"
 language: en
 slug: summerhousevelipoje-te-kompleksi-fishta-q1-36
 address: "Rruga Ura e Gjon Lulit Plazh, 4020 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "HECTOR - apartment"
 description: "HECTOR - apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307223277.jpg?k=9a0cab01eaca5bc650e0b191f662f70b9b60e813fc5cd5c441119757ddc89ef7&o=&hp=1"
+featuredImage: "/images/accommodation/hector-apartment-307223277.jpg"
 language: en
 slug: hector-apartment
 address: "Rruga Shkembi i Kavajes, 2021 Durrës, Albania"

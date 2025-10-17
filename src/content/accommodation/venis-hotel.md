@@ -1,7 +1,7 @@
 ---
 title: "Venis Hotel"
 description: "Venis Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258642516.jpg?k=2d5e58e243d39258812a4151c77d4e24f1ed44cf3a59001bdc4120cec4f82a33&o=&hp=1"
+featuredImage: "/images/accommodation/venis-hotel-258642516.jpg"
 language: en
 slug: venis-hotel
 address: "Rruga Isuf Elezi Vila No 136,Selite e Vogel, Tirana, Tirana County, Albania, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Liza's"
 description: "Liza's stands out as a prime choice for travelers seeking a serene getaway with breathtaking mountain and sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528272997.jpg?k=9a6e54077c9f5c9ecc9d88f3316930adc1ef016baa97be458344b94de1bcf256&o=&hp=1"
+featuredImage: "/images/accommodation/liza-s-528272997.jpg"
 language: en
 slug: liza-s
 address: "Banesa nr 2, SH8, Lukovë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Dan apartment Tirana"
 description: "Dan Apartment Tirana offers a refreshing retreat in the heart of Tirana, providing guests with the comfort of air-conditioned accommodations complemented by a serene terrace."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494850241.jpg?k=b4d9aa10a1fa36c1467dcb6aa9e9f1da494b55628794bfd3857ab64cf0cdc669&o=&hp=1"
+featuredImage: "/images/accommodation/dan-apartment-tirana-494850241.jpg"
 language: en
 slug: dan-apartment-tirana
 address: "Rruga Margarita Tutulani, Building 23, Apartment 1, 1000 Tirana, Albania"

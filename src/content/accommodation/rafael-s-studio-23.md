@@ -1,7 +1,7 @@
 ---
 title: "Rafael’s studio ‘23"
 description: "Rafael's Studio '23 emerges as a prime choice for travelers seeking comfort and convenience in Himare, perfectly positioned just a short stroll from the pristine Spille Beach and the serene Maracit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499071300.jpg?k=cff0f0315d8e2d8eae8b1f40f741f0f8c0f9eed36f8d5c01a0796cbc8d5ef458&o=&hp=1"
+featuredImage: "/images/accommodation/rafael-s-studio-23-499071300.jpg"
 language: en
 slug: rafael-s-studio-23
 address: "Himare, 9425 Himare, Albania"

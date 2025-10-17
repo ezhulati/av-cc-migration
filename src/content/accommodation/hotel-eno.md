@@ -1,7 +1,7 @@
 ---
 title: "Hotel Eno"
 description: "Hotel Eno is a prime choice for travelers seeking comfort and convenience in Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493579123.jpg?k=678903f634524b7371914382fd6ad98227613c5e6eb33fb8afe06a4f5c3739a6&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-eno-493579123.jpg"
 language: en
 slug: hotel-eno
 address: "SH75, 6401 Përmet, Albania"

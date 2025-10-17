@@ -1,7 +1,7 @@
 ---
 title: "Shkodra apartment with amazing view in the city center"
 description: "In the vibrant heart of Shkodër, the Shkodra Apartment emerges as a premier choice for travelers seeking a blend of comfort and convenience, complemented by stunning city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235727615.jpg?k=984a4a02200f991b019ea079f59b99f0134af4fdc2a12ff36b491f3105bfb454&o=&hp=1"
+featuredImage: "/images/accommodation/shkodra-apartment-with-amazing-view-in-the-city-center-235727615.jpg"
 language: en
 slug: shkodra-apartment-with-amazing-view-in-the-city-center
 address: "Rruga Studenti 176, 4001 Shkodër, Albania"

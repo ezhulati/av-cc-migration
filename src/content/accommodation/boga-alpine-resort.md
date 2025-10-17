@@ -1,7 +1,7 @@
 ---
 title: "Boga Alpine Resort"
 description: "Boga Alpine Resort, situated in the serene village of Bogë and a mere 29 km from the enchanting Theth National Park, offers a tranquil retreat with its lush garden views and an array of amenities designed for comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465415016.jpg?k=df94cfe5c246b939256ad4e94035b4d26677c22c90ad9e0e4beb963670762945&o=&hp=1"
+featuredImage: "/images/accommodation/boga-alpine-resort-465415016.jpg"
 language: en
 slug: boga-alpine-resort
 address: "Rruga per Thethe, 4300 Bogë, Albania"

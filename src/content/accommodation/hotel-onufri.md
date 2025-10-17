@@ -1,7 +1,7 @@
 ---
 title: "Hotel Onufri"
 description: "Hotel Onufri emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357046172.jpg?k=be81573e41198114354ffee160b56693163bafe2184b025e5734793b9df95086&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-onufri-357046172.jpg"
 language: en
 slug: hotel-onufri
 address: "rruga Skenderbeu Mali i Robit , Golem Mali i Robit , Golem , Durres, 2504 Golem, Albania"

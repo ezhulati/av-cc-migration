@@ -1,7 +1,7 @@
 ---
 title: "Olivar Hotel Tirana"
 description: "Olivar Hotel Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244091723.jpg?k=e837d50494ced313e01dfbe8ce1ac2e54aaf7ad514584fcddc9e2a27bfd4dcc1&o=&hp=1"
+featuredImage: "/images/accommodation/olivar-hotel-tirana-244091723.jpg"
 language: en
 slug: olivar-hotel-tirana
 address: "Rruga Ullishtes, 1044 Tirana, Albania"

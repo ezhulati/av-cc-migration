@@ -1,7 +1,7 @@
 ---
 title: "Jolly City Center Hotel"
 description: "Discover the charm of Tirana from the comfort of Jolly City Center Hotel, a gem located just a short stroll from the historic Tirana Castle."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166622499.jpg?k=483a91c35614e4261a06afa1758e0d9cb2d48ac2d9953d382111568565de884b&o=&hp=1"
+featuredImage: "/images/accommodation/jolly-city-center-hotel-166622499.jpg"
 language: en
 slug: jolly-city-center-hotel
 address: "Avni Rustemi Square, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ebel Boutique Hotel"
 description: "Ebel Boutique Hotel stands out as a distinguished 4-star haven in Tirana, located just 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273175521.jpg?k=2888200511291218096a4d2251f92dc24b702cf861265eb3625d95599dff9046&o=&hp=1"
+featuredImage: "/images/accommodation/ebel-boutique-hotel-273175521.jpg"
 language: en
 slug: ebel-boutique-hotel
 address: "Rruga Durresit, pall 240, 1001 Tirana, Albania"

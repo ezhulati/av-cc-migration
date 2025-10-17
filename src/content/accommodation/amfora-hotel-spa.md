@@ -1,7 +1,7 @@
 ---
 title: "Amfora Hotel & Spa"
 description: "Amfora Hotel & Spa stands out as a premier destination for travelers seeking both relaxation and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503563585.jpg?k=7eb26b603aa71e9edb3c9ada81733241922c0b410629a275e7daf23feba00fce&o=&hp=1"
+featuredImage: "/images/accommodation/amfora-hotel-spa-503563585.jpg"
 language: en
 slug: amfora-hotel-spa
 address: "Rruga Pavaresia lagjia 13, 2008 Durrës, Albania"

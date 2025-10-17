@@ -1,7 +1,7 @@
 ---
 title: "Cleopatra"
 description: "Cleopatra Hotel emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, positioned a mere 300 meters from the inviting sands of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478019747.jpg?k=22c6079fbd1bc0fa20942bb821dc583a23c169aa5a796373ef5794cb517a937f&o=&hp=1"
+featuredImage: "/images/accommodation/cleopatra-478019747.jpg"
 language: en
 slug: cleopatra
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "090 Apartments"
 description: "090 Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334529861.jpg?k=b23508baede8345fa5970198ea5b76e817279dfb6ddbd4031b3753805753e85d&o=&hp=1"
+featuredImage: "/images/accommodation/090-apartments-334529861.jpg"
 language: en
 slug: 090-apartments
 address: "Rruga Marie Kraja, 1002 Tirana, Albania"

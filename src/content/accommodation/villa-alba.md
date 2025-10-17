@@ -1,7 +1,7 @@
 ---
 title: "Villa Alba"
 description: "Villa Alba, located in the serene Shkoder County region of Shkodër, offers guests a tranquil retreat with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497715007.jpg?k=6bbd636182b7e898c84212d0fdda59997dca9181376401a15f0248403c49b485&o=&hp=1"
+featuredImage: "/images/accommodation/villa-alba-497715007.jpg"
 language: en
 slug: villa-alba
 address: "Rruga Pal Ëngjëlli, 4001 Shkodër, Albania"

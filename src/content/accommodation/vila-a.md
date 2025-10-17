@@ -1,7 +1,7 @@
 ---
 title: "Vila A"
 description: "Vila A emerges as a prime choice for travelers seeking a serene getaway in Himare, boasting a prime location just a short distance from the pristine Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496503436.jpg?k=00173c3af221c35e16f933a30db64366e35cd81b54314588029535aadff1b455&o=&hp=1"
+featuredImage: "/images/accommodation/vila-a-496503436.jpg"
 language: en
 slug: vila-a
 address: "Rruga e plazhit të Palasës, Himare, Albania"

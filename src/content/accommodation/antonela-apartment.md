@@ -1,7 +1,7 @@
 ---
 title: "Antonela Apartment"
 description: "Antonela Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510936161.jpg?k=5656b60cada500a5c1e26518f01ce85b52b09de066ab32f7f3b1adf9f9fd5927&o=&hp=1"
+featuredImage: "/images/accommodation/antonela-apartment-510936161.jpg"
 language: en
 slug: antonela-apartment
 address: "Rruga Vaso Pasha, 1019 Tirana, Albania"

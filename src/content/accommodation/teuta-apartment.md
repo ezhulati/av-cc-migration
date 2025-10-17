@@ -1,7 +1,7 @@
 ---
 title: "Teuta Apartment"
 description: "Teuta Apartment emerges as a standout choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380804028.jpg?k=197cb49996ed0202a2531e5fcae81e30ad0a6af7beafbc9941ad260db7bd69f1&o=&hp=1"
+featuredImage: "/images/accommodation/teuta-apartment-380804028.jpg"
 language: en
 slug: teuta-apartment
 address: "Shetitorja e Plazhit, Durrës, Albania, Durrës, Albania"

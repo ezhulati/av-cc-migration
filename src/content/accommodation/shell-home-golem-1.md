@@ -1,7 +1,7 @@
 ---
 title: "Shell Home golem 1"
 description: "Shell Home Golem 1 emerges as a prime choice for travelers seeking comfort and convenience in Golem, located just a short stroll from both Mali I Robit Beach and Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523078516.jpg?k=6d042ec3785e3d715d74c3c614a7493978687ee7db41728a2b571016907159cf&o=&hp=1"
+featuredImage: "/images/accommodation/shell-home-golem-1-523078516.jpg"
 language: en
 slug: shell-home-golem-1
 address: "Rruga e Kavajës, 2502 Golem, Albania"

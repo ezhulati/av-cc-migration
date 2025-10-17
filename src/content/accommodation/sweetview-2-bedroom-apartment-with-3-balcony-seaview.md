@@ -1,7 +1,7 @@
 ---
 title: "Sweetview 2-bedroom apartment with 3 balcony seaview"
 description: "Discover the charm of Vlorë from the comfort of Sweetview 2-bedroom apartment, a beachfront gem that offers breathtaking sea views from not one, but three balconies."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366923362.jpg?k=d3319c8b516675277f5d8a3c6700d28a02d8e4bafd692bc06c1490a58a19477d&o=&hp=1"
+featuredImage: "/images/accommodation/sweetview-2-bedroom-apartment-with-3-balcony-seaview-366923362.jpg"
 language: en
 slug: sweetview-2-bedroom-apartment-with-3-balcony-seaview
 address: "Rruga Gjergj Kastrioti, 9401 Vlorë, Albania"

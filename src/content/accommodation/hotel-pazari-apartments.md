@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pazari & Apartments"
 description: "Hotel Pazari & Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361688948.jpg?k=e27a1a484e813e1977c07bf3c38318f65670944d41d6b8d8f882b0d92d837380&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-pazari-apartments-361688948.jpg"
 language: en
 slug: hotel-pazari-apartments
 address: "Bulevardi Fan Noli, 7001 Korçë, Albania"

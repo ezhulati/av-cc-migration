@@ -1,7 +1,7 @@
 ---
 title: "You are only one booking away"
 description: "Discover the charm of Kamëz with a stay at \"You are only one booking away,\" a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487572438.jpg?k=969fe89488ce597997eba07526ceb6e6e5d152bda6f28b1d90f213d49f2bd6b3&o=&hp=1"
+featuredImage: "/images/accommodation/you-are-only-one-booking-away-487572438.jpg"
 language: en
 slug: you-are-only-one-booking-away
 address: "Bulevardi Blu, 1001 Kamëz, Albania, 1001 Kamëz, Albania"

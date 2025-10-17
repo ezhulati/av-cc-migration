@@ -1,7 +1,7 @@
 ---
 title: "Apartament Enxhi"
 description: "Discover the charm of Berat with a stay at Apartament Enxhi, a prime choice for travelers seeking comfort and convenience in this historic city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/391002091.jpg?k=6d3d023a78736fce1e989eef4d20063ab56efc19cecfce40fb8510e3d7756ad1&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-enxhi-391002091.jpg"
 language: en
 slug: apartament-enxhi
 address: "Rruga antipatrea 4 piano, 5001 Berat, Albania"

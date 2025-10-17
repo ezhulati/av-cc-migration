@@ -1,7 +1,7 @@
 ---
 title: "Dovlet Rooms"
 description: "Dovlet Rooms emerges as a serene oasis in Durrës, boasting spacious, air-conditioned accommodations complete with private balconies and complimentary WiFi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507332937.jpg?k=0c34052abd5ea0f97c74dd9b664d1a8c4e833622474dcd005b19850ea72331da&o=&hp=1"
+featuredImage: "/images/accommodation/dovlet-rooms-507332937.jpg"
 language: en
 slug: dovlet-rooms
 address: "Lagjja 13 plazh, 2003 Durrës, Albania"

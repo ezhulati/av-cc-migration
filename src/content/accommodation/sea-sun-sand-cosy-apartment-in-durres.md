@@ -1,7 +1,7 @@
 ---
 title: "Sea&Sun&Sand Cosy Apartment in Durres"
 description: "Sea&Sun&Sand Cosy Apartment in Durrës emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coastline."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514826307.jpg?k=77765a8d05ec46466f215938fadffb375b2da0e576d27cdc476eb2f4ed9f1f53&o=&hp=1"
+featuredImage: "/images/accommodation/sea-sun-sand-cosy-apartment-in-durres-514826307.jpg"
 language: en
 slug: sea-sun-sand-cosy-apartment-in-durres
 address: "Rruga Currila, 2000 Durrës, Albania"

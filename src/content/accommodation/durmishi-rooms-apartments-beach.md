@@ -1,7 +1,7 @@
 ---
 title: "Durmishi Rooms & Apartments & Beach"
 description: "Durmishi Rooms & Apartments & Beach emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529459834.jpg?k=56e0c06a30f89958f2b8e46c3ace83f392079e9e1a7e6c8a6df0d38f7b9a09fa&o=&hp=1"
+featuredImage: "/images/accommodation/durmishi-rooms-apartments-beach-529459834.jpg"
 language: en
 slug: durmishi-rooms-apartments-beach
 address: "Rruga Idriz Alidhima Durmishi Apartments, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VILA Denad"
 description: "VILA Denad emerges as a serene oasis in Sarandë, strategically positioned just a short distance from the pristine Santa Quaranta and VIP Beaches, while Maestral Beach lies merely 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477389601.jpg?k=36f0cd3a2ac0f17b8ad93602a15307a4ee99adf97467b81164ffa2097d8f4900&o=&hp=1"
+featuredImage: "/images/accommodation/vila-denad-477389601.jpg"
 language: en
 slug: vila-denad
 address: "Rruga kalaja sarande, 9701 Sarandë, Albania"

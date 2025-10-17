@@ -1,7 +1,7 @@
 ---
 title: "Mercato Durres 56"
 description: "Mercato Durres 56 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511898871.jpg?k=0a8eebf4ab39d09dd2a0f965a73dbd9a81c597f578db014c8ff57d28b30d26bb&o=&hp=1"
+featuredImage: "/images/accommodation/mercato-durres-56-511898871.jpg"
 language: en
 slug: mercato-durres-56
 address: "Rruga Profesor Halil Myrto, 2001 Durrës, Albania"

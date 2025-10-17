@@ -1,7 +1,7 @@
 ---
 title: "CityPart"
 description: "CityPart emerges as a standout accommodation choice for travelers seeking a blend of comfort and convenience, complemented by stunning river views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503835464.jpg?k=5ef86e8438a7d5c72f9a7d774c42a1e40b3314ed099b1db2c55abea95735476d&o=&hp=1"
+featuredImage: "/images/accommodation/citypart-503835464.jpg"
 language: en
 slug: citypart
 address: "Rruga Filonid Durrsaku, 2001 Durrës, Albania"

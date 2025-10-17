@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Apartment No 9"
 description: "Deluxe Apartment No 9 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470515804.jpg?k=e5016d65a2fe30e8680692aa0db12242dc87f00b05daf847995bb34410da9698&o=&hp=1"
+featuredImage: "/images/accommodation/deluxe-apartment-no-9-470515804.jpg"
 language: en
 slug: deluxe-apartment-no-9
 address: "Rruga e Dibrës 9, 1010 Tirana, Albania"

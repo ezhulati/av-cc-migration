@@ -1,7 +1,7 @@
 ---
 title: "Deni's Hotel"
 description: "Deni's Hotel emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375010202.jpg?k=dcef612f0578dcc5e3560666ca541beb4f19bf2bfb30b442e1a7919d7c002f27&o=&hp=1"
+featuredImage: "/images/accommodation/deni-s-hotel-375010202.jpg"
 language: en
 slug: deni-s-hotel
 address: "Rruga Jonianet, 9700 Sarandë, Albania"

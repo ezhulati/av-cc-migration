@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pandora Residence"
 description: "Hotel Pandora Residence emerges as a serene oasis in the bustling city of Tirana, located just a kilometer away from the US Embassy."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150752985.jpg?k=5127c0b0f8530bc13e293319bd757cc21cb03dda554d26ec50d19dc760166af2&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-pandora-residence-150752985.jpg"
 language: en
 slug: hotel-pandora-residence
 address: "RRUGA FUAT TOPTANI 8, 1001 Tirana, Albania"

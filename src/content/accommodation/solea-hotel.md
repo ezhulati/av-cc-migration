@@ -1,7 +1,7 @@
 ---
 title: "Solea Hotel"
 description: "Solea Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489299830.jpg?k=8700abe6b47a4f78dc517974c8f32c222cff99e06bed2dd3e132baf5c764faaf&o=&hp=1"
+featuredImage: "/images/accommodation/solea-hotel-489299830.jpg"
 language: en
 slug: solea-hotel
 address: "Rruga Hektor Shyti Second floor, 9402 Vlorë, Albania"

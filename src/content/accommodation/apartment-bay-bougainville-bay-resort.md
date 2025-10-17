@@ -1,7 +1,7 @@
 ---
 title: "Apartment bay, Bougainville Bay Resort"
 description: "Apartment Bay stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a stone's throw away from the nearest beach at a mere 50 meters distance."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216092209.jpg?k=b7890c3086c5049f08d2a15fca926ea1d03acaf044aafb78e7ce67f8f9d6d2d4&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-bay-bougainville-bay-resort-216092209.jpg"
 language: en
 slug: apartment-bay-bougainville-bay-resort
 address: "Rr. Butrinti 1000, Bougainville Bay, 1000 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blue Heaven Seaside"
 description: "Blue Heaven Seaside emerges as a serene retreat right on the edge of Borsh Beach, offering guests a harmonious blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+featuredImage: "/images/accommodation/blue-heaven-seaside-8103dfb0481c.jpg"
 language: en
 slug: blue-heaven-seaside
 address: "Rruga Plazhit, Borsh, Albania"

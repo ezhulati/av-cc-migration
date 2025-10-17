@@ -1,7 +1,7 @@
 ---
 title: "Vlore Atlantic Apartments"
 description: "Vlore Atlantic Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479959834.jpg?k=6b164fa49f3f1ae1f27ebb58e7e3fc6627a6858b53bd86b48c2c3618c8577139&o=&hp=1"
+featuredImage: "/images/accommodation/vlore-atlantic-apartments-479959834.jpg"
 language: en
 slug: vlore-atlantic-apartments
 address: "Lagija Pavaresia, Rruga Dush Strati, kati 2, Vlorë, Albania"

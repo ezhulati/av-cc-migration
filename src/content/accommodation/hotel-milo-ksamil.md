@@ -1,7 +1,7 @@
 ---
 title: "Hotel Milo Ksamil"
 description: "Hotel Milo Ksamil emerges as a charming retreat for travelers seeking both tranquility and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464974847.jpg?k=51c6c7dcf5d61a8c93f3f2eee2f0e565522e08dd59a83b3526ba403981902525&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-milo-ksamil-464974847.jpg"
 language: en
 slug: hotel-milo-ksamil
 address: "Rruga Trendafili Lagjia Rinia (tek Posta), 9706 Ksamil, Albania"

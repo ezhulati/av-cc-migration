@@ -1,7 +1,7 @@
 ---
 title: "Hotel PortSide GF"
 description: "Hotel PortSide GF emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated merely 200 meters from the serene Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464470167.jpg?k=70c7df33988ca04b20602c8d6db6b8d215b98981d81d132630622f67da22da45&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-portside-gf-464470167.jpg"
 language: en
 slug: hotel-portside-gf
 address: "Rruga Hektor Shyti Universiteti \" Ismail Qemali \", 9404 Vlorë, Albania"

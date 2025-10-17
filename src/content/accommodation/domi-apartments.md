@@ -1,7 +1,7 @@
 ---
 title: "Domi Apartments"
 description: "Domi Apartments stands as a prime beachfront gem in Durrës, just a stone's throw away from the serene Currila Beach and a short drive from the picturesque Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499467517.jpg?k=ee9557319cb53207a21a3c1a59855c444366900e3b3da9e5bf80231a76c25d5f&o=&hp=1"
+featuredImage: "/images/accommodation/domi-apartments-499467517.jpg"
 language: en
 slug: domi-apartments
 address: "1 Rruga Taulantia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luna_ FF"
 description: "Luna_FF emerges as a standout choice for travelers seeking the perfect blend of convenience and comfort in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386004129.jpg?k=e8d97aa6edf375021a82cc367daef3acc9ce7fabc826bcdb6f73fbf388f24f85&o=&hp=1"
+featuredImage: "/images/accommodation/luna-ff-386004129.jpg"
 language: en
 slug: luna-ff
 address: "Rruga dytesore Golem Grand Blue FAFA Golem, 2001 Golem, Albania"

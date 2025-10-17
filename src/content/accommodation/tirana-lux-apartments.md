@@ -1,7 +1,7 @@
 ---
 title: "Tirana LUX Apartments"
 description: "Tirana LUX Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511186919.jpg?k=af50143a81d5b96da838a6cfc8d4f37dee1c09cf9b3bb6e5fad1ec5edbf80346&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-lux-apartments-511186919.jpg"
 language: en
 slug: tirana-lux-apartments
 address: "Rruga Kajo Karafili, 1001 Tirana, Albania"

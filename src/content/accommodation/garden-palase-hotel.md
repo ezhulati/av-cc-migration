@@ -1,7 +1,7 @@
 ---
 title: "Garden Palase Hotel"
 description: "Garden Palase Hotel, located in the vibrant city of Fier, just 38 km away from the historic Independence Square, stands out as a beacon of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181667479.jpg?k=c70703dc218849c181d034ce464d40a03ccbc69b88c1ada2fa743439d0bfc175&o=&hp=1"
+featuredImage: "/images/accommodation/garden-palase-hotel-181667479.jpg"
 language: en
 slug: garden-palase-hotel
 address: "Rruga Nacionale SH73 Prane Sheshit Europa Plaza, 9301 Fier, Albania"

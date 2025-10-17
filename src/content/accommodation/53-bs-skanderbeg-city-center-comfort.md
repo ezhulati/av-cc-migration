@@ -1,7 +1,7 @@
 ---
 title: "53° Bs Skanderbeg City Center Comfort"
 description: "53° Bs Skanderbeg City Center Comfort emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434375869.jpg?k=cdff8379d021a9919215488d2da9848c4d0b2b69507e4776d83b8f306de3a8af&o=&hp=1"
+featuredImage: "/images/accommodation/53-bs-skanderbeg-city-center-comfort-434375869.jpg"
 language: en
 slug: 53-bs-skanderbeg-city-center-comfort
 address: "Rruga Abdulla Keta, 1001 Tirana, Albania"

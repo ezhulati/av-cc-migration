@@ -1,7 +1,7 @@
 ---
 title: "Delight Apartments Pogradec 304"
 description: "Delight Apartments Pogradec 304 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Pogradec, Korçë County."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
+featuredImage: "/images/accommodation/delight-apartments-pogradec-304-c9a51000ce90.jpg"
 language: en
 slug: delight-apartments-pogradec-304
 address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"

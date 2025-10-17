@@ -1,7 +1,7 @@
 ---
 title: "Pastel Apartment Tirana"
 description: "Pastel Apartment Tirana emerges as a freshly updated gem in the heart of Tirana, boasting proximity to significant landmarks such as the Former Residence of Enver Hoxha, the National Theatre of Opera and Ballet of Albania, and the National Museum of History Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527891356.jpg?k=d8392ce20931905c1cb97a8f9835890d3d3c04bfe6bb2664af87501964cbc765&o=&hp=1"
+featuredImage: "/images/accommodation/pastel-apartment-tirana-527891356.jpg"
 language: en
 slug: pastel-apartment-tirana
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

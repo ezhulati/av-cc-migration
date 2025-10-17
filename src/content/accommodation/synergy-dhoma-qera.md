@@ -1,7 +1,7 @@
 ---
 title: "Synergy dhoma qera"
 description: "Synergy Dhoma Qera emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489677087.jpg?k=7cc8338571079fbd3cac92320e24f928d270a125386b93017225f524715c1eac&o=&hp=1"
+featuredImage: "/images/accommodation/synergy-dhoma-qera-489677087.jpg"
 language: en
 slug: synergy-dhoma-qera
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

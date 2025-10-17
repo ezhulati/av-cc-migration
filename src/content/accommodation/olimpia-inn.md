@@ -1,7 +1,7 @@
 ---
 title: "Olimpia Inn"
 description: "Olimpia Inn emerges as a serene haven in the heart of Berat, offering guests a unique blend of urban charm and tranquil street vistas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320527247.jpg?k=01da0851da670200384f9653d357703063b36b530785efb03b36065f1ecfddd2&o=&hp=1"
+featuredImage: "/images/accommodation/olimpia-inn-320527247.jpg"
 language: en
 slug: olimpia-inn
 address: "Rruga:Antipatrea ,Lagjia “22 Tetori”,Pallati 78 Apt 6,Kati 4,Shk 7, 5001 Berat, Albania"

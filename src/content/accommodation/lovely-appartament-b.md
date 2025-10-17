@@ -1,7 +1,7 @@
 ---
 title: "Lovely appartament B"
 description: "Discover the charm of Tirana with a stay at Lovely Apartment B, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449474155.jpg?k=d2d94ab358041d5d589c65eb4d799ab0d3a0d482dcb8536006fdf2ce96cd9292&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-appartament-b-449474155.jpg"
 language: en
 slug: lovely-appartament-b
 address: "Rruga Gjon Mili, 1017 Tirana, Albania"

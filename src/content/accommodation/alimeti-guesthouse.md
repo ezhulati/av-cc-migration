@@ -1,7 +1,7 @@
 ---
 title: "Alimeti Guesthouse"
 description: "Alimeti Guesthouse, located in the picturesque city of Berat, presents a charming option for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484549714.jpg?k=e71f9f466e692397ec6ce3e6f6f38629158f321fac1413f59dc6fcb625d1e64b&o=&hp=1"
+featuredImage: "/images/accommodation/alimeti-guesthouse-484549714.jpg"
 language: en
 slug: alimeti-guesthouse
 address: "Rruga Antipatrea, 5001 Berat, Albania"

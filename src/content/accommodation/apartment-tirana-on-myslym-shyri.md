@@ -1,7 +1,7 @@
 ---
 title: "Apartment Tirana on Myslym Shyri"
 description: "Apartment Tirana on Myslym Shyri emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330521126.jpg?k=a33b70c12a9e22a709fe9002dd939f7dc48635e6fa042301421964c97d1686dd&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-tirana-on-myslym-shyri-330521126.jpg"
 language: en
 slug: apartment-tirana-on-myslym-shyri
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

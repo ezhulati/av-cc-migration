@@ -1,7 +1,7 @@
 ---
 title: "Moonshine Hotel"
 description: "Moonshine Hotel emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359186578.jpg?k=c47a9b1f53ddb860098d49cdbd040e0718ca33b17aeaa92f2dfcaeb7156a6237&o=&hp=1"
+featuredImage: "/images/accommodation/moonshine-hotel-359186578.jpg"
 language: en
 slug: moonshine-hotel
 address: "Rruga Butrinti, 9706 Ksamil, Albania"

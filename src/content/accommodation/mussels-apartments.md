@@ -1,7 +1,7 @@
 ---
 title: "Mussels apartments"
 description: "Mussels Apartments emerges as a prime choice for travelers seeking a serene getaway in Ksamil, boasting a strategic location that places guests within arm's reach of the pristine Ksamil Beach, the vibrant Bora Bora Beach, and the secluded Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/127815846.jpg?k=fa6ddcbc8ac6960f0608a42afe68966a0071c41ea70be05029be9959765ed4e7&o=&hp=1"
+featuredImage: "/images/accommodation/mussels-apartments-127815846.jpg"
 language: en
 slug: mussels-apartments
 address: "rruga kristal lagjia nr.1, 9706 Ksamil, Albania"

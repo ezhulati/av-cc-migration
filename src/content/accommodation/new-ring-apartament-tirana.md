@@ -1,7 +1,7 @@
 ---
 title: "New Ring Apartament Tirana"
 description: "New Ring Apartament Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388884477.jpg?k=27c0b581b63a4eb899ab92db60d0a95f49fbec6631de8b6ce8a72083978a7405&o=&hp=1"
+featuredImage: "/images/accommodation/new-ring-apartament-tirana-388884477.jpg"
 language: en
 slug: new-ring-apartament-tirana
 address: "https://goo.gl/maps/tftYnWU7uCwWHYT57, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartments Premium Center of Tirana"
 description: "Apartments Premium Center of Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492950689.jpg?k=f2904d470b3036040fcf2c1223adfca1343e2c74007d67bb38c0dcad67172311&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-premium-center-of-tirana-492950689.jpg"
 language: en
 slug: apartments-premium-center-of-tirana
 address: "Rruga Qemal Stafa Apartament 23, kati 6 ( floor number), 1005 Tirana, Albania"

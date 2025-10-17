@@ -1,7 +1,7 @@
 ---
 title: "Hotel Internacional Gym & Spa Fushe-Arrez"
 description: "Hotel Internacional Gym & Spa Fushe-Arrez stands out as a premier destination for travelers seeking a blend of comfort, wellness, and scenic beauty in Fushe-Arrez."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271759496.jpg?k=7ab3f6fcdd55f467a5cb1759f75555e569cb12c0547684d120a6c22555be86bc&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-internacional-gym-spa-fushe-arrez-271759496.jpg"
 language: en
 slug: hotel-internacional-gym-spa-fushe-arrez
 address: "SH5 City center, 4402 Fushe-Arrez, Albania"

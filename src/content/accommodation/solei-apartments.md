@@ -1,7 +1,7 @@
 ---
 title: "Solei Apartments"
 description: "Solei Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471555122.jpg?k=33294b8f62394b1356cbf1a914a9895e8b38d67dd9c328f462dcfd9718db8554&o=&hp=1"
+featuredImage: "/images/accommodation/solei-apartments-471555122.jpg"
 language: en
 slug: solei-apartments
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

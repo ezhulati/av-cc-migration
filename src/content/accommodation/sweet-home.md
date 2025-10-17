@@ -1,7 +1,7 @@
 ---
 title: "Sweet Home"
 description: "Sweet Home stands as a charming retreat in the heart of Shkodër, offering guests a unique glimpse into city life with its scenic balcony views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514581970.jpg?k=06cc6fbd154c334e2a4a490a18506653a8f7bf701f9a9107cd9bc7fa7a1d8a84&o=&hp=1"
+featuredImage: "/images/accommodation/sweet-home-514581970.jpg"
 language: en
 slug: sweet-home
 address: "Bulevardi Skënderbeu, 4001 Shkodër, Albania"

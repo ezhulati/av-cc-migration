@@ -1,7 +1,7 @@
 ---
 title: "Wave n' Sea Apartments"
 description: "Wave n' Sea Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, positioned merely steps away from the pristine Livadhi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420659451.jpg?k=ac37c3f977b17db2b621e6c778266c66ff80b181830872953802ab9002825b62&o=&hp=1"
+featuredImage: "/images/accommodation/wave-n-sea-apartments-420659451.jpg"
 language: en
 slug: wave-n-sea-apartments
 address: "Himare - Livadh Road, 9425 Himare, Albania"

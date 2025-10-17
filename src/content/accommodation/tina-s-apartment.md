@@ -1,7 +1,7 @@
 ---
 title: "Tina's Apartment"
 description: "Tina's Apartment emerges as a charming choice for travelers seeking comfort and convenience in the heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/76302473.jpg?k=2d672ceaa4b2fdd481b72c76fb3c9b32c6765ffeb408e98868c57f549c36e2bd&o=&hp=1"
+featuredImage: "/images/accommodation/tina-s-apartment-76302473.jpg"
 language: en
 slug: tina-s-apartment
 address: "Ismail Kadare, 6002 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Artemis"
 description: "Apartment Artemis in Himare stands out as a prime choice for travelers seeking comfort and convenience, mere steps away from the pristine Spille Beach and a short stroll from Maracit Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/apartment-artemis-315f92289c48.jpg"
 language: en
 slug: apartment-artemis
 address: "Himare, Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartment Near The Beach"
 description: "Comfort Apartment Near The Beach emerges as a prime choice for travelers seeking the perfect blend of convenience and serenity in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500424334.jpg?k=f3065eca76b59b94809c54204d4274fdf33c6955ca14934c8beb4292c40f67c7&o=&hp=1"
+featuredImage: "/images/accommodation/comfort-apartment-near-the-beach-500424334.jpg"
 language: en
 slug: comfort-apartment-near-the-beach
 address: "Rruga Shkembi i Kavajes, 2021 Durrës, Albania"

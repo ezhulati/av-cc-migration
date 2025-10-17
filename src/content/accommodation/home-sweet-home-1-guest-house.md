@@ -1,7 +1,7 @@
 ---
 title: "Home Sweet Home 1 - Guest House"
 description: "Home Sweet Home 1 - Guest House emerges as a distinguished choice for adult travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322861425.jpg?k=266de888a8d7e89960398dee5520ed0ef07adfee5aaeafe1a090d048d25aa41e&o=&hp=1"
+featuredImage: "/images/accommodation/home-sweet-home-1-guest-house-322861425.jpg"
 language: en
 slug: home-sweet-home-1-guest-house
 address: "Rruga Mark Bazaiti, 1023 Tirana, Albania"

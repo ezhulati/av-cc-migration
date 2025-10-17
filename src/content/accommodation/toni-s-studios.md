@@ -1,7 +1,7 @@
 ---
 title: "Toni's studios"
 description: "Toni's Studios emerges as a modern oasis for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448466708.jpg?k=096d0566ba30662c8eb337b04af20f057dadf5654b243679b5faf054323775eb&o=&hp=1"
+featuredImage: "/images/accommodation/toni-s-studios-448466708.jpg"
 language: en
 slug: toni-s-studios
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

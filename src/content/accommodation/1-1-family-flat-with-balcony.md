@@ -1,7 +1,7 @@
 ---
 title: "1+1 family flat with balcony"
 description: "Discover the charm of urban living with a serene beachside twist at the 1+1 Family Flat with Balcony, a prime accommodation choice located just 300 meters from the sun-kissed shores of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491981209.jpg?k=2c9a14727b77e1b4c066e973dad942286b361f73ed7602f7c84a5ea6fdb331a6&o=&hp=1"
+featuredImage: "/images/accommodation/1-1-family-flat-with-balcony-491981209.jpg"
 language: en
 slug: 1-1-family-flat-with-balcony
 address: "Rruga Jusuf Myzyri, 2001 Durrës, Albania"

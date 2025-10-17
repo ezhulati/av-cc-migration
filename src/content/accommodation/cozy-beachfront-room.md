@@ -1,7 +1,7 @@
 ---
 title: "Cozy Beachfront Room"
 description: "Cozy Beachfront Room stands as a prime choice for travelers seeking a serene escape by the sea in Durrës, just a stone's throw away from the inviting Durres Beach and within a comfortable distance from the city's historical heart, Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525699266.jpg?k=e76ff684a6711c2dbdd6c358f085f6725aef87e2c6f5960195b7461fcfbb6e09&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-beachfront-room-525699266.jpg"
 language: en
 slug: cozy-beachfront-room
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

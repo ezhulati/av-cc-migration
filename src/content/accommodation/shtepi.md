@@ -1,7 +1,7 @@
 ---
 title: "Shtepi"
 description: "Shtepi stands out as a premier accommodation choice in Berat, boasting a terrace that adds to its charm."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526419724.jpg?k=4f698046c2b981695584091f80b99af14276292e31fee21b4055ab9af3c941ff&o=&hp=1"
+featuredImage: "/images/accommodation/shtepi-526419724.jpg"
 language: en
 slug: shtepi
 address: "Rruga donika Kastrioti, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vieri apartments"
 description: "Vieri Apartments emerges as a serene retreat in Lukovë, a mere stone's throw away from the enchanting Butrint National Park, located 25 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376821588.jpg?k=122947ecc4ec7659d93c59596aa0c4f0fafe601dff9048cd9265e94bfb345624&o=&hp=1"
+featuredImage: "/images/accommodation/vieri-apartments-376821588.jpg"
 language: en
 slug: vieri-apartments
 address: "Krekëz sarandë Krekëz sarandë, 9700 Lukovë, Albania"

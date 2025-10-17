@@ -1,7 +1,7 @@
 ---
 title: "ORA Central Duplex Apartment"
 description: "ORA Central Duplex Apartment stands as a beacon of comfort and convenience in the heart of Shkodër, merely 49 km away from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/ora-central-duplex-apartment-8d80ab6bf73f.jpg"
 language: en
 slug: ora-central-duplex-apartment
 address: "Rruga Qemal Draçini, 4001 Shkodër, Albania"

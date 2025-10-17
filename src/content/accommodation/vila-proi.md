@@ -1,7 +1,7 @@
 ---
 title: "Vila Proi"
 description: "Vila Proi emerges as a charming retreat in Ksamil, boasting a prime location merely a stone's throw away from the pristine shores of Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480215933.jpg?k=1fb4717a4d7f0746947b02b4d4065b153943ae57add1539cf36f805980885238&o=&hp=1"
+featuredImage: "/images/accommodation/vila-proi-480215933.jpg"
 language: en
 slug: vila-proi
 address: "Rruga Cameria, 9706 Ksamil, Albania"

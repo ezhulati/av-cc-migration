@@ -1,7 +1,7 @@
 ---
 title: "Himara luxury apartments"
 description: "Himara Luxury Apartments emerges as a prime choice for travelers seeking comfort and convenience in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798831.jpg?k=aaada8b1072f1244bc7f246da8d4e20c62bf284359f6a44e70adb549e5207105&o=&hp=1"
+featuredImage: "/images/accommodation/himara-luxury-apartments-371798831.jpg"
 language: en
 slug: himara-luxury-apartments
 address: "Rruga Jorgji Bollano, 1001 Himare, Albania"

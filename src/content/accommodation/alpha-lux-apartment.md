@@ -1,7 +1,7 @@
 ---
 title: "Alpha Lux Apartment"
 description: "Alpha Lux Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482643901.jpg?k=ad7e1e23420f3a1319277ef1ce78cfafbc8e04c010b76f60db4480226f37a9cd&o=&hp=1"
+featuredImage: "/images/accommodation/alpha-lux-apartment-482643901.jpg"
 language: en
 slug: alpha-lux-apartment
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "JD villa"
 description: "JD Villa emerges as a serene retreat, offering guests a picturesque garden view from its balconies, located just a short stroll from the tranquil Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488709495.jpg?k=84bb3a3aa75d2a014fac89e6a5845a56d8937927d79f6c4711544dbceb888f03&o=&hp=1"
+featuredImage: "/images/accommodation/jd-villa-488709495.jpg"
 language: en
 slug: jd-villa
 address: "RRUGA ANDREA VARFI, Vlorë, Albania"

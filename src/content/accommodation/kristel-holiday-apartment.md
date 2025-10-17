@@ -1,7 +1,7 @@
 ---
 title: "Kristel Holiday Apartment"
 description: "Kristel Holiday Apartment emerges as a prime choice for travelers seeking a serene retreat in Vlorë, conveniently positioned just a short distance from the city's most iconic landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449924756.jpg?k=8276b8a124c1f9225414af002024b14a3e393193be28a14935ddbd404aa48ffe&o=&hp=1"
+featuredImage: "/images/accommodation/kristel-holiday-apartment-449924756.jpg"
 language: en
 slug: kristel-holiday-apartment
 address: "Rruga Aleks Çaçi, 9401 Vlorë, Albania"

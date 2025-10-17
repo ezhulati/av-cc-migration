@@ -1,7 +1,7 @@
 ---
 title: "Pomegranates & Olives Guesthouse"
 description: "Pomegranates & Olives Guesthouse stands out as a serene oasis in Durrës, merely a short stroll from the inviting sands of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489910314.jpg?k=08aa8ea36435084d80682e1e4c06336b56abdb61476122d68df69533bb0a20e6&o=&hp=1"
+featuredImage: "/images/accommodation/pomegranates-olives-guesthouse-489910314.jpg"
 language: en
 slug: pomegranates-olives-guesthouse
 address: "Rruga e Enkelejve 18, 2008 Durrës, Albania"

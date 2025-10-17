@@ -1,7 +1,7 @@
 ---
 title: "Joel"
 description: "Joel Apartment stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436147535.jpg?k=dc347603fc5929c1dbae429b6302268da60bcb225849146983e2b7a13489b298&o=&hp=1"
+featuredImage: "/images/accommodation/joel-436147535.jpg"
 language: en
 slug: joel
 address: "Rruga Shengjin Kune, 1000 Shëngjin, Albania"

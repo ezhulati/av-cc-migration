@@ -1,7 +1,7 @@
 ---
 title: "Studio Flat in the City Center"
 description: "Studio Flat in the City Center emerges as a prime choice for travelers seeking the heart of Tirana, located just 700 meters from the iconic Skanderbeg Square and a short drive from the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470308374.jpg?k=33a1cced342e30a1b58caa554659f384808e8f6358be75d8280af0151eb3e05d&o=&hp=1"
+featuredImage: "/images/accommodation/studio-flat-in-the-city-center-470308374.jpg"
 language: en
 slug: studio-flat-in-the-city-center
 address: "Rruga e Dibrës, 1010 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "2A White Rose Apartment"
 description: "2A White Rose Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392768296.jpg?k=5f8b64fca6451287757e22c879fe551a65b0ad566834a899ca99139ecb783cb2&o=&hp=1"
+featuredImage: "/images/accommodation/2a-white-rose-apartment-392768296.jpg"
 language: en
 slug: 2a-white-rose-apartment
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

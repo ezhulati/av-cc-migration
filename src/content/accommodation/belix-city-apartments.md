@@ -1,7 +1,7 @@
 ---
 title: "Belix City Apartments"
 description: "Belix City Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës, situated a mere stone's throw away from the pristine Currila Beach and within easy reach of Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480435874.jpg?k=74d5291599e14d0a2d0c20d1c2e1956f6026fb74f813099dccdc6ce7334db9ba&o=&hp=1"
+featuredImage: "/images/accommodation/belix-city-apartments-480435874.jpg"
 language: en
 slug: belix-city-apartments
 address: "Rruga Taulantia 352, 2002 Durrës, Albania"

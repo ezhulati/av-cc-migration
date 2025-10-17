@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment - Deluxe 2 Bedroom Apartment With Jacuzzi"
 description: "Miku Apartment - Deluxe 2 Bedroom Apartment With Jacuzzi emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513748035.jpg?k=88e323472cf68fa9065e49d71edb78a500235cc5fa7b1d3f8d1eec67a8778564&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-deluxe-2-bedroom-apartment-with-jacuzzi-513748035.jpg"
 language: en
 slug: miku-apartment-deluxe-2-bedroom-apartment-with-jacuzzi
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Pllaha"
 description: "Vila Pllaha stands as a beacon of comfort and convenience in Korçë, offering guests a serene stay just a stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum, both located 43 km from the property."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446223960.jpg?k=7c9b703d3380cdbd64b1462bd084ebd42e3a690de032562bc94c8dc1587a621c&o=&hp=1"
+featuredImage: "/images/accommodation/vila-pllaha-446223960.jpg"
 language: en
 slug: vila-pllaha
 address: "Rruga Ismail Qemali Korçe, 7001 Korçë, Albania"

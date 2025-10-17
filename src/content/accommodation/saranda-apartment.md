@@ -1,7 +1,7 @@
 ---
 title: "Saranda Apartment"
 description: "Saranda Apartment emerges as a prime choice for travelers seeking a beachfront haven in Sarandë, boasting an enviable location mere steps from Sarande Main Beach and within easy reach of Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377774767.jpg?k=bbe2b84c839a5b8f1bb58d4e8337e4e634fb60f2f51ae4be73865bb6d98d165f&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-apartment-377774767.jpg"
 language: en
 slug: saranda-apartment
 address: "86 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

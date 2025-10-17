@@ -1,7 +1,7 @@
 ---
 title: "Emanuel's Villa"
 description: "Emanuel's Villa emerges as a serene retreat in the vibrant heart of Tirana, located merely 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521981699.jpg?k=309e0ffd076678150da192f14bcaf2eb299699c6d69179a2980697241fa64089&o=&hp=1"
+featuredImage: "/images/accommodation/emanuel-s-villa-521981699.jpg"
 language: en
 slug: emanuel-s-villa
 address: "Rruga e Elbasanit 16, 1000 Tirana, Albania"

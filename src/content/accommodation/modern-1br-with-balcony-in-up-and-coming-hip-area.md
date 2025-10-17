@@ -1,7 +1,7 @@
 ---
 title: "Modern 1BR with Balcony in Up-and-Coming Hip Area"
 description: "#1 Modern 1BR with Balcony in Up-and-Coming Hip Area stands out as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://graph.facebook.com/v2.9/10212365900883588/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/modern-1br-with-balcony-in-up-and-coming-hip-area-picture?type.jpg"
 language: en
 slug: modern-1br-with-balcony-in-up-and-coming-hip-area
 address: "Rruga 3 Deshmoret, 1001 Tirana, Albania"

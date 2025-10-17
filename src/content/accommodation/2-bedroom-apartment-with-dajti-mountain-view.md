@@ -1,7 +1,7 @@
 ---
 title: "2-bedroom apartment with Dajti Mountain view"
 description: "Discover the charm of Tirana from the comfort of the 2-bedroom apartment with Dajti Mountain view, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385491975.jpg?k=b934487e6d79c9a7160230ac321077c9f2da57219bff518ba6ced05272aefc9e&o=&hp=1"
+featuredImage: "/images/accommodation/2-bedroom-apartment-with-dajti-mountain-view-385491975.jpg"
 language: en
 slug: 2-bedroom-apartment-with-dajti-mountain-view
 address: "Rruga Qemal Stafa, Pallati 10, Shkalla 1, Apartamenti 10, 1000 Tirana, Albania"

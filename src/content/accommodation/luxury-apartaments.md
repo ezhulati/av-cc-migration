@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartaments"
 description: "Luxury Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505408780.jpg?k=20553b7ae021ec65533c8511f178542972501d27f17a976c2d627bbab9826a36&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-apartaments-505408780.jpg"
 language: en
 slug: luxury-apartaments
 address: "Rruga e Kosovarëve, 1001 Tirana, Albania"

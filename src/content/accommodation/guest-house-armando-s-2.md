@@ -1,7 +1,7 @@
 ---
 title: "guest house armando's 2"
 description: "Guest House Armando's 2 emerges as a serene retreat in the vibrant city of Durrës, perfectly positioned just a short distance from the pristine Durres and Kallmi Beaches, and even closer to the tranquil Currila Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508717023.jpg?k=0072c743b6e1a1358b0692a9f02ec66c53c1ef7f0b2c8b90ef928a4fd81ec386&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-armando-s-2-508717023.jpg"
 language: en
 slug: guest-house-armando-s-2
 address: "pasticeri perla , a goga, 2001 Durrës, Albania"

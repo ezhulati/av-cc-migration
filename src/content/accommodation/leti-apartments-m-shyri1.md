@@ -1,7 +1,7 @@
 ---
 title: "Leti Apartments M.Shyri1"
 description: "Leti Apartments M."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526135508.jpg?k=ac496c98d882c98aae939d3614a358bd1570d90a58c1b14e7597dfbb23715014&o=&hp=1"
+featuredImage: "/images/accommodation/leti-apartments-m-shyri1-526135508.jpg"
 language: en
 slug: leti-apartments-m-shyri1
 address: "Rruga Hajdar Hidi, 1010 Tirana, Albania"

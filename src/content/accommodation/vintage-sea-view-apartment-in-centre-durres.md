@@ -1,7 +1,7 @@
 ---
 title: "Vintage Sea-View Apartment in Centre Durres"
 description: "Vintage Sea-View Apartment in Centre Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "https://lh3.googleusercontent.com/a/AGNmyxZQXKLBhoqJOew8WxSabQK1zGty_jCSQ9XB5af-=s96-c64"
+featuredImage: "/images/accommodation/vintage-sea-view-apartment-in-centre-durres-AGNmyxZQXKLB.jpg"
 language: en
 slug: vintage-sea-view-apartment-in-centre-durres
 address: "Rruga Iljaz Reka, 2001 Durrës, Albania"

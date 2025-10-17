@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bylis"
 description: "Hotel Bylis stands as a beacon of comfort and convenience in the vibrant heart of Tirana, merely 600 meters from the iconic Skenderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109764328.jpg?k=f0c567aa60348c7e5350fc7e55880fd193e12947badb7fa0dd9a410e7d358988&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bylis-109764328.jpg"
 language: en
 slug: hotel-bylis
 address: "Bardhok Biba Street, Vila 30/1, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bral Currila - Peaceful Beachfront Apartment"
 description: "Bral Currila - Peaceful Beachfront Apartment stands as a serene oasis right on the shores of Durrës, mere steps from the pristine sands of Kallmi Beach and a short stroll from the vibrant West End Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473322099.jpg?k=25c5b775d4c3fe825f2c9af4f1e3ee705995417ec687f81c9e6aba3e60e255de&o=&hp=1"
+featuredImage: "/images/accommodation/bral-currila-peaceful-beachfront-apartment-473322099.jpg"
 language: en
 slug: bral-currila-peaceful-beachfront-apartment
 address: "Rruga e Currilave, 2001 Durrës, Albania"

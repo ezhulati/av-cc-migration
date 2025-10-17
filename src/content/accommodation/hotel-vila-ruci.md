@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Ruci"
 description: "Hotel Vila Ruci emerges as a charming choice for travelers seeking both tranquility and convenience, located merely a short stroll from the pristine Sunset Beach and the vibrant Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
+featuredImage: "/images/accommodation/hotel-vila-ruci-41b962c4f1fc.jpg"
 language: en
 slug: hotel-vila-ruci
 address: "Rruga Ali Pashe Tepelena Nr:2 Ksamil, 9706 Ksamil, Albania"

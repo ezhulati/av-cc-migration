@@ -1,7 +1,7 @@
 ---
 title: "Apartments Margarita"
 description: "Apartments Margarita emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil, Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422698297.jpg?k=6a411db2bc816f4d96255a7f7df7ef1c9d95a979d736fe4325bea6d66266f55f&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-margarita-422698297.jpg"
 language: en
 slug: apartments-margarita
 address: "Rr Ismail Qemali Ksamil Qarku Vlore, 9706 Ksamil, Albania"

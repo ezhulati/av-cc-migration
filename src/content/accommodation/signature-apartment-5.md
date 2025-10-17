@@ -1,7 +1,7 @@
 ---
 title: "Signature apartment 5"
 description: "Signature Apartment 5 emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528132766.jpg?k=cb5e9ee444b669fa94a42d62c5f0f6ab33227086e6c207ce90c9d4c57fc36445&o=&hp=1"
+featuredImage: "/images/accommodation/signature-apartment-5-528132766.jpg"
 language: en
 slug: signature-apartment-5
 address: "Rruga Çerçiz Topulli, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Silver Hill Guesthouse"
 description: "Silver Hill Guesthouse emerges as a serene haven for travelers seeking both tranquility and adventure, situated just a stone's throw away from the enchanting Zaravina Lake in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363728265.jpg?k=3ab8ccbe2e35ae29159fcd1fa717824f9aae73b01faf59158b0b5d80921d5cd7&o=&hp=1"
+featuredImage: "/images/accommodation/silver-hill-guesthouse-363728265.jpg"
 language: en
 slug: silver-hill-guesthouse
 address: "Rruga Ismail Kadare, 6001 Gjirokastër, Albania"

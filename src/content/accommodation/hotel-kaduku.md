@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kaduku"
 description: "Discover the charm of Shkodër from the comfort of Hotel Kaduku, a prime spot for travelers seeking both convenience and quality."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404197801.jpg?k=4fbc615ef4950188c8caee3701987417dd7202eb6b779e5b85132ec390d45f3b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kaduku-404197801.jpg"
 language: en
 slug: hotel-kaduku
 address: "Rruga Studenti 84/1 - Sheshi Demokracia, 4001 Shkodër, Albania"

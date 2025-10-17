@@ -1,7 +1,7 @@
 ---
 title: "VILA VELLEZRIT KAPAJ"
 description: "Vila Vellezrit Kapaj emerges as a prime choice for travelers seeking a serene getaway in Sarandë, located within the picturesque Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487081824.jpg?k=71e5c0123d55f730e5f74d165128493f6d4546555c7195db294617fd3406f514&o=&hp=1"
+featuredImage: "/images/accommodation/vila-vellezrit-kapaj-487081824.jpg"
 language: en
 slug: vila-vellezrit-kapaj
 address: "Rruga Sarande, Sarandë, Albania"

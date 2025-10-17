@@ -1,7 +1,7 @@
 ---
 title: "Noel City Centre Apartment"
 description: "Discover the comfort and convenience of Noel City Centre Apartment, a prime choice for travelers seeking a blend of modern amenities and prime location in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493614134.jpg?k=81fe3020835a526421255ba1a3bb238884708f7229d068a752f80ecaa9a21971&o=&hp=1"
+featuredImage: "/images/accommodation/noel-city-centre-apartment-493614134.jpg"
 language: en
 slug: noel-city-centre-apartment
 address: "L. 22 tetori, 5001 Berat, Albania"

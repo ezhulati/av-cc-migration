@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lula Ksamil"
 description: "Hotel Lula Ksamil emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of the Vlorë County Region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/139630942.jpg?k=119199103bcc977a8acf1db3a8d78c10fb3f6cd2bca5008a5d46291d3928b042&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-lula-ksamil-139630942.jpg"
 language: en
 slug: hotel-lula-ksamil
 address: "Rruga Riviera, 9706 Ksamil, Albania"

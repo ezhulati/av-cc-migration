@@ -1,7 +1,7 @@
 ---
 title: "COSMO Beach Hotel"
 description: "COSMO Beach Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, just a stone's throw away from the pristine Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389528133.jpg?k=ac54981d75c64f026ea2e49eb44e1d167ad7221e72adb35d7e6154783dbdf743&o=&hp=1"
+featuredImage: "/images/accommodation/cosmo-beach-hotel-389528133.jpg"
 language: en
 slug: cosmo-beach-hotel
 address: "Rruga Ura e Dajlanit 2 Plazh, Durres 11000 Albania, 2021 Durrës, Albania"

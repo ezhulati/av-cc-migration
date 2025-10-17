@@ -1,7 +1,7 @@
 ---
 title: "Lovely and quite apt."
 description: "Discover the charm of Tirana from the comfort of the Lovely and Quite Apartment, a serene haven located strategically to offer both tranquility and easy access to the city's most coveted attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473050411.jpg?k=57bfc335a89364fd0f2ae87daab91a7d3f5098c34eb9d9e23a52b0b0e7db5ace&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-and-quite-apt-473050411.jpg"
 language: en
 slug: lovely-and-quite-apt
 address: "Gani strazimiri nd.68.h.1.njesia administrativenr.4.njesia bashkiake nr.4.1012 tirane, 1012 Tirana, Albania"

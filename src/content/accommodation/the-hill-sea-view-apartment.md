@@ -1,7 +1,7 @@
 ---
 title: "The Hill Sea View Apartment"
 description: "The Hill Sea View Apartment in Sarandë offers a refreshing retreat with its air-conditioned accommodations that boast a private balcony for breathtaking views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303478572.jpg?k=b8586429cc8f80dc2b7be94d5b5b12807c898a7fbb0042b131ca76f486dfa15e&o=&hp=1"
+featuredImage: "/images/accommodation/the-hill-sea-view-apartment-303478572.jpg"
 language: en
 slug: the-hill-sea-view-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bujtina e Bardhe"
 description: "Hotel Bujtina e Bardhe emerges as a charming retreat in the heart of Korçë, offering breathtaking mountain views and a cozy atmosphere that captivates guests from the moment they arrive."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86056295.jpg?k=df6bb62613033838536bf201b74347992cc10b658df7cf65463aa4ec43130eb2&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bujtina-e-bardhe-86056295.jpg"
 language: en
 slug: hotel-bujtina-e-bardhe
 address: "Rruga Spiro Ballkameni, Mbrapa Katedrales,, 7003 Korçë, Albania"

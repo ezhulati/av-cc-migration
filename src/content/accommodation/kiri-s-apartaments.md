@@ -1,7 +1,7 @@
 ---
 title: "Kiri S.Apartaments"
 description: "Kiri S."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+featuredImage: "/images/accommodation/kiri-s-apartaments-8103dfb0481c.jpg"
 language: en
 slug: kiri-s-apartaments
 address: "Rruga Guri Nazifi 34, 9701 Sarandë, Albania"

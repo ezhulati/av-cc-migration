@@ -1,7 +1,7 @@
 ---
 title: "Euonia Apartment"
 description: "Euonia Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496212167.jpg?k=36197c838007415049a541701b40399ac02edd650de2c19d3de95449d27aba97&o=&hp=1"
+featuredImage: "/images/accommodation/euonia-apartment-496212167.jpg"
 language: en
 slug: euonia-apartment
 address: "Rruga e Durrësit, 1021 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Enjoy Travel Durres Beach Apartment"
 description: "Discover the charm of Durrës at the Enjoy Travel Durres Beach Apartment, a prime location just a stone's throw away from the pristine Durres Beach and a scenic drive from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/enjoy-travel-durres-beach-apartment-29d5c93ac695.jpg"
 language: en
 slug: enjoy-travel-durres-beach-apartment
 address: "Rruga Lule Bore Second, 2001 Durrës, Albania"

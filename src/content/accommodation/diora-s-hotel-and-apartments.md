@@ -1,7 +1,7 @@
 ---
 title: "Diora'S Hotel and Apartments"
 description: "Diora's Hotel and Apartments emerges as a premier destination for travelers seeking unparalleled service in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460358363.jpg?k=6f5a43c8c6ae20b2f3a04df925fe96a22b683e0e4bf176326439b10a3b399865&o=&hp=1"
+featuredImage: "/images/accommodation/diora-s-hotel-and-apartments-460358363.jpg"
 language: en
 slug: diora-s-hotel-and-apartments
 address: "Rruga Aleksandër Moisiu, Uji i ftohte, 9401 Vlorë, Albania"

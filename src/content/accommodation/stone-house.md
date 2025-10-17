@@ -1,7 +1,7 @@
 ---
 title: "Stone House"
 description: "Stone House emerges as a serene retreat in the heart of Këlcyrë, Gjirokastër County, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484468308.jpg?k=bfbae78fd78e5e5349960990719e3804361f7dbd338124b4314cbd0982fbbbf2&o=&hp=1"
+featuredImage: "/images/accommodation/stone-house-484468308.jpg"
 language: en
 slug: stone-house
 address: "Fshati i Ri, Këlcyrë, Albania"

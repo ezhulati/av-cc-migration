@@ -1,7 +1,7 @@
 ---
 title: "Swiss Villa Qerret"
 description: "Swiss Villa Qerret emerges as a gem on the Golem coastline, offering guests a unique blend of comfort and scenic beauty just 200 meters from the pristine Qerret Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409604157.jpg?k=645540a8cfda25862cd1db99d661702dfc018a3c83107030f3e2ac36214fe302&o=&hp=1"
+featuredImage: "/images/accommodation/swiss-villa-qerret-409604157.jpg"
 language: en
 slug: swiss-villa-qerret
 address: "Rruga Zef Serembe, Golem, Albania"

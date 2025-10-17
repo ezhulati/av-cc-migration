@@ -1,7 +1,7 @@
 ---
 title: "Hotel Blini"
 description: "Hotel Blini stands out as a serene oasis, located just 700 meters from the historic Rozafa Castle and a mere five-minute drive from the vibrant heart of Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453572451.jpg?k=a6f7d8a13727533afa8547d72cf1e7e505c846be74dded92bf2449b00136d65a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-blini-453572451.jpg"
 language: en
 slug: hotel-blini
 address: "Shetitorja e Molos, 4001 Shkodër, Albania"

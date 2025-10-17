@@ -1,7 +1,7 @@
 ---
 title: "Elma's Apartament Center of Tirana"
 description: "Elma's Apartment Center of Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489871169.jpg?k=c0835f2a6c3f6e4f8cfc1c0ae50503d9c528a8d5220a91af97e31e0845edbc2d&o=&hp=1"
+featuredImage: "/images/accommodation/elma-s-apartament-center-of-tirana-489871169.jpg"
 language: en
 slug: elma-s-apartament-center-of-tirana
 address: "Rruga Myslym Shyri ground zero, 1001 Tirana, Albania"

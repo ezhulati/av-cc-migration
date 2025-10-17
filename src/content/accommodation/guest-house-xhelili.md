@@ -1,7 +1,7 @@
 ---
 title: "Guest House Xhelili"
 description: "Guest House Xhelili, located in the serene Erind area of Gjirokastër County, presents a tranquil retreat with its stunning mountain views accessible from a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521350271.jpg?k=7f4d159f54c471ea21b078c72ebc5954ce3dc743bc6cc52f4f41944f63725888&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-xhelili-521350271.jpg"
 language: en
 slug: guest-house-xhelili
 address: "Erind, Gjirokaster, Erind, Albania"

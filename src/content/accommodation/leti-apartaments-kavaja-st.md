@@ -1,7 +1,7 @@
 ---
 title: "LETI APARTAMENTS KAVAJA ST"
 description: "LETI APARTAMENTS KAVAJA ST emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
+featuredImage: "/images/accommodation/leti-apartaments-kavaja-st-41b962c4f1fc.jpg"
 language: en
 slug: leti-apartaments-kavaja-st
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

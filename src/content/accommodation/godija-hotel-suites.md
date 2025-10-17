@@ -1,7 +1,7 @@
 ---
 title: "Godija Hotel & Suites"
 description: "Godija Hotel & Suites emerges as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from the vibrant Velipoje Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522068416.jpg?k=6183a3788af4df69aa95054358ef3d4f5e17d2b0a452321641e40d5ae9e721e1&o=&hp=1"
+featuredImage: "/images/accommodation/godija-hotel-suites-522068416.jpg"
 language: en
 slug: godija-hotel-suites
 address: "Rruga e Peshkatareve, 4000 Velipojë, Albania"

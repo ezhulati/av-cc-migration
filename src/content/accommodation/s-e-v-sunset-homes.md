@@ -1,7 +1,7 @@
 ---
 title: "S.E.V. Sunset Homes"
 description: "S.E.V. Sunset Homes stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, offering air-conditioned accommodations with breathtaking sea views, just a stone's throw away from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472597935.jpg?k=3a66bfc8a5d9cdc186ccdcf523775c9f173c907aa7c8639a0e78412fb8d9d351&o=&hp=1"
+featuredImage: "/images/accommodation/s-e-v-sunset-homes-472597935.jpg"
 language: en
 slug: s-e-v-sunset-homes
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

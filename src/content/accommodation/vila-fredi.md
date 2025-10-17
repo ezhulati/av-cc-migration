@@ -1,7 +1,7 @@
 ---
 title: "Vila Fredi"
 description: "Vila Fredi emerges as a serene oasis, offering guests a unique blend of comfort and convenience, just a stone's throw away from the pristine sands of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463309464.jpg?k=6ed1cf9bcbe3ded5576d5fadf5588cd3d40833b283139c92ec7cadbfdff51662&o=&hp=1"
+featuredImage: "/images/accommodation/vila-fredi-463309464.jpg"
 language: en
 slug: vila-fredi
 address: "Papa Gjon Pali 2 1, 9706 Ksamil, Albania"

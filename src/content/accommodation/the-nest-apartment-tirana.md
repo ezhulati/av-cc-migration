@@ -1,7 +1,7 @@
 ---
 title: "The Nest Apartment Tirana"
 description: "The Nest Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495024165.jpg?k=7bbe7ba2843cf399d8ba106901807ffe4be476abd9f79beacab53f225cb194a4&o=&hp=1"
+featuredImage: "/images/accommodation/the-nest-apartment-tirana-495024165.jpg"
 language: en
 slug: the-nest-apartment-tirana
 address: "Rruga Androkli Kostallari, 1057 Tirana, Albania"

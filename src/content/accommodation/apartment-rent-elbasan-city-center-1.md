@@ -1,7 +1,7 @@
 ---
 title: "Apartment rent Elbasan city center 1"
 description: "Apartment Rent Elbasan City Center 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Elbasan, located just 39 km from the vibrant Skanderbeg Square and a mere stone's throw from the Dajti Ekspres Cable Car at 42 km."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373643863.jpg?k=6f0778febf98306059eb3daa5c7327706367667cf2c9d1317d83d5190312432e&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-rent-elbasan-city-center-1-373643863.jpg"
 language: en
 slug: apartment-rent-elbasan-city-center-1
 address: "L“ 28 Nentori“ mbrapa pallatit te sportit „Tomorr Sinani“ Rruga Esat Bordi, 3001 Elbasan, Albania"

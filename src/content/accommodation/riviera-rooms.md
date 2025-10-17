@@ -1,7 +1,7 @@
 ---
 title: "Riviera Rooms"
 description: "Riviera Rooms emerges as a serene retreat, situated just a stone's throw away from the pristine sands of a Himare beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73224003.jpg?k=fc6cad0de8f159f31ac378f6f49e905895cac32f77dd89f4da77e77fb156b1a7&o=&hp=1"
+featuredImage: "/images/accommodation/riviera-rooms-73224003.jpg"
 language: en
 slug: riviera-rooms
 address: "Road SH8, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VISI Apartments"
 description: "VISI Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502565002.jpg?k=54f4cd2384165f8bd61e46ad21a1f027bf050af3323c38677db7d18cc54f8f99&o=&hp=1"
+featuredImage: "/images/accommodation/visi-apartments-502565002.jpg"
 language: en
 slug: visi-apartments
 address: "9706 Butrinti st, 2696 Ksamil, Albania"

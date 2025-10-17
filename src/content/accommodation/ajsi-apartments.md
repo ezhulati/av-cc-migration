@@ -1,7 +1,7 @@
 ---
 title: "Ajsi Apartments"
 description: "Ajsi Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518887616.jpg?k=f52431014d061e288bbe93ec0d3585ab0fae10dd423d04413df5ffa4c1496f44&o=&hp=1"
+featuredImage: "/images/accommodation/ajsi-apartments-518887616.jpg"
 language: en
 slug: ajsi-apartments
 address: "Lagja 13 Plazh ,rruga Juvenilja, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Golem Home"
 description: "Golem Home emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short stroll from the pristine Golem Beach and the scenic Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476674894.jpg?k=2a4137b3137323bde7ae3bb9957b72690885858f2fcf1ae4968a06e9377bc48d&o=&hp=1"
+featuredImage: "/images/accommodation/golem-home-476674894.jpg"
 language: en
 slug: golem-home
 address: "Rruga durres kryemdhej, Golem, Albania"

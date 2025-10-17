@@ -1,7 +1,7 @@
 ---
 title: "Moon Sea View Apartment"
 description: "Moon Sea View Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short stroll from the pristine Maestral Beach and within easy walking distance to La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481311921.jpg?k=6cf781c825d491e8f9142b4a0d56c12f9947261fa0f3f9fcedbb8221e246072a&o=&hp=1"
+featuredImage: "/images/accommodation/moon-sea-view-apartment-481311921.jpg"
 language: en
 slug: moon-sea-view-apartment
 address: "Rruga Karl Gega, 9701 Sarandë, Albania"

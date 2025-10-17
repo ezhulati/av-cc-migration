@@ -1,7 +1,7 @@
 ---
 title: "Neli's Apartments"
 description: "Neli's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511859031.jpg?k=6ce3188faf2f76f660f66904b1efce3dc81f34e9cae4b2315b64ba7346192a7f&o=&hp=1"
+featuredImage: "/images/accommodation/neli-s-apartments-511859031.jpg"
 language: en
 slug: neli-s-apartments
 address: "Shëngjin - Kune, 4503 Shëngjin, Albania"

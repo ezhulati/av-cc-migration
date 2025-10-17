@@ -1,7 +1,7 @@
 ---
 title: "Villa Elite Ksamil"
 description: "Villa Elite Ksamil stands as a prime choice for travelers seeking a serene getaway, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482988649.jpg?k=671845fc4428601e4376790b4c4814b891a3328e7b8c16c60e2672b91c44c355&o=&hp=1"
+featuredImage: "/images/accommodation/villa-elite-ksamil-482988649.jpg"
 language: en
 slug: villa-elite-ksamil
 address: "Rruga Rinia Ksamil, 9706 Ksamil, Albania"

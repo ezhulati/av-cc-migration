@@ -1,7 +1,7 @@
 ---
 title: "Spile apartment"
 description: "Spile Apartment emerges as a prime choice for travelers seeking comfort and convenience in Himare, perfectly positioned just a short stroll from the pristine Maracit Beach and within easy reach of Prinos Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456491788.jpg?k=b20f93b075a4eba6d42ebe35875b9ec941587de62ea0e136502dc1e0c42f1c03&o=&hp=1"
+featuredImage: "/images/accommodation/spile-apartment-456491788.jpg"
 language: en
 slug: spile-apartment
 address: "Himara, 9425 Himare, Albania"

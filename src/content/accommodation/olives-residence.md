@@ -1,7 +1,7 @@
 ---
 title: "Olives Residence"
 description: "Olives Residence emerges as a serene oasis in Dhërmi, merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200504531.jpg?k=99b2dc42a393111d4475495ec5bcbea3fc36419bc0c5b17234d250b816125649&o=&hp=1"
+featuredImage: "/images/accommodation/olives-residence-200504531.jpg"
 language: en
 slug: olives-residence
 address: "Rruga Perivolo, 9422 Dhërmi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cosy apartment 15 min from the beach."
 description: "Discover the charm of Sarandë with a stay at the Cosy apartment, a modern retreat located conveniently close to Saranda City Beach and just a leisurely 15-minute stroll from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469395856.jpg?k=d7965cff9235132688404eca66013b3048b4259a2b17e6241bc17c4674d885b5&o=&hp=1"
+featuredImage: "/images/accommodation/cosy-apartment-15-min-from-the-beach-469395856.jpg"
 language: en
 slug: cosy-apartment-15-min-from-the-beach
 address: "Rruga Gjergj Araniti 1, Sarandë, Albania"

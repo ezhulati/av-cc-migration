@@ -1,7 +1,7 @@
 ---
 title: "Capital Suites Center"
 description: "Capital Suites Center elevates the guest experience to star status with its impeccable 5-star accommodations in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479736122.jpg?k=075fc899a007027b7d67892260d79fe1fe0f6cf8a690b9021b91a075026dc976&o=&hp=1"
+featuredImage: "/images/accommodation/capital-suites-center-479736122.jpg"
 language: en
 slug: capital-suites-center
 address: "Rruga e Kavajës Pallati i Raiffeisen Bank,Kati 2 ,Kavaja St,Tirana 1001, 1001 Tirana, Albania"

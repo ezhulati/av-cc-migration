@@ -1,7 +1,7 @@
 ---
 title: "Shengjin-mi casa es tu casa"
 description: "Shengjin-mi casa es tu casa emerges as a prime choice for travelers seeking a serene beachfront escape in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312791497.jpg?k=2ac92949e623b97c44da16a9e1f69547ba355bf9f0d8688e8568c7510ab8ce87&o=&hp=1"
+featuredImage: "/images/accommodation/shengjin-mi-casa-es-tu-casa-312791497.jpg"
 language: en
 slug: shengjin-mi-casa-es-tu-casa
 address: "Shëtitorja Wilson, 4503 Shëngjin, Albania"

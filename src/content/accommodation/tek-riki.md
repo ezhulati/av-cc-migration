@@ -1,7 +1,7 @@
 ---
 title: "“Tek Riki”"
 description: "\"Tek Riki\" emerges as a serene retreat for travelers seeking tranquility amidst nature."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485924592.jpg?k=df1cdd62dbc170a5c8beaed5336ad24faae984d44d6990dfeae911ae09ade72f&o=&hp=1"
+featuredImage: "/images/accommodation/tek-riki-485924592.jpg"
 language: en
 slug: tek-riki
 address: "Rruga Gaqo Avrazi, 7003 Korçë, Albania"

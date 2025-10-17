@@ -1,7 +1,7 @@
 ---
 title: "Tranquil Urban Space"
 description: "Tranquil Urban Space emerges as a serene retreat in the heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492199709.jpg?k=f381c26ebb15749e0cb1d95d4cb43903936ceddf1b73cd703d084852866d7c42&o=&hp=1"
+featuredImage: "/images/accommodation/tranquil-urban-space-492199709.jpg"
 language: en
 slug: tranquil-urban-space
 address: "Rruga Nikolla Tupe 2/1, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lili's House Golem, Durres"
 description: "Lili's House Golem, Durres, emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from the serene Golem Beach and the picturesque Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477889891.jpg?k=f87ec24ca9578f3feb9f744267ab17fc708b8685322b831720384bd9d41e2261&o=&hp=1"
+featuredImage: "/images/accommodation/lili-s-house-golem-durres-477889891.jpg"
 language: en
 slug: lili-s-house-golem-durres
 address: "Kompleksi Sava, Pallati 1, Shk 1 Ap 12, Kryemedhenj, Golem, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SANTA ROOM-OLD BAZAAR CENTER-Gjirokaster"
 description: "Santa Room-Old Bazaar Center in Gjirokastër presents a charming retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496634297.jpg?k=90778f1b5e7112282fbde9abf5700b6766aa11be4e09392fc7a9c1e037446c3f&o=&hp=1"
+featuredImage: "/images/accommodation/santa-room-old-bazaar-center-gjirokaster-496634297.jpg"
 language: en
 slug: santa-room-old-bazaar-center-gjirokaster
 address: "Qafa e Pazarit Gjirokaster, 6001 Gjirokastër, Albania"

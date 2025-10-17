@@ -1,7 +1,7 @@
 ---
 title: "Lana Riverside Apartment"
 description: "Lana Riverside Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of local history in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525085869.jpg?k=ee1f0fbd834b5a29511411b78ca1e573d8f2290d23b4f98372c96fd21b5c40ee&o=&hp=1"
+featuredImage: "/images/accommodation/lana-riverside-apartment-525085869.jpg"
 language: en
 slug: lana-riverside-apartment
 address: "26 Bulevardi Gjergj Fishta Apt 18, 5 and 6th flor, 1001 Tirana, Albania"

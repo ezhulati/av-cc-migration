@@ -1,7 +1,7 @@
 ---
 title: "Meg’s Apartment"
 description: "Meg's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469944253.jpg?k=f584c20788203a1dca92d378580b9b1abdaefe64d899f54f6dd217029534e311&o=&hp=1"
+featuredImage: "/images/accommodation/meg-s-apartment-469944253.jpg"
 language: en
 slug: meg-s-apartment
 address: "Rruga Xhorxh Soros, 6001 Gjirokastër, Albania"

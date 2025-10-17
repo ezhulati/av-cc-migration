@@ -1,7 +1,7 @@
 ---
 title: "Villa Klevi"
 description: "Villa Klevi emerges as a serene oasis in Sarandë, perfectly positioned just a short distance from the city's prime beaches, with Saranda City Beach 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475809238.jpg?k=23f01f7412c1de9ab71b24759765ce0b77b0e27a10c365146eda16a5e5c1bb15&o=&hp=1"
+featuredImage: "/images/accommodation/villa-klevi-475809238.jpg"
 language: en
 slug: villa-klevi
 address: "Rruga Adem Sheme Lugu Dardhes, 9701 Sarandë, Albania"

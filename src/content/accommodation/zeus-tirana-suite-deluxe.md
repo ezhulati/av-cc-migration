@@ -1,7 +1,7 @@
 ---
 title: "Zeus Tirana Suite Deluxe"
 description: "Zeus Tirana Suite Deluxe emerges as a modern oasis in the heart of Tirana, boasting a prime location close to the city's historical and cultural landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445151891.jpg?k=bc38b8d7b73114e611b63bdd5f7df02ff21cf01579e18679c19efd73cfcbc723&o=&hp=1"
+featuredImage: "/images/accommodation/zeus-tirana-suite-deluxe-445151891.jpg"
 language: en
 slug: zeus-tirana-suite-deluxe
 address: "Rruga Papa Kristo Negovani, 1001 Tirana, Albania"

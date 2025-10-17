@@ -1,7 +1,7 @@
 ---
 title: "Studio 6"
 description: "Studio 6 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505765692.jpg?k=75f8ff49854a1924ad78903b3d0f704f05579d3fff5dd38af7f9dadd4d3af769&o=&hp=1"
+featuredImage: "/images/accommodation/studio-6-505765692.jpg"
 language: en
 slug: studio-6
 address: "Rruga Sazani,, 9400 Vlorë, Albania"

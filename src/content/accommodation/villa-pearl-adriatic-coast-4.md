@@ -1,7 +1,7 @@
 ---
 title: "Villa Pearl Adriatic Coast 4"
 description: "Villa Pearl Adriatic Coast 4 emerges as a prime choice for travelers seeking a serene getaway, just a stone's throw away from the pristine Qerret Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486602924.jpg?k=d6dbe34b7661a6440779e17f1bed703d409488636f00a44ae812ec6885e67b59&o=&hp=1"
+featuredImage: "/images/accommodation/villa-pearl-adriatic-coast-4-486602924.jpg"
 language: en
 slug: villa-pearl-adriatic-coast-4
 address: "Rruga e Fshatrave Turistike 3, Golem, Albania"

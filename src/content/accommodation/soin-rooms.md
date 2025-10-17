@@ -1,7 +1,7 @@
 ---
 title: "Soin Rooms"
 description: "Soin Rooms emerges as a modern gem in the heart of Tirana, boasting a fresh renovation that positions it as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469406523.jpg?k=26282c12dde51e13bf4ba33e12d542fae31c4f9fc57bfb7f69e53b73fd2731d3&o=&hp=1"
+featuredImage: "/images/accommodation/soin-rooms-469406523.jpg"
 language: en
 slug: soin-rooms
 address: "Rruga Sami Frashëri, 1019 Tirana, Albania"

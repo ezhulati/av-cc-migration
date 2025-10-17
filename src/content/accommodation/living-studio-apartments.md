@@ -1,7 +1,7 @@
 ---
 title: "Living Studio Apartments"
 description: "Living Studio Apartments emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328333235.jpg?k=91b4b697554864007f6297cdf75da740366e8ca03a86ff93570705458a61d359&o=&hp=1"
+featuredImage: "/images/accommodation/living-studio-apartments-328333235.jpg"
 language: en
 slug: living-studio-apartments
 address: "Rruga Sami Frashëri Blloku Area, 3rd Floor in a 3 Story ex-Italian Villa, Tirana, 1001 Tirana, Albania"

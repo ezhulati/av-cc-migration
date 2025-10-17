@@ -1,7 +1,7 @@
 ---
 title: "Kristina Apartament"
 description: "Kristina Apartament, located in the vibrant heart of Sarandë, Vlorë County, offers guests a serene retreat with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478697203.jpg?k=e33c44f063c13e43cffc76cd6328aba90182334529fd9b8cdfcddb9f1d6e37a7&o=&hp=1"
+featuredImage: "/images/accommodation/kristina-apartament-478697203.jpg"
 language: en
 slug: kristina-apartament
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

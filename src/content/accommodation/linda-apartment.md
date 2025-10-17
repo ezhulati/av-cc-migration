@@ -1,7 +1,7 @@
 ---
 title: "Linda Apartment"
 description: "Linda Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, boasting a prime location just a stone's throw away from the serene Ri Beach and a short drive from the picturesque Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469107943.jpg?k=761251ed6889a3470e344e8f1712757fec5fd010cd2cb6f07c4c884af2eeb78e&o=&hp=1"
+featuredImage: "/images/accommodation/linda-apartment-469107943.jpg"
 language: en
 slug: linda-apartment
 address: "Rruga Murat Tërbaçi 5, 9401 Vlorë, Albania"

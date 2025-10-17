@@ -1,7 +1,7 @@
 ---
 title: "Bed & Breakfast Mina"
 description: "Bed & Breakfast Mina emerges as a charming retreat for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479632895.jpg?k=cb490f3284fdebf4d7bd8a7ba7f3cd41e06089fcdd596f19835484029264ab34&o=&hp=1"
+featuredImage: "/images/accommodation/bed-breakfast-mina-479632895.jpg"
 language: en
 slug: bed-breakfast-mina
 address: "Rruga Medar Shtylla Apartament 12, Tirana, Albania"

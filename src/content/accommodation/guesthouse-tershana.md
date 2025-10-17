@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Tershana"
 description: "Guesthouse Tershana emerges as a serene haven for travelers seeking a blend of comfort and convenience, located in the picturesque town of Peshkopi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295548377.jpg?k=7d02dfbfbb85c4ed432f3702d7d0567d65942296346174f4af58019a4adbcb58&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-tershana-295548377.jpg"
 language: en
 slug: guesthouse-tershana
 address: "Rr. Rahim Gjika Bujtina Tershana, Peshkopi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Royal House"
 description: "Royal House emerges as a serene oasis in Elbasan, strategically positioned within a comfortable distance from notable landmarks such as the Dajti Ekspres Cable Car and the Former Residence of Enver Hoxha."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491098650.jpg?k=848445275fbe0ecb459eeb91d1596ab31ffe261c0adf0e9b44ad5ff967ac3e6b&o=&hp=1"
+featuredImage: "/images/accommodation/royal-house-491098650.jpg"
 language: en
 slug: royal-house
 address: "Rruga Hamit Mullisi, Elbasan, Albania"

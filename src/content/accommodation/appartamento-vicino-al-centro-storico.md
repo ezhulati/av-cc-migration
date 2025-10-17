@@ -1,7 +1,7 @@
 ---
 title: "Appartamento vicino al centro storico"
 description: "Appartamento vicino al centro storico emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497215151.jpg?k=1749b2069765c70466d7d891095ca92ede3d3c41c7fef7f10b48109216844502&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-vicino-al-centro-storico-497215151.jpg"
 language: en
 slug: appartamento-vicino-al-centro-storico
 address: "Rruga Zef Jubani, 4001 Shkodër, Albania"

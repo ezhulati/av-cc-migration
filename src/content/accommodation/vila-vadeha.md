@@ -1,7 +1,7 @@
 ---
 title: "Vila Vadeha"
 description: "Vila Vadeha emerges as a serene oasis in Pogradec, offering guests a unique blend of comfort and convenience amidst the scenic beauty of the region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466064576.jpg?k=a67f17a139cd6d0b2613317b834b7418f6270a097e2218323b598aac0e1b8803&o=&hp=1"
+featuredImage: "/images/accommodation/vila-vadeha-466064576.jpg"
 language: en
 slug: vila-vadeha
 address: "10 Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

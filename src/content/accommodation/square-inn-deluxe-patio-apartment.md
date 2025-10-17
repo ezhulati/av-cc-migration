@@ -1,7 +1,7 @@
 ---
 title: "Square INN Deluxe Patio Apartment"
 description: "Square INN Deluxe Patio Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432679692.jpg?k=d716677170b15a39479c55ac7caddb7e3ffecfe11fffe3dd4bdd4edc2c8726c9&o=&hp=1"
+featuredImage: "/images/accommodation/square-inn-deluxe-patio-apartment-432679692.jpg"
 language: en
 slug: square-inn-deluxe-patio-apartment
 address: "Rruga Frosina Plaku, 1001 Tirana, Albania"

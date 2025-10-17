@@ -1,7 +1,7 @@
 ---
 title: "Lovely 1-bedroom Apartment in Sarandë"
 description: "Discover the charm of Sarandë with a stay at the Lovely 1-bedroom Apartment, a serene retreat located conveniently between the bustling Saranda City Beach and the tranquil Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/lovely-1-bedroom-apartment-in-sarand-2c7be68fb3f9.jpg"
 language: en
 slug: lovely-1-bedroom-apartment-in-sarand
 address: "Rruga Adem Sheme, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ayden 2"
 description: "Ayden 2 emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, positioned just 200 meters from the pristine Vlore Beach and a short distance from the vibrant Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460037662.jpg?k=643075c7cc1bc5920ec21e54bc80d44e2e87096b98bb3badf64e53ab7703a44d&o=&hp=1"
+featuredImage: "/images/accommodation/ayden-2-460037662.jpg"
 language: en
 slug: ayden-2
 address: "Rruga Shaban Demiraj, Vlorë, Albania"

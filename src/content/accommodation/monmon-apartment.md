@@ -1,7 +1,7 @@
 ---
 title: "MonMon Apartment"
 description: "MonMon Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445030.jpg?k=bc5856d4bdfe419b1586519bafcf99a5a376148fc2316c3321779b6e6a971cce&o=&hp=1"
+featuredImage: "/images/accommodation/monmon-apartment-495445030.jpg"
 language: en
 slug: monmon-apartment
 address: "Rruga e Dibrës, 1007 Tirana, Albania"

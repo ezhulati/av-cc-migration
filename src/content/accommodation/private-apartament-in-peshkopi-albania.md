@@ -1,7 +1,7 @@
 ---
 title: "Private Apartament in Peshkopi, Albania"
 description: "Discover the charm of Peshkopi with a stay at the Private Apartment, a serene retreat situated a mere 45 km from the historic Saint Jovan Bigorski Monastery."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506201857.jpg?k=c96cb5d0e03000eaee05a611ec1de6ca6099a64c456c6bfce8d908425fb3f3bd&o=&hp=1"
+featuredImage: "/images/accommodation/private-apartament-in-peshkopi-albania-506201857.jpg"
 language: en
 slug: private-apartament-in-peshkopi-albania
 address: "Rruga Aksioni Godina, 14/230 Hyrja 1, Apartamenti 30, Peshkopi, Albania"

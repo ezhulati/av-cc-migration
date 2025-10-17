@@ -1,7 +1,7 @@
 ---
 title: "Melesin Distillery"
 description: "Melesin Distillery emerges as a distinguished 4-star hotel, offering a unique blend of comfort and convenience in the heart of Leskovik."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430327178.jpg?k=1c9bb24b9e14824666ecefe69bbd2d0e0997d9b5bb464699a6691dcc8af4872d&o=&hp=1"
+featuredImage: "/images/accommodation/melesin-distillery-430327178.jpg"
 language: en
 slug: melesin-distillery
 address: "Rruga Faik Konica Ndertesa nr.5, 7402 Leskovik, Albania"

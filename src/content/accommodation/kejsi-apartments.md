@@ -1,7 +1,7 @@
 ---
 title: "Kejsi Apartments"
 description: "Kejsi Apartments emerges as a prime choice for travelers seeking a blend of modern comfort and strategic location in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471356919.jpg?k=ae0df4594ae0409d4a7608d92827e6005ca71ffd4a7579e5918af5a37bf6d4cd&o=&hp=1"
+featuredImage: "/images/accommodation/kejsi-apartments-471356919.jpg"
 language: en
 slug: kejsi-apartments
 address: "Rruga Gramoz Pashko, 1010 Tirana, Albania"

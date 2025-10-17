@@ -1,7 +1,7 @@
 ---
 title: "Juri's Apartment"
 description: "Juri's Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience in a vibrant location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443491156.jpg?k=85601be04ee8deebaee4dcc1aad26f9c3b061149f47fc15e7dcaa1a7e8beb8ae&o=&hp=1"
+featuredImage: "/images/accommodation/juri-s-apartment-443491156.jpg"
 language: en
 slug: juri-s-apartment
 address: "Rruga 17 Shkurti 2, 7001 Sarandë, Albania"

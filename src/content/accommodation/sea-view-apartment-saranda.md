@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment Saranda"
 description: "Sea View Apartment Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362122020.jpg?k=42c3363a6bbfc4cd4495b048273f1e6e0f0df35b3729d800aced58d2ef475a21&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartment-saranda-362122020.jpg"
 language: en
 slug: sea-view-apartment-saranda
 address: "Rruga e Flamurit Sarande, 9701 Sarandë, Albania"

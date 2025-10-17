@@ -1,7 +1,7 @@
 ---
 title: "Nuçi's Place, entire apt with balcony near Blloku"
 description: "Nuçi's Place emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498504955.jpg?k=7b7e1eabd76139fc268e8a68b9a14be25df7f66d6767b1e14beeba37cb5623c9&o=&hp=1"
+featuredImage: "/images/accommodation/nu-i-s-place-entire-apt-with-balcony-near-blloku-498504955.jpg"
 language: en
 slug: nu-i-s-place-entire-apt-with-balcony-near-blloku
 address: "7 Rruga Jusuf Vrioni, 1001 Tirana, Albania"

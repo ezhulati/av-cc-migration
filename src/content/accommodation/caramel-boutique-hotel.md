@@ -1,7 +1,7 @@
 ---
 title: "Caramel Boutique Hotel"
 description: "Discover the charm of Gjirokastër with a stay at the Caramel Boutique Hotel, a gem located just 44 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470516310.jpg?k=7780f83cb8a78cda02a246a7cc47f34e3f3a10992ece4aca43b773101fc1e1a6&o=&hp=1"
+featuredImage: "/images/accommodation/caramel-boutique-hotel-470516310.jpg"
 language: en
 slug: caramel-boutique-hotel
 address: "Bulevardi 18 Shtatori, 6001 Gjirokastër, Albania"

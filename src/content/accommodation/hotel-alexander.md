@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alexander"
 description: "Hotel Alexander stands out as a prime choice for travelers seeking comfort and convenience in Ksamil, just a stone's throw away from the pristine beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307586794.jpg?k=5c49ac50232706e7bc4352f41ac1e9f9689b81abcdf7976e322292f5eb151946&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-alexander-307586794.jpg"
 language: en
 slug: hotel-alexander
 address: "Road Hasan Tahsini, 9706 Ksamil, Albania"

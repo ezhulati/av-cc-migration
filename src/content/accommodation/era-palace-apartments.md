@@ -1,7 +1,7 @@
 ---
 title: "Era Palace Apartments"
 description: "Era Palace Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated a mere 90 meters from the pristine shores of Baro Beach in Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
+featuredImage: "/images/accommodation/era-palace-apartments-866dca38dcc3.jpg"
 language: en
 slug: era-palace-apartments
 address: "National Road SH8, Vlore - Orikum, km 13, 9426 Vlorë, Albania"

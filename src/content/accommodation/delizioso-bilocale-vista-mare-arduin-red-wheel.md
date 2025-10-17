@@ -1,7 +1,7 @@
 ---
 title: "Delizioso bilocale vista mare Arduin Red Wheel"
 description: "Delizioso Bilocale Vista Mare Arduin Red Wheel emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465619180.jpg?k=9e7b5ace306f6a9d8cea90ae8ce0155d92e190f258df0065c4eb4b9b92144523&o=&hp=1"
+featuredImage: "/images/accommodation/delizioso-bilocale-vista-mare-arduin-red-wheel-465619180.jpg"
 language: en
 slug: delizioso-bilocale-vista-mare-arduin-red-wheel
 address: "Rruga Rrota e Kuqe, 2020 Durrës, Albania"

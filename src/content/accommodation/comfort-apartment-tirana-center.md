@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartment Tirana Center"
 description: "Discover the epitome of convenience and comfort at Comfort Apartment Tirana Center, a prime choice for travelers seeking a blend of city exploration and homely comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462252905.jpg?k=822045cd31f157a92ba1f8404ec9f5c6e5398ed62ae5fdd4568e020dd9dfe2a8&o=&hp=1"
+featuredImage: "/images/accommodation/comfort-apartment-tirana-center-462252905.jpg"
 language: en
 slug: comfort-apartment-tirana-center
 address: "Rruga e Barrikadave, Tirana, Albania"

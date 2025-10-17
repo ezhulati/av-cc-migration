@@ -1,7 +1,7 @@
 ---
 title: "Hotel de Ksamil"
 description: "Hotel de Ksamil emerges as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458906552.jpg?k=c753681038c6aa7acb4483a4c9541263ce687a57d920a17a123de84a55564faf&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-de-ksamil-458906552.jpg"
 language: en
 slug: hotel-de-ksamil
 address: "Rruga Naim Frashëri, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bega Guesthouse"
 description: "Bega Guesthouse emerges as a gem in Ksamil, boasting a prime location merely 700 meters from the pristine shores of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475057843.jpg?k=c5f54129ce69878f1774e4668ef4e889c87af7e58583786f9010b156f0141b6f&o=&hp=1"
+featuredImage: "/images/accommodation/bega-guesthouse-475057843.jpg"
 language: en
 slug: bega-guesthouse
 address: "Rruga Ali Pashe Tepelena, 9706 Ksamil, Albania"

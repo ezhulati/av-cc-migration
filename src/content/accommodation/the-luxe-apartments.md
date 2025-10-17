@@ -1,7 +1,7 @@
 ---
 title: "The Luxe Apartments"
 description: "The Luxe Apartments stand out as a premier choice for travelers seeking comfort and convenience, coupled with breathtaking city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440428743.jpg?k=9d8f2267f62120342a588814e2e34e531689c96b94ea87a93092259156ca871f&o=&hp=1"
+featuredImage: "/images/accommodation/the-luxe-apartments-440428743.jpg"
 language: en
 slug: the-luxe-apartments
 address: "Bulevardi 18 Shtatori, 6001 Gjirokastër, Albania"

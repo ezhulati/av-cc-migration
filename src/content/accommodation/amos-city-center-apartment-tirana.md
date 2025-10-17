@@ -1,7 +1,7 @@
 ---
 title: "Amos City Center Apartment Tirana"
 description: "Amos City Center Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505048979.jpg?k=3e842a10c2eef2324495af1b166aa2afab1c04cd7ae22c71e90a14a58c777e69&o=&hp=1"
+featuredImage: "/images/accommodation/amos-city-center-apartment-tirana-505048979.jpg"
 language: en
 slug: amos-city-center-apartment-tirana
 address: "Rruga Fadil Rada, 1001 Tirana, Albania"

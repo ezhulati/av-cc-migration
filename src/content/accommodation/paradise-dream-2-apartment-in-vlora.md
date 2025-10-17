@@ -1,7 +1,7 @@
 ---
 title: "Paradise Dream 2 Apartment in Vlora"
 description: "Paradise Dream 2 Apartment in Vlora stands out as a recently updated haven for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490233743.jpg?k=9ffa7e6c827bdac15e9608ae851e93d366704ebbf63a58fcefbeacab9ab408c9&o=&hp=1"
+featuredImage: "/images/accommodation/paradise-dream-2-apartment-in-vlora-490233743.jpg"
 language: en
 slug: paradise-dream-2-apartment-in-vlora
 address: "Rr. Sazani, Vlorë, Albania"

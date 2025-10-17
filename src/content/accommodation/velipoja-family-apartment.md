@@ -1,7 +1,7 @@
 ---
 title: "Velipoja Family Apartment"
 description: "Velipoja Family Apartment emerges as a serene retreat in Velipojë, merely a stone's throw away from the pristine Velipoja Beach and within a comfortable distance from the historic Rozafa Castle Shkodra and the tranquil Lake Skadar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423196544.jpg?k=ff513d48c5a51ebb28e98e96795c14a133cd2b5174e49175ee7e44185a8528a8&o=&hp=1"
+featuredImage: "/images/accommodation/velipoja-family-apartment-423196544.jpg"
 language: en
 slug: velipoja-family-apartment
 address: "Rruga Shkodër - Velipojë, 1010 Velipojë, Albania"

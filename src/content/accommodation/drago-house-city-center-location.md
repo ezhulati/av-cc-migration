@@ -1,7 +1,7 @@
 ---
 title: "Drago House, City Center location"
 description: "Drago House stands as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376446060.jpg?k=adb7db4edc8758226fc1abd970e44a0bac06bebf5687d72f8879723501bcb492&o=&hp=1"
+featuredImage: "/images/accommodation/drago-house-city-center-location-376446060.jpg"
 language: en
 slug: drago-house-city-center-location
 address: "4001 Bulevardi Zogu I 3rd Floor, 4001 Shkodër, Albania"

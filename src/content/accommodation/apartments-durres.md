@@ -1,7 +1,7 @@
 ---
 title: "Apartments Durres"
 description: "Apartments Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated a mere 400 meters from the inviting shores of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471911418.jpg?k=4e0a16ebd1e42575d3d52ba93e552eed3148bca88ae70746f3d8dc5ed2a4b0c3&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-durres-471911418.jpg"
 language: en
 slug: apartments-durres
 address: "Rruga Vegimi, 2001 Durrës, Albania"

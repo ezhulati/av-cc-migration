@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Vlore"
 description: "Lungomare Vlore stands as a prime beachfront destination in Vlorë, a mere stone's throw away from the pristine Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499145814.jpg?k=4c50f32711e8e5357a806445aa84df3e7f6617d9c039d570aab2aac90a00edd8&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-vlore-499145814.jpg"
 language: en
 slug: lungomare-vlore
 address: "Rruga Uji i Ftohte, Te luani, 9401 Vlorë, Albania"

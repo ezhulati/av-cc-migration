@@ -1,7 +1,7 @@
 ---
 title: "Grace"
 description: "Grace emerges as a standout choice for travelers seeking a serene seafront experience in Vlorë, just a stone's throw away from the pristine Vjetër Beach and a short drive from the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457008397.jpg?k=ec5f7f73a344ae430504bfe2cc4cb08607fa1936b337cf5daf1b89f6b4ad7a4b&o=&hp=1"
+featuredImage: "/images/accommodation/grace-457008397.jpg"
 language: en
 slug: grace
 address: "Lagja 1 Maji, rruga sazani, Prane Pyllit te Sodes, 9401 Vlorë, Albania"

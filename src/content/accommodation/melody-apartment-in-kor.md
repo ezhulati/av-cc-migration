@@ -1,7 +1,7 @@
 ---
 title: "Melody Apartment in Korçë"
 description: "Melody Apartment in Korçë emerges as a serene retreat, strategically positioned just a stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520877587.jpg?k=5f79663231c6a3613347abb0bca54d2ddbca71056ed3df9fb04607d5e23a2fd6&o=&hp=1"
+featuredImage: "/images/accommodation/melody-apartment-in-kor-520877587.jpg"
 language: en
 slug: melody-apartment-in-kor
 address: "Rruga Midhi Kostani fourth floor, 7001 Korçë, Albania"

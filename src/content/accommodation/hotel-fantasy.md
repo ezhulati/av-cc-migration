@@ -1,7 +1,7 @@
 ---
 title: "Hotel Fantasy"
 description: "Hotel Fantasy emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253621946.jpg?k=4c1c549c1e149866880c508c65dd0e495f5dfc4fe4f98cb1e14d9859c56e6574&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-fantasy-253621946.jpg"
 language: en
 slug: hotel-fantasy
 address: "Rruga e Zejtarve, 6001 Gjirokastër, Albania"

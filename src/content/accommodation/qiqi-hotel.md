@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Hotel"
 description: "Qiqi Hotel emerges as a charming retreat in the historic heart of Gjirokastër, a mere 43 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147231884.jpg?k=c0bf0a54143deef960f4df9babce2eaff5bd5a2fb96ba3f586ca762bf7d3fe7e&o=&hp=1"
+featuredImage: "/images/accommodation/qiqi-hotel-147231884.jpg"
 language: en
 slug: qiqi-hotel
 address: "Lagjja Puntore Gjirokaster, 6000 Gjirokastër, Albania"

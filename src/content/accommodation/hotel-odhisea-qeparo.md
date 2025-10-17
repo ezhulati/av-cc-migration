@@ -1,7 +1,7 @@
 ---
 title: "Hotel Odhisea Qeparo"
 description: "Hotel Odhisea Qeparo emerges as a charming retreat in the heart of Qeparo, offering a blend of comfort and convenience with its well-appointed amenities and services."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279969984.jpg?k=c0317b4447b909ed6b123a649a1e548147ee57f8d2e031b1759e921f4e00190d&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-odhisea-qeparo-279969984.jpg"
 language: en
 slug: hotel-odhisea-qeparo
 address: "Rruga Nacionale Vlore-Sarande, 1234 Qeparo, Albania"

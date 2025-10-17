@@ -1,7 +1,7 @@
 ---
 title: "Olive Apartment Tirana"
 description: "Olive Apartment Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442124486.jpg?k=75a805d9a807c84c3b1219c836b8ec9163e95621d6976dd4c05400dd3b392960&o=&hp=1"
+featuredImage: "/images/accommodation/olive-apartment-tirana-442124486.jpg"
 language: en
 slug: olive-apartment-tirana
 address: "48 Rruga Nikolla Lena, 1001 Tirana, Albania"

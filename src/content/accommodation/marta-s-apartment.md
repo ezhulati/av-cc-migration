@@ -1,7 +1,7 @@
 ---
 title: "Marta’s apartment"
 description: "Marta's Apartment emerges as a freshly renovated gem in the heart of Tirana, boasting proximity to historical landmarks such as the Former Residence of Enver Hoxha, Tanners' Bridge, and Saint Paul Cathedral."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407213726.jpg?k=4db96dc53eab9609ef2f67b88f341134b665ca7a1409b22179064f39a60dd1fa&o=&hp=1"
+featuredImage: "/images/accommodation/marta-s-apartment-407213726.jpg"
 language: en
 slug: marta-s-apartment
 address: "Rr. Fadil Rada, pallati 11 shkalla1 5th foor, 1001 Tirana, Albania"

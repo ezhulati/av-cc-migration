@@ -1,7 +1,7 @@
 ---
 title: "Jons Apartment"
 description: "Jons Apartment stands as a charming retreat in the heart of Gjirokastër, offering breathtaking mountain views and a serene atmosphere just 45 km away from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463293746.jpg?k=069f2430b08d055cc2b53c4aa30096462673a95e50b1caa85ab294e0a239e561&o=&hp=1"
+featuredImage: "/images/accommodation/jons-apartment-463293746.jpg"
 language: en
 slug: jons-apartment
 address: "Rruga Hysen Hoxha Rruga Hysen Hoxha 10-11 Gjirokaster, 6002 Gjirokastër, Albania"

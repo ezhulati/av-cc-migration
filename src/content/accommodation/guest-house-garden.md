@@ -1,7 +1,7 @@
 ---
 title: "Guest House Garden"
 description: "Guest House Garden, situated a mere 44 km from the serene Zaravina Lake in Gjirokastër, emerges as a charming retreat for travelers seeking both city and garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263777134.jpg?k=b1774fd0e9058a708cd7879db93ff05d5cc4983eb1d4bf760bd52b883a2d7da7&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-garden-263777134.jpg"
 language: en
 slug: guest-house-garden
 address: "Alqi Kondi, Nr. 912, Gjirokastra , Gjirokastër, Albania"

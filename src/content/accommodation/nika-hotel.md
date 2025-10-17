@@ -1,7 +1,7 @@
 ---
 title: "Nika Hotel"
 description: "Nika Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289234370.jpg?k=45eaed44b2636c2a13b38b2363b1949f4d90c793c5d2e3556594bb0e8def0a4c&o=&hp=1"
+featuredImage: "/images/accommodation/nika-hotel-289234370.jpg"
 language: en
 slug: nika-hotel
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Vasili"
 description: "Bujtina Vasili stands out as a serene retreat in Korçë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516054331.jpg?k=f1139e5cd5a9a235a77101494b21cf8ff37afb6b0d2854a6170efe9f1ca0eaf1&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-vasili-516054331.jpg"
 language: en
 slug: bujtina-vasili
 address: "Rruga Thanas Mertiri, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tiny Rose Studio"
 description: "Tiny Rose Studio emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500234707.jpg?k=84d26e9d0de6f6e1faa8fbf202709ae9c30b27d909e76cf16e3ac6f0a453e486&o=&hp=1"
+featuredImage: "/images/accommodation/tiny-rose-studio-500234707.jpg"
 language: en
 slug: tiny-rose-studio
 address: "Rruga Mihal Grameno, 1057 Tirana, Albania"

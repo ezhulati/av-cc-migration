@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Lindita"
 description: "Sunrise Lindita emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Pukë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
+featuredImage: "/images/accommodation/sunrise-lindita-866dca38dcc3.jpg"
 language: en
 slug: sunrise-lindita
 address: "Rruga Ymer Puka, 4401 Pukë, Albania"

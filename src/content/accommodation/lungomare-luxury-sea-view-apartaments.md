@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Luxury Sea View Apartaments"
 description: "Lungomare Luxury Sea View Apartments emerges as a premier choice for travelers seeking an exceptional beachfront experience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403848787.jpg?k=080a4df78485e51d315ceb5cdcdcf52062da804724476d2ad75541b7ba76b920&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-luxury-sea-view-apartaments-403848787.jpg"
 language: en
 slug: lungomare-luxury-sea-view-apartaments
 address: "Vlore, lungomare, 9400 Vlorë, Albania"

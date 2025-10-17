@@ -1,7 +1,7 @@
 ---
 title: "Panoramic View House"
 description: "Panoramic View House, located in the serene Tepelenë area of Gjirokastër County, offers a unique retreat with breathtaking mountain and river views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496072123.jpg?k=9b569c6db53a8d5b4fb51e8756d171da063755303a1612c0bee1dfabac2cd655&o=&hp=1"
+featuredImage: "/images/accommodation/panoramic-view-house-496072123.jpg"
 language: en
 slug: panoramic-view-house
 address: "Rruga Tepelenë - Gjirokastër - Janinë, 6004 Tepelenë, Albania"

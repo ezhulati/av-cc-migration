@@ -1,7 +1,7 @@
 ---
 title: "Gjergjana House"
 description: "Gjergjana House, a charming holiday home in Berat, offers a unique blend of historical elegance and modern convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492964360.jpg?k=520a60a75bc66e1ebe5d84290984c2cc33ee273ab78e37d1b84b73c7e907105a&o=&hp=1"
+featuredImage: "/images/accommodation/gjergjana-house-492964360.jpg"
 language: en
 slug: gjergjana-house
 address: "Rruga Rilindja, 5003 Berat, Albania"

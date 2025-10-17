@@ -1,7 +1,7 @@
 ---
 title: "Delight Beach Hotel"
 description: "Delight Beach Hotel emerges as a serene oasis in Dhërmi, just a stone's throw away from the pristine Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145128511.jpg?k=5a64f0e18128559c630538d2b5b25c3749cc7b8d9eb612ba5d20969ef3129ef7&o=&hp=1"
+featuredImage: "/images/accommodation/delight-beach-hotel-145128511.jpg"
 language: en
 slug: delight-beach-hotel
 address: "Plazhi Drimadhes, 9422 Dhërmi, Albania"

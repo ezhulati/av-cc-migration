@@ -1,7 +1,7 @@
 ---
 title: "Guest's Apartament"
 description: "Guest's Apartment emerges as a serene retreat offering breathtaking lake views and a promise of privacy with its unique private entrance."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412464012.jpg?k=466eecd66cdfd1cc4994a18c71a55969427e90292f8bf58f22a7bef47105204e&o=&hp=1"
+featuredImage: "/images/accommodation/guest-s-apartament-412464012.jpg"
 language: en
 slug: guest-s-apartament
 address: "Rruga Gani Butka, Pogradec, Albania"

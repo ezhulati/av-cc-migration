@@ -1,7 +1,7 @@
 ---
 title: "Seaside Apartmens Sarande"
 description: "Seaside Apartments Sarande emerges as a prime choice for travelers seeking comfort and convenience a mere stone's throw from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411728310.jpg?k=8660855e368d7fdd313da85a64f1628fa708225740542ae3e3402313d7838c32&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-apartmens-sarande-411728310.jpg"
 language: en
 slug: seaside-apartmens-sarande
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

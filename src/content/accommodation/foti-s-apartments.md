@@ -1,7 +1,7 @@
 ---
 title: "Foti's Apartments"
 description: "Foti's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509002404.jpg?k=9b1d6f279dd39ff44c9d04a6c5f2b8b9c73aa69c4928b303812b67f727a7003d&o=&hp=1"
+featuredImage: "/images/accommodation/foti-s-apartments-509002404.jpg"
 language: en
 slug: foti-s-apartments
 address: "Rruga e Durrësit, 1002 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely appartament 1-3"
 description: "Lovely Apartment 1-3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445485161.jpg?k=5150b2c1d2fd8a42604a079941cfa5e445fb656c7e87960da4717d6386f305d2&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-appartament-1-3-445485161.jpg"
 language: en
 slug: lovely-appartament-1-3
 address: "Rruga Gjon Mili, 1017 Tirana, Albania"

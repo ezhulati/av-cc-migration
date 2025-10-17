@@ -1,7 +1,7 @@
 ---
 title: "Benjy’s Villa(B&B)"
 description: "Benjy's Villa (B&B) emerges as a serene retreat in Shëngjin, boasting a prime location close to the pristine Shëngjin Beach and within a scenic drive from the historic Rozafa Castle Shkodra, 44 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339477462.jpg?k=b565adf2c802e9768b5fc791e319f93d500dbb495e2f284296ab2caad7d3b8a0&o=&hp=1"
+featuredImage: "/images/accommodation/benjy-s-villa-b-b-339477462.jpg"
 language: en
 slug: benjy-s-villa-b-b
 address: "Rruga Shkreli Shengjin, Shëngjin, Albania"

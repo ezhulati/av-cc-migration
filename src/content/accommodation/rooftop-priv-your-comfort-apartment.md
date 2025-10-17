@@ -1,7 +1,7 @@
 ---
 title: "Rooftop privé - your comfort apartment"
 description: "Rooftop Privé stands out as a premier accommodation choice in Korçë, offering guests an unparalleled blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384372168.jpg?k=0d2b124ff60ffce56faab234fdb020827ccd57e5e92d3bc213b20b3d76473352&o=&hp=1"
+featuredImage: "/images/accommodation/rooftop-priv-your-comfort-apartment-384372168.jpg"
 language: en
 slug: rooftop-priv-your-comfort-apartment
 address: "Rruga Viktimat e 7 Shkurtit, 7001 Korçë, Albania"

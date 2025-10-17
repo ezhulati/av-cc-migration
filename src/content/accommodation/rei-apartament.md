@@ -1,7 +1,7 @@
 ---
 title: "Rei Apartament"
 description: "Rei Apartament stands out as a prime choice for travelers seeking a blend of comfort and convenience, coupled with breathtaking sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478236850.jpg?k=7cc63cde3591e3eb739ffa0d1245e48c4684333a11ff825231520aa9bda21db3&o=&hp=1"
+featuredImage: "/images/accommodation/rei-apartament-478236850.jpg"
 language: en
 slug: rei-apartament
 address: "Street Abedin Dino Floor 7, 9701 Sarandë, Albania"

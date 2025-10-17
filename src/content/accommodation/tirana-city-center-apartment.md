@@ -1,7 +1,7 @@
 ---
 title: "Tirana City Center Apartment"
 description: "Tirana City Center Apartment emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386311790.jpg?k=55622fbdca5612d8d667027f1d90bc665dfa068ef815ca7a75b3fdd3d837440d&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-city-center-apartment-386311790.jpg"
 language: en
 slug: tirana-city-center-apartment
 address: "Rruga Sulejman Pasha, 1001 Tirana, Albania"

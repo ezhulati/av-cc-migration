@@ -1,7 +1,7 @@
 ---
 title: "Vila Zeqo Muka"
 description: "Vila Zeqo Muka emerges as a serene retreat in the heart of Ksamil, offering guests a unique blend of comfort and convenience with its prime location just 700 meters from the pristine sands of Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473433472.jpg?k=ca64d40b9d1baa0843f3150b79c5e862f2247e145f43b03a0a8a597a3c09771d&o=&hp=1"
+featuredImage: "/images/accommodation/vila-zeqo-muka-473433472.jpg"
 language: en
 slug: vila-zeqo-muka
 address: "Rruga Sotira Rruga Sotira, 9706 Ksamil, Albania"

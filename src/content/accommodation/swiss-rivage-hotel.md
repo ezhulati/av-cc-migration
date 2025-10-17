@@ -1,7 +1,7 @@
 ---
 title: "Swiss Rivage Hotel"
 description: "Swiss Rivage Hotel stands as a beacon of comfort and convenience in Vlorë, mere steps away from the pristine Radhimë Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/swiss-rivage-hotel-8d80ab6bf73f.jpg"
 language: en
 slug: swiss-rivage-hotel
 address: "Rruga Vlore-Radhime Latitude: 40,366056; Longitude: 19,481687;, 9403 Vlorë, Albania"

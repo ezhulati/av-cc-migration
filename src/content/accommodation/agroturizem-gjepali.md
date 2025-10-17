@@ -1,7 +1,7 @@
 ---
 title: "Agroturizem Gjepali"
 description: "Agroturizem Gjepali emerges as a serene retreat in Shijak, offering a unique blend of comfort and natural beauty just 30 km away from the bustling Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219549882.jpg?k=6fafd8516d7866b9c7fc1432834043630b6ffd56ca183206d1d4e13861446d6b&o=&hp=1"
+featuredImage: "/images/accommodation/agroturizem-gjepali-219549882.jpg"
 language: en
 slug: agroturizem-gjepali
 address: "SH55 Gjepalaj, 2011 Shijak, Albania"

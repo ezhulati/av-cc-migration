@@ -1,7 +1,7 @@
 ---
 title: "Hanna & Solei Hotel"
 description: "Hanna & Solei Hotel emerges as a charming retreat in the heart of Berat, offering a blend of comfort and convenience with its well-appointed amenities and serene garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476644887.jpg?k=795adad82b655173908ea6fe57644df963d5891a7b4b5b93ca48c53506622f06&o=&hp=1"
+featuredImage: "/images/accommodation/hanna-solei-hotel-476644887.jpg"
 language: en
 slug: hanna-solei-hotel
 address: "SMT QW2M+XW4, 5020 Milonjë, Lapardha, Berat, 5020 Berat, Albania"

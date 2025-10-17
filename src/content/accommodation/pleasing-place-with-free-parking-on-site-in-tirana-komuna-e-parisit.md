@@ -1,7 +1,7 @@
 ---
 title: "Pleasing Place with free parking on site in Tirana Komuna e Parisit"
 description: "Pleasing Place emerges as a recently updated gem in the heart of Tirana's Komuna e Parisit, offering guests a unique blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446085142.jpg?k=11fdcecb99451fbd27954a45e8035a6742a13c15bbf8cb2e23e454738ea0feba&o=&hp=1"
+featuredImage: "/images/accommodation/pleasing-place-with-free-parking-on-site-in-tirana-komuna-e-parisit-446085142.jpg"
 language: en
 slug: pleasing-place-with-free-parking-on-site-in-tirana-komuna-e-parisit
 address: "Rruga Komuna e Parisit, 1020 Tirana, Albania"

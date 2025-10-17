@@ -1,7 +1,7 @@
 ---
 title: "Apartment City Center"
 description: "Apartment City Center emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510184303.jpg?k=ad69a466f5f29597a69ecbe6d0f55f61ef4db15fbe13774c4fd5050b1eebcf2d&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-city-center-510184303.jpg"
 language: en
 slug: apartment-city-center
 address: "Rruga Jeronim De Rada, 1001 Tirana, Albania"

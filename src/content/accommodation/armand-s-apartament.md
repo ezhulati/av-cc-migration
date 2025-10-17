@@ -1,7 +1,7 @@
 ---
 title: "Armand’s apartament"
 description: "Armand's Apartment emerges as a serene retreat in the heart of Golem, offering a unique blend of comfort and convenience for travelers seeking an escape or an adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501621501.jpg?k=598b1c689e9a9e09de484777bb62915caceace38c8629668949e5fe706bbf281&o=&hp=1"
+featuredImage: "/images/accommodation/armand-s-apartament-501621501.jpg"
 language: en
 slug: armand-s-apartament
 address: "Rruga Skënderbeu, Alb Adriatik, Golem, Albania"

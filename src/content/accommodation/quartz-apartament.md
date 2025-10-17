@@ -1,7 +1,7 @@
 ---
 title: "Quartz Apartament"
 description: "Quartz Apartament emerges as a premier beachfront destination in Durrës, located just 200 meters from the pristine Durres Beach and a scenic 37 km drive from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140801769.jpg?k=b88cb6e0ce1399eb52a5a3fcb357132b76da6ea8109957647c75d87826d0e499&o=&hp=1"
+featuredImage: "/images/accommodation/quartz-apartament-140801769.jpg"
 language: en
 slug: quartz-apartament
 address: "1 Rruga Pavarsia - Apartment 81/40 - 7th floor, 2004 Durrës, Albania"

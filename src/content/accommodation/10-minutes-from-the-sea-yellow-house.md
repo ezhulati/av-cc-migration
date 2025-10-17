@@ -1,7 +1,7 @@
 ---
 title: "10 Minutes from the Sea Yellow House"
 description: "Discover the charm of Durrës at the 10 Minutes from the Sea Yellow House, a splendid villa located a mere 43 km from the Dajti Ekspres Cable Car and just a short drive from the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462402204.jpg?k=77ea8b566bde3ade229ac13e8a322a30b676eec4faf791ee0a6baf12f0580161&o=&hp=1"
+featuredImage: "/images/accommodation/10-minutes-from-the-sea-yellow-house-462402204.jpg"
 language: en
 slug: 10-minutes-from-the-sea-yellow-house
 address: "plazhi san pietro, Durrës, Albania"

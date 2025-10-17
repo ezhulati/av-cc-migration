@@ -1,7 +1,7 @@
 ---
 title: "Vila Dani"
 description: "Vila Dani emerges as a serene oasis in Durrës, located a mere 41 km away from the historic Skanderbeg Square and a short drive from the Dajti Ekspres Cable Car, setting the stage for a memorable retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913398.jpg?k=0529c1fd8a42ae47e6d87bff5d4b170d54c1f985cc81da3df27cb753c214e82d&o=&hp=1"
+featuredImage: "/images/accommodation/vila-dani-477913398.jpg"
 language: en
 slug: vila-dani
 address: "Rruga Gjiri i Lalzit, 2011 Durrës, Albania"

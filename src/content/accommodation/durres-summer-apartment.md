@@ -1,7 +1,7 @@
 ---
 title: "Durres , Summer Apartment"
 description: "Durres Summer Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471053475.jpg?k=a235b4b83b42238f1b1c79d290d2d90df1b9b659a2802c8cd32b83b80a02e71c&o=&hp=1"
+featuredImage: "/images/accommodation/durres-summer-apartment-471053475.jpg"
 language: en
 slug: durres-summer-apartment
 address: "Rruga Pavaresia Floor 8, 2001 Durrës, Albania"

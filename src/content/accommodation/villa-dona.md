@@ -1,7 +1,7 @@
 ---
 title: "Villa Dona"
 description: "Villa Dona stands as a serene retreat in the heart of Berat, offering guests a unique blend of comfort and convenience with its city views and lush garden surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479462642.jpg?k=94ad9803712de770d762a74b823fcc8d19303a19a725a82be4024ffb25e21e5d&o=&hp=1"
+featuredImage: "/images/accommodation/villa-dona-479462642.jpg"
 language: en
 slug: villa-dona
 address: "Rruga Lluka Muco, 5001 Berat, Albania"

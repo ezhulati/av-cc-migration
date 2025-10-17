@@ -1,7 +1,7 @@
 ---
 title: "Apartament me qera ditore"
 description: "Discover the charm of Tirana with a stay at Apartament me qera ditore, a prime accommodation choice that places guests in the heart of the city's vibrant history and culture."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/apartament-me-qera-ditore-d321d61d78a8.jpg"
 language: en
 slug: apartament-me-qera-ditore
 address: "Rruga Selman Riza, 1015 Tirana, Albania"

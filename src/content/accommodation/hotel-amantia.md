@@ -1,7 +1,7 @@
 ---
 title: "Hotel Amantia"
 description: "Hotel Amantia stands as a prime choice for travelers seeking a serene beachfront retreat in Orikum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377792393.jpg?k=b1d02f9b457330a1343a202d5c4f2e07087672df9433f35bac05660015aa2b4c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-amantia-377792393.jpg"
 language: en
 slug: hotel-amantia
 address: "Rruga Pashaliman, 9426 Orikum, Albania"

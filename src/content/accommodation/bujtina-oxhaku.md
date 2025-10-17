@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Oxhaku"
 description: "Bujtina Oxhaku stands out as a distinguished 4-star haven in Korçë, located a mere 44 km from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338492544.jpg?k=2810a544a7d9c9598a34f3877ad085753edf93de00bb6a5f70c7a2a55c01d4bd&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-oxhaku-338492544.jpg"
 language: en
 slug: bujtina-oxhaku
 address: "Rruga Thoma Huaja Lagja Nr. 1, 7000 Korçë, Albania"

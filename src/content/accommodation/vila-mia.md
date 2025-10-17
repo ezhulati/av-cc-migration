@@ -1,7 +1,7 @@
 ---
 title: "Vila Mia"
 description: "Vila Mia emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469052146.jpg?k=a5812612691ec1cfd3d84811e60f4b2594a114ea99e3f4c55c8a02a137fcc591&o=&hp=1"
+featuredImage: "/images/accommodation/vila-mia-469052146.jpg"
 language: en
 slug: vila-mia
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

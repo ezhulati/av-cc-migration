@@ -1,7 +1,7 @@
 ---
 title: "Apart-Hotel Lili2"
 description: "Discover the charm of Sarandë at Apart-Hotel Lili2, a distinguished 4-star haven located just a stone's throw away from the serene Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308018889.jpg?k=9b20d45944526a6d4d63ec07e7968e1af2d886202d758db78241302d558b0b0a&o=&hp=1"
+featuredImage: "/images/accommodation/apart-hotel-lili2-308018889.jpg"
 language: en
 slug: apart-hotel-lili2
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

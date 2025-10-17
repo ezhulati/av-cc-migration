@@ -1,7 +1,7 @@
 ---
 title: "Angolo Toscano Apartment"
 description: "Angolo Toscano Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474025843.jpg?k=930e2b2400c49d6320cb55ac881b0cf3340aaa1ec896a5fbb042cedde75402f9&o=&hp=1"
+featuredImage: "/images/accommodation/angolo-toscano-apartment-474025843.jpg"
 language: en
 slug: angolo-toscano-apartment
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

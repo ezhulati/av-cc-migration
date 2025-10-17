@@ -1,7 +1,7 @@
 ---
 title: "Mollys2apartment"
 description: "Mollys2apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Pogradec, a mere stone's throw from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524033348.jpg?k=5fc65b225fc725fc2cb9e1bffdde6a95022c30958c158d82b579644bf4a5cffa&o=&hp=1"
+featuredImage: "/images/accommodation/mollys2apartment-524033348.jpg"
 language: en
 slug: mollys2apartment
 address: "Rruga Lyhnida Nd 5 H6 Ap30, 7301 Pogradec, Albania"

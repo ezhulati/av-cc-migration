@@ -1,7 +1,7 @@
 ---
 title: "Divina Hostel"
 description: "Divina Hostel emerges as a prime choice for travelers seeking a blend of convenience and comfort in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457083718.jpg?k=c6c0f09e725a93b55ce07e1f6255e447fec2e9b7ea8c50fee347a2c165080d0d&o=&hp=1"
+featuredImage: "/images/accommodation/divina-hostel-457083718.jpg"
 language: en
 slug: divina-hostel
 address: "Rruga Teodor Keko villa 3, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Hotel"
 description: "Vila Hotel emerges as a standout choice for travelers seeking a pet-friendly accommodation option in Baks-Rrjoll."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307376061.jpg?k=ad451544a5ad3c4711b8ace4b7348e7f0e924d56f6c5bcc2079329707b1ea8fe&o=&hp=1"
+featuredImage: "/images/accommodation/vila-hotel-307376061.jpg"
 language: en
 slug: vila-hotel
 address: "Rruga e Rrjollit, 4020 Velipojë, Albania"

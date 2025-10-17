@@ -1,7 +1,7 @@
 ---
 title: "Hotel BAAA 3"
 description: "Hotel BAAA 3 emerges as a serene oasis in the vibrant heart of Sarandë, boasting a prime location that places guests mere steps away from the city's most pristine beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515641937.jpg?k=a7eb5dfba494272e16ccf2ed894a6344bb238bb35e7449458b5a854ec2cffc3a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-baaa-3-515641937.jpg"
 language: en
 slug: hotel-baaa-3
 address: "Rruga Onhezmi, 9701 Sarandë, Albania"

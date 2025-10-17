@@ -1,7 +1,7 @@
 ---
 title: "ART Hotel Tirana"
 description: "ART Hotel Tirana emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185275882.jpg?k=4bc0b50b4612305d8a7aff174f2451ae37a44948f2572d1f548c4a11f0a15725&o=&hp=1"
+featuredImage: "/images/accommodation/art-hotel-tirana-185275882.jpg"
 language: en
 slug: art-hotel-tirana
 address: "Rruga e Kavajës Nr. 96/2, 1001 Tirana, Albania"

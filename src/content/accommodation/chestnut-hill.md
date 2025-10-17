@@ -1,7 +1,7 @@
 ---
 title: "Chestnut Hill"
 description: "Chestnut Hill emerges as a charming retreat in Bajram Curri, offering guests a harmonious blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505769381.jpg?k=a200fa950c8ad3302320eac00037a340772c74efcd4c9e07871705f8f8dcd74b&o=&hp=1"
+featuredImage: "/images/accommodation/chestnut-hill-505769381.jpg"
 language: en
 slug: chestnut-hill
 address: "Velisht , Bajram Curri Bajram Curri - Markaj - Velisht, 8702 Bajram Curri, Albania"

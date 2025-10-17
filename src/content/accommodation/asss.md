@@ -1,7 +1,7 @@
 ---
 title: "Asss"
 description: "Asss emerges as a serene retreat in the vibrant city of Durrës, perfectly positioned for both tranquility and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474681564.jpg?k=dfa07fdf039e126392426e4e552e278085f2918689b764ca39c3e2263bb9e13f&o=&hp=1"
+featuredImage: "/images/accommodation/asss-474681564.jpg"
 language: en
 slug: asss
 address: "Rruga Toefik Skilja, 2001 Durrës, Albania"

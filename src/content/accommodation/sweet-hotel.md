@@ -1,7 +1,7 @@
 ---
 title: "Sweet Hotel"
 description: "Sweet Hotel emerges as a serene oasis located 11 km from the heart of Tirana's vibrant Skanderbeg Square, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472420468.jpg?k=9fb94c1252a80c2cc085b41cf47100981994c9ba4fe67740bca04e749d37508b&o=&hp=1"
+featuredImage: "/images/accommodation/sweet-hotel-472420468.jpg"
 language: en
 slug: sweet-hotel
 address: "Rruga nacionale kombinat plepa Peze Helmes km 6 nga qendra e Tiranes, 1036 Tirana, Albania"

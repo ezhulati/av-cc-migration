@@ -1,7 +1,7 @@
 ---
 title: "COLI Apartments - 56"
 description: "COLI Apartments - 56 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504268956.jpg?k=4a39b425ba794941c05fd2d788c26950ba23d775dc37b2d20c59ab673cb60462&o=&hp=1"
+featuredImage: "/images/accommodation/coli-apartments-56-504268956.jpg"
 language: en
 slug: coli-apartments-56
 address: "Rruga Hafiz Podgorica, 2001 Durrës, Albania"

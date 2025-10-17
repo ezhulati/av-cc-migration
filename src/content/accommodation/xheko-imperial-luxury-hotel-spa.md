@@ -1,7 +1,7 @@
 ---
 title: "Xheko Imperial Luxury Hotel & SPA"
 description: "Discover the epitome of elegance and modern convenience at Xheko Imperial Luxury Hotel & SPA, a gem in the heart of Tirana, perfectly positioned close to the city's expansive park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130934061.jpg?k=96c14cafb333124087e33e506962ad31142b513d8f53e5e91a59518e8b4c96fd&o=&hp=1"
+featuredImage: "/images/accommodation/xheko-imperial-luxury-hotel-spa-130934061.jpg"
 language: en
 slug: xheko-imperial-luxury-hotel-spa
 address: "Rr Ibrahim Rugova 56H2, 1019 Tirana, Albania"

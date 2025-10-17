@@ -1,7 +1,7 @@
 ---
 title: "Green Coast Palase"
 description: "Green Coast Palase emerges as a serene retreat in Palasë, perfectly positioned between the tranquility of Nazar Beach, just 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475886869.jpg?k=ec90678b985cb4d17764e8ea02ad71776e9c93415199aabcd10d512a8bdc23a0&o=&hp=1"
+featuredImage: "/images/accommodation/green-coast-palase-475886869.jpg"
 language: en
 slug: green-coast-palase
 address: "Rruga Coral, Vila 190, 9425 Palasë, Albania"

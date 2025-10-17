@@ -1,7 +1,7 @@
 ---
 title: "Hotel JoAn"
 description: "Hotel JoAn stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the bustling Port of Sarande and the tranquil azure of the sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258921278.jpg?k=8ab9fa7ec7a0e2335f3258c657e95d9a7856f4450bd001debda6d44bca39272a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-joan-258921278.jpg"
 language: en
 slug: hotel-joan
 address: "Center Square n/n, 9701 Sarandë, Albania"

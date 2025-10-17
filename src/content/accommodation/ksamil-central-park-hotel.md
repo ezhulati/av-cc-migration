@@ -1,7 +1,7 @@
 ---
 title: "Ksamil Central Park Hotel"
 description: "Ksamil Central Park Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil, just a short 400-meter stroll from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290205374.jpg?k=3a8dab386b51e5ae4610e5c12f2befdd38f6bbae3b58d6c021fe27893bafcb23&o=&hp=1"
+featuredImage: "/images/accommodation/ksamil-central-park-hotel-290205374.jpg"
 language: en
 slug: ksamil-central-park-hotel
 address: "Road Baba Sherifi Ksamil 11, 9706 Ksamil, Albania"

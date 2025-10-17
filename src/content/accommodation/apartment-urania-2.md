@@ -1,7 +1,7 @@
 ---
 title: "Apartment Urania_2"
 description: "Apartment Urania_2, located just a stone's throw away from Sarande Main Beach at 90 meters and a leisurely stroll from Saranda City Beach at 1 km, presents an exceptional stay in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/229134018.jpg?k=bc85ce4b7b10a400019c6900d28a69efee9ccf2cc3ed08be70c56173298933f0&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-urania-2-229134018.jpg"
 language: en
 slug: apartment-urania-2
 address: "Rruga Mithat Hoxha, 9701 Sarandë, Albania"

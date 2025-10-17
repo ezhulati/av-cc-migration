@@ -1,7 +1,7 @@
 ---
 title: "FA_HOLIDAYS"
 description: "FA_HOLIDAYS stands as a prime choice for travelers seeking comfortable accommodations in Vlorë, conveniently located within close proximity to both Vlore Beach and Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470317789.jpg?k=3b741f31f879fd743447d3a902fbab227790c248a866c839bce876afdd4d3b3f&o=&hp=1"
+featuredImage: "/images/accommodation/fa-holidays-470317789.jpg"
 language: en
 slug: fa-holidays
 address: "Rruga Shyqyri Ali Merka 27, 9404 Vlorë, Albania"

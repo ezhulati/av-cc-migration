@@ -1,7 +1,7 @@
 ---
 title: "Modern central studio"
 description: "Modern Central Studio emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460049245.jpg?k=265b1b1a285bc1f0385be5843d514516122c161b8531656d9e42411c1b2e4f20&o=&hp=1"
+featuredImage: "/images/accommodation/modern-central-studio-460049245.jpg"
 language: en
 slug: modern-central-studio
 address: "big market Siri Kodra, 1001 Tirana, Albania"

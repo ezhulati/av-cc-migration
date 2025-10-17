@@ -1,7 +1,7 @@
 ---
 title: "Grand Hotel Petrol"
 description: "Grand Hotel Petrol emerges as a distinguished choice for travelers seeking comfort and convenience in Fier, situated 43 km away from the iconic Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196834000.jpg?k=49e059db69870776c8117fcb438a67e5ed22693036f6aad49545621024da2bf7&o=&hp=1"
+featuredImage: "/images/accommodation/grand-hotel-petrol-196834000.jpg"
 language: en
 slug: grand-hotel-petrol
 address: "SH94 Grand Petrol, 9301 Fier, Albania"

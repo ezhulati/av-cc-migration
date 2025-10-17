@@ -1,7 +1,7 @@
 ---
 title: "Bona's Home"
 description: "Bona's Home stands out as a serene retreat in Tushemisht, offering guests a unique blend of comfort and scenic beauty, just a short distance from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226690438.jpg?k=a1b1e7ce05c77fc536a51d76af2446faa5c576225e2fbb1346ff1c4c01d0180a&o=&hp=1"
+featuredImage: "/images/accommodation/bona-s-home-226690438.jpg"
 language: en
 slug: bona-s-home
 address: "Sheshi Ollga, 7301 Tushemisht, Albania"

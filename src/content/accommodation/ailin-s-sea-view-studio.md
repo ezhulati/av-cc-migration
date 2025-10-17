@@ -1,7 +1,7 @@
 ---
 title: "Ailin's sea view studio"
 description: "Ailin's Sea View Studio emerges as a charming retreat in the vibrant heart of Sarandë, boasting an enviable location mere steps away from the pristine shores of Flamingo Beach and the serene Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527129274.jpg?k=fb33bbfdfaed35914db2d4be8378d84ef62072c71ad7a66c1e11018b814ca5db&o=&hp=1"
+featuredImage: "/images/accommodation/ailin-s-sea-view-studio-527129274.jpg"
 language: en
 slug: ailin-s-sea-view-studio
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

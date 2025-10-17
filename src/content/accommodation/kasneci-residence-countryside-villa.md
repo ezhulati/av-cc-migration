@@ -1,7 +1,7 @@
 ---
 title: "\"Kasneci Residence\" Countryside Villa"
 description: "Kasneci Residence Countryside Villa emerges as a serene retreat in the heart of the countryside, a mere 16 km from the bustling Skanderbeg Square in Tirana and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "https://graph.facebook.com/v2.9/100001031513425/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/kasneci-residence-countryside-villa-picture?type.jpg"
 language: en
 slug: kasneci-residence-countryside-villa
 address: "Rruga Kashar, 1001 Tirana, Albania"

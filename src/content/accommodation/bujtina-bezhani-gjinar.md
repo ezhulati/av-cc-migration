@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Bezhani Gjinar"
 description: "Bujtina Bezhani Gjinar in Elbasan stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489256750.jpg?k=68755884966ab56a552ecca9a2deb4d0f045b85c0d8b6cbd059830f066acfb97&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-bezhani-gjinar-489256750.jpg"
 language: en
 slug: bujtina-bezhani-gjinar
 address: "Gjinar, 3014 Elbasan, Albania"

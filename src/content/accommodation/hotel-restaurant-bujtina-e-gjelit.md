@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restaurant Bujtina e Gjelit"
 description: "Discover the charm of Hotel Restaurant Bujtina e Gjelit, a hidden gem located just 3 km from the bustling heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/34321148.jpg?k=c88ee22c5d1d3f48c0f904af9762e428dd0d8518d415c1f48a9ff4a5ee20ca4b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-restaurant-bujtina-e-gjelit-34321148.jpg"
 language: en
 slug: hotel-restaurant-bujtina-e-gjelit
 address: "Rr.Don Bosco 28, 1001 Tirana, Albania"

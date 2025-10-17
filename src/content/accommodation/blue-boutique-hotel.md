@@ -1,7 +1,7 @@
 ---
 title: "Blue Boutique Hotel"
 description: "Blue Boutique Hotel emerges as a distinguished choice for travelers seeking both comfort and convenience, positioned just a short stroll from the pristine shores of Dhërmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377977945.jpg?k=8359aedebe7d6b06ab11329fa896ae1bc576407964a5e9c30c3065463dd00df0&o=&hp=1"
+featuredImage: "/images/accommodation/blue-boutique-hotel-377977945.jpg"
 language: en
 slug: blue-boutique-hotel
 address: "Rruga e Plazhit, lagjia Angra, nr. 30, 9422 Dhërmi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament in Golem"
 description: "Discover the charm of Golem with a stay at Apartament in Golem, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502579842.jpg?k=3111ecf39b46a96fd05433e2bc451bf3dbd7356af8bf13403cced940804994db&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-in-golem-502579842.jpg"
 language: en
 slug: apartament-in-golem
 address: "Bulevardi i Palmave, 2001 Golem, Albania"

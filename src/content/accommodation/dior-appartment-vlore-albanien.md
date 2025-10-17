@@ -1,7 +1,7 @@
 ---
 title: "Dior Appartment Vlore,Albanien"
 description: "Dior Apartment Vlore, Albania, emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450073264.jpg?k=5890403b1e844aa449f9ecf9ecedd6f2ca5b7de476cd1ad7c9d18a488d4abf45&o=&hp=1"
+featuredImage: "/images/accommodation/dior-appartment-vlore-albanien-450073264.jpg"
 language: en
 slug: dior-appartment-vlore-albanien
 address: "Rr. Gjergj Arianiti, 9402 Vlorë, Albania"

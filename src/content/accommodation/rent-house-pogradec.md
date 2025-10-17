@@ -1,7 +1,7 @@
 ---
 title: "Rent House Pogradec"
 description: "Discover the charm of Pogradec with a stay at Rent House Pogradec, a prime accommodation choice offering panoramic city views and a prime location for exploring the region's historical and natural attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480597463.jpg?k=5713654542283b5ffa5a6469701a9f64f6e46d73ee553e28867000a48b3a7445&o=&hp=1"
+featuredImage: "/images/accommodation/rent-house-pogradec-480597463.jpg"
 language: en
 slug: rent-house-pogradec
 address: "2 Rruga Rinia Road, Pogradec, Albania"

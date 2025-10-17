@@ -1,7 +1,7 @@
 ---
 title: "ALEA2 Apartment"
 description: "ALEA2 Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519864408.jpg?k=9956e1a32d38d51f02f6483aa3e40ac8ce116fb87a35cddd62151ef76cac5bd0&o=&hp=1"
+featuredImage: "/images/accommodation/alea2-apartment-519864408.jpg"
 language: en
 slug: alea2-apartment
 address: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"

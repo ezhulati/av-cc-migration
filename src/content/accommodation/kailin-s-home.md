@@ -1,7 +1,7 @@
 ---
 title: "Kailin's home"
 description: "Kailin's Home stands out as a serene retreat in Borsh, merely a stone's throw away from the pristine Borsh Beach and within a scenic drive from the historic Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477722453.jpg?k=15531eaa82ad288ed027c4831d615b836a64ccac13ea0fc05b8280787bd06f4e&o=&hp=1"
+featuredImage: "/images/accommodation/kailin-s-home-477722453.jpg"
 language: en
 slug: kailin-s-home
 address: "Rruga Plazhit, Borsh, Albania"

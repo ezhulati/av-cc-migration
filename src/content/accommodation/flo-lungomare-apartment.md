@@ -1,7 +1,7 @@
 ---
 title: "Flo Lungomare Apartment"
 description: "Flo Lungomare Apartment emerges as a standout choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463699110.jpg?k=c4c605c691c564f8d259974b534344e5322d680778c3dd84d25c975788156e49&o=&hp=1"
+featuredImage: "/images/accommodation/flo-lungomare-apartment-463699110.jpg"
 language: en
 slug: flo-lungomare-apartment
 address: "Rruga Murat Tërbaçi Nd.7, H.19, Ap.16, 9405 Vlorë, Albania"

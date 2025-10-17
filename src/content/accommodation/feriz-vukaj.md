@@ -1,7 +1,7 @@
 ---
 title: "Feriz Vukaj"
 description: "Feriz Vukaj emerges as a prime choice for travelers seeking spacious and air-conditioned accommodations within a stone's throw of Lalëz Bay Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
+featuredImage: "/images/accommodation/feriz-vukaj-b56c632712cb.jpg"
 language: en
 slug: feriz-vukaj
 address: "Hamallaj-Perlat, Hamallaj, Albania"

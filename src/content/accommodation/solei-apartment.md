@@ -1,7 +1,7 @@
 ---
 title: "Solei Apartment"
 description: "Solei Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525635663.jpg?k=fb84f718ec791ec23dd827def2669ef894bd468688960083e280c2af3aa4e2cd&o=&hp=1"
+featuredImage: "/images/accommodation/solei-apartment-525635663.jpg"
 language: en
 slug: solei-apartment
 address: "Rruga Petro Nini Luarasi, 1001 Tirana, Albania"

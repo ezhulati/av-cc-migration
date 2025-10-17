@@ -1,7 +1,7 @@
 ---
 title: "Hotel Permeti"
 description: "Hotel Permeti stands out as a prime choice for travelers seeking comfortable accommodations in Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364946327.jpg?k=cf69609c6863579fd2e8d9e999fb98cdd38b344eb6e3d3cde070bd53a391f679&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-permeti-364946327.jpg"
 language: en
 slug: hotel-permeti
 address: "Sheshi \"Abdyl Frashëri\", Përmet, Albania, 6400 Përmet, Albania"

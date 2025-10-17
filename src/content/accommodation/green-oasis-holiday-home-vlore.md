@@ -1,7 +1,7 @@
 ---
 title: "Green Oasis Holiday Home Vlore"
 description: "Green Oasis Holiday Home Vlore emerges as a serene retreat for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483294156.jpg?k=0fa00db3288aab09ba14022276de97777b6ce56d2a3398a0671a3947dc9efc02&o=&hp=1"
+featuredImage: "/images/accommodation/green-oasis-holiday-home-vlore-483294156.jpg"
 language: en
 slug: green-oasis-holiday-home-vlore
 address: "Rruga Zenel Murra Nd. 108/1 ; H. 1, 9402 Vlorë, Albania"

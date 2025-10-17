@@ -1,7 +1,7 @@
 ---
 title: "Franklin Rooms"
 description: "Franklin Rooms emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located a mere 28 km from the vibrant Corfu Town."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72447865.jpg?k=92a405215dd1c61748b50debf0ca089d56adcafe5e2c1c1d462937f8ad209840&o=&hp=1"
+featuredImage: "/images/accommodation/franklin-rooms-72447865.jpg"
 language: en
 slug: franklin-rooms
 address: "Rr. Butrint, Godina 82, 9703 Sarandë, Albania"

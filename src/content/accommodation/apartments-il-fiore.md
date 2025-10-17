@@ -1,7 +1,7 @@
 ---
 title: "Apartments Il Fiore"
 description: "Apartments Il Fiore is a prime choice for travelers seeking comfortable lodging a short drive from the heart of Vlorë, conveniently just 10 minutes away and a mere 6 km from the iconic Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/50768490.jpg?k=7de95eb4d124e43ec49c6d3a5ca2941e70be89f90059cc92419584450e1b94df&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-il-fiore-50768490.jpg"
 language: en
 slug: apartments-il-fiore
 address: "St.Aleksander Moisiu , 9404 Vlorë, Albania"

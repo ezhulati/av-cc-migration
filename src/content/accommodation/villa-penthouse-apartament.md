@@ -1,7 +1,7 @@
 ---
 title: "Villa Penthouse & Apartament"
 description: "Villa Penthouse & Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short stroll from the pristine Durres Beach and within easy reach of the city's historical and cultural landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487522137.jpg?k=357761cf71fbf13fa54f08c960a3ead858a49b3fd4f19b45cd404415ba3286a1&o=&hp=1"
+featuredImage: "/images/accommodation/villa-penthouse-apartament-487522137.jpg"
 language: en
 slug: villa-penthouse-apartament
 address: "Rruga Lord Kovaci 3, 2000 Durrës, Albania"

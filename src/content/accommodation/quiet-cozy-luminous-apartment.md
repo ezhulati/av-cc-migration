@@ -1,7 +1,7 @@
 ---
 title: "Quiet, Cozy, Luminous Apartment"
 description: "Discover the charm of Tirana from the comfort of the Quiet, Cozy, Luminous Apartment, a serene haven located just a stone's throw away from the city's vibrant heart, Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501149887.jpg?k=a789b1dca4b2fb60dcc4d7d18731407d39661331f48735dfec6cf35efd630306&o=&hp=1"
+featuredImage: "/images/accommodation/quiet-cozy-luminous-apartment-501149887.jpg"
 language: en
 slug: quiet-cozy-luminous-apartment
 address: "Rruga Bardhyl building no.16, apartment no.16, 4th floor, Tirana, Albania"

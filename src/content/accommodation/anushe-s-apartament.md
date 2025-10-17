@@ -1,7 +1,7 @@
 ---
 title: "Anushe's apartament"
 description: "Anushe's Apartment emerges as a serene retreat in Pogradec, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488420772.jpg?k=691c5e12da624d394008b6306064914a7796b351291cba1a8de7dca2534327e2&o=&hp=1"
+featuredImage: "/images/accommodation/anushe-s-apartament-488420772.jpg"
 language: en
 slug: anushe-s-apartament
 address: "Rruga Harmonia, 7301 Pogradec, Albania"

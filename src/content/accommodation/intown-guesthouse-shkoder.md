@@ -1,7 +1,7 @@
 ---
 title: "InTown Guesthouse Shkoder"
 description: "InTown Guesthouse Shkoder, located a mere 49 km from the bustling Port of Bar, emerges as a freshly updated haven in the heart of Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355189101.jpg?k=5befea57b6f648a1c9a5ac11697d057dc3f99dd9ac92e4b7726a1440755433aa&o=&hp=1"
+featuredImage: "/images/accommodation/intown-guesthouse-shkoder-355189101.jpg"
 language: en
 slug: intown-guesthouse-shkoder
 address: "Rruga Luigj Gurakuqi, 1001 Shkodër, Albania"

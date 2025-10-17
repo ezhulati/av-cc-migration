@@ -1,7 +1,7 @@
 ---
 title: "The Actors Studio"
 description: "The Actors Studio stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520202636.jpg?k=61be6747e8b7c1e130897f7cba629682ab639fd26bef3bfe96e544e0060d5e66&o=&hp=1"
+featuredImage: "/images/accommodation/the-actors-studio-520202636.jpg"
 language: en
 slug: the-actors-studio
 address: "Rruga e Durrësit, 1001 Tirana, Albania"

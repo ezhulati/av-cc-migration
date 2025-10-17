@@ -1,7 +1,7 @@
 ---
 title: "House of A&Arwen"
 description: "House of A&Arwen emerges as a charming retreat in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376063659.jpg?k=cba0768c230749145529e55a5c181100da4ca160843bc87e17423ec1dd279208&o=&hp=1"
+featuredImage: "/images/accommodation/house-of-a-arwen-376063659.jpg"
 language: en
 slug: house-of-a-arwen
 address: "Rruga Jonianet, 9702 Sarandë, Albania"

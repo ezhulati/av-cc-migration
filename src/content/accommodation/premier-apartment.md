@@ -1,7 +1,7 @@
 ---
 title: "Premier Apartment"
 description: "Premier Apartment emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484111426.jpg?k=af09e7b086afd97263d6d6b12cf49712bb6107f05b46419914ceaf6fbb67bf0e&o=&hp=1"
+featuredImage: "/images/accommodation/premier-apartment-484111426.jpg"
 language: en
 slug: premier-apartment
 address: "Rruga Andon Zako Çajupi, Tirana, Albania"

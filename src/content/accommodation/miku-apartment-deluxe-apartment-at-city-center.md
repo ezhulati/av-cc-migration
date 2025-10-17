@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-DELUXE Apartment at City Center"
 description: "Miku Apartment-DELUXE Apartment at City Center emerges as a prime choice for travelers seeking the ultimate blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327374507.jpg?k=3af9f0b4c0067e27fb70ba53f0419f451ffcccded023a3d51ec9d85811f0c287&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-deluxe-apartment-at-city-center-327374507.jpg"
 language: en
 slug: miku-apartment-deluxe-apartment-at-city-center
 address: "Rruga Zenel Baboçi, 1019 Tirana, Albania"

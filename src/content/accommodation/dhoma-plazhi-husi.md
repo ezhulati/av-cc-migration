@@ -1,7 +1,7 @@
 ---
 title: "Dhoma Plazhi Husi"
 description: "Dhoma Plazhi Husi stands as a serene retreat in the vibrant town of Himare, offering guests a unique blend of city and garden views from its peaceful location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474670955.jpg?k=96f7f869b481ff3ab7751e625f0479045771a38e1099144bf67f7bfa50a4e8e1&o=&hp=1"
+featuredImage: "/images/accommodation/dhoma-plazhi-husi-474670955.jpg"
 language: en
 slug: dhoma-plazhi-husi
 address: "Borsh, 9714 Himare, Albania"

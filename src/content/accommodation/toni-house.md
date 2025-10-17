@@ -1,7 +1,7 @@
 ---
 title: "Toni House"
 description: "Toni House emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://graph.facebook.com/v2.9/1889163564572393/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/toni-house-picture?type.jpg"
 language: en
 slug: toni-house
 address: "Rruga Sadik Zotaj, 9004 Vlorë, Albania"

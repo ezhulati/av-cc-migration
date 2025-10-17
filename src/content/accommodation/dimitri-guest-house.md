@@ -1,7 +1,7 @@
 ---
 title: "Dimitri Guest House"
 description: "Dimitri Guest House emerges as a charming accommodation choice in Përmet, providing guests with the convenience of complimentary WiFi and on-site parking without any additional cost."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218398416.jpg?k=26f42ecc7cd9ce9b3195edbec8c1a7c99b1d937dd557112b2730231b8f58c7f1&o=&hp=1"
+featuredImage: "/images/accommodation/dimitri-guest-house-218398416.jpg"
 language: en
 slug: dimitri-guest-house
 address: "Musa Ohri Street nr. 14, 6400 Përmet, Albania"

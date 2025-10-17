@@ -1,7 +1,7 @@
 ---
 title: "Giorgio Gest House"
 description: "Giorgio Gest House emerges as a premier choice for travelers seeking comfort and convenience in Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352592239.jpg?k=3076d2c38dd8c2a2d583df9f63f2f9a166be1fd0efc9015d473a85c13fa8df06&o=&hp=1"
+featuredImage: "/images/accommodation/giorgio-gest-house-352592239.jpg"
 language: en
 slug: giorgio-gest-house
 address: "Gjergj Komnino 7 2, 6401 Përmet, Albania"

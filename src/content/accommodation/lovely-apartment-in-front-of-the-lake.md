@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment in front of the Lake"
 description: "Discover the charm of Pogradec with a stay at Lovely Apartment in front of the Lake, a prime accommodation choice that boasts stunning city views and direct access to the beachfront."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363626193.jpg?k=04ba6855aac269923142cb31e41daaa57385df6424c9d07922bfee081bbe08d1&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-in-front-of-the-lake-363626193.jpg"
 language: en
 slug: lovely-apartment-in-front-of-the-lake
 address: "Rruga 1 Qershori, 7301 Pogradec, Albania"

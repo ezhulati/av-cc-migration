@@ -1,7 +1,7 @@
 ---
 title: "Vila Eden Boutique Hotel"
 description: "Vila Eden Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort, convenience, and a touch of luxury in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357120250.jpg?k=83510b83fb2022014201d037699667a12cf6185d8917f816b32a22d81f600b43&o=&hp=1"
+featuredImage: "/images/accommodation/vila-eden-boutique-hotel-357120250.jpg"
 language: en
 slug: vila-eden-boutique-hotel
 address: "Rruga Konferenca e Labinotit nr.2, 7001 Korçë, Albania"

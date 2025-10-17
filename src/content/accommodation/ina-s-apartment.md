@@ -1,7 +1,7 @@
 ---
 title: "Ina's apartment"
 description: "Ina's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481438917.jpg?k=fe6cf4621720a29ed37d648bf73b7292e3e6796a4d20e65bcac8d557c13bb724&o=&hp=1"
+featuredImage: "/images/accommodation/ina-s-apartment-481438917.jpg"
 language: en
 slug: ina-s-apartment
 address: "Rruga Haziz Xhyherri 5, 9404 Vlorë, Albania"

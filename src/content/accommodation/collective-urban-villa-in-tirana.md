@@ -1,7 +1,7 @@
 ---
 title: "Collective Urban Villa in Tirana"
 description: "Collective Urban Villa emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330905168.jpg?k=9b9c199a13489437e0d26897bf4a009f23b2dbbe092dae11b434781f44ebb9e2&o=&hp=1"
+featuredImage: "/images/accommodation/collective-urban-villa-in-tirana-330905168.jpg"
 language: en
 slug: collective-urban-villa-in-tirana
 address: "34 Rruga Besim Imami, 1001 Tirana, Albania"

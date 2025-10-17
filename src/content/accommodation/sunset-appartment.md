@@ -1,7 +1,7 @@
 ---
 title: "Sunset Appartment"
 description: "Sunset Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503686916.jpg?k=875384817629cb0a08f2c69822b6bc1a58a30d602317f0a72ccf8abd4831e05d&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-appartment-503686916.jpg"
 language: en
 slug: sunset-appartment
 address: "Mali Robit Fafa Resort, 1001 Golem, Albania"

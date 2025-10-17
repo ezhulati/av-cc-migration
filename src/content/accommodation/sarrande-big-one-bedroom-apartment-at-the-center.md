@@ -1,7 +1,7 @@
 ---
 title: "Sarrande, big one bedroom apartment at the center"
 description: "In the vibrant heart of Sarandë, the Sarrande apartment emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361713646.jpg?k=6e6bd9789f54325b59404d47cc25adda52eebe8d28e2b4ab2cb325a33ff041d4&o=&hp=1"
+featuredImage: "/images/accommodation/sarrande-big-one-bedroom-apartment-at-the-center-361713646.jpg"
 language: en
 slug: sarrande-big-one-bedroom-apartment-at-the-center
 address: "Rruga Lefter Talo, Sheshi Geraldina, 5th floor, 9701 Sarandë, Albania"

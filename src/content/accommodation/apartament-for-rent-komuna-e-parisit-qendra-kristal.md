@@ -1,7 +1,7 @@
 ---
 title: "Apartament for rent Komuna e Parisit-Qendra Kristal"
 description: "Discover the charm of Tirana with a stay at the Apartament Komuna e Parisit-Qendra Kristal, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516944533.jpg?k=aa53bd78c4715373885c1ff48e6859495abb23e2d82db1f66af418a4422f5e58&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-for-rent-komuna-e-parisit-qendra-kristal-516944533.jpg"
 language: en
 slug: apartament-for-rent-komuna-e-parisit-qendra-kristal
 address: "Rruga Tish Dahia, 1001 Tirana, Albania"

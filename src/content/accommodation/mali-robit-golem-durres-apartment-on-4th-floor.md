@@ -1,7 +1,7 @@
 ---
 title: "Mali robit golem durres apartment on 4th floor"
 description: "Mali Robit Golem Durres Apartment, perched on the 4th floor, presents a serene garden view and the convenience of beachfront living, just a stone's throw away from Mali I Robit Beach and a short stroll from Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456490292.jpg?k=a29fd42dd56b527ec7824be9f8b0e05f4fadd020b91a6ec0bf994b04a632c3f0&o=&hp=1"
+featuredImage: "/images/accommodation/mali-robit-golem-durres-apartment-on-4th-floor-456490292.jpg"
 language: en
 slug: mali-robit-golem-durres-apartment-on-4th-floor
 address: "Rruga Pavaresia, Golem, Albania"

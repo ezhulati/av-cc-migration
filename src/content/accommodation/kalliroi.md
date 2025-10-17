@@ -1,7 +1,7 @@
 ---
 title: "Kalliroi"
 description: "Kalliroi emerges as a prime choice for travelers seeking comfort and convenience, situated just a stone's throw away from the pristine shores of Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336261597.jpg?k=96d3345edc442fbc7a165ddb19f32c0484a63816677db9a797e21350c04f81ac&o=&hp=1"
+featuredImage: "/images/accommodation/kalliroi-336261597.jpg"
 language: en
 slug: kalliroi
 address: "Rruga Riviera 1st floor, 9706 Ksamil, Albania"

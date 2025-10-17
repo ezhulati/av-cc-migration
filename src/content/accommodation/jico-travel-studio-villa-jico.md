@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Studio Villa Jico"
 description: "Discover the charm of Vlorë with a stay at Jico Travel - Studio Villa Jico, a prime choice for travelers seeking comfort and convenience less than a kilometer from the pristine Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490531094.jpg?k=e8926a8853488149bed42d3bae1cafd953638de5228532672b2fb3655c4cc8ca&o=&hp=1"
+featuredImage: "/images/accommodation/jico-travel-studio-villa-jico-490531094.jpg"
 language: en
 slug: jico-travel-studio-villa-jico
 address: "Rruga Azem Sulo, 9401 Vlorë, Albania"

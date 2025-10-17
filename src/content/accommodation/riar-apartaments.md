@@ -1,7 +1,7 @@
 ---
 title: "Riar Apartaments"
 description: "Riar Apartaments stands out as a prime choice for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504178461.jpg?k=910d421f7a56c54d31b5c444915e97336fa3135e3bdf22b4506c0d1e1ab3bbfa&o=&hp=1"
+featuredImage: "/images/accommodation/riar-apartaments-504178461.jpg"
 language: en
 slug: riar-apartaments
 address: "Rruga Midhi Kostani Perballe Terminalit, 7000 Korçë, Albania"

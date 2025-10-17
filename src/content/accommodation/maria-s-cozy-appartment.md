@@ -1,7 +1,7 @@
 ---
 title: "Maria's cozy appartment"
 description: "Maria's Cozy Apartment offers a serene retreat right in the heart of Tirana, providing a perfect blend of convenience and comfort for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499290907.jpg?k=5aa54e01f54fe625e4e65494fc87f1999aa48b0e6d8e1fe7e48519d62c1f8cdb&o=&hp=1"
+featuredImage: "/images/accommodation/maria-s-cozy-appartment-499290907.jpg"
 language: en
 slug: maria-s-cozy-appartment
 address: "2 Rruga Ramazan Demneri Vila Nr 21, 1000 Tirana, Albania"

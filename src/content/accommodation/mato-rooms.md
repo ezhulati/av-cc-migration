@@ -1,7 +1,7 @@
 ---
 title: "Mato Rooms"
 description: "Mato Rooms emerges as a serene haven for travelers seeking both the tranquility of mountain vistas and the convenience of proximity to Himare's pristine beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493829307.jpg?k=13d298760e73dac0d5a8cb3a3e3619097ec9d58aaee6db0fdbc3375ba36557a1&o=&hp=1"
+featuredImage: "/images/accommodation/mato-rooms-493829307.jpg"
 language: en
 slug: mato-rooms
 address: "Rruga 1 Maj, 9425 Himare, Albania"

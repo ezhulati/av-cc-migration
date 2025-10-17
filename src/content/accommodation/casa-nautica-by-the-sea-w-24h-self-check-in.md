@@ -1,7 +1,7 @@
 ---
 title: "Casa Nautica by the Sea w/24h Self Check-In"
 description: "Casa Nautica by the Sea emerges as a prime choice for travelers seeking a serene getaway in the heart of Golem, Tirana County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456705255.jpg?k=540287419629052aca4a219b9cdc4db4bdd31983f1baa2e62a870c75892849cb&o=&hp=1"
+featuredImage: "/images/accommodation/casa-nautica-by-the-sea-w-24h-self-check-in-456705255.jpg"
 language: en
 slug: casa-nautica-by-the-sea-w-24h-self-check-in
 address: "Bulevardi i Palmave, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Aulona's Apartment"
 description: "Aulona's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a stone's throw away from Vlore Beach and within easy reach of Ri Beach and Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367963108.jpg?k=8804cebfb518edf4bd7a657de497ee9f70a415909f76ae803c967bf8ed53c364&o=&hp=1"
+featuredImage: "/images/accommodation/aulona-s-apartment-367963108.jpg"
 language: en
 slug: aulona-s-apartment
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

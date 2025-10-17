@@ -1,7 +1,7 @@
 ---
 title: "Magnolia Luxury Penthouse"
 description: "Magnolia Luxury Penthouse emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483704148.jpg?k=334f0e2b5e4a82e049c54b493aff1eb55e19ce887774da1c960503ec7bf586ce&o=&hp=1"
+featuredImage: "/images/accommodation/magnolia-luxury-penthouse-483704148.jpg"
 language: en
 slug: magnolia-luxury-penthouse
 address: "Rruga Antipatrea, 5000 Berat, Albania"

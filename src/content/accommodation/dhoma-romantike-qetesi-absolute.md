@@ -1,7 +1,7 @@
 ---
 title: "Dhoma romantike , qetesi absolute!"
 description: "Dhoma Romantike, Qetesi Absolute!"
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443942996.jpg?k=deebf4e7242df07c71b5ed8e7a530a414dff2e8d6694f21ca4e8ef44a450be30&o=&hp=1"
+featuredImage: "/images/accommodation/dhoma-romantike-qetesi-absolute-443942996.jpg"
 language: en
 slug: dhoma-romantike-qetesi-absolute
 address: "Rruga Sali Butka 22, 7001 Korçë, Albania"

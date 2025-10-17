@@ -1,7 +1,7 @@
 ---
 title: "XENIA'S Apartment"
 description: "XENIA'S Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488487965.jpg?k=35d904678d51d4e7fe9b6ed26a96f6cf567f8f3c4d7d9a0f84c7d9cee382269f&o=&hp=1"
+featuredImage: "/images/accommodation/xenia-s-apartment-488487965.jpg"
 language: en
 slug: xenia-s-apartment
 address: "Rruga Gjergj Araniti, Sarandë, Albania"

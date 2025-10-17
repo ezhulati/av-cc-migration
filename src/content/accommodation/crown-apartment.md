@@ -1,7 +1,7 @@
 ---
 title: "Crown Apartment"
 description: "Crown Apartment in Sarandë emerges as a prime choice for travelers seeking comfort and convenience in one of Albania's most vibrant coastal cities."
-featuredImage: "https://lh4.googleusercontent.com/-eDy3_fh7Lg0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdU0PJhYcEVTEAXJq7EwFZV0YmdLg/photo.jpg64"
+featuredImage: "/images/accommodation/crown-apartment-photo.jpg64.jpg"
 language: en
 slug: crown-apartment
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Rooms Blloku Area"
 description: "Deluxe Rooms Blloku Area emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431827797.jpg?k=a6ded3fda46e433bc99623f69bb557e63e318f9d0594773500b0daeadc7e8d15&o=&hp=1"
+featuredImage: "/images/accommodation/deluxe-rooms-blloku-area-431827797.jpg"
 language: en
 slug: deluxe-rooms-blloku-area
 address: "Rruga Nikolla Tupe, 1001 Tirana, Albania"

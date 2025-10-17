@@ -1,7 +1,7 @@
 ---
 title: "Ela appartaments"
 description: "Ela Apartments emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, offering spacious, air-conditioned accommodations just a stone's throw away from Vjetër Beach and within a leisurely stroll from Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477348139.jpg?k=dee9a4d121ae56d42a489fb488f0c26562c414164f2c63d04aac16cd09935a69&o=&hp=1"
+featuredImage: "/images/accommodation/ela-appartaments-477348139.jpg"
 language: en
 slug: ela-appartaments
 address: "Rr. Gjergj Arianiti, 9401 Vlorë, Albania"

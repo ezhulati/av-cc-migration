@@ -1,7 +1,7 @@
 ---
 title: "Sun Marine Apartment"
 description: "Sun Marine Apartment stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach and a short stroll from the tranquil Saranda Bay Beach."
-featuredImage: "https://graph.facebook.com/v2.9/1848450321965058/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/sun-marine-apartment-picture?type.jpg"
 language: en
 slug: sun-marine-apartment
 address: "Rruga Guri Nazifi, Sarandë, Albania"

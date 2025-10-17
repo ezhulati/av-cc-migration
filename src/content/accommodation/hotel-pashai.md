@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pashai"
 description: "Hotel Pashai stands as a beacon of comfort and convenience in the historic city of Gjirokastër, a mere stone's throw away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150643575.jpg?k=d768571efbdae2b847fad3e6e738e3566f11e2a84b4930b16b9db49a264e8476&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-pashai-150643575.jpg"
 language: en
 slug: hotel-pashai
 address: "Rruga Jaçe Braja, 6001 Gjirokastër, Albania"

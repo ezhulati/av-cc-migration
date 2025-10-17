@@ -1,7 +1,7 @@
 ---
 title: "Tarace sea view apartment"
 description: "Tarace Sea View Apartment emerges as a prime choice for travelers seeking comfort and convenience in Saranda."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130182486.jpg?k=c73a8d588d3cee90458e3a6eba1cb288ae1e7409aac88ab4315360636ca88a54&o=&hp=1"
+featuredImage: "/images/accommodation/tarace-sea-view-apartment-130182486.jpg"
 language: en
 slug: tarace-sea-view-apartment
 address: "Rruga Gjergj Araniti, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Delfin Apartments"
 description: "Delfin Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/133695426.jpg?k=0cd96e136153ae2b55d2e1b9f20ebedaabec452f84825f7819d1f4b92a0e05a7&o=&hp=1"
+featuredImage: "/images/accommodation/delfin-apartments-133695426.jpg"
 language: en
 slug: delfin-apartments
 address: "71 Rruga Skënderbeu, 9701 Sarandë, Albania"

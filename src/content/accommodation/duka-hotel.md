@@ -1,7 +1,7 @@
 ---
 title: "DUKA Hotel"
 description: "DUKA Hotel, a distinguished 4-star establishment in Vlorë, stands prominently along the beachfront, offering guests an exceptional blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218918751.jpg?k=3c306cc1811e83880363ca8d91671b400a8f104ed8d64c369977bb0f96c21a49&o=&hp=1"
+featuredImage: "/images/accommodation/duka-hotel-218918751.jpg"
 language: en
 slug: duka-hotel
 address: "Rruga Murat Tërbaçi Lagjja Uji i Ftohte, 9401 Vlorë, Albania"

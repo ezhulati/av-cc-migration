@@ -1,7 +1,7 @@
 ---
 title: "31°Bs*CityCenterView"
 description: "31°Bs*CityCenterView stands out as a prime choice for travelers seeking the perfect blend of convenience and comfort in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519603172.jpg?k=272b66e11bd21477790b772468896735ea3c12b4a873ba2673ee2e972c629635&o=&hp=1"
+featuredImage: "/images/accommodation/31-bs-citycenterview-519603172.jpg"
 language: en
 slug: 31-bs-citycenterview
 address: "Rruga Dervish Hatixhe, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Shtepia Tradites Gjinar"
 description: "Shtepia Tradites Gjinar emerges as a serene retreat in Elbasan, offering guests the comfort of air-conditioned accommodations complemented by a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525855300.jpg?k=ec03807195b20fb8194cbf97926786744046bbbb48370f68ed850ae7d45ffece&o=&hp=1"
+featuredImage: "/images/accommodation/shtepia-tradites-gjinar-525855300.jpg"
 language: en
 slug: shtepia-tradites-gjinar
 address: "Gjinar, Elbasan, 3014 Elbasan, Albania"

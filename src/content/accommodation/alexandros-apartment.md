@@ -1,7 +1,7 @@
 ---
 title: "Alexandros apartment"
 description: "Alexandros Apartment emerges as a refreshed and inviting option for travelers exploring Sarandë, positioned conveniently close to both Saranda City Beach and La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476115156.jpg?k=f313fa3f8d354d95933afdf7a32068aa63f3ee858e774b45590c929e34e71a6e&o=&hp=1"
+featuredImage: "/images/accommodation/alexandros-apartment-476115156.jpg"
 language: en
 slug: alexandros-apartment
 address: "Sarande, 9701 Sarandë, Albania"

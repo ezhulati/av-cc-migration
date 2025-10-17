@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila e Arte City Center"
 description: "Discover the charm of Tirana with a stay at Hotel Vila e Arte City Center, a gem that offers more than just a convenient location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/96456810.jpg?k=7ba82dd8642ed5249751131584852a356129220e8de369e7205fb7af1e1ff4aa&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-e-arte-city-center-96456810.jpg"
 language: en
 slug: hotel-vila-e-arte-city-center
 address: "Rr Qemal Stafa prane Prokurorise se Pergjithshme , 1001 Tirana, Albania"

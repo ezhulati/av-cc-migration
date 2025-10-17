@@ -1,7 +1,7 @@
 ---
 title: "Princess Home"
 description: "Princess Home emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach and a short stroll from the charming La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369863661.jpg?k=9f20df64d84465f7eedff5af18216f9fb5c7a3bd0fbe0674f3f00a2fac16860e&o=&hp=1"
+featuredImage: "/images/accommodation/princess-home-369863661.jpg"
 language: en
 slug: princess-home
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

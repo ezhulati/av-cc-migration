@@ -1,7 +1,7 @@
 ---
 title: "Modern One Bedroom Apartment Saranda Terraces"
 description: "Modern One Bedroom Apartment Saranda Terraces emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374944532.jpg?k=33bab1e945574ef85f6aae2fa0b4c6b3bc25a92db168d86d624ddee6005a437a&o=&hp=1"
+featuredImage: "/images/accommodation/modern-one-bedroom-apartment-saranda-terraces-374944532.jpg"
 language: en
 slug: modern-one-bedroom-apartment-saranda-terraces
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

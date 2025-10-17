@@ -1,7 +1,7 @@
 ---
 title: "VIVA Golem 4"
 description: "VIVA Golem 4 emerges as a prime choice for travelers seeking a serene beachfront retreat in Golem, mere steps away from the captivating Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378204477.jpg?k=595a5e66863bbbfe9ea95905a9d540398acea7cc3fc46379b307866ee03efdd7&o=&hp=1"
+featuredImage: "/images/accommodation/viva-golem-4-378204477.jpg"
 language: en
 slug: viva-golem-4
 address: "-, 2504 Golem, Albania"

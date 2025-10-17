@@ -1,7 +1,7 @@
 ---
 title: "Sea Side Rental"
 description: "Sea Side Rental emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409343673.jpg?k=95681150777662b4034d3ec28eb9199948c74353fafb1327d7478ee360a9c668&o=&hp=1"
+featuredImage: "/images/accommodation/sea-side-rental-409343673.jpg"
 language: en
 slug: sea-side-rental
 address: "Rruga Shëngjin - Kune, 10000 Shëngjin, Albania"

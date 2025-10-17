@@ -1,7 +1,7 @@
 ---
 title: "Rebi Beach Apartament"
 description: "Rebi Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the stunning shores of Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461893534.jpg?k=a8337c1711fbe1d414b290439d1e4c7b9ed44b1f64de90fe5d2f45d6dc511255&o=&hp=1"
+featuredImage: "/images/accommodation/rebi-beach-apartament-461893534.jpg"
 language: en
 slug: rebi-beach-apartament
 address: "Rruga Bulevardi i Pishave, Kullat Binjake nr 7 Golem Kavaje, Golem, Albania"

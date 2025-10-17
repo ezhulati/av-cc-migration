@@ -1,7 +1,7 @@
 ---
 title: "B&BSheshalliu"
 description: "B&BSheshalliu emerges as a charming retreat in the heart of Berat, offering guests a serene stay with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452481751.jpg?k=e9c6c85b93a8cd03e357595a6cc6dd43b817b878e42dcb8cf726b9f04fd6c00c&o=&hp=1"
+featuredImage: "/images/accommodation/b-bsheshalliu-452481751.jpg"
 language: en
 slug: b-bsheshalliu
 address: "Rruga Dr. Lluka, 5000 Berat, Albania"

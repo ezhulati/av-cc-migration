@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Klement"
 description: "Guesthouse Klement emerges as a serene haven for travelers seeking tranquility and natural beauty, located approximately 45 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502866069.jpg?k=cfccbe41bed48a3b0944a447858f5676fccc9583486440dda8c1888165fd52ed&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-klement-502866069.jpg"
 language: en
 slug: guesthouse-klement
 address: "Rruga Selam Musai, 6001 Gjirokastër, Albania"

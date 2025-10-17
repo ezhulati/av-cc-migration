@@ -1,7 +1,7 @@
 ---
 title: "Paradise Beach Hotel"
 description: "Paradise Beach Hotel emerges as a premier destination for travelers seeking a blend of comfort and adventure right on the shores of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/396764827.jpg?k=5856cc743fab07204002290db3a982543617ff25829d003e12e6cbc3c0c166e0&o=&hp=1"
+featuredImage: "/images/accommodation/paradise-beach-hotel-396764827.jpg"
 language: en
 slug: paradise-beach-hotel
 address: "Radhime, 9400 Vlorë, Albania"

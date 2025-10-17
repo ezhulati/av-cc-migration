@@ -1,7 +1,7 @@
 ---
 title: "Adriatik Guesthouse"
 description: "Adriatik Guesthouse emerges as a serene haven in the heart of Përmet, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481285990.jpg?k=c05bd6339de1a379f1467d0f53e5e3c325a299f87716f3a66584ef97e132d3e2&o=&hp=1"
+featuredImage: "/images/accommodation/adriatik-guesthouse-481285990.jpg"
 language: en
 slug: adriatik-guesthouse
 address: "SH75, 6401 Përmet, Albania"

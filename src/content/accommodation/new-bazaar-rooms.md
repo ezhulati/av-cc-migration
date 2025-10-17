@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar Rooms"
 description: "New Bazaar Rooms emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369575322.jpg?k=52b94c803e10390232127571cb9b86fe0517ca2cc5d78aad77ba37c87487e1f6&o=&hp=1"
+featuredImage: "/images/accommodation/new-bazaar-rooms-369575322.jpg"
 language: en
 slug: new-bazaar-rooms
 address: "Rruga Thimi Mitko, 1001 Tirana, Albania"

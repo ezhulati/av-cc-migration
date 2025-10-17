@@ -1,7 +1,7 @@
 ---
 title: "Tusuni Guest House"
 description: "Tusuni Guest House, situated in the serene town of Libohovë and a mere 40 km from the tranquil Zaravina Lake, offers a unique blend of comfort and convenience for travelers seeking an escape or an adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490482908.jpg?k=74eb0d87f675ccc23a9f701aa9fecccfdcbd13824a94de4ae3a702db884cbf67&o=&hp=1"
+featuredImage: "/images/accommodation/tusuni-guest-house-490482908.jpg"
 language: en
 slug: tusuni-guest-house
 address: "Rruga Avni Rustemi, 6003 Libohovë, Albania"

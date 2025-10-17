@@ -1,7 +1,7 @@
 ---
 title: "White Residence Apartament"
 description: "White Residence Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100267897.jpg?k=3cc350a44741dbf258c5205ed61004c3dd540bac9ed25dc69ffbfe75e6a500ae&o=&hp=1"
+featuredImage: "/images/accommodation/white-residence-apartament-100267897.jpg"
 language: en
 slug: white-residence-apartament
 address: "Butrinti Street, 9701 Sarande, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VILLA LEVANDA KSAMIL"
 description: "Villa Levanda Ksamil emerges as a serene retreat in the heart of Vlorë County, a mere stone's throw from the pristine Paradise Beach, just 600 meters away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670447.jpg?k=1f10e0fadea738eac7103eb1fa23451a082c32a7194083ca9c90ac2293545985&o=&hp=1"
+featuredImage: "/images/accommodation/villa-levanda-ksamil-475670447.jpg"
 language: en
 slug: villa-levanda-ksamil
 address: "RRUGA ADRIA KSAMIL, Ksamil, Albania"

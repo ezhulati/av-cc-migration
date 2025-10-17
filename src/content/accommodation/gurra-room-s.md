@@ -1,7 +1,7 @@
 ---
 title: "Gurra room's"
 description: "Gurra Rooms emerges as a serene retreat in Lukovë, a mere stone's throw away from the pristine Lukova Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474657948.jpg?k=2f076dec17745489f90a2c6c0c3d8ffac9029afda29071ec6c6af9d90faeb21a&o=&hp=1"
+featuredImage: "/images/accommodation/gurra-room-s-474657948.jpg"
 language: en
 slug: gurra-room-s
 address: "Rugga e gurres, Lukovë, Albania"

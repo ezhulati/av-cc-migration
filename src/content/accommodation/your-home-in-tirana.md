@@ -1,7 +1,7 @@
 ---
 title: "Your home in Tirana"
 description: "Discover the charm of Tirana with a stay at \"Your Home in Tirana,\" a recently updated property that offers a seamless blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439795223.jpg?k=efd2e213a5e775eb3b7d03673394ef6f78e4e6a56dcfeb6a7391fa6201c78ee6&o=&hp=1"
+featuredImage: "/images/accommodation/your-home-in-tirana-439795223.jpg"
 language: en
 slug: your-home-in-tirana
 address: "Rruga Myslym Shyri 44 Ap15, Tirana, Albania"

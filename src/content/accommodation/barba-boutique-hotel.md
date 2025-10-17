@@ -1,7 +1,7 @@
 ---
 title: "Barba Boutique Hotel"
 description: "Barba Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377830950.jpg?k=fd7571480af6a25736d2dd6bd022fc7283c3dd965bfb25fcfc58bd51e1571c4c&o=&hp=1"
+featuredImage: "/images/accommodation/barba-boutique-hotel-377830950.jpg"
 language: en
 slug: barba-boutique-hotel
 address: "rruga e Kolonjes(ish artistikja), 7001 Korçë, Albania"

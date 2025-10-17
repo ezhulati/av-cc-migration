@@ -1,7 +1,7 @@
 ---
 title: "Relax Home Durrës"
 description: "Discover the charm of Durrës with a stay at Relax Home Durrës, a prime location for beach enthusiasts and cultural explorers alike."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402498136.jpg?k=732aa8864d131d0de87a97602eef1be0d5fb50e948f176b40f63d2631eda9120&o=&hp=1"
+featuredImage: "/images/accommodation/relax-home-durr-s-402498136.jpg"
 language: en
 slug: relax-home-durr-s
 address: "Rruga Shkembi i Kavajes, 2008 Durrës, Albania"

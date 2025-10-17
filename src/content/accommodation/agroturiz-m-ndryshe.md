@@ -1,7 +1,7 @@
 ---
 title: "Agroturizëm Ndryshe"
 description: "Agroturizëm Ndryshe emerges as a distinctive choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478245444.jpg?k=943489e268e90e68985ba7e866013789098d4e67cf4e77e37c60e8a609fb83df&o=&hp=1"
+featuredImage: "/images/accommodation/agroturiz-m-ndryshe-478245444.jpg"
 language: en
 slug: agroturiz-m-ndryshe
 address: "Rruga e Arbrit, 1001 Tirana, Albania"

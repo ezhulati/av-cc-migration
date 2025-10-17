@@ -1,7 +1,7 @@
 ---
 title: "Bluemoon Suites Sarande"
 description: "Bluemoon Suites Sarande emerges as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280508518.jpg?k=be5619fcb7cff1d64de66a6e8bd0629b9da845f9a73ddc7c2a2ca4e964e9dfd2&o=&hp=1"
+featuredImage: "/images/accommodation/bluemoon-suites-sarande-280508518.jpg"
 language: en
 slug: bluemoon-suites-sarande
 address: "Rruga Butrinti, 9999 Sarandë, Albania"

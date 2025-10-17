@@ -1,7 +1,7 @@
 ---
 title: "Hard Rock Apartments"
 description: "Hard Rock Apartments emerges as a prime choice for travelers seeking a blend of comfort and adventure by the sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422313625.jpg?k=07a6e2529707eab2c584695d82d2ccccf32f1c0305e8eaba312296dc39f7e504&o=&hp=1"
+featuredImage: "/images/accommodation/hard-rock-apartments-422313625.jpg"
 language: en
 slug: hard-rock-apartments
 address: "Rruga Mitat Hoxha 300, 9701 Sarandë, Albania"

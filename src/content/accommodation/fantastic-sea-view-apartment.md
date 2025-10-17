@@ -1,7 +1,7 @@
 ---
 title: "Fantastic Sea View Apartment"
 description: "Discover the charm of Sarandë from the comfort of the Fantastic Sea View Apartment, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478963265.jpg?k=9de029e59e6cf334a330ec5daa17f418153c24f56e1b4bf600263960df7b5008&o=&hp=1"
+featuredImage: "/images/accommodation/fantastic-sea-view-apartment-478963265.jpg"
 language: en
 slug: fantastic-sea-view-apartment
 address: "Rruga Qazim Demi 15, 9701 Sarandë, Albania"

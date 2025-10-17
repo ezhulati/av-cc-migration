@@ -1,7 +1,7 @@
 ---
 title: "Bebi Hotel And Apartments"
 description: "Bebi Hotel And Apartments stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short 800-meter stroll from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365210646.jpg?k=c542dae7216d2bdcebd263ca1819a17cb8292e458cba9a4a37def9b71cbb6e94&o=&hp=1"
+featuredImage: "/images/accommodation/bebi-hotel-and-apartments-365210646.jpg"
 language: en
 slug: bebi-hotel-and-apartments
 address: "Rruga Skenderbeu 183, 9701 Sarandë, Albania"

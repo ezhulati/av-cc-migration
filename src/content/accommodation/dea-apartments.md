@@ -1,7 +1,7 @@
 ---
 title: "DEA APARTMENTS"
 description: "DEA APARTMENTS emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447873927.jpg?k=d791756aefa57bcbea69f0b4f0e3205d9eb48efe39ee5f6b2e15fabe3f1096aa&o=&hp=1"
+featuredImage: "/images/accommodation/dea-apartments-447873927.jpg"
 language: en
 slug: dea-apartments
 address: "Rruga Pelivan Leskaj/ Gaq Vishi Pallati Perball hotel Salvador katia 8, 9403 Vlorë, Albania"

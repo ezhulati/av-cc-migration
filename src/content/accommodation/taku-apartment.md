@@ -1,7 +1,7 @@
 ---
 title: "Taku apartment"
 description: "Taku Apartment emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach and within a brisk walk from Saranda City Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AEdFTp6dBApLrMRfGZuyVVvpFFfBoFSCrrOzO1pCmoAW=s96-c64"
+featuredImage: "/images/accommodation/taku-apartment-AEdFTp6dBApL.jpg"
 language: en
 slug: taku-apartment
 address: "Lagjia nr. 4, Rr. \"Vasil Llaci\", Koder, 9701 Sarandë, Albania"

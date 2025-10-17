@@ -1,7 +1,7 @@
 ---
 title: "Like home"
 description: "Like Home stands out as a serene haven in Orikum, offering guests a unique blend of comfort and convenience just a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256886372.jpg?k=5fad10738b5c23cb8792a27269934b44a0612a09aa222150d38403f557ec16a9&o=&hp=1"
+featuredImage: "/images/accommodation/like-home-256886372.jpg"
 language: en
 slug: like-home
 address: "Bulevardi Princesha Rugjine, Orikum, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "GeNi apartments White residence"
 description: "GeNi Apartments White Residence emerges as a prime choice for travelers seeking a serene getaway in Sarandë, perfectly positioned just a short stroll from the pristine Santa Quaranta Beach and within easy reach of the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422524101.jpg?k=97441d09eff0411980ab540c999e42acac1ee1695789bbb1be58100ac668e56d&o=&hp=1"
+featuredImage: "/images/accommodation/geni-apartments-white-residence-422524101.jpg"
 language: en
 slug: geni-apartments-white-residence
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

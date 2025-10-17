@@ -1,7 +1,7 @@
 ---
 title: "Villa \"GREEN PARADISE\""
 description: "Villa \"GREEN PARADISE\" emerges as a serene retreat in Divjakë, situated a mere 44 km from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146419175.jpg?k=064758298e01dd91e7330a0a70fc9a1251241df49ccb6248aaa63012764bcea3&o=&hp=1"
+featuredImage: "/images/accommodation/villa-green-paradise-146419175.jpg"
 language: en
 slug: villa-green-paradise
 address: "3001 Divjakë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Anxhelo's Apartment"
 description: "Anxhelo's Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Shëngjin, just a stone's throw away from the pristine shores of Shëngjin Beach and a short stroll from the tranquil Ylberi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470110222.jpg?k=2e9ef12050f01e9ebb6b4dce795ce04f767d045734d90dc9f5de6805e1d466cb&o=&hp=1"
+featuredImage: "/images/accommodation/anxhelo-s-apartment-470110222.jpg"
 language: en
 slug: anxhelo-s-apartment
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

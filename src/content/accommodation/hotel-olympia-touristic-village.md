@@ -1,7 +1,7 @@
 ---
 title: "Hotel Olympia Touristic Village"
 description: "Hotel Olympia Touristic Village stands as a beacon of comfort and convenience in the heart of Radhime, merely a stone's throw away from the pristine beachfront, just 15 meters to be exact."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464458778.jpg?k=0561b1865e1cbedb94840d68d70215a74c42d4a184b2cd870bacf4eec37b8175&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-olympia-touristic-village-464458778.jpg"
 language: en
 slug: hotel-olympia-touristic-village
 address: "Radhima beach, 9426 Vlorë, Albania"

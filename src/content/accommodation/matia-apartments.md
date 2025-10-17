@@ -1,7 +1,7 @@
 ---
 title: "Matia Apartments"
 description: "Matia Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437219361.jpg?k=3c48da6447541a57dd89ac4ba83970c9404ef4606c8fad87f6e1e87605786a7f&o=&hp=1"
+featuredImage: "/images/accommodation/matia-apartments-437219361.jpg"
 language: en
 slug: matia-apartments
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Lord Byron"
 description: "Guesthouse Lord Byron in Tepelenë emerges as a serene retreat, offering a blend of comfort and natural beauty for travelers seeking a unique stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394559590.jpg?k=bc38e29f5009810009410c7b23743ffd7b09d6e6b7b6f533124864960195c2e8&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-lord-byron-394559590.jpg"
 language: en
 slug: guesthouse-lord-byron
 address: "Majkosh, Tepelene, 6301 Tepelenë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Family Joy Apartment"
 description: "Family Joy Apartment emerges as a prime choice for travelers seeking comfort and convenience in Orikum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491441667.jpg?k=750a956ff4b4ac25afa8b546510b58dbf5639540b238452db1b97d300b06fc85&o=&hp=1"
+featuredImage: "/images/accommodation/family-joy-apartment-491441667.jpg"
 language: en
 slug: family-joy-apartment
 address: "Rruga Kaonët, Orikum, Albania"

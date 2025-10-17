@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartment in the heart of Tirana"
 description: "Discover the charm of Tirana with a stay at the Lovely apartment, a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443498711.jpg?k=b6fb15d81e2df68a71c4704324b5d185bcc7570e2b89cb65cadc29eec562223e&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-in-the-heart-of-tirana-443498711.jpg"
 language: en
 slug: lovely-apartment-in-the-heart-of-tirana
 address: "KMY, Rruga Haxhi Hysen Dalliu, Tirana, 1000 Tirana, Albania"

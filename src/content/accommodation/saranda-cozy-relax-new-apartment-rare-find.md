@@ -1,7 +1,7 @@
 ---
 title: "Saranda Cozy Relax New Apartment-Rare Find"
 description: "Saranda Cozy Relax New Apartment-Rare Find stands out as a gem in the heart of Sarandë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450619067.jpg?k=53f95b78b5620f9b39372a21db8ae7f57011767c8285487169977cfee47326a9&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-cozy-relax-new-apartment-rare-find-450619067.jpg"
 language: en
 slug: saranda-cozy-relax-new-apartment-rare-find
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

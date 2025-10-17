@@ -1,7 +1,7 @@
 ---
 title: "TreA Accomodations - Roof Top On Beach"
 description: "TreA Accommodations - Roof Top On Beach stands out as a prime choice for travelers seeking a seamless blend of comfort and convenience right on the shores of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457490711.jpg?k=a8eff3148ccf75976e8f30952ab3008d4d064886188327f16c6e5eff889970c9&o=&hp=1"
+featuredImage: "/images/accommodation/trea-accomodations-roof-top-on-beach-457490711.jpg"
 language: en
 slug: trea-accomodations-roof-top-on-beach
 address: "Rr. Sazani, Vlorë, Albania"

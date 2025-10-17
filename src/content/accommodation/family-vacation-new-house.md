@@ -1,7 +1,7 @@
 ---
 title: "Family Vacation New House"
 description: "Family Vacation New House emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522952300.jpg?k=fef2319c758994fdc69afc75582cbd3690039de6ea437ba5d705d9296034f84d&o=&hp=1"
+featuredImage: "/images/accommodation/family-vacation-new-house-522952300.jpg"
 language: en
 slug: family-vacation-new-house
 address: "Rruga Venecia, 2008 Durrës, Albania"

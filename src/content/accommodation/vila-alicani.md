@@ -1,7 +1,7 @@
 ---
 title: "Vila Alicani"
 description: "Vila Alicani emerges as a serene retreat in Fier, positioned conveniently 37 km from the historic Independence Square and a mere 38 km from the picturesque Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491595476.jpg?k=fb763c5f033d5c5adcdc036ea1afd251d628bf454ce86c20afe506ccfecb9879&o=&hp=1"
+featuredImage: "/images/accommodation/vila-alicani-491595476.jpg"
 language: en
 slug: vila-alicani
 address: "Fieri 1, 9305 Fier, Albania"

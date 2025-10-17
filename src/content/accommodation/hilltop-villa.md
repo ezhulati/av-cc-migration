@@ -1,7 +1,7 @@
 ---
 title: "Hilltop Villa"
 description: "Hilltop Villa emerges as a serene oasis in the vibrant city of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491432345.jpg?k=9815e9dfe953767924ac6cb27257364f33bfc4ba82237cdf684bc22dfe63fc45&o=&hp=1"
+featuredImage: "/images/accommodation/hilltop-villa-491432345.jpg"
 language: en
 slug: hilltop-villa
 address: "Rruga Dhimiter Mole, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Brand New Apartment Gjirokaster"
 description: "Brand New Apartment Gjirokaster emerges as a modern retreat in the historic heart of Gjirokastër, situated a scenic drive away from the tranquil Zaravina Lake."
-featuredImage: "https://lh3.googleusercontent.com/-17oo5ht1_IM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucluoMa-0Jin5sbC_IqMn0aPt1Oe0A/s96-c/photo.jpg64"
+featuredImage: "/images/accommodation/brand-new-apartment-gjirokaster-photo.jpg64.jpg"
 language: en
 slug: brand-new-apartment-gjirokaster
 address: "Rruga Alqi Kondi Apartment 1st floor, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Avalona Apartment 1"
 description: "Avalona Apartment 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/avalona-apartment-1-29d5c93ac695.jpg"
 language: en
 slug: avalona-apartment-1
 address: "Rruga Gjergj Kastrioti, 1112 Vlorë, Albania"

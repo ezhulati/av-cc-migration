@@ -1,7 +1,7 @@
 ---
 title: "Vila Dura"
 description: "Vila Dura emerges as a charming retreat in the heart of Ksamil, a stone's throw away from the pristine shores of Ksamil Beach and the vibrant Coco Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/165697568.jpg?k=bfee893a8ac9c246c6caae7e73d61cc82a295717eda9d21d5fbb2d04543deda1&o=&hp=1"
+featuredImage: "/images/accommodation/vila-dura-165697568.jpg"
 language: en
 slug: vila-dura
 address: "Tafil Buzi & Riza Cerova 18, 9706 Ksamil, Albania"

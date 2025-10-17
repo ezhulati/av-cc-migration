@@ -1,7 +1,7 @@
 ---
 title: "DAGE Apartment"
 description: "DAGE Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491767379.jpg?k=bb98f2f5c3ba2963e536d14324d79a6f4848b22404c4fe6859f0a8acf1970aae&o=&hp=1"
+featuredImage: "/images/accommodation/dage-apartment-491767379.jpg"
 language: en
 slug: dage-apartment
 address: "11 Rruga 21, 1001 Tirana, Albania"

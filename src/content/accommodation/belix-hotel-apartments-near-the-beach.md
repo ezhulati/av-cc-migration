@@ -1,7 +1,7 @@
 ---
 title: "Belix Hotel Apartments, Near the Beach"
 description: "Belix Hotel Apartments, Near the Beach, emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520829468.jpg?k=7963d7b4035199e005a545df5be98deb9806017bb3169c8ccef60718c70ccfe5&o=&hp=1"
+featuredImage: "/images/accommodation/belix-hotel-apartments-near-the-beach-520829468.jpg"
 language: en
 slug: belix-hotel-apartments-near-the-beach
 address: "Rruga Toefik Skilja, 2001 Durrës, Albania"

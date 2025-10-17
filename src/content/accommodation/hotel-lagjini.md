@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lagjini"
 description: "Hotel Lagjini emerges as a serene retreat, offering breathtaking mountain views and a cozy stay just 36 km away from the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304172544.jpg?k=105d4889949b54e1fbc5a87f2ab5ce4aad7a9deabe2002231f49d001f8c1125c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-lagjini-304172544.jpg"
 language: en
 slug: hotel-lagjini
 address: "Sarande-Vlore, 9713 Lukovë, Albania"

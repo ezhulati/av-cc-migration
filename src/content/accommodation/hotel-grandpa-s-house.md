@@ -1,7 +1,7 @@
 ---
 title: "Hotel Grandpa's House"
 description: "Hotel Grandpa's House emerges as a charming retreat in Shkodër, situated a mere 45 km from the Port of Bar, offering a unique blend of comfort and leisure to its guests."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153759429.jpg?k=ca472635dc6e28c5abbdfb690f1c4cb99979923d173a503dc8d6feabf560eeb4&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-grandpa-s-house-153759429.jpg"
 language: en
 slug: hotel-grandpa-s-house
 address: "SH41 Shpija e Gjyshit, 4001 Shkodër, Albania"

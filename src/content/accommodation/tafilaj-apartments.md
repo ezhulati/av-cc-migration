@@ -1,7 +1,7 @@
 ---
 title: "Tafilaj Apartments"
 description: "Tafilaj Apartments stands as a prime beachfront destination in Durrës, offering guests an exceptional blend of convenience and scenic beauty just 38 km from Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72072734.jpg?k=3d17e4a53694f07d537719e6ec2f5ae717a396e1b6b45139082e6beaf9f8bd87&o=&hp=1"
+featuredImage: "/images/accommodation/tafilaj-apartments-72072734.jpg"
 language: en
 slug: tafilaj-apartments
 address: "Serafina Topia 3 (Rruga Orion), 2000 Durrës, Albania"

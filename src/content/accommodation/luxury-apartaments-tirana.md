@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartaments Tirana"
 description: "Luxury Apartments Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374802705.jpg?k=cf0d538877c2da6166f981165ed9f96454970aae9065618fe48ce4dcdb4843c5&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-apartaments-tirana-374802705.jpg"
 language: en
 slug: luxury-apartaments-tirana
 address: "Rruga Liqeni i Thate colombo 2 , floor 1 , nr 2, Tirana, Albania"

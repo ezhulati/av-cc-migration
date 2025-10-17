@@ -1,7 +1,7 @@
 ---
 title: "Zero Zero Apartments Sarande"
 description: "Zero Zero Apartments Sarande emerges as a prime choice for travelers seeking a beachfront oasis in Sarandë, just a stone's throw away from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306009909.jpg?k=6ed98dea7986032fc37704538d47b66e1bbd8607d071edf17e124a10bf1a1d48&o=&hp=1"
+featuredImage: "/images/accommodation/zero-zero-apartments-sarande-306009909.jpg"
 language: en
 slug: zero-zero-apartments-sarande
 address: "Mitat Hoxha Street, 9701 Sarandë, Albania"

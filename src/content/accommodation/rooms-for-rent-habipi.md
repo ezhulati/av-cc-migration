@@ -1,7 +1,7 @@
 ---
 title: "Rooms for rent habipi"
 description: "Rooms for Rent Habipi emerges as a refreshed haven in Vlorë, boasting recently renovated accommodations with a delightful kitchen and serene garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362620253.jpg?k=b17cbec66f4a193a8eb845e987f9721e0f194db684484a404dabb62915c08ff5&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-for-rent-habipi-362620253.jpg"
 language: en
 slug: rooms-for-rent-habipi
 address: "lagjia 1 maj rruga kanan maze, 9402 Vlorë, Albania"

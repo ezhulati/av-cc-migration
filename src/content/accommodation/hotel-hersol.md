@@ -1,7 +1,7 @@
 ---
 title: "HOTEL HERSOL"
 description: "Discover the charm of Durrës with a stay at HOTEL HERSOL, a prime destination for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380286134.jpg?k=ba3cc7776073c477adc81a656ccac59cb3f171012efc691a6ff565ff258aa715&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-hersol-380286134.jpg"
 language: en
 slug: hotel-hersol
 address: "Rruga Kasem Durresi, 2001 Durrës, Albania"

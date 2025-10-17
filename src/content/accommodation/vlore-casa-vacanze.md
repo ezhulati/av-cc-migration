@@ -1,7 +1,7 @@
 ---
 title: "Vlore Casa Vacanze"
 description: "Vlore Casa Vacanze emerges as a premier choice for travelers seeking a serene getaway in Vlorë, situated a mere 22 km from the iconic Kuzum Baba and Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317831041.jpg?k=2067ec8427950abaf1dc86eb74db334169a0ec6e28ca9dc4d7e1caf43faa3831&o=&hp=1"
+featuredImage: "/images/accommodation/vlore-casa-vacanze-317831041.jpg"
 language: en
 slug: vlore-casa-vacanze
 address: "rr.Vlore Tragjas, 9401 Vlorë, Albania"

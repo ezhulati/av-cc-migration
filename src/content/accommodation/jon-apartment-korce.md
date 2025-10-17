@@ -1,7 +1,7 @@
 ---
 title: "JON apartment KORCE"
 description: "JON Apartment KORCE emerges as a serene haven in the vibrant heart of Korçë, offering a unique blend of comfort and convenience for travelers seeking an exceptional stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263770907.jpg?k=e183f5a0a43626540c1be1bb2222984e947159658bd766d1d7e32a6c61452051&o=&hp=1"
+featuredImage: "/images/accommodation/jon-apartment-korce-263770907.jpg"
 language: en
 slug: jon-apartment-korce
 address: "ANASTAS LAKCE Apartment, 7000 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Aral Apartments Center"
 description: "Aral Apartments Center emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just a stone's throw away from the serene Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471645606.jpg?k=319f27176ca7477e1609c7e2f7cda12daf816c927484d789b70b04c188bbfe8b&o=&hp=1"
+featuredImage: "/images/accommodation/aral-apartments-center-471645606.jpg"
 language: en
 slug: aral-apartments-center
 address: "Rruga Shëngjin - Kune 2, 4503 Shëngjin, Albania"

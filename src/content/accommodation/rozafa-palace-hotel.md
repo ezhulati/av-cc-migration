@@ -1,7 +1,7 @@
 ---
 title: "Rozafa Palace Hotel"
 description: "Rozafa Palace Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373782978.jpg?k=0bdb1739e3d87ec172ea3fb6fc4361556e108da9b7bccd71870e770a91855111&o=&hp=1"
+featuredImage: "/images/accommodation/rozafa-palace-hotel-373782978.jpg"
 language: en
 slug: rozafa-palace-hotel
 address: "Rruga Butrinti, 9703 Sarandë, Albania"

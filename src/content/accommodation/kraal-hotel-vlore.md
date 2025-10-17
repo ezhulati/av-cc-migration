@@ -1,7 +1,7 @@
 ---
 title: "Kraal Hotel Vlore"
 description: "Kraal Hotel Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322840268.jpg?k=cf9488d098aeb47f0bad6370f9599859de919c96ed8633f502bc91e9185d3bf5&o=&hp=1"
+featuredImage: "/images/accommodation/kraal-hotel-vlore-322840268.jpg"
 language: en
 slug: kraal-hotel-vlore
 address: "Rruga Gavril Dara, 9401 Vlorë, Albania"

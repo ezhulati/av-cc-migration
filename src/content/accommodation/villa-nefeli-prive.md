@@ -1,7 +1,7 @@
 ---
 title: "Villa Nefeli Prive"
 description: "Villa Nefeli Prive emerges as a premier choice for travelers seeking an exclusive retreat in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/314336311.webp?k=20d01eb4d227e75c7b3f7f40bb943c45037d22e82ea8b9d0d838e115db0e402c&o=?t=1708887285"
+featuredImage: "/images/accommodation/villa-nefeli-prive-314336311.we.jpg"
 language: en
 slug: villa-nefeli-prive
 address: "Rruga Butrinti, Ksamil, 9706 Ksamil, Albania"

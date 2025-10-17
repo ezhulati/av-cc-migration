@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mesun Himare"
 description: "Hotel Mesun Himare emerges as a prime choice for travelers seeking both comfort and convenience, located just a stone's throw away from the serene Potam Beach and a short stroll from the picturesque Gjiri i Filikurit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310002072.jpg?k=469e43afc3c3bfc28c8839f74d31c932a707fd0404f20dee246d9c67d39631ff&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-mesun-himare-310002072.jpg"
 language: en
 slug: hotel-mesun-himare
 address: "Potam Mesun, 8888 Himare, Albania"

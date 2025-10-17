@@ -1,7 +1,7 @@
 ---
 title: "Eni Apartment"
 description: "Eni Apartment emerges as a serene retreat in the heart of Durrës, merely a stone's throw away from the pristine Currila Beach and a short stroll from the vibrant Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407131674.jpg?k=fd238d22a0184e85eb4685debe79d4f85923ff028c3efb1b63927c2a9f7aae0a&o=&hp=1"
+featuredImage: "/images/accommodation/eni-apartment-407131674.jpg"
 language: en
 slug: eni-apartment
 address: "Rruga Adrianet, 2001 Durrës, Albania"

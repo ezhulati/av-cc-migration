@@ -1,7 +1,7 @@
 ---
 title: "Marjana's Apartment 3"
 description: "Marjana's Apartment 3 emerges as a prime choice for travelers seeking comfort and convenience in Lezhë, just a short stroll from the pristine shores of Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456560602.jpg?k=ab02aa5383a7ff6e8b101ba34332f7a202bc0e8110c5c95b045ec5d4d38fefb9&o=&hp=1"
+featuredImage: "/images/accommodation/marjana-s-apartment-3-456560602.jpg"
 language: en
 slug: marjana-s-apartment-3
 address: "Shëngjin - Kune, 4503 Lezhë, Albania"

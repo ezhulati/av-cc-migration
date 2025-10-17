@@ -1,7 +1,7 @@
 ---
 title: "Johan's Apartment"
 description: "Johan's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528523542.jpg?k=6a236f24fee0bb7143d89c63d1f9a345f34c2c48713c3de085cc94d998e612c5&o=&hp=1"
+featuredImage: "/images/accommodation/johan-s-apartment-528523542.jpg"
 language: en
 slug: johan-s-apartment
 address: "Rruga Ismail Qemali, 1001 Tirana, Albania"

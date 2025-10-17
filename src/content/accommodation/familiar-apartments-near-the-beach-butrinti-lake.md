@@ -1,7 +1,7 @@
 ---
 title: "Familiar Apartments!Near the Beach & Butrinti Lake!"
 description: "Familiar Apartments located near the Beach & Butrinti Lake is a prime choice for travelers seeking a serene getaway in Ksamil, perfectly positioned close to the pristine Sunset Beach and Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434338856.jpg?k=377c6e4f3687b95225ac4075d5471ce8efaa8e9b378d80abc4afe8d601429038&o=&hp=1"
+featuredImage: "/images/accommodation/familiar-apartments-near-the-beach-butrinti-lake-434338856.jpg"
 language: en
 slug: familiar-apartments-near-the-beach-butrinti-lake
 address: "Rruga Bogova ,Ksamil, 9706 Ksamil, Albania"

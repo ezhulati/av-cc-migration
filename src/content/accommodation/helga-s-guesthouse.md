@@ -1,7 +1,7 @@
 ---
 title: "Helga's Guesthouse"
 description: "Helga's Guesthouse, located on the picturesque shores of Lin, stands out as a prime choice for travelers seeking a serene beachfront retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447999925.jpg?k=61d059acff5dc261e455cb491acfb56e13d6bf9f23ce57585402baf483fc729b&o=&hp=1"
+featuredImage: "/images/accommodation/helga-s-guesthouse-447999925.jpg"
 language: en
 slug: helga-s-guesthouse
 address: "Rruga e Linit,Lin,7301 Pogradec, 7301 Lin, Albania"

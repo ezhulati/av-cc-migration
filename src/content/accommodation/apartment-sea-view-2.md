@@ -1,7 +1,7 @@
 ---
 title: "Apartment sea view 2"
 description: "Apartment Sea View 2 stands as a prime choice for travelers seeking a blend of comfort and scenic beauty in Shëngjin."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+featuredImage: "/images/accommodation/apartment-sea-view-2-bebbb1d5ff29.jpg"
 language: en
 slug: apartment-sea-view-2
 address: "Shetitorja Willson Apartment, Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ble Alb"
 description: "Ble Alb emerges as a serene retreat in Udënisht, a mere 17 km away from the enchanting Ohrid Lake Springs, offering guests a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521058372.jpg?k=6c976934dd072a302296ebbef607910da85f74782f3e88e18e60028412a7aa9e&o=&hp=1"
+featuredImage: "/images/accommodation/ble-alb-521058372.jpg"
 language: en
 slug: ble-alb
 address: "SH3, Udënisht, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Xhipe"
 description: "Vila Xhipe emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332912577.jpg?k=e21d46e7ddfb3f74a040c4bafef427e3b66b9bd7a5bac423c9bdd1bb3e73c2fb&o=&hp=1"
+featuredImage: "/images/accommodation/vila-xhipe-332912577.jpg"
 language: en
 slug: vila-xhipe
 address: "Rruga Llazo Jorganxhi, 7001 Korçë, Albania"

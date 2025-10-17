@@ -1,7 +1,7 @@
 ---
 title: "Apartment on rent near the city center and near the lake of Tirana."
 description: "Discover the charm of Tirana from a prime location with the \"Apartment on Rent near the City Center and Lake of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496331092.jpg?k=c8bb10274a946618fa7a00c4acb671ead115792bf70ab40557019879fdd19c99&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-on-rent-near-the-city-center-and-near-the-lake-of-tirana-496331092.jpg"
 language: en
 slug: apartment-on-rent-near-the-city-center-and-near-the-lake-of-tirana
 address: "Rruga Frank Bardhi, Qendra Kristal center, godina B2, apartamenti 8/2, kati 2., 1000 Tirana, Albania"

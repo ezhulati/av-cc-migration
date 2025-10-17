@@ -1,7 +1,7 @@
 ---
 title: "Erli's Apartment"
 description: "Erli's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, just a stone's throw away from the serene Qerret Beach and a short drive from the picturesque Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483479326.jpg?k=08a70bc08655f51864d7e1bd5f804ddc209e1a91077159944c0cd608a366a21a&o=&hp=1"
+featuredImage: "/images/accommodation/erli-s-apartment-483479326.jpg"
 language: en
 slug: erli-s-apartment
 address: "Rruga Qerret Plazh, 2500 Golem, Albania"

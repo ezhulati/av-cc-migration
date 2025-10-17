@@ -1,7 +1,7 @@
 ---
 title: "Villa Center Ksamil"
 description: "Villa Center Ksamil emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465752532.jpg?k=61e9f070aea04c0f56cbd9b67555a8be79164186b19a1dcf89b2c4ae4f077531&o=&hp=1"
+featuredImage: "/images/accommodation/villa-center-ksamil-465752532.jpg"
 language: en
 slug: villa-center-ksamil
 address: "Road Baba Sherifi Ksamil, 9706 Ksamil, Albania"

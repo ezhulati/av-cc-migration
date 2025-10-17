@@ -1,7 +1,7 @@
 ---
 title: "Villa Mucho"
 description: "Villa Mucho stands as a beacon of comfort and convenience in Sarandë, merely 80 meters from the pristine Sarande Main Beach and a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68615633.jpg?k=6631a328a2d314f48f7eda00705abadab57c885a33d63d6c77c4e0f18779f6ab&o=&hp=1"
+featuredImage: "/images/accommodation/villa-mucho-68615633.jpg"
 language: en
 slug: villa-mucho
 address: "mitat hoxha street, 9700 Sarandë, Albania"

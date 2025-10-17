@@ -1,7 +1,7 @@
 ---
 title: "Hotel Flora"
 description: "Hotel Flora, situated in the heart of Çorovodë, stands out for its convenience and comfort, offering guests a serene stay with modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527892277.jpg?k=cadfdaa084ad14736c62b26da1593cf0544ce2d215d0fd6908eb4054b776f328&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-flora-527892277.jpg"
 language: en
 slug: hotel-flora
 address: "G64F+CWC, Çorovodë 5401, Shqipëri, 5401 Çorovodë, Albania"

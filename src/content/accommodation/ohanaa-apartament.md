@@ -1,7 +1,7 @@
 ---
 title: "Ohanaa Apartament"
 description: "Ohanaa Apartament emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/ohanaa-apartament-d321d61d78a8.jpg"
 language: en
 slug: ohanaa-apartament
 address: "Rruga Idriz Alidhima, Sarandë, Albania"

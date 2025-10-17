@@ -1,7 +1,7 @@
 ---
 title: "Sky 2 Hotel Tirana"
 description: "Sky 2 Hotel Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/28063480.jpg?k=637d5a12b81d5fe66f2ed144f90e0c8605e2179608c8d66898ecafd632739fe8&o=&hp=1"
+featuredImage: "/images/accommodation/sky-2-hotel-tirana-28063480.jpg"
 language: en
 slug: sky-2-hotel-tirana
 address: "Street Reshit Collaku 38, 1001 Tirana, Albania"

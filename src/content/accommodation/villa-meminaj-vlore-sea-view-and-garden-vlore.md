@@ -1,7 +1,7 @@
 ---
 title: "Villa Meminaj Vlore Sea view and Garden Vlore"
 description: "Villa Meminaj Vlore Sea View and Garden Vlore emerges as a serene retreat for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/villa-meminaj-vlore-sea-view-and-garden-vlore-d321d61d78a8.jpg"
 language: en
 slug: villa-meminaj-vlore-sea-view-and-garden-vlore
 address: "9402 Vlorë, Albania"

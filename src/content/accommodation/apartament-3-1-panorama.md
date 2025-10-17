@@ -1,7 +1,7 @@
 ---
 title: "APARTAMENT 3+1 PANORAMA"
 description: "APARTAMENT 3+1 PANORAMA emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397547169.jpg?k=3eee34f50d9cf1ee8401768c95a3431976a08fe9779cc25cc415ba66f802207d&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-3-1-panorama-397547169.jpg"
 language: en
 slug: apartament-3-1-panorama
 address: "Rruga Panorama, 1057 Tirana, Albania"

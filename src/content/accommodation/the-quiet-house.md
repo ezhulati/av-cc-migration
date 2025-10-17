@@ -1,7 +1,7 @@
 ---
 title: "The quiet house"
 description: "The Quiet House emerges as a serene retreat in Durrës, merely 600 meters from the inviting shores of Durres Beach and a stone's throw from the city's historical heart, standing 38 km from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491241918.jpg?k=ae9003d62598a8938e0ed81b434b9a43ac397f49f3cd4cf1586c4975b36aa9e1&o=&hp=1"
+featuredImage: "/images/accommodation/the-quiet-house-491241918.jpg"
 language: en
 slug: the-quiet-house
 address: "Rruga Daunia 87, 2001 Durrës, Albania"

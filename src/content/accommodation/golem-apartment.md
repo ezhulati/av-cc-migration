@@ -1,7 +1,7 @@
 ---
 title: "Golem Apartment"
 description: "Golem Apartment emerges as a prime choice for travelers seeking comfort and convenience a mere stone's throw from Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480992245.jpg?k=1a15d2dd6ba614f94358e375079f77a89a7cf0beb265cf842919566d3534e0fa&o=&hp=1"
+featuredImage: "/images/accommodation/golem-apartment-480992245.jpg"
 language: en
 slug: golem-apartment
 address: "Rruga Viena, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment ARTI"
 description: "Apartment ARTI, a recently revamped gem in Korçë, offers a serene garden setting for travelers seeking both tranquility and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515747856.jpg?k=3a50c20d9e8c9311cc11806437c66ce519d8e4e50810fe1801634e1e0b4cc135&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-arti-515747856.jpg"
 language: en
 slug: apartment-arti
 address: "Rruga Midhi Kostani, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Mare"
 description: "Villa Mare emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location in Vlorë, merely 700 meters from the inviting sands of Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390057605.jpg?k=0c7363feda9183ce5350364b3e9d6064ff43b4b610e347223d73fe05bb5ead5f&o=&hp=1"
+featuredImage: "/images/accommodation/villa-mare-390057605.jpg"
 language: en
 slug: villa-mare
 address: "Rruga Azem Sulo, 9400 Vlorë, Albania"

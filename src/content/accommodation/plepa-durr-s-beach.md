@@ -1,7 +1,7 @@
 ---
 title: "Plepa Durrës Beach"
 description: "Plepa Durrës Beach offers a refreshing retreat with its air-conditioned apartments boasting private balconies, perfectly positioned in the vibrant city of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476884987.jpg?k=77c03585bb4a18ddf9c09129b6a28f458801239de9739b712b8fa452f865e8a6&o=&hp=1"
+featuredImage: "/images/accommodation/plepa-durr-s-beach-476884987.jpg"
 language: en
 slug: plepa-durr-s-beach
 address: "Rruga Shkembi i Kavajes 3 floor, Durrës, Albania"

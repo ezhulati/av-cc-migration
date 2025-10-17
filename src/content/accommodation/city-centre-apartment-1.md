@@ -1,7 +1,7 @@
 ---
 title: "City Centre Apartment 1"
 description: "City Centre Apartment 1 stands as a beacon of comfort and convenience in the heart of Shkodër, merely 49 km away from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140694820.jpg?k=821a511528bc5c66ecaa580681744e22eb7b761c49bba4470b7f017e6ac2e525&o=&hp=1"
+featuredImage: "/images/accommodation/city-centre-apartment-1-140694820.jpg"
 language: en
 slug: city-centre-apartment-1
 address: "Rruga Besnik Sykja 10, 4001 Shkodër, Albania"

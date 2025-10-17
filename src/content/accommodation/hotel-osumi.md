@@ -1,7 +1,7 @@
 ---
 title: "Hotel Osumi"
 description: "Hotel Osumi stands out in Çorovodë, offering guests a blend of convenience and comfort with its on-site restaurant and bar."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/hotel-osumi-d3882ab9674d.jpg"
 language: en
 slug: hotel-osumi
 address: "Hotel Osumi Rruga Pasho Hysi, 5402 Çorovodë, Albania"

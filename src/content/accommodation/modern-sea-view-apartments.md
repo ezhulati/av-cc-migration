@@ -1,7 +1,7 @@
 ---
 title: "Modern Sea View Apartments"
 description: "Modern Sea View Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371363175.jpg?k=1bb64d76b842b4f95c323949bc650bc96aa95e0fa59ccc2bf9ab524caaf593aa&o=&hp=1"
+featuredImage: "/images/accommodation/modern-sea-view-apartments-371363175.jpg"
 language: en
 slug: modern-sea-view-apartments
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

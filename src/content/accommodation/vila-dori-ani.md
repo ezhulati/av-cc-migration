@@ -1,7 +1,7 @@
 ---
 title: "VILA DoRI ANI"
 description: "VILA DoRI ANI emerges as a prime choice for travelers seeking a serene retreat with the convenience of city proximity in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422238799.jpg?k=635cfded05b8ae5b8fb31126b79c63ee5cf0772ab5cd753abe14f83eacf9fa5c&o=&hp=1"
+featuredImage: "/images/accommodation/vila-dori-ani-422238799.jpg"
 language: en
 slug: vila-dori-ani
 address: "Rruga Konferenca e Bujanit, Tirana, Albania"

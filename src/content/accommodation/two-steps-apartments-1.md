@@ -1,7 +1,7 @@
 ---
 title: "Two Steps Apartments 1"
 description: "Two Steps Apartments 1 emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411131148.jpg?k=784ae9acf6ce62f2f67dcced40cbd9af0a7e35603edc4c59dbda1a4d32513757&o=&hp=1"
+featuredImage: "/images/accommodation/two-steps-apartments-1-411131148.jpg"
 language: en
 slug: two-steps-apartments-1
 address: "Rruga Tafaj in front of \"Partizani high school, 1001 Tirana, Albania"

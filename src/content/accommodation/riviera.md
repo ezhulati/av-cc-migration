@@ -1,7 +1,7 @@
 ---
 title: "Riviera"
 description: "Riviera stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from Vjetër Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357223067.jpg?k=9ba37de0a244364d1f4fd1d58a18e19df610c8c20ee46bd5c1c36ca59cfc934b&o=&hp=1"
+featuredImage: "/images/accommodation/riviera-357223067.jpg"
 language: en
 slug: riviera
 address: "Rr. Sazani, Vlorë, Albania"

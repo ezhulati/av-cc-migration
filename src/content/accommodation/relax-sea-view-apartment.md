@@ -1,7 +1,7 @@
 ---
 title: "Relax Sea View Apartment"
 description: "Relax Sea View Apartment emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the main beach and a short stroll from the vibrant Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427052924.jpg?k=4ff66a096fb1777d3611422bfb34d9d43d74d4fc0e88f54851a06c5c6be6e22a&o=&hp=1"
+featuredImage: "/images/accommodation/relax-sea-view-apartment-427052924.jpg"
 language: en
 slug: relax-sea-view-apartment
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Peraj Guesthouse"
 description: "Peraj Guesthouse, located in the serene Vermosh area, just 15 km from Gusinje, stands out as a prime choice for travelers seeking both adventure and relaxation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105202660.jpg?k=451969002351baff003114829e902047eec41e53f56a4e232709b154afdca22b&o=&hp=1"
+featuredImage: "/images/accommodation/peraj-guesthouse-105202660.jpg"
 language: en
 slug: peraj-guesthouse
 address: "Vermosh center, 3042 Vermosh, Albania"

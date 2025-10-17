@@ -1,7 +1,7 @@
 ---
 title: "Lovely seaview apartment in Himara"
 description: "Discover the charm of Himara with a stay at the Lovely Seaview Apartment, a prime beachfront property that promises breathtaking views and unparalleled comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493039263.jpg?k=bdea5f9fd5ec7cd9a1b9ffc3430f1abacd3a4fc492f1db996f046494f4a0a753&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-seaview-apartment-in-himara-493039263.jpg"
 language: en
 slug: lovely-seaview-apartment-in-himara
 address: "Himare, 9425 Himare, Albania"

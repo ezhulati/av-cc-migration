@@ -1,7 +1,7 @@
 ---
 title: "Lazaris kwstas Rooms"
 description: "Lazaris Kwstas Rooms emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368161284.jpg?k=efc1d940c0214e5450d6c9295e97837d2876d358d4032d4511a8294b62c655e6&o=&hp=1"
+featuredImage: "/images/accommodation/lazaris-kwstas-rooms-368161284.jpg"
 language: en
 slug: lazaris-kwstas-rooms
 address: "SH8 6, Stefanel. Himare., 9452 Himare, Albania"

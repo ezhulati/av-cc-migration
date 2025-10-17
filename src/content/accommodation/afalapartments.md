@@ -1,7 +1,7 @@
 ---
 title: "Afalapartments"
 description: "Afalapartments emerges as a prime choice for travelers seeking a serene getaway in Sarandë, perfectly positioned just a stone's throw away from Mango Beach and a leisurely stroll from Flamingo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468019752.jpg?k=33e1017c91c0fc9ba265973fb9c51b6e355c6579ad20a17f836ea21c099308bd&o=&hp=1"
+featuredImage: "/images/accommodation/afalapartments-468019752.jpg"
 language: en
 slug: afalapartments
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

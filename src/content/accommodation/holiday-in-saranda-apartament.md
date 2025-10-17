@@ -1,7 +1,7 @@
 ---
 title: "Holiday In Saranda Apartament"
 description: "Holiday In Saranda Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474282788.jpg?k=0ad78eba6542ff3d0c7238fb082a467a96a4efed35704e46f50581975f179af1&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-in-saranda-apartament-474282788.jpg"
 language: en
 slug: holiday-in-saranda-apartament
 address: "Rruga e Flamurit, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment -Charming One Bedroom At Komuna e Parisit"
 description: "Miku Apartment - Charming One Bedroom at Komuna e Parisit emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783620.jpg?k=a0e5ee1bdf4e305d4a7f159215bbd7ff4f455d5cd21bd1ed3fd37a04789c0024&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-charming-one-bedroom-at-komuna-e-parisit-513783620.jpg"
 language: en
 slug: miku-apartment-charming-one-bedroom-at-komuna-e-parisit
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

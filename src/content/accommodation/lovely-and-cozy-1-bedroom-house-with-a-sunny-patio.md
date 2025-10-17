@@ -1,7 +1,7 @@
 ---
 title: "Lovely and cozy 1-bedroom house with a sunny patio"
 description: "Discover the charm of a serene getaway at the Lovely and Cozy 1-Bedroom House, perfectly positioned 44 km from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456031150.jpg?k=a538c026e39487f452eef7286f519284554d6dc95d317da26f08a4abc1eec90a&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-and-cozy-1-bedroom-house-with-a-sunny-patio-456031150.jpg"
 language: en
 slug: lovely-and-cozy-1-bedroom-house-with-a-sunny-patio
 address: "Rruga Papakristo Negovani, 7001 Korçë, Albania"

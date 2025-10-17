@@ -1,7 +1,7 @@
 ---
 title: "Hotel Belvedere"
 description: "Hotel Belvedere stands out as a prime choice for travelers seeking comfort and convenience in Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376273865.jpg?k=7644a85c9be63fbbf416d015e7636081fb14bb5d7365fc66d01180969ed6698e&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-belvedere-376273865.jpg"
 language: en
 slug: hotel-belvedere
 address: "Rruga Unaza Hotel Belvedere, 7301 Pogradec, Albania"

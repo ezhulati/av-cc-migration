@@ -1,7 +1,7 @@
 ---
 title: "ECUADOR Resort"
 description: "ECUADOR Resort emerges as a serene oasis in Zvërnec, a stone's throw away from the pristine Narta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306094247.jpg?k=8e1311ec3ca09135464eadddf25a8bc538c1327be0d159c1d822f80eec13dbe3&o=&hp=1"
+featuredImage: "/images/accommodation/ecuador-resort-306094247.jpg"
 language: en
 slug: ecuador-resort
 address: "Rruga Zvërnec, 9401 Zvërnec, Albania"

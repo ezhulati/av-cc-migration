@@ -1,7 +1,7 @@
 ---
 title: "Guest House Mikel"
 description: "Guest House Mikel stands out as a charming retreat in the heart of Berat, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204559823.jpg?k=c8c2ce14dd48fc5afa3200e8bd00c224c18e66ae9be03b245e369888a16c300a&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-mikel-204559823.jpg"
 language: en
 slug: guest-house-mikel
 address: "Rruga Zoi Tola Rruga llambi goxhomani, 5001 Berat, Albania"

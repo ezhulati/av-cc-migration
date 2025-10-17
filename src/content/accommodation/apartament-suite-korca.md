@@ -1,7 +1,7 @@
 ---
 title: "Apartament Suite Korca"
 description: "Discover the charm of Korçë with a stay at Apartament Suite Korca, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166735395.jpg?k=372b0c90a017fdfc08a4b29c87cf43d744a7c8414810e2178725b121ae1bffd1&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-suite-korca-166735395.jpg"
 language: en
 slug: apartament-suite-korca
 address: "Rruga Floresha Myteveli, 7001 Korçë, Albania"

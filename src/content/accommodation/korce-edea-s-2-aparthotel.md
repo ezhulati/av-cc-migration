@@ -1,7 +1,7 @@
 ---
 title: "Korce Edea's 2 ApartHotel"
 description: "Korce Edea's 2 ApartHotel emerges as a prime choice for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494931812.jpg?k=73c4f9f04d7c0b017e41747b67c8c1002cf23b447129f086113a8dd013a8649c&o=&hp=1"
+featuredImage: "/images/accommodation/korce-edea-s-2-aparthotel-494931812.jpg"
 language: en
 slug: korce-edea-s-2-aparthotel
 address: "Rrugica Misto Mame Korce Albania, 7001 Korçë, Albania"

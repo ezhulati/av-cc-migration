@@ -1,7 +1,7 @@
 ---
 title: "Casa Del Mar"
 description: "Casa Del Mar emerges as a serene oasis in Ksamil, boasting an enviable location mere steps from the pristine sands of Ksamil Beach 9 and a short stroll from the idyllic Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459622408.jpg?k=7fe0bc145e8a7f376e54a30d25039e69e91f4df1debd03f9c7016fdf5f7952ae&o=&hp=1"
+featuredImage: "/images/accommodation/casa-del-mar-459622408.jpg"
 language: en
 slug: casa-del-mar
 address: "Rruga Çamëria, 9706 Ksamil, Albania"

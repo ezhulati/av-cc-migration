@@ -1,7 +1,7 @@
 ---
 title: "Luxury Condo Apartment @Air Albania Stadium"
 description: "Discover the epitome of urban living at Luxury Condo Apartment @Air Albania Stadium, a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357105355.jpg?k=146cf4a8afd4710f3ac2f3b79e98f72176856f40481042f31b5882ab154cb055&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-condo-apartment-air-albania-stadium-357105355.jpg"
 language: en
 slug: luxury-condo-apartment-air-albania-stadium
 address: "Rruga Sheh Ahmet Pazari Ambasador 3, Floor 14, Ap 107, 1000 Tirana, Albania"

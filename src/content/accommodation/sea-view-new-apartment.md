@@ -1,7 +1,7 @@
 ---
 title: "Sea View New Apartment"
 description: "Sea View New Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/sea-view-new-apartment-f69a0f45af41.jpg"
 language: en
 slug: sea-view-new-apartment
 address: "Rruga prane kompleksit Kamelia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartament in Blloku in front of Taiwan"
 description: "Luxury Apartment in Blloku, situated directly opposite the serene Taiwan Park, emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423195854.jpg?k=40fa93b17806b19ec809968d5a6a2ee2b5f6479b0fcc707af3bad1a322464747&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-apartament-in-blloku-in-front-of-taiwan-423195854.jpg"
 language: en
 slug: luxury-apartament-in-blloku-in-front-of-taiwan
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

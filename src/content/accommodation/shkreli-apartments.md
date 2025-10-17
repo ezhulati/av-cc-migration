@@ -1,7 +1,7 @@
 ---
 title: "Shkreli Apartments"
 description: "Shkreli Apartments, a gem in the heart of Sarandë, offers a blend of comfort and convenience following its recent renovation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429985698.jpg?k=243f3e47d199c5f391ccd33152221cb53fbec974fef9330f0050e585cef0bd10&o=&hp=1"
+featuredImage: "/images/accommodation/shkreli-apartments-429985698.jpg"
 language: en
 slug: shkreli-apartments
 address: "Rruga Teki Haderi, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kukësi Resort Aldo"
 description: "Kukësi Resort Aldo stands out as a premier destination for travelers seeking a blend of luxury and natural beauty, located just 23 km from the historic Cave Church Archangel Michael."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383300526.jpg?k=eada339b0f3d65d9626e30d3060cb2d82ead05b7c2127d30efef0e4b86377091&o=&hp=1"
+featuredImage: "/images/accommodation/kuk-si-resort-aldo-383300526.jpg"
 language: en
 slug: kuk-si-resort-aldo
 address: "Lin, Pogradec 7301, 7301 Lin, Albania"

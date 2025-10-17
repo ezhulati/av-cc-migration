@@ -1,7 +1,7 @@
 ---
 title: "Odeon Residence Vlore Apartment Inge"
 description: "Odeon Residence Vlore Apartment Inge emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482111231.jpg?k=56f15fd6dce2b41e4f7cc6e5943cafa185941a6a94dc0f901f714b28102fc28b&o=&hp=1"
+featuredImage: "/images/accommodation/odeon-residence-vlore-apartment-inge-482111231.jpg"
 language: en
 slug: odeon-residence-vlore-apartment-inge
 address: "RRUGA AMALI ANDONI, 9405 Vlorë, Albania"

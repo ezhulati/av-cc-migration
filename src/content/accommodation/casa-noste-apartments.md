@@ -1,7 +1,7 @@
 ---
 title: "Casa Noste Apartments"
 description: "Casa Noste Apartments emerges as a prime choice for travelers seeking the comfort of home in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321965393.jpg?k=51024fab0834ab3d437845affa711ad299468acbf5458ad3ae1bddfe20cc529d&o=&hp=1"
+featuredImage: "/images/accommodation/casa-noste-apartments-321965393.jpg"
 language: en
 slug: casa-noste-apartments
 address: "3rd Km Sarande- Butrint, Lagja 1,Vlora County, 9702 Sarandë, Albania"

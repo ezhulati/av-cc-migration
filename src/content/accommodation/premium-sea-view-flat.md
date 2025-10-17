@@ -1,7 +1,7 @@
 ---
 title: "Premium Sea View Flat"
 description: "Premium Sea View Flat in Velipojë stands out as a prime choice for travelers seeking comfort and convenience in a picturesque setting."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475559372.jpg?k=a39c075fe5d2bac2023a1fa2ab87d0042c55c7302c70e44f3c39c779ae40fc23&o=&hp=1"
+featuredImage: "/images/accommodation/premium-sea-view-flat-475559372.jpg"
 language: en
 slug: premium-sea-view-flat
 address: "Rr. Nr 10 , Kompleksi Fishta , Plazhe Velipoje . Apartment B1 , Floor 1 , Nr. 16 ., 4000 Velipojë, Albania"

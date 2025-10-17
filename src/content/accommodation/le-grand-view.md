@@ -1,7 +1,7 @@
 ---
 title: "LE GRAND VIEW"
 description: "Discover the charm of Vlorë with a stay at LE GRAND VIEW, a prime holiday home that promises a blend of comfort and convenience less than a kilometer from Ri Beach and a short distance from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356791911.jpg?k=8ca8e1211d6cf6aede1767e5817704a01a6e9992ef31365d23047e831f32f46a&o=&hp=1"
+featuredImage: "/images/accommodation/le-grand-view-356791911.jpg"
 language: en
 slug: le-grand-view
 address: "Rruga Petro Marko, 9400 Vlorë, Albania"

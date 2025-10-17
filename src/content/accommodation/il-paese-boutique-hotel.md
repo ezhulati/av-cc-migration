@@ -1,7 +1,7 @@
 ---
 title: "Il Paese Boutique Hotel"
 description: "Il Paese Boutique Hotel emerges as a serene oasis, located just 20 km away from the bustling Skanderbeg Square in Peza e Madhe, offering a unique blend of comfort and elegance for travelers seeking a tranquil retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473446408.jpg?k=884ea855e1b668a0f9be2e24cc4cb3054817d6793d00a68e6904d0d80605aff8&o=&hp=1"
+featuredImage: "/images/accommodation/il-paese-boutique-hotel-473446408.jpg"
 language: en
 slug: il-paese-boutique-hotel
 address: "Rruga Dorzit, 1038 Peza e Madhe, Albania"

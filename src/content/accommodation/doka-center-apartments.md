@@ -1,7 +1,7 @@
 ---
 title: "Doka Center Apartments"
 description: "Doka Center Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205862924.jpg?k=e81d33f033212c49e610b6f8711bc26296cc7934f44caad9fbc0b0acd2b72840&o=&hp=1"
+featuredImage: "/images/accommodation/doka-center-apartments-205862924.jpg"
 language: en
 slug: doka-center-apartments
 address: "Road \" Skenderbeu & Thoma Spiro \" Sarande Number building 71, 9701 Sarandë, Albania"

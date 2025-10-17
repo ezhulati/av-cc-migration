@@ -1,7 +1,7 @@
 ---
 title: "Hotel Borklad"
 description: "Hotel Borklad emerges as a standout choice for travelers seeking both comfort and convenience in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309825243.jpg?k=998b542b0022a786b46e810225549fa09730be5a039429c96a822c260783dd5b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-borklad-309825243.jpg"
 language: en
 slug: hotel-borklad
 address: "Rruga Kostaq Stefa, 5001 Berat, Albania"

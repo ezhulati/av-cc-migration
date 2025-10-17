@@ -1,7 +1,7 @@
 ---
 title: "Joen Guesthouse"
 description: "Joen Guesthouse emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317583452.jpg?k=254e08b8f0f575b1c92b034f6e64158fff4cc83d366dfde9357c29706781d3af&o=&hp=1"
+featuredImage: "/images/accommodation/joen-guesthouse-317583452.jpg"
 language: en
 slug: joen-guesthouse
 address: "Rruga Lefter Talo Apartament nr 65, Sarandë, Albania"

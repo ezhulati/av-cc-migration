@@ -1,7 +1,7 @@
 ---
 title: "Private Studio Sea View 2 minutes away from beach"
 description: "Private Studio Sea View, merely a stone's throw from Saranda City Beach, offers guests a unique blend of convenience and scenic beauty, with its prime location just 400 meters from the shoreline."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/206898762.jpg?k=fa74537fe772c4e041fa889cb3ffc6b8e27d16ec1712eb8285900caaa5bbc764&o=&hp=1"
+featuredImage: "/images/accommodation/private-studio-sea-view-2-minutes-away-from-beach-206898762.jpg"
 language: en
 slug: private-studio-sea-view-2-minutes-away-from-beach
 address: "rruga Lefter Talo nr.161, 9701 Sarandë, Albania"

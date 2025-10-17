@@ -1,7 +1,7 @@
 ---
 title: "Apartament Emiri Golem"
 description: "Discover the serene charm of Apartament Emiri Golem, a prime destination for travelers seeking both tranquility and convenience in the heart of Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/220646267.webp?k=63755a1eed636b4a10603102751414f0b39b6211300fe79b3870565d59af4cfb&o=?t=1683380908"
+featuredImage: "/images/accommodation/apartament-emiri-golem-220646267.we.jpg"
 language: en
 slug: apartament-emiri-golem
 address: "Rruga Plazhit, Kompleksi \"AlbAdriatik\" , Kati1, Ap.11, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "My view"
 description: "Discover the charm of Orikum from the comfort of \"My View,\" a serene property that boasts a lush garden and an inviting terrace."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421258216.jpg?k=f45664371a64e83f8335ec9db557934c19b9f312dde8b84db52d9c9d5ce3d3db&o=&hp=1"
+featuredImage: "/images/accommodation/my-view-421258216.jpg"
 language: en
 slug: my-view
 address: "Rruga Orikum, 9426 Orikum, Albania"

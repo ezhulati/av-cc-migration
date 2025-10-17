@@ -1,7 +1,7 @@
 ---
 title: "Apartament Rent"
 description: "Apartament Rent emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459687859.jpg?k=8c64dbc5d26d6bd4be813d7cccb72b1da2346f034134c57a2bd67d800539d0b2&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-rent-459687859.jpg"
 language: en
 slug: apartament-rent
 address: "Rruga 4 Dëshmorët, Tirana, Albania"

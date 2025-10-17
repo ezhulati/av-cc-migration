@@ -1,7 +1,7 @@
 ---
 title: "Rafa's apartment"
 description: "Rafa's Apartment in Qeparo presents a serene retreat for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520185531.jpg?k=5c617bb78529ab3919444b4d91c368ce899e5f2c53422ef8a256944127a94404&o=&hp=1"
+featuredImage: "/images/accommodation/rafa-s-apartment-520185531.jpg"
 language: en
 slug: rafa-s-apartment
 address: "Qeparo, 9416 Qeparo, Albania"

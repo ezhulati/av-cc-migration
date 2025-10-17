@@ -1,7 +1,7 @@
 ---
 title: "Apartment Pisha"
 description: "Apartment Pisha stands out as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149777560.jpg?k=ea20bc1dc76fbd25a6f9477e439ada041e3afbd7cd34d49f4484b1c1750276a5&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-pisha-149777560.jpg"
 language: en
 slug: apartment-pisha
 address: "L. Nr. 13, 2001 Durrës, Albania"

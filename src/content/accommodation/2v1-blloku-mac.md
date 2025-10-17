@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Blloku MAC"
 description: "Discover the charm of Tirana with a stay at 2V1 - Blloku MAC, a prime apartment that places guests at the heart of the city's vibrant history and culture."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192005283.jpg?k=e287c64a5171a9ee076dc5bf49849ba3b21fdb383afb5cf2bf88d9cb375419e0&o=&hp=1"
+featuredImage: "/images/accommodation/2v1-blloku-mac-192005283.jpg"
 language: en
 slug: 2v1-blloku-mac
 address: "Rruga Sami Frashëri Pallatet Agimi, 1001 Tirana, Albania"

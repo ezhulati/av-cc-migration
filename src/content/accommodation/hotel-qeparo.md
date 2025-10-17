@@ -1,7 +1,7 @@
 ---
 title: "Hotel Qeparo"
 description: "Hotel Qeparo emerges as a prime choice for travelers seeking a serene getaway, located just a stone's throw away from the pristine Qeparo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301158066.jpg?k=c347eed04d8d5022c5de91cb810421689d1045145580527e4a7104b67dfd8845&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-qeparo-301158066.jpg"
 language: en
 slug: hotel-qeparo
 address: "Mihal Lami 57/1 Qeparo Himare, 9416 Qeparo, Albania"

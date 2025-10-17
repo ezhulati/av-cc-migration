@@ -1,7 +1,7 @@
 ---
 title: "Eagle’s Nest"
 description: "Eagle’s Nest stands out as a serene retreat in Shkodër, offering breathtaking mountain views alongside modern conveniences such as complimentary WiFi and private parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326204946.jpg?k=06848abb264d3afb11fdfda03af70e6aa076a91715bb1c67c28e15e17cab84ae&o=&hp=1"
+featuredImage: "/images/accommodation/eagle-s-nest-326204946.jpg"
 language: en
 slug: eagle-s-nest
 address: "Rruga Vladimir Jani, 4001 Shkodër, Albania"

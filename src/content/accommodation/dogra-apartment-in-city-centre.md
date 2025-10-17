@@ -1,7 +1,7 @@
 ---
 title: "Dogra Apartment In City Centre"
 description: "Dogra Apartment In City Centre, a recently updated gem in Berat, offers a blend of modern amenities and privacy that stands out in the city's accommodation scene."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502056927.jpg?k=61fab53b8de8361516deafa6d563ca088cadd9f4a0fcfd581ce9b36acb73a382&o=&hp=1"
+featuredImage: "/images/accommodation/dogra-apartment-in-city-centre-502056927.jpg"
 language: en
 slug: dogra-apartment-in-city-centre
 address: "Rruga Uzgurliu, 5001 Berat, Albania"

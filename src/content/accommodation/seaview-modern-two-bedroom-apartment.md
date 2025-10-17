@@ -1,7 +1,7 @@
 ---
 title: "SeaView Modern Two Bedroom Apartment"
 description: "SeaView Modern Two Bedroom Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427740670.jpg?k=695e21f80bf4f88c51605e7778a9cfa87151085a6b7b1636ff0ba665910448fb&o=&hp=1"
+featuredImage: "/images/accommodation/seaview-modern-two-bedroom-apartment-427740670.jpg"
 language: en
 slug: seaview-modern-two-bedroom-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

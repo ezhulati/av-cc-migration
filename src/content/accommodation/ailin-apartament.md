@@ -1,7 +1,7 @@
 ---
 title: "Ailin apartament"
 description: "Ailin Apartment emerges as a prime choice for travelers seeking a serene getaway in Sarandë, located a mere 400 meters from the inviting Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526425343.jpg?k=ca8767eee41817a43e659eab3a7498f796efb0249f09e497cccfd9d2cd4a9dc3&o=&hp=1"
+featuredImage: "/images/accommodation/ailin-apartament-526425343.jpg"
 language: en
 slug: ailin-apartament
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

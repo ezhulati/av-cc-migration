@@ -1,7 +1,7 @@
 ---
 title: "Duemme House"
 description: "Discover the charm of Duemme House, a serene getaway located in the heart of Korçë, just a stone's throw away from the historic Monastery Saint Naum and the pristine Ohrid Lake Springs, both situated 44 km from the property."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508139204.jpg?k=28b36e4f33f7b6da544c7823cb289a73d473fd7d442d3b3366ae01ff31c37eb9&o=&hp=1"
+featuredImage: "/images/accommodation/duemme-house-508139204.jpg"
 language: en
 slug: duemme-house
 address: "KORCE, KORCE, Rr.: VIKTOR EFTIMIU, Nd.: 30, Nr. ap.: 14, Korçë, Albania"

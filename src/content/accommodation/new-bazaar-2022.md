@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar 2022"
 description: "New Bazaar 2022 emerges as a serene haven in the vibrant heart of Tirana, offering discerning travelers an escape into tranquility amidst the city's bustling streets."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361374296.jpg?k=abae2baaa96b0685b8426b522d6c879f783533ca3e62c7539fe2890b86ae0b9b&o=&hp=1"
+featuredImage: "/images/accommodation/new-bazaar-2022-361374296.jpg"
 language: en
 slug: new-bazaar-2022
 address: "Rruga Manol Konomi, 1003 Tirana, Albania"

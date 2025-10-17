@@ -1,7 +1,7 @@
 ---
 title: "Private house"
 description: "Discover the serene beauty of Private House, a charming holiday home offering breathtaking garden views and a tranquil setting just 27 km from the historic Monastery of Saint George the Victorious."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498263832.jpg?k=76f1c996a115316b7fd7877e9e841faffd545581b235f67d1f9e97bb894b98b8&o=&hp=1"
+featuredImage: "/images/accommodation/private-house-498263832.jpg"
 language: en
 slug: private-house
 address: "Ilnicë, 8303 Ilnicë, Albania"

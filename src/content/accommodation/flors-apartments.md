@@ -1,7 +1,7 @@
 ---
 title: "Flors Apartments"
 description: "Flors Apartments emerges as a modern oasis right on the doorstep of Durres Beach, offering a refreshing blend of convenience and comfort for travelers seeking a beachfront retreat in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373644355.jpg?k=4ae47961407dfddc48c532b3795e64f98f64e6c13c69ca2486df2d4e3f04ba4f&o=&hp=1"
+featuredImage: "/images/accommodation/flors-apartments-373644355.jpg"
 language: en
 slug: flors-apartments
 address: "Rruga Venecia, 2000 Durrës, Albania"

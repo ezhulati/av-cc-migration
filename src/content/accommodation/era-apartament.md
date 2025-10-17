@@ -1,7 +1,7 @@
 ---
 title: "Era Apartament"
 description: "Era Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short 400-meter stroll from the vibrant Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493137015.jpg?k=27a6cd71331c0e5c0fb8955fc6c318ba2fa4fd4f7764c6aec94d6f2bb1fbef32&o=&hp=1"
+featuredImage: "/images/accommodation/era-apartament-493137015.jpg"
 language: en
 slug: era-apartament
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

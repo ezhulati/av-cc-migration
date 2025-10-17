@@ -1,7 +1,7 @@
 ---
 title: "SUNLIT HOUSE City Center"
 description: "SUNLIT HOUSE City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297338311.jpg?k=161e760c0194635c8510041171d0562428c9880f3ba4f1f1785a9639358c6c0e&o=&hp=1"
+featuredImage: "/images/accommodation/sunlit-house-city-center-297338311.jpg"
 language: en
 slug: sunlit-house-city-center
 address: "5 Rruga Mahmut Fortuzi, 1017 Tirana, Albania"

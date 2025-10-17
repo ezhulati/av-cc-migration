@@ -1,7 +1,7 @@
 ---
 title: "Cosy Fully Furnished Apartment"
 description: "Cosy Fully Furnished Apartment in Tirana presents an inviting retreat for travelers seeking the comfort of home with the convenience of a prime location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401887917.jpg?k=b678f80113c83af06aab761eeeaa5e351aabe6426a43ef48856234d1dde87b3e&o=&hp=1"
+featuredImage: "/images/accommodation/cosy-fully-furnished-apartment-401887917.jpg"
 language: en
 slug: cosy-fully-furnished-apartment
 address: "Rruga Sitki Çiço / Building 10 / floor 4 / apartment 11, Tirana, Albania"

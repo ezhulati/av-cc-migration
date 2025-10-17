@@ -1,7 +1,7 @@
 ---
 title: "Mrizi i Zanave Agroturizëm"
 description: "Mrizi i Zanave Agroturizëm emerges as a serene retreat in the heart of Lezhë, a mere stone's throw away from the historic Rozafa Castle Shkodra and the tranquil Lake Skadar, both within a 32 km radius."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204150584.jpg?k=45ae9f220d636cfe3dd187c0b5621aa50bff34ec57bdb4940cbac5ce7ce3b5e3&o=&hp=1"
+featuredImage: "/images/accommodation/mrizi-i-zanave-agroturiz-m-204150584.jpg"
 language: en
 slug: mrizi-i-zanave-agroturiz-m
 address: "Fishtë Blinisht, 4505 Lezhë, Albania"

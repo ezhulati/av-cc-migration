@@ -1,7 +1,7 @@
 ---
 title: "Tirana Lake View w/ 24 Check In"
 description: "Tirana Lake View w/ 24 Check-In emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495602.jpg?k=c8a026f92fd186ba47fc6c6bb2cc9c9ed08841e6f345da69bdcbafcbb47536b7&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-lake-view-w-24-check-in-512495602.jpg"
 language: en
 slug: tirana-lake-view-w-24-check-in
 address: "Rruga e Kosovarëve Building no.35, Tirana, Albania"

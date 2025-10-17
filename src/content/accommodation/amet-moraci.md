@@ -1,7 +1,7 @@
 ---
 title: "Amet moraci"
 description: "Amet Moraci emerges as a serene retreat in Dukat, positioned a mere 37 km from the historic Independence Square and just a stone's throw away from Kuzum Baba at 36 km."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490447669.jpg?k=efe66c84e7fa57a1e0f2f702bd7b250850d99ce142e6f08fa3eb099ca64ca7cd&o=&hp=1"
+featuredImage: "/images/accommodation/amet-moraci-490447669.jpg"
 language: en
 slug: amet-moraci
 address: "Dukat fshat albania, Dukat, Albania"

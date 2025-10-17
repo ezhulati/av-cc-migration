@@ -1,7 +1,7 @@
 ---
 title: "Renata Seaview Apartment 310"
 description: "Renata Seaview Apartment 310 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518084450.jpg?k=c2b52f45cd2c5ea1eccf48eb19b2c08711af72fbd52aba8d71bff5a1757f3f54&o=&hp=1"
+featuredImage: "/images/accommodation/renata-seaview-apartment-310-518084450.jpg"
 language: en
 slug: renata-seaview-apartment-310
 address: "Rruga Agaveve, 2001 Durrës, Albania"

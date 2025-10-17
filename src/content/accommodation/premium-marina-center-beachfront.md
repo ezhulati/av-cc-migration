@@ -1,7 +1,7 @@
 ---
 title: "Premium , Marina , Center , Beachfront"
 description: "Premium, Marina, Center, Beachfront emerges as a standout choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527784734.jpg?k=8f8bbf99df33dc66dbda2503fe97a18b9267b63ebfd25cf8489de7021ace170d&o=&hp=1"
+featuredImage: "/images/accommodation/premium-marina-center-beachfront-527784734.jpg"
 language: en
 slug: premium-marina-center-beachfront
 address: "Rruga Taulantia, 2001 Durrës, Albania"

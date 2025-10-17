@@ -1,7 +1,7 @@
 ---
 title: "Gogo's Boutique Hotel"
 description: "Gogo's Boutique Hotel, located a mere 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373832954.jpg?k=c5c1129331da52aa90e0832bc853855c6c84cbdb50d50098b0dd7feea6f0df8e&o=&hp=1"
+featuredImage: "/images/accommodation/gogo-s-boutique-hotel-373832954.jpg"
 language: en
 slug: gogo-s-boutique-hotel
 address: "68 Rruga Perivolo, 9422 Dhërmi, Albania"

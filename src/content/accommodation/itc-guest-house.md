@@ -1,7 +1,7 @@
 ---
 title: "ITC Guest House"
 description: "ITC Guest House, located in the heart of Shkodër within the Shkoder County region, presents a serene garden oasis for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376420097.jpg?k=0e639ae2b8f3473a4bb1ac62f803ad7a6682ba1f2e1f8f02ea00a5fe21ff5030&o=&hp=1"
+featuredImage: "/images/accommodation/itc-guest-house-376420097.jpg"
 language: en
 slug: itc-guest-house
 address: "Rruga Daut Borici, above the Focus Bar, 4001 Shkodër, Albania"

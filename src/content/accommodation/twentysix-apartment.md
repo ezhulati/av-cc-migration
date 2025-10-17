@@ -1,7 +1,7 @@
 ---
 title: "Twentysix Apartment"
 description: "Twentysix Apartment emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364941694.jpg?k=d35ded0d63b69c1f7163b1916c40423fa67345f053f073690c294216bc47a588&o=&hp=1"
+featuredImage: "/images/accommodation/twentysix-apartment-364941694.jpg"
 language: en
 slug: twentysix-apartment
 address: "Rruga Dragushej, 4000 Shkodër, Albania"

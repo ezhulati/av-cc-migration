@@ -1,7 +1,7 @@
 ---
 title: "Hidden Gem In the Center Of Tirana"
 description: "Hidden Gem In the Center Of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/hidden-gem-in-the-center-of-tirana-315f92289c48.jpg"
 language: en
 slug: hidden-gem-in-the-center-of-tirana
 address: "Rruga e Barrikadave, 1018 Tirana, Albania"

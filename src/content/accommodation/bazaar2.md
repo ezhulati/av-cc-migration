@@ -1,7 +1,7 @@
 ---
 title: "@Bazaar2"
 description: "Discover the charm of Tirana with a stay at @Bazaar2, a prime location that places guests in the heart of the city's vibrant culture and history."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452495074.jpg?k=c360828fc6661acd165e9639e90f77c8611da301f16a27223e2af91432e94def&o=&hp=1"
+featuredImage: "/images/accommodation/bazaar2-452495074.jpg"
 language: en
 slug: bazaar2
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

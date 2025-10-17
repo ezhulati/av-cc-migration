@@ -1,7 +1,7 @@
 ---
 title: "Apartment Elena-1"
 description: "Apartment Elena-1 stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-y/ea90dc6a44b984e60291f9db43e96ddfa72b1aef.png"
+featuredImage: "/images/accommodation/apartment-elena-1-ea90dc6a44b9.jpg"
 language: en
 slug: apartment-elena-1
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

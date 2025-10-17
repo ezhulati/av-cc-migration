@@ -1,7 +1,7 @@
 ---
 title: "Modern Apartment at Blloku Area"
 description: "Modern Apartment at Blloku Area emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404078083.jpg?k=bee243b37c3757d992f3265f29be92bf90536ba06da383d3b364675ed53809d5&o=&hp=1"
+featuredImage: "/images/accommodation/modern-apartment-at-blloku-area-404078083.jpg"
 language: en
 slug: modern-apartment-at-blloku-area
 address: "Rruga Vaso Pasha 14 , Entry 1 Apartment 5, 1001 Tirana, Albania"

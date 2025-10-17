@@ -1,7 +1,7 @@
 ---
 title: "Zilla Apartment Luxury"
 description: "Discover the epitome of comfort and convenience at Zilla Apartment Luxury, a prime choice for travelers seeking a blend of luxury and location in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409601212.jpg?k=ff5b57fd20c69f7f9f02794bab30f7bb65c1217439270bf971ac594db488d810&o=&hp=1"
+featuredImage: "/images/accommodation/zilla-apartment-luxury-409601212.jpg"
 language: en
 slug: zilla-apartment-luxury
 address: "Rruga Mulla Xhaferri, 1000 Vlorë, Albania"

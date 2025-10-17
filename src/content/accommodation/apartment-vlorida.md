@@ -1,7 +1,7 @@
 ---
 title: "Apartment Vlorida"
 description: "Apartment Vlorida emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372798531.jpg?k=fb5ea45a11f4af5b219317e118eab7389c5d5c47dd9486c5f35c311452140640&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-vlorida-372798531.jpg"
 language: en
 slug: apartment-vlorida
 address: "Rruga Murat Tërbaçi nd. 121 ap 28, 9405 Vlorë, Albania"

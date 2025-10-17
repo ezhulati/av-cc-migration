@@ -1,7 +1,7 @@
 ---
 title: "Florindas Apartment Qerret"
 description: "Florindas Apartment Qerret emerges as a charming choice for travelers seeking a serene beachfront escape in Golem."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/florindas-apartment-qerret-f69a0f45af41.jpg"
 language: en
 slug: florindas-apartment-qerret
 address: "Rruga Qerret Plazh, 2405 Golem, Albania"

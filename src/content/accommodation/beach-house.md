@@ -1,7 +1,7 @@
 ---
 title: "Beach House"
 description: "Beach House emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned within the charming locale of Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467506911.jpg?k=3c2335096a27e172347473efc5d18afa9349f9423ec487328a0652eed1224195&o=&hp=1"
+featuredImage: "/images/accommodation/beach-house-467506911.jpg"
 language: en
 slug: beach-house
 address: "Rruga Liria, Golem, Albania"

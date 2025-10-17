@@ -1,7 +1,7 @@
 ---
 title: "Hotel Erandi"
 description: "Hotel Erandi emerges as a prime choice for travelers seeking comfort and convenience in Rinas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478282358.jpg?k=989d43511a4a1800fd6b0212ab12ccf5df80dae28a850423489b211e3804f18d&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-erandi-478282358.jpg"
 language: en
 slug: hotel-erandi
 address: "Rruga Nacionale Tiranë - FushëKrujë, Nikël, 1502 Rinas, Albania"

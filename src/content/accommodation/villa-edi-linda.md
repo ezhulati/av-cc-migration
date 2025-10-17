@@ -1,7 +1,7 @@
 ---
 title: "Villa Edi&Linda"
 description: "Villa Edi&Linda emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine sands of Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468290245.jpg?k=1414a6e815f8ecbccabfd001efa6f638a12d33b2b5765dc1db6e50bcdf59b81b&o=&hp=1"
+featuredImage: "/images/accommodation/villa-edi-linda-468290245.jpg"
 language: en
 slug: villa-edi-linda
 address: "Rruga Naim Frasheri, (Perball Kalcetos), 9999 Ksamil, Albania"

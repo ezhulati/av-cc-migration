@@ -1,7 +1,7 @@
 ---
 title: "Lusi's apartment"
 description: "Lusi's Apartment emerges as a serene retreat in Pogradec, perfectly positioned just a short drive from the enchanting Ohrid Lake Springs and the intriguing Bay of Bones."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522174259.jpg?k=38d2c211a81948caaac731e5d86948fa731e3482000a9cf8eaef27eb6203e8c1&o=&hp=1"
+featuredImage: "/images/accommodation/lusi-s-apartment-522174259.jpg"
 language: en
 slug: lusi-s-apartment
 address: "Rruga e Stadiumit, 7301 Pogradec, Albania"

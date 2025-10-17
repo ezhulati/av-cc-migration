@@ -1,7 +1,7 @@
 ---
 title: "LAIOLA APARTMENT"
 description: "LAIOLA APARTMENT emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366468825.jpg?k=3b07fb7f605c3f34ea08bf5246313cd6feabc4fa5ad996c77eee5f6fea0c7b60&o=&hp=1"
+featuredImage: "/images/accommodation/laiola-apartment-366468825.jpg"
 language: en
 slug: laiola-apartment
 address: "Rruga Sami Frashëri Ndertesa nr 12 Perballe Drejtorise se policise Kati i dyte., 1004 Tirana, Albania"

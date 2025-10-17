@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nordic AL"
 description: "Hotel Nordic AL emerges as a serene oasis in the bustling heart of Tirana, merely 3."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510993889.jpg?k=4fcf0d8d95cf8321498948bcf93a97ace73a412b6de591eda2c2f2cda92c3552&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-nordic-al-510993889.jpg"
 language: en
 slug: hotel-nordic-al
 address: "15 Rruga Lord Bajron Hotel Nordic AL, 1001 Tirana, Albania"

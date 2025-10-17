@@ -1,7 +1,7 @@
 ---
 title: "Aleks Crystal Duplex"
 description: "Aleks Crystal Duplex emerges as a serene retreat in the vibrant heart of Sarandë, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445804.jpg?k=238847890785aa4144eb02b82555a824456b3bf1fca0cbad225379c4205cc97a&o=&hp=1"
+featuredImage: "/images/accommodation/aleks-crystal-duplex-495445804.jpg"
 language: en
 slug: aleks-crystal-duplex
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

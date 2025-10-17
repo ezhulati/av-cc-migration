@@ -1,7 +1,7 @@
 ---
 title: "Klei’s Daily Apartment"
 description: "Klei’s Daily Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476370635.jpg?k=2d99e723f14d52cbc320918866fae43d2a937d20ef087c87c76fefa853de514b&o=&hp=1"
+featuredImage: "/images/accommodation/klei-s-daily-apartment-476370635.jpg"
 language: en
 slug: klei-s-daily-apartment
 address: "Rruga Kristaq Capo, 1000 Tirana, Albania"

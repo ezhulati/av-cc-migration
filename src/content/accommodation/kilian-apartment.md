@@ -1,7 +1,7 @@
 ---
 title: "Kilian Apartment"
 description: "Kilian Apartment emerges as a serene retreat in the heart of Shkodër, offering guests a slice of comfort with its air-conditioned spaces and private balcony views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522080269.jpg?k=253aee581a5152884c1c2bf4ff56a481a3614b30f8de94c87df2f8d9109fef02&o=&hp=1"
+featuredImage: "/images/accommodation/kilian-apartment-522080269.jpg"
 language: en
 slug: kilian-apartment
 address: "E762, 4001 Shkodër, Albania"

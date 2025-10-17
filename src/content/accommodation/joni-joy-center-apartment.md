@@ -1,7 +1,7 @@
 ---
 title: "Joni & Joy Center Apartment"
 description: "Joni & Joy Center Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347089012.jpg?k=c128e695a9c48e66c5eb20548a1724fb37e036fb6eb0730aa14cc16b20f2044b&o=&hp=1"
+featuredImage: "/images/accommodation/joni-joy-center-apartment-347089012.jpg"
 language: en
 slug: joni-joy-center-apartment
 address: "Rruga 22 Tetor, Godina 78, Hyrja 5, Apartamenti 4, 5001 Berat, Albania"

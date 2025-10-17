@@ -1,7 +1,7 @@
 ---
 title: "Mia's Apartaments in Pogradec"
 description: "Mia's Apartments in Pogradec emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499487188.jpg?k=b8583bdf5c941546c77f39392852cfeb01c42162b19de6a3ee821fcd786f5fe5&o=&hp=1"
+featuredImage: "/images/accommodation/mia-s-apartaments-in-pogradec-499487188.jpg"
 language: en
 slug: mia-s-apartaments-in-pogradec
 address: "Rruga e Stadiumit, 7301 Pogradec, Albania"

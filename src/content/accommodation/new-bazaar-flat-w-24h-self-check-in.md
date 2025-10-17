@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar Flat w/ 24H Self Check In"
 description: "New Bazaar Flat w/ 24H Self Check In emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations complemented by the convenience of a balcony, situated in the vibrant heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510800067.jpg?k=a78522fbf099197932f1fda7dadfebecde744321f26609663eb45399b80636e2&o=&hp=1"
+featuredImage: "/images/accommodation/new-bazaar-flat-w-24h-self-check-in-510800067.jpg"
 language: en
 slug: new-bazaar-flat-w-24h-self-check-in
 address: "Rruga Dervish Hekali, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hamiti Camping Center"
 description: "Hamiti Camping Center is a prime choice for travelers seeking a serene getaway in the Vlorë County region of Llogara."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311749376.jpg?k=8839883134f39ac90f685b70d1147bbebcae05e71dff76683b658d9a4aa22a78&o=&hp=1"
+featuredImage: "/images/accommodation/hamiti-camping-center-311749376.jpg"
 language: en
 slug: hamiti-camping-center
 address: "SH8, Llogara, 9401 Llogara, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Apartment 19"
 description: "Albania Dream Apartment 19 emerges as a prime choice for travelers seeking comfort and convenience in Gjashtë, positioned just a short stroll from La Petite Beach and within easy reach of Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353110106.jpg?k=7e3ed004d93308d7c834954dcc95e162420d633ed8d87efa141fcef1b1fd3dcb&o=&hp=1"
+featuredImage: "/images/accommodation/albania-dream-apartment-19-353110106.jpg"
 language: en
 slug: albania-dream-apartment-19
 address: "Rruga 40 Shenjtorët, 9700 Gjashtë, Albania"

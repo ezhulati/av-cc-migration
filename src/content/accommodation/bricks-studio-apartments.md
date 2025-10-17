@@ -1,7 +1,7 @@
 ---
 title: "Bricks Studio Apartments"
 description: "Bricks Studio Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509298682.jpg?k=0ceb5728138122b244dc39ca63683363ec425f1c3f99aa532a0108be5f545254&o=&hp=1"
+featuredImage: "/images/accommodation/bricks-studio-apartments-509298682.jpg"
 language: en
 slug: bricks-studio-apartments
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

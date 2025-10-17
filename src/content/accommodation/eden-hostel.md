@@ -1,7 +1,7 @@
 ---
 title: "Eden hostel"
 description: "Eden Hostel emerges as a serene oasis in the heart of Tirana, offering travelers a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219542699.jpg?k=d4b0e34bbeaa79caa20e70550f82cf851bde17f4887890e9c10724ed35011655&o=&hp=1"
+featuredImage: "/images/accommodation/eden-hostel-219542699.jpg"
 language: en
 slug: eden-hostel
 address: "Rruga Sotir Peçi, 1001 Tirana, Albania"

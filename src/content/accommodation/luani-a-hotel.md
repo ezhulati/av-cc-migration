@@ -1,7 +1,7 @@
 ---
 title: "Luani A Hotel"
 description: "Luani A Hotel emerges as a charming retreat in the heart of Shkodër, located a mere 45 km from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74903554.jpg?k=fe0bc5267b24be2f8962e865f2f69cdd796c5b1e4e94d118e0e57c420f201030&o=&hp=1"
+featuredImage: "/images/accommodation/luani-a-hotel-74903554.jpg"
 language: en
 slug: luani-a-hotel
 address: "L. Ali Begaj Rr. Agron, 4001 Shkodër, Albania"

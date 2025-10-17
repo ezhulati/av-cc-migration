@@ -1,7 +1,7 @@
 ---
 title: "Center Tirana Apartment"
 description: "Center Tirana Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343569335.jpg?k=7286fdaebc3beabaf2e0a3319950b6a11e2065c80975578f0b33d0fef19a26d1&o=&hp=1"
+featuredImage: "/images/accommodation/center-tirana-apartment-343569335.jpg"
 language: en
 slug: center-tirana-apartment
 address: "Rruga e Barrikadave Ndërtesa 9,Shkalla 12,Apartamenti 21, 1016 Tirana, Albania"

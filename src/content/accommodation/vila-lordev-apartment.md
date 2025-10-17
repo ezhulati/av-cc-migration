@@ -1,7 +1,7 @@
 ---
 title: "Vila Lordev Apartment"
 description: "Vila Lordev Apartment emerges as a serene retreat in Korçë, strategically positioned just 44 km away from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389771350.jpg?k=9e20d89e9c0fa1a456d98ac0c2f7665e177b2fa86963c206bbda8be8ae5c8ecc&o=&hp=1"
+featuredImage: "/images/accommodation/vila-lordev-apartment-389771350.jpg"
 language: en
 slug: vila-lordev-apartment
 address: "Rruga Partizani, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Art Studio Apartments"
 description: "Art Studio Apartments in Durrës emerges as a prime choice for travelers seeking modern comforts a stone's throw from the Adriatic Sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486777564.jpg?k=6452be822f3c6bc7835a59012676376130cf310baef6e926b7a7c111162b574e&o=&hp=1"
+featuredImage: "/images/accommodation/art-studio-apartments-486777564.jpg"
 language: en
 slug: art-studio-apartments
 address: "Shkembi i Kavajes, 2001 Durrës, Albania"

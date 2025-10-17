@@ -1,7 +1,7 @@
 ---
 title: "Appartement"
 description: "Appartement in Sarandë emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, mere steps away from the pristine Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489104696.jpg?k=dcefb51cbc966b04d67fcbfc546349b2d31a7acfb908e1fe0c0af513bdde5ce5&o=&hp=1"
+featuredImage: "/images/accommodation/appartement-489104696.jpg"
 language: en
 slug: appartement
 address: "Rruga Jonianet, 9701 Sarandë, Albania"

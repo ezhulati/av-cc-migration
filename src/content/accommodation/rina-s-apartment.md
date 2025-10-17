@@ -1,7 +1,7 @@
 ---
 title: "RINA'S Apartment"
 description: "RINA'S Apartment emerges as a charming choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/rina-s-apartment-8d80ab6bf73f.jpg"
 language: en
 slug: rina-s-apartment
 address: "Lagjia 22 Tetori, Rruga Antipatrea Pallati 43, Shkalla 1, Hyrja 7, 5002 Berat, Albania"

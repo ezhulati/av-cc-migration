@@ -1,7 +1,7 @@
 ---
 title: "City apartment 101"
 description: "City Apartment 101 emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477950047.jpg?k=18eaf94c5825c24b69261bc03357aa54beec7de824267211e3c3ade1d9a6aac3&o=&hp=1"
+featuredImage: "/images/accommodation/city-apartment-101-477950047.jpg"
 language: en
 slug: city-apartment-101
 address: "Rruga 3 Heronjtë, 4001 Shkodër, Albania"

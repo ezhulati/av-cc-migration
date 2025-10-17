@@ -1,7 +1,7 @@
 ---
 title: "Agora Bed & Breakfast"
 description: "Agora Bed & Breakfast stands out as a serene haven located just 300 meters from Independence Square and a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/29289762.webp?k=c321dc30cf6a6f691f223816d24b7f851f64ce8a07cc5132a87f401460bc8d20&o=?t=1503259907"
+featuredImage: "/images/accommodation/agora-bed-breakfast-29289762.web.jpg"
 language: en
 slug: agora-bed-breakfast
 address: "11 Rruga Ceno Sharra, 9400 Vlorë, Albania"

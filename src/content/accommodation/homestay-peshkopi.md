@@ -1,7 +1,7 @@
 ---
 title: "Homestay Peshkopi"
 description: "Homestay Peshkopi emerges as a serene retreat in the heart of Peshkopi, offering guests a unique blend of comfort and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511270653.jpg?k=ff55d7df5d2a9486d79cebe81ff717215280dce470ff9639855d71a7d69746cb&o=&hp=1"
+featuredImage: "/images/accommodation/homestay-peshkopi-511270653.jpg"
 language: en
 slug: homestay-peshkopi
 address: "Peshkopi Blvd, 8301 Peshkopi, Albania"

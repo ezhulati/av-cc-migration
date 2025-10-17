@@ -1,7 +1,7 @@
 ---
 title: "Beautiful 1-Bed House in Korce"
 description: "Discover the charm of Korçë with a stay at the Beautiful 1-Bed House, a serene retreat that promises an unforgettable experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480120634.jpg?k=a7867aa6a8c0434798e02cb54a9ff66be796f0217346fe52a3541d0ebf31b174&o=&hp=1"
+featuredImage: "/images/accommodation/beautiful-1-bed-house-in-korce-480120634.jpg"
 language: en
 slug: beautiful-1-bed-house-in-korce
 address: "Sali Butka 22, 7001 Korçë, Albania"

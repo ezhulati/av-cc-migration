@@ -1,7 +1,7 @@
 ---
 title: "Ahmeti Rooms"
 description: "Ahmeti Rooms stands as a serene oasis in Ksamil, offering a tranquil retreat less than a kilometer from the pristine shores of Paradise Beach and a mere 11-minute stroll from the scenic Lori Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362495871.jpg?k=49bc9447016318b57d9f9e6f4ded3ce5f0bde5d65ea526894e40dd3e37efe9a1&o=&hp=1"
+featuredImage: "/images/accommodation/ahmeti-rooms-362495871.jpg"
 language: en
 slug: ahmeti-rooms
 address: "Εξαμίλι Αγίων Σαράντα, Ksamil, Albania"

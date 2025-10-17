@@ -1,7 +1,7 @@
 ---
 title: "Klemki Apartment"
 description: "Klemki Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363171722.jpg?k=4fc4c450023a1a7fae8a298940c74ea9568635fbc2eed5b821a9c6366eb65f07&o=&hp=1"
+featuredImage: "/images/accommodation/klemki-apartment-363171722.jpg"
 language: en
 slug: klemki-apartment
 address: "Rruga Aristill Kokoshi, 9401 Vlorë, Albania"

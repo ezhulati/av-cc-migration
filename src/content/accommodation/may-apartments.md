@@ -1,7 +1,7 @@
 ---
 title: "May Apartments"
 description: "May Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, located merely a stone's throw away from Sarande Main Beach and a short stroll from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387986678.jpg?k=2356e575f7728cec808da41cc66b965d63a8cc98d303dee1b8a31ac6613b1391&o=&hp=1"
+featuredImage: "/images/accommodation/may-apartments-387986678.jpg"
 language: en
 slug: may-apartments
 address: "8 Rruga Mitro Xhani, 9701 Sarandë, Albania"

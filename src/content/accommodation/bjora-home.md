@@ -1,7 +1,7 @@
 ---
 title: "Bjora Home"
 description: "Bjora Home stands as a prime beachfront gem in Vlorë, merely a stone's throw away from the pristine Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464339483.jpg?k=e5aed585e71d37296a76c1c08a97a7d458aaeacae3f2007925fe8eb7b19fd640&o=&hp=1"
+featuredImage: "/images/accommodation/bjora-home-464339483.jpg"
 language: en
 slug: bjora-home
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

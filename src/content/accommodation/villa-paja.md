@@ -1,7 +1,7 @@
 ---
 title: "Villa Paja"
 description: "Villa Paja stands out as a prime choice for travelers seeking the comfort of home in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336197626.jpg?k=9c952f70fbf1d72dcb2db379dfd8ceba2f96b7831cfcf300f976c96fccc95bb3&o=&hp=1"
+featuredImage: "/images/accommodation/villa-paja-336197626.jpg"
 language: en
 slug: villa-paja
 address: "National Road Sarand Butrint, 9706 Ksamil, Albania"

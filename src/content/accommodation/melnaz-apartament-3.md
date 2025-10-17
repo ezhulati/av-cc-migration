@@ -1,7 +1,7 @@
 ---
 title: "Melnaz Apartament 3"
 description: "Melnaz Apartament 3 emerges as a prime choice for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501920739.jpg?k=f380e8db9d3f2bbf2722972aec8cfcee7ee87f457b2858a1a70a156d84e25047&o=&hp=1"
+featuredImage: "/images/accommodation/melnaz-apartament-3-501920739.jpg"
 language: en
 slug: melnaz-apartament-3
 address: "Rruga Petraq Shamo, 7001 Korçë, Albania"

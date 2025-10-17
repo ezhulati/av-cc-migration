@@ -1,7 +1,7 @@
 ---
 title: "Maison Centre"
 description: "Maison Centre emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in their accommodation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443965404.jpg?k=b270bcee4f04d0fa248763ab847ffedb768d8bd93cae370c996240bcd83fcedc&o=&hp=1"
+featuredImage: "/images/accommodation/maison-centre-443965404.jpg"
 language: en
 slug: maison-centre
 address: "Rruga Gjylbegaj, 4001 Shkodër, Albania"

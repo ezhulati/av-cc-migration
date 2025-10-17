@@ -1,7 +1,7 @@
 ---
 title: "Guest House Ilir"
 description: "Guest House Ilir, located in the picturesque city of Berat, presents a serene garden and an inviting terrace for guests seeking tranquility and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441150901.jpg?k=d666896a069cd98aea7faa5bf4fe067358b155c32510cc5f92d9ad64f653ca87&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-ilir-441150901.jpg"
 language: en
 slug: guest-house-ilir
 address: "Velabisht, Berat, 5001 Berat, Albania"

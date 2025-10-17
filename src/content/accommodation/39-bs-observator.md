@@ -1,7 +1,7 @@
 ---
 title: "39°Bs Observator"
 description: "39°Bs Observator emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519605660.jpg?k=d3d8979bcb15a68909dab7596c2ab23316473d4c05b125d79357f1f062436784&o=&hp=1"
+featuredImage: "/images/accommodation/39-bs-observator-519605660.jpg"
 language: en
 slug: 39-bs-observator
 address: "Rruga e Saraçëve, 1001 Tirana, Albania"

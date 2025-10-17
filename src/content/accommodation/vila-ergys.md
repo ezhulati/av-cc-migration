@@ -1,7 +1,7 @@
 ---
 title: "Vila Ergys"
 description: "Vila Ergys emerges as a serene retreat in Pogradec, perfectly positioned just a stone's throw away from the enchanting Ohrid Lake Springs and the historical Bay of Bones."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520783856.jpg?k=735a2bd3c998766202e4299d8cc2b70bb15b00b090209e337358fd9ac081fdef&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ergys-520783856.jpg"
 language: en
 slug: vila-ergys
 address: "Rruga e Drilonit, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfy & Relaxing Apartment near city center"
 description: "Discover the charm of Tirana with a stay at the Comfy & Relaxing Apartment, strategically located just a stone's throw away from the vibrant Skanderbeg Square and a short drive from the breathtaking Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/396536481.jpg?k=dab6df5d93613399159c7a8c36f85802ac2e18a168fa8a33bb8eeafa8b8db3a8&o=&hp=1"
+featuredImage: "/images/accommodation/comfy-relaxing-apartment-near-city-center-396536481.jpg"
 language: en
 slug: comfy-relaxing-apartment-near-city-center
 address: "Rruga Kongresi i Tiranes, 1001 Tirana, Albania"

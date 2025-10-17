@@ -1,7 +1,7 @@
 ---
 title: "Best Location in Durrës"
 description: "Best Location in Durrës emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510193578.jpg?k=ccc8fa602e9a12fb8f986a14467bbcda4bd87009e8c09a222bc74c946844081b&o=&hp=1"
+featuredImage: "/images/accommodation/best-location-in-durr-s-510193578.jpg"
 language: en
 slug: best-location-in-durr-s
 address: "Rruga Taulantia Apartament 6th floor, 2001 Durrës, Albania"

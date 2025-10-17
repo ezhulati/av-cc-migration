@@ -1,7 +1,7 @@
 ---
 title: "Apartament Gloria&Mitati"
 description: "Discover the charm of Orikum from the comfort of Apartament Gloria&Mitati, a prime accommodation choice boasting stunning sea views and a convenient location just a short distance from the area's pristine beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218781948.jpg?k=1a2ddfc48e06f57cab20f81cf038eea838323ed67b4bfd46ff1e04851dd801e4&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-gloria-mitati-218781948.jpg"
 language: en
 slug: apartament-gloria-mitati
 address: "Orikum Orikum, 2694 Orikum, Albania"

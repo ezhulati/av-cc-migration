@@ -1,7 +1,7 @@
 ---
 title: "Hotel Rai"
 description: "Hotel Rai stands as a prime choice for travelers seeking beachfront accommodations in Sarandë, just a stone's throw away from the city's main beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370823356.jpg?k=2adfe3c251a30b4925073af34adf9c173cae49596aa26be51405b2c886da26b7&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-rai-370823356.jpg"
 language: en
 slug: hotel-rai
 address: "40 Rruga Ismail Qemali, 9701 Sarandë, Albania"

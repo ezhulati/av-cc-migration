@@ -1,7 +1,7 @@
 ---
 title: "Rent Room Vlora"
 description: "Rent Room Vlora emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/rent-room-vlora-29d5c93ac695.jpg"
 language: en
 slug: rent-room-vlora
 address: "Rruga Cajupi, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Adelina's Delux Apartament Durres"
 description: "Adelina's Deluxe Apartment Durres emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487475833.jpg?k=074443463ea83635bad2ea178bf84cfa80f4d9d50d5d211ae81b2cf9190026a1&o=&hp=1"
+featuredImage: "/images/accommodation/adelina-s-delux-apartament-durres-487475833.jpg"
 language: en
 slug: adelina-s-delux-apartament-durres
 address: "Rruga Pavaresia , Iliria, Plazh 6th floor, Durrës, Albania"

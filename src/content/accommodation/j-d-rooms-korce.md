@@ -1,7 +1,7 @@
 ---
 title: "J&D Rooms Korce"
 description: "J&D Rooms Korce emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Korçë, merely a stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334753935.jpg?k=d7a475acba9f19c0a260081ed968e5cb00a62da510fac13105a81d4b7008a1ea&o=&hp=1"
+featuredImage: "/images/accommodation/j-d-rooms-korce-334753935.jpg"
 language: en
 slug: j-d-rooms-korce
 address: "Rruga 28 Nëntori, Korçë, Albania"

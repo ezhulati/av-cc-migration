@@ -1,7 +1,7 @@
 ---
 title: "Resort Zerja and Spa"
 description: "Resort Zerja and Spa emerges as a serene oasis in Peshkopi, offering a unique blend of leisure and elegance for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339705467.jpg?k=9b1074d4b4a08ded68540ead5ad9b13c7c7fdd8f1cfbff135673bf087fed40e5&o=&hp=1"
+featuredImage: "/images/accommodation/resort-zerja-and-spa-339705467.jpg"
 language: en
 slug: resort-zerja-and-spa
 address: "Rruga Peshkopi-Maqellare (lagja Ravana), 8301 Peshkopi, Albania"

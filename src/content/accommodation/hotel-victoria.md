@@ -1,7 +1,7 @@
 ---
 title: "Hotel Victoria"
 description: "Discover the serene charm of Hotel Victoria, a tranquil oasis located just a stone's throw from the shimmering waters of Lake Ohrid and a mere 2 km from the bustling town of Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488961473.jpg?k=fa263e0c3a9ac3c36d2524c9a755f633cf3f750764614e5a536b09cb94cfc39c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-victoria-488961473.jpg"
 language: en
 slug: hotel-victoria
 address: "Memelisht, Pogradec E86, 7305 Pogradec, Albania"

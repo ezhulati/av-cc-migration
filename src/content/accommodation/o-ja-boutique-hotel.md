@@ -1,7 +1,7 @@
 ---
 title: "Çoçja Boutique Hotel"
 description: "Çoçja Boutique Hotel stands out as a charming retreat in Shkodër, located a mere 49 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296619901.jpg?k=299e1141a1659d485c6a3ae0e351b35fd5be132cb247eff5357ae8224d2de338&o=&hp=1"
+featuredImage: "/images/accommodation/o-ja-boutique-hotel-296619901.jpg"
 language: en
 slug: o-ja-boutique-hotel
 address: "Wilson, 4001 Shkodër, Albania"

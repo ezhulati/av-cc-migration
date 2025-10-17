@@ -1,7 +1,7 @@
 ---
 title: "Beautiful view"
 description: "Discover the charm of Sarandë from the comfort of Beautiful View, a spacious apartment offering breathtaking accommodations just a stone's throw away from the city's pristine beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478064211.jpg?k=129407d9caca4186d4e2d3f8272a93d0c515ad208d0bd0edbd794f7137ebc4fc&o=&hp=1"
+featuredImage: "/images/accommodation/beautiful-view-478064211.jpg"
 language: en
 slug: beautiful-view
 address: "Rruga Skënderbeu, 9700 Sarandë, Albania"

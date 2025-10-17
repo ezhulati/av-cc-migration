@@ -1,7 +1,7 @@
 ---
 title: "Apartments Villa Dovinefa"
 description: "Apartments Villa Dovinefa emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145483864.jpg?k=1d3e1bca835f376af5a7f18c3864d35692313cabdbeb9eab4b6f7436599ae681&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-villa-dovinefa-145483864.jpg"
 language: en
 slug: apartments-villa-dovinefa
 address: "Road ''Baba Sherifi \" Center Ksamil 44, 9706 Ksamil, Albania"

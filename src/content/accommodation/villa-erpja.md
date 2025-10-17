@@ -1,7 +1,7 @@
 ---
 title: "Villa Çerpja"
 description: "Villa Çerpja emerges as a serene retreat in Kamëz, striking the perfect balance between convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525867054.jpg?k=4a57c77b67cd956fe27374ed9ff74654b1da1d75d2de87c78d07c7200e2c8c16&o=&hp=1"
+featuredImage: "/images/accommodation/villa-erpja-525867054.jpg"
 language: en
 slug: villa-erpja
 address: "Rruga Drini 74, 1030 Kamëz, Albania"

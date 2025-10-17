@@ -1,7 +1,7 @@
 ---
 title: "Prime Hotel"
 description: "Prime Hotel emerges as a standout accommodation choice in the heart of Tirana, merely 80 meters from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138511880.jpg?k=3b70a00bc4017929f23ed22ecc3c5bd3c39750bdfba26a7a04c4c38cadeb1219&o=&hp=1"
+featuredImage: "/images/accommodation/prime-hotel-138511880.jpg"
 language: en
 slug: prime-hotel
 address: "Rruga Ded Gjo Luli, 1001 Tirana, Albania"

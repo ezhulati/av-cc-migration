@@ -1,7 +1,7 @@
 ---
 title: "DREAM APARTMENT"
 description: "DREAM APARTMENT emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471312617.jpg?k=23a5b692cf65350487439b3336bd7312684edb51837f04e00b9fcb42f9ef0fe3&o=&hp=1"
+featuredImage: "/images/accommodation/dream-apartment-471312617.jpg"
 language: en
 slug: dream-apartment
 address: "Lgj 10 korriku, 9401 Vlorë, Albania"

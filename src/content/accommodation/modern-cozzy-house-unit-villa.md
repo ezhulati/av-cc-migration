@@ -1,7 +1,7 @@
 ---
 title: "Modern & Cozzy House Unit - Villa"
 description: "Discover the charm of Tirana from the comfort of Modern & Cozzy House Unit - Villa, a serene oasis located just a stone's throw away from the city's vibrant heart."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398775667.jpg?k=c551ccc3eff9a7cea00650871a02dbd74f895222f5cd3ca36a2431fcb67b77ea&o=&hp=1"
+featuredImage: "/images/accommodation/modern-cozzy-house-unit-villa-398775667.jpg"
 language: en
 slug: modern-cozzy-house-unit-villa
 address: "74 Rruga Artan Lenja, 1005 Tirana, Albania"

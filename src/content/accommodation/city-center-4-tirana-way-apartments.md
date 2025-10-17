@@ -1,7 +1,7 @@
 ---
 title: "City Center 4 - Tirana Way Apartments"
 description: "City Center 4 - Tirana Way Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340536039.jpg?k=b24eedcde18610a7f5411942c9e56448f69408da5937041b96f051e90e12a73b&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-4-tirana-way-apartments-340536039.jpg"
 language: en
 slug: city-center-4-tirana-way-apartments
 address: "Rruga e Dibrës, 1057 Tirana, Albania"

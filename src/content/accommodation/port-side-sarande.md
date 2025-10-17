@@ -1,7 +1,7 @@
 ---
 title: "Port Side Sarande"
 description: "Port Side Sarande emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480824314.jpg?k=5b634889a1721bfe2d8a9f8bd765c86426522ae7b175bf923da2479c7a9e702f&o=&hp=1"
+featuredImage: "/images/accommodation/port-side-sarande-480824314.jpg"
 language: en
 slug: port-side-sarande
 address: "Rruga Mithat Hoxha Lagjia nr 4 Prane Portit Sarande, 1001 Sarandë, Albania"

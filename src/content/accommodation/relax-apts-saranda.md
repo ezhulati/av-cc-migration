@@ -1,7 +1,7 @@
 ---
 title: "Relax Apts Saranda"
 description: "Relax Apts Saranda emerges as a beacon of comfort and convenience, situated a mere 500 meters from the pristine Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342578841.jpg?k=a234bc9c5a6195dec519f2172db34cb63e8d6aed4a5bf1e74c4190183f34117c&o=&hp=1"
+featuredImage: "/images/accommodation/relax-apts-saranda-342578841.jpg"
 language: en
 slug: relax-apts-saranda
 address: "Rr: Idriz Alidhima, 9702 Sarandë, Albania"

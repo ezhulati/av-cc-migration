@@ -1,7 +1,7 @@
 ---
 title: "Full Sea View Center 2 Bedroom"
 description: "Full Sea View Center 2 Bedroom emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527327695.jpg?k=f9ede49c6ea11062b4cf865b449e6412d796762756e1c2de49486f6e42f08b6b&o=&hp=1"
+featuredImage: "/images/accommodation/full-sea-view-center-2-bedroom-527327695.jpg"
 language: en
 slug: full-sea-view-center-2-bedroom
 address: "Rruga Taulantia, 2001 Durrës, Albania"

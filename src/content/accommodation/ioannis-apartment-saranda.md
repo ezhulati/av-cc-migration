@@ -1,7 +1,7 @@
 ---
 title: "Ioannis Apartment Saranda"
 description: "Ioannis Apartment Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481480775.jpg?k=b9fdf1aa8dfbcd2935a9840af7d005691599913d3b2a41d9411aed9a52294e29&o=&hp=1"
+featuredImage: "/images/accommodation/ioannis-apartment-saranda-481480775.jpg"
 language: en
 slug: ioannis-apartment-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

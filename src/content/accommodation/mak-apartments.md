@@ -1,7 +1,7 @@
 ---
 title: "MAK Apartments"
 description: "MAK Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361211810.jpg?k=f4898cf2ff56e4b5c963a68bd813f7617350fcaab63177a36e8cced03ca14030&o=&hp=1"
+featuredImage: "/images/accommodation/mak-apartments-361211810.jpg"
 language: en
 slug: mak-apartments
 address: "Rruga e Dibrës Kompleksi Halili building, 1001 Tirana, Albania"

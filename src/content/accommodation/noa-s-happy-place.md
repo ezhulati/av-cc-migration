@@ -1,7 +1,7 @@
 ---
 title: "Noa's happy place"
 description: "Noa's Happy Place emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435872200.jpg?k=2321c34307bcdc5d770b6f62906e6a45fab40b8324826900bdf5f15eb6f8fc47&o=&hp=1"
+featuredImage: "/images/accommodation/noa-s-happy-place-435872200.jpg"
 language: en
 slug: noa-s-happy-place
 address: "Rruga Hysen Gjura Nd.52 Ap 15, 1001 Tirana, Albania"

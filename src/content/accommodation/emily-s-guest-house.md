@@ -1,7 +1,7 @@
 ---
 title: "Emily's guest house"
 description: "Emily's Guest House in Vlorë offers a refreshing retreat with its air-conditioned apartments with private balconies for a serene escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476087103.jpg?k=bc9c63e67bd4a8230fe81a0321f945e80907a90c27ea438fe18e54e31c8acd2a&o=&hp=1"
+featuredImage: "/images/accommodation/emily-s-guest-house-476087103.jpg"
 language: en
 slug: emily-s-guest-house
 address: "Rruga Shyqyri Ali Merka, 9400 Vlorë, Albania"

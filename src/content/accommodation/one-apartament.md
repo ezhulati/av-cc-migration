@@ -1,7 +1,7 @@
 ---
 title: "One Apartament"
 description: "One Apartament emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383230219.jpg?k=ee04f74abf3beb8cb197c355400da4c0e90e7b31074eb06dd53c1d9cf9080d29&o=&hp=1"
+featuredImage: "/images/accommodation/one-apartament-383230219.jpg"
 language: en
 slug: one-apartament
 address: "Rruga Siri Kodra First floor, 1001 Tirana, Albania"

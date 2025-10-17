@@ -1,7 +1,7 @@
 ---
 title: "Bujtinat Peci"
 description: "Bujtinat Peci emerges as a serene retreat in the heart of Elbasan, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498497220.jpg?k=be1c3466b8f0114749ed6eef80c218b63e583c78a8ec43d7327345fc1800d83e&o=&hp=1"
+featuredImage: "/images/accommodation/bujtinat-peci-498497220.jpg"
 language: en
 slug: bujtinat-peci
 address: "Gjinar rruga gjinar, 3014 Elbasan, Albania"

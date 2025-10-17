@@ -1,7 +1,7 @@
 ---
 title: "Villa Joli"
 description: "Villa Joli emerges as a serene oasis in the vibrant city of Vlorë, perfectly positioned just moments away from the city's iconic landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473977507.jpg?k=a3a6920d0d9dacd487271830155ebc03f7320ea9038eaf2a0f51822a74b891cc&o=&hp=1"
+featuredImage: "/images/accommodation/villa-joli-473977507.jpg"
 language: en
 slug: villa-joli
 address: "rruga hasan mjalti, 9400 Vlorë, Albania"

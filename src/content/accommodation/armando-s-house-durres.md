@@ -1,7 +1,7 @@
 ---
 title: "armando's house durres"
 description: "Armando's House Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494412474.jpg?k=9195b710da461a8961c946fd2f3e301390c4fa28b8eb0eda4c40bffc6190107c&o=&hp=1"
+featuredImage: "/images/accommodation/armando-s-house-durres-494412474.jpg"
 language: en
 slug: armando-s-house-durres
 address: "Rruga Aleksander Goga, pasticeri perla 1, 8835 Durrës, Albania"

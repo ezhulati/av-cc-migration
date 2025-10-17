@@ -1,7 +1,7 @@
 ---
 title: "The Ionian Comfort Apartment- Beachfront Lungomare Promenade"
 description: "The Ionian Comfort Apartment - Beachfront Lungomare Promenade, situated in the vibrant heart of Vlorë, mere steps away from Ri Beach and a short stroll from the pristine Vlore Beach, presents an idyllic retreat for those seeking the perfect blend of convenience and serenity."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476555856.jpg?k=69af569c024f8e11aa3a0237a2776af30e5ec3f1b9d4d719b1f2c4d0c97353b6&o=&hp=1"
+featuredImage: "/images/accommodation/the-ionian-comfort-apartment-beachfront-lungomare-promenade-476555856.jpg"
 language: en
 slug: the-ionian-comfort-apartment-beachfront-lungomare-promenade
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

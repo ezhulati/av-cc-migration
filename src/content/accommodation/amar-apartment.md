@@ -1,7 +1,7 @@
 ---
 title: "Amar apartment"
 description: "Amar Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/amar-apartment-0e43c9b9a23d.jpg"
 language: en
 slug: amar-apartment
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

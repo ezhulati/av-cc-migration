@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kaso Ervehe"
 description: "Hotel Kaso Ervehe emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454689257.jpg?k=005a5da2622fc3efb459b2ca4abc10962579e81e9f4cbf6712e83c1b48bd71a7&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kaso-ervehe-454689257.jpg"
 language: en
 slug: hotel-kaso-ervehe
 address: "Hotel Kaso Ervehe, 6401 Përmet, Albania"

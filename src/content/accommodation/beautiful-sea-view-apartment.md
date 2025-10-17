@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Sea View Apartment"
 description: "Beautiful Sea View Apartment emerges as a prime choice for travelers seeking a serene getaway in Durrës, boasting an enviable location close to the pristine Durres Beach and a mere 39 km from the historic Skanderbeg Square."
-featuredImage: "https://graph.facebook.com/v2.9/922080514603142/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/beautiful-sea-view-apartment-picture?type.jpg"
 language: en
 slug: beautiful-sea-view-apartment
 address: "Lagjia 13 Plazh, 2001 Durrës, Albania"

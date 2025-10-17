@@ -1,7 +1,7 @@
 ---
 title: "Apartman Gold"
 description: "Apartman Gold emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated merely 400 meters from the serene Qerret Beach and a short stroll from the picturesque Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526282939.jpg?k=bebf9dc89acf24d3a6e709000481cb93a9c4010b4b0cb18017770bdc25fee5e4&o=&hp=1"
+featuredImage: "/images/accommodation/apartman-gold-526282939.jpg"
 language: en
 slug: apartman-gold
 address: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"

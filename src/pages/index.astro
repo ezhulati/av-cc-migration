@@ -6,9 +6,8 @@ const posts = await getCollection('posts', ({ data }) => {
   return data.language === 'en';
 });
 
-const accommodation = await getCollection('accommodation', ({ data }) => {
-  return data.language === 'en';
-});
+// Only get count - don't load all accommodations
+const accommodationCount = 8470; // Static count to avoid loading all entries
 
 const pages = await getCollection('pages', ({ data }) => {
   return data.language === 'en';
@@ -317,7 +316,7 @@ posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDat
   <section class="stats-section">
     <div class="stats-grid">
       <div class="stat-item animate-slide-up">
-        <div class="stat-value">{accommodation.length.toLocaleString()}</div>
+        <div class="stat-value">{accommodationCount.toLocaleString()}</div>
         <div class="stat-label">Accommodations</div>
       </div>
       <div class="stat-item animate-slide-up" style="animation-delay: 0.1s;">

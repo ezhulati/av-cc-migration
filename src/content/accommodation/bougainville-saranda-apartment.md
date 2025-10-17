@@ -1,7 +1,7 @@
 ---
 title: "Bougainville Saranda Apartment"
 description: "Bougainville Saranda Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518219909.jpg?k=24241cdb77371ca8e15986360067f3c5d81311922136190d50e06ea22584004f&o=&hp=1"
+featuredImage: "/images/accommodation/bougainville-saranda-apartment-518219909.jpg"
 language: en
 slug: bougainville-saranda-apartment
 address: "bouga, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Apartment"
 description: "Deluxe Apartment in Vlorë stands out as a prime choice for travelers seeking both comfort and convenience, located a mere 70 meters from the serene Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388984673.jpg?k=6cdc315777e25eb48e8f02473ced55d6627cb1458447ca5bc09d5763789e833b&o=&hp=1"
+featuredImage: "/images/accommodation/deluxe-apartment-388984673.jpg"
 language: en
 slug: deluxe-apartment
 address: "Rruga Aleksandër Moisiu, 9405 Vlorë, Albania"

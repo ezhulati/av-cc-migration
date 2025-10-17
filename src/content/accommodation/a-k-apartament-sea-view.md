@@ -1,7 +1,7 @@
 ---
 title: "A&K Apartament Sea View"
 description: "A&K Apartment Sea View stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474117869.jpg?k=eed74e220b5467b41d7a43acaec71e539aa0e65f8f8a0c63cee699229c9936ea&o=&hp=1"
+featuredImage: "/images/accommodation/a-k-apartament-sea-view-474117869.jpg"
 language: en
 slug: a-k-apartament-sea-view
 address: "Resort Kamelia 3 069 886 0000 https://g.co/kgs/A6rrw8, 2001 Durrës, Albania"

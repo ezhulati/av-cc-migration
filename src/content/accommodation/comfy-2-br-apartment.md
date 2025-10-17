@@ -1,7 +1,7 @@
 ---
 title: "Comfy 2 BR Apartment"
 description: "Comfy 2 BR Apartment emerges as a prime choice for travelers seeking spacious and comfortable accommodation in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488119813.jpg?k=1675aa302d1e9752a149090e0194e75be4e17278bf5db0c771ff447f809dd2bd&o=&hp=1"
+featuredImage: "/images/accommodation/comfy-2-br-apartment-488119813.jpg"
 language: en
 slug: comfy-2-br-apartment
 address: "Rruga Siri Kodra, Tirana, Albania"

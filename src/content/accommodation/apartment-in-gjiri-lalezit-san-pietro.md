@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Gjiri Lalezit, San Pietro"
 description: "Apartment in Gjiri Lalezit, San Pietro emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518397981.jpg?k=08413d3bc2c0057ae45616505401a639d94f2048dee93599f2b1c760ebf58ff0&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-gjiri-lalezit-san-pietro-518397981.jpg"
 language: en
 slug: apartment-in-gjiri-lalezit-san-pietro
 address: "Rruga Gjiri i Lalzit, Durrës, Albania"

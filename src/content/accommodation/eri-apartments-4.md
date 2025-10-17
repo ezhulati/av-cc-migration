@@ -1,7 +1,7 @@
 ---
 title: "Eri Apartments 4"
 description: "Eri Apartments 4 emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just steps away from the pristine Shëngjin Beach and a short distance from the serene Ylberi Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/eri-apartments-4-0e43c9b9a23d.jpg"
 language: en
 slug: eri-apartments-4
 address: "Shëtitorja Wilson, 4503 Shëngjin, Albania"

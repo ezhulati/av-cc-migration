@@ -1,7 +1,7 @@
 ---
 title: "Bells Home"
 description: "Bells Home emerges as a serene retreat in the heart of Shkodër, Shkoder County, offering guests a blend of comfort and convenience with its well-appointed accommodations and modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491600476.jpg?k=6fa4ea23692a9cb246af7b203d44bf926157f597e3a6c497a09d8efed8348ebb&o=&hp=1"
+featuredImage: "/images/accommodation/bells-home-491600476.jpg"
 language: en
 slug: bells-home
 address: "Rruga Kardinal Mikel Koliqi 3, Shkodër, Albania"

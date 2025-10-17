@@ -1,7 +1,7 @@
 ---
 title: "Square INN Garden Aparthotel"
 description: "Square INN Garden Aparthotel emerges as a modern oasis in the heart of Tirana, offering a blend of convenience and comfort for travelers seeking a home away from home."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513844676.jpg?k=8bab54519349d8c3f75f6812a1b08472c806bb3aa8d0efd86d8d89213537a84d&o=&hp=1"
+featuredImage: "/images/accommodation/square-inn-garden-aparthotel-513844676.jpg"
 language: en
 slug: square-inn-garden-aparthotel
 address: "Rruga e Kavajës Garden Building, Kulla A, 1023 Tirana, Albania"

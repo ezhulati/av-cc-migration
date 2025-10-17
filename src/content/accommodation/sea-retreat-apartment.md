@@ -1,7 +1,7 @@
 ---
 title: "Sea retreat apartment"
 description: "Sea Retreat Apartment emerges as a serene haven for beach lovers, situated a mere stone's throw away from the pristine shores of Prinos Beach in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472073115.jpg?k=ea8d86bc91e96eca9c9c5d64d9703256dd414bb22ba5f34b6327f80e0034372f&o=&hp=1"
+featuredImage: "/images/accommodation/sea-retreat-apartment-472073115.jpg"
 language: en
 slug: sea-retreat-apartment
 address: "Himare,rruga vangjel zoto 39-41, 9425 Himare, Albania"

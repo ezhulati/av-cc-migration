@@ -1,7 +1,7 @@
 ---
 title: "Apartament Shengjin"
 description: "Discover the charm of Lezhë with a stay at Apartament Shengjin, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/apartament-shengjin-315f92289c48.jpg"
 language: en
 slug: apartament-shengjin
 address: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"

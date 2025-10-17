@@ -1,7 +1,7 @@
 ---
 title: "Petrela Golem Apartment"
 description: "Petrela Golem Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472786245.jpg?k=609167186588c8caee811babc9e786b811a22998f4bfd43bcd6f1569c9375056&o=&hp=1"
+featuredImage: "/images/accommodation/petrela-golem-apartment-472786245.jpg"
 language: en
 slug: petrela-golem-apartment
 address: "Kompleksi Alb Adriatik, Golem Beach, Rruga e Plazhit, Golem, Albania, 2504 Golem, Albania"

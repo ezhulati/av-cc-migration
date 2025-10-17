@@ -1,7 +1,7 @@
 ---
 title: "Sol Levante Apartments"
 description: "Sol Levante Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200913256.jpg?k=012d2098ec94c5c51684de8294347e03e16348505f36a7f50534e7475e58e397&o=&hp=1"
+featuredImage: "/images/accommodation/sol-levante-apartments-200913256.jpg"
 language: en
 slug: sol-levante-apartments
 address: "Rruga Adem Sheme, Sarandë, Albania"

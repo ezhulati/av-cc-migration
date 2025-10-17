@@ -1,7 +1,7 @@
 ---
 title: "Apartamento carino , ospitabile , e acogliente"
 description: "Apartamento Carino, Ospitabile, e Acogliente emerges as a charming choice for travelers seeking a serene beachfront escape in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389450453.jpg?k=23e92b2c67962329ea3168d5e7569800d7cc4a9018fed0a51abdd05c1afe27dc&o=&hp=1"
+featuredImage: "/images/accommodation/apartamento-carino-ospitabile-e-acogliente-389450453.jpg"
 language: en
 slug: apartamento-carino-ospitabile-e-acogliente
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

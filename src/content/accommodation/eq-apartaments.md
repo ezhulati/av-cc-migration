@@ -1,7 +1,7 @@
 ---
 title: "EQ Apartaments"
 description: "EQ Apartaments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/identity/profile/b47cd0e05ec8b7831167f4f7593ead56402a6bb4.svg"
+featuredImage: "/images/accommodation/eq-apartaments-b47cd0e05ec8.jpg"
 language: en
 slug: eq-apartaments
 address: "Rruga Gjon Buzuku, Tirana, Albania"

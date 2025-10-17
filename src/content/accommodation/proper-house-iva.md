@@ -1,7 +1,7 @@
 ---
 title: "Proper house Iva"
 description: "Proper House Iva emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388738491.jpg?k=3edae6367d48c3ca9dbebfb9e62d96564e5d5e49f4c2d950670903cb2e7cee89&o=&hp=1"
+featuredImage: "/images/accommodation/proper-house-iva-388738491.jpg"
 language: en
 slug: proper-house-iva
 address: "Str Vangjush Furxhiu, 1001 Tirana, Albania"

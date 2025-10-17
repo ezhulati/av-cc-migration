@@ -1,7 +1,7 @@
 ---
 title: "Spacious Holiday Apartment"
 description: "Spacious Holiday Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386933298.jpg?k=112ad320e732023da26f1471338361706d18e162654259d5cc81b172085597e1&o=&hp=1"
+featuredImage: "/images/accommodation/spacious-holiday-apartment-386933298.jpg"
 language: en
 slug: spacious-holiday-apartment
 address: "117 Rruga Aleksandri i Madh ap.16, 2. floor, 1027 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bleu Saranda Apartment"
 description: "Bleu Saranda Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472289182.jpg?k=9ee5ac0edcb4b8dc54d5cd061d0b4fb5b281380d875fea91c091d71d109d79ff&o=&hp=1"
+featuredImage: "/images/accommodation/bleu-saranda-apartment-472289182.jpg"
 language: en
 slug: bleu-saranda-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Central Deluxe Apartment"
 description: "Central Deluxe Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437198749.jpg?k=ea5fde49a03b20e81396027c0e1dfdbf9d1592dab11431fbc384a0f078a81df2&o=&hp=1"
+featuredImage: "/images/accommodation/central-deluxe-apartment-437198749.jpg"
 language: en
 slug: central-deluxe-apartment
 address: "Rruga e Bogdaneve nr 34, H. 2, Floor 4, apartment 25, 1001 Tirana, Albania"

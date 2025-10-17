@@ -1,7 +1,7 @@
 ---
 title: "Vila Jasmine"
 description: "Vila Jasmine emerges as a serene oasis in the heart of Tirana, offering a unique blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357743024.jpg?k=e1b12fc2d9ace0cd82978dd9bbcf4df4d8c3396aab807f327b2923d56f94c0ba&o=&hp=1"
+featuredImage: "/images/accommodation/vila-jasmine-357743024.jpg"
 language: en
 slug: vila-jasmine
 address: "Rruga Jeronim De Rada, 1001 Tirana, Albania"

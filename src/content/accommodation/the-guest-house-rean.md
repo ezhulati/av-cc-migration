@@ -1,7 +1,7 @@
 ---
 title: "The guest house Rean"
 description: "Guest House Rean stands as a serene retreat in the heart of Berat, boasting a lush garden, an inviting terrace, and a welcoming bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515697433.jpg?k=f8d32245c30e8b66ab5ffd101c0ded7b4e86175a3755ab9ade112be552282760&o=&hp=1"
+featuredImage: "/images/accommodation/the-guest-house-rean-515697433.jpg"
 language: en
 slug: the-guest-house-rean
 address: "Rruga Velabishtajt, 5002 Berat, Albania"

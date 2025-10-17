@@ -1,7 +1,7 @@
 ---
 title: "Hotel Magic"
 description: "Hotel Magic, located in the historic city of Gjirokastër and a mere 44 km from the serene Zaravina Lake, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74115890.jpg?k=9046e4e771b528260a10133966cac83f5ed91c2f198f7d99df03d91a9826452d&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-magic-74115890.jpg"
 language: en
 slug: hotel-magic
 address: "Rruga Xhorxh Sorros, 6004 Gjirokastër, Albania"

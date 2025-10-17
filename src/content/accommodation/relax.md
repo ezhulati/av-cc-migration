@@ -1,7 +1,7 @@
 ---
 title: "Relax"
 description: "Relax Villa presents a serene garden-view retreat in Elbasan, strategically positioned away from the hustle and bustle yet within accessible distance to some of Albania's most notable landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497978475.jpg?k=d67eb820db839b4078b10335835ea17bc05a7fda5fd5f76f21e9eb208c72a5a8&o=&hp=1"
+featuredImage: "/images/accommodation/relax-497978475.jpg"
 language: en
 slug: relax
 address: "Mjekës, 3001 Elbasan, Albania"

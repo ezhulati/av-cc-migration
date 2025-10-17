@@ -1,7 +1,7 @@
 ---
 title: "fronte mare orikum"
 description: "Fronte Mare Orikum stands out as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112209972.jpg?k=bda5dbcba19094ddd2d2df1fc3af8fa3a200c024b44713797d80abdd8ea7baf2&o=&hp=1"
+featuredImage: "/images/accommodation/fronte-mare-orikum-112209972.jpg"
 language: en
 slug: fronte-mare-orikum
 address: "Rruga Orikumi 35, 3924 Orikum, Albania"

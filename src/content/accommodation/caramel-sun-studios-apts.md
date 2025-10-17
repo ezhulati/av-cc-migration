@@ -1,7 +1,7 @@
 ---
 title: "Caramel Sun Studios Apts"
 description: "Caramel Sun Studios Apts emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503732471.jpg?k=101ce6850f605ed8e8504d2a58dd89d4a2952a3cfe294dc3c93bf9d9fba5f62e&o=&hp=1"
+featuredImage: "/images/accommodation/caramel-sun-studios-apts-503732471.jpg"
 language: en
 slug: caramel-sun-studios-apts
 address: "Rruga Flamurit, 9701 Sarandë, Albania"

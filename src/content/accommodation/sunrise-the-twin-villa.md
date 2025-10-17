@@ -1,7 +1,7 @@
 ---
 title: "Sunrise - The Twin Villa"
 description: "Sunrise - The Twin Villa emerges as a premier choice for travelers seeking unparalleled comfort in Shirokë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526469437.jpg?k=d744aaf395b0fe79835a5865823fba0918337d7febc6a9aa41feb821c9f1fb1a&o=&hp=1"
+featuredImage: "/images/accommodation/sunrise-the-twin-villa-526469437.jpg"
 language: en
 slug: sunrise-the-twin-villa
 address: "Rruga e Selvijave, Shirokë, Albania"

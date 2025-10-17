@@ -1,7 +1,7 @@
 ---
 title: "Selvia Apartament"
 description: "Selvia Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476988777.jpg?k=e9b5d25cc5970c069e5e51e8864135b0e4de41a6b2045fbf953502f61c7f96ef&o=&hp=1"
+featuredImage: "/images/accommodation/selvia-apartament-476988777.jpg"
 language: en
 slug: selvia-apartament
 address: "Rruga Sh. Dishnica, ( ish Rruga Saraçeve, Selvia ), pallati \"Aldent\" apartmenti 32, kati 8 . Tirana, 1001 Tirana, Albania"

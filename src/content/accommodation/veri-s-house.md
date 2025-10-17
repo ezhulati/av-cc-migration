@@ -1,7 +1,7 @@
 ---
 title: "Veri's house"
 description: "Veri's House emerges as a serene retreat in the vibrant heart of Tirana, strategically positioned just a short distance from the city's iconic Skanderbeg Square and the breathtaking Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484760410.jpg?k=7326d2bac9e12f0ab6e2e00a7133d7ef38a72c7e40f884255acdec9a9b90274e&o=&hp=1"
+featuredImage: "/images/accommodation/veri-s-house-484760410.jpg"
 language: en
 slug: veri-s-house
 address: "Rruga Gjovalin Gjadri, 1056 Tirana, Albania"

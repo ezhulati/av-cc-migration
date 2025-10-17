@@ -1,7 +1,7 @@
 ---
 title: "Best Apartment"
 description: "Best Apartment emerges as a prime choice for travelers seeking comfort and convenience in Pogradec, positioned strategically within reach of the region's most captivating attractions."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/best-apartment-c84a361d6701.jpg"
 language: en
 slug: best-apartment
 address: "Rruga Gani Butka, 7301 Pogradec, Albania"

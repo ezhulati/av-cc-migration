@@ -1,7 +1,7 @@
 ---
 title: "apartment for rent near the Adriatic Sea-Durres"
 description: "Discover a serene retreat close to the Adriatic Sea in Golem, where the Apartment for Rent near the Adriatic Sea-Durres presents a perfect blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504187399.jpg?k=cf0d4f6db008fcf0c30f0be594e19fb8eb90685e131f6f0da7a5877cd3189e43&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-for-rent-near-the-adriatic-sea-durres-504187399.jpg"
 language: en
 slug: apartment-for-rent-near-the-adriatic-sea-durres
 address: "Rruga Shkembi i Kavajes, 1000 Golem, Albania"

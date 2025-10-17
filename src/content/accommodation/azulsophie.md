@@ -1,7 +1,7 @@
 ---
 title: "AzulSophie"
 description: "AzulSophie emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated within a stone's throw of the serene Liro Beach and merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498083826.jpg?k=277169cf6709d36c4652c218e333dc2a6aef30399dc33f71f425ddf43a4f7a9a&o=&hp=1"
+featuredImage: "/images/accommodation/azulsophie-498083826.jpg"
 language: en
 slug: azulsophie
 address: "Rruga Aleksandër Moisiu 6th floor, Vlorë, Albania"

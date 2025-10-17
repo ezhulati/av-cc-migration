@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Tirana"
 description: "Hotel Vila Tirana emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259437045.jpg?k=78f46d99bed1a173c023f1844145e74dd29e38b34499b5858851a3afc7b35d08&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-tirana-259437045.jpg"
 language: en
 slug: hotel-vila-tirana
 address: "Rruga Servet Libohova Blloku i Vilave, Selite, 1001 Tirana, Albania"

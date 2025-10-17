@@ -1,7 +1,7 @@
 ---
 title: "BOHO Cane Apartment"
 description: "Discover the charm of Tirana from the comfort of BOHO Cane Apartment, a prime choice for travelers seeking both convenience and style."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523176238.jpg?k=58080af8d18ca178b5f634bb80e6d02b79c735a3dd930206476347eb7b409ce6&o=&hp=1"
+featuredImage: "/images/accommodation/boho-cane-apartment-523176238.jpg"
 language: en
 slug: boho-cane-apartment
 address: "Rruga Sandër Prosi, 1001 Tirana, Albania"

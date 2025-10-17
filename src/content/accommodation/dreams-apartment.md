@@ -1,7 +1,7 @@
 ---
 title: "Dreams Apartment"
 description: "Dreams Apartment in Korçë stands out as a prime choice for travelers seeking comfort and convenience, situated just 43 km from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506899756.jpg?k=8e67d6a0ac04e893f68c7a62b783c44598acdbc17f7d5cabfafe9ce326a5940f&o=&hp=1"
+featuredImage: "/images/accommodation/dreams-apartment-506899756.jpg"
 language: en
 slug: dreams-apartment
 address: "Rruga Viktimat e Pojanit, 7001 Korçë, Albania"

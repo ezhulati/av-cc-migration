@@ -1,7 +1,7 @@
 ---
 title: "Lyden Hotel"
 description: "Lyden Hotel emerges as a charming retreat just a stone's throw away from the pristine sands of Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377171828.jpg?k=1398b7e590e430fc7895ae2be5c64a16fa3238a2c6baa7f4ff945ef1977e6af8&o=&hp=1"
+featuredImage: "/images/accommodation/lyden-hotel-377171828.jpg"
 language: en
 slug: lyden-hotel
 address: "Secondary street Plepa-Golem, km. 2 Rruga Kompleksit, Golem, Albania, 2001 Golem, Albania"

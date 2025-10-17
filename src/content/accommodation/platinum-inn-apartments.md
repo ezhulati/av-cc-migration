@@ -1,7 +1,7 @@
 ---
 title: "Platinum INN Apartments"
 description: "Platinum INN Apartments emerges as a prime choice for travelers seeking a serene beachfront getaway in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480873144.jpg?k=e41ce4eb07623bff3a88b14eb04f8160ebf7c30bb78951ae52b58659c18aeac7&o=&hp=1"
+featuredImage: "/images/accommodation/platinum-inn-apartments-480873144.jpg"
 language: en
 slug: platinum-inn-apartments
 address: "Rruga Kanan Maze ,Vlore 84, 9401 Vlorë, Albania"

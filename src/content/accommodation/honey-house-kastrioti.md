@@ -1,7 +1,7 @@
 ---
 title: "Honey-House “Kastrioti”"
 description: "Honey-House \"Kastrioti\" in Përmet stands out as a serene retreat, offering guests a unique blend of comfort and natural beauty with its stunning mountain views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463013631.jpg?k=d3ab2dfbf928fbd78ef592f61618b9bba3cae218d6a43b3040be792737d8e85a&o=&hp=1"
+featuredImage: "/images/accommodation/honey-house-kastrioti-463013631.jpg"
 language: en
 slug: honey-house-kastrioti
 address: "Permet,Lagjia Bajame, 6401 Përmet, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rei's Apartment Permet"
 description: "Rei's Apartment Permet emerges as a serene haven in the heart of Përmet, offering guests a unique blend of comfort and convenience with its air-conditioned spaces, complemented by complimentary WiFi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387990390.jpg?k=ad1d48bc64136d2bf0d3a39e89a620064b8b35fdb1ad333dbc97a9256ec7e4de&o=&hp=1"
+featuredImage: "/images/accommodation/rei-s-apartment-permet-387990390.jpg"
 language: en
 slug: rei-s-apartment-permet
 address: "Rruga Meleq Gosnishti, 6401 Përmet, Albania"

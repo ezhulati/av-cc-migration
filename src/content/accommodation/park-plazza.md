@@ -1,7 +1,7 @@
 ---
 title: "Park Plazza"
 description: "Park Plazza emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë, situated just 44 km from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280585525.jpg?k=2f61adb58369814b9793377a483f3702a67ae15535dd0a70d246943bdc8657e8&o=&hp=1"
+featuredImage: "/images/accommodation/park-plazza-280585525.jpg"
 language: en
 slug: park-plazza
 address: "Bulevardi Republika, Lagjia 12, 7001 Korçë, Albania"

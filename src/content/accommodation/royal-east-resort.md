@@ -1,7 +1,7 @@
 ---
 title: "Royal East Resort"
 description: "Royal East Resort stands out as a distinguished choice for travelers seeking comfort and convenience in Tirana, located just 7."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306243418.jpg?k=f405ea230b23e601ffd700cf0aec4333e7a90a03a84e33b30dee77a85e236cd5&o=&hp=1"
+featuredImage: "/images/accommodation/royal-east-resort-306243418.jpg"
 language: en
 slug: royal-east-resort
 address: "Autostrada Tiranë - Elbasan, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Ndroq"
 description: "Guesthouse Ndroq emerges as a serene retreat, situated a mere 23 km from the Dajti Ekspres Cable Car, offering a unique blend of natural beauty and homely comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485104628.jpg?k=4f59edfc8bd37cd5b778fae8ef074a7df023849c45bb33d471cee236d7165a2d&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-ndroq-485104628.jpg"
 language: en
 slug: guesthouse-ndroq
 address: "SH56 NR 18/1, 1036 Ndroq, Albania"

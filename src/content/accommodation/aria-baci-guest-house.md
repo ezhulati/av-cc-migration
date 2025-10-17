@@ -1,7 +1,7 @@
 ---
 title: "Aria Baci Guest House"
 description: "Aria Baci Guest House in Berat stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472532319.jpg?k=1eebf51542e5e61c53de2e7d8739383b02c5260bde87bc1f0ee780464b638a57&o=&hp=1"
+featuredImage: "/images/accommodation/aria-baci-guest-house-472532319.jpg"
 language: en
 slug: aria-baci-guest-house
 address: "Rruga Llambi Guxhumani, 5001 Berat, Albania"

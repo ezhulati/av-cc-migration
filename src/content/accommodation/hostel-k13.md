@@ -1,7 +1,7 @@
 ---
 title: "Hostel K13"
 description: "Hostel K13 emerges as a vibrant haven for travelers in the heart of Sarandë, offering a unique blend of communal ambiance and modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464945209.jpg?k=b5fa6b54d1b5b29ee18deeee77a6171f9ab6f64096239c5141173378128433a2&o=&hp=1"
+featuredImage: "/images/accommodation/hostel-k13-464945209.jpg"
 language: en
 slug: hostel-k13
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

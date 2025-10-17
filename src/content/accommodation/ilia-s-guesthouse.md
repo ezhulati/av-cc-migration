@@ -1,7 +1,7 @@
 ---
 title: "Ilia’s Guesthouse"
 description: "Ilia's Guesthouse emerges as a serene retreat in Pogradec, strategically positioned within reach of the region's most captivating historical and natural attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519609140.jpg?k=085bd86ec48b57e405b8260a85a765ed015d0ffa8689f0de3da1fec601aaa00e&o=&hp=1"
+featuredImage: "/images/accommodation/ilia-s-guesthouse-519609140.jpg"
 language: en
 slug: ilia-s-guesthouse
 address: "Rruga Rinia Road, Pogradec, Albania"

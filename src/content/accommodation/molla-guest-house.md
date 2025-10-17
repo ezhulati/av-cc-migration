@@ -1,7 +1,7 @@
 ---
 title: "Molla Guest House"
 description: "Molla Guest House emerges as a serene retreat in the historic heart of Theth, merely 4."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211049184.jpg?k=0472187c97b6ab0028f0c16d9d1d01b560a96324365e2ec26df468922de15066&o=&hp=1"
+featuredImage: "/images/accommodation/molla-guest-house-211049184.jpg"
 language: en
 slug: molla-guest-house
 address: "Gjeçaj Theth, 4001 Theth, Albania"

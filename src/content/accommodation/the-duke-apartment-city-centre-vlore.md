@@ -1,7 +1,7 @@
 ---
 title: "The Duke Apartment City Centre Vlore"
 description: "Discover the charm of Vlorë with a stay at The Duke Apartment City Centre Vlore, a prime property positioned conveniently close to the iconic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492603589.jpg?k=3be909f2d77434b2084eb10b4aea6d42de2e24e1e352a33e57659f17ee287944&o=&hp=1"
+featuredImage: "/images/accommodation/the-duke-apartment-city-centre-vlore-492603589.jpg"
 language: en
 slug: the-duke-apartment-city-centre-vlore
 address: "Rruga Ate Kristo Negovani, 9401 Vlorë, Albania"

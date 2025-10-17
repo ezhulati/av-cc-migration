@@ -1,7 +1,7 @@
 ---
 title: "Vila Flamuri"
 description: "Vila Flamuri emerges as a serene oasis in Sarandë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359338098.jpg?k=ad40708515c62002e72cda78529375dd089a1d3c227f6d9ee360aac1c861749e&o=&hp=1"
+featuredImage: "/images/accommodation/vila-flamuri-359338098.jpg"
 language: en
 slug: vila-flamuri
 address: "Rruga 40 Shenjtorët,, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VIVA Golem 2"
 description: "VIVA Golem 2 stands as a prime example of beachfront living at its best in Durrës, offering guests the luxury of stepping directly onto the sands of Shkëmbi i Kavajës Beach from their accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377603507.jpg?k=30e621d964be99897a98aadce0eb41978b23425e67e0201dae3192f401937cb6&o=&hp=1"
+featuredImage: "/images/accommodation/viva-golem-2-377603507.jpg"
 language: en
 slug: viva-golem-2
 address: "Rruga Skënderbeu, kompleksi Dibra Agza, 92, 2504 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "2V1 - 21 Dhjetori AM"
 description: "Discover the charm of Tirana with a stay at 2V1 - 21 Dhjetori AM, a prime accommodation choice that combines convenience with comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/149749096.webp?k=5885b27a79cca8f286eac9176ffa4ab1fbcf0cc9b1114f45f354f8aa20a9d8d2&o=?t=1648361755"
+featuredImage: "/images/accommodation/2v1-21-dhjetori-am-149749096.we.jpg"
 language: en
 slug: 2v1-21-dhjetori-am
 address: "Rruga e Kavajës Rruga e kavajes, Godina 185 , Hyrja 2, Ap.13 Tirane, 1001 Tirana, Albania"

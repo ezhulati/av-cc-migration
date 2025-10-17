@@ -1,7 +1,7 @@
 ---
 title: "Ronaldo Apartment"
 description: "Ronaldo Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476668010.jpg?k=03587f310b0ec208f5b3377477347899ecaa9c4bc441a5cd94af18066ae6a395&o=&hp=1"
+featuredImage: "/images/accommodation/ronaldo-apartment-476668010.jpg"
 language: en
 slug: ronaldo-apartment
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

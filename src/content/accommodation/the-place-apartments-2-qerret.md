@@ -1,7 +1,7 @@
 ---
 title: "The Place Apartments 2, Qerret"
 description: "The Place Apartments 2, Qerret, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Golem coastline."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459562663.jpg?k=b6ffc5bcf4308ccd64bb4c8e719b516ce1540d28c9a30fc27ae6e0ec677b7cab&o=&hp=1"
+featuredImage: "/images/accommodation/the-place-apartments-2-qerret-459562663.jpg"
 language: en
 slug: the-place-apartments-2-qerret
 address: "Rruga Qerret Plazh, 1001 Golem, Albania"

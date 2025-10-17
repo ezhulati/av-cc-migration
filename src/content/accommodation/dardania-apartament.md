@@ -1,7 +1,7 @@
 ---
 title: "Dardania Apartament"
 description: "Dardania Apartament emerges as a serene retreat in Durrës, strategically positioned within a comfortable distance from notable landmarks such as Skanderbeg Square and the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526592999.jpg?k=8c0804dd4f9f9c12b699f783b5b11e5b21b5e7d9214bc52a31b517d4e8a8f93b&o=&hp=1"
+featuredImage: "/images/accommodation/dardania-apartament-526592999.jpg"
 language: en
 slug: dardania-apartament
 address: "Rruga Gjiri i Lalzit, 2002 Durrës, Albania"

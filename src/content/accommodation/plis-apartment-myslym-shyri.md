@@ -1,7 +1,7 @@
 ---
 title: "Plis Apartment Myslym Shyri"
 description: "Plis Apartment Myslym Shyri emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524911473.jpg?k=788acaafad2f767c938a3c79a0ee367f9e3201894ddf889376923cfbe73d020f&o=&hp=1"
+featuredImage: "/images/accommodation/plis-apartment-myslym-shyri-524911473.jpg"
 language: en
 slug: plis-apartment-myslym-shyri
 address: "Rruga Adem Kruja, 1001 Tirana, Albania"

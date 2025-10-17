@@ -1,7 +1,7 @@
 ---
 title: "Apartmán AZURE VIEW"
 description: "Apartmán AZURE VIEW emerges as a prime choice for travelers seeking a serene beachfront escape in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373522745.jpg?k=d71cdf3f599a44345946a211888d05ce56dd7f98be19c9eb972bb9543f05d71e&o=&hp=1"
+featuredImage: "/images/accommodation/apartm-n-azure-view-373522745.jpg"
 language: en
 slug: apartm-n-azure-view
 address: "Rruga Sulejman Delvina 23 Byt č. 29 , 4 podlaží, 2504 Golem, Albania"

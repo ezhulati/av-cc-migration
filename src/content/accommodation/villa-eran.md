@@ -1,7 +1,7 @@
 ---
 title: "Villa Eran"
 description: "Villa Eran emerges as a serene retreat in Baks-Rrjoll, strategically positioned just a short drive from the historic Rozafa Castle Shkodra and the tranquil waters of Lake Skadar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442297164.jpg?k=9232c882e069f020c22e43d627ee659118a82369ebb4208fba8a34d5f9fb3b90&o=&hp=1"
+featuredImage: "/images/accommodation/villa-eran-442297164.jpg"
 language: en
 slug: villa-eran
 address: "Rruga Baks Rrjoll, 4001 Baks-Rrjoll, Albania"

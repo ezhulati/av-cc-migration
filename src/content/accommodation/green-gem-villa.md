@@ -1,7 +1,7 @@
 ---
 title: "Green Gem Villa"
 description: "Green Gem Villa emerges as a standout choice for travelers seeking a serene beachfront escape in Vlorë, perfectly positioned just a stone's throw away from Nazar Beach and a brief drive from Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474560159.jpg?k=98ebd7f5e02f652f4a122c6a085cb7522df0fbca3c7366e2008d5f87c1264ea8&o=&hp=1"
+featuredImage: "/images/accommodation/green-gem-villa-474560159.jpg"
 language: en
 slug: green-gem-villa
 address: "Green Coast Palase, 9425 Vlorë, Albania"

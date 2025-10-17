@@ -1,7 +1,7 @@
 ---
 title: "Cozy Midtown Apartment in Tirana"
 description: "Cozy Midtown Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491294230.jpg?k=3fbb009b9f4c9404af04db61eaa64f606666f6331479cffeb1ac31b6919bf8a7&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-midtown-apartment-in-tirana-491294230.jpg"
 language: en
 slug: cozy-midtown-apartment-in-tirana
 address: "Rruga Musa Maci, 1001 Tirana, Albania"

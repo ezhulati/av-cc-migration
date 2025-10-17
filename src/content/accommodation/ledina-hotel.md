@@ -1,7 +1,7 @@
 ---
 title: "Ledina Hotel"
 description: "Ledina Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Orikum, just a stone's throw away from the serene Al Breeze Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367349334.jpg?k=4e792c42864fd052f79b0a5b5ee98721f89a420f42efdef445a3ffc1e3383d32&o=&hp=1"
+featuredImage: "/images/accommodation/ledina-hotel-367349334.jpg"
 language: en
 slug: ledina-hotel
 address: "Rruga Nacionale Vlore, 1001 Orikum, Albania"

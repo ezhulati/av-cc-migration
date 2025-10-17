@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Apartment at Shkembi Kavajes Kamelia Building"
 description: "Discover the charm of Durrës with a stay at the Beachfront Apartment at Shkembi Kavajes Kamelia Building, a recently updated gem that boasts an enviable location right on the shores between Shkëmbi i Kavajës Beach and Golem Beach, with the iconic Rock of Kavaje just a stone's throw away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488105908.jpg?k=6f37d2e98dbdc6ad39d99ef91d5d1bfdc64ef07c75ee592bfa2301f850204a7b&o=&hp=1"
+featuredImage: "/images/accommodation/beachfront-apartment-at-shkembi-kavajes-kamelia-building-488105908.jpg"
 language: en
 slug: beachfront-apartment-at-shkembi-kavajes-kamelia-building
 address: "Kamelia Resort 3, 2504 Durrës, Albania, Durrës, Albania"

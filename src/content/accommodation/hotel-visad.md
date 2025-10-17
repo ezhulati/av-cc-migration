@@ -1,7 +1,7 @@
 ---
 title: "Hotel VISAD"
 description: "Hotel Visad emerges as a serene oasis along the scenic route that connects Sarandë with Butrint, boasting its very own private beachfront."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107893703.jpg?k=7beb4efb797fa8c3c92b0b12567a6f0bfd09adbb794d45b6766189d9f8e785c0&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-visad-107893703.jpg"
 language: en
 slug: hotel-visad
 address: "Sarandë-Butrint Road, 1st km, 9701 Sarandë, Albania"

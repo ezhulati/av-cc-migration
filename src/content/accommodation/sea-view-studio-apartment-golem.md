@@ -1,7 +1,7 @@
 ---
 title: "Sea View Studio Apartment Golem"
 description: "Sea View Studio Apartment Golem emerges as a prime choice for travelers seeking a serene getaway, located just a stone's throw away from the pristine shores of Golem Beach and within easy walking distance of Qerret Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469647290.jpg?k=39b8df7a59156bc9ef3304865c5c8e7a7f6610c35c93447662f1e5f44af3f0d5&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-studio-apartment-golem-469647290.jpg"
 language: en
 slug: sea-view-studio-apartment-golem
 address: "Rruga Bulevardi i Pishave, 1001 Golem, Albania"

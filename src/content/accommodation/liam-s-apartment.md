@@ -1,7 +1,7 @@
 ---
 title: "Liam's Apartment"
 description: "Liam's Apartment emerges as a serene retreat in Golem, offering a blend of comfort and convenience for travelers seeking a memorable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478859691.jpg?k=f07b1a82d2fa4335f9930757e449930707ed343bfa747b44d29021ec98f2ac9b&o=&hp=1"
+featuredImage: "/images/accommodation/liam-s-apartment-478859691.jpg"
 language: en
 slug: liam-s-apartment
 address: "Rruga e Gjuzeve Bar Restorant Shpiragu, 2001 Golem, Albania"

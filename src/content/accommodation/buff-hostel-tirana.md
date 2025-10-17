@@ -1,7 +1,7 @@
 ---
 title: "Buff Hostel Tirana"
 description: "Buff Hostel Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/139726472.jpg?k=a5ce8c361444d1feca8adde75c11613fb4fb2829f1bf316d8c685341693ff7e0&o=&hp=1"
+featuredImage: "/images/accommodation/buff-hostel-tirana-139726472.jpg"
 language: en
 slug: buff-hostel-tirana
 address: "Rruga Johan Fon Han, Ndertesa: 4, Hyrja: 1, 1002 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Muka"
 description: "Vila Muka emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, situated merely 600 meters from the pristine Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475834399.jpg?k=185d43898c9b3c420e8064b88105d4115938d3b7c3894e62058d3b61880ce946&o=&hp=1"
+featuredImage: "/images/accommodation/vila-muka-475834399.jpg"
 language: en
 slug: vila-muka
 address: "Rruga Butrinti Ksamil, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pretty Home Kaonet"
 description: "Pretty Home Kaonet emerges as a serene retreat in the heart of Orikum, offering guests a unique blend of comfort and convenience with its air-conditioned accommodations that come complete with a welcoming patio."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486319949.jpg?k=c7ca618f9aaa352d18a76e2f13750201299bf6efb1247ec4ea7a17ca2ce83dcf&o=&hp=1"
+featuredImage: "/images/accommodation/pretty-home-kaonet-486319949.jpg"
 language: en
 slug: pretty-home-kaonet
 address: "Rruga Kaonët Apartment 3.5, 9426 Orikum, Albania"

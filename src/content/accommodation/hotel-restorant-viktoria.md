@@ -1,7 +1,7 @@
 ---
 title: "HOTEL RESTORANT VIKTORIA"
 description: "Discover the charm of Gjirokastër with a stay at HOTEL RESTORANT VIKTORIA, a gem located just 46 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303737780.jpg?k=141d9a608a1e9e0df4724cdb97e454ef88567f228d964c81f245f847c96ce2b5&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-restorant-viktoria-303737780.jpg"
 language: en
 slug: hotel-restorant-viktoria
 address: "Liqeni i Viroit, 6002 Gjirokastër, Albania"

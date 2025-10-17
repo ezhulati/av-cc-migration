@@ -1,7 +1,7 @@
 ---
 title: "Hotel Britania"
 description: "Hotel Britania emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89205795.jpg?k=20aa277dc35287f0da08c62baeeccd030330701bcf8a78f04ad748625e3006e1&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-britania-89205795.jpg"
 language: en
 slug: hotel-britania
 address: "Bulevardi Blu Bulevardi blu, 1001 Tirana, Albania"

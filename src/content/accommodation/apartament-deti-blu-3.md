@@ -1,7 +1,7 @@
 ---
 title: "Apartament Deti Blu 3"
 description: "Discover the charm of Vlorë with a stay at Apartament Deti Blu 3, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475110898.jpg?k=54187bac43740c5262408148cc95e2de5a6a9cd15ed845f5877427cfd89f47c1&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-deti-blu-3-475110898.jpg"
 language: en
 slug: apartament-deti-blu-3
 address: "9405 Rruga Murat Tërbaçi, 9405 Vlorë, Albania"

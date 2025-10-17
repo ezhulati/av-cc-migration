@@ -1,7 +1,7 @@
 ---
 title: "Flower Garden Villa"
 description: "Flower Garden Villa presents an enticing option for travelers seeking the comfort of home in the picturesque setting of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51693852.jpg?k=45dc5ac98c617c91e28f4818ab5497f4a584ebd397980c49d218883cc4bf4c76&o=&hp=1"
+featuredImage: "/images/accommodation/flower-garden-villa-51693852.jpg"
 language: en
 slug: flower-garden-villa
 address: "Rruga Tafil Buzi, 9999 Ksamil, Albania"

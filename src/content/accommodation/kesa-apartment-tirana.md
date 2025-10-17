@@ -1,7 +1,7 @@
 ---
 title: "KeSa Apartment Tirana"
 description: "KeSa Apartment Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/107772190.webp?k=87f6f353d4573d1a6989b70b7af1076171a24919be698d70b53db8a3645518fe&o=?t=1609934243"
+featuredImage: "/images/accommodation/kesa-apartment-tirana-107772190.we.jpg"
 language: en
 slug: kesa-apartment-tirana
 address: "Rruga Xhavit Shyqyri Demneri 3/18, 1001 Tirana, Albania"

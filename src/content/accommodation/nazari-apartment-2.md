@@ -1,7 +1,7 @@
 ---
 title: "Nazari Apartment 2"
 description: "Nazari Apartment 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434396003.jpg?k=271215334750bc31ba7d506dd5f13641515a3524430525e5aab2c36f1dff8fed&o=&hp=1"
+featuredImage: "/images/accommodation/nazari-apartment-2-434396003.jpg"
 language: en
 slug: nazari-apartment-2
 address: "Rruga Sulejman Pasha, 1019 Tirana, Albania"

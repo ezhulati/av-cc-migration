@@ -1,7 +1,7 @@
 ---
 title: "Vjosa Guest House"
 description: "Vjosa Guest House, located in the serene Gjirokastër County region of Memaliaj, presents a tranquil retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467273555.jpg?k=125d6826a907c5794dd504bef335ef7249d12ccb980decb5e2bade080d44832d&o=&hp=1"
+featuredImage: "/images/accommodation/vjosa-guest-house-467273555.jpg"
 language: en
 slug: vjosa-guest-house
 address: "Iliras, 6301 Memaliaj, Albania"

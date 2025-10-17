@@ -1,7 +1,7 @@
 ---
 title: "Amazing Seaside View Villa"
 description: "Amazing Seaside View Villa, situated in the serene Vlorë County region of Palasë, presents a captivating retreat for those seeking a blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477317960.jpg?k=9b368e602d76d0b1a5ca7ac8f21911f762c344d41066e14d970bc8d544928bba&o=&hp=1"
+featuredImage: "/images/accommodation/amazing-seaside-view-villa-477317960.jpg"
 language: en
 slug: amazing-seaside-view-villa
 address: "SH8, Palasë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Regency"
 description: "Discover the charm of Korçë with a stay at the stylish Hotel Regency, a prime spot for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67709490.jpg?k=ec03490ac469cd6dbaf6ac7ff9595e42b69ab7f539a39e02bed60bfad36a3625&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-regency-67709490.jpg"
 language: en
 slug: hotel-regency
 address: "Ismail Qemali 7 , 7001 Korçë, Albania"

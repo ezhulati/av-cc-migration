@@ -1,7 +1,7 @@
 ---
 title: "The City Gate Hotel"
 description: "Discover the charm of Sarandë with a stay at The City Gate Hotel, a 3-star establishment that stands out for its commitment to comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377958333.jpg?k=98ed4bcc9e98bd0f4108f15fc87aa1eac7743706bb6b6d23347a35c5ea718417&o=&hp=1"
+featuredImage: "/images/accommodation/the-city-gate-hotel-377958333.jpg"
 language: en
 slug: the-city-gate-hotel
 address: "96 Rruga Skënderbeu, Sarandë, 9701, Albania , 9701 Sarandë, Albania"

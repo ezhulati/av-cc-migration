@@ -1,7 +1,7 @@
 ---
 title: "Villa Luiza Piqeras"
 description: "Villa Luiza Piqeras emerges as a serene retreat in the heart of Piqeras, offering guests a unique blend of comfort and convenience with its air-conditioned accommodations that boast a private patio."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492323938.jpg?k=908786a530174790ca92601a4d15a1934a788556ce28812326abca1d0bc36977&o=&hp=1"
+featuredImage: "/images/accommodation/villa-luiza-piqeras-492323938.jpg"
 language: en
 slug: villa-luiza-piqeras
 address: "Piqeras Sarande Albania, 9713 Piqeras, Albania"

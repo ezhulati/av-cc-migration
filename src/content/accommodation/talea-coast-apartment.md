@@ -1,7 +1,7 @@
 ---
 title: "Talea Coast Apartment"
 description: "Talea Coast Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Lezhë, merely steps away from the pristine sands of Tale Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483815460.jpg?k=abd49bb173c97caddfbf6f03efb4e487a49264edfca73c05cd0cb589d28c0378&o=&hp=1"
+featuredImage: "/images/accommodation/talea-coast-apartment-483815460.jpg"
 language: en
 slug: talea-coast-apartment
 address: "Talea Coast - Tale Lezhe, Lezhë, Albania"

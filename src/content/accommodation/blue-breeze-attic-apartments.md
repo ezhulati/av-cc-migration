@@ -1,7 +1,7 @@
 ---
 title: "Blue Breeze Attic Apartments"
 description: "Blue Breeze Attic Apartments emerges as a prime choice for travelers seeking a serene seafront stay in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473562807.jpg?k=49a1b6932da9d872bc9c8f5e4d94fca78eb69cf8d863cc5ab8fa4b8766a584f0&o=&hp=1"
+featuredImage: "/images/accommodation/blue-breeze-attic-apartments-473562807.jpg"
 language: en
 slug: blue-breeze-attic-apartments
 address: "Rruga Gjergj Araniti, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nice House next to a beautiful park"
 description: "Discover the charm of Tirana with a stay at Nice House, a serene holiday home located adjacent to a picturesque park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368910498.jpg?k=8863c43172e2f6e8be73951eeaeb7ade961b52e82b4b418fe8ff02f6fbb1fdd2&o=&hp=1"
+featuredImage: "/images/accommodation/nice-house-next-to-a-beautiful-park-368910498.jpg"
 language: en
 slug: nice-house-next-to-a-beautiful-park
 address: "Rruga e Dafinave, Nd. 169 Floor 1, 1023 Tirana, Albania"

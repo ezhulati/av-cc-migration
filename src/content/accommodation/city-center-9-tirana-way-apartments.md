@@ -1,7 +1,7 @@
 ---
 title: "City Center 9 - Tirana Way Apartments"
 description: "City Center 9 - Tirana Way Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409669435.jpg?k=95f5a0363cda2dce459bb341bdb5a3dcd96b7d6dbc29a76ab61b318c1538e73b&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-9-tirana-way-apartments-409669435.jpg"
 language: en
 slug: city-center-9-tirana-way-apartments
 address: "Bulevardi Zogu I, 1057 Tirana, Albania"

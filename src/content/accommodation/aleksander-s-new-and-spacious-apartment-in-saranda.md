@@ -1,7 +1,7 @@
 ---
 title: "Aleksander’s New and spacious Apartment in Saranda"
 description: "Aleksander's New and Spacious Apartment in Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434173251.jpg?k=77317a6c9499af131829e7b97ee33233c76f48430b3b2a22ec046fa229b5cf84&o=&hp=1"
+featuredImage: "/images/accommodation/aleksander-s-new-and-spacious-apartment-in-saranda-434173251.jpg"
 language: en
 slug: aleksander-s-new-and-spacious-apartment-in-saranda
 address: "85 Rruga Studenti 2 Floor, 9701 Sarandë, Albania"

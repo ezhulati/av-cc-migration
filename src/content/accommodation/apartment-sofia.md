@@ -1,7 +1,7 @@
 ---
 title: "Apartment Sofia"
 description: "Apartment Sofia emerges as a prime choice for travelers seeking comfort and convenience in Durrës, situated just a short 700-meter stroll from the inviting Durres Beach and within easy reach of the city's key attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469678187.jpg?k=393aaf0940163f956d449533d5c5b6988d75a2d39606279883028600301498fa&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-sofia-469678187.jpg"
 language: en
 slug: apartment-sofia
 address: "Rruga Cezar Ground floor, 2008 Durrës, Albania"

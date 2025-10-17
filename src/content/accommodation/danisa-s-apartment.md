@@ -1,7 +1,7 @@
 ---
 title: "Danisa's Apartment"
 description: "Danisa's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522362379.jpg?k=d87db334a6d4369f2dcc7d95e5dc881c696b9f0172eb744ef1df4ea402ae6ce0&o=&hp=1"
+featuredImage: "/images/accommodation/danisa-s-apartment-522362379.jpg"
 language: en
 slug: danisa-s-apartment
 address: "Rruga e Kompleksi Kika 2 Flor nr.7, 1001 Tirana, Albania"

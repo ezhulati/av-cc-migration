@@ -1,7 +1,7 @@
 ---
 title: "Seli's Room"
 description: "Seli's Room emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513458818.jpg?k=3526d2d3f157599e5fdec5986ef8c54a2f95ff246f97aaab99a174f9b672d01d&o=&hp=1"
+featuredImage: "/images/accommodation/seli-s-room-513458818.jpg"
 language: en
 slug: seli-s-room
 address: "Rruga Allaman Dervishi, 1001 Tirana, Albania"

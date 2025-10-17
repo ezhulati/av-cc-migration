@@ -1,7 +1,7 @@
 ---
 title: "TreA Accomodations - Suite Lungomare"
 description: "TreA Accommodations - Suite Lungomare emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modern amenities in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457088858.jpg?k=45e4472b287ea045991603f57e0888f140843039670f20b2246815331a08d79f&o=&hp=1"
+featuredImage: "/images/accommodation/trea-accomodations-suite-lungomare-457088858.jpg"
 language: en
 slug: trea-accomodations-suite-lungomare
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "ALEXANDER Rooms"
 description: "ALEXANDER Rooms emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478643021.jpg?k=92687e80f09a89c31f16ec932013d1c4ef835d37eba6f691ebaea99e237ef17e&o=&hp=1"
+featuredImage: "/images/accommodation/alexander-rooms-478643021.jpg"
 language: en
 slug: alexander-rooms
 address: "Rruga Pavaresia , Building 50, 2008 Durrës, Albania"

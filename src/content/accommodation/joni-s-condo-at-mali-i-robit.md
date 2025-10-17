@@ -1,7 +1,7 @@
 ---
 title: "Joni's Condo at Mali i Robit"
 description: "Joni's Condo at Mali i Robit emerges as a prime choice for travelers seeking comfort and convenience in the heart of Golem."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+featuredImage: "/images/accommodation/joni-s-condo-at-mali-i-robit-bebbb1d5ff29.jpg"
 language: en
 slug: joni-s-condo-at-mali-i-robit
 address: "Rruga Golem, 2504 Golem, Albania"

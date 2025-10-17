@@ -1,7 +1,7 @@
 ---
 title: "NANA"
 description: "NANA Hostel, located in the vibrant heart of Vlorë and a mere 600 meters from the iconic Independence Square, offers a refreshing take on modern accommodation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499130985.jpg?k=615f4d94a1228acc00ef8368bb16568e3d9b91b57291675cd7b8d9f1f4f59c0e&o=&hp=1"
+featuredImage: "/images/accommodation/nana-499130985.jpg"
 language: en
 slug: nana
 address: "Rruga Demokracia, Vlorë, Albania"

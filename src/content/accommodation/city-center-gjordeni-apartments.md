@@ -1,7 +1,7 @@
 ---
 title: "City Center Gjordeni Apartments"
 description: "City Center Gjordeni Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521633477.jpg?k=cd923308ffe910ea836e69bda651c1679ba5192d04cc1e0d49510e6329f328bd&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-gjordeni-apartments-521633477.jpg"
 language: en
 slug: city-center-gjordeni-apartments
 address: "Rruga Butrinti 9706, 9706 Ksamil, Albania"

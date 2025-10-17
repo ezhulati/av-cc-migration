@@ -1,7 +1,7 @@
 ---
 title: "Three doors apartments, Papaya 1-bedroom apartment"
 description: "Discover the charm of Tirana with a stay at the Three Doors Apartments, specifically the Papaya 1-bedroom apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464012927.jpg?k=268b23a50d7e648745883452d9d322e14ccb97ab00e0ef8f5ce509756f2b6422&o=&hp=1"
+featuredImage: "/images/accommodation/three-doors-apartments-papaya-1-bedroom-apartment-464012927.jpg"
 language: en
 slug: three-doors-apartments-papaya-1-bedroom-apartment
 address: "21 Rruga e Kavajës, 1001 Tirana, Albania"

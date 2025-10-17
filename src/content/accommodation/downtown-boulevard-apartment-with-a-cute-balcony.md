@@ -1,7 +1,7 @@
 ---
 title: "Downtown Boulevard apartment with a cute balcony!"
 description: "Downtown Boulevard Apartment emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480468833.jpg?k=0e05db2f27caba5505c8bff17f7cc8ec7174cf85eb1e12a86184b3da86af6243&o=&hp=1"
+featuredImage: "/images/accommodation/downtown-boulevard-apartment-with-a-cute-balcony-480468833.jpg"
 language: en
 slug: downtown-boulevard-apartment-with-a-cute-balcony
 address: "Rruga Fatmir Haxhiu, 1001 Tirana, Albania"

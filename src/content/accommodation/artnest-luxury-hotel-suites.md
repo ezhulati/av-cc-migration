@@ -1,7 +1,7 @@
 ---
 title: "ArtNest Luxury Hotel & Suites"
 description: "ArtNest Luxury Hotel & Suites emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307987868.jpg?k=dbe6a84682413ab3839d2b4f50dc7bacbbc16156d81d135f326d722f8ce5b8df&o=&hp=1"
+featuredImage: "/images/accommodation/artnest-luxury-hotel-suites-307987868.jpg"
 language: en
 slug: artnest-luxury-hotel-suites
 address: "39.868064, 20.018850 Prane supermarket Yes Cash&Carry Sarande 9701, 9701 Sarandë, Albania"

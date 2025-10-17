@@ -1,7 +1,7 @@
 ---
 title: "Fenix Hotel"
 description: "Fenix Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373865607.jpg?k=a63e0552e29de86b0309e6504109a7a945d383e40122a3b1b760ca682ad678e2&o=&hp=1"
+featuredImage: "/images/accommodation/fenix-hotel-373865607.jpg"
 language: en
 slug: fenix-hotel
 address: "Rruga Butrinti Ksamil Rruga Butrinti, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Alb Apartments"
 description: "Alb Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474837529.jpg?k=380759e1131ad71666d6594a4940c5869f5d97c73348894dd9c1491122812f76&o=&hp=1"
+featuredImage: "/images/accommodation/alb-apartments-474837529.jpg"
 language: en
 slug: alb-apartments
 address: "Rruga Ulvi Vehbiu, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila 10 Fshati Turistik - Ishull Lezhe, Kune Vain"
 description: "Vila 10 Fshati Turistik - Ishull Lezhe, Kune Vain emerges as a serene retreat in the heart of Lezhë, offering a blend of comfort and convenience for travelers seeking a peaceful getaway."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484395968.jpg?k=8b66819df13c2e758ddeb17566afe9f3197ea4a461e0a2d7d67aa96a7647dc50&o=&hp=1"
+featuredImage: "/images/accommodation/vila-10-fshati-turistik-ishull-lezhe-kune-vain-484395968.jpg"
 language: en
 slug: vila-10-fshati-turistik-ishull-lezhe-kune-vain
 address: "Fshati Turistik Ishull-Lezhe, Lezhe, Albania, 4501 Lezhë, Albania"

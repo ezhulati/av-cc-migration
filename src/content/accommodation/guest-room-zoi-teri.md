@@ -1,7 +1,7 @@
 ---
 title: "Guest-Room Zoi&Teri"
 description: "Guest-Room Zoi&Teri emerges as a charming choice for travelers seeking comfort and convenience in Tepelenë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435881515.jpg?k=703ea013cb87a43331bc6423721c05787e15b4c108e7acacc61676e808341b4d&o=&hp=1"
+featuredImage: "/images/accommodation/guest-room-zoi-teri-435881515.jpg"
 language: en
 slug: guest-room-zoi-teri
 address: "Majkosh, 6301 Tepelenë, Albania"

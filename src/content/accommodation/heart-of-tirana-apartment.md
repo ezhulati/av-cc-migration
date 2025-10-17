@@ -1,7 +1,7 @@
 ---
 title: "Heart of tirana apartment"
 description: "Heart of Tirana Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518057628.jpg?k=fcd2215fe5a3e2bec4f88c3b88fb9391cfc6bf1bf815e15d57fc1ad895f70cd8&o=&hp=1"
+featuredImage: "/images/accommodation/heart-of-tirana-apartment-518057628.jpg"
 language: en
 slug: heart-of-tirana-apartment
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

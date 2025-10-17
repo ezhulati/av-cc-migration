@@ -1,7 +1,7 @@
 ---
 title: "Mulaj Hotel"
 description: "Mulaj Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306623721.jpg?k=934adf673eef6f7a7625670f71f303b380eb01ad9a7c82bb0e1d78043a75fb64&o=&hp=1"
+featuredImage: "/images/accommodation/mulaj-hotel-306623721.jpg"
 language: en
 slug: mulaj-hotel
 address: "3 Rruga Donika Kastrioti, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DEA Beach House"
 description: "DEA Beach House emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://graph.facebook.com/v2.9/1114673675/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/dea-beach-house-picture?type.jpg"
 language: en
 slug: dea-beach-house
 address: "Lalzi Bay, Durrës, Albania"

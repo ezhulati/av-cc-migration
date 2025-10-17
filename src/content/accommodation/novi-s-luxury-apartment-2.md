@@ -1,7 +1,7 @@
 ---
 title: "NOVI's Luxury Apartment 2"
 description: "Discover the epitome of urban elegance at NOVI's Luxury Apartment 2, a premier destination for travelers seeking a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469346233.jpg?k=a99eab85e3487ad9866e6167704644355683205e85a8b4895dc8284cf14c61d4&o=&hp=1"
+featuredImage: "/images/accommodation/novi-s-luxury-apartment-2-469346233.jpg"
 language: en
 slug: novi-s-luxury-apartment-2
 address: "Bulevardi 18 Shtatori Building Nr.30, Ap 13, Floor 5, near Hospital, 6001 Gjirokastër, Albania"

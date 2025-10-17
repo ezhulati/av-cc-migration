@@ -1,7 +1,7 @@
 ---
 title: "Vila Kani"
 description: "Vila Kani emerges as a serene retreat in the heart of Krujë, offering a unique blend of comfort and tranquility just a stone's throw away from the bustling Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510125706.jpg?k=2f714a2cf1a73d9b3273d1a991cf0671178b93aa74a44d6c620842d2971a8efe&o=&hp=1"
+featuredImage: "/images/accommodation/vila-kani-510125706.jpg"
 language: en
 slug: vila-kani
 address: "Lagjia, Zim Zeneli, 1501 Krujë, Albania"

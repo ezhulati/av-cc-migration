@@ -1,7 +1,7 @@
 ---
 title: "Bonalba Sea view room 1"
 description: "Bonalba Sea View Room #1 emerges as a prime choice for travelers seeking a serene beachfront escape in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379227348.jpg?k=92950139a726e9f02da17d686f5d56f3d10713708d356ab3f7a552562550b834&o=&hp=1"
+featuredImage: "/images/accommodation/bonalba-sea-view-room-1-379227348.jpg"
 language: en
 slug: bonalba-sea-view-room-1
 address: "6 SH8, 9425 Himare, Albania"

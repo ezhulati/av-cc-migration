@@ -1,7 +1,7 @@
 ---
 title: "Saukwood"
 description: "Saukwood emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sauk."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524065015.jpg?k=44a511e957bcf71539b083419504a3616b5dabc1d07150d2256555409a087351&o=&hp=1"
+featuredImage: "/images/accommodation/saukwood-524065015.jpg"
 language: en
 slug: saukwood
 address: "Rruga Anastas Byku, 1004 Sauk, Albania"

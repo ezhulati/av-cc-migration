@@ -1,7 +1,7 @@
 ---
 title: "Sea view Sarande"
 description: "Sea View Sarande emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482507095.jpg?k=0eb5a27deb93de1ca5cdc50f62a1f81151d0ca482a2f3cbd99d5031769efbee6&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-sarande-482507095.jpg"
 language: en
 slug: sea-view-sarande
 address: "42 Rruga Qazim Demi 3rd floor, Sarandë, Albania"

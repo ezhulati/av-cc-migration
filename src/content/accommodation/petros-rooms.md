@@ -1,7 +1,7 @@
 ---
 title: "Petros rooms"
 description: "Petros Rooms emerges as a serene haven for travelers seeking tranquility and convenience in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471833070.jpg?k=145a476f46565b4f78a58c7f236da74f3834f69c865f23fb64619501d9aaa968&o=&hp=1"
+featuredImage: "/images/accommodation/petros-rooms-471833070.jpg"
 language: en
 slug: petros-rooms
 address: "SH8 Ruga spiromilio, 9425 Himare, Albania"

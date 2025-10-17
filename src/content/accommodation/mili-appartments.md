@@ -1,7 +1,7 @@
 ---
 title: "Mili Appartments"
 description: "Mili Apartments emerges as a prime choice for travelers seeking comfort and convenience in Tale, located just a short 800-meter stroll from the serene Tale Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/mili-appartments-8d80ab6bf73f.jpg"
 language: en
 slug: mili-appartments
 address: "Rrilë - Tale, 4501 Tale, Albania"

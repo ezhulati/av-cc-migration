@@ -1,7 +1,7 @@
 ---
 title: "Alexander Apartment"
 description: "Alexander Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377826765.jpg?k=f1bd6c24d6e85a0e2f990e53d394107bfbf7fe1c513bd799d37b31d3ce3d52a9&o=&hp=1"
+featuredImage: "/images/accommodation/alexander-apartment-377826765.jpg"
 language: en
 slug: alexander-apartment
 address: "ismail Qemali, Ksamil, Albania"

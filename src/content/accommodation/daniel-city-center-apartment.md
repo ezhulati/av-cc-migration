@@ -1,7 +1,7 @@
 ---
 title: "Daniel City Center Apartment"
 description: "Daniel City Center Apartment emerges as a modern haven in the heart of Berat, offering a blend of convenience and comfort for travelers seeking a home away from home."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484086420.jpg?k=54033b9ba0c26b52ad03ab9cfa6f0c8c68995a647b62092bac478c9445a9664a&o=&hp=1"
+featuredImage: "/images/accommodation/daniel-city-center-apartment-484086420.jpg"
 language: en
 slug: daniel-city-center-apartment
 address: "Bulevardi Republika, Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Appartment City Center"
 description: "Tirana Apartment City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460125813.jpg?k=965a8b6e01934534c705f46e6636f772b046206f117ee29ca1b92c063df18ad1&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-appartment-city-center-460125813.jpg"
 language: en
 slug: tirana-appartment-city-center
 address: "Rruga e Kavajës Pallati 36 shkalla 11 appartamenti 7, 1031 Tirana, Albania"

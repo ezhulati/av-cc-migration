@@ -1,7 +1,7 @@
 ---
 title: "Art Gallery Apartments Tirana"
 description: "Art Gallery Apartments Tirana emerges as a prime choice for travelers seeking a blend of comfort, convenience, and security in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504766485.jpg?k=838c7f2651c188cce0aed1e1b9c0707a703c63196c15bcac0202fda6083dc282&o=&hp=1"
+featuredImage: "/images/accommodation/art-gallery-apartments-tirana-504766485.jpg"
 language: en
 slug: art-gallery-apartments-tirana
 address: "58 Rruga Myslym Shyri, 1001 Tirana, Albania"

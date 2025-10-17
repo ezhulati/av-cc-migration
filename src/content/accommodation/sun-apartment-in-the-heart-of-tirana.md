@@ -1,7 +1,7 @@
 ---
 title: "Sun apartment in the heart of Tirana"
 description: "Sun Apartment shines as a prime choice for travelers seeking comfort and convenience in the vibrant heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479725547.jpg?k=4a5a1e17b440104b041426e7f1f193d4d2cb9a1c3f915817aa17d2cff05c3d19&o=&hp=1"
+featuredImage: "/images/accommodation/sun-apartment-in-the-heart-of-tirana-479725547.jpg"
 language: en
 slug: sun-apartment-in-the-heart-of-tirana
 address: "8RG8+2C, Rruga Reshit Çollaku, Tirana 1001 8, 1001 Tirana, Albania"

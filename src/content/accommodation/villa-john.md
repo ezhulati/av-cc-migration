@@ -1,7 +1,7 @@
 ---
 title: "Villa John"
 description: "Villa John emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine Borsh Beach and within a scenic drive from the historic Butrint National Park."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
+featuredImage: "/images/accommodation/villa-john-866dca38dcc3.jpg"
 language: en
 slug: villa-john
 address: "Rruga Plazhit, Borsh, Albania"

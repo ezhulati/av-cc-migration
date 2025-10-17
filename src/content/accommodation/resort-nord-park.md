@@ -1,7 +1,7 @@
 ---
 title: "Resort Nord Park"
 description: "Resort Nord Park, located a mere 25 km from the vibrant Skanderbeg Square in Fushë-Krujë, emerges as a premier destination for travelers seeking a blend of leisure and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312393777.jpg?k=1de2e1b202b2f3c4522465ebf9ef611d4d15ecbcf1a60f6297ab14bab5d89295&o=&hp=1"
+featuredImage: "/images/accommodation/resort-nord-park-312393777.jpg"
 language: en
 slug: resort-nord-park
 address: "Rruga Nacionale, Rinas, 1501 Fushë-Krujë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Denis Comfort Apartment"
 description: "Denis Comfort Apartment stands as a prime choice for travelers seeking comfort and convenience in Shkodër, Shkoder County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353921432.jpg?k=8f17769c6b974c908e0a170e7636b3a03a6f3493251b53e17e69a5c3c84e11af&o=&hp=1"
+featuredImage: "/images/accommodation/denis-comfort-apartment-353921432.jpg"
 language: en
 slug: denis-comfort-apartment
 address: "Bulevardi Mehmet Pashë Plaku, 4001 Shkodër, Albania"

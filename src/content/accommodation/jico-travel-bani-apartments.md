@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Bani Apartments"
 description: "Jico Travel - Bani Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just a short stroll from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/jico-travel-bani-apartments-29d5c93ac695.jpg"
 language: en
 slug: jico-travel-bani-apartments
 address: "Rruga Memo Gjoleka, 9401 Vlorë, Albania"

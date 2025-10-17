@@ -1,7 +1,7 @@
 ---
 title: "PineTrees Beach House with swimming pool"
 description: "PineTrees Beach House with Swimming Pool emerges as a serene oasis in Golem, offering guests a unique blend of privacy and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467782929.jpg?k=8ace80b15a4f210b8740604cc0a77be770049a67e2b63f694623aafdb12d59e2&o=&hp=1"
+featuredImage: "/images/accommodation/pinetrees-beach-house-with-swimming-pool-467782929.jpg"
 language: en
 slug: pinetrees-beach-house-with-swimming-pool
 address: "Fllad Resort, Fshati Turistik Viena, villa 82, Golem, Albania"

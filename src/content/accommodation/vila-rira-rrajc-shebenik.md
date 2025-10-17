@@ -1,7 +1,7 @@
 ---
 title: "VILA RIRA - Rrajcë, Shebenik"
 description: "VILA RIRA - Rrajcë, Shebenik emerges as a serene oasis for travelers seeking a blend of comfort and adventure, situated just 24 km away from the historic Cave Church Archangel Michael."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358653376.jpg?k=d68f3f35c32889ddfbc651829d3e1e64a8a838020af6909b3c05b538d18b5ce4&o=&hp=1"
+featuredImage: "/images/accommodation/vila-rira-rrajc-shebenik-358653376.jpg"
 language: en
 slug: vila-rira-rrajc-shebenik
 address: "Rrajce, Përrenjas, Albania"

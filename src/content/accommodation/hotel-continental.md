@@ -1,7 +1,7 @@
 ---
 title: "Hotel Continental"
 description: "Hotel Continental emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465318254.jpg?k=a0f65c3b575b1e3a7e012cebcc25aa6565577ddb8e214154627c557fe2b97038&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-continental-465318254.jpg"
 language: en
 slug: hotel-continental
 address: "Mbikalimi Plepa, 4001 Durrës, Albania"

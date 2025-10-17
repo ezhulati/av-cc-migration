@@ -1,7 +1,7 @@
 ---
 title: "ET Apartaments"
 description: "ET Apartaments emerges as a serene oasis in the heart of Tirana, offering a tranquil garden setting just moments away from the city's vibrant attractions, including the Bektashi World Centre, Saint Paul Cathedral, and Toptani Shopping Centre."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358011007.jpg?k=2eaf82a7fbc90bd2dbbddd279384706210099c415a857337fa61cf5370840339&o=&hp=1"
+featuredImage: "/images/accommodation/et-apartaments-358011007.jpg"
 language: en
 slug: et-apartaments
 address: "Rruga Todi Shkurti (Spiro Mitro), N°78, 1003 Tirana, Albania"

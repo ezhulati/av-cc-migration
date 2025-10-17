@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Mele"
 description: "Guesthouse Mele, located in the picturesque Gjirokastër, offers a serene retreat with its stunning mountain and lake views, just a stone's throw away from Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301475919.jpg?k=74e2280515cd4d94705982a6c4a78de4934f29803128e08983e477f31cd791be&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-mele-301475919.jpg"
 language: en
 slug: guesthouse-mele
 address: "Rruga Riza Hoxha, 6001 Gjirokastër, Albania"

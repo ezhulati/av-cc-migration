@@ -1,7 +1,7 @@
 ---
 title: "City Center 6 - Tirana Way Apartments"
 description: "City Center 6 - Tirana Way Apartments emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375755130.jpg?k=f79ce14f1627b755d568d68444fb21f190c37c4e5d9c9411f67a5b4e9d146434&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-6-tirana-way-apartments-375755130.jpg"
 language: en
 slug: city-center-6-tirana-way-apartments
 address: "Rruga Selman Riza, 1057 Tirana, Albania"

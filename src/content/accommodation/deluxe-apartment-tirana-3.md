@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Apartment Tirana 3"
 description: "Deluxe Apartment Tirana 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450532753.jpg?k=6b5a58f5d969798b0ac589b7083bfed08bad36b496d1a2c3864d9b2d6d7659f0&o=&hp=1"
+featuredImage: "/images/accommodation/deluxe-apartment-tirana-3-450532753.jpg"
 language: en
 slug: deluxe-apartment-tirana-3
 address: "Rruga Petro Nini Luarasi, 1001 Tirana, Albania"

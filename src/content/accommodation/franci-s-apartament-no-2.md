@@ -1,7 +1,7 @@
 ---
 title: "Franci's apartament No.2"
 description: "Franci's Apartment No."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385561.jpg?k=033bffd8d343a96e9d8a8007e51768b6860b62e21c72a1a38163c802211bb22b&o=&hp=1"
+featuredImage: "/images/accommodation/franci-s-apartament-no-2-378385561.jpg"
 language: en
 slug: franci-s-apartament-no-2
 address: "Rruga Petro Korçari, 1001 Tirana, Albania"

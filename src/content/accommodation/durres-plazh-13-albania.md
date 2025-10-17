@@ -1,7 +1,7 @@
 ---
 title: "Durres, Plazh 13, Albania"
 description: "Durres, Plazh 13, Albania emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine shores of Durres Beach and Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381479911.jpg?k=4661175605f62f1cc60d271c54f9f5e77f845779db3b92a80c512cea73a6b0d2&o=&hp=1"
+featuredImage: "/images/accommodation/durres-plazh-13-albania-381479911.jpg"
 language: en
 slug: durres-plazh-13-albania
 address: "Plazh 13, Durres 5. podlaží, Durrës, Albania"

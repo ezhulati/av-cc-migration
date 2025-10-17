@@ -1,7 +1,7 @@
 ---
 title: "Apartament Beach"
 description: "Discover the charm of Durrës with a stay at Apartament Beach, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522067562.jpg?k=07c4bfed6c38be99cc8bfacaa177a464e4434ecd28456d0d8135cf87781c3f0a&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-beach-522067562.jpg"
 language: en
 slug: apartament-beach
 address: "Rruga Bajram Curri, 2001 Durrës, Albania"

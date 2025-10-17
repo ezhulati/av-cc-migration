@@ -1,7 +1,7 @@
 ---
 title: "Bllok Area Apartment"
 description: "Bllok Area Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496133660.jpg?k=13e44d465995a6a666f6acbef8350ce5e06571f2c86d7f8c94d5027e72d5808f&o=&hp=1"
+featuredImage: "/images/accommodation/bllok-area-apartment-496133660.jpg"
 language: en
 slug: bllok-area-apartment
 address: "Rruga Gjik Kuqali, 1001 Tirana, Albania"

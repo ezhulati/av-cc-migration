@@ -1,7 +1,7 @@
 ---
 title: "NOI HOTEL"
 description: "NOI HOTEL emerges as a serene oasis in the heart of Ksamil, a mere stone's throw from the pristine shores of Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300691528.jpg?k=5969c0a11cd3303c5025640afc901d66f5c4c7f48cdeae101899836f46aa579a&o=&hp=1"
+featuredImage: "/images/accommodation/noi-hotel-300691528.jpg"
 language: en
 slug: noi-hotel
 address: "Rruga Derveni, Ksamil, 9706 Ksamil, Albania"

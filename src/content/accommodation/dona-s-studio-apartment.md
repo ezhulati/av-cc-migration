@@ -1,7 +1,7 @@
 ---
 title: "Dona's Studio Apartment"
 description: "Dona's Studio Apartment offers a serene retreat in the heart of Gjirokastër, providing guests with modern comforts and the convenience of free WiFi across the premises."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447744042.jpg?k=d81fd01a3e636805c0a006e968dd1b924f86b7c2a7d0d4ab10b1845f928e4462&o=&hp=1"
+featuredImage: "/images/accommodation/dona-s-studio-apartment-447744042.jpg"
 language: en
 slug: dona-s-studio-apartment
 address: "Rruga Mihal Duri, 6001 Gjirokastër, Albania"

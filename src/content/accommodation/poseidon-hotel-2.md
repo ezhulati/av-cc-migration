@@ -1,7 +1,7 @@
 ---
 title: "Poseidon Hotel 2"
 description: "Poseidon Hotel 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468987316.jpg?k=652dd6c030e0e7b600f893e0a49493be361ec6385604c1ec82e9e858557f1ac5&o=&hp=1"
+featuredImage: "/images/accommodation/poseidon-hotel-2-468987316.jpg"
 language: en
 slug: poseidon-hotel-2
 address: "Rruga Kostandin Kristoforidhi, 9706 Ksamil, Albania"

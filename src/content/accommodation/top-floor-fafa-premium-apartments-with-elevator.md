@@ -1,7 +1,7 @@
 ---
 title: "Top Floor Fafa Premium apartments with elevator"
 description: "Top Floor Fafa Premium Apartments elevates the beachfront living experience in Golem, offering guests a prime location just a stone's throw away from Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487641090.jpg?k=a9957c6d524be797b0b4b7aca5eae0104a2d5d586bf86e0d48f7d053d365a8b3&o=&hp=1"
+featuredImage: "/images/accommodation/top-floor-fafa-premium-apartments-with-elevator-487641090.jpg"
 language: en
 slug: top-floor-fafa-premium-apartments-with-elevator
 address: "Mali i Robit , Golem golem ,2504, Albania, 2504 Golem, Albania"

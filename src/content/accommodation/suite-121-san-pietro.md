@@ -1,7 +1,7 @@
 ---
 title: "Suite 121 - San Pietro"
 description: "Suite 121 - San Pietro emerges as a distinguished choice for travelers seeking a serene beachfront escape in Durrës, mere steps away from the tranquil Lalëz Bay Beach and within a comfortable distance of 43 km from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466082324.jpg?k=260d26c354da3686122fa4a76c4cd9adeadc714e772acd4c5aabf1a97e604179&o=&hp=1"
+featuredImage: "/images/accommodation/suite-121-san-pietro-466082324.jpg"
 language: en
 slug: suite-121-san-pietro
 address: "San Pietro Resort 121 Kompleksi San Pietro, 2015 Durrës, Albania"

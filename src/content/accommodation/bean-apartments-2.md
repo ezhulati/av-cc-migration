@@ -1,7 +1,7 @@
 ---
 title: "Bean Apartments 2"
 description: "Bean Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511977427.jpg?k=f15663cacaac1ad2984962681482f24093fbb3748a9f0c8acab29b4c7c5acc1c&o=&hp=1"
+featuredImage: "/images/accommodation/bean-apartments-2-511977427.jpg"
 language: en
 slug: bean-apartments-2
 address: "Rruga Gjergj Legisi, Nr 5 Floor 1, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Makry"
 description: "Guesthouse Makry emerges as a serene retreat in Pukë, offering a harmonious blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491704901.jpg?k=8798e0cf5c3e3c0d398fcd0d09f0688b73cbac206506011663d75b6b9ca2d452&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-makry-491704901.jpg"
 language: en
 slug: guesthouse-makry
 address: "Rruga Fushë-Arrëz-Iballë, Lagja \"Mejdan\", Fshati Kryezi, 4402 Pukë, Albania"

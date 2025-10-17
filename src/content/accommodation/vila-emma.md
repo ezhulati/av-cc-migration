@@ -1,7 +1,7 @@
 ---
 title: "Vila Emma"
 description: "Vila Emma emerges as a serene retreat in Durrës, strategically positioned a mere 35 km from the historic Skanderbeg Square and 39 km from the scenic Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431636519.jpg?k=3fcd62bb1d5505ab18f404f11399b18c3ab70522a5f1f5a1207629728d4dd70b&o=&hp=1"
+featuredImage: "/images/accommodation/vila-emma-431636519.jpg"
 language: en
 slug: vila-emma
 address: "8FMH+996 Durrës, 2000 Durrës, Albania"

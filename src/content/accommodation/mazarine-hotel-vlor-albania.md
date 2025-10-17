@@ -1,7 +1,7 @@
 ---
 title: "Mazarine Hotel, Vlorë, Albania"
 description: "Mazarine Hotel in Vlorë, Albania, stands out as a premier destination for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378984189.jpg?k=b320f3edd9cd8ba252beab4310ebb0ebd1b909ceca11e677996cd4deba710dc7&o=&hp=1"
+featuredImage: "/images/accommodation/mazarine-hotel-vlor-albania-378984189.jpg"
 language: en
 slug: mazarine-hotel-vlor-albania
 address: "Rruga Sali Vranishti, 9404 Vlorë, Albania"

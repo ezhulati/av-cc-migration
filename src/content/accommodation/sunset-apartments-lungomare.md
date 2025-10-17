@@ -1,7 +1,7 @@
 ---
 title: "Sunset Apartments Lungomare"
 description: "Sunset Apartments Lungomare emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376678123.jpg?k=eb3b1c8f9455b9e1f338ed3498aaefbebf71e0738d4f6857b359b9c9fce73db5&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-apartments-lungomare-376678123.jpg"
 language: en
 slug: sunset-apartments-lungomare
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

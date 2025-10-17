@@ -1,7 +1,7 @@
 ---
 title: "Vila Renato Ksamil"
 description: "Vila Renato Ksamil emerges as a serene retreat, offering guests a unique blend of comfort and scenic beauty, just a stone's throw away from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205502866.jpg?k=c193608c8c4025072d0e5cae9a2a121adf615fa01dc5ea8d084fdb8e571251b8&o=&hp=1"
+featuredImage: "/images/accommodation/vila-renato-ksamil-205502866.jpg"
 language: en
 slug: vila-renato-ksamil
 address: "Palma and Sami Frasheri, 9706 Ksamil, Albania"

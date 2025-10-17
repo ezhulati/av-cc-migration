@@ -1,7 +1,7 @@
 ---
 title: "Hotel Epidamn Boutique & Spa"
 description: "Hotel Epidamn Boutique & Spa stands out as a beacon of comfort and luxury in Durrës, merely a stone's throw away from the serene Currila Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323560945.jpg?k=cacb92a3c760747071c6bda4180e232cafbf0422579426f643c97bacd62c0038&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-epidamn-boutique-spa-323560945.jpg"
 language: en
 slug: hotel-epidamn-boutique-spa
 address: "Blvd. Epidamn, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VG Holiday's Rooms"
 description: "VG Holiday's Rooms emerges as a serene retreat, merely a stone's throw away from the pristine Borsh Beach, located 1."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
+featuredImage: "/images/accommodation/vg-holiday-s-rooms-29d5c93ac695.jpg"
 language: en
 slug: vg-holiday-s-rooms
 address: "Sh8 Rruga Plazhi 2, 9713 Borsh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mamma's Apartments"
 description: "Mamma's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454806732.jpg?k=ef8d66babeb20b1418002ebc7101ba6453b2dc5688cc339eb372332786a906c5&o=&hp=1"
+featuredImage: "/images/accommodation/mamma-s-apartments-454806732.jpg"
 language: en
 slug: mamma-s-apartments
 address: "Ismail Qemali & Themistokli Bahima, 9701 Sarandë, Albania"

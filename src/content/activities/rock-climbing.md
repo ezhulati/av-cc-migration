@@ -2,7 +2,7 @@
 title: Rock Climbing
 description: Discover the breathtaking beauty and thrilling challenges of rock climbing in Albania with our comprehensive guide.
 category: Outdoor Adventure
-featuredImage: ""
+featuredImage: "/images/attractions/Albanian-Alps-1-1024x683.jpeg"
 language: en
 slug: rock-climbing
 ---

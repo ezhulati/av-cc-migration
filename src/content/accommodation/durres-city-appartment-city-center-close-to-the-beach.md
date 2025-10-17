@@ -1,7 +1,7 @@
 ---
 title: "Durres City Appartment, City center & close to the beach"
 description: "Durres City Apartment stands out as a prime choice for travelers seeking the perfect blend of urban convenience and beachside bliss."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455041663.jpg?k=d4c6bb6999d3a5550a98ffb675f38d42e96fd1be4616a047544336c1780480d6&o=&hp=1"
+featuredImage: "/images/accommodation/durres-city-appartment-city-center-close-to-the-beach-455041663.jpg"
 language: en
 slug: durres-city-appartment-city-center-close-to-the-beach
 address: "Rruga Taulantia, pallati 27 katesh 14-th floor, Apartment 53, 2001 Durrës, Albania"

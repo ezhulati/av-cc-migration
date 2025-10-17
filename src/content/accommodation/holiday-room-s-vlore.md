@@ -1,7 +1,7 @@
 ---
 title: "Holiday Room’s Vlore"
 description: "Holiday Room's Vlore emerges as a prime choice for travelers seeking a serene escape with breathtaking sea views, located just a stone's throw away from the Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470498808.jpg?k=ab7d994827f3464b1ae53f926aadd2b588ba6635cd044d198504ed63570c0cc6&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-room-s-vlore-470498808.jpg"
 language: en
 slug: holiday-room-s-vlore
 address: "Rruga Dhimitër Konomi, 9400 Vlorë, Albania"

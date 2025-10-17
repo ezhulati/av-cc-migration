@@ -1,7 +1,7 @@
 ---
 title: "AKE Fishta Apartament"
 description: "AKE Fishta Apartament emerges as a standout choice for travelers seeking a blend of comfort and convenience in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304459955.jpg?k=c815d988987b7d0a35a89036f26db3a084645090558abcbeddf2b0b2d29f210f&o=&hp=1"
+featuredImage: "/images/accommodation/ake-fishta-apartament-304459955.jpg"
 language: en
 slug: ake-fishta-apartament
 address: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"

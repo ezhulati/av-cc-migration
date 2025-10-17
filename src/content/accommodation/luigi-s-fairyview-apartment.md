@@ -1,7 +1,7 @@
 ---
 title: "Luigi s Fairyview Apartment"
 description: "Luigi's Fairyview Apartment emerges as a prime choice for travelers seeking a serene getaway in Sarandë, boasting a unique combination of private pool luxury and captivating garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207029674.jpg?k=52f9742f8f56caafed667df432b62c24fd2ee6f1bb7da4723faf6fbbbca3f373&o=&hp=1"
+featuredImage: "/images/accommodation/luigi-s-fairyview-apartment-207029674.jpg"
 language: en
 slug: luigi-s-fairyview-apartment
 address: "Rruga Idriz Alidhima, 9700 Sarandë, Albania"

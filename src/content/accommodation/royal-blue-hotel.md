@@ -1,7 +1,7 @@
 ---
 title: "Royal Blue Hotel"
 description: "Discover the charm of Dhërmi with a stay at the Royal Blue Hotel, a gem that stands a mere 500 meters from the heart of the town."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158548462.jpg?k=cfdff21ef755fe339fe704fddcf41597d4febf25ee964b2aa907cfa47cf9e2aa&o=&hp=1"
+featuredImage: "/images/accommodation/royal-blue-hotel-158548462.jpg"
 language: en
 slug: royal-blue-hotel
 address: "Dhermi Beach, 1001 Dhërmi, Albania"

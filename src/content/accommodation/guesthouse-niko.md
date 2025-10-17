@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Niko"
 description: "Guesthouse Niko emerges as a charming retreat in the heart of Berat, offering a unique blend of comfort and convenience for travelers seeking an authentic lodging experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/132680567.jpg?k=adbe1b4fdbb65cab5af471008571e7161eff3ea202825a5c3571c85d17d279c8&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-niko-132680567.jpg"
 language: en
 slug: guesthouse-niko
 address: "Rruga Santa Lucia, 29, 1001 Berat, Albania"

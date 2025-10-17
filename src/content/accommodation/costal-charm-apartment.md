@@ -1,7 +1,7 @@
 ---
 title: "Costal Charm Apartment"
 description: "Costal Charm Apartment emerges as a serene oasis in Golem, offering a unique blend of comfort and convenience for travelers seeking a memorable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481837095.jpg?k=07eb7063e9fcde9531a6e8a95da5bc82e83207ca784e88a937a24e5a68250b6b&o=&hp=1"
+featuredImage: "/images/accommodation/costal-charm-apartment-481837095.jpg"
 language: en
 slug: costal-charm-apartment
 address: "Golem Mali Robit Kompleksi Kaltersia, 2504 Golem, Albania"

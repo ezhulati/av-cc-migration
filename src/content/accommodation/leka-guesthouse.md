@@ -1,7 +1,7 @@
 ---
 title: "Leka GuestHouse"
 description: "Leka GuestHouse emerges as a serene retreat in the heart of Gjirokastër, boasting a tranquil garden and an inviting terrace for guests seeking peace and relaxation."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/leka-guesthouse-8d80ab6bf73f.jpg"
 language: en
 slug: leka-guesthouse
 address: "Rruga Hysen Koci, 6001 Gjirokastër, Albania"

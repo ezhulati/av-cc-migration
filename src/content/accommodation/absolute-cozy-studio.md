@@ -1,7 +1,7 @@
 ---
 title: "Absolute Cozy Studio"
 description: "Absolute Cozy Studio emerges as a charming choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224490883.jpg?k=f4cd2767092413a743f7bf54dca90d24b551affce006e2243f5647fa7489cee5&o=&hp=1"
+featuredImage: "/images/accommodation/absolute-cozy-studio-224490883.jpg"
 language: en
 slug: absolute-cozy-studio
 address: "Str: Zef Jubani in front of School-Deshmoret e Lirise Building 15 Apartment 33 Floor 5, 1001 Tirana, Albania"

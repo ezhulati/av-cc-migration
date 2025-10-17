@@ -1,7 +1,7 @@
 ---
 title: "Guest House Seferi Ξενωνας Σεφερη"
 description: "Guest House Seferi Ξενωνας Σεφερη emerges as a charming retreat in the picturesque setting of Gjirokastër, a stone's throw away from the serene Zaravina Lake and the majestic Gormos River Valley."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478939186.jpg?k=26e39c6d4f0f3531e09da4ae9222291552bcf72e332187fbce0356f761a080c9&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-seferi-478939186.jpg"
 language: en
 slug: guest-house-seferi
 address: "Metamorfosesos, Sotira, 6001 Gjirokastër, Albania"

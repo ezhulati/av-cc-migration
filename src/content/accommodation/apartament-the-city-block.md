@@ -1,7 +1,7 @@
 ---
 title: "Apartament The City Block"
 description: "Discover the charm of Pogradec with a stay at Apartament The City Block, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376385234.jpg?k=80c06b94cc645acc35430e9cda4f6aedf81e21bfdf1c64c7bfd83f902a53bb8f&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-the-city-block-376385234.jpg"
 language: en
 slug: apartament-the-city-block
 address: "Rruga Agron Ruvina, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Kokoneshi"
 description: "Vila Kokoneshi stands out as a serene retreat in Divjakë, located just 43 km away from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359616580.jpg?k=d5f3433b636feb7530e05b41ab5963c89b72e5f1c21899e68caf3a7329c2c821&o=&hp=1"
+featuredImage: "/images/accommodation/vila-kokoneshi-359616580.jpg"
 language: en
 slug: vila-kokoneshi
 address: "Rr.\"Kryqezimit AL, 9022, Albania, 9022 Divjakë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Saranda 3D Sea View Apartment"
 description: "Saranda 3D Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370518778.jpg?k=9587eae1eff50a1dc4a1c1ef72f6691f2d528648b371f19c50f28c72308e5937&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-3d-sea-view-apartment-370518778.jpg"
 language: en
 slug: saranda-3d-sea-view-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

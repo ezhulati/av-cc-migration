@@ -1,7 +1,7 @@
 ---
 title: "Fully equipped apartment in the city center with a lake view"
 description: "Discover the charm of Pogradec with a stay at this prime lakeview apartment, perfectly positioned in the city center for an unforgettable escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377662928.jpg?k=cd1a4b90616aff67646f76a744e1906fc3a517f07730708c0c3330430f5d8f22&o=&hp=1"
+featuredImage: "/images/accommodation/fully-equipped-apartment-in-the-city-center-with-a-lake-view-377662928.jpg"
 language: en
 slug: fully-equipped-apartment-in-the-city-center-with-a-lake-view
 address: "Fan S. Noli, 7301 Pogradec, Albania"

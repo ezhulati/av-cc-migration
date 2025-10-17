@@ -1,7 +1,7 @@
 ---
 title: "Hotel Hyso Vela"
 description: "Hotel Hyso Vela, established in 1999 and located a mere 7 km from the pristine Borsh Beach in Piqeras, stands out as a beacon of comfort and hospitality."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264847112.jpg?k=0cc7db525d04a6e5eb108d38f74ccd52f9013ceaa03053d190833909fdd972d4&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-hyso-vela-264847112.jpg"
 language: en
 slug: hotel-hyso-vela
 address: "Rruga kryesore Piqeras, Sarande Rruga Borsh - Lukove, Sarande, 9715 Piqeras, Albania"

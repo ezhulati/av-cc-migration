@@ -1,7 +1,7 @@
 ---
 title: "Luander Hotel"
 description: "Luander Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226048520.jpg?k=7d606f98e1d30fad1b0d4682c98bd309c6cd7b34461661d7d9c68def35bfc8b2&o=&hp=1"
+featuredImage: "/images/accommodation/luander-hotel-226048520.jpg"
 language: en
 slug: luander-hotel
 address: "Llazi Miho Tirane Sh 56, 1041 Tirana, Albania"

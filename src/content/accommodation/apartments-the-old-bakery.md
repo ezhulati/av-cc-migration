@@ -1,7 +1,7 @@
 ---
 title: "Apartments The Old Bakery"
 description: "Apartments The Old Bakery in Qeparo stands out as a prime choice for travelers seeking comfort and convenience, located just a short distance from the pristine Borsh Beach (2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357058494.jpg?k=c2522c119eec197386036a60a57984a7a55bee4cd367b77f509182c0ddd8d06a&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-the-old-bakery-357058494.jpg"
 language: en
 slug: apartments-the-old-bakery
 address: "Qender Qeparo, Qeparo, Albania"

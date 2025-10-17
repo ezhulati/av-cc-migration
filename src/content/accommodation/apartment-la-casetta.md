@@ -1,7 +1,7 @@
 ---
 title: "Apartment La Casetta"
 description: "Apartment La Casetta emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocIw8duwLh4dNfsaPI9dfbfl3iLZmRxbGXY1Zge5LnhwaOE=s96-c64"
+featuredImage: "/images/accommodation/apartment-la-casetta-ACg8ocIw8duw.jpg"
 language: en
 slug: apartment-la-casetta
 address: "rruga thanas zikonr nr 46/1, 1001 Tirana, Albania"

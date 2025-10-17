@@ -1,7 +1,7 @@
 ---
 title: "Tékada Hotel & Restaurant"
 description: "Tékada Hotel & Restaurant emerges as a charming retreat in Vlorë, boasting an enviable location mere steps from the serene Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375733141.jpg?k=5269a19450fdca461d05d478709f91e02488fe46383a8773a8a12d526f13b798&o=&hp=1"
+featuredImage: "/images/accommodation/t-kada-hotel-restaurant-375733141.jpg"
 language: en
 slug: t-kada-hotel-restaurant
 address: "Rruga Aleksandër Moisiu Uji i ftohte vlore, 9405 Vlorë, Albania"

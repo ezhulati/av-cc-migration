@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Bimbli"
 description: "Guesthouse Bimbli emerges as a serene retreat in Pogradec, offering guests a unique blend of comfort and convenience with its well-appointed garden, terrace, and on-site dining options."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68197536.jpg?k=9045e83355c3cf627a85a027edf3617872d45ec93df379536b1fbfb8ba7f88ea&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-bimbli-68197536.jpg"
 language: en
 slug: guesthouse-bimbli
 address: "Rruga 10 Dëshmorët e Pojskës, 7300 Pogradec, Albania"

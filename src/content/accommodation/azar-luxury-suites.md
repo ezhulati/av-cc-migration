@@ -1,7 +1,7 @@
 ---
 title: "Azar Luxury Suites"
 description: "Azar Luxury Suites emerges as a premier destination for travelers seeking unparalleled luxury by the sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478241301.jpg?k=4af9f1fcd5efb55d6fc489d2c1c1b6e715d13cd31a256d062404108c3053c4f8&o=&hp=1"
+featuredImage: "/images/accommodation/azar-luxury-suites-478241301.jpg"
 language: en
 slug: azar-luxury-suites
 address: "Rruga Aleksandër Moisiu, 9402 Vlorë, Albania"

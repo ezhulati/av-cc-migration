@@ -1,7 +1,7 @@
 ---
 title: "Star Room's"
 description: "Star Room's emerges as a charming retreat in the heart of Vlorë, a mere stone's throw away from the serene Vjetër Beach and a short drive from the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466264429.jpg?k=90b84543ee7a5a8bc86796496832fcb8a5389628de9f4cf6dbbcaf089e7f243e&o=&hp=1"
+featuredImage: "/images/accommodation/star-room-s-466264429.jpg"
 language: en
 slug: star-room-s
 address: "Rruga Andrea Varfi, 9400 Vlorë, Albania"

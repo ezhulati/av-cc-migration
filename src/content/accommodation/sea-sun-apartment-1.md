@@ -1,7 +1,7 @@
 ---
 title: "sea & sun apartment 1"
 description: "Sea & Sun Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464129976.jpg?k=8cedee9d9afe1918b7cf01488084a6179bc29cd19d7acb65c91b21885015bcb2&o=&hp=1"
+featuredImage: "/images/accommodation/sea-sun-apartment-1-464129976.jpg"
 language: en
 slug: sea-sun-apartment-1
 address: "Rr pavarsia durres, 2008 Durrës, Albania"

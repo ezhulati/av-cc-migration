@@ -1,7 +1,7 @@
 ---
 title: "Green Terrace Apartment 6"
 description: "Green Terrace Apartment 6 emerges as a modern oasis in the heart of Tirana, boasting a prime location that places guests within arm's reach of the city's most iconic landmarks, including Skanderbeg Square, the Former Residence of Enver Hoxha, and the National Museum of History Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459017134.jpg?k=0a9ac3c0212ba546a23d6de244506c448d3815cc2b94eb0e144b791e8d7d2317&o=&hp=1"
+featuredImage: "/images/accommodation/green-terrace-apartment-6-459017134.jpg"
 language: en
 slug: green-terrace-apartment-6
 address: "Rruga Bardhok Biba, 1001 Tirana, Albania"

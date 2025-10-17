@@ -1,7 +1,7 @@
 ---
 title: "Dorchester Hotel"
 description: "Dorchester Hotel stands as a beacon of comfort and convenience in the heart of Sarandë, just a stone's throw away from the pristine Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369877917.jpg?k=8905d08e48d63cf310dcd14359df3e8ac7f7d3be6ab89c50fb221ef726ca74e4&o=&hp=1"
+featuredImage: "/images/accommodation/dorchester-hotel-369877917.jpg"
 language: en
 slug: dorchester-hotel
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

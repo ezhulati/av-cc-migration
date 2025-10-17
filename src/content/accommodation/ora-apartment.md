@@ -1,7 +1,7 @@
 ---
 title: "Ora Apartment"
 description: "Ora Apartment in Shkodër stands out as a prime choice for travelers seeking comfort and convenience, located just 48 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463884708.jpg?k=3087248bff1d81e0e3fcb6cacb71b4540b622f1a562704776337f1bd0a510c6a&o=&hp=1"
+featuredImage: "/images/accommodation/ora-apartment-463884708.jpg"
 language: en
 slug: ora-apartment
 address: "Rruga Bardhosh Dani Third floor, 4001 Shkodër, Albania"

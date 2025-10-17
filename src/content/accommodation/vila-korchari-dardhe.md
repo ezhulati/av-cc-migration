@@ -1,7 +1,7 @@
 ---
 title: "Vila Korchari Dardhe"
 description: "Vila Korchari Dardhe emerges as a serene retreat in the heart of Korçë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378834248.jpg?k=6e32f036bb0e27cbccf63d585841f6ff77fb5b02dbb6974fc68c4425295ecb4d&o=&hp=1"
+featuredImage: "/images/accommodation/vila-korchari-dardhe-378834248.jpg"
 language: en
 slug: vila-korchari-dardhe
 address: "Dardhe, 1112 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Casa Gioia"
 description: "Casa Gioia emerges as a serene retreat in Shkodër, located a mere 49 km from the Port of Bar, offering a blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451377924.jpg?k=53f0d95410050d817004bfda3b85e307d8ebbeb9a8ee71503ae6b2c14c3ac1df&o=&hp=1"
+featuredImage: "/images/accommodation/casa-gioia-451377924.jpg"
 language: en
 slug: casa-gioia
 address: "Lagjia Perlat Rexhepi, 4001 Shkodër, Albania"

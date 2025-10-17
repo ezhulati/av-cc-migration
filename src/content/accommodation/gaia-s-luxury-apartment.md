@@ -1,7 +1,7 @@
 ---
 title: "Gaia's Luxury Apartment"
 description: "Gaia's Luxury Apartment, a recently revamped gem in Sarandë, stands out for its prime location close to Sarande Main Beach, Saranda City Beach, and La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472908894.jpg?k=59fa1ce12b7811026247c5de21c73c535c271d0151257e514eec7b25eda26763&o=&hp=1"
+featuredImage: "/images/accommodation/gaia-s-luxury-apartment-472908894.jpg"
 language: en
 slug: gaia-s-luxury-apartment
 address: "Rruga Ismail Qemali,Nd.35, H.5, Ap.36, 9701 Sarandë, Albania"

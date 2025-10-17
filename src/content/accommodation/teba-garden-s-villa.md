@@ -1,7 +1,7 @@
 ---
 title: "Teba Garden's Villa"
 description: "Teba Garden's Villa emerges as a serene haven in the vibrant city of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454184072.jpg?k=99539c6892eb8e7c7d981a1a0ef2a3c9251cb348140a7010dd0a186b79f68023&o=&hp=1"
+featuredImage: "/images/accommodation/teba-garden-s-villa-454184072.jpg"
 language: en
 slug: teba-garden-s-villa
 address: "Rruga Hamdi Cullhaj, 1001 Tirana, Albania"

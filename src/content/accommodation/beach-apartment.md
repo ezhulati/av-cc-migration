@@ -1,7 +1,7 @@
 ---
 title: "Beach Apartment"
 description: "Beach Apartment emerges as a serene oasis in Sarandë, boasting its own slice of private beachfront mere steps from the shimmering waters of La Petite Beach and a short stroll from the vibrant Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479793696.jpg?k=1d9e10640cdb93d136d02317b652b68aba1b6e2b22bdebedf665734af6f6ed9d&o=&hp=1"
+featuredImage: "/images/accommodation/beach-apartment-479793696.jpg"
 language: en
 slug: beach-apartment
 address: "Rruga Bilal Golemi, 9701 Sarandë, Albania"

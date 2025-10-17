@@ -1,7 +1,7 @@
 ---
 title: "Olia Residence"
 description: "Olia Residence emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497182570.jpg?k=e59872067032267cea10efbf1cc4d089a0d409253bc56fb986c32488a1bff832&o=&hp=1"
+featuredImage: "/images/accommodation/olia-residence-497182570.jpg"
 language: en
 slug: olia-residence
 address: "Rruga Jordan Misja, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nashos Bungalows"
 description: "Nashos Bungalows emerges as a prime beachfront haven located in the serene Spile, just moments away from the pristine shores of Livadhi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463985660.jpg?k=cc9bf2028c9cb0fc993cd9dff3c5de92c4889a29196f986954eb739faa4ef2c5&o=&hp=1"
+featuredImage: "/images/accommodation/nashos-bungalows-463985660.jpg"
 language: en
 slug: nashos-bungalows
 address: "Himare - Livadh Road, 9425 Spile, Albania"

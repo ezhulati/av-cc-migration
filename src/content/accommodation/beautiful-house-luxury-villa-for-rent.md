@@ -1,7 +1,7 @@
 ---
 title: "Beautiful House - Luxury Villa for Rent"
 description: "Beautiful House - Luxury Villa for Rent emerges as a premier choice for travelers seeking an exclusive retreat in Bërxull."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527050676.jpg?k=af45575de4dfcb28c48d845178b4a48440bb1921f2e9bbbe97cd9d8100689aef&o=&hp=1"
+featuredImage: "/images/accommodation/beautiful-house-luxury-villa-for-rent-527050676.jpg"
 language: en
 slug: beautiful-house-luxury-villa-for-rent
 address: "Rruga Mëmëdheu, 1053 Bërxull, Albania"

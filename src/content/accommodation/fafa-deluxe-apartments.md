@@ -1,7 +1,7 @@
 ---
 title: "FaFa Deluxe apartments"
 description: "FaFa Deluxe Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian coast."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500571387.jpg?k=307a6c8c4fe91f75d1f5907169ed34bbb3c1b6485bdaec0158b50001ea2e846b&o=&hp=1"
+featuredImage: "/images/accommodation/fafa-deluxe-apartments-500571387.jpg"
 language: en
 slug: fafa-deluxe-apartments
 address: "rruga e kompeksit , 2504 Golem , Durres , Albania, 2504 Golem, Albania"

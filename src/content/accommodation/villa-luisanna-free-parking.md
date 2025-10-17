@@ -1,7 +1,7 @@
 ---
 title: "Villa Luisanna Free Parking"
 description: "Villa Luisanna Free Parking emerges as a serene oasis in the vibrant city of Vlorë, offering a tranquil retreat just a stone's throw away from the pristine Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453682726.jpg?k=378dd7c50afc7b78cea00cee33c014f04106ff5e23952bb10234df7fe378c090&o=&hp=1"
+featuredImage: "/images/accommodation/villa-luisanna-free-parking-453682726.jpg"
 language: en
 slug: villa-luisanna-free-parking
 address: "20 Rruga Dhimitër Konomi, 9403 Vlorë, Albania"

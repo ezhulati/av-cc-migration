@@ -1,7 +1,7 @@
 ---
 title: "Villa Rei"
 description: "Villa Rei, situated a mere 29 km from the historic Rozafa Castle Shkodra and 31 km from the serene Lake Skadar, stands as a beacon of comfort and luxury in Baks-Rrjoll."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485203071.jpg?k=ced89765d76af3ad88983262e0d712f37fd8938df680d42689e0246da354b5f1&o=&hp=1"
+featuredImage: "/images/accommodation/villa-rei-485203071.jpg"
 language: en
 slug: villa-rei
 address: "Rruga Baks Rrjoll, 4001 Baks-Rrjoll, Albania"

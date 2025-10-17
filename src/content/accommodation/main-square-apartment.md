@@ -1,7 +1,7 @@
 ---
 title: "Main square apartment"
 description: "Main Square Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/main-square-apartment-8d80ab6bf73f.jpg"
 language: en
 slug: main-square-apartment
 address: "Rr Grigor Durrsaku, 2025 Durrës, Albania"

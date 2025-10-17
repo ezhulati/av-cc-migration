@@ -1,7 +1,7 @@
 ---
 title: "Vera's Cozy 1BR 2 beds Apartment *Feel Like Home*"
 description: "Vera's Cozy 1BR 2 beds Apartment stands as a testament to comfort and convenience in the heart of Tirana, merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413650801.jpg?k=170a0206ca73f6328fb164de1ec9f942895def8c3c45637fa7008df87a4ad40b&o=&hp=1"
+featuredImage: "/images/accommodation/vera-s-cozy-1br-2-beds-apartment-feel-like-home-413650801.jpg"
 language: en
 slug: vera-s-cozy-1br-2-beds-apartment-feel-like-home
 address: "Rruga Arkitekt Kasemi Pall 71, Shk. 4, Apt 67, Tirana, Albania"

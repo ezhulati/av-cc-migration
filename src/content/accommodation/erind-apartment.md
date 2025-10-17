@@ -1,7 +1,7 @@
 ---
 title: "Erind Apartment"
 description: "Erind Apartment is a charming retreat in the heart of Berat, offering guests a cozy and intimate stay."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/erind-apartment-315f92289c48.jpg"
 language: en
 slug: erind-apartment
 address: "Rruga Tafil Skëndo Objekti Nr.7, 5001 Berat, Albania"

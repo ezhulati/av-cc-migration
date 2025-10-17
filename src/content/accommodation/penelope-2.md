@@ -1,7 +1,7 @@
 ---
 title: "PENELOPE 2"
 description: "PENELOPE 2 emerges as a charming retreat in Dhërmi, a mere stone's throw away from the pristine Dhermi Beach, located just 600 meters from its welcoming shores."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283517707.jpg?k=e241dfbfff7244c76d2b02636c343d0e092086ba3b9d590f681171530bd3f656&o=&hp=1"
+featuredImage: "/images/accommodation/penelope-2-283517707.jpg"
 language: en
 slug: penelope-2
 address: "Rruga e Plazhit Dhermi, Dhërmi, Albania"

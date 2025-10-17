@@ -1,7 +1,7 @@
 ---
 title: "Vila Arli&Eris"
 description: "Vila Arli&Eris emerges as a charmingly renovated guest house, positioned just a stone's throw away from Vjetër Beach in Vlorë, offering guests a serene garden view right from their balconies."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462872632.jpg?k=6dd15d86093372a75512a6d57c1702629936ff16a885fababf47763fd56f4238&o=&hp=1"
+featuredImage: "/images/accommodation/vila-arli-eris-462872632.jpg"
 language: en
 slug: vila-arli-eris
 address: "Rr. Sazani, 9304 Vlorë, Albania"

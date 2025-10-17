@@ -1,7 +1,7 @@
 ---
 title: "Tirana RING Center / 2BR Luxury Apartment"
 description: "Tirana RING Center's 2BR Luxury Apartment elevates the standard for modern accommodations in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505331798.jpg?k=b09c166e0fca96522abc3080c6d9f5b064ff6e28fe1431228f339dfbd4c967b5&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-ring-center-2br-luxury-apartment-505331798.jpg"
 language: en
 slug: tirana-ring-center-2br-luxury-apartment
 address: "Rruga Muhamet Gjollesha, 1001 Tirana, Albania"

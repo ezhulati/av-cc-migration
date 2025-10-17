@@ -1,7 +1,7 @@
 ---
 title: "Airy, sunny & bright apartment in Golem"
 description: "Discover the charm of Golem with a stay at the Airy, Sunny & Bright Apartment, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495074677.jpg?k=6d15e5acb8012c87b7188bb6fc2c2d882381476bf165dbd36249ad258b4c1d2c&o=&hp=1"
+featuredImage: "/images/accommodation/airy-sunny-bright-apartment-in-golem-495074677.jpg"
 language: en
 slug: airy-sunny-bright-apartment-in-golem
 address: "Golem Kavaje 5th floor no elevator, Golem, Albania"

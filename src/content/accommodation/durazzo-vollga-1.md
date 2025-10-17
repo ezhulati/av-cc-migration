@@ -1,7 +1,7 @@
 ---
 title: "Durazzo Vollga 1"
 description: "Durazzo Vollga 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and scenic beauty in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477543361.jpg?k=709f76a5a80213c11da1d7403e6fa9a452999fc1cbc621f39b885056345c59b2&o=&hp=1"
+featuredImage: "/images/accommodation/durazzo-vollga-1-477543361.jpg"
 language: en
 slug: durazzo-vollga-1
 address: "Rruga Taulantia, 2000 Durrës, Albania"

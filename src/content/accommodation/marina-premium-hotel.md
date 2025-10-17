@@ -1,7 +1,7 @@
 ---
 title: "Marina Premium Hotel"
 description: "Marina Premium Hotel stands out as a distinguished accommodation choice in Vlorë, located just 60 meters from the pristine Vlore Beach and a short stroll from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513323224.jpg?k=16c560e314f7bb26e2ab8fc137ab49a345d14008e0101786158ee2e68dbbf567&o=&hp=1"
+featuredImage: "/images/accommodation/marina-premium-hotel-513323224.jpg"
 language: en
 slug: marina-premium-hotel
 address: "Lungomare, vlore marina, 0033 Vlorë, Albania"

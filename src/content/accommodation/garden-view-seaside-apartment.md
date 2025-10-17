@@ -1,7 +1,7 @@
 ---
 title: "Garden View! Seaside Apartment"
 description: "Garden View!"
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+featuredImage: "/images/accommodation/garden-view-seaside-apartment-bebbb1d5ff29.jpg"
 language: en
 slug: garden-view-seaside-apartment
 address: "Lagja 13 plazh durres, 2001 Durrës, Albania, 2001 Durrës, Albania"

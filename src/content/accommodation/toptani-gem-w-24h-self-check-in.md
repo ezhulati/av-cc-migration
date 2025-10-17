@@ -1,7 +1,7 @@
 ---
 title: "Toptani Gem w/ 24H Self Check In"
 description: "Toptani Gem stands as a beacon of convenience and comfort in the heart of Tirana, merely a stone's throw away from the city's vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521432779.jpg?k=9d2322fc40129e6a8c081366a5c6254241900e72f8c27d55ec6cf22df36c8748&o=&hp=1"
+featuredImage: "/images/accommodation/toptani-gem-w-24h-self-check-in-521432779.jpg"
 language: en
 slug: toptani-gem-w-24h-self-check-in
 address: "28 Rruga Xhorxhi Martini, Tirana, Albania"

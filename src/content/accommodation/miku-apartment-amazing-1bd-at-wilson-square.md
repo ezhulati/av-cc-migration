@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Amazing 1BD At Wilson Square"
 description: "Miku Apartment-Amazing 1BD At Wilson Square stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/miku-apartment-amazing-1bd-at-wilson-square-315f92289c48.jpg"
 language: en
 slug: miku-apartment-amazing-1bd-at-wilson-square
 address: "Rruga Ymer Kurti, 1001 Tirana, Albania"

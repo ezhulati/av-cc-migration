@@ -1,7 +1,7 @@
 ---
 title: "VILA PUSHIMI REGIS"
 description: "Vila Pushimi Regis emerges as a serene oasis in Velipojë, merely a stone's throw away from the pristine Velipoja Beach and within a comfortable distance from the historic Rozafa Castle Shkodra and the tranquil Lake Skadar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469174469.jpg?k=a4cc264e0e9c5b6eb964c754c840c0cefb1cd87aa65962e3e74d4bf196bb7f44&o=&hp=1"
+featuredImage: "/images/accommodation/vila-pushimi-regis-469174469.jpg"
 language: en
 slug: vila-pushimi-regis
 address: "Rruga Ura Gjon Lulit Plazh, Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Pearl of Adriatic"
 description: "Villa Pearl of Adriatic emerges as a pristine haven for beach lovers, situated a mere stone's throw away from the serene Qerret Beach and a short distance from the tranquil Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486738460.jpg?k=53ddddf119436e1980c03244f7d958678c0abc969c3231c718c6e904ff8f5994&o=&hp=1"
+featuredImage: "/images/accommodation/villa-pearl-of-adriatic-486738460.jpg"
 language: en
 slug: villa-pearl-of-adriatic
 address: "Rruga e Fshatrave Turistike, Golem, Albania"

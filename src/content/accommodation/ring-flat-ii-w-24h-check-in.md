@@ -1,7 +1,7 @@
 ---
 title: "Ring Flat II w/ 24H check in"
 description: "Ring Flat II emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507459170.jpg?k=63052d3765390a30f0c934ad2aa662c2b02a8b3babef349d5fae9a86243c6364&o=&hp=1"
+featuredImage: "/images/accommodation/ring-flat-ii-w-24h-check-in-507459170.jpg"
 language: en
 slug: ring-flat-ii-w-24h-check-in
 address: "Rruga Asim Vokshi \"Zogu i Zi\" roundabout, Qatar Center Building, Tirana, Albania"

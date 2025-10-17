@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Cozy Apartment"
 description: "Tirana Center Cozy Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405858243.jpg?k=c3dca58954e4b60b3be912da68dbb29258c9fae91b1a5dc8668ebb80fc019011&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-center-cozy-apartment-405858243.jpg"
 language: en
 slug: tirana-center-cozy-apartment
 address: "Bulevardi Zhan D'Ark, 1001 Tirana, Albania"

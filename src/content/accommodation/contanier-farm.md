@@ -1,7 +1,7 @@
 ---
 title: "Contanier Farm"
 description: "Contanier Farm emerges as a serene retreat, boasting breathtaking sea views and a prime location just a stone's throw from Spille Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483588426.jpg?k=f725a425647460f2481e8612e1d60c26483a6ddaeca0fa7b44562bf47a037063&o=&hp=1"
+featuredImage: "/images/accommodation/contanier-farm-483588426.jpg"
 language: en
 slug: contanier-farm
 address: "Spille, Rrogozhinë, Albania"

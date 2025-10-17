@@ -1,7 +1,7 @@
 ---
 title: "Enia's Room"
 description: "Enia's Room emerges as a serene retreat in the vibrant heart of Sarandë, located just a short stroll from Saranda City Beach and within easy reach of Sarande Main Beach."
-featuredImage: "https://lh4.googleusercontent.com/-gSlsbC_TLuY/AAAAAAAAAAI/AAAAAAAAA5U/0737n6iDYek/photo.jpg64"
+featuredImage: "/images/accommodation/enia-s-room-photo.jpg64.jpg"
 language: en
 slug: enia-s-room
 address: "Rruga Pandeli Bocari, Sarandë, Albania"

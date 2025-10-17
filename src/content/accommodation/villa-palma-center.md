@@ -1,7 +1,7 @@
 ---
 title: "Villa Palma Center"
 description: "Villa Palma Center emerges as a serene oasis in Berat, offering guests a blend of comfort and convenience with its garden views, complimentary WiFi, and private parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365285471.jpg?k=9bea735ab6e8458dc6108ac6d31f0f6e372ad71f881d999ddeb89cee676926ac&o=&hp=1"
+featuredImage: "/images/accommodation/villa-palma-center-365285471.jpg"
 language: en
 slug: villa-palma-center
 address: "Rruga Veri Zaloshnja, 5001 Berat, Albania"

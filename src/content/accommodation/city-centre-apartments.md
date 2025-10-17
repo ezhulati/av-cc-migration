@@ -1,7 +1,7 @@
 ---
 title: "City Centre Apartments"
 description: "City Centre Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503964903.jpg?k=9c9cd3913631fd7e6f2848933107ea26be8e8aa6406074006bd633ffe776dd01&o=&hp=1"
+featuredImage: "/images/accommodation/city-centre-apartments-503964903.jpg"
 language: en
 slug: city-centre-apartments
 address: "Rruga Maliq Muço, 1001 Tirana, Albania"

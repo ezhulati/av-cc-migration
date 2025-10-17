@@ -1,7 +1,7 @@
 ---
 title: "9 Katëshet Apartment"
 description: "9 Katëshet Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/9-kat-shet-apartment-d2bf46fbe4c1.jpg"
 language: en
 slug: 9-kat-shet-apartment
 address: "Rruga e Barrikadave, Pallati 2 Shkalla 1, Apartamenti 40., 1017 Tirana, Albania"

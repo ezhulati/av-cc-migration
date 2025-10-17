@@ -1,7 +1,7 @@
 ---
 title: "The \"Peace-Up\" Apartment"
 description: "Discover the charm of Shkodër with a stay at The \"Peace-Up\" Apartment, a serene retreat located just 48 km from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525423833.jpg?k=9d78e4c6fa252df0ba42f9919ecf52a0f351588d65db01fb44975eb1863f2f59&o=&hp=1"
+featuredImage: "/images/accommodation/the-peace-up-apartment-525423833.jpg"
 language: en
 slug: the-peace-up-apartment
 address: "Rruga Bardhosh Dani, 4001 Shkodër, Albania"

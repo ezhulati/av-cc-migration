@@ -1,7 +1,7 @@
 ---
 title: "Hotel Rezidenca Desaret"
 description: "Hotel Rezidenca Desaret emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat, merely 450 meters from the enchanting Old Town."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439779021.jpg?k=584af9d3e543f9346559f804efad02b35bfee5a302b9f10f78a622eed05945ea&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-rezidenca-desaret-439779021.jpg"
 language: en
 slug: hotel-rezidenca-desaret
 address: "Rruga Dr.Lluka, 5001 Berat, Albania"

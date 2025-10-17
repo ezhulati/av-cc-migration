@@ -1,7 +1,7 @@
 ---
 title: "Appartment Lura 3"
 description: "Appartment Lura 3 emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, just a stone's throw away from the pristine Lalëz Bay Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343938570.jpg?k=4f6e1127736d9902105978ab4bd6dd46c187cca92ca27a856c68502780d83ccc&o=&hp=1"
+featuredImage: "/images/accommodation/appartment-lura-3-343938570.jpg"
 language: en
 slug: appartment-lura-3
 address: "Gjiri i Lalzit App 2, Durrës, Albania"

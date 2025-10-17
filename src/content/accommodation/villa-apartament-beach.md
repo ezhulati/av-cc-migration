@@ -1,7 +1,7 @@
 ---
 title: "Villa Apartament Beach"
 description: "Villa Apartament Beach emerges as a serene oasis in Durrës, offering guests a unique blend of comfort and convenience with its prime location just 600 meters from the pristine Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487618205.jpg?k=23c3e90b98e8a1c5160ee4f9208ab315f990f96692e0f7da5be572c3c14cede5&o=&hp=1"
+featuredImage: "/images/accommodation/villa-apartament-beach-487618205.jpg"
 language: en
 slug: villa-apartament-beach
 address: "Rruga Lord Kovaci, 2000 Durrës, Albania"

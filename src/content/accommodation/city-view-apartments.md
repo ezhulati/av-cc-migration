@@ -1,7 +1,7 @@
 ---
 title: "City View Apartments"
 description: "City View Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking urban and mountain panoramas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473557241.jpg?k=de2646dd7407870a78584b4f83b5cb21bb3984806ae29a110fb58ab9040dccd2&o=&hp=1"
+featuredImage: "/images/accommodation/city-view-apartments-473557241.jpg"
 language: en
 slug: city-view-apartments
 address: "41°46'56.5\"N 19°38'05.6\"E, Lezhë, Albania"

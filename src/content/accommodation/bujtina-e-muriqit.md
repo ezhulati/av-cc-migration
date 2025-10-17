@@ -1,7 +1,7 @@
 ---
 title: "Bujtina e Muriqit"
 description: "Bujtina e Muriqit, located in the vibrant city of Shkodër and a mere 43 km from the Port of Bar, stands out as a prime choice for travelers seeking both comfort and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326644002.jpg?k=ef0bbf0878996a7aa00dac620382ea001892088307f8b04da426a2bc06734aca&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-e-muriqit-326644002.jpg"
 language: en
 slug: bujtina-e-muriqit
 address: "Rruga e Muriqit 1 Ana e Malit, 4017 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Agroni Rooms"
 description: "Agroni Rooms emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407301738.jpg?k=a2c74b355363a29ce4a5c75ef6d07717856e40f9088514d7dfbab2fdc3390bf8&o=&hp=1"
+featuredImage: "/images/accommodation/agroni-rooms-407301738.jpg"
 language: en
 slug: agroni-rooms
 address: "Rruga e Durrësit Nr 44, Floor Nr 8,, 1023 Tirana, Albania"

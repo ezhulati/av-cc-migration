@@ -1,7 +1,7 @@
 ---
 title: "Gevin's Apartment"
 description: "Gevin's Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491575543.jpg?k=2e798e6a58991163716f1461fcaae4e74f2ee8f26c0da88791ce90d01d1559bc&o=&hp=1"
+featuredImage: "/images/accommodation/gevin-s-apartment-491575543.jpg"
 language: en
 slug: gevin-s-apartment
 address: "Rruga Kongresi i Lushnjes, 1001 Tirana, Albania"

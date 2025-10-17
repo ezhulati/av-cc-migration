@@ -1,7 +1,7 @@
 ---
 title: "Jasemin Apartament Blloku"
 description: "Jasemin Apartament Blloku emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493505029.jpg?k=ddc2784a0f0b57ad615d1cb09865dbfc70fe773acaea7b873ec5cc0a18369655&o=&hp=1"
+featuredImage: "/images/accommodation/jasemin-apartament-blloku-493505029.jpg"
 language: en
 slug: jasemin-apartament-blloku
 address: "Bulevardi Bajram Curri, 1001 Tirana, Albania"

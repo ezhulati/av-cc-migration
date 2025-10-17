@@ -1,7 +1,7 @@
 ---
 title: "Prespa`s Balcony Guesthouse"
 description: "Prespa's Balcony Guesthouse emerges as a serene retreat in the heart of Gorica e Vogël, offering a unique blend of comfort and scenic beauty for travelers seeking a peaceful escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362900033.jpg?k=f1f8d6e68576cb8a821f4be2906276efa22758e9616492a56121c7125c49f956&o=&hp=1"
+featuredImage: "/images/accommodation/prespa-s-balcony-guesthouse-362900033.jpg"
 language: en
 slug: prespa-s-balcony-guesthouse
 address: "Dolnogoricka, 7020 Gorica e Vogël, Albania"

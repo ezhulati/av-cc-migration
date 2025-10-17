@@ -1,7 +1,7 @@
 ---
 title: "B4 Dusk Apartments R"
 description: "B4 Dusk Apartments R emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë, just a stone's throw away from the pristine Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356344501.jpg?k=e7a8ed29c41e32d27907fc0cf90a758a3d15ad882a055205cc1f06684848576c&o=&hp=1"
+featuredImage: "/images/accommodation/b4-dusk-apartments-r-356344501.jpg"
 language: en
 slug: b4-dusk-apartments-r
 address: "Rruga Sazani, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Idrizi"
 description: "Villa Idrizi emerges as a charming choice for travelers seeking comfort and convenience, located just 800 meters from the bustling Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484290013.jpg?k=337d1208d575e056878e498c4443960b4fa5162672234338d4a9631cfad9e249&o=&hp=1"
+featuredImage: "/images/accommodation/villa-idrizi-484290013.jpg"
 language: en
 slug: villa-idrizi
 address: "Rruga Qazim Demi, Sarandë, Albania"

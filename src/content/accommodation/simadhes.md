@@ -1,7 +1,7 @@
 ---
 title: "Simadhes"
 description: "Simadhes stands out as a prime choice for travelers seeking a serene getaway in Himare, boasting a prime location within a stone's throw of the pristine Maracit Beach and a short drive from the scenic Livadhi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486959049.jpg?k=c37ca423d033b0b09615a025e29c93b4f7915beaea3ab7b51bafd1a79de64e2f&o=&hp=1"
+featuredImage: "/images/accommodation/simadhes-486959049.jpg"
 language: en
 slug: simadhes
 address: "Himare, Himare, Albania"

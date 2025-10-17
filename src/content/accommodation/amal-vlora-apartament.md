@@ -1,7 +1,7 @@
 ---
 title: "Amal Vlora Apartament"
 description: "Amal Vlora Apartament emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208612213.jpg?k=ab1a32bb38ff3e31f3ad20820ccad4cdf7cf4b369c57f0e130df56dd4915486b&o=&hp=1"
+featuredImage: "/images/accommodation/amal-vlora-apartament-208612213.jpg"
 language: en
 slug: amal-vlora-apartament
 address: "Rruga Aristill Kokoshi, 9401 Vlorë, Albania"

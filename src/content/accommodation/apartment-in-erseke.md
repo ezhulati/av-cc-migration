@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Erseke"
 description: "This apartment in Erseke offers a refreshing stay in the heart of Ersekë, presenting a perfect blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500974601.jpg?k=e64b3e6c2bf8d6458a9b8dcd5eb02a84b31ab07fbb27f9e90892a81c61960726&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-erseke-500974601.jpg"
 language: en
 slug: apartment-in-erseke
 address: "Rruga Nasi Vodica, 7401 Ersekë, Albania"

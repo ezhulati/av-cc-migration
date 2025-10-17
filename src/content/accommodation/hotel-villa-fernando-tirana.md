@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Fernando Tirana"
 description: "Hotel Villa Fernando Tirana emerges as a distinguished choice for travelers seeking a blend of traditional charm and modern comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22249925.jpg?k=5fdc05c52d9aef52e06ebf4fed1c03f741994f2e78d974428cfbf88b29f3a467&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-villa-fernando-tirana-22249925.jpg"
 language: en
 slug: hotel-villa-fernando-tirana
 address: "Rruga Bardhyl 3, 1001 Tirana, Albania"

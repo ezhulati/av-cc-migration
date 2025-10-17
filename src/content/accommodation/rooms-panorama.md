@@ -1,7 +1,7 @@
 ---
 title: "Rooms Panorama"
 description: "Rooms Panorama emerges as a serene oasis in Krujë, strategically positioned just a stone's throw away from the vibrant Skanderbeg Square and the captivating Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325658421.jpg?k=8f3fc6c93b3c67bf213d4feb9f6c4bcc89c6ba695668e7aa4d60ae5096afa610&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-panorama-325658421.jpg"
 language: en
 slug: rooms-panorama
 address: "Center, 1501 Krujë, Albania"

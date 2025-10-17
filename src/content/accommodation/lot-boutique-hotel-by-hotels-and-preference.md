@@ -1,7 +1,7 @@
 ---
 title: "Lot Boutique Hotel by Hotels and Preference"
 description: "Discover the charm of Tirana with a stay at the Lot Boutique Hotel, a distinguished member of the Hotels and Preference collection."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309465946.jpg?k=f10213a1fe919037c997bf6847e70566f9c2e112a231d6c5b60746d7595c3925&o=&hp=1"
+featuredImage: "/images/accommodation/lot-boutique-hotel-by-hotels-and-preference-309465946.jpg"
 language: en
 slug: lot-boutique-hotel-by-hotels-and-preference
 address: "Rr. Myrtezim Këlliçi 20,, 1017 Tirana, Albania"

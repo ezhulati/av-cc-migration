@@ -1,7 +1,7 @@
 ---
 title: "Spyridoula's Guest House"
 description: "Spyridoula's Guest House emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201580319.jpg?k=4e6181d0846951a43b0eb27afea9c80dc81b660ac9744475ea64e2cd18a84c78&o=&hp=1"
+featuredImage: "/images/accommodation/spyridoula-s-guest-house-201580319.jpg"
 language: en
 slug: spyridoula-s-guest-house
 address: "SH8, 9425 Himare, Albania"

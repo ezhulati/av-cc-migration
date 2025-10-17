@@ -1,7 +1,7 @@
 ---
 title: "LOYKAS ROOMS"
 description: "Discover the comfort and convenience of LOYKAS ROOMS, a prime accommodation choice located in the historic heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491405823.jpg?k=b6602fda5e5d2e0d299f4cd84fcf09344c05108a3c50415ae7669f9b5edd49eb&o=&hp=1"
+featuredImage: "/images/accommodation/loykas-rooms-491405823.jpg"
 language: en
 slug: loykas-rooms
 address: "Rruga Alqi Kondi 2, 6001 Gjirokastër, Albania"

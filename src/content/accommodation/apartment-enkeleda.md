@@ -1,7 +1,7 @@
 ---
 title: "Apartment Enkeleda"
 description: "Apartment Enkeleda, situated in the picturesque Korçë County of Pogradec, presents an exceptional beachfront living experience with its own private beach area."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491111388.jpg?k=746414ff5f9c194bbb89b65e2083a3436be0aabfa919f833d692bf1fc146c9bf&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-enkeleda-491111388.jpg"
 language: en
 slug: apartment-enkeleda
 address: "Rr Mihallaq Tona Nr 2/4 Ap 29, 7301 Pogradec, Albania"

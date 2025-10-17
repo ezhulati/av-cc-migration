@@ -1,7 +1,7 @@
 ---
 title: "Xhefri's Apartments"
 description: "Xhefri's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, positioned just 200 meters from the serene Vjetër Beach and a mere 3."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363295221.jpg?k=5afc551d1f627af4487c1c62db45657c75b1e397efe06f6d32865a2e38bd687a&o=&hp=1"
+featuredImage: "/images/accommodation/xhefri-s-apartments-363295221.jpg"
 language: en
 slug: xhefri-s-apartments
 address: "Rruga Sazani, 9401 Vlorë, Albania"

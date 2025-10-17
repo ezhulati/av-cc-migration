@@ -1,7 +1,7 @@
 ---
 title: "Kristal Apartments"
 description: "Kristal Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354128338.jpg?k=8a59ceb56c1a5a8c2c7b9b990da0be0531e2cc0c547ccf0fe812bb01ddab5596&o=&hp=1"
+featuredImage: "/images/accommodation/kristal-apartments-354128338.jpg"
 language: en
 slug: kristal-apartments
 address: "Rruga Hasan Tasini, 9701 Ksamil, Albania"

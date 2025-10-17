@@ -1,7 +1,7 @@
 ---
 title: "Homemaker"
 description: "Homemaker presents a refreshing stay in Berat, offering guests the comfort of air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491852594.jpg?k=cfde53cd76c328a54d098d473dd0a9143fced4b96bf8016ba210711daedd2ae2&o=&hp=1"
+featuredImage: "/images/accommodation/homemaker-491852594.jpg"
 language: en
 slug: homemaker
 address: "Lagja 30 Vjetori'' ,Street name ''Bulevardi Republika'' , 7th floor, 5001 Berat, Albania"

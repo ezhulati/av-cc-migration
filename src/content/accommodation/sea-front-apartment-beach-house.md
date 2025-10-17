@@ -1,7 +1,7 @@
 ---
 title: "Sea Front Apartment Beach House"
 description: "Sea Front Apartment Beach House stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509688176.jpg?k=0ac88b2753b31ef145ff582b92af3e0cf2245bcbfa6f1e25c6134bd97c0f01e0&o=&hp=1"
+featuredImage: "/images/accommodation/sea-front-apartment-beach-house-509688176.jpg"
 language: en
 slug: sea-front-apartment-beach-house
 address: "Rruga Pavlo Flloko, 9401 Vlorë, Albania"

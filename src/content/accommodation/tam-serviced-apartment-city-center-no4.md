@@ -1,7 +1,7 @@
 ---
 title: "TAM Serviced Apartment City Center No4"
 description: "TAM Serviced Apartment City Center No4 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325792625.jpg?k=c8a86e443a0543592297393a8fd6c3b78b3504d564cd219a2847bf4cab1e86f2&o=&hp=1"
+featuredImage: "/images/accommodation/tam-serviced-apartment-city-center-no4-325792625.jpg"
 language: en
 slug: tam-serviced-apartment-city-center-no4
 address: "Rruga Maliq Muço Ndertesa no4, Hyrja 10, Apartamenti no4, 1001, Tirana Albania, 1001 Tirana, Albania"

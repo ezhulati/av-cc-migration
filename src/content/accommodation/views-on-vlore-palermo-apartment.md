@@ -1,7 +1,7 @@
 ---
 title: "Views on Vlore - Palermo Apartment"
 description: "Views on Vlore - Palermo Apartment stands as a prime beachfront gem in Vlorë, merely steps away from the serene Vjetër Beach and a short distance from the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497084558.jpg?k=a34430e39470a7d923799496a6836ad7a54a30d06d2f40bac0e3f306621e911c&o=&hp=1"
+featuredImage: "/images/accommodation/views-on-vlore-palermo-apartment-497084558.jpg"
 language: en
 slug: views-on-vlore-palermo-apartment
 address: "Rruga Sazani, 9400 Vlorë, Albania"

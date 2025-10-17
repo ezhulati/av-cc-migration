@@ -1,7 +1,7 @@
 ---
 title: "Casa Mare"
 description: "Casa Mare emerges as a prime choice for travelers seeking both the tranquility of Coco Bongo Beach and the vibrancy of Sunny Beach, conveniently located within a short stroll from La Playa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523336531.jpg?k=0fc9d0b804fc69332bf73736f248e8f375df3a54f8e678a852f9bfc4b345f12b&o=&hp=1"
+featuredImage: "/images/accommodation/casa-mare-523336531.jpg"
 language: en
 slug: casa-mare
 address: "SH8, Vlorë, Albania"

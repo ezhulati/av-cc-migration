@@ -1,7 +1,7 @@
 ---
 title: "Classic Hotel"
 description: "Discover the charm of Classic Hotel, a gem located in the vibrant heart of Tirana, merely a stone's throw away from the bustling city center."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/54792315.jpg?k=70cf9fae1236e7d90486fbad717b9cbb39d723ca301b911e344ea22cbd0623c0&o=&hp=1"
+featuredImage: "/images/accommodation/classic-hotel-54792315.jpg"
 language: en
 slug: classic-hotel
 address: "Rruga Sulejman Delvina, Nd.61, Hyrja 21022, 1001 Tirana, Albania"

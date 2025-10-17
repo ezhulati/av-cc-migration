@@ -1,7 +1,7 @@
 ---
 title: "Apart-Hotel Llazari"
 description: "Apart-Hotel Llazari emerges as a standout choice for travelers seeking comfort and convenience in their accommodation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109076042.jpg?k=b53ac591b6ee01de4c8a8cee9b515ede4f8c6b20a918169920db948f0b334d52&o=&hp=1"
+featuredImage: "/images/accommodation/apart-hotel-llazari-109076042.jpg"
 language: en
 slug: apart-hotel-llazari
 address: "Cako - (At the ring returns to the church just 900 meters), 9425 Himare, Albania"

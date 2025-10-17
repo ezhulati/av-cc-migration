@@ -1,7 +1,7 @@
 ---
 title: "Mare Villa"
 description: "Mare Villa emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477681303.jpg?k=57722ed0409afd134102e62ce8eea8cb04ada4f4528692dd3418ec7a6af1d914&o=&hp=1"
+featuredImage: "/images/accommodation/mare-villa-477681303.jpg"
 language: en
 slug: mare-villa
 address: "Rruga Zenel Murra, Vlorë, Albania"

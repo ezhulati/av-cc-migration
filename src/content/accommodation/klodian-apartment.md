@@ -1,7 +1,7 @@
 ---
 title: "Klodian Apartment"
 description: "Klodian Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456440770.jpg?k=4887f802328e7979fe2dd48a56b22380340a8698c44051fcec8ad92da3243378&o=&hp=1"
+featuredImage: "/images/accommodation/klodian-apartment-456440770.jpg"
 language: en
 slug: klodian-apartment
 address: "Rruga Butrinti, Sarandë, Albania"

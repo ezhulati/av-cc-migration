@@ -1,7 +1,7 @@
 ---
 title: "3M Villa, Green Coast Resort"
 description: "Discover the serene beauty of Palasë with a stay at 3M Villa, located within the prestigious Green Coast Resort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485332310.jpg?k=16bff03b04f37086004e07fb27cfa15278bb482425f3b3f8ef84894487a5a4d3&o=&hp=1"
+featuredImage: "/images/accommodation/3m-villa-green-coast-resort-485332310.jpg"
 language: en
 slug: 3m-villa-green-coast-resort
 address: "Green Coast Resort & Residences, 9422 Palasë, Albania"

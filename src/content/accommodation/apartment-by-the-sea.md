@@ -1,7 +1,7 @@
 ---
 title: "apartment by the sea"
 description: "Apartment by the Sea in Shëngjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431794952.jpg?k=2b6af10836f67d3325865cc1ce5bf21f725a5bdbb6c92663094d4aeaea483906&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-by-the-sea-431794952.jpg"
 language: en
 slug: apartment-by-the-sea
 address: "Shëtitorja Wilson 42, 4503 Shëngjin, Albania"

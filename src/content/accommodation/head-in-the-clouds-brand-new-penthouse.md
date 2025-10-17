@@ -1,7 +1,7 @@
 ---
 title: "Head in the clouds brand new Penthouse"
 description: "Head in the Clouds Penthouse emerges as a modern retreat in Durrës, offering guests the luxury of air-conditioned accommodations complete with a balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492971606.jpg?k=a7fa43223f9981f2ea6c6e204adeca23dd0f70c7a12d53b5cbaf69ac64b5fb7e&o=&hp=1"
+featuredImage: "/images/accommodation/head-in-the-clouds-brand-new-penthouse-492971606.jpg"
 language: en
 slug: head-in-the-clouds-brand-new-penthouse
 address: "Rruga Taulantia, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Central Rooms"
 description: "Tirana Central Rooms emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508348960.jpg?k=19ba226c2447bc9a50a842bc88363f25618a8f6f52b4b2210007299d579e7e11&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-central-rooms-508348960.jpg"
 language: en
 slug: tirana-central-rooms
 address: "Rruga Sami Frashëri building nr. 7, 1001 Tirana, Albania"

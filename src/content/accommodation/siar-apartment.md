@@ -1,7 +1,7 @@
 ---
 title: "Siar Apartment"
 description: "Siar Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505560810.jpg?k=8c0dc79275ffe6028020bb42e4cd3bb7387eaf25bb7e268a1ec817f43805fdc3&o=&hp=1"
+featuredImage: "/images/accommodation/siar-apartment-505560810.jpg"
 language: en
 slug: siar-apartment
 address: "Rruga Kastriotet, Pallati perball PROGIPS shpk, 1025 Tirana, Albania"

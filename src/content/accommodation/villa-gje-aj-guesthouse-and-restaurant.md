@@ -1,7 +1,7 @@
 ---
 title: "Villa Gjeçaj Guesthouse and Restaurant"
 description: "Discover the charm of Thethi through the welcoming doors of Villa Gjecaj, a family-operated haven situated in the heart of Thethi National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472717549.jpg?k=4313ec8b0e510c7c1870fb67640ed0ce28032cc76deef2d6b3276db276f795b0&o=&hp=1"
+featuredImage: "/images/accommodation/villa-gje-aj-guesthouse-and-restaurant-472717549.jpg"
 language: en
 slug: villa-gje-aj-guesthouse-and-restaurant
 address: "Center Theth, 4027 Theth, Albania"

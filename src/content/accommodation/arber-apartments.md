@@ -1,7 +1,7 @@
 ---
 title: "Arber Apartments"
 description: "Arber Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, Durres County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505025487.jpg?k=4fabaa00d6fb85b3483c913bb2b31c80aa7807e5ffff027674420bf5d20e9f64&o=&hp=1"
+featuredImage: "/images/accommodation/arber-apartments-505025487.jpg"
 language: en
 slug: arber-apartments
 address: "Lagja plazhit 13, Durres, 2001 Durrës, Albania"

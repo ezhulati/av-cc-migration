@@ -1,7 +1,7 @@
 ---
 title: "Guest House Simeone"
 description: "Guest House Simeone stands out as a prime choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151448157.jpg?k=bd4fd3bb2302b3230fba5374ba216ae44690586ddfeebd7b6d79a5648b2f4fef&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-simeone-151448157.jpg"
 language: en
 slug: guest-house-simeone
 address: "Rruga Antipatrea, Prane Kastratit, na Berat, Albania"

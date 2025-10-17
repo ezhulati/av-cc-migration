@@ -1,7 +1,7 @@
 ---
 title: "Artist´s place"
 description: "Artist's Place emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524493137.jpg?k=01502bd324938dd38d34262cfe27646f50c2fdfd40d1947b6cbb5e2dafbe5ec3&o=&hp=1"
+featuredImage: "/images/accommodation/artist-s-place-524493137.jpg"
 language: en
 slug: artist-s-place
 address: "Rruga Kastriotet, 1001 Tirana, Albania"

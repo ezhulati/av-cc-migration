@@ -1,7 +1,7 @@
 ---
 title: "Viva apartments"
 description: "Discover the charm of Përmet from the comfort of Viva Apartments, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444587007.jpg?k=7445767e15fb1042ffe895b77d1c937ffcdc118057ecb935c1e8fbf8a4f4c0c8&o=&hp=1"
+featuredImage: "/images/accommodation/viva-apartments-444587007.jpg"
 language: en
 slug: viva-apartments
 address: "Rruga Tomorr Mullaraj Apartment 2, first floor, 6401 Përmet, Albania"

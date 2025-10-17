@@ -1,7 +1,7 @@
 ---
 title: "Vila Anhel"
 description: "Vila Anhel emerges as a charming choice for travelers seeking comfort and convenience in Ksamil, situated merely a short stroll from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301245086.jpg?k=a440aa14d6199c65080ff887e29817b8b5366f16c3427093e5ba2fccc23005a7&o=&hp=1"
+featuredImage: "/images/accommodation/vila-anhel-301245086.jpg"
 language: en
 slug: vila-anhel
 address: "SH81, 9999 Ksamil, Albania"

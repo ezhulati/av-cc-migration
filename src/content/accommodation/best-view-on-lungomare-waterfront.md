@@ -1,7 +1,7 @@
 ---
 title: "Best view on Lungomare ( Waterfront)"
 description: "Best View on Lungomare (Waterfront) emerges as a prime choice for travelers seeking a serene escape in Vlorë, with its air-conditioned accommodations that boast a private balcony offering unobstructed views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472563755.jpg?k=398f0c4fa69bcacbc0be3521d92260c70764cb6250ce9093aeaeb09e4e7251c9&o=&hp=1"
+featuredImage: "/images/accommodation/best-view-on-lungomare-waterfront-472563755.jpg"
 language: en
 slug: best-view-on-lungomare-waterfront
 address: "Rruga Shyqyri Ali Merka, 9401 Vlorë, Albania"

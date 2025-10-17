@@ -1,7 +1,7 @@
 ---
 title: "Darla Sea View Apartment"
 description: "Darla Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty, just 400 meters from the pristine Liro Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/darla-sea-view-apartment-d3882ab9674d.jpg"
 language: en
 slug: darla-sea-view-apartment
 address: "Rruga Aleksandër Moisiu 20, 9305 Vlorë, Albania"

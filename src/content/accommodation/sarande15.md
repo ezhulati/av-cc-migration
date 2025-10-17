@@ -1,7 +1,7 @@
 ---
 title: "Sarande15"
 description: "Sarande15 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475932018.jpg?k=68edc140a692002f3b3ec63e8a1488583e1e72b16f11fd803ab0fcf877e73d45&o=&hp=1"
+featuredImage: "/images/accommodation/sarande15-475932018.jpg"
 language: en
 slug: sarande15
 address: "Rruga Onhezmi, Sarandë, Albania"

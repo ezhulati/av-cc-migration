@@ -1,7 +1,7 @@
 ---
 title: "Holiday apartment near the sea"
 description: "Holiday Apartment Near the Sea emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360220755.jpg?k=bc2d8ef7033e5d2aa6f4d7964ed45cb338f70da199053f59dccf22c91724b86f&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-apartment-near-the-sea-360220755.jpg"
 language: en
 slug: holiday-apartment-near-the-sea
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

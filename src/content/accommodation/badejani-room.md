@@ -1,7 +1,7 @@
 ---
 title: "Badejani Room"
 description: "Badejani Room stands out as a prime choice for travelers seeking comfortable, air-conditioned accommodations in Berat, complete with the convenience of a terrace and complimentary WiFi."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtc7NeMvwQYCebEye4p7pZftp7eqzK06YyboS08-ofI=s96-c64"
+featuredImage: "/images/accommodation/badejani-room-AAcHTtc7NeMv.jpg"
 language: en
 slug: badejani-room
 address: "Rruga Antipatrea, Berat, Albania"

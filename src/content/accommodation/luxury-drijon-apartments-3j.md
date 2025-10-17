@@ -1,7 +1,7 @@
 ---
 title: "LUXURY DRIJON APARTMENTS 3j"
 description: "LUXURY DRIJON APARTMENTS 3j emerges as a premier choice for travelers seeking a blend of comfort and convenience in Shkodër, Shkoder County."
-featuredImage: "https://lh3.googleusercontent.com/-GZu8K3Dv_XM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc-Az3jNzHP2tx_QDmORz46j0k_tg/s96-c/photo.jpg64"
+featuredImage: "/images/accommodation/luxury-drijon-apartments-3j-photo.jpg64.jpg"
 language: en
 slug: luxury-drijon-apartments-3j
 address: "Rruga Dragushej, 4001 Shkodër, Albania"

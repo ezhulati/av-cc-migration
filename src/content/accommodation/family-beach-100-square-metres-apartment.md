@@ -1,7 +1,7 @@
 ---
 title: "Family Beach 100 Square Metres Apartment"
 description: "Family Beach 100 Square Metres Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://lh3.googleusercontent.com/a/AGNmyxZ573QZ8N4sRT3cPjGGL_Fe5MWP_XjSYLHiqFED=s96-c64"
+featuredImage: "/images/accommodation/family-beach-100-square-metres-apartment-AGNmyxZ573QZ.jpg"
 language: en
 slug: family-beach-100-square-metres-apartment
 address: "Mali i Robit, Golem, Kavaje, 1001 Golem, Albania"

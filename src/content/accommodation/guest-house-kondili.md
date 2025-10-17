@@ -1,7 +1,7 @@
 ---
 title: "Guest House Kondili"
 description: "Guest House Kondili emerges as a serene retreat in Përmet, offering breathtaking mountain views alongside modern comforts."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262493641.jpg?k=778efbe4d977c2655694dd87387ccb7208e4942b4a5b3b93d67248e8f9698707&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-kondili-262493641.jpg"
 language: en
 slug: guest-house-kondili
 address: "Shëtitorja Mentor Xhemali 2 Pedonale Central Park, 6401 Përmet, Albania"

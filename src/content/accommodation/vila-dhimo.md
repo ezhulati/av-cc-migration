@@ -1,7 +1,7 @@
 ---
 title: "Vila Dhimo"
 description: "Vila Dhimo emerges as a serene retreat in Pojan, located 35 km from Independence Square and 36 km from the iconic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493933059.jpg?k=2ee130a3cc56a26620f1b9d6ed2230bfccab6c4c71f4376ac7e395fb606d4f23&o=&hp=1"
+featuredImage: "/images/accommodation/vila-dhimo-493933059.jpg"
 language: en
 slug: vila-dhimo
 address: "SH66, 9309 Pojan, Albania"

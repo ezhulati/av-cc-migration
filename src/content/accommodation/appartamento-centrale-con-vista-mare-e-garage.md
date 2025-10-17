@@ -1,7 +1,7 @@
 ---
 title: "Appartamento centrale con vista mare e garage"
 description: "Appartamento Centrale con Vista Mare e Garage emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482508776.jpg?k=b66e097b452c82f3ae0c57d1e2f0bd33a03d3ee1b61d04977f2b19f3de8ff8b9&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-centrale-con-vista-mare-e-garage-482508776.jpg"
 language: en
 slug: appartamento-centrale-con-vista-mare-e-garage
 address: "Rruga Butrinti, Sarandë, Albania"

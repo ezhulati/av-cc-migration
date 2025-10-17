@@ -1,7 +1,7 @@
 ---
 title: "Patio Rooms Gjirokaster"
 description: "Patio Rooms Gjirokaster emerges as a charmingly renovated guest house, offering a serene retreat in the historic city of Gjirokastër, just a stone's throw away from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361746374.jpg?k=13676cc0a0271bd98805b6c1aabf42bdcea0be4610a1335d1ce36b400aef8b5f&o=&hp=1"
+featuredImage: "/images/accommodation/patio-rooms-gjirokaster-361746374.jpg"
 language: en
 slug: patio-rooms-gjirokaster
 address: "Rruga Granicë, 6001 Gjirokastër, Albania"

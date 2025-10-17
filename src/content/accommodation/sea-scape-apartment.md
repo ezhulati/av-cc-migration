@@ -1,7 +1,7 @@
 ---
 title: "Sea Scape Apartment"
 description: "Discover the charm of Vlorë with a stay at Sea Scape Apartment, a prime beachfront retreat located just a stone's throw away from Vlore Beach and within easy reach of Ri Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+featuredImage: "/images/accommodation/sea-scape-apartment-8ecb6dbf787b.jpg"
 language: en
 slug: sea-scape-apartment
 address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

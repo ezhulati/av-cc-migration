@@ -1,7 +1,7 @@
 ---
 title: "Luani-A spa & wellness center"
 description: "Luani-A Spa & Wellness Center emerges as a serene oasis in Shkodër, merely 8."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152979585.jpg?k=ec14c8704e11edac996824db84e375ce6f105e0f11a8f9ad00ab6db1d1f852ac&o=&hp=1"
+featuredImage: "/images/accommodation/luani-a-spa-wellness-center-152979585.jpg"
 language: en
 slug: luani-a-spa-wellness-center
 address: "Superstrada Shkoder - Lezhe Km 10, 4001 Shkodër, Albania"

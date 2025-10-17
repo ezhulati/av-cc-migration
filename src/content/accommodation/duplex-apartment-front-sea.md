@@ -1,7 +1,7 @@
 ---
 title: "Duplex Apartment Front Sea"
 description: "Duplex Apartment Front Sea emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/16893820.webp?k=b34c667a6ccbe463c55800e5cda52ac8adf140d8dc93469e54efcfedaae55b06&o=?t=1532944696"
+featuredImage: "/images/accommodation/duplex-apartment-front-sea-16893820.web.jpg"
 language: en
 slug: duplex-apartment-front-sea
 address: "Rruga Sazani, 9400 Vlorë, Albania"

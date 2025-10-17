@@ -1,7 +1,7 @@
 ---
 title: "Mango Luxury Resorts"
 description: "Mango Luxury Resorts, located in the vibrant heart of Sarandë and merely steps away from the pristine Mango Beach, stands as a beacon of comfort and luxury for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478009774.jpg?k=481df30ae88a20dd5f8cd80c08fc4b615cf6ebb45a634f5a423f0951c4ce7644&o=&hp=1"
+featuredImage: "/images/accommodation/mango-luxury-resorts-478009774.jpg"
 language: en
 slug: mango-luxury-resorts
 address: "Rruga Rilindja, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "CozyStayApartments"
 description: "CozyStayApartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445154618.jpg?k=19a379f765d2c7bc8eaee206819d7487e3d1d1ccba5d53a683bef2da1fc2da7a&o=&hp=1"
+featuredImage: "/images/accommodation/cozystayapartments-445154618.jpg"
 language: en
 slug: cozystayapartments
 address: "Rruga Kajo Karafili, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Orestiada"
 description: "Hotel Orestiada emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154088100.jpg?k=970bbf3d7f5bd0475e691dc2d5d510d7b4115996c6379210c2173954b5641646&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-orestiada-154088100.jpg"
 language: en
 slug: hotel-orestiada
 address: "Bulevardi Republic, 5000 Berat, Albania"

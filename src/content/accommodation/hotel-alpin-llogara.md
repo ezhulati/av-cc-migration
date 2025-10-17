@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alpin Llogara"
 description: "Hotel Alpin Llogara emerges as a distinguished choice for travelers seeking a blend of comfort and adventure in the heart of Llogara, situated 41 km from the historic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308111416.jpg?k=0d634e37ed2d4c7d5c6e2dbf115a03c62a97b063a9be7a5343a26b2d66fe8008&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-alpin-llogara-308111416.jpg"
 language: en
 slug: hotel-alpin-llogara
 address: "Vlore Orikum Llogara, 9426 Llogara, Albania"

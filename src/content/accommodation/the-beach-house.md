@@ -1,7 +1,7 @@
 ---
 title: "The Beach House"
 description: "The Beach House, located in the vibrant city of Durrës, stands out for its prime location just a short 600-meter stroll from the pristine Durres Beach and within easy reach of the city's most notable attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456452242.jpg?k=b9895e520a49d1acc6c08766edb9726d888310b0acebbd66fef7c9a1d0ea4999&o=&hp=1"
+featuredImage: "/images/accommodation/the-beach-house-456452242.jpg"
 language: en
 slug: the-beach-house
 address: "Rruga Qafe Bote, 2001 Durrës, Albania"

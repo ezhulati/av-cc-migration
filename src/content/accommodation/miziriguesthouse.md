@@ -1,7 +1,7 @@
 ---
 title: "MiziriGuestHouse"
 description: "MiziriGuestHouse stands out as a serene retreat in the historic city of Gjirokastër, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414553008.jpg?k=6aad02538ad5e99163ea31bb0a2a6ed02de0e3ca51e9d4417593ba66d92132f6&o=&hp=1"
+featuredImage: "/images/accommodation/miziriguesthouse-414553008.jpg"
 language: en
 slug: miziriguesthouse
 address: "Rruga Muhamet Bakiri, Gjirokastër, Albania"

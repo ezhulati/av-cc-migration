@@ -1,7 +1,7 @@
 ---
 title: "Enjoy Sunset at this Spacious Apartment"
 description: "Enjoy Sunset at this Spacious Apartment emerges as a serene retreat in the heart of Tirana, boasting both garden and city views that promise a stay unlike any other."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475425214.jpg?k=bd4d28e403ddaf82b896c1c90e21a1f4131d861812fb233cb5ffb0b38edb91b7&o=&hp=1"
+featuredImage: "/images/accommodation/enjoy-sunset-at-this-spacious-apartment-475425214.jpg"
 language: en
 slug: enjoy-sunset-at-this-spacious-apartment
 address: "Rruga Mustafa Demiri, 1003 Tirana, Albania"

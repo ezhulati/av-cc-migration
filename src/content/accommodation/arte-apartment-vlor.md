@@ -1,7 +1,7 @@
 ---
 title: "Arte Apartment Vlorë"
 description: "Arte Apartment Vlorë emerges as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from the serene Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484260728.jpg?k=327a4c6008c3eb5c680f83aef3cd2ec6dac9dc0bbf3dc3a1858144a51df73d26&o=&hp=1"
+featuredImage: "/images/accommodation/arte-apartment-vlor-484260728.jpg"
 language: en
 slug: arte-apartment-vlor
 address: "Uji i Ftohte, Rruga Aleksandër Moisiu, Vlorë 9405, Vlorë, Albania"

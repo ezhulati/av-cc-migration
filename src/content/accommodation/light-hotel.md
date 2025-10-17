@@ -1,7 +1,7 @@
 ---
 title: "Light Hotel"
 description: "Light Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236286864.jpg?k=e9bdb4aacffb37a00f132b22a5f27f55d90d17881899f33d283929f6b816df01&o=&hp=1"
+featuredImage: "/images/accommodation/light-hotel-236286864.jpg"
 language: en
 slug: light-hotel
 address: "Rruga Aleksandri i Madh, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Liora's Place"
 description: "Liora's Place emerges as a serene retreat in the heart of Korçë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459036591.jpg?k=b6c190715cfb21d790c1e22792596d04b3b5b2972b050af4c14133bb893d8d16&o=&hp=1"
+featuredImage: "/images/accommodation/liora-s-place-459036591.jpg"
 language: en
 slug: liora-s-place
 address: "11 Rruga Gaqo Koroveshi, Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Corner Apartament"
 description: "Corner Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501089633.jpg?k=52a9bd736aeaddfcdf0c1faf799a5848f64434ac52bf40e595ada6cef4d181c9&o=&hp=1"
+featuredImage: "/images/accommodation/corner-apartament-501089633.jpg"
 language: en
 slug: corner-apartament
 address: "Rruga Dritan Hoxha, 7001 Tirana, Albania"

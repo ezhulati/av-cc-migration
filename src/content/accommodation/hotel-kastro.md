@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kastro"
 description: "Hotel Kastro stands out as a beacon of comfort and convenience in the historic city of Gjirokastër, offering a serene escape just a stone's throw away from the enchanting Zaravina Lake, located 44 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153943868.jpg?k=d458e989ed1442919a518a3a7dfbcd056459df15a02cae0d25dc098f4422a993&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kastro-153943868.jpg"
 language: en
 slug: hotel-kastro
 address: "Çerçiz Topulli'' Square, Gjirokaster 11, 6000 Gjirokastër, Albania"

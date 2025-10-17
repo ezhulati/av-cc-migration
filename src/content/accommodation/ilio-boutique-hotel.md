@@ -1,7 +1,7 @@
 ---
 title: "Ilio Boutique Hotel"
 description: "Ilio Boutique Hotel emerges as a charming retreat in the heart of Ksamil, merely a stone's throw away from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465418318.jpg?k=39b4dbd19dab5432352c64252f9ae86ce152bb2b4785fb47fa2234415186f18d&o=&hp=1"
+featuredImage: "/images/accommodation/ilio-boutique-hotel-465418318.jpg"
 language: en
 slug: ilio-boutique-hotel
 address: "Rruga Peshkatari Ksamil, 9701 Ksamil, Albania"

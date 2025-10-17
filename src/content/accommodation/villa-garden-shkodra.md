@@ -1,7 +1,7 @@
 ---
 title: "Villa Garden Shkodra"
 description: "Villa Garden Shkodra emerges as a serene retreat in the heart of Shkodër, offering guests a unique blend of comfort and convenience in the Shkoder County region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194891438.jpg?k=801215fe71f1cc2a3318762500b2d48b26fa38cccd30d227601ca271344dfc60&o=&hp=1"
+featuredImage: "/images/accommodation/villa-garden-shkodra-194891438.jpg"
 language: en
 slug: villa-garden-shkodra
 address: "Rruga Hoxhë Kadria, 4001 Shkodër, Albania"

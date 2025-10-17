@@ -1,7 +1,7 @@
 ---
 title: "Sunset Hostel"
 description: "Sunset Hostel, located in the vibrant heart of Shkodër and a mere 47 km from the Port of Bar, offers guests a unique blend of comfort and convenience with its city view accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208902673.jpg?k=25c801e887f4ec58f47e151bbb4d9a37cadd00f19ecdf8c6be661964f0e5a969&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-hostel-208902673.jpg"
 language: en
 slug: sunset-hostel
 address: "Bulevardi Zogu I, Xhabije, (Near the store \"AVD Studio\"), 4001 Shkodër, Albania"

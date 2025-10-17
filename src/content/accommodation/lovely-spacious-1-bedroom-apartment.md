@@ -1,7 +1,7 @@
 ---
 title: "Lovely spacious 1-Bedroom Apartment"
 description: "Discover the charm of Kashar with a stay at the 2# Lovely Spacious 1-Bedroom Apartment, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527834845.jpg?k=647e9700401bf26db726d417fdce437618764336c24a99a2cb0dd01771b1090a&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-spacious-1-bedroom-apartment-527834845.jpg"
 language: en
 slug: lovely-spacious-1-bedroom-apartment
 address: "Rruga 3 Deshmoret, 1001 Kashar, Albania"

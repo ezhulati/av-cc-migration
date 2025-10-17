@@ -1,7 +1,7 @@
 ---
 title: "Kler Apartments City Center Tirana"
 description: "Kler Apartments City Center Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497706016.jpg?k=34185b7e281f6b9bf5ef1aacc594b50006af3be68207bb335de0bbe2de30620a&o=&hp=1"
+featuredImage: "/images/accommodation/kler-apartments-city-center-tirana-497706016.jpg"
 language: en
 slug: kler-apartments-city-center-tirana
 address: "Rruga Tafaj, in front of \"Partizani high school, Tirana\", 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SEA & SUN Seaview Apartments { Fully equipped }"
 description: "SEA & SUN Seaview Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352871642.jpg?k=08b0649715f751bdc7b47a931b7b89537b70a3787e0bdbb6d0c7a667d2c0e845&o=&hp=1"
+featuredImage: "/images/accommodation/sea-sun-seaview-apartments-fully-equipped-352871642.jpg"
 language: en
 slug: sea-sun-seaview-apartments-fully-equipped
 address: "Market Ylli Durrës, 1005 Durrës, Albania"

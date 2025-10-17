@@ -1,7 +1,7 @@
 ---
 title: "Elida Apartments"
 description: "Elida Apartments, nestled in the heart of Gjirokastër, offers a unique and refreshing stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501766348.jpg?k=f3a8fd8899703e7d66e7156c0b5d568699320f4b86a64313b1a6eee76b144bef&o=&hp=1"
+featuredImage: "/images/accommodation/elida-apartments-501766348.jpg"
 language: en
 slug: elida-apartments
 address: "Rruga Zenel Gjoleka Building nr.1 Apartment nr.10, 6001 Gjirokastër, Albania"

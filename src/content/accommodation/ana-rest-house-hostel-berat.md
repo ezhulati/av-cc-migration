@@ -1,7 +1,7 @@
 ---
 title: "Ana Rest House Hostel Berat"
 description: "Ana Rest House Hostel Berat emerges as a charming haven for travelers seeking a blend of comfort and convenience in the historic city of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131147379.jpg?k=eebd73585c61acc8d6f18ab8cfdf2dc53e6ed04c8d772bcb993e6cea99c1a136&o=&hp=1"
+featuredImage: "/images/accommodation/ana-rest-house-hostel-berat-131147379.jpg"
 language: en
 slug: ana-rest-house-hostel-berat
 address: "Rruga Nikolla Buhuri, 5001 Berat, Albania"

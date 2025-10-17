@@ -1,7 +1,7 @@
 ---
 title: "Quartum Residence Apartments"
 description: "Quartum Residence Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504036399.jpg?k=d08ba0358a35df5c85fcb931d4b8dff7b386068659548811cbafc22a5542d3dd&o=&hp=1"
+featuredImage: "/images/accommodation/quartum-residence-apartments-504036399.jpg"
 language: en
 slug: quartum-residence-apartments
 address: "Rruga Panorama, 1057 Tirana, Albania"

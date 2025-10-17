@@ -1,7 +1,7 @@
 ---
 title: "Chic hideaway"
 description: "Chic Hideaway offers a refreshing retreat in the heart of Tirana, providing guests with a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485855349.jpg?k=b1bc161b36424fb1b1c69684c94874c9d209df70fd848eff659802eff9908371&o=&hp=1"
+featuredImage: "/images/accommodation/chic-hideaway-485855349.jpg"
 language: en
 slug: chic-hideaway
 address: "Rruga Androniqi Zengo Antoniu, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Central Apartments Shoshi"
 description: "Central Apartments Shoshi emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/60764304.jpg?k=ab1f1ae92f531e8f62058c8b9e4efb2dc41637bcf80ad7054d08d23711a6d105&o=&hp=1"
+featuredImage: "/images/accommodation/central-apartments-shoshi-60764304.jpg"
 language: en
 slug: central-apartments-shoshi
 address: "Rruga Mihal duri 35, 1000 Tirana, Albania"

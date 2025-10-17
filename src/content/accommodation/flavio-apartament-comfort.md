@@ -1,7 +1,7 @@
 ---
 title: "Flavio Apartament Comfort"
 description: "Flavio Apartment Comfort emerges as a prime choice for travelers seeking a serene getaway in Pogradec, offering air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491592433.jpg?k=353e7310cb41d5f7adc12fcc177f8a51508eded4b87ebf475d84285d34137565&o=&hp=1"
+featuredImage: "/images/accommodation/flavio-apartament-comfort-491592433.jpg"
 language: en
 slug: flavio-apartament-comfort
 address: "Rruga Et'hem Haxhia, 7300 Pogradec, Albania"

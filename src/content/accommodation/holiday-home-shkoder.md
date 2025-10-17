@@ -1,7 +1,7 @@
 ---
 title: "Holiday Home Shkoder"
 description: "Holiday Home Shkoder emerges as a serene retreat in the heart of Shkodër, offering guests a seamless blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519838559.jpg?k=3a028761d74f24901641da71fe91a603843d55f5a830d41e869d360c3ad3fcb5&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-home-shkoder-519838559.jpg"
 language: en
 slug: holiday-home-shkoder
 address: "Rruga Danej, 4001 Shkodër, Albania"

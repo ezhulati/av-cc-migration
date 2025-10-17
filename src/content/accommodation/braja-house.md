@@ -1,7 +1,7 @@
 ---
 title: "Braja House"
 description: "Braja House stands out as a prime choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251541648.jpg?k=66263caa084132dc2a52409531e28d6e1bbd89847c684d644f0285444199162f&o=&hp=1"
+featuredImage: "/images/accommodation/braja-house-251541648.jpg"
 language: en
 slug: braja-house
 address: "Lagjja: \"Dunavat II\" Rruga: \"Mufit Reso\" Gjirokastër 12 Jace Braja, 6001 Gjirokastër, Albania"

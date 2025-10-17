@@ -1,7 +1,7 @@
 ---
 title: "Vila Hadhri Borsh"
 description: "Vila Hadhri Borsh emerges as a prime choice for travelers seeking a serene beachfront escape, mere steps away from the pristine sands of Borsh Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492799223.jpg?k=a6ae3796a78d5aeba60b8308002f261423e7b1d408e274ac09ad3b9cb191166f&o=&hp=1"
+featuredImage: "/images/accommodation/vila-hadhri-borsh-492799223.jpg"
 language: en
 slug: vila-hadhri-borsh
 address: "Rruga Plazhit, 1000 Borsh, Albania"

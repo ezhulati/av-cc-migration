@@ -1,7 +1,7 @@
 ---
 title: "Aerial Hotel & Spa"
 description: "Aerial Hotel & Spa emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440610992.jpg?k=2277fd336ca589b1dfccb23c3767c06b52a079cdeab4ba0d217480814593fb69&o=&hp=1"
+featuredImage: "/images/accommodation/aerial-hotel-spa-440610992.jpg"
 language: en
 slug: aerial-hotel-spa
 address: "Road Dhimiter Konomi, 9401 Vlorë, Albania"

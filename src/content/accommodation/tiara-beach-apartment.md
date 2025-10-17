@@ -1,7 +1,7 @@
 ---
 title: "Tiara Beach Apartment"
 description: "Tiara Beach Apartment emerges as a gem on the coastline, offering guests an exclusive retreat just 90 meters from the pristine sands of Durres Beach and the scenic Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502617979.jpg?k=8d049cf2891d953cad715e88dc7005034a362da3f69f3af98c849254aa6837dd&o=&hp=1"
+featuredImage: "/images/accommodation/tiara-beach-apartment-502617979.jpg"
 language: en
 slug: tiara-beach-apartment
 address: "Rruga Ankona 28, podlaží 4, Durrës, Albania"

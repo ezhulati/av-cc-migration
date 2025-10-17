@@ -1,7 +1,7 @@
 ---
 title: "nova apartaments qerret"
 description: "Nova Apartaments Qerret emerges as a serene retreat in the vibrant heart of Golem, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405800783.jpg?k=665596e5b35af68eb2de9bf9098a7a86c426a277200f6e687df9e68f76f82889&o=&hp=1"
+featuredImage: "/images/accommodation/nova-apartaments-qerret-405800783.jpg"
 language: en
 slug: nova-apartaments-qerret
 address: "Rruga Qerret Plazh, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea Rooftop Apartment"
 description: "Sea Rooftop Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Golem, Tirana County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499407041.jpg?k=934036e2f059fce07f44d8d0800adcb16d30c0573ca0039f90ed60a224455204&o=&hp=1"
+featuredImage: "/images/accommodation/sea-rooftop-apartment-499407041.jpg"
 language: en
 slug: sea-rooftop-apartment
 address: "8 Rruga Fan Noli, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Rejan"
 description: "Villa Rejan stands out as a serene retreat for travelers seeking both tranquility and convenience in Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484787089.jpg?k=0eb3dd4be80837f290eef2727dafb839faa55811ef6a70cb27fb90d039302288&o=&hp=1"
+featuredImage: "/images/accommodation/villa-rejan-484787089.jpg"
 language: en
 slug: villa-rejan
 address: "udenisht, 7305 Pogradec, Albania"

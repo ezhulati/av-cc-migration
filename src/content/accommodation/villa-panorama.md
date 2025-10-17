@@ -1,7 +1,7 @@
 ---
 title: "Villa Panorama"
 description: "Villa Panorama emerges as a serene retreat, situated a mere 37 km from the bustling Skanderbeg Square and 41 km from the scenic Dajti Ekspres Cable Car in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355913007.jpg?k=8205275189fdd568504bd11ad81126b20b56b8f875a708c1d2346edb78b166d3&o=&hp=1"
+featuredImage: "/images/accommodation/villa-panorama-355913007.jpg"
 language: en
 slug: villa-panorama
 address: "Likmetaj, Ishem, Durrës, Albania"

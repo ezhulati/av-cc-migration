@@ -1,7 +1,7 @@
 ---
 title: "Scandi Apartments Vlorë"
 description: "Scandi Apartments Vlorë emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian Riviera."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502598086.jpg?k=3ca894bdd308f7381785a1ca12d3c89718233435538d85ec5f58256ed14925f6&o=&hp=1"
+featuredImage: "/images/accommodation/scandi-apartments-vlor-502598086.jpg"
 language: en
 slug: scandi-apartments-vlor
 address: "Rruga Uji i Ftohte, Vlorë, Albania"

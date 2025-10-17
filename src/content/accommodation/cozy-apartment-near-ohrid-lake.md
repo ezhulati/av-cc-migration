@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartment near Ohrid Lake"
 description: "Cozy Apartment near Ohrid Lake emerges as a charming retreat in Pogradec, located within the scenic Korçë County region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444049102.jpg?k=330db70955609f10b3968444c5d19ed7e3d3d1039f6827cfdbba271668141667&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-near-ohrid-lake-444049102.jpg"
 language: en
 slug: cozy-apartment-near-ohrid-lake
 address: "Rruga Dëshmorët e Pojskës 11, 3, 7301 Pogradec, Albania"

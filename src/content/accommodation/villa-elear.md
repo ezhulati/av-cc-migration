@@ -1,7 +1,7 @@
 ---
 title: "Villa Elear"
 description: "Villa Elear stands as a serene retreat in Korçë, boasting breathtaking mountain vistas and the convenience of modern amenities, all within a stone's throw of the enchanting Ohrid Lake Springs, just 43 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529519735.jpg?k=bccc6bb44f6c45da8cfc27a9b9e5d6bdc433c6a0e9ace3ab4847e74b2e72b463&o=&hp=1"
+featuredImage: "/images/accommodation/villa-elear-529519735.jpg"
 language: en
 slug: villa-elear
 address: "Rruga Riza Mance, 7003 Korçë, Albania"

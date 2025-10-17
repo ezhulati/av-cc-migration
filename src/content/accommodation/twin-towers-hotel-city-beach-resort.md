@@ -1,7 +1,7 @@
 ---
 title: "Twin Towers Hotel City & Beach Resort"
 description: "Twin Towers Hotel City & Beach Resort stands as a beacon of comfort and luxury in Shëngjin, offering guests a 4-star experience that seamlessly blends city convenience with beachfront bliss."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/221495623.jpg?k=d5faa5e904da9d4159610d81a8a0936ea545d21f8a61626bebae6bb1249cbe13&o=&hp=1"
+featuredImage: "/images/accommodation/twin-towers-hotel-city-beach-resort-221495623.jpg"
 language: en
 slug: twin-towers-hotel-city-beach-resort
 address: "Sheshi Nene Tereza, 4503, 4503 Shëngjin, Albania"

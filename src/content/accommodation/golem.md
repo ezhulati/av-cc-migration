@@ -1,7 +1,7 @@
 ---
 title: "Golem"
 description: "Discover the charm of Golem, a prime destination for beach lovers and those seeking a serene getaway."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495677696.jpg?k=1ab90a512a6647d3459b4f06b3e266441aac0e76e2a730aec855e6ce985cb7aa&o=&hp=1"
+featuredImage: "/images/accommodation/golem-495677696.jpg"
 language: en
 slug: golem
 address: "Rruga Kristal, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest house PANORAMA"
 description: "Guest House PANORAMA, situated a mere 3."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205928855.jpg?k=ef4aa5fbedd9be7c8f0b87eb08f27ea3dd14dc14f10cc9564e64742bf600b4b9&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-panorama-205928855.jpg"
 language: en
 slug: guest-house-panorama
 address: "Lagjja Gjeçaj Theth, 4027 Theth, Albania"

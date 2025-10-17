@@ -1,7 +1,7 @@
 ---
 title: "Hotel George"
 description: "Hotel George stands as a beacon of comfort and convenience in the heart of Korçë, a mere 45 km away from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281822978.jpg?k=686eb2e14ca110bcd111187eb7f3f9abcb134dd3186b178f0568d26750fd4002&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-george-281822978.jpg"
 language: en
 slug: hotel-george
 address: "Rruga Pavllo Sholla, 7303 Korçë, Albania"

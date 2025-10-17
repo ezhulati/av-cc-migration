@@ -1,7 +1,7 @@
 ---
 title: "Eli's Seafront Boutique Apartment"
 description: "Eli's Seafront Boutique Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience along the picturesque shores of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197532198.jpg?k=617229ef854e2bd50f1bc4e1e689885fee9b48b654c297456f415f7a8762f332&o=&hp=1"
+featuredImage: "/images/accommodation/eli-s-seafront-boutique-apartment-197532198.jpg"
 language: en
 slug: eli-s-seafront-boutique-apartment
 address: "Saranda Port, 1000 Sarandë, Albania"

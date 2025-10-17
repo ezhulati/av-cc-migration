@@ -1,7 +1,7 @@
 ---
 title: "Tiny Cute Studio near the City Center - 5 min walk"
 description: "Discover the charm of Tirana with a stay at the Tiny Cute Studio, ideally positioned just a stone's throw away from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514776552.jpg?k=f9b69de8b7fd62582abf758010fb704c4354e3bf43c4044cd4c00f2b2e859c24&o=&hp=1"
+featuredImage: "/images/accommodation/tiny-cute-studio-near-the-city-center-5-min-walk-514776552.jpg"
 language: en
 slug: tiny-cute-studio-near-the-city-center-5-min-walk
 address: "Rruga Myrtezim Këlliçi, 1001 Tirana, Albania"

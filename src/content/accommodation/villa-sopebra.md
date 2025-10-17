@@ -1,7 +1,7 @@
 ---
 title: "Villa Sopebra"
 description: "Villa Sopebra stands as a prime choice for travelers seeking a serene getaway in Sarandë, just a stone's throw away from the pristine Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471415346.jpg?k=f4f859424a7b40603c2c0631b19480f5cbae411b7530921bb370a9cc5904cf57&o=&hp=1"
+featuredImage: "/images/accommodation/villa-sopebra-471415346.jpg"
 language: en
 slug: villa-sopebra
 address: "Rruga Butrint, 9200 Sarandë, Albania"

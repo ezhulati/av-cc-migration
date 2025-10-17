@@ -1,7 +1,7 @@
 ---
 title: "Primo Hotel"
 description: "Primo Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/418475903.jpg?k=360e7dbfdd33e38af26160a412ba21d76b16954aec0d1564df5aad6d94eea191&o=&hp=1"
+featuredImage: "/images/accommodation/primo-hotel-418475903.jpg"
 language: en
 slug: primo-hotel
 address: "Rruga Medar Shtylla, 1001 Tirana, Albania"

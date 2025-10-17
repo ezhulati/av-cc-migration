@@ -1,7 +1,7 @@
 ---
 title: "Timo's Guest House"
 description: "Timo's Guest House emerges as a serene haven for travelers seeking a tranquil retreat in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199973587.jpg?k=ffe65682ed22c9996307dc3ac7c1db0c0fa4224e96b948b64ab57d63a4439760&o=&hp=1"
+featuredImage: "/images/accommodation/timo-s-guest-house-199973587.jpg"
 language: en
 slug: timo-s-guest-house
 address: "Rruga Shën Mëhilli, 5000 Berat, Albania"

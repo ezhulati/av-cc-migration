@@ -1,7 +1,7 @@
 ---
 title: "Stephen Center B&B"
 description: "Stephen Center B&B emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life, merely a stone's throw from the Main Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/324479674.jpg?k=834ccd9092eafc60dd65bf9d3c9f7e7d4d7fb124759d84d364057ced318de9d1&o=&hp=1"
+featuredImage: "/images/accommodation/stephen-center-b-b-324479674.jpg"
 language: en
 slug: stephen-center-b-b
 address: "Rruga Hoxha Tahsin 1, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea La Vie Apt - WiFi 500 mbs - Free parking"
 description: "Sea La Vie Apt emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408265516.jpg?k=b6dc9f0547a595f40c1382832e008e913419ad682daa23e34a0c623f515ac5a0&o=&hp=1"
+featuredImage: "/images/accommodation/sea-la-vie-apt-wifi-500-mbs-free-parking-408265516.jpg"
 language: en
 slug: sea-la-vie-apt-wifi-500-mbs-free-parking
 address: "Rruga Pavaresia 3, 2008 Durrës, Albania"

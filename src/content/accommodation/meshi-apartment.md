@@ -1,7 +1,7 @@
 ---
 title: "MESHI APARTMENT"
 description: "Discover the charm of MESHI APARTMENT, a distinguished property that stands out for its serene terrace and inviting bar, situated in the vibrant heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428829046.jpg?k=a8ee82b2d7bb36bd67debe4e7e66f6102aaa536f8e191cd2e212ce501daae58f&o=&hp=1"
+featuredImage: "/images/accommodation/meshi-apartment-428829046.jpg"
 language: en
 slug: meshi-apartment
 address: "Rruga Taulantia FLOOR NUMBER 3, 2001 Durrës, Albania"

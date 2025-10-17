@@ -1,7 +1,7 @@
 ---
 title: "Studio"
 description: "Studio emerges as a serene retreat, offering guests a picturesque garden view from its private balcony, situated just moments from the pristine Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498062224.jpg?k=83772ff3840de13c160a477e9b00f48e01c53e3690f55c0d5e763361da92e900&o=&hp=1"
+featuredImage: "/images/accommodation/studio-498062224.jpg"
 language: en
 slug: studio
 address: "Rruga Pavaresia, Durrës, Albania"

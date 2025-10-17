@@ -1,7 +1,7 @@
 ---
 title: "Cappuccino Apartment"
 description: "Cappuccino Apartment emerges as a prime choice for travelers seeking comfort and convenience in Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261807043.jpg?k=214fcc2207d2e76273b4cf051a09c65d8312c67e17cedbc1902e53fb52d6afbc&o=&hp=1"
+featuredImage: "/images/accommodation/cappuccino-apartment-261807043.jpg"
 language: en
 slug: cappuccino-apartment
 address: "Rruga Luigj Gurakuqi third floor, 4501 Lezhë, Albania"

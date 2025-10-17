@@ -1,7 +1,7 @@
 ---
 title: "Jelena's Luxury Apartments"
 description: "Jelena's Luxury Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a short 300-meter stroll from the pristine Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194486006.jpg?k=c3563d5efc361cf707f0dfaf1e41000a9d45cd70e3163c803de0b88a9d1668c3&o=&hp=1"
+featuredImage: "/images/accommodation/jelena-s-luxury-apartments-194486006.jpg"
 language: en
 slug: jelena-s-luxury-apartments
 address: "Rruga Butrinti 4 and 5, 9700 Sarandë, Albania"

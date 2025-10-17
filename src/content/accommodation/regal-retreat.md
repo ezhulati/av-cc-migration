@@ -1,7 +1,7 @@
 ---
 title: "Regal Retreat"
 description: "Regal Retreat offers a refreshing stay in Shkodër, boasting air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499083862.jpg?k=93ec82dfd999db1029692b7b3694be9f316b554c05a4de3beed1af2f006599ac&o=&hp=1"
+featuredImage: "/images/accommodation/regal-retreat-499083862.jpg"
 language: en
 slug: regal-retreat
 address: "Rruga Luigj Gurakuqi, 4001 Shkodër, Albania"

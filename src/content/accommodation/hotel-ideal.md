@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ideal"
 description: "Hotel Ideal stands as a beacon of comfort and convenience in the heart of Shkodër, offering guests a refined 3-star experience complete with a welcoming bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37707265.jpg?k=b40a4d6b0bb1b30721fc96b4bb31a927c25c7930a7341e5cb8b3994a00a63424&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-ideal-37707265.jpg"
 language: en
 slug: hotel-ideal
 address: "Rruga Kardinal Mikel Koliqi, 4001 Shkodër, Albania"

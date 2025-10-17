@@ -1,7 +1,7 @@
 ---
 title: "Apartment Ermona Resuli"
 description: "Apartment Ermona Resuli, located in the picturesque Vlorë County region of Ksamil, stands out for its serene garden setting and the convenience of complimentary private parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353201219.jpg?k=81360b7f2e7b0e92558014ff14a516a064355881d172be86bb7910de134fe4aa&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-ermona-resuli-353201219.jpg"
 language: en
 slug: apartment-ermona-resuli
 address: "Shelegar, Sarande, 9703 Ksamil, Albania"

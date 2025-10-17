@@ -1,7 +1,7 @@
 ---
 title: "Mountain Majesty"
 description: "Mountain Majesty emerges as a serene retreat in the heart of Radesh, offering a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500556334.jpg?k=a0305312118d834c6c12266f9d9382e585114bc0c793b8d5aaca9447edc2a2c6&o=&hp=1"
+featuredImage: "/images/accommodation/mountain-majesty-500556334.jpg"
 language: en
 slug: mountain-majesty
 address: "Rruga Nexhip Xhaja, Radesh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Hotel Orikum"
 description: "Sunrise Hotel Orikum emerges as a charming retreat just a stone's throw away from the serene Orikum Beach, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103139767.jpg?k=7d67ac1fd6bebfbf8e80a48c1c6f59c5421d0e7463ed9e33880ca38e2230e4ca&o=&hp=1"
+featuredImage: "/images/accommodation/sunrise-hotel-orikum-103139767.jpg"
 language: en
 slug: sunrise-hotel-orikum
 address: "Rruga Pashaliman, 9426 Orikum, Albania"

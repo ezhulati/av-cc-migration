@@ -1,7 +1,7 @@
 ---
 title: "TAM Serviced Studio Apartment Myslym Shyri No2"
 description: "TAM Serviced Studio Apartment Myslym Shyri No2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414322749.jpg?k=30a8b5f826a1a4318545992462fb80e13ec77ff39555f36729a1ee4126af0d7a&o=&hp=1"
+featuredImage: "/images/accommodation/tam-serviced-studio-apartment-myslym-shyri-no2-414322749.jpg"
 language: en
 slug: tam-serviced-studio-apartment-myslym-shyri-no2
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

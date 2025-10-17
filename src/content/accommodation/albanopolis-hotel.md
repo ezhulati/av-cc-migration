@@ -1,7 +1,7 @@
 ---
 title: "Albanopolis Hotel"
 description: "Albanopolis Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209902844.jpg?k=56d3554df91ca7eec297a878cbc9a69aca629d520bea5adb526a9ad57c5e9d2a&o=&hp=1"
+featuredImage: "/images/accommodation/albanopolis-hotel-209902844.jpg"
 language: en
 slug: albanopolis-hotel
 address: "Rruga Mine Peza nr. 20, 1000 Tirana, Albania"

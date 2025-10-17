@@ -1,7 +1,7 @@
 ---
 title: "Apartament Vasilika"
 description: "Apartament Vasilika emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474366202.jpg?k=afa4278ec6601b1b4ff52eab37d6bb9f82f62e41c31062af49c4e5d3fc193036&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-vasilika-474366202.jpg"
 language: en
 slug: apartament-vasilika
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

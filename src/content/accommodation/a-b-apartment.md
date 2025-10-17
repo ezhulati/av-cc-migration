@@ -1,7 +1,7 @@
 ---
 title: "A&B Apartment"
 description: "A&B Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, located just a short stroll from the pristine Golem Beach and within easy reach of Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365318235.jpg?k=7e8ec938af90658e9927c892a3b7b5391b8e55e6e2aaaf1ec1b1d7ec07161299&o=&hp=1"
+featuredImage: "/images/accommodation/a-b-apartment-365318235.jpg"
 language: en
 slug: a-b-apartment
 address: "Rruga e Gjuzeve, Golem, Albania"

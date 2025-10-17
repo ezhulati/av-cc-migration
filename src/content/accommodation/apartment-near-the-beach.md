@@ -1,7 +1,7 @@
 ---
 title: "Apartment near the beach"
 description: "Discover the charm of Vlorë with a stay at the Apartment near the beach, a prime choice for travelers seeking proximity to the sea and the comfort of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471770494.jpg?k=2484bca03cacaa9a2712ea0a1524d7f28262d996188f5a8af0c47fac40cdfb8e&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-near-the-beach-471770494.jpg"
 language: en
 slug: apartment-near-the-beach
 address: "radhima, Vlorë, Albania"

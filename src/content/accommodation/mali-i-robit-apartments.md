@@ -1,7 +1,7 @@
 ---
 title: "Mali i Robit apartments"
 description: "Mali i Robit Apartments emerges as a serene retreat for travelers seeking a blend of comfort and convenience, located just a stone's throw away from the vibrant Skanderbeg Square and the historic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383610319.jpg?k=95244acda67d900c7917db3df77da91be8dc6d06d7d1ee600cf0f569d1d2f69a&o=&hp=1"
+featuredImage: "/images/accommodation/mali-i-robit-apartments-383610319.jpg"
 language: en
 slug: mali-i-robit-apartments
 address: "Golem, 2008 Vukjakaj-Gegaj, Albania"

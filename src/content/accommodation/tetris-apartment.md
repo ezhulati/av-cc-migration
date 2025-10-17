@@ -1,7 +1,7 @@
 ---
 title: "Tetris Apartment"
 description: "Tetris Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478895687.jpg?k=b3c38f23025f4a1a4d31b6f3aec5c1ebb81a55e91293e6fbcda38fcd7786cf27&o=&hp=1"
+featuredImage: "/images/accommodation/tetris-apartment-478895687.jpg"
 language: en
 slug: tetris-apartment
 address: "Rruga Aleksandër Moisiu Delta Residence, Floor 6, 1040 Tirana, Albania"

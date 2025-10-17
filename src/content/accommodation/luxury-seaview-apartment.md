@@ -1,7 +1,7 @@
 ---
 title: "Luxury Seaview Apartment"
 description: "Luxury Seaview Apartment stands as a premier beachfront destination in Durrës, mere steps away from the inviting sands of Durres Beach and a scenic 39 km drive from the historic Skanderbeg Square."
-featuredImage: "https://lh3.googleusercontent.com/a/AEdFTp5u-bERW_M6Vzykv76fa9xKCVD_3LCheiLhpa6xBA=s96-c64"
+featuredImage: "/images/accommodation/luxury-seaview-apartment-AEdFTp5u-bER.jpg"
 language: en
 slug: luxury-seaview-apartment
 address: "Pavaresia Lagja nr.13, 2008 Durrës, Albania"

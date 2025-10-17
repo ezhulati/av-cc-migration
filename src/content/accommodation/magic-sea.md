@@ -1,7 +1,7 @@
 ---
 title: "Magic Sea"
 description: "Magic Sea stands as a serene retreat right on the edge of Shkëmbi i Kavajës Beach, offering guests a unique blend of convenience and tranquility in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528225695.jpg?k=57391e24c0040cd90a97155498d0e1d0d66fcaf96ef6bfb5d69848409234428d&o=&hp=1"
+featuredImage: "/images/accommodation/magic-sea-528225695.jpg"
 language: en
 slug: magic-sea
 address: "Rruga Shkembi i Kavajes Pallati Ushina Siper Oyster Apartament, Durrës, Albania"

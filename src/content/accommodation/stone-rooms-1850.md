@@ -1,7 +1,7 @@
 ---
 title: "Stone rooms 1850"
 description: "Stone Rooms 1850 emerges as a distinguished guest house, located in the historic heart of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350264520.jpg?k=6e4ec17adab97195aaa13f2e5e66bc37c0ad8c6e7095bd78af5e48fec8fd0275&o=&hp=1"
+featuredImage: "/images/accommodation/stone-rooms-1850-350264520.jpg"
 language: en
 slug: stone-rooms-1850
 address: "Dunavat 2 neightborhood, street : \"mufit reso\" red door number 6, 6001 Gjirokastër, Albania"

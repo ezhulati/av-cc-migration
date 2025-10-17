@@ -1,7 +1,7 @@
 ---
 title: "Pinea Hotel Resort & Spa"
 description: "Pinea Hotel Resort & Spa stands as a premier destination for travelers seeking a blend of luxury and comfort in Golem, just a stone's throw away from the serene Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303430830.jpg?k=5517c03f30fcfe58f0b249ce74894c508cdc129df54c0e80af27cc4c4cbbf85f&o=&hp=1"
+featuredImage: "/images/accommodation/pinea-hotel-resort-spa-303430830.jpg"
 language: en
 slug: pinea-hotel-resort-spa
 address: "Rruga Bulevardi Pishave Pishat e Buta, 2504 Golem, Albania"

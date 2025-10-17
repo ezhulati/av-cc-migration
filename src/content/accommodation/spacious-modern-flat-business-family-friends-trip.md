@@ -1,7 +1,7 @@
 ---
 title: "Spacious Modern Flat Business/Family/Friends Trip"
 description: "Spacious Modern Flat Business/Family/Friends Trip emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400014509.jpg?k=6222a11240eadde2e914d1885d1aed36ffa05e5b9c5b890728b4ee29ccd7bc6c&o=&hp=1"
+featuredImage: "/images/accommodation/spacious-modern-flat-business-family-friends-trip-400014509.jpg"
 language: en
 slug: spacious-modern-flat-business-family-friends-trip
 address: "Rruga Xhavit Shyqyri Demneri, 42, Pallati Gener, Entry no 1, Apartment 38, 1000 Tirana, Albania"

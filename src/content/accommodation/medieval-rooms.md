@@ -1,7 +1,7 @@
 ---
 title: "Medieval Rooms"
 description: "Medieval Rooms in Gjirokastër, located a mere 45 km from the serene Zaravina Lake, presents travelers with an exceptional stay experience, complete with breathtaking mountain and city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306378256.jpg?k=b79922d353971045f34c3325d3cf95158013ae7cf812ceaa3ef731dd417c35b5&o=&hp=1"
+featuredImage: "/images/accommodation/medieval-rooms-306378256.jpg"
 language: en
 slug: medieval-rooms
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

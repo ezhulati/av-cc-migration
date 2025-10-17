@@ -1,7 +1,7 @@
 ---
 title: "Seaview ALBA appartament close to beach"
 description: "Discover the charm of Sarandë with a stay at the Seaview ALBA Apartment, a serene retreat located just a stone's throw away from the pristine Maestral Beach and the inviting Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301178976.jpg?k=6f6bac685c15631530c0f5a63df6682614990b04cc8055ab092f32ff285150cc&o=&hp=1"
+featuredImage: "/images/accommodation/seaview-alba-appartament-close-to-beach-301178976.jpg"
 language: en
 slug: seaview-alba-appartament-close-to-beach
 address: "Rruga Butrinti, Sarandë, Albania"

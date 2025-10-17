@@ -1,7 +1,7 @@
 ---
 title: "Near the Beach Golem - Best Prices"
 description: "Near the Beach Golem - Best Prices emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated just a stone's throw away from the serene Mali I Robit Beach and within easy reach of Qerret and Golem Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469851181.jpg?k=93490ab4fb3faad7d15a6d4df6ca372408b89b1a4f930516229c31f7faf6a171&o=&hp=1"
+featuredImage: "/images/accommodation/near-the-beach-golem-best-prices-469851181.jpg"
 language: en
 slug: near-the-beach-golem-best-prices
 address: "Rruga Iliria, 1001 Golem, Albania"

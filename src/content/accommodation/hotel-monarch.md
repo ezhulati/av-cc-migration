@@ -1,7 +1,7 @@
 ---
 title: "Hotel Monarch"
 description: "Hotel Monarch stands as a beacon of comfort and convenience in the heart of Elbasan, offering guests a seamless blend of modern amenities and attentive service."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79060585.jpg?k=e513e0890f4ad16b6b541f5e2f8907d9496a79430088da96580efc1e8be373ac&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-monarch-79060585.jpg"
 language: en
 slug: hotel-monarch
 address: "Rruga Rinia 13, 3001 Elbasan, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Arber"
 description: "Guesthouse Arber stands as a charming retreat in the heart of Gjirokastër, offering travelers a serene escape with its air-conditioned accommodations and complimentary WiFi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493225018.jpg?k=bb2fe3ae6b65aaee29a118d080cf0afe58139142970583dfbc2b4b38803c0ca6&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-arber-493225018.jpg"
 language: en
 slug: guesthouse-arber
 address: "Rruga Jonuz Galanxhi, 6001 Gjirokastër, Albania"

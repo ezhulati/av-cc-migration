@@ -1,7 +1,7 @@
 ---
 title: "Panorama Seaview Lungomare"
 description: "Panorama Seaview Lungomare emerges as a prime choice for travelers seeking a serene getaway in Vlorë, positioned just a short stroll from Vlore Beach and within easy reach of Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502151598.jpg?k=ee61dfdfff0b0709d3fb8b49f2bbcf0d5975c476ac90240f1b9ccead4efeb1db&o=&hp=1"
+featuredImage: "/images/accommodation/panorama-seaview-lungomare-502151598.jpg"
 language: en
 slug: panorama-seaview-lungomare
 address: "Rruga Shyqyri Ali Merka, Vlorë, Albania"

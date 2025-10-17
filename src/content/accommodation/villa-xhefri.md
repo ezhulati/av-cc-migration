@@ -1,7 +1,7 @@
 ---
 title: "Villa Xhefri"
 description: "Villa Xhefri, located just steps away from the pristine Saranda Bay Beach, emerges as a prime choice for travelers seeking both comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299406278.jpg?k=81da2e9b009a5f5c2c139596542dcc6693f323eeaa24af6516f3df8dcc40a0fd&o=&hp=1"
+featuredImage: "/images/accommodation/villa-xhefri-299406278.jpg"
 language: en
 slug: villa-xhefri
 address: "Rruga Idriz Alidhima, 1901 Sarandë, Albania"

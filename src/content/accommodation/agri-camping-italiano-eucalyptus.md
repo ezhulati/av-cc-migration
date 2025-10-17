@@ -1,7 +1,7 @@
 ---
 title: "Agri Camping italiano - Eucalyptus"
 description: "Agri Camping Italiano - Eucalyptus stands out as a unique accommodation choice for travelers seeking an immersive outdoor experience with the comfort of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489258680.jpg?k=09d56d2f7a639fdb6587455e76d9be23677c2c79f983cab24d6220b3c3bb9b43&o=&hp=1"
+featuredImage: "/images/accommodation/agri-camping-italiano-eucalyptus-489258680.jpg"
 language: en
 slug: agri-camping-italiano-eucalyptus
 address: "Rruga Llesh Turkaj 20, 4511 Shënkoll, Albania"

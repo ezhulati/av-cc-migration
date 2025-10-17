@@ -1,7 +1,7 @@
 ---
 title: "Elite Palace"
 description: "Elite Palace emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164042595.jpg?k=19553c25f373453dc198849efa7486d673632f8f16dc7b0ff0b7cbb043be34b7&o=&hp=1"
+featuredImage: "/images/accommodation/elite-palace-164042595.jpg"
 language: en
 slug: elite-palace
 address: "Rruga Alajdin Frasheri, Tirana, Albania, 1040 Tirana, Albania"

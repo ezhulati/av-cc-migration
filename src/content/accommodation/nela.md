@@ -1,7 +1,7 @@
 ---
 title: "NELA"
 description: "Discover the charm of Sarandë with a stay at NELA, a prime apartment located just a stone's throw away from the serene La Petite Beach and within easy walking distance to Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481551168.jpg?k=fbc1d403030e6359cd28fc80b00e61aa51baef753cc60eb0f625947167faab15&o=&hp=1"
+featuredImage: "/images/accommodation/nela-481551168.jpg"
 language: en
 slug: nela
 address: "Rruga Skënderbeu Number 5, Floor 3, 9701 Sarandë, Albania"

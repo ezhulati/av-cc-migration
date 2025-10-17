@@ -1,7 +1,7 @@
 ---
 title: "61°Bs Charming Studio Apartament @BLLOK"
 description: "Discover the charm and convenience of 61°Bs Charming Studio Apartment @BLLOK, a prime choice for travelers seeking a blend of comfort and exploration in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450467283.jpg?k=4ea904e0cd3aa526dd1d1dcea6b24f95d6123ac7ce1af694d5efb3cca86b7a96&o=&hp=1"
+featuredImage: "/images/accommodation/61-bs-charming-studio-apartament-bllok-450467283.jpg"
 language: en
 slug: 61-bs-charming-studio-apartament-bllok
 address: "Rruga Ymer Kurti, 1001 Tirana, Albania"

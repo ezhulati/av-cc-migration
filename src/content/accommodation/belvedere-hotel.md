@@ -1,7 +1,7 @@
 ---
 title: "Belvedere Hotel"
 description: "Belvedere Hotel emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472052448.jpg?k=0f352a5c287a5939c3529b8c5095bd747defce936d6cbce104184c93bdafa351&o=&hp=1"
+featuredImage: "/images/accommodation/belvedere-hotel-472052448.jpg"
 language: en
 slug: belvedere-hotel
 address: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"

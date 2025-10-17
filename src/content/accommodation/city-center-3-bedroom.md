@@ -1,7 +1,7 @@
 ---
 title: "City Center 3 Bedroom"
 description: "City Center 3 Bedroom offers a refreshing stay in the heart of Gjirokastër, boasting air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479272805.jpg?k=207d4718e8766052a6cbc062c3bf56329feae143fedd34f1a05ea42084bcdae5&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-3-bedroom-479272805.jpg"
 language: en
 slug: city-center-3-bedroom
 address: "Rruga Studenti, Gjirokastër, Albania"

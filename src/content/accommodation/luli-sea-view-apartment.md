@@ -1,7 +1,7 @@
 ---
 title: "Luli Sea View Apartment"
 description: "Luli Sea View Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short stroll from the pristine Maestral Beach and within easy reach of La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438120811.jpg?k=7bd72332ce37fd04a5b84c79a99f440c27e0a488d9051b38efce11baa1f109aa&o=&hp=1"
+featuredImage: "/images/accommodation/luli-sea-view-apartment-438120811.jpg"
 language: en
 slug: luli-sea-view-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

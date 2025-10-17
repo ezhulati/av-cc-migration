@@ -1,7 +1,7 @@
 ---
 title: "Alvero Hotel"
 description: "Alvero Hotel emerges as a charming retreat in Përmet, offering guests a seamless blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262867169.jpg?k=c98e1311588028a3037dc2d27a7745342b51794fb13f68e0af52f5aaf937046d&o=&hp=1"
+featuredImage: "/images/accommodation/alvero-hotel-262867169.jpg"
 language: en
 slug: alvero-hotel
 address: "Rruga Mentor Xhemali, nn, 6401 Përmet, Albania"

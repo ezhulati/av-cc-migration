@@ -1,7 +1,7 @@
 ---
 title: "Lulu Suites - Moka"
 description: "Lulu Suites - Moka emerges as a prime choice for travelers seeking a serene getaway in Golem, offering air-conditioned accommodations complete with a terrace that presents a charming garden view."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470517255.jpg?k=4641a6d41d2ba6b56057746d770cf96e2d6bc4ed2527ffbc9af5897bf42a6159&o=&hp=1"
+featuredImage: "/images/accommodation/lulu-suites-moka-470517255.jpg"
 language: en
 slug: lulu-suites-moka
 address: "Rruga Iliria, 2504 Golem, Albania"

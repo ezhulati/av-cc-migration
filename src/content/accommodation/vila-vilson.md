@@ -1,7 +1,7 @@
 ---
 title: "Vila Vilson"
 description: "Vila Vilson stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435452771.jpg?k=de51d9c3fad8cc3df3ce66015656d2b2778837f2d36769d92925efc6eb6f6e31&o=&hp=1"
+featuredImage: "/images/accommodation/vila-vilson-435452771.jpg"
 language: en
 slug: vila-vilson
 address: "Rruga 40 Shenjtorët Lagjia nr. 1, 9701 Sarandë, Albania"

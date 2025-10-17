@@ -1,7 +1,7 @@
 ---
 title: "Fabulous 1 -Bedroom Apt in Tirana - Your Home"
 description: "Discover the charm of Tirana with a stay at the Fabulous 1-Bedroom Apartment, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495198473.jpg?k=9510a0bea7e0b37917a722a5a597f5910a2edb2cf5241ca508ea3e233e1e96d3&o=&hp=1"
+featuredImage: "/images/accommodation/fabulous-1-bedroom-apt-in-tirana-your-home-495198473.jpg"
 language: en
 slug: fabulous-1-bedroom-apt-in-tirana-your-home
 address: "Rruga Medar Shtylla Kompleksi Tirhino, Kulla C., Apt. 40, 1044 Tirana, Albania"

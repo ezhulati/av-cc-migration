@@ -1,7 +1,7 @@
 ---
 title: "Qemal Stafa Apartment"
 description: "Qemal Stafa Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504200667.jpg?k=67b81f6840929f94870b4d77c2cec76c8e3524001c1d8560fa2561f055f26176&o=&hp=1"
+featuredImage: "/images/accommodation/qemal-stafa-apartment-504200667.jpg"
 language: en
 slug: qemal-stafa-apartment
 address: "Rruga Qemal Stafa, Tirana, Albania"

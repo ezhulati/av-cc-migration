@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kapri"
 description: "Hotel Kapri, located a mere 90 meters from the serene Mali I Robit Beach in Golem, stands out as a prime choice for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466240568.jpg?k=77b9314dd094d5f2c2818cad62f8f8c67f11993ecb134b874ddf817fb13bd5b6&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kapri-466240568.jpg"
 language: en
 slug: hotel-kapri
 address: "Mali Robit Durres, 2802 Golem, Albania"

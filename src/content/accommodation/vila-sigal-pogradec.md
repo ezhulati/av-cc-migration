@@ -1,7 +1,7 @@
 ---
 title: "Vila Sigal Pogradec"
 description: "Vila Sigal Pogradec emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176323413.jpg?k=b9d553721d4162e8d514357a3a111cf253aff44a7b806657830ccb5363e4b5ff&o=&hp=1"
+featuredImage: "/images/accommodation/vila-sigal-pogradec-176323413.jpg"
 language: en
 slug: vila-sigal-pogradec
 address: "Rr. Reshit Collaku 7301, 7301 Pogradec, Albania"

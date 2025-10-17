@@ -1,7 +1,7 @@
 ---
 title: "Villa HENA"
 description: "Villa HENA emerges as a charming choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/237983737.jpg?k=9a567cbc2a7503d89bea5096ffd107649a4f0e9f681828284932e4897c464913&o=&hp=1"
+featuredImage: "/images/accommodation/villa-hena-237983737.jpg"
 language: en
 slug: villa-hena
 address: "sh 81 sarande albania kanali cukes, 9706 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Warm apartment in the center of Tirana city"
 description: "Discover the charm of Tirana with a stay at the Warm Apartment, a cozy retreat located just a stone's throw away from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447363565.jpg?k=a39fcb7cb75d8a4fbe847f2d6ac21d396944492e09a3761dfebc5dd8ea8f1310&o=&hp=1"
+featuredImage: "/images/accommodation/warm-apartment-in-the-center-of-tirana-city-447363565.jpg"
 language: en
 slug: warm-apartment-in-the-center-of-tirana-city
 address: "Rruga Myslym Shyri no 6/1, second floor, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Triart"
 description: "Hotel Triart stands out as a prime choice for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340544709.jpg?k=019e6e7bacd3ac82599c205b4b5df8d90cf5f8d991b1a0c10714bdef97a03350&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-triart-340544709.jpg"
 language: en
 slug: hotel-triart
 address: "Bulevardi Shën Gjergji, Pedonale, Korce, 7001 Korçë, Albania"

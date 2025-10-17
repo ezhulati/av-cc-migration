@@ -1,7 +1,7 @@
 ---
 title: "Apartments Albania"
 description: "Apartments Albania emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193384184.jpg?k=811946d42ae2e0f3a2650d30ffe7070ab52addc4227f0698e52ac88813d41839&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-albania-193384184.jpg"
 language: en
 slug: apartments-albania
 address: "Rruga Karl Gega Saranda Mieszkanie, piętro 2, 9701 Sarandë, Albania"

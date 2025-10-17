@@ -1,7 +1,7 @@
 ---
 title: "George Boutique Hotel"
 description: "George Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Voskopojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420637355.jpg?k=75d3abdf276d9e946d888bb8980e8ab95476584b188eace5e4e76d2980a9273f&o=&hp=1"
+featuredImage: "/images/accommodation/george-boutique-hotel-420637355.jpg"
 language: en
 slug: george-boutique-hotel
 address: "Rruga Gjergj Simon Sina, 7029 Voskopojë, Albania"

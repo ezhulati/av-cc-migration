@@ -1,7 +1,7 @@
 ---
 title: "Apartaments Vila Mimani 2"
 description: "Discover the charm of Berat with a stay at Apartaments Vila Mimani 2, a property that offers a serene retreat with its inner courtyard views and lush garden surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471193982.jpg?k=89211b5e7476ccc1a004a2c6d6d56bd1216971de495d4fc675a7a546696555dd&o=&hp=1"
+featuredImage: "/images/accommodation/apartaments-vila-mimani-2-471193982.jpg"
 language: en
 slug: apartaments-vila-mimani-2
 address: "Rruga Santa Lucia, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse"
 description: "The guesthouse in Kukës stands out for its commitment to comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501529728.jpg?k=992f8a5d573ee3d99250ae1bdc025a4d9886a5917d65878ef0c889f8d16d4a1e&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-501529728.jpg"
 language: en
 slug: guesthouse
 address: "Çaje Kukes Albania, 8507 Kukës, Albania"

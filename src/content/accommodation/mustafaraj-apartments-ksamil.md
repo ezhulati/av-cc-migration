@@ -1,7 +1,7 @@
 ---
 title: "Mustafaraj Apartments Ksamil"
 description: "Discover the charm of Mustafaraj Apartments Ksamil, a serene oasis located just a stone's throw from the pristine beaches of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31673201.jpg?k=46a1275e1c9da7b588c3e36b03cd8b7b4178d129eaa21f393b370dc36e908fd6&o=&hp=1"
+featuredImage: "/images/accommodation/mustafaraj-apartments-ksamil-31673201.jpg"
 language: en
 slug: mustafaraj-apartments-ksamil
 address: "Ksamil, 1000 Ksamil, Albania"

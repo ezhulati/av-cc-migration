@@ -1,7 +1,7 @@
 ---
 title: "Vila Mihasi"
 description: "Vila Mihasi stands out as a charming retreat in the heart of Ksamil, offering a serene escape less than a kilometer away from the pristine sands of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347587802.jpg?k=bde2c001b000549b30241702a0e49a7e07b54e03debe303c961ac81975c46d63&o=&hp=1"
+featuredImage: "/images/accommodation/vila-mihasi-347587802.jpg"
 language: en
 slug: vila-mihasi
 address: "Rruga: Ali Pash tepelena, 9706 Ksamil, Albania"

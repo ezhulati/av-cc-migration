@@ -1,7 +1,7 @@
 ---
 title: "Charming House"
 description: "Charming House emerges as a serene retreat in Pogradec, offering guests a blend of comfort and convenience with its prime location."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/charming-house-f69a0f45af41.jpg"
 language: en
 slug: charming-house
 address: "Rruga Naim Frashëri, 7301 Pogradec, Albania"

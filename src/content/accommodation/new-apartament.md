@@ -1,7 +1,7 @@
 ---
 title: "New apartament"
 description: "New Apartment emerges as a refreshing accommodation choice in Tirana, offering air-conditioned spaces complete with a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517266885.jpg?k=6cdc83bf74e60bc802718c82be5afecca8c68a49b234fccddd2215c32a42e719&o=&hp=1"
+featuredImage: "/images/accommodation/new-apartament-517266885.jpg"
 language: en
 slug: new-apartament
 address: "Rruga Qemal Dracini, 1025 Tirana, Albania"

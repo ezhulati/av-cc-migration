@@ -1,7 +1,7 @@
 ---
 title: "Apartment Rio Palace"
 description: "Apartment Rio Palace emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471953307.jpg?k=1780b5d1288f2d3dcb272dc1033a63b8dc274f921943771b6d801951b37d0869&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-rio-palace-471953307.jpg"
 language: en
 slug: apartment-rio-palace
 address: "Rruga Fan Noli, Golem, Albania"

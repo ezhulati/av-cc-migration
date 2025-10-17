@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment w/ AC + Bath. + Kitchen + Parking and Garden"
 description: "Discover the charm of Shkodër with a stay at Lovely Apartment, a gem located within easy reach of the Port of Bar."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/lovely-apartment-w-ac-bath-kitchen-parking-and-garden-c84a361d6701.jpg"
 language: en
 slug: lovely-apartment-w-ac-bath-kitchen-parking-and-garden
 address: "Rruga Doktor Lito, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel TREVA"
 description: "Hotel TREVA stands out as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392161943.jpg?k=20f8497fca6b2338e167655878f305434d3740c7a80b6d91cf6cde48733f3854&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-treva-392161943.jpg"
 language: en
 slug: hotel-treva
 address: "Rruga Pashko Vasa Nr. 22, 4001 Shkodër, Albania"

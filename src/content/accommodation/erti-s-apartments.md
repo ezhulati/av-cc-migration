@@ -1,7 +1,7 @@
 ---
 title: "Erti's Apartments"
 description: "Erti's Apartments in Sarandë stands out as a prime choice for travelers seeking comfort close to the crystal-clear waters of Santa Quaranta Beach, just a mere 300 meters away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200089233.jpg?k=ce04d461559e6f05bdebfc5b65a3657a8d938439920044bf7249562d16a35ebd&o=&hp=1"
+featuredImage: "/images/accommodation/erti-s-apartments-200089233.jpg"
 language: en
 slug: erti-s-apartments
 address: "Rruga Butrinti Sarandë, Albania 33, 9701 Sarandë, Albania"

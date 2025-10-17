@@ -1,7 +1,7 @@
 ---
 title: "Lucas Apartment"
 description: "Lucas Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://graph.facebook.com/v2.9/2054104477979567/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/lucas-apartment-picture?type.jpg"
 language: en
 slug: lucas-apartment
 address: "Rruga Spiro Cipi First Building, Apartament Nr.10, 1001 Tirana, Albania"

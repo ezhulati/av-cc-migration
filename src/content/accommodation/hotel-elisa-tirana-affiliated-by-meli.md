@@ -1,7 +1,7 @@
 ---
 title: "Hotel Elisa Tirana, Affiliated by Meliá"
 description: "Hotel Elisa Tirana, Affiliated by Meliá, emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414719031.jpg?k=f4e45628fffd214597af4b09383245722f6f3b05e9b0583f4a355c4598de2cc2&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-elisa-tirana-affiliated-by-meli-414719031.jpg"
 language: en
 slug: hotel-elisa-tirana-affiliated-by-meli
 address: "Str of Dibra 8, 1000 Tirana, Albania"

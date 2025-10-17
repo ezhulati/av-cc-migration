@@ -1,7 +1,7 @@
 ---
 title: "Mediterranean Villa Old Town"
 description: "Mediterranean Villa Old Town emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471991573.jpg?k=19ab6ba6e7287c642a2685e6634625152587b54a593ba7508329598e4d4ced33&o=&hp=1"
+featuredImage: "/images/accommodation/mediterranean-villa-old-town-471991573.jpg"
 language: en
 slug: mediterranean-villa-old-town
 address: "Rruga Justin Godar, 9401 Vlorë, Albania"

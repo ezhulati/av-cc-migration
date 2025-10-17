@@ -1,7 +1,7 @@
 ---
 title: "Vila 57 HOTEL"
 description: "Vila Verde Rooms emerges as a prime choice for travelers seeking comfortable accommodations close to the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364624193.jpg?k=f88156c4d6ec05dbbc352992f49f534ae9dc3ae3290e41498adf841c5ce2cf15&o=&hp=1"
+featuredImage: "/images/accommodation/vila-57-hotel-364624193.jpg"
 language: en
 slug: vila-57-hotel
 address: "Rruga Kongresi i Manastirit, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Akil Apartments"
 description: "Akil Apartments in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, located just a short stroll from the vibrant Flamingo Beach and the serene Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362845720.jpg?k=0ec276aba4769cd1015c2a7fe53028a3922c6a49b8a68a2553aacb0367b88821&o=&hp=1"
+featuredImage: "/images/accommodation/akil-apartments-362845720.jpg"
 language: en
 slug: akil-apartments
 address: "Rruga Butrinti, 9702 Sarandë, Albania"

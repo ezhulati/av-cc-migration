@@ -1,7 +1,7 @@
 ---
 title: "Aldi`s Guest House"
 description: "Aldi's Guest House emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154595801.jpg?k=9c1e7e52dbf39621607e1d7fdacd60cf4549405eb7b98ca8c1ccaab46c819e51&o=&hp=1"
+featuredImage: "/images/accommodation/aldi-s-guest-house-154595801.jpg"
 language: en
 slug: aldi-s-guest-house
 address: "Rruga Uji i Ftohte, 9400 Vlorë, Albania"

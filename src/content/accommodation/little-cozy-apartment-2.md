@@ -1,7 +1,7 @@
 ---
 title: "Little Cozy Apartment 2"
 description: "Discover the charm of Sarandë with a stay at Little Cozy Apartment 2, a gem located just a short stroll from Saranda City Beach and within easy reach of Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465370667.jpg?k=ebc4dbaedbc67915ec4ce1f22aff05e0ba4dedc9e9bece949192eff1955bc294&o=&hp=1"
+featuredImage: "/images/accommodation/little-cozy-apartment-2-465370667.jpg"
 language: en
 slug: little-cozy-apartment-2
 address: "Rruga Vangjel Pandi, 9701 Sarandë, Albania"

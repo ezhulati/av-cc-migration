@@ -1,7 +1,7 @@
 ---
 title: "Peaceful Apartment Ish-Blloku Area"
 description: "Discover the charm of Tirana from the comfort of Peaceful Apartment Ish-Blloku Area, a serene retreat located just a stone's throw away from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518924785.jpg?k=48d291c3880b175e799a355fd70b37ad9f1297af08d42a444463f260993380d2&o=&hp=1"
+featuredImage: "/images/accommodation/peaceful-apartment-ish-blloku-area-518924785.jpg"
 language: en
 slug: peaceful-apartment-ish-blloku-area
 address: "Bulevardi Bajram Curri, 1001 Tirana, Albania"

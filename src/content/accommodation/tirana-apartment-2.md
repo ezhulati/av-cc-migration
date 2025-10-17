@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartment 2"
 description: "Tirana Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
+featuredImage: "/images/accommodation/tirana-apartment-2-b56c632712cb.jpg"
 language: en
 slug: tirana-apartment-2
 address: "Rruga Jeronim De Rada, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "nPazar Apartment"
 description: "nPazar Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407795575.jpg?k=3fdc44ac7e88ba2e8ec713dc7154e93b48a62923897103f50b785524e3d445f3&o=&hp=1"
+featuredImage: "/images/accommodation/npazar-apartment-407795575.jpg"
 language: en
 slug: npazar-apartment
 address: "Rruga Avni Rustemi, 1001 Tirana, Albania"

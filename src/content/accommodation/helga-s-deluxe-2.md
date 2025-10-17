@@ -1,7 +1,7 @@
 ---
 title: "Helga’s Deluxe 2"
 description: "Helga's Deluxe 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411818611.jpg?k=dd681a62b53827f54587f5526c6ff68bf064fa74d308091260b5506a7624f729&o=&hp=1"
+featuredImage: "/images/accommodation/helga-s-deluxe-2-411818611.jpg"
 language: en
 slug: helga-s-deluxe-2
 address: "Rruga Nikolla Jorga, 1001 Tirana, Albania"

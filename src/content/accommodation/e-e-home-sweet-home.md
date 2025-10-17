@@ -1,7 +1,7 @@
 ---
 title: "E&E Home Sweet Home"
 description: "E&E Home Sweet Home emerges as a refreshing retreat in the heart of Tirana, merely 800 meters from the iconic Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459305204.jpg?k=6344cd2d446eec9c4cfe35645497495b005a31280fcb0201fe22f3d9bd4ca284&o=&hp=1"
+featuredImage: "/images/accommodation/e-e-home-sweet-home-459305204.jpg"
 language: en
 slug: e-e-home-sweet-home
 address: "Rruga Jani Vreto 14, 1001 Tirana, Albania"

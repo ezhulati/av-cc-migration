@@ -1,7 +1,7 @@
 ---
 title: "Baci Apartments"
 description: "Baci Apartments stands out as a prime choice for travelers seeking comfort and convenience mere steps away from the captivating shores of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261756218.jpg?k=aa1665ae80186fcc9b2dd0e89b4ca354c5592aa5ee412f295013ac186e00a410&o=&hp=1"
+featuredImage: "/images/accommodation/baci-apartments-261756218.jpg"
 language: en
 slug: baci-apartments
 address: "Rruga Nacionale Ksamil, 9706 Ksamil, Albania"

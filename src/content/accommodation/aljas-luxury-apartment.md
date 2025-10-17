@@ -1,7 +1,7 @@
 ---
 title: "Aljas Luxury Apartment"
 description: "Discover the epitome of comfort and convenience at Aljas Luxury Apartment, a prime choice for travelers seeking a blend of modern amenities and strategic location in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504005810.jpg?k=fb8d9786028c18e62d2bf2920c2737fe3f0ad7c4226970a38c045b3eace79c38&o=&hp=1"
+featuredImage: "/images/accommodation/aljas-luxury-apartment-504005810.jpg"
 language: en
 slug: aljas-luxury-apartment
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

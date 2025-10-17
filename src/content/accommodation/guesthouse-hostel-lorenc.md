@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse & hostel Lorenc"
 description: "Guesthouse & Hostel Lorenc emerges as a charming retreat in the heart of Berat, positioned less than a kilometer from the UNESCO-protected Mangalem district."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47451782.jpg?k=a04e05a4de10bff26c7a13949f345331c03805fbc5c1b6b35622b728cd6ede87&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-hostel-lorenc-47451782.jpg"
 language: en
 slug: guesthouse-hostel-lorenc
 address: "Rruga Stiliano Bandilli ,entrance 18, 4444 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Korça Boutique Hotel"
 description: "Korça Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155858883.jpg?k=bc4f5c54456745f38f0022eb0188507a2242164f102b1732723f73b750f17d3c&o=&hp=1"
+featuredImage: "/images/accommodation/kor-a-boutique-hotel-155858883.jpg"
 language: en
 slug: kor-a-boutique-hotel
 address: "Rruga Lidhja e Prizrenit, 7001 Korçë, Albania"

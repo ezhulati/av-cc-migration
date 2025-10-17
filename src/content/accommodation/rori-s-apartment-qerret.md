@@ -1,7 +1,7 @@
 ---
 title: "Rori’s Apartment Qerret"
 description: "Rori's Apartment Qerret emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/rori-s-apartment-qerret-d2bf46fbe4c1.jpg"
 language: en
 slug: rori-s-apartment-qerret
 address: "Rruga e Fshatrave Turistike, 2025 Golem, Albania"

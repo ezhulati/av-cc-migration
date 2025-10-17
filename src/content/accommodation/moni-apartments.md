@@ -1,7 +1,7 @@
 ---
 title: "Moni Apartments"
 description: "Moni Apartments emerges as a prime choice for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428263123.jpg?k=3f0e9e6ec04fded2b9e7cde3f73c7c7c09e4f69051cfff2a5bf2d80339125b37&o=&hp=1"
+featuredImage: "/images/accommodation/moni-apartments-428263123.jpg"
 language: en
 slug: moni-apartments
 address: "Rruga Dhimitër Denasi, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sweet Dreams Saranda"
 description: "Sweet Dreams Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368158715.jpg?k=cba3b86eba37c3da3a8be7b0bf115e6cd62bea8c3596e19c2c20e41985d50aa8&o=&hp=1"
+featuredImage: "/images/accommodation/sweet-dreams-saranda-368158715.jpg"
 language: en
 slug: sweet-dreams-saranda
 address: "Rruga Qazim Demi, Sarandë, Albania"

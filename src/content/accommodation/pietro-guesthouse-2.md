@@ -1,7 +1,7 @@
 ---
 title: "Pietro Guesthouse 2"
 description: "Pietro Guesthouse 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocJYfqWAFQFuL4vX1qicqC853zhR5YD8EC_-8E7qKdIc=s96-c64"
+featuredImage: "/images/accommodation/pietro-guesthouse-2-ACg8ocJYfqWA.jpg"
 language: en
 slug: pietro-guesthouse-2
 address: "31 Rruga Bardhok Biba, 1016 Tirana, Albania"

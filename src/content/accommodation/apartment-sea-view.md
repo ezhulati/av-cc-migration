@@ -1,7 +1,7 @@
 ---
 title: "Apartment sea view"
 description: "Apartment Sea View stands as a prime beachfront gem in Durrës, offering guests an unparalleled experience just steps away from the shimmering shores of Shkëmbi i Kavajës Beach and a short stroll from the vibrant Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448895935.jpg?k=d89988f821240122041ea70d3e5f26b5be8f9d8c393ce55325044126096f6f75&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-sea-view-448895935.jpg"
 language: en
 slug: apartment-sea-view
 address: "Qark Durrës, 2504 Durrës, Albania"

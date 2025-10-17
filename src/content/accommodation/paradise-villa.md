@@ -1,7 +1,7 @@
 ---
 title: "PARADISE VILLA"
 description: "PARADISE VILLA emerges as a serene retreat, boasting garden views that promise tranquility from the moment guests arrive."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+featuredImage: "/images/accommodation/paradise-villa-8ecb6dbf787b.jpg"
 language: en
 slug: paradise-villa
 address: "Rruga Andrea Varfi, 9429 Vlorë, Albania"

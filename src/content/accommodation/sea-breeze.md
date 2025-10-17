@@ -1,7 +1,7 @@
 ---
 title: "Sea Breeze"
 description: "Sea Breeze emerges as a modern oasis in Vlorë, boasting a prime location close to the serene Vjetër Beach, vibrant Vlore Beach, and the historic Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484811363.jpg?k=6cd588977e4ed39d670493b2d6c96170a937cadd4f3169b3642603ff0fbed2bd&o=&hp=1"
+featuredImage: "/images/accommodation/sea-breeze-484811363.jpg"
 language: en
 slug: sea-breeze
 address: "Rruga Sadik Zotaj, 9401 Vlorë, Albania"

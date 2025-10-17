@@ -1,7 +1,7 @@
 ---
 title: "Apartment with huge sea view balcony"
 description: "Apartment with Huge Sea View Balcony stands as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking city and sea panoramas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318229471.jpg?k=e5bf0b2d50058342f0d438e0d5745d3df221e36ab9311bc4a2657ebcd3aef898&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-with-huge-sea-view-balcony-318229471.jpg"
 language: en
 slug: apartment-with-huge-sea-view-balcony
 address: "Rruga Butrinti Apartment no.8, Sarandë, Albania"

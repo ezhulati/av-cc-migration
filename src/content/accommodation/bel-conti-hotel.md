@@ -1,7 +1,7 @@
 ---
 title: "Bel Conti Hotel"
 description: "Discover the charm of Durrës from the comfort of Bel Conti Hotel, a gem that stands out for its proximity to a serene private sandy beach and its tastefully decorated rooms, each boasting a balcony for that morning breath of fresh air or a tranquil evening gaze."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7519207.jpg?k=160c6197961a0d34e588ab746923e15fe8fac4c5f1be127b235aa3b21df831bd&o=&hp=1"
+featuredImage: "/images/accommodation/bel-conti-hotel-7519207.jpg"
 language: en
 slug: bel-conti-hotel
 address: "Shkëmbi i Kavajës L13, 2001 Durrës, Albania"

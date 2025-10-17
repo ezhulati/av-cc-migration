@@ -1,7 +1,7 @@
 ---
 title: "Amo's Hotel"
 description: "Amo's Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in their accommodation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406961188.jpg?k=3aa34c4ddf90e6c583d5a8d66cb32095742139be0fbe2631cf563fc726943f92&o=&hp=1"
+featuredImage: "/images/accommodation/amo-s-hotel-406961188.jpg"
 language: en
 slug: amo-s-hotel
 address: "Sheshi Rus i Madh, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cozy 2 bedroom /1 Bath Apartment/Tirana"
 description: "Discover the charm of Tirana with a stay at the Cozy 2 Bedroom / 1 Bath Apartment, a serene retreat located just a short distance from the city's vibrant heart."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400442406.jpg?k=6f8f97d85294eabcda408a19e80a680ab82a1f635b718924f1ccc999199224cc&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-2-bedroom-1-bath-apartment-tirana-400442406.jpg"
 language: en
 slug: cozy-2-bedroom-1-bath-apartment-tirana
 address: "Rruga Kadillari, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cozy Rooftop Apartment - Your home, away from home!"
 description: "Cozy Rooftop Apartment emerges as a charming retreat in the heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+featuredImage: "/images/accommodation/cozy-rooftop-apartment-your-home-away-from-home-8103dfb0481c.jpg"
 language: en
 slug: cozy-rooftop-apartment-your-home-away-from-home
 address: "Rruga Dritan Hoxha, 1001 Tirana, Albania"

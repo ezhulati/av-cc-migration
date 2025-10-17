@@ -1,7 +1,7 @@
 ---
 title: "Ajilin Hotel Rooms"
 description: "Ajilin Hotel Rooms stands as a beacon of comfort and relaxation in the heart of Korçë, a mere 44 km away from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369592011.jpg?k=5e1ed3430c5edf4b8f84ec38f65b4c4fa6dd79c08468738bc8346628412d7775&o=&hp=1"
+featuredImage: "/images/accommodation/ajilin-hotel-rooms-369592011.jpg"
 language: en
 slug: ajilin-hotel-rooms
 address: "Rruga 28 Nëntori, 7001 Korçë, Albania"

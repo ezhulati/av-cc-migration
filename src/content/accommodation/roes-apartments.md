@@ -1,7 +1,7 @@
 ---
 title: "Roes Apartments"
 description: "Roes Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522633377.jpg?k=737b4d9e3844f146c5eeca26f9901869d8f019b147134e089f3b98c6143261e8&o=&hp=1"
+featuredImage: "/images/accommodation/roes-apartments-522633377.jpg"
 language: en
 slug: roes-apartments
 address: "1 Rruga Jorgo Plaku, 1001 Tirana, Albania"

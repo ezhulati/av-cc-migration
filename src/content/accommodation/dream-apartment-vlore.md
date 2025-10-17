@@ -1,7 +1,7 @@
 ---
 title: "DREAM APARTMENT Vlore"
 description: "DREAM APARTMENT Vlore emerges as a prime choice for travelers seeking a blend of comfort, convenience, and adventure in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421010322.jpg?k=a337862145d78696daa31966f56c67fcb094bad5d6787364431917707e52209d&o=&hp=1"
+featuredImage: "/images/accommodation/dream-apartment-vlore-421010322.jpg"
 language: en
 slug: dream-apartment-vlore
 address: "Rr. Vlore Orikum, 9401 Vlorë, Albania"

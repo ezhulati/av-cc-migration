@@ -1,7 +1,7 @@
 ---
 title: "360° View Apartments"
 description: "360° View Apartments emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478896845.jpg?k=b3f111182edf1040e0f1221720174cb7cee6c4dab2fcf5b8b42ede1684f32de8&o=&hp=1"
+featuredImage: "/images/accommodation/360-view-apartments-478896845.jpg"
 language: en
 slug: 360-view-apartments
 address: "Radhime, MERO BEGO, 9403 Αυλώνας, Aλβανία, 9403 Vlorë, Albania"

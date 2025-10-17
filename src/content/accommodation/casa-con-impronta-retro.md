@@ -1,7 +1,7 @@
 ---
 title: "Casa con impronta retro"
 description: "Casa con impronta retro emerges as a charming retreat in Nartë, conveniently located just a short drive from the historic Independence Square and the iconic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510896169.jpg?k=eb4565f6b7ee20d8783f99e79b3971f4ec6991984bd2cdb657a2e0de9d0536a9&o=&hp=1"
+featuredImage: "/images/accommodation/casa-con-impronta-retro-510896169.jpg"
 language: en
 slug: casa-con-impronta-retro
 address: "FFW5+XR8, 9414 Nartë, Albania"

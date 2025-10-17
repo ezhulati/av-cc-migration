@@ -1,7 +1,7 @@
 ---
 title: "Central Located Apartment,Tirana"
 description: "Central Located Apartment, Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525715557.jpg?k=d43cba59196ff2b37272670ddacab0efb6a193bf74444142aeb362ebce8c1215&o=&hp=1"
+featuredImage: "/images/accommodation/central-located-apartment-tirana-525715557.jpg"
 language: en
 slug: central-located-apartment-tirana
 address: "Rruga Karl Gega, 1001 Tirana, Albania"

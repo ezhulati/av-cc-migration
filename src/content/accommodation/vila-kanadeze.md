@@ -1,7 +1,7 @@
 ---
 title: "Vila Kanadeze"
 description: "Vila Kanadeze emerges as a serene retreat in Koplik, boasting picturesque garden views and a prime location just a stone's throw away from some of Montenegro's most significant landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473859847.jpg?k=fa369d39fd07e56e413e73f511a6c05ced8bef1e8591ae78e020cb3bf2f6f579&o=&hp=1"
+featuredImage: "/images/accommodation/vila-kanadeze-473859847.jpg"
 language: en
 slug: vila-kanadeze
 address: "Razem, Malesi e Madhe, Koplik, Albania"

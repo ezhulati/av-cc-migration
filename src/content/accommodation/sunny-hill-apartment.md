@@ -1,7 +1,7 @@
 ---
 title: "Sunny Hill Apartment"
 description: "Sunny Hill Apartment emerges as a modern retreat in the vibrant city of Vlorë, a stone's throw away from the pristine Sunny Beach and the lively Coco Bongo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476287234.jpg?k=dbbeeee6962b36f1f740f3e0244e485af5471e41563b8c2aeec411e3a3d38d8c&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-hill-apartment-476287234.jpg"
 language: en
 slug: sunny-hill-apartment
 address: "Rruga Vlorë, Vlorë, Albania"

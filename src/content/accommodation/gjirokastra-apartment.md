@@ -1,7 +1,7 @@
 ---
 title: "Gjirokastra apartment"
 description: "Gjirokastra Apartment emerges as a prime choice for travelers seeking comfort and convenience in the historic heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472270279.jpg?k=5951a0305bb227e9493e3982c348030abf4460de113892c0fa32fd4436302dd5&o=&hp=1"
+featuredImage: "/images/accommodation/gjirokastra-apartment-472270279.jpg"
 language: en
 slug: gjirokastra-apartment
 address: "Rruga Studenti Number 13 , 8 floor, 6001 Gjirokastër, Albania"

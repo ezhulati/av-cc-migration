@@ -1,7 +1,7 @@
 ---
 title: "1-bedroom rental unit in Tirane"
 description: "Discover the epitome of urban living in Tirana with the 1-bedroom rental unit in Tirane, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411947790.jpg?k=dc391aba021ce71f7390f8d4eda4515d56dec88e8b403405d1f9ad4e10a22206&o=&hp=1"
+featuredImage: "/images/accommodation/1-bedroom-rental-unit-in-tirane-411947790.jpg"
 language: en
 slug: 1-bedroom-rental-unit-in-tirane
 address: "Rruga Aleksandri i Madh, Kompleksi Molla, seksioni 1, shkalla 2, apartamenti 13, Tirana, Albania"

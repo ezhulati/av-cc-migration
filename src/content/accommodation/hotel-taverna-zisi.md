@@ -1,7 +1,7 @@
 ---
 title: "Hotel Taverna Zisi"
 description: "Hotel Taverna Zisi emerges as a charming retreat in Ersekë, boasting a harmonious blend of comfort and convenience with its array of amenities designed for the modern traveler."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216664669.jpg?k=f8962ae93d1d955be7fe94bed1dc9ff60d6ac7a57e85f0207e4a6406a74df7b3&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-taverna-zisi-216664669.jpg"
 language: en
 slug: hotel-taverna-zisi
 address: "Rruga e Deshmoreve Erseke Stadiumi Gramozi, 7401 Ersekë, Albania"

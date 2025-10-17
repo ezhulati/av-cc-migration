@@ -1,7 +1,7 @@
 ---
 title: "SAAL Apartments"
 description: "SAAL Apartments emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central Tirana location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506392039.jpg?k=42e0c92e3754ca5866eca8ed87c4b99723466bc5397344971171576638e025be&o=&hp=1"
+featuredImage: "/images/accommodation/saal-apartments-506392039.jpg"
 language: en
 slug: saal-apartments
 address: "Rruga Sami Frashëri, pall triangolo Floor 7 ap 14, 1001 Tirana, Albania"

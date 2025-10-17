@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Apartment"
 description: "Beachfront Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495573760.jpg?k=94a53f3c4efe6423dafd27e547697fdd80bf5a3e18ea39f964160810317737e4&o=&hp=1"
+featuredImage: "/images/accommodation/beachfront-apartment-495573760.jpg"
 language: en
 slug: beachfront-apartment
 address: "Spile Himare, 9425 Himare, Albania"

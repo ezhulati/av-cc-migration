@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment -Outstanding Apartment at Taiwan"
 description: "Miku Apartment - Outstanding Apartment at Taiwan emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470809368.jpg?k=5207e2ab7f4b468a08114bdcb1def671de5e2325fcc80223828cb0dd9adee522&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-outstanding-apartment-at-taiwan-470809368.jpg"
 language: en
 slug: miku-apartment-outstanding-apartment-at-taiwan
 address: "Rruga Ibrahim Rugova, 1001 Tirana, Albania"

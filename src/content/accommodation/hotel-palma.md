@@ -1,7 +1,7 @@
 ---
 title: "Hotel Palma"
 description: "Hotel Palma emerges as a serene oasis located just 15 km from the vibrant heart of Skanderbeg Square in Rinas, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135822751.jpg?k=6cabea8b5fa22f1e4268718f904bb85c9f3494d871682e798f9e6e6de1d82c44&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-palma-135822751.jpg"
 language: en
 slug: hotel-palma
 address: "Rruga Nacionale Tiranë - FushëKrujë, Tapizë,Rinas 1502 Albania, 1001 Rinas, Albania"

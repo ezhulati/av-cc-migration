@@ -1,7 +1,7 @@
 ---
 title: "Qyteza Guest House & Camping"
 description: "Qyteza Guest House & Camping emerges as a serene retreat offering breathtaking mountain views for those seeking a blend of comfort and nature in Renc."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527846741.jpg?k=5767f3fce84e3a41274f1c5f4ea85a885189442aa6a73bce82625e1df366608f&o=&hp=1"
+featuredImage: "/images/accommodation/qyteza-guest-house-camping-527846741.jpg"
 language: en
 slug: qyteza-guest-house-camping
 address: "Renc 200, 4001 Renc, Albania"

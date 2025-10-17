@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Space"
 description: "Guesthouse Space emerges as a serene retreat in the heart of Përmet, located within the picturesque Gjirokastër County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468681080.jpg?k=c4d8baff9d4badc895ae1177459c27c55160053187e2f99317f9e6ec7bb5f75e&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-space-468681080.jpg"
 language: en
 slug: guesthouse-space
 address: "Lagja e Re Permet Albania Lagja e Re Permet, 6401 Përmet, Albania"

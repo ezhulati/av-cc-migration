@@ -1,7 +1,7 @@
 ---
 title: "Villa Four Seasons"
 description: "Villa Four Seasons in Vermosh presents a serene retreat for those seeking a blend of comfort and natural beauty, just 24 km away from the tranquil Plav Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479948202.jpg?k=9f23993d70348174aa9798f3ebd4a414c866c1d8b3755557020620cf0f00a31f&o=&hp=1"
+featuredImage: "/images/accommodation/villa-four-seasons-479948202.jpg"
 language: en
 slug: villa-four-seasons
 address: "Rruga Nacaj, 4304 Vermosh, Albania"

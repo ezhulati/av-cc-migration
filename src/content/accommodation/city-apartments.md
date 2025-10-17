@@ -1,7 +1,7 @@
 ---
 title: "City Apartments"
 description: "City Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a/AEdFTp6jOKMu1MUl_EQa1SqTk69veCOkq3R8RTX_XKgQ=s96-c64"
+featuredImage: "/images/accommodation/city-apartments-AEdFTp6jOKMu.jpg"
 language: en
 slug: city-apartments
 address: "Rruga e Kavajës Pallati Orion, Number 8, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Square 21 Apartment 3"
 description: "Square 21 Apartment 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516590100.jpg?k=e5daec1855ae6923831c431dada9585116f4640f776ec1f516512c85f781e4c0&o=&hp=1"
+featuredImage: "/images/accommodation/square-21-apartment-3-516590100.jpg"
 language: en
 slug: square-21-apartment-3
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

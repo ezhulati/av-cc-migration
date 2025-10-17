@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bar Restorant Marina"
 description: "Hotel Bar Restorant Marina emerges as a serene retreat in Mjedë, just a stone's throw away from the historic Rozafa Castle Shkodra, offering guests a harmonious blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/162169082.jpg?k=668fd7c94b016809e0d1d00a7d35167aa072541685172ec575eef90198b035ed&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bar-restorant-marina-162169082.jpg"
 language: en
 slug: hotel-bar-restorant-marina
 address: "Rruga Shkodër Mjedë, 1234 Mjedë, Albania"

@@ -19,10 +19,32 @@ export default defineConfig({
       },
     }),
   ],
+  redirects: {
+    '/destinations/albanian-riviera': '/attractions/albanian-riviera/',
+  },
   build: {
     format: 'directory',
   },
   image: {
     service: { entrypoint: 'astro/assets/services/noop' },
+  },
+  vite: {
+    server: {
+      watch: {
+        // Reduce file watching overhead for large content collections
+        usePolling: false,
+        interval: 1000,
+        binaryInterval: 3000,
+        // Ignore accommodation files from hot reload to prevent infinite loops
+        ignored: [
+          '**/node_modules/**',
+          '**/.git/**',
+          '**/src/content/accommodation/**', // Don't watch accommodation files
+        ],
+      },
+    },
+    optimizeDeps: {
+      exclude: ['astro:content'],
+    },
   },
 });

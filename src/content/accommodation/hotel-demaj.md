@@ -1,7 +1,7 @@
 ---
 title: "Hotel Demaj"
 description: "Hotel Demaj in Berat stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505600565.jpg?k=11d00a2c77e7c0058447ad3b00024b629cc803bc6bb34624cdfff4b0c34b705b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-demaj-505600565.jpg"
 language: en
 slug: hotel-demaj
 address: "Rruga Shpiragu, 5001 Berat, Albania"

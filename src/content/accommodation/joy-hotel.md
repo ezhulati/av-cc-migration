@@ -1,7 +1,7 @@
 ---
 title: "Joy Hotel"
 description: "Joy Hotel, situated in the vibrant heart of Sarandë and merely a stone's throw away from Saranda City Beach, emerges as a beacon of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194893408.jpg?k=a129dc062b1d5c49ddb6fe2ff891dcb755eb2d85a301cd4ff0a3d482e1d84aac&o=&hp=1"
+featuredImage: "/images/accommodation/joy-hotel-194893408.jpg"
 language: en
 slug: joy-hotel
 address: "Rruga \"Adem Sheme\" Nr.26 Sarande, Albania, 9701 Sarandë, Albania"

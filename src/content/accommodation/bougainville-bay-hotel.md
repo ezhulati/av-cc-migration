@@ -1,7 +1,7 @@
 ---
 title: "Bougainville Bay Hotel"
 description: "Bougainville Bay Hotel emerges as a premier destination for travelers seeking unparalleled service in the heart of Sarandë, Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/229268165.jpg?k=d1d8186d7a4f79bf1caa7890e1607b9bf6a5786d7035083f9026393146fe02b5&o=&hp=1"
+featuredImage: "/images/accommodation/bougainville-bay-hotel-229268165.jpg"
 language: en
 slug: bougainville-bay-hotel
 address: "Rruga Butrinti, 1000 Sarandë, Albania"

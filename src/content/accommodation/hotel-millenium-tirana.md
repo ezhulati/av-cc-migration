@@ -1,7 +1,7 @@
 ---
 title: "Hotel Millenium Tirana"
 description: "Hotel Millenium Tirana emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360131408.jpg?k=e9dcdad10fac88b520ca9dc12f26ea20b4a45f7efce90e579d3968272e3a2081&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-millenium-tirana-360131408.jpg"
 language: en
 slug: hotel-millenium-tirana
 address: "Rruga Murat Toptani 5 Pedonale Street, Tirana 1001 Albania Rruga Murat Toptani 5 Pedonale Street, Tirana 1001 Albania, 1001 Tirana, Albania"

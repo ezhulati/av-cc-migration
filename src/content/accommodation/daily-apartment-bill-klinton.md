@@ -1,7 +1,7 @@
 ---
 title: "Daily Apartment Bill Klinton"
 description: "Daily Apartment Bill Klinton emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+featuredImage: "/images/accommodation/daily-apartment-bill-klinton-8103dfb0481c.jpg"
 language: en
 slug: daily-apartment-bill-klinton
 address: "Rruga Bill Klinton, 1000 Tirana, Albania"

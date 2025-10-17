@@ -1,7 +1,7 @@
 ---
 title: "Vila&Apartments Kadare"
 description: "Vila&Apartments Kadare emerges as a serene retreat in Palasë, boasting a private pool complemented by breathtaking mountain vistas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370681890.jpg?k=89b59a043ddc59fce3a0eb440219c7a4b254da7e3e5812ecd399aa10a8931590&o=&hp=1"
+featuredImage: "/images/accommodation/vila-apartments-kadare-370681890.jpg"
 language: en
 slug: vila-apartments-kadare
 address: "Shen Thanasi, 9422 Palasë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "guest house in buhal"
 description: "Discover the charm of Përmet at the recently updated Guest House in Buhal, a haven for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502447042.jpg?k=a18bb66cc5757b2b8ccdee260352c8825a0faf5b77d58f526fe9dc603edfa5fe&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-in-buhal-502447042.jpg"
 language: en
 slug: guest-house-in-buhal
 address: "Lagja Golemas,Bual Permet AL, 1, 6401 Përmet, Albania"

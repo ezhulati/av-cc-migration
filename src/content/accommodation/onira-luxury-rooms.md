@@ -1,7 +1,7 @@
 ---
 title: "Onira luxury rooms"
 description: "Onira Luxury Rooms emerges as a premier choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210976924.jpg?k=f8459c225f5dace8bdc9da93ba56aaeee6ff455b64ccb1150f41ef7a7b9189a6&o=&hp=1"
+featuredImage: "/images/accommodation/onira-luxury-rooms-210976924.jpg"
 language: en
 slug: onira-luxury-rooms
 address: "Rruga Butrinti, 9100 Sarandë, Albania"

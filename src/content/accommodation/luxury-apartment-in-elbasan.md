@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment in Elbasan"
 description: "Luxury Apartment in Elbasan emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Elbasan."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479777639.jpg?k=1f1816147dda9e544bc85a8668de7b6a76d76ae2eed3be58a08081ac730ab68a&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-apartment-in-elbasan-479777639.jpg"
 language: en
 slug: luxury-apartment-in-elbasan
 address: "Rruga Kosma Naska, 3001 Elbasan, Albania"

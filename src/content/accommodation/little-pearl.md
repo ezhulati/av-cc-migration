@@ -1,7 +1,7 @@
 ---
 title: "Little Pearl"
 description: "Little Pearl emerges as a charming retreat in Durrës, strategically positioned to offer both tranquility and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486873960.jpg?k=1d50754b1c7f5ef0b00127636baac42316ea421ad40bb13c33cc669aebea48e8&o=&hp=1"
+featuredImage: "/images/accommodation/little-pearl-486873960.jpg"
 language: en
 slug: little-pearl
 address: "Rruga Shen Mehill 2, 2008 Durrës, Albania"

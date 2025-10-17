@@ -1,7 +1,7 @@
 ---
 title: "Joni’s Home"
 description: "Joni's Home emerges as a prime beachfront gem in Durrës, boasting an enviable location just steps away from Shkëmbi i Kavajës Beach and a mere 500 meters from the serene Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/14341950.webp?k=13b62f9ea73ba84a6ad333a92fccba702feaa3c755a7736c048010ddeafd0c3e&o=?t=1485874180"
+featuredImage: "/images/accommodation/joni-s-home-14341950.web.jpg"
 language: en
 slug: joni-s-home
 address: "Kamelia Resort, Plazh, Durres, 2008 Durrës, Albania"

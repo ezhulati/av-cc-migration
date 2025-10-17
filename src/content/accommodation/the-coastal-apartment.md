@@ -1,7 +1,7 @@
 ---
 title: "The Coastal Apartment"
 description: "The Coastal Apartment in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, located just a short stroll from the serene Beach at Government Villas and the picturesque Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483906752.jpg?k=79cc5fafa7e1b769a1658461f304b77ad3b829c5d318998e41386e277f37a472&o=&hp=1"
+featuredImage: "/images/accommodation/the-coastal-apartment-483906752.jpg"
 language: en
 slug: the-coastal-apartment
 address: "Rruga Petro Marko, Vlorë, Albania"

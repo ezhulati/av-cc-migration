@@ -1,7 +1,7 @@
 ---
 title: "Arc Hotel Tirana"
 description: "Arc Hotel Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151585019.jpg?k=1ff2ee4db03e3eeb1251db51cebbd637c2dcfab2f8a1f9c5a40f4f4e8b4c726f&o=&hp=1"
+featuredImage: "/images/accommodation/arc-hotel-tirana-151585019.jpg"
 language: en
 slug: arc-hotel-tirana
 address: "Rruga Milto Sotir Gura, 1001 Tirana, Albania"

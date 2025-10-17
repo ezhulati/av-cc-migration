@@ -1,7 +1,7 @@
 ---
 title: "Vogue Boutique Hotel"
 description: "Vogue Boutique Hotel, located a mere stone's throw away from the pristine Radhimë Beach in Vlorë, stands out as a premier choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214167392.jpg?k=55f15c6c6b1daf77100d86eb9cfebd20b1042446e02aea11317d10883ef49090&o=&hp=1"
+featuredImage: "/images/accommodation/vogue-boutique-hotel-214167392.jpg"
 language: en
 slug: vogue-boutique-hotel
 address: "Rruga Sazani ,Radhime ,Vlore, 9426 Vlorë, Albania"

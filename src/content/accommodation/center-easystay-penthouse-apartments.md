@@ -1,7 +1,7 @@
 ---
 title: "Center EasyStay Penthouse Apartments"
 description: "Center EasyStay Penthouse Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513492116.jpg?k=45d7ce72ed24441c9766a7cd27fbeeb0860a08e0ff1cd26740986708aef81bed&o=&hp=1"
+featuredImage: "/images/accommodation/center-easystay-penthouse-apartments-513492116.jpg"
 language: en
 slug: center-easystay-penthouse-apartments
 address: "Rruga Isa Boletini 8, 1001 Tirana, Albania"

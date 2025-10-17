@@ -1,7 +1,7 @@
 ---
 title: "VILLA NEFELI"
 description: "Villa Nefeli stands as a serene retreat in the heart of Piqeras, Vlorë County, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://lh3.googleusercontent.com/-9CWC2L-zd8k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwwrQOa-kHjgFPL3GxEyYFwAh4ug/s96-c/photo.jpg64"
+featuredImage: "/images/accommodation/villa-nefeli-photo.jpg64.jpg"
 language: en
 slug: villa-nefeli
 address: "SH8, 9715 Piqeras, Albania"

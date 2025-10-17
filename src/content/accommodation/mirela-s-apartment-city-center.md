@@ -1,7 +1,7 @@
 ---
 title: "Mirela’s Apartment City Center"
 description: "Mirela's Apartment City Center emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/mirela-s-apartment-city-center-f69a0f45af41.jpg"
 language: en
 slug: mirela-s-apartment-city-center
 address: "Rruga Milan Shuflaj, 1001 Tirana, Albania"

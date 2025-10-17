@@ -1,7 +1,7 @@
 ---
 title: "DB Apartment"
 description: "DB Apartment emerges as a standout accommodation choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/173052639.jpg?k=bdf3744ab374ffdb4ebe40c25ac77655e71fa868fd803f4dbcec976ec3208a7e&o=&hp=1"
+featuredImage: "/images/accommodation/db-apartment-173052639.jpg"
 language: en
 slug: db-apartment
 address: "Rruga Andon Zako Çajupi Ndertesa 9,Hyrja 17, Ap.3, 1000 Tirana, Albania"

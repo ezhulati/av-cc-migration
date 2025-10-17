@@ -1,7 +1,7 @@
 ---
 title: "Te baca Qerim"
 description: "Te baca Qerim emerges as a serene getaway in Lekbibaj, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407413837.jpg?k=be00030132928ef11a99675899368c9103389fd70659f67fecee3d66495fd2c8&o=&hp=1"
+featuredImage: "/images/accommodation/te-baca-qerim-407413837.jpg"
 language: en
 slug: te-baca-qerim
 address: "Lekbibaj-Palç-Salce 2, 8706 Lekbibaj, Albania"

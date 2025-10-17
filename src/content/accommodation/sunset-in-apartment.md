@@ -1,7 +1,7 @@
 ---
 title: "Sunset in Apartment"
 description: "Sunset in Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty, located just a stone's throw away from the pristine Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86153136.jpg?k=b7ea6d7d32b5cf2f5d446e3840c4b0d8cb34ae9f69e7e07e354ca205b068d454&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-in-apartment-86153136.jpg"
 language: en
 slug: sunset-in-apartment
 address: "Rruga Bilal Golemi, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Alfa Villa"
 description: "Alfa Villa emerges as a premier choice for travelers seeking a blend of comfort, privacy, and modern amenities in Rrushkull."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517465701.jpg?k=fe5b5151e7e51404c15aca34cb0365743fb2cc7a46dc6e2c3ce25ff033fb3417&o=&hp=1"
+featuredImage: "/images/accommodation/alfa-villa-517465701.jpg"
 language: en
 slug: alfa-villa
 address: "Vila e shefit, 1010 Rrushkull, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar Cane Apartment 3"
 description: "New Bazaar Cane Apartment 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494862703.jpg?k=9c3e8958f7fbaad1b960e7a81969850cffe5e8ab29ae885a38af6e4df6d7acf6&o=&hp=1"
+featuredImage: "/images/accommodation/new-bazaar-cane-apartment-3-494862703.jpg"
 language: en
 slug: new-bazaar-cane-apartment-3
 address: "Rruga Xhemal Tafaj, 1001 Tirana, Albania"

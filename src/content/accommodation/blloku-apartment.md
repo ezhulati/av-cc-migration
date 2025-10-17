@@ -1,7 +1,7 @@
 ---
 title: "Blloku Apartment"
 description: "Blloku Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483762285.jpg?k=87e81fce79419f0dc3829fa29c7c695ba78824b957fbb8b8fde9ef4929af6c59&o=&hp=1"
+featuredImage: "/images/accommodation/blloku-apartment-483762285.jpg"
 language: en
 slug: blloku-apartment
 address: "Rruga Pjetër Bogdani, 1019 Tirana, Albania"

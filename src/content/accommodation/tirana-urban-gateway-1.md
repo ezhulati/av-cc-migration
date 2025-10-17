@@ -1,7 +1,7 @@
 ---
 title: "Tirana Urban Gateway 1"
 description: "Tirana Urban Gateway 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516548146.jpg?k=3562e94bc30a2af06577c90a9bafe04762174ccd0cc46023b52ea6bc21aeb3bf&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-urban-gateway-1-516548146.jpg"
 language: en
 slug: tirana-urban-gateway-1
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

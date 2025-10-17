@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Cico"
 description: "Guesthouse Cico emerges as a charming retreat in the historic heart of Gjirokastër, offering a unique blend of comfort and convenience just 44 km away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/163648376.jpg?k=964fca25fd5e669b5f9f7b84f01976c783e7d4c3e81fdd988d9ec3df57646154&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-cico-163648376.jpg"
 language: en
 slug: guesthouse-cico
 address: "Rruga \"Alqi Kondi\", 6000 Gjirokastër, Albania"

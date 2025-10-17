@@ -1,7 +1,7 @@
 ---
 title: "Flower Apartment Golem"
 description: "Flower Apartment Golem emerges as a serene retreat in the vibrant heart of Golem, a stone's throw away from the pristine Mali I Robit Beach and merely 500 meters from the bustling Golem Beach."
-featuredImage: "https://lh4.googleusercontent.com/-2KTDnFldLzQ/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQNpsH7ITEL7gjN3s06_BevC8ojalQ/mo/photo.jpg64"
+featuredImage: "/images/accommodation/flower-apartment-golem-photo.jpg64.jpg"
 language: en
 slug: flower-apartment-golem
 address: "Rruga Plazhit, 2504 Golem, Albania"

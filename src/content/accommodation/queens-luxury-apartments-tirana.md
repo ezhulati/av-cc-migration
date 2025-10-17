@@ -1,7 +1,7 @@
 ---
 title: "Queens Luxury Apartments Tirana"
 description: "Queens Luxury Apartments Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426556163.jpg?k=32c8955da5276627c94fba6b34864e07b9561244ca7374c14ca3a2dcacf66369&o=&hp=1"
+featuredImage: "/images/accommodation/queens-luxury-apartments-tirana-426556163.jpg"
 language: en
 slug: queens-luxury-apartments-tirana
 address: "60 Rruga e Elbasanit, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel de Charme"
 description: "Hotel de Charme stands out as a distinguished choice for travelers seeking both comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/96795281.jpg?k=b329803c264214f3ba913db78ddd089f9cc63606d3c5d2aeeb108aea5428486f&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-de-charme-96795281.jpg"
 language: en
 slug: hotel-de-charme
 address: "Rruga Vaso Pasha, 5 Kryqezimi mes rruges Pjeter Bogdani dhe Vaso Pasha, 1000 Tirana, Albania"

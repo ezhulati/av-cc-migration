@@ -1,7 +1,7 @@
 ---
 title: "Himara Hostel"
 description: "Himara Hostel, a charming retreat located just an 8-minute stroll from the pristine shores of Himare, offers guests a unique stay in a traditional house surrounded by a serene garden brimming with fruit trees."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160916625.jpg?k=7a821177509d2c28c0921eec9f8ec49be65018b5a49b9b7447c679fa3cbe0067&o=&hp=1"
+featuredImage: "/images/accommodation/himara-hostel-160916625.jpg"
 language: en
 slug: himara-hostel
 address: "Spile, 9425 Himare, Albania"

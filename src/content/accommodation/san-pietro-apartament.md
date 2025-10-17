@@ -1,7 +1,7 @@
 ---
 title: "San Pietro Apartament"
 description: "San Pietro Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488482998.jpg?k=5b766b10b31280d298e8a6bfb88f38c5d1f92503aef6f38c0f38541bcb2c269f&o=&hp=1"
+featuredImage: "/images/accommodation/san-pietro-apartament-488482998.jpg"
 language: en
 slug: san-pietro-apartament
 address: "Rruga Gjiri i Lalzit, Durrës, Albania"

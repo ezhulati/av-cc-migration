@@ -1,7 +1,7 @@
 ---
 title: "Sun Tower Apartments"
 description: "Sun Tower Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496422992.jpg?k=8828dd64525aeccb014387197d134373884a6b563f2e5a2d7f71707a84e56ff4&o=&hp=1"
+featuredImage: "/images/accommodation/sun-tower-apartments-496422992.jpg"
 language: en
 slug: sun-tower-apartments
 address: "Rruga Pandi Dardha, 1000 Tirana, Albania"

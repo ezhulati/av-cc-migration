@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Apartment 32"
 description: "Albania Dream Apartment 32 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Gjashtë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487902218.jpg?k=9c6d5f2f9026a40f982507065467d2475841887641968a45e83c01278765b6fc&o=&hp=1"
+featuredImage: "/images/accommodation/albania-dream-apartment-32-487902218.jpg"
 language: en
 slug: albania-dream-apartment-32
 address: "Rruga 40 Shenjtoret, 9700 Gjashtë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Helen's House"
 description: "Helen's House emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a short stroll from the pristine sands of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74148734.jpg?k=e545b0aa5505fc16b1aa8d91e01b890386e96c5a1793b499782c75d0321428fd&o=&hp=1"
+featuredImage: "/images/accommodation/helen-s-house-74148734.jpg"
 language: en
 slug: helen-s-house
 address: "Ismail Qemali, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Breeze inn Apartment"
 description: "Breeze Inn Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469382097.jpg?k=1eee928f6b5e26c5fc7325154aea31a5be7d3fb4c54bee949eac0b84ac27a840&o=&hp=1"
+featuredImage: "/images/accommodation/breeze-inn-apartment-469382097.jpg"
 language: en
 slug: breeze-inn-apartment
 address: "Rruga Hajredin Haxhiraj, 9402 Vlorë, Albania"

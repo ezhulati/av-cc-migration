@@ -1,7 +1,7 @@
 ---
 title: "Apartment next to Block District"
 description: "Apartment Next to Block District emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517807273.jpg?k=3b61da14b399c767d614d52f1612efa1e5f270b9cb5571d13ad0a11368d0888c&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-next-to-block-district-517807273.jpg"
 language: en
 slug: apartment-next-to-block-district
 address: "Rruga Sami Frashëri, 1001 Tirana, Albania"

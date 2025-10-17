@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Villa Erjon"
 description: "Jico Travel - Villa Erjon stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362842854.jpg?k=f7895ed293f1615e5b388c41777f7f5a9ef74493bc3f7c7c1c3b222058d18765&o=&hp=1"
+featuredImage: "/images/accommodation/jico-travel-villa-erjon-362842854.jpg"
 language: en
 slug: jico-travel-villa-erjon
 address: "Rruga Hasan Sharra, 9401 Vlorë, Albania"

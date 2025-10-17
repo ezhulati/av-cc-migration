@@ -1,7 +1,7 @@
 ---
 title: "San Pietro Garden Apartment, Lalëz,"
 description: "San Pietro Garden Apartment in Lalëz emerges as a serene retreat for travelers seeking tranquility and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464970875.jpg?k=a7c7ba840cdf794958acc3621e6601f895aead2e29755b376890d8e46d5cd84b&o=&hp=1"
+featuredImage: "/images/accommodation/san-pietro-garden-apartment-lal-z-464970875.jpg"
 language: en
 slug: san-pietro-garden-apartment-lal-z
 address: "San Pietro Residence , Gjiri i Lalëzit, Durrës, Albania"

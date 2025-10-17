@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment - Lovely 1 Bedroom Spectacular View"
 description: "Miku Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348511429.jpg?k=fc45fddc2c4af9dd761cfda531424d51e3215e6f762e9bfac88b60aec2a5cccc&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-lovely-1-bedroom-spectacular-view-348511429.jpg"
 language: en
 slug: miku-apartment-lovely-1-bedroom-spectacular-view
 address: "Rruga Liman Kaba, 1019 Tirana, Albania"

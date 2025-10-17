@@ -1,7 +1,7 @@
 ---
 title: "Royal King and Queen apartment for Luxury Life"
 description: "Royal King and Queen Apartment for Luxury Life emerges as a premier choice for travelers seeking an exceptional stay in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/119485229.jpg?k=3bc0a3cce19de8c0a9ba94ed08f162331f13650571967132a791b0c07d50cf66&o=&hp=1"
+featuredImage: "/images/accommodation/royal-king-and-queen-apartment-for-luxury-life-119485229.jpg"
 language: en
 slug: royal-king-and-queen-apartment-for-luxury-life
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

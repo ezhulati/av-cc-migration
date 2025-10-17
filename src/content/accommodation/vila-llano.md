@@ -1,7 +1,7 @@
 ---
 title: "VILA LLANO"
 description: "VILA LLANO emerges as a serene retreat, located just 22 km from the iconic Kuzum Baba, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519870163.jpg?k=583a80a449f9f104499f50958376cd0346d6582b125c671834efeaf7a6565800&o=&hp=1"
+featuredImage: "/images/accommodation/vila-llano-519870163.jpg"
 language: en
 slug: vila-llano
 address: "Rruga Neim Dano Tragjas, 9401 Vlorë, Albania"

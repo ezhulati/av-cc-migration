@@ -1,7 +1,7 @@
 ---
 title: "Holiday home. İn the sea .Beach"
 description: "Holiday Home in the Sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338914513.jpg?k=e28378faa22f154d3ab48946bbb62fbd6cda6dde60ecc973ff3caa05250349cb&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-home-i-n-the-sea-beach-338914513.jpg"
 language: en
 slug: holiday-home-i-n-the-sea-beach
 address: "Rruga Rrota e Kuqe, 2001 Durrës, Albania"

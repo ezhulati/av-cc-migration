@@ -1,7 +1,7 @@
 ---
 title: "Eler Hotel"
 description: "Eler Hotel, situated a mere 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268413085.jpg?k=b9fd33c6b2172b15a5af0cc47993c40a5abba5010fe12b1f8cb55b9e0d050b21&o=&hp=1"
+featuredImage: "/images/accommodation/eler-hotel-268413085.jpg"
 language: en
 slug: eler-hotel
 address: "Rruga e Durresit, Perballe Gjimnazit \"Qemal Stafa\", 1000 Tirana, Albania"

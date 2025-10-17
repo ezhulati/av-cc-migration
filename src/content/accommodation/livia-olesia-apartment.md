@@ -1,7 +1,7 @@
 ---
 title: "Livia Olesia Apartment"
 description: "Livia Olesia Apartment offers a serene retreat in the heart of Gjirokastër, boasting modern accommodations complete with a private balcony for an immersive city experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491243783.jpg?k=db5c1abc0f6c91d9740ecff0bcb99b96e5e772ad512e3cac62d333534a598530&o=&hp=1"
+featuredImage: "/images/accommodation/livia-olesia-apartment-491243783.jpg"
 language: en
 slug: livia-olesia-apartment
 address: "Rruga Petro Poga, 6001 Gjirokastër, Albania"

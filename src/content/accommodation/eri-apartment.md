@@ -1,7 +1,7 @@
 ---
 title: "Eri Apartment"
 description: "Eri Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504045630.jpg?k=792adeb8ddb422c5523d868d8b36db8241b3ea1d61836609c781cbe79b97d0ba&o=&hp=1"
+featuredImage: "/images/accommodation/eri-apartment-504045630.jpg"
 language: en
 slug: eri-apartment
 address: "Rruga Hoxhë Vokrri, 1000 Tirana, Albania"

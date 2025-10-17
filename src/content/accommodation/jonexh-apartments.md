@@ -1,7 +1,7 @@
 ---
 title: "Jonexh Apartments"
 description: "Jonexh Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431548860.jpg?k=4a811304cd787d1e8d9766991ab752ff8cd9c07454eb898bd71150a2392d2edf&o=&hp=1"
+featuredImage: "/images/accommodation/jonexh-apartments-431548860.jpg"
 language: en
 slug: jonexh-apartments
 address: "Rruga Vaso Pasha 7, 1010 Tirana, Albania"

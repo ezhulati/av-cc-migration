@@ -1,7 +1,7 @@
 ---
 title: "Sunny&Seaview Apartment"
 description: "Sunny&Seaview Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/177227216.jpg?k=5230cb7607184a11e5e8325b29dbfd2e7b4994618dc80b76364a03254b24d473&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-seaview-apartment-177227216.jpg"
 language: en
 slug: sunny-seaview-apartment
 address: "Rruga Gjergj Araniti Building 14,Apartament 9, Floor 3, 9700 Sarandë, Albania"

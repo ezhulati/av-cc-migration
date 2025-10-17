@@ -1,7 +1,7 @@
 ---
 title: "EDGEWATER apartments"
 description: "EDGEWATER Apartments emerges as a prime choice for travelers seeking a serene getaway, just a stone's throw away from the pristine Saranda Bay Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377268772.jpg?k=3f810b3d13fc416f2c93901ed33c99d5445943eacf5cf44d749c03367c6dfbad&o=&hp=1"
+featuredImage: "/images/accommodation/edgewater-apartments-377268772.jpg"
 language: en
 slug: edgewater-apartments
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

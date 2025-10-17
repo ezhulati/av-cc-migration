@@ -1,7 +1,7 @@
 ---
 title: "Arjana & Nelaj Apartments"
 description: "Arjana & Nelaj Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372418675.jpg?k=2cd5f43bab13e5113dd2c27222e9ef11b171dba48b3d604d7aa3915db6cae1db&o=&hp=1"
+featuredImage: "/images/accommodation/arjana-nelaj-apartments-372418675.jpg"
 language: en
 slug: arjana-nelaj-apartments
 address: "Rruga Ksamil 9, 9706, Ksamil, Albania"

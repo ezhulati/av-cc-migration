@@ -1,7 +1,7 @@
 ---
 title: "Apartments Resul Pushi Ksamil"
 description: "Apartments Resul Pushi Ksamil emerges as a serene oasis in the heart of Ksamil, boasting a prime location that is less than a kilometer from the pristine sands of Ksamil Beach 9 and a mere 10-minute stroll from the vibrant Bora Bora Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469649969.jpg?k=8885b97a427df3a0ba2d8f829021cb965f379f2a670e21c23c5be4742d7d41b9&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-resul-pushi-ksamil-469649969.jpg"
 language: en
 slug: apartments-resul-pushi-ksamil
 address: "Baba Sherifi Ksamil 62, 9706 Ksamil, Albania"

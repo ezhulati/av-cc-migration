@@ -1,7 +1,7 @@
 ---
 title: "Hotel Roalb"
 description: "Hotel Roalb emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë, positioned just a few steps from the pristine Radhimë Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471019240.jpg?k=4802f44cc09611bb55f9706aa71c8a94276811dfc907e8b93f381792d6dd3534&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-roalb-471019240.jpg"
 language: en
 slug: hotel-roalb
 address: "SH8, 9426 Vlorë, Albania"

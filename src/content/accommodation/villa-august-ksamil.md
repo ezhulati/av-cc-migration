@@ -1,7 +1,7 @@
 ---
 title: "Villa August Ksamil"
 description: "Villa August Ksamil stands out as a prime choice for travelers seeking comfort and convenience mere steps from the sandy shores of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387483808.jpg?k=12242abe9af16d66091c1e79acd9285bb9577c7007adc397517f8a4345e6d79f&o=&hp=1"
+featuredImage: "/images/accommodation/villa-august-ksamil-387483808.jpg"
 language: en
 slug: villa-august-ksamil
 address: "Lagjia Nr 2, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel VD Roleks"
 description: "Hotel VD Roleks emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507425679.jpg?k=0525e95eb1658fdea6b162d922c84116f5a85f8d5729766afb1b0d794bcf7f08&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vd-roleks-507425679.jpg"
 language: en
 slug: hotel-vd-roleks
 address: "Lagjia Hajro Çakerri Rruga Toto Hosi, 9401 Vlorë, Albania"

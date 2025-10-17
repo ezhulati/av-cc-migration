@@ -1,7 +1,7 @@
 ---
 title: "Amelie's Apartments & Beach Saranda"
 description: "Amelie's Apartments & Beach Saranda stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, just a stone's throw away from the main beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476148458.jpg?k=951a32d710807db7ffc71102114f0680f146a844715841cf3dcfacccabcc0766&o=&hp=1"
+featuredImage: "/images/accommodation/amelie-s-apartments-beach-saranda-476148458.jpg"
 language: en
 slug: amelie-s-apartments-beach-saranda
 address: "Rruga Mitat Hoxha, 9702 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "O-cyaneaalb"
 description: "O-cyaneaalb emerges as a serene retreat in Vlorë, perfectly positioned a stone's throw away from the pristine Ri Beach and merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368655470.jpg?k=d8106e724c03dc185cc378821faad68eb25d04a789a13d9bb87a472f5061e104&o=&hp=1"
+featuredImage: "/images/accommodation/o-cyaneaalb-368655470.jpg"
 language: en
 slug: o-cyaneaalb
 address: "Rruga Uji i Ftohte, 9401 Vlorë, Albania"

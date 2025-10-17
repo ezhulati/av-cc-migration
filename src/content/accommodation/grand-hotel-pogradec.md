@@ -1,7 +1,7 @@
 ---
 title: "Grand Hotel Pogradec"
 description: "Grand Hotel Pogradec emerges as a distinguished destination for travelers seeking a blend of comfort and convenience, situated a mere 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296292806.jpg?k=07306568d2d5415205ab6130e7d7ba900f03b1d243f43aeaab520ffd86060a45&o=&hp=1"
+featuredImage: "/images/accommodation/grand-hotel-pogradec-296292806.jpg"
 language: en
 slug: grand-hotel-pogradec
 address: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

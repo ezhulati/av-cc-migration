@@ -1,7 +1,7 @@
 ---
 title: "IN Gallery Hotel & Spa"
 description: "IN Gallery Hotel & Spa stands as a beacon of comfort and luxury in Korçë, offering guests an unparalleled experience with its majestic mountain views and comprehensive amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265677122.jpg?k=2ccbb22de5bccf0e141720eb6462acaa5daa7dce216b8b50d7274f5b3a1547ee&o=&hp=1"
+featuredImage: "/images/accommodation/in-gallery-hotel-spa-265677122.jpg"
 language: en
 slug: in-gallery-hotel-spa
 address: "Bulevardi Republika Objekti nr 1, 7003 Korçë, Albania"

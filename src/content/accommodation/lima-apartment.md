@@ -1,7 +1,7 @@
 ---
 title: "Lima Apartment"
 description: "Lima Apartment in Vlorë presents a refreshing retreat for travelers seeking both the serenity of Vjetër Beach, just 80 meters away, and the vibrant city life, with Vlore Beach only 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506561775.jpg?k=3508f3b25f2bc4b737c07725752349b1abdda37eefbdf87dd90468a304ee4e9f&o=&hp=1"
+featuredImage: "/images/accommodation/lima-apartment-506561775.jpg"
 language: en
 slug: lima-apartment
 address: "Rruga Sazani, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartments New Tirana 2"
 description: "Apartments New Tirana 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478295839.jpg?k=946a1d3b7cfb248a5770652b15bd6a8b4b5de1140108b66c0bdfb3668c49a287&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-new-tirana-2-478295839.jpg"
 language: en
 slug: apartments-new-tirana-2
 address: "Rruga Nikolla Jorga, 1001 Tirana, Albania"

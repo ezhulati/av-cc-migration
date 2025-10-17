@@ -1,7 +1,7 @@
 ---
 title: "Nefelis Rooms"
 description: "Nefelis Rooms is a prime choice for travelers seeking comfortable, air-conditioned accommodations in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308190651.jpg?k=5ed170b4aa3c4214e52778f6cc4a52c86687a5c71bfb703b4acb25004bb184c5&o=&hp=1"
+featuredImage: "/images/accommodation/nefelis-rooms-308190651.jpg"
 language: en
 slug: nefelis-rooms
 address: "Potam Himare, 9425 Himare, Albania"

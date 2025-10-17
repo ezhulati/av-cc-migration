@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Fatos Biti"
 description: "Guesthouse Fatos Biti emerges as a serene retreat for travelers seeking a blend of comfort and adventure, located approximately 43 km from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69990845.jpg?k=ebbe1f96bd5a51b0cc66bb7074003b780d849bcd8934b38eb36140c80bef6e7d&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-fatos-biti-69990845.jpg"
 language: en
 slug: guesthouse-fatos-biti
 address: "2 Divjake, Lushnje, 9022 Divjakë, Albania"

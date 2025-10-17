@@ -1,7 +1,7 @@
 ---
 title: "The view2-‘FREE PARKING’"
 description: "The View2-'FREE PARKING' stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, boasting impressive city vistas and a prime location just a stone's throw away from Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471772976.jpg?k=4971f9de6ee358d8876d735deb1361c3cb9dce57a1e18f3563dfdebff249fd21&o=&hp=1"
+featuredImage: "/images/accommodation/the-view2-free-parking-471772976.jpg"
 language: en
 slug: the-view2-free-parking
 address: "Rruga Onhezmi, 1001 Sarandë, Albania"

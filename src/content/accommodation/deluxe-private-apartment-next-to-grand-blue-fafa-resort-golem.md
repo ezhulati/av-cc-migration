@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Private Apartment next to Grand Blue Fafa resort Golem"
 description: "Deluxe Private Apartment, situated adjacent to the Grand Blue Fafa Resort in Golem, offers an exceptional beachfront experience, just a stone's throw away from the pristine sands of Golem Beach and the scenic Shkëmbi i Kavajës Beach."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GjD1t-1MaysvfbCt9kGJDnQq3kb6j1YRB35RpPmYw=s96-c64"
+featuredImage: "/images/accommodation/deluxe-private-apartment-next-to-grand-blue-fafa-resort-golem-AOh14GjD1t-1.jpg"
 language: en
 slug: deluxe-private-apartment-next-to-grand-blue-fafa-resort-golem
 address: "Grand Blue Fafa Resort, Golem 1st floor (upper floor), 1000 Golem, Albania"

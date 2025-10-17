@@ -1,7 +1,7 @@
 ---
 title: "Classic House Hotel"
 description: "Classic House Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, located just 43 km from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427849147.jpg?k=f1e905ab98186f72766fb02a2f4ee47e63f81931a6e1a6f776457d98fbd4caf4&o=&hp=1"
+featuredImage: "/images/accommodation/classic-house-hotel-427849147.jpg"
 language: en
 slug: classic-house-hotel
 address: "Rruga Kostandina Gace, 7002 Korçë, Albania"

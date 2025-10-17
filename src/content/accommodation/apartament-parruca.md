@@ -1,7 +1,7 @@
 ---
 title: "Apartament Parruca"
 description: "Discover the charm of Shkodër from the comfort of Apartament Parruca, a prime destination for travelers seeking a blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478103990.jpg?k=cb6bac00442cfd1634b5ba80514eefb9ef79d6c66266ddb60c6303adf1d843fc&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-parruca-478103990.jpg"
 language: en
 slug: apartament-parruca
 address: "Parruce, 4001 Shkodër, Albania"

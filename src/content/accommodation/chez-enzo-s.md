@@ -1,7 +1,7 @@
 ---
 title: "Chez Enzo’s"
 description: "Chez Enzo’s emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424913837.jpg?k=c1b159860721649b6b1d70799c29cd9dd3765088a06079671a0f53fe16f1e868&o=&hp=1"
+featuredImage: "/images/accommodation/chez-enzo-s-424913837.jpg"
 language: en
 slug: chez-enzo-s
 address: "Bulevardi Zhan D'Ark, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kate's Nest"
 description: "Kate's Nest emerges as a prime choice for travelers seeking comfortable lodging in Përmet, offering air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452333783.jpg?k=5090025d6702f667a32ef3cea6db6df6af31a0232094d802fe6646982916300a&o=&hp=1"
+featuredImage: "/images/accommodation/kate-s-nest-452333783.jpg"
 language: en
 slug: kate-s-nest
 address: "Rruga 13 jorgo culli, 6401 Përmet, Albania"

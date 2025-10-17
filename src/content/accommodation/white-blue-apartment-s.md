@@ -1,7 +1,7 @@
 ---
 title: "White & Blue Apartment's"
 description: "White & Blue Apartments emerges as a breath of fresh air in the Golem accommodation scene, boasting a recent renovation that promises modern comfort just 500 meters from the serene Qerret Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378385840.jpg?k=f719d2f64acba36799805189bbe332c6fb758e9b5e8410aab43a41ab7c2fe94f&o=&hp=1"
+featuredImage: "/images/accommodation/white-blue-apartment-s-378385840.jpg"
 language: en
 slug: white-blue-apartment-s
 address: "Rruga e Fshatrave Turistike, Golem, Albania"

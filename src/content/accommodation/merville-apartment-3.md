@@ -1,7 +1,7 @@
 ---
 title: "Merville Apartment 3"
 description: "Merville Apartment 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486617501.jpg?k=936b0c3e11a719391b379d590cf2761292a58f9429af937897e42f2a39a7f92f&o=&hp=1"
+featuredImage: "/images/accommodation/merville-apartment-3-486617501.jpg"
 language: en
 slug: merville-apartment-3
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Apartment"
 description: "Lungomare Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated a mere 300 meters from the pristine Vlore Beach and within easy walking distance to Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521124877.jpg?k=5aaa98b8da3d6f3039c66c58bfe43b960b3199f6d4d25622839b97b962b829a2&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-apartment-521124877.jpg"
 language: en
 slug: lungomare-apartment
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

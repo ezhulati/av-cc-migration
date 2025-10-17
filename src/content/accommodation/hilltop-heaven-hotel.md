@@ -1,7 +1,7 @@
 ---
 title: "Hilltop Heaven Hotel"
 description: "Hilltop Heaven Hotel emerges as a distinguished 4-star retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374678365.jpg?k=139d527b23c460c1525ea2e436d5199bbe69da193ea8070d7def29fce0d8138c&o=&hp=1"
+featuredImage: "/images/accommodation/hilltop-heaven-hotel-374678365.jpg"
 language: en
 slug: hilltop-heaven-hotel
 address: "Road Karl Gega, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea view Apartment Elite2"
 description: "Sea View Apartment Elite2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369580090.jpg?k=99b785e63b950016ceccd0becde81837de0ed34293e32e4b9db510555333cbb1&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartment-elite2-369580090.jpg"
 language: en
 slug: sea-view-apartment-elite2
 address: "Rruga Butrinti, Sarandë, Albania"

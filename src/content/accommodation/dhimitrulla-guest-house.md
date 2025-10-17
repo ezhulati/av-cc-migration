@@ -1,7 +1,7 @@
 ---
 title: "Dhimitrulla Guest-House"
 description: "Dhimitrulla Guest-House, situated in the charming town of Përmet, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJwNEHWEkfIomRMVcnS4KflhACfM1T0gmPCmkGwSn0I=s96-c64"
+featuredImage: "/images/accommodation/dhimitrulla-guest-house-AATXAJwNEHWE.jpg"
 language: en
 slug: dhimitrulla-guest-house
 address: "Rruga Kongresi i Përmetit, 6401 Përmet, Albania"

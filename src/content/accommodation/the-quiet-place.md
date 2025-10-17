@@ -1,7 +1,7 @@
 ---
 title: "The quiet place"
 description: "The Quiet Place presents a serene retreat for travelers seeking tranquility and convenience, located just a short 1."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJx3lVEVLqMAFlej9x2gWRmSQZAKvRxCKO9FgGWg=s96-c64"
+featuredImage: "/images/accommodation/the-quiet-place-AATXAJx3lVEV.jpg"
 language: en
 slug: the-quiet-place
 address: "Rruga Hamallaj-Rrushkull, Hamallaj, Albania"

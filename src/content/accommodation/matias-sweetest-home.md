@@ -1,7 +1,7 @@
 ---
 title: "Matias sweetest home"
 description: "Matias Sweetest Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484188580.jpg?k=d8ce474b3707a132130253bf9994ba848c8f5defc49069a45203812dbc52ab61&o=&hp=1"
+featuredImage: "/images/accommodation/matias-sweetest-home-484188580.jpg"
 language: en
 slug: matias-sweetest-home
 address: "85 Rruga e Dibrës, 1001 Tirana, Albania"

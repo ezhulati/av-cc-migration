@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Ferrari"
 description: "Hotel Villa Ferrari, situated in the vibrant heart of Tirana, stands out as a serene oasis offering a garden, terrace, and a welcoming bar, complemented by the convenience of complimentary WiFi accessible throughout the premises."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490032775.jpg?k=8f78c00021c824b9b010baaa71c5d1e4424eb1679536924f5bf6804dd44c21a8&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-villa-ferrari-490032775.jpg"
 language: en
 slug: hotel-villa-ferrari
 address: "Rruga Artan Lenja, 1001 Tirana, Albania"

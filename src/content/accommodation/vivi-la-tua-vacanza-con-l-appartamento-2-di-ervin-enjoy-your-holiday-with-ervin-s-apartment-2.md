@@ -1,7 +1,7 @@
 ---
 title: "Vivi la tua vacanza con l'appartamento 2 di Ervin! Enjoy your holiday with Ervin's apartment 2!"
 description: "Ervin's Apartment 2, situated mere steps from the pristine sands of Vlore Beach and a short stroll from the vibrant Ri Beach, offers a serene retreat in the heart of Vlorë."
-featuredImage: "https://graph.facebook.com/v2.9/10215365015559233/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/vivi-la-tua-vacanza-con-l-appartamento-2-di-ervin-enjoy-your-holiday-with-ervin-s-apartment-2-picture?type.jpg"
 language: en
 slug: vivi-la-tua-vacanza-con-l-appartamento-2-di-ervin-enjoy-your-holiday-with-ervin-s-apartment-2
 address: "Lagjia 10 Korriku, Rruga Cameria, Pallati Nazmie Licaj/ K.2 Ap.4 , 9405 Vlorë, Albania"

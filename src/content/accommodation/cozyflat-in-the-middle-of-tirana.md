@@ -1,7 +1,7 @@
 ---
 title: "CozyFlat in the middle of Tirana"
 description: "CozyFlat, strategically positioned in the vibrant heart of Tirana, emerges as a prime choice for travelers seeking a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/cozyflat-in-the-middle-of-tirana-2c7be68fb3f9.jpg"
 language: en
 slug: cozyflat-in-the-middle-of-tirana
 address: "Rruga Myslym Shyri Apartment 22 , building 47, 1001 Tirana, Albania"

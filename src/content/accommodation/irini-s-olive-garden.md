@@ -1,7 +1,7 @@
 ---
 title: "Irini's Olive Garden"
 description: "Irini's Olive Garden emerges as a serene oasis in the heart of Qeparo, offering a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481125900.jpg?k=50717aff71a21d14ebb6afdc7c718423e0bc534b4f368a5af5de943452fd9441&o=&hp=1"
+featuredImage: "/images/accommodation/irini-s-olive-garden-481125900.jpg"
 language: en
 slug: irini-s-olive-garden
 address: "rruga kristo capo, 9416 Qeparo, Albania"

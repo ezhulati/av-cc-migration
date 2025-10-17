@@ -1,7 +1,7 @@
 ---
 title: "SOL INVICTUS Boutique Hotel Durres Albania"
 description: "SOL INVICTUS Boutique Hotel Durres Albania emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486825552.jpg?k=cbc1b967ee653a2b9b7d0f810b4d81e25355ea7ac1cd8f46268f8b106be99346&o=&hp=1"
+featuredImage: "/images/accommodation/sol-invictus-boutique-hotel-durres-albania-486825552.jpg"
 language: en
 slug: sol-invictus-boutique-hotel-durres-albania
 address: "Rruga, 2001 Durrës, Albania"

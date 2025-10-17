@@ -1,7 +1,7 @@
 ---
 title: "EMOJI house"
 description: "EMOJI House emerges as a gem in the heart of Tirana, boasting a prime location close to notable landmarks such as the House of Leaves, Rinia Park, and the National Museum of History Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483805561.jpg?k=6a2dd0fdcc00a86419dbefb0645ef5386b77a5c227816f19c8fc76802ec75b92&o=&hp=1"
+featuredImage: "/images/accommodation/emoji-house-483805561.jpg"
 language: en
 slug: emoji-house
 address: "Rruga e Kavajës 3, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Big apartment city center"
 description: "Big Apartment City Center offers a spacious and comfortable stay right in the heart of Shkodër, providing guests with the convenience of air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525902948.jpg?k=21a7fb8fa9a64dd2b9c86c3ea7b6a698d939c61bc10167f6dd6a41bd2a7e25c8&o=&hp=1"
+featuredImage: "/images/accommodation/big-apartment-city-center-525902948.jpg"
 language: en
 slug: big-apartment-city-center
 address: "Rruga Karakacej, Shkodër, Albania"

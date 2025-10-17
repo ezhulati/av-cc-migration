@@ -1,7 +1,7 @@
 ---
 title: "Lucas Apartment 2"
 description: "Lucas Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350755481.jpg?k=bbdbb8f5463ea5dc434ed6f41fbb5ab7fff4649996b88329a3bb318b6149ac3b&o=&hp=1"
+featuredImage: "/images/accommodation/lucas-apartment-2-350755481.jpg"
 language: en
 slug: lucas-apartment-2
 address: "Rruga Gaqo Tashko, Tirana, Albania"

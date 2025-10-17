@@ -1,7 +1,7 @@
 ---
 title: "Lara Home, brand new, modern and with a great view"
 description: "Lara Home stands out as a contemporary gem in Sarandë, offering guests a unique blend of modern comfort and breathtaking views."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14Gjgb_O5YZbHhLts2E7pNdX91GTU-XYmzvnOfhuElg=s96-c64"
+featuredImage: "/images/accommodation/lara-home-brand-new-modern-and-with-a-great-view-AOh14Gjgb_O5.jpg"
 language: en
 slug: lara-home-brand-new-modern-and-with-a-great-view
 address: "Rruga Adem Sheme House 4, 9701 Sarandë, Albania"

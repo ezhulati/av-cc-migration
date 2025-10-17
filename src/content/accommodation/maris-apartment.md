@@ -1,7 +1,7 @@
 ---
 title: "Maris Apartment"
 description: "Maris Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517909917.jpg?k=3041057db394ec9f00de9665f27f90dcad743ddbd4afc4938b9bbb5c03199c9e&o=&hp=1"
+featuredImage: "/images/accommodation/maris-apartment-517909917.jpg"
 language: en
 slug: maris-apartment
 address: "Rruga Medar Shtylla 1/6, 1060 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hostello al centro storico"
 description: "Hostello al centro storico emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër, within the Shkoder County region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497522862.jpg?k=6aa7f055454a39616c34656e640412e5e9be9c223d348baca205793d6b8e12c9&o=&hp=1"
+featuredImage: "/images/accommodation/hostello-al-centro-storico-497522862.jpg"
 language: en
 slug: hostello-al-centro-storico
 address: "Rruga Zef Jubani, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Studio Eno Ksamil"
 description: "Studio Eno Ksamil stands out as a prime choice for travelers seeking a serene getaway in the heart of Ksamil, just a short stroll from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453874884.jpg?k=9ce4b44c2fb935a70192081eb46040c992439785ba55c2115becfc928a9049a9&o=&hp=1"
+featuredImage: "/images/accommodation/studio-eno-ksamil-453874884.jpg"
 language: en
 slug: studio-eno-ksamil
 address: "Road Baba Sherifi & Orfeu Ksamil 18, 9706 Ksamil, Albania"

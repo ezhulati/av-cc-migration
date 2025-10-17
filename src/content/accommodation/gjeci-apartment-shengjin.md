@@ -1,7 +1,7 @@
 ---
 title: "Gjeci Apartment Shengjin"
 description: "Gjeci Apartment Shengjin emerges as a premier choice for travelers seeking a blend of comfort and convenience in Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390994095.jpg?k=ec0828df2364ac9939952cce0ae6ae3b54de635c12168ea54f566832befbd7f5&o=&hp=1"
+featuredImage: "/images/accommodation/gjeci-apartment-shengjin-390994095.jpg"
 language: en
 slug: gjeci-apartment-shengjin
 address: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"

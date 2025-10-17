@@ -1,7 +1,7 @@
 ---
 title: "Luxury Dream Apartments"
 description: "Luxury Dream Apartments emerges as a premier choice for travelers seeking unparalleled comfort and convenience, mere steps away from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/luxury-dream-apartments-c84a361d6701.jpg"
 language: en
 slug: luxury-dream-apartments
 address: "Rruga e Arbrit Apartment, 9701 Sarandë, Albania"

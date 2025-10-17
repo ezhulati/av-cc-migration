@@ -1,7 +1,7 @@
 ---
 title: "Beautiful flat in the center of Shkodra, Albania"
 description: "Beautiful Flat in the Center of Shkodra, Albania, emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507679183.jpg?k=d743b44af5195e855d03dc348e7e0a6739bb17678942b2e325893619cca1722f&o=&hp=1"
+featuredImage: "/images/accommodation/beautiful-flat-in-the-center-of-shkodra-albania-507679183.jpg"
 language: en
 slug: beautiful-flat-in-the-center-of-shkodra-albania
 address: "Rruga Studenti, 4001 Shkodër, Albania"

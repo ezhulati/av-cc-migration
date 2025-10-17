@@ -1,7 +1,7 @@
 ---
 title: "Adore Apartment City Center"
 description: "Adore Apartment City Center emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modernity in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503926186.jpg?k=a23d121193011bbe2ee4031fbf8fd9b1322cfaf8c45ba1d7bedd99e1a3d30d30&o=&hp=1"
+featuredImage: "/images/accommodation/adore-apartment-city-center-503926186.jpg"
 language: en
 slug: adore-apartment-city-center
 address: "Rruga e Saraçëve, 1017 Tirana, Albania"

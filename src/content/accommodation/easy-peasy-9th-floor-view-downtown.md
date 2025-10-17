@@ -1,7 +1,7 @@
 ---
 title: "Easy Peasy - 9th floor view downtown"
 description: "Easy Peasy - 9th Floor View Downtown emerges as a serene haven in the heart of the city, offering guests an exceptional stay with its breathtaking views from the ninth floor."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513922273.jpg?k=efa6e37320cb17888531278a6742870ef59d83724a3ed2988d1e5bc3b989a4ac&o=&hp=1"
+featuredImage: "/images/accommodation/easy-peasy-9th-floor-view-downtown-513922273.jpg"
 language: en
 slug: easy-peasy-9th-floor-view-downtown
 address: "Rruga Kostandin Kristoforidhi, Tirana, Albania"

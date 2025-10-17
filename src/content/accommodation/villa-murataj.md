@@ -1,7 +1,7 @@
 ---
 title: "Villa Murataj"
 description: "Villa Murataj emerges as a serene retreat in the vibrant heart of Ksamil, offering guests a unique blend of comfort and convenience with its air-conditioned accommodations that boast a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388992663.jpg?k=7b23748db3d98d7f36f67ad9f84147c96ac5b18379723197cf5436ccbea15e36&o=&hp=1"
+featuredImage: "/images/accommodation/villa-murataj-388992663.jpg"
 language: en
 slug: villa-murataj
 address: "Rruga Freskia, Ksamil, Albania"

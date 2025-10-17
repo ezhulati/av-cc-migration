@@ -1,7 +1,7 @@
 ---
 title: "Avenue by the Sea -Pamje Deti"
 description: "Avenue by the Sea - Pamje Deti emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned merely a short stroll from the serene Mali I Robit Beach and the vibrant Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488832353.jpg?k=9f13a0db7bf8083eff3943831bf301ba3f3a4b907e2e60c73c4bbe0eb9e84659&o=&hp=1"
+featuredImage: "/images/accommodation/avenue-by-the-sea-pamje-deti-488832353.jpg"
 language: en
 slug: avenue-by-the-sea-pamje-deti
 address: "Rruga Ismail Qemali 2, 2504 Golem, Albania"

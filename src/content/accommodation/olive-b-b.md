@@ -1,7 +1,7 @@
 ---
 title: "Olive B&B"
 description: "Olive B&B emerges as a charming retreat in the heart of Berat, offering guests a serene garden view accommodation complemented by modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222084539.jpg?k=c803b6ab9f43f63e8855724c5a1c0f1bfc2867f89a1bc0c833e699613a2f3f2f&o=&hp=1"
+featuredImage: "/images/accommodation/olive-b-b-222084539.jpg"
 language: en
 slug: olive-b-b
 address: "Rruga Santa Lucia ND.2, 5001 Berat, Albania"

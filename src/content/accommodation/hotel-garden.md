@@ -1,7 +1,7 @@
 ---
 title: "Hotel Garden"
 description: "Hotel Garden emerges as a serene oasis in Radhimë, boasting its own slice of private beachfront and a reputation for exceptional hospitality."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtfgsmHVhA90pPlC24dXT5yVF0F2sl26o9SHeNatVxAEJog=s96-c64"
+featuredImage: "/images/accommodation/hotel-garden-AAcHTtfgsmHV.jpg"
 language: en
 slug: hotel-garden
 address: "Radhim Orikum Vlorë, 9400 Valona, 9400, 9400 Vlorë, Albania"

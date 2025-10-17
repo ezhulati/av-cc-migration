@@ -1,7 +1,7 @@
 ---
 title: "Nobus Hotel"
 description: "Nobus Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë, situated merely 300 meters from the inviting Sunny Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497383493.jpg?k=84c8fb168b05313c947503ee7e27fd7dd39456b96d8d52416568e66b7b1a7d76&o=&hp=1"
+featuredImage: "/images/accommodation/nobus-hotel-497383493.jpg"
 language: en
 slug: nobus-hotel
 address: "SH8, 9400 Vlorë, Albania"

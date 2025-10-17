@@ -1,7 +1,7 @@
 ---
 title: "Promenade 3-Bedroom apartment with large balcony."
 description: "Promenade 3-Bedroom Apartment with Large Balcony stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384960579.jpg?k=5fc8c3e3c40f73cdacddf34abcde928da468b0fb6cd6afa02f2c47f568125a78&o=&hp=1"
+featuredImage: "/images/accommodation/promenade-3-bedroom-apartment-with-large-balcony-384960579.jpg"
 language: en
 slug: promenade-3-bedroom-apartment-with-large-balcony
 address: "L. 1, Rr. Taulantia, Nd. 27, H. 7, Ap. 24, Durrës, Albania, 2025 Durrës, Albania"

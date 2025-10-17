@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kolagji"
 description: "Hotel Kolagji, positioned directly on the shores of Himare, presents a serene escape with its prime beachfront location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302317688.jpg?k=2cb6ed05af958c4c7e26f4ba4ded0d29f80e8b11b2da71ee46ae8e14627e8859&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kolagji-302317688.jpg"
 language: en
 slug: hotel-kolagji
 address: "Potam, Himare, 9425 Himare, Albania"

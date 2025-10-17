@@ -1,7 +1,7 @@
 ---
 title: "Yara’s Apartment"
 description: "Yara's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481167884.jpg?k=4cb6514fb1f26376e1ffefc01f696eb98ac61b183ea4e0a26f9619cce15f3883&o=&hp=1"
+featuredImage: "/images/accommodation/yara-s-apartment-481167884.jpg"
 language: en
 slug: yara-s-apartment
 address: "Rruga Beniamin Kruta 3, 1023 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guestrooms"
 description: "Discover the charm of Durrës with a stay at Guestrooms, a prime accommodation choice that places travelers in the heart of this historic city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478112021.jpg?k=8984a8d7414979f2cfb4a2d24009e8ef85bd6a284e64d653b7a083446df5d2c7&o=&hp=1"
+featuredImage: "/images/accommodation/guestrooms-478112021.jpg"
 language: en
 slug: guestrooms
 address: "Rruga Pavaresia, 2002 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "White Luxury"
 description: "White Luxury stands out as a prime choice for travelers seeking modern comforts and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453865200.jpg?k=fc96ae94f87a6ad98d51525ee63282798d80649f2afed891d896cd7c870a2c08&o=&hp=1"
+featuredImage: "/images/accommodation/white-luxury-453865200.jpg"
 language: en
 slug: white-luxury
 address: "Rruga Arra e Madhe Zyra postare 5, 4001 Shkodër, Albania"

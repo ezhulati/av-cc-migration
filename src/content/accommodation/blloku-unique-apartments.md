@@ -1,7 +1,7 @@
 ---
 title: "Blloku Unique Apartments"
 description: "Blloku Unique Apartments stands out as a premier 4-star accommodation option in Tirana, offering guests the luxury of private balconies with each apartment."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337676971.jpg?k=c4039f59b9e89ee96018803061b33c172cb291dc4bd6ac0b35500c8ed3bfcb7f&o=&hp=1"
+featuredImage: "/images/accommodation/blloku-unique-apartments-337676971.jpg"
 language: en
 slug: blloku-unique-apartments
 address: "Bajram Curri Blvd, Pall. Agimi, Shk 8 (4rth floor), Ap. 4, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartament"
 description: "Lovely Apartament stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475840144.jpg?k=ba29a810a8c4c5fdba9fa470b0a7c1d165479bd0fe4715333326af99023d23bf&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartament-475840144.jpg"
 language: en
 slug: lovely-apartament
 address: "Rruga Fejzo Mema, Vlorë, Albania"

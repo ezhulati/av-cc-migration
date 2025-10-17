@@ -1,7 +1,7 @@
 ---
 title: "Sandri Apartment"
 description: "Sandri Apartment stands as a prime beachfront gem in Himare, boasting an enviable location just 60 meters from the serene Spille Beach and a short stroll from the picturesque Maracit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260977473.jpg?k=5b8e9fd4aa3fe4e3374c51bbfe5e8943b595d2f9b503868bd41a195784202165&o=&hp=1"
+featuredImage: "/images/accommodation/sandri-apartment-260977473.jpg"
 language: en
 slug: sandri-apartment
 address: "20 SH8, 9425 Himare, Albania"

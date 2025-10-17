@@ -1,7 +1,7 @@
 ---
 title: "Belleview Apartment 6"
 description: "Belleview Apartment 6 stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
+featuredImage: "/images/accommodation/belleview-apartment-6-bebbb1d5ff29.jpg"
 language: en
 slug: belleview-apartment-6
 address: "Rruga Rushit Gurishova 2 Floor, 9402 Vlorë, Albania"

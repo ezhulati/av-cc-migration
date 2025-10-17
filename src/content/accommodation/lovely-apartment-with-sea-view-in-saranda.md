@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartment with sea view in Saranda"
 description: "Discover the charm of Sarandë from the comfort of the Lovely apartment with sea view in Saranda, a recently renovated gem that boasts not only breathtaking views but also a host of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369685512.jpg?k=7faea1c08f66da539a3fe467312cc24422c14c512ae7cca660140b799fbe8d6f&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-with-sea-view-in-saranda-369685512.jpg"
 language: en
 slug: lovely-apartment-with-sea-view-in-saranda
 address: "Rruga Idriz Alidhima, 9703 Sarandë, Albania"

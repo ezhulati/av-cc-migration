@@ -1,7 +1,7 @@
 ---
 title: "Lian Apartament"
 description: "Lian Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a short distance from the pristine Vlore Beach and within easy reach of the city's notable landmarks such as Vjetër Beach and Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306842329.jpg?k=e3e0117e0b030dd7a1598a0e91ca67f762e1326f9237067fc310cc232c9ed3d3&o=&hp=1"
+featuredImage: "/images/accommodation/lian-apartament-306842329.jpg"
 language: en
 slug: lian-apartament
 address: "Rruga Francesko Krispi, 9401 Vlorë, Albania"

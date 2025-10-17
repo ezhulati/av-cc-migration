@@ -1,7 +1,7 @@
 ---
 title: "Old Town Hotel Dhermi"
 description: "Old Town Hotel Dhermi stands as a serene retreat in the vibrant heart of Dhërmi, just a short 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256979235.jpg?k=5bc5c886c81e827db7396957a68d23a246bdc2e4c92321e476ecb7188d3b29df&o=&hp=1"
+featuredImage: "/images/accommodation/old-town-hotel-dhermi-256979235.jpg"
 language: en
 slug: old-town-hotel-dhermi
 address: "Sheshi Petrro Marko 1, 1001 Dhërmi, Albania"

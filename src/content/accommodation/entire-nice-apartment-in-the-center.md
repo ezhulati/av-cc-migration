@@ -1,7 +1,7 @@
 ---
 title: "Entire nice apartment, in the center"
 description: "Entire Nice Apartment, centrally located in Tirana, emerges as a prime choice for travelers seeking the comfort of home with the convenience of a city center location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412417758.jpg?k=e487c479d2143e669aec4dc01333819673d8094165a1760513487f7d54871317&o=&hp=1"
+featuredImage: "/images/accommodation/entire-nice-apartment-in-the-center-412417758.jpg"
 language: en
 slug: entire-nice-apartment-in-the-center
 address: "Rruga Ded Gjo Luli PALL. 5, SHK. 2/3, AP. 15, 1001 Tirana, Albania"

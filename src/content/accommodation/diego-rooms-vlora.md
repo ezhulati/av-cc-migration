@@ -1,7 +1,7 @@
 ---
 title: "Diego Rooms Vlora"
 description: "Diego Rooms Vlora emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526463258.jpg?k=32f8077efc10e3da0bb12db9c6e255ef1cc64208e520cd4c80e1fec225920c45&o=&hp=1"
+featuredImage: "/images/accommodation/diego-rooms-vlora-526463258.jpg"
 language: en
 slug: diego-rooms-vlora
 address: "Rruga Francesko Krispi, 9405 Vlorë, Albania"

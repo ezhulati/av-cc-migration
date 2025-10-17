@@ -1,7 +1,7 @@
 ---
 title: "Palace Hotel & SPA"
 description: "Palace Hotel & SPA emerges as a premier destination for those seeking a blend of luxury and relaxation by the sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309934444.jpg?k=21b9bcd9de9feb12bfa9d5bf60fad6dfef1506521775edc48189b58c9cb465fe&o=&hp=1"
+featuredImage: "/images/accommodation/palace-hotel-spa-309934444.jpg"
 language: en
 slug: palace-hotel-spa
 address: "Rruga Pavaresia Plazh Apollonia, Lagja 13, 1111 Durrës, Albania"

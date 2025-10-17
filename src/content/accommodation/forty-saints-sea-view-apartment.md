@@ -1,7 +1,7 @@
 ---
 title: "Forty Saints Sea View Apartment"
 description: "Forty Saints Sea View Apartment emerges as a prime choice for travelers seeking spacious and comfortable lodging in Sarandë, located just a short stroll from the pristine Maestral Beach and within easy reach of La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420268550.jpg?k=d6195aae0432ecb3fb896957951504ff403eac61dec79c986699b6cfd4b8a76a&o=&hp=1"
+featuredImage: "/images/accommodation/forty-saints-sea-view-apartment-420268550.jpg"
 language: en
 slug: forty-saints-sea-view-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Center Elite Tirana"
 description: "Center Elite Tirana emerges as a standout choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275167717.jpg?k=349727fcd0afabecb8cec3fe0469f11fe02d5d9f16fbc73520afc75c5621e396&o=&hp=1"
+featuredImage: "/images/accommodation/center-elite-tirana-275167717.jpg"
 language: en
 slug: center-elite-tirana
 address: "Rruga George W. Bush George W. Bush 17, 1001 Tirana, Albania"

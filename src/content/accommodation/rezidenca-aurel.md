@@ -1,7 +1,7 @@
 ---
 title: "Rezidenca Aurel"
 description: "Rezidenca Aurel stands out as a serene oasis in Berat, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211690410.jpg?k=43b3fb3538b67fdbf6ecf461041c32e9860a45a0f11c954b4d4427cb23311b39&o=&hp=1"
+featuredImage: "/images/accommodation/rezidenca-aurel-211690410.jpg"
 language: en
 slug: rezidenca-aurel
 address: "Rruga Dr. Lluka, 5001 Berat, Albania"

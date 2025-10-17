@@ -1,7 +1,7 @@
 ---
 title: "Suite Apartment Vlorë"
 description: "Suite Apartment Vlorë emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378117492.jpg?k=ef31d183707688c24e43cf7d5a3d3ce6b153c605d5a45191a1129235974d6517&o=&hp=1"
+featuredImage: "/images/accommodation/suite-apartment-vlor-378117492.jpg"
 language: en
 slug: suite-apartment-vlor
 address: "Rruga Aleksandër Moisiu, 9402 Vlorë, Albania"

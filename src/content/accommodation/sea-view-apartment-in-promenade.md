@@ -1,7 +1,7 @@
 ---
 title: "SEA VIEW APARTMENT IN PROMENADE"
 description: "SEA VIEW APARTMENT IN PROMENADE stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498837364.jpg?k=c2b66ebe674ecdc4d2348eec410445d172b89993ddeb3920b4c5329c1ed06d20&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartment-in-promenade-498837364.jpg"
 language: en
 slug: sea-view-apartment-in-promenade
 address: "Rruga Taulantia, 2001 Durrës, Albania"

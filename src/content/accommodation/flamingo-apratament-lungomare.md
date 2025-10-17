@@ -1,7 +1,7 @@
 ---
 title: "Flamingo Apratament lungomare"
 description: "Flamingo Apartment Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated a mere stone's throw away from the pristine Vlore Beach in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425254819.jpg?k=f955aaa6ea8d1217d851e27fb16e56207a3aa4699f2002756323c4bfee24fc4f&o=&hp=1"
+featuredImage: "/images/accommodation/flamingo-apratament-lungomare-425254819.jpg"
 language: en
 slug: flamingo-apratament-lungomare
 address: "Rruga Murat Tërbaçi 13 hyrja 4 kati 5, Vlorë, Albania"

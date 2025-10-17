@@ -1,7 +1,7 @@
 ---
 title: "DEAL Castle View Rooms"
 description: "DEAL Castle View Rooms emerges as a distinguished choice for travelers seeking a blend of comfort and scenic beauty in Krujë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470086568.jpg?k=31670d42c06a9d4ac4979999090d5bae0ce2075ae0d6a70fb74112a10a8ea122&o=&hp=1"
+featuredImage: "/images/accommodation/deal-castle-view-rooms-470086568.jpg"
 language: en
 slug: deal-castle-view-rooms
 address: "Rruga Albanopolis, 1501 Krujë, Albania"

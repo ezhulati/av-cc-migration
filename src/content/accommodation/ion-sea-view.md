@@ -1,7 +1,7 @@
 ---
 title: "Ion Sea View"
 description: "Ion Sea View stands out as a prime choice for travelers seeking comfort and convenience mere steps away from the pristine shores of Ksamil Beach 9 and a short stroll from the vibrant Bora Bora Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451399109.jpg?k=e4717847c7453167339a1fc85d00bd6582c44c742b4f400fb1034297df3eedd1&o=&hp=1"
+featuredImage: "/images/accommodation/ion-sea-view-451399109.jpg"
 language: en
 slug: ion-sea-view
 address: "Vace zela, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Esmeralda Apartaments"
 description: "Esmeralda Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë, positioned just a stone's throw away from the pristine Maestral Beach and a short stroll from La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158203390.jpg?k=b8f75bb6e54512bf442f8291205781bbab3c7440fd6afb29b06530f2ed858ba2&o=&hp=1"
+featuredImage: "/images/accommodation/esmeralda-apartaments-158203390.jpg"
 language: en
 slug: esmeralda-apartaments
 address: "Rruga Butrinti 39.864638, 20.017211, 9701 Sarandë, Albania"

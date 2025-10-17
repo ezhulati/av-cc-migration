@@ -1,7 +1,7 @@
 ---
 title: "Villa Duka"
 description: "Villa Duka, located in the picturesque town of Krujë, emerges as a serene retreat just a stone's throw away from some of Albania's most significant landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491243522.jpg?k=f7d14dc74d12f932578bba21e35ae4083998545b6486e831980ad483f0110628&o=&hp=1"
+featuredImage: "/images/accommodation/villa-duka-491243522.jpg"
 language: en
 slug: villa-duka
 address: "Rruga Gurkuqe, 1501 Krujë, Albania"

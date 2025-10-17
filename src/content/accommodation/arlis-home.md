@@ -1,7 +1,7 @@
 ---
 title: "Arlis Home"
 description: "Arlis Home offers a serene retreat in the heart of Shkodër, providing guests with a blend of modern amenities and homely comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503990277.jpg?k=4f5102f43d50763298a124d90e5766d6faf1ae37d563feb240ae2ff65ce161b7&o=&hp=1"
+featuredImage: "/images/accommodation/arlis-home-503990277.jpg"
 language: en
 slug: arlis-home
 address: "Rruga Taip Adem Dema, 4001 Shkodër, Albania"

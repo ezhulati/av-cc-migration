@@ -1,7 +1,7 @@
 ---
 title: "Turka Lake House"
 description: "Turka Lake House emerges as a serene retreat in Pogradec, boasting a prime beachfront location with captivating garden views, just a stone's throw away from the enchanting Ohrid Lake Springs and the historic Cave Church Archangel Michael."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487196875.jpg?k=82337860c921440f741324b8baed3d4a6b4d4de92a56252be693f621598b9057&o=&hp=1"
+featuredImage: "/images/accommodation/turka-lake-house-487196875.jpg"
 language: en
 slug: turka-lake-house
 address: "Piskupat,TURKA S HOUSE, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest House and Hostel VAL-MAR"
 description: "Guest House and Hostel VAL-MAR, located in the historic heart of Gjirokastër and a mere 45 km from the serene Zaravina Lake, presents travelers with a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465663657.jpg?k=0cf68cd17f09e0485eba0c3d50878b08b06309aee418853e6955be753d7f89f3&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-and-hostel-val-mar-465663657.jpg"
 language: en
 slug: guest-house-and-hostel-val-mar
 address: "Rruga Alqi Kondi 1, 6001 Gjirokastër, Albania"

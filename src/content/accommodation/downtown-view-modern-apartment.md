@@ -1,7 +1,7 @@
 ---
 title: "DownTown View Modern Apartment"
 description: "DownTown View Modern Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/downtown-view-modern-apartment-8d80ab6bf73f.jpg"
 language: en
 slug: downtown-view-modern-apartment
 address: "Rruga Skënderbeg 5th Floor, 1001 Tirana, Albania"

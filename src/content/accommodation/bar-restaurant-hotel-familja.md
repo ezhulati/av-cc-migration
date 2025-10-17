@@ -1,7 +1,7 @@
 ---
 title: "Bar-Restaurant-Hotel-Familja"
 description: "Bar-Restaurant-Hotel-Familja emerges as a distinguished destination for travelers seeking a blend of comfort and convenience, located 41 km from the scenic Dajti Ekspres Cable Car in the serene town of Klos."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466881473.jpg?k=12bb4e06b28c3bbed2523258fe17a2e949ed3ca8dfd58c53f26cd82768c0a871&o=&hp=1"
+featuredImage: "/images/accommodation/bar-restaurant-hotel-familja-466881473.jpg"
 language: en
 slug: bar-restaurant-hotel-familja
 address: "Rruga Peshkopi-Maqellare Klos, 8002 Klos, Albania"

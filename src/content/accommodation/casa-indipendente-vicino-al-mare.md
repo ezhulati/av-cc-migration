@@ -1,7 +1,7 @@
 ---
 title: "casa indipendente vicino al mare"
 description: "Casa Indipendente Vicino al Mare emerges as a serene retreat in the heart of Orikum, Vlorë County, offering a tranquil escape with the convenience of nearby beaches such as Nettuno and Orikum."
-featuredImage: "https://graph.facebook.com/v2.9/1695461120571528/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/casa-indipendente-vicino-al-mare-picture?type.jpg"
 language: en
 slug: casa-indipendente-vicino-al-mare
 address: "Via Giulio Cesare 67 Orikum, Orikum, Albania"

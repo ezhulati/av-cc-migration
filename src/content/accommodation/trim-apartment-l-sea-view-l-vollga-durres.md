@@ -1,7 +1,7 @@
 ---
 title: "TRIM Apartment l Sea View l Vollga-Durres"
 description: "TRIM Apartment | Sea View | Vollga-Durres emerges as a standout choice for travelers seeking a blend of comfort, convenience, and modernity in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434680441.jpg?k=b5040a8c898d3754b3cbae8f3ade2864475993150a6ccf1044e486728ef37df9&o=&hp=1"
+featuredImage: "/images/accommodation/trim-apartment-l-sea-view-l-vollga-durres-434680441.jpg"
 language: en
 slug: trim-apartment-l-sea-view-l-vollga-durres
 address: "Rruga Taulantia, Durrës, Albania"

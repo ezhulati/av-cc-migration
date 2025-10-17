@@ -1,7 +1,7 @@
 ---
 title: "Two steps apartments 4"
 description: "Two Steps Apartments 4 emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411337014.jpg?k=9eb54cd88430ae86b587e3b6cb517aeacf25a683e12751921d200ebe89cc8fa5&o=&hp=1"
+featuredImage: "/images/accommodation/two-steps-apartments-4-411337014.jpg"
 language: en
 slug: two-steps-apartments-4
 address: "Rruga Tafaj building nr 60, entry nr 7, app nr 26, 1017 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Erind's apartment,Pampas"
 description: "Erind's Apartment, Pampas, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the stunning shores of Durrës."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgrsRWa3iEtwt0TkPgOJiY5Vm3tlsTs7RbFnE17iw=s96-c64"
+featuredImage: "/images/accommodation/erind-s-apartment-pampas-AOh14GgrsRWa.jpg"
 language: en
 slug: erind-s-apartment-pampas
 address: "Dolce vita , Golem, 2001 Durrës, Albania"

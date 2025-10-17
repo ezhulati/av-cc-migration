@@ -1,7 +1,7 @@
 ---
 title: "Mema s house guests"
 description: "Mema's House stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460774872.jpg?k=5f4411ccba8841ef762c315afd6304bc7ee58d9f670512bb5b7bbf626d19788b&o=&hp=1"
+featuredImage: "/images/accommodation/mema-s-house-guests-460774872.jpg"
 language: en
 slug: mema-s-house-guests
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

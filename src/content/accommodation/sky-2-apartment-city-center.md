@@ -1,7 +1,7 @@
 ---
 title: "Sky 2 Apartment City Center"
 description: "Sky 2 Apartment City Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375755780.jpg?k=2390b8d5bcb573a532f05cc4cb6d0f59958f580c3fc3a8230efb22bdb643b228&o=&hp=1"
+featuredImage: "/images/accommodation/sky-2-apartment-city-center-375755780.jpg"
 language: en
 slug: sky-2-apartment-city-center
 address: "Rruga Qemal Draçini 7th floor, Shkodër, Albania"

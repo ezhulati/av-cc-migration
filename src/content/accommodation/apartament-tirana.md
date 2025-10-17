@@ -1,7 +1,7 @@
 ---
 title: "Apartament Tirana"
 description: "Apartament Tirana emerges as a prime choice for travelers seeking comfort and convenience in Kashar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493836541.jpg?k=9f9c0b872251b3dee619a653129e287716879e9fc1b0831919a14bba7023ef09&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-tirana-493836541.jpg"
 language: en
 slug: apartament-tirana
 address: "Rruga Ardeno, 1050 Kashar, Albania"

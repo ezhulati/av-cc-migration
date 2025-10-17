@@ -1,7 +1,7 @@
 ---
 title: "Keli's Place"
 description: "Keli's Place emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from the pristine Vlore Beach and within easy reach of Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364683503.jpg?k=5e2b2746148552752326ff67f5b6475557689a87db60962af47d6388d0cd72bd&o=&hp=1"
+featuredImage: "/images/accommodation/keli-s-place-364683503.jpg"
 language: en
 slug: keli-s-place
 address: "Rruga Çamëria, 9401 Vlorë, Albania"

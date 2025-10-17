@@ -1,7 +1,7 @@
 ---
 title: "Gold Hotel"
 description: "Gold Hotel, situated 43 km from the serene Ohrid Lake Springs, stands out as a prime choice for travelers seeking comfortable 3-star accommodations in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151581193.jpg?k=5a02b4c15e0e06dbcf460ed78c9776af7d86d1c6cb41ff4d907918ea8f2451c7&o=&hp=1"
+featuredImage: "/images/accommodation/gold-hotel-151581193.jpg"
 language: en
 slug: gold-hotel
 address: "Rr. Kico Golniku, 7000 Korçë, Albania"

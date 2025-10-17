@@ -1,7 +1,7 @@
 ---
 title: "Tree Hotel"
 description: "Tree Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420803615.jpg?k=862361e9a4b441db481ef3b7075b259a1551c4789575af1702ac2b9706c10254&o=&hp=1"
+featuredImage: "/images/accommodation/tree-hotel-420803615.jpg"
 language: en
 slug: tree-hotel
 address: "Rruga Ajet Xhindolli pazari i vjeter, 7001 Korçë, Albania"

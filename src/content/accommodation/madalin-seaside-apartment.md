@@ -1,7 +1,7 @@
 ---
 title: "Madalin Seaside Apartment"
 description: "Madalin Seaside Apartment emerges as a modern retreat in the heart of Vlorë, boasting a prime location just a stone's throw away from Vjetër Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466628868.jpg?k=cda0070520635bd65bf991324d1ea84e2c45b82274656e3f6124ab7f89f479d0&o=&hp=1"
+featuredImage: "/images/accommodation/madalin-seaside-apartment-466628868.jpg"
 language: en
 slug: madalin-seaside-apartment
 address: "Rr. Sazani Nd.47 H.1 Ap. 35, 9403 Vlorë, Albania"

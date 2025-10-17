@@ -1,7 +1,7 @@
 ---
 title: "Sol Apartment"
 description: "Sol Apartment emerges as a prime choice for travelers seeking comfort and convenience in Lezhë, situated within easy reach of notable landmarks such as Rozafa Castle Shkodra and Lake Skadar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378618967.jpg?k=a78e19a5e3c9e3a9c05809339dc2a6259d29c6d1a02619cc83ee25529e04637c&o=&hp=1"
+featuredImage: "/images/accommodation/sol-apartment-378618967.jpg"
 language: en
 slug: sol-apartment
 address: "Shëtitorja Gjergj Fishta, Pll Jolly, 4501 Lezhë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Green Terrace Apartment 7"
 description: "Green Terrace Apartment 7 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510600762.jpg?k=a00cc7830287dfd0701a558fc8a78253ef04abf752d7b72b6f786f4e2e9819a0&o=&hp=1"
+featuredImage: "/images/accommodation/green-terrace-apartment-7-510600762.jpg"
 language: en
 slug: green-terrace-apartment-7
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Lida"
 description: "Vila Lida emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370267309.jpg?k=e8ea970749d621c24365230bd53e1791ac9a20d3f3ffb0bf4c49fc3e272f3b4a&o=&hp=1"
+featuredImage: "/images/accommodation/vila-lida-370267309.jpg"
 language: en
 slug: vila-lida
 address: "Rruga Bilal Golemi, 9701 Sarandë, Albania"

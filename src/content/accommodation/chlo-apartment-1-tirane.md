@@ -1,7 +1,7 @@
 ---
 title: "Chlo apartment 1 Tirane"
 description: "Chlo Apartment 1 Tirane emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367829638.jpg?k=0617e9dedf759b574281c7df8d64d7f0575067e08a2f8d298954c6125635406b&o=&hp=1"
+featuredImage: "/images/accommodation/chlo-apartment-1-tirane-367829638.jpg"
 language: en
 slug: chlo-apartment-1-tirane
 address: "Rruga Manol Konomi , pallati 10 , nr 1, 1001 Tirana, Albania"

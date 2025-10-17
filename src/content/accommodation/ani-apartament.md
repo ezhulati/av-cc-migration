@@ -1,7 +1,7 @@
 ---
 title: "Ani Apartament"
 description: "Ani Apartament stands as a prime choice for travelers seeking a beachfront oasis in Durrës, merely a stone's throw away from Currila Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412494218.jpg?k=e02335a59876e60bfb7d44e2a708b7a05894a3d14fc85bd4a1232cfbc8f77e7e&o=&hp=1"
+featuredImage: "/images/accommodation/ani-apartament-412494218.jpg"
 language: en
 slug: ani-apartament
 address: "Rruga e Epikadeve Multi Party Shop, Kati 2, 1501 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ocean Pearl Shengjin"
 description: "Ocean Pearl Shengjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Skataj."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467751562.jpg?k=fc05efa0927157cb8ea7efa793d04d199ecbcd4771f385a62adfe7c0198f3b47&o=&hp=1"
+featuredImage: "/images/accommodation/ocean-pearl-shengjin-467751562.jpg"
 language: en
 slug: ocean-pearl-shengjin
 address: "Rruga Shëngjin - Kune Kati 3, Skataj, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sadet's Penthouse Saranda"
 description: "Sadet's Penthouse Saranda emerges as a prime beachfront gem in Sarandë, boasting an enviable location just 80 meters from Mango Beach and a stone's throw away from Flamingo Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"
+featuredImage: "/images/accommodation/sadet-s-penthouse-saranda-03bc324ed9f9.jpg"
 language: en
 slug: sadet-s-penthouse-saranda
 address: "Rruga Butrinti Kanali i çukes, 9702 Sarandë, Albania"

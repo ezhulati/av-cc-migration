@@ -1,7 +1,7 @@
 ---
 title: "LOVE TIRANA APARTMENT x 6 people"
 description: "Discover the charm of Tirana with a stay at LOVE TIRANA APARTMENT, a prime choice for groups of up to six seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480788600.jpg?k=bf392688d34a36bc112103fee22a95c16475cb487c799b3fadd2f1eb135a41ec&o=&hp=1"
+featuredImage: "/images/accommodation/love-tirana-apartment-x-6-people-480788600.jpg"
 language: en
 slug: love-tirana-apartment-x-6-people
 address: "5 Rruga Mihal Grameno, 1010 Tirana, Albania"

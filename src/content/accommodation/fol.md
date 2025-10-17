@@ -1,7 +1,7 @@
 ---
 title: "Folè"
 description: "Folè stands out as a modern retreat in the heart of Berat, offering guests a unique blend of comfort and convenience with its air-conditioned rooms that boast stunning views of the cityscape."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+featuredImage: "/images/accommodation/fol-8ecb6dbf787b.jpg"
 language: en
 slug: fol
 address: "Rruga Antipatrea Mangalem , next to the Mosque, 5001 Berat, Albania"

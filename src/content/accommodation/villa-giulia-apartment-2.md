@@ -1,7 +1,7 @@
 ---
 title: "Villa Giulia Apartment 2"
 description: "Villa Giulia Apartment 2 stands as a prime choice for travelers seeking a serene getaway in Sarandë, located just a stone's throw away from the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/villa-giulia-apartment-2-f69a0f45af41.jpg"
 language: en
 slug: villa-giulia-apartment-2
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

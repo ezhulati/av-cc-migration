@@ -1,7 +1,7 @@
 ---
 title: "SKY Apartment"
 description: "SKY Apartment emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/sky-apartment-d2bf46fbe4c1.jpg"
 language: en
 slug: sky-apartment
 address: "bulevardi \"Ismail Qemali, 9402 Vlorë, Albania"

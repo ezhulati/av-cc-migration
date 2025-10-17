@@ -1,7 +1,7 @@
 ---
 title: "Cathedral Boutique Hotel"
 description: "Cathedral Boutique Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240332835.jpg?k=f92a08bde48ae3182424898926963ffb41493c1915fdd5baa87ed246e10077a0&o=&hp=1"
+featuredImage: "/images/accommodation/cathedral-boutique-hotel-240332835.jpg"
 language: en
 slug: cathedral-boutique-hotel
 address: "Bulevardi Republika Perballe Katedrales Korce, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Arté Boutique Hotel"
 description: "Arté Boutique Hotel stands out as a premier destination for travelers seeking a blend of luxury and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/231842330.jpg?k=0415618d38120c9b6db3db57b028b3657a68d839c0f4fe6d2de4fdad40810592&o=&hp=1"
+featuredImage: "/images/accommodation/art-boutique-hotel-231842330.jpg"
 language: en
 slug: art-boutique-hotel
 address: "32 Rruga Ibrahim Rugova, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Orkida"
 description: "Orkida emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486837601.jpg?k=a4202e90496e6c43f1e6b31ce94cc08b054b2a06e6d619265642c953ebfe98c9&o=&hp=1"
+featuredImage: "/images/accommodation/orkida-486837601.jpg"
 language: en
 slug: orkida
 address: "Rruga Aleks Çaçi, Vlorë, Albania"

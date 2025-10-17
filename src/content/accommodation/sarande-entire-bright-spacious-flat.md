@@ -1,7 +1,7 @@
 ---
 title: "Sarande Entire bright & spacious Flat"
 description: "Sarande Entire Bright & Spacious Flat offers a refreshing retreat for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522747642.jpg?k=c066f9d8b97f4aeb80a507262c93d2929791f0f303d2c0e13711251f3965f732&o=&hp=1"
+featuredImage: "/images/accommodation/sarande-entire-bright-spacious-flat-522747642.jpg"
 language: en
 slug: sarande-entire-bright-spacious-flat
 address: "Rruga Sabri Preveza, 9701 Sarandë, Albania"

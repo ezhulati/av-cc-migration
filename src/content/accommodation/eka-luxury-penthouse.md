@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury Penthouse"
 description: "EKA Luxury Penthouse emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148433330.jpg?k=635244af2d2d9ea66476be027016a3f72d860c8b219de59e5d09548a9e88fd23&o=&hp=1"
+featuredImage: "/images/accommodation/eka-luxury-penthouse-148433330.jpg"
 language: en
 slug: eka-luxury-penthouse
 address: "Rruga Qafe Bote, 1001 Durrës, Albania"

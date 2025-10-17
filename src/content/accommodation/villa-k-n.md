@@ -1,7 +1,7 @@
 ---
 title: "Villa K & N"
 description: "Villa K & N emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482088529.jpg?k=45ec171cdbc353dd00df7c09ad363cc32ee6872f82444008f451513e81292761&o=&hp=1"
+featuredImage: "/images/accommodation/villa-k-n-482088529.jpg"
 language: en
 slug: villa-k-n
 address: "1 Rruga Lefter Talo 116, 9702 Sarandë, Albania"

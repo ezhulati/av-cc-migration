@@ -1,7 +1,7 @@
 ---
 title: "Laguna e re"
 description: "Laguna e re emerges as a serene oasis in Fushëkuqe, offering a tranquil retreat just 47 km away from the bustling Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514751566.jpg?k=2c429e3a7f85ccd0b8b8f86aeaee4aa906f6e07ff91ed50f6b32816850155c32&o=&hp=1"
+featuredImage: "/images/accommodation/laguna-e-re-514751566.jpg"
 language: en
 slug: laguna-e-re
 address: "JHQR+8P7,Patoku Lagoon,Patok, 4706 Fushëkuqe, Albania"

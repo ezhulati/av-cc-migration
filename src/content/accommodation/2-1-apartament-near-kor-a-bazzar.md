@@ -1,7 +1,7 @@
 ---
 title: "2+1 Apartament near Korça Bazzar"
 description: "Discover the charm of Korçë with a stay at the 2+1 Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502084094.jpg?k=5a859e35b9c62ceb269e45dc216b2400c22bbc3fa05d7b829af5775093c912a1&o=&hp=1"
+featuredImage: "/images/accommodation/2-1-apartament-near-kor-a-bazzar-502084094.jpg"
 language: en
 slug: 2-1-apartament-near-kor-a-bazzar
 address: "Rruga Midhi Kostani, 7000 Korçë, Albania"

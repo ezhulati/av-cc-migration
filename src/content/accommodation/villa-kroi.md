@@ -1,7 +1,7 @@
 ---
 title: "Villa Kroi"
 description: "Villa Kroi stands out as a premier choice for travelers seeking comfortable lodging in Berat."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/villa-kroi-8d80ab6bf73f.jpg"
 language: en
 slug: villa-kroi
 address: "Rruga Gaqi Gjika, 5001 Berat, Albania"

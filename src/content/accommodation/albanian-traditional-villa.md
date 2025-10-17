@@ -1,7 +1,7 @@
 ---
 title: "Albanian traditional Villa"
 description: "Albanian Traditional Villa emerges as a serene retreat in the heart of Librazhd, situated approximately 47 km from the historic Monastery of Saint George the Victorious."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/albanian-traditional-villa-d321d61d78a8.jpg"
 language: en
 slug: albanian-traditional-villa
 address: "Fushe Studen, 3412 Librazhd, Albania"

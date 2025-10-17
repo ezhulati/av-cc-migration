@@ -1,7 +1,7 @@
 ---
 title: "Arber Hotel"
 description: "Discover the charm of Tirana with a stay at the Arber Hotel, a gem located just a stone's throw away from the bustling Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466280374.jpg?k=0aa4a7462c5e51b5e4f92844203d67192d5620cca4c5793fe92c2202b63460c9&o=&hp=1"
+featuredImage: "/images/accommodation/arber-hotel-466280374.jpg"
 language: en
 slug: arber-hotel
 address: "rr. Bardhok Biba, 1001 Tirana, Albania"

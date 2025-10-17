@@ -1,7 +1,7 @@
 ---
 title: "Alkets apartaament"
 description: "Alkets Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519993498.jpg?k=c6827b14276b71e9e3d566e50c3a7662191ee73c748c6a1dfe5a7945ea49dfc0&o=&hp=1"
+featuredImage: "/images/accommodation/alkets-apartaament-519993498.jpg"
 language: en
 slug: alkets-apartaament
 address: "Shëtitorja Wilson, 4503 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Allure Violin Apartment"
 description: "Allure Violin Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523867455.jpg?k=5d1510c7ba75df667652e8c884ed197ea82b9bc0f6c2cf03844cc8bfd5ed980f&o=&hp=1"
+featuredImage: "/images/accommodation/allure-violin-apartment-523867455.jpg"
 language: en
 slug: allure-violin-apartment
 address: "Rruga Qemal Stafa, Tirana, Albania"

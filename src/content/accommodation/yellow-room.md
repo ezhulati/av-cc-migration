@@ -1,7 +1,7 @@
 ---
 title: "YELLOW ROOM"
 description: "YELLOW ROOM emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333328807.jpg?k=27ce9b26aebc92c35a2ff1bb3eaf6550f35717f71422f6b272524fbd6077a360&o=&hp=1"
+featuredImage: "/images/accommodation/yellow-room-333328807.jpg"
 language: en
 slug: yellow-room
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

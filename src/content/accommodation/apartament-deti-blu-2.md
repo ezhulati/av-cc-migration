@@ -1,7 +1,7 @@
 ---
 title: "Apartament Deti Blu 2"
 description: "Discover the charm of Vlorë with a stay at Apartament Deti Blu 2, a beachfront gem that promises more than just a place to sleep."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474933015.jpg?k=988dc1a03f7727f7826c7c3a62fbb6d99f11767f67360233118dfb5de3140b0c&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-deti-blu-2-474933015.jpg"
 language: en
 slug: apartament-deti-blu-2
 address: "Rruga Aleksandër Moisiu Vlore Uji i ftohtë, Vlore, 9405 Vlorë, Albania"

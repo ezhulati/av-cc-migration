@@ -1,7 +1,7 @@
 ---
 title: "Ballo Apartments"
 description: "Ballo Apartments stands out as a premier choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/240599069.jpg?k=f4628d1a0a71548ba48615e93477a1055bf0f89d011a67dc8841687cc069e5e2&o=&hp=1"
+featuredImage: "/images/accommodation/ballo-apartments-240599069.jpg"
 language: en
 slug: ballo-apartments
 address: "Rruga e Zejtareve, 6001 Gjirokastër, Albania"

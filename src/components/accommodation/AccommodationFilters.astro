@@ -251,24 +251,14 @@ const { starRatings, types, locations } = Astro.props;
     max-height: calc(100vh - 120px);
     overflow-y: auto;
     overflow-x: hidden;
+    /* Hide scrollbar but keep functionality */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
   }
 
-  /* Scrollbar Styling */
+  /* Hide scrollbar for Chrome, Safari and Opera */
   .filters-sidebar::-webkit-scrollbar {
-    width: 6px;
-  }
-
-  .filters-sidebar::-webkit-scrollbar-track {
-    background: #f5f5f5;
-  }
-
-  .filters-sidebar::-webkit-scrollbar-thumb {
-    background: #d0d0d0;
-    border-radius: 3px;
-  }
-
-  .filters-sidebar::-webkit-scrollbar-thumb:hover {
-    background: #b0b0b0;
+    display: none;
   }
 
   .close-filters-mobile {

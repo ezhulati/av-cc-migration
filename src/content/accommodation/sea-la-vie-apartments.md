@@ -1,7 +1,7 @@
 ---
 title: "Sea La Vie Apartments"
 description: "Sea La Vie Apartments emerges as a prime choice for travelers seeking a serene getaway in Ksamil, boasting an enviable proximity to the shimmering shores of Coco Beach and Bora Bora Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470102550.jpg?k=85012b3e5dbf16fdb9d632fc800e1930c0e3233deaff4cca302f00942bfce69f&o=&hp=1"
+featuredImage: "/images/accommodation/sea-la-vie-apartments-470102550.jpg"
 language: en
 slug: sea-la-vie-apartments
 address: "Tafil Buzi,Ksamil 9706 39.7724954,20.0066343, 9706 Ksamil, Albania"

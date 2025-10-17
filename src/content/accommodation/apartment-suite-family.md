@@ -1,7 +1,7 @@
 ---
 title: "Apartment Suite Family"
 description: "Apartment Suite Family stands as a prime choice for travelers seeking a serene beachfront retreat in Shëngjin."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/apartment-suite-family-f69a0f45af41.jpg"
 language: en
 slug: apartment-suite-family
 address: "Bulevardi Nënë Tereza, 4503 Shëngjin, Albania"

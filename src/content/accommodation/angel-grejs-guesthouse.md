@@ -1,7 +1,7 @@
 ---
 title: "Angel&Grejs Guesthouse"
 description: "Angel&Grejs Guesthouse emerges as a serene retreat in the heart of Ksamil, boasting accommodations that offer stunning garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461966730.jpg?k=082d1eabf179440ad906ce5ed2637758a4c1090614ac6453ddb93b23855f8145&o=&hp=1"
+featuredImage: "/images/accommodation/angel-grejs-guesthouse-461966730.jpg"
 language: en
 slug: angel-grejs-guesthouse
 address: "Rruga 28 nentori Ksamil 1, 9706 Ksamil, Albania"

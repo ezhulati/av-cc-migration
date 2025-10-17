@@ -1,7 +1,7 @@
 ---
 title: "Posh villa 2"
 description: "Posh Villa 2 emerges as a premier choice for travelers seeking a blend of comfort and convenience in Kavajë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376718680.jpg?k=514c480da57d7b07f031993e27ddef197a5d1aae7c87a087a5317803e46b57e2&o=&hp=1"
+featuredImage: "/images/accommodation/posh-villa-2-376718680.jpg"
 language: en
 slug: posh-villa-2
 address: "spille, 2501 Kavajë, Albania"

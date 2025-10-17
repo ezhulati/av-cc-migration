@@ -1,7 +1,7 @@
 ---
 title: "Flamingo"
 description: "Flamingo stands as a prime beachfront gem in Vlorë, merely 70 meters from the pristine Vlore Beach and a short stroll from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514471593.jpg?k=be816a3d5e0e5bd0b0acdff9f8a168402e51337a6a36988f404c2d271910c4cf&o=&hp=1"
+featuredImage: "/images/accommodation/flamingo-514471593.jpg"
 language: en
 slug: flamingo
 address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Liana Voskopoje"
 description: "Bujtina Liana Voskopoje emerges as a serene retreat in the heart of Voskopojë, offering guests an intimate glimpse into the tranquil beauty of its surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382712159.jpg?k=5c2dd23315ab62363c8b9aff4abae74685aed51ea15f85fa5ac8b82d1bf73079&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-liana-voskopoje-382712159.jpg"
 language: en
 slug: bujtina-liana-voskopoje
 address: "Rruga Koste Cekani, 7029 Voskopojë, Albania"

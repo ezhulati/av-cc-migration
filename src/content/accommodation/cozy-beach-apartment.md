@@ -1,7 +1,7 @@
 ---
 title: "Cozy beach apartment"
 description: "Cozy Beach Apartment emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477930506.jpg?k=51e65568d35ec3876e3b32bfbe192aef14b28fd6e0bbf0dc012c322446ad03fe&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-beach-apartment-477930506.jpg"
 language: en
 slug: cozy-beach-apartment
 address: "Rruga Qerret Plazh, 1001 Golem, Albania"

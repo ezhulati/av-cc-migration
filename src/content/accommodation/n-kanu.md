@@ -1,7 +1,7 @@
 ---
 title: "N’Kanu"
 description: "N'Kanu emerges as a serene retreat in the heart of Rrëshen, Lezhë County, offering a unique blend of comfort and adventure with its array of family-friendly amenities and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476671342.jpg?k=624475f44202d66d08401b0184e1c13f4412d2cba6fb24d5555a5b021ff4adc9&o=&hp=1"
+featuredImage: "/images/accommodation/n-kanu-476671342.jpg"
 language: en
 slug: n-kanu
 address: "Bojdine Perlat, 4606 Rrëshen, Albania"

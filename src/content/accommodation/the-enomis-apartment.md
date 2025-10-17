@@ -1,7 +1,7 @@
 ---
 title: "The Enomis Apartment"
 description: "Discover the charm of Vlorë with a stay at The Enomis Apartment, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350346963.jpg?k=aaa3702d64ec85debab0afe9334b0eb9a38bdc60d9b861ad4656fd5c006b417b&o=&hp=1"
+featuredImage: "/images/accommodation/the-enomis-apartment-350346963.jpg"
 language: en
 slug: the-enomis-apartment
 address: "Rr. Gjergj Arianiti, Vlorë, Albania"

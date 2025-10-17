@@ -1,7 +1,7 @@
 ---
 title: "Hotel Saly"
 description: "Hotel Saly stands as a beacon of comfort and convenience in the heart of Durrës, mere steps away from the inviting sands of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484554908.jpg?k=2c7999f94162d7631c58951a70effa9c0694877d1c887cc8b3ffa3ee4be772a2&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-saly-484554908.jpg"
 language: en
 slug: hotel-saly
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

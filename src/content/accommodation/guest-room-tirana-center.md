@@ -1,7 +1,7 @@
 ---
 title: "Guest Room Tirana Center"
 description: "Guest Room Tirana Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476985992.jpg?k=b5f614ba2b9d68ca69632385480b4b79f5d281acab9ce30508f3b768ee27ef67&o=&hp=1"
+featuredImage: "/images/accommodation/guest-room-tirana-center-476985992.jpg"
 language: en
 slug: guest-room-tirana-center
 address: "Rruga Bardhok Biba, 1001 Tirana, Albania"

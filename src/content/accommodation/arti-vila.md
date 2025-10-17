@@ -1,7 +1,7 @@
 ---
 title: "Arti Vila"
 description: "Arti Vila emerges as a serene retreat in Ksamil, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105204510.jpg?k=54abb15af7823e2d57d061cdb2fd1671919a2ddcb12db4747ac88c44c71b25cf&o=&hp=1"
+featuredImage: "/images/accommodation/arti-vila-105204510.jpg"
 language: en
 slug: arti-vila
 address: "Hoxha Tahsim Ksamil pashko vasa 12.3, 1023 Ksamil, Albania"

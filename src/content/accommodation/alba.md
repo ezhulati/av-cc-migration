@@ -1,7 +1,7 @@
 ---
 title: "ALBA"
 description: "ALBA emerges as a modern oasis in the heart of Tirana, boasting a prime location that places guests mere moments from iconic landmarks such as Skanderbeg Square, the Bektashi World Centre, and the historic Tanners' Bridge."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462196229.jpg?k=bb6c0ee7f31b94f324a1dffd70a4d74856a14cbc5ded63b9b3fbe3ce3dde038e&o=&hp=1"
+featuredImage: "/images/accommodation/alba-462196229.jpg"
 language: en
 slug: alba
 address: "Bulevardi Bajram Curri Nd 308, H2, Ap 3, second floor, 1004 Tirana, Albania"

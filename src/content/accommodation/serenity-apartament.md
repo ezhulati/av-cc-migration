@@ -1,7 +1,7 @@
 ---
 title: "Serenity Apartament"
 description: "Serenity Apartament emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383738300.jpg?k=769e5e9a6f558deb01e3ee1bd8fd076d98b567e2ee8e695b4e3c0c8a68b97474&o=&hp=1"
+featuredImage: "/images/accommodation/serenity-apartament-383738300.jpg"
 language: en
 slug: serenity-apartament
 address: "Rruga Asdreni, Tirana, Albania"

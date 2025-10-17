@@ -1,7 +1,7 @@
 ---
 title: "Hotel Zogu"
 description: "Hotel Zogu stands out as a prime choice for travelers seeking comfort and convenience in Bulqizë, located just 38 km away from the historic Monastery of Saint George the Victorious."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518335568.jpg?k=4819c8227243cf50b70dd6a6a9070bd218401f62acde38c25cf6cba80688a18b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-zogu-518335568.jpg"
 language: en
 slug: hotel-zogu
 address: "Bulqize, 8401 Bulqizë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Osmani"
 description: "Villa Osmani emerges as a serene retreat in Durrës, boasting a coveted private beach area and breathtaking lake views, merely 700 meters from Durres Beach and a scenic 38 km drive from Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522459091.jpg?k=696b131743f0d0de2129778110dd2eb450533f9371564f61723538c3a8ab885c&o=&hp=1"
+featuredImage: "/images/accommodation/villa-osmani-522459091.jpg"
 language: en
 slug: villa-osmani
 address: "Rruga Daunia 54, 2001 Durrës, Albania"

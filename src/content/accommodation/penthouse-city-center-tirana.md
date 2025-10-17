@@ -1,7 +1,7 @@
 ---
 title: "Penthouse City Center, Tirana"
 description: "Penthouse City Center, Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487867322.jpg?k=3191bc27dcda138b3ae9ee0ad74935adb2b2dadd42b91d028c4b78ecff11b7bc&o=&hp=1"
+featuredImage: "/images/accommodation/penthouse-city-center-tirana-487867322.jpg"
 language: en
 slug: penthouse-city-center-tirana
 address: "Rruga Kajo Karafili, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Demaj"
 description: "Apartment Demaj emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211028151.jpg?k=2908939af578cd4e6e0e3fe571f39585beda536f7384d741bfc3c3d804cff872&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-demaj-211028151.jpg"
 language: en
 slug: apartment-demaj
 address: "Rruga Miro Torbaci 23, 9401 Vlorë, Albania"

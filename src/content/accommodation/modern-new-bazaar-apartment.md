@@ -1,7 +1,7 @@
 ---
 title: "Modern New Bazaar Apartment"
 description: "Modern New Bazaar Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407109929.jpg?k=3a84f15282e60d14dc69a5956f67b9a31ab46754ad37bd85a6aa3da8051d3652&o=&hp=1"
+featuredImage: "/images/accommodation/modern-new-bazaar-apartment-407109929.jpg"
 language: en
 slug: modern-new-bazaar-apartment
 address: "Rruga Hoxhë Vokrri, 1001 Tirana, Albania"

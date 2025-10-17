@@ -1,7 +1,7 @@
 ---
 title: "Perivolos Apartments"
 description: "Perivolos Apartments stands out as a prime choice for travelers seeking comfort and convenience in Dhermi."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/114427900.jpg?k=70a8b84d4fbbbb7834ea073f121503a40916ecae9baa46cfee84975451252fd1&o=&hp=1"
+featuredImage: "/images/accommodation/perivolos-apartments-114427900.jpg"
 language: en
 slug: perivolos-apartments
 address: "Kallam, Dhermi, 9425 Dhërmi, Albania"

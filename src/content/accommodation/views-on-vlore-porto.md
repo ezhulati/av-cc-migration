@@ -1,7 +1,7 @@
 ---
 title: "Views on Vlore - Porto"
 description: "Views on Vlore - Porto emerges as a prime choice for travelers seeking a serene seaside escape in Vlorë, perfectly positioned just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AGNmyxYOlYxiaju5lVmE03pHRFlFevvOSrrSf6BDQVR2=s96-c64"
+featuredImage: "/images/accommodation/views-on-vlore-porto-AGNmyxYOlYxi.jpg"
 language: en
 slug: views-on-vlore-porto
 address: "Rruga Kosova, 9401 Vlorë, Albania"

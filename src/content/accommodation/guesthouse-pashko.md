@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Pashko"
 description: "Guesthouse Pashko stands as a serene retreat in the heart of Theth, merely 3."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483454393.jpg?k=363a14b493bfb46b379fc2b26b2cf8d72b125b8170152287f11ba1a4ff50cd8a&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-pashko-483454393.jpg"
 language: en
 slug: guesthouse-pashko
 address: "theth, 4001 Theth, Albania"

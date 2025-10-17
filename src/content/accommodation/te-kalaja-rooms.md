@@ -1,7 +1,7 @@
 ---
 title: "Te Kalaja Rooms"
 description: "Te Kalaja Rooms emerges as a charming retreat in the heart of Gjirokastër, boasting breathtaking mountain and serene garden views, merely a stone's throw away from the tranquil Zaravina Lake at 44 km distance."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347476669.jpg?k=07eea870cbe8cbb23000eb211f232b64982e82b6e4c766d2cf4cdfa26d0ef078&o=&hp=1"
+featuredImage: "/images/accommodation/te-kalaja-rooms-347476669.jpg"
 language: en
 slug: te-kalaja-rooms
 address: "Rruga Evlia Celebi, 6001 Gjirokastër, Albania"

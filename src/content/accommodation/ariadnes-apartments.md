@@ -1,7 +1,7 @@
 ---
 title: "Ariadnes Apartments"
 description: "Ariadnes Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148084066.jpg?k=ad594144b0fcdf7f3964c30b54b879b090d4e68ea48afdcc8179ca483bc7ed0c&o=&hp=1"
+featuredImage: "/images/accommodation/ariadnes-apartments-148084066.jpg"
 language: en
 slug: ariadnes-apartments
 address: "Rruga Todi Shkurti, Teletubbies building, Vila 67, 1004 Tirana, Albania"

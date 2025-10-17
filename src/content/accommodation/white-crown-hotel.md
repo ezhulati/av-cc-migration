@@ -1,7 +1,7 @@
 ---
 title: "WHITE CROWN HOTEL"
 description: "Discover the elegance and comfort of WHITE CROWN HOTEL, a premier destination located just 8."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303690024.jpg?k=3fd17f17171486ebfc1b917ada011e8e892f7a7ec6879e0afddc431ca33562b2&o=&hp=1"
+featuredImage: "/images/accommodation/white-crown-hotel-303690024.jpg"
 language: en
 slug: white-crown-hotel
 address: "Rruga Liria, 1030 Kamëz, Albania"

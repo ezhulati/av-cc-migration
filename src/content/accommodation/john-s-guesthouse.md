@@ -1,7 +1,7 @@
 ---
 title: "John's Guesthouse"
 description: "John's Guesthouse emerges as a charming retreat just 250 meters from the pristine beaches of Ksamil, offering guests a serene escape with the convenience of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259323655.jpg?k=7dc492be8b68dfbe7afd3658be4adda3225e88c131b1c534525d9c899f24ff42&o=&hp=1"
+featuredImage: "/images/accommodation/john-s-guesthouse-259323655.jpg"
 language: en
 slug: john-s-guesthouse
 address: "Xamili, 9706 Ksamil, Albania"

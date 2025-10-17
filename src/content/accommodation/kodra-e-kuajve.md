@@ -1,7 +1,7 @@
 ---
 title: "Kodra e Kuajve"
 description: "Kodra e Kuajve emerges as a serene oasis in Durrës, merely 400 meters from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/169247793.jpg?k=dabeef5cbeff50e77969b3c4e416069748f809bb202f03b693bffe5819e3e8c4&o=&hp=1"
+featuredImage: "/images/accommodation/kodra-e-kuajve-169247793.jpg"
 language: en
 slug: kodra-e-kuajve
 address: "Rruga Shkembi i Kavajes, Durrës, Albania Kodër Dedej, tek Shkëmbi i Kavajës, Shkallnur, Durrës, 2001 Durrës, Albania"

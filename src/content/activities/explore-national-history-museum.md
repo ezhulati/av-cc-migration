@@ -2,7 +2,7 @@
 title: Journey Through History
 description: The National History Museum in Tirana offers more than just a walk through Albania's past. With interactive exhibits, educational programs, and special events, it's a place where history comes alive.
 category: Museums
-featuredImage: ""
+featuredImage: "/images/attractions/National-Museum-of-History-in-center-of-Tirana-Albania.jpeg"
 language: en
 slug: explore-national-history-museum
 seo:

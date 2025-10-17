@@ -1,7 +1,7 @@
 ---
 title: "Lovely place. Close to beach & Boulevard"
 description: "In the heart of Vlorë, a stone's throw from the serene Vjetër Beach and the vibrant Vlore Beach, stands Lovely Place, a recently renovated gem that offers more than just a stay—it promises an experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271714818.jpg?k=a2f824a022d6c00fe0e94119057aab37c6ecdff4cee7c60c9eaaffbcdd08148c&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-place-close-to-beach-boulevard-271714818.jpg"
 language: en
 slug: lovely-place-close-to-beach-boulevard
 address: "Rruga Kosova ap floor 6 door 8, 1057 Vlorë, Albania"

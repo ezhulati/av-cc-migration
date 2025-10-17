@@ -1,7 +1,7 @@
 ---
 title: "Elios room 1"
 description: "Elios Room 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490238400.jpg?k=0c7c2979aa0ba8dd984e1edaeece3e9d9fa115052a75288feb9e5bc6817807f3&o=&hp=1"
+featuredImage: "/images/accommodation/elios-room-1-490238400.jpg"
 language: en
 slug: elios-room-1
 address: "Rruga Xhezmi Delli 3, 1001 Tirana, Albania"

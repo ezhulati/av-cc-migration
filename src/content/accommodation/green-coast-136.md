@@ -1,7 +1,7 @@
 ---
 title: "Green Coast 136"
 description: "Green Coast 136 emerges as a serene retreat, offering guests a unique blend of comfort and natural beauty, just a stone's throw away from Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403273206.jpg?k=3926679ae70a2779225a6b75363ba3582202d2104858753f26924896d4461147&o=&hp=1"
+featuredImage: "/images/accommodation/green-coast-136-403273206.jpg"
 language: en
 slug: green-coast-136
 address: "Green Coast Resort, Palasa, Dhermi, 1001 Dhërmi, Albania"

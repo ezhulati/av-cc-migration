@@ -1,7 +1,7 @@
 ---
 title: "Sar'Otel Boutique Hotel"
 description: "Discover the charm of Sar'Otel Boutique Hotel, a gem located in the heart of Tirana, merely steps away from the iconic Skenderberg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46649316.jpg?k=7722d7d7fe9ee5f9a4e9221bc6416422a92dc7a788919f3eb23a143fdb622042&o=&hp=1"
+featuredImage: "/images/accommodation/sar-otel-boutique-hotel-46649316.jpg"
 language: en
 slug: sar-otel-boutique-hotel
 address: "Street Kostandin Kristoforidhi Nr.1, 1001 Tirana, Albania"

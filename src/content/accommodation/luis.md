@@ -1,7 +1,7 @@
 ---
 title: "Luis"
 description: "Luis Apartments offer a serene retreat in the heart of Vlorë, a stone's throw away from the pristine Liro Beach and the vibrant Coco Bongo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474552281.jpg?k=cdb61a8115248961af613d7cec6cdbb366bf378d805e78d591ad0bb706f8e704&o=&hp=1"
+featuredImage: "/images/accommodation/luis-474552281.jpg"
 language: en
 slug: luis
 address: "Sali vranishti, 9401 Vlorë, Albania"

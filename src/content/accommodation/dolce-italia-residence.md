@@ -1,7 +1,7 @@
 ---
 title: "Dolce Italia Residence"
 description: "Dolce Italia Residence emerges as a serene oasis in Radhimë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-y/ea90dc6a44b984e60291f9db43e96ddfa72b1aef.png"
+featuredImage: "/images/accommodation/dolce-italia-residence-ea90dc6a44b9.jpg"
 language: en
 slug: dolce-italia-residence
 address: "zona Kadastrale ,3140, 9426 Radhimë, Albania"

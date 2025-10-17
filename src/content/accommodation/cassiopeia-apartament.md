@@ -1,7 +1,7 @@
 ---
 title: "Cassiopeia Apartament"
 description: "Discover the charm of Tirana from the comfort of Cassiopeia Apartament, a prime choice for travelers seeking both convenience and style."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145400082.jpg?k=de3a025155dcd5ad02d54ce40f07a57ec43e8043582d8f8b7be06a64f682c3ea&o=&hp=1"
+featuredImage: "/images/accommodation/cassiopeia-apartament-145400082.jpg"
 language: en
 slug: cassiopeia-apartament
 address: "Rruga Artan Lenja Cassiopeia, Ap 59,, 1000 Tirana, Albania"

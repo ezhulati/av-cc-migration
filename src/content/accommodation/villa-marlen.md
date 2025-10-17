@@ -1,7 +1,7 @@
 ---
 title: "VILLA MARLEN"
 description: "Villa Marlen emerges as a serene retreat, boasting garden views that complement its proximity to the pristine Ksamil Beach, just a mere 300 meters away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515109277.jpg?k=c813b2e8c2a6bbb2eb7de7d25f58157fc1acc86107bbcbebda7a4c0993658219&o=&hp=1"
+featuredImage: "/images/accommodation/villa-marlen-515109277.jpg"
 language: en
 slug: villa-marlen
 address: "SH81, 9706 Ksamil, Albania"

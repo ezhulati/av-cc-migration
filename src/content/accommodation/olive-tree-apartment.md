@@ -1,7 +1,7 @@
 ---
 title: "Olive Tree Apartment"
 description: "Olive Tree Apartment emerges as a prime choice for travelers seeking comfort and convenience mere steps away from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103665567.jpg?k=eb88869a9d1d427a48ba6a879b473b33a6748bd1b545ec64d36f2e884dc44c07&o=&hp=1"
+featuredImage: "/images/accommodation/olive-tree-apartment-103665567.jpg"
 language: en
 slug: olive-tree-apartment
 address: "Rruga Guri Nazifi Mitat Hoxha, 9703 Sarandë, Albania"

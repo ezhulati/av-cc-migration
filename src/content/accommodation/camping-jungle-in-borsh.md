@@ -1,7 +1,7 @@
 ---
 title: "Camping Jungle in Borsh"
 description: "Camping Jungle in Borsh offers an exceptional stay mere steps away from the pristine Borsh Beach, providing guests with a unique blend of convenience and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260272354.jpg?k=d4b7e86aafabedecc2d5aab062c196ab19e93e2e623be77b9389306c951a517a&o=&hp=1"
+featuredImage: "/images/accommodation/camping-jungle-in-borsh-260272354.jpg"
 language: en
 slug: camping-jungle-in-borsh
 address: "Rruga Plazhit, 9714 Borsh, Albania"

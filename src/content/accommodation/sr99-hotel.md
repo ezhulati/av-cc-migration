@@ -1,7 +1,7 @@
 ---
 title: "SR99 Hotel"
 description: "SR99 Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360990516.jpg?k=5b138ebb39b7723c2cb25dd1c070eeeac229d6d9e9baaf15876a3ee745784ad2&o=&hp=1"
+featuredImage: "/images/accommodation/sr99-hotel-360990516.jpg"
 language: en
 slug: sr99-hotel
 address: "31 Rruga Isuf Elezi, 1005 Tirana, Albania"

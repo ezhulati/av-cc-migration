@@ -1,7 +1,7 @@
 ---
 title: "Hotel Auto Grill Roberti"
 description: "Hotel Auto Grill Roberti stands out as a premier destination for travelers seeking comfort and convenience in Tepelenë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185862279.jpg?k=ac318e3c33b6ad3eab5c609924f379b99860aaf8dba0d9190761ef29943efcf0&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-auto-grill-roberti-185862279.jpg"
 language: en
 slug: hotel-auto-grill-roberti
 address: "Rruga Nacionale Tepelene - Gjirokaster Kilometri 3., 6300 Tepelenë, Albania"

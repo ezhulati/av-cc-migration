@@ -1,7 +1,7 @@
 ---
 title: "Starmar Hotel"
 description: "Starmar emerges as a serene oasis, offering guests a unique blend of comfort and natural beauty, just 20 km from the bustling Port of Durres."
-featuredImage: "https://lh4.googleusercontent.com/-z9TB5PYIpwk/AAAAAAAAAAI/AAAAAAAAAGs/p3Lf9f9ZV3A/photo.jpg?sz=64"
+featuredImage: "/images/accommodation/starmar-hotel-photo.jpg?sz.jpg"
 language: en
 slug: starmar-hotel
 address: "Valamar Residences, 2010 Durrës, Albania"

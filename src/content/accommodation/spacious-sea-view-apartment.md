@@ -1,7 +1,7 @@
 ---
 title: "Spacious Sea View Apartment"
 description: "Spacious Sea View Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, mere steps away from the pristine Saranda City Beach and a short stroll from the bustling Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409395172.jpg?k=dda624ad14c890f814b357cd1489915b88b396e48ad18329d8e99b2e29861ce1&o=&hp=1"
+featuredImage: "/images/accommodation/spacious-sea-view-apartment-409395172.jpg"
 language: en
 slug: spacious-sea-view-apartment
 address: "Rruga Onhezmi, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Era’s Downtown Appartment"
 description: "Era's Downtown Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502510477.jpg?k=ea2bd055c700f1a199d49f9e30879e3e34955baee5b7a3baa103b315c540abab&o=&hp=1"
+featuredImage: "/images/accommodation/era-s-downtown-appartment-502510477.jpg"
 language: en
 slug: era-s-downtown-appartment
 address: "8RQM+MC8, Tirana, Albania 20 7th floor, 1051 Tirana, Albania"

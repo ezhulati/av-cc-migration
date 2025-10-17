@@ -1,7 +1,7 @@
 ---
 title: "Vila 38"
 description: "Vila 38 emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439425579.jpg?k=d61c1c47426fbae57b46209ce99a3f3e763453ef640adc0cf568573e003a326f&o=&hp=1"
+featuredImage: "/images/accommodation/vila-38-439425579.jpg"
 language: en
 slug: vila-38
 address: "Rruga Çlirimi i Korçës, 7001 Korçë, Albania"

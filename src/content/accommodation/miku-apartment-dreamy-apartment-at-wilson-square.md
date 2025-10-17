@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment - DREAMY Apartment At Wilson Square"
 description: "Miku Apartment - DREAMY Apartment At Wilson Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358890342.jpg?k=42104f45e04a9d0397fcdca990e3d3847d3c02164afb5f2f801eac19d4115786&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-dreamy-apartment-at-wilson-square-358890342.jpg"
 language: en
 slug: miku-apartment-dreamy-apartment-at-wilson-square
 address: "Rruga Ymer Kurti, 1019 Tirana, Albania"

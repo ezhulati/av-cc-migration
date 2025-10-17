@@ -1,7 +1,7 @@
 ---
 title: "Qielli Mes Pallateve"
 description: "Qielli Mes Pallateve emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516084594.jpg?k=9a9bdb1b5df7a8e7ef2e713ff9f433b1b94fd2de311f8e0d749bdcce026fdf4d&o=&hp=1"
+featuredImage: "/images/accommodation/qielli-mes-pallateve-516084594.jpg"
 language: en
 slug: qielli-mes-pallateve
 address: "Rruga Zenel Bastari, 1001 Tirana, Albania"

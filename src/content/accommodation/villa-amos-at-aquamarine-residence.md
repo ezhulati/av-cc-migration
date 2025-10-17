@@ -1,7 +1,7 @@
 ---
 title: "Villa Amos at Aquamarine Residence"
 description: "Villa Amos at Aquamarine Residence emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic beauty in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365058299.jpg?k=8175726b686ee4a1910ab35ea15e82e8a5ad687988597404c4bb7c811110c922&o=&hp=1"
+featuredImage: "/images/accommodation/villa-amos-at-aquamarine-residence-365058299.jpg"
 language: en
 slug: villa-amos-at-aquamarine-residence
 address: "9405 SH8, 9405 Vlorë, Albania"

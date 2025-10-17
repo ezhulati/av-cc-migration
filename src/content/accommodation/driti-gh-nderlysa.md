@@ -1,7 +1,7 @@
 ---
 title: "Driti GH Nderlysa"
 description: "Driti GH Nderlysa emerges as a serene retreat for travelers seeking solace amidst nature, located just 8."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478361451.jpg?k=bd8a3cf5a5879ee7ee5806807d8292961593d383af0e872b04141a3f637ad13d&o=&hp=1"
+featuredImage: "/images/accommodation/driti-gh-nderlysa-478361451.jpg"
 language: en
 slug: driti-gh-nderlysa
 address: "Rruga Nderlysa none, 4027 Shkodër, Albania"

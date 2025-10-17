@@ -1,7 +1,7 @@
 ---
 title: "Jon's Duplex"
 description: "Jon's Duplex emerges as a serene retreat in the heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420968406.jpg?k=21c3270c77d7783d59ca1ca184f3f358af23cdb56202ced994ceba5154f9a1b3&o=&hp=1"
+featuredImage: "/images/accommodation/jon-s-duplex-420968406.jpg"
 language: en
 slug: jon-s-duplex
 address: "Rruga Selaudin Zorba Atrium Residence, 1001 Tirana, Albania"

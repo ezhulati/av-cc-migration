@@ -1,7 +1,7 @@
 ---
 title: "Rezidenca Primavera Apartments"
 description: "Rezidenca Primavera Apartments emerges as a modern oasis in Durrës, offering a seamless blend of comfort and convenience for travelers."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJz7N9QXdMWxjeo-K-ApkedcYUiSYQObaZqc5d9c=s96-c64"
+featuredImage: "/images/accommodation/rezidenca-primavera-apartments-AATXAJz7N9QX.jpg"
 language: en
 slug: rezidenca-primavera-apartments
 address: "Rezidenca Primavera, Rruga San Pietro, Draç, Gjiri i Lalzit, Albania, 2000 Durrës, Albania"

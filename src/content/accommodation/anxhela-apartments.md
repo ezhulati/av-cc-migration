@@ -1,7 +1,7 @@
 ---
 title: "Anxhela Apartments"
 description: "Anxhela Apartments stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from the pristine Vlore Beach and within easy reach of Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477147681.jpg?k=fa490c2c7ab4e9cf67e6880f9523e2499a9906a8c7c290e8ff5bfda2f7705ea4&o=&hp=1"
+featuredImage: "/images/accommodation/anxhela-apartments-477147681.jpg"
 language: en
 slug: anxhela-apartments
 address: "Big Scoop, CFVW+95X, SH8, Vlorë, 9401 Vlorë, Albania"

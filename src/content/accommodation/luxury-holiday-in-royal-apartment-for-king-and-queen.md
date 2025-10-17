@@ -1,7 +1,7 @@
 ---
 title: "Luxury Holiday in Royal Apartment for King and Queen"
 description: "Luxury Holiday in Royal Apartment for King and Queen emerges as a premier choice for travelers seeking an exceptional stay in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204316570.jpg?k=d2b6158a09325201b5aa3a725fab181bbb7153b3501a96b7a7c053371eaa5d67&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-holiday-in-royal-apartment-for-king-and-queen-204316570.jpg"
 language: en
 slug: luxury-holiday-in-royal-apartment-for-king-and-queen
 address: "Sheshi Europa, Rruga Bilal Xhaferi, 9701 Sarandë, Albania"

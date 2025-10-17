@@ -1,7 +1,7 @@
 ---
 title: "Absolute Blloku Apartment"
 description: "Absolute Blloku Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184952305.jpg?k=5460dcd73727ba3804d1bc71fd8ac7d3003ab30e889b9ca9efbff7ca149304c9&o=&hp=1"
+featuredImage: "/images/accommodation/absolute-blloku-apartment-184952305.jpg"
 language: en
 slug: absolute-blloku-apartment
 address: "Rruga Nikolla Tupe 17 Godina 6, Apartamenti 6, 1000 Tirana, Albania"

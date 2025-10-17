@@ -1,7 +1,7 @@
 ---
 title: "Elio's Holiday Home"
 description: "Elio's Holiday Home presents a serene retreat for travelers seeking a blend of comfort and convenience, located just a stone's throw away from the picturesque Ohrid Lake Springs and the intriguing Bay of Bones."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157977067.jpg?k=302bc22675ca8349dc2c8cd0ea01befabc326dfe0320f0a999b756031fd2b44a&o=&hp=1"
+featuredImage: "/images/accommodation/elio-s-holiday-home-157977067.jpg"
 language: en
 slug: elio-s-holiday-home
 address: "Rruga 10 Dëshmorët e Pojskës 64,first floor, 7301 Pogradec, Albania"

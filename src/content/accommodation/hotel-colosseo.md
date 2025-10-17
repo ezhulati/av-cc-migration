@@ -1,7 +1,7 @@
 ---
 title: "Hotel Colosseo"
 description: "Hotel Colosseo stands as a beacon of comfort and convenience in the heart of Vlorë, merely a stone's throw away from the pristine Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299127542.jpg?k=f4a108ab30d2d560913f9854c12b598dbab4859432a0e15b7789690835dc254b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-colosseo-299127542.jpg"
 language: en
 slug: hotel-colosseo
 address: "Rruga Zenel Murra, 9400 Vlorë, Albania"

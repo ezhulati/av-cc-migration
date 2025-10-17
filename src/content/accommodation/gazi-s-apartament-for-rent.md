@@ -1,7 +1,7 @@
 ---
 title: "Gazi’s Apartament for Rent"
 description: "Gazi's Apartment for Rent emerges as a prime choice for travelers seeking a serene getaway in Golem, conveniently located just a stone's throw away from Mali I Robit Beach and a brief stroll from Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334466110.jpg?k=60e448bb4c2107f43a474c2fe99cdd76a74433b6c95c77d1369057b243699d7e&o=&hp=1"
+featuredImage: "/images/accommodation/gazi-s-apartament-for-rent-334466110.jpg"
 language: en
 slug: gazi-s-apartament-for-rent
 address: "St. Qemal Stafa, St. Sulejman Delvina, 2504 Golem, Albania"

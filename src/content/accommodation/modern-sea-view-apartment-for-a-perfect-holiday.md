@@ -1,7 +1,7 @@
 ---
 title: "Modern Sea View Apartment For a Perfect Holiday"
 description: "Modern Sea View Apartment For a Perfect Holiday stands as a prime beachfront gem in Durrës, just a stone's throw away from the serene Shkëmbi i Kavajës Beach and a brief stroll from the vibrant Durres Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/modern-sea-view-apartment-for-a-perfect-holiday-0e43c9b9a23d.jpg"
 language: en
 slug: modern-sea-view-apartment-for-a-perfect-holiday
 address: "Rruga Shkembi i Kavajes, Shkallnur. prane ''Blue Marine'', 2021 Durrës, Albania"

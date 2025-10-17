@@ -1,7 +1,7 @@
 ---
 title: "The Luxury Villa"
 description: "The Luxury Villa, located in the serene town of Shirokë, stands out as a premier destination for travelers seeking an exclusive retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526322537.jpg?k=bb0cb9bf7e3b2d7c3db7d19d307325886dd6289711ab9230e67f39b31d5b236d&o=&hp=1"
+featuredImage: "/images/accommodation/the-luxury-villa-526322537.jpg"
 language: en
 slug: the-luxury-villa
 address: "Rruga e Selvijave, Shirokë, Albania"

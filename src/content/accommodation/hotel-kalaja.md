@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kalaja"
 description: "Hotel Kalaja stands as a distinguished destination in Shkodër, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462839020.jpg?k=396151fca0823efd5f94aaccba2e28802213455dcb3616011c6607ddfd4018f0&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kalaja-462839020.jpg"
 language: en
 slug: hotel-kalaja
 address: "Rruga Mesit, 4012 Shkodër, Albania"

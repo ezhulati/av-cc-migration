@@ -1,7 +1,7 @@
 ---
 title: "Villa Elezi"
 description: "Villa Elezi stands out as a prime choice for travelers seeking a serene getaway in Korçë, located conveniently within a short drive from the natural wonders of Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387808001.jpg?k=ef1ed74e485d300c181cb8cd323714aee190744292558f484385e2f5631ea85b&o=&hp=1"
+featuredImage: "/images/accommodation/villa-elezi-387808001.jpg"
 language: en
 slug: villa-elezi
 address: "street: Demir Progri Villa Elezi, 7001 Korçë, Albania"

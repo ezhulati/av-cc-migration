@@ -1,7 +1,7 @@
 ---
 title: "Sibora's Apartment"
 description: "Sibora's Apartment emerges as a serene retreat in Golem, striking a perfect balance between comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467853131.jpg?k=adfa38c8e2a9111c6adcbe043f4007f7cd06310719c9cd28f58cac5410bea834&o=&hp=1"
+featuredImage: "/images/accommodation/sibora-s-apartment-467853131.jpg"
 language: en
 slug: sibora-s-apartment
 address: "Rruga Plazhit Apt 8, 2nd floor, Golem, Albania"

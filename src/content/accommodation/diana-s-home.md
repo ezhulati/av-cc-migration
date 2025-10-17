@@ -1,7 +1,7 @@
 ---
 title: "Diana's home"
 description: "Diana's Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183553875.jpg?k=df5f58a65f4a3ed3e05508996f97c2eb770606cf76a209134ed25bb9d01ce474&o=&hp=1"
+featuredImage: "/images/accommodation/diana-s-home-183553875.jpg"
 language: en
 slug: diana-s-home
 address: "Sitki Çiço Prodani Buildings, Entrance 1, Apartament 23, 7th Floor, 1005 Tirana, Albania"

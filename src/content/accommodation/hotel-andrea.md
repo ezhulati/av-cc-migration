@@ -1,7 +1,7 @@
 ---
 title: "Hotel Andrea"
 description: "Hotel Andrea emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located a mere 200 meters from the inviting Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
+featuredImage: "/images/accommodation/hotel-andrea-866dca38dcc3.jpg"
 language: en
 slug: hotel-andrea
 address: "Rruga 40 Shenjtorët, 9701 Sarandë, Albania"

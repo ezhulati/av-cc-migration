@@ -1,7 +1,7 @@
 ---
 title: "Hotel Heritage"
 description: "Hotel Heritage, located just 2 km from the vibrant heart of Tirana at Skanderbeg Square, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/227595591.jpg?k=7f5593d7c2791c157d9253603e9d40a7bb0312a061a1e3be70f3251b4f8a8e16&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-heritage-227595591.jpg"
 language: en
 slug: hotel-heritage
 address: "Rruga Albanopoli, 1001 Tirana, Albania"

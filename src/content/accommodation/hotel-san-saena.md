@@ -1,7 +1,7 @@
 ---
 title: "Hotel \"SAN SAENA \""
 description: "Hotel SAN SAENA stands as a beacon of comfort and convenience in the vibrant city of Vlorë, merely a stone's throw away from the pristine Radhimë Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207794989.jpg?k=8a87f38a2c8f3460d76e296ef796ba04a45ab1c807e9f37531fe1d6fc19741bf&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-san-saena-207794989.jpg"
 language: en
 slug: hotel-san-saena
 address: "Rruga Numan Bilani 10, 9426 Vlorë, Albania"

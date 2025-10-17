@@ -1,7 +1,7 @@
 ---
 title: "Me & You Hostel"
 description: "Me & You Hostel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330528411.jpg?k=951b275db08c58143ea2157e954db1e961763ac09fffbd05f205e19ca9515a2d&o=&hp=1"
+featuredImage: "/images/accommodation/me-you-hostel-330528411.jpg"
 language: en
 slug: me-you-hostel
 address: "Rruga Ramazan Dema 105/1, 1017 Tirana, Albania"

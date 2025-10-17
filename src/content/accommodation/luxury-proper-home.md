@@ -1,7 +1,7 @@
 ---
 title: "Luxury Proper Home"
 description: "Luxury Proper Home stands out as a premier accommodation choice in Gjirokastër, offering guests a seamless blend of comfort and convenience with its modern amenities and thoughtful services."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449804078.jpg?k=a6286b098c28d45399d3d3097d994dcf87eef544962203730d679dd467eb7e4a&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-proper-home-449804078.jpg"
 language: en
 slug: luxury-proper-home
 address: "redonbime@hotmail.com, 6001 Gjirokastër, Albania"

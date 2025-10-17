@@ -1,7 +1,7 @@
 ---
 title: "Villa Balliu"
 description: "Villa Balliu emerges as a serene retreat in Pogradec, strategically positioned within a short distance from the enchanting Ohrid Lake Springs and the historical Bay of Bones."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478018431.jpg?k=d9ec28e4ce5f96af8bae29a3501e024d5e80cb22f5815eaa563e54fba1be3adb&o=&hp=1"
+featuredImage: "/images/accommodation/villa-balliu-478018431.jpg"
 language: en
 slug: villa-balliu
 address: "Tushemisht, 7301 Pogradec, Albania"

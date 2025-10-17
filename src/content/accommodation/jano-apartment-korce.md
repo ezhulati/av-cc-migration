@@ -1,7 +1,7 @@
 ---
 title: "JANO apartment Korce"
 description: "JANO Apartment Korce emerges as a prime choice for travelers seeking both the vibrancy of city life and the tranquility of a quiet street location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327081269.jpg?k=d50045f406ca1fe10963b64b42f146fa99d2cd551d4fb63e1807ac9d86aa5786&o=&hp=1"
+featuredImage: "/images/accommodation/jano-apartment-korce-327081269.jpg"
 language: en
 slug: jano-apartment-korce
 address: "Rr Midhi Kostani Ap 7 Hyrja 2, 7001 Korçë, Albania"

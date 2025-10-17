@@ -1,7 +1,7 @@
 ---
 title: "Ari's Apartment"
 description: "Ari's Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://graph.facebook.com/v2.9/1005142249513112/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/ari-s-apartment-picture?type.jpg"
 language: en
 slug: ari-s-apartment
 address: "Rruga Rushit Gurishova Building Nr. 53 ; Entrance 18 ; ap. 36, 9405 Vlorë, Albania"

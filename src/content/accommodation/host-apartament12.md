@@ -1,7 +1,7 @@
 ---
 title: "Host apartament12"
 description: "Host Apartment12 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420091799.jpg?k=af8c46b236ac2a0d4fc85e177e36a614fbd1aeac3768df3c7ac02b33dd2c54d0&o=&hp=1"
+featuredImage: "/images/accommodation/host-apartament12-420091799.jpg"
 language: en
 slug: host-apartament12
 address: "Rruga Tefta Tashko-Koço, 1003 Tirana, Albania"

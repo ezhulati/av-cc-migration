@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Saranda"
 description: "Appartamento Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484348050.jpg?k=f3423ec3756218c3a5ae91c27bc655a723db55cf08d9670ed65225a909af9e73&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-saranda-484348050.jpg"
 language: en
 slug: appartamento-saranda
 address: "Saranda, AL - Corfu, GR, Sarandë, Albania"

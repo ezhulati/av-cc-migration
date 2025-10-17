@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Alvaro Kadiu"
 description: "Guesthouse Alvaro Kadiu emerges as a charming retreat in the heart of Berat, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469867668.jpg?k=431ade10ffaac9e9446825dae4dd557891717206fafd41a6750dde8f26cb7bfa&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-alvaro-kadiu-469867668.jpg"
 language: en
 slug: guesthouse-alvaro-kadiu
 address: "Antipatrea Street , Mangalem Quarter, 5001 Berat, Albania"

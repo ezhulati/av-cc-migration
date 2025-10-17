@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lotus"
 description: "Hotel Lotus stands as a beacon of comfort and convenience in the heart of Tirana, merely 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306576502.jpg?k=10edc58fea544ba7ad91304516bcd904b3548ff6f4ef2a37243af8ef316e9b05&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-lotus-306576502.jpg"
 language: en
 slug: hotel-lotus
 address: "Bulevardi Bajram Curri, 0001 Tirana, Albania"

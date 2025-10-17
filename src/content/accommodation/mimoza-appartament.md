@@ -1,7 +1,7 @@
 ---
 title: "Mimoza Appartament"
 description: "Mimoza Appartament emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437647030.jpg?k=a2f9f1cc2a1a9f624deb0729690cdb3e569bd202791de5b265ead852544514d9&o=&hp=1"
+featuredImage: "/images/accommodation/mimoza-appartament-437647030.jpg"
 language: en
 slug: mimoza-appartament
 address: "Golem, 9012 Golem, Albania"

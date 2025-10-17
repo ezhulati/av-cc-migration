@@ -1,7 +1,7 @@
 ---
 title: "Rooftop Sunset View Apartment"
 description: "Rooftop Sunset View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343830614.jpg?k=87fec1c621954935415f8006039a9da3c9e1ff694f533b9cca635c72ce38cc9f&o=&hp=1"
+featuredImage: "/images/accommodation/rooftop-sunset-view-apartment-343830614.jpg"
 language: en
 slug: rooftop-sunset-view-apartment
 address: "Rruga e Barrikadave 12th Floor, apt. 59, 1001 Tirana, Albania"

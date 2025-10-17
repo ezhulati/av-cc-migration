@@ -1,7 +1,7 @@
 ---
 title: "Rams Apartment"
 description: "Rams Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448847839.jpg?k=57fa2a0be84c95ca30ab9fddec2d199847915b7e747a7ce9faa26c9dc4cf3c0b&o=&hp=1"
+featuredImage: "/images/accommodation/rams-apartment-448847839.jpg"
 language: en
 slug: rams-apartment
 address: "Rruga 5 Maji, 1001 Tirana, Albania"

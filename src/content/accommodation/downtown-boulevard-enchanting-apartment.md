@@ -1,7 +1,7 @@
 ---
 title: "Downtown Boulevard enchanting apartment!"
 description: "Downtown Boulevard Enchanting Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501807651.jpg?k=53285a637aa56b35f33f11441aeddd2eb631aea55a40f5adc2e800865c14cea6&o=&hp=1"
+featuredImage: "/images/accommodation/downtown-boulevard-enchanting-apartment-501807651.jpg"
 language: en
 slug: downtown-boulevard-enchanting-apartment
 address: "Rruga Fatmir Haxhiu, Tirana, Albania"

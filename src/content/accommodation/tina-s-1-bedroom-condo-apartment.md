@@ -1,7 +1,7 @@
 ---
 title: "Tina's 1-bedroom condo apartment"
 description: "Tina's 1-Bedroom Condo Apartment offers a serene retreat in the historic city of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363663247.jpg?k=1aa81305f2fb7cf07f11cfc7c377f377835105140c5ba09bb750759207eae431&o=&hp=1"
+featuredImage: "/images/accommodation/tina-s-1-bedroom-condo-apartment-363663247.jpg"
 language: en
 slug: tina-s-1-bedroom-condo-apartment
 address: "Rruga Vangjel Zhapa, 6001 Gjirokastër, Albania"

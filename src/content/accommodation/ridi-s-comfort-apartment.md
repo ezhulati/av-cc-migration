@@ -1,7 +1,7 @@
 ---
 title: "Ridi's Comfort Apartment"
 description: "Ridi's Comfort Apartment emerges as a serene retreat in the heart of Shkodër, offering breathtaking mountain views and a promise of tranquility just 49 km away from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306155518.jpg?k=368087d2124776ac8d2d17f4676b206cd43d214a8dbd7c8c66da8c2d1a5980b8&o=&hp=1"
+featuredImage: "/images/accommodation/ridi-s-comfort-apartment-306155518.jpg"
 language: en
 slug: ridi-s-comfort-apartment
 address: "Rruga Qemal Draçini, Shkodër, Albania"

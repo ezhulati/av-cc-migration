@@ -1,7 +1,7 @@
 ---
 title: "Suite Terrace Rooms & Apartments"
 description: "Suite Terrace Rooms & Apartments emerges as a serene haven for travelers seeking both the tranquility of mountain views and the convenience of modern amenities in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/233469199.jpg?k=0597ee83b965f1ac6b71eea208e6af5fde1f10788054f3223fc999253811a176&o=&hp=1"
+featuredImage: "/images/accommodation/suite-terrace-rooms-apartments-233469199.jpg"
 language: en
 slug: suite-terrace-rooms-apartments
 address: "Bulevar Fan Noli, 7001 Korçë, Albania"

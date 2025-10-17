@@ -1,7 +1,7 @@
 ---
 title: "Meti Guest House"
 description: "Meti Guest House emerges as a serene retreat, situated a mere 31 km from the bustling Skanderbeg Square, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397063978.jpg?k=40226ad0aabe20699af2517f6470d650f42b71fe58cd2cce7ac31f387e7b038f&o=&hp=1"
+featuredImage: "/images/accommodation/meti-guest-house-397063978.jpg"
 language: en
 slug: meti-guest-house
 address: "Rruga Lek Dukagjini, 1501 Krujë, Albania"

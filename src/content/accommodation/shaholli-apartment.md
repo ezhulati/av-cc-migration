@@ -1,7 +1,7 @@
 ---
 title: "Shaholli Apartment"
 description: "Shaholli Apartment, a haven of comfort and convenience, is the perfect choice for travelers seeking a relaxing stay in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521770654.jpg?k=c49d2e772e3b4d56ecac45aafee69b8e73912de85498d8cf65568df6c5402ace&o=&hp=1"
+featuredImage: "/images/accommodation/shaholli-apartment-521770654.jpg"
 language: en
 slug: shaholli-apartment
 address: "Rruga Bajram Curri, 7000 Korçë, Albania"

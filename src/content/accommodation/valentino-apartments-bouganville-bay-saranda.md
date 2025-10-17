@@ -1,7 +1,7 @@
 ---
 title: "Valentino apartments Bouganville Bay Saranda"
 description: "Valentino Apartments Bouganville Bay Saranda emerges as a premier choice for travelers seeking a blend of comfort and adventure in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284605977.jpg?k=4bb5c19edf8e5e66c9f67285fdb16e016a7452b4011ca56323556bb57ca7c487&o=&hp=1"
+featuredImage: "/images/accommodation/valentino-apartments-bouganville-bay-saranda-284605977.jpg"
 language: en
 slug: valentino-apartments-bouganville-bay-saranda
 address: "Via Per Butrint, 9703 Sarandë, Albania"

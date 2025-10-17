@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Grand Blue Fafa Golem"
 description: "Discover the charm of Golem with a stay at the Apartment in Grand Blue Fafa Golem, a prime beachfront property that promises more than just a place to sleep."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360752531.jpg?k=faa16288654edd5f42fd9c491967f77afc15b997f77ce4158c05958f45b440bf&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-grand-blue-fafa-golem-360752531.jpg"
 language: en
 slug: apartment-in-grand-blue-fafa-golem
 address: "Rruga Kompleksit, 2504 Golem, Albania"

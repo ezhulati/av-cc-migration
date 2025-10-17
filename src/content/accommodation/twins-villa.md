@@ -1,7 +1,7 @@
 ---
 title: "Twins Villa"
 description: "Twins Villa emerges as a serene retreat, located just a short stroll from the pristine Pasqyra Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476668958.jpg?k=07a86043ab8f5bc59664ed12ea6865ee351cb60da723f1238df5862abdb779d2&o=&hp=1"
+featuredImage: "/images/accommodation/twins-villa-476668958.jpg"
 language: en
 slug: twins-villa
 address: "Rruga Butrinti Pasqyra, Manastir, 9706 Sarandë, Albania"

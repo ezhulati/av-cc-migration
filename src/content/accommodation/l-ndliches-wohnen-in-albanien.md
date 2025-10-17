@@ -1,7 +1,7 @@
 ---
 title: "Ländliches Wohnen in Albanien"
 description: "Ländliches Wohnen in Albanien emerges as a serene retreat located in the quaint Mbrostar-Urë, a mere 49 km from the vibrant Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510262545.jpg?k=6889a0e77c36b5c610c613e2b81efcbf2de8ba6feede8093563381160d95ad8a&o=&hp=1"
+featuredImage: "/images/accommodation/l-ndliches-wohnen-in-albanien-510262545.jpg"
 language: en
 slug: l-ndliches-wohnen-in-albanien
 address: "Mbrostar Ura, Mbrostar-Urë, Albania"

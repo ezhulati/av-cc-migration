@@ -1,7 +1,7 @@
 ---
 title: "Sunny Beach Apartment"
 description: "Sunny Beach Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a stone's throw away from Maestral Beach and a short stroll from La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357705125.jpg?k=cfa5f77678badbe027c8fb77fcf8ef2b185bd9d0da7911d018bc627102517acf&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-beach-apartment-357705125.jpg"
 language: en
 slug: sunny-beach-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

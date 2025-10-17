@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Besimi"
 description: "Guesthouse Besimi stands as a serene retreat in the heart of Valbonë, Kukës County, offering travelers a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479736172.jpg?k=9068d320e0dcad172d01c4c5269aa85158c74d3e98d520ca01b45bf767cb65fe&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-besimi-479736172.jpg"
 language: en
 slug: guesthouse-besimi
 address: "FW56+G58, Valbonë, 8703 Valbonë, Albania"

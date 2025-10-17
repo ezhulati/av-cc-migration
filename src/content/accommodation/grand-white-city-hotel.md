@@ -1,7 +1,7 @@
 ---
 title: "Grand White City Hotel"
 description: "Grand White City Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the historic heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143644760.jpg?k=de5b12204a5dca4449e682ded7f4c95dd1d6cdbf265d8c817381502e93cd8062&o=&hp=1"
+featuredImage: "/images/accommodation/grand-white-city-hotel-143644760.jpg"
 language: en
 slug: grand-white-city-hotel
 address: "Lagja kombinat, 5001 Berat, Albania"

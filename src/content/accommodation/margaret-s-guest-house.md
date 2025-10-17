@@ -1,7 +1,7 @@
 ---
 title: "Margaret's Guest House"
 description: "Margaret's Guest House, a gem recently polished through renovation, stands proudly in Mesopotam, just 25 km away from the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431593295.jpg?k=caedbd2cfc7903091a92454148f40cdd06fbe6509a0a929b56b2fbe83581bda3&o=&hp=1"
+featuredImage: "/images/accommodation/margaret-s-guest-house-431593295.jpg"
 language: en
 slug: margaret-s-guest-house
 address: "SH99 1, 9717 Mesopotam, Albania"

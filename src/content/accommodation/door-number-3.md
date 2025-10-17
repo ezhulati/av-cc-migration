@@ -1,7 +1,7 @@
 ---
 title: "Door number 3"
 description: "Door Number 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492951723.jpg?k=8cf54defdb3858386c82d30abbddb855ca99ec53ab7891ba7fd3971dc981f1cd&o=&hp=1"
+featuredImage: "/images/accommodation/door-number-3-492951723.jpg"
 language: en
 slug: door-number-3
 address: "Rruga Ramazan Kasa, 1057 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Hygge"
 description: "Guesthouse Hygge emerges as a charming retreat in the heart of Tirana, situated merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102191676.jpg?k=a2e49597667382cd402861a7deb0c5f69e987ad21b29626bc1e8114466323217&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-hygge-102191676.jpg"
 language: en
 slug: guesthouse-hygge
 address: "St. Bulevardi Zogu i Pare St. Haxhi Hysen Dalliu, 1001 Tirana, Albania"

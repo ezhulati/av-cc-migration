@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Holidays Studio Ksamil"
 description: "Albania Dream Holidays Studio Ksamil emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297733644.jpg?k=9c8b52dcf86a34121426659cc61e6afa8eb8e97546bc5cf9dd691743d6d45ea5&o=&hp=1"
+featuredImage: "/images/accommodation/albania-dream-holidays-studio-ksamil-297733644.jpg"
 language: en
 slug: albania-dream-holidays-studio-ksamil
 address: "Rruga Bistrica , Ksamil , Sarande, 9706 Ksamil, Albania"

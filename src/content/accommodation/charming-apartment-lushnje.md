@@ -1,7 +1,7 @@
 ---
 title: "Charming Apartment Lushnje"
 description: "Charming Apartment Lushnje emerges as a standout accommodation option in Lushnjë, offering guests a refreshing blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355866997.jpg?k=cb41ec12cc90e04d7782f366d0f68380d07b302b6789449152a583e84e9ff86b&o=&hp=1"
+featuredImage: "/images/accommodation/charming-apartment-lushnje-355866997.jpg"
 language: en
 slug: charming-apartment-lushnje
 address: "Shetitorja e Palmave, 9001 Lushnjë, Albania"

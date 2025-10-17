@@ -1,7 +1,7 @@
 ---
 title: "Bar Hotel Geraldo"
 description: "Bar Hotel Geraldo stands as a beacon of comfort and convenience in the heart of Gjirokastër, offering guests a unique blend of modern amenities and traditional charm."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329731041.jpg?k=10cb30701e4c9caa5c18f4ee7c38fc63e51d6793126b04a6014be79bd02b9929&o=&hp=1"
+featuredImage: "/images/accommodation/bar-hotel-geraldo-329731041.jpg"
 language: en
 slug: bar-hotel-geraldo
 address: "Bulevardi 18 Shtatori, 6001 Gjirokastër, Albania"

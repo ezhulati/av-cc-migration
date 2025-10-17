@@ -1,7 +1,7 @@
 ---
 title: "New Apartment ZOE"
 description: "Discover the charm of Shkodër from the comfort of New Apartment ZOE, a gem located just a stone's throw away from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469096834.jpg?k=de77ed5f5eac6ff575eebf7b50f501cde34f3e8b9de925c618b1d944b3fb3f20&o=&hp=1"
+featuredImage: "/images/accommodation/new-apartment-zoe-469096834.jpg"
 language: en
 slug: new-apartment-zoe
 address: "Rruga Shtjefen Gjecovi, 4001 Shkodër, Albania"

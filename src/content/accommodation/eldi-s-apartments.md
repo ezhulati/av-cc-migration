@@ -1,7 +1,7 @@
 ---
 title: "Eldi's Apartments"
 description: "Eldi's Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301142789.jpg?k=85eed390a803ace7a3e8b4f93d70007362c56dba4928eec25981d5013344b9bb&o=&hp=1"
+featuredImage: "/images/accommodation/eldi-s-apartments-301142789.jpg"
 language: en
 slug: eldi-s-apartments
 address: "Shengjin, 4501 Shëngjin, Albania"

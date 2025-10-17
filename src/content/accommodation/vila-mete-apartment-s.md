@@ -1,7 +1,7 @@
 ---
 title: "Vila Mete Apartment's"
 description: "Vila Mete Apartment stands as a beacon of comfort and convenience in Korçë, offering guests a unique blend of modern amenities and serene garden views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512494125.jpg?k=79828eb07659c9788064395d61b97141aec5b3a05cbd3f07f98d178be4354667&o=&hp=1"
+featuredImage: "/images/accommodation/vila-mete-apartment-s-512494125.jpg"
 language: en
 slug: vila-mete-apartment-s
 address: "Rruga Ajet Xhindolli, 7001 Korçë, Albania"

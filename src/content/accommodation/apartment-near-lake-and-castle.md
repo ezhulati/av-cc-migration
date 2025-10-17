@@ -1,7 +1,7 @@
 ---
 title: "Apartment near lake and castle"
 description: "Apartment near lake and castle stands as a serene retreat in Shkodër, offering guests a unique blend of scenic beauty and modern comforts."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455772850.jpg?k=f946378c2203a637269c41bae4a105ac122340969c7f7c8fdbea9d1c0c153798&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-near-lake-and-castle-455772850.jpg"
 language: en
 slug: apartment-near-lake-and-castle
 address: "Shëtitorja e Molos, 4001 Shkodër, Albania"

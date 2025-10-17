@@ -1,7 +1,7 @@
 ---
 title: "Spacious and Cozy Apartment - Ajia Apartment"
 description: "Spacious and Cozy Apartment - Ajia Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://graph.facebook.com/v2.9/10213850019300552/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/spacious-and-cozy-apartment-ajia-apartment-picture?type.jpg"
 language: en
 slug: spacious-and-cozy-apartment-ajia-apartment
 address: "Rruga e Dibrës, 1017 Tirana, Albania"

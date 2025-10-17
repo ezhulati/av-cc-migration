@@ -1,7 +1,7 @@
 ---
 title: "City Center Apartment in Shkoder"
 description: "City Center Apartment in Shkoder emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352263218.jpg?k=833cbed5743d8c5576d6f15474f13b022541cbc73aca8a820a4f2e33bfd982d9&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-apartment-in-shkoder-352263218.jpg"
 language: en
 slug: city-center-apartment-in-shkoder
 address: "Rruga Babej 3 , Ap 19, 4001 Shkodër, Albania"

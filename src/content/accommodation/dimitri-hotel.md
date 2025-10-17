@@ -1,7 +1,7 @@
 ---
 title: "Dimitri Hotel"
 description: "Dimitri Hotel emerges as a charming retreat in the heart of Himare, mere steps away from the pristine Livadhi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356326167.jpg?k=481f9a747c870af2d6195909ad39dedf4118e7d82257823a8967a4d20924b4e3&o=&hp=1"
+featuredImage: "/images/accommodation/dimitri-hotel-356326167.jpg"
 language: en
 slug: dimitri-hotel
 address: "Livadhi Beach, 9425 Himare, Albania"

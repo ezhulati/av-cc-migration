@@ -1,7 +1,7 @@
 ---
 title: "Poseidon Hotel"
 description: "Poseidon Hotel stands out as a serene oasis in Ksamil, offering guests an exceptional stay with its meticulously landscaped garden and inviting terrace."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301457110.jpg?k=aa5d0d2eb30f3178231b1279ef09787f9e8929a7b0d8aa3cd447f90c987c1305&o=&hp=1"
+featuredImage: "/images/accommodation/poseidon-hotel-301457110.jpg"
 language: en
 slug: poseidon-hotel
 address: "SH81 Gjiri Poda Ksamil, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment 1"
 description: "Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in Durrës, positioned just a short stroll from the pristine Shkëmbi i Kavajës Beach and within easy reach of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494521903.jpg?k=f6623f8152ccfd83154e1c61507dbdb1590e9904e5057e30d9b0e01663ecf20d&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-1-494521903.jpg"
 language: en
 slug: apartment-1
 address: "Rruga Iliria, 2000 Durrës, Albania"

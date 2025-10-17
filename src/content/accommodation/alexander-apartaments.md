@@ -1,7 +1,7 @@
 ---
 title: "Alexander Apartaments"
 description: "Alexander Apartments emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated merely 400 meters from the pristine Vlore Beach and a short stroll from Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453143635.jpg?k=79fc1258de964a034e4ce57149e45c712ebf210a696c6c9a6adf2710316ba3df&o=&hp=1"
+featuredImage: "/images/accommodation/alexander-apartaments-453143635.jpg"
 language: en
 slug: alexander-apartaments
 address: "Rruga Shyqyri Ali Merka, 9400 Vlorë, Albania"

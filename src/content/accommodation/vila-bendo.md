@@ -1,7 +1,7 @@
 ---
 title: "Vila Bendo"
 description: "Vila Bendo emerges as a serene retreat in Divjakë, a mere 44 km from the iconic Rock of Kavaje."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407934835.jpg?k=02f4f8d5590c7c45ae0ac3feb4d57fa9d7827d22392f028a14143d4e93998566&o=&hp=1"
+featuredImage: "/images/accommodation/vila-bendo-407934835.jpg"
 language: en
 slug: vila-bendo
 address: "Rruga Divjjake - Plazh Rruga e Divjakes - Plazh 50 metra poshte komisiaratit te policise, 9022 Divjakë, Albania"

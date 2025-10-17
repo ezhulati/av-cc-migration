@@ -1,7 +1,7 @@
 ---
 title: "R&I Sea and Mountain View Apartments Radhimë"
 description: "R&I Sea and Mountain View Apartments Radhimë stands out as a prime choice for travelers seeking the perfect blend of comfort and natural beauty in Orikum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363443567.jpg?k=ddaa262c40a41b176e6eccbd6c408cc35cd3970e9c86be0ed80dc5ffc6942b5f&o=&hp=1"
+featuredImage: "/images/accommodation/r-i-sea-and-mountain-view-apartments-radhim-363443567.jpg"
 language: en
 slug: r-i-sea-and-mountain-view-apartments-radhim
 address: "SH8, 9426 Orikum, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lyhnidas"
 description: "Hotel Lyhnidas stands as a serene retreat on the shores of Ohrid Lake, merely 4 km away from the heart of Udënisht."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/28752669.jpg?k=83aa470f867df2ab034be83e650fb60258ba340a5e70c0fc834be42a0f731bf3&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-lyhnidas-28752669.jpg"
 language: en
 slug: hotel-lyhnidas
 address: "Pojske, 7300 Pogradec, Albania"

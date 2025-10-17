@@ -1,7 +1,7 @@
 ---
 title: "Amber Hotel Albania"
 description: "Amber Hotel Albania emerges as a prime choice for travelers seeking a serene getaway, just a stone's throw away from the pristine Spille Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256257266.jpg?k=6251de303fb8e99eb946d49108062e1d817006afebf3c3a0855e5c28321d99d1&o=&hp=1"
+featuredImage: "/images/accommodation/amber-hotel-albania-256257266.jpg"
 language: en
 slug: amber-hotel-albania
 address: "Rruga e Pishave Spille, 2500 Spille, Albania"

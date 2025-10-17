@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Arben Elezi"
 description: "Guesthouse Arben Elezi in Berat emerges as a charming retreat for travelers seeking both tranquility and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197525269.jpg?k=6b754d72f31fa872c3fa67336fbe1958a78ca64e46b9566da9fa13cb17f57550&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-arben-elezi-197525269.jpg"
 language: en
 slug: guesthouse-arben-elezi
 address: "Street Dr. Lluka Mangalem Berat Albania, 5006 Berat, Albania"

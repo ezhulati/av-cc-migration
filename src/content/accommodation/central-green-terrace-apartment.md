@@ -1,7 +1,7 @@
 ---
 title: "Central Green Terrace Apartment"
 description: "Central Green Terrace Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/16047386.webp?k=c9b5d7cfe93b7a2e3a4423901d8df4435d246d664897b2505eedfbe18e53fc21&o=?t=1488818036"
+featuredImage: "/images/accommodation/central-green-terrace-apartment-16047386.web.jpg"
 language: en
 slug: central-green-terrace-apartment
 address: "Rruga e Barrikadave Green Tarrace Building, kati 6, 1001 Tirana, Albania"

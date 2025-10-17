@@ -1,7 +1,7 @@
 ---
 title: "Seaview Beachfront Apartment Saranda Terraces"
 description: "Seaview Beachfront Apartment Saranda Terraces emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/seaview-beachfront-apartment-saranda-terraces-c84a361d6701.jpg"
 language: en
 slug: seaview-beachfront-apartment-saranda-terraces
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

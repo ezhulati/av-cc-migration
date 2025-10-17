@@ -1,7 +1,7 @@
 ---
 title: "Hotel The First"
 description: "Hotel The First emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86536847.jpg?k=3528e62522be2e3f2669f3ce2a016bcf422dc69c2223206a10d781b96dc431da&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-the-first-86536847.jpg"
 language: en
 slug: hotel-the-first
 address: "Bulevardi 18 Shtatori, 6002 Gjirokastër, Albania"

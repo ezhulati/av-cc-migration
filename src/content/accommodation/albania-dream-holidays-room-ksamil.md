@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Holidays Room Ksamil"
 description: "Albania Dream Holidays Room Ksamil emerges as a serene retreat, a mere stone's throw away from the pristine Sunset Beach, located just 600 meters away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297897253.jpg?k=ec2cc048c057e33da1a42534aa66c535ff0c6732becec681400992b3656d64fa&o=&hp=1"
+featuredImage: "/images/accommodation/albania-dream-holidays-room-ksamil-297897253.jpg"
 language: en
 slug: albania-dream-holidays-room-ksamil
 address: "Rruga Bistrica, Ksamil , Sarande, 9706 Ksamil, Albania"

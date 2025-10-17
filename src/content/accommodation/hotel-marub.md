@@ -1,7 +1,7 @@
 ---
 title: "Hotel Marub"
 description: "Discover the serene charm of Hotel Marub, a hidden gem tucked away in the tranquil forested valley of Mirdita."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10200694.jpg?k=9867df7d6d45df9ec8fa2b6f100a1033ea88e498bc71ac8f3a7c04de1ed5596a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-marub-10200694.jpg"
 language: en
 slug: hotel-marub
 address: "Katund i Vjeter, 4603 Rubik, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Piazza center studio"
 description: "Piazza Center Studio emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture, merely a stone's throw away from the iconic Skanderbeg Square and within a short distance of the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493385208.jpg?k=397c5b39bd36bbe0f259dbdaafa7f715c99381d0f0c59f6d43fe3516d2440954&o=&hp=1"
+featuredImage: "/images/accommodation/piazza-center-studio-493385208.jpg"
 language: en
 slug: piazza-center-studio
 address: "Sheshi Skënderbej, 1001 Tirana, Albania"

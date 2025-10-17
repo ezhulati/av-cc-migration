@@ -1,7 +1,7 @@
 ---
 title: "George Hotel Rooms&Suites"
 description: "George Hotel Rooms&Suites stands as a beacon of comfort and convenience in the heart of Himare, a mere stone's throw away from the pristine shores of Prinos Beach and the tranquil waters of Potam Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253851257.jpg?k=0f364d0580da148431e87121fb5048752e7b7acebb59cb379c9a10bfdc0cfe7c&o=&hp=1"
+featuredImage: "/images/accommodation/george-hotel-rooms-suites-253851257.jpg"
 language: en
 slug: george-hotel-rooms-suites
 address: "Rruga Himarë, 9425 Himare, Albania"

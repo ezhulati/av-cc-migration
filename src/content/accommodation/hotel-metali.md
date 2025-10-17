@@ -1,7 +1,7 @@
 ---
 title: "Hotel Metali"
 description: "Hotel Metali emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Sarandë, Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352065877.jpg?k=cd864cdb4668937daa301712e50cfea172b9ac355bae771ee276317ed21a9cd0&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-metali-352065877.jpg"
 language: en
 slug: hotel-metali
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

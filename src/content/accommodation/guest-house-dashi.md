@@ -1,7 +1,7 @@
 ---
 title: "Guest House Dashi"
 description: "Guest House Dashi emerges as a charming choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436591613.jpg?k=18e9495df2080217884440592e44255f4f87eb5c69efa5f18a85cbd88a6e9799&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-dashi-436591613.jpg"
 language: en
 slug: guest-house-dashi
 address: "Rruga Bilbilenjve, 6001 Gjirokastër, Albania"

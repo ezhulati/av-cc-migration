@@ -1,7 +1,7 @@
 ---
 title: "Shtëpi përdhese"
 description: "Shtëpi përdhese emerges as a charming holiday home, strategically positioned just a short distance from the vibrant shores of Durres Beach and the serene Currila Beach in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501836585.jpg?k=8a377fc1470d0b39f10d2148176013ad92d04b84b1308eeeda24e5adbc1d0270&o=&hp=1"
+featuredImage: "/images/accommodation/sht-pi-p-rdhese-501836585.jpg"
 language: en
 slug: sht-pi-p-rdhese
 address: "41,3285132, 19,4434404, 2001 Durrës, Albania"

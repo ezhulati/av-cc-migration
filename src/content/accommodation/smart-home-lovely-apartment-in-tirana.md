@@ -1,7 +1,7 @@
 ---
 title: "Smart Home , Lovely Apartment in Tirana"
 description: "Smart Home, Lovely Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402615880.jpg?k=9ddbcffb3da7537ace8f4060793ec23d20af01de7c9a189523adc11855a69797&o=&hp=1"
+featuredImage: "/images/accommodation/smart-home-lovely-apartment-in-tirana-402615880.jpg"
 language: en
 slug: smart-home-lovely-apartment-in-tirana
 address: "Rruga Kongresi i Lushnjes, 1001 Tirana, Albania"

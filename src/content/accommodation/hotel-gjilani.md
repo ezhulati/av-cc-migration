@@ -1,7 +1,7 @@
 ---
 title: "Hotel Gjilani"
 description: "Hotel Gjilani stands out as a prime choice for travelers seeking comfort and convenience in Tirana, located just a short distance from the city's key attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183910312.jpg?k=813764d44458bd9b0d50939da2c3e170c62066b761f55ac1e56fcdefe2499831&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-gjilani-183910312.jpg"
 language: en
 slug: hotel-gjilani
 address: "Rr. Ilia Xhokaxhi, 1001 Tirana, Albania"

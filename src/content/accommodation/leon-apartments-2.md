@@ -1,7 +1,7 @@
 ---
 title: "Leon Apartments 2"
 description: "Leon Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short stroll from Saranda City Beach and within easy reach of La Petite and Maestral Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473184061.jpg?k=93b855076258a219872f67704490afe03e1a8ac780254813a815e2aeb82bdcc2&o=&hp=1"
+featuredImage: "/images/accommodation/leon-apartments-2-473184061.jpg"
 language: en
 slug: leon-apartments-2
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

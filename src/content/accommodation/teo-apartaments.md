@@ -1,7 +1,7 @@
 ---
 title: "Teo Apartaments"
 description: "Teo Apartaments stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë, located a mere 200 meters from the pristine shores of Flamingo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292889424.jpg?k=50ece58291c9344325c16db340b9c5641cabf8e108eba6e5261af75ef17bb542&o=&hp=1"
+featuredImage: "/images/accommodation/teo-apartaments-292889424.jpg"
 language: en
 slug: teo-apartaments
 address: "Rruga Sarande-Butrint,km 3, 9702 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Beva Apartments"
 description: "Beva Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located in the scenic Vlorë County region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526190154.jpg?k=1ceeae7f0793e279625b844683c8721c8445ae7afb13678c0ab4dfbdf52b67ad&o=&hp=1"
+featuredImage: "/images/accommodation/beva-apartments-526190154.jpg"
 language: en
 slug: beva-apartments
 address: "Rruga Butrinti, 9702 Sarandë, Albania"

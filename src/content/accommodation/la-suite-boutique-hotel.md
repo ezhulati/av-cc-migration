@@ -1,7 +1,7 @@
 ---
 title: "La Suite Boutique Hotel"
 description: "La Suite Boutique Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216390810.jpg?k=1419e47d8db81ce6a558b0353eb90102a3af5a030d3d44fc387d57b5abceaeef&o=&hp=1"
+featuredImage: "/images/accommodation/la-suite-boutique-hotel-216390810.jpg"
 language: en
 slug: la-suite-boutique-hotel
 address: "Rr. Jul Variboba 2/20, 1003 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "City Apartment by Vlora Office"
 description: "City Apartment by Vlora Office emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507070500.jpg?k=91df1ecacc497cedde737d619b081be4a2762fe4e192c97678314328dc5001d4&o=&hp=1"
+featuredImage: "/images/accommodation/city-apartment-by-vlora-office-507070500.jpg"
 language: en
 slug: city-apartment-by-vlora-office
 address: "Rruga Gjergj Kastrioti 8th floor, 9402 Vlorë, Albania"

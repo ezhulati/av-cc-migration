@@ -1,7 +1,7 @@
 ---
 title: "Nino's rooms"
 description: "Nino's Rooms emerges as a charming retreat in the heart of Sarandë, a stone's throw away from the pristine Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487452179.jpg?k=f79cb503c2b2ff8dd63374a720e8affc8b7df192f21b3a72fcc1e89cb58ca046&o=&hp=1"
+featuredImage: "/images/accommodation/nino-s-rooms-487452179.jpg"
 language: en
 slug: nino-s-rooms
 address: "Rruga Butrinti&Rinia Ksamil, 9706 Sarandë, Albania"

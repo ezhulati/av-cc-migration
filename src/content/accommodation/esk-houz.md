@@ -1,7 +1,7 @@
 ---
 title: "Esk Houz"
 description: "Esk Houz emerges as a prime choice for travelers seeking comfort and convenience, located 38 km away from the historic Independence Square and the iconic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435196176.jpg?k=839c4e5ef21c6ff53f8942d34470c157f214d4790de2ff9a18f83d4285fc417d&o=&hp=1"
+featuredImage: "/images/accommodation/esk-houz-435196176.jpg"
 language: en
 slug: esk-houz
 address: "9301 Rr. Jakov Xoxa, 9301 Fier, Albania"

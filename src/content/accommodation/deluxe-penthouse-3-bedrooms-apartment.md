@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Penthouse 3 Bedrooms Apartment"
 description: "Deluxe Penthouse 3 Bedrooms Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202622681.jpg?k=b91bc062343d5ddf0a06e0b5116a72074c3efe5886a5cb96bcfb0d24798de36f&o=&hp=1"
+featuredImage: "/images/accommodation/deluxe-penthouse-3-bedrooms-apartment-202622681.jpg"
 language: en
 slug: deluxe-penthouse-3-bedrooms-apartment
 address: "Rruga Fiqirete Musta Pallati Deneko, Nr 28, 9400 Vlorë, Albania"

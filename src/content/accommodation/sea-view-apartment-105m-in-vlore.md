@@ -1,7 +1,7 @@
 ---
 title: "Sea view apartment 105m² in Vlore"
 description: "Sea View Apartment 105m² in Vlore stands as a prime choice for travelers seeking a serene beachfront escape in the vibrant city of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/393187060.jpg?k=232a32b5d7d8f843bc6e284a305f21022efa4e266bc3c335dccf0b5aa0b43f00&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartment-105m-in-vlore-393187060.jpg"
 language: en
 slug: sea-view-apartment-105m-in-vlore
 address: "Rruga Shyqyri Ali Merka 7th floor, Vlorë, Albania"

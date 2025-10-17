@@ -1,7 +1,7 @@
 ---
 title: "The Krist Apartment"
 description: "The Krist Apartment in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, located less than a kilometer from the serene Vjetër Beach and a mere 17-minute stroll from the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/the-krist-apartment-8d80ab6bf73f.jpg"
 language: en
 slug: the-krist-apartment
 address: "Rr. Gjergj Arianiti, 9401 Vlorë, Albania"

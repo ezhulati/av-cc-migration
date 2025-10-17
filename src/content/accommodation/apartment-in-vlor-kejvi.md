@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Vlorë Kejvi"
 description: "Apartment in Vlorë Kejvi emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475064630.jpg?k=1089178a7f7fe220c051166872b96e3c50311139f738f28e776cf67a7dfff21b&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-vlor-kejvi-475064630.jpg"
 language: en
 slug: apartment-in-vlor-kejvi
 address: "Rruga Fejzo Mema, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Magllara"
 description: "Hotel Magllara stands as a distinguished 4-star gem in Sarandë, offering guests an unparalleled beachfront experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107894209.jpg?k=6ee9564bf70788d036de58f31cd8b444aaa37f3dc80d385a3eb598fe075bea5e&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-magllara-107894209.jpg"
 language: en
 slug: hotel-magllara
 address: "Rruga Naim Frasheri (Main walking boulevard), 9702 Sarandë, Albania"

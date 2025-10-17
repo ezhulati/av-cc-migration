@@ -1,7 +1,7 @@
 ---
 title: "Apartamente Gleni"
 description: "Apartamente Gleni emerges as a serene oasis in Sarandë, offering guests a unique blend of comfort and natural beauty with its garden and mountain views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378863903.jpg?k=8b059adb15421e7dc7d373414d29c847b8d22f4b6f96704a810198385d8f4ada&o=&hp=1"
+featuredImage: "/images/accommodation/apartamente-gleni-378863903.jpg"
 language: en
 slug: apartamente-gleni
 address: "Rruga Butrinti (SH81) Berdenesh, 9701 Sarandë, Albania"

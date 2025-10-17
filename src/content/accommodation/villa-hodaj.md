@@ -1,7 +1,7 @@
 ---
 title: "Villa Hodaj"
 description: "Villa Hodaj emerges as a serene retreat in Orikum, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442390517.jpg?k=81fd8720dae20d2438f8bc16168d758b28945161c20bae5c08a1c5414125338d&o=&hp=1"
+featuredImage: "/images/accommodation/villa-hodaj-442390517.jpg"
 language: en
 slug: villa-hodaj
 address: "Tahir hoxha, 9426 Orikum, Albania"

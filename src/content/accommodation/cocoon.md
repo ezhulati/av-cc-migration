@@ -1,7 +1,7 @@
 ---
 title: "Cocoon"
 description: "Cocoon emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387509072.jpg?k=1fa41771f5034eb247ffa0a60f53bda28bfc5f36a64dfe411f8171fc99000cda&o=&hp=1"
+featuredImage: "/images/accommodation/cocoon-387509072.jpg"
 language: en
 slug: cocoon
 address: "Pruga val deti 58 7-43, 8518 Durrës, Albania"

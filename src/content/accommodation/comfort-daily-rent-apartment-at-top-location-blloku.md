@@ -1,7 +1,7 @@
 ---
 title: "Comfort daily rent apartment at Top Location Blloku"
 description: "Comfort Daily Rent Apartment at Top Location Blloku emerges as a prime choice for travelers seeking a blend of convenience and modernity in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528444986.jpg?k=c2f6d8a726792c1fc7d833e75458c83353f39f912e1553cee8b5502b789c643d&o=&hp=1"
+featuredImage: "/images/accommodation/comfort-daily-rent-apartment-at-top-location-blloku-528444986.jpg"
 language: en
 slug: comfort-daily-rent-apartment-at-top-location-blloku
 address: "Bulevardi Bajram Curri Apartment Nr.10 ,4th floor, Tirana, Albania"

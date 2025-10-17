@@ -1,7 +1,7 @@
 ---
 title: "Cozy loft"
 description: "Cozy Loft emerges as a serene retreat, offering breathtaking mountain views and a tranquil garden and terrace for guests seeking a peaceful escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128376623.jpg?k=c9dc48787b65b99267dd99e0e66fc7ec198ec49d97cdbed3c2727aa098df0573&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-loft-128376623.jpg"
 language: en
 slug: cozy-loft
 address: "Rruga Dhori Lako Nr 8, 7000 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Skanderbeg Square - Tirana Center 2"
 description: "Apartment in Skanderbeg Square - Tirana Center 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484380702.jpg?k=babc748aa41a225a6c4316da6cfaaa26b264b1bff5b60f54b1f151bc083ca366&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-skanderbeg-square-tirana-center-2-484380702.jpg"
 language: en
 slug: apartment-in-skanderbeg-square-tirana-center-2
 address: "Rruga Ded Gjo Luli 39, 1002 Tirana, Albania"

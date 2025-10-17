@@ -1,7 +1,7 @@
 ---
 title: "Midcentury modern 1 bedroom apartment in Tirana"
 description: "Midcentury Modern 1 Bedroom Apartment in Tirana emerges as a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460506662.jpg?k=94403a5811d9326ae24e28aa3a78897f65d045da0c688dd93d6f15876f3739e9&o=&hp=1"
+featuredImage: "/images/accommodation/midcentury-modern-1-bedroom-apartment-in-tirana-460506662.jpg"
 language: en
 slug: midcentury-modern-1-bedroom-apartment-in-tirana
 address: "Rruga Mine Peza 101, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Peter's Sea House"
 description: "Peter's Sea House stands out as a prime destination for travelers seeking a serene beachfront escape in Himare, just a stone's throw away from the pristine Spille Beach and a mere 600 meters from the tranquil Maracit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354589821.jpg?k=4aaafe98685fb74fa78c19fc605e76fc6b96935c5979565417917af83d06efdf&o=&hp=1"
+featuredImage: "/images/accommodation/peter-s-sea-house-354589821.jpg"
 language: en
 slug: peter-s-sea-house
 address: "Himare, 9425 Himare, Albania"

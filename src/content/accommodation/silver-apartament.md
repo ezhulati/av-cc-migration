@@ -1,7 +1,7 @@
 ---
 title: "SILVER apartament"
 description: "SILVER Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of local flavor in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296848272.jpg?k=353f4e15d6498b19eaaf8eefc313558ffefd9c0c0757f8b9a5a44c323834fe09&o=&hp=1"
+featuredImage: "/images/accommodation/silver-apartament-296848272.jpg"
 language: en
 slug: silver-apartament
 address: "Rruga Anastas Lakce, 7001 Korçë, Albania"

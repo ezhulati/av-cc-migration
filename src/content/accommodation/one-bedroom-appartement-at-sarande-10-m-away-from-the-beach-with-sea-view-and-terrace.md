@@ -1,7 +1,7 @@
 ---
 title: "One bedroom appartement at Sarande 10 m away from the beach with sea view and terrace"
 description: "Discover the charm of Sarandë with a stay at the conveniently located apartment, just a stone's throw away from Maestral Beach and a short stroll from La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352220163.jpg?k=dfde371091b9cd511e261cc5b9fafe4b5380a409f31bc1be043f5f2e9cb68f81&o=&hp=1"
+featuredImage: "/images/accommodation/one-bedroom-appartement-at-sarande-10-m-away-from-the-beach-with-sea-view-and-terrace-352220163.jpg"
 language: en
 slug: one-bedroom-appartement-at-sarande-10-m-away-from-the-beach-with-sea-view-and-terrace
 address: "Rruga Butrinti Rrethi i Sarandës, Qarku i Vlorës, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "White Apartment"
 description: "White Apartment presents a refreshing retreat in the heart of Durrës, offering guests a unique blend of urban convenience and serene comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495135255.jpg?k=dcbcdf926a8e1aa22a10b1db3b0c04073a8086582740fabfc4e31988cd5d4abc&o=&hp=1"
+featuredImage: "/images/accommodation/white-apartment-495135255.jpg"
 language: en
 slug: white-apartment
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

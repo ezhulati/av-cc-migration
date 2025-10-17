@@ -1,7 +1,7 @@
 ---
 title: "Hotel MARIO"
 description: "Hotel MARIO emerges as a distinguished 3-star establishment in Lezhë, boasting an enviable position right on the waterfront."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352865352.jpg?k=1fe1272311f2ccbda53ba48c655e7573a19fffa2b7df19eea2bed40361285337&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-mario-352865352.jpg"
 language: en
 slug: hotel-mario
 address: "Rruga Shëngjin - Kune 17, 4503 Lezhë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Stone Villas Voskopoja"
 description: "Stone Villas Voskopoja emerges as a serene retreat in the heart of Voskopojë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494937912.jpg?k=94add042a168e5ec67c5c36f594303cd73bd6845f4f47015c5fd96892f4422eb&o=&hp=1"
+featuredImage: "/images/accommodation/stone-villas-voskopoja-494937912.jpg"
 language: en
 slug: stone-villas-voskopoja
 address: "Rruga Akademia, 7029 Voskopojë, Albania"

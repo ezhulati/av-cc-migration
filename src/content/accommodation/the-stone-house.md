@@ -1,7 +1,7 @@
 ---
 title: "The Stone House"
 description: "The Stone House, located in the serene town of Përmet, offers a tranquil retreat for travelers seeking both adventure and relaxation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444278279.jpg?k=cdcfa43673f3ec1e79c8a3ec3564a8891f73d53ccc19b41e2a00ce6d42cb05f5&o=&hp=1"
+featuredImage: "/images/accommodation/the-stone-house-444278279.jpg"
 language: en
 slug: the-stone-house
 address: "Rruga Mulliri I Vjetër 19, 6404 Përmet, Albania"

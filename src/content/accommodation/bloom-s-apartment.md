@@ -1,7 +1,7 @@
 ---
 title: "Bloom's Apartment"
 description: "Bloom's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GiJyWe3vdct-oxKbeT-LC0Ge4Sg_vqp3UUwp3Cjug=s96-c64"
+featuredImage: "/images/accommodation/bloom-s-apartment-AOh14GiJyWe3.jpg"
 language: en
 slug: bloom-s-apartment
 address: "Rruga Perlat Rexhepi, 1001 Tirana, Albania"

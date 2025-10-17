@@ -1,7 +1,7 @@
 ---
 title: "Klodiana Apartment"
 description: "Klodiana Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a stone's throw away from Sarande Main Beach and a brief stroll from the vibrant Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485171872.jpg?k=33862b100476c999e767b23316a312b521bea179f1bfce83d9000938347246dc&o=&hp=1"
+featuredImage: "/images/accommodation/klodiana-apartment-485171872.jpg"
 language: en
 slug: klodiana-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

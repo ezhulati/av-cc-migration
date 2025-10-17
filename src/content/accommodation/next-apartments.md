@@ -1,7 +1,7 @@
 ---
 title: "Next Apartments"
 description: "Next Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510373918.jpg?k=7b0a44e81cd8418ba89d2e91d97a7db65157026edc5807931f5d3e034364e3c5&o=&hp=1"
+featuredImage: "/images/accommodation/next-apartments-510373918.jpg"
 language: en
 slug: next-apartments
 address: "Rruga Urani Pano, 1022 Tirana, Albania"

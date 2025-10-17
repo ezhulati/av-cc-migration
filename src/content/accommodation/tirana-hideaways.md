@@ -1,7 +1,7 @@
 ---
 title: "Tirana Hideaways"
 description: "Tirana Hideaways emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523750755.jpg?k=c5342f0f0157b55eb6813bfbcd614e3d323922f2da03be50d2eb79151363f626&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-hideaways-523750755.jpg"
 language: en
 slug: tirana-hideaways
 address: "Rruga Liman Kaba, 1025 Tirana, Albania"

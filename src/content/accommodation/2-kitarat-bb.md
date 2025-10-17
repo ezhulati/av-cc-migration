@@ -1,7 +1,7 @@
 ---
 title: "2 Kitarat BB"
 description: "2 Kitarat BB emerges as a charming choice for travelers seeking comfort and convenience in Vlorë, boasting a recent renovation that enhances its appeal."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489725148.jpg?k=782ac2d1975ae6cac5c0107562acbc949d7ae48e47e3ff38ec8dfde60ac6258f&o=&hp=1"
+featuredImage: "/images/accommodation/2-kitarat-bb-489725148.jpg"
 language: en
 slug: 2-kitarat-bb
 address: "Rruga Sadik Zotaj 2 piano, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Guci"
 description: "Villa Guci stands out as a serene retreat, offering guests a unique blend of comfort and convenience with its picturesque garden views and spacious accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474447438.jpg?k=f5a9464ddb9c973438245961261b9fb6c54dda71c90e4bde3b2d61f2c9e282e6&o=&hp=1"
+featuredImage: "/images/accommodation/villa-guci-474447438.jpg"
 language: en
 slug: villa-guci
 address: "Rruga Shaban Baxhaku, 1001 Tirana, Albania"

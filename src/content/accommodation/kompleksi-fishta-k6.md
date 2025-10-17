@@ -1,7 +1,7 @@
 ---
 title: "Kompleksi Fishta K6"
 description: "Kompleksi Fishta K6 emerges as a standout choice for travelers seeking the perfect blend of comfort and convenience in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486781602.jpg?k=635e208c01a15e22aae53def7f16d85caed04caa34a1120bf581c5c6a34576da&o=&hp=1"
+featuredImage: "/images/accommodation/kompleksi-fishta-k6-486781602.jpg"
 language: en
 slug: kompleksi-fishta-k6
 address: "Rruga Shtepia e Peshkatareve, 4001 Velipojë, Albania"

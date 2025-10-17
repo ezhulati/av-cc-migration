@@ -1,7 +1,7 @@
 ---
 title: "Sea&Sun&Sand Luxury Apartment in Durres"
 description: "Sea&Sun&Sand Luxury Apartment in Durres emerges as a premier choice for travelers seeking a blend of comfort and adventure right on the doorstep of Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517420529.jpg?k=e97744498efb9f6448b723adcb9f5468501fa217c15e5bc29cb27ad7799eebdf&o=&hp=1"
+featuredImage: "/images/accommodation/sea-sun-sand-luxury-apartment-in-durres-517420529.jpg"
 language: en
 slug: sea-sun-sand-luxury-apartment-in-durres
 address: "Rruga Currila, 2000 Durrës, Albania"

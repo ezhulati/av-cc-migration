@@ -1,7 +1,7 @@
 ---
 title: "Hotel Boutique Vila 135"
 description: "Hotel Boutique Vila 135 stands out as a premier destination for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318105400.jpg?k=7fca2f4918b6c734f7bd034d2a4aa4376de8e458bbe6a49e9ee993965b0c9db9&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-boutique-vila-135-318105400.jpg"
 language: en
 slug: hotel-boutique-vila-135
 address: "Rruga e Barrikadave, 1017 Tirana, Albania"

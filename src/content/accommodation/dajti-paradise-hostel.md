@@ -1,7 +1,7 @@
 ---
 title: "Dajti Paradise Hostel"
 description: "Dajti Paradise Hostel emerges as a serene retreat in Lanabregas, offering a unique blend of natural beauty and comfort just 18 km away from the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493516696.jpg?k=556705a9da173cdd088aef208a192074f1481a662ab6a474184c5fddf8e3a795&o=&hp=1"
+featuredImage: "/images/accommodation/dajti-paradise-hostel-493516696.jpg"
 language: en
 slug: dajti-paradise-hostel
 address: "SH47 SH47, Tirana, Albania, 1047 Lanabregas, Albania"

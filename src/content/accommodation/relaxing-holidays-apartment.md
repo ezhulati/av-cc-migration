@@ -1,7 +1,7 @@
 ---
 title: "Relaxing Holidays Apartment"
 description: "Relaxing Holidays Apartment emerges as a serene retreat in the heart of Sarandë, a mere stone's throw from the pristine Flamingo Beach and a short stroll from the tranquil Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482038240.jpg?k=16f01a48304cf094fb1d851dad4ee2b413ff443a74aca5210d39eb273b8c92f6&o=&hp=1"
+featuredImage: "/images/accommodation/relaxing-holidays-apartment-482038240.jpg"
 language: en
 slug: relaxing-holidays-apartment
 address: "Rruga Butrinti, Sarandë, Albania"

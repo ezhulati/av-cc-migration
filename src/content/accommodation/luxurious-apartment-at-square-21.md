@@ -1,7 +1,7 @@
 ---
 title: "Luxurious Apartment at Square 21"
 description: "Discover the epitome of urban elegance at Luxurious Apartment at Square 21, a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493266956.jpg?k=61eb9a8b4c89e14250dc0437898548a3d2d0b61382c416542ea5072a094689a1&o=&hp=1"
+featuredImage: "/images/accommodation/luxurious-apartment-at-square-21-493266956.jpg"
 language: en
 slug: luxurious-apartment-at-square-21
 address: "Rruga Muhedin Llagani, 1001 Tirana, Albania"

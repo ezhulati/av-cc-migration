@@ -1,7 +1,7 @@
 ---
 title: "Dea's Home"
 description: "Dea's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510497653.jpg?k=0d209dc355f26c943a9944e31bd829dcc5538fc5fbe78e9dc44737818ce99ce7&o=&hp=1"
+featuredImage: "/images/accommodation/dea-s-home-510497653.jpg"
 language: en
 slug: dea-s-home
 address: "Rruga Vllazën Huta, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment with sea view"
 description: "Apartment with Sea View stands as a beacon of comfort in the vibrant heart of Sarandë, offering guests a unique blend of convenience and serenity."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472638777.jpg?k=42e25022f5646df4c279e48e7b9f4d48adb140eb7650bdf988bc7221e2ebbb29&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-with-sea-view-472638777.jpg"
 language: en
 slug: apartment-with-sea-view
 address: "Teki Haderi , lagjia numer 1, 9701 Sarandë, Albania"

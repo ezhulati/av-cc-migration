@@ -1,7 +1,7 @@
 ---
 title: "Lola Apartment"
 description: "Lola Apartment emerges as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/44042163.webp?k=72f8580204057f8796fa5e294d8b02f040e5a4cd039a77c12f39245d5e1f0138&o=?t=1529056093"
+featuredImage: "/images/accommodation/lola-apartment-44042163.web.jpg"
 language: en
 slug: lola-apartment
 address: "7 Rruga Antipatrea 2, 5001 Berat, Albania"

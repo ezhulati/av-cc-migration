@@ -1,7 +1,7 @@
 ---
 title: "Downtown apartment"
 description: "Downtown Apartment emerges as a prime choice for travelers seeking comfort and convenience in Fier, located just a short drive from the iconic Independence Square and Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/182445284.webp?k=5b7a15f829c50a82220541269c627d88fbc53147cfadf4ee928d115abcf2ee71&o=?t=1669388108"
+featuredImage: "/images/accommodation/downtown-apartment-182445284.we.jpg"
 language: en
 slug: downtown-apartment
 address: "Rruga Mihal Bego, 9301 Fier, Albania"

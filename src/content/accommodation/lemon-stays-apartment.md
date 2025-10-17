@@ -1,7 +1,7 @@
 ---
 title: "Lemon Stays Apartment"
 description: "Lemon Stays Apartment, a recently updated gem, offers a prime location in Vlorë, just a stone's throw from Vlore Beach, Independence Square, and the iconic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475682392.jpg?k=20c5bb2d97e1d74704c84c5505e7d4277b9e3072d56071bf62431e6448102b8d&o=&hp=1"
+featuredImage: "/images/accommodation/lemon-stays-apartment-475682392.jpg"
 language: en
 slug: lemon-stays-apartment
 address: "Rruga Sadik Zotaj Apartment nr.9, Floor 3 , Builidng nr.1070, 9401 Vlorë, Albania"

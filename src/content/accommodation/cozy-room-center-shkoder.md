@@ -1,7 +1,7 @@
 ---
 title: "Cozy Room Center Shkoder"
 description: "Cozy Room Center Shkoder emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër, a mere 49 km away from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508855307.jpg?k=182017a51a4097f66560ea83d76edd44613acb77765199d204132ccc9224efe1&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-room-center-shkoder-508855307.jpg"
 language: en
 slug: cozy-room-center-shkoder
 address: "Bulevardi Bujar Bishanaku, Shkodër, Albania"

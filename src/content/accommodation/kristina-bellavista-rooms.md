@@ -1,7 +1,7 @@
 ---
 title: "Kristina Bellavista Rooms"
 description: "Kristina Bellavista Rooms emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë, boasting panoramic sea views and a stone's throw proximity to the city's most beloved beaches including Sarande Main Beach, Saranda City Beach, and La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147880835.jpg?k=cf46a7cfecefedf7cfcc9d955ed55c63a64cc9e11ff62e46219f59edd0536cfa&o=&hp=1"
+featuredImage: "/images/accommodation/kristina-bellavista-rooms-147880835.jpg"
 language: en
 slug: kristina-bellavista-rooms
 address: "Rruga Mitat Hoxha 61/1, 9701 Sarandë, Albania"

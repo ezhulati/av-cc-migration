@@ -1,7 +1,7 @@
 ---
 title: "Super Apartment"
 description: "Super Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510961235.jpg?k=c228209e53f75c9ffa2877d230f8e92fdb8d19264b25bae3b053127dea6c9d7f&o=&hp=1"
+featuredImage: "/images/accommodation/super-apartment-510961235.jpg"
 language: en
 slug: super-apartment
 address: "Rruga Selaudin Zorba 3, 1001 Tirana, Albania"

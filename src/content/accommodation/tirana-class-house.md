@@ -1,7 +1,7 @@
 ---
 title: "Tirana Class House"
 description: "Tirana Class House emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488817575.jpg?k=d50049bb44860bce191d1b4d82f034e2c40e5f3417cefa7cc0dc40d5d361084b&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-class-house-488817575.jpg"
 language: en
 slug: tirana-class-house
 address: "Rruga Hasan Vogli 3, 1056 Tirana, Albania"

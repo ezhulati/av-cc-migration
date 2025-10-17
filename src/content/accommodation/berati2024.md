@@ -1,7 +1,7 @@
 ---
 title: "Berati2024"
 description: "Berati2024 stands out as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522951871.jpg?k=3cf485de9ffef20f648e9a0c9f60f20756f0aab6484cc18f7b13eb8a93da4020&o=&hp=1"
+featuredImage: "/images/accommodation/berati2024-522951871.jpg"
 language: en
 slug: berati2024
 address: "Rruga Antipatrea, 5002 Berat, Albania"

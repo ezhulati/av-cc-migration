@@ -1,7 +1,7 @@
 ---
 title: "Arno Apartment"
 description: "Arno Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527203457.jpg?k=88ed7aa6ae15e5b1a5beb4e06e6d94d75182eb1a25974a92b8218266fb04ff62&o=&hp=1"
+featuredImage: "/images/accommodation/arno-apartment-527203457.jpg"
 language: en
 slug: arno-apartment
 address: "Rruga Fan Noli, 2505 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Appartamento in centro."
 description: "Appartamento in centro stands as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483298396.jpg?k=0f55ee3f3a5f596c8a53472fdad46db6ac5c505715999e5a83cc3ec29835128a&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-in-centro-483298396.jpg"
 language: en
 slug: appartamento-in-centro
 address: "te Orizit, Bulevardi Ismail Qemali, Prane tregut, Vlorë 9400, 9400 Vlorë, Albania"

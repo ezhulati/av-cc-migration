@@ -1,7 +1,7 @@
 ---
 title: "ELÉA Guesthouse himare"
 description: "ELÉA Guesthouse Himare stands out as a serene retreat, offering guests a unique blend of comfort and scenic beauty, just a short distance from the pristine Prinos Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467781481.jpg?k=2f54848ecb7e3bb837cf42c2d4ece0c60e28bf8185db2a0e47d2ee1fd006db1c&o=&hp=1"
+featuredImage: "/images/accommodation/el-a-guesthouse-himare-467781481.jpg"
 language: en
 slug: el-a-guesthouse-himare
 address: "ex SH8, 8888 Himare, Albania"

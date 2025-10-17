@@ -1,7 +1,7 @@
 ---
 title: "Pietro Guesthouse 3"
 description: "Pietro Guesthouse 3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+featuredImage: "/images/accommodation/pietro-guesthouse-3-8ecb6dbf787b.jpg"
 language: en
 slug: pietro-guesthouse-3
 address: "31 Rruga Bardhok Biba, 1016 Tirana, Albania"

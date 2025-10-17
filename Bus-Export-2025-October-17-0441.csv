@@ -1,0 +1,1773 @@
+﻿ID,Title,Content,Excerpt,Date,"Post Type",Permalink,"Image URL","Image Title","Image Caption","Image Description","Image Alt Text","Image Featured","Attachment URL",Categories,Tags,Status,"Author ID","Author Username","Author Email","Author First Name","Author Last Name",Slug,Format,Template,Parent,"Parent Slug",Order,"Comment Status","Ping Status","Post Modified Date"
+127196,"Tirana to Saranda by Bus","<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Bus Schedules, Routes, and Booking</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Traveling from <a href=""https://albaniavisit.com/destinations/tirana/"">Tirana</a> to <a href=""https://albaniavisit.com/destinations/saranda/"">Saranda</a> by bus is one of the most scenic and convenient ways to explore Albania’s southern coast. This comprehensive guide covers everything you need to know, from schedules and pricing to travel tips and what to expect on the journey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Why Take the Bus?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Budget-friendly:</strong> €12 to €16 fare vs. €130+ by taxi</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Scenic:</strong> Passes through central Albania or via the Ionian route</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reliable:</strong> 7–8 daily departures; expanded service in summer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Low-impact:</strong> Buses use less fuel per rider than cars or flights</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Travel Time and Distance</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Distance:</strong> ~267 km</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Time:</strong> ~4 to 5 hours depending on traffic and route</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Stops:</strong> Most buses include 1 short café/rest stop midway</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Peak season:</strong> Leave earlier in the day—afternoon buses can hit heavy traffic</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Departure &amp; Arrival Points</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Departure:</strong> <a href=""https://www.google.com/maps/place/Tirana+Parking+-+South+and+North+Bus+Terminal/@41.3442336,19.7769312,17z/data=!3m1!4b1!4m6!3m5!1s0x135031bf3c453df5:0xd0a1054923d52ad0!8m2!3d41.3442336!4d19.7769312!16s%2Fg%2F11c60jxx2b?entry=ttu&amp;g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">Tirana’s Regional Bus Terminal</a> (North &amp; South Albania), ~15 min by taxi from city center.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Arrival:</strong> <a href=""https://www.google.com/maps/place/Saranda+Bus+Station+(Towards+Tirana,+Vlor%C3%AB,+Gjirokast%C3%ABr,+Blue+Eye,+etc.)/@39.8674602,19.9763202,14.09z/data=!4m10!1m2!2m1!1sSaranda+Bus+Station!3m6!1s0x135b155d5df5562f:0x7f5ec0f4a51cfb53!8m2!3d39.8749483!4d20.0066788!15sChNTYXJhbmRhIEJ1cyBTdGF0aW9uWhUiE3NhcmFuZGEgYnVzIHN0YXRpb26SARZ0cmFuc3BvcnRhdGlvbl9zZXJ2aWNlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVI2YlUxSFVrOUJFQUWqAVcKCC9tLzAxYmp2EAEqDyILYnVzIHN0YXRpb24oADIfEAEiG5enR76mGSbNWAspejAwBZme7fYUf8F0P_HiWzIXEAIiE3NhcmFuZGEgYnVzIHN0YXRpb27gAQD6AQQIURAw!16s%2Fg%2F11rfb26bg2?entry=ttu&amp;g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">Saranda bus stop</a> near Friendship Park, walkable to promenade, ferry, and hotels.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Booking Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Book through a regional bus platform. Most services offer:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>PDF tickets via email</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Card checkout</strong> with Stripe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Real-time schedules and seat confirmation</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading""><strong>Based on Reviews</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Print your ticket</strong>—some drivers won’t accept mobile screenshots without QR</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Carry cash (€1–3)</strong> in case your luggage is charged separately</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Confirm your <strong>exact pickup point</strong>, especially if booked from non-Tirana origins</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some routes are not updated in real-time, so <strong>arrive early</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉 <a href=""https://geni.us/tirana-saranda-bus"" target=""_blank"" rel=""noreferrer noopener nofollow""><strong>Check schedules and book your seat online</strong> »</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">What to Expect Onboard</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Luggage:</strong> 1 suitcase + small carry-on included; excess might incur small fee</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Seats:</strong> Comfortable, reclining, not assigned</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>AC:</strong> Usually on, may vary in strength</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Toilets:</strong> Some buses have them—ask before boarding</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Wi-Fi/Outlets:</strong> Not guaranteed</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Luggage:</strong> 1 suitcase + small carry-on included; excess might incur small fee</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Highlights of the Route</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This isn’t just a transfer—it’s an immersive trip. You’ll pass rolling farmlands, rivers, and possibly the Ionian coast, depending on the route. If your bus takes the inland Gjirokastër route (most do), you’ll also see parts of Albania’s mountain interior.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As you approach Saranda, the views shift to turquoise sea and whitewashed hills. You’ll know you’ve arrived in the <a href=""https://albaniavisit.com/attractions/albanian-riviera/"" data-type=""attractions"" data-id=""11943"">Albanian Riviera</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Arrival in Saranda</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The bus stop is centrally located—walk to most hotels, beaches, or ferry terminal. Taxis are available but usually unnecessary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Discovering Saranda</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong><a href=""https://albaniavisit.com/attractions/castles-and-fortresses-in-albania/"" data-type=""attractions"" data-id=""12730"">Lëkurësi Castle:</a></strong> Sunset views over the bay</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href=""https://albaniavisit.com/destinations/ksamil/"">Ksamil Beach:</a></strong> 15 km south, postcard-perfect</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href=""https://albaniavisit.com/destinations/butrint/"" data-type=""destinations"" data-id=""3071"">Butrint Ruins:</a></strong> UNESCO-listed site 20 km away</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href=""https://albaniavisit.com/attractions/blue-eye-spring/"" data-type=""attractions"" data-id=""18891"">Blue Eye Spring:</a></strong> Vibrant turquoise water bubbling from underground</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href=""https://albaniavisit.com/destinations/saranda/"" data-type=""destinations"" data-id=""2733"">Seaside Promenade:</a></strong> Cafes, seafood, xhiro (walking) culture</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Print your ticket and ID</strong>—helps avoid issues</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Pack water and snacks</strong>—buses don’t sell food</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Bring a light sweater</strong>—AC may get cold</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Arrive 30 minutes early</strong>—no assigned seats</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Don’t rely on restrooms</strong>—use terminal facilities when possible</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Tirana to Saranda Bus FAQs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<!-- SEO FAQ Accordion -->
+<style>
+.accordion {
+  background: #fff;
+  margin-bottom: 2rem;
+  font-family: inherit;
+}
+.accordion-item {
+  background: #fff;
+  margin: 0;
+}
+.accordion-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  padding: 1rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: none;
+  width: 100%;
+  text-align: left;
+  color: #1a1a1a;
+  background: #fff;
+}
+.accordion-title:hover {
+  background-color: #f6f6f6;
+}
+.accordion-desc {
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.6;
+  padding: 0 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+}
+.accordion-item.open .accordion-desc {
+  max-height: 500px;
+  padding: 1rem;
+}
+.accordion-caret {
+  transition: transform 0.3s ease;
+  margin-left: 0.5rem;
+}
+.accordion-item.open .accordion-caret {
+  transform: rotate(90deg);
+}
+</style>
+
+<div class=""accordion"" id=""faq-tirana-saranda"">
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      How long does the bus take from Tirana to Saranda?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      The journey takes 4 to 5 hours depending on traffic, route, and rest stops.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Where does the bus leave from in Tirana?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Buses depart from the Regional Bus Terminal (North & South Albania), located about 15 minutes from the city center.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Is the bus stop in Saranda close to the beach and hotels?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Yes, the bus stops in the city center—within walking distance of the promenade, hotels, beach, and ferry port.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Are there bathrooms on board the bus?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Some buses have restrooms, but it's not guaranteed. Most trips include a short rest stop midway.
+    </div>
+  </div>
+
+</div>
+
+<script>
+document.querySelectorAll('.accordion-title').forEach(title => {
+  title.addEventListener('click', () => {
+    const item = title.parentElement;
+    const openItem = document.querySelector('.accordion-item.open');
+    if (openItem && openItem !== item) openItem.classList.remove('open');
+    item.classList.toggle('open');
+  });
+});
+</script>
+
+<!-- Structured Data for SEO -->
+<script type=""application/ld+json"">
+{
+  ""@context"": ""https://schema.org"",
+  ""@type"": ""FAQPage"",
+  ""mainEntity"": [
+    {
+      ""@type"": ""Question"",
+      ""name"": ""How long does the bus take from Tirana to Saranda?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""The journey takes 4 to 5 hours depending on traffic, route, and rest stops.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Where does the bus leave from in Tirana?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Buses depart from the Regional Bus Terminal (North & South Albania), located about 15 minutes from the city center.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Is the bus stop in Saranda close to the beach and hotels?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Yes, the bus stops in the city center—within walking distance of the promenade, hotels, beach, and ferry port.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Are there bathrooms on board the bus?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Some buses have restrooms, but it's not guaranteed. Most trips include a short rest stop midway.""
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Enjoy Your Albania Visit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Tirana to Saranda by bus is a reliable and rewarding way to reach the coast. It’s cheap, direct, and scenic—just follow the local travel wisdom: book early, print everything, and enjoy the ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Welcome to Albania’s Riviera. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉 <strong><a href=""https://geni.us/tirana-saranda-bus"" target=""_blank"" rel=""noreferrer noopener nofollow"">Book your seat, enjoy the ride »</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Rrugë të mbarë</strong> – have a great trip!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {""ref"":140437} /-->
+
+<!-- wp:html -->
+<!-- Transfer CTA Card (styled like your timetable) + Your Button + Widget -->
+<style>
+  /* Card styles to match the timetable look */
+  .av-xfer-card{
+    border:1px solid #e9ecef; border-radius:16px; background:#fff;
+    box-shadow:0 2px 10px rgba(0,0,0,.06); padding:16px; margin:16px 0;
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif
+  }
+  .av-xfer-head{display:flex;align-items:center;gap:10px;margin:0 0 8px 0}
+  .av-xfer-badge{width:36px;height:36px;border-radius:10px;background:#fff3f3;display:flex;align-items:center;justify-content:center;font-size:18px}
+  .av-xfer-title{font-size:16px;font-weight:700;margin:0;color:#212529}
+  .av-xfer-text{font-size:14px;color:#495057;margin:6px 0 12px 0;line-height:1.45}
+  .av-xfer-actions{display:flex;justify-content:left;margin-top:4px}
+  .av-xfer-meta{font-size:12px;color:#6c757d;margin-top:10px;text-align:left}
+
+  /* Your original strong button rules (kept as provided) */
+  a.gotoalbania-form-link,
+  a.gotoalbania-form-link:link,
+  a.gotoalbania-form-link:visited{
+    display:inline-block; padding:12px 24px;
+    background:#fd1113 !important; /* red */
+    color:#fff !important; /* force white text */
+    text-decoration:none !important; /* kill underline */
+    border-radius:4px; font:700 16px/1.2 Arial, sans-serif;
+    text-align:left; transition:transform 0.2s ease;
+  }
+  a.gotoalbania-form-link:hover,
+  a.gotoalbania-form-link:focus,
+  a.gotoalbania-form-link:active,
+  a.gotoalbania-form-link:focus-visible{
+    background:#fd1113 !important; /* stay red on hover */
+    color:#fff !important; /* stay white text */
+    text-decoration:none !important;
+    transform:scale(1.03); outline:none; /* optional */
+  }
+  @media (max-width:600px){
+    a.gotoalbania-form-link{ padding:10px 20px; font-size:16px; width:100%; }
+  }
+
+  /* Smooth scroll + offset in case of sticky header (adjust 80px if needed) */
+  #widget-form-1{ scroll-margin-top:80px; }
+  html{ scroll-behavior:smooth; }
+</style>
+
+<div class=""av-xfer-card"" role=""region"" aria-label=""Private transfer option"">
+  <div class=""av-xfer-head"">
+    <div class=""av-xfer-badge"" aria-hidden=""true"">🚗</div>
+    <p class=""av-xfer-title"">Private Transfer</p>
+  </div>
+
+  <p class=""av-xfer-text"">
+    If you’re short on time or want a smoother trip than the bus, this is the better fit.
+  </p>
+
+  <div class=""av-xfer-actions"">
+    <a class=""gotoalbania-form-link"" href=""#widget-form-1"">Book private transfer</a>
+  </div>
+
+  <div class=""av-xfer-meta"">English-speaking driver • Fixed price • A/C vehicle</div>
+</div>
+
+<!-- Widget: placed right below the CTA button -->
+<div id=""widget-form-1""
+     class=""gotoalbania-form""
+     data-lang=""en""
+     data-type=""form/slug/albania""
+     data-domain=""gotoalbania.ru""></div>
+<script src=""https://gotoalbania.ru/payments/js/form-injector.js"" async></script>
+
+<!-- /wp:html -->","Find everything you need to know about taking the bus from Tirana to Saranda—routes, times, tickets, and what to expect along the way.",2024-04-25,bus,https://albaniavisit.com/bus/tirana-to-saranda/,https://albaniavisit.com/wp-content/uploads/2024/04/Albania-Bus-Tirana-to-Saranda.jpeg,"Albania Bus Tirana to Saranda",,"Albania Bus Tirana to Saranda","Albania Bus Tirana to Saranda",https://albaniavisit.com/wp-content/uploads/2024/04/Albania-Bus-Tirana-to-Saranda.jpeg,,Transportation,,publish,1,enri@albaniavisit.com,enri@albaniavisit.com,Enri,Zhulati,tirana-to-saranda,,,0,0,0,closed,closed,2025-09-25
+127289,"Tirana to Gjirokastër by Bus","<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Schedule, Tickets, and Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Traveling from <a href=""https://albaniavisit.com/destinations/tirana/"">Tirana</a> to <a href=""https://albaniavisit.com/destinations/gjirokaster/"" data-type=""destinations"" data-id=""5313"">Gjirokaster</a> by bus is one of the most popular journeys in Albania, connecting the vibrant capital with the <a href=""https://albaniavisit.com/attractions/unesco-world-heritage-sites/"" data-type=""attractions"" data-id=""8868"">UNESCO-listed</a> ""City of Stone."" This route is well-served by frequent buses and offers a scenic ride through Albania’s heartland. This guide covers everything you need to know: bus schedules, ticket options, travel time, luggage tips, and how to book with confidence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Bus Schedules and Travel Duration</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Departures:</strong> ~11 buses daily from early morning (05:00) until evening (20:30)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel time:</strong> ~3.5 to 4 hours depending on traffic and stops</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Distance:</strong> ~227 km</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Ticket cost:</strong> Approx. €12 (standard, no class system)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Departures increase in frequency during peak travel seasons. Early morning buses are ideal for beating traffic and arriving with a full day ahead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Where to Board in Tirana</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Buses depart from Tirana's <a href=""https://www.google.com/maps/place/Tirana+Parking+-+South+and+North+Bus+Terminal/@41.3442335,19.7720603,17z/data=!3m1!4b1!4m6!3m5!1s0x135031bf3c453df5:0xd0a1054923d52ad0!8m2!3d41.3442336!4d19.7769312!16s%2Fg%2F11c60jxx2b?entry=ttu&amp;g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D"">Regional Bus Terminal (South and North Albania)</a>. The station is accessible by taxi or local city bus and is about 15 km from the international airport. It offers waiting areas and ticket windows.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tip:</strong> Arrive at least 20–30 minutes early to find your bus and board comfortably.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href=""https://geni.us/tirana-gjirokaster-bus"" target=""_blank"" rel=""noreferrer noopener nofollow"">Book online</a> via a trusted platform. Most tickets:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Match station prices</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Are <strong>emailed as PDFs</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Require <strong>card payment</strong> (Visa/Mastercard supported)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading""><strong>Important</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Recent traveler reviews highlight key issues:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Luggage policies</strong> may vary; carry €1–€3 in cash for extras.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tickets</strong> may lack a scannable QR code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Always print your ticket</strong>, or at least screenshot the full confirmation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Some travelers report </strong>mismatch between the online schedule and actual bus timing or operator.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉 <a href=""https://geni.us/tirana-gjirokaster-bus"">Check current bus schedules and reserve your seat online »</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Onboard Experience</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Expect a comfortable, scenic ride through southern Albania. You’ll pass through landscapes ranging from lowlands to mountainous terrain near Gjirokastër. Some buses make a rest stop for bathrooms and refreshments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Seating:</strong> Open seating (first-come), reclining seats</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Air conditioning:</strong> Common, but airflow can vary</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Restroom:</strong> Usually not onboard; plan for a rest stop</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Entertainment:</strong> None—bring music, headphones, or a book</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Stops:</strong> Most buses make 1 short stop (~15 minutes) mid-route</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Arrival in Gjirokastër</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The <a href=""https://www.google.com/maps/place/Bus+Station/@40.0843598,20.1396768,17z/data=!3m1!4b1!4m6!3m5!1s0x135b032f44bf68a5:0x719a350aa1956b81!8m2!3d40.0843599!4d20.1445477!16s%2Fg%2F11g3yht2nr?entry=ttu&amp;g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">bus station in Gjirokastër</a> is centrally located, offering easy access to hotels and attractions. You’ll be dropped in the lower town, near markets and hotels. If staying in the hilltop quarter, taxis are available or walk up 10–20 mins. Expect cobblestone streets, historic Ottoman houses, and views of the Drino Valley.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You may catch a glimpse of the majestic <a href=""https://albaniavisit.com/attractions/gjirokastra-castle-museum/"" data-type=""attractions"" data-id=""7369"">Gjirokastër Castle</a> as you enter the city.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Arrive 30 minutes early</strong> at the terminal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Print your ticket</strong> and carry photo ID</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Have cash on hand</strong> for baggage fees or café snacks</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Wear layers</strong>—air con varies</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Use the break stop wisely</strong> (restroom/snack)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Expect delays</strong> of 15–20 minutes common on rural roads</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Tips for a Smooth Ride</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Plan arrival logistics</strong> if reaching Gjirokastër after dark.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Choose an early departure</strong> for better traffic and more daylight on arrival.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Pack light and smart</strong>, especially if continuing to the hillside old town.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Bring small cash</strong> for restrooms or extra baggage fees.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Frequently Asked Questions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<!-- Accordion FAQ Section -->
+<style>
+.accordion {
+  background: #fff;
+  margin-bottom: 2rem;
+  font-family: inherit;
+}
+.accordion-item {
+  background: #fff;
+  margin: 0;
+}
+.accordion-title {
+  font-family: inherit;
+  font-size: 1.125rem;
+  font-weight: 600;
+  padding: 1rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  border: none;
+  width: 100%;
+  text-align: left;
+  color: #1a1a1a;
+}
+.accordion-title:hover {
+  background-color: #f6f6f6;
+}
+.accordion-desc {
+  font-family: inherit;
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.6;
+  padding: 0 1rem;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+}
+.accordion-item.open .accordion-desc {
+  max-height: 500px;
+  padding: 1rem;
+}
+.accordion-caret {
+  transition: transform 0.3s ease;
+  margin-left: 0.5rem;
+}
+.accordion-item.open .accordion-caret {
+  transform: rotate(90deg);
+}
+</style>
+
+<div class=""accordion"" id=""faq-tirana-gjirokaster"">
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Is traveling by bus from Tirana to Gjirokastër safe?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Yes, bus travel between Tirana and Gjirokastër is safe. Bus companies prioritize passenger safety and maintain their vehicles to ensure a secure and comfortable trip.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      How can I book bus tickets for this route?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      You can easily book your bus tickets from Tirana to Gjirokastër online through 
+      <a href=""https://geni.us/tirana-gjirokaster-bus"" target=""_blank"" rel=""noreferrer noopener nofollow""><strong>this trusted booking platform</strong></a> 
+      or at the bus station. Booking in advance is recommended to guarantee your seat.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      What amenities are available on the buses?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Most buses offer basic amenities such as air conditioning, comfortable seating, and luggage storage. Amenities may vary slightly depending on the vehicle.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Are there any stops along the way?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Yes, buses from Tirana to Gjirokastër typically make one or two short stops. These breaks allow passengers to stretch their legs, use restroom facilities, and grab refreshments.
+    </div>
+  </div>
+
+</div>
+
+<script>
+document.querySelectorAll('.accordion-title').forEach(title => {
+  title.addEventListener('click', () => {
+    const item = title.parentElement;
+    const openItem = document.querySelector('.accordion-item.open');
+    if (openItem && openItem !== item) {
+      openItem.classList.remove('open');
+    }
+    item.classList.toggle('open');
+  });
+});
+</script>
+
+<!-- FAQ Structured Data -->
+<script type=""application/ld+json"">
+{
+  ""@context"": ""https://schema.org"",
+  ""@type"": ""FAQPage"",
+  ""mainEntity"": [
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Is it safe to take the bus from Tirana to Gjirokastër?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Yes. Intercity buses in Albania are safe and commonly used by locals and travelers alike.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Can I book Tirana to Gjirokastër bus tickets online?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Yes. You can book tickets online through a trusted Albanian bus platform. The process is simple and the ticket is sent via email.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""How long is the bus ride from Tirana to Gjirokastër?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""The trip takes between 3.5 to 4 hours depending on traffic and any rest stops.""
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Your Turn to Visit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Tirana - Gjirokastër bus route offers a fantastic opportunity to discover two of Albania's most captivating cities. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Booking online is fast and easy, with comfortable buses, and reliable schedules, planning your journey is a breeze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Whether interested in history, culture or simply soaking up the local atmosphere, this route promises an unforgettable experience. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href=""https://geni.us/tirana-gjirokaster-bus"" target=""_blank"" rel=""noreferrer noopener nofollow"">Book your tickets today</a> and get ready to uncover the treasures of Tirana and Gjirokastër.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Rrugë të mbarë</strong> – have a great trip!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {""ref"":140437} /-->","Journey from Tirana to Gjirokaster by bus, connecting two of Albania's most fascinating cities rich in history and cultural heritage.",2024-04-29,bus,https://albaniavisit.com/bus/tirana-to-gjirokaster/,https://albaniavisit.com/wp-content/uploads/2024/04/Tirana-to-Gjirokaster-Bus.jpeg,"Tirana to Gjirokaster Bus",,"Tirana to Gjirokaster Bus","Tirana to Gjirokaster Bus",https://albaniavisit.com/wp-content/uploads/2024/04/Tirana-to-Gjirokaster-Bus.jpeg,,Transportation,,publish,1,enri@albaniavisit.com,enri@albaniavisit.com,Enri,Zhulati,tirana-to-gjirokaster,,,0,0,0,closed,closed,2025-08-03
+140227,"Tirana to Berat by Bus","<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Schedule, Tickets, and Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Traveling from <a class="""" href=""https://albaniavisit.com/destinations/tirana/"">Tirana</a> to <a href=""https://albaniavisit.com/destinations/berat/"">Berat</a> by bus is one of the easiest and most affordable ways to reach one of Albania’s most historic cities. Whether you’re headed for the <a href=""https://albaniavisit.com/attractions/unesco-world-heritage-sites/"" data-type=""attractions"" data-id=""8868"">UNESCO-listed</a> Ottoman houses or planning to explore Berat’s local wineries, this route is simple, scenic, and well-connected.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Route Overview</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Distance:</strong> ~120 km</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel Time:</strong> ~2.5 to 3 hours</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Frequency:</strong> ~10 departures daily</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Ticket Price:</strong> €5–€6 (500–600 ALL)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Buses depart from early morning (around 6:00 AM) through late afternoon, with increased frequency during summer months and weekends. Expect a bus every 60–90 minutes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Why Take the Bus?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Affordable:</strong> A fraction of the cost of taxis or car rentals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reliable:</strong> Regular departures and straightforward boarding.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>No hassle:</strong> No parking or navigation headaches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Direct access:</strong> Drops you close to Berat’s walkable center.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Eco-friendly:</strong> Lower footprint than private car travel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">How to Book</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can purchase tickets directly at the terminal or in advance online.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href=""https://geni.us/tirana-berat-bus"">Book your seat here »</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most tickets are delivered as PDFs via email.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Accepted payment: Card or cash (if in person).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Note:</strong> Some travelers report drivers prefer printed tickets. To avoid confusion, print your e-ticket or screenshot the confirmation clearly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Booking Experience (based on reviews)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Printed tickets may be required </strong>— mobile confirmations may lack a QR code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Occasional mismatches</strong> between online schedules and actual departures.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Some buses may charge €1–3 for luggage</strong>, not disclosed in advance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Limited customer support </strong>in case of booking errors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Where It Leaves and Arrives</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Tirana Departure:</strong> <a href=""https://www.google.com/maps/place/Tirana+Parking+-+South+and+North+Bus+Terminal/@41.3442336,19.7769312,17z/data=!3m1!4b1!4m6!3m5!1s0x135031bf3c453df5:0xd0a1054923d52ad0!8m2!3d41.3442336!4d19.7769312!16s%2Fg%2F11c60jxx2b?entry=ttu&amp;g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">Terminali i Jugut dhe Veriut</a> – the main intercity bus station, about 15–20 minutes west of Skanderbeg Square by taxi or city bus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Berat Arrival:</strong> <a href=""https://www.google.com/maps/place/Berat+Bus+Terminal/@40.7120658,19.9413586,15.24z/data=!4m10!1m2!2m1!1sBerat+Bus+Terminal!3m6!1s0x135aa1fca1ef1519:0xdab4ae5f11119df7!8m2!3d40.7223889!4d19.9433241!15sChJCZXJhdCBCdXMgVGVybWluYWxaFCISYmVyYXQgYnVzIHRlcm1pbmFskgEJYnVzX2RlcG90mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU5zZVUxbGFqSlJSUkFCqgE6EAEyHhABIhpbxNFkyYDjqOXYhA8cAC72nMJWl3TJqWnkNTIWEAIiEmJlcmF0IGJ1cyB0ZXJtaW5hbOABAPoBBAgAEEc!16s%2Fg%2F11c1pg19vp?entry=ttu&amp;g_ep=EgoyMDI1MDcyNy4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">Berat Bus Station</a>, just outside the main town. It’s ~5 minutes by local taxi or a 20-minute walk to the Mangalem and Gorica quarters.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">What to Expect Onboard</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Seating:</strong> Open seating, first-come first-served</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Air Conditioning:</strong> Usually present but can vary</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Restroom:</strong> Not available onboard—use facilities before boarding</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Stops:</strong> Typically no rest breaks; direct ride unless traffic delays</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Luggage is placed underneath the bus. No formal baggage policy is posted, but there are usually no extra fees unless you have multiple large suitcases.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Scenic Notes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This route takes you southwest through central Albania. As you exit Tirana, you’ll pass semi-rural suburbs, olive groves, and wide open farmland. The final approach to Berat brings distant views of the Osum River Valley and the foot of Mt. Tomorr.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Arrival in Berat</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Once you arrive:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most guesthouses and hotels are in Mangalem, Gorica, or the Castle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Taxis are usually available at the station. Negotiate or ask for the meter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you’re walking, head toward Bulevardi Republika and follow signs to the old town.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Berat is compact. Once you reach your hotel, you won’t need further transport.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Practical Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Arrive 15–20 minutes early</strong> in Tirana to locate your bus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Have exact change</strong> or small bills if paying at the terminal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Bring water</strong>—most buses don’t sell anything onboard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel light</strong>—no need for heavy luggage in Berat’s cobbled streets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Double-check destination</strong> with the driver if the bus serves multiple stops.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Tirana to Berat Bus FAQ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<!-- Accordion FAQ Style -->
+<style>
+.accordion {
+  margin-bottom: 2rem;
+  font-family: inherit;
+}
+.accordion-item {
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
+}
+.accordion-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  padding: 1rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: #fff;
+  color: #1a1a1a;
+  border: none;
+  text-align: left;
+}
+.accordion-title:hover {
+  background-color: #f9f9f9;
+}
+.accordion-desc {
+  font-size: 1rem;
+  color: #333;
+  padding: 0 1rem;
+  line-height: 1.6;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+}
+.accordion-item.open .accordion-desc {
+  max-height: 400px;
+  padding: 1rem;
+}
+.accordion-caret {
+  transition: transform 0.3s ease;
+}
+.accordion-item.open .accordion-caret {
+  transform: rotate(90deg);
+}
+</style>
+
+<!-- Accordion FAQ HTML -->
+<div class=""accordion"" id=""faq-tirana-berat"">
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      How much is a bus ticket from Tirana to Berat?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Tickets typically cost €5 to €6, or 500 to 600 Albanian lek.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      How long is the bus ride from Tirana to Berat?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      The journey takes about 2.5 to 3 hours depending on traffic.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Where do buses drop off in Berat?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Buses arrive at the Berat Bus Terminal, located just outside the city center.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Do I need to book tickets in advance?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Advance booking is recommended during high season, but not always required.
+    </div>
+  </div>
+
+  <div class=""accordion-item"">
+    <button class=""accordion-title"">
+      Are the buses comfortable?
+      <span class=""accordion-caret"">▸</span>
+    </button>
+    <div class=""accordion-desc"">
+      Yes. Most buses are modern and air-conditioned, though basic. Onboard restrooms are uncommon.
+    </div>
+  </div>
+
+</div>
+
+<script>
+document.querySelectorAll('.accordion-title').forEach(title => {
+  title.addEventListener('click', () => {
+    const item = title.parentElement;
+    const openItem = document.querySelector('.accordion-item.open');
+    if (openItem && openItem !== item) {
+      openItem.classList.remove('open');
+    }
+    item.classList.toggle('open');
+  });
+});
+</script>
+
+<!-- JSON-LD Structured Data for SEO -->
+<script type=""application/ld+json"">
+{
+  ""@context"": ""https://schema.org"",
+  ""@type"": ""FAQPage"",
+  ""mainEntity"": [
+    {
+      ""@type"": ""Question"",
+      ""name"": ""How much is a bus ticket from Tirana to Berat?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Tickets typically cost €5 to €6, or 500 to 600 Albanian lek.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""How long is the bus ride from Tirana to Berat?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""The journey takes about 2.5 to 3 hours depending on traffic.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Where do buses drop off in Berat?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Buses arrive at the Berat Bus Terminal, located just outside the city center.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Do I need to book tickets in advance?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Advance booking is recommended during high season, but not always required.""
+      }
+    },
+    {
+      ""@type"": ""Question"",
+      ""name"": ""Are the buses comfortable?"",
+      ""acceptedAnswer"": {
+        ""@type"": ""Answer"",
+        ""text"": ""Yes. Most buses are modern and air-conditioned, though basic. Onboard restrooms are uncommon.""
+      }
+    }
+  ]
+}
+</script>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Your Turn to Visit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The bus from Tirana to Berat is one of the easiest ways to reach Albania’s most iconic UNESCO-listed town. With frequent daily departures, low ticket prices, and a smooth 2.5-hour ride, there’s no need to overthink it. Whether you're planning a day trip or staying overnight, getting there by bus keeps your trip simple and affordable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉 <a href=""https://geni.us/tirana-berat-bus"" target=""_blank"" rel=""noreferrer noopener nofollow"">Book your ticket</a>, pack light, and get ready to walk the stone streets of Berat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {""ref"":140437} /-->","Discover how to travel by bus from Tirana to Berat. Find times, fares, insider tips, and what to expect onboard.",2025-07-30,bus,https://albaniavisit.com/bus/tirana-to-berat/,https://albaniavisit.com/wp-content/uploads/2025/07/Tirana-to-Berat-By-Bus.jpg,"Tirana to Berat By Bus",,,"Bus in Berat Albania",https://albaniavisit.com/wp-content/uploads/2025/07/Tirana-to-Berat-By-Bus.jpg,,Transportation,,publish,1,enri@albaniavisit.com,enri@albaniavisit.com,Enri,Zhulati,tirana-to-berat,,,0,0,0,closed,closed,2025-08-03
+140238,"Tirana to Korçë by Bus","<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Schedule, Tickets, and Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Traveling from <a class="""" href=""https://albaniavisit.com/destinations/tirana/"">Tirana</a> to <a href=""https://albaniavisit.com/destinations/korce/"">Korçë</a> is one of the best ways to reach southeastern Albania’s cultural capital. Whether you’re headed to see the cobblestone Old Bazaar, attend a local beer festival, or connect onward toward Greece, the bus from Tirana to Korçë is affordable, frequent, and reliable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Route Overview</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Distance:</strong> ~160 km</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Duration:</strong> ~3.5 to 4 hours</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Frequency:</strong> 7–9 buses per day</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Ticket Price:</strong> €7–€9 (700–900 ALL)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Departures run from early morning (~5:30 AM) to early evening (~7:00 PM). Travel time can vary slightly depending on traffic, road conditions, and whether the bus makes a rest stop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Why Take the Bus?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Budget-friendly:</strong> Way cheaper than a taxi (~€130+)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Direct access:</strong> Buses go to Korçë’s city center</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>No parking or rental stress</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Scenic:</strong> Mountain and lake views en route</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Sustainable:</strong> Lower carbon impact than private travel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Booking Your Ticket</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can buy tickets at the terminal or online in advance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉 <strong><a href=""https://geni.us/tirana-korca-bus"" target=""_blank"" rel=""noreferrer noopener nofollow""><em>Book your ticket here »</em></a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>E-ticket sent via email (PDF)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Visa/Mastercard supported for online booking</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading""><strong>Reviews suggest:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Some drivers won’t accept mobile-only tickets if there’s no barcode.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Always print your ticket or screenshot the confirmation clearly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Buses may charge <strong>€1–€2 cash for luggage</strong>—not mentioned online.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Where It Departs and Arrives</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Tirana Departure:</strong> <a href=""https://www.google.com/maps/place/South+and+North+Albania+Bus+Terminal+(Bus+Station)/@41.344251,19.7578302,15z/data=!4m10!1m2!2m1!1sTirana+north+south+bus+terminal!3m6!1s0x135031bcc8bcb5ab:0x9a2149e535718d84!8m2!3d41.344251!4d19.7768846!15sCh9UaXJhbmEgbm9ydGggc291dGggYnVzIHRlcm1pbmFsWiEiH3RpcmFuYSBub3J0aCBzb3V0aCBidXMgdGVybWluYWySARZ0cmFuc3BvcnRhdGlvbl9zZXJ2aWNlqgFwCggvbS8wMWJqdhABKhwiGG5vcnRoIHNvdXRoIGJ1cyB0ZXJtaW5hbCgAMh8QASIbl6KcDlwayQRbvMF8qnqc86uawOJSuYAkTpOzMiMQAiIfdGlyYW5hIG5vcnRoIHNvdXRoIGJ1cyB0ZXJtaW5hbOABAA!16s%2Fg%2F11fr4g_hmh?entry=ttu&amp;g_ep=EgoyMDI1MDcyOC4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">South &amp; North Albania Bus Terminal</a> (Terminali i Jugut dhe Veriut), near Casa Italia. ~20 min by taxi or public bus from Skanderbeg Square.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Korçë Arrival:</strong> <a href=""https://www.google.com/maps/place/Kor%C3%A7a+Bus+Terminal+(New)/@40.6249578,20.7608905,15z/data=!4m10!1m2!2m1!1zS29yw6fDqyBCdXMgVGVybWluYWw!3m6!1s0x135a0b6ea5f6fbbf:0xababa0108a192d71!8m2!3d40.6233354!4d20.7735341!15sChRLb3LDp8OrIEJ1cyBUZXJtaW5hbFoWIhRrb3LDp8OrIGJ1cyB0ZXJtaW5hbJIBFnRyYW5zcG9ydGF0aW9uX3NlcnZpY2WaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFzYVU1SFpGUlphbFY0VFZkc1VGbFdjR2xUVjJSSVlVaGFWMDFzUlJBQqoBWQoIL20vMDFianYQASoQIgxidXMgdGVybWluYWwoADIfEAEiG78pUYuf1pQpidOW2kyVn_CEs9QAQMXIfn6f4jIYEAIiFGtvcsOnw6sgYnVzIHRlcm1pbmFs4AEA-gEFCNwDEEY!16s%2Fg%2F11rb81y_m8?entry=ttu&amp;g_ep=EgoyMDI1MDcyOC4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">Korçë Bus Terminal </a>(Stacioni i Autobusëve), near Rruga Midhi Kostani—walkable to the city center, Old Bazaar, and most hotels.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">What to Expect Onboard</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Seating:</strong> First come, first served. No assigned seats.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Air Conditioning:</strong> Standard, but not always powerful.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Restroom:</strong> Not onboard—use facilities before boarding.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Stops:</strong> Some routes stop briefly in Elbasan or Pogradec for rest/snack.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Scenic Highlights Along the Way</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This route takes you through mountain foothills, past <a href=""https://albaniavisit.com/attractions/lake-ohrid/"" data-type=""attractions"" data-id=""18883"">Lake Ohrid</a>, and across rural central Albania. Near <a href=""https://albaniavisit.com/destinations/pogradec/"" data-type=""destinations"" data-id=""8403"">Pogradec</a>, you may glimpse the lake if seated on the right side of the bus. In spring and autumn, the mountain passes are especially beautiful.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Arrival in Korçë</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Walkable city:</strong> You can get to most guesthouses, cafes, and museums within 10–15 minutes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>ATM &amp; grocery nearby: </strong>Use Korçë’s city center ATMs for cash—small shops rarely take card</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Old Bazaar: </strong>The heart of Korçë, lined with stone alleys and restaurants, is ~8–10 minutes on foot from the bus station</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Taxis are available</strong> but often unnecessary unless you’re headed to neighborhoods further out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉<em> <strong><a href=""https://albaniavisit.com/destinations/korce/"">Discover Korça »</a></strong></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Arrive 20 mins early</strong> in Tirana to find your bus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Keep small cash (Lek)</strong> on hand for bags, snacks, or toilets en route.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Pack a sweater or scarf</strong>—some buses crank the A/C.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Sit right side</strong> for best mountain/lake views.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Travel light</strong>—cobblestones and hills make big luggage a hassle in Korçë.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Expect flexibility:</strong> Albania’s bus system is good—but don’t expect Swiss precision.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Tirana to Korçë by Bus FAQs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<style>
+.faq-accordion {
+  max-width: 800px;
+  margin: 2rem auto;
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #0c0c0c;
+}
+
+.faq-accordion details {
+  border: 1px solid #e5e5e5;
+  background: #fefefe;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+}
+
+.faq-accordion summary {
+  font-weight: 600;
+  font-size: 1.05rem;
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  padding-right: 1.5rem;
+}
+
+.faq-accordion summary::after {
+  content: ""▼"";
+  position: absolute;
+  right: 0;
+  top: 0.25rem;
+  font-size: 1rem;
+  color: #fd1113;
+  transition: transform 0.2s ease;
+}
+
+.faq-accordion details[open] summary::after {
+  content: ""▲"";
+}
+
+.faq-accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-accordion p {
+  margin-top: 0.75rem;
+  font-size: 0.97rem;
+  color: #504f50;
+}
+</style>
+
+<section class=""faq-accordion"" itemscope itemtype=""https://schema.org/FAQPage"">
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">How much is the bus from Tirana to Korçë?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">Tickets cost €7 to €9 (700–900 lek), depending on the operator and time of year.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">How long is the bus ride from Tirana to Korçë?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">The ride takes around 3.5 to 4 hours, with some routes including a brief rest stop.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">Where does the bus arrive in Korçë?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">Buses arrive at Korçë’s main terminal, a short walk to the city center and Old Bazaar.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">Do I need to print my ticket?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">Yes, it's recommended. Some drivers won’t accept digital-only confirmations without a visible barcode.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">Are there toilets on the bus?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">No. Most buses on this route do not have onboard restrooms. A mid-journey break is typical.</p>
+    </div>
+  </details>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Your Turn to Visit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Tirana to Korçë route is your link to one of Albania’s most interesting cities—without the cost or stress of private transport. With a smooth 3–4 hour ride, direct pickup, and mountain scenery en route, it’s a practical choice whether you’re headed for a weekend trip or exploring the southeast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉 <strong><a href=""https://geni.us/tirana-korca-bus"">Grab your seat,</a> </strong>pack light, and get ready to explore Korçë.<br><strong>Rrugë të mbarë</strong> – have a great trip!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {""ref"":140437} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->","Bus travel from Tirana to Korçë: schedules, prices, local tips, and how to book. A smooth 3–4 hour ride through central and southeastern Albania.",2025-07-30,bus,https://albaniavisit.com/bus/tirana-to-korce/,https://albaniavisit.com/wp-content/uploads/2025/07/Tirana-to-Korce-Bus.jpg|https://albaniavisit.com/wp-content/uploads/2025/07/Tirana-to-Korca-By-Bus.jpg,"Tirana to Korçe Bus|Tirana to Korça By Bus",|,|,"Tirana to Korçe Bus|Tirana to Korça Bus",https://albaniavisit.com/wp-content/uploads/2025/07/Tirana-to-Korce-Bus.jpg,,Transportation,,publish,1,enri@albaniavisit.com,enri@albaniavisit.com,Enri,Zhulati,tirana-to-korce,,,0,0,0,closed,closed,2025-08-30
+140564,"Korçë to Tirana by Bus","<!-- wp:heading -->
+<h2 class=""wp-block-heading"">Timetables, Tickets, and Travel Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Returning from Korçë to <a href=""https://albaniavisit.com/destinations/tirana/"">Tirana</a> by bus is the most straightforward and cost-effective way to end your visit to Albania’s cultural capital. Whether you're heading back to the airport, continuing your trip north, or wrapping up your stay, this route runs daily and gets you to Tirana in under four hours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Route Overview</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Distance:</strong> ~160 km<br><strong>Travel Time:</strong> ~3.5 to 4 hours<br><strong>Ticket Price:</strong> €7–€9 (700–900 ALL)<br><strong>Departure Window:</strong> 5:30 AM to 7:00 PM<br><strong>Frequency:</strong> 7–9 daily departures, year-round</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Why Take the Bus?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>No transfers: Direct service—no changes needed</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Low-cost: Private taxis can cost €130+</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Efficient: Leaves from city center, arrives at main terminal in Tirana</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Reliable: Daily, consistent departures across multiple companies</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>No rental car stress or parking issues</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">How to Book Your Ticket</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can either purchase a ticket at the Korçë bus station on the day of travel or reserve your seat in advance online.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>🚌 <strong><a href=""https://chatgpt.com/c/6888d397-3598-8332-aac9-8e02020f6fe8#affiliate-link-placeholder"">Check departure times and book here »</a></strong> <br>Secure payment (Visa/Mastercard)<br>PDF ticket emailed to you after checkout</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Note from Travelers</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Print your ticket or screenshot it clearly. Many drivers will not accept digital confirmations without a barcode.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Have small change (€1–€2) on hand for possible luggage surcharges.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Where It Departs and Arrives</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Korçë Departure:</strong> <a href=""https://www.google.com/maps/place/Kor%C3%A7a+Bus+Terminal+(New)/@40.6249578,20.7608905,3607m/data=!3m1!1e3!4m10!1m2!2m1!1za29yw6fDqyBidXMgdGVybWluYWw!3m6!1s0x135a0b6ea5f6fbbf:0xababa0108a192d71!8m2!3d40.6233354!4d20.7735341!15sChRrb3LDp8OrIGJ1cyB0ZXJtaW5hbFoWIhRrb3LDp8OrIGJ1cyB0ZXJtaW5hbJIBFnRyYW5zcG9ydGF0aW9uX3NlcnZpY2WaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjFzYVU1SFpGUlphbFY0VFZkc1VGbFdjR2xUVjJSSVlVaGFWMDFzUlJBQqoBWQoIL20vMDFianYQASoQIgxidXMgdGVybWluYWwoADIfEAEiG78pUYuf1pQpidOW2kyVn_CEs9QAQMXIfn6f4jIYEAIiFGtvcsOnw6sgYnVzIHRlcm1pbmFs4AEA-gEFCNwDEEY!16s%2Fg%2F11rb81y_m8?entry=ttu&amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">Main intercity terminal</a> near Rruga Midhi Kostani. Central, walkable from most guesthouses and the Old Bazaar.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tirana Arrival:</strong> Terminali i Jugut dhe Veriut (<a href=""https://www.google.com/maps/place/South+and+North+Albania+Bus+Terminal+(Bus+Station)/@41.344251,19.6244493,28546m/data=!3m1!1e3!4m10!1m2!2m1!1stirana+bus+terminal!3m6!1s0x135031bcc8bcb5ab:0x9a2149e535718d84!8m2!3d41.344251!4d19.7768846!15sChN0aXJhbmEgYnVzIHRlcm1pbmFsWhUiE3RpcmFuYSBidXMgdGVybWluYWySARZ0cmFuc3BvcnRhdGlvbl9zZXJ2aWNlqgFFCggvbS8wMWJqdhABMh4QASIakSp8--q845tgqlxm3XKcWUDkJUalMcO0r9AyFxACIhN0aXJhbmEgYnVzIHRlcm1pbmFs4AEA!16s%2Fg%2F11fr4g_hmh?entry=ttu&amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"" target=""_blank"" rel=""noreferrer noopener nofollow"">Regional South &amp; North Terminal</a>), just outside the city near Casa Italia. You’ll need a taxi or city bus to reach Skanderbeg Square.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">What to Expect Onboard</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li><strong>Seating:</strong> First-come, first-served. No reserved seating</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>A/C:</strong> Present, but often weak</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Restrooms:</strong> Not available—use the station before boarding</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Stops:</strong> Some buses pause for 10–15 minutes mid-route (Fier or Elbasan)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Wi-Fi &amp; outlets: </strong>Not standard—don’t expect them</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Scenic Ride: Korçë to Tirana</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This return leg winds through mountain passes and agricultural plains. If you grab a left-side window seat, you’ll see the most open views—especially near Lake Ohrid or over rolling fields around Elbasan. Spring and autumn make this route especially green and quiet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Arrival in Tirana</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The terminal is about 7 km from the city center. From there:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>Taxi to central <a href=""https://albaniavisit.com/destinations/tirana/"">Tirana</a>: ~500–800 ALL (€5–€8)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>City bus: Runs frequently from terminal to <a href=""https://albaniavisit.com/attractions/skanderbeg-square/"" data-type=""attractions"" data-id=""16726"">Skanderbeg Square</a> area (cost: 40 ALL)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Need the airport? Catch the Rinas Express from the city center or grab a direct taxi (~30 mins)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Practical Travel Tips</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class=""wp-block-list""><!-- wp:list-item -->
+<li>Arrive 20–30 minutes early in Korçë during high season to get your preferred seat</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Use the restroom before departure—no toilet onboard</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Keep your bag with valuables on your lap or under your seat</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Expect delays during weekend travel or road work between Elbasan and Tirana</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>No food service onboard—bring water and snacks</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Luggage stored under the bus—label your bag if needed</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:html -->
+<style>
+.faq-accordion {
+  max-width: 800px;
+  margin: 2rem auto;
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #0c0c0c;
+}
+
+.faq-accordion h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.faq-accordion details {
+  border: 1px solid #e5e5e5;
+  background: #fefefe;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+}
+
+.faq-accordion summary {
+  font-weight: 600;
+  font-size: 1.05rem;
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  padding-right: 1.5rem;
+}
+
+.faq-accordion summary::after {
+  content: ""▼"";
+  position: absolute;
+  right: 0;
+  top: 0.25rem;
+  font-size: 1rem;
+  color: #fd1113;
+  transition: transform 0.2s ease;
+}
+
+.faq-accordion details[open] summary::after {
+  content: ""▲"";
+}
+
+.faq-accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-accordion p {
+  margin-top: 0.75rem;
+  font-size: 0.97rem;
+  color: #504f50;
+}
+
+.faq-accordion a {
+  color: #fd1113;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.faq-accordion a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<section class=""faq-accordion"">
+  <h2>Frequently Asked Questions</h2>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">How long is the bus ride from Korçë to Tirana?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">The bus ride typically takes between 3.5 to 4 hours, depending on traffic and road conditions.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">How much does the Korçë to Tirana bus cost?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">Ticket prices generally range from €7 to €9. Online and station prices are typically the same.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">How often do buses run between Korçë and Tirana?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">There are 7–9 departures daily, usually starting around 5:30 AM and running until approximately 7:00 PM.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">Where do buses depart in Korçë?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">Most buses depart from the main terminal near the city center. The exact location is listed on your ticket after booking.</p>
+    </div>
+  </details>
+
+  <details itemscope itemprop=""mainEntity"" itemtype=""https://schema.org/Question"">
+    <summary itemprop=""name"">Can I book my ticket online?</summary>
+    <div itemscope itemprop=""acceptedAnswer"" itemtype=""https://schema.org/Answer"">
+      <p itemprop=""text"">Yes. You can book online and receive a PDF ticket by email. It’s recommended to bring a printed copy just in case.</p>
+    </div>
+  </details>
+</section>
+
+<!-- /wp:html -->
+
+<!-- wp:heading {""level"":3} -->
+<h3 class=""wp-block-heading"">Your Turn to Visit</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After exploring Korçë’s cobblestone streets, museums, and cafés, the return trip to Tirana is smooth, direct, and affordable. Whether you're catching a flight or just heading back to the capital, the bus remains the smartest choice for budget-conscious travelers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The bus from Korçë to Tirana offers a smooth, affordable ride back to Albania’s capital—with daily departures, scenic views, and online booking available.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>👉 <a href=""https://geni.us/korce-tirana-bus"" target=""_blank"" rel=""noreferrer noopener nofollow"">Secure your seat</a>, print your ticket, and ride back stress-free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rrugë të mbarë – safe travels!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {""ref"":140437} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->","Ride from Korçë to Tirana by bus in 3.5–4 hours. This guide shows schedules, prices, what to expect on board, and how to book your seat online.",2025-08-03,bus,https://albaniavisit.com/bus/korce-to-tirana/,https://albaniavisit.com/wp-content/uploads/2025/08/Korce-to-Tirana-Bus.jpg,"Korçë to Tirana Bus",,,"Korçë to Tirana",https://albaniavisit.com/wp-content/uploads/2025/08/Korce-to-Tirana-Bus.jpg,,Transportation,,publish,1,enri@albaniavisit.com,enri@albaniavisit.com,Enri,Zhulati,korce-to-tirana,,,0,0,0,closed,closed,2025-08-03

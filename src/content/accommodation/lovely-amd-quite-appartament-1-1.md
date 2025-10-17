@@ -1,7 +1,7 @@
 ---
 title: "Lovely amd quite appartament 1-1"
 description: "Discover the charm of Tirana with a stay at the Lovely and Quiet Apartment 1-1, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445625165.jpg?k=a69c599d536dc88c55cdd2e925f82813c0859466e7de9f637631750a193e0f17&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-amd-quite-appartament-1-1-445625165.jpg"
 language: en
 slug: lovely-amd-quite-appartament-1-1
 address: "Rruga Gani Strazimiri, 1012 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Center of Tirana - Amazing city view"
 description: "Center of Tirana - Amazing City View stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJx_BJlM96XNYmLy_A8NctS5HB6DkvLEpZPkL30I=s96-c64"
+featuredImage: "/images/accommodation/center-of-tirana-amazing-city-view-AATXAJx_BJlM.jpg"
 language: en
 slug: center-of-tirana-amazing-city-view
 address: "Sun Tower Center, rruga e Kavajes, 1001 Tirana, Albania"

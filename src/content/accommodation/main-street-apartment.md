@@ -1,7 +1,7 @@
 ---
 title: "Main Street Apartment"
 description: "Main Street Apartment emerges as a prime choice for travelers seeking a blend of historical charm and modern comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491413588.jpg?k=2423409e33d8678dfd16d08da91ed583139a87732d4fdabe0e6af4faa6944874&o=&hp=1"
+featuredImage: "/images/accommodation/main-street-apartment-491413588.jpg"
 language: en
 slug: main-street-apartment
 address: "Rruga Muhamet Gjollesha, P. 11, 1001 Tirana, Albania"

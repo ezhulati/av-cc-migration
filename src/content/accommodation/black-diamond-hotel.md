@@ -1,7 +1,7 @@
 ---
 title: "Black Diamond Hotel"
 description: "Discover the elegance and convenience of Black Diamond Hotel, located just a short 800-meter stroll from the vibrant heart of Tirana, Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414098118.jpg?k=395417094be56f63394f7c94920a20f519d6288e7958bb7043ccb671aec0f44c&o=&hp=1"
+featuredImage: "/images/accommodation/black-diamond-hotel-414098118.jpg"
 language: en
 slug: black-diamond-hotel
 address: "Sheshi Selvia, Rruga Siri Kodra, 1005 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest House KrisHen"
 description: "Guest House KrisHen in Përmet stands out as a serene retreat offering breathtaking mountain views, ensuring a memorable stay for its guests."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422480220.jpg?k=a2ee915bb0133800c74ebc890aade18f8f5df9831e45659c3eb5b406bbcde279&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-krishen-422480220.jpg"
 language: en
 slug: guest-house-krishen
 address: "SH75, Përmet, Albania"

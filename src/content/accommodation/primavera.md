@@ -1,7 +1,7 @@
 ---
 title: "Primavera"
 description: "Primavera stands out as a serene oasis in Durrës, offering guests a unique blend of comfort and convenience with its garden views and direct beachfront access."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438034546.jpg?k=38dcb8c1da9310b245757f5bd4f345a2c23e6190e82fb6ffa116dc46360869f6&o=&hp=1"
+featuredImage: "/images/accommodation/primavera-438034546.jpg"
 language: en
 slug: primavera
 address: "Rruga Gjiri i Lalzit, 2015 Durrës, Albania"

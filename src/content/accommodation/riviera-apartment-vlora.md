@@ -1,7 +1,7 @@
 ---
 title: "Riviera Apartment Vlora"
 description: "Riviera Apartment Vlora stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520170353.jpg?k=c32e216935aaa182c188c0d778a41563dac259aeacd863728acd5a2161405fee&o=&hp=1"
+featuredImage: "/images/accommodation/riviera-apartment-vlora-520170353.jpg"
 language: en
 slug: riviera-apartment-vlora
 address: "Rruga Aleksandër Moisiu, 9402 Vlorë, Albania"

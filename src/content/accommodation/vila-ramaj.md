@@ -1,7 +1,7 @@
 ---
 title: "Vila Ramaj"
 description: "Vila Ramaj emerges as a serene retreat in the heart of Berat, boasting a lush garden and an inviting terrace for guests seeking tranquility and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494516697.jpg?k=783bf287fedcd329762efb1a5a97efd0ff7970464063fc7beba43e8385183c03&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ramaj-494516697.jpg"
 language: en
 slug: vila-ramaj
 address: "Rruga e Duhanasit, 5012 Berat, Albania"

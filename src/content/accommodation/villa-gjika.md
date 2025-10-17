@@ -1,7 +1,7 @@
 ---
 title: "Villa Gjika"
 description: "Villa Gjika, positioned just steps away from the pristine Qeparo Beach, stands as a prime example of beachfront living at its finest."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364919401.jpg?k=b4606053bf5713c19b99d231814d3079b290cae5bcb96b864f8637058f604f2c&o=&hp=1"
+featuredImage: "/images/accommodation/villa-gjika-364919401.jpg"
 language: en
 slug: villa-gjika
 address: "Plazhit 11, 9416 Qeparo, Albania"

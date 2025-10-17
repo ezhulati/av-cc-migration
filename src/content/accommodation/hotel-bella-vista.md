@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bella Vista"
 description: "Hotel Bella Vista stands as a beacon of comfort and convenience in the heart of Sarandë, just a stone's throw away from the pristine Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483069077.jpg?k=57e9388720f4ac53806da27cf16a27f9e6433acfd358fd4dc8bafbedcf2b14e1&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bella-vista-483069077.jpg"
 language: en
 slug: hotel-bella-vista
 address: "Rruga Butrinti Rruga Butrinti km 2, 9701 Sarandë, Albania"

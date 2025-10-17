@@ -1,7 +1,7 @@
 ---
 title: "Flat"
 description: "Discover the charm of Tirana with a stay at this inviting apartment, conveniently located just 2."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJz1-nd2rdjxcAweU1mZoRW85L6RmCd2OA45Q12-=s96-c64"
+featuredImage: "/images/accommodation/flat-AATXAJz1-nd2.jpg"
 language: en
 slug: flat
 address: "Rruga Jashar Erebara 124, 1057 Tirana, Albania"

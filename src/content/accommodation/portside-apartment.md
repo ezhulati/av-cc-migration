@@ -1,7 +1,7 @@
 ---
 title: "Portside Apartment"
 description: "Portside Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, boasting an enviable location just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474513615.jpg?k=a4e2ce8dc00567f8b336f19e53547a906c00f1a096e30cda9ea04f8da626bbdc&o=&hp=1"
+featuredImage: "/images/accommodation/portside-apartment-474513615.jpg"
 language: en
 slug: portside-apartment
 address: "Rruga Kosova, 9401 Vlorë, Albania"

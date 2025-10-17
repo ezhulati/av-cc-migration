@@ -1,7 +1,7 @@
 ---
 title: "Quiet apartment by the sea num9495"
 description: "Quiet Apartment by the Sea num9495 emerges as a serene retreat in Durrës, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499903625.jpg?k=e456af581edc0837aaa45e1b5fc80b836b72b11b3758855fd2f0eb1ed50c8c11&o=&hp=1"
+featuredImage: "/images/accommodation/quiet-apartment-by-the-sea-num9495-499903625.jpg"
 language: en
 slug: quiet-apartment-by-the-sea-num9495
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Studio apartment in amazing location! 24h check-in"
 description: "Discover the charm of Tirana from the comfort of a prime Studio apartment, perfectly positioned just a short stroll from the iconic Skanderbeg Square and within easy reach of the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435484242.jpg?k=d220c2a41b07145013da906c321a08009187d62a51a7b50ef8149da9976e4b9e&o=&hp=1"
+featuredImage: "/images/accommodation/studio-apartment-in-amazing-location-24h-check-in-435484242.jpg"
 language: en
 slug: studio-apartment-in-amazing-location-24h-check-in
 address: "Rruga Brigada VIII, 1001 Tirana, Albania"

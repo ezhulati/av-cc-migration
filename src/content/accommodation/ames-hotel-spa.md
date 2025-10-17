@@ -1,7 +1,7 @@
 ---
 title: "Ames Hotel & SPA"
 description: "Ames Hotel & SPA stands as a beacon of comfort and luxury in Vlorë, just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307867227.jpg?k=5a5f8f601a9ee90cc86395a9981078c13cdcc5201b667689148c60c9f26528e0&o=&hp=1"
+featuredImage: "/images/accommodation/ames-hotel-spa-307867227.jpg"
 language: en
 slug: ames-hotel-spa
 address: "Rruga Dhimitër Konomi, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "LILA apartments 1"
 description: "LILA Apartments 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, just steps away from the serene Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367195361.jpg?k=9fd893b9ab11cac99e3e5ed28b637c369a4869bbd615998b66e9b1a1290a0814&o=&hp=1"
+featuredImage: "/images/accommodation/lila-apartments-1-367195361.jpg"
 language: en
 slug: lila-apartments-1
 address: "Rruga Ankona 4th Floor, 2001 Durrës, Albania"

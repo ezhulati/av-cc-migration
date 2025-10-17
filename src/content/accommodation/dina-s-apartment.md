@@ -1,7 +1,7 @@
 ---
 title: "Dina's Apartment"
 description: "Dina's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Himare, strategically positioned within a stone's throw from the pristine Spille Beach and a short stroll from Maracit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363360857.jpg?k=a430eccf6d0b537468d28f88d89128307f8350803bd90a1262f78b36212350fb&o=&hp=1"
+featuredImage: "/images/accommodation/dina-s-apartment-363360857.jpg"
 language: en
 slug: dina-s-apartment
 address: "Himare, 9425 Himare, Albania"

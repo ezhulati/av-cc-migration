@@ -1,7 +1,7 @@
 ---
 title: "Vibe Studio Apartment"
 description: "Vibe Studio Apartment emerges as a freshly updated gem in the heart of Tirana, a stone's throw from the city's vibrant Skanderbeg Square, the historical Former Residence of Enver Hoxha, and the quaint Tanners' Bridge."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510464809.jpg?k=bf537fa4ef7e0c6b4b45c0f97556dcece7f3e88aa5dfca95cd7a6e27ce2de24c&o=&hp=1"
+featuredImage: "/images/accommodation/vibe-studio-apartment-510464809.jpg"
 language: en
 slug: vibe-studio-apartment
 address: "Rruga Hoxha Tahsim building 12 , floor 1, apartment n_3,, 1001 Tirana, Albania"

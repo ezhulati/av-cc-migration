@@ -1,7 +1,7 @@
 ---
 title: "Apartments Big Family"
 description: "Apartments Big Family emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400620698.jpg?k=a05aa41a410f3fd4224aff527d17e765ab6a21092e21172de4efe07ede6a2ca3&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-big-family-400620698.jpg"
 language: en
 slug: apartments-big-family
 address: "Golem, 2001 Durrës, Albania"

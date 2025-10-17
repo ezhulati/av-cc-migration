@@ -1,7 +1,7 @@
 ---
 title: "Kevi Rooms"
 description: "Kevi Rooms emerges as a prime choice for travelers seeking a serene beachfront escape, located just a stone's throw away from the pristine sands of Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480634046.jpg?k=c1662e41cd7db709be3bf59c6a7fb36f5a6495ad5b5505c95c95efd0daf3fe14&o=&hp=1"
+featuredImage: "/images/accommodation/kevi-rooms-480634046.jpg"
 language: en
 slug: kevi-rooms
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

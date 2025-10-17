@@ -1,7 +1,7 @@
 ---
 title: "Cozy apartament ,Medreseja e tiranes"
 description: "Cozy Apartment, Medreseja e Tiranes, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504718325.jpg?k=6ac1acc11db5f92a75fdbf9323dbdf02c0bffbc1ad558c845afd7e3cc20ccc9f&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartament-medreseja-e-tiranes-504718325.jpg"
 language: en
 slug: cozy-apartament-medreseja-e-tiranes
 address: "Medrese, 1001 Tirana, Albania"

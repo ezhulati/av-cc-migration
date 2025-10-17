@@ -1,7 +1,7 @@
 ---
 title: "Shengjini Apartments"
 description: "Shengjini Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472180336.jpg?k=070a95c60b8185b9612129e24caab778cb220f24202c069ad9e18e6ed7362ba0&o=&hp=1"
+featuredImage: "/images/accommodation/shengjini-apartments-472180336.jpg"
 language: en
 slug: shengjini-apartments
 address: "Rruga Shengjin-Kune, 4503 Shëngjin, Albania"

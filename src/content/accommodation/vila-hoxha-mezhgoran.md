@@ -1,7 +1,7 @@
 ---
 title: "Vila Hoxha, Mezhgoran"
 description: "Vila Hoxha, Mezhgoran, emerges as a serene retreat in the heart of Gjirokastër County, boasting a private balcony that opens up to the tranquil surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497598688.jpg?k=31bc78567373a9610bcc949c1afd617aa9c97532599b099cb94fa9e3e9c682dc&o=&hp=1"
+featuredImage: "/images/accommodation/vila-hoxha-mezhgoran-497598688.jpg"
 language: en
 slug: vila-hoxha-mezhgoran
 address: "Rruga Tepelenë - Gjirokastër - Janinë, 6301 Mezhgoran, Albania"

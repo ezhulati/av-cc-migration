@@ -1,7 +1,7 @@
 ---
 title: "Blue Door Hostel"
 description: "Blue Door Hostel emerges as a vibrant haven for travelers in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374116299.jpg?k=fc802276d0d6f1ce50c861a2b75db5533f6cbf01da2bc2e5c485850fd75ce216&o=&hp=1"
+featuredImage: "/images/accommodation/blue-door-hostel-374116299.jpg"
 language: en
 slug: blue-door-hostel
 address: "Rruga Shtjefen Gjecovi Number 18, 1001 Tirana, Albania"

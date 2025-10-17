@@ -1,7 +1,7 @@
 ---
 title: "Vila Zaho"
 description: "Vila Zaho emerges as a prime choice for travelers seeking a serene beachfront escape, merely 400 meters from the pristine shores of Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424375393.jpg?k=0045ca16153edf5a65d0a45d9cb1fd6fc6624b63ebc8f21971b722dedf081cc3&o=&hp=1"
+featuredImage: "/images/accommodation/vila-zaho-424375393.jpg"
 language: en
 slug: vila-zaho
 address: "Rruga Uji i Ftohte, 9405 Vlorë, Albania"

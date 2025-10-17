@@ -1,7 +1,7 @@
 ---
 title: "Lola’s Apartment"
 description: "Lola's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503128784.jpg?k=c1d37355a791c15e92d18796f40fddc1f400be9080e1bb722d54717a054caff5&o=&hp=1"
+featuredImage: "/images/accommodation/lola-s-apartment-503128784.jpg"
 language: en
 slug: lola-s-apartment
 address: "Rruga Egnatia, 2001 Durrës, Albania"

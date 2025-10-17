@@ -1,7 +1,7 @@
 ---
 title: "Seaside Duplex Stone Villa"
 description: "Seaside Duplex Stone Villa emerges as a charming retreat in Qeparo, offering guests a unique blend of comfort and serenity, just 24 km away from the vibrant Sarandë and a scenic drive from Corfu Town, 49 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99076367.jpg?k=d64a9a09814ffac03704d3107f2734983176679764b1481a48c878201b9c0a7f&o=&hp=1"
+featuredImage: "/images/accommodation/seaside-duplex-stone-villa-99076367.jpg"
 language: en
 slug: seaside-duplex-stone-villa
 address: "Lagja Protopapa,, 9416 Qeparo, Albania"

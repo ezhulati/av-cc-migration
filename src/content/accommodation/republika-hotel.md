@@ -1,7 +1,7 @@
 ---
 title: "Republika Hotel"
 description: "Republika Hotel emerges as a standout choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309438342.jpg?k=c58d2534f840e9a8fcbd898712ce81fc576a6ad2405f5d8b5836032a72dfc946&o=&hp=1"
+featuredImage: "/images/accommodation/republika-hotel-309438342.jpg"
 language: en
 slug: republika-hotel
 address: "Rruga Jonianet 0240, 9701 Sarandë, Albania"

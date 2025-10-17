@@ -1,7 +1,7 @@
 ---
 title: "Lakeside family heaven"
 description: "Lakeside Family Heaven emerges as a serene retreat in Pogradec, perfectly positioned for those eager to explore the rich tapestry of cultural and natural landmarks that define the region."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479536345.jpg?k=470275026042fc86b0b32be5e2c2f7e11c94cb136b513dcc2b42edeb7aebd9dd&o=&hp=1"
+featuredImage: "/images/accommodation/lakeside-family-heaven-479536345.jpg"
 language: en
 slug: lakeside-family-heaven
 address: "Rruga Mihal Ballkameno, 7301 Pogradec, Albania"

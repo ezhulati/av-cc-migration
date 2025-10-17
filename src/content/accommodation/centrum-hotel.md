@@ -1,7 +1,7 @@
 ---
 title: "Centrum Hotel"
 description: "Centrum Hotel emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433266849.jpg?k=7e67ee21a017ade96acf8518cfcbef831cec59110ff0e5c08a4f1bbb370b7706&o=&hp=1"
+featuredImage: "/images/accommodation/centrum-hotel-433266849.jpg"
 language: en
 slug: centrum-hotel
 address: "Bardhok Biba 23/15, 1001 Tirana, Albania"

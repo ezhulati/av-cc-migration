@@ -1,7 +1,7 @@
 ---
 title: "Shtepi Pushimi Tek Rruga Belavista"
 description: "Shtepi Pushimi Tek Rruga Belavista emerges as a serene retreat in the vibrant town of Velipojë, just a stone's throw away from the pristine Velipoja Beach and within easy reach of historical landmarks such as Rozafa Castle Shkodra and Lake Skadar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478133286.jpg?k=4226c190d555989145e12774f662cc46b7c80610173cb0e6595c242673beae07&o=&hp=1"
+featuredImage: "/images/accommodation/shtepi-pushimi-tek-rruga-belavista-478133286.jpg"
 language: en
 slug: shtepi-pushimi-tek-rruga-belavista
 address: "Rruga Nr.1, 4020 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunny City Center Apartment"
 description: "Sunny City Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523908516.jpg?k=68ede1c5a1a92478d63a8096e949a20edcbdebdeab29eca8e7eea92bea681e8a&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-city-center-apartment-523908516.jpg"
 language: en
 slug: sunny-city-center-apartment
 address: "Rruga Kosova, 1001 Lezhë, Albania"

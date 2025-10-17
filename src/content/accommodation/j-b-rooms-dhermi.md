@@ -1,7 +1,7 @@
 ---
 title: "J&B Rooms Dhermi"
 description: "J&B Rooms Dhermi emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Dhërmi, merely a stone's throw away from the pristine Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491532.jpg?k=bd75314e76b6f5515c30e1ebc31d5084adf5f12e63b67b7be22c74801d59d44d&o=&hp=1"
+featuredImage: "/images/accommodation/j-b-rooms-dhermi-473491532.jpg"
 language: en
 slug: j-b-rooms-dhermi
 address: "Rruga Kontraqe, 9422 Dhërmi, Albania"

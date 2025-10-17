@@ -1,7 +1,7 @@
 ---
 title: "Urban Stay Tirana Deluxe"
 description: "Urban Stay Tirana Deluxe emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440208414.jpg?k=121589ca7967ec8d7e0093b3ad8c01a7bb1e374586093b725b924945f0168438&o=&hp=1"
+featuredImage: "/images/accommodation/urban-stay-tirana-deluxe-440208414.jpg"
 language: en
 slug: urban-stay-tirana-deluxe
 address: "Rruga Abdyl Frashëri Pallati 9, shkall.3, ap 28, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "NoMad House"
 description: "NoMad House in Berat stands out as a prime choice for travelers seeking comfort and convenience in their accommodation."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459551566.jpg?k=e8eb056b79045d3c5515e5203161dc3f7c7337c9477c90b598793a39c30cf51b&o=&hp=1"
+featuredImage: "/images/accommodation/nomad-house-459551566.jpg"
 language: en
 slug: nomad-house
 address: "Rruga Dr. Lluka, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Anza Home Villa"
 description: "Anza Home Villa emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492293214.jpg?k=9aac2bb28bc8352c16b4c8ed25e1a1ef004505e3db2bce6bf61f935825e1f0eb&o=&hp=1"
+featuredImage: "/images/accommodation/anza-home-villa-492293214.jpg"
 language: en
 slug: anza-home-villa
 address: "Rruga Sado Kosheno 2, Tirana, Albania"

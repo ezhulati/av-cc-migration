@@ -1,7 +1,7 @@
 ---
 title: "Prime location & Classy flat"
 description: "Discover the elegance and convenience of Prime Location & Classy Flat, a distinguished choice for travelers seeking a blend of comfort and style in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465793058.jpg?k=3e64086ef1f86818a154d4051ad192823ffa63bb35f9362cd2f88f2714e1a786&o=&hp=1"
+featuredImage: "/images/accommodation/prime-location-classy-flat-465793058.jpg"
 language: en
 slug: prime-location-classy-flat
 address: "Lagjia 13 plazh durres, Durrës, Albania"

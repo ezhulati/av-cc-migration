@@ -1,7 +1,7 @@
 ---
 title: "Vila Taku"
 description: "Vila Taku emerges as a prime choice for travelers seeking a serene getaway in Ksamil, offering a blend of comfort and convenience with its garden views and well-appointed accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340583176.jpg?k=e092f670de23e67af18fdbf3235026d56a3e49e18e1fd1860d0020ae0e1f79f8&o=&hp=1"
+featuredImage: "/images/accommodation/vila-taku-340583176.jpg"
 language: en
 slug: vila-taku
 address: "Rruga Butrinti, 9706 Ksamil, Albania"

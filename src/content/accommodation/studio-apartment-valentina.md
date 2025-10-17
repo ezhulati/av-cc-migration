@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartment Valentina"
 description: "Studio Apartment Valentina emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515503213.jpg?k=66360ac1c16968af68504143b338c11d1a5c4d0c65fd6d3f93a1300496e60d0e&o=&hp=1"
+featuredImage: "/images/accommodation/studio-apartment-valentina-515503213.jpg"
 language: en
 slug: studio-apartment-valentina
 address: "Rruga Omer Nishani, 1060 Tirana, Albania"

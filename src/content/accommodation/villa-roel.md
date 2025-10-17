@@ -1,7 +1,7 @@
 ---
 title: "Villa Roel"
 description: "Villa Roel emerges as a prime choice for travelers seeking comfort and convenience, situated just a short 400 meters from the vibrant Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376450673.jpg?k=eabe80b80134ad568b328deeff14320e9166848ef674c8138c85f7bb2125a1b0&o=&hp=1"
+featuredImage: "/images/accommodation/villa-roel-376450673.jpg"
 language: en
 slug: villa-roel
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

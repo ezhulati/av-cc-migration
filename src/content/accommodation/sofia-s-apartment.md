@@ -1,7 +1,7 @@
 ---
 title: "Sofia's apartment"
 description: "Sofia's Apartment emerges as a serene retreat, strategically positioned within the vibrant tapestry of Pogradec's landscape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486404280.jpg?k=26b3723a3d18967b0975123c5397b92e6fc20d31989ae51eaa13148e302c81fc&o=&hp=1"
+featuredImage: "/images/accommodation/sofia-s-apartment-486404280.jpg"
 language: en
 slug: sofia-s-apartment
 address: "Mentor zavallani, Pogradec, Albania"

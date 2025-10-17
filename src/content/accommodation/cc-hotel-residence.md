@@ -1,7 +1,7 @@
 ---
 title: "CC Hotel & Residence"
 description: "CC Hotel & Residence emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated a mere 300 meters from the pristine Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379117955.jpg?k=271404ac8fce08af64cd08527c1abd2b4838d891e9da6e369602d6312fbea416&o=&hp=1"
+featuredImage: "/images/accommodation/cc-hotel-residence-379117955.jpg"
 language: en
 slug: cc-hotel-residence
 address: "SH8, 9402 Vlorë, Albania"

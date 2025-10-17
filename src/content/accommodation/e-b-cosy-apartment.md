@@ -1,7 +1,7 @@
 ---
 title: "E&B Cosy Apartment"
 description: "E&B Cosy Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439589385.jpg?k=1d57c99f6afe756c4b6b40d42588fee4f22bbb2a1882837025c7bbaaa4f2a85f&o=&hp=1"
+featuredImage: "/images/accommodation/e-b-cosy-apartment-439589385.jpg"
 language: en
 slug: e-b-cosy-apartment
 address: "Rruga Muzaket Shkalla 6 , kati6 , app 23, 1001 Tirana, Albania"

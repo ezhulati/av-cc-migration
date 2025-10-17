@@ -1,7 +1,7 @@
 ---
 title: "Luxurious 5 Bedroom Beach Villa"
 description: "Luxurious 5 Bedroom Beach Villa stands as a testament to modern comfort and serene beachfront living in Palasë, a stone's throw away from the pristine Nazar Beach and a brief 2 km journey from Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493070330.jpg?k=4694c26012771493ef85cf858a1f220dbf6cc7c5b3dafe994022a1ca0efd9a37&o=&hp=1"
+featuredImage: "/images/accommodation/luxurious-5-bedroom-beach-villa-493070330.jpg"
 language: en
 slug: luxurious-5-bedroom-beach-villa
 address: "Rruga e plazhit të Palasës 64, Palasë, Albania"

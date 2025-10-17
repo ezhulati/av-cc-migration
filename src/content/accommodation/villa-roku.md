@@ -1,7 +1,7 @@
 ---
 title: "Villa Roku"
 description: "Villa Roku emerges as a charming retreat in the heart of Ksamil, a stone's throw away from the pristine shores of Ksamil Beach 9 and the vibrant Bora Bora Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211213667.jpg?k=e29acc1f45363ee180be7a4e8981bc878e260c9c2644f1972eb397477adc3d88&o=&hp=1"
+featuredImage: "/images/accommodation/villa-roku-211213667.jpg"
 language: en
 slug: villa-roku
 address: "rruga butrinti, 9999 Ksamil, Albania"

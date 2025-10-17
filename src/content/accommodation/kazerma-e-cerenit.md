@@ -1,7 +1,7 @@
 ---
 title: "Kazerma e Cerenit"
 description: "Kazerma e Cerenit emerges as a serene retreat in Surrel, located just a short drive from the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432229110.jpg?k=1096cb8eecc0fbfecc47363f3c4561bd9be47400e164b0b7f948a9eb98fc9aeb&o=&hp=1"
+featuredImage: "/images/accommodation/kazerma-e-cerenit-432229110.jpg"
 language: en
 slug: kazerma-e-cerenit
 address: "Rruga e Rexhekrit, 1001 Surrel, Albania"

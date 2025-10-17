@@ -1,7 +1,7 @@
 ---
 title: "ReMar Apartments"
 description: "ReMar Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383406882.jpg?k=e1a6dc7f733ef2d92b4514550b3d464bd33d2a8e6465836e0b5e408468c67628&o=&hp=1"
+featuredImage: "/images/accommodation/remar-apartments-383406882.jpg"
 language: en
 slug: remar-apartments
 address: "Tirana Resort, 9426 Vlorë, Albania"

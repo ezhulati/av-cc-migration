@@ -1,7 +1,7 @@
 ---
 title: "Villa Premium"
 description: "Villa Premium stands out as a remarkable destination for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480261118.jpg?k=5402de1273262be7d18ee7873de6dbc3271c5d73933b70d68f9a3b12693c83a0&o=&hp=1"
+featuredImage: "/images/accommodation/villa-premium-480261118.jpg"
 language: en
 slug: villa-premium
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

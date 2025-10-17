@@ -1,7 +1,7 @@
 ---
 title: "Dervishi’s apartment"
 description: "Dervishi's Apartment, nestled in the picturesque town of Therepel, offers a unique blend of comfort and convenience, making it an exceptional choice for discerning travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503834538.jpg?k=cc7fc1a8bec016809e2758732e673cbce557c8d313b05116385b865faef67603&o=&hp=1"
+featuredImage: "/images/accommodation/dervishi-s-apartment-503834538.jpg"
 language: en
 slug: dervishi-s-apartment
 address: "Therepelë,nr 10, 5401 Therepel, Albania"

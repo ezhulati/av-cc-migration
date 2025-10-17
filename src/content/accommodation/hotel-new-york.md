@@ -1,7 +1,7 @@
 ---
 title: "Hotel New York"
 description: "Hotel New York in Kamëz emerges as a modern haven for travelers seeking both leisure and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307372939.jpg?k=d6991cd5219586659ad344c532153ab9f5af7d0ec0ee525d5f44951385ff10c9&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-new-york-307372939.jpg"
 language: en
 slug: hotel-new-york
 address: "SH53 Bathore 6 , Kamez , Tirane, 1001 Kamëz, Albania"

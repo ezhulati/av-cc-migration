@@ -1,7 +1,7 @@
 ---
 title: "City Center Apartament, Pazari Ri"
 description: "City Center Apartament, Pazari Ri emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modernity in the heart of Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a/AGNmyxaTG2izI4paLnrfFbxu5FMAaS_EjUpS0NIuIaNQ=s96-c64"
+featuredImage: "/images/accommodation/city-center-apartament-pazari-ri-AGNmyxaTG2iz.jpg"
 language: en
 slug: city-center-apartament-pazari-ri
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

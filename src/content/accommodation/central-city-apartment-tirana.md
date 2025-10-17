@@ -1,7 +1,7 @@
 ---
 title: "Central City Apartment Tirana"
 description: "Central City Apartment Tirana emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475273733.jpg?k=6664528af0afa97a8aa66ef99f22561cc44966ec6bc5a157ecf491f1a792b5e3&o=&hp=1"
+featuredImage: "/images/accommodation/central-city-apartment-tirana-475273733.jpg"
 language: en
 slug: central-city-apartment-tirana
 address: "Rruga Sulejman Pasha Apartamenti 14, Pallati 70/1, Kati 4, 1001 Tirana, Albania"

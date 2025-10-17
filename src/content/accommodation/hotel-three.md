@@ -1,7 +1,7 @@
 ---
 title: "Hotel Three"
 description: "Hotel Three, located in the vibrant city of Vlorë and merely a stone's throw away from Vjetër Beach, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357314738.jpg?k=5b247a98d6b6021038469cd6e2b70a69aef3f988a3840eb69bde978e3a8e6184&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-three-357314738.jpg"
 language: en
 slug: hotel-three
 address: "Lagjia Pavarësia Rruga Pelivan Leskaj, 9401 Vlorë, Albania"

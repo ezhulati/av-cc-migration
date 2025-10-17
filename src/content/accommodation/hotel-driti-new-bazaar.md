@@ -1,7 +1,7 @@
 ---
 title: "Hotel Driti New Bazaar"
 description: "Hotel Driti New Bazaar emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466806467.jpg?k=c32f0ce8f068463cc0c660341cbd18955199686d444787a7f99384cfa97b5737&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-driti-new-bazaar-466806467.jpg"
 language: en
 slug: hotel-driti-new-bazaar
 address: "Rruga Hoxhë Vokrri, 1001 Tirana, Albania"

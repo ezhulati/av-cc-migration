@@ -1,7 +1,7 @@
 ---
 title: "Senri apartments"
 description: "Senri Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511562919.jpg?k=82f88b6fc97043de697ac336d13aa2f4abbc7884d6fadc1fcec16df76ad5cb43&o=&hp=1"
+featuredImage: "/images/accommodation/senri-apartments-511562919.jpg"
 language: en
 slug: senri-apartments
 address: "Rruga Egnatia aparmtent, 2002 Durrës, Albania"

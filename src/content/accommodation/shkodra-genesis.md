@@ -1,7 +1,7 @@
 ---
 title: "Shkodra Genesis"
 description: "Shkodra Genesis, located in the heart of Shkodër, presents a recently updated haven for travelers, merely 49 km away from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515643125.jpg?k=5db1f0015bfd7d54a6d34a7a6baf9972ac244a4b0d1fdbc983a52471ec5f6867&o=&hp=1"
+featuredImage: "/images/accommodation/shkodra-genesis-515643125.jpg"
 language: en
 slug: shkodra-genesis
 address: "Rruga Marin Bicikemi, 4001 Shkodër, Albania"

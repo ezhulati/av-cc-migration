@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartment"
 description: "Comfort Apartment in Shkodër stands out as a prime choice for travelers seeking a blend of convenience and comfort during their stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364399476.jpg?k=421811295b0b89cd3421ee9cb9ce61b6ded35d7114e1fd2978e226f68bfb60ef&o=&hp=1"
+featuredImage: "/images/accommodation/comfort-apartment-364399476.jpg"
 language: en
 slug: comfort-apartment
 address: "Rruga Hafiz Sabri Bushati 8th floor, 4001 Shkodër, Albania"

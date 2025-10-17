@@ -1,7 +1,7 @@
 ---
 title: "1-8 Lovely quite appartament"
 description: "Discover the charm of Tirana with a stay at the 1-8 Lovely Quiet Apartment, a serene haven strategically positioned for explorers and cultural enthusiasts alike."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456468183.jpg?k=271b0ab14696220d566effc4278808b818c8a0928d5fcef3a91b134a0ea19aeb&o=&hp=1"
+featuredImage: "/images/accommodation/1-8-lovely-quite-appartament-456468183.jpg"
 language: en
 slug: 1-8-lovely-quite-appartament
 address: "Rruga Gani Strazimiri, 1012 Tirana, Albania"

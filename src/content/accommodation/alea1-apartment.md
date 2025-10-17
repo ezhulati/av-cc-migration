@@ -1,7 +1,7 @@
 ---
 title: "ALEA1 Apartment"
 description: "ALEA1 Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441109605.jpg?k=aeb3cfafb5173fccc8bb647fab76ac2ac6f20f2f0825fbdf70b9f4a30e27e25d&o=&hp=1"
+featuredImage: "/images/accommodation/alea1-apartment-441109605.jpg"
 language: en
 slug: alea1-apartment
 address: "Sami Frasheri, 20/3 1st floor, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "B&B Champagne, Vlore Bay"
 description: "B&B Champagne, Vlore Bay, emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372817445.jpg?k=990ac631820489312ce262ff65800573596507d12c04f7b0d12d8a25f055885f&o=&hp=1"
+featuredImage: "/images/accommodation/b-b-champagne-vlore-bay-372817445.jpg"
 language: en
 slug: b-b-champagne-vlore-bay
 address: "Street Radhime - Orikum, near Electric Station, 1000 Vlorë, Albania"

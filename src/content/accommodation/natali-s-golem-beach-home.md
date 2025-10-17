@@ -1,7 +1,7 @@
 ---
 title: "Natali's Golem Beach Home"
 description: "Natali's Golem Beach Home emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483503430.jpg?k=b32ba82a5b7648f1c236cc4f8aa2dc50733ea95fff056a21be0b8345ea263f48&o=&hp=1"
+featuredImage: "/images/accommodation/natali-s-golem-beach-home-483503430.jpg"
 language: en
 slug: natali-s-golem-beach-home
 address: "Plazh, Golem, Kavajë, 2008 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "L’Hotel Tirana"
 description: "L'Hotel Tirana emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480808854.jpg?k=62a096df487c50c95ee4c2c689c4e66288eb9781a6a7643afd63a3a6c770ed12&o=&hp=1"
+featuredImage: "/images/accommodation/l-hotel-tirana-480808854.jpg"
 language: en
 slug: l-hotel-tirana
 address: "Rruga Çamëria, 1001 Tirana, Albania"

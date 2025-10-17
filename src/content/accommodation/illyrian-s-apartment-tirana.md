@@ -1,7 +1,7 @@
 ---
 title: "Illyrian's Apartment Tirana"
 description: "Illyrian's Apartment Tirana emerges as a freshly renovated haven for travelers seeking the comfort of home with the convenience of city exploration."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481029521.jpg?k=9865a3cbe90e377c42806a1be5be945e28c6bb00aec609f8e3eca62530ab8eb3&o=&hp=1"
+featuredImage: "/images/accommodation/illyrian-s-apartment-tirana-481029521.jpg"
 language: en
 slug: illyrian-s-apartment-tirana
 address: "Rruga Mine Peza, 1010 Tirana, Albania"

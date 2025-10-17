@@ -1,7 +1,7 @@
 ---
 title: "Bellavista Apartment"
 description: "Bellavista Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, conveniently located just a short stroll from Ri Beach and Vlore Beach, with the picturesque Vjetër Beach only a few kilometers away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397553386.jpg?k=069f5f27c6ae965f81d5c3ec533bf2129de5d138e610bc8a1dca3f341efd2703&o=&hp=1"
+featuredImage: "/images/accommodation/bellavista-apartment-397553386.jpg"
 language: en
 slug: bellavista-apartment
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

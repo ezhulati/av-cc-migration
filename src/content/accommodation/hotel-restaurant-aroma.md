@@ -1,7 +1,7 @@
 ---
 title: "Hotel&Restaurant Aroma"
 description: "Hotel&Restaurant Aroma emerges as a charming retreat in the heart of Përmet, offering guests a blend of leisure and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365990089.jpg?k=2f767721586da4230f2edd1420feff629657ef464a118f80ff3076a9bd70e27a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-restaurant-aroma-365990089.jpg"
 language: en
 slug: hotel-restaurant-aroma
 address: "Permet - Kelcyre km3, 6401 Përmet, Albania"

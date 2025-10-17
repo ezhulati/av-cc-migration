@@ -1,7 +1,7 @@
 ---
 title: "Baka Guest House"
 description: "Baka Guest House emerges as a serene retreat in the vibrant city of Durrës, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359086359.jpg?k=ff9d5680b824a0b270121b525daf5ef14e334929b1b5b99636812322dfc2769a&o=&hp=1"
+featuredImage: "/images/accommodation/baka-guest-house-359086359.jpg"
 language: en
 slug: baka-guest-house
 address: "Rruga e Yjeve, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Rondo"
 description: "Guesthouse Rondo emerges as a prime choice for travelers seeking a serene beachfront retreat in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337645326.jpg?k=31c6a048a4cb15aa7bdd69ec89b5ba6cdd8a3b8d60970ff2fa1e13ccb300477f&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-rondo-337645326.jpg"
 language: en
 slug: guesthouse-rondo
 address: "Himare - Livadh Road, 9425 Himare, Albania"

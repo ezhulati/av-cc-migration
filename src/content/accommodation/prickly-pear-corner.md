@@ -1,7 +1,7 @@
 ---
 title: "Prickly Pear Corner"
 description: "Prickly Pear Corner emerges as a serene oasis in the heart of Tirana, offering a blend of comfort and convenience just a stone's throw away from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496041342.jpg?k=ec0b49cbe27b34cabfc43ed591cdec6044562a622b96d2aeeeb10a28c953a5dc&o=&hp=1"
+featuredImage: "/images/accommodation/prickly-pear-corner-496041342.jpg"
 language: en
 slug: prickly-pear-corner
 address: "Rruga Spiro Moisiu, 1001 Tirana, Albania"

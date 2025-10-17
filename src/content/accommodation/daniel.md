@@ -1,7 +1,7 @@
 ---
 title: "Daniel"
 description: "Daniel Apartment emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodation complemented by a private terrace in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510438903.jpg?k=903b1f01503e9beabf2f04bf15cc86f95310bbb24c9496b412827927d3b51334&o=&hp=1"
+featuredImage: "/images/accommodation/daniel-510438903.jpg"
 language: en
 slug: daniel
 address: "Rruga e Kavajës Kati 7, 1001 Tirana, Albania"

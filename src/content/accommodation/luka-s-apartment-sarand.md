@@ -1,7 +1,7 @@
 ---
 title: "Luka's Apartment Sarandë"
 description: "Luka's Apartment Sarandë emerges as a prime choice for travelers seeking a serene beachfront escape in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336783551.jpg?k=42a775669a29b8a765a2b59d49c88a0af16c211d61beb27364b9581328afb566&o=&hp=1"
+featuredImage: "/images/accommodation/luka-s-apartment-sarand-336783551.jpg"
 language: en
 slug: luka-s-apartment-sarand
 address: "Rruga Ismail Qemali, 7601 Sarandë, Albania"

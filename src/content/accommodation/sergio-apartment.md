@@ -1,7 +1,7 @@
 ---
 title: "Sergio Apartment"
 description: "Sergio Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509365679.jpg?k=7b8d7c753e69e9ea5aa31fd8ab9693877b4faa3f6029f37e19eeec8eb323a9f7&o=&hp=1"
+featuredImage: "/images/accommodation/sergio-apartment-509365679.jpg"
 language: en
 slug: sergio-apartment
 address: "Rruga Albanopoli, 2000 Durrës, Albania"

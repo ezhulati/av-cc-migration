@@ -1,7 +1,7 @@
 ---
 title: "MB luxury apartments"
 description: "MB Luxury Apartments emerges as a premier choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382800315.jpg?k=59ffee4c56c00991da69a96a6fa483cb315c7bbf10d2a5ec0a8b008010d524d9&o=&hp=1"
+featuredImage: "/images/accommodation/mb-luxury-apartments-382800315.jpg"
 language: en
 slug: mb-luxury-apartments
 address: "Rruga Shyqyri Brari, Tirana, Albania"

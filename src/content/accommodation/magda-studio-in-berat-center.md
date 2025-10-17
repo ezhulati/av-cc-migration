@@ -1,7 +1,7 @@
 ---
 title: "Magda Studio in Berat Center"
 description: "Magda Studio in Berat Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473762365.jpg?k=59921ce45557aedbf2fb10c20578893816a71e5d184e266985f36b4066336743&o=&hp=1"
+featuredImage: "/images/accommodation/magda-studio-in-berat-center-473762365.jpg"
 language: en
 slug: magda-studio-in-berat-center
 address: "Rruga Antipatrea, 5001 Berat, Albania"

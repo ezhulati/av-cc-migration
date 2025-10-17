@@ -1,7 +1,7 @@
 ---
 title: "Jon"
 description: "Jon Homestay emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490798385.jpg?k=406d47de212cf1901a496563e3105a96723dba2be17e10352fd734847ff911c0&o=&hp=1"
+featuredImage: "/images/accommodation/jon-490798385.jpg"
 language: en
 slug: jon
 address: "Rruga Niko Hoxha, Vlorë, Albania"

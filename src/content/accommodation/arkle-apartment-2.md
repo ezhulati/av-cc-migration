@@ -1,7 +1,7 @@
 ---
 title: "Arkle Apartment 2"
 description: "Arkle Apartment 2 emerges as a serene haven in the bustling heart of Tirana, offering a unique blend of urban convenience and tranquil living spaces."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506508404.jpg?k=20fd98890b7610cf21ad6e55043f0ca71b1fd6f33e8e36190352cee7b03976fa&o=&hp=1"
+featuredImage: "/images/accommodation/arkle-apartment-2-506508404.jpg"
 language: en
 slug: arkle-apartment-2
 address: "Road Thoma Koxhaj, 1001 Tirana, Albania"

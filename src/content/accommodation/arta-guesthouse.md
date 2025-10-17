@@ -1,7 +1,7 @@
 ---
 title: "Arta Guesthouse"
 description: "Arta Guesthouse emerges as a serene retreat in the vibrant city of Durrës, boasting a prime location just a stone's throw away from the pristine Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493396883.jpg?k=baa017521700c621d78792c5a651219adc2b821bbf3f431876b6157b194432ea&o=&hp=1"
+featuredImage: "/images/accommodation/arta-guesthouse-493396883.jpg"
 language: en
 slug: arta-guesthouse
 address: "Street Dhimiter Kulla , House 28, 2008 Durrës, Albania"

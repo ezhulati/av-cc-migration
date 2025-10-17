@@ -1,7 +1,7 @@
 ---
 title: "luxury villa 2 km from the sea"
 description: "Discover the epitome of serene luxury at \"Luxury Villa 2 km from the Sea,\" a distinguished retreat situated in the vibrant city of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479800498.jpg?k=8d5a4e10052d94df8a40de1302eb92c5b7c0f079cdd8519f0da08bdd46860570&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-villa-2-km-from-the-sea-479800498.jpg"
 language: en
 slug: luxury-villa-2-km-from-the-sea
 address: "Rruga Syri i Detit 3, Durrës, Albania"

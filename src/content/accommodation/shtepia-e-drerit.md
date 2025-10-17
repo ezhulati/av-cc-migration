@@ -1,7 +1,7 @@
 ---
 title: "Shtepia e Drerit"
 description: "Shtepia e Drerit emerges as a serene retreat in the heart of Lëpushë, a mere stone's throw away from the majestic Prokletije National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478055827.jpg?k=09ae7eb7ff8636b44fbf00305b200039218fb6512d5c5469b5f499ce0edd5559&o=&hp=1"
+featuredImage: "/images/accommodation/shtepia-e-drerit-478055827.jpg"
 language: en
 slug: shtepia-e-drerit
 address: "Shkoder klemend lepushe, 4304 Lëpushë, Albania"

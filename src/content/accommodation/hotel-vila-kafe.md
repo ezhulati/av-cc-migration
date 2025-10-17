@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Kafe"
 description: "Hotel Vila Kafe emerges as a serene oasis in Lukovë, merely a stone's throw away from the pristine shores of Buneci Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209489507.jpg?k=d90d193f5f2e2264b473fe1350ac3a96f0e36d3dd2a6d25dda205e8eebdbeb04&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-kafe-209489507.jpg"
 language: en
 slug: hotel-vila-kafe
 address: "KATARTIKA, 9700 Lukovë, Albania"

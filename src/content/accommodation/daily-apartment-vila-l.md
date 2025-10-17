@@ -1,7 +1,7 @@
 ---
 title: "Daily Apartment Vila L"
 description: "Daily Apartment Vila L emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399656174.jpg?k=909e750dd0ad6c1403483ffadc6520aa82c44dd488d1128f5acbcc7fae3c51e2&o=&hp=1"
+featuredImage: "/images/accommodation/daily-apartment-vila-l-399656174.jpg"
 language: en
 slug: daily-apartment-vila-l
 address: "Rruga 5 Maji,Vila L,5 floor, 1001 Tirana, Albania"

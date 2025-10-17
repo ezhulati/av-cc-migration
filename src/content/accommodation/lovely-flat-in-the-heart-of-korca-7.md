@@ -1,7 +1,7 @@
 ---
 title: "Lovely flat in the heart of Korca 7"
 description: "Discover the charm of Korçë with a stay at Lovely Flat in the Heart of Korca #7, a prime choice for travelers seeking comfort and convenience in one of Albania's most picturesque cities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512052818.jpg?k=cd8e16ab2b42e7d5824265257f1ab788f964cc4e2b4bc4115e0a7f8e88f76fd3&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-flat-in-the-heart-of-korca-7-512052818.jpg"
 language: en
 slug: lovely-flat-in-the-heart-of-korca-7
 address: "Bulevardi Republika, 7000 Korçë, Albania"

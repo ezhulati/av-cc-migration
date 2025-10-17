@@ -1,7 +1,7 @@
 ---
 title: "La Gioia Apartment"
 description: "La Gioia Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/341855724.jpg?k=52ecf160776d5196266aabb61810dba42de70ac4ea61905a8f343cfa26d864e2&o=&hp=1"
+featuredImage: "/images/accommodation/la-gioia-apartment-341855724.jpg"
 language: en
 slug: la-gioia-apartment
 address: "Rruga Bako Dervishaj 4, 1001 Tirana, Albania"

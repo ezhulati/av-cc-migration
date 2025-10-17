@@ -1,7 +1,7 @@
 ---
 title: "Mumbas Room 3"
 description: "Mumbas Room 3 emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned just steps away from the pristine Prinos Beach in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474775906.jpg?k=14391c5dc2cc0630b001d6611015e6b2f276e9611c7f916d73b75e5dad070407&o=&hp=1"
+featuredImage: "/images/accommodation/mumbas-room-3-474775906.jpg"
 language: en
 slug: mumbas-room-3
 address: "Himare, 9425 Himare, Albania"

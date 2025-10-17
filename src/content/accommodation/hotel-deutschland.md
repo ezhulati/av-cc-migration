@@ -1,7 +1,7 @@
 ---
 title: "Hotel Deutschland"
 description: "Hotel Deutschland emerges as a serene retreat in Bulagarec, offering a blend of comfort and convenience just a stone's throw away from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488742517.jpg?k=697590d689831547dea045b318157f9f34d61fc29fb93e35a0ba1538238ac6e1&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-deutschland-488742517.jpg"
 language: en
 slug: hotel-deutschland
 address: "SH3, 7001 Bulagarec, Albania"

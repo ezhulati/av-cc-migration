@@ -1,7 +1,7 @@
 ---
 title: "Rs Place 1-Bedroom Apartment"
 description: "Rs Place 1-Bedroom Apartment emerges as a serene haven in the vibrant heart of Tirana, strategically positioned to offer both tranquility and easy access to the city's most sought-after attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408672541.jpg?k=e1d3134e3ae82168fd13722f293cfd2cc4735bab87f324d51cb2ac7ce5ed445a&o=&hp=1"
+featuredImage: "/images/accommodation/rs-place-1-bedroom-apartment-408672541.jpg"
 language: en
 slug: rs-place-1-bedroom-apartment
 address: "Don Bosko, Rruga Egnatia, Kompleksi Vizion Plus, apartamenti 9, kulla 6, 1001 Tirana, Albania"

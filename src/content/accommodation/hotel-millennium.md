@@ -1,7 +1,7 @@
 ---
 title: "Hotel Millennium"
 description: "Discover the charm of Hotel Millennium, a gem that stands out for its prime location and exceptional amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242580064.jpg?k=7d8786e44d7ce056cf3c9efdfb19f7177a61a1fe5096b487878f73f3d017a2b2&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-millennium-242580064.jpg"
 language: en
 slug: hotel-millennium
 address: "Tushemisht, 0832 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Brand New Comfy Apartment located in city center"
 description: "Discover the charm of Durrës with a stay at the Brand New Comfy Apartment, a modern retreat situated in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492960022.jpg?k=870ea0f0a6ac1a6451e2f6e782fdb02994728b7655b717de5dc333c76a5fce83&o=&hp=1"
+featuredImage: "/images/accommodation/brand-new-comfy-apartment-located-in-city-center-492960022.jpg"
 language: en
 slug: brand-new-comfy-apartment-located-in-city-center
 address: "Rruga Karl Topia, Durrës, Albania"

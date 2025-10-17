@@ -1,7 +1,7 @@
 ---
 title: "Sinani Apartments"
 description: "Sinani Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426796090.jpg?k=c9b315d509b1a581d353d3382f8af41cbfd9e2d2f9887d3273d23e983539e3c7&o=&hp=1"
+featuredImage: "/images/accommodation/sinani-apartments-426796090.jpg"
 language: en
 slug: sinani-apartments
 address: "Rruga Riviera, 9706 Ksamil, Albania"

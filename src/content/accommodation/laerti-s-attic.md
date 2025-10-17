@@ -1,7 +1,7 @@
 ---
 title: "LAERTI'S ATTIC"
 description: "LAERTI'S ATTIC emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469308950.jpg?k=0f4935f040be14ede46dddc2e3d170515931139bcbef53d3cff7f7bcffae506e&o=&hp=1"
+featuredImage: "/images/accommodation/laerti-s-attic-469308950.jpg"
 language: en
 slug: laerti-s-attic
 address: "Rr. Dush Strati, 9402 Vlorë, Albania"

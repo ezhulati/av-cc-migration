@@ -1,7 +1,7 @@
 ---
 title: "ap31BC"
 description: "Ap31BC emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368757760.jpg?k=591ae70a27bfb402ec73a73226a1c4849bfadbb14c0f06a641a3ac794da30be3&o=&hp=1"
+featuredImage: "/images/accommodation/ap31bc-368757760.jpg"
 language: en
 slug: ap31bc
 address: "Rr. Liria, Nd.129, H 5, Ap. 31, 2021, Durres, 2021 Durrës, Albania"

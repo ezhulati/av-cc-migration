@@ -1,7 +1,7 @@
 ---
 title: "Isabel Mosaic Apartment"
 description: "Discover the charm of Tirana from the comfort of Isabel Mosaic Apartment, a prime choice for travelers seeking both convenience and style."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526954482.jpg?k=1e61be0dd069c17a9e0a01410f4156694931f8df1903b6fca160a99fd4d1b19b&o=&hp=1"
+featuredImage: "/images/accommodation/isabel-mosaic-apartment-526954482.jpg"
 language: en
 slug: isabel-mosaic-apartment
 address: "Rruga Naim Frashëri, Nr 109 2-nd floor, 1000 Tirana, Albania"

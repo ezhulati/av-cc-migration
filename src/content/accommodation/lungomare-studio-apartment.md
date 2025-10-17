@@ -1,7 +1,7 @@
 ---
 title: "LUNGOMARE STUDIO APARTMENT"
 description: "Lungomare Studio Apartment emerges as a serene haven for travelers seeking both tranquility and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345864180.jpg?k=c5d7e475915ad137dbc1d70e579d74a2d6051941a35424b8f19a746935777704&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-studio-apartment-345864180.jpg"
 language: en
 slug: lungomare-studio-apartment
 address: "Rruga Murat Tërbaçi, 9404 Vlorë, Albania"

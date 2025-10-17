@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse \"Haxhiu\" - Sopot, Diber"
 description: "Guesthouse \"Haxhiu\" - Sopot, Diber, emerges as a charming retreat in Bulqizë, boasting a recent renovation that promises guests a comfortable and serene stay."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/guesthouse-haxhiu-sopot-diber-d2bf46fbe4c1.jpg"
 language: en
 slug: guesthouse-haxhiu-sopot-diber
 address: "Sopot Sopot,, 8406 Bulqizë, Albania"

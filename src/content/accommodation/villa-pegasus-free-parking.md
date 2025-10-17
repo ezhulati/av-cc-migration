@@ -1,7 +1,7 @@
 ---
 title: "Villa Pegasus Free Parking"
 description: "Villa Pegasus Free Parking emerges as a serene retreat in the vibrant city of Vlorë, strategically positioned just a stone's throw away from the pristine Beach at Government Villas and the tranquil Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470503664.jpg?k=0cf86c582e34c0a4eb7aa02a02f67c2814c5ae71d8dcdc921bc05518b8f352ea&o=&hp=1"
+featuredImage: "/images/accommodation/villa-pegasus-free-parking-470503664.jpg"
 language: en
 slug: villa-pegasus-free-parking
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

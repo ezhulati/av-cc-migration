@@ -1,7 +1,7 @@
 ---
 title: "British Hotel Pogradec"
 description: "British Hotel Pogradec emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Pogradec, merely 8."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203413759.jpg?k=78738309178f7a606feec0a187f8df83c7194e6392006bbfa110e7ee4728244e&o=&hp=1"
+featuredImage: "/images/accommodation/british-hotel-pogradec-203413759.jpg"
 language: en
 slug: british-hotel-pogradec
 address: "Rruga Rinia Road Lagja nr 2, 7301 Pogradec, Albania"

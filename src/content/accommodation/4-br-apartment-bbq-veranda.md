@@ -1,7 +1,7 @@
 ---
 title: "4 BR apartment & BBQ veranda"
 description: "Discover the epitome of urban living at the 4 BR Apartment & BBQ Veranda, a premier accommodation choice located in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406056082.jpg?k=0aaa065fd5bebdbb46bd96fef978dd233a86196e5502bb42850ce27512b8f858&o=&hp=1"
+featuredImage: "/images/accommodation/4-br-apartment-bbq-veranda-406056082.jpg"
 language: en
 slug: 4-br-apartment-bbq-veranda
 address: "Rruga Moskat Building Moskat, floor 4th, 1001 Tirana, Albania"

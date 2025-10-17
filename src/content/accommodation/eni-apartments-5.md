@@ -1,7 +1,7 @@
 ---
 title: "Eni Apartments 5"
 description: "Eni Apartments 5 emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just 100 meters from Vlore Beach and a short distance from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492116994.jpg?k=a7da83c0702036c2a996ac231bca715b667fb9d7f401e2af4c094f361c345b33&o=&hp=1"
+featuredImage: "/images/accommodation/eni-apartments-5-492116994.jpg"
 language: en
 slug: eni-apartments-5
 address: "Lungo marre, 9402 Vlorë, Albania"

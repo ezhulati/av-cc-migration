@@ -1,7 +1,7 @@
 ---
 title: "Beachfront villa in Qerret beach with a private pool"
 description: "Beachfront Villa in Qerret Beach offers an unparalleled retreat for those seeking a blend of luxury and tranquility right on the water's edge."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/beachfront-villa-in-qerret-beach-with-a-private-pool-0e43c9b9a23d.jpg"
 language: en
 slug: beachfront-villa-in-qerret-beach-with-a-private-pool
 address: "Rruga e Fshatrave Turistike, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Mata"
 description: "Vila Mata emerges as a serene retreat in the picturesque Voskopojë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378061132.jpg?k=1c129f427f60f1330a459fec4f6283ad79141fc85af51e203d0c0ad074ee6753&o=&hp=1"
+featuredImage: "/images/accommodation/vila-mata-378061132.jpg"
 language: en
 slug: vila-mata
 address: "Voskopoje Korce, 7029 Voskopojë, Albania"

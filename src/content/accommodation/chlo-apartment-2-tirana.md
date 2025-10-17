@@ -1,7 +1,7 @@
 ---
 title: "Chlo apartment 2 Tirana"
 description: "Chlo Apartment 2 Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387030361.jpg?k=893d1522eaeed781ded0ec565df68197849a14f883240291a457e2d90d8e1c4a&o=&hp=1"
+featuredImage: "/images/accommodation/chlo-apartment-2-tirana-387030361.jpg"
 language: en
 slug: chlo-apartment-2-tirana
 address: "Rruga Isa Boletini , pallati 2 , shkalla 1 , apartamenti 20, 1015 Tirana, Albania"

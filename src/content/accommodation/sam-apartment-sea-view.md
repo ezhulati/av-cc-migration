@@ -1,7 +1,7 @@
 ---
 title: "Sam Apartment sea view"
 description: "Sam Apartment Sea View emerges as a prime choice for travelers seeking a serene beachfront escape in Orikum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503779344.jpg?k=cc36d740768cb3ea4aab2a798807c23e80ba3172989e19c549d8d2a6a90e132e&o=&hp=1"
+featuredImage: "/images/accommodation/sam-apartment-sea-view-503779344.jpg"
 language: en
 slug: sam-apartment-sea-view
 address: "Rruga Demokracia, 9426 Orikum, Albania"

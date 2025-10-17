@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Xhabakja"
 description: "Bujtina Xhabakja emerges as a charming destination for travelers seeking a blend of comfort and culture in Belsh-Qendra."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330233668.jpg?k=c65294afe514d83493c7625bc3e66449aa0c36d65b48970493f179e072d0b057&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-xhabakja-330233668.jpg"
 language: en
 slug: bujtina-xhabakja
 address: "Rruga Cezma e Vjeter, 3008 Belsh-Qendra, Albania"

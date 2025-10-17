@@ -1,7 +1,7 @@
 ---
 title: "SeA apartments 123"
 description: "SeA Apartments 123 emerges as a modern oasis of comfort and convenience, located just a short 800 meters from the vibrant Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513955220.jpg?k=7456ff5fd8efd19db24a11f41af6dfa73414718eae6c1d31cc82b16908a70980&o=&hp=1"
+featuredImage: "/images/accommodation/sea-apartments-123-513955220.jpg"
 language: en
 slug: sea-apartments-123
 address: "Rr. Skenderbeu, 9701 Sarandë, Albania"

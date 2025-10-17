@@ -1,7 +1,7 @@
 ---
 title: "Cozy stay in the heart of Tirana"
 description: "Discover the charm of Tirana with a stay at \"Cozy Stay in the Heart of Tirana,\" a prime accommodation choice for travelers seeking both comfort and convenience."
-featuredImage: "https://graph.facebook.com/v2.9/3465456773769461/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/cozy-stay-in-the-heart-of-tirana-picture?type.jpg"
 language: en
 slug: cozy-stay-in-the-heart-of-tirana
 address: "Bulevardi Bajram Curri, 1001 Tirana, Albania"

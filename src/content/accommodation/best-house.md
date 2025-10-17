@@ -1,7 +1,7 @@
 ---
 title: "Best House"
 description: "Best House emerges as a standout choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479546015.jpg?k=a281b93f6eccdc364e4051a6e58057b7ab7125649553511087ea293f4d010b56&o=&hp=1"
+featuredImage: "/images/accommodation/best-house-479546015.jpg"
 language: en
 slug: best-house
 address: "9701 Rruga Butrinti, 9701 Sarandë, Albania"

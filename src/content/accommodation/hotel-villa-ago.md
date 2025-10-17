@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Ago"
 description: "Hotel Villa Ago stands out as a serene retreat in the heart of Përmet, offering guests a harmonious blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/191746871.jpg?k=1858d1e3b0798418f037a9836d5743e0adf631cbf7034e9f549005d4697bb54b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-villa-ago-191746871.jpg"
 language: en
 slug: hotel-villa-ago
 address: "Πρεμετή tefta axgoli, 11552 Përmet, Albania"

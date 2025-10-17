@@ -1,7 +1,7 @@
 ---
 title: "Tier Hotel"
 description: "Tier Hotel emerges as a modern oasis in the heart of Tirana, offering guests a seamless blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514779837.jpg?k=ae3ff700d066f30f68f6c51e1bb5e386242741b2c0ade0d0aa62cac9220432e7&o=&hp=1"
+featuredImage: "/images/accommodation/tier-hotel-514779837.jpg"
 language: en
 slug: tier-hotel
 address: "Rruga Myrtezim Këlliçi, 1010 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The Nook"
 description: "Discover the charm of Vlorë with a stay at The Nook, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://lh5.googleusercontent.com/-hsz5WPTwp54/AAAAAAAAAAI/AAAAAAAAALU/F-KR62BwXyk/s96-c/photo.jpg64"
+featuredImage: "/images/accommodation/the-nook-photo.jpg64.jpg"
 language: en
 slug: the-nook
 address: "Rruga Cajupi Pas Raiffeisen Bank, Skele, 9401 Vlorë, Albania"

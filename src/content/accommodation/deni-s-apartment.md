@@ -1,7 +1,7 @@
 ---
 title: "Deni's Apartment"
 description: "Deni's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the pristine Shkëmbi i Kavajës Beach and a short stroll from Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464657676.jpg?k=18a1e29eb0e92b87398c93c113ee2aadf7262607e11802ac3dd6797206215c2c&o=&hp=1"
+featuredImage: "/images/accommodation/deni-s-apartment-464657676.jpg"
 language: en
 slug: deni-s-apartment
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

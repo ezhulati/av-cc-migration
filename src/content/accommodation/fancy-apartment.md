@@ -1,7 +1,7 @@
 ---
 title: "Fancy apartment"
 description: "Fancy Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471935782.jpg?k=e9ec17b6b32e38fb94a4f10dfd2e981095503cb62002b9a37444627df9163b95&o=&hp=1"
+featuredImage: "/images/accommodation/fancy-apartment-471935782.jpg"
 language: en
 slug: fancy-apartment
 address: "Rruga Mihal Duri, 1001 Tirana, Albania"

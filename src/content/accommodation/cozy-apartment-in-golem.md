@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartment in Golem"
 description: "Discover the charm of Golem with a stay at the Cozy Apartment in Golem, a prime beachfront property that promises more than just a place to sleep."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501563952.jpg?k=67f1a9ce091a290fbed1558042b00429b015410b96e2812536b230c827daddd2&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-in-golem-501563952.jpg"
 language: en
 slug: cozy-apartment-in-golem
 address: "Rruga Plazhit, Golem, Albania"

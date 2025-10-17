@@ -1,7 +1,7 @@
 ---
 title: "Second Room of Cozy Beachside Haven - Panoramic Radhime Retreat with Balcony Dining"
 description: "Discover the charm of Second Room of Cozy Beachside Haven - Panoramic Radhime Retreat with Balcony Dining, a gem situated in the heart of Vlorë, mere steps from the pristine Radhimë Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457446152.jpg?k=ff40d9a0180507e08ce3787691ff31838d42a3b0a515b56db1c6eb674f1dee58&o=&hp=1"
+featuredImage: "/images/accommodation/second-room-of-cozy-beachside-haven-panoramic-radhime-retreat-with-balcony-dining-457446152.jpg"
 language: en
 slug: second-room-of-cozy-beachside-haven-panoramic-radhime-retreat-with-balcony-dining
 address: "Rruga Numan Bilani Radhimë, 9400, Albania, 9400 Vlorë, Albania"

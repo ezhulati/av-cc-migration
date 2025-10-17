@@ -1,7 +1,7 @@
 ---
 title: "Tani's House"
 description: "Tani's House emerges as a serene retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine shores of Ksamil Beach 9 and Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370012470.jpg?k=0eed0ccfc486e801e2b9f713e02cf37c39d3fc3cb0858864f860c63f5c470928&o=&hp=1"
+featuredImage: "/images/accommodation/tani-s-house-370012470.jpg"
 language: en
 slug: tani-s-house
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

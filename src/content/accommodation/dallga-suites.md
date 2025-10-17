@@ -1,7 +1,7 @@
 ---
 title: "Dallga Suites"
 description: "Dallga Suites emerges as a serene oasis in Tushemisht, offering a unique blend of comfort and convenience just a stone's throw away from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524356521.jpg?k=3113879b793ac8d22b215335e71edc148f626e0cfe8d404f65097a54f7995631&o=&hp=1"
+featuredImage: "/images/accommodation/dallga-suites-524356521.jpg"
 language: en
 slug: dallga-suites
 address: "Deshmoret e Pojskes, 7304 Tushemisht, Albania"

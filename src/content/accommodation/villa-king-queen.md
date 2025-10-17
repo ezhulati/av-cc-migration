@@ -1,7 +1,7 @@
 ---
 title: "Villa KING & QUEEN"
 description: "Villa KING & QUEEN emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447461398.jpg?k=19fce7c81da553af5287f4f760d51d450853656970111b06b395196a1a1365e8&o=&hp=1"
+featuredImage: "/images/accommodation/villa-king-queen-447461398.jpg"
 language: en
 slug: villa-king-queen
 address: "Rruga Uji i Ftohte, Vlorë, Albania"

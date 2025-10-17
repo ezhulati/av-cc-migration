@@ -1,7 +1,7 @@
 ---
 title: "Villa 22"
 description: "Villa 22 stands out as a premier choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494774696.jpg?k=e39e969f92d7f355147afee3b426d8ceb7817885e0f8ddd7afdffb7f23e3327a&o=&hp=1"
+featuredImage: "/images/accommodation/villa-22-494774696.jpg"
 language: en
 slug: villa-22
 address: "Rruga Seit Bego, 1001 Tirana, Albania"

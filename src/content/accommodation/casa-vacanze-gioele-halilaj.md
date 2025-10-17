@@ -1,7 +1,7 @@
 ---
 title: "Casa vacanze GIOELE HALILAJ"
 description: "Casa vacanze GIOELE HALILAJ stands as a prime beachfront gem in Vlorë, offering guests an exceptional stay a stone's throw away from Vlore Beach and a leisurely stroll from Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479903009.jpg?k=a2eb06620924624c4a96e3f46e649f0952e74a39de8fd07b0d889f8c98cea9fa&o=&hp=1"
+featuredImage: "/images/accommodation/casa-vacanze-gioele-halilaj-479903009.jpg"
 language: en
 slug: casa-vacanze-gioele-halilaj
 address: "Rruga Aristill Kokoshi Piano terra, 9400 Vlorë, Albania"

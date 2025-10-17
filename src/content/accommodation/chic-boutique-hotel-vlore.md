@@ -1,7 +1,7 @@
 ---
 title: "Chic Boutique Hotel Vlore"
 description: "Chic Boutique Hotel Vlore stands out as a premier destination for travelers seeking both comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309178961.jpg?k=6a1f30749f931d340b804d67ff480f050b1766819c1bbea9322ee80377770214&o=&hp=1"
+featuredImage: "/images/accommodation/chic-boutique-hotel-vlore-309178961.jpg"
 language: en
 slug: chic-boutique-hotel-vlore
 address: "Rruga Çamëria, 9403 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "6 Milje Hotel"
 description: "Discover the charm of Ksamil at the 6 Milje Hotel, a gem located just a stone's throw away from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360758303.jpg?k=88dd8283fd8b45ad6977529f9565fcde612d80733789a873f6d6de80d8da7539&o=&hp=1"
+featuredImage: "/images/accommodation/6-milje-hotel-360758303.jpg"
 language: en
 slug: 6-milje-hotel
 address: "SH81 Lagjia Nr.1, 9706 Ksamil, Albania"

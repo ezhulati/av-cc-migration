@@ -1,7 +1,7 @@
 ---
 title: "Elbasan Backpacker Hostel"
 description: "Elbasan Backpacker Hostel emerges as a vibrant haven for travelers seeking an immersive experience in Elbasan."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236618440.jpg?k=6e02b63d59f8c069906fc49e24574df3af5a1f59a107dcfd1062f0e6853c9017&o=&hp=1"
+featuredImage: "/images/accommodation/elbasan-backpacker-hostel-236618440.jpg"
 language: en
 slug: elbasan-backpacker-hostel
 address: "Rruga Sul Domi AZ6668, 3001 Elbasan, Albania"

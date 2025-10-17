@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Terthorja"
 description: "Bujtina Terthorja emerges as a serene haven for travelers seeking the perfect blend of comfort and adventure, just 4 km away from the breathtaking Theth National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320660005.jpg?k=255b28d134e54aabdd9555c1dd24a833c0e660ba37ef84a452cf36773863caf9&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-terthorja-320660005.jpg"
 language: en
 slug: bujtina-terthorja
 address: "Rruga Gjecaj, 1222 Theth, Albania"

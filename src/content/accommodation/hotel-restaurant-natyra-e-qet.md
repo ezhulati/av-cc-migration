@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restaurant Natyra e Qetë"
 description: "Hotel Restaurant Natyra e Qetë emerges as a serene oasis in Lezhë, situated a mere 35 km from the historic Rozafa Castle Shkodra."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477924683.jpg?k=12fc56e420eed4b371c2362afe2c4320bdff2b09c1b7573f74d412f093b4ee4c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-restaurant-natyra-e-qet-477924683.jpg"
 language: en
 slug: hotel-restaurant-natyra-e-qet
 address: "Rruga Kuvendi i Arbërit, 4500 Lezhë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bujtina cela"
 description: "Bujtina cela stands out as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486344184.jpg?k=da5509e345e182bd374f9f56998dc4f7d179b3aa66e18d2eddb956718f6b5d7c&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-cela-486344184.jpg"
 language: en
 slug: bujtina-cela
 address: "40.7685444,19.8973282 1, 5001 Berat, Albania"

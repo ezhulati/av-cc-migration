@@ -1,7 +1,7 @@
 ---
 title: "Apartment at Bougainville Resort"
 description: "Discover the charm of Sarandë with a stay at the Apartment at Bougainville Resort, a prime beachfront property that offers more than just a place to sleep."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428672344.jpg?k=fe21561814048105655fb0f279660afc656f16b02f525556868bc1b37603f4b8&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-at-bougainville-resort-428672344.jpg"
 language: en
 slug: apartment-at-bougainville-resort
 address: "9701 Rruga Butrinti, 9701 Sarandë, Albania"

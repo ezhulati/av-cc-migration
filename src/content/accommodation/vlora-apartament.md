@@ -1,7 +1,7 @@
 ---
 title: "VLORA APARTAMENT"
 description: "VLORA APARTAMENT stands as a prime choice for travelers seeking comfort and convenience in Vlorë, offering a serene retreat just a stone's throw away from the pristine Vjetër Beach and a leisurely 18-minute stroll from the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514115900.jpg?k=e88df4b34081f30915bed0864c2d6d1f6e86f4af9fd233a1b072cc805e8d2975&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-apartament-514115900.jpg"
 language: en
 slug: vlora-apartament
 address: "FF5P+463, Rr. Gjergj Arianiti, Vlorë, 9404 Vlorë, Albania"

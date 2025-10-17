@@ -1,7 +1,7 @@
 ---
 title: "Villa Ceni 2"
 description: "Villa Ceni 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Elbasan, located just a stone's throw away from the heart of Albania's rich historical tapestry."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425579551.jpg?k=b9ec568bae55afb8919795e43380034b3ce2025d9ceadd6a0bedf401d5f34dd3&o=&hp=1"
+featuredImage: "/images/accommodation/villa-ceni-2-425579551.jpg"
 language: en
 slug: villa-ceni-2
 address: "Rruga Kadri Hoxha, 3001 Elbasan, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Elios Room 2"
 description: "Elios Room 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491360625.jpg?k=55276f2e64a307876091b6b9e7a467c7657bfc6739fc790d2d64a441b1dc9824&o=&hp=1"
+featuredImage: "/images/accommodation/elios-room-2-491360625.jpg"
 language: en
 slug: elios-room-2
 address: "Rruga Xhezmi Delli 3rd floor, 1001 Tirana, Albania"

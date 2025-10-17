@@ -1,7 +1,7 @@
 ---
 title: "Cozy Elegance Above Korca"
 description: "Cozy Elegance Above Korca emerges as a prime choice for travelers seeking a blend of comfort and convenience with a dash of local charm."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486297848.jpg?k=cc4c37f622cfc8685f46d16c8f6afad0e4c99c5f12be90c5af70b2a7d26cfa3c&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-elegance-above-korca-486297848.jpg"
 language: en
 slug: cozy-elegance-above-korca
 address: "Rruga Dhimitër Denasi, 7001 Korçë, Albania"

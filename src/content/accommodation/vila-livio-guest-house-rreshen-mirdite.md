@@ -1,7 +1,7 @@
 ---
 title: "Vila Livio - Guest house Rreshen Mirdite"
 description: "Vila Livio - Guest house Rreshen Mirdite stands out as a charming retreat in the heart of Rrëshen, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479250101.jpg?k=dc4d1390ae3c62b0642424a6cc50f06a143aef9791d478a2ccb65ea1afae19c4&o=&hp=1"
+featuredImage: "/images/accommodation/vila-livio-guest-house-rreshen-mirdite-479250101.jpg"
 language: en
 slug: vila-livio-guest-house-rreshen-mirdite
 address: "Rruga Vincenco D'Paoli 2, 4601 Rrëshen, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Ahmeti"
 description: "Vila Ahmeti stands out as a charming retreat just 700 meters from Sarandë's pebbly shores, offering guests a serene garden setting and a delightful dining experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468258970.jpg?k=709f7ed8f78778f658f67c919bbef7f6116fa4b50e89213d6257eed785a62e9b&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ahmeti-468258970.jpg"
 language: en
 slug: vila-ahmeti
 address: "Adem Sheme Street 178, 9702 Sarandë, Albania"

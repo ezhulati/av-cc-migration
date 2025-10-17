@@ -1,7 +1,7 @@
 ---
 title: "Comfy condo 6 minutes from downtown & Free Parking"
 description: "In the heart of Tirana, a mere stone's throw away from the vibrant Skanderbeg Square and within easy reach of the Dajti Ekspres Cable Car, Comfy Condo emerges as a top pick for visitors looking for a blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398061525.jpg?k=52b9182fa7d23933b2d0276fcc77c0162570d0b4b1c5d416ab24696e3e4070ac&o=&hp=1"
+featuredImage: "/images/accommodation/comfy-condo-6-minutes-from-downtown-free-parking-398061525.jpg"
 language: en
 slug: comfy-condo-6-minutes-from-downtown-free-parking
 address: "Rruga Hoxhë Vokrri, 1008 Tirana, Albania"

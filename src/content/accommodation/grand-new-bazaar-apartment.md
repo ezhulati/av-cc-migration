@@ -1,7 +1,7 @@
 ---
 title: "Grand New Bazaar Apartment"
 description: "Grand New Bazaar Apartment emerges as a modern retreat in the heart of Tirana, boasting a prime location close to the city's most iconic landmarks including Skanderbeg Square, the Former Residence of Enver Hoxha, and Tanners' Bridge."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502320214.jpg?k=c0e7a72da113fe525d27eecd5967306295ab5a6426e5cca1b195d71ee32934b1&o=&hp=1"
+featuredImage: "/images/accommodation/grand-new-bazaar-apartment-502320214.jpg"
 language: en
 slug: grand-new-bazaar-apartment
 address: "Rruga e Saraçëve, 1010 Tirana, Albania"

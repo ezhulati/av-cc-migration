@@ -1,7 +1,7 @@
 ---
 title: "Evergreen Laguna Vain-Lezhe"
 description: "Evergreen Laguna Vain-Lezhe emerges as a serene oasis in Lezhë, a mere stone's throw away from the historic Rozafa Castle Shkodra, offering a blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528836963.jpg?k=0b58554dcd29f4c2281d7067d9fecebaa3c56cabc8114485157bef8050151d50&o=&hp=1"
+featuredImage: "/images/accommodation/evergreen-laguna-vain-lezhe-528836963.jpg"
 language: en
 slug: evergreen-laguna-vain-lezhe
 address: "Lezhë - Ishull - Vain, 4501 Lezhë, Albania"

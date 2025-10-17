@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vllazen Kaçi"
 description: "Hotel Vllazen Kaçi emerges as a serene oasis in Velipojë, merely a stone's throw away from the pristine Velipoja Beach and the historic Rozafa Castle Shkodra."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497213232.jpg?k=3cba3944ea2b4f2ca3d4eb21ab6a3ae35c160770152ff65d8bdf9d9e0f5cb656&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vllazen-ka-i-497213232.jpg"
 language: en
 slug: hotel-vllazen-ka-i
 address: "Rruga Shtepia e Peshkatareve Vllazen kaçi, 4020 Velipojë, Albania"

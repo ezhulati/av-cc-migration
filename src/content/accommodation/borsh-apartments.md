@@ -1,7 +1,7 @@
 ---
 title: "Borsh apartments"
 description: "Borsh Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian Riviera."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471912864.jpg?k=76ed4359f679219d5f55626006180485843f4c36fac410240b2db4096a69d441&o=&hp=1"
+featuredImage: "/images/accommodation/borsh-apartments-471912864.jpg"
 language: en
 slug: borsh-apartments
 address: "Rruga piqeras 5, 9714 Borsh, Albania"

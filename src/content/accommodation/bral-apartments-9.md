@@ -1,7 +1,7 @@
 ---
 title: "Bral Apartments 9"
 description: "Bral Apartments 9 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366677893.jpg?k=0d92a51f00befe2c0a3d5e9918f5b81c11463fa850cb0de2d618c4bfeb1a99df&o=&hp=1"
+featuredImage: "/images/accommodation/bral-apartments-9-366677893.jpg"
 language: en
 slug: bral-apartments-9
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

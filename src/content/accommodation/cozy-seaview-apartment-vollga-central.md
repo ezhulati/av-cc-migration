@@ -1,7 +1,7 @@
 ---
 title: "Cozy Seaview Apartment Vollga Central"
 description: "Cozy Seaview Apartment Vollga Central emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414314010.jpg?k=a063ff360a46c05079b97e96e3cffce05651c8d07b4e46d773af38ee2bb614ab&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-seaview-apartment-vollga-central-414314010.jpg"
 language: en
 slug: cozy-seaview-apartment-vollga-central
 address: "Rruga Taulantia, 2001 Durrës, Albania"

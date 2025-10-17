@@ -1,7 +1,7 @@
 ---
 title: "Vivo Apartment"
 description: "Vivo Apartment emerges as a serene oasis in Durrës, located just a stone's throw away from the pristine Durres Beach and within a comfortable distance from the heart of Albanian culture, Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367733268.jpg?k=6ca8a8a54211473a783938fe99e8a6e9adb15c5b16e16bf6bd1ef71d25eaf195&o=&hp=1"
+featuredImage: "/images/accommodation/vivo-apartment-367733268.jpg"
 language: en
 slug: vivo-apartment
 address: "Rruga Prokop Mgjergo, 2001 Durrës, Albania"

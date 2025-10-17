@@ -1,7 +1,7 @@
 ---
 title: "Uji Ftohtë"
 description: "Uji Ftohtë stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just 15 km from both Kuzum Baba and Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503002515.jpg?k=12966a4111e5018a6cbbd0f30229db56f448b567e00249ea4d4fbea59772c9a2&o=&hp=1"
+featuredImage: "/images/accommodation/uji-ftoht-503002515.jpg"
 language: en
 slug: uji-ftoht
 address: "Vlorë Bypass, Vlorë, Albania"

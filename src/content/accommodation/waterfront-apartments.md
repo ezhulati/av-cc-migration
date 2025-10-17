@@ -1,7 +1,7 @@
 ---
 title: "Waterfront Apartments"
 description: "Waterfront Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480257486.jpg?k=c746d10ee90b94be13d0cd6edd092fcc25f3256dcfde1944a99e6165d5bb3754&o=&hp=1"
+featuredImage: "/images/accommodation/waterfront-apartments-480257486.jpg"
 language: en
 slug: waterfront-apartments
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

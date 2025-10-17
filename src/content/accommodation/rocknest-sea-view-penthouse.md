@@ -1,7 +1,7 @@
 ---
 title: "Rocknest Sea View Penthouse"
 description: "Rocknest Sea View Penthouse emerges as a modern gem in Sarandë, boasting a prime location close to both Saranda City Beach and La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352530656.jpg?k=3f81a67d66a9e826608472412bcd963f04a8f763c30fc4878be84d8a28f2f142&o=&hp=1"
+featuredImage: "/images/accommodation/rocknest-sea-view-penthouse-352530656.jpg"
 language: en
 slug: rocknest-sea-view-penthouse
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

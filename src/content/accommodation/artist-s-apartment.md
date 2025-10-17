@@ -1,7 +1,7 @@
 ---
 title: "Artist s Apartment"
 description: "Artist's Apartment emerges as a standout choice for travelers seeking the perfect blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200916942.jpg?k=22f724b05bdf18fc3bcd1fb2898649bbbad711299f7838e41573108081e4f45b&o=&hp=1"
+featuredImage: "/images/accommodation/artist-s-apartment-200916942.jpg"
 language: en
 slug: artist-s-apartment
 address: "Rruga Cajupi Ndertesa 2, Hyrja 29, Ap. 9, 9401 Vlorë, Albania"

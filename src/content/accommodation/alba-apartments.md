@@ -1,7 +1,7 @@
 ---
 title: "Alba Apartments"
 description: "Alba Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517559576.jpg?k=d6df3d418eca7c4c30c1d2069957a21cabdfeda428381e51dc076cdcd50b51cc&o=&hp=1"
+featuredImage: "/images/accommodation/alba-apartments-517559576.jpg"
 language: en
 slug: alba-apartments
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Goni Guest House"
 description: "Goni Guest House stands out as a serene retreat in Tepelenë, offering guests an exclusive slice of paradise with its own private beach area, lush garden, and barbecue facilities complemented by a cozy shared lounge."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496908795.jpg?k=1a6faec90a8cf4749e7a541824ed92a3f4381def416697399bc34f3384ef3fb4&o=&hp=1"
+featuredImage: "/images/accommodation/goni-guest-house-496908795.jpg"
 language: en
 slug: goni-guest-house
 address: "Street Qirko Done, Peshtan, 6301 Tepelenë, Albania"

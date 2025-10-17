@@ -1,7 +1,7 @@
 ---
 title: "Friends Hostel"
 description: "Friends Hostel emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499275801.jpg?k=f2bf0cd6c3c51023dc40d5c4e855f47cf0535a7db9f146f0358bf23957674684&o=&hp=1"
+featuredImage: "/images/accommodation/friends-hostel-499275801.jpg"
 language: en
 slug: friends-hostel
 address: "Rruga Tefta Tashko-Koço, Tirana, Albania"

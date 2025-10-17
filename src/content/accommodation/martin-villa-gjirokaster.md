@@ -1,7 +1,7 @@
 ---
 title: "Martin Villa Gjirokaster"
 description: "Martin Villa Gjirokaster emerges as a serene retreat, located a mere 44 km from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478080071.jpg?k=cd519cd64483bf52b125616988389ec3448a2ea42f2ea14cf6a6c519f97a50fe&o=&hp=1"
+featuredImage: "/images/accommodation/martin-villa-gjirokaster-478080071.jpg"
 language: en
 slug: martin-villa-gjirokaster
 address: "Rruga Gjirokastër, Gjirokastër, Albania"

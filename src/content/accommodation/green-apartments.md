@@ -1,7 +1,7 @@
 ---
 title: "GREEN Apartments"
 description: "GREEN Apartments emerges as a serene retreat, offering guests a unique blend of natural beauty and modern comforts, just a short stroll from the pristine sands of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444947927.jpg?k=adb99ad094a0bdb856169d5566b14da25a65ed21d9d4ac7c3d030adad52b0d47&o=&hp=1"
+featuredImage: "/images/accommodation/green-apartments-444947927.jpg"
 language: en
 slug: green-apartments
 address: "Rruga Tafil Buzi Nr 44 Ksamil, 9706 Ksamil, Albania"

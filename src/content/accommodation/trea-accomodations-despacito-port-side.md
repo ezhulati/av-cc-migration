@@ -1,7 +1,7 @@
 ---
 title: "TreA Accomodations - Despacito Port Side"
 description: "TreA Accommodations - Despacito Port Side stands out as a prime choice for travelers seeking a blend of comfort and convenience, coupled with a stunning city view."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457127444.jpg?k=6af4598642243160d4612605b9c09ca5c2d78ce89867517227d0ae14453a5402&o=&hp=1"
+featuredImage: "/images/accommodation/trea-accomodations-despacito-port-side-457127444.jpg"
 language: en
 slug: trea-accomodations-despacito-port-side
 address: "Rruga Sazani 1 Vlore, 9401 Vlorë, Albania"

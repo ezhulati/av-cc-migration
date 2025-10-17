@@ -1,7 +1,7 @@
 ---
 title: "Lovely modern apartment in Durrës"
 description: "Discover the charm of Durrës with a stay at the Lovely Modern Apartment, a prime choice for travelers seeking comfort and convenience just steps away from the pristine Durres Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+featuredImage: "/images/accommodation/lovely-modern-apartment-in-durr-s-8ecb6dbf787b.jpg"
 language: en
 slug: lovely-modern-apartment-in-durr-s
 address: "Rruga Pavaresia, 2002 Durrës, Albania"

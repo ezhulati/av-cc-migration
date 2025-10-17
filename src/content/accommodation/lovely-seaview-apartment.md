@@ -1,7 +1,7 @@
 ---
 title: "Lovely Seaview Apartment"
 description: "Discover the charm of Vlorë from the comfort of the Lovely Seaview Apartment, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474625509.jpg?k=26e35054b28567d5a8a473655359af010210fda97b0a4c3d4c0be08109c36704&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-seaview-apartment-474625509.jpg"
 language: en
 slug: lovely-seaview-apartment
 address: "Rruga Sadik Zotaj, Vlorë, Albania"

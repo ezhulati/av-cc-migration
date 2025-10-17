@@ -1,7 +1,7 @@
 ---
 title: "Lake Ohrid Guesthouse \"Villa Valentina\""
 description: "Lake Ohrid Guesthouse \"Villa Valentina\" emerges as a serene retreat in Pogradec, offering a blend of modern amenities and natural beauty, just a stone's throw away from the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466170217.jpg?k=ea7fb20f41610cebf18425250f25458057f88062ac34820b114169cc9871fafb&o=&hp=1"
+featuredImage: "/images/accommodation/lake-ohrid-guesthouse-villa-valentina-466170217.jpg"
 language: en
 slug: lake-ohrid-guesthouse-villa-valentina
 address: "Rruga Unaza, 7301 Pogradec, Albania"

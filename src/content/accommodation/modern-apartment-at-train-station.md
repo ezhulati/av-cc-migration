@@ -1,7 +1,7 @@
 ---
 title: "Modern Apartment at Train Station"
 description: "Modern Apartment at Train Station emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409999098.jpg?k=5888b604e97682640f7570fd09a5d3019cafef55027fd298243af5771e66705d&o=&hp=1"
+featuredImage: "/images/accommodation/modern-apartment-at-train-station-409999098.jpg"
 language: en
 slug: modern-apartment-at-train-station
 address: "Rruga Reshit Petrela, 1005 Tirana, Albania"

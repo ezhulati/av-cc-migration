@@ -1,7 +1,7 @@
 ---
 title: "Sea Front Villa"
 description: "Sea Front Villa emerges as a serene oasis in Vlorë, merely 500 meters from the pristine Vjetër Beach and a short drive from the historic Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467276342.jpg?k=fee018abede8a6ca9a14921d7712a4bb3df2efd6aa86510b04e9f1ffa28ec9b4&o=&hp=1"
+featuredImage: "/images/accommodation/sea-front-villa-467276342.jpg"
 language: en
 slug: sea-front-villa
 address: "Plazhi Vjeter Vlore Avlona, Vlorë, Plazhi Vjeter Vlore Avlona, Vlorë, Albania, 9401 Vlorë, Albania"

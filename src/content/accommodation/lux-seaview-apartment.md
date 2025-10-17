@@ -1,7 +1,7 @@
 ---
 title: "LUX SEAVIEW APARTMENT"
 description: "LUX SEAVIEW APARTMENT emerges as a prime choice for travelers seeking a blend of comfort and adventure in Vlorë, situated conveniently close to Vlore Beach and a mere stroll away from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420958383.jpg?k=c8c4f4331e7dc734c01b324295d158ca27ec88d9e6f9321248bc4599cfbfc91b&o=&hp=1"
+featuredImage: "/images/accommodation/lux-seaview-apartment-420958383.jpg"
 language: en
 slug: lux-seaview-apartment
 address: "Lagjja: 29 Nentori, 9400 Vlorë, Albania"

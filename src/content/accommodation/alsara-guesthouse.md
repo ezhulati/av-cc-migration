@@ -1,7 +1,7 @@
 ---
 title: "Alsara Guesthouse"
 description: "Alsara Guesthouse emerges as a charming accommodation option in the historic city of Gjirokastër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442495250.jpg?k=af8ccd169c7563f29f2d7df0e5b42a38508574d96a614766a7378268a2f9e415&o=&hp=1"
+featuredImage: "/images/accommodation/alsara-guesthouse-442495250.jpg"
 language: en
 slug: alsara-guesthouse
 address: "Rruga Ismail Kadare, 6001 Gjirokastër, Albania"

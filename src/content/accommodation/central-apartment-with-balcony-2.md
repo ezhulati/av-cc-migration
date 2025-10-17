@@ -1,7 +1,7 @@
 ---
 title: "Central Apartment with balcony 2"
 description: "Central Apartment with Balcony 2 emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513280907.jpg?k=7074e3ab1e936c28447836febe365724aaf3f173aecb277205f7fb6850053deb&o=&hp=1"
+featuredImage: "/images/accommodation/central-apartment-with-balcony-2-513280907.jpg"
 language: en
 slug: central-apartment-with-balcony-2
 address: "Rruga Islam Alla, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Julia Apartments"
 description: "Julia Apartments emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137488497.jpg?k=2aed20578d663f2e7968fa3d61c13e0449204c83f2a1f8c1a207d1d58123e5b3&o=&hp=1"
+featuredImage: "/images/accommodation/julia-apartments-137488497.jpg"
 language: en
 slug: julia-apartments
 address: "Rruga Dhimitër Konomi Uji i Ftohte, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Penthouse Durres View"
 description: "Penthouse Durres View stands out as a premier beachfront destination in Durrës, located just a stone's throw away from Currila Beach and within easy reach of Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482570607.jpg?k=fe87cbe45ce38dae012dfc96f0026e74a78cda92560e3523353493b718c80b03&o=&hp=1"
+featuredImage: "/images/accommodation/penthouse-durres-view-482570607.jpg"
 language: en
 slug: penthouse-durres-view
 address: "Rruga Taulantia Floor 14 Door 56, Durrës, Albania"

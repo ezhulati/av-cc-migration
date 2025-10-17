@@ -1,7 +1,7 @@
 ---
 title: "Guest House Open Room"
 description: "Guest House Open Room emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375300828.jpg?k=3bcf7f2dc08f2b7996746a3825c053ede9bd5d4462ee76d0d1fb3d6c348f784a&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-open-room-375300828.jpg"
 language: en
 slug: guest-house-open-room
 address: "Rruga Hysen Myshketa pienvis , floor 1, 2001 Durrës, Albania"

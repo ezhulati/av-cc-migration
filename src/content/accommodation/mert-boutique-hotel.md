@@ -1,7 +1,7 @@
 ---
 title: "Mert Boutique Hotel"
 description: "Mert Boutique Hotel, located in the charming city of Korçë, stands out as a premier destination for travelers seeking a blend of luxury and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373245856.jpg?k=6749d8c1dcdda07da4d23abf8aed329105e77235525a576b19add8a91d4f96a0&o=&hp=1"
+featuredImage: "/images/accommodation/mert-boutique-hotel-373245856.jpg"
 language: en
 slug: mert-boutique-hotel
 address: "Rruga Vaso Pasha Lagja 11, Rruga \"Vaso Pasha\", 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Premium 2BD At Wilson Square"
 description: "Miku Apartment-Premium 2BD At Wilson Square stands out as a serene haven in the heart of the city, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321582279.jpg?k=313f2170fb3240fa903f1058654dcda24132aa5d41b0b9117e314ac358920bdc&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-premium-2bd-at-wilson-square-321582279.jpg"
 language: en
 slug: miku-apartment-premium-2bd-at-wilson-square
 address: "Rruga Ymer Kurti, 1001 Tirana, Albania"

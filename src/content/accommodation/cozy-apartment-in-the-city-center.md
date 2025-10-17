@@ -1,7 +1,7 @@
 ---
 title: "Cozy apartment in the City Center"
 description: "Discover the charm of Shkodër from the comfort of the Cozy Apartment in the City Center, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483471697.jpg?k=271939dbb2d1e7ef58384014587d294b30484efaf23b0f9dcefae89994f9956e&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-in-the-city-center-483471697.jpg"
 language: en
 slug: cozy-apartment-in-the-city-center
 address: "Sheshi Parruce, Shkodër, Albania"

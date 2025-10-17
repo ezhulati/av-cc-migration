@@ -1,7 +1,7 @@
 ---
 title: "Appartement mer lonienne"
 description: "Discover the charm of Sarandë with a stay at Appartement mer Ionienne, a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GhguSNH8ND9Ka-9pffflT7DC1FBZOt96yJgeTFaaw=s96-c64"
+featuredImage: "/images/accommodation/appartement-mer-lonienne-AOh14GhguSNH.jpg"
 language: en
 slug: appartement-mer-lonienne
 address: "SH81, 9701 Sarandë, Albania"

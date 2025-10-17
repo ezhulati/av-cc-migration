@@ -1,7 +1,7 @@
 ---
 title: "Shkodra City Center Apartment Nr 4"
 description: "Discover the charm of Shkodër from the comfort of Shkodra City Center Apartment Nr 4, a prime choice for travelers seeking a blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505060068.jpg?k=0394ac3c121a27c1dc4ef23d76313abec311422ad3074013cd8af29be6c3b4e6&o=&hp=1"
+featuredImage: "/images/accommodation/shkodra-city-center-apartment-nr-4-505060068.jpg"
 language: en
 slug: shkodra-city-center-apartment-nr-4
 address: "Rruga Oso Kuka apartment nr 4 first floor, 4001 Shkodër, Albania"

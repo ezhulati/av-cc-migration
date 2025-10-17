@@ -1,7 +1,7 @@
 ---
 title: "Klajger Apartments"
 description: "Klajger Apartments emerges as a prime choice for travelers seeking comfortable lodging in Berat, boasting a serene garden view that promises a tranquil retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527513841.jpg?k=b12a7c459d5646b4d4f8cb0b5f8bc41939dd5d4d27b164e5013860d9f510d659&o=&hp=1"
+featuredImage: "/images/accommodation/klajger-apartments-527513841.jpg"
 language: en
 slug: klajger-apartments
 address: "Rruga Antipatrea, Pallati nr 18, shkalla1, kati 1, apartamenti nr 5A & 5B., 5001 Berat, Albania"

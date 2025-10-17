@@ -1,7 +1,7 @@
 ---
 title: "Petrit Guesthouse"
 description: "Petrit Guesthouse emerges as a serene retreat in the heart of Ksamil, offering breathtaking garden and mountain views, just a stone's throw away from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146091012.jpg?k=515e090af175b242bf4a5f7593e487b1f5235369d2c25d1be8b7d1a6023b70a8&o=&hp=1"
+featuredImage: "/images/accommodation/petrit-guesthouse-146091012.jpg"
 language: en
 slug: petrit-guesthouse
 address: "Baba sherifi street Ksamil Albania, 9706 Ksamil, Albania"

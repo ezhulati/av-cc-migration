@@ -1,7 +1,7 @@
 ---
 title: "Odri Apartment"
 description: "Odri Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/odri-apartment-c84a361d6701.jpg"
 language: en
 slug: odri-apartment
 address: "Bulevardi Ismail Qemali, 9402 Vlorë, Albania"

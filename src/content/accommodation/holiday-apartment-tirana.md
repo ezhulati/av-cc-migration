@@ -1,7 +1,7 @@
 ---
 title: "Holiday Apartment Tirana"
 description: "Holiday Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453134282.jpg?k=23704c1193cc571029ef7e4d9b8e97fff0246e2128d0ac700fb2596a96cbd0b5&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-apartment-tirana-453134282.jpg"
 language: en
 slug: holiday-apartment-tirana
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ada’s house"
 description: "Ada's House emerges as a standout choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371589919.jpg?k=228004fbe0509cdc852bda5bdd43693decbd7af7b871d3056ee1b1e2ef6eda04&o=&hp=1"
+featuredImage: "/images/accommodation/ada-s-house-371589919.jpg"
 language: en
 slug: ada-s-house
 address: "Rruga Pavaresia, Lagja 13, 2001 Durrës, Albania"

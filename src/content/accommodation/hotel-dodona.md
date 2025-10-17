@@ -1,7 +1,7 @@
 ---
 title: "Hotel Dodona"
 description: "Hotel Dodona emerges as a serene oasis on the private shores of Sarandë, boasting a seasonal outdoor pool and the luxury of free Wi-Fi in public areas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/48030358.jpg?k=4e979b9a3d6f500c51302efed915636885f0fc949b269de27833f6eda607c1bc&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-dodona-48030358.jpg"
 language: en
 slug: hotel-dodona
 address: "Kanali i Cukes, 9701 Sarandë, Albania"

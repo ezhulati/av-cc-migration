@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Aleksander"
 description: "Hotel Vila Aleksander emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/76146901.jpg?k=09076f3cc75c30ee8aebc80d9981ae15efd56644afc9e711a64b747015f60d25&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-aleksander-76146901.jpg"
 language: en
 slug: hotel-vila-aleksander
 address: "Lagja Mangalem, Rruga Kol Myzeqari (pas Bankes se Shqiperise), 5002 Berat, Albania"

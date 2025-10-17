@@ -1,7 +1,7 @@
 ---
 title: "Sea For Two"
 description: "Sea For Two emerges as a serene retreat in the heart of Sarandë, a mere stone's throw away from the pristine Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/sea-for-two-2c7be68fb3f9.jpg"
 language: en
 slug: sea-for-two
 address: "Rruga Butrinti Floor 6, 9701 Sarandë, Albania"

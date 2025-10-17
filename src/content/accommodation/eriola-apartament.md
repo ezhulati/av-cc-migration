@@ -1,7 +1,7 @@
 ---
 title: "Eriola apartament"
 description: "Eriola Apartment emerges as a serene retreat for travelers seeking the perfect blend of mountain tranquility and beachfront bliss."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210064091.jpg?k=a84fce2cf1973a451d119fa8e35ed0faabb0f71e34d29fa8b776f79e88fd1f7f&o=&hp=1"
+featuredImage: "/images/accommodation/eriola-apartament-210064091.jpg"
 language: en
 slug: eriola-apartament
 address: "Arvanitet Apartament, 9426 Orikum, Albania"

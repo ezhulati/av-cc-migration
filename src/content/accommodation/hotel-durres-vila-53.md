@@ -1,7 +1,7 @@
 ---
 title: "Hotel Durres Vila 53"
 description: "Hotel Durres Vila 53 emerges as a charming retreat for travelers seeking a serene getaway, complete with garden views and a cozy patio, located just a short distance from the pristine Currila Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306282223.jpg?k=203830efbf7e201c290035d81286e5e6c2f38d7f9ee1fe9988ee69cb0438c148&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-durres-vila-53-306282223.jpg"
 language: en
 slug: hotel-durres-vila-53
 address: "53 Rruga Aleksander Goga Vila 53 Lagja 6, 2001 Durrës, Albania"

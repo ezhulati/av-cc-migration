@@ -1,7 +1,7 @@
 ---
 title: "Venere Tirana Suite"
 description: "Venere Tirana Suite emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195661518.jpg?k=40c735f5a32da2cc80b953766e1191ad5b0a0e05bbfd68243da5334102ebd0b8&o=&hp=1"
+featuredImage: "/images/accommodation/venere-tirana-suite-195661518.jpg"
 language: en
 slug: venere-tirana-suite
 address: "Rruga Bardhok Biba, 1001 Tirana, Albania"

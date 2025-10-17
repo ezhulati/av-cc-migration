@@ -1,7 +1,7 @@
 ---
 title: "Shkodra Home"
 description: "Shkodra Home stands as a serene retreat in the heart of Shkodër, Shkoder County, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512225367.jpg?k=53021d958dc3c9cc8eb9d61c5998e1a9dbd1361bd40465f5f3a6b42b7019f13b&o=&hp=1"
+featuredImage: "/images/accommodation/shkodra-home-512225367.jpg"
 language: en
 slug: shkodra-home
 address: "Rruga Filip Shiroka, 4001 Shkodër, Albania"

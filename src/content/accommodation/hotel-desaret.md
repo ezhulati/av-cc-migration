@@ -1,7 +1,7 @@
 ---
 title: "Hotel Desaret"
 description: "Hotel Desaret emerges as a serene retreat in Pogradec, a mere stone's throw from the enchanting Ohrid Lake Springs, located 7."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517406042.jpg?k=8df78720d60d4a0153d0fe713b36a3b77a485a63267c3d4e60c474d048be89ce&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-desaret-517406042.jpg"
 language: en
 slug: hotel-desaret
 address: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

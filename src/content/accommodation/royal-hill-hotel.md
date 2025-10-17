@@ -1,7 +1,7 @@
 ---
 title: "Royal Hill Hotel"
 description: "Royal Hill Hotel emerges as a serene oasis just a stone's throw away from the bustling heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185854747.jpg?k=b4f020048228c069b529a45b3ff0a36d4004e0a8a6f2f8700ad4e6da782afeb7&o=&hp=1"
+featuredImage: "/images/accommodation/royal-hill-hotel-185854747.jpg"
 language: en
 slug: royal-hill-hotel
 address: "Rruga Bliri, 1001 Tirana, Albania"

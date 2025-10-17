@@ -1,7 +1,7 @@
 ---
 title: "Rooms for Rent"
 description: "Rooms for Rent in Shkodër presents a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351780551.jpg?k=526bf84de489e135dce84d128c11017c2b4b0506d704d829b39eb60069fbccfc&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-for-rent-351780551.jpg"
 language: en
 slug: rooms-for-rent
 address: "Lagjia perlat rexhepi rruga gjuadol nr 76, Shkodër, Albania"

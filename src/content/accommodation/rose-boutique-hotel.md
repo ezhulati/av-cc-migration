@@ -1,7 +1,7 @@
 ---
 title: "Rose Boutique Hotel"
 description: "Rose Boutique Hotel emerges as a charming retreat in the heart of Tirana, located just a short distance from the city's vibrant attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340189788.jpg?k=4fc4408a053f3015130564db062193488ab5bfae16acf5914d0841b29f2522e3&o=&hp=1"
+featuredImage: "/images/accommodation/rose-boutique-hotel-340189788.jpg"
 language: en
 slug: rose-boutique-hotel
 address: "Rruga Xhanfize Keko Oxhaku perballe karburant Eida, 1001 Tirana, Albania"

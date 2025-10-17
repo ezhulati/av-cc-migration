@@ -1,7 +1,7 @@
 ---
 title: "Guest House Genti"
 description: "Discover the charm of Berat with a stay at Guest House Genti, a prime accommodation choice that marries convenience with comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211561804.jpg?k=a107b1d078ae9ba3e7c3ef9ef2d05fba0aa5b15fce267ae5093ed8d4581d24a3&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-genti-211561804.jpg"
 language: en
 slug: guest-house-genti
 address: "Rruga Mbrica, 5001 Berat, Albania"

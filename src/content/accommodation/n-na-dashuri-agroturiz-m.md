@@ -1,7 +1,7 @@
 ---
 title: "Nëna Dashuri Agroturizëm"
 description: "Nëna Dashuri Agroturizëm emerges as a serene oasis in Peshkopi, situated a mere 24 km from the historic Monastery of Saint George the Victorious and within a comfortable distance of 42 km from the revered Saint Jovan Bigorski Monastery."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259369526.jpg?k=f37edfb0f40c7ff6279a13103e7cb0e4589946f0bb3f59cfd659301141fcda5b&o=&hp=1"
+featuredImage: "/images/accommodation/n-na-dashuri-agroturiz-m-259369526.jpg"
 language: en
 slug: n-na-dashuri-agroturiz-m
 address: "RAVNA MELAN, 8301 Peshkopi, Albania"

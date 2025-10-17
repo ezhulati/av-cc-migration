@@ -1,7 +1,7 @@
 ---
 title: "Square INN Luxury Penthouse"
 description: "Square INN Luxury Penthouse emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485545922.jpg?k=bd529901ba73631e06253f82d4c5d2a17ff4d0b46a6a35c5e33499e9a72dc70f&o=&hp=1"
+featuredImage: "/images/accommodation/square-inn-luxury-penthouse-485545922.jpg"
 language: en
 slug: square-inn-luxury-penthouse
 address: "Rruga Tish Dahia Shkalla 2, ap. 28, 1001 Tirana, Albania"

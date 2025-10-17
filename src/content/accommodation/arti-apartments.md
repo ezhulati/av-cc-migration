@@ -1,7 +1,7 @@
 ---
 title: "ARTI APARTMENTS"
 description: "Arti Apartments in Përmet offers travelers a refreshing retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451580804.jpg?k=9634b57e5a07d51e451bc32503dba71a73927075126b762499de7b3c8884f947&o=&hp=1"
+featuredImage: "/images/accommodation/arti-apartments-451580804.jpg"
 language: en
 slug: arti-apartments
 address: "69H5+X2 Përmet, Përmet, Albania"

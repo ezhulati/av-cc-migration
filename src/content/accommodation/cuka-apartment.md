@@ -1,7 +1,7 @@
 ---
 title: "Cuka Apartment"
 description: "Cuka Apartment, located in the scenic Korçë County region of Pogradec, offers guests a unique blend of convenience and serenity."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489480954.jpg?k=3f8fc92e25e58124b2075c3c7802d64f018166b45a55d589c052d593991a1e96&o=&hp=1"
+featuredImage: "/images/accommodation/cuka-apartment-489480954.jpg"
 language: en
 slug: cuka-apartment
 address: "88 Rruga Agron Ruvina 1, 7301 Pogradec, Albania"

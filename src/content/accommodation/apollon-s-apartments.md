@@ -1,7 +1,7 @@
 ---
 title: "Apollon's Apartments"
 description: "Apollon's Apartments in Himare stands out for its prime location, less than 1 km from the serene Potam Beach, offering guests a unique blend of convenience and scenic sea views."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/apollon-s-apartments-d2bf46fbe4c1.jpg"
 language: en
 slug: apollon-s-apartments
 address: "Rruga Milto Kallushi, 9425 Himare, Albania"

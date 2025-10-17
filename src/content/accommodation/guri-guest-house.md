@@ -1,7 +1,7 @@
 ---
 title: "Guri Guest House"
 description: "Guri Guest House emerges as a serene retreat in Pogradec, offering a unique blend of comfort and convenience for travelers seeking an escape near the enchanting Ohrid Lake Springs, just 7."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471854574.jpg?k=fddd234bc53b87692e4e591203695d7ae3a36c53eca9106e9c4c252073d5198e&o=&hp=1"
+featuredImage: "/images/accommodation/guri-guest-house-471854574.jpg"
 language: en
 slug: guri-guest-house
 address: "Rruga Gjon Buzuku, 7301 Pogradec, Albania"

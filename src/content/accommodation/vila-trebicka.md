@@ -1,7 +1,7 @@
 ---
 title: "Vila Trebicka"
 description: "Vila Trebicka stands out as a charming retreat in Korçë, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145562373.jpg?k=c91fd2498f478c33d3fb6fd33c51903189cd969f1c9c0c837b2763acbd813991&o=&hp=1"
+featuredImage: "/images/accommodation/vila-trebicka-145562373.jpg"
 language: en
 slug: vila-trebicka
 address: "Bulevardi Republika Rruga Jorgo Plaku, Nr.6, 7001 Korçë, Albania"

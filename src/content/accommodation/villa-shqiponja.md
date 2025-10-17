@@ -1,7 +1,7 @@
 ---
 title: "Villa Shqiponja"
 description: "Villa Shqiponja emerges as a standout choice for travelers seeking a serene retreat in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456628629.jpg?k=10ec1a458e04e0b9cbd06579e71fd28d816fed3afc41783933e3f8fdbf989a17&o=&hp=1"
+featuredImage: "/images/accommodation/villa-shqiponja-456628629.jpg"
 language: en
 slug: villa-shqiponja
 address: "Rruga Pandeli Bocari, 9701 Sarandë, Albania"

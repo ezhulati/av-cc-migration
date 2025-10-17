@@ -1,7 +1,7 @@
 ---
 title: "Fun in the Sun"
 description: "Fun in the Sun emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Golem."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJzv_w7l1rmBZSlX6-zHlYbA_zAVyEsJRUqp3HB8=s96-c64"
+featuredImage: "/images/accommodation/fun-in-the-sun-AATXAJzv_w7l.jpg"
 language: en
 slug: fun-in-the-sun
 address: "Rruga e Gjuzeve, Golem, Albania"

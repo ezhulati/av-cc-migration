@@ -1,7 +1,7 @@
 ---
 title: "CAPTAIN'S RESIDENCE"
 description: "Discover the charm of Ksamil with a stay at CAPTAIN'S RESIDENCE, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/66449774.webp?k=60fd0d9718914036780b877cdff2f357550bf5b538d1ec3d65c1e3104eeaf8b8&o=?t=1557141813"
+featuredImage: "/images/accommodation/captain-s-residence-66449774.web.jpg"
 language: en
 slug: captain-s-residence
 address: "SH81, 9706 Ksamil, Albania"

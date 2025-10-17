@@ -1,7 +1,7 @@
 ---
 title: "Hotel Shpella"
 description: "Discover the charm of Berat with a stay at Hotel Shpella, a cozy 2-star establishment that promises comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71874714.jpg?k=fa698f4b2765df50eb809c19eae13551ee661577f04b4ccf4e6a90343f71bdeb&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-shpella-71874714.jpg"
 language: en
 slug: hotel-shpella
 address: "Uznove Qender, 5002 Berat, Albania"

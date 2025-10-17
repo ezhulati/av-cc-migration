@@ -1,7 +1,7 @@
 ---
 title: "Mabel Rooms"
 description: "Mabel Rooms, a recently revamped guest house in Durrës, stands out for its prime beachfront location and commitment to guest comfort and security."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474107758.jpg?k=14ec4ce9001ec1798890a81c25af1a529f6a0772f0be8f3bbbc621b7f573e000&o=&hp=1"
+featuredImage: "/images/accommodation/mabel-rooms-474107758.jpg"
 language: en
 slug: mabel-rooms
 address: "Rruga Prokop Mgjergo, 1001 Durrës, Albania"

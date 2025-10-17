@@ -1,7 +1,7 @@
 ---
 title: "Lavender Home"
 description: "Lavender Home emerges as a refreshing retreat in the heart of Golem, a stone's throw away from the serene Golem Beach and the picturesque Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375218025.jpg?k=4ee2e1fd3d21c7b45e25e294f29bb0bda2820fd230ed5e602adb258f3fe44a81&o=&hp=1"
+featuredImage: "/images/accommodation/lavender-home-375218025.jpg"
 language: en
 slug: lavender-home
 address: "Rruga Durres-Kavaje Kryemedhenj Secondary Road, km 11, 2504 Golem, Albania, Golem, Albania"

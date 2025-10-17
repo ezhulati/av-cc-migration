@@ -1,7 +1,7 @@
 ---
 title: "Noi's sea view studio"
 description: "Noi's Sea View Studio emerges as a prime choice for travelers seeking a serene getaway, boasting breathtaking sea views from its private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482255224.jpg?k=19f2ab68317acc9b5769df548bb6e24180466f5527aaa7857dbee3831c178319&o=&hp=1"
+featuredImage: "/images/accommodation/noi-s-sea-view-studio-482255224.jpg"
 language: en
 slug: noi-s-sea-view-studio
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

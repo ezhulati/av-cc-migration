@@ -1,7 +1,7 @@
 ---
 title: "Megan Apartament"
 description: "Megan Apartment stands as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a kilometer away from the serene Vjetër Beach and a short 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482714183.jpg?k=be2c1052b067cd223524ca3287c32f520681afbccbace49596a72b95afec874a&o=&hp=1"
+featuredImage: "/images/accommodation/megan-apartament-482714183.jpg"
 language: en
 slug: megan-apartament
 address: "Rruga Dush Strati, Vlorë, Albania"

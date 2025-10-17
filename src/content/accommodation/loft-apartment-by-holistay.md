@@ -1,7 +1,7 @@
 ---
 title: "Loft Apartment by Holistay"
 description: "Loft Apartment by Holistay, a recently renovated gem in Tirana, offers guests a unique blend of comfort and convenience with its array of amenities and prime location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501792599.jpg?k=d1560b60c2326f50ca093e7da4ebf7945a594a48e8aa77217c37f277677439a2&o=&hp=1"
+featuredImage: "/images/accommodation/loft-apartment-by-holistay-501792599.jpg"
 language: en
 slug: loft-apartment-by-holistay
 address: "Rruga e Dibrës floor 4 ap 12, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kalaja Inn"
 description: "Kalaja Inn emerges as a refreshing retreat in the heart of Krujë, boasting a splendid terrace with breathtaking mountain views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468785014.jpg?k=5a46f98076a28068c32252a5bddc4899dd83a2969d55b5bf5df95676c05772a6&o=&hp=1"
+featuredImage: "/images/accommodation/kalaja-inn-468785014.jpg"
 language: en
 slug: kalaja-inn
 address: "Rruga Lek Zaharia, 1501 Krujë, Albania"

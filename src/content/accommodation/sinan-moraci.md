@@ -1,7 +1,7 @@
 ---
 title: "Sinan moraci"
 description: "Sinan Moraci stands out as a serene retreat, offering breathtaking mountain views and a plethora of amenities designed for the ultimate relaxation experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/99187824.webp?k=7595ef95d8eacd84560c9d1ebcb8cf4f05bdecfee6ecfa5437691a252df00f60&o=?t=1597355887"
+featuredImage: "/images/accommodation/sinan-moraci-99187824.web.jpg"
 language: en
 slug: sinan-moraci
 address: "9426 Rruga Pashaliman, 9426 Dukat, Albania"

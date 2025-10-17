@@ -1,7 +1,7 @@
 ---
 title: "Oxford hotel"
 description: "Discover the charm of Oxford Hotel, a boutique gem located in the vibrant heart of the Old Town."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279632557.jpg?k=c7e565c21765eaf7bec637a4945401a39b0a10b9316cfe7e79d15584087aa775&o=&hp=1"
+featuredImage: "/images/accommodation/oxford-hotel-279632557.jpg"
 language: en
 slug: oxford-hotel
 address: "St. Xhorxhi Martini 10 , 1001 Tirana, Albania"

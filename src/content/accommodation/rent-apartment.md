@@ -1,7 +1,7 @@
 ---
 title: "rent apartment"
 description: "Discover a serene retreat at Rent Apartment, perfectly positioned just a short stroll from the vibrant Saranda City Beach and within easy reach of the more secluded La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502906158.jpg?k=463bb751a7301197b9e4e7ca748d375c1acc6e68d3a42306aa5a487b3233905f&o=&hp=1"
+featuredImage: "/images/accommodation/rent-apartment-502906158.jpg"
 language: en
 slug: rent-apartment
 address: "Rruga Gjergj Araniti Hyrja 1 Apartamenti 19, Sarandë, Albania"

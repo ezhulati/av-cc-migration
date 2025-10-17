@@ -1,7 +1,7 @@
 ---
 title: "LUX4 Seaview & 43' TV Netflix"
 description: "LUX4 Seaview & 43' TV Netflix emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from Shëngjin Beach and within easy reach of Ylberi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457594766.jpg?k=97b6226976ccb6ac04da2a9bd5264756853f2579ff18fb7c0fb24216defede83&o=&hp=1"
+featuredImage: "/images/accommodation/lux4-seaview-43-tv-netflix-457594766.jpg"
 language: en
 slug: lux4-seaview-43-tv-netflix
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

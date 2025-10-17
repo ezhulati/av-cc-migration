@@ -1,7 +1,7 @@
 ---
 title: "KAJL Apartment"
 description: "KAJL Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477536548.jpg?k=6bb3b6a4243f0c711f805d7c8aa862745f1fcea7e76093316ad3a3e8c557719f&o=&hp=1"
+featuredImage: "/images/accommodation/kajl-apartment-477536548.jpg"
 language: en
 slug: kajl-apartment
 address: "Vlorë, 9401 Vlorë, Albania"

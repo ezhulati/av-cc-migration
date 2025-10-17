@@ -1,7 +1,7 @@
 ---
 title: "Room Click inn"
 description: "Room Click Inn stands out as a recently updated gem in Gjirokastër, situated a mere 44 km from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199255603.jpg?k=152278d2f52b261f3fda20c4ab9f74195e723bf12ea467ddc1e5f6b66facda31&o=&hp=1"
+featuredImage: "/images/accommodation/room-click-inn-199255603.jpg"
 language: en
 slug: room-click-inn
 address: "Rruga Gole Gushi Apartment nr-2, 6001 Gjirokastër, Albania"

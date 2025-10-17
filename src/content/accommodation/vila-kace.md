@@ -1,7 +1,7 @@
 ---
 title: "Vila Kace"
 description: "Vila Kace emerges as a recently renovated gem in Korçë, located a scenic 44 km journey from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486942722.jpg?k=45d58f1c9bcd9ce6f37d73a2fc5436cf0ea2a48c9480977417975557d2541f14&o=&hp=1"
+featuredImage: "/images/accommodation/vila-kace-486942722.jpg"
 language: en
 slug: vila-kace
 address: "Rruga Thoma Huaja, Korçë, Albania"

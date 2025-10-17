@@ -1,7 +1,7 @@
 ---
 title: "Apartments 02"
 description: "Apartments 02 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short distance from the pristine Vlore Beach and the serene Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/149959498.webp?k=53c2ef38c7bae13a3ffd4ece4a56193edb374a6bd3fd4f6ac96dadb937030c70&o=?t=1648567916"
+featuredImage: "/images/accommodation/apartments-02-149959498.we.jpg"
 language: en
 slug: apartments-02
 address: "Rruga Kosova, 9300 Vlorë, Albania"

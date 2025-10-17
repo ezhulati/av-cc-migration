@@ -1,7 +1,7 @@
 ---
 title: "Villa Kurti"
 description: "Villa Kurti emerges as a serene oasis in Durrës, boasting a lush garden setting that promises a tranquil retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477429477.jpg?k=6b7c95d36020b3c8f31a48fda4f928c3210ae48093c971ce343ae05cdd93a85e&o=&hp=1"
+featuredImage: "/images/accommodation/villa-kurti-477429477.jpg"
 language: en
 slug: villa-kurti
 address: "Rruga Jusuf Myzyri, Durrës, Albania"

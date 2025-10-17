@@ -1,7 +1,7 @@
 ---
 title: "Nazari Orikum holiday apartament with veranda over 7 nights"
 description: "Discover the charm of Orikum with a stay at the Nazari Orikum Holiday Apartment, a stone's throw away from the pristine shores of Nettuno and Orikum Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388595254.jpg?k=f4ae300206621009f0422c27cfa8eeccbc4efbb42097c24efacf055193437f4c&o=&hp=1"
+featuredImage: "/images/accommodation/nazari-orikum-holiday-apartament-with-veranda-over-7-nights-388595254.jpg"
 language: en
 slug: nazari-orikum-holiday-apartament-with-veranda-over-7-nights
 address: "Bulevardi Princesha Rugjine BUILDING IN FRONT OF BKT ORIKUM, 9426 Orikum, Albania"

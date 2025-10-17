@@ -1,7 +1,7 @@
 ---
 title: "Dhoma Romantike , qetësi absolute"
 description: "Dhoma Romantike, qetësi absolute emerges as a serene haven in Korçë, boasting both garden and city views that promise a tranquil retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512344995.jpg?k=042cef581122e181d364e24b4469651c43ee73ed4c3f2c760a83836f2367026e&o=&hp=1"
+featuredImage: "/images/accommodation/dhoma-romantike-qet-si-absolute-512344995.jpg"
 language: en
 slug: dhoma-romantike-qet-si-absolute
 address: "Rruga Sali Butka, 7001 Korçë, Albania"

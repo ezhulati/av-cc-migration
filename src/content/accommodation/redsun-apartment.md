@@ -1,7 +1,7 @@
 ---
 title: "Redsun Apartment"
 description: "Redsun Apartment stands as a beacon of comfort and convenience in Vlorë, offering breathtaking sea views and a mere stone's throw away from the serene Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256483967.jpg?k=5bb08bc3d38f85ab0d67de4cb4c54bbc5b3d2bed316d63b28e0269ea8cb24b88&o=&hp=1"
+featuredImage: "/images/accommodation/redsun-apartment-256483967.jpg"
 language: en
 slug: redsun-apartment
 address: "Dhimiter Konomi Street no. 63, 9401 Vlorë, Albania"

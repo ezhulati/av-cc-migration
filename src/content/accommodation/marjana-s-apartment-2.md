@@ -1,7 +1,7 @@
 ---
 title: "Marjana's Apartment 2"
 description: "Marjana's Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Lezhë, located just a short 800-meter stroll from the pristine Shëngjin Beach and a mere 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463794909.jpg?k=e53e0060f4c152711e669307935d235e33541b79955baaf6f62e932cc0b0bf28&o=&hp=1"
+featuredImage: "/images/accommodation/marjana-s-apartment-2-463794909.jpg"
 language: en
 slug: marjana-s-apartment-2
 address: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"

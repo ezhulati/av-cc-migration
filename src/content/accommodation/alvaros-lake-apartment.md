@@ -1,7 +1,7 @@
 ---
 title: "Alvaros lake apartment"
 description: "Alvaros Lake Apartment emerges as a serene retreat in the vibrant heart of Sauk, offering a unique blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481720593.jpg?k=75592f07494681a77b92a55817429a45f138312f86c9743182fbc2e1ed46687e&o=&hp=1"
+featuredImage: "/images/accommodation/alvaros-lake-apartment-481720593.jpg"
 language: en
 slug: alvaros-lake-apartment
 address: "Rruga Peti, Sauk, Albania"

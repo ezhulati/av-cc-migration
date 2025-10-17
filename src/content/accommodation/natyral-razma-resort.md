@@ -1,7 +1,7 @@
 ---
 title: "Natyral Razma Resort"
 description: "Discover the hidden gem of the Albanian Alps, the Natyral Razma Resort, a haven for nature lovers and adventure seekers alike."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263951777.jpg?k=23cf300724341efcf095a80b275676f7e76effdaa7c9d592b5fc3906bf0d4551&o=&hp=1"
+featuredImage: "/images/accommodation/natyral-razma-resort-263951777.jpg"
 language: en
 slug: natyral-razma-resort
 address: "Malesi e Madhe, 4000 Razëm, Albania"

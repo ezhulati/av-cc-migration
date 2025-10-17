@@ -1,7 +1,7 @@
 ---
 title: "Luxurious Suite near New Bazzar"
 description: "Luxurious Suite near New Bazzar emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499811461.jpg?k=107b73601be98daf3bf32d5818649d8217faad405bb9f4cbf7cb0c2ffda27654&o=&hp=1"
+featuredImage: "/images/accommodation/luxurious-suite-near-new-bazzar-499811461.jpg"
 language: en
 slug: luxurious-suite-near-new-bazzar
 address: "Rruga Tefta Tashko-Koço, Tirana, Albania"

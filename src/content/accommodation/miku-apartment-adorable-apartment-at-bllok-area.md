@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Adorable Apartment At Bllok Area"
 description: "Miku Apartment-Adorable Apartment At Bllok Area emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
+featuredImage: "/images/accommodation/miku-apartment-adorable-apartment-at-bllok-area-d2bf46fbe4c1.jpg"
 language: en
 slug: miku-apartment-adorable-apartment-at-bllok-area
 address: "Rruga Ymer Kurti rruga ymer kurti, 1001 Tirana, Albania"

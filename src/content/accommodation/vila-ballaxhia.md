@@ -1,7 +1,7 @@
 ---
 title: "Vila Ballaxhia"
 description: "Vila Ballaxhia emerges as a serene retreat in the heart of Ksamil, a mere stone's throw away from the pristine shores of Paradise Beach and Lori Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481030238.jpg?k=b55b2ce9353aa9c5271819f9e44a4c793946d4d2a01c8366015b64ddfae045d7&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ballaxhia-481030238.jpg"
 language: en
 slug: vila-ballaxhia
 address: "Rruga Hasan Tahsini, 9706 Ksamil, Albania"

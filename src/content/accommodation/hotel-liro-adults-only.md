@@ -1,7 +1,7 @@
 ---
 title: "Hotel Liro - Adults Only"
 description: "Hotel Liro, an adults-only oasis in Vlorë, stands out for its exclusive private beach area, complete with complimentary sun loungers and parasols, ensuring a serene and undisturbed seaside experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506995509.jpg?k=87b94b91b0ceca1b3373984337978725f59ec70781dd54335ae49c1f94d10cb0&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-liro-adults-only-506995509.jpg"
 language: en
 slug: hotel-liro-adults-only
 address: "Aleksandër Moisiu Street, 9405 Vlorë, Albania"

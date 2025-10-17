@@ -1,7 +1,7 @@
 ---
 title: "Apartament Raci"
 description: "Discover the charm of Shëngjin from the comfort of Apartament Raci, a prime beachfront property that stands a mere 100 meters from the pristine sands of Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488016461.jpg?k=9dc7b55267667c80f7213bddd21b273f1c94e598443331a6de8b4ce5d49fe7ad&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-raci-488016461.jpg"
 language: en
 slug: apartament-raci
 address: "Shëngjin - Kune, 4503 Shëngjin, Albania"

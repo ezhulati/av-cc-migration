@@ -1,7 +1,7 @@
 ---
 title: "Sunny Hill Flat 24H check-in & Free Parking"
 description: "Sunny Hill Flat emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411854441.jpg?k=b770aa9264b5d748bd1cf9c553fb949f81ea18a6000931622e6029f129b33c51&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-hill-flat-24h-check-in-free-parking-411854441.jpg"
 language: en
 slug: sunny-hill-flat-24h-check-in-free-parking
 address: "Rruga Bill Klinton Ap. 26, 1001 Tirana, Albania"

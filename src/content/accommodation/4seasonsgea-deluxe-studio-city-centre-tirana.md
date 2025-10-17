@@ -1,7 +1,7 @@
 ---
 title: "4SeasonsGea , Deluxe Studio , City Centre , Tirana"
 description: "Discover the charm of Tirana with a stay at the 4SeasonsGea Deluxe Studio, perfectly positioned in the city center."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456393823.jpg?k=9dc2146f4f2fcc7a8cc8be181cced1080bc2afdd0fede19b60e5e058a3f2db96&o=&hp=1"
+featuredImage: "/images/accommodation/4seasonsgea-deluxe-studio-city-centre-tirana-456393823.jpg"
 language: en
 slug: 4seasonsgea-deluxe-studio-city-centre-tirana
 address: "Rruga Shyqyri Bërxolli Ap 1, 1001 Tirana, Albania"

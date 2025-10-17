@@ -1,7 +1,7 @@
 ---
 title: "Vila Kapllani Rooms"
 description: "Vila Kapllani Rooms emerges as a serene oasis in Durrës, a mere stone's throw away from the vibrant Durres Beach and within a comfortable distance from the heart of Albanian history and culture, including Skanderbeg Square and the Former Residence of Enver Hoxha."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477310122.jpg?k=90b993082f1fe78b6bcb56e9b9fdc15c2bcac6b9f283f7b43b55281ea54bd07c&o=&hp=1"
+featuredImage: "/images/accommodation/vila-kapllani-rooms-477310122.jpg"
 language: en
 slug: vila-kapllani-rooms
 address: "Rruga Pavaresia, Durrës, Albania"

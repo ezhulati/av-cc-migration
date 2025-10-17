@@ -1,7 +1,7 @@
 ---
 title: "TeCialda"
 description: "TeCialda stands out as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522118961.jpg?k=46d55b6f6998d6a7acf124bd6cfe5020a815ee3e1843478fa58293d14018e5db&o=&hp=1"
+featuredImage: "/images/accommodation/tecialda-522118961.jpg"
 language: en
 slug: tecialda
 address: "Rruga Taulantia Floor 9, 2001 Durrës, Albania"

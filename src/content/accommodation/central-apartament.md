@@ -1,7 +1,7 @@
 ---
 title: "Central apartament"
 description: "Central Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389444850.jpg?k=7e3c1d983ee262014a79dfd20c376ce89e2fd2a472c0cd7e1e3dd1f558e279ef&o=&hp=1"
+featuredImage: "/images/accommodation/central-apartament-389444850.jpg"
 language: en
 slug: central-apartament
 address: "Himare, 9425 Himare, Albania"

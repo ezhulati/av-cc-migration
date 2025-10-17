@@ -1,7 +1,7 @@
 ---
 title: "Cozy apartment 16 - PazariRi D"
 description: "Cozy Apartment 16 - PazariRi D emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495413968.jpg?k=aae17a06746f1cd428608ccb3b7f407b7de6ff0dc086d50945085ef916af5300&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-apartment-16-pazariri-d-495413968.jpg"
 language: en
 slug: cozy-apartment-16-pazariri-d
 address: "Rruga Qemal Stafa, 1017 Tirana, Albania"

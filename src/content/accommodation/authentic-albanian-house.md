@@ -1,7 +1,7 @@
 ---
 title: "Authentic Albanian House"
 description: "Authentic Albanian House, positioned in the heart of Shkodër within the Shkoder County region, stands out for its serene garden setting."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466086000.jpg?k=d6d73a849884bc48e9ebcef61431935b1b10cb9111ac4e6dd691972c85f01afe&o=&hp=1"
+featuredImage: "/images/accommodation/authentic-albanian-house-466086000.jpg"
 language: en
 slug: authentic-albanian-house
 address: "Rruga Pashko Vasa, 4001 Shkodër, Albania"

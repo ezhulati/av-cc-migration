@@ -1,7 +1,7 @@
 ---
 title: "Vila A&M"
 description: "Vila A&M emerges as a serene retreat in the heart of Gjirokastër, offering guests a stay marked by comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/vila-a-m-2c7be68fb3f9.jpg"
 language: en
 slug: vila-a-m
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The Mussel House"
 description: "The Mussel House emerges as a serene retreat in Ksamil, offering guests a unique blend of comfort and convenience with its prime location."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/the-mussel-house-12a07b30d7fe.jpg"
 language: en
 slug: the-mussel-house
 address: "Rruga Sarande-Butrint, km 10 Qafa e Hartes, kthesa majtas, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "AE Vlora Apartment"
 description: "AE Vlora Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474685494.jpg?k=bf531f8692a335116993d293514a44ed5bbce40c6992c427d3635d14145462b9&o=&hp=1"
+featuredImage: "/images/accommodation/ae-vlora-apartment-474685494.jpg"
 language: en
 slug: ae-vlora-apartment
 address: "Rruga Pelivan Leskaj, 9401 Vlorë, Albania"

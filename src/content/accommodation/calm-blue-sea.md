@@ -1,7 +1,7 @@
 ---
 title: "CALM Blue Sea"
 description: "CALM Blue Sea emerges as a premier choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480669551.jpg?k=10b65ff578943e9d465a37d14723690614b26f15761a58880e3c1d2712e39940&o=&hp=1"
+featuredImage: "/images/accommodation/calm-blue-sea-480669551.jpg"
 language: en
 slug: calm-blue-sea
 address: "Rruga Pavaresia, 2002 Durrës, Albania"

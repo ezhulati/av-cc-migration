@@ -1,7 +1,7 @@
 ---
 title: "Mejdi Apartments"
 description: "Mejdi Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë, Vlorë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202805765.jpg?k=381ec6142dbb6757e1440cdd8fd4803161c18361051e8bd0a00e4c4f84f15349&o=&hp=1"
+featuredImage: "/images/accommodation/mejdi-apartments-202805765.jpg"
 language: en
 slug: mejdi-apartments
 address: "Rruga Bilal Golemi,39.868165, 20.015797, 9700 Sarandë, Albania"

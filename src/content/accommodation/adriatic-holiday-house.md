@@ -1,7 +1,7 @@
 ---
 title: "Adriatic Holiday House"
 description: "Adriatic Holiday House stands as a prime choice for travelers seeking a serene getaway, merely a stone's throw away from the pristine shores of Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370879767.jpg?k=b990036c1d682605b2ab8e6efb5b3c9cd66e43b4018252fc516c35c9f07de883&o=&hp=1"
+featuredImage: "/images/accommodation/adriatic-holiday-house-370879767.jpg"
 language: en
 slug: adriatic-holiday-house
 address: "Bulevardi Pishat e Buta, 2504 Golem, Albania"

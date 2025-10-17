@@ -1,7 +1,7 @@
 ---
 title: "Villa Athina in Berat Castle - Since 1741"
 description: "Villa Athina in Berat Castle, a historic gem dating back to 1741, offers a unique stay in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378908918.jpg?k=ac68b28b1b3441cc94d77ab95640f20d905d5944c6ade36c3e7e06ab7e10b269&o=&hp=1"
+featuredImage: "/images/accommodation/villa-athina-in-berat-castle-since-1741-378908918.jpg"
 language: en
 slug: villa-athina-in-berat-castle-since-1741
 address: "Mbrica, 5001 Berat, Albania"

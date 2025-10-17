@@ -1,7 +1,7 @@
 ---
 title: "Hotel Dardha"
 description: "Hotel Dardha emerges as a serene retreat in the picturesque village of Dardhë, a mere 17 km from the vibrant town of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/36206215.jpg?k=09f9ee1ef0a2a5b3c7dd08359e5f181755724dc4a5ae9138e791a33e19772719&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-dardha-36206215.jpg"
 language: en
 slug: hotel-dardha
 address: "Dardhe, 7002 Dardhë, Albania"

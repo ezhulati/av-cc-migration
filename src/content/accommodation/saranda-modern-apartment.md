@@ -1,7 +1,7 @@
 ---
 title: "Saranda Modern Apartment"
 description: "Saranda Modern Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520499311.jpg?k=caa312e632b130334d479a7e3e443a767b074cd31671cbf7fea86e2f091bac58&o=&hp=1"
+featuredImage: "/images/accommodation/saranda-modern-apartment-520499311.jpg"
 language: en
 slug: saranda-modern-apartment
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

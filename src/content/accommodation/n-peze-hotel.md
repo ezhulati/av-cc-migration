@@ -1,7 +1,7 @@
 ---
 title: "N'Peze Hotel"
 description: "N'Peze Hotel, situated a mere 20 km from the vibrant heart of Tirana's Skanderbeg Square, stands out as a serene oasis offering guests a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348908933.jpg?k=6820d68ef76f0f51a8fd128c0ec6378e2a5a000457ed426aedd3bd2460691cbe&o=&hp=1"
+featuredImage: "/images/accommodation/n-peze-hotel-348908933.jpg"
 language: en
 slug: n-peze-hotel
 address: "Peze e Madhe, 1001 Tirana, Albania"

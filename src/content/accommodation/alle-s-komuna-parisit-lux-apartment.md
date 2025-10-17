@@ -1,7 +1,7 @@
 ---
 title: "Alle's Komuna Parisit lux apartment"
 description: "Alle's Komuna Parisit Lux Apartment emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519332788.jpg?k=add744b72a37ad3d481b69eb3b06b5aa435a7e4560c89d7fb55f68a924ff962a&o=&hp=1"
+featuredImage: "/images/accommodation/alle-s-komuna-parisit-lux-apartment-519332788.jpg"
 language: en
 slug: alle-s-komuna-parisit-lux-apartment
 address: "Rruga Bilal Golemi, 1001 Tirana, Albania"

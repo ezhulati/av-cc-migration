@@ -1,7 +1,7 @@
 ---
 title: "Valamar Apartament"
 description: "Valamar Apartament stands as a serene retreat in Durrës, just a stone's throw away from the pristine shores of Lalëz Bay Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390818794.jpg?k=1426e068893949880e975ad6920bebadf7d1bff387ba35cae9be3a19f6ea9734&o=&hp=1"
+featuredImage: "/images/accommodation/valamar-apartament-390818794.jpg"
 language: en
 slug: valamar-apartament
 address: "Rruga e bregdetit, 2015 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Have the best holidays in our apartment"
 description: "Discover unparalleled comfort at \"Have the Best Holidays in Our Apartment,\" a prime choice for travelers seeking a blend of convenience and luxury in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486804811.jpg?k=bd7b88fc1812b3b27a3f3296b7c3ec513b9c26e00a70b1af82d52b6a087ec161&o=&hp=1"
+featuredImage: "/images/accommodation/have-the-best-holidays-in-our-apartment-486804811.jpg"
 language: en
 slug: have-the-best-holidays-in-our-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

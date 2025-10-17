@@ -1,7 +1,7 @@
 ---
 title: "City Center 12 - Tirana Way Apartments"
 description: "City Center 12 - Tirana Way Apartments emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life, merely a stone's throw away from Skanderbeg Square and within easy reach of the Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438222990.jpg?k=c968f020e78804345a10acd3819f1682efe29067fdbb308a7cc1d24036f192b9&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-12-tirana-way-apartments-438222990.jpg"
 language: en
 slug: city-center-12-tirana-way-apartments
 address: "Rruga Bardhok Biba, 1057 Tirana, Albania"

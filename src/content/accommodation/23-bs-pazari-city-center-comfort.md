@@ -1,7 +1,7 @@
 ---
 title: "23° Bs Pazari City Center Comfort"
 description: "23° Bs Pazari City Center Comfort emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434382456.jpg?k=25367e84e3e9d0830f317455f563c0b9244cdba569616a6b15e451e725ef36f2&o=&hp=1"
+featuredImage: "/images/accommodation/23-bs-pazari-city-center-comfort-434382456.jpg"
 language: en
 slug: 23-bs-pazari-city-center-comfort
 address: "Rruga Xhorxhi Martini, 1001 Tirana, Albania"

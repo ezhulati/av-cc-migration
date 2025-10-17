@@ -1,7 +1,7 @@
 ---
 title: "Beautiful apartment in the heart of the city!"
 description: "Discover the charm of Korçë with a stay at \"Beautiful apartment in the heart of the city!"
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479906813.jpg?k=543387622f661479c4ebd19f3ae87fe986b07fa68253b5089bdfb351af795f04&o=&hp=1"
+featuredImage: "/images/accommodation/beautiful-apartment-in-the-heart-of-the-city-479906813.jpg"
 language: en
 slug: beautiful-apartment-in-the-heart-of-the-city
 address: "Rruga 28 Nëntori 37, 7003 Korçë, Albania"

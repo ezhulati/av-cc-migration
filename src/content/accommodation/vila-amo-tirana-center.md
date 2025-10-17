@@ -1,7 +1,7 @@
 ---
 title: "Vila-Amo Tirana Center"
 description: "Vila-Amo Tirana Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416675126.jpg?k=426fdce74b9413c9549ad7b17cef5fd51930c2b0875fb3226d7383bb3371ca18&o=&hp=1"
+featuredImage: "/images/accommodation/vila-amo-tirana-center-416675126.jpg"
 language: en
 slug: vila-amo-tirana-center
 address: "Rruga Zyri Bajrami, Bulevardi Zogu i I, 1001 Tirana, Albania"

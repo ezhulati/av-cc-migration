@@ -1,7 +1,7 @@
 ---
 title: "Villa Malaj"
 description: "Villa Malaj emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated merely 700 meters from the serene Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357217988.jpg?k=9bfcb1c8d9db5543d5c632fde591aad59229cac80e0cf2716f3e299d5a0b3816&o=&hp=1"
+featuredImage: "/images/accommodation/villa-malaj-357217988.jpg"
 language: en
 slug: villa-malaj
 address: "Rruga Andrea Varfi, 9404 Vlorë, Albania"

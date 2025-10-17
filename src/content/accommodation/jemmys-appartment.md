@@ -1,7 +1,7 @@
 ---
 title: "Jemmys appartment"
 description: "Jemmys Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated merely 700 meters from the pristine Vlore Beach and a short distance from Ri Beach and Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498263496.jpg?k=91f39dc76821d9be2c798198de8f7b7bf40a78553bb98b32f219e7f8b01e417a&o=&hp=1"
+featuredImage: "/images/accommodation/jemmys-appartment-498263496.jpg"
 language: en
 slug: jemmys-appartment
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

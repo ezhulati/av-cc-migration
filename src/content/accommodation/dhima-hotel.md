@@ -1,7 +1,7 @@
 ---
 title: "Dhima Hotel"
 description: "Dhima Hotel emerges as a prime choice for travelers seeking a serene beachside retreat, positioned just a stone's throw away from the private, pebbly expanse of Guma Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137411252.jpg?k=d785f814ad23ebac26d2ce303772dc96ba365754643f32bc238324c1cbf5c4b6&o=&hp=1"
+featuredImage: "/images/accommodation/dhima-hotel-137411252.jpg"
 language: en
 slug: dhima-hotel
 address: "Potami, 9425 Himare, Albania"

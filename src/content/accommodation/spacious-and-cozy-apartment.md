@@ -1,7 +1,7 @@
 ---
 title: "Spacious and Cozy Apartment"
 description: "Spacious and Cozy Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500980870.jpg?k=95a077234375431b110fd04644aacb90f4ebedc980411a93dd2cb424142507f1&o=&hp=1"
+featuredImage: "/images/accommodation/spacious-and-cozy-apartment-500980870.jpg"
 language: en
 slug: spacious-and-cozy-apartment
 address: "Rruga Arkitekt Sinani, Tirana, Albania"

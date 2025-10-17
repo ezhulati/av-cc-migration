@@ -1,7 +1,7 @@
 ---
 title: "Mountain Villa in Zall Dardhe"
 description: "Mountain Villa in Zall Dardhe emerges as a serene retreat in Peshkopi, offering a unique stay just 47 km away from the historic Monastery of Saint George the Victorious."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502329377.jpg?k=6dccccb5a00628ae1195a6f359383c645dfc2afe7f9dbd1b7150fa60f9b13bf0&o=&hp=1"
+featuredImage: "/images/accommodation/mountain-villa-in-zall-dardhe-502329377.jpg"
 language: en
 slug: mountain-villa-in-zall-dardhe
 address: "Bulevardi Elez Isufi, Peshkopi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "ELMA Guest House"
 description: "Discover the charm of ELMA Guest House, a serene haven located in the picturesque town of Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338445514.jpg?k=d015dcb39aecd61750f43d6a8d29a48be04409325a677e449ca2621c1a5ff855&o=&hp=1"
+featuredImage: "/images/accommodation/elma-guest-house-338445514.jpg"
 language: en
 slug: elma-guest-house
 address: "Blv Kongres of Permeti, 6401 Përmet, Albania"

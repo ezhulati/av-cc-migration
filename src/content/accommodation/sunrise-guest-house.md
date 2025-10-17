@@ -1,7 +1,7 @@
 ---
 title: "Sunrise GUEST HOUSE"
 description: "Sunrise GUEST HOUSE emerges as a serene retreat located just 49 km from the bustling Port of Bar in Shkodër, offering guests a blend of comfort and convenience with its well-appointed accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470796293.jpg?k=c8c56f7865a23fad2552f514a43e821904fe8b86481f63be18587f928953f008&o=&hp=1"
+featuredImage: "/images/accommodation/sunrise-guest-house-470796293.jpg"
 language: en
 slug: sunrise-guest-house
 address: "Revuliconi anti Komunist Shkoder, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Seaview Terrace Penthouse Top Loft & Box Garage"
 description: "Seaview Terrace Penthouse Top Loft & Box Garage stands out as a premier choice for travelers seeking exceptional accommodation in Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/seaview-terrace-penthouse-top-loft-box-garage-c84a361d6701.jpg"
 language: en
 slug: seaview-terrace-penthouse-top-loft-box-garage
 address: "Rruga Francesko Krispi 0682065745, 9405 Vlorë, Albania"

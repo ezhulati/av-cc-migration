@@ -1,7 +1,7 @@
 ---
 title: "Holiday Family Apartment"
 description: "Holiday Family Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a stone's throw away from the serene Mali I Robit Beach and within easy reach of Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176791559.jpg?k=b6e775cba0422dcd1935c952ceddbb0ef253a16a0897bedca78e6c00ce328cfa&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-family-apartment-176791559.jpg"
 language: en
 slug: holiday-family-apartment
 address: "Rruga Ismail Qemali, Golem, Durres 4th floor, no. 31, 2000 Golem, Albania"

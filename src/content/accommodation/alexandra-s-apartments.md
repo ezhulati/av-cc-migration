@@ -1,7 +1,7 @@
 ---
 title: "Alexandra´s Apartments"
 description: "Alexandra's Apartments emerges as a serene retreat in the vibrant heart of Sarandë, merely moments away from the pristine La Petite Beach and the bustling Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195004514.jpg?k=d5e006f383106017161e1fa61644a7c4c1cbf9b3de3a6687f6465f6ef4f85035&o=&hp=1"
+featuredImage: "/images/accommodation/alexandra-s-apartments-195004514.jpg"
 language: en
 slug: alexandra-s-apartments
 address: "Rruga Gjergi Arianiti, Lagja 2, Pallati 136 Apartment Nr. 6, 9701 Sarandë, Albania"

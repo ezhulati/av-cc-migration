@@ -1,7 +1,7 @@
 ---
 title: "Meco Apartment"
 description: "Meco Apartment emerges as a freshly updated gem in Vlorë, boasting an enviable position right on the cusp of Ri Beach, Beach at Government Villas, and Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426881426.jpg?k=f34b5f965cacdc2a0a1784fba534091b6c11f03f181f65fb15f7b169c5db32f2&o=&hp=1"
+featuredImage: "/images/accommodation/meco-apartment-426881426.jpg"
 language: en
 slug: meco-apartment
 address: "Rruga Dhimitër Konomi 6 VLORE, 9405 Vlorë, Albania"

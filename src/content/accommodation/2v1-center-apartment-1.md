@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Center apartment 1"
 description: "2V1 - Center Apartment 1 emerges as a prime choice for travelers seeking the ultimate convenience and comfort in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504657267.jpg?k=d8721946baf2747301ed6c2f3778155afcb46fe7d8ae9933767f624561ba619d&o=&hp=1"
+featuredImage: "/images/accommodation/2v1-center-apartment-1-504657267.jpg"
 language: en
 slug: 2v1-center-apartment-1
 address: "Rruga Ded Gjo Luli, 1001 Tirana, Albania"

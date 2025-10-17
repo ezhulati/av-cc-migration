@@ -1,7 +1,7 @@
 ---
 title: "Dhori House Dhermi"
 description: "Dhori House Dhermi stands as a serene retreat for travelers seeking both tranquility and convenience in the heart of Dhërmi, perfectly positioned between the pristine shores of Dhermi Beach and the secluded Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203806318.jpg?k=d725b5e0a81fcc81f7f3a3e44238c0221f53126d21893e8c2bc780a73cbae264&o=&hp=1"
+featuredImage: "/images/accommodation/dhori-house-dhermi-203806318.jpg"
 language: en
 slug: dhori-house-dhermi
 address: "Rruga Perivolo 26, 9422 Dhërmi, Albania"

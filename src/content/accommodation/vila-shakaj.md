@@ -1,7 +1,7 @@
 ---
 title: "Vila SHAKAJ"
 description: "Vila SHAKAJ emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated just a short stroll from the pristine Saranda Bay Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474742075.jpg?k=aea58fa4ecb7b1c7cb7b5df5e3d06d7813d6f60ef18d5da235fb1a6606e6f3aa&o=&hp=1"
+featuredImage: "/images/accommodation/vila-shakaj-474742075.jpg"
 language: en
 slug: vila-shakaj
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Adore - Modern Apartment"
 description: "Adore - Modern Apartment emerges as a freshly updated gem in the heart of Tirana, boasting proximity to iconic landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and Rinia Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434217476.jpg?k=e39fd720635c3bdc8af92b7044bbce8124c0f696c191623ac9439c113df4ea3a&o=&hp=1"
+featuredImage: "/images/accommodation/adore-modern-apartment-434217476.jpg"
 language: en
 slug: adore-modern-apartment
 address: "Rruga Muhamet Gjollesha, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "JOHN Apartments"
 description: "JOHN Apartments in Ksamil stands out as a prime choice for travelers seeking both comfort and convenience, located just a short 400-meter stroll from the pristine Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129694553.jpg?k=74ecccc6f4dbc87bd195d5180f2d8a7ee825d585a0817fabf3bbe678795d8e3e&o=&hp=1"
+featuredImage: "/images/accommodation/john-apartments-129694553.jpg"
 language: en
 slug: john-apartments
 address: "SH81, 9706 Ksamil, Albania"

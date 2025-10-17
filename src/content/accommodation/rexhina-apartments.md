@@ -1,7 +1,7 @@
 ---
 title: "Rexhina Apartments"
 description: "Rexhina Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the pristine Durres Beach and within easy reach of the city's most notable attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472137992.jpg?k=625bbeb0690a1bbf5c19b4aa1793df56e6f561957ab28ef4590a1e462969fbb8&o=&hp=1"
+featuredImage: "/images/accommodation/rexhina-apartments-472137992.jpg"
 language: en
 slug: rexhina-apartments
 address: "Rruga Leoni dhe Koja, 2000 Durrës, Albania"

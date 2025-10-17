@@ -1,7 +1,7 @@
 ---
 title: "Urban Rooms"
 description: "Urban Rooms emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111175943.jpg?k=beefcbba8da3c27e516265d8f9248ed4be8cf2e45b44234d24f3646c34fa05a4&o=&hp=1"
+featuredImage: "/images/accommodation/urban-rooms-111175943.jpg"
 language: en
 slug: urban-rooms
 address: "Rruga Urani Pano 2 (intersezione Rruga Bardhok Biba e Rruga Urani Pano), 1000 Tirana, Albania"

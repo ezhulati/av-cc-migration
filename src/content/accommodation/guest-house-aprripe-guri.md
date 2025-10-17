@@ -1,7 +1,7 @@
 ---
 title: "Guest House Aprripe Guri"
 description: "Guest House Aprripe Guri stands out as a charming retreat in Fierzë, offering a unique blend of comfort and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388806198.jpg?k=b16f4ffc254673a9f871751ec7b4588bb2fa7756719aa8981d6fbf65bf832c05&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-aprripe-guri-388806198.jpg"
 language: en
 slug: guest-house-aprripe-guri
 address: "Aprripe Guri, 3023 Fierzë, Albania"

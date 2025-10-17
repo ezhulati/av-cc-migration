@@ -1,7 +1,7 @@
 ---
 title: "Villa Anastasia Ksamil"
 description: "Villa Anastasia Ksamil emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned just a short stroll from the pristine sands of Ksamil Beach 9 and within easy reach of the vibrant Bora Bora Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200828222.jpg?k=04d17f4cdc15a560a74b5b8fec49f84e99b607e31275d5186407eb25fb3b068a&o=&hp=1"
+featuredImage: "/images/accommodation/villa-anastasia-ksamil-200828222.jpg"
 language: en
 slug: villa-anastasia-ksamil
 address: "Road Butrint & Sotira Ksamil Number Building 301, 9706 Ksamil, Albania"

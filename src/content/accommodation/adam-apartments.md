@@ -1,7 +1,7 @@
 ---
 title: "ADAM APARTMENTS"
 description: "ADAM APARTMENTS in Sarandë emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357079198.jpg?k=497301c932633509420fa31c442fe283e700e25cefe2387d00ae48bf7ffef629&o=&hp=1"
+featuredImage: "/images/accommodation/adam-apartments-357079198.jpg"
 language: en
 slug: adam-apartments
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

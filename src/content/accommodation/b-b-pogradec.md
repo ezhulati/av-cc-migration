@@ -1,7 +1,7 @@
 ---
 title: "B & B Pogradec"
 description: "B & B Pogradec emerges as a serene beachfront haven, strategically positioned to offer both tranquility and easy access to some of the region's most captivating landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374881446.jpg?k=99ab1829e47dd6704658f1a93aaa07ec47657054e5755d5178922608975d10f9&o=&hp=1"
+featuredImage: "/images/accommodation/b-b-pogradec-374881446.jpg"
 language: en
 slug: b-b-pogradec
 address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Haris Hotel"
 description: "Haris Hotel, located a mere stone's throw away from the pristine shores of Vlore Beach in Vlorë, stands out as a beacon of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410532056.jpg?k=e4e225a8b108a08ff2af720fa7e4274e8063f2ce27a5c68a66a467dc256dcc49&o=&hp=1"
+featuredImage: "/images/accommodation/haris-hotel-410532056.jpg"
 language: en
 slug: haris-hotel
 address: "Rruga.Murat Terbaci, 9400 Vlorë, Albania"

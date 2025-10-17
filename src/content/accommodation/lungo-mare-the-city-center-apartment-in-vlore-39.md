@@ -1,7 +1,7 @@
 ---
 title: "Lungo Mare the city center apartment in Vlore 39"
 description: "Lungo Mare City Center Apartment in Vlore #39 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520860619.jpg?k=1cc76f0a7d9d729e6c183cd14843f2a51e6c7371548d87ccb6523c12b9058bc3&o=&hp=1"
+featuredImage: "/images/accommodation/lungo-mare-the-city-center-apartment-in-vlore-39-520860619.jpg"
 language: en
 slug: lungo-mare-the-city-center-apartment-in-vlore-39
 address: "Rr. Cameria Nd 5 H5, 9405 Vlorë, Albania"

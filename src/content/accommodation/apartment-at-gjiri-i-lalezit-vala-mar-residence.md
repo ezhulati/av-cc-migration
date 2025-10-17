@@ -1,7 +1,7 @@
 ---
 title: "Apartment at Gjiri i Lalezit, Vala Mar Residence"
 description: "Discover the serene beauty of Hamallaj at the Apartment at Gjiri i Lalezit, Vala Mar Residence, a gem located just 42 km from the historic Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471760246.jpg?k=cdab7674a0d078f71bdf91835e010485d4b2b76d794bfe180060f1acf1761c6b&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-at-gjiri-i-lalezit-vala-mar-residence-471760246.jpg"
 language: en
 slug: apartment-at-gjiri-i-lalezit-vala-mar-residence
 address: "Albania, 1501 Hamallaj, Albania"

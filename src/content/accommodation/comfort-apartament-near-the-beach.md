@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartament, Near the beach"
 description: "Comfort Apartament, Near the Beach, emerges as a prime choice for travelers seeking a blend of convenience and comfort in Durrës, Durres County."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/comfort-apartament-near-the-beach-2c7be68fb3f9.jpg"
 language: en
 slug: comfort-apartament-near-the-beach
 address: "Rruga Pavaresia, 2000 Durrës, Albania"

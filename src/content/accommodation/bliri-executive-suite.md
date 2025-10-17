@@ -1,7 +1,7 @@
 ---
 title: "Bliri Executive Suite"
 description: "Bliri Executive Suite emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477092955.jpg?k=c37851635c19e4d803d9153032efa774f33fc73e6259ff729b1d62557e600a61&o=&hp=1"
+featuredImage: "/images/accommodation/bliri-executive-suite-477092955.jpg"
 language: en
 slug: bliri-executive-suite
 address: "57 Rruga Ibrahim Rugova, 1001 Tirana, Albania"

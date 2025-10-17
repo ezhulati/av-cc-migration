@@ -1,7 +1,7 @@
 ---
 title: "Coastal Cozy"
 description: "Coastal Cozy emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the serene Santa Quaranta Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368345850.jpg?k=16ba380f92c97d30fdf5eecc592171ef4e341be7946d33d778d2f8aa29c1ba63&o=&hp=1"
+featuredImage: "/images/accommodation/coastal-cozy-368345850.jpg"
 language: en
 slug: coastal-cozy
 address: "Street Butrinti, 9701 Sarandë, Albania"

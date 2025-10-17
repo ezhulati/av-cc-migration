@@ -1,7 +1,7 @@
 ---
 title: "Hotel Leon Sarande"
 description: "Hotel Leon Sarande emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440108762.jpg?k=baeea86d43c6dbc69cf6cc5c9f4917567f60dc3e442250263f117c3bd778cc0a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-leon-sarande-440108762.jpg"
 language: en
 slug: hotel-leon-sarande
 address: "Rruga Vangjel Pandi Vangjel Pandi Street 82,Sarande, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Chestnut Yard Villa"
 description: "Chestnut Yard Villa emerges as a beacon of modern comfort and convenience, situated just a short distance from the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352731337.jpg?k=b0ac337605122a0600ae22edcf6eecfc5b1bf5205d611ab2579c06f62d019e23&o=&hp=1"
+featuredImage: "/images/accommodation/chestnut-yard-villa-352731337.jpg"
 language: en
 slug: chestnut-yard-villa
 address: "10 Rruga Injac Zamputi, 1001 Tirana, Albania"

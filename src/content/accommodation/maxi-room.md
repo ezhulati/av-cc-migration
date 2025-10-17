@@ -1,7 +1,7 @@
 ---
 title: "Maxi Room"
 description: "Maxi Room emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Vlorë, merely a stone's throw away from the pristine Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435532848.jpg?k=05940d9532b925aff3baaa1180d4bc3ccdfdb5f4690c52e33ce22a3b817adfed&o=&hp=1"
+featuredImage: "/images/accommodation/maxi-room-435532848.jpg"
 language: en
 slug: maxi-room
 address: "Rruga Murat Terbaci Mini hotel & Maxi room, 9400 Vlorë, Albania"

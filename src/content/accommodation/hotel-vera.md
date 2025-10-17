@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vera"
 description: "Hotel Vera stands as a beacon of comfort and convenience in Durrës, just a stone's throw away from the serene Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452317459.jpg?k=966681bca296a7cb26389d09c61fa44ca1645b20aaa30ccfb17e71ea2c52ddac&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vera-452317459.jpg"
 language: en
 slug: hotel-vera
 address: "Shkembi Kavajes Lagjia13, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Abla apartament"
 description: "Abla Apartment emerges as a charming choice for travelers seeking comfort and convenience in Orikum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379192032.jpg?k=f10a913f7b8120c0bc353b96172b1bbeae45d19288a4c8c8c5aa43d507384bc8&o=&hp=1"
+featuredImage: "/images/accommodation/abla-apartament-379192032.jpg"
 language: en
 slug: abla-apartament
 address: "Rruga Arvanitet, 9426 Orikum, Albania"

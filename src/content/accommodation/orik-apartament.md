@@ -1,7 +1,7 @@
 ---
 title: "Orik Apartament"
 description: "Orik Apartment stands out as a prime choice for travelers seeking a serene beachfront escape, complete with the luxury of a private beach area."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461826476.jpg?k=bdd5145490a01c7f5c5fa87038e1f79ba01422001beabff51a1ac4f22bcfcff5&o=&hp=1"
+featuredImage: "/images/accommodation/orik-apartament-461826476.jpg"
 language: en
 slug: orik-apartament
 address: "Rezidenca orik viroi 3, 9526 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Niko's Apartment"
 description: "Niko's Apartment emerges as a prime choice for travelers seeking spacious and comfortable accommodation in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490705430.jpg?k=7044e6e67c4bf2497b86251993148b3cbbff7ed37fec884e1e2c95de80626cdd&o=&hp=1"
+featuredImage: "/images/accommodation/niko-s-apartment-490705430.jpg"
 language: en
 slug: niko-s-apartment
 address: "Rruga Ali Demi, Tirana, Albania"

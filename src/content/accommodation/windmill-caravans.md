@@ -1,7 +1,7 @@
 ---
 title: "Windmill Caravans"
 description: "Windmill Caravans, situated in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, offers a unique retreat for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497330538.jpg?k=d798dc56ea05937cf4bdabcb316d41222cf1ecc58202a18efc1a10738ec59d1c&o=&hp=1"
+featuredImage: "/images/accommodation/windmill-caravans-497330538.jpg"
 language: en
 slug: windmill-caravans
 address: "Rruga Livadheve rruga livadheve , shkoder ,shkodra, 4000 Shkodër, Albania"

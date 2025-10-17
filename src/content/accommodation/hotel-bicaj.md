@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bicaj"
 description: "Hotel Bicaj stands out as a prime choice for travelers seeking comfort and convenience in Shkodër, located just 49 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160685828.jpg?k=a00166fe4ad48304e6a1b90948e3facd857e918a362a0057a6c6313fde0aa181&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-bicaj-160685828.jpg"
 language: en
 slug: hotel-bicaj
 address: "Rruga Besnik Ceka, 4001 Shkodër, Albania"

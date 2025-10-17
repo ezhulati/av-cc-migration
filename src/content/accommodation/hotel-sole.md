@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sole"
 description: "Hotel Sole emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës, situated a mere 25 km from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479492084.jpg?k=384d3b6221868ed744fc6a99ef669a5ccbdd972a4ed884d76f8d59764e4f66bd&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-sole-479492084.jpg"
 language: en
 slug: hotel-sole
 address: "Rr.Nacionale Durrës-Ndroq, Tiranë (10 km larg Durrësit), Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nikki Apartments"
 description: "Nikki Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194388160.jpg?k=3108df2d4f7e14fc36e5c66bf8d596dbd320e2190b6f448069ab245f0f6fca0e&o=&hp=1"
+featuredImage: "/images/accommodation/nikki-apartments-194388160.jpg"
 language: en
 slug: nikki-apartments
 address: "Rruga Thoma Avrami, 1000 Tirana, Albania"

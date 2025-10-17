@@ -1,7 +1,7 @@
 ---
 title: "Aurelis Hotel"
 description: "Aurelis Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226558741.jpg?k=c295b7b15ace7744f128ecdefcc9b984ff3eff9f0395e94384bbfea2888ef858&o=&hp=1"
+featuredImage: "/images/accommodation/aurelis-hotel-226558741.jpg"
 language: en
 slug: aurelis-hotel
 address: "Highway Tirane - Durres, Km 9 Qafe Kashar, 1001 Bërxull, Albania"

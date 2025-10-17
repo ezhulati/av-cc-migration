@@ -1,7 +1,7 @@
 ---
 title: "Hotel NEBO"
 description: "Hotel NEBO emerges as a charming retreat just a stone's throw away from the pristine shores of Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304642161.jpg?k=a097d42ec2bd46165edfb6f9ebb3cdf69fc86ee2f13029661023a4fd741a28ea&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-nebo-304642161.jpg"
 language: en
 slug: hotel-nebo
 address: "Rruga Dea Nebo Hotel, 9706 Ksamil, Albania"

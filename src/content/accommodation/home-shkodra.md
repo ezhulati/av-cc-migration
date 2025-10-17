@@ -1,7 +1,7 @@
 ---
 title: "Home Shkodra"
 description: "Home Shkodra emerges as a serene retreat in the vibrant city of Shkodër, offering guests a slice of tranquility with its air-conditioned accommodation that boasts a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497404754.jpg?k=1fe6a36bbd91933d0287d178f822762f4f4bb8f6fd7735981048f704ff1429be&o=&hp=1"
+featuredImage: "/images/accommodation/home-shkodra-497404754.jpg"
 language: en
 slug: home-shkodra
 address: "Rruga Dasho Shkreli, 4001 Shkodër, Albania"

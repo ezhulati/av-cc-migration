@@ -1,7 +1,7 @@
 ---
 title: "Arial Studios"
 description: "Arial Studios emerges as a distinguished choice for adult travelers seeking a serene getaway in Vlorë, offering a unique blend of comfort and convenience with its garden, bar, and barbecue facilities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448533433.jpg?k=c7eb76f862914c58b66e990f94c99b3edc2647d029b68290b5700a2e087891b0&o=&hp=1"
+featuredImage: "/images/accommodation/arial-studios-448533433.jpg"
 language: en
 slug: arial-studios
 address: "Rruga Aleks Çaçi Building Nr 4, 9401 Vlorë, Albania"

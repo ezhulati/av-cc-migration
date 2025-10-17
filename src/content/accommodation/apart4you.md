@@ -1,7 +1,7 @@
 ---
 title: "Apart4You"
 description: "Discover the charm of Sarandë with a stay at Apart4You, a prime choice for travelers seeking comfort and convenience mere steps away from the pristine Maestral Beach and a short stroll from the inviting La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523689976.jpg?k=970a84ecbf89126ae73cb3a83d091d448b72675a18dd6468c4eacadbf249cdbe&o=&hp=1"
+featuredImage: "/images/accommodation/apart4you-523689976.jpg"
 language: en
 slug: apart4you
 address: "Rruga Butrinti, Sarandë, Albania"

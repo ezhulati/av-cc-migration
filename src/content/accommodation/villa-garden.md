@@ -1,7 +1,7 @@
 ---
 title: "Villa Garden"
 description: "Villa Garden emerges as a serene oasis in Berat, offering guests a tranquil retreat with its air-conditioned rooms and lush garden surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363282521.jpg?k=bac7e991967ee8eaea97b15588fd537073b8e432433948e4f7522eb767e79d82&o=&hp=1"
+featuredImage: "/images/accommodation/villa-garden-363282521.jpg"
 language: en
 slug: villa-garden
 address: "Rruga Kostaq Koxhaku, 5001 Berat, Albania"

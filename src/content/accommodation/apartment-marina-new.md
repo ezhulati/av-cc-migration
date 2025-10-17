@@ -1,7 +1,7 @@
 ---
 title: "Apartment Marina New"
 description: "Apartment Marina New emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465460554.jpg?k=d58a802719321ec6e68149fcb168e78b9c2472a17c3bdd6b48936ba389278918&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-marina-new-465460554.jpg"
 language: en
 slug: apartment-marina-new
 address: "Rruga Haziz Xhyherri Nd.8,H.7,Ap.27, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Koko beach apartment - Golem Durres"
 description: "Koko Beach Apartment in Golem Durres presents an inviting retreat for travelers seeking both serenity and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469934898.jpg?k=7c3d09c73b1ab0bc93450d0b458cbae4b65b82937c3fedc045105e00909cf5da&o=&hp=1"
+featuredImage: "/images/accommodation/koko-beach-apartment-golem-durres-469934898.jpg"
 language: en
 slug: koko-beach-apartment-golem-durres
 address: "Rruga Korça, Golem, Albania"

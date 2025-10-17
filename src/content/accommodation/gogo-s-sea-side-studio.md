@@ -1,7 +1,7 @@
 ---
 title: "Gogo's Sea Side Studio"
 description: "Gogo's Sea Side Studio emerges as a serene retreat in the vibrant city of Sarandë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/gogo-s-sea-side-studio-f69a0f45af41.jpg"
 language: en
 slug: gogo-s-sea-side-studio
 address: "Rruga Mitat Hoxha, 9700 Sarandë, Albania"

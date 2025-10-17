@@ -1,7 +1,7 @@
 ---
 title: "Doanesia Premium Hotel & Spa"
 description: "Doanesia Premium Hotel & Spa stands out as a beacon of comfort and luxury in Tirana, located just 4."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474997567.jpg?k=ebdee600c4293b5793203f097f8d57335960ef55a4036c741a3c1414b9715133&o=&hp=1"
+featuredImage: "/images/accommodation/doanesia-premium-hotel-spa-474997567.jpg"
 language: en
 slug: doanesia-premium-hotel-spa
 address: "Rruga Kastrioti, Nr 5, 1000 Tirana, Albania"

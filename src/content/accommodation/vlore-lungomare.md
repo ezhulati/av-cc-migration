@@ -1,7 +1,7 @@
 ---
 title: "Vlore , Lungomare"
 description: "Vlore, Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
+featuredImage: "/images/accommodation/vlore-lungomare-8d80ab6bf73f.jpg"
 language: en
 slug: vlore-lungomare
 address: "Rruga Shyqyri Ali Merka, 9402 Vlorë, Albania"

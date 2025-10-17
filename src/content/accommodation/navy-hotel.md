@@ -1,7 +1,7 @@
 ---
 title: "Navy Hotel"
 description: "Navy Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Vlorë, merely a stone's throw away from the serene Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493283197.jpg?k=84eede172703e15eabf0246f60d67b312763de8caa3f25701eda803b89dd36cc&o=&hp=1"
+featuredImage: "/images/accommodation/navy-hotel-493283197.jpg"
 language: en
 slug: navy-hotel
 address: "Rruga Aleksandër Moisiu, 9404 Vlorë, Albania"

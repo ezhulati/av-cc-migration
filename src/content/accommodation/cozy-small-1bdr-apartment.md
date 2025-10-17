@@ -1,7 +1,7 @@
 ---
 title: "Cozy Small 1Bdr Apartment"
 description: "Cozy Small 1Bdr Apartment emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413253156.jpg?k=aad299ba5d48ba215ed6b6c1c28674d5a7c6e41c3f9c1785e1deb114ef61da96&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-small-1bdr-apartment-413253156.jpg"
 language: en
 slug: cozy-small-1bdr-apartment
 address: "Rruga Aleksandri i Madh, 1001 Tirana, Albania"

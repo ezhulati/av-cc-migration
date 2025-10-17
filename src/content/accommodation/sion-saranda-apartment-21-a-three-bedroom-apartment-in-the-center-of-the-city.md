@@ -1,7 +1,7 @@
 ---
 title: "Sion Saranda Apartment 21 , a three bedroom apartment in the center of the city"
 description: "Sion Saranda Apartment 21 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355931156.jpg?k=f435eaef0f8649a6404cf3d020204cd1811ac846f805fe2362a93c5b092d4b49&o=&hp=1"
+featuredImage: "/images/accommodation/sion-saranda-apartment-21-a-three-bedroom-apartment-in-the-center-of-the-city-355931156.jpg"
 language: en
 slug: sion-saranda-apartment-21-a-three-bedroom-apartment-in-the-center-of-the-city
 address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"

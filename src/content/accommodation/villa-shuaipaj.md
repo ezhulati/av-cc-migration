@@ -1,7 +1,7 @@
 ---
 title: "Villa Shuaipaj"
 description: "Villa Shuaipaj emerges as a serene retreat, boasting breathtaking mountain views and a prime location just 45 km from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485331072.jpg?k=50f683572f2d1bca97eb3b3a40a159d0d5b4963aba36da976bcffe889239bf64&o=&hp=1"
+featuredImage: "/images/accommodation/villa-shuaipaj-485331072.jpg"
 language: en
 slug: villa-shuaipaj
 address: "Antigone, Asim Zeneli, Lagjja \"25 Vjetori\", godine 2-kateshe, nr.17 Godine 2-kateshe, nr.17, 6017 Gjirokastër, Albania"

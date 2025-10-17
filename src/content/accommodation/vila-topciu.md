@@ -1,7 +1,7 @@
 ---
 title: "Vila Topciu"
 description: "Vila Topciu emerges as a charming retreat for travelers seeking both tranquility and adventure in the heart of Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294623470.jpg?k=a44cbf327a87582033d8030a7aa4d2eda27165c8046870ee893340a3a259a9fa&o=&hp=1"
+featuredImage: "/images/accommodation/vila-topciu-294623470.jpg"
 language: en
 slug: vila-topciu
 address: "Rruga e Korces, 7301 Pogradec, Albania"

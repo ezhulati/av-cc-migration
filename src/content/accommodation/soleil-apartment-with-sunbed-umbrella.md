@@ -1,7 +1,7 @@
 ---
 title: "Soleil Apartment with sunbed & umbrella"
 description: "Soleil Apartment with sunbed & umbrella stands as a prime example of beachfront luxury in Vlorë, offering guests an unparalleled experience mere steps from the pristine Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477905629.jpg?k=2b39698204843ddcf73bebede43874061235a243bb9a8afcc82156c974eb4440&o=&hp=1"
+featuredImage: "/images/accommodation/soleil-apartment-with-sunbed-umbrella-477905629.jpg"
 language: en
 slug: soleil-apartment-with-sunbed-umbrella
 address: "Rr. Sazani, 9404 Vlorë, Albania"

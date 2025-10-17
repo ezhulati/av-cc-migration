@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment City Center 300 mbs WiFi"
 description: "Discover the charm of Durrës with a stay at Lovely Apartment City Center, a prime location just a stone's throw away from Currila Beach and a short stroll from the vibrant Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499442326.jpg?k=98d03cbac6992ad824cb5935367618293c64160c01328f969e9d14c3e362060a&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-apartment-city-center-300-mbs-wifi-499442326.jpg"
 language: en
 slug: lovely-apartment-city-center-300-mbs-wifi
 address: "Rruga Taulantia, 2001 Durrës, Albania"

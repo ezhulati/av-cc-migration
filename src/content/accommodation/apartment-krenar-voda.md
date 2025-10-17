@@ -1,7 +1,7 @@
 ---
 title: "Apartment Krenar Voda"
 description: "Apartment Krenar Voda, located in the charming town of Ksamil, presents an ideal retreat for travelers seeking both serenity and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301941961.jpg?k=521744b989d24275becda99d3c1c462f9018750ab10c7c412aec830a6456392f&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-krenar-voda-301941961.jpg"
 language: en
 slug: apartment-krenar-voda
 address: "Rruga Riza Cerova Lagja numer 1, 9706 Ksamil, Albania"

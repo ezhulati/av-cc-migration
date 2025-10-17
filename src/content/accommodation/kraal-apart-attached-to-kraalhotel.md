@@ -1,7 +1,7 @@
 ---
 title: "Kraal Apart attached to KraalHotel"
 description: "Kraal Apart, an extension of the esteemed KraalHotel in Vlorë, offers guests a luxurious stay with its air-conditioned accommodations that feature a private pool, a serene garden view, and a personal balcony for an intimate outdoor experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513556848.jpg?k=9d5089e73a26eb37596aa611c20f7b0fbc96e01290277136170dbf3c440c0672&o=&hp=1"
+featuredImage: "/images/accommodation/kraal-apart-attached-to-kraalhotel-513556848.jpg"
 language: en
 slug: kraal-apart-attached-to-kraalhotel
 address: "Rr. Sazani, attached to Kraal Hotel, old beach. Apartment 19, 9402 Vlorë, Albania"

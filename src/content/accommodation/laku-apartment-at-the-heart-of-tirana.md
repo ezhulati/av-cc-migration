@@ -1,7 +1,7 @@
 ---
 title: "Laku Apartment - At The Heart of Tirana"
 description: "Laku Apartment - At The Heart of Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348323113.jpg?k=60398679f7440b1711bd4f7afa2ff11ff0e186883783938d29a1af6d23c12756&o=&hp=1"
+featuredImage: "/images/accommodation/laku-apartment-at-the-heart-of-tirana-348323113.jpg"
 language: en
 slug: laku-apartment-at-the-heart-of-tirana
 address: "Rruga Sami Frasheri, Pall. 20/1, Shk. 1, Ap. 11,, Tirana, Albania"

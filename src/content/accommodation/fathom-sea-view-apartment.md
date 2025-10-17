@@ -1,7 +1,7 @@
 ---
 title: "FATHOM Sea View Apartment"
 description: "FATHOM Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497150658.jpg?k=1c4fa4a260ec8f83913d82bbe9294f1555ce244596d8e88e8de6977aa6384fef&o=&hp=1"
+featuredImage: "/images/accommodation/fathom-sea-view-apartment-497150658.jpg"
 language: en
 slug: fathom-sea-view-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

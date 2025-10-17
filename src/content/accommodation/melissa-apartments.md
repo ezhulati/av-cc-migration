@@ -1,7 +1,7 @@
 ---
 title: "Melissa Apartments"
 description: "Melissa Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, positioned just a stone's throw away from the pristine Flamingo Beach and within easy reach of Mango and Santa Quaranta Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525632454.jpg?k=b35521cbea84dc4855018a9dcc34cc1098dadd5b4330ba1be4b02e5628819972&o=&hp=1"
+featuredImage: "/images/accommodation/melissa-apartments-525632454.jpg"
 language: en
 slug: melissa-apartments
 address: "Rruga Sarandë-Butrinti km3, SH81, 9702 Sarandë, Albania"

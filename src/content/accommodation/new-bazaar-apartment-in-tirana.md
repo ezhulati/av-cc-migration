@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar Apartment in Tirana"
 description: "Discover the comfort and convenience of New Bazaar Apartment in Tirana, a prime choice for travelers seeking a blend of home-like amenities and the excitement of city exploration."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390815391.jpg?k=6afb94a83d46cfa13ae47b3e9b8d75bab9e04fddad3454d6d1f112996582e0ca&o=&hp=1"
+featuredImage: "/images/accommodation/new-bazaar-apartment-in-tirana-390815391.jpg"
 language: en
 slug: new-bazaar-apartment-in-tirana
 address: "Rruga Vllazën Huta, 1001 Tirana, Albania"

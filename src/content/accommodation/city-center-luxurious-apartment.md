@@ -1,7 +1,7 @@
 ---
 title: "City Center luxurious apartment"
 description: "Discover the epitome of urban elegance at the City Center Luxurious Apartment, a premier destination for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435623955.jpg?k=e3c406c04e1092548d1ce5a2b77e55c06a7e4c935a17f519f39b9a06639cb43e&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-luxurious-apartment-435623955.jpg"
 language: en
 slug: city-center-luxurious-apartment
 address: "Rr. Qemal Dracini, 4001 Shkodër, Albania"

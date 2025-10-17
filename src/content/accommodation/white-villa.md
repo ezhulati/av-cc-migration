@@ -1,7 +1,7 @@
 ---
 title: "White Villa"
 description: "White Villa emerges as a serene oasis in the heart of Përmet, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479519784.jpg?k=7a920dfb22bffa1c8fa9733646e2eb9d94724a0eb4a1a1cd11a8b2940f4aac2d&o=&hp=1"
+featuredImage: "/images/accommodation/white-villa-479519784.jpg"
 language: en
 slug: white-villa
 address: "Lagja Kongresi 4, 6401 Përmet, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Valza Boutique Hotel"
 description: "Valza Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë, located just a stone's throw away from the serene Liro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451427495.jpg?k=c7fe9a37c02d3cf2c260ca229f9a3da7d2a8e8ecfff435fd4d4b8da6858d831e&o=&hp=1"
+featuredImage: "/images/accommodation/valza-boutique-hotel-451427495.jpg"
 language: en
 slug: valza-boutique-hotel
 address: "Rruga Aleksandër Moisiu Uji i Ftohte, 9403 Vlorë, Albania"

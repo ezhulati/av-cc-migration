@@ -1,7 +1,7 @@
 ---
 title: "Apartment x4 Lungomare"
 description: "Apartment x4 Lungomare emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, located just a stone's throw away from Vlore Beach and within easy reach of Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518437956.jpg?k=ac5eebc8cc300ff17e4fc49ebf11c6456955a482b7d391593f2f38088ea8327e&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-x4-lungomare-518437956.jpg"
 language: en
 slug: apartment-x4-lungomare
 address: "Rruga Dhimitër Konomi, 9402 Vlorë, Albania"

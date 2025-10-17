@@ -1,7 +1,7 @@
 ---
 title: "Apartmen ROZA Korce"
 description: "Apartment ROZA Korce emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232285156.jpg?k=dfac823fc37d87e8bb048bf1ec2f2ca39ea8af149ca55553f19ba98c97c00f93&o=&hp=1"
+featuredImage: "/images/accommodation/apartmen-roza-korce-232285156.jpg"
 language: en
 slug: apartmen-roza-korce
 address: "Rruga Anastas Lakce, Korçë, Albania"

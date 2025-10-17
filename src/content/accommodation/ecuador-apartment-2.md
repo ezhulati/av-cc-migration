@@ -1,7 +1,7 @@
 ---
 title: "Ecuador apartment 2"
 description: "Ecuador Apartment 2 emerges as a prime choice for travelers seeking a serene retreat in the heart of Vlorë, a mere stone's throw away from the city's iconic Independence Square and the historic Kuzum Baba."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
+featuredImage: "/images/accommodation/ecuador-apartment-2-c9a51000ce90.jpg"
 language: en
 slug: ecuador-apartment-2
 address: "Rruga Gjergj Kastrioti, Vlorë, Albania"

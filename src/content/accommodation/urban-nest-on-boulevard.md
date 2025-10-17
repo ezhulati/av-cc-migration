@@ -1,7 +1,7 @@
 ---
 title: "Urban Nest on Boulevard"
 description: "Urban Nest on Boulevard emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405718674.jpg?k=62251aa409a5780038230e0c2838df05c4a976b06739cde002e8e6ee44c34f90&o=&hp=1"
+featuredImage: "/images/accommodation/urban-nest-on-boulevard-405718674.jpg"
 language: en
 slug: urban-nest-on-boulevard
 address: "Bulevardi Zogu I near New York Bar, 1001 Tirana, Albania"

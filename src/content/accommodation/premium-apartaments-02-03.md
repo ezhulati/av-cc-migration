@@ -1,7 +1,7 @@
 ---
 title: "Premium Apartaments 02-03"
 description: "Premium Apartments 02-03 stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from the serene Plazhi i Vjeter Beach and a mere 3 km from the bustling Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152120028.jpg?k=7ef3b8f2e258a3c1f4d8d58d170c825bef1b4c312c609175daea8b237ef262fb&o=&hp=1"
+featuredImage: "/images/accommodation/premium-apartaments-02-03-152120028.jpg"
 language: en
 slug: premium-apartaments-02-03
 address: "Rruga Sazani, 3421 Vlorë, Albania"

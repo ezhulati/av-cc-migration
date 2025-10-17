@@ -1,7 +1,7 @@
 ---
 title: "Sotiri Rooms"
 description: "Sotiri Rooms emerges as a serene haven in the vibrant heart of Sarandë, offering a tranquil retreat just moments away from the city's most beloved beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472793911.jpg?k=d2c4144d2adf3cd2040e1aee5bbbb20b3f1823265f2ab1f4b63f47b225714563&o=&hp=1"
+featuredImage: "/images/accommodation/sotiri-rooms-472793911.jpg"
 language: en
 slug: sotiri-rooms
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

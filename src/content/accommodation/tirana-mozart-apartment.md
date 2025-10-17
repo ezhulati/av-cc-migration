@@ -1,7 +1,7 @@
 ---
 title: "Tirana Mozart Apartment"
 description: "Tirana Mozart Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350734324.jpg?k=ca6e8f5c3723d731f44bd5e45ddbfd2c7b507d7c213aee61f6be96fab22dc117&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-mozart-apartment-350734324.jpg"
 language: en
 slug: tirana-mozart-apartment
 address: "Rruga Dervish Hatixhe, 1057 Tirana, Albania"

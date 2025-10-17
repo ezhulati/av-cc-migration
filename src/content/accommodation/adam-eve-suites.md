@@ -1,7 +1,7 @@
 ---
 title: "Adam & Eve Suites"
 description: "Adam & Eve Suites stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476551445.jpg?k=98b50adea74e58d9e353554480c9aebe73b991b98f373b3e51841fba40e22579&o=&hp=1"
+featuredImage: "/images/accommodation/adam-eve-suites-476551445.jpg"
 language: en
 slug: adam-eve-suites
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

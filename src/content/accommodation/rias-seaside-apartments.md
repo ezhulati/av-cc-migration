@@ -1,7 +1,7 @@
 ---
 title: "Rias Seaside Apartments"
 description: "Rias Seaside Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, positioned merely 400 meters from the pristine Vlore Beach and a short stroll from the scenic Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509625552.jpg?k=2121a8a7eb5ed967caebccb60584cc84c4e29cf3ec85a0998cafdfe2847c2d00&o=&hp=1"
+featuredImage: "/images/accommodation/rias-seaside-apartments-509625552.jpg"
 language: en
 slug: rias-seaside-apartments
 address: "Rruga Çamëria, 9401 Vlorë, Albania"

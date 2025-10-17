@@ -1,7 +1,7 @@
 ---
 title: "Elbasan view point"
 description: "Elbasan View Point emerges as a prime choice for travelers seeking comfort and convenience in the heart of Elbasan, located just a stone's throw away from some of Albania's most iconic landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527638521.jpg?k=09c67ff7b4ba3c1286cc11c5a7a242649d8b59e337666b4b7d3dda569ded58cd&o=&hp=1"
+featuredImage: "/images/accommodation/elbasan-view-point-527638521.jpg"
 language: en
 slug: elbasan-view-point
 address: "Rruga Lef Nosi Ap Nr.28, 3001 Elbasan, Albania"

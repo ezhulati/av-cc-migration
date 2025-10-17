@@ -1,7 +1,7 @@
 ---
 title: "The Heart Of The City - Wifi 500 mb/s"
 description: "The Heart Of The City - Wifi 500 mb/s stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487953941.jpg?k=a5e9fa2dc4e101babbfd935151fc817d4a23e658cfaec0f196b9e6a2d4b29501&o=&hp=1"
+featuredImage: "/images/accommodation/the-heart-of-the-city-wifi-500-mb-s-487953941.jpg"
 language: en
 slug: the-heart-of-the-city-wifi-500-mb-s
 address: "Rruga Egnatia 2, 2001 Durrës, Albania"

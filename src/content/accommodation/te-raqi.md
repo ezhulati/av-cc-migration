@@ -1,7 +1,7 @@
 ---
 title: "Te Raqi"
 description: "Te Raqi, a charming accommodation option in Gjirokastër, stands out for its thoughtful amenities and strategic location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510100008.jpg?k=934c2b46f23010f88a46fa531902fc3ddb0d04f1893aab6258f246314a2881c9&o=&hp=1"
+featuredImage: "/images/accommodation/te-raqi-510100008.jpg"
 language: en
 slug: te-raqi
 address: "Rruga Doktor Vasil Laboviti, 6002 Gjirokastër, Albania"

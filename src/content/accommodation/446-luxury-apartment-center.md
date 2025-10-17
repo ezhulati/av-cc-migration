@@ -1,7 +1,7 @@
 ---
 title: "446 Luxury Apartment Center"
 description: "446 Luxury Apartment Center offers a modern retreat in the heart of Shkodër, providing guests with air-conditioned comfort and the convenience of a balcony for an elevated stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493364757.jpg?k=5f287717868c8c360941a12a3f16f40c894ab28d38f36656615f43923223a74a&o=&hp=1"
+featuredImage: "/images/accommodation/446-luxury-apartment-center-493364757.jpg"
 language: en
 slug: 446-luxury-apartment-center
 address: "Rruga Qemal Draçini, 4001 Shkodër, Albania"

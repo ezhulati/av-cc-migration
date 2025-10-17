@@ -1,7 +1,7 @@
 ---
 title: "Residence Saranda International"
 description: "Residence Saranda International emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305716363.jpg?k=735d6d8c5581cebc68bdb0ad195a3f32f1a119ddba28151cb6aee8f52cf89e65&o=&hp=1"
+featuredImage: "/images/accommodation/residence-saranda-international-305716363.jpg"
 language: en
 slug: residence-saranda-international
 address: "SH 81 Str Butrinti, 9703 Sarandë, Albania"

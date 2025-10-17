@@ -1,7 +1,7 @@
 ---
 title: "George apartments2023"
 description: "George Apartments2023 emerges as a prime choice for travelers seeking comfort and convenience in Korçë, located just a stone's throw away from the serene Monastery Saint Naum and the enchanting Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485765269.jpg?k=dcb1fed2c0a4a13cb98fe36b33c670f6bd61b6ad15adb1085ce99b57a9f7dee9&o=&hp=1"
+featuredImage: "/images/accommodation/george-apartments2023-485765269.jpg"
 language: en
 slug: george-apartments2023
 address: "Rruga Midhi Kostani, 7001 Korçë, Albania"

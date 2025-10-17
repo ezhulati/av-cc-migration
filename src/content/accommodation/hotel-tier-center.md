@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tier Center"
 description: "Hotel Tier Center emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447513915.jpg?k=001ccff4937d6d34de20662528aeadf66562c253fcb718d20eac59f916cd029c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-tier-center-447513915.jpg"
 language: en
 slug: hotel-tier-center
 address: "Rruga Myrtezim Këlliçi Near Toptani Shopping Mall, 1001 Tirana, Albania"

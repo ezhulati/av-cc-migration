@@ -1,7 +1,7 @@
 ---
 title: "PALMS & SUNSET GUEST HOUSE"
 description: "Discover the charm of Vlorë with a stay at PALMS & SUNSET GUEST HOUSE, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489037614.jpg?k=471afd9083fe3d11593ae31265ef0f367ed86aefba293779cf2564b001d6dc2e&o=&hp=1"
+featuredImage: "/images/accommodation/palms-sunset-guest-house-489037614.jpg"
 language: en
 slug: palms-sunset-guest-house
 address: "Rruga Kasao Petoshari, 9402 Vlorë, Albania"

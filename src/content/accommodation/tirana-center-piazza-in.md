@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Piazza-IN"
 description: "Tirana Center Piazza-IN emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504919401.jpg?k=b2967ab2ab4223b40a8b3937c87fe1def2005a16e6ea7b6fb3e00622d3f8be62&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-center-piazza-in-504919401.jpg"
 language: en
 slug: tirana-center-piazza-in
 address: "Rruga Sulejman Pasha, 1001 Tirana, Albania"

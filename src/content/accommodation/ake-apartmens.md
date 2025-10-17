@@ -1,7 +1,7 @@
 ---
 title: "AKE Apartmens"
 description: "AKE Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Shëngjin, merely a stone's throw away from the pristine shores of Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/ake-apartmens-c84a361d6701.jpg"
 language: en
 slug: ake-apartmens
 address: "Sheshi Nene Tereza, 4053 Shëngjin, Albania"

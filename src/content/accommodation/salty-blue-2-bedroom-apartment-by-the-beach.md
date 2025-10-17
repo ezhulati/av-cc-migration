@@ -1,7 +1,7 @@
 ---
 title: "Salty blue, 2 bedroom apartment, by the beach"
 description: "In the heart of Durrës, just a stone's throw from the shimmering waters of Shkëmbi i Kavajës Beach, lies Salty Blue, a charming 2-bedroom apartment that promises a tranquil beachside retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368765826.jpg?k=90e35908f2a346354b4d5cd523d3a0102ed55396b8e9b60fd9cdb5afd7cbb906&o=&hp=1"
+featuredImage: "/images/accommodation/salty-blue-2-bedroom-apartment-by-the-beach-368765826.jpg"
 language: en
 slug: salty-blue-2-bedroom-apartment-by-the-beach
 address: "Rruga Horizonti, 2000 Durrës, Albania"

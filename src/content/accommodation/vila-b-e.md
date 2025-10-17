@@ -1,7 +1,7 @@
 ---
 title: "Vila B&E"
 description: "Vila B&E emerges as a charming choice for travelers seeking a blend of comfort and convenience, located just a short stroll from the serene Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/vila-b-e-d321d61d78a8.jpg"
 language: en
 slug: vila-b-e
 address: "Rruga Mateo Matathia, Vlorë, Albania"

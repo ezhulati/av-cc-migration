@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Spectacular 1BD At Komuna e Parisit"
 description: "Miku Apartment-Spectacular 1BD At Komuna e Parisit emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325590977.jpg?k=26041704d9699b286bfe9e1022cb4458dac6faeae5a941aec2c6bf43b025c469&o=&hp=1"
+featuredImage: "/images/accommodation/miku-apartment-spectacular-1bd-at-komuna-e-parisit-325590977.jpg"
 language: en
 slug: miku-apartment-spectacular-1bd-at-komuna-e-parisit
 address: "Rruga \"Medar Shtylla\" , 1001 Tirana, Albania"

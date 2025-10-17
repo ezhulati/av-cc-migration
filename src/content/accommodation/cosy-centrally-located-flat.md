@@ -1,7 +1,7 @@
 ---
 title: "Cosy, centrally-located flat"
 description: "Cosy, Centrally-Located Flat emerges as a prime choice for travelers seeking the heart of Tirana, offering a blend of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/cosy-centrally-located-flat-12a07b30d7fe.jpg"
 language: en
 slug: cosy-centrally-located-flat
 address: "Rruga Jan Kukuzeli, Tirana, Albania"

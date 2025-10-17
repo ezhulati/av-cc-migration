@@ -1,7 +1,7 @@
 ---
 title: "Pazari Vjeter Rooms"
 description: "Pazari Vjeter Rooms emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, situated within a striking distance of 44 km from the serene Ohrid Lake Springs and 43 km from the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364911416.jpg?k=dc67ff7bd469cfda1c60812f599f75301d046cdceb1370e21034b3cc9999a025&o=&hp=1"
+featuredImage: "/images/accommodation/pazari-vjeter-rooms-364911416.jpg"
 language: en
 slug: pazari-vjeter-rooms
 address: "Bulevardi Fan Noli Pazari Vjeter, 7001 Korçë, Albania"

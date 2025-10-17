@@ -1,7 +1,7 @@
 ---
 title: "Ionian Waves Apartment"
 description: "Ionian Waves Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286613855.jpg?k=7d0a2af2d29bd81e3223757cefe082d578049265340b563c646bea7382d719ad&o=&hp=1"
+featuredImage: "/images/accommodation/ionian-waves-apartment-286613855.jpg"
 language: en
 slug: ionian-waves-apartment
 address: "Rruga Butrinti Next To Layos Restaurant, 9701 Sarandë, Albania"

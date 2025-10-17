@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa 1"
 description: "Luxury Villa 1 emerges as a premier destination for travelers seeking an exclusive beachfront retreat in Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"
+featuredImage: "/images/accommodation/luxury-villa-1-ecc2e23c1dd8.jpg"
 language: en
 slug: luxury-villa-1
 address: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"

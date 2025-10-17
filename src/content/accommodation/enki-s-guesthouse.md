@@ -1,7 +1,7 @@
 ---
 title: "Enki's Guesthouse"
 description: "Enki's Guesthouse emerges as a serene retreat in the heart of Tirana, located just a stone's throw away from the city's vibrant attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466934338.jpg?k=1d0a7ab63a280aa0c6519be1af9e95f9882171958d0e4e3f8a9ca15d77c4e25f&o=&hp=1"
+featuredImage: "/images/accommodation/enki-s-guesthouse-466934338.jpg"
 language: en
 slug: enki-s-guesthouse
 address: "Rruga Qemal Stafa Pall. Geda 1/B4, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Pamela"
 description: "Villa Pamela emerges as a serene retreat in the heart of Përmet, offering an idyllic setting for travelers seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371417587.jpg?k=cd796f46f04cd885ccb293d822bf35d2d1b41e163ad50185dbeb05c7e901f2b8&o=&hp=1"
+featuredImage: "/images/accommodation/villa-pamela-371417587.jpg"
 language: en
 slug: villa-pamela
 address: "Ruga nacionale Permet-Kelcyre, Km i pare, 6401 Përmet, Albania"

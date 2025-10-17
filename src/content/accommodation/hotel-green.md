@@ -1,7 +1,7 @@
 ---
 title: "Hotel Green"
 description: "Discover the charm of Hotel Green, a serene oasis located just a short drive from the bustling heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39456537.jpg?k=f32da75459a8ca748e756720e572226fc5a928ea590dfde0b9e7642cd6c5fb1e&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-green-39456537.jpg"
 language: en
 slug: hotel-green
 address: "Rruga Kavajes. Kombinat Km 2. Vaqarr, 1041 Tirana, Albania"

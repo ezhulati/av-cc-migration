@@ -1,7 +1,7 @@
 ---
 title: "Apartament in Tirana"
 description: "Discover the charm of Tirana with a stay at Apartament in Tirana, a spacious and serene retreat located conveniently close to the city's most iconic landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410129191.jpg?k=7d12111eb3379082f9ab9938d4d0577005b5473756eb05bbb8fbf61a8da1340d&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-in-tirana-410129191.jpg"
 language: en
 slug: apartament-in-tirana
 address: "Rruga 3 Deshmoret, 1001 Tirana, Albania"

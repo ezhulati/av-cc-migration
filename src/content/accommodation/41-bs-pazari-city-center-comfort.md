@@ -1,7 +1,7 @@
 ---
 title: "41° Bs Pazari City Center Comfort"
 description: "41° Bs Pazari City Center Comfort emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434409092.jpg?k=6dc519152da64e71e3de5ab98d9c92ebfa1951dff6303bb9686f3137a33ed144&o=&hp=1"
+featuredImage: "/images/accommodation/41-bs-pazari-city-center-comfort-434409092.jpg"
 language: en
 slug: 41-bs-pazari-city-center-comfort
 address: "Rruga Beqir Luga, 1001 Tirana, Albania"

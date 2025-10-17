@@ -1,7 +1,7 @@
 ---
 title: "GEORGE's VILLA"
 description: "GEORGE's VILLA, located in the historic city of Gjirokastër and a mere 44 km from the serene Zaravina Lake, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/396851095.jpg?k=e6388e9fc343c50cc740de5d6700d623299018afa568952fc89b8c1ff2ffe940&o=&hp=1"
+featuredImage: "/images/accommodation/george-s-villa-396851095.jpg"
 language: en
 slug: george-s-villa
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

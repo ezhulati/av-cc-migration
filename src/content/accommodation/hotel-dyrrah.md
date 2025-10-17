@@ -1,7 +1,7 @@
 ---
 title: "Hotel Dyrrah"
 description: "Discover the hidden gem of Hotel Dyrrah, a serene retreat located a mere stone's throw from the sea, where the gentle lapping of waves sets the tone for a relaxing stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477592893.jpg?k=21d2903a28598279b9a61f5c7e66ea36699bfcf98e087ddda5f243b5d90fd9b4&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-dyrrah-477592893.jpg"
 language: en
 slug: hotel-dyrrah
 address: "Lagja 13, Iliria Plazha, 4000 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa B&E 2"
 description: "Villa B&E 2 emerges as a prime choice for travelers seeking a serene getaway in Vlorë, situated less than a kilometer from the pristine Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
+featuredImage: "/images/accommodation/villa-b-e-2-2c7be68fb3f9.jpg"
 language: en
 slug: villa-b-e-2
 address: "Rruga Mateo Matathia, 9400 Vlorë, Albania"

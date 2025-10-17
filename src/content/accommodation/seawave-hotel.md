@@ -1,7 +1,7 @@
 ---
 title: "Seawave Hotel"
 description: "Seawave Hotel stands as a beacon of comfort and convenience in Sarandë, boasting an enviable location mere steps from the pristine shores of Flamingo Beach and Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368317682.jpg?k=4ce691775a29d8f6edce2a6fa814642d138cb73bd88aef908463d66d372915ed&o=&hp=1"
+featuredImage: "/images/accommodation/seawave-hotel-368317682.jpg"
 language: en
 slug: seawave-hotel
 address: "SH81, 9701 Sarandë, Albania"

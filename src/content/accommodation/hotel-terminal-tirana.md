@@ -1,7 +1,7 @@
 ---
 title: "Hotel Terminal Tirana"
 description: "Hotel Terminal Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/hotel-terminal-tirana-c84a361d6701.jpg"
 language: en
 slug: hotel-terminal-tirana
 address: "Autostrada Tirane-Durres Km. 0, perball Spiralit Hygeia, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Beach Apartaments"
 description: "Beach Apartaments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220655846.jpg?k=9a5d47b70ae06e00c160c71953a74f7dd6f7f8faf05f4f6a1b99e10388ffbad6&o=&hp=1"
+featuredImage: "/images/accommodation/beach-apartaments-220655846.jpg"
 language: en
 slug: beach-apartaments
 address: "Rruga Pavarsia plazh,durres, 3007 Durrës, Albania"

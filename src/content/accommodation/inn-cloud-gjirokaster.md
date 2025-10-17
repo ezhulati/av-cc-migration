@@ -1,7 +1,7 @@
 ---
 title: "Inn Cloud Gjirokaster"
 description: "Inn Cloud Gjirokaster emerges as a serene retreat in the historic city of Gjirokastër, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-y/ea90dc6a44b984e60291f9db43e96ddfa72b1aef.png"
+featuredImage: "/images/accommodation/inn-cloud-gjirokaster-ea90dc6a44b9.jpg"
 language: en
 slug: inn-cloud-gjirokaster
 address: "Rruga Partizani, 6001 Gjirokastër, Albania"

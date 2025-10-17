@@ -1,7 +1,7 @@
 ---
 title: "Apartment Perla"
 description: "Apartment Perla, located in the heart of Berat, presents a refreshing retreat for travelers seeking both city and mountain views from the comfort of an air-conditioned space."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527908249.jpg?k=bfc3fe0e1f40cd0918bfada1900a465882524cd91f9fbef6fc484ef78025e3cc&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-perla-527908249.jpg"
 language: en
 slug: apartment-perla
 address: "Rruga Sotir Kolea, Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Beach Apartments"
 description: "Lungomare Beach Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361952319.jpg?k=512f6e0ebf8ceff0ddf94df507a4e427c620ba1341f40e30de502eba1a20c13c&o=&hp=1"
+featuredImage: "/images/accommodation/lungomare-beach-apartments-361952319.jpg"
 language: en
 slug: lungomare-beach-apartments
 address: "Rruga Shaban Demiraj, 9300 Vlorë, Albania"

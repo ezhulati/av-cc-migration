@@ -1,7 +1,7 @@
 ---
 title: "Square 21 Studio Apartments"
 description: "Square 21 Studio Apartments emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490387422.jpg?k=296fc2f8047a13bf853d085ac57292f909cbe6bf820c1db95fe3b5a1cb9b5906&o=&hp=1"
+featuredImage: "/images/accommodation/square-21-studio-apartments-490387422.jpg"
 language: en
 slug: square-21-studio-apartments
 address: "Rruga e Kavajës Square 21 10th Floor, 1004 Tirana, Albania"

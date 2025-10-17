@@ -1,7 +1,7 @@
 ---
 title: "Adriatic City Center Vlora"
 description: "Adriatic City Center Vlora emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379530833.jpg?k=f1c4ee6f078e97ffe760deeba1b981ab69544c01e27092b7d8865bec3b6ba45f&o=&hp=1"
+featuredImage: "/images/accommodation/adriatic-city-center-vlora-379530833.jpg"
 language: en
 slug: adriatic-city-center-vlora
 address: "Rruga Cajupi 21 (7), Vlorë, Albania"

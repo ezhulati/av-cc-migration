@@ -1,7 +1,7 @@
 ---
 title: "Cappuccino City Center Apartment"
 description: "Cappuccino City Center Apartment offers a serene retreat in the heart of Lezhë, boasting air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414219219.jpg?k=ae5a023a460802a3eb888157c27c800b88412b4324578eae062279053f5ec297&o=&hp=1"
+featuredImage: "/images/accommodation/cappuccino-city-center-apartment-414219219.jpg"
 language: en
 slug: cappuccino-city-center-apartment
 address: "Bulevardi Gjergj Fishta, 4501 Lezhë, Albania"

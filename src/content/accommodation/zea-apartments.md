@@ -1,7 +1,7 @@
 ---
 title: "Zea Apartments"
 description: "Zea Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332602505.jpg?k=053760e7401fd8ccdf02d3cdb2ff8e9562d5e94da30ac9d23fb6a151252b45dc&o=&hp=1"
+featuredImage: "/images/accommodation/zea-apartments-332602505.jpg"
 language: en
 slug: zea-apartments
 address: "SH8, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Village room"
 description: "Village Room, located in the picturesque Vlorë County region of Himare, presents a serene escape with its breathtaking sea views and thoughtfully designed accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454752798.jpg?k=1521a96647e477bc47e0bdc525c13ef4fb17812e8a7d77d94ac9084b1404e147&o=&hp=1"
+featuredImage: "/images/accommodation/village-room-454752798.jpg"
 language: en
 slug: village-room
 address: "Himare, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Michalis, 2-bedroom apartment in Saranda"
 description: "Michalis, a 2-bedroom apartment in Saranda, emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473172092.jpg?k=8be71cbda34bdccccd02522dcfa4e84c76f4995b63cdf6a49f5e2d60a1fdaef1&o=&hp=1"
+featuredImage: "/images/accommodation/michalis-2-bedroom-apartment-in-saranda-473172092.jpg"
 language: en
 slug: michalis-2-bedroom-apartment-in-saranda
 address: "48 Rruga Studenti, 9700 Sarandë, Albania"

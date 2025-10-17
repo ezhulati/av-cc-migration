@@ -1,7 +1,7 @@
 ---
 title: "Apartments Villa Braho"
 description: "Apartments Villa Braho emerges as a serene retreat in Pogradec, offering guests a unique blend of garden and lake views that promise a tranquil escape from the everyday."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95254527.jpg?k=d717f980f174ea4fd37c765f367a47a2d44e387b82c6e68ef9751e58716ab9a5&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-villa-braho-95254527.jpg"
 language: en
 slug: apartments-villa-braho
 address: "Rruga Sul Starovari, 7301 Pogradec, Albania"

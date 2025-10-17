@@ -1,7 +1,7 @@
 ---
 title: "Apartment Julia"
 description: "Apartment Julia stands out as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short 400-meter stroll from the pristine Durres Beach and within easy reach of the city's must-see destinations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503063481.jpg?k=7c313a52a514c9f8cb8aa5b7ef84fc2598e704d8345b31b691d993490f125413&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-julia-503063481.jpg"
 language: en
 slug: apartment-julia
 address: "Shetitorja e Plazhit, Durrës, Albania"

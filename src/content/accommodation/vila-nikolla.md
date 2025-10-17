@@ -1,7 +1,7 @@
 ---
 title: "Vila Nikolla"
 description: "Vila Nikolla stands as a prime beachfront haven in Pogradec, offering guests the unique opportunity to stay just a stone's throw away from the serene Ohrid Lake Springs, located merely 8."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314601099.jpg?k=f0edb7f19d753711d5a08ca7f64f6b8a1a83c387c00ef8fc69819260b4688a3f&o=&hp=1"
+featuredImage: "/images/accommodation/vila-nikolla-314601099.jpg"
 language: en
 slug: vila-nikolla
 address: "Rruga Nositi , 7301 Pogradec, Albania"

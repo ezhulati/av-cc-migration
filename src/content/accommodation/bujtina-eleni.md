@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Eleni"
 description: "Bujtina Eleni emerges as a charming retreat in the heart of Himare, merely a stone's throw away from the pristine Llamani Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363239942.jpg?k=0b980384fb791cf03b1c2a9744b99902a9e3ecf3c6f86328dbb828fba9a692ce&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-eleni-363239942.jpg"
 language: en
 slug: bujtina-eleni
 address: "SH8 Llaman, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Kristiano 21"
 description: "Villa Kristiano 21 emerges as a serene oasis in Sarandë, offering guests an unparalleled blend of garden serenity and captivating sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258115605.jpg?k=6b88a627f0afe6fb66e6e337ca93054b37c13ee0cd6cf286375c150f9efa0d9d&o=&hp=1"
+featuredImage: "/images/accommodation/villa-kristiano-21-258115605.jpg"
 language: en
 slug: villa-kristiano-21
 address: "Rruga Gjergj Araniti 1, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Tirana"
 description: "Discover the charm of Tirana with a stay at the Apartment in Tirana, a modern haven located strategically to offer both tranquility and easy access to the city's vibrant heart."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472688566.jpg?k=863996bdb4a5df4899150bfbaa4e82967b53fba2be2901bbba80412d9e509fe2&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-tirana-472688566.jpg"
 language: en
 slug: apartment-in-tirana
 address: "Rruga Sokrat Miho, 1001 Tirana, Albania"

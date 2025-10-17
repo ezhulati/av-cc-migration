@@ -1,7 +1,7 @@
 ---
 title: "Dragoti Apartment 2"
 description: "Dragoti Apartment 2 emerges as a charming choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366514660.jpg?k=a573bbb98bea89b57b15be88fa1c1267ec2c022b0dfcba879a6cfa3d5bf9b0d0&o=&hp=1"
+featuredImage: "/images/accommodation/dragoti-apartment-2-366514660.jpg"
 language: en
 slug: dragoti-apartment-2
 address: "Rruga Dituria, 2501 Golem, Albania"

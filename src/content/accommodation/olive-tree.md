@@ -1,7 +1,7 @@
 ---
 title: "Olive Tree"
 description: "Olive Tree emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201453441.jpg?k=0293f2457150e9c0eea75640e04480b9cbb397a8c1916b74ad1b230033759224&o=&hp=1"
+featuredImage: "/images/accommodation/olive-tree-201453441.jpg"
 language: en
 slug: olive-tree
 address: "Rruga Eduard Mano 18, 1000 Tirana, Albania"

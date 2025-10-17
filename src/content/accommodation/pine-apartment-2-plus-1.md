@@ -1,7 +1,7 @@
 ---
 title: "Pine Apartment 2 plus 1"
 description: "Pine Apartment 2 plus 1 emerges as a recently renovated gem in Golem, boasting a unique rooftop pool that offers guests an exclusive retreat."
-featuredImage: "https://lh6.googleusercontent.com/-x6GjEySMZF4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reBVELuPcB1mwoc3f88gvhEiTf7LQ/photo.jpg64"
+featuredImage: "/images/accommodation/pine-apartment-2-plus-1-photo.jpg64.jpg"
 language: en
 slug: pine-apartment-2-plus-1
 address: "Mali i ROBIT/Golem, 3001 Golem, Albania"

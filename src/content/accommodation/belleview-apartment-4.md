@@ -1,7 +1,7 @@
 ---
 title: "Belleview Apartment 4"
 description: "Belleview Apartment 4 stands as a prime beachfront haven in Vlorë, offering a seamless blend of convenience and comfort just a stone's throw away from Vlore Beach and a short stroll from Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140385734.jpg?k=a159543b761ed4e176fba0fddd181622f6ffc530f5833d60e101b83a5e84ea4a&o=&hp=1"
+featuredImage: "/images/accommodation/belleview-apartment-4-140385734.jpg"
 language: en
 slug: belleview-apartment-4
 address: "Rruga Rushit Gurishova, 9400 Vlorë, Albania"

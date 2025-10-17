@@ -1,7 +1,7 @@
 ---
 title: "Vila Ervin Second Floor"
 description: "Vila Ervin Second Floor emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, just a short stroll from the pristine shores of Ksamil Beach 9 and Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335061178.jpg?k=cd1639a42792e9c080d4f25faec0dd0074f66f90dc09474251c6f31987891020&o=&hp=1"
+featuredImage: "/images/accommodation/vila-ervin-second-floor-335061178.jpg"
 language: en
 slug: vila-ervin-second-floor
 address: "Rruga Rinia .Ksamil, 9706 Ksamil, Albania"

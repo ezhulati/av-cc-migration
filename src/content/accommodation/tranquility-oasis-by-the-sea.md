@@ -1,7 +1,7 @@
 ---
 title: "Tranquility Oasis by the Sea"
 description: "Tranquility Oasis by the Sea emerges as a prime choice for travelers seeking a serene getaway in Durrës, positioned just a stone's throw away from the pristine Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525855093.jpg?k=65d108f762005a00ed64bc84931b9fd714185b31e33db7accc6585cafbc35079&o=&hp=1"
+featuredImage: "/images/accommodation/tranquility-oasis-by-the-sea-525855093.jpg"
 language: en
 slug: tranquility-oasis-by-the-sea
 address: "Rr. Currila,, 2001 Durrës, Albania"

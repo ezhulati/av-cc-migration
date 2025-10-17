@@ -1,7 +1,7 @@
 ---
 title: "Maro's Guesthouse"
 description: "Maro's Guesthouse in Berat stands out as a prime choice for travelers seeking comfort and convenience in their accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482578541.jpg?k=2381f3812e981f3f0ee9efb3e1ad762882593cfffc603402f6d79ceb99858b29&o=&hp=1"
+featuredImage: "/images/accommodation/maro-s-guesthouse-482578541.jpg"
 language: en
 slug: maro-s-guesthouse
 address: "Rruga Stiliano Bandilli, 5001 Berat, Albania"

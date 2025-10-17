@@ -1,7 +1,7 @@
 ---
 title: "Sunny Day´s Apartment"
 description: "Sunny Day's Apartment emerges as a serene retreat in the heart of Golem, merely a stone's throw away from the pristine Golem Beach and a short stroll from the captivating Shkëmbi i Kavajës Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473232384.jpg?k=feeea1a830e78b45f8bc4cb345867a5fadeebfa55593a9a42c182a47799926cc&o=&hp=1"
+featuredImage: "/images/accommodation/sunny-day-s-apartment-473232384.jpg"
 language: en
 slug: sunny-day-s-apartment
 address: "Rruga Korça, Golem, Albania"

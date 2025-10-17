@@ -1,7 +1,7 @@
 ---
 title: "1 Bedroom Apartment with Fast Internet and Sea View Balcony in Durres"
 description: "Discover the charm of Durrës from the comfort of a modern 1 Bedroom Apartment, boasting fast internet and a balcony with stunning sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/238236116.jpg?k=5431487cdea1372ac5ee9bf9159a1d4b9396fa376478a906246a9afd782304d5&o=&hp=1"
+featuredImage: "/images/accommodation/1-bedroom-apartment-with-fast-internet-and-sea-view-balcony-in-durres-238236116.jpg"
 language: en
 slug: 1-bedroom-apartment-with-fast-internet-and-sea-view-balcony-in-durres
 address: "Rruga Pavaresia, 2000 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "✦ The Muse Apartment II"
 description: "The Muse Apartment II emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402023027.jpg?k=983a2372bcb50401be8b85b61fe675f8219b037a8d09232c799f25f978313777&o=&hp=1"
+featuredImage: "/images/accommodation/the-muse-apartment-ii-402023027.jpg"
 language: en
 slug: the-muse-apartment-ii
 address: "Rruga Marko Boçari, Tirana, Albania"

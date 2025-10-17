@@ -1,7 +1,7 @@
 ---
 title: "Golden View Residence"
 description: "Golden View Residence, a distinguished 4-star hotel in Dhërmi, stands out for its exceptional amenities, including a seasonal outdoor swimming pool and meticulously maintained garden."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74981708.jpg?k=74f7b5ac65b33d4e69c70d16e1588358b6f0ef5cc07f41e8372a4865510cb489&o=&hp=1"
+featuredImage: "/images/accommodation/golden-view-residence-74981708.jpg"
 language: en
 slug: golden-view-residence
 address: "Dhermi, 9422 Dhërmi, Albania"

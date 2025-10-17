@@ -1,7 +1,7 @@
 ---
 title: "Kruja Albergo Diffuso , Inside Kruja Castle"
 description: "Kruja Albergo Diffuso, Inside Kruja Castle, emerges as a distinctive choice for travelers seeking a blend of history and comfort in Krujë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481503987.jpg?k=83cae0695ef115040d49b047b03d14bf3aba8158982b9350d8d718a8837b14be&o=&hp=1"
+featuredImage: "/images/accommodation/kruja-albergo-diffuso-inside-kruja-castle-481503987.jpg"
 language: en
 slug: kruja-albergo-diffuso-inside-kruja-castle
 address: "Rruga Kala, 1501 Krujë, Albania"

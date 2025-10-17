@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Vlore-Lungomare"
 description: "Apartment in Vlore-Lungomare emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian Riviera."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476459654.jpg?k=0c99db5f55ff51e3b58026e237aa274a330d57920feb21ef227aa56703970d2e&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-in-vlore-lungomare-476459654.jpg"
 language: en
 slug: apartment-in-vlore-lungomare
 address: "Rruga Aristill Kokoshi, 9404 Vlorë, Albania"

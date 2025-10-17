@@ -1,7 +1,7 @@
 ---
 title: "Elegance Boutique Hotel"
 description: "Located in the heart of Korçë, just a stone's throw away from the serene Ohrid Lake Springs, the Elegance Boutique Hotel stands out for its sophisticated charm and modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450309847.jpg?k=9af4a4559f281e1e482898f5c632ee65dc8a2a84e93e1edf72310c8d458ab226&o=&hp=1"
+featuredImage: "/images/accommodation/elegance-boutique-hotel-450309847.jpg"
 language: en
 slug: elegance-boutique-hotel
 address: "Rruga Nuçi Naçi, 7002 Korçë, Albania"

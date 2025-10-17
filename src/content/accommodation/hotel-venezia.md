@@ -1,7 +1,7 @@
 ---
 title: "Hotel Venezia"
 description: "Hotel Venezia stands out as a prime choice for travelers seeking comfort and convenience in Durrës, located just 9 km from the bustling Port of Durres."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/70551157.jpg?k=a209fd88b11aeccb42db5280e09d41d0992646ced82fe06eaed44a13e8923579&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-venezia-70551157.jpg"
 language: en
 slug: hotel-venezia
 address: "Beach Golem Center, 2504 Golem, Albania"

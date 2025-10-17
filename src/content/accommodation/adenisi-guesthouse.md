@@ -1,7 +1,7 @@
 ---
 title: "Adenisi guesthouse"
 description: "Adenisi Guesthouse, located in the serene Tropojë area of Kukës County, stands out for its comfortable accommodations complemented by complimentary private parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371322636.jpg?k=1f7e3d60cf918011a981b65120a68483dd2562b3786de59294e52b64aab5847a&o=&hp=1"
+featuredImage: "/images/accommodation/adenisi-guesthouse-371322636.jpg"
 language: en
 slug: adenisi-guesthouse
 address: "Quku I valbones Valbona valley national park, 8702 Tropojë, Albania"

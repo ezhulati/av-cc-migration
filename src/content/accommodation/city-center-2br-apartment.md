@@ -1,7 +1,7 @@
 ---
 title: "City Center 2BR Apartment"
 description: "City Center 2BR Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417641940.jpg?k=da1ccd2153d5fa32c6f6a0ccb9c9e75eb3b99d81fad3df3bb7055cb12ea08fe7&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-2br-apartment-417641940.jpg"
 language: en
 slug: city-center-2br-apartment
 address: "4 Rruga e Durrësit 6, 1000 Tirana, Albania"

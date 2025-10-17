@@ -1,7 +1,7 @@
 ---
 title: "Tirana Square"
 description: "Tirana Square emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://graph.facebook.com/v2.9/4600977349930087/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/tirana-square-picture?type.jpg"
 language: en
 slug: tirana-square
 address: "Rruga Siri Kodra, 1000 Tirana, Albania"

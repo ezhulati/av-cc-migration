@@ -1,7 +1,7 @@
 ---
 title: "Apartment Eurocoli Rezidence"
 description: "Apartment Eurocoli Rezidence emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77922647.jpg?k=ca810eaa1636a99eaae5afa053f79b4eb161ea2a2d8119edfc442d2015e2c14b&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-eurocoli-rezidence-77922647.jpg"
 language: en
 slug: apartment-eurocoli-rezidence
 address: "Rezidenca Eurocol, Roma str. Golem, Near restaurant Viena, 1001 Golem, Albania"

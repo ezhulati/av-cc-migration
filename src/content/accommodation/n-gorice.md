@@ -1,7 +1,7 @@
 ---
 title: "N'Gorice"
 description: "N'Gorice emerges as a distinguished four-star retreat in the heart of Berat, offering guests a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449332771.jpg?k=b540bb751377f21d62f678bdb53dd0007b3962121a01c6fe48b9a68ad6a4d29e&o=&hp=1"
+featuredImage: "/images/accommodation/n-gorice-449332771.jpg"
 language: en
 slug: n-gorice
 address: "Rruga Jani Kosta 17, 5001 Berat, Albania"

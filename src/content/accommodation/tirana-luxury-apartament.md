@@ -1,7 +1,7 @@
 ---
 title: "Tirana Luxury Apartament"
 description: "Tirana Luxury Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497599154.jpg?k=83af245ad7ef08d9ea8e86cea8e5adcb24bc8e70eb5b29d28b9f26e6f47074dc&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-luxury-apartament-497599154.jpg"
 language: en
 slug: tirana-luxury-apartament
 address: "Rruga Ali Pashë Gucia, Tirana, Albania"

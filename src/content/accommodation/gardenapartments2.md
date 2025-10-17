@@ -1,7 +1,7 @@
 ---
 title: "GardenApartments2"
 description: "GardenApartments2 emerges as a serene oasis in the heart of Vlorë, boasting an enviable location just a stone's throw away from the pristine Vlore Beach and within easy reach of the city's must-visit beaches, Ri Beach and Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483913636.jpg?k=8bb6bb6edbbb5f34918c549a4bbcfaa771f0083b28b2f4b3483e2dd6ed2d6652&o=&hp=1"
+featuredImage: "/images/accommodation/gardenapartments2-483913636.jpg"
 language: en
 slug: gardenapartments2
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

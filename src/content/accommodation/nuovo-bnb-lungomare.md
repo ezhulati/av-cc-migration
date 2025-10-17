@@ -1,7 +1,7 @@
 ---
 title: "Nuovo bnb Lungomare"
 description: "Nuovo bnb Lungomare emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from the vibrant Ri Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtf1aIoMcltgdbFioYaEEVi7eaED7BlbCsgbDU4f9iYK7hI=s96-c64"
+featuredImage: "/images/accommodation/nuovo-bnb-lungomare-AAcHTtf1aIoM.jpg"
 language: en
 slug: nuovo-bnb-lungomare
 address: "Rruga Shaban Demiraj, Vlorë, Albania"

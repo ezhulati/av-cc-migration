@@ -1,7 +1,7 @@
 ---
 title: "Villa Nanaj"
 description: "Villa Nanaj emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451152768.jpg?k=9715f6b904178210f2968a783d02db308b244db91a81fac796dad936f5e89124&o=&hp=1"
+featuredImage: "/images/accommodation/villa-nanaj-451152768.jpg"
 language: en
 slug: villa-nanaj
 address: "Rruga Naconale Sarandë - Butrint, 9706 Ksamil, Albania"

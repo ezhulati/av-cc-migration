@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Erjon Apartments"
 description: "Jico Travel - Erjon Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/jico-travel-erjon-apartments-d321d61d78a8.jpg"
 language: en
 slug: jico-travel-erjon-apartments
 address: "Rruga Murat Tërbaçi, 9041 Vlorë, Albania"

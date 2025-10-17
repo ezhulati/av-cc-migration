@@ -1,7 +1,7 @@
 ---
 title: "Modern Flat near the Lake and Blloku"
 description: "Modern Flat near the Lake and Blloku emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgFDUJRL11A5VPN03pn0YAr3XRPKTPTbo4e2_svTlY=s96-c64"
+featuredImage: "/images/accommodation/modern-flat-near-the-lake-and-blloku-AOh14GgFDUJR.jpg"
 language: en
 slug: modern-flat-near-the-lake-and-blloku
 address: "Rruga Ndreko Rino, 1001 Tirana, Albania"

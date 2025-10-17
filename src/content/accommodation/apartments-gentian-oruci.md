@@ -1,7 +1,7 @@
 ---
 title: "Apartments Gentian Oruci"
 description: "Apartments Gentian Oruci emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447999016.jpg?k=de85a3adeac757df818b49ef36c80f32cfbb1bfc2b5374b2b893e07579c13959&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-gentian-oruci-447999016.jpg"
 language: en
 slug: apartments-gentian-oruci
 address: "SH81, 9999 Ksamil, Albania"

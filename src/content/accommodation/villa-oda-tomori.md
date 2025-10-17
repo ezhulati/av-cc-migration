@@ -1,7 +1,7 @@
 ---
 title: "Villa Oda Tomori"
 description: "Villa Oda Tomori, a distinguished 4-star guest house in Berat, offers an exceptional stay with its blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471709000.jpg?k=d46ede8f735f2ad28e1c2b784c554ddd263746c44c97bafc74f91931e6edfef7&o=&hp=1"
+featuredImage: "/images/accommodation/villa-oda-tomori-471709000.jpg"
 language: en
 slug: villa-oda-tomori
 address: "Lagjia Kala, 5000 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SunsetView Apartment"
 description: "SunsetView Apartment emerges as a serene retreat in the vibrant heart of Sarandë, a mere stone's throw from the pristine Saranda City Beach and a short drive from the tranquil La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484298007.jpg?k=f320c041eb6af4a1917f4c1b3cc8996b5aee022acafd1bae9f7ad66bfb15bfb8&o=&hp=1"
+featuredImage: "/images/accommodation/sunsetview-apartment-484298007.jpg"
 language: en
 slug: sunsetview-apartment
 address: "85 Rruga Mitat Hoxha 5, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Fieri International Hotel"
 description: "Fieri International Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Fier, located just 37 km away from the historic Independence Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108197297.jpg?k=811221de3e7e1b73a20ac0a127f188be2ee6208a7f504c09274797d05d1eafec&o=&hp=1"
+featuredImage: "/images/accommodation/fieri-international-hotel-108197297.jpg"
 language: en
 slug: fieri-international-hotel
 address: "Rruga Cameria, 9300 Fier, Albania"

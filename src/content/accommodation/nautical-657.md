@@ -1,7 +1,7 @@
 ---
 title: "Nautical 657"
 description: "Nautical 657 emerges as a prime choice for travelers seeking a serene beachfront retreat in Durrës, mere steps away from the inviting sands of Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434320467.jpg?k=6311fbfe494abb1ebb58eda998d97d13601049e6c6ec1f2bd8c90717c33d0269&o=&hp=1"
+featuredImage: "/images/accommodation/nautical-657-434320467.jpg"
 language: en
 slug: nautical-657
 address: "8F7G+F4P, 2001 Durrës, Albania"

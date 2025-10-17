@@ -1,7 +1,7 @@
 ---
 title: "The White Villa"
 description: "Discover the elegance and modern comfort of The White Villa, a beautifully renovated retreat located in the serene town of Shirokë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526452614.jpg?k=7b44970e618be13def9df50b6bcecc320d0f0ce488a199e6c2798810ec77f654&o=&hp=1"
+featuredImage: "/images/accommodation/the-white-villa-526452614.jpg"
 language: en
 slug: the-white-villa
 address: "Rruga e Selvijave, Shirokë, Albania"

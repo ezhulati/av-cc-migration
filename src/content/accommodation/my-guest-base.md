@@ -1,7 +1,7 @@
 ---
 title: "My Guest Base"
 description: "My Guest Base stands out as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511573943.jpg?k=3bca3046d8bbee50b3cb41dbdead23870cb50f5162073cef5ba2451489ac5af8&o=&hp=1"
+featuredImage: "/images/accommodation/my-guest-base-511573943.jpg"
 language: en
 slug: my-guest-base
 address: "Rruga Henrik Lacaj, 1050 Tirana, Albania"

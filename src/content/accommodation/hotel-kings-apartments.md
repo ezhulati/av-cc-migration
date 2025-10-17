@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kings Apartments"
 description: "Hotel Kings Apartments emerges as a distinguished choice for travelers seeking comfort and convenience, located just 45 km from the historic Visoki Dečani Monastery."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202242327.jpg?k=30443da0373d528ff42210712ded124143d536cf2de01f138301d660f9f32652&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-kings-apartments-202242327.jpg"
 language: en
 slug: hotel-kings-apartments
 address: "Rruga Sylejman Vokshi 2nd Floor, 8702 Bajram Curri, Albania"

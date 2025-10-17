@@ -1,7 +1,7 @@
 ---
 title: "Albanian Gem in Kuçovë"
 description: "Albanian Gem in Kuçovë emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Kuçovë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517198683.jpg?k=487b1e89a93ca17876f98d605e978503fabd8dcf3f80a70a075622abf2375764&o=&hp=1"
+featuredImage: "/images/accommodation/albanian-gem-in-ku-ov-517198683.jpg"
 language: en
 slug: albanian-gem-in-ku-ov
 address: "Rruga e Zogallareve, 5300 Kuçovë, Albania"

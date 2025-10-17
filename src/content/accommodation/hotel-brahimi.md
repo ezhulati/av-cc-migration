@@ -1,7 +1,7 @@
 ---
 title: "Hotel Brahimi"
 description: "Hotel Brahimi stands as a serene retreat in the heart of Gjirokastër, a mere 44 km from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254022207.jpg?k=4a74f6d17baf499e04974f58bcd9cf2ababca0acb96ab8a57231bd5dedb64d54&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-brahimi-254022207.jpg"
 language: en
 slug: hotel-brahimi
 address: "Dunavat Rruga Ago Topulli, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pine apartments"
 description: "Pine Apartments emerges as a serene retreat in Golem, boasting an enviable location mere steps from the tranquil Mali I Robit Beach and a short stroll from the vibrant Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375414482.jpg?k=96349c357ab87f8f870e8db802578a3654a25278ff6e0bf8deaddee84024cc2a&o=&hp=1"
+featuredImage: "/images/accommodation/pine-apartments-375414482.jpg"
 language: en
 slug: pine-apartments
 address: "Rruga Skënderbeu, 2504 Golem, Albania"

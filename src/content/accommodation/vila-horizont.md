@@ -1,7 +1,7 @@
 ---
 title: "Vila Horizont"
 description: "Vila Horizont emerges as a prime choice for travelers seeking a serene beachfront escape, complete with panoramic sea views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473877093.jpg?k=8ff839ea89b040693b30b33cdea0e6381c16bd8e65f668f2ab420f148706a092&o=&hp=1"
+featuredImage: "/images/accommodation/vila-horizont-473877093.jpg"
 language: en
 slug: vila-horizont
 address: "Rruga Baks Rrjoll, 4020 Baks-Rrjoll, Albania"

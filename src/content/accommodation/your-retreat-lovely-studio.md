@@ -1,7 +1,7 @@
 ---
 title: "Your Retreat Lovely Studio"
 description: "Your Retreat Lovely Studio emerges as a prime choice for travelers seeking a serene and comfortable stay in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351976620.jpg?k=15099b0a86861ffb20fd64c9fda8cc65036901160f200f1f929861e2c26e02a2&o=&hp=1"
+featuredImage: "/images/accommodation/your-retreat-lovely-studio-351976620.jpg"
 language: en
 slug: your-retreat-lovely-studio
 address: "Rruga Xhavit Shyqyri Demneri, 1000 Tirana, Albania"

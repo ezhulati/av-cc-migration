@@ -1,7 +1,7 @@
 ---
 title: "Seafront Apartment"
 description: "Seafront Apartment in Vlorë stands out as a prime choice for travelers seeking comfort and convenience close to the Adriatic Sea."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472872453.jpg?k=1759ffdb03d6f18d5faba5f2176301cc5fbeef8a839043c117c7c197a8e71914&o=&hp=1"
+featuredImage: "/images/accommodation/seafront-apartment-472872453.jpg"
 language: en
 slug: seafront-apartment
 address: "Rruga Aristill Kokoshi, 9401 Vlorë, Albania"

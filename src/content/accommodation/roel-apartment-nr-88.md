@@ -1,7 +1,7 @@
 ---
 title: "Roel Apartment nr 88"
 description: "Roel Apartment nr 88 emerges as a prime choice for travelers seeking comfort and convenience, located just a short distance from the serene Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458387681.jpg?k=e84e13ffabcd49b03167196a72d94f11adf967dda1cdfc6b4ebf2a1598462009&o=&hp=1"
+featuredImage: "/images/accommodation/roel-apartment-nr-88-458387681.jpg"
 language: en
 slug: roel-apartment-nr-88
 address: "Rruga Mateo Matathia, Vlorë, Albania"

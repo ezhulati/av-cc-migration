@@ -1,7 +1,7 @@
 ---
 title: "Hotel Zverneci"
 description: "Hotel Zverneci stands as a beacon of comfort and convenience, offering guests a unique 3-star beachfront experience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220245800.jpg?k=dcfeb928be84dc51f2e228a6bf550ab49c415461aa6caf7a5a3a0632c35fd811&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-zverneci-220245800.jpg"
 language: en
 slug: hotel-zverneci
 address: "Rruga shehaj ,Zvernec, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "T2 city apartments"
 description: "T2 City Apartments emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374727660.jpg?k=14162d4b8583f480882e0fe2a7de719590a3352eeaa1888a5b7a72d8597b273e&o=&hp=1"
+featuredImage: "/images/accommodation/t2-city-apartments-374727660.jpg"
 language: en
 slug: t2-city-apartments
 address: "Rruga David Selanicasi, 9401 Vlorë, Albania"

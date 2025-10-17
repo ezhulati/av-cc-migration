@@ -1,7 +1,7 @@
 ---
 title: "Apartments PANORAMA"
 description: "Apartments PANORAMA emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404695329.jpg?k=dae331b8e9ba2e90f3d4ca241b85945964a6fef5b84acdd5ec44cc9a94d641cc&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-panorama-404695329.jpg"
 language: en
 slug: apartments-panorama
 address: "Rruga Taulantia 13th floor, 2001 Durrës, Albania"

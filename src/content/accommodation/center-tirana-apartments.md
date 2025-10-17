@@ -1,7 +1,7 @@
 ---
 title: "Center Tirana Apartments"
 description: "Center Tirana Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://lh3.googleusercontent.com/a/AGNmyxaEfsRKXbtlibfI13oEOKZz_0Ji2SIQsBbxoWS7m_U=s96-c64"
+featuredImage: "/images/accommodation/center-tirana-apartments-AGNmyxaEfsRK.jpg"
 language: en
 slug: center-tirana-apartments
 address: "Rruga Gjon Buzuku, 1015 Tirana, Albania"

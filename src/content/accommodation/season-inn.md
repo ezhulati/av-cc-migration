@@ -1,7 +1,7 @@
 ---
 title: "Season Inn"
 description: "Season Inn, situated in the quaint village of Gjilekë and merely 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478657642.jpg?k=eebf159aa8af36dad4c03abdedd6d1006fe5c5488f9a6f0b30dcdcf0a2d7e9f6&o=&hp=1"
+featuredImage: "/images/accommodation/season-inn-478657642.jpg"
 language: en
 slug: season-inn
 address: "Perivoll, 9422 Dhërmi, Albania"

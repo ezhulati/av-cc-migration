@@ -1,7 +1,7 @@
 ---
 title: "Apartments Athina Orikum"
 description: "Apartments Athina Orikum emerges as a charming retreat in the heart of Orikum, a stone's throw away from the serene Nettuno Beach and merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523646903.jpg?k=4a98ab57353b988b0f2c4ca62afdf21fe668dde45e740b1662eea9c8f141199e&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-athina-orikum-523646903.jpg"
 language: en
 slug: apartments-athina-orikum
 address: "Luigj Gurakuqi 8, 9426 Orikum, Albania"

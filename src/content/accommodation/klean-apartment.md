@@ -1,7 +1,7 @@
 ---
 title: "KleaNì Apartment"
 description: "KleaNì Apartment emerges as a serene retreat in Durrës, boasting a prime location that combines convenience with tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493747520.jpg?k=a19c562c4348cfe35a76578c96488723bd71a57fbb30b346786466834d3d698a&o=&hp=1"
+featuredImage: "/images/accommodation/klean-apartment-493747520.jpg"
 language: en
 slug: klean-apartment
 address: "Rruga Kopshtet e Alkinojit, 2009 Durrës, Albania"

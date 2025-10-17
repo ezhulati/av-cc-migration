@@ -1,7 +1,7 @@
 ---
 title: "Twins Apartment"
 description: "Twins Apartment emerges as a prime choice for travelers seeking comfort and convenience in Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489542169.jpg?k=259eec72fef900214c04db327307b8810d64c87e7fb635b9091644e1f58ad30e&o=&hp=1"
+featuredImage: "/images/accommodation/twins-apartment-489542169.jpg"
 language: en
 slug: twins-apartment
 address: "Rruga Vasil Laska Permet, Albania 1, 6401 Përmet, Albania"

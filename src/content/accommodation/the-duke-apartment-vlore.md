@@ -1,7 +1,7 @@
 ---
 title: "The Duke Apartment Vlore"
 description: "Discover the charm of Vlorë with a stay at The Duke Apartment Vlore, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487110499.jpg?k=526bbe8d434724b64b82b191a4aac4e9bc1916cc23fdf6848102610a56ffa3f2&o=&hp=1"
+featuredImage: "/images/accommodation/the-duke-apartment-vlore-487110499.jpg"
 language: en
 slug: the-duke-apartment-vlore
 address: "Rruga Ate Kristo Negovani 1, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "House 1960"
 description: "House 1960 emerges as a serene retreat in Lin, boasting picturesque views of both the mountains and the lake, a mere 28 km from the enchanting Ohrid Lake Springs and 36 km from the historic Early Christian Basilica."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380129671.jpg?k=38d2d7256fe067b68e377d2c186a049f93a22b4c2013181dfc9c993a17a8f265&o=&hp=1"
+featuredImage: "/images/accommodation/house-1960-380129671.jpg"
 language: en
 slug: house-1960
 address: "Rruga e Linit 111, 7305 Lin, Albania"

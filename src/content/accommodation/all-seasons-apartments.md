@@ -1,7 +1,7 @@
 ---
 title: "All Seasons Apartments"
 description: "All Seasons Apartments emerges as a serene retreat offering a blend of comfort and convenience, located approximately 49 km from the bustling Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199044960.jpg?k=bf49f7f8016d7e33baec134ba5bc0ad3d813d0905525d017add6cf536236e241&o=&hp=1"
+featuredImage: "/images/accommodation/all-seasons-apartments-199044960.jpg"
 language: en
 slug: all-seasons-apartments
 address: "Lek Dukagjini, 4001 Shkodër, Albania"

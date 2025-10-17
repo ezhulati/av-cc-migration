@@ -1,7 +1,7 @@
 ---
 title: "Petro apartment KORCE"
 description: "Petro Apartment KORCE emerges as a serene haven for travelers seeking both tranquility and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232277080.jpg?k=f2670db9d1024cfb6f0b5c9132a06271f4ac4eabacc7147db56f54d4cec5a0a4&o=&hp=1"
+featuredImage: "/images/accommodation/petro-apartment-korce-232277080.jpg"
 language: en
 slug: petro-apartment-korce
 address: "Rruga Anastas Lakce Nd 16. H 5. Apartment 3, 7001 Korçë, Albania"

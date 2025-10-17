@@ -1,7 +1,7 @@
 ---
 title: "Tirana center apartament"
 description: "Tirana Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487834563.jpg?k=204feb58c973c1925f80b2956c590963ba571e7f3baf69995ccd32439354256b&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-center-apartament-487834563.jpg"
 language: en
 slug: tirana-center-apartament
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cozy Chef's apartment"
 description: "Discover the charm of Shkodër from the comfort of the Cozy Chef's Apartment, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477134006.jpg?k=db2c0b2ad783bcfd7c75b0be7fb0d8de3457f40194e4504953af8b51c857a4fc&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-chef-s-apartment-477134006.jpg"
 language: en
 slug: cozy-chef-s-apartment
 address: "Rruga Bardhosh Dani Foga Solution Building, 7th Floor, 4001 Shkodër, Albania"

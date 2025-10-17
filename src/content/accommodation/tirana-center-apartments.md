@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Apartments"
 description: "Tirana Center Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509390283.jpg?k=7504bd621f5f668b2886cae4548dbc8c7fd5ac26239988c9f8795622a96655e8&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-center-apartments-509390283.jpg"
 language: en
 slug: tirana-center-apartments
 address: "Rruga Qemal Stafa Apartament number A23 , floor number 6, 1001 Tirana, Albania"

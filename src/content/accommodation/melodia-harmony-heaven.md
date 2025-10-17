@@ -1,7 +1,7 @@
 ---
 title: "Melodia - Harmony Heaven"
 description: "Melodia - Harmony Heaven emerges as a gem in the realm of hospitality, having undergone a recent renovation that breathes new life into its historic walls."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484029895.jpg?k=9804e27957f6c3f17e92fc34fd87649a5ea67e0ea1459a4b514321065399c10d&o=&hp=1"
+featuredImage: "/images/accommodation/melodia-harmony-heaven-484029895.jpg"
 language: en
 slug: melodia-harmony-heaven
 address: "Rruga Isa Zhuli, 6001 Gjirokastër, Albania"

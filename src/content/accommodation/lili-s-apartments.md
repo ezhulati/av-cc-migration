@@ -1,7 +1,7 @@
 ---
 title: "Lili's Apartments"
 description: "Lili's Apartments emerges as a prime beachfront gem in Vlorë, offering guests an unparalleled blend of convenience and serenity."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481146078.jpg?k=94e8ff63977039754fee77973460c8a722bb4b6a86cd3f4197c933cdf4f2606c&o=&hp=1"
+featuredImage: "/images/accommodation/lili-s-apartments-481146078.jpg"
 language: en
 slug: lili-s-apartments
 address: "Rr. Sazani, Vlorë, Albania"

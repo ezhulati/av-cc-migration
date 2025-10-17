@@ -1,7 +1,7 @@
 ---
 title: "Oruci Apartments"
 description: "Oruci Apartments, situated in the charming town of Ksamil, presents a perfect retreat for travelers seeking the comfort of home with the convenience of hotel-like amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485512715.jpg?k=cfa3b1177c26ae1c0b89184204bcd69aebe10df375da0b87ad171d736d2c3520&o=&hp=1"
+featuredImage: "/images/accommodation/oruci-apartments-485512715.jpg"
 language: en
 slug: oruci-apartments
 address: "Rr. Tafil Buzi 11, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Apartament Sea view KORAL"
 description: "Lungomare Apartment Sea View KORAL stands as a prime choice for travelers seeking a blend of comfort and adventure right on the shores of Vlorë."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
+featuredImage: "/images/accommodation/lungomare-apartament-sea-view-koral-8ecb6dbf787b.jpg"
 language: en
 slug: lungomare-apartament-sea-view-koral
 address: "Rruga Memo Gjoleka, 9401 Vlorë, Albania"

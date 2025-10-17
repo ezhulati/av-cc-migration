@@ -1,7 +1,7 @@
 ---
 title: "Entire Apartment 2 bedroom, 1 living room, 2 bathrooms at Liqeni artificial, Tirane"
 description: "Discover the epitome of comfort and convenience at the Entire Apartment in Liqeni Artificial, Tirana, a prime choice for travelers seeking a serene retreat close to the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497571075.jpg?k=394591730f6fee9e77b3eb591e39c95c99e40539163063e9cd6af9b0dc174fad&o=&hp=1"
+featuredImage: "/images/accommodation/entire-apartment-2-bedroom-1-living-room-2-bathrooms-at-liqeni-artificial-tirane-497571075.jpg"
 language: en
 slug: entire-apartment-2-bedroom-1-living-room-2-bathrooms-at-liqeni-artificial-tirane
 address: "Rruga e Kosovarëve, 8363 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sara Beach House"
 description: "Sara Beach House emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated merely 400 meters from the pristine Liro Beach and a short stroll from the exclusive Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377782452.jpg?k=88309e0e1369b0116e159f9b1a1e587d7ee13bbf8d4f00fca8b681fbdc762c0b&o=&hp=1"
+featuredImage: "/images/accommodation/sara-beach-house-377782452.jpg"
 language: en
 slug: sara-beach-house
 address: "Rruga Uji i Ftohte, 9405 Vlorë, Albania"

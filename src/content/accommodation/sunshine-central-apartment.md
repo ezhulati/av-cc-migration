@@ -1,7 +1,7 @@
 ---
 title: "Sunshine Central Apartment"
 description: "Sunshine Central Apartment stands as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383152991.jpg?k=5758d66af7cbc909158b7142cc576e093d594f318f22b942e4339c670eb9c5a3&o=&hp=1"
+featuredImage: "/images/accommodation/sunshine-central-apartment-383152991.jpg"
 language: en
 slug: sunshine-central-apartment
 address: "Rruga Lefter Talo, Pallati 21; Shkalla 2; apt 12, 9701 Sarandë, Albania"

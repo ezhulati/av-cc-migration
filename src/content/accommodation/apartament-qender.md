@@ -1,7 +1,7 @@
 ---
 title: "Apartament Qender"
 description: "Discover the charm of Elbasan with a stay at Apartament Qender, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482743596.jpg?k=308108c21e09023b6adad85717010109404877ab2275a51f3016b6029d6fc15a&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-qender-482743596.jpg"
 language: en
 slug: apartament-qender
 address: "Rruga Mustafa Sahaci 54, Ap.10,, 3001 Elbasan, Albania"

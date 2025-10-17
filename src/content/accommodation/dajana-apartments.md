@@ -1,7 +1,7 @@
 ---
 title: "Dajana Apartments"
 description: "Dajana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299170804.jpg?k=eaa5fbb2a2bc1df55d581b86eea2207dbe157c36dc54e02823726c4aeba30825&o=&hp=1"
+featuredImage: "/images/accommodation/dajana-apartments-299170804.jpg"
 language: en
 slug: dajana-apartments
 address: "St. Butrinti, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Destiny - Cozy Apartment At Myslym Shyri"
 description: "Destiny - Cozy Apartment At Myslym Shyri emerges as a charming retreat in the heart of Tirana, offering a blend of comfort and convenience for travelers seeking an intimate experience of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466510235.jpg?k=da63765a7600010cd3868c43f47e0b6790af4498ecf4589a91c1c0741b19ebb1&o=&hp=1"
+featuredImage: "/images/accommodation/destiny-cozy-apartment-at-myslym-shyri-466510235.jpg"
 language: en
 slug: destiny-cozy-apartment-at-myslym-shyri
 address: "Rruga Muhamet Gjollesha, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Taulant"
 description: "Taulant emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428206907.jpg?k=005de63ae25ca7e5ade831bb54f1a6a8556a5a8fae406a0de350cbfc3e887251&o=&hp=1"
+featuredImage: "/images/accommodation/taulant-428206907.jpg"
 language: en
 slug: taulant
 address: "Rr Naim Frasheri ,Sarande, 9701 Sarandë, Albania"

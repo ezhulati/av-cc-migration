@@ -1,7 +1,7 @@
 ---
 title: "Lindi's Apartment 4/7"
 description: "Lindi's Apartment 4/7 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489879887.jpg?k=7e31ab87c32933a60e23732b74e79bb7f9aeb7d10fa125e08d1e47b6df7bf0e3&o=&hp=1"
+featuredImage: "/images/accommodation/lindi-s-apartment-4-7-489879887.jpg"
 language: en
 slug: lindi-s-apartment-4-7
 address: "Rruga e Kosovarëve, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest House Astrit Villi"
 description: "Guest House Astrit Villi stands as a serene retreat just a short distance from the breathtaking Theth National Park, offering travelers a unique blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381989621.jpg?k=5f3e2eaccb8984c0484beaa4dae2043a042f1d388d712129967cc40cc2f63579&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-astrit-villi-381989621.jpg"
 language: en
 slug: guest-house-astrit-villi
 address: "Rruga Gjecaj, 4002 Theth, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ksamildream"
 description: "Ksamildream emerges as a serene retreat in the heart of Ksamil, offering a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385245741.jpg?k=a9a778dab7320b69d4b3dbf5faf299c62101368f2d0d6e95dd0f25b8c3b145b3&o=&hp=1"
+featuredImage: "/images/accommodation/ksamildream-385245741.jpg"
 language: en
 slug: ksamildream
 address: "Luftinja, Ksamil, Albania"

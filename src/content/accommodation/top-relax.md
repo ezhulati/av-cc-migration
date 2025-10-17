@@ -1,7 +1,7 @@
 ---
 title: "Top Relax"
 description: "Top Relax emerges as a standout choice for travelers seeking comfort and convenience in Vlorë, offering an air-conditioned apartment that directly faces the beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355740155.jpg?k=e2f1140943f03b398bbdefc9b2ff9aa03788658d3875d67309b208b54d7c5704&o=&hp=1"
+featuredImage: "/images/accommodation/top-relax-355740155.jpg"
 language: en
 slug: top-relax
 address: "Rr. Sazani, 9401 Vlorë, Albania"

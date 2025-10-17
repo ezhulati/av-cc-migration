@@ -1,7 +1,7 @@
 ---
 title: "Berati Castle Hotel"
 description: "Berati Castle Hotel, located in the historic heart of Berat, stands out as a premier destination for travelers seeking a blend of comfort and culture."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358972488.jpg?k=270a98e23e2042a32b8b7554c101cae03146eb107cd1364f808cc67cf524f8b1&o=&hp=1"
+featuredImage: "/images/accommodation/berati-castle-hotel-358972488.jpg"
 language: en
 slug: berati-castle-hotel
 address: "Lagja Kala - Shen Triadha, 5001 Berat, Albania"

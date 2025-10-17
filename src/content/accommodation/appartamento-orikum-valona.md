@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Orikum Valona"
 description: "Appartamento Orikum Valona emerges as a prime choice for travelers seeking a serene getaway with the comfort of modern amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479893950.jpg?k=e7f64b8b523560e223e6f2badd188df9c98f696675baf4177fc6230c6d035137&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-orikum-valona-479893950.jpg"
 language: en
 slug: appartamento-orikum-valona
 address: "Rruga Orikum Primo piano, Orikum, Albania"

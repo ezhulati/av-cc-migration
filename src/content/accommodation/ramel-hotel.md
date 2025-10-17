@@ -1,7 +1,7 @@
 ---
 title: "Ramel Hotel"
 description: "Ramel Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196371759.jpg?k=2c477d9a42da88198cd2f8fa5824440e585e3e7d29d92d9f2bc19816be4d0f1b&o=&hp=1"
+featuredImage: "/images/accommodation/ramel-hotel-196371759.jpg"
 language: en
 slug: ramel-hotel
 address: "Rruga Spiro Dedja, 1000 Tirana, Albania"

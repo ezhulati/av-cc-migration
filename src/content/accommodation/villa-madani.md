@@ -1,7 +1,7 @@
 ---
 title: "Villa Madani"
 description: "Villa Madani emerges as a serene retreat, offering guests a unique blend of comfort and convenience, just a stone's throw away from the vibrant Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372774522.jpg?k=a9b774af01f1b479c6b080c1c24700bd014e57724600c5c2d52b96c0fdf9b610&o=&hp=1"
+featuredImage: "/images/accommodation/villa-madani-372774522.jpg"
 language: en
 slug: villa-madani
 address: "Rruga Bajram Curri, 2008 Durrës, Albania"

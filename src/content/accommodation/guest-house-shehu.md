@@ -1,7 +1,7 @@
 ---
 title: "Guest House Shehu"
 description: "Located in the historic heart of Berat, Guest House Shehu is a prime choice for travelers seeking a smoke-free environment."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527294721.jpg?k=162065e8fca1ed904375fa81d18ddeb0cb9282a3a543bd8ce078f50838428b7b&o=&hp=1"
+featuredImage: "/images/accommodation/guest-house-shehu-527294721.jpg"
 language: en
 slug: guest-house-shehu
 address: "Rruga Pal Golemi, Berat, Albania"

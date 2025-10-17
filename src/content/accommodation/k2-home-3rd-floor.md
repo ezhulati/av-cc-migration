@@ -1,7 +1,7 @@
 ---
 title: "K2 HOME - 3rd floor"
 description: "K2 HOME - 3rd floor emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/k2-home-3rd-floor-d3882ab9674d.jpg"
 language: en
 slug: k2-home-3rd-floor
 address: "Rruga Pavarsia, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Beach House Gjiri i Lalzit"
 description: "Beach House Gjiri i Lalzit emerges as a prime choice for travelers seeking a serene beachfront escape, located just a stone's throw away from the vibrant Skanderbeg Square at 43 km and a mere 47 km from the scenic Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302006301.jpg?k=d7b494156aff00347c164a9a7d5dbd705d52f7b95d53bd825797621762e72ce2&o=&hp=1"
+featuredImage: "/images/accommodation/beach-house-gjiri-i-lalzit-302006301.jpg"
 language: en
 slug: beach-house-gjiri-i-lalzit
 address: "Vila i5, Apartment 6, Lura 3 Complex, 2000 Mullini i Danit, Albania"

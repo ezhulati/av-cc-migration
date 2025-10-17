@@ -1,7 +1,7 @@
 ---
 title: "Studio City Center"
 description: "Studio City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493044271.jpg?k=c53ea9943cd023c5b2ec1cc11454d7e152bf4d69a5e771f72fd4363fcf230087&o=&hp=1"
+featuredImage: "/images/accommodation/studio-city-center-493044271.jpg"
 language: en
 slug: studio-city-center
 address: "Rruga Kajo Karafili, 1001 Tirana, Albania"

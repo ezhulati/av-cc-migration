@@ -1,7 +1,7 @@
 ---
 title: "Vlorë Seaview Studio Apartment & Box Garage"
 description: "Vlorë Seaview Studio Apartment & Box Garage presents an exceptional stay experience in Vlorë, perfectly positioned just a short distance from the city's iconic landmarks, Kuzum Baba and Independence Square, and merely 600 meters from the serene Ri Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199361571.jpg?k=344a045fa9a0d1ed301307cddab149309ba1428858ac8ec605fadbd4fac9e9b4&o=&hp=1"
+featuredImage: "/images/accommodation/vlor-seaview-studio-apartment-box-garage-199361571.jpg"
 language: en
 slug: vlor-seaview-studio-apartment-box-garage
 address: "Rruga Francesko Krispi, 9405 Vlorë, Albania"

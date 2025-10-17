@@ -1,7 +1,7 @@
 ---
 title: "Yellow Apartment Saranda"
 description: "Yellow Apartment Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426235893.jpg?k=1301b4afd9a18d97fa930079605b0435fe95ae97d0df8080725fea9b7706109c&o=&hp=1"
+featuredImage: "/images/accommodation/yellow-apartment-saranda-426235893.jpg"
 language: en
 slug: yellow-apartment-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

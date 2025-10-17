@@ -1,7 +1,7 @@
 ---
 title: "Vlora Lungomare Apartment, above Bar Bonaparte"
 description: "Vlora Lungomare Apartment, strategically positioned just a stone's throw away from Vlore Beach and a short stroll from Ri Beach, offers guests an exceptional stay in Vlorë with its prime beachfront location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466923025.jpg?k=07b822ff2f309e2c53f294ed1e36195ee6b52fa334d3027ce9a6ebc6426638d7&o=&hp=1"
+featuredImage: "/images/accommodation/vlora-lungomare-apartment-above-bar-bonaparte-466923025.jpg"
 language: en
 slug: vlora-lungomare-apartment-above-bar-bonaparte
 address: "Rruga Murat Tërbaçi, above Bar Bonaparte, 7th floor, Vlorë, Albania"

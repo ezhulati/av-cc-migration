@@ -1,7 +1,7 @@
 ---
 title: "Perfect location, nature and sea - SELF check-in"
 description: "Perfect Location, Nature and Sea - SELF Check-in stands out as a prime choice for travelers seeking a blend of convenience and natural beauty."
-featuredImage: "https://graph.facebook.com/v2.9/10218698626528246/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/perfect-location-nature-and-sea-self-check-in-picture?type.jpg"
 language: en
 slug: perfect-location-nature-and-sea-self-check-in
 address: "Rruga Liria, 2504 Golem, Albania"

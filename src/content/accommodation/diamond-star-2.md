@@ -1,7 +1,7 @@
 ---
 title: "DIAMOND STAR 2"
 description: "DIAMOND STAR 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481724374.jpg?k=8ac57084fd8bc38c09b7bc04a7d2becc8cf4a1e11f3b05e5305810e377a2f6ab&o=&hp=1"
+featuredImage: "/images/accommodation/diamond-star-2-481724374.jpg"
 language: en
 slug: diamond-star-2
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

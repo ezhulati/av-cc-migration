@@ -1,7 +1,7 @@
 ---
 title: "Apart Hotel Scutari"
 description: "Apart Hotel Scutari emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361151786.jpg?k=6a4ffe25c695448e0b7a89432733167068818f9eaa0936d134f6ab6cd728d214&o=&hp=1"
+featuredImage: "/images/accommodation/apart-hotel-scutari-361151786.jpg"
 language: en
 slug: apart-hotel-scutari
 address: "Rruga Arkitekt Sinani, 4001 Shkodër, Albania"

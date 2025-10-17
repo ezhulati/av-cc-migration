@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Apartment with Sea View at Kamelia Building"
 description: "Kamelia Building's Beachfront Apartment with Sea View stands as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Durrës coastline."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488542323.jpg?k=e4e2a0de79e9e4767605992614ac0e95fcc869364a42d0b90405687c225d8362&o=&hp=1"
+featuredImage: "/images/accommodation/beachfront-apartment-with-sea-view-at-kamelia-building-488542323.jpg"
 language: en
 slug: beachfront-apartment-with-sea-view-at-kamelia-building
 address: "Kamelia Resort 3, 2504 Durrës, Albania 7, 2504 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea And Sun Apartments"
 description: "Sea And Sun Apartments emerges as a prime choice for travelers seeking a beachfront haven in Sarandë, located a mere 200 meters from Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97882782.jpg?k=ac6ca29b04c05355e6b445361fd09d26946dd2ec801bfcb22bf5a2bbd1b624af&o=&hp=1"
+featuredImage: "/images/accommodation/sea-and-sun-apartments-97882782.jpg"
 language: en
 slug: sea-and-sun-apartments
 address: "Rruga Mitat Hoxha 160 HYRJA 4, 9701 Sarandë, Albania"

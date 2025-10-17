@@ -1,7 +1,7 @@
 ---
 title: "Hotel Rosa Blu"
 description: "Hotel Rosa Blu emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399101581.jpg?k=5cb4b3a5666afe9cc1fd1cc459a6868c6214771ede3328197c2be6295c76f264&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-rosa-blu-399101581.jpg"
 language: en
 slug: hotel-rosa-blu
 address: "Rruga e Kavajes, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "L'odore del mare"
 description: "L'odore del mare stands out as a serene retreat, offering guests a picturesque garden view from its spacious balcony, located just a short stroll from the pristine Vjetër Beach and under two kilometers from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492836343.jpg?k=cf667e192af7707934271ab48ef580aed849cf45f07b9a94928de14dc9e79465&o=&hp=1"
+featuredImage: "/images/accommodation/l-odore-del-mare-492836343.jpg"
 language: en
 slug: l-odore-del-mare
 address: "Rr. Sazani 4th floor , 23 number, 9401 Vlorë, Albania"

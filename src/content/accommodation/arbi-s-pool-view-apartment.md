@@ -1,7 +1,7 @@
 ---
 title: "Arbi's Pool View Apartment"
 description: "Arbi's Pool View Apartment in Golem stands out as a prime choice for travelers seeking a blend of comfort and convenience in a beachfront location."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107544339.jpg?k=318f5ac31647644dd32304c0f2261ccfe2df27b52a163da4cd158d4947db2cfd&o=&hp=1"
+featuredImage: "/images/accommodation/arbi-s-pool-view-apartment-107544339.jpg"
 language: en
 slug: arbi-s-pool-view-apartment
 address: "Rruga Mak Albania Kompleksi \"Kaltersia\"- Apartment 22-Building 6 -2 -Mali Robit, 1400 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Jasmina Apartments"
 description: "Jasmina Apartments in Ksamil stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364936406.jpg?k=8bf253a3e85ebe18f044b5fa709ac10d9a0e31045be70d0bee3142310d38d915&o=&hp=1"
+featuredImage: "/images/accommodation/jasmina-apartments-364936406.jpg"
 language: en
 slug: jasmina-apartments
 address: "Rruga Deti Jon, Market ONI, 9206 Ksamil, Albania"

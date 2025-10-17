@@ -1,7 +1,7 @@
 ---
 title: "Te Stela Resort & SPA"
 description: "Discover a hidden gem along the SH2 Motorway that links Tiranë and Durrës, where modern amenities meet leisure and relaxation at Te Stela Resort & SPA."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112277465.jpg?k=8d5b5c7b827f4b2cff79ff2e18b7a1f7e2770d55e8155a7df1de8f871ee63584&o=&hp=1"
+featuredImage: "/images/accommodation/te-stela-resort-spa-112277465.jpg"
 language: en
 slug: te-stela-resort-spa
 address: "Autostrada Tiranë - Durrës, km 7, 1000 Tirana, Albania"

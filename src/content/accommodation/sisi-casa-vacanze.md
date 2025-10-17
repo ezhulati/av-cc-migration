@@ -1,7 +1,7 @@
 ---
 title: "Sisi casa vacanze"
 description: "Sisi Casa Vacanze emerges as a charming retreat in the heart of Shkodër, Shkoder County, offering guests a serene garden setting and the convenience of complimentary WiFi accessible across the premises."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484278966.jpg?k=765b5f37b9599b55b0d66112dd3b071eef7a1131efed2e2eba4dabb7d16fbbcb&o=&hp=1"
+featuredImage: "/images/accommodation/sisi-casa-vacanze-484278966.jpg"
 language: en
 slug: sisi-casa-vacanze
 address: "Rruga Daut Borici, Shkodër, Albania"

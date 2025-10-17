@@ -1,7 +1,7 @@
 ---
 title: "2F Saranda Apartment"
 description: "Discover the charm of 2F Saranda Apartment, a gem that stands out for its breathtaking mountain views and its prime location just a stone's throw away from Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476583155.jpg?k=efdd9c3eb8fb9fb893ad503cee3818ae4f050981bc039fac079afbc6087c0422&o=&hp=1"
+featuredImage: "/images/accommodation/2f-saranda-apartment-476583155.jpg"
 language: en
 slug: 2f-saranda-apartment
 address: "Rr. Butrintit, 9701 Sarandë, Albania"

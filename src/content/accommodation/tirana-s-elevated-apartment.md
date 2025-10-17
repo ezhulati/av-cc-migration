@@ -1,7 +1,7 @@
 ---
 title: "Tirana’s Elevated Apartment"
 description: "Tirana's Elevated Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473958326.jpg?k=bcc7395e136d84b0527db8aa469d00e860280cb57e06b10a6dfd9b13bc66e035&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-s-elevated-apartment-473958326.jpg"
 language: en
 slug: tirana-s-elevated-apartment
 address: "Rruga Muhamet Deliu Floor nr 5, Apt. 23, 1001 Tirana, Albania"

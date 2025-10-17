@@ -1,7 +1,7 @@
 ---
 title: "Apartament tek Kompleksi Fishta"
 description: "Discover the charm of Velipojë with a stay at Apartament tek Kompleksi Fishta, a gem located just 100 meters from the pristine Velipoja Beach and a scenic drive from the historic Rozafa Castle Shkodra, 30 km away."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467955182.jpg?k=6d840360d3aaa155f9a557e40671716c315184115e7506aa4e4cc3b537053630&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-tek-kompleksi-fishta-467955182.jpg"
 language: en
 slug: apartament-tek-kompleksi-fishta
 address: "Kompleksi Fishta, Godina C1, Velipoje, Shkoder, Albania, 4020 Velipojë, Albania"

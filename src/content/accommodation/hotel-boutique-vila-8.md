@@ -1,7 +1,7 @@
 ---
 title: "Hotel Boutique Vila 8"
 description: "Hotel Boutique Vila 8 stands as a distinguished retreat in Durrës, a mere stone's throw away from the serene Currila Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/114001509.jpg?k=3c187fab352dd90ae127dcf24ba2d88246815acdd48757cf60f0a7e4f5dda8b6&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-boutique-vila-8-114001509.jpg"
 language: en
 slug: hotel-boutique-vila-8
 address: "Bulevardi Epidamn, Dom Nikoll Kacorri 7, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Durres Apartment Panoramic Sea"
 description: "Durres Apartment Panoramic Sea emerges as a recently updated gem, offering a unique blend of comfort and excitement in Durrës."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJxBIH6-mZenPFS8cpP9DJFedg3O-uGi9XgVJjRW=s96-c64"
+featuredImage: "/images/accommodation/durres-apartment-panoramic-sea-AATXAJxBIH6-.jpg"
 language: en
 slug: durres-apartment-panoramic-sea
 address: "Rruga Shkembi i Kavajes,8 Etage, Durrës, Albania"

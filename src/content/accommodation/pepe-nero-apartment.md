@@ -1,7 +1,7 @@
 ---
 title: "Pepe Nero Apartment"
 description: "Pepe Nero Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416574280.jpg?k=a68371d13652a3d0909006b5616179b0ef8325101be116f129a980eb0b0c3c23&o=&hp=1"
+featuredImage: "/images/accommodation/pepe-nero-apartment-416574280.jpg"
 language: en
 slug: pepe-nero-apartment
 address: "Rruga Shefqet Musaraj, 1009 Tirana, Albania"

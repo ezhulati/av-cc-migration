@@ -1,7 +1,7 @@
 ---
 title: "Rent Room 2 Rolandi Apartments"
 description: "Rent Room 2 Rolandi Apartments, situated in the scenic Korçë County region of Pogradec, offers guests a serene retreat with the convenience of modern amenities."
-featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgIyfI-sRA3bNhTaTGt4u40LiEc6JnJEgTx3G7W=s96-c64"
+featuredImage: "/images/accommodation/rent-room-2-rolandi-apartments-AOh14GgIyfI-.jpg"
 language: en
 slug: rent-room-2-rolandi-apartments
 address: "Rruga 1 Qershori, 7301 Pogradec, Albania"

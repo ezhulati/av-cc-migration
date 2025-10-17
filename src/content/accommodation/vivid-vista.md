@@ -1,7 +1,7 @@
 ---
 title: "Vivid Vista"
 description: "Vivid Vista emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491712105.jpg?k=fc18edf4eea8cb17791014ef1a090091dad3824e91313492f1760cdcd0a19f68&o=&hp=1"
+featuredImage: "/images/accommodation/vivid-vista-491712105.jpg"
 language: en
 slug: vivid-vista
 address: "Rruga Brigada VIII 17 4-th floor apartment 10, 1000 Tirana, Albania"

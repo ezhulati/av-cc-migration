@@ -1,7 +1,7 @@
 ---
 title: "Private Apartment Elbasan Historic Center"
 description: "Discover the charm of Elbasan from the comfort of Private Apartment Elbasan Historic Center, a gem situated just a stone's throw away from some of Albania's most significant landmarks."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266833626.jpg?k=51afe4da44ee3000e60e59c2a20dcd9db1183a06848cea776ee6802b0a6ca7d0&o=&hp=1"
+featuredImage: "/images/accommodation/private-apartment-elbasan-historic-center-266833626.jpg"
 language: en
 slug: private-apartment-elbasan-historic-center
 address: "Rruga Tajar Guranjaku, 3001 Elbasan, Albania"

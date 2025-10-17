@@ -1,7 +1,7 @@
 ---
 title: "David’s apartments"
 description: "David's Apartments in Hamallaj emerges as a prime choice for travelers seeking comfort and convenience in a serene setting."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471460966.jpg?k=7afdcf5fb840454b037a5b313a23ac0ee6ea1440ded52075664d526f816be61e&o=&hp=1"
+featuredImage: "/images/accommodation/david-s-apartments-471460966.jpg"
 language: en
 slug: david-s-apartments
 address: "Hamallaj-Perlat, 2012 Hamallaj, Albania"

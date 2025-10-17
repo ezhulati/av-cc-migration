@@ -1,7 +1,7 @@
 ---
 title: "Villa Nikol"
 description: "Villa Nikol emerges as a serene retreat, offering guests a unique blend of comfort and convenience with its picturesque garden views and spacious accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527344415.jpg?k=55deb40e1eaff1a4a70153af22778f84f327e3385bafd8c37e85f22b9a5238a4&o=&hp=1"
+featuredImage: "/images/accommodation/villa-nikol-527344415.jpg"
 language: en
 slug: villa-nikol
 address: "Rruga Alajdin Frasheri, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Jolly Hotel"
 description: "Jolly Hotel stands out as a prime choice for travelers seeking comfort and convenience in Lezhë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245385141.jpg?k=bf2ceff3adc5722c36cad765a69f8d09a7bb36ba2ce1326ad0f6330e18b1c92c&o=&hp=1"
+featuredImage: "/images/accommodation/jolly-hotel-245385141.jpg"
 language: en
 slug: jolly-hotel
 address: "Lagjia Beselidhja, 4502 Lezhë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Adriatik 2"
 description: "Hotel Adriatik 2 stands as a beacon of comfort and convenience, located just a stone's throw from a pristine sandy beach and a mere 10 kilometers from the vibrant heart of Durres."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19674229.jpg?k=691485889f48e668ae07868aeac89bf5a75e30284016cfb01fc7015d4d2f2561&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-adriatik-2-19674229.jpg"
 language: en
 slug: hotel-adriatik-2
 address: "Shkembi Kavajes (Golem), 2000 Durrës, Albania"

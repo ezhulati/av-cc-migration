@@ -1,7 +1,7 @@
 ---
 title: "Gardenhouse"
 description: "Gardenhouse emerges as a serene retreat for travelers seeking a blend of comfort and nature, situated a mere 13 km from the enchanting Ohrid Lake Springs and 28 km from the picturesque Bay of Bones."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483527875.jpg?k=82c7453a102e078c6cf064e1b84377b2e758b892f9597772761ff147b2f75d5d&o=&hp=1"
+featuredImage: "/images/accommodation/gardenhouse-483527875.jpg"
 language: en
 slug: gardenhouse
 address: "Xhamia Memelisht, 7003 Mëmëlisht, Albania"

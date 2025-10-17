@@ -1,7 +1,7 @@
 ---
 title: "Coastal Horizon Deluxe Apartment"
 description: "Coastal Horizon Deluxe Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473751309.jpg?k=5eb841109c97eccfcf2979ec8d9864cfd5108112f41ce6cfa7b5da8464702f77&o=&hp=1"
+featuredImage: "/images/accommodation/coastal-horizon-deluxe-apartment-473751309.jpg"
 language: en
 slug: coastal-horizon-deluxe-apartment
 address: "Rruga Shkembi i Kavajes, 2000 Durrës, Albania"

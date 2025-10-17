@@ -1,7 +1,7 @@
 ---
 title: "Oceanic Overview Suites"
 description: "Oceanic Overview Suites stands out as a premier destination for travelers seeking both luxury and serenity in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465219697.jpg?k=311d56080d5ff6c43f5a8fb98d33fd6ee686225dc15a18871b75f037781fc8dc&o=&hp=1"
+featuredImage: "/images/accommodation/oceanic-overview-suites-465219697.jpg"
 language: en
 slug: oceanic-overview-suites
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

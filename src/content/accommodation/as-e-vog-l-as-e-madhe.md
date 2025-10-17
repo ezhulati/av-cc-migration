@@ -1,7 +1,7 @@
 ---
 title: "As e vogël, As e madhe"
 description: "Discover the charm of Ersekë with a stay at As e vogël, As e madhe, a hotel that stands out for its commitment to comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471909330.jpg?k=6fd10fa07db83bf317110631883148486345460ab2b1adbc31f7073cbb2e2ac5&o=&hp=1"
+featuredImage: "/images/accommodation/as-e-vog-l-as-e-madhe-471909330.jpg"
 language: en
 slug: as-e-vog-l-as-e-madhe
 address: "Sheshi \"Rilindja\", 7401 Ersekë, Albania"

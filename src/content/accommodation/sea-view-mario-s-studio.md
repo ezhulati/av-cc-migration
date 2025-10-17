@@ -1,7 +1,7 @@
 ---
 title: "Sea View Mario's Studio"
 description: "Sea View Mario's Studio emerges as a prime choice for travelers seeking a serene getaway, strategically positioned within a stone's throw of Shëngjin Beach and a brief drive from the enchanting Laguna Park Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442047306.jpg?k=e782a16056f4700d6a6721e8e26b1067dff99a558794c5c3aefbc7e6cc32dc4c&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-mario-s-studio-442047306.jpg"
 language: en
 slug: sea-view-mario-s-studio
 address: "Shëngjin - Kune, 4503 Sakës, Albania"

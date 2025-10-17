@@ -1,7 +1,7 @@
 ---
 title: "Prestige Apartments"
 description: "Prestige Apartments emerges as a serene haven for travelers seeking both tranquility and convenience, located just 8."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491551136.jpg?k=c43a94568d6cb590316e779df0c0d4d11778a3aed100d835f4081e063cd0bf62&o=&hp=1"
+featuredImage: "/images/accommodation/prestige-apartments-491551136.jpg"
 language: en
 slug: prestige-apartments
 address: "Joy Residence Teg Second Floor, 1001 Tirana, Albania"

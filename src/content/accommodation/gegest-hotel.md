@@ -1,7 +1,7 @@
 ---
 title: "Gegest Hotel"
 description: "Gegest Hotel, located a mere 2 km from the breathtaking Theth National Park, stands as a beacon of comfort and luxury in Theth."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474207912.jpg?k=47d5b80e7b048ffb3740a2346c08c5a904a05393c67b508ec68188e71019814a&o=&hp=1"
+featuredImage: "/images/accommodation/gegest-hotel-474207912.jpg"
 language: en
 slug: gegest-hotel
 address: "Rruga Nikgjonaj, 4009 Theth, Albania"

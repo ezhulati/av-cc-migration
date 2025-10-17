@@ -1,7 +1,7 @@
 ---
 title: "Edjon Apartments"
 description: "Edjon Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/edjon-apartments-0e43c9b9a23d.jpg"
 language: en
 slug: edjon-apartments
 address: "Rruga Abdyl Frashëri, 1003 Tirana, Albania"

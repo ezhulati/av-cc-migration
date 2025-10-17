@@ -1,7 +1,7 @@
 ---
 title: "Iart Residence"
 description: "Iart Residence, located in the serene town of Shirokë and a mere 50 km from the Port of Bar, presents an idyllic retreat for those seeking tranquility by the lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491037558.jpg?k=6e4ba43d36b98b0ebbacaf43f629af5d6b4f5aabf4c190f27df76c48132efab2&o=&hp=1"
+featuredImage: "/images/accommodation/iart-residence-491037558.jpg"
 language: en
 slug: iart-residence
 address: "Rruga e Selvijave, Shirokë, Albania"

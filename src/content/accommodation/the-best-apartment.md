@@ -1,7 +1,7 @@
 ---
 title: "THE BEST APARTMENT"
 description: "Discover the epitome of comfort and convenience at THE BEST APARTMENT, a prime choice for travelers seeking a unique stay in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374391712.jpg?k=cc0d13ed3f520d798a509850030785d8f9e6ae2790c55b9ddca73122a5a72181&o=&hp=1"
+featuredImage: "/images/accommodation/the-best-apartment-374391712.jpg"
 language: en
 slug: the-best-apartment
 address: "Lagjja: 29 Nentori, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Komatas Modern Apartments in Bllok Area"
 description: "Komatas Modern Apartments in the vibrant Bllok Area stands out as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332042952.jpg?k=3d5d113dcc258a80e4d78b00f98519dfc6be58d7a501b2e0595812e2c5f15d03&o=&hp=1"
+featuredImage: "/images/accommodation/komatas-modern-apartments-in-bllok-area-332042952.jpg"
 language: en
 slug: komatas-modern-apartments-in-bllok-area
 address: "Rruga Nikolla Tupe, 1001 Tirana, Albania"

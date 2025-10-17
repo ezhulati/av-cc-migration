@@ -1,7 +1,7 @@
 ---
 title: "Vila Deda"
 description: "Vila Deda emerges as a serene oasis in Lezhë, a stone's throw away from the enchanting Tale Beach and within a comfortable distance of the historic Rozafa Castle Shkodra."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTteDcY2mlP7yBgkV8_a6U1wHS6c0tYruYuqxwGoaQoYO=s96-c64"
+featuredImage: "/images/accommodation/vila-deda-AAcHTteDcY2m.jpg"
 language: en
 slug: vila-deda
 address: "ABAT DOCI 03160011; Nd. 10; H. 1; SHËNKOLL; GRYKË-LUMI; 4509; LEZHË, 4509 Lezhë, Albania"

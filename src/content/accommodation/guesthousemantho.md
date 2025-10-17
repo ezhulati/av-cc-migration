@@ -1,7 +1,7 @@
 ---
 title: "GuestHouseMantho"
 description: "Discover the charm of Gjirokastër with a stay at GuestHouseMantho, a serene haven located just 43 km from the tranquil Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502436100.jpg?k=375f95359da2bdccf306c2256fbb661ff4806d15bd74301158f7f05a60905b9b&o=&hp=1"
+featuredImage: "/images/accommodation/guesthousemantho-502436100.jpg"
 language: en
 slug: guesthousemantho
 address: "Rruga Ndërtuesi, 6002 Gjirokastër, Albania"

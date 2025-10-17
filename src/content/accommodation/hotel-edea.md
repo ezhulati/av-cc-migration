@@ -1,7 +1,7 @@
 ---
 title: "Hotel EDEA"
 description: "Hotel EDEA stands out as a premier destination for travelers seeking comfort and convenience in Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157103421.jpg?k=a2c66154909bdea6590ad88090e3f3c2fefe1ba7271c5261f1413d0a1fb7f0ff&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-edea-157103421.jpg"
 language: en
 slug: hotel-edea
 address: "Rruga Nacionale Korce -Tirane km 1 Rruga Nacionale Korce -Tirane km 1, 7001 Korçë, Albania"

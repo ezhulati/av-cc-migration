@@ -1,7 +1,7 @@
 ---
 title: "Perla Marina"
 description: "Perla Marina emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, positioned just a short stroll from Ri Beach and within easy reach of Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520309861.jpg?k=ec967c4d021839e747153aa418ad1dc1a763d4a3dadbf9ea9f87c81348cf1e83&o=&hp=1"
+featuredImage: "/images/accommodation/perla-marina-520309861.jpg"
 language: en
 slug: perla-marina
 address: "Rruga Mehmet Agalliu, 9401 Vlorë, Albania"

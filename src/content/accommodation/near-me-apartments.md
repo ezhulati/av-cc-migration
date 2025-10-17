@@ -1,7 +1,7 @@
 ---
 title: "Near Me Apartments"
 description: "Near Me Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525187143.jpg?k=7cdb3295475aeb96c4fc0a5fb9a7620279602682e811e7331605feb718153dba&o=&hp=1"
+featuredImage: "/images/accommodation/near-me-apartments-525187143.jpg"
 language: en
 slug: near-me-apartments
 address: "Rruga Pjetër Bogdani, 1001 Tirana, Albania"

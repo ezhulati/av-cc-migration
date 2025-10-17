@@ -1,7 +1,7 @@
 ---
 title: "Marina Premium Hotel- Residences"
 description: "Marina Premium Hotel-Residences stands as a beacon of comfort and convenience in Vlorë, offering guests a unique blend of modern amenities and breathtaking mountain views."
-featuredImage: "https://graph.facebook.com/v2.9/10208261527394012/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/marina-premium-hotel-residences-picture?type.jpg"
 language: en
 slug: marina-premium-hotel-residences
 address: "Rruga Haziz Xhyherri - Lungomare Akademia e Marines- Ndertesa 8, Hyrja 5, Apartamenti 21, 9406 Vlorë, Albania"

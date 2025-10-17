@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment by Vlora Office"
 description: "Sea View Apartment by Vlora Office emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503199426.jpg?k=64ca87e24668b93f895ea35c9302895b372d682f72024662f6bbe98f4107d22c&o=&hp=1"
+featuredImage: "/images/accommodation/sea-view-apartment-by-vlora-office-503199426.jpg"
 language: en
 slug: sea-view-apartment-by-vlora-office
 address: "Rruga Murat Tërbaçi, 9403 Vlorë, Albania"

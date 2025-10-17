@@ -1,7 +1,7 @@
 ---
 title: "Argen Apartment"
 description: "Argen Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512630116.jpg?k=72b1968dd6859e1b41b9f435054a932ca910c8df71031c4f103e1c4b68a52901&o=&hp=1"
+featuredImage: "/images/accommodation/argen-apartment-512630116.jpg"
 language: en
 slug: argen-apartment
 address: "Rruga e Barrikadave, Tirana, Albania"

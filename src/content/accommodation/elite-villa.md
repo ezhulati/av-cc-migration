@@ -1,7 +1,7 @@
 ---
 title: "Elite Villa"
 description: "Elite Villa emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Mjull-Bathore."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513797149.jpg?k=e52d2875ad53b258319f78eb329d02fb451767ce8187ce3e0dd3434ca96909d3&o=&hp=1"
+featuredImage: "/images/accommodation/elite-villa-513797149.jpg"
 language: en
 slug: elite-villa
 address: "Rruga Xhaferr Shaba, 1045 Mjull-Bathore, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Centre Hostel Sarande"
 description: "Centre Hostel Sarande emerges as a prime choice for travelers seeking comfortable and convenient lodging in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495802002.jpg?k=70ef31ce537458dfda1b2b73098fdd7714058e48ada98c211764fee3dd673ded&o=&hp=1"
+featuredImage: "/images/accommodation/centre-hostel-sarande-495802002.jpg"
 language: en
 slug: centre-hostel-sarande
 address: "84 Rruga Lefter Talo, 9701 Sarandë, Albania"

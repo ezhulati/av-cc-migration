@@ -1,7 +1,7 @@
 ---
 title: "Wild River Guesthouse"
 description: "Wild River Guesthouse emerges as a serene retreat in the heart of Përmet, Gjirokastër County, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486750745.jpg?k=a04d8b6879d52e3cd829215850cf20987de13f80f98c8164efccf37a3ffa62f7&o=&hp=1"
+featuredImage: "/images/accommodation/wild-river-guesthouse-486750745.jpg"
 language: en
 slug: wild-river-guesthouse
 address: "Piskovë, Përmet, 6401 Përmet, Albania"

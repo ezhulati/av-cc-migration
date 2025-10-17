@@ -1,7 +1,7 @@
 ---
 title: "Garden Lake Camping"
 description: "Garden Lake Camping, situated a mere stone's throw away from the pristine shores of Ksamil Beach, emerges as a serene retreat for travelers seeking both adventure and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484757647.jpg?k=212e3a6ef89546e3bcc25ba90601881af17c7ce3790bb0b37aff6d9ec20115fe&o=&hp=1"
+featuredImage: "/images/accommodation/garden-lake-camping-484757647.jpg"
 language: en
 slug: garden-lake-camping
 address: "Rruga Peshkatari, 9706 Ksamil, Albania"

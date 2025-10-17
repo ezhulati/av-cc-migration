@@ -1,7 +1,7 @@
 ---
 title: "Apartment Centre View New Bazaar"
 description: "Apartment Centre View New Bazaar emerges as a modern retreat in the heart of Tirana, offering a seamless blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434716289.jpg?k=0a58912b59e887ea51374c03cf2f37f508c08c31d33e745d3a095e059d904238&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-centre-view-new-bazaar-434716289.jpg"
 language: en
 slug: apartment-centre-view-new-bazaar
 address: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely one bedroom studio in Tirana"
 description: "Discover the charm of Tirana with a stay at the Lovely one-bedroom studio, perfectly positioned just a short distance from the city's vibrant heart, Skanderbeg Square, and within easy reach of the breathtaking Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332100100.jpg?k=bff55bceda2b66bf6879574ee4e1ec365a8bf21f10e66ffc4f26ccb200a3b8a7&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-one-bedroom-studio-in-tirana-332100100.jpg"
 language: en
 slug: lovely-one-bedroom-studio-in-tirana
 address: "Rruga Shefqet Musaraj, Building nb 24, Entrance 1, 8th floor, App nb. 23, 1001 Tirana, Albania"

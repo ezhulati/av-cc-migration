@@ -1,7 +1,7 @@
 ---
 title: "Potami Apartment - 50 mt from the beach"
 description: "Potami Apartment stands out as a prime choice for travelers seeking the perfect blend of convenience and comfort, just a stone's throw away from the serene Potam Beach."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtcDkOrGtyG01mLeng-a-d6Mv3D_4ghxo0gnapqm=s96-c64"
+featuredImage: "/images/accommodation/potami-apartment-50-mt-from-the-beach-AAcHTtcDkOrG.jpg"
 language: en
 slug: potami-apartment-50-mt-from-the-beach
 address: "Himare, Himare, Albania"

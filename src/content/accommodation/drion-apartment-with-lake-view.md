@@ -1,7 +1,7 @@
 ---
 title: "Drion Apartment with lake view"
 description: "Drion Apartment stands as a serene beachfront haven in Pogradec, offering breathtaking views of the surrounding mountains and the tranquil Ohrid Lake, located just 7."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487342514.jpg?k=4c4c556a5d59c976b32a0bd2e1a5aadd37f0dd626ab08347e11cb5353cbbc228&o=&hp=1"
+featuredImage: "/images/accommodation/drion-apartment-with-lake-view-487342514.jpg"
 language: en
 slug: drion-apartment-with-lake-view
 address: "rruga Mendu zavalani, 7301 Pogradec, Albania"

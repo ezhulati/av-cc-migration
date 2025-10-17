@@ -1,7 +1,7 @@
 ---
 title: "Vintage and warm 2BR apartament in Tirana"
 description: "Discover the charm of Tirana with a stay at the Vintage and Warm 2BR Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434449946.jpg?k=58d0b9f6b33c4c9d0e112471f7d2877a74ca85d553ea42b97a33a33a55f360ff&o=&hp=1"
+featuredImage: "/images/accommodation/vintage-and-warm-2br-apartament-in-tirana-434449946.jpg"
 language: en
 slug: vintage-and-warm-2br-apartament-in-tirana
 address: "Rruga Ibrahim Rugova, Tirana, Albania"

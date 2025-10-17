@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Arbri"
 description: "Hotel Vila Arbri emerges as a charming retreat in the heart of Berat, boasting a serene garden that immediately sets the tone for a tranquil stay."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461693229.jpg?k=70102d81ce90035be0404ea722786d5b52e147a75e4747883ed141452056261a&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-arbri-461693229.jpg"
 language: en
 slug: hotel-vila-arbri
 address: "Rruga Thoma Bello, 5001 Berat, Albania"

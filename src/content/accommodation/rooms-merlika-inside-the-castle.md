@@ -1,7 +1,7 @@
 ---
 title: "Rooms Merlika -Inside the Castle-"
 description: "Rooms Merlika -Inside the Castle- emerges as a charming retreat in the heart of Krujë, just a stone's throw away from the bustling Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304495718.jpg?k=d943bb2f9b299196096590912701c3eb207694ed982191bd475f6c1a5682f711&o=&hp=1"
+featuredImage: "/images/accommodation/rooms-merlika-inside-the-castle-304495718.jpg"
 language: en
 slug: rooms-merlika-inside-the-castle
 address: "Rruga Kala, 1501 Krujë, Albania"

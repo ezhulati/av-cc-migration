@@ -1,7 +1,7 @@
 ---
 title: "Paradise Point"
 description: "Paradise Point emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, located within striking distance of the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394909904.jpg?k=b1d9cf2c37895447d6fe71a7f342efc898d427b51e48a7cc40d524691927e7a3&o=&hp=1"
+featuredImage: "/images/accommodation/paradise-point-394909904.jpg"
 language: en
 slug: paradise-point
 address: "7 Rruga 6 Deshmoret 54, 7001 Korçë, Albania"

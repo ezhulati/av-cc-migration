@@ -1,7 +1,7 @@
 ---
 title: "Aloe Vera apartments"
 description: "Aloe Vera Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143623246.jpg?k=dddd2f9e0dadaa0554ee0eb21815b33e24259aaf9152cd919b489cdac9a2a805&o=&hp=1"
+featuredImage: "/images/accommodation/aloe-vera-apartments-143623246.jpg"
 language: en
 slug: aloe-vera-apartments
 address: "Themistokli Bahima, 9701 Sarandë, Albania"

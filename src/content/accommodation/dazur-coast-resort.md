@@ -1,7 +1,7 @@
 ---
 title: "Dazur Coast Resort"
 description: "Dazur Coast Resort emerges as a premier destination for travelers seeking a blend of luxury and natural beauty in Orikum, just a stone's throw away from the serene Baro Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306338929.jpg?k=3837822345ddd467f01461e347c98232dcad6c5d4dc147945abf269e04784175&o=&hp=1"
+featuredImage: "/images/accommodation/dazur-coast-resort-306338929.jpg"
 language: en
 slug: dazur-coast-resort
 address: "SH8, 9426 Orikum, Albania"

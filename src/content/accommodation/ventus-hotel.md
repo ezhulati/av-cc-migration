@@ -1,7 +1,7 @@
 ---
 title: "Ventus Hotel"
 description: "Ventus Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/316248765.jpg?k=62ed09ad57c606f70153cea31b25b8a8d68b101cd7a80a26055bc86c043a723a&o=&hp=1"
+featuredImage: "/images/accommodation/ventus-hotel-316248765.jpg"
 language: en
 slug: ventus-hotel
 address: "Rruga Riviera, 9706 Ksamil, Albania"

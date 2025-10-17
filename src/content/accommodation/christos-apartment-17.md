@@ -1,7 +1,7 @@
 ---
 title: "Christos Apartment 17"
 description: "Christos Apartment 17 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454521674.jpg?k=77bc030f8f39a5b21cb57594d1e597bfff1bf20d2936ba8cc6eea2c6afd939ec&o=&hp=1"
+featuredImage: "/images/accommodation/christos-apartment-17-454521674.jpg"
 language: en
 slug: christos-apartment-17
 address: "128 Rruga Idriz Alidhima, 9701 Sarandë, Albania"

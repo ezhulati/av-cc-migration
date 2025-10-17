@@ -1,7 +1,7 @@
 ---
 title: "Apartments Piazza"
 description: "Apartments Piazza emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332604046.jpg?k=01ad1e76341fef84fdac53b3d1b2bc75a9b2d6be3e1bf108b9e0bd93d1db4973&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-piazza-332604046.jpg"
 language: en
 slug: apartments-piazza
 address: "Spile, 9425 Himare, Albania"

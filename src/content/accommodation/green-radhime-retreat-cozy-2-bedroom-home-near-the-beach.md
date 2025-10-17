@@ -1,7 +1,7 @@
 ---
 title: "Green Radhime Retreat - Cozy 2 Bedroom Home near the Beach"
 description: "Green Radhime Retreat emerges as a charming haven for beach lovers, situated just a stone's throw away from the pristine Radhimë Beach and a brief stroll from its namesake counterpart."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455354095.jpg?k=a80fc60b916cf6f8ed16d8f8a819841f291ed0a93becf8088c2f5d3d8a2bf1a8&o=&hp=1"
+featuredImage: "/images/accommodation/green-radhime-retreat-cozy-2-bedroom-home-near-the-beach-455354095.jpg"
 language: en
 slug: green-radhime-retreat-cozy-2-bedroom-home-near-the-beach
 address: "Rruga Numan Bilani Radhimë, 9400, Albania, 9400 Vlorë, Albania"

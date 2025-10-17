@@ -1,7 +1,7 @@
 ---
 title: "Turisalba"
 description: "Turisalba emerges as a serene oasis in Ishëm, situated a mere 37 km away from the historic Skanderbeg Square, offering a unique blend of comfort and scenic beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403403729.jpg?k=3c7fb4fda72be43dc28e46533b9310025b1ab0a15ebb973c0a4fc4b61f622ad7&o=&hp=1"
+featuredImage: "/images/accommodation/turisalba-403403729.jpg"
 language: en
 slug: turisalba
 address: "Kertushaj 20, 2015 Ishëm, Albania"

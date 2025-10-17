@@ -1,7 +1,7 @@
 ---
 title: "Apartments Fabio"
 description: "Apartments Fabio emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, boasting exceptional city views and the luxury of complimentary WiFi and private parking."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528133080.jpg?k=b68bcc4fe963b4c9df6bc7991d7f9952c5d68112edb427d1ac0231cf119a0d64&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-fabio-528133080.jpg"
 language: en
 slug: apartments-fabio
 address: "Rruga Hasan Tasini Ksamil, 9706 Ksamil, Albania"

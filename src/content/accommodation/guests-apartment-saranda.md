@@ -1,7 +1,7 @@
 ---
 title: "Guests Apartment Saranda"
 description: "Guests Apartment Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484314634.jpg?k=86c08fdd9a0d5cf68262e79444f33e8c05d57d6e9d444b8b445e7426ab3b36dd&o=&hp=1"
+featuredImage: "/images/accommodation/guests-apartment-saranda-484314634.jpg"
 language: en
 slug: guests-apartment-saranda
 address: "Rruga Skënderbeu 4, 9701 Sarandë, Albania"

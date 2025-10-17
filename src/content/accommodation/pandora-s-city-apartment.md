@@ -1,7 +1,7 @@
 ---
 title: "Pandora’s City Apartment"
 description: "Pandora’s City Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521483347.jpg?k=9fdf07a005a723ed835d78fc6429cda1e321473ef9acea3bc301ab522a4b389a&o=&hp=1"
+featuredImage: "/images/accommodation/pandora-s-city-apartment-521483347.jpg"
 language: en
 slug: pandora-s-city-apartment
 address: "Komleksi Kontakt, Tirane Albania, 1023 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SUNSET VIBES"
 description: "Sunset Vibes emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498450556.jpg?k=751a7200cf9123a2f08ac707309afd6ccec19696a1f809ef194521891a4d8388&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-vibes-498450556.jpg"
 language: en
 slug: sunset-vibes
 address: "Rruga Currila, 2001 Durrës, Albania"

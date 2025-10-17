@@ -1,7 +1,7 @@
 ---
 title: "Luis Apartments"
 description: "Luis Apartments emerges as a serene oasis in the vibrant city of Vlorë, boasting a prime beachfront location that effortlessly combines convenience with tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465790158.jpg?k=9ea8ceaf83b8cab02463d33b03131939afe7357ed8a51c1a7bf77785ba94ce63&o=&hp=1"
+featuredImage: "/images/accommodation/luis-apartments-465790158.jpg"
 language: en
 slug: luis-apartments
 address: "Rruga Reshat Osmani, 9401 Vlorë, Albania"

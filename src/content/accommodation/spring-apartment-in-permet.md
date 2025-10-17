@@ -1,7 +1,7 @@
 ---
 title: "Spring apartment in Permet"
 description: "Spring Apartment in Përmet stands out as a recently updated haven for travelers seeking both comfort and convenience in the heart of Përmet."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476025871.jpg?k=3776ff5d27ae011e8353fca6ea3b62d8b3072bc4abff803b4b8e4b67fccff03c&o=&hp=1"
+featuredImage: "/images/accommodation/spring-apartment-in-permet-476025871.jpg"
 language: en
 slug: spring-apartment-in-permet
 address: "Lagjja partizani, Përmet, Albania"

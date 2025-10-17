@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Nino"
 description: "Hotel Vila Nino stands out as a distinguished 3-star accommodation in the heart of Berat, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208710068.jpg?k=e9a0292a12da33a7b0b10a255805e02de20ee0046059dd2c7925c5a463223bf0&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-nino-208710068.jpg"
 language: en
 slug: hotel-vila-nino
 address: "Rruga Barjam Lila Vila Nino, 5001 Berat, Albania"

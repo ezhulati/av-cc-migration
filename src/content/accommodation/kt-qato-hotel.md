@@ -1,7 +1,7 @@
 ---
 title: "KT Qato Hotel"
 description: "KT Qato Hotel emerges as a serene oasis in Bogovë, offering a harmonious blend of comfort and convenience with its well-appointed amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371912978.jpg?k=b60895903add5be0cc13539930c58219d36540a68e9603130ac989e3bc54530d&o=&hp=1"
+featuredImage: "/images/accommodation/kt-qato-hotel-371912978.jpg"
 language: en
 slug: kt-qato-hotel
 address: "Unnamed Road, 5405 Bogovë, Albania"

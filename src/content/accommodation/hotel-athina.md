@@ -1,7 +1,7 @@
 ---
 title: "Hotel Athina"
 description: "Hotel Athina stands out as a prime choice for travelers seeking a blend of comfort and convenience in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362484638.jpg?k=4d71a7e109f9487304f48fc328b061b070e6950ccaaa6059ac8b49aba6599f6b&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-athina-362484638.jpg"
 language: en
 slug: hotel-athina
 address: "Rruga Velipoje, 4020 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Marlis' Home"
 description: "Marlis' Home emerges as a charming retreat for those seeking the tranquility of Golem's shores, just a stone's throw away from the pristine Golem Beach and a leisurely stroll from Mali I Robit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373233701.jpg?k=ba960cdd2a18b103f2f545dc98383ef844051fd27fdca602b39e5024486d53b9&o=&hp=1"
+featuredImage: "/images/accommodation/marlis-home-373233701.jpg"
 language: en
 slug: marlis-home
 address: "Rruga Plazhit A1-5, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Visi Hotel"
 description: "Vila Visi Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë, located a scenic drive away from the natural wonders of Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355838350.jpg?k=a2f929cdbc6376efcf6686200ad10e26645e23f469c7eafd195579d533b8959d&o=&hp=1"
+featuredImage: "/images/accommodation/vila-visi-hotel-355838350.jpg"
 language: en
 slug: vila-visi-hotel
 address: "Rruga Gavril Pepo, Korçë, Albania"

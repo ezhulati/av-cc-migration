@@ -1,7 +1,7 @@
 ---
 title: "Paolo's Apartaments"
 description: "Paolo's Apartments emerges as a prime choice for travelers seeking a serene getaway, situated just a stone's throw away from the pristine Prinos Beach in Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372606887.jpg?k=a539cd38b540c954433e5e0d15a09485b7b7eb4cb455a3dccb5b8a66b1a38f54&o=&hp=1"
+featuredImage: "/images/accommodation/paolo-s-apartaments-372606887.jpg"
 language: en
 slug: paolo-s-apartaments
 address: "Rruga Vangjel Zoto, 9425 Himare, Albania"

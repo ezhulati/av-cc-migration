@@ -1,7 +1,7 @@
 ---
 title: "Four Seasons Apartments"
 description: "Four Seasons Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil, just a stone's throw away from the pristine Paradise Beach."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"
+featuredImage: "/images/accommodation/four-seasons-apartments-7eb52a437de4.jpg"
 language: en
 slug: four-seasons-apartments
 address: "Rruga Riviera, Ksamil, Albania"

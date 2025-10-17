@@ -1,7 +1,7 @@
 ---
 title: "Amel Apartment"
 description: "Amel Apartment emerges as a serene retreat in the vibrant heart of Tirana, positioned just a short distance from the iconic Skanderbeg Square and the scenic Dajti Ekspres Cable Car."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481262012.jpg?k=0a99b9bb265f59f1f4256f4f0bdeacab8912ba384dfec4b1244e1dc24b5dc887&o=&hp=1"
+featuredImage: "/images/accommodation/amel-apartment-481262012.jpg"
 language: en
 slug: amel-apartment
 address: "Rruga Ndre Mjeda Kompleksi Magnet, 1001 Tirana, Albania"

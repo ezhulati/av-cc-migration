@@ -1,7 +1,7 @@
 ---
 title: "Arben doko 4"
 description: "Arben Doko 4 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522166148.jpg?k=a36be94718488fbc4c1ef8a761476e0c3477ede85420a231ba6535fe0d7ab913&o=&hp=1"
+featuredImage: "/images/accommodation/arben-doko-4-522166148.jpg"
 language: en
 slug: arben-doko-4
 address: "Rruga flamurit 51, 9701 Sarandë, Albania"

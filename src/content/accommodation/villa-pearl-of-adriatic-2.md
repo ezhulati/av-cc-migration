@@ -1,7 +1,7 @@
 ---
 title: "Villa Pearl of Adriatic 2"
 description: "Villa Pearl of Adriatic 2 emerges as a prime choice for travelers seeking a serene getaway, just a stone's throw away from the pristine Qerret Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486739202.jpg?k=813be1700a3736dcac019fe1c2e66f47a8e80f3416620a97b8f97e7a83357e44&o=&hp=1"
+featuredImage: "/images/accommodation/villa-pearl-of-adriatic-2-486739202.jpg"
 language: en
 slug: villa-pearl-of-adriatic-2
 address: "6GC5+565, 2504 Golem, Albania"

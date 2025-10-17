@@ -1,7 +1,7 @@
 ---
 title: "SALA Apartment Nr. 4"
 description: "SALA Apartment Nr."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521710330.jpg?k=e88f2c99db19e7d7f59c8aee5efa12592d93590067ff05396fd849de12222c72&o=&hp=1"
+featuredImage: "/images/accommodation/sala-apartment-nr-4-521710330.jpg"
 language: en
 slug: sala-apartment-nr-4
 address: "Rruga Lek Dukagjini, Shkodër, Albania"

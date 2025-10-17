@@ -1,7 +1,7 @@
 ---
 title: "I'M JOY"
 description: "I'M JOY emerges as a prime choice for travelers seeking a serene seafront escape in Vlorë, perfectly positioned a mere stone's throw away from the pristine Vlore Beach and the charming Vjetër Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197684351.jpg?k=ec80fe87319f17d797b950db1cba8b58621cb41972e8206887cf7b36aa0e70f1&o=&hp=1"
+featuredImage: "/images/accommodation/i-m-joy-197684351.jpg"
 language: en
 slug: i-m-joy
 address: "Rruga Çamëria Interno 5, 2° Piano, Pallati Vlora Union 10, 9402 Vlorë, Albania"

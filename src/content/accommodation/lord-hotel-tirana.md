@@ -1,7 +1,7 @@
 ---
 title: "LORD Hotel Tirana"
 description: "LORD Hotel Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Albania."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377070594.jpg?k=59196770e249c4c08e90c74fb10570686e8fbac732b7b2c10f0eb6d2fe0ddbee&o=&hp=1"
+featuredImage: "/images/accommodation/lord-hotel-tirana-377070594.jpg"
 language: en
 slug: lord-hotel-tirana
 address: "Rruga Nacionale Vore - Fushe Kruje, km 4, 1039 Tirana, Albania"

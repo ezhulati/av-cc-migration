@@ -1,7 +1,7 @@
 ---
 title: "Hani Ilos"
 description: "Hani Ilos emerges as a serene retreat, boasting breathtaking mountain views and offering a unique blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318020519.jpg?k=fb9963756b82e2177612aea9977e15f77bb7f202d8fa36d7835490fd3a175348&o=&hp=1"
+featuredImage: "/images/accommodation/hani-ilos-318020519.jpg"
 language: en
 slug: hani-ilos
 address: "Rruga Panajot Boga, 6003 Stegopul, Albania"

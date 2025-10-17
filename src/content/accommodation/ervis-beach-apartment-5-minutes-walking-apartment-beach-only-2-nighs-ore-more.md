@@ -1,7 +1,7 @@
 ---
 title: "Ervis beach apartment 5 minutes walking apartment-beach ONLY 2 NIGHS ORE MORE"
 description: "Ervis Beach Apartment emerges as a prime choice for travelers seeking a serene getaway, merely a five-minute stroll from the pristine shores of Durrës."
-featuredImage: "https://graph.facebook.com/v2.9/2807952759312352/picture?type=square&height=64&width=64"
+featuredImage: "/images/accommodation/ervis-beach-apartment-5-minutes-walking-apartment-beach-only-2-nighs-ore-more-picture?type.jpg"
 language: en
 slug: ervis-beach-apartment-5-minutes-walking-apartment-beach-only-2-nighs-ore-more
 address: "Rruga Iliria, 2008 Durrës, Albania"

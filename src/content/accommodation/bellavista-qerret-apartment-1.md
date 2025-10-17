@@ -1,7 +1,7 @@
 ---
 title: "Bellavista Qerret Apartment 1"
 description: "Bellavista Qerret Apartment 1 emerges as a recently updated gem, located just moments away from the serene Qerret Beach in Golem."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
+featuredImage: "/images/accommodation/bellavista-qerret-apartment-1-d321d61d78a8.jpg"
 language: en
 slug: bellavista-qerret-apartment-1
 address: "Rruga e Fshatrave Turistike, Golem, Albania"

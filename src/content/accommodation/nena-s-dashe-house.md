@@ -1,7 +1,7 @@
 ---
 title: "Nena’s Dashe House"
 description: "Nena's Dashe House, located in the historic heart of Berat, presents a serene retreat with its inviting terrace and commitment to a smoke-free environment."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489506459.jpg?k=fde4ae1f48361460801fa1e94659bea15812696358a931d6758d3182efc5d50d&o=&hp=1"
+featuredImage: "/images/accommodation/nena-s-dashe-house-489506459.jpg"
 language: en
 slug: nena-s-dashe-house
 address: "Rruga Veri Zaloshnja 36, 5001 Berat, Albania"

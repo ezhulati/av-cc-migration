@@ -1,7 +1,7 @@
 ---
 title: "Leonard apartment"
 description: "Leonard Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433589766.jpg?k=56555192cd8c4ef8b5844a9282aed6f28461d2e8210ed54c602bb471003b747b&o=&hp=1"
+featuredImage: "/images/accommodation/leonard-apartment-433589766.jpg"
 language: en
 slug: leonard-apartment
 address: "Rruga Dritan Hoxha, 1001 Tirana, Albania"

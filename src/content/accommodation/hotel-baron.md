@@ -1,7 +1,7 @@
 ---
 title: "Hotel Baron"
 description: "Located just 3 km from Tirana's vibrant city center, Hotel Baron offers a serene retreat amidst verdant surroundings."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181034489.jpg?k=3306529be3351cd765c33adb6f180a6c3b61c4c4fe4951725e767d85a94413ff&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-baron-181034489.jpg"
 language: en
 slug: hotel-baron
 address: "Rruga Elbasanit 274, 1003 Tirana, Albania"

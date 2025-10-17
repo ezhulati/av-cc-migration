@@ -1,7 +1,7 @@
 ---
 title: "Palm Side Hotel"
 description: "Palm Side Hotel emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë, just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465349619.jpg?k=2dc01b2647905e55ed14abaa9c33020e84ac21ea2924872f23159fb11744e890&o=&hp=1"
+featuredImage: "/images/accommodation/palm-side-hotel-465349619.jpg"
 language: en
 slug: palm-side-hotel
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

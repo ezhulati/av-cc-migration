@@ -1,7 +1,7 @@
 ---
 title: "Sina SunnyVilla"
 description: "Sina SunnyVilla emerges as a prime choice for travelers seeking a serene getaway in Vlorë, boasting a prime location that combines convenience with tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517243741.jpg?k=0112ff2a423c7ce44b92ec82e5a4961fdd2fb73bdbf73af938baf1e61fdfa680&o=&hp=1"
+featuredImage: "/images/accommodation/sina-sunnyvilla-517243741.jpg"
 language: en
 slug: sina-sunnyvilla
 address: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"

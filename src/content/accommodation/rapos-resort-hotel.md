@@ -1,7 +1,7 @@
 ---
 title: "Rapos Resort Hotel"
 description: "Discover unparalleled luxury and service at the Rapos Resort Hotel, a premier destination for travelers seeking an exceptional seaside escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471127143.jpg?k=aaa23d512d0b8abb6bf90e2ffaaa6c3a2b1d74105c50cb951030c372b65a76c5&o=&hp=1"
+featuredImage: "/images/accommodation/rapos-resort-hotel-471127143.jpg"
 language: en
 slug: rapos-resort-hotel
 address: "Himare, Potam, 9425 Himare, Albania"

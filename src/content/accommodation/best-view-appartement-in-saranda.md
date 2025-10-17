@@ -1,7 +1,7 @@
 ---
 title: "Best view appartement in Saranda"
 description: "Best View Appartement in Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience, coupled with breathtaking sea views, just 200 meters from the pristine Maestral Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479418361.jpg?k=8f22267a39b289b0770711637661f6748ee7d6995dc77375c761e175e2f895ab&o=&hp=1"
+featuredImage: "/images/accommodation/best-view-appartement-in-saranda-479418361.jpg"
 language: en
 slug: best-view-appartement-in-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

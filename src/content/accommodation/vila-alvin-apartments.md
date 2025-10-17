@@ -1,7 +1,7 @@
 ---
 title: "Vila Alvin Apartments"
 description: "Vila Alvin Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë, offering a blend of comfort and convenience with its well-appointed accommodations."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200479650.jpg?k=6b36406691e398d85f6512f60020569bd891c4ebc0000b12d5512fc58f4ce3bf&o=&hp=1"
+featuredImage: "/images/accommodation/vila-alvin-apartments-200479650.jpg"
 language: en
 slug: vila-alvin-apartments
 address: "Rruga: Mitat Hoxha in the Corner of Guri Nazifi No: 29, 9701 Sarandë, Albania"

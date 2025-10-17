@@ -1,7 +1,7 @@
 ---
 title: "Villa Bushi"
 description: "Villa Bushi stands out as a prime choice for travelers seeking comfort and convenience in Ksamil, with its prime location just steps away from the pristine Ksamil Beach 9."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/227989747.jpg?k=7902f3885ae6904209a538510b1ef0c22dcbe1e97903ac27f6069ac673b31dac&o=&hp=1"
+featuredImage: "/images/accommodation/villa-bushi-227989747.jpg"
 language: en
 slug: villa-bushi
 address: "Rruga Riviera, 9706 Ksamil, Albania"

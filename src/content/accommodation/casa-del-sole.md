@@ -1,7 +1,7 @@
 ---
 title: "casa del sole"
 description: "Casa del Sole stands as a prime beachfront gem in Vlorë, boasting an enviable position just 200 meters from the pristine Liro Beach and a short stroll from the exclusive Beach at Government Villas."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505998248.jpg?k=6e4610a81d28b7e0fea57df3a5ce18c46b91f80f394201a6123e5b3b1639b4e6&o=&hp=1"
+featuredImage: "/images/accommodation/casa-del-sole-505998248.jpg"
 language: en
 slug: casa-del-sole
 address: "Rruga Kalaja, 9403 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Four Seasons Beach Apartment"
 description: "Four Seasons Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471680194.jpg?k=778ab84ba6cbcbf01d0627ac04b9aeed07ab940e6c51953c24376c6608820604&o=&hp=1"
+featuredImage: "/images/accommodation/four-seasons-beach-apartment-471680194.jpg"
 language: en
 slug: four-seasons-beach-apartment
 address: "Rruga Durrës-Kavajë, Secondary Road, km 11, 2504 Golem, Albania Floor 4, Ap. 9., 2504 Golem, Albania"

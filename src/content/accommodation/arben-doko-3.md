@@ -1,7 +1,7 @@
 ---
 title: "Arben doko 3"
 description: "Discover the charm of Sarandë with a stay at Arben Doko 3, a prime location that places guests just moments away from the city's most coveted beaches."
-featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtd9WDzPPrcBiXHVj9o9Ua_d11wFL207jCVnA5i1=s96-c64"
+featuredImage: "/images/accommodation/arben-doko-3-AAcHTtd9WDzP.jpg"
 language: en
 slug: arben-doko-3
 address: "51 Rruga Flamurit, 9701 Sarandë, Albania"

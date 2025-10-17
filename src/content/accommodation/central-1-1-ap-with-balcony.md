@@ -1,7 +1,7 @@
 ---
 title: "Central 1+1 Ap with balcony"
 description: "Central 1+1 Apartment with Balcony emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493027028.jpg?k=30fe34a16c2057c79978d5289c2a715af7ca2c014192a71072d6ab0f768a464f&o=&hp=1"
+featuredImage: "/images/accommodation/central-1-1-ap-with-balcony-493027028.jpg"
 language: en
 slug: central-1-1-ap-with-balcony
 address: "Konstandin kristoforidhi Floor 7, 1014 Tirana, Albania"

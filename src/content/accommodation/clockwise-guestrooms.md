@@ -1,7 +1,7 @@
 ---
 title: "Clockwise GuestRooms"
 description: "Clockwise GuestRooms emerges as a charmingly renovated guest house in the historic heart of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496888912.jpg?k=8e47e71a5afe14405c68cfef759ecfdd71e37f553ddf24ff21b5a27a71e571b0&o=&hp=1"
+featuredImage: "/images/accommodation/clockwise-guestrooms-496888912.jpg"
 language: en
 slug: clockwise-guestrooms
 address: "Rruga Qazim Babameto, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "sea side view"
 description: "Sea Side View stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460295247.jpg?k=37badd970b6b6b7751439e7f20f1d9c839eb2def915fd04eec6e01fccafa5d12&o=&hp=1"
+featuredImage: "/images/accommodation/sea-side-view-460295247.jpg"
 language: en
 slug: sea-side-view
 address: "Rruga Ankona, Durrës, Albania"

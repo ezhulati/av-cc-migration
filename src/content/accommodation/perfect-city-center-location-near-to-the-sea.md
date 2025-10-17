@@ -1,7 +1,7 @@
 ---
 title: "Perfect city center location near to the sea"
 description: "Perfect City Center Location Near to the Sea emerges as a prime choice for travelers seeking the ideal blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518482544.jpg?k=1d37742bf5562029943cbac7908947607734d42163df02fcd36fbe5d783b99d8&o=&hp=1"
+featuredImage: "/images/accommodation/perfect-city-center-location-near-to-the-sea-518482544.jpg"
 language: en
 slug: perfect-city-center-location-near-to-the-sea
 address: "Rr. Gjergj Arianiti Apartment nr.1, first floor, 9403 Vlorë, Albania"

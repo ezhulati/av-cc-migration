@@ -1,7 +1,7 @@
 ---
 title: "Lovely 2-bedroom rental apartment in Tirana center"
 description: "Discover the charm of Tirana with a stay at the Lovely 2-bedroom rental apartment, perfectly positioned just 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497986480.jpg?k=eb47f606b859078242693e57323dcb73ef901756e709f12816c3b6efdb2c2901&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-2-bedroom-rental-apartment-in-tirana-center-497986480.jpg"
 language: en
 slug: lovely-2-bedroom-rental-apartment-in-tirana-center
 address: "Rruga Themistokli Gërmenji 5, Apartment 12, 1011 Tirana, Albania"

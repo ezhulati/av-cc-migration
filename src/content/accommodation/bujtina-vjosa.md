@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Vjosa"
 description: "Bujtina Vjosa emerges as a serene oasis in Memaliaj, offering guests an unparalleled blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366818354.jpg?k=e8024bd1aac4a690a54b9964e9369511a0f22422baf7dce3121ef9a4af68b68e&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-vjosa-366818354.jpg"
 language: en
 slug: bujtina-vjosa
 address: "Bujtina Vjosa, 9X2P+2M6, Memaliaj, 6302 Memaliaj, Albania"

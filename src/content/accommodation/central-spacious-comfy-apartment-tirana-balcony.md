@@ -1,7 +1,7 @@
 ---
 title: "CENTRAL - Spacious Comfy Apartment TIRANA (balcony"
 description: "Discover the charm of Tirana from the comfort of CENTRAL - Spacious Comfy Apartment TIRANA, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411969491.jpg?k=cf3a1185857aeb6119292e0a4c76acdd1830f76e5c0fd64edfa8333860c6789a&o=&hp=1"
+featuredImage: "/images/accommodation/central-spacious-comfy-apartment-tirana-balcony-411969491.jpg"
 language: en
 slug: central-spacious-comfy-apartment-tirana-balcony
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Emily's apartament"
 description: "Emily's Apartment offers a refreshing retreat in the heart of Vlorë, boasting air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476210013.jpg?k=e2b3f422df7d58338c0bcfa6a922ef02a83f6a8f2cf0f268986b5581df4ae76f&o=&hp=1"
+featuredImage: "/images/accommodation/emily-s-apartament-476210013.jpg"
 language: en
 slug: emily-s-apartament
 address: "Rruga Shyqyri Ali Merka, 9400 Vlorë, Albania"

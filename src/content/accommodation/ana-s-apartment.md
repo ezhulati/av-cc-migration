@@ -1,7 +1,7 @@
 ---
 title: "Ana's Apartment"
 description: "Ana's Apartment in Tirana emerges as a serene haven for travelers, situated merely 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360047293.jpg?k=4a6ff327553fe4ecd93a3e0f50972fb5557bbc1816681f12467e8a4b10a4ecce&o=&hp=1"
+featuredImage: "/images/accommodation/ana-s-apartment-360047293.jpg"
 language: en
 slug: ana-s-apartment
 address: "Rruga Mihal Ciko, 1001 Tirana, Albania"

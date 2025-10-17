@@ -1,7 +1,7 @@
 ---
 title: "Mak Albania Hotel"
 description: "Stepping into the Mak Albania Hotel feels like entering a realm of sophistication and top-tier hospitality, a five-star gem in the bustling heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269506278.jpg?k=a5b91194484965b145a91f714dc4945bc647851aa59cdab84ed433eb06b8b78a&o=&hp=1"
+featuredImage: "/images/accommodation/mak-albania-hotel-269506278.jpg"
 language: en
 slug: mak-albania-hotel
 address: "Sheshi Italia, 1000 Tirana, Albania"

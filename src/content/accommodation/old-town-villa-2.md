@@ -1,7 +1,7 @@
 ---
 title: "Old Town Villa 2"
 description: "Old Town Villa 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460091677.jpg?k=9d9470adc5704cc5ee761f65ff2f3306ad80276507d961b6ea66856d858c41f6&o=&hp=1"
+featuredImage: "/images/accommodation/old-town-villa-2-460091677.jpg"
 language: en
 slug: old-town-villa-2
 address: "Rruga M. Varoshi 66, 2001 Durrës, Albania"

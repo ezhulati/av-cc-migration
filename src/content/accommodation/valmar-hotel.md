@@ -1,7 +1,7 @@
 ---
 title: "Valmar Hotel"
 description: "Valmar Hotel stands out as a premier destination for travelers seeking a blend of comfort and adventure in Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372148922.jpg?k=5cbd51c949064a3378d41dcb38a0172815dddc0a7bd4bc75aeef6ddf93f43e33&o=&hp=1"
+featuredImage: "/images/accommodation/valmar-hotel-372148922.jpg"
 language: en
 slug: valmar-hotel
 address: "Road Ali Pashe Tepelena, 9706 Ksamil, Albania"

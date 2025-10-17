@@ -1,7 +1,7 @@
 ---
 title: "Tirana Gallery Apartment - City Center View"
 description: "Tirana Gallery Apartment - City Center View emerges as a recently renovated gem, strategically positioned in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521483851.jpg?k=20d6678857ccd06ae2382ce63da4afb868714fa1bbc1b0e82b48f7985a08039c&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-gallery-apartment-city-center-view-521483851.jpg"
 language: en
 slug: tirana-gallery-apartment-city-center-view
 address: "Rruga e Barrikadave Galeria, 1001 Tirana, Albania"

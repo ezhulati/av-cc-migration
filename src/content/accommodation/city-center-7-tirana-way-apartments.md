@@ -1,7 +1,7 @@
 ---
 title: "City Center 7 - Tirana Way Apartments"
 description: "City Center 7 - Tirana Way Apartments emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life, situated merely 600 meters from the iconic Skanderbeg Square and a short drive of 5."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375756228.jpg?k=701a8966d632088a9f7462520a905108ebe5a1789fc13f804c495d495b8d798f&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-7-tirana-way-apartments-375756228.jpg"
 language: en
 slug: city-center-7-tirana-way-apartments
 address: "Rruga Selma Riza, 1057 Tirana, Albania"

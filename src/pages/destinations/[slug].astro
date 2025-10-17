@@ -11,7 +11,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const destinations = await getCollection('destinations', ({ data }) => {
-    return !data.language || data.language === 'en';
+    return data && (!data.language || data.language === 'en');
   });
 
   return destinations.map(destination => ({
@@ -284,6 +284,7 @@ const slug = destination.slug;
   @media (min-width: 1024px) {
     .layout {
       grid-template-columns: 1fr 320px;
+      align-items: start;
     }
   }
 
@@ -483,10 +484,42 @@ const slug = destination.slug;
     display: flex;
     flex-direction: column;
     gap: var(--space-lg);
+    position: sticky;
+    top: 2rem;
+    align-self: flex-start;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    /* Smooth scrolling */
+    scroll-behavior: smooth;
+    /* Thin scrollbar */
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0.15) transparent;
+  }
+
+  /* Webkit scrollbar styling */
+  .sidebar::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  .sidebar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .sidebar::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.15);
+    border-radius: 2px;
+  }
+
+  .sidebar::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.25);
   }
 
   @media (max-width: 1023px) {
     .sidebar {
+      position: static;
+      max-height: none;
+      overflow: visible;
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     }
@@ -499,17 +532,7 @@ const slug = destination.slug;
     border-radius: var(--radius);
     overflow: hidden;
     box-shadow: var(--shadow-sm);
-  }
-
-  .card--sticky {
-    position: sticky;
-    top: calc(var(--space-lg) + var(--space-md));
-  }
-
-  @media (max-width: 1023px) {
-    .card--sticky {
-      position: static;
-    }
+    flex-shrink: 0;
   }
 
   .card__title {

@@ -1,7 +1,7 @@
 ---
 title: "Villa Lindja Diellit"
 description: "Villa Lindja Diellit emerges as a serene oasis in the vibrant heart of Sarandë, boasting a prime location that places guests just moments away from the pristine shores of Mango Beach and the tranquil Flamingo Beach, while the historical treasures of Butrint National Park lie a mere 12 km away."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
+featuredImage: "/images/accommodation/villa-lindja-diellit-315f92289c48.jpg"
 language: en
 slug: villa-lindja-diellit
 address: "9701 Rruga Butrinti, 9701 Sarandë, Albania"

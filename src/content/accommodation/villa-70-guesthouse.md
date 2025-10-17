@@ -1,7 +1,7 @@
 ---
 title: "\"Villa 70\" Guesthouse"
 description: "\"Villa 70\" Guesthouse emerges as a serene retreat, located a mere 44 km from the tranquil Zaravina Lake, offering guests a blend of comfort and natural beauty."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456265869.jpg?k=ae553d1e098bef15fc3051de0d1429ff8bfa197e4688988208adb086ff0de0e6&o=&hp=1"
+featuredImage: "/images/accommodation/villa-70-guesthouse-456265869.jpg"
 language: en
 slug: villa-70-guesthouse
 address: "Rruga Doktor Vasil Laboviti, 6001 Gjirokastër, Albania"

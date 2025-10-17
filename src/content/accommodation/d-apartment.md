@@ -1,7 +1,7 @@
 ---
 title: "D Apartment"
 description: "D Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428128771.jpg?k=82f2e7c6893010f5595871de7e0458faf8b06a6dc5ccd8a2120a3c6c5a90ed2c&o=&hp=1"
+featuredImage: "/images/accommodation/d-apartment-428128771.jpg"
 language: en
 slug: d-apartment
 address: "Rruga Margarita Tutulani, 1001 Tirana, Albania"

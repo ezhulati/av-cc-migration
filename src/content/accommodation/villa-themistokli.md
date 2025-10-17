@@ -1,7 +1,7 @@
 ---
 title: "Villa Themistokli"
 description: "Villa Themistokli emerges as a serene retreat, boasting garden views that promise a tranquil escape."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/55890159.jpg?k=adb33b88af21bc849940aa0389bddebd45a46e6559426765b64dc80b2a1dcd6c&o=&hp=1"
+featuredImage: "/images/accommodation/villa-themistokli-55890159.jpg"
 language: en
 slug: villa-themistokli
 address: "Blv Shen Gjergji 5, 7001 Korçë, Albania"

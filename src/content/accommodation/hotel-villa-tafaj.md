@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Tafaj"
 description: "Hotel Villa Tafaj stands as a beacon of comfort and convenience in the heart of Tirana, merely a kilometer away from the iconic Skanderbeg Square and a host of other attractions."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129278050.jpg?k=18da2fe8697a8833060d5a9c0b6edeb69e0d6ff66babfa792775180d0adc7725&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-villa-tafaj-129278050.jpg"
 language: en
 slug: hotel-villa-tafaj
 address: "Rruga Mine Peza, Nr.86, 1001 Tirana, Albania"

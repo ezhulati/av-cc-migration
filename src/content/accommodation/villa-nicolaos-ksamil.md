@@ -1,7 +1,7 @@
 ---
 title: "Villa Nicolaos Ksamil"
 description: "Villa Nicolaos Ksamil emerges as a serene oasis in the heart of Ksamil, located just a stone's throw away from the pristine Ksamil Beach 9 and within easy reach of the vibrant Bora Bora Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/126860571.jpg?k=7e5d85ec05ac26f058c5872599b69758523b2aa330ed5af8b6c42c401a9a0798&o=&hp=1"
+featuredImage: "/images/accommodation/villa-nicolaos-ksamil-126860571.jpg"
 language: en
 slug: villa-nicolaos-ksamil
 address: "Apollonia Street Number building 96, 9706 Ksamil, Albania"

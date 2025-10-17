@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Apsus"
 description: "Bujtina Apsus emerges as a distinguished choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444428043.jpg?k=358da74ed514ccfe484ca339e28542e63cfa9315a80a704ed0276bc449fc7e21&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-apsus-444428043.jpg"
 language: en
 slug: bujtina-apsus
 address: "Rruga Antipatrea Lagja deshmoret e kombit, 5001 Berat, Albania"

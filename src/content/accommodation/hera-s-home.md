@@ -1,7 +1,7 @@
 ---
 title: "Hera's Home"
 description: "Hera's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478439272.jpg?k=f63ea7b720a60a535ec640c84df916fdc839afa0a5cc1fd687e7f29a5e5f0c99&o=&hp=1"
+featuredImage: "/images/accommodation/hera-s-home-478439272.jpg"
 language: en
 slug: hera-s-home
 address: "Rruga Mustafa Mara, 1002 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Erida’s Apartment"
 description: "Erida's Apartment emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469025594.jpg?k=bc649544ae99fab6f01ca44dafaa206e86264aef02b4c3c615f4f8e2bafe3971&o=&hp=1"
+featuredImage: "/images/accommodation/erida-s-apartment-469025594.jpg"
 language: en
 slug: erida-s-apartment
 address: "Rruga Kongresi i Manastirit, 1001 Tirana, Albania"

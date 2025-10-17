@@ -1,7 +1,7 @@
 ---
 title: "Center Hotel Pirro"
 description: "Center Hotel Pirro emerges as a standout choice for travelers seeking comfort and convenience in the heart of Himare."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482436470.jpg?k=49485eb228b4d7af6016754e75140da067ab1a8818cf7ce21d8841953a609bbb&o=&hp=1"
+featuredImage: "/images/accommodation/center-hotel-pirro-482436470.jpg"
 language: en
 slug: center-hotel-pirro
 address: "25 SH8, 9425 Himare, Albania"

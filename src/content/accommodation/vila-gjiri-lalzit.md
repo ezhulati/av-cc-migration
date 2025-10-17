@@ -1,7 +1,7 @@
 ---
 title: "Vila Gjiri Lalzit"
 description: "Vila Gjiri Lalzit stands out as a serene beachfront retreat, located just a stone's throw away from the vibrant heart of Skanderbeg Square, approximately 43 km to be precise."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
+featuredImage: "/images/accommodation/vila-gjiri-lalzit-d3882ab9674d.jpg"
 language: en
 slug: vila-gjiri-lalzit
 address: "Rruga Gjiri i Lalzit Kompleksi Lura 2, 2000 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cico Apartment"
 description: "Cico Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513091175.jpg?k=87b24563b24fc609361e27607753be6028fac14f601dfd8df360775ad954acbd&o=&hp=1"
+featuredImage: "/images/accommodation/cico-apartment-513091175.jpg"
 language: en
 slug: cico-apartment
 address: "105 Rruga Ali Visha, 1003 Tirana, Albania"

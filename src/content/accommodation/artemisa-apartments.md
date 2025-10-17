@@ -1,7 +1,7 @@
 ---
 title: "ARTEMISA APARTMENTS"
 description: "ARTEMISA APARTMENTS emerges as a refreshing choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463987535.jpg?k=ac7853e29493368198c717c2522b4e729d4a56f4a961b24c75f5fc4f8dfcf14f&o=&hp=1"
+featuredImage: "/images/accommodation/artemisa-apartments-463987535.jpg"
 language: en
 slug: artemisa-apartments
 address: "Rruga Gaq Vishi, 9403 Vlorë, Albania"

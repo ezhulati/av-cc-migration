@@ -1,7 +1,7 @@
 ---
 title: "Happy Corner Guest House"
 description: "Happy Corner Guest House, located in the vibrant city of Shkodër, offers a unique blend of comfort and convenience for travelers seeking an authentic experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486384795.jpg?k=14750eb91ee86260279990ce80bb1951dfee48a64814196032a868f85d9bc959&o=&hp=1"
+featuredImage: "/images/accommodation/happy-corner-guest-house-486384795.jpg"
 language: en
 slug: happy-corner-guest-house
 address: "Rruga Vladimir Jani 21, Shkolla Branko Kadia, 4001 Shkodër, Albania"

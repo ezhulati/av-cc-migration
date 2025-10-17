@@ -1,7 +1,7 @@
 ---
 title: "Duplex Mino, Pazari i Vjetër Korçë"
 description: "Duplex Mino, Pazari i Vjetër Korçë, emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Korçë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487985395.jpg?k=9193805649820deb3593879426a9c157c737a5a842078c30b79ab8440de13882&o=&hp=1"
+featuredImage: "/images/accommodation/duplex-mino-pazari-i-vjet-r-kor-487985395.jpg"
 language: en
 slug: duplex-mino-pazari-i-vjet-r-kor
 address: "Rrugica Piro Lena Lagjia 8, Obj.13, AP.13, Korçë, 7001 Korçë, Albania"

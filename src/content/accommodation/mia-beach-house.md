@@ -1,7 +1,7 @@
 ---
 title: "Mia Beach House"
 description: "Mia Beach House emerges as a serene oasis in Golem, boasting an enviable position mere steps from the pristine Mali I Robit Beach and within easy reach of both Qerret and Golem Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494554398.jpg?k=065ae7563e735681d610782f9f5e3b273b15e6f2a37360e2d50ac4c3cc6a292c&o=&hp=1"
+featuredImage: "/images/accommodation/mia-beach-house-494554398.jpg"
 language: en
 slug: mia-beach-house
 address: "Bulevardi i pishave, Mali i Robit, Golem, Albania"

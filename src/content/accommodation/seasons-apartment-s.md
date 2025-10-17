@@ -1,7 +1,7 @@
 ---
 title: "Seasons Apartment's"
 description: "Seasons Apartment's emerges as a prime choice for travelers seeking comfort and convenience, a mere stone's throw away from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522014664.jpg?k=9dcd14470dba6d1ec579bb73559d6523b1937a7bebfe5bd479babd481567d1c5&o=&hp=1"
+featuredImage: "/images/accommodation/seasons-apartment-s-522014664.jpg"
 language: en
 slug: seasons-apartment-s
 address: "Rruga Murat Tërbaçi, 9045 Vlorë, Albania"

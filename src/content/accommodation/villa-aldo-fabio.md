@@ -1,7 +1,7 @@
 ---
 title: "Villa Aldo-Fabio"
 description: "Villa Aldo-Fabio stands out as a serene retreat in the heart of Ksamil, merely a stone's throw away from the pristine shores of Paradise Beach and Lori Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491333177.jpg?k=54a54c59db9be5df4d8b4a6f4f9b5a1493bcfbd0ece01d04219576abbbc0493b&o=&hp=1"
+featuredImage: "/images/accommodation/villa-aldo-fabio-491333177.jpg"
 language: en
 slug: villa-aldo-fabio
 address: "Rruga Freskia, 9706 Ksamil, Albania"

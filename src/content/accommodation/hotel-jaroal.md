@@ -1,7 +1,7 @@
 ---
 title: "Hotel Jaroal"
 description: "Discover the charm of Hotel Jaroal, a gem that stands out for its private beach access, ensuring a serene and exclusive seaside experience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468633447.jpg?k=f74f49c8a53f067e50056e2a4141abf306e4b097068aeb5bd58fde9201315799&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-jaroal-468633447.jpg"
 language: en
 slug: hotel-jaroal
 address: "Saranda Butrinti Road, 9703 Sarandë, Albania"

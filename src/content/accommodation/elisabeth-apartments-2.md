@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth Apartments 2"
 description: "Elisabeth Apartments 2 emerges as a serene retreat in the vibrant heart of Sarandë, offering a blend of comfort and convenience just 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446736661.jpg?k=b874f409d5d8831231a39b50b960e33578ed77e03d6ba7904e675f74b8679ff4&o=&hp=1"
+featuredImage: "/images/accommodation/elisabeth-apartments-2-446736661.jpg"
 language: en
 slug: elisabeth-apartments-2
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

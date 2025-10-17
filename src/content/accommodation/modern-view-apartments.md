@@ -1,7 +1,7 @@
 ---
 title: "Modern View Apartments"
 description: "Modern View Apartments stands as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just 200 meters from the pristine shores of Durres Beach and a scenic 37 km drive from the historic Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475083609.jpg?k=246609dd14fdfc72e16343fd8e4e238f25d82b78aa86f41673d0b1732aff8da1&o=&hp=1"
+featuredImage: "/images/accommodation/modern-view-apartments-475083609.jpg"
 language: en
 slug: modern-view-apartments
 address: "Rr PAVARESIA 2008, Durrës, Albania"

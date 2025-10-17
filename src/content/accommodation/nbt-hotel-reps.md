@@ -1,7 +1,7 @@
 ---
 title: "NBT Hotel Reps"
 description: "NBT Hotel Reps stands out as a serene oasis in Kukës, offering guests a unique blend of comfort and convenience with its well-appointed rooms and comprehensive amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464021763.jpg?k=e8ffa6828724cd5b603eb16749c8d30050781b9775b89408726f909c7b91dc80&o=&hp=1"
+featuredImage: "/images/accommodation/nbt-hotel-reps-464021763.jpg"
 language: en
 slug: nbt-hotel-reps
 address: "Rruga e Kombit, Reps, 8500 Kukës, Albania"

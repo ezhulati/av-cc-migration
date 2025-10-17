@@ -1,7 +1,7 @@
 ---
 title: "1-Stunning Sea View Apartments!"
 description: "1-Stunning Sea View Apartments!"
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469467842.jpg?k=0d7acf5de913b9d3da2b7c91d7ab3a2194ebab101710de509275a060667e51d9&o=&hp=1"
+featuredImage: "/images/accommodation/1-stunning-sea-view-apartments-469467842.jpg"
 language: en
 slug: 1-stunning-sea-view-apartments
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

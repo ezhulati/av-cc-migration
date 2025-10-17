@@ -1,7 +1,7 @@
 ---
 title: "HERIS'S APARTMENT"
 description: "Discover the charm of Tirana from the comfort of HERIS'S APARTMENT, a prime accommodation choice for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376659627.jpg?k=6b6b31bed6c89e1b4d3e9becce86251806ab8aa31c59a41c3f7a1fea7ee42660&o=&hp=1"
+featuredImage: "/images/accommodation/heris-s-apartment-376659627.jpg"
 language: en
 slug: heris-s-apartment
 address: "Bulevardi Bajram Curi Pallatet Agimi, prane Ami Event, 1000 Tirana, Albania"

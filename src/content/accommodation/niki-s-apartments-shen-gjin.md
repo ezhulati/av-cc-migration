@@ -1,7 +1,7 @@
 ---
 title: "Niki's Apartments Shen Gjin"
 description: "Niki's Apartments Shen Gjin emerges as a prime choice for travelers seeking comfort and convenience in Lezhë, positioned just a short stroll from the serene Ylberi Beach and within easy reach of the vibrant Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476766622.jpg?k=b30a4353ee1e5760e9ab72371af3b82f74ecdcb2ffe1aa0d38d2611c598dd7b0&o=&hp=1"
+featuredImage: "/images/accommodation/niki-s-apartments-shen-gjin-476766622.jpg"
 language: en
 slug: niki-s-apartments-shen-gjin
 address: "Shëngjin - Kune, 4005 Lezhë, Albania"

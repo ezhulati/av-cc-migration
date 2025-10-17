@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nemercka"
 description: "Hotel Nemercka emerges as a serene oasis in Përmet, offering a harmonious blend of comfort and convenience with its well-appointed amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476599140.jpg?k=c6b39cade559f0eac1392b3009cff5d51c72082b3a78e1385cfcc9c836329852&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-nemercka-476599140.jpg"
 language: en
 slug: hotel-nemercka
 address: "695Q+7F5, SH75, Albania"

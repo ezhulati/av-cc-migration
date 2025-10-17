@@ -1,7 +1,7 @@
 ---
 title: "Luxury Lake View Duplex with Indoor Fireplace"
 description: "Luxury Lake View Duplex with Indoor Fireplace stands as a testament to modern comfort and serene mountain living in Shkodër, a mere 47 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376374059.jpg?k=fc5138d7fa2bd29732e89caec704bb673ffdb6a0655e4344b55b4d1ba067ac1a&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-lake-view-duplex-with-indoor-fireplace-376374059.jpg"
 language: en
 slug: luxury-lake-view-duplex-with-indoor-fireplace
 address: "Shëtitorja e Molos 6,7, 4000 Shkodër, Albania"

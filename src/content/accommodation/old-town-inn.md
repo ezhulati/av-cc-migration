@@ -1,7 +1,7 @@
 ---
 title: "Old Town Inn"
 description: "Old Town Inn emerges as a charming retreat in the heart of Pogradec, located within the scenic Korçë County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410033832.jpg?k=762f5a125e64075d4f4de5e9f4e54eef127b6b54236399553344aa0c7c5428e3&o=&hp=1"
+featuredImage: "/images/accommodation/old-town-inn-410033832.jpg"
 language: en
 slug: old-town-inn
 address: "Rruga Ceta e Mokres Lagjja Topleci, 7301 Pogradec, Albania"

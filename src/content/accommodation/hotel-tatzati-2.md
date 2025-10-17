@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tatzati 2"
 description: "Hotel Tatzati 2, located a mere stone's throw away from the vibrant Saranda City Beach, emerges as a prime choice for travelers seeking both comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262339145.jpg?k=a96f7d206d7361e85097d00ff9f1153032a55e1cd1cb7217147de293db62e287&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-tatzati-2-262339145.jpg"
 language: en
 slug: hotel-tatzati-2
 address: "Rruga Lefter Talo, 9700 Sarandë, Albania"

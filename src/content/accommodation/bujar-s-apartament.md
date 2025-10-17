@@ -1,7 +1,7 @@
 ---
 title: "Bujar's Apartament"
 description: "Bujar's Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485083872.jpg?k=b96212fc06a5d74aea07fc3252378d0b4672dd6b299a18f0bf8bbe9ee72b2caf&o=&hp=1"
+featuredImage: "/images/accommodation/bujar-s-apartament-485083872.jpg"
 language: en
 slug: bujar-s-apartament
 address: "Rera Hedhur Shengjin, Shëngjin, Albania"

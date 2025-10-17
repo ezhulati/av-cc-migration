@@ -1,7 +1,7 @@
 ---
 title: "Hostel Split Rock"
 description: "Hostel Split Rock emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456279132.jpg?k=5631476a46ebdb85194c8a42f3ef0dad179da879ad7ef742679bcabaeaa42104&o=&hp=1"
+featuredImage: "/images/accommodation/hostel-split-rock-456279132.jpg"
 language: en
 slug: hostel-split-rock
 address: "4 Street HIM KOLLIIN STREET KAVAJA 4, 1001 Tirana, Albania"

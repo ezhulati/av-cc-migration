@@ -1,7 +1,7 @@
 ---
 title: "Casa Mia Twin Towers"
 description: "Casa Mia Twin Towers emerges as a prime beachfront gem in Shëngjin, offering guests an unparalleled blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470133662.jpg?k=41ea73c5895f743c54baeac414c6ee25ffe34f1aef9b9313a4bc224041e6b789&o=&hp=1"
+featuredImage: "/images/accommodation/casa-mia-twin-towers-470133662.jpg"
 language: en
 slug: casa-mia-twin-towers
 address: "4503 Bulevardi Nënë Tereza, 4503 Shëngjin, Albania"

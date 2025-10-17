@@ -1,7 +1,7 @@
 ---
 title: "Bruno's Apartments"
 description: "Bruno's Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444813458.jpg?k=44e7b58d17488f0c16cbf7407b37cfd77515ceb0f10bd11327ab397aab7d0f8b&o=&hp=1"
+featuredImage: "/images/accommodation/bruno-s-apartments-444813458.jpg"
 language: en
 slug: bruno-s-apartments
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

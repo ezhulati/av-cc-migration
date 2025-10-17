@@ -1,7 +1,7 @@
 ---
 title: "N Hotel BY NOSHI"
 description: "N Hotel BY NOSHI emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Rinas, located just 17 km from the vibrant Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306489080.jpg?k=38779c4ecb2097022d269d8a29795c599c0b1b25529d7a1433d46a8cabcdc9e1&o=&hp=1"
+featuredImage: "/images/accommodation/n-hotel-by-noshi-306489080.jpg"
 language: en
 slug: n-hotel-by-noshi
 address: "Lagjia 1, Hertz Plaza, 1001 Rinas, Albania"

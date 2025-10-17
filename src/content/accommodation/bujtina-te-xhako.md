@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Te Xhako"
 description: "Bujtina Te Xhako stands out as a charming retreat in Përmet, offering a harmonious blend of comfort and convenience with its well-appointed amenities."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363533164.jpg?k=da6caf0c35f1a9622a9c0dc6c980994e497ca0fa083aba989c922da3b599d1a8&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-te-xhako-363533164.jpg"
 language: en
 slug: bujtina-te-xhako
 address: "Grabovë, 6405 Përmet, Albania"

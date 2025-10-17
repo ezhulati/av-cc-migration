@@ -1,7 +1,7 @@
 ---
 title: "Tirana Central Apartments - Premium"
 description: "Tirana Central Apartments - Premium stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488200065.jpg?k=7a88c7ed1aec684bca92622a14c3d92b27382095519ac134e12f4ad0fd0f077e&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-central-apartments-premium-488200065.jpg"
 language: en
 slug: tirana-central-apartments-premium
 address: "1001 Rruga Luigj Gurakuqi 3, 1001 Tirana, Albania"

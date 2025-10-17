@@ -1,7 +1,7 @@
 ---
 title: "July Seaview Apartment"
 description: "July Seaview Apartment emerges as a prime choice for travelers seeking a serene seafront escape in Sarandë, merely a stone's throw away from Saranda City Beach and a short stroll from the quaint La Petite Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477663362.jpg?k=77704ee31c788a94aec59c06037f7b31e68625fbb107f0fa99cad62fdb3d045a&o=&hp=1"
+featuredImage: "/images/accommodation/july-seaview-apartment-477663362.jpg"
 language: en
 slug: july-seaview-apartment
 address: "Street onhezmi, 9701 Sarandë, Albania"

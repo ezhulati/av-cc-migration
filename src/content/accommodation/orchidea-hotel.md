@@ -1,7 +1,7 @@
 ---
 title: "Orchidea Hotel"
 description: "Orchidea Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/132014659.jpg?k=b2662daa9347dd79444d82efd08c052ff132cb0c1a9fea2cade671a12606b1e8&o=&hp=1"
+featuredImage: "/images/accommodation/orchidea-hotel-132014659.jpg"
 language: en
 slug: orchidea-hotel
 address: "RR. EMIN HARIZAJ NR. 112, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luani ARTE"
 description: "Luani ARTE emerges as a distinguished destination for travelers seeking a blend of luxury and wellness in Shkodër, situated merely 3."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/96919691.jpg?k=fdda571a6c2927b6a46376b7752c739e7f32634e466c18546a9cec3f4bb0492d&o=&hp=1"
+featuredImage: "/images/accommodation/luani-arte-96919691.jpg"
 language: en
 slug: luani-arte
 address: "Rr. Gjon Buzuku, 4001 Shkodër, Albania"

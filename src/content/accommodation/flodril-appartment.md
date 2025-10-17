@@ -1,7 +1,7 @@
 ---
 title: "Flodril Appartment"
 description: "Flodril Apartment emerges as a prime choice for travelers seeking spacious and comfortable accommodations in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475820983.jpg?k=f9c16d3cd39868f44b29bd1a227266bdcd13abe5bfc065277b50e8e5371e1e96&o=&hp=1"
+featuredImage: "/images/accommodation/flodril-appartment-475820983.jpg"
 language: en
 slug: flodril-appartment
 address: "16 Rruga Hysen Kertusha Apartment 24, floor 6, 2001 Durrës, Albania"

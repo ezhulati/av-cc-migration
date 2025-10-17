@@ -1,7 +1,7 @@
 ---
 title: "2D Apartment 2 GOLEM"
 description: "Discover the charm of Golem with a stay at 2D Apartment 2 GOLEM, a prime beachfront retreat that stands out for its proximity to the serene Golem Beach, just 200 meters away, and the tranquil Mali I Robit Beach, located 300 meters from the doorstep."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479081185.jpg?k=756f8d1bc089e108ac85bfd517c99c0d45eca712f565f4bf6171273b93825b3b&o=&hp=1"
+featuredImage: "/images/accommodation/2d-apartment-2-golem-479081185.jpg"
 language: en
 slug: 2d-apartment-2-golem
 address: "6GXC+9W5, Rruga Qemal Stafa, Golem, Albania, Golem, Albania"

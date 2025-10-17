@@ -1,7 +1,7 @@
 ---
 title: "Asa Apartments Lungomare"
 description: "Asa Apartments Lungomare emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470601529.jpg?k=84468e30c37b0af2892d92f86863bf4e7ee4907b1ea69959261d7805e59b183c&o=&hp=1"
+featuredImage: "/images/accommodation/asa-apartments-lungomare-470601529.jpg"
 language: en
 slug: asa-apartments-lungomare
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

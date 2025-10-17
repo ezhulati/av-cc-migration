@@ -1,7 +1,7 @@
 ---
 title: "Bright Bedrooms W/Private Bathroom in Heart of Tirana"
 description: "Bright Bedrooms W/Private Bathroom in Heart of Tirana emerges as a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521698038.jpg?k=8985d7c558e8938be02f04024690ffc7487cb7de3203c5d4558e6fad0a64748d&o=&hp=1"
+featuredImage: "/images/accommodation/bright-bedrooms-w-private-bathroom-in-heart-of-tirana-521698038.jpg"
 language: en
 slug: bright-bedrooms-w-private-bathroom-in-heart-of-tirana
 address: "Rruga Andon Zako Çajupi, 1001 Tirana, Albania"

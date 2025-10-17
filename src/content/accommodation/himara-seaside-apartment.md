@@ -1,7 +1,7 @@
 ---
 title: "Himara seaside apartment"
 description: "Himara Seaside Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine shores of Prinos Beach and a short stroll from Potam Beach."
-featuredImage: "https://lh5.googleusercontent.com/-LImBWPf-QCY/AAAAAAAAAAI/AAAAAAAAABA/P0X-26ojs8Y/photo.jpg?sz=64"
+featuredImage: "/images/accommodation/himara-seaside-apartment-photo.jpg?sz.jpg"
 language: en
 slug: himara-seaside-apartment
 address: "Himare, Himare, Albania"

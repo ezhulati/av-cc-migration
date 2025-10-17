@@ -1,7 +1,7 @@
 ---
 title: "Erika's House"
 description: "Erika's House emerges as a prime choice for travelers seeking comfortable lodging in Lukovë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437879203.jpg?k=317c8085b3d7b8f45245a31c87653a4528fedd8d93336d7a9402f9064c1c3626&o=&hp=1"
+featuredImage: "/images/accommodation/erika-s-house-437879203.jpg"
 language: en
 slug: erika-s-house
 address: "Lukovë - Shpellë, 9713 Lukovë, Albania"

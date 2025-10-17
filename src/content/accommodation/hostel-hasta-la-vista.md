@@ -1,7 +1,7 @@
 ---
 title: "Hostel Hasta La Vista"
 description: "Hostel Hasta La Vista emerges as a vibrant haven for travelers in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496053839.jpg?k=6421da01e4317609f5baff73e50de2b0bed4f30f07f11fc2df6c262ff2c17c66&o=&hp=1"
+featuredImage: "/images/accommodation/hostel-hasta-la-vista-496053839.jpg"
 language: en
 slug: hostel-hasta-la-vista
 address: "Idriz Alidhima Street In Front of the Football Stadium Sarande, Albania, 1000 Sarandë, Albania"

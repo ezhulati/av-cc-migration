@@ -1,7 +1,7 @@
 ---
 title: "Flora’s apartaments"
 description: "Flora's Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475104087.jpg?k=a54f089d66c7108b8ad831f6413ba6acf2cc7564e294d47f2e4e2daae226b835&o=&hp=1"
+featuredImage: "/images/accommodation/flora-s-apartaments-475104087.jpg"
 language: en
 slug: flora-s-apartaments
 address: "13 Rruga Pavaresia, Durrës, Albania"

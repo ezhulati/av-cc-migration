@@ -1,7 +1,7 @@
 ---
 title: "Shehu Villa"
 description: "Shehu Villa, located in the serene town of Kuçovë, presents a tranquil retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517268811.jpg?k=4d651ff8486d893713afec42309e9ada9a32d7a6c482fc2b104fc67810d1c6bd&o=&hp=1"
+featuredImage: "/images/accommodation/shehu-villa-517268811.jpg"
 language: en
 slug: shehu-villa
 address: "Rruga Berati, 5301 Kuçovë, Albania"

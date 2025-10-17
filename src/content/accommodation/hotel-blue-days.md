@@ -1,7 +1,7 @@
 ---
 title: "Hotel Blue Days"
 description: "Hotel Blue Days stands out as a premier destination in Borsh, boasting its own private beach area that promises an exclusive retreat for guests seeking both relaxation and adventure."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/206514721.jpg?k=b77fce942458cead3627d5a08670d0c6e3e4ba65d0cc48374f59cb9316c2dcc7&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-blue-days-206514721.jpg"
 language: en
 slug: hotel-blue-days
 address: "Rr: Plazhi Borsh, 9708 Borsh, Albania"

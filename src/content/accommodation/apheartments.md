@@ -1,7 +1,7 @@
 ---
 title: "ApHEARTments"
 description: "ApHEARTments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484356977.jpg?k=8ed410a8273aca86121d1c9ab784a5830b0bb972caf1e8a901e2e663a9f21fd2&o=&hp=1"
+featuredImage: "/images/accommodation/apheartments-484356977.jpg"
 language: en
 slug: apheartments
 address: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"

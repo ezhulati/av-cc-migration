@@ -1,7 +1,7 @@
 ---
 title: "D & G Apartment"
 description: "D & G Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337895229.jpg?k=7e6aed46217b526e34e9873735e08e4a9b9d590231782c880e43deffaa7bf57d&o=&hp=1"
+featuredImage: "/images/accommodation/d-g-apartment-337895229.jpg"
 language: en
 slug: d-g-apartment
 address: "Rruga Dritan Hoxha Ap.1, 1-st floor, Left stairs. Tirana, Albania, Tirana, Albania"

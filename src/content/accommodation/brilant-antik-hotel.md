@@ -1,7 +1,7 @@
 ---
 title: "Brilant Antik Hotel"
 description: "Discover the charm of Brilant Antik Hotel, a gem located just a short stroll from Skanderbeg Square."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218568335.jpg?k=f93a5cc4df517e34002c5ebae741d35d4be6d4b7d5fb4104d6c0d0efef2f4fac&o=&hp=1"
+featuredImage: "/images/accommodation/brilant-antik-hotel-218568335.jpg"
 language: en
 slug: brilant-antik-hotel
 address: "Jeronim De Rada, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunset House Aurora&Ersi"
 description: "Sunset House Aurora&Ersi emerges as a serene oasis in Orikum, boasting breathtaking garden and lake views, merely a stone's throw away from the pristine Orikum Beach and the charming Nettuno Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477005688.jpg?k=1ecfc885d4656060426fc537eb854e80a753171885491249e3ca23bc5d3076fd&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-house-aurora-ersi-477005688.jpg"
 language: en
 slug: sunset-house-aurora-ersi
 address: "ROAD Demokracia 27 27, 9426 Orikum, Albania"

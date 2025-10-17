@@ -1,7 +1,7 @@
 ---
 title: "Dhome"
 description: "Dhome stands out as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517011208.jpg?k=d45e4876568219e00f3d8cf9b394c40c8fb46075214e6a0d1fcbebd4a76df888&o=&hp=1"
+featuredImage: "/images/accommodation/dhome-517011208.jpg"
 language: en
 slug: dhome
 address: "Rruga Pjeter Budi 1, Tirana, Albania"

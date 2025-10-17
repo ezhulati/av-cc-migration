@@ -1,7 +1,7 @@
 ---
 title: "Solen Apartments 2"
 description: "Solen Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in Durrës, positioned just a short distance from the serene Currila Beach and the picturesque Kallmi Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387824321.jpg?k=ed450d2fddb91c048f25a210a85198148f1492686238679a683907be58d27ef1&o=&hp=1"
+featuredImage: "/images/accommodation/solen-apartments-2-387824321.jpg"
 language: en
 slug: solen-apartments-2
 address: "Rruga Kont Urani, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Kune,Shëngjin"
 description: "Apartment Kune, Shëngjin, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian coast."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371122872.jpg?k=85861c93617008106bec25f731b0b5a1454edf436841d48fbae3a2346db0b731&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-kune-sh-ngjin-371122872.jpg"
 language: en
 slug: apartment-kune-sh-ngjin
 address: "Rruga Shëngjin - Kune 2nd floor, Shëngjin, Albania"

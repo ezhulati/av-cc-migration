@@ -1,7 +1,7 @@
 ---
 title: "A&Fabio Guesthouse"
 description: "A&Fabio Guesthouse emerges as a serene retreat for travelers seeking both tranquility and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
+featuredImage: "/images/accommodation/a-fabio-guesthouse-c84a361d6701.jpg"
 language: en
 slug: a-fabio-guesthouse
 address: "Rruga Selam Musai, 6001 Gjirokastër, Albania"

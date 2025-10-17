@@ -1,7 +1,7 @@
 ---
 title: "Studio Vlora"
 description: "Studio Vlora stands out as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, merely a stone's throw away from the pristine Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362908917.jpg?k=db584681c9a92458bfb674ae7b1e5ee2dbba6d4b0736969cdaaea3e1ae9deacb&o=&hp=1"
+featuredImage: "/images/accommodation/studio-vlora-362908917.jpg"
 language: en
 slug: studio-vlora
 address: "Shaban Demiraj, Villa 1, 9403 Vlorë, Albania"

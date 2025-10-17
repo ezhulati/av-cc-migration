@@ -1,7 +1,7 @@
 ---
 title: "Nemi apartments Tirana free parking"
 description: "Nemi Apartments Tirana stands out as a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501144978.jpg?k=acc5a69aa70568b54421e49c815b987753d7b4e920d5a239c67b6925903a8027&o=&hp=1"
+featuredImage: "/images/accommodation/nemi-apartments-tirana-free-parking-501144978.jpg"
 language: en
 slug: nemi-apartments-tirana-free-parking
 address: "Rruga Ibrahim Ndoqi, 1001 Tirana, Albania"

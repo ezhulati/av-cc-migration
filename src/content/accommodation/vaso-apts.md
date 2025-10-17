@@ -1,7 +1,7 @@
 ---
 title: "Vaso Apts"
 description: "Vaso Apts emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/233229816.jpg?k=372dd546bf25dd86a2a60847365891cb4b2b977dd03b882fc546c2018b99ce47&o=&hp=1"
+featuredImage: "/images/accommodation/vaso-apts-233229816.jpg"
 language: en
 slug: vaso-apts
 address: "150 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sarande Apartment"
 description: "Sarande Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482043750.jpg?k=ac8f0b5f2ba12f0f275f232daf993afc13b14f37e1ebe4dcff84a2f99657cc95&o=&hp=1"
+featuredImage: "/images/accommodation/sarande-apartment-482043750.jpg"
 language: en
 slug: sarande-apartment
 address: "Rruga Gjergj Araniti, Sarandë, Albania"

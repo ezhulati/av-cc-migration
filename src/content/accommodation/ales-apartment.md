@@ -1,7 +1,7 @@
 ---
 title: "Ales' Apartment"
 description: "Ales' Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, mere steps from the pristine Shkëmbi i Kavajës Beach and within easy reach of Durres and Golem Beaches."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467764944.jpg?k=8fb91846779d443e87fbfde5010d386e48395f526452a5ed2600db5274810272&o=&hp=1"
+featuredImage: "/images/accommodation/ales-apartment-467764944.jpg"
 language: en
 slug: ales-apartment
 address: "Rruga Pavaresia, shkembi Kavajes, 2504 Durrës, Albania"

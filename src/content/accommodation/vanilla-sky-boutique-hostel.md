@@ -1,7 +1,7 @@
 ---
 title: "Vanilla Sky Boutique Hostel"
 description: "Vanilla Sky Boutique Hostel emerges as a modern haven for travelers seeking the vibrant heart of Tirana, offering free WiFi and panoramic city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222335683.jpg?k=53791bb783d654ef10294e2214382acaa860eb194686c516613fdab0336a914d&o=&hp=1"
+featuredImage: "/images/accommodation/vanilla-sky-boutique-hostel-222335683.jpg"
 language: en
 slug: vanilla-sky-boutique-hostel
 address: "Rruga Pjetër Bogdani Ndertesa 5, kati i dyte, 1001 Tirana, Albania"

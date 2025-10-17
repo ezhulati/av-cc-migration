@@ -1,7 +1,7 @@
 ---
 title: "Albi Apartment 1"
 description: "Albi Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471239668.jpg?k=19fd0f561c9e5fb46b3011785e2490951cf5a88a81cbda1605b8c12cd86450ef&o=&hp=1"
+featuredImage: "/images/accommodation/albi-apartment-1-471239668.jpg"
 language: en
 slug: albi-apartment-1
 address: "Rruga Shyqyri Ali Merka, 9494 Vlorë, Albania"

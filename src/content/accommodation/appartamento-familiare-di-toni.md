@@ -1,7 +1,7 @@
 ---
 title: "Appartamento familiare di Toni"
 description: "Appartamento familiare di Toni stands out as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502959028.jpg?k=4ce83ea676ca5043b493a48b07ec6387e1db1587634694bda6f72a2edbf2f798&o=&hp=1"
+featuredImage: "/images/accommodation/appartamento-familiare-di-toni-502959028.jpg"
 language: en
 slug: appartamento-familiare-di-toni
 address: "Bulevardi Skënderbeu, 4001 Shkodër, Albania"

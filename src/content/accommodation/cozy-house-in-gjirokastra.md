@@ -1,7 +1,7 @@
 ---
 title: "Cozy House, in Gjirokastra"
 description: "Cozy House stands as a serene retreat in the historic heart of Gjirokastër, offering air-conditioned comfort with the added luxury of a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495540551.jpg?k=e6519df8bfa28fd1628bdb18a0231d93b602af66778ffdd6fd6787c8feb4f551&o=&hp=1"
+featuredImage: "/images/accommodation/cozy-house-in-gjirokastra-495540551.jpg"
 language: en
 slug: cozy-house-in-gjirokastra
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

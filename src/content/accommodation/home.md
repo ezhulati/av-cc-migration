@@ -1,7 +1,7 @@
 ---
 title: "Home"
 description: "Home, a serene oasis located in the vibrant heart of Vlorë, offers a unique blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358577248.jpg?k=41e57b12bee060af1470ffb88ae189d66eddbb5a0bec1881aa7d4c86c31e6b30&o=&hp=1"
+featuredImage: "/images/accommodation/home-358577248.jpg"
 language: en
 slug: home
 address: "Rrethi në skele, Vlore, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bohemian Sophie Korce"
 description: "Bohemian Sophie Korce emerges as a charming retreat in the heart of Korçë, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378140292.jpg?k=9ff913b51ff27e35316133c44a89a1da24f9da94d771298785c6827faf5c3bc6&o=&hp=1"
+featuredImage: "/images/accommodation/bohemian-sophie-korce-378140292.jpg"
 language: en
 slug: bohemian-sophie-korce
 address: "Pazari i Vjeter Korce, 7001 Korçë, Albania"

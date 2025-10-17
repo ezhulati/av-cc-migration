@@ -1,7 +1,7 @@
 ---
 title: "Dream House Korça"
 description: "Dream House Korça emerges as a serene retreat in the vibrant heart of Korçë, merely a stone's throw away from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum, both located 43 km from the property."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349316529.jpg?k=05e80c84df1f37c5e0db8936e065294df90ebe12a8f752652bd510594dfcbcda&o=&hp=1"
+featuredImage: "/images/accommodation/dream-house-kor-a-349316529.jpg"
 language: en
 slug: dream-house-kor-a
 address: "Rruga Hafiz Ali Korca, 7001 Korçë, Albania"

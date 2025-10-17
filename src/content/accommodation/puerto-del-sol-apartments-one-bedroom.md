@@ -1,7 +1,7 @@
 ---
 title: "Puerto Del Sol Apartments One Bedroom"
 description: "Puerto Del Sol Apartments One Bedroom emerges as a standout choice for travelers seeking a blend of comfort and convenience along the Vlorë coastline."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493283547.jpg?k=952147578d34ae0d0fc70439905e127470e676cc2f507f186f4df02b07a78f95&o=&hp=1"
+featuredImage: "/images/accommodation/puerto-del-sol-apartments-one-bedroom-493283547.jpg"
 language: en
 slug: puerto-del-sol-apartments-one-bedroom
 address: "lorë County Uji i Ftohtë Str. Aleksandër Moisiu 4900, 9405 Vlorë, Albania"

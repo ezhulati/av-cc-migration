@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Pogradec"
 description: "Guesthouse Pogradec emerges as a serene retreat, boasting a picturesque garden and sweeping lake views, located just a stone's throw away from the enchanting Ohrid Lake Springs and the historical Bay of Bones."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485099806.jpg?k=ba875f5ef8d494d368c3021cad16c0f7d180e39442e76a07a043c6321dde7afa&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-pogradec-485099806.jpg"
 language: en
 slug: guesthouse-pogradec
 address: "Remenj, Pogradec, 7304 Pogradec, Albania"

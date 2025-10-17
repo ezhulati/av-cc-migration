@@ -1,7 +1,7 @@
 ---
 title: "Sunset Oasis Getaway"
 description: "Sunset Oasis Getaway emerges as a serene retreat in Llogara, perfectly positioned just a stone's throw away from the pristine shores of Nazar Beach and a brief drive from the tranquil Palasa Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515456514.jpg?k=93eb4a95d1c44c2a6605d9033b43da44c5c3b341c2673d6fa4e755528ba4310e&o=&hp=1"
+featuredImage: "/images/accommodation/sunset-oasis-getaway-515456514.jpg"
 language: en
 slug: sunset-oasis-getaway
 address: "Kaon 155c, Llogara, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Contact Apartment"
 description: "Tirana Contact Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405991061.jpg?k=bc2b1bb417100e26faefdbabb8e56c2a27d750ce3dbdecb13b8dffd087eda4dd&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-contact-apartment-405991061.jpg"
 language: en
 slug: tirana-contact-apartment
 address: "Rruga Ndre Mjeda, 1001 Tirana, Albania"

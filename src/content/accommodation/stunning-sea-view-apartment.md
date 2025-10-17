@@ -1,7 +1,7 @@
 ---
 title: "Stunning Sea View Apartment"
 description: "Stunning Sea View Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356030423.jpg?k=463d13046933ba65ae21092dc8c1a0ca8430bb3c55f97ff2145c663b427ca2c0&o=&hp=1"
+featuredImage: "/images/accommodation/stunning-sea-view-apartment-356030423.jpg"
 language: en
 slug: stunning-sea-view-apartment
 address: "Shëtitorja Wilson - Beach - Shëngjin, Shëngjin, Albania"

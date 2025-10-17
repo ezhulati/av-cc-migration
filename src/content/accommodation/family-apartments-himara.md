@@ -1,7 +1,7 @@
 ---
 title: "Family Apartments Himara"
 description: "Family Apartments Himara emerges as a prime choice for travelers seeking comfort and convenience in the heart of Himare, a stone's throw away from the pristine shores of Spille Beach, Maracit Beach, and Prinos Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471872664.jpg?k=e9e989e24d85cb1b76b4e6151e526870a140220aaa7948239e8651baf9138aaf&o=&hp=1"
+featuredImage: "/images/accommodation/family-apartments-himara-471872664.jpg"
 language: en
 slug: family-apartments-himara
 address: "Cako Himare, 9425 Himare, Albania"

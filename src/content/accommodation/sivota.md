@@ -1,7 +1,7 @@
 ---
 title: "SIVOTA"
 description: "SIVOTA stands out as a serene retreat in the vibrant city of Vlorë, offering guests a unique blend of convenience and tranquility."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465387573.jpg?k=eb073fa2c0a6efd452c98c9157ff638699fcb4a22b8b3db07b82bec313dc683e&o=&hp=1"
+featuredImage: "/images/accommodation/sivota-465387573.jpg"
 language: en
 slug: sivota
 address: "Rruga Shyqyri Ali Merka, Vlorë, Albania"

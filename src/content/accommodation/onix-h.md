@@ -1,7 +1,7 @@
 ---
 title: "Onix H"
 description: "Onix H stands as a distinguished 4-star hotel in Ksamil, just a stone's throw away from the pristine Paradise Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488499290.jpg?k=32b883e32c344aac51799ec4f65c25b1b5394fdf657fbee6edc7ccdf2421deb2&o=&hp=1"
+featuredImage: "/images/accommodation/onix-h-488499290.jpg"
 language: en
 slug: onix-h
 address: "Rruga Riviera, 9706 Ksamil, Albania"

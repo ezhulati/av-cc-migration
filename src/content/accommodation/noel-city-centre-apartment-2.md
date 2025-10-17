@@ -1,7 +1,7 @@
 ---
 title: "Noel City Centre Apartment 2"
 description: "Noel City Centre Apartment 2 emerges as a serene retreat in the heart of Berat, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494787935.jpg?k=d5675c3a301cbb747f02fda4d9e2b81f23fc61fc6d0da5ab1bd00180ee3b68b0&o=&hp=1"
+featuredImage: "/images/accommodation/noel-city-centre-apartment-2-494787935.jpg"
 language: en
 slug: noel-city-centre-apartment-2
 address: "Rr 28 nentori berat 5001 nd 80 ap 8, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Amantius room"
 description: "Amantius Room stands out as a serene retreat in Borsh, offering breathtaking sea views from its prime location just a short 2."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483618591.jpg?k=07302a3286865e6878de258b3a4c7f75830fa26174bbe4c73b68146e33540a75&o=&hp=1"
+featuredImage: "/images/accommodation/amantius-room-483618591.jpg"
 language: en
 slug: amantius-room
 address: "Rruga Plazhit, 9714 Borsh, Albania"

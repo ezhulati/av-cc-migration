@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Dollomaja Ksamil"
 description: "Guesthouse Dollomaja Ksamil emerges as a charming retreat for travelers seeking both tranquility and adventure in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365616331.jpg?k=a7259d5e72ed3caf64b0a4451b6e9422ea380b7a7452c854ac707bd4d8d818b1&o=&hp=1"
+featuredImage: "/images/accommodation/guesthouse-dollomaja-ksamil-365616331.jpg"
 language: en
 slug: guesthouse-dollomaja-ksamil
 address: "Road \" Butrint & Antoni Athanas \" Nr.78, 9706 Ksamil, Albania"

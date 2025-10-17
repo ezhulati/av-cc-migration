@@ -1,7 +1,7 @@
 ---
 title: "Apartments Bella Vista"
 description: "Apartments Bella Vista emerges as a serene oasis in Durrës, located just 11 km from the historic Durres Amphitheatre."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89310199.jpg?k=079a22053f69c6e664e727cb07cfc6bb7fae1afb45cf5708533f9087bcf56f46&o=&hp=1"
+featuredImage: "/images/accommodation/apartments-bella-vista-89310199.jpg"
 language: en
 slug: apartments-bella-vista
 address: "Rr. Pavarsia, Shkembi i Kavajes, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sifi's House"
 description: "Sifi's House emerges as a serene oasis in Pogradec, boasting a picturesque garden and sweeping lake views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519570649.jpg?k=dcbee18142db8abed9eec9e42ef6fb42d77fa2e218e0a77b5efeb5f593d81cb0&o=&hp=1"
+featuredImage: "/images/accommodation/sifi-s-house-519570649.jpg"
 language: en
 slug: sifi-s-house
 address: "Udenisht, Pole, Pogradec, Albania"

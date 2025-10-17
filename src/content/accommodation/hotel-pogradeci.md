@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pogradeci"
 description: "Hotel Pogradeci stands as a serene retreat on the shores of Lake Ohrid, merely a stone's throw from the vibrant heart of Pogradec."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176116515.jpg?k=6a0edd62713f991176fd954ae8a4c4740a4ea834e34fe8059a244e99b10bdf3c&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-pogradeci-176116515.jpg"
 language: en
 slug: hotel-pogradeci
 address: "Rruga Deshmoret E Pojskes, 7301 Pogradec, Albania"

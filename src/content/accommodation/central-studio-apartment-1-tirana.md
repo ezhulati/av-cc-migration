@@ -1,7 +1,7 @@
 ---
 title: "Central Studio Apartment 1, Tirana"
 description: "Central Studio Apartment 1, Tirana, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320108109.jpg?k=38b13700a6a8e5c1724f5ebc093fe65bc3fe2e2d64cef0170849dbe2b91726ab&o=&hp=1"
+featuredImage: "/images/accommodation/central-studio-apartment-1-tirana-320108109.jpg"
 language: en
 slug: central-studio-apartment-1-tirana
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

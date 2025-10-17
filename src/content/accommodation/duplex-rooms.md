@@ -1,7 +1,7 @@
 ---
 title: "Duplex Rooms"
 description: "Duplex Rooms emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, situated within a manageable distance from the serene Ohrid Lake Springs (43 km) and the historic Monastery Saint Naum (42 km)."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384096628.jpg?k=c67352b52b01d27e126c62c4dd21c2071f90740ab1f90bff68b096e358038ca3&o=&hp=1"
+featuredImage: "/images/accommodation/duplex-rooms-384096628.jpg"
 language: en
 slug: duplex-rooms
 address: "Rruga Kiço Greço Idea Electric, 1233 Korçë, Albania"

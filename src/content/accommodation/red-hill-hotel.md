@@ -1,7 +1,7 @@
 ---
 title: "Red Hill Hotel"
 description: "Red Hill Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476889119.jpg?k=907a5dc6d6441015971e32f097c6ed5da0fe0a51b872805de8fdd9e52b0d0bb2&o=&hp=1"
+featuredImage: "/images/accommodation/red-hill-hotel-476889119.jpg"
 language: en
 slug: red-hill-hotel
 address: "Rruga Azem Hajdari, 1047 Tirana, Albania"

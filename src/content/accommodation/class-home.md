@@ -1,7 +1,7 @@
 ---
 title: "Class Home"
 description: "Class Home emerges as a serene retreat in the heart of Ksamil, a mere stroll away from the pristine Sunset Beach and the vibrant Ksamil Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471728927.jpg?k=ea74468e2c3f3d10efebcf501fab8524453ce36147946631c7556dd733c61cf7&o=&hp=1"
+featuredImage: "/images/accommodation/class-home-471728927.jpg"
 language: en
 slug: class-home
 address: "Rruga Ksamil, 9706 Ksamil, Albania"

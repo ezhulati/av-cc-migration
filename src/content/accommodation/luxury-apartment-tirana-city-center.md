@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment Tirana City Center"
 description: "Luxury Apartment Tirana City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425014219.jpg?k=d1b63872983d75f7490325c0c0f63610480cbf4e372ef51e828684a8e5deecec&o=&hp=1"
+featuredImage: "/images/accommodation/luxury-apartment-tirana-city-center-425014219.jpg"
 language: en
 slug: luxury-apartment-tirana-city-center
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

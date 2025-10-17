@@ -1,7 +1,7 @@
 ---
 title: "Portik Hotel"
 description: "Portik Hotel stands out in Berat for its exceptional amenities and services, offering guests a blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220668718.jpg?k=8e322c57dfe84d15804b030fa8483009881741938fd479e9008255b450b56cd7&o=&hp=1"
+featuredImage: "/images/accommodation/portik-hotel-220668718.jpg"
 language: en
 slug: portik-hotel
 address: "Rruga Antipatrea Lagjia 28 Nentori, 5001 Berat, Albania"

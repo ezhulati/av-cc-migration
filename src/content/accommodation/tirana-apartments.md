@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartments"
 description: "Tirana Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386963200.jpg?k=db099224e82f61b12075cf93e616424f921f7bc44405849ebc974d8e10f44949&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-apartments-386963200.jpg"
 language: en
 slug: tirana-apartments
 address: "Rruga Mahmut Fortuzi, 10/1, 1001 Tirana, Albania"

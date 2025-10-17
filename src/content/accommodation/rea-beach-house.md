@@ -1,7 +1,7 @@
 ---
 title: "REA Beach House"
 description: "REA Beach House, located in the vibrant city of Durrës, offers a refreshing retreat just moments away from the pristine shores of Shkëmbi i Kavajës Beach and Durres Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471309557.jpg?k=a9fbdc189046bca92dc01f4fef0ce3146b10bf7fd2c04e79c6c5a1f5af7f9eaa&o=&hp=1"
+featuredImage: "/images/accommodation/rea-beach-house-471309557.jpg"
 language: en
 slug: rea-beach-house
 address: "Rruga Poseidon, Durres, 2008 Durrës, Albania"

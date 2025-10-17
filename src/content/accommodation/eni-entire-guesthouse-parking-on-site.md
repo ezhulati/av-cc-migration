@@ -1,7 +1,7 @@
 ---
 title: "Eni entire guesthouse parking on site"
 description: "Eni Entire Guesthouse emerges as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437666811.jpg?k=cbf32c90fb95dc050a97545c5d3dd5afeb2fdcd2243b9f814bc7c4947560e813&o=&hp=1"
+featuredImage: "/images/accommodation/eni-entire-guesthouse-parking-on-site-437666811.jpg"
 language: en
 slug: eni-entire-guesthouse-parking-on-site
 address: "Rruga Nikolla Buhuri, 5000 Berat, Albania"

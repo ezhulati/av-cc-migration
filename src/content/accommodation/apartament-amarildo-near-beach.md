@@ -1,7 +1,7 @@
 ---
 title: "Apartament Amarildo -near Beach-"
 description: "Apartament Amarildo -near Beach- emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499266849.jpg?k=5dd8c0b297fdd71eff2d5033080c2ada2e988b2e71fb794f5023bf3c10aefdca&o=&hp=1"
+featuredImage: "/images/accommodation/apartament-amarildo-near-beach-499266849.jpg"
 language: en
 slug: apartament-amarildo-near-beach
 address: "Rruga Pavaresia, Durrës, Albania"

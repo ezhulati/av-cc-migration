@@ -1,7 +1,7 @@
 ---
 title: "Joana's Apartment"
 description: "Joana's Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, just a stone's throw away from the pristine Potam Beach and a leisurely stroll from Prinos Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112224586.jpg?k=63f8a65e399e738b0afe059aecad6a3237b590cda3f1fb3ef0a56292cb16b847&o=&hp=1"
+featuredImage: "/images/accommodation/joana-s-apartment-112224586.jpg"
 language: en
 slug: joana-s-apartment
 address: "6 SH8 Ap.1 , First Floor, 9425 Himare, Albania"

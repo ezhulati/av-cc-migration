@@ -1,7 +1,7 @@
 ---
 title: "Louis Appartment"
 description: "Louis Appartment emerges as a prime choice for travelers seeking comfort and convenience in Orikum."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
+featuredImage: "/images/accommodation/louis-appartment-8103dfb0481c.jpg"
 language: en
 slug: louis-appartment
 address: "Rruga Orikum, 9426 Orikum, Albania"

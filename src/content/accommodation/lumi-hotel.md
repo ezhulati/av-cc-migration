@@ -1,7 +1,7 @@
 ---
 title: "Lumi Hotel"
 description: "Lumi Hotel emerges as a serene oasis in the heart of Sarandë, a mere stone's throw away from the pristine Maestral Beach and the vibrant Saranda City Beach, both less than a kilometer from the doorstep."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263954904.jpg?k=1cfa331a8eabf976ea9305f0784312bd4aa25a39d305043ff8678b4f2aad0c75&o=&hp=1"
+featuredImage: "/images/accommodation/lumi-hotel-263954904.jpg"
 language: en
 slug: lumi-hotel
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

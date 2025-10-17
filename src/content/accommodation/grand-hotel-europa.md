@@ -1,7 +1,7 @@
 ---
 title: "Grand Hotel Europa"
 description: "Experience the epitome of luxury and service at the Grand Hotel Europa, a distinguished 5-star destination in the heart of Shkodra."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175124445.jpg?k=f0001d799e609d70ac8379d4379f8b88a1e71324759b10870ac6988cff6af50e&o=&hp=1"
+featuredImage: "/images/accommodation/grand-hotel-europa-175124445.jpg"
 language: en
 slug: grand-hotel-europa
 address: "2nd April Square, 4007 Shkodër, Albania"

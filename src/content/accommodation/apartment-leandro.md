@@ -1,7 +1,7 @@
 ---
 title: "Apartment Leandro"
 description: "Apartment Leandro stands out as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379754483.jpg?k=5d3aa01d44b8d76fa1b6d39730f094963e43b2f4b6c5af8b6c30d61df997354e&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-leandro-379754483.jpg"
 language: en
 slug: apartment-leandro
 address: "Apollonia Street, Ksamil, Albania"

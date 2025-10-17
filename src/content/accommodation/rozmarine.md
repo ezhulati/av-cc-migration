@@ -1,7 +1,7 @@
 ---
 title: "Rozmarine"
 description: "Rozmarine emerges as a serene oasis located in Pëllumbas, a mere 22 km from the bustling Skanderbeg Square, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343773877.jpg?k=f68d5f7fc79fe66784cf113a3a6ad7a14f06679357203c2ca4091eaa7612f6a9&o=&hp=1"
+featuredImage: "/images/accommodation/rozmarine-343773877.jpg"
 language: en
 slug: rozmarine
 address: "Pëllumbas, 1000 Pëllumbas, Albania"

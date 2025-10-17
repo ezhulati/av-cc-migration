@@ -1,7 +1,7 @@
 ---
 title: "Fully Equipped beachfront Apartment"
 description: "Discover the epitome of coastal living at the Fully Equipped Beachfront Apartment, a prime destination for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518946217.jpg?k=74381e2f8cdcd41370e0a9f07cd6bd19a20594cf9c4ace6887131794c7b2de01&o=&hp=1"
+featuredImage: "/images/accommodation/fully-equipped-beachfront-apartment-518946217.jpg"
 language: en
 slug: fully-equipped-beachfront-apartment
 address: "Rruga Taulantia, Durrës, Albania"

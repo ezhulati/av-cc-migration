@@ -1,7 +1,7 @@
 ---
 title: "Elio’s house"
 description: "Elio's House emerges as a prime choice for travelers seeking a comfortable stay in Vlorë, complete with the convenience of a terrace and fully equipped kitchen."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523360293.jpg?k=209929e7a7285df6c3bb4990a5e2eb8789f2158af04c4fb897298906c830f776&o=&hp=1"
+featuredImage: "/images/accommodation/elio-s-house-523360293.jpg"
 language: en
 slug: elio-s-house
 address: "Rruga Maro Konti, Vlorë, Albania"

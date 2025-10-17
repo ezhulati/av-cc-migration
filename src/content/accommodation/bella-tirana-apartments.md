@@ -1,7 +1,7 @@
 ---
 title: "Bella Tirana Apartments"
 description: "Bella Tirana Apartments emerges as a serene haven in the heart of Tirana, offering a blend of comfort and convenience for travelers seeking an urban retreat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513677793.jpg?k=7068d9462333619c1f88ae8ae6db9aeda935fa3d3fae1128c0a1b480a5008f2d&o=&hp=1"
+featuredImage: "/images/accommodation/bella-tirana-apartments-513677793.jpg"
 language: en
 slug: bella-tirana-apartments
 address: "Rruga Andon Zako Çajupi, Tirana, Albania"

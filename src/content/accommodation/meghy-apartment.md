@@ -1,7 +1,7 @@
 ---
 title: "Meghy apartment"
 description: "Discover the charm of Vlorë with a stay at Meghy Apartment, a prime choice for travelers seeking comfort and convenience less than a kilometer from the serene Vjetër Beach and a mere 13-minute stroll from the vibrant Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467378189.jpg?k=0c427774be13fbd9232f5691cd070ca73d08c2500581ab9ce014ced223ae9f12&o=&hp=1"
+featuredImage: "/images/accommodation/meghy-apartment-467378189.jpg"
 language: en
 slug: meghy-apartment
 address: "Bulevardi ismail Qemali Piano 7, 9400 Vlorë, Albania"

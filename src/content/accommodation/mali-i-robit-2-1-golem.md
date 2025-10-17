@@ -1,7 +1,7 @@
 ---
 title: "Mali i Robit 2+1,Golem"
 description: "Mali i Robit 2+1, Golem, emerges as a recently renovated gem, offering a serene retreat in the heart of Golem, a stone's throw away from the pristine shores of Mali I Robit Beach, Qerret Beach, and Golem Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473066606.jpg?k=6a79fcd48d575966e4a50ed8b90b8e69ac259b8f9437355902be921d634a19a3&o=&hp=1"
+featuredImage: "/images/accommodation/mali-i-robit-2-1-golem-473066606.jpg"
 language: en
 slug: mali-i-robit-2-1-golem
 address: "Mali i Robit,Ngjitur me Prestigj, 2501 Golem, Albania"

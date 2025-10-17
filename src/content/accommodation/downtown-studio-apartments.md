@@ -1,7 +1,7 @@
 ---
 title: "Downtown Studio Apartments"
 description: "Downtown Studio Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509622059.jpg?k=ea9fd7d497170a3d392396f2ecfea0f02944dacc1da7cd20ce8b9b9fd91befa9&o=&hp=1"
+featuredImage: "/images/accommodation/downtown-studio-apartments-509622059.jpg"
 language: en
 slug: downtown-studio-apartments
 address: "Rruga Myslym Shyri up to the center of it 3 first floor, 1001 Tirana, Albania"

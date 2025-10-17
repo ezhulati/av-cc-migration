@@ -1,7 +1,7 @@
 ---
 title: "one step from sea"
 description: "One Step from Sea emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361953455.jpg?k=7c4e57d7481728c4b49a217ca30c8a31d6f7a492e01ef5077059fd1fe39e08d8&o=&hp=1"
+featuredImage: "/images/accommodation/one-step-from-sea-361953455.jpg"
 language: en
 slug: one-step-from-sea
 address: "Rruga Pavaresia,close to vila koral, 2008 Durrës, Albania"

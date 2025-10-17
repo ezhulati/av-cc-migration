@@ -1,7 +1,7 @@
 ---
 title: "Apartmán ORANGE"
 description: "Discover the charm of Durrës with a stay at Apartmán ORANGE, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504382031.jpg?k=52a349d1f5811e64745ebdc5354b94002a6a8e972a904350234c7d741c7600e0&o=&hp=1"
+featuredImage: "/images/accommodation/apartm-n-orange-504382031.jpg"
 language: en
 slug: apartm-n-orange
 address: "Rruga Durrakia, oblast Shkembi i Kavajes 735, Durrës, Albania"

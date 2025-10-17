@@ -1,7 +1,7 @@
 ---
 title: "Fatjon House"
 description: "Discover the charm of Fatjon House, a serene oasis located in the vibrant city of Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481675847.jpg?k=63855d5ef3d73273e38aa2de7960de7bc656c2d5adc8c7145a7e3d95d37308ab&o=&hp=1"
+featuredImage: "/images/accommodation/fatjon-house-481675847.jpg"
 language: en
 slug: fatjon-house
 address: "Rruga Polumbari 1, Durrës, Albania"

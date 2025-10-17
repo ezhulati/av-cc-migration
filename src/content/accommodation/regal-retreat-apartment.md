@@ -1,7 +1,7 @@
 ---
 title: "Regal retreat Apartment"
 description: "Regal Retreat Apartment stands as a prime choice for travelers seeking comfort and convenience in Shkodër, situated less than 50 km from the Port of Bar."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499880270.jpg?k=474d64dcd6120ce50c7b034632809009b86935f11352f4f337caa620a883bf0d&o=&hp=1"
+featuredImage: "/images/accommodation/regal-retreat-apartment-499880270.jpg"
 language: en
 slug: regal-retreat-apartment
 address: "Rruga Luigj Gurakuqi, 4001 Shkodër, Albania"

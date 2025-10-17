@@ -1,7 +1,7 @@
 ---
 title: "White Beach Villa 1 - Luxury"
 description: "White Beach Villa 1 - Luxury emerges as a premier choice for travelers seeking a blend of comfort and convenience in Velipojë."
-featuredImage: "https://lh3.googleusercontent.com/a/AATXAJxJrIJArstJQv97mbmT3N0wSXn1kSIIKPdy8Vks=s96-c64"
+featuredImage: "/images/accommodation/white-beach-villa-1-luxury-AATXAJxJrIJA.jpg"
 language: en
 slug: white-beach-villa-1-luxury
 address: "Rruga Nr.2 Rruga Llesh Matushaj, Velipojë, Albania"

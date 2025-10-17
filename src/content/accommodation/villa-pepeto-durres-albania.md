@@ -1,7 +1,7 @@
 ---
 title: "VILLA PEPETO Durres Albania"
 description: "Villa Pepeto, situated in the vibrant heart of Durrës, Albania, stands a mere stone's throw away from the bustling Port of Durrës, offering travelers an oasis of convenience and comfort."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33395758.jpg?k=3649e5ca5edc646b2063b6f77e9479a30015e6c1f95360397b6923bd9559b1d6&o=&hp=1"
+featuredImage: "/images/accommodation/villa-pepeto-durres-albania-33395758.jpg"
 language: en
 slug: villa-pepeto-durres-albania
 address: "Mbreti MONUM Nr.3 Ramazan Jella, 1001 Durrës, Albania"

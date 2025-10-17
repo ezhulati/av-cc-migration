@@ -1,7 +1,7 @@
 ---
 title: "Blini Seaside Apartment"
 description: "Blini Seaside Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shëngjin."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198150651.jpg?k=105dea7ad065199c98f6ed1ee018c3c004cf7c173af1b819842d77a55eaa02f5&o=&hp=1"
+featuredImage: "/images/accommodation/blini-seaside-apartment-198150651.jpg"
 language: en
 slug: blini-seaside-apartment
 address: "Rruga Shëngjin - Kune Apartment No. 14, Entrance No. 3, Floor No. 2, 4503, 4503 Shëngjin, Albania"

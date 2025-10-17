@@ -1,7 +1,7 @@
 ---
 title: "Altiku Apartments"
 description: "Altiku Apartments emerges as a prime choice for travelers seeking comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465426438.jpg?k=7c20b14e75c7b1db18272017ef5e6551ea545b0f016fd66e1afc0ad8044a3c24&o=&hp=1"
+featuredImage: "/images/accommodation/altiku-apartments-465426438.jpg"
 language: en
 slug: altiku-apartments
 address: "Rruga Ismail Qemali, 2504 Golem, Albania"

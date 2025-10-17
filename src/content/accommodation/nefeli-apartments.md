@@ -1,7 +1,7 @@
 ---
 title: "Nefeli Apartments"
 description: "Nefeli Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106678517.jpg?k=ab3bef73c37fca3493c78e86a6b31702d4f35ed50b80147005ed33ae893f1d3f&o=&hp=1"
+featuredImage: "/images/accommodation/nefeli-apartments-106678517.jpg"
 language: en
 slug: nefeli-apartments
 address: "Rruga Gjergj Araniti pallati nr. 7, 9701 Sarandë, Albania"

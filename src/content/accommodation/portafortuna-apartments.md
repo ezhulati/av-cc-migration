@@ -1,7 +1,7 @@
 ---
 title: "Portafortuna Apartments"
 description: "Portafortuna Apartments stands as a prime choice for travelers seeking the convenience of self-catering accommodations, coupled with the serene backdrop of Disco Mango Beach in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304890162.jpg?k=bb2eff1ce59c97566e4818fcd526e7ca618817e25c5f25e82416867d4793440b&o=&hp=1"
+featuredImage: "/images/accommodation/portafortuna-apartments-304890162.jpg"
 language: en
 slug: portafortuna-apartments
 address: "Rruga Sarandë - Ksamil, Km 3, 1001 Sarandë, Albania"

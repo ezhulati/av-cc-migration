@@ -1,7 +1,7 @@
 ---
 title: "Azzur luxury apartment"
 description: "Azzur Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479561573.jpg?k=1e4029ef14d486922d55820dd9303b50e73382a32b5651042675f2d87d904c05&o=&hp=1"
+featuredImage: "/images/accommodation/azzur-luxury-apartment-479561573.jpg"
 language: en
 slug: azzur-luxury-apartment
 address: "Rruga Janaq Kumi 1, 9701 Sarandë, Albania"

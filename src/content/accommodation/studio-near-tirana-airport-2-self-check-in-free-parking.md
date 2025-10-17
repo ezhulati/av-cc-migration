@@ -1,7 +1,7 @@
 ---
 title: "Studio near Tirana Airport 2- SELF Check-in Free Parking"
 description: "Studio near Tirana Airport 2- SELF Check-in Free Parking emerges as a prime choice for travelers seeking convenience and comfort in Valias."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471981760.jpg?k=0d4eec71820fab4dee8e1f2192daacd14754a790c37f9267537326d5102e5a6b&o=&hp=1"
+featuredImage: "/images/accommodation/studio-near-tirana-airport-2-self-check-in-free-parking-471981760.jpg"
 language: en
 slug: studio-near-tirana-airport-2-self-check-in-free-parking
 address: "Rruga NATO, Valias, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Novruzi Housing Complex"
 description: "Discover the charm of Vlorë at the Novruzi Housing Complex, a prime destination for travelers seeking both relaxation and adventure by the sea."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
+featuredImage: "/images/accommodation/novruzi-housing-complex-12a07b30d7fe.jpg"
 language: en
 slug: novruzi-housing-complex
 address: "Rruga vlore radhime, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Park Ashik"
 description: "Park Ashik emerges as a serene oasis in Tirana, boasting a seasonal outdoor swimming pool, meticulously maintained garden, a welcoming shared lounge, and an inviting terrace."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164568176.jpg?k=9e959f42e41dde06bf61297037869ee816f5005b0aad914ad048a8036ab80bde&o=&hp=1"
+featuredImage: "/images/accommodation/park-ashik-164568176.jpg"
 language: en
 slug: park-ashik
 address: "Rruga e Kavajës 20 km from Tirana and 15 km from Durres, 1001 Tirana, Albania"

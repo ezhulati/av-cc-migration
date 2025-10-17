@@ -1,7 +1,7 @@
 ---
 title: "B and B Vala Apartament"
 description: "B and B Vala Apartament emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned a mere stone's throw away from the pristine Vjetër Beach and the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491627892.jpg?k=dd8da74fed465584540730128c09195af3bcb4c640205efe614188134cc80ad9&o=&hp=1"
+featuredImage: "/images/accommodation/b-and-b-vala-apartament-491627892.jpg"
 language: en
 slug: b-and-b-vala-apartament
 address: "Nisatel pavaresia vlore, 9401 Vlorë, Albania"

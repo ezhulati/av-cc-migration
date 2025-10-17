@@ -1,7 +1,7 @@
 ---
 title: "Brahimi Guest House"
 description: "Brahimi Guest House emerges as a serene retreat in the heart of Ksamil, perfectly positioned just a stone's throw away from the pristine Sunset Beach and a leisurely stroll from the vibrant Coco Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447506431.jpg?k=d2c028df1c36ab62f79217ea507f65ccfb75841a98436ed9eb5649844b783138&o=&hp=1"
+featuredImage: "/images/accommodation/brahimi-guest-house-447506431.jpg"
 language: en
 slug: brahimi-guest-house
 address: "Rruga Ali Pasha, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "BAZ'HUR Boutique Hotel"
 description: "Discover the charm of BAZ'HUR Boutique Hotel, a gem located in Kukës, just a stone's throw away from cultural landmarks such as Sinan Pasha Mosque, Kalaja Fortress Prizren, and the Albanian League of Prizren Museum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493567248.jpg?k=d724826e8587e687fad2878261841ec947aa8434a0f4331685762616147df4ce&o=&hp=1"
+featuredImage: "/images/accommodation/baz-hur-boutique-hotel-493567248.jpg"
 language: en
 slug: baz-hur-boutique-hotel
 address: "SH31, 8501 Kukës, Albania"

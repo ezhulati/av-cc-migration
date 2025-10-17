@@ -1,7 +1,7 @@
 ---
 title: "Livio Apartament"
 description: "Livio Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466258924.jpg?k=ba33684358fb755bdf0ce0f8e4bc56f524ecf7fb4f9bd862c4b0e1e642d07907&o=&hp=1"
+featuredImage: "/images/accommodation/livio-apartament-466258924.jpg"
 language: en
 slug: livio-apartament
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "MISHEL House"
 description: "MISHEL House, located in the vibrant city of Shkodër and a mere 50 km from the Port of Bar, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433973515.jpg?k=877908989fbbad6bdf796bfdeb0f9bdce9e86ba792ccfbe4676df1891615931a&o=&hp=1"
+featuredImage: "/images/accommodation/mishel-house-433973515.jpg"
 language: en
 slug: mishel-house
 address: "rruga .Berdicej gjuhadol, 4001 Shkodër, Albania"

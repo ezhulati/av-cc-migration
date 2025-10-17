@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Golem Summer Apartment"
 description: "Sunrise Golem Summer Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477525805.jpg?k=0fa36ca461e17c7d397f6970954db8515cbf439ad600ee4265db7f6ad94f1e43&o=&hp=1"
+featuredImage: "/images/accommodation/sunrise-golem-summer-apartment-477525805.jpg"
 language: en
 slug: sunrise-golem-summer-apartment
 address: "rruga butrinti golem building 1, floor 4, apt 29, 2000 Durrës, Albania"

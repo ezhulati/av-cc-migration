@@ -1,7 +1,7 @@
 ---
 title: "Bunec Beach Resort"
 description: "Bunec Beach Resort stands as a serene oasis in Piqeras, just a stone's throw away from the pristine Buneci Beach and a scenic drive from the historic Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480174195.jpg?k=951e24c9d082ce1b2da3dddb40e0c7ea2103a74437c5c794f341ea2b20d3b5d9&o=&hp=1"
+featuredImage: "/images/accommodation/bunec-beach-resort-480174195.jpg"
 language: en
 slug: bunec-beach-resort
 address: "Plazhi Bunecit, 9406 Piqeras, Albania"

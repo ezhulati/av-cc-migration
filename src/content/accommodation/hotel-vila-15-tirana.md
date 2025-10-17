@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila 15 Tirana"
 description: "Hotel Vila 15 Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357296652.jpg?k=a64a164397fa9b49ae455024b40ddabdac832bd3800beb46a4e393a8e9b96421&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-vila-15-tirana-357296652.jpg"
 language: en
 slug: hotel-vila-15-tirana
 address: "Rruga Frosina Plaku Vila 15, 1023 Tirana, Albania"

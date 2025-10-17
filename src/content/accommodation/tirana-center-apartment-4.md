@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Apartment 4"
 description: "Tirana Center Apartment 4 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355084671.jpg?k=6ff7958bf2c880733fd901f14024dac03342acf1ecb69925780b1c9e817db4d8&o=&hp=1"
+featuredImage: "/images/accommodation/tirana-center-apartment-4-355084671.jpg"
 language: en
 slug: tirana-center-apartment-4
 address: "Rruga e Barrikadave, Tirana, Albania"

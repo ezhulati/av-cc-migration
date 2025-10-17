@@ -1,7 +1,7 @@
 ---
 title: "Zeko Apartment"
 description: "Zeko Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399649306.jpg?k=f588ec17ab7c35c52921c266e4f5d35f9078049a2b5c0dfa07ccee9c8703d041&o=&hp=1"
+featuredImage: "/images/accommodation/zeko-apartment-399649306.jpg"
 language: en
 slug: zeko-apartment
 address: "7G9C+43V, Golem, Albania"

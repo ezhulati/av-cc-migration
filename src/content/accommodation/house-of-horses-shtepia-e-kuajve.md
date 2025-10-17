@@ -1,7 +1,7 @@
 ---
 title: "House of Horses Shtepia e Kuajve"
 description: "Discover the charm of Korçë with a stay at House of Horses Shtepia e Kuajve, a serene oasis located just 45 km from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506340247.jpg?k=0548eed57c228f668e2e1852388ea3f2548464b8db5ee62c9938c4f545e52235&o=&hp=1"
+featuredImage: "/images/accommodation/house-of-horses-shtepia-e-kuajve-506340247.jpg"
 language: en
 slug: house-of-horses-shtepia-e-kuajve
 address: "SH63, 7000 Korçë, Albania"

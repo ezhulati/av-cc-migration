@@ -1,7 +1,7 @@
 ---
 title: "Villa Anna"
 description: "Villa Anna emerges as a serene retreat in the vibrant heart of Sarandë, perfectly positioned just a short distance from the city's most pristine beaches and the enchanting Butrint National Park."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485208923.jpg?k=38911085273c36f8f83066cfcaf5a42e141e08ccffb171a9977780a3d5e9e752&o=&hp=1"
+featuredImage: "/images/accommodation/villa-anna-485208923.jpg"
 language: en
 slug: villa-anna
 address: "Hamalloi Street, Gjashtë , 1001 Sarandë, Albania"

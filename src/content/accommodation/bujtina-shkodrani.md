@@ -1,7 +1,7 @@
 ---
 title: "Bujtina SHKODRANI"
 description: "Bujtina SHKODRANI, located in the picturesque Voskopojë, emerges as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390971445.jpg?k=c07d002ce45a249c00f9c421aed98ab55652ac8c68dacce9959563ea1d6b8d2f&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-shkodrani-390971445.jpg"
 language: en
 slug: bujtina-shkodrani
 address: "Rruga Shen Kolli, 7029 Voskopojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Anja's Place - Himara"
 description: "Anja's Place - Himara emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, perfectly positioned just a stone's throw away from the pristine Maracit Beach and a brief stroll from the equally enchanting Prinos Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482747892.jpg?k=cf3d353031baaa89a5507773313e6dca315ff3021af8eeccc16fb666726f59c1&o=&hp=1"
+featuredImage: "/images/accommodation/anja-s-place-himara-482747892.jpg"
 language: en
 slug: anja-s-place-himara
 address: "SH8 Level 1- Apartment #2 in Intercom, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lejla's Apartament"
 description: "Lejla's Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Himare, just a stone's throw away from the pristine Maracit Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522742265.jpg?k=2f3355da520538c76f598f70441e78e3273a05f6443023d277d2f33bd711b3a3&o=&hp=1"
+featuredImage: "/images/accommodation/lejla-s-apartament-522742265.jpg"
 language: en
 slug: lejla-s-apartament
 address: "Himare, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Spacious house with a big garden and fire pit"
 description: "Spacious House with a Big Garden and Fire Pit emerges as a serene retreat in the vibrant city of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
+featuredImage: "/images/accommodation/spacious-house-with-a-big-garden-and-fire-pit-f69a0f45af41.jpg"
 language: en
 slug: spacious-house-with-a-big-garden-and-fire-pit
 address: "Rruga Leandro Zoto, 1005 Tirana, Albania"

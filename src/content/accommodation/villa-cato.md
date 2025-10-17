@@ -1,7 +1,7 @@
 ---
 title: "Villa Cato"
 description: "Villa Cato emerges as a serene retreat offering breathtaking lake views and a promise of tranquility just a short distance from Mango Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388545926.jpg?k=cb8c600518045d739878cbe615528f7301c16450dfe9ce731952c3b2ae6ef082&o=&hp=1"
+featuredImage: "/images/accommodation/villa-cato-388545926.jpg"
 language: en
 slug: villa-cato
 address: "Road Lekursi 30, ÇukË-Sarande, 9701 Sarandë, Albania"

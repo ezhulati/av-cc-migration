@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Te Rapi"
 description: "Bujtina Te Rapi emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, located just a stone's throw away from the serene Ohrid Lake Springs."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281177466.jpg?k=1748cfaec5aaa60afa3dde68f90faea68b2a0b0828693615dc22ae62ce1c0d73&o=&hp=1"
+featuredImage: "/images/accommodation/bujtina-te-rapi-281177466.jpg"
 language: en
 slug: bujtina-te-rapi
 address: "Rrugica Petraq Nasi, 7001 Korçë, Albania"

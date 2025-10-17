@@ -1,7 +1,7 @@
 ---
 title: "Sion Sarande Apartments"
 description: "Sion Sarande Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Saranda."
-featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
+featuredImage: "/images/accommodation/sion-sarande-apartments-0e43c9b9a23d.jpg"
 language: en
 slug: sion-sarande-apartments
 address: "Rruga 4 Shenjtoret, 9700 Sarandë, Albania"

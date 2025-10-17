@@ -1,7 +1,7 @@
 ---
 title: "DENSIT HOTEL"
 description: "DENSIT HOTEL emerges as a serene retreat in Pogradec, situated a mere 24 km from the tranquil Ohrid Lake Springs and a stone's throw away from the mystical Cave Church Archangel Michael, 25 km to be precise."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509099688.jpg?k=1c6e6b33028e4b8e75413a79d358723f4c8b91d8f376c6603dc42d6817a00a2d&o=&hp=1"
+featuredImage: "/images/accommodation/densit-hotel-509099688.jpg"
 language: en
 slug: densit-hotel
 address: "Piskupat, LIN Pogradec, 7301 Pogradec, Albania"

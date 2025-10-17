@@ -1,7 +1,7 @@
 ---
 title: "Vlore Lungomare apartament Albania"
 description: "Vlore Lungomare Apartment Albania offers a refreshing retreat in the heart of Vlorë, boasting air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404963730.jpg?k=8769cf6cc2c1c755bf643b24eddd83f0c4be14977b7cbb05932e4ec5aaa0d08d&o=&hp=1"
+featuredImage: "/images/accommodation/vlore-lungomare-apartament-albania-404963730.jpg"
 language: en
 slug: vlore-lungomare-apartament-albania
 address: "Vlore - Lungomare, Vlorë, Albania"

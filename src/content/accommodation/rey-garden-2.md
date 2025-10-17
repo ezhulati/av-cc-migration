@@ -1,7 +1,7 @@
 ---
 title: "Rey Garden 2"
 description: "Rey Garden 2 emerges as a serene oasis in Vlorë, offering guests the luxury of air-conditioned accommodations complete with a private balcony."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477483034.jpg?k=afe9ef1cc2edfdf71d65ca43019e938d167b0da5a6070406568fbc53384de311&o=&hp=1"
+featuredImage: "/images/accommodation/rey-garden-2-477483034.jpg"
 language: en
 slug: rey-garden-2
 address: "Rruga Andrea Varfi, 9400 Vlorë, Albania"

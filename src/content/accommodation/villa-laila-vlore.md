@@ -1,7 +1,7 @@
 ---
 title: "Villa Laila Vlore"
 description: "Villa Laila Vlore emerges as a serene oasis in the vibrant city of Vlorë, merely a stone's throw away from the pristine Vjetër Beach and a short drive from the bustling Vlore Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460163015.jpg?k=b3adad45f77803ec0da797294a8b84516ca6bfad41f83115e09bcc2e73a381c3&o=&hp=1"
+featuredImage: "/images/accommodation/villa-laila-vlore-460163015.jpg"
 language: en
 slug: villa-laila-vlore
 address: "Rr. Sazani, 9403 Vlorë, Albania"

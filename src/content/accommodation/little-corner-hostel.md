@@ -1,7 +1,7 @@
 ---
 title: "Little Corner Hostel"
 description: "Little Corner Hostel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507881224.jpg?k=602d457933838b60aed0f7f7535fe405852bbde51bef312cad8b092647e2c594&o=&hp=1"
+featuredImage: "/images/accommodation/little-corner-hostel-507881224.jpg"
 language: en
 slug: little-corner-hostel
 address: "31 Rruga Mihal Grameno, 1001 Tirana, Albania"

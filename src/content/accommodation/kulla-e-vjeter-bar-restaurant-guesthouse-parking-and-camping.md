@@ -1,7 +1,7 @@
 ---
 title: "Kulla e Vjeter (Bar Restaurant, Guesthouse, Parking and Camping)"
 description: "Kulla e Vjeter stands out as a multifaceted retreat in Koman, providing guests with an array of amenities including a serene garden, a welcoming bar, and convenient options for both parking and camping."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453606527.jpg?k=1e5da2ddd0f0c86484e7914b56f646d862e07882827893904923c74e3b425430&o=&hp=1"
+featuredImage: "/images/accommodation/kulla-e-vjeter-bar-restaurant-guesthouse-parking-and-camping-453606527.jpg"
 language: en
 slug: kulla-e-vjeter-bar-restaurant-guesthouse-parking-and-camping
 address: "Koman, Koman, Albania"

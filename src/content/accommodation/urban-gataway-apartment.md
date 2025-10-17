@@ -1,7 +1,7 @@
 ---
 title: "Urban GatAway Apartment"
 description: "Urban GatAway Apartment presents a captivating retreat for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453031042.jpg?k=d18db37a519b4b7fe873e9c9b76d9bc6532b6fdfdf8db397a0bf8d4b49682f37&o=&hp=1"
+featuredImage: "/images/accommodation/urban-gataway-apartment-453031042.jpg"
 language: en
 slug: urban-gataway-apartment
 address: "Rruga Guri Nazifi, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Holiday Apartament"
 description: "Holiday Apartament stands out as a prime choice for travelers seeking comfort and convenience mere steps away from Shëngjin Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430686079.jpg?k=b6dc48982754159f75c9acf011690dcb5f761eee96574577bf5fae45bcc66a23&o=&hp=1"
+featuredImage: "/images/accommodation/holiday-apartament-430686079.jpg"
 language: en
 slug: holiday-apartament
 address: "Shetitorja Wilson 48, 4503 Lezhë, Albania"

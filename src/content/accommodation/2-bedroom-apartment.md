@@ -1,7 +1,7 @@
 ---
 title: "2 Bedroom Apartment"
 description: "Discover the charm of Shkodër with a stay at the 2 Bedroom Apartment, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476601350.jpg?k=8dcd22ae484fb433c0379f34b55ed20b54297fb1fce008b6a4bbd70ab290d836&o=&hp=1"
+featuredImage: "/images/accommodation/2-bedroom-apartment-476601350.jpg"
 language: en
 slug: 2-bedroom-apartment
 address: "Shkoder city 5floor, 4001 Shkodër, Albania"

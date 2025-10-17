@@ -1,7 +1,7 @@
 ---
 title: "Blue Bay Hotel"
 description: "Blue Bay Hotel emerges as a serene oasis in Sarandë, positioned a mere stone's throw from the crystalline beach and only 1."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304971443.jpg?k=8aeddff5034f5eb6c1840f26b6430bdcb25786e538836ce9624f84fd94fac3b7&o=&hp=1"
+featuredImage: "/images/accommodation/blue-bay-hotel-304971443.jpg"
 language: en
 slug: blue-bay-hotel
 address: "Rruga Butrinti, 1111 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartament 21"
 description: "Comfort Apartament 21 emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367134672.jpg?k=09fc0b0df777aa67bad903c76354857cef7ab232fe8c80d74a08fe16a45aac5a&o=&hp=1"
+featuredImage: "/images/accommodation/comfort-apartament-21-367134672.jpg"
 language: en
 slug: comfort-apartament-21
 address: "Rruga Pavaresia, 2005 Durrës, Albania"

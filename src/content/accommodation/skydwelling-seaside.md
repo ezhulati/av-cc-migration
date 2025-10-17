@@ -1,7 +1,7 @@
 ---
 title: "Skydwelling_Seaside"
 description: "Skydwelling_Seaside emerges as a pristine choice for travelers seeking a blend of comfort and convenience along the coast."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493843487.jpg?k=93affc9f2e7e2986ef6ef2d8657b329a73e929714c1adefaf6b90f4fc8ff3e77&o=&hp=1"
+featuredImage: "/images/accommodation/skydwelling-seaside-493843487.jpg"
 language: en
 slug: skydwelling-seaside
 address: "1st km sarande ksamil, Saranda, 9701 Sarandë, Albania"

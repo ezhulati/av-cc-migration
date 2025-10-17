@@ -1,7 +1,7 @@
 ---
 title: "Apartment Geart"
 description: "Apartment Geart emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150915724.jpg?k=f5c596532d93a290c0c2d5fe4b538c2cbb316775a9915544368df189919cd7f5&o=&hp=1"
+featuredImage: "/images/accommodation/apartment-geart-150915724.jpg"
 language: en
 slug: apartment-geart
 address: "Rruga Petrit Lulo, 5001 Berat, Albania"

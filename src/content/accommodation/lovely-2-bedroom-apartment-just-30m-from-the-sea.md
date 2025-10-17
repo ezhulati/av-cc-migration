@@ -1,7 +1,7 @@
 ---
 title: "Lovely 2 Bedroom Apartment just 30m from the Sea"
 description: "Discover the charm of Sarandë with a stay at the Lovely 2 Bedroom Apartment, a mere stone's throw away from the pristine Sarande Main Beach and just over a kilometer from the bustling Saranda City Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403126717.jpg?k=68b57ee2305894db8889bc3c5b3bfdeb74d6b67269bfdfe8deef5be40ba0d9f1&o=&hp=1"
+featuredImage: "/images/accommodation/lovely-2-bedroom-apartment-just-30m-from-the-sea-403126717.jpg"
 language: en
 slug: lovely-2-bedroom-apartment-just-30m-from-the-sea
 address: "Rruga Mitat Hoxha 2, 9701 Sarandë, Albania"

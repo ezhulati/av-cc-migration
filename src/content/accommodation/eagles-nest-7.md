@@ -1,7 +1,7 @@
 ---
 title: "Eagles Nest 7"
 description: "Eagles Nest 7 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Velipojë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379721766.jpg?k=a6e1390b23116d02093f935766dd38ea554d5f82834e1ad23a2287483cc14bd1&o=&hp=1"
+featuredImage: "/images/accommodation/eagles-nest-7-379721766.jpg"
 language: en
 slug: eagles-nest-7
 address: "Rruga Nr.4, 4001 Velipojë, Albania"

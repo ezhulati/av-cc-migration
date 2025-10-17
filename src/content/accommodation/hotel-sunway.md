@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sunway"
 description: "Hotel Sunway stands out as a prime choice for travelers seeking comfort and convenience in Ksamil, just a short stroll from the serene Sunset Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365096921.jpg?k=af101038261a1d32d7b409292f0b8224155e039e83a0e9fe2e474e7a91e3e4ef&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-sunway-365096921.jpg"
 language: en
 slug: hotel-sunway
 address: "Rruga Butrinti lagja 2, 9701 Ksamil, Albania"

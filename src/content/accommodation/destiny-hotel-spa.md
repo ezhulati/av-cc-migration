@@ -1,7 +1,7 @@
 ---
 title: "Destiny Hotel & SPA"
 description: "Destiny Hotel & SPA stands out as a premier destination for travelers seeking a blend of comfort and luxury in Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525793637.jpg?k=244d0668e2ed9e89a89a591743c5d3493bee1b51b253bb0a7bcf590046d5042e&o=&hp=1"
+featuredImage: "/images/accommodation/destiny-hotel-spa-525793637.jpg"
 language: en
 slug: destiny-hotel-spa
 address: "Rruga Teodor Keko, 1052 Tirana, Albania"

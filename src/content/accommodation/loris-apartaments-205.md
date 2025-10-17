@@ -1,7 +1,7 @@
 ---
 title: "Loris Apartaments 205"
 description: "Loris Apartments 205 emerges as a prime choice for travelers seeking comfort and convenience in Durrës, Durres County."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515343142.jpg?k=fb48650a2a2688e40ef98b443d130db9fb1ae4b602fa2895927eeb4913a55666&o=&hp=1"
+featuredImage: "/images/accommodation/loris-apartaments-205-515343142.jpg"
 language: en
 slug: loris-apartaments-205
 address: "Rruga e Dëshmorëve, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Buneci apartment"
 description: "Buneci Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493078223.jpg?k=531e2408e957c9efe93d6c14a5a6cb16c3051942f3d7ba2207f1eee518cbe0ff&o=&hp=1"
+featuredImage: "/images/accommodation/buneci-apartment-493078223.jpg"
 language: en
 slug: buneci-apartment
 address: "Tirane, Unaza e re, near Flour Factory., 1001 Tirana, Albania"

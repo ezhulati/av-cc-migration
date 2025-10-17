@@ -1,7 +1,7 @@
 ---
 title: "Ilia"
 description: "Ilia presents a charming stay in the heart of Berat, boasting a well-appointed apartment with a balcony and terrace for guests to enjoy."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485101530.jpg?k=68e1b74958990d8ca4ba45db6b918fb1b7a2c33e4d16f2fde1a8dfd4eabb888f&o=&hp=1"
+featuredImage: "/images/accommodation/ilia-485101530.jpg"
 language: en
 slug: ilia
 address: "PW4P+MH6 Μπεράτ Albania Berat House 4, 5001 Berat, Albania"

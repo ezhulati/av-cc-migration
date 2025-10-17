@@ -1,7 +1,7 @@
 ---
 title: "Hana apartament hot tub"
 description: "Hana Apartment Hot Tub emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466039268.jpg?k=9e9be43beacea5fe71ae9715c2fe411313d18e41797395237c6863a622e68c7d&o=&hp=1"
+featuredImage: "/images/accommodation/hana-apartament-hot-tub-466039268.jpg"
 language: en
 slug: hana-apartament-hot-tub
 address: "Rruga Vlorë apartament floor 9, 9400 Vlorë, Albania"

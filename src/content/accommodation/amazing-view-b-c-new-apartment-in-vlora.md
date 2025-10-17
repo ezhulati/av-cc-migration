@@ -1,7 +1,7 @@
 ---
 title: "Amazing View! B & C New Apartment in Vlora"
 description: "Amazing View!"
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494227670.jpg?k=96550373409781a69a4685185354ea48eed5e536d6355557417ff80539b6f393&o=&hp=1"
+featuredImage: "/images/accommodation/amazing-view-b-c-new-apartment-in-vlora-494227670.jpg"
 language: en
 slug: amazing-view-b-c-new-apartment-in-vlora
 address: "9405 Rruga Aleksandër Moisiu second floor, 9405 Vlorë, Albania"

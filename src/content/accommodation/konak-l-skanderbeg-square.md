@@ -1,7 +1,7 @@
 ---
 title: "konak l Skanderbeg Square"
 description: "Konak I Skanderbeg Square emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486705471.jpg?k=9de122cb0a6ba41b40a9be5415ee16eca4a3ad967374dfed61c055bf98463288&o=&hp=1"
+featuredImage: "/images/accommodation/konak-l-skanderbeg-square-486705471.jpg"
 language: en
 slug: konak-l-skanderbeg-square
 address: "Bulevardi Zogu I, 1000 Tirana, Albania"

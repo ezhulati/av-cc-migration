@@ -1,7 +1,7 @@
 ---
 title: "Elois Luxury Apartment"
 description: "Elois Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518263600.jpg?k=9dd265e14ea98503db09fda3e2ba302c816e32aff5be53f7cfd8f172d769dbd0&o=&hp=1"
+featuredImage: "/images/accommodation/elois-luxury-apartment-518263600.jpg"
 language: en
 slug: elois-luxury-apartment
 address: "Rruga Fatmir Haxhiu Pallati 2, Shkalla 8, Kati 2, Apartamenti 62, Tirana, Albania"

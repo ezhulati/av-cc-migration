@@ -1,7 +1,7 @@
 ---
 title: "Hira City Center Apartment 2"
 description: "Hira City Center Apartment 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524614901.jpg?k=88a0e35537010f58c559297874939bd2aa149ebe50c77a23a44bb776e7056005&o=&hp=1"
+featuredImage: "/images/accommodation/hira-city-center-apartment-2-524614901.jpg"
 language: en
 slug: hira-city-center-apartment-2
 address: "Rruga Bardhok Biba, 1010 Tirana, Albania"

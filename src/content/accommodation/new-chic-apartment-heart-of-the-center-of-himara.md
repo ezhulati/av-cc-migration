@@ -1,7 +1,7 @@
 ---
 title: "New* Chic Apartment- Heart of the Center of Himara"
 description: "Discover the charm of Himare with a stay at the New* Chic Apartment, perfectly located just a stone's throw away from Maracit Beach and a short stroll from Prinos Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437875261.jpg?k=14faf4c013c503dd0f3c0ec195b7a87b2816f73746ee56dca31e9134efa7cf1c&o=&hp=1"
+featuredImage: "/images/accommodation/new-chic-apartment-heart-of-the-center-of-himara-437875261.jpg"
 language: en
 slug: new-chic-apartment-heart-of-the-center-of-himara
 address: "Himare Spile, Godina nr 2, kati 1, Qender, 9425 Himare, Albania"

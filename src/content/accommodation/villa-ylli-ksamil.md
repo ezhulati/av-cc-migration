@@ -1,7 +1,7 @@
 ---
 title: "Villa Ylli Ksamil"
 description: "Villa Ylli Ksamil emerges as a serene retreat for travelers seeking both comfort and convenience in the heart of Ksamil."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478115298.jpg?k=42a884bc09e2e20f76e3e64b45d402f92d760bff258aa4f44685641f22103223&o=&hp=1"
+featuredImage: "/images/accommodation/villa-ylli-ksamil-478115298.jpg"
 language: en
 slug: villa-ylli-ksamil
 address: "Rruga Ali Pashe Tepelenë, 9706 Ksamil, Albania"

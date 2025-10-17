@@ -1,7 +1,7 @@
 ---
 title: "5th Floor 2+1 Apartment Sea View"
 description: "Discover the charm of Golem with a stay at the 5th Floor 2+1 Apartment Sea View, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528114236.jpg?k=fde0d1f827b97c2ced9ae8e4abc0820d9f3db7ecad7d4203af0494cf1a1ce0a3&o=&hp=1"
+featuredImage: "/images/accommodation/5th-floor-2-1-apartment-sea-view-528114236.jpg"
 language: en
 slug: 5th-floor-2-1-apartment-sea-view
 address: "Besa street, qerret Golem, Albania, 2504 Golem, Albania"

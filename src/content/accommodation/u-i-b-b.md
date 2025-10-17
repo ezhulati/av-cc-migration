@@ -1,7 +1,7 @@
 ---
 title: "Çuçi B&B"
 description: "Çuçi B&B stands out as a charming accommodation choice for travelers exploring Berat, offering air-conditioned rooms complemented by complimentary WiFi and captivating city views."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383484591.jpg?k=46431834decfa66faf9b239a7d6d90c87330a0116d7dfc2a10f5818628f5e241&o=&hp=1"
+featuredImage: "/images/accommodation/u-i-b-b-383484591.jpg"
 language: en
 slug: u-i-b-b
 address: "Rruga Antipatrea, 5001 Berat, Albania"

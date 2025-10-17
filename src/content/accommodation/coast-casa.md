@@ -1,7 +1,7 @@
 ---
 title: "Coast Casa"
 description: "Coast Casa emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428119573.jpg?k=e53cd07f816eb03263cd5bbcd13bd7c9e51eeb89d196f3fa50d2a9669023bcc6&o=&hp=1"
+featuredImage: "/images/accommodation/coast-casa-428119573.jpg"
 language: en
 slug: coast-casa
 address: "Rruga Shaban Demiraj, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DAI Apartments"
 description: "DAI Apartments emerges as a serene haven in the historic heart of Gjirokastër, boasting both river and city panoramas that captivate and charm."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390094418.jpg?k=5850a8bf8d24f7a193932884b551d37cd7b0620af930b420d2738c5b55db65b1&o=&hp=1"
+featuredImage: "/images/accommodation/dai-apartments-390094418.jpg"
 language: en
 slug: dai-apartments
 address: "Ura e Lumit Gjirokaster, 6001 Gjirokastër, Albania"

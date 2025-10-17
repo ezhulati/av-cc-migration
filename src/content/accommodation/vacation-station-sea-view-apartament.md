@@ -1,7 +1,7 @@
 ---
 title: "Vacation Station sea view apartament"
 description: "Vacation Station Sea View Apartment emerges as a prime choice for travelers seeking a serene getaway in Vlorë, positioned merely 300 meters from the pristine Liro Beach and within easy reach of other local attractions such as the Beach at Government Villas and Coco Bongo Beach."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350756005.jpg?k=1b31c3a1206535e18a14ac572a2f55c3b2a31d478e9454356b932b62d3be6647&o=&hp=1"
+featuredImage: "/images/accommodation/vacation-station-sea-view-apartament-350756005.jpg"
 language: en
 slug: vacation-station-sea-view-apartament
 address: "Rruga Aleksandër Moisiu, Vlorë, Albania"

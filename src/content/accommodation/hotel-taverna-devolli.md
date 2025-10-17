@@ -1,7 +1,7 @@
 ---
 title: "Hotel Taverna Devolli"
 description: "Hotel Taverna Devolli stands out as a premier destination for travelers seeking exceptional service and comfort in Kuçovë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467063458.jpg?k=8300dec1700216a9108c053c805aea4a75fc892a2b55b1a46ab9a18ec36c7355&o=&hp=1"
+featuredImage: "/images/accommodation/hotel-taverna-devolli-467063458.jpg"
 language: en
 slug: hotel-taverna-devolli
 address: "Rruga Kozare, 5305 Kuçovë, Albania"

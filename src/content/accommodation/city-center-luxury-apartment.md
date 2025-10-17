@@ -1,7 +1,7 @@
 ---
 title: "City Center Luxury Apartment"
 description: "City Center Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486783194.jpg?k=830335b230cdd0f5a62bfe8236747aaf915a8f7119647c04659bc9434be8cc3b&o=&hp=1"
+featuredImage: "/images/accommodation/city-center-luxury-apartment-486783194.jpg"
 language: en
 slug: city-center-luxury-apartment
 address: "Rruga Pelivan Leskaj Pallati perballe pallatit Sportit, kati 6 nr28., 9402 Vlorë, Albania"
