@@ -1,7 +1,7 @@
 ---
 title: "Vila SUN 2E"
 description: "Vila SUN 2E emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil, situated merely 600 meters from the pristine Ksamil Beach."
-featuredImage: "/images/accommodation/vila-sun-2e-picture?type.jpg"
+featuredImage: "/images/accommodation/vila-sun-2e-picture.jpg"
 language: en
 slug: vila-sun-2e
 address: "Road Orfeu, Ksamil, 9706 Ksamil, Albania"

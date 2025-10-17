@@ -1,7 +1,7 @@
 ---
 title: "Atlantis Apartments"
 description: "Atlantis Apartments emerges as a prime choice for travelers seeking comfort and convenience in Orikum."
-featuredImage: "/images/accommodation/atlantis-apartments-picture?type.jpg"
+featuredImage: "/images/accommodation/atlantis-apartments-picture.jpg"
 language: en
 slug: atlantis-apartments
 address: "Rruga Demokracia, 1001 Orikum, Albania"

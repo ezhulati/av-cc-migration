@@ -1,7 +1,7 @@
 ---
 title: "Kristi Home"
 description: "Kristi Home emerges as a prime choice for travelers seeking a serene getaway in Durrës, located conveniently close to the inviting Durres Beach."
-featuredImage: "/images/accommodation/kristi-home-picture?type.jpg"
+featuredImage: "/images/accommodation/kristi-home-picture.jpg"
 language: en
 slug: kristi-home
 address: "Rruga Bajram Curri, 2001 Durrës, Albania"

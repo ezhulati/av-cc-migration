@@ -1,7 +1,7 @@
 ---
 title: "Green house, 1 bedroom & 1 kitchen apartment, located in Elbasan city center"
 description: "Discover the charm of Elbasan with a stay at the Green House, a modern apartment that promises a blend of comfort and convenience right in the heart of the city."
-featuredImage: "/images/accommodation/green-house-1-bedroom-1-kitchen-apartment-located-in-elbasan-city-center-picture?type.jpg"
+featuredImage: "/images/accommodation/green-house-1-bedroom-1-kitchen-apartment-located-in-elbasan-city-center-picture.jpg"
 language: en
 slug: green-house-1-bedroom-1-kitchen-apartment-located-in-elbasan-city-center
 address: "L 28 nentori, Mbrapa pallatit te sportit , Tomorr Sinani, Rruga Esat Bordi, 3001 Elbasan, Albania"

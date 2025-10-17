@@ -1,7 +1,7 @@
 ---
 title: "Cozy Stay Apartment"
 description: "Cozy Stay Apartment emerges as a serene retreat in the heart of Tirana, strategically positioned to offer both tranquility and convenience."
-featuredImage: "/images/accommodation/cozy-stay-apartment-picture?type.jpg"
+featuredImage: "/images/accommodation/cozy-stay-apartment-picture.jpg"
 language: en
 slug: cozy-stay-apartment
 address: "Rruga Panorama, 1001 Tirana, Albania"

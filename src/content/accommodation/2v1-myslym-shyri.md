@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Myslym Shyri"
 description: "Discover the charm of Tirana from the comfort of 2V1 - Myslym Shyri, a prime apartment offering a blend of convenience and style."
-featuredImage: "/images/accommodation/2v1-myslym-shyri-picture?type.jpg"
+featuredImage: "/images/accommodation/2v1-myslym-shyri-picture.jpg"
 language: en
 slug: 2v1-myslym-shyri
 address: "Rruga Myslym Shyri, Pall 55 shk6 kat.3 ap.55, 1001 Tirana, Albania"

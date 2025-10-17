@@ -1,7 +1,7 @@
 ---
 title: "White Beach Villa 2 - Luxury"
 description: "White Beach Villa 2 - Luxury emerges as a premier choice for travelers seeking an exceptional stay in Velipojë, just a stone's throw away from the pristine Velipoja Beach and within a comfortable distance from the historic Rozafa Castle Shkodra, 31 km away."
-featuredImage: "/images/accommodation/white-beach-villa-2-luxury-picture?type.jpg"
+featuredImage: "/images/accommodation/white-beach-villa-2-luxury-picture.jpg"
 language: en
 slug: white-beach-villa-2-luxury
 address: "(41.8662474, 19.4384867) 2, 4020 Velipojë, Albania"

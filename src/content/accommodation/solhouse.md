@@ -1,7 +1,7 @@
 ---
 title: "Solhouse"
 description: "Solhouse emerges as a serene retreat in the heart of Gjirokastër, offering guests a tranquil escape with its quiet street views."
-featuredImage: "/images/accommodation/solhouse-picture?type.jpg"
+featuredImage: "/images/accommodation/solhouse-picture.jpg"
 language: en
 slug: solhouse
 address: "Rruga Xhorxh Sorros 1/53, 6000 Gjirokastër, Albania"

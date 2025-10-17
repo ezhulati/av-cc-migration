@@ -1,7 +1,7 @@
 ---
 title: "Luis home"
 description: "Luis Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/luis-home-photo.jpg?sz.jpg"
+featuredImage: "/images/accommodation/luis-home-photo.jpg"
 language: en
 slug: luis-home
 address: "via 13 plazh, 8518 Durrës, Albania"

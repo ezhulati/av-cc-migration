@@ -1,7 +1,7 @@
 ---
 title: "TAM Serviced Apartments City Center No2"
 description: "TAM Serviced Apartments City Center No2 emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modern amenities in the heart of Tirana."
-featuredImage: "/images/accommodation/tam-serviced-apartments-city-center-no2-picture?type.jpg"
+featuredImage: "/images/accommodation/tam-serviced-apartments-city-center-no2-picture.jpg"
 language: en
 slug: tam-serviced-apartments-city-center-no2
 address: "Rruga Maliq Muço Lala’s Apartments Rruga Maliq Muço, Ndertesa 4, Hyrja 10, Apartamenti 1, 1001 Tirana, Albania"

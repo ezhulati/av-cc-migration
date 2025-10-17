@@ -1,7 +1,7 @@
 ---
 title: "Shehu's Apartments"
 description: "Shehu's Apartments emerges as a serene haven in the vibrant heart of Sarandë, offering guests a unique blend of tranquility and convenience."
-featuredImage: "/images/accommodation/shehu-s-apartments-picture?type.jpg"
+featuredImage: "/images/accommodation/shehu-s-apartments-picture.jpg"
 language: en
 slug: shehu-s-apartments
 address: "Street Skenderbeu, 9701 Sarandë, Albania"

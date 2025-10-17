@@ -1,7 +1,7 @@
 ---
 title: "Beach Duplex"
 description: "Beach Duplex emerges as a serene oasis in Golem, offering a tranquil garden view and immediate access to the pristine shores of Mali I Robit Beach, Qerret Beach, and Golem Beach."
-featuredImage: "/images/accommodation/beach-duplex-picture?type.jpg"
+featuredImage: "/images/accommodation/beach-duplex-picture.jpg"
 language: en
 slug: beach-duplex
 address: "Mali i Robit, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Gjoni's Apartment"
 description: "Gjoni's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/gjoni-s-apartment-picture?type.jpg"
+featuredImage: "/images/accommodation/gjoni-s-apartment-picture.jpg"
 language: en
 slug: gjoni-s-apartment
 address: "2 Rruga Vangjel Pandi, 9702 Sarandë, Albania"

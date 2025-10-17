@@ -1,7 +1,7 @@
 ---
 title: "Arnie's - Seaside Promenade Residence"
 description: "Arnie's Seaside Promenade Residence stands out as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/arnie-s-seaside-promenade-residence-picture?type.jpg"
+featuredImage: "/images/accommodation/arnie-s-seaside-promenade-residence-picture.jpg"
 language: en
 slug: arnie-s-seaside-promenade-residence
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

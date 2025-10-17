@@ -1,7 +1,7 @@
 ---
 title: "Holiday Cabins Vlore"
 description: "Holiday Cabins Vlore emerges as a serene retreat for travelers seeking both tranquility and convenience."
-featuredImage: "/images/accommodation/holiday-cabins-vlore-picture?type.jpg"
+featuredImage: "/images/accommodation/holiday-cabins-vlore-picture.jpg"
 language: en
 slug: holiday-cabins-vlore
 address: "Rr. Sazani, Vlorë, Albania"

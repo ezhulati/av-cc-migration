@@ -1,7 +1,7 @@
 ---
 title: "Saimir Apartaments"
 description: "Saimir Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, just a stone's throw away from Vjetër Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/saimir-apartaments-picture?type.jpg"
+featuredImage: "/images/accommodation/saimir-apartaments-picture.jpg"
 language: en
 slug: saimir-apartaments
 address: "Rruga Gjergj Kastrioti, 9401 Vlorë, Albania"

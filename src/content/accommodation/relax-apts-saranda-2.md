@@ -1,7 +1,7 @@
 ---
 title: "Relax Apts Saranda 2"
 description: "Relax Apts Saranda 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/relax-apts-saranda-2-picture?type.jpg"
+featuredImage: "/images/accommodation/relax-apts-saranda-2-picture.jpg"
 language: en
 slug: relax-apts-saranda-2
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Klodi Apartament"
 description: "Klodi Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/klodi-apartament-photo.jpg?sz.jpg"
+featuredImage: "/images/accommodation/klodi-apartament-photo.jpg"
 language: en
 slug: klodi-apartament
 address: "Rruga Riviera 2, 9607 Ksamil, Albania"

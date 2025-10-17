@@ -1,7 +1,7 @@
 ---
 title: "Klinti's apartment"
 description: "Discover the charm of Berat with a stay at Klinti's Apartment, a serene retreat offering stunning mountain and garden views."
-featuredImage: "/images/accommodation/klinti-s-apartment-picture?type.jpg"
+featuredImage: "/images/accommodation/klinti-s-apartment-picture.jpg"
 language: en
 slug: klinti-s-apartment
 address: "Rruga 5 Maji 2, 5001 Berat, Albania"

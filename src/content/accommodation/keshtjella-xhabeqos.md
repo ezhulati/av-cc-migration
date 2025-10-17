@@ -1,7 +1,7 @@
 ---
 title: "Keshtjella Xhabeqos"
 description: "Keshtjella Xhabeqos emerges as a serene retreat for travelers seeking both tranquility and convenience in Tirana."
-featuredImage: "/images/accommodation/keshtjella-xhabeqos-picture?type.jpg"
+featuredImage: "/images/accommodation/keshtjella-xhabeqos-picture.jpg"
 language: en
 slug: keshtjella-xhabeqos
 address: "Autostrada Tiranë - Elbasan, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Downtown Modern Studio Apartment"
 description: "Downtown Modern Studio Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/downtown-modern-studio-apartment-picture?type.jpg"
+featuredImage: "/images/accommodation/downtown-modern-studio-apartment-picture.jpg"
 language: en
 slug: downtown-modern-studio-apartment
 address: "Sheshi Skënderbej, 1001 Tirana, Albania"

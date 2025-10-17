@@ -1,7 +1,7 @@
 ---
 title: "Vila 3 Korçë"
 description: "Vila 3 Korçë emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum, both located 44 km from the property."
-featuredImage: "/images/accommodation/vila-3-kor-picture?type.jpg"
+featuredImage: "/images/accommodation/vila-3-kor-picture.jpg"
 language: en
 slug: vila-3-kor
 address: "3 Rrugica Dhorke Shallo, 7001 Korçë, Albania"

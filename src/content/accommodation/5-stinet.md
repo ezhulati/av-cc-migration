@@ -1,7 +1,7 @@
 ---
 title: "5 Stinet"
 description: "5 Stinet emerges as a serene retreat in Koman, offering breathtaking mountain views and direct beachfront access, setting the stage for an unforgettable stay."
-featuredImage: "/images/accommodation/5-stinet-photo.jpg?sz.jpg"
+featuredImage: "/images/accommodation/5-stinet-photo.jpg"
 language: en
 slug: 5-stinet
 address: "SH25, 4013 Koman, Albania"

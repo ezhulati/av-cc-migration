@@ -1,7 +1,7 @@
 ---
 title: "Kubeja Guest House"
 description: "Kubeja Guest House emerges as a serene retreat in the historic city of Gjirokastër, boasting a lush garden, an inviting terrace, and well-equipped barbecue facilities for the ultimate relaxation experience."
-featuredImage: "/images/accommodation/kubeja-guest-house-photo.jpg?sz.jpg"
+featuredImage: "/images/accommodation/kubeja-guest-house-photo.jpg"
 language: en
 slug: kubeja-guest-house
 address: "Rruga Hysen Koci, 1 km mbi Kalane, 6000 Gjirokastër, Albania"

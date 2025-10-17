@@ -1,7 +1,7 @@
 ---
 title: "Roeli’s Guest House"
 description: "Roeli’s Guest House emerges as a serene retreat in Pogradec, boasting a picturesque garden and sweeping mountain views."
-featuredImage: "/images/accommodation/roeli-s-guest-house-picture?type.jpg"
+featuredImage: "/images/accommodation/roeli-s-guest-house-picture.jpg"
 language: en
 slug: roeli-s-guest-house
 address: "Rruga e Drilonit, 8301 Pogradec, Albania"

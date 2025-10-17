@@ -1,7 +1,7 @@
 ---
 title: "Cozy Home in Gjirokastra"
 description: "Cozy Home in Gjirokastra emerges as a charming retreat for travelers seeking a blend of comfort and convenience in the historic heart of Gjirokastër."
-featuredImage: "/images/accommodation/cozy-home-in-gjirokastra-picture?type.jpg"
+featuredImage: "/images/accommodation/cozy-home-in-gjirokastra-picture.jpg"
 language: en
 slug: cozy-home-in-gjirokastra
 address: "Rruga Alqi Kondi, 6002 Gjirokastër, Albania"

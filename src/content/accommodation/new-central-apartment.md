@@ -1,7 +1,7 @@
 ---
 title: "New Central Apartment"
 description: "New Central Apartment emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/new-central-apartment-picture?type.jpg"
+featuredImage: "/images/accommodation/new-central-apartment-picture.jpg"
 language: en
 slug: new-central-apartment
 address: "Rruga Jezuitëve Kati 4, Apartamenti nr. 10, 4001 Shkodër, Albania"

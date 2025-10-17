@@ -1,7 +1,7 @@
 ---
 title: "Home Flori&Vili Shkodër"
 description: "Home Flori&Vili Shkodër emerges as a charming retreat in the heart of Shkodër, offering a blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/home-flori-vili-shkod-r-photo.jpg?sz.jpg"
+featuredImage: "/images/accommodation/home-flori-vili-shkod-r-photo.jpg"
 language: en
 slug: home-flori-vili-shkod-r
 address: "Rruga Daut Borici, 4000 Shkodër, Albania"

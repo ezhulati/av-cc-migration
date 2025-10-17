@@ -1,7 +1,7 @@
 ---
 title: "Condo Rooms"
 description: "Condo Rooms emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/condo-rooms-picture?type.jpg"
+featuredImage: "/images/accommodation/condo-rooms-picture.jpg"
 language: en
 slug: condo-rooms
 address: "Rruga Guri Nazifi, 9701 Sarandë, Albania"

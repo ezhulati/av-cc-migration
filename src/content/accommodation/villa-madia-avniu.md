@@ -1,7 +1,7 @@
 ---
 title: "Villa**** Madia&Avniu"
 description: "Villa Madia&Avniu emerges as a prime choice for travelers seeking a serene getaway, located just a short stroll from the pristine sands of Ksamil Beach."
-featuredImage: "/images/accommodation/villa-madia-avniu-picture?type.jpg"
+featuredImage: "/images/accommodation/villa-madia-avniu-picture.jpg"
 language: en
 slug: villa-madia-avniu
 address: "Rruga Mallakastra lagja nr 1 ksamil, 9706 Ksamil, Albania"

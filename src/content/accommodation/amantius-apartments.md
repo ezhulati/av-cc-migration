@@ -1,7 +1,7 @@
 ---
 title: "AMANTIUS APARTMENTS"
 description: "AMANTIUS APARTMENTS stands as a serene retreat in Borsh, a mere 2."
-featuredImage: "/images/accommodation/amantius-apartments-picture?type.jpg"
+featuredImage: "/images/accommodation/amantius-apartments-picture.jpg"
 language: en
 slug: amantius-apartments
 address: "Rruga Plazhi, 9714 Borsh, Albania"

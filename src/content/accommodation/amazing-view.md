@@ -1,7 +1,7 @@
 ---
 title: "AMAZING VIEW"
 description: "AMAZING VIEW stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/amazing-view-picture?type.jpg"
+featuredImage: "/images/accommodation/amazing-view-picture.jpg"
 language: en
 slug: amazing-view
 address: "Rruga Mitat Hoxha NR 69 3, 9701 Sarandë, Albania"

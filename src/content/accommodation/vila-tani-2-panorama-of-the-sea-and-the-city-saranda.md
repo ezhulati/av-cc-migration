@@ -1,7 +1,7 @@
 ---
 title: "Vila Tani 2 Panorama Of the Sea and the City Saranda"
 description: "Vila Tani 2 Panorama Of the Sea and the City Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/vila-tani-2-panorama-of-the-sea-and-the-city-saranda-picture?type.jpg"
+featuredImage: "/images/accommodation/vila-tani-2-panorama-of-the-sea-and-the-city-saranda-picture.jpg"
 language: en
 slug: vila-tani-2-panorama-of-the-sea-and-the-city-saranda
 address: "Vila Tani 2 V289+3VG, Sarandë 069 203 2279 https://g.co/kgs/PpqPsh, Sarandë, Albania"

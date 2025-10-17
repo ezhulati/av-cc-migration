@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Blloku BKT"
 description: "Discover the charm of Tirana from the comfort of 2V1 - Blloku BKT, a prime apartment offering that stands out for its strategic location and modern amenities."
-featuredImage: "/images/accommodation/2v1-blloku-bkt-picture?type.jpg"
+featuredImage: "/images/accommodation/2v1-blloku-bkt-picture.jpg"
 language: en
 slug: 2v1-blloku-bkt
 address: "Rruga Abdyl Frashëri, 1001 Tirana, Albania"

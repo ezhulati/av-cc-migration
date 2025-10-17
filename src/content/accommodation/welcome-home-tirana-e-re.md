@@ -1,7 +1,7 @@
 ---
 title: "Welcome Home Tirana e Re"
 description: "Welcome Home Tirana e Re emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/welcome-home-tirana-e-re-picture?type.jpg"
+featuredImage: "/images/accommodation/welcome-home-tirana-e-re-picture.jpg"
 language: en
 slug: welcome-home-tirana-e-re
 address: "Rruga Gjik Kuqali, 1001 Tirana, Albania"

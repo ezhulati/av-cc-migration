@@ -1,7 +1,7 @@
 ---
 title: "Gaus Apartment Sarande"
 description: "Gaus Apartment Sarande emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/gaus-apartment-sarande-photo.jpg?sz.jpg"
+featuredImage: "/images/accommodation/gaus-apartment-sarande-photo.jpg"
 language: en
 slug: gaus-apartment-sarande
 address: "Rruga Onhezmi, 9071 Sarandë, Albania"

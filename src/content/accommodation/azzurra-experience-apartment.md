@@ -1,7 +1,7 @@
 ---
 title: "Azzurra Experience Apartment"
 description: "Azzurra Experience Apartment stands as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, mere steps away from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/azzurra-experience-apartment-photo.jpg?sz.jpg"
+featuredImage: "/images/accommodation/azzurra-experience-apartment-photo.jpg"
 language: en
 slug: azzurra-experience-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

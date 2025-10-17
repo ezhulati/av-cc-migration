@@ -1,7 +1,7 @@
 ---
 title: "Milos Apartments"
 description: "Milos Apartments emerges as a prime choice for travelers seeking a seamless holiday experience in Himare."
-featuredImage: "/images/accommodation/milos-apartments-picture?type.jpg"
+featuredImage: "/images/accommodation/milos-apartments-picture.jpg"
 language: en
 slug: milos-apartments
 address: "Rruga 1 Maj, 9425 Himare, Albania"

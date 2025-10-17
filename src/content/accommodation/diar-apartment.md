@@ -1,7 +1,7 @@
 ---
 title: "Diar Apartment"
 description: "Diar Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, just a stone's throw away from the inviting Durres Beach."
-featuredImage: "/images/accommodation/diar-apartment-picture?type.jpg"
+featuredImage: "/images/accommodation/diar-apartment-picture.jpg"
 language: en
 slug: diar-apartment
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

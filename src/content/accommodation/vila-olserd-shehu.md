@@ -1,7 +1,7 @@
 ---
 title: "Vila Olserd Shehu"
 description: "Vila Olserd Shehu emerges as a serene oasis in Ksamil, offering guests a unique blend of comfort and scenic beauty less than a kilometer from the pristine Ksamil Beach."
-featuredImage: "/images/accommodation/vila-olserd-shehu-picture?type.jpg"
+featuredImage: "/images/accommodation/vila-olserd-shehu-picture.jpg"
 language: en
 slug: vila-olserd-shehu
 address: "Ali Pasha Street, 9701 Ksamil, Albania"

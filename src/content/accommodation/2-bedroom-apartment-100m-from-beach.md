@@ -1,7 +1,7 @@
 ---
 title: "2 bedroom apartment 100m from beach"
 description: "Discover the charm of coastal living at the 2 Bedroom Apartment, a mere stone's throw away from the pristine Saranda City Beach."
-featuredImage: "/images/accommodation/2-bedroom-apartment-100m-from-beach-picture?type.jpg"
+featuredImage: "/images/accommodation/2-bedroom-apartment-100m-from-beach-picture.jpg"
 language: en
 slug: 2-bedroom-apartment-100m-from-beach
 address: "V2C8+54Q Sarandë, Albania, Sarandë, Albania"

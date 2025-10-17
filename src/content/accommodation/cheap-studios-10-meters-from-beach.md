@@ -1,7 +1,7 @@
 ---
 title: "Cheap studios , 10 meters from beach"
 description: "Cheap Studios, positioned a mere stone's throw from the serene Mali I Robit Beach and just a short stroll from the picturesque Qerret Beach in Golem, presents a prime choice for travelers seeking convenience without sacrificing comfort."
-featuredImage: "/images/accommodation/cheap-studios-10-meters-from-beach-picture?type.jpg"
+featuredImage: "/images/accommodation/cheap-studios-10-meters-from-beach-picture.jpg"
 language: en
 slug: cheap-studios-10-meters-from-beach
 address: "Bulevardi mak albania, 2501 Golem, Albania"
