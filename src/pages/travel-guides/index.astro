@@ -512,7 +512,7 @@ const canonical = 'https://albaniavisit.com/travel-guides/';
         guideCards.forEach(card => {
           const cardCategories = card.getAttribute('data-categories') || '';
 
-          if (category === 'all' || cardCategories.includes(category)) {
+          if (category === 'all' || (category && cardCategories.includes(category))) {
             card.classList.remove('hidden');
             visibleCount++;
           } else {
