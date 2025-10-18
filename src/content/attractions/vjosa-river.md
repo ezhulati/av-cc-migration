@@ -1,16 +1,29 @@
 ---
 title: Vjosa River
-description: Discover the Vjosa Wild River National Park, Europe's last wild, free flowing river.
-type: National Parks &amp; Reserves
-location: ""
+description: Vjosa Wild River National Park (established March 2023) protects Europe's last major free-flowing river across 300 kilometers from Greek border to Adriatic Sea through southern Albania, offering rafting (Class II-III rapids, €39-109), thermal springs at Bënja (13km from Përmet), hiking in Langarica Canyon, and access to traditional Albanian towns along Albania's newest national park.
+type: National Parks & Reserves
+location: Southern Albania, flowing from Greek border to Adriatic (primary access via Përmet and Tepelene)
 featuredImage: /images/attractions/Vjosa_National_Park_Fly_Fishing_Albania.jpeg
 images: []
 language: en
 slug: vjosa-river
+essence: "Where Europe's last wild river became a national park in 2023, offering rafting, thermal springs, and traditional Albanian culture along free-flowing waters"
+entryFee: "No park fee; rafting €39-109; Bënja thermal springs free (parking 200 LEK); boat tours €10-20"
+hours: "24/7 natural access; rafting tours depart 9:30 AM and 2:30 PM daily (seasonal)"
+timeNeeded: "2-3 hours for rafting; full day for comprehensive river exploration; 3-4 days recommended for region"
+bestSeason: "Apr-Jun for high water rafting and spring migration; Jul-Aug for swimming; Sep-Oct for autumn colors and comfortable temperatures"
+highlights:
+  - 300km free-flowing river, Europe's first Wild River National Park (March 2023)
+  - Class II-III whitewater rafting from Përmet (€39-109 per person)
+  - Bënja thermal springs (13km from Përmet, free access, 22-28°C water)
+  - Langarica Canyon hiking with water crossings
+  - Access to Përmet and Tepelene historic towns
+coordinates:
+  lat: 40.3500
+  lng: 20.3500
 seo:
-  metaTitle: "The Vjosa - Discover Europe's First Wild River National Park "
-  metaDescription: "Discover the Vjosa, Albania's unique wild river, now Europe's first Wild River National Park. Explore activities, towns, and the river's rich biodiversity."
-  focusKeyword: "vjosa,vjosa river"
+  metaTitle: "Vjosa River Albania - Europe's First Wild River National Park 2023"
+  metaDescription: "Vjosa River: 300km wild river, national park 2023, Class II-III rafting €39-109, Bënja thermal springs free access. Përmet and Tepelene access. Apr-Oct season."
 ---
 
 Guide to the Vjosa River in Albania

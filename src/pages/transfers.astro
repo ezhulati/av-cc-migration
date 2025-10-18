@@ -171,6 +171,71 @@ const image = '/images/pages/albaniavisit-transfers.jpg';
       </div>
     </section>
 
+    <!-- Local Rent Section -->
+    <section class="booking-section local-rent-section">
+      <div class="container">
+        <div class="service-header">
+          <div class="service-logo">
+            <h2>Rent a Car in Albania</h2>
+            <p class="service-tagline">Full-Day Flexibility, Explore at Your Own Pace</p>
+          </div>
+        </div>
+
+        <div class="rental-intro">
+          <p>
+            If you want complete freedom to explore Albania on your own schedule, renting a car is the best option.
+            Drive the winding coastal roads of the Albanian Riviera, venture into remote mountain villages, or take
+            detours to hidden beaches. With a rental car, you're in control.
+          </p>
+        </div>
+
+        <!-- Full-width search widget -->
+        <div class="rental-search-widget">
+          <div class="widget-header-simple">
+            <h3>Search & Compare Car Rentals</h3>
+            <p>Find the best prices from local and international companies</p>
+          </div>
+          <div class="tpe-rental-container">
+            <script async src="//tpemd.com/content?trs=146557&shmarker=331622.331622&locale=en&country=128&city=70651&powered_by=false&campaign_id=87&promo_id=2466" charset="utf-8"></script>
+          </div>
+        </div>
+
+        <!-- Content below search -->
+        <div class="rental-info-grid">
+          <div class="rental-info-card">
+            <h4>What to Know</h4>
+            <ul>
+              <li><strong>License:</strong> Your home country driver's license is valid (EU, US, Canada, Australia, etc.)</li>
+              <li><strong>Age:</strong> Most companies require 21+, some charge extra fees for drivers under 25</li>
+              <li><strong>Insurance:</strong> Full coverage strongly recommended for mountain and coastal roads</li>
+              <li><strong>Fuel:</strong> Gas stations widely available, prices similar to European average</li>
+              <li><strong>Tolls:</strong> No highway tolls in Albania</li>
+            </ul>
+          </div>
+
+          <div class="rental-info-card">
+            <h4>Popular Self-Drive Routes</h4>
+            <ul>
+              <li><strong>Albanian Riviera:</strong> Vlorë to Sarandë via Llogara Pass and coastal villages</li>
+              <li><strong>Mountain Loop:</strong> Theth to Valbona through the Albanian Alps</li>
+              <li><strong>Lake Ohrid Drive:</strong> Scenic lakeside road with Macedonia border crossings</li>
+              <li><strong>Berat to Gjirokastër:</strong> UNESCO towns connected by mountain roads</li>
+            </ul>
+          </div>
+
+          <div class="rental-info-card">
+            <h4>Driving Tips</h4>
+            <ul>
+              <li><strong>Mountain Roads:</strong> Narrow and winding—take your time and enjoy the scenery</li>
+              <li><strong>Parking:</strong> Free in most towns, paid in Tirana city center</li>
+              <li><strong>GPS:</strong> Download offline maps (cell service can be spotty in mountains)</li>
+              <li><strong>Road Conditions:</strong> Main highways are excellent, rural roads vary</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- How Transfers Work -->
     <section class="how-section">
       <div class="container">
@@ -363,6 +428,10 @@ const image = '/images/pages/albaniavisit-transfers.jpg';
       background: white;
     }
 
+    .local-rent-section {
+      background: #f8f8f8;
+    }
+
     .service-header {
       text-align: center;
       margin-bottom: 3rem;
@@ -460,6 +529,111 @@ const image = '/images/pages/albaniavisit-transfers.jpg';
       background: #f8f8f8;
     }
 
+    .local-rent-section .service-note {
+      background: white;
+    }
+
+    /* Car Rental Section - Full Width Layout */
+    .rental-intro {
+      max-width: 900px;
+      margin: 0 auto 3rem;
+      text-align: center;
+    }
+
+    .rental-intro p {
+      font-size: 1.125rem;
+      line-height: 1.8;
+      color: #4a4a4a;
+    }
+
+    .rental-search-widget {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      border: 2px solid #e5e5e5;
+      margin-bottom: 3rem;
+    }
+
+    .widget-header-simple {
+      background: #1a1a1a;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+
+    .widget-header-simple h3 {
+      font-size: 1.375rem;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+    }
+
+    .widget-header-simple p {
+      font-size: 0.9375rem;
+      color: rgba(255, 255, 255, 0.8);
+      margin: 0;
+    }
+
+    .tpe-rental-container {
+      min-height: 600px;
+      padding: 2rem;
+      background: #fafafa;
+      position: relative;
+      z-index: 1;
+    }
+
+    .tpe-rental-container iframe,
+    .tpe-rental-container > div,
+    .tpe-rental-container * {
+      z-index: auto !important;
+      max-height: none;
+    }
+
+    .rental-info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 2rem;
+    }
+
+    .rental-info-card {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+      border-top: 3px solid #e41e20;
+    }
+
+    .rental-info-card h4 {
+      font-size: 1.25rem;
+      color: #1a1a1a;
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+
+    .rental-info-card ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .rental-info-card li {
+      padding-left: 1.5rem;
+      margin-bottom: 0.75rem;
+      position: relative;
+      font-size: 1rem;
+      line-height: 1.6;
+      color: #4a4a4a;
+    }
+
+    .rental-info-card li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: #e41e20;
+      font-weight: bold;
+      font-size: 1.25rem;
+    }
+
     /* Route Map */
     .route-map {
       margin-top: 2rem;
@@ -510,6 +684,14 @@ const image = '/images/pages/albaniavisit-transfers.jpg';
       padding: 0;
       background: #fafafa;
       min-height: 500px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .riviera-form-container iframe,
+    .riviera-form-container > div,
+    .riviera-form-container * {
+      z-index: auto !important;
     }
 
     /* GoToAlbania Form Link */
@@ -549,11 +731,15 @@ const image = '/images/pages/albaniavisit-transfers.jpg';
       display: flex;
       justify-content: center;
       align-items: flex-start;
+      position: relative;
+      z-index: 1;
     }
 
     .tpe-embed-container iframe,
-    .tpe-embed-container > div {
+    .tpe-embed-container > div,
+    .tpe-embed-container * {
       margin: 0 auto;
+      z-index: auto !important;
     }
 
     #widget-form-1 {
