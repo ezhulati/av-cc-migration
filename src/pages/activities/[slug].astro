@@ -42,7 +42,7 @@ const breadcrumbs = [
   { label: 'Activities', href: '/activities/' },
 ];
 if (category) {
-  breadcrumbs.push({ label: category });
+  breadcrumbs.push({ label: category, href: `/activities/?category=${encodeURIComponent(category)}` });
 }
 
 // Build sidebar info items
@@ -50,7 +50,7 @@ const infoItems = [
   category && { icon: '🎯', label: 'Category', value: category },
   { icon: '🇦🇱', label: 'Country', value: 'Albania' },
   { icon: '💬', label: 'Languages', value: 'Albanian, English' },
-].filter(Boolean);
+].filter((item): item is { icon: string; label: string; value: string } => Boolean(item));
 
 // Navigation links
 const navigationLinks = [

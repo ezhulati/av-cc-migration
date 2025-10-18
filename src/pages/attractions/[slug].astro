@@ -33,12 +33,6 @@ const {
   location,
   featuredImage,
   images,
-  highlights,
-  essence,
-  entryFee,
-  hours,
-  timeNeeded,
-  bestSeason,
   language,
 } = attraction.data;
 
@@ -50,17 +44,15 @@ const breadcrumbs = [
   { label: 'Attractions', href: '/attractions/' },
 ];
 if (type) {
-  breadcrumbs.push({ label: type });
+  breadcrumbs.push({ label: type, href: `/attractions/?type=${encodeURIComponent(type)}` });
 }
 
 // Build sidebar info items
 const infoItems = [
   location && { icon: '📍', label: 'Location', value: location },
-  entryFee && { icon: '💰', label: 'Entry Fee', value: entryFee },
-  hours && { icon: '🕐', label: 'Hours', value: hours },
-  timeNeeded && { icon: '⏱️', label: 'Time Needed', value: timeNeeded },
-  bestSeason && { icon: '🌤️', label: 'Best Season', value: bestSeason },
-].filter(Boolean);
+  type && { icon: '🏛️', label: 'Type', value: type },
+  { icon: '🇦🇱', label: 'Country', value: 'Albania' },
+].filter((item): item is { icon: string; label: string; value: string } => Boolean(item));
 
 // Navigation links
 const navigationLinks = [
@@ -77,11 +69,10 @@ const navigationLinks = [
   image={featuredImage}
   language={language}
   heroTitle={title}
-  heroSubtitle={essence || description}
+  heroSubtitle={description}
   featuredImage={featuredImage}
   breadcrumbs={breadcrumbs}
   infoItems={infoItems}
-  highlights={highlights}
   images={images}
   navigationLinks={navigationLinks}
   contentType="attraction"

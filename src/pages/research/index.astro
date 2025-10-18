@@ -38,28 +38,31 @@ const sortedResearch = allResearch.sort((a, b) =>
     <section class="research-grid-section">
       <div class="container">
         <div class="research-grid">
-          {sortedResearch.map((report) => (
-            <article class="research-card">
-              {report.data.featuredImage && (
-                <a href={`/research/${report.id}/`} class="research-card-image">
-                  <img
-                    src={report.data.featuredImage}
-                    alt={report.data.title}
-                    loading="lazy"
-                  />
-                </a>
-              )}
-              <div class="research-card-content">
-                <h2 class="research-card-title">
-                  <a href={`/research/${report.id}/`}>{report.data.title}</a>
-                </h2>
-                <p class="research-card-description">{report.data.description}</p>
-                <a href={`/research/${report.id}/`} class="research-card-button">
-                  Read Report →
-                </a>
-              </div>
-            </article>
-          ))}
+          {sortedResearch.map((report) => {
+            const slug = report.id.replace(/\.md$/, '');
+            return (
+              <article class="research-card">
+                {report.data.featuredImage && (
+                  <a href={`/research/${slug}/`} class="research-card-image">
+                    <img
+                      src={report.data.featuredImage}
+                      alt={report.data.title}
+                      loading="lazy"
+                    />
+                  </a>
+                )}
+                <div class="research-card-content">
+                  <h2 class="research-card-title">
+                    <a href={`/research/${slug}/`}>{report.data.title}</a>
+                  </h2>
+                  <p class="research-card-description">{report.data.description}</p>
+                  <a href={`/research/${slug}/`} class="research-card-button">
+                    Read Report →
+                  </a>
+                </div>
+              </article>
+            );
+          })}
         </div>
       </div>
     </section>

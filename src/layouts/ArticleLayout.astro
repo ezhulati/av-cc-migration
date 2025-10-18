@@ -1,0 +1,763 @@
+---
+/**
+ * Article Layout Component
+ * Reusable layout for destinations, attractions, and other content types
+ * Any changes here will automatically apply to all content types using this layout
+ */
+
+import BaseLayout from './BaseLayout.astro';
+import LightboxGallery from '../components/LightboxGallery.astro';
+
+interface Props {
+  // Page metadata
+  title: string;
+  description: string;
+  canonical: string;
+  image?: string;
+  language?: 'en' | 'sq';
+
+  // Hero section
+  heroTitle: string;
+  heroSubtitle?: string;
+  featuredImage?: string;
+
+  // Breadcrumbs
+  breadcrumbs: Array<{
+    label: string;
+    href?: string;
+  }>;
+
+  // Sidebar info card data
+  infoItems?: Array<{
+    icon: string;
+    label: string;
+    value: string;
+  }>;
+
+  // Highlights
+  highlights?: string[];
+
+  // Gallery
+  images?: string[];
+
+  // Action buttons
+  primaryAction?: {
+    label: string;
+    href: string;
+  };
+  secondaryAction?: {
+    label: string;
+    href: string;
+  };
+
+  // Navigation links
+  navigationLinks?: Array<{
+    label: string;
+    href: string;
+  }>;
+
+  // Content type for analytics/tracking
+  contentType?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  image,
+  language,
+  heroTitle,
+  heroSubtitle,
+  featuredImage,
+  breadcrumbs,
+  infoItems,
+  highlights,
+  images,
+  primaryAction = { label: 'Find Accommodation', href: '/accommodation/' },
+  secondaryAction = { label: 'Things to Do', href: '/activities/' },
+  navigationLinks = [
+    { label: '← All Attractions', href: '/attractions/' },
+    { label: 'Destinations', href: '/destinations/' },
+    { label: 'Activities & Tours', href: '/activities/' }
+  ],
+  contentType = 'article'
+} = Astro.props;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  image={image}
+  type="article"
+  language={language}
+>
+  <!-- Hero Section -->
+  <div class="hero">
+    {featuredImage && (
+      <div class="hero__image">
+        <img src={featuredImage} alt={heroTitle} loading="eager" />
+        <div class="hero__overlay"></div>
+      </div>
+    )}
+
+    <div class="hero__content">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          {breadcrumbs.map((crumb, index) => (
+            <>
+              {crumb.href ? (
+                <a href={crumb.href}>{crumb.label}</a>
+              ) : (
+                <span>{crumb.label}</span>
+              )}
+              {index < breadcrumbs.length - 1 && <span>/</span>}
+            </>
+          ))}
+        </nav>
+
+        <h1 class="hero__title">{heroTitle}</h1>
+
+        {heroSubtitle && (
+          <p class="hero__description">{heroSubtitle}</p>
+        )}
+      </div>
+    </div>
+  </div>
+
+  <!-- Content -->
+  <article class="article" data-content-type={contentType}>
+    <div class="container">
+      <div class="layout">
+
+        <!-- Main Column -->
+        <div class="content">
+
+          <!-- Highlights -->
+          {highlights && highlights.length > 0 && (
+            <section class="highlights">
+              <h2 class="highlights__title">Highlights</h2>
+              <ul class="highlights__list">
+                {highlights.map((highlight) => (
+                  <li>{highlight}</li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          <!-- Article Body (slot for markdown content) -->
+          <div class="prose prose-lg max-w-none article-content" data-article-content>
+            <slot />
+          </div>
+
+          <!-- Photo Gallery -->
+          {images && images.length > 0 && (
+            <section class="gallery">
+              <h2 class="gallery__title">Photo Gallery</h2>
+              <LightboxGallery images={images} title={heroTitle} />
+            </section>
+          )}
+
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+
+          <!-- Info Card (if data provided) -->
+          {infoItems && infoItems.length > 0 && (
+            <div class="card">
+              <h3 class="card__title">Essential Info</h3>
+              <dl class="info-list">
+                {infoItems.map((item) => (
+                  <>
+                    <dt>{item.icon} {item.label}</dt>
+                    <dd>{item.value}</dd>
+                  </>
+                ))}
+              </dl>
+            </div>
+          )}
+
+          <!-- Actions Card -->
+          <div class="card card--sticky">
+            <h3 class="card__title">Plan Your Visit</h3>
+            <div class="card__actions">
+              <a href={primaryAction.href} class="btn btn--primary">
+                {primaryAction.label}
+              </a>
+              <a href={secondaryAction.href} class="btn btn--secondary">
+                {secondaryAction.label}
+              </a>
+            </div>
+          </div>
+
+          <!-- Navigation Card -->
+          <div class="card">
+            <h3 class="card__title">Explore More</h3>
+            <nav class="nav-links">
+              {navigationLinks.map((link) => (
+                <a href={link.href}>{link.label}</a>
+              ))}
+            </nav>
+          </div>
+
+        </aside>
+
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  /* === Variables === */
+  :root {
+    --container-max: 1200px;
+    --container-padding: 1.5rem;
+    --space-xs: 0.5rem;
+    --space-sm: 1rem;
+    --space-md: 1.5rem;
+    --space-lg: 2rem;
+    --space-xl: 3rem;
+    --space-2xl: 4rem;
+    --radius: 0.5rem;
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  }
+
+  /* === Container === */
+  .container {
+    max-width: var(--container-max);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: var(--container-padding);
+    padding-right: var(--container-padding);
+  }
+
+  /* === Hero === */
+  .hero {
+    position: relative;
+    min-height: 70vh;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+  }
+
+  .hero__image {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+  }
+
+  .hero__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.7) 100%);
+  }
+
+  .hero__content {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    padding: var(--space-xl) 0;
+    color: white;
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: 0.875rem;
+    margin-bottom: var(--space-md);
+    opacity: 0.9;
+  }
+
+  .breadcrumb a {
+    text-decoration: none;
+    transition: opacity 0.2s;
+    color: inherit;
+  }
+
+  .breadcrumb a:hover {
+    opacity: 1;
+    text-decoration: underline;
+  }
+
+  .breadcrumb span {
+    opacity: 0.6;
+  }
+
+  .hero__title {
+    font-size: clamp(2rem, 5vw, 4rem);
+    font-weight: 700;
+    line-height: 1.1;
+    margin-bottom: var(--space-md);
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  }
+
+  .hero__description {
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    line-height: 1.6;
+    max-width: 42rem;
+    opacity: 0.95;
+  }
+
+  /* === Layout === */
+  .article {
+    padding: var(--space-2xl) 0;
+  }
+
+  .layout {
+    display: grid;
+    gap: var(--space-xl);
+  }
+
+  @media (min-width: 1024px) {
+    .layout {
+      grid-template-columns: 1fr 320px;
+      align-items: start;
+    }
+  }
+
+  /* === Content === */
+  .content {
+    min-width: 0;
+  }
+
+  /* === Highlights === */
+  .highlights {
+    margin-bottom: var(--space-xl);
+    padding: var(--space-lg);
+    background: hsl(var(--muted));
+    border-radius: var(--radius);
+    border: 1px solid hsl(var(--border));
+  }
+
+  .highlights__title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: var(--space-md);
+  }
+
+  .highlights__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-sm);
+  }
+
+  @media (min-width: 768px) {
+    .highlights__list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .highlights__list li {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-sm);
+    line-height: 1.6;
+  }
+
+  .highlights__list li::before {
+    content: '✓';
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.25rem;
+    height: 1.25rem;
+    background: hsl(var(--primary));
+    color: white;
+    border-radius: 50%;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-top: 0.125rem;
+  }
+
+  /* === Article Content (Prose) === */
+  .article-content :global(h2) {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+    border-left: 4px solid hsl(var(--primary));
+    padding-left: var(--space-md);
+  }
+
+  .article-content :global(h3) {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-md);
+  }
+
+  .article-content :global(h4) {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: var(--space-lg);
+    margin-bottom: var(--space-sm);
+  }
+
+  .article-content :global(p) {
+    line-height: 1.75;
+    margin-bottom: var(--space-md);
+    font-size: 1.0625rem;
+    text-align: justify;
+  }
+
+  .article-content :global(a) {
+    color: hsl(var(--primary));
+    text-decoration: underline;
+    transition: opacity 0.2s;
+  }
+
+  .article-content :global(a:hover) {
+    opacity: 0.8;
+  }
+
+  .article-content :global(img) {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    margin: var(--space-xl) 0;
+  }
+
+  .article-content :global(ul),
+  .article-content :global(ol) {
+    margin: var(--space-md) 0;
+    padding-left: var(--space-lg);
+  }
+
+  .article-content :global(li) {
+    margin-bottom: var(--space-xs);
+    line-height: 1.75;
+  }
+
+  .article-content :global(blockquote) {
+    border-left: 4px solid hsl(var(--primary));
+    padding-left: var(--space-lg);
+    padding-top: var(--space-md);
+    padding-bottom: var(--space-md);
+    margin: var(--space-xl) 0;
+    font-style: italic;
+    background: hsl(var(--muted) / 0.5);
+    border-radius: 0 var(--radius) var(--radius) 0;
+  }
+
+  .article-content :global(strong) {
+    font-weight: 600;
+  }
+
+  .article-content :global(em) {
+    font-style: italic;
+  }
+
+  .article-content :global(code) {
+    background: hsl(var(--muted));
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    font-size: 0.875em;
+    font-family: monospace;
+  }
+
+  .article-content :global(pre) {
+    background: hsl(var(--muted));
+    padding: var(--space-md);
+    border-radius: var(--radius);
+    overflow-x: auto;
+    margin: var(--space-md) 0;
+  }
+
+  .article-content :global(pre code) {
+    background: none;
+    padding: 0;
+  }
+
+  /* === Gallery === */
+  .gallery {
+    margin-top: var(--space-2xl);
+  }
+
+  .gallery__title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: var(--space-lg);
+  }
+
+  /* === Sidebar === */
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+    position: sticky;
+    top: 2rem;
+    align-self: flex-start;
+  }
+
+  @media (max-width: 1023px) {
+    .sidebar {
+      position: static;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+  }
+
+  /* === Card === */
+  .card {
+    background: hsl(var(--card));
+    border: 1px solid hsl(var(--border));
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    flex-shrink: 0;
+  }
+
+  .card__title {
+    font-size: 1.125rem;
+    font-weight: 600;
+    padding: var(--space-md);
+    border-bottom: 1px solid hsl(var(--border));
+    background: hsl(var(--muted) / 0.3);
+  }
+
+  .card__actions {
+    padding: var(--space-md);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  /* === Buttons === */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border-radius: var(--radius);
+    text-decoration: none;
+    transition: all 0.2s;
+    border: 2px solid transparent;
+  }
+
+  .btn--primary {
+    background: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+  }
+
+  .btn--primary:hover {
+    opacity: 0.9;
+  }
+
+  .btn--secondary {
+    background: transparent;
+    border-color: hsl(var(--primary));
+    color: hsl(var(--primary));
+  }
+
+  .btn--secondary:hover {
+    background: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
+  }
+
+  /* === Info List === */
+  .info-list {
+    padding: var(--space-md);
+    display: grid;
+    gap: var(--space-md);
+    font-size: 0.875rem;
+  }
+
+  .info-list dt {
+    font-weight: 600;
+    color: hsl(var(--foreground));
+  }
+
+  .info-list dd {
+    margin: 0;
+    margin-top: var(--space-xs);
+    color: hsl(var(--muted-foreground));
+  }
+
+  /* === Nav Links === */
+  .nav-links {
+    padding: var(--space-md);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .nav-links a {
+    color: hsl(var(--primary));
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: opacity 0.2s;
+  }
+
+  .nav-links a:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+  }
+
+  /* === Responsive === */
+  @media (max-width: 768px) {
+    :root {
+      --container-padding: 1rem;
+      --space-xl: 2rem;
+      --space-2xl: 3rem;
+    }
+
+    .hero {
+      min-height: 60vh;
+    }
+  }
+</style>
+
+<script is:inline>
+  // ========================================
+  // Article Read More Functionality
+  // ========================================
+  document.addEventListener('DOMContentLoaded', function() {
+    const articleContent = document.querySelector('[data-article-content]');
+
+    if (!articleContent) return;
+
+    // Get all direct children
+    const elements = Array.from(articleContent.children);
+
+    // Count all paragraphs and H2s to find a good insertion point
+    let paragraphCount = 0;
+    let h2Count = 0;
+    let insertIndex = -1;
+
+    for (let i = 0; i < elements.length; i++) {
+      if (elements[i].tagName === 'H2') {
+        h2Count++;
+      }
+      if (elements[i].tagName === 'P') {
+        paragraphCount++;
+        // Insert after 3 paragraphs OR after 2nd H2 section starts (whichever comes first)
+        if (paragraphCount >= 3 || (h2Count >= 2 && paragraphCount >= 2)) {
+          insertIndex = i;
+          break;
+        }
+      }
+    }
+
+    // Only show button if there's substantial content after the insertion point
+    if (insertIndex !== -1 && insertIndex < elements.length - 3) {
+      // Create Read More button
+      const readMoreBtn = document.createElement('button');
+      readMoreBtn.className = 'read-more-btn';
+      readMoreBtn.innerHTML = `
+        <span>Continue Reading Full Story</span>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M19 9l-7 7-7-7"></path>
+        </svg>
+      `;
+
+      // Insert button after the paragraph
+      elements[insertIndex].insertAdjacentElement('afterend', readMoreBtn);
+
+      // NOW hide everything after the insertion point
+      // We need to re-query to account for the button we just added
+      const allChildren = Array.from(articleContent.children);
+      const buttonIndex = allChildren.indexOf(readMoreBtn);
+
+      for (let i = buttonIndex + 1; i < allChildren.length; i++) {
+        allChildren[i].style.display = 'none';
+        allChildren[i].setAttribute('data-hidden-by-readmore', 'true');
+      }
+
+      // Handle click
+      readMoreBtn.addEventListener('click', () => {
+        // Show all hidden content
+        const hiddenElements = articleContent.querySelectorAll('[data-hidden-by-readmore="true"]');
+        hiddenElements.forEach(el => {
+          el.style.display = '';
+          el.removeAttribute('data-hidden-by-readmore');
+          el.classList.add('revealed-content');
+        });
+        // Remove the button
+        readMoreBtn.remove();
+      });
+    }
+  });
+</script>
+
+<style is:inline>
+  /* Read More Button */
+  .read-more-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+    margin: 2rem 0;
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+    color: white;
+    border: none;
+    font-size: 1.0625rem;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.3);
+  }
+
+  .read-more-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
+  }
+
+  .read-more-btn:active {
+    transform: translateY(0);
+  }
+
+  .read-more-btn span {
+    letter-spacing: 0.3px;
+    order: 1;
+  }
+
+  .read-more-btn svg {
+    flex-shrink: 0;
+    order: 2;
+    margin-left: 0.25rem;
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(4px);
+    }
+  }
+
+  /* Revealed content animation */
+  .revealed-content {
+    animation: fadeIn 0.4s ease-in;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>

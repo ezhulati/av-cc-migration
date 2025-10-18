@@ -44,7 +44,7 @@ const breadcrumbs = [
   { label: 'Destinations', href: '/destinations/' },
 ];
 if (region) {
-  breadcrumbs.push({ label: region });
+  breadcrumbs.push({ label: region, href: `/destinations/?region=${encodeURIComponent(region)}` });
 }
 
 // Build sidebar info items
@@ -53,7 +53,7 @@ const infoItems = [
   { icon: '🇦🇱', label: 'Country', value: 'Albania' },
   { icon: '💬', label: 'Language', value: 'Albanian, English' },
   { icon: '💵', label: 'Currency', value: 'Albanian Lek (ALL)' },
-].filter(Boolean);
+].filter((item): item is { icon: string; label: string; value: string } => Boolean(item));
 
 // Navigation links
 const navigationLinks = [

@@ -8,7 +8,7 @@ export async function getStaticPaths() {
   });
 
   return researchReports.map((report) => ({
-    params: { slug: report.id },
+    params: { slug: report.id.replace(/\.md$/, '') },
     props: { report },
   }));
 }
@@ -16,6 +16,8 @@ export async function getStaticPaths() {
 const { report } = Astro.props;
 // @ts-ignore - render() exists at runtime for content collections
 const { Content } = await report.render();
+
+const slug = report.id.replace(/\.md$/, '');
 
 // Get all research reports for "More Research" section
 const allResearch = await getCollection('research', ({ data }) => {
@@ -31,7 +33,7 @@ const relatedResearch = allResearch
 <BaseLayout
   title={report.data.seo?.metaTitle || report.data.title}
   description={report.data.seo?.metaDescription || report.data.description}
-  canonical={report.data.seo?.canonicalURL || `https://albaniavisit.com/research/${report.id}/`}
+  canonical={report.data.seo?.canonicalURL || `https://albaniavisit.com/research/${slug}/`}
   image={report.data.featuredImage}
   type="article"
   publishedTime={new Date(report.data.pubDate).toISOString()}
@@ -79,18 +81,21 @@ const relatedResearch = allResearch
         <aside class="related-research">
           <h2>More Research Reports</h2>
           <div class="related-grid">
-            {relatedResearch.map((related) => (
-              <a href={`/research/${related.id}/`} class="related-card">
-                {related.data.featuredImage && (
-                  <img
-                    src={related.data.featuredImage}
-                    alt={related.data.title}
-                    loading="lazy"
-                  />
-                )}
-                <h3>{related.data.title}</h3>
-              </a>
-            ))}
+            {relatedResearch.map((related) => {
+              const relatedSlug = related.id.replace(/\.md$/, '');
+              return (
+                <a href={`/research/${relatedSlug}/`} class="related-card">
+                  {related.data.featuredImage && (
+                    <img
+                      src={related.data.featuredImage}
+                      alt={related.data.title}
+                      loading="lazy"
+                    />
+                  )}
+                  <h3>{related.data.title}</h3>
+                </a>
+              );
+            })}
           </div>
           <a href="/research/" class="view-all-button">
             View All Research Reports →

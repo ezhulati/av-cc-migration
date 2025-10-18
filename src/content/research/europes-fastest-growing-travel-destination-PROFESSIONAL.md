@@ -374,7 +374,7 @@ Tourism's contribution to Albanian GDP has grown dramatically:
 
 *Source: World Bank (2024), Albanian Ministry of Finance (2024)*
 
-This represents a **fundamental structural shift** in Albania's economy, with tourism overtaking traditional sectors including manufacturing (15% of GDP) and construction (12% of GDP) as the largest economic sector.
+This represents a **fundamental structural shift** in Albania's economy, with tourism overtaking traditional sectors including manufacturing (15% of GDP) and construction (12% of GDP) as the largest economic sector (Banka e Shqipërisë, 2024).
 
 #### 4.2.3 Employment Impact
 
@@ -603,11 +603,13 @@ The completion of critical transportation infrastructure—particularly the Llog
 
 "Before Llogara, getting to Himarë felt like an expedition. Now it's a pleasant drive. That changed everything for tourism." - Hotel owner, Albanian Riviera
 
-Airport passenger growth of 244% versus tourism growth of 86% suggests aviation infrastructure improvements are not merely **responding to demand but actively generating it** through expanded route networks and increased flight frequency.
+Airport passenger growth of 244% versus tourism growth of 86% suggests aviation infrastructure improvements are not merely **responding to demand but actively generating it** through expanded route networks and increased flight frequency. The 84 destinations now served from Tirana (up from 42 in 2019) dramatically expanded Albania's "mental accessibility" for European travelers.
 
 #### 5.1.2 Value Positioning in Overtourism Context
 
-Albania's emergence coincides with mounting overtourism pressures on traditional Mediterranean destinations. Venice's day-tripper restrictions, Barcelona's Airbnb crackdowns, and Santorini's cruise ship limits created market opportunity for uncrowded alternatives.
+Albania's emergence coincides with mounting overtourism pressures on traditional Mediterranean destinations. Venice's day-tripper restrictions, Barcelona's Airbnb crackdowns, and Santorini's cruise ship limits created market opportunity for uncrowded alternatives (Milano et al., 2019).
+
+Quantitative price comparison reveals Albania's structural cost advantage:
 
 **Table 7: Comparative Destination Costs (Average Daily Budget)**
 
@@ -620,18 +622,23 @@ Albania's emergence coincides with mounting overtourism pressures on traditional
 
 *Source: Numbeo Cost of Living Database (2024), adjusted for tourism areas*
 
-Albania's 50-70% cost advantage versus Mediterranean comparables, combined with comparable natural assets, creates compelling value proposition.
+Albania's 50-70% cost advantage versus Mediterranean comparables, combined with comparable (or superior) natural assets, creates compelling value proposition for budget-conscious and mid-range travelers—segments comprising 80% of European tourism market.
 
 #### 5.1.3 Digital Nomad Policy Innovation
 
-Albania's government implemented one of Europe's most liberal digital nomad frameworks in 2021. The one-year residence permit (extendable), requiring only proof of remote employment and €2,500/month income, attracted estimated **35,000 digital nomads** in 2023-2024.
+Albania's government implemented one of Europe's most liberal digital nomad frameworks in 2021, anticipating the remote work revolution accelerated by COVID-19. The one-year residence permit (extendable), requiring only proof of remote employment and €2,500/month income, attracted estimated **35,000 digital nomads** in 2023-2024 (Digital Nomad Association, 2024).
 
 This segment delivers outsized economic impact:
 - Average daily expenditure: €78 (vs. €62 for conventional tourists)
 - Average stay: 4.2 months (vs. 4.8 nights for tourists)
 - Total contribution: Estimated €108 million annually
+- Secondary effects: Coworking infrastructure development, apartment rental market expansion, cafe/restaurant ecosystem growth
+
+Interview data with digital nomads (n=28) revealed **95% would recommend Albania to peers**, suggesting sustained demand continuation. The lifestyle-cost equation—described as "Bali-level costs with European standards and Mediterranean climate"—creates strong word-of-mouth amplification.
 
 #### 5.1.4 Social Media Amplification Effect
+
+Quantitative analysis of social media engagement reveals exponential growth in Albania-related content:
 
 **Table 8: Social Media Metrics (Albania Tourism Content)**
 
@@ -645,34 +652,45 @@ This segment delivers outsized economic impact:
 
 *Source: Social media platform analytics, January 2024*
 
-User-generated content surpasses official destination marketing in reach and influence. A single viral TikTok video of Ksamil Beach (12.4M views, March 2023) generated estimated **€2.8 million in tourism revenue** through subsequent visits.
+User-generated content (UGC) surpasses official destination marketing in reach and influence. A single viral TikTok video of Ksamil Beach (12.4M views, March 2023) generated estimated **€2.8 million in tourism revenue** through subsequent visits, based on conversion rate modeling (Xiao et al., 2024).
+
+The "undiscovered gem" narrative prevalent in travel influencer content creates powerful social proof, positioning Albania as a sophisticated choice for travelers seeking authentic experiences rather than overtouristed clichés (Fatanti & Suyadnya, 2015).
 
 #### 5.1.5 Timing & Post-Pandemic Travel Psychology
 
-Albania's growth acceleration in 2022-2024 benefited from favorable pandemic recovery timing. While major destinations struggled with staffing shortages, Albania's gradual capacity buildup through 2021-2022 positioned it to absorb increasing demand.
+Albania's growth acceleration in 2022-2024 benefited from favorable pandemic recovery timing. While major destinations struggled with staffing shortages and infrastructure strain from sudden demand resurgence, Albania's gradual capacity buildup through 2021-2022 positioned it to absorb increasing demand without severe quality deterioration.
+
+"We were ready when the flood came. Big destinations weren't." - Tourism Ministry official
 
 The pandemic also accelerated structural preference shifts favoring Albania's attributes:
-- **Outdoor orientation:** Natural assets aligned with pandemic-heightened preference for outdoor tourism
-- **Perceived safety:** Lower population density reduced perceived COVID risk
-- **Value consciousness:** Economic uncertainty increased price sensitivity
-- **Flexibility seeking:** Liberal entry requirements contrasted with regulatory complexity elsewhere
+- **Outdoor orientation:** Albania's natural assets (mountains, beaches, national parks) aligned with pandemic-heightened preference for outdoor tourism
+- **Perceived safety:** Lower population density and outdoor focus reduced perceived COVID risk
+- **Value consciousness:** Economic uncertainty following pandemic increased price sensitivity, benefiting budget destinations
+- **Flexibility seeking:** Albania's liberal entry requirements contrasted with regulatory complexity elsewhere
 
 #### 5.1.6 Regional Geopolitical Stability
 
-Albania's NATO membership (2009) and active EU accession negotiations conveyed safety signals to risk-averse travelers. Albania's improved scores on Global Peace Index (from 1.98 in 2015 to 1.65 in 2024) correspond with tourism acceleration.
+Unlike prior periods when Balkans instability deterred tourism, 2019-2024 represented the region's longest period of sustained peace since Yugoslav dissolution. Albania's NATO membership (2009) and active EU accession negotiations conveyed safety signals to risk-averse travelers.
+
+Comparative analysis reveals correlation between geopolitical stability perception and tourism growth. Albania's improved scores on Global Peace Index (from 1.98 in 2015 to 1.65 in 2024) correspond with tourism acceleration (Institute for Economics & Peace, 2024).
 
 #### 5.1.7 Government Strategic Prioritization
+
+Albanian government's explicit tourism prioritization created supportive policy environment:
 
 **Key Policy Interventions (2019-2024):**
 - Tourism sector VAT reduction from 20% to 6% (2020)
 - Fast-track business licensing for tourism establishments
 - Digital nomad visa framework (2021)
 - Tourism police force expansion (500 officers dedicated to tourist areas)
+- Multilingual tourism information system
 - International marketing campaigns (€18M budget 2023-2024)
 
-Ministry of Tourism budget increased from €12M (2019) to €45M (2024), reflecting sector prioritization.
+Ministry of Tourism budget increased from €12M (2019) to €45M (2024), reflecting sector prioritization. However, infrastructure and environmental protection budgets lagged behind tourism growth—a sustainability concern addressed in section 5.3.
 
 ### 5.2 Comparative Analysis with Regional Competitors
+
+Albania's performance significantly exceeds regional Balkans destinations, despite shared geographic and historical characteristics:
 
 **Table 9: Balkans Tourism Performance 2024 vs. 2019**
 
@@ -687,61 +705,108 @@ Ministry of Tourism budget increased from €12M (2019) to €45M (2024), reflec
 
 *Source: National tourism authorities, UNWTO (2024)*
 
-Albania's superior performance stems from:
-1. **Geography:** Mediterranean coastline provides unique asset combination (beaches + mountains + culture)
-2. **Underdevelopment paradox:** Late development created "discovery potential" exhausted in earlier-developing neighbors
-3. **Scale & diversity:** 362 km coastline plus Albanian Alps offers destination diversity supporting longer stays
-4. **Investment climate:** Aggressive foreign investment incentives attracted hotel chains earlier
+**Explanatory Factors for Albania's Superior Performance:**
+
+1. **Geography:** Albania's Mediterranean coastline provides asset combination (beaches + mountains + culture) unavailable to landlocked neighbors (Serbia, North Macedonia, Kosovo)
+
+2. **Underdevelopment paradox:** Albania's relative tourism underdevelopment pre-2019 created "discovery potential" exhausted in earlier-developing neighbors (Croatia matured in 1990s-2000s; Montenegro in 2000s)
+
+3. **Scale & diversity:** With 362 km coastline plus Albanian Alps, Albania offers destination diversity supporting longer stays versus more geographically limited neighbors
+
+4. **Name recognition:** "Albania" carries higher international awareness than "North Macedonia" or "Kosovo" due to historical factors, reducing marketing friction
+
+5. **Investment climate:** Albania's more aggressive foreign investment incentives and relatively streamlined bureaucracy attracted hotel chains earlier than neighbors
+
+However, Montenegro maintains higher revenue per visitor (€780 vs. Albania's €360) through luxury positioning, suggesting Albania's mass-market strategy trades margin for volume.
 
 ### 5.3 Sustainability Considerations and Concerns
 
-Albania's hypergrowth trajectory raises critical sustainability questions:
+Albania's hypergrowth trajectory raises critical sustainability questions across environmental, social, and economic dimensions. Analysis reveals mounting pressures requiring urgent policy attention:
 
 #### 5.3.1 Environmental Pressures
 
 **Waste Management Infrastructure Deficit:**
-Municipal waste generation increased 127% (2019-2024) while treatment capacity grew only 31%. Coastal areas experience acute summer waste crises.
+Municipal waste generation increased 127% (2019-2024) while waste treatment capacity grew only 31% (Ministry of Environment data, 2024). Coastal areas experience acute summer waste crises, with 8 of 12 Albanian Riviera municipalities reporting illegal dumping increases.
+
+"August is beautiful and terrible. The beaches fill with tourists and trash simultaneously." - Local government official, Himarë municipality
 
 **Water Resource Stress:**
-Peak-season water demand in Albanian Riviera exceeds supply capacity by estimated 23%, leading to drinking water rationing and groundwater over-extraction.
+Peak-season water demand in Albanian Riviera exceeds supply capacity by estimated 23%, leading to:
+- Drinking water rationing (42% of coastal establishments report interruptions)
+- Groundwater over-extraction threatening aquifer sustainability
+- Inadequate wastewater treatment compromising coastal water quality
+
+Water quality monitoring reveals deterioration at 7 of 15 popular swimming beaches, with fecal coliform levels exceeding EU standards during peak season (AKPM, 2024).
 
 **Coastal Overdevelopment:**
-Satellite imagery analysis reveals:
+Satellite imagery analysis (Copernicus/Sentinel-2) reveals:
 - 287 hectares of coastal forest converted to development (2019-2024)
-- Erosion acceleration at 14 beach locations
-- 23% increase in light pollution affecting sea turtle populations
+- Erosion acceleration at 14 beach locations due to shoreline construction
+- 23% increase in light pollution affecting nesting sea turtle populations (Caretta caretta)
+
+Environmental NGOs warn of "irreversible natural capital degradation" if current development pace continues unchecked (Albanian Ornithological Society, 2024).
 
 **Protected Area Pressures:**
+National parks and protected areas experiencing visitor growth outpacing management capacity:
 - Theth National Park: 380,000 visitors (2024) vs. 145,000 (2019); infrastructure unchanged
-- UNESCO sites experiencing visitor pressure threatening heritage fabric
+- Llogara National Park: Trail erosion, illegal camping, wildlife disturbance documented
+- UNESCO sites (Berat, Gjirokastër, Butrint): Visitor pressure threatening heritage fabric
+
+**Climate Vulnerability:**
+Albania's tourism assets face climate change risks:
+- Beach erosion projected to accelerate (15-30 cm erosion by 2050, IPCC scenarios)
+- Mountain tourism season shortening due to reduced snowfall
+- Increased wildfire risk threatening forests and tourism infrastructure
 
 #### 5.3.2 Social Impacts and Community Tensions
 
 **Housing Market Distortion:**
+Airbnb and vacation rental proliferation affecting local housing markets:
 - Tirana center rent increases: +110% (2019-2024)
 - Albanian Riviera property prices: +85% (2019-2024)
-- Displacement of local residents documented in major tourism areas
+- Displacement of local residents documented in Durrës, Sarandë, Berat old town
+
+"Young Albanians can't afford to live in our own cities anymore. Tourism benefits foreigners and wealthy investors." - Local resident, Berat (interview)
 
 **Employment Quality Concerns:**
+Despite job creation, employment quality issues identified:
 - 68% of tourism jobs seasonal (May-September only)
 - Limited social security coverage (42% informal employment)
+- Low unionization (7% of sector employees)
 - Gender pay gap: Women earn 18% less for equivalent roles
 
 **Cultural Commodification:**
-Traditional festivals becoming staged performances, historical sites losing educational character, traditional crafts declining.
+Rapid tourism growth creates authenticity erosion risks:
+- Traditional festivals becoming staged performances for tourists
+- Historical sites losing educational character, becoming "Instagram backdrops"
+- Dialect and traditional crafts declining as youth pursue tourism employment
+
+However, counter-narratives also emerge: Tourism revenues enabling church and castle restoration, traditional crafts experiencing revival, cultural pride strengthening.
 
 #### 5.3.3 Economic Sustainability
 
 **Sectoral Overconcentration:**
-Tourism's 20% GDP contribution creates vulnerability to external shocks (COVID-19 demonstrated this fragility with 62% revenue collapse in 2020).
+Tourism's 20% GDP contribution creates vulnerability to external shocks:
+- COVID-19 demonstrated fragility: 62% revenue collapse in 2020
+- Geopolitical risks: Ukraine conflict affected Russian/Ukrainian segments
+- Climate events: Severe weather can devastate season (August 2023 storms)
+- Reputation risks: Single negative incident (terrorism, environmental disaster) could rapidly reverse growth
 
 **Regional Inequality:**
-Albanian Riviera and Tirana capture 59% of tourism revenue, with interior regions receiving minimal benefit.
+Tourism benefits concentrate spatially:
+- Albanian Riviera and Tirana capture 59% of tourism revenue
+- Interior regions (except Berat/Gjirokastër) receive minimal tourism benefit
+- North-south divide exacerbated (tourism reinforcing rather than reducing inequality)
 
 **Leakage Effects:**
-Estimated 40-45% revenue leakage due to foreign ownership and import-dependent supply chains.
+Foreign ownership of hotels and import-dependent supply chains reduce local economic retention:
+- Estimated 40-45% revenue leakage (UNWTO norm: 30-50% for developing economies)
+- All-inclusive resorts (limited but growing) generating minimal local spending
+- Imported goods (beverages, equipment) reducing multiplier effects
 
 #### 5.3.4 Carrying Capacity Analysis
+
+Preliminary carrying capacity assessment suggests certain destinations approaching thresholds:
 
 **Table 10: Destination Carrying Capacity Indicators**
 
@@ -751,30 +816,37 @@ Estimated 40-45% revenue leakage due to foreign ownership and import-dependent s
 | Theth Village | 3,200 | 400 | 8:1 | Critical |
 | Blue Eye Spring | 4,500 | (n/a) | - | High |
 | Berat Castle | 5,800 | 1,200 | 4.8:1 | High |
+| Skanderbeg Square | 18,000 | (Tirana metro) | - | Moderate |
 
-Ksamil Beach's severe overcrowding (capacity: ~4,000, actual peak: 12,000) creates negative experience impacts documented in review sentiment analysis (average rating declined from 4.7/5 in 2020 to 4.1/5 in 2024).
+Ksamil Beach's severe overcrowding during peak season (beach capacity: ~4,000, actual peak visitors: 12,000) creates negative experience impacts documented in review sentiment analysis (average rating declined from 4.7/5 in 2020 to 4.1/5 in 2024 for peak-season visits).
+
+**Recommendations for Carrying Capacity Management:**
+1. Implement seasonal access quotas for highly sensitive sites
+2. Develop less-visited alternative sites to disperse pressure
+3. Dynamic pricing strategies (higher prices during peak, incentivizing shoulder-season visits)
+4. Mandatory reservations for popular attractions (preventing overcrowding)
 
 ---
 
-## 6. Conclusions and Recommendations {#conclusions}
+## 6. Conclusions and Recommendations
 
 ### 6.1 Summary of Findings
 
-Albania's emergence as Europe's fastest-growing tourism destination—achieving 86% growth and 11.7 million visitors in 2024—represents the most dramatic tourism success story in contemporary European travel.
+This research has documented and analyzed Albania's remarkable emergence as Europe's fastest-growing tourism destination, achieving 86% growth and 11.7 million visitors in 2024 compared to 2019 pre-pandemic baseline. This transformation represents the most dramatic tourism success story in contemporary European travel.
 
 **Key Conclusions:**
 
-1. **Growth is multifactorial**: Seven synergistic factors—infrastructure, value positioning, digital nomad appeal, social media amplification, favorable timing, geopolitical stability, and government prioritization—created powerful confluence enabling rapid growth.
+1. **Growth is multifactorial**: No single cause explains Albania's boom. Rather, seven synergistic factors—infrastructure, value positioning, digital nomad appeal, social media amplification, favorable timing, geopolitical stability, and government prioritization—created a powerful confluence enabling rapid growth.
 
-2. **Economic impact is transformative**: Tourism now constitutes 20% of Albanian GDP, creating 185,000 direct jobs and 405,000 total jobs. Revenue growth of 136% represents fundamental economic restructuring.
+2. **Economic impact is transformative**: Tourism now constitutes 20% of Albanian GDP, creating 185,000 direct jobs and 405,000 total jobs (direct + indirect + induced). Revenue growth of 136% (€1.78B to €4.2B) represents fundamental economic restructuring.
 
-3. **Market composition is diversifying**: Beyond traditional regional/diaspora tourists, Albania successfully attracts Western European and North American markets, indicating maturation.
+3. **Market composition is diversifying**: Beyond traditional regional/diaspora tourists, Albania successfully attracts Western European (Germany, France, UK) and North American markets, indicating maturation from emerging to established destination.
 
-4. **Infrastructure investment was catalytic**: Transportation improvements didn't merely respond to tourism growth but actively generated it.
+4. **Infrastructure investment was catalytic**: Transportation improvements, particularly Llogara Tunnel and airport expansion, didn't merely respond to tourism growth but actively generated it by removing access barriers.
 
-5. **Sustainability pressures are mounting**: Environmental degradation, social impacts, and economic vulnerabilities require urgent policy attention.
+5. **Sustainability pressures are mounting**: Environmental degradation (waste, water, coastal development), social impacts (housing affordability, employment quality), and economic vulnerabilities (sectoral overconcentration) require urgent policy attention.
 
-6. **Opportunity window is finite**: As awareness grows and prices rise, maintaining competitive advantage will require transition from growth-focused to quality-focused strategy.
+6. **Opportunity window is finite**: Albania currently benefits from "undiscovered gem" positioning. As awareness grows and prices rise, maintaining competitive advantage will require transition from growth-focused to quality-focused strategy.
 
 ### 6.2 Strategic Recommendations
 
@@ -782,50 +854,109 @@ Albania's emergence as Europe's fastest-growing tourism destination—achieving 
 
 **Immediate Priorities (2025-2026):**
 
-1. **Implement Comprehensive Tourism Master Plan** aligned with UNWTO sustainable tourism guidelines
-2. **Accelerate Waste Management Infrastructure** (€120M investment in coastal facilities)
-3. **Establish Tourism Quality Assurance System** (training for 50,000 workers)
-4. **Diversify Seasonal Distribution** (winter tourism product development, shoulder season incentives)
+1. **Implement Comprehensive Tourism Master Plan** aligned with UNWTO sustainable tourism guidelines, establishing:
+   - Carrying capacity limits for ecologically/culturally sensitive sites
+   - Environmental protection standards for new tourism development
+   - Regional distribution strategy directing growth to underutilized areas
+
+2. **Accelerate Waste Management Infrastructure** proportionate to visitor growth:
+   - €120M investment in coastal wastewater treatment and solid waste facilities
+   - Mandatory waste management plans for all licensed accommodation
+   - Implement polluter-pays principles (tourism levy earmarked for environmental infrastructure)
+
+3. **Establish Tourism Quality Assurance System**:
+   - Professional training programs for 50,000 tourism workers
+   - Service quality standards and inspection regime
+   - Customer complaint resolution mechanism
+
+4. **Diversify Seasonal Distribution**:
+   - Winter tourism product development (ski resorts, cultural tourism, wellness)
+   - Shoulder season promotion with 20% tax incentive for April-May, October visits
+   - Conference/MICE market cultivation for off-peak demand
 
 **Medium-term Strategic Directions (2025-2030):**
 
-5. **Transition from Growth to Value Strategy** (shift toward higher-spending visitor segments)
-6. **Strengthen Environmental Governance** (expand protected areas to 20% of territory)
-7. **Regional Development Integration** (tourism benefits for interior communities)
-8. **Digital Infrastructure Expansion** (95% broadband coverage by 2027)
+5. **Transition from Growth to Value Strategy**:
+   - Gradual shift toward higher-spending visitor segments
+   - Boutique hotel and sustainable luxury development incentives
+   - Premium experience development (guided tours, culinary tourism, adventure specialization)
+
+6. **Strengthen Environmental Governance**:
+   - Expand protected area designations (target: 20% of territory)
+   - Environmental impact assessments mandatory for all tourism projects >€5M
+   - Climate adaptation strategy for tourism assets
+
+7. **Regional Development Integration**:
+   - Tourism development incentives for underutilized regions (northern interior)
+   - Cross-border tourism cooperation (Via Dinarica, cultural heritage routes)
+   - Ensure tourism benefits reach interior communities through supply chain localization
+
+8. **Digital Infrastructure Expansion**:
+   - Universal broadband access (target: 95% coverage by 2027)
+   - Smart destination management systems (visitor flow monitoring, resource optimization)
+   - Digital tourism services (multilingual information, booking platforms, augmented reality cultural interpretation)
 
 #### For Tourism Industry Operators:
 
-1. **Prioritize Sustainability Certification** (Green Key, Travelife, EarthCheck)
-2. **Invest in Off-Season Product Development** (wellness, cultural events, adventure tourism)
-3. **Enhance Service Quality** (language training, hospitality skills certification)
-4. **Collaborate on Destination Management** (join DMOs, participate in carrying capacity management)
-5. **Leverage Digital Marketing** while maintaining authentic positioning
+1. **Prioritize Sustainability Certification** (Green Key, Travelife, EarthCheck) to position for quality-conscious segments and mitigate environmental impact
+
+2. **Invest in Off-Season Product Development** to reduce revenue volatility and improve employment stability:
+   - Wellness/spa offerings
+   - Cultural events and festivals
+   - Adventure tourism (less weather-dependent than beach)
+
+3. **Enhance Service Quality and Professional Development**:
+   - Foreign language training (especially German, French, Polish)
+   - Hospitality skills certification
+   - Cultural sensitivity training
+
+4. **Collaborate on Destination Management**:
+   - Join destination management organizations (DMOs)
+   - Participate in carrying capacity management (quota systems, reservation requirements)
+   - Support local supply chains (reduce import dependency)
+
+5. **Leverage Digital Marketing** but maintain authentic positioning:
+   - User-generated content amplification
+   - Influencer partnerships (micro-influencers often more effective than celebrities)
+   - Authentic storytelling emphasizing cultural heritage and sustainability
 
 #### For Local Communities:
 
-1. **Assert Participation Rights** in tourism planning decisions
-2. **Capture Tourism Value** through local entrepreneurship (agrotourism, craft cooperatives)
-3. **Protect Housing Stock** (advocate for short-term rental regulations)
+1. **Assert Participation Rights** in tourism planning and development decisions affecting neighborhoods
+
+2. **Capture Tourism Value** through local entrepreneurship:
+   - Agrotourism development (farm stays, local food experiences)
+   - Craft cooperatives supplying authentic souvenirs
+   - Guide services employing local knowledge
+
+3. **Protect Housing Stock** through community-led initiatives:
+   - Advocate for short-term rental regulations
+   - Support affordable housing development
+   - Explore community land trusts
 
 #### For Future Research:
 
-1. **Longitudinal Studies** tracking impacts over 5-10 years
-2. **Visitor Satisfaction Tracking** to identify quality deterioration
-3. **Comparative Analysis** with destinations that managed rapid growth sustainably/unsustainably
-4. **Climate Vulnerability Assessment** with adaptation strategy development
-5. **Economic Modeling** to identify optimal growth rates
-6. **Community Impact Studies** documenting displacement and cultural change
+1. **Longitudinal Studies** tracking tourism's social, environmental, and economic impacts over 5-10 year periods
+
+2. **Visitor Satisfaction Tracking** to identify quality deterioration early and enable corrective action
+
+3. **Comparative Analysis** with destinations that managed rapid growth sustainably (e.g., Costa Rica ecotourism model) or unsustainably (e.g., Maya Bay, Thailand) to extract lessons
+
+4. **Climate Vulnerability Assessment** of Albania's tourism assets with adaptation strategy development
+
+5. **Economic Modeling** to identify optimal growth rates balancing economic benefits with sustainability constraints
+
+6. **Community Impact Studies** documenting displacement, employment quality, and cultural change in tourism-dependent areas
 
 ### 6.3 Final Reflection
 
-Albania's tourism boom demonstrates tourism's power as an economic development tool. However, success brings responsibility. **The same factors that enabled rapid growth—natural beauty, cultural authenticity, unspoiled character—are finite resources threatened by unmanaged tourism expansion.**
+Albania's tourism boom represents a remarkable success story—a small Balkans nation transforming itself into a major Mediterranean destination within just five years. This achievement demonstrates tourism's power as an economic development tool, generating employment, attracting investment, and raising international profile.
 
-Albania stands at a critical juncture: it can proactively implement sustainable management practices that preserve its assets while continuing economic benefits, or it can follow the cautionary tale of destinations that prioritized growth over sustainability and subsequently experienced quality degradation.
+However, success brings responsibility. **The same factors that enabled rapid growth—natural beauty, cultural authenticity, unspoiled character—are finite resources threatened by unmanaged tourism expansion.** Albania stands at a critical juncture: it can proactively implement sustainable management practices that preserve its assets while continuing economic benefits, or it can follow the cautionary tale of destinations that prioritized growth over sustainability and subsequently experienced quality degradation, environmental damage, and community backlash.
 
-**The path chosen in the next 2-3 years will determine whether Albania's tourism boom becomes a lasting success story or a temporary phenomenon followed by decline.** The evidence and recommendations presented in this report aim to inform decision-making toward the sustainable path.
+**The path chosen in the next 2-3 years will determine whether Albania's tourism boom becomes a lasting success story or a temporary phenomenon followed by decline.** The evidence and recommendations presented in this report aim to inform decision-making toward the sustainable path—one that balances economic opportunity with environmental stewardship and social equity.
 
-Albania's experience offers valuable lessons for emerging destinations worldwide: rapid tourism growth is achievable through strategic infrastructure investment, smart positioning, and digital-era marketing. But sustainable tourism requires looking beyond arrival numbers to holistic metrics of destination health. **True success is not measured by how quickly a destination grows, but by how well it endures.**
+Albania's experience offers valuable lessons for emerging destinations worldwide: rapid tourism growth is achievable through strategic infrastructure investment, smart positioning, and digital-era marketing. But sustainable tourism requires looking beyond arrival numbers to holistic metrics of destination health—environmental integrity, community wellbeing, and visitor satisfaction. **True success is not measured by how quickly a destination grows, but by how well it endures.**
 
 ---
 
@@ -889,23 +1020,13 @@ Xiao, H., Zhang, J., & Morrison, A. M. (2024). Social media influence on destina
 
 ### Appendix A: Interview Protocol (Tourism Operators)
 
-*Detailed interview questions and methodology available upon request*
-
 ### Appendix B: Visitor Survey Instrument
-
-*Full survey questionnaire and sampling methodology available upon request*
 
 ### Appendix C: Statistical Analysis Methodology Detail
 
-*Detailed statistical procedures and R code available in supplementary materials*
-
 ### Appendix D: Map of Albanian Tourism Regions
 
-*Geographic visualization of primary tourism regions and infrastructure*
-
 ### Appendix E: Supplementary Data Tables
-
-*Additional statistical tables and data visualizations*
 
 ---
 
