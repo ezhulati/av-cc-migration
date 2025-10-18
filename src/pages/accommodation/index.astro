@@ -119,7 +119,7 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
 
             <!-- Accommodation Grid -->
             <div class="accommodations-grid">
-              {sortedAccommodations.map(accommodation => (
+              {sortedAccommodations.map((accommodation, index) => (
                 <AccommodationCard
                   title={accommodation.data.title}
                   slug={accommodation.slug}
@@ -132,8 +132,23 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
                   description={accommodation.data.description}
                   language={accommodation.data.language}
                   priceFrom={accommodation.data.priceFrom}
+                  index={index}
+                  initiallyHidden={index >= 24}
                 />
               ))}
+            </div>
+
+            <!-- Load More Button -->
+            <div class="load-more-section" id="loadMoreSection" style={sortedAccommodations.length <= 24 ? "display: none;" : ""}>
+              <button class="load-more-btn" id="loadMoreBtn">
+                <span class="load-more-text">Load More Properties</span>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </button>
+              <div class="load-more-info">
+                Showing <span id="showingCount">24</span> of <span id="totalCount">{sortedAccommodations.length}</span> properties
+              </div>
             </div>
 
             <!-- Empty State -->
@@ -368,6 +383,62 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
       background: #c41825;
     }
 
+    /* Load More Section */
+    .load-more-section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+      margin-top: 48px;
+      padding-top: 32px;
+      border-top: 2px solid #e5e7eb;
+    }
+
+    .load-more-btn {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 40px;
+      background: linear-gradient(135deg, #003B95 0%, #0052CC 100%);
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 8px rgba(0, 59, 149, 0.2);
+    }
+
+    .load-more-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(0, 59, 149, 0.3);
+    }
+
+    .load-more-btn:active {
+      transform: translateY(0);
+    }
+
+    .load-more-btn svg {
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .load-more-btn:hover svg {
+      transform: translateY(3px);
+    }
+
+    .load-more-info {
+      font-size: 15px;
+      color: #666;
+      font-weight: 500;
+    }
+
+    .load-more-info span {
+      font-weight: 700;
+      color: #003B95;
+    }
+
     /* Mobile Responsive */
     @media (max-width: 968px) {
       .page-header h1 {
@@ -434,8 +505,74 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
 
       if (!grid) return;
 
+      // Load More functionality
+      const loadMoreBtn = document.getElementById('loadMoreBtn') as HTMLButtonElement;
+      const loadMoreSection = document.getElementById('loadMoreSection') as HTMLElement;
+      const showingCountEl = document.getElementById('showingCount') as HTMLElement;
+      const totalCountEl = document.getElementById('totalCount') as HTMLElement;
+
+      let currentlyShowing = 24;
+      const LOAD_MORE_INCREMENT = 24;
+
       // Get all cards
       const getAllCards = () => Array.from(grid.children) as HTMLElement[];
+
+      // Update load more button visibility and counts
+      const updateLoadMoreButton = () => {
+        const allCards = getAllCards();
+
+        // Count cards that are visible (not filtered out) and currently displayed
+        const visibleCards = allCards.filter(card =>
+          card.style.display !== 'none'
+        );
+
+        const totalVisible = allCards.length;
+        const currentlyDisplayed = visibleCards.length;
+
+        if (showingCountEl) showingCountEl.textContent = currentlyDisplayed.toString();
+        if (totalCountEl) totalCountEl.textContent = totalVisible.toString();
+
+        // Hide load more button if all cards are showing
+        if (loadMoreSection) {
+          loadMoreSection.style.display = currentlyDisplayed >= totalVisible ? 'none' : 'flex';
+        }
+      };
+
+      // Load more button handler
+      if (loadMoreBtn) {
+        loadMoreBtn.addEventListener('click', () => {
+          const allCards = getAllCards();
+          let loadedCount = 0;
+
+          // Show next batch of hidden cards
+          allCards.forEach((card) => {
+            if (card.style.display === 'none' && loadedCount < LOAD_MORE_INCREMENT) {
+              const isLoadMoreHidden = card.getAttribute('data-load-more-hidden') === 'true';
+              if (isLoadMoreHidden) {
+                card.style.display = '';
+                card.setAttribute('data-load-more-hidden', 'false');
+                loadedCount++;
+              }
+            }
+          });
+
+          currentlyShowing += loadedCount;
+          updateLoadMoreButton();
+
+          // Smooth scroll to first newly loaded card
+          if (loadedCount > 0) {
+            const firstNewCard = allCards.find((card) =>
+              card.style.display !== 'none' &&
+              parseInt(card.getAttribute('data-index') || '0') === currentlyShowing - loadedCount
+            );
+            if (firstNewCard) {
+              setTimeout(() => {
+                firstNewCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              }, 100);
+            }
+          }
+        });
+      }
 
       // Update results count
       const updateResultsCount = () => {
@@ -569,6 +706,7 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
 
         updateResultsCount();
         updateItemCounts();
+        updateLoadMoreButton();
       };
 
       // Search functionality
@@ -726,6 +864,7 @@ const pageDescription = `Discover ${sortedAccommodations.length}+ accommodations
 
       // Initial update
       updateItemCounts();
+      updateLoadMoreButton();
     });
   </script>
 

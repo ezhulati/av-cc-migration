@@ -12,6 +12,8 @@ interface Props {
   language?: string;
   price?: string;
   priceFrom?: number;
+  index?: number;
+  initiallyHidden?: boolean;
 }
 
 const {
@@ -26,7 +28,9 @@ const {
   description,
   language = 'en',
   price,
-  priceFrom
+  priceFrom,
+  index,
+  initiallyHidden = false
 } = Astro.props;
 
 // Generate URL based on language
@@ -53,6 +57,9 @@ const filterData = JSON.stringify({
 <article
   class="accommodation-card"
   data-accommodation={filterData}
+  data-index={index}
+  data-load-more-hidden={initiallyHidden ? "true" : "false"}
+  style={initiallyHidden ? "display: none;" : ""}
 >
   <a href={url} class="card-link">
     <!-- Image -->
