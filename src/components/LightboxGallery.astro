@@ -218,7 +218,7 @@ const hasMoreImages = images.length > initialImageCount;
   // Handle "Load More" button
   function initLoadMore(galleryElement: Element) {
     const loadMoreBtn = galleryElement.querySelector('.load-more-btn');
-    const loadMoreContainer = galleryElement.querySelector('.load-more-container');
+    const loadMoreContainer = galleryElement.querySelector('.load-more-container') as HTMLElement;
     const hiddenItems = galleryElement.querySelectorAll('.gallery-item[data-hidden="true"]');
 
     if (loadMoreBtn && loadMoreContainer) {
