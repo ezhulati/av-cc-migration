@@ -1,7 +1,7 @@
 ---
 title: "Lovely, Modern One Bedroom Apartment Near Center and New Bazaar"
 description: "Discover the charm of Tirana with a stay at the Lovely, Modern One Bedroom Apartment, ideally located within a stone's throw of Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/lovely-modern-one-bedroom-apartment-near-center-and-new-bazaar-525446068.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525446068.jpg?k=3eb942f4a8a9f1da23e55a8a67b54f995d557657beb0b1523089ecea1114ac29&o=&hp=1"
 language: en
 slug: lovely-modern-one-bedroom-apartment-near-center-and-new-bazaar
 address: "Rruga e Dibrës, Complexi Halili, Sixth Floor, #25, 1001 Tirana, Albania"

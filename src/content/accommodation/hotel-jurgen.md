@@ -1,7 +1,7 @@
 ---
 title: "Hotel Jurgen"
 description: "Hotel Jurgen emerges as a beacon of comfort and convenience in the heart of Lezhë, a mere 37 km away from the historic Rozafa Castle Shkodra."
-featuredImage: "/images/accommodation/hotel-jurgen-382432993.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382432993.jpg?k=04a8ad513e316035530af6ecf23fd6945d795343fa32360875229b65fea597d4&o=&hp=1"
 language: en
 slug: hotel-jurgen
 address: "Rruga Lezhë - Shëngjin Km 1 RSH 32 Lezhe, 4501 Lezhë, Albania"

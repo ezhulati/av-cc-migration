@@ -1,7 +1,7 @@
 ---
 title: "Golden Villa-Ksamil"
 description: "Golden Villa-Ksamil emerges as a serene retreat, offering a picturesque lake view and the convenience of being just a short stroll from the pristine Ksamil Beach."
-featuredImage: "/images/accommodation/golden-villa-ksamil-364083624.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364083624.jpg?k=8391bac194bf48b17c089b3266f8c5bfe3027d009595dc45883cbb33b402d575&o=&hp=1"
 language: en
 slug: golden-villa-ksamil
 address: "Road '' Baba Sherifi '' Ksamil 5, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rozafa Ferry & Accommodation"
 description: "Rozafa Ferry & Accommodation emerges as a serene oasis in Koman, offering guests a unique blend of comfort and adventure."
-featuredImage: "/images/accommodation/rozafa-ferry-accommodation-371147638.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371147638.jpg?k=e7cc6566bb98e93ec18a9936be3bc8d8865e55d663963961e57770a6fbeaffed&o=&hp=1"
 language: en
 slug: rozafa-ferry-accommodation
 address: "Koman, Shkoder, Lake Koman Ferry, 4001 Koman, Albania"

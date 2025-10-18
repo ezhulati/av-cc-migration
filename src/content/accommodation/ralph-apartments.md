@@ -1,7 +1,7 @@
 ---
 title: "Ralph Apartments"
 description: "Ralph Apartments in Vlorë emerges as a prime choice for travelers seeking modern comfort close to the Adriatic Sea's shimmering shores."
-featuredImage: "/images/accommodation/ralph-apartments-451184985.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451184985.jpg?k=22952dd02d000cbd0897174a41b3452bb9ef099637fc6a0d6f22766353b72d75&o=&hp=1"
 language: en
 slug: ralph-apartments
 address: "Rruga Shyqyri Ali Merka BLDG Andi 4 / FL 7th, 9404 Vlorë, Albania"

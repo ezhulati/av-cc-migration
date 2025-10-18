@@ -1,7 +1,7 @@
 ---
 title: "AMONG THE TREES"
 description: "AMONG THE TREES stands out as a serene retreat, offering breathtaking mountain views from its prime location, just a stone's throw away from the Port of Bar."
-featuredImage: "/images/accommodation/among-the-trees-462520259.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462520259.jpg?k=31f6e25e0dd2b6487086fa64dd4ff34bb5818ec34ab07d462e508a4884eb1383&o=&hp=1"
 language: en
 slug: among-the-trees
 address: "Rruga e Shestaneve, 4001 Shirokë, Albania"

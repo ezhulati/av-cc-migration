@@ -1,7 +1,7 @@
 ---
 title: "Cosy, private apartment in a family villa"
 description: "Cosy, Private Apartment in a Family Villa emerges as a serene retreat for travelers seeking the comfort of home with the convenience of a prime Tirana location."
-featuredImage: "/images/accommodation/cosy-private-apartment-in-a-family-villa-490815894.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490815894.jpg?k=dffadf888ff673a770a9146d12278054952aa5a8580e8b33fe89dd159494194d&o=&hp=1"
 language: en
 slug: cosy-private-apartment-in-a-family-villa
 address: "Rruga Demir Zyko, 1005 Tirana, Albania"

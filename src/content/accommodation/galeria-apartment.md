@@ -1,7 +1,7 @@
 ---
 title: "Galeria Apartment"
 description: "Galeria Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/galeria-apartment-101110036.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/101110036.jpg?k=d1569c1b5f5d4dc7e8858e16419692fd3875dfb13e88c47666ea59401e9daf0a&o=&hp=1"
 language: en
 slug: galeria-apartment
 address: "Rruga e Barrikadave Pallati Galeria e Tiranes, 0001 Tirana, Albania"

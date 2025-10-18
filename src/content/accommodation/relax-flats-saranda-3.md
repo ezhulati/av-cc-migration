@@ -1,7 +1,7 @@
 ---
 title: "Relax Flats Saranda 3"
 description: "Discover the charm of Sarandë with a stay at Relax Flats Saranda 3, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/relax-flats-saranda-3-490721824.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490721824.jpg?k=ec3f51dbf58fa6fde31206c5e80579e2de884f0ae0cbb08699a2d06084e68e9f&o=&hp=1"
 language: en
 slug: relax-flats-saranda-3
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

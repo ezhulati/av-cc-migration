@@ -1,7 +1,7 @@
 ---
 title: "Bindi Studio Apartment"
 description: "Bindi Studio Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/bindi-studio-apartment-483079612.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483079612.jpg?k=471f4b5a0f9bd887fa100260522d5366b03a9e2d42a7707cc90caeea056d8851&o=&hp=1"
 language: en
 slug: bindi-studio-apartment
 address: "Plazhi Shen Pjeter, Gjiri i Lalzit 3 floor, Durrës, Albania"

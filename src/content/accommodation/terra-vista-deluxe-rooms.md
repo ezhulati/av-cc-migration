@@ -1,7 +1,7 @@
 ---
 title: "Terra'Vista Deluxe Rooms"
 description: "Terra'Vista Deluxe Rooms emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city, just a stone's throw away from Skanderbeg Square."
-featuredImage: "/images/accommodation/terra-vista-deluxe-rooms-504558455.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504558455.jpg?k=1ba87a0f4b368b98b86398fdb28a643fff378a7b0604d6dc842ce9927140b96b&o=&hp=1"
 language: en
 slug: terra-vista-deluxe-rooms
 address: "Rruga Him Kolli, 1001 Tirana, Albania"

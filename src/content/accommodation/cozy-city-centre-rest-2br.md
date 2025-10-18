@@ -1,7 +1,7 @@
 ---
 title: "Cozy City Centre Rest 2BR"
 description: "Cozy City Centre Rest 2BR emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cozy-city-centre-rest-2br-515872130.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515872130.jpg?k=01697731c70a18bca92fc38d479d5b6f4b6f7bd5c1b5916fae009eb27de9e050&o=&hp=1"
 language: en
 slug: cozy-city-centre-rest-2br
 address: "Rruga Abdulla Gjinali Pas shkolles Servete Maci, 1001 Tirana, Albania"

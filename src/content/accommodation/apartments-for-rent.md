@@ -1,7 +1,7 @@
 ---
 title: "Apartments for rent"
 description: "Discover the charm of Sarandë with a stay at the conveniently located Apartments for Rent, a mere stone's throw away from the pristine Saranda City Beach and the bustling Sarande Main Beach."
-featuredImage: "/images/accommodation/apartments-for-rent-462574867.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462574867.jpg?k=2c7a22203d70bc2d14a84db20ba8ab9615357de4680c55f6a48c5b3975bc41e2&o=&hp=1"
 language: en
 slug: apartments-for-rent
 address: "Saranda/ Street Gjergj Araniti, 9701 Sarandë, Albania"

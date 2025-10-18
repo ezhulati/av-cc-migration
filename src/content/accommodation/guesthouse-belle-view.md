@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Belle View"
 description: "Guesthouse Belle View in Berat stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/guesthouse-belle-view-266461468.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266461468.jpg?k=04640aadb2b424a879ab2e32d3b8841be4b7b34b2c4ab1085bbd89dd60e0ea32&o=&hp=1"
 language: en
 slug: guesthouse-belle-view
 address: "Rruga Nikolla Buhuri, 5001 Berat, Albania"

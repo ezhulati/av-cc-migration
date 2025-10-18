@@ -1,7 +1,7 @@
 ---
 title: "Sunshine Shengjin"
 description: "Sunshine Shengjin emerges as a prime beachfront gem in Shëngjin, boasting direct access to both Ylberi and Shëngjin Beaches."
-featuredImage: "/images/accommodation/sunshine-shengjin-426391097.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426391097.jpg?k=f7419728ef27c80e71920f8eb1b9a3fd3df743c33706704c776eac9252a7f976&o=&hp=1"
 language: en
 slug: sunshine-shengjin
 address: "Rruga Shëngjin - Kune 705, 4503 Shëngjin, Albania"

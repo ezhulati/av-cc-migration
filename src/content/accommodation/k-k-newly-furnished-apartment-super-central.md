@@ -1,7 +1,7 @@
 ---
 title: "K&K - Newly Furnished Apartment (Super Central)"
 description: "K&K - Newly Furnished Apartment (Super Central) emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/k-k-newly-furnished-apartment-super-central-505584378.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505584378.jpg?k=85b83b5a9cecebb27b918c6f1262550b1d97783505e3e01c90027120556617d0&o=&hp=1"
 language: en
 slug: k-k-newly-furnished-apartment-super-central
 address: "Rruga Aleksander Goga, 2001 Durrës, Albania"

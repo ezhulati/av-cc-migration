@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment at Myslym Shyri"
 description: "Discover the epitome of urban elegance at Luxury Apartment at Myslym Shyri, a premier destination for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-apartment-at-myslym-shyri-482495564.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482495564.jpg?k=49878224a4f819466ce41c5813e66d2f16383f80bef60676edefc8688fbc4bae&o=&hp=1"
 language: en
 slug: luxury-apartment-at-myslym-shyri
 address: "Rruga Islam Alla, 1001 Tirana, Albania"

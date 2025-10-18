@@ -1,7 +1,7 @@
 ---
 title: "SleepIn Shkoder"
 description: "SleepIn Shkoder emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/sleepin-shkoder-481303679.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481303679.jpg?k=af9f18080d97d65a28c73d23c1105bd53e73882afffe889add6fbc31bd17e0dc&o=&hp=1"
 language: en
 slug: sleepin-shkoder
 address: "Rruga Isuf Sokoli, 4001 Shkodër, Albania"

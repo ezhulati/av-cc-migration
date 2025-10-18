@@ -1,7 +1,7 @@
 ---
 title: "Hotel Zeneli Vlore"
 description: "Hotel Zeneli Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/hotel-zeneli-vlore-467276243.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467276243.jpg?k=cf7420773cd48e5360e014413ec92f20bd40cca88934925a1e61b9324da8e9bb&o=&hp=1"
 language: en
 slug: hotel-zeneli-vlore
 address: "Rruga Haziz Xhyherri, 1001 Vlorë, Albania"

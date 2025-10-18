@@ -1,7 +1,7 @@
 ---
 title: "Leo’s apartment"
 description: "Leo's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Shkodër, Shkoder County."
-featuredImage: "/images/accommodation/leo-s-apartment-472509607.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472509607.jpg?k=c1c2224d52affda7deb632e9026fd23d7ae45238385d2b6befdd424453f0e07e&o=&hp=1"
 language: en
 slug: leo-s-apartment
 address: "Rruga Doktor Ali Spahia, 4001 Shkodër, Albania"

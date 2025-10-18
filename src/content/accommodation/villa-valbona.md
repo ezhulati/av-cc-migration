@@ -1,7 +1,7 @@
 ---
 title: "Villa Valbona"
 description: "Villa Valbona stands out as a prime choice for travelers seeking comfortable lodging in Kuçovë."
-featuredImage: "/images/accommodation/villa-valbona-503819181.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503819181.jpg?k=f3e94122251bef438fef9f03c9d70f5136dc513fb5a613081fcd3f7b4d91e17d&o=&hp=1"
 language: en
 slug: villa-valbona
 address: "Rruga Perondia, Kuçovë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "One Room"
 description: "One Room emerges as a distinguished choice for travelers seeking comfort and convenience in Shkodër, located just 47 km from the Port of Bar."
-featuredImage: "/images/accommodation/one-room-498408361.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498408361.jpg?k=410af3700e020f949699fbb12dc58d91a80b9aa1f210701c5a6db27d527fc05b&o=&hp=1"
 language: en
 slug: one-room
 address: "1 Bulevardi Zogu I, 4001 Shkodër, Albania"

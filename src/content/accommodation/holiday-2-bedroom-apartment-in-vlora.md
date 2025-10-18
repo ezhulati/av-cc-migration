@@ -1,7 +1,7 @@
 ---
 title: "Holiday 2-Bedroom Apartment in Vlora"
 description: "Holiday 2-Bedroom Apartment in Vlora offers a serene retreat for travelers seeking the perfect blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/holiday-2-bedroom-apartment-in-vlora-319005326.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319005326.jpg?k=0b59ffde52045cb80007a9dd30c093347d85f441dfce8819090cdc35829b6504&o=&hp=1"
 language: en
 slug: holiday-2-bedroom-apartment-in-vlora
 address: "9402 Vlorë, Albania"

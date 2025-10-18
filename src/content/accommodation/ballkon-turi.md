@@ -1,7 +1,7 @@
 ---
 title: "Ballkon Turi"
 description: "Ballkon Turi emerges as a serene retreat in Tirana, boasting a picturesque garden and breathtaking mountain views."
-featuredImage: "/images/accommodation/ballkon-turi-423347306.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423347306.jpg?k=c1f6b7c347814cd716cd2b029276df0b3a7f77bf82f6fb5b34e641b7c8d56449&o=&hp=1"
 language: en
 slug: ballkon-turi
 address: "83F9+2Q2, Shengjin I Madh, Albania, 1043 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Elen Apartment"
 description: "Elen Apartment emerges as a prime choice for travelers seeking a serene getaway close to the pristine shores of Orikum."
-featuredImage: "/images/accommodation/elen-apartment-201153018.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201153018.jpg?k=1efe722f22cfbe38ba5ff82682f26064dbc1edc1d7f4c2376f695f00c9b9855e&o=&hp=1"
 language: en
 slug: elen-apartment
 address: "SH8 Rruga Radhime Orikum, building 3, 9426 Orikum, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nov’s Apartment"
 description: "Nov's Apartment in Gjirokastër stands out as a prime choice for travelers seeking comfort and convenience, just a short 44 km drive from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/nov-s-apartment-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: nov-s-apartment
 address: "Bulevardi 18 Shtatori Apartment ,second floor, 6001 Gjirokastër, Albania"

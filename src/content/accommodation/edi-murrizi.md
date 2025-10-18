@@ -1,7 +1,7 @@
 ---
 title: "Edi Murrizi"
 description: "Edi Murrizi emerges as a prime choice for travelers seeking spacious, air-conditioned accommodations just steps away from the serene Golem Beach and a short stroll from the picturesque Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/edi-murrizi-513549118.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513549118.jpg?k=9f804f454f7bd8abd5a8270da7ba33bf699bf1a283ac176534691cb7604f182a&o=&hp=1"
 language: en
 slug: edi-murrizi
 address: "Rruga Plazhit, 2000 Golem, Albania"

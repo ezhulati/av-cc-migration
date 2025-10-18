@@ -1,7 +1,7 @@
 ---
 title: "Appartamento in Residenza esclusiva"
 description: "Appartamento in Residenza Esclusiva emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/appartamento-in-residenza-esclusiva-482024201.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482024201.jpg?k=57700909a8b7dbb9818e08fe33f9ed574fb8a0d9aaab5386176fbff799bbd681&o=&hp=1"
 language: en
 slug: appartamento-in-residenza-esclusiva
 address: "1 Rruga Kodra e Diellit, 1000 Tirana, Albania"

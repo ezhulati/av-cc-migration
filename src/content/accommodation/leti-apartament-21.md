@@ -1,7 +1,7 @@
 ---
 title: "LETI APARTAMENT 21"
 description: "LETI APARTAMENT 21 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/leti-apartament-21-AOh14GjdXTCl.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GjdXTClIDVLZnudxqwIsRkJxdWUqUl81mlTjNk7=s96-c64"
 language: en
 slug: leti-apartament-21
 address: "Rruga e Kavajës, Tirana, Albania"

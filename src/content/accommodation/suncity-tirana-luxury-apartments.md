@@ -1,7 +1,7 @@
 ---
 title: "Suncity Tirana Luxury Apartments"
 description: "Suncity Tirana Luxury Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience in Selita e Vogël."
-featuredImage: "/images/accommodation/suncity-tirana-luxury-apartments-509963816.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509963816.jpg?k=02d582595b857e74878dc0bc7cec705660e4f2a457df8cfb1a447d75d8f5fb80&o=&hp=1"
 language: en
 slug: suncity-tirana-luxury-apartments
 address: "Rruga Kodra e Diellit, 1060 Selita e Vogël, Albania"

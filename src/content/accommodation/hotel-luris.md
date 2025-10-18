@@ -1,7 +1,7 @@
 ---
 title: "Hotel Luris"
 description: "Hotel Luris emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned just steps from the captivating Shkëmbi i Kavajës Beach in Golem."
-featuredImage: "/images/accommodation/hotel-luris-466350058.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466350058.jpg?k=2c95db38eccb6d9d13fc35709cb307f00e3bc598bd94b9d2540ab5e992c4be23&o=&hp=1"
 language: en
 slug: hotel-luris
 address: "Rruga Liria 1 flor Hotel luris, 2504 Golem, Albania"

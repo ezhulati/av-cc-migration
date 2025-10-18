@@ -1,7 +1,7 @@
 ---
 title: "Alvi"
 description: "Discover the charm of Vlorë with a stay at Alvi, a prime accommodation choice located just a short distance from the city's stunning beaches."
-featuredImage: "/images/accommodation/alvi-488239218.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488239218.jpg?k=46b0ee4d8ecac9c3a3d96809d171b92efe430a801157886299c7a6619b365247&o=&hp=1"
 language: en
 slug: alvi
 address: "Rruga hajrro cakerri, 9401 Vlorë, Albania"

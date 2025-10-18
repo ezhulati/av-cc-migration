@@ -1,7 +1,7 @@
 ---
 title: "Penthouse apartment with terrace on the sea"
 description: "Penthouse Apartment with Terrace on the Sea stands as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/penthouse-apartment-with-terrace-on-the-sea-483050235.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483050235.jpg?k=ed8f3ffd98fb8a5805f032815d6d16d93dd58bdb5bb33ba3c72c9b290053512c&o=&hp=1"
 language: en
 slug: penthouse-apartment-with-terrace-on-the-sea
 address: "Rruga, 1001 Durrës, Albania"

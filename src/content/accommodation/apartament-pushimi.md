@@ -1,7 +1,7 @@
 ---
 title: "Apartament pushimi"
 description: "Discover the charm of Pogradec with a stay at Apartament Pushimi, a serene holiday home that promises a blend of comfort and convenience."
-featuredImage: "/images/accommodation/apartament-pushimi-515790332.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515790332.jpg?k=d61155ba13e7faa46ec9765995124c5c54def9d7f50a8456e650de667bc9f713&o=&hp=1"
 language: en
 slug: apartament-pushimi
 address: "Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Afrimi Relax Apartments"
 description: "Afrimi Relax Apartments emerges as a prime choice for travelers seeking a serene getaway in Sarandë, boasting stunning sea views and lush garden surroundings."
-featuredImage: "/images/accommodation/afrimi-relax-apartments-130929668.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130929668.jpg?k=fa49e705ee73e2b76e8ccdfad3509153f930d18244494cd4ab35e4f5605ba49e&o=&hp=1"
 language: en
 slug: afrimi-relax-apartments
 address: "Rruga Sarande-Butrinti SH81, 9701 Sarandë, Albania"

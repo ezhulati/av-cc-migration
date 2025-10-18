@@ -1,7 +1,7 @@
 ---
 title: "Mairymairy"
 description: "Mairymairy stands as a serene retreat in Himare, a mere kilometer from the pristine shores of Potam Beach."
-featuredImage: "/images/accommodation/mairymairy-479640321.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479640321.jpg?k=427c68dafe90f7517d0d5bf64ce82dc0e41f7e247cdcf1b973589d2ec63f97c3&o=&hp=1"
 language: en
 slug: mairymairy
 address: "Ruga Milto Kallushi, Himare, Albania"

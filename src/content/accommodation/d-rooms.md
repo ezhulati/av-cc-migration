@@ -1,7 +1,7 @@
 ---
 title: "D Rooms"
 description: "D Rooms emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/d-rooms-500976427.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500976427.jpg?k=524ede3f6d0945f9bcee43535a2c9ca3abe7e744b94ae89bd052c67ae42e2380&o=&hp=1"
 language: en
 slug: d-rooms
 address: "Rruga Brigada 8, Building no.28, Tirana, Albania"

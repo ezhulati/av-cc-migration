@@ -1,7 +1,7 @@
 ---
 title: "Comfort Inn IV"
 description: "Comfort Inn IV stands out as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/comfort-inn-iv-451271142.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451271142.jpg?k=670543837a85c354db92081c53f61e6de0212ca686360307691590cb6cd07c35&o=&hp=1"
 language: en
 slug: comfort-inn-iv
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

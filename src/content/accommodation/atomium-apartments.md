@@ -1,7 +1,7 @@
 ---
 title: "Atomium apartments"
 description: "Atomium Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/atomium-apartments-330800323.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330800323.jpg?k=9b8056124502e3e4af8ae03662116c2c6d4e3819bc7e80e989f3d3b660153609&o=&hp=1"
 language: en
 slug: atomium-apartments
 address: "20 Rruga Myslym Shyri, 1011 Tirana, Albania"

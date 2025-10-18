@@ -1,7 +1,7 @@
 ---
 title: "Guest house Memushi"
 description: "Guest House Memushi emerges as a charming retreat in the historic heart of Gjirokastër, offering a serene escape just 45 km away from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/guest-house-memushi-130116785.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130116785.jpg?k=f38970a8b19fecca5d58b0ec05c84ec853582c5889fc56ad500628636c0bd225&o=&hp=1"
 language: en
 slug: guest-house-memushi
 address: "Rruga Pertef Kokona, 6000 Gjirokastër, Albania"

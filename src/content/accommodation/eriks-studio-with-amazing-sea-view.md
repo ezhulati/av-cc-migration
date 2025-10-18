@@ -1,7 +1,7 @@
 ---
 title: "Eriks studio with amazing sea view"
 description: "Eriks Studio with Amazing Sea View stands as a beacon of comfort and convenience on the beachfront of Sarandë, offering guests an unparalleled experience of relaxation and leisure."
-featuredImage: "/images/accommodation/eriks-studio-with-amazing-sea-view-475171934.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475171934.jpg?k=3f5f8b036dd707698a33859cd34586c787dd4bd934f6d66dfbbe38139eeface3&o=&hp=1"
 language: en
 slug: eriks-studio-with-amazing-sea-view
 address: "Rruga Mitat Hoxha, Lagjja 4, 9700 Sarandë, Albania"

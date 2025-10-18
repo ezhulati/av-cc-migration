@@ -1,7 +1,7 @@
 ---
 title: "La Casa di Nunzio"
 description: "La Casa di Nunzio emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/la-casa-di-nunzio-462877801.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462877801.jpg?k=4b77c8a15fb23ca8698a3de0018777685b584f54f9a4514c29264a9167d0693f&o=&hp=1"
 language: en
 slug: la-casa-di-nunzio
 address: "Ruga transbalkanika , valona , Albania Palazzo marrone 8 piano, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "@Likehome"
 description: "@Likehome emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/likehome-392328829.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392328829.jpg?k=c32b26e5c8b62b87cd604f007eb9ed3acd82cc1bc2b9f9efefe2eb40e05dfaf9&o=&hp=1"
 language: en
 slug: likehome
 address: "Rruga Gjon Buzuku, 1057 Tirana, Albania"

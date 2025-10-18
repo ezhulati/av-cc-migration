@@ -1,7 +1,7 @@
 ---
 title: "Apartments Hotel AL&DE"
 description: "Discover the charm of Velipojë with a stay at Apartments Hotel AL&DE, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/apartments-hotel-al-de-152951055.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152951055.jpg?k=d418ce0480cca4bf3ba0340466b46f462f37f600f2fd81b661ea6321fdb827c3&o=&hp=1"
 language: en
 slug: apartments-hotel-al-de
 address: "Rruga Shkoder - Velipoje, N. 15, 4020 Velipojë, Albania"

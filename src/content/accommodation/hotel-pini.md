@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pini"
 description: "Hotel Pini stands as a beacon of comfort and convenience in the heart of Sarandë, welcoming both you and your furry friends with open arms."
-featuredImage: "/images/accommodation/hotel-pini-71411555.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71411555.jpg?k=e190d96c2a68561c927bace308cc82cb43a29a13437a443873512e074fa9f318&o=&hp=1"
 language: en
 slug: hotel-pini
 address: "Rruga Jonianet, 9702 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Essy's Apartment"
 description: "Essy's Apartment in Korçë emerges as a serene retreat, perfectly positioned 44 km from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/essy-s-apartment-332755687.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332755687.jpg?k=00fc6023b344ab1a5aa0ade75d88136b0485a8556b489ff89f9261296e1cf203&o=&hp=1"
 language: en
 slug: essy-s-apartment
 address: "Rruga Viktor Eftimiu, 7001 Korçë, Albania"

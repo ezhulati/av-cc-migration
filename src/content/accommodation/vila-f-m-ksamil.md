@@ -1,7 +1,7 @@
 ---
 title: "Vila F&M ksamil"
 description: "Vila F&M Ksamil emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/vila-f-m-ksamil-383400747.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383400747.jpg?k=630c647da284918e62dc009f88352658459a5c4a1b066136c0bba81996dd1c5a&o=&hp=1"
 language: en
 slug: vila-f-m-ksamil
 address: "Rruga butrinti ksamil sarande Butrinti 86, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest house Aferdita Beqiri"
 description: "Guest House Aferdita Beqiri emerges as a charming choice for travelers seeking a serene stay in Berat."
-featuredImage: "/images/accommodation/guest-house-aferdita-beqiri-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: guest-house-aferdita-beqiri
 address: "Dushnik, Berat, 5001 Berat, Albania"

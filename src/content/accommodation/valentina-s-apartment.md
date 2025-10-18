@@ -1,7 +1,7 @@
 ---
 title: "Valentina's Apartment"
 description: "Valentina's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/valentina-s-apartment-360626074.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360626074.jpg?k=3eeeeb872b2f2a96c748b061098730fadebccfcac37de12212b6c4cd15a31705&o=&hp=1"
 language: en
 slug: valentina-s-apartment
 address: "Rruga Ali Demi, 1001 Tirana, Albania"

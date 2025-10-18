@@ -1,7 +1,7 @@
 ---
 title: "Lovely Loft 1-Bedroom in the heart of Tirana"
 description: "Discover the charm of Tirana with a stay at Lovely Loft 1-Bedroom, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/lovely-loft-1-bedroom-in-the-heart-of-tirana-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/557207194446756/picture?type=square&height=64&width=64"
 language: en
 slug: lovely-loft-1-bedroom-in-the-heart-of-tirana
 address: "Bulevardi Bajram Curri, 1001 Tirana, Albania"

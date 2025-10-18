@@ -1,7 +1,7 @@
 ---
 title: "Family Apartment by Vlora Office"
 description: "Family Apartment by Vlora Office emerges as a freshly updated gem in the heart of Vlorë, a stone's throw away from the pristine shores of Vlore Beach, Ri Beach, and Vjetër Beach."
-featuredImage: "/images/accommodation/family-apartment-by-vlora-office-501409593.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501409593.jpg?k=8edbe45be7dfce8b68710555f9705d73f400d3a7c79a835d80d4f5c85de5fa5e&o=&hp=1"
 language: en
 slug: family-apartment-by-vlora-office
 address: "Rruga Shaban Demiraj Apartment nr. 33, 5th floor, 9404 Vlorë, Albania"

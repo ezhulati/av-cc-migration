@@ -1,7 +1,7 @@
 ---
 title: "Hotel S&A"
 description: "Hotel S&A stands out as a prime choice for travelers seeking comfort and convenience in Otllak."
-featuredImage: "/images/accommodation/hotel-s-a-513116604.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513116604.jpg?k=30e95d9488576cd33ddfeabecca508784dae08709682bcd030686016fa0739ef&o=&hp=1"
 language: en
 slug: hotel-s-a
 address: "28 nentori berat, 5010 Otllak, Albania"

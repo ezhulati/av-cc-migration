@@ -1,7 +1,7 @@
 ---
 title: "Marina Apartment Vlore"
 description: "Marina Apartment Vlore stands out as a prime choice for travelers seeking a blend of comfort and convenience, coupled with stunning sea views."
-featuredImage: "/images/accommodation/marina-apartment-vlore-315847040.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315847040.jpg?k=85737de65247ba773077500ee0f97c335979ba1aa44b4dbef345ce50b0b3bae8&o=&hp=1"
 language: en
 slug: marina-apartment-vlore
 address: "Rezidenca Marina Rruga Haziz Xhyherri, 9402 Vlorë, Albania"

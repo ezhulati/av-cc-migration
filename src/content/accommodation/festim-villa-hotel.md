@@ -1,7 +1,7 @@
 ---
 title: "Festim Villa Hotel"
 description: "Festim Villa Hotel emerges as a serene oasis in Vlorë, situated a mere 6."
-featuredImage: "/images/accommodation/festim-villa-hotel-475435475.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475435475.jpg?k=3bd6505586085ef32589fbe016df5c3333e4817735c57273d92f608f27e3988a&o=&hp=1"
 language: en
 slug: festim-villa-hotel
 address: "Vlorë Bypass, 9400 Vlorë, Albania"

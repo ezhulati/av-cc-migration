@@ -1,7 +1,7 @@
 ---
 title: "Hotel Peroni"
 description: "Hotel Peroni stands as a distinguished four-star haven in Korçë, a mere stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/hotel-peroni-303425747.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303425747.jpg?k=c5e19e54341c217f01fb6d75f4715e4bdcf8826fd3925049f29dae17ed03d04d&o=&hp=1"
 language: en
 slug: hotel-peroni
 address: "Rruga Petraq Shamo, 7001 Korçë, Albania"

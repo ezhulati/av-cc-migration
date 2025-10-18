@@ -1,7 +1,7 @@
 ---
 title: "Cosy guest house"
 description: "Cosy Guest House emerges as a serene retreat in Sarandë, perfectly positioned just over two kilometers from both Saranda City Beach and Maestral Beach."
-featuredImage: "/images/accommodation/cosy-guest-house-475527297.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475527297.jpg?k=2e3e03c2b6de278a0856d2d38a5b76f95b79cecc5443f8439697ce842f14455f&o=&hp=1"
 language: en
 slug: cosy-guest-house
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

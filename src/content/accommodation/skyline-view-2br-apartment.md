@@ -1,7 +1,7 @@
 ---
 title: "SkyLine View 2BR Apartment"
 description: "SkyLine View 2BR Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/skyline-view-2br-apartment-438106552.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438106552.jpg?k=d323656f6cd65f203303d072dfe44a4531856f1d31188ab5e41fab970dcf0316&o=&hp=1"
 language: en
 slug: skyline-view-2br-apartment
 address: "Rruga Prokop Myzeqari, Tirana, Albania"

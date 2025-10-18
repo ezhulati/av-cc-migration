@@ -1,7 +1,7 @@
 ---
 title: "Unique Traditional House, hosted by J&G"
 description: "Discover the charm of Tirana with a stay at Unique Traditional House, a serene haven offering a blend of comfort and convenience."
-featuredImage: "/images/accommodation/unique-traditional-house-hosted-by-j-g-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: unique-traditional-house-hosted-by-j-g
 address: "Rruga Babë Rexha 1, 7, 1, 1023 Tirana, Albania"

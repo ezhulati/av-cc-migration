@@ -1,7 +1,7 @@
 ---
 title: "Kris's apartment"
 description: "Kris's Apartment in Lezhë emerges as a serene retreat, located strategically 37 km away from the historic Rozafa Castle Shkodra and a mere 39 km from the tranquil Lake Skadar."
-featuredImage: "/images/accommodation/kris-s-apartment-336892141.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336892141.jpg?k=97fa4ccf853b2a5a5fc979d000d60ea72cbbb03574097bda988b466506b9baaf&o=&hp=1"
 language: en
 slug: kris-s-apartment
 address: "Lezhë - Lezhe, 4301 Lezhë, Albania"

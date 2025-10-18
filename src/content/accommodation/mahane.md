@@ -1,7 +1,7 @@
 ---
 title: "Mahane"
 description: "Mahane emerges as a serene oasis, situated a mere 40 km from the bustling heart of Tirana and a stone's throw away from the pristine shores of its private beach area."
-featuredImage: "/images/accommodation/mahane-522391709.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522391709.jpg?k=ae7fe4579b8a6a244938a755bae387f5b331e65a47a90c2bdc219c8513ac0764&o=&hp=1"
 language: en
 slug: mahane
 address: "Hamallaj-Perlat, 1057 Tirana, Albania"

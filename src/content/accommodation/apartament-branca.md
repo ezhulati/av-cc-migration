@@ -1,7 +1,7 @@
 ---
 title: "Apartament Branca"
 description: "Apartament Branca, located in the vibrant heart of Sarandë, offers a refreshing retreat just a stone's throw away from the pristine Maestral Beach and a short stroll from the charming La Petite Beach."
-featuredImage: "/images/accommodation/apartament-branca-483249709.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483249709.jpg?k=dd6bad4f0a6f52141d36664a3e8142d7df2452da0abb3681b065514c6dead31c&o=&hp=1"
 language: en
 slug: apartament-branca
 address: "Rruga Butrinti 2, 9701 Sarandë, Albania"

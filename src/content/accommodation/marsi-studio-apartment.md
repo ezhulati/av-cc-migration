@@ -1,7 +1,7 @@
 ---
 title: "Marsi Studio Apartment"
 description: "Marsi Studio Apartment offers a prime beachfront location in Durrës, just a stone's throw away from the serene Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."
-featuredImage: "/images/accommodation/marsi-studio-apartment-866dca38dcc3.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
 language: en
 slug: marsi-studio-apartment
 address: "Rruga Shkembi i Kavajes 3rd Floor, 2021 Durrës, Albania"

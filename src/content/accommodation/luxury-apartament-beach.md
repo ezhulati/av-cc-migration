@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartament Beach"
 description: "Luxury Apartment Beach stands as a prime beachfront gem in Durrës, merely a stone's throw away from the pristine Shkëmbi i Kavajës Beach and a short stroll from the inviting sands of Golem Beach."
-featuredImage: "/images/accommodation/luxury-apartament-beach-417216064.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417216064.jpg?k=5ca76fca1b5b9f07b345ad7fe861118a5d956a50efacfc862476fb0bd92c5d6e&o=&hp=1"
 language: en
 slug: luxury-apartament-beach
 address: "Rruga Shkembi i Kavajes, 1000 Durrës, Albania"

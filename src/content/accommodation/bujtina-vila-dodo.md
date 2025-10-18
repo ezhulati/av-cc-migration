@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Vila Dodo"
 description: "Bujtina Vila Dodo emerges as a serene retreat, offering breathtaking mountain views from its accommodations, complete with balconies for an immersive natural experience."
-featuredImage: "/images/accommodation/bujtina-vila-dodo-349377441.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349377441.jpg?k=e733ebd0f138de1256d2355c95d7749995f4e060e718d75201b50f5c9ea833de&o=&hp=1"
 language: en
 slug: bujtina-vila-dodo
 address: "Rruga Leskovik Erseke km 9.5, 7402 Leskovik, Albania"

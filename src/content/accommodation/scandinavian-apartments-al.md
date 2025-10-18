@@ -1,7 +1,7 @@
 ---
 title: "Scandinavian Apartments AL"
 description: "Scandinavian Apartments AL emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/scandinavian-apartments-al-492231983.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492231983.jpg?k=c089b1caed6dc9a11dd3ef787a1819d0f2b8d50041fce38db5b983e450ab7c03&o=&hp=1"
 language: en
 slug: scandinavian-apartments-al
 address: "Rruga Him Kolli Apartment 21, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Shengjergj shtepi pushimi"
 description: "Shengjergj Shtepi Pushimi emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/shengjergj-shtepi-pushimi-480623934.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480623934.jpg?k=fb8f0603054a2fa711d4778120dfbefe3beec92bbe25d2a44f00e36655689f2d&o=&hp=1"
 language: en
 slug: shengjergj-shtepi-pushimi
 address: "83HR+CPM, Road, Verri 1, 1001 Tirana, Albania"

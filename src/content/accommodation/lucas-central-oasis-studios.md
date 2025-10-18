@@ -1,7 +1,7 @@
 ---
 title: "Lucas Central Oasis Studios"
 description: "Lucas Central Oasis Studios emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lucas-central-oasis-studios-473815342.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473815342.jpg?k=dab52d48dd600504c9a5bdbdbb9041a5c35d3cc052476cad3e9e53191aa90b00&o=&hp=1"
 language: en
 slug: lucas-central-oasis-studios
 address: "Rruga Çamëria, 1001 Tirana, Albania"

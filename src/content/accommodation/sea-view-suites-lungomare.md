@@ -1,7 +1,7 @@
 ---
 title: "SEA VIEW SUITES Lungomare"
 description: "SEA VIEW SUITES Lungomare emerges as a premier choice for travelers seeking a blend of comfort and convenience along the picturesque coastline of Vlorë."
-featuredImage: "/images/accommodation/sea-view-suites-lungomare-448033943.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448033943.jpg?k=32b70b5dd47e6473f22483077e9726545cee96b4968ec1fffbf4dd1c5a90979b&o=&hp=1"
 language: en
 slug: sea-view-suites-lungomare
 address: "Rruga Murat Tërbaçi, 1039 Vlorë, Albania"

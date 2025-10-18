@@ -1,7 +1,7 @@
 ---
 title: "Costa Adriatica Apartments"
 description: "Costa Adriatica Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, merely a stone's throw away from the pristine Currila Beach."
-featuredImage: "/images/accommodation/costa-adriatica-apartments-364214213.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364214213.jpg?k=a4d122b3fc08c05bd3520a7d6ca4d1c81c70a2e524b388b5b899fbb0f2c5ceb9&o=&hp=1"
 language: en
 slug: costa-adriatica-apartments
 address: "Rruga Taulantia, 2001 Durrës, Albania"

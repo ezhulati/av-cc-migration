@@ -1,7 +1,7 @@
 ---
 title: "Lorenso Guest House"
 description: "Lorenso Guest House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/lorenso-guest-house-456545408.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456545408.jpg?k=ffbc781c46f8a884dfb48935d927f051e6ae95a58c39d5a45b18ec246c569150&o=&hp=1"
 language: en
 slug: lorenso-guest-house
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

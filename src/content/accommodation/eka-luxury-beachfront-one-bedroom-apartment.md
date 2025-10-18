@@ -1,7 +1,7 @@
 ---
 title: "Eka Luxury Beachfront One-Bedroom Apartment"
 description: "Eka Luxury Beachfront One-Bedroom Apartment stands as a prime choice for travelers seeking a serene getaway in Vlorë, with its prime location just a stone's throw away from Vjetër Beach and within close proximity to the city's notable landmarks."
-featuredImage: "/images/accommodation/eka-luxury-beachfront-one-bedroom-apartment-327074112.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327074112.jpg?k=46764db44942062e0bc6e6eb007961e8795a0ab0f88be581026058cd2f15d8b2&o=&hp=1"
 language: en
 slug: eka-luxury-beachfront-one-bedroom-apartment
 address: "Rr. Sazani, Vlorë, Albania"

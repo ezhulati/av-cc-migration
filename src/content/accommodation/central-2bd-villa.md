@@ -1,7 +1,7 @@
 ---
 title: "Central 2BD Villa"
 description: "Central 2BD Villa emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-2bd-villa-510787326.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510787326.jpg?k=c41a0a0e196ae92204995c2cf9f3bf2e7488197770cabd5b13581d7f5a874895&o=&hp=1"
 language: en
 slug: central-2bd-villa
 address: "3 Rruga Fadil Rada, 1001 Tirana, Albania"

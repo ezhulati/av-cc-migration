@@ -1,7 +1,7 @@
 ---
 title: "V&V Vacation Vlora"
 description: "V&V Vacation Vlora emerges as a prime choice for travelers seeking a serene getaway in Vlorë, conveniently located just 400 meters from Vjetër Beach and a short 1."
-featuredImage: "/images/accommodation/v-v-vacation-vlora-427171435.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427171435.jpg?k=42e7551d169f94cd569d4aa908af0859b77fa084d6b4b4aa722f284fa774e5dc&o=&hp=1"
 language: en
 slug: v-v-vacation-vlora
 address: "Rr. Sazani, 9404 Vlorë, Albania"

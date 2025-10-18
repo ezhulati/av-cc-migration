@@ -1,7 +1,7 @@
 ---
 title: "Paja Guesthouse - Camping"
 description: "Paja Guesthouse - Camping emerges as a serene retreat for travelers seeking a blend of comfort and nature, located approximately 29 km from the majestic Theth National Park."
-featuredImage: "/images/accommodation/paja-guesthouse-camping-377610756.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377610756.jpg?k=80f2a9f1a0c19d2e0580a2e1a6adb2baa5ee4be362106f2fa3cf8b58637cbbb5&o=&hp=1"
 language: en
 slug: paja-guesthouse-camping
 address: "Rruga per Thethe, 4305 Bogë, Albania"

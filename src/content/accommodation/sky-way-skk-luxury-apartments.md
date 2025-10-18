@@ -1,7 +1,7 @@
 ---
 title: "Sky Way SKK Luxury Apartments"
 description: "Sky Way SKK Luxury Apartments stands out as a premier choice for travelers seeking comfort and convenience in Sarandë, located a mere 16 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/sky-way-skk-luxury-apartments-382846361.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382846361.jpg?k=275be82a5ec4ea36455b94df4f2de5f38dae1577089c186346e0d2b036c03d97&o=&hp=1"
 language: en
 slug: sky-way-skk-luxury-apartments
 address: "Rruga Skënderbeu (39.8664533, 20.0221026), 9701 Sarandë, Albania"

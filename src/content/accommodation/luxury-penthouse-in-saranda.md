@@ -1,7 +1,7 @@
 ---
 title: "luxury Penthouse in Saranda"
 description: "Luxury Penthouse in Saranda emerges as a premier choice for travelers seeking an exceptional stay in Sarandë, boasting a prime location within walking distance to Saranda City Beach and merely 600 meters from the quaint La Petite Beach."
-featuredImage: "/images/accommodation/luxury-penthouse-in-saranda-182057392.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/182057392.jpg?k=52112363859d250c3cbfee042b30cfe191b8c301c69c49023898df89740b48ba&o=&hp=1"
 language: en
 slug: luxury-penthouse-in-saranda
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

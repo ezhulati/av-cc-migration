@@ -1,7 +1,7 @@
 ---
 title: "Columbus Villas"
 description: "Columbus Villas emerges as a serene retreat in the heart of Vermosh, located within the picturesque Shkoder County."
-featuredImage: "/images/accommodation/columbus-villas-487034295.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487034295.jpg?k=c532386a74eaa1510014ca30a212707fb16a6a3efea57d80ec6f49d6d51bbecd&o=&hp=1"
 language: en
 slug: columbus-villas
 address: "Lumi i Vermoshit, 4304 Vermosh, Albania"

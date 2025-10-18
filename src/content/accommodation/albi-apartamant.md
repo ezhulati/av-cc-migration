@@ -1,7 +1,7 @@
 ---
 title: "Albi apartamant"
 description: "Albi Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem."
-featuredImage: "/images/accommodation/albi-apartamant-484783950.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484783950.jpg?k=acb6f7ae238a87112296860c42a2cead4e6bfb95d60523be9996f5eb69b8b884&o=&hp=1"
 language: en
 slug: albi-apartamant
 address: "Bulevardi i Palmave, 2001 Golem, Albania"

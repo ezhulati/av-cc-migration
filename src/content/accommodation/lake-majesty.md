@@ -1,7 +1,7 @@
 ---
 title: "Lake majesty"
 description: "Lake Majesty emerges as a serene retreat in the heart of Shkodër, a mere 17 km away from the tranquil waters of Lake Skadar."
-featuredImage: "/images/accommodation/lake-majesty-473826776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473826776.jpg?k=a2d551dcf421a8fc14f8a9e1a64d8215867d610b6225f9e81379d41626395dad&o=&hp=1"
 language: en
 slug: lake-majesty
 address: "Rruga e Rragamit, 4016 Shkodër, Albania"

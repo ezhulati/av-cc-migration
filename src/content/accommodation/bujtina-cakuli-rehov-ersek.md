@@ -1,7 +1,7 @@
 ---
 title: "BUJTINA CAKULI, Rehovë - ERSEKË"
 description: "BUJTINA CAKULI, located in the serene town of Rehovë, emerges as a charming destination for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/bujtina-cakuli-rehov-ersek-17409827.web.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/17409827.webp?k=312802eec1b46e112f623c4db57151374a5b4b37d434142721da591d73be5763&o=?t=1490014140"
 language: en
 slug: bujtina-cakuli-rehov-ersek
 address: "Rruga Pali Prifti, 7401 Rehovë, Albania"

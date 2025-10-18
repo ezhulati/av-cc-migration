@@ -1,7 +1,7 @@
 ---
 title: "Apartment for Family and Friends."
 description: "Apartment for Family and Friends stands as a beacon of comfort and convenience in Himare, merely a stone's throw away from the pristine Spille Beach and the tranquil Maracit Beach."
-featuredImage: "/images/accommodation/apartment-for-family-and-friends-ALm5wu3XJSju.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ALm5wu3XJSjuVySPaHJSrVgJ-t-V1_v2xVJWLuNjGRLW=s96-c64"
 language: en
 slug: apartment-for-family-and-friends
 address: "Ndertesa:0 Hyrja:PALLATI 2K Apartamenti: Radha:0, Himare, Albania"

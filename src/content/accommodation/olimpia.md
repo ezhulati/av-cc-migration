@@ -1,7 +1,7 @@
 ---
 title: "Olimpia"
 description: "Olimpia emerges as a distinguished choice for travelers seeking a blend of comfort and convenience, located just a stone's throw from the serene Durres Beach and a mere 3 km from the picturesque Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/olimpia-483741034.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483741034.jpg?k=62d7eee8202de98c5b495c45129a33053cde4f1c5aa532363089cad2c52a0c5f&o=&hp=1"
 language: en
 slug: olimpia
 address: "Rruga Pavaresia 1, 2008 Durrës, Albania"

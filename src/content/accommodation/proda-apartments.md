@@ -1,7 +1,7 @@
 ---
 title: "Proda Apartments"
 description: "Proda Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/proda-apartments-522132991.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522132991.jpg?k=37bab019662223d8b34bf485a1fe01ed2f19832b1793cbafc575011088a6e28a&o=&hp=1"
 language: en
 slug: proda-apartments
 address: "Teki Haderi, Lagjia numer 1, 9701 Sarandë, Albania"

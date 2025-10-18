@@ -1,7 +1,7 @@
 ---
 title: "Whole flat near Shkodra lake"
 description: "Whole Flat Near Shkodra Lake stands as a serene retreat in Shkodër, offering breathtaking views of both mountain and lake from its prime location."
-featuredImage: "/images/accommodation/whole-flat-near-shkodra-lake-508435479.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508435479.jpg?k=50c8d9b4eaa5591970d8f2071cf8819dd855aab6bda8c0e499c7c81c2e32907f&o=&hp=1"
 language: en
 slug: whole-flat-near-shkodra-lake
 address: "Rruga Mbreti Gent Ndertesa 6, Hyrja 3, Appartamenti 1, 4001 Shkodër, Albania"

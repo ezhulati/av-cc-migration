@@ -1,7 +1,7 @@
 ---
 title: "CENTER RESIDENCE"
 description: "CENTER RESIDENCE stands out as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/center-residence-331232888.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331232888.jpg?k=70df6d97f0a936c713dce5054f93157d083345a1097fe4024919c8610909ee52&o=&hp=1"
 language: en
 slug: center-residence
 address: "Rruga Shyqyri Ali Merka, 9404 Vlorë, Albania"

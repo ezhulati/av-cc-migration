@@ -1,7 +1,7 @@
 ---
 title: "Aron’s House"
 description: "Aron's House emerges as a serene retreat in the heart of Krujë, offering a blend of comfort and convenience for travelers seeking an authentic Albanian experience."
-featuredImage: "/images/accommodation/aron-s-house-bebbb1d5ff29.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
 language: en
 slug: aron-s-house
 address: "Rruga Vrana Konti, 1501 Krujë, Albania"

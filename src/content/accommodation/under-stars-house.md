@@ -1,7 +1,7 @@
 ---
 title: "UNDER STARS HOUSE"
 description: "UNDER STARS HOUSE emerges as a serene retreat for those seeking a blend of natural beauty and comfort."
-featuredImage: "/images/accommodation/under-stars-house-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10224751519488968/picture?type=square&height=64&width=64"
 language: en
 slug: under-stars-house
 address: "Rruga Nacaj, 4304 Vermosh, Albania"

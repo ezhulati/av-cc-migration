@@ -1,7 +1,7 @@
 ---
 title: "Staycation, City Center Apartment"
 description: "Staycation, City Center Apartment emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "/images/accommodation/staycation-city-center-apartment-465116939.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465116939.jpg?k=5bd0a7d6438dd3dfd8bc3e8c693f6e5a038388cb7587e7bf507af852595ee6df&o=&hp=1"
 language: en
 slug: staycation-city-center-apartment
 address: "Rruga Kostandin Kristoforidhi, 1056 Tirana, Albania"

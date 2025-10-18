@@ -1,7 +1,7 @@
 ---
 title: "Sion Saranda Apartment 31 , located in the center of the beautiful city Saranda"
 description: "Sion Saranda Apartment 31 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Saranda, Vlorë County."
-featuredImage: "/images/accommodation/sion-saranda-apartment-31-located-in-the-center-of-the-beautiful-city-saranda-327927167.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327927167.jpg?k=4b009a8eff378be3568fd584f7feb3ad93cbe3ed3974403966e3021bb2d0323e&o=&hp=1"
 language: en
 slug: sion-saranda-apartment-31-located-in-the-center-of-the-beautiful-city-saranda
 address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Soni"
 description: "Apartment Soni emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short distance from Ri Beach."
-featuredImage: "/images/accommodation/apartment-soni-477315021.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477315021.jpg?k=1271645549fca55222d9f4fb216ccfc11abd7c512139ec532519b45179f48879&o=&hp=1"
 language: en
 slug: apartment-soni
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hanna Apartment"
 description: "Hanna Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hanna-apartment-367696590.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367696590.jpg?k=4c04eb6f9d7d5a11778c898aa6931b4f021c9e44ee6572cd14afdbac81663769&o=&hp=1"
 language: en
 slug: hanna-apartment
 address: "Rruga e Elbasanit, 1035 Tirana, Albania"

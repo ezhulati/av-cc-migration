@@ -1,7 +1,7 @@
 ---
 title: "Bristol Hotel Tirana"
 description: "Discover the charm of Bristol Hotel Tirana, a gem located just a short stroll from the lively Blloku district, renowned for its bustling nightlife, eclectic bars, and gourmet restaurants."
-featuredImage: "/images/accommodation/bristol-hotel-tirana-15167803.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15167803.jpg?k=a2cc947d175b0b2e72c478a485ace63af4adf618dc907c4ab8a3ac229680212b&o=&hp=1"
 language: en
 slug: bristol-hotel-tirana
 address: "Nikolla Jorga, 1001 Tirana, Albania"

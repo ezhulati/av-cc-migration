@@ -1,7 +1,7 @@
 ---
 title: "Apartment Central"
 description: "Apartment Central emerges as a modern oasis in the heart of Vlorë, a stone's throw away from the serene Vjetër Beach and the historic Independence Square."
-featuredImage: "/images/accommodation/apartment-central-480305692.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480305692.jpg?k=89452729ceb5bea1e651503d3e52360640b947f770c83fca74ef32daeb429e43&o=&hp=1"
 language: en
 slug: apartment-central
 address: "Rruga Odise Grillo, 9401 Vlorë, Albania"

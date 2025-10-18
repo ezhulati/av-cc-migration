@@ -1,7 +1,7 @@
 ---
 title: "Apartamente plazhi"
 description: "Discover the charm of Sarandë with a stay at Apartamente Plazhi, a gem in the Vlorë County region that boasts not only a prime location but also panoramic city views from its inviting balcony."
-featuredImage: "/images/accommodation/apartamente-plazhi-104065285.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104065285.jpg?k=9f6efe9f6500d761468cb2f39736be670eb5df638f09e276a431715510184662&o=&hp=1"
 language: en
 slug: apartamente-plazhi
 address: "Rruga Qazim Demi building 7, 1001 Sarandë, Albania"

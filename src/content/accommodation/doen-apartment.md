@@ -1,7 +1,7 @@
 ---
 title: "Doen apartment"
 description: "Doen Apartment emerges as a prime choice for travelers seeking comfort and convenience in Orikum."
-featuredImage: "/images/accommodation/doen-apartment-372788771.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372788771.jpg?k=5d20e09d84929f2f6f88ec49aba2440ef60aca3e822dc643ba68d82a012489b3&o=&hp=1"
 language: en
 slug: doen-apartment
 address: "Rruga Orikum Relax building, 3rd floor, Orikum, Albania"

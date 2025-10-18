@@ -1,7 +1,7 @@
 ---
 title: "Onorato Hotel"
 description: "Oronato Hotel, situated a mere stone's throw from the Vlorë coastline, offers guests a unique blend of convenience and serenity."
-featuredImage: "/images/accommodation/onorato-hotel-202607550.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202607550.jpg?k=1648636d30e80c4da50e1b3c60912f43898318c63f431c9cffeb8c02d513c56e&o=&hp=1"
 language: en
 slug: onorato-hotel
 address: "Rruga \"Murat Terbaci\", 9400 Vlorë, Albania"

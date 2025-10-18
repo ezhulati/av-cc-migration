@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa Alisja Sarande with Private Beach"
 description: "Luxury Villa Alisja Sarande with Private Beach emerges as a premier destination for travelers seeking an exclusive retreat in Sarandë, just a stone's throw away from the serene Saranda Bay Beach."
-featuredImage: "/images/accommodation/luxury-villa-alisja-sarande-with-private-beach-463187122.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463187122.jpg?k=65cba4c04a2eab0f198c736e1a3a6d227fbc4d0a7386dcacdeb246a99517c4f4&o=&hp=1"
 language: en
 slug: luxury-villa-alisja-sarande-with-private-beach
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tourists Guest House"
 description: "Discover the charm of Gjirokastër with a stay at the Tourists Guest House, a serene retreat boasting a lush garden and an inviting terrace."
-featuredImage: "/images/accommodation/tourists-guest-house-155925542.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155925542.jpg?k=1b7d17ccfaabf7c02f9b86529ff55c62dc43e8b8d8a55743d071358ab3b4170a&o=&hp=1"
 language: en
 slug: tourists-guest-house
 address: "Rruga Alqi Kondi 911, 6001 Gjirokastër, Albania"

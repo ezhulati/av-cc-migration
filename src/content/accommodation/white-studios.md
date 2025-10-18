@@ -1,7 +1,7 @@
 ---
 title: "WHITE STUDIOS"
 description: "WHITE STUDIOS emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience, mere steps away from the pristine sands of Maracit Beach."
-featuredImage: "/images/accommodation/white-studios-AOh14GhYnUQT.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GhYnUQTGKG_Q85NAuL71P3WSvc959HQqkUHPxs5Dw=s96-c64"
 language: en
 slug: white-studios
 address: "Himare, 9425 Himare, Albania"

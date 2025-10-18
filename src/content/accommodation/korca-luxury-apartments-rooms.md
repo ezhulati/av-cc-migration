@@ -1,7 +1,7 @@
 ---
 title: "Korca Luxury Apartments & Rooms"
 description: "Korca Luxury Apartments & Rooms emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in Korçë."
-featuredImage: "/images/accommodation/korca-luxury-apartments-rooms-AATXAJzfsN4Q.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJzfsN4QZYWOP1wZSDVNXnox_ZNadbh4WTfQYT8o=s96-c64"
 language: en
 slug: korca-luxury-apartments-rooms
 address: "Rruga Midhi Kostani perballe lulishtes se Shen Marise, 7001 Korçë, Albania"

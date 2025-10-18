@@ -1,7 +1,7 @@
 ---
 title: "Elvin Apartments"
 description: "Elvin Apartments stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a stone's throw away from Sarande Main Beach and a short stroll from Saranda City Beach."
-featuredImage: "/images/accommodation/elvin-apartments-152377893.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152377893.jpg?k=b412510e0f391c28aaab9b7e1d5cc8cbaea3b13f8b736ec29664263f92e45dc0&o=&hp=1"
 language: en
 slug: elvin-apartments
 address: "Rruga Bilal Xhaferri:No 39, 9700 Sarandë, Albania"

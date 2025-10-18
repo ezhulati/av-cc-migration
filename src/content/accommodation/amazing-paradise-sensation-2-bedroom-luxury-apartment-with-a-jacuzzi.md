@@ -1,7 +1,7 @@
 ---
 title: "Amazing Paradise Sensation 2 Bedroom Luxury Apartment with a Jacuzzi"
 description: "Discover the epitome of seaside luxury at Amazing Paradise Sensation 2 Bedroom Luxury Apartment with a Jacuzzi, a premier destination for travelers seeking an exceptional retreat."
-featuredImage: "/images/accommodation/amazing-paradise-sensation-2-bedroom-luxury-apartment-with-a-jacuzzi-511762671.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511762671.jpg?k=20efc14cc6229b49d975f997a1aaa6cb101c6b668c5824c17507f1df9d15e436&o=&hp=1"
 language: en
 slug: amazing-paradise-sensation-2-bedroom-luxury-apartment-with-a-jacuzzi
 address: "Rruga Currila, 2001 Durrës, Albania"

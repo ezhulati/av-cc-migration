@@ -1,7 +1,7 @@
 ---
 title: "Sueño Apartments"
 description: "Sueño Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sue-o-apartments-499227792.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499227792.jpg?k=59fb90fe306c6a5684bd16ecf068445c79ddcfa8b3a1503d12d813e2ccfa6f93&o=&hp=1"
 language: en
 slug: sue-o-apartments
 address: "Njazi Meka, 1007 Tirana, Albania"

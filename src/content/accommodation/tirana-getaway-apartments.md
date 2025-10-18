@@ -1,7 +1,7 @@
 ---
 title: "Tirana Getaway Apartments"
 description: "Tirana Getaway Apartments emerges as a modern oasis in the heart of Tirana, boasting a recent renovation that promises contemporary comfort for its guests."
-featuredImage: "/images/accommodation/tirana-getaway-apartments-484936920.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484936920.jpg?k=0269a80b4027104ca13951bc4df1d0adf7d44a5153c77c68ea83f5df0cf17645&o=&hp=1"
 language: en
 slug: tirana-getaway-apartments
 address: "87 Rruga Mihal Duri Black Flat, Floor 4, 1001 Tirana, Albania"

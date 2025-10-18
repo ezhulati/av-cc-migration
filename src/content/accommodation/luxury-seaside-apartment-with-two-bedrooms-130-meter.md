@@ -1,7 +1,7 @@
 ---
 title: "LUXURY SEASIDE APARTMENT WITH TWO BEDROOMS 130 meter"
 description: "LUXURY SEASIDE APARTMENT WITH TWO BEDROOMS 130 meter emerges as a prime choice for travelers seeking a blend of comfort and adventure in Vlorë, situated a stone's throw away from Orikum Beach and a brief stroll from Nettuno Beach."
-featuredImage: "/images/accommodation/luxury-seaside-apartment-with-two-bedrooms-130-meter-303849771.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303849771.jpg?k=c78b63bf4c45384ca74a843e5106569e066e286bb5dd0b6bf867f4c313d3d4b8&o=&hp=1"
 language: en
 slug: luxury-seaside-apartment-with-two-bedrooms-130-meter
 address: "Rr. Vlore Orikum, 9400 Vlorë, Albania"

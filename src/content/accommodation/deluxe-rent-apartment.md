@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Rent Apartment"
 description: "Deluxe Rent Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/deluxe-rent-apartment-456908174.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456908174.jpg?k=bb2179f01417a34716b70871ad9101423d0eb620e979329fa6dd48a50f78e6b4&o=&hp=1"
 language: en
 slug: deluxe-rent-apartment
 address: "Rruga e Dibrës, Tirana, Albania"

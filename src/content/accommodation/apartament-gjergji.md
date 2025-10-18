@@ -1,7 +1,7 @@
 ---
 title: "Apartament Gjergji"
 description: "Discover the charm of Sarandë with a stay at Apartament Gjergji, a prime holiday home that offers more than just a place to rest."
-featuredImage: "/images/accommodation/apartament-gjergji-212494355.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/212494355.jpg?k=c03ec761eec9af6b2f0c4a423b0e548b5c84fe44a47c64e5a9fcc0dc83ab13dd&o=&hp=1"
 language: en
 slug: apartament-gjergji
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

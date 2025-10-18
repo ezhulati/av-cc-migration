@@ -1,7 +1,7 @@
 ---
 title: "One Bedroom APT (Rezidenca Kodra e Diellit 1)"
 description: "Discover the charm of Tirana with a stay at the One Bedroom APT in Rezidenca Kodra e Diellit 1, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/one-bedroom-apt-rezidenca-kodra-e-diellit-1-367322889.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367322889.jpg?k=620fe0e805c22ca15d90eca366ba30e7c853e5754705e92144fc221e58c9501a&o=&hp=1"
 language: en
 slug: one-bedroom-apt-rezidenca-kodra-e-diellit-1
 address: "1001 Rruga Kodra e Diellit, 1001 Tirana, Albania"

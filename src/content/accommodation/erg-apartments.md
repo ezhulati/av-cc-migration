@@ -1,7 +1,7 @@
 ---
 title: "ERG APARTMENTS"
 description: "ERG APARTMENTS emerges as a modern oasis of comfort and convenience, situated just 3."
-featuredImage: "/images/accommodation/erg-apartments-378027076.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378027076.jpg?k=6152881b2b1866868aff6c2edbee5900510a67d3a7ea79d8de34a5fdb43a7972&o=&hp=1"
 language: en
 slug: erg-apartments
 address: "Rruga Lluke Kacaj, 1001 Tirana, Albania"

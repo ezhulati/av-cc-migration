@@ -1,7 +1,7 @@
 ---
 title: "Apartment Doni"
 description: "Apartment Doni emerges as a prime choice for travelers seeking a serene getaway with breathtaking sea views, located just a short stroll from the vibrant Durres Beach."
-featuredImage: "/images/accommodation/apartment-doni-471247271.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471247271.jpg?k=5d7100105d9fa6db423147ea2418439b0847fadb5a3eeced14d24ebbd126ce25&o=&hp=1"
 language: en
 slug: apartment-doni
 address: "Rruga Rrota e Kuqe, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VILA SHEHAJ Luxury"
 description: "VILA SHEHAJ Luxury stands out as a premier destination for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/vila-shehaj-luxury-8103dfb0481c.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
 language: en
 slug: vila-shehaj-luxury
 address: "Rruga Avdyl Frasheri, 9402 Vlorë, Albania"

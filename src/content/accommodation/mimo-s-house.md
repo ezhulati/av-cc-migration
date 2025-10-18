@@ -1,7 +1,7 @@
 ---
 title: "Mimo’ s House"
 description: "Mimo's House emerges as a serene retreat in the vibrant city of Vlorë, strategically positioned just a short stroll from the pristine Liro Beach and within easy reach of the exclusive Beach at Government Villas."
-featuredImage: "/images/accommodation/mimo-s-house-478677068.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478677068.jpg?k=af96fd146af6c7ef4179bbe7a66f69a2949a546a5f0a5080012ec9d395824da4&o=&hp=1"
 language: en
 slug: mimo-s-house
 address: "Rruga Sali Vranishti, 1001 Vlorë, Albania"

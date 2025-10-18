@@ -1,7 +1,7 @@
 ---
 title: "Selda's apartment"
 description: "Selda's Apartment emerges as a serene haven in the vibrant city of Sarandë, boasting a harmonious blend of garden and city vistas."
-featuredImage: "/images/accommodation/selda-s-apartment-479554574.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479554574.jpg?k=989d9ff4a1c4b2be245678e2acd3709e89b80c4a9e60110219df1affe83f5ce0&o=&hp=1"
 language: en
 slug: selda-s-apartment
 address: "Rruga Gjergj Araniti, Sarandë, Albania"

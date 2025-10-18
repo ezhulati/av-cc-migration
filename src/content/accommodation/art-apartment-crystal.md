@@ -1,7 +1,7 @@
 ---
 title: "Art Apartment Crystal"
 description: "Art Apartment Crystal emerges as a serene retreat in Golem, striking a perfect balance between comfort and convenience."
-featuredImage: "/images/accommodation/art-apartment-crystal-305349833.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305349833.jpg?k=6047a39a18d3cdc61b3385ac2e291095075ad43d69ec835b91ea1927782d5120&o=&hp=1"
 language: en
 slug: art-apartment-crystal
 address: "Rruga Kristal, Golem, Albania"

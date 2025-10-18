@@ -1,7 +1,7 @@
 ---
 title: "SunsetView Studio"
 description: "SunsetView Studio emerges as a prime choice for travelers seeking beachfront accommodation in Vlorë, boasting a prime location merely 100 meters from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/sunsetview-studio-486830675.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486830675.jpg?k=ec627714451c2bc2db157f86096f74292358cd1565598fc6b9255c956c8685b3&o=&hp=1"
 language: en
 slug: sunsetview-studio
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

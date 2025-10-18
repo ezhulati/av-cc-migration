@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartment Garda"
 description: "Tirana Apartment Garda emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-apartment-garda-bebbb1d5ff29.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
 language: en
 slug: tirana-apartment-garda
 address: "Rruga Adem Jashari, 1018 Tirana, Albania"

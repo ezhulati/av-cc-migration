@@ -1,7 +1,7 @@
 ---
 title: "Hotel 3A"
 description: "Discover the charm of Tirana with a stay at Hotel 3A, a vibrant gem located mere steps from the bustling Skenderbeg Square, surrounded by a plethora of shops, dining options, and lively bars."
-featuredImage: "/images/accommodation/hotel-3a-38887679.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/38887679.jpg?k=3b8f6977a427e5deddd79ff7b0aefaeb90b58f568d926d1948ca9f9e95d2bc57&o=&hp=1"
 language: en
 slug: hotel-3a
 address: "Rr. Naim Frasheri, 1000 Tirana, Albania"

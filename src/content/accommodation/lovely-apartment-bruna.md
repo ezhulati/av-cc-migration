@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment Bruna"
 description: "Lovely Apartment Bruna stands out as a prime choice for travelers seeking comfort and convenience in Shkodër, located just 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/lovely-apartment-bruna-508825724.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508825724.jpg?k=40ad04cc864a585056f73f6bfc5ddd6877380b5808cf4fe2ceadce5e544e4224&o=&hp=1"
 language: en
 slug: lovely-apartment-bruna
 address: "Rruga Jezuitëve, 4002 Shkodër, Albania"

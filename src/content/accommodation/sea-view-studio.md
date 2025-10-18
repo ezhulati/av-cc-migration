@@ -1,7 +1,7 @@
 ---
 title: "Sea View Studio"
 description: "Sea View Studio emerges as a prime choice for travelers seeking a serene retreat in Vlorë, perfectly positioned just a stone's throw away from Vlore Beach and a brief stroll from Ri Beach."
-featuredImage: "/images/accommodation/sea-view-studio-473491561.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473491561.jpg?k=708f6bcfba01dc0c12540f29d945356558fdec3fd153d1e7bf94bc9f83495d0e&o=&hp=1"
 language: en
 slug: sea-view-studio
 address: "Rruga Mehmet Agalliu 4 floor, 9401 Vlorë, Albania"

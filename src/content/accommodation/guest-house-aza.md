@@ -1,7 +1,7 @@
 ---
 title: "Guest House AZA"
 description: "Guest House AZA emerges as a serene retreat in the heart of Pogradec, Korçë County, offering travelers a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/guest-house-aza-photo.jpg64.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-z0YikOX0_MY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVR3unsy7DiaKml3PvYkhdIp7zEA/photo.jpg64"
 language: en
 slug: guest-house-aza
 address: "Rruga Kajo Karafili, Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Center of Shkodra Apartment"
 description: "Center of Shkodra Apartment offers a refreshing stay in the heart of Shkodër, presenting guests with a blend of comfort and convenience."
-featuredImage: "/images/accommodation/center-of-shkodra-apartment-475553461.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475553461.jpg?k=33dc10f47112c9e7db1827e3bb8d087124e36f4027789b024ff8549b04ab957d&o=&hp=1"
 language: en
 slug: center-of-shkodra-apartment
 address: "Sheshi Parruce, 4001 Shkodër, Albania"

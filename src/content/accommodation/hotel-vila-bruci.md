@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Bruci"
 description: "Hotel Vila Bruci emerges as a serene retreat in Burrel, offering guests a blend of comfort and convenience with its air-conditioned rooms and complimentary private parking."
-featuredImage: "/images/accommodation/hotel-vila-bruci-484490506.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484490506.jpg?k=3d9cbca0bc7e6f56fce549d8e3cf0eb60ebfe2d5ec6cc34f3ba77f8e5d331e2c&o=&hp=1"
 language: en
 slug: hotel-vila-bruci
 address: "\"Ibrahim Temo\", 8001 Burrel, Albania"

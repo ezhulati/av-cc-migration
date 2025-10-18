@@ -1,7 +1,7 @@
 ---
 title: "Blloku Studio Apartament"
 description: "Blloku Studio Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of Tirana's rich history."
-featuredImage: "/images/accommodation/blloku-studio-apartament-417380776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417380776.jpg?k=b0b4121ed34e5ee4e86759e1b885a34afb6e401199c0ee91f385f6235e625d1f&o=&hp=1"
 language: en
 slug: blloku-studio-apartament
 address: "Bulevardi Bajram Curri, 1001 Tirana, Albania"

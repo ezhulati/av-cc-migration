@@ -1,7 +1,7 @@
 ---
 title: "Saranda Nik Apartment"
 description: "Saranda Nik Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/saranda-nik-apartment-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: saranda-nik-apartment
 address: "Rruga Butrinti, 9702 Sarandë, Albania"

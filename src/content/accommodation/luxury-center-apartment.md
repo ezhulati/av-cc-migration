@@ -1,7 +1,7 @@
 ---
 title: "Luxury Center apartment"
 description: "Luxury Center Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-center-apartment-405344091.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405344091.jpg?k=e67c0f5e6f7229564ca5ff308f0e19cda98378619210194e0581387aad86570b&o=&hp=1"
 language: en
 slug: luxury-center-apartment
 address: "Rruga e Kavajës, 1010 Tirana, Albania"

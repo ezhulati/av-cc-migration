@@ -1,7 +1,7 @@
 ---
 title: "Checkpoint Tirana Apartments"
 description: "Checkpoint Tirana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/checkpoint-tirana-apartments-478068895.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478068895.jpg?k=e89589327664393a090d9b7daac1f95e5b946b419c0299956aa0ff0f1c2418c6&o=&hp=1"
 language: en
 slug: checkpoint-tirana-apartments
 address: "Rruga Ferit Xhajko Sa kalon kryqezimin e Dispancerise me Siri Kodren, 1001 Tirana, Albania"

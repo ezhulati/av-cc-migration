@@ -1,7 +1,7 @@
 ---
 title: "VIEW Apartment LUKOVE"
 description: "VIEW Apartment LUKOVE emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just 3 km from the pristine Lukova Beach and a scenic drive from Butrint National Park."
-featuredImage: "/images/accommodation/view-apartment-lukove-340045863.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340045863.jpg?k=cc61bcad7eee9854a7757224576c97f0cff4d88b57176fdd15125ec7dc4233a5&o=&hp=1"
 language: en
 slug: view-apartment-lukove
 address: "Lukovë - Shpellë, Lukovë, Albania"

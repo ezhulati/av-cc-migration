@@ -1,7 +1,7 @@
 ---
 title: "Radisson Collection Morina Hotel, Tirana"
 description: "Radisson Collection Morina Hotel, Tirana, emerges as a premier destination for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/radisson-collection-morina-hotel-tirana-371798891.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371798891.jpg?k=bb16f2341733f9f33c56e3e6d92014e5fe6b1dfd6c3cb9aef4d76fcd8ca69cf3&o=&hp=1"
 language: en
 slug: radisson-collection-morina-hotel-tirana
 address: "Rruga Hamdi Garunja, Tirana, Albania"

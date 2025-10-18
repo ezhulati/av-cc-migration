@@ -1,7 +1,7 @@
 ---
 title: "SeaView Apartments Rental Vlore"
 description: "SeaView Apartments Rental Vlore emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Vlorë."
-featuredImage: "/images/accommodation/seaview-apartments-rental-vlore-474409754.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474409754.jpg?k=78fb9f7af1cd27accaa6475c148c33b6a10fe986760d01b6e9fbfc8a0b1e0825&o=&hp=1"
 language: en
 slug: seaview-apartments-rental-vlore
 address: "Rr. Sazani, 9403 Vlorë, Albania"

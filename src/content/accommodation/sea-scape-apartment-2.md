@@ -1,7 +1,7 @@
 ---
 title: "Sea Scape Apartment 2"
 description: "Sea Scape Apartment 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, situated a mere stone's throw away from the pristine Ri Beach."
-featuredImage: "/images/accommodation/sea-scape-apartment-2-364792050.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364792050.jpg?k=249093c139499ced889c718ebc56b3b1fcab0c0e844db0348296329a5433bea0&o=&hp=1"
 language: en
 slug: sea-scape-apartment-2
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Durres Apartment,close to beach"
 description: "Durres Apartment, a modern retreat steps away from Kallmi Beach and a short stroll from Currila Beach, presents a prime choice for travelers seeking the comfort of home with the luxury of beachside living."
-featuredImage: "/images/accommodation/durres-apartment-close-to-beach-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: durres-apartment-close-to-beach
 address: "Rruga Taulantia 1, Zona Currila Rezidenca White Hill, Kulla 3, 2001 Durrës, Albania"

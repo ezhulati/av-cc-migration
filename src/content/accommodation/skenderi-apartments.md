@@ -1,7 +1,7 @@
 ---
 title: "Skenderi Apartments"
 description: "Skenderi Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/skenderi-apartments-364941851.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364941851.jpg?k=1eab7537b38801f35b84d69a140414d6d8446f5560ac1fc5e8583064a3a43540&o=&hp=1"
 language: en
 slug: skenderi-apartments
 address: "Skenderi Apartments, Ksamil, 9706 Ksamil, Albania"

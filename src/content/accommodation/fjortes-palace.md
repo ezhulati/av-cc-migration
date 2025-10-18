@@ -1,7 +1,7 @@
 ---
 title: "Fjortes Palace"
 description: "Fjortes Palace emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Vlorë, merely 16 km away from the iconic Independence Square."
-featuredImage: "/images/accommodation/fjortes-palace-300019127.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300019127.jpg?k=37a50cc2544f5da16afb1135c639cdf4b53bd55e08cdf1036c8ea187e5db47de&o=&hp=1"
 language: en
 slug: fjortes-palace
 address: "Autostrada 100 Vjetori i Pavarësisë Km 13, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Iballe Guesthouse"
 description: "Iballe Guesthouse emerges as a serene retreat in the heart of Pukë, offering a unique blend of comfort and convenience for travelers seeking a stress-free escape amidst the mountains."
-featuredImage: "/images/accommodation/iballe-guesthouse-312783689.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312783689.jpg?k=188b6f49bb4d8cc6995897d1db8cd206b629bdb466f5430602892b9c0735fad6&o=&hp=1"
 language: en
 slug: iballe-guesthouse
 address: "Iballe, Pukë, Albania"

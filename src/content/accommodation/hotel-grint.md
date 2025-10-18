@@ -1,7 +1,7 @@
 ---
 title: "Hotel GRINT"
 description: "Hotel GRINT emerges as a distinguished choice for travelers seeking both relaxation and adventure in Durrës."
-featuredImage: "/images/accommodation/hotel-grint-301386888.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301386888.jpg?k=653156215fe5fed65467ef3c1b24206e8ba07f39da8dad4375bc84a1e0c0a236&o=&hp=1"
 language: en
 slug: hotel-grint
 address: "Bulevardi I Pishave, Golem, 2005 Golem, Albania"

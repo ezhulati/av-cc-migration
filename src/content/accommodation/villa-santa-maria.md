@@ -1,7 +1,7 @@
 ---
 title: "Villa Santa Maria"
 description: "Villa Santa Maria emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/villa-santa-maria-494719828.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494719828.jpg?k=fb2cdd8c9a66038ba1bc9ae36bd9fc3b031da88542655d96df44268867cd532e&o=&hp=1"
 language: en
 slug: villa-santa-maria
 address: "Rruga Aleksandër Moisiu Uji Ftohte Vlore, 9401 Vlorë, Albania"

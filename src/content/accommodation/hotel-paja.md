@@ -1,7 +1,7 @@
 ---
 title: "Hotel Paja"
 description: "Hotel Paja emerges as a modern oasis in the heart of Ksamil, merely a stone's throw away from the pristine Ksamil Beach."
-featuredImage: "/images/accommodation/hotel-paja-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: hotel-paja
 address: "Rruga Baba Sherifi, Nr 38, 9706 Ksamil, Albania"

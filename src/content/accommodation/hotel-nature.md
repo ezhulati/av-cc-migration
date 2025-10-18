@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nature"
 description: "Hotel Nature emerges as a serene oasis in Kolonjë, offering a harmonious blend of comfort and convenience with its garden, shared lounge, terrace, and welcoming bar."
-featuredImage: "/images/accommodation/hotel-nature-454132369.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454132369.jpg?k=579252e4659e0d6b8550cbd2e12457adc6474876bd2e4933b7fe487ef420484e&o=&hp=1"
 language: en
 slug: hotel-nature
 address: "SH67, 9100 Kolonjë, Albania"

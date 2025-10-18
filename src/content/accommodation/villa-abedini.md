@@ -1,7 +1,7 @@
 ---
 title: "Villa Abedini"
 description: "Villa Abedini emerges as a recently renovated gem in Ksamil, standing a mere 500 meters from the pristine shores of Paradise Beach."
-featuredImage: "/images/accommodation/villa-abedini-425576512.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425576512.jpg?k=2d26052b59b8e244d1dec07b2c0063d6923a106464e99cdd2716eb4946de1ab9&o=&hp=1"
 language: en
 slug: villa-abedini
 address: "Rr. Derveni, 9999 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Familiar Studios Sheme"
 description: "Familiar Studios Sheme emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/familiar-studios-sheme-527730387.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527730387.jpg?k=76dc3aa78e2e9a242c66b60f43fd8f4592377f2f30545b6d2a1dc49aee17468c&o=&hp=1"
 language: en
 slug: familiar-studios-sheme
 address: "Rruga Butrint ,Ksamil 0458, 9706 Ksamil, Albania"

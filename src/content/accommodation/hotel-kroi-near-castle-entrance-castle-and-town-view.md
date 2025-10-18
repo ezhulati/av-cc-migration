@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kroi near castle entrance castle and town view"
 description: "Hotel Kroi, positioned just at the gateway to Krujë's historic castle and offering panoramic views of the town, stands out as a prime choice for travelers seeking both convenience and charm."
-featuredImage: "/images/accommodation/hotel-kroi-near-castle-entrance-castle-and-town-view-473484171.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473484171.jpg?k=8a7bd23e4ea37fed9dba640df78f30b7dabfeed4333e2ca43047c90ea1e47995&o=&hp=1"
 language: en
 slug: hotel-kroi-near-castle-entrance-castle-and-town-view
 address: "Rruga Kala, 1501 Krujë, Albania"

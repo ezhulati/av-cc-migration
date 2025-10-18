@@ -1,7 +1,7 @@
 ---
 title: "Tirana Resort Radhime"
 description: "Tirana Resort Radhime emerges as a prime choice for travelers seeking a blend of comfort and convenience in Radhimë."
-featuredImage: "/images/accommodation/tirana-resort-radhime-365469789.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365469789.jpg?k=dd1c5c60026140c0475aa5ea4976584f3a3ce3580f42540f20c5e5be0271ab83&o=&hp=1"
 language: en
 slug: tirana-resort-radhime
 address: "Tirana Resort SH8, Rruga kryesore, 9401 Radhimë, Albania"

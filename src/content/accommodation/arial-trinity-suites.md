@@ -1,7 +1,7 @@
 ---
 title: "Arial Trinity Suites"
 description: "Arial Trinity Suites emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/arial-trinity-suites-445232786.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445232786.jpg?k=55beec0fb05838f901343adfa3fc41445f89c0b78acf0813e1812d743b61c93b&o=&hp=1"
 language: en
 slug: arial-trinity-suites
 address: "Rruga Aleks Caci, 9403 Vlorë, Albania"

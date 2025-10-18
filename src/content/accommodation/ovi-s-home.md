@@ -1,7 +1,7 @@
 ---
 title: "OVI's Home"
 description: "OVI's Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ovi-s-home-487113462.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487113462.jpg?k=dee5917aadbc2a63cd839e4bf492f106055fc00425156d1aece15704513e1483&o=&hp=1"
 language: en
 slug: ovi-s-home
 address: "Rruga Memo Meto 4 Floor, 1017 Tirana, Albania"

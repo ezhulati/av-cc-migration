@@ -1,7 +1,7 @@
 ---
 title: "Vila Mariss"
 description: "Vila Mariss stands as a beacon of comfort and convenience in Korçë, a mere 43 km from the serene Ohrid Lake Springs."
-featuredImage: "/images/accommodation/vila-mariss-404381957.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404381957.jpg?k=507b3ec1900e402ba8bf3bbace8ee4541252bd599bf11afcf4e5f867f89f60ec&o=&hp=1"
 language: en
 slug: vila-mariss
 address: "Rruga Ajet gjindolli Lagjia 8, 7001 Korçë, Albania"

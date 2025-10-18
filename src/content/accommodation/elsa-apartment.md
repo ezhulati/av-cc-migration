@@ -1,7 +1,7 @@
 ---
 title: "Elsa Apartment"
 description: "Elsa Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/elsa-apartment-526710375.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526710375.jpg?k=440d9087fe976506bed207f912d247e1dd976d6e9493670626eccdd5f7b4d5c3&o=&hp=1"
 language: en
 slug: elsa-apartment
 address: "Rruga Aleksandri i Madh, 1001 Tirana, Albania"

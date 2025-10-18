@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar Arben's Apartment"
 description: "New Bazaar Arben's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/new-bazaar-arben-s-apartment-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: new-bazaar-arben-s-apartment
 address: "Rruga Thimi Mitko, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Stonevilla Buta"
 description: "Stonevilla Buta emerges as a distinguished choice for travelers seeking comfort and convenience in Himare, merely a stone's throw away from the serene Potam Beach."
-featuredImage: "/images/accommodation/stonevilla-buta-448444047.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448444047.jpg?k=c09612b3b93d96d214bd34f015ca44a50bd8cb92b84b0aee96accd0fca89948c&o=&hp=1"
 language: en
 slug: stonevilla-buta
 address: "Potam, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Leonard's Shengjin Apartments"
 description: "Leonard's Shengjin Apartments emerges as a prime choice for travelers seeking comfort and convenience in Lezhë, just a stone's throw away from the pristine shores of Shëngjin Beach and a short stroll from the tranquil Ylberi Beach."
-featuredImage: "/images/accommodation/leonard-s-shengjin-apartments-334435023.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334435023.jpg?k=caf12d3f96cf931dced0f6a6bf134c00ef40636a70a0718037191ac4af470c22&o=&hp=1"
 language: en
 slug: leonard-s-shengjin-apartments
 address: "Rruga Shengjin, 4503 Lezhë, Albania"

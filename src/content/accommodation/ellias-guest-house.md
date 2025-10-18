@@ -1,7 +1,7 @@
 ---
 title: "Ellias Guest House"
 description: "Ellias Guest House emerges as a serene retreat in the vibrant heart of Sarandë, positioned just a stone's throw away from the city's most pristine beaches."
-featuredImage: "/images/accommodation/ellias-guest-house-476288433.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476288433.jpg?k=18f8f0233d22b5d21a32e2203d811a0776fe47ca6da0a2904153549b7632a00e&o=&hp=1"
 language: en
 slug: ellias-guest-house
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vlora - Your Home by the Sea"
 description: "Vlora - Your Home by the Sea stands out as a prime choice for travelers seeking a serene getaway, just a short drive from the historic Kuzum Baba at 2."
-featuredImage: "/images/accommodation/vlora-your-home-by-the-sea-503363163.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503363163.jpg?k=215e1eb1338983db3d4645d95cd25f757f6a63c5106146c47de619731e805891&o=&hp=1"
 language: en
 slug: vlora-your-home-by-the-sea
 address: "Rruga Murat Terbaci 5th Floor, Apt #20, 9403 Vlorë, Albania"

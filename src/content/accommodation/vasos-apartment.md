@@ -1,7 +1,7 @@
 ---
 title: "Vasos Apartment"
 description: "Vasos Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the serene Shkëmbi i Kavajës Beach and a brief stroll from the vibrant Durres Beach."
-featuredImage: "/images/accommodation/vasos-apartment-313829585.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313829585.jpg?k=51105129f4c89e9c594259b28d5902401e8e0e106ae2ec8e4bccd1dfa0ec2c8a&o=&hp=1"
 language: en
 slug: vasos-apartment
 address: "Rruga e plazhit Durres, 1005 Durrës, Albania"

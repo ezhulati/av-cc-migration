@@ -1,7 +1,7 @@
 ---
 title: "Origjina Farm"
 description: "Origjina Farm, located in the serene town of Përmet, emerges as a distinguished destination for travelers seeking a blend of comfort and adventure."
-featuredImage: "/images/accommodation/origjina-farm-469820881.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469820881.jpg?k=755ebb78089946348d3e4372eeb55c9ac8b609a105b4e15f1e1fce56ae10412c&o=&hp=1"
 language: en
 slug: origjina-farm
 address: "Ballaban, 6406 Përmet, Albania"

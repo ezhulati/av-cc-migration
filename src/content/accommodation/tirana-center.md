@@ -1,7 +1,7 @@
 ---
 title: "Tirana center"
 description: "Tirana Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-center-460808717.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460808717.jpg?k=15a27920063d4a69dd307f31b9c93e70106d949cd1ec594dfe6f84d14a34ba2a&o=&hp=1"
 language: en
 slug: tirana-center
 address: "Rruga Bardhok Biba, Godina 71, Hyrja 1, Apartment 5, 1001 Tirana, Albania"

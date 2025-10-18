@@ -1,7 +1,7 @@
 ---
 title: "Drymades Bungalows Adults Only"
 description: "Drymades Bungalows Adults Only Resort, located in the serene Dhërmi, elevates the concept of luxury with its 4-star accommodations and exclusive access to a private beach area."
-featuredImage: "/images/accommodation/drymades-bungalows-adults-only-339097764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339097764.jpg?k=b8917b0388f7f563bc393deec0bbffe343a330c61a88dcb1a56b0a7ebaa84796&o=&hp=1"
 language: en
 slug: drymades-bungalows-adults-only
 address: "Perivollo Street Building 149, Gjolekë, 9425 Dhërmi, Albania"

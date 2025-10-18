@@ -1,7 +1,7 @@
 ---
 title: "Camping Cajupi"
 description: "Camping Cajupi is a prime choice for travelers seeking a serene getaway in Gjirokastër."
-featuredImage: "/images/accommodation/camping-cajupi-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10153064797341847/picture?type=square&height=64&width=64"
 language: en
 slug: camping-cajupi
 address: "Fusha e Cajupit, 6001 Gjirokastër, Albania"

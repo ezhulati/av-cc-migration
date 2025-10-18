@@ -1,7 +1,7 @@
 ---
 title: "Pashkaj Hotel"
 description: "Pashkaj Hotel emerges as a serene oasis in Pogradec, offering a tranquil retreat just a stone's throw away from the enchanting Ohrid Lake Springs, 17 km to be precise."
-featuredImage: "/images/accommodation/pashkaj-hotel-482994480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482994480.jpg?k=281ff37f91558a28bbae7c0aa4b5f2eb8284df557fa37b768472cefab427ebce&o=&hp=1"
 language: en
 slug: pashkaj-hotel
 address: "Rruga Hodenish, 7301 Pogradec, Albania"

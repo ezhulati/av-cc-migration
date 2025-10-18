@@ -1,7 +1,7 @@
 ---
 title: "2E Center Apartment"
 description: "2E Center Apartment emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/2e-center-apartment-528030728.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528030728.jpg?k=498d4a103f645c043c1af79ccd4fbdf9b7ea361b5b1934a92697df2a6abb21da&o=&hp=1"
 language: en
 slug: 2e-center-apartment
 address: "Rruga Fortuzi, 1061 Tirana, Albania"

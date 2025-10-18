@@ -1,7 +1,7 @@
 ---
 title: "Dolce Casa"
 description: "Dolce Casa emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/dolce-casa-422932467.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422932467.jpg?k=11202f5ad7a10aac52c44285fa6dd082a336a7c584d4bd9a39f707487b5b1532&o=&hp=1"
 language: en
 slug: dolce-casa
 address: "Rruga Petraq Shamo Pallati: 51 , apartamenti: 14, kati 4, 7000 Korçë, Albania"

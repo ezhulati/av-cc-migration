@@ -1,7 +1,7 @@
 ---
 title: "Ona's House"
 description: "Ona's House emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience, located just a 30-minute stroll from the pristine shores of Borsh Beach."
-featuredImage: "/images/accommodation/ona-s-house-376150973.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376150973.jpg?k=255e91d147e97526787759676160e908f26d9563063688c09eb75c42000a1e86&o=&hp=1"
 language: en
 slug: ona-s-house
 address: "Rruga per kala, 1234 Borsh, Albania"

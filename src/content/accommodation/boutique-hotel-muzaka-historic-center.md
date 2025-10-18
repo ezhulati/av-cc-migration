@@ -1,7 +1,7 @@
 ---
 title: "Boutique Hotel Muzaka (Historic Center)"
 description: "Hotel Muzaka stands as a charming testament to traditional architecture, positioned conveniently by the serene Osum River and merely a stone's throw from the vibrant heart of Berat, a city celebrated for its rich history and cultural tapestry."
-featuredImage: "/images/accommodation/boutique-hotel-muzaka-historic-center-405531388.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405531388.jpg?k=0a1cbcb6b06cfe2cc8e499408a65c070a4382fab6d38df95756ebf379d25f383&o=&hp=1"
 language: en
 slug: boutique-hotel-muzaka-historic-center
 address: "Gorice, 5001 Berat, Albania"

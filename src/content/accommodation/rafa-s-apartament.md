@@ -1,7 +1,7 @@
 ---
 title: "Rafa's Apartament"
 description: "Rafa's Apartment stands out as a prime choice for travelers seeking comfort and convenience in Himare, positioned ideally close to the pristine Qeparo Beach and the serene Borsh Beach."
-featuredImage: "/images/accommodation/rafa-s-apartament-520269967.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520269967.jpg?k=a0912b3777c70fe1549d9190965fdef9828b95b7dea434fd8c238bff804f6a6d&o=&hp=1"
 language: en
 slug: rafa-s-apartament
 address: "Qeparo, 9416 Himare, Albania"

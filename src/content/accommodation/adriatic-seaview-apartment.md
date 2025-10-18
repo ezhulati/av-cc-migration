@@ -1,7 +1,7 @@
 ---
 title: "Adriatic Seaview Apartment"
 description: "Adriatic Seaview Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/adriatic-seaview-apartment-263614555.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263614555.jpg?k=ce472a38037e7a57ceaf5e476398e3e11e944da260f9716841c14bf3329e81ff&o=&hp=1"
 language: en
 slug: adriatic-seaview-apartment
 address: "Rruga Porta e Detit, Durrës, Albania"

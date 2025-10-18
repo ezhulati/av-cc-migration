@@ -1,7 +1,7 @@
 ---
 title: "Vila Livi"
 description: "Vila Livi stands out as a premier destination for travelers seeking comfort and convenience in Korçë, situated within easy reach of both the Ohrid Lake Springs and Monastery Saint Naum, each located 43 km away."
-featuredImage: "/images/accommodation/vila-livi-320442622.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320442622.jpg?k=48f5b7502b5b6c04938b59f13f730fb605ef19d0e513dc81909340a2126c52f4&o=&hp=1"
 language: en
 slug: vila-livi
 address: "Rruga Bari Zylali Lagja 8, 7001 Korçë, Albania"

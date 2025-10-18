@@ -1,7 +1,7 @@
 ---
 title: "Villa home Astir"
 description: "Villa Home Astir emerges as a prime choice for travelers seeking a serene yet conveniently located accommodation in Tirana."
-featuredImage: "/images/accommodation/villa-home-astir-480239176.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480239176.jpg?k=d1f617339da2c92d51d25ea5efab65802c55adedfa1c5a367a58fce57fef2780&o=&hp=1"
 language: en
 slug: villa-home-astir
 address: "Rruga Hito Cako, Tirana, Albania"

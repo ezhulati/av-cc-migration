@@ -1,7 +1,7 @@
 ---
 title: "Villa Olivia Grove"
 description: "Villa Olivia Grove emerges as a serene haven for travelers seeking both comfort and convenience, situated merely a stone's throw away from the pristine Potam Beach."
-featuredImage: "/images/accommodation/villa-olivia-grove-365223826.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365223826.jpg?k=1abfc929bd07944fb51f888f590c57e91ca26b24d6e02d6a227db64c395e787f&o=&hp=1"
 language: en
 slug: villa-olivia-grove
 address: "Prinos, Potam, 9425 Himare, Albania"

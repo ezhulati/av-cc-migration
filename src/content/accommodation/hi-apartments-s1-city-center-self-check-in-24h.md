@@ -1,7 +1,7 @@
 ---
 title: "Hi Apartments S1 City Center self check in 24h"
 description: "Hi Apartments S1 City Center self check in 24h stands out as a prime choice for travelers seeking the convenience of city living in Tirana."
-featuredImage: "/images/accommodation/hi-apartments-s1-city-center-self-check-in-24h-483035793.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483035793.jpg?k=4c6269cba94d401ba5c4a3aa52f65a1fb4010dc8f4ea73a61c9de062c990707e&o=&hp=1"
 language: en
 slug: hi-apartments-s1-city-center-self-check-in-24h
 address: "Rruga Xhemal Tafaj Build nr.5, apartment nr.9, 2nd floor, 1001 Tirana, Albania"

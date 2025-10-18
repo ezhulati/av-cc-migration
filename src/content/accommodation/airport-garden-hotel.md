@@ -1,7 +1,7 @@
 ---
 title: "Airport Garden Hotel"
 description: "Airport Garden Hotel, located a mere 18 km from the vibrant Skanderbeg Square in Rinas, stands out for its seamless blend of convenience and comfort."
-featuredImage: "/images/accommodation/airport-garden-hotel-261453629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261453629.jpg?k=14b21982b1bac5ccf6958dba8ea8e1be431bf00c01060a35a23d74ffe1ac16e0&o=&hp=1"
 language: en
 slug: airport-garden-hotel
 address: "In front of Tirana International Airport, 1053 Rinas, Albania"

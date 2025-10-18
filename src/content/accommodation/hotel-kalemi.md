@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kalemi"
 description: "Discover the charm of Hotel Kalemi, a gem just steps away from the Ethnographic Museum and Zekate House, where tradition meets comfort in the heart of the city."
-featuredImage: "/images/accommodation/hotel-kalemi-114548795.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/114548795.jpg?k=c9c4ce4f878890949b18a6b7408df6b0501fc34fb287a8612093ee40566639cd&o=&hp=1"
 language: en
 slug: hotel-kalemi
 address: "Rruga Bashkim Kokona 14, 6001 Gjirokastër, Albania"

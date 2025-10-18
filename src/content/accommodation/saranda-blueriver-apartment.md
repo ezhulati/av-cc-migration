@@ -1,7 +1,7 @@
 ---
 title: "Saranda Blueriver apartment"
 description: "Saranda Blueriver Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/saranda-blueriver-apartment-504215764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504215764.jpg?k=6fc6db154bcc2d3509119da9d100b5178659b518063751936ebce269cb9fcba7&o=&hp=1"
 language: en
 slug: saranda-blueriver-apartment
 address: "V22F+V66, Rr.Sarande - Butrint, km3, Sarande 9701, Albanie 501,502, 9701 Sarandë, Albania"

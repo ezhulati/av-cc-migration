@@ -1,7 +1,7 @@
 ---
 title: "Blue Cottage"
 description: "Blue Cottage emerges as a serene retreat in the heart of Vlorë County, Kalive Gjoka, offering guests a tranquil escape with the convenience of modern amenities."
-featuredImage: "/images/accommodation/blue-cottage-474722408.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474722408.jpg?k=ede1b2a0d44b722bc26466ed13382a6f118fc040510fd91792f1bca99bc48aba&o=&hp=1"
 language: en
 slug: blue-cottage
 address: "Plazhi Pasqyra, 9706 Kalive Gjoka, Albania"

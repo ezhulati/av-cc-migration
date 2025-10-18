@@ -1,7 +1,7 @@
 ---
 title: "Amfora apartments"
 description: "Amfora Apartments emerges as a serene haven for travelers seeking the perfect blend of coastal charm and comfort in Lezhë."
-featuredImage: "/images/accommodation/amfora-apartments-AAcHTtc8eVlo.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtc8eVloq6SKyl9vhE9G3QE8DN_YUm9o12aHjgp5Rjqn=s96-c64"
 language: en
 slug: amfora-apartments
 address: "Rana Hedhun Shengjin, 4501 Lezhë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartment Comfort Home"
 description: "Tirana Apartment Comfort Home emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-apartment-comfort-home-490150176.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490150176.jpg?k=0105ba81221ce4f192aac86f4a27b85c120a3dcb4d57aeb5411140293d3403a6&o=&hp=1"
 language: en
 slug: tirana-apartment-comfort-home
 address: "Rruga Ali Demi, 1004 Tirana, Albania"

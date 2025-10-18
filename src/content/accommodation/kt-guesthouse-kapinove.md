@@ -1,7 +1,7 @@
 ---
 title: "KT Guesthouse Kapinove"
 description: "KT Guesthouse Kapinove emerges as a charming retreat in the heart of Kapinovë, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/kt-guesthouse-kapinove-310224581.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310224581.jpg?k=260263f7eb23b814bd08152da01bf166be9a88b47f5827dffc2496dd2d3a4d9c&o=&hp=1"
 language: en
 slug: kt-guesthouse-kapinove
 address: "Kapinove, 5401 Kapinovë, Albania"

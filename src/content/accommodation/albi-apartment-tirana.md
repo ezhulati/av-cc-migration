@@ -1,7 +1,7 @@
 ---
 title: "Albi Apartment Tirana"
 description: "Albi Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/albi-apartment-tirana-521700560.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521700560.jpg?k=3b7488f8556c009922f8314f16154b01282fdab3d37b747bb337e434337bda1b&o=&hp=1"
 language: en
 slug: albi-apartment-tirana
 address: "Rruga Hafiz Ibrahim Dalliu, 1000 Tirana, Albania"

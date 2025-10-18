@@ -1,7 +1,7 @@
 ---
 title: "Pine Trees Veranda"
 description: "Pine Trees Veranda emerges as a prime choice for travelers seeking a serene beachfront escape in Golem."
-featuredImage: "/images/accommodation/pine-trees-veranda-479262820.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479262820.jpg?k=0df7f7a60789c96f33044f9d3c9331f308e9b92dc35f2276e86827a0e38e8024&o=&hp=1"
 language: en
 slug: pine-trees-veranda
 address: "Bulevardi i Pishave, Golem, Albania"

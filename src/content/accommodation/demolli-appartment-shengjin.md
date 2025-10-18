@@ -1,7 +1,7 @@
 ---
 title: "Demolli appartment Shengjin"
 description: "Demolli Apartment Shengjin emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shëngjin."
-featuredImage: "/images/accommodation/demolli-appartment-shengjin-481592772.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481592772.jpg?k=e657b87593e06d77adc492d2a0fa979c22fa56e0b86b2994de2882f501ed9a3e&o=&hp=1"
 language: en
 slug: demolli-appartment-shengjin
 address: "Rruga Lezhë - Shëngjin, 4503 Shëngjin, Albania"

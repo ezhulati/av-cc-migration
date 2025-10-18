@@ -1,7 +1,7 @@
 ---
 title: "Guest House Solive"
 description: "Guest House Solive, situated along the stunning Albanian Riviera, presents an inviting retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/guest-house-solive-197441753.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197441753.jpg?k=b43b1165364ac612d9296042ca9ee05746ac8d1c4fcd6f0bd2851098ffeeafec&o=&hp=1"
 language: en
 slug: guest-house-solive
 address: "Potam, 4000 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kalemi Apartments"
 description: "Kalemi Apartments emerges as a prime choice for travelers seeking comfort and convenience in Qazim Pali, situated a mere stone's throw away from the pristine Borsh Beach and within a scenic drive from the historic Butrint National Park."
-featuredImage: "/images/accommodation/kalemi-apartments-388179650.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388179650.jpg?k=3491b0d965f7e38792d82dcf9c494f1cda448c50ee89e9451f3c1593b607eaa7&o=&hp=1"
 language: en
 slug: kalemi-apartments
 address: "2VJC+R38 Qazim Pali, Albania, 9713 Qazim Pali, Albania"

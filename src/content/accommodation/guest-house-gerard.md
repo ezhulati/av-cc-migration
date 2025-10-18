@@ -1,7 +1,7 @@
 ---
 title: "Guest House Gerard"
 description: "Guest House Gerard emerges as a charming retreat for travelers seeking both tranquility and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/guest-house-gerard-423133907.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423133907.jpg?k=686976fe0b9c80a57bbb7fa018816ed7fcc84cd2806682e1356b3f3dabee36c7&o=&hp=1"
 language: en
 slug: guest-house-gerard
 address: "Rruga Hoxha Tahsin, 9703 Ksamil, Albania"

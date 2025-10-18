@@ -1,7 +1,7 @@
 ---
 title: "Rita's Home"
 description: "Rita's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/rita-s-home-401876993.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401876993.jpg?k=70155fc1de5383397c41b26500d0b01cb199856c5bba546a248a3f8c2f809c6b&o=&hp=1"
 language: en
 slug: rita-s-home
 address: "Rruga Lidhja e Prizrenit, 1019 Tirana, Albania"

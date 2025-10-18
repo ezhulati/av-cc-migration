@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment in Tirana"
 description: "Luxury Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/luxury-apartment-in-tirana-363996040.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363996040.jpg?k=69a30d4429ff597bbb99c4ede84e974f37307d01381bbf4e070056840a30f797&o=&hp=1"
 language: en
 slug: luxury-apartment-in-tirana
 address: "Rruga Don Bosko, 1001 Tirana, Albania"

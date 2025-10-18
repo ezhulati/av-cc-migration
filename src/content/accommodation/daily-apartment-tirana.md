@@ -1,7 +1,7 @@
 ---
 title: "Daily Apartment Tirana"
 description: "Daily Apartment Tirana emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "/images/accommodation/daily-apartment-tirana-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: daily-apartment-tirana
 address: "Rruga Jorgo Plaku, 1001 Tirana, Albania"

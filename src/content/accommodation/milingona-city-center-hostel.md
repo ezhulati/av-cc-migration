@@ -1,7 +1,7 @@
 ---
 title: "Milingona City Center Hostel"
 description: "Milingona City Center Hostel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/milingona-city-center-hostel-205615956.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205615956.jpg?k=a7b78d547bf1b906f1832cbd58522dba562677426fad473f28f422b0a16392c8&o=&hp=1"
 language: en
 slug: milingona-city-center-hostel
 address: "Vehbi Agolli, villa 11, 1000 Tirana, Albania"

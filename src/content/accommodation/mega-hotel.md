@@ -1,7 +1,7 @@
 ---
 title: "Mega Hotel"
 description: "Mega Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "/images/accommodation/mega-hotel-477169405.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477169405.jpg?k=7514a6e0dbbfc1e91047b7139ba380068ee477f2407a198b0bb7dd589c9b39df&o=&hp=1"
 language: en
 slug: mega-hotel
 address: "Rruga Tepelenë - Gjirokastër - Janinë, 6001 Gjirokastër, Albania"

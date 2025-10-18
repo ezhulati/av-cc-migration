@@ -1,7 +1,7 @@
 ---
 title: "Guest House Bashaj"
 description: "Guest House Bashaj emerges as a serene retreat for travelers seeking a blend of comfort and adventure, situated approximately 45 km from the historic landmarks of Kuzum Baba and Independence Square."
-featuredImage: "/images/accommodation/guest-house-bashaj-AFdZucrzdVps.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AFdZucrzdVps4JX4jpWA8e2M75Tc1lY5FOS69FOK3sBKUQ=s96-c64"
 language: en
 slug: guest-house-bashaj
 address: "Bashaj Village, 9401 Bashaj, Albania"

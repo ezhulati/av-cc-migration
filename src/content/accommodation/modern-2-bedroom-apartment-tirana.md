@@ -1,7 +1,7 @@
 ---
 title: "Modern 2 Bedroom Apartment Tirana"
 description: "Modern 2 Bedroom Apartment Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/modern-2-bedroom-apartment-tirana-408221735.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408221735.jpg?k=df2e8500ffa3b7ed6bbfe0460bc72c42a0e9e9d68f451c03880bcf70b67384fe&o=&hp=1"
 language: en
 slug: modern-2-bedroom-apartment-tirana
 address: "Rruga Artan Lenja, Kompleksi Magnet, Pallati Perseus, Ap 2032, 1021 Tirana, Albania"

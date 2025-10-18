@@ -1,7 +1,7 @@
 ---
 title: "Blue Eye Apartment"
 description: "Blue Eye Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/blue-eye-apartment-486553101.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486553101.jpg?k=b95cc086317ff9df00b6c60013537bd26eb5f55c36bda31b5c6d0be8136fa410&o=&hp=1"
 language: en
 slug: blue-eye-apartment
 address: "Rruga Qazim Demi 15/362, Vista View A13, 9701 Sarandë, Albania"

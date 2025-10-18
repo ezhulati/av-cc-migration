@@ -1,7 +1,7 @@
 ---
 title: "Woodland"
 description: "Woodland emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "/images/accommodation/woodland-photo.jpg64.jpg"
+featuredImage: "https://lh5.googleusercontent.com/-FSPu7B9zWLA/AAAAAAAAAAI/AAAAAAAAAZg/MjjLm_GvOXQ/photo.jpg64"
 language: en
 slug: woodland
 address: "Bulevardi Republika, 5001 Berat, Albania"

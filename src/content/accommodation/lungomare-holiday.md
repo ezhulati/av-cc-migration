@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Holiday"
 description: "Lungomare Holiday emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/lungomare-holiday-463587964.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463587964.jpg?k=76902362b9657a042fea33c89bb1d6b11083ee1840e631a1589510a4657df5e6&o=&hp=1"
 language: en
 slug: lungomare-holiday
 address: "Vlore - Kanine, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Eka Luxury City Center Apartments"
 description: "Eka Luxury City Center Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/eka-luxury-city-center-apartments-516300870.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516300870.jpg?k=090c386ef555c3bf2ff9baca95523a722bb434bf465800eafbc951eb9c14f835&o=&hp=1"
 language: en
 slug: eka-luxury-city-center-apartments
 address: "Rruga Dervish Hekali, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury Seaview Vlora Flat Free Parking"
 description: "Luxury Seaview Vlora Flat Free Parking emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/luxury-seaview-vlora-flat-free-parking-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: luxury-seaview-vlora-flat-free-parking
 address: "Rruga Murat Tërbaçi, 9404 Vlorë, Albania"

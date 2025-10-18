@@ -1,7 +1,7 @@
 ---
 title: "Aurora appartment"
 description: "Aurora Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/aurora-appartment-462767702.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462767702.jpg?k=b9b88731dc038cfafd957a557fbfdebd235331b73d5930ff3c3f74aa9083c58b&o=&hp=1"
 language: en
 slug: aurora-appartment
 address: "Street \"Tish Dahia\" no.49 Stair 4; 5-th floor, 1060 Tirana, Albania"

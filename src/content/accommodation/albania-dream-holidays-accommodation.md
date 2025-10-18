@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Holidays Accommodation"
 description: "Albania Dream Holidays Accommodation emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/albania-dream-holidays-accommodation-359958988.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359958988.jpg?k=4249720999afedd8bc7c12ff86266d853aaa3a6574057ac28739d9093a7d26b3&o=&hp=1"
 language: en
 slug: albania-dream-holidays-accommodation
 address: "Rruga 40 Shenjtoret, 9700 Sarandë, Albania"

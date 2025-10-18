@@ -1,7 +1,7 @@
 ---
 title: "Sardi Apartments"
 description: "Sardi Apartments emerges as a serene retreat in the heart of Ksamil, boasting a lush garden setting mere steps from the pristine Sunset Beach."
-featuredImage: "/images/accommodation/sardi-apartments-389659173.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389659173.jpg?k=9879b580324a6a3f9a07d79d48abc46e71a04336e23df5c6af0e028ad70b4011&o=&hp=1"
 language: en
 slug: sardi-apartments
 address: "Rruga Liqeni, 9706 Ksamil, Albania"

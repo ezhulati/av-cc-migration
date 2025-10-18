@@ -1,7 +1,7 @@
 ---
 title: "Room Studio Deluxe (Priam App)"
 description: "Room Studio Deluxe (Priam App) emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/room-studio-deluxe-priam-app-520386232.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520386232.jpg?k=c4fb7ae58a7ffefd0c2fcd372dda71d6d13112b04675336f75eeb5dc70bee2ba&o=&hp=1"
 language: en
 slug: room-studio-deluxe-priam-app
 address: "Rruga Muhamet Gjollesha, 1001 Tirana, Albania"

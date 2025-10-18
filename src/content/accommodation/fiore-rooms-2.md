@@ -1,7 +1,7 @@
 ---
 title: "Fiore Rooms 2"
 description: "Fiore Rooms 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/fiore-rooms-2-AAcHTtfKffvy.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtfKffvy4VgmngVFCPjZU7qO5eTg3lhCeHC1dA-1CNlj=s96-c64"
 language: en
 slug: fiore-rooms-2
 address: "Rruga Riviera, 9706 Ksamil, Albania"

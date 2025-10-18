@@ -1,7 +1,7 @@
 ---
 title: "Posh villa 1"
 description: "Posh Villa 1 emerges as a premier choice for travelers seeking the perfect blend of comfort and convenience, located just steps from the pristine Spille Beach and a short drive from the iconic Rock of Kavaje."
-featuredImage: "/images/accommodation/posh-villa-1-477249885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477249885.jpg?k=e43d9b8d63396dcdaba805b96c7922261807a50341af6c1096bb1c46cfb1c0ee&o=&hp=1"
 language: en
 slug: posh-villa-1
 address: "spille, 2001 Kavajë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rondine Studio Apartment"
 description: "Rondine Studio Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a glimpse into the city's heartbeat."
-featuredImage: "/images/accommodation/rondine-studio-apartment-photo.jpg64.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-WJMd15NfqD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJOtrenMD-e0yZ_iabpU2sdXFbEQ/s96-c/photo.jpg64"
 language: en
 slug: rondine-studio-apartment
 address: "Rruga Bardhyl Shkalla 2, Apt. 15, 1005 Tirana, Albania"

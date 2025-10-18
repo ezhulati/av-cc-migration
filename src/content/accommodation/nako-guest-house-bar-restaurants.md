@@ -1,7 +1,7 @@
 ---
 title: "Nako Guest House bar&restaurants"
 description: "Nako Guest House Bar & Restaurants emerges as a serene retreat in the heart of Përmet, offering guests a blend of comfort and convenience with its air-conditioned accommodations."
-featuredImage: "/images/accommodation/nako-guest-house-bar-restaurants-214943987.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214943987.jpg?k=367012f04c45b4836287175d97e433027fa4774081f7ddc562b0946c6501cc23&o=&hp=1"
 language: en
 slug: nako-guest-house-bar-restaurants
 address: "Shëtitorja Mentor Xhemali Floor2, 6401 Përmet, Albania"

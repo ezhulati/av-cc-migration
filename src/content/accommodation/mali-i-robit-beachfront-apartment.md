@@ -1,7 +1,7 @@
 ---
 title: "Mali i Robit Beachfront Apartment"
 description: "Mali i Robit Beachfront Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Golem."
-featuredImage: "/images/accommodation/mali-i-robit-beachfront-apartment-259647093.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259647093.jpg?k=d63a88b6d7f1ff9985c9d74bc8ca6dd8b64d050e387a77141c6dd8570e983192&o=&hp=1"
 language: en
 slug: mali-i-robit-beachfront-apartment
 address: "2020 Rruga Skënderbeu, 2020 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Globe apartement"
 description: "Globe Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/globe-apartement-496329084.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496329084.jpg?k=4d91eab1558a82b543f6ba53cc89ee6deba3f48869d2a73810d6d741576d533e&o=&hp=1"
 language: en
 slug: globe-apartement
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

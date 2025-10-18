@@ -1,7 +1,7 @@
 ---
 title: "Apartament 2+1 Tirane ,BLANC 8"
 description: "Discover the charm of Tirana from the comfort of Apartament 2+1 Tirane, BLANC 8, a prime location merely steps away from the vibrant Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/apartament-2-1-tirane-blanc-8-427486999.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427486999.jpg?k=a910cc8ee66a0b27235b5cb7438d420873768b69abfed1ec328d0530b4a4638f&o=&hp=1"
 language: en
 slug: apartament-2-1-tirane-blanc-8
 address: "Rruga Abdulla Keta, Tirana, Albania"

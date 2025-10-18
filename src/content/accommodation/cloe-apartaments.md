@@ -1,7 +1,7 @@
 ---
 title: "Cloe apartaments"
 description: "Cloe Apartments emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a short stroll from the serene Vjetër Beach and within easy walking distance to the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/cloe-apartaments-479518174.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479518174.jpg?k=67f165c40d771d4fedd74a34397df2b785b14ba5665305a94726bc97ca22ca72&o=&hp=1"
 language: en
 slug: cloe-apartaments
 address: "Rruga Cajupi Piano 7, 9402 Vlorë, Albania"

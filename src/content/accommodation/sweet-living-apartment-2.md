@@ -1,7 +1,7 @@
 ---
 title: "Sweet Living Apartment 2"
 description: "Sweet Living Apartment 2 emerges as a serene retreat in the vibrant heart of Shkodër, situated a mere 49 km away from the bustling Port of Bar."
-featuredImage: "/images/accommodation/sweet-living-apartment-2-460120522.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460120522.jpg?k=2536b3e136c3effb61001c3ae76df0d08f99d9d67e466d8a8fb74483cba297c1&o=&hp=1"
 language: en
 slug: sweet-living-apartment-2
 address: "Rruga Oso Kuka, 4001 Shkodër, Albania"

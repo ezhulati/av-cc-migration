@@ -1,7 +1,7 @@
 ---
 title: "Stela's Apartment"
 description: "Stela's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Korçë, situated equidistant from the serene Ohrid Lake Springs and the historic Monastery Saint Naum, both 43 km away."
-featuredImage: "/images/accommodation/stela-s-apartment-133560442.we.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/133560442.webp?k=9f3c868941685d536e2392b74a70e00285841172d935c5022b7a3f3fdc32de75&o=?t=1632395483"
 language: en
 slug: stela-s-apartment
 address: "Rruga Midhi Kostani, Lgj. 9, Pallati 7 katesh, A/6, 7002 Korçë, Albania"

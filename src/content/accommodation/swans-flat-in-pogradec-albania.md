@@ -1,7 +1,7 @@
 ---
 title: "Swans flat in Pogradec, albania"
 description: "Swans Flat in Pogradec, Albania, emerges as a serene retreat for travelers seeking both adventure and tranquility."
-featuredImage: "/images/accommodation/swans-flat-in-pogradec-albania-472820019.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472820019.jpg?k=c60257bc24cb86d20539e1a6a49687df108b201a85a659e72969cddb24d4d9bf&o=&hp=1"
 language: en
 slug: swans-flat-in-pogradec-albania
 address: "pallati 176, lagjja 2, pogradec,, 7301 Pogradec, Albania"

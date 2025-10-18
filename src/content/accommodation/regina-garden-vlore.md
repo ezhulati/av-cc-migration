@@ -1,7 +1,7 @@
 ---
 title: "Regina Garden Vlore"
 description: "Regina Garden Vlore emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/regina-garden-vlore-299783654.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299783654.jpg?k=df0158474b89b97d022aec3b9dd8d708eb030a0125b34f6efd1f7963b87e56d0&o=&hp=1"
 language: en
 slug: regina-garden-vlore
 address: "Rruga Çamëria Universiteti \"Ismail Qemali\", Vlore, 9401 Vlorë, Albania"

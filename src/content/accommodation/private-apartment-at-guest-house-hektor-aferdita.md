@@ -1,7 +1,7 @@
 ---
 title: "Private Apartment at Guest House Hektor & Aferdita"
 description: "Discover the charm of Vlorë with a stay at Private Apartment at Guest House Hektor & Aferdita, a prime choice for travelers seeking both tranquility and convenience."
-featuredImage: "/images/accommodation/private-apartment-at-guest-house-hektor-aferdita-306351913.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306351913.jpg?k=a772079c0e2e7376acc8c0cee52a7a83dad55559dfc96354f53dcf8190a0f9bb&o=&hp=1"
 language: en
 slug: private-apartment-at-guest-house-hektor-aferdita
 address: "Rruga Francesko Krispi, 9401 Vlorë, Albania"

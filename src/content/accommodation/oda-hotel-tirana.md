@@ -1,7 +1,7 @@
 ---
 title: "Oda Hotel Tirana"
 description: "Oda Hotel Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/oda-hotel-tirana-199555694.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199555694.jpg?k=850d90962a5da54442637e0ecbb63779974b9cdbcda3773e929bfc4e4cd76798&o=&hp=1"
 language: en
 slug: oda-hotel-tirana
 address: "Bulevardi Bajram Curri 56, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Vlore con Garage privato 2"
 description: "Lungomare Vlore con Garage Privato 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/lungomare-vlore-con-garage-privato-2-photo.jpg64.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-t9z1QLnszGY/AAAAAAAAAAI/AAAAAAAAABs/TRuqfJiaJuU/s96-c/photo.jpg64"
 language: en
 slug: lungomare-vlore-con-garage-privato-2
 address: "Rruga Aristill Kokoshi, 9401 Vlorë, Albania"

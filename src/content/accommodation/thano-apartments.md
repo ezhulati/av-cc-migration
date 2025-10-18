@@ -1,7 +1,7 @@
 ---
 title: "Thano Apartments"
 description: "Thano Apartments emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/thano-apartments-300200079.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300200079.jpg?k=93f152b03d3eef1ef590471e7243496e48697206d30ac77db8489d4f76a51d7d&o=&hp=1"
 language: en
 slug: thano-apartments
 address: "Rruga Reshat Osmani, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Malasi Apartments Ksamil"
 description: "Malasi Apartments Ksamil emerges as a prime choice for travelers seeking a serene getaway, just a stone's throw away from the pristine Sunset Beach."
-featuredImage: "/images/accommodation/malasi-apartments-ksamil-435247822.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435247822.jpg?k=e5aefb4c46822b1a1bd029a8a188dcf552483ede62e194576b67cce3ee69d3ee&o=&hp=1"
 language: en
 slug: malasi-apartments-ksamil
 address: "Eqerem Çabej -, 9706 Ksamil, Albania"

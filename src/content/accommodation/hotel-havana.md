@@ -1,7 +1,7 @@
 ---
 title: "Hotel Havana"
 description: "Hotel Havana stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short stroll from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/hotel-havana-374315742.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374315742.jpg?k=705b28ff5706e7b2f201388fb77b24896fe5b79062cc022d2421c4bfea230412&o=&hp=1"
 language: en
 slug: hotel-havana
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

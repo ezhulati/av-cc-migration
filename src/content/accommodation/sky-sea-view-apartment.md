@@ -1,7 +1,7 @@
 ---
 title: "Sky&Sea View Apartment"
 description: "Sky&Sea View Apartment emerges as a prime choice for travelers seeking a beachfront haven in Durrës, mere steps away from the pristine Currila Beach and a short distance from the vibrant Kallmi Beach."
-featuredImage: "/images/accommodation/sky-sea-view-apartment-41b962c4f1fc.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
 language: en
 slug: sky-sea-view-apartment
 address: "1 Rruga Taulantia 18th floor, 2001 Durrës, Albania"

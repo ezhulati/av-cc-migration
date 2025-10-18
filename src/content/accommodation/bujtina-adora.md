@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Adora"
 description: "Bujtina Adora emerges as a serene retreat in Ara të Lumit, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/bujtina-adora-467372009.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467372009.jpg?k=de712cb1af2e117b37bef685922c153839e5d2a6df2a99af8495625e41e7dd52&o=&hp=1"
 language: en
 slug: bujtina-adora
 address: "Dushaj, Tropojë, Ara të Lumit, Albania"

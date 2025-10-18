@@ -1,7 +1,7 @@
 ---
 title: "Coral Paradise Apartament in the first line of the sea"
 description: "Coral Paradise Apartment emerges as a prime choice for travelers seeking the quintessence of coastal living right on the first line of the sea in Sarandë."
-featuredImage: "/images/accommodation/coral-paradise-apartament-in-the-first-line-of-the-sea-495660604.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495660604.jpg?k=0a590a4258d3251ee389af0946a23a6cf3bb7f0ba69bef42cb4490ba42599ceb&o=&hp=1"
 language: en
 slug: coral-paradise-apartament-in-the-first-line-of-the-sea
 address: "Rruga Butrinti 4 flor, Sarandë, Albania"

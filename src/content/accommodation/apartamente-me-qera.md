@@ -1,7 +1,7 @@
 ---
 title: "Apartamente me Qera."
 description: "Discover the charm of Pogradec with a stay at Apartamente me Qera, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/apartamente-me-qera-512628290.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512628290.jpg?k=d4654457baa435a9cc0e1735f21c34136589ae4c3f26adad7b47f3be902a920d&o=&hp=1"
 language: en
 slug: apartamente-me-qera
 address: "Rr. Lyhnida L1, 7301 Pogradec, Albania"

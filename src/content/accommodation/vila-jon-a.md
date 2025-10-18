@@ -1,7 +1,7 @@
 ---
 title: "Vila Jon'a"
 description: "Vila Jon'a emerges as a standout choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/vila-jon-a-438834204.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438834204.jpg?k=7a8b168a9ffb2411aec3e4e716e1e3954d7e6b87a42d92a96b91f7ad6aef990e&o=&hp=1"
 language: en
 slug: vila-jon-a
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

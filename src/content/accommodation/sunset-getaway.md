@@ -1,7 +1,7 @@
 ---
 title: "Sunset Getaway"
 description: "Sunset Getaway emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated merely 500 meters from the serene Liro Beach and a short stroll from the exclusive Beach at Government Villas."
-featuredImage: "/images/accommodation/sunset-getaway-477284580.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477284580.jpg?k=c39003cb36301a2799bbc99714cdd3993c686cd1fa4b53925808707a36dcbdba&o=&hp=1"
 language: en
 slug: sunset-getaway
 address: "Rruga Aleksandër Moisiu, 4th floor, 9400 Vlorë, Albania"

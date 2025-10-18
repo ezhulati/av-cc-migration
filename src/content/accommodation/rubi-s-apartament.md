@@ -1,7 +1,7 @@
 ---
 title: "Rubi's apartament"
 description: "Rubi's Apartment emerges as a serene retreat in Korçë, situated a mere 43 km from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/rubi-s-apartament-509965105.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509965105.jpg?k=2ec4b890beb6dcf6ad18ebaefcd247f4fe0e9474d99584dbb4ba73c4e7b062cf&o=&hp=1"
 language: en
 slug: rubi-s-apartament
 address: "Rruga Anesti Balashi, 7001 Korçë, Albania"

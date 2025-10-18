@@ -1,7 +1,7 @@
 ---
 title: "Eja Apartment 1"
 description: "Eja Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/eja-apartment-1-499722905.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499722905.jpg?k=7d0e40a2bd7d62c5db0a14cd577b357e66e63cc0dd4b0c78d30645e942dbd69c&o=&hp=1"
 language: en
 slug: eja-apartment-1
 address: "Rruga Petro Marko, 1001 Tirana, Albania"

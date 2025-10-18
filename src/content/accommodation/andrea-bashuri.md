@@ -1,7 +1,7 @@
 ---
 title: "Andrea Bashuri"
 description: "Andrea Bashuri emerges as a prime choice for travelers seeking comfort and convenience in Divjakë, located just 43 km from the iconic Rock of Kavaje."
-featuredImage: "/images/accommodation/andrea-bashuri-193740176.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193740176.jpg?k=ad1b48c286585d06a40078ef07daab38883c50adc25e1df424c900279689ac07&o=&hp=1"
 language: en
 slug: andrea-bashuri
 address: "Rr.\"Kryezimit\" Nd.2,H2, 9022 Divjakë, Albania"

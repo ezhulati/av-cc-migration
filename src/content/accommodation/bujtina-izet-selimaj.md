@@ -1,7 +1,7 @@
 ---
 title: "BUJTINA IZET SELIMAj"
 description: "Discover the serene beauty of Valbonë with a stay at BUJTINA IZET SELIMAj, a charming guest house that promises breathtaking mountain views right from your window."
-featuredImage: "/images/accommodation/bujtina-izet-selimaj-465195866.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465195866.jpg?k=5cbf6156851455f0398f87b7d8b607a5d66869bb7781331f8af07a3f5f72f861&o=&hp=1"
 language: en
 slug: bujtina-izet-selimaj
 address: "Rruga Azem Hajdari 8, 8701 Valbonë, Albania"

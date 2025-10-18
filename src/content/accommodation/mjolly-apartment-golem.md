@@ -1,7 +1,7 @@
 ---
 title: "Mjolly Apartment Golem"
 description: "Mjolly Apartment Golem emerges as a serene retreat in the heart of Golem, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/mjolly-apartment-golem-485063247.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485063247.jpg?k=6489deec55611f911e8ca960ba8ef07e4513dc4d93c53807f9927e344363400e&o=&hp=1"
 language: en
 slug: mjolly-apartment-golem
 address: "Rruga Kristal Ap no.17, 4th floor, 1000 Golem, Albania"

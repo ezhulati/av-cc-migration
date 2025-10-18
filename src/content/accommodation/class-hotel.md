@@ -1,7 +1,7 @@
 ---
 title: "CLASS Hotel"
 description: "CLASS Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Ksamil, Vlorë County."
-featuredImage: "/images/accommodation/class-hotel-362841175.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362841175.jpg?k=f037bc251ec179397ddce6a6494ad31f05ca0c2cdedc97b7d0cb2c042433fdbc&o=&hp=1"
 language: en
 slug: class-hotel
 address: "Rruga Butrinti 12 Lagjia 2, 9706 Ksamil, Albania"

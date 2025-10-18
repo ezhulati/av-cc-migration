@@ -1,7 +1,7 @@
 ---
 title: "ALPHA CITY CENTER APARTMENT"
 description: "Alpha City Center Apartment offers a prime location in Shkodër, complemented by the convenience of complimentary WiFi accessible across the premises."
-featuredImage: "/images/accommodation/alpha-city-center-apartment-482174427.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482174427.jpg?k=2bce2201e44d2d065dfb3f87ba1f489b1d1946c6ab137bb3f1c04ee58037aa6f&o=&hp=1"
 language: en
 slug: alpha-city-center-apartment
 address: "Rruga Qemal Draçini, 4001 Shkodër, Albania"

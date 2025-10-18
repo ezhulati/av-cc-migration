@@ -1,7 +1,7 @@
 ---
 title: "VILA D"
 description: "VILA D stands out as a prime choice for travelers seeking a serene getaway with breathtaking lake views in Sarandë."
-featuredImage: "/images/accommodation/vila-d-450747764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450747764.jpg?k=b0e5263d96a20498f947b580990d3bf76cecd5e456722dc8ef073d756f91fdc8&o=&hp=1"
 language: en
 slug: vila-d
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

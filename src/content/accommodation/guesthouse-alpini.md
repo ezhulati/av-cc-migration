@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Alpini"
 description: "Guesthouse Alpini emerges as a serene retreat in the heart of Lëpushë, situated within the picturesque Shkoder County."
-featuredImage: "/images/accommodation/guesthouse-alpini-106194256.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106194256.jpg?k=15a4398208fa6bf3715436e9cefcb9bb8c34b2104585028830ac9919ffa1cd54&o=&hp=1"
 language: en
 slug: guesthouse-alpini
 address: "Rruga Lepushe, 1000 Lëpushë, Albania"

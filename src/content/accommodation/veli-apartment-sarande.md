@@ -1,7 +1,7 @@
 ---
 title: "VELI Apartment Sarande"
 description: "VELI Apartment Sarande emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/veli-apartment-sarande-461712748.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461712748.jpg?k=702290f55bfcd377333dff436cacb7a47d8d87b9274d2f5b7b355fdec87772d4&o=&hp=1"
 language: en
 slug: veli-apartment-sarande
 address: "Rruga Mitat Hoxha, 9700 Sarandë, Albania"

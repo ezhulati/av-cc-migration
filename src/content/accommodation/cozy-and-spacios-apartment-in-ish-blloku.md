@@ -1,7 +1,7 @@
 ---
 title: "Cozy and spacios apartment in Ish Blloku"
 description: "Cozy and Spacious Apartment in Ish Blloku emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cozy-and-spacios-apartment-in-ish-blloku-507646424.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507646424.jpg?k=fbfb2c2f1eed854137c104b483ec5d6d5f1691cfcabc8bb7ffd2157dce149720&o=&hp=1"
 language: en
 slug: cozy-and-spacios-apartment-in-ish-blloku
 address: "15 Rruga Sami Frashëri, 1003 Tirana, Albania"

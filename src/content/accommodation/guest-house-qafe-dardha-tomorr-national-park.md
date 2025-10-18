@@ -1,7 +1,7 @@
 ---
 title: "Guest House Qafe Dardha - Tomorr National Park"
 description: "Guest House Qafe Dardha, located in the serene Dardhë near Tomorr National Park, offers a tranquil retreat with the convenience of modern amenities."
-featuredImage: "/images/accommodation/guest-house-qafe-dardha-tomorr-national-park-309459399.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309459399.jpg?k=45fd146b2245438e6e15427d86610612810c9e3a160715d4c25818fffdf17a7d&o=&hp=1"
 language: en
 slug: guest-house-qafe-dardha-tomorr-national-park
 address: "Rruga dardhe, 5001 Dardhë, Albania"

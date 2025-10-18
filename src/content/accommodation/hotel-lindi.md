@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lindi"
 description: "Hotel Lindi emerges as a charming retreat in the vibrant coastal town of Sarandë, southern Albania, offering guests a blend of convenience and comfort."
-featuredImage: "/images/accommodation/hotel-lindi-339460834.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339460834.jpg?k=eb7b8d36613239222c53a9cb300b756c84be3f7c1380847ccf7b52fbee2bf544&o=&hp=1"
 language: en
 slug: hotel-lindi
 address: "lagjia nr 2 ,sheshi geraldine, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Itan’s apartments"
 description: "Itan's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/itan-s-apartments-515300024.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515300024.jpg?k=2f6ae743672c40f61b9f422a212b6b46472be7ec38d585571eb3b378436ee51e&o=&hp=1"
 language: en
 slug: itan-s-apartments
 address: "Rruga Vëllezërit Manastirli, 1002 Tirana, Albania"

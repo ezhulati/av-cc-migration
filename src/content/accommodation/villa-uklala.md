@@ -1,7 +1,7 @@
 ---
 title: "Villa Uklala"
 description: "Villa Uklala emerges as a serene retreat in the heart of Kamëz, offering a perfect blend of comfort and convenience for travelers seeking a memorable stay."
-featuredImage: "/images/accommodation/villa-uklala-440607358.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440607358.jpg?k=e8e1c8760fefb39a8b07fe05bb7cf18a4096bd6cb21dccdcf6a6c792405f9567&o=&hp=1"
 language: en
 slug: villa-uklala
 address: "Rruga Marije Logoreci, 1030 Kamëz, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Essel"
 description: "Vila Essel emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the historic Monastery Saint Naum and the tranquil Ohrid Lake Springs, both located 45 km from the property."
-featuredImage: "/images/accommodation/vila-essel-314167058.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314167058.jpg?k=45ca78caa91c5bf85cc2b2836c532a53272cccd5a80a6b410a96cd68d720190b&o=&hp=1"
 language: en
 slug: vila-essel
 address: "Rruga Partizani, 7001 Korçë, Albania"

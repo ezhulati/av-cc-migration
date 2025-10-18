@@ -1,7 +1,7 @@
 ---
 title: "Bixhaku GuestHouse"
 description: "Bixhaku GuestHouse, located in the historic city of Gjirokastër, presents a serene retreat just a stone's throw away from the enchanting Zaravina Lake."
-featuredImage: "/images/accommodation/bixhaku-guesthouse-305352778.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305352778.jpg?k=388e7fcd90d0e33d649676701c83b3e0531ed66bca61b9d6a3d4f6130ec0958f&o=&hp=1"
 language: en
 slug: bixhaku-guesthouse
 address: "Rruga Hasan Xhiku, 6001 Gjirokastër, Albania"

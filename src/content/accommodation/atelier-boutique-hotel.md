@@ -1,7 +1,7 @@
 ---
 title: "Atelier Boutique Hotel"
 description: "Atelier Boutique Hotel emerges as a charming retreat in the heart of Shkodër, located a mere 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/atelier-boutique-hotel-298391290.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298391290.jpg?k=9b6e8eb3f24b3d6ad1a8fea5e8eb8a0b3a4ed54fa81b13f9ef8265f2957a4bb7&o=&hp=1"
 language: en
 slug: atelier-boutique-hotel
 address: "Rruga 28 Nentori, 4001 Shkodër, Albania"

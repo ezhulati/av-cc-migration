@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Jasmine"
 description: "Guesthouse Jasmine emerges as a charming retreat for travelers seeking both comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/guesthouse-jasmine-290721954.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290721954.jpg?k=b685fb03a34a2e723339343cda9ec3ea917df8a4a4c11b528f64a46180d94f01&o=&hp=1"
 language: en
 slug: guesthouse-jasmine
 address: "Rruga Butrinti, Ksamil, 9706 Ksamil, Albania"

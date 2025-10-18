@@ -1,7 +1,7 @@
 ---
 title: "Relax Inn"
 description: "Relax Inn emerges as a serene retreat in the heart of Korçë, offering a peaceful respite with its quiet street views, a mere 43 km away from the enchanting Monastery Saint Naum and the pristine Ohrid Lake Springs."
-featuredImage: "/images/accommodation/relax-inn-329202378.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329202378.jpg?k=8d5ccade64cf54d5ac159cec5b072bb90346aac438eae796c0a41419349a9ef1&o=&hp=1"
 language: en
 slug: relax-inn
 address: "Lagjja 12, Rruga Veteranet, nr 11, Korce, 7001 Korçë, Albania"

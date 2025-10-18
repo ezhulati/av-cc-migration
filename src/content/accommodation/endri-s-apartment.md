@@ -1,7 +1,7 @@
 ---
 title: "Endri’s apartment"
 description: "Endri's Apartment in Vlorë presents a refreshing retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/endri-s-apartment-468463614.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468463614.jpg?k=f40144629451ec07cb69db2c0814698ca2130087b2368a5bfde34cc4f8e7b2e4&o=&hp=1"
 language: en
 slug: endri-s-apartment
 address: "Rruga SAZANI Nd. 34/1, H.12, Ap. 46, 9403 Vlorë, Albania"

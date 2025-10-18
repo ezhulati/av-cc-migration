@@ -1,7 +1,7 @@
 ---
 title: "Kristina Mitllari 2"
 description: "Kristina Mitllari 2 emerges as a serene retreat in Pogradec, offering guests a unique vantage point with its river view accommodations, just a short distance from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/kristina-mitllari-2-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: kristina-mitllari-2
 address: "Tushemisht, Pogradec, Albania"

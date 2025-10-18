@@ -1,7 +1,7 @@
 ---
 title: "Panoramic Vlachos"
 description: "Panoramic Vlachos emerges as a serene retreat for travelers seeking both comfort and adventure in the heart of Gjirokastër, merely 45 km away from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/panoramic-vlachos-468419689.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468419689.jpg?k=90a0c6f942f17ed451cb3e7995a41425990d142eb80e009ca0309c04392f16b7&o=&hp=1"
 language: en
 slug: panoramic-vlachos
 address: "Rruga Partizani, Gjirokastër, Albania"

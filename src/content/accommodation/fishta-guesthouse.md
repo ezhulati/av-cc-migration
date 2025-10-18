@@ -1,7 +1,7 @@
 ---
 title: "Fishta Guesthouse"
 description: "Fishta Guesthouse emerges as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/fishta-guesthouse-487958359.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487958359.jpg?k=cb637a79c7d0075a14669a7e84b45d54a8c3c233de2243a28ff540413802af67&o=&hp=1"
 language: en
 slug: fishta-guesthouse
 address: "Rruga Lezhë - Vau i Dejës 0, 4505 Fishtë, Albania"

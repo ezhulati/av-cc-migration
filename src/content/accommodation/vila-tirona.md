@@ -1,7 +1,7 @@
 ---
 title: "Vila Tirona"
 description: "Vila Tirona emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/vila-tirona-361579069.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361579069.jpg?k=d2ad8e3537ee3d77f73ff77aeb6c21aa5bf55d7320736f5e58a1b23a635c5627&o=&hp=1"
 language: en
 slug: vila-tirona
 address: "Rruga Agaveve, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartament 27"
 description: "Comfort Apartament 27 emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."
-featuredImage: "/images/accommodation/comfort-apartament-27-476748235.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476748235.jpg?k=bb192abd1f6aed7abdf0c981b3615131d5feb9787e40b363aa6f6ff4c9bf53b5&o=&hp=1"
 language: en
 slug: comfort-apartament-27
 address: "Comfort Apartament durres, 2005 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Herta Apartment"
 description: "Herta Apartment emerges as a distinguished choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "/images/accommodation/herta-apartment-866dca38dcc3.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
 language: en
 slug: herta-apartment
 address: "Rruga Mihal Komnena, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely new apartment near the historic center."
 description: "Discover the charm of Vlorë with a stay at this delightful new apartment, perfectly positioned just a short stroll from the historic center and a mere 2."
-featuredImage: "/images/accommodation/lovely-new-apartment-near-the-historic-center-479423654.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479423654.jpg?k=537dd7f0e6953f86cba9a8225d389dae02d3b7089becb58e005827f11244fed1&o=&hp=1"
 language: en
 slug: lovely-new-apartment-near-the-historic-center
 address: "Rruga Jeronim de Rada H 2, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment near the sea"
 description: "Apartment near the sea, located in the vibrant city of Vlorë, offers guests a refreshing retreat with its air-conditioned spaces and private balcony."
-featuredImage: "/images/accommodation/apartment-near-the-sea-488242556.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488242556.jpg?k=554e86a347962fe16d12027c03b092ba2c0950b11d468173b9fe29b6ed74befb&o=&hp=1"
 language: en
 slug: apartment-near-the-sea
 address: "FF4H+9G7, Rr. Sazani, Vlorë, 9401 Vlorë, Albania"

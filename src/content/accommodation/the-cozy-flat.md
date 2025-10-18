@@ -1,7 +1,7 @@
 ---
 title: "The cozy flat"
 description: "The Cozy Flat emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/the-cozy-flat-485252204.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485252204.jpg?k=d1505f5024d6ed753937a336c89c8071bfac5f9f432ab84174862839ea0aaafd&o=&hp=1"
 language: en
 slug: the-cozy-flat
 address: "RRUGA BARIKADAVE, PALL. 4, SHK. 1, AP. 10, 1000 Tirana, Albania"

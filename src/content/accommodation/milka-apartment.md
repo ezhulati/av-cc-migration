@@ -1,7 +1,7 @@
 ---
 title: "Milka Apartment"
 description: "Milka Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Golem, merely a stone's throw away from the pristine Golem Beach."
-featuredImage: "/images/accommodation/milka-apartment-364757580.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364757580.jpg?k=4f5d4cd1a5f2ea77316e5f3659f71b6295e782857f6124bb14235cfe7cac938c&o=&hp=1"
 language: en
 slug: milka-apartment
 address: "Kryemedhenj, 1001 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea view Apartment Lungomare"
 description: "Sea View Apartment Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/sea-view-apartment-lungomare-494052368.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494052368.jpg?k=f9a046df7ca43e0b2ee437b8ef1d8fd485c4c4a73696a4fc557cd831c9bdc898&o=&hp=1"
 language: en
 slug: sea-view-apartment-lungomare
 address: "Rruga Dhimitër Konomi, 9400 Vlorë, Albania"

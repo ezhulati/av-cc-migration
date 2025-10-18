@@ -1,7 +1,7 @@
 ---
 title: "St Beach House"
 description: "St Beach House emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë."
-featuredImage: "/images/accommodation/st-beach-house-158533123.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158533123.jpg?k=c01a398e7857ded04f3c2ad591de37025d549ac937c77e040e011baf9773625b&o=&hp=1"
 language: en
 slug: st-beach-house
 address: "Rruga Pavlo Flloko, 9402 Vlorë, Albania"

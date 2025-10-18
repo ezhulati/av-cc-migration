@@ -1,7 +1,7 @@
 ---
 title: "Tomas Apartment"
 description: "Tomas Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/tomas-apartment-527886697.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527886697.jpg?k=cb21223a0f74aac66b07dff519cc4c7bc6ebbd29b0d3eaec05836a7c4e9294f1&o=&hp=1"
 language: en
 slug: tomas-apartment
 address: "Rruga Butrinti, 9702 Sarandë, Albania"

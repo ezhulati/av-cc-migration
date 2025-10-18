@@ -1,7 +1,7 @@
 ---
 title: "Drini Apartments"
 description: "Drini Apartments emerges as a serene haven for travelers seeking comfort and convenience in Përmet, situated within the picturesque Gjirokastër County."
-featuredImage: "/images/accommodation/drini-apartments-363033251.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363033251.jpg?k=63b1646a0f8a8eb21d95e6bdaa6a9dc4c199d48798edc0957a2e5f6bef0750cb&o=&hp=1"
 language: en
 slug: drini-apartments
 address: "Lagjia Sede, 6401 Përmet, Albania"

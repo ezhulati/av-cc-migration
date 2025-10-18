@@ -1,7 +1,7 @@
 ---
 title: "Piccolo Grande Amore"
 description: "Piccolo Grande Amore emerges as a charming bed and breakfast in the heart of Berat, boasting a delightful terrace and welcoming bar."
-featuredImage: "/images/accommodation/piccolo-grande-amore-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: piccolo-grande-amore
 address: "Rruga Rilindja L \" 10 Korriku\", 100 m from Saint Demetrius Cathedral, 5001 Berat, Albania"

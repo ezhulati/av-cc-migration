@@ -1,7 +1,7 @@
 ---
 title: "Netis Apartment"
 description: "Netis Apartment emerges as a serene retreat, offering breathtaking mountain views and a tranquil garden setting, just a short distance from the heart of the city."
-featuredImage: "/images/accommodation/netis-apartment-495607855.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495607855.jpg?k=bcc847b13ab0eeaec615df3c0b789f345563d7d86072de4bf7f7847d47b7c0dd&o=&hp=1"
 language: en
 slug: netis-apartment
 address: "Rruga Bego Hoxha, 1001 Tirana, Albania"

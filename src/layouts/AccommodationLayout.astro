@@ -49,10 +49,11 @@ const {
 const slug = accommodation.data.slug || accommodation.slug;
 
 // Process images - keep external URLs (CDN images are valid!)
-const allImages = [
+// Remove duplicates by using a Set
+const allImages = Array.from(new Set([
   featuredImage,
   ...(images || [])
-].filter(Boolean) as string[];
+].filter(Boolean))) as string[];
 
 const hasDetailedRatings = ratings && rating && rating > 0;
 ---

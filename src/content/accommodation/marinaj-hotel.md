@@ -1,7 +1,7 @@
 ---
 title: "Marinaj Hotel"
 description: "Marinaj Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/marinaj-hotel-508809795.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508809795.jpg?k=6b45fb4d6800d035a4b318688417bf8a02d56a70c3e95e9902ce9db3016232f0&o=&hp=1"
 language: en
 slug: marinaj-hotel
 address: "Rruga Teodor Keko, 1000 Tirana, Albania"

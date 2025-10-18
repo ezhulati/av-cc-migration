@@ -1,7 +1,7 @@
 ---
 title: "Vila Rexhepaj"
 description: "Vila Rexhepaj stands as a serene oasis in Vlorë, offering guests a unique blend of privacy and convenience with its private pool, complimentary WiFi, and on-site parking."
-featuredImage: "/images/accommodation/vila-rexhepaj-471425979.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471425979.jpg?k=8c65c481ac8a1b26431aaa8a86892c9e3c74c7123d706aff9a519022a26ef8ea&o=&hp=1"
 language: en
 slug: vila-rexhepaj
 address: "Ruga Sali Vranishti, 9403 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Shkodra Lake"
 description: "Apartment Shkodra Lake, located in the vibrant city of Shkodër, offers a serene retreat just 47 km away from the bustling Port of Bar."
-featuredImage: "/images/accommodation/apartment-shkodra-lake-520194201.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520194201.jpg?k=7c33f35dc8a1ce787e01aec79837a4bcf5cc4501bd204a1537045f05eb89974f&o=&hp=1"
 language: en
 slug: apartment-shkodra-lake
 address: "Rruga Mbreti Gent, 4000 Shkodër, Albania"

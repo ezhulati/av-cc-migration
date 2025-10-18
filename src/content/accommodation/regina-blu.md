@@ -1,7 +1,7 @@
 ---
 title: "Regina Blu"
 description: "Discover the hidden gem of Regina Blu, where luxury meets the serene beauty of the Ionian Sea."
-featuredImage: "/images/accommodation/regina-blu-464404582.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464404582.jpg?k=b59e57fe172b45f49a6cf87fa210041a443b5e4477aea8a9f9581ede4bcb8b63&o=&hp=1"
 language: en
 slug: regina-blu
 address: "Radhime, 9401 Vlorë, Albania"

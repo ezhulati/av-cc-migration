@@ -1,7 +1,7 @@
 ---
 title: "Vila 90 Boutique Hotel"
 description: "Vila 90 Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vila-90-boutique-hotel-478997405.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478997405.jpg?k=56a1be4135bd37404693fdfdd517a075907af95d96db0b8f605a339781060da2&o=&hp=1"
 language: en
 slug: vila-90-boutique-hotel
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

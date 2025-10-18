@@ -1,7 +1,7 @@
 ---
 title: "Shija e Natyres"
 description: "Shija e Natyres emerges as a serene retreat in Reç, offering guests a harmonious blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/shija-e-natyres-b56c632712cb.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
 language: en
 slug: shija-e-natyres
 address: "Rruga Moslit, Reç, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Diamond Hill Resort & SPA"
 description: "Diamond Hill Resort & SPA emerges as a premier destination for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/diamond-hill-resort-spa-75550299.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/75550299.jpg?k=1ffcc9dc5061ff7f4121c0dfb4596f2ce4f6aa2882554a8ea1493b8babd649a6&o=&hp=1"
 language: en
 slug: diamond-hill-resort-spa
 address: "Rruga nacionale Vlore-Sarande, Uji i Ftohte,, 9402 Vlorë, Albania"

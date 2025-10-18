@@ -1,7 +1,7 @@
 ---
 title: "Eni Apartments Tirana"
 description: "Eni Apartments Tirana emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of home in Albania's vibrant capital."
-featuredImage: "/images/accommodation/eni-apartments-tirana-495664614.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495664614.jpg?k=0accb6a5ef11b78ab03620cf02efb77e57b35716303b25f8ed70eb320ab520d5&o=&hp=1"
 language: en
 slug: eni-apartments-tirana
 address: "Rruga Alqi Kondi, Kombinat 2nd Floor, 1027 Tirana, Albania"

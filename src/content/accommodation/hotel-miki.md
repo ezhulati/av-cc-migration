@@ -1,7 +1,7 @@
 ---
 title: "Hotel Miki"
 description: "Hotel Miki emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës, located just a short 500-meter stroll from the inviting Durres Beach."
-featuredImage: "/images/accommodation/hotel-miki-204210282.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204210282.jpg?k=a1d6e48fdcf6f756b1950bb88f5df47ebcbffe29a7010a6640dad9d7a1f4ad24&o=&hp=1"
 language: en
 slug: hotel-miki
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest house"
 description: "Dragobi Guest House emerges as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/guest-house-497752425.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497752425.jpg?k=d2933bdbbcffcecfbdeedd5fa4213e0e21c5a28080f8af688c8575f49b82162b&o=&hp=1"
 language: en
 slug: guest-house
 address: "Rruga Azem Hajdari, Dragobi, Albania"

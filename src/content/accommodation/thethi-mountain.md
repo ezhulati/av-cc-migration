@@ -1,7 +1,7 @@
 ---
 title: "Thethi Mountain"
 description: "Thethi Mountain Guest House stands as a serene retreat amidst the breathtaking landscapes of Theth, offering guests a unique blend of natural beauty and comfort."
-featuredImage: "/images/accommodation/thethi-mountain-388874249.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388874249.jpg?k=b72b00ef4820de26528c86b986b175792ffa918a1e541997838647d911f89ea3&o=&hp=1"
 language: en
 slug: thethi-mountain
 address: "Rruga Fushe, Theth, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Metro Hotel Terminal"
 description: "Metro Hotel Terminal emerges as a distinguished choice for travelers seeking both comfort and convenience during their visit to Çeliku."
-featuredImage: "/images/accommodation/metro-hotel-terminal-514678368.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514678368.jpg?k=dbe1d68d7f2b42265308e0f0afd7eae2501911eb9e7cc3f8a3eb9040c5480e2e&o=&hp=1"
 language: en
 slug: metro-hotel-terminal
 address: "Njesia Administrative Farkë, Terminali i Autobusëve Juglindor Rrethrrotullimi i TEG, 1045 Tirana, Albania"

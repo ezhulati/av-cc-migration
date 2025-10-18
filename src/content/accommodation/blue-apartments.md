@@ -1,7 +1,7 @@
 ---
 title: "Blue Apartments"
 description: "Blue Apartments emerges as a prime choice for travelers seeking comfortable accommodation in Shkodër."
-featuredImage: "/images/accommodation/blue-apartments-477724544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477724544.jpg?k=f140bc4e134ab99f2ee345f7e527fb3965af4b0b22f493d74f117af9b82c8b5a&o=&hp=1"
 language: en
 slug: blue-apartments
 address: "Rruga Marin Bicikemi, 4001 Shkodër, Albania"

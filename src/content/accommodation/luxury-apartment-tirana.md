@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment Tirana"
 description: "Luxury Apartment Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/luxury-apartment-tirana-498892391.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498892391.jpg?k=db962ce928043574aca4ec0c91b765bb1227cb1f87992861c1621971dc02112f&o=&hp=1"
 language: en
 slug: luxury-apartment-tirana
 address: "Rruga Gjon Mili, 1000 Tirana, Albania"

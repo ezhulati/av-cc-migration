@@ -1,7 +1,7 @@
 ---
 title: "Drilon Luxury Villa"
 description: "Drilon Luxury Villa, located in the serene Tushemisht area of Korçë County, presents an exceptional retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/drilon-luxury-villa-490378669.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490378669.jpg?k=934fb66ec011ea823e8b3456065a341f9fdc672fdd60ed941ddd53185ec18033&o=&hp=1"
 language: en
 slug: drilon-luxury-villa
 address: "SH64, 7301 Tushemisht, Albania"

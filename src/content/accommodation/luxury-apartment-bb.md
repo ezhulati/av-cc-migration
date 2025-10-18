@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment BB"
 description: "Luxury Apartment BB stands as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/luxury-apartment-bb-485515535.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485515535.jpg?k=14fb3b7ad104650cd86f7f33d17f5e62bd70820668189f59b3e40940131415de&o=&hp=1"
 language: en
 slug: luxury-apartment-bb
 address: "4 Rruga Piro Sava 8, 9400 Vlorë, Albania"

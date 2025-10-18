@@ -1,7 +1,7 @@
 ---
 title: "Hotel Guri"
 description: "Discover the charm of Elbasan at Hotel Guri, a serene oasis located just 40 km away from the bustling Skanderbeg Square."
-featuredImage: "/images/accommodation/hotel-guri-100577063.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100577063.jpg?k=87f34975960f35b602da231934f04a6fbf223d5b94b1d21257c5403ecf2a3fda&o=&hp=1"
 language: en
 slug: hotel-guri
 address: "Bulevardi Aqif Pasha,Lagja Kala, rruga Isuf Ibershimi, 3001 Elbasan, Albania"

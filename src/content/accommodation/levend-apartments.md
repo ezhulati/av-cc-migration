@@ -1,7 +1,7 @@
 ---
 title: "Levend Apartments"
 description: "Levend Apartments emerges as a serene retreat in the heart of Ksamil, a mere stone's throw away from the pristine sands of Ksamil Beach."
-featuredImage: "/images/accommodation/levend-apartments-203862799.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203862799.jpg?k=f75ca461cce1970735a31787131158bce27ced23d93b9fb5456d625ad9388e9b&o=&hp=1"
 language: en
 slug: levend-apartments
 address: "Rruga Kristal 5, 9706 Ksamil, Albania"

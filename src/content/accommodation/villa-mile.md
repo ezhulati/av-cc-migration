@@ -1,7 +1,7 @@
 ---
 title: "Villa Mile"
 description: "Villa Mile stands out as a premier choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "/images/accommodation/villa-mile-501344371.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501344371.jpg?k=0937deca3571ca12e49f0ace684aba82d38387c8b36249adf9366fe9741bbb1e&o=&hp=1"
 language: en
 slug: villa-mile
 address: "Uznove Berat, 5004 Berat, Albania"

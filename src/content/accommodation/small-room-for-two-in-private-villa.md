@@ -1,7 +1,7 @@
 ---
 title: "Small room for two in private villa"
 description: "Small Room for Two in Private Villa emerges as a serene retreat in Korçë, situated a mere 44 km from the tranquil Ohrid Lake Springs."
-featuredImage: "/images/accommodation/small-room-for-two-in-private-villa-20559371.web.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/20559371.webp?k=276ce7cf6c2c12d3e1c4434fea6d136866ae9cb6ccaa5182589335aa0d4add0b&o=?t=1496328775"
 language: en
 slug: small-room-for-two-in-private-villa
 address: "8 Rruga Dhori Lako, 7000 Korçë, Albania"

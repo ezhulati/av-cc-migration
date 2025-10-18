@@ -1,7 +1,7 @@
 ---
 title: "Blue Apartment Vlore"
 description: "Blue Apartment Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/blue-apartment-vlore-518818195.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518818195.jpg?k=ddd78f2761dbb61f4b3e276110463b58d66082c458bf8ef20f480265e4fe8ac8&o=&hp=1"
 language: en
 slug: blue-apartment-vlore
 address: "Rruga Enver Jaho Nr apartamenti 26, 9401 Vlorë, Albania"

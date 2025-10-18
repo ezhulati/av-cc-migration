@@ -1,7 +1,7 @@
 ---
 title: "Petrit Apartments"
 description: "Petrit Apartments stands out as a prime choice for travelers seeking comfort and convenience, located just a stone's throw away from Sarande Main Beach."
-featuredImage: "/images/accommodation/petrit-apartments-466484157.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466484157.jpg?k=8c21397f21a066a9901ea529abf7aac2d4a0e8b98830864d290945f9afe7d48d&o=&hp=1"
 language: en
 slug: petrit-apartments
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

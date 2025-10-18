@@ -1,7 +1,7 @@
 ---
 title: "Villa 27 Residence"
 description: "Villa 27 Residence emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/villa-27-residence-216085257.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216085257.jpg?k=c01b05d44aca0d2b1cf79072abf9dbc045dd79492da7d801d6f5b4789a3932ac&o=&hp=1"
 language: en
 slug: villa-27-residence
 address: "Rruga Jorgjia Truja Nr 27 , 1001 Tirana, Albania"

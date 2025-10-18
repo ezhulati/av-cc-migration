@@ -1,7 +1,7 @@
 ---
 title: "Beratino Hotel"
 description: "Beratino Hotel emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/beratino-hotel-314634595.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314634595.jpg?k=620d7986df033b9632a5ce68ed1247b30d70726f6c5704a99c08a4a385075667&o=&hp=1"
 language: en
 slug: beratino-hotel
 address: "Rruga Zoi Tola, 5001 Berat, Albania"

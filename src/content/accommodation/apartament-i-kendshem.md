@@ -1,7 +1,7 @@
 ---
 title: "Apartament i kendshem"
 description: "Discover the charm of Apartament i kendshem, a serene getaway located just 16 km from the historic Rock of Kavaje."
-featuredImage: "/images/accommodation/apartament-i-kendshem-492981333.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492981333.jpg?k=2d20b693e0e20a8ad388a56cf3413094906d3f7cc84aacbcdcde84bc8ed11d64&o=&hp=1"
 language: en
 slug: apartament-i-kendshem
 address: "Karpen, Kavaje, ALbania, 2005 Kavajë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Dea Apartment"
 description: "Dea Apartment, located in the historic heart of Berat, offers guests a modern retreat with complimentary WiFi throughout the premises."
-featuredImage: "/images/accommodation/dea-apartment-482575421.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482575421.jpg?k=6904760d72864dfa560a3c91f78bd05fc2d8894929767c843c13168699855565&o=&hp=1"
 language: en
 slug: dea-apartment
 address: "Rruga Antipatrea, 5001 Berat, Albania"

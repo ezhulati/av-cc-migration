@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ana"
 description: "Hotel Ana stands out as a prime choice for travelers seeking comfort and convenience in Përmet."
-featuredImage: "/images/accommodation/hotel-ana-297177712.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297177712.jpg?k=e9a54d529cf73d7633ea083ce19b370cb8c872b021f96125fec3ffcda381f23a&o=&hp=1"
 language: en
 slug: hotel-ana
 address: "Rruga Kongresi i Përmetit Nr. 2 Market Marjeta, 6401 Përmet, Albania"

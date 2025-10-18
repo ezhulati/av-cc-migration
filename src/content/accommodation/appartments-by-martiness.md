@@ -1,7 +1,7 @@
 ---
 title: "Appartments by Martiness"
 description: "Appartments by Martiness emerges as a prime choice for travelers seeking comfort and convenience in Durrës, just a stone's throw away from the serene Durres Beach."
-featuredImage: "/images/accommodation/appartments-by-martiness-466980580.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466980580.jpg?k=90373494f53657009fdee37f9d917786289933470b0892a50895ad67098069cd&o=&hp=1"
 language: en
 slug: appartments-by-martiness
 address: "Rruga Pavaresia, 2000 Durrës, Albania"

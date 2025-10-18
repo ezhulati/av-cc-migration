@@ -1,7 +1,7 @@
 ---
 title: "Apartament Gjiri Lalezit"
 description: "Apartament Gjiri Lalezit emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/apartament-gjiri-lalezit-504023952.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504023952.jpg?k=712d128bafe74c7efad07f86dcd10111b465d80c36ac386abaf93eb5b7988e27&o=&hp=1"
 language: en
 slug: apartament-gjiri-lalezit
 address: "Rruga Gjiri i Lalzit Apartament 2+1, 1234 Durrës, Albania"

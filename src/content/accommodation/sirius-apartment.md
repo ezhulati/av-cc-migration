@@ -1,7 +1,7 @@
 ---
 title: "Sirius Apartment"
 description: "Sirius Apartment stands as a beacon of comfort and convenience in the heart of Shkodër, offering guests a unique blend of modern amenities and serene city views."
-featuredImage: "/images/accommodation/sirius-apartment-383536490.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383536490.jpg?k=e039aba4b3efe8ed91e3dc671ab42b7a407a6feb0eedc523007250bf5d56b8d5&o=&hp=1"
 language: en
 slug: sirius-apartment
 address: "Rruga Kolë Idromeno, 4001 Shkodër, Albania"

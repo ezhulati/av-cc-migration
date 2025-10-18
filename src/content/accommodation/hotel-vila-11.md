@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila 11"
 description: "Hotel Vila 11 emerges as a prime choice for travelers seeking the perfect blend of relaxation and adventure right on the doorstep of Durres Beach."
-featuredImage: "/images/accommodation/hotel-vila-11-483720507.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483720507.jpg?k=d96adbaaee6242705304d682339af8808bc2e1e3102fcb831d183569d9d28ee8&o=&hp=1"
 language: en
 slug: hotel-vila-11
 address: "Rruga Porta e Detit, 2001 Durrës, Albania"

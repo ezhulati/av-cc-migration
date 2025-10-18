@@ -1,7 +1,7 @@
 ---
 title: "Room Studio"
 description: "Room Studio emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/room-studio-527815419.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527815419.jpg?k=eb4e0787444b76913debf6e3804dbc82b05cdd278d6525c1d7686fd7028634de&o=&hp=1"
 language: en
 slug: room-studio
 address: "Rruga Sulejman Pitarka, 1001 Tirana, Albania"

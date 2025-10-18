@@ -1,7 +1,7 @@
 ---
 title: "Giulio City Apartment"
 description: "Giulio City Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/giulio-city-apartment-481332716.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481332716.jpg?k=5ca11be71072de0d1d1e23401428bd286d3e0e9b5d7eea14cc0ed4e591210a42&o=&hp=1"
 language: en
 slug: giulio-city-apartment
 address: "Rruga Dervish Ali Dukati 3, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ledio guest house"
 description: "Discover the charm of Ledio Guest House, a serene haven located in the picturesque town of Pogradec."
-featuredImage: "/images/accommodation/ledio-guest-house-474391108.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474391108.jpg?k=bb13bd03e176228f2c500fc75316096745c5e2636a00a2134215c4caf294c7f0&o=&hp=1"
 language: en
 slug: ledio-guest-house
 address: "Rruga Sul Starovari, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VILLA PERMET"
 description: "Villa Permet stands out as a distinguished 4-star haven in Përmet, offering guests an exceptional blend of comfort and convenience."
-featuredImage: "/images/accommodation/villa-permet-425512890.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425512890.jpg?k=a95a8447b51a19daeaa4ce8e96dfb533c8562a3b308a2b77e256705190bbc017&o=&hp=1"
 language: en
 slug: villa-permet
 address: "RRUGA 13 SHTATORI, 6401 Përmet, Albania"

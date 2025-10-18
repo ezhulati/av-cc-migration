@@ -1,7 +1,7 @@
 ---
 title: "Jata Crown Hotel"
 description: "Jata Crown Hotel emerges as a distinguished choice for travelers seeking a blend of convenience and comfort in Tirana."
-featuredImage: "/images/accommodation/jata-crown-hotel-383694507.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383694507.jpg?k=4b08aaac3c14323fed52c4a762c6c8cabf17f504e75a496d11a9691898539ab7&o=&hp=1"
 language: en
 slug: jata-crown-hotel
 address: "Rruga Agush Gjergjevica, 1001 Tirana, Albania"

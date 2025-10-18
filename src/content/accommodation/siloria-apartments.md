@@ -1,7 +1,7 @@
 ---
 title: "Siloria Apartments"
 description: "Siloria Apartments emerges as a prime beachfront haven in Vlorë, boasting an enviable position just a stone's throw away from Ri Beach and a leisurely stroll from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/siloria-apartments-452888999.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452888999.jpg?k=625aabe9e3348b0a24c7167af28b0c974b331501b36e4ba16da54b36f23b9cb5&o=&hp=1"
 language: en
 slug: siloria-apartments
 address: "Kompleksi Oslo, Lungomare 6 floor, 9405 Vlorë, Albania"

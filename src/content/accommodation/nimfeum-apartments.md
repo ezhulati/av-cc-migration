@@ -1,7 +1,7 @@
 ---
 title: "Nimfeum Apartments"
 description: "Nimfeum Apartments emerges as a prime choice for travelers seeking a serene seafront escape in Shëngjin, perfectly positioned just a stone's throw away from the inviting Shëngjin Beach and a mere 600 meters from the tranquil Ylberi Beach."
-featuredImage: "/images/accommodation/nimfeum-apartments-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: nimfeum-apartments
 address: "Shëngjin - Kune, 4503 Shëngjin, Albania"

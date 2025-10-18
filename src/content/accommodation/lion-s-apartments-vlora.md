@@ -1,7 +1,7 @@
 ---
 title: "Lion's Apartments Vlora"
 description: "Lion's Apartments Vlora stands as a beacon of comfort and convenience in the heart of Vlorë, offering travelers a serene escape with the city's pulse just steps away."
-featuredImage: "/images/accommodation/lion-s-apartments-vlora-463064397.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463064397.jpg?k=d720708f40401139a80696e7d6735186128f5b8324117671ad9ede35655cb25e&o=&hp=1"
 language: en
 slug: lion-s-apartments-vlora
 address: "Rruga Gjergj Kastrioti, Vlorë, Albania"

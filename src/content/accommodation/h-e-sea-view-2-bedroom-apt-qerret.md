@@ -1,7 +1,7 @@
 ---
 title: "H&E Sea view 2-Bedroom Apt Qerret"
 description: "Discover the charm of coastal living at H&E Sea View 2-Bedroom Apt Qerret, a prime beachfront gem located just a stone's throw from the serene Qerret Beach and a brief stroll from the picturesque Mali I Robit Beach."
-featuredImage: "/images/accommodation/h-e-sea-view-2-bedroom-apt-qerret-483991223.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483991223.jpg?k=9452db2f25c850e31edc0429ff680bd2ef730199bff705d2a449afa49ada531d&o=&hp=1"
 language: en
 slug: h-e-sea-view-2-bedroom-apt-qerret
 address: "Rruga e Fshatrave Turistike, Golem, Albania"

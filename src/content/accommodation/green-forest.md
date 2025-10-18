@@ -1,7 +1,7 @@
 ---
 title: "Green Forest"
 description: "Green Forest emerges as a serene retreat in the historic heart of Berat, boasting accommodations that come complete with their own balconies."
-featuredImage: "/images/accommodation/green-forest-368520498.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368520498.jpg?k=a286cc34c5f2d0b1f614a2f72f83c811905abe1a5b619e06951d3ff88a6d47b6&o=&hp=1"
 language: en
 slug: green-forest
 address: "Rruga Shkembi, 5001 Berat, Albania"

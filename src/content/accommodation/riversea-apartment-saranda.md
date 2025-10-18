@@ -1,7 +1,7 @@
 ---
 title: "RiverSea Apartment Saranda"
 description: "RiverSea Apartment Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the pristine Mango Beach and within easy reach of the serene Flamingo Beach."
-featuredImage: "/images/accommodation/riversea-apartment-saranda-460382023.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460382023.jpg?k=3242845783416b64377d2b68646efe28161734060c3027989193e526a0596db9&o=&hp=1"
 language: en
 slug: riversea-apartment-saranda
 address: "Rruga Butrinti 3, 9701 Sarandë, Albania"

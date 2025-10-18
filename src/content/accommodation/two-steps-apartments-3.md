@@ -1,7 +1,7 @@
 ---
 title: "Two steps apartments 3"
 description: "Two Steps Apartments 3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/two-steps-apartments-3-411321447.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411321447.jpg?k=b25d6a63d4c492fe560288ff4d8470e5834870a6adb51ab3ffaf39465708de58&o=&hp=1"
 language: en
 slug: two-steps-apartments-3
 address: "Rruga Tafaj, building nr 60, entry nr 7, app nr 25, 1017 Tirana, Albania"

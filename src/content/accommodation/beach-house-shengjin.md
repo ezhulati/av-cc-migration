@@ -1,7 +1,7 @@
 ---
 title: "Beach House Shengjin"
 description: "Beach House Shengjin emerges as a prime choice for travelers seeking a serene getaway, just a short drive from the pristine shores of Shëngjin Beach."
-featuredImage: "/images/accommodation/beach-house-shengjin-464140588.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464140588.jpg?k=e2fe904d532b9116472ec7c9316b9e8b4114957faf87b168a87c6c4e0b712044&o=&hp=1"
 language: en
 slug: beach-house-shengjin
 address: "Rana e Hedhun, Shengjin, 4503 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Ahmetaj"
 description: "Bujtina Ahmetaj stands out as a prime choice for travelers seeking a serene getaway in Valbonë, located in the picturesque Kukës County region."
-featuredImage: "/images/accommodation/bujtina-ahmetaj-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10157126006731273/picture?type=square&height=64&width=64"
 language: en
 slug: bujtina-ahmetaj
 address: "Rruga Azem Hajdari,Valbone Quki i Valbones,Valbone, 1000 Valbonë, Albania"

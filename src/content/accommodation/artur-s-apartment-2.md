@@ -1,7 +1,7 @@
 ---
 title: "Artur's Apartment 2"
 description: "Artur's Apartment 2 emerges as a serene retreat in the historic city of Gjirokastër, a mere stone's throw from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/artur-s-apartment-2-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: artur-s-apartment-2
 address: "Rruga Mihal Duri 1, 6001 Gjirokastër, Albania"

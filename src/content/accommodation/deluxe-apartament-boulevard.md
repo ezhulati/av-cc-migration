@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Apartament Boulevard"
 description: "Deluxe Apartment Boulevard emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/deluxe-apartament-boulevard-525175264.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525175264.jpg?k=8d961118edfe072d58f174de67b921cfc34a054eb26c61b96103c9727fd4e4ef&o=&hp=1"
 language: en
 slug: deluxe-apartament-boulevard
 address: "Rruga Reshit Petrela, 1057 Tirana, Albania"

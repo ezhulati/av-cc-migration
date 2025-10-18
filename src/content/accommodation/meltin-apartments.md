@@ -1,7 +1,7 @@
 ---
 title: "Meltin apartments"
 description: "Meltin Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë, perfectly positioned just a stone's throw away from the pristine Santa Quaranta Beach and a brief stroll from the exclusive VIP Beach."
-featuredImage: "/images/accommodation/meltin-apartments-b56c632712cb.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
 language: en
 slug: meltin-apartments
 address: "Rruga Butrinti, Sarandë, Albania"

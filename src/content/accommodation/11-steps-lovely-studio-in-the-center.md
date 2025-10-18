@@ -1,7 +1,7 @@
 ---
 title: "11 Steps' Lovely Studio in the center"
 description: "11 Steps' Lovely Studio emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/11-steps-lovely-studio-in-the-center-412190537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412190537.jpg?k=bea4f7468debec4f81759a4aa424177a4fd3c5f6e117d27139db22340202b5cb&o=&hp=1"
 language: en
 slug: 11-steps-lovely-studio-in-the-center
 address: "Rruga Ded Gjo Luli, 1001 Tirana, Albania"

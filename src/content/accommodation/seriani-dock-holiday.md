@@ -1,7 +1,7 @@
 ---
 title: "Seriani Dock Holiday"
 description: "Seriani Dock Holiday emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/seriani-dock-holiday-489098726.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489098726.jpg?k=5c3b1d3a065bacb56ef9b69648daf0d576b0adad70d8f5d13015afa5b7520e04&o=&hp=1"
 language: en
 slug: seriani-dock-holiday
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

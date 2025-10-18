@@ -1,7 +1,7 @@
 ---
 title: "Cute beach house next to the sea"
 description: "Cute Beach House Next to the Sea emerges as a charming retreat for those seeking a serene beachside getaway in Golem."
-featuredImage: "/images/accommodation/cute-beach-house-next-to-the-sea-485677215.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485677215.jpg?k=58fc9bff882eb641c2fa03d11fe2440b3c74125f7c8db2a6cc1537902588ac29&o=&hp=1"
 language: en
 slug: cute-beach-house-next-to-the-sea
 address: "Rruga e Fshatrave Turistike, Golem, Albania"

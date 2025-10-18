@@ -1,7 +1,7 @@
 ---
 title: "Hotel-Restorant Pepushaj"
 description: "Hotel-Restorant Pepushaj emerges as a serene retreat amidst the scenic landscapes of Shkodër, offering guests a unique blend of natural beauty and comfort."
-featuredImage: "/images/accommodation/hotel-restorant-pepushaj-b56c632712cb.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
 language: en
 slug: hotel-restorant-pepushaj
 address: "Vukel-Muriq, Shkodër, Albania"

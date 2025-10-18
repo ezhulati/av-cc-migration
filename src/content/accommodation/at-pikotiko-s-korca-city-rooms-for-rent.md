@@ -1,7 +1,7 @@
 ---
 title: "At Pikotiko's - Korca City Rooms for Rent"
 description: "At Pikotiko's - Korca City Rooms for Rent emerges as a prime choice for travelers seeking a comfortable stay in Korçë."
-featuredImage: "/images/accommodation/at-pikotiko-s-korca-city-rooms-for-rent-271625152.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271625152.jpg?k=25b39776b841be3041fa1c803553f05f372c5ab9e0a3a3ad698a4bdea42d605e&o=&hp=1"
 language: en
 slug: at-pikotiko-s-korca-city-rooms-for-rent
 address: "Rruga Haki Mborja, Korçë, Albania"

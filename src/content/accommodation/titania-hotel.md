@@ -1,7 +1,7 @@
 ---
 title: "Titania Hotel"
 description: "Titania Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime beachfront location in Sarandë."
-featuredImage: "/images/accommodation/titania-hotel-364552617.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364552617.jpg?k=8cd5e13dad01da5d295ad710a7991c1b83adfc32c048785bb7e0819f66afd522&o=&hp=1"
 language: en
 slug: titania-hotel
 address: "Jonianet street nr 15, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea Pearl Luxury Apartment Saranda"
 description: "Sea Pearl Luxury Apartment Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sea-pearl-luxury-apartment-saranda-d3882ab9674d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
 language: en
 slug: sea-pearl-luxury-apartment-saranda
 address: "38 Rruga Butrinti, Sarandë, Albania"

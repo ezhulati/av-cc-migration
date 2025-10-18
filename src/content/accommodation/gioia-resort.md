@@ -1,7 +1,7 @@
 ---
 title: "Gioia Resort"
 description: "Gioia Resort emerges as a serene getaway in the heart of Voskopojë, Korçë County, boasting breathtaking mountain views from its balconies."
-featuredImage: "/images/accommodation/gioia-resort-AAcHTtclahen.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtclahenH5gKHzvsBMyg58uoeaJG8-o4gifqJev4HYjp610=s96-c64"
 language: en
 slug: gioia-resort
 address: "Ura e shen prodhomit Ne te djathte te ures, 7029 Voskopojë, Albania"

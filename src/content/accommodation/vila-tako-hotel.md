@@ -1,7 +1,7 @@
 ---
 title: "Vila Tako - Hotel"
 description: "Vila Tako - Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vila-tako-hotel-95834521.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95834521.jpg?k=5f1f99757e5d107a0c6c74fb60ee170fe48ed294a0c0343086f4fc53c6c0285d&o=&hp=1"
 language: en
 slug: vila-tako-hotel
 address: "Rr. Gjin Bue Shpata, Vila Tako, (prane shkolles Emin Duraku), Tirana, Albania, 1010 Tirana, Albania"

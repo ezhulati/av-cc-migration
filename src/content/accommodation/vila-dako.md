@@ -1,7 +1,7 @@
 ---
 title: "Vila Dako"
 description: "Vila Dako emerges as a serene retreat in the heart of Finiq, offering a blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/vila-dako-481322774.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481322774.jpg?k=1adfe396ba122c87b0e6a44421736540c96b4b8512531cc6682c53e1b40a6e27&o=&hp=1"
 language: en
 slug: vila-dako
 address: "SH83 2, 9716 Finiq, Albania"

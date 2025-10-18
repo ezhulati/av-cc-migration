@@ -1,7 +1,7 @@
 ---
 title: "Hotel Gjika"
 description: "Hotel Gjika stands as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "/images/accommodation/hotel-gjika-523148665.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523148665.jpg?k=029d0a3419921839b6af17c565ab7b0f0b0993efb664895cb1e6faafc3cbca0f&o=&hp=1"
 language: en
 slug: hotel-gjika
 address: "Rruga Mine Peza, 1011 Tirana, Albania"

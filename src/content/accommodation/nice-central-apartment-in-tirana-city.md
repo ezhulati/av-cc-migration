@@ -1,7 +1,7 @@
 ---
 title: "Nice central apartment in Tirana city"
 description: "Discover the charm of Tirana with a stay at the Nice Central Apartment, a prime choice for travelers seeking convenience and comfort in the heart of the city."
-featuredImage: "/images/accommodation/nice-central-apartment-in-tirana-city-414793155.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414793155.jpg?k=a96323a0db9f07a9e0446328c6c2cf38ac28969985fca76bbf2f94f23ffbda7b&o=&hp=1"
 language: en
 slug: nice-central-apartment-in-tirana-city
 address: "Rruga Myslym Shyri no. 6/2, second floor, 1001 Tirana, Albania"

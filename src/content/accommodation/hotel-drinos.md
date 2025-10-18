@@ -1,7 +1,7 @@
 ---
 title: "Hotel Drinos"
 description: "Hotel Drinos emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana, merely a kilometer away from the iconic Skenderberg Square."
-featuredImage: "/images/accommodation/hotel-drinos-363265403.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363265403.jpg?k=7973c08c2d00828a0a3fbb3654a4d192c6bf65bcb80cf3296f7fe6be2a39ef82&o=&hp=1"
 language: en
 slug: hotel-drinos
 address: "Rruga Mustafa Lleshi, 1234 Tirana, Albania"

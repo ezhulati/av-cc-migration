@@ -1,7 +1,7 @@
 ---
 title: "Kai's Apartment"
 description: "Kai's Apartment in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, mere steps away from the pristine Ri Beach and a short stroll from Vlore Beach."
-featuredImage: "/images/accommodation/kai-s-apartment-459591625.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459591625.jpg?k=49e8bb086415ffbd7ed2db8057d8b9c5d77033245cc14950af0160aea3f0f46f&o=&hp=1"
 language: en
 slug: kai-s-apartment
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DIAMOND STAR 1"
 description: "DIAMOND STAR 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/diamond-star-1-481736836.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481736836.jpg?k=81cc65ef47911c520188895397d63476bdfd204c96cb435d113eeae692153d06&o=&hp=1"
 language: en
 slug: diamond-star-1
 address: "Rruga Mitat Hoxha 1, 9701 Sarandë, Albania"

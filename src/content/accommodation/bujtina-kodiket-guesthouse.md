@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Kodiket Guesthouse"
 description: "Discover the charm of Berat from the comfort of Kodiket Inn, a prime accommodation choice situated mere steps from the UNESCO-protected Old Town."
-featuredImage: "/images/accommodation/bujtina-kodiket-guesthouse-29509930.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/29509930.jpg?k=d8a120a0ee8dd9dc0dc39c57e5cbfd4978c988ce94bd0e77f3ad7be21642daa1&o=&hp=1"
 language: en
 slug: bujtina-kodiket-guesthouse
 address: "Kostaq Stefa\"- next street \" LLambi Guxhumani\", 5001 Berat, Albania"

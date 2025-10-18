@@ -1,7 +1,7 @@
 ---
 title: "Seashell Art Decor Studio Modern,cosy,parking"
 description: "Seashell Art Decor Studio Modern stands out as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated within a stone's throw of Ri Beach and just a short stroll from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/seashell-art-decor-studio-modern-cosy-parking-511842055.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511842055.jpg?k=e975b78d82f5f25eed7ef79fbbfdb18b1c80577d13987ca4c3bc70e8230a6b8f&o=&hp=1"
 language: en
 slug: seashell-art-decor-studio-modern-cosy-parking
 address: "Rruga Francesko Krispi, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "NBT Hotel Lac"
 description: "NBT Hotel Lac emerges as a distinguished choice for travelers seeking comfort and convenience in Laç, located just 44 km away from the vibrant Skanderbeg Square."
-featuredImage: "/images/accommodation/nbt-hotel-lac-503440785.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503440785.jpg?k=3d867c3112e54fceeb4ab959212ec7fb01753dec419325626a27bd5e8220eccd&o=&hp=1"
 language: en
 slug: nbt-hotel-lac
 address: "Rruga Brozaj Autostrada Lac - Lezhe, 4701 Laç, Albania"

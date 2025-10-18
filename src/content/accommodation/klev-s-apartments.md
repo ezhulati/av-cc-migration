@@ -1,7 +1,7 @@
 ---
 title: "Klev's apartments"
 description: "Klev's Apartments in Shkodër presents a modern retreat for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/klev-s-apartments-446628460.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446628460.jpg?k=2360a51ca8488012da04fb1021e22e3e40df89c837c7a4bb9865f8e9ba08daa0&o=&hp=1"
 language: en
 slug: klev-s-apartments
 address: "Rruga Martin Camaj, 4001 Shkodër, Albania"

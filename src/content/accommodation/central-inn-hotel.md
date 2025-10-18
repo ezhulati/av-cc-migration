@@ -1,7 +1,7 @@
 ---
 title: "Central Inn Hotel"
 description: "Central Inn Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-inn-hotel-502654085.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502654085.jpg?k=b7347575733f60a15d5f380a93ba97f43534bb2591c598910ff3377fa52e8fe9&o=&hp=1"
 language: en
 slug: central-inn-hotel
 address: "Rruga e Barrikadave, 1057 Tirana, Albania"

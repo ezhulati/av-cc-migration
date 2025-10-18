@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restorant Genti Peshkatari"
 description: "Hotel Restorant Genti Peshkatari emerges as a serene oasis in Orikum, boasting a meticulously landscaped garden and a sun-drenched terrace."
-featuredImage: "/images/accommodation/hotel-restorant-genti-peshkatari-305251384.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305251384.jpg?k=14eb568c23075a8ede91a210049c0e5bf84249bee77c125e11ead751f77f1f0e&o=&hp=1"
 language: en
 slug: hotel-restorant-genti-peshkatari
 address: "Rruga Pashaliman, 9426 Orikum, Albania"

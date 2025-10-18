@@ -1,7 +1,7 @@
 ---
 title: "Arteg Apartments - Comfort"
 description: "Arteg Apartments - Comfort emerges as a serene oasis in the heart of Durrës, merely a stone's throw away from the pristine Durres Beach and a short stroll from the vibrant Golem Beach."
-featuredImage: "/images/accommodation/arteg-apartments-comfort-350166646.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350166646.jpg?k=3db05abb7df294c45453a8ed656fbc6c03899177267f693cebbdfa59f5359065&o=&hp=1"
 language: en
 slug: arteg-apartments-comfort
 address: "Rruga Shkembi i Kavajes, SH4, near of Majestic Hotel, Durres, 1001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse RIREYIANA"
 description: "Guesthouse RIREYIANA emerges as a serene retreat located in the picturesque Tamarë, offering a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/guesthouse-rireyiana-269171780.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269171780.jpg?k=52ece257d42cde3ff863d0e6a76992c639c04078934322767835b20ee926ee52&o=&hp=1"
 language: en
 slug: guesthouse-rireyiana
 address: "SH20, Tamarë, Albania"

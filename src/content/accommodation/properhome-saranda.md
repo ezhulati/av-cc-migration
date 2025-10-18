@@ -1,7 +1,7 @@
 ---
 title: "Properhome Saranda"
 description: "Properhome Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/properhome-saranda-522132637.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522132637.jpg?k=3316ecc672451b59d3761d2a9323533b42c98a2c2640f4d96de4d93309acbb39&o=&hp=1"
 language: en
 slug: properhome-saranda
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

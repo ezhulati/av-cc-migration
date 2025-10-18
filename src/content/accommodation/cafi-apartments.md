@@ -1,7 +1,7 @@
 ---
 title: "Cafi Apartments"
 description: "Cafi Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cafi-apartments-453147805.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453147805.jpg?k=11098b764bcbd2d1df2c2db131b069795c5c50de95645d0f889e29f93663835e&o=&hp=1"
 language: en
 slug: cafi-apartments
 address: "Rruga Abdulla Keta 3, 1001 Tirana, Albania"

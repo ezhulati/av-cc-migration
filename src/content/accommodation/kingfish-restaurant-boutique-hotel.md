@@ -1,7 +1,7 @@
 ---
 title: "Kingfish restaurant & boutique hotel"
 description: "Kingfish Restaurant & Boutique Hotel emerges as a serene oasis in Patog, offering breathtaking sea views and a tranquil escape just a short distance from the bustling heart of Albania."
-featuredImage: "/images/accommodation/kingfish-restaurant-boutique-hotel-447545590.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447545590.jpg?k=7e09da4c70d9c998b62e466480a8188d5f195461e07a202cf8206c9f6e2d2eed&o=&hp=1"
 language: en
 slug: kingfish-restaurant-boutique-hotel
 address: "Patok, 4700 Patog, Albania"

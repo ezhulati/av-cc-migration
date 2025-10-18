@@ -1,7 +1,7 @@
 ---
 title: "Mediterranean Sea Apartment city center"
 description: "Mediterranean Sea Apartment city center emerges as a modern oasis in the heart of Durrës, offering a blend of convenience and comfort for travelers seeking an urban retreat."
-featuredImage: "/images/accommodation/mediterranean-sea-apartment-city-center-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/2516971348352923/picture?type=square&height=64&width=64"
 language: en
 slug: mediterranean-sea-apartment-city-center
 address: "Rruga Sefer Efendiu, Durres 12th floor, 2000 Durrës, Albania"

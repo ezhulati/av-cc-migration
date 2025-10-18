@@ -1,7 +1,7 @@
 ---
 title: "Apartment on the Lungomare"
 description: "Apartment on the Lungomare emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering a perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/apartment-on-the-lungomare-438078421.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438078421.jpg?k=10598a73cb571d4082d43d224e186e5d4a5f1cda71b767325e3a598d42a8a2af&o=&hp=1"
 language: en
 slug: apartment-on-the-lungomare
 address: "Rr. Murat Terbaci, 9400 Vlorë, Albania"

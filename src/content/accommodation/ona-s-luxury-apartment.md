@@ -1,7 +1,7 @@
 ---
 title: "Ona's luxury apartment"
 description: "Ona's Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/ona-s-luxury-apartment-490253240.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490253240.jpg?k=a7219f7bad330c5dd1d9b9eaa57503f3e51a457922b6db24999e55c4d86293a6&o=&hp=1"
 language: en
 slug: ona-s-luxury-apartment
 address: "Rruga Pelivan Leskaj Ap 4 floor 12, 9402 Vlorë, Albania"

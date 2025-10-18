@@ -1,7 +1,7 @@
 ---
 title: "Olea Seaside Apartment"
 description: "Olea Seaside Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/olea-seaside-apartment-365870072.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365870072.jpg?k=913255429859836039540b2f6f52a86a4ed3b94444b12c4578a27d8c240be8f5&o=&hp=1"
 language: en
 slug: olea-seaside-apartment
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

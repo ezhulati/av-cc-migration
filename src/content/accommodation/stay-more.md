@@ -1,7 +1,7 @@
 ---
 title: "Stay More"
 description: "Discover the charm of Tirana with a stay at Stay More, a prime accommodation choice that offers guests a perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/stay-more-498660167.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498660167.jpg?k=03c1dd9271dde2a820ce0ddbab152110a082dabcffb6028d223b57ea725cf5da&o=&hp=1"
 language: en
 slug: stay-more
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

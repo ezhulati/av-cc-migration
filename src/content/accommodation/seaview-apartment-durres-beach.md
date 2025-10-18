@@ -1,7 +1,7 @@
 ---
 title: "Seaview Apartment, Durres Beach"
 description: "Seaview Apartment, Durres Beach, emerges as a prime choice for travelers seeking a blend of comfort and convenience on the Albanian coast."
-featuredImage: "/images/accommodation/seaview-apartment-durres-beach-470689391.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470689391.jpg?k=7847e6629c6eec2884c876d518213256a9024dd67f3f6453ed425da985a3fa1d&o=&hp=1"
 language: en
 slug: seaview-apartment-durres-beach
 address: "13 Rruga Venecia Third Floor Apartment, 2002 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sermi's House"
 description: "Sermi's House emerges as a charming retreat in the heart of Shkodër, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/sermi-s-house-490074948.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490074948.jpg?k=392101ba0706d6a3dc11593fcb6e36b7c3aaa3f29c0e2275ac84c705c7a2f3bf&o=&hp=1"
 language: en
 slug: sermi-s-house
 address: "Rruga Kokej 1, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Gemütliches Haus im Herzen Albaniens"
 description: "Gemütliches Haus im Herzen Albaniens emerges as a serene oasis in Elbasan, strategically positioned a mere 41 km from the bustling Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/gem-tliches-haus-im-herzen-albaniens-490117788.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490117788.jpg?k=a9a5f0a365df1221a76d874178d374df07a8ede919047bc94f3f19185f84dc1b&o=&hp=1"
 language: en
 slug: gem-tliches-haus-im-herzen-albaniens
 address: "Rruga Baba Sherif Cani, 3001 Elbasan, Albania"

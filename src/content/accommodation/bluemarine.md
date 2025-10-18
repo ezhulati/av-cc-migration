@@ -1,7 +1,7 @@
 ---
 title: "BlueMarine"
 description: "Discover the charm of Vlorë with a stay at BlueMarine, perfectly positioned just steps away from the serene Vjetër Beach and a short 2."
-featuredImage: "/images/accommodation/bluemarine-432678159.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432678159.jpg?k=91b80527990ff8eb22d0275c10c647880a5b428da80769a6ed809c50d4a94e98&o=&hp=1"
 language: en
 slug: bluemarine
 address: "Rr. \"SAZANI\" Nd.75, H.5, Ap.3 9403 VLORE Apartment 3 Nd.75, H.5, 9403 Vlorë, Albania"

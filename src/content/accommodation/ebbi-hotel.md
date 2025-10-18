@@ -1,7 +1,7 @@
 ---
 title: "EBBI HOTEL"
 description: "EBBI HOTEL, situated a mere stone's throw away from the pristine shores of Dhermi Beach in Dhërmi, emerges as a prime choice for travelers seeking both serenity and convenience."
-featuredImage: "/images/accommodation/ebbi-hotel-346031563.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346031563.jpg?k=6ee9f84e7e33714618b0086f685ed588c48f5e8d079cc8d1eeb3d914386fb026&o=&hp=1"
 language: en
 slug: ebbi-hotel
 address: "dhermi plazh dhermi, 9422 Dhërmi, Albania"

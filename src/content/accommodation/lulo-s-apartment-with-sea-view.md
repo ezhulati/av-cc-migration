@@ -1,7 +1,7 @@
 ---
 title: "Lulo's Apartment with Sea View"
 description: "Lulo's Apartment with Sea View offers a refreshing retreat in the vibrant city of Sarandë, providing guests with a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/lulo-s-apartment-with-sea-view-477708667.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477708667.jpg?k=bbfab5d9f03a7872157ba1e85841e722078fcf55a5488e1e473013d1dbc244fc&o=&hp=1"
 language: en
 slug: lulo-s-apartment-with-sea-view
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

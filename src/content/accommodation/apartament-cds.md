@@ -1,7 +1,7 @@
 ---
 title: "Apartament CDS"
 description: "Discover the charm of seaside living at Apartament CDS, a prime beachfront property located just steps away from the pristine sands of Durres Beach."
-featuredImage: "/images/accommodation/apartament-cds-453322729.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453322729.jpg?k=9da7493a0fa7d3df2aa223a7c33b74380d7027fc9fa769a7869bbb5b2539407d&o=&hp=1"
 language: en
 slug: apartament-cds
 address: "Rruga Pavaresia L.13, Plazh Durres, Beach Front, 2001 Durrës, Albania"

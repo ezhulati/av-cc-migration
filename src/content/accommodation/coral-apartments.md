@@ -1,7 +1,7 @@
 ---
 title: "Coral Apartments"
 description: "Coral Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/coral-apartments-367786154.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367786154.jpg?k=0516c2e4db544085edc1eeffd6fdc2db44d77f116630a9ebdf11ed80becc5b1f&o=&hp=1"
 language: en
 slug: coral-apartments
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

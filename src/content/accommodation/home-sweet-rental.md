@@ -1,7 +1,7 @@
 ---
 title: "Home Sweet Rental"
 description: "Home Sweet Rental emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/home-sweet-rental-443020645.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443020645.jpg?k=5157bf33dc718b55b003b0e5cd6c117189e72d28845e418364f95ad7f6a2e7dd&o=&hp=1"
 language: en
 slug: home-sweet-rental
 address: "Rruga Isa Boletini, 1001 Tirana, Albania"

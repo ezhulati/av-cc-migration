@@ -1,7 +1,7 @@
 ---
 title: "AnnA apartment Korce"
 description: "AnnA Apartment Korce emerges as a standout choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "/images/accommodation/anna-apartment-korce-326876493.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326876493.jpg?k=7eb14794e8b24ec64b0c2399bad61a0d806cdaa02fc15fcc1f5991a167161aa6&o=&hp=1"
 language: en
 slug: anna-apartment-korce
 address: "Rr Kico Greco, 7001 Korçë, Albania"

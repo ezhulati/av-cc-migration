@@ -1,7 +1,7 @@
 ---
 title: "Holiday One Bedroom Sea View Apartment Vlore"
 description: "Holiday One Bedroom Sea View Apartment Vlore stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/holiday-one-bedroom-sea-view-apartment-vlore-319019607.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319019607.jpg?k=057027e5429d3ab2e916dcffdd8dbaa2ab10ea6f31c962f00583ca8f5edd03da&o=&hp=1"
 language: en
 slug: holiday-one-bedroom-sea-view-apartment-vlore
 address: "9402 Vlorë, Albania"

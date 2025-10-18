@@ -1,7 +1,7 @@
 ---
 title: "Mediterranean Apartments"
 description: "Mediterranean Apartments emerges as a prime choice for travelers seeking a seamless stay in Himare, offering a harmonious blend of convenience and scenic beauty."
-featuredImage: "/images/accommodation/mediterranean-apartments-370437950.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370437950.jpg?k=05def14fc965330e38747070cf3ce97a4a4a026cf490929a72986c063b1d6e7e&o=&hp=1"
 language: en
 slug: mediterranean-apartments
 address: "Potam Prinos, 9425 Himare, Albania"

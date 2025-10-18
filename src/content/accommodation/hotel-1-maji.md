@@ -1,7 +1,7 @@
 ---
 title: "Hotel 1 Maji"
 description: "1 Maji Hotel stands as a serene oasis right on the shores of Ohrid Lake, boasting its very own private beach area for guests to enjoy."
-featuredImage: "/images/accommodation/hotel-1-maji-131766502.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131766502.jpg?k=4a7ab2c27141b15176d6510c0188772c325948d21a506126392d41d37da7ff4e&o=&hp=1"
 language: en
 slug: hotel-1-maji
 address: "Deshmoret e Pojskes, 15, 7301 Pogradec, Albania"

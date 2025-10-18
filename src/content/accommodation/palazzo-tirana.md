@@ -1,7 +1,7 @@
 ---
 title: "Palazzo Tirana"
 description: "Palazzo Tirana emerges as a modern gem in the heart of Tirana, boasting a recent renovation that positions it as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/palazzo-tirana-501384666.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501384666.jpg?k=682565ab980e626d9bc8ec418232b1e1a26daadc82f8ff971abee140c733b05d&o=&hp=1"
 language: en
 slug: palazzo-tirana
 address: "Rruga Sokrat Miho, 1051 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mammy's Home"
 description: "Mammy's Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/mammy-s-home-362187152.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362187152.jpg?k=63323904cbd36ee8aa38d9ce5db99d8759868a994278396b2ab14f8ef256134f&o=&hp=1"
 language: en
 slug: mammy-s-home
 address: "Rruga Pjeter Budi 61/1 Apartment 10, 1000 Tirana, Albania"

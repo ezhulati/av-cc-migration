@@ -1,7 +1,7 @@
 ---
 title: "Blerina Farm House"
 description: "Blerina Farm House emerges as a serene retreat, situated just a stone's throw away from the bustling heart of Skanderbeg Square, approximately 11 km to be precise."
-featuredImage: "/images/accommodation/blerina-farm-house-438433223.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438433223.jpg?k=41cdf2010f862bb3565e678ce88a3595e84d8a952761261e488d68ba222b2115&o=&hp=1"
 language: en
 slug: blerina-farm-house
 address: "Rruga Muharrem Bajraktari Blerina Farm House, 1030 Laknas, Albania"

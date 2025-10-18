@@ -1,7 +1,7 @@
 ---
 title: "luka apartament"
 description: "Luka Apartament emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/luka-apartament-435647385.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435647385.jpg?k=3bb616f033b9c5261512a6297592c518f3724bdf56aa0a1a7184e3abd94eec02&o=&hp=1"
 language: en
 slug: luka-apartament
 address: "Rruga Fran Ivanaj, 4503 Shëngjin, Albania"

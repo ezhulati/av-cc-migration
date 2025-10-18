@@ -1,7 +1,7 @@
 ---
 title: "Akropoli Hotel"
 description: "Akropoli Hotel, situated a mere 8 kilometers from the vibrant heart of Durrës, presents a perfect blend of traditional Albanian hospitality and modern comforts."
-featuredImage: "/images/accommodation/akropoli-hotel-31314025.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31314025.jpg?k=d01503abb949542b19cb873a0e4a13e8989d4bea22e3d9aaf0ebfc7e6cfca8fb&o=&hp=1"
 language: en
 slug: akropoli-hotel
 address: "Bulevardi i Pishave, 2001 Golem, Albania"

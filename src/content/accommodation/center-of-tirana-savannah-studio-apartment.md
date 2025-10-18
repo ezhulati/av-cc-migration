@@ -1,7 +1,7 @@
 ---
 title: "Center of Tirana “Savannah” Studio Apartment."
 description: "Discover the charm of Tirana from the comfort of the \"Savannah\" Studio Apartment, a prime choice for travelers seeking a blend of convenience and style."
-featuredImage: "/images/accommodation/center-of-tirana-savannah-studio-apartment-367203655.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367203655.jpg?k=aa3f82894afd6306fa6e80e61ac15554dfa51d8f35c1f05a8c241f5d1b788a18&o=&hp=1"
 language: en
 slug: center-of-tirana-savannah-studio-apartment
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

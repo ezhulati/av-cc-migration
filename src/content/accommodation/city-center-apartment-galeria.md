@@ -1,7 +1,7 @@
 ---
 title: "City Center Apartment Galeria"
 description: "City Center Apartment Galeria emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-apartment-galeria-515536510.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515536510.jpg?k=5e09be7a7494f6a71f4a1d4f1bc768c052baaf4258be21845dd99c05b93f1d47&o=&hp=1"
 language: en
 slug: city-center-apartment-galeria
 address: "Rruga Bardhok Biba 8, 1001 Tirana, Albania"

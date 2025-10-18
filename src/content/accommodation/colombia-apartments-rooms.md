@@ -1,7 +1,7 @@
 ---
 title: "Colombia Apartments&Rooms"
 description: "Colombia Apartments&Rooms emerges as a modern oasis in the heart of Durrës, mere steps from the serene Currila Beach."
-featuredImage: "/images/accommodation/colombia-apartments-rooms-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: colombia-apartments-rooms
 address: "Rruga Taulantia L1, 2001 Durrës, Albania"

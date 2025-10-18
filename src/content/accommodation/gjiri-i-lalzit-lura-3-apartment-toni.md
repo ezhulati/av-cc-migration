@@ -1,7 +1,7 @@
 ---
 title: "Gjiri i Lalzit Lura 3 Apartment Toni"
 description: "Gjiri i Lalzit Lura 3 Apartment Toni emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/gjiri-i-lalzit-lura-3-apartment-toni-8103dfb0481c.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
 language: en
 slug: gjiri-i-lalzit-lura-3-apartment-toni
 address: "Rruga Gjiri i Lalzit 4, Durrës, Albania"

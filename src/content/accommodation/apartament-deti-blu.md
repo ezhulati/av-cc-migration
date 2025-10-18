@@ -1,7 +1,7 @@
 ---
 title: "Apartament Deti Blu"
 description: "Apartament Deti Blu emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from the serene Beach at Government Villas and the inviting sands of Liro Beach."
-featuredImage: "/images/accommodation/apartament-deti-blu-475224589.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475224589.jpg?k=bcdde2a52f03855a442fd7056ab182d27404002603f7c1fa7366e682a33f5c91&o=&hp=1"
 language: en
 slug: apartament-deti-blu
 address: "Rruga nacionale Vlore-Sarande, Uji i ftohte, 9402 Vlorë, Albania"

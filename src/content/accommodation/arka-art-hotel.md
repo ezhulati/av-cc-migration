@@ -1,7 +1,7 @@
 ---
 title: "Arka Art Hotel"
 description: "Arka Art Hotel emerges as a distinguished destination for travelers seeking exceptional service and comfort in Tirana."
-featuredImage: "/images/accommodation/arka-art-hotel-453526271.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453526271.jpg?k=f9b9ca6829bb1472e3c123430df201deed511efeb5e713f8d7534c71120ea124&o=&hp=1"
 language: en
 slug: arka-art-hotel
 address: "Rezidenca Kodra e Diellit, 1001 Tirana, Albania"

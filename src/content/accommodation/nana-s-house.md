@@ -1,7 +1,7 @@
 ---
 title: "Nana’s House"
 description: "Nana's House emerges as a serene retreat in the heart of Shkodër, a mere stone's throw away from the bustling Port of Bar, located 50 km away."
-featuredImage: "/images/accommodation/nana-s-house-525653799.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525653799.jpg?k=325fdd8a69999c6d05a35dc5d3fa2544a28686a0048b64e7d2c035c40bb32821&o=&hp=1"
 language: en
 slug: nana-s-house
 address: "Street Ishmej, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "North Star Hostel"
 description: "North Star Hostel, situated in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/north-star-hostel-454708429.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454708429.jpg?k=e5f616c84cf2ec42a4c92680a0b84f8287c8ce68f5c9f85ae7d06f06962577c6&o=&hp=1"
 language: en
 slug: north-star-hostel
 address: "Bulevardi Bujar Bishanaku Ramadan Sokoli, 4001 Shkodër, Albania"

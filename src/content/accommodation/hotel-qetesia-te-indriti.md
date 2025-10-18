@@ -1,7 +1,7 @@
 ---
 title: "Hotel Qetesia-Te Indriti"
 description: "Hotel Qetesia-Te Indriti emerges as a serene oasis in Velipojë, merely a stone's throw away from the pristine Velipoja Beach."
-featuredImage: "/images/accommodation/hotel-qetesia-te-indriti-482187037.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482187037.jpg?k=cc7a299b73adb0180810b80a075b759ea6bd851eceb163b663b52242abdbfd91&o=&hp=1"
 language: en
 slug: hotel-qetesia-te-indriti
 address: "Rruga Nr.7, 4001 Velipojë, Albania"

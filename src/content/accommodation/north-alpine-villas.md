@@ -1,7 +1,7 @@
 ---
 title: "North Alpine Villas"
 description: "North Alpine Villas presents a serene retreat in Bogë, a mere 26 km from the breathtaking Theth National Park."
-featuredImage: "/images/accommodation/north-alpine-villas-492791457.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492791457.jpg?k=c49c8b18cc84d41d68b2c9edfbb4475ba145a8b360db9345b74920adabff3057&o=&hp=1"
 language: en
 slug: north-alpine-villas
 address: "Rruga per Thethe Fushe-Okol, 4305 Bogë, Albania"

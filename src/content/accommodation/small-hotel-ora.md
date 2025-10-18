@@ -1,7 +1,7 @@
 ---
 title: "Small Hotel Ora"
 description: "Small Hotel Ora emerges as a charming retreat for travelers seeking a serene stay close to the natural wonders of Pogradec."
-featuredImage: "/images/accommodation/small-hotel-ora-258232913.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258232913.jpg?k=420c276bf53518156cd45d9dcefec469d68e23493094bea9f5257988385d3629&o=&hp=1"
 language: en
 slug: small-hotel-ora
 address: "Rruga Gani Homcani kati i 2 mbi lokalin, 7301 Pogradec, Albania"

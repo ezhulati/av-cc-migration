@@ -1,7 +1,7 @@
 ---
 title: "Beautiful 1-Bed Apartment in Durres"
 description: "Discover the charm of Durrës with a stay at the Beautiful 1-Bed Apartment in Durres, a gem that boasts a prime location just a stone's throw away from the serene Durres Beach."
-featuredImage: "/images/accommodation/beautiful-1-bed-apartment-in-durres-496832379.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496832379.jpg?k=eef24c61322662ccca8d0b82c9e6bdd332c831729a5837d3753dddf00b9c9f62&o=&hp=1"
 language: en
 slug: beautiful-1-bed-apartment-in-durres
 address: "11, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Xheni Apartament"
 description: "Xheni Apartament emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/xheni-apartament-364115602.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364115602.jpg?k=3e58aad79da355e2b75afd6d0d6cd6f949d958b90525d28d8c5f00566eabdc00&o=&hp=1"
 language: en
 slug: xheni-apartament
 address: "blloku qeveritar plazh prane tropikal resort, 2000 Durrës, Albania"

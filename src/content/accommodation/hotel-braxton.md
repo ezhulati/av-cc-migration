@@ -1,7 +1,7 @@
 ---
 title: "HOTEL BRAXTON"
 description: "HOTEL BRAXTON stands out as a premier destination for travelers seeking both comfort and convenience in Bulqizë, located just 8."
-featuredImage: "/images/accommodation/hotel-braxton-508362706.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508362706.jpg?k=079deafa6d4b52e6d99a197b4b5befd24ba1983de42d0e012ab3b510108332e0&o=&hp=1"
 language: en
 slug: hotel-braxton
 address: "Bulqize Bllate e Eperme, 8400 Bulqizë, Albania"

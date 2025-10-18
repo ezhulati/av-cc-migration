@@ -1,7 +1,7 @@
 ---
 title: "Foleza - Bed and breakfast"
 description: "Foleza Bed and Breakfast emerges as a charming retreat in the heart of Vlorë, merely a stone's throw away from the iconic Independence Square and the historic Kuzum Baba."
-featuredImage: "/images/accommodation/foleza-bed-and-breakfast-278218693.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/278218693.jpg?k=bdf8f98e3dcf58888a611a7b20fe52820a90ba6498e0069c54a3bc617f4e1889&o=&hp=1"
 language: en
 slug: foleza-bed-and-breakfast
 address: "Rruga Ceno Sharra, 9401 Vlorë, Albania"

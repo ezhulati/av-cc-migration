@@ -1,7 +1,7 @@
 ---
 title: "Hotel 4 Stinet"
 description: "Hotel 4 Stinet emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, positioned just a short stroll from Independence Square and within easy reach of the iconic Kuzum Baba."
-featuredImage: "/images/accommodation/hotel-4-stinet-232726487.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/232726487.jpg?k=81475ea8e89c2d72b34e00ab99c949301b1c4348f4582b4325bc35480237dae2&o=&hp=1"
 language: en
 slug: hotel-4-stinet
 address: "Janaq Kilica, 9403 Vlorë, Albania"

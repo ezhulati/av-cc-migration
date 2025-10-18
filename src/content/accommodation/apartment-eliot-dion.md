@@ -1,7 +1,7 @@
 ---
 title: "Apartment Eliot-Dion"
 description: "Apartment Eliot-Dion emerges as a prime choice for travelers seeking comfort and convenience in Orikum, positioned just a short stroll from both Baro Beach and Al Breeze Beach."
-featuredImage: "/images/accommodation/apartment-eliot-dion-358998446.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358998446.jpg?k=f1c2e39a31d0776c65e7da0aaae28c6bb1ea94522bfd3f2030d082fae41874b2&o=&hp=1"
 language: en
 slug: apartment-eliot-dion
 address: "Radhime, SH8, Vlore 1001, Albania, 1001 Orikum, Albania"

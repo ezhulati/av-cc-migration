@@ -1,7 +1,7 @@
 ---
 title: "Ben's Apartment-City Center"
 description: "Ben's Apartment-City Center emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "/images/accommodation/ben-s-apartment-city-center-510714632.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510714632.jpg?k=f6c3105a808962ca99bc997eeb516c512b63f63073ce30a9aafb89072f092a05&o=&hp=1"
 language: en
 slug: ben-s-apartment-city-center
 address: "Rruga Sulejman Pasha, 1016 Tirana, Albania"

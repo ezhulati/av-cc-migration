@@ -1,7 +1,7 @@
 ---
 title: "Blloku's Modern Apartments"
 description: "Blloku's Modern Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/blloku-s-modern-apartments-404683611.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404683611.jpg?k=c73468fbe53b33efb13b6ff8303c068f3af1a2806b1803e50d65339575435677&o=&hp=1"
 language: en
 slug: blloku-s-modern-apartments
 address: "Rruga Nikolla Tupe, 1010 Tirana, Albania"

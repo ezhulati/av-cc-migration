@@ -1,7 +1,7 @@
 ---
 title: "Lovely one-bedroom apartment with private entrance"
 description: "Discover the charm of Tirana with a stay at the Lovely one-bedroom apartment, a gem that offers guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/lovely-one-bedroom-apartment-with-private-entrance-373520394.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373520394.jpg?k=e8db78503783c88727b93ce5098ca7aa17ebae422f12e08e13d41ffa43212feb&o=&hp=1"
 language: en
 slug: lovely-one-bedroom-apartment-with-private-entrance
 address: "Rruga Ali Demi, Godina 2, Apartamenti 6, perballe shkolles \"Kushtrimi Lirise\", 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel-Villa Samuel"
 description: "Jico Travel-Villa Samuel emerges as a serene retreat, offering guests a unique blend of comfort and convenience just a short distance from the heart of the city."
-featuredImage: "/images/accommodation/jico-travel-villa-samuel-469915609.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469915609.jpg?k=588a71d67f51ff3713a779ba05d1d096d17de53d5d4bdc82cd58c70a92a9e540&o=&hp=1"
 language: en
 slug: jico-travel-villa-samuel
 address: "Vlore - Kanine, 9401 Vlorë, Albania"

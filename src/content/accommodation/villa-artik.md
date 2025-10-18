@@ -1,7 +1,7 @@
 ---
 title: "Villa Artik"
 description: "Villa Artik emerges as a serene retreat in the vibrant heart of Himare, boasting an enviable position mere moments from the pristine Livadhi Beach and just a short distance from the tranquil Akuariumit Beach."
-featuredImage: "/images/accommodation/villa-artik-495399872.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495399872.jpg?k=3836681e383e06acc14f57d89acaba2181942b40e1e4a79800d28e0a133ea04a&o=&hp=1"
 language: en
 slug: villa-artik
 address: "Himare - Livadh Road, 9425 Himare, Albania"

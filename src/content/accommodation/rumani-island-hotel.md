@@ -1,7 +1,7 @@
 ---
 title: "Rumani Island Hotel"
 description: "Rumani Island Hotel, located in the serene Vlorë County region of Ksamil, stands out as a distinguished 4-star establishment, merely a short drive from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/rumani-island-hotel-518888297.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518888297.jpg?k=e8d8f9c847d0a868a1b6847fa7189b03532362315423eb0b72baf55600997a29&o=&hp=1"
 language: en
 slug: rumani-island-hotel
 address: "Rruga Butrinti, 4 Valltaret, 9706 Ksamil, Albania"

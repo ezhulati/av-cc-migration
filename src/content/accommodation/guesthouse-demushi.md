@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Demushi"
 description: "Guesthouse Demushi emerges as a serene retreat in the heart of Valbonë, located in the picturesque Kukës County."
-featuredImage: "/images/accommodation/guesthouse-demushi-375026091.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375026091.jpg?k=b8c76ab07af7b6dbf12398e1e157b451fcdbdd635375acceb5296879ab8435c9&o=&hp=1"
 language: en
 slug: guesthouse-demushi
 address: "Rruga Azem Hajdari, 8700 Valbonë, Albania"

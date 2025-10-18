@@ -1,7 +1,7 @@
 ---
 title: "SUNSET VIBES DURRËS"
 description: "Sunset Vibes Durrës emerges as a premier beachfront gem in Durrës, boasting an enviable position mere steps from the pristine Kallmi Beach and a short stroll from Currila Beach."
-featuredImage: "/images/accommodation/sunset-vibes-durr-s-498654055.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498654055.jpg?k=217a3f1775848561c2e6cb0d6b4b5a287fcf8215d9c656bcdfe010e873729b87&o=&hp=1"
 language: en
 slug: sunset-vibes-durr-s
 address: "Rruga e Currilave, S.Efendi, Tower 3, Apartament Sunset Vibes APARTMENT SUNSET VIBES, 2001 Durrës, Albania"

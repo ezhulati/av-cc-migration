@@ -1,7 +1,7 @@
 ---
 title: "gled studioflat"
 description: "Gled Studioflat emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/gled-studioflat-513769095.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513769095.jpg?k=6b905a20592698d0f8153b46878e7092c0be54ba593911b7b399209835997736&o=&hp=1"
 language: en
 slug: gled-studioflat
 address: "Rruga Frosina Plaku, 1001 Tirana, Albania"

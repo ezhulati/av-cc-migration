@@ -1,7 +1,7 @@
 ---
 title: "Luxury condo in Tirana"
 description: "Discover the epitome of comfort and convenience at Luxury Condo in Tirana, a prime choice for travelers seeking a serene retreat in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/luxury-condo-in-tirana-504406668.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504406668.jpg?k=5ed17f667a7de2117dafe6b64c9c8111e5707b3d98339c061d1b66b08eb50d9b&o=&hp=1"
 language: en
 slug: luxury-condo-in-tirana
 address: "Bulevardi Gjergj Fishta, Alpas Center, Tirana, Albania"

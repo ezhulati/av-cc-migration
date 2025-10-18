@@ -1,7 +1,7 @@
 ---
 title: "Gimi Apartments 2"
 description: "Gimi Apartments 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "/images/accommodation/gimi-apartments-2-452862310.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452862310.jpg?k=d14afed96144121ae859a9a7596b783c4e6825f4a8ff765d66239cdba9690c6c&o=&hp=1"
 language: en
 slug: gimi-apartments-2
 address: "Rruga Pavaresia, Ndertesa 76 5th floor, Apt 23, Nd 76, 2008 Durrës, Albania"

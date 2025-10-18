@@ -1,7 +1,7 @@
 ---
 title: "Oaz Apartments"
 description: "Oaz Apartments emerges as a prime choice for travelers seeking comfort and convenience in Skataj, offering air-conditioned accommodations complete with a balcony."
-featuredImage: "/images/accommodation/oaz-apartments-478201366.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478201366.jpg?k=7ef9882715d0f2ae07dfe741932d4b8f3b1f55e50ae38e90c8e98bbf2fa798b1&o=&hp=1"
 language: en
 slug: oaz-apartments
 address: "Rruga Shëngjin - Kune, Skataj, Albania"

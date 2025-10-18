@@ -1,7 +1,7 @@
 ---
 title: "Sea View Beach apartment"
 description: "Sea View Beach Apartment emerges as a modern oasis in Durrës, boasting a prime location close to the pristine shores of Shkëmbi i Kavajës Beach, Durres Beach, and the iconic Rock of Kavaje."
-featuredImage: "/images/accommodation/sea-view-beach-apartment-466620938.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466620938.jpg?k=6779ac60e61fe133b14822cd48bd9e7afe95b9539373c00cffe681de287166ab&o=&hp=1"
 language: en
 slug: sea-view-beach-apartment
 address: "Rruga PLAZH 13 Hyrja 1, 2008 Durrës, Albania"

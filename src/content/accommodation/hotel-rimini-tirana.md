@@ -1,7 +1,7 @@
 ---
 title: "Hotel Rimini Tirana"
 description: "Hotel Rimini Tirana emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-rimini-tirana-185789226.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185789226.jpg?k=9728d711122a800cfbe9a687fd76491cf1d5e6d463d79374c5a6f932ac5165c5&o=&hp=1"
 language: en
 slug: hotel-rimini-tirana
 address: "Rruga Adem Jashari 10, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunny Beach Apartment Vlora"
 description: "Sunny Beach Apartment Vlora emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty, just a stone's throw away from Vlore Beach."
-featuredImage: "/images/accommodation/sunny-beach-apartment-vlora-211078330.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211078330.jpg?k=947214495adeb043f7f703c79668f65403b0f287cfa423ee24c5f7f0e95844dd&o=&hp=1"
 language: en
 slug: sunny-beach-apartment-vlora
 address: "Lagjja 10 Korriku, Sh8, Ndertesa Globus Konstruksion Apartman 54 - 7. Floor, 9401 Vlorë, Albania"

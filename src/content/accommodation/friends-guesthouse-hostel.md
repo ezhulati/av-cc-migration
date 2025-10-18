@@ -1,7 +1,7 @@
 ---
 title: "Friends' Guesthouse & Hostel"
 description: "Friends' Guesthouse & Hostel emerges as a charming retreat in the historic heart of Gjirokastër, offering a unique blend of communal spirit and privacy."
-featuredImage: "/images/accommodation/friends-guesthouse-hostel-153315147.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153315147.jpg?k=ff590cbfe74eb7d709c559da36d8605fb9c8c4500805833e23130ab33595ddcd&o=&hp=1"
 language: en
 slug: friends-guesthouse-hostel
 address: "Rruga Alqi Kondi, 6000 Gjirokastër, Albania"

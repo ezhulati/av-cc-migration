@@ -1,7 +1,7 @@
 ---
 title: "Sea La Vie"
 description: "Sea La Vie emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/sea-la-vie-496548929.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496548929.jpg?k=55353cb1baa0479cf820bffdcbfeb15a2e20c749b58efea4ef7a830786616857&o=&hp=1"
 language: en
 slug: sea-la-vie
 address: "Rruga Mitat Hoxha, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Urban loft W/ Beachview wi-fi Ac"
 description: "Urban Loft with Beachview stands as a modern retreat in the heart of Sarandë, merely a stone's throw away from the serene La Petite Beach and the vibrant Maestral Beach."
-featuredImage: "/images/accommodation/urban-loft-w-beachview-wi-fi-ac-495355755.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495355755.jpg?k=8732ac793ebbc055cc30a70f4ff4516e0120d71202d7b004f868418b37ba6691&o=&hp=1"
 language: en
 slug: urban-loft-w-beachview-wi-fi-ac
 address: "rruga teki haderi, 9701 Sarandë, Albania"

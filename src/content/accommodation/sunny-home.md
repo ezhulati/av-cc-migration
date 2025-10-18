@@ -1,7 +1,7 @@
 ---
 title: "Sunny Home"
 description: "Sunny Home emerges as a prime choice for travelers seeking comfort and convenience in Golem, located just a short stroll from Mali I Robit Beach and within easy reach of Qerret Beach."
-featuredImage: "/images/accommodation/sunny-home-377057754.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377057754.jpg?k=bda413658bb65c428f4d883ba5a41591a831cf644aa9d664b698ae0e26db3941&o=&hp=1"
 language: en
 slug: sunny-home
 address: "Rruga Dardania, 2501 Golem, Albania"

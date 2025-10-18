@@ -1,7 +1,7 @@
 ---
 title: "Timber Guest House"
 description: "Timber Guest House emerges as a charming retreat in the heart of Berat, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/timber-guest-house-490363644.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490363644.jpg?k=620ff46e02ad4d593c77f7ae87b18d431b113ceda42b76332e61980e9ca9df2b&o=&hp=1"
 language: en
 slug: timber-guest-house
 address: "Rruga Mihal Komnena, 5001 Berat, Albania"

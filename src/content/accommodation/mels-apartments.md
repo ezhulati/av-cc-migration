@@ -1,7 +1,7 @@
 ---
 title: "Mels apartments"
 description: "Mels Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, situated just a stone's throw away from the main beach and within easy reach of the city's vibrant beachfront and Saranda Bay Beach."
-featuredImage: "/images/accommodation/mels-apartments-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/5800389240031330/picture?type=square&height=64&width=64"
 language: en
 slug: mels-apartments
 address: "Rruga Ismail Qemali, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Likehome Center 1"
 description: "Discover the charm of Tirana with a stay at Likehome Center 1, a prime accommodation choice that places guests in the heart of the city, just a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/likehome-center-1-527222433.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527222433.jpg?k=7ce3b1bbfefea266740b6c23e4d05cf5fdde8f084bd8d398ca007070c7cc3d30&o=&hp=1"
 language: en
 slug: likehome-center-1
 address: "Bulevardi Bajram Curri, 1060 Tirana, Albania"

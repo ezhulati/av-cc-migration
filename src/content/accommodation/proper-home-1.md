@@ -1,7 +1,7 @@
 ---
 title: "Proper Home 1"
 description: "Proper Home 1 emerges as a prime choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "/images/accommodation/proper-home-1-505241520.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505241520.jpg?k=06b3554b541d4ac2fbecc96e8aabb53e699927159c6f377f5eb0907cb8c2e370&o=&hp=1"
 language: en
 slug: proper-home-1
 address: "Rruga Doktor Vasil Jorgji, 6001 Gjirokastër, Albania"

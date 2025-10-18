@@ -1,7 +1,7 @@
 ---
 title: "VILA SS KEKEZI"
 description: "VILA SS KEKEZI emerges as a serene retreat in the heart of Gjirokastër, offering guests a blend of comfort and convenience with its well-appointed amenities."
-featuredImage: "/images/accommodation/vila-ss-kekezi-191357173.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/191357173.jpg?k=88b0495f2dfb8fc0a06cc850ac7e452b1d077460cadf826cf2808ff21e1915ca&o=&hp=1"
 language: en
 slug: vila-ss-kekezi
 address: "Rruga Ropi Jani varrosh nr.17, 1001 Gjirokastër, Albania"

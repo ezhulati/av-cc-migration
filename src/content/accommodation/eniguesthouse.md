@@ -1,7 +1,7 @@
 ---
 title: "EniGuesthouse"
 description: "EniGuesthouse, located in the historic heart of Gjirokastër and a mere 45 km from the serene Zaravina Lake, stands out as a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/eniguesthouse-525867740.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525867740.jpg?k=2434c05f2f538dd097e2f14e7713f16457efeb3e72de3c943c6a940316044aeb&o=&hp=1"
 language: en
 slug: eniguesthouse
 address: "Rruga Hysen Hoxha, 6001 Gjirokastër, Albania"

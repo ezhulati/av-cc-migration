@@ -1,7 +1,7 @@
 ---
 title: "Hostel Rinas"
 description: "Hostel Rinas stands out as a serene oasis for travelers seeking both tranquility and convenience in Rinas."
-featuredImage: "/images/accommodation/hostel-rinas-AOh14GgpJbSm.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgpJbSmKaW0Y1V1YHzrTTYgj_Phqd_qMYRc2mdHqA=s96-c64"
 language: en
 slug: hostel-rinas
 address: "Rinas Albania 00123 Perball Repartit, 1504 Rinas, Albania"

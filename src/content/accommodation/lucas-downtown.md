@@ -1,7 +1,7 @@
 ---
 title: "Lucas Downtown"
 description: "Lucas Downtown emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lucas-downtown-471538961.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471538961.jpg?k=f648d221602a75b143c5f9ac06998d7db775dc5a322183197402be9cb8609bcb&o=&hp=1"
 language: en
 slug: lucas-downtown
 address: "66 Rruga Fortuzi 2nd Floor, Door Nr. 4, Tirana, Albania"

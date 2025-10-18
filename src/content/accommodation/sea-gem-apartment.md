@@ -1,7 +1,7 @@
 ---
 title: "Sea Gem Apartment"
 description: "Sea Gem Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Dhërmi."
-featuredImage: "/images/accommodation/sea-gem-apartment-348252141.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348252141.jpg?k=1dc31241213479eb765faf8bb88c2682490d06df83a368a26b73a914f1838480&o=&hp=1"
 language: en
 slug: sea-gem-apartment
 address: "Ish kampi i punetoreve Dhermi ( In front of Luciano Hotel & Restorant ), 9425 Dhërmi, Albania"

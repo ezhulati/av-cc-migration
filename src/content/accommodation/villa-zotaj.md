@@ -1,7 +1,7 @@
 ---
 title: "Villa Zotaj"
 description: "Villa Zotaj emerges as a serene oasis in the heart of Ksamil, offering guests a unique blend of comfort and convenience with its prime location close to Sunset Beach, Ksamil Beach, and Coco Beach."
-featuredImage: "/images/accommodation/villa-zotaj-335237540.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335237540.jpg?k=b46ebdab8cbcb0f9b81962b0d54a1920f3594a2265cde996d3d4c61b834f8c92&o=&hp=1"
 language: en
 slug: villa-zotaj
 address: "Ksamil, 9706 Ksamil, Albania"

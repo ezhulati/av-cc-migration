@@ -1,7 +1,7 @@
 ---
 title: "Amansar Boutique Hotel"
 description: "Amansar Boutique Hotel emerges as a serene oasis in the vibrant heart of Tirana, merely a stone's throw away from the Dajti Ekspres Cable Car and a short drive from the city's iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/amansar-boutique-hotel-385800774.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385800774.jpg?k=6efe024858e4e074325b8472816c9ea0aa10e31f5d04e457c96172c60627d8b7&o=&hp=1"
 language: en
 slug: amansar-boutique-hotel
 address: "Rruga Tahsim Shehu, 1001 Tirana, Albania"

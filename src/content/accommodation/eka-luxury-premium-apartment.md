@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury Premium Apartment"
 description: "EKA Luxury Premium Apartment emerges as a distinguished choice for travelers seeking a blend of comfort and convenience, with its prime location just a short stroll from Durres Beach and commanding mountain views."
-featuredImage: "/images/accommodation/eka-luxury-premium-apartment-326807015.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326807015.jpg?k=452d8bb0b1edc70983eaf42dc7910dbbd403ba24f21c809ab4e05c2246dad5f5&o=&hp=1"
 language: en
 slug: eka-luxury-premium-apartment
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

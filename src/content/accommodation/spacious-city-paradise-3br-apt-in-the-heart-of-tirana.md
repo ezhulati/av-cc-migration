@@ -1,7 +1,7 @@
 ---
 title: "Spacious City Paradise - 3BR Apt in the Heart of Tirana"
 description: "Spacious City Paradise - 3BR Apt in the Heart of Tirana emerges as a freshly updated gem, strategically positioned to offer guests the quintessence of Tirana's urban experience."
-featuredImage: "/images/accommodation/spacious-city-paradise-3br-apt-in-the-heart-of-tirana-512226644.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512226644.jpg?k=99edaf44ae7cb32fa38bf653b02252c351621eb38342a1dfd6b5183f61f3012c&o=&hp=1"
 language: en
 slug: spacious-city-paradise-3br-apt-in-the-heart-of-tirana
 address: "Rruga Shyqyri Ishmi, Tirana, Albania"

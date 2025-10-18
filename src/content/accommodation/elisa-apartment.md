@@ -1,7 +1,7 @@
 ---
 title: "Elisa Apartment"
 description: "Elisa Apartment emerges as a serene retreat in the historic heart of Gjirokastër, a mere stone's throw away from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/elisa-apartment-459795861.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459795861.jpg?k=f9c4d08eb9959b90b79127bd8fcaf2b8235e4b342211da6f697566bfa1e4efc5&o=&hp=1"
 language: en
 slug: elisa-apartment
 address: "Rruga Muzafer Kotroci, 6001 Gjirokastër, Albania"

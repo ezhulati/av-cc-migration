@@ -1,7 +1,7 @@
 ---
 title: "“My Home” at Old Town Vlora"
 description: "\"My Home\" at Old Town Vlora stands out as a serene retreat, offering guests a unique blend of comfort and convenience just a short stroll from the historic Independence Square."
-featuredImage: "/images/accommodation/my-home-at-old-town-vlora-381390024.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381390024.jpg?k=9dbbf2f875c93ff48f66115fb012867fa5653a95b694bb28d38e3d092639c7c3&o=&hp=1"
 language: en
 slug: my-home-at-old-town-vlora
 address: "Rruga Tasin Jonuzi, Vlorë, Albania"

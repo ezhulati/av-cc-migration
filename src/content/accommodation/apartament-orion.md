@@ -1,7 +1,7 @@
 ---
 title: "Apartament Orion"
 description: "Apartament Orion emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, boasting a prime location just a short distance from the vibrant Vlore Beach and the historic Independence Square."
-featuredImage: "/images/accommodation/apartament-orion-350097264.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350097264.jpg?k=51e62279f3fee365fa562c849fbd8611278a0b8441e372d396961d1f3ee1f0e1&o=&hp=1"
 language: en
 slug: apartament-orion
 address: "Rruga Hajredin Haxhiraj, 9401 Vlorë, Albania"

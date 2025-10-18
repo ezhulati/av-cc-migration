@@ -1,7 +1,7 @@
 ---
 title: "Hotel Denta"
 description: "Hotel Denta emerges as a distinguished choice for travelers seeking both relaxation and adventure in Vlorë, situated merely 300 meters from the serene Radhimë Beach."
-featuredImage: "/images/accommodation/hotel-denta-473001901.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473001901.jpg?k=bf66b2c648dc0c04e0a7c5c4c83719d917c8fc17cec6dbebc257a6769e5886cd&o=&hp=1"
 language: en
 slug: hotel-denta
 address: "Rruga Nacionale Orikum, 6000 Vlorë, Albania"

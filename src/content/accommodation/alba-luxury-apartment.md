@@ -1,7 +1,7 @@
 ---
 title: "Alba Luxury Apartment"
 description: "Alba Luxury Apartment emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/alba-luxury-apartment-145029074.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145029074.jpg?k=42a8840a14fd4024effe65d24d42fd54ef7f3a9b3e701e04fecc7e8a23eeabdd&o=&hp=1"
 language: en
 slug: alba-luxury-apartment
 address: "Rruga Poseidon Nr 2, Shkembi i Kavajes, 2000 Durrës, Albania"

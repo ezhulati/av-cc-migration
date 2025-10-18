@@ -1,7 +1,7 @@
 ---
 title: "Apartment Astiri"
 description: "Apartment Astiri emerges as a prime choice for travelers seeking a serene retreat in the heart of Tirana, conveniently located within a short distance from the city's most iconic landmarks."
-featuredImage: "/images/accommodation/apartment-astiri-487689413.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487689413.jpg?k=cd09c218937584ce20e9049917f41de7dcd5dca2fe87dd9926252e12b28be588&o=&hp=1"
 language: en
 slug: apartment-astiri
 address: "Rruga Foto Xhavella, 1001 Tirana, Albania"

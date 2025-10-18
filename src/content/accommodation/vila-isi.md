@@ -1,7 +1,7 @@
 ---
 title: "Vila Isi"
 description: "Vila Isi emerges as a serene retreat in the heart of Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs, located 43 km away, and the historic Monastery Saint Naum, just 42 km from its doorstep."
-featuredImage: "/images/accommodation/vila-isi-375943060.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375943060.jpg?k=44efb44fd61a17574c8d0d03affe90259bfd3b4c81f460068b76f2b1610d64a4&o=&hp=1"
 language: en
 slug: vila-isi
 address: "Rruga Riza Mance, 7001 Korçë, Albania"

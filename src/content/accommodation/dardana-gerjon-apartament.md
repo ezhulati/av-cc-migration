@@ -1,7 +1,7 @@
 ---
 title: "Dardana&Gerjon apartament"
 description: "Dardana&Gerjon Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Bathore."
-featuredImage: "/images/accommodation/dardana-gerjon-apartament-500719721.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500719721.jpg?k=ce8b2f3921a0623c7e7f8154847b197332dec2aebdb7a2e9a28188749bf79ea6&o=&hp=1"
 language: en
 slug: dardana-gerjon-apartament
 address: "Bulevardi Blu, 1030 Bathore, Albania"

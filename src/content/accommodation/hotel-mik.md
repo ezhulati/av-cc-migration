@@ -1,7 +1,7 @@
 ---
 title: "Hotel MIK"
 description: "Hotel MIK emerges as a serene oasis in Korçë, merely a stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/hotel-mik-507357387.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507357387.jpg?k=efdd6d48ce02ce35d38822e93eab465f72ae5fe8d32e040239166af93b607ac1&o=&hp=1"
 language: en
 slug: hotel-mik
 address: "Bulevardi Fan Noli Lagjja 7 Ish-Materniteti i vjeter, 7001 Korçë, Albania"

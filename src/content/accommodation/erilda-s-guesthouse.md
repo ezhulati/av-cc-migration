@@ -1,7 +1,7 @@
 ---
 title: "Erilda’s Guesthouse"
 description: "Erilda's Guesthouse emerges as a serene haven in Sarandë, offering a tranquil retreat less than a kilometer from the vibrant Saranda City Beach and a mere 14-minute stroll from the quaint La Petite Beach."
-featuredImage: "/images/accommodation/erilda-s-guesthouse-522155020.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522155020.jpg?k=a4d79244d2f69d2d2e2e82c8400b92b532e6bf11d20302217ed663697e41c443&o=&hp=1"
 language: en
 slug: erilda-s-guesthouse
 address: "17 Rruga Qazim Demi, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "StartApart City Center"
 description: "StartApart City Center emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of luxury in Durrës."
-featuredImage: "/images/accommodation/startapart-city-center-476375958.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476375958.jpg?k=77f6c7676204ede9d53327a6aba86b0b47dcc258529d08bed5e7fe277db764ee&o=&hp=1"
 language: en
 slug: startapart-city-center
 address: "Rruga Filonid Durrsaku, 2001 Durrës, Albania"

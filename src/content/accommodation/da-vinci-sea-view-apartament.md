@@ -1,7 +1,7 @@
 ---
 title: "Da Vinci Sea View Apartament"
 description: "Da Vinci Sea View Apartment emerges as a prime choice for travelers seeking a serene getaway in Vlorë, offering air-conditioned comfort with the added luxury of a private balcony."
-featuredImage: "/images/accommodation/da-vinci-sea-view-apartament-462116351.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462116351.jpg?k=dd4cb9d726194a26a8f64e0658eed3216706aafaefd0fc3d03db158e89f80bcd&o=&hp=1"
 language: en
 slug: da-vinci-sea-view-apartament
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

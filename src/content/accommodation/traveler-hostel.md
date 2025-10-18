@@ -1,7 +1,7 @@
 ---
 title: "Traveler Hostel"
 description: "Traveler Hostel, situated in the vibrant heart of Shkodër and a mere 49 km from the Port of Bar, stands out for its exceptional city views and welcoming atmosphere."
-featuredImage: "/images/accommodation/traveler-hostel-511266751.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511266751.jpg?k=4e75e1c143ba94d589fcc6db996b17dd7ada8be354549642015659558ec53a9c&o=&hp=1"
 language: en
 slug: traveler-hostel
 address: "4001 Rruga Lëvizja e Postribës, 4001 Shkodër, Albania"

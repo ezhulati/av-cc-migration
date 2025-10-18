@@ -1,7 +1,7 @@
 ---
 title: "Sole apartments"
 description: "Sole Apartments emerges as a prime choice for travelers seeking a serene seaside escape in Shëngjin."
-featuredImage: "/images/accommodation/sole-apartments-489499709.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489499709.jpg?k=6d0db2189ea4cb6edc4a868c23363358d25d9ecb845d04703ae22fe8ec8e7ed7&o=&hp=1"
 language: en
 slug: sole-apartments
 address: "Shëngjin - Kune, Shëngjin, Albania"

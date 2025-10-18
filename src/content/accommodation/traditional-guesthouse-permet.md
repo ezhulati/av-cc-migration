@@ -1,7 +1,7 @@
 ---
 title: "Traditional GuestHouse Permet"
 description: "Traditional GuestHouse Permet emerges as a charming choice for travelers seeking a blend of comfort and convenience in Përmet."
-featuredImage: "/images/accommodation/traditional-guesthouse-permet-449562834.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449562834.jpg?k=ae08231c3b8352356ba90e95a94ef361f34743bb0db8a637ebfc3581dd01f7c1&o=&hp=1"
 language: en
 slug: traditional-guesthouse-permet
 address: "Bual, Albania Lagje golemas, 6400 Përmet, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Feel at home ap1"
 description: "Feel at Home ap1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/feel-at-home-ap1-429198422.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429198422.jpg?k=105f6587fe90ca9322c382108249d22c03cdff6b0eca144b16f506f11da24a0a&o=&hp=1"
 language: en
 slug: feel-at-home-ap1
 address: "Rruga Petro Nini Luarasi Godina 85, 1001 Tirana, Albania"

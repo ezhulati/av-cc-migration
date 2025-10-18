@@ -1,7 +1,7 @@
 ---
 title: "SANDY Blue Sea"
 description: "SANDY Blue Sea emerges as a standout choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/sandy-blue-sea-480329038.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480329038.jpg?k=050d05b63f9accc339a607c59ec402006ac682a3a5ddbd0bcd34938c3359ad63&o=&hp=1"
 language: en
 slug: sandy-blue-sea
 address: "Durres, Lagjja 13, Plazh Hekurudha, Rruga Agaveve, 2001 Durrës, Albania"

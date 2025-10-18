@@ -1,7 +1,7 @@
 ---
 title: "Cityscape Saranda"
 description: "Cityscape Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a short stroll from the vibrant Sarande Main Beach."
-featuredImage: "/images/accommodation/cityscape-saranda-463330409.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463330409.jpg?k=bcd5588f1adf2e2847431e170b84582591efeaf0a7fcd17888474f965afd407f&o=&hp=1"
 language: en
 slug: cityscape-saranda
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

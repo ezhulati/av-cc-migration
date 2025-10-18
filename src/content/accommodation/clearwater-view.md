@@ -1,7 +1,7 @@
 ---
 title: "Clearwater View"
 description: "Clearwater View stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/clearwater-view-481337375.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481337375.jpg?k=8890a2d84ffcf3abb3044b1d8f5915000cbd948d8b431df73aa741bfd7aa2424&o=&hp=1"
 language: en
 slug: clearwater-view
 address: "Rruga Butrinti, Sarandë, Albania"

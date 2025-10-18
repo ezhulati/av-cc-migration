@@ -1,7 +1,7 @@
 ---
 title: "Holiday Apartaments Durres"
 description: "Holiday Apartments Durres emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on their visit to Durrës."
-featuredImage: "/images/accommodation/holiday-apartaments-durres-472862641.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472862641.jpg?k=fbb1b56800b8e8c658dc012813b11a3f3bdbdd8d1d3ef4b59225ee13a991fced&o=&hp=1"
 language: en
 slug: holiday-apartaments-durres
 address: "Rruga Bajram Curri, Durrës, Albania"

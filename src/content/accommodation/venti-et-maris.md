@@ -1,7 +1,7 @@
 ---
 title: "Venti et Maris"
 description: "Venti et Maris emerges as a charming retreat in the heart of Ksamil, merely a stone's throw away from the serene Sunset Beach."
-featuredImage: "/images/accommodation/venti-et-maris-456698984.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456698984.jpg?k=48d4016635707b6f3878ab3a8471b6e7cbf20db8c8c2c39a09e1987a660362f7&o=&hp=1"
 language: en
 slug: venti-et-maris
 address: "SH81, 9706 Ksamil, Albania"

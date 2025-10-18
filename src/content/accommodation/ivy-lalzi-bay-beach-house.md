@@ -1,7 +1,7 @@
 ---
 title: "Ivy Lalzi Bay Beach House"
 description: "Ivy Lalzi Bay Beach House stands as a serene retreat right on the shores of Lalëz Bay Beach, merely 50 meters from the gentle waves and a short drive from the historic heart of Durrës."
-featuredImage: "/images/accommodation/ivy-lalzi-bay-beach-house-300163710.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300163710.jpg?k=2977c8fffe5c116c2b6200a94ed79c27cb15393059a0b9f0c5fefdea3f02f64b&o=&hp=1"
 language: en
 slug: ivy-lalzi-bay-beach-house
 address: "Rruga Gjiri i Lalzit Lura 1 Residence, 2000 Durrës, Albania"

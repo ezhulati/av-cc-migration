@@ -1,7 +1,7 @@
 ---
 title: "Cane Apartment Emerald"
 description: "Cane Apartment Emerald emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cane-apartment-emerald-523137155.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523137155.jpg?k=a10ba5aacfd7c3417dc5d32c83ca2562b350d03144aae2448f724b675b9819ea&o=&hp=1"
 language: en
 slug: cane-apartment-emerald
 address: "Rruga 5 Maji, 1001 Tirana, Albania"

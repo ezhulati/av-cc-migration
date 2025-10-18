@@ -1,7 +1,7 @@
 ---
 title: "AmIon Apartment in Center of Tirana"
 description: "AmIon Apartment in the heart of Tirana offers a refreshing blend of comfort and convenience, making it a standout choice for travelers seeking a memorable stay in Albania's vibrant capital."
-featuredImage: "/images/accommodation/amion-apartment-in-center-of-tirana-403188052.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403188052.jpg?k=502713a52370beab456efee47645c2db03ac49975fcc2e7c9c65926ad2ffc935&o=&hp=1"
 language: en
 slug: amion-apartment-in-center-of-tirana
 address: "https://maps.google.com/?q=41.331608,19.813166, 1001 Tirana, Albania"

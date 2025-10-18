@@ -1,7 +1,7 @@
 ---
 title: "Noemi’s"
 description: "Noemi's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/noemi-s-430107016.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430107016.jpg?k=d44451b700bdce986d3dcd6a7a469e8688237af9d7651b6135e15e2462929d5f&o=&hp=1"
 language: en
 slug: noemi-s
 address: "Rruga Frederik Shiroka 5, 1001 Tirana, Albania"

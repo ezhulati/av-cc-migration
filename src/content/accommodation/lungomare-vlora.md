@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Vlora"
 description: "Lungomare Vlora stands out as a prime choice for travelers seeking a serene beachfront escape in Vlorë."
-featuredImage: "/images/accommodation/lungomare-vlora-388984773.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388984773.jpg?k=0c433110f02388f6abcfa3a23c6f7c532033ed001bd0b6c9abd51469de013b92&o=&hp=1"
 language: en
 slug: lungomare-vlora
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

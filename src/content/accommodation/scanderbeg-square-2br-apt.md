@@ -1,7 +1,7 @@
 ---
 title: "Scanderbeg Square 2BR APT"
 description: "Scanderbeg Square 2BR APT emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/scanderbeg-square-2br-apt-457094064.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457094064.jpg?k=54ec08316fd77696bc35fa5a14a9e3bf1f0feaa01f817ef745ef4c3679a85fbc&o=&hp=1"
 language: en
 slug: scanderbeg-square-2br-apt
 address: "Rruga e Barrikadave, 1057 Tirana, Albania"

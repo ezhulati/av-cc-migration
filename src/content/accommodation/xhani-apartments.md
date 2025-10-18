@@ -1,7 +1,7 @@
 ---
 title: "Xhani Apartments"
 description: "Xhani Apartments emerges as a prime choice for travelers seeking a serene getaway in Durrës, boasting air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/xhani-apartments-43623724.web.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/43623724.webp?k=4c5f6343dd659ecbeefb00c6dcb2a53879dda714ed78d9e0b16e58efe49773b4&o=?t=1528291215"
 language: en
 slug: xhani-apartments
 address: "Rruga Pavaresia 13, prane Restorant Pinetes, 2001 Durrës, Albania"

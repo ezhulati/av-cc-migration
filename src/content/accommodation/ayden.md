@@ -1,7 +1,7 @@
 ---
 title: "Ayden"
 description: "Ayden presents a refreshing retreat in Vlorë, offering guests the luxury of air-conditioned accommodations complete with a private balcony."
-featuredImage: "/images/accommodation/ayden-460032318.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460032318.jpg?k=1c4ecffff9e4f15177a1e683d360c259bd1c61f8a28eb42e5be1d052ca8e412c&o=&hp=1"
 language: en
 slug: ayden
 address: "Rruga Shaban Demiraj, Vlorë, Albania"

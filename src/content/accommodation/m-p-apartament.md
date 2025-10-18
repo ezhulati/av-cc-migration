@@ -1,7 +1,7 @@
 ---
 title: "M&P Apartament"
 description: "M&P Apartament stands as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, offering direct access to the pristine Maestral Beach."
-featuredImage: "/images/accommodation/m-p-apartament-148877124.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148877124.jpg?k=bba7c7fde2241ac3f929ab9fafb1a7efa976e5c06d254d74278b1542926b5b73&o=&hp=1"
 language: en
 slug: m-p-apartament
 address: "Rr. Butrinti, Saranda, Albania, 9701 Sarandë, Albania"

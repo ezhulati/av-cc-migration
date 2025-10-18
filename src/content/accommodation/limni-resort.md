@@ -1,7 +1,7 @@
 ---
 title: "Limni Resort"
 description: "Limni Resort, a gem just 600 meters from the pristine shores of Ksamil Beach, stands out for its exceptional blend of comfort and convenience, offering guests a memorable stay in Ksamil."
-featuredImage: "/images/accommodation/limni-resort-369739534.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369739534.jpg?k=1d1c3c8acb8424405c020e3ea62cca4a17b464af3c1a46b39997a4a14786759b&o=&hp=1"
 language: en
 slug: limni-resort
 address: "Rruga Pallavraqi 10 Lagjia nr. 2, 9701 Ksamil, Albania"

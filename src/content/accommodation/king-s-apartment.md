@@ -1,7 +1,7 @@
 ---
 title: "King’s Apartment"
 description: "King's Apartment stands as a beacon of comfort and convenience in Korçë, offering a unique blend of modern amenities and serene living spaces."
-featuredImage: "/images/accommodation/king-s-apartment-424672073.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424672073.jpg?k=a43284d8d987e63d259c2d97d5578f09e9dd6f9349d601686afc89e0da99ce8d&o=&hp=1"
 language: en
 slug: king-s-apartment
 address: "Rruga Midhi Kostani 10, 1002 Korçë, Albania"

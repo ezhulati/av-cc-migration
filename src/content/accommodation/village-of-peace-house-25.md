@@ -1,7 +1,7 @@
 ---
 title: "Village of Peace - House 25"
 description: "Village of Peace - House 25 emerges as a recently updated gem in the heart of Shkodër, boasting a serene garden and welcoming bar that promises a memorable stay."
-featuredImage: "/images/accommodation/village-of-peace-house-25-486669034.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486669034.jpg?k=2c4bf98e1456485d094b682853077c1d9b14198737314e8e7ecc8064a2af759b&o=&hp=1"
 language: en
 slug: village-of-peace-house-25
 address: "Rruga Kazenës, 4002 Shkodër, Albania"

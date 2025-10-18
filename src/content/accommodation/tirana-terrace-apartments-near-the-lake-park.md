@@ -1,7 +1,7 @@
 ---
 title: "Tirana Terrace Apartments, near the Lake Park"
 description: "Tirana Terrace Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-terrace-apartments-near-the-lake-park-172334589.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172334589.jpg?k=6f6f82228c1b695af8f588b36c616193c9fe8154f08afb31cf199728e5627487&o=&hp=1"
 language: en
 slug: tirana-terrace-apartments-near-the-lake-park
 address: "Rr. Liman Kaba (Skender Luarasi) P. 45/5, 1019 Tirana, Albania"

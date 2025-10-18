@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kloest"
 description: "Hotel Kloest emerges as a distinguished choice for travelers seeking a blend of convenience and comfort in Durrës."
-featuredImage: "/images/accommodation/hotel-kloest-400125903.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400125903.jpg?k=6c4325e2bbfd70653a086a66a482288a1782f9f8e24ebf820ca706789d86ac59&o=&hp=1"
 language: en
 slug: hotel-kloest
 address: "Rruga At Erazmi, 1010 Durrës, Albania"

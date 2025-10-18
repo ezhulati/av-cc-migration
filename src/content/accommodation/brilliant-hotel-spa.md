@@ -1,7 +1,7 @@
 ---
 title: "Brilliant Hotel & SPA"
 description: "Brilliant Hotel & SPA stands as a beacon of luxury in Golem, just a short stroll from the pristine shores of Qerret Beach."
-featuredImage: "/images/accommodation/brilliant-hotel-spa-226803487.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226803487.jpg?k=f3a2b4b5379deacca38c922ebabf0acd658cd42d3b9d0c05794cf24304d4fd03&o=&hp=1"
 language: en
 slug: brilliant-hotel-spa
 address: "Rruga e Fshatrave Turistike, 2501 Golem, Albania"

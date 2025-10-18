@@ -1,7 +1,7 @@
 ---
 title: "Vila Mario Berat"
 description: "Vila Mario Berat emerges as a serene retreat in the historic city of Berat, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/vila-mario-berat-482616503.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482616503.jpg?k=5b7259d5cba21a2d3c43e0a63115f779d317f80f84c203aa8c0d5e8136fae535&o=&hp=1"
 language: en
 slug: vila-mario-berat
 address: "https://maps.app.goo.gl/NGf9egrFbqobV5um7?g_st=ic 1, 5007 Berat, Albania"

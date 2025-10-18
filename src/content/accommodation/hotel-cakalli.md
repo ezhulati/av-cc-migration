@@ -1,7 +1,7 @@
 ---
 title: "Hotel Cakalli"
 description: "Hotel Cakalli stands as a prime choice for travelers seeking a beachfront retreat in Sarandë, offering a blend of comfort, convenience, and scenic beauty."
-featuredImage: "/images/accommodation/hotel-cakalli-365093454.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365093454.jpg?k=7faf4b933543d0ee48594beed8b4157f6364387e85ec486cf9a085dbf25b12b9&o=&hp=1"
 language: en
 slug: hotel-cakalli
 address: "lagjia nr.3 rruga jonianet, 9701 Sarandë, Albania"

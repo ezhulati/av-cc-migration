@@ -1,7 +1,7 @@
 ---
 title: "Bougainville Bay Resort - Villa 11"
 description: "Bougainville Bay Resort - Villa 11 stands out as a premier choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/bougainville-bay-resort-villa-11-189133118.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189133118.jpg?k=8156df3b54175a193620dcc820c97b98dfc6d7c494a3ed84c8720aec9948e7e9&o=&hp=1"
 language: en
 slug: bougainville-bay-resort-villa-11
 address: "Rruga Butrinti, 1000 Sarandë, Albania"

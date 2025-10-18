@@ -1,7 +1,7 @@
 ---
 title: "Villa Sun"
 description: "Villa Sun emerges as a prime choice for travelers seeking a blend of comfort and convenience, located merely a short stroll from the serene Mali I Robit Beach and a stone's throw away from the picturesque Qerret Beach."
-featuredImage: "/images/accommodation/villa-sun-53982398.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/53982398.jpg?k=18694d9544b686a9c8c36f1f3a2cb01aa9d7f9e2f2e4df7d23d50dd54f01ceff&o=&hp=1"
 language: en
 slug: villa-sun
 address: "Qerret, 1001 Golem, Albania"

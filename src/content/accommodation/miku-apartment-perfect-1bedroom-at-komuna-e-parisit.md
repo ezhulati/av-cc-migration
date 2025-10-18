@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment - Perfect 1Bedroom At Komuna e Parisit"
 description: "Miku Apartment - Perfect 1Bedroom At Komuna e Parisit emerges as a freshly renovated gem in the heart of Tirana, offering a seamless blend of convenience and comfort."
-featuredImage: "/images/accommodation/miku-apartment-perfect-1bedroom-at-komuna-e-parisit-343055364.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343055364.jpg?k=5838c1eaa3735c05bd01d0370b9ed0b479080707c10c5f5e45037a4ceb3a29eb&o=&hp=1"
 language: en
 slug: miku-apartment-perfect-1bedroom-at-komuna-e-parisit
 address: "Rruga Komuna e Parisit, 1019 Tirana, Albania"

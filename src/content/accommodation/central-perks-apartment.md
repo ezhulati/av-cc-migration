@@ -1,7 +1,7 @@
 ---
 title: "Central Perks Apartment"
 description: "Central Perks Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-perks-apartment-465022220.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465022220.jpg?k=cb8f996f7ebacfae8ca1e9cc92d857e77b4659f4f38f3b4ec7a41f192a78901f&o=&hp=1"
 language: en
 slug: central-perks-apartment
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

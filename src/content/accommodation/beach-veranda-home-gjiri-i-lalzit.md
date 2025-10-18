@@ -1,7 +1,7 @@
 ---
 title: "Beach Veranda Home, Gjiri i Lalzit"
 description: "Beach Veranda Home, Gjiri i Lalzit, emerges as a serene oasis in Durrës, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/beach-veranda-home-gjiri-i-lalzit-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10161332643910581/picture?type=square&height=64&width=64"
 language: en
 slug: beach-veranda-home-gjiri-i-lalzit
 address: "Lura 3 Resort, Gjiri i Lalzit, H2 - AP11, Durrës, Albania"

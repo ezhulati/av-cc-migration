@@ -1,7 +1,7 @@
 ---
 title: "RENT ROOM -RENI -"
 description: "RENT ROOM -RENI- stands out as a prime choice for travelers seeking comfortable, air-conditioned accommodations in Librazhd, complete with a terrace for relaxation."
-featuredImage: "/images/accommodation/rent-room-reni-520424025.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520424025.jpg?k=2198c21a7b68cdd52dfde4c03c2d66f6269392ad38912fbb5330e966ccf3317e&o=&hp=1"
 language: en
 slug: rent-room-reni
 address: "Rruga Unaza, 3401 Librazhd, Albania"

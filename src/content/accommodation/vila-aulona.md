@@ -1,7 +1,7 @@
 ---
 title: "Vila AULONA"
 description: "Vila AULONA stands as a serene retreat in Vlorë, a mere stone's throw away from the pristine Vlore Beach and a short distance from the equally inviting Ri Beach."
-featuredImage: "/images/accommodation/vila-aulona-449143295.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449143295.jpg?k=3904576aed2f65c61878310b73ebe0f67f9a1c4ec0ab739c178625126e7d84ce&o=&hp=1"
 language: en
 slug: vila-aulona
 address: "Lagjia 10 Korriku, 9400 Vlorë, Albania"

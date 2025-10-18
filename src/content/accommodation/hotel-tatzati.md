@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tatzati"
 description: "Hotel Tatzati stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, just a stone's throw away from the pristine beach."
-featuredImage: "/images/accommodation/hotel-tatzati-152237537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152237537.jpg?k=2e3ea11f7a78180801b2436ea9ff1bc15fb3cc725d9a24e6f4d4dd45cc4a3a39&o=&hp=1"
 language: en
 slug: hotel-tatzati
 address: "Lefter Talo street, 9701 Sarandë, Albania"

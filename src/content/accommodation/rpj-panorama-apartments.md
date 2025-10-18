@@ -1,7 +1,7 @@
 ---
 title: "RPJ Panorama Apartments"
 description: "RPJ Panorama Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a kilometer away from the serene Ri Beach."
-featuredImage: "/images/accommodation/rpj-panorama-apartments-503603509.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503603509.jpg?k=7d584a8fdc9e4ddee8310353f992363f6d10ea101627e1839718b461f8dc2215&o=&hp=1"
 language: en
 slug: rpj-panorama-apartments
 address: "Rruga Azem Sulo, 9401 Vlorë, Albania"

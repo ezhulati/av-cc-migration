@@ -1,7 +1,7 @@
 ---
 title: "Cozy Flat Appartments in Tirana"
 description: "Cozy Flat Apartments in Tirana emerges as a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/cozy-flat-appartments-in-tirana-476137148.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476137148.jpg?k=9594f7722df0bcbdeb63c62fceb2968cd98f74d9d49bdbd294530d92fbadb460&o=&hp=1"
 language: en
 slug: cozy-flat-appartments-in-tirana
 address: "Rruga Stefan Shundi, 1001 Tirana, Albania"

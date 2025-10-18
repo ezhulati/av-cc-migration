@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Verde City Center"
 description: "Hotel Vila Verde City Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-vila-verde-city-center-74335393.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74335393.jpg?k=edc268987a4c9008917b17962f8eb9e6886595943618843c33c237ac9adccacd&o=&hp=1"
 language: en
 slug: hotel-vila-verde-city-center
 address: "Rruga Isa Boletini, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar Cozy Apartment on a Very Secure Building"
 description: "New Bazaar Cozy Apartment on a Very Secure Building stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/new-bazaar-cozy-apartment-on-a-very-secure-building-372336189.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372336189.jpg?k=1564c232cc3ca9d0d923299f79c0481115ea95cffdd96202ba84ccb935446c56&o=&hp=1"
 language: en
 slug: new-bazaar-cozy-apartment-on-a-very-secure-building
 address: "Rruga Beqir Luga, 1001 Tirana, Albania"

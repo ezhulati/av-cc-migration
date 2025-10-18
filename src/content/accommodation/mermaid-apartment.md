@@ -1,7 +1,7 @@
 ---
 title: "Mermaid - apartment"
 description: "Discover the charm of Durrës at the Mermaid Apartment, a prime destination for travelers seeking a blend of comfort and adventure."
-featuredImage: "/images/accommodation/mermaid-apartment-374976533.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374976533.jpg?k=be023d99bb3b2bb23982ced65f29f22d6172f061c25fbc902db3f123dc666712&o=&hp=1"
 language: en
 slug: mermaid-apartment
 address: "Rruga: Plazh/13, Nr.: 0, SH/K 1, Floor: 5, Nr. ap.: 30, Durrës, Albania"

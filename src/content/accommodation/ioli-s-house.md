@@ -1,7 +1,7 @@
 ---
 title: "Ioli's House"
 description: "Ioli's House emerges as a serene retreat for travelers seeking a blend of comfort and convenience, situated within the tranquil surroundings of Mullini i Danit."
-featuredImage: "/images/accommodation/ioli-s-house-260605094.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260605094.jpg?k=3b7807557faa6a2e18838ed6fddc2176853307c49e595fc6369527ec23614fa1&o=&hp=1"
 language: en
 slug: ioli-s-house
 address: "Lura 2 Tourist Complex, Mullini i Danit, Albania"

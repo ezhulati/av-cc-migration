@@ -1,7 +1,7 @@
 ---
 title: "Hotel Frida"
 description: "Hotel Frida stands as a serene oasis in Himare, a stone's throw away from the pristine Spille Beach."
-featuredImage: "/images/accommodation/hotel-frida-197509240.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197509240.jpg?k=1b5adc2c073f73932e879002a89ac29cc4cf73e35cc613f12a3e0a4d005f79f8&o=&hp=1"
 language: en
 slug: hotel-frida
 address: "Rruga Himarë Himara Park (at football fields), 9425 Himare, Albania"

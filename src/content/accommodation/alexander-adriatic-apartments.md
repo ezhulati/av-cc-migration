@@ -1,7 +1,7 @@
 ---
 title: "Alexander Adriatic Apartments"
 description: "Alexander Adriatic Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/alexander-adriatic-apartments-478995806.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478995806.jpg?k=1f93f225eee40f9c9af49ceebbadaf6c337da261174f847be896abca3b488917&o=&hp=1"
 language: en
 slug: alexander-adriatic-apartments
 address: "Rruga Kalabria, 2001 Durrës, Albania"

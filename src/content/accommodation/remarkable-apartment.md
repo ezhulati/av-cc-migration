@@ -1,7 +1,7 @@
 ---
 title: "Remarkable Apartment"
 description: "Remarkable Apartment stands out as a prime choice for travelers seeking both comfort and convenience, with its stunning mountain views and strategic location just 5."
-featuredImage: "/images/accommodation/remarkable-apartment-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: remarkable-apartment
 address: "Rruga Myslym Shyri 5-th floor, apartment nr.4, 1004 Tirana, Albania"

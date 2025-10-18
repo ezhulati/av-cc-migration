@@ -1,7 +1,7 @@
 ---
 title: "Mucobega Hotel"
 description: "Mucobega Hotel stands out as a prime destination for travelers seeking both relaxation and adventure in the picturesque town of Sarandë."
-featuredImage: "/images/accommodation/mucobega-hotel-482833619.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482833619.jpg?k=f97e7f4e7837d7fcd1d8036a89eccee6fbc6833c2e0175ff2759c977ed280e63&o=&hp=1"
 language: en
 slug: mucobega-hotel
 address: "Rr. Idriz Alidhima Lgj. 4 (Baba Rexhepi), 9703 Sarandë, Albania"

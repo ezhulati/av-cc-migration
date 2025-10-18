@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Beach APT- Perfect for Relaxing Getaway"
 description: "Discover the charm of Sarandë with a stay at Beautiful Beach APT, a prime choice for those seeking a serene retreat."
-featuredImage: "/images/accommodation/beautiful-beach-apt-perfect-for-relaxing-getaway-471733758.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471733758.jpg?k=8c2794b2bda7255f0119d63946cacf4ea8fdf7b5a858b66421af68071f5e4247&o=&hp=1"
 language: en
 slug: beautiful-beach-apt-perfect-for-relaxing-getaway
 address: "49 Rruga Bilal Golemi, Sarandë, Albania"

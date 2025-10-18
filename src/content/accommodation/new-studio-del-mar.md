@@ -1,7 +1,7 @@
 ---
 title: "new studio del mar"
 description: "New Studio Del Mar emerges as a serene retreat in the vibrant heart of Vlorë, merely a stone's throw away from the pristine Vjetër Beach and a short stroll from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/new-studio-del-mar-517988531.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517988531.jpg?k=be9c942066b07c144b3258438cd9ac064b20172da62847caab3edceffcedfa05&o=&hp=1"
 language: en
 slug: new-studio-del-mar
 address: "Rruga Gavril Dara, 9401 Vlorë, Albania"

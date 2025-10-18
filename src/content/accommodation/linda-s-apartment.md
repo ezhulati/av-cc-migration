@@ -1,7 +1,7 @@
 ---
 title: "Linda’s apartment"
 description: "Linda's Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Vjetër Beach and a short distance from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/linda-s-apartment-376252855.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376252855.jpg?k=2219e93f24877c9eb211c98045f102a0181e7079a76619cadc8fea44743bf0d2&o=&hp=1"
 language: en
 slug: linda-s-apartment
 address: "Rr. Sazani, 9400 Vlorë, Albania"

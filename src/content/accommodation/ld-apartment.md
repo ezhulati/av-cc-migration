@@ -1,7 +1,7 @@
 ---
 title: "LD Apartment"
 description: "LD Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/ld-apartment-526952012.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526952012.jpg?k=c665ba495eb448f1d6ef983d3a3e0caaddbae6c9a87153e58c367958e8ca1c1e&o=&hp=1"
 language: en
 slug: ld-apartment
 address: "10 Rruga Cajupi, 9404 Vlorë, Albania"

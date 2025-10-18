@@ -1,7 +1,7 @@
 ---
 title: "Skyen Luxury Apartments"
 description: "Skyen Luxury Apartments emerges as a premier choice for travelers seeking modern comforts in Durrës."
-featuredImage: "/images/accommodation/skyen-luxury-apartments-514884486.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514884486.jpg?k=cbc43251bbe97ee06599dcfacf9d4f696036305a6eaf08b0e8f41ae44defa915&o=&hp=1"
 language: en
 slug: skyen-luxury-apartments
 address: "Rruga Veli Xhymerti, 2001 Durrës, Albania"

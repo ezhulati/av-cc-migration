@@ -1,7 +1,7 @@
 ---
 title: "Sk_Grand Apartment"
 description: "Sk_Grand Apartment emerges as a prime choice for travelers seeking a blend of convenience and comfort in Tirana."
-featuredImage: "/images/accommodation/sk-grand-apartment-521621290.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521621290.jpg?k=006dbbf9b6210cbe80d33a5abab335c28d5d65a32a207cb209bf15c48f7f5feb&o=&hp=1"
 language: en
 slug: sk-grand-apartment
 address: "Rruga Ali Visha, Tirana, Albania"

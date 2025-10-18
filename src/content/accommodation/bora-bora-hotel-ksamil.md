@@ -1,7 +1,7 @@
 ---
 title: "Bora Bora Hotel Ksamil"
 description: "Bora Bora Hotel Ksamil emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/bora-bora-hotel-ksamil-357476844.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357476844.jpg?k=3b74a5425502d41416c46cbf7e4a5c7e12d7f10518c7523c6edaad613b3d188a&o=&hp=1"
 language: en
 slug: bora-bora-hotel-ksamil
 address: "Prane Ish Turizmit, 9999 Ksamil, Albania"

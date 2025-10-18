@@ -1,7 +1,7 @@
 ---
 title: "Joan's Apartament"
 description: "Joan's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/joan-s-apartament-508354321.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508354321.jpg?k=14e0b75a09949b0e964f24878dfe82e4c82ec00524054664d6766c9298c9b994&o=&hp=1"
 language: en
 slug: joan-s-apartament
 address: "Rruga Mustafa Bello, Vlorë, Albania"

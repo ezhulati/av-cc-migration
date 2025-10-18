@@ -1,7 +1,7 @@
 ---
 title: "Domi"
 description: "Domi emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/domi-476200040.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476200040.jpg?k=c9008443fbceeb0141cb71a65a5fbb926458d405fe14aa2ab1a035803028a41e&o=&hp=1"
 language: en
 slug: domi
 address: "13 Rruga Pavaresia, 2000 Durrës, Albania"

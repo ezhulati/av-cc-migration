@@ -1,7 +1,7 @@
 ---
 title: "Tirana Rooms"
 description: "Tirana Rooms emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-rooms-501138734.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501138734.jpg?k=6459dbb94425f28a8c06202111e69da65019372857fc1b08bf965114a4b3b54f&o=&hp=1"
 language: en
 slug: tirana-rooms
 address: "Rruga Naim Frashëri 22, 1023 Tirana, Albania"

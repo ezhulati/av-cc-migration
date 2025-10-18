@@ -1,7 +1,7 @@
 ---
 title: "Square INN Modern Studio City Center"
 description: "Square INN Modern Studio City Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/square-inn-modern-studio-city-center-424611720.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424611720.jpg?k=c7ec51d388899cd967bf54afd10fc52c7d1830b095009b334ef47de503069636&o=&hp=1"
 language: en
 slug: square-inn-modern-studio-city-center
 address: "Rruga Mine Peza, Tiranë 1001, Albania Pajtoni BUILDING, 1001 Tirana, Albania"

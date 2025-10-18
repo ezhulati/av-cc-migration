@@ -1,7 +1,7 @@
 ---
 title: "Relax apartament"
 description: "Relax Apartment emerges as a serene retreat for travelers seeking a blend of comfort and convenience, situated in the picturesque locale of Pogradec."
-featuredImage: "/images/accommodation/relax-apartament-493630840.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493630840.jpg?k=0174508e47dfdad14a7f18be1a859524ba7ff7424ff5479df780b11f9e2411c1&o=&hp=1"
 language: en
 slug: relax-apartament
 address: "Rr sul starovari, 7300 Pogradec, Albania"

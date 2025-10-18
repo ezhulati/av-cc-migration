@@ -1,7 +1,7 @@
 ---
 title: "The Warm House"
 description: "Discover the charm of Durrës with a stay at The Warm House, a serene haven located just a short 1."
-featuredImage: "/images/accommodation/the-warm-house-501494372.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501494372.jpg?k=1560000467e8b4b5fba428157a5f1b6a48139e58a47b84f74f61092665daaea0&o=&hp=1"
 language: en
 slug: the-warm-house
 address: "https://maps.app.goo.gl/rRirCgUZh4m236pu6, 2001 Durrës, Albania"

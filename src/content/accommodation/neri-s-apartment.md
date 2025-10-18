@@ -1,7 +1,7 @@
 ---
 title: "Neri’s Apartment"
 description: "Neri's Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/neri-s-apartment-437726757.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437726757.jpg?k=a873e6dd70cf6b3ffe9146ec9d8f556029939a69e133a389fd8bf3a8fe2a8ea8&o=&hp=1"
 language: en
 slug: neri-s-apartment
 address: "Rruga 5 Maji, 1017 Tirana, Albania"

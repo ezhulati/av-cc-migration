@@ -1,7 +1,7 @@
 ---
 title: "Apartament 8"
 description: "Discover the charm of Golem with a stay at Apartament 8, a prime choice for travelers seeking comfort and convenience mere steps from the serene Mali I Robit Beach and a short stroll from the picturesque Qerret Beach."
-featuredImage: "/images/accommodation/apartament-8-451340198.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451340198.jpg?k=847f81851dfc94594e540cf3fad66e0b326e5820f3f22f3447f00c96522b8ec6&o=&hp=1"
 language: en
 slug: apartament-8
 address: "Rruga Mak Abania, Mali Robit, 2504 Golem, Albania"

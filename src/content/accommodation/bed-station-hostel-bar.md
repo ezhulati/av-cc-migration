@@ -1,7 +1,7 @@
 ---
 title: "Bed Station Hostel & Bar"
 description: "Bed Station Hostel & Bar emerges as a standout choice for travelers seeking a vibrant stay in Shkodër, situated within the scenic Shkoder County and a mere 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/bed-station-hostel-bar-446255785.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446255785.jpg?k=43112ee96d0c24778292f383458b5bfe11391b4079c8f2539dd26676b9ebd280&o=&hp=1"
 language: en
 slug: bed-station-hostel-bar
 address: "Rruga Kolë Idromeno Rrugica mbas hotel Carmen, 4001 Shkodër, Albania"

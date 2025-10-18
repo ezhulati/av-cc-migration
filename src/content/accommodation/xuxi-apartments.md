@@ -1,7 +1,7 @@
 ---
 title: "Xuxi Apartments"
 description: "Xuxi Apartments stands as a prime beachfront destination in Lukovë, offering a serene escape just 37 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/xuxi-apartments-210675501.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210675501.jpg?k=5948d9b37f41e637b1114d95000b26e816312525d1aea7e0772bcde33e1b4744&o=&hp=1"
 language: en
 slug: xuxi-apartments
 address: "Lukove, Sarande Sarande-vore km 20, 9713 Lukovë, Albania"

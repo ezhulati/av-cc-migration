@@ -1,7 +1,7 @@
 ---
 title: "13°Bs*Toptani/City Center"
 description: "Discover the charm of Tirana from the comfort of 13°Bs*Toptani/City Center, a prime apartment located just a stone's throw away from the city's most iconic landmarks."
-featuredImage: "/images/accommodation/13-bs-toptani-city-center-480578512.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480578512.jpg?k=1441333a5fdac0302da6e4270e5e6dce7b2a2feb3ba7d71c7b6aea3d4c6328ee&o=&hp=1"
 language: en
 slug: 13-bs-toptani-city-center
 address: "Rruga Myrtezim Këlliçi, Tirana, Albania"

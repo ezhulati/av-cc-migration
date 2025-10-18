@@ -1,7 +1,7 @@
 ---
 title: "Cheerful 2 bedroom villa with free parking."
 description: "Discover the charm of Gjirokastër with a stay at the Cheerful 2 Bedroom Villa, a serene retreat located a mere 45 km from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/cheerful-2-bedroom-villa-with-free-parking-373299451.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373299451.jpg?k=c947c144724acc5b600d0549e802d8da3426ccde68c65c8ca7ca89256f65085f&o=&hp=1"
 language: en
 slug: cheerful-2-bedroom-villa-with-free-parking
 address: "Rruga Gjolek Haska, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Victoria Tirana"
 description: "Discover the charm of Hotel Victoria Tirana, a gem in the heart of the city that offers more than just a place to stay."
-featuredImage: "/images/accommodation/hotel-victoria-tirana-52251180.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52251180.jpg?k=5d6439039732b2eb11da88b998393e0a92b68f1295e0ca1c87c8f45b4b125e8f&o=&hp=1"
 language: en
 slug: hotel-victoria-tirana
 address: "St. Dibres no. 331/1, 1001 Tirana, Albania"

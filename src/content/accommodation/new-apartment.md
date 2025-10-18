@@ -1,7 +1,7 @@
 ---
 title: "new apartment"
 description: "Discover the charm of Tirana with a stay at this modern, air-conditioned apartment, complete with its own private balcony."
-featuredImage: "/images/accommodation/new-apartment-516142550.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516142550.jpg?k=caadcf75819a6159ab8e822f1e04a9e4011f81f17bd5e78986bb942dd19c1731&o=&hp=1"
 language: en
 slug: new-apartment
 address: "8 Rruga Qemal Dracini, 1025 Tirana, Albania"

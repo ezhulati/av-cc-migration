@@ -1,7 +1,7 @@
 ---
 title: "AMELIA Apartment"
 description: "Discover the charm of Berat with a stay at AMELIA Apartment, a recently updated property that promises modern comforts and conveniences."
-featuredImage: "/images/accommodation/amelia-apartment-504981051.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504981051.jpg?k=20ecab323e28b0260b763db4395784a097dca308f6321dfba9f2b62d4c53e1f5&o=&hp=1"
 language: en
 slug: amelia-apartment
 address: "Rruga Pal Golemi, 5001 Berat, Albania"

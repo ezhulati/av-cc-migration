@@ -1,7 +1,7 @@
 ---
 title: "D,I,A's Rooms"
 description: "D, I,A's Rooms in Vlorë stands out as a prime choice for travelers seeking comfort and convenience close to the sea."
-featuredImage: "/images/accommodation/d-i-a-s-rooms-866dca38dcc3.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
 language: en
 slug: d-i-a-s-rooms
 address: "Rruga Naim Frashëri, 9404 Vlorë, Albania"

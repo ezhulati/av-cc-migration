@@ -1,7 +1,7 @@
 ---
 title: "Melinda beach apartment"
 description: "Melinda Beach Apartment emerges as a serene oasis in Golem, boasting an enviable location just a stone's throw away from the pristine Golem Beach and within easy reach of Shkëmbi i Kavajës and Mali I Robit Beaches."
-featuredImage: "/images/accommodation/melinda-beach-apartment-439148217.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439148217.jpg?k=aa09a33d8a4ba3fc8ffe51e69283c7756f373929f57f9987c9a54ecc4f74903f&o=&hp=1"
 language: en
 slug: melinda-beach-apartment
 address: "Rruga Viena, Golem, Albania"

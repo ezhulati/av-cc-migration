@@ -1,7 +1,7 @@
 ---
 title: "YourHome Vilat Gjermane"
 description: "Discover the charm of Tirana with a stay at YourHome Vilat Gjermane, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/yourhome-vilat-gjermane-494647553.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494647553.jpg?k=5284c3270ef0a2d6a86994d3c8265d46fa6ff9de8e4dafe8fe063c287ce04bf0&o=&hp=1"
 language: en
 slug: yourhome-vilat-gjermane
 address: "Rruga Fuat Toptani, 1060 Tirana, Albania"

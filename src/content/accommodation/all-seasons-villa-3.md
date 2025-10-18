@@ -1,7 +1,7 @@
 ---
 title: "All Seasons Villa 3"
 description: "All Seasons Villa 3 emerges as a gem on the Golem coastline, boasting a recent renovation that has elevated its charm."
-featuredImage: "/images/accommodation/all-seasons-villa-3-491508206.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491508206.jpg?k=a80318364784379b730a15f4747356377f8e3df76f719a43944ef7eae6dedaf6&o=&hp=1"
 language: en
 slug: all-seasons-villa-3
 address: "Rruga Qerret Plazh Rooftop, Golem, Albania"

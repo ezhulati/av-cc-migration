@@ -1,7 +1,7 @@
 ---
 title: "Appartament Dukat Albania"
 description: "Appartament Dukat Albania emerges as a serene retreat, located in the quaint town of Dukat, a mere 36 km away from the historic Kuzum Baba and Independence Square."
-featuredImage: "/images/accommodation/appartament-dukat-albania-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: appartament-dukat-albania
 address: "rruga Dukat Himare 14, 9426 Dukat, Albania"

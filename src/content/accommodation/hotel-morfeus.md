@@ -1,7 +1,7 @@
 ---
 title: "Hotel Morfeus"
 description: "Hotel Morfeus stands as a beacon of comfort and convenience, just a stone's throw away from the serene Currila Beach in Durrës."
-featuredImage: "/images/accommodation/hotel-morfeus-400802498.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400802498.jpg?k=c36a3013f7b8fdc09ced5231a556bdef65188f33910a5734439cc2cdb5f8db4b&o=&hp=1"
 language: en
 slug: hotel-morfeus
 address: "Rruga Currila Restaurant Neps, 2001 Durrës, Albania"

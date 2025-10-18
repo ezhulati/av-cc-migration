@@ -1,7 +1,7 @@
 ---
 title: "Sophie Dream Apartment, City Center , Beachfront , Parking"
 description: "Sophie Dream Apartment, located in the heart of Durrës and right on the waterfront, offers a modern retreat for travelers seeking the perfect blend of convenience and comfort."
-featuredImage: "/images/accommodation/sophie-dream-apartment-city-center-beachfront-parking-503882408.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503882408.jpg?k=168e0e63a8333d7b7991212a0535380ed8d83c231fda5e266ad8474e7c4f9531&o=&hp=1"
 language: en
 slug: sophie-dream-apartment-city-center-beachfront-parking
 address: "Rruga Currila, 2001 Durrës, Albania"

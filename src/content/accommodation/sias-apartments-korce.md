@@ -1,7 +1,7 @@
 ---
 title: "Sias Apartments Korce"
 description: "Sias Apartments Korce emerges as a prime choice for travelers seeking comfort and convenience in Korçë, situated a mere 42 km from the serene Monastery Saint Naum and just a stone's throw further from the tranquil Ohrid Lake Springs at 43 km."
-featuredImage: "/images/accommodation/sias-apartments-korce-499806395.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499806395.jpg?k=8ede7c8d3aa9a95b8dd29f669bfa62ac78d38d55d79d13c7949812b2eb32ca46&o=&hp=1"
 language: en
 slug: sias-apartments-korce
 address: "Rruga Midhi Kostani, 7001 Korçë, Albania"

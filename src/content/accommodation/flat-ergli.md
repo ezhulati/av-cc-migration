@@ -1,7 +1,7 @@
 ---
 title: "Flat Ergli"
 description: "Flat Ergli emerges as a prime choice for travelers seeking a serene getaway in Velipojë, just a stone's throw away from the pristine Rana e Hedhun Beach."
-featuredImage: "/images/accommodation/flat-ergli-142142437.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142142437.jpg?k=79ceac624fe010ff9423585b778e3bad2cf74d64bbe3574671787f6f4891705e&o=&hp=1"
 language: en
 slug: flat-ergli
 address: "Rruga Nr.2, 4001 Velipojë, Albania"

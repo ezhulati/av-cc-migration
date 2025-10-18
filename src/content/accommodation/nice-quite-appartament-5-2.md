@@ -1,7 +1,7 @@
 ---
 title: "Nice ,quite appartament 5-2"
 description: "Discover the serene oasis of Nice, Quiet Apartment 5-2, a distinguished property featuring a welcoming bar, located in the vibrant heart of Tirana."
-featuredImage: "/images/accommodation/nice-quite-appartament-5-2-487113902.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487113902.jpg?k=c704651f4d85565f92f8c60c5a25de8db9be9980f6f15074a698e1b7c7699a85&o=&hp=1"
 language: en
 slug: nice-quite-appartament-5-2
 address: "Rruga Gani Strazimiri, 1012 Tirana, Albania"

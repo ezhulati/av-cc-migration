@@ -1,7 +1,7 @@
 ---
 title: "Olsi & Sara’s apartament"
 description: "Olsi & Sara's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated merely a stone's throw away from the serene Beach at Government Villas and a short stroll from the inviting sands of Liro Beach."
-featuredImage: "/images/accommodation/olsi-sara-s-apartament-480003311.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480003311.jpg?k=ecca1718aff46f9b3ab2683eb0adf687a6c459c32ece14fcf9638e8a0472a89d&o=&hp=1"
 language: en
 slug: olsi-sara-s-apartament
 address: "Rruga Aleksandër Moisiu, Vlorë, Albania"

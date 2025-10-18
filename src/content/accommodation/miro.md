@@ -1,7 +1,7 @@
 ---
 title: "Miro"
 description: "Miro stands out as a prime choice for travelers seeking comfortable and spacious accommodations in Vlorë, just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/miro-497450480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497450480.jpg?k=1c56cb68c7a1d037422b9a38210c17587ca6a08f7cfb150cb542d508b29e52d0&o=&hp=1"
 language: en
 slug: miro
 address: "Rruga Shaban Demiraj, Vlorë, Albania"

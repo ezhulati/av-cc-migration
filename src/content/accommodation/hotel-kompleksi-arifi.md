@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kompleksi Arifi"
 description: "Discover the charm of Hotel Kompleksi Arifi, a hidden gem conveniently located just a short 5-minute stroll from the breathtaking Shkodra Lake and the historic Rosafa Castle."
-featuredImage: "/images/accommodation/hotel-kompleksi-arifi-260406219.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260406219.jpg?k=8777c68642acf7720184c597047962a624c54fabe68847195ee23009031c2f29&o=&hp=1"
 language: en
 slug: hotel-kompleksi-arifi
 address: "L. Liria, Blv. Zogu I, 4000 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Honeymoon Apartment"
 description: "Discover the charm of Sarandë with a stay at the recently updated Honeymoon Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/honeymoon-apartment-432472263.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432472263.jpg?k=f39c94be829d614615cddae0d620501e5a60cad90a8c5177327a175a053da416&o=&hp=1"
 language: en
 slug: honeymoon-apartment
 address: "Rruga Gjergj Arianiti 22/91+1+17 4th floor apt 17, 8642 Sarandë, Albania"

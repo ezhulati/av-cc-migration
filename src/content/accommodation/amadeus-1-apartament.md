@@ -1,7 +1,7 @@
 ---
 title: "Amadeus 1 Apartament"
 description: "Amadeus 1 Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/amadeus-1-apartament-363759535.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363759535.jpg?k=95fd5d8d9e940c3f602b9fe9bd7a901be2039f8e94ac1c8dc9ee0b2d85646643&o=&hp=1"
 language: en
 slug: amadeus-1-apartament
 address: "Rruga Shyqyri Bërxolli, Tirana, Albania"

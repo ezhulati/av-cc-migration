@@ -1,7 +1,7 @@
 ---
 title: "Opal Sand Apartment"
 description: "Opal Sand Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, mere steps away from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/opal-sand-apartment-326672503.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326672503.jpg?k=200ee6e7efb10feb80d0e358bf36231231454322af502ac7e8c21e94d4282041&o=&hp=1"
 language: en
 slug: opal-sand-apartment
 address: "38 Rruga Butrinti, 9701 Sarandë, Albania"

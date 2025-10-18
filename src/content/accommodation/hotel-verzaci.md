@@ -1,7 +1,7 @@
 ---
 title: "Hotel Verzaci"
 description: "Hotel Verzaci stands out as a prime choice for travelers seeking convenience and comfort right at the heart of Tiranë Airport Mother Theresa."
-featuredImage: "/images/accommodation/hotel-verzaci-301169646.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301169646.jpg?k=32b72f1aaf8168e8e856128ba9c1eeb8259736658b98c66f4e736eb4558bbe01&o=&hp=1"
 language: en
 slug: hotel-verzaci
 address: "Rinas Airport, 1001 Rinas, Albania"

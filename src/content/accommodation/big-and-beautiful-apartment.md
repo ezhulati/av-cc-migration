@@ -1,7 +1,7 @@
 ---
 title: "Big and beautiful apartment"
 description: "Discover the charm of Tirana with a stay at the Big and Beautiful Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/big-and-beautiful-apartment-489608067.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489608067.jpg?k=7457ff2d6f7226ae2a2825973e25ab14353d1c2f8699e4673a8bc3a28154b99b&o=&hp=1"
 language: en
 slug: big-and-beautiful-apartment
 address: "Rruga Sokrat Miho, Tirana, Albania"

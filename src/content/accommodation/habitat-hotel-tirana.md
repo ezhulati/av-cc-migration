@@ -1,7 +1,7 @@
 ---
 title: "Habitat Hotel Tirana"
 description: "Habitat Hotel Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/habitat-hotel-tirana-313022294.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313022294.jpg?k=ed436079969027feec1d740b9f64f2965ed00b8aeebd667a41013b93ff3957d1&o=&hp=1"
 language: en
 slug: habitat-hotel-tirana
 address: "Rruga e Kavajës Kompleksi Delijorgji, Habitat Hotel, 1000 Tirana, Albania"

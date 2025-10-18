@@ -1,7 +1,7 @@
 ---
 title: "ENTi Apartments - Beach"
 description: "ENTi Apartments - Beach stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/enti-apartments-beach-487558516.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487558516.jpg?k=fa4a8693d3483f664c13ba982f9dd9a92fdeee33861726cb5b2801e351471ff6&o=&hp=1"
 language: en
 slug: enti-apartments-beach
 address: "Lagja 4, Rruga Mitat Hoxha Apartamenti 24, Kati 3, Shkalla 1, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Beach Apartment Santi"
 description: "Jico Travel - Beach Apartment Santi emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/jico-travel-beach-apartment-santi-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: jico-travel-beach-apartment-santi
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

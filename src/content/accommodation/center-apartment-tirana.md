@@ -1,7 +1,7 @@
 ---
 title: "Center Apartment Tirana"
 description: "Center Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/center-apartment-tirana-480909139.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480909139.jpg?k=87ac7b1ec4bc04873e2c8b7ffe406948f17d7731327e48db6a0c9db4253813f0&o=&hp=1"
 language: en
 slug: center-apartment-tirana
 address: "Rruga Myslym Shyri P.23 Ap.5/1 3, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Central Urban Blloku Apartment"
 description: "Central Urban Blloku Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-urban-blloku-apartment-496034263.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496034263.jpg?k=f4b10e0602f492116a9acd938e825e78306636f85cca1a925ca38a32f7a803f6&o=&hp=1"
 language: en
 slug: central-urban-blloku-apartment
 address: "Bulevardi Bajram Curri, Mbrapa Caffe \"ROMA\", 1018 Tirana, Albania"

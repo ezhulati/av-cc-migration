@@ -1,7 +1,7 @@
 ---
 title: "Bajovah Apartments & Restaurant"
 description: "Bajovah Apartments & Restaurant emerges as a serene oasis in Tirana, offering a unique blend of comfort and convenience for travelers seeking a memorable stay."
-featuredImage: "/images/accommodation/bajovah-apartments-restaurant-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/636908018/picture?type=square&height=64&width=64"
 language: en
 slug: bajovah-apartments-restaurant
 address: "Rruga 7 Nëntori, Mëzez 2nd floor, 1050 Tirana, Albania"

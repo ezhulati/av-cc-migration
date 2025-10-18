@@ -1,7 +1,7 @@
 ---
 title: "Vila Demaj"
 description: "Vila Demaj emerges as a premier choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "/images/accommodation/vila-demaj-415974128.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415974128.jpg?k=dc81a463d186c2dfb1c26492f8dd8b46866792087527ef96df26b670e6c47448&o=&hp=1"
 language: en
 slug: vila-demaj
 address: "Rruga Santa Lucia, Berat, Albania"

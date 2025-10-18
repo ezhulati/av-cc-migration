@@ -1,7 +1,7 @@
 ---
 title: "EDEN Beach Apartment Vlore"
 description: "EDEN Beach Apartment Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/eden-beach-apartment-vlore-479327790.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479327790.jpg?k=fe0f9c8e5a807be7ef0014dba1ddb9055c33b0c78574c0ed9a6e0bfd55e3eef9&o=&hp=1"
 language: en
 slug: eden-beach-apartment-vlore
 address: "Rruga Murat Tërbaçi 3, 9400 Vlorë, Albania"

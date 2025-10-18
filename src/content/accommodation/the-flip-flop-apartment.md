@@ -1,7 +1,7 @@
 ---
 title: "The Flip-Flop Apartment"
 description: "The Flip-Flop Apartment emerges as a refreshing retreat in Shëngjin, offering guests the perfect blend of comfort and convenience with its air-conditioned spaces and private balcony."
-featuredImage: "/images/accommodation/the-flip-flop-apartment-473320975.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473320975.jpg?k=0f181e6ad3b61ca5e0a5e6eaa8b940c4fc30e0010cffb69528a9ac03777242c1&o=&hp=1"
 language: en
 slug: the-flip-flop-apartment
 address: "Shëngjin, Qarku i Lezhës, Albania Rruga e Vilave, Stock 3, 4503 Shëngjin, Albania"

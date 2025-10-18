@@ -1,7 +1,7 @@
 ---
 title: "Angry Architects Apartment01"
 description: "Angry Architects Apartment01 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/angry-architects-apartment01-420113588.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420113588.jpg?k=bb1400b591c08cb53728d6f1718a250f6cb55905efc2a425ba4262b5632263ee&o=&hp=1"
 language: en
 slug: angry-architects-apartment01
 address: "Rruga Selita e Vjeter, 1001 Tirana, Albania"

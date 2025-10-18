@@ -1,7 +1,7 @@
 ---
 title: "Villa Sunshine"
 description: "Villa Sunshine emerges as a serene retreat in Durrës, strategically positioned within easy reach of the city's most iconic landmarks."
-featuredImage: "/images/accommodation/villa-sunshine-495432201.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495432201.jpg?k=4189831e7cbb46aae2d8ba13ef4d53e9ee76277bb0a688402605e97b782492df&o=&hp=1"
 language: en
 slug: villa-sunshine
 address: "Plazhi San Pietro, 2005 Durrës, Albania"

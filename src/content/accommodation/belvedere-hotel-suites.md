@@ -1,7 +1,7 @@
 ---
 title: "Belvedere Hotel & Suites"
 description: "Belvedere Hotel & Suites emerges as a prime choice for travelers seeking a blend of comfort and convenience in Himare, just a stone's throw away from the pristine Prinos Beach."
-featuredImage: "/images/accommodation/belvedere-hotel-suites-493049199.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493049199.jpg?k=149be6ac69edaa185d6559bbb34c81de5170777425df317425d8cd01281e8b5a&o=&hp=1"
 language: en
 slug: belvedere-hotel-suites
 address: "Fiume, 9400 Himare, Albania"

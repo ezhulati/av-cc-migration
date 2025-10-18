@@ -1,7 +1,7 @@
 ---
 title: "Vila Afrimi"
 description: "Vila Afrimi stands out as a serene oasis in Durrës, offering guests a unique blend of convenience and tranquility less than a kilometer from the inviting sands of Durres Beach."
-featuredImage: "/images/accommodation/vila-afrimi-499171841.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499171841.jpg?k=71a6cea24bbc88862bd98e5071141d740e84b6d7f16f9c15765cc85cf8ddd54c&o=&hp=1"
 language: en
 slug: vila-afrimi
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

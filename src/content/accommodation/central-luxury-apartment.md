@@ -1,7 +1,7 @@
 ---
 title: "Central Luxury Apartment"
 description: "Central Luxury Apartment emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-luxury-apartment-127848859.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/127848859.jpg?k=3a315bc187edf6704395844be4f532436ca29e6563e207f20180cbe8cdad1766&o=&hp=1"
 language: en
 slug: central-luxury-apartment
 address: "Rruga Gjon Muzaka, Building , 1001 Tirana, Albania"

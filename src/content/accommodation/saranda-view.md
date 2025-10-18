@@ -1,7 +1,7 @@
 ---
 title: "Saranda View"
 description: "Saranda View emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-view-483452951.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483452951.jpg?k=5d756994b9ab0e2bdca922e0264f30c401486aff3a7d66eabaceb3935ec4ae34&o=&hp=1"
 language: en
 slug: saranda-view
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

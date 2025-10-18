@@ -1,7 +1,7 @@
 ---
 title: "Resort Zdrava"
 description: "Resort Zdrava stands out as a serene oasis in Savër, offering guests a harmonious blend of comfort and convenience."
-featuredImage: "/images/accommodation/resort-zdrava-518171540.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518171540.jpg?k=627fbee8ef3e5979dbcd8eb729e519716ab2e5876a5e339a47034eea3fa31937&o=&hp=1"
 language: en
 slug: resort-zdrava
 address: "SH4, 9001 Savër, Albania"

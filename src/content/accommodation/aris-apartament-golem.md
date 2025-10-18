@@ -1,7 +1,7 @@
 ---
 title: "ARIS APARTAMENT GOLEM"
 description: "ARIS APARTAMENT GOLEM stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/aris-apartament-golem-460471881.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460471881.jpg?k=00b7d8abfe11d220fdbbc968f06531851f55a597dbfd86214f7472b931ed8b43&o=&hp=1"
 language: en
 slug: aris-apartament-golem
 address: "BLV.Pishat e Buta Mali i Robit,2504 Aris Apartament On Second floor, Golem, Albania"

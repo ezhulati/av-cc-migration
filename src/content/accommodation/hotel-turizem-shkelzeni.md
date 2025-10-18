@@ -1,7 +1,7 @@
 ---
 title: "Hotel Turizem Shkelzeni"
 description: "Hotel Turizem Shkelzeni stands out as a beacon of comfort and hospitality in Bajram Curri, located a mere 45 km from the historic Visoki Dečani Monastery."
-featuredImage: "/images/accommodation/hotel-turizem-shkelzeni-176703494.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176703494.jpg?k=b04a2c2b69f0967893adbabe6246716308986e8a1a3c412987bdf30fb6fce732&o=&hp=1"
 language: en
 slug: hotel-turizem-shkelzeni
 address: "Rruga Fatmir Hasandoci, nn, 8700 Bajram Curri, Albania"

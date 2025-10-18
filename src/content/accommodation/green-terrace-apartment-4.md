@@ -1,7 +1,7 @@
 ---
 title: "Green Terrace Apartment 4"
 description: "Green Terrace Apartment 4 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/green-terrace-apartment-4-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: green-terrace-apartment-4
 address: "Rruga e Kavajës, Tirana, Albania"

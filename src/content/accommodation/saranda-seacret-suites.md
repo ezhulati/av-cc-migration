@@ -1,7 +1,7 @@
 ---
 title: "Saranda Seacret Suites"
 description: "Saranda Seacret Suites emerges as a gem in the heart of Sarandë, boasting a prime location close to the pristine Saranda City Beach, the tranquil Maestral Beach, and the charming La Petite Beach."
-featuredImage: "/images/accommodation/saranda-seacret-suites-495992808.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495992808.jpg?k=d7327764889a26dc6f3ed8cabceb2e023d8a201a9a498bd38bdfac394b53a466&o=&hp=1"
 language: en
 slug: saranda-seacret-suites
 address: "9701 Rruga Skënderbeu, Sarandë, Albania"

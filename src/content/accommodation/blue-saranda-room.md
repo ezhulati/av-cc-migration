@@ -1,7 +1,7 @@
 ---
 title: "Blue Saranda room"
 description: "Blue Saranda Room emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/blue-saranda-room-471753439.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471753439.jpg?k=0d4e6005823d89d6456942c0c5c371c9cc2229938616dd1901d0f5f72e5ccb55&o=&hp=1"
 language: en
 slug: blue-saranda-room
 address: "Rruga Mitat Hoxha NR.69, 9701 Sarandë, Albania"

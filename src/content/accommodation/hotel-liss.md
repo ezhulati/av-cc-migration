@@ -1,7 +1,7 @@
 ---
 title: "Hotel Liss"
 description: "Hotel Liss stands as a prime example of comfort and convenience in the heart of Lezhë, offering guests a unique blend of traditional Albanian hospitality and modern amenities."
-featuredImage: "/images/accommodation/hotel-liss-354907317.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354907317.jpg?k=2543f6fa3db6f1334e3ab070a8c1810f5355d844421aef6384f543e747c8ba82&o=&hp=1"
 language: en
 slug: hotel-liss
 address: "Rruga Beslidhja, 4501 Lezhë, Albania"

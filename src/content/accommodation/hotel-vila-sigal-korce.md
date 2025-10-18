@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Sigal Korce"
 description: "Hotel Vila Sigal Korce emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, situated within a manageable distance of 44 km from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/hotel-vila-sigal-korce-167998001.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167998001.jpg?k=bf7851a48c3888f61f3e38fc30a7ab8640388d3113a8f825e2c17940b62eb430&o=&hp=1"
 language: en
 slug: hotel-vila-sigal-korce
 address: "Lagja 2 Rruga Teni Konomi,, 7001 Korçë, Albania"

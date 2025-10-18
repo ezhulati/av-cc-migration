@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Apartment Lungomare"
 description: "Vanessa Apartment Lungomare emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë."
-featuredImage: "/images/accommodation/vanessa-apartment-lungomare-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: vanessa-apartment-lungomare
 address: "Lagjia 10 korriku lungo mare prane hotel Laid, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Serenity's Sunset Terrace"
 description: "Serenity's Sunset Terrace stands out as a remarkable choice for travelers seeking a blend of comfort and convenience in Shkodër, situated merely 49 km away from the Port of Bar."
-featuredImage: "/images/accommodation/serenity-s-sunset-terrace-476000597.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476000597.jpg?k=2ac49609fec804682fede8ebb046ec4a89fddfc48b42847172a85ad97bb3e82d&o=&hp=1"
 language: en
 slug: serenity-s-sunset-terrace
 address: "Rruga Dasho Shkreli, 4001 Shkodër, Albania"

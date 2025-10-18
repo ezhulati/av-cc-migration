@@ -1,7 +1,7 @@
 ---
 title: "NERIUM Hotel"
 description: "NERIUM Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/nerium-hotel-375582115.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375582115.jpg?k=4ea3be8149e56e7c0bda4076d21740afe8e5254e9db250356ffe890978c9b9ed&o=&hp=1"
 language: en
 slug: nerium-hotel
 address: "Rruga Butrinti Ksamil, 9706 Ksamil, Albania"

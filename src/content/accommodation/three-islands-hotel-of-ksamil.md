@@ -1,7 +1,7 @@
 ---
 title: "Three Islands Hotel Of Ksamil"
 description: "Discover the charm of Three Islands Hotel Of Ksamil, a gem located just a stone's throw away from the pristine shores of Ksamil Beach."
-featuredImage: "/images/accommodation/three-islands-hotel-of-ksamil-363991684.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363991684.jpg?k=b85bfc0617f58fb2798264529a140ea00e242e2b253046d1672948a65bd75802&o=&hp=1"
 language: en
 slug: three-islands-hotel-of-ksamil
 address: "SH81, 9706 Ksamil, Albania"

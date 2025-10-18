@@ -1,7 +1,7 @@
 ---
 title: "Noel’s apartment"
 description: "Noel's Apartment emerges as a freshly updated gem, strategically positioned in the heart of Ksamil, a stone's throw away from the pristine shores of Ksamil Beach 9, Bora Bora Beach, and Ksamil Beach 7."
-featuredImage: "/images/accommodation/noel-s-apartment-AOh14Ggpos_4.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14Ggpos_4UNrn6pi_FzxfUe9A-YTaIrLjMSeEdw5b=s96-c64"
 language: en
 slug: noel-s-apartment
 address: "Rruga Riviera, 1001 Ksamil, Albania"

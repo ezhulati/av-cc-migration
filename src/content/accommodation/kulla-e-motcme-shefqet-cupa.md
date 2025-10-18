@@ -1,7 +1,7 @@
 ---
 title: "Kulla E Motcme Shefqet Cupa"
 description: "Kulla E Motcme Shefqet Cupa stands out in Klos for its unique offering of privacy and modern amenities."
-featuredImage: "/images/accommodation/kulla-e-motcme-shefqet-cupa-527265176.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527265176.jpg?k=6a8ff610c885346d4e71d7fa95070cf1eb3c078bed75309acf8d4e130c4e79b7&o=&hp=1"
 language: en
 slug: kulla-e-motcme-shefqet-cupa
 address: "Fshati Fshat Klos, Klos, Albania"

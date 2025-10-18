@@ -1,7 +1,7 @@
 ---
 title: "E&D apartment"
 description: "E&D Apartment emerges as a serene oasis in Golem, boasting an enviable location close to the pristine Qerret Beach and a mere stone's throw from the tranquil Mali I Robit Beach."
-featuredImage: "/images/accommodation/e-d-apartment-400686550.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400686550.jpg?k=2257d4f3cf14fc1651edb96bdcebcc3ae84a6ba63dbc520513934e373781994d&o=&hp=1"
 language: en
 slug: e-d-apartment
 address: "Rruga Qerret Plazh, 1002 Golem, Albania"

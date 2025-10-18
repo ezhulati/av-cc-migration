@@ -1,7 +1,7 @@
 ---
 title: "Soleil Summer Apartments"
 description: "Soleil Summer Apartments emerges as a serene retreat in the heart of Golem, boasting an enviable location just a stone's throw away from the pristine Shkëmbi i Kavajës Beach and a short drive from the tranquil Mali I Robit Beach."
-featuredImage: "/images/accommodation/soleil-summer-apartments-460932712.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460932712.jpg?k=912768e668420a4a6f1a83464f0214987ef24a221fbc2b96012237a27d4179af&o=&hp=1"
 language: en
 slug: soleil-summer-apartments
 address: "Rruga e kompleksit, Golem, Durres, 2000 Golem, Albania"

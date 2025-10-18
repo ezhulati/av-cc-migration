@@ -1,7 +1,7 @@
 ---
 title: "GUGA Host House"
 description: "GUGA Host House emerges as a serene retreat in the vibrant city of Sarandë, offering guests a unique blend of garden serenity and captivating mountain views."
-featuredImage: "/images/accommodation/guga-host-house-451480007.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451480007.jpg?k=afc55507b2e03f4e1d6d09da743701eac208960be35bd1f4f6bc17bdd14fd219&o=&hp=1"
 language: en
 slug: guga-host-house
 address: "259 Rruga Adem Sheme, 9701 Sarandë, Albania"

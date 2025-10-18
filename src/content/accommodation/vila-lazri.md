@@ -1,7 +1,7 @@
 ---
 title: "Vila Lazri"
 description: "Vila Lazri emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine shores of Shëngjin Beach."
-featuredImage: "/images/accommodation/vila-lazri-364406979.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364406979.jpg?k=53e2904335fd065e998429029508d70f088ea71855b9fdd3ecf8a3e578831a3c&o=&hp=1"
 language: en
 slug: vila-lazri
 address: "Shëngjin - Kune, 4503 Skataj, Albania"

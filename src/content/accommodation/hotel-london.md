@@ -1,7 +1,7 @@
 ---
 title: "Hotel LONDON"
 description: "Hotel LONDON emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-london-325781889.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325781889.jpg?k=1f1e05350dd280199d7de6dc8f91e1612331193dba5b3284f2374ddb74bbc897&o=&hp=1"
 language: en
 slug: hotel-london
 address: "Bulevardi Zogu I nr 53, 1000 Tirana, Albania"

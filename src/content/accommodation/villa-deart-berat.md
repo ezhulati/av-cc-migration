@@ -1,7 +1,7 @@
 ---
 title: "Villa Deart Berat"
 description: "Villa Deart Berat is a charming choice for travelers seeking a serene stay in Berat."
-featuredImage: "/images/accommodation/villa-deart-berat-463611914.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463611914.jpg?k=0a8eb38b36e19600ed3b56a4a545ff3f6522245c127209f05b6e89c1c9286462&o=&hp=1"
 language: en
 slug: villa-deart-berat
 address: "Rruga Santa Lucia, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Double Room in Hotel Geraldo"
 description: "Discover the charm of Hotel Geraldo, a welcoming oasis located in the heart of Kakavijë, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/double-room-in-hotel-geraldo-433735324.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433735324.jpg?k=be5a5b631b1e80e2f1cd4a1b1c20991e55adaf6bf8aea6ed5c38909bc1e283c5&o=&hp=1"
 language: en
 slug: double-room-in-hotel-geraldo
 address: "SH4 Hotel Gerlado, 6001 Kakavijë, Albania"

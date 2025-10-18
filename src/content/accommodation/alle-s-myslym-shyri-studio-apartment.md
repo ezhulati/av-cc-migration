@@ -1,7 +1,7 @@
 ---
 title: "Alle's Myslym Shyri studio apartment"
 description: "Alle's Myslym Shyri studio apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/alle-s-myslym-shyri-studio-apartment-502416443.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502416443.jpg?k=e75973a812a44b44aafa3a514c98cbb24290266d034e4b8e01cf64a759243a93&o=&hp=1"
 language: en
 slug: alle-s-myslym-shyri-studio-apartment
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

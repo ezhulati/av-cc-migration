@@ -1,7 +1,7 @@
 ---
 title: "Bala Apartment"
 description: "Bala Apartment emerges as a serene retreat in the vibrant city of Shkodër, situated a mere 48 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/bala-apartment-452509556.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452509556.jpg?k=509633532a50704741c3c7bebdb361f0cf7bd646f90c0137ae547cf4bcfb3b9f&o=&hp=1"
 language: en
 slug: bala-apartment
 address: "Rruga Daut Borici Hyrja 1 kati 4 porta 10, 4001 Shkodër, Albania"

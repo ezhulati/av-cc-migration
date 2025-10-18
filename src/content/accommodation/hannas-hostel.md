@@ -1,7 +1,7 @@
 ---
 title: "Hannas Hostel"
 description: "Hannas Hostel in Berat stands out as a charming destination for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/hannas-hostel-438825764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438825764.jpg?k=14512adc35ecb662cd01d0de7e9a55fa51085f8a750c302b0d3a6e43bd20b07d&o=&hp=1"
 language: en
 slug: hannas-hostel
 address: "Rruga Gaqi Gjika, 5000 Berat, Albania"

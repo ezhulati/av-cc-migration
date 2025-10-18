@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Tirana Apartament's"
 description: "Sunrise Tirana Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/sunrise-tirana-apartament-s-493255165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493255165.jpg?k=bea4c875d262eee3e4c9077ce8e1f6d631dfbf402954f5235b849ebba5f93ea4&o=&hp=1"
 language: en
 slug: sunrise-tirana-apartament-s
 address: "Rruga Abdyl Pajo 2, 1001 Tirana, Albania"

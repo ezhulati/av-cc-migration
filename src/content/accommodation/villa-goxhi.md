@@ -1,7 +1,7 @@
 ---
 title: "Villa Goxhi"
 description: "Villa Goxhi stands as a serene retreat in Borsh, just a stone's throw away from the pristine Borsh Beach and within a scenic drive from the historic Butrint National Park."
-featuredImage: "/images/accommodation/villa-goxhi-205352635.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205352635.jpg?k=90959616a0ee87e6c160e7a6e38cdc3394229d3229d334057b240bbb974bdf9f&o=&hp=1"
 language: en
 slug: villa-goxhi
 address: "Shkalle Borsh, 1000 Borsh, Albania"

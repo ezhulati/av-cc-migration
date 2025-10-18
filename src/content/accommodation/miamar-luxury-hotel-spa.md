@@ -1,7 +1,7 @@
 ---
 title: "Miamar Luxury Hotel & Spa"
 description: "Miamar Luxury Hotel & Spa emerges as a premier destination for travelers seeking an unparalleled seaside experience."
-featuredImage: "/images/accommodation/miamar-luxury-hotel-spa-303627155.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303627155.jpg?k=dfe5a0051700a8d61c6bc144c7d1451924a0ac24cb11dd88f9d5484ae72d7d33&o=&hp=1"
 language: en
 slug: miamar-luxury-hotel-spa
 address: "LIVADHI BEACH livadh, 9425 Himare, Albania"

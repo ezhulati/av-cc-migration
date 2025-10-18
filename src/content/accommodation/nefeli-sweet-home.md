@@ -1,7 +1,7 @@
 ---
 title: "NEFELI sweet home"
 description: "NEFELI Sweet Home emerges as a modern oasis in Durrës, boasting a comprehensive renovation that positions it as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/nefeli-sweet-home-475886303.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475886303.jpg?k=5b4b1dd56fd97f49fedef54201d2629ca13b2beb89a2925659d7486c010f387b&o=&hp=1"
 language: en
 slug: nefeli-sweet-home
 address: "18 Rruga Albania, 2024 Durrës, Albania"

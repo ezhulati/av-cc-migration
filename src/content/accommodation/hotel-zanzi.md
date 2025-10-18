@@ -1,7 +1,7 @@
 ---
 title: "Hotel Zanzi"
 description: "Hotel Zanzi stands as a beacon of comfort and convenience in Durrës, mere steps away from the inviting sands of Durres Beach."
-featuredImage: "/images/accommodation/hotel-zanzi-462708109.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462708109.jpg?k=f8ae004b638b8e8a699321bb577c590a632b4c7d568e1774c902e514f77d04ef&o=&hp=1"
 language: en
 slug: hotel-zanzi
 address: "Rruga Agaveve, 2008 Durrës, Albania"

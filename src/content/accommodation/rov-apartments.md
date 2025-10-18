@@ -1,7 +1,7 @@
 ---
 title: "ROV APARTMENTS"
 description: "ROV APARTMENTS emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/rov-apartments-527125226.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527125226.jpg?k=63a22f02d693cfb71992f9237cc94a606cf91979676363f012b440c5276ae2b2&o=&hp=1"
 language: en
 slug: rov-apartments
 address: "Rruga Albion Tershalla, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Poseidon Sea View Studio"
 description: "Poseidon Sea View Studio offers a refreshing retreat in the heart of Sarandë, providing guests with a unique blend of convenience and serenity."
-featuredImage: "/images/accommodation/poseidon-sea-view-studio-426651311.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426651311.jpg?k=22faecec97d08bcd20ab22b968ac8e9c250916198c3911eaadef9b88f43e3988&o=&hp=1"
 language: en
 slug: poseidon-sea-view-studio
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

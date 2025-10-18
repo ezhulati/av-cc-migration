@@ -1,7 +1,7 @@
 ---
 title: "JOEN Village"
 description: "JOEN Village, located in the serene town of Librazhd, stands out as a premier destination for travelers seeking a blend of comfort and convenience."
-featuredImage: "/images/accommodation/joen-village-502928266.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502928266.jpg?k=c17d13b7014e74fb5dcbecce0851f332f45cf179be16e68e0a9ba04f4604c78a&o=&hp=1"
 language: en
 slug: joen-village
 address: "Fushe Studen, 3401 Librazhd, Albania"

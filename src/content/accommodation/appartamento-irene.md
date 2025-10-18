@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Irene"
 description: "Appartamento Irene emerges as a serene haven in the vibrant city of Vlorë, strategically positioned just moments away from the pristine Vlore Beach and the historic Independence Square."
-featuredImage: "/images/accommodation/appartamento-irene-457878587.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457878587.jpg?k=771ea2769f1caf23b7706140ebcd3c74a6201298e19b0ff8c2afea8c6991ccc8&o=&hp=1"
 language: en
 slug: appartamento-irene
 address: "Rruga Zaho Koka, Vlorë, Albania"

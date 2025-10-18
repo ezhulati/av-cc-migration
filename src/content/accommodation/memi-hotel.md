@@ -1,7 +1,7 @@
 ---
 title: "Memi Hotel"
 description: "Memi Hotel emerges as a serene retreat in Borsh, strategically positioned a mere stone's throw away from the pristine Borsh Beach and the enchanting Qeparo Beach."
-featuredImage: "/images/accommodation/memi-hotel-489250985.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489250985.jpg?k=7d959c4fb2e37e239a64aac4ae627eaad36c290c41475e46dc5be89a0f83e2cc&o=&hp=1"
 language: en
 slug: memi-hotel
 address: "Rruga Plazhit, 9714 Borsh, Albania"

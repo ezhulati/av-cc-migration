@@ -1,7 +1,7 @@
 ---
 title: "Vala Mar Apartament"
 description: "Discover the charm of Vala Mar Apartament, a serene oasis situated in the vibrant city of Durrës."
-featuredImage: "/images/accommodation/vala-mar-apartament-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: vala-mar-apartament
 address: "Albania 1, 1507 Durrës, Albania"

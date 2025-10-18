@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nais"
 description: "Discover the charm of Hotel Nais, a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/hotel-nais-140556311.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140556311.jpg?k=317fc48932ef297b8455a70ab1fda9a94c724aff77bd0a66d6e7760d39c0e3b4&o=&hp=1"
 language: en
 slug: hotel-nais
 address: "Lagja 1, Bulevardi Epidamni, 2001 Durrës, Albania"

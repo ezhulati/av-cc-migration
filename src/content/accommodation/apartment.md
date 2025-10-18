@@ -1,7 +1,7 @@
 ---
 title: "Apartment"
 description: "Tirana's hidden gem, this apartment, offers a serene retreat just 1."
-featuredImage: "/images/accommodation/apartment-498673911.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498673911.jpg?k=141d9aca91e1f5ff5cc5bf687b6be8d46ad1fbfd16d92f1258ac689ed56171ed&o=&hp=1"
 language: en
 slug: apartment
 address: "Rruga Faik Konica, 1001 Tirana, Albania"

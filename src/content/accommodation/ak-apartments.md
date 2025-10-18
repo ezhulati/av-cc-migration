@@ -1,7 +1,7 @@
 ---
 title: "AK Apartments"
 description: "AK Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ak-apartments-527881829.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527881829.jpg?k=2a99ea010f29b8650d896a5ba33deb1c2b35df2c4e20c9e1db22b04d39c153f8&o=&hp=1"
 language: en
 slug: ak-apartments
 address: "Rruga Imer Ndregjoni Tower Bridge 4 Residence, 1001 Tirana, Albania"

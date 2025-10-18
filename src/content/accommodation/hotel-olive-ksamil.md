@@ -1,7 +1,7 @@
 ---
 title: "Hotel Olive Ksamil"
 description: "Hotel Olive Ksamil emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/hotel-olive-ksamil-261685480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261685480.jpg?k=332355558f500fb688e7e539cdbb34dfb75a6fba6109db89d9055814b88b3779&o=&hp=1"
 language: en
 slug: hotel-olive-ksamil
 address: "Rruga Riviera Perballe Lori Beach, 9706 Ksamil, Albania"

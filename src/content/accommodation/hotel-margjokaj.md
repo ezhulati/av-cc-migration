@@ -1,7 +1,7 @@
 ---
 title: "Hotel Margjokaj"
 description: "Hotel Margjokaj stands out as a prime choice for travelers seeking both relaxation and adventure in Velipojë, just a stone's throw away from the pristine Velipoja Beach."
-featuredImage: "/images/accommodation/hotel-margjokaj-404892874.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404892874.jpg?k=4b8df82c5acad88aa2235a405735638a1b6240bfc77ba8c3aa7dd336bf77f216&o=&hp=1"
 language: en
 slug: hotel-margjokaj
 address: "Rruga nr. 8, 4020 Velipojë, Albania"

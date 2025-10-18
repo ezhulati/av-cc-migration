@@ -1,7 +1,7 @@
 ---
 title: "Sky View Hotel"
 description: "Sky View Hotel, located in the charming city of Korçë and a mere 44 km from the serene Ohrid Lake Springs, stands out as a premier destination for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/sky-view-hotel-367328796.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367328796.jpg?k=dc0cc4f3f9affb0a416df3ef75092ddd877dd9d8a9876bfdfa2b4542601cf838&o=&hp=1"
 language: en
 slug: sky-view-hotel
 address: "Korce Rruga Sedat Babani Lagjia No 3 Korçe , 7001, 7001 Korçë, Albania"

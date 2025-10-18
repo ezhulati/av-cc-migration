@@ -1,7 +1,7 @@
 ---
 title: "Summer Apartment"
 description: "Summer Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/summer-apartment-492808975.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492808975.jpg?k=cf174bf48853850b4eb1ae326de3cf0541fcc260a41ad0d83ca66bf96cc70b37&o=&hp=1"
 language: en
 slug: summer-apartment
 address: "Rruga Shyqyri Ali Merka, 9401 Vlorë, Albania"

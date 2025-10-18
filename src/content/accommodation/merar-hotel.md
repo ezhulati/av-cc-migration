@@ -1,7 +1,7 @@
 ---
 title: "Merar Hotel"
 description: "Merar Hotel, located a mere stone's throw away from the pristine shores of Qerret Beach in Golem, stands out as a premier destination for travelers seeking both relaxation and convenience."
-featuredImage: "/images/accommodation/merar-hotel-358656691.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358656691.jpg?k=6acbd555c2f2d6004baf0b59998568533527463331e434dfabbacbbf0bf7f728&o=&hp=1"
 language: en
 slug: merar-hotel
 address: "Rruga Besa Qerret, 1004 Golem, Albania"

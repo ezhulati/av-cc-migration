@@ -1,7 +1,7 @@
 ---
 title: "Denisi Apartment"
 description: "Denisi Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/denisi-apartment-455724796.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455724796.jpg?k=a9461e8a973774e1fde66101e6699a579288ddd7bc7ad374d42ea1e7c688769a&o=&hp=1"
 language: en
 slug: denisi-apartment
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Romantika"
 description: "Romantika stands as a serene oasis in Shëngjin, a mere stone's throw away from the pristine Ylberi Beach and a short stroll from the vibrant Shëngjin Beach."
-featuredImage: "/images/accommodation/romantika-256592178.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256592178.jpg?k=2f74694801854b6c8ebe9d0baf2f0252b9afd60960ea62cf49db84d3ddb85947&o=&hp=1"
 language: en
 slug: romantika
 address: "Rruga Kënallë - Kune kune shengjin, 4501 Shëngjin, Albania"

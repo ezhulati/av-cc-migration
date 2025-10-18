@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sokrati"
 description: "Hotel Sokrati emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-sokrati-309306111.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309306111.jpg?k=0443449fc073117a389ba138269726bd0b4d8028ba323ba86c781b7983c67b88&o=&hp=1"
 language: en
 slug: hotel-sokrati
 address: "Rruga Peti, 1001 Tirana, Albania"

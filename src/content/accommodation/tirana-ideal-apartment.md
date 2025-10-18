@@ -1,7 +1,7 @@
 ---
 title: "Tirana Ideal Apartment"
 description: "Tirana Ideal Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-ideal-apartment-433703463.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433703463.jpg?k=7e2d9e9847bcd189fcbba785588a25b1fbe891bac7d8ca4528038a757ed44d55&o=&hp=1"
 language: en
 slug: tirana-ideal-apartment
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Leo"
 description: "Vila Leo emerges as a serene oasis in Golem, boasting a lush garden view that promises tranquility just a stone's throw away from the vibrant Mali I Robit Beach and the serene Qerret Beach."
-featuredImage: "/images/accommodation/vila-leo-360135268.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360135268.jpg?k=f69a445dd1bc0bcadbbf8984da7b5a13125cf3e22d8c03fc56b6a67102ebfe51&o=&hp=1"
 language: en
 slug: vila-leo
 address: "Rruga Liria,Dalja Veriore nga rrotondo e Mak Albanias, Mali i Robit, 2504 Golem, Albania"

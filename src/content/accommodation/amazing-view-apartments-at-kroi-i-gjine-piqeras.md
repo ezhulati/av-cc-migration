@@ -1,7 +1,7 @@
 ---
 title: "Amazing View Apartments at Kroi i Gjine, Piqeras"
 description: "Discover the charm of Piqeras with a stay at Amazing View Apartments at Kroi i Gjine, a serene retreat located just 43 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/amazing-view-apartments-at-kroi-i-gjine-piqeras-487967921.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487967921.jpg?k=0b7f0aa390b4aef3655b2b631dc357ac3a84023d0a655b37828ed465f8767fc9&o=&hp=1"
 language: en
 slug: amazing-view-apartments-at-kroi-i-gjine-piqeras
 address: "SH8, Piqeras, Albania"

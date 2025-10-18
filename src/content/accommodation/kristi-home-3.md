@@ -1,7 +1,7 @@
 ---
 title: "Kristi Home 3"
 description: "Kristi Home 3 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/kristi-home-3-514510498.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514510498.jpg?k=5d2b558c4e06c6333cce2c768b4a5f64521011247048b6083af86ca266e2e3f5&o=&hp=1"
 language: en
 slug: kristi-home-3
 address: "Rruga Bajram Curri, 2001 Durrës, Albania"

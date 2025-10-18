@@ -1,7 +1,7 @@
 ---
 title: "Seven Luxury Suites"
 description: "Seven Luxury Suites emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/seven-luxury-suites-346467262.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/346467262.jpg?k=650bbd4bd5b81fb2c8ca5e97d3d7d21f167462525b541c1c65572d0d42f6d921&o=&hp=1"
 language: en
 slug: seven-luxury-suites
 address: "Rruga Dervish Hima, 1010 Tirana, Albania"

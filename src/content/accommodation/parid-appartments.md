@@ -1,7 +1,7 @@
 ---
 title: "Parid Appartments"
 description: "Parid Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/parid-appartments-359004779.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359004779.jpg?k=b9275322734097adbc04097ae9f93cb66e1a124929271ff2bed876492324f72c&o=&hp=1"
 language: en
 slug: parid-appartments
 address: "Lgj Nr 1, Rruga Butrinti, pranë kanalit Çukë, Troy Restorant, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Two bedroom apartament in Myslym Shyri"
 description: "Discover the charm of Tirana from the comfort of the Two Bedroom Apartment in Myslym Shyri, a prime accommodation choice for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/two-bedroom-apartament-in-myslym-shyri-522171233.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522171233.jpg?k=7fcd817b05484a89016977d0c05f4b4bc2517c256e3059749e679ffe63816928&o=&hp=1"
 language: en
 slug: two-bedroom-apartament-in-myslym-shyri
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

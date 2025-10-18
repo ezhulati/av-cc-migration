@@ -1,7 +1,7 @@
 ---
 title: "Sea view Apartment"
 description: "Sea View Apartment in Sarandë emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a short stroll from Saranda City Beach and within easy reach of La Petite Beach."
-featuredImage: "/images/accommodation/sea-view-apartment-505062976.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505062976.jpg?k=08f41e5bb2f37f8e7038570848233cc2858b890c50dff420776a69cc66288f8c&o=&hp=1"
 language: en
 slug: sea-view-apartment
 address: "Rruga Lefter Talo, Sarandë, Albania"

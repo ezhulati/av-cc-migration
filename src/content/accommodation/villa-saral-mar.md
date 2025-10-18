@@ -1,7 +1,7 @@
 ---
 title: "Villa Saral Mar"
 description: "Villa Saral Mar emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë, located just a stone's throw away from the Sarande Main Beach."
-featuredImage: "/images/accommodation/villa-saral-mar-475277605.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475277605.jpg?k=a0c59baed1cd34521cd255fb116a9937976ce4dd02550b14210daa20c7928475&o=&hp=1"
 language: en
 slug: villa-saral-mar
 address: "Rruga Janaq Kumi villa Nr.1, 9701 Sarandë, Albania"

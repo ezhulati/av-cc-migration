@@ -1,7 +1,7 @@
 ---
 title: "Villa Kristjana Ksamil"
 description: "Villa Kristjana Ksamil emerges as a prime choice for travelers seeking a serene getaway, conveniently located just a short stroll from the pristine shores of Ksamil Beach."
-featuredImage: "/images/accommodation/villa-kristjana-ksamil-293275148.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293275148.jpg?k=df89211d2c5b0356a690121009c25e74978343dfd33c8239dd8ff405005c3bb0&o=&hp=1"
 language: en
 slug: villa-kristjana-ksamil
 address: "Road “ Butrint “ Ksamil Number Building 111, 9706 Ksamil, Albania"

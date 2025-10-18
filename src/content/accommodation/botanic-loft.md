@@ -1,7 +1,7 @@
 ---
 title: "Botanic Loft"
 description: "Botanic Loft emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/botanic-loft-512137419.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137419.jpg?k=c31fee80326a739a62aae8d1167620b6ed7928c3669877f57ae7078f29736b07&o=&hp=1"
 language: en
 slug: botanic-loft
 address: "Rruga Selita e Vjeter, 1045 Tirana, Albania"

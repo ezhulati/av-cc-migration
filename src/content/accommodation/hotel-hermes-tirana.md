@@ -1,7 +1,7 @@
 ---
 title: "Hotel Hermes Tirana"
 description: "Hotel Hermes Tirana emerges as a contemporary haven in the heart of Tirana's vibrant Blloku area, merely a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/hotel-hermes-tirana-82414204.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/82414204.jpg?k=6cc567a22b4869c47b1974ddb057815805196382a393e56c88d7421468e8598a&o=&hp=1"
 language: en
 slug: hotel-hermes-tirana
 address: "Rr. Vaso Pasha, 1001 Tirana, Albania"

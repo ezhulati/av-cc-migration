@@ -1,7 +1,7 @@
 ---
 title: "Guest house Artani"
 description: "Situated in the serene Valbonë, Guest House Artani emerges as a tranquil retreat for travelers seeking a peaceful getaway."
-featuredImage: "/images/accommodation/guest-house-artani-489323542.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489323542.jpg?k=a8f857eea4aa5b7b690da2327efc6a16f283cd7310b26e6d77811be3d99a6153&o=&hp=1"
 language: en
 slug: guest-house-artani
 address: "Rruga Selimaj 1, 8701 Valbonë, Albania"

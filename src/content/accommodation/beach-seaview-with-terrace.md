@@ -1,7 +1,7 @@
 ---
 title: "BEACH&SEAVIEW WITH TERRACE"
 description: "BEACH&SEAVIEW WITH TERRACE stands as a prime beachfront gem in Sarandë, offering guests an unparalleled blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/beach-seaview-with-terrace-140712198.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140712198.jpg?k=bd81314cd21938a69d1b79f7467b524d5e49f14e1ade9653473591656374d4fa&o=&hp=1"
 language: en
 slug: beach-seaview-with-terrace
 address: "Rruga Qazim Demi 10 Pallati i ri Jani Barka, Lagjja 1, 9701 Sarandë, Albania"

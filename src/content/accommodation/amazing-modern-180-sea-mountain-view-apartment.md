@@ -1,7 +1,7 @@
 ---
 title: "Amazing Modern 180 ° Sea -Mountain view Apartment"
 description: "At the heart of Vlorë's vibrant coastline, the Amazing Modern 180° Sea-Mountain View Apartment stands as a testament to contemporary living with breathtaking views."
-featuredImage: "/images/accommodation/amazing-modern-180-sea-mountain-view-apartment-453580556.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453580556.jpg?k=fc1f74639094bb599f4ccc7a9d8b522f502e9e18bde52ec1e642747271cba05e&o=&hp=1"
 language: en
 slug: amazing-modern-180-sea-mountain-view-apartment
 address: "9405 Rruga Murat Tërbaçi, 9405 Vlorë, Albania"

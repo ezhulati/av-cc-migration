@@ -1,7 +1,7 @@
 ---
 title: "VILA SANREMO"
 description: "VILA SANREMO emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vila-sanremo-404177931.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404177931.jpg?k=55ccbc63c64d88e49b070558cd31488014ccd01ee9bd97b93dcbe7f876664566&o=&hp=1"
 language: en
 slug: vila-sanremo
 address: "Rruga Myslym Shyri, 1000 Tirana, Albania"

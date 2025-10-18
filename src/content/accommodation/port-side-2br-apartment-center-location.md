@@ -1,7 +1,7 @@
 ---
 title: "Port Side - 2BR Apartment - Center Location"
 description: "Discover the charm of Sarandë with a stay at the Port Side 2BR Apartment, perfectly positioned just a short stroll from Sarande Main Beach and within easy reach of Saranda City Beach."
-featuredImage: "/images/accommodation/port-side-2br-apartment-center-location-348261590.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348261590.jpg?k=e681f113d94655d46797d5b259b74963573760dd01ad2f94f0d45d07bf19120b&o=&hp=1"
 language: en
 slug: port-side-2br-apartment-center-location
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

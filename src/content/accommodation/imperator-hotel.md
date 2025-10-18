@@ -1,7 +1,7 @@
 ---
 title: "Imperator Hotel"
 description: "Imperator Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/imperator-hotel-361584275.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361584275.jpg?k=d4b6ccd60bcd72fa9dcea657970c678b2affb30c0950371b6b9b9f8f5a750418&o=&hp=1"
 language: en
 slug: imperator-hotel
 address: "Rruga Artan Lenja 31, 1001 Tirana, Albania"

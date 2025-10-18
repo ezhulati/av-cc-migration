@@ -1,7 +1,7 @@
 ---
 title: "Sea Bellows Apartment"
 description: "Sea Bellows Apartment, located in the vibrant heart of Sarandë, offers a refreshing retreat just a stone's throw away from Saranda City Beach and within easy walking distance to La Petite Beach."
-featuredImage: "/images/accommodation/sea-bellows-apartment-478078759.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478078759.jpg?k=fec86b88e7cefc735215b8692988730d8e33aeecd08934648a7bb01b37cb3047&o=&hp=1"
 language: en
 slug: sea-bellows-apartment
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

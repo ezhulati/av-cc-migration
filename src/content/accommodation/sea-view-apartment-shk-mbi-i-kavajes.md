@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment Shkëmbi i Kavajes"
 description: "Sea View Apartment Shkëmbi i Kavajes stands as a prime choice for travelers seeking a serene getaway in Durrës, just a stone's throw away from the pristine Shkëmbi i Kavajës Beach and a short stroll from Golem Beach."
-featuredImage: "/images/accommodation/sea-view-apartment-shk-mbi-i-kavajes-375030414.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375030414.jpg?k=0c18b94857cefd9784bae282202db892f093aacf55d0a87650bc6777a6f79592&o=&hp=1"
 language: en
 slug: sea-view-apartment-shk-mbi-i-kavajes
 address: "(41.2686196, 19.5191917), Durrës, Albania"

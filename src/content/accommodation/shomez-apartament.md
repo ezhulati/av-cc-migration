@@ -1,7 +1,7 @@
 ---
 title: "Shomez apartament"
 description: "Shomez Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/shomez-apartament-501299817.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501299817.jpg?k=c2b5d2951b4c2b4ac957973bfe1906ed7d045d51b8c3d37d65a62a3d2aff84f9&o=&hp=1"
 language: en
 slug: shomez-apartament
 address: "Rruga Besim Daja, 1001 Tirana, Albania"

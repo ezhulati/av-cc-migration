@@ -1,7 +1,7 @@
 ---
 title: "Apartament me qera 3+1 Shkoder (prane Katedrales)"
 description: "Apartament me qera 3+1 Shkoder (prane Katedrales) emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/apartament-me-qera-3-1-shkoder-prane-katedrales-446544517.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446544517.jpg?k=4b14c4d8221e07d2bae904f1865ef9e8ba30396970cdd7c1baf3460f1d10cc26&o=&hp=1"
 language: en
 slug: apartament-me-qera-3-1-shkoder-prane-katedrales
 address: "Sarreq, Shkoder prane Katedrales, 4001 Shkodër, Albania"

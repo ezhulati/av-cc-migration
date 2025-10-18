@@ -1,7 +1,7 @@
 ---
 title: "Cano Apartament"
 description: "Cano Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located within the scenic Durres County."
-featuredImage: "/images/accommodation/cano-apartament-463733171.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463733171.jpg?k=4eff2e2c3ee18c837bff637ed6354cf6d1f7ce986d1abccd3f64d2539e1af8f8&o=&hp=1"
 language: en
 slug: cano-apartament
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

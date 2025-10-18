@@ -1,7 +1,7 @@
 ---
 title: "Hotel Comfort"
 description: "Hotel Comfort emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-comfort-308925042.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308925042.jpg?k=4b5dabb94aea1e859475229ffc0fe26b7b6f4d363d3003db37ef87b3f5534896&o=&hp=1"
 language: en
 slug: hotel-comfort
 address: "Rruga Fortuzi, 1016 Tirana, Albania"

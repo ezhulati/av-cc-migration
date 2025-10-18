@@ -1,7 +1,7 @@
 ---
 title: "Golem apartment one bedroom (4 ppl)"
 description: "Discover the charm of Golem with a stay at the Golem Apartment, a one-bedroom haven perfect for up to four guests."
-featuredImage: "/images/accommodation/golem-apartment-one-bedroom-4-ppl-398379479.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398379479.jpg?k=26c63596f14c06521ebe4e4761d335d939d586b227d1340014051743e60449b8&o=&hp=1"
 language: en
 slug: golem-apartment-one-bedroom-4-ppl
 address: "Rruga Plazhit, 2504 Golem, Albania"

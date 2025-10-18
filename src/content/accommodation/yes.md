@@ -1,7 +1,7 @@
 ---
 title: "Yes"
 description: "Yes Hotel emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/yes-466980245.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466980245.jpg?k=69564cf0fa250d01236c1ac20bce414c63599d4e0a746b1f236c29d95007b026&o=&hp=1"
 language: en
 slug: yes
 address: "Rruga Mihal Duri 3, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Andi"
 description: "Hotel Vila Andi stands as a serene retreat in Zvërnec, merely 1."
-featuredImage: "/images/accommodation/hotel-vila-andi-465812046.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465812046.jpg?k=8b5c511528403c7457eb7673f199b72cc553da396131a5f77d094707ea384227&o=&hp=1"
 language: en
 slug: hotel-vila-andi
 address: "Rruga e Zvërnec, 9414 Zvërnec, Albania"

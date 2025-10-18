@@ -1,7 +1,7 @@
 ---
 title: "Villa LIDSON"
 description: "Villa LIDSON in Golem emerges as a premier destination for travelers seeking an exceptional seaside retreat."
-featuredImage: "/images/accommodation/villa-lidson-215498677.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215498677.jpg?k=4bda58530b4b36ec7bd9efc554384f286ab7bc56e31812f040c4bcb91215234a&o=&hp=1"
 language: en
 slug: villa-lidson
 address: "Bulevardi Pishave Golem Complesso Residenziale SAVO, 1010 Golem, Albania"

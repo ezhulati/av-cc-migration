@@ -1,7 +1,7 @@
 ---
 title: "Flower Residence sea view"
 description: "Flower Residence Sea View emerges as a prime choice for travelers seeking the perfect blend of comfort and adventure in Sarandë."
-featuredImage: "/images/accommodation/flower-residence-sea-view-426212511.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426212511.jpg?k=c6bceb3d79faf432af6bfe7c79f15e20c0c95d27460fd0918bf4e184c37e2f59&o=&hp=1"
 language: en
 slug: flower-residence-sea-view
 address: "1 Rruga Qazim Demi 15, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Turi-Selcë"
 description: "Turi-Selcë emerges as a serene retreat in the heart of Selcë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/turi-selc-465598550.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465598550.jpg?k=35148323b35c1f59ccb21aee839a6d7a0011f1ed232e21f6b77737ec6b338c32&o=&hp=1"
 language: en
 slug: turi-selc
 address: "Selcë Shkoder, Albania Gjonoviq, Selcë-Kelmend, 4304 Selcë, Albania"

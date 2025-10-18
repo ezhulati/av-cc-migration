@@ -1,7 +1,7 @@
 ---
 title: "Hostel Grande House"
 description: "Hostel Grande House emerges as a charming retreat in the vibrant city of Tirana, situated a mere 3."
-featuredImage: "/images/accommodation/hostel-grande-house-80256714.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/80256714.jpg?k=403d241f6b6b5913c11419d487552b77e2fc8a127defcecbae8a510bb9b14825&o=&hp=1"
 language: en
 slug: hostel-grande-house
 address: "Rr. S. Bruzi, Njesia 11, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "New Appartement for rent, in the heart of Shëngjin"
 description: "New Appartement for rent emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the vibrant heart of Shëngjin."
-featuredImage: "/images/accommodation/new-appartement-for-rent-in-the-heart-of-sh-ngjin-387922668.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387922668.jpg?k=73332a58f348fbe6acca956d33a5ed6ab39bf93ae1e90f92698d04a30a20b0e3&o=&hp=1"
 language: en
 slug: new-appartement-for-rent-in-the-heart-of-sh-ngjin
 address: "Shëngjin - Kune, 4503 Sakës, Albania"

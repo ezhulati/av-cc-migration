@@ -1,7 +1,7 @@
 ---
 title: "The Sunset View"
 description: "The Sunset View stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/the-sunset-view-459277977.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459277977.jpg?k=bf322217e7f0579d642708fc13eb8d832336eecfdd666c843d773995c522ece9&o=&hp=1"
 language: en
 slug: the-sunset-view
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

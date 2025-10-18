@@ -1,7 +1,7 @@
 ---
 title: "Your home far away from home!"
 description: "Discover the charm of Tirana with a stay at \"Your Home Far Away From Home,\" a prime accommodation choice that offers more than just a place to rest."
-featuredImage: "/images/accommodation/your-home-far-away-from-home-409893207.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409893207.jpg?k=548774ce12dae167f199c26b88659a410f97ada485ee19dd7c899b552051e947&o=&hp=1"
 language: en
 slug: your-home-far-away-from-home
 address: "Rruga Nikolla Lena, 1001 Tirana, Albania"

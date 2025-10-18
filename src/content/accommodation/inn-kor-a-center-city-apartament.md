@@ -1,7 +1,7 @@
 ---
 title: "INN Korça, Center City Apartament"
 description: "Discover the charm of Korçë from the comfort of INN Korça, Center City Apartment, a prime choice for travelers seeking both serenity and convenience."
-featuredImage: "/images/accommodation/inn-kor-a-center-city-apartament-268533976.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268533976.jpg?k=d499e77bd6b2b3ae94120a8041f32ea418251cd1efee0a6975d496086ccad94f&o=&hp=1"
 language: en
 slug: inn-kor-a-center-city-apartament
 address: "Rr. Edit Durham , lagjia 9 ,pallati 2, c ,9 Mbrapa Teatrit Andon Zako Cajupi, 7001 Korçë, Albania"

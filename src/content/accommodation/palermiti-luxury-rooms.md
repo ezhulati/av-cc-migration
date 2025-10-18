@@ -1,7 +1,7 @@
 ---
 title: "Palermiti Luxury Rooms"
 description: "Palermiti Luxury Rooms emerges as a premier choice for travelers seeking a blend of comfort and convenience in Himare."
-featuredImage: "/images/accommodation/palermiti-luxury-rooms-454062754.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454062754.jpg?k=c43398c74a27f8769b7880956055358344b7164dfd16fc4881c9d16895f2b97c&o=&hp=1"
 language: en
 slug: palermiti-luxury-rooms
 address: "Porto Palermo, Himare, Sh8, 9423 Himare, Albania"

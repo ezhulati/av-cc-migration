@@ -1,7 +1,7 @@
 ---
 title: "Saranda Marina Bay Residence"
 description: "Saranda Marina Bay Residence emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-marina-bay-residence-479325165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479325165.jpg?k=0b445256ba6ff33508ecdac1bd96e0aa8bb77f40885dcd9ddcc242f47380e269&o=&hp=1"
 language: en
 slug: saranda-marina-bay-residence
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Primavera"
 description: "Hotel Primavera stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Flamingo Beach."
-featuredImage: "/images/accommodation/hotel-primavera-260555210.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260555210.jpg?k=943a2d0eb8190d4efc14341c54ac297827b0ed0ae80781ed15041b5c32b407d6&o=&hp=1"
 language: en
 slug: hotel-primavera
 address: "Lagja nr.1, Rruga Butrinti Cadastral Zone 8642, 9700 Sarandë, Albania"

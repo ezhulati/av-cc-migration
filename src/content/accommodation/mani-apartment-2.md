@@ -1,7 +1,7 @@
 ---
 title: "Mani Apartment 2"
 description: "Mani Apartment 2 emerges as a prime choice for travelers seeking a serene beachfront experience in Durrës."
-featuredImage: "/images/accommodation/mani-apartment-2-471221752.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471221752.jpg?k=b33173021ba12cd222a619f5ebe470cd6c0f36e03b26c3a9cd4fbc5bb051fb38&o=&hp=1"
 language: en
 slug: mani-apartment-2
 address: "Rr. Porta e Detit 17 , Ap 5, Durrës, Albania"

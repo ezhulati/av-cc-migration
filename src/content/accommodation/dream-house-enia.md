@@ -1,7 +1,7 @@
 ---
 title: "Dream house Enia"
 description: "Dream House Enia stands as a beacon of comfort and convenience in the heart of Shkodër, Shkoder County, offering guests a unique blend of city views and serene garden vistas from its thoughtfully designed patio."
-featuredImage: "/images/accommodation/dream-house-enia-511095136.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511095136.jpg?k=b10ae68fc810ea15e30b3378bbdf55cee04e8b0ed961c2bf8d9bac58ae07ff5f&o=&hp=1"
 language: en
 slug: dream-house-enia
 address: "Rruga Edith Durham, 4001 Shkodër, Albania"

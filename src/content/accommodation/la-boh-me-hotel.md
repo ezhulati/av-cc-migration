@@ -1,7 +1,7 @@
 ---
 title: "La Bohème Hotel"
 description: "La Bohème Hotel emerges as a modern oasis in the heart of Tirana's vibrant Blloku neighbourhood, offering guests an exceptional blend of comfort, style, and convenience."
-featuredImage: "/images/accommodation/la-boh-me-hotel-318955629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318955629.jpg?k=632ced06e2a13cb7457305f31edca8949065906722ee16a0ffd73b05565d0591&o=&hp=1"
 language: en
 slug: la-boh-me-hotel
 address: "Rruga \"Abdyl Frasheri\" Vesa Center 10-th Floor, 1001 Tirana, Albania"

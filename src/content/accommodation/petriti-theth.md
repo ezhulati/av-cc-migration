@@ -1,7 +1,7 @@
 ---
 title: "Petriti theth"
 description: "Petriti Theth emerges as a serene retreat offering breathtaking mountain views and a cozy stay just a stone's throw away from Theth National Park."
-featuredImage: "/images/accommodation/petriti-theth-523245180.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523245180.jpg?k=6800ba0bc1d22c0072dae9a5356f825b0474d9c2eda5bdd1cc64f979f1760212&o=&hp=1"
 language: en
 slug: petriti-theth
 address: "Rruga Thethi, Theth, Albania"

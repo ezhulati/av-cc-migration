@@ -1,7 +1,7 @@
 ---
 title: "Lake Shkodra Resort"
 description: "Discover the serene beauty of Lake Shkodra Resort, a hidden gem located just a stone's throw from Shkoder's bustling city center."
-featuredImage: "/images/accommodation/lake-shkodra-resort-159056570.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/159056570.jpg?k=cbd1de69f5ddb7d1ae7964118399d02330bd882d09a28e900f7ebae151e3adfb&o=&hp=1"
 language: en
 slug: lake-shkodra-resort
 address: "Rruga E Liqenit, Grile / Omaraj, 4001 Grilë, Albania"

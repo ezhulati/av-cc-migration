@@ -1,7 +1,7 @@
 ---
 title: "Vila Darla"
 description: "Vila Darla emerges as a charming choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "/images/accommodation/vila-darla-461707856.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461707856.jpg?k=9b68f4f84bf58e0d81b1a3a37dd8d8fdb3c33662159ea293d754867b6b9fe6bd&o=&hp=1"
 language: en
 slug: vila-darla
 address: "Rruga Kol Myzeqari, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ona’s Apartments"
 description: "Ona’s Apartments in Lushnjë stands out for its commitment to comfort and convenience, offering guests a seamless stay with modern amenities."
-featuredImage: "/images/accommodation/ona-s-apartments-473876735.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473876735.jpg?k=80449b3e55416b9cd6729ca48592dc8eca217dc58814096f4c1e6086c1d1b00d&o=&hp=1"
 language: en
 slug: ona-s-apartments
 address: "Shetitorja e Palmave, Lushnjë, Albania"

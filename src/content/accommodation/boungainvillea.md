@@ -1,7 +1,7 @@
 ---
 title: "Boungainvillea"
 description: "Bougainvillea emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Himare."
-featuredImage: "/images/accommodation/boungainvillea-474040354.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474040354.jpg?k=f24b1835c9e4b747ef49a578ec92a656c2113285c44e29afe66c3cff19ad0a42&o=&hp=1"
 language: en
 slug: boungainvillea
 address: "Himare - Livadh Road, 9425 Himare, Albania"

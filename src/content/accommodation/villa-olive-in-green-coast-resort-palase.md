@@ -1,7 +1,7 @@
 ---
 title: "Villa Olive in Green Coast Resort, Palase"
 description: "Villa Olive in Green Coast Resort, Palase, stands out as a prime choice for travelers seeking a serene getaway close to Nazar Beach, just 1."
-featuredImage: "/images/accommodation/villa-olive-in-green-coast-resort-palase-484000606.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484000606.jpg?k=7d5766557be43bb814f6b1e82c46b68473528b9bb5438963ae8741c8d0294bd0&o=&hp=1"
 language: en
 slug: villa-olive-in-green-coast-resort-palase
 address: "Apartment 139 /1 in Green Coast Resort and Residences, Palase, 9425 Llogara, Albania"

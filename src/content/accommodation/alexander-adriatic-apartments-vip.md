@@ -1,7 +1,7 @@
 ---
 title: "Alexander Adriatic Apartments VIP"
 description: "Alexander Adriatic Apartments VIP offers a prime beachfront location in Durrës, mere steps away from the inviting sands of Durres Beach."
-featuredImage: "/images/accommodation/alexander-adriatic-apartments-vip-509874022.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509874022.jpg?k=ca885c6b48ecb7aadd366dfec44f7eefb19d88c6560188ce733e469ad5baa1b5&o=&hp=1"
 language: en
 slug: alexander-adriatic-apartments-vip
 address: "Durres, Plazh, Durrës, Albania"

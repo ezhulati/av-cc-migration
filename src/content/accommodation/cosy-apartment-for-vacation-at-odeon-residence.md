@@ -1,7 +1,7 @@
 ---
 title: "Cosy apartment for vacation at Odeon Residence"
 description: "Odeon Residence emerges as a prime choice for travelers seeking a serene beachfront getaway in Vlorë."
-featuredImage: "/images/accommodation/cosy-apartment-for-vacation-at-odeon-residence-476053668.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476053668.jpg?k=aca0a17b69e8dd7c4849a4b31d9f49dc6536998a994aa69e5b4edf7fb361f1ad&o=&hp=1"
 language: en
 slug: cosy-apartment-for-vacation-at-odeon-residence
 address: "Rruga Kozma Qirjo, 9400 Vlorë, Albania"

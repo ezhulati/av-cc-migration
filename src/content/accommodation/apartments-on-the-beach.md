@@ -1,7 +1,7 @@
 ---
 title: "Apartments On The Beach"
 description: "Apartments on the Beach, situated a mere 80 meters from the pristine shores and 3 kilometers from the vibrant heart of Sarandë, offers a unique self-catering accommodation experience with the added benefit of complimentary WiFi access."
-featuredImage: "/images/accommodation/apartments-on-the-beach-155373618.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155373618.jpg?k=9c9373ddeade824cb2cc426bdd1523c3a9a22f00ded3ca415f9fb44f6c0b51a7&o=&hp=1"
 language: en
 slug: apartments-on-the-beach
 address: ": 2nd Km Saranda - Butrinti Road Kanali Cukes, 9700 Sarandë, Albania"

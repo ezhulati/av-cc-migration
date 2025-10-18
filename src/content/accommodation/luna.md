@@ -1,7 +1,7 @@
 ---
 title: "Luna"
 description: "Luna Villa emerges as a serene retreat in the vibrant city of Vlorë, positioned conveniently just over two kilometers from the pristine Vjetër Beach and a stone's throw away from Vlore Beach."
-featuredImage: "/images/accommodation/luna-481986513.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481986513.jpg?k=b6cb054877784ae8d2b88e76155bfccbe0164184b5180c64035fccccae6f3855&o=&hp=1"
 language: en
 slug: luna
 address: "Rruga Ali Demi 2, Vlorë, Albania"

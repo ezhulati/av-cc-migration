@@ -1,7 +1,7 @@
 ---
 title: "Fari Hotel"
 description: "Fari Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Golem, situated merely 400 meters from the serene Mali I Robit Beach."
-featuredImage: "/images/accommodation/fari-hotel-527694756.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527694756.jpg?k=92883ff49ab8bbb673fe912b630c29e69029d6a4637f5b345c130df27a4b3ea2&o=&hp=1"
 language: en
 slug: fari-hotel
 address: "Road Ahmet Çaçi ,Golem,Durres, 2504 Golem, Albania"

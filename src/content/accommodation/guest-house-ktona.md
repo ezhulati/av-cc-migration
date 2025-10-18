@@ -1,7 +1,7 @@
 ---
 title: "Guest House Ktona"
 description: "Guest House Ktona emerges as a serene retreat located in the picturesque Dardhë area of Korçë County, boasting a terrace that offers breathtaking mountain views."
-featuredImage: "/images/accommodation/guest-house-ktona-photo.jpg64.jpg"
+featuredImage: "https://lh5.googleusercontent.com/-zCmqqQp5PZg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcYa-oKlzhSVyTqGHE4ogB4_dVwM8Q/s96-c/photo.jpg64"
 language: en
 slug: guest-house-ktona
 address: "Dardhe, 7001 Dardhë, Albania"

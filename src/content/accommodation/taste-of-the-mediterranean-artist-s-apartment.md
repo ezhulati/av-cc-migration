@@ -1,7 +1,7 @@
 ---
 title: "Taste of the mediterranean- Artist 's Apartment"
 description: "Taste of the Mediterranean - Artist's Apartment emerges as a serene retreat in Vlorë, situated a mere 800 meters from the tranquil Vjetër Beach."
-featuredImage: "/images/accommodation/taste-of-the-mediterranean-artist-s-apartment-327617572.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327617572.jpg?k=8b9fa3dd6b24d4b1e52d518c95930f520b4f0e1df39d061c9bb5a55d1b86e932&o=&hp=1"
 language: en
 slug: taste-of-the-mediterranean-artist-s-apartment
 address: "9401 Vlorë, Albania"

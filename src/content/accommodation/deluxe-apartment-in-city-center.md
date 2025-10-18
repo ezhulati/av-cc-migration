@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Apartment In City Center"
 description: "Deluxe Apartment In City Center emerges as a prime choice for travelers seeking the heart of Tirana, located merely 800 meters from the iconic Skanderbeg Square and a short distance from the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/deluxe-apartment-in-city-center-465025961.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465025961.jpg?k=0e4a0307bb7231149f119ccdf632621ecca88df322d4a48a21fbf895648585bf&o=&hp=1"
 language: en
 slug: deluxe-apartment-in-city-center
 address: "Rruga e Saraçëve floor 5, 1017 Tirana, Albania"

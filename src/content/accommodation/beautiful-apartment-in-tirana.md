@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Apartment in Tirana"
 description: "Discover the charm of Tirana with a stay at the Beautiful Apartment in Tirana, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/beautiful-apartment-in-tirana-514304422.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514304422.jpg?k=17316cbf33ee395aa194cc7f3958b7c7c5d94121437071d21718c7da4b2993c9&o=&hp=1"
 language: en
 slug: beautiful-apartment-in-tirana
 address: "Rruga Sokrat Miho 7, 1001 Tirana, Albania"

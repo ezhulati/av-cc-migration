@@ -1,7 +1,7 @@
 ---
 title: "Gjiri i Lalzit - Savita Apartments - Kompleksi Turistik Lura 3"
 description: "Gjiri i Lalzit - Savita Apartments - Kompleksi Turistik Lura 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience, located within a reasonable distance from some of Albania's most notable landmarks."
-featuredImage: "/images/accommodation/gjiri-i-lalzit-savita-apartments-kompleksi-turistik-lura-3-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: gjiri-i-lalzit-savita-apartments-kompleksi-turistik-lura-3
 address: "Kompleksi Turistik Lura 3 Apartment E4. Building E, 0033 Mullini i Danit, Albania"

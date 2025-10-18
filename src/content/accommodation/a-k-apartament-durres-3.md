@@ -1,7 +1,7 @@
 ---
 title: "A&K Apartament durres 3"
 description: "A&K Apartment Durres 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/a-k-apartament-durres-3-469782843.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469782843.jpg?k=617971ae887f72a4b47660cdcd875c35cbf4fca5cfdb94cd5dd50e2aef7c8c9b&o=&hp=1"
 language: en
 slug: a-k-apartament-durres-3
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

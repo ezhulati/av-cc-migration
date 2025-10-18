@@ -1,7 +1,7 @@
 ---
 title: "Comfort Inn (New Boulevard)"
 description: "Comfort Inn (New Boulevard) emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of the city."
-featuredImage: "/images/accommodation/comfort-inn-new-boulevard-512078570.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512078570.jpg?k=2719d73ec6e816b295826227163893dfa5064aee51fbe0528f74175ea6928a40&o=&hp=1"
 language: en
 slug: comfort-inn-new-boulevard
 address: "Rruga Reshit Petrela, 1001 Tirana, Albania"

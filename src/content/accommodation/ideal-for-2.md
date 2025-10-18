@@ -1,7 +1,7 @@
 ---
 title: "Ideal for 2"
 description: "Discover the charm of Sarandë with a stay at Ideal for 2, a prime guest house situated merely 400 meters from the serene Saranda Bay Beach and a short kilometer from the bustling Sarande Main Beach."
-featuredImage: "/images/accommodation/ideal-for-2-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: ideal-for-2
 address: "VXGP+J45, 9701 Sarandë, Albania"

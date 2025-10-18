@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartment 2"
 description: "Discover the charm of Shkodër with a stay at Comfort Apartment 2, a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/comfort-apartment-2-479789802.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479789802.jpg?k=5e0687d2c7cfbb8f30bc81edb4ce3d95280a08a1098ea773442bc6569158e001&o=&hp=1"
 language: en
 slug: comfort-apartment-2
 address: "Rruga Mbreti Gent 2, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Amazing familiar apartments"
 description: "Amazing Familiar Apartments emerges as a serene retreat in the vibrant heart of Sarandë, merely moments away from the city's pristine beaches."
-featuredImage: "/images/accommodation/amazing-familiar-apartments-386609044.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386609044.jpg?k=4fba3b7533da4a7103cef8cc19f1475a1a530e0c0060f7ba3b30ee27228111d4&o=&hp=1"
 language: en
 slug: amazing-familiar-apartments
 address: "Rruga 40 Shenjtorët, Sarandë, Albania"

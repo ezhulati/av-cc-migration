@@ -1,7 +1,7 @@
 ---
 title: "Lovely beach front apartment."
 description: "Discover the charm of Golem with a stay at the Lovely Beach Front Apartment, a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/lovely-beach-front-apartment-478533211.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478533211.jpg?k=97f4f8fb888f87388a194fc5d3f72888b53e1d47dd9699c8fdbaa9cb9619f455&o=&hp=1"
 language: en
 slug: lovely-beach-front-apartment
 address: "Rruga Qerret Plazh Brilliant hotel and SPA, 2-nd fl, Golem, Albania"

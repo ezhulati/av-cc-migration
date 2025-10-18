@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Polimen"
 description: "Bujtina Polimen emerges as a serene retreat in the heart of Përmet, located within the picturesque Gjirokastër County region and a mere 50 km from the enchanting Meropi-Palaiopyrgos forest."
-featuredImage: "/images/accommodation/bujtina-polimen-201605435.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201605435.jpg?k=00054d5de08209f820fe3412aaabe8cb13a6cd6dfc3f93053a4d1127ff75a5c5&o=&hp=1"
 language: en
 slug: bujtina-polimen
 address: "SH75, 6400 Përmet, Albania"

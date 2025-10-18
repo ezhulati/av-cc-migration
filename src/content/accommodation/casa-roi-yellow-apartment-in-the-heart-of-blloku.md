@@ -1,7 +1,7 @@
 ---
 title: "CASA ROI, Yellow apartment in the heart of Blloku"
 description: "CASA ROI, a vibrant Yellow apartment, emerges as a prime choice for travelers seeking the essence of Tirana's Blloku district."
-featuredImage: "/images/accommodation/casa-roi-yellow-apartment-in-the-heart-of-blloku-411312362.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411312362.jpg?k=eb0fa24082e3f8fa8540702d7e9d36cf5f9afbd403670647579e9f2d69faf125&o=&hp=1"
 language: en
 slug: casa-roi-yellow-apartment-in-the-heart-of-blloku
 address: "Rruga Sami Frashëri, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Four Seasons Beach Apartment Vlora"
 description: "Four Seasons Beach Apartment Vlora emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Albanian coast."
-featuredImage: "/images/accommodation/four-seasons-beach-apartment-vlora-478028655.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478028655.jpg?k=a433c39e16ef89f36716143690fab41171f68852171f411cabf93ea64b6f86c7&o=&hp=1"
 language: en
 slug: four-seasons-beach-apartment-vlora
 address: "Rruga Shaban Demiraj 143 H.10, Ap.21, 6th Floor., 9405 Vlorë, Albania"

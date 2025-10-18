@@ -1,7 +1,7 @@
 ---
 title: "Rambuje Resort"
 description: "Rambuje Resort emerges as a serene oasis in Lezhë, located a mere 43 km from the historic Rozafa Castle Shkodra."
-featuredImage: "/images/accommodation/rambuje-resort-467584770.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467584770.jpg?k=88cfec10a14f424f84c4c364a64f8efd53db62c064e0ca6a4a1a5448a47d28cb&o=&hp=1"
 language: en
 slug: rambuje-resort
 address: "Lezhe, Laguna vain, rr e bilancave sh.33, 4501 Lezhë, Albania"

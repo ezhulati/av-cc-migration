@@ -1,7 +1,7 @@
 ---
 title: "Villa Domenico Korce"
 description: "Villa Domenico Korce emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "/images/accommodation/villa-domenico-korce-288200354.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288200354.jpg?k=050903074bf40efff5eeaaabef7bbb97531b716a1fd10e30f6495ca718206a88&o=&hp=1"
 language: en
 slug: villa-domenico-korce
 address: "Rrugica Alush Koprencka, 7001 Korçë, Albania"

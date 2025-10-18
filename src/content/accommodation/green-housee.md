@@ -1,7 +1,7 @@
 ---
 title: "Green Housee"
 description: "Green Housee emerges as a serene retreat, offering guests a unique blend of comfort and convenience with its garden views and modern amenities."
-featuredImage: "/images/accommodation/green-housee-371072022.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371072022.jpg?k=f85d33d99540377736704de720d1cdcfdf7b65ee0033f04730dc22cf542f0a11&o=&hp=1"
 language: en
 slug: green-housee
 address: "Rruga Ilia Trebicka, Korçë, Albania"

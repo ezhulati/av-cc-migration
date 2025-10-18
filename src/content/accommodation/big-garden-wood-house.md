@@ -1,7 +1,7 @@
 ---
 title: "Big garden wood house"
 description: "Big Garden Wood House stands out as a serene retreat in Bajram Curri, offering guests a unique stay in its air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/big-garden-wood-house-517115727.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517115727.jpg?k=9d0ae890d46dd56b327330264ba465332799f8dcabc776bd3c88c6ad292360d5&o=&hp=1"
 language: en
 slug: big-garden-wood-house
 address: "Markaj;Bujan;Tropoje Building nr. 058, 8702 Bajram Curri, Albania"

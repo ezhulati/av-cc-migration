@@ -1,7 +1,7 @@
 ---
 title: "Hotel New Crystal"
 description: "Hotel New Crystal emerges as a prime choice for travelers seeking a blend of comfort and convenience, positioned merely a stone's throw away from the beach."
-featuredImage: "/images/accommodation/hotel-new-crystal-376040548.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376040548.jpg?k=274fb1f29b609b195aa27041e386950997ad60b98fe434a6b7cfde348cd911b7&o=&hp=1"
 language: en
 slug: hotel-new-crystal
 address: "Lagjia 1, Sheshi Ugolini, 9701 Ksamil, Albania"

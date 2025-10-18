@@ -1,7 +1,7 @@
 ---
 title: "Dea1 Majlinda Apartment"
 description: "Dea1 Majlinda Apartment emerges as a standout choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/dea1-majlinda-apartment-480145031.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480145031.jpg?k=8fa25c42377b7daeeedf0af75066b26fbc216c69d76f346b8756ba0ae0792bee&o=&hp=1"
 language: en
 slug: dea1-majlinda-apartment
 address: "Rruga Ismail Qemali, Sarandë, Albania"

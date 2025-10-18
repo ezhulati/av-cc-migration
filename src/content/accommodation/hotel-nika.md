@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nika"
 description: "Hotel Nika stands out as a prime choice for travelers seeking comfort and convenience mere steps from the beach."
-featuredImage: "/images/accommodation/hotel-nika-71055495.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71055495.jpg?k=840b0a48b6936a45a409743f81f2af206271c5e57f01f108193b89dcd22c48d7&o=&hp=1"
 language: en
 slug: hotel-nika
 address: "Rruga Dhimiter Konomi, Uji i Ftohte, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel H. Veza"
 description: "Hotel H."
-featuredImage: "/images/accommodation/hotel-h-veza-520546734.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520546734.jpg?k=ff40890338e242982b3058e351a155904dac8d2198e28359a977ae4f93358127&o=&hp=1"
 language: en
 slug: hotel-h-veza
 address: "brikenadimce1116@gmail.com 5 floor hotel with beach view, located in the nearest distance from the beach!, 1001 Kavajë, Albania"

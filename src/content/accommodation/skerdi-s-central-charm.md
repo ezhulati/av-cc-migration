@@ -1,7 +1,7 @@
 ---
 title: "Skerdi’s Central Charm"
 description: "Skerdi's Central Charm stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/skerdi-s-central-charm-508809544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508809544.jpg?k=bb8afdc1de2243df9808e922a7c683acb3a728958367ca79f38a2d9b15629d7d&o=&hp=1"
 language: en
 slug: skerdi-s-central-charm
 address: "Rruga Mujo Ulqinaku Building No.21, Floor 4, 1001 Tirana, Albania"

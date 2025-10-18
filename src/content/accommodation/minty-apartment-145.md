@@ -1,7 +1,7 @@
 ---
 title: "Minty Apartment - 145"
 description: "Minty Apartment - 145 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/minty-apartment-145-281523091.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281523091.jpg?k=5139cab5041081a34d1843a81034d520ee080b4f82c4275063ae73da254216fb&o=&hp=1"
 language: en
 slug: minty-apartment-145
 address: "Perla Resort, Gjiri i Lalzit, 2001 Durrës, Albania"

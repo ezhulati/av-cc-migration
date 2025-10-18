@@ -1,7 +1,7 @@
 ---
 title: "Nikaj Premium Apart-Hotel"
 description: "Nikaj Premium Apart-Hotel emerges as a serene oasis in the vibrant city of Vlorë, perfectly positioned just moments away from the pristine Vlore Beach and the historic Independence Square."
-featuredImage: "/images/accommodation/nikaj-premium-apart-hotel-479725864.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479725864.jpg?k=3791b09261fcd100ed002d47cc0d11d1f2f54c31c043c6c24de7fc4dc65c3d1a&o=&hp=1"
 language: en
 slug: nikaj-premium-apart-hotel
 address: "Rruga Anita Bitri, 9400 Vlorë, Albania"

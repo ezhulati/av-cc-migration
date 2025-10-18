@@ -1,7 +1,7 @@
 ---
 title: "Ap Relax , Golem - Mali robit"
 description: "Ap Relax, Golem - Mali Robit emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."
-featuredImage: "/images/accommodation/ap-relax-golem-mali-robit-175371562.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175371562.jpg?k=9f81064d76321fe3473c23e4f1a92a3b3ee39b222dcf7ef3c1353c2a4ca47180&o=&hp=1"
 language: en
 slug: ap-relax-golem-mali-robit
 address: "golem mali robit, 2504 Golem, Albania"

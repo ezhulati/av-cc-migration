@@ -1,7 +1,7 @@
 ---
 title: "Tirana Yellow Apartment"
 description: "Tirana Yellow Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-yellow-apartment-325297763.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/325297763.jpg?k=4fe0fcc0f265cd1671eebec10cc50461758bf3ecfb1f0b4e215e91d5ae772993&o=&hp=1"
 language: en
 slug: tirana-yellow-apartment
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

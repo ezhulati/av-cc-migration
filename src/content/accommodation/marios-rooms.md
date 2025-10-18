@@ -1,7 +1,7 @@
 ---
 title: "Marios Rooms"
 description: "Marios Rooms emerges as a standout accommodation choice for travelers seeking the perfect blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/marios-rooms-442926561.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442926561.jpg?k=825836941cf1688859a248b126f6b3138671001788426664087577669a6bdfb0&o=&hp=1"
 language: en
 slug: marios-rooms
 address: "SH 8 JONUFER, 9405 Vlorë, Albania"

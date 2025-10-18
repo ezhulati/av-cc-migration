@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartment Bela"
 description: "Studio Apartment Bela emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/studio-apartment-bela-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: studio-apartment-bela
 address: "Rruga Dritan Hoxha 1, 1025 Tirana, Albania"

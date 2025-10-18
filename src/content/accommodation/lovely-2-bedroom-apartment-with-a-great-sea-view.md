@@ -1,7 +1,7 @@
 ---
 title: "Lovely 2 bedroom apartment with a great sea view"
 description: "Discover the charm of Sarandë from the comfort of the Lovely 2 Bedroom Apartment, a prime choice for travelers seeking both city and sea views."
-featuredImage: "/images/accommodation/lovely-2-bedroom-apartment-with-a-great-sea-view-378835282.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378835282.jpg?k=d55b8c84fbbde7318ee45ebc476d134de99f06299a67098292492156eb373493&o=&hp=1"
 language: en
 slug: lovely-2-bedroom-apartment-with-a-great-sea-view
 address: "Rruga Butrinti, 9702 Sarandë, Albania"

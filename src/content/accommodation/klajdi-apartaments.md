@@ -1,7 +1,7 @@
 ---
 title: "Klajdi Apartaments"
 description: "Klajdi Apartments in Sarandë stands out as a prime choice for travelers seeking comfortable accommodations with the convenience of modern amenities."
-featuredImage: "/images/accommodation/klajdi-apartaments-366488822.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366488822.jpg?k=018556c3a423f48d5c9c54e6ab4f309aa0e50526d09c949105b0c14087dd8afa&o=&hp=1"
 language: en
 slug: klajdi-apartaments
 address: "Rruga Butrinti,9702 Sarande,Albania, 2016 Sarandë, Albania"

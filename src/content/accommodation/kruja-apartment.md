@@ -1,7 +1,7 @@
 ---
 title: "Kruja Apartment"
 description: "Kruja Apartment emerges as a serene retreat in the heart of Krujë, offering a blend of comfort and convenience for travelers seeking an authentic Albanian experience."
-featuredImage: "/images/accommodation/kruja-apartment-483718309.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483718309.jpg?k=43355120891fbfb1874c2a813e041e0d90587f19186c9260116bcd5574dcc3e4&o=&hp=1"
 language: en
 slug: kruja-apartment
 address: "Rruga e Malit, 1501 Krujë, Albania"

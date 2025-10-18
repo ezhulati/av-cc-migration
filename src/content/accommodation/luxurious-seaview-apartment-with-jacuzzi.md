@@ -1,7 +1,7 @@
 ---
 title: "Luxurious Seaview Apartment with Jacuzzi"
 description: "Discover the epitome of coastal living at the Luxurious Seaview Apartment with Jacuzzi, a prime choice for travelers seeking comfort and elegance in Durrës."
-featuredImage: "/images/accommodation/luxurious-seaview-apartment-with-jacuzzi-518651523.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518651523.jpg?k=f974e21d8cae41d6d28a7ec8c4e47cc93315f5c1294ba1ece675f2c16a067ba2&o=&hp=1"
 language: en
 slug: luxurious-seaview-apartment-with-jacuzzi
 address: "Rruga Taulantia, Durrës, Albania"

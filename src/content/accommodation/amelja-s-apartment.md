@@ -1,7 +1,7 @@
 ---
 title: "Amelja's Apartment"
 description: "Amelja's Apartment in Shkodër stands out as a prime choice for travelers seeking comfort and convenience, located just 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/amelja-s-apartment-447836453.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447836453.jpg?k=e7804334c1b765487e893f464493ae9748966f41b5f7c8c1b523cf3ef0823f03&o=&hp=1"
 language: en
 slug: amelja-s-apartment
 address: "Rruga 3 Heronjtë Viena Residence Entrance 2 Floor 4, 4001 Shkodër, Albania"

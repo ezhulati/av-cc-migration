@@ -1,7 +1,7 @@
 ---
 title: "Keon superb studio apartament"
 description: "Keon Superb Studio Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/keon-superb-studio-apartament-458639476.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458639476.jpg?k=7c832fc7fdcb3404123ce63eba852bf16181afcfb3bb83b29652b4ffdc23301b&o=&hp=1"
 language: en
 slug: keon-superb-studio-apartament
 address: "Rruga Mine Peza, 1057 Tirana, Albania"

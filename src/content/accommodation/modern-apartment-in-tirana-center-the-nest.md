@@ -1,7 +1,7 @@
 ---
 title: "Modern Apartment in Tirana Center - THE NEST"
 description: "Modern Apartment in Tirana Center - THE NEST emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/modern-apartment-in-tirana-center-the-nest-499291530.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499291530.jpg?k=4bbee4d3f1d47ba52d6fed52dc09af66f8f02e31707706cf6c77f25f725bff58&o=&hp=1"
 language: en
 slug: modern-apartment-in-tirana-center-the-nest
 address: "8 Rruga Hamid Shijaku, 1001 Tirana, Albania"

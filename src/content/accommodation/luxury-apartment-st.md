@@ -1,7 +1,7 @@
 ---
 title: "Luxury apartment ST"
 description: "Luxury Apartment ST emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Durrës."
-featuredImage: "/images/accommodation/luxury-apartment-st-476773610.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476773610.jpg?k=0b095286eff32c2a758e6f71717641b9957cdb1e43cce3159ea4469132b2d572&o=&hp=1"
 language: en
 slug: luxury-apartment-st
 address: "Rruga Taulantia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury Durres Apartament Sea View"
 description: "Luxury Durres Apartment Sea View stands as a beacon of comfort and elegance, just a stone's throw away from the pristine shores of Durres Beach."
-featuredImage: "/images/accommodation/luxury-durres-apartament-sea-view-493142200.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493142200.jpg?k=fb416c9945afe16c67412257d62527e23773f2006b4d95d6089d8aa15dd6e761&o=&hp=1"
 language: en
 slug: luxury-durres-apartament-sea-view
 address: "Rruga Venecia 8, Durrës, Albania"

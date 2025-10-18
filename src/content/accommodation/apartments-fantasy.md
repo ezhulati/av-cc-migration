@@ -1,7 +1,7 @@
 ---
 title: "Apartments Fantasy"
 description: "Apartments Fantasy emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the serene Durres Beach."
-featuredImage: "/images/accommodation/apartments-fantasy-499806058.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499806058.jpg?k=7a646f44caeb292f78b0216c83f7f64f54712e6f20d1d481c21d4196fe0bc9ff&o=&hp=1"
 language: en
 slug: apartments-fantasy
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfort Inn lll"
 description: "Comfort Inn III emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/comfort-inn-lll-446070308.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446070308.jpg?k=430591d922b9394fc548fe9e6bd4020437155f477db95eb72d20c66dca7a436a&o=&hp=1"
 language: en
 slug: comfort-inn-lll
 address: "Rruga Gjon Buzuku, 1001 Tirana, Albania"

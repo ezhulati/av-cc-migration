@@ -1,7 +1,7 @@
 ---
 title: "Apartament Pogradeci"
 description: "Apartament Pogradeci emerges as a serene retreat, boasting breathtaking lake views and a prime location just a stone's throw away from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/apartament-pogradeci-513829274.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513829274.jpg?k=32013d2e3fa88bb64d88755ae3a37dea48d55799d6d5830753a76b5512d2e9c9&o=&hp=1"
 language: en
 slug: apartament-pogradeci
 address: "Rruga Mendi Zavelani, 7301 Pogradec, Albania"

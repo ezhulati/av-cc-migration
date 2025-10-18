@@ -1,7 +1,7 @@
 ---
 title: "Lucky's apartment, a place to be"
 description: "Lucky's Apartment emerges as a standout choice for travelers seeking a blend of comfort and convenience in Pogradec."
-featuredImage: "/images/accommodation/lucky-s-apartment-a-place-to-be-473153954.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473153954.jpg?k=3c7e5230a582dd167d102e02c017134bc5b52263e890f2e967d826c4ced8680c&o=&hp=1"
 language: en
 slug: lucky-s-apartment-a-place-to-be
 address: "Rruga Lyhnida, Pogradec, Albania"

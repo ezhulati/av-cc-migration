@@ -1,7 +1,7 @@
 ---
 title: "Xhaferri Guesthouse"
 description: "Xhaferri Guesthouse, located in the heart of Çorovodë, offers a serene retreat with its lush garden surroundings and comprehensive amenities."
-featuredImage: "/images/accommodation/xhaferri-guesthouse-512217078.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512217078.jpg?k=c69c2dbf2046c8da551ba111bec255b3806604560c89d182d15a1fe2e3db0fa9&o=&hp=1"
 language: en
 slug: xhaferri-guesthouse
 address: "Mollas, Çorovodë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kappa3 Villas"
 description: "Hotel Kappa3 Villas emerges as a serene oasis in Vlorë, boasting a picturesque garden and breathtaking mountain vistas."
-featuredImage: "/images/accommodation/hotel-kappa3-villas-471438326.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471438326.jpg?k=f5ae43be2833c6d7aeb05712bb0831880587d475b61b853e7f1f22e177a47291&o=&hp=1"
 language: en
 slug: hotel-kappa3-villas
 address: "Hotel kappa3 - Rent rooms https://goo.gl/maps/4UEaz5ShQdyYdEvp6, Vlorë, Albania"

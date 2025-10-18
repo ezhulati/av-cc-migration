@@ -1,7 +1,7 @@
 ---
 title: "Hotel Panorama Elbasan"
 description: "Hotel Panorama Elbasan emerges as a standout destination for travelers seeking both relaxation and adventure in the heart of Elbasan."
-featuredImage: "/images/accommodation/hotel-panorama-elbasan-277160213.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277160213.jpg?k=c1490810e8b9be457052bdd84f9ad1ca52375871d61401d7088af2c2bcf29527&o=&hp=1"
 language: en
 slug: hotel-panorama-elbasan
 address: "Panorama resort elbasan Elbasan, 3001 Elbasan, Albania"

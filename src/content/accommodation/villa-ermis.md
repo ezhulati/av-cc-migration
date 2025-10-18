@@ -1,7 +1,7 @@
 ---
 title: "Villa Ermis"
 description: "Villa Ermis stands out as a premier destination for travelers seeking a serene beachfront getaway, complete with breathtaking sea views."
-featuredImage: "/images/accommodation/villa-ermis-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/1561962754132834/picture?type=square&height=64&width=64"
 language: en
 slug: villa-ermis
 address: "Rruga Perivolo, Dhërmi, Albania"

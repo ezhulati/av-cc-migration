@@ -1,7 +1,7 @@
 ---
 title: "Vila Kaci"
 description: "Vila Kaci emerges as a charming retreat in the vibrant city of Durrës, striking a perfect balance between convenience and tranquility."
-featuredImage: "/images/accommodation/vila-kaci-482709909.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482709909.jpg?k=91035a0ba1141aae2e19d2c8dadc867b3c169b25ae554394ea1bd2bbdeccaff2&o=&hp=1"
 language: en
 slug: vila-kaci
 address: "Lagjia 1, 2001 Durrës, Albania"

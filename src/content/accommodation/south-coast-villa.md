@@ -1,7 +1,7 @@
 ---
 title: "South Coast Villa"
 description: "South Coast Villa emerges as a serene retreat in Borsh, just a short 1."
-featuredImage: "/images/accommodation/south-coast-villa-260763251.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260763251.jpg?k=05d52da6465b070ab4d1f4ed94eddb1b409fb68f2be57b475178ed12c11cd072&o=&hp=1"
 language: en
 slug: south-coast-villa
 address: "Rruga Plazhit 2 storey white building, 9714 Borsh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pearl Apartament"
 description: "Pearl Apartament stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from Vjetër Beach and a short distance from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/pearl-apartament-483518099.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483518099.jpg?k=3fff82c8e1c84d48aa60b6f327902426d770474e10843ca343983869077c1db4&o=&hp=1"
 language: en
 slug: pearl-apartament
 address: "Rruga Gavril Dara, Vlorë, Albania"

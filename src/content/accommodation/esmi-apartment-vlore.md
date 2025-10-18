@@ -1,7 +1,7 @@
 ---
 title: "Esmi Apartment Vlore"
 description: "Esmi Apartment Vlore stands out as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/esmi-apartment-vlore-526154599.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526154599.jpg?k=ae93df25b14c63be1e08f6f0d0759853189a50c6bfbfb64d4170177c0ce7edd6&o=&hp=1"
 language: en
 slug: esmi-apartment-vlore
 address: "Rruga Reshat Osmani, 9401 Vlorë, Albania"

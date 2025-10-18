@@ -1,7 +1,7 @@
 ---
 title: "Near beach apartment."
 description: "Discover the charm of Golem with a stay at the Near Beach Apartment, a recently updated gem just a stone's throw away from the pristine shores of Mali I Robit Beach and a short stroll from the captivating Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/near-beach-apartment-470006811.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470006811.jpg?k=50c32cbb559e556cc5d0f856fe05d1b9c1ccf576b331bbcff8dbbf34d0a5e48f&o=&hp=1"
 language: en
 slug: near-beach-apartment
 address: "Rr.Skenderbeu, kompleksi Savo, Golem, Golem, Albania"

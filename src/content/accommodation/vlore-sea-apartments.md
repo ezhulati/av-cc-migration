@@ -1,7 +1,7 @@
 ---
 title: "Vlore Sea Apartments"
 description: "Vlore Sea Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/vlore-sea-apartments-302197394.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302197394.jpg?k=a6809a5eecacc8d3050629e48b060a3abdc5178c6b099a9805cc372e3431ff22&o=&hp=1"
 language: en
 slug: vlore-sea-apartments
 address: "Rr. Sazani FF4G+9V Vlora, Albánie, 9401 Vlorë, Albania"

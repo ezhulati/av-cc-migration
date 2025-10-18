@@ -1,7 +1,7 @@
 ---
 title: "Ori Apartmen"
 description: "Ori Apartment emerges as a serene retreat in the vibrant city of Shkodër, located a mere 48 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/ori-apartmen-495190609.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495190609.jpg?k=a2a5e1209a6a7ad0d3849a99e7f7cf534259858243cd3df0588d3fa5e4f1389e&o=&hp=1"
 language: en
 slug: ori-apartmen
 address: "Rruga Isuf Sokoli Floor number 1, Shkodër, Albania"

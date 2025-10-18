@@ -1,7 +1,7 @@
 ---
 title: "Meliá Durrës Albania"
 description: "Meliá Durrës Albania emerges as a premier destination for travelers seeking unparalleled service and amenities in the heart of Durrës."
-featuredImage: "/images/accommodation/meli-durr-s-albania-455066087.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455066087.jpg?k=e48781ba6eeee7f94d0462688447ee931c539b95e83a195fc9038c2e9dd3e659&o=&hp=1"
 language: en
 slug: meli-durr-s-albania
 address: "Plazhi San Pietro, Gjiri i Lalezit Dürres, 2000 Durrës, Albania"

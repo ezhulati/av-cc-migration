@@ -1,7 +1,7 @@
 ---
 title: "City Center 2 Bedroom Apartment"
 description: "City Center 2 Bedroom Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-2-bedroom-apartment-497928523.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497928523.jpg?k=d78466d84bd112a19154b3103869a66b5e77f9a825f3b96d73de70c111a58001&o=&hp=1"
 language: en
 slug: city-center-2-bedroom-apartment
 address: "Rruga Kajo Karafili, 1019 Tirana, Albania"

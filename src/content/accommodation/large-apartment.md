@@ -1,7 +1,7 @@
 ---
 title: "Large Apartment"
 description: "Large Apartment in Vlorë stands as a prime choice for travelers seeking spacious and comfortable accommodations close to the city's main attractions."
-featuredImage: "/images/accommodation/large-apartment-photo.jpg64.jpg"
+featuredImage: "https://lh6.googleusercontent.com/-eEInC-SuCis/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdpSyl6lTREk1MCg6cLtF0-FV7ovA/photo.jpg64"
 language: en
 slug: large-apartment
 address: "Rruga Laze Melo, 9400 Vlorë, Albania"

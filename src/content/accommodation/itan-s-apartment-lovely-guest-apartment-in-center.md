@@ -1,7 +1,7 @@
 ---
 title: "Itan’s apartment-Lovely guest apartment in center"
 description: "Itan's Apartment stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/itan-s-apartment-lovely-guest-apartment-in-center-373299195.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373299195.jpg?k=1106befb23c04cd86c0517717021c2da786338a9d7622f88617c21163e25be47&o=&hp=1"
 language: en
 slug: itan-s-apartment-lovely-guest-apartment-in-center
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Oda N'Bjeshke"
 description: "Oda N'Bjeshke stands out as a serene retreat in the heart of Valbonë, offering guests a unique blend of natural beauty and modern comforts."
-featuredImage: "/images/accommodation/oda-n-bjeshke-481789921.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481789921.jpg?k=5f7b44ff26e2aaea66b3000e4cadebe5c4acfe7e10da1db0303eb356a755700d&o=&hp=1"
 language: en
 slug: oda-n-bjeshke
 address: "Rruga Azem Hajdari, 8708 Valbonë, Albania"

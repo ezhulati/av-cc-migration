@@ -1,7 +1,7 @@
 ---
 title: "Art Rooms Gjuhadol"
 description: "Art Rooms Gjuhadol stands out as a serene oasis in the vibrant city of Shkodër, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/art-rooms-gjuhadol-454456840.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454456840.jpg?k=aa38ac0f2e13888d6314f6eacb6f9f98e210164d838e1490a0948e0d9cb5982d&o=&hp=1"
 language: en
 slug: art-rooms-gjuhadol
 address: "Rruga G'juhadol, 87, 4001 Shkodër, Albania"

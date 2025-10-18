@@ -1,7 +1,7 @@
 ---
 title: "Imperador Palace Hotel Restorant"
 description: "Imperador Palace Hotel Restorant emerges as a distinguished destination for travelers seeking a blend of luxury and convenience in Peshkopi."
-featuredImage: "/images/accommodation/imperador-palace-hotel-restorant-481319009.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481319009.jpg?k=fdadd7ccd073a4b1de6091ccc22b5e63ad86e60735dc2bc09c42e9c48d3d8f36&o=&hp=1"
 language: en
 slug: imperador-palace-hotel-restorant
 address: "Bulevardi Elez Isufi, 8302 Peshkopi, Albania"

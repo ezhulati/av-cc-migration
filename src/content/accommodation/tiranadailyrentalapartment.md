@@ -1,7 +1,7 @@
 ---
 title: "TiranaDailyRentalApartment"
 description: "TiranaDailyRentalApartment emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tiranadailyrentalapartment-508490764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508490764.jpg?k=495351c22c15ef7a6ef004745748814c3ae50723ff58c112f797be0410f14ebc&o=&hp=1"
 language: en
 slug: tiranadailyrentalapartment
 address: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"

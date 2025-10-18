@@ -1,7 +1,7 @@
 ---
 title: "Sulaj Sea view 2"
 description: "Sulaj Sea View 2 emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, perfectly positioned just a few steps from the pristine Spille Beach and a short stroll from Maracit Beach."
-featuredImage: "/images/accommodation/sulaj-sea-view-2-459522059.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459522059.jpg?k=b5c0f2333132c1110e3a8e19944aa73aa255222a1bdc4b4113535f622ba310a3&o=&hp=1"
 language: en
 slug: sulaj-sea-view-2
 address: "Himare spile2, 0708 Himare, Albania"

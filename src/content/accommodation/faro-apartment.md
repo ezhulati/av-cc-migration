@@ -1,7 +1,7 @@
 ---
 title: "Faro Apartment"
 description: "Faro Apartment emerges as a modern retreat in the heart of Durrës, boasting a prime location just a stone's throw away from the serene Durres Beach and within a comfortable distance of 38 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/faro-apartment-504707929.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504707929.jpg?k=cc55f8992f1a20fadd795041dad7c2d5f9457f1bd39a71c15621b11d919a5045&o=&hp=1"
 language: en
 slug: faro-apartment
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

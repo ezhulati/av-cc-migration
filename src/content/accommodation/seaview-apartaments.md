@@ -1,7 +1,7 @@
 ---
 title: "Seaview Apartaments"
 description: "Seaview Apartments emerges as a prime choice for travelers seeking a serene escape, located just a short stroll from the pristine shores of Ksamil Beach 9."
-featuredImage: "/images/accommodation/seaview-apartaments-524028246.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524028246.jpg?k=57ed10503580eb10ae2a7213f6b9e7720e993d816074ac075c22c6a25cea9ff8&o=&hp=1"
 language: en
 slug: seaview-apartaments
 address: "Rruga Ibrahim Rugova, 9706 Ksamil, Albania"

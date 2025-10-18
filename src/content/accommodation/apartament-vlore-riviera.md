@@ -1,7 +1,7 @@
 ---
 title: "Apartament- Vlore- Riviera"
 description: "Discover the charm of Vlorë with a stay at Apartament-Vlore-Riviera, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/apartament-vlore-riviera-521170870.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521170870.jpg?k=26631fd22df6a89302e0d187eb62e3db0a1879ba08d785f7d72425ad00a97679&o=&hp=1"
 language: en
 slug: apartament-vlore-riviera
 address: "Rruga Vlorë, 9401 Vlorë, Albania"

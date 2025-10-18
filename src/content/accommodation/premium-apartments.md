@@ -1,7 +1,7 @@
 ---
 title: "Premium Apartments"
 description: "Premium Apartments in Shkodër stands out as a prime choice for travelers seeking comfort and convenience, located just 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/premium-apartments-484037533.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484037533.jpg?k=d8fb5051f431c2e42f2ece30de921f5ce7245acd1db14ed01135b259bbbb4b5d&o=&hp=1"
 language: en
 slug: premium-apartments
 address: "Rruga Babej, 4001 Shkodër, Albania"

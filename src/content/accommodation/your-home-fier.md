@@ -1,7 +1,7 @@
 ---
 title: "Your home Fier"
 description: "Your Home Fier emerges as a modern oasis of comfort, recently updated to meet the discerning tastes of today's travelers."
-featuredImage: "/images/accommodation/your-home-fier-497193925.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497193925.jpg?k=491cd3440f1045544310e4b4146b22a18ad658a04177bf28e771c10a1473282e&o=&hp=1"
 language: en
 slug: your-home-fier
 address: "Skenderbeu, 9301 Fier, Albania"

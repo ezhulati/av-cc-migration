@@ -1,7 +1,7 @@
 ---
 title: "Aglon Twin's Hotel"
 description: "Aglon Twin's Hotel, located in the vibrant heart of Vlorë and a mere stone's throw from the pristine Ri Beach, emerges as a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/aglon-twin-s-hotel-468776183.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468776183.jpg?k=a644264c9ba872ea0023dba41e2becb714676cf146acb643251833e0f7d21f3f&o=&hp=1"
 language: en
 slug: aglon-twin-s-hotel
 address: "Rruga Dhimitër Konomi Lagjia Uji i Ftohte, 9400 Vlorë, Albania"

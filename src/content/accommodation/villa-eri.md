@@ -1,7 +1,7 @@
 ---
 title: "Villa ERI"
 description: "Villa ERI stands out as a serene retreat in the historic city of Berat, providing guests with a blend of comfort and convenience."
-featuredImage: "/images/accommodation/villa-eri-494678750.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494678750.jpg?k=219836f4187ab0b757172888eec54fab49560cd227a5091e169c50c6202c041a&o=&hp=1"
 language: en
 slug: villa-eri
 address: "Velabisht, Berat, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The Honeycomb Boutique Hotel"
 description: "The Honeycomb Boutique Hotel stands as a beacon of luxury in Golem, just a short stroll from the serene Mali I Robit Beach."
-featuredImage: "/images/accommodation/the-honeycomb-boutique-hotel-475289430.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475289430.jpg?k=f890e808ea6938990b41ba66cb7371f217582a54624d31a5426edfa3fbc1ec8b&o=&hp=1"
 language: en
 slug: the-honeycomb-boutique-hotel
 address: "Rruga Liria, 2504 Golem, Albania"

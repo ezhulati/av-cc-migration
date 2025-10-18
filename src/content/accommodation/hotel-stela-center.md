@@ -1,7 +1,7 @@
 ---
 title: "Hotel Stela Center"
 description: "Hotel Stela Center emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-stela-center-183883088.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183883088.jpg?k=7041f019d7425cb04a0aa97d13cfea80d9a79399987eb124c1dd0df8e9ae3914&o=&hp=1"
 language: en
 slug: hotel-stela-center
 address: "Street Abdullah Keta Street of Dibra, 1001 Tirana, Albania"

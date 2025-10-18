@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment in Shkoder"
 description: "Discover the charm of Shkodër with a stay at Lovely Apartment in Shkoder, a haven of comfort featuring air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/lovely-apartment-in-shkoder-490480371.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490480371.jpg?k=850aa32cf2f95966f280a1316ca80a116d1c86a173d18d37f5750e2ab21998d6&o=&hp=1"
 language: en
 slug: lovely-apartment-in-shkoder
 address: "Rruga Don Bosko, 4001 Shkodër, Albania"

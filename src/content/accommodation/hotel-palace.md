@@ -1,7 +1,7 @@
 ---
 title: "Hotel Palace"
 description: "Hotel Palace emerges as a modern retreat in the heart of Vlorë, a mere stone's throw away from the pristine shores and the bustling Porti Vlorë."
-featuredImage: "/images/accommodation/hotel-palace-149784327.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149784327.jpg?k=a55c2f20f323935c9c737387b9356da3f29138c7e4718dba34abe8ce20b4a7e0&o=&hp=1"
 language: en
 slug: hotel-palace
 address: "Rr\"Gjergj Arianiti\" Vlore Albania, 9400 Vlorë, Albania"

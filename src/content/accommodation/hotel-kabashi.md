@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kabashi"
 description: "Hotel Kabashi emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Korçë."
-featuredImage: "/images/accommodation/hotel-kabashi-209863552.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209863552.jpg?k=07e7567f62809947c40fd3ec8c3934a23b0fbd327b1c6863c46c587a5c00c3e8&o=&hp=1"
 language: en
 slug: hotel-kabashi
 address: "SH3, 7001 Korçë, Albania"

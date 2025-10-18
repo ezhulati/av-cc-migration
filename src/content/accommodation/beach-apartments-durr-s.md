@@ -1,7 +1,7 @@
 ---
 title: "Beach Apartments, Durrës"
 description: "Beach Apartments, Durrës emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/beach-apartments-durr-s-491993568.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491993568.jpg?k=2c7ec2290c2f49f584ccf640492fc0bcfb1a03836e5c8e3bf5a5cdfa22156e27&o=&hp=1"
 language: en
 slug: beach-apartments-durr-s
 address: "Rruga, 2002 Durrës, Albania"

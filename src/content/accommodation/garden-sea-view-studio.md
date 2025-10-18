@@ -1,7 +1,7 @@
 ---
 title: "Garden Sea View Studio"
 description: "Garden Sea View Studio emerges as a serene retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Mango Beach and a leisurely stroll from the tranquil Flamingo Beach."
-featuredImage: "/images/accommodation/garden-sea-view-studio-371937020.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371937020.jpg?k=fa6ea76832ab076d8e99bbb311ba03be85ad2483234dee6ada72e8c7b382c34a&o=&hp=1"
 language: en
 slug: garden-sea-view-studio
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

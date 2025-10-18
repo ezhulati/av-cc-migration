@@ -1,7 +1,7 @@
 ---
 title: "Elby Apartments"
 description: "Elby Apartments in Berat stands out as a prime choice for travelers seeking both comfort and convenience in their accommodation."
-featuredImage: "/images/accommodation/elby-apartments-485501599.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485501599.jpg?k=ed9357d9314d498bc5783a6169df58f6684750b2be4a0b1608c24c345521c59f&o=&hp=1"
 language: en
 slug: elby-apartments
 address: "Rruga Antipatrea, Berat, Albania"

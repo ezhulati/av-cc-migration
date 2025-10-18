@@ -1,7 +1,7 @@
 ---
 title: "Panoramic View Guest House"
 description: "Panoramic View Guest House, a recently updated gem in Gjirokastër, stands out for its serene garden, soundproofed comfort, and complimentary WiFi, all within a stone's throw of the enchanting Zaravina Lake."
-featuredImage: "/images/accommodation/panoramic-view-guest-house-472540955.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472540955.jpg?k=65c5873c645bf6bf78b4976ced03d33a35e14270fb1fdc496ae90a1bcdd06dd7&o=&hp=1"
 language: en
 slug: panoramic-view-guest-house
 address: "Bashkim kokona 20 palorto, 6000 Gjirokastër, Albania"

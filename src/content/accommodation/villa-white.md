@@ -1,7 +1,7 @@
 ---
 title: "Villa White"
 description: "Villa White stands as a beacon of comfort and convenience in the heart of Ksamil, a mere stone's throw away from the pristine shores of Ksamil Beach 9 and the vibrant Bora Bora Beach."
-featuredImage: "/images/accommodation/villa-white-479457269.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479457269.jpg?k=e7554dbfeace29c664838c40bd3081e35400ed38fc33a516f2eea9547e3d55e7&o=&hp=1"
 language: en
 slug: villa-white
 address: "Rruga Alida Hysku, 9706 Ksamil, Albania"

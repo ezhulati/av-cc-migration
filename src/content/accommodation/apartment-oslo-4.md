@@ -1,7 +1,7 @@
 ---
 title: "Apartment oslo 4"
 description: "Apartment Oslo 4 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/apartment-oslo-4-501642448.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501642448.jpg?k=3dfceef37f9f65bc6f0247f85c06c74de19939bb9c89ae0ca5dc9219fa9178ba&o=&hp=1"
 language: en
 slug: apartment-oslo-4
 address: "Rruga Pavlo Flloko, 9301 Vlorë, Albania"

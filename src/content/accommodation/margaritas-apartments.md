@@ -1,7 +1,7 @@
 ---
 title: "Margaritas Apartments"
 description: "Margaritas Apartments emerges as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, merely a stone's throw away from Saranda City Beach."
-featuredImage: "/images/accommodation/margaritas-apartments-460224925.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460224925.jpg?k=0a2a0077570e47767ed0c6bed689e33938ba76dcfa6e0676b13c1a42f32e118c&o=&hp=1"
 language: en
 slug: margaritas-apartments
 address: "Rruga Skënderbeu, 9401 Sarandë, Albania"

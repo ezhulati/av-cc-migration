@@ -1,7 +1,7 @@
 ---
 title: "Silver Apartments Condor Center"
 description: "Silver Apartments Condor Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/silver-apartments-condor-center-523816641.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523816641.jpg?k=f53768ae5bd790c30a2295dd4f70dbbfac4ee4346c9ee22f0cb5dc84f51bd35a&o=&hp=1"
 language: en
 slug: silver-apartments-condor-center
 address: "Rruga e Kavajës Condor Center, 1001 Tirana, Albania"

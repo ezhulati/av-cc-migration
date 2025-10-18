@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartament"
 description: "Cozy Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cozy-apartament-500850425.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500850425.jpg?k=c2f5878151b0a0835cb20530edc2f17d54147c044f8fc26315d99dd3756ef175&o=&hp=1"
 language: en
 slug: cozy-apartament
 address: "Rruga e Barrikadave, 7001 Tirana, Albania"

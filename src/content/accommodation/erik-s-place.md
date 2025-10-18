@@ -1,7 +1,7 @@
 ---
 title: "Erik's Place"
 description: "Erik's Place emerges as a serene retreat in the vibrant city of Shkodër, located a mere 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/erik-s-place-444282811.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444282811.jpg?k=19180d0bd3e78d9ded82a2875be6ad3fcb7094192cee8dfbc7e7f130afbfe292&o=&hp=1"
 language: en
 slug: erik-s-place
 address: "Rruga Qemal Draçini, 4001 Shkodër, Albania"

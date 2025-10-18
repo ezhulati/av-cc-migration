@@ -1,7 +1,7 @@
 ---
 title: "Grand Veranda Apartment"
 description: "Grand Veranda Apartment emerges as a serene oasis in the heart of the city, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/grand-veranda-apartment-364941139.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364941139.jpg?k=6e511be985383bba7816f7ac1775c037578445a0aee36b6d5c3f1ed3a97e1341&o=&hp=1"
 language: en
 slug: grand-veranda-apartment
 address: "Rruga Fortuzi Ap. 5; building 39; floor 1., 1001 Tirana, Albania"

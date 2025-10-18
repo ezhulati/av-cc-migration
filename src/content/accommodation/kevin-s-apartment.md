@@ -1,7 +1,7 @@
 ---
 title: "Kevin's Apartment"
 description: "Kevin's Apartment stands as a prime choice for travelers seeking comfort and convenience in Vlorë, situated a mere 800 meters from the pristine Vlore Beach and a short distance from the exclusive Beach at Government Villas."
-featuredImage: "/images/accommodation/kevin-s-apartment-470745381.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470745381.jpg?k=ce66f338dd61b90c5cbd6068b84da673ea912d94727552a8e2b740848388fa38&o=&hp=1"
 language: en
 slug: kevin-s-apartment
 address: "CFPW+C8F, Komplexi OSLO Uji I Ftohte, Vlorë, Albania, 9404 Vlorë, Albania"

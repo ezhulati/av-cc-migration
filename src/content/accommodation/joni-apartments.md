@@ -1,7 +1,7 @@
 ---
 title: "Joni Apartments"
 description: "Joni Apartments emerges as a charming choice for travelers seeking comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/joni-apartments-302792669.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302792669.jpg?k=415fcdc7909d68a36ca09617c7193366766e898c7fa63d72e65c1173896130f7&o=&hp=1"
 language: en
 slug: joni-apartments
 address: "Lagja Nr. 4 Ksamil, 9706 Ksamil, Albania"

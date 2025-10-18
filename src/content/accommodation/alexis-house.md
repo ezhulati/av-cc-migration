@@ -1,7 +1,7 @@
 ---
 title: "Alexis House"
 description: "Alexis House emerges as a prime choice for travelers seeking a serene beachfront escape, located just a short stroll from the captivating Livadhi Beach."
-featuredImage: "/images/accommodation/alexis-house-349263435.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349263435.jpg?k=d8c19dcafdd668e26201acc52a51bb7c268aed3fe704f5956f4b768dafab2253&o=&hp=1"
 language: en
 slug: alexis-house
 address: "Himare Livadh Beach, Himarë 9425, Albania, 9425 Himare, Albania"

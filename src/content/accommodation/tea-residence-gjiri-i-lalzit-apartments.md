@@ -1,7 +1,7 @@
 ---
 title: "Tea Residence, Gjiri i Lalzit Apartments"
 description: "Tea Residence, Gjiri i Lalzit Apartments, emerges as a prime choice for travelers seeking a blend of comfort and wellness in the heart of Durrës, merely 700 meters from the serene Lalëz Bay Beach."
-featuredImage: "/images/accommodation/tea-residence-gjiri-i-lalzit-apartments-d3882ab9674d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
 language: en
 slug: tea-residence-gjiri-i-lalzit-apartments
 address: "Tea Residenc, Gjiri Lalzit, 2002 Durrës, Albania"

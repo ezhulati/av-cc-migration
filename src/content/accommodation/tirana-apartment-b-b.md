@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartment B&B"
 description: "Tirana Apartment B&B emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-apartment-b-b-230757652.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/230757652.jpg?k=69d9ad582033df837c81d12ef3a6383c2d2cdea57c84eff4d89bbe852e887725&o=&hp=1"
 language: en
 slug: tirana-apartment-b-b
 address: "Rruga Dritan Hoxha Vila Auto- Tana- 3d Floor, 8210 Tirana, Albania"

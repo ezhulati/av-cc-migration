@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Alvi"
 description: "Guesthouse Alvi emerges as a charming retreat in the heart of Përmet, located within the picturesque Gjirokastër County."
-featuredImage: "/images/accommodation/guesthouse-alvi-386527483.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386527483.jpg?k=ca5ece445c4ec794d4438075589930e02fa0380cdad6847601a8f9e6d9d787ea&o=&hp=1"
 language: en
 slug: guesthouse-alvi
 address: "Petran, 6404 Përmet, Albania"

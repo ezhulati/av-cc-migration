@@ -1,7 +1,7 @@
 ---
 title: "Hotel Beso"
 description: "Hotel Beso, located in the serene Gjirokastër County region of Këlcyrë, stands out for its commitment to comfort and convenience, offering guests a memorable stay with the added benefit of complimentary private parking."
-featuredImage: "/images/accommodation/hotel-beso-495380012.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495380012.jpg?k=800994597c12b3a8e00af55d28aa49a0f3395105276120e28f1c7db8729fd5b6&o=&hp=1"
 language: en
 slug: hotel-beso
 address: "Rruga Kelcyre, 6402 Këlcyrë, Albania"

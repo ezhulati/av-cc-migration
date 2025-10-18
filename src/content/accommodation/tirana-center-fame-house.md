@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Fame House"
 description: "Tirana Center Fame House emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-center-fame-house-501373596.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501373596.jpg?k=92e0cb85d227246b907496c63f9d7dc331f814727a6a50ecf5aeb8987958a1d2&o=&hp=1"
 language: en
 slug: tirana-center-fame-house
 address: "16 Rruga Sulejman Pasha 18, Bora, 4th floor, 1001 Tirana, Albania"

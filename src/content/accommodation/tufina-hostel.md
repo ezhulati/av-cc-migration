@@ -1,7 +1,7 @@
 ---
 title: "Tufina Hostel"
 description: "Tufina Hostel emerges as a prime choice for travelers seeking comfortable, air-conditioned accommodations in the heart of Tirana, merely 850 meters from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/tufina-hostel-204440240.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204440240.jpg?k=70374f4f4f8cd2193054622a4b214dbc601443adc467b31b24385a5855acb8bb&o=&hp=1"
 language: en
 slug: tufina-hostel
 address: "Rruga Hoxha Tahsim number 46, 1001 Tirana, Albania"

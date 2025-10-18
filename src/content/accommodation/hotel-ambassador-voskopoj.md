@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ambassador Voskopojë"
 description: "Hotel Ambassador Voskopojë stands out as a premier 4-star destination in Voskopojë, offering guests an exceptional stay with its well-appointed garden, inviting restaurant, and welcoming bar."
-featuredImage: "/images/accommodation/hotel-ambassador-voskopoj-517548972.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517548972.jpg?k=ffe9aacad58c38520edf7f0fe781a4ec2be9cccc8841dccb81822af32409d19c&o=&hp=1"
 language: en
 slug: hotel-ambassador-voskopoj
 address: "Rruga Rilindja Voskopojare, 7001 Voskopojë, Albania"

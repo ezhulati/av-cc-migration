@@ -1,7 +1,7 @@
 ---
 title: "center appartment"
 description: "Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/center-appartment-527095581.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527095581.jpg?k=0325bc53cb39d71dd536f32a3b78bea8c89710751b16b3609a511c6cbb813344&o=&hp=1"
 language: en
 slug: center-appartment
 address: "Rruga Bajram Tusha, 2001 Durrës, Albania"

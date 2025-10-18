@@ -1,7 +1,7 @@
 ---
 title: "Alvi apartment"
 description: "Alvi Apartment emerges as a serene retreat, offering guests a unique blend of comfort and convenience with its prime location just a stone's throw away from Qerret Beach."
-featuredImage: "/images/accommodation/alvi-apartment-376190202.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376190202.jpg?k=4473e0358558b43129c79e1d910a6bae00eab9b7f0e943f2dafba96cecff6ccb&o=&hp=1"
 language: en
 slug: alvi-apartment
 address: "Rruga e Fshatrave Turistike third floor, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunset Suites"
 description: "Sunset Suites emerges as a premier destination for travelers seeking a blend of comfort and convenience in Sarandë, just a stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "/images/accommodation/sunset-suites-105486874.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105486874.jpg?k=c526766a20cb525246d589e54bb3a4acca889b828766732bd8fecba9773dcd5c&o=&hp=1"
 language: en
 slug: sunset-suites
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Agron"
 description: "Agron Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short 300-meter stroll from the inviting Durres Beach and within easy reach of the city's notable attractions."
-featuredImage: "/images/accommodation/agron-478288760.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478288760.jpg?k=e2db0b85e08b604659569f7b04826ff77150e2620dc9785f605bb4d15a808807&o=&hp=1"
 language: en
 slug: agron
 address: "Rruga Dhimitër Kraja, 2001 Durrës, Albania"

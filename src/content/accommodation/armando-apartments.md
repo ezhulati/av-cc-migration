@@ -1,7 +1,7 @@
 ---
 title: "Armando Apartments"
 description: "Armando Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine sands of Golem Beach and a brief stroll from the scenic Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/armando-apartments-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: armando-apartments
 address: "Rruga Kompleksit, 2504 Golem, Albania"

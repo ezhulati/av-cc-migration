@@ -1,7 +1,7 @@
 ---
 title: "NUSHI APARTMENTS"
 description: "Nushi Apartments emerges as a serene haven, offering a tranquil retreat with its quiet street views, just a short 1."
-featuredImage: "/images/accommodation/nushi-apartments-499887334.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499887334.jpg?k=bed996d33c82d4c6c2850c91b488344350487347d91e0f6e8313a95209e21d5d&o=&hp=1"
 language: en
 slug: nushi-apartments
 address: "Velipoje, Velipojë, Albania"

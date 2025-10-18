@@ -1,7 +1,7 @@
 ---
 title: "Minimalistic luxury apartment"
 description: "Discover the epitome of modern comfort at the Minimalistic Luxury Apartment, a prime choice for travelers seeking a blend of style and convenience in Sarandë."
-featuredImage: "/images/accommodation/minimalistic-luxury-apartment-479679138.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479679138.jpg?k=93ce905a3777754378abccbc035fd001c44cf62293723760f0350c0a76a977e5&o=&hp=1"
 language: en
 slug: minimalistic-luxury-apartment
 address: "Rruga Janaq Kumi 1 οτοφος, 9701 Sarandë, Albania"

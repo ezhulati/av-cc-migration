@@ -1,7 +1,7 @@
 ---
 title: "StartApart CityCenter 2"
 description: "StartApart CityCenter 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
-featuredImage: "/images/accommodation/startapart-citycenter-2-486890447.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486890447.jpg?k=ecd0454f4347629f715f99fce4e17f22b27282b1c67d0f6217896dac393566fb&o=&hp=1"
 language: en
 slug: startapart-citycenter-2
 address: "Rruga Filonid Durrsaku, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Westwood 2Bd Apartments"
 description: "Westwood 2Bd Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/westwood-2bd-apartments-382226359.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382226359.jpg?k=13c1346705618c3e49002bf61df50bc772f115dab5ced6e3c14b3a6b34c00cfd&o=&hp=1"
 language: en
 slug: westwood-2bd-apartments
 address: "Rruga Egnatia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Laura"
 description: "Vila Laura emerges as a serene retreat in Ksamil, a mere stone's throw away from the pristine shores of Ksamil Beach 9, only 400 meters to be precise."
-featuredImage: "/images/accommodation/vila-laura-496229381.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496229381.jpg?k=206c847eb600a9a6ce8ecd731147d546fd8942bd6dabe50e4cb4a9c5824f6983&o=&hp=1"
 language: en
 slug: vila-laura
 address: "Hasan Tahsini ksamil, 9706 Ksamil, Albania"

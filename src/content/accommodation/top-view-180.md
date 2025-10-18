@@ -1,7 +1,7 @@
 ---
 title: "Top view 180°"
 description: "Top View 180° emerges as a premier choice for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/top-view-180-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: top-view-180
 address: "Rruga Edith Durham, 4001 Shkodër, Albania"

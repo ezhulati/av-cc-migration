@@ -1,7 +1,7 @@
 ---
 title: "Guest House Ergest"
 description: "Guest House Ergest is a prime choice for travelers seeking comfortable lodging in Përmet."
-featuredImage: "/images/accommodation/guest-house-ergest-AAcHTtfhpk4c.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtfhpk4cyObFP3aHgeJqjhZKms-IEiE8QthPf0oKMMXr=s96-c64"
 language: en
 slug: guest-house-ergest
 address: "Lagjia Partizani, Permet, 6401 Përmet, Albania"

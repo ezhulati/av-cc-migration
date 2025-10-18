@@ -1,7 +1,7 @@
 ---
 title: "Rezidenca Luma"
 description: "Rezidenca Luma emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/rezidenca-luma-482801350.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482801350.jpg?k=edf1d896a5c089c13bac9c727b85999451625c1f2879a6dd6f10d5d6cb63fae2&o=&hp=1"
 language: en
 slug: rezidenca-luma
 address: "Rruga Kompleksit, Golem, Albania"

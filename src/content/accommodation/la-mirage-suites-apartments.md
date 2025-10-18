@@ -1,7 +1,7 @@
 ---
 title: "La Mirage Suites & Apartments"
 description: "La Mirage Suites & Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/la-mirage-suites-apartments-512064659.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512064659.jpg?k=d214c64e97f4c6dd8e3b23da4456cf87215a046067ca1577c277aa4c149a42c2&o=&hp=1"
 language: en
 slug: la-mirage-suites-apartments
 address: "Sheshi Willson, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea and Sky Apartments Sarande"
 description: "Sea and Sky Apartments Sarande emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sea-and-sky-apartments-sarande-142826482.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142826482.jpg?k=f45d820082cbbb8e53ffe3e338752529b87949e9d8e4b3a21b582937bcb153fe&o=&hp=1"
 language: en
 slug: sea-and-sky-apartments-sarande
 address: "Rruga Ismail Qemali Godina Nr 6, 9701 Sarandë, Albania"

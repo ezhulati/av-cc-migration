@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment 2"
 description: "Discover the charm of Golem with a stay at Lovely Apartment 2, a prime beachfront retreat located just a stone's throw away from Mali I Robit Beach and within easy reach of Golem Beach."
-featuredImage: "/images/accommodation/lovely-apartment-2-241760764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/241760764.jpg?k=ac212152f6cff122fd703c11bff3928f5f902a3e96041de93ce983de0b948991&o=&hp=1"
 language: en
 slug: lovely-apartment-2
 address: "Pishat e Buta Mali I Robit, 2001 Golem, Albania"

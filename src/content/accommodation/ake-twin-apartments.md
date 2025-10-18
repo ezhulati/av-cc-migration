@@ -1,7 +1,7 @@
 ---
 title: "AKE Twin Apartments"
 description: "Discover the charm of AKE Twin Apartments, a gem located in the heart of Shëngjin, just a stone's throw away from the pristine Shëngjin Beach and a brief stroll from the serene Ylberi Beach."
-featuredImage: "/images/accommodation/ake-twin-apartments-301073009.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301073009.jpg?k=3333c321658d5bc0ea3a735eef8229ce83ed5b6a24c1efb3239dca5e8c44f100&o=&hp=1"
 language: en
 slug: ake-twin-apartments
 address: "Sheshi Nene Tereza Twin Towers Kati 10, 4503 Shëngjin, Albania"

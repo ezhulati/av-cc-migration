@@ -1,7 +1,7 @@
 ---
 title: "Apartment plazhi"
 description: "Apartment Plazhi in Vlorë offers a refreshing escape with its prime location close to the serene Vlore Beach, just a short stroll away."
-featuredImage: "/images/accommodation/apartment-plazhi-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: apartment-plazhi
 address: "Vlore, Pavaresia Block, Street Ibrahim Shyti, Alliaj Palaces, 1st and 5th floor, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ferrara"
 description: "Hotel Ferrara emerges as a charming retreat in the heart of Durrës, merely steps away from the pristine West End Beach."
-featuredImage: "/images/accommodation/hotel-ferrara-475512601.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475512601.jpg?k=e3588ea8ef48760a8842da36e2028c41d986d60ef3ce787cb9332c8b91d989a2&o=&hp=1"
 language: en
 slug: hotel-ferrara
 address: "Rruga Currila, 2001 Durrës, Albania"

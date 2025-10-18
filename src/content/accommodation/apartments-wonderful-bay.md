@@ -1,7 +1,7 @@
 ---
 title: "Apartments Wonderful bay"
 description: "Apartments Wonderful Bay, a gem within the Bougainville Bay Resort in Sarandë, stands out for its prime location just a stone's throw away from its private beach area."
-featuredImage: "/images/accommodation/apartments-wonderful-bay-47448146.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47448146.jpg?k=0de0312f5be15052304648e2f549f3ec0c8e25eff2708de99049b8bf54bbda91&o=&hp=1"
 language: en
 slug: apartments-wonderful-bay
 address: "Butrinti St. 1001, 1001 Sarandë, Albania"

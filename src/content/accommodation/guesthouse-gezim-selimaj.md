@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Gezim Selimaj"
 description: "Guesthouse Gezim Selimaj stands out as a prime choice for travelers seeking a serene getaway in Valbonë, located in the picturesque Kukës County region."
-featuredImage: "/images/accommodation/guesthouse-gezim-selimaj-474848842.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474848842.jpg?k=1a4a3c0eb82da1ae98d139a2e52d60c8aba2d41629451c688f858f74424d40af&o=&hp=1"
 language: en
 slug: guesthouse-gezim-selimaj
 address: "Valbone,tr, 8702 Valbonë, Albania"

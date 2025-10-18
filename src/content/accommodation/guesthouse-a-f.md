@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse A&F"
 description: "Discover the serene charm of Guesthouse A&F, a prime accommodation choice located just a stone's throw away from the pristine shores of Ksamil Beach 9 and a leisurely stroll from the vibrant Bora Bora Beach."
-featuredImage: "/images/accommodation/guesthouse-a-f-342210976.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342210976.jpg?k=f296760c5ea46a11391229278eeeb30d6178883700a2a59b7d0d546cb9bdfea1&o=&hp=1"
 language: en
 slug: guesthouse-a-f
 address: "Rruga Riviera, 9706 Ksamil, Albania"

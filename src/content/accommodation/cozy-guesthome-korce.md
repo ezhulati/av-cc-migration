@@ -1,7 +1,7 @@
 ---
 title: "Cozy GuestHome Korce"
 description: "Cozy GuestHome Korce emerges as a serene haven for travelers seeking both the vibrancy of city life and the tranquility of a quiet street in Korçë."
-featuredImage: "/images/accommodation/cozy-guesthome-korce-331319873.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/331319873.jpg?k=946aee9648cfd834c896e2f53cb43620bfd0e7fedd6e69acef23b574181321da&o=&hp=1"
 language: en
 slug: cozy-guesthome-korce
 address: "Rruga Kiço Greço, Korçë, Albania 24, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Argjiro Traditional"
 description: "Argjiro Traditional emerges as a distinguished 4-star hotel in the historic heart of Gjirokastër, offering a unique blend of traditional charm and modern amenities."
-featuredImage: "/images/accommodation/argjiro-traditional-279909288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279909288.jpg?k=9d5f553308660f2fe1728ac23b158b88d0231f037b1c86070af97b298b237883&o=&hp=1"
 language: en
 slug: argjiro-traditional
 address: "Rruga Peco Kirka, 6001 Gjirokastër, Albania"

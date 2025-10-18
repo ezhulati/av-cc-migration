@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kthella Resort"
 description: "Discover the charm of Rrëshen with a stay at Hotel Kthella Resort, a distinguished 4-star establishment that stands out for its comprehensive amenities and exceptional service."
-featuredImage: "/images/accommodation/hotel-kthella-resort-109581392.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109581392.jpg?k=c009ea388f0f1b5dcde3dff345f4ccfe71433a304c836911276c68c7a1b8b360&o=&hp=1"
 language: en
 slug: hotel-kthella-resort
 address: "Rruga Vincenco D'Paoli Kthella Autogrill Resort, 4600 Rrëshen, Albania"

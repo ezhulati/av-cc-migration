@@ -1,7 +1,7 @@
 ---
 title: "Kriva Resort"
 description: "Kriva Resort, located in the charming town of Elbasan and a mere 41 km from the historic Skanderbeg Square, stands out as a serene getaway for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/kriva-resort-191611303.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/191611303.jpg?k=2848e7b03496d75c64f1cfbacf4e6041ae06d30d400f861483d5156cce9c3bcd&o=&hp=1"
 language: en
 slug: kriva-resort
 address: "Administrative unit \"Shushicë\" street \"Theodhor Haxhifilipi\" no:55, 3001 Elbasan, Albania"

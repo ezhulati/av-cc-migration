@@ -1,7 +1,7 @@
 ---
 title: "Berti’s apartaments"
 description: "Berti's Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/berti-s-apartaments-430582488.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430582488.jpg?k=492a28917bd29443797776c0fdbb149322076f1086fa99a8c6f361b60b7c1919&o=&hp=1"
 language: en
 slug: berti-s-apartaments
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

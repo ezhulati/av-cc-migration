@@ -1,7 +1,7 @@
 ---
 title: "Lida's House"
 description: "Lida's House emerges as a serene retreat offering breathtaking sea views and the convenience of modern amenities, located just 3 km from the pristine Lukova Beach."
-featuredImage: "/images/accommodation/lida-s-house-464056505.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464056505.jpg?k=069ebe370558b24c108aa324899ddb4f2db7e62784e02628ee806fe712bb1009&o=&hp=1"
 language: en
 slug: lida-s-house
 address: "Baliqes, 9700 Lukovë, Albania"

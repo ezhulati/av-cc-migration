@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Kapllani"
 description: "Hotel Vila Kapllani emerges as a charming retreat in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach."
-featuredImage: "/images/accommodation/hotel-vila-kapllani-360832906.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360832906.jpg?k=b469e69e541200bcb87ee8ade12d8221c4e6d9f46ef76c0f6648df9c21ecd0df&o=&hp=1"
 language: en
 slug: hotel-vila-kapllani
 address: "Rruga Skenderbeu, 9703 Sarandë, Albania"

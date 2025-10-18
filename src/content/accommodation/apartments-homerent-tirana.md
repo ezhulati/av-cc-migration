@@ -1,7 +1,7 @@
 ---
 title: "Apartments HomeRent Tirana"
 description: "Apartments HomeRent Tirana emerges as a freshly renovated gem in the heart of Tirana, boasting proximity to notable landmarks such as the House of Leaves and the National Museum of History Albania."
-featuredImage: "/images/accommodation/apartments-homerent-tirana-320161629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320161629.jpg?k=32d139376cd7ac4da649b90c0158df95f9d68af04ad2827c7f01709b1f24013d&o=&hp=1"
 language: en
 slug: apartments-homerent-tirana
 address: "Rruga e Kavajës 21square, 1001 Tirana, Albania"

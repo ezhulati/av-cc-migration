@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Aria con vista sul Teatro Migjeni"
 description: "Appartamento Aria con vista sul Teatro Migjeni stands out as a prime choice for travelers seeking comfort and convenience in Shkodër, located just 48 km from the Port of Bar."
-featuredImage: "/images/accommodation/appartamento-aria-con-vista-sul-teatro-migjeni-451203831.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451203831.jpg?k=49f1f990796427137c566ec9964fe371bfb9b437df0fc92d2ffac48efb49c893&o=&hp=1"
 language: en
 slug: appartamento-aria-con-vista-sul-teatro-migjeni
 address: "Sheshi demokracia, 4002 Shkodër, Albania"

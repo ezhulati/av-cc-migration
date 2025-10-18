@@ -1,7 +1,7 @@
 ---
 title: "Stay the Night Shkodra Apartment City Centre"
 description: "Stay the Night Shkodra Apartment City Centre emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër, just a stone's throw away from the Port of Bar."
-featuredImage: "/images/accommodation/stay-the-night-shkodra-apartment-city-centre-375574660.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375574660.jpg?k=ce4fbe3692b830c280a5bea160fc5630d5f602a0ea864fc89faddffc06f2ab3b&o=&hp=1"
 language: en
 slug: stay-the-night-shkodra-apartment-city-centre
 address: "Rruga Babej, 4000 Shkodër, Albania"

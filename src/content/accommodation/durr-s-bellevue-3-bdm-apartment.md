@@ -1,7 +1,7 @@
 ---
 title: "Durrës BelleVue 3 bdm Apartment"
 description: "Durrës BelleVue 3 bdm Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, right at the heart of Durrës."
-featuredImage: "/images/accommodation/durr-s-bellevue-3-bdm-apartment-409213081.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409213081.jpg?k=deab446d090f7a8a7bbab4e537128904778781927011167a082dc96b6de45f98&o=&hp=1"
 language: en
 slug: durr-s-bellevue-3-bdm-apartment
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vino"
 description: "Hotel Vino stands out as a distinguished retreat just 200 meters from the pristine shores of Durres Beach, offering guests a unique blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/hotel-vino-465526750.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465526750.jpg?k=507d915ba827456b198ffe7a240ead6d95ea7db8e29e3e570306a7678742689b&o=&hp=1"
 language: en
 slug: hotel-vino
 address: "Rruga Iliria, 2008 Durrës, Albania"

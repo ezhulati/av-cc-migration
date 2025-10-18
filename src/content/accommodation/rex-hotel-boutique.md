@@ -1,7 +1,7 @@
 ---
 title: "Rex Hotel Boutique"
 description: "Rex Hotel Boutique stands as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/rex-hotel-boutique-524016620.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524016620.jpg?k=6d48ddb092297b1da32d79cc0157ae4cc2b4a5a9530ebfdb162ede5f186d0314&o=&hp=1"
 language: en
 slug: rex-hotel-boutique
 address: "Rruga Fortuzi Nr 25 , Entrance 1 , Floors 2, 1001 Tirana, Albania"

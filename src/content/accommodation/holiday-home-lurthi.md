@@ -1,7 +1,7 @@
 ---
 title: "Holiday home Lurthi"
 description: "Holiday Home Lurthi stands as a prime choice for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Shëngjin."
-featuredImage: "/images/accommodation/holiday-home-lurthi-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: holiday-home-lurthi
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

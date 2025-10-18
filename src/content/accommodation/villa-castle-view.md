@@ -1,7 +1,7 @@
 ---
 title: "Villa Castle View"
 description: "Villa Castle View stands as a serene retreat in the heart of Shkodër, offering guests a unique blend of comfort and convenience with its air-conditioned accommodations that boast a private patio."
-featuredImage: "/images/accommodation/villa-castle-view-500288769.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500288769.jpg?k=bfbb92d2f69b458666d7544ce1bbb829aa59ab6f87d4d95300ad7a9277d8528e&o=&hp=1"
 language: en
 slug: villa-castle-view
 address: "Rruga Bexhene, Shkodër, Albania"

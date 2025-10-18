@@ -1,7 +1,7 @@
 ---
 title: "Lona apartament Lungomare"
 description: "Lona Apartment Lungomare emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/lona-apartament-lungomare-355738563.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355738563.jpg?k=3e85d0723d2762c4c72666990b9fbb28c6f8019a32abdc606a1265d963969a7b&o=&hp=1"
 language: en
 slug: lona-apartament-lungomare
 address: "Rruga Uji i Ftohte, 9401 Vlorë, Albania"

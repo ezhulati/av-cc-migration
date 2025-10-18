@@ -1,7 +1,7 @@
 ---
 title: "Star Apartment"
 description: "Star Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/star-apartment-360999662.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360999662.jpg?k=47cf630d2c24bb13a5a3a7cc725432dbfe2964b1d37bbefba0dc468c27d46960&o=&hp=1"
 language: en
 slug: star-apartment
 address: "Rruga Mihal Duri, 1001 Tirana, Albania"

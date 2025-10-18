@@ -1,7 +1,7 @@
 ---
 title: "Gianna's appartament"
 description: "Gianna's Apartment stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach and a short stroll from the charming La Petite Beach."
-featuredImage: "/images/accommodation/gianna-s-appartament-465842469.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465842469.jpg?k=e338e04c7328920bd27c9f1db139a58c92c786bd3ce2d4e829f941331c667e62&o=&hp=1"
 language: en
 slug: gianna-s-appartament
 address: "Rruga Thoma Lula, 9702 Sarandë, Albania"

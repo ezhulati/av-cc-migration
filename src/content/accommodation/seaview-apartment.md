@@ -1,7 +1,7 @@
 ---
 title: "Seaview Apartment"
 description: "Seaview Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/seaview-apartment-427793832.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427793832.jpg?k=5f184404e59b737c1ca1957e5a49c77125383c5eae6cdc33359bb0d44c4054b8&o=&hp=1"
 language: en
 slug: seaview-apartment
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

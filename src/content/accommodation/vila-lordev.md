@@ -1,7 +1,7 @@
 ---
 title: "Vila Lordev"
 description: "Vila Lordev stands out as a distinguished 4-star hotel in Korçë, offering an exceptional blend of comfort and convenience with its array of amenities."
-featuredImage: "/images/accommodation/vila-lordev-513445758.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513445758.jpg?k=70a4518d26ebc62a46e5a518b68182691bb0f4b3e5a085ef7bc4c5c4355ad8bc&o=&hp=1"
 language: en
 slug: vila-lordev
 address: "Rruga Vangjel Dhamo, 7001 Korçë, Albania"

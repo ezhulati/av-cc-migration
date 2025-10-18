@@ -1,7 +1,7 @@
 ---
 title: "Gold House Durres"
 description: "Gold House Durres emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/gold-house-durres-505848153.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505848153.jpg?k=df7d495fad20dcb2c5bf02b1bf7f3dadf94efafb7535795c2985d391500c03c2&o=&hp=1"
 language: en
 slug: gold-house-durres
 address: "Rruga Aleksander Goga, 2001 Durrës, Albania"

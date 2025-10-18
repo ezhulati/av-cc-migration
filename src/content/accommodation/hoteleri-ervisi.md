@@ -1,7 +1,7 @@
 ---
 title: "Hoteleri Ervisi"
 description: "Hoteleri Ervisi emerges as a serene oasis located just 19 km away from the historic Rozafa Castle Shkodra in Vau i Dejës, offering a tranquil retreat with its lush garden, ample free private parking, inviting terrace, and welcoming bar."
-featuredImage: "/images/accommodation/hoteleri-ervisi-515240314.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515240314.jpg?k=72a98f3800fb2ccf526240613fe5f7058f21257caf0a03bc9fc71773fb01d4d2&o=&hp=1"
 language: en
 slug: hoteleri-ervisi
 address: "rruga Vau dejes, dera nr/03, 4008 Vau i Dejës, Albania"

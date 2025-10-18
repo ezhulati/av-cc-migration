@@ -1,7 +1,7 @@
 ---
 title: "STEFAN VASILI"
 description: "Stefan Vasili emerges as a serene retreat in the vibrant heart of Sarandë, a mere stone's throw away from the pristine Saranda City Beach and a leisurely stroll from the bustling Sarande Main Beach."
-featuredImage: "/images/accommodation/stefan-vasili-475814982.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475814982.jpg?k=88a9e28e6f5b9c53dcb6a787cb8ecbdf31bc797647adbf0c163a507820f1f0c2&o=&hp=1"
 language: en
 slug: stefan-vasili
 address: "Rruga Gjergj Araniti 9700 Privat House STEFAN VASILI, 9700 Sarandë, Albania"

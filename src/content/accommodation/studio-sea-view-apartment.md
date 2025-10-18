@@ -1,7 +1,7 @@
 ---
 title: "Studio sea view apartment"
 description: "Studio Sea View Apartment in Durrës emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its strategic location just 38 km from the historic Skanderbeg Square and a mere stone's throw from the serene Durres Beach, merely 100 meters away."
-featuredImage: "/images/accommodation/studio-sea-view-apartment-482521056.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482521056.jpg?k=e65df201bb530106889886acf8bca619689c6fa00e122810e0c104293c375f96&o=&hp=1"
 language: en
 slug: studio-sea-view-apartment
 address: "Rruga Pavaresia, Durrës, Albania"

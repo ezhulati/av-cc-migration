@@ -1,7 +1,7 @@
 ---
 title: "Central Superior 2BR Apartament"
 description: "Central Superior 2BR Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-superior-2br-apartament-487493199.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487493199.jpg?k=c2fba956ee8774e60e1f5db9c00acc71e6c8cdea1b60b51c4eb42efa844b3841&o=&hp=1"
 language: en
 slug: central-superior-2br-apartament
 address: "Rruga Mine Peza 3rd floor, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ilir Guest House 1"
 description: "Ilir Guest House 1 emerges as a serene retreat in the heart of Përmet, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/ilir-guest-house-1-202041609.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202041609.jpg?k=26ded690a9ae576991deee83532bc3d47e24066f4b244fc66278b06a3f6bb7c1&o=&hp=1"
 language: en
 slug: ilir-guest-house-1
 address: "Rruga Ahmet Tomorri, 1005 Përmet, Albania"

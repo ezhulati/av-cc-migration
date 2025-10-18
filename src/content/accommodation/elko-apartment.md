@@ -1,7 +1,7 @@
 ---
 title: "ELKO Apartment"
 description: "ELKO Apartment stands as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short distance from the city's pristine beaches."
-featuredImage: "/images/accommodation/elko-apartment-482784156.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482784156.jpg?k=ba6aa25cb0fac3d59fd0c1e2506d09d17d8041292631194bb1715649607ffc50&o=&hp=1"
 language: en
 slug: elko-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

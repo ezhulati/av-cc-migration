@@ -1,7 +1,7 @@
 ---
 title: "Sea View Nik Apartment"
 description: "Sea View Nik Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Durrës."
-featuredImage: "/images/accommodation/sea-view-nik-apartment-336920819.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336920819.jpg?k=2c8565d57e72be079f2429d3481e634ee569d1fea2487ee01dc9502222966418&o=&hp=1"
 language: en
 slug: sea-view-nik-apartment
 address: "Rruga Shkembi i Kavajes Te Bar DEJVI, Durrës, Qarku i Durrësit, 2000 Durrës, Albania"

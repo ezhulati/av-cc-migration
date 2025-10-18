@@ -1,7 +1,7 @@
 ---
 title: "Pirro Luxury Apartment"
 description: "Pirro Luxury Apartment stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach."
-featuredImage: "/images/accommodation/pirro-luxury-apartment-413795853.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413795853.jpg?k=5f3758b56712e0a2b35117ea71b45dba072366195034e376aeba8cc8461f8097&o=&hp=1"
 language: en
 slug: pirro-luxury-apartment
 address: "Rruga Gjergj Araniti near Shabani bar, Sarandë, Albania"

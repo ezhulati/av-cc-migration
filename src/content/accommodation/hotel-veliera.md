@@ -1,7 +1,7 @@
 ---
 title: "Hotel Veliera"
 description: "Hotel Veliera stands as a beacon of comfort and convenience in the heart of Durrës, merely a stone's throw away from the serene Currila Beach."
-featuredImage: "/images/accommodation/hotel-veliera-158648537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158648537.jpg?k=26bb50054077104f9d986a9ae10a9216d28a7d936eca8815d10f7941bd7fbef1&o=&hp=1"
 language: en
 slug: hotel-veliera
 address: "L nr 3 bulevardi Epidamn, 2000 Durrës, Albania"

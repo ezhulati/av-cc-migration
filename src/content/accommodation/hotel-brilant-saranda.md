@@ -1,7 +1,7 @@
 ---
 title: "Hotel Brilant Saranda"
 description: "Discover the convenience and comfort of Hotel Brilant Saranda, a gem located just a stone's throw away from the town's vibrant main boulevard."
-featuredImage: "/images/accommodation/hotel-brilant-saranda-446969015.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446969015.jpg?k=f0cd726a0aa077eea8424d2f9f155984ca0fc0f298df5f40daed1820bf8b5374&o=&hp=1"
 language: en
 slug: hotel-brilant-saranda
 address: "Rruga Bilal Golemi, 9701 Sarandë, Albania"

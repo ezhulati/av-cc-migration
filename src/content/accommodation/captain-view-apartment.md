@@ -1,7 +1,7 @@
 ---
 title: "Captain view apartment"
 description: "Captain View Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/captain-view-apartment-478224837.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478224837.jpg?k=18b7e1279b6464ea936e8573cd336dd25bc5c2d3fb9a817da7c7e59ad195d6b8&o=&hp=1"
 language: en
 slug: captain-view-apartment
 address: "Kamelia Resort, Rruga Liria, Rashbull, Bashkia Durrës, Qarku i Durrësit, Shqipëria Veriore, 2021, Shqipëria resort kamelia 3 floor 7, 2021 Durrës, Albania"

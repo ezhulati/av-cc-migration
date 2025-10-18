@@ -1,7 +1,7 @@
 ---
 title: "Bodini's Rooms"
 description: "Bodini's Rooms emerges as a serene retreat in the heart of Himare, boasting an enviable location just a stone's throw away from the pristine Spille Beach and a leisurely 10-minute stroll from the tranquil Maracit Beach."
-featuredImage: "/images/accommodation/bodini-s-rooms-473836360.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473836360.jpg?k=c508269d6c7c68bbf6b4e9f121fe641ca74c9d85cd3629042e29a304e658d4ca&o=&hp=1"
 language: en
 slug: bodini-s-rooms
 address: "Himare, 9425 Himare, Albania"

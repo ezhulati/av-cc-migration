@@ -1,7 +1,7 @@
 ---
 title: "Himara Apartment"
 description: "Himara Apartment emerges as a distinguished choice for travelers seeking a blend of comfort and convenience, situated a mere stone's throw away from the pristine Spille Beach and within easy reach of Maracit Beach."
-featuredImage: "/images/accommodation/himara-apartment-140257377.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140257377.jpg?k=e4fcad5f532402f7ea6aa1afe572d05fe822c492cd544e730257476d7844793f&o=&hp=1"
 language: en
 slug: himara-apartment
 address: "SH8 6 Near the municipality of Himara, 9425 Himare, Albania"

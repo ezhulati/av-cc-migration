@@ -1,7 +1,7 @@
 ---
 title: "Saranda Luxury Apartments"
 description: "Saranda Luxury Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-luxury-apartments-AATXAJztHOib.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJztHOib5wgI_SG3oc2ZsPjuq-gIXoPchgJ_ZhAv=s96-c64"
 language: en
 slug: saranda-luxury-apartments
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

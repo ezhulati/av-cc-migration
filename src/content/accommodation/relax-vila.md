@@ -1,7 +1,7 @@
 ---
 title: "Relax Vila"
 description: "Discover the serene charm of Relax Vila, a distinguished property boasting a lush garden, located in the vibrant city of Durrës."
-featuredImage: "/images/accommodation/relax-vila-524151671.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524151671.jpg?k=285a9ad5ed24d216b4668d7631c80f570b4b598fe3312eada9aa89265c554130&o=&hp=1"
 language: en
 slug: relax-vila
 address: "Rruga Daunia, 2001 Durrës, Albania"

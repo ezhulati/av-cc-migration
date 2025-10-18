@@ -1,7 +1,7 @@
 ---
 title: "Karos Hotel Llaman"
 description: "Karos Hotel Llaman emerges as a prime choice for travelers seeking both relaxation and adventure in Himare."
-featuredImage: "/images/accommodation/karos-hotel-llaman-301517242.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/301517242.jpg?k=38af49ab54952ecb1dca917ae451803df91fe6976f552618c5306aa9c5ce2415&o=&hp=1"
 language: en
 slug: karos-hotel-llaman
 address: "Llaman, 9425 Himare, Albania"

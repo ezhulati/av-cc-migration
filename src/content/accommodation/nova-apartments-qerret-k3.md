@@ -1,7 +1,7 @@
 ---
 title: "nova apartments qerret k3"
 description: "Nova Apartments Qerret K3 emerges as a prime choice for travelers seeking a serene beachfront retreat in Golem, merely a stone's throw away from the pristine Qerret Beach."
-featuredImage: "/images/accommodation/nova-apartments-qerret-k3-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: nova-apartments-qerret-k3
 address: "Rruga Qerret Plazh, 2504 Golem, Albania"

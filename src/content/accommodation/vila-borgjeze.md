@@ -1,7 +1,7 @@
 ---
 title: "Vila Borgjeze"
 description: "Vila Borgjeze stands out as a serene retreat in Korçë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/vila-borgjeze-416190711.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416190711.jpg?k=3d18298061df9286129a73cf8546e77aa87dbdfc1790a2aacabc8b50a55148b5&o=&hp=1"
 language: en
 slug: vila-borgjeze
 address: "Rruga Kryepeskopi Anastas Korce, 7001 Korçë, Albania"

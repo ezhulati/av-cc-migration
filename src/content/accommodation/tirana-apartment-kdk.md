@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartment KDK"
 description: "Tirana Apartment KDK emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/tirana-apartment-kdk-526582902.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526582902.jpg?k=175643c17cd19ff124857c0289320cfa4126ec423f69a958d26bdb0bba5359d5&o=&hp=1"
 language: en
 slug: tirana-apartment-kdk
 address: "Rruga 3 Deshmoret, 1001 Tirana, Albania"

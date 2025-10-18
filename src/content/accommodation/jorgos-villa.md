@@ -1,7 +1,7 @@
 ---
 title: "Jorgos Villa"
 description: "Jorgos Villa emerges as a serene retreat located a mere 35 km away from the historic Kuzum Baba, providing a perfect blend of comfort and convenience for travelers seeking a tranquil escape."
-featuredImage: "/images/accommodation/jorgos-villa-482174254.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482174254.jpg?k=198fc636a2908a3c79c8788e921257788dbd73db9dffbc1ab8b607e93720c233&o=&hp=1"
 language: en
 slug: jorgos-villa
 address: "Rruga Poro Pylli Poro, Pishë-Poro, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament Wendy"
 description: "Apartament Wendy emerges as a serene retreat in the heart of Berat, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/apartament-wendy-475880858.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475880858.jpg?k=2f626c358409ff7f4beb7c9c234c37fedaa5e887abcac67c2456babd7942f4ca&o=&hp=1"
 language: en
 slug: apartament-wendy
 address: "Rruga Antipatrea 4, 5001 Berat, Albania"

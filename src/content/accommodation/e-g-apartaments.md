@@ -1,7 +1,7 @@
 ---
 title: "E&G apartaments"
 description: "E&G Apartments emerges as a prime choice for travelers seeking comfort and convenience in Golem, located just a short stroll from the serene Mali I Robit Beach and within easy reach of Golem Beach."
-featuredImage: "/images/accommodation/e-g-apartaments-369293636.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369293636.jpg?k=820bb94372b5549a26ac0f0925b0d955bd5fe2e7087a0fcfb299da69f93d0d6e&o=&hp=1"
 language: en
 slug: e-g-apartaments
 address: "Rruga Skënderbeu, Golem, Albania"

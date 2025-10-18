@@ -1,7 +1,7 @@
 ---
 title: "Villa Ceni 3"
 description: "Villa Ceni 3 emerges as a serene retreat in Elbasan, strategically positioned a mere 38 km from the historic Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car, 41 km away."
-featuredImage: "/images/accommodation/villa-ceni-3-454656249.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454656249.jpg?k=24871dbb16175d2aa1ff4641da25c80dc76fbce5be3151793dc15e8bd15d4aae&o=&hp=1"
 language: en
 slug: villa-ceni-3
 address: "Rruga Kadri Hoxha, 3001 Elbasan, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mintt Hotel"
 description: "Mintt Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/mintt-hotel-334781591.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334781591.jpg?k=4a36d9d1512041454a968f2bb4436b60c675c90b47074f707de0873fb20acdfe&o=&hp=1"
 language: en
 slug: mintt-hotel
 address: "SH81, 9706 Ksamil, Albania"

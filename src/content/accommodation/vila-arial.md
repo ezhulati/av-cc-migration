@@ -1,7 +1,7 @@
 ---
 title: "Vila Arial"
 description: "Vila Arial emerges as a gem in Vlorë, standing a mere 400 meters from the serene Vjetër Beach."
-featuredImage: "/images/accommodation/vila-arial-516884908.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516884908.jpg?k=8c8fc4147754cc87d6625c2fa6c0f77e752045fdc252b7a47aca19eaf091be85&o=&hp=1"
 language: en
 slug: vila-arial
 address: "Rruga Aleks Çaçi, 9400 Vlorë, Albania"

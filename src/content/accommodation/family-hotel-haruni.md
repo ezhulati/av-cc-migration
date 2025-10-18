@@ -1,7 +1,7 @@
 ---
 title: "Family Hotel Haruni"
 description: "Family Hotel Haruni emerges as a charming retreat in the heart of Ksamil, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "/images/accommodation/family-hotel-haruni-260712641.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260712641.jpg?k=ada7392b34c0b2d26cfe894d24fe678c0da3452bff8e7fa3a4077b6bd03aacaa&o=&hp=1"
 language: en
 slug: family-hotel-haruni
 address: "Rruga Butrinti Lagjia N:3, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament Serxhio"
 description: "Apartament Serxhio emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/apartament-serxhio-496581052.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496581052.jpg?k=23d18d6183501b2a0f778c6ae6589d6889199ba683c7d1d66d10d6041fa6713b&o=&hp=1"
 language: en
 slug: apartament-serxhio
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

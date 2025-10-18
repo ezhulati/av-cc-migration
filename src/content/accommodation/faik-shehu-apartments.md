@@ -1,7 +1,7 @@
 ---
 title: "Faik Shehu Apartments"
 description: "Faik Shehu Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Durrës coastline."
-featuredImage: "/images/accommodation/faik-shehu-apartments-91692583.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/91692583.jpg?k=83c088a9a2ee7d902f04379daacd6326d2160c30bfcd9342bd52bdd5cc7c7b77&o=&hp=1"
 language: en
 slug: faik-shehu-apartments
 address: "Rr. \"Pavarësia\", 13, 2001, SH4, Durrës, Albania, 2001 Durrës, Albania"

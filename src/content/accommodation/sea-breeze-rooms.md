@@ -1,7 +1,7 @@
 ---
 title: "Sea Breeze Rooms"
 description: "Sea Breeze Rooms emerges as a prime choice for travelers seeking a serene beachfront escape in Himare, boasting an impressive proximity to the pristine shores of Spille Beach, Maracit Beach, and Prinos Beach."
-featuredImage: "/images/accommodation/sea-breeze-rooms-502499529.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502499529.jpg?k=23b35d01d1c649bb0f6da817f349e3fee26fea0feb7a1df5b4fcede22e33ce4f&o=&hp=1"
 language: en
 slug: sea-breeze-rooms
 address: "stefanel, 9425 Himare, Albania"

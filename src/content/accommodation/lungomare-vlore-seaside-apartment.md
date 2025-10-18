@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Vlore Seaside Apartment"
 description: "Lungomare Vlore Seaside Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/lungomare-vlore-seaside-apartment-405648375.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405648375.jpg?k=4ac49c56ee8827016e2b9e38564c2765d26721388f37b81958868b8594de8f93&o=&hp=1"
 language: en
 slug: lungomare-vlore-seaside-apartment
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

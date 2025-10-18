@@ -1,7 +1,7 @@
 ---
 title: "Niku's Apartment"
 description: "Niku's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/niku-s-apartment-493288128.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493288128.jpg?k=f01990c9407a93fbf001450384a79a88eaf7bd87be4b8289336502337ce48477&o=&hp=1"
 language: en
 slug: niku-s-apartment
 address: "Rruga Komuna e Parisit, 1001 Tirana, Albania"

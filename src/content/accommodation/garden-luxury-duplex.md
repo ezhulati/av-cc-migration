@@ -1,7 +1,7 @@
 ---
 title: "Garden Luxury Duplex"
 description: "Garden Luxury Duplex emerges as a modern oasis in the heart of Tirana, boasting a prime location moments away from the historic Skanderbeg Square and the intriguing Former Residence of Enver Hoxha."
-featuredImage: "/images/accommodation/garden-luxury-duplex-512762003.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512762003.jpg?k=124c5de7ac8290ab3e66a82edc0b3eee8c7bfa5aa144ced373b2bfd8653d616a&o=&hp=1"
 language: en
 slug: garden-luxury-duplex
 address: "Rruga e Kavajës Garden Building, Kulla A, 1023 Tirana, Albania"

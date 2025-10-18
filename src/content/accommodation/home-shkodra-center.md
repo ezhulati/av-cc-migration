@@ -1,7 +1,7 @@
 ---
 title: "Home Shkodra Center"
 description: "Home Shkodra Center emerges as a serene oasis in the heart of Shkodër, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "/images/accommodation/home-shkodra-center-509672830.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509672830.jpg?k=dc2d77fba7c2c376658b5559fe1d9462a61073407632c41a38422891aa340052&o=&hp=1"
 language: en
 slug: home-shkodra-center
 address: "Rruga Jezuitëve, 4001 Shkodër, Albania"

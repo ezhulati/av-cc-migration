@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bujtina Bicolli"
 description: "Hotel Bujtina Bicolli stands as a serene retreat in Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/hotel-bujtina-bicolli-371976443.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371976443.jpg?k=1cdbf97bbf9ec1d4c10d67863f15a5834427e8cd13e73fa0b8195ac74b240fb6&o=&hp=1"
 language: en
 slug: hotel-bujtina-bicolli
 address: "Rruga Raqi Qirinxhi, 7001 Korçë, Albania"

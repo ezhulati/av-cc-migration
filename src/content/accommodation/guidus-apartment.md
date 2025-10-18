@@ -1,7 +1,7 @@
 ---
 title: "Guidus Apartment"
 description: "Guidus Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, positioned merely 600 meters from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/guidus-apartment-529317629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/529317629.jpg?k=71d40ed7fd702aa61c3561566351a63a07a443a87e532f43f090d6d95ff0b6e8&o=&hp=1"
 language: en
 slug: guidus-apartment
 address: "Rruga Çamëria, 9401 Vlorë, Albania"

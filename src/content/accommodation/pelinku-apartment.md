@@ -1,7 +1,7 @@
 ---
 title: "Pelinku Apartment"
 description: "Peliniku Apartment emerges as a prime choice for travelers seeking comfort and convenience in Velipojë, just a short 400-meter stroll from the pristine Velipoja Beach and within easy reach of the historic Rozafa Castle Shkodra, 31 km away."
-featuredImage: "/images/accommodation/pelinku-apartment-486957561.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486957561.jpg?k=ef68db3442c29904425a69758d44828dc40b1fd63ece0f1fd7bc8893617901e9&o=&hp=1"
 language: en
 slug: pelinku-apartment
 address: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"

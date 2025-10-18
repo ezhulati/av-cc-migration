@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment at the city of Tirana"
 description: "Discover the charm of Tirana with a stay at the Lovely Apartment, a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/lovely-apartment-at-the-city-of-tirana-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: lovely-apartment-at-the-city-of-tirana
 address: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"

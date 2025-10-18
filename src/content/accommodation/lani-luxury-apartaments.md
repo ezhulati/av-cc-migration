@@ -1,7 +1,7 @@
 ---
 title: "Lani luxury apartaments"
 description: "Lani Luxury Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Qeparo."
-featuredImage: "/images/accommodation/lani-luxury-apartaments-464810147.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464810147.jpg?k=cd7296ecf6a76b2d86cb213df0577a5d04ca07427e3a6a7e7fe69979a8a4f573&o=&hp=1"
 language: en
 slug: lani-luxury-apartaments
 address: "Qeparo main road, 9416 Qeparo, Albania"

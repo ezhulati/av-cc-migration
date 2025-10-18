@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Mehmeti"
 description: "Guesthouse Mehmeti emerges as a charming retreat in the heart of Valbonë, offering a unique blend of comfort and convenience for travelers seeking an authentic experience."
-featuredImage: "/images/accommodation/guesthouse-mehmeti-306623629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306623629.jpg?k=fc143b4894b7451327c87fb03c3d97acd853ba5a7524bddda09780b1add7d35f&o=&hp=1"
 language: en
 slug: guesthouse-mehmeti
 address: "Rruga Azem Hajdari, 8700 Valbonë, Albania"

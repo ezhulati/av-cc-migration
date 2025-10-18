@@ -1,7 +1,7 @@
 ---
 title: "MINO APARTMENT"
 description: "Mino Apartment is a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/mino-apartment-AAcHTtcThpq1.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtcThpq1mtxsPULJsafbxD6pJG6mXQd03wxVY7J_Zpcl=s96-c64"
 language: en
 slug: mino-apartment
 address: "Rruga Qukej, 4001 Shkodër, Albania"

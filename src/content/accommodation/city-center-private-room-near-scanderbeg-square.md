@@ -1,7 +1,7 @@
 ---
 title: "City Center Private Room near Scanderbeg Square"
 description: "City Center Private Room near Scanderbeg Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-private-room-near-scanderbeg-square-492612782.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492612782.jpg?k=aa520c3928683d6e09fa8dfd40d9ef8ee5e1d3cc341cbff202c46259565c68e2&o=&hp=1"
 language: en
 slug: city-center-private-room-near-scanderbeg-square
 address: "Rruga Kajo Karafili, 1001 Tirana, Albania"

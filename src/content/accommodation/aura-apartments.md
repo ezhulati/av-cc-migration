@@ -1,7 +1,7 @@
 ---
 title: "AURA APARTMENTS"
 description: "Aura Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/aura-apartments-457112142.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457112142.jpg?k=2df43b4905d99c487ad75aae6faf764d46ee382adc49fdc582b5514093cfe2a1&o=&hp=1"
 language: en
 slug: aura-apartments
 address: "Rruga Myslym Shyri, 1021 Tirana, Albania"

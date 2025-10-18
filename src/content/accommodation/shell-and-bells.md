@@ -1,7 +1,7 @@
 ---
 title: "Shell and Bells"
 description: "Shell and Bells emerges as a charming choice for travelers seeking comfort and convenience in Vlorë, situated merely 300 meters from the serene Vjetër Beach."
-featuredImage: "/images/accommodation/shell-and-bells-504444221.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504444221.jpg?k=b955aec88fd52540ea90b1baa4d575efa673f520e550a274e58fe2310a60b799&o=&hp=1"
 language: en
 slug: shell-and-bells
 address: "Rruga Andrea Varfi, 9403 Vlorë, Albania"

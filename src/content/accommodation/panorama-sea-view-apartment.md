@@ -1,7 +1,7 @@
 ---
 title: "Panorama Sea View Apartment"
 description: "Panorama Sea View Apartment stands as a beacon of comfort and convenience in the heart of Sarandë, offering breathtaking views of the Ionian Sea from its prime location just steps away from Sarande Main Beach."
-featuredImage: "/images/accommodation/panorama-sea-view-apartment-370571291.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370571291.jpg?k=590b8462f9b69830e756cfd3d7f011841b86d4bb6e7ed42b7eb8cba6cf303ac3&o=&hp=1"
 language: en
 slug: panorama-sea-view-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

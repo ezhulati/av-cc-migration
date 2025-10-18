@@ -1,7 +1,7 @@
 ---
 title: "SUN TOWER-CENTER of TIRANA"
 description: "SUN TOWER-CENTER of TIRANA emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/sun-tower-center-of-tirana-219976390.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219976390.jpg?k=bbe871883a38657cd89eef9a4d38a48d0f38c53191157a10f6f0414cd08c0405&o=&hp=1"
 language: en
 slug: sun-tower-center-of-tirana
 address: "Rruga e Kavajës, Tiranë, 1000 Tirana, Albania"

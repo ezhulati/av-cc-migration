@@ -1,7 +1,7 @@
 ---
 title: "Yacht Premium Hotel"
 description: "Yacht Premium Hotel, located a mere stone's throw away from the vibrant Sarande Main Beach, stands as a beacon of comfort and luxury in Sarandë."
-featuredImage: "/images/accommodation/yacht-premium-hotel-473281457.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473281457.jpg?k=bf5dfaf19efffb5b75ef7da11e8ad1bca51aa1eaa65e25ee367a1eb8d339b4ea&o=&hp=1"
 language: en
 slug: yacht-premium-hotel
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

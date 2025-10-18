@@ -1,7 +1,7 @@
 ---
 title: "Guest House Stena"
 description: "Guest House Stena emerges as a charming choice for travelers seeking a comfortable stay in Ersekë."
-featuredImage: "/images/accommodation/guest-house-stena-200219937.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200219937.jpg?k=638012a813da937e26b8d2a809fd73b4b73df5233cd081a01c469bc1d3852ea6&o=&hp=1"
 language: en
 slug: guest-house-stena
 address: "Rruga Ahmet Bektashi, 7401 Ersekë, Albania"

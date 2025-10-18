@@ -1,7 +1,7 @@
 ---
 title: "Dennis apartment"
 description: "Dennis Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a stone's throw away from the pristine shores of Shkëmbi i Kavajës Beach and Golem Beach."
-featuredImage: "/images/accommodation/dennis-apartment-464926758.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464926758.jpg?k=ae3d175bd73165b6c71039a3259f47224347d8574ef77e4969131cfc340d4eac&o=&hp=1"
 language: en
 slug: dennis-apartment
 address: "(41.2659068, 19.5218273), 2504 Golem, Albania"

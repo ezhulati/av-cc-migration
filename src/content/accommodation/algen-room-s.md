@@ -1,7 +1,7 @@
 ---
 title: "Algen Room's"
 description: "Discover the charm of Berat with a stay at Algen Room's, a distinguished aparthotel that elevates the accommodation experience with its air-conditioned units and complimentary WiFi access."
-featuredImage: "/images/accommodation/algen-room-s-519666173.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519666173.jpg?k=9595f31cdc6bd02f95d26aff6b9ecdb29e09066be9bfb4825769d36da37dc158&o=&hp=1"
 language: en
 slug: algen-room-s
 address: "Rruga Antipatrea, 5001 Berat, Albania"

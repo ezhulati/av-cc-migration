@@ -1,7 +1,7 @@
 ---
 title: "Delight Apartments"
 description: "Delight Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/delight-apartments-204456935.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204456935.jpg?k=60b7fea02312a1eb44ed586ede642ff407237004781dd2bd430e20d7c3ac096d&o=&hp=1"
 language: en
 slug: delight-apartments
 address: "Rruga Qemal Stafa, 2504 Golem, Albania"

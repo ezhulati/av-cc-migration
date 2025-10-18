@@ -1,7 +1,7 @@
 ---
 title: "Le Palazzine Hotel"
 description: "Le Palazzine Hotel, strategically positioned on the Vlorë seafront and merely 5 km away from the iconic Kuzum Baba, stands out as a prime choice for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/le-palazzine-hotel-264363934.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264363934.jpg?k=df45cb4841fe7eefab04fd6df93b49e9ae236754cb98032396b83e0bd8ceaef6&o=&hp=1"
 language: en
 slug: le-palazzine-hotel
 address: "Rr. Dhimiter Konomi, 9401 Vlorë, Albania"

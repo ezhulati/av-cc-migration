@@ -1,7 +1,7 @@
 ---
 title: "Room with amazing sea view"
 description: "Discover the charm of Himare with a stay at Room with Amazing Sea View, a prime beachfront property that boasts an enviable location just a few steps from the pristine sands of Spille Beach and a short stroll from the serene Maracit Beach."
-featuredImage: "/images/accommodation/room-with-amazing-sea-view-521951742.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521951742.jpg?k=18bbfd8facb493a90c9846753aeff1e68d218b53ecf72149382131b9148a4a7e&o=&hp=1"
 language: en
 slug: room-with-amazing-sea-view
 address: "Himare, 9425 Himare, Albania"

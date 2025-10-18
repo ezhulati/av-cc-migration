@@ -1,7 +1,7 @@
 ---
 title: "Kekezis Apartments"
 description: "Kekezis Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/kekezis-apartments-367959195.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367959195.jpg?k=ae812d3f0fc1e56447490d7b31b970cfbd0c42e7d96cec3958e88a93d81a5772&o=&hp=1"
 language: en
 slug: kekezis-apartments
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment in Vlore"
 description: "Sea View Apartment in Vlore presents an exceptional beachfront retreat, located just a stone's throw away from the pristine Vjetër Beach and a leisurely stroll from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/sea-view-apartment-in-vlore-474231192.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474231192.jpg?k=89e0be9a47368f99abe146f4f48cd4bcb158a0850a29c7ed2ecb6a31fa35059c&o=&hp=1"
 language: en
 slug: sea-view-apartment-in-vlore
 address: "Rruga Çamëria, 9401 Vlorë, Albania"

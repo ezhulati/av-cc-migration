@@ -1,7 +1,7 @@
 ---
 title: "Angela Apartments"
 description: "Angela Apartments emerges as a charming choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/angela-apartments-107748167.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107748167.jpg?k=ae18eb77617a9d5714092cd9c5926ebb0372b661a90f31e500bf338f8f354f16&o=&hp=1"
 language: en
 slug: angela-apartments
 address: "Rruga: Sabri Preveza 31, 9701 Sarandë, Albania"

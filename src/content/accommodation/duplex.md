@@ -1,7 +1,7 @@
 ---
 title: "Duplex"
 description: "Duplex emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just steps away from Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/duplex-151521108.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151521108.jpg?k=ad9936afb750718fef3772d9d4a1a816180a118d39cb82d79b91275def5e6994&o=&hp=1"
 language: en
 slug: duplex
 address: "Afer Hotel bleart, 2001 Durrës, Albania"

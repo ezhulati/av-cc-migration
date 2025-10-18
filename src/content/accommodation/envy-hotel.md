@@ -1,7 +1,7 @@
 ---
 title: "Envy Hotel"
 description: "Envy Hotel emerges as a distinguished 4-star haven, merely 300 meters from the pristine shores of Currila Beach in Durrës."
-featuredImage: "/images/accommodation/envy-hotel-453822877.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822877.jpg?k=483e0fb32a187df8954ca3a257504032117ded745a3e65bd9911e0f3b64bcf21&o=&hp=1"
 language: en
 slug: envy-hotel
 address: "Bulevardi Epidamn, 2001 Durrës, Albania"

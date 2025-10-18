@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restorant Halal Il Tramonto."
 description: "Hotel Restorant Halal Il Tramonto stands out as a serene oasis located just a short drive from the bustling heart of Vorë, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/hotel-restorant-halal-il-tramonto-524491679.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524491679.jpg?k=6dd9f632b8eaaad496af60bbbf32099ac6ce29b7e1521a8bb53389bc4c536224&o=&hp=1"
 language: en
 slug: hotel-restorant-halal-il-tramonto
 address: "SH52 5222, 1032 Vorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Old Bazaar Seven"
 description: "Old Bazaar Seven emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/old-bazaar-seven-527945531.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527945531.jpg?k=9516f83b600cc2d4f301c1a7d5066aac429640ab7b17d1a31a12e38204695f1f&o=&hp=1"
 language: en
 slug: old-bazaar-seven
 address: "8RHF+GHM, Rruga Luigj Gurakuqi, Tirana, 1001 Tirana, Albania"

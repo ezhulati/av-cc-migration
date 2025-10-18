@@ -1,7 +1,7 @@
 ---
 title: "Mosaic Home"
 description: "Mosaic Home stands out as a vibrant hub for travelers seeking a blend of comfort and local culture in the heart of Tirana."
-featuredImage: "/images/accommodation/mosaic-home-190315588.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190315588.jpg?k=46970fd8e4d6b472bde46b668b464794fdac3da47fe089592f7f76dea86da740&o=&hp=1"
 language: en
 slug: mosaic-home
 address: "Rruga Sulejman Pitarka 8, 1001 Tirana, Albania"

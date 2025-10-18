@@ -1,7 +1,7 @@
 ---
 title: "Empire Beach Resort ADULTS ONLY"
 description: "Empire Beach Resort ADULTS ONLY emerges as a serene oasis for adult guests, located a mere 800 meters from the pristine shores of Dhermi Beach."
-featuredImage: "/images/accommodation/empire-beach-resort-adults-only-449791651.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449791651.jpg?k=e547565a7dbdbce181e01986c6c020109999c07cc7cf16665b1b798232231d4e&o=&hp=1"
 language: en
 slug: empire-beach-resort-adults-only
 address: "Empire Beach Resort, Posta kufitare Dhermi, 9422 Dhërmi, Albania"

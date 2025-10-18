@@ -1,7 +1,7 @@
 ---
 title: "Diamma Resort Conference & Spa"
 description: "Diamma Resort Conference & Spa stands as a premier destination for travelers seeking a blend of luxury and convenience in Durrës, just a stone's throw away from the pristine Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/diamma-resort-conference-spa-427837364.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427837364.jpg?k=c7d9a41e6f5a52091bfcf776dde8b4f94465c7933ac08f10d11212ce7753a0ba&o=&hp=1"
 language: en
 slug: diamma-resort-conference-spa
 address: "Rruga Xixa, Kryemedhenje, Goglem, Durres Durres, Albania, 1001 Durrës, Albania"

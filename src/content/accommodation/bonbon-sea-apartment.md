@@ -1,7 +1,7 @@
 ---
 title: "Bonbon Sea Apartment"
 description: "Bonbon Sea Apartment emerges as a serene retreat in the heart of Orikum, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/bonbon-sea-apartment-260369495.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260369495.jpg?k=39a606af8489b11b018984d8f4d6cf860b0f9a93be723c67c049dffcf611f6bf&o=&hp=1"
 language: en
 slug: bonbon-sea-apartment
 address: "Rruga Kaonet, Orikum, Albania"

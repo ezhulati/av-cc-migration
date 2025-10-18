@@ -1,7 +1,7 @@
 ---
 title: "HANI I PAZARIT Boutique Hotel"
 description: "HANI I PAZARIT Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë, located just 27 km from the serene Prespa National Park."
-featuredImage: "/images/accommodation/hani-i-pazarit-boutique-hotel-158313854.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158313854.jpg?k=181339fa6c73305cc548eb4d4b92eb8c3a0a63303e346357ce1efcb8be68e541&o=&hp=1"
 language: en
 slug: hani-i-pazarit-boutique-hotel
 address: "Rruga Kiço Greço, 7001 Korçë, Albania"

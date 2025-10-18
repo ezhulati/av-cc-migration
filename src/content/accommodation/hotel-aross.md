@@ -1,7 +1,7 @@
 ---
 title: "Hotel Aross"
 description: "Hotel Aross stands as a beacon of luxury in Vlorë, offering guests an unparalleled 5-star beachfront experience."
-featuredImage: "/images/accommodation/hotel-aross-326353745.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326353745.jpg?k=27228e749dc572ecc44bdb4f6a5f091f9e74a774a86a1a72a0370cc2b4f5a93f&o=&hp=1"
 language: en
 slug: hotel-aross
 address: "Jonufer Sh8, Jonufer, 9404 Vlorë, Albania"

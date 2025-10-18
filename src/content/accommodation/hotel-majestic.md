@@ -1,7 +1,7 @@
 ---
 title: "Hotel Majestic"
 description: "Discover the charm of Hotel Majestic, a gem just a stone's throw away from its exclusive sandy beach, complete with the comfort of sun loungers and parasols for that perfect seaside retreat."
-featuredImage: "/images/accommodation/hotel-majestic-292714682.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292714682.jpg?k=95146ee07dbc88ed9f2c1fb604caaa22e51422092e6b5b15438b6eb4484448be&o=&hp=1"
 language: en
 slug: hotel-majestic
 address: "Rruga Durrës - Plepa, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Villa Jico"
 description: "Jico Travel - Villa Jico emerges as a prime choice for travelers seeking comfort and convenience less than a kilometer from the pristine Ri Beach."
-featuredImage: "/images/accommodation/jico-travel-villa-jico-ecc2e23c1dd8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"
 language: en
 slug: jico-travel-villa-jico
 address: "Rruga Azem Sulo, 9041 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ginger Home Tirana"
 description: "Ginger Home Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ginger-home-tirana-365531317.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365531317.jpg?k=0b1ac0f1aa9126c8c33884ee7d769ebf5f5d91a1e686a2557789384bb7259add&o=&hp=1"
 language: en
 slug: ginger-home-tirana
 address: "Rruga e Barrikadave Apt 8/1, Turdiu Center, 1001 Tirana, Albania"

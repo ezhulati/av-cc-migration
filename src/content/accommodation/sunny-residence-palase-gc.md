@@ -1,7 +1,7 @@
 ---
 title: "Sunny Residence Palase, GC"
 description: "Sunny Residence Palase, GC stands as a beacon of comfort and privacy, just a stone's throw away from the pristine shores of Nazar Beach and a short distance from the serene Palasa Beach."
-featuredImage: "/images/accommodation/sunny-residence-palase-gc-384784183.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384784183.jpg?k=b35d5152db5a55c1508e3994b68da95740a459ecb6d7bd832de3c88ac7144fc2&o=&hp=1"
 language: en
 slug: sunny-residence-palase-gc
 address: "Vila 96/1 Green Coast Resort, 9425 Palasë, Albania"

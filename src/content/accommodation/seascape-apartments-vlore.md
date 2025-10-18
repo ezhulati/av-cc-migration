@@ -1,7 +1,7 @@
 ---
 title: "Seascape Apartments Vlore"
 description: "Seascape Apartments Vlore emerges as a prime beachfront haven in the vibrant city of Vlorë, perfectly positioned just a stone's throw away from the pristine Vlore Beach and a brief stroll from the serene Vjetër Beach."
-featuredImage: "/images/accommodation/seascape-apartments-vlore-366557745.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366557745.jpg?k=f658276ed1381a8f4deff7b297eed28599b4dc52428738b345c692c598c4cb3f&o=&hp=1"
 language: en
 slug: seascape-apartments-vlore
 address: "Lungo Mare Vlore Same building as Hotel Pirro, 3d floor, 9401 Vlorë, Albania"

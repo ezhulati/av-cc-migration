@@ -1,7 +1,7 @@
 ---
 title: "Apartment Tirana near The New Boulevard"
 description: "Apartment Tirana near The New Boulevard emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/apartment-tirana-near-the-new-boulevard-480839958.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480839958.jpg?k=a1440042c02ca6727814fd9bed655c5122a3cfbb7a132da112bc931e28c0bf54&o=&hp=1"
 language: en
 slug: apartment-tirana-near-the-new-boulevard
 address: "Rruga Jordan Misja, 1001 Tirana, Albania"

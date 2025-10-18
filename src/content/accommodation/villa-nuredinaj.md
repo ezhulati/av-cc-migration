@@ -1,7 +1,7 @@
 ---
 title: "Villa Nuredinaj"
 description: "Villa Nuredinaj emerges as a serene retreat in Vlorë, perfectly positioned a mere 600 meters from Ri Beach and a short 2 km journey from Vlore Beach."
-featuredImage: "/images/accommodation/villa-nuredinaj-377100815.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377100815.jpg?k=1ea203aba47a0ffaf2cfc1890cbd04495646cf49ead3807a82509e97a4bd7bff&o=&hp=1"
 language: en
 slug: villa-nuredinaj
 address: "Rruga Petro Marko, 9405 Vlorë, Albania"

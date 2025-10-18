@@ -1,7 +1,7 @@
 ---
 title: "Tata Apartament"
 description: "Tata Apartament emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/tata-apartament-489090741.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489090741.jpg?k=a82367c1c17ec11a91089c952d03625ef136943e58280f15538cba914c283f7a&o=&hp=1"
 language: en
 slug: tata-apartament
 address: "Rruga Ibrahim Buzhiqi Apartament 6, 2nd floor, P.5/3, 1001 Tirana, Albania"

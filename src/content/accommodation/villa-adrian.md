@@ -1,7 +1,7 @@
 ---
 title: "Villa Adrian"
 description: "Villa Adrian emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, situated a mere 400 meters from the pristine Bora Bora Beach."
-featuredImage: "/images/accommodation/villa-adrian-469955112.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469955112.jpg?k=2f9935d7a86facf1a5005de9f44eb6a9264cc698d05f92a8ea49df3b5b7e829f&o=&hp=1"
 language: en
 slug: villa-adrian
 address: "Rruga Amantia Lagjia Nr. 2, 9706 Ksamil, Albania"

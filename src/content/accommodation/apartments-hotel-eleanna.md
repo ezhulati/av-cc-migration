@@ -1,7 +1,7 @@
 ---
 title: "Apartments & Hotel Eleanna"
 description: "Apartments & Hotel Eleanna stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience, with its stunning sea views and proximity to Flamingo Beach, just a mere 300 meters away."
-featuredImage: "/images/accommodation/apartments-hotel-eleanna-457138610.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457138610.jpg?k=11ddff4b8d8c75d4a6d253a7ee6ec42af6d902b8b023a82865b2113dff89ac1c&o=&hp=1"
 language: en
 slug: apartments-hotel-eleanna
 address: "Rruga No: 75, Building 5, 9701 Sarandë, Albania"

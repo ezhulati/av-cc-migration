@@ -1,7 +1,7 @@
 ---
 title: "Gjiri Lalzit Apartment"
 description: "Gjiri Lalzit Apartment emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."
-featuredImage: "/images/accommodation/gjiri-lalzit-apartment-299022447.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299022447.jpg?k=65a86e56df719c036e1ea3bd0c07c5baa68b977c006df23490c6d2a4daef5443&o=&hp=1"
 language: en
 slug: gjiri-lalzit-apartment
 address: "Lura Resort Gjiri i Lalzit, 2000 Durrës, Albania"

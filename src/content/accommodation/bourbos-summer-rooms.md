@@ -1,7 +1,7 @@
 ---
 title: "Bourbos Summer Rooms"
 description: "Bourbos Summer Rooms emerges as a charming choice for travelers seeking a serene getaway in Himare, offering a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/bourbos-summer-rooms-205306502.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205306502.jpg?k=fa7cf929df0e2a70c90e9245a626b10cebc24b432bd690fa1d9ba6c657d3d6dc&o=&hp=1"
 language: en
 slug: bourbos-summer-rooms
 address: "Spille Himare, 9425 Himare, Albania"

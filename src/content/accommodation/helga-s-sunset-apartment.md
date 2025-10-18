@@ -1,7 +1,7 @@
 ---
 title: "Helga’s Sunset apartment"
 description: "Helga's Sunset apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/helga-s-sunset-apartment-410641139.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410641139.jpg?k=5d6f5a03443dfc9e1c02089290e14966dd0e51f47bfef52176e220cff8b6d5fc&o=&hp=1"
 language: en
 slug: helga-s-sunset-apartment
 address: "Rruga Vangjush Furxhi, 1001 Tirana, Albania"

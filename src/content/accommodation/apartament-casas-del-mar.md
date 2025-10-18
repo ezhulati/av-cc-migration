@@ -1,7 +1,7 @@
 ---
 title: "Apartament Casas del Mar"
 description: "Discover the serene beauty of Durrës from the comfort of Apartament Casas del Mar, a prime beachfront property that offers guests an unparalleled blend of convenience and tranquility."
-featuredImage: "/images/accommodation/apartament-casas-del-mar-AATXAJzP3eik.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJzP3eikbeB0Kba26URHm_qTICX9haKnPc3jQcdi=s96-c64"
 language: en
 slug: apartament-casas-del-mar
 address: "13 Rruga Pavaresia, 2001 Durrës, Albania"

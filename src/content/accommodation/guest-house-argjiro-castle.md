@@ -1,7 +1,7 @@
 ---
 title: "Guest House Argjiro Castle"
 description: "Guest House Argjiro Castle emerges as a serene retreat, offering breathtaking mountain views and a unique blend of convenience and comfort."
-featuredImage: "/images/accommodation/guest-house-argjiro-castle-215692224.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215692224.jpg?k=4bcde3c7ba7e83bc9cb6f40d65725eddbdc49d3b9b65b46ca0fa101a9b3f2778&o=&hp=1"
 language: en
 slug: guest-house-argjiro-castle
 address: "Rruga Syrja Kasi 18, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Eduart"
 description: "Vila Eduart emerges as a serene retreat in the heart of Ksamil, a mere stone's throw from the pristine Sunset Beach and within a comfortable walking distance from Ksamil Beach."
-featuredImage: "/images/accommodation/vila-eduart-483930813.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483930813.jpg?k=478088ef611223080939d5957e0fa4c8873aa136cf6cc395de001eb812c2047b&o=&hp=1"
 language: en
 slug: vila-eduart
 address: "Rr Liqeni 16, 9706 Ksamil, Albania"

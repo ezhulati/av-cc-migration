@@ -1,7 +1,7 @@
 ---
 title: "Rooftop apartament Alexandria"
 description: "Rooftop Apartment Alexandria emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/rooftop-apartament-alexandria-451499685.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451499685.jpg?k=b2311a558f1cff3d3f67f9d784fd09e7900a3d0722ff85787135b966f5c109f3&o=&hp=1"
 language: en
 slug: rooftop-apartament-alexandria
 address: "Rr. Gjergj Arianiti, Vlorë, Albania"

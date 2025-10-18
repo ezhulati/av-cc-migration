@@ -1,7 +1,7 @@
 ---
 title: "Olsi"
 description: "Olsi presents a refreshing retreat in the heart of Vlorë, boasting a prime location merely 600 meters from the serene Vjetër Beach and a short 1."
-featuredImage: "/images/accommodation/olsi-470833271.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470833271.jpg?k=d4e6ef72f7f492c99fa5b4461a05b9cecbd69d6ceb17f564d4148956c067c26a&o=&hp=1"
 language: en
 slug: olsi
 address: "Rruga Kosova, Pallati 9-katësh, 9401 Vlorë, Albania"

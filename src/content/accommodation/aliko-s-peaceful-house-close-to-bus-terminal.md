@@ -1,7 +1,7 @@
 ---
 title: "ALIKO's peaceful house, close to bus terminal"
 description: "ALIKO's Peaceful House emerges as a serene retreat in the bustling city of Tirana, offering a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/aliko-s-peaceful-house-close-to-bus-terminal-383319245.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383319245.jpg?k=c9ad3416eed17971dbdf7cc92eb6ed79cd9f38c168fceb35ec1f9c76d7b08ee8&o=&hp=1"
 language: en
 slug: aliko-s-peaceful-house-close-to-bus-terminal
 address: "Rruga Pashko Gjeçi, 1024 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel DARDANIA"
 description: "Hotel DARDANIA emerges as a serene oasis in Kukës, situated a mere 23 km from the historic Sinan Pasha Mosque and the imposing Kalaja Fortress Prizren."
-featuredImage: "/images/accommodation/hotel-dardania-401996163.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401996163.jpg?k=e3d6e2a7e53e9bdc4f6da70f5ca0517a1166df70871b7bb1c9f2ddfb73d787e3&o=&hp=1"
 language: en
 slug: hotel-dardania
 address: "Autostrada Kukes-Morin Km10, Rruga e Kombit, Kukës 8514, 8514 Kukës, Albania"

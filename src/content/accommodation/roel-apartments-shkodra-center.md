@@ -1,7 +1,7 @@
 ---
 title: "Roel apartments Shkodra Center"
 description: "Roel Apartments Shkodra Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/roel-apartments-shkodra-center-488164762.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488164762.jpg?k=642d5f6f554210df5e52b9fec9184332807f0d981c2305ca53f4f0df35d0eb98&o=&hp=1"
 language: en
 slug: roel-apartments-shkodra-center
 address: "13 Rruga Marin Bicikemi Terzo piano porta numero 17, Shkodër, Albania"

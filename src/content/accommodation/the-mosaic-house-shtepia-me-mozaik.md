@@ -1,7 +1,7 @@
 ---
 title: "The Mosaic House - Shtepia me Mozaik"
 description: "The Mosaic House - Shtepia me Mozaik in Përmet stands out for its serene garden views and thoughtfully appointed accommodations, making it a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/the-mosaic-house-shtepia-me-mozaik-254116331.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254116331.jpg?k=af734c6c06295cb5655630a3e88223407dc7cf7033f8d93dc4e12f22786b0f96&o=&hp=1"
 language: en
 slug: the-mosaic-house-shtepia-me-mozaik
 address: "Lagjja \"Varosh\", 6401 Përmet, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest House Xhuljon"
 description: "Guest House Xhuljon in Berat stands out as a charming accommodation choice for travelers seeking both comfort and scenic beauty."
-featuredImage: "/images/accommodation/guest-house-xhuljon-158614885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158614885.jpg?k=427c6e7af74eb3fa6549c582328037db555d5f421892867caccc8174c09617bb&o=&hp=1"
 language: en
 slug: guest-house-xhuljon
 address: "Shendelliu Street 6, 5001 Berat, Albania"

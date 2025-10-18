@@ -1,7 +1,7 @@
 ---
 title: "Kompleksi GJONI"
 description: "Kompleksi GJONI stands out as a beacon of comfort and convenience in Fier, located just 40 km away from the historic Independence Square."
-featuredImage: "/images/accommodation/kompleksi-gjoni-356536337.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356536337.jpg?k=01f377d072bac650bd6f5c174f02b667f291f70d4df53462ce7092a4534a0be3&o=&hp=1"
 language: en
 slug: kompleksi-gjoni
 address: "Rruga Teodor i II Muzaka, 9326 Fier, Albania"

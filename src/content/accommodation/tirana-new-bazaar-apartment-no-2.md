@@ -1,7 +1,7 @@
 ---
 title: "Tirana New Bazaar - Apartment no•2"
 description: "Tirana New Bazaar - Apartment no•2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-new-bazaar-apartment-no-2-415440723.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415440723.jpg?k=2d0ae34a4f876c651f9c2aa25f4336559e5b2d6b978a9e80065a7452837af2dd&o=&hp=1"
 language: en
 slug: tirana-new-bazaar-apartment-no-2
 address: "Rruga Fadil Rada , pallati genner 2 , hyrja B , kat 5 , apartamenti 18, 1001 Tirana, Albania"

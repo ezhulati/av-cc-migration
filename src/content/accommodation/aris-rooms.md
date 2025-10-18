@@ -1,7 +1,7 @@
 ---
 title: "Aris Rooms"
 description: "Aris Rooms emerges as a prime choice for travelers seeking a serene beachside retreat in Himare, just a stone's throw away from the pristine Potam Beach."
-featuredImage: "/images/accommodation/aris-rooms-396558604.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/396558604.jpg?k=2b4f107ebf4d1b89adea3bd8e1a026e0e9de4ef4126a40ca654f0344208137cc&o=&hp=1"
 language: en
 slug: aris-rooms
 address: "SH8, 9425 Himare, Albania"

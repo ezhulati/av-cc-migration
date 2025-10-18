@@ -1,7 +1,7 @@
 ---
 title: "My Apartments Polican"
 description: "My Apartments Polican emerges as a charming retreat in the heart of Poliçan, providing guests with a serene accommodation experience complemented by modern amenities."
-featuredImage: "/images/accommodation/my-apartments-polican-292217923.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292217923.jpg?k=8cf5a17fdfedd13eefc7bd9a99d24fb49d7e1debc4c631321e77590dcfcea28f&o=&hp=1"
 language: en
 slug: my-apartments-polican
 address: "Rruga Kullusem, 5404 Poliçan, Albania"

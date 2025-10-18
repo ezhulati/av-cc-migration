@@ -1,7 +1,7 @@
 ---
 title: "Tirana Art Apartments"
 description: "Tirana Art Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-art-apartments-496164209.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496164209.jpg?k=da24c28c93cd7b8208498087ad1a58aebf3fb0b80d5ef582a6a72c1e03719260&o=&hp=1"
 language: en
 slug: tirana-art-apartments
 address: "Rruga Petro Nini Luarasi no.31 apt. 41/6, 3rd floor, 1000 Tirana, Albania"

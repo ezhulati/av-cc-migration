@@ -1,7 +1,7 @@
 ---
 title: "Vila Celaj"
 description: "Vila Celaj emerges as a charming retreat in Vlorë, positioned just moments from the serene Vjetër Beach."
-featuredImage: "/images/accommodation/vila-celaj-369873491.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369873491.jpg?k=8197442dcbda66abe28dfa1c4349dada7b87ea6d36ccc291b4920c41e3571fe5&o=&hp=1"
 language: en
 slug: vila-celaj
 address: "Vila Celaj Plazhi i vjeter Vlore, Perballe Kompleks -Emiral, 9401 Vlorë, Albania"

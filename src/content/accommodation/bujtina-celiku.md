@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Celiku"
 description: "Bujtina Celiku emerges as a serene retreat in Burrel, offering guests a unique farm stay experience with the comfort of modern amenities."
-featuredImage: "/images/accommodation/bujtina-celiku-383071366.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383071366.jpg?k=230bc39c8fea60bacd7b9e1562412901d220ce3bebc90b43115c464fea0f5af7&o=&hp=1"
 language: en
 slug: bujtina-celiku
 address: "Rruga Peshkopi-Maqellare, 8007 Burrel, Albania"

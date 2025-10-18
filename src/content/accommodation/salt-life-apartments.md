@@ -1,7 +1,7 @@
 ---
 title: "Salt life Apartments"
 description: "Salt Life Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/salt-life-apartments-371411522.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371411522.jpg?k=ef3653733276894da5c187798a601fea2bbbd721ee909c31ebc7f09d598f2068&o=&hp=1"
 language: en
 slug: salt-life-apartments
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

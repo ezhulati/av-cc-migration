@@ -1,7 +1,7 @@
 ---
 title: "Apartments Vila Emiliano"
 description: "Apartments Vila Emiliano stands as a prime choice for travelers seeking comfort and convenience in the heart of Borsh."
-featuredImage: "/images/accommodation/apartments-vila-emiliano-42241664.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42241664.jpg?k=b232b878f31c2760ecaa99d27e897c1f78a6df0d7f09103f2a8bb95b3cebd632&o=&hp=1"
 language: en
 slug: apartments-vila-emiliano
 address: "Borsh, Rr. Nacionale, 9999 Borsh, Albania"

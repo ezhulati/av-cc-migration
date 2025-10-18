@@ -1,7 +1,7 @@
 ---
 title: "Villa CACA"
 description: "Villa CACA emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil, situated a mere 600 meters from the pristine sands of Ksamil Beach."
-featuredImage: "/images/accommodation/villa-caca-363947878.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363947878.jpg?k=cd6d28b434a134a02ddd6b6bd808d6d5c2a1603a711c0148d54f59e16a0c3df8&o=&hp=1"
 language: en
 slug: villa-caca
 address: "Baba Sherifi, Street Ksamil, 9706 Ksamil, Albania"

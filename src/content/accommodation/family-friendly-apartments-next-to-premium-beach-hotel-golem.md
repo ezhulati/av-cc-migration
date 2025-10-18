@@ -1,7 +1,7 @@
 ---
 title: "Family-friendly apartments next to Premium Beach Hotel, Golem"
 description: "Discover the charm of Golem with a stay at the Family-friendly Apartments adjacent to Premium Beach Hotel."
-featuredImage: "/images/accommodation/family-friendly-apartments-next-to-premium-beach-hotel-golem-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: family-friendly-apartments-next-to-premium-beach-hotel-golem
 address: "Rruga Premium, Kryemëdhenj Apartment 6 and 7, 2291 Golem, Albania"

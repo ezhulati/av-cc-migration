@@ -1,7 +1,7 @@
 ---
 title: "Ervin's beach apartment"
 description: "Ervin's Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/ervin-s-beach-apartment-467024058.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467024058.jpg?k=81e508ed7f8a7a361e82dc05273f3f4bf675e6a88560a6e59f3fb78a534ae540&o=&hp=1"
 language: en
 slug: ervin-s-beach-apartment
 address: "Lagja nr.13, rruga Poseidon, Durrës, 2021 Durrës, Albania"

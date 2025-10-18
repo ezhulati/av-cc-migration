@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury Seaview Apartments"
 description: "EKA Luxury Seaview Apartments emerges as a premier choice for travelers seeking unparalleled views and modern comforts in Vlorë, positioned just moments from the serene Vjetër Beach and a short distance from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/eka-luxury-seaview-apartments-511818328.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511818328.jpg?k=c6c8dc69ec36cf5dc4eb23f31d9957442a868a37614983809b5a7d6834f9f8aa&o=&hp=1"
 language: en
 slug: eka-luxury-seaview-apartments
 address: "Rr. Sazani, 4008 Vlorë, Albania"

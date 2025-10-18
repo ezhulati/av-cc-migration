@@ -1,7 +1,7 @@
 ---
 title: "One-bedroom rooftop skyline central hidden gem in Tirana"
 description: "Discover the charm of Tirana from an exceptional vantage point at the One-bedroom rooftop skyline central hidden gem."
-featuredImage: "/images/accommodation/one-bedroom-rooftop-skyline-central-hidden-gem-in-tirana-449172847.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449172847.jpg?k=76906ca0a7eea783f2bdf9529de6750774d121ca6a8d4734ec0271cb029aa60e&o=&hp=1"
 language: en
 slug: one-bedroom-rooftop-skyline-central-hidden-gem-in-tirana
 address: "Rr Çameria, Tirana, Albania"

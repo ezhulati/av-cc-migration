@@ -1,7 +1,7 @@
 ---
 title: "Aura"
 description: "Aura stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, located just a stone's throw away from Ri Beach and a short stroll from Vlore Beach."
-featuredImage: "/images/accommodation/aura-435974759.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435974759.jpg?k=9e461c554bbc1641cbb939673652d454a6575fc2706c62e340d8ef28d7a1f439&o=&hp=1"
 language: en
 slug: aura
 address: "7 Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

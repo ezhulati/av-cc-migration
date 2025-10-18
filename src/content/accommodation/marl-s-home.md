@@ -1,7 +1,7 @@
 ---
 title: "Marl's Home"
 description: "Marl's Home stands out as a serene retreat in the picturesque city of Berat, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/marl-s-home-469725742.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469725742.jpg?k=40b9539a94933d6a19c526bad3717506b628a36b802972a9597b458bb3e53861&o=&hp=1"
 language: en
 slug: marl-s-home
 address: "Rruga Shkembi, 5001 Berat, Albania"

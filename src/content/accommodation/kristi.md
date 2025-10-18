@@ -1,7 +1,7 @@
 ---
 title: "Kristi"
 description: "Kristi emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a stone's throw away from Saranda City Beach."
-featuredImage: "/images/accommodation/kristi-473478982.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473478982.jpg?k=e248b5fbcff125955c821fb1a8c12891a1147d25eba07a1803e5c3606369dd15&o=&hp=1"
 language: en
 slug: kristi
 address: "Rruga Gjergj Araniti Rruga Gjergj Araniti and Rruga Adem Sheme, 9701 Sarandë, Albania"

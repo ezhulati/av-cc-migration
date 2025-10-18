@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Stefa"
 description: "Hotel Vila Stefa emerges as a charming retreat in the heart of Vlorë, merely 1."
-featuredImage: "/images/accommodation/hotel-vila-stefa-262837875.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262837875.jpg?k=a87c967d46e7b15c778b1de88eedc6ed8b8b78ef8f21b5da30f15af1c2300498&o=&hp=1"
 language: en
 slug: hotel-vila-stefa
 address: "Rruga Fiqiri Muka, 9401 Vlorë, Albania"

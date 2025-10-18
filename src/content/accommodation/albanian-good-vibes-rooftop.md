@@ -1,7 +1,7 @@
 ---
 title: "Albanian Good Vibes Rooftop"
 description: "Albanian Good Vibes Rooftop emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/albanian-good-vibes-rooftop-484407073.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484407073.jpg?k=a8f3ff52ad47ae349ea34891acb2780b560d2a94c2f50f7a8cfdb58bffd54c2a&o=&hp=1"
 language: en
 slug: albanian-good-vibes-rooftop
 address: "Rruga Plazhit, Durrës, Albania"

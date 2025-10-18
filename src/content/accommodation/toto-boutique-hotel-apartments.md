@@ -1,7 +1,7 @@
 ---
 title: "Toto Boutique Hotel & Apartments"
 description: "Toto Boutique Hotel & Apartments emerges as a prime beachfront haven in Vlorë, boasting an enviable location mere steps from Liro Beach and within easy reach of Coco Bongo Beach and the Beach at Government Villas."
-featuredImage: "/images/accommodation/toto-boutique-hotel-apartments-312134285.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312134285.jpg?k=680f6121fb96798728c099ee00c6a1d99799315f213afc5ff73e6691b50f01f0&o=&hp=1"
 language: en
 slug: toto-boutique-hotel-apartments
 address: "Rr. \"Sali Vranishti\" Prane plazhit \"KALAJA\", 9400 Vlorë, Albania"

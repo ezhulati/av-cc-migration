@@ -1,7 +1,7 @@
 ---
 title: "Vila Bakri Couple Room"
 description: "Vila Bakri Couple Room emerges as a serene oasis in Elbasan, offering spacious, air-conditioned accommodations complete with a terrace and complimentary WiFi."
-featuredImage: "/images/accommodation/vila-bakri-couple-room-519686715.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519686715.jpg?k=594d0d990c54234209f023df98167c8c767a56fa0f0cab37b96143c2a12d10dd&o=&hp=1"
 language: en
 slug: vila-bakri-couple-room
 address: "Elbasan, Rruga Elbasan Metalugji km 1, 3000 Elbasan, Albania"

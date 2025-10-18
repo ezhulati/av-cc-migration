@@ -1,7 +1,7 @@
 ---
 title: "Village of Peace - House 39"
 description: "Village of Peace - House 39 emerges as a recently renovated gem in the heart of Shkodër, offering a serene retreat with its lush garden and welcoming bar."
-featuredImage: "/images/accommodation/village-of-peace-house-39-485518700.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485518700.jpg?k=8d6256c0d28d68c228999c3e3d716807f355d4ebe19484c27981a434efad84d5&o=&hp=1"
 language: en
 slug: village-of-peace-house-39
 address: "Rruga Kazenes, 4002 Shkodër, Albania"

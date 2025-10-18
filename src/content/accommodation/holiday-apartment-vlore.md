@@ -1,7 +1,7 @@
 ---
 title: "holiday apartment Vlore"
 description: "Holiday Apartment Vlore stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/holiday-apartment-vlore-474643966.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474643966.jpg?k=b53e1ce154c293b5f9cf4725c071a926cc0afdfd3bda676f72485430c81c80e9&o=&hp=1"
 language: en
 slug: holiday-apartment-vlore
 address: "Rr. Transballkanike L”Pavarsia “, 9400 Vlorë, Albania"

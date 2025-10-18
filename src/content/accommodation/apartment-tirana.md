@@ -1,7 +1,7 @@
 ---
 title: "Apartment Tirana"
 description: "Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/apartment-tirana-464951544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464951544.jpg?k=81690b6c34572436d02831e8f2eb045d73f9cc6aedac5b80c5f1af0188e2ab34&o=&hp=1"
 language: en
 slug: apartment-tirana
 address: "Rruga Urani Pano, Tirana, Albania"

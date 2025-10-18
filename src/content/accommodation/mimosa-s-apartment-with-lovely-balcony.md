@@ -1,7 +1,7 @@
 ---
 title: "Mimosa’s apartment with lovely balcony"
 description: "Mimosa's Apartment, boasting a recent renovation and an inviting balcony, emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/mimosa-s-apartment-with-lovely-balcony-439983284.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439983284.jpg?k=18b992965110df6af8405ed086771cafd3cd9f4588c7f29f1e1bd5742303088e&o=&hp=1"
 language: en
 slug: mimosa-s-apartment-with-lovely-balcony
 address: "26 Rruga Medar Shtylla 5th floor, ap 28-29, 1022 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ensar aparatament's"
 description: "Ensar Apartment stands as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short 300-meter stroll from the serene Saranda Bay Beach and a mere 1."
-featuredImage: "/images/accommodation/ensar-aparatament-s-451990842.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451990842.jpg?k=7d0aa22374eb924ae6a8717d5e042f820bdd74aa17374e858ebc4ae3ff047ea5&o=&hp=1"
 language: en
 slug: ensar-aparatament-s
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

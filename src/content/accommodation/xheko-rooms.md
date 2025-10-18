@@ -1,7 +1,7 @@
 ---
 title: "XHEKO ROOMS"
 description: "XHEKO ROOMS, located a mere 1."
-featuredImage: "/images/accommodation/xheko-rooms-472909051.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472909051.jpg?k=0732072bac45f25fb24a2e02c34986a9bbfe2c875b65515a4b47e588441842e1&o=&hp=1"
 language: en
 slug: xheko-rooms
 address: "Rruga Perivolo, 9422 Dhërmi, Albania"

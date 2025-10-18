@@ -1,7 +1,7 @@
 ---
 title: "Luxury Appartament Lungomare"
 description: "Luxury Appartament Lungomare emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/luxury-appartament-lungomare-481497553.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481497553.jpg?k=fc65fd175be3ddde28e92624bb44ea6c5e12880d41d167b91375d49e87a12730&o=&hp=1"
 language: en
 slug: luxury-appartament-lungomare
 address: "Rruga Murat Tërbaçi, 1004 Vlorë, Albania"

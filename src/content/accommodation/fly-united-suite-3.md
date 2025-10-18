@@ -1,7 +1,7 @@
 ---
 title: "FLY UNITED suite 3"
 description: "FLY UNITED Suite 3 emerges as a distinguished choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/fly-united-suite-3-520101548.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520101548.jpg?k=4634d8d6eef021018640df022ea01f4fcf897fc03c9b4c09a44ee26e4bc06020&o=&hp=1"
 language: en
 slug: fly-united-suite-3
 address: "1 Rruga Fortuzi, Tirana, Albania"

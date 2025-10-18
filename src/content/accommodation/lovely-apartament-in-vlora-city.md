@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartament in Vlora City"
 description: "Discover the charm of Vlorë with a stay at Lovely Apartment in Vlora City, a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/lovely-apartament-in-vlora-city-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/2425922144127165/picture?type=square&height=64&width=64"
 language: en
 slug: lovely-apartament-in-vlora-city
 address: "Hotel \"Bolonja Lagjia pavarsia,rruga\"çametis, 9400 Vlorë, Albania"

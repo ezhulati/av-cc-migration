@@ -1,7 +1,7 @@
 ---
 title: "Golden Center Apartment"
 description: "Golden Center Apartment emerges as a contemporary haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/golden-center-apartment-510314900.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510314900.jpg?k=5fe9f1eea1950ce188d4f7cf9eb63a587bf76f26e1a867d16fd9f13d3bcc0c3c&o=&hp=1"
 language: en
 slug: golden-center-apartment
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

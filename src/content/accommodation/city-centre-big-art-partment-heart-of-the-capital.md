@@ -1,7 +1,7 @@
 ---
 title: "City Centre Big Art'partment Heart of The Capital"
 description: "City Centre Big Art'partment Heart of The Capital emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-centre-big-art-partment-heart-of-the-capital-447552305.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447552305.jpg?k=0e40ec1b5c3093ace24a839f51fbb65a8318948aadbf23b31226f83ba7044c13&o=&hp=1"
 language: en
 slug: city-centre-big-art-partment-heart-of-the-capital
 address: "Rruga Kostandin Kristoforidhi, Tirana, Albania"

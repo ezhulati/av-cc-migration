@@ -1,7 +1,7 @@
 ---
 title: "Berberi Guest House"
 description: "Berberi Guest House stands out as a charming 2-star accommodation option in Pogradec, located just 8."
-featuredImage: "/images/accommodation/berberi-guest-house-97433535.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97433535.jpg?k=862294e8b00a51a0c02382bf2e37e66f4ec3818135a29cc8a213a303daac1bda&o=&hp=1"
 language: en
 slug: berberi-guest-house
 address: "Rruga Kajo Karafili, 7301 Pogradec, Albania"

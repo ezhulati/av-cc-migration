@@ -1,7 +1,7 @@
 ---
 title: "Flowers Studio - Pazari i Ri"
 description: "Flowers Studio - Pazari i Ri emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/flowers-studio-pazari-i-ri-485947041.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485947041.jpg?k=84848a53a1154db61d3962a4b8790fed670ff9309d861b17d184728f5495429d&o=&hp=1"
 language: en
 slug: flowers-studio-pazari-i-ri
 address: "Rruga Qemal Stafa Pallati 0082; Kati 4, apartamenti 14., 1017 Tirana, Albania"

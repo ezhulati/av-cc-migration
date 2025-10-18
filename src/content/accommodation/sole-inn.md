@@ -1,7 +1,7 @@
 ---
 title: "SOLE INN"
 description: "SOLE INN emerges as a charming retreat in Vlorë, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/sole-inn-484677236.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484677236.jpg?k=e26286f0681c33d7eff9d0314cb22deb0ab15e8b89c402717f25026faa2a3eb5&o=&hp=1"
 language: en
 slug: sole-inn
 address: "Rruga Aleksandër Moisiu, 9403 Vlorë, Albania"

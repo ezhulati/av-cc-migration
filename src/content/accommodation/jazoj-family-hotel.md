@@ -1,7 +1,7 @@
 ---
 title: "Jazoj Family hotel"
 description: "Discover the charm of Orikum at the Jazoj Family Hotel, a serene retreat located conveniently between the pristine sands of Nettuno Beach and the vibrant shores of Orikum Beach, just over a kilometer away."
-featuredImage: "/images/accommodation/jazoj-family-hotel-374590407.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374590407.jpg?k=5fe83843dcfb5dac97d69e7c1108aed4b2044462d925a9199178f3ea72b50413&o=&hp=1"
 language: en
 slug: jazoj-family-hotel
 address: "Rruga Jul Qezari, 1001 Orikum, Albania"

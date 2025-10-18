@@ -1,7 +1,7 @@
 ---
 title: "Tani Vila 3"
 description: "Tani Vila 3 emerges as a serene retreat in the vibrant city of Shkodër, boasting a prime location that combines convenience with tranquility."
-featuredImage: "/images/accommodation/tani-vila-3-485750839.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485750839.jpg?k=2f51aa8d398dacd3d3b5794f4ad3ad6a0a667d775c7aacf63f4a5e41694d24ad&o=&hp=1"
 language: en
 slug: tani-vila-3
 address: "Rruga Fahri Ramadani, 4001 Shkodër, Albania"

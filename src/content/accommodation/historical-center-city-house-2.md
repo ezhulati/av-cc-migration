@@ -1,7 +1,7 @@
 ---
 title: "Historical Center City House 2"
 description: "Historical Center City House 2 emerges as a prime choice for travelers seeking a blend of convenience and comfort in Shkodër."
-featuredImage: "/images/accommodation/historical-center-city-house-2-476151405.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476151405.jpg?k=5874661ecd01765915767ceea89920eaa1454728b534b08bd3aa5626c46d3066&o=&hp=1"
 language: en
 slug: historical-center-city-house-2
 address: "Gjuhadol; Nd. 81; H. 1, 4001 Shkodër, Albania"

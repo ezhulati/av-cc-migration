@@ -1,7 +1,7 @@
 ---
 title: "Joni's Pool Condo 10"
 description: "Joni's Pool Condo 10 emerges as a refreshing retreat in the heart of Golem, offering a blend of comfort and convenience for travelers seeking a serene getaway."
-featuredImage: "/images/accommodation/joni-s-pool-condo-10-376348779.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376348779.jpg?k=dfd2e02d54d1a16cb01bae657808002594869ca4a309cf865f42f49481f8437d&o=&hp=1"
 language: en
 slug: joni-s-pool-condo-10
 address: "Mali i Robit, 2504 Golem, Albania"

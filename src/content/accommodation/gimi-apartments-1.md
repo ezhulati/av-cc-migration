@@ -1,7 +1,7 @@
 ---
 title: "Gimi Apartments 1"
 description: "Gimi Apartments 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "/images/accommodation/gimi-apartments-1-424490135.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424490135.jpg?k=f73f9cddc28f483489f157ea02bd7aa2732d85327672f6f182f013dd19f9e3c5&o=&hp=1"
 language: en
 slug: gimi-apartments-1
 address: "rruga pavarsia shetitorja e plazhit, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartment by the seaside"
 description: "Discover the charm of Golem with a stay at the Lovely apartment by the seaside, a gem just steps away from Mali I Robit Beach and a short stroll from the serene Qerret Beach."
-featuredImage: "/images/accommodation/lovely-apartment-by-the-seaside-421005932.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421005932.jpg?k=69c09f2728701588e046784cedaae669e7580f7afa76a7e5e4100ea8e1d46198&o=&hp=1"
 language: en
 slug: lovely-apartment-by-the-seaside
 address: "BLV. Pishat e Buta Mali i Robit, 2504, 2504 Golem, Albania"

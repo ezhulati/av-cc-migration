@@ -1,7 +1,7 @@
 ---
 title: "Adi’s Apartments"
 description: "Adi’s Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/adi-s-apartments-479969560.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479969560.jpg?k=a54b0af490de2bfe3ab4dc4d7d305e61c2db9bd1fc95291f2f065044f0e5c4af&o=&hp=1"
 language: en
 slug: adi-s-apartments
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Redsun City Center Apartment"
 description: "Redsun City Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/redsun-city-center-apartment-458136467.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458136467.jpg?k=f3faf114cc4c8ed7ced5b4128465f394e8a5b7d2e29fdff8b13e189fab65cace&o=&hp=1"
 language: en
 slug: redsun-city-center-apartment
 address: "Rruga Ismail Qemali, 6th floor, at Pavaresia University, next to Conad Supermarket., Vlorë, Albania"

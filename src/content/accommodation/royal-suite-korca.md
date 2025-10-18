@@ -1,7 +1,7 @@
 ---
 title: "Royal Suite Korca"
 description: "Royal Suite Korca emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "/images/accommodation/royal-suite-korca-315f92289c48.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
 language: en
 slug: royal-suite-korca
 address: "Rruga Ismail Qemali Perballe shkolles Themistokli Germenji, 7001 Korçë, Albania"

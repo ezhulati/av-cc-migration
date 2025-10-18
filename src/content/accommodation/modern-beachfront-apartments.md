@@ -1,7 +1,7 @@
 ---
 title: "Modern Beachfront Apartments"
 description: "Modern Beachfront Apartments in Sarandë stands out as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location just a stone's throw away from Saranda Main Beach and a short 1."
-featuredImage: "/images/accommodation/modern-beachfront-apartments-440287133.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440287133.jpg?k=4842880d347c0f5b7c214061dbf59bb9e4729e80852bf6423cc2dea81e1e42cc&o=&hp=1"
 language: en
 slug: modern-beachfront-apartments
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

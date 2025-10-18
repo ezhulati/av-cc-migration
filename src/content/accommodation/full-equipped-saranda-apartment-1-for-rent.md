@@ -1,7 +1,7 @@
 ---
 title: "Full equipped Saranda apartment 1 for rent"
 description: "Discover the charm of Sarandë with a stay at the Full Equipped Saranda Apartment 1, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/full-equipped-saranda-apartment-1-for-rent-489348637.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489348637.jpg?k=9ee9843f1a0b0c6dc4d10b1ed247b9c23b0ea36ff76314d6c9d431be96a8fa0d&o=&hp=1"
 language: en
 slug: full-equipped-saranda-apartment-1-for-rent
 address: "Rruga Gjergj Araniti 10, 5, 9701 Sarandë, Albania"

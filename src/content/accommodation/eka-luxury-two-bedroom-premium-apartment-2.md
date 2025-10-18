@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury Two-Bedroom Premium Apartment 2"
 description: "EKA Luxury Two-Bedroom Premium Apartment 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking mountain views."
-featuredImage: "/images/accommodation/eka-luxury-two-bedroom-premium-apartment-2-206218490.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/206218490.jpg?k=5483a8d7dbc8d9a418922fc85ad9a9aa65300ab3dcca66c8fcac6c7273e9ba5b&o=&hp=1"
 language: en
 slug: eka-luxury-two-bedroom-premium-apartment-2
 address: "Rruga 940, 1001 Durrës, Albania"

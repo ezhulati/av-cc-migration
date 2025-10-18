@@ -1,7 +1,7 @@
 ---
 title: "At Gjergj Fishta Apart-House SHKODER"
 description: "At Gjergj Fishta Apart-House SHKODER emerges as a serene oasis in the heart of Shkodër, offering a unique blend of city and garden views that captivate the essence of the Shkoder County region."
-featuredImage: "/images/accommodation/at-gjergj-fishta-apart-house-shkoder-180020413.we.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/180020413.webp?k=c4b8445f243ee918526bec63ed484c577676a69e9012953d0c964c12b3f61dbc&o=?t=1667909228"
 language: en
 slug: at-gjergj-fishta-apart-house-shkoder
 address: "Rruga Risto Siliqi, 4001 Shkodër, Albania"

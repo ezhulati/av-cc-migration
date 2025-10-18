@@ -1,7 +1,7 @@
 ---
 title: "Step To The Sea Apartment FAST WIFI Double AC"
 description: "Step To The Sea Apartment FAST WIFI Double AC emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the serene Santa Quaranta Beach."
-featuredImage: "/images/accommodation/step-to-the-sea-apartment-fast-wifi-double-ac-photo.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"
 language: en
 slug: step-to-the-sea-apartment-fast-wifi-double-ac
 address: "Rruga Butrinti Hyrja 1 Apartamenti 3, Sarandë, Albania"

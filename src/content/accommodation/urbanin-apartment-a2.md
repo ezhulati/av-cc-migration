@@ -1,7 +1,7 @@
 ---
 title: "Urbanin Apartment A2"
 description: "Urbanin Apartment A2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/urbanin-apartment-a2-525873914.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525873914.jpg?k=d0bca843178f4e8d45d5cccd36e21bd64395ed8199f4a5fae7322a72de357872&o=&hp=1"
 language: en
 slug: urbanin-apartment-a2
 address: "Perballe QSUT, Rruga e Dibrës 1023, 1001 Tirana, Albania, 1001 Tirana, Albania"

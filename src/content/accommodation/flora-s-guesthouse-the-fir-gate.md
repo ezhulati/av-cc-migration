@@ -1,7 +1,7 @@
 ---
 title: "Flora's Guesthouse 'The Fir Gate'"
 description: "Flora's Guesthouse 'The Fir Gate' emerges as a serene retreat, located a mere 45 km from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/flora-s-guesthouse-the-fir-gate-203374991.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203374991.jpg?k=3b11a591b780ac1c63ed1889d3319f9924845926347d9c8d27b1db0cd5d33529&o=&hp=1"
 language: en
 slug: flora-s-guesthouse-the-fir-gate
 address: "Rruga Astrit Karagjozi, 6001 Gjirokastër, Albania"

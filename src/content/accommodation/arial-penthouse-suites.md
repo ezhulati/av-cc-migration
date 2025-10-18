@@ -1,7 +1,7 @@
 ---
 title: "Arial Penthouse Suites"
 description: "Arial Penthouse Suites emerges as a distinguished choice for travelers seeking comfort and convenience a mere 500 meters from the serene Vjetër Beach."
-featuredImage: "/images/accommodation/arial-penthouse-suites-349564972.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349564972.jpg?k=c529492d7ca53130ddcf0b56458cf7cb41e43fc14dd42488d8d55cb03473e635&o=&hp=1"
 language: en
 slug: arial-penthouse-suites
 address: "Rruga Aleks Çaçi building 4, 9401 Vlorë, Albania"

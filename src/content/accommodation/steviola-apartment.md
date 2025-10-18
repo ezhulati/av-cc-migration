@@ -1,7 +1,7 @@
 ---
 title: "Steviola Apartment"
 description: "Steviola Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/steviola-apartment-d3882ab9674d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
 language: en
 slug: steviola-apartment
 address: "Rruga Myslym Shyri, 1004 Tirana, Albania"

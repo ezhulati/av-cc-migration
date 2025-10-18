@@ -1,7 +1,7 @@
 ---
 title: "Hotel Freedom"
 description: "Hotel Freedom stands out as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/hotel-freedom-493122586.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493122586.jpg?k=145bc4b8e13515dc57aa71d1573fc03a10329365fdb4ba46a3cbcfae8cbba4b0&o=&hp=1"
 language: en
 slug: hotel-freedom
 address: "4501 SH32, 4501 Shëngjin, Albania"

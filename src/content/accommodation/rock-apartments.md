@@ -1,7 +1,7 @@
 ---
 title: "Rock Apartments"
 description: "Rock Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, situated a mere 29 km from the vibrant Corfu Town and 35 km from the serene Glyfada."
-featuredImage: "/images/accommodation/rock-apartments-209489687.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209489687.jpg?k=b84913230b5a393fdbef90e3a04ea3dbe119681d122ea4dc4cbaa8c67b30f9d5&o=&hp=1"
 language: en
 slug: rock-apartments
 address: "Rruha Mitat Hoxha, 9701 Sarandë, Albania"

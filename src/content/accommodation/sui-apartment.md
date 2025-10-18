@@ -1,7 +1,7 @@
 ---
 title: "Sui' Apartment"
 description: "Sui' Apartment emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sui-apartment-518436116.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518436116.jpg?k=451e61a949aaddae8503553eab046d86ab1f0bd28340cc6346e401132de6fb60&o=&hp=1"
 language: en
 slug: sui-apartment
 address: "Rruga e Barrikadave 2/2, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Kruje Meca"
 description: "Appartamento Kruje Meca, located in the heart of Krujë, Durres County, offers a unique blend of comfort and convenience for travelers seeking a memorable stay."
-featuredImage: "/images/accommodation/appartamento-kruje-meca-ACg8ocKoIOXT.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocKoIOXTkgmO49Ix3jg4MECvWvF_zi7fQsVI3wuvT59C=s96-c64"
 language: en
 slug: appartamento-kruje-meca
 address: "Rruga Kacanve, Krujë, Albania"

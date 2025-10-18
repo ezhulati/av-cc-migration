@@ -1,7 +1,7 @@
 ---
 title: "Orikum vlore albania"
 description: "Orikum Vlore Albania emerges as a standout choice for travelers seeking comfortable, air-conditioned accommodations with the added luxury of a private balcony."
-featuredImage: "/images/accommodation/orikum-vlore-albania-488540848.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488540848.jpg?k=fabb6cbb535551c6ada51cc4ad83d0ebbc9fa26c7094a096c604698c05e876a8&o=&hp=1"
 language: en
 slug: orikum-vlore-albania
 address: "Rruga Orikum, 9426 Vlorë, Albania"

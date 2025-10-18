@@ -1,7 +1,7 @@
 ---
 title: "Elton Tafa guesthouse"
 description: "Elton Tafa Guesthouse emerges as a charming retreat for travelers seeking both the serenity of a garden setting and the convenience of proximity to Ksamil's pristine beaches."
-featuredImage: "/images/accommodation/elton-tafa-guesthouse-371691301.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371691301.jpg?k=fc759e41c6c556bf8381908b4c56f43c0f7a9d9088970c2c09ebfd8a77e8fd30&o=&hp=1"
 language: en
 slug: elton-tafa-guesthouse
 address: "Rruga Riviera, 9796 Ksamil, Albania"

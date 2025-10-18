@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Sion Sarande Apartment 2"
 description: "Beachfront Sion Sarande Apartment 2 emerges as a prime choice for travelers seeking a serene getaway in Sarandë, Vlorë County."
-featuredImage: "/images/accommodation/beachfront-sion-sarande-apartment-2-495403344.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495403344.jpg?k=5d1c9f719fc250b80e6a22892d18eea0283525c3d32144c936e71167ce14fe0e&o=&hp=1"
 language: en
 slug: beachfront-sion-sarande-apartment-2
 address: "Rruga Butrinti, 9700 Sarandë, Albania"

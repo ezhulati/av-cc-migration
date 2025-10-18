@@ -1,7 +1,7 @@
 ---
 title: "Crox appartaments 4"
 description: "Crox Appartaments 4 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/crox-appartaments-4-473940142.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473940142.jpg?k=95d51b8c35f3220694c2740524e542e24650645ba05669d58cf008804783cd33&o=&hp=1"
 language: en
 slug: crox-appartaments-4
 address: "57 Rruga Guri Nazifi, 2110 Sarandë, Albania"

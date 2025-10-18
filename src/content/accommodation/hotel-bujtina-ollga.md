@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bujtina Ollga"
 description: "Hotel Bujtina Ollga emerges as a serene retreat in Pogradec, a mere 3."
-featuredImage: "/images/accommodation/hotel-bujtina-ollga-109862294.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109862294.jpg?k=9c45a89c1108a1675d3254379ea27f28f907af64dae9c5e359a7d6acd1c2d150&o=&hp=1"
 language: en
 slug: hotel-bujtina-ollga
 address: "Drilon Street, Tushemisht Building number 11, 7301 Pogradec, Albania"

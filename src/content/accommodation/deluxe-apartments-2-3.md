@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Apartments 2&3"
 description: "Deluxe Apartments 2&3 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/deluxe-apartments-2-3-449620145.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449620145.jpg?k=b2e188fb25f76215f85f3761a04aba58bd158e0ed35f075cd3d96a06c89e4601&o=&hp=1"
 language: en
 slug: deluxe-apartments-2-3
 address: "Rruga Mitat Hoxha Apartment No 85, 9701 Sarandë, Albania"

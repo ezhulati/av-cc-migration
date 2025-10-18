@@ -1,7 +1,7 @@
 ---
 title: "EUREKA"
 description: "EUREKA stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, boasting a prime location within a stone's throw of the city's most captivating beaches and cultural landmarks."
-featuredImage: "/images/accommodation/eureka-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: eureka
 address: "Rruga Dervish Ali Dukati, 9401 Vlorë, Albania"

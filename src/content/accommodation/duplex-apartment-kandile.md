@@ -1,7 +1,7 @@
 ---
 title: "Duplex Apartment KANDILE"
 description: "Duplex Apartment KANDILE emerges as a prime choice for travelers seeking comfort and convenience in Gjirokastër, situated a mere 45 km from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/duplex-apartment-kandile-485669970.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485669970.jpg?k=c221fbec3cf01844cd869ec75cb2b6b7f81e88def11d6fc96aad6c9433b3c4ed&o=&hp=1"
 language: en
 slug: duplex-apartment-kandile
 address: "Rruga e Zejtareve, 6001 Gjirokastër, Albania"

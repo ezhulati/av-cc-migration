@@ -1,7 +1,7 @@
 ---
 title: "Hotel Luli"
 description: "Hotel Luli emerges as a serene oasis in Papaj, boasting its own slice of private beachfront bliss and offering breathtaking sea views."
-featuredImage: "/images/accommodation/hotel-luli-204397723.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204397723.jpg?k=dac6c5198694ed8834733d3801c26fbb8fb1f2d3fa4c8ebb474b138a83b7af88&o=&hp=1"
 language: en
 slug: hotel-luli
 address: "Kol molla Baks-Rrjolle shkoder, 4020 Papaj, Albania"

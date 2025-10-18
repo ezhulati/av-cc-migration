@@ -1,7 +1,7 @@
 ---
 title: "Admiral Hotel"
 description: "Admiral Hotel, situated in the heart of Elbasan, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/admiral-hotel-276365131.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276365131.jpg?k=2f720af57852dd99d454e78c94985e26455910c5a40395cc1d7ef4f2c68864b6&o=&hp=1"
 language: en
 slug: admiral-hotel
 address: "Rruga Filip Papajani, 3001 Elbasan, Albania"

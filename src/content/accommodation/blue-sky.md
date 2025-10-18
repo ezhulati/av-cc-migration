@@ -1,7 +1,7 @@
 ---
 title: "Blue Sky"
 description: "Blue Sky emerges as a serene oasis in Golem, boasting a lush garden and an inviting terrace alongside its esteemed restaurant and bar."
-featuredImage: "/images/accommodation/blue-sky-207611396.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207611396.jpg?k=83a2310d22ac019662654d73b6dd175a14811311f50f6f73a1ad99ee930c2382&o=&hp=1"
 language: en
 slug: blue-sky
 address: "Dytesore Golem Kavaje, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Emerald Boutique Hotel"
 description: "Emerald Boutique Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/emerald-boutique-hotel-195443290.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/195443290.jpg?k=fa3a324e425ce97e3c35d71714dc76bcb7a2304417bc3b997239a17753b3adcf&o=&hp=1"
 language: en
 slug: emerald-boutique-hotel
 address: "Rruga Qemal Stafa nr. 458, 1005 Tirana, Albania"

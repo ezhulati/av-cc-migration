@@ -1,7 +1,7 @@
 ---
 title: "Cozy Del Mar Appartment"
 description: "Cozy Del Mar Apartment emerges as a charming retreat in the heart of Vlorë, offering guests a serene escape just a stone's throw away from the pristine Vjetër Beach and the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/cozy-del-mar-appartment-388573218.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388573218.jpg?k=154a64d2798349369c6f9d49a856bfd5be40c0b7b21a2633b216401f41889b17&o=&hp=1"
 language: en
 slug: cozy-del-mar-appartment
 address: "Rruga Çamëria Nr. 13 , 3rd floor, 9401 Vlorë, Albania"

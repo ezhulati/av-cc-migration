@@ -1,7 +1,7 @@
 ---
 title: "Regina City Hotel & SPA"
 description: "Regina City Hotel & SPA stands as a beacon of comfort and luxury right across the pristine shores of Vlorë, offering guests an unparalleled experience of relaxation and leisure."
-featuredImage: "/images/accommodation/regina-city-hotel-spa-285141770.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285141770.jpg?k=7d24cad313ea82867323db851481132fb9d172c2c71e05cf4b0a4fb0d64fde80&o=&hp=1"
 language: en
 slug: regina-city-hotel-spa
 address: "Rruga Murat Tërbaçi, Lagjja Uji Ftohtë, Kulla Nr.2, Kati 1-5-6-7-8(9 nen), 9405 Vlorë, Albania"

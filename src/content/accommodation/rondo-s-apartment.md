@@ -1,7 +1,7 @@
 ---
 title: "Rondo's apartment"
 description: "Rondo's Apartment in Himare stands out for its comfortable, air-conditioned spaces, complete with a welcoming terrace that invites guests to relax and enjoy."
-featuredImage: "/images/accommodation/rondo-s-apartment-370405264.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370405264.jpg?k=b43905e72c0856264442f39ebc1f13b310a48672ede391b38dc18573c5631bba&o=&hp=1"
 language: en
 slug: rondo-s-apartment
 address: "Agios spuridon 5, 9425 Himare, Albania"

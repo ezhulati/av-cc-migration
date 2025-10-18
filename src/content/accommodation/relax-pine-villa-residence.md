@@ -1,7 +1,7 @@
 ---
 title: "Relax Pine Villa Residence"
 description: "Relax Pine Villa Residence emerges as a serene retreat in the heart of Golem, just a stone's throw away from the pristine Mali I Robit Beach and a short stroll from the bustling Golem Beach."
-featuredImage: "/images/accommodation/relax-pine-villa-residence-481547978.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481547978.jpg?k=085e0af5cdf72604b39c7577b61185a9c10c22d2653faec4c1cd0074fbb10703&o=&hp=1"
 language: en
 slug: relax-pine-villa-residence
 address: "Golem,, Golem, Albania"

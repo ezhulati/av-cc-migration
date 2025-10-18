@@ -1,7 +1,7 @@
 ---
 title: "Sina Hostel"
 description: "Sina Hostel emerges as a prime choice for travelers seeking a blend of comfort, convenience, and cultural immersion in the heart of Tirana."
-featuredImage: "/images/accommodation/sina-hostel-371112544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371112544.jpg?k=6ec0d8e8a2aebcf7e67af1f519de613d00c5553c8471117cf3aa73523b1aa514&o=&hp=1"
 language: en
 slug: sina-hostel
 address: "Rruga Tefta Tashko-Koço Pallati 21/Shk1/AP4 , 1000 Tirana, Albania"

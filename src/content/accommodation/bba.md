@@ -1,7 +1,7 @@
 ---
 title: "BBA"
 description: "Discover the charm of Korçë from the comfort of BBA, a prime accommodation choice located just a stone's throw away from the serene Monastery Saint Naum."
-featuredImage: "/images/accommodation/bba-486892291.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486892291.jpg?k=f5cc5498c8250660532c879ed03c9f740355dde0f826f236d15a093a6280ef4a&o=&hp=1"
 language: en
 slug: bba
 address: "Rruga Theodhor Kavalioti 16, 7001 Korçë, Albania"

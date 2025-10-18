@@ -1,7 +1,7 @@
 ---
 title: "MEA Centre Apartment"
 description: "Discover the charm of Shkodër with a stay at MEA Centre Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/mea-centre-apartment-514279104.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514279104.jpg?k=53ad9a3835cfbb2534e986a31e084536cde6fdcaeb381978baa3382c984ecb66&o=&hp=1"
 language: en
 slug: mea-centre-apartment
 address: "Lagjia Qemal Stafa Bulevardi Zogu i Pare, Shkodër, Albania"

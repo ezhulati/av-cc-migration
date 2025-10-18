@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Brand New at Wilson Square"
 description: "Miku Apartment-Brand New at Wilson Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/miku-apartment-brand-new-at-wilson-square-329174084.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329174084.jpg?k=6320da9152223de73e7c815220567e275e83a995305bc87b9a6d4b2bcb356a4a&o=&hp=1"
 language: en
 slug: miku-apartment-brand-new-at-wilson-square
 address: "Rruga Ymer Kurti, 1019 Tirana, Albania"

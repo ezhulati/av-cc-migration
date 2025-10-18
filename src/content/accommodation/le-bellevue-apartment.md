@@ -1,7 +1,7 @@
 ---
 title: "Le bellevue apartment"
 description: "Le Bellevue Apartment emerges as a freshly updated gem in Llogara, boasting a serene garden and an inviting terrace for guests to enjoy."
-featuredImage: "/images/accommodation/le-bellevue-apartment-8ecb6dbf787b.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
 language: en
 slug: le-bellevue-apartment
 address: "Palase Vlore,, Llogara, Albania"

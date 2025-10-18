@@ -1,7 +1,7 @@
 ---
 title: "Maritim Hotel Plaza Tirana"
 description: "Maritim Hotel Plaza Tirana emerges as a beacon of luxury and relaxation in the heart of Tirana, merely a stone's throw away from the iconic Skenderberg Square."
-featuredImage: "/images/accommodation/maritim-hotel-plaza-tirana-285551218.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285551218.jpg?k=fc6202a20df2f3a404e618aaca867db78a30067652eec90d164634c24c93ce5e&o=&hp=1"
 language: en
 slug: maritim-hotel-plaza-tirana
 address: "Rruga 28 Nentori, 1001 Tirana, Albania"

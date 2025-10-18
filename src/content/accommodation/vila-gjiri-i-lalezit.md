@@ -1,7 +1,7 @@
 ---
 title: "Vila gjiri i lalezit"
 description: "Vila Gjiri i Lalezit emerges as a serene retreat in Durrës, strategically positioned within a comfortable distance from notable landmarks."
-featuredImage: "/images/accommodation/vila-gjiri-i-lalezit-493347727.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493347727.jpg?k=b62296efa3ad7b6a986dcb9e5bdfd3488c9cb0323c30b6620a891d0ab44e3b71&o=&hp=1"
 language: en
 slug: vila-gjiri-i-lalezit
 address: "Rruga Gjiri i Lalzit, Durrës, Albania"

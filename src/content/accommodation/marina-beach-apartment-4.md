@@ -1,7 +1,7 @@
 ---
 title: "Marina Beach Apartment 4"
 description: "Marina Beach Apartment 4 emerges as a prime choice for travelers seeking a serene getaway in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from the tranquil Ri Beach."
-featuredImage: "/images/accommodation/marina-beach-apartment-4-490200951.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490200951.jpg?k=f912aa478e039af9ea2f284476699e0533c4b33ec81e6f4a9fcb0f9786d616f5&o=&hp=1"
 language: en
 slug: marina-beach-apartment-4
 address: "Vlore \" Akademia e Marines\", 9003 Vlorë, Albania"

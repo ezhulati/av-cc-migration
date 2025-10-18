@@ -1,7 +1,7 @@
 ---
 title: "Vintage Seven"
 description: "Vintage Seven emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vintage-seven-525169289.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525169289.jpg?k=a38e18103afe256859c0ef28df151a81ffe6fb6d0b2805a28a5a0e5a06a5fd99&o=&hp=1"
 language: en
 slug: vintage-seven
 address: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "B.G Luxury Suites"
 description: "B."
-featuredImage: "/images/accommodation/b-g-luxury-suites-525176397.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525176397.jpg?k=1663b922ec7d8ee7d7ea42e73ee29274a119efaf0f7ac44396792b5238e4dca4&o=&hp=1"
 language: en
 slug: b-g-luxury-suites
 address: "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x135a0b8d16c78969:0xef0ab73e814d5e44?entry=s&sa=X&ved=2ahUKEwi3qu2xuYqEAxV0afEDHb8BC08Q4kB6BAgOEAA, 1007 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "City Center Hotel"
 description: "City Center Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-hotel-214420061.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214420061.jpg?k=8cb3331f9e1e73c59da48ab0743947f6661b517f96c139c75c9f6e183e4b8ef7&o=&hp=1"
 language: en
 slug: city-center-hotel
 address: "Rruga Zenel Baboçi, 1001 Tirana, Albania"

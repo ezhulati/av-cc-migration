@@ -1,7 +1,7 @@
 ---
 title: "Guest House Luiza"
 description: "Guest House Luiza stands as a charming retreat in Borsh, offering a serene escape just 47 km away from the bustling streets of Corfu Town."
-featuredImage: "/images/accommodation/guest-house-luiza-256068616.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256068616.jpg?k=a7b71c98649928c96bba66b856becf2908ca50270074993da6e6e46a85c43ed3&o=&hp=1"
 language: en
 slug: guest-house-luiza
 address: "Rruga Rimi Nane, Lagja Shkalle, 9714 Borsh, Albania"

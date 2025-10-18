@@ -1,7 +1,7 @@
 ---
 title: "Kruja Hotel"
 description: "Located in the heart of Tirana, Hotel Kruja stands a mere 450 meters from the iconic Skanderbeg Square, making it a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/kruja-hotel-47424391.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47424391.jpg?k=dd19e55f9f5a9fdba883d408cf1204300488a07071bdf1deda6f0caf5c0abdbd&o=&hp=1"
 language: en
 slug: kruja-hotel
 address: "Mine Peza Str., 1027 Tirana, Albania"

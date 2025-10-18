@@ -1,7 +1,7 @@
 ---
 title: "Relax Apartment"
 description: "Discover the charm of Sarandë with a stay at Relax Apartment, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/relax-apartment-465830040.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465830040.jpg?k=9104edc3b5eddf1ce9ae00bd23c52d4ce537dc70d6bc9eb13eb8008fc549eeed&o=&hp=1"
 language: en
 slug: relax-apartment
 address: "117 Rruga Lefter Talo, 9001 Sarandë, Albania"

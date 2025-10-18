@@ -1,7 +1,7 @@
 ---
 title: "Apartmán Šárka"
 description: "Discover the charm of Golem with a stay at Apartmán Šárka, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/apartm-n-rka-380866400.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380866400.jpg?k=114c241c63911b786e371e6eeb583409210530d00adc4e788f11c73fc332b0d8&o=&hp=1"
 language: en
 slug: apartm-n-rka
 address: "hekurudha 11/4 Být 9 poschodí 3, Golem, Albania"

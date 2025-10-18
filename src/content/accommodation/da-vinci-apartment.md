@@ -1,7 +1,7 @@
 ---
 title: "Da Vinci Apartment"
 description: "Da Vinci Apartment stands as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, merely a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/da-vinci-apartment-364486274.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364486274.jpg?k=66ede5b33f06ca6ad12aadfb51ef8cd74770f8d6dcab235e0d3039a71f11c9f1&o=&hp=1"
 language: en
 slug: da-vinci-apartment
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bougainville Bay Apartments"
 description: "Discover the charm of Bougainville Bay Apartments, a modern oasis that offers guests a unique blend of comfort and luxury."
-featuredImage: "/images/accommodation/bougainville-bay-apartments-265529570.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265529570.jpg?k=4d522fa5327f6c47f07eda144dc03634e663401a470b6610999d59770bb88fa6&o=&hp=1"
 language: en
 slug: bougainville-bay-apartments
 address: "Rruga Butrinti, 1000 Sarandë, Albania"

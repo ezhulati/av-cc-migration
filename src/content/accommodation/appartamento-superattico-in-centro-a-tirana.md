@@ -1,7 +1,7 @@
 ---
 title: "Appartamento SuperAttico in Centro a Tirana"
 description: "Appartamento SuperAttico in Centro a Tirana emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/appartamento-superattico-in-centro-a-tirana-519335483.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519335483.jpg?k=0331f937f7070199f6ddd280ddc81922b1dcaee0c0a67476ff8a30ec9ec5dd39&o=&hp=1"
 language: en
 slug: appartamento-superattico-in-centro-a-tirana
 address: "1 Rruga Hoxhë Vokrri Kati 10, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Saranda Rooms - Port"
 description: "Saranda Rooms - Port emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-rooms-port-365805263.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365805263.jpg?k=2d256f063f65c0b05e8bf217efb51161bd328ad06956c48535e2cfa205671d83&o=&hp=1"
 language: en
 slug: saranda-rooms-port
 address: "Rruga Mitat Hoxha NR.69, 9701 Sarandë, Albania"

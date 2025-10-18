@@ -1,7 +1,7 @@
 ---
 title: "Saranda Backpackers"
 description: "Saranda Backpackers emerges as a vibrant haven for travelers seeking both adventure and relaxation in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-backpackers-59858097.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/59858097.jpg?k=0d6cc7a7518369810c59f27e475ce005ecd6714da2dc46ef2ab093e5842753ed&o=&hp=1"
 language: en
 slug: saranda-backpackers
 address: "Rruga Mithat Hoxha, Pallati Nr.10, Lagjia nr.4, 9701 Sarandë, Albania"

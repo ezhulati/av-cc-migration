@@ -1,7 +1,7 @@
 ---
 title: "La Mirage Villa"
 description: "La Mirage Villa emerges as a premier choice for travelers seeking a blend of comfort, privacy, and convenience in Rrushkull."
-featuredImage: "/images/accommodation/la-mirage-villa-365558007.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365558007.jpg?k=8ef670bf368fb66d3809b6b3162f2208c11eaca4bf7501a7a1fb4d6ca6283a80&o=&hp=1"
 language: en
 slug: la-mirage-villa
 address: "Vila e shefit, Rrushkull, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Your Comfy Apartment"
 description: "Your Comfy Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/your-comfy-apartment-505460744.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505460744.jpg?k=97f57f17b62ec9365f2d585ee37010a157d2a57a4eef9bb421fb2473c2e99b96&o=&hp=1"
 language: en
 slug: your-comfy-apartment
 address: "3 Rruga Beqir Luga 7, 1001 Tirana, Albania"

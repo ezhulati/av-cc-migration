@@ -1,7 +1,7 @@
 ---
 title: "Blen Grand"
 description: "Blen Grand emerges as a distinguished 3-star hotel in Berat, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "/images/accommodation/blen-grand-363995245.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363995245.jpg?k=d6cc1b772eccc0657a58c3aadb747d2d43d592ece1a147392336581845398e17&o=&hp=1"
 language: en
 slug: blen-grand
 address: "rruga Ura e re, 5001 Berat, Albania"

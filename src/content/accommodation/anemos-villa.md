@@ -1,7 +1,7 @@
 ---
 title: "Anemos Villa"
 description: "Anemos Villa, a serene retreat located a mere stone's throw from Spille Beach in Himare, offers guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/anemos-villa-494337993.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494337993.jpg?k=513688b8ecac58583c1d28511004ccb35d8ada2be7634a6f6317a46000c882bb&o=&hp=1"
 language: en
 slug: anemos-villa
 address: "Rruga Dukat Himare, Himare, Albania"

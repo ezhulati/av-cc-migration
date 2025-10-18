@@ -1,7 +1,7 @@
 ---
 title: "Cozy Studio Apartment in Vlore"
 description: "Cozy Studio Apartment in Vlore emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/cozy-studio-apartment-in-vlore-523009774.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523009774.jpg?k=838245b85db09e0eb67936c5cfa3114413d7b4e9de5eec9d776486237c1c4ac2&o=&hp=1"
 language: en
 slug: cozy-studio-apartment-in-vlore
 address: "Rruga Sulejman Delvina, 9401 Vlorë, Albania"

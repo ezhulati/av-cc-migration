@@ -1,7 +1,7 @@
 ---
 title: "Seaview Apartment Detjoni"
 description: "Seaview Apartment Detjoni emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/seaview-apartment-detjoni-229798745.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/229798745.jpg?k=eacad23ec211a2cc6fc31328dc61ee0d2704b298d3632560bc335d75507ba043&o=&hp=1"
 language: en
 slug: seaview-apartment-detjoni
 address: "52 Rruga Onhezmi 4 floor apartment, 9701 Sarandë, Albania"

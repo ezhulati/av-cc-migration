@@ -1,7 +1,7 @@
 ---
 title: "B Vishe Guest House"
 description: "B Vishe Guest House, located in the historic heart of Gjirokastër and a mere 43 km from the serene Zaravina Lake, offers guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/b-vishe-guest-house-379544056.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379544056.jpg?k=99d1b07edf601950e5d7fda56c35109fecef58d4af051f72ad8ba64f0495230f&o=&hp=1"
 language: en
 slug: b-vishe-guest-house
 address: "Rruga Gjin Zenebishi, 6001 Gjirokastër, Albania"

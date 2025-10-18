@@ -1,7 +1,7 @@
 ---
 title: "Vlora Stadium 2 BR Central Apartment"
 description: "Vlora Stadium 2 BR Central Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlore."
-featuredImage: "/images/accommodation/vlora-stadium-2-br-central-apartment-485191585.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191585.jpg?k=c8813b1de6a44018c03000461cc7cc3b45f677a62551fec77e209fbfb8e0424a&o=&hp=1"
 language: en
 slug: vlora-stadium-2-br-central-apartment
 address: "Rr. Gjergj Arianiti Stadium Vlore. Ipercoop Supermarket, 9406 Vlorë, Albania"

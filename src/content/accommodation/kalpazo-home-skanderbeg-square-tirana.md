@@ -1,7 +1,7 @@
 ---
 title: "Kalpazo Home Skanderbeg Square Tirana"
 description: "Kalpazo Home Skanderbeg Square Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/kalpazo-home-skanderbeg-square-tirana-423077120.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423077120.jpg?k=7e794a1cb98f2284e901128121d4c52b146f9e258efe03492a384e6227f6506e&o=&hp=1"
 language: en
 slug: kalpazo-home-skanderbeg-square-tirana
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

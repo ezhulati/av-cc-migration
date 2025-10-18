@@ -1,7 +1,7 @@
 ---
 title: "Vila DLMeti"
 description: "Vila DLMeti emerges as a serene retreat in the vibrant city of Shkodër, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/vila-dlmeti-520333917.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520333917.jpg?k=9b2c4186f54af93116a084c51d236b8a0373b312591644c86b0203a6b9ae2220&o=&hp=1"
 language: en
 slug: vila-dlmeti
 address: "Rruga Dracin, 4001 Shkodër, Albania"

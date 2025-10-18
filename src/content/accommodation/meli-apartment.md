@@ -1,7 +1,7 @@
 ---
 title: "Meli Apartment"
 description: "Meli Apartment emerges as a charming choice for travelers seeking comfort and convenience in Golem, boasting a prime location within walking distance of the serene Qerret Beach and the vibrant Golem Beach."
-featuredImage: "/images/accommodation/meli-apartment-471427974.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471427974.jpg?k=f42650e8fa295a1e17766471b6913ffb04bff625303bfa4dd62e789b706a0797&o=&hp=1"
 language: en
 slug: meli-apartment
 address: "Mali Robit, Golem, Albania"

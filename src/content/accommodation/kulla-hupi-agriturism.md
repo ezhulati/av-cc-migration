@@ -1,7 +1,7 @@
 ---
 title: "Kulla Hupi Agriturism"
 description: "Kulla Hupi Agriturism emerges as a serene retreat for those seeking an escape into the countryside of Bulqizë."
-featuredImage: "/images/accommodation/kulla-hupi-agriturism-465742573.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465742573.jpg?k=cd199a4ff0bee64d9e6bd9fbf52a5a21e546a3a313c411d0a20f851b79bfebe5&o=&hp=1"
 language: en
 slug: kulla-hupi-agriturism
 address: "Rruga Skënderbeu, Dushaj Lagjia Lepurakë, 8402 Bulqizë, Albania"

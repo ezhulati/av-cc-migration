@@ -1,7 +1,7 @@
 ---
 title: "Dea`s Apartaments"
 description: "Dea's Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/dea-s-apartaments-428495747.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428495747.jpg?k=c43a03fbcfa298b8498bdddf94a7b84ae525cb64cafaf8c8e011bf0d4275eaa2&o=&hp=1"
 language: en
 slug: dea-s-apartaments
 address: "Rruga Margarita Tutulani, 1001 Tirana, Albania"

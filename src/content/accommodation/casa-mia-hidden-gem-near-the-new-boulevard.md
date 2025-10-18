@@ -1,7 +1,7 @@
 ---
 title: "Casa Mia - Hidden Gem near the New Boulevard"
 description: "Casa Mia - Hidden Gem near the New Boulevard emerges as a standout choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/casa-mia-hidden-gem-near-the-new-boulevard-502964578.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502964578.jpg?k=6f5edbd0999ce3dec95fe096277c779d1f5a3d16c3438cdd25d79207236a500d&o=&hp=1"
 language: en
 slug: casa-mia-hidden-gem-near-the-new-boulevard
 address: "Rruga Ramazan Shijaku Apartment 21, floor 4, Tirana, Albania"

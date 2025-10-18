@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Apartment"
 description: "Tirana Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/tirana-center-apartment-497508812.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497508812.jpg?k=2af407abd59cea262b94ef0c1d1e3a1e06f407a71b1d86e326eddcfb69f1e399&o=&hp=1"
 language: en
 slug: tirana-center-apartment
 address: "Rruga Arben Broci, 1049 Tirana, Albania"

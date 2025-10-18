@@ -1,7 +1,7 @@
 ---
 title: "Gerta’s Appartament"
 description: "Gerta's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/gerta-s-appartament-479825204.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479825204.jpg?k=6eb4021cb3f4e9ca0f7bae1c0688d6b265adf191a5b3cb2538d38cbefa36ebb8&o=&hp=1"
 language: en
 slug: gerta-s-appartament
 address: "Rruga Gjiri i Lalzit/ Real Resort, Durrës, Albania"

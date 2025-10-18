@@ -1,7 +1,7 @@
 ---
 title: "Nerium Garden Inn Tirana Airport"
 description: "Nerium Garden Inn Tirana Airport emerges as a serene oasis for travelers seeking convenience and comfort close to the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/nerium-garden-inn-tirana-airport-496043726.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496043726.jpg?k=6b60ab1b3aac0d9cba73a77abe3bb24608c2735500e76082c9093ca748293955&o=&hp=1"
 language: en
 slug: nerium-garden-inn-tirana-airport
 address: "Rruga e Aeroportit, 1504 Rinas, Albania"

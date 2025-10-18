@@ -1,7 +1,7 @@
 ---
 title: "San Pietro villa"
 description: "San Pietro Villa emerges as a premier choice for travelers seeking a blend of luxury and natural beauty in Durrës."
-featuredImage: "/images/accommodation/san-pietro-villa-364820661.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364820661.jpg?k=3c2f0fca31f7d6fd05ed0821976f4bc796126d3697e7de7f5c661cb27dcab340&o=&hp=1"
 language: en
 slug: san-pietro-villa
 address: "San Pietro Resort, Gjiri i Lalzit, Durrës, Albania"

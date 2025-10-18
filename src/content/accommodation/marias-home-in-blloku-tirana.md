@@ -1,7 +1,7 @@
 ---
 title: "Marias Home in Blloku, Tirana"
 description: "Marias Home in Blloku, Tirana, emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/marias-home-in-blloku-tirana-462612172.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462612172.jpg?k=93cbeadbca9752d0895ca3dad6a5e768cfd854b34001f18e617363f43ae3dc08&o=&hp=1"
 language: en
 slug: marias-home-in-blloku-tirana
 address: "Agimi Buildings, Bllok, Tirane second apartament, first floor, ami event building, 1001 Tirana, Albania"

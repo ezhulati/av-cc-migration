@@ -1,7 +1,7 @@
 ---
 title: "Aldo Apartment"
 description: "Aldo Apartment emerges as a modern haven for travelers seeking the comfort of home with the convenience of city living in Tirana."
-featuredImage: "/images/accommodation/aldo-apartment-439778739.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439778739.jpg?k=88d4e6677cdd46b9a4b3b70780fd359f731ca3a30400dc2cbf4d95a7049d1d63&o=&hp=1"
 language: en
 slug: aldo-apartment
 address: "Rruga Medar Shtylla, 1001 Tirana, Albania"

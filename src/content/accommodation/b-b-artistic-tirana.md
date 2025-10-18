@@ -1,7 +1,7 @@
 ---
 title: "B&B Artistic Tirana"
 description: "B&B Artistic Tirana emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/b-b-artistic-tirana-100476015.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100476015.jpg?k=29d5c704c6a8ec9224811bc725de380716f579d7c4ecb7bf02283ed4fc1aca62&o=&hp=1"
 language: en
 slug: b-b-artistic-tirana
 address: "Myslym Shyri, 34/1, Apt.1, 1007 Tirana, Albania"

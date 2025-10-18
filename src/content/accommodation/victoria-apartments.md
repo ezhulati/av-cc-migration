@@ -1,7 +1,7 @@
 ---
 title: "Victoria Apartments"
 description: "Victoria Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/victoria-apartments-488344494.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488344494.jpg?k=c4ea4fd4ee7fd5b2ce9c8e80876e75e06de645b29512f8f53a17f627a47aa2d3&o=&hp=1"
 language: en
 slug: victoria-apartments
 address: "Rruga Mitat Hoxha 2, 9701 Sarandë, Albania"

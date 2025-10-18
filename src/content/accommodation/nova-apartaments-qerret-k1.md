@@ -1,7 +1,7 @@
 ---
 title: "nova apartaments qerret k1"
 description: "Nova Apartments Qerret K1 stands as a prime beachfront haven in Golem, merely steps away from the serene Qerret Beach and a short distance from the picturesque Mali I Robit Beach."
-featuredImage: "/images/accommodation/nova-apartaments-qerret-k1-AEdFTp7VnGgv.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AEdFTp7VnGgvthqCknYpzxSFeHZwVjOc9NnIdm9_Ogxu=s96-c64"
 language: en
 slug: nova-apartaments-qerret-k1
 address: "Rruga Qerret Plazh, 2504 Golem, Albania"

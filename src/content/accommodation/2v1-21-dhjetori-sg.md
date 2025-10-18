@@ -1,7 +1,7 @@
 ---
 title: "2V1 - 21 Dhjetori SG"
 description: "Discover the charm of Tirana with a stay at 2V1 - 21 Dhjetori SG, a prime apartment that boasts a convenient balcony and is strategically positioned within close proximity to the city's historical and cultural hotspots."
-featuredImage: "/images/accommodation/2v1-21-dhjetori-sg-389415973.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389415973.jpg?k=9598cbbacd81c372993348d7bd5b5d6e79d09082009083d3aed18a0e2e0c24c7&o=&hp=1"
 language: en
 slug: 2v1-21-dhjetori-sg
 address: "Rruga Muhamet Gjollesha, 1001 Tirana, Albania"

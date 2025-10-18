@@ -1,7 +1,7 @@
 ---
 title: "Jimmys's apartament"
 description: "Jimmy's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/jimmys-s-apartament-525126499.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525126499.jpg?k=2729520aeb2fddf3c9feba48ad96231c3ff9237dda5ecdae4ed95c30027aabdd&o=&hp=1"
 language: en
 slug: jimmys-s-apartament
 address: "Bulevardi Bajram Curri, 1000 Tirana, Albania"

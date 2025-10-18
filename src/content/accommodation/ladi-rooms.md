@@ -1,7 +1,7 @@
 ---
 title: "Ladi Rooms"
 description: "Ladi Rooms emerges as a distinguished choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/ladi-rooms-386332028.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386332028.jpg?k=cc19bddc9595a81a9924cc64501423b74811557a70154013b9604db59348d0ec&o=&hp=1"
 language: en
 slug: ladi-rooms
 address: "Rruga Studenti Bar Studenti, 1001 Tirana, Albania"

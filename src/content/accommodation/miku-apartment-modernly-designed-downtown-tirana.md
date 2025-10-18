@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-Modernly Designed Downtown Tirana"
 description: "Miku Apartment stands as a beacon of modern design and comfort in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/miku-apartment-modernly-designed-downtown-tirana-246111583.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/246111583.jpg?k=e610032a781fea21ac0daf5f7ecf11a09a1046931c120a98929188f97146297b&o=&hp=1"
 language: en
 slug: miku-apartment-modernly-designed-downtown-tirana
 address: "Rruga e Barrikadave rruga e barrikadave, 1001 Tirana, Albania"

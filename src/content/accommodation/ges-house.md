@@ -1,7 +1,7 @@
 ---
 title: "Ges'house"
 description: "Ges'house emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ges-house-405869814.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405869814.jpg?k=4e5ee00dd43d501175e29466060e2bf39fdf6e451787958f80333943b1eee564&o=&hp=1"
 language: en
 slug: ges-house
 address: "Rruga Shyqyri Bërxolli, 1001 Tirana, Albania"

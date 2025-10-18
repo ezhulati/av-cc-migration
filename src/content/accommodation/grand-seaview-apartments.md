@@ -1,7 +1,7 @@
 ---
 title: "Grand Seaview Apartments"
 description: "Grand Seaview Apartments in Ksamil stands out as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty."
-featuredImage: "/images/accommodation/grand-seaview-apartments-367802311.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367802311.jpg?k=4ec0015b631f7ef42f4cdaa9d75a395550d42030d4f16caced85cac42eecb0ed&o=&hp=1"
 language: en
 slug: grand-seaview-apartments
 address: "Road \" Pasqyra \" Manastir-Albania Number Building 21, 9706 Ksamil, Albania"

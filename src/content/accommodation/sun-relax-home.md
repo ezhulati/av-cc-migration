@@ -1,7 +1,7 @@
 ---
 title: "Sun& Relax Home"
 description: "Sun& Relax Home stands out as a serene retreat in Korçë, offering breathtaking garden and mountain views that promise a tranquil escape from the hustle and bustle."
-featuredImage: "/images/accommodation/sun-relax-home-359673582.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359673582.jpg?k=8b9f9f99efff41e57f4f064485190fd30abf2ee0d162eb6bb5699a8da2437476&o=&hp=1"
 language: en
 slug: sun-relax-home
 address: "Rr Sali Butka, Nr:53, 7001 Korçë, Albania"

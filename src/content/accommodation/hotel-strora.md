@@ -1,7 +1,7 @@
 ---
 title: "Hotel Strora"
 description: "Hotel Strora stands as a prime beachfront destination, offering guests the convenience of complimentary Wi-Fi and parking."
-featuredImage: "/images/accommodation/hotel-strora-275009070.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275009070.jpg?k=a89c38471538f508372e163183f9562bf8a82500edfa3d4a29f65237a091e4f8&o=&hp=1"
 language: en
 slug: hotel-strora
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

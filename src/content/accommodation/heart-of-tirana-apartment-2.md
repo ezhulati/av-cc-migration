@@ -1,7 +1,7 @@
 ---
 title: "Heart of Tirana Apartment-2"
 description: "Heart of Tirana Apartment-2 emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "/images/accommodation/heart-of-tirana-apartment-2-494682885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494682885.jpg?k=f132d64b26afe849dc20c2df081e5d923de2cd8c68c598bc415460e04c665b8d&o=&hp=1"
 language: en
 slug: heart-of-tirana-apartment-2
 address: "Rruga e Durrësit, 1001 Tirana, Albania"

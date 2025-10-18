@@ -1,7 +1,7 @@
 ---
 title: "Valamar Holiday Apartment"
 description: "Valamar Holiday Apartment emerges as a serene oasis in Durrës, offering guests an exclusive retreat with its own private beach area and tranquil street views."
-featuredImage: "/images/accommodation/valamar-holiday-apartment-491568291.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491568291.jpg?k=209562486e5e5cde7f3731f5eedc84b5c4cac3bb4a7a6dbc6bb6ae86c0e8c3e0&o=&hp=1"
 language: en
 slug: valamar-holiday-apartment
 address: "Rruga e bregdetit, Valamar, Hamallaj 163, 2010 Durrës, Albania"

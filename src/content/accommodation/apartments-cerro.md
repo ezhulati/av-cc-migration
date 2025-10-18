@@ -1,7 +1,7 @@
 ---
 title: "Apartments Cerro"
 description: "Apartments Cerro stands out as a prime choice for travelers seeking comfort and convenience in Ksamil, just a stone's throw away from the beach at a mere 130 meters distance."
-featuredImage: "/images/accommodation/apartments-cerro-61781565.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/61781565.jpg?k=34679cbabe3cd7b6cbed67ac4eede12d273819da09076062e44a3282b3712f4a&o=&hp=1"
 language: en
 slug: apartments-cerro
 address: "Rruga Nacionale Sarande - Butrint, 9706 Ksamil, Albania"

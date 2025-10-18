@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Blloku ZY"
 description: "2V1 - Blloku ZY stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/2v1-blloku-zy-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/534020999/picture?type=square&height=64&width=64"
 language: en
 slug: 2v1-blloku-zy
 address: "Rruga Nikolla Tupe Nd. 2 Ap. 11 Second Floor, 1001 Tirana, Albania"

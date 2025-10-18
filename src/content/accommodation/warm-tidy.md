@@ -1,7 +1,7 @@
 ---
 title: "Warm&tidy"
 description: "Warm&tidy stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/warm-tidy-448462720.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448462720.jpg?k=51b1507a7561f1fb9d3d18d3cc2754b5a0633cf8947ac73928a01c0175267e78&o=&hp=1"
 language: en
 slug: warm-tidy
 address: "Rruga Myslym Shyri, 1060 Tirana, Albania"

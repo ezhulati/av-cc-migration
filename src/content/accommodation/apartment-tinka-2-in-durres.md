@@ -1,7 +1,7 @@
 ---
 title: "Apartment Tinka 2 in Durres"
 description: "Apartment Tinka 2 in Durres emerges as a prime choice for travelers seeking comfort and convenience, mere steps away from the pristine Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."
-featuredImage: "/images/accommodation/apartment-tinka-2-in-durres-505074048.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505074048.jpg?k=429d79e9253ff72fda87c9d01efb621620eed7e584ecf10eacb611c34d690521&o=&hp=1"
 language: en
 slug: apartment-tinka-2-in-durres
 address: "Rruga Shkembi i Kavajes, 2008 Durrës, Albania"

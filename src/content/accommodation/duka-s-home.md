@@ -1,7 +1,7 @@
 ---
 title: "Duka’s Home"
 description: "Duka's Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/duka-s-home-488126776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488126776.jpg?k=11968c09dfb8b4a59a19f438a0d44070703f42b899eb7a8203b7e89c9600ee6c&o=&hp=1"
 language: en
 slug: duka-s-home
 address: "Rruga Grigor Gjirokastriti 7, 1001 Tirana, Albania"

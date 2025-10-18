@@ -1,7 +1,7 @@
 ---
 title: "Rozafa 2.0"
 description: "Rozafa 2."
-featuredImage: "/images/accommodation/rozafa-2-0-505396436.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505396436.jpg?k=352c66d75980fada8faec37e4ecfc938216b4a51f93d3f7ac0fb1f810f306692&o=&hp=1"
 language: en
 slug: rozafa-2-0
 address: "Rruga Teuta, 4000 Shkodër, Albania"

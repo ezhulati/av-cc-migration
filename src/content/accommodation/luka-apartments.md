@@ -1,7 +1,7 @@
 ---
 title: "Luka Apartments"
 description: "Luka Apartments emerges as a serene retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Mango Beach."
-featuredImage: "/images/accommodation/luka-apartments-468392024.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468392024.jpg?k=10eefe281d5c3f708df7d737b016788da4842be107826c3a5c87b4948c2370ba&o=&hp=1"
 language: en
 slug: luka-apartments
 address: "Rruga Adem Jashari, 9701 Sarandë, Albania"

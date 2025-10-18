@@ -1,7 +1,7 @@
 ---
 title: "EJONA Villa"
 description: "EJONA Villa emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/ejona-villa-475218829.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475218829.jpg?k=1b4245fff2ea1bab48206c2f7bba0f3e3d969a186229e32b224766ba8f608fa2&o=&hp=1"
 language: en
 slug: ejona-villa
 address: "Rruga Mbreti Gjin, 2001 Durrës, Albania"

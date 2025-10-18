@@ -1,7 +1,7 @@
 ---
 title: "Enki's garden guesthouse"
 description: "Enki's Garden Guesthouse emerges as a charming retreat for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/enki-s-garden-guesthouse-405244300.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405244300.jpg?k=07c97a64def7ac8a551a19fb69feab5a74484575de5c9465625155d27a0661c3&o=&hp=1"
 language: en
 slug: enki-s-garden-guesthouse
 address: "Rruga 4 Dëshmorët 40, 8001 Tirana, Albania"

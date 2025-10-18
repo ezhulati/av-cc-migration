@@ -1,7 +1,7 @@
 ---
 title: "Apartment in the city center"
 description: "Apartment in the City Center emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life."
-featuredImage: "/images/accommodation/apartment-in-the-city-center-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: apartment-in-the-city-center
 address: "Rruga Mine Peza 1, 1025 Tirana, Albania"

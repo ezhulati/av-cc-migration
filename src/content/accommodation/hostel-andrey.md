@@ -1,7 +1,7 @@
 ---
 title: "Hostel Andrey"
 description: "Hostel Andrey, located in the vibrant heart of Sarandë within the Vlorë County region, emerges as a standout choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/hostel-andrey-319358679.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319358679.jpg?k=7c1f8bd280beea4daad6376f7b293d45517a181fdc0817a6c846af5d9d5744a2&o=&hp=1"
 language: en
 slug: hostel-andrey
 address: "Rruga Fejzo Mehmeti, 6000 Sarandë, Albania"

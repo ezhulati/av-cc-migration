@@ -1,7 +1,7 @@
 ---
 title: "Doci Seven Hotel"
 description: "Doci Seven Hotel emerges as a serene retreat in the vibrant heart of Velipojë, merely a stone's throw away from the pristine Velipoja Beach and the stunning Rana e Hedhun Beach."
-featuredImage: "/images/accommodation/doci-seven-hotel-252363576.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/252363576.jpg?k=e4a504efe9fbac0d55c41e498fa46c8cd80c8f6952e082e2b53c7827282c72b1&o=&hp=1"
 language: en
 slug: doci-seven-hotel
 address: "Rruga Shkoder - Velipoje, N. 14 , 4711 Velipojë, Albania"

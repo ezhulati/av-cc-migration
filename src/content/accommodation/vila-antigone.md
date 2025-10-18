@@ -1,7 +1,7 @@
 ---
 title: "Vila Antigone"
 description: "Vila Antigone emerges as a serene retreat in the historic heart of Gjirokastër, a mere stone's throw from the tranquil Zaravina Lake, located 44 km away."
-featuredImage: "/images/accommodation/vila-antigone-528293537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528293537.jpg?k=277a4377e04aaedd58d0c16e4db0fd17bb6da8e5acf14c95b92ff242f4cd9105&o=&hp=1"
 language: en
 slug: vila-antigone
 address: "Sinan shehu 02100017 20/2, 6017 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Superior Private Apartment at the Resort in Sarande"
 description: "Superior Private Apartment at the Resort in Sarande offers a refreshing escape with its air-conditioned accommodations topped by a rooftop pool, providing a unique blend of comfort and luxury in the heart of Sarandë."
-featuredImage: "/images/accommodation/superior-private-apartment-at-the-resort-in-sarande-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: superior-private-apartment-at-the-resort-in-sarande
 address: "Rr. Butrinti Rruga e Limoneve, nr. 4, 9701 Sarandë, Albania"

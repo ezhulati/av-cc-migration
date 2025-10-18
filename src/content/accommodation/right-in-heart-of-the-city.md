@@ -1,7 +1,7 @@
 ---
 title: "right in heart of the city"
 description: "Discover the epitome of urban convenience and comfort at \"Right in the Heart of the City,\" a premier accommodation choice located just 1."
-featuredImage: "/images/accommodation/right-in-heart-of-the-city-479450896.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479450896.jpg?k=ffc132e826c0c44456153bb1f9f5ccf089fb5fb7ed51e82ff773c7e27f91a454&o=&hp=1"
 language: en
 slug: right-in-heart-of-the-city
 address: "Rruga Nikolla Tupe 3, 1001 Tirana, Albania"

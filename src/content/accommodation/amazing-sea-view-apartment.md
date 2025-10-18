@@ -1,7 +1,7 @@
 ---
 title: "Amazing Sea View Apartment"
 description: "The Amazing Sea View Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, coupled with breathtaking views of the Ionian Sea."
-featuredImage: "/images/accommodation/amazing-sea-view-apartment-453098583.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453098583.jpg?k=0da7fea8041cec954646f536394c903582f377487dc1e4c23c8d40b3c6555555&o=&hp=1"
 language: en
 slug: amazing-sea-view-apartment
 address: "Rruga Qazim Demi, Sarandë, Albania"

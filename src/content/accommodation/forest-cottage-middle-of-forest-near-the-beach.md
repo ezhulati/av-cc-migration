@@ -1,7 +1,7 @@
 ---
 title: "Forest Cottage - middle of forest & near the beach"
 description: "Forest Cottage offers a serene escape, perfectly positioned in the heart of a lush forest and just a stone's throw from the beach, in the tranquil town of Golem."
-featuredImage: "/images/accommodation/forest-cottage-middle-of-forest-near-the-beach-464637111.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464637111.jpg?k=930a49299c7c8739a510c57bdc934445918ed1dae218afe64a71569882cdeddb&o=&hp=1"
 language: en
 slug: forest-cottage-middle-of-forest-near-the-beach
 address: "Rruga Qetesia, 2504 Golem, Albania"

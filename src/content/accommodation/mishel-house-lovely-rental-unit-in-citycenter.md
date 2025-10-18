@@ -1,7 +1,7 @@
 ---
 title: "Mishel House - Lovely rental unit in CityCenter"
 description: "Mishel House is a charming choice for travelers seeking convenience and comfort in the heart of Shkodër."
-featuredImage: "/images/accommodation/mishel-house-lovely-rental-unit-in-citycenter-508399049.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508399049.jpg?k=974a334662fc5906a175c1407a0b26b5e11d74036bee3c35de36b787ea28c664&o=&hp=1"
 language: en
 slug: mishel-house-lovely-rental-unit-in-citycenter
 address: "Rruga Berdicej, 4001 Shkodër, Albania"

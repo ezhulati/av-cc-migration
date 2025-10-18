@@ -1,7 +1,7 @@
 ---
 title: "DritaStar"
 description: "DritaStar emerges as a prime choice for travelers seeking a serene beachfront retreat in Durrës, mere steps from the pristine Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/dritastar-482761791.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482761791.jpg?k=bf7dde13365397d78872a09c929b7503c223f0543c0d4b03ab059f1f88aa7f96&o=&hp=1"
 language: en
 slug: dritastar
 address: "Ruga plazh 13 12 and 9, 2021 Durrës, Albania"

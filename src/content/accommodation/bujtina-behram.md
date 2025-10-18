@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Behram"
 description: "Bujtina Behram emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, positioned strategically within close proximity to the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/bujtina-behram-467588605.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467588605.jpg?k=419166a21d98e2626ba5a249660c52f9bf9e3638d7b79d28275c3449f3a601cd&o=&hp=1"
 language: en
 slug: bujtina-behram
 address: "2 Rruga Stefan Andrea, 7001 Korçë, Albania"

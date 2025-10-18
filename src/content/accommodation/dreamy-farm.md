@@ -1,7 +1,7 @@
 ---
 title: "Dreamy Farm"
 description: "Dreamy Farm emerges as a serene retreat in the vibrant city of Sarandë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/dreamy-farm-500735495.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500735495.jpg?k=045c0cd66a68433db45a58073b5989da6a1613b1894186512f97e290d360e5f4&o=&hp=1"
 language: en
 slug: dreamy-farm
 address: "SH99, 9716 Sarandë, Albania"

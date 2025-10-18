@@ -1,7 +1,7 @@
 ---
 title: "Shotgun Hostel"
 description: "Shotgun Hostel emerges as a charming retreat in Vuno, boasting a harmonious blend of communal spaces including a garden, lounge, and a terrace complemented by a welcoming bar."
-featuredImage: "/images/accommodation/shotgun-hostel-361592490.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361592490.jpg?k=2d4e9527c3f2dd88376dc349fce011ace13813e26dca2c25bf820992d1e7a422&o=&hp=1"
 language: en
 slug: shotgun-hostel
 address: "SH8, 9417 Vuno, Albania"

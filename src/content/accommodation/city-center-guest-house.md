@@ -1,7 +1,7 @@
 ---
 title: "City Center Guest House"
 description: "City Center Guest House emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/city-center-guest-house-469930289.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469930289.jpg?k=e59ec6caf79e2416cbaf933bdce7cd1defe8194fd89f25566eb9569d1b43f7db&o=&hp=1"
 language: en
 slug: city-center-guest-house
 address: "Rruga Skënderbeu, Sarandë, Albania"

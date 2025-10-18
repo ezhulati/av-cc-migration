@@ -1,7 +1,7 @@
 ---
 title: "Bar Restaurant Hotel ''Te Gusti''"
 description: "Discover the charm of Tamarë at the Bar Restaurant Hotel \"Te Gusti,\" a serene retreat located just a stone's throw away from the iconic Church of the Holy Heart of Jesus."
-featuredImage: "/images/accommodation/bar-restaurant-hotel-te-gusti-388220470.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388220470.jpg?k=9f42e37e62489ce267c524aa23c5baf7a594d42b099c9b222d61afa9561dc159&o=&hp=1"
 language: en
 slug: bar-restaurant-hotel-te-gusti
 address: "SH20 Center of TAMARE, Malesi e Madhe, Albania, 4304 Tamarë, Albania"

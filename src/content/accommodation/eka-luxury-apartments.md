@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury Apartments"
 description: "EKA Luxury Apartments stands out as a premier destination for travelers seeking exceptional accommodation in Durrës."
-featuredImage: "/images/accommodation/eka-luxury-apartments-206012654.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/206012654.jpg?k=4370fd72ee73e8d98dbc5a2f5c4c2c7f44e239fae60bdc8ad2e3bb7187b3c5b2&o=&hp=1"
 language: en
 slug: eka-luxury-apartments
 address: "Rruga 940, 1001 Durrës, Albania"

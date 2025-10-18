@@ -1,7 +1,7 @@
 ---
 title: "Jeriko apartment"
 description: "Jeriko Apartment emerges as a serene retreat in the heart of Orikum, offering a tranquil escape less than a kilometer from the pristine sands of Orikum Beach and a mere 11-minute stroll from the scenic Nettuno Beach."
-featuredImage: "/images/accommodation/jeriko-apartment-477677166.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477677166.jpg?k=1299921c3f46ec24de5898f014c4111c32269331acc775b7a547dbfc51d187a2&o=&hp=1"
 language: en
 slug: jeriko-apartment
 address: "Rruga Rradhime- Orikum, 9426 Orikum, Albania"

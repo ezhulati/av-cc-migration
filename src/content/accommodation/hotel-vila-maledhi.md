@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Maledhi"
 description: "Hotel Vila Maledhi stands out as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "/images/accommodation/hotel-vila-maledhi-463897857.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463897857.jpg?k=f67f1e2703c2b1405dd8f9a30b8f7643963f9ee9b35ca5e8ace7f3ae591b91a5&o=&hp=1"
 language: en
 slug: hotel-vila-maledhi
 address: "Rruga Pjeshkorja, 5001 Berat, Albania"

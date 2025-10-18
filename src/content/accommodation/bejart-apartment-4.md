@@ -1,7 +1,7 @@
 ---
 title: "Bejart Apartment 4"
 description: "Bejart Apartment 4 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/bejart-apartment-4-474124044.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474124044.jpg?k=45402210e31220cab7ec2ee57237cd25cd95c1d26cc04d82c22308ae9fd7f063&o=&hp=1"
 language: en
 slug: bejart-apartment-4
 address: "Rruga Hysen Hasan Huqi, 1001 Tirana, Albania"

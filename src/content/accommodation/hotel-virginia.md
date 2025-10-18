@@ -1,7 +1,7 @@
 ---
 title: "Hotel Virginia"
 description: "Hotel Virginia emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/hotel-virginia-204388063.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204388063.jpg?k=71c05f93ec773962b9ace4f0225c7a0b04bd021fd5228555c5ed6f26a12c9b11&o=&hp=1"
 language: en
 slug: hotel-virginia
 address: "Rruga Pavaresia, Lagjia 13, Teuta - Plazh, 2001 Durrës, Albania"

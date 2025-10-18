@@ -1,7 +1,7 @@
 ---
 title: "Art Apartment Clever"
 description: "Art Apartment Clever stands out as a modern oasis of comfort, merely 300 meters from the sun-kissed shores of Durres Beach."
-featuredImage: "/images/accommodation/art-apartment-clever-389999535.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389999535.jpg?k=7eb42b29652e0c1f90b860382ea891273c765342f1d0f1322c7bbc8095a970f1&o=&hp=1"
 language: en
 slug: art-apartment-clever
 address: "Rruga Bajram Curri, PLAZH/13, 2008 Durrës, Albania"

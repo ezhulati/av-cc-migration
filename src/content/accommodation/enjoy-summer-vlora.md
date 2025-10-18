@@ -1,7 +1,7 @@
 ---
 title: "Enjoy Summer Vlora"
 description: "Enjoy Summer Vlora stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/enjoy-summer-vlora-464727059.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464727059.jpg?k=3ba4c2285b2c76a113e6679b6262ff9a14728a890ca69608b40d00a0e1266971&o=&hp=1"
 language: en
 slug: enjoy-summer-vlora
 address: "Vlore - Kanine, 9401 Vlorë, Albania"

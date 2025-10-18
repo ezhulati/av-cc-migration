@@ -1,7 +1,7 @@
 ---
 title: "Legacy Boutique Hotel"
 description: "Legacy Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "/images/accommodation/legacy-boutique-hotel-340557563.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340557563.jpg?k=31695d0144f3ee049256aada6c5c78890ab9e044deff4788d54b6321253bdd96&o=&hp=1"
 language: en
 slug: legacy-boutique-hotel
 address: "Rruga Loni Grazhdani, 7001 Korçë, Albania"

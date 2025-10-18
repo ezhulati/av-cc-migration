@@ -1,7 +1,7 @@
 ---
 title: "Apartamente me Qera Golem"
 description: "Apartamente me Qera Golem emerges as a prime choice for travelers seeking comfort and convenience in Durrës, situated just a short stroll from the pristine sands of Golem Beach and the serene Mali I Robit Beach."
-featuredImage: "/images/accommodation/apartamente-me-qera-golem-482461554.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482461554.jpg?k=32465366c1ee079669ebe903cde0a8033510757a707efd7a93ebd5479188e6b6&o=&hp=1"
 language: en
 slug: apartamente-me-qera-golem
 address: "Rruga Deti Jon, Durrës, Albania"

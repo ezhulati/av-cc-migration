@@ -1,7 +1,7 @@
 ---
 title: "Orion Central Apartment"
 description: "Orion Central Apartment emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/orion-central-apartment-489214067.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489214067.jpg?k=a84a639211eb90570b5aa0f7d83de6963364f49e4297d943febc62fb88c14e08&o=&hp=1"
 language: en
 slug: orion-central-apartment
 address: "Rruga e Dibrës, 1010 Tirana, Albania"

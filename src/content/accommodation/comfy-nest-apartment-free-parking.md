@@ -1,7 +1,7 @@
 ---
 title: "Comfy Nest Apartment- free parking"
 description: "Comfy Nest Apartment, offering complimentary parking, stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/comfy-nest-apartment-free-parking-449785272.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449785272.jpg?k=51ce34ea964ae41bf373214daa324d08c44ea04328eeb3f50c863a97fc0eddc4&o=&hp=1"
 language: en
 slug: comfy-nest-apartment-free-parking
 address: "Rruga Siri Kodra prane ish frigoriferit, Tirana, Albania"

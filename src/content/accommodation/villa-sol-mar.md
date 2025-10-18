@@ -1,7 +1,7 @@
 ---
 title: "Villa Sol & Mar"
 description: "Villa Sol & Mar emerges as a prime choice for travelers seeking a blend of comfort and convenience, located merely a stone's throw away from the serene Mali I Robit Beach in Golem."
-featuredImage: "/images/accommodation/villa-sol-mar-151737521.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151737521.jpg?k=9459bef677ea3fa639fff22dfef35df0f53a87cee0d4c4293449de4e3f202b7a&o=&hp=1"
 language: en
 slug: villa-sol-mar
 address: "Bulevardi Pishave, 2504 Golem, Albania"

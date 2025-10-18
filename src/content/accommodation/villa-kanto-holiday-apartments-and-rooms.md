@@ -1,7 +1,7 @@
 ---
 title: "Villa Kanto (Holiday apartments and rooms)"
 description: "Villa Kanto, a charming holiday destination in Vlorë, stands out for its serene garden views and proximity to the pristine Vjetër Beach, just a mere 500 meters away, with Vlore Beach further enriching the locale at 2."
-featuredImage: "/images/accommodation/villa-kanto-holiday-apartments-and-rooms-462099895.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462099895.jpg?k=5b67671a920dafacbf78017e72fe7455f32a52b3098ed9bcb54bb73f57a16e71&o=&hp=1"
 language: en
 slug: villa-kanto-holiday-apartments-and-rooms
 address: "Vlore, Vlorë, Albania"

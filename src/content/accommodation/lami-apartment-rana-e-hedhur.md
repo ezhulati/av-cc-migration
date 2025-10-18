@@ -1,7 +1,7 @@
 ---
 title: "Lami Apartment rana e hedhur"
 description: "Lami Apartment Rana e Hedhur stands out as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/lami-apartment-rana-e-hedhur-449039349.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449039349.jpg?k=00a7dae683860b837b6939e1c59a01f4ac826d9c400c4b672d79a2e27dfe11dd&o=&hp=1"
 language: en
 slug: lami-apartment-rana-e-hedhur
 address: "Rruga Shengjin rana E hedhun, 4501 Shëngjin, Albania"

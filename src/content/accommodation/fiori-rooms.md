@@ -1,7 +1,7 @@
 ---
 title: "Fiori Rooms"
 description: "Fiori Rooms emerges as a modern oasis in the heart of Vlorë, boasting a prime location that's a stone's throw away from the serene Vjetër Beach and the historic Independence Square."
-featuredImage: "/images/accommodation/fiori-rooms-369264118.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369264118.jpg?k=b3b7a03514962af1d4c153c5e3ecc9e6d61b8f5d6a623e983cf102380b2ab9dc&o=&hp=1"
 language: en
 slug: fiori-rooms
 address: "Rruga Mahmude Llagji, 9401 Vlorë, Albania"

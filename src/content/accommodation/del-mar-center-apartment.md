@@ -1,7 +1,7 @@
 ---
 title: "Del Mar Center Apartment"
 description: "Del Mar Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from the pristine Vlore Beach and within easy reach of Vjetër Beach."
-featuredImage: "/images/accommodation/del-mar-center-apartment-392358239.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392358239.jpg?k=6d9d05e28e67b9420ee3af7ca67165c1bc83728e80c8bd83fce81dbcc2c241f5&o=&hp=1"
 language: en
 slug: del-mar-center-apartment
 address: "Rruga Çamëria, 9401 Vlorë, Albania"

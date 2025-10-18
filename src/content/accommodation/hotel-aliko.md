@@ -1,7 +1,7 @@
 ---
 title: "Hotel Aliko"
 description: "Hotel Aliko emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/hotel-aliko-303881496.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303881496.jpg?k=6b38f203597134bb1649312aa738d7692f7f3187c1ed7cc284f9a1eeacc54594&o=&hp=1"
 language: en
 slug: hotel-aliko
 address: "Rruga Aleksander Moisiu, 9400 Vlorë, Albania"

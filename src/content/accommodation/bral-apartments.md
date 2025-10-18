@@ -1,7 +1,7 @@
 ---
 title: "Bral Apartments"
 description: "Bral Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, coupled with stunning sea views."
-featuredImage: "/images/accommodation/bral-apartments-222511510.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/222511510.jpg?k=6afa6a817bdd20dabf874915d4b35085f0e4a2af2e17ae1016b27a0f946c3e72&o=&hp=1"
 language: en
 slug: bral-apartments
 address: "Rruga Pavaresia Front of Kavalishenca and Tropikal Resort, 2008 Durrës, Albania"

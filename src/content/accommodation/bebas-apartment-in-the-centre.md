@@ -1,7 +1,7 @@
 ---
 title: "Bebas apartment in the centre"
 description: "Bebas Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Saranda."
-featuredImage: "/images/accommodation/bebas-apartment-in-the-centre-476238405.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476238405.jpg?k=6917a31c287b75923c62d1c850480bd929b3e97865481272b5a58ad2dca24f6e&o=&hp=1"
 language: en
 slug: bebas-apartment-in-the-centre
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "HB Apartments Vlore"
 description: "HB Apartments Vlore emerges as a modern oasis in the heart of Vlorë, a stone's throw away from the serene Vjetër Beach, the historic Independence Square, and the iconic Kuzum Baba."
-featuredImage: "/images/accommodation/hb-apartments-vlore-512944221.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512944221.jpg?k=37324cb4f3989a313bec01c888d1e1a4bb9efc70a9ea8107b92f6f1cea8b2d7c&o=&hp=1"
 language: en
 slug: hb-apartments-vlore
 address: "Rr.Hasan Kushta, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mountain Meets Sea-Spectacular View in Orikum Apartment"
 description: "Mountain Meets Sea-Spectacular View in Orikum Apartment emerges as a prime choice for travelers seeking the perfect blend of mountain tranquility and sea breeze."
-featuredImage: "/images/accommodation/mountain-meets-sea-spectacular-view-in-orikum-apartment-449300220.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449300220.jpg?k=955c5a012e8ebf744db25e7baac8699e27b38527fb1ade81bed3403476a8b088&o=&hp=1"
 language: en
 slug: mountain-meets-sea-spectacular-view-in-orikum-apartment
 address: "Rruga Orikum, Orikum, Albania"

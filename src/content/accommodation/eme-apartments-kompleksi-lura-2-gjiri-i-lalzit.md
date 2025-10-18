@@ -1,7 +1,7 @@
 ---
 title: "EME APARTMENTS - Kompleksi Lura 2 Gjiri i Lalzit"
 description: "EME APARTMENTS - Kompleksi Lura 2 Gjiri i Lalzit stands as a beacon of comfort and convenience, located just a stone's throw away from the serene Lalëz Bay Beach and within a reasonable distance from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/eme-apartments-kompleksi-lura-2-gjiri-i-lalzit-306713075.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306713075.jpg?k=3ea0209cc58342d0003e9424a59376c0450ed5135166f955af2b7b98fbefa05b&o=&hp=1"
 language: en
 slug: eme-apartments-kompleksi-lura-2-gjiri-i-lalzit
 address: "Lura Resort Gjiri i Lalzit, 2000 Durrës, Albania"

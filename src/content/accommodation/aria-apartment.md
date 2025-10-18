@@ -1,7 +1,7 @@
 ---
 title: "Aria Apartment"
 description: "Aria Apartment emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/aria-apartment-photo.jpg64.jpg"
+featuredImage: "https://lh4.googleusercontent.com/-2mTCQ_y27b4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfzPwLNdSJDKwzPtqN5wEpKW2xVUA/photo.jpg64"
 language: en
 slug: aria-apartment
 address: "5001 Bulevardi Republika, 5001 Berat, Albania"

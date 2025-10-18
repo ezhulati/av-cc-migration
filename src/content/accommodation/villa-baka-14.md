@@ -1,7 +1,7 @@
 ---
 title: "Villa Baka 14"
 description: "Villa Baka 14 emerges as a serene oasis in Durrës, perfectly positioned just a short 1."
-featuredImage: "/images/accommodation/villa-baka-14-484995045.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484995045.jpg?k=1a69f08a33f889048fd6bbc62bcff6f028b186647cf2eb22596e474d8d69008f&o=&hp=1"
 language: en
 slug: villa-baka-14
 address: "Rruga e Yjeve Nd 14,1, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel MS"
 description: "Hotel MS stands as a beacon of comfort and convenience in the heart of Sarandë, offering guests an exceptional stay with its stunning sea views and easy beach access."
-featuredImage: "/images/accommodation/hotel-ms-104597688.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/104597688.jpg?k=b9d2b44ed8a14a0ad1fba4cb9b3aeb8b1adc87f71592d166698daab161f2e8b7&o=&hp=1"
 language: en
 slug: hotel-ms
 address: "Rruga \"Bilal Golemi\", 9701 Sarandë, Albania"

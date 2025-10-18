@@ -1,7 +1,7 @@
 ---
 title: "Apartments Kraja"
 description: "Apartments Kraja emerges as a prime choice for travelers seeking a blend of comfort and convenience in Velipojë."
-featuredImage: "/images/accommodation/apartments-kraja-231846699.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/231846699.jpg?k=a9d2cfc2c24146b7d79fe37ee05bb71ee7b62fe1a4a26bd909661193bb766ebd&o=&hp=1"
 language: en
 slug: apartments-kraja
 address: "Vilu Prane Hidrovorit, 4005 Velipojë, Albania"

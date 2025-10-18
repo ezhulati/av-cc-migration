@@ -1,7 +1,7 @@
 ---
 title: "Bea City Center Apartment"
 description: "Bea City Center Apartment emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/bea-city-center-apartment-494299009.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494299009.jpg?k=a97ec7b2704de86b5485d248410e483cc289b5e15a1424556c47dfd254a033c3&o=&hp=1"
 language: en
 slug: bea-city-center-apartment
 address: "Rriga Sheshi Sulejman Pasha. Nd1. H6, Ap 10, 1001 Tirana, Albania"

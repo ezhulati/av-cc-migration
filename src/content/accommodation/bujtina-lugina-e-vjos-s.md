@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Lugina e vjosës"
 description: "Bujtina Lugina e Vjosës stands out as a serene retreat in Përmet, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/bujtina-lugina-e-vjos-s-493722612.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493722612.jpg?k=29292a86115ad33c3fdfad7d2cdca976f7e3401552d98c30105f8ad067f92dd3&o=&hp=1"
 language: en
 slug: bujtina-lugina-e-vjos-s
 address: "Përmet Petran, 6401 Përmet, Albania"

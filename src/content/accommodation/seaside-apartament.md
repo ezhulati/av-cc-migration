@@ -1,7 +1,7 @@
 ---
 title: "Seaside Apartament"
 description: "Seaside Apartament in Vlorë offers an exceptional beachfront experience, just a stone's throw away from Ri Beach."
-featuredImage: "/images/accommodation/seaside-apartament-504018799.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504018799.jpg?k=7d32724d51615d82f019a1e454bd38d9cf87b9e5dba14b01c11064aedd93fdaa&o=&hp=1"
 language: en
 slug: seaside-apartament
 address: "Rruga Murat Terbaci, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "New Baazar Escape Home"
 description: "Discover the charm of Tirana with a stay at New Baazar Escape Home, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/new-baazar-escape-home-401991843.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401991843.jpg?k=2f0a56f00b237bdbf8fc0c1d2789cd3ab0ea17a3b2cd06e0708e7b652170b410&o=&hp=1"
 language: en
 slug: new-baazar-escape-home
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

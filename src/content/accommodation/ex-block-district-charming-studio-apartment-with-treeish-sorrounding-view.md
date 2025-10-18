@@ -1,7 +1,7 @@
 ---
 title: "Ex-Block District charming studio apartment with treeish sorrounding view!"
 description: "Ex-Block District Charming Studio Apartment emerges as a serene oasis in the heart of Tirana, offering a unique blend of city convenience and tranquil tree-lined views."
-featuredImage: "/images/accommodation/ex-block-district-charming-studio-apartment-with-treeish-sorrounding-view-332006150.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332006150.jpg?k=0e9b4b1d7600bb995632333f216686c4e7163afbb9a2588269a2507fb408096d&o=&hp=1"
 language: en
 slug: ex-block-district-charming-studio-apartment-with-treeish-sorrounding-view
 address: "2 Rruga Moskat, 1019 Tirana, Albania"

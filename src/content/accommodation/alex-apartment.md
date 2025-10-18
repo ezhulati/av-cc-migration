@@ -1,7 +1,7 @@
 ---
 title: "Alex apartment"
 description: "Alex Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/alex-apartment-449692851.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449692851.jpg?k=0b2df1b8de62ff224266c49a3a02c47c94e2dd5aeed2fdd1d7ccff7b1c603335&o=&hp=1"
 language: en
 slug: alex-apartment
 address: "Saranda, AL - Corfu, GR, 7201 Sarandë, Albania"

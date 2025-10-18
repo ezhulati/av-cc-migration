@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Family Doko"
 description: "Discover the charm of Berat with a stay at Guesthouse Family Doko, a property that stands out for its thoughtful amenities and breathtaking mountain views."
-featuredImage: "/images/accommodation/guesthouse-family-doko-451224585.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451224585.jpg?k=b3b05ca213f35b4c4e16e37b82590a367ef21a77e7d03face10755c8dba66f72&o=&hp=1"
 language: en
 slug: guesthouse-family-doko
 address: "Rruga Asllan Selami, 5000 Berat, Albania"

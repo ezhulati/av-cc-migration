@@ -1,7 +1,7 @@
 ---
 title: "La Grand - New Bazaar"
 description: "La Grand - New Bazaar emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/la-grand-new-bazaar-407297465.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407297465.jpg?k=28cace4aa4ecc1c6e0918fc298e153c638e181b13c9fc37e754e0db097ce3ec9&o=&hp=1"
 language: en
 slug: la-grand-new-bazaar
 address: "Rruga Hoxha Tahsim, 1001 Tirana, Albania"

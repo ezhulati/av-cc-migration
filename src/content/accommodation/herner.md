@@ -1,7 +1,7 @@
 ---
 title: "HERNER"
 description: "HERNER stands as a serene oasis in Vlorë, offering guests a unique blend of comfort and convenience with its spa bath-equipped accommodations and easy access to the city's highlights."
-featuredImage: "/images/accommodation/herner-522078572.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522078572.jpg?k=45539bde271f617de112b4fb215c245b0202a10a24bc1716612d73cb946a377b&o=&hp=1"
 language: en
 slug: herner
 address: "Rruga Sokrat Leka, Vlorë, Albania"

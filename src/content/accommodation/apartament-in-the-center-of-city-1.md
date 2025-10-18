@@ -1,7 +1,7 @@
 ---
 title: "Apartament in the center of city 1"
 description: "Discover the charm of Vlorë with a stay at Apartament in the center of city 1, a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/apartament-in-the-center-of-city-1-436249392.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436249392.jpg?k=a103925b9263da4a587e5f5da734ce750adc6ff6157bf7540cc38d6abc40d513&o=&hp=1"
 language: en
 slug: apartament-in-the-center-of-city-1
 address: "Rruga Shyqyri Ali Merka 2, 9140 Vlorë, Albania"

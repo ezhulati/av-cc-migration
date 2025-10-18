@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Rooms"
 description: "Deluxe Rooms emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, positioned just a few steps from the pristine Maestral Beach, a mere 200 meters from the charming La Petite Beach, and an easy 600-meter stroll to Saranda City Beach."
-featuredImage: "/images/accommodation/deluxe-rooms-469815827.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469815827.jpg?k=1ac2e194268da7a6f55fc2f2b3321d10c494c78debdc7efba6d1c2db7a2c1ce2&o=&hp=1"
 language: en
 slug: deluxe-rooms
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

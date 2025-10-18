@@ -1,7 +1,7 @@
 ---
 title: "Villa Besnik, rooms for rent"
 description: "Villa Besnik emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from Vjetër Beach and a short distance from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/villa-besnik-rooms-for-rent-442702780.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442702780.jpg?k=c2b27d562fc3b9612f5e1d0cc7ea4e090c3e9487ad10859e6e95622708447028&o=&hp=1"
 language: en
 slug: villa-besnik-rooms-for-rent
 address: "Plazhi i Vjeter, Rr. Sazani, Vlorë, Albania, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Aquamarine Apartments"
 description: "Aquamarine Apartments emerges as a premier choice for travelers seeking luxury accommodations right on the waterfront in Sarandë."
-featuredImage: "/images/accommodation/aquamarine-apartments-368942343.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368942343.jpg?k=61143776d806216fb3daa1838971f011879769da6a4a01d981ff53ea27596848&o=&hp=1"
 language: en
 slug: aquamarine-apartments
 address: "Naim Frasheri Street, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Ceku"
 description: "Vila Ceku emerges as a charming retreat in the heart of Dardhë, offering guests a seamless blend of comfort and convenience with its comprehensive amenities."
-featuredImage: "/images/accommodation/vila-ceku-526728906.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526728906.jpg?k=7ac46d20b9740a1c4eb9643ed50fa01de8b00cbb6fccaaa51dcbfb21e8b83f56&o=&hp=1"
 language: en
 slug: vila-ceku
 address: "Qender fshatit dardhe, Dardhë, Albania"

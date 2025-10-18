@@ -1,7 +1,7 @@
 ---
 title: "Likehome Center 2"
 description: "Likehome Center 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/likehome-center-2-528435701.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528435701.jpg?k=a1cdb3c7e07fd9e2c1dde1e4328ff437f4a41b6f974b1d833e86eaac3531dfe3&o=&hp=1"
 language: en
 slug: likehome-center-2
 address: "Bulevardi Gjergj Fishta, 1060 Tirana, Albania"

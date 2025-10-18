@@ -1,7 +1,7 @@
 ---
 title: "Max's apartment"
 description: "Max's Apartment in Sarandë presents an ideal retreat for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/max-s-apartment-364552208.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364552208.jpg?k=9467175f6b49c8df52c5498fa6409e8f1d8851ac7b6d8dabaeb2a83858963668&o=&hp=1"
 language: en
 slug: max-s-apartment
 address: "Rruga Gjergj Araniti Iliria Apartments, Entrance 2, Apartment 94, Sarandë, Albania"

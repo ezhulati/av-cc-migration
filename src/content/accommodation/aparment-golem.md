@@ -1,7 +1,7 @@
 ---
 title: "Aparment Golem"
 description: "Apartment Golem emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golemas."
-featuredImage: "/images/accommodation/aparment-golem-485420467.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485420467.jpg?k=67031182ed4dbbf0ab95c1ce65ac0dfc70a3e287ffbdc1bda951f2d1669a4ed0&o=&hp=1"
 language: en
 slug: aparment-golem
 address: "7G99+2CJ, SH4, Durrës 2nd floor, 2504 Golemas, Albania"

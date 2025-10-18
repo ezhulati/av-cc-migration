@@ -1,7 +1,7 @@
 ---
 title: "Dmitrii Apartment"
 description: "Dmitrii Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/dmitrii-apartment-510953352.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510953352.jpg?k=966c608fc49e607055c81218cc35a974c1615038e399358f19d00ec0d26c20a4&o=&hp=1"
 language: en
 slug: dmitrii-apartment
 address: "SH4, 2001 Durrës, Albania"

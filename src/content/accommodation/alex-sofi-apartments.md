@@ -1,7 +1,7 @@
 ---
 title: "Alex & Sofi Apartments"
 description: "Alex & Sofi Apartments stands as a prime choice for travelers seeking a serene beachfront retreat in Himare, just a stone's throw away from the pristine Livadhi Beach."
-featuredImage: "/images/accommodation/alex-sofi-apartments-365430324.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365430324.jpg?k=63a66917392ff5aa28f80da24fff2c73d1e00a4939cb0b513bd678406eaa8f9d&o=&hp=1"
 language: en
 slug: alex-sofi-apartments
 address: "Himare - Livadh Beach, 9425 Himare, Albania"

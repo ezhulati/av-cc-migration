@@ -1,7 +1,7 @@
 ---
 title: "By Breeze Apartments"
 description: "By Breeze Apartments emerges as a serene retreat in Durrës, a mere stone's throw from the pristine Lalëz Bay Beach and within a comfortable distance from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/by-breeze-apartments-376129159.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376129159.jpg?k=3daabe6012e14d72ace870a5262f9b4fc3c557f650ae92768cef85a7490b3d6d&o=&hp=1"
 language: en
 slug: by-breeze-apartments
 address: "Plazhi San Pietro, Gjiri i Lalzit, Albania, 2001 Durrës, Albania"

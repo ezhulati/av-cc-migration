@@ -1,7 +1,7 @@
 ---
 title: "Erblin's Apartment"
 description: "Erblin's Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/erblin-s-apartment-416740940.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416740940.jpg?k=9f36505a24f6d19d99c0897eb55795ee6e48dc98478a8cd6e5585dc44d496a40&o=&hp=1"
 language: en
 slug: erblin-s-apartment
 address: "Rruga Irfan Tomini 57 Apartment 4, 2-nd floor, 1020 Tirana, Albania"

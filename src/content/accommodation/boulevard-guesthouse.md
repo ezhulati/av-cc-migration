@@ -1,7 +1,7 @@
 ---
 title: "BoulevarD Guesthouse"
 description: "BoulevarD Guesthouse emerges as a breath of fresh air in the heart of Korçë, standing out for its recent renovations and its picturesque setting just 44 km away from the serene Ohrid Lake Springs."
-featuredImage: "/images/accommodation/boulevard-guesthouse-507640339.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507640339.jpg?k=6ec46acf6bd3b96cf14ab84ce1531de737789172ad3ff1d26b65f55c9e62587f&o=&hp=1"
 language: en
 slug: boulevard-guesthouse
 address: "Bulevardi Fan Noli, 7000 Korçë, Albania"

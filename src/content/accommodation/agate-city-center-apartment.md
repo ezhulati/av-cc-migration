@@ -1,7 +1,7 @@
 ---
 title: "AGATE City Center Apartment"
 description: "AGATE City Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/agate-city-center-apartment-500511495.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500511495.jpg?k=46f63842534b29da37d0431fb4c0fdd52edc6e9b054250d7198e7edff2bc2007&o=&hp=1"
 language: en
 slug: agate-city-center-apartment
 address: "Rruga Shyqyri Bërxolli 4b 2nd floor, 1001 Tirana, Albania"

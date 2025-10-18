@@ -1,7 +1,7 @@
 ---
 title: "Villa Miro"
 description: "Villa Miro emerges as a standout choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/villa-miro-491306937.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491306937.jpg?k=a45e55934799d33d2ea6d24b6c08110e2b457d09adcdd93264655b766f731e65&o=&hp=1"
 language: en
 slug: villa-miro
 address: "Rruga Natyra e Qete, 1001 Golem, Albania"

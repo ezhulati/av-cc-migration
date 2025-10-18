@@ -1,7 +1,7 @@
 ---
 title: "La villa al mare"
 description: "La Villa al Mare emerges as a serene retreat, offering guests a unique blend of comfort and convenience with its prime location just over a kilometer from the sun-drenched shores of Durres Beach."
-featuredImage: "/images/accommodation/la-villa-al-mare-483138253.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483138253.jpg?k=6494449a063a3ee2469aded77c5bbb7ec3044330cfb9dd605d17bcbd07368a63&o=&hp=1"
 language: en
 slug: la-villa-al-mare
 address: "Rruga Bajram Tusha, 2007 Durrës, Albania"

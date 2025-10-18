@@ -1,7 +1,7 @@
 ---
 title: "Polka w Durres Apartments"
 description: "Polka w Durres Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/polka-w-durres-apartments-484593824.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484593824.jpg?k=76c275d4685b9caa5b54cbc82daa78a587083f8ec27e43789406782b26392b28&o=&hp=1"
 language: en
 slug: polka-w-durres-apartments
 address: "8F7F+R4M, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Reina Suite"
 description: "Reina Suite emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "/images/accommodation/reina-suite-470920210.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470920210.jpg?k=9cf5ac35449271ee68378749e97d5c8d3beb98c42002d6c8de49cf6d52b31f7b&o=&hp=1"
 language: en
 slug: reina-suite
 address: "Lagjia 13, rruga Pavaresia, Ura e Dajlanit Plazh Durrës, 2001 Durrës, Albania"

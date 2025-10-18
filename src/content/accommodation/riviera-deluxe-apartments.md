@@ -1,7 +1,7 @@
 ---
 title: "Riviera Deluxe Apartments"
 description: "Riviera Deluxe Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/riviera-deluxe-apartments-481539355.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481539355.jpg?k=ec21f5d455da53e62abed1a9586f0776538e5d2f873654838deb8e72d63739fa&o=&hp=1"
 language: en
 slug: riviera-deluxe-apartments
 address: "Rr. Kosova 8, 9401 Vlorë, Albania"

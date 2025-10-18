@@ -1,7 +1,7 @@
 ---
 title: "The Sea House Velipoje"
 description: "The Sea House Velipoje emerges as a prime choice for travelers seeking the perfect blend of comfort and natural beauty right on the doorstep of Velipoja Beach, with the stunning Rana e Hedhun Beach just a short stroll away."
-featuredImage: "/images/accommodation/the-sea-house-velipoje-photo.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-svGxQ9nbMb8/AAAAAAAAAAI/AAAAAAAAFPc/a-xLNt87xHM/photo.jpg?sz=64"
 language: en
 slug: the-sea-house-velipoje
 address: "PLAZH VELIPOJE, 4020 Velipojë, Albania"

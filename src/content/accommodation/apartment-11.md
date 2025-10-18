@@ -1,7 +1,7 @@
 ---
 title: "Apartment 11"
 description: "Apartment 11 emerges as a prime choice for travelers seeking comfort and convenience in Sauk, offering a spacious, air-conditioned retreat complete with a balcony and complimentary WiFi."
-featuredImage: "/images/accommodation/apartment-11-490113388.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490113388.jpg?k=afa96d196fa924e5ff3ca62274ef90441fd279404228ddf40ac3da73cafc1cdb&o=&hp=1"
 language: en
 slug: apartment-11
 address: "Rruga Selim Brahja 2, 1044 Sauk, Albania"

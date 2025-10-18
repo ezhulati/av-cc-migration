@@ -1,7 +1,7 @@
 ---
 title: "Guest house Hava Baci"
 description: "Guest House Hava Baci emerges as a charming retreat in the heart of Berat's historic quarter, merely a kilometer away from the iconic Berat Castle."
-featuredImage: "/images/accommodation/guest-house-hava-baci-176643124.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/176643124.jpg?k=e6063cb000fa487e6ea87c3ca922746cac3ff2ef51f92a06cee3d1460aa20b28&o=&hp=1"
 language: en
 slug: guest-house-hava-baci
 address: "Mangalem, Koli Myzeqari, 5001 Berat, Albania"

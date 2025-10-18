@@ -1,7 +1,7 @@
 ---
 title: "Sion Saranda Apartment 19"
 description: "Sion Saranda Apartment 19 emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
-featuredImage: "/images/accommodation/sion-saranda-apartment-19-401192147.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401192147.jpg?k=8cecb9bb2f2620e211883b1539157bc328b13b46d9af57e2c03d480a558dd3d7&o=&hp=1"
 language: en
 slug: sion-saranda-apartment-19
 address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"

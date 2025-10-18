@@ -1,7 +1,7 @@
 ---
 title: "Mark Hotel Tirana"
 description: "Mark Hotel Tirana emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/mark-hotel-tirana-359359955.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359359955.jpg?k=027b33902416a79eb6d10d51380b73a6de4fe2275772ffc5d5217b7c2a2c00dd&o=&hp=1"
 language: en
 slug: mark-hotel-tirana
 address: "Tirana-Durres Highway, Domje, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "PALMA city HOTEL"
 description: "Discover the charm of PALMA city HOTEL, a gem that stands out for its prime location right by the beach, offering guests the perfect blend of convenience and comfort."
-featuredImage: "/images/accommodation/palma-city-hotel-197549338.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197549338.jpg?k=55d70265aed39394e3b3353e810ad27c860d7ece4e6dce651176c6a56a6cc3fc&o=&hp=1"
 language: en
 slug: palma-city-hotel
 address: "Mithat Hoxha, 1000 Sarandë, Albania"

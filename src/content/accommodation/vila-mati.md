@@ -1,7 +1,7 @@
 ---
 title: "Vila Mati"
 description: "Vila Mati emerges as a serene retreat in Himare, striking a perfect balance between convenience and tranquility."
-featuredImage: "/images/accommodation/vila-mati-494890133.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494890133.jpg?k=198537b56f2407957ac875140858ada428de77b0e37c26925f875ab696a1abc1&o=&hp=1"
 language: en
 slug: vila-mati
 address: "Borsh, Vlore, Albania, Himare, Albania"

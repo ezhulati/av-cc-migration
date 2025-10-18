@@ -1,7 +1,7 @@
 ---
 title: "Xhuli Guesthouse"
 description: "Xhuli Guesthouse in Shkodër stands out as a serene retreat offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/xhuli-guesthouse-371903312.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371903312.jpg?k=e245b646aced267226fff3323bb343a30274bf9fa57b45e15720f52a823b1ebe&o=&hp=1"
 language: en
 slug: xhuli-guesthouse
 address: "Shkoder Bypass, 4001 Shkodër, Albania"

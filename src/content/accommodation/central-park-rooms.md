@@ -1,7 +1,7 @@
 ---
 title: "Central Park Rooms"
 description: "Central Park Rooms emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-park-rooms-414891770.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414891770.jpg?k=e77d5301b6a4ccc0097635b3499c1bd8e6dc47c08a27c609baa414c3c30ac976&o=&hp=1"
 language: en
 slug: central-park-rooms
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

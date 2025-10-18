@@ -1,7 +1,7 @@
 ---
 title: "Luna Mare Seaside Suites"
 description: "Luna Mare Seaside Suites emerges as a gem on the Borsh coastline, boasting a private beach area and breathtaking sea views."
-featuredImage: "/images/accommodation/luna-mare-seaside-suites-366283216.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366283216.jpg?k=25fa1541596e3cdf730dc410eebdb9aeb1c73bc3e39568a2cd97a238947144dc&o=&hp=1"
 language: en
 slug: luna-mare-seaside-suites
 address: "Rruga Plazhit 4, 9714 Borsh, Albania"

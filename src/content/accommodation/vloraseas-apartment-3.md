@@ -1,7 +1,7 @@
 ---
 title: "VloraSeas Apartment 3"
 description: "VloraSeas Apartment 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/vloraseas-apartment-3-486735104.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486735104.jpg?k=16ecb33e90b487da50a37e03e9e57915a575757b6409e4f838f8779eef852a84&o=&hp=1"
 language: en
 slug: vloraseas-apartment-3
 address: "Rruga Reshat Osmani, Vlorë, Albania"

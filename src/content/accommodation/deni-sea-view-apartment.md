@@ -1,7 +1,7 @@
 ---
 title: "Deni Sea View Apartment"
 description: "Deni Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty, just a stone's throw away from Liro Beach."
-featuredImage: "/images/accommodation/deni-sea-view-apartment-145666751.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145666751.jpg?k=ca60ce08f801f62c17d92e2e0336d1439680cefa0a099ea86d8a389a71f67e65&o=&hp=1"
 language: en
 slug: deni-sea-view-apartment
 address: "Rruga Aleksandër Moisiu Blue Wave kati i 2 Apt. 3, 9403 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Modern cozy apartment seaview"
 description: "Discover the epitome of coastal living at Modern Cozy Apartment Seaview, a prime beachfront gem in Vlorë."
-featuredImage: "/images/accommodation/modern-cozy-apartment-seaview-102401392.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102401392.jpg?k=bc5c699eceadd6927dc1a7f08317b4436d9c4aa1312a3868657247012729ca87&o=&hp=1"
 language: en
 slug: modern-cozy-apartment-seaview
 address: "Rr mis durham 4 kullat anakonda prane cafe napoli 9640, 9640 Vlorë, Albania"

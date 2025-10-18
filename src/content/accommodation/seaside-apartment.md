@@ -1,7 +1,7 @@
 ---
 title: "Seaside Apartment"
 description: "Seaside Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/seaside-apartment-468136900.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468136900.jpg?k=b4ed0aae357791cbffa4bc7f2c88c37b180798c31070511e95d00fedc90954d8&o=&hp=1"
 language: en
 slug: seaside-apartment
 address: "SH8, Rruga Kryesore Radhime, 9401 Vlorë, Albania"

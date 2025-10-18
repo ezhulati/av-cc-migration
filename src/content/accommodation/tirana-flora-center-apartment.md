@@ -1,7 +1,7 @@
 ---
 title: "Tirana Flora Center Apartment"
 description: "Tirana Flora Center Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-flora-center-apartment-476410004.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476410004.jpg?k=e5cd50a723f2ad69de36fb6425556e508ac2d0cc4ffff345201fa2bd7a324736&o=&hp=1"
 language: en
 slug: tirana-flora-center-apartment
 address: "Rruga e Durrësit, Tirana, Albania"

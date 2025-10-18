@@ -1,7 +1,7 @@
 ---
 title: "Cosy central apartment"
 description: "Cosy Central Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Shkodër, located just 48 km from the Port of Bar."
-featuredImage: "/images/accommodation/cosy-central-apartment-455110628.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455110628.jpg?k=56304a6ddb19cd22c83db922ac2757de276cc90c5e486670467a9a8a55684f6d&o=&hp=1"
 language: en
 slug: cosy-central-apartment
 address: "RR.HAFIZ SABRI BUSHATI 5 floor, 4001 Shkodër, Albania"

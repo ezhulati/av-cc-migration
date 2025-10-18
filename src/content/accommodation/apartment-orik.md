@@ -1,7 +1,7 @@
 ---
 title: "Apartment Orik"
 description: "Apartment Orik emerges as a prime choice for travelers seeking comfort and convenience in Orikum, located just a short distance from the pristine shores of Nettuno Beach and Orikum Beach."
-featuredImage: "/images/accommodation/apartment-orik-b56c632712cb.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
 language: en
 slug: apartment-orik
 address: "Bulevardi Princesha Rugjine, Orikum, 9426 Orikum, Albania"

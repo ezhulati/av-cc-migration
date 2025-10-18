@@ -1,7 +1,7 @@
 ---
 title: "Guest house Stela"
 description: "Guest House Stela emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/guest-house-stela-476066259.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476066259.jpg?k=1ac4c1c7c983bd908758490544996ddba823c83969b7bae47d530c5825429af0&o=&hp=1"
 language: en
 slug: guest-house-stela
 address: "Rruga Lluke Kacaj, Tirana, Albania"

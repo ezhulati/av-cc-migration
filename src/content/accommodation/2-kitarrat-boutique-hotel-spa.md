@@ -1,7 +1,7 @@
 ---
 title: "2 KITARRAT Boutique Hotel & SPA"
 description: "2 KITARRAT Boutique Hotel & SPA stands out as a premier destination for travelers seeking a blend of comfort, luxury, and convenience in Durrës."
-featuredImage: "/images/accommodation/2-kitarrat-boutique-hotel-spa-22363545.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22363545.jpg?k=2b958c8c52753f70c4c3c27db57ad5d6dde53c20f23e60a7f4a25c4df9527c46&o=&hp=1"
 language: en
 slug: 2-kitarrat-boutique-hotel-spa
 address: "Lagjia nr. 1, Rruga Taulantia, 4000 Durrës, Albania"

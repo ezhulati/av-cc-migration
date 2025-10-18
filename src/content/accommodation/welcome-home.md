@@ -1,7 +1,7 @@
 ---
 title: "Welcome home"
 description: "Welcome Home emerges as a serene retreat offering breathtaking mountain views, strategically positioned 39 km from the historic landmarks of Kalaja Fortress Prizren, Albanian League of Prizren Museum, and Sinan Pasha Mosque."
-featuredImage: "/images/accommodation/welcome-home-475624703.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475624703.jpg?k=b0499f9cc35b31482d5be28c0ebc982f444ce5602118a6b1fb2a5a03cc95cbdc&o=&hp=1"
 language: en
 slug: welcome-home
 address: "Lagjia 5 kukes, 8500 Kukës, Albania"

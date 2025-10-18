@@ -1,7 +1,7 @@
 ---
 title: "Alpha Auriga Quiet Apartment"
 description: "Alpha Auriga Quiet Apartment emerges as a serene haven in the vibrant heart of Tirana, offering a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/alpha-auriga-quiet-apartment-497436863.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497436863.jpg?k=267b2af2366de77bdd270c2e6be23e91c5f4cd13b3a04618414e09d94dce92bc&o=&hp=1"
 language: en
 slug: alpha-auriga-quiet-apartment
 address: "Rruga Frosina Plaku Pallati Auriga H 2 Apt 2034, 1023 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "House 28"
 description: "House 28 emerges as a serene retreat in Orikum, a mere stone's throw away from the pristine Nettuno Beach, just 1."
-featuredImage: "/images/accommodation/house-28-photo.jpg64.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-g0Icf0c5RoM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSc3iNWEb0WszyEPWaW1fLO_f7cQ/s96-c/photo.jpg64"
 language: en
 slug: house-28
 address: "Rruga Gjergj Kastrioti, 9426 Orikum, Albania"

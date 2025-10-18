@@ -1,7 +1,7 @@
 ---
 title: "Villa Oasis"
 description: "Villa Oasis stands out as a serene retreat in Berat, offering guests a unique blend of comfort and convenience with its well-appointed accommodations and thoughtful amenities."
-featuredImage: "/images/accommodation/villa-oasis-401595484.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401595484.jpg?k=047c4b055681d4d3970273c4f68d050c6dc2ecaa86650075f91ab2c5a5e474e0&o=&hp=1"
 language: en
 slug: villa-oasis
 address: "Rruga Staver Naco, 3056 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Mateo"
 description: "Villa Mateo, situated in the serene Vlorë County region of Qazim Pali, presents a tranquil retreat with its own balcony and terrace."
-featuredImage: "/images/accommodation/villa-mateo-523484732.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523484732.jpg?k=a311d60d225da468023fb3f0934ec6d65772be1d0177db08ec26f7e294e1473f&o=&hp=1"
 language: en
 slug: villa-mateo
 address: "Rruga Qazim Pali, 9714 Qazim Pali, Albania"

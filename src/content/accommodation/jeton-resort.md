@@ -1,7 +1,7 @@
 ---
 title: "JETON RESORT"
 description: "JETON RESORT emerges as a serene oasis, boasting a meticulously landscaped garden and an inviting terrace, complemented by a sophisticated restaurant and bar located in Çerenec i Poshtëm."
-featuredImage: "/images/accommodation/jeton-resort-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: jeton-resort
 address: "SH6, 8407 Çerenec i Poshtëm, Albania"

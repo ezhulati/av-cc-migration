@@ -1,7 +1,7 @@
 ---
 title: "Villa Sildi"
 description: "Villa Sildi emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë, located just a short distance from the serene Maestral Beach."
-featuredImage: "/images/accommodation/villa-sildi-376059928.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376059928.jpg?k=69ef433c297583314e9bbfce52c2102c88c74a5c47910917f6624c2fb5cff309&o=&hp=1"
 language: en
 slug: villa-sildi
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

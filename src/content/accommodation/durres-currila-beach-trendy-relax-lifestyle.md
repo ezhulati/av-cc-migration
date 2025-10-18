@@ -1,7 +1,7 @@
 ---
 title: "Durres Currila Beach Trendy RELAX Lifestyle"
 description: "Durres Currila Beach Trendy RELAX Lifestyle emerges as a prime choice for travelers seeking a blend of comfort and convenience, positioned just a stone's throw away from the pristine Currila Beach and a brief stroll from Kallmi Beach."
-featuredImage: "/images/accommodation/durres-currila-beach-trendy-relax-lifestyle-494314505.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494314505.jpg?k=f24f2e663514963b887f49bebb8bbc2f707079a2d6f3501975d8029e16deab84&o=&hp=1"
 language: en
 slug: durres-currila-beach-trendy-relax-lifestyle
 address: "Rruga Currila, 2001 Durrës, Albania"

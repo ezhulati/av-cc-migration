@@ -1,7 +1,7 @@
 ---
 title: "Lovely 1-Bedroom condo in Tirana"
 description: "Discover the charm of Tiranë with a stay at the 1# Lovely 1-Bedroom Condo, a prime choice for travelers seeking comfort and convenience in the heart of Kashar."
-featuredImage: "/images/accommodation/lovely-1-bedroom-condo-in-tirana-527830445.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527830445.jpg?k=14739b2ff6ad155780e6c727908055e80646827877afc345272c2ca52b2e84df&o=&hp=1"
 language: en
 slug: lovely-1-bedroom-condo-in-tirana
 address: "Rruga 3 Deshmoret, 1001 Kashar, Albania"

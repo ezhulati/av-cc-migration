@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Luxury Apartments"
 description: "Sunrise Luxury Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/sunrise-luxury-apartments-201061567.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201061567.jpg?k=d3cdd04f500c21d7a6f0786be25dde06570e9a78d4271929ac786dbfb2214f2d&o=&hp=1"
 language: en
 slug: sunrise-luxury-apartments
 address: "246 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pine Breeze Apartment Gjiri i Lalezit"
 description: "Pine Breeze Apartment Gjiri i Lalezit emerges as a serene oasis for travelers seeking the perfect blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/pine-breeze-apartment-gjiri-i-lalezit-377625169.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377625169.jpg?k=b108e3cdf787dbc7629022102eeecdedc32d6227b26b7b4fee02147a49c339a2&o=&hp=1"
 language: en
 slug: pine-breeze-apartment-gjiri-i-lalezit
 address: "Plazhi san pietro, 1001 Durrës, Albania"

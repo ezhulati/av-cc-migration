@@ -1,7 +1,7 @@
 ---
 title: "Breeze cuddling your holidays"
 description: "Breeze Cuddling Your Holidays emerges as a charming retreat in the heart of Sarandë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/breeze-cuddling-your-holidays-476653227.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476653227.jpg?k=f7bd743e181684373f0cea81074ea316f7671da7983996fe573a105ef863daee&o=&hp=1"
 language: en
 slug: breeze-cuddling-your-holidays
 address: "Rruga Gjergj Araniti, 9700 Sarandë, Albania"

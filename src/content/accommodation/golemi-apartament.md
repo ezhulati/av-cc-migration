@@ -1,7 +1,7 @@
 ---
 title: "Golemi Apartament"
 description: "Golemi Apartament emerges as a prime choice for travelers seeking a blend of comfort, convenience, and scenic city views."
-featuredImage: "/images/accommodation/golemi-apartament-478008764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478008764.jpg?k=23d5e81b3f6f4a80db7f06d33d3f84e9dcccefa1b44d1cf35445be90c2bf135b&o=&hp=1"
 language: en
 slug: golemi-apartament
 address: "Rruga Golem, 2504 Golem, Albania"

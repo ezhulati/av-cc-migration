@@ -1,7 +1,7 @@
 ---
 title: "Hakuna Matata Residence & Apartments"
 description: "Hakuna Matata Residence & Apartments emerges as a premier choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/hakuna-matata-residence-apartments-41b962c4f1fc.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
 language: en
 slug: hakuna-matata-residence-apartments
 address: "Rruga Aleksandër Moisiu, 9402 Vlorë, Albania"

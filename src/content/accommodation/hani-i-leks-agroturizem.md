@@ -1,7 +1,7 @@
 ---
 title: "Hani i Leks Agroturizem"
 description: "Hani i Leks Agroturizem emerges as a serene oasis in Lezhë, situated a mere 32 km from the historic Rozafa Castle Shkodra and 34 km from the tranquil Lake Skadar."
-featuredImage: "/images/accommodation/hani-i-leks-agroturizem-220350657.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220350657.jpg?k=66b538334639935a7b6f3f1eafe5388a59d63deb7d102733cf6d8ff49b639291&o=&hp=1"
 language: en
 slug: hani-i-leks-agroturizem
 address: "Troshan Lagjia e Malit 1, 1234 Lezhë, Albania"

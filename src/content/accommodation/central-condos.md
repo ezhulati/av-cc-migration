@@ -1,7 +1,7 @@
 ---
 title: "Central Condos"
 description: "Central Condos emerges as a serene retreat in the heart of Sarandë, offering guests a unique blend of privacy and scenic beauty with its inner courtyard views."
-featuredImage: "/images/accommodation/central-condos-364569115.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364569115.jpg?k=6e8589f463586ac0bad4faa08efd79f4760122f16da65e2e00c944bf16a611c8&o=&hp=1"
 language: en
 slug: central-condos
 address: "49 Rruga Onhezmi, 9701 Sarandë, Albania"

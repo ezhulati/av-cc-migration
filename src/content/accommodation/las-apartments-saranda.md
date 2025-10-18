@@ -1,7 +1,7 @@
 ---
 title: "LAS Apartments Saranda"
 description: "LAS Apartments Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
-featuredImage: "/images/accommodation/las-apartments-saranda-527327534.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527327534.jpg?k=2e90f54207918cd1c02a5c0d4047916e7c4708f4f44724206e5c40aef33c4912&o=&hp=1"
 language: en
 slug: las-apartments-saranda
 address: "Rruga Naim Frashëri Sarande, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Seascape Villas"
 description: "Seascape Villas emerges as a prime choice for travelers seeking a serene getaway in Vlorë, strategically positioned a mere stone's throw from the pristine Liro Beach and within easy reach of both Coco Bongo and Sunny Beach."
-featuredImage: "/images/accommodation/seascape-villas-369529875.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369529875.jpg?k=6b06907e2e970a613b2e9582d1bebbcc9dcd8971947720ef7e1d7446a79033bc&o=&hp=1"
 language: en
 slug: seascape-villas
 address: "Rruga Gjergj Strasi, Vlorë, Shqipëri, 9405 Vlorë, Albania"

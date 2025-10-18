@@ -1,7 +1,7 @@
 ---
 title: "Maison Bellevue - 2 bdrm villa in Borsh beach"
 description: "Maison Bellevue stands as a picturesque 2-bedroom villa offering an exceptional stay just 1."
-featuredImage: "/images/accommodation/maison-bellevue-2-bdrm-villa-in-borsh-beach-379279563.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379279563.jpg?k=1eea493fbcd11ca80ec88a6d5022240dd0cca9b995f97827d2fb6cdcc19109ba&o=&hp=1"
 language: en
 slug: maison-bellevue-2-bdrm-villa-in-borsh-beach
 address: "Rr Haliq, Borsh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Piemonte"
 description: "Hotel Piemonte emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-piemonte-157635096.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157635096.jpg?k=b5c5ccc902b89f775c3ebd2e8480f277490db47d07ccb49cc03bcff3f4881c82&o=&hp=1"
 language: en
 slug: hotel-piemonte
 address: "Rruga Gjin Bue Shpata, 1001 Tirana, Albania"

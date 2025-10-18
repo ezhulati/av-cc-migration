@@ -1,7 +1,7 @@
 ---
 title: "Saranda Exclusive Apartment 3"
 description: "Saranda Exclusive Apartment 3 emerges as a prime choice for travelers seeking a serene beachfront retreat in Sarandë, merely a stone's throw away from the pristine Santa Quaranta Beach."
-featuredImage: "/images/accommodation/saranda-exclusive-apartment-3-472288030.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472288030.jpg?k=1cbbef6423ba712f18dc76e888e0b03717fe6d859ed8b85ab946e728c80b1026&o=&hp=1"
 language: en
 slug: saranda-exclusive-apartment-3
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

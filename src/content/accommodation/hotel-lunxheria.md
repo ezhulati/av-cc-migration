@@ -1,7 +1,7 @@
 ---
 title: "HOTEL LUNXHERIA"
 description: "HOTEL LUNXHERIA, located in the historic heart of Gjirokastër, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/hotel-lunxheria-375242317.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375242317.jpg?k=7d87b879f53fd9e143b5f7d89888ff6f5eefcd829986b355f0d878ce5ebbb349&o=&hp=1"
 language: en
 slug: hotel-lunxheria
 address: "Rruga Alqi Kondi 2, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Prestige Rentals"
 description: "Prestige Rentals emerges as a serene haven in the heart of Shkodër, offering guests a tranquil retreat with its quiet street views."
-featuredImage: "/images/accommodation/prestige-rentals-348283260.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348283260.jpg?k=5426b38a763d83a0735ad20db2eec4f6d3d38968a0f57a3cd376410845892da4&o=&hp=1"
 language: en
 slug: prestige-rentals
 address: "Bulevardi Zogu I 1262, 4002 Shkodër, Albania"

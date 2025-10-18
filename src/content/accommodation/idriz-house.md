@@ -1,7 +1,7 @@
 ---
 title: "IDRIZ HOUSE"
 description: "IDRIZ HOUSE emerges as a prime choice for travelers seeking a serene retreat in Durrës, strategically positioned to offer both tranquility and convenience."
-featuredImage: "/images/accommodation/idriz-house-500730510.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500730510.jpg?k=a420c955b9a63af3fb6ff521fbbd5934d6bfc51851625b63bef60bf32ca6b2e9&o=&hp=1"
 language: en
 slug: idriz-house
 address: "Rruga Pavaresia, Durrës, Albania"

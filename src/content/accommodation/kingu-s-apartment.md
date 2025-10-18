@@ -1,7 +1,7 @@
 ---
 title: "Kingu's Apartment"
 description: "Kingu's Apartment emerges as a standout choice for travelers seeking a blend of comfort and convenience in Golem, positioned just a stone's throw away from the pristine Durres Beach and within easy reach of Mali I Robit and Qerret Beaches."
-featuredImage: "/images/accommodation/kingu-s-apartment-385504281.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385504281.jpg?k=a3ec62b99a0b08079a5996c5516a62681a3cb838fc425ff655204f32110bb2f4&o=&hp=1"
 language: en
 slug: kingu-s-apartment
 address: "Golem Beach, 2504 Golem, Albania"

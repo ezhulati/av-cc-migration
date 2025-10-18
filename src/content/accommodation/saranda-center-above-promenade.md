@@ -1,7 +1,7 @@
 ---
 title: "Saranda Center (above promenade)"
 description: "Saranda Center (above promenade) emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/saranda-center-above-promenade-353606364.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353606364.jpg?k=f25b4d672260e3e6f1b4cc36227cfafc89ae2bd64ef98487ca6de2dd154c91b8&o=&hp=1"
 language: en
 slug: saranda-center-above-promenade
 address: "Rruga Lefter Talo Alba,, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blloku Tirana Studio"
 description: "Blloku Tirana Studio emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/blloku-tirana-studio-527647376.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527647376.jpg?k=3dadefda33fd331f6f7e2d2dd8d07b84b1ae2950ee4064f91f59a21860804683&o=&hp=1"
 language: en
 slug: blloku-tirana-studio
 address: "Rruga Abdyl Frashëri, 1022 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Laura's Home"
 description: "Laura's Home emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from the pristine Kallmi Beach in Durrës and a short stroll from Currila Beach."
-featuredImage: "/images/accommodation/laura-s-home-106016114.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/106016114.jpg?k=0ff7cf01ce00f9f41fc26fff23e6ea28c943cb772d423754623f433c0f92d23f&o=&hp=1"
 language: en
 slug: laura-s-home
 address: "Rruga Currila Street, Costa Del Sole 2nd Floor, 2001 Durrës, Albania"

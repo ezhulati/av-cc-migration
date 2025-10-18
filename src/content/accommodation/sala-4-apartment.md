@@ -1,7 +1,7 @@
 ---
 title: "SALA 4 Apartment"
 description: "SALA 4 Apartment emerges as a prime choice for travelers seeking comfortable accommodation in Shkodër, situated a mere 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/sala-4-apartment-517869320.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517869320.jpg?k=e11d90789654d577d67ca925fb5c800185ac607a33788a00e57099e3f3293fe8&o=&hp=1"
 language: en
 slug: sala-4-apartment
 address: "Sheshi Demokracia 1, 4001 Shkodër, Albania"

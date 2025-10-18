@@ -1,7 +1,7 @@
 ---
 title: "Kleisi's Apartament"
 description: "Kleisi's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/kleisi-s-apartament-499297570.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499297570.jpg?k=26a2a0cb8de49e31f66d97b5daa3b77cde6a6a76e9b58dddbba4466c6122d4f4&o=&hp=1"
 language: en
 slug: kleisi-s-apartament
 address: "SH56, 1041 Tirana, Albania"

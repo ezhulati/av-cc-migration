@@ -1,7 +1,7 @@
 ---
 title: "Amphora Apartment"
 description: "Amphora Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/amphora-apartment-523366958.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523366958.jpg?k=c97731b2db85a31ad39403623c5c53e715e8487638f16316690cc2723ba0ddaa&o=&hp=1"
 language: en
 slug: amphora-apartment
 address: "Rruga Vlore - Orikum, mbi vilen qeveritare, Uji i Ftohte Pallatet Golemi, blloku 1, hyrja 3, kati i 4, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Room Studio Deluxe"
 description: "Room Studio Deluxe emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/room-studio-deluxe-518320443.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518320443.jpg?k=e725d6cb0238aa40a306bd1d18ddf55d92122042c3ebcc0a832c97767aa1c602&o=&hp=1"
 language: en
 slug: room-studio-deluxe
 address: "21 Rruga e Kavajës, 1001 Tirana, Albania"

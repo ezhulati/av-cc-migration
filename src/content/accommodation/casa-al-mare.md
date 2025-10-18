@@ -1,7 +1,7 @@
 ---
 title: "Casa al Mare"
 description: "Casa al Mare emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, positioned just a short stroll from Vlore Beach and within easy reach of Vjetër Beach."
-featuredImage: "/images/accommodation/casa-al-mare-527812899.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527812899.jpg?k=e8bf133fe2d975664bca06e1c8f8e0f216577853e654bcbe2e300c563d9aa335&o=&hp=1"
 language: en
 slug: casa-al-mare
 address: "Rruga Aristill Kokoshi, 9401 Vlorë, Albania"

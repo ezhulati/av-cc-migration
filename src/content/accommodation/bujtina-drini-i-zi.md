@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Drini i Zi"
 description: "Bujtina Drini i Zi stands out as a serene oasis in Peshkopi, located a mere 38 km from the historic Monastery of Saint George the Victorious."
-featuredImage: "/images/accommodation/bujtina-drini-i-zi-520353537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520353537.jpg?k=81e7c055e0c1b74cb12f8912c175afe5e54244248807d93d7c4fb6c221412554&o=&hp=1"
 language: en
 slug: bujtina-drini-i-zi
 address: "Bulevardi Elez Isufi, Peshkopi, Albania"

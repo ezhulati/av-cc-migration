@@ -1,7 +1,7 @@
 ---
 title: "Vivar Hotel"
 description: "Vivar Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vivar-hotel-37948342.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37948342.jpg?k=cb027c7c2b97db2f973770588dce1d6fec074555150d55ac37b3073e40ac2f12&o=&hp=1"
 language: en
 slug: vivar-hotel
 address: "Rruga Reshit Collaku Nr. 38, 1001 Tirana, Albania"

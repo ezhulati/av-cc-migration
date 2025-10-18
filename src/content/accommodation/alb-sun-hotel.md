@@ -1,7 +1,7 @@
 ---
 title: "ALB'SUN HOTEL"
 description: "ALB'SUN HOTEL emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated a mere 200 meters from the serene Ri Beach."
-featuredImage: "/images/accommodation/alb-sun-hotel-382857576.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382857576.jpg?k=791590934af5b25b145494ebf1cb24952187aa5332c8de42e529f3469fbb91fe&o=&hp=1"
 language: en
 slug: alb-sun-hotel
 address: "Rruga Murat Tërbaçi, 9403 Vlorë, Albania"

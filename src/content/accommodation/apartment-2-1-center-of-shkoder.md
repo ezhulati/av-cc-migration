@@ -1,7 +1,7 @@
 ---
 title: "Apartment 2+1 Center of Shkoder"
 description: "Apartment 2+1 Center of Shkoder emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër, situated just 49 km away from the Port of Bar."
-featuredImage: "/images/accommodation/apartment-2-1-center-of-shkoder-474845974.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474845974.jpg?k=edfb61ed245f078c04ae82d25d182096a7a981a8a20d6305b4ad279dde256675&o=&hp=1"
 language: en
 slug: apartment-2-1-center-of-shkoder
 address: "Rruga 3 Heronjtë, 4001 Shkodër, Albania"

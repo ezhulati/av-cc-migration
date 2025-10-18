@@ -1,7 +1,7 @@
 ---
 title: "Joan Guesthouse"
 description: "Joan Guesthouse, located in the charming town of Përmet, stands out as a serene retreat for travelers seeking both adventure and relaxation."
-featuredImage: "/images/accommodation/joan-guesthouse-304192784.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304192784.jpg?k=6e4e8f368dbd5d8c499624d2b25d8141d8cde89a7a38b5b2bf677a7920d5621d&o=&hp=1"
 language: en
 slug: joan-guesthouse
 address: "Lagjja Mejden, 6401 Përmet, Albania"

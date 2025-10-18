@@ -1,7 +1,7 @@
 ---
 title: "Four Seasons Apartment"
 description: "Four Seasons Apartment in Durrës emerges as a prime choice for travelers seeking comfort and convenience, located just a short distance from the pristine Kallmi Beach and the vibrant West End Beach."
-featuredImage: "/images/accommodation/four-seasons-apartment-497817672.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497817672.jpg?k=76a692b0f684b235212b6be19e095d6a09c173d42fc93311237f68f1dbafc3af&o=&hp=1"
 language: en
 slug: four-seasons-apartment
 address: "Rruga Taulantia 1, Hyrja 1, apartamenti 12 3rd floor, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Topalli"
 description: "Vila Topalli stands as a serene retreat in Pogradec, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/vila-topalli-512617726.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512617726.jpg?k=06eb0512cc299dbf182388c04194e7d4caafe8dbf9ea925733911751564ab0f8&o=&hp=1"
 language: en
 slug: vila-topalli
 address: "Gojaku Verdove, 7301 Pogradec, Albania"

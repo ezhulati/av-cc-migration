@@ -1,7 +1,7 @@
 ---
 title: "ApartHotel Folé"
 description: "ApartHotel Folé emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/aparthotel-fol-442480767.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442480767.jpg?k=ad00b360765cf81f97d1d98ed7c54e12d3ebe363f11531a3210e8fb3772f3f9d&o=&hp=1"
 language: en
 slug: aparthotel-fol
 address: "Rruga 29 Nëntori, 1025 Tirana, Albania"

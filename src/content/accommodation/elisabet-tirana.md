@@ -1,7 +1,7 @@
 ---
 title: "Elisabet Tirana"
 description: "Elisabet Tirana emerges as a serene oasis in the heart of Tirana, offering guests a tranquil retreat just a stone's throw away from the bustling Skanderbeg Square and a short journey from the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/elisabet-tirana-251984751.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251984751.jpg?k=25558c09b1706a2398696a6f8c7903e5e8e2d797674ad03e069b920e4b88c7d1&o=&hp=1"
 language: en
 slug: elisabet-tirana
 address: "Rruga Mahmut Fortuzi 2, 1016 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Zini"
 description: "Vila Zini emerges as a prime choice for travelers seeking a serene getaway, located just a short stroll from the pristine Vjetër Beach in Vlorë."
-featuredImage: "/images/accommodation/vila-zini-453657336.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453657336.jpg?k=850416e6c3b197ec8d2a1ec15b131d3b28b2068d9cfef7d1fd6c8b5c86bcb046&o=&hp=1"
 language: en
 slug: vila-zini
 address: "Rruga Aleks Çaçi, 9401 Vlorë, Albania"

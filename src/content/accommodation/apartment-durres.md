@@ -1,7 +1,7 @@
 ---
 title: "Apartment Durres"
 description: "Apartment Durres emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/apartment-durres-490051818.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490051818.jpg?k=781156f201ebee2dbe1d9ef77a80d2ea9e86fe1a4558bece061c67d6693abce6&o=&hp=1"
 language: en
 slug: apartment-durres
 address: "Lagja 13, Iliria. Rruga Pavarsia, plazh Durres, 1001 Durrës, Albania"

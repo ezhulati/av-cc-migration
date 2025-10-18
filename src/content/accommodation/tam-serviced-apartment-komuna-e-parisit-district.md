@@ -1,7 +1,7 @@
 ---
 title: "TAM Serviced Apartment Komuna e Parisit District"
 description: "TAM Serviced Apartment Komuna e Parisit District, a recently renovated gem in Tirana, offers a blend of comfort and convenience, making it a standout choice for travelers."
-featuredImage: "/images/accommodation/tam-serviced-apartment-komuna-e-parisit-district-497064337.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497064337.jpg?k=af0221161b3cc2ea02face81d3362e00ef05001ca6caa71b5bc62e83ec28ef1f&o=&hp=1"
 language: en
 slug: tam-serviced-apartment-komuna-e-parisit-district
 address: "Rruga Komuna e Parisit 2, 1019 Tirana, Albania"

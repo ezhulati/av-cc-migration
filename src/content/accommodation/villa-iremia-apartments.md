@@ -1,7 +1,7 @@
 ---
 title: "Villa Iremia Apartments"
 description: "Villa Iremia Apartments emerges as a serene haven in Vlorë, a stone's throw away from the historic Independence Square and merely 2."
-featuredImage: "/images/accommodation/villa-iremia-apartments-527339990.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527339990.jpg?k=d9d6d35fc9db41292be290bef3658468a2a389d411b5ee54db202a4437014a72&o=&hp=1"
 language: en
 slug: villa-iremia-apartments
 address: "Rruga Istref Hoxha, 9401 Vlorë, Albania"

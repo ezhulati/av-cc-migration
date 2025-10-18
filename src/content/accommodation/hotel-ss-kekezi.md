@@ -1,7 +1,7 @@
 ---
 title: "Hotel SS KEKEZI"
 description: "Hotel SS KEKEZI emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Gjirokastër."
-featuredImage: "/images/accommodation/hotel-ss-kekezi-355450048.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355450048.jpg?k=52196e5750086d9e6cbaac9f8489df3fdc7c01aaaaede02e232956b3ba82edc0&o=&hp=1"
 language: en
 slug: hotel-ss-kekezi
 address: "Obelisku, Rruga Zejtareve 3floor, 6001 Gjirokastër, Albania"

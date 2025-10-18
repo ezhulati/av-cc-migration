@@ -1,7 +1,7 @@
 ---
 title: "Seaside Calm - 1 Bedroom Flat Just 2 Minutes Walk from the Beach"
 description: "Seaside Calm emerges as a serene retreat, boasting a prime location merely a stone's throw away from the pristine shores of Golem Beach."
-featuredImage: "/images/accommodation/seaside-calm-1-bedroom-flat-just-2-minutes-walk-from-the-beach-488397511.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488397511.jpg?k=b7e41794ee6fae1f4245c96a02459b8d4f1a433ba7ba7b0cb372775088a71bc4&o=&hp=1"
 language: en
 slug: seaside-calm-1-bedroom-flat-just-2-minutes-walk-from-the-beach
 address: "Kompleksi Dibra Agza, Rr. Skënderbeu, Mali i Robit, Golem, Albania., 2506 Golem, Albania"

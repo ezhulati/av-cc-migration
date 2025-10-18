@@ -1,7 +1,7 @@
 ---
 title: "XHELILI Apartment"
 description: "XHELILI Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/xhelili-apartment-473560952.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473560952.jpg?k=e951692b0729218fd087db54ee2417aca9f25e97ca29fa53395ee4fecbfa9bc0&o=&hp=1"
 language: en
 slug: xhelili-apartment
 address: "Rruga Skënderbeu, (yes market), 9702 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "AquaZen Apartments"
 description: "AquaZen Apartments emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short distance from the serene Durres and Currila Beaches."
-featuredImage: "/images/accommodation/aquazen-apartments-518921801.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518921801.jpg?k=2ec677da646ae341bc319c985957cb80509a91f3b3a92eb45a2ed08f45a0109a&o=&hp=1"
 language: en
 slug: aquazen-apartments
 address: "41°19'13.9\"N 19°27'13.4\"E Ap 37, Floor 9, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Albi"
 description: "Villa Albi emerges as a serene oasis in Durrës, offering guests the luxury of air-conditioned accommodations complete with private balconies."
-featuredImage: "/images/accommodation/villa-albi-470146303.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470146303.jpg?k=b607b6f804a343eba696a94f46cc7820a634cfbacae0c997dbda51416a41256f&o=&hp=1"
 language: en
 slug: villa-albi
 address: "Rruga Vegimi, 2008 Durrës, Albania"

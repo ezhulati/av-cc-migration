@@ -1,7 +1,7 @@
 ---
 title: "DelMar Apartments"
 description: "DelMar Apartments emerges as a refreshed and inviting option for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Golem, near Mali I Robit Beach and Golem Beach."
-featuredImage: "/images/accommodation/delmar-apartments-373771979.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373771979.jpg?k=3215019b97a14ae01248988476c1f1c0d68ba1b7a8fbbdfacde2f0971d7859ac&o=&hp=1"
 language: en
 slug: delmar-apartments
 address: "Rruga Qemal Stafa, 2504 Golem, Albania"

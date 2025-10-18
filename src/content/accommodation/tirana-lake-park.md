@@ -1,7 +1,7 @@
 ---
 title: "Tirana Lake Park"
 description: "Tirana Lake Park emerges as a serene oasis in the heart of Tirana, offering a blend of comfort and convenience for travelers seeking an urban retreat."
-featuredImage: "/images/accommodation/tirana-lake-park-510627441.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510627441.jpg?k=3435988b19d32245222bb324c4c42aee43897d1ab7c59512de224894b70e8f49&o=&hp=1"
 language: en
 slug: tirana-lake-park
 address: "Rruga Sami Frashëri, 1001 Tirana, Albania"

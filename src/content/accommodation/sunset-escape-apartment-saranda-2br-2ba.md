@@ -1,7 +1,7 @@
 ---
 title: "Sunset Escape Apartment Saranda (2br+2ba)"
 description: "Sunset Escape Apartment Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking sea panoramas."
-featuredImage: "/images/accommodation/sunset-escape-apartment-saranda-2br-2ba-525560447.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525560447.jpg?k=2a46014db9ff854ea93d5259f1a2c14c4452fb42eeb058d915dc942f36692203&o=&hp=1"
 language: en
 slug: sunset-escape-apartment-saranda-2br-2ba
 address: "Rruga 40 Shenjtorët Floor 6 first door to the right (on top of Big Market), 9703 Sarandë, Albania"

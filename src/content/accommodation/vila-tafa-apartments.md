@@ -1,7 +1,7 @@
 ---
 title: "Vila TAFA Apartments"
 description: "Discover the charm of Tirana with a stay at Vila TAFA Apartments, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/vila-tafa-apartments-AAcHTtdm5wl8.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtdm5wl8pwf1Q4wrpmTL91HT3nAfHOB7ri4r3oKS=s96-c64"
 language: en
 slug: vila-tafa-apartments
 address: "85 Rruga Petro Nini Luarasi, 1010 Tirana, Albania"

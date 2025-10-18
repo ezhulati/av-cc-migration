@@ -1,7 +1,7 @@
 ---
 title: "Bellavista Villa"
 description: "Bellavista Villa emerges as a serene oasis in Durrës, offering guests an intimate glimpse of garden splendor paired with captivating sea views."
-featuredImage: "/images/accommodation/bellavista-villa-300492523.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300492523.jpg?k=8f1b01729b6aa1fecc4b2405b221d964b43e69b710d9b422ae4006560e04f29c&o=&hp=1"
 language: en
 slug: bellavista-villa
 address: "Unnamed Road In front of San Pietro Beach Resort and Fishland!, 2013 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DON.1"
 description: "Discover the charm of DON."
-featuredImage: "/images/accommodation/don-1-488637802.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488637802.jpg?k=c8533d61166c07475f321f5a279155eda887fa5c8ee0f6d6acf1ec2795e86f82&o=&hp=1"
 language: en
 slug: don-1
 address: "Golem, Durres 1, 2000 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse BellaVista"
 description: "Guesthouse BellaVista emerges as a serene retreat in Berat, offering guests an exceptional stay with its panoramic mountain views, complimentary WiFi, and the convenience of free private parking."
-featuredImage: "/images/accommodation/guesthouse-bellavista-136672412.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/136672412.jpg?k=df303242ce3c88d52e328e21f6b4f612409648ebbe5f868ea6a6946738b97ccf&o=&hp=1"
 language: en
 slug: guesthouse-bellavista
 address: "Rruga Petrit Lulo, 0487 Berat, Albania"

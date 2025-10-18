@@ -1,7 +1,7 @@
 ---
 title: "Stadium Apartment"
 description: "Stadium Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/stadium-apartment-519700267.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519700267.jpg?k=2f36666766bc37cd3cde67f6b89ed5980f63ffb759381007a1487b4cd09791cd&o=&hp=1"
 language: en
 slug: stadium-apartment
 address: "Rruga Faik Konica, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Profkola"
 description: "Vila Profkola emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/vila-profkola-478054981.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478054981.jpg?k=85a92962c085d5028ee496caba42d25d94a76a663e7fdc27afabd7c2fe1398da&o=&hp=1"
 language: en
 slug: vila-profkola
 address: "Rruga Andon Naçi 5,Durres, Durrës, Albania"

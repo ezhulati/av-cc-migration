@@ -1,7 +1,7 @@
 ---
 title: "Toni Retzo Rooms"
 description: "Toni Retzo Rooms emerges as a charming retreat for travelers seeking a serene getaway in Himare, just a short stroll from the pristine Potam Beach."
-featuredImage: "/images/accommodation/toni-retzo-rooms-310851626.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310851626.jpg?k=ad88df36eb530994e09c964841320e5245d21457a5a0d2d4e1f30b78d0ef7ba5&o=&hp=1"
 language: en
 slug: toni-retzo-rooms
 address: "SH8, 9425 Himare, Albania"

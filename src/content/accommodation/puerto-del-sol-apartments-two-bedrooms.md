@@ -1,7 +1,7 @@
 ---
 title: "Puerto Del Sol Apartments Two Bedrooms"
 description: "Puerto Del Sol Apartments Two Bedrooms stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/puerto-del-sol-apartments-two-bedrooms-489275993.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489275993.jpg?k=50d3f3108060e9acfd0679ceb97df8db070beb04779f499df47a5a08c4c56e42&o=&hp=1"
 language: en
 slug: puerto-del-sol-apartments-two-bedrooms
 address: "Vlorë County Uji i Ftohtë Str. Aleksandër Moisiu 4900, Vlorë 9405, Albania 1, 9405 Vlorë, Albania"

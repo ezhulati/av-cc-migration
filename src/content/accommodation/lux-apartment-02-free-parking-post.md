@@ -1,7 +1,7 @@
 ---
 title: "Lux Apartment 02 + Free Parking Post"
 description: "Lux Apartment 02 + Free Parking Post emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lux-apartment-02-free-parking-post-457195480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457195480.jpg?k=65313a9ff47d3c9ebe5bc423d8d28ae6025c44a84675de815095312d3af6add6&o=&hp=1"
 language: en
 slug: lux-apartment-02-free-parking-post
 address: "Rruga Gramoz Pashko, 1010 Tirana, Albania"

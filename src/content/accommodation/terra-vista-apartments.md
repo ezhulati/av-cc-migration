@@ -1,7 +1,7 @@
 ---
 title: "Terra'Vista Apartments"
 description: "Terra'Vista Apartments emerges as a modern oasis in the heart of Tirana, offering a seamless blend of comfort and convenience just steps away from the city's most iconic landmarks, including Skanderbeg Square, the Former Residence of Enver Hoxha, and the House of Leaves."
-featuredImage: "/images/accommodation/terra-vista-apartments-513112993.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513112993.jpg?k=b5da466a1324f484081b792668f9c8562c4a904e0c77a892a55ddd2f413d630a&o=&hp=1"
 language: en
 slug: terra-vista-apartments
 address: "Rruga Him Kolli, 1001 Tirana, Albania"

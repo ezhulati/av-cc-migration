@@ -1,7 +1,7 @@
 ---
 title: "Olivia’s Appartment Saranda"
 description: "Olivia's Apartment Saranda emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modern amenities in the heart of Sarandë."
-featuredImage: "/images/accommodation/olivia-s-appartment-saranda-440556190.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440556190.jpg?k=a933fe15157efd75c9b5437e729d5507983f0426411c23ee0bda3406285a3f54&o=&hp=1"
 language: en
 slug: olivia-s-appartment-saranda
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

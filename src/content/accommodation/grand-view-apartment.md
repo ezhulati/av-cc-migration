@@ -1,7 +1,7 @@
 ---
 title: "Grand View Apartment"
 description: "Grand View Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/grand-view-apartment-480716051.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480716051.jpg?k=6891e02147043e2da297d00357fccee8f75d99f62115a0e0a33c2796fec7e07f&o=&hp=1"
 language: en
 slug: grand-view-apartment
 address: "Rruga Taulantia, 2001 Durrës, Albania"

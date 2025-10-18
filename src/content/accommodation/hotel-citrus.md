@@ -1,7 +1,7 @@
 ---
 title: "Hotel Citrus"
 description: "Hotel Citrus emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/hotel-citrus-304206184.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304206184.jpg?k=5df45ed337a4212b5fb4f68edaa8ffec46d98b026f55ec3ccda2a241489a53ae&o=&hp=1"
 language: en
 slug: hotel-citrus
 address: "Street Sarande- Butrint, 9706 Ksamil, Albania"

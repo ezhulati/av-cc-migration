@@ -1,7 +1,7 @@
 ---
 title: "Shtepi pushimi Pogradec"
 description: "Shtepi pushimi Pogradec emerges as a prime beachfront gem in the picturesque town of Pogradec, boasting an enviable location just a stone's throw from the serene Ohrid Lake Springs and the intriguing Bay of Bones."
-featuredImage: "/images/accommodation/shtepi-pushimi-pogradec-512984698.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512984698.jpg?k=b0b6c027eb0e0baaff25e65267b376c3f186c83271305c1ca5755f5b351b3579&o=&hp=1"
 language: en
 slug: shtepi-pushimi-pogradec
 address: "Rruga Mendi Zavelani, Pogradec, Albania"

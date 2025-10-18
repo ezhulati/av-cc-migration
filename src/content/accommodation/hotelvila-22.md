@@ -1,7 +1,7 @@
 ---
 title: "HotelVila 22"
 description: "HotelVila 22 emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotelvila-22-483016860.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483016860.jpg?k=ba0ac641e5315d0cca075144a4d19f9b63abea47135c18e25d2c0de94fba505a&o=&hp=1"
 language: en
 slug: hotelvila-22
 address: "Rruga Naim Frashëri, 1001 Tirana, Albania"

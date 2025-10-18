@@ -1,7 +1,7 @@
 ---
 title: "Palm Suites Apartment-Suite"
 description: "Palm Suites Apartment-Suite emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
-featuredImage: "/images/accommodation/palm-suites-apartment-suite-352520569.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352520569.jpg?k=6ef5331d03fda615321df7a36248b8486a329d5d11fa142aceb3275d39548b2c&o=&hp=1"
 language: en
 slug: palm-suites-apartment-suite
 address: "Road Dhimiter Konomi, 9401 Vlorë, Albania"

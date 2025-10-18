@@ -1,7 +1,7 @@
 ---
 title: "Lej & Laj Residence"
 description: "Lej & Laj Residence emerges as a serene retreat just a stone's throw away from the pristine shores of Lalëz Bay Beach, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/lej-laj-residence-360492670.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360492670.jpg?k=6fc94fa4510933c47eb7260fb7d7c9670a8da3e0a3db01992168ba1d1c9aaf13&o=&hp=1"
 language: en
 slug: lej-laj-residence
 address: "Hamallaj, 2001 Hamallaj, Albania"

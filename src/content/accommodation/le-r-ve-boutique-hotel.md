@@ -1,7 +1,7 @@
 ---
 title: "Le Rêve Boutique Hotel"
 description: "Le Rêve Boutique Hotel, located a mere stone's throw away from the pristine shores of Dhermi Beach in Dhërmi, stands out as a beacon of comfort and elegance."
-featuredImage: "/images/accommodation/le-r-ve-boutique-hotel-383862904.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383862904.jpg?k=6a37a52e1f2066ec2c0be7a6fbe4107b0e8e1f49be89c0f4f32244ba9cc645e1&o=&hp=1"
 language: en
 slug: le-r-ve-boutique-hotel
 address: "Rruga Perivolo Drimadhes, 9422 Dhërmi, Albania"

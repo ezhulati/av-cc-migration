@@ -1,7 +1,7 @@
 ---
 title: "Skrapari Studio Apartment"
 description: "Skrapari Studio Apartment emerges as a recently updated gem in Çorovodë, boasting a blend of modern amenities and serene outdoor spaces."
-featuredImage: "/images/accommodation/skrapari-studio-apartment-378108817.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378108817.jpg?k=e9ad2a54d6a82e832b0468e8792592cb52bb4a2f1f79aaee90dd77d5433434e3&o=&hp=1"
 language: en
 slug: skrapari-studio-apartment
 address: "Rruga e Dëshmorëve, 5401 Çorovodë, Albania"

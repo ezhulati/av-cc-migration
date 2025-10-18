@@ -1,7 +1,7 @@
 ---
 title: "Kleidi's home"
 description: "Kleidi's Home stands as a serene retreat in Vlorë, offering guests a unique blend of comfort and convenience with its garden-view accommodations."
-featuredImage: "/images/accommodation/kleidi-s-home-484401469.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484401469.jpg?k=b0854fc8824b23216ae18ecdad5f8154e2a6e396eb576cae6de60c170144e3c7&o=&hp=1"
 language: en
 slug: kleidi-s-home
 address: "Orikum Dukat; Nd.110;H,1 Orikum Dukat; 9426Vlore, 9426 Vlorë, Albania"

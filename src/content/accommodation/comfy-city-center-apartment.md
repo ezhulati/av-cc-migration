@@ -1,7 +1,7 @@
 ---
 title: "COMFY CITY CENTER APARTMENT"
 description: "COMFY CITY CENTER APARTMENT in Shkodër stands out as a prime choice for travelers seeking a blend of comfort and convenience, located just 48 km from the Port of Bar."
-featuredImage: "/images/accommodation/comfy-city-center-apartment-499938545.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499938545.jpg?k=19e7b858f47e259fbddbeb4e8af80ebfc1ba57f88d6786a04bfb3de21ea819e4&o=&hp=1"
 language: en
 slug: comfy-city-center-apartment
 address: "Rruga Qemal Draçini, 4001 Shkodër, Albania"

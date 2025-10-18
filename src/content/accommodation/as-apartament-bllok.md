@@ -1,7 +1,7 @@
 ---
 title: "AS Apartament Bllok"
 description: "AS Apartament Bllok emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/as-apartament-bllok-488142196.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488142196.jpg?k=47fb798ac4094178b355a93c62615113ebaa3388f18ec2f519fd35e303fe5389&o=&hp=1"
 language: en
 slug: as-apartament-bllok
 address: "Rruga Andon Zako Çajupi App 6, Bullding 1, Floor 4, 1001 Tirana, Albania"

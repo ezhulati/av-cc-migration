@@ -1,7 +1,7 @@
 ---
 title: "Villa Angela"
 description: "Villa Angela stands out as a premier destination for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/villa-angela-41b962c4f1fc.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
 language: en
 slug: villa-angela
 address: "Rruga Dhimitër Konomi, 9402 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blue Season"
 description: "Blue Season emerges as a prime choice for travelers seeking a serene getaway in Ksamil, boasting garden views that promise a tranquil retreat."
-featuredImage: "/images/accommodation/blue-season-462590327.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462590327.jpg?k=5c1549a9a98654bcde3802367a53bc600534b6c3ea7bcae5eec5e3a70b6c9318&o=&hp=1"
 language: en
 slug: blue-season
 address: "Rruga 28 Nentori Ksamil, 9706 Ksamil, Albania"

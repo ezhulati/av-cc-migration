@@ -1,7 +1,7 @@
 ---
 title: "Vila M&D"
 description: "Vila M&D emerges as a serene retreat, boasting garden views and a terrace that promises tranquility just 45 km away from the iconic Rock of Kavaje."
-featuredImage: "/images/accommodation/vila-m-d-471343273.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471343273.jpg?k=7a8796317eda3248b704edd564ad3cc02e1ce9ef0a855e31aa61a47c37b1c5c5&o=&hp=1"
 language: en
 slug: vila-m-d
 address: "Rruga e plazhit vila M&D, Divjakë, Albania"

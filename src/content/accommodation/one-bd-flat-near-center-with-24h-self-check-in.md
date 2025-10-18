@@ -1,7 +1,7 @@
 ---
 title: "One BD Flat near Center with 24H Self Check In"
 description: "Discover the convenience and comfort of One BD Flat, a prime choice for travelers seeking a seamless experience in the heart of Tirana."
-featuredImage: "/images/accommodation/one-bd-flat-near-center-with-24h-self-check-in-513522167.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513522167.jpg?k=5d5afe3cf702fa061e5f5f8459e0838e2a18fd8a11e8281be5025abe598ed4e1&o=&hp=1"
 language: en
 slug: one-bd-flat-near-center-with-24h-self-check-in
 address: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"

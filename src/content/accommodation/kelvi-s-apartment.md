@@ -1,7 +1,7 @@
 ---
 title: "Kelvi’s Apartment"
 description: "Kelvi's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Pogradec, offering a serene retreat just a stone's throw away from the enchanting Ohrid Lake Springs and the intriguing Bay of Bones."
-featuredImage: "/images/accommodation/kelvi-s-apartment-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: kelvi-s-apartment
 address: "10 Rruga Dëshmorët e Pojskës, 7300 Pogradec, Albania"

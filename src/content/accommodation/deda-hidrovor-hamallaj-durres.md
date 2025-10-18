@@ -1,7 +1,7 @@
 ---
 title: "DEDA , Hidrovor, Hamallaj, Durres"
 description: "DEDA, Hidrovor, Hamallaj, Durres emerges as a serene retreat, offering guests a unique blend of comfort and natural beauty, just a stone's throw away from the pristine Lalëz Bay Beach."
-featuredImage: "/images/accommodation/deda-hidrovor-hamallaj-durres-478862885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478862885.jpg?k=c10c88a63471d6287c72af477338f2aa5174284a8b1f7fa6a1fc38fec159b9f3&o=&hp=1"
 language: en
 slug: deda-hidrovor-hamallaj-durres
 address: "Rruga e bregdetit Hidrovor, 2000 Hamallaj, Albania"

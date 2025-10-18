@@ -1,7 +1,7 @@
 ---
 title: "Amma's Apartment in Tirana!"
 description: "Amma's Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/amma-s-apartment-in-tirana-525267327.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525267327.jpg?k=48da4c951a96faf3a909f65c4359954d1fbe07913aabb4e4ae6a157742b0f935&o=&hp=1"
 language: en
 slug: amma-s-apartment-in-tirana
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Positive Vibes apartment"
 description: "Positive Vibes Apartment emerges as a charming retreat in the heart of Vlorë, a mere stone's throw away from the pristine Ri Beach and the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/positive-vibes-apartment-483904222.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483904222.jpg?k=82522f2f9c89f55a37d5c20321f89c56955da646cd0f85eddfb9d7741d0ec86e&o=&hp=1"
 language: en
 slug: positive-vibes-apartment
 address: "Vlore, 1001 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mel’s Place"
 description: "Mel's Place emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/mel-s-place-8ecb6dbf787b.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
 language: en
 slug: mel-s-place
 address: "Bulevardi Zogu I 58, 1016 Tirana, Albania"

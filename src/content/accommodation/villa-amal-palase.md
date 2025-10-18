@@ -1,7 +1,7 @@
 ---
 title: "Villa Amal Palase"
 description: "Villa Amal Palase emerges as a serene retreat in Palasë, striking the perfect balance between accessibility and seclusion with its prime location just over a kilometer from Nazar Beach and a short drive from Palasa Beach."
-featuredImage: "/images/accommodation/villa-amal-palase-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: villa-amal-palase
 address: "Palase,Villa 113/1, Palasë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mediterranean Sea Apartments"
 description: "Mediterranean Sea Apartments emerges as a prime choice for travelers seeking beachfront bliss in Durrës."
-featuredImage: "/images/accommodation/mediterranean-sea-apartments-463032808.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463032808.jpg?k=c9e82ee14d0c6b7508a7ffa0e5f8aa0ab42596c0a469015b2189d9cc5f517de7&o=&hp=1"
 language: en
 slug: mediterranean-sea-apartments
 address: "Rruga Pavaresia, Lagja 13 Plazh, 2002 Durrës, Albania"

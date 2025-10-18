@@ -1,7 +1,7 @@
 ---
 title: "Densti Hotel"
 description: "Densti Hotel emerges as a serene retreat in Velipojë, a mere stone's throw away from the pristine Velipoja Beach and the historic Rozafa Castle Shkodra."
-featuredImage: "/images/accommodation/densti-hotel-474904758.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474904758.jpg?k=5696c1ad9ae51467e59fddc2c2fc4ca897baf3b2b2348501ea2db183cb38ed61&o=&hp=1"
 language: en
 slug: densti-hotel
 address: "Rruga Nr.1, 4001 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Anila"
 description: "Guesthouse Anila emerges as a charming retreat for travelers seeking a blend of comfort and convenience, complemented by captivating city views."
-featuredImage: "/images/accommodation/guesthouse-anila-366658613.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366658613.jpg?k=dab5ee0e44232e2ce91ae9f09ebdfa9a9813309a5f13e6a9680ec7913802d40b&o=&hp=1"
 language: en
 slug: guesthouse-anila
 address: "2 Divjake, 9022 Divjakë, Albania"

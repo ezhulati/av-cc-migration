@@ -1,7 +1,7 @@
 ---
 title: "Krisa's Apartament"
 description: "Krisa's Apartment emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the pristine Saranda Bay Beach and within easy reach of the city's main beach and bustling center."
-featuredImage: "/images/accommodation/krisa-s-apartament-453576162.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453576162.jpg?k=09b4b41ff4271c48375955763f30763d5010df0a0a708a223c158d9585847a59&o=&hp=1"
 language: en
 slug: krisa-s-apartament
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

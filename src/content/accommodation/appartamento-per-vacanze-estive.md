@@ -1,7 +1,7 @@
 ---
 title: "Appartamento per vacanze estive"
 description: "Discover the charm of Vlorë with a stay at Appartamento per vacanze estive, a prime choice for travelers seeking comfort and convenience mere steps from Vjetër Beach."
-featuredImage: "/images/accommodation/appartamento-per-vacanze-estive-469792490.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469792490.jpg?k=e3d0aa12b67f4fdc1b80f5c8ac991e01fa92d0648be7528d84cc977adad07035&o=&hp=1"
 language: en
 slug: appartamento-per-vacanze-estive
 address: "Rruga Gavril Dara, Vlorë, Albania"

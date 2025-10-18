@@ -1,7 +1,7 @@
 ---
 title: "Bar Kafe Pjetri Guest House"
 description: "Bar Kafe Pjetri Guest House emerges as a serene retreat, offering breathtaking mountain views and a cozy stay just a short distance from the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/bar-kafe-pjetri-guest-house-352863415.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352863415.jpg?k=eda4fb8aa0b826b551b2816e3db384e81c39409196219a97d475d5da88700fd2&o=&hp=1"
 language: en
 slug: bar-kafe-pjetri-guest-house
 address: "Rruga Azem Galica Banesa nr 26 Babrru, 1001 Paskuqan, Albania"

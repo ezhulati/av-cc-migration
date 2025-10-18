@@ -1,7 +1,7 @@
 ---
 title: "Alessio Apartments 2"
 description: "Alessio Apartments 2 emerges as a prime choice for travelers seeking comfortable, air-conditioned accommodations in Vlorë, complete with the convenience of a private balcony."
-featuredImage: "/images/accommodation/alessio-apartments-2-367528676.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367528676.jpg?k=aa8a20fdb6a411153e5822979e1fe9d7859f76b12322e9d2da4ebbe442177765&o=&hp=1"
 language: en
 slug: alessio-apartments-2
 address: "Rruga Shyqyri Ali Merka, 9405 Vlorë, Albania"

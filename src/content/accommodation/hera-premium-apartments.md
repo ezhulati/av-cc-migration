@@ -1,7 +1,7 @@
 ---
 title: "Hera Premium Apartments"
 description: "Hera Premium Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/hera-premium-apartments-03bc324ed9f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"
 language: en
 slug: hera-premium-apartments
 address: "Rruga Butrinti, White Dream residence building, 500 m from Santa Quadranta 5 star hotel., 1001 Sarandë, Albania"

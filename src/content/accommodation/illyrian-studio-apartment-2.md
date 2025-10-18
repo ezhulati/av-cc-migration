@@ -1,7 +1,7 @@
 ---
 title: "Illyrian studio apartment 2"
 description: "Illyrian Studio Apartment 2 emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/illyrian-studio-apartment-2-513171945.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513171945.jpg?k=7b123f4d4320dea7813c463ac1f1e2393542b8d5351292a5b2f0d5ae14bd01df&o=&hp=1"
 language: en
 slug: illyrian-studio-apartment-2
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

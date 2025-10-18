@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Tusha"
 description: "Bujtina Tusha emerges as a charming guest house, located within a historic edifice in the heart of Tirana, merely 30 km away from the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/bujtina-tusha-354289397.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354289397.jpg?k=ba2d3e69db0a9787106d84b4f8276cc94507aa3f7a8b5a53c3b00b917fbee4ed&o=&hp=1"
 language: en
 slug: bujtina-tusha
 address: "Shëngjergj, 1000 Tirana, Albania"

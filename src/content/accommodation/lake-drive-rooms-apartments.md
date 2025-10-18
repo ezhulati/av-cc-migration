@@ -1,7 +1,7 @@
 ---
 title: "Lake Drive Rooms & Apartments"
 description: "Lake Drive Rooms & Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lake-drive-rooms-apartments-506503240.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506503240.jpg?k=f64f7a0a5fe482b5be71cc3e1cd9e64eefebfa35044a683e69bed19f6eedc66d&o=&hp=1"
 language: en
 slug: lake-drive-rooms-apartments
 address: "Rruga Faik Konica, 1001 Tirana, Albania"

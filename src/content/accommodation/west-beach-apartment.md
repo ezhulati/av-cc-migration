@@ -1,7 +1,7 @@
 ---
 title: "West Beach Apartment"
 description: "West Beach Apartment emerges as a distinguished 3-star accommodation in Durrës, boasting an enviable seafront location that promises guests an unforgettable stay."
-featuredImage: "/images/accommodation/west-beach-apartment-75685622.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/75685622.jpg?k=35fa8f1e95c032c8c158e7adc693b4166db05b4b321c72693d905ba0f2373009&o=&hp=1"
 language: en
 slug: west-beach-apartment
 address: "S. Efendi Tower 3 apartmet 204, Currila, 2001 Durrës, Albania"

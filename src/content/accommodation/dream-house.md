@@ -1,7 +1,7 @@
 ---
 title: "Dream House"
 description: "Dream House emerges as a serene retreat in the heart of Durrës, Durres County, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/dream-house-500631500.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500631500.jpg?k=78818977a731d0e0531ff0153b95ec2fa44a92fda6077c545524ce6152e55244&o=&hp=1"
 language: en
 slug: dream-house
 address: "https://maps.google.com/?q=41.274784,19.517408, 2001 Durrës, Albania"

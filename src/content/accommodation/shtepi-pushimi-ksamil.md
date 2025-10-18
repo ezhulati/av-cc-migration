@@ -1,7 +1,7 @@
 ---
 title: "Shtepi pushimi Ksamil"
 description: "Shtepi pushimi Ksamil emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/shtepi-pushimi-ksamil-477035800.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477035800.jpg?k=94e9fb41cfdbd51d03a3a5d3bebefe513608b4060a5ef2232168cdd6f8523589&o=&hp=1"
 language: en
 slug: shtepi-pushimi-ksamil
 address: "Ksamil, Ksamil, Albania"

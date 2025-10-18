@@ -1,7 +1,7 @@
 ---
 title: "Garsoniere Grisi"
 description: "Garsoniere Grisi emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, situated a mere stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/garsoniere-grisi-450279545.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450279545.jpg?k=a9035945f9b93072b5c614a77603e1ab947a64719f1249cc48c83980719db178&o=&hp=1"
 language: en
 slug: garsoniere-grisi
 address: "Rruga Murat Tërbaçi 25 /7 Flor, 9403 Vlorë, Albania"

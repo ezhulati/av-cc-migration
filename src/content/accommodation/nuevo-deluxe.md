@@ -1,7 +1,7 @@
 ---
 title: "Nuevo Deluxe"
 description: "Nuevo Deluxe emerges as a distinguished choice for travelers seeking a blend of comfort and adventure in Shëngjin, situated a mere 38 km from the historic Rozafa Castle Shkodra."
-featuredImage: "/images/accommodation/nuevo-deluxe-304406366.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304406366.jpg?k=1cd7532a7ff96cb22178c26218268e5e0bb85381e989e10e50d0a4e5f71b1209&o=&hp=1"
 language: en
 slug: nuevo-deluxe
 address: "Rruga Valbona ,Shengjin ,Lezhe, 4501 Shëngjin, Albania"

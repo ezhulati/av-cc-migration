@@ -1,7 +1,7 @@
 ---
 title: "Comfy apartment- Sunny balcony"
 description: "Comfy Apartment - Sunny Balcony emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/comfy-apartment-sunny-balcony-392295129.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/392295129.jpg?k=28cc5eba527d5f58a151bf64ae982f0d42696c9bf64be38a7368ecdb0826dfa2&o=&hp=1"
 language: en
 slug: comfy-apartment-sunny-balcony
 address: "Tirane, \"Muhamet Gjollesha\" Street, building 67, apartment nr 5, floor nr 3, Tirana, Albania"

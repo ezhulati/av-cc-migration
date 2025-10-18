@@ -1,7 +1,7 @@
 ---
 title: "Luxury Rooftop Apartament"
 description: "Luxury Rooftop Apartment emerges as a serene retreat, offering breathtaking garden views from its expansive terrace."
-featuredImage: "/images/accommodation/luxury-rooftop-apartament-406730424.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406730424.jpg?k=a1a33c3fc5ea662785110bd66f004d67af1e892d4fc5e40205137a5cab388345&o=&hp=1"
 language: en
 slug: luxury-rooftop-apartament
 address: "Rruga Dervish Hekali, 9300 Fier, Albania"

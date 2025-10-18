@@ -1,7 +1,7 @@
 ---
 title: "Apartament Oresti"
 description: "Discover the charm of Korçë from the comfort of Apartament Oresti, a prime accommodation choice offering panoramic city views."
-featuredImage: "/images/accommodation/apartament-oresti-photo.jpg64.jpg"
+featuredImage: "https://lh5.googleusercontent.com/-WvR5B572RJM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCwf0XtGKx9B3eI34iXl6-v30Ohg/s96-c/photo.jpg64"
 language: en
 slug: apartament-oresti
 address: "Bulevardi Gjergj Kastrioti, 7002 Korçë, Albania"

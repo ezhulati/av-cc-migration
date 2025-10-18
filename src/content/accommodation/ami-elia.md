@@ -1,7 +1,7 @@
 ---
 title: "Ami&Elia"
 description: "Ami&Elia emerges as a serene retreat offering garden views, complete with a private garden and balcony for an intimate escape just over a kilometer from the tranquil Vjetër Beach."
-featuredImage: "/images/accommodation/ami-elia-486823892.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486823892.jpg?k=4f9eef3ca6836d23662e1e32946a95bb01905a7d57645fa28fdcbe7cf02bf3ae&o=&hp=1"
 language: en
 slug: ami-elia
 address: "Rruga Gjergj Kastrioti, 9401 Vlorë, Albania"

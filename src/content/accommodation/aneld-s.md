@@ -1,7 +1,7 @@
 ---
 title: "Aneld's"
 description: "Aneld's Apartment emerges as a serene retreat in the vibrant heart of Sarandë, merely moments away from the city's most pristine beaches."
-featuredImage: "/images/accommodation/aneld-s-316277115.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/316277115.jpg?k=3ccfa4ad177bc13739eca3db6de6553d0da9308f28f7cd5b1cba60ebbe97c2bc&o=&hp=1"
 language: en
 slug: aneld-s
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

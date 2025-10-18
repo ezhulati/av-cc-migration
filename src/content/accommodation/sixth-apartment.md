@@ -1,7 +1,7 @@
 ---
 title: "Sixth Apartment"
 description: "Sixth Apartment emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/sixth-apartment-201473458.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201473458.jpg?k=e4c10c7b89b0d12d69b279a62155159814e74c3695d5286a8aa4e7ce4f8e87e5&o=&hp=1"
 language: en
 slug: sixth-apartment
 address: "Rruga Oso Kuka Ndertesa 6, Hyrja 4, Apartamenti 6., 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Arkle Apartment 1"
 description: "Arkle Apartment 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/arkle-apartment-1-413548147.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413548147.jpg?k=6d9eb45890c227b50c8a7205ead4709c45c7e851112ed33fc56095355595b9cb&o=&hp=1"
 language: en
 slug: arkle-apartment-1
 address: "34 Rruga Muhamet Gjollesha Apartament 16, 4th Floor, 1025 Tirana, Albania"

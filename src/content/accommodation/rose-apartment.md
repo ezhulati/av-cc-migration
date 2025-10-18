@@ -1,7 +1,7 @@
 ---
 title: "Rose Apartment"
 description: "Rose Apartment emerges as a serene oasis in the heart of Sarandë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/rose-apartment-356831188.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356831188.jpg?k=ff98124d91aa13d476b39edd8824549498d66b7f271fc3720ea270632ae28f4e&o=&hp=1"
 language: en
 slug: rose-apartment
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

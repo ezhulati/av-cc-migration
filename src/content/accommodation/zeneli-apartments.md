@@ -1,7 +1,7 @@
 ---
 title: "ZENELI APARTMENTS"
 description: "ZENELI APARTMENTS emerges as a prime choice for travelers seeking comfort and convenience, located just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/zeneli-apartments-489250846.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489250846.jpg?k=818e03365586609749bbda06d30fb5ebdfeaf2a8e694983786cccb6887840c40&o=&hp=1"
 language: en
 slug: zeneli-apartments
 address: "Rruga Shaban Demiraj N 55 appartamento 38, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "E Apartment"
 description: "E Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/e-apartment-488967787.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488967787.jpg?k=5138a30cb37ff85614e66f997b0faad5fb8251bd223aebbfdfe6d9fc153a372b&o=&hp=1"
 language: en
 slug: e-apartment
 address: "Mahmut Bobrati 3, Tirana, Albania"

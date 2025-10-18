@@ -1,7 +1,7 @@
 ---
 title: "Condesa"
 description: "Condesa emerges as a charming retreat located just 1 km from the bustling Skanderbeg Square, offering guests a serene escape with the convenience of city proximity."
-featuredImage: "/images/accommodation/condesa-404769094.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404769094.jpg?k=5967c7d8920f445b939def1fc846121f47c6a2ea3362f81d2dd59abb4e1b1e2f&o=&hp=1"
 language: en
 slug: condesa
 address: "Rruga Qemal Stafa, 1005 Tirana, Albania"

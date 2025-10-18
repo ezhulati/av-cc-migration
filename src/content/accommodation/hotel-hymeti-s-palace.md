@@ -1,7 +1,7 @@
 ---
 title: "Hotel Hymeti's Palace"
 description: "Hotel Hymeti's Palace stands as a beacon of luxury in Pogradec, a mere stone's throw from the serene Lake Ohrid."
-featuredImage: "/images/accommodation/hotel-hymeti-s-palace-418968669.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/418968669.jpg?k=1cde70f92fe775192da8caa0dcecdefc5fc3ea27d012fa83bfed1c2e0f91d8d4&o=&hp=1"
 language: en
 slug: hotel-hymeti-s-palace
 address: "Rruga Fan S. Noli, 7300 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Marsela"
 description: "Marsela emerges as a serene retreat in Shkodër, boasting garden views that promise a tranquil escape."
-featuredImage: "/images/accommodation/marsela-405530632.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405530632.jpg?k=c8bb542208bc8adb4e3b24099aa1d3cf325e88d6058ee5885eb4bed4f209318c&o=&hp=1"
 language: en
 slug: marsela
 address: "grand’ resort Europa velipoje, Shkodër, Albania"

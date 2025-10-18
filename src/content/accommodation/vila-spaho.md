@@ -1,7 +1,7 @@
 ---
 title: "Vila Spaho"
 description: "Vila Spaho emerges as a charming retreat in the heart of Korçë, offering a serene garden view and the convenience of modern amenities."
-featuredImage: "/images/accommodation/vila-spaho-434692063.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434692063.jpg?k=6ce2d664190d5f2a6b3d3e9842e8d19bbb04bdf70fb7f1f436c678c2400e1cf0&o=&hp=1"
 language: en
 slug: vila-spaho
 address: "Rruga Niko Kovaci. Lagjia nr 10, 7001 Korçë, Albania"

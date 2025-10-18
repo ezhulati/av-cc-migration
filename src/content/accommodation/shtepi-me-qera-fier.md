@@ -1,7 +1,7 @@
 ---
 title: "Shtepi Me qera Fier"
 description: "Discover the charm of Fier with a stay at Shtepi Me qera Fier, a delightful holiday home located just 38 km from both Independence Square and Kuzum Baba."
-featuredImage: "/images/accommodation/shtepi-me-qera-fier-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: shtepi-me-qera-fier
 address: "Lagja Liri Gero, rruga \"Thoma Kopace\", Fier, 1001 Fier, Albania"

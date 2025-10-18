@@ -1,7 +1,7 @@
 ---
 title: "Family Apartment Durres"
 description: "Family Apartment Durres presents a refreshing retreat in the heart of Durrës, offering guests a unique blend of convenience and comfort."
-featuredImage: "/images/accommodation/family-apartment-durres-463190015.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463190015.jpg?k=f12423034404906ae98719d70d97ec8e04b2918fba0571a4e168614f32fd62de&o=&hp=1"
 language: en
 slug: family-apartment-durres
 address: "Durres Rruga Taulantja Lagjia 1 zip code 2001, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury Vila 3"
 description: "Luxury Vila 3 emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/luxury-vila-3-485014387.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485014387.jpg?k=fd2e53efbf0119539e1342b6e419fc451b6fd302469ff8f48c9533ee078491f0&o=&hp=1"
 language: en
 slug: luxury-vila-3
 address: "Rruga Aleksandër Moisiu, Vlore, Vlorë, Albania"

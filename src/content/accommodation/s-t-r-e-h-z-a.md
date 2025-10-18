@@ -1,7 +1,7 @@
 ---
 title: "S t r e h ë z a"
 description: "S t r e h ë z a emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/s-t-r-e-h-z-a-357759585.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357759585.jpg?k=2d648980106e83a52e163642b502c3c906300e84900119e0f02c8d8f69cd704c&o=&hp=1"
 language: en
 slug: s-t-r-e-h-z-a
 address: "Rruga Jordan Misja, 1001 Tirana, Albania"

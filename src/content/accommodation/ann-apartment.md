@@ -1,7 +1,7 @@
 ---
 title: "Ann'Apartment"
 description: "Ann'Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Orikum, positioned just a stone's throw away from the pristine Nettuno Beach and a brief stroll from Orikum Beach."
-featuredImage: "/images/accommodation/ann-apartment-201820768.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201820768.jpg?k=49b483b30677b0921a15e844c396a4ca9f355cf68fa4c5d3db4f9b1af79b3761&o=&hp=1"
 language: en
 slug: ann-apartment
 address: "Rruga Demokracia, 1001 Orikum, Albania"

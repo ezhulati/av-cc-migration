@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Valamar Nikolla 2 camere"
 description: "Appartamento Valamar Nikolla 2 camere emerges as a prime choice for travelers seeking a serene getaway in the heart of Durres County, just a stone's throw from the pristine Lalëz Bay Beach."
-featuredImage: "/images/accommodation/appartamento-valamar-nikolla-2-camere-473194595.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473194595.jpg?k=7edffd286ce9d7f9a6481a037f07d67f3b6d13b426b87b8c2f60fc1e40b26aa8&o=&hp=1"
 language: en
 slug: appartamento-valamar-nikolla-2-camere
 address: "Hamallaj-Perlat, Hamallaj, Albania"

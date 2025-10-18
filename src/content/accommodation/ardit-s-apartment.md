@@ -1,7 +1,7 @@
 ---
 title: "Ardit’s apartment."
 description: "Ardit's Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/ardit-s-apartment-510700923.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510700923.jpg?k=85f1ac3dd0856b40ed57651b40cf627cbbfe8d12ddeb9ad6269e5b07a577a410&o=&hp=1"
 language: en
 slug: ardit-s-apartment
 address: "Unaza re astir rruga Teodor Keko (British bar) Apt 5-A Second flor door2-3, 5001 Tirana, Albania"

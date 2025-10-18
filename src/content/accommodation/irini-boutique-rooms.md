@@ -1,7 +1,7 @@
 ---
 title: "IRINI boutique rooms!!!"
 description: "IRINI Boutique Rooms emerges as a charming haven for travelers seeking the perfect blend of comfort and convenience in Himare, just a stone's throw away from the pristine Livadhi Beach."
-featuredImage: "/images/accommodation/irini-boutique-rooms-202948664.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202948664.jpg?k=55341bfe17f2440fc0bec9e094d69b802d5e1961f073dee0c17bf166af4919d6&o=&hp=1"
 language: en
 slug: irini-boutique-rooms
 address: "livadhi himare, 9425 Himare, Albania"

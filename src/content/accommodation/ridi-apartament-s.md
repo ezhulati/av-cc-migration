@@ -1,7 +1,7 @@
 ---
 title: "Ridi Apartament's"
 description: "Ridi Apartament's emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/ridi-apartament-s-196126086.we.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/196126086.webp?k=1ab690b05e21fca443138dcb1d8fd5b0da5a55489f11a5192b732dcce6b7c30a&o=?t=1675372626"
 language: en
 slug: ridi-apartament-s
 address: "L.Pavaresia,Prane Market Lulo Vlore, 9403 Vlorë, Albania"

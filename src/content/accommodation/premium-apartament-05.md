@@ -1,7 +1,7 @@
 ---
 title: "Premium APARTAMENT 05"
 description: "Premium APARTAMENT 05 emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/premium-apartament-05-367243580.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367243580.jpg?k=5e6dbdc440c6de1443de49147090cb542fb377729d9ad0bc41199d0d0b6c28c5&o=&hp=1"
 language: en
 slug: premium-apartament-05
 address: "Rruga Çamëria, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Semajo"
 description: "Hotel Semajo stands out as a prime choice for travelers seeking both comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/hotel-semajo-214288968.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214288968.jpg?k=95bb945d20b76e5b191b75d8fcf0df27d477de786bf3a9fbedbc7e487d520945&o=&hp=1"
 language: en
 slug: hotel-semajo
 address: "Uji Ftohte 7 Pallatet, 9403 Vlorë, Albania"

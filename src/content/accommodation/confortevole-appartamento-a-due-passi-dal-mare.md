@@ -1,7 +1,7 @@
 ---
 title: "Confortevole appartamento a due passi dal mare"
 description: "Confortevole Appartamento a Due Passi dal Mare emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations coupled with the convenience of a balcony, situated in the heart of Durrës."
-featuredImage: "/images/accommodation/confortevole-appartamento-a-due-passi-dal-mare-526374063.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526374063.jpg?k=c998f58acbd1364d8f021483df7feabd9069c37a36bad4001393fb143deaaa70&o=&hp=1"
 language: en
 slug: confortevole-appartamento-a-due-passi-dal-mare
 address: "Rruga Taulantia, Durrës, Albania"

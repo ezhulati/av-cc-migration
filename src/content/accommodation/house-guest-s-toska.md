@@ -1,7 +1,7 @@
 ---
 title: "House Guest’s Toska"
 description: "House Guest's Toska stands out as a charming holiday home in Berat, providing guests with the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/house-guest-s-toska-435684732.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435684732.jpg?k=523b6d78e839a725a0319788d9a1628bcc3f8443e292275ac9a4c5daab3f8745&o=&hp=1"
 language: en
 slug: house-guest-s-toska
 address: "Rruga Koli Vesho 4, 5001 Berat, Albania"

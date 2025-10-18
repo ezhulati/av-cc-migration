@@ -1,7 +1,7 @@
 ---
 title: "Green Studio Apartment"
 description: "Green Studio Apartment emerges as a serene haven, offering a tranquil retreat amidst the vibrant city life, located just 2."
-featuredImage: "/images/accommodation/green-studio-apartment-479804355.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479804355.jpg?k=d833a6021d6cabb615e17625f5209f584c936762dd32457d8a7fffdd1e7a88bf&o=&hp=1"
 language: en
 slug: green-studio-apartment
 address: "22 Rruga Bilal Golemi, 1019 Tirana, Albania"

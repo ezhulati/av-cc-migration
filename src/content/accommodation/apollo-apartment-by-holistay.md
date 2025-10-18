@@ -1,7 +1,7 @@
 ---
 title: "Apollo Apartment by Holistay"
 description: "Apollo Apartment by Holistay emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/apollo-apartment-by-holistay-408009828.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408009828.jpg?k=7fc5eac47f297727f4cccaea0898174a177c73ff935911d0a5f4bf6c44356fc8&o=&hp=1"
 language: en
 slug: apollo-apartment-by-holistay
 address: "Rruga Kongresi i Lushnjes, 1001 Tirana, Albania"

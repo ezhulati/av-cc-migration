@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury Two-Bedroom Premium Apartment"
 description: "EKA Luxury Two-Bedroom Premium Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/eka-luxury-two-bedroom-premium-apartment-326961719.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326961719.jpg?k=1f3472578edec82fef74111a2bfa4fc035e912cefeb69a4de7af6d1b09433125&o=&hp=1"
 language: en
 slug: eka-luxury-two-bedroom-premium-apartment
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

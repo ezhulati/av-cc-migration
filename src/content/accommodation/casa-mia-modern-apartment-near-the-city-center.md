@@ -1,7 +1,7 @@
 ---
 title: "Casa Mia - Modern Apartment near the city center"
 description: "Casa Mia - Modern Apartment stands out as a serene haven, conveniently located just a short stroll from the vibrant Skanderbeg Square."
-featuredImage: "/images/accommodation/casa-mia-modern-apartment-near-the-city-center-361711608.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361711608.jpg?k=efbe2978667dcff05832dd20dcf42ebb5b2ac54103a3bd39403b49838f627236&o=&hp=1"
 language: en
 slug: casa-mia-modern-apartment-near-the-city-center
 address: "Rruga Myslym Shyri Apartment 1, floor 4, 1001 Tirana, Albania"

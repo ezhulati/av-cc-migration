@@ -1,7 +1,7 @@
 ---
 title: "Alpha Apartments Tirana Free Parking"
 description: "Alpha Apartments Tirana 26 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/alpha-apartments-tirana-free-parking-522555321.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522555321.jpg?k=0d53da14e46fe45b256daa66898d47b706f716d1d64583cc228cfaf82b7ef315&o=&hp=1"
 language: en
 slug: alpha-apartments-tirana-free-parking
 address: "Rruga Bardhyl, 1015 Tirana, Albania"

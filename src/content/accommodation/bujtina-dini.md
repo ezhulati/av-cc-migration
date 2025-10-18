@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Dini"
 description: "Bujtina Dini in Rubik stands out as a serene retreat, boasting breathtaking mountain views and providing guests with a cozy stay."
-featuredImage: "/images/accommodation/bujtina-dini-463583625.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463583625.jpg?k=64c25a52af6d6c1b512da0145ce769501c939680ac098916c48748c86db70ef1&o=&hp=1"
 language: en
 slug: bujtina-dini
 address: "Rruga Katund i Vjeter, 4603 Rubik, Albania"

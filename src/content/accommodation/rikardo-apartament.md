@@ -1,7 +1,7 @@
 ---
 title: "Rikardo Apartament"
 description: "Rikardo Apartament emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/rikardo-apartament-479897480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479897480.jpg?k=18ff2bed77841ae9d2e1a3bdb025e439645feff1580fdd99836d4e86871050ce&o=&hp=1"
 language: en
 slug: rikardo-apartament
 address: "neighborhood: Rilindja / streets: Gjergj Kastrioti apartament: 1/ building :76 /H.7, 9401 Vlorë, Albania"

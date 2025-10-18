@@ -1,7 +1,7 @@
 ---
 title: "Vila Pepaj Razem"
 description: "Vila Pepaj Razem stands as a serene retreat, located just 47 km from the iconic Clock Tower in Podgorica, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/vila-pepaj-razem-495445985.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495445985.jpg?k=8c2cc9fe5c09fe8df10f0f508a75f30ec2eb0ecf8d426e4da63d5a3449f35dd2&o=&hp=1"
 language: en
 slug: vila-pepaj-razem
 address: "Rruga e Razmes Razem, 4301 Razëm, Albania"

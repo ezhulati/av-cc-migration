@@ -1,7 +1,7 @@
 ---
 title: "Apartments Klajdi"
 description: "Apartments Klajdi emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/apartments-klajdi-298316529.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298316529.jpg?k=6e28522a7807bb9e12865c2bfddf96a1ce5238c2c75ed43ff97caceea1deb8c3&o=&hp=1"
 language: en
 slug: apartments-klajdi
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

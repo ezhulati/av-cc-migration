@@ -1,7 +1,7 @@
 ---
 title: "Meni's family apartament"
 description: "Meni's Family Apartment offers a prime beachfront location in Sarandë, just a stone's throw away from Saranda City Beach and a short stroll from La Petite Beach."
-featuredImage: "/images/accommodation/meni-s-family-apartament-175851300.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175851300.jpg?k=421aa92c387f89b7346a8c7fcf3e3ccfeb7584f3fd96b9d840b6d921339d12c6&o=&hp=1"
 language: en
 slug: meni-s-family-apartament
 address: "Rruga Naim Frashëri Rruga naim frasheri sarande albania, 9702 Sarandë, Albania"

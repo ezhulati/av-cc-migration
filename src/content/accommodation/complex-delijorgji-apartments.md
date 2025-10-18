@@ -1,7 +1,7 @@
 ---
 title: "Complex Delijorgji Apartments"
 description: "Complex Delijorgji Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/complex-delijorgji-apartments-471963202.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471963202.jpg?k=7822a4c2018a96d2a289847c4c241498e3482cc95153ba6649b7341d134dba76&o=&hp=1"
 language: en
 slug: complex-delijorgji-apartments
 address: "Rruga e Kavajës, Nd 245, H 5, Ap 13., 1023 Tirana, Albania"

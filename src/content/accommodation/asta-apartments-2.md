@@ -1,7 +1,7 @@
 ---
 title: "ASTA Apartments 2"
 description: "ASTA Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, boasting a prime location just a short stroll from Vjetër Beach and within walking distance to Vlore Beach."
-featuredImage: "/images/accommodation/asta-apartments-2-8ecb6dbf787b.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
 language: en
 slug: asta-apartments-2
 address: "Bulevardi Ismail Qemali Building in Front of Flamurtari Stadium. 5th Floor, 9401 Vlorë, Albania"

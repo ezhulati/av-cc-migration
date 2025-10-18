@@ -1,7 +1,7 @@
 ---
 title: "TAM Serviced Apartment City Centre No1"
 description: "TAM Serviced Apartment City Centre No1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tam-serviced-apartment-city-centre-no1-d3882ab9674d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
 language: en
 slug: tam-serviced-apartment-city-centre-no1
 address: "Rruga Maliq Muço Lala’s Apartments Rruga Maliq Muço, Ndertesa 4, Hyrja 10, Apartamenti 1, 1001 Tirana, Albania"

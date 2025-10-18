@@ -1,7 +1,7 @@
 ---
 title: "Ailin studio apart"
 description: "Ailin Studio Apart emerges as a serene oasis in the vibrant heart of Sarandë, merely a stone's throw away from the pristine shores of Flamingo Beach and the inviting Santa Quaranta Beach."
-featuredImage: "/images/accommodation/ailin-studio-apart-527108187.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527108187.jpg?k=1a7d43eb48fa8758aa500a9e07dc9b5e2e9816e704ff4fa1bb525d815a481c1d&o=&hp=1"
 language: en
 slug: ailin-studio-apart
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

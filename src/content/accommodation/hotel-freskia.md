@@ -1,7 +1,7 @@
 ---
 title: "Hotel Freskia"
 description: "Hotel Freskia emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Gjirokastër, merely 44 km away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-freskia-153030056.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153030056.jpg?k=7d2a957706eadc9cc29d0653291bb38d99452767ca0d3afc8e59b1db8d9e5fb0&o=&hp=1"
 language: en
 slug: hotel-freskia
 address: "Bulevardi 18 Shtatori Prane pallatit te sportit, 6001 Gjirokastër, Albania"

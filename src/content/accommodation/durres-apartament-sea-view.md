@@ -1,7 +1,7 @@
 ---
 title: "Durres Apartament Sea View"
 description: "Durres Apartament Sea View stands as a prime example of modern comfort meeting the serene beauty of the Albanian coastline."
-featuredImage: "/images/accommodation/durres-apartament-sea-view-489741394.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489741394.jpg?k=d1f7424c683bf9dad555889505178535c0fb3824ed2bdbb9bfc33d482e009415&o=&hp=1"
 language: en
 slug: durres-apartament-sea-view
 address: "Rruga Porta e Detit, Durrës, Albania"

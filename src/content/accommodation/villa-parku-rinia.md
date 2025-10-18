@@ -1,7 +1,7 @@
 ---
 title: "Villa Parku Rinia"
 description: "Villa Parku Rinia emerges as a distinguished accommodation choice in Korçë, strategically positioned within a comfortable distance of 44 km from the serene Ohrid Lake Springs and 43 km from the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/villa-parku-rinia-241179349.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/241179349.jpg?k=675bbc417c1a6635ec2ba4bfe7f3f68d2e1d06903e405b7093128295d9619c2b&o=&hp=1"
 language: en
 slug: villa-parku-rinia
 address: "Rruga Rilindasit, Nr. 6, 7001 Korçë, Albania"

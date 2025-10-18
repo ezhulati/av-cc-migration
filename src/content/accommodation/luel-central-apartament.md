@@ -1,7 +1,7 @@
 ---
 title: "Luel Central Apartament"
 description: "Luel Central Apartament stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luel-central-apartament-AOh14GgVfutN.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgVfutNWur0TG2NWCCdQIodjRLyhbMayAZoaR17=s96-c64"
 language: en
 slug: luel-central-apartament
 address: "Rruga Abdulla Keta, 1017 Tirana, Albania"

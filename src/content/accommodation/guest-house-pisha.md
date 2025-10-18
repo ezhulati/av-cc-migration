@@ -1,7 +1,7 @@
 ---
 title: "Guest House \"Pisha\""
 description: "Guest House \"Pisha\" emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/guest-house-pisha-464437938.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464437938.jpg?k=ac725c0f7af265b714e42199dc8f8da5ba5bf2bf9e321b7cbdcc9f531f4f6e28&o=&hp=1"
 language: en
 slug: guest-house-pisha
 address: "Rruga \"Borzilokve\", 2001 Durrës, Albania"

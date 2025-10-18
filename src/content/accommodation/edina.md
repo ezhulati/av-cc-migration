@@ -1,7 +1,7 @@
 ---
 title: "Edina"
 description: "Edina Hotel emerges as a serene oasis in the heart of Sarandë, merely a stone's throw away from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/edina-420239391.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420239391.jpg?k=c59dce0a2ed33654a04ccf1e8b3a2f44a26e27c234e11491814353e8ed5351d3&o=&hp=1"
 language: en
 slug: edina
 address: "Rruga Butrinti lagjia nr 1, 1001 Sarandë, Albania"

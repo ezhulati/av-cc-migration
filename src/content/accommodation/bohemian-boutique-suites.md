@@ -1,7 +1,7 @@
 ---
 title: "Bohemian Boutique Suites"
 description: "Bohemian Boutique Suites stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë, just a stone's throw away from Independence Square."
-featuredImage: "/images/accommodation/bohemian-boutique-suites-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: bohemian-boutique-suites
 address: "Vlore - Justin Godard, 9401 Vlorë, Albania"

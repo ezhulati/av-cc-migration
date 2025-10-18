@@ -1,7 +1,7 @@
 ---
 title: "TIRANA 2BDR Apt NEAR OLYMPIC PARK"
 description: "TIRANA 2BDR Apt NEAR OLYMPIC PARK offers a refreshing stay in the heart of Tirana, providing guests with the convenience of air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/tirana-2bdr-apt-near-olympic-park-526494685.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526494685.jpg?k=be925b0d64416732b89af7b5aec5051f5cd34b525cc0657ff9c92ad90ee9c8cf&o=&hp=1"
 language: en
 slug: tirana-2bdr-apt-near-olympic-park
 address: "Rruga Komuna e Parisit, 1020 Tirana, Albania"

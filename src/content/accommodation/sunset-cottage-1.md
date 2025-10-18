@@ -1,7 +1,7 @@
 ---
 title: "Sunset Cottage 1"
 description: "Sunset Cottage 1 emerges as a prime choice for travelers seeking a serene getaway, located just a stone's throw away from the pristine Paradise Beach in Ksamil."
-featuredImage: "/images/accommodation/sunset-cottage-1-453873139.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453873139.jpg?k=1022efe8aec314c31ff47e6baa86374553f02618477388e6ebe3295ca95c31e7&o=&hp=1"
 language: en
 slug: sunset-cottage-1
 address: "Rruga Naim Frasheri, Ksamil, Albania"

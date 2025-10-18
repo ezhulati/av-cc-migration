@@ -1,7 +1,7 @@
 ---
 title: "Julia Luxury Apartment"
 description: "Julia Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/julia-luxury-apartment-481329715.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481329715.jpg?k=f765917e17c8654f57127af631fd7984009f086a50067c2a27dec1a52537445c&o=&hp=1"
 language: en
 slug: julia-luxury-apartment
 address: "Rruga Pavaresia Lagjia 13, Shkembi i Kavajes, Durres 1st Floor, Durrës, Albania"

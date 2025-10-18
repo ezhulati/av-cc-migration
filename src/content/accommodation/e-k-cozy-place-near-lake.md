@@ -1,7 +1,7 @@
 ---
 title: "E&K Cozy Place near Lake"
 description: "E&K Cozy Place near Lake emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/e-k-cozy-place-near-lake-417044878.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417044878.jpg?k=fc29d6912eaf121a24bd1978daaf19560f74d8baaaf846f3ecdebe8d2b2193b4&o=&hp=1"
 language: en
 slug: e-k-cozy-place-near-lake
 address: "Rruga Ymer Kurti Building 8, Entrance 3, 3rd floor, Apartment 17, 1017 Tirana, Albania"

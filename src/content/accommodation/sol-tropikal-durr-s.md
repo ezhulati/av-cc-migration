@@ -1,7 +1,7 @@
 ---
 title: "Sol Tropikal Durrës"
 description: "Sol Tropikal Durrës emerges as a premier 4-star destination for travelers seeking a blend of comfort and convenience along the picturesque shores of Durrës."
-featuredImage: "/images/accommodation/sol-tropikal-durr-s-474559550.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474559550.jpg?k=3f19585c4b11098819c910b4f4d953e83adae1e3b2bfc8a1e8f6c4bfe042f7c8&o=&hp=1"
 language: en
 slug: sol-tropikal-durr-s
 address: "Plazh Lagjia 13, Plepa,2005, 1011 Durrës, Albania"

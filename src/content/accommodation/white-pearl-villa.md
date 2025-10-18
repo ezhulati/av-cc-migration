@@ -1,7 +1,7 @@
 ---
 title: "White Pearl Villa"
 description: "Discover the charm of Dhërmi with a stay at White Pearl Villa, a serene retreat located just a short distance from the pristine Dhermi Beach."
-featuredImage: "/images/accommodation/white-pearl-villa-477845127.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477845127.jpg?k=afbe49e75e84091615b1a5ee6cdcb312b97f029340dc9397c859b900968a44e5&o=&hp=1"
 language: en
 slug: white-pearl-villa
 address: "Rruga Perivolo, Dhërmi, Albania"

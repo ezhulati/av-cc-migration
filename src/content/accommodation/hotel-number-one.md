@@ -1,7 +1,7 @@
 ---
 title: "Hotel Number One"
 description: "Hotel Number One stands as a distinguished presence in Gjirokastër, offering guests a blend of convenience and comfort just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-number-one-429387858.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429387858.jpg?k=ac12dc09cbdda0ffb6e4e35c1524b31be2f27ded8f3f5e891264ad7cc8e9fba4&o=&hp=1"
 language: en
 slug: hotel-number-one
 address: "Rruga Harillaq Liti 6001, 6001 Gjirokastër, Albania"

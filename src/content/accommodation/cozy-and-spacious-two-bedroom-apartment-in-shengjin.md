@@ -1,7 +1,7 @@
 ---
 title: "Cozy and spacious two bedroom apartment in Shengjin"
 description: "Discover the charm of Shëngjin from the comfort of a beachfront gem, the Cozy and Spacious Two Bedroom Apartment."
-featuredImage: "/images/accommodation/cozy-and-spacious-two-bedroom-apartment-in-shengjin-382878855.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382878855.jpg?k=4c8e189a8002d115b0c0ae733e856b4a975ac27c65cc1f291b8e3f33f634efce&o=&hp=1"
 language: en
 slug: cozy-and-spacious-two-bedroom-apartment-in-shengjin
 address: "Rruga Shëngjin - Kune 8th floor, Shëngjin, Albania"

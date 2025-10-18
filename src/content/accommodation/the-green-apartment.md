@@ -1,7 +1,7 @@
 ---
 title: "The Green Apartment"
 description: "Discover the charm of The Green Apartment, a serene haven located in the heart of Golem, offering breathtaking garden views and a stone's throw away from the pristine shores of Qerret Beach and Golem Beach."
-featuredImage: "/images/accommodation/the-green-apartment-102949815.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102949815.jpg?k=370f9e2a415407df2dc9ce6fcdf138cef6d49076fbe31bb64eec6ce481a382d7&o=&hp=1"
 language: en
 slug: the-green-apartment
 address: "Mali robit, 2501 Golem, Albania"

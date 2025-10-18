@@ -1,7 +1,7 @@
 ---
 title: "Farma Sotira"
 description: "Farma Sotira emerges as a serene retreat in the south-eastern Albanian countryside, a mere 15 kilometers from the quaint town of Leskovik."
-featuredImage: "/images/accommodation/farma-sotira-100979686.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100979686.jpg?k=1bb5347adab7c8e9ce7943d30dba8380963b581998cb70cd919b8341b4c6c031&o=&hp=1"
 language: en
 slug: farma-sotira
 address: "Rruga Nacionale Erseke - Leskovik, 7401 Erseke Albania, 7402 Leskovik, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Family Tree - best in area-SELF check in"
 description: "Family Tree Aparthotel emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/family-tree-best-in-area-self-check-in-361332504.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361332504.jpg?k=5bae550be334ec131c5de1ed732e9e0469739912fd5efb78b123c1d4facfd097&o=&hp=1"
 language: en
 slug: family-tree-best-in-area-self-check-in
 address: "Rruga Liria, 2504 Golem, Albania"

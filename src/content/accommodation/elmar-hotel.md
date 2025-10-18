@@ -1,7 +1,7 @@
 ---
 title: "ELMAR HOTEL"
 description: "Elmar Hotel stands out as a beacon of comfort and convenience in Vlorë, offering guests an exceptional stay mere steps away from the pristine Vlore Beach and the vibrant Ri Beach."
-featuredImage: "/images/accommodation/elmar-hotel-369705971.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369705971.jpg?k=b4e1d9318a0e7fa204ace80374da4935a0011b49d33f4fa5a61c0950552a8d49&o=&hp=1"
 language: en
 slug: elmar-hotel
 address: "Rruga Murat Tërbaçi, 9404 Vlorë, Albania"

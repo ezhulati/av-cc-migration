@@ -1,7 +1,7 @@
 ---
 title: "Casta Diva Boutique Hotel"
 description: "Casta Diva Boutique Hotel, situated in the charming town of Korçë, emerges as a prime choice for travelers seeking both comfort and convenience, a mere 45 km away from the serene Ohrid Lake Springs."
-featuredImage: "/images/accommodation/casta-diva-boutique-hotel-507660703.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507660703.jpg?k=8b2b376969030c610f2ebb90f2e25498959cc9addb491e152e3bfedd0246cc96&o=&hp=1"
 language: en
 slug: casta-diva-boutique-hotel
 address: "Rr. Antonio athanas, 7000 Korçë, Albania"

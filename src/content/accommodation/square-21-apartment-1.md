@@ -1,7 +1,7 @@
 ---
 title: "Square 21 Apartment 1"
 description: "Square 21 Apartment 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/square-21-apartment-1-516587105.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516587105.jpg?k=1e6f9ec8fdc1f181503e29e3c17e35974206bfaa59abbc77dc0b4323dd231238&o=&hp=1"
 language: en
 slug: square-21-apartment-1
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

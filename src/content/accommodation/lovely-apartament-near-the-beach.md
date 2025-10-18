@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartament near the beach"
 description: "Lovely Apartment Near the Beach emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/lovely-apartament-near-the-beach-370823717.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370823717.jpg?k=f9c8deb9d825cb99fcf67032d8b61f0f17b3bbfd802317bb612d4f2d8edc4575&o=&hp=1"
 language: en
 slug: lovely-apartament-near-the-beach
 address: "Rruga Golem, Golem, Albania"

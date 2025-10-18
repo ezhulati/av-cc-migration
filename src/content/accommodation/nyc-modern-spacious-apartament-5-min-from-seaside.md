@@ -1,7 +1,7 @@
 ---
 title: "NYC Modern & Spacious Apartament 5 min from seaside"
 description: "NYC Modern & Spacious Apartment, a mere 5 minutes from the seaside, stands out for its breathtaking garden and sea views, offering a serene escape just 23 km from the historic Kuzum Baba and Independence Square."
-featuredImage: "/images/accommodation/nyc-modern-spacious-apartament-5-min-from-seaside-310318148.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310318148.jpg?k=02158d035e9ccb21b9e15f134d7dc4216ab1703cfc40210720147988e7959548&o=&hp=1"
 language: en
 slug: nyc-modern-spacious-apartament-5-min-from-seaside
 address: "Rruga Neim Dano Tragjas, 9406 Orikum, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Coral Guesthouse Sarandë"
 description: "Coral Guesthouse Sarandë emerges as a charming retreat for travelers seeking both tranquility and adventure in the heart of Sarandë."
-featuredImage: "/images/accommodation/coral-guesthouse-sarand-372557447.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372557447.jpg?k=f074e3247872bafb297c6b12fcc658447b2dc163a43f316cc9744d061e6689d6&o=&hp=1"
 language: en
 slug: coral-guesthouse-sarand
 address: "Idriz Alidhima, Sarande, 9701 Sarandë, Albania"

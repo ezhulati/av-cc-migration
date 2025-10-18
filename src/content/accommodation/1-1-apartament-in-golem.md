@@ -1,7 +1,7 @@
 ---
 title: "1+1 apartament in golem"
 description: "1+1 Apartment in Golem stands as a prime choice for travelers seeking a serene beachfront experience in Golem."
-featuredImage: "/images/accommodation/1-1-apartament-in-golem-AATXAJyURccq.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJyURccqUA7sgV-AGXqgOlD9xWjA5R6UfHWn1Z1U=s96-c64"
 language: en
 slug: 1-1-apartament-in-golem
 address: "Rruga Liria, 2504 Golem, Albania"

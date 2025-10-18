@@ -1,7 +1,7 @@
 ---
 title: "\"Vatra\" Apartment"
 description: "\"Vatra\" Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vatra-apartment-414232457.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414232457.jpg?k=41e7ef4e0d905c422b6c1a911f0092c337c54d47ae40a9fc5b63082a13845507&o=&hp=1"
 language: en
 slug: vatra-apartment
 address: "Rruga Eshref Frasheri, 1001 Tirana, Albania"

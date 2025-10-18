@@ -1,7 +1,7 @@
 ---
 title: "Villa Kasa"
 description: "Villa Kasa emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/villa-kasa-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: villa-kasa
 address: "Rruga Bajram Curri 56, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ansel Home"
 description: "Ansel Home emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/ansel-home-484206899.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484206899.jpg?k=efd34d258ef7d54be7374d8f0043034dcb2379682c264fc8ae51d8bf75407815&o=&hp=1"
 language: en
 slug: ansel-home
 address: "Road Butrinti, 9701 Sarandë, Albania"

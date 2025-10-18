@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Studio 1"
 description: "Discover the charm of Tirana with a stay at 2V1 - Studio 1, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/2v1-studio-1-352550759.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352550759.jpg?k=ec796f5ba9cef17067031bc3a02238a942b5d34f80d426619313f53ae8746686&o=&hp=1"
 language: en
 slug: 2v1-studio-1
 address: "13 Rruga Mustafa Qosja, 1001 Tirana, Albania"

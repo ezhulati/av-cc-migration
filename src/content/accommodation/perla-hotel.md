@@ -1,7 +1,7 @@
 ---
 title: "Perla Hotel"
 description: "Perla Hotel stands as a serene retreat right by the shores of Lake Ohrid, offering guests a harmonious blend of convenience and natural beauty."
-featuredImage: "/images/accommodation/perla-hotel-189438249.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189438249.jpg?k=d02960787b82299b6e196c3e35b74a14970760f8bf0d051fcc562c011425789c&o=&hp=1"
 language: en
 slug: perla-hotel
 address: "Rr. 10 Deshmoret e Pojskes, 7301 Pogradec, Albania"

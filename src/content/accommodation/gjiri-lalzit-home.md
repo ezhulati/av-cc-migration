@@ -1,7 +1,7 @@
 ---
 title: "gjiri lalzit home"
 description: "Gjiri Lalzit Home emerges as a serene retreat, strategically positioned within the vibrant landscape of Durrës."
-featuredImage: "/images/accommodation/gjiri-lalzit-home-506352854.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506352854.jpg?k=3795c939823256f59a7f4c837d60d7f2bcc55a695c773f218b60a19e2c4ee579&o=&hp=1"
 language: en
 slug: gjiri-lalzit-home
 address: "Rruga Gjiri i Lalzit, Durrës, Albania"

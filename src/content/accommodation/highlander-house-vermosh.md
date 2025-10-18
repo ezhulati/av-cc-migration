@@ -1,7 +1,7 @@
 ---
 title: "HIGHLANDER HOUSE VERMOSH"
 description: "Highlander House Vermosh emerges as a serene retreat for travelers seeking solace amidst nature, strategically positioned within the breathtaking landscapes of Vermosh."
-featuredImage: "/images/accommodation/highlander-house-vermosh-479260774.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479260774.jpg?k=f84cde19cee883b782186bc53f9338d8600a25c830e53154e28cf74b3bcd489d&o=&hp=1"
 language: en
 slug: highlander-house-vermosh
 address: "Vermosh, 4304 Vermosh, Albania"

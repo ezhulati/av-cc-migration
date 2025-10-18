@@ -1,7 +1,7 @@
 ---
 title: "Durrës Sun and Sand"
 description: "Durrës Sun and Sand emerges as a prime choice for travelers seeking a serene getaway in Golem, offering air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/durr-s-sun-and-sand-449258341.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449258341.jpg?k=b9eb666b304d2fb5291ce02bb3354e1bbc5c874ef155ae62859732defc56cfbc&o=&hp=1"
 language: en
 slug: durr-s-sun-and-sand
 address: "Kryemëdhenj, Adi Gaz (Karburant Klevi), pallati pas karburantit, shkalla 1, Kati 4, Dera 13, Golem, Albania"

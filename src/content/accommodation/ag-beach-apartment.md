@@ -1,7 +1,7 @@
 ---
 title: "AG Beach Apartment"
 description: "AG Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/ag-beach-apartment-360549108.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360549108.jpg?k=b477c954a2fc8e049455020393795a173c66d0c2c596a9880902a0b3fb705d9c&o=&hp=1"
 language: en
 slug: ag-beach-apartment
 address: "Rruga e Gjuzeve, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Kristi"
 description: "Vila Kristi emerges as a serene oasis in Vlorë, perfectly positioned just a stone's throw away from Vjetër Beach and a brief drive from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/vila-kristi-381403425.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381403425.jpg?k=a2cfa0838f915b5798edc955438cf4e3ef24df601b2602c1333931174be97b29&o=&hp=1"
 language: en
 slug: vila-kristi
 address: "Rr. Sazani, 9401 Vlorë, Albania"

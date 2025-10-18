@@ -1,7 +1,7 @@
 ---
 title: "Bella Vista"
 description: "Bella Vista stands as a serene retreat in Shkodër, boasting breathtaking mountain views and direct access to the beach."
-featuredImage: "/images/accommodation/bella-vista-309004079.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309004079.jpg?k=c9ad0dc9e2652745839342810898f9ba003deb4ef5744b4cc4d229d37177f3b3&o=&hp=1"
 language: en
 slug: bella-vista
 address: "Rruga Zogaj, 4001 Shkodër, Albania"

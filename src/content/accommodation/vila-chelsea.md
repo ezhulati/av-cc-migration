@@ -1,7 +1,7 @@
 ---
 title: "Vila Chelsea"
 description: "Vila Chelsea emerges as a charming retreat in the heart of Ksamil, merely a stone's throw away from the serene Sunset Beach."
-featuredImage: "/images/accommodation/vila-chelsea-424501017.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424501017.jpg?k=a460fca16dc4f3f078785511923eee2b99af9ece717af17b63b30ed0152adbff&o=&hp=1"
 language: en
 slug: vila-chelsea
 address: "Vila Chelsea, Rruga Ali Pashe Tepelena, 9706 Ksamil, Albania"

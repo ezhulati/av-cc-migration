@@ -1,7 +1,7 @@
 ---
 title: "Room 99"
 description: "Room 99 is a prime choice for travelers seeking comfort and convenience in Shkodër, just a short distance from the Port of Bar."
-featuredImage: "/images/accommodation/room-99-444431050.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444431050.jpg?k=c1af740b093254520a2abbe4adab3592516df1f8c1d303c6fc80d6037bcfad7e&o=&hp=1"
 language: en
 slug: room-99
 address: "Rruga Don Bosko, 4001 Shkodër, Albania"

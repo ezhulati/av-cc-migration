@@ -1,7 +1,7 @@
 ---
 title: "Dim's villas"
 description: "Dim's Villas emerges as a serene oasis, merely a stone's throw away from the pristine shores of Qeparo Beach and a short stroll from the enchanting Borsh Beach."
-featuredImage: "/images/accommodation/dim-s-villas-376898349.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376898349.jpg?k=d0b8c32e9ea25207925b67d98ef568de3f38aba005f859b74c912d044c70c196&o=&hp=1"
 language: en
 slug: dim-s-villas
 address: "SH8, 9416 Qeparo, Albania"

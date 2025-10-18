@@ -1,7 +1,7 @@
 ---
 title: "Apartament Stefani"
 description: "Discover the charm of Sarandë with a stay at Apartament Stefani, a serene apartment complex that promises a blend of comfort and convenience."
-featuredImage: "/images/accommodation/apartament-stefani-378378117.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378378117.jpg?k=b621d3187a5627ea1ae938edd9f2520317842f5427757f7bd79240049844d350&o=&hp=1"
 language: en
 slug: apartament-stefani
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

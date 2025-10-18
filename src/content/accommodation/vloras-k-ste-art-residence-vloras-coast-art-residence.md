@@ -1,7 +1,7 @@
 ---
 title: "Vloras Küste Art Residence Vloras Coast Art Residence"
 description: "Perched on the edge of the Adriatic, Vloras Küste Art Residence offers travelers a serene beachfront escape in the heart of Vlorë, just a stone's throw from the pristine Vlore Beach and a leisurely stroll from the vibrant Ri Beach."
-featuredImage: "/images/accommodation/vloras-k-ste-art-residence-vloras-coast-art-residence-171833049.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171833049.jpg?k=1a3dbea522002d3d96c7a9a20c5da62f1f7fcede8be41367294d0943823a154d&o=&hp=1"
 language: en
 slug: vloras-k-ste-art-residence-vloras-coast-art-residence
 address: "Rruga Murat Tërbaçi Breshani Building, 1001 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The Comfort house"
 description: "The Comfort House, strategically located in Durrës, emerges as a prime choice for travelers seeking a blend of convenience and comfort."
-featuredImage: "/images/accommodation/the-comfort-house-456449286.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456449286.jpg?k=b3e6827aee8b97e04979077188c3f5426f7e62b59401f8740dfbbb61960688dc&o=&hp=1"
 language: en
 slug: the-comfort-house
 address: "Rruga Qafe Bote, 2001 Durrës, Albania"

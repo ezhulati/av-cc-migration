@@ -1,7 +1,7 @@
 ---
 title: "Waterfront Apartment"
 description: "Waterfront Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Shëngjin."
-featuredImage: "/images/accommodation/waterfront-apartment-466513645.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466513645.jpg?k=22a93eedfcb8fab99c14ab128b97e496e8172f73b90979b25915a6aeba7c9bda&o=&hp=1"
 language: en
 slug: waterfront-apartment
 address: "Bulevardi Nënë Tereza, Shëngjin, Albania"

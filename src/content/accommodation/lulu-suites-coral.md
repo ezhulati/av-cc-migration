@@ -1,7 +1,7 @@
 ---
 title: "Lulu Suites - Coral"
 description: "Lulu Suites - Coral emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/lulu-suites-coral-483415594.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483415594.jpg?k=dc3e2c87f6c6bd9a85caf8f4808a726f441510b99014dc73fb0ae20816828879&o=&hp=1"
 language: en
 slug: lulu-suites-coral
 address: "Rruga Iliria Rezidenca Gasseralb, 11 Floor, 2504 Golem, Albania"

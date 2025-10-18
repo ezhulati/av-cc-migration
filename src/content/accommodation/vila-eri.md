@@ -1,7 +1,7 @@
 ---
 title: "Vila ERI"
 description: "Vila ERI stands as a testament to Gjirokastër's rich history, offering a unique stay in a 19th-century building that combines the charm of the past with modern comforts."
-featuredImage: "/images/accommodation/vila-eri-403732436.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403732436.jpg?k=e2db81bbc1bb6cc9bf3b2c07c18e70692e6287814a693bcf1cb9607e9bfb47d9&o=&hp=1"
 language: en
 slug: vila-eri
 address: "Palorto, Rruga Petref Kokona 4 rooms, 6002 Gjirokastër, Albania"

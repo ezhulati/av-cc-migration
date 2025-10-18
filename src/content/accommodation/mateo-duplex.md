@@ -1,7 +1,7 @@
 ---
 title: "Mateo Duplex"
 description: "Mateo Duplex emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/mateo-duplex-463824751.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463824751.jpg?k=fb5518048f89f9bfdc7b9dff8c9d30d70fd2bcdf7ebb12b6f834f9cdbfaf559e&o=&hp=1"
 language: en
 slug: mateo-duplex
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

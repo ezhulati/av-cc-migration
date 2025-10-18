@@ -1,7 +1,7 @@
 ---
 title: "The Crown Boutique Hotel & SPA"
 description: "The Crown Boutique Hotel & SPA stands out as a premier destination for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/the-crown-boutique-hotel-spa-366660868.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366660868.jpg?k=9d5c70ccd45d4958c1ac95988819fe4eacc1c22287764a8e8b662cf6f62c9b6c&o=&hp=1"
 language: en
 slug: the-crown-boutique-hotel-spa
 address: "17 Rruga George W. Bush, 1017 Tirana, Albania"

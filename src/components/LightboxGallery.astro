@@ -6,14 +6,18 @@ interface Props {
 
 const { images, title } = Astro.props;
 const galleryId = `gallery-${Math.random().toString(36).substring(2, 11)}`;
+const initialImageCount = 8; // Show 2 rows of 4 images initially
+const hasMoreImages = images.length > initialImageCount;
 ---
 
-<div class="lightbox-gallery" data-gallery-id={galleryId}>
+<div class="lightbox-gallery" data-gallery-id={galleryId} data-initial-count={initialImageCount}>
   <div class="gallery-grid">
     {images.map((image: string, index: number) => (
       <button
         class="gallery-item"
         data-index={index}
+        data-hidden={index >= initialImageCount ? "true" : "false"}
+        style={index >= initialImageCount ? "display: none;" : ""}
         aria-label={`View image ${index + 1} of ${images.length}`}
       >
         <img
@@ -32,6 +36,18 @@ const galleryId = `gallery-${Math.random().toString(36).substring(2, 11)}`;
       </button>
     ))}
   </div>
+
+  {hasMoreImages && (
+    <div class="load-more-container">
+      <button class="load-more-btn" aria-label="Load more images">
+        <span class="load-more-text">Load More Images</span>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="6 9 12 15 18 9"></polyline>
+        </svg>
+      </button>
+      <span class="images-count">{images.length - initialImageCount} more images</span>
+    </div>
+  )}
 
   <!-- Lightbox Modal -->
   <div class="lightbox-modal" id="lightbox" aria-hidden="true" role="dialog" aria-modal="true">
@@ -199,10 +215,37 @@ const galleryId = `gallery-${Math.random().toString(36).substring(2, 11)}`;
     });
   }
 
+  // Handle "Load More" button
+  function initLoadMore(galleryElement: Element) {
+    const loadMoreBtn = galleryElement.querySelector('.load-more-btn');
+    const loadMoreContainer = galleryElement.querySelector('.load-more-container');
+    const hiddenItems = galleryElement.querySelectorAll('.gallery-item[data-hidden="true"]');
+
+    if (loadMoreBtn && loadMoreContainer) {
+      loadMoreBtn.addEventListener('click', () => {
+        // Show all hidden items
+        hiddenItems.forEach((item: Element) => {
+          const htmlItem = item as HTMLElement;
+          htmlItem.style.display = '';
+          htmlItem.setAttribute('data-hidden', 'false');
+        });
+
+        // Hide the load more button
+        loadMoreContainer.style.display = 'none';
+
+        // Re-initialize gallery to include newly visible images
+        initGallery(galleryElement);
+      });
+    }
+  }
+
   // Initialize all galleries when DOM is loaded
   document.addEventListener('DOMContentLoaded', () => {
     const galleries = document.querySelectorAll('.lightbox-gallery');
-    galleries.forEach((gallery: Element) => initGallery(gallery));
+    galleries.forEach((gallery: Element) => {
+      initGallery(gallery);
+      initLoadMore(gallery);
+    });
   });
 </script>
 
@@ -263,6 +306,57 @@ const galleryId = `gallery-${Math.random().toString(36).substring(2, 11)}`;
   .gallery-item:hover .gallery-overlay {
     background: rgba(0, 0, 0, 0.5);
     opacity: 1;
+  }
+
+  /* Load More Button */
+  .load-more-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    margin-top: 32px;
+    padding-top: 24px;
+    border-top: 1px solid #e5e7eb;
+  }
+
+  .load-more-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 32px;
+    background: linear-gradient(135deg, #003B95 0%, #0052CC 100%);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 59, 149, 0.2);
+  }
+
+  .load-more-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 59, 149, 0.3);
+  }
+
+  .load-more-btn:active {
+    transform: translateY(0);
+  }
+
+  .load-more-btn svg {
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+  }
+
+  .load-more-btn:hover svg {
+    transform: translateY(2px);
+  }
+
+  .images-count {
+    font-size: 14px;
+    color: #666;
+    font-weight: 500;
   }
 
   /* Lightbox Modal */
@@ -375,6 +469,20 @@ const galleryId = `gallery-${Math.random().toString(36).substring(2, 11)}`;
 
   /* Mobile Optimizations */
   @media (max-width: 768px) {
+    .load-more-container {
+      margin-top: 24px;
+      padding-top: 16px;
+    }
+
+    .load-more-btn {
+      padding: 12px 24px;
+      font-size: 14px;
+    }
+
+    .images-count {
+      font-size: 13px;
+    }
+
     .lightbox-close {
       top: 1rem;
       right: 1rem;

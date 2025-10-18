@@ -1,7 +1,7 @@
 ---
 title: "Hana Private Home"
 description: "Hana Private Home emerges as a serene retreat in Pogradec, offering guests a unique blend of comfort and convenience amidst its lush garden setting."
-featuredImage: "/images/accommodation/hana-private-home-515721813.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515721813.jpg?k=0b873b7fd489d3a541147e2ebdd7f59e7236479632e62111d21c6116322f4a40&o=&hp=1"
 language: en
 slug: hana-private-home
 address: "Rruga Kristaq Kacka, Lgj nr 5,Pogradec, 7301 Pogradec, Albania"

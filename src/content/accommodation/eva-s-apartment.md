@@ -1,7 +1,7 @@
 ---
 title: "Eva’s Apartment"
 description: "Eva's Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Golem, merely a stone's throw away from the pristine Golem Beach."
-featuredImage: "/images/accommodation/eva-s-apartment-210251848.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210251848.jpg?k=fe34f540c17c2ce89aaddb5c73156b8656166a366ee0a827a95580c08fc66e4c&o=&hp=1"
 language: en
 slug: eva-s-apartment
 address: "Rruga Xixa, 0200 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ral Apartments"
 description: "Ral Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ral-apartments-513536280.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513536280.jpg?k=cdf6c0864db65ea709b510303dcef435126b39d2289f8a7762dbe50ff75c662d&o=&hp=1"
 language: en
 slug: ral-apartments
 address: "Rruga e Kavajës, 1002 Tirana, Albania"

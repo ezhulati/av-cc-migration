@@ -1,7 +1,7 @@
 ---
 title: "Amalia Hotel"
 description: "Amalia Hotel, situated in the historic heart of Berat, stands out as a premier destination for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/amalia-hotel-307319092.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307319092.jpg?k=04986a762fc67f4eb067192b93d783d14d36d183c077d4ddb1b76c5d2abda961&o=&hp=1"
 language: en
 slug: amalia-hotel
 address: "Rruga e Kishës Rruga Jani Kosta, Berat, 5001 Berat, Albania"

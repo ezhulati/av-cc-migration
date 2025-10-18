@@ -1,7 +1,7 @@
 ---
 title: "Summertime Luxury Apartment with amazing Sea View"
 description: "Summertime Luxury Apartment with Amazing Sea View stands as a premier beachfront destination in Durrës, offering guests an unparalleled experience just a few steps from Shkëmbi i Kavajës Beach and a short stroll from Durres Beach."
-featuredImage: "/images/accommodation/summertime-luxury-apartment-with-amazing-sea-view-378688766.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378688766.jpg?k=ac7d54876b3773f6d4fb506ac3c5c4026ded66215fc1b2dd7bd475c0e7ca5a9e&o=&hp=1"
 language: en
 slug: summertime-luxury-apartment-with-amazing-sea-view
 address: "Shkembi i Kavajes, Durrës, Albania"

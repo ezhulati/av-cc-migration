@@ -1,7 +1,7 @@
 ---
 title: "Sanremo Hotel Restorant"
 description: "Sanremo Hotel Restaurant emerges as a serene oasis, located just 6 km away from the bustling Port of Durres."
-featuredImage: "/images/accommodation/sanremo-hotel-restorant-471737457.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471737457.jpg?k=7671535930b1357e48799f75be78c37c68ee71fb7da168df0d76870296da9020&o=&hp=1"
 language: en
 slug: sanremo-hotel-restorant
 address: "Rruga shkallnur Shkembi i Kavajes, 2002 Durrës, Albania"

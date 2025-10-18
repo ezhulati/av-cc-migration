@@ -1,7 +1,7 @@
 ---
 title: "TIRANA CITY CENTER STUDIO"
 description: "TIRANA CITY CENTER STUDIO emerges as a prime choice for travelers seeking the heart of Tirana's vibrant culture and history."
-featuredImage: "/images/accommodation/tirana-city-center-studio-380336788.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380336788.jpg?k=1cef11e90659a93a3ee15fddb017087d0e7cdd4fee8ee505dc729a00d61d2fe5&o=&hp=1"
 language: en
 slug: tirana-city-center-studio
 address: "Rruga e Kavajës Pll. 67, 2-nd floor, 1001 Tirana, Albania"

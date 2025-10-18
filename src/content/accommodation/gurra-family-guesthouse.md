@@ -1,7 +1,7 @@
 ---
 title: "Gurra Family' Guesthouse"
 description: "Gurra Family Guesthouse emerges as a serene retreat in the heart of Theth, within the picturesque Shkoder County."
-featuredImage: "/images/accommodation/gurra-family-guesthouse-490807090.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490807090.jpg?k=6d80d8d804dec63f158be6173da81a45eb14fae904cb988204dcf38aac958178&o=&hp=1"
 language: en
 slug: gurra-family-guesthouse
 address: "Rruga Fushe Next to Theth Elementary School, 4009 Theth, Albania"

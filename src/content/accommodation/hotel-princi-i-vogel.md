@@ -1,7 +1,7 @@
 ---
 title: "Hotel Princi i Vogel"
 description: "Hotel Princi i Vogel emerges as a charming retreat in the heart of Velipojë, boasting not only an inviting on-site restaurant and bar but also the convenience of complimentary WiFi and private parking for all guests."
-featuredImage: "/images/accommodation/hotel-princi-i-vogel-138467526.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138467526.jpg?k=d7f420c4ab3ea98087d33bc14055dd01c0d31f0f19c78278cc80c8d74e92f7c7&o=&hp=1"
 language: en
 slug: hotel-princi-i-vogel
 address: "Rruga No 4, Plazh Velipoje, 4020 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment with view"
 description: "Apartment with View stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/apartment-with-view-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: apartment-with-view
 address: "Rruga Jeronim De Rada, Tirana, Albania"

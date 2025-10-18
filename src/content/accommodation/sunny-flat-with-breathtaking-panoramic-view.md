@@ -1,7 +1,7 @@
 ---
 title: "Sunny flat with breathtaking panoramic View"
 description: "Discover the charm of Sarandë from the comfort of Sunny Flat, a spacious apartment boasting unparalleled panoramic views of the city and mountains."
-featuredImage: "/images/accommodation/sunny-flat-with-breathtaking-panoramic-view-427391377.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427391377.jpg?k=059d6fd4ae6cc875fab1779103e5c93f4a3c7d2708ac20657b8009d917f07955&o=&hp=1"
 language: en
 slug: sunny-flat-with-breathtaking-panoramic-view
 address: "153 Rruga Lefter Talo 6th floor, 9701 Sarandë, Albania"

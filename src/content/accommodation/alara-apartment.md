@@ -1,7 +1,7 @@
 ---
 title: "Alara Apartment"
 description: "Alara Apartment emerges as a recently renovated gem in the heart of Tirana, boasting proximity to cultural landmarks such as Skanderbeg Square, the National Theatre of Opera and Ballet, and the National Museum of History."
-featuredImage: "/images/accommodation/alara-apartment-499108620.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499108620.jpg?k=bce98813f8912714f4e059d9f78b5cf06a3baf21d93fb45fe15840ce315b13e2&o=&hp=1"
 language: en
 slug: alara-apartment
 address: "Rruga Ferit Xhajko 60/2,1-3, 1001 Tirana, Albania"

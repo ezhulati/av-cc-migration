@@ -1,7 +1,7 @@
 ---
 title: "Vila Panorama Voskopoje"
 description: "Vila Panorama Voskopoje emerges as a distinguished 4-star retreat in the heart of Voskopojë, offering guests an exceptional stay with its blend of comfort, scenic mountain views, and impeccable service."
-featuredImage: "/images/accommodation/vila-panorama-voskopoje-161786936.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161786936.jpg?k=19431018be055dfe0e680274e36696857300a8473b09896555d4d40615b37045&o=&hp=1"
 language: en
 slug: vila-panorama-voskopoje
 address: "Pranë Kishës së Kryeëngjëjve, 1001 Voskopojë, Albania"

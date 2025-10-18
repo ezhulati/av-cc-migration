@@ -1,7 +1,7 @@
 ---
 title: "Affordable city apartment"
 description: "Affordable City Apartment emerges as a prime choice for travelers seeking convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/affordable-city-apartment-433295019.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433295019.jpg?k=92a3fc6727a319c8cc6e0ec92b7b51a37ab41e5d7c9da8e82ee243d2c75b5f45&o=&hp=1"
 language: en
 slug: affordable-city-apartment
 address: "Rruga Memo Meto, 1001 Tirana, Albania"

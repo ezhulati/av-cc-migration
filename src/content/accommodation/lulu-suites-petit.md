@@ -1,7 +1,7 @@
 ---
 title: "Lulu Suites - Petit"
 description: "Lulu Suites - Petit emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short distance from the pristine shores of Shkëmbi i Kavajës Beach and Golem Beach."
-featuredImage: "/images/accommodation/lulu-suites-petit-AAcHTtf_xvye.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtf_xvye1ROU-zUablgBGmWhAFjWzfgkSOf-quRJvhOC=s96-c64"
 language: en
 slug: lulu-suites-petit
 address: "Rruga Iliria, 2504 Golem, Albania"

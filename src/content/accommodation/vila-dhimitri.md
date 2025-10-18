@@ -1,7 +1,7 @@
 ---
 title: "Vila Dhimitri"
 description: "Vila Dhimitri emerges as a prime choice for travelers seeking comfort and convenience in Korçë, located just a stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/vila-dhimitri-181402395.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181402395.jpg?k=4493c2716578708a9779e3fb8e6694a28aff766583a51f2974588b2172ff1cae&o=&hp=1"
 language: en
 slug: vila-dhimitri
 address: "rruga papallambro ballamaci vila nr 13 ndodhet 20 m nga bulevard republika rrugica e taverna theo zoi, 7001 Korçë, Albania"

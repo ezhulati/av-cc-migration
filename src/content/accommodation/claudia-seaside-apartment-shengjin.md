@@ -1,7 +1,7 @@
 ---
 title: "Claudia Seaside Apartment Shengjin"
 description: "Claudia Seaside Apartment Shengjin emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience right on the shores of Shëngjin."
-featuredImage: "/images/accommodation/claudia-seaside-apartment-shengjin-467301793.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467301793.jpg?k=dbb5c5f9bd3529fe668e33d14c3b13818488af8c3364f7c82e6a3dcd1e0443b5&o=&hp=1"
 language: en
 slug: claudia-seaside-apartment-shengjin
 address: "4503 Bulevardi Nënë Tereza, 4500 Shëngjin, Albania"

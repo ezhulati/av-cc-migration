@@ -1,7 +1,7 @@
 ---
 title: "Lili's Apartament Tirana"
 description: "Lili's Apartment Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lili-s-apartament-tirana-409301363.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409301363.jpg?k=08d016ceb91948affd392b403cb829929b32cc4c224414e9808db1326b33321e&o=&hp=1"
 language: en
 slug: lili-s-apartament-tirana
 address: "Rruga e Kosovarëve, 1001 Tirana, Albania"

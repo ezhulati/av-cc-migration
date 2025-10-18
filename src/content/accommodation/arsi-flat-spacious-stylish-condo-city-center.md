@@ -1,7 +1,7 @@
 ---
 title: "ARSI FLAT -Spacious & Stylish condo-city center"
 description: "ARSI FLAT stands out as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Shkodër."
-featuredImage: "/images/accommodation/arsi-flat-spacious-stylish-condo-city-center-485992398.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485992398.jpg?k=83c9660f5531e2f4f542233575819c1f54d5393eb607a3407e3d590262a3114e&o=&hp=1"
 language: en
 slug: arsi-flat-spacious-stylish-condo-city-center
 address: "Rruga At Gjergj Fishta Floor nr: 8, 4001 Shkodër, Albania"

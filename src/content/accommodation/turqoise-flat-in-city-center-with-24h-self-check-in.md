@@ -1,7 +1,7 @@
 ---
 title: "Turqoise Flat in City Center with 24H Self Check In"
 description: "Turquoise Flat stands as a beacon of comfort and convenience in the heart of Tirana, offering a seamless blend of modern amenities and prime location."
-featuredImage: "/images/accommodation/turqoise-flat-in-city-center-with-24h-self-check-in-505614186.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505614186.jpg?k=97370f25da965d2e869780fb2d09f9a5ed4563b378a0c66e5f740dab5695056e&o=&hp=1"
 language: en
 slug: turqoise-flat-in-city-center-with-24h-self-check-in
 address: "Rruga Vangjush Furxhi, 1001 Tirana, Albania"

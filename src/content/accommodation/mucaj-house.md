@@ -1,7 +1,7 @@
 ---
 title: "Mucaj House"
 description: "Mucaj House stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from the pristine Vlore Beach and within easy reach of Vjetër and Ri Beaches."
-featuredImage: "/images/accommodation/mucaj-house-476266017.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476266017.jpg?k=c692b342e5841defe432985214ef43e9913829815ffae970c6b7836fabe24400&o=&hp=1"
 language: en
 slug: mucaj-house
 address: "Rruga Shyqyri Ali Merka, 9401 Vlorë, Albania"

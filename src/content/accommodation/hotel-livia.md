@@ -1,7 +1,7 @@
 ---
 title: "Hotel Livia"
 description: "Hotel Livia emerges as a serene retreat, masterfully constructed from wood and stone to reflect traditional Albanian architecture."
-featuredImage: "/images/accommodation/hotel-livia-70168845.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/70168845.jpg?k=d4e6d1d35dc2217cda539bfc0b5b4d99375c5335bdbacc52b08b3c4104c5da7c&o=&hp=1"
 language: en
 slug: hotel-livia
 address: "Butrint, Sarande, 9703 Ksamil, Albania"

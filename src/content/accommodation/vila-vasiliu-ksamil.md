@@ -1,7 +1,7 @@
 ---
 title: "Vila Vasiliu Ksamil"
 description: "Vila Vasiliu Ksamil emerges as a serene oasis just a stone's throw away from the pristine shores of Paradise Beach, offering travelers an exceptional stay in the heart of Ksamil."
-featuredImage: "/images/accommodation/vila-vasiliu-ksamil-374806429.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374806429.jpg?k=4c785a1960b008068e34b1840fbac5eaffd4b607dbc4d10d275154dfb6fab296&o=&hp=1"
 language: en
 slug: vila-vasiliu-ksamil
 address: "Rruga Riviera, 9706 Ksamil, Albania"

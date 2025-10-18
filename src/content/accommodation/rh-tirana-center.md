@@ -1,7 +1,7 @@
 ---
 title: "RH Tirana Center"
 description: "RH Tirana Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/rh-tirana-center-414220546.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414220546.jpg?k=9536a5973bcba5850ac3f80ab01218cdbc322fbc8e7842bb7f1b4067dd5d162b&o=&hp=1"
 language: en
 slug: rh-tirana-center
 address: "Rruga e Durrësit, 1001 Tirana, Albania"

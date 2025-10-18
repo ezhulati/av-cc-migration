@@ -1,7 +1,7 @@
 ---
 title: "Vila Lumja"
 description: "Vila Lumja emerges as a serene retreat offering breathtaking mountain vistas, located just a stone's throw away from the Dajti Ekspres Cable Car, approximately 3 km to be precise."
-featuredImage: "/images/accommodation/vila-lumja-507208696.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507208696.jpg?k=c279f862069218298f548e014d2577a0ac84e5514e847124dc211de590757e2e&o=&hp=1"
 language: en
 slug: vila-lumja
 address: "7 Rruga Pjeter Gurakuqi, 1001 Tirana, Albania"

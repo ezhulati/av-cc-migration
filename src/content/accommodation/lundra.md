@@ -1,7 +1,7 @@
 ---
 title: "Lundra"
 description: "Lundra emerges as a premier destination for travelers seeking a blend of luxury and family-friendly amenities in Gramsh."
-featuredImage: "/images/accommodation/lundra-484923324.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484923324.jpg?k=f136ff59f211239fb66337f4f2c0b2bfe0665b3064498dc3009b16a614a67691&o=&hp=1"
 language: en
 slug: lundra
 address: "Ceruje, Çekin, 3300 Gramsh, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Anna House Dhermi"
 description: "Anna House Dhermi stands out as a prime choice for travelers seeking a serene getaway in Dhërmi, offering a blend of comfort and convenience with its well-appointed accommodations and lush garden surroundings."
-featuredImage: "/images/accommodation/anna-house-dhermi-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10153035189110753/picture?type=square&height=64&width=64"
 language: en
 slug: anna-house-dhermi
 address: "Dhermi 5, 9422 Dhërmi, Albania"

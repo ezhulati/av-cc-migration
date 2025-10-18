@@ -1,7 +1,7 @@
 ---
 title: "Appartamento con due camere da letto"
 description: "Appartamento con due camere da letto emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/appartamento-con-due-camere-da-letto-485190398.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485190398.jpg?k=02f97256a3b51b58d068dd5be499bb769408571801581efbccc1f7027cf57271&o=&hp=1"
 language: en
 slug: appartamento-con-due-camere-da-letto
 address: "8 Rruga Pjeter Budi, 1001 Tirana, Albania"

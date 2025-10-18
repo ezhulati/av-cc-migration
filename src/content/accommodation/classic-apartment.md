@@ -1,7 +1,7 @@
 ---
 title: "Classic apartment"
 description: "Classic Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/classic-apartment-398915490.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398915490.jpg?k=d59ab68471b25a860a25102b5e6b602aacea123d148b9ca052ea7ae7dbbfd711&o=&hp=1"
 language: en
 slug: classic-apartment
 address: "Rruga Vaso Pasha, 1001 Tirana, Albania"

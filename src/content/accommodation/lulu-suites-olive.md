@@ -1,7 +1,7 @@
 ---
 title: "Lulu Suites - Olive"
 description: "Lulu Suites - Olive emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short distance from the pristine shores of Shkëmbi i Kavajës Beach and Golem Beach."
-featuredImage: "/images/accommodation/lulu-suites-olive-470507650.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470507650.jpg?k=93291503e3bada202761afc208c4449e090252c7c01292199e3172ee89792a9d&o=&hp=1"
 language: en
 slug: lulu-suites-olive
 address: "Rruga Iliria, 2504 Golem, Albania"

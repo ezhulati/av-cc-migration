@@ -1,7 +1,7 @@
 ---
 title: "SUNWAY"
 description: "SUNWAY Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/sunway-349361285.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349361285.jpg?k=2dbc6f756ca785342eedadbfabf7b0a4750427c4102e160d92b546d220639153&o=&hp=1"
 language: en
 slug: sunway
 address: "Rruga Mustafa Bello, 9401 Vlorë, Albania"

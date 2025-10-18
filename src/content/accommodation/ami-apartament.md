@@ -1,7 +1,7 @@
 ---
 title: "AMI apartament"
 description: "AMI Apartment emerges as a prime choice for travelers seeking comfortable, air-conditioned accommodations in Vlorë, complete with a welcoming balcony."
-featuredImage: "/images/accommodation/ami-apartament-478439271.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478439271.jpg?k=322bf99f70baec7cd338ff72e245fe11beb4a1be2bc8e0341eeeff7b00422c78&o=&hp=1"
 language: en
 slug: ami-apartament
 address: "Rruga Jeronim de Rada, 9401 Vlorë, Albania"

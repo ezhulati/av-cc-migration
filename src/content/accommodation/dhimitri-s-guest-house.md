@@ -1,7 +1,7 @@
 ---
 title: "Dhimitri's guest house"
 description: "Dhimitri's Guest House in Berat stands out as a charming accommodation choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/dhimitri-s-guest-house-149908935.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149908935.jpg?k=a2a3d5953cd3b83160c86ab9c6fea1acfd22bdadb9b7e7c490bdf0123a3af63a&o=&hp=1"
 language: en
 slug: dhimitri-s-guest-house
 address: "Rruga Nikolla Buhuri, 5000 Berat, Albania"

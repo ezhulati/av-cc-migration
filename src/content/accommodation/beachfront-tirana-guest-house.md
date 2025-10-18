@@ -1,7 +1,7 @@
 ---
 title: "Beachfront, Tirana Guest House"
 description: "Beachfront, Tirana Guest House emerges as a serene oasis, offering guests an unparalleled blend of comfort and natural beauty right at the edge of Velipoja Beach."
-featuredImage: "/images/accommodation/beachfront-tirana-guest-house-363288435.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363288435.jpg?k=b5d81f9c9d30498b0fc7989cf927a5f84ea7f4b3d6345117bd8f768b020f3369&o=&hp=1"
 language: en
 slug: beachfront-tirana-guest-house
 address: "Velipoje 4021 Velipoje Shkoder Albania Velipoje 4021 Velipoje Shkoder Albania, 1000 Velipojë, Albania"

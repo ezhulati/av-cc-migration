@@ -1,7 +1,7 @@
 ---
 title: "Sunset - The Twin Villa"
 description: "Sunset - The Twin Villa stands out as a premier destination for travelers seeking a blend of comfort and convenience in Shirokë."
-featuredImage: "/images/accommodation/sunset-the-twin-villa-526347393.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526347393.jpg?k=334512c433e5f53eb98dc30361a7a1c4d86f929c9057f6a73ed12d176f18b990&o=&hp=1"
 language: en
 slug: sunset-the-twin-villa
 address: "Rruga e Selvijave, Shirokë, Albania"

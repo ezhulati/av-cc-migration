@@ -1,7 +1,7 @@
 ---
 title: "Matilde Apartment"
 description: "Matilde Apartment emerges as a prime beachfront gem in Pogradec, offering guests an unparalleled blend of convenience and serenity."
-featuredImage: "/images/accommodation/matilde-apartment-472575416.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472575416.jpg?k=25968d913f8694b2a81aa977da2713198872d6f0e6ff3bd4f58dc231b71f666d&o=&hp=1"
 language: en
 slug: matilde-apartment
 address: "Rr Deshmoret e Pojskes, 1001 Pogradec, Albania"

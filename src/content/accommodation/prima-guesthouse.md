@@ -1,7 +1,7 @@
 ---
 title: "Prima Guesthouse"
 description: "Prima Guesthouse emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in Pogradec."
-featuredImage: "/images/accommodation/prima-guesthouse-477652601.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477652601.jpg?k=4e46d14051f536bb225e14cd5cde9f20f707fd093f4e65a4290480e2299248f6&o=&hp=1"
 language: en
 slug: prima-guesthouse
 address: "Rruga Reshit Çollaku 12 (5th floor), Pogradec, Albania"

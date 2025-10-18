@@ -1,7 +1,7 @@
 ---
 title: "City Block Apartment - Free Parking"
 description: "City Block Apartment - Free Parking emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-block-apartment-free-parking-464039924.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464039924.jpg?k=a9f57fd55702d9690c9a289738a5c189eb6a10491b372c3faf48c0da5d99eada&o=&hp=1"
 language: en
 slug: city-block-apartment-free-parking
 address: "Rruga Ymer Kurti, 1001 Tirana, Albania"

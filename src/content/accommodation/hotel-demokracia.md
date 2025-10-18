@@ -1,7 +1,7 @@
 ---
 title: "Hotel Demokracia"
 description: "Hotel Demokracia stands out in Fushe-Arrez, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "/images/accommodation/hotel-demokracia-466424081.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466424081.jpg?k=56ffd374634d0d576abaa2a4fb1387e7c67c0795af5ec078d7b911cd74289b95&o=&hp=1"
 language: en
 slug: hotel-demokracia
 address: "Rruga Fushë Arrëz, 4402 Fushe-Arrez, Albania"

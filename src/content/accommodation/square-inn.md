@@ -1,7 +1,7 @@
 ---
 title: "Square inn"
 description: "Square Inn emerges as a prime choice for travelers seeking a blend of comfort and convenience, with its prime location merely 500 meters from Skanderbeg Square enhancing its appeal."
-featuredImage: "/images/accommodation/square-inn-514573862.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514573862.jpg?k=530b4a1d229de57c60dbd5eabb9b40b0a0837c753903df8ecc51575bab6c0036&o=&hp=1"
 language: en
 slug: square-inn
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

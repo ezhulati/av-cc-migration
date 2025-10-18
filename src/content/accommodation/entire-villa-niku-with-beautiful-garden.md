@@ -1,7 +1,7 @@
 ---
 title: "Entire Villa Niku with Beautiful Garden"
 description: "Entire Villa Niku with Beautiful Garden emerges as a serene oasis in Vlorë, situated a mere 23 km from the bustling Independence Square and 24 km from the historic Kuzum Baba."
-featuredImage: "/images/accommodation/entire-villa-niku-with-beautiful-garden-493366315.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493366315.jpg?k=ab6018101fe1519b97d59e2707deb6c9e8f588837dc9b89da0e2503434282368&o=&hp=1"
 language: en
 slug: entire-villa-niku-with-beautiful-garden
 address: "Rruga Aleksandër Moisiu, 9400 Vlorë, Albania"

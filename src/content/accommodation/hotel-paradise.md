@@ -1,7 +1,7 @@
 ---
 title: "Hotel Paradise"
 description: "Hotel Paradise emerges as a serene retreat in Bilisht, situated a mere 45 km from the Byzantine Museum of Kastoria, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "/images/accommodation/hotel-paradise-402866421.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402866421.jpg?k=43e42acaa59b04beab052897cf9a60021502a406dd41742be137f4985dc5aabf&o=&hp=1"
 language: en
 slug: hotel-paradise
 address: "SH3, 7006 Bilisht, Albania"

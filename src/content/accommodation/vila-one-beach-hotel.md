@@ -1,7 +1,7 @@
 ---
 title: "Vila One Beach Hotel"
 description: "Vila One Beach Hotel emerges as a distinguished 4-star haven in Durrës, directly facing the pristine beachfront."
-featuredImage: "/images/accommodation/vila-one-beach-hotel-466333779.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466333779.jpg?k=40ad31976b37d3424ebec7297d83465f9994ef587d48ad5f61042e1584ef045a&o=&hp=1"
 language: en
 slug: vila-one-beach-hotel
 address: "Rruga Agaveve Durres Lagja 13, 2000 Durrës, Albania"

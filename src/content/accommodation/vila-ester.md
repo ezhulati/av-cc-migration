@@ -1,7 +1,7 @@
 ---
 title: "Vila Ester"
 description: "Vila Ester emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil, perfectly positioned just a short stroll from the pristine sands of Ksamil Beach 9 and the idyllic Paradise Beach."
-featuredImage: "/images/accommodation/vila-ester-74468018.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/74468018.jpg?k=1b9ee4c68f6b7a4042fb9287e6738e988c2918e502392ca3cb2612a41a3b5c73&o=&hp=1"
 language: en
 slug: vila-ester
 address: "rruga naim frasheri, 9706 Ksamil, Albania"

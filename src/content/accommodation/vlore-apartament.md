@@ -1,7 +1,7 @@
 ---
 title: "vlore apartament"
 description: "Vlore Apartament emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/vlore-apartament-525798092.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525798092.jpg?k=4cf464ff06ebc4344a248f8927944145b57f80024ff3da8064356bece3427b04&o=&hp=1"
 language: en
 slug: vlore-apartament
 address: "Rruga Vlorë, 9401 Vlorë, Albania"

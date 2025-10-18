@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Shtini"
 description: "Guesthouse Shtini emerges as a charming choice for travelers seeking a serene stay in Fshat, complete with the convenience of complimentary private parking, around-the-clock front desk service, and seamless WiFi connectivity."
-featuredImage: "/images/accommodation/guesthouse-shtini-213545216.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213545216.jpg?k=0cddcc3c0f974334d0895e588b297a56e0b6a4f8368eb7751aea2e65848b6f7b&o=&hp=1"
 language: en
 slug: guesthouse-shtini
 address: "Unnamed Road, 8507 Fshat, Albania"

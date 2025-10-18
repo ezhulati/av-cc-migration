@@ -1,7 +1,7 @@
 ---
 title: "Villa Escape 21"
 description: "Villa Escape 21 emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/villa-escape-21-478605190.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478605190.jpg?k=cfdc24518244cdbb82409b50fe6e00382bb1413ece13549d96c17a9b73343141&o=&hp=1"
 language: en
 slug: villa-escape-21
 address: "Romanat, 2019 Durrës, Albania"

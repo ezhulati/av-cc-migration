@@ -1,7 +1,7 @@
 ---
 title: "Ili & Eli Apartment"
 description: "Ili & Eli Apartment emerges as a prime choice for travelers seeking a serene retreat in the heart of Sarandë, just a stone's throw away from the pristine Mango Beach and a leisurely stroll from the scenic Flamingo Beach."
-featuredImage: "/images/accommodation/ili-eli-apartment-481408464.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481408464.jpg?k=be70359c305d37836b070e5bae2fcd5090c4adc4511b296e85bf666c33ac5325&o=&hp=1"
 language: en
 slug: ili-eli-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

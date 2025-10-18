@@ -1,7 +1,7 @@
 ---
 title: "Lovely 2 bedroom condo with free parking"
 description: "Discover the charm of Vlorë with a stay at the Lovely 2 Bedroom Condo, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/lovely-2-bedroom-condo-with-free-parking-456701036.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456701036.jpg?k=d1ae9c0ecef72bc93e3c1b691ef4117961e288e31626325174fa8433657e7dbb&o=&hp=1"
 language: en
 slug: lovely-2-bedroom-condo-with-free-parking
 address: "Rruga Ymer Veshi Ap 40, Vlorë, Albania"

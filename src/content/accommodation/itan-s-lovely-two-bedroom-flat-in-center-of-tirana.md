@@ -1,7 +1,7 @@
 ---
 title: "Itan’s lovely two bedroom flat in center of Tirana"
 description: "Itan's Lovely Two Bedroom Flat in the Heart of Tirana emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location."
-featuredImage: "/images/accommodation/itan-s-lovely-two-bedroom-flat-in-center-of-tirana-415286328.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415286328.jpg?k=a244d43680aa9ffca6f950efe813cd004e4135395ef7339a15daa88e56a00861&o=&hp=1"
 language: en
 slug: itan-s-lovely-two-bedroom-flat-in-center-of-tirana
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

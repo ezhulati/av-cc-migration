@@ -1,7 +1,7 @@
 ---
 title: "Join the Ionian 3"
 description: "Discover the charm of Sarandë with a stay at Join the Ionian 3, a prime accommodation choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/join-the-ionian-3-219161815.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219161815.jpg?k=b6b41eaba84620e1cdedd2c48e9336aa25a05ed16195ce82b0fc9073690c0f22&o=&hp=1"
 language: en
 slug: join-the-ionian-3
 address: "Rruga Studenti Rruga Studenti 1, 9701 Sarandë, Albania"

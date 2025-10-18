@@ -1,7 +1,7 @@
 ---
 title: "New Apartment at New Bazaar - Tirana City Center"
 description: "Discover the charm of Tirana with a stay at the New Apartment at New Bazaar, ideally located in the heart of the city center."
-featuredImage: "/images/accommodation/new-apartment-at-new-bazaar-tirana-city-center-464059523.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464059523.jpg?k=9c6ca75ab6b804c565c6b86a7ccdb437583b73008738cdcd65fda659217039ad&o=&hp=1"
 language: en
 slug: new-apartment-at-new-bazaar-tirana-city-center
 address: "2 Rruga Tefta Tashko-Koço 1, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Daniel's house"
 description: "Daniel's House emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/daniel-s-house-472128039.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472128039.jpg?k=c73c89d9a3a647105c7043e6181c787e0ba80fa6c0d3ea89dcfa5c7cce422ef0&o=&hp=1"
 language: en
 slug: daniel-s-house
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

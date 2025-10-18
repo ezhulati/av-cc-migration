@@ -1,7 +1,7 @@
 ---
 title: "Xhuljo’s Apartament"
 description: "Xhuljo's Apartment in Vlorë presents a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/xhuljo-s-apartament-483542603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483542603.jpg?k=14ceb2099c717acd0256362d0b953c22f62d7c80c7ff4ee38c17c339e3ded03d&o=&hp=1"
 language: en
 slug: xhuljo-s-apartament
 address: "Rruga Dervish Ali Dukati 6, 9401 Vlorë, Albania"

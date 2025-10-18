@@ -1,7 +1,7 @@
 ---
 title: "Amazing Apartment"
 description: "Amazing Apartment in Gjirokastër presents a refreshing retreat for travelers seeking comfort and convenience in one setting."
-featuredImage: "/images/accommodation/amazing-apartment-427813916.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427813916.jpg?k=f67cb752c8ad3cc141e788595f6902bec86e6e28710428f3257c03690415a323&o=&hp=1"
 language: en
 slug: amazing-apartment
 address: "Bulevardi 18 Shtatori, 6001 Gjirokastër, Albania"

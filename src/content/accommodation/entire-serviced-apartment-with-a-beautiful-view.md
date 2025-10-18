@@ -1,7 +1,7 @@
 ---
 title: "Entire serviced apartment with a beautiful view"
 description: "Entire Serviced Apartment with a Beautiful View stands as a testament to modern comfort and convenience, located in the heart of Tirana."
-featuredImage: "/images/accommodation/entire-serviced-apartment-with-a-beautiful-view-405682188.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405682188.jpg?k=908cd250d0c9ef3077c021a9447ebbfe1aca6b21a4d1620f6162e7d2c32160cf&o=&hp=1"
 language: en
 slug: entire-serviced-apartment-with-a-beautiful-view
 address: "Rruga e Kavajës, Tirana, Albania"

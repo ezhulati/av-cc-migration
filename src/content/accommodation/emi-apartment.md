@@ -1,7 +1,7 @@
 ---
 title: "Emi Apartment"
 description: "Emi Apartment emerges as a prime choice for travelers seeking a serene seaside escape in Durrës, positioned just a stone's throw away from the pristine Durres Beach and a short drive from the captivating Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/emi-apartment-472569969.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472569969.jpg?k=f065857d2431e3db5a6c42a492de078b731062aa18e041accc97a099efe81fbe&o=&hp=1"
 language: en
 slug: emi-apartment
 address: "Rruga Pavaresia Durres Floor 7 Ap. 1, Durrës, Albania"

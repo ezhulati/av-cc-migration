@@ -1,7 +1,7 @@
 ---
 title: "Appartamento nel centro della citta"
 description: "Appartamento nel centro della citta offers a refreshing stay in the heart of Shkodër, providing guests with the comfort of air-conditioned accommodations complete with a private balcony."
-featuredImage: "/images/accommodation/appartamento-nel-centro-della-citta-498072987.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498072987.jpg?k=3e2af6d3d7719b5ae6656203f9c7a62d49d6efc04ac3c7362826867b371ef0d1&o=&hp=1"
 language: en
 slug: appartamento-nel-centro-della-citta
 address: "Rruga Zef Jubani, 4001 Shkodër, Albania"

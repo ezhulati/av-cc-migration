@@ -1,7 +1,7 @@
 ---
 title: "Vila Sulozeqi"
 description: "Vila Sulozeqi stands as a prime choice for travelers seeking a serene beachfront escape in Sarandë, just a stone's throw away from the pristine Mango Beach."
-featuredImage: "/images/accommodation/vila-sulozeqi-477016928.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477016928.jpg?k=cce2e5a959ebcb2bf53094dc51885b77f391aeacce19666bbfafaec5175b4d60&o=&hp=1"
 language: en
 slug: vila-sulozeqi
 address: "Vila Sulozeqi Sarande, Albania, 9701 Sarandë, Albania"

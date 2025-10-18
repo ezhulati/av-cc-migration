@@ -1,7 +1,7 @@
 ---
 title: "Hostel MDrasa"
 description: "Hostel MDrasa stands as a beacon of comfort and convenience in the historic city of Gjirokastër, a mere stone's throw away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hostel-mdrasa-488106428.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488106428.jpg?k=31f7ea0577a8b39e749e1e16976ea39c784b8cd39bd7bedc791d554ec8b103f9&o=&hp=1"
 language: en
 slug: hostel-mdrasa
 address: "Rruga Granicë nr 01, 6001 Gjirokastër, Albania"

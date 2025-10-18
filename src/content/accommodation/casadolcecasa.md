@@ -1,7 +1,7 @@
 ---
 title: "CasaDolceCasa"
 description: "CasaDolceCasa emerges as a serene retreat in the vibrant city of Shkodër, situated a mere 49 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/casadolcecasa-417701026.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417701026.jpg?k=566d0b03fad424876980bebef86d043aa7cae5c95b8dd2c4651f4c88f67fc299&o=&hp=1"
 language: en
 slug: casadolcecasa
 address: "Rruga e Shtregullave, Shiroke, 4001 Shkodër, Albania"

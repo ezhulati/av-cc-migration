@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartment in Tiranë"
 description: "Cozy Apartment in Tiranë emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/cozy-apartment-in-tiran-497599487.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497599487.jpg?k=ed8d4063e7057353f171556cc5090c6f8f83f650c16be9752ffa7fb805c75424&o=&hp=1"
 language: en
 slug: cozy-apartment-in-tiran
 address: "Rruga Vangjel Noti, Blloku Gintash, Laprake, 1025 Tirana, Albania"

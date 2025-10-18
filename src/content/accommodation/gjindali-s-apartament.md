@@ -1,7 +1,7 @@
 ---
 title: "Gjindali's Apartament"
 description: "Gjindali's Apartment in Vlorë presents a refreshing retreat for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/gjindali-s-apartament-497329824.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497329824.jpg?k=6da821a5114cd0fe4df5c916e847dda117973df2ea60a53c1f2066e949f3b51f&o=&hp=1"
 language: en
 slug: gjindali-s-apartament
 address: "Rruga Aleksandër Moisiu, 9401 Vlorë, Albania"

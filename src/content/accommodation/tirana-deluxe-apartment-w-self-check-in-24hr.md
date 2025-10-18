@@ -1,7 +1,7 @@
 ---
 title: "Tirana Deluxe Apartment w/ self Check-In 24hr!"
 description: "Tirana Deluxe Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/tirana-deluxe-apartment-w-self-check-in-24hr-502754395.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502754395.jpg?k=01e84f8c3249c1fa8a1d38af381d8f143fc45db57a3d6f67d7d685643642bc3c&o=&hp=1"
 language: en
 slug: tirana-deluxe-apartment-w-self-check-in-24hr
 address: "Rruga Vangjush Furxhi, 1004 Tirana, Albania"

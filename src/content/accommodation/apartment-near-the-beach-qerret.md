@@ -1,7 +1,7 @@
 ---
 title: "Apartment Near The Beach, Qerret"
 description: "Apartment Near The Beach, Qerret, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/apartment-near-the-beach-qerret-528127556.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528127556.jpg?k=54d9facf7b09de566b7f297db01cf38d57a3a43eb297aa15ff8428e1325109a1&o=&hp=1"
 language: en
 slug: apartment-near-the-beach-qerret
 address: "Besa street, qerret, 4409 Golem, Albania, 2504 Golem, Albania"

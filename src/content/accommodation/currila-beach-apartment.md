@@ -1,7 +1,7 @@
 ---
 title: "Currila Beach Apartment"
 description: "Currila Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/currila-beach-apartment-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: currila-beach-apartment
 address: "Rruga Taulantia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vladimir Estate"
 description: "Vladimir Estate emerges as a serene retreat, located approximately 42 km from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/vladimir-estate-432912496.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432912496.jpg?k=0252b65d6bfee937b1ef99dd80edc5f745bb21a1d0e5ab11446e92629a96dde5&o=&hp=1"
 language: en
 slug: vladimir-estate
 address: "rruga Hasan Xhiku 26, 6001 Gjirokastër, Albania"

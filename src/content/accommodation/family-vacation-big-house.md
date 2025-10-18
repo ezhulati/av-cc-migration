@@ -1,7 +1,7 @@
 ---
 title: "Family Vacation Big House"
 description: "Discover the charm of seaside living at Family Vacation Big House, a prime beachfront gem located just a stone's throw away from the pristine sands of Durres Beach."
-featuredImage: "/images/accommodation/family-vacation-big-house-522937303.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522937303.jpg?k=79e4033e8591a5e433fb57eddc73b2c200f8080d6dc72de75da5bd6dc3499f6b&o=&hp=1"
 language: en
 slug: family-vacation-big-house
 address: "Rr. Venecia, Lagjia 13, Plazh, Durres, 2008 Durrës, Albania"

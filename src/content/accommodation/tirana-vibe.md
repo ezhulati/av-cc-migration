@@ -1,7 +1,7 @@
 ---
 title: "Tirana Vibe"
 description: "Tirana Vibe emerges as a modern oasis in the heart of Tirana, boasting a prime location that puts guests within arm's reach of the city's most iconic landmarks, including Skanderbeg Square, the Former Residence of Enver Hoxha, and the poignant Postbllok - Checkpoint Monument."
-featuredImage: "/images/accommodation/tirana-vibe-490128515.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490128515.jpg?k=877c25939a1de5fefef5fdfce0b92ecd14760d67b7526728f14b8bcd19f322bf&o=&hp=1"
 language: en
 slug: tirana-vibe
 address: "7 Rruga Mustafa Matohiti 3rd, 1006 Tirana, Albania"

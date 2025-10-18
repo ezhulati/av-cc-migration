@@ -1,7 +1,7 @@
 ---
 title: "Hotel Theatro- City Center"
 description: "Hotel Theatro- City Center emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-theatro-city-center-349455822.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349455822.jpg?k=0ac19a229ae8c26080ec5771779d487d23df185c5561ce2ab707a4f561072148&o=&hp=1"
 language: en
 slug: hotel-theatro-city-center
 address: "street 'Mihal Duri' nr 2, Tirane, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Germenji"
 description: "Hotel Germenji emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Gërmenj."
-featuredImage: "/images/accommodation/hotel-germenji-217371477.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/217371477.jpg?k=cbc99acd65a74a55262dbbd6ac03b51f20cdcc7df5aae5370be4c7e2b218dbb6&o=&hp=1"
 language: en
 slug: hotel-germenji
 address: "Rruga Nacionale Erseke-Leskovik ,21st km Rruga nacionale Erseke-Leskovik ,21st km, 7401 Gërmenj, Albania"

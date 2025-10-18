@@ -1,7 +1,7 @@
 ---
 title: "Ebis Apartament"
 description: "Ebis Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/ebis-apartament-527423897.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527423897.jpg?k=337d7a49a9e4349a2800fa29d05eb15b990354fdedf1c76720ab3105dad9f7bc&o=&hp=1"
 language: en
 slug: ebis-apartament
 address: "Rruga Dhimitër Konomi, 9004 Vlorë, Albania"

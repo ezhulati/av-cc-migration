@@ -1,7 +1,7 @@
 ---
 title: "Amphora Guesthouse & Apartments"
 description: "Amphora Guesthouse & Apartments emerges as a prime choice for travelers seeking air-conditioned comfort with breathtaking views of both sea and mountains in Himare."
-featuredImage: "/images/accommodation/amphora-guesthouse-apartments-302515261.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302515261.jpg?k=a8d435a61d0d9b634b8c9b71880989c731dc83415453cae3368e2b228b595b79&o=&hp=1"
 language: en
 slug: amphora-guesthouse-apartments
 address: "Himare Fshat, Vlora, 9425 Himare, Albania"

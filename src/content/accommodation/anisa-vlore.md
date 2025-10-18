@@ -1,7 +1,7 @@
 ---
 title: "ANISA Vlore"
 description: "ANISA Vlore stands as a prime beachfront gem in Vlorë, offering guests the unique opportunity to wake up just 200 meters from the pristine Vlore Beach and a short stroll from Ri Beach."
-featuredImage: "/images/accommodation/anisa-vlore-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: anisa-vlore
 address: "Rruga Haziz Xhyherri Building no 2, 6 floor, 9405 Vlorë, Albania"

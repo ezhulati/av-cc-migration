@@ -1,7 +1,7 @@
 ---
 title: "Metro Hotel Tirana"
 description: "Metro Hotel Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/metro-hotel-tirana-172621293.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/172621293.jpg?k=b1c607a6e62c05e4af00b639e3369ebc476aa3b05a87c8f6066d9be194a54f07&o=&hp=1"
 language: en
 slug: metro-hotel-tirana
 address: "Rruga Nikolla Tupe Numer 3, kati 1, 1019 Tirana, Albania"

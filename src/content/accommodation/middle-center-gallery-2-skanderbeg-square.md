@@ -1,7 +1,7 @@
 ---
 title: "Middle Center Gallery 2 Skanderbeg Square"
 description: "Middle Center Gallery 2 Skanderbeg Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/middle-center-gallery-2-skanderbeg-square-463913011.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463913011.jpg?k=b14e2ba1bc9e2f83f8ca9fdd09f1399b07631bc6aefa3cfcc174d234442adc03&o=&hp=1"
 language: en
 slug: middle-center-gallery-2-skanderbeg-square
 address: "Rruga Bardhok Biba, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "MiMi's Beach Apartment"
 description: "MiMi's Beach Apartment in Vlorë stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/mimi-s-beach-apartment-251144175.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251144175.jpg?k=e6c54fe7fe41eb8c8cec80240179d2bf24bdeb35413fbcafcc8b6ae2af4b3cf4&o=&hp=1"
 language: en
 slug: mimi-s-beach-apartment
 address: "Rruga Çamëria, 9401 Vlorë, Albania"

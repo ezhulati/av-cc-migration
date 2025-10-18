@@ -1,7 +1,7 @@
 ---
 title: "Alessio Apartments 1"
 description: "Alessio Apartments 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/alessio-apartments-1-367689263.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367689263.jpg?k=85d91d4bcc98f0593c44b1bc96957248c5ef8871152f719f2716b5612f7fb4dc&o=&hp=1"
 language: en
 slug: alessio-apartments-1
 address: "Rruga Shyqyri Ali Merka, 9405 Vlorë, Albania"

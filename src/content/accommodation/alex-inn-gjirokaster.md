@@ -1,7 +1,7 @@
 ---
 title: "Alex Inn Gjirokaster"
 description: "Alex Inn Gjirokaster emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the historic city of Gjirokastër."
-featuredImage: "/images/accommodation/alex-inn-gjirokaster-528309131.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528309131.jpg?k=dc73a805067a6576af95d6df2751ec34b8f760742a37a7a7893750212dc0d8a4&o=&hp=1"
 language: en
 slug: alex-inn-gjirokaster
 address: "Rruga Rauf Fico, Gjirokastër, Albania"

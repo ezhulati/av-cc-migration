@@ -1,7 +1,7 @@
 ---
 title: "Hotel Viktoria"
 description: "Hotel Viktoria stands as a beacon of comfort and convenience in the historic city of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-viktoria-428191090.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428191090.jpg?k=eb672f9a5fdfeb2458ece039af99f14e3c66cd08b94c021347c1b57a0c328fb1&o=&hp=1"
 language: en
 slug: hotel-viktoria
 address: "Liqeni i Viroit, 6001 Gjirokastër, Albania"

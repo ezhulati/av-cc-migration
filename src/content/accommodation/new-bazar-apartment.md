@@ -1,7 +1,7 @@
 ---
 title: "New Bazar Apartment"
 description: "New Bazar Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/new-bazar-apartment-527117658.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527117658.jpg?k=c9190de464f65b97d8221c652c2e1a358f422ff9599eea34cfaecab89ea7a591&o=&hp=1"
 language: en
 slug: new-bazar-apartment
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

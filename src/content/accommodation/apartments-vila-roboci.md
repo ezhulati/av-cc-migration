@@ -1,7 +1,7 @@
 ---
 title: "Apartments Vila Roboci"
 description: "Apartments Vila Roboci emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/apartments-vila-roboci-101647522.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/101647522.jpg?k=5ea2a2c4ba3c9c5ebdf5bf6f17a66d233872fe2448d039151de00467483b72c7&o=&hp=1"
 language: en
 slug: apartments-vila-roboci
 address: "rruga Guri Nazifi 37, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cozy apartment 50m from the beach"
 description: "Cozy Apartment, a mere stone's throw from Prinos Beach and just a short stroll from Maracit Beach, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Himare."
-featuredImage: "/images/accommodation/cozy-apartment-50m-from-the-beach-437979710.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437979710.jpg?k=3feb8846ef433b0b4c7a1c285644e8044315b42c0d3597f3e6746ef812fe0907&o=&hp=1"
 language: en
 slug: cozy-apartment-50m-from-the-beach
 address: "Himare Apartment in front of sea, second floor, 9425 Himare, Albania"

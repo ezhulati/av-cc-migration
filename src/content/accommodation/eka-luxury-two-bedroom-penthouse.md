@@ -1,7 +1,7 @@
 ---
 title: "Eka Luxury Two-Bedroom Penthouse"
 description: "Eka Luxury Two-Bedroom Penthouse emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic city views."
-featuredImage: "/images/accommodation/eka-luxury-two-bedroom-penthouse-329741426.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329741426.jpg?k=ad27346f1e87e5083c7df968576b2a804933e177f1be8f19ff01717303c65235&o=&hp=1"
 language: en
 slug: eka-luxury-two-bedroom-penthouse
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

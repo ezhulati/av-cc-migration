@@ -1,7 +1,7 @@
 ---
 title: "Relax Apartment 3"
 description: "Relax Apartment 3 emerges as a prime choice for travelers seeking a blend of comfort, convenience, and entertainment in Vlorë, situated a stone's throw away from Independence Square and a brief 2."
-featuredImage: "/images/accommodation/relax-apartment-3-455378938.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455378938.jpg?k=dd71309f2834ce52fa78a2fcbe692877de3b6d1ec9ec435b3723cf5dcd92fc21&o=&hp=1"
 language: en
 slug: relax-apartment-3
 address: "Lgj. Pavaresia Prane Pallatit te Kultures, 9400 Vlorë, Albania"

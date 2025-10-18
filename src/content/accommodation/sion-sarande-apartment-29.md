@@ -1,7 +1,7 @@
 ---
 title: "Sion Sarande Apartment 29"
 description: "Sion Sarande Apartment 29 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë, Vlorë County."
-featuredImage: "/images/accommodation/sion-sarande-apartment-29-358160992.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358160992.jpg?k=45e89c80ee20950063ed18da4572483b9de7dcd17057f5a0f84610b29343c552&o=&hp=1"
 language: en
 slug: sion-sarande-apartment-29
 address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"

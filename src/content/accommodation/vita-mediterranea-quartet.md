@@ -1,7 +1,7 @@
 ---
 title: "Vita Mediterranea Quartet"
 description: "Vita Mediterranea Quartet stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short stroll from Sarande Main Beach and within easy reach of both Saranda City Beach and Saranda Bay Beach."
-featuredImage: "/images/accommodation/vita-mediterranea-quartet-489682429.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489682429.jpg?k=2967c655f7c06df41294c8b7e76177edc27398cbc94d7566a007c320d28d13a7&o=&hp=1"
 language: en
 slug: vita-mediterranea-quartet
 address: "79 Rruga Ismail Qemali, Sarandë, Albania"

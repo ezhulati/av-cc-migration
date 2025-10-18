@@ -1,7 +1,7 @@
 ---
 title: "Flora Apartments Sarande"
 description: "Flora Apartments Sarande emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/flora-apartments-sarande-271643081.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271643081.jpg?k=827ae4ab0c57d4c05fbc9c7e4041db97873860dd9b41afff917439f9e6f6b48a&o=&hp=1"
 language: en
 slug: flora-apartments-sarande
 address: "Lagja Nr.4, Rruga Idriz Alidhima, Prane Stadiumit, 9701 Sarandë, Albania"

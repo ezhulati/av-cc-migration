@@ -1,7 +1,7 @@
 ---
 title: "Green Terrace Apartment 8"
 description: "Green Terrace Apartment 8 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/green-terrace-apartment-8-522418460.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522418460.jpg?k=3b0691f5d648912c3fa50b3d473d80b793d4cf1a6259d375ab709b5bf6824c0c&o=&hp=1"
 language: en
 slug: green-terrace-apartment-8
 address: "Rruga e Barrikadave 2, 1001 Tirana, Albania"

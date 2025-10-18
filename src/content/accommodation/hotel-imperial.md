@@ -1,7 +1,7 @@
 ---
 title: "Hotel IMPERIAL"
 description: "Hotel IMPERIAL stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/hotel-imperial-317806209.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317806209.jpg?k=2a4820a065bf128bf05012aa6a47dc1359cfb9163aa996a287092da041adddee&o=&hp=1"
 language: en
 slug: hotel-imperial
 address: "Murat Terbaci, 9401 Vlorë, Albania"

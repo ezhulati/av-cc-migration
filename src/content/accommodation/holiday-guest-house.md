@@ -1,7 +1,7 @@
 ---
 title: "Holiday Guest-House"
 description: "Holiday Guest-House in Përmet stands out as a serene retreat in the heart of Gjirokastër County."
-featuredImage: "/images/accommodation/holiday-guest-house-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10209259898041437/picture?type=square&height=64&width=64"
 language: en
 slug: holiday-guest-house
 address: "Rruga Laver Bariu, 6401 Përmet, Albania"

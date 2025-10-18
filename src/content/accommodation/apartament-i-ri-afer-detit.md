@@ -1,7 +1,7 @@
 ---
 title: "apartament i ri afer detit"
 description: "Discover the charm of Vlorë with a stay at the conveniently located \"Apartament i Ri Afer Detit,\" a prime choice for travelers seeking proximity to the city's stunning beaches."
-featuredImage: "/images/accommodation/apartament-i-ri-afer-detit-466340279.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466340279.jpg?k=0147cbeee0466d6324573c3302c89176bb9bfcbfd9c133fd40ceef099fec01b1&o=&hp=1"
 language: en
 slug: apartament-i-ri-afer-detit
 address: "Rruga Pelivan Leskaj, Vlorë, Albania"

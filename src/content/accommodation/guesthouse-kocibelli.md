@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Kocibelli"
 description: "Guesthouse Kocibelli stands as a beacon of comfort and convenience for travelers exploring Korçë, situated a mere 43 km from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/guesthouse-kocibelli-486397045.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486397045.jpg?k=5db3d76dede7197e5714779a18a1282f9c269f1e982085ea7fc223b2f833e349&o=&hp=1"
 language: en
 slug: guesthouse-kocibelli
 address: "Rrugica Skender Caci, Korçë, Albania"

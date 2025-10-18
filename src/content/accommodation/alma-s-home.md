@@ -1,7 +1,7 @@
 ---
 title: "Alma's Home"
 description: "Alma's Home stands out as a premier destination for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Liro Beach and a short distance from the exclusive Beach at Government Villas."
-featuredImage: "/images/accommodation/alma-s-home-127862756.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/127862756.jpg?k=f1bf6e1b5d82e433f1a166a921599aa36a008a959196d0823d484416cda261db&o=&hp=1"
 language: en
 slug: alma-s-home
 address: "Rruga Aleksandër Moisiu KOMPLEKSI REZIDENCIAL UJI I FTOHTE, 9405 Vlorë, Albania"

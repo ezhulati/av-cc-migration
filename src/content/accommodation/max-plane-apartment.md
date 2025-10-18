@@ -1,7 +1,7 @@
 ---
 title: "Max Plane Apartment"
 description: "Max Plane Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, merely a stone's throw away from Ri Beach."
-featuredImage: "/images/accommodation/max-plane-apartment-474709690.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474709690.jpg?k=8d1ccab0f20024f15b900c6c1bf8ce5a2c9b39270bc98e47033816f62ae47c57&o=&hp=1"
 language: en
 slug: max-plane-apartment
 address: "Rruga Dhimitër Konomi Nr 15, 5, B, 9405 Vlorë, Albania"

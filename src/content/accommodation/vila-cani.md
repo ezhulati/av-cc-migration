@@ -1,7 +1,7 @@
 ---
 title: "VILA CANI"
 description: "VILA CANI stands as a serene retreat in the heart of Tepelenë, Gjirokastër County, boasting a private balcony that opens up to tranquil garden views."
-featuredImage: "/images/accommodation/vila-cani-492802153.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492802153.jpg?k=993539086835f17711a1aca4384d7f8ff79d5d43ea652d29fcbcc1f78d24e55d&o=&hp=1"
 language: en
 slug: vila-cani
 address: "Mezhgoran -Tepelene Kati 2, 6301 Tepelenë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Erika Apartment"
 description: "Erika Apartment emerges as a recently updated gem in Sarandë, offering a blend of comfort and convenience for travelers seeking a serene getaway."
-featuredImage: "/images/accommodation/erika-apartment-459767803.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459767803.jpg?k=1aa03433fab70e0fa86c338e778077b608d4d308558e84c9f6c15e0543e4cb06&o=&hp=1"
 language: en
 slug: erika-apartment
 address: "Rruga Gjergj Araniti 14, 4th floor, 1001 Sarandë, Albania"

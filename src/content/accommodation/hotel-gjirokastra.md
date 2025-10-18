@@ -1,7 +1,7 @@
 ---
 title: "Hotel Gjirokastra"
 description: "Discover the charm of Hotel Gjirokastër, a gem just a stone's throw away from the heart of the city, situated 300 meters from the bustling center."
-featuredImage: "/images/accommodation/hotel-gjirokastra-105934232.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105934232.jpg?k=469305eaeabc51b45c68b6cd4a7c85f42b9eed22de911608e8356409b9ddec94&o=&hp=1"
 language: en
 slug: hotel-gjirokastra
 address: "Lagjia Partizani, Rruga Shezai Como, 6001 Gjirokastër, Albania"

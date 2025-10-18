@@ -1,7 +1,7 @@
 ---
 title: "Lucky Lux Apartment"
 description: "Lucky Lux Apartment stands out as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/lucky-lux-apartment-175265655.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/175265655.jpg?k=3d37c3835e2e7e883eceecbf8c68d0ba2a192547136d21d521ae580ff4dbb33c&o=&hp=1"
 language: en
 slug: lucky-lux-apartment
 address: "Rruga Murat Tërbaçi, Vlorë 9401, Albania 6th floor above the PROPER PIZZA Restaurant., 9405 Vlorë, Albania"

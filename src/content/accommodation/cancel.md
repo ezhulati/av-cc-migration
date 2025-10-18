@@ -1,7 +1,7 @@
 ---
 title: "cancel"
 description: "Cancel Apartment in Tirana presents a refreshing retreat for travelers seeking the comfort of modern amenities blended with the charm of local culture."
-featuredImage: "/images/accommodation/cancel-490744763.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490744763.jpg?k=6f225423b3cc7754e4a71ba42c0592fdcdf5da1fc6ff735fbcf8146d504f9f0f&o=&hp=1"
 language: en
 slug: cancel
 address: "Rruga Kasem Shima 6 floor Ap.24, 3001 Tirana, Albania"

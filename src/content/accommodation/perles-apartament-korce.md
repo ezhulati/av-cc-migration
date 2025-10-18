@@ -1,7 +1,7 @@
 ---
 title: "PERLES Apartament KORCE"
 description: "PERLES Apartament KORCE emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Korçë, situated a mere 42 km from the serene Monastery Saint Naum and 43 km from the tranquil Ohrid Lake Springs."
-featuredImage: "/images/accommodation/perles-apartament-korce-263770125.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263770125.jpg?k=2373624ef98a2f9416040174cb9fdb285ec07beec33129cfac4ae15e8862f59a&o=&hp=1"
 language: en
 slug: perles-apartament-korce
 address: "Rruga Anastas Lakce Ndertesa 16, Hyrja 5, Apartamenti 3, 7001 Korçë, Albania"

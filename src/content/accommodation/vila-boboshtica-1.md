@@ -1,7 +1,7 @@
 ---
 title: "Vila Boboshtica 1"
 description: "Vila Boboshtica 1 stands as a serene retreat in the heart of Korçë, offering guests a chance to unwind in a space that feels like home, yet is away from home."
-featuredImage: "/images/accommodation/vila-boboshtica-1-381778542.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381778542.jpg?k=91a77a5f8950bf4e952e203ddaaad5b7fa6984f042a2b6667172eb7ee224a37a&o=&hp=1"
 language: en
 slug: vila-boboshtica-1
 address: "Boboshtice Korce, 7001 Korçë, Albania"

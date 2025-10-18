@@ -1,7 +1,7 @@
 ---
 title: "Rent Rooms Kapri"
 description: "Rent Rooms Kapri emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in Pogradec, situated a mere 6."
-featuredImage: "/images/accommodation/rent-rooms-kapri-357299665.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357299665.jpg?k=57ad2deb7ca8ea2fecd0b5ee915e3d1949fcd4b49846b56942e30d0c4262c200&o=&hp=1"
 language: en
 slug: rent-rooms-kapri
 address: "Rruga Sul Starovari, 7301 Pogradec, Albania"

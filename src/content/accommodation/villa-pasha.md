@@ -1,7 +1,7 @@
 ---
 title: "Villa Pasha"
 description: "Villa Pasha emerges as a serene retreat in the vibrant city of Tirana, offering guests a blend of comfort and convenience with its air-conditioned accommodations that boast a welcoming patio."
-featuredImage: "/images/accommodation/villa-pasha-515214626.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515214626.jpg?k=e54a67f0af5be2a425faf0e1d65bfa691c2709def95f03aaa5311039cab330fa&o=&hp=1"
 language: en
 slug: villa-pasha
 address: "Rruga Alajdin Frasheri, Tirana, Albania"

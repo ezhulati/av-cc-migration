@@ -1,7 +1,7 @@
 ---
 title: "Yes2"
 description: "Located in the heart of Tirana, Yes2 offers a prime location for travelers eager to explore the city's rich history and vibrant culture."
-featuredImage: "/images/accommodation/yes2-495177435.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495177435.jpg?k=e29cff56bacba860d78b2e2b21f2c951753a7b7684b4b287ab7212e3163e6160&o=&hp=1"
 language: en
 slug: yes2
 address: "6 Rruga Mihal Duri, 1001 Tirana, Albania"

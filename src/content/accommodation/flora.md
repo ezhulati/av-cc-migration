@@ -1,7 +1,7 @@
 ---
 title: "FLORA"
 description: "FLORA stands as a beacon of comfort and convenience in the vibrant city of Vlorë, offering guests a serene retreat with its air-conditioned accommodations that boast a private balcony."
-featuredImage: "/images/accommodation/flora-388816419.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388816419.jpg?k=90908ce9a8f765857d199abbbc5483199ab20253fff6b6f0cea9c73ca5349cfc&o=&hp=1"
 language: en
 slug: flora
 address: "Rruga Reshat Osmani, 9401 Vlorë, Albania"

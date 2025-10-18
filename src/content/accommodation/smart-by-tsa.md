@@ -1,7 +1,7 @@
 ---
 title: "Smart - by TSA"
 description: "Smart - by TSA emerges as a standout choice for travelers seeking modern, air-conditioned accommodations in Kashar."
-featuredImage: "/images/accommodation/smart-by-tsa-510891523.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510891523.jpg?k=b0ca3093639122c5f59095f3efc8fd2a1a56b34f8ed35d2115b1ca1e1c045042&o=&hp=1"
 language: en
 slug: smart-by-tsa
 address: "Rruga Loni Ligori, 1023 Kashar, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Star Holiday Apartments"
 description: "Star Holiday Apartments emerges as a serene retreat in the vibrant heart of Golem, a stone's throw away from the pristine shores of Golem Beach, Shkëmbi i Kavajës Beach, and Mali I Robit Beach."
-featuredImage: "/images/accommodation/star-holiday-apartments-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: star-holiday-apartments
 address: "Rruga Fan Noli, 2504 Golem, Albania"

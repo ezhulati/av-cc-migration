@@ -1,7 +1,7 @@
 ---
 title: "Nicolas apartment’s"
 description: "Nicolas Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, just a stone's throw away from the inviting Durres Beach and within a comfortable distance from the city's notable landmarks."
-featuredImage: "/images/accommodation/nicolas-apartment-s-488555750.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488555750.jpg?k=7aff388dba4a3dbb54f702019d308a50a74e78d11719c3f1ad08f4e1dd4692f8&o=&hp=1"
 language: en
 slug: nicolas-apartment-s
 address: "Rruga Pavaresia Flor 4 apartment 1, Durrës, Albania"

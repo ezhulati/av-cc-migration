@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bologna"
 description: "Discover the charm of Hotel Bologna, a modern gem situated a mere stone's throw from the beach, offering guests breathtaking sea views right from their rooms."
-featuredImage: "/images/accommodation/hotel-bologna-15122745.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15122745.jpg?k=dc695f2c9060bc34390c2acf8545c05f04315abad77fcdb7004bf62886869225&o=&hp=1"
 language: en
 slug: hotel-bologna
 address: "Ismail Qemali Street, 9400 Vlorë, Albania"

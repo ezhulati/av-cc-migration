@@ -1,7 +1,7 @@
 ---
 title: "Privilege Hotel & Spa"
 description: "Privilege Hotel & Spa emerges as a distinguished choice for travelers seeking comfort and convenience just 5 km away from the bustling center of Tirana."
-featuredImage: "/images/accommodation/privilege-hotel-spa-228475517.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228475517.jpg?k=f108d8230bded6d2c5ec25f50ae2416e2daaba74e0e4169108323d52a9c7ca01&o=&hp=1"
 language: en
 slug: privilege-hotel-spa
 address: "Rruga Haxhi Dushku, 2, 1000 Tirana, Albania"

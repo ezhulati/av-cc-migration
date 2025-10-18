@@ -1,7 +1,7 @@
 ---
 title: "Sea Dream Apartment"
 description: "Sea Dream Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty, located just a stone's throw away from Vlore Beach."
-featuredImage: "/images/accommodation/sea-dream-apartment-169661416.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/169661416.jpg?k=af69a834d87a0c7d53c9cce70245913f63c33066b0849c32c2d36168512afd9e&o=&hp=1"
 language: en
 slug: sea-dream-apartment
 address: "Rruga Murat Tërbaçi, 9405 Vlorë, Albania"

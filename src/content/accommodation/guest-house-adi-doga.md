@@ -1,7 +1,7 @@
 ---
 title: "Guest House Adi Doga"
 description: "Guest House Adi Doga emerges as a freshly renovated haven for travelers seeking comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/guest-house-adi-doga-470793492.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470793492.jpg?k=93605e16cc3d74835362111872df6f00c5d0fbd18b8966c38943c21a9df44225&o=&hp=1"
 language: en
 slug: guest-house-adi-doga
 address: "Mihal Komneno, 5000 Berat, Albania"

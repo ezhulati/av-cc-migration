@@ -1,7 +1,7 @@
 ---
 title: "Alpeta Agrotourism & Winery - Roshnik , Berat"
 description: "Alpeta Agrotourism & Winery - Roshnik, Berat, emerges as a serene retreat for travelers seeking a blend of comfort and natural beauty in Roshnik."
-featuredImage: "/images/accommodation/alpeta-agrotourism-winery-roshnik-berat-353920128.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353920128.jpg?k=d59096c5e67194cb00234138e13fc925333bc6dfa5ef6e996319b46fa16e8831&o=&hp=1"
 language: en
 slug: alpeta-agrotourism-winery-roshnik-berat
 address: "Rroshnik Rroshnik Qender, 5001 Roshnik, Albania"

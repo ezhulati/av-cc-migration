@@ -1,7 +1,7 @@
 ---
 title: "Villa Oleander"
 description: "Villa Oleander emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "/images/accommodation/villa-oleander-503995258.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503995258.jpg?k=d388cfa9864bd1f42f641d86a436cfb350fc7202e1e322092c5f4827e06b1c0b&o=&hp=1"
 language: en
 slug: villa-oleander
 address: "8F3V+4GR Durres, Lagjia 13, Rruga Venecia - Shetitorja Plazh 2 poschodí, 2002 Durrës, Albania"

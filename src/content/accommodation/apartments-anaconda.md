@@ -1,7 +1,7 @@
 ---
 title: "Apartments Anaconda"
 description: "Apartments Anaconda emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the pristine Durres Beach and within a reasonable distance from the heart of Albanian history at Skanderbeg Square."
-featuredImage: "/images/accommodation/apartments-anaconda-424505889.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424505889.jpg?k=8d750811d1977026603ddba1bc8a3efc0aed932b2975b4aee4b39c3b5bf2b341&o=&hp=1"
 language: en
 slug: apartments-anaconda
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Pearl Adriatic Coast 3"
 description: "Villa Pearl Adriatic Coast 3 emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, mere steps away from the pristine Qerret Beach and a short stroll from the tranquil Mali I Robit Beach."
-featuredImage: "/images/accommodation/villa-pearl-adriatic-coast-3-474721187.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474721187.jpg?k=2eb6c15648002ef87c5eab9ebb2d5702bd7a31ea2a8546f1b7151090f8bcafcc&o=&hp=1"
 language: en
 slug: villa-pearl-adriatic-coast-3
 address: "Rruga Qerret Plazh, Golem, Albania"

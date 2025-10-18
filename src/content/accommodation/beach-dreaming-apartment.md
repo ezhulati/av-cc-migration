@@ -1,7 +1,7 @@
 ---
 title: "Beach Dreaming Apartment"
 description: "Beach Dreaming Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/beach-dreaming-apartment-490361879.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490361879.jpg?k=62a323fe5576f2357bd099f6e58157ba87da39af586474d20d63cf2ebeccf767&o=&hp=1"
 language: en
 slug: beach-dreaming-apartment
 address: "Rruga Ismail Qemali, Sarandë, Albania"

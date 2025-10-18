@@ -1,7 +1,7 @@
 ---
 title: "Villa Kanina"
 description: "Villa Kanina emerges as a serene oasis, offering breathtaking garden views from its balconies, just a stone's throw away from Sarande Main Beach."
-featuredImage: "/images/accommodation/villa-kanina-522182761.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522182761.jpg?k=742eee340fe6104fff61caa8161601570df26d64a1cb03df975728221734685e&o=&hp=1"
 language: en
 slug: villa-kanina
 address: "105 Rruga Studenti, 9701 Sarandë, Albania"

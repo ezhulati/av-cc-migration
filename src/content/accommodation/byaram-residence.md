@@ -1,7 +1,7 @@
 ---
 title: "BYARAM Residence"
 description: "BYARAM Residence stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/byaram-residence-476017624.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476017624.jpg?k=34eedb602b1f0122539ffca11f8813d77d5aaea1a70721c761b5d1894f75e277&o=&hp=1"
 language: en
 slug: byaram-residence
 address: "Rruga Pavaresia, Durrës, Albania"

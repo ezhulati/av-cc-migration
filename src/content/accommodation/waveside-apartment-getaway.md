@@ -1,7 +1,7 @@
 ---
 title: "Waveside Apartment Getaway"
 description: "Waveside Apartment Getaway offers a prime beachfront location in Durrës, mere steps away from the serene Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."
-featuredImage: "/images/accommodation/waveside-apartment-getaway-498503354.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498503354.jpg?k=bf442525eea3bfa257ce3b38d794367a07ae8d1d309481ba1ab10df01eba8177&o=&hp=1"
 language: en
 slug: waveside-apartment-getaway
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

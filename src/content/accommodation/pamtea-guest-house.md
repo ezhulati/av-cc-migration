@@ -1,7 +1,7 @@
 ---
 title: "Pamtea Guest House"
 description: "Pamtea Guest House, located in the serene Berat County region of Lapardha Dy, stands out for its commitment to providing a comfortable stay with modern amenities."
-featuredImage: "/images/accommodation/pamtea-guest-house-506855026.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506855026.jpg?k=3c1e7fa2135d9dacdee7cab83b667396b44ab24c57522204772f5c8472a87308&o=&hp=1"
 language: en
 slug: pamtea-guest-house
 address: "Joullinj Lapardha 2, Lapardha Dy, Albania"

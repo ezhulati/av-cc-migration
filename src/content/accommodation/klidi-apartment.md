@@ -1,7 +1,7 @@
 ---
 title: "Klidi Apartment"
 description: "Klidi Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/klidi-apartment-481435059.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481435059.jpg?k=10dc63945b2250d5b42b33d98f977ccc79c8c0b023bdfaec09ba71907e5b0e0a&o=&hp=1"
 language: en
 slug: klidi-apartment
 address: "Rruga Nikolla Zoraqi 9, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Aria Apartments Qerret Albania"
 description: "Aria Apartments Qerret Albania emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated a mere stone's throw away from the serene Qerret Beach and a short drive from the picturesque Mali I Robit Beach."
-featuredImage: "/images/accommodation/aria-apartments-qerret-albania-479160690.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479160690.jpg?k=e42444dfd32bce03aa632d82d03dc0dbfd8669d6a1e06bc9f9e7f7ace97c5786&o=&hp=1"
 language: en
 slug: aria-apartments-qerret-albania
 address: "Rruga Besa 2, 2502 Golem, Albania"

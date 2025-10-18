@@ -1,7 +1,7 @@
 ---
 title: "Eleanas Apartament"
 description: "Eleanas Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/eleanas-apartament-29d5c93ac695.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
 language: en
 slug: eleanas-apartament
 address: "Rruga Jonianet 2, 9701 Sarandë, Albania"

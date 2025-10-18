@@ -1,7 +1,7 @@
 ---
 title: "Villa Bianca"
 description: "Villa Bianca emerges as a distinguished choice for travelers seeking a blend of comfort and convenience, situated 26 km from the vibrant Skanderbeg Square in Rubjekë."
-featuredImage: "/images/accommodation/villa-bianca-306185098.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306185098.jpg?k=aa633c61e50bc99a1bcb5dddfc4967345f116d4d20b5c1589bbd728d8cc8bab8&o=&hp=1"
 language: en
 slug: villa-bianca
 address: "2020 Rubjekë, Albania"

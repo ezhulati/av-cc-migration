@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa JO-AN"
 description: "Luxury Villa JO-AN emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/luxury-villa-jo-an-487523702.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487523702.jpg?k=993c9968f00887b2692d1cbe92ce65edfb4436711766bc8ddfe18c7bf0dcc3d0&o=&hp=1"
 language: en
 slug: luxury-villa-jo-an
 address: "Rruga Ibrahim Rugova, Ksamil, Albania"

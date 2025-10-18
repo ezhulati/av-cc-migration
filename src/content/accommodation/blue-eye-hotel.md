@@ -1,7 +1,7 @@
 ---
 title: "Blue Eye Hotel"
 description: "Blue Eye Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/blue-eye-hotel-262813875.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262813875.jpg?k=8dc4e7bae4f60781f48f8e480644457a89a5a8b3cb39c74b8aa9b7e4a3e5af18&o=&hp=1"
 language: en
 slug: blue-eye-hotel
 address: "Rruga Rilindja, 9706 Ksamil, Albania"

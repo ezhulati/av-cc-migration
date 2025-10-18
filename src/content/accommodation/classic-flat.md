@@ -1,7 +1,7 @@
 ---
 title: "Classic flat"
 description: "Discover the charm of Tirana from the comfort of the Classic Flat, a prime accommodation choice that places guests at the heart of the city's rich history and vibrant culture."
-featuredImage: "/images/accommodation/classic-flat-398335836.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398335836.jpg?k=44f71b5e44992fb6f76f5cee5bf5d91f23f7bb798006cf8eb1110580ed2bbec6&o=&hp=1"
 language: en
 slug: classic-flat
 address: "Rruga Vaso Pasha, Tirana, Albania"

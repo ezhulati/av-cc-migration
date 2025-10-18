@@ -1,7 +1,7 @@
 ---
 title: "Modern on a Budget - City Centre Apartment"
 description: "Modern on a Budget - City Centre Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/modern-on-a-budget-city-centre-apartment-470787104.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470787104.jpg?k=49e7f627ddf8c42e0b64fd72aae0fd320a9b58e8c59f888e44467924e43c1af6&o=&hp=1"
 language: en
 slug: modern-on-a-budget-city-centre-apartment
 address: "Rruga Kumini, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Azure"
 description: "Villa Azure emerges as a modern oasis of tranquility and comfort, having undergone recent renovations to enhance its charm."
-featuredImage: "/images/accommodation/villa-azure-485561217.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485561217.jpg?k=569f1e4400bb08c7c383a37a6f2b6f2ee42423a0b33b77dfd4d060aa83d82743&o=&hp=1"
 language: en
 slug: villa-azure
 address: "Rruga e plazhit të Palasës, 9422 Palasë, Albania"

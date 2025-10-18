@@ -1,7 +1,7 @@
 ---
 title: "Luxury sea view apartment with private beach just a few steps from the center"
 description: "Discover the epitome of coastal elegance at the Luxury Sea View Apartment, a premier destination for travelers seeking an exclusive retreat in Palasë."
-featuredImage: "/images/accommodation/luxury-sea-view-apartment-with-private-beach-just-a-few-steps-from-the-center-462068055.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462068055.jpg?k=8cc19ba20acba39ac626133a62c4981cc1c26de92cc1d0f80e15cefd75ed9442&o=&hp=1"
 language: en
 slug: luxury-sea-view-apartment-with-private-beach-just-a-few-steps-from-the-center
 address: "5j29+79M Olea Residence Palase , Dhermi, 9422 Palasë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Noah's Home"
 description: "Noah's Home stands out as a serene retreat in Himare, offering guests a unique blend of comfort and scenic beauty just a short distance from Gjiri i Filikurit Beach."
-featuredImage: "/images/accommodation/noah-s-home-481900104.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481900104.jpg?k=a9d00c569142942f636e9cf7578d99c155fe014bb8d099c927236f9c0ac25d68&o=&hp=1"
 language: en
 slug: noah-s-home
 address: "Argjileo Himare, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cactus Coastal: 3-Bedroom Condo"
 description: "Cactus Coastal: 3-Bedroom Condo emerges as a premier choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/cactus-coastal-3-bedroom-condo-465881623.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465881623.jpg?k=94d3aa9286e0a5bda1b7ec6347633ed6c307b67353e686fb306e3664c863b5c2&o=&hp=1"
 language: en
 slug: cactus-coastal-3-bedroom-condo
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

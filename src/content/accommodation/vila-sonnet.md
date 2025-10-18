@@ -1,7 +1,7 @@
 ---
 title: "Vila Sonnet"
 description: "Vila Sonnet emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "/images/accommodation/vila-sonnet-338263013.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338263013.jpg?k=2788a251316fc911abdde90744a996c9fbb26b47a41608779d2e384f5a9e7b44&o=&hp=1"
 language: en
 slug: vila-sonnet
 address: "12 Rruga Kristo Grabocka, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lula Guesthouse"
 description: "Lula Guesthouse emerges as a serene retreat in the historic heart of Gjirokastër, offering guests a refreshing stay with its air-conditioned accommodations that open up to private balconies overlooking lush garden views."
-featuredImage: "/images/accommodation/lula-guesthouse-469082203.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469082203.jpg?k=61956b878c0874dce20d46448a2851b7d8aadff74a64f6d1fcd3694878cf2f85&o=&hp=1"
 language: en
 slug: lula-guesthouse
 address: "Rruga Pazari i Vjetër Pllake, 6001 Gjirokastër, Albania"

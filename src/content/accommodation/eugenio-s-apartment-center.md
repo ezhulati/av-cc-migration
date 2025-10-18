@@ -1,7 +1,7 @@
 ---
 title: "Eugenio’s Apartment Center"
 description: "Eugenio’s Apartment Center offers a refreshing stay in the heart of Shkodër, providing guests with the comfort of air-conditioned spaces complemented by the convenience of a private balcony."
-featuredImage: "/images/accommodation/eugenio-s-apartment-center-491281312.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491281312.jpg?k=670261bcb1e527503a3a813b8414d7a14962a45c7df8b730b435ac6d8bd554de&o=&hp=1"
 language: en
 slug: eugenio-s-apartment-center
 address: "Rruga At Gjergj Fishta Floor 3, 4001 Shkodër, Albania"

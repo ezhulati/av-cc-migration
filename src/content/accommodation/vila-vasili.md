@@ -1,7 +1,7 @@
 ---
 title: "Vila Vasili"
 description: "Vila Vasili emerges as a modern retreat in the heart of Ksamil's riviera, part of the pristine Butrint National Park in Southern Albania."
-featuredImage: "/images/accommodation/vila-vasili-369472962.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369472962.jpg?k=635b1e493b97a7991450689293f88213ddaf01606b4edadc28ebbd67246013b2&o=&hp=1"
 language: en
 slug: vila-vasili
 address: "Prane Ish Turizmit, 9999 Ksamil, Albania"

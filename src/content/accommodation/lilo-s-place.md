@@ -1,7 +1,7 @@
 ---
 title: "LILO’s Place"
 description: "LILO's Place emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lilo-s-place-488359004.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488359004.jpg?k=c027b6b493fbcdf6112664154c0938f2b31049675003f1adac9c3f8568c6cf91&o=&hp=1"
 language: en
 slug: lilo-s-place
 address: "Rruga Abdyl Frashëri Pallati 9 apt 47, 1019 Tirana, Albania"

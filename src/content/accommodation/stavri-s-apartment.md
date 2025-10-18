@@ -1,7 +1,7 @@
 ---
 title: "Stavri's Apartment"
 description: "Stavri's Apartment emerges as a refreshing choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/stavri-s-apartment-360982973.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360982973.jpg?k=b04bc370c6b9f5cfbee1739dfdb18a695e860293014a1cd5892ddb924ea9c820&o=&hp=1"
 language: en
 slug: stavri-s-apartment
 address: "rruga Gjergj Arianiti Sarandë Albania, 9701 Sarandë, Albania"

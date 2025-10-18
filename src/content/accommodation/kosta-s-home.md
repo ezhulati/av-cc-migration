@@ -1,7 +1,7 @@
 ---
 title: "Kosta's Home"
 description: "Kosta's Home stands out as a freshly updated retreat in the heart of Tirana, offering a blend of convenience and comfort for travelers."
-featuredImage: "/images/accommodation/kosta-s-home-419898962.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419898962.jpg?k=44a969ca651da1d32e490ba9f5b97339ba2ce6e8aa56efe099c4cd303fc74ea7&o=&hp=1"
 language: en
 slug: kosta-s-home
 address: "Rruga Muzaket, 1001 Tirana, Albania"

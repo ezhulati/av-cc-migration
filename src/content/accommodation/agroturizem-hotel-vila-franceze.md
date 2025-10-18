@@ -1,7 +1,7 @@
 ---
 title: "Agroturizem Hotel Vila Franceze"
 description: "Agroturizem Hotel Vila Franceze stands out as a serene retreat in Koman, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/agroturizem-hotel-vila-franceze-345055951.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345055951.jpg?k=92b639f003f8dd2d321ded566a20428a4cdc990f8ab504cbfccb62231a068efa&o=&hp=1"
 language: en
 slug: agroturizem-hotel-vila-franceze
 address: "Vila Franceze Koman Vila Franceze Koman, 4013 Koman, Albania"

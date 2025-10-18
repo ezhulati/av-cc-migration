@@ -1,7 +1,7 @@
 ---
 title: "The perfect apartment in Tirana!"
 description: "The Perfect Apartment in Tirana stands out as a prime choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/the-perfect-apartment-in-tirana-485939235.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485939235.jpg?k=7b4d0a3f2a127375774e775f8c239233a33968ac85f5c3f86707e1efecb4e840&o=&hp=1"
 language: en
 slug: the-perfect-apartment-in-tirana
 address: "Rruga Abdulla Keta, 1001 Tirana, Albania"

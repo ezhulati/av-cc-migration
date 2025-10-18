@@ -1,7 +1,7 @@
 ---
 title: "Ardo Apartament"
 description: "Ardo Apartament emerges as a prime beachfront gem in Durrës, boasting an enviable location just a short stroll from the pristine Durres Beach and within a manageable distance from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/ardo-apartament-475670096.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475670096.jpg?k=c70561ddc7b2bf27776f36d96d28a272d2c845c81283dc04a83de066fd29c542&o=&hp=1"
 language: en
 slug: ardo-apartament
 address: "Rruga Rrota e Kuqe, Durrës, Albania"

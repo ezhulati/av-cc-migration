@@ -1,7 +1,7 @@
 ---
 title: "Hotel Colosseo Tirana"
 description: "Hotel Colosseo Tirana stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-colosseo-tirana-109753160.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109753160.jpg?k=868169a1ae747c8b08bb74ccfc1eba6f2429400f2dfa00b13eb27d738422ac4f&o=&hp=1"
 language: en
 slug: hotel-colosseo-tirana
 address: "Rruga e Durrësit / Sheshi Adem Jashari, 1000 Tirana, Albania"

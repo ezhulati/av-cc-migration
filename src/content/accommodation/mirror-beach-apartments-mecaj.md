@@ -1,7 +1,7 @@
 ---
 title: "Mirror beach-Apartments Mecaj"
 description: "Mirror Beach-Apartments Mecaj emerges as a serene retreat in the heart of Kalive Gjoka, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/mirror-beach-apartments-mecaj-476367604.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476367604.jpg?k=d9ee5b6eb0993fe8b3ede81ed914dd47cd44d7b9e22a2c36125d594b81e695fa&o=&hp=1"
 language: en
 slug: mirror-beach-apartments-mecaj
 address: "Plazhi Pasqyra, 9706 Kalive Gjoka, Albania"

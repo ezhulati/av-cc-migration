@@ -1,7 +1,7 @@
 ---
 title: "Hotel Cajupi"
 description: "Discover the charm of Gjirokastër with a stay at Hotel Cajupi, a gem that offers more than just a place to rest your head."
-featuredImage: "/images/accommodation/hotel-cajupi-278699703.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/278699703.jpg?k=b0310a678a5099e83f5b832fa1be81ee736d7fee001788057b80b51678453250&o=&hp=1"
 language: en
 slug: hotel-cajupi
 address: "Sheshi Cerciz Topulli, 6001 Gjirokastër, Albania"

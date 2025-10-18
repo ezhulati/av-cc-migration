@@ -1,7 +1,7 @@
 ---
 title: "Hotel Blue Eye"
 description: "Hotel Blue Eye is a distinguished choice for travelers seeking comfort and convenience in Korçë, situated just 40 km from the historic Monastery Saint Naum and a stone's throw away from the serene Ohrid Lake Springs, 41 km to be precise."
-featuredImage: "/images/accommodation/hotel-blue-eye-526972761.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526972761.jpg?k=013cddf8790c45d520d724f24db6ba42f84eaf887b18ee2b540325d9f08c0139&o=&hp=1"
 language: en
 slug: hotel-blue-eye
 address: "Rruga Nacionale Korce-Pogradec KM1, 7001 Korçë, Albania"

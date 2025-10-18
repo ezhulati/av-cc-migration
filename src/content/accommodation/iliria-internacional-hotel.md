@@ -1,7 +1,7 @@
 ---
 title: "Iliria Internacional Hotel"
 description: "Discover the charm of Iliria Internacional Hotel, a hidden gem located just 7 km from the bustling center of Durrës."
-featuredImage: "/images/accommodation/iliria-internacional-hotel-75644571.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/75644571.jpg?k=45db68e5c21f1d675c34644077b8278e458e223241d6448cf4b523b0a3df7e9b&o=&hp=1"
 language: en
 slug: iliria-internacional-hotel
 address: "Rruga Porta e Detit 31, Lagja 13, Plazhi \"Iliria\", 1004 Durrës, Albania"

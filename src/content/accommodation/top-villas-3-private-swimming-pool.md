@@ -1,7 +1,7 @@
 ---
 title: "Top villas 3 private swimming pool"
 description: "Top Villas 3 Private Swimming Pool emerges as a premier choice for travelers seeking unparalleled comfort and privacy in Rubjekë."
-featuredImage: "/images/accommodation/top-villas-3-private-swimming-pool-476791429.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476791429.jpg?k=55972a54dd87cf4b16b40b0fe737bac307e9e59578cfbe625c8befb202b33a57&o=&hp=1"
 language: en
 slug: top-villas-3-private-swimming-pool
 address: "rruga lalzit, 2020 Rubjekë, Albania"

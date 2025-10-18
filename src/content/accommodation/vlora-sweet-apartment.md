@@ -1,7 +1,7 @@
 ---
 title: "Vlora sweet apartment"
 description: "Vlora Sweet Apartment emerges as a charming retreat in the heart of Vlorë, offering a serene escape less than a kilometer from the pristine Ri Beach and a short distance from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/vlora-sweet-apartment-471602497.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471602497.jpg?k=0955a7ab156621a37537125ef9a69c3ade54882bbb28f8d5e6112885bc146d73&o=&hp=1"
 language: en
 slug: vlora-sweet-apartment
 address: "Rruga Petro Marko Ap1, 9401 Vlorë, Albania"

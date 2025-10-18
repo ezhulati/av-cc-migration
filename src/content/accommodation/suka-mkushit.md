@@ -1,7 +1,7 @@
 ---
 title: "Suka Mkushit"
 description: "Suka Mkushit emerges as a serene retreat in the heart of Shkodër, Shkoder County, offering guests a blend of comfort and convenience with its well-appointed accommodations and thoughtful amenities."
-featuredImage: "/images/accommodation/suka-mkushit-524314806.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524314806.jpg?k=07de97328be52dfc577bb5b4c1dccd62f3a7ba5a60bfddba35659af8f94f02d1&o=&hp=1"
 language: en
 slug: suka-mkushit
 address: "Gropat e selces , Shkoder, 4001 Shkodër, Albania"

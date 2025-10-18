@@ -1,7 +1,7 @@
 ---
 title: "D&D Apartments"
 description: "D&D Apartments emerges as a prime choice for travelers seeking comfortable, air-conditioned accommodations in the heart of Sarandë."
-featuredImage: "/images/accommodation/d-d-apartments-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: d-d-apartments
 address: "185 Rruga Skënderbeu, 9604 Sarandë, Albania"

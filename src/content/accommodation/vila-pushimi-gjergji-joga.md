@@ -1,7 +1,7 @@
 ---
 title: "Vila pushimi Gjergji Joga"
 description: "Vila Pushimi Gjergji Joga, located in the picturesque Korçë County of Voskopojë, presents a serene garden setting for guests seeking tranquility and comfort."
-featuredImage: "/images/accommodation/vila-pushimi-gjergji-joga-515608474.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515608474.jpg?k=a5d121e1351353e80d216276816fa0068c0df25d1d3462d9ab457df631744928&o=&hp=1"
 language: en
 slug: vila-pushimi-gjergji-joga
 address: "Rruga \"SHEN PRODHROMI\" NR.4, Voskopojë, 7029 Voskopojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cosy Urban Central Apartment"
 description: "Cosy Urban Central Apartment offers a refreshing take on modern accommodations in the heart of Tirana."
-featuredImage: "/images/accommodation/cosy-urban-central-apartment-454040332.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454040332.jpg?k=726fec7cc8602c5a890a554f3083d0577c731f8663c91a0fc810b77408887517&o=&hp=1"
 language: en
 slug: cosy-urban-central-apartment
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

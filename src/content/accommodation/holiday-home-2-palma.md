@@ -1,7 +1,7 @@
 ---
 title: "Holiday Home 2 Palma"
 description: "Holiday Home 2 Palma emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/holiday-home-2-palma-117893236.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117893236.jpg?k=8f1d5bade122483d4c270558f366e2bb703d2020cc85b9df8d3c63b326961b0d&o=&hp=1"
 language: en
 slug: holiday-home-2-palma
 address: "Rruga Vath Turja, 1144 Durrës, Albania"

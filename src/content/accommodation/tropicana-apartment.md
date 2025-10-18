@@ -1,7 +1,7 @@
 ---
 title: "Tropicana Apartment"
 description: "Tropicana Apartment stands out as a prime choice for travelers seeking a blend of comfort and convenience, with its stunning sea views and prime location in Vlorë."
-featuredImage: "/images/accommodation/tropicana-apartment-376118185.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376118185.jpg?k=d78d12273a9b3f1b4ea31a00032431a0c3132d146a625af8b8147c26d8dced72&o=&hp=1"
 language: en
 slug: tropicana-apartment
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

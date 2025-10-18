@@ -1,7 +1,7 @@
 ---
 title: "Hotel Adriatik Orikum"
 description: "Hotel Adriatik Orikum emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Orikum."
-featuredImage: "/images/accommodation/hotel-adriatik-orikum-372728128.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372728128.jpg?k=ee1cbf4b0ffe1ec15cf05f9923e33987bb3e7dc096d980560cbaa96e073e58f1&o=&hp=1"
 language: en
 slug: hotel-adriatik-orikum
 address: "Rruga Orikum Hotel Adriatik Orikum, 9426 Orikum, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kompleksi CFN ALBANIA"
 description: "Kompleksi CFN ALBANIA emerges as a serene retreat in Pogradec, strategically positioned just a short drive from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/kompleksi-cfn-albania-524858093.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524858093.jpg?k=a0e99d8bf4e5694c6050bf35b7d59dbb9698b49aeff159451fa3b85f7fdd918e&o=&hp=1"
 language: en
 slug: kompleksi-cfn-albania
 address: "Rruga Fondacioni CFN, Buçimas, 7304 Pogradec, Albania"

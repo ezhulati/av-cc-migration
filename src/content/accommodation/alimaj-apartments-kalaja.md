@@ -1,7 +1,7 @@
 ---
 title: "Alimaj Apartments Kalaja"
 description: "Alimaj Apartments Kalaja emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/alimaj-apartments-kalaja-355464376.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355464376.jpg?k=93d532356f03d10acc834e290d89e56bb278c7fcd1073c0bdef9016f4e3ecabc&o=&hp=1"
 language: en
 slug: alimaj-apartments-kalaja
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

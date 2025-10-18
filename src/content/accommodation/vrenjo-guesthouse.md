@@ -1,7 +1,7 @@
 ---
 title: "Vrenjo GuestHouse"
 description: "Vrenjo GuestHouse stands as a beacon of comfort and convenience in the historic heart of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/vrenjo-guesthouse-296375105.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296375105.jpg?k=5d679d07a3197e92f7a82303900679539bc5d93324b513f39ac7659748a019d6&o=&hp=1"
 language: en
 slug: vrenjo-guesthouse
 address: "Rruga Lufta e Mashkullorës 3, 6002 Gjirokastër, Albania"

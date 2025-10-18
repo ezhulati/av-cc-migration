@@ -1,7 +1,7 @@
 ---
 title: "Your local experience, Tirana"
 description: "Discover the charm of Tirana with a stay at \"Your Local Experience, Tirana,\" a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/your-local-experience-tirana-479533029.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479533029.jpg?k=9f1bc46e453ecede55b5e7caf175dc30e31a124d25cfcd9a508dc8c4619268f0&o=&hp=1"
 language: en
 slug: your-local-experience-tirana
 address: "Rruga Sali Butka, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Party guesthouse for big groups"
 description: "Discover the ultimate group getaway at Party Guesthouse, strategically located in the vibrant heart of Tirana."
-featuredImage: "/images/accommodation/party-guesthouse-for-big-groups-366269896.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366269896.jpg?k=3d0d83543a2d5446ce0e389b9d9f2eeb78e5b00d56c560e65abb9af22fa23039&o=&hp=1"
 language: en
 slug: party-guesthouse-for-big-groups
 address: "Rruga Faik Konica, 1010 Tirana, Albania"

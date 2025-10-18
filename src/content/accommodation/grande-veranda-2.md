@@ -1,7 +1,7 @@
 ---
 title: "Grande Veranda 2"
 description: "Grande Veranda 2 emerges as a recently renovated gem in the heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/grande-veranda-2-399597947.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399597947.jpg?k=f88f21b4c7e707b64ef89ec5f624bf164f101d96fd8c8aff468b8658e46e04a1&o=&hp=1"
 language: en
 slug: grande-veranda-2
 address: "Rruga Tafaj Selvia, 1001 Tirana, Albania"

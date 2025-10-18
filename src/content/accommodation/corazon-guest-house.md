@@ -1,7 +1,7 @@
 ---
 title: "Corazon Guest House"
 description: "Corazon Guest House emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, just a stone's throw away from the pristine Vjetër Beach and a short distance from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/corazon-guest-house-359051270.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359051270.jpg?k=0011b3ffe77814f7e437f146a06f20394197c2c56ddabed35e0082b2e72eabd4&o=&hp=1"
 language: en
 slug: corazon-guest-house
 address: "Rr. Sazani, 9402 Vlorë, Albania"

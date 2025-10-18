@@ -1,7 +1,7 @@
 ---
 title: "Tirana Views Apartment - Comfy & spacious"
 description: "Tirana Views Apartment stands out as a prime choice for travelers seeking comfort and space in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-views-apartment-comfy-spacious-375369479.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375369479.jpg?k=89d5c70ee32c3e4bf3ed54094d94c908a77dcec656691d2eabbee40917c6f9f6&o=&hp=1"
 language: en
 slug: tirana-views-apartment-comfy-spacious
 address: "Bulevardi Gjergj Fishta Nd. 138, Hyrja 50, Apt. 38, 1023 Tirana, Albania"

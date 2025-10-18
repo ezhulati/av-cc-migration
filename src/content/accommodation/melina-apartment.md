@@ -1,7 +1,7 @@
 ---
 title: "Melina Apartment"
 description: "Melina Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/melina-apartment-354556321.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354556321.jpg?k=bcc1c50183d300de4c9f4b1696b2aec8481c1f104d1c3bf1bde9aa884b719cb6&o=&hp=1"
 language: en
 slug: melina-apartment
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

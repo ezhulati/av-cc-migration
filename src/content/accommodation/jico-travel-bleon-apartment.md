@@ -1,7 +1,7 @@
 ---
 title: "Jico Travel - Bleon Apartment"
 description: "Jico Travel - Bleon Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/jico-travel-bleon-apartment-458650605.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458650605.jpg?k=38b9c95c3ea9567ab83c21bbbb40137ee583df73bd9d026c408b20bdba828387&o=&hp=1"
 language: en
 slug: jico-travel-bleon-apartment
 address: "Rruga Murat Tërbaçi, floor 6, 9400 Vlorë, Albania"

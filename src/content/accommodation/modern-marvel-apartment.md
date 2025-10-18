@@ -1,7 +1,7 @@
 ---
 title: "Modern Marvel Apartment"
 description: "Modern Marvel Apartment emerges as a standout choice for travelers seeking comfort and convenience in Krujë."
-featuredImage: "/images/accommodation/modern-marvel-apartment-509906627.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509906627.jpg?k=d6d37a1c4df969cd492ff04866fa444989bc518879f27cec8ba77509c621a547&o=&hp=1"
 language: en
 slug: modern-marvel-apartment
 address: "Rruga Gjergj Kastrioti Floor number 1, 1501 Krujë, Albania"

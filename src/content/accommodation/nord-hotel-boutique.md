@@ -1,7 +1,7 @@
 ---
 title: "Nord Hotel Boutique"
 description: "Nord Hotel Boutique, located in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, stands out as a premier destination for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/nord-hotel-boutique-414237758.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414237758.jpg?k=48cd05056a57bc83d248ac23f2acc5d19e4cc5de181bcbdf97263d5ff1a379d5&o=&hp=1"
 language: en
 slug: nord-hotel-boutique
 address: "Rruga Stacioni Trenit 4001, Shkoder, Albania, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vlora 3D Guesthouse"
 description: "Vlora 3D Guesthouse emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned strategically close to both Vjetër Beach and Vlore Beach."
-featuredImage: "/images/accommodation/vlora-3d-guesthouse-487059966.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487059966.jpg?k=a67c8b8f079f11f5fa617be0052ef3080f9c1b878558eea268f35fd2986214b5&o=&hp=1"
 language: en
 slug: vlora-3d-guesthouse
 address: "Rruga Sadik Zotaj, Vlorë, Albania"

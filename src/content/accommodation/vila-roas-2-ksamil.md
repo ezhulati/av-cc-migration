@@ -1,7 +1,7 @@
 ---
 title: "Vila Roas 2 Ksamil"
 description: "Vila Roas 2 Ksamil emerges as a serene retreat in the vibrant heart of Ksamil, boasting a prime location that places guests just moments away from the pristine shores of Coco Beach and Bora Bora Beach, with Sunset Beach merely a leisurely stroll away."
-featuredImage: "/images/accommodation/vila-roas-2-ksamil-477570659.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477570659.jpg?k=631005bc7ac6d64fa17b96d274646d88549f9d3f009fea1f20844ad1f86b0da5&o=&hp=1"
 language: en
 slug: vila-roas-2-ksamil
 address: "Q2G6+48V, Liqeni, Road, Ksamil, 9706 Ksamil, Albania"

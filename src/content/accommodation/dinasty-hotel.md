@@ -1,7 +1,7 @@
 ---
 title: "Dinasty Hotel"
 description: "Discover the charm of Dinasty Hotel, a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/dinasty-hotel-65087670.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/65087670.jpg?k=a76b38efaafb6332ecd41f79931a3dde0a1ed66e0cb33d5350ced278b2cb9688&o=&hp=1"
 language: en
 slug: dinasty-hotel
 address: "Rruga e Kosovarëve, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Orkidea"
 description: "Villa Orkidea emerges as a serene oasis in the vibrant heart of Sarandë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/villa-orkidea-208629239.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208629239.jpg?k=36b931742081326c00565f3208a511d1375b53ddd399822092f67de5077d19b7&o=&hp=1"
 language: en
 slug: villa-orkidea
 address: "Lagja n4 Rruga Mitat Hoxha 142, 1700 Sarandë, Albania"

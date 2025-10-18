@@ -1,7 +1,7 @@
 ---
 title: "Villas Jezerca"
 description: "Villas Jezerca, located in the serene Valbonë valley, offers a unique blend of comfort and natural beauty for travelers seeking a tranquil retreat."
-featuredImage: "/images/accommodation/villas-jezerca-185596233.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185596233.jpg?k=092c3099e6a74bafd9e81eacac4a279a83323a3798747ff066c7861cf8977c07&o=&hp=1"
 language: en
 slug: villas-jezerca
 address: "Rruga Azem Hajdari Valbone, 8702 Valbonë, Albania"

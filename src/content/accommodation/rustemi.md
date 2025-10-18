@@ -1,7 +1,7 @@
 ---
 title: "Rustemi"
 description: "Rustemi emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/rustemi-448930166.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448930166.jpg?k=42afab284ea2462f989e0c3062f7fba70f0dd09798cf7c1c6ecc82838c094ee2&o=&hp=1"
 language: en
 slug: rustemi
 address: "Rruga Adem Sheme Lugu Dardhes, 9701 Sarandë, Albania"

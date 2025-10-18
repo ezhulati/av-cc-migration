@@ -1,7 +1,7 @@
 ---
 title: "Mili apartments"
 description: "Mili Apartments emerges as a distinguished choice for travelers seeking comfortable accommodation in Berat."
-featuredImage: "/images/accommodation/mili-apartments-472743393.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472743393.jpg?k=86cf9011ba33844e9b499464e3c6a5bb7bb57a9ce4c211dee7aad9f62b199c98&o=&hp=1"
 language: en
 slug: mili-apartments
 address: "Rruga Telegrafi, 5001 Berat, Albania"

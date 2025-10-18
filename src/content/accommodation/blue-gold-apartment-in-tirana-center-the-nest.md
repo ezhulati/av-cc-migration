@@ -1,7 +1,7 @@
 ---
 title: "Blue Gold Apartment in Tirana Center - THE NEST"
 description: "Blue Gold Apartment in Tirana Center - THE NEST emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/blue-gold-apartment-in-tirana-center-the-nest-444584168.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444584168.jpg?k=2c08634cc625acbadcd1c827bab1f6411ffa260d2acc41d636052ba18874ff3a&o=&hp=1"
 language: en
 slug: blue-gold-apartment-in-tirana-center-the-nest
 address: "5 Rruga e Durrësit, 1001 Tirana, Albania"

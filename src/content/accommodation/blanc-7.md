@@ -1,7 +1,7 @@
 ---
 title: "BLANC 7"
 description: "BLANC 7 emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/blanc-7-384145166.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384145166.jpg?k=b31a4e7187912492aba89477ff07ef794be552d2ba0d16cbe5eb24c4d4448800&o=&hp=1"
 language: en
 slug: blanc-7
 address: "Rruga Abdulla Keta Apartament blanc bistro kati 7, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Emen"
 description: "Vila Emen emerges as a gem in Ksamil, boasting a prime location close to the serene Sunset Beach and the vibrant Ksamil Beach."
-featuredImage: "/images/accommodation/vila-emen-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: vila-emen
 address: "Road Bistrica, NO. 8, 9706 Ksamil, Albania"

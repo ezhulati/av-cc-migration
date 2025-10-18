@@ -1,7 +1,7 @@
 ---
 title: "Grandstay Apartments"
 description: "Grandstay Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience along the Durrës coastline."
-featuredImage: "/images/accommodation/grandstay-apartments-526812605.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526812605.jpg?k=b5a93c7d259723e6ed15481433602cf4469c67d870267febf31b668a2c949867&o=&hp=1"
 language: en
 slug: grandstay-apartments
 address: "Rruga Taulantia floor number 10 living 14 total apartments nr 40, 2001 Durrës, Albania"

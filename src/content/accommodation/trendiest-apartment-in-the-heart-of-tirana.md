@@ -1,7 +1,7 @@
 ---
 title: "Trendiest apartment in the heart of Tirana"
 description: "Trendiest Apartment in the Heart of Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/trendiest-apartment-in-the-heart-of-tirana-401630864.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401630864.jpg?k=537cfe933648f0359626206ab8d9da125eee437cfdc520e2d116ef8f4857ee4e&o=&hp=1"
 language: en
 slug: trendiest-apartment-in-the-heart-of-tirana
 address: "Rruga Avdyl Frasheri, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "FETAHU HOSTEL"
 description: "FETAHU HOSTEL, located in the picturesque Berat County region of Poliçan, offers guests a serene escape with its charming garden views and private balcony."
-featuredImage: "/images/accommodation/fetahu-hostel-502613584.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502613584.jpg?k=b48a192b0b43b4c1ca0ca65f71d6c1db9d55f83350bb3ec45a879206a5af8940&o=&hp=1"
 language: en
 slug: fetahu-hostel
 address: "Rruga Bogova, 5404 Poliçan, Albania"

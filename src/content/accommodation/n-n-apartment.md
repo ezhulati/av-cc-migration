@@ -1,7 +1,7 @@
 ---
 title: "N&N Apartment"
 description: "N&N Apartment emerges as a modern haven for travelers seeking the comfort of home in the heart of Përmet."
-featuredImage: "/images/accommodation/n-n-apartment-343567341.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343567341.jpg?k=cd24e767fdbe4d4dd457ab670b47c0b58c275513dc8438bd5e0285fc9eb7ebdc&o=&hp=1"
 language: en
 slug: n-n-apartment
 address: "Rruga Wilson 1/1, 6400 Përmet, Albania"

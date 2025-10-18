@@ -1,7 +1,7 @@
 ---
 title: "Skyline Panoramic Apartment"
 description: "Skyline Panoramic Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/skyline-panoramic-apartment-510545148.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510545148.jpg?k=289072381bb9e140528786c0f785f5a62a36aae17d7a836c3fdece826322f726&o=&hp=1"
 language: en
 slug: skyline-panoramic-apartment
 address: "Rruga Vaso Pasha, 1001 Tirana, Albania"

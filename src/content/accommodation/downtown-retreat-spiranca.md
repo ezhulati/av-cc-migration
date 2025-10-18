@@ -1,7 +1,7 @@
 ---
 title: "Downtown Retreat \"Spiranca\""
 description: "Downtown Retreat \"Spiranca\" emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/downtown-retreat-spiranca-495886279.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495886279.jpg?k=e4e3dc757ecbdfb62a85330b739eebfa6a81d6b55bb01e52e894b9371e8974cc&o=&hp=1"
 language: en
 slug: downtown-retreat-spiranca
 address: "Rruga Cameria No 2, 1051 Tirana, Albania"

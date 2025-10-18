@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bega"
 description: "Hotel Bega stands out as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/hotel-bega-459119610.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459119610.jpg?k=369c32cfc09031dd4bc614333ee7d68fe76fdba9c256995d109561e61a077d91&o=&hp=1"
 language: en
 slug: hotel-bega
 address: "Rruga Ali Pashe Tepelena Ksamil Lagja 1, Ksamill 31, 9706 Ksamil, Albania"

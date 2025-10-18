@@ -1,7 +1,7 @@
 ---
 title: "Chri Chri Guesthouse"
 description: "Chri Chri Guesthouse in Përmet stands out as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/chri-chri-guesthouse-374933423.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374933423.jpg?k=8d8f2e23f56c0cbba211b32020b1bfd9572ef9c15258ac5ee904161be7d7dbe7&o=&hp=1"
 language: en
 slug: chri-chri-guesthouse
 address: "Leusë, 6401 Përmet, Albania"

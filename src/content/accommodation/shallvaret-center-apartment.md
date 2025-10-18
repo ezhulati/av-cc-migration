@@ -1,7 +1,7 @@
 ---
 title: "Shallvaret Center Apartment"
 description: "Shallvaret Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/shallvaret-center-apartment-485691088.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485691088.jpg?k=1670fc337b028484cc3744c5c8f4b575379be93e3a99239660a2ce8064dd805f&o=&hp=1"
 language: en
 slug: shallvaret-center-apartment
 address: "Rruga Reshit Çollaku 39, Tirana, Albania"

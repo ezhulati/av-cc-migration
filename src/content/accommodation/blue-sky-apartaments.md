@@ -1,7 +1,7 @@
 ---
 title: "Blue Sky Apartaments"
 description: "Blue Sky Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, situated a stone's throw away from the pristine Durres Beach and within a manageable distance of 38 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/blue-sky-apartaments-369293371.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369293371.jpg?k=28eabba7e270bfd7622c4f38fc6968dd18eabcc21b1c5b7c3fb723a70d73c6d3&o=&hp=1"
 language: en
 slug: blue-sky-apartaments
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

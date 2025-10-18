@@ -1,7 +1,7 @@
 ---
 title: "Hotel Four Islands"
 description: "Hotel Four Islands stands out as a prime choice for travelers seeking comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/hotel-four-islands-286535629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286535629.jpg?k=8d1c059df1f628b65937de7e7c91d04ed56073cdc9e602c4eb79f9dc1db4ecd4&o=&hp=1"
 language: en
 slug: hotel-four-islands
 address: "Rruga Baba Sherifi, 9706 Ksamil, Albania"

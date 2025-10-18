@@ -1,7 +1,7 @@
 ---
 title: "Vila Genci"
 description: "Vila Genci emerges as a serene retreat for travelers seeking both the vibrancy of Ksamil and the tranquility of a beachside haven."
-featuredImage: "/images/accommodation/vila-genci-465332993.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465332993.jpg?k=f984fb702e2dc101abcbf13c8bc93cb25a4ed674589d8c161a4e9b4d07572b8e&o=&hp=1"
 language: en
 slug: vila-genci
 address: "Lagjjia 26-Marsi, rruga Ibrahim Rugova, godine private nr. 4, 9706 Ksamil, Albania"

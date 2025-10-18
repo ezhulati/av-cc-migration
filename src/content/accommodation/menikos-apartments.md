@@ -1,7 +1,7 @@
 ---
 title: "Menikos Apartments"
 description: "Menikos Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Himare, positioned just a stone's throw away from the serene Potam Beach and a leisurely stroll from Prinos Beach."
-featuredImage: "/images/accommodation/menikos-apartments-136809776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/136809776.jpg?k=89eb8255cc5fdd13395ea26e11bdffbb23f00706999bec0e844af992f8cfdf47&o=&hp=1"
 language: en
 slug: menikos-apartments
 address: "potam, 9425 Himare, Albania"

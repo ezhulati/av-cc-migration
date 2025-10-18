@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Isolde"
 description: "Guesthouse Isolde emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned just a stone's throw away from the pristine Vjetër Beach and within easy reach of the city's main attractions, including Vlore Beach, Independence Square, and the historic Kuzum Baba."
-featuredImage: "/images/accommodation/guesthouse-isolde-479982673.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479982673.jpg?k=e3247c07fd8cb071b25a38909dadb55345b93fa1adb3174104b458cf09c60b05&o=&hp=1"
 language: en
 slug: guesthouse-isolde
 address: "Rruga Kosova 2nd floor of the house, 9401 Vlorë, Albania"

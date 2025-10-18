@@ -1,7 +1,7 @@
 ---
 title: "Royal apartament"
 description: "Royal Apartament emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/royal-apartament-370361926.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370361926.jpg?k=284b36403de959339ef345beca8160d06930fd23977758dc4cee84656bb3ed3f&o=&hp=1"
 language: en
 slug: royal-apartament
 address: "Shetitorja e Plazhit Next to Royal G hotel, Durrës, Albania"

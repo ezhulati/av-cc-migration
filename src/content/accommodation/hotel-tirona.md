@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tirona"
 description: "Hotel Tirona emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-tirona-518448977.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518448977.jpg?k=592765e7409ddde0fc21ed23685f0b3659fe3aa3a267b7e6222dcffb24f8c63d&o=&hp=1"
 language: en
 slug: hotel-tirona
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

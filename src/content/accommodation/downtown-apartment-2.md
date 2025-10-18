@@ -1,7 +1,7 @@
 ---
 title: "Downtown Apartment 2"
 description: "Downtown Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/downtown-apartment-2-357761735.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357761735.jpg?k=9c46b375642e01fb86fdce5c19d282be22d99b5e55dc6c522b780b20e853ff8e&o=&hp=1"
 language: en
 slug: downtown-apartment-2
 address: "Rruga Petrit Lulo, 5001 Berat, Albania"

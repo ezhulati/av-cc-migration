@@ -1,7 +1,7 @@
 ---
 title: "City Centre Apartment 2"
 description: "City Centre Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/city-centre-apartment-2-193534819.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193534819.jpg?k=9f84aad6f6c389a35b46f99a97cda2db766a243ba45d8b6dd3e5d1059152907a&o=&hp=1"
 language: en
 slug: city-centre-apartment-2
 address: "Rruga Vaso Kadia Pallati Fushaj, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Aloha"
 description: "Hotel Aloha stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, just a stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "/images/accommodation/hotel-aloha-368261008.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368261008.jpg?k=1efc489a1023d9f8e7fd88966d6c7558d8ec3099b078df08daf90a6e0254b762&o=&hp=1"
 language: en
 slug: hotel-aloha
 address: "Rruga: Mitat Hoxha, 9701 Sarandë, Albania"

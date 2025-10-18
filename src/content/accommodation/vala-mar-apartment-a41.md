@@ -1,7 +1,7 @@
 ---
 title: "Vala Mar apartment- A41"
 description: "Vala Mar Apartment-A41 emerges as a distinguished choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."
-featuredImage: "/images/accommodation/vala-mar-apartment-a41-b47cd0e05ec8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/identity/profile/b47cd0e05ec8b7831167f4f7593ead56402a6bb4.svg"
 language: en
 slug: vala-mar-apartment-a41
 address: "Vala Mar Residence, Hamallaj, Gjiri Lalzit, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lisa's apartment- a place to be!"
 description: "In the heart of Mullini i Danit, Lisa's Apartment emerges as a premier choice for travelers seeking comfort and convenience in one package."
-featuredImage: "/images/accommodation/lisa-s-apartment-a-place-to-be-448822797.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448822797.jpg?k=96b012058cbed796b078010e93e24a84ec3063e9aee35afa346e295db508b3f3&o=&hp=1"
 language: en
 slug: lisa-s-apartment-a-place-to-be
 address: "Valamar Residences,, Mullini i Danit, Albania"

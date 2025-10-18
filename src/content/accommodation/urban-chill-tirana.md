@@ -1,7 +1,7 @@
 ---
 title: "Urban Chill Tirana"
 description: "Urban Chill Tirana emerges as a modern oasis in the heart of Tirana, boasting a prime location that places guests just moments away from iconic landmarks such as Skanderbeg Square, the intriguing Former Residence of Enver Hoxha, and the National Museum of History Albania."
-featuredImage: "/images/accommodation/urban-chill-tirana-524236180.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524236180.jpg?k=af209f6b0f808c0e24a7a9e366e9cd3cf76b1a1ba3bf8ffced3802dc0b9701e6&o=&hp=1"
 language: en
 slug: urban-chill-tirana
 address: "32 Bulevardi Zogu I Apartment 24/2, Floor 5, 1001 Tirana, Albania"

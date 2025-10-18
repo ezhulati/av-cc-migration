@@ -1,7 +1,7 @@
 ---
 title: "The Palms Apartment"
 description: "The Palms Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/the-palms-apartment-521129765.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521129765.jpg?k=86b1075ef7adaf16f5895f9c759bf2a18565d9ea51252d3281e087c84ddf54d0&o=&hp=1"
 language: en
 slug: the-palms-apartment
 address: "Rruga Çamëria 7 Floor, 9400 Vlorë, Albania"

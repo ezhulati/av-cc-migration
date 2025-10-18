@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Apartament Sea View"
 description: "Lungomare Apartment Sea View emerges as a prime choice for travelers seeking a serene waterfront retreat in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from the tranquil Ri Beach."
-featuredImage: "/images/accommodation/lungomare-apartament-sea-view-201499804.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/201499804.jpg?k=2c052351e0de932d91f831d147f061b499a4ebf582a176332b06cb16e2f706af&o=&hp=1"
 language: en
 slug: lungomare-apartament-sea-view
 address: "Rruga Haziz Xhyherri, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "UnionBNB Apartments"
 description: "UnionBNB Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/unionbnb-apartments-514215103.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514215103.jpg?k=deee0d7b5b265ff0a6654d54d2fdc987c80ffb60023bd2523114543acc984d40&o=&hp=1"
 language: en
 slug: unionbnb-apartments
 address: "6 Rruga Sandër Prosi, 1023 Tirana, Albania"

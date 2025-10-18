@@ -1,7 +1,7 @@
 ---
 title: "TAFA A."
 description: "TAFA A."
-featuredImage: "/images/accommodation/tafa-a-456121907.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456121907.jpg?k=ef92f16f72e835625401009d364a7b4989cb4a3afaef5664df0da6d7e51a8db5&o=&hp=1"
 language: en
 slug: tafa-a
 address: "Darëzeza e Re, Fier, Albania"

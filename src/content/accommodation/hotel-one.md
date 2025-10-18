@@ -1,7 +1,7 @@
 ---
 title: "Hotel One"
 description: "Hotel One emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, positioned merely 500 meters from Vjetër Beach and a short 1."
-featuredImage: "/images/accommodation/hotel-one-211982891.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211982891.jpg?k=61006d265b5349e6960bcf2081ff7451c483138ff590bcfe083140f8d028cd31&o=&hp=1"
 language: en
 slug: hotel-one
 address: "Rruga Fejzo Gjomema, 9401 Vlorë, Albania"

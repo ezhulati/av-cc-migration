@@ -1,7 +1,7 @@
 ---
 title: "Sazani's Place"
 description: "Sazani's Place emerges as a serene retreat in the vibrant city of Fier, located just a stone's throw away from the iconic Kuzum Baba and Independence Square."
-featuredImage: "/images/accommodation/sazani-s-place-304758564.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304758564.jpg?k=4ad35054a3cd8a2555b2311d2c9f81bdf77763e4c7b2a951ce4d139f5f1ab6b5&o=&hp=1"
 language: en
 slug: sazani-s-place
 address: "Rr. Pilo Filka 7 Hyrja 2, Ap 8, 9400 Fier, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Zani Apartment"
 description: "Zani Apartment stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/zani-apartment-471961480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471961480.jpg?k=2da3a6cf381481ba3ea5d1ba8a1aecc73363da34402d8d900a7b0dc198b6d9e8&o=&hp=1"
 language: en
 slug: zani-apartment
 address: "Rruga Studenti, 9701 Sarandë, Albania"

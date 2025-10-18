@@ -1,7 +1,7 @@
 ---
 title: "Tirana Sukaj Apartment"
 description: "Tirana Sukaj Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-sukaj-apartment-379393940.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379393940.jpg?k=5326ed5ab8940ec05d6eafb38cde17134a5909c2fc4acf156311668c877799bd&o=&hp=1"
 language: en
 slug: tirana-sukaj-apartment
 address: "Rruga Jorgo Plaku, Tirana, Albania"

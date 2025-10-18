@@ -1,7 +1,7 @@
 ---
 title: "Shtepi Pushimi me Qera"
 description: "Discover the charm of Durrës at Shtepi Pushimi me Qera, a prime accommodation choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/shtepi-pushimi-me-qera-477871115.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477871115.jpg?k=9b479cbf61d4d941645c776ec2dfd52fd6d265dacbeb6ab3d33a389c4c9fb67b&o=&hp=1"
 language: en
 slug: shtepi-pushimi-me-qera
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

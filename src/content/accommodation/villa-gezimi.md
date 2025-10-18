@@ -1,7 +1,7 @@
 ---
 title: "Villa Gezimi"
 description: "Villa Gezimi stands as a serene oasis in Ksamil, offering a tranquil retreat just moments away from the pristine shores of Ksamil Beach 9 and the vibrant scene at Bora Bora Beach."
-featuredImage: "/images/accommodation/villa-gezimi-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: villa-gezimi
 address: "Rruga Riviera, 9706 Ksamil, Albania"

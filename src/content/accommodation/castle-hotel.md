@@ -1,7 +1,7 @@
 ---
 title: "Castle Hotel"
 description: "Castle Hotel emerges as a charming retreat in the heart of Gjirokastër, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "/images/accommodation/castle-hotel-498980378.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498980378.jpg?k=81765282d2da71808387145819b08aae26ac6d1d479159defad1b141229c39a7&o=&hp=1"
 language: en
 slug: castle-hotel
 address: "Astrit Karagjozi 15, 6001 Gjirokastër, Albania"

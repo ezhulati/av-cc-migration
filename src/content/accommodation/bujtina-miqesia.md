@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Miqesia"
 description: "Bujtina Miqesia emerges as a serene retreat, located just over 3 kilometers from the heart of Theth National Park."
-featuredImage: "/images/accommodation/bujtina-miqesia-444135255.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444135255.jpg?k=ff382735a42de163e7c83a4aab9a6b08d01ec61cf1f60cea57f5622b8d523df8&o=&hp=1"
 language: en
 slug: bujtina-miqesia
 address: "Rruga per Thethe, Theth 1000, Shqipëri, 1000 Theth, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "La Casa di Nonna"
 description: "La Casa di Nonna emerges as a serene retreat, perfectly positioned just a short distance from the pristine shores of Borsh Beach and Porto Palermo Beach in Qeparo."
-featuredImage: "/images/accommodation/la-casa-di-nonna-479753618.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479753618.jpg?k=024129b7517e34719241cd9d7eec2ba8a46908516b088df8eec499191d101530&o=&hp=1"
 language: en
 slug: la-casa-di-nonna
 address: "Qeparo Main Road, 9416 Qeparo, Albania"

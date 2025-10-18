@@ -1,7 +1,7 @@
 ---
 title: "At the Theatre"
 description: "At the Theatre stands as a serene retreat in the heart of Shkodër, offering guests a glimpse into the city's vibrant life from the comfort of a garden-view apartment."
-featuredImage: "/images/accommodation/at-the-theatre-493258865.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493258865.jpg?k=06814485ef32213032141c657be2ca289f9ecdb1e64b0747860d4e45bc66047b&o=&hp=1"
 language: en
 slug: at-the-theatre
 address: "Rruga Lek Dukagjini, 4001 Shkodër, Albania"

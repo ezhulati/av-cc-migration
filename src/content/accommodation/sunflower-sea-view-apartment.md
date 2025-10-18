@@ -1,7 +1,7 @@
 ---
 title: "Sunflower Sea View Apartment"
 description: "Sunflower Sea View Apartment stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/sunflower-sea-view-apartment-404866769.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404866769.jpg?k=0e66687b6a5413e4d077884c958430486fbd0f60693a695cd757c4e817df7162&o=&hp=1"
 language: en
 slug: sunflower-sea-view-apartment
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

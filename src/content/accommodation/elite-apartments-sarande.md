@@ -1,7 +1,7 @@
 ---
 title: "Elite Apartments Sarande!"
 description: "Elite Apartments Sarande stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/elite-apartments-sarande-440153986.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440153986.jpg?k=c4cef88eda9e054eada12195cb7083d360fb4331a4a23acc682aaff5bb93985c&o=&hp=1"
 language: en
 slug: elite-apartments-sarande
 address: "Rruga Abedin Dino, 9701 Sarandë, Albania"

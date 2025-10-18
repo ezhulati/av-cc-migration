@@ -1,7 +1,7 @@
 ---
 title: "The King Resort"
 description: "The King Resort emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/the-king-resort-236249923.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236249923.jpg?k=b9c3f76260667f553b505c48efaba2d69528576faa9ec1513b50a63479cf1e4f&o=&hp=1"
 language: en
 slug: the-king-resort
 address: "Autostrada Tirane-Durres, 100 metra mbrapa Brunes-it Prapa Drejtorisë së Përgjithshme të transportit (targat) km. 7 Tiranë - Vorë, 1053 Tirana, Albania"

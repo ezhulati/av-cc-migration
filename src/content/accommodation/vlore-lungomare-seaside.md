@@ -1,7 +1,7 @@
 ---
 title: "Vlore , Lungomare Seaside"
 description: "Vlore, Lungomare Seaside emerges as a prime beachfront gem located in the vibrant city of Vlorë."
-featuredImage: "/images/accommodation/vlore-lungomare-seaside-474272919.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474272919.jpg?k=f85b55df0ef84b3ddf34ece78aa611070bdb66265d9916be71d5107df9c56d3b&o=&hp=1"
 language: en
 slug: vlore-lungomare-seaside
 address: "Lungomare, 1023 Vlorë, Albania"

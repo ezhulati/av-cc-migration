@@ -1,7 +1,7 @@
 ---
 title: "Apartment by the beach"
 description: "Apartment by the Beach stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/apartment-by-the-beach-477109024.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477109024.jpg?k=5861f8f899342f6f4e9464a641e749ee1ab95ff60cdb337209078819dccae158&o=&hp=1"
 language: en
 slug: apartment-by-the-beach
 address: "Rruga Pavaresia , blue palace , 3rd flat, 2001 Durrës, Albania"

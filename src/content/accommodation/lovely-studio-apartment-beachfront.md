@@ -1,7 +1,7 @@
 ---
 title: "Lovely Studio apartment beachfront"
 description: "Lovely Studio Apartment Beachfront offers an exceptional stay right on the shores of Durrës, combining the comfort of home with the beauty of the Albanian coastline."
-featuredImage: "/images/accommodation/lovely-studio-apartment-beachfront-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: lovely-studio-apartment-beachfront
 address: "L.13 Plazh Durres Kamelia 3, 2001 Durrës, Albania"

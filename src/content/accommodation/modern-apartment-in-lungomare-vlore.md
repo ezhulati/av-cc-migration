@@ -1,7 +1,7 @@
 ---
 title: "Modern Apartment in Lungomare, Vlore"
 description: "Discover the charm of Vlorë with a stay at the Modern Apartment in Lungomare, a prime location just a stone's throw away from Ri Beach and a short stroll from Vlore Beach."
-featuredImage: "/images/accommodation/modern-apartment-in-lungomare-vlore-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: modern-apartment-in-lungomare-vlore
 address: "Rruga Murat Terbaci mbi restorant Liguria 6, 1000 Vlorë, Albania"

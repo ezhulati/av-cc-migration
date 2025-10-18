@@ -1,7 +1,7 @@
 ---
 title: "Apartament ne qender te Shkodres"
 description: "Discover the comfort and convenience of Apartament ne qender te Shkodres, a prime choice for travelers seeking a serene stay in Shkodër."
-featuredImage: "/images/accommodation/apartament-ne-qender-te-shkodres-491505043.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491505043.jpg?k=b61ffe5358185c3a586c62c4f79af3283c67ebd0ce7971bd82f8543e23a696ad&o=&hp=1"
 language: en
 slug: apartament-ne-qender-te-shkodres
 address: "Bulevardi Zogu I, 4001 Shkodër, Albania"

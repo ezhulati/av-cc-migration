@@ -1,7 +1,7 @@
 ---
 title: "Sea-Side Apartment"
 description: "Sea-Side Apartment emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/sea-side-apartment-473678293.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473678293.jpg?k=f687ae908b4e27b06d20279f56b4e50199602067f021989202b115b03ca3353b&o=&hp=1"
 language: en
 slug: sea-side-apartment
 address: "Vlore Lungomare, Vlorë, Albania"

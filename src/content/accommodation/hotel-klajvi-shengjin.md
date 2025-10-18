@@ -1,7 +1,7 @@
 ---
 title: "Hotel Klajvi - Shengjin"
 description: "Hotel Klajvi - Shengjin emerges as a serene retreat for travelers seeking both tranquility and convenience in the heart of Shëngjin."
-featuredImage: "/images/accommodation/hotel-klajvi-shengjin-475858333.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475858333.jpg?k=33ae753db45d2c4d17871b461959003328b99e2a46d6a5321d409cd38cf4e2b5&o=&hp=1"
 language: en
 slug: hotel-klajvi-shengjin
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

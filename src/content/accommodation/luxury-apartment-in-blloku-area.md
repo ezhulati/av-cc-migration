@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment in Blloku area"
 description: "Luxury Apartment in the Blloku area stands out as a prime choice for travelers seeking comfort and convenience less than a kilometer from Skanderbeg Square."
-featuredImage: "/images/accommodation/luxury-apartment-in-blloku-area-365805060.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365805060.jpg?k=357ec2abb2fc73b98257def9a6c2f3ef62876e29e1e4b6b61bc262bb1d0061d3&o=&hp=1"
 language: en
 slug: luxury-apartment-in-blloku-area
 address: "Bulevardi Gjergj Fishta, 1001 Tirana, Albania"

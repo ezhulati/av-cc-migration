@@ -1,7 +1,7 @@
 ---
 title: "Borsh Beach Apartments - BBA"
 description: "Borsh Beach Apartments - BBA emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from the pristine Borsh Beach."
-featuredImage: "/images/accommodation/borsh-beach-apartments-bba-214167478.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214167478.jpg?k=2963febea083b56690e71a5a876da4afebf6365f6f9e85bd50c9f1def974f61f&o=&hp=1"
 language: en
 slug: borsh-beach-apartments-bba
 address: "Rruga Plazhit Rruga Plazhit 155, 9714 Borsh, Albania"

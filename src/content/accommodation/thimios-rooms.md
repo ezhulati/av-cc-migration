@@ -1,7 +1,7 @@
 ---
 title: "Thimios Rooms"
 description: "Thimios Rooms emerges as a serene retreat in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach and a short stroll from the charming La Petite Beach."
-featuredImage: "/images/accommodation/thimios-rooms-474629885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474629885.jpg?k=90f52e259741714c150cb412725395702664998b23e7a3c64a8d91781659c67b&o=&hp=1"
 language: en
 slug: thimios-rooms
 address: "Rruga Flamurit, 9701 Sarandë, Albania"

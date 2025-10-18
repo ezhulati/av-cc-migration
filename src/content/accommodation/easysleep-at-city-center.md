@@ -1,7 +1,7 @@
 ---
 title: "EasySleep at City Center"
 description: "EasySleep at City Center emerges as a modern oasis in Divjakë, boasting a recent renovation that promises contemporary comfort amidst breathtaking mountain views."
-featuredImage: "/images/accommodation/easysleep-at-city-center-AATXAJzE_ZvX.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJzE_ZvXkssR3co8g5lwZW03UxTmDTefw2PAd3GT=s96-c64"
 language: en
 slug: easysleep-at-city-center
 address: "Rruga Dituria, Divjake 4, 9022 Divjakë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Seafront modern apartment!"
 description: "Seafront Modern Apartment in Sarandë offers a refreshing retreat for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/seafront-modern-apartment-492813288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492813288.jpg?k=383c01b7c439d050166aac001b211b1aa3842fe127bb1b1520e5c2d6c4855156&o=&hp=1"
 language: en
 slug: seafront-modern-apartment
 address: "Rruga 17 Shkurti elevated ground floor, 9701 Sarandë, Albania"

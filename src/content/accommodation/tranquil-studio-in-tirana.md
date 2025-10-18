@@ -1,7 +1,7 @@
 ---
 title: "Tranquil Studio in Tirana"
 description: "Tranquil Studio in Tirana emerges as a recently renovated gem, strategically positioned close to the heart of the city's historical and cultural landmarks, including Skanderbeg Square, the Former Residence of Enver Hoxha, and the House of Leaves."
-featuredImage: "/images/accommodation/tranquil-studio-in-tirana-AGNmyxb0Cm0t.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AGNmyxb0Cm0tTzT4VJGpp6xb0qAw8iQT-qr90n8Xewo2=s96-c64"
 language: en
 slug: tranquil-studio-in-tirana
 address: "Rruga e Durrësit, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Green Park Divjakë"
 description: "Green Park Divjakë emerges as a serene oasis for travelers seeking a blend of comfort and nature, located approximately 46 km from the iconic Rock of Kavaje."
-featuredImage: "/images/accommodation/green-park-divjak-477368738.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477368738.jpg?k=b4cb8e578558de87a9efa46625883e47df129504a0408c8be645f33e76590615&o=&hp=1"
 language: en
 slug: green-park-divjak
 address: "Xengë, 9022 Divjakë, Albania"

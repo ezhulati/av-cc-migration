@@ -1,7 +1,7 @@
 ---
 title: "Your Apartment Tirana City Centre"
 description: "Your Apartment Tirana City Centre emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/your-apartment-tirana-city-centre-528202678.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528202678.jpg?k=fc722206f60b538086c857cbf649197c460d91556266b40c0ea1357e280891d8&o=&hp=1"
 language: en
 slug: your-apartment-tirana-city-centre
 address: "Rruga Konstandini Kristoforidhi, 1001 Tirana, Albania"

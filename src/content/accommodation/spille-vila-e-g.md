@@ -1,7 +1,7 @@
 ---
 title: "Spille Vila E&G"
 description: "Spille Vila E&G emerges as a serene retreat, located a mere 32 km away from the historic Rock of Kavaje and just a short 1."
-featuredImage: "/images/accommodation/spille-vila-e-g-29d5c93ac695.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
 language: en
 slug: spille-vila-e-g
 address: "RRUGA E PORTOKALLEVE, 2510 Spille, Albania"

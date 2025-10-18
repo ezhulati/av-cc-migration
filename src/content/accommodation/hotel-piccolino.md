@@ -1,7 +1,7 @@
 ---
 title: "Hotel Piccolino"
 description: "Hotel Piccolino stands as a charming 3-star beachfront gem in Sarandë, offering guests the rare opportunity to wake up to the serene views of the sea right from their doorstep."
-featuredImage: "/images/accommodation/hotel-piccolino-467203434.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467203434.jpg?k=59077e31ae50ebdd5ee2684ecb922d7e2e7a654f27261ef6b53d65fc99554c55&o=&hp=1"
 language: en
 slug: hotel-piccolino
 address: "Rruga: Mitat Hoxha,87, 9703 Sarandë, Albania"

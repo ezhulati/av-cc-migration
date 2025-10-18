@@ -1,7 +1,7 @@
 ---
 title: "Elite"
 description: "Elite Hotel, situated a mere 7."
-featuredImage: "/images/accommodation/elite-238566997.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/238566997.jpg?k=2b6a6f1b5563320b66a04a063c6dfadf68c5793fddb10e9ade1add05e8149668&o=&hp=1"
 language: en
 slug: elite
 address: "Rruga 1 Qershori, 7301 Pogradec, Albania"

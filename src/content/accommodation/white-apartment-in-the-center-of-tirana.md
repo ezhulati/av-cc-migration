@@ -1,7 +1,7 @@
 ---
 title: "White apartment, in the center of Tirana"
 description: "White Apartment, positioned at the heart of Tirana, offers a refreshing stay with its air-conditioned spaces that open up to a charming balcony."
-featuredImage: "/images/accommodation/white-apartment-in-the-center-of-tirana-524251119.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524251119.jpg?k=8caab0beabb87500cd671e59d9085c83d2d058a5fa6158a413014202822cc9fd&o=&hp=1"
 language: en
 slug: white-apartment-in-the-center-of-tirana
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

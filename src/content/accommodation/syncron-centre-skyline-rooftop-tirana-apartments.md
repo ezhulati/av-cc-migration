@@ -1,7 +1,7 @@
 ---
 title: "Syncron Centre Skyline Rooftop Tirana Apartments"
 description: "Syncron Centre Skyline Rooftop Tirana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/syncron-centre-skyline-rooftop-tirana-apartments-449152005.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449152005.jpg?k=7bf7fddeb2dcaf99507515e871ec649982548704980425a5ce1ee6b128883fa9&o=&hp=1"
 language: en
 slug: syncron-centre-skyline-rooftop-tirana-apartments
 address: "Rr Çameria, Tirana, Albania"

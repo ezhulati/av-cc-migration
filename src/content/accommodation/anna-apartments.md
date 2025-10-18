@@ -1,7 +1,7 @@
 ---
 title: "Anna Apartments"
 description: "Anna Apartments emerges as a prime beachfront gem in Sarandë, offering guests an unparalleled blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/anna-apartments-116814474.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116814474.jpg?k=c42b26e8c3ceef7b0c9bfd31ca3b12a60045869472daec8fcfccbae3a9292348&o=&hp=1"
 language: en
 slug: anna-apartments
 address: "Rruga Mitat Hoxha 1st,2nd, 3rd floor, 9700 Sarandë, Albania"

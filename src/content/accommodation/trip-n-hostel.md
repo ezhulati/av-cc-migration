@@ -1,7 +1,7 @@
 ---
 title: "Trip'n'Hostel"
 description: "Discover the charm of Tirana from a unique vantage point at Trip'n'Hostel, a gem located just a short walk from the city's bustling central square."
-featuredImage: "/images/accommodation/trip-n-hostel-29160042.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/29160042.jpg?k=6e72268121d851b2b5a77296a962de2f6b91ad7247c9bd9bdb670bc977399c17&o=&hp=1"
 language: en
 slug: trip-n-hostel
 address: "Rr.Musa Maci Nr.1, 1008 Tirana, Albania"

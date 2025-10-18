@@ -1,7 +1,7 @@
 ---
 title: "Family Oasis"
 description: "Family Oasis stands as a serene retreat in the vibrant city of Vlorë, just a stone's throw away from the historic Independence Square."
-featuredImage: "/images/accommodation/family-oasis-486597666.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486597666.jpg?k=aa1fe2cb0ff7cba8a94c2539a14013eaaefaaa6b79d6061dc93458daf26c32e2&o=&hp=1"
 language: en
 slug: family-oasis
 address: "Rruga Dervish Hekali, 9401 Vlorë, Albania"

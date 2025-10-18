@@ -1,7 +1,7 @@
 ---
 title: "Luxury apartment city centre"
 description: "Discover the epitome of urban living at Luxury Apartment City Centre, a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-apartment-city-centre-486510594.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486510594.jpg?k=11b66932294844b4da67a9bba8785373f32a0aef4f9bfea270d603c484928943&o=&hp=1"
 language: en
 slug: luxury-apartment-city-centre
 address: "Rruga Myslym Shyri 4th floor, Tirana, Albania"

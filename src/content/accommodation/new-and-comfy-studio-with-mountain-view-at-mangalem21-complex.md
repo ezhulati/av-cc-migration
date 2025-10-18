@@ -1,7 +1,7 @@
 ---
 title: "New and Comfy Studio with Mountain View at 'Mangalem21 Complex'"
 description: "Discover the charm of Tirana from the comfort of the New and Comfy Studio with Mountain View at 'Mangalem21 Complex'."
-featuredImage: "/images/accommodation/new-and-comfy-studio-with-mountain-view-at-mangalem21-complex-470582178.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470582178.jpg?k=317a1de838c5ad441a224a3d295a82854cdb961776dfcd7359591c37309edf33&o=&hp=1"
 language: en
 slug: new-and-comfy-studio-with-mountain-view-at-mangalem21-complex
 address: "Rruga Pasho Hysa Building 30 - Apartament 3068/2, 1001 Tirana, Albania"

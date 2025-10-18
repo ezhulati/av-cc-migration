@@ -1,7 +1,7 @@
 ---
 title: "Hotel Shpija e Gjyshit"
 description: "Hotel Shpija e Gjyshit stands out as a serene oasis in Shkodër, located a mere 44 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/hotel-shpija-e-gjyshit-79960488.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/79960488.jpg?k=43c88ec7e6e8307876e771fe4b053c83b9df53a8301c178f39d406ff7723573e&o=&hp=1"
 language: en
 slug: hotel-shpija-e-gjyshit
 address: "Zues Shkoder Zues Shkoder, 4001 Shkodër, Albania"

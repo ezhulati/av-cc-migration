@@ -1,7 +1,7 @@
 ---
 title: "Luxury Home Beachfront"
 description: "Luxury Home Beachfront emerges as a premier choice for travelers seeking an exquisite retreat near Qerret Beach, located merely 400 meters away."
-featuredImage: "/images/accommodation/luxury-home-beachfront-383480756.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383480756.jpg?k=edd5e0dc00e7e262bebbba2a62e2fad588bf1111f3bf18eec621874866136148&o=&hp=1"
 language: en
 slug: luxury-home-beachfront
 address: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"

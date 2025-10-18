@@ -1,7 +1,7 @@
 ---
 title: "4SeasonsGea , Studio Apartment In Heart Of Tirana"
 description: "4SeasonsGea, Studio Apartment In Heart Of Tirana, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/4seasonsgea-studio-apartment-in-heart-of-tirana-403793257.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403793257.jpg?k=587a95f09da3dc284dffb4397d261523d323ffaf3e3f0658a208a11d3ab3a1b1&o=&hp=1"
 language: en
 slug: 4seasonsgea-studio-apartment-in-heart-of-tirana
 address: "Rruga Shyqyri Bërxolli Ap 1, 1001 Tirana, Albania"

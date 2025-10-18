@@ -1,7 +1,7 @@
 ---
 title: "Central apartment, fully equipped"
 description: "Discover the charm of Himare with a stay at this centrally located apartment, a mere stone's throw from the pristine Maracit Beach and less than a kilometer from the tranquil Prinos Beach."
-featuredImage: "/images/accommodation/central-apartment-fully-equipped-449684383.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449684383.jpg?k=fe42c0be75ae4970402386b4bb1b1a489390bc158e949bf0d58bb3959cf5d34f&o=&hp=1"
 language: en
 slug: central-apartment-fully-equipped
 address: "SH8 6, 9425 Himare, Albania"

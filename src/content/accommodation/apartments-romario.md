@@ -1,7 +1,7 @@
 ---
 title: "Apartments Romario"
 description: "Apartments Romario stands as a prime choice for travelers seeking comfort and convenience mere steps from the sandy shores of Sarandë."
-featuredImage: "/images/accommodation/apartments-romario-340328570.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340328570.jpg?k=60f651cd44e69f9733517605089ba899f42497caf3e1d25832b7adb114ee44e3&o=&hp=1"
 language: en
 slug: apartments-romario
 address: "Rr. per Butrint, Bukovilet, 9999 Sarandë, Albania"

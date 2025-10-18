@@ -1,7 +1,7 @@
 ---
 title: "Eduart apartments"
 description: "Eduart Apartments emerges as a prime choice for travelers seeking beachfront bliss in Sarandë, located a mere stone's throw away from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/eduart-apartments-198624084.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198624084.jpg?k=2e94c5f4a8055d33f2e19d80c348e61ee98beba96215b3f55cde3b6beff22084&o=&hp=1"
 language: en
 slug: eduart-apartments
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

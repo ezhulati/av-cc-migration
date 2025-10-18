@@ -1,7 +1,7 @@
 ---
 title: "Jon's Penthouse"
 description: "Jon's Penthouse emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/jon-s-penthouse-103685698.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103685698.jpg?k=90f95f63a28751bd9532186979b562c244a5c4c0f3949a0ec02ae950619baf53&o=&hp=1"
 language: en
 slug: jon-s-penthouse
 address: "SH81 floor nr5, 9700 Sarandë, Albania"

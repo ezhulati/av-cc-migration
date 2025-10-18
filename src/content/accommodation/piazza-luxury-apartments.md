@@ -1,7 +1,7 @@
 ---
 title: "Piazza Luxury Apartments"
 description: "Piazza Luxury Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/piazza-luxury-apartments-489932741.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489932741.jpg?k=784e6cdab0c1660f50f03f8785befca0e4ba8b9fd4a41b932afa310b390afb3a&o=&hp=1"
 language: en
 slug: piazza-luxury-apartments
 address: "12 Rruga Sulejman Pasha, Tirana, Albania"

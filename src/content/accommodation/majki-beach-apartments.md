@@ -1,7 +1,7 @@
 ---
 title: "Majki Beach Apartments"
 description: "Majki Beach Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë, mere steps from the main beach."
-featuredImage: "/images/accommodation/majki-beach-apartments-420031744.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420031744.jpg?k=6182f88780908f7b50a4392d1f074c14cdac606309558a9e49eb2ccb9f0eb4f9&o=&hp=1"
 language: en
 slug: majki-beach-apartments
 address: "Rruga Guri Nazifi, 9701 Sarandë, Albania"

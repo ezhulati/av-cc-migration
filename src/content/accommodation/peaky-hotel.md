@@ -1,7 +1,7 @@
 ---
 title: "Peaky Hotel"
 description: "Peaky Hotel emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/peaky-hotel-403580150.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403580150.jpg?k=be0680d0962047c3fa5134767bde39c73110a5632e9cf5da930407a110f19a66&o=&hp=1"
 language: en
 slug: peaky-hotel
 address: "Rruga Taulantia, 2001 Durrës, Albania"

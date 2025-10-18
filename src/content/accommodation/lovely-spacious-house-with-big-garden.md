@@ -1,7 +1,7 @@
 ---
 title: "Lovely spacious house with big garden"
 description: "Discover the charm of Elbasan with a stay at the Lovely Spacious House with Big Garden, a serene retreat located just a short drive from the bustling heart of Skanderbeg Square."
-featuredImage: "/images/accommodation/lovely-spacious-house-with-big-garden-390066549.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390066549.jpg?k=04e595543768bb832506d48537567247de6084f48fa30cd60c4ae44c0f073dee&o=&hp=1"
 language: en
 slug: lovely-spacious-house-with-big-garden
 address: "Rruga Vasil Llapushi, 3001 Elbasan, Albania"

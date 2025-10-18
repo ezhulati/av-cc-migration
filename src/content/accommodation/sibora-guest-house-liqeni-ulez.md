@@ -1,7 +1,7 @@
 ---
 title: "Sibora Guest House Liqeni Ulez"
 description: "Sibora Guest House Liqeni Ulez emerges as a serene retreat in the heart of Kokërdhok, Dibër County, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/sibora-guest-house-liqeni-ulez-486936376.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486936376.jpg?k=d765526d34ad8f27d71f4872b83b0d8b38f9e38693e1d2f80578f918cea61a1f&o=&hp=1"
 language: en
 slug: sibora-guest-house-liqeni-ulez
 address: "Rruga Milot-Burrel, Ulez, Burrel,Albania, Kokërdhok, Albania"

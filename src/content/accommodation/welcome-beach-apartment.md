@@ -1,7 +1,7 @@
 ---
 title: "Welcome Beach Apartment"
 description: "Welcome Beach Apartment, situated a mere 300 meters from the pristine shores of Lalëz Bay Beach and a scenic 41 km drive from the historic Skanderbeg Square, emerges as a prime choice for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/welcome-beach-apartment-ACg8ocLmD91i.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocLmD91iAgobHwf_je8Mi1ZTPhydCEm-ZWAN6RkDUqtPe1M=s96-c64"
 language: en
 slug: welcome-beach-apartment
 address: "Valamar Residence Hamallaj A40, Hamallaj, Albania"

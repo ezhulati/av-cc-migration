@@ -1,7 +1,7 @@
 ---
 title: "Favourite Airbnb"
 description: "Favourite Airbnb emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/favourite-airbnb-517187891.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517187891.jpg?k=19ecf2cd6dfe22ddfb0eb808405415bf87ccc2641b47e33e9cdef461b01138c8&o=&hp=1"
 language: en
 slug: favourite-airbnb
 address: "Rruga Bardhyl, Tirana, Albania"

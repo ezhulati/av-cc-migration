@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restaurant Savoja"
 description: "Hotel Restaurant Savoja emerges as a distinguished 3-star beachfront haven in Pogradec, boasting a harmonious blend of comfort and convenience with its terrace, restaurant, and bar."
-featuredImage: "/images/accommodation/hotel-restaurant-savoja-402733112.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402733112.jpg?k=a86ae17c649a715c6b2afa8bf1f777d9b9084a71177ce1b53f6e5f91d840d579&o=&hp=1"
 language: en
 slug: hotel-restaurant-savoja
 address: "Rruga Rreshit Çollaku, Lagjia nr. 3 , Pogradec , Albania, 7301 Pogradec, Albania"

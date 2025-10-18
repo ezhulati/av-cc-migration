@@ -1,7 +1,7 @@
 ---
 title: "Elegant Studio - Tirana City Center"
 description: "Elegant Studio - Tirana City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/elegant-studio-tirana-city-center-518508813.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518508813.jpg?k=dab2cf321c0e9946e83261454ecb8dd90b576c099428b5ad97be3ee45c080e5e&o=&hp=1"
 language: en
 slug: elegant-studio-tirana-city-center
 address: "https://www.google.com/maps/place/41%C2%B019'26.9%22N+19%C2%B048'59.8%22E/@41.3240706,19.8164021,19.5z/data=!4m4!3m3!8m2!3d41.3241348!4d19.8166046?hl=en&entry=ttu 2nd Floor, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bilal Golemi Sea View Apartment"
 description: "Bilal Golemi Sea View Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë."
-featuredImage: "/images/accommodation/bilal-golemi-sea-view-apartment-373840214.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373840214.jpg?k=d1aa810867e34d12476d8e732195b380a7b47e51d733e430a72112ff7ae572af&o=&hp=1"
 language: en
 slug: bilal-golemi-sea-view-apartment
 address: "Rruga Bilal Golemi, Sarandë, Albania"

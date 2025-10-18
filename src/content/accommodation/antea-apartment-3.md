@@ -1,7 +1,7 @@
 ---
 title: "Antea Apartment 3"
 description: "Antea Apartment 3 emerges as a prime choice for travelers seeking a serene beachfront retreat in Vlorë, mere steps away from the enchanting Vjetër Beach."
-featuredImage: "/images/accommodation/antea-apartment-3-464463164.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464463164.jpg?k=99da268e180df0550fa6efcbf90bd690df1dd59522f1219060be8e717a6b6008&o=&hp=1"
 language: en
 slug: antea-apartment-3
 address: "Rruga Sazani , 9402 Vlorë, Albania"

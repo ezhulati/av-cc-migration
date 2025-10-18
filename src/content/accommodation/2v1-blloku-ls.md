@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Blloku LS"
 description: "Discover the charm of Tirana with a stay at 2V1 - Blloku LS, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/2v1-blloku-ls-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: 2v1-blloku-ls
 address: "Rruga Sami Frashëri, 1001 Tirana, Albania"

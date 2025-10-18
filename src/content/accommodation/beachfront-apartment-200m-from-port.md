@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Apartment 200m From Port"
 description: "Beachfront Apartment 200m From Port emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/beachfront-apartment-200m-from-port-493290327.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493290327.jpg?k=278862ee72776ac0cbedec317f243d5cdacb2f6e4e3ddbca2e1dd3830171f43c&o=&hp=1"
 language: en
 slug: beachfront-apartment-200m-from-port
 address: "10 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

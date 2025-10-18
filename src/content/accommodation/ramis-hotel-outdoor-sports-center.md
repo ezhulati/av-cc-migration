@@ -1,7 +1,7 @@
 ---
 title: "RAMIS Hotel & Outdoor Sports Center"
 description: "RAMIS Hotel & Outdoor Sports Center emerges as a distinguished 3-star haven in Përmet, boasting a prime beachfront location that effortlessly combines comfort with adventure."
-featuredImage: "/images/accommodation/ramis-hotel-outdoor-sports-center-111431744.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111431744.jpg?k=e110d515dd2c598ab094d103e27979416f7f081cb392f6f3d8a214b5061db249&o=&hp=1"
 language: en
 slug: ramis-hotel-outdoor-sports-center
 address: "Near the Rock of the City, 6400 Përmet, Albania"

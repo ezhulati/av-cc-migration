@@ -1,7 +1,7 @@
 ---
 title: "Vila Toskaj"
 description: "Vila Toskaj emerges as a serene retreat in the vibrant heart of Vlorë, boasting a prime location that places guests just moments away from the pristine Liro Beach, the tranquil Ri Beach, and the lively Coco Bongo Beach."
-featuredImage: "/images/accommodation/vila-toskaj-527683629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527683629.jpg?k=b2da39a7d48bf94f032af453494ac360aa0561284ca72dcee4fe3a2b40359ff7&o=&hp=1"
 language: en
 slug: vila-toskaj
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "@Bazaar"
 description: "@Bazaar stands out as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/bazaar-452496157.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452496157.jpg?k=dce9e010c9a0d9d97538a4b9fe3e5be7a78c9d3da6f7dc217564ea5e94d92dac&o=&hp=1"
 language: en
 slug: bazaar
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

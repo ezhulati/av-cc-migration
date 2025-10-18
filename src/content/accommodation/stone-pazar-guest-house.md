@@ -1,7 +1,7 @@
 ---
 title: "Stone Pazar Guest House"
 description: "Stone Pazar Guest House emerges as a serene retreat in the historic heart of Gjirokastër, located a mere 43 km from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/stone-pazar-guest-house-484090992.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484090992.jpg?k=96f436b6147d6f5e0a3a8270739559d79dcb070a2bc83a99960cd543ae207b02&o=&hp=1"
 language: en
 slug: stone-pazar-guest-house
 address: "Rruga Gjin Zenebisi, 6001 Gjirokastër, Albania"

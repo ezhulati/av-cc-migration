@@ -1,7 +1,7 @@
 ---
 title: "Durres, Golem Beach House"
 description: "Discover the charm of Durres, Golem Beach House, a prime destination for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/durres-golem-beach-house-436030688.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/436030688.jpg?k=7de9847282bcce471d966e14da6d912404e5bc2db74240ac47e078a047704f9e&o=&hp=1"
 language: en
 slug: durres-golem-beach-house
 address: "Rruga Roma Building 6, Apt 11, 1001 Golem, Albania"

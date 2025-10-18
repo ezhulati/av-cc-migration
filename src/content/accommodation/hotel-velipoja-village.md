@@ -1,7 +1,7 @@
 ---
 title: "Hotel Velipoja Village"
 description: "Hotel Velipoja Village emerges as a serene retreat in the vibrant heart of Velipojë, merely a stone's throw away from the pristine Velipoja Beach."
-featuredImage: "/images/accommodation/hotel-velipoja-village-478874239.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478874239.jpg?k=d76b8f48c233d49545abc6c798a2c48f6097fff8ff66693c60f6f90bce32e02d&o=&hp=1"
 language: en
 slug: hotel-velipoja-village
 address: "Rruga Shkodër - Velipojë, 4020 Velipojë, Albania"

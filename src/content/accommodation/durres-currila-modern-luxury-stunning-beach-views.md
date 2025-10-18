@@ -1,7 +1,7 @@
 ---
 title: "Durres Currila Modern Luxury STUNNING Beach Views"
 description: "Durres Currila Modern Luxury STUNNING Beach Views stands out as a premier destination for travelers seeking unparalleled seaside accommodations in Durrës."
-featuredImage: "/images/accommodation/durres-currila-modern-luxury-stunning-beach-views-394006829.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394006829.jpg?k=b629046f854fba0b4c4eebde85b48c48f293d8a56a9a0ae90a6c9609312a7b01&o=&hp=1"
 language: en
 slug: durres-currila-modern-luxury-stunning-beach-views
 address: "Rruga Currila, 2001 Durrës, Albania"

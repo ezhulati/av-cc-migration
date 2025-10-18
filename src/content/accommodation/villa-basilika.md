@@ -1,7 +1,7 @@
 ---
 title: "Villa Basilika"
 description: "Villa Basilika emerges as a serene oasis in the heart of Vlorë, merely a stone's throw away from the iconic Kuzum Baba and a brief stroll from the vibrant Independence Square."
-featuredImage: "/images/accommodation/villa-basilika-100112480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100112480.jpg?k=5c9e9dcad0381915a09a4780cfc55bcfab7592698ae204b38bd2ba172867d3e6&o=&hp=1"
 language: en
 slug: villa-basilika
 address: "Str. 4 Heronjte No 33, 9402 Vlorë, Albania"

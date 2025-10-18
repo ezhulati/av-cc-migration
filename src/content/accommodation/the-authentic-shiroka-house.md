@@ -1,7 +1,7 @@
 ---
 title: "The authentic Shiroka house"
 description: "The Authentic Shiroka House stands as a testament to comfort and convenience, located within the serene landscapes of Shirokë, a mere 49 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/the-authentic-shiroka-house-497141075.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497141075.jpg?k=07680611e68cdaf177c48d8275e1f924cfee9cf419b36e3a97ece0b7efae9b33&o=&hp=1"
 language: en
 slug: the-authentic-shiroka-house
 address: "Rruga Shirokes, Shirokë, Albania"

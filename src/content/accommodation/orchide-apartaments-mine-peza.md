@@ -1,7 +1,7 @@
 ---
 title: "Orchide Apartaments Mine Peza"
 description: "Orchide Apartaments Mine Peza emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/orchide-apartaments-mine-peza-487838232.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487838232.jpg?k=3455f59459c7fa3be372dae80c5467acee283d71bff4afd4e4c96b0ff99952b8&o=&hp=1"
 language: en
 slug: orchide-apartaments-mine-peza
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

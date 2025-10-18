@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment-City Walk 1BD Stylish Apartment"
 description: "Miku Apartment-City Walk 1BD Stylish Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/miku-apartment-city-walk-1bd-stylish-apartment-246108477.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/246108477.jpg?k=00440d75c78b7a7fa20a86295ef6baef513e773ffbc2eebf92adef3cd1cc79e6&o=&hp=1"
 language: en
 slug: miku-apartment-city-walk-1bd-stylish-apartment
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Getaway Tirana City Center - STAYcation Apartments"
 description: "Getaway Tirana City Center - STAYcation Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/getaway-tirana-city-center-staycation-apartments-492953544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492953544.jpg?k=c61a0c6981a0ed64e74b1dfb55cf8092837891a9be7a3f36ab740b3c799f8c79&o=&hp=1"
 language: en
 slug: getaway-tirana-city-center-staycation-apartments
 address: "Rruga Kostandin Kristoforidhi, 1001 Tirana, Albania"

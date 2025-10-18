@@ -1,7 +1,7 @@
 ---
 title: "Clinton Tirana Inn"
 description: "Clinton Tirana Inn emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/clinton-tirana-inn-499686289.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499686289.jpg?k=d5e04706bf11f0f18e744c4032f9ca9c42203e65bd0c88f58534b6a08f9405b7&o=&hp=1"
 language: en
 slug: clinton-tirana-inn
 address: "63 Rruga e Kavajës, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Liora's Vila"
 description: "Liora's Vila emerges as a serene retreat in Laç, strategically positioned within a comfortable distance from some of Albania's most iconic landmarks."
-featuredImage: "/images/accommodation/liora-s-vila-470597041.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470597041.jpg?k=5c6d19f0875127f12da1fd236f5d0565cfd13368b1c76b7208eed8786079e7c5&o=&hp=1"
 language: en
 slug: liora-s-vila
 address: "Rruga Shtepise Pionerit, 4001 Laç, Albania"

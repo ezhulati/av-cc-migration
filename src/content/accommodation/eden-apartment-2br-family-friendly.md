@@ -1,7 +1,7 @@
 ---
 title: "Eden Apartment: 2BR, Family friendly"
 description: "Eden Apartment: 2BR, Family Friendly emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/eden-apartment-2br-family-friendly-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: eden-apartment-2br-family-friendly
 address: "Rruga Don Bosko, 1016 Tirana, Albania"

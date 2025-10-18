@@ -1,7 +1,7 @@
 ---
 title: "Cold Water Residence"
 description: "Cold Water Residence in Vlorë stands out as a prime choice for travelers seeking both comfort and convenience, with its prime beachfront location offering stunning sea views."
-featuredImage: "/images/accommodation/cold-water-residence-156004624.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156004624.jpg?k=146c5e8147ff4873b973f003f4a2b83829ba1a6b417d07a77a28d41be230a7ea&o=&hp=1"
 language: en
 slug: cold-water-residence
 address: "Rruga mehmet agalliu, 9400 Vlorë, Albania"

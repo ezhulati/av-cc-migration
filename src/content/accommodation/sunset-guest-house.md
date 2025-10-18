@@ -1,7 +1,7 @@
 ---
 title: "Sunset Guest house"
 description: "Sunset Guest House emerges as a serene haven for travelers seeking both tranquility and convenience in the heart of Himare."
-featuredImage: "/images/accommodation/sunset-guest-house-137557945.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137557945.jpg?k=ea41c2d9919b6ab9801800ff8adb1f0df51a022494a2ef2250ef4387644a957a&o=&hp=1"
 language: en
 slug: sunset-guest-house
 address: "Rr. Shen Marina 12, 9425 Himare, Albania"

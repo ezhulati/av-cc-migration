@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vivas"
 description: "Discover the charm of Hotel Vivas, a gem located just a stone's throw from a pristine sandy beach, offering guests the perfect blend of relaxation and activity."
-featuredImage: "/images/accommodation/hotel-vivas-304381018.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304381018.jpg?k=eda868683d4a856d9bf6d5d819de814098e88ced510d0c6e96a7837ac1911d76&o=&hp=1"
 language: en
 slug: hotel-vivas
 address: "Lagjia 13, Ruga Apollonia , 4000 Durrës, Albania"

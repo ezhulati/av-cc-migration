@@ -1,7 +1,7 @@
 ---
 title: "ETER Hotel"
 description: "ETER Hotel emerges as a standout choice for travelers seeking both relaxation and convenience in Golem."
-featuredImage: "/images/accommodation/eter-hotel-210289782.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210289782.jpg?k=576462dd32e4758ba66f02194ed941f76d0ec4684c43e67fa45c619b521d3c0d&o=&hp=1"
 language: en
 slug: eter-hotel
 address: "Eter Hotel Blvd. Pishave, Mali Robit - Golem, 2504 Golem, Albania"

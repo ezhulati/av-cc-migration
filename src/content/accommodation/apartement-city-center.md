@@ -1,7 +1,7 @@
 ---
 title: "apartement city center"
 description: "Apartment City Center in Berat stands out as a prime choice for travelers seeking comfort and convenience in one package."
-featuredImage: "/images/accommodation/apartement-city-center-471057606.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471057606.jpg?k=2a0c0ccda00aa474b21e6dd9f45a4bed79af9ea34a9adb86c49dc5d454a6ceeb&o=&hp=1"
 language: en
 slug: apartement-city-center
 address: "Bulevardi Republika, 012 ndertesa 12, app. 02, 5001 Berat, Albania"

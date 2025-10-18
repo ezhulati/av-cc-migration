@@ -1,7 +1,7 @@
 ---
 title: "Luxury home family"
 description: "Luxury Home Family emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/luxury-home-family-400315278.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400315278.jpg?k=f1854dd16d52680bea0d4291e297a1cb9ff46996fa60ff49186123e860e83e83&o=&hp=1"
 language: en
 slug: luxury-home-family
 address: "Rruga Golem 1000 Gran blu fafa, Golem, Albania"

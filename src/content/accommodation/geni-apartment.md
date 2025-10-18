@@ -1,7 +1,7 @@
 ---
 title: "Geni Apartment"
 description: "Geni Apartment stands out as a prime choice for travelers seeking comfort and convenience in Korçë, located just 43 km from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/geni-apartment-327420205.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327420205.jpg?k=5d49f0b75651d85f984f32ca44cece012c543d129eedac1c3b9fe4b1f1af0af5&o=&hp=1"
 language: en
 slug: geni-apartment
 address: "Rruga Ismail Qemali, 7001 Korçë, Albania"

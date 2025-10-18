@@ -1,7 +1,7 @@
 ---
 title: "Ensol B&B"
 description: "Ensol B&B emerges as a serene retreat located a mere 27 km away from the historic Monastery of Saint George the Victorious, providing guests with a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/ensol-b-b-225877109.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225877109.jpg?k=28233c0c32a58faa65dac9a71e21a5acabea23dc572de182e702fc550ba358ca&o=&hp=1"
 language: en
 slug: ensol-b-b
 address: "Rr. Shehat Shehu Near Municipality of Peshkopia, 8301 Peshkopi, Albania"

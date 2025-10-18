@@ -1,7 +1,7 @@
 ---
 title: "Guest House Luli"
 description: "Guest House Luli in Berat emerges as a serene retreat for travelers seeking both tranquility and a touch of adventure."
-featuredImage: "/images/accommodation/guest-house-luli-357068451.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357068451.jpg?k=1afaba82b33c12498486f8c71cc13f837a8236277d3c5e9966b39b8464b81c44&o=&hp=1"
 language: en
 slug: guest-house-luli
 address: "Rruga Mihal Komnena Lagjia Kala Inside Berat Castle, 5001 Berat, Albania"

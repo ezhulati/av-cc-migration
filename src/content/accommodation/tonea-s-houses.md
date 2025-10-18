@@ -1,7 +1,7 @@
 ---
 title: "Tonea's Houses"
 description: "Tonea's Houses emerges as a serene oasis in Himare, merely 70 meters from the pristine Livadhi Beach, offering guests an exclusive slice of paradise with its private beach area and lush garden vistas."
-featuredImage: "/images/accommodation/tonea-s-houses-420704057.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420704057.jpg?k=2b9368c6f679bc0fed4471280c9a0e92262db75537d62a5977b15a3c724d0dae&o=&hp=1"
 language: en
 slug: tonea-s-houses
 address: "Livadh, 9425 Himare, Albania"

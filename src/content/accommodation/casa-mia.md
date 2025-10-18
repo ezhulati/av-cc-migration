@@ -1,7 +1,7 @@
 ---
 title: "Casa Mia"
 description: "Casa Mia emerges as a charming retreat in the heart of Vlorë, positioned just a short distance from the serene Vjetër Beach."
-featuredImage: "/images/accommodation/casa-mia-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: casa-mia
 address: "Via Sali Hali Kokondi Nr 3, 9400 Vlorë, Albania"

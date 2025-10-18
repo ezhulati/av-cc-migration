@@ -1,7 +1,7 @@
 ---
 title: "Jozi Kaiser Apartment 2"
 description: "Jozi Kaiser Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/jozi-kaiser-apartment-2-363424634.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363424634.jpg?k=4708167cd3ecfa2ccb7731a732e06c14de74010ae38c87cd2f47663ae9516e66&o=&hp=1"
 language: en
 slug: jozi-kaiser-apartment-2
 address: "Vila e Zogut, Rruga Kont Urani 34, Durres, 2001 Durrës, Albania"

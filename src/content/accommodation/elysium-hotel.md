@@ -1,7 +1,7 @@
 ---
 title: "Elysium Hotel"
 description: "Elysium Hotel emerges as a premier destination for those seeking a blend of luxury and serenity in Dhërmi."
-featuredImage: "/images/accommodation/elysium-hotel-481137518.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481137518.jpg?k=4a11522a5641bcc846e7eb6d7cf4d3d3e4e50284896cd58f8e7dd119f05b5c88&o=&hp=1"
 language: en
 slug: elysium-hotel
 address: "Dhermi, 1001 Dhërmi, Albania"

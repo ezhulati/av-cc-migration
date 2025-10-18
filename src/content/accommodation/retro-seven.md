@@ -1,7 +1,7 @@
 ---
 title: "Retro Seven"
 description: "Retro Seven emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/retro-seven-527541592.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527541592.jpg?k=b9b14945cb6353a6e5687408a6ed20c38831497e59a6e651d0c806b09921ff17&o=&hp=1"
 language: en
 slug: retro-seven
 address: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Your black & white Studio Suite"
 description: "Your Black & White Studio Suite emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/your-black-white-studio-suite-403199332.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403199332.jpg?k=936294b2c077dfc50048795bdbc0e07913896b0525ea116dc22baad3c0fe5a8f&o=&hp=1"
 language: en
 slug: your-black-white-studio-suite
 address: "Rruga Xhavit Shyqyri Demneri, 1000 Tirana, Albania"

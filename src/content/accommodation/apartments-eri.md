@@ -1,7 +1,7 @@
 ---
 title: "APARTMENTS ERI"
 description: "APARTMENTS ERI stands out as a prime choice for travelers seeking comfort and convenience, located just 1 km from the vibrant Saranda City Beach."
-featuredImage: "/images/accommodation/apartments-eri-307931223.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307931223.jpg?k=88e63fd6d223e1ab8197c412ef0133e71963fa026ec84c4a2c698e69284d1db5&o=&hp=1"
 language: en
 slug: apartments-eri
 address: "gjergj araniti, 9701 Sarandë, Albania"

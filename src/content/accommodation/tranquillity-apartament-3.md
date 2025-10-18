@@ -1,7 +1,7 @@
 ---
 title: "Tranquillity Apartament 3"
 description: "Tranquillity Apartment 3 emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/tranquillity-apartament-3-401911611.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401911611.jpg?k=b34a05d1830336ecedea75b7e3d82c46a9ecb3dfe4aba4d8c3bf76470805eec1&o=&hp=1"
 language: en
 slug: tranquillity-apartament-3
 address: "Rruga Teodor Keko, 1060 Tirana, Albania"

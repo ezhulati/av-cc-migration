@@ -1,7 +1,7 @@
 ---
 title: "VloraSeas Apartment 2"
 description: "VloraSeas Apartment 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/vloraseas-apartment-2-486737632.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486737632.jpg?k=22d70bf801df4ee88494a32731dc3f3e1cc83b5a0f2fd86a47dee12f52cb6d4a&o=&hp=1"
 language: en
 slug: vloraseas-apartment-2
 address: "Rruga Reshat Osmani, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Europa Apartment"
 description: "Europa Apartment stands as a prime choice for travelers seeking comfort and convenience in the heart of Tirana, a mere stone's throw from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/europa-apartment-184447602.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184447602.jpg?k=e89265e6b78181f5ac4d49d7fdbaa024d268ed74e5487b3b59c77fada799bc28&o=&hp=1"
 language: en
 slug: europa-apartment
 address: "Rruga Luigj Gurakuqi Pallatet 9 Kateshe 2/2 ,Kati 1,Siper EUROPA Caffe, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Promenade Apartment in City Centre"
 description: "Discover the charm of Berat with a stay at Promenade Apartment in City Centre, a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/promenade-apartment-in-city-centre-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: promenade-apartment-in-city-centre
 address: "\"22 Tetori\" Quarter, Building 43, Apartment 10, 5001 Berat, Albania"

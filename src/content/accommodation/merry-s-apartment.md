@@ -1,7 +1,7 @@
 ---
 title: "Merry's Apartment"
 description: "Merry's Apartment in Durrës emerges as a freshly updated retreat, a mere stone's throw from the inviting Durres Beach and a scenic drive from Skanderbeg Square, 39 km away."
-featuredImage: "/images/accommodation/merry-s-apartment-360591494.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360591494.jpg?k=83f0cd8042f7f31dc9b1db9eab6e087dc7668b774683dc909d0836c3dc70e697&o=&hp=1"
 language: en
 slug: merry-s-apartment
 address: "Rruga Pavaresia, 8518 Durrës, Albania"

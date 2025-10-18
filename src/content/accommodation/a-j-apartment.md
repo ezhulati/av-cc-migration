@@ -1,7 +1,7 @@
 ---
 title: "A & J Apartment"
 description: "A & J Apartment stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from the pristine Vlore Beach and a short stroll from Ri Beach."
-featuredImage: "/images/accommodation/a-j-apartment-508425189.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508425189.jpg?k=0fc14a45d9ba6ebb3ca0546d4f34ecf9976ada642e3afd8a256c6bdbebd49017&o=&hp=1"
 language: en
 slug: a-j-apartment
 address: "Lungomare , \"Murat Terbaci\" Building Nr. 55, Ap.Nr 39, 7th floor, 9400 Vlorë, Albania"

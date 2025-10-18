@@ -1,7 +1,7 @@
 ---
 title: "Hotel Unik"
 description: "Hotel Unik stands out as a prime choice for travelers seeking comfort and convenience in Pogradec, situated a mere 9 km from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/hotel-unik-496902513.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496902513.jpg?k=db727ce29bc2811a2ef72114b2ead622d43052578420f7fe25e5e41ad1890d4b&o=&hp=1"
 language: en
 slug: hotel-unik
 address: "Rruga Kajo Karafili, 8582 Pogradec, Albania"

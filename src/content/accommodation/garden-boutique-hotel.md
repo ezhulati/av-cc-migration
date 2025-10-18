@@ -1,7 +1,7 @@
 ---
 title: "Garden Boutique Hotel"
 description: "Garden Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/garden-boutique-hotel-526281302.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526281302.jpg?k=1daaac3feaf87015c0fda9c6175ae8d7633ea9ec3bb3449f79e2c55bf37bb444&o=&hp=1"
 language: en
 slug: garden-boutique-hotel
 address: "Rruga e Kavajës, 1002 Tirana, Albania"

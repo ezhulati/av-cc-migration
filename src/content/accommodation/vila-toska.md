@@ -1,7 +1,7 @@
 ---
 title: "Vila Toska"
 description: "Vila Toska emerges as a serene retreat in Hamallaj, offering spacious, air-conditioned accommodations just a stone's throw away from the pristine shores of Lalëz Bay Beach."
-featuredImage: "/images/accommodation/vila-toska-492341138.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492341138.jpg?k=b255dd5e1948ee255101648f3b6d83b9091889daaa2165746be6b4d149263647&o=&hp=1"
 language: en
 slug: vila-toska
 address: "Hamallaj-Perlat, Hamallaj, Albania"

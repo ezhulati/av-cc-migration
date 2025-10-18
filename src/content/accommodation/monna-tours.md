@@ -1,7 +1,7 @@
 ---
 title: "Monna Tours"
 description: "Monna Tours emerges as a standout accommodation choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/monna-tours-522103547.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522103547.jpg?k=548dcc4c44d20a3805bbf15fdef7e5bd2742c4e9b51450ce7f540aa6cca241fa&o=&hp=1"
 language: en
 slug: monna-tours
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Wooden House"
 description: "Wooden House emerges as a serene retreat located just 45 km from the bustling Port of Bar in Shkodër."
-featuredImage: "/images/accommodation/wooden-house-343666544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343666544.jpg?k=6a8e7c516d0cc85ca46c68ea12eefe8e70141e90f4afe3e12452cb9ea878029c&o=&hp=1"
 language: en
 slug: wooden-house
 address: "Sh41, Zues, Shkoder, Albania, 4001 Shkodër, Albania"

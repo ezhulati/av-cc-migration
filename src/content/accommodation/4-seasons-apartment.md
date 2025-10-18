@@ -1,7 +1,7 @@
 ---
 title: "4 Seasons Apartment"
 description: "4 Seasons Apartment emerges as a serene retreat, offering breathtaking mountain vistas from its generously sized balcony."
-featuredImage: "/images/accommodation/4-seasons-apartment-508205005.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508205005.jpg?k=db77f2fbcf91b7668b6cf1a9afb1eda0814233f60c96c43f2c2ba7f4989f3378&o=&hp=1"
 language: en
 slug: 4-seasons-apartment
 address: "Rruga Manol Nako, 7402 Leskovik, Albania"

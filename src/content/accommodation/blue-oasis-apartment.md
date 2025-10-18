@@ -1,7 +1,7 @@
 ---
 title: "Blue Oasis Apartment"
 description: "Blue Oasis Apartment stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a short stroll from Independence Square and within easy reach of Kuzum Baba."
-featuredImage: "/images/accommodation/blue-oasis-apartment-474427132.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474427132.jpg?k=779207aa918437b6700ab9c9b2d9cb78bcd7dfd5948d04d8fe3d30e370f9ded2&o=&hp=1"
 language: en
 slug: blue-oasis-apartment
 address: "Rruga Ymer Veshi, 1001 Vlorë, Albania"

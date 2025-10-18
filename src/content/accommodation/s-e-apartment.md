@@ -1,7 +1,7 @@
 ---
 title: "S&E Apartment"
 description: "S&E Apartment emerges as a prime choice for travelers seeking comfort and convenience in Pogradec, offering air-conditioned accommodations complete with a patio that promises a blend of relaxation and functionality."
-featuredImage: "/images/accommodation/s-e-apartment-490137770.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490137770.jpg?k=b97a91dae999954bcff18e21a016f162b6bd91f8f2627fa25812ae5767891d2b&o=&hp=1"
 language: en
 slug: s-e-apartment
 address: "SH64 Tushemisht, 7301 Pogradec, Albania"

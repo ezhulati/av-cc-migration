@@ -1,7 +1,7 @@
 ---
 title: "Shkodra Duplex Apartment"
 description: "Shkodra Duplex Apartment stands as a beacon of comfort and convenience in the heart of Shkodër, just a scenic drive away from the Port of Bar."
-featuredImage: "/images/accommodation/shkodra-duplex-apartment-353955072.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353955072.jpg?k=8e9150d57630fc943d49575e750177d09c66f2b64fdb85c9b46517762ccd4302&o=&hp=1"
 language: en
 slug: shkodra-duplex-apartment
 address: "Studenti, Shkodër, Albania"

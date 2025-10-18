@@ -1,7 +1,7 @@
 ---
 title: "Guest House Pulake"
 description: "Guest House Pulake in Berat stands out as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/guest-house-pulake-483355230.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483355230.jpg?k=af0e9bc257482ecc5f86817ae2e68eea00fcd6d1d207686cf0326df84c356768&o=&hp=1"
 language: en
 slug: guest-house-pulake
 address: "Rruga dhimiter kolea berat, 5001 Berat, Albania"

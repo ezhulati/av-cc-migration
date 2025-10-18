@@ -1,7 +1,7 @@
 ---
 title: "Razem Lendina e Qete"
 description: "Razem Lendina e Qete emerges as a serene retreat in Razëm, situated a mere 48 km from the historic Clock Tower and the Parliament of Montenegro in Podgorica."
-featuredImage: "/images/accommodation/razem-lendina-e-qete-456484635.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456484635.jpg?k=1b7f5a915339dd816bf910515654d76b68b7cc25bdd2b613796e72658681dd74&o=&hp=1"
 language: en
 slug: razem-lendina-e-qete
 address: "Lendina e qete, 2001 Razëm, Albania"

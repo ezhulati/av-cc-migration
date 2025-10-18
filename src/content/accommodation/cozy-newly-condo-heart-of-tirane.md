@@ -1,7 +1,7 @@
 ---
 title: "Cozy newly Condo Heart of Tirane"
 description: "Cozy Newly Condo Heart of Tirane emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/cozy-newly-condo-heart-of-tirane-497793465.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497793465.jpg?k=412763267640f93957e7f22536a11b3abcd4d856b4de65817f768f73e97961af&o=&hp=1"
 language: en
 slug: cozy-newly-condo-heart-of-tirane
 address: "Rruga Bilal Konxholli, Tirana, Albania"

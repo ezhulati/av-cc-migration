@@ -1,7 +1,7 @@
 ---
 title: "Central room private entry and bathroom"
 description: "Central Room Private Entry and Bathroom emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-room-private-entry-and-bathroom-446768620.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446768620.jpg?k=c109383df81854dd9e27f23e64ea3a35a112b45b8c98015a693644447c725fb3&o=&hp=1"
 language: en
 slug: central-room-private-entry-and-bathroom
 address: "street mine peza and kongresi i tiranes, apartament 31, 1057 Tirana, Albania"

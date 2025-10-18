@@ -1,7 +1,7 @@
 ---
 title: "Private room historic center Elbasan"
 description: "Private Room Historic Center Elbasan emerges as a serene oasis in the heart of Elbasan, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/private-room-historic-center-elbasan-194053537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194053537.jpg?k=cb481cb84c1a723cd477e602849e2a906ca1ee039a8ee69fbaec4abcb2a24544&o=&hp=1"
 language: en
 slug: private-room-historic-center-elbasan
 address: "Rruga Tajar Guranjaku, 3001 Elbasan, Albania"

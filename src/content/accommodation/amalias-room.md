@@ -1,7 +1,7 @@
 ---
 title: "Amalias room"
 description: "Amalias Room emerges as a refreshing retreat in the heart of Himare, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/amalias-room-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: amalias-room
 address: "himare stefanel, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "tirana apartments for rent"
 description: "Tirana Apartments for Rent emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Kashar, Tirana County."
-featuredImage: "/images/accommodation/tirana-apartments-for-rent-509365642.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509365642.jpg?k=5a64152ddac373f64148a0c1c067676212ae179ee8d2897b379099b903e51a30&o=&hp=1"
 language: en
 slug: tirana-apartments-for-rent
 address: "21 Rruga Loni Ligori Apartment 3, Floor 5 ., Kashar, Albania"

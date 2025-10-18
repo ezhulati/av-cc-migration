@@ -1,7 +1,7 @@
 ---
 title: "La Brisa Boutique Hotel"
 description: "La Brisa Boutique Hotel stands as a premier 5-star destination in Dhërmi, offering guests an exceptional beachfront experience."
-featuredImage: "/images/accommodation/la-brisa-boutique-hotel-513235515.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513235515.jpg?k=63ae8da902b2bd8ad3a1dcd0a4d81358c4718cae8dfc9bb39c75346bbcb387a6&o=&hp=1"
 language: en
 slug: la-brisa-boutique-hotel
 address: "Rruga Jaliskari 8401, Dhërmi 8401, 8401 Dhërmi, Albania"

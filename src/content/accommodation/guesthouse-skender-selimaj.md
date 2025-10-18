@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Skender Selimaj"
 description: "Guesthouse Skender Selimaj stands as a serene retreat in the heart of Valbonë, offering more than just a place to stay."
-featuredImage: "/images/accommodation/guesthouse-skender-selimaj-304393762.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304393762.jpg?k=fc22c8ac910455c655e42fcf11bd975674c6b509c5e77f4868d663a08832ad1b&o=&hp=1"
 language: en
 slug: guesthouse-skender-selimaj
 address: "Rruga Azem Hajdari, 8701 Valbonë, Albania"

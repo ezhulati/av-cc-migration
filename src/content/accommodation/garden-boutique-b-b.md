@@ -1,7 +1,7 @@
 ---
 title: "Garden Boutique B&B"
 description: "Garden Boutique B&B emerges as a serene oasis in the heart of Tirana, merely a kilometer away from the bustling Skanderberg Square."
-featuredImage: "/images/accommodation/garden-boutique-b-b-164639354.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164639354.jpg?k=c92455c512ac0fa7a2742c889b4992a4d1987b29f3b8203d1eddffdcbef4128c&o=&hp=1"
 language: en
 slug: garden-boutique-b-b
 address: "Rruga Kusuri No8, 1001 Tirana, Albania"

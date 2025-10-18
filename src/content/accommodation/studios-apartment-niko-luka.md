@@ -1,7 +1,7 @@
 ---
 title: "Studios&Apartment Niko Luka"
 description: "Studios&Apartment Niko Luka emerges as a serene oasis in the vibrant heart of Ksamil, offering a unique blend of comfort and convenience mere steps away from the pristine sands of Ksamil Beach and the inviting waters of Bora Bora Beach."
-featuredImage: "/images/accommodation/studios-apartment-niko-luka-350759075.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350759075.jpg?k=cc3e57db4e3c5eec8151914d532fb1ec07ffc3f8de00f9694b00cc6db8455944&o=&hp=1"
 language: en
 slug: studios-apartment-niko-luka
 address: "Road ''Baba Sherifi \" Ksamil Number Building 54, 9706 Ksamil, Albania"

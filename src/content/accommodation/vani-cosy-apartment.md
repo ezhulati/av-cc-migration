@@ -1,7 +1,7 @@
 ---
 title: "Vani cosy apartment"
 description: "Vani Cosy Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from Vlore Beach and within easy reach of Ri Beach and Vjetër Beach."
-featuredImage: "/images/accommodation/vani-cosy-apartment-490032047.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490032047.jpg?k=8f8d6da7751b2cd406aa09281f37dae3ec8e35ed0e098a9a4993d566b67d73a8&o=&hp=1"
 language: en
 slug: vani-cosy-apartment
 address: "Rruga Shaban Demiraj, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tanja Apartments"
 description: "Tanja Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Sarandë, just a stone's throw away from the main beach and a short stroll from the city's vibrant beach scene."
-featuredImage: "/images/accommodation/tanja-apartments-141921958.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141921958.jpg?k=e38e19d6be54615a9c5ab54b3ab27d3d80f8bd7789f2bde4aead31126617224d&o=&hp=1"
 language: en
 slug: tanja-apartments
 address: "Rruga Mitat Hoxha Pallati 9 katesh porta blu, 9703 Sarandë, Albania"

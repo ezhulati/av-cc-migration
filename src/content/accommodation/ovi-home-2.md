@@ -1,7 +1,7 @@
 ---
 title: "Ovi Home 2"
 description: "Ovi Home 2 emerges as a serene retreat, offering a picturesque garden view from its inviting balcony, perfectly positioned just a short stroll from the vibrant Skanderbeg Square."
-featuredImage: "/images/accommodation/ovi-home-2-497899165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497899165.jpg?k=4a248c9ff56715bfc6bf750c524fdbb80e6b4c11d0258d86d4d604dbcc64d868&o=&hp=1"
 language: en
 slug: ovi-home-2
 address: "Rruga Komuna e Parisit, 1017 Tirana, Albania"

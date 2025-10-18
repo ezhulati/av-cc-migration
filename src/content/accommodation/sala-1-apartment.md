@@ -1,7 +1,7 @@
 ---
 title: "SALA 1 Apartment"
 description: "SALA 1 Apartment emerges as a prime choice for travelers seeking a serene getaway, located just a short stroll from the pristine sands of Velipojë Beach and within easy reach of the historic Rozafa Castle Shkodra."
-featuredImage: "/images/accommodation/sala-1-apartment-518146657.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518146657.jpg?k=6bfe2390037e1297c090c8268683b94b010cfc644dff0bf103da3effea7dec3b&o=&hp=1"
 language: en
 slug: sala-1-apartment
 address: "Rruga Nr.4, 4020 Velipojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sofi Apartments"
 description: "Sofi Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sofi-apartments-364443790.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364443790.jpg?k=4243536de39ba103269c9f952432fde883cd97fb50293acf410407b6de19ff49&o=&hp=1"
 language: en
 slug: sofi-apartments
 address: "Rruga Mitat Hoxha, building 3, apt 5, 9701 Sarandë, Albania"

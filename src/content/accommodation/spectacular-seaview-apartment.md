@@ -1,7 +1,7 @@
 ---
 title: "Spectacular SeaView Apartment"
 description: "Spectacular SeaView Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience with a stunning ocean backdrop."
-featuredImage: "/images/accommodation/spectacular-seaview-apartment-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: spectacular-seaview-apartment
 address: "Rruga Aleksandër Moisiu Pallati perballe Marina Bay (i verdhe me gri), Vlorë, Albania"

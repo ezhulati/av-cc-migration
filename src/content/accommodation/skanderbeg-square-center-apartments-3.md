@@ -1,7 +1,7 @@
 ---
 title: "Skanderbeg Square Center Apartments 3"
 description: "Skanderbeg Square Center Apartments 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/skanderbeg-square-center-apartments-3-364738209.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364738209.jpg?k=93ff2ccf6a7ee9ed2979519b10bce4cc1f851f5805c13e5082c81bc3338536b5&o=&hp=1"
 language: en
 slug: skanderbeg-square-center-apartments-3
 address: "Rruga Bardhok Biba, Tirana, Albania"

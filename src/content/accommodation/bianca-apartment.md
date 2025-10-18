@@ -1,7 +1,7 @@
 ---
 title: "BIANCA Apartment"
 description: "BIANCA Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem."
-featuredImage: "/images/accommodation/bianca-apartment-484561078.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484561078.jpg?k=50d27901ce32f9b6436f9ff89db17021cfc2c899d60573da131c334dad8e62c6&o=&hp=1"
 language: en
 slug: bianca-apartment
 address: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"

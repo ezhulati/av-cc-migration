@@ -1,7 +1,7 @@
 ---
 title: "BluePoint Hotel"
 description: "BluePoint Hotel, located in the serene town of Tepelenë, offers guests a tranquil retreat with its lush garden and inviting bar."
-featuredImage: "/images/accommodation/bluepoint-hotel-219250021.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219250021.jpg?k=1118431aab3f422c86ecdfbb035142eec5b05933d6e6fa104a5cc0293e6d355a&o=&hp=1"
 language: en
 slug: bluepoint-hotel
 address: "kombretare Tepelen-Memalia, 6301 Tepelenë, Albania"

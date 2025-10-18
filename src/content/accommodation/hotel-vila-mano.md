@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Mano"
 description: "Hotel Vila Mano stands as a testament to the elegance and charm of Korçë, located just a stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum, both approximately 44 km away."
-featuredImage: "/images/accommodation/hotel-vila-mano-487028855.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487028855.jpg?k=0dede253a7aae092fbf112fce2eef5479195b4aa8a079f79932f6d965b192552&o=&hp=1"
 language: en
 slug: hotel-vila-mano
 address: "Rruga\" Mihal Grameno\", Nr 38, Lagjia 3, Korce, Albania, 7000 Korçë, Albania"

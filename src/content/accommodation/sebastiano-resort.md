@@ -1,7 +1,7 @@
 ---
 title: "Sebastiano Resort"
 description: "Sebastiano Resort stands out as a serene oasis in Lezhë, offering guests a unique blend of leisure and adventure."
-featuredImage: "/images/accommodation/sebastiano-resort-303293693.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303293693.jpg?k=2c239c4dab30c07aa310906c73122969ae25f03f46b78f05521f9763e1c6841a&o=&hp=1"
 language: en
 slug: sebastiano-resort
 address: "Shaban Arifi Ishull Lezhe, 4503 Lezhë, Albania"

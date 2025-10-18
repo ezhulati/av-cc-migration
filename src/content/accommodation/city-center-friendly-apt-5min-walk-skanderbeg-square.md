@@ -1,7 +1,7 @@
 ---
 title: "City center friendly apt-5min walk Skanderbeg Square"
 description: "Discover the charm of Tirana from the comfort of the City Center Friendly Apartment, a prime location for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/city-center-friendly-apt-5min-walk-skanderbeg-square-525862528.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525862528.jpg?k=ffd0ed29c8928e2e29d859a17615d36e703fb9c3b646914c405bbd7757e17748&o=&hp=1"
 language: en
 slug: city-center-friendly-apt-5min-walk-skanderbeg-square
 address: "Rruga Zenel Baboçi 7 floor number 24, 1005 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sofra E Shpatit"
 description: "Sofra E Shpatit stands out as a charming retreat in Elbasan, offering a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/sofra-e-shpatit-137956403.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137956403.jpg?k=80a9d7847c8d1010069255d10a348785cb6323c984007d2af7c8d0cb60fb4c79&o=&hp=1"
 language: en
 slug: sofra-e-shpatit
 address: "Gjinar,Elbasan, 3000 Elbasan, Albania"

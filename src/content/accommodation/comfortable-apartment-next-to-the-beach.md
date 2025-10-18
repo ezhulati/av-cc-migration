@@ -1,7 +1,7 @@
 ---
 title: "Comfortable apartment next to the beach"
 description: "Discover the epitome of seaside living at \"Comfortable Apartment Next to the Beach,\" a prime destination located a mere 70 meters from the pristine shores of Durres Beach."
-featuredImage: "/images/accommodation/comfortable-apartment-next-to-the-beach-141399109.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141399109.jpg?k=7671cb7a81df50c6c024fb8d24bdf9e29183ee6f221f154cefb227ded5146edb&o=&hp=1"
 language: en
 slug: comfortable-apartment-next-to-the-beach
 address: "Rruga Pavaresia, 2000 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rea Boutique Hotel"
 description: "Rea Boutique Hotel emerges as a premier destination for travelers seeking a blend of luxury and convenience on the shores of Himare."
-featuredImage: "/images/accommodation/rea-boutique-hotel-264830626.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264830626.jpg?k=bb8531cfd8c5f21c780e3d1ec86e44cad6951bffc0ff7a261516ae5eae78a1ec&o=&hp=1"
 language: en
 slug: rea-boutique-hotel
 address: "Himara's Port Himara, 9425 Himare, Albania"

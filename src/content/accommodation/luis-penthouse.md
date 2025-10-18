@@ -1,7 +1,7 @@
 ---
 title: "Luis Penthouse"
 description: "Luis Penthouse stands as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/luis-penthouse-477116148.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477116148.jpg?k=c176eb8b90caffe2b21ff5cb223163c9c0295d469576719b8aa777ef371fdcee&o=&hp=1"
 language: en
 slug: luis-penthouse
 address: "Rruga Antipatrea, 5001 Berat, Albania"

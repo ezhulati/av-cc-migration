@@ -1,7 +1,7 @@
 ---
 title: "Green Terrace Square View"
 description: "Green Terrace Square View emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/green-terrace-square-view-444096986.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444096986.jpg?k=cf30267a0c3d09c10f5d6998ca212817f2ff1b79b7831676cf32d63db8eb4dad&o=&hp=1"
 language: en
 slug: green-terrace-square-view
 address: "Rruga Dervish Hatixhe, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Classical Apartment !"
 description: "Classical Apartment!"
-featuredImage: "/images/accommodation/classical-apartment-394754193.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394754193.jpg?k=c06934067acc954db9f32a4eb23577a286ebbdb81972eb7ef1e584178f427b25&o=&hp=1"
 language: en
 slug: classical-apartment
 address: "Rruga Reshat Isufati, 6001 Gjirokastër, Albania"

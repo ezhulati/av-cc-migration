@@ -1,7 +1,7 @@
 ---
 title: "AngelX Apartments"
 description: "AngelX Apartments emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/angelx-apartments-462908046.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462908046.jpg?k=a52c8e172933420303a66312417d901bb10b4918ab599fb8c1cc61dc6f01fb8a&o=&hp=1"
 language: en
 slug: angelx-apartments
 address: "Rruga Margarita Tutulani, 1001 Tirana, Albania"

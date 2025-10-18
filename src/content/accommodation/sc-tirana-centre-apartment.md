@@ -1,7 +1,7 @@
 ---
 title: "SC Tirana Centre Apartment"
 description: "SC Tirana Centre Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sc-tirana-centre-apartment-503876497.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503876497.jpg?k=e4ae5df9640b8aba0d9a92fa327897fc85ca8e1eeee54726c364852b0910a5b1&o=&hp=1"
 language: en
 slug: sc-tirana-centre-apartment
 address: "Rruga At Shtjefën Gjeçovi, 1018 Tirana, Albania"

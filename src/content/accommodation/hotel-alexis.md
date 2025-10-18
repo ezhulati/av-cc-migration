@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alexis"
 description: "Hotel Alexis emerges as a serene retreat, boasting breathtaking sea views and a prime location just a stone's throw from the pristine sands of Ksamil Beach 9."
-featuredImage: "/images/accommodation/hotel-alexis-102725116.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102725116.jpg?k=b3db9f4da957aaddfa7798ec902163ca86656d9428e0084024f638a7ed02b1cc&o=&hp=1"
 language: en
 slug: hotel-alexis
 address: "Rruga S. Kondo No 3 , Ground floor, 9706 Ksamil, Albania"

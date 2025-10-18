@@ -1,7 +1,7 @@
 ---
 title: "StarLight Hotel"
 description: "StarLight Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/starlight-hotel-435837760.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435837760.jpg?k=e4210098eedb0f955e78a02526c8816fef370afc26f863d5f118ef9a4ec72d50&o=&hp=1"
 language: en
 slug: starlight-hotel
 address: "Rruga Ali Begeja, 1001 Tirana, Albania"

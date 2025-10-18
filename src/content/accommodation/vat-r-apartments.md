@@ -1,7 +1,7 @@
 ---
 title: "Vatër Apartments"
 description: "Vatër Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city, just a short 1."
-featuredImage: "/images/accommodation/vat-r-apartments-481055027.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481055027.jpg?k=96404e82d2aa2beda342ce5e90fad9f3d6d243a601da73992a1ccbca7450a332&o=&hp=1"
 language: en
 slug: vat-r-apartments
 address: "Rruga Sami Frashëri, 1001 Tirana, Albania"

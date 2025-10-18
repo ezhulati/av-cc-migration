@@ -1,7 +1,7 @@
 ---
 title: "Destil B&B"
 description: "Destil B&B emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/destil-b-b-170052308.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/170052308.jpg?k=ce355ee131a341c41b2976cc5cef30db3c281ee333c703056dbaac2b3ab16f8b&o=&hp=1"
 language: en
 slug: destil-b-b
 address: "Rruga Ismail Qemali Nd. 8 (Pallati 29), 1019 Tirana, Albania"

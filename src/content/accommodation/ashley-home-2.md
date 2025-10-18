@@ -1,7 +1,7 @@
 ---
 title: "Ashley home 2"
 description: "Ashley Home 2 emerges as a refreshing oasis in Durrës, offering guests a serene escape with its air-conditioned accommodations and a pristine saltwater pool."
-featuredImage: "/images/accommodation/ashley-home-2-AGNmyxa2-bNE.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AGNmyxa2-bNEyDMLQ6kmCTRVKSaRZ1cJEYY7p2YEYoh1=s96-c64"
 language: en
 slug: ashley-home-2
 address: "2008 Rruga Pavaresia, 2008 Durrës, Albania"

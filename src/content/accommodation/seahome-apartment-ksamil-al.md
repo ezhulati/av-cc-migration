@@ -1,7 +1,7 @@
 ---
 title: "SEAHOME-Apartment-Ksamil AL"
 description: "SEAHOME-Apartment-Ksamil AL emerges as a standout choice for travelers seeking a blend of comfort and convenience in Sarandë, a stone's throw away from the pristine shores of Ksamil Beach 9, Bora Bora Beach, and Ksamil Beach 7."
-featuredImage: "/images/accommodation/seahome-apartment-ksamil-al-464883622.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464883622.jpg?k=c71e5485d938d59b588e377ad89271568940a73c26f9400dbd1540fb1afcf6e2&o=&hp=1"
 language: en
 slug: seahome-apartment-ksamil-al
 address: "Via riviera ksamil, 9706 Sarandë, Albania"

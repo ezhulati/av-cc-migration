@@ -1,7 +1,7 @@
 ---
 title: "Apartment Golem"
 description: "Apartment Golem stands as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the serene Shkëmbi i Kavajës Beach and a short stroll from the vibrant Golem Beach."
-featuredImage: "/images/accommodation/apartment-golem-471347109.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471347109.jpg?k=dc8a45f3721f7ee650decb96899501a65f231ed92cdd714aee2908adcef80cfc&o=&hp=1"
 language: en
 slug: apartment-golem
 address: "2504 Rruga Golem, 2504 Durrës, Albania"

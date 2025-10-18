@@ -1,7 +1,7 @@
 ---
 title: "Palmera Resort - Villa Panorama"
 description: "Palmera Resort - Villa Panorama emerges as a premier choice for travelers seeking unparalleled relaxation and scenic beauty, just a stone's throw away from Mango Beach."
-featuredImage: "/images/accommodation/palmera-resort-villa-panorama-484115070.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484115070.jpg?k=67076129ee29d6357792c9612eced24f743b67be9d4bc541367d2c7d213ac807&o=&hp=1"
 language: en
 slug: palmera-resort-villa-panorama
 address: "R2WC+X4F Sarandë, Albania, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Arberia"
 description: "Villa Arberia emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience on the Durrës beachfront."
-featuredImage: "/images/accommodation/villa-arberia-99049259.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99049259.jpg?k=a84311e00b8a2a5aa19a453a5246c0dd5411caf2c793d97ffb0e58dde3047d0d&o=&hp=1"
 language: en
 slug: villa-arberia
 address: "Shkembi i Kavajes , 2021 Durrës, Albania"

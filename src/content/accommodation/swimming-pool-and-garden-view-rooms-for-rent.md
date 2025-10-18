@@ -1,7 +1,7 @@
 ---
 title: "Swimming pool and garden view rooms for rent"
 description: "Swimming Pool and Garden View Rooms for Rent emerges as a charming homestay in Durrës, boasting a recent renovation that promises a comfortable stay."
-featuredImage: "/images/accommodation/swimming-pool-and-garden-view-rooms-for-rent-481665744.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481665744.jpg?k=24411b58c54a9879798a3f284ff446d41d091c434fae9cbad5fbf464d49c0463&o=&hp=1"
 language: en
 slug: swimming-pool-and-garden-view-rooms-for-rent
 address: "Rruga Antalia, Durrës, Albania"

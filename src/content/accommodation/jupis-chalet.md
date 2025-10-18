@@ -1,7 +1,7 @@
 ---
 title: "Jupis Chalet"
 description: "Jupis Chalet emerges as a serene retreat in Durrës, striking a perfect balance between tranquility and accessibility."
-featuredImage: "/images/accommodation/jupis-chalet-452135480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452135480.jpg?k=40fd4b3b4b483505ed868b991e6a4074f5df583077e0060e43c03808e34ccaf5&o=&hp=1"
 language: en
 slug: jupis-chalet
 address: "Rruga Manastiri i Detit, 2001 Durrës, Albania"

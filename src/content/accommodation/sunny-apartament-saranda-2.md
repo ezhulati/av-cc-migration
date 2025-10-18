@@ -1,7 +1,7 @@
 ---
 title: "Sunny Apartament Saranda 2"
 description: "Sunny Apartment Saranda 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience, located a mere stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "/images/accommodation/sunny-apartament-saranda-2-443946850.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443946850.jpg?k=077555eb7a35f6af2b006a03565e6857e78189f18ca7d85d3eff4e06685c187f&o=&hp=1"
 language: en
 slug: sunny-apartament-saranda-2
 address: "Rruga Guri Nazifi, Sarandë, Albania"

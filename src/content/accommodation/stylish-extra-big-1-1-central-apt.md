@@ -1,7 +1,7 @@
 ---
 title: "Stylish Extra - BIG 1+1 Central Apt"
 description: "Stylish Extra - BIG 1+1 Central Apt stands as a beacon of comfort and convenience in the heart of Himare, merely a stone's throw away from the pristine Maracit Beach and within easy reach of Prinos Beach."
-featuredImage: "/images/accommodation/stylish-extra-big-1-1-central-apt-487567085.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487567085.jpg?k=91dbee36049f077bc46538dc1582c8291344ffb655d1b210e49f5307f56e57a0&o=&hp=1"
 language: en
 slug: stylish-extra-big-1-1-central-apt
 address: "Himare, Himare, Albania"

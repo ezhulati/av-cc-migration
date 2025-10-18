@@ -1,7 +1,7 @@
 ---
 title: "Kristina Mitllari 1"
 description: "Kristina Mitllari 1 emerges as a serene retreat in Pogradec, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/kristina-mitllari-1-477802234.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477802234.jpg?k=fe7d90d3127c8f59be5dec20a62b5c9ca9975dbe92208832f219dd80537f92ce&o=&hp=1"
 language: en
 slug: kristina-mitllari-1
 address: "Tushemisht, 7301 Pogradec, Albania"

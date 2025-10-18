@@ -1,7 +1,7 @@
 ---
 title: "SeaHana Apartment"
 description: "SeaHana Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Himare."
-featuredImage: "/images/accommodation/seahana-apartment-477205296.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477205296.jpg?k=05bfd9575e1d5842c1f6da4a452870436a5aa109477e796ed4a8e1de25aac370&o=&hp=1"
 language: en
 slug: seahana-apartment
 address: "Himare First floor, Himare, Albania"

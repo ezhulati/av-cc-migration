@@ -1,7 +1,7 @@
 ---
 title: "Bral Apartment 3"
 description: "Bral Apartment 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience, right on the doorstep of Durres Beach."
-featuredImage: "/images/accommodation/bral-apartment-3-15619596.web.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/15619596.webp?k=5e9dcf853e6268b8a8411de6113c6f79bb9936f9755af7907688279190e6847a&o=?t=1488630162"
 language: en
 slug: bral-apartment-3
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

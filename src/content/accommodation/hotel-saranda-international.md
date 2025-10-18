@@ -1,7 +1,7 @@
 ---
 title: "Hotel Saranda International"
 description: "Discover the charm of Hotel Saranda International, a gem that stands out for its exclusive private beach, complete with complimentary deck chairs, umbrellas, and a lively beach bar."
-featuredImage: "/images/accommodation/hotel-saranda-international-469773885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469773885.jpg?k=d6f2e76e1167f08b08b28f2f6046b08834cf0acd7ad93df6a8aebb522208332c&o=&hp=1"
 language: en
 slug: hotel-saranda-international
 address: "Rruga Nacionale Sarande-Ksamil, 9701 Sarandë, Albania"

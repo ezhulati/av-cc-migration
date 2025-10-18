@@ -1,7 +1,7 @@
 ---
 title: "Welcome at DS' Apartments!"
 description: "DS' Apartments in Tirana offers a refreshing retreat for travelers seeking both tranquility and convenience."
-featuredImage: "/images/accommodation/welcome-at-ds-apartments-479623560.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479623560.jpg?k=423ebf83189edc9df9cda55c824cc942857376854d689970dac139bb2edba583&o=&hp=1"
 language: en
 slug: welcome-at-ds-apartments
 address: "Rruga Kongresi i Manastirit, 1001 Tirana, Albania"

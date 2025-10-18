@@ -1,7 +1,7 @@
 ---
 title: "Iliria Boutique Hotel"
 description: "Discover the charm of Iliria Boutique Hotel, a gem in the heart of Tirana's stylish district, where elegance and comfort meet to offer a memorable stay."
-featuredImage: "/images/accommodation/iliria-boutique-hotel-247874998.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247874998.jpg?k=f7b828804e17ef56d2b3845bf568f279c65758ccd269e886382ff4c959feabfc&o=&hp=1"
 language: en
 slug: iliria-boutique-hotel
 address: "Elbasan Street, 00355/1010 Tirana, Albania"

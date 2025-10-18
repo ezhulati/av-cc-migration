@@ -1,7 +1,7 @@
 ---
 title: "Saca Hotel/Apartments"
 description: "Saca Hotel/Apartments emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin, positioned just a stone's throw away from the serene Ylberi Beach and within easy reach of Shëngjin Beach."
-featuredImage: "/images/accommodation/saca-hotel-apartments-AOh14GgAiCRK.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgAiCRKv4NRii0eDdeUFb3XKDJUyajsWN_Mu2a7ww=s96-c64"
 language: en
 slug: saca-hotel-apartments
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

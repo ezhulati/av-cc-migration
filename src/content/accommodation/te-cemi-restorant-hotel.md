@@ -1,7 +1,7 @@
 ---
 title: "Te Cemi - Restorant - Hotel"
 description: "Te Cemi - Restorant - Hotel, situated in the serene town of Tamarë, stands out for its comprehensive amenities and strategic location."
-featuredImage: "/images/accommodation/te-cemi-restorant-hotel-AATXAJw4c1wB.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJw4c1wBe3C17VQo17fUjpu2HqTigwV_yiY-yCY8=s96-c64"
 language: en
 slug: te-cemi-restorant-hotel
 address: "Tamarë, 4003 Tamarë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "D Rooms Sheshi Wilson"
 description: "D Rooms Sheshi Wilson emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/d-rooms-sheshi-wilson-510448593.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510448593.jpg?k=74be3d0dc588b814a125725636b63c835987abaf32757990506a8e51799aaab2&o=&hp=1"
 language: en
 slug: d-rooms-sheshi-wilson
 address: "Rruga Sulejman Delvina Building no.9, Entrance no.4, Ap.14, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "ALBI’S Apartment"
 description: "ALBI'S Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and entertainment in the heart of Tirana."
-featuredImage: "/images/accommodation/albi-s-apartment-485690666.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485690666.jpg?k=ffa0dfee8d063e95ff554094d12b0599faaeb1e655214b284691799d46565db9&o=&hp=1"
 language: en
 slug: albi-s-apartment
 address: "Rruga Siri Kodra, 1010 Tirana, Albania"

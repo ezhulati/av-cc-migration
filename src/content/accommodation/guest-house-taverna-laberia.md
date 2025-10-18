@@ -1,7 +1,7 @@
 ---
 title: "Guest House Taverna Laberia"
 description: "Guest House Taverna Laberia emerges as a prime choice for travelers seeking comfort and convenience in Gjirokastër, situated a mere 44 km from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/guest-house-taverna-laberia-490056873.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490056873.jpg?k=0afeefb0d8401befcb7a8ae32244af4276da7a3d5bc29053a11a3458d280a7aa&o=&hp=1"
 language: en
 slug: guest-house-taverna-laberia
 address: "Rruga Ilia Dilo Sheperi, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Solé Apartments"
 description: "Solé Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sol-apartments-507375073.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507375073.jpg?k=7270b9dbd3648de4acde1d89c8330b753336b4873d3872f8a86983e7bd894ea7&o=&hp=1"
 language: en
 slug: sol-apartments
 address: "Rruga Ibrahim Dervishi Ap 73 , 6 Floor, 1060 Tirana, Albania"

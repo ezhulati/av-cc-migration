@@ -1,7 +1,7 @@
 ---
 title: "Vlora Bay Apartments"
 description: "Vlora Bay Apartments stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a stone's throw away from the pristine Vlore Beach and within easy reach of Ri Beach and Vjetër Beach."
-featuredImage: "/images/accommodation/vlora-bay-apartments-442077581.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442077581.jpg?k=10164ddd60444c32a2d26cb2b2b7f869133a3b9fa74642b31e062e94e8f8f3d0&o=&hp=1"
 language: en
 slug: vlora-bay-apartments
 address: "RrugaHaziz Xhyherri, 9401 Vlorë, Albania"

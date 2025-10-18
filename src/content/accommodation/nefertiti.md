@@ -1,7 +1,7 @@
 ---
 title: "Nefertiti"
 description: "Nefertiti stands as a prime choice for travelers seeking comfort and convenience in Durrës, located just 300 meters from the inviting shores of Durres Beach."
-featuredImage: "/images/accommodation/nefertiti-479286978.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479286978.jpg?k=b269b079d06f513a9054cdf676152b297575c5b6cefda7580b4cb6aeca907423&o=&hp=1"
 language: en
 slug: nefertiti
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

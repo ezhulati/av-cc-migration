@@ -1,7 +1,7 @@
 ---
 title: "Proper Apartment 2"
 description: "Proper Apartment 2 emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations coupled with the convenience of a central location in Tirana."
-featuredImage: "/images/accommodation/proper-apartment-2-494162640.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494162640.jpg?k=1183f1e221da066dd9099525a5cc2711d3210c05782f1b9df0ec4fda4fc2ab89&o=&hp=1"
 language: en
 slug: proper-apartment-2
 address: "Rruga e Bogdanëve, Tirana, Albania"

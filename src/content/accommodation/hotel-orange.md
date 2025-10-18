@@ -1,7 +1,7 @@
 ---
 title: "Hotel Orange"
 description: "Hotel Orange, positioned a mere stone's throw away from the pristine Palasa Beach in Dhërmi, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/hotel-orange-466748224.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466748224.jpg?k=4198e1deb7b0945fec183e185349dce59fefab56cb9d6f582b0be0325e88da0d&o=&hp=1"
 language: en
 slug: hotel-orange
 address: "Rruga Perivolo, Drimades, 9422 Dhërmi, Albania"

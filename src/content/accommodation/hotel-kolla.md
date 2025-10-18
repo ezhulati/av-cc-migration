@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kolla"
 description: "Hotel Kolla stands out as a prime choice for travelers seeking both adventure and comfort in Derviçian, located a mere 37 km from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-kolla-154407438.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154407438.jpg?k=1607b7467e43e8ae8c6021da36ec49c7832d10b63d9264798af2f12c4f13b28a&o=&hp=1"
 language: en
 slug: hotel-kolla
 address: "Dervican 1, rruga Gjirokaster- Kakavije, 6001 Derviçian, Albania"

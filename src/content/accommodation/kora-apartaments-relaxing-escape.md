@@ -1,7 +1,7 @@
 ---
 title: "Kora Apartaments - Relaxing Escape"
 description: "Kora Apartments - Relaxing Escape stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/kora-apartaments-relaxing-escape-486575398.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486575398.jpg?k=05b1dc404ea4ad398d6b4557fdc1057a2989673043ab1c77905f7ca5fe8332d2&o=&hp=1"
 language: en
 slug: kora-apartaments-relaxing-escape
 address: "Rruga Ismail Qemali, 1010 Tirana, Albania"

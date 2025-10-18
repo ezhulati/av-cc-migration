@@ -1,7 +1,7 @@
 ---
 title: "Kostas Apartment"
 description: "Kostas Apartment emerges as a serene haven in the vibrant heart of Sarandë, offering guests a unique blend of tranquility and convenience."
-featuredImage: "/images/accommodation/kostas-apartment-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: kostas-apartment
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

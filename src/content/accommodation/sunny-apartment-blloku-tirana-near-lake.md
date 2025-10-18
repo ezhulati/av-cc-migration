@@ -1,7 +1,7 @@
 ---
 title: "Sunny Apartment - Blloku Tirana, near Lake"
 description: "Sunny Apartment - Blloku Tirana, near Lake, emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sunny-apartment-blloku-tirana-near-lake-410231256.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410231256.jpg?k=8f5080baf1dafa40cd1bb34d8e8489bacffb54086a49abf02dc66d5518c618c9&o=&hp=1"
 language: en
 slug: sunny-apartment-blloku-tirana-near-lake
 address: "Rruga Milto Tutulani Ap.14, Floor 3, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel ZEKA"
 description: "Hotel ZEKA emerges as a modern oasis in Ksamil, just a short stroll from the pristine sands of Ksamil Beach."
-featuredImage: "/images/accommodation/hotel-zeka-260007609.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260007609.jpg?k=ab503b24cb7fe0658939a4a657f37cc0b22497deb455d2c3630ab6947b67a4bf&o=&hp=1"
 language: en
 slug: hotel-zeka
 address: "ksamil ksamil, Rruga Baba Sherifi, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nice apartment with cityview"
 description: "Discover the charm of Tirana from the comfort of the Nice Apartment with Cityview, a prime choice for travelers seeking both convenience and style."
-featuredImage: "/images/accommodation/nice-apartment-with-cityview-509831361.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509831361.jpg?k=c4a03b4f12a545e24e3d5d5a7f00107729b49cc5ef14081b5ec0491bcbac50ad&o=&hp=1"
 language: en
 slug: nice-apartment-with-cityview
 address: "Rruga Hysni Gerbolli, 1004 Tirana, Albania"

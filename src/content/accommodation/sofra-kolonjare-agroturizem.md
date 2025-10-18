@@ -1,7 +1,7 @@
 ---
 title: "Sofra Kolonjare Agroturizem"
 description: "Sofra Kolonjare Agroturizem stands out as a charming retreat in Ersekë, offering guests a harmonious blend of comfort and convenience."
-featuredImage: "/images/accommodation/sofra-kolonjare-agroturizem-289790118.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289790118.jpg?k=a562d1b541d02b96063fbdff77b7092073595e6e1e7696b36d68db37b1a220d0&o=&hp=1"
 language: en
 slug: sofra-kolonjare-agroturizem
 address: "SH75, 7401 Ersekë, Albania"

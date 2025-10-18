@@ -1,7 +1,7 @@
 ---
 title: "Fiqe rental"
 description: "Fiqe Rental emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/fiqe-rental-216542500.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216542500.jpg?k=f4333664f0dc1e04000827f083d3f9ff8dc6cc8e14747f0f797ea39b519805e5&o=&hp=1"
 language: en
 slug: fiqe-rental
 address: "Rruga Petro Korçari 8-10, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Saranda’s Sky Line Apartment"
 description: "Saranda's Sky Line Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-s-sky-line-apartment-464325363.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464325363.jpg?k=9622776ab60d2fc18bdadfc7e922c9a2bd42ef506723eebdc2b1233e5276e959&o=&hp=1"
 language: en
 slug: saranda-s-sky-line-apartment
 address: "Saranda, AL - Corfu, GR, 1000 Sarandë, Albania"

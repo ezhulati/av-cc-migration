@@ -1,7 +1,7 @@
 ---
 title: "Vila Golem"
 description: "Vila Golem emerges as a serene retreat in the heart of Golem, perfectly positioned just a short distance from the pristine shores of Mali I Robit Beach and Golem Beach."
-featuredImage: "/images/accommodation/vila-golem-476117523.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476117523.jpg?k=ef892ac4052a3e8046f6c35544774f2e0e18d9663d38cfe4ef2c6b41e92f1d78&o=&hp=1"
 language: en
 slug: vila-golem
 address: "Rruga Deti Jon, Golem, Albania"

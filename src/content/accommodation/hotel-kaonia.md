@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kaonia"
 description: "Discover the charm of Hotel Kaonia, a prime choice for travelers seeking both convenience and comfort in the heart of Saranda."
-featuredImage: "/images/accommodation/hotel-kaonia-476539954.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476539954.jpg?k=da074188209f11d1a3d8ef974f1634e79289a667bbe74afb4e4d4e893a54f3e0&o=&hp=1"
 language: en
 slug: hotel-kaonia
 address: "Street Jonianet 18, 9703 Sarandë, Albania"

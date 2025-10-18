@@ -1,7 +1,7 @@
 ---
 title: "Apartamente Boci"
 description: "Apartamente Boci emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin, just a stone's throw away from the pristine Shëngjin Beach and a short stroll from the tranquil Ylberi Beach."
-featuredImage: "/images/accommodation/apartamente-boci-447134414.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447134414.jpg?k=bcedb33889d8c0b7c4cca0b2f749e3d51478458519c625b7b60b652884d9441c&o=&hp=1"
 language: en
 slug: apartamente-boci
 address: "Shëtitorja Wilson, 4503 Shëngjin, Albania"

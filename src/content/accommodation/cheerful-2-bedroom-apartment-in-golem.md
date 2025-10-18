@@ -1,7 +1,7 @@
 ---
 title: "Cheerful 2-bedroom apartment in Golem"
 description: "Cheerful 2-bedroom Apartment in Golem emerges as a prime choice for travelers seeking comfort and convenience a short stroll from the serene Golem and Mali I Robit Beaches."
-featuredImage: "/images/accommodation/cheerful-2-bedroom-apartment-in-golem-454190971.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454190971.jpg?k=4797d7456bcf276556b343ce687a42c10484eebabda91f196405b709811e993a&o=&hp=1"
 language: en
 slug: cheerful-2-bedroom-apartment-in-golem
 address: "Bulevardi Pishave Golem, ( in front of Hotel Murrizi) Apartment 7, second Floor, Golem, Albania"

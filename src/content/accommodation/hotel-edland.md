@@ -1,7 +1,7 @@
 ---
 title: "Hotel Edland"
 description: "Hotel Edland stands out in Vlorë for its exceptional blend of comfort and convenience, offering guests a unique stay experience."
-featuredImage: "/images/accommodation/hotel-edland-484020779.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484020779.jpg?k=f260d1a78dfaee671e761c70d8e869315d50de6c490a39c6c25ff6945607877b&o=&hp=1"
 language: en
 slug: hotel-edland
 address: "L. Pavaresia Rr.Cajupi, 0331 Vlorë, Albania"

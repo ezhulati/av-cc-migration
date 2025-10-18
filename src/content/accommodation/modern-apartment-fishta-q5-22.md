@@ -1,7 +1,7 @@
 ---
 title: "Modern apartment Fishta Q5 22"
 description: "Discover the charm of Velipojë with a stay at the Modern Apartment Fishta Q5 22, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/modern-apartment-fishta-q5-22-AATXAJy0mT0Y.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJy0mT0Y2eJL9FqDzj5PM2Xo1_8m4b4E1k0NDcNr=s96-c64"
 language: en
 slug: modern-apartment-fishta-q5-22
 address: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"

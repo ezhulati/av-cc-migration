@@ -1,7 +1,7 @@
 ---
 title: "Hotel Globo"
 description: "Hotel Globo stands as a beacon of comfort and convenience in the heart of Durrës, merely a stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/hotel-globo-307630241.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307630241.jpg?k=64eca38cbad00747de50dacff834d8d9efad26596081c12a329d2161c340932b&o=&hp=1"
 language: en
 slug: hotel-globo
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "MonarC Hotel"
 description: "Discover the epitome of elegance and convenience at the MonarC Hotel, a prime choice for travelers seeking a blend of modern luxury and prime location in the heart of Tirana."
-featuredImage: "/images/accommodation/monarc-hotel-14219847.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/14219847.jpg?k=173856d7c69e67be84542ff580b9a37fa7793acd3100a54dddeabdeff9b91763&o=&hp=1"
 language: en
 slug: monarc-hotel
 address: "Intersection. Rr. George W. Bush Road and Blvd. Zhan d’Ark, 1001 Tirana, Albania"

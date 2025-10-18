@@ -1,7 +1,7 @@
 ---
 title: "Edlira Apartments"
 description: "Edlira Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/edlira-apartments-462396381.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462396381.jpg?k=bda84c9c3b9a1600949040f3bffb26dfcce59ce916091f8245e42661cc46a62c&o=&hp=1"
 language: en
 slug: edlira-apartments
 address: "Rruga Prokop Mgjergo, 2001 Durrës, Albania"

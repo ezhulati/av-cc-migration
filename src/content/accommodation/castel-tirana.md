@@ -1,7 +1,7 @@
 ---
 title: "Castel Tirana"
 description: "Castel Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/castel-tirana-461746165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461746165.jpg?k=145ffdab0ef047c6dab0c7044c0be36c1f4878ca923b8fa04af3fff2e896767c&o=&hp=1"
 language: en
 slug: castel-tirana
 address: "Murat Toptani Street Pedonalja Tirane First floor, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rana e hedhun 2"
 description: "Rana e Hedhun 2 emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/rana-e-hedhun-2-472195637.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472195637.jpg?k=48a4e193576d854803c4b657a2c2dfac524eacac912f7f6ce10960a4f82d8826&o=&hp=1"
 language: en
 slug: rana-e-hedhun-2
 address: "Rruga Shengjin, 4503 Shëngjin, Albania"

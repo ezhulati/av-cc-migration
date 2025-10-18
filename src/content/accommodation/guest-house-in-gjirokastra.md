@@ -1,7 +1,7 @@
 ---
 title: "Guest House in Gjirokastra"
 description: "Guest House in Gjirokastra emerges as a charming retreat in the heart of Gjirokastër, providing a serene escape with the convenience of complimentary private parking."
-featuredImage: "/images/accommodation/guest-house-in-gjirokastra-492083275.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492083275.jpg?k=7d81d2d6359e4aca9abd435cf0af283517098f4bfedcb12039b86662b922e85c&o=&hp=1"
 language: en
 slug: guest-house-in-gjirokastra
 address: "Rruga Zeman Haska, Gjirokastër, Albania"

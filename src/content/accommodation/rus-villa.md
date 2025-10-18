@@ -1,7 +1,7 @@
 ---
 title: "Rus Villa"
 description: "Rus Villa emerges as a charmingly renovated guest house in the historic heart of Berat, offering an oasis of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/rus-villa-480652745.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480652745.jpg?k=866954a2acfd1baeb66400df6f909547da71c4c9894b99681625151d1a2b8212&o=&hp=1"
 language: en
 slug: rus-villa
 address: "Rruga Antipatrea, 5000 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "PERFECT APARTMENT VLORE"
 description: "Perfect Apartment Vlore emerges as a premier choice for travelers seeking the ultimate blend of comfort and convenience on the Albanian coast."
-featuredImage: "/images/accommodation/perfect-apartment-vlore-219342385.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219342385.jpg?k=7b1c4f9b4b52cd18799144f57f93c126d2f6dbb31a114f790e19d76f680f7597&o=&hp=1"
 language: en
 slug: perfect-apartment-vlore
 address: "Lagjja: 29 Nentori, 9400 Vlorë, Albania"

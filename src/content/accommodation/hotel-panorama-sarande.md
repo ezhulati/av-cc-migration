@@ -1,7 +1,7 @@
 ---
 title: "Hotel Panorama Sarande"
 description: "Hotel Panorama Sarande emerges as a prime choice for travelers seeking a blend of comfort and convenience during their stay in Sarande."
-featuredImage: "/images/accommodation/hotel-panorama-sarande-32796263.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/32796263.jpg?k=7debd173816669a0ab636026a2fa066868bb66669ac1fdfe6850e8d4c65bce3d&o=&hp=1"
 language: en
 slug: hotel-panorama-sarande
 address: "Street Karl Gega, 2 kilometers from the center of Sarande, Lagja 1, 9701 Sarandë, Albania"

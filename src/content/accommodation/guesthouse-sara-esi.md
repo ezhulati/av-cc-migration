@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Sara & Esi"
 description: "Guesthouse Sara & Esi stands out as a charming retreat in Korçë, offering a serene escape with its picturesque mountain and quiet street views."
-featuredImage: "/images/accommodation/guesthouse-sara-esi-350932708.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350932708.jpg?k=09a24e1efa7801f9b60a9cfd1e6aa703384c776e5d74b93906b5e2264bde1eaa&o=&hp=1"
 language: en
 slug: guesthouse-sara-esi
 address: "Rruga Niko Dodona, 7001 Korçë, Albania"

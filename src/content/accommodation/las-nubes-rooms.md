@@ -1,7 +1,7 @@
 ---
 title: "Las Nubes Rooms"
 description: "Las Nubes Rooms emerges as a prime choice for travelers seeking a blend of comfort and convenience along the Himare coastline."
-featuredImage: "/images/accommodation/las-nubes-rooms-369374846.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369374846.jpg?k=d179669f20da5794f67d0e892b9150113431c71a703b669d44c4a45dc8e80943&o=&hp=1"
 language: en
 slug: las-nubes-rooms
 address: "SH8 Jorgji Bollano , Spile ,2/1 Vlore, Himare, 9425 Himare, Albania"

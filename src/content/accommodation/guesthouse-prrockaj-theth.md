@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Prrockaj Theth"
 description: "Guesthouse Prrockaj Theth emerges as a serene retreat, offering breathtaking mountain views and a cozy stay just 3 km from the heart of Theth National Park."
-featuredImage: "/images/accommodation/guesthouse-prrockaj-theth-499554488.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499554488.jpg?k=7b89c32c64a5350551946814dc4d27d4a593b37e8fd1c9b579d9710d18283946&o=&hp=1"
 language: en
 slug: guesthouse-prrockaj-theth
 address: "Kisha e Thethit, Fushe-Thethi, Shkodër, Albania, 4001 Theth, Albania"

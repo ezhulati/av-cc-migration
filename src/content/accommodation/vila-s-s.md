@@ -1,7 +1,7 @@
 ---
 title: "Vila S&S"
 description: "Vila S&S stands out as a serene oasis in Vlorë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/vila-s-s-373278646.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373278646.jpg?k=bc6f56558649a94e183632cdbfd3b00f2eb2613d52eac24558a768cefac00f1d&o=&hp=1"
 language: en
 slug: vila-s-s
 address: "Rruga Andrea Varfi, 9429 Vlorë, Albania"

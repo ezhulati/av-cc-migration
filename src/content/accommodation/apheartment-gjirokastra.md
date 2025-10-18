@@ -1,7 +1,7 @@
 ---
 title: "ApHEARTment Gjirokastra"
 description: "ApHEARTment Gjirokastra emerges as a standout choice for travelers seeking a serene getaway in the historic city of Gjirokastër."
-featuredImage: "/images/accommodation/apheartment-gjirokastra-481680894.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481680894.jpg?k=73a56a570aabc909729684bd60905eea302f9f7058e603a4fad2cdf4a53796c0&o=&hp=1"
 language: en
 slug: apheartment-gjirokastra
 address: "Bulevardi 18 Shtatori, 6002 Gjirokastër, Albania"

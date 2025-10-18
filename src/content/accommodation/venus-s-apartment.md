@@ -1,7 +1,7 @@
 ---
 title: "Venus's Apartment"
 description: "Venus's Apartment emerges as a modern oasis in the heart of Vlorë, a stone's throw away from the serene Vjetër Beach, the vibrant Vlore Beach, and the historic Independence Square."
-featuredImage: "/images/accommodation/venus-s-apartment-439978909.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439978909.jpg?k=11c7720d0963ee9e698195bc9daf8847270ea94bd2095b668b82fcd2ac79c669&o=&hp=1"
 language: en
 slug: venus-s-apartment
 address: "Rruga Gjergj Kastrioti, 7001 Vlorë, Albania"

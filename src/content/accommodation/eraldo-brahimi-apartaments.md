@@ -1,7 +1,7 @@
 ---
 title: "Eraldo Brahimi Apartaments"
 description: "Eraldo Brahimi Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/eraldo-brahimi-apartaments-295572086.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295572086.jpg?k=1d90b57196280ebecd425c8c81078ab9b1be922f21bcd54817e586a2ce36c8d0&o=&hp=1"
 language: en
 slug: eraldo-brahimi-apartaments
 address: "Road Tafil Buzi 88, 9706 Ksamil, Albania"

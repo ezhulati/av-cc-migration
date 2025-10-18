@@ -1,7 +1,7 @@
 ---
 title: "Lux Apartment at Arlis(dibra street)"
 description: "Lux Apartment at Arlis (Dibra Street) emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lux-apartment-at-arlis-dibra-street-497738180.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497738180.jpg?k=d511cca402018f8acda9a8ccf61f54c09388ff87976d5371a0fdc5d2cc24e516&o=&hp=1"
 language: en
 slug: lux-apartment-at-arlis-dibra-street
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

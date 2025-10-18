@@ -1,7 +1,7 @@
 ---
 title: "Vila Kinostudio (Togu 2)"
 description: "Vila Kinostudio (Togu 2) emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/vila-kinostudio-togu-2-505841044.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505841044.jpg?k=729a0461b7ad05971a8842c4ad8027982861a56aaba00482c576c051f8894e0e&o=&hp=1"
 language: en
 slug: vila-kinostudio-togu-2
 address: "Pjetër Dungu, 1007 Tirana, Albania"

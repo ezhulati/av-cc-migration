@@ -1,7 +1,7 @@
 ---
 title: "Villa Fredi"
 description: "Villa Fredi emerges as a serene retreat in Orikum, striking a perfect balance between comfort and natural beauty."
-featuredImage: "/images/accommodation/villa-fredi-259894254.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259894254.jpg?k=9d0521f3eaf80dfce7d317a02450ff6708a19748e19208aed8a84d588e331728&o=&hp=1"
 language: en
 slug: villa-fredi
 address: "Rruga Demokracia 41, 9426 Orikum, Albania"

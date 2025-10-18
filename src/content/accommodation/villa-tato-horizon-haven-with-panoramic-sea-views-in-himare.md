@@ -1,7 +1,7 @@
 ---
 title: "Villa Tato: Horizon Haven with Panoramic Sea Views in Himare."
 description: "Villa Tato stands as a serene retreat, offering guests a unique vantage point with its panoramic sea views in the charming town of Himare."
-featuredImage: "/images/accommodation/villa-tato-horizon-haven-with-panoramic-sea-views-in-himare-486369165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486369165.jpg?k=b87054c607c4056a5f19157b923b9ac6cb62e399cf5a8f07a90881e45c0d84fd&o=&hp=1"
 language: en
 slug: villa-tato-horizon-haven-with-panoramic-sea-views-in-himare
 address: "Himare, 9425 Himare, Albania"

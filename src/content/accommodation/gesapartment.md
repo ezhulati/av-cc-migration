@@ -1,7 +1,7 @@
 ---
 title: "Gesapartment"
 description: "Gesapartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/gesapartment-478670401.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478670401.jpg?k=761de334a1ddd41fa5d293c7c7bc0776f7660bb2a10310db1849d85bee8764b0&o=&hp=1"
 language: en
 slug: gesapartment
 address: "Rruga Xhavit Shyqyri Demneri, 1001 Tirana, Albania"

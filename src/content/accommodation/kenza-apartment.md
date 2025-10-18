@@ -1,7 +1,7 @@
 ---
 title: "Kenza apartment"
 description: "Kenza Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Shëngjin."
-featuredImage: "/images/accommodation/kenza-apartment-348331132.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348331132.jpg?k=65edb89fd3be6a582f15ff790121b9d5091f3bc2486e51d3d59476c35713c16f&o=&hp=1"
 language: en
 slug: kenza-apartment
 address: "Shëtitorja Wilson, 4503 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The 8th floor apartment"
 description: "The 8th Floor Apartment stands as a prime choice for travelers seeking a blend of comfort and convenience, with its stunning sea views and prime location just 200 meters from Vlore Beach and a short 1."
-featuredImage: "/images/accommodation/the-8th-floor-apartment-366738319.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366738319.jpg?k=dd1416263dadb3b258a826b1984344c4248ae8728c69aa8e5b75b706496effb8&o=&hp=1"
 language: en
 slug: the-8th-floor-apartment
 address: "Vlore Lungomare, 1001 Vlorë, Albania"

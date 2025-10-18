@@ -1,7 +1,7 @@
 ---
 title: "Aste Guesthouse"
 description: "Stepping into the realm of historical charm and modern amenities, Aste Guesthouse, a gem from the 1920s, underwent a remarkable transformation in 2014 to welcome guests into its warm embrace in the quaint Tropojë village."
-featuredImage: "/images/accommodation/aste-guesthouse-43632424.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43632424.jpg?k=62e96fca02c7852c6f273c6bcb8986e35ef784155f3d8ffb837bb87fab7edc06&o=&hp=1"
 language: en
 slug: aste-guesthouse
 address: "Tropojë, 8703 Tropojë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Home Sweet Home"
 description: "Home Sweet Home emerges as a serene retreat in Elbasan, offering air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/home-sweet-home-515262951.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515262951.jpg?k=25941e1586733f4f33b365f220df229bb195f5dd65b326d77d77afa6c1ae4761&o=&hp=1"
 language: en
 slug: home-sweet-home
 address: "Rruga 28 Nentori, 3001 Elbasan, Albania"

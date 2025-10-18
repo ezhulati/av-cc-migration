@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Zgiboza"
 description: "Guesthouse Zgiboza, located in the vibrant city of Shkodër, presents a refreshing retreat right on the beachfront, complete with a terrace and a welcoming bar."
-featuredImage: "/images/accommodation/guesthouse-zgiboza-473357380.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473357380.jpg?k=847ed8971878be0a017433ae362b8897fbc89811905ca5c078a0b182870396ed&o=&hp=1"
 language: en
 slug: guesthouse-zgiboza
 address: "Lumi i shales, 4001 Shkodër, Albania"

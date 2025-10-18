@@ -1,7 +1,7 @@
 ---
 title: "IoniaHouse Surrel Villa"
 description: "Lovely Loft 6 Cathedral View"
-featuredImage: "/images/accommodation/ioniahouse-surrel-villa-196221702.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196221702.jpg?k=ba0e71cf030cff7f566f63ee2f722df480b3f27663dc11e5d59be0e9a035707a&o=&hp=1"
 language: en
 slug: ioniahouse-surrel-villa
 address: "Rruga Dajti ndertesa 15/1 Surrel Dajt, 1001 Tirana, Albania"

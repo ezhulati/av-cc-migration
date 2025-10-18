@@ -1,7 +1,7 @@
 ---
 title: "Villa All Season"
 description: "Villa All Season emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/villa-all-season-429074635.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429074635.jpg?k=9df62f723ce4d804a1e2130d59859322af5b19d3205eae14f1fa00fbbc86e67b&o=&hp=1"
 language: en
 slug: villa-all-season
 address: "Rruga Pandeli Bocari, Sarande, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Shell Home"
 description: "Shell Home emerges as a serene retreat in the heart of Golem, located within the Tirana County region, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/shell-home-514201698.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514201698.jpg?k=ed568aacc3072df546745e154a2eec4a020b71aa387caef94df08a58c5136fd5&o=&hp=1"
 language: en
 slug: shell-home
 address: "Rruga e Detit, Golem, Albania, 2504 Golem, Albania"

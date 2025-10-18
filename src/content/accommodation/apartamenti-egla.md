@@ -1,7 +1,7 @@
 ---
 title: "Apartamenti Egla"
 description: "Discover the charm of Tirana from the comfort of Apartamenti Egla, a prime location for travelers seeking both tranquility and the vibrant heartbeat of the city."
-featuredImage: "/images/accommodation/apartamenti-egla-463699888.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463699888.jpg?k=5569360ab5f8bbfa3be9558ff47a58db03e97d59c47938ed412dca1fb45382fd&o=&hp=1"
 language: en
 slug: apartamenti-egla
 address: "Rruga Stavro Vinjau, 1010 Tirana, Albania"

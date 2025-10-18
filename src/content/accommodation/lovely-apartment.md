@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment"
 description: "Lovely Apartment emerges as a freshly updated gem in the heart of Tirana, offering a prime location that puts guests moments away from iconic landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and the Postbllok - Checkpoint Monument."
-featuredImage: "/images/accommodation/lovely-apartment-481429700.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481429700.jpg?k=91e0f6c6435ae071ce62ec568e10c751de86f938601869c71825363f52d8ccf0&o=&hp=1"
 language: en
 slug: lovely-apartment
 address: "Rruga e Elbasanit, mbrapa shkolles se mesme te gjuheve te huaja Asim Vokshi, 1010 Tirana, Albania"

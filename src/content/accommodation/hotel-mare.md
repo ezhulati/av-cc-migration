@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mare"
 description: "Hotel Mare stands out as a premier destination for travelers seeking a blend of comfort and convenience in Ksamil, just a stone's throw away from the serene Sunset Beach."
-featuredImage: "/images/accommodation/hotel-mare-466663903.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466663903.jpg?k=5b3080dad02a6e968b6beb5d00de753ad3dcce1a5067311238d52c7c9110d2fc&o=&hp=1"
 language: en
 slug: hotel-mare
 address: "ksamil Rruga Riviera, 9607 Ksamil, Albania"

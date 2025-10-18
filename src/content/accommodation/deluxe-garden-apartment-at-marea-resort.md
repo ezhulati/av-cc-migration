@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Garden Apartment at Marea Resort"
 description: "Deluxe Garden Apartment at Marea Resort, located a mere stone's throw away from the pristine shores of Qerret Beach and within easy reach of Mali I Robit Beach, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/deluxe-garden-apartment-at-marea-resort-8103dfb0481c.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
 language: en
 slug: deluxe-garden-apartment-at-marea-resort
 address: "Rruga Qerret Plazh, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Alban Apartment"
 description: "Alban Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/alban-apartment-488682879.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488682879.jpg?k=f429c27a2cc825b256831581b646fe1da2ada6a84c7a8e054d463ca5be410f11&o=&hp=1"
 language: en
 slug: alban-apartment
 address: "Street Ali Demi, Mangalem 21Complex, Staircase 11, Apt. No. 1163, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Perfect Attic"
 description: "Perfect Attic emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/perfect-attic-457977484.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457977484.jpg?k=4ff014946c599d32f9506bcd8c372ce1c32bc999e645cf694010f134b0eb6c97&o=&hp=1"
 language: en
 slug: perfect-attic
 address: "Rruga Myslym Shyri, Tirana, Albania"

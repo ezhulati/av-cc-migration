@@ -1,7 +1,7 @@
 ---
 title: "Vila Hyseni"
 description: "Vila Hyseni emerges as a serene oasis in Durrës, offering guests a tranquil garden and views of a quiet street, a mere stone's throw from the bustling Durres Beach, just 100 meters away."
-featuredImage: "/images/accommodation/vila-hyseni-469315666.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469315666.jpg?k=412af4b308a76f0df6d8b94ef78bc530a0395c7870fe5fde5aec4223d023867c&o=&hp=1"
 language: en
 slug: vila-hyseni
 address: "Rruga Venecia, 2001 Durrës, Albania"

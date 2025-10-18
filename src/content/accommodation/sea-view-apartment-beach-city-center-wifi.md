@@ -1,7 +1,7 @@
 ---
 title: "Sea view apartment/beach/city center/WiFi"
 description: "Discover the charm of Durrës from the comfort of the Sea View Apartment, a prime beachfront accommodation that promises more than just a place to stay."
-featuredImage: "/images/accommodation/sea-view-apartment-beach-city-center-wifi-352817225.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352817225.jpg?k=0429566816b9862990d4717506662721e755bdf8e3d861806a1236a0479139b5&o=&hp=1"
 language: en
 slug: sea-view-apartment-beach-city-center-wifi
 address: "Rruga Taulantia, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nicolas hill apartment"
 description: "Nicolas Hill Apartment emerges as a serene retreat in the heart of Durrës, a mere stone's throw away from the pristine shores of Shkëmbi i Kavajës Beach and a short stroll from the vibrant Golem Beach."
-featuredImage: "/images/accommodation/nicolas-hill-apartment-498479562.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498479562.jpg?k=dfe42574b0cfeb67a37db351b37dda8b247accfd2eee9e5f58041c017a78165f&o=&hp=1"
 language: en
 slug: nicolas-hill-apartment
 address: "7gf8+VVV,Dus, 1434 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Buzë Boutique Hotel"
 description: "Buzë Boutique Hotel stands as a premier destination for travelers seeking a blend of comfort and convenience in Sarandë, just a stone's throw away from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/buz-boutique-hotel-202717821.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/202717821.jpg?k=cf14aca33caa17bdc692f57f778111315d25eb8348abebf0e8ecb2f39cb4a708&o=&hp=1"
 language: en
 slug: buz-boutique-hotel
 address: "Rruga Butrinti, 1000 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Odeon Residence Apartment Ardian"
 description: "Odeon Residence Apartment Ardian emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned within easy reach of both Ri Beach and Vlore Beach."
-featuredImage: "/images/accommodation/odeon-residence-apartment-ardian-482670780.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482670780.jpg?k=57e6663bfa1152888293a76671515e6cbbaa97ebedc1b1572580b9e6a60cafea&o=&hp=1"
 language: en
 slug: odeon-residence-apartment-ardian
 address: "Rruga Amali Andoni, 9405 Vlorë, Albania"

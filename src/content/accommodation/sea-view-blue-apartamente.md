@@ -1,7 +1,7 @@
 ---
 title: "Sea View Blue Apartamente"
 description: "Sea View Blue Apartamente emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a stone's throw away from the serene Shkëmbi i Kavajës Beach and within easy reach of Durres Beach."
-featuredImage: "/images/accommodation/sea-view-blue-apartamente-475590964.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475590964.jpg?k=6fb2b1587723a9882b5bf305cf97d31e80b06008be9e0ebf13d8aa06b66254bf&o=&hp=1"
 language: en
 slug: sea-view-blue-apartamente
 address: "Rruga Iliria, 2021 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Dream house in Adriatic sea"
 description: "Dream House in Adriatic Sea stands as a prime choice for travelers seeking a serene getaway, merely 80 meters from the pristine Velipoja Beach."
-featuredImage: "/images/accommodation/dream-house-in-adriatic-sea-492921108.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492921108.jpg?k=493b7c970c004023a1aa3f9f85a4295924250cdf4a43fcc4b3b55da65d088adf&o=&hp=1"
 language: en
 slug: dream-house-in-adriatic-sea
 address: "Rruga Shtepia e Peshkatareve, 4001 Velipojë, Albania"

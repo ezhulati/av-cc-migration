@@ -1,7 +1,7 @@
 ---
 title: "Seaview Luxury Apartment"
 description: "Seaview Luxury Apartment emerges as a premier choice for travelers seeking unparalleled comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/seaview-luxury-apartment-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: seaview-luxury-apartment
 address: "Shetitorja e Plazhit, 2001 Durrës, Albania"

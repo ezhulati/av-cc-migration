@@ -1,7 +1,7 @@
 ---
 title: "Ejstel Residence Apartments"
 description: "Ejstel Residence Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/ejstel-residence-apartments-475311766.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475311766.jpg?k=02677585faff07baed93194d3d165354fb3b1f53c4afd012821a2ee2403b7fa6&o=&hp=1"
 language: en
 slug: ejstel-residence-apartments
 address: "Durres, Golem, Ejstel Residence Ap.68, 2001 Durrës, Albania"

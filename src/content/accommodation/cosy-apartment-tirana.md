@@ -1,7 +1,7 @@
 ---
 title: "Cosy Apartment Tirana"
 description: "Cosy Apartment Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/cosy-apartment-tirana-499282008.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499282008.jpg?k=0d877e0f2fba70de703fd868fbc3e125516f592b47e3c7d88e7d01e89ccbe974&o=&hp=1"
 language: en
 slug: cosy-apartment-tirana
 address: "Rruga Don Bosko, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lungomare view"
 description: "Lungomare View offers a refreshing escape in Vlorë, presenting guests with air-conditioned accommodations that boast a private balcony for an immersive experience."
-featuredImage: "/images/accommodation/lungomare-view-502518550.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502518550.jpg?k=4ca23f49fc948e997e150616700b20852c7df0864babb3d18fe1c1acd2ed7147&o=&hp=1"
 language: en
 slug: lungomare-view
 address: "Lagjia Pavaresia, Lungomare, Vlore, 9404 Vlorë, Albania"

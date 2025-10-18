@@ -1,7 +1,7 @@
 ---
 title: "Loft 2double Bed Stylish Apartment"
 description: "Loft 2Double Bed Stylish Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/loft-2double-bed-stylish-apartment-484392331.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484392331.jpg?k=538469912c188ff5478c0cda30ecf81be7c2ffea3b37eb3e87940582d612ee67&o=&hp=1"
 language: en
 slug: loft-2double-bed-stylish-apartment
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

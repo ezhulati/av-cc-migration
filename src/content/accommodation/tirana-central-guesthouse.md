@@ -1,7 +1,7 @@
 ---
 title: "Tirana Central GuestHouse"
 description: "Tirana Central GuestHouse emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-central-guesthouse-451481258.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451481258.jpg?k=ba02ac38010b37e1682b49cff3b6d30ac5eb23e82118d8ec193f0837d96398ca&o=&hp=1"
 language: en
 slug: tirana-central-guesthouse
 address: "Rruga e Durresit, Nd.118, Ap.8 - Prane \"Kafe Flora\", 1000 Tirana, Albania"

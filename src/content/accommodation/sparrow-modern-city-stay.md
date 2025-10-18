@@ -1,7 +1,7 @@
 ---
 title: "Sparrow Modern City Stay"
 description: "Sparrow Modern City Stay emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sparrow-modern-city-stay-506539217.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506539217.jpg?k=e44f8002392c1fc6034b40b2a2e32ac928b813327b69832f8f53199f773551d5&o=&hp=1"
 language: en
 slug: sparrow-modern-city-stay
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

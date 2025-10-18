@@ -1,7 +1,7 @@
 ---
 title: "Vila-Amo, Suites&Rooms in Tirana Center"
 description: "Vila-Amo, Suites&Rooms in Tirana Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/vila-amo-suites-rooms-in-tirana-center-420223592.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420223592.jpg?k=cb8604eccab520629e3dcea01db5a4f4c0a415373dcfa4932c96876752aa9574&o=&hp=1"
 language: en
 slug: vila-amo-suites-rooms-in-tirana-center
 address: "Rruga Fortuzi, Bulevardi Zogu I, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The Rooms Serviced Apartments Tirana"
 description: "Discover the epitome of modern comfort at The Rooms Serviced Apartments in Tirana, a prime choice for travelers seeking a blend of luxury and convenience."
-featuredImage: "/images/accommodation/the-rooms-serviced-apartments-tirana-107838721.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107838721.jpg?k=26e0c0d323cce461b8f948a5e91ef9e422f09c167dc05e704d3672bf8167e774&o=&hp=1"
 language: en
 slug: the-rooms-serviced-apartments-tirana
 address: "Rr. Sami Frasheri 56, 1019 Tirana, Albania"

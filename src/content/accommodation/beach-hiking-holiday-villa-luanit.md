@@ -1,7 +1,7 @@
 ---
 title: "Beach Hiking Holiday Villa Luanit"
 description: "Beach Hiking Holiday Villa Luanit emerges as a modern oasis in Tragjas, boasting a comprehensive renovation that has transformed it into a prime destination for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/beach-hiking-holiday-villa-luanit-347399771.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347399771.jpg?k=39ffe61cdd2f04deaf4325131f8ecc302413c0e66a99aab276a15a6314147bc1&o=&hp=1"
 language: en
 slug: beach-hiking-holiday-villa-luanit
 address: "Rruga Neim Dano Tragjas, 9401 Tragjas, Albania"

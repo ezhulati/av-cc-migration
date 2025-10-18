@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment Anabel"
 description: "Sea View Apartment Anabel emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/sea-view-apartment-anabel-462199700.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462199700.jpg?k=3727858d6323d2b6ab8fd6e6b2c3bd1a5076ce728e318dbae03508e83c2dcd16&o=&hp=1"
 language: en
 slug: sea-view-apartment-anabel
 address: "Rruga Kosova, 9401 Vlorë, Albania"

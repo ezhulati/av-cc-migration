@@ -1,7 +1,7 @@
 ---
 title: "RAINBOW HOUSE APARTMENT SARANDA"
 description: "Rainbow House Apartment Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/rainbow-house-apartment-saranda-373813512.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373813512.jpg?k=4f1e3ec3ffc807ac4a26484c9605b6077efbb6b7bdbb1621ddb82f21e59b32ce&o=&hp=1"
 language: en
 slug: rainbow-house-apartment-saranda
 address: "Rruga Pandeli Bocari, 9701 Sarandë, Albania"

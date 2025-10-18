@@ -1,7 +1,7 @@
 ---
 title: "Dai nonni 1"
 description: "Dai nonni 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/dai-nonni-1-482308567.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482308567.jpg?k=83b7751c35b0a945343cb946163159193073709cf682bba32485fd59b684a126&o=&hp=1"
 language: en
 slug: dai-nonni-1
 address: "Perroji i Agait 3 rd floor, Golem, Albania"

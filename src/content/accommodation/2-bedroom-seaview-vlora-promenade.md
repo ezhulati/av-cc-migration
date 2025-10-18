@@ -1,7 +1,7 @@
 ---
 title: "2 Bedroom seaview Vlora Promenade"
 description: "Discover the charm of Vlorë with a stay at the 2 Bedroom Seaview Vlora Promenade, a prime choice for travelers seeking comfort and convenience mere steps from Vlore Beach."
-featuredImage: "/images/accommodation/2-bedroom-seaview-vlora-promenade-495284606.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495284606.jpg?k=737df6baa957e0cded7dcc53d4878a77d8cc3e6acf170ca79e5cea473d2b6ee6&o=&hp=1"
 language: en
 slug: 2-bedroom-seaview-vlora-promenade
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

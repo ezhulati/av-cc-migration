@@ -1,7 +1,7 @@
 ---
 title: "City Central Apartment 2"
 description: "City Central Apartment 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-central-apartment-2-442305868.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442305868.jpg?k=a090716439fa098bcb72b15208fc6bdc3dd9dc0c4cfb960c5847a3aa4f298209&o=&hp=1"
 language: en
 slug: city-central-apartment-2
 address: "Rruga Xhorxhi Martini, 1060 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Costa Azul Apartment"
 description: "Costa Azul Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/costa-azul-apartment-383993403.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383993403.jpg?k=4f057b6b9e4bb66d59f55bf19fb6c4980dea812e57bebf78a83906df7b45888c&o=&hp=1"
 language: en
 slug: costa-azul-apartment
 address: "16 Rruga e Gjuzeve, 2504 Golem, Albania"

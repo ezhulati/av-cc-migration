@@ -1,7 +1,7 @@
 ---
 title: "Thethi Villas"
 description: "Thethi Villas emerges as a serene retreat, boasting garden views and the convenience of a balcony in each accommodation, merely 2."
-featuredImage: "/images/accommodation/thethi-villas-522734553.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522734553.jpg?k=9952d2a1f21afa3e82577f9fe6a21b2ec4381c62c721e7ab4c0ab2bef73e4616&o=&hp=1"
 language: en
 slug: thethi-villas
 address: "Rruga Fushe Fushe Thethi, 4002 Theth, Albania"

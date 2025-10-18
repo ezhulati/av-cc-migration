@@ -1,7 +1,7 @@
 ---
 title: "CC Apartment 2"
 description: "CC Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated a mere stone's throw away from the pristine Vlore Beach and within easy reach of Ri Beach."
-featuredImage: "/images/accommodation/cc-apartment-2-375145072.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375145072.jpg?k=c696c379ed814c3580f2d21cf7bb0aa48dca8f1dbde7bdda758ca36f0c6794cd&o=&hp=1"
 language: en
 slug: cc-apartment-2
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

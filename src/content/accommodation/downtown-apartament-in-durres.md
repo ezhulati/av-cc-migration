@@ -1,7 +1,7 @@
 ---
 title: "Downtown Apartament in Durres"
 description: "Downtown Apartment in Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience on their visit to Durrës."
-featuredImage: "/images/accommodation/downtown-apartament-in-durres-493350764.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493350764.jpg?k=3f8545b4c461f03189310ac4656ab490cb1724f1ae2eddddf4be8d840b2a49a7&o=&hp=1"
 language: en
 slug: downtown-apartament-in-durres
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

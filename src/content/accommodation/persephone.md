@@ -1,7 +1,7 @@
 ---
 title: "Persephone"
 description: "Persephone emerges as a serene retreat in the vibrant heart of Himare, merely a stone's throw away from the pristine shores of Livadhi Beach and the tranquil Spille Beach."
-featuredImage: "/images/accommodation/persephone-499108196.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499108196.jpg?k=cff462eeab3e611a93f2576a69e1385321ca39184fd42b427a9f212cd8c4cb46&o=&hp=1"
 language: en
 slug: persephone
 address: "Himare livadh-road himare, 9524 Himare, Albania"

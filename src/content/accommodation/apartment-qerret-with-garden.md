@@ -1,7 +1,7 @@
 ---
 title: "Apartment Qerret with Garden"
 description: "Apartment Qerret with Garden emerges as a serene retreat in the heart of Golem, Tirana County, offering a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/apartment-qerret-with-garden-AOh14GgAHEzw.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgAHEzwnrv1ExZgMiIom7izG_ELkdXQjjb_i5oM=s96-c64"
 language: en
 slug: apartment-qerret-with-garden
 address: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"

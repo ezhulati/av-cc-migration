@@ -1,7 +1,7 @@
 ---
 title: "BOULEVARD Apartment"
 description: "BOULEVARD Apartment emerges as a serene haven in the heart of Tirana, situated merely 700 meters from the iconic Skanderbeg Square and a short 5 km journey from the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/boulevard-apartment-487827462.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487827462.jpg?k=7674811399117f1cc789986758309cccd73601ab7ca3817b9dfbe0a068dff9a4&o=&hp=1"
 language: en
 slug: boulevard-apartment
 address: "Rruga Fortuzi Door nr. 2, Ap. 17, building 22, Floor 1, 1001 Tirana, Albania"

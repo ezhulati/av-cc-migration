@@ -1,7 +1,7 @@
 ---
 title: "A Cheerful villa with free parking space"
 description: "A Cheerful Villa stands as a serene oasis in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square and a short drive from the breathtaking views offered by the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/a-cheerful-villa-with-free-parking-space-ACg8ocJvcVHd.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocJvcVHdoB1yEpqu7CVmI3X8ft67gN5p1kRtldlkQ6bUp4c=s96-c64"
 language: en
 slug: a-cheerful-villa-with-free-parking-space
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

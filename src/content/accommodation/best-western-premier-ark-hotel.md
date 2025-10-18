@@ -1,7 +1,7 @@
 ---
 title: "Best Western Premier Ark Hotel"
 description: "Best Western Premier Ark Hotel stands as a beacon of comfort and convenience, directly opposite Tirana Airport, offering guests air-conditioned accommodations with complimentary WiFi access."
-featuredImage: "/images/accommodation/best-western-premier-ark-hotel-276142388.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276142388.jpg?k=7390439efeed8ce204da0c2b38ef5d4cd0eaf551091e1a74202e1bec9915a4b2&o=&hp=1"
 language: en
 slug: best-western-premier-ark-hotel
 address: "In front of Tirana International Airport, 1053 Rinas, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Atrium Apartment"
 description: "Atrium Apartment emerges as a serene retreat in the vibrant heart of Tirana, located just a short distance from the city's most iconic landmarks."
-featuredImage: "/images/accommodation/atrium-apartment-505618574.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505618574.jpg?k=182e0b69fd9ee3739949111e37914e3e5773a4e9d7cc65686e24043486736575&o=&hp=1"
 language: en
 slug: atrium-apartment
 address: "Rruga Selaudin Zorba, 1001 Tirana, Albania"

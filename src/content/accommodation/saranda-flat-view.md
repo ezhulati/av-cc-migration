@@ -1,7 +1,7 @@
 ---
 title: "saranda flat view"
 description: "Saranda Flat View emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-flat-view-474099700.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474099700.jpg?k=03d576b9c70e908aa33653b319bfa6f9a2599ad94d61ed2acd785b540b070745&o=&hp=1"
 language: en
 slug: saranda-flat-view
 address: "Rruga Pandeli Bocari, 9701 Sarandë, Albania"

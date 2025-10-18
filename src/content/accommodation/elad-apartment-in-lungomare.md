@@ -1,7 +1,7 @@
 ---
 title: "ELAD apartment in Lungomare"
 description: "ELAD Apartment in Lungomare emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë."
-featuredImage: "/images/accommodation/elad-apartment-in-lungomare-367829500.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367829500.jpg?k=f311b02d73865e08a1160a87f57bb5e6815a42019b91a9b1afb4a89f78fd0fa3&o=&hp=1"
 language: en
 slug: elad-apartment-in-lungomare
 address: "Rruga Çamëria, 9403 Vlorë, Albania"

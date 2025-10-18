@@ -1,7 +1,7 @@
 ---
 title: "Villa Kuci, Drobonik Berat"
 description: "Villa Kuci, Drobonik Berat, emerges as a premier choice for travelers seeking a blend of comfort and scenic beauty in Berat."
-featuredImage: "/images/accommodation/villa-kuci-drobonik-berat-438655041.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438655041.jpg?k=8efa2a6e581aaf4ebeb39fbe23af3cb81bc264031aa9e87935fee32823753658&o=&hp=1"
 language: en
 slug: villa-kuci-drobonik-berat
 address: "Drobonik, 5001 Berat, Albania"

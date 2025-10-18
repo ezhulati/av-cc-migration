@@ -1,7 +1,7 @@
 ---
 title: "Happy stories' apartment in city centre"
 description: "Happy Stories' Apartment in City Centre emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/happy-stories-apartment-in-city-centre-461908754.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461908754.jpg?k=ff1df697db217bd8f6c172f71e53fac0d51a2a0b6a112203449629cea34617d2&o=&hp=1"
 language: en
 slug: happy-stories-apartment-in-city-centre
 address: "Rruga Daut Borici, 4001 Shkodër, Albania"

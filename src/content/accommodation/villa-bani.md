@@ -1,7 +1,7 @@
 ---
 title: "Villa Bani"
 description: "Villa Bani emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/villa-bani-355718395.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355718395.jpg?k=c564b9f62fa17dd3dbdf9aef26a5492f997658b1c4576a3c39c22494d785c1d5&o=&hp=1"
 language: en
 slug: villa-bani
 address: "Rruga Permeti, 9706 Ksamil, Albania"

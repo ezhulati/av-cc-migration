@@ -1,7 +1,7 @@
 ---
 title: "Helia's Apartments Shkembi Kavajes"
 description: "Helia's Apartments Shkembi Kavajes emerges as a serene retreat in the vibrant city of Durrës, perfectly positioned just a stone's throw away from the pristine Shkëmbi i Kavajës Beach and a brief stroll from the bustling Durres Beach."
-featuredImage: "/images/accommodation/helia-s-apartments-shkembi-kavajes-469318446.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469318446.jpg?k=48b3779f6656691955ce8de013c955754b7be6aec60bbacc2c403861711738d7&o=&hp=1"
 language: en
 slug: helia-s-apartments-shkembi-kavajes
 address: "Rruga Shkembi i Kavajes, 2001 Durrës, Albania"

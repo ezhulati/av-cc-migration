@@ -1,7 +1,7 @@
 ---
 title: "Apartament 1+1 San Pietro Gjiri Lalzit"
 description: "Apartament 1+1 San Pietro Gjiri Lalzit emerges as a serene retreat in the vibrant city of Durrës, offering a unique blend of comfort and convenience for travelers seeking a memorable stay."
-featuredImage: "/images/accommodation/apartament-1-1-san-pietro-gjiri-lalzit-384397143.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384397143.jpg?k=32ea10f2db58dcb51c740325d4591310ee2bc3a5f7aad4571f1f72a781007d7f&o=&hp=1"
 language: en
 slug: apartament-1-1-san-pietro-gjiri-lalzit
 address: "Plazhi San Pietro, 1002 Durrës, Albania"

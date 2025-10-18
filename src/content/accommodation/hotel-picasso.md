@@ -1,7 +1,7 @@
 ---
 title: "Hotel Picasso"
 description: "Hotel Picasso emerges as a prime choice for travelers seeking a blend of comfort and adventure in Vlorë."
-featuredImage: "/images/accommodation/hotel-picasso-117589355.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117589355.jpg?k=795e7f722cefc80e58cfa733c8bc5c8afbc5b4577418956a99bf2eb1df12828b&o=&hp=1"
 language: en
 slug: hotel-picasso
 address: "Rruga Rradhime - Orikum, 9400 Vlorë, Albania"

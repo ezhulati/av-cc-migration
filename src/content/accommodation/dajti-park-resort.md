@@ -1,7 +1,7 @@
 ---
 title: "Dajti Park Resort"
 description: "Dajti Park Resort, located a mere 10 km from the Dajti Ekspres Cable Car in Priska e Madhe, stands out as a prime destination for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/dajti-park-resort-89217885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89217885.jpg?k=1efde514c6191c79753b3cc00548b49f2f9adbb90aa2da5ac7c44f6532272643&o=&hp=1"
 language: en
 slug: dajti-park-resort
 address: "Rruga Nacionale Tirane-Dajt Km8 SH54, 1001 Priska e Madhe, Albania"

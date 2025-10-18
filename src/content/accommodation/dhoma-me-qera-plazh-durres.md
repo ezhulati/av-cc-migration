@@ -1,7 +1,7 @@
 ---
 title: "Dhoma me qera plazh durres"
 description: "Dhoma me qera plazh durres emerges as a prime choice for travelers seeking a serene getaway in Durrës, offering air-conditioned accommodations complete with a balcony."
-featuredImage: "/images/accommodation/dhoma-me-qera-plazh-durres-478481802.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478481802.jpg?k=b155b462793f8b0ab615b5c5ae5485e9d2b7c11f332a6da0d1e83bcfce03254c&o=&hp=1"
 language: en
 slug: dhoma-me-qera-plazh-durres
 address: "Durres, Durrës, Albania"

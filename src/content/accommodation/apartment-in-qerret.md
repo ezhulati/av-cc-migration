@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Qerret"
 description: "Apartment in Qerret emerges as a prime choice for travelers seeking a serene getaway, mere steps from the pristine sands of Qerret Beach and a short drive from the tranquil Mali I Robit Beach."
-featuredImage: "/images/accommodation/apartment-in-qerret-429510602.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429510602.jpg?k=afc5cdba77a67d441ab3532da7f757c159468b5aa4a1dc04138cf01d9fc9c8d9&o=&hp=1"
 language: en
 slug: apartment-in-qerret
 address: "Rruga Qerret Plazh, 1001 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartamento a Dhermi"
 description: "Discover the serene beauty of Vlorë with a stay at Apartamento a Dhermi, a beachfront gem that boasts its own private beach area and captivating garden views."
-featuredImage: "/images/accommodation/apartamento-a-dhermi-487405982.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487405982.jpg?k=239b1da414e939bee0779721a6b692b5d689fd08e6ecb534dac74223ccf85543&o=&hp=1"
 language: en
 slug: apartamento-a-dhermi
 address: "Dhermi, Vlorë, Albania"

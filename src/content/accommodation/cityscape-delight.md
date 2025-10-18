@@ -1,7 +1,7 @@
 ---
 title: "Cityscape Delight"
 description: "Cityscape Delight emerges as a prime choice for travelers seeking a blend of urban vibrancy and serene mountain landscapes in Shkodër."
-featuredImage: "/images/accommodation/cityscape-delight-497883734.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497883734.jpg?k=e9fff37d514223482987602f9582c417ec26aa58249544df3b2ab7670eb7fada&o=&hp=1"
 language: en
 slug: cityscape-delight
 address: "Rruga Studenti 7d floor, 4001 Shkodër, Albania"

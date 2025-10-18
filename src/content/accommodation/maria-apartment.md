@@ -1,7 +1,7 @@
 ---
 title: "Maria Apartment"
 description: "Maria Apartment emerges as a charming choice for travelers seeking comfort and convenience in the heart of Gjirokastër."
-featuredImage: "/images/accommodation/maria-apartment-478322728.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478322728.jpg?k=ad50a6801610fa2ef5c9149930927a1123f8f53f66b8f38d8f47d8226538b053&o=&hp=1"
 language: en
 slug: maria-apartment
 address: "Rruga Granicë, 6001 Gjirokastër, Albania"

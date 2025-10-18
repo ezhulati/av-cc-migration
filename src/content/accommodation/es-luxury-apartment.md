@@ -1,7 +1,7 @@
 ---
 title: "ES Luxury Apartment"
 description: "ES Luxury Apartment stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/es-luxury-apartment-497867420.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497867420.jpg?k=c75038ef64a13e411ad651968005dce1756148e4465dc19bee5e52da95adbffd&o=&hp=1"
 language: en
 slug: es-luxury-apartment
 address: "Rruga Pavaresia 8th Floor, 2001 Durrës, Albania"

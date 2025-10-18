@@ -1,7 +1,7 @@
 ---
 title: "Vila Ebel"
 description: "Vila Ebel stands as a serene retreat in Korçë, a mere 43 km away from the tranquil Ohrid Lake Springs, offering guests a harmonious blend of comfort and convenience."
-featuredImage: "/images/accommodation/vila-ebel-170039043.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/170039043.jpg?k=d4802725138c5326f313382beb207412e4ab5d279c48ecc1eb83ea19bb36685f&o=&hp=1"
 language: en
 slug: vila-ebel
 address: "Bulevardi Republika Lagja 1, 7000 Korçë, Albania"

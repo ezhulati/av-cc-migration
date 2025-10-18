@@ -1,7 +1,7 @@
 ---
 title: "Vila Arber"
 description: "Vila Arber stands majestically atop a hill in Golem, Kavajë, amidst a serene landscape of olive trees."
-featuredImage: "/images/accommodation/vila-arber-54317004.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/54317004.jpg?k=e0b92303826ce7b7d95ea1675cdede62c8648d7bec4f58c4d72cfdc2352bc2f0&o=&hp=1"
 language: en
 slug: vila-arber
 address: "Lagja Gezdaraj, 1002 Golem, Albania"

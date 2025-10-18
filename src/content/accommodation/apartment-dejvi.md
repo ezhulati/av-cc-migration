@@ -1,7 +1,7 @@
 ---
 title: "Apartment Dejvi"
 description: "Apartment Dejvi stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, offering breathtaking sea views and the luxury of free WiFi and private parking, all within a mere 500 meters of Sarande Main Beach."
-featuredImage: "/images/accommodation/apartment-dejvi-189319650.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/189319650.jpg?k=35be4ece922c56e3aa034b380e0e47409d4d9f9913097215b982577cf974de3f&o=&hp=1"
 language: en
 slug: apartment-dejvi
 address: "Rruga Idriz Alidhima 1, 9701 Sarandë, Albania"

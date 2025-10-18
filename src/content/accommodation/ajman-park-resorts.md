@@ -1,7 +1,7 @@
 ---
 title: "Ajman Park & Resorts"
 description: "Ajman Park & Resorts emerges as a serene oasis in Shijak, located just 28 km away from the bustling Skanderbeg Square."
-featuredImage: "/images/accommodation/ajman-park-resorts-335000346.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335000346.jpg?k=e76204eea352d6436f61d3a505b7ce1ee66e92c633847d3fd979307ffc4eb416&o=&hp=1"
 language: en
 slug: ajman-park-resorts
 address: "SH84 Rruga e Shijakut, Shijak SH84, 8HV4+JG3 Shijak Tirana, 1001, 2013 Shijak, Albania"

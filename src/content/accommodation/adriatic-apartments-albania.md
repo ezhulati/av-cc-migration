@@ -1,7 +1,7 @@
 ---
 title: "Adriatic Apartments Albania"
 description: "Adriatic Apartments Albania emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/adriatic-apartments-albania-107925294.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107925294.jpg?k=2db1e985e60ff5a944b09ab6e712589cda0df6003b135548881084043cf9d8a3&o=&hp=1"
 language: en
 slug: adriatic-apartments-albania
 address: "Tek Shkembi I Kavajes Prane Hotel Andi, 1001 Durrës, Albania"

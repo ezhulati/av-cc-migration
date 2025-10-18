@@ -1,7 +1,7 @@
 ---
 title: "Beauty-sunset apartment"
 description: "Located directly on the shores of Durrës, mere steps from the pristine Durres Beach and a short distance from Shkëmbi i Kavajës Beach, Beauty-sunset apartment offers a prime beachfront experience."
-featuredImage: "/images/accommodation/beauty-sunset-apartment-426416863.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426416863.jpg?k=b7dacbd4fd4edf41e690f2d79beacf654f30705325c09756c52b9adcd153694e&o=&hp=1"
 language: en
 slug: beauty-sunset-apartment
 address: "Rruga Pavaresia, 2021 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment Donend"
 description: "Apartment Donend emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/apartment-donend-67173094.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67173094.jpg?k=d56bdb2001b55db75007ee85e37d5c9b0dfca6974876f1f14b5de6f1324ebdae&o=&hp=1"
 language: en
 slug: apartment-donend
 address: "Rugga Shatervanit, 5005 Berat, Albania"

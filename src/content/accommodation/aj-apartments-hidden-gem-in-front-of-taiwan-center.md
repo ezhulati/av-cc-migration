@@ -1,7 +1,7 @@
 ---
 title: "AJ Apartments - Hidden Gem in front of Taiwan Center"
 description: "AJ Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/aj-apartments-hidden-gem-in-front-of-taiwan-center-498708050.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498708050.jpg?k=9c07142bd2ff4de600e3717fdcefd2855acd9cd452a9dda663d84a3ed5f821b4&o=&hp=1"
 language: en
 slug: aj-apartments-hidden-gem-in-front-of-taiwan-center
 address: "Rruga Ibrahim Rugova 4-th, 1001 Tirana, Albania"

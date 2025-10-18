@@ -1,7 +1,7 @@
 ---
 title: "J&B Hotel"
 description: "J&B Hotel emerges as a prime choice for travelers seeking a serene retreat in Ksamil, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "/images/accommodation/j-b-hotel-358408249.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358408249.jpg?k=ab9818f309276ce59c7de6ac1763caea95e5715d190c085229309b951cbfd485&o=&hp=1"
 language: en
 slug: j-b-hotel
 address: "Rruga Sotira 7, 9706 Ksamil, Albania"

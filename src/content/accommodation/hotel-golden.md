@@ -1,7 +1,7 @@
 ---
 title: "Hotel Golden"
 description: "Hotel Golden, situated in the vibrant city of Elbasan and a mere 41 km from the historic Skanderbeg Square, stands out as a beacon of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/hotel-golden-383467604.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383467604.jpg?k=08d42b98deb98dc6e5dd5ee2551c296dc879f5c9a3c8551e56c826bcc814a31f&o=&hp=1"
 language: en
 slug: hotel-golden
 address: "Rruga Lef Nosi, 3001 Elbasan, Albania"

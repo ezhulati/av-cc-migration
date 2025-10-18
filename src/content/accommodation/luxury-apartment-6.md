@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment 6"
 description: "Luxury Apartment 6 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-apartment-6-461825358.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461825358.jpg?k=13d4e4700a74bd6cf1c2ccdffb034e0810762fadb86400a00b0e810ca12f0331&o=&hp=1"
 language: en
 slug: luxury-apartment-6
 address: "Rruga e Dibrës, 1010 Tirana, Albania"

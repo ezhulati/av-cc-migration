@@ -1,7 +1,7 @@
 ---
 title: "Rezidence Tredi"
 description: "Rezidence Tredi emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/rezidence-tredi-404032695.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404032695.jpg?k=4d65a9570bebd548a9b075277ac3fc5c01356feff8c2870998ede431ac61f2ab&o=&hp=1"
 language: en
 slug: rezidence-tredi
 address: "Rruga e Dibrës 61, 1011 Tirana, Albania"

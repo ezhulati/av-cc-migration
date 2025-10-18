@@ -1,7 +1,7 @@
 ---
 title: "Casa con impronta vintage a Nartë"
 description: "Casa con impronta vintage a Nartë emerges as a charming retreat in the heart of the Elbasan County region, offering guests a serene stay with the convenience of complimentary WiFi and private parking."
-featuredImage: "/images/accommodation/casa-con-impronta-vintage-a-nart-474039819.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474039819.jpg?k=512150fa3f59555e5a446de985580869ec0083c373a4cd5819ef8f01e1e4c07a&o=&hp=1"
 language: en
 slug: casa-con-impronta-vintage-a-nart
 address: "FFW5+XR8, Nartë, Albania"

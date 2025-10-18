@@ -1,7 +1,7 @@
 ---
 title: "Logli Apartments"
 description: "Logli Apartments emerges as a serene retreat in the historic heart of Gjirokastër, boasting a prime location just a stone's throw away from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/logli-apartments-451193329.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451193329.jpg?k=ca3a56bc991ce441e51cc3acbf9721012ace4e9cec63b25c4d93506996fec631&o=&hp=1"
 language: en
 slug: logli-apartments
 address: "Bulevardi 18 Shtatori, 6001 Gjirokastër, Albania"

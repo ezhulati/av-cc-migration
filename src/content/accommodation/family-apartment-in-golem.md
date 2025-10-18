@@ -1,7 +1,7 @@
 ---
 title: "Family Apartment in Golem"
 description: "Discover the charm of Golem with a stay at the Family Apartment in Golem, a serene retreat boasting a lush garden setting."
-featuredImage: "/images/accommodation/family-apartment-in-golem-357954985.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357954985.jpg?k=fcf153e104e95430df4d3ba5d915f773d6e6c0ecd4ee5b02ee299057fb8ad9c0&o=&hp=1"
 language: en
 slug: family-apartment-in-golem
 address: "Golem Kavaje, 2504 Golem, Albania"

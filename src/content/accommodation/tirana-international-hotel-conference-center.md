@@ -1,7 +1,7 @@
 ---
 title: "Tirana International Hotel & Conference Center"
 description: "Discover the epitome of elegance and convenience at the Tirana International Hotel & Conference Center, a prime destination for travelers seeking a blend of luxury and accessibility right in the heart of the city."
-featuredImage: "/images/accommodation/tirana-international-hotel-conference-center-523678439.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523678439.jpg?k=2b90b711547a7bce17328228879080ef1a2c1b848a39de996030a58a1f280f63&o=&hp=1"
 language: en
 slug: tirana-international-hotel-conference-center
 address: "Tirana city center (Skenderbeg Square), 1001 Tirana, Albania"

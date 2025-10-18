@@ -1,7 +1,7 @@
 ---
 title: "Hotel Epoka"
 description: "Hotel Epoka stands as a beacon of comfort and convenience in Shkodër, situated a mere 49 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/hotel-epoka-442023784.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442023784.jpg?k=34cb265049626b1d983199f215716f38a5304798af677c383e3425c44d23dca7&o=&hp=1"
 language: en
 slug: hotel-epoka
 address: "Rruga Hasan Riza Pasha, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rexhos Studios"
 description: "Rexhos Studios emerges as a prime choice for travelers seeking a blend of comfort and convenience in Himare, located just a stone's throw away from the serene Potam Beach."
-featuredImage: "/images/accommodation/rexhos-studios-188253146.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188253146.jpg?k=7a9cdfba915b05a9c9a0e79d03a4f3320472193c6de778e92d440ab98e833113&o=&hp=1"
 language: en
 slug: rexhos-studios
 address: "Rruge Vangjel zoto 79, 9425 Himare, Albania"

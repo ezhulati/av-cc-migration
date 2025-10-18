@@ -1,7 +1,7 @@
 ---
 title: "New green house"
 description: "Discover the charm of Tirana with a stay at New Green House, a serene holiday home located just a short distance from the city's vibrant heart, Skanderbeg Square, and the breathtaking Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/new-green-house-494693939.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494693939.jpg?k=98c8d9aadf870bf374ef1ba6409f82d7377726103d39ab3dd6ed22a4cad1e31a&o=&hp=1"
 language: en
 slug: new-green-house
 address: "Rruga Mihal Grameno, Tirana, Albania"

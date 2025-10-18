@@ -1,7 +1,7 @@
 ---
 title: "Gerard apartments"
 description: "Gerard Apartments emerges as a serene retreat in the vibrant heart of Sarandë, offering a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/gerard-apartments-376941106.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376941106.jpg?k=f4bc22343074a6542a233d603540ffc3175944502a9be02fec49c7315638c986&o=&hp=1"
 language: en
 slug: gerard-apartments
 address: "Rruga Idriz Alidhima, 9703 Sarandë, Albania"

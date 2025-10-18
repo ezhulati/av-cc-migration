@@ -1,7 +1,7 @@
 ---
 title: "Vila Qyteza"
 description: "Vila Qyteza emerges as a serene retreat in the heart of Korçë, offering a unique blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/vila-qyteza-503780638.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503780638.jpg?k=1de805ecc91b4a9d4231ee21a125dff4f9dfaf67a3a188f1e07acb79f189ee84&o=&hp=1"
 language: en
 slug: vila-qyteza
 address: "6 Rruga Ajet Xhindolli, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury apartments Blloku"
 description: "Luxury Apartments Blloku emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-apartments-blloku-421500518.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421500518.jpg?k=47ab605a9c1e34478e8d0d1456ba1e5c16d5f219a7c41f91973ad127f3da41cd&o=&hp=1"
 language: en
 slug: luxury-apartments-blloku
 address: "Bulevardi Bajram Curri, 1001 Tirana, Albania"

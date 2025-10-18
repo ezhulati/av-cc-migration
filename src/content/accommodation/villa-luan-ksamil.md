@@ -1,7 +1,7 @@
 ---
 title: "Villa Luan Ksamil"
 description: "Villa Luan Ksamil stands as a beacon of comfort and convenience, offering a serene escape just 700 meters from the pristine shores of Ksamil Beach."
-featuredImage: "/images/accommodation/villa-luan-ksamil-362879413.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362879413.jpg?k=084b2a8300d0001e66ffc6bc8e8662ddba1ee119eb98db437f733380168a531f&o=&hp=1"
 language: en
 slug: villa-luan-ksamil
 address: "villa luan ksamil, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lana River side apartment"
 description: "Lana River Side Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty in Tirana."
-featuredImage: "/images/accommodation/lana-river-side-apartment-416909543.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416909543.jpg?k=69e2da75cea1e7e6a683c6efd7c930b3e975cfc36da7bf451cd81bf175efdb7e&o=&hp=1"
 language: en
 slug: lana-river-side-apartment
 address: "Bulevardi Gjergj Fishta, 1001 Tirana, Albania"

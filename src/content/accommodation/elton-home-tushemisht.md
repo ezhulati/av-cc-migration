@@ -1,7 +1,7 @@
 ---
 title: "Elton Home Tushemisht"
 description: "Elton Home Tushemisht presents a serene beachfront escape in Pogradec, offering guests the luxury of a private beach area complemented by lush garden surroundings and an inviting terrace."
-featuredImage: "/images/accommodation/elton-home-tushemisht-361404780.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361404780.jpg?k=81a25036fd9f790cf6abd911992b2cacef10947de7a6613d6c3724bc6c762bf9&o=&hp=1"
 language: en
 slug: elton-home-tushemisht
 address: "Rruga Mendi Zavelani, Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SEAFRONT LUXURY APARTMENT 150 Meter SECURED PARKING"
 description: "SEAFRONT LUXURY APARTMENT in Vlorë stands out as a premier destination for travelers seeking an unparalleled stay by the sea."
-featuredImage: "/images/accommodation/seafront-luxury-apartment-150-meter-secured-parking-280961934.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280961934.jpg?k=b2f95d4832eea3abd1c8ca59daa47249c9efb8c8a44e6b5dab11febd9b93abc2&o=&hp=1"
 language: en
 slug: seafront-luxury-apartment-150-meter-secured-parking
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

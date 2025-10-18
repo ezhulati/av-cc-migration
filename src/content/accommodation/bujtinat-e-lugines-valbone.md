@@ -1,7 +1,7 @@
 ---
 title: "Bujtinat e lugines valbone"
 description: "Bujtinat e lugines valbone, located in the picturesque Kukës County region of Valbonë, presents a serene retreat with its stunning lake views and the convenience of a balcony."
-featuredImage: "/images/accommodation/bujtinat-e-lugines-valbone-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: bujtinat-e-lugines-valbone
 address: "Rruga Azem Hajdari, 8702 Valbonë, Albania"

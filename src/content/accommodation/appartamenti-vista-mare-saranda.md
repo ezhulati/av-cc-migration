@@ -1,7 +1,7 @@
 ---
 title: "Appartamenti Vista Mare Saranda"
 description: "Appartamenti Vista Mare Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/appartamenti-vista-mare-saranda-213522823.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/213522823.jpg?k=fedf89f92eab983c8f5792d3cc48d25503a677245e3fe168abed27fdf8767cc6&o=&hp=1"
 language: en
 slug: appartamenti-vista-mare-saranda
 address: "Rruga Butrinti, Lagja nr 1, 9000 Sarandë, Albania"

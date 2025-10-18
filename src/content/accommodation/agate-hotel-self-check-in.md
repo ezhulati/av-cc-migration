@@ -1,7 +1,7 @@
 ---
 title: "AGATE HOTEL self check in"
 description: "AGATE HOTEL self check in emerges as a prime choice for travelers seeking a seamless stay in Tirana, positioned conveniently close to cultural landmarks such as the House of Leaves and the Clock Tower of Tirana."
-featuredImage: "/images/accommodation/agate-hotel-self-check-in-462941798.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462941798.jpg?k=3e8ce0ae2c30fdf2c27fcf92c79d12fe009d54477df47a2fee776bcbc06cde12&o=&hp=1"
 language: en
 slug: agate-hotel-self-check-in
 address: "Rruga Reshit Petrela, 1001 Tirana, Albania"

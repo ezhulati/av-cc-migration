@@ -1,7 +1,7 @@
 ---
 title: "Sea view Luxury Apartment"
 description: "Sea View Luxury Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, positioned just a stone's throw away from Ri Beach and a short stroll from Vlore Beach."
-featuredImage: "/images/accommodation/sea-view-luxury-apartment-489002545.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489002545.jpg?k=985b9576bf3dbe84844cdfe8d5072a1355d334280a897e2e697635648271af3b&o=&hp=1"
 language: en
 slug: sea-view-luxury-apartment
 address: "Rruga Pavlo Flloko 8, 9402 Vlorë, Albania"

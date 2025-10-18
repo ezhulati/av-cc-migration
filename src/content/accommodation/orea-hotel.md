@@ -1,7 +1,7 @@
 ---
 title: "Orea Hotel"
 description: "Orea Hotel emerges as a serene oasis in Himare, strategically positioned within a short stroll from the pristine Llamani Beach and a mere 2."
-featuredImage: "/images/accommodation/orea-hotel-368628853.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368628853.jpg?k=dd29b800350e93cf1e8f5b88aa3565968675c290b81f6d965e4f2daea78cd2f4&o=&hp=1"
 language: en
 slug: orea-hotel
 address: "Llaman, 9425 Himare, Albania"

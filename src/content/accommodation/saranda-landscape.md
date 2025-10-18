@@ -1,7 +1,7 @@
 ---
 title: "Saranda Landscape"
 description: "Saranda Landscape emerges as a serene retreat in the vibrant city of Sarandë, strategically positioned just a short distance from the pristine Santa Quaranta Beach and the exclusive VIP Beach."
-featuredImage: "/images/accommodation/saranda-landscape-362860410.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362860410.jpg?k=fd94bae21ed2fb2b96f1224fe99f6c394a3e676c8f836370595c41148c89018b&o=&hp=1"
 language: en
 slug: saranda-landscape
 address: "Rruga Shen Dhimitri, Nivice,Sarande, 9701 Sarandë, Albania"

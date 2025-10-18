@@ -1,7 +1,7 @@
 ---
 title: "Jona Rooms"
 description: "Jona Rooms emerges as a serene oasis in Himare, boasting a seasonal outdoor swimming pool and offering tranquil street views that promise a restful retreat."
-featuredImage: "/images/accommodation/jona-rooms-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: jona-rooms
 address: "Milto Kallushi Hotel Frida, 9425 Himare, Albania"

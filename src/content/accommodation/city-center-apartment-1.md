@@ -1,7 +1,7 @@
 ---
 title: "City center Apartment 1"
 description: "City Center Apartment 1 emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-apartment-1-467821243.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467821243.jpg?k=d5af1da43629fa192aed3b7821551f3633aa132ee470da19558161b42a3818ff&o=&hp=1"
 language: en
 slug: city-center-apartment-1
 address: "Rruga e Bogdanëve Building 25, 7th Floor, Apartment 49, 1019 Tirana, Albania"

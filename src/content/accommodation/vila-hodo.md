@@ -1,7 +1,7 @@
 ---
 title: "Vila Hodo"
 description: "Vila Hodo stands as a serene oasis in Vlorë, conveniently located just a kilometer from Ri Beach and slightly further from the Beach at Government Villas, offering guests a blend of city and garden views from a comfortable distance of 1."
-featuredImage: "/images/accommodation/vila-hodo-383713188.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383713188.jpg?k=9edac06d09b8746c1327dbb15f94ce6e412b3c8feb1f006561381e8987582a3f&o=&hp=1"
 language: en
 slug: vila-hodo
 address: "23 Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

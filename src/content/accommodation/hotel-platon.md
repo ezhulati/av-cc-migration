@@ -1,7 +1,7 @@
 ---
 title: "Hotel Platon"
 description: "Hotel Platon emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë, located just a short stroll from the pristine Santa Quaranta Beach."
-featuredImage: "/images/accommodation/hotel-platon-366872711.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366872711.jpg?k=81e0d795463c6e5e4b9029a51e7548ac0de2b8c14b53fabd703ff678446bfff2&o=&hp=1"
 language: en
 slug: hotel-platon
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

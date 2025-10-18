@@ -1,7 +1,7 @@
 ---
 title: "Studio in Tirana"
 description: "Studio in Tirana emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modernity in Albania's vibrant capital."
-featuredImage: "/images/accommodation/studio-in-tirana-438473977.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438473977.jpg?k=ee788235a1115c56d8ecef38a83bb8ace1817ccc2cb8f8b15fd158becf455913&o=&hp=1"
 language: en
 slug: studio-in-tirana
 address: "Rruga Adem Jashari, 1056 Tirana, Albania"

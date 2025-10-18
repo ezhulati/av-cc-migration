@@ -1,7 +1,7 @@
 ---
 title: "2A New Bazaar Apartment"
 description: "2A New Bazaar Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/2a-new-bazaar-apartment-387005607.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387005607.jpg?k=7e10d7a12ce7094f8a3d3691fcbc9f0fbde4289e13c8f710722755d2328379d6&o=&hp=1"
 language: en
 slug: 2a-new-bazaar-apartment
 address: "Rruga Hoxhë Vokrri, 1001 Tirana, Albania"

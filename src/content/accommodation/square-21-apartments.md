@@ -1,7 +1,7 @@
 ---
 title: "Square 21 Apartments"
 description: "Square 21 Apartments emerges as a serene haven in the vibrant heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/square-21-apartments-422696390.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422696390.jpg?k=4d97507318881bab6b9fb057f1e8052dc501084f26b83b24ac7ade09d42d0edb&o=&hp=1"
 language: en
 slug: square-21-apartments
 address: "Shefqet Musaraj Kompleksi Square 21, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Beleris Rooms"
 description: "Beleris Rooms stands as a beacon of comfort and convenience in the picturesque town of Himare, offering guests a serene retreat just steps away from the pristine Potam and Prinos Beaches."
-featuredImage: "/images/accommodation/beleris-rooms-196214937.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196214937.jpg?k=f1e350a2f67132d99c023ec365049faddd1c9d76f9c6a5848cc203fa7a6afe4a&o=&hp=1"
 language: en
 slug: beleris-rooms
 address: "Potami, 9425 Himare, Albania"

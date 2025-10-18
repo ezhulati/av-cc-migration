@@ -1,7 +1,7 @@
 ---
 title: "TOKAapartment"
 description: "TOKAapartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tokaapartment-410854874.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410854874.jpg?k=e5439ad21ac7bcd1266c975e5f6bf314c8c4ebe4099225223d8bb3ccd82e6a98&o=&hp=1"
 language: en
 slug: tokaapartment
 address: "Rruga Sami Frashëri, Tirana, Albania"

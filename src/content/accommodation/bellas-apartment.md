@@ -1,7 +1,7 @@
 ---
 title: "Bellas apartment"
 description: "Bellas Apartment in Sarandë emerges as a prime choice for travelers seeking comfort and convenience, located just a short stroll from the pristine Maestral Beach and within easy reach of Santa Quaranta Beach."
-featuredImage: "/images/accommodation/bellas-apartment-362772780.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362772780.jpg?k=b15570a481427c1ef21926b75810e25baba5d0bd4065df3cbc18cc9f225aa268&o=&hp=1"
 language: en
 slug: bellas-apartment
 address: "Rruga Butrinti, 9170 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Tahiri"
 description: "Vila Tahiri emerges as a prime choice for travelers seeking spacious and serene accommodations in Golem, just a stone's throw away from the pristine shores of Mali I Robit Beach and Golem Beach."
-featuredImage: "/images/accommodation/vila-tahiri-473972798.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473972798.jpg?k=75dcc6ae233569413cf2b93de94f7018a9a6aabce1eb4e2279d0428896dd797c&o=&hp=1"
 language: en
 slug: vila-tahiri
 address: "Bulevardi i Palmave, Golem, Albania"

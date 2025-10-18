@@ -1,7 +1,7 @@
 ---
 title: "Flower Apartment Sarande"
 description: "Flower Apartment Sarande emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/flower-apartment-sarande-357710396.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357710396.jpg?k=628ac73fa8afb75029b325989bb022410d96b158838fde2624728df7bde5185f&o=&hp=1"
 language: en
 slug: flower-apartment-sarande
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

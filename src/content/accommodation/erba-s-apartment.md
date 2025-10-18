@@ -1,7 +1,7 @@
 ---
 title: "Erba's apartment"
 description: "Erba's Apartment emerges as a serene retreat in the heart of Sarandë, offering a blend of convenience and tranquility for travelers exploring the Vlorë County region."
-featuredImage: "/images/accommodation/erba-s-apartment-494177602.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494177602.jpg?k=d841063ef8ab5deb2a6f5ea6d0d7b6ea6a228bda709a70f1fd73d890a847cc04&o=&hp=1"
 language: en
 slug: erba-s-apartment
 address: "Rruga Mitat Hoxha 1, Sarandë, Albania"

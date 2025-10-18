@@ -1,7 +1,7 @@
 ---
 title: "RB Apartments Tirana"
 description: "RB Apartments Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/rb-apartments-tirana-481596529.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481596529.jpg?k=803fd906b7f19895dc21445e70daf678eac6f1d145bd4e98fb863bf2572690ad&o=&hp=1"
 language: en
 slug: rb-apartments-tirana
 address: "Rruga Sulejman Delvina In front of Selman Stermasi Stadium, 2nd Floor, 1001 Tirana, Albania"

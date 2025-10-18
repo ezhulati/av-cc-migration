@@ -1,7 +1,7 @@
 ---
 title: "Smart Lugano Apartment"
 description: "Smart Lugano Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/smart-lugano-apartment-499444217.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499444217.jpg?k=2a8eed3206b1b4112f0f0eef7af73f3f54a714f634f2ec0e8941d587d2cd9be1&o=&hp=1"
 language: en
 slug: smart-lugano-apartment
 address: "Rr Ramazan Gaxherri, Tirana, Albania"

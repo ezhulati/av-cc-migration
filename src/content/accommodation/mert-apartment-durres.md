@@ -1,7 +1,7 @@
 ---
 title: "MERT Apartment Durres"
 description: "MERT Apartment Durres presents an exceptional beachfront retreat in the vibrant city of Durrës, just a stone's throw away from the pristine Durres Beach and a scenic drive from Skanderbeg Square."
-featuredImage: "/images/accommodation/mert-apartment-durres-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: mert-apartment-durres
 address: "Rruga Ura e Dajlanit, 2001 Durrës, Albania"

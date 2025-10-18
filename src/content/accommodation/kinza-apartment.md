@@ -1,7 +1,7 @@
 ---
 title: "Kinza apartment"
 description: "Kinza Apartment emerges as a modern retreat in the heart of Sauk, offering a blend of convenience and serenity just a stone's throw from Skanderbeg Square and the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/kinza-apartment-510708827.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510708827.jpg?k=869ff36e0f1a35b17071ad6e4f1e8478d2c38330380dfb35ac36a10c7e3faf81&o=&hp=1"
 language: en
 slug: kinza-apartment
 address: "Rruga Hamdi Sina fz constructions nr 2 floor nr 3 flat 13, 1063 Sauk, Albania"

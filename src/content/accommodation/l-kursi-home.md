@@ -1,7 +1,7 @@
 ---
 title: "Lëkursi home"
 description: "Lëkursi Home emerges as a serene retreat in the vibrant city of Sarandë, perfectly positioned just a short distance from the pristine Santa Quaranta and VIP Beaches."
-featuredImage: "/images/accommodation/l-kursi-home-420778232.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/420778232.jpg?k=54cacb286644f566f10aaeac88578dc1a73525e3be573c9f1ea3dd22b83aa302&o=&hp=1"
 language: en
 slug: l-kursi-home
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

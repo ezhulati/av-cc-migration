@@ -1,7 +1,7 @@
 ---
 title: "Hotel Roi"
 description: "Hotel Roi stands as a beacon of comfort and convenience in Vlorë, mere steps away from the pristine sands of Vajana Beach."
-featuredImage: "/images/accommodation/hotel-roi-207776790.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207776790.jpg?k=abedcaf56956e3281001fe657f0b2f155d74d3e899c82c989d8a9fcfcf6ba502&o=&hp=1"
 language: en
 slug: hotel-roi
 address: "Rruga Vlore - Orikum km 7 (Jonufer), 9405 Vlorë, Albania"

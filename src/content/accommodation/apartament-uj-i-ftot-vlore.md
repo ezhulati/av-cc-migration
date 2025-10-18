@@ -1,7 +1,7 @@
 ---
 title: "apartament uj i ftot vlore"
 description: "Apartament Uj I Ftot Vlore presents a serene retreat in the vibrant city of Vlorë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/apartament-uj-i-ftot-vlore-487353313.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487353313.jpg?k=f9ad5be03c62d310720b394d51a7d38f337c909bde6c7a5828bc4eb803b007d8&o=&hp=1"
 language: en
 slug: apartament-uj-i-ftot-vlore
 address: "lungomare vlore, Vlorë, Albania"

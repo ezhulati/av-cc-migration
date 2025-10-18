@@ -1,7 +1,7 @@
 ---
 title: "Emi Sol Apartment"
 description: "Emi Sol Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/emi-sol-apartment-386380089.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386380089.jpg?k=17bf0da11978a53f0f35de546c676ee3233f91c4a2726d4de2afc53469c6adcf&o=&hp=1"
 language: en
 slug: emi-sol-apartment
 address: "Rruga Aleksandër Moisiu B piano II ap.7, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ledi Home"
 description: "Ledi Home emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/ledi-home-488232974.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488232974.jpg?k=325a95da7e4c01d5063a0f5e047a1f38cc4a9ed28ed978da568f465fa22184f8&o=&hp=1"
 language: en
 slug: ledi-home
 address: "Rruga Pavaresia 39/174+2-20, Durrës, Albania"

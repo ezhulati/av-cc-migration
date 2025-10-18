@@ -1,7 +1,7 @@
 ---
 title: "White house apartments"
 description: "White House Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, located a mere stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/white-house-apartments-467714064.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467714064.jpg?k=7e2b95ee392ea44cb9a3b10439b7e49565698586a071384893e44f336d60bf1e&o=&hp=1"
 language: en
 slug: white-house-apartments
 address: "Plaz 13, 2008 Durrës, Albania"

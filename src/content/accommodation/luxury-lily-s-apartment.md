@@ -1,7 +1,7 @@
 ---
 title: "Luxury Lily's apartment"
 description: "Luxury Lily's Apartment emerges as a premier choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/luxury-lily-s-apartment-466022468.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466022468.jpg?k=2680430c0eb37fedad1296c882e6c7c5316a598d10639c1e1a79fec719284203&o=&hp=1"
 language: en
 slug: luxury-lily-s-apartment
 address: "Sheshi \"Isa Boletini\", Rruga Arra e Madhe, Shkodër, Albania, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Gjiri i Lalezit, Durres"
 description: "Gjiri i Lalezit, Durres, emerges as a serene retreat located a mere 34 km from the bustling Skanderbeg Square, offering guests an exclusive slice of paradise with its private beach access and meticulously maintained garden."
-featuredImage: "/images/accommodation/gjiri-i-lalezit-durres-487235246.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487235246.jpg?k=d831fb108682a85d85b2ee1edcc32013ad6bc704dc4293faf667d05397256137&o=&hp=1"
 language: en
 slug: gjiri-i-lalezit-durres
 address: "Rruga Gjiri i Lalzit Apartment 4, 2015 Durrës, Albania"

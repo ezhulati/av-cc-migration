@@ -1,7 +1,7 @@
 ---
 title: "Diamond DREAM"
 description: "Diamond DREAM emerges as a standout choice for travelers seeking a blend of comfort and convenience in Sarandë, Vlorë County."
-featuredImage: "/images/accommodation/diamond-dream-485037134.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485037134.jpg?k=e9d55d2246837bda31f947ac94a0fbf1b10a421fd332401cb7ac2693b1e57b51&o=&hp=1"
 language: en
 slug: diamond-dream
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

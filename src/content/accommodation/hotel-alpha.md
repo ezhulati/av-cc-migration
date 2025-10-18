@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alpha"
 description: "Hotel Alpha stands out as a prime choice for travelers seeking both convenience and comfort, located just a short 200 meters from the vibrant Disco Mango Beach."
-featuredImage: "/images/accommodation/hotel-alpha-469594422.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469594422.jpg?k=ad38392f1ee12bad5b1a743d65e07b878a98a9ed069fdb5120298f04160016d2&o=&hp=1"
 language: en
 slug: hotel-alpha
 address: "Butrinti Road Kanali Cukes, 9703 Sarandë, Albania"

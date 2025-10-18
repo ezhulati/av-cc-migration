@@ -1,7 +1,7 @@
 ---
 title: "Saint Michelle Residence"
 description: "Saint Michelle Residence emerges as a serene oasis located in Shetaj, a mere 47 km away from the historic Durres Amphitheatre."
-featuredImage: "/images/accommodation/saint-michelle-residence-308603212.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308603212.jpg?k=e94d99fc893c4376ba9cb2f80147937e5d577474b7ffbc3851593e04c95139e9&o=&hp=1"
 language: en
 slug: saint-michelle-residence
 address: "Shetaj AB 27 Shetaj kepi i rodonit, 2001 Shetaj, Albania"

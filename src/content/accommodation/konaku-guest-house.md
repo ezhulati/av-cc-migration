@@ -1,7 +1,7 @@
 ---
 title: "Konaku Guest house"
 description: "Konaku Guest House emerges as a serene retreat in the historic heart of Gjirokastër, boasting breathtaking mountain vistas and a plethora of amenities designed for the modern traveler."
-featuredImage: "/images/accommodation/konaku-guest-house-236001347.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236001347.jpg?k=f5b8acf17b541659c5a886c4393ccc34bc21a971dd154ca2980763ce00b999f1&o=&hp=1"
 language: en
 slug: konaku-guest-house
 address: "Rruga Astrit Karagjozi, 6001 Gjirokastër, Albania"

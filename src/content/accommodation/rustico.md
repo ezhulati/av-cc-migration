@@ -1,7 +1,7 @@
 ---
 title: "RUSTICO"
 description: "RUSTICO emerges as a serene retreat in Shirokë, standing 49 km away from the bustling Port of Bar."
-featuredImage: "/images/accommodation/rustico-465770784.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465770784.jpg?k=002608ec1f578efe05113f6a1491fea9c397362a5c1f69dc8a13bd1d63fc2c8b&o=&hp=1"
 language: en
 slug: rustico
 address: "Rruga e Zarufes, 4001 Shirokë, Albania"

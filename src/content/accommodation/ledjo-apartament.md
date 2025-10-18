@@ -1,7 +1,7 @@
 ---
 title: "Ledjo Apartament"
 description: "Ledjo Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/ledjo-apartament-401165077.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401165077.jpg?k=d3f6ddc77dd549b61739ad9a750842ad36c27134ff1094ab75fdbf6d97736c27&o=&hp=1"
 language: en
 slug: ledjo-apartament
 address: "Lgj Pavaresia, Rr. Mato Robi, Stadiumi Flamurtari, 9401 Vlorë, Albania"

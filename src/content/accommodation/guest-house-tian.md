@@ -1,7 +1,7 @@
 ---
 title: "Guest House Tian"
 description: "Guest House Tian stands as a remarkable retreat in Durrës, merely a stone's throw away from the pristine Durres Beach and within a comfortable distance from key attractions such as Skanderbeg Square and the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/guest-house-tian-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10162547607444199/picture?type=square&height=64&width=64"
 language: en
 slug: guest-house-tian
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

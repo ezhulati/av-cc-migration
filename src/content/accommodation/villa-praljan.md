@@ -1,7 +1,7 @@
 ---
 title: "Villa Praljan"
 description: "Villa Praljan emerges as a serene oasis right on the doorstep of Borsh Beach, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/villa-praljan-307717357.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307717357.jpg?k=7ff6ee9cd079f0a8742aab15807f46c3d1b5ff2296661e0bfedf3b62746c9686&o=&hp=1"
 language: en
 slug: villa-praljan
 address: "Rruga Plazhit 124, 9708 Borsh, Albania"

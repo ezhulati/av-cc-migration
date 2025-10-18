@@ -1,7 +1,7 @@
 ---
 title: "Eldo Apartament"
 description: "Eldo Apartament emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/eldo-apartament-404753353.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404753353.jpg?k=20db4698c8414a03f044090bcb47b7396270358005fa3c7dcb156c1683532293&o=&hp=1"
 language: en
 slug: eldo-apartament
 address: "rruga fiqiri sheri ,nr 145 ,Tirana, 1001 Tirana, Albania"

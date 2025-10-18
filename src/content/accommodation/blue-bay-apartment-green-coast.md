@@ -1,7 +1,7 @@
 ---
 title: "Blue Bay apartment Green Coast"
 description: "Blue Bay Apartment Green Coast emerges as a serene retreat in the picturesque locale of Palasë, strategically positioned just a stone's throw away from the pristine shores of Nazar Beach and the tranquil Palasa Beach."
-featuredImage: "/images/accommodation/blue-bay-apartment-green-coast-302006489.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302006489.jpg?k=24fd192f0e6235f7bc48048dc1ac8d9b1d53b6b4bccd6135c7c05dd50e474b42&o=&hp=1"
 language: en
 slug: blue-bay-apartment-green-coast
 address: "Rruga e bregdetit Valamar Residence I 10 Ap B04, Palasë, Albania"

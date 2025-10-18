@@ -1,7 +1,7 @@
 ---
 title: "Guest House Pogradec"
 description: "Guest House Pogradec emerges as a prime choice for travelers seeking a serene retreat close to the enchanting Ohrid Lake Springs, just 7."
-featuredImage: "/images/accommodation/guest-house-pogradec-488104121.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488104121.jpg?k=6f754debb449ea8bda422a396c1a7a654d2a87ad8c9e8dc411570c07022eaac6&o=&hp=1"
 language: en
 slug: guest-house-pogradec
 address: "Rruga Pjeter Bogdani, Pogradec, Albania"

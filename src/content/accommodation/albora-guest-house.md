@@ -1,7 +1,7 @@
 ---
 title: "Albora Guest House"
 description: "Albora Guest House emerges as a serene retreat, offering guests a unique blend of comfort and tranquility with its inner courtyard views."
-featuredImage: "/images/accommodation/albora-guest-house-518180771.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518180771.jpg?k=94d090b5308b286e9acafd6859bafde5e251a281fa95e59c52ba3ef048366dd8&o=&hp=1"
 language: en
 slug: albora-guest-house
 address: "Rruga Pilo Filka no 6, 9303 Fier, Albania"

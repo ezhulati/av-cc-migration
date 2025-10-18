@@ -1,7 +1,7 @@
 ---
 title: "Denis House - Private Rooms & Guesthouse Gjirokastra"
 description: "Denis House - Private Rooms & Guesthouse Gjirokastra emerges as a charming retreat in the historic heart of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/denis-house-private-rooms-guesthouse-gjirokastra-310688362.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310688362.jpg?k=8aeaa8ecc4982cfe47311b876e2fa88e6ddf7f8566c086122bd992354296b794&o=&hp=1"
 language: en
 slug: denis-house-private-rooms-guesthouse-gjirokastra
 address: "Rruga Pazari i Vjetër Pllake, 6001 Gjirokastër, Albania"

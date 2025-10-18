@@ -1,7 +1,7 @@
 ---
 title: "Holiday Center Apartment"
 description: "Holiday Center Apartment emerges as a serene retreat for travelers seeking both tranquility and adventure."
-featuredImage: "/images/accommodation/holiday-center-apartment-465784247.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465784247.jpg?k=a4be59c00d65465dcf82b17105e9230f92889c94c48dd2ba5533d850fa48e50f&o=&hp=1"
 language: en
 slug: holiday-center-apartment
 address: "Stadiumi Loro Borici, 4001 Shkodër, Albania"

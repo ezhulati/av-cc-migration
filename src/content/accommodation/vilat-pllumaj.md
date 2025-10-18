@@ -1,7 +1,7 @@
 ---
 title: "Vilat Pllumaj"
 description: "Vilat Pllumaj emerges as a serene retreat in the heart of Gropat e Selcës, offering guests a unique blend of natural beauty and comfort."
-featuredImage: "/images/accommodation/vilat-pllumaj-460468672.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460468672.jpg?k=794765f487253039474f53c7774a994c1641761f9321c02bf93737cc59eedd60&o=&hp=1"
 language: en
 slug: vilat-pllumaj
 address: "Gropat e Selcës, Albania, 4001 Gropat e Selcës, Albania"

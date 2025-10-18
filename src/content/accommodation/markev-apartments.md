@@ -1,7 +1,7 @@
 ---
 title: "Markev Apartments"
 description: "Markev Apartments emerges as a modern oasis of comfort and convenience, situated just a stone's throw away from the serene Beach at Government Villas in Vlorë."
-featuredImage: "/images/accommodation/markev-apartments-448414445.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448414445.jpg?k=a569af130d541fb7d34896d1f645559f6ae980e5f0fe8490778624bcf62d485f&o=&hp=1"
 language: en
 slug: markev-apartments
 address: "Rruga Pano Xhaho, 9405 Vlorë, Albania"

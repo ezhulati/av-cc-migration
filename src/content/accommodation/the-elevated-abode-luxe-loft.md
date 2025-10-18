@@ -1,7 +1,7 @@
 ---
 title: "The Elevated Abode Luxe Loft"
 description: "The Elevated Abode Luxe Loft emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/the-elevated-abode-luxe-loft-512137757.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512137757.jpg?k=b56d63b4f7135f6fa873c629aeaa5d35fed5f88f9249474f6fb87b31c20d3c96&o=&hp=1"
 language: en
 slug: the-elevated-abode-luxe-loft
 address: "Rruga Lule Bore, 2001 Durrës, Albania"

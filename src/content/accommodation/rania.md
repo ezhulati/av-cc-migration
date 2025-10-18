@@ -1,7 +1,7 @@
 ---
 title: "Rania"
 description: "Rania stands as a prime beachfront gem in Durrës, merely a stone's throw away from the serene Durres Beach."
-featuredImage: "/images/accommodation/rania-478099131.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478099131.jpg?k=c6e21a0f087f319449874a32ed17802be8f85882b970ff0c3a187438601bd75b&o=&hp=1"
 language: en
 slug: rania
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "L&G Hotel"
 description: "L&G Hotel emerges as a serene oasis in the heart of Vlorë, merely a stone's throw away from the pristine Vjetër Beach."
-featuredImage: "/images/accommodation/l-g-hotel-483327614.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483327614.jpg?k=06f60cd668ad16f086c3cf986e0b156a13340eaffb51bee085844bbc33d38b07&o=&hp=1"
 language: en
 slug: l-g-hotel
 address: "Rruga Aleks Çaçi, 9403 Vlorë, Albania"

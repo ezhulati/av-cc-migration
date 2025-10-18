@@ -1,7 +1,7 @@
 ---
 title: "Hotel with Castle View"
 description: "Hotel with Castle View stands as a remarkable retreat in Gjirokastër, offering breathtaking mountain vistas and a mere 45 km journey from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-with-castle-view-475938685.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475938685.jpg?k=e0dfad9dd492a00832158a08aa0413c70ad89ae60b8c13ab4d0e757159d6c0be&o=&hp=1"
 language: en
 slug: hotel-with-castle-view
 address: "Rruga Astrit Karagjozi, 6001 Gjirokastër, Albania"

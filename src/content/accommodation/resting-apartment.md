@@ -1,7 +1,7 @@
 ---
 title: "Resting Apartment"
 description: "Resting Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "/images/accommodation/resting-apartment-486043449.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486043449.jpg?k=4472ee5e8d397c2f65ee6c571ea702a0e0017218e69e5756575bfe242a9d7f6f&o=&hp=1"
 language: en
 slug: resting-apartment
 address: "Rruga Kristaq Prifti, Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Ervin First Floor"
 description: "Vila Ervin First Floor emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, located just a short stroll from the pristine sands of Ksamil Beach 9 and within easy reach of Paradise Beach."
-featuredImage: "/images/accommodation/vila-ervin-first-floor-378834383.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378834383.jpg?k=d4ea881cf58bd07c297092ea0927cd79515412b49a77a8739d65a9e503681471&o=&hp=1"
 language: en
 slug: vila-ervin-first-floor
 address: "Rruga Rinia,Ksamil, 9706 Ksamil, Albania"

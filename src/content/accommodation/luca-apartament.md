@@ -1,7 +1,7 @@
 ---
 title: "Luca apartament"
 description: "Luca Apartment emerges as a serene retreat in Kamëz, strategically positioned just a short drive from the heart of Albania's vibrant history and natural beauty."
-featuredImage: "/images/accommodation/luca-apartament-395852177.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/395852177.jpg?k=ee3454c57a2c6075c8027d29602b27668ec53f7d0359db5f431b35cc644e4016&o=&hp=1"
 language: en
 slug: luca-apartament
 address: "Rruga Beselidhja, 1054 Kamëz, Albania"

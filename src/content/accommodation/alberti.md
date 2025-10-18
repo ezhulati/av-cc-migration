@@ -1,7 +1,7 @@
 ---
 title: "ALBERTI"
 description: "ALBERTI stands out as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/alberti-499281655.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499281655.jpg?k=622c5b6d696dfba90ff44c3982187f2f8eae7871a40dd6e6f052f01983d9e859&o=&hp=1"
 language: en
 slug: alberti
 address: "42Shëtitorja Wilson, 4501 Shëngjin, Albania"

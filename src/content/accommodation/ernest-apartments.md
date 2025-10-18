@@ -1,7 +1,7 @@
 ---
 title: "Ernest Apartments"
 description: "Ernest Apartments emerges as a prime choice for travelers seeking self-catering accommodations with a touch of convenience and comfort on the sea side of Sarandë."
-featuredImage: "/images/accommodation/ernest-apartments-356366063.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356366063.jpg?k=caf4e556d91d2c4b19e9e602230e165821176bf5fb15ed60ed11863dc50c1dec&o=&hp=1"
 language: en
 slug: ernest-apartments
 address: "Rr. Mitat Hoxha that connect 17 Shkurti Street, 9703 Sarandë, Albania"

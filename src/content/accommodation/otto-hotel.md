@@ -1,7 +1,7 @@
 ---
 title: "Otto Hotel"
 description: "Otto Hotel emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/otto-hotel-469057352.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469057352.jpg?k=b38e5c9c482754d63801d3a31358e30f7d43c49dd33091f45b7d1aee030be1b8&o=&hp=1"
 language: en
 slug: otto-hotel
 address: "Ksamil, Albania Dea Street, 9706 Ksamil, Albania"

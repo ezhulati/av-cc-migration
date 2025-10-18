@@ -1,7 +1,7 @@
 ---
 title: "Downtown Flat near Center with 24h Self Check-In"
 description: "Downtown Flat near Center with 24h Self Check-In emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Tirana."
-featuredImage: "/images/accommodation/downtown-flat-near-center-with-24h-self-check-in-411948946.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411948946.jpg?k=633e30980b8f90f78cc0d0a4a2f1236ac7bc286484ad95ebff28599ba6b9b995&o=&hp=1"
 language: en
 slug: downtown-flat-near-center-with-24h-self-check-in
 address: "Rruga Pjeter Budi, 1001 Tirana, Albania"

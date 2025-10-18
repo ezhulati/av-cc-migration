@@ -1,7 +1,7 @@
 ---
 title: "Home Hotel"
 description: "Home Hotel, situated just a short drive from the heart of Tirana, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/home-hotel-209037139.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209037139.jpg?k=653be5afcd628ef4cbd167589aeec8a08df3890c683e1e5c109857b44ff1d40c&o=&hp=1"
 language: en
 slug: home-hotel
 address: "Rruga Daniel Ndreka, 1000 Tirana, Albania"

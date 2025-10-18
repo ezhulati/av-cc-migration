@@ -1,7 +1,7 @@
 ---
 title: "HOTEL FLAVIA"
 description: "Hotel Flavia stands out in Poliçan for offering a comfortable and convenient stay, complete with complimentary private parking and diligent housekeeping services."
-featuredImage: "/images/accommodation/hotel-flavia-487308192.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487308192.jpg?k=c4780ae9a3a9b9e877daa0f6b9409ccefedf51b98c485ae7090f6acd9a55ddb8&o=&hp=1"
 language: en
 slug: hotel-flavia
 address: "HOTEL FLAVIA, 5404 Poliçan, Albania"

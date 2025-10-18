@@ -1,7 +1,7 @@
 ---
 title: "Mirage Hotel"
 description: "Mirage Hotel, positioned just steps from the pristine sands of Golem Beach, emerges as a prime choice for travelers seeking both relaxation and convenience."
-featuredImage: "/images/accommodation/mirage-hotel-302238927.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302238927.jpg?k=349f5e314b1b3229ee7662fffff0bc194c22fbff95edbd1bf4744837987cddb7&o=&hp=1"
 language: en
 slug: mirage-hotel
 address: "GOLEM BULEVARDI I PISHAVE, 2504 Golem, Albania"

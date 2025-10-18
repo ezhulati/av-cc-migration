@@ -1,7 +1,7 @@
 ---
 title: "Casa Dhuli"
 description: "Casa Dhuli emerges as a serene retreat in the heart of Borsh, Vlorë County, boasting a prime location just 200 meters from the pristine Borsh Beach."
-featuredImage: "/images/accommodation/casa-dhuli-487461024.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487461024.jpg?k=e0c570375704a5dfff50b27ed46719e38bc084c4e17b1647c5664a9475e4461d&o=&hp=1"
 language: en
 slug: casa-dhuli
 address: "Borsh, Borsh, Albania"

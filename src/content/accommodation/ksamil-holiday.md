@@ -1,7 +1,7 @@
 ---
 title: "Ksamil holiday"
 description: "Ksamil Holiday emerges as a serene retreat, located merely a stone's throw away from the pristine Coco Beach."
-featuredImage: "/images/accommodation/ksamil-holiday-467272395.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467272395.jpg?k=43e52e586ad5d5a8ac2ae89444e4683483cdb9ca0bdee4fefb660ccc59888310&o=&hp=1"
 language: en
 slug: ksamil-holiday
 address: "Ali Pasha Tepelena, 9701 Ksamil, Albania"

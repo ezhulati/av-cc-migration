@@ -1,7 +1,7 @@
 ---
 title: "Entire penthouse Air Albania Stadium"
 description: "Entire Penthouse Air Albania Stadium emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/entire-penthouse-air-albania-stadium-490492925.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490492925.jpg?k=8e31f8f3831bea32eb467a2e71daa4902bd44f72caf9c083561e88df3fdaae10&o=&hp=1"
 language: en
 slug: entire-penthouse-air-albania-stadium
 address: "Rruga Dervish Hima 41/8, 1010 Tirana, Albania"

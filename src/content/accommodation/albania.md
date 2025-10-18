@@ -1,7 +1,7 @@
 ---
 title: "Albania"
 description: "Discover the charm of Shkodër with a stay at this inviting apartment located in the heart of Shkoder County, Albania."
-featuredImage: "/images/accommodation/albania-495761539.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495761539.jpg?k=7460d08dc8341710b1c9b3df48d9e3cd8bebfe48edc65e1c46c9144321adad1a&o=&hp=1"
 language: en
 slug: albania
 address: "Rruga Kolë Heqimi, 4001 Shkodër, Albania"

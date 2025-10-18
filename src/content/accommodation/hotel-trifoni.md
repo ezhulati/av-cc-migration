@@ -1,7 +1,7 @@
 ---
 title: "Hotel Trifoni"
 description: "Hotel Trifoni in Përmet stands out as a serene retreat, boasting a lush garden, an inviting terrace, and a welcoming bar, all complemented by complimentary WiFi accessible across the premises."
-featuredImage: "/images/accommodation/hotel-trifoni-489684516.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489684516.jpg?k=685eb261c4811f2317a5f42c77af3e76b804c4459385986cef70f4849ede3c50&o=&hp=1"
 language: en
 slug: hotel-trifoni
 address: "Rruga nacionale permet kelcyre km 0 prane ures se qytetit, 6401 Përmet, Albania"

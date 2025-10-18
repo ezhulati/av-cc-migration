@@ -1,7 +1,7 @@
 ---
 title: "Guest house tirana"
 description: "Guest House Tirana emerges as a charming retreat for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/guest-house-tirana-481916461.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481916461.jpg?k=ec77d24fc4de5a943cd0d2a6ad998294c657f962c3543248467407ce14dbf3b2&o=&hp=1"
 language: en
 slug: guest-house-tirana
 address: "Rruga Myslym Lela 212, Tirana, Albania"

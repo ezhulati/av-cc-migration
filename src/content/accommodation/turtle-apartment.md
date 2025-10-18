@@ -1,7 +1,7 @@
 ---
 title: "Turtle Apartment"
 description: "Turtle Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, just a stone's throw away from the serene Durres Beach."
-featuredImage: "/images/accommodation/turtle-apartment-307383590.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307383590.jpg?k=a43dd1e4de2e9961e69a48f0585420a2c36eebfdf99c72859155c6281d9bfe65&o=&hp=1"
 language: en
 slug: turtle-apartment
 address: "Rr. Porta e Detit 17. Ap. 20. , 2008 Durrës, Albania"

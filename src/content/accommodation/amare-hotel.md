@@ -1,7 +1,7 @@
 ---
 title: "Amare Hotel"
 description: "Amare Hotel, located just moments away from the pristine shores of Shëngjin Beach, stands as a beacon of comfort and luxury for travelers seeking an unforgettable stay."
-featuredImage: "/images/accommodation/amare-hotel-313659485.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313659485.jpg?k=843cf8f62ed872ac80a8976fcd3793169d42779ebaf8c9c7b35fcf51dbf16792&o=&hp=1"
 language: en
 slug: amare-hotel
 address: "Rruga Shëngjin - Kune 1, 4503 Shëngjin, Albania"

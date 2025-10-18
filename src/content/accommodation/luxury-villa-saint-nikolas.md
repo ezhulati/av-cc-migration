@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa Saint Nikolas"
 description: "Luxury Villa Saint Nikolas, located in the serene Korçë County region of Voskopojë, presents an idyllic retreat with breathtaking mountain views."
-featuredImage: "/images/accommodation/luxury-villa-saint-nikolas-415171880.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415171880.jpg?k=140311fb2087aef1ebbce6a15720413e432273ffa95b2a30151082725227c440&o=&hp=1"
 language: en
 slug: luxury-villa-saint-nikolas
 address: "Rruga Lekasit, 7029 Voskopojë, Albania"

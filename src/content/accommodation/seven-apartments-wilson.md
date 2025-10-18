@@ -1,7 +1,7 @@
 ---
 title: "Seven Apartments Wilson"
 description: "Seven Apartments Wilson emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/seven-apartments-wilson-511879064.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511879064.jpg?k=6af3d111b35e4484ffd9e223e8135a8de73fdea6329022d599e3a8be8250de13&o=&hp=1"
 language: en
 slug: seven-apartments-wilson
 address: "Rruga Ymer Kurti, 1019 Tirana, Albania"

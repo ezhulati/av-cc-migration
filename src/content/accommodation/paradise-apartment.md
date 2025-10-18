@@ -1,7 +1,7 @@
 ---
 title: "PARADISE APARTMENT"
 description: "PARADISE APARTMENT stands as a serene retreat in the vibrant heart of Sarandë, a stone's throw away from the pristine shores of Flamingo Beach, Mango Beach, and Santa Quaranta Beach."
-featuredImage: "/images/accommodation/paradise-apartment-375865546.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375865546.jpg?k=d7bbd0813dc96821a1ce7b48f5f9783e1c831de7643ab3e655544926ac5f50ce&o=&hp=1"
 language: en
 slug: paradise-apartment
 address: "Lagjia 1, turizem kanali qukes, Sarande, 9702 Sarandë, Albania"

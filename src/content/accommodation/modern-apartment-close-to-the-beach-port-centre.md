@@ -1,7 +1,7 @@
 ---
 title: "Modern apartment close to the beach,port & centre"
 description: "Discover the epitome of convenience and comfort at this modern apartment, perfectly positioned just a stone's throw away from Saranda City Beach and a brief stroll from the vibrant heart of Sarandë."
-featuredImage: "/images/accommodation/modern-apartment-close-to-the-beach-port-centre-519160182.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519160182.jpg?k=da1cd505ded9604204f1f49eb1b5c4d7a7c1374a3eb7ca1f30795facee88204f&o=&hp=1"
 language: en
 slug: modern-apartment-close-to-the-beach-port-centre
 address: "Rruga Ismail Qemali, 9701 Sarandë, Albania"

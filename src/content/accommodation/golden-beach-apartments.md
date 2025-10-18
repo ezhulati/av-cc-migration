@@ -1,7 +1,7 @@
 ---
 title: "Golden Beach Apartments"
 description: "Golden Beach Apartments emerges as a refreshed and inviting option for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/golden-beach-apartments-508625423.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508625423.jpg?k=a4058d4853d3c768db7dfc7b7a2d666660879463bb722dde49630d5b6c0fabc2&o=&hp=1"
 language: en
 slug: golden-beach-apartments
 address: "SH4, 2001 Durrës, Albania"

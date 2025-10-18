@@ -1,7 +1,7 @@
 ---
 title: "THE OLD TOWN CLOCK"
 description: "THE OLD TOWN CLOCK, situated in the historic heart of Gjirokastër and a mere 44 km from the serene Zaravina Lake, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/the-old-town-clock-257189803.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257189803.jpg?k=60ba80ec9b84d88b6f4dc1abcc0e868a529255b82d9ec3371bc149c39181b1d6&o=&hp=1"
 language: en
 slug: the-old-town-clock
 address: "Rruga Alqi Kondi 5698, 6002 Gjirokastër, Albania"

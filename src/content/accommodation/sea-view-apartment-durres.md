@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment Durres"
 description: "Sea View Apartment Durres emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/sea-view-apartment-durres-447596513.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447596513.jpg?k=9bbab6c172d5fd9679a53d9d7e5729ec5fe342f0d02eed31f2cfc355403869e9&o=&hp=1"
 language: en
 slug: sea-view-apartment-durres
 address: "Plazh 13 33 (5th floor), 8518 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Alma's appartament"
 description: "Alma's Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and serenity in Sarandë."
-featuredImage: "/images/accommodation/alma-s-appartament-491276288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491276288.jpg?k=a1bf2f539d5b2b47ac2007727d01701d8e0b5192e3c878212e0f1be84cfa11d7&o=&hp=1"
 language: en
 slug: alma-s-appartament
 address: "Rruga Butrinti 10, 9701 Sarandë, Albania"

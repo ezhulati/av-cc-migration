@@ -1,7 +1,7 @@
 ---
 title: "New Studio near New Bazaar - Tirana City Center"
 description: "Discover the charm of Tirana with a stay at New Studio near New Bazaar - Tirana City Center, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/new-studio-near-new-bazaar-tirana-city-center-464047107.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464047107.jpg?k=985d2c3f86cef6ad9c8d07b19ed6df8bde38b4622d91a86e1b0924362cd40a13&o=&hp=1"
 language: en
 slug: new-studio-near-new-bazaar-tirana-city-center
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

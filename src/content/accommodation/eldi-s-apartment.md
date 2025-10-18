@@ -1,7 +1,7 @@
 ---
 title: "Eldi's Apartment"
 description: "Eldi's Apartment emerges as a serene oasis in Golem, perfectly positioned mere steps from the pristine sands of Mali I Robit Beach and the vibrant Golem Beach."
-featuredImage: "/images/accommodation/eldi-s-apartment-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: eldi-s-apartment
 address: "St. Qemal Stafa, St. Sulejman Delvina, Golem,Albania, 2504 Golem, Albania"

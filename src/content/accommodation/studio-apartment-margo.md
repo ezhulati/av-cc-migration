@@ -1,7 +1,7 @@
 ---
 title: "Studio apartment Margo"
 description: "Studio Apartment Margo presents a captivating retreat right on the doorstep of Durrës's Shkëmbi i Kavajës Beach, with the soothing sands of Golem Beach just a leisurely stroll away."
-featuredImage: "/images/accommodation/studio-apartment-margo-AATXAJzFa8wk.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJzFa8wkXqFj5Fc-bFucbZNssIpt0XN4GI7DJZvh=s96-c64"
 language: en
 slug: studio-apartment-margo
 address: "Rruga Shkembi i Kavajes, 2504 Durrës, Albania"

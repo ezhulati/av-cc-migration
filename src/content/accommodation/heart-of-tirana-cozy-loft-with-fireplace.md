@@ -1,7 +1,7 @@
 ---
 title: "Heart of Tirana Cozy Loft with Fireplace"
 description: "Heart of Tirana Cozy Loft with Fireplace emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/heart-of-tirana-cozy-loft-with-fireplace-400310975.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400310975.jpg?k=943d56658200bda3827e966e336073c9544e8b34fa8a41ff94e2fc9b78692789&o=&hp=1"
 language: en
 slug: heart-of-tirana-cozy-loft-with-fireplace
 address: "Rruga Hoxha Tahsim No 18, 1000 Tirana, Albania"

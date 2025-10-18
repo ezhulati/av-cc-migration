@@ -1,7 +1,7 @@
 ---
 title: "Arnie's Sunny Seaside Residence"
 description: "Arnie's Sunny Seaside Residence emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë."
-featuredImage: "/images/accommodation/arnie-s-sunny-seaside-residence-366658704.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366658704.jpg?k=eb30c1c98aedf0ca355fafd06c24ee0ca1013f5dfcc6dda6439a45cd02626747&o=&hp=1"
 language: en
 slug: arnie-s-sunny-seaside-residence
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

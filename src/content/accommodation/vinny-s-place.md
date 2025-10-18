@@ -1,7 +1,7 @@
 ---
 title: "Vinny’s Place"
 description: "Vinny's Place emerges as a charming retreat in the heart of Pogradec, Korçë County, offering guests a serene escape with the convenience of modern amenities."
-featuredImage: "/images/accommodation/vinny-s-place-365168649.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365168649.jpg?k=9e5d9efe163fcc0b43752365889ed843bb72a9c60e470c7ced7df14791f9208f&o=&hp=1"
 language: en
 slug: vinny-s-place
 address: "Rruga Rinia Road, Pall. 164, App 6, Pogradec, Albania"

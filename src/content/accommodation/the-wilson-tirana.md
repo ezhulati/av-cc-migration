@@ -1,7 +1,7 @@
 ---
 title: "The Wilson Tirana"
 description: "The Wilson Tirana emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/the-wilson-tirana-455314155.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455314155.jpg?k=3ef293b02da7e301584507d78b4e931af4fdd14455820c0c183cd48e5f852b15&o=&hp=1"
 language: en
 slug: the-wilson-tirana
 address: "Rruga Abdyl Frashëri, 1010 Tirana, Albania"

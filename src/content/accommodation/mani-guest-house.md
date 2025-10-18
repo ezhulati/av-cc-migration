@@ -1,7 +1,7 @@
 ---
 title: "\"Mani Guest House\""
 description: "Mani Guest House, situated in the historic heart of Gjirokastër, presents a serene garden and welcoming bar, making it a standout choice for travelers."
-featuredImage: "/images/accommodation/mani-guest-house-463146543.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463146543.jpg?k=c50ee6b4414072f769bd0512cbeca45cf2da1f8ccba84d1a4506ded850d0e367&o=&hp=1"
 language: en
 slug: mani-guest-house
 address: "Rruga Ropi Jani, 6001 Gjirokastër, Albania"

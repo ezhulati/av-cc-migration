@@ -1,7 +1,7 @@
 ---
 title: "Room in Apartment - Blue Breeze Side View Apartment"
 description: "Discover the charm of Sarandë from the comfort of the Blue Breeze Side View Apartment, a guest house that boasts not only a prime location but also breathtaking views of the sea and mountains."
-featuredImage: "/images/accommodation/room-in-apartment-blue-breeze-side-view-apartment-478580863.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478580863.jpg?k=204513ef947c7c2f4ba519ffbb7721da553d6bea57422d903cfc555149b40a71&o=&hp=1"
 language: en
 slug: room-in-apartment-blue-breeze-side-view-apartment
 address: "Rruga Gjergj Araniti, 9700 Sarandë, Albania"

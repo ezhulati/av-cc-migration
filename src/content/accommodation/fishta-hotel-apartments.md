@@ -1,7 +1,7 @@
 ---
 title: "Fishta Hotel & Apartments"
 description: "Fishta Hotel & Apartments in Velipojë stands out as a prime choice for travelers seeking comfort and convenience in a serene setting."
-featuredImage: "/images/accommodation/fishta-hotel-apartments-193627586.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193627586.jpg?k=1cc58d202d68cc1bcbefe57c97197bb4df2a81eeca5afc9deb2890dfaa3b07f8&o=&hp=1"
 language: en
 slug: fishta-hotel-apartments
 address: "Qender Velipoje, 4020 Velipojë, Albania"

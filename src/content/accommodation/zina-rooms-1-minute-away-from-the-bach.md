@@ -1,7 +1,7 @@
 ---
 title: "Zina Rooms 1 minute away from the bach"
 description: "Zina Rooms emerges as a prime choice for travelers seeking both convenience and comfort, located just a stone's throw away from the pristine Durres Beach and within easy reach of the vibrant Skanderbeg Square."
-featuredImage: "/images/accommodation/zina-rooms-1-minute-away-from-the-bach-ACg8ocJXsLB5.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocJXsLB5irlg6G39eOhwHKkNzwJWz5Ih-6NxF3O5bv0J=s96-c64"
 language: en
 slug: zina-rooms-1-minute-away-from-the-bach
 address: "Ruga Pavarsia Lagja 13 Plazh Hekurudha Durres, 2008 Durrës, Albania"

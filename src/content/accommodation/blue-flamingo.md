@@ -1,7 +1,7 @@
 ---
 title: "Blue Flamingo"
 description: "Blue Flamingo emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/blue-flamingo-478789766.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478789766.jpg?k=1471900af013e57a9acaa7cbf9b30c70dd64372d57cead8f7e706cb400cf9691&o=&hp=1"
 language: en
 slug: blue-flamingo
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

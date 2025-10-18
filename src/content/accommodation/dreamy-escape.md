@@ -1,7 +1,7 @@
 ---
 title: "Dreamy Escape"
 description: "Dreamy Escape emerges as a serene haven for travelers seeking a blend of comfort and convenience, situated a mere 33 km from the bustling Skanderbeg Square."
-featuredImage: "/images/accommodation/dreamy-escape-520693022.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520693022.jpg?k=fb0bf85274c5f6ae6d6d443e9e172dade37edef2ec8782735f3459574b6daddb&o=&hp=1"
 language: en
 slug: dreamy-escape
 address: "pjeze, 2013 Shijak, Albania"

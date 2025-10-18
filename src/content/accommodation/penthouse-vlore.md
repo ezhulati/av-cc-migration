@@ -1,7 +1,7 @@
 ---
 title: "Penthouse Vlore"
 description: "Penthouse Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just a stone's throw away from Vlore Beach and within easy reach of Ri Beach."
-featuredImage: "/images/accommodation/penthouse-vlore-471774052.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471774052.jpg?k=661c7b1d5c97029028084aa4dac50b1200b4dc26c051f08c172571ad109c0d9c&o=&hp=1"
 language: en
 slug: penthouse-vlore
 address: "Vlore - Kanine, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Arjan Piro"
 description: "Vila Arjan Piro stands out as a serene retreat in the vibrant city of Sarandë, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/vila-arjan-piro-485038748.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485038748.jpg?k=bf831e642a811cda281e8ac9d6429cf26e4c8704941868ec0c0bedcbb2784bd0&o=&hp=1"
 language: en
 slug: vila-arjan-piro
 address: "Rruga Skënderbeu, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury Villa Saint Sofia"
 description: "Luxury Villa Saint Sofia emerges as a serene retreat in the heart of Voskopojë, Korçë County, boasting breathtaking garden views from its private balcony."
-featuredImage: "/images/accommodation/luxury-villa-saint-sofia-415184248.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415184248.jpg?k=1c7425d8e082d9a51ea389cc7f5eb118c702b2d50dbee444ee9ea6a6d30abe01&o=&hp=1"
 language: en
 slug: luxury-villa-saint-sofia
 address: "Rruga Lekas, 7029 Voskopojë, Albania"

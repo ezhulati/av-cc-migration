@@ -1,7 +1,7 @@
 ---
 title: "Cosy sea view studio"
 description: "Cosy Sea View Studio emerges as a prime beachfront gem in Vlorë, strategically positioned just a stone's throw away from Vlore Beach and a short stroll from Ri Beach."
-featuredImage: "/images/accommodation/cosy-sea-view-studio-473514774.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473514774.jpg?k=ad37e4e4fb7e8de0bebb2cce234243c4b4173abed86992176660a7313239fa8f&o=&hp=1"
 language: en
 slug: cosy-sea-view-studio
 address: "Rruga Mehmet Agalliu 4 floor, 9401 Vlorë, Albania"

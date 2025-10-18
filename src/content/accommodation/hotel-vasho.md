@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vasho"
 description: "Hotel Vasho stands as a beacon of comfort and convenience in the heart of Gjirokastër, a mere 44 km away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-vasho-284793820.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284793820.jpg?k=579f472f1c3d941c4085f57b64effbb875a5d1ec34e7f35d7593f1851fbf4b20&o=&hp=1"
 language: en
 slug: hotel-vasho
 address: "Bulevardi 18 Shtatori, 6002 Gjirokastër, Albania"

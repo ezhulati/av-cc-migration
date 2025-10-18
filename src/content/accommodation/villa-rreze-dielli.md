@@ -1,7 +1,7 @@
 ---
 title: "Villa Rreze Dielli"
 description: "Villa Rreze Dielli stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/villa-rreze-dielli-454890801.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454890801.jpg?k=476fd404ed7ff9609b7b7cc19cbe0e65cd18cde190328768d1191b43d9959309&o=&hp=1"
 language: en
 slug: villa-rreze-dielli
 address: "Rruga Pelivan Leskaj, 9401 Vlorë, Albania"

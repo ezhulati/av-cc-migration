@@ -1,7 +1,7 @@
 ---
 title: "Elvi apartment"
 description: "Elvi Apartment emerges as a serene oasis in the heart of Tirana, offering a blend of convenience and tranquility just steps away from the city's cultural heartbeat."
-featuredImage: "/images/accommodation/elvi-apartment-492108456.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492108456.jpg?k=3950bf20ffc5102d01dce98a903b28fbdd04ffbc31afc82c6665f0c86522ecba&o=&hp=1"
 language: en
 slug: elvi-apartment
 address: "Rruga Ramazan Bogdani 6th floor, 1001 Tirana, Albania"

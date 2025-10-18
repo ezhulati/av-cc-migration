@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Rei's Apartment"
 description: "Lungomare Rei's Apartment stands out as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/lungomare-rei-s-apartment-377282404.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377282404.jpg?k=7c40909b15c51fbe82e336a0cae99fafa66633be2624dc54218ceb8b9cc253a5&o=&hp=1"
 language: en
 slug: lungomare-rei-s-apartment
 address: "Shetitorja, Durrës, Albania"

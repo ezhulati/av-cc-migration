@@ -1,7 +1,7 @@
 ---
 title: "Odeon Residence Apartment Ralf"
 description: "Odeon Residence Apartment Ralf emerges as a prime choice for travelers seeking a serene beachfront getaway in Vlorë, merely a stone's throw away from Ri Beach and a short distance from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/odeon-residence-apartment-ralf-477480598.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477480598.jpg?k=acaade1f06c8fb1e55cd17dd1db3d246e56205e2d96800c0f9b94bb1cca01f1b&o=&hp=1"
 language: en
 slug: odeon-residence-apartment-ralf
 address: "Rruga Amali Andoni Apartment 7, 9405 Vlorë, Albania"

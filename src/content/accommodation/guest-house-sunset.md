@@ -1,7 +1,7 @@
 ---
 title: "Guest House Sunset"
 description: "Guest House Sunset, located in the historic heart of Berat, presents a serene retreat for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/guest-house-sunset-525235411.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525235411.jpg?k=628471fb5d94b3f09db824e1dfac711075d8e9f6c0f37318f958a5e977f20806&o=&hp=1"
 language: en
 slug: guest-house-sunset
 address: "Rruga Antipatrea, 5001 Berat, Albania"

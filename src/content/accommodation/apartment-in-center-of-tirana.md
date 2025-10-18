@@ -1,7 +1,7 @@
 ---
 title: "Apartment in center of Tirana"
 description: "Discover the charm of Tirana from the comfort of a centrally located apartment, a stone's throw away from the city's most captivating historical sites."
-featuredImage: "/images/accommodation/apartment-in-center-of-tirana-412037396.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/412037396.jpg?k=9418f746147cba73cdff22146ccc7c32257f4e15864edb394bdd5ef963801c73&o=&hp=1"
 language: en
 slug: apartment-in-center-of-tirana
 address: "Rruga Vangjush Furxhi, pallati nr.8, shkalla 2, kati 5, ap.18, 1001 Tirana, Albania"

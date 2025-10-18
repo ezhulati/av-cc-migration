@@ -1,7 +1,7 @@
 ---
 title: "Comfort 1 Apartment"
 description: "Comfort 1 Apartment in Sarandë stands out as a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/comfort-1-apartment-448001799.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/448001799.jpg?k=dffce76503f17cbe50fa6f37001ffbb5b3f84c337fcfae03174db8e8ba0956bd&o=&hp=1"
 language: en
 slug: comfort-1-apartment
 address: "Rruga Onhezmi 86, 9701 Sarandë, Albania"

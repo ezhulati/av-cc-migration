@@ -1,7 +1,7 @@
 ---
 title: "JD Luxury Apartments"
 description: "JD Luxury Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience on the Vlorë seafront."
-featuredImage: "/images/accommodation/jd-luxury-apartments-439714923.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439714923.jpg?k=c3f83464692669492e4fb5c861e084e0ff974250550c719d4cb088cc4d8b8e1f&o=&hp=1"
 language: en
 slug: jd-luxury-apartments
 address: "Rruga Piro Sava, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DAJTI PARADISE RESORT"
 description: "DAJTI PARADISE RESORT, located a mere 18 km from the scenic Dajti Ekspres Cable Car in Tirana, stands out as a beacon of comfort and luxury."
-featuredImage: "/images/accommodation/dajti-paradise-resort-521755351.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521755351.jpg?k=948ba95e19d1af7b977a50a7da76b79663cf9968bd61fc3da7e7dab23d4e6b1d&o=&hp=1"
 language: en
 slug: dajti-paradise-resort
 address: "Rruga Dajti, 1001 Tirana, Albania"

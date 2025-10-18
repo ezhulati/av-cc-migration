@@ -1,7 +1,7 @@
 ---
 title: "Grand Blue Fafa Resort & SPA"
 description: "Grand Blue Fafa Resort & SPA stands as a premier destination for travelers seeking a blend of luxury and comfort right on the Golem beachfront."
-featuredImage: "/images/accommodation/grand-blue-fafa-resort-spa-225398598.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/225398598.jpg?k=b93f504991bbac8fea9c0061c305380e4f3aba5b462805a7ec1294c4842a4b14&o=&hp=1"
 language: en
 slug: grand-blue-fafa-resort-spa
 address: "Rruga Kompleksit, 1000 Golem, Albania"

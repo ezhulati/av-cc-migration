@@ -1,7 +1,7 @@
 ---
 title: "Cortina House Berat"
 description: "Cortina House Berat emerges as a serene retreat in the heart of Kuçovë, Berat County, offering guests a harmonious blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/cortina-house-berat-402693003.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402693003.jpg?k=07c9dccc120e4b17539b3f576c4b9c412f0ab8fb05a2303cf211986e4c2a9b60&o=&hp=1"
 language: en
 slug: cortina-house-berat
 address: "96 Rruga Perondia, Kuçovë, Albania"

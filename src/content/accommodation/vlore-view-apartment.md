@@ -1,7 +1,7 @@
 ---
 title: "Vlore View Apartment"
 description: "Vlore View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/vlore-view-apartment-185530167.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185530167.jpg?k=14bda89761dfc488b366748b7b8a10480d1611baa0bb7e12bca790c0441b52ef&o=&hp=1"
 language: en
 slug: vlore-view-apartment
 address: "Rruga Azem Sulo, 9401 Vlorë, Albania"

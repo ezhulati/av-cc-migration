@@ -1,7 +1,7 @@
 ---
 title: "SAHATI Hotel & Restaurant"
 description: "SAHATI Hotel & Restaurant, located in the vibrant heart of Korçë, stands out as a beacon of comfort and hospitality, merely a stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/sahati-hotel-restaurant-279371566.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279371566.jpg?k=b2b2886ecbcee45c8827807e16160eee79cb156239ed1cb6ecc59bf70de9bb34&o=&hp=1"
 language: en
 slug: sahati-hotel-restaurant
 address: "Rruga Asim Vokshi, 7001 Korçë, Albania"

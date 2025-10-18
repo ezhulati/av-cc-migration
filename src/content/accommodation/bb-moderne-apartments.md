@@ -1,7 +1,7 @@
 ---
 title: "BB Moderne Apartments"
 description: "BB Moderne Apartments is a prime choice for travelers seeking comfortable accommodations in Sarandë."
-featuredImage: "/images/accommodation/bb-moderne-apartments-296653190.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/296653190.jpg?k=2e0729bc78d263bbdc0b9a8ea02da004d0cdb53c7c3794a3370bf5064e55a549&o=&hp=1"
 language: en
 slug: bb-moderne-apartments
 address: "Rr.Ismal Qemali nr 97 Lagja Kodra Sarand, 9701 Sarandë, Albania"

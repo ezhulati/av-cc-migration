@@ -1,7 +1,7 @@
 ---
 title: "Royal Stay"
 description: "Royal Stay emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a short stroll from the pristine Vlore Beach and within easy reach of Ri Beach."
-featuredImage: "/images/accommodation/royal-stay-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: royal-stay
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

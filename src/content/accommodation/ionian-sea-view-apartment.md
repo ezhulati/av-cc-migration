@@ -1,7 +1,7 @@
 ---
 title: "Ionian Sea View Apartment"
 description: "Ionian Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and breathtaking views in Sarandë."
-featuredImage: "/images/accommodation/ionian-sea-view-apartment-97600007.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97600007.jpg?k=396c97667ca028a3d5d4a72473a409d26a80a4bef90cb1b58d5594d4818bb1e2&o=&hp=1"
 language: en
 slug: ionian-sea-view-apartment
 address: "135 Rruga 40 Shenjtorët, 9701 Sarandë, Albania"

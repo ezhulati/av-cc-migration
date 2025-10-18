@@ -1,7 +1,7 @@
 ---
 title: "Vila Anxhelo"
 description: "Vila Anxhelo stands out as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, located just a short 600-meter stroll from the serene Vjetër Beach."
-featuredImage: "/images/accommodation/vila-anxhelo-866dca38dcc3.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
 language: en
 slug: vila-anxhelo
 address: "Rruga Muco Delo Ish Zyrat e pyjores Vlore, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment in the Tirana center \"Blloku\" - above Bar Xixa"
 description: "Apartment in the Tirana Center \"Blloku\" - above Bar Xixa emerges as a prime choice for travelers seeking the comfort of home with the excitement of Tirana's vibrant city life right at their doorstep."
-featuredImage: "/images/accommodation/apartment-in-the-tirana-center-blloku-above-bar-xixa-445756911.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445756911.jpg?k=5716575e4f0919eb6e94b2c8335b762c551452913b9bf33c80ecbb55813742be&o=&hp=1"
 language: en
 slug: apartment-in-the-tirana-center-blloku-above-bar-xixa
 address: "Rruga Nikolla Tupe, Tirana, Albania"

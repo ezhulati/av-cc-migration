@@ -1,7 +1,7 @@
 ---
 title: "Gjikoka Apartment"
 description: "Gjikoka Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Orikum, boasting a splendid terrace with sweeping sea views."
-featuredImage: "/images/accommodation/gjikoka-apartment-456397312.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456397312.jpg?k=10cc500ef7e25e015a2808659ab932f67ad28e7f9855e24908bab8f1f19effc0&o=&hp=1"
 language: en
 slug: gjikoka-apartment
 address: "Rruga Kaonët 5 piano interno 18, 9426 Orikum, Albania"

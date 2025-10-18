@@ -1,7 +1,7 @@
 ---
 title: "Villa Smeralda"
 description: "Villa Smeralda stands as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach and a short stroll from Saranda City Beach."
-featuredImage: "/images/accommodation/villa-smeralda-199472761.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199472761.jpg?k=ce28cf8fd7dacfb27ca8e456cba0254b9fabbdb66ee05786943eae2fd546f966&o=&hp=1"
 language: en
 slug: villa-smeralda
 address: "Rruga Apostol Cuni , 9701 Sarandë, Albania"

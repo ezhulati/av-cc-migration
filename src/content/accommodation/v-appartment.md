@@ -1,7 +1,7 @@
 ---
 title: "V-Appartment"
 description: "V-Appartment shines as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/v-appartment-526935329.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526935329.jpg?k=eb643a0d85b328ee9107fec657c889b5c5b583fcda3b885600e9208dcc3fec4a&o=&hp=1"
 language: en
 slug: v-appartment
 address: "109 Rruga e Kavajës, 1000 Tirana, Albania"

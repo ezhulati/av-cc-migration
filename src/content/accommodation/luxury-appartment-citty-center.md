@@ -1,7 +1,7 @@
 ---
 title: "Luxury appartment Citty center"
 description: "Luxury Apartment City Center in Fier stands out as a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/luxury-appartment-citty-center-405010057.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405010057.jpg?k=cd8c4f7f7aa69e08181f89fec207103248af0f1837627023720daee9df46253a&o=&hp=1"
 language: en
 slug: luxury-appartment-citty-center
 address: "Rruga Jakov Mile, 9301 Fier, Albania"

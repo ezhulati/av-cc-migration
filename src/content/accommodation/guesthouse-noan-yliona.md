@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Noan&Yliona"
 description: "Guesthouse Noan&Yliona emerges as a serene retreat, offering a unique blend of comfort and convenience, just a short stroll from the pristine sands of Ksamil Beach 9."
-featuredImage: "/images/accommodation/guesthouse-noan-yliona-492592180.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492592180.jpg?k=8c5924e287b153639683083c2fb732713d8a560510fe6d8f95813ca5ebb18152&o=&hp=1"
 language: en
 slug: guesthouse-noan-yliona
 address: "SH81, 9706 Ksamil, Albania"

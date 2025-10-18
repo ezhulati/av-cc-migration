@@ -1,7 +1,7 @@
 ---
 title: "Ajsi Two Bedrooms Apartment"
 description: "Ajsi Two Bedrooms Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/ajsi-two-bedrooms-apartment-462772867.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462772867.jpg?k=3dbf6c13c9b0c07850341835d996b0df867cb0028ddceb3e6ce04aba29fba0b3&o=&hp=1"
 language: en
 slug: ajsi-two-bedrooms-apartment
 address: "Rruga Janaq Kumi, 9701 Sarandë, Albania"

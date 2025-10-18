@@ -1,7 +1,7 @@
 ---
 title: "Urban City Center"
 description: "Urban City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/urban-city-center-477438867.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477438867.jpg?k=6aa141bd92069ba0ddb50eb9674aeefc079691b0f290631739099afd271361b6&o=&hp=1"
 language: en
 slug: urban-city-center
 address: "Bulevardi Dëshmorët e Kombit 64 shkalla3, kati 5, ap24/1, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mergan Hotel"
 description: "Mergan Hotel, situated in the charming town of Korçë, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/mergan-hotel-321370560.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321370560.jpg?k=d300099605e55daf533da113d4b454992d21be48223bb76e4c18e26c1c6d3085&o=&hp=1"
 language: en
 slug: mergan-hotel
 address: "Rruga Dhimitër Denasi, 7001 Korçë, Albania"

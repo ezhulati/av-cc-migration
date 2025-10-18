@@ -1,7 +1,7 @@
 ---
 title: "Ardenica Boutique Hotel"
 description: "Ardenica Boutique Hotel, located in the charming town of Lushnjë, stands out as a premier 4-star destination for travelers seeking both comfort and elegance."
-featuredImage: "/images/accommodation/ardenica-boutique-hotel-373084116.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373084116.jpg?k=d0bc57f4651d04d38257dc32920febe75a490a93d2ca76bab13a26b03c23abdc&o=&hp=1"
 language: en
 slug: ardenica-boutique-hotel
 address: "Ardenice Rrruga irinea banushi, 9007 Lushnjë, Albania"

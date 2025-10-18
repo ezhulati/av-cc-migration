@@ -1,7 +1,7 @@
 ---
 title: "Hotel Restaurant Dreri"
 description: "Discover the charm of Hotel Restaurant Dreri, a hidden gem where modern amenities meet serene landscapes."
-featuredImage: "/images/accommodation/hotel-restaurant-dreri-216852893.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216852893.jpg?k=23d63a88cb8c927e630154d14bddcdefc15c6e6e7cebdc539a718612eb8696d9&o=&hp=1"
 language: en
 slug: hotel-restaurant-dreri
 address: "Street Gjeneral Nikols Number 24. Entrance1., 1001 Tirana, Albania"

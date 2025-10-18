@@ -1,7 +1,7 @@
 ---
 title: "Lille France Apartments"
 description: "Lille France Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër, located a mere 49 km from the Port of Bar."
-featuredImage: "/images/accommodation/lille-france-apartments-253705970.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253705970.jpg?k=1e1d06749c90b90ee8fd33ed4a9381c3383141e74156fe87281dd3bbb66588b3&o=&hp=1"
 language: en
 slug: lille-france-apartments
 address: "Besnik Sykja, 4001 Shkodër, Albania"

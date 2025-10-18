@@ -1,7 +1,7 @@
 ---
 title: "Lovely appartament g-a"
 description: "Lovely Apartment G-A emerges as a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/lovely-appartament-g-a-451478577.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451478577.jpg?k=ae0b184b76db7b491b1c592723d3cbf2bc908766352cfee697e90a5f962e38f1&o=&hp=1"
 language: en
 slug: lovely-appartament-g-a
 address: "Rruga Gjon Mili, 1017 Tirana, Albania"

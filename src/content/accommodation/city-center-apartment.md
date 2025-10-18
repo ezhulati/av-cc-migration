@@ -1,7 +1,7 @@
 ---
 title: "City Center Apartment"
 description: "City Center Apartment in Berat stands out for its comfortable, air-conditioned spaces, complete with a balcony that offers a refreshing outdoor experience."
-featuredImage: "/images/accommodation/city-center-apartment-515857444.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515857444.jpg?k=578cfc09c2755fb4be2f6e94b4b9936bdd7359c8128d5787813aa89bbacb458a&o=&hp=1"
 language: en
 slug: city-center-apartment
 address: "Rruga Santa Lucia \"Zere\" Palace ; Apartment nr:15 ; fourth floor, 5001 Berat, Albania"

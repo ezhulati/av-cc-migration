@@ -1,7 +1,7 @@
 ---
 title: "Maxus Apts"
 description: "Maxus Apts emerges as a serene haven in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach and a leisurely stroll from the picturesque Saranda Bay Beach."
-featuredImage: "/images/accommodation/maxus-apts-140470427.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140470427.jpg?k=04f6c291653c67ba9acfe43dac1b8ba3ebf9f346ec55f626033a03fd8b4f8c4e&o=&hp=1"
 language: en
 slug: maxus-apts
 address: "250 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

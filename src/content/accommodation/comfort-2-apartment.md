@@ -1,7 +1,7 @@
 ---
 title: "Comfort 2 Apartment"
 description: "Comfort 2 Apartment emerges as a prime choice for travelers seeking a blend of convenience and comfort in Sarandë."
-featuredImage: "/images/accommodation/comfort-2-apartment-431496496.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431496496.jpg?k=c6c46c1740579d5bf1c7f839b6f9e16e42ab3e66b371abb0a70c3324a91db25e&o=&hp=1"
 language: en
 slug: comfort-2-apartment
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

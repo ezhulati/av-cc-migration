@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lahuta"
 description: "Hotel Lahuta, located in the serene town of Bajram Curri and a mere 45 km from the historic Visoki Dečani Monastery, stands out as a beacon of comfort and hospitality."
-featuredImage: "/images/accommodation/hotel-lahuta-211773812.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211773812.jpg?k=c0f87e4e2a97ef740fb558620f5165dee4b49347cecaa0826d0d0889ddfb912e&o=&hp=1"
 language: en
 slug: hotel-lahuta
 address: "Rruga Mic Sokoli, 8702 Bajram Curri, Albania"

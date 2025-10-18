@@ -1,7 +1,7 @@
 ---
 title: "Beach front Durres"
 description: "Beach Front Durres emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/beach-front-durres-472238992.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472238992.jpg?k=1fafc1cb4310708dbc4802b65799c9460208d17656081530ce8ce14c301a0355&o=&hp=1"
 language: en
 slug: beach-front-durres
 address: "Rruga Kalabria, 1001 Durrës, Albania"

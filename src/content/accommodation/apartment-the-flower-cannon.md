@@ -1,7 +1,7 @@
 ---
 title: "Apartment The Flower Cannon"
 description: "Apartment The Flower Cannon is a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/apartment-the-flower-cannon-314670977.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314670977.jpg?k=a8dc4790580ac6b32034e2306e6124f8877acf11498f2763b9e05e7c42afba70&o=&hp=1"
 language: en
 slug: apartment-the-flower-cannon
 address: "Rruga Gjergj Araniti, 9700 Sarandë, Albania"

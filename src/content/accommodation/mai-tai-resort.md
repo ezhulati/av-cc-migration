@@ -1,7 +1,7 @@
 ---
 title: "Mai Tai Resort"
 description: "Mai Tai Resort emerges as a serene oasis just a short drive from the heart of Tirana, offering a blend of comfort, convenience, and culinary delights."
-featuredImage: "/images/accommodation/mai-tai-resort-164950502.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/164950502.jpg?k=c92a4b679ba333112017afb31bbf66493abb18334011cab25b07cc1e2c753587&o=&hp=1"
 language: en
 slug: mai-tai-resort
 address: "Rruga e Elbasanit, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DOWN TOWN LUXURY Apartment"
 description: "Down Town Luxury Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/down-town-luxury-apartment-100147966.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/100147966.jpg?k=ce9120ab64a5cf067e119a78acbf753020b4ff6644b112f4e48bae9ade42361f&o=&hp=1"
 language: en
 slug: down-town-luxury-apartment
 address: "Rruga Ismail Qemali Lagjia nr 4 pallati nr 64, 9700 Sarandë, Albania"

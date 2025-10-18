@@ -1,7 +1,7 @@
 ---
 title: "Large Renovated Beachside Apt, w/ wi-fi & Netflix"
 description: "Discover the epitome of coastal living at the Large Renovated Beachside Apartment, a prime choice for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/large-renovated-beachside-apt-w-wi-fi-netflix-494811749.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494811749.jpg?k=c5bd928acfaa45152fce6c7d04259172ed046f91d7de14b8a408af4d461ee1d0&o=&hp=1"
 language: en
 slug: large-renovated-beachside-apt-w-wi-fi-netflix
 address: "Rruga Kristal, Adriatica Residence (6th Floor), Golem, Albania"

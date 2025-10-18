@@ -1,7 +1,7 @@
 ---
 title: "Bejart Apartment 3"
 description: "Bejart Apartment 3 emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/bejart-apartment-3-381066801.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381066801.jpg?k=8e05ba3581fb61b14e32a58d4d027ec22aa54c0d74a47dc7f48b7a2875fd36e2&o=&hp=1"
 language: en
 slug: bejart-apartment-3
 address: "Rruga Musa Agolli Apartment 3 shkalla 2 pallati 60/1, 1001 Tirana, Albania"

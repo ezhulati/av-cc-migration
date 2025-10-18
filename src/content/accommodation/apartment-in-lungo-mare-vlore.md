@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Lungo Mare Vlore"
 description: "Apartment in Lungo Mare Vlore emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience along the Albanian Riviera."
-featuredImage: "/images/accommodation/apartment-in-lungo-mare-vlore-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: apartment-in-lungo-mare-vlore
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

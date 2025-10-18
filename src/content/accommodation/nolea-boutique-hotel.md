@@ -1,7 +1,7 @@
 ---
 title: "NOLEA Boutique Hotel"
 description: "Discover the charm of Velipojë with a stay at NOLEA Boutique Hotel, a gem located just a short 300-meter stroll from the pristine Velipoja Beach."
-featuredImage: "/images/accommodation/nolea-boutique-hotel-349057013.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349057013.jpg?k=6b13a4656233678f6b5e1e64dba61dd16725cf440aaaceae1564038a76197850&o=&hp=1"
 language: en
 slug: nolea-boutique-hotel
 address: "Rruga Shtepia e Peshkatareve, 4020 Velipojë, Albania"

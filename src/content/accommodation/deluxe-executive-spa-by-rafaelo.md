@@ -1,7 +1,7 @@
 ---
 title: "Deluxe & Executive SPA by Rafaelo"
 description: "Deluxe & Executive SPA by Rafaelo stands as a beacon of luxury in Shëngjin, merely a stone's throw away from the pristine shores of Shëngjin Beach."
-featuredImage: "/images/accommodation/deluxe-executive-spa-by-rafaelo-271620262.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271620262.jpg?k=89e0061a818efd68c57791d537d3cb84ffbbaf1499bd524f8ec3e80431a17534&o=&hp=1"
 language: en
 slug: deluxe-executive-spa-by-rafaelo
 address: "Shengjin, lezhe Albania, 1010 Shëngjin, Albania"

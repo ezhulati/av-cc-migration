@@ -1,7 +1,7 @@
 ---
 title: "Apartments 1+1 Jovanna/Апартаменты 1+1 Джованна"
 description: "Apartments 1+1 Jovanna emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/apartments-1-1-jovanna-1-1-379806914.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379806914.jpg?k=fadd83812ef9fdab7161fd9bdca55d257a37c43293949eea0884ac14548f2727&o=&hp=1"
 language: en
 slug: apartments-1-1-jovanna-1-1
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

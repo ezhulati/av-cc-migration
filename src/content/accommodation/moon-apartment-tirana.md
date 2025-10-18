@@ -1,7 +1,7 @@
 ---
 title: "Moon Apartment Tirana"
 description: "Moon Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/moon-apartment-tirana-508211550.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508211550.jpg?k=66713f40d19ef5d8633413a5edab8e5acf6f89776366467206cadfbcf5cf4c4e&o=&hp=1"
 language: en
 slug: moon-apartment-tirana
 address: "Rruga Karl Gega, Tirana, Albania"

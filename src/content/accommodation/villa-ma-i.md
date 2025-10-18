@@ -1,7 +1,7 @@
 ---
 title: "Villa Maçi"
 description: "Villa Maçi emerges as a serene oasis in Sarandë, offering travelers a blend of comfort and convenience with its prime location just moments away from Saranda City Beach and La Petite Beach."
-featuredImage: "/images/accommodation/villa-ma-i-500568188.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500568188.jpg?k=adecf80e8ac51e78e7253572c2c19585cea967ebb23b4726f951d1c8c91b84be&o=&hp=1"
 language: en
 slug: villa-ma-i
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

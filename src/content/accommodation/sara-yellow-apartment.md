@@ -1,7 +1,7 @@
 ---
 title: "Sara yellow apartment"
 description: "Discover the charm of Tirana with a stay at Sara Yellow Apartment, a spacious and inviting retreat located conveniently close to the city's most iconic landmarks."
-featuredImage: "/images/accommodation/sara-yellow-apartment-508810050.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508810050.jpg?k=bc1810bed32e8495434c439b5bcb1d3ffffcac05bccff8e194a0f2fc1cf154b7&o=&hp=1"
 language: en
 slug: sara-yellow-apartment
 address: "Rruga Teodor Keko, 1001 Tirana, Albania"

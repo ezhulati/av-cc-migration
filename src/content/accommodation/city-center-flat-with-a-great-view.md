@@ -1,7 +1,7 @@
 ---
 title: "City Center Flat with a Great View"
 description: "City Center Flat with a Great View stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-flat-with-a-great-view-521384021.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521384021.jpg?k=8caadff94a3371fdf8916a863d1b350f25a1b30626044672f860c33b6afc5c08&o=&hp=1"
 language: en
 slug: city-center-flat-with-a-great-view
 address: "Rruga e Saraçëve, N-12, Shk 2, Ap, 22/1, Tirana, Albania"

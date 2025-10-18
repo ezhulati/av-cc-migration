@@ -1,7 +1,7 @@
 ---
 title: "Emi center apartment"
 description: "Emi Center Apartment emerges as a prime choice for travelers seeking a serene yet centrally located stay in Tirana."
-featuredImage: "/images/accommodation/emi-center-apartment-490999156.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490999156.jpg?k=c9cfe0825a0bf4e307d09859f0eddfef76a91fa3f98d488b1a1ae850c8a3ae28&o=&hp=1"
 language: en
 slug: emi-center-apartment
 address: "Rruga Mine Peza Fourth floor, 1001 Tirana, Albania"

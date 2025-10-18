@@ -1,7 +1,7 @@
 ---
 title: "Green Leaf Apartment near Tirana International Bus Terminal"
 description: "Green Leaf Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/green-leaf-apartment-near-tirana-international-bus-terminal-500287544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500287544.jpg?k=cd566318ea0fb582ecff5cd133790cbc3597efed4b89cae897f77d9a0579f9cd&o=&hp=1"
 language: en
 slug: green-leaf-apartment-near-tirana-international-bus-terminal
 address: "7 Rruga Muhamet Gjollesha E2, floor no2,, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sun & Sea Apartment"
 description: "Sun & Sea Apartment emerges as a prime beachfront gem in Durrës, offering guests an unparalleled blend of convenience and scenic beauty."
-featuredImage: "/images/accommodation/sun-sea-apartment-138379145.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/138379145.jpg?k=7c4200930c0765882fe563b00b286ccb4649570ee7fabfe90e7f2f4f3c60c050&o=&hp=1"
 language: en
 slug: sun-sea-apartment
 address: "Shetitorja e Plazhit, 2001 Durrës, Albania"

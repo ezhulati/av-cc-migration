@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Daily Apartment beachfront"
 description: "Lungomare Daily Apartment beachfront emerges as a prime choice for travelers seeking a serene getaway in Vlorë, boasting an enviable location just a stone's throw away from Vlore Beach."
-featuredImage: "/images/accommodation/lungomare-daily-apartment-beachfront-421884567.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421884567.jpg?k=ce9e1a26c1cc0dc2d99236855e9c233378ac70a3bb11c81b2895a31a20092d4a&o=&hp=1"
 language: en
 slug: lungomare-daily-apartment-beachfront
 address: "Vlora Albania, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pine-Tree Spacious 2 BDR Apartment near Tanners' Bridge with hot tub"
 description: "Pine-Tree Spacious 2 BDR Apartment near Tanners' Bridge emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/pine-tree-spacious-2-bdr-apartment-near-tanners-bridge-with-hot-tub-492733775.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492733775.jpg?k=d141d8dfc532e523d6f45048f68ab4ece42efc14a94d2b1ed8a94a8a28348059&o=&hp=1"
 language: en
 slug: pine-tree-spacious-2-bdr-apartment-near-tanners-bridge-with-hot-tub
 address: "15 Bulevardi Zhan D'Ark, 1001 Tirana, Albania"

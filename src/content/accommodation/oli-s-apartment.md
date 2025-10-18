@@ -1,7 +1,7 @@
 ---
 title: "Oli's apartment"
 description: "Oli's Apartment in Korçë stands out as a premier destination for travelers seeking unparalleled comfort and convenience."
-featuredImage: "/images/accommodation/oli-s-apartment-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: oli-s-apartment
 address: "SH3 Pall 1 A/ 12, 7001 Korçë, Albania"

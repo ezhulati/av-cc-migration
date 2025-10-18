@@ -1,7 +1,7 @@
 ---
 title: "Villa Shefit"
 description: "Villa Shefit stands out as a premier destination for travelers seeking a blend of comfort and adventure in the heart of Durres County, Rrushkull."
-featuredImage: "/images/accommodation/villa-shefit-bebbb1d5ff29.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
 language: en
 slug: villa-shefit
 address: "Vila e shefit, 2010 Rrushkull, Albania"

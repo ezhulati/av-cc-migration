@@ -1,7 +1,7 @@
 ---
 title: "Sweet Dreams Apartment Sari"
 description: "Sweet Dreams Apartment Sari emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sweet-dreams-apartment-sari-432078521.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432078521.jpg?k=597b204663acc2986460f244ad123060f443c3d499507d10c57869fe4747027e&o=&hp=1"
 language: en
 slug: sweet-dreams-apartment-sari
 address: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"

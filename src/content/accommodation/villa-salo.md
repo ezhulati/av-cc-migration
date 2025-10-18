@@ -1,7 +1,7 @@
 ---
 title: "Villa Salo"
 description: "Villa Salo emerges as a premier choice for travelers seeking a blend of luxury and tranquility in Labinot-Fushë."
-featuredImage: "/images/accommodation/villa-salo-269089384.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269089384.jpg?k=652a00ff59d7e54086e82d3889df1ac40f5cca1f764ce2b2ee9b2a02321e1500&o=&hp=1"
 language: en
 slug: villa-salo
 address: "Rr “repartit te karburanteve” Nd. 2 Mengel, Labinot Fushe, 3010 Labinot-Fushë, Albania"

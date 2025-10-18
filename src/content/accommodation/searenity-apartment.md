@@ -1,7 +1,7 @@
 ---
 title: "Searenity Apartment"
 description: "Searenity Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/searenity-apartment-400143387.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400143387.jpg?k=774e5eac4511afc0a8d9895965fe993453e81352bc71578fb7a10f71f1d1fe3c&o=&hp=1"
 language: en
 slug: searenity-apartment
 address: "Rruga Lule Bore 4th Floor, Apartment 20, 2008 Durrës, Albania"

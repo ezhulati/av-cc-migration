@@ -1,7 +1,7 @@
 ---
 title: "Durres Golem Mara beach apartment"
 description: "Durres Golem Mara Beach Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience along the Albanian coast."
-featuredImage: "/images/accommodation/durres-golem-mara-beach-apartment-520103978.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520103978.jpg?k=5c04170ddf55c437d6d5964798a15a4fea083bc1aedb022eeb1405a35b55cb76&o=&hp=1"
 language: en
 slug: durres-golem-mara-beach-apartment
 address: "Rruga Korça, 1111 Golem, Albania"

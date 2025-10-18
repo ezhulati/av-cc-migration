@@ -1,7 +1,7 @@
 ---
 title: "Kea_Apartment_Lushnjë"
 description: "Kea_Apartment_Lushnjë emerges as a prime choice for travelers seeking a blend of comfort and convenience in Lushnjë."
-featuredImage: "/images/accommodation/kea-apartment-lushnj-482254111.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482254111.jpg?k=ba18128e6c3c82edef655445a50f53788f37677d398eb0e7f2deba1f85ddfa98&o=&hp=1"
 language: en
 slug: kea-apartment-lushnj
 address: "Shetitorja e Palmave 10, Lushnjë, Albania"

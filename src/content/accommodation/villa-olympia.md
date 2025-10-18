@@ -1,7 +1,7 @@
 ---
 title: "Villa Olympia"
 description: "Villa Olympia emerges as a prime choice for travelers seeking a serene getaway, situated a mere 400 meters from the pristine shores of Currila Beach in Durrës."
-featuredImage: "/images/accommodation/villa-olympia-491113618.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491113618.jpg?k=49eea7f7990dffc63f22452e0a5a23e97e72b17ee70f518130b4b674a7a7d2c7&o=&hp=1"
 language: en
 slug: villa-olympia
 address: "Rruga Anastas Durrsaku 1075, 1075 Durrës, Albania"

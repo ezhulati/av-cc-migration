@@ -1,7 +1,7 @@
 ---
 title: "Cada View"
 description: "Cada View emerges as a serene oasis for family getaways, perfectly positioned in a vibrant tourist locale that boasts an enviable combination of sun-drenched beaches and lush pine forests."
-featuredImage: "/images/accommodation/cada-view-371365218.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371365218.jpg?k=9d6a79c568000faa5f084095d2a91848bdd5bf310e7926e4f7fc877244bbe09c&o=&hp=1"
 language: en
 slug: cada-view
 address: "Rruga Skenderbeu, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Marla House Delux"
 description: "Marla House Delux stands as a serene retreat in the heart of the Berat County region, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/marla-house-delux-500003124.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500003124.jpg?k=24ac22171c40b4ccba746fbaef058977fd6f1515f2c7286862e5e6ed29b8044c&o=&hp=1"
 language: en
 slug: marla-house-delux
 address: "Lapardha 2, Berat Second floor, Lapardha Dy, Albania"

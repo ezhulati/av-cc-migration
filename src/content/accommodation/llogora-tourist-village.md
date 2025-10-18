@@ -1,7 +1,7 @@
 ---
 title: "Llogora Tourist Village"
 description: "Llogora Tourist Village stands as a serene oasis amidst the lush greenery of Llogora National Park, offering guests a unique blend of natural beauty and modern amenities."
-featuredImage: "/images/accommodation/llogora-tourist-village-329893575.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329893575.jpg?k=acd24c7910ec4535f897909cb09587ea52a2f7daa615940193313602f7acdd85&o=&hp=1"
 language: en
 slug: llogora-tourist-village
 address: "Llogara National Park, 8401 Dhërmi, Albania"

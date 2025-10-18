@@ -1,7 +1,7 @@
 ---
 title: "Apartament Beach Golem “Koka”"
 description: "Discover the charm of Golem with a stay at Apartament Beach Golem “Koka”, a prime accommodation choice located just a stone's throw away from the pristine Golem Beach and a short distance from the serene Mali I Robit Beach."
-featuredImage: "/images/accommodation/apartament-beach-golem-koka-482480876.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482480876.jpg?k=ca2d4be830d2d32aea647b0045033917f5b5924d2e9416a7cac77be265bddc6b&o=&hp=1"
 language: en
 slug: apartament-beach-golem-koka
 address: "Rruga Kompleksit, 2504 Golem, Albania"

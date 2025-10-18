@@ -1,7 +1,7 @@
 ---
 title: "Kozi apartment"
 description: "Kozi Apartment emerges as a prime beachfront gem in Vlorë, boasting an enviable location just a stone's throw away from Vlore Beach and a short stroll from Ri Beach."
-featuredImage: "/images/accommodation/kozi-apartment-477878200.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477878200.jpg?k=539181d8009dffb039c9b1a8c571fa2453b90fcc50a56779e4a80eb31bd6dd03&o=&hp=1"
 language: en
 slug: kozi-apartment
 address: "Rruga Dhimitër Konomi, 9402 Vlorë, Albania"

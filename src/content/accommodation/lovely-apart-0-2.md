@@ -1,7 +1,7 @@
 ---
 title: "Lovely apart 0-2"
 description: "Discover the charm of Tirana with a stay at Lovely Apart 0-2, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/lovely-apart-0-2-462183606.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462183606.jpg?k=dc7e1512554437801d2db239fee6ed9e36a5738d4ca169aaffe2077f98bdbbe2&o=&hp=1"
 language: en
 slug: lovely-apart-0-2
 address: "Rruga 5 Maji, 1012 Tirana, Albania"

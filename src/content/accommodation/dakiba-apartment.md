@@ -1,7 +1,7 @@
 ---
 title: "Dakiba Apartment"
 description: "Dakiba Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, boasting an enviable location just 200 meters from Ri Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/dakiba-apartment-461616797.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461616797.jpg?k=6f7e999319d5fcbbe69fdb37b1982b269e1303f74b311878dd6bd3a735781a5d&o=&hp=1"
 language: en
 slug: dakiba-apartment
 address: "Rruga Uji i Ftohte, 9401 Vlorë, Albania"

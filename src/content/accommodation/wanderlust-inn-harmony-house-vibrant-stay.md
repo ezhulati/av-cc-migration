@@ -1,7 +1,7 @@
 ---
 title: "WANDERLUST INN Harmony House - Vibrant Stay"
 description: "WANDERLUST INN Harmony House - Vibrant Stay emerges as a beacon of comfort and convenience for travelers exploring the heart of Tirana."
-featuredImage: "/images/accommodation/wanderlust-inn-harmony-house-vibrant-stay-515105553.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515105553.jpg?k=3e2d5eaeded5da12cfd35515f4180b96c1f1b60a82e53021a2c241798ebc6863&o=&hp=1"
 language: en
 slug: wanderlust-inn-harmony-house-vibrant-stay
 address: "Rruga e Elbasanit, 1009 Tirana, Albania"

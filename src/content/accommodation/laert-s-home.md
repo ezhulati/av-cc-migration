@@ -1,7 +1,7 @@
 ---
 title: "Laert's Home"
 description: "Laert's Home emerges as a serene retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine shores of Ksamil Beach 9, and within easy reach of both Ksamil Beach and Paradise Beach."
-featuredImage: "/images/accommodation/laert-s-home-476607714.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476607714.jpg?k=dbaf8770bbea2294f306e55381d1a56f9ea940040221f6ebf184a18a99c7855b&o=&hp=1"
 language: en
 slug: laert-s-home
 address: "Rruga Lefter Talo, 9706 Sarandë, Albania"

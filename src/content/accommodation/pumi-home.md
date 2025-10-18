@@ -1,7 +1,7 @@
 ---
 title: "PUMI Home"
 description: "PUMI Home emerges as a serene retreat offering garden views and a private balcony, situated merely 1."
-featuredImage: "/images/accommodation/pumi-home-486724221.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486724221.jpg?k=59231dc73480f5d3f415cfd9651b0318536793d1fa4ab230ec41df7c9f20a324&o=&hp=1"
 language: en
 slug: pumi-home
 address: "Rruga Aleksander Goga, 2002 Durrës, Albania"

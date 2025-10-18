@@ -1,7 +1,7 @@
 ---
 title: "Hotel Krojet e Rrogamit"
 description: "Hotel Krojet e Rrogamit is a premier destination for travelers seeking a serene getaway in Valbonë, in the picturesque Kukës County region."
-featuredImage: "/images/accommodation/hotel-krojet-e-rrogamit-311306933.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311306933.jpg?k=bec2778076ead40a1218891c8c2050c593e7508c306e24a6472bbfe345731e2a&o=&hp=1"
 language: en
 slug: hotel-krojet-e-rrogamit
 address: "Rruga Azem Hajdari, 8702 Valbonë, Albania"

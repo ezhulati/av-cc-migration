@@ -1,7 +1,7 @@
 ---
 title: "Chateau Linza Resort"
 description: "Chateau Linza Resort, located a mere 1."
-featuredImage: "/images/accommodation/chateau-linza-resort-528151229.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528151229.jpg?k=18a1efe4ff3225f5cdfc9d8d03759927f1209f2d558e3cb23dcc8e66905aa066&o=&hp=1"
 language: en
 slug: chateau-linza-resort
 address: "Rruga Nacionale Tirane – Dajt, Tiranë 1040, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Joana, near the sea, a quite place to stay"
 description: "Vila Joana emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/vila-joana-near-the-sea-a-quite-place-to-stay-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: vila-joana-near-the-sea-a-quite-place-to-stay
 address: "Rruga Pano Xhaho, 9401 Vlorë, Albania"

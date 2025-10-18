@@ -1,7 +1,7 @@
 ---
 title: "Vila Marsel - Ksamil View"
 description: "Vila Marsel - Ksamil View emerges as a premier choice for travelers seeking a serene getaway in Sarandë, offering a blend of comfort and convenience with its air-conditioned accommodations that open up to a refreshing balcony."
-featuredImage: "/images/accommodation/vila-marsel-ksamil-view-472253630.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472253630.jpg?k=84771309089575737a449825d061a2d5577654647cce51b5ae4bc22f74b56669&o=&hp=1"
 language: en
 slug: vila-marsel-ksamil-view
 address: "Saranda ksamil, 9706 Sarandë, Albania"

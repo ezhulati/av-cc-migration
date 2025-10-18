@@ -1,7 +1,7 @@
 ---
 title: "Gerald Ferhati"
 description: "Gerald Ferhati emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/gerald-ferhati-512501542.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512501542.jpg?k=a6ed9cafef24560d083e872a4b5f6dbd42cb8e609e825db7ed92d19cc7d89f07&o=&hp=1"
 language: en
 slug: gerald-ferhati
 address: "21 Rruga Frosina Plaku, 1023 Tirana, Albania"

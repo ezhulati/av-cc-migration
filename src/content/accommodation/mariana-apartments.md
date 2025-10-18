@@ -1,7 +1,7 @@
 ---
 title: "Mariana Apartments"
 description: "Mariana Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/mariana-apartments-383539451.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383539451.jpg?k=9269be8e3ab32d1a30f4b6f1bddb9733f794b558e7a3b385810667a2fb45de1e&o=&hp=1"
 language: en
 slug: mariana-apartments
 address: "Lagja 3 Mbi Spitali, 0207 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Apartment 1"
 description: "Tirana Center Apartment 1 emerges as a serene haven, offering guests a unique blend of comfort and convenience with its prime location and well-appointed amenities."
-featuredImage: "/images/accommodation/tirana-center-apartment-1-282514085.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282514085.jpg?k=52102224f0682f4c339aee2b6483ba58d55c731edbb521678f2f34016d749829&o=&hp=1"
 language: en
 slug: tirana-center-apartment-1
 address: "Rruga 4 Dëshmorët (Tafaj) APT.28 Building SION-al, 1001 Tirana, Albania"

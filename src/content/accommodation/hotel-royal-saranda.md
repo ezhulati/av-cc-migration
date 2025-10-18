@@ -1,7 +1,7 @@
 ---
 title: "Hotel Royal Saranda"
 description: "Discover the charm of Hotel Royal Saranda, a prime destination for travelers seeking both relaxation and adventure, mere steps away from the pristine shores of Saranda."
-featuredImage: "/images/accommodation/hotel-royal-saranda-180918692.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180918692.jpg?k=d0fda2fd2677642432c478fb437e4ca680eb0630adb4a110b74f44c2e15bd045&o=&hp=1"
 language: en
 slug: hotel-royal-saranda
 address: "Rruga Jonianet Nr. 13, 9702 Sarandë, Albania"

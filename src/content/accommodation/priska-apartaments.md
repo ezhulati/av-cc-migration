@@ -1,7 +1,7 @@
 ---
 title: "Priska Apartaments"
 description: "Priska Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/priska-apartaments-479736896.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479736896.jpg?k=48ad1f7dfc002cead9340da478a994e230fc03516acc311ca4899403c69308bb&o=&hp=1"
 language: en
 slug: priska-apartaments
 address: "Beach Front area, Durres, Durrës, Albania"

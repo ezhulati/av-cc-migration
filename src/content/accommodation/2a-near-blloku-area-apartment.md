@@ -1,7 +1,7 @@
 ---
 title: "2A near Blloku area Apartment"
 description: "Discover the charm of Tirana from the comfort of the 2A near Blloku area Apartment, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "/images/accommodation/2a-near-blloku-area-apartment-402680164.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402680164.jpg?k=9fe9313a0ee6b0b293a7723aa3612341c642dcb229b5ab17605fee83168a357f&o=&hp=1"
 language: en
 slug: 2a-near-blloku-area-apartment
 address: "Rruga Nikolla Jorga, 1001 Tirana, Albania"

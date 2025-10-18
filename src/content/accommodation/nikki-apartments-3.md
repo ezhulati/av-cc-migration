@@ -1,7 +1,7 @@
 ---
 title: "Nikki Apartments 3"
 description: "Nikki Apartments 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/nikki-apartments-3-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: nikki-apartments-3
 address: "Rruga Thoma Avrami Nd.54, 30, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sam's Rooms"
 description: "Sam's Rooms emerges as a serene retreat, located just a short 800-meter stroll from the vibrant Durres Beach and within a comfortable distance of 38 km from the historic Skanderbeg Square in Durrës."
-featuredImage: "/images/accommodation/sam-s-rooms-483267714.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483267714.jpg?k=65a45d2ee14d9c4f338a7719f2329b1f2795ee18d7b78b723ba69830048888dc&o=&hp=1"
 language: en
 slug: sam-s-rooms
 address: "Rruga Orion Ground floor, 2001 Durrës, Albania"

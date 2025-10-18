@@ -1,7 +1,7 @@
 ---
 title: "Vavla House"
 description: "Vavla House stands out as a charming accommodation choice in Berat."
-featuredImage: "/images/accommodation/vavla-house-AAcHTtdMi-Hz.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtdMi-Hz0OOFi5VdDyAjkWqpEZy3NbHSyRRmhNE1PEgCMy3h=s96-c64"
 language: en
 slug: vavla-house
 address: "Rruga e Teqesë, Berat, Albania"

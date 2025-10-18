@@ -1,7 +1,7 @@
 ---
 title: "Alles Mine Peza modern apartment"
 description: "Alles Mine Peza Modern Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/alles-mine-peza-modern-apartment-514448854.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514448854.jpg?k=9d652f6342f05a8268e7e9b7be8d99a15a4ee01ee57b5a2654060a86bcd58f81&o=&hp=1"
 language: en
 slug: alles-mine-peza-modern-apartment
 address: "Rruga ibrahim Ndroqi, 1005 Tirana, Albania"

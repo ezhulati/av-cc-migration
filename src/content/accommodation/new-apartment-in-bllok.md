@@ -1,7 +1,7 @@
 ---
 title: "New Apartment in Bllok"
 description: "Discover the charm of Tirana with a stay at New Apartment in Bllok, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/new-apartment-in-bllok-photo.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"
 language: en
 slug: new-apartment-in-bllok
 address: "Bulevardi Gjergj Fishta Pallatet Agimi, 1st floor, 1041 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ortensia - The Little Magic Home"
 description: "Ortensia - The Little Magic Home emerges as a charming retreat in the heart of Vlorë, a stone's throw away from the serene Vjetër Beach and the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/ortensia-the-little-magic-home-479786270.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479786270.jpg?k=a89fb1640d3183b83d669b55042c6a386f9b5ead26c45c681ee026d96106ba8d&o=&hp=1"
 language: en
 slug: ortensia-the-little-magic-home
 address: "Vlorë Bypass Piano 10, 9404 Vlorë, Albania"

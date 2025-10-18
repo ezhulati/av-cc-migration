@@ -1,7 +1,7 @@
 ---
 title: "Summer Home"
 description: "Summer Home emerges as a serene retreat in the vibrant city of Vlorë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/summer-home-465546655.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465546655.jpg?k=4107bdb9b45e4de0c6a0d4e696514d3ac578d53827d7f17f8bf8735bedc82a9c&o=&hp=1"
 language: en
 slug: summer-home
 address: "Rruga Zenel Murra, 9403 Vlorë, Albania"

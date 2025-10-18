@@ -1,7 +1,7 @@
 ---
 title: "White Hill Hotel, SPA & Conferences"
 description: "White Hill Hotel, SPA & Conferences stands as a beacon of luxury and comfort in Durrës, offering guests a 4-star beachfront experience that is both memorable and exquisite."
-featuredImage: "/images/accommodation/white-hill-hotel-spa-conferences-351839192.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351839192.jpg?k=0a45e49e3e04dea19f9c26ffde8cc8925cf7f2f2727d4831aa8e770235106d8f&o=&hp=1"
 language: en
 slug: white-hill-hotel-spa-conferences
 address: "Lagjia 1,RrugaTaulantia,Zona Currila Durres, 2001 Durrës, Albania"

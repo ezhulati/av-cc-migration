@@ -1,7 +1,7 @@
 ---
 title: "The Sunkissed Suite"
 description: "The Sunkissed Suite stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from the serene Vjetër Beach and a short distance from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/the-sunkissed-suite-491367419.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491367419.jpg?k=f508c8e2a290c12ab25e4b0733089a413b2cf829cd6f58f3bbeff72db1ee6405&o=&hp=1"
 language: en
 slug: the-sunkissed-suite
 address: "Plazhi i Vjeter, Rr. Sazani, Vlorë 9401, Albania, 9403 Vlorë, Albania"

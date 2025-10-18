@@ -1,7 +1,7 @@
 ---
 title: "Our Way Guest House & Hostel"
 description: "Our Way Guest House & Hostel stands out as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/our-way-guest-house-hostel-197703655.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197703655.jpg?k=cd243f1a7a9af61678f1635a6caf16ee5024dae80f75ed6f156c0f757872a96e&o=&hp=1"
 language: en
 slug: our-way-guest-house-hostel
 address: "Rruga Pashko Gjeci, 4001 Shkodër, Albania"

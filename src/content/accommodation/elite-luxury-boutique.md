@@ -1,7 +1,7 @@
 ---
 title: "Elite Luxury Boutique"
 description: "Located in Fier, 23 miles from Independence Square, Elite Luxury Boutique has accommodations with a garden, free private parking, a terrace, and a bar. This 4-star hotel offers free WiFi. Guests can have a drink at the snack bar."
-featuredImage: "/images/accommodation/elite-luxury-boutique-506799860.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506799860.jpg?k=6c57d67a594216c8db2f31f7a78d70efd5f9542e2e2ba40d8223f1eba303f586&o=&hp=1"
 language: en
 slug: elite-luxury-boutique
 address: "Rruga Eneriko Veizi, 9318 Fier, Albania"

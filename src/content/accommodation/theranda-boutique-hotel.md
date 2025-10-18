@@ -1,7 +1,7 @@
 ---
 title: "Theranda Boutique Hotel"
 description: "Theranda Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/theranda-boutique-hotel-318204533.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318204533.jpg?k=a0c7cca78a657d82b165556c5f4055de6e560a8b3fde2ac582a7090479825c01&o=&hp=1"
 language: en
 slug: theranda-boutique-hotel
 address: "Rruga Andon Zako Çajupi Villa 6, 1001 Tirana, Albania"

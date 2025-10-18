@@ -1,7 +1,7 @@
 ---
 title: "Baven -Toven Naturae"
 description: "Baven-Toven Naturae emerges as a serene retreat in the heart of Rubik, offering breathtaking mountain views and a plethora of amenities designed to enhance the stay of every guest."
-featuredImage: "/images/accommodation/baven-toven-naturae-464560117.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464560117.jpg?k=82b68b06e4d63535b05f5d91ae1d6dfe3f3e42eb6b8c0b09c924c355c5414932&o=&hp=1"
 language: en
 slug: baven-toven-naturae
 address: "Rruga Katund i Vjeter, 4602 Rubik, Albania"

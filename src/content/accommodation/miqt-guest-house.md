@@ -1,7 +1,7 @@
 ---
 title: "MIQT GUEST HOUSE"
 description: "MIQT Guest House, positioned in the heart of Shkodër within the scenic Shkoder County, stands out as a serene retreat for travelers."
-featuredImage: "/images/accommodation/miqt-guest-house-471676895.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471676895.jpg?k=71f944b62a44be0cd9db06374614c7d229097435c4c005c6a490345f07404ab3&o=&hp=1"
 language: en
 slug: miqt-guest-house
 address: "Rruga Hafiz Ali Ulqinaku 3, 4001 Shkodër, Albania"

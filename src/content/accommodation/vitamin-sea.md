@@ -1,7 +1,7 @@
 ---
 title: "Vitamin Sea"
 description: "Vitamin Sea emerges as a standout accommodation choice for travelers seeking the perfect blend of comfort and scenic beauty, just 2."
-featuredImage: "/images/accommodation/vitamin-sea-204295248.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204295248.jpg?k=31b7c38fa3f96e759d80aedb594bb731dd94cc325709fa902d5ad9ae497bf932&o=&hp=1"
 language: en
 slug: vitamin-sea
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

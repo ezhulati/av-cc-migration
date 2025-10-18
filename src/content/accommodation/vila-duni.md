@@ -1,7 +1,7 @@
 ---
 title: "Vila Duni"
 description: "Vila Duni emerges as a serene retreat, offering breathtaking mountain vistas and a tranquil setting just a short distance from the pristine shores of Dhermi Beach."
-featuredImage: "/images/accommodation/vila-duni-324800181.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/324800181.jpg?k=722583f2a1d64f6b2661ac7cd50f19f8e3d9fd9d5978e1574a2fe630a3e2de22&o=&hp=1"
 language: en
 slug: vila-duni
 address: "Kisha e Shen Harrallambit, Dhermi, 9422 Dhërmi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Julies Vila"
 description: "Julies Vila emerges as a serene retreat in the heart of Ksamil, offering guests the luxury of tranquility with its quiet street views, complemented by the convenience of complimentary WiFi and private parking."
-featuredImage: "/images/accommodation/julies-vila-360467888.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360467888.jpg?k=d67b5826140b3ae2533109bd879eb0216de0afc7aed555a1fb5bf102b575822b&o=&hp=1"
 language: en
 slug: julies-vila
 address: "SH81, 9706 Ksamil, Albania"

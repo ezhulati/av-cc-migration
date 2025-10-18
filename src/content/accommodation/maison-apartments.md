@@ -1,7 +1,7 @@
 ---
 title: "Maison Apartments"
 description: "Maison Apartments emerges as a prime choice for travelers seeking a blend of comfort, convenience, and security, mere steps away from the serene Vjetër Beach in Vlorë."
-featuredImage: "/images/accommodation/maison-apartments-507185612.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507185612.jpg?k=4a4d9f9da163919a8243cc00044dc220ed0424cad9d99082fa08d7ae42f2d839&o=&hp=1"
 language: en
 slug: maison-apartments
 address: "Rruga Aleks Çaçi, 9401 Vlorë, Albania"

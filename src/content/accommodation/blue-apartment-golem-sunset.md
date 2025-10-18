@@ -1,7 +1,7 @@
 ---
 title: "Blue Apartment Golem sunset"
 description: "Blue Apartment Golem Sunset emerges as a prime choice for travelers seeking a serene beachfront escape in Golem."
-featuredImage: "/images/accommodation/blue-apartment-golem-sunset-485913339.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485913339.jpg?k=d25b969a8e37e23090aa9d23764652dec2b4c0687c3a6a993c6dad173244a307&o=&hp=1"
 language: en
 slug: blue-apartment-golem-sunset
 address: "Rruga Ismail Qemali 6th, Golem, Albania"

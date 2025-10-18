@@ -1,7 +1,7 @@
 ---
 title: "Hotel Jaho"
 description: "Hotel Jaho emerges as a serene oasis, merely 1."
-featuredImage: "/images/accommodation/hotel-jaho-b56c632712cb.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
 language: en
 slug: hotel-jaho
 address: "spille, 2510 Kavajë, Albania"

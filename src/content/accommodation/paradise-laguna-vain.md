@@ -1,7 +1,7 @@
 ---
 title: "PARADISE Laguna Vain"
 description: "PARADISE Laguna Vain emerges as a serene oasis in Lezhë, merely 43 km away from the historic Rozafa Castle Shkodra and a stone's throw from the tranquil Lake Skadar."
-featuredImage: "/images/accommodation/paradise-laguna-vain-473291189.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473291189.jpg?k=3c75a0b52b0eca9a23a940d80ed06d3da362ff0d9e40bfd2b63aa46411739c20&o=&hp=1"
 language: en
 slug: paradise-laguna-vain
 address: "Laguna Vain, 4501 Lezhë, Albania"

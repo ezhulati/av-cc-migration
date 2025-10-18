@@ -1,7 +1,7 @@
 ---
 title: "Hotel Valz"
 description: "Discover the heart of Velipoja with a stay at Hotel Valz, a gem that underwent a complete transformation in 2017, offering guests a blend of modern amenities and traditional charm."
-featuredImage: "/images/accommodation/hotel-valz-50760324.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/50760324.jpg?k=1f5f52ee44326b95970905641ff875a499648789f3641d5002ceb2f0b0275aeb&o=&hp=1"
 language: en
 slug: hotel-valz
 address: "Velipoja Pulaj, 4020 Velipojë, Albania"

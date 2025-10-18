@@ -1,7 +1,7 @@
 ---
 title: "Sokolli Guest House"
 description: "Sokolli Guest House emerges as a serene retreat in the historic heart of Gjirokastër, just a stone's throw away from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/sokolli-guest-house-467004477.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467004477.jpg?k=3bd95b278c687323f57f4f14d32422c46fdf5290897bc5db86b5e1acd1a7b6c2&o=&hp=1"
 language: en
 slug: sokolli-guest-house
 address: "Rruga Gjin Bue Shpata, 6001 Gjirokastër, Albania"

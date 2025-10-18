@@ -1,7 +1,7 @@
 ---
 title: "LUXURY RESIDENCE 1"
 description: "LUXURY RESIDENCE 1 emerges as a premier choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/luxury-residence-1-352481687.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352481687.jpg?k=5c5f367b3530fb533e71b71c85f9ca0b6531debf0a8eefc5140061399a574733&o=&hp=1"
 language: en
 slug: luxury-residence-1
 address: "Rruga Dhimitër Konomi, 9404 Vlorë, Albania"

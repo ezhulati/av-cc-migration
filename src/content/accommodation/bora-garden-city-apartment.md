@@ -1,7 +1,7 @@
 ---
 title: "Bora Garden City Apartment"
 description: "Bora Garden City Apartment emerges as a refreshing accommodation choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/bora-garden-city-apartment-423371091.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/423371091.jpg?k=009a6b09eae47dc03838dcbe069ec6629c54faed264dac908fd9dc7b04172495&o=&hp=1"
 language: en
 slug: bora-garden-city-apartment
 address: "GARDEN CITY, PALL. KULLA 2, SHK. 1, AP. 3 KT-11, 1000 Tirana, Albania"

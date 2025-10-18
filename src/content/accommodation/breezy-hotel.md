@@ -1,7 +1,7 @@
 ---
 title: "Breezy Hotel"
 description: "Breezy Hotel, located in the serene Valbonë, offers guests a tranquil retreat with its lush garden, inviting bar, and complimentary WiFi access."
-featuredImage: "/images/accommodation/breezy-hotel-478592307.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478592307.jpg?k=cc6e6bd249814615ab84a2a1d7ff1717fe87f7d42688ea4f768e5562558b3a1c&o=&hp=1"
 language: en
 slug: breezy-hotel
 address: "Rruga Azem Hajdari Valbone, 8702 Valbonë, Albania"

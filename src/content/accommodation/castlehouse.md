@@ -1,7 +1,7 @@
 ---
 title: "CastleHouse"
 description: "CastleHouse stands out as a charming guest house in Elbasan, offering a unique blend of comfort and convenience for travelers seeking an authentic stay."
-featuredImage: "/images/accommodation/castlehouse-329239295.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329239295.jpg?k=11ee0a37023a386c802d1ca0bc5def5111951375be21d5a1f680f35a013717e8&o=&hp=1"
 language: en
 slug: castlehouse
 address: "Rr. Vasil Moisiu 1. , 3000 Elbasan, Albania"

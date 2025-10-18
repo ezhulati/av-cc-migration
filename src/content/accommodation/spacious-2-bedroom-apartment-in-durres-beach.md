@@ -1,7 +1,7 @@
 ---
 title: "Spacious 2 bedroom apartment in Durres Beach"
 description: "Discover the charm of Durrës with a stay at the Spacious 2 Bedroom Apartment in Durres Beach, a recently updated haven located just a stone's throw from the pristine sands of Durres Beach and a mere 37 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/spacious-2-bedroom-apartment-in-durres-beach-435143710.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435143710.jpg?k=5ab89e3cf73fbe8d4580199ebb8af4f03ea53e022197ef513411452fbc067809&o=&hp=1"
 language: en
 slug: spacious-2-bedroom-apartment-in-durres-beach
 address: "Rruga Pavaresia, 2000 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rosemary Sea View Apts"
 description: "Rosemary Sea View Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë, located just a short stroll from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/rosemary-sea-view-apts-143536275.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143536275.jpg?k=029cbd63beedc6da50756bd6f8527f0be66cfd19faffddf43a5bd7e586201679&o=&hp=1"
 language: en
 slug: rosemary-sea-view-apts
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

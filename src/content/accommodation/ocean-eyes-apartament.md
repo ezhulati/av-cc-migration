@@ -1,7 +1,7 @@
 ---
 title: "Ocean Eyes Apartament"
 description: "Ocean Eyes Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/ocean-eyes-apartament-473912905.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473912905.jpg?k=46b20171022e999399f9d132bbec5cfa271f88fd835f20ec0c36481c6ed82a8d&o=&hp=1"
 language: en
 slug: ocean-eyes-apartament
 address: "Rruga Sazani, Plazhi i Vjeter, 9404 Vlorë, Albania"

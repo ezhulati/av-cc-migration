@@ -1,7 +1,7 @@
 ---
 title: "Sunset Sea View Luxury Apartment"
 description: "Sunset Sea View Luxury Apartment emerges as a premier choice for travelers seeking exceptional accommodation in Golem."
-featuredImage: "/images/accommodation/sunset-sea-view-luxury-apartment-400219784.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400219784.jpg?k=80d4aaeaaf67bd374b89230e48bcf8d1ec2220033ef52444dfd95a4870fc3c0e&o=&hp=1"
 language: en
 slug: sunset-sea-view-luxury-apartment
 address: "6G95+Q4F, Rruga e Fshatrave Turistike, Golem, 2504 Golem, Albania"

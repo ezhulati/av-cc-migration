@@ -1,7 +1,7 @@
 ---
 title: "Mojito Beach Apartments with Free Parking"
 description: "Mojito Beach Apartments with Free Parking emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Sarandë."
-featuredImage: "/images/accommodation/mojito-beach-apartments-with-free-parking-502593841.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502593841.jpg?k=d174960fdf6bc5ce0f5f1af63b11b0f19fb2b2ce1b3858b66bd1433eaab6870c&o=&hp=1"
 language: en
 slug: mojito-beach-apartments-with-free-parking
 address: "Rruga Mitat Hoxha Nr.85 Sarande, 9702 Sarandë, Albania"

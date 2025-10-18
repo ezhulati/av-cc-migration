@@ -1,7 +1,7 @@
 ---
 title: "Ale Investa Hospitality"
 description: "Ale Investa Hospitality emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ale-investa-hospitality-494683476.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494683476.jpg?k=e6f42e2cc1353a3e0b0cb029e4797284438fd2286d44e29618302a89415f6691&o=&hp=1"
 language: en
 slug: ale-investa-hospitality
 address: "Rruga Themistokli Gërmenji, 1011 Tirana, Albania"

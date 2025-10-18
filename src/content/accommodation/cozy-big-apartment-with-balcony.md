@@ -1,7 +1,7 @@
 ---
 title: "Cozy big apartment with balcony"
 description: "Cozy Big Apartment with Balcony emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cozy-big-apartment-with-balcony-407892345.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407892345.jpg?k=5e5bc05a1375627fa6da6e86aa9bfa307064fadb550b9b58bd8d7a0a21ec7819&o=&hp=1"
 language: en
 slug: cozy-big-apartment-with-balcony
 address: "101 Rruga Jordan Misja, 1001 Tirana, Albania"

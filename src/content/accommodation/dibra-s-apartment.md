@@ -1,7 +1,7 @@
 ---
 title: "Dibra's Apartment"
 description: "Dibra's Apartment offers a comfortable stay in the heart of Shkodër, providing guests with modern amenities and seamless connectivity."
-featuredImage: "/images/accommodation/dibra-s-apartment-photo.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"
 language: en
 slug: dibra-s-apartment
 address: "Bulevardi Zogu I, Shkodër, Albania"

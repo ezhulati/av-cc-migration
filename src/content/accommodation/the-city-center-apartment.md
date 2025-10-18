@@ -1,7 +1,7 @@
 ---
 title: "The City-Center Apartment"
 description: "Discover the charm of Shkodër from the comfort of The City-Center Apartment, a prime choice for travelers seeking both convenience and tranquility."
-featuredImage: "/images/accommodation/the-city-center-apartment-482451915.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482451915.jpg?k=29fd3a0810de7018dfbc695bb9e01e7bfd5f56a50b1719985b3a7b2e74fb9581&o=&hp=1"
 language: en
 slug: the-city-center-apartment
 address: "Rruga G'juhadol, 1000 Shkodër, Albania"

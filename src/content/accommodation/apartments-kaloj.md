@@ -1,7 +1,7 @@
 ---
 title: "Apartments Kaloj"
 description: "Discover the charm of Tirana with a stay at Apartments Kaloj, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/apartments-kaloj-142088529.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142088529.jpg?k=8ba24170f5ceec671dca696fe8fd22d074145c4bcadb54d322a30004e4e8d399&o=&hp=1"
 language: en
 slug: apartments-kaloj
 address: "Rruga Mustafa Lleshi 41, 1001 Tirana, Albania"

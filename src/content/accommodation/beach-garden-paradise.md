@@ -1,7 +1,7 @@
 ---
 title: "Beach Garden Paradise"
 description: "Beach Garden Paradise emerges as a serene retreat in Durrës, a stone's throw away from the pristine Lalëz Bay Beach and within a comfortable distance of 41 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/beach-garden-paradise-456082137.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456082137.jpg?k=81d9d5443a115d5c55c0c70ac2dc6dff28efed348d050f48906713c03086145c&o=&hp=1"
 language: en
 slug: beach-garden-paradise
 address: "Rruga Gjiri i Lalzit, 2002 Durrës, Albania"

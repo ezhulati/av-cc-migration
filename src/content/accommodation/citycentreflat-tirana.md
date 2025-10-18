@@ -1,7 +1,7 @@
 ---
 title: "CityCentreFlat Tirana"
 description: "CityCentreFlat Tirana emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "/images/accommodation/citycentreflat-tirana-446156996.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446156996.jpg?k=efd9da703a07339c5a8a6837bffef200e372b16dade0032d5148fe1ad35b0d26&o=&hp=1"
 language: en
 slug: citycentreflat-tirana
 address: "Street Fortuzi 137, 1001 Tirana, Albania"

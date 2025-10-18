@@ -1,7 +1,7 @@
 ---
 title: "Victoria Lungomare Apartment"
 description: "Victoria Lungomare Apartment presents a prime choice for travelers seeking a blend of comfort and convenience, with its stunning city views and a location just a short stroll from Vlore Beach."
-featuredImage: "/images/accommodation/victoria-lungomare-apartment-482725325.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482725325.jpg?k=b54686b48e85f8bc12e6c0f04b6983f555694b59b46a371aadfa41333bdb5156&o=&hp=1"
 language: en
 slug: victoria-lungomare-apartment
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

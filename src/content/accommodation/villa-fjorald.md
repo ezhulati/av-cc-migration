@@ -1,7 +1,7 @@
 ---
 title: "Villa Fjorald"
 description: "Villa Fjorald emerges as a serene retreat, located just a stone's throw away from Mango Beach in Çukë, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/villa-fjorald-479609450.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479609450.jpg?k=e68978f446a1a48a5dd7c2a7610116e9320e1708bba64510a7077990a0acff2a&o=&hp=1"
 language: en
 slug: villa-fjorald
 address: "Rruga Skënderbeu, 9701 Çukë, Albania"

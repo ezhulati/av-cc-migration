@@ -1,7 +1,7 @@
 ---
 title: "appartamento Vacanze halilaj"
 description: "Appartamento Vacanze Halilaj emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/appartamento-vacanze-halilaj-234813618.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234813618.jpg?k=43d16993e4c29c71e8b0d874911f32c71aaa8f3af23166ddef00561fbdd53d75&o=&hp=1"
 language: en
 slug: appartamento-vacanze-halilaj
 address: "Rruga Aristill Kokoshi, Vlorë, Albania"

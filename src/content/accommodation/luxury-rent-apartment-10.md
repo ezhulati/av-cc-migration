@@ -1,7 +1,7 @@
 ---
 title: "Luxury Rent Apartment 10"
 description: "Luxury Rent Apartment 10 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-rent-apartment-10-451496423.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451496423.jpg?k=ceb8e2d9c114733e2b5e7bba9c285f89199cac93ca542fe8b7a5144843a0f16a&o=&hp=1"
 language: en
 slug: luxury-rent-apartment-10
 address: "Rruga e Dibrës, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila 60"
 description: "Discover the charm of Hotel Vila 60, a gem just a short walk from the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-vila-60-15506626.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15506626.jpg?k=266a14cf66709d132b45ba9ff5f467efcf3159397ea85dcb89c1ebc681b6c054&o=&hp=1"
 language: en
 slug: hotel-vila-60
 address: "Fadil Rada Street, 1001 Tirana, Albania"

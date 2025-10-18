@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Durres Elio"
 description: "Apartment in Durres Elio stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coastline."
-featuredImage: "/images/accommodation/apartment-in-durres-elio-484870947.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484870947.jpg?k=a2af890b306b25595a3b3e7f59a323c604714d497fe7ccf312cf75af28939d46&o=&hp=1"
 language: en
 slug: apartment-in-durres-elio
 address: "Mali i robit, Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Regal retreat Shkoder"
 description: "Regal Retreat Shkoder emerges as a prime choice for travelers seeking comfort and convenience in Shkodër, located a mere 50 km from the Port of Bar."
-featuredImage: "/images/accommodation/regal-retreat-shkoder-499126603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499126603.jpg?k=a614eb19bd51192032515eb7cc4238f3a1f597ca318e2a9972dda87ebfc6a25c&o=&hp=1"
 language: en
 slug: regal-retreat-shkoder
 address: "Rruga Luigj Gurakuqi, 4001 Shkodër, Albania"

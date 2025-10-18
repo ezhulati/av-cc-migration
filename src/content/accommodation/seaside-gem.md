@@ -1,7 +1,7 @@
 ---
 title: "Seaside Gem"
 description: "Seaside Gem emerges as a standout choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/seaside-gem-493283573.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493283573.jpg?k=b29565a98f35fe4051370be62c289b1e1085df167f3618c538660be3aafd7a54&o=&hp=1"
 language: en
 slug: seaside-gem
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

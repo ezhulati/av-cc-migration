@@ -1,7 +1,7 @@
 ---
 title: "Deluxe & Big Appartment City center"
 description: "Deluxe & Big Apartment City Center emerges as a prime choice for travelers seeking comfort and convenience in Fier."
-featuredImage: "/images/accommodation/deluxe-big-appartment-city-center-405008736.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405008736.jpg?k=7143aae3430302ff5a0b3aa2f7f938527cf05e8449981c6923a58babb6c1178a&o=&hp=1"
 language: en
 slug: deluxe-big-appartment-city-center
 address: "Rruga Jakov Xoxa, 9301 Fier, Albania"

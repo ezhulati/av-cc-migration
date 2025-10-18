@@ -1,7 +1,7 @@
 ---
 title: "River Bridge"
 description: "River Bridge emerges as a serene retreat in the heart of Gjirokastër, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/river-bridge-471480262.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471480262.jpg?k=6da504a269f5a22a6004c1a9e68d57111b785aa9dfa86f63d3f7222abc39ad42&o=&hp=1"
 language: en
 slug: river-bridge
 address: "Rruga Valere, Gjirokastër, Albania"

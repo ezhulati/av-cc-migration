@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Mimani"
 description: "Hotel Vila Mimani emerges as a distinguished 4-star retreat in the historic heart of Berat, offering guests a blend of comfort and convenience with its well-appointed accommodations and thoughtful amenities."
-featuredImage: "/images/accommodation/hotel-vila-mimani-402521646.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402521646.jpg?k=3f9d783f19bec9f6cf83b0895871653d380a7f7290ebba4bef843e611e5bb0d6&o=&hp=1"
 language: en
 slug: hotel-vila-mimani
 address: "Rruga Thoma Bello Lagjia 30 Vjetori, 5001 Berat, Albania"

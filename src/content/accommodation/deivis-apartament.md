@@ -1,7 +1,7 @@
 ---
 title: "Deivis apartament"
 description: "Deivis Apartment emerges as a prime choice for travelers seeking comfortable, air-conditioned accommodations in the heart of Sarandë."
-featuredImage: "/images/accommodation/deivis-apartament-483477474.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483477474.jpg?k=ac153856ed4ec20102ba8b2599326a852a075f71fae83f0b9d65ce378338cb62&o=&hp=1"
 language: en
 slug: deivis-apartament
 address: "Gjergj araniti rruga e peste 1, 9701 Sarandë, Albania"

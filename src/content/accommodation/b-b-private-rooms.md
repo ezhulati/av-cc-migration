@@ -1,7 +1,7 @@
 ---
 title: "B&B - Private Rooms"
 description: "B&B - Private Rooms emerges as a standout homestay in the heart of Tirana, merely a stone's throw away from the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/b-b-private-rooms-427560820.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427560820.jpg?k=328e5310a879d2acd6bb1590a83ef136a2d51907bbe1acf47a32c3b66966a116&o=&hp=1"
 language: en
 slug: b-b-private-rooms
 address: "Rruga Thoma Filipeu Shkalla 1, apartamenti 24, kati 6, Tirana, Albania"

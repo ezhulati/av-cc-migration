@@ -1,7 +1,7 @@
 ---
 title: "Best Apartments"
 description: "Discover the charm of Elbasan with a stay at Best Apartments, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/best-apartments-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/1527497860959117/picture?type=square&height=64&width=64"
 language: en
 slug: best-apartments
 address: "Rruga Selim Zyma, Elbasan, Albania"

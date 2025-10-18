@@ -1,7 +1,7 @@
 ---
 title: "Apartments Vila Cala"
 description: "Apartments Vila Cala emerges as a serene retreat for travelers seeking both tranquility and convenience."
-featuredImage: "/images/accommodation/apartments-vila-cala-107680930.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/107680930.jpg?k=995d5a294588f9eeb8f754146a824cf78d7b6578e15e1d4e759a2a4af481c418&o=&hp=1"
 language: en
 slug: apartments-vila-cala
 address: "Rruga Toefik Skilja, 2000 Durrës, Albania"

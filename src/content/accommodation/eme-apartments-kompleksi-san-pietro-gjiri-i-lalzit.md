@@ -1,7 +1,7 @@
 ---
 title: "EME APARTMENTS - Kompleksi San Pietro, Gjiri i Lalzit"
 description: "EME APARTMENTS - Kompleksi San Pietro, Gjiri i Lalzit, emerges as a serene retreat in the vibrant landscape of Durrës, offering a blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/eme-apartments-kompleksi-san-pietro-gjiri-i-lalzit-477671428.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477671428.jpg?k=c0e8f11e27df67b9fdd77cb5ce81ed5fe81c14409605b12df7f9ecbeacb5b6ad&o=&hp=1"
 language: en
 slug: eme-apartments-kompleksi-san-pietro-gjiri-i-lalzit
 address: "Plazhi San Pietro, Gjiri i Lalzit, Durres., 2000 Durrës, Albania"

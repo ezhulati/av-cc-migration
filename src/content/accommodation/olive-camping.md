@@ -1,7 +1,7 @@
 ---
 title: "Olive Camping"
 description: "Olive Camping emerges as a serene retreat for those seeking an escape amidst nature, strategically positioned in the vibrant town of Himare."
-featuredImage: "/images/accommodation/olive-camping-495586021.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495586021.jpg?k=ed40279e41a920c971a20bd41098fe70fb6b3ae7717b573da67ee49c79a661cc&o=&hp=1"
 language: en
 slug: olive-camping
 address: "Potam, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely 2 Bedroom Apartment"
 description: "Discover the charm of Durrës with a stay at the Lovely 2 Bedroom Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/lovely-2-bedroom-apartment-522259439.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522259439.jpg?k=3c1d81bb529ce4de4c3081d6404b53a6b7d82259631ad01dce4f3a8508713738&o=&hp=1"
 language: en
 slug: lovely-2-bedroom-apartment
 address: "Rruga Taulantia, Durrës, Albania"

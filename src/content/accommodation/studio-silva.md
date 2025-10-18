@@ -1,7 +1,7 @@
 ---
 title: "Studio Silva"
 description: "Studio Silva emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/studio-silva-280722056.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280722056.jpg?k=edbb121a7f56a6ad3523fd89209106b87776d6111d9d5043da776f217e99d6a0&o=&hp=1"
 language: en
 slug: studio-silva
 address: "Rruga Gjik Kuqali, Pallati Ferrar, 1010 Tirana, Albania"

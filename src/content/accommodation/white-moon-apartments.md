@@ -1,7 +1,7 @@
 ---
 title: "White Moon Apartments"
 description: "Discover the charm of White Moon Apartments, a prime choice for travelers seeking comfort and convenience in Mullini i Danit."
-featuredImage: "/images/accommodation/white-moon-apartments-474226899.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474226899.jpg?k=0afe5648b1d9a92612132618ebe5b3807c9cf075574d4fe272574d07c6d06cf4&o=&hp=1"
 language: en
 slug: white-moon-apartments
 address: "San Pietro Resort, Gjiri i Lalzit, 2015 Mullini i Danit, Albania"

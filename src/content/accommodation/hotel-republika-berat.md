@@ -1,7 +1,7 @@
 ---
 title: "Hotel Republika Berat"
 description: "Hotel Republika Berat stands out as a premier destination for travelers seeking a blend of comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/hotel-republika-berat-262725705.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262725705.jpg?k=f4ba0d971a316cb5c60105a9b84aaa1b259f23c48b963b8ae5bb932b56f26b47&o=&hp=1"
 language: en
 slug: hotel-republika-berat
 address: "Rruga Antipatrea Square Teodor Muzaka, 5001 Berat, Albania"

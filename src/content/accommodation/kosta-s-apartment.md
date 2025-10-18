@@ -1,7 +1,7 @@
 ---
 title: "Kosta's Apartment"
 description: "Kosta's Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, complemented by stunning sea views."
-featuredImage: "/images/accommodation/kosta-s-apartment-188496489.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188496489.jpg?k=802aea87a98ebce585ef2ac6264ae5abf463e241f7330424e3b0326f64315ee3&o=&hp=1"
 language: en
 slug: kosta-s-apartment
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

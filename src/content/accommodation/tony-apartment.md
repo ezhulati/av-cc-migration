@@ -1,7 +1,7 @@
 ---
 title: "Tony Apartment"
 description: "Tony Apartment stands as a prime choice for travelers seeking a beachfront haven in Vlorë, mere steps away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/tony-apartment-292667328.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292667328.jpg?k=92759e8148c6053399ca85cd051d9b510bf7a6905e4bc3f3ef28246dc47fffa6&o=&hp=1"
 language: en
 slug: tony-apartment
 address: "Rruga Murat Tërbaçi Kompleksi Flamingo, 9400 Vlorë, Albania"

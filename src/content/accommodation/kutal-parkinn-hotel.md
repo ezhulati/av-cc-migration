@@ -1,7 +1,7 @@
 ---
 title: "Kutal Parkinn Hotel"
 description: "Kutal Parkinn Hotel emerges as a serene oasis in Përmet, offering a harmonious blend of natural beauty and modern amenities."
-featuredImage: "/images/accommodation/kutal-parkinn-hotel-523785273.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523785273.jpg?k=75ec9bc3474942cd829f408199438aa46035e69c5e2d871a7b7f07da643ffc93&o=&hp=1"
 language: en
 slug: kutal-parkinn-hotel
 address: "Rruga nacionale Permet-Kelcyre, 6401 Përmet, Albania"

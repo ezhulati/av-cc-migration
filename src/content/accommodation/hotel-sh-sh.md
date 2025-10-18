@@ -1,7 +1,7 @@
 ---
 title: "Hotel SH & SH"
 description: "Hotel SH & SH stands as a premier destination for travelers seeking a blend of luxury and comfort in Pukë."
-featuredImage: "/images/accommodation/hotel-sh-sh-318505219.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318505219.jpg?k=c775c4e579a8471152d247f09760778ad40264b729b735e0ab234a885045553d&o=&hp=1"
 language: en
 slug: hotel-sh-sh
 address: "Rruga Fushë Arrëz Puke, 4400 Pukë, Albania"

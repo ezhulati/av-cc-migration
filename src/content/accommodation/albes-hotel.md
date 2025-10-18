@@ -1,7 +1,7 @@
 ---
 title: "Albes Hotel"
 description: "Albes Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Fier, located within a striking distance of 40 km from both Independence Square and Kuzum Baba."
-featuredImage: "/images/accommodation/albes-hotel-124547669.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124547669.jpg?k=b794a443e3cb0344c3b7e732158bc0afbc3502916739ce4600f50d101e210a7f&o=&hp=1"
 language: en
 slug: albes-hotel
 address: "Rruga Teodor i II Muzaka, 9300 Fier, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Beach View Apartment, Golem Durres"
 description: "Beach View Apartment, Golem Durres, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/beach-view-apartment-golem-durres-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: beach-view-apartment-golem-durres
 address: "Rruga prane Kompleksit Kamelia, Golem. Durres, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Saudade Apartment Saranda"
 description: "Saudade Apartment Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saudade-apartment-saranda-474658005.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474658005.jpg?k=286b8efb6282d3a715b12b33629f97f7c82984057c36b6bdfd49d2450859cf32&o=&hp=1"
 language: en
 slug: saudade-apartment-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

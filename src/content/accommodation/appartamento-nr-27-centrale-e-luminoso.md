@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Nr. 27. Centrale e luminoso."
 description: "Appartamento Nr."
-featuredImage: "/images/accommodation/appartamento-nr-27-centrale-e-luminoso-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: appartamento-nr-27-centrale-e-luminoso
 address: "Via Qemal Draçini, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Roas Ksamil"
 description: "Hotel Roas Ksamil emerges as a serene oasis in the heart of Ksamil, merely 700 meters from the tranquil Sunset Beach."
-featuredImage: "/images/accommodation/hotel-roas-ksamil-309082957.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309082957.jpg?k=351b206ea41dd6f7c06cdbc2f9befb95aab0e09ef486e7ff0eca064890fe61d8&o=&hp=1"
 language: en
 slug: hotel-roas-ksamil
 address: "Rruga liqeni,ksamil, 2648 Ksamil, Albania"

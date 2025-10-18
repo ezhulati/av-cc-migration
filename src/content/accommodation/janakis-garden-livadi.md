@@ -1,7 +1,7 @@
 ---
 title: "Janakis Garden Livadi"
 description: "Janakis Garden Livadi emerges as a serene oasis in Spile, offering air-conditioned accommodations complete with a welcoming patio."
-featuredImage: "/images/accommodation/janakis-garden-livadi-257689092.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257689092.jpg?k=7f0aa45cd1b2d2f89b622b7b8cc94c3854cc071d663e51dcf60ad2f061b3f281&o=&hp=1"
 language: en
 slug: janakis-garden-livadi
 address: "Himare - Livadh Road Livadh, 9425 Spile, Albania"

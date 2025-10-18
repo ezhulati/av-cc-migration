@@ -1,7 +1,7 @@
 ---
 title: "TONy amazing cozy place"
 description: "TONy Amazing Cozy Place emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tony-amazing-cozy-place-319843409.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319843409.jpg?k=c41978e165f5fad3b140670638006bf1d5122eec1f3a1b43afa620627f60187e&o=&hp=1"
 language: en
 slug: tony-amazing-cozy-place
 address: "Rruga Xhavit Shyqyri Demneri, Ndertesa nr 42, Entry no 1, Apartment 38, 1000 Tirana, Albania"

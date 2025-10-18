@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apparemment 1+1"
 description: "Cozy Apparemment 1+1 emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/cozy-apparemment-1-1-473294074.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473294074.jpg?k=634741ef50eb20049354099d0a66ebee90bfbb6cb823c023733a963f732e0055&o=&hp=1"
 language: en
 slug: cozy-apparemment-1-1
 address: "Rruga Leoni dhe Koja, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DEA Hotel 2002"
 description: "DEA Hotel 2002 stands as a beacon of comfort and convenience in Korçë, a mere 45 km away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/dea-hotel-2002-218929856.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218929856.jpg?k=8d5db60b23fca83a0084dde450f2941ffd6c056bfc09656efec69e6dbe46d784&o=&hp=1"
 language: en
 slug: dea-hotel-2002
 address: "Rruga Partizani, 1001 Korçë, Albania"

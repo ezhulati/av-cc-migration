@@ -1,7 +1,7 @@
 ---
 title: "SFINKS VIEW"
 description: "SFINKS VIEW emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/sfinks-view-408797672.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408797672.jpg?k=a0816ad2fdba97c4e129efdeb09a95d1986503eacbeb72cc19b076b3b65a3117&o=&hp=1"
 language: en
 slug: sfinks-view
 address: "Rruga Taulantia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Asja Apartment City Center"
 description: "Asja Apartment City Center emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës, Durres County."
-featuredImage: "/images/accommodation/asja-apartment-city-center-502459890.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502459890.jpg?k=22f4eef94d2a6db90a3f90eb6fc06bc1cfda1b73ab3251008ff8e1deb0b64494&o=&hp=1"
 language: en
 slug: asja-apartment-city-center
 address: "Rruga Aleksander Goga, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ledjo City Flats"
 description: "Ledjo City Flats emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Saranda."
-featuredImage: "/images/accommodation/ledjo-city-flats-483321531.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483321531.jpg?k=50ddd4575c859292353792753c3103803d96db5f095647a834bf041ca078bc4c&o=&hp=1"
 language: en
 slug: ledjo-city-flats
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

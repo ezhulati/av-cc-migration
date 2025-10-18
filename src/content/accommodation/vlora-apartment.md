@@ -1,7 +1,7 @@
 ---
 title: "Vlora Apartment"
 description: "Vlora Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Vlorë."
-featuredImage: "/images/accommodation/vlora-apartment-528732938.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528732938.jpg?k=7558ea678949b1ca10796610ac32369dfe820f6b4046f94a2be073a8cc0fd3a6&o=&hp=1"
 language: en
 slug: vlora-apartment
 address: "Rruga Shaban Demiraj, Vlorë, Albania"

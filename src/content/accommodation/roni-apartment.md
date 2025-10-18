@@ -1,7 +1,7 @@
 ---
 title: "Roni Apartment"
 description: "Roni Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/roni-apartment-424529885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424529885.jpg?k=e8e729ee1c63faee326a03da2784ce616cc8cf032496b255804e2a2e506628af&o=&hp=1"
 language: en
 slug: roni-apartment
 address: "Rruga Shkembi i Kavajes Floor number 4, 2001 Durrës, Albania"

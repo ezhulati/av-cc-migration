@@ -1,7 +1,7 @@
 ---
 title: "Hoara Holidays Apartment's"
 description: "Hoara Holidays Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës, merely a stone's throw away from the serene Currila Beach."
-featuredImage: "/images/accommodation/hoara-holidays-apartment-s-381511690.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381511690.jpg?k=77bce394cc0e4a158a93a7cf1f8f17c716349757ef14d39be9eae3db6951d4ec&o=&hp=1"
 language: en
 slug: hoara-holidays-apartment-s
 address: "Rruga Taulantia lagja 1, 2000 Durrës, Albania"

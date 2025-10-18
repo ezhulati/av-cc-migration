@@ -1,7 +1,7 @@
 ---
 title: "Luxury Central Suite 1 (3min Beach)"
 description: "Luxury Central Suite 1, located in the heart of Himare within the scenic Vlorë County region, presents an exceptional stay just a stone's throw away from the pristine shores of Spille Beach and Maracit Beach."
-featuredImage: "/images/accommodation/luxury-central-suite-1-3min-beach-487394514.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487394514.jpg?k=bd6cb25d7f25064b37908203f553b1e8cdcafbc25e4c4780cc3240cc08ae8ccf&o=&hp=1"
 language: en
 slug: luxury-central-suite-1-3min-beach
 address: "Himare, Himare, Albania"

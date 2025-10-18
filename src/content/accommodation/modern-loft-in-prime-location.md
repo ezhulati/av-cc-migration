@@ -1,7 +1,7 @@
 ---
 title: "Modern Loft in Prime Location"
 description: "Discover the epitome of urban living at Modern Loft in Prime Location, a premier accommodation choice situated in the heart of Tirana."
-featuredImage: "/images/accommodation/modern-loft-in-prime-location-525737040.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525737040.jpg?k=fc0c5f103c074ecde6236ed28d824d7329e8c86b52466e0f9f915c88b10b70a7&o=&hp=1"
 language: en
 slug: modern-loft-in-prime-location
 address: "7 Rruga Prokop Myzeqari, 1001 Tirana, Albania"

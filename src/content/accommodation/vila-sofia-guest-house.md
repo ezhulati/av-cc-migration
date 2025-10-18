@@ -1,7 +1,7 @@
 ---
 title: "Vila Sofia - Guest House"
 description: "Vila Sofia - Guest House emerges as a serene retreat in Memaliaj, offering a blend of comfort, security, and natural beauty."
-featuredImage: "/images/accommodation/vila-sofia-guest-house-443215312.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443215312.jpg?k=f21c7a127833062f58461e31b048225a32f335d4f23fabf51a9a5de40ab9b6cb&o=&hp=1"
 language: en
 slug: vila-sofia-guest-house
 address: "Gllava Village, 6302 Memaliaj, Albania"

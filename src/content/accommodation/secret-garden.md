@@ -1,7 +1,7 @@
 ---
 title: "Secret Garden"
 description: "Secret Garden emerges as a serene oasis in the heart of Tirana, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/secret-garden-514152730.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514152730.jpg?k=4a705239ab63a1dc5bba43eab1a0af5c77a8ce5a083754541ef8c76957111aa7&o=&hp=1"
 language: en
 slug: secret-garden
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

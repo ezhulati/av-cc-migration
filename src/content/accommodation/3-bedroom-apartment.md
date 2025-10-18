@@ -1,7 +1,7 @@
 ---
 title: "3 Bedroom Apartment"
 description: "Discover the comfort and convenience of the 3 Bedroom Apartment, a prime choice for travelers seeking a serene stay in Tirana."
-featuredImage: "/images/accommodation/3-bedroom-apartment-453162200.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453162200.jpg?k=55fdc82fa6bd2f79a47fa61bc13568a9c853d2b6565a945f7cbebb749ce31be8&o=&hp=1"
 language: en
 slug: 3-bedroom-apartment
 address: "Rruga Mahmut Fortuzi, 1001 Tirana, Albania"

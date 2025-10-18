@@ -1,7 +1,7 @@
 ---
 title: "Petit Hotel Elita"
 description: "Petit Hotel Elita emerges as a serene haven in the bustling heart of Shkodër city center, offering a blend of comfort and convenience mere kilometers from the historic Rozafa Castle Shkodra and the picturesque Lake Skadar."
-featuredImage: "/images/accommodation/petit-hotel-elita-139027732.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/139027732.jpg?k=471b64914e8629fbce9374b1c08907b9e343a3498a418f571640045a92417302&o=&hp=1"
 language: en
 slug: petit-hotel-elita
 address: "Rruga Shtjefen Gjecovi, 4001 Shkodër, Albania"

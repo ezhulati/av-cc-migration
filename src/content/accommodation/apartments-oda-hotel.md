@@ -1,7 +1,7 @@
 ---
 title: "Apartments Oda Hotel"
 description: "Apartments Oda Hotel, located a mere stone's throw away from the pristine Velipoja Beach in Velipojë, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/apartments-oda-hotel-8103dfb0481c.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
 language: en
 slug: apartments-oda-hotel
 address: "Rruga Nr.9, 4001 Velipojë, Albania"

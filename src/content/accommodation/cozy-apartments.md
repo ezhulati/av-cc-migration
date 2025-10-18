@@ -1,7 +1,7 @@
 ---
 title: "Cozy Apartments"
 description: "Cozy Apartments emerges as a serene haven in the bustling city of Tirana, offering air-conditioned accommodations complete with a balcony for those seeking a blend of comfort and convenience."
-featuredImage: "/images/accommodation/cozy-apartments-455207792.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455207792.jpg?k=f4897e5205b7e8ab85f4bb60dc0b0fe5210b8116efe8ea774b2c0e7e7d454c08&o=&hp=1"
 language: en
 slug: cozy-apartments
 address: "Rruga Jorgo Plaku, Tirana, Albania"

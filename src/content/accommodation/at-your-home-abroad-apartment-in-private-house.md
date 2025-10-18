@@ -1,7 +1,7 @@
 ---
 title: "At Your Home Abroad - Apartment in private house"
 description: "At Your Home Abroad presents a serene retreat in the heart of Tirana, offering a unique blend of local charm and modern comforts."
-featuredImage: "/images/accommodation/at-your-home-abroad-apartment-in-private-house-502152956.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502152956.jpg?k=a85ede55843fe7bb5c12f5cf2aa7f085ffa124451a94d585724b617413835492&o=&hp=1"
 language: en
 slug: at-your-home-abroad-apartment-in-private-house
 address: "102 Rruga Todi Shkurti, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila7 divjake"
 description: "Vila7 Divjake emerges as a serene retreat for travelers seeking comfort and convenience in Divjakë."
-featuredImage: "/images/accommodation/vila7-divjake-498675668.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498675668.jpg?k=e9022de5e3f4d87b2dc834a5b592883d00c83fd15ddf7dacedcb7e674c501f84&o=&hp=1"
 language: en
 slug: vila7-divjake
 address: "Divjakë, Albanian Riviera, Albania, 9022 Divjakë, Albania"

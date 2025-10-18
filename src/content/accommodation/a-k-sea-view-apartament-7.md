@@ -1,7 +1,7 @@
 ---
 title: "A&K Sea view apartament 7"
 description: "A&K Sea View Apartment 7 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/a-k-sea-view-apartament-7-467131132.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467131132.jpg?k=43b77ee9d6adef60714b9c4a363c141e12e814c2e2ff2cd79479ceb028882938&o=&hp=1"
 language: en
 slug: a-k-sea-view-apartament-7
 address: "Rruga Pavarsia 7th, 2001 Durrës, Albania"

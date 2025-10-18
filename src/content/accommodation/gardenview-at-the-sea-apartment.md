@@ -1,7 +1,7 @@
 ---
 title: "GardenView at the Sea Apartment"
 description: "GardenView at the Sea Apartment emerges as a prime choice for travelers seeking a serene getaway in Golem, perfectly positioned just a stone's throw away from both Shkëmbi i Kavajës Beach and Golem Beach."
-featuredImage: "/images/accommodation/gardenview-at-the-sea-apartment-380414731.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380414731.jpg?k=f55ae0832e00659000568ffcfc89b9f02d85f531a3fc595738806ccf9a27d1d3&o=&hp=1"
 language: en
 slug: gardenview-at-the-sea-apartment
 address: "Rruga grand blue fafa, golem, 13 Garden Apartments, 2nd Floor, Golem, Albania"

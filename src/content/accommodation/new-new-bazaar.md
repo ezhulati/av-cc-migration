@@ -1,7 +1,7 @@
 ---
 title: "New New Bazaar"
 description: "Discover the charm of Tirana with a stay at New New Bazaar, a prime accommodation choice that boasts views of the serene inner courtyard."
-featuredImage: "/images/accommodation/new-new-bazaar-362469509.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362469509.jpg?k=945c938806ef513ae182ab80f944d6b0f2fd9c4b1fdad5594f71de0b52bd791a&o=&hp=1"
 language: en
 slug: new-new-bazaar
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

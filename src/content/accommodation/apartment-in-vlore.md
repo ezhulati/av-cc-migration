@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Vlore"
 description: "Apartment in Vlore stands as a prime choice for travelers seeking a blend of comfort and convenience, just a stone's throw away from the serene Vjetër Beach and a brief stroll from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/apartment-in-vlore-383872306.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383872306.jpg?k=4edbf59c2f23460018ec984fa927254d8f65eaef67f27f6f45e9f278cdbc28bf&o=&hp=1"
 language: en
 slug: apartment-in-vlore
 address: "Rruga Kosova, Vlorë, Albania"

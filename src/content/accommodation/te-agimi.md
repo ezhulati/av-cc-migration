@@ -1,7 +1,7 @@
 ---
 title: "Te Agimi"
 description: "Te Agimi stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/te-agimi-489258884.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489258884.jpg?k=0d17556921ef8cc19b9dc9956baf425df7d1db17384df276a31d38127ac72fff&o=&hp=1"
 language: en
 slug: te-agimi
 address: "Rruga Murat Tërbaçi, 9403 Vlorë, Albania"

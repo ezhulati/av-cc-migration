@@ -1,7 +1,7 @@
 ---
 title: "\"Frogs House\" Hotel & Restorant Slow Food"
 description: "\"Frogs House\" Hotel & Restorant Slow Food, situated in the heart of Lushnjë, emerges as a charming destination for travelers seeking a blend of comfort and local cuisine."
-featuredImage: "/images/accommodation/frogs-house-hotel-restorant-slow-food-116357770.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116357770.jpg?k=c78899e7fc2bc58de8e7abf294c6952253c85a85c7fdfa6bd4d93b59ed280269&o=&hp=1"
 language: en
 slug: frogs-house-hotel-restorant-slow-food
 address: "Barbullinje, Rruga Lushnje Berat km 7, 9013 Lushnjë, Albania"

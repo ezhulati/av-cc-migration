@@ -1,7 +1,7 @@
 ---
 title: "Drimadhë: Spacious and all-comfort sea-view appt"
 description: "Discover the charm of Dhërmi with a stay at Drimadhë, a spacious apartment offering breathtaking views of the sea from its welcoming balcony."
-featuredImage: "/images/accommodation/drimadh-spacious-and-all-comfort-sea-view-appt-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10211261149698125/picture?type=square&height=64&width=64"
 language: en
 slug: drimadh-spacious-and-all-comfort-sea-view-appt
 address: "Rruga Perivolo Building Oriente Sole, Dhërmi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Grand Central Apartment LTH"
 description: "Grand Central Apartment LTH emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/grand-central-apartment-lth-472813336.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472813336.jpg?k=147ba58771867d282b3ae0227d9cbcbbf70d0dc0921c6949e68054a51e1d1cc8&o=&hp=1"
 language: en
 slug: grand-central-apartment-lth
 address: "Liqeni Thatë, 1010 Tirana, Albania"

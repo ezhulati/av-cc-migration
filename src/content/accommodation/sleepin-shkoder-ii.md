@@ -1,7 +1,7 @@
 ---
 title: "SleepIN Shkoder II"
 description: "SleepIN Shkoder II emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër, located just 48 km from the Port of Bar."
-featuredImage: "/images/accommodation/sleepin-shkoder-ii-479410662.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479410662.jpg?k=ee06073568191fa243dceae8f490adfcf16eadb222124419487ff3db4597fc8f&o=&hp=1"
 language: en
 slug: sleepin-shkoder-ii
 address: "Rruga Isuf Sokoli apartment nr 16, floor 4, 4001 Shkodër, Albania"

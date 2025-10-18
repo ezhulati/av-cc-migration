@@ -1,7 +1,7 @@
 ---
 title: "~Villa Gloria~"
 description: "Villa Gloria stands out as a distinguished 3-star haven in Durrës, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/villa-gloria-465593943.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465593943.jpg?k=395a8693cf5119d9b59256110a5208f0b561d1d1ecba4e60fc09d9b929c00fc9&o=&hp=1"
 language: en
 slug: villa-gloria
 address: "Rruga Karl Topia, 2001 Durrës, Albania"

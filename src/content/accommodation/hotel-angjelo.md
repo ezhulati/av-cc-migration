@@ -1,7 +1,7 @@
 ---
 title: "Hotel Angjelo"
 description: "Hotel Angjelo stands out as a prime choice for travelers seeking comfort and convenience in Borsh, just a stone's throw away from the pristine Borsh Beach and a scenic drive from Butrint National Park."
-featuredImage: "/images/accommodation/hotel-angjelo-518370887.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518370887.jpg?k=d134503782d9684905c3d90a5c0a414ba210744db15126df94477b4d57b0c7ed&o=&hp=1"
 language: en
 slug: hotel-angjelo
 address: "Lagjia Shkalle, 9714 Borsh, Albania"

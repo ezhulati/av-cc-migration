@@ -1,7 +1,7 @@
 ---
 title: "Bliri Myslym Shyri"
 description: "Bliri Myslym Shyri emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/bliri-myslym-shyri-478477776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478477776.jpg?k=9c48bf7a87bf8369f01244f3e1e4a7ce93815816c9724fd862f1f04bc42ee105&o=&hp=1"
 language: en
 slug: bliri-myslym-shyri
 address: "56 Rruga Myslym Shyri, 1001 Tirana, Albania"

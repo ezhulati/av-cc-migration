@@ -1,7 +1,7 @@
 ---
 title: "A lovely one bedroom apartment located in one of the best areas of Saranda"
 description: "Discover the charm of Sarandë from the comfort of this spacious one-bedroom apartment, perfectly positioned to offer stunning city views and easy access to the area's most sought-after beaches."
-featuredImage: "/images/accommodation/a-lovely-one-bedroom-apartment-located-in-one-of-the-best-areas-of-saranda-358153987.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358153987.jpg?k=50f24b5d0f178284cc4b5b083a0f267d3451091f656b8e06911baf6c3a2f1a07&o=&hp=1"
 language: en
 slug: a-lovely-one-bedroom-apartment-located-in-one-of-the-best-areas-of-saranda
 address: "Rruga 40 Shenjtorët, 9700 Sarandë, Albania"

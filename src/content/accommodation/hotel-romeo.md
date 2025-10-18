@@ -1,7 +1,7 @@
 ---
 title: "Hotel Romeo"
 description: "Hotel Romeo emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, located just 43 km from the serene Ohrid Lake Springs."
-featuredImage: "/images/accommodation/hotel-romeo-279850670.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279850670.jpg?k=c7ae4ae3de5764cadc869bfc87cc974d0df280af9af598b833bbb9b54ac009ac&o=&hp=1"
 language: en
 slug: hotel-romeo
 address: "Bulevard Gjergj Kastrioti Qender Korce, Prane BKT, 7001 Korçë, Albania"

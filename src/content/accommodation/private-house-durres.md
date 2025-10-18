@@ -1,7 +1,7 @@
 ---
 title: "Private House Durres"
 description: "Private House Durres emerges as a serene retreat for travelers seeking a blend of comfort and convenience, complemented by lush garden views."
-featuredImage: "/images/accommodation/private-house-durres-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: private-house-durres
 address: "Rruga Usta Rexhepi Kamilio Prashniker, 2001 Durrës, Albania"

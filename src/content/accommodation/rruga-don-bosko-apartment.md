@@ -1,7 +1,7 @@
 ---
 title: "Rruga Don Bosko Apartment"
 description: "Rruga Don Bosko Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/rruga-don-bosko-apartment-183838643.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/183838643.jpg?k=29a3fd9281f87953e2af0d37f55f7c2a420ad770ff137882434e87856cfd2be6&o=&hp=1"
 language: en
 slug: rruga-don-bosko-apartment
 address: "Rruga Don Bosko Shekulli building, in front Vizion+ channel, 1057 Tirana, Albania"

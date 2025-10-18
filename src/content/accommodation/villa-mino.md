@@ -1,7 +1,7 @@
 ---
 title: "Villa MINO"
 description: "Villa MINO stands as a serene retreat in the heart of Shkodër, offering an unparalleled blend of comfort and security in the picturesque Shkoder County region."
-featuredImage: "/images/accommodation/villa-mino-481663154.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481663154.jpg?k=bc28d941f22d05db941c7833dae67d89933c6f542b7f4e946bb2e0bee93bc277&o=&hp=1"
 language: en
 slug: villa-mino
 address: "Rruga At Vincens Prendushi 2, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Shkodra Guest House"
 description: "Shkodra Guest House emerges as a serene haven for travelers seeking a blend of comfort and convenience in Shkodër, located a mere 49 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/shkodra-guest-house-509236174.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509236174.jpg?k=97a5338eebf5037a9e9297f97e6f10cbd12479f32a39f8c2cf3093f67f233289&o=&hp=1"
 language: en
 slug: shkodra-guest-house
 address: "Rruga Oso Kuka, 4001 Shkodër, Albania"

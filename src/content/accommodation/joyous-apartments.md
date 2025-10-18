@@ -1,7 +1,7 @@
 ---
 title: "Joyous Apartments"
 description: "Joyous Apartments emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience, situated merely a stone's throw away from the pristine Sarande Main Beach."
-featuredImage: "/images/accommodation/joyous-apartments-386488684.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386488684.jpg?k=31f4f34a56ac53cbd79f048c0d608284301dba5a706b155ef60e29663abfbc39&o=&hp=1"
 language: en
 slug: joyous-apartments
 address: "Rruga Idriz Alidhima Baba rexhepi, 9701 Sarandë, Albania"

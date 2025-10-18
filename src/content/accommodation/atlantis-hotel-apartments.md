@@ -1,7 +1,7 @@
 ---
 title: "Atlantis Hotel & Apartments"
 description: "Atlantis Hotel & Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/atlantis-hotel-apartments-526678164.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526678164.jpg?k=9a2043da3111723be56cdcb312227d3537bc701cf59895256a517241ee0857d2&o=&hp=1"
 language: en
 slug: atlantis-hotel-apartments
 address: "SH81 \"Miqesia\" Square, 9706 Ksamil, Albania"

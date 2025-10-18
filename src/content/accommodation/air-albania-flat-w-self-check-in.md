@@ -1,7 +1,7 @@
 ---
 title: "Air Albania Flat w/Self Check In"
 description: "Air Albania Flat w/Self Check In emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "/images/accommodation/air-albania-flat-w-self-check-in-464686335.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464686335.jpg?k=23ef44d2954132a6a6773eb54a28f0609472ffba08ea78043716435844405bc1&o=&hp=1"
 language: en
 slug: air-albania-flat-w-self-check-in
 address: "1 Rruga Dervish Hima, 1001 Tirana, Albania"

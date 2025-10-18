@@ -1,7 +1,7 @@
 ---
 title: "Newly renovated apartment"
 description: "Newly Renovated Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/newly-renovated-apartment-336103167.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/336103167.jpg?k=c6968160fdacc08272c14dc0b77abd2d4fe5d6e510b7622ab136231c43f0e074&o=&hp=1"
 language: en
 slug: newly-renovated-apartment
 address: "Rruga Petro Nini Luarasi, Tirana, Albania"

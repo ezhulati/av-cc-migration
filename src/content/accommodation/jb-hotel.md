@@ -1,7 +1,7 @@
 ---
 title: "JB Hotel"
 description: "JB Hotel emerges as a charming retreat in the vibrant tourist town of Sarandë, offering guests a blend of comfort and convenience with its outdoor pool and on-site restaurant."
-featuredImage: "/images/accommodation/jb-hotel-68677502.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68677502.jpg?k=da19b8733c8d6b4a973ad90ce298c19e744a340aa9a6c091ec90635754a087f1&o=&hp=1"
 language: en
 slug: jb-hotel
 address: "Rr.Skenderbeu L.Nr.1, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pupa Winery Serene Stay"
 description: "Pupa Winery Serene Stay emerges as a tranquil haven in the heart of Berat, offering guests an exceptional retreat with its unique combination of comfort and natural beauty."
-featuredImage: "/images/accommodation/pupa-winery-serene-stay-450097074.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450097074.jpg?k=fe0e8abf53eb08859aa5ef6a6850e21b4b469b5da8ea2482aba39d956f11fd4f&o=&hp=1"
 language: en
 slug: pupa-winery-serene-stay
 address: "Fushe-Peshtan Berat, 5001 Berat, Albania"

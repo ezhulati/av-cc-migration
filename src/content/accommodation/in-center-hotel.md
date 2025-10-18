@@ -1,7 +1,7 @@
 ---
 title: "In Center Hotel"
 description: "In Center Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/in-center-hotel-245628748.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/245628748.jpg?k=88e20dbf8c07328b22c67d30ca89f3aa35b66778e90f5775eb6ee501e5c0c9f5&o=&hp=1"
 language: en
 slug: in-center-hotel
 address: "Rruga Bardhok Biba LID Building, 1001 Tirana, Albania"

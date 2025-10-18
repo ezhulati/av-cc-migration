@@ -1,7 +1,7 @@
 ---
 title: "FarmHouse Qeparo"
 description: "FarmHouse Qeparo emerges as a serene retreat, offering guests a picturesque stay with its stunning mountain views and meticulously maintained garden."
-featuredImage: "/images/accommodation/farmhouse-qeparo-434255118.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434255118.jpg?k=6dc6ee696aa3e1f3f343c2068710e6f9406c5612fa9dc89c4a8f21ac35a9da3f&o=&hp=1"
 language: en
 slug: farmhouse-qeparo
 address: "Himare, 9416 Qeparo, Albania"

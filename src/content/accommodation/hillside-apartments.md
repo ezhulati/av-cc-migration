@@ -1,7 +1,7 @@
 ---
 title: "Hillside Apartments"
 description: "Hillside Apartments emerges as a serene retreat in Ksamil, boasting panoramic mountain views and the convenience of modern amenities, including complimentary WiFi and private parking."
-featuredImage: "/images/accommodation/hillside-apartments-352158534.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352158534.jpg?k=a2880f6bf1f46e45c2dc9dba784aa8ba66b317314d257ad9a1ff76329c322e26&o=&hp=1"
 language: en
 slug: hillside-apartments
 address: "Rruga Riza Cerova, 9706 Ksamil, Albania"

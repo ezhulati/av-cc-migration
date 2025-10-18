@@ -1,7 +1,7 @@
 ---
 title: "A&X Santa Marta"
 description: "A&X Santa Marta emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/a-x-santa-marta-526478754.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526478754.jpg?k=8b31aeffd87ef7207b7307dde5c7751e6007151620093b2952700e5c1f92c423&o=&hp=1"
 language: en
 slug: a-x-santa-marta
 address: "Rruga Vllazën Huta, Tirana, Albania"

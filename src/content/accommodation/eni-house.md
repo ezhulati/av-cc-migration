@@ -1,7 +1,7 @@
 ---
 title: "Eni House"
 description: "Eni House emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/eni-house-478170191.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478170191.jpg?k=13366f67fc2faa4d3275f7fbce7690b4337c06500fdb9a9c0fc61bd1298e848f&o=&hp=1"
 language: en
 slug: eni-house
 address: "Rruga Qukej Ap 2023 / Floor 2, 4001 Shkodër, Albania"

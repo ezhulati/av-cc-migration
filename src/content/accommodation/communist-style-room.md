@@ -1,7 +1,7 @@
 ---
 title: "Communist style room"
 description: "Communist Style Room, situated in the vibrant city of Shkodër, offers a unique lodging experience that stands out for its distinctive theme and convenient amenities."
-featuredImage: "/images/accommodation/communist-style-room-459250198.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459250198.jpg?k=e9fea41546cd50cf97f25311c7245b7a79ef34b30a1adc64142ca862da56beb5&o=&hp=1"
 language: en
 slug: communist-style-room
 address: "Bulevardi Mehmet Pashë Plaku, 4001 Shkodër, Albania"

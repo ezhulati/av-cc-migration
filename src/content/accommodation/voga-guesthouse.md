@@ -1,7 +1,7 @@
 ---
 title: "Voga Guesthouse"
 description: "Voga Guesthouse, located in the heart of Krujë, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/voga-guesthouse-490258952.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490258952.jpg?k=86acc7a2c5fc96bba384f7b79722f2e6dd75892653137b7fefd51fea593c9450&o=&hp=1"
 language: en
 slug: voga-guesthouse
 address: "Rruga Albanopolis, 1501 Krujë, Albania"

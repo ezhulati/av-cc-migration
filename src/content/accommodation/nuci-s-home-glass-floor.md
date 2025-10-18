@@ -1,7 +1,7 @@
 ---
 title: "Nuci's Home glass floor"
 description: "Nuci's Home introduces a captivating stay experience in Tushemisht, where modern amenities meet the charm of natural beauty."
-featuredImage: "/images/accommodation/nuci-s-home-glass-floor-269443213.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269443213.jpg?k=4e3c51c58bacf7fd45eb28c711c6e9486722decf166a6576c03f48283ec43358&o=&hp=1"
 language: en
 slug: nuci-s-home-glass-floor
 address: "Pogradec, Tushemisht, Albania, 7301 Tushemisht, Albania"

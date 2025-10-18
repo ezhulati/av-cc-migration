@@ -1,7 +1,7 @@
 ---
 title: "Cara Guest House"
 description: "Cara Guest House emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/cara-guest-house-490758671.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490758671.jpg?k=7bd2478da1ab7fd7aea43b946c0dd8965a6c5770517f990df08e7f90c932d10c&o=&hp=1"
 language: en
 slug: cara-guest-house
 address: "Rruga Glaukia 8FC5+7QW Durrës, Albania, Durrës, Albania"

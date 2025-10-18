@@ -1,7 +1,7 @@
 ---
 title: "Hotel Edart"
 description: "Hotel Edart stands as a prime beachfront oasis in Durrës, boasting not only exceptional views but also a plethora of amenities designed to enhance every stay."
-featuredImage: "/images/accommodation/hotel-edart-284385073.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284385073.jpg?k=bc36480d9f36cdd54446a403b74faf86a108840ee66e611e26b8f8073adcdef5&o=&hp=1"
 language: en
 slug: hotel-edart
 address: "Rruga Pavaresia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nicolaus Hidden Gem Villa"
 description: "Nicolaus Hidden Gem Villa emerges as a recently updated oasis in Shkodër, offering an exceptional stay for those seeking both comfort and convenience."
-featuredImage: "/images/accommodation/nicolaus-hidden-gem-villa-476332860.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476332860.jpg?k=17393524cde54cde12c3c20d81e6f3712066af442db3fb7525d81fe52f2dd1d1&o=&hp=1"
 language: en
 slug: nicolaus-hidden-gem-villa
 address: "Rruga Arra e Madhe, 4001 Shkodër, Albania"

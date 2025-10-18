@@ -1,7 +1,7 @@
 ---
 title: "Vila Helen"
 description: "Vila Helen emerges as a serene retreat in the heart of Voskopojë, providing guests with an array of amenities designed for comfort and relaxation."
-featuredImage: "/images/accommodation/vila-helen-385746746.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/385746746.jpg?k=eea71ca534d53739dc0bd72f7bff775c3a2150902741d7cd35abdf2d3dd03a4b&o=&hp=1"
 language: en
 slug: vila-helen
 address: "SH63 Nr 5/2, 7029 Voskopojë, Albania"

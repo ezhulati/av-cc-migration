@@ -1,7 +1,7 @@
 ---
 title: "Trio Apartment's City Center Tirana"
 description: "Trio Apartment's City Center Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/trio-apartment-s-city-center-tirana-511383796.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511383796.jpg?k=3b00239ea9c92b053038decb9c6e70f918d03b1fa267e81e46d7e3eeaf684431&o=&hp=1"
 language: en
 slug: trio-apartment-s-city-center-tirana
 address: "Rruga e Barrikadave, Tirana, Albania"

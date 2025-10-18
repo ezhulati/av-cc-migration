@@ -1,7 +1,7 @@
 ---
 title: "Modern Cozy Apartment 10 Min Walk to Skanderbeg Square"
 description: "Modern Cozy Apartment, a mere 10-minute stroll from the heart of Tirana's Skanderbeg Square, emerges as a prime choice for travelers seeking the comfort of home with the convenience of city exploration."
-featuredImage: "/images/accommodation/modern-cozy-apartment-10-min-walk-to-skanderbeg-square-518423484.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518423484.jpg?k=a88a8429677cca5d591dd1e746b54a92bdbd68db82d276a2d0d1302d0a7491db&o=&hp=1"
 language: en
 slug: modern-cozy-apartment-10-min-walk-to-skanderbeg-square
 address: "Rruga Haxhi Hysen Dalliu 2nd Floor, 1057 Tirana, Albania"

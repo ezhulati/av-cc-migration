@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kukesi"
 description: "Hotel Kukesi emerges as a serene retreat in Pogradec, offering guests a harmonious blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/hotel-kukesi-474241624.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474241624.jpg?k=4ec376279d88e0a2f59d27156e475631467e62ab326081ebec71183c83091deb&o=&hp=1"
 language: en
 slug: hotel-kukesi
 address: "Lin,Pogradec, 7301 Pogradec, Albania"

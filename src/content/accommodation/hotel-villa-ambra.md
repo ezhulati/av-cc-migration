@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Ambra"
 description: "Hotel Villa Ambra emerges as a serene oasis in Ksamil, merely a stone's throw away from the pristine Sunset Beach."
-featuredImage: "/images/accommodation/hotel-villa-ambra-374281540.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374281540.jpg?k=c22564b578a5318660cca1a8369b260fd2a247064ae60909a27963fe8a1d64a9&o=&hp=1"
 language: en
 slug: hotel-villa-ambra
 address: "Rruga Riviera, 9999 Ksamil, Albania"

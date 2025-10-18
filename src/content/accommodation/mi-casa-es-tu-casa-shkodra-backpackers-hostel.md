@@ -1,7 +1,7 @@
 ---
 title: "Mi Casa es Tu Casa - Shkodra Backpackers Hostel"
 description: "Mi Casa Es Tu Casa - Shkodra Backpackers Hostel stands as a beacon of hospitality in the heart of Shkodër, offering travelers a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/mi-casa-es-tu-casa-shkodra-backpackers-hostel-147347387.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147347387.jpg?k=afb86128a3601a696bf7696cbb94196b52a1ac83e1102ad62688bdbaf1e5b7b8&o=&hp=1"
 language: en
 slug: mi-casa-es-tu-casa-shkodra-backpackers-hostel
 address: "Bulevard Sknderbeu , in front of Kinema Millenium, 4001 Shkodër, Albania"

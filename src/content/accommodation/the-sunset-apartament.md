@@ -1,7 +1,7 @@
 ---
 title: "The Sunset Apartament"
 description: "The Sunset Apartament stands as a prime beachfront gem in Durrës, merely a stone's throw away from the pristine Durres Beach and within a comfortable distance of 37 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/the-sunset-apartament-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: the-sunset-apartament
 address: "Rruga Pavaresia L.13, Plazh Durres, Beach Front, 2001 Durrës, Albania"

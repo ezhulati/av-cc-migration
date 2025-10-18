@@ -1,7 +1,7 @@
 ---
 title: "Kledia's apartment"
 description: "Kledia's Apartment stands out as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/kledia-s-apartment-372667406.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372667406.jpg?k=7870f593efd802a46703549f3434c998ade76a67915b3000a7dcb72291635937&o=&hp=1"
 language: en
 slug: kledia-s-apartment
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apartment In Tirana"
 description: "Lovely Apartment In Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lovely-apartment-in-tirana-400904469.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/400904469.jpg?k=cf7ce4f993b5c79b53f3a995a9035ad0c32deec7375f625b62bdaf1b48484094&o=&hp=1"
 language: en
 slug: lovely-apartment-in-tirana
 address: "Rruga Tish Dahia, 1001 Tirana, Albania"

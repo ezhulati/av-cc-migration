@@ -1,7 +1,7 @@
 ---
 title: "Tirana City Rooms - Vatra e Lagjes by Paymán Club"
 description: "Tirana City Rooms - Vatra e Lagjes by Paymán Club emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-city-rooms-vatra-e-lagjes-by-paym-n-club-343567453.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343567453.jpg?k=b479d210b61c9e5316e408b3e8c2484f6c0168d015a5eec8581eebcc4cda4d1c&o=&hp=1"
 language: en
 slug: tirana-city-rooms-vatra-e-lagjes-by-paym-n-club
 address: "15 Rruga Rexhep Jella 15, 1019 Tirana, Albania"

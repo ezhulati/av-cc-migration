@@ -1,7 +1,7 @@
 ---
 title: "HOTEL SARDA"
 description: "Hotel Sarda stands out as a serene retreat in Vau i Dejës, offering breathtaking river views and the convenience of modern amenities."
-featuredImage: "/images/accommodation/hotel-sarda-474202449.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474202449.jpg?k=b01e7ec5b71faaa22edb7ee2e41ad5571ebd63e02900c5a03b6eb9b111bcc7be&o=&hp=1"
 language: en
 slug: hotel-sarda
 address: "2J49+QJ7 HOTEL SARDA, 4008 Vau i Dejës, Albania"

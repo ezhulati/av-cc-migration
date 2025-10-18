@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Alberti Llogara"
 description: "Guesthouse Alberti Llogara emerges as a serene retreat in the heart of Shalë, offering a unique blend of comfort and natural beauty for travelers seeking an escape from the ordinary."
-featuredImage: "/images/accommodation/guesthouse-alberti-llogara-473620010.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473620010.jpg?k=2e455829922e205c3a89043ed16d64c465f4f04d95dcdf374cb64d6dcd638dbe&o=&hp=1"
 language: en
 slug: guesthouse-alberti-llogara
 address: "SH8 Nr:11 primo piano, 9400 Shalë, Albania"

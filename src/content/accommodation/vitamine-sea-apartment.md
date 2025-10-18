@@ -1,7 +1,7 @@
 ---
 title: "Vitamine Sea Apartment"
 description: "Vitamine Sea Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/vitamine-sea-apartment-476748841.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476748841.jpg?k=9ea12f9bc2dc9602806ddb0b63b0eadcf3d60d02a3581292fd334534d82a83c0&o=&hp=1"
 language: en
 slug: vitamine-sea-apartment
 address: "Rruga Ankona 6th floor, 2001 Durrës, Albania"

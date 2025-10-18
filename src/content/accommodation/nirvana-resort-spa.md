@@ -1,7 +1,7 @@
 ---
 title: "Nirvana Resort & Spa"
 description: "Nirvana Resort & Spa emerges as a serene oasis located just a stone's throw away from the bustling heart of Fushë-Krujë, offering a tranquil retreat 21 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/nirvana-resort-spa-482819734.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482819734.jpg?k=e6f557d0e03a0226bd9e1caa2517d6ec67238e9d1c00a5fb9b282b8f4d8589b8&o=&hp=1"
 language: en
 slug: nirvana-resort-spa
 address: "Rruga nacionale Fushe Kruje - Laç, 1501 Fushë-Krujë, Albania"

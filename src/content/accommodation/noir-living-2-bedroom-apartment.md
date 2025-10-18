@@ -1,7 +1,7 @@
 ---
 title: "Noir Living 2 bedroom apartment"
 description: "Noir Living presents a two-bedroom apartment that stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/noir-living-2-bedroom-apartment-405563822.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405563822.jpg?k=8c3c58d8219f74f2f0c81d8c6b003a798394b5f8ffc5ea586dd6befc028d4555&o=&hp=1"
 language: en
 slug: noir-living-2-bedroom-apartment
 address: "9 Rruga Perlat Rexhepi, 1001 Tirana, Albania"

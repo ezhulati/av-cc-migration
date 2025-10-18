@@ -1,7 +1,7 @@
 ---
 title: "Hotel Deja"
 description: "Hotel Deja emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-deja-87523283.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87523283.jpg?k=14b11fc200a20991b36167425928a421ce68123aea6f6500ec97f0ee7cc9016a&o=&hp=1"
 language: en
 slug: hotel-deja
 address: "Rr. Fuat Toptani, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Summer Dreams"
 description: "Summer Dreams emerges as a prime choice for travelers seeking a blend of comfort and convenience in Ksamil, positioned just a short stroll from the pristine Ksamil Beach 9."
-featuredImage: "/images/accommodation/summer-dreams-144644046.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144644046.jpg?k=4b7d6804a6c775bbc42aa3284946e3bace769c33bc9bc260843d03baa410426b&o=&hp=1"
 language: en
 slug: summer-dreams
 address: "Rruga ksamil butrint, 9706 Ksamil, Albania"

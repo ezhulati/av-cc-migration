@@ -1,7 +1,7 @@
 ---
 title: "New W Hotel"
 description: "New W Hotel emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/new-w-hotel-323530035.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323530035.jpg?k=fa49418710f2f3e259d43357d9b13b6159ea28759209bbf99478c6d80d245a20&o=&hp=1"
 language: en
 slug: new-w-hotel
 address: "St Tre Vellezerit, 75 ND. 6, H1, 1001 Tirana, 1001 Tirana, Albania"

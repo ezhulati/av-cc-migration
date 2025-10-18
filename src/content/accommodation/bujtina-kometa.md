@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Kometa"
 description: "Bujtina Kometa emerges as a charming retreat in the heart of Theth, situated just 3."
-featuredImage: "/images/accommodation/bujtina-kometa-147464531.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147464531.jpg?k=dc3e82b0d8c0c03b497084beb633d853964368fe1283ce90ff08a1a7d92f37c3&o=&hp=1"
 language: en
 slug: bujtina-kometa
 address: "Rruga Okol Theth, 4001 Theth, Albania"

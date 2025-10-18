@@ -1,7 +1,7 @@
 ---
 title: "Central Apartment-New Bazar (with balcony)"
 description: "Central Apartment-New Bazar stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-apartment-new-bazar-with-balcony-465685473.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465685473.jpg?k=4ef6e9d62728bec89ad373fb941ad49c1170311f24d01dad2b387a76295321d8&o=&hp=1"
 language: en
 slug: central-apartment-new-bazar-with-balcony
 address: "Rruga Kostandin Kristoforidhi, 1005 Tirana, Albania"

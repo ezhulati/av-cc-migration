@@ -1,7 +1,7 @@
 ---
 title: "Fantastic 2 bedroom Apartment"
 description: "Discover the charm of Tirana with a stay at the Fantastic 2 Bedroom Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/fantastic-2-bedroom-apartment-478862517.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478862517.jpg?k=02341f213aca743cad09930e8da4708f10875d8dc3a09fea3a432ba4bdfdad84&o=&hp=1"
 language: en
 slug: fantastic-2-bedroom-apartment
 address: "Rruga Njazi Demi, 0001 Tirana, Albania"

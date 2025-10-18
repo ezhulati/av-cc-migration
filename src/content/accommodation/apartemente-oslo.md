@@ -1,7 +1,7 @@
 ---
 title: "Apartemente Oslo"
 description: "Discover the charm of Vlorë with a stay at Apartemente Oslo, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/apartemente-oslo-494798178.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494798178.jpg?k=7449f6474087fb1369e232245a98aa0e7567ccc10b26b1d1afec6fda44986b77&o=&hp=1"
 language: en
 slug: apartemente-oslo
 address: "Vlore - Kanine, 9401 Vlorë, Albania"

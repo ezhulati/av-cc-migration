@@ -1,7 +1,7 @@
 ---
 title: "Vila Licenji"
 description: "Vila Licenji emerges as a prime choice for travelers seeking a serene beachfront escape, complete with the comforts of home and the luxury of stunning garden views."
-featuredImage: "/images/accommodation/vila-licenji-364920782.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364920782.jpg?k=af0cc1904fd94858e5e9465e5295b6ce0de0530efe0aadefb8613f02f0be17f3&o=&hp=1"
 language: en
 slug: vila-licenji
 address: "Rruga Aleks Çaçi, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "One bedroom apartment in Tirana"
 description: "Discover the charm of Tirana with a stay at the One Bedroom Apartment in Tirana, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/one-bedroom-apartment-in-tirana-507421594.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507421594.jpg?k=5525f193c681ed97340ca0422a1ae3718330b85e396827c772680ff42bee6e20&o=&hp=1"
 language: en
 slug: one-bedroom-apartment-in-tirana
 address: "Rruga Haxhi Hysen Dalliu, Tirana, Albania"

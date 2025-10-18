@@ -1,7 +1,7 @@
 ---
 title: "LETI APARTMENTS 21 ST"
 description: "Discover the charm of Tirana with a stay at LETI APARTMENTS 21 ST, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/leti-apartments-21-st-384630660.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384630660.jpg?k=0c78b4792eab702ff0963bb4f6570254e05e9fb41aa2f6f31940123c05cf0c91&o=&hp=1"
 language: en
 slug: leti-apartments-21-st
 address: "Rruga e Kavajës, 1010 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "LUXURY APARTMENT"
 description: "LUXURY APARTMENT emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-apartment-501659318.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501659318.jpg?k=f695a424b0e3a0b0c8466cec91e469e67539f1a2817d45ef8d16e549f4608cd0&o=&hp=1"
 language: en
 slug: luxury-apartment
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

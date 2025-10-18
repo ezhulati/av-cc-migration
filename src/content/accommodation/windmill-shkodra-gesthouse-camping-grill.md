@@ -1,7 +1,7 @@
 ---
 title: "Windmill Shkodra Gesthouse Camping & Grill"
 description: "Windmill Shkodra Guesthouse Camping & Grill emerges as a serene oasis for travelers seeking a blend of comfort and adventure, located approximately 49 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/windmill-shkodra-gesthouse-camping-grill-289086674.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289086674.jpg?k=89f936942a6d6f62cba6574e72a846b31e146ba1239bb3d8dcb2bab716a900f5&o=&hp=1"
 language: en
 slug: windmill-shkodra-gesthouse-camping-grill
 address: "Rruga Livadheve, 4001 Shkodër, Albania"

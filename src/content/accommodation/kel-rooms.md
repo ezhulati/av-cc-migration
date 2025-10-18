@@ -1,7 +1,7 @@
 ---
 title: "Kel Rooms"
 description: "Kel Rooms emerges as a serene retreat in Ksamil, boasting breathtaking mountain views and lush garden surroundings."
-featuredImage: "/images/accommodation/kel-rooms-519452237.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519452237.jpg?k=fb88423ea3d18a7bc8f346d2a8af45980f80d00d89fafe8b291700132e8f7c00&o=&hp=1"
 language: en
 slug: kel-rooms
 address: "Rruga Laberia ,Ksamil, 9706 Ksamil, Albania"

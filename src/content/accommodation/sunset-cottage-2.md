@@ -1,7 +1,7 @@
 ---
 title: "Sunset Cottage 2"
 description: "Sunset Cottage 2 emerges as a charming retreat in Ksamil, boasting an enviable position merely 400 meters from the pristine shores of Paradise Beach."
-featuredImage: "/images/accommodation/sunset-cottage-2-453912287.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453912287.jpg?k=8b12e11b7590025546cd3e0aaaab87371e317731db6e20a89dd8646d6fbb73b6&o=&hp=1"
 language: en
 slug: sunset-cottage-2
 address: "Rruga Naim Frashëri, Ksamil, Albania"

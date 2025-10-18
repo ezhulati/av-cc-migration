@@ -1,7 +1,7 @@
 ---
 title: "Blue Residence"
 description: "Blue Residence emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/blue-residence-197281395.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197281395.jpg?k=3e8403e0f9759bc4a59a19378b9854b2bf9706be3c47e269ada54f7bd9866870&o=&hp=1"
 language: en
 slug: blue-residence
 address: "Rruga Mitat Hoxha & Rruga Guri Nazifi, 9700 Sarandë, Albania"

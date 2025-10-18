@@ -1,7 +1,7 @@
 ---
 title: "The Queen's Lion Premium HOTEL"
 description: "The Queen's Lion Premium HOTEL stands out as a beacon of comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Santa Quaranta Beach."
-featuredImage: "/images/accommodation/the-queen-s-lion-premium-hotel-478063872.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478063872.jpg?k=a7d5351788d0ca9966541242396af177060d14c68693489e8ff4ac2f4086b699&o=&hp=1"
 language: en
 slug: the-queen-s-lion-premium-hotel
 address: "Rruga Turizem Kanali Cukes, 9701, Bashkia Sarande, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vintage Mediterranean house"
 description: "Vintage Mediterranean House, situated in the picturesque Vlorë County region of Himare, offers a unique retreat with its charming balcony and serene garden views."
-featuredImage: "/images/accommodation/vintage-mediterranean-house-473826623.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473826623.jpg?k=5967b3132cb1a790101a7272cf7902417727ee756cabf4712534017289a5e11b&o=&hp=1"
 language: en
 slug: vintage-mediterranean-house
 address: "Vuno, 9417 Himare, Albania"

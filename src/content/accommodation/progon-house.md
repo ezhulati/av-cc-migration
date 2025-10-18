@@ -1,7 +1,7 @@
 ---
 title: "progon house"
 description: "Progon House in Tepelenë stands out for its breathtaking mountain views and thoughtfully designed accommodations, complete with a serene garden setting."
-featuredImage: "/images/accommodation/progon-house-303101418.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303101418.jpg?k=1daf626b9be14e14d461b526b7bce1d6a17a9cc1a86ba901d0f640589db0c360&o=&hp=1"
 language: en
 slug: progon-house
 address: "progonat tepelene, 6303 Tepelenë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment by Vlora Office"
 description: "Luxury Apartment by Vlora Office emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/luxury-apartment-by-vlora-office-504550079.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504550079.jpg?k=304c375e555a95c276df24ffdb8e22675b22c35116b62d266233487547701e2d&o=&hp=1"
 language: en
 slug: luxury-apartment-by-vlora-office
 address: "Rruga Rushit Gurishova, 9403 Vlorë, Albania"

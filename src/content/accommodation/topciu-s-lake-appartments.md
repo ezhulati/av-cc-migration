@@ -1,7 +1,7 @@
 ---
 title: "Topciu's Lake Appartments"
 description: "Topciu's Lake Apartments emerges as a serene retreat in Pogradec, offering guests an exclusive slice of paradise with its private beach area and meticulously maintained garden."
-featuredImage: "/images/accommodation/topciu-s-lake-appartments-472092554.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472092554.jpg?k=ab38245ac0dfcf7501ca288b773b0beb1db282ce9f226e921962b7e5c32468d0&o=&hp=1"
 language: en
 slug: topciu-s-lake-appartments
 address: "Rruga Lyhnida, 7301 Pogradec, Albania"

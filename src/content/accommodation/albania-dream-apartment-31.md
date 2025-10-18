@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Apartment 31"
 description: "Albania Dream Apartment 31 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Gjashtë, just a stone's throw away from the pristine Saranda City Beach and a short stroll from La Petite Beach."
-featuredImage: "/images/accommodation/albania-dream-apartment-31-359861984.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359861984.jpg?k=8c1d79b6f79a2b7097437c38deda8cc6897bf6d5b062c00a8f1eea565e6941af&o=&hp=1"
 language: en
 slug: albania-dream-apartment-31
 address: "Rruga 40 Shenjtorët, 9700 Gjashtë, Albania"

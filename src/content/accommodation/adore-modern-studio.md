@@ -1,7 +1,7 @@
 ---
 title: "Adore - Modern Studio"
 description: "Adore - Modern Studio emerges as a freshly updated gem in the heart of Tirana, boasting proximity to iconic landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and Rinia Park."
-featuredImage: "/images/accommodation/adore-modern-studio-434221344.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434221344.jpg?k=6efb7ad753955fcb00dafe9a81d2874dc8c8bed9c2d21b32851c9e83ac333b3b&o=&hp=1"
 language: en
 slug: adore-modern-studio
 address: "Rruga Muhamet Gjollesha, 1000 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Alba 1"
 description: "Vila Alba 1 emerges as a distinguished choice for travelers seeking a serene getaway in Korçë."
-featuredImage: "/images/accommodation/vila-alba-1-489967011.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489967011.jpg?k=c51de8948f42250c25598a49222009eddf4cda3ef8fa8b8688ec418c262cb3c3&o=&hp=1"
 language: en
 slug: vila-alba-1
 address: "Rr Foqon Postoli, Korçë, Albania"

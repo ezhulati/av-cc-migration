@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bora"
 description: "Hotel Bora emerges as a serene oasis in Gostimë, offering a harmonious blend of comfort and convenience for travelers seeking an escape or an adventure in the heart of nature."
-featuredImage: "/images/accommodation/hotel-bora-302797302.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/302797302.jpg?k=0cfa00d359d56f3366854fccb657aff6326eb7c2b1c3792def09a404a852a0b8&o=&hp=1"
 language: en
 slug: hotel-bora
 address: "Rruga e Bojallinjve, 3018 Gostimë, Albania"

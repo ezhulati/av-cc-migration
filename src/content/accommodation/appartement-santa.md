@@ -1,7 +1,7 @@
 ---
 title: "Appartement Santa"
 description: "Appartement Santa emerges as a prime choice for travelers seeking a blend of comfort and convenience, coupled with stunning sea views."
-featuredImage: "/images/accommodation/appartement-santa-AOh14GhigxtP.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GhigxtP_Ml0RtxhP9-YCBQcpNbFs26SXhYDoFo6EQ=s96-c64"
 language: en
 slug: appartement-santa
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

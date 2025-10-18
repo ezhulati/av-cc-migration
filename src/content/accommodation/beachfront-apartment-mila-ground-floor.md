@@ -1,7 +1,7 @@
 ---
 title: "Beachfront apartment Mila, Ground floor"
 description: "Beachfront Apartment Mila, Ground Floor, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/beachfront-apartment-mila-ground-floor-254985513.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254985513.jpg?k=865cdc81d1b0c3900a41f1fb21722882a8217b8332dd34fe437f47e8bf1f6c1b&o=&hp=1"
 language: en
 slug: beachfront-apartment-mila-ground-floor
 address: "Rruga \"ANKONA\", Nd. 44, H.1, Ap.2, SHKALLNUR, RRASHBULL, 2021 Durrës, Albania"

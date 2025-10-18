@@ -1,7 +1,7 @@
 ---
 title: "Super Apartment 100m2 2 sovrum"
 description: "Super Apartment 100m2 2 sovrum stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/super-apartment-100m2-2-sovrum-8c8621a1f125.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-x/8c8621a1f1257f11662c74da47986e0bf59d2175.png"
 language: en
 slug: super-apartment-100m2-2-sovrum
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

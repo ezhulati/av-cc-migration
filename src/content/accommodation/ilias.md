@@ -1,7 +1,7 @@
 ---
 title: "Ilias"
 description: "Ilias stands out as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/ilias-395877237.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/395877237.jpg?k=2eebb5faacea387640d06d3011a2dbd8a8f356941b30936b6a3bbc516204da7a&o=&hp=1"
 language: en
 slug: ilias
 address: "Rruga Onhezmi, 9701 Sarandë, Albania"

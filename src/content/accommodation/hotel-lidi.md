@@ -1,7 +1,7 @@
 ---
 title: "Hotel LIDI"
 description: "Hotel LIDI emerges as a serene oasis in Sarandë, located just a short distance of 2 km from the vibrant Saranda City Beach."
-featuredImage: "/images/accommodation/hotel-lidi-383511185.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383511185.jpg?k=195db6f3be8b4cdac4cfc3cd6d28d5ff5a4eea61b7c05805cd0d61640d3554dc&o=&hp=1"
 language: en
 slug: hotel-lidi
 address: "Rruga Skënderbeu Next to Gas Station \"Pit Stop\", 9701 Sarandë, Albania"

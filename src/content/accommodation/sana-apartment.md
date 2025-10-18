@@ -1,7 +1,7 @@
 ---
 title: "Sana apartment"
 description: "Sana Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sana-apartment-474316152.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474316152.jpg?k=906d012bff98681cc1ad139fc912fcf3bc7f0d3357741c83285f2343033806eb&o=&hp=1"
 language: en
 slug: sana-apartment
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

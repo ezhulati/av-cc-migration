@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Malaj"
 description: "Bujtina Malaj emerges as a serene retreat in the heart of Valbonë, Kukës County, offering a unique blend of comfort and convenience for travelers seeking an escape in nature."
-featuredImage: "/images/accommodation/bujtina-malaj-260860986.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260860986.jpg?k=f4d6fb31f10fc6b95adb609dfcdf3d5fe1b93fd6a5f8f75e67a4633a08ea1d92&o=&hp=1"
 language: en
 slug: bujtina-malaj
 address: "Rruga Azem Hajdari Rruga Azem Hajdari, 8702 Valbonë, Albania"

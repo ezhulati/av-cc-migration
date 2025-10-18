@@ -1,7 +1,7 @@
 ---
 title: "City Central Apartment"
 description: "City Central Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-central-apartment-5913812.webp.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/5913812.webp?k=834055f73af1b06fc2fdb4e09ba463f809249ea0d879ed87abb277710affaac5&o=?t=1475769862"
 language: en
 slug: city-central-apartment
 address: "Rruga Luigj Gurakuqi, 1001 Tirana, Albania"

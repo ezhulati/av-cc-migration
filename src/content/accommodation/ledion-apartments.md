@@ -1,7 +1,7 @@
 ---
 title: "Ledion Apartments"
 description: "Ledion Apartments emerges as a serene retreat for travelers seeking both tranquility and convenience, located just a short distance from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/ledion-apartments-308121332.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308121332.jpg?k=c25b985d8631e597bfc532cdf48d5029f146ddbde2793e5a76fd3e579bae4d06&o=&hp=1"
 language: en
 slug: ledion-apartments
 address: "Rruga Skënderbeu lagja 1, 9701 Sarandë, Albania"

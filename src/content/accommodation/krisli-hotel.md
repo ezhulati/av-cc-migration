@@ -1,7 +1,7 @@
 ---
 title: "KRISLI HOTEL"
 description: "KRISLI HOTEL emerges as a serene retreat in the vibrant city of Sarandë, situated a mere 43 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/krisli-hotel-d3882ab9674d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-n/d3882ab9674d57559f4b0ecc7f2b01ecbc7a8057.png"
 language: en
 slug: krisli-hotel
 address: "Piqeras, 9715 Sarandë, Albania"

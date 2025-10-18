@@ -1,7 +1,7 @@
 ---
 title: "Kristi Apartments 02"
 description: "Kristi Apartments 02 emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/kristi-apartments-02-512831260.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512831260.jpg?k=ad270732811477fb79966b6dfd4764d0b5485e95cca9dec48b391b5b959c705a&o=&hp=1"
 language: en
 slug: kristi-apartments-02
 address: "Rruga Luigj Gurakuqi, P. 37/1 H.1 Ap. 2, 1001 Tirana, Albania"

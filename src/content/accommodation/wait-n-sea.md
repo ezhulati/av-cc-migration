@@ -1,7 +1,7 @@
 ---
 title: "Wait 'n Sea"
 description: "Discover the charm of Himare at the Wait 'n Sea, a distinguished 4-star hotel that stands a mere 2."
-featuredImage: "/images/accommodation/wait-n-sea-309836820.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309836820.jpg?k=6bb8c718e2364ba287fc4495065b577a8026762261d5396c7686505de45f51c1&o=&hp=1"
 language: en
 slug: wait-n-sea
 address: "Himare - Livadh Road, 9425 Himare, Albania"

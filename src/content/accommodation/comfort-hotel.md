@@ -1,7 +1,7 @@
 ---
 title: "Comfort Hotel"
 description: "Discover the essence of convenience and comfort at Comfort Hotel, a prime choice for travelers seeking a seamless stay in Fier."
-featuredImage: "/images/accommodation/comfort-hotel-525615902.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525615902.jpg?k=dc412ab3fe67b46eac7ac8c9fc76cea0a916d4d7d17b2d8836206beebc67c449&o=&hp=1"
 language: en
 slug: comfort-hotel
 address: "Lagjja 1 Maj, Rruga Jani Bakalli, 9301 Fier, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Shehu"
 description: "Hotel Shehu stands as a beacon of comfort and convenience in the heart of Gjirokastër, a mere 44 km away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-shehu-171941741.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171941741.jpg?k=6f701fb59f4121731ea96058b2ae7215d5cd6c3a126acc99946e20f5565cf41e&o=&hp=1"
 language: en
 slug: hotel-shehu
 address: "Bulevardi 18 Shtatori Over Shehu Complex, 6000 Gjirokastër, Albania"

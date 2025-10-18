@@ -1,7 +1,7 @@
 ---
 title: "Alinani Apartments"
 description: "Alinani Apartments emerges as a serene retreat in the heart of Ksamil, boasting an enviable location mere steps away from the pristine shores of Ksamil Beach 9 and Bora Bora Beach."
-featuredImage: "/images/accommodation/alinani-apartments-129642596.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129642596.jpg?k=e0b6ed820d4dcbe2ff64650a37f9da727a2e700b776f2fe572837806bd3d8823&o=&hp=1"
 language: en
 slug: alinani-apartments
 address: "Isadora Dunkan Building, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Marjana's Sea View Apartment 1"
 description: "Marjana's Sea View Apartment 1 emerges as a prime choice for travelers seeking a serene beachfront escape in Lezhë."
-featuredImage: "/images/accommodation/marjana-s-sea-view-apartment-1-463794481.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463794481.jpg?k=f8f8ed9199287503198ced3d83da05bfc20dfaad17360c84fe87b271f7cc337e&o=&hp=1"
 language: en
 slug: marjana-s-sea-view-apartment-1
 address: "Rruga Shëngjin - Kune, 4503 Lezhë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Home away from Home Apartment"
 description: "Home away from Home Apartment emerges as a prime choice for travelers seeking the comfort of home blended with the convenience of hotel-like amenities in Durrës."
-featuredImage: "/images/accommodation/home-away-from-home-apartment-511339464.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511339464.jpg?k=3374b16af99c319ddf0e83ef89ec16f7442a9d21db9a839c3ced1a374268cc1a&o=&hp=1"
 language: en
 slug: home-away-from-home-apartment
 address: "Rruga Egnatia Pallati ALEKSI, 2001 Durrës, Albania"

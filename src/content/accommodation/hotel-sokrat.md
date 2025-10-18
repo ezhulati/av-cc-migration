@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sokrat"
 description: "Discover the hidden gem of Tirana, Hotel Sokrat, through the eyes of a seasoned hotel reviewer."
-featuredImage: "/images/accommodation/hotel-sokrat-228665047.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228665047.jpg?k=36f9f505fb313db592c15c0d7ad7dbcdddc674c39fcfc3745a28ef8d54d56cc5&o=&hp=1"
 language: en
 slug: hotel-sokrat
 address: "Rr. e Elbasanit 81, AL 1000 Tirana, Albania"

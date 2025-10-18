@@ -1,7 +1,7 @@
 ---
 title: "Livi beachfront Apartment"
 description: "Livi Beachfront Apartment offers a prime location for travelers seeking the perfect blend of comfort and convenience on the shores of Durrës."
-featuredImage: "/images/accommodation/livi-beachfront-apartment-bebbb1d5ff29.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
 language: en
 slug: livi-beachfront-apartment
 address: "Plazh, 2001 Durrës, Albania"

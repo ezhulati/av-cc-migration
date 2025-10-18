@@ -1,7 +1,7 @@
 ---
 title: "2V1 - Sheshi Willson"
 description: "2V1 - Sheshi Willson emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/2v1-sheshi-willson-54823767.web.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/54823767.webp?k=fc947ee31b039907cd2f014e5f00ea9d216d4bce1690d402db1aebee20202b08&o=?t=1545434464"
 language: en
 slug: 2v1-sheshi-willson
 address: "Rruga Abdyl Frashëri, 1001 Tirana, Albania"

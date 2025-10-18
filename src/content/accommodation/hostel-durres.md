@@ -1,7 +1,7 @@
 ---
 title: "Hostel Durres"
 description: "Hostel Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated just a stone's throw away from the vibrant shores of Durrës and a mere 150 meters from the historic Durres Amphitheatre."
-featuredImage: "/images/accommodation/hostel-durres-265420414.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265420414.jpg?k=e1b85a11718e0bb82d964a6dbf2e1bde2d7dcf1b34f647e6495da2e92d86d719&o=&hp=1"
 language: en
 slug: hostel-durres
 address: "Sheshi Liria, 2000 Durrës, Albania"

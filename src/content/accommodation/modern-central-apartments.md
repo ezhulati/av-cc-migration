@@ -1,7 +1,7 @@
 ---
 title: "Modern Central Apartments"
 description: "Modern Central Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/modern-central-apartments-527756005.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527756005.jpg?k=0bb9fb78e1e1ea45715d5e9fe980122adc9f5304a665f9b21b7a22a55be2a901&o=&hp=1"
 language: en
 slug: modern-central-apartments
 address: "73 Rruga Bardhok Biba Ap 13. Kati 5, 1001 Tirana, Albania"

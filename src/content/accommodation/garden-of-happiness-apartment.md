@@ -1,7 +1,7 @@
 ---
 title: "Garden of Happiness'' Apartment"
 description: "The \"Garden of Happiness\" Apartment emerges as a serene oasis in the heart of Tirana, merely a stone's throw away from the bustling Skanderbeg Square and the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/garden-of-happiness-apartment-371793065.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371793065.jpg?k=7036557c25b387d74a15a6cd3b741dd29ccf3382ff4179a5feb7843c73095b3d&o=&hp=1"
 language: en
 slug: garden-of-happiness-apartment
 address: "Rruga Himë Kolli, Ndertesa 30, Hyrja 21, Ap.21, 1001 Tirana, Albania"

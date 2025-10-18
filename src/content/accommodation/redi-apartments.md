@@ -1,7 +1,7 @@
 ---
 title: "Redi apartments"
 description: "Redi Apartments emerges as a prime choice for travelers seeking comfort and convenience in Golem."
-featuredImage: "/images/accommodation/redi-apartments-490821508.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490821508.jpg?k=6e55a949bf47643e9eb0c01e62c37a97b80b80a6547b9b6eb7e477d492497cbf&o=&hp=1"
 language: en
 slug: redi-apartments
 address: "Rruga Qerret Plazh 3, Golem, Albania"

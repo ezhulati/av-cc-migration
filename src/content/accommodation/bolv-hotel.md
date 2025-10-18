@@ -1,7 +1,7 @@
 ---
 title: "Bolv Hotel"
 description: "Bolv Hotel emerges as a serene oasis in Durrës, offering a tranquil retreat just a stone's throw away from the bustling heart of the city."
-featuredImage: "/images/accommodation/bolv-hotel-497878840.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497878840.jpg?k=9f4b12097a9c192564d2e06edaca4e8895e30d8650825f6f3963b0735ef13537&o=&hp=1"
 language: en
 slug: bolv-hotel
 address: "Maminas, 2020 Durrës, Albania"

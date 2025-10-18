@@ -1,7 +1,7 @@
 ---
 title: "Hotel Emblem"
 description: "Hotel Emblem stands as a beacon of comfort and convenience in the heart of Sarandë, mere steps away from the inviting sands of Mango Beach."
-featuredImage: "/images/accommodation/hotel-emblem-476082104.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476082104.jpg?k=cecc8f77bf2e4521c9ce908977e98c29ae4a173d5fa255832bcea958b23bd459&o=&hp=1"
 language: en
 slug: hotel-emblem
 address: "Rruga Sarande - Butrint prane Kanalit te Cukes, 9701 Sarandë, Albania"

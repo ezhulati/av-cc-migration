@@ -1,7 +1,7 @@
 ---
 title: "Melnaz Apartament 1"
 description: "Melnaz Apartament 1 emerges as a serene retreat in the heart of Korçë, a mere stone's throw from the historic Monastery Saint Naum and the tranquil Ohrid Lake Springs."
-featuredImage: "/images/accommodation/melnaz-apartament-1-501909003.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501909003.jpg?k=5be817e9c6514607f1a166bce19cadf492be49aa15542519c8198e717841df65&o=&hp=1"
 language: en
 slug: melnaz-apartament-1
 address: "Rruga Petraq Shamo, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Braho 1"
 description: "Villa Braho 1 stands as a serene retreat in Pogradec, offering a unique blend of comfort and scenic beauty just a stone's throw away from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/villa-braho-1-158440875.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158440875.jpg?k=31a946e6bad7e2e8f6a460c1ff2f15d43d2de474d7f60530bfcc23b7e3090e0f&o=&hp=1"
 language: en
 slug: villa-braho-1
 address: "Rr.Sul Starovari 27, 7301 Pogradec, Albania"

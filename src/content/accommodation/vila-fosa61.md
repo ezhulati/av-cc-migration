@@ -1,7 +1,7 @@
 ---
 title: "Vila_Fosa61"
 description: "Vila_Fosa61 emerges as a beacon of modern comfort and privacy in the heart of Durrës, Durres County, offering guests a seamless blend of convenience and serenity."
-featuredImage: "/images/accommodation/vila-fosa61-477641853.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477641853.jpg?k=704404f99a43bc228325b4bf4a1ecdf8e59709265dc21cfd5e5912243b6709b8&o=&hp=1"
 language: en
 slug: vila-fosa61
 address: "Rruga Mbreti Monun, Durrës, Albania"

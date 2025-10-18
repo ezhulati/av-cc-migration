@@ -1,7 +1,7 @@
 ---
 title: "Daily Rental Apartment In Centre"
 description: "Daily Rental Apartment In Centre emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life, merely a stone's throw away from the iconic Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/daily-rental-apartment-in-centre-383978562.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383978562.jpg?k=02b1cd71443810d6c72752c918648919b071e20b3abe442933a68ad5fe449583&o=&hp=1"
 language: en
 slug: daily-rental-apartment-in-centre
 address: "Rruga Dervish Hatixhe 2/25, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "ALFA Loft"
 description: "ALFA Loft emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/alfa-loft-508111128.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508111128.jpg?k=418daa6d37753865076d872bc9c2bcc194c5e65729d94e84064c0af8e2e7b7e3&o=&hp=1"
 language: en
 slug: alfa-loft
 address: "Rruga Selaudin Zorba 4, 1007 Tirana, Albania"

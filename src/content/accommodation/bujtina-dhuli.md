@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Dhuli"
 description: "Bujtina Dhuli stands as a serene retreat in the heart of Gjirokastër County, Libohovë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/bujtina-dhuli-488941184.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488941184.jpg?k=00de09676e626b15e87e3cc5ad3a07bada16d724644662274083f73f73982dfe&o=&hp=1"
 language: en
 slug: bujtina-dhuli
 address: "Lagjia linua 6, 6001 Libohovë, Albania"

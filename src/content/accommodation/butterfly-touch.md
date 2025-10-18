@@ -1,7 +1,7 @@
 ---
 title: "Butterfly Touch"
 description: "Butterfly Touch, located in the vibrant heart of Sarandë, Vlorë County, presents a captivating retreat with its stunning sea views and the convenience of modern amenities."
-featuredImage: "/images/accommodation/butterfly-touch-502574407.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502574407.jpg?k=d29ba582d4afa0fe4661e2e4daa09dcfc179346f30fe9b67033c01c0a4bf91ff&o=&hp=1"
 language: en
 slug: butterfly-touch
 address: "Rruga Onhezmi, 2432 Sarandë, Albania"

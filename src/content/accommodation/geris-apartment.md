@@ -1,7 +1,7 @@
 ---
 title: "Geris apartment"
 description: "Geris Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/geris-apartment-349047154.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349047154.jpg?k=483b32c7a65a29bb6c452475e10af6d4d10504fb7612edae73660eafcd6bf103&o=&hp=1"
 language: en
 slug: geris-apartment
 address: "Rruga Qamil Guranjaku, 1001 Tirana, Albania"

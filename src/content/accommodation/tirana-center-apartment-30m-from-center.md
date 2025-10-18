@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Apartment, 30m from center."
 description: "Tirana Center Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-center-apartment-30m-from-center-512495729.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512495729.jpg?k=f008ce15cb0f820cd7c402067182d4a7b99552dccd981c4e8285444d01c7da0d&o=&hp=1"
 language: en
 slug: tirana-center-apartment-30m-from-center
 address: "Rruga Ded Gjo Luli, 1031 Tirana, Albania"

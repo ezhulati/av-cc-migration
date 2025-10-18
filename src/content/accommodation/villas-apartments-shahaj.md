@@ -1,7 +1,7 @@
 ---
 title: "Villas Apartments SHAHAJ"
 description: "Villas Apartments SHAHAJ emerges as a prime choice for travelers seeking a serene getaway in Vlorë, located just a stone's throw away from Vjetër Beach and a short drive from Independence Square."
-featuredImage: "/images/accommodation/villas-apartments-shahaj-bebbb1d5ff29.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
 language: en
 slug: villas-apartments-shahaj
 address: "Plazhi i vjeter, rruga \"Sazani\" Rruga \"Kanan Maze\", 9400 Vlorë, Albania"

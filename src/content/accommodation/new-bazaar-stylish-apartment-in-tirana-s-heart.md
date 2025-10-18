@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar stylish apartment in Tirana’s heart"
 description: "Discover the charm of Tirana with a stay at the New Bazaar stylish apartment, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/new-bazaar-stylish-apartment-in-tirana-s-heart-324951450.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/324951450.jpg?k=37076b11d94276d1fd9aab0a12627d8ec52023badbf019b71e221b4647251fb6&o=&hp=1"
 language: en
 slug: new-bazaar-stylish-apartment-in-tirana-s-heart
 address: "Rruga Tefta Tashko-Koço, 1017 Tirana, Albania"

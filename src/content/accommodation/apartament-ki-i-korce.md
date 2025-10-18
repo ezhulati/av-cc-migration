@@ -1,7 +1,7 @@
 ---
 title: "Apartament KiÇi Korce"
 description: "Apartament KiÇi Korce emerges as a standout choice for travelers seeking a blend of comfort and convenience in the heart of Korçë."
-featuredImage: "/images/accommodation/apartament-ki-i-korce-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: apartament-ki-i-korce
 address: "Rruga Kiço Greço, 7001 Korçë, Albania"

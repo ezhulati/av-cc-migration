@@ -1,7 +1,7 @@
 ---
 title: "Chalet Ambel"
 description: "Chalet Ambel, positioned a mere stone's throw away from the beach in Dhërmi, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/chalet-ambel-207636455.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/207636455.jpg?k=82d03227bcc457ae2c633d0a93f86d42bd0aabe4ea41c7fb9f2565c2f3eeadf3&o=&hp=1"
 language: en
 slug: chalet-ambel
 address: "Dhermi Perivolo, 9422 Dhërmi, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Spartila Apartments"
 description: "Spartila Apartments emerges as a serene retreat in Dhërmi, boasting breathtaking mountain vistas and a prime location just moments away from the pristine shores of Palasa and Dhermi Beaches."
-featuredImage: "/images/accommodation/spartila-apartments-141120468.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141120468.jpg?k=ff2c7e223c0907f05b6c016584286c3385c6cba56e75e373c1e574bdc2c2ea18&o=&hp=1"
 language: en
 slug: spartila-apartments
 address: "Rruga Perivolo, 9422 Dhërmi, Albania"

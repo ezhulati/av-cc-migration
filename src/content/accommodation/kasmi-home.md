@@ -1,7 +1,7 @@
 ---
 title: "KASMI home"
 description: "KASMI Home emerges as a serene retreat in the vibrant landscape of Krujë, offering a unique blend of comfort and convenience for travelers seeking an escape or an adventure in Albania."
-featuredImage: "/images/accommodation/kasmi-home-473421639.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473421639.jpg?k=6771598d2dc6855261d8e1f6349da2194cf3abe7284e30fe56c18ad93e62f73c&o=&hp=1"
 language: en
 slug: kasmi-home
 address: "Rruga Kasme, Krujë, Albania"

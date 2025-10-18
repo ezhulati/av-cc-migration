@@ -1,7 +1,7 @@
 ---
 title: "New Bazaar 2 Bed Rooms with free garage"
 description: "New Bazaar 2 Bed Rooms with Free Garage emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/new-bazaar-2-bed-rooms-with-free-garage-510088318.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510088318.jpg?k=75cfd884655f08e2b5207ff6b7e167afb1753e0c30a139df89484332971ca4eb&o=&hp=1"
 language: en
 slug: new-bazaar-2-bed-rooms-with-free-garage
 address: "Rruga Xhemal Tafaj, 1005 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Spile Rooms Lukas"
 description: "Spile Rooms Lukas emerges as a prime choice for travelers seeking a serene seafront escape in Himare, perfectly positioned mere steps from the pristine Spille Beach and within easy reach of both Maracit and Prinos Beaches."
-featuredImage: "/images/accommodation/spile-rooms-lukas-358695662.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358695662.jpg?k=031794f0517664b6e61ff0ba24a70c5ce196f7814fd740b24d5ad27d300008d1&o=&hp=1"
 language: en
 slug: spile-rooms-lukas
 address: "Spile Himare über Kafe Himara, 9400 Himare, Albania"

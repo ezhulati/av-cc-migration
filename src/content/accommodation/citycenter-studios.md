@@ -1,7 +1,7 @@
 ---
 title: "CityCenter Studios"
 description: "CityCenter Studios emerges as a prime choice for travelers seeking the perfect blend of urban convenience and serene garden views in the heart of Sarandë."
-featuredImage: "/images/accommodation/citycenter-studios-486549901.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486549901.jpg?k=a6fdb157e2b902ab95027a67d1a177b23971630ddb2c79c56e620ec51b932a6d&o=&hp=1"
 language: en
 slug: citycenter-studios
 address: "Rruga Koço Konomi, 9701 Sarandë, Albania"

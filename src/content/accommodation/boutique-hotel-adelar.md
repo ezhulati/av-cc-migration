@@ -1,7 +1,7 @@
 ---
 title: "Boutique Hotel Adelar"
 description: "Boutique Hotel Adelar emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/boutique-hotel-adelar-493203223.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493203223.jpg?k=27df147425fbcef980e96f6b6473e72dfba057e4a15f58bb6a26d5e53f60b971&o=&hp=1"
 language: en
 slug: boutique-hotel-adelar
 address: "Rruga Dervish Hima, 1001 Tirana, Albania"

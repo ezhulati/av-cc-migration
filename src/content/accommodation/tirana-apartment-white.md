@@ -1,7 +1,7 @@
 ---
 title: "Tirana Apartment white"
 description: "Tirana Apartment White emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-apartment-white-401788027.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401788027.jpg?k=1092a839c8f469177082f78a8d72aee29286ddd42dd40ee4a3f932766b460c5b&o=&hp=1"
 language: en
 slug: tirana-apartment-white
 address: "Rruga Jeronim De Rada Building 20, Apartment 5, 1005 Tirana, Albania"

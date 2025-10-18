@@ -1,7 +1,7 @@
 ---
 title: "Teal Apartment"
 description: "Teal Apartment emerges as a refreshing accommodation choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/teal-apartment-477383397.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477383397.jpg?k=d4ac53a2b3d654c9d16f26a18f343e0a5b9b396d8312d65d6dfd8cbd78848982&o=&hp=1"
 language: en
 slug: teal-apartment
 address: "Kompleksi Lura 3, L2, 2nd Floor, 2015 Durrës, Albania"

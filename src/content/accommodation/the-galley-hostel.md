@@ -1,7 +1,7 @@
 ---
 title: "The Galley Hostel"
 description: "The Galley Hostel, located in the vibrant city of Shkodër and a mere 49 km from the Port of Bar, stands out as a prime choice for travelers seeking both comfort and adventure."
-featuredImage: "/images/accommodation/the-galley-hostel-473812893.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473812893.jpg?k=58bd7e1a896e05f22698ddc36fab7970f33bd40044d8fe9a36c9eb1f1ce5c431&o=&hp=1"
 language: en
 slug: the-galley-hostel
 address: "72 Rruga Lek Dukagjini, 4001 Shkodër, Albania"

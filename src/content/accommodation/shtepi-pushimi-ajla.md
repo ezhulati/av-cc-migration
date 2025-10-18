@@ -1,7 +1,7 @@
 ---
 title: "Shtepi pushimi Ajla"
 description: "Shtepi pushimi Ajla emerges as a serene retreat for travelers seeking a blend of comfort and convenience in Borsh, just a short 1."
-featuredImage: "/images/accommodation/shtepi-pushimi-ajla-475514733.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475514733.jpg?k=20d5cc9ce2a03e31588474cafc6c036cffaf3383e43901b6ea0543608ee3b5c8&o=&hp=1"
 language: en
 slug: shtepi-pushimi-ajla
 address: "https://maps.app.goo.gl/Z5feRVWMXgYNmFfM8?g_st=iw, 9714 Borsh, Albania"

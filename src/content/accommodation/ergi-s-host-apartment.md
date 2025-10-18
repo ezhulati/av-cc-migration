@@ -1,7 +1,7 @@
 ---
 title: "Ergi’s Host Apartment"
 description: "Ergi’s Host Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ergi-s-host-apartment-AOh14Gg1Jopb.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14Gg1JopbDE3fCRA_Z_ki6WMx0EgcYuALHuX-hb8Wuw=s96-c64"
 language: en
 slug: ergi-s-host-apartment
 address: "Rruga Tefta Tashko-Koço, 1501 Tirana, Albania"

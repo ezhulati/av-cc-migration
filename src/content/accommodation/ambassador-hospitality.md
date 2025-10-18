@@ -1,7 +1,7 @@
 ---
 title: "Ambassador hospitality"
 description: "Ambassador Hospitality emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ambassador-hospitality-517251478.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517251478.jpg?k=292fd333e4f7f1a4556183b38421cf90b87cff165ae1040a641b7774ba961dab&o=&hp=1"
 language: en
 slug: ambassador-hospitality
 address: "Rruga Nasi Pavllo, 1001 Tirana, Albania"

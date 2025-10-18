@@ -1,7 +1,7 @@
 ---
 title: "Beautiful 2 room apartment 5 Minutes from Center of Shkodra"
 description: "Discover the charm of Shkodër with a stay at the Beautiful 2 Room Apartment, conveniently situated just five minutes from the city center."
-featuredImage: "/images/accommodation/beautiful-2-room-apartment-5-minutes-from-center-of-shkodra-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: beautiful-2-room-apartment-5-minutes-from-center-of-shkodra
 address: "27 Rruga Pashko Vasa, Shkodër, Albania"

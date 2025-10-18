@@ -1,7 +1,7 @@
 ---
 title: "Kondo Stays - Azure Apartments"
 description: "Kondo Stays - Azure Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, situated merely 500 meters from the serene Ri Beach."
-featuredImage: "/images/accommodation/kondo-stays-azure-apartments-470344289.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470344289.jpg?k=a4ed457fe8586b23c5c9b3b51de51594943cfb1f86dcda74b24da4449d24a0b7&o=&hp=1"
 language: en
 slug: kondo-stays-azure-apartments
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

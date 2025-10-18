@@ -1,7 +1,7 @@
 ---
 title: "The Little Big Apartament"
 description: "The Little Big Apartment emerges as a serene retreat, offering breathtaking lake views from its generously sized balcony."
-featuredImage: "/images/accommodation/the-little-big-apartament-481156182.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481156182.jpg?k=468d545d2eae89d56dd3adc88b49c9d1083f8655a3086cde10130e581a74a011&o=&hp=1"
 language: en
 slug: the-little-big-apartament
 address: "SH64 4, 7301 Tushemisht, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Rakaj"
 description: "Bujtina Rakaj emerges as a serene retreat in the heart of Bogë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/bujtina-rakaj-483367374.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483367374.jpg?k=ec69b440acd7bded17569075bdf7c27b2fe7a63dfff63f498a290841db4b35f0&o=&hp=1"
 language: en
 slug: bujtina-rakaj
 address: "SH21 1, 4305 Bogë, Albania"

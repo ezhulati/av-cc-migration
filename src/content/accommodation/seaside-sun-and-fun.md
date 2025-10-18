@@ -1,7 +1,7 @@
 ---
 title: "Seaside Sun and Fun"
 description: "Seaside Sun and Fun stands as a prime choice for travelers seeking the perfect blend of comfort and convenience in Velipojë."
-featuredImage: "/images/accommodation/seaside-sun-and-fun-498477529.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498477529.jpg?k=277d8b76d940c049620a5c6b64e1a3facb186a426e24cf2e86533fb23df011e4&o=&hp=1"
 language: en
 slug: seaside-sun-and-fun
 address: "Rruga Nr.2, 4020 Velipojë, Albania"

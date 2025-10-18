@@ -1,7 +1,7 @@
 ---
 title: "Jon rooms"
 description: "Jon Rooms emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Himare."
-featuredImage: "/images/accommodation/jon-rooms-475021889.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475021889.jpg?k=6b6276f7e82a663a310f3ef3bcd6128c688b0049ad43969bbf02443151639615&o=&hp=1"
 language: en
 slug: jon-rooms
 address: "stefanel,Himare, 9425 Himare, Albania"

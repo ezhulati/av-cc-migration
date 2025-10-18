@@ -1,7 +1,7 @@
 ---
 title: "SALO Guesthouse"
 description: "SALO Guesthouse stands out as a prime choice for travelers seeking comfort and convenience in Gjirokastër, situated a mere 45 km from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/salo-guesthouse-492029080.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492029080.jpg?k=57dfedc23758dd06cf180cea7e95914a7a24cd5ca23da1db3089135d60386360&o=&hp=1"
 language: en
 slug: salo-guesthouse
 address: "Rruga Vangjel Koca 8, 6001 Gjirokastër, Albania"

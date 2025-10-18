@@ -1,7 +1,7 @@
 ---
 title: "2-bedroom condo in Tirana"
 description: "Discover the epitome of comfort and convenience at the 2-bedroom condo in Tirana, a prime choice for travelers seeking a serene retreat in the heart of the city."
-featuredImage: "/images/accommodation/2-bedroom-condo-in-tirana-527133088.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527133088.jpg?k=bcd96c4f327f9e77eda79a7244f1178a4a801b3f8a7321b875648bae30ccdf63&o=&hp=1"
 language: en
 slug: 2-bedroom-condo-in-tirana
 address: "Rruga Medar Shtylla 3-rd floor , ap number 17, Tirana, Albania"

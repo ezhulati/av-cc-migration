@@ -1,7 +1,7 @@
 ---
 title: "Eagles Philadelfia"
 description: "Eagles Philadelfia emerges as a serene retreat in Korçë, boasting breathtaking mountain vistas and a lush garden setting, merely 43 km away from the tranquil Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/eagles-philadelfia-206211137.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/206211137.jpg?k=8da3ef163503fefa8d83b55b46ad900c88599b9173db81503d664da71596eb6b&o=&hp=1"
 language: en
 slug: eagles-philadelfia
 address: "Bulevardi Republika Lagj 1 ,perballe Diva Bar, 7001 Korçë, Albania"

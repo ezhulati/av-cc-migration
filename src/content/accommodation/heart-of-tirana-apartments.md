@@ -1,7 +1,7 @@
 ---
 title: "Heart Of Tirana Apartments"
 description: "Heart Of Tirana Apartments shines as a recently updated gem in the heart of Albania's vibrant capital, offering an exceptional stay near iconic landmarks such as Skanderbeg Square, the Former Residence of Enver Hoxha, and the House of Leaves."
-featuredImage: "/images/accommodation/heart-of-tirana-apartments-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: heart-of-tirana-apartments
 address: "25 Rruga e Bogdanëve, 1001 Tirana, Albania"

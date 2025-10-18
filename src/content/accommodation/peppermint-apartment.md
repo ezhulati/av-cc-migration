@@ -1,7 +1,7 @@
 ---
 title: "Peppermint Apartment"
 description: "Peppermint Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, situated merely 100 meters from the serene Qerret Beach and a short 1."
-featuredImage: "/images/accommodation/peppermint-apartment-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: peppermint-apartment
 address: "Rruga Qerret Plazh, Golem, Albania"

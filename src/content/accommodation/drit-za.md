@@ -1,7 +1,7 @@
 ---
 title: "Dritëza"
 description: "Dritëza emerges as a modern oasis of comfort and convenience, located just 43 km from the serene Ohrid Lake Springs in the vibrant city of Korçë."
-featuredImage: "/images/accommodation/drit-za-410019409.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410019409.jpg?k=638173ccd8f5bf7d28ddfca2440d91e00b18c688f11adda58957cacaffceb045&o=&hp=1"
 language: en
 slug: drit-za
 address: "Rruga Koco Gamce 33, Korçë, Albania"

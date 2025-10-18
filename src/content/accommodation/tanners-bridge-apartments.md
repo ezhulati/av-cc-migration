@@ -1,7 +1,7 @@
 ---
 title: "Tanners' Bridge Apartments"
 description: "Tanners' Bridge Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tanners-bridge-apartments-361684874.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361684874.jpg?k=89db09a3e75eb9c35789b3a5989db9b6530ec4a9bbbc2eb7866f6eea5b40e538&o=&hp=1"
 language: en
 slug: tanners-bridge-apartments
 address: "170 Bulevardi Bajram Curri 1st floor, 1001 Tirana, Albania"

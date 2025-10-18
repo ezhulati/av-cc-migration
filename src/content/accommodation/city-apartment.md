@@ -1,7 +1,7 @@
 ---
 title: "City Apartment"
 description: "City Apartment in Sarandë stands out as a prime choice for travelers seeking comfort and convenience, located just a stone's throw away from Saranda City Beach and within easy walking distance to La Petite Beach."
-featuredImage: "/images/accommodation/city-apartment-ecc2e23c1dd8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"
 language: en
 slug: city-apartment
 address: "Rruga Lefter Talo, Sarandë, Albania"

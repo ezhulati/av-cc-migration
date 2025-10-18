@@ -1,7 +1,7 @@
 ---
 title: "Sky Apartments"
 description: "Sky Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/sky-apartments-522278580.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522278580.jpg?k=0cbf34e6875c446828658b48d179263e8d3e14920fa4de768311d3bb9c01914f&o=&hp=1"
 language: en
 slug: sky-apartments
 address: "Rruga Admiral Abdi Mati 11th floor, 2001 Durrës, Albania"

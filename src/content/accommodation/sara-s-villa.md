@@ -1,7 +1,7 @@
 ---
 title: "SARA'S VILLA"
 description: "SARA'S VILLA emerges as a premier choice for travelers seeking a blend of comfort and convenience, complemented by stunning city views."
-featuredImage: "/images/accommodation/sara-s-villa-184269445.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184269445.jpg?k=0f0fac0792c8caa28f975231c41a2f6db35a8ba8df705e1238c9ac67c96cfb92&o=&hp=1"
 language: en
 slug: sara-s-villa
 address: "Rr. Milan Shuflaj, lagja Mark Lulaj, 4001 Shkodër, Albania"

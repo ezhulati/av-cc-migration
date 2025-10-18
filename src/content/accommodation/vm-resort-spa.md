@@ -1,7 +1,7 @@
 ---
 title: "VM Resort & SPA"
 description: "VM Resort & SPA stands as a premier 5-star destination in Golem, directly facing the pristine beachfront."
-featuredImage: "/images/accommodation/vm-resort-spa-367648542.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367648542.jpg?k=94dce54caaad06082956b4376433e91e046cf779da133fef9101404054901a37&o=&hp=1"
 language: en
 slug: vm-resort-spa
 address: "Rruga Bulevardi i Pishave, 2051 Golem, Albania"

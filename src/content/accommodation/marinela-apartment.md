@@ -1,7 +1,7 @@
 ---
 title: "Marinela Apartment"
 description: "Marinela Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/marinela-apartment-368408942.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368408942.jpg?k=cdf273134a068449057b15615ea4a751283a99242daaa2d8148f48ce95a9c43d&o=&hp=1"
 language: en
 slug: marinela-apartment
 address: "Rruga Teodor Keko, 1052 Tirana, Albania"

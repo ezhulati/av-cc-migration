@@ -1,7 +1,7 @@
 ---
 title: "Blue Sea Apartments"
 description: "Blue Sea Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/blue-sea-apartments-103401128.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/103401128.jpg?k=cb17de18367d084a45e80f663c91d62c97132fc310866d11501e9b25ea558e3e&o=&hp=1"
 language: en
 slug: blue-sea-apartments
 address: "Rruga Turizmi in Front of Santa Quaranta Resort, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Cozy Heaven Apartments 3"
 description: "Cozy Heaven Apartments 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cozy-heaven-apartments-3-500553239.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500553239.jpg?k=ca9f96d25b53c714c75ee673dfe7b2c65255706d308e0fe1a73dfb511c429421&o=&hp=1"
 language: en
 slug: cozy-heaven-apartments-3
 address: "Rruga Jusuf Vrioni, 1001 Tirana, Albania"

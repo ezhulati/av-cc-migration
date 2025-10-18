@@ -1,7 +1,7 @@
 ---
 title: "Marina House"
 description: "Marina House emerges as a standout choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/marina-house-326204832.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326204832.jpg?k=bd9604110eda18f6cb9a74e4deec3375d3a277afd32fd82028d86ff98c9cb4f3&o=&hp=1"
 language: en
 slug: marina-house
 address: "Rruga Shaban Demiraj Apartment, 9401 Vlorë, Albania"

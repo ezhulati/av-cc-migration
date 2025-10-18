@@ -1,7 +1,7 @@
 ---
 title: "front beach appartament"
 description: "Front Beach Apartment in Shëngjin emerges as a prime choice for travelers seeking a serene beachside retreat."
-featuredImage: "/images/accommodation/front-beach-appartament-465240556.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465240556.jpg?k=af091db476ddbf83031a598af8096bad3dfd4a8a8855fe1ebdaf65bd7528c1fa&o=&hp=1"
 language: en
 slug: front-beach-appartament
 address: "Shëtitorja Wilson, Shëngjin, Albania"

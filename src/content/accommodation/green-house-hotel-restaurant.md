@@ -1,7 +1,7 @@
 ---
 title: "Green House Hotel & Restaurant"
 description: "Discover the charm of Green House Hotel & Restaurant, a gem located just a 15-minute stroll from the heart of Tirana and the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/green-house-hotel-restaurant-129870674.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/129870674.jpg?k=4c614b5cd4c548e51b1e47e1280b2ce526b81fe99e94f6e515d579fb21acee27&o=&hp=1"
 language: en
 slug: green-house-hotel-restaurant
 address: "Rruga Jul Varibova Nr 6, 1010 Tirana, Albania"

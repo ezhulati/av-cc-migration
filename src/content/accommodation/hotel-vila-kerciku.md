@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Kerciku"
 description: "Discover the charm of Hotel Vila Kerciku, a modern oasis housed within a beautifully renovated historic building right in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-vila-kerciku-270187615.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270187615.jpg?k=92df34a16c8eb677d4a666d4c59e33bfdf47d6c03379a1cf370133f4a3df9dfb&o=&hp=1"
 language: en
 slug: hotel-vila-kerciku
 address: "Sheshi Avni Rustemi Tirane , 1000 Tirana, Albania"

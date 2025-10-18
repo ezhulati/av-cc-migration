@@ -1,7 +1,7 @@
 ---
 title: "Vila Xhafa"
 description: "Vila Xhafa emerges as a charming retreat in the heart of Ksamil, a stone's throw away from the pristine Ksamil Beach and the tranquil Sunset Beach."
-featuredImage: "/images/accommodation/vila-xhafa-361134698.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361134698.jpg?k=a4421fc54240f7283c5aed32863018d0458f53761eac88918589367696b435eb&o=&hp=1"
 language: en
 slug: vila-xhafa
 address: "Gjon Pali 2, 9706 Ksamil, Albania"

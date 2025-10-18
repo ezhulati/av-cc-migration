@@ -1,7 +1,7 @@
 ---
 title: "Manga Apartments 3+1"
 description: "Manga Apartments 3+1 emerges as a serene retreat in the historic city of Gjirokastër, a mere stone's throw away from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/manga-apartments-3-1-488982319.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488982319.jpg?k=06e0d1aa25faef9364cfb569b89b0af8547e5e37102229affc1c7c50e1e8d26c&o=&hp=1"
 language: en
 slug: manga-apartments-3-1
 address: "Rruga Doktor Vasil Jorgji 3, Gjirokastër, Albania"

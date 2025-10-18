@@ -1,7 +1,7 @@
 ---
 title: "Amadeus apartament"
 description: "Amadeus Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/amadeus-apartament-435077777.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435077777.jpg?k=fdf385d0d90aef14ab3fef3556cceab8aca884802c6a2ca904a1b3b9b09ef53f&o=&hp=1"
 language: en
 slug: amadeus-apartament
 address: "Rruga Astrit Sulejman Balluku At the 4 floor, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hermes Apartment"
 description: "Hermes Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/hermes-apartment-337870208.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337870208.jpg?k=5968974e0a27312b3c53f0d3606795b315d3bd73c755dffe3b664810dbd2ce40&o=&hp=1"
 language: en
 slug: hermes-apartment
 address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

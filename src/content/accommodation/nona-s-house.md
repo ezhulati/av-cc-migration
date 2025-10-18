@@ -1,7 +1,7 @@
 ---
 title: "Nona's House"
 description: "Nona's House stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, offering spacious air-conditioned accommodations just a short stroll from the pristine Vlore Beach and within walking distance of the serene Vjetër Beach."
-featuredImage: "/images/accommodation/nona-s-house-402843211.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402843211.jpg?k=956ba679aaf378812fdaafa6dac0fc9dc83ab1277bf8c3d9118be074bfaf5d31&o=&hp=1"
 language: en
 slug: nona-s-house
 address: "Rruga Pelivan Leskaj,Kati 6, 0094 Vlorë, Albania"

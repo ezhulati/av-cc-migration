@@ -1,7 +1,7 @@
 ---
 title: "EKA Luxury One-Bedroom Apartment"
 description: "EKA Luxury One-Bedroom Apartment emerges as a premier choice for travelers seeking a blend of comfort and convenience, located just a short 600-meter stroll from the vibrant Durres Beach."
-featuredImage: "/images/accommodation/eka-luxury-one-bedroom-apartment-148836597.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148836597.jpg?k=89226151f9c02e492e577a12b172d114ebfa0b3ccb3b80db3e407e78e299ce80&o=&hp=1"
 language: en
 slug: eka-luxury-one-bedroom-apartment
 address: "Rruga Qafe Bote, 1001 Durrës, Albania"

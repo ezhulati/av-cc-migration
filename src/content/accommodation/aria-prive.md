@@ -1,7 +1,7 @@
 ---
 title: "Aria Prive"
 description: "Aria Prive emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Himare, perfectly positioned within easy reach of the serene Potam Beach and merely a short stroll from the inviting sands of Prinos Beach."
-featuredImage: "/images/accommodation/aria-prive-266544478.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266544478.jpg?k=64e9b47c0c4e7171bbaa85bdf317e3dbc6c9641ad5940c7d854e466bd40d1b40&o=&hp=1"
 language: en
 slug: aria-prive
 address: "SH8, 1001 Himare, Albania"

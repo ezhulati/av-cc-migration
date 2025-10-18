@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Gjyshi Ilo"
 description: "Bujtina Gjyshi Ilo emerges as a serene oasis for travelers seeking comfort and convenience in Pogradec."
-featuredImage: "/images/accommodation/bujtina-gjyshi-ilo-306376979.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306376979.jpg?k=96ab8caac7a511c0e4b9f612a5705fbac463f3200916f5228141b82ae4fb7d6f&o=&hp=1"
 language: en
 slug: bujtina-gjyshi-ilo
 address: "Bujtina Gjyshi Ilo,Tushemisht,Pogradec, 7301 Pogradec, Albania"

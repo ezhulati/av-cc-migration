@@ -1,7 +1,7 @@
 ---
 title: "Guest House Gjelaj"
 description: "Guest House Gjelaj is a serene retreat just 2 km from the breathtaking Theth National Park in Theth."
-featuredImage: "/images/accommodation/guest-house-gjelaj-467202633.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467202633.jpg?k=ea4864579333c67ed1bc5b13b50a3ca85773e53ed61fea12b20ba66d82d51acb&o=&hp=1"
 language: en
 slug: guest-house-gjelaj
 address: "Gjelaj Theth, 4018 Theth, Albania"

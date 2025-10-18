@@ -1,7 +1,7 @@
 ---
 title: "Strandwohnung mit Meerblick, Vlorë"
 description: "Strandwohnung mit Meerblick, Vlorë, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/strandwohnung-mit-meerblick-vlor-415874983.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415874983.jpg?k=f91c842a5e3560e918d8264538b129ff2f478a9523c30936278056bc1d6abfcc&o=&hp=1"
 language: en
 slug: strandwohnung-mit-meerblick-vlor
 address: "Plazhi Vjeter, Rruga Sazani, 9401 Vlorë, Albania"

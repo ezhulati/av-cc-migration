@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lepenica"
 description: "Hotel Lepenica stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, just a stone's throw away from the beach."
-featuredImage: "/images/accommodation/hotel-lepenica-210782404.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210782404.jpg?k=a67a9c190eb17e6996738244ad95ec9de3b5eb01410fffbd76d6c27f4f5872e1&o=&hp=1"
 language: en
 slug: hotel-lepenica
 address: "Rruga Vlore-Orikum, 9426 Vlorë, Albania"

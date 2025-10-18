@@ -1,7 +1,7 @@
 ---
 title: "La Voglia Hotel Boutique"
 description: "La Voglia Hotel Boutique stands as a beacon of modern luxury and convenience in the heart of Tirana, just a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/la-voglia-hotel-boutique-286800064.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286800064.jpg?k=66717e045d8f4401de2fffac94e9eb3ef94b36ff6ae38e46001691a9f3521d9f&o=&hp=1"
 language: en
 slug: la-voglia-hotel-boutique
 address: "Rruga Reshit Çollaku 5, 1001 Tirana, Albania"

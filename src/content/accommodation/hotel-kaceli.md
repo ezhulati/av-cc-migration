@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kaceli"
 description: "Hotel Kaceli stands out as a distinguished 4-star establishment in Berat, offering a harmonious blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/hotel-kaceli-376593548.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376593548.jpg?k=9a1be1d2600a7192bb149eea9cfc77765648411ad08f1834ec18c2b0781f84b4&o=&hp=1"
 language: en
 slug: hotel-kaceli
 address: "Rruga Antipatrea, Perballe ish kombinatit Tekstil, 5002 Berat, Albania"

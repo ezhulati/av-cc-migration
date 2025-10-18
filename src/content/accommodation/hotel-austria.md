@@ -1,7 +1,7 @@
 ---
 title: "Hotel Austria"
 description: "Hotel Austria emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-austria-72621635.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72621635.jpg?k=9e30ba0512144efb9e4aae4b77da26e2b910080ee1ea96b5ee3ae033c842a217&o=&hp=1"
 language: en
 slug: hotel-austria
 address: "Rr. \"Dibres\" Nr.18 , (tek 9-kateshet, mbrapa Ambulances Madhe ) , 1001 Tirana, Albania"

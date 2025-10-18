@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kalemi 2"
 description: "Hotel Kalemi 2 stands as a beacon of comfort and convenience in the historic heart of Gjirokastër, just a stone's throw away from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-kalemi-2-214169986.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214169986.jpg?k=378172b41affffe742f90dd7c9d5fd502ec26cfa8589d9b8e862c1aa1d0d0442&o=&hp=1"
 language: en
 slug: hotel-kalemi-2
 address: "Rr \"Alqi Kondi\", Gjirokaster, Albania., 6001 Gjirokastër, Albania"

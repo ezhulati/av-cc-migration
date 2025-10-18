@@ -1,7 +1,7 @@
 ---
 title: "KloAn's Apartment Vlore"
 description: "KloAn's Apartment Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/kloan-s-apartment-vlore-475375102.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475375102.jpg?k=c72db353e9f8f6d60ac111268b4277f90de83b410f8cccb10a3d7c1e23da5b77&o=&hp=1"
 language: en
 slug: kloan-s-apartment-vlore
 address: "Rruga Aristill Kokoshi, 1001 Vlorë, Albania"

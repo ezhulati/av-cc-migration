@@ -1,7 +1,7 @@
 ---
 title: "Sunflower Cozy Apartment Near Bllok Area"
 description: "Sunflower Cozy Apartment Near Bllok Area emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sunflower-cozy-apartment-near-bllok-area-489667912.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489667912.jpg?k=34fcc3ee56246a96e611e8a2295b8298f8b5f9235a68720a2c98110b2dfdcd47&o=&hp=1"
 language: en
 slug: sunflower-cozy-apartment-near-bllok-area
 address: "Rruga Sulejman Delvina, 1000 Tirana, Albania"

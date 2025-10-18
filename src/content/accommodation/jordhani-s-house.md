@@ -1,7 +1,7 @@
 ---
 title: "Jordhani's House"
 description: "Jordhani's House, positioned strategically within close proximity to the serene Ohrid Lake Springs and the historic Monastery Saint Naum, emerges as a distinguished accommodation choice in Korçë."
-featuredImage: "/images/accommodation/jordhani-s-house-315418576.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315418576.jpg?k=53ddf021588657daa239d55326d6c199122b1450646d22b44cdd18c812413559&o=&hp=1"
 language: en
 slug: jordhani-s-house
 address: "Rruga Sofokli Maliqari, Blv. Fan S. Noli, Nr. 3, Lagjia 3, 7001 Korçë, Albania"

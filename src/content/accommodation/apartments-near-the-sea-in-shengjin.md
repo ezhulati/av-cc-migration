@@ -1,7 +1,7 @@
 ---
 title: "Apartments near the Sea in Shengjin"
 description: "Discover the charm of Shëngjin with a stay at the Apartments near the Sea in Shengjin, a prime location merely steps away from the pristine Shëngjin Beach and a short stroll from the tranquil Ylberi Beach."
-featuredImage: "/images/accommodation/apartments-near-the-sea-in-shengjin-463586021.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463586021.jpg?k=1acfefd1ecbb804ad7123fc267df2c94ced5f3e2be217557f92ac6af17f3ae83&o=&hp=1"
 language: en
 slug: apartments-near-the-sea-in-shengjin
 address: "Shëngjin - Kune, 4503 Shëngjin, Albania"

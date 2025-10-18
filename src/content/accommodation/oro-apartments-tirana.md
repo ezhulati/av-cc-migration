@@ -1,7 +1,7 @@
 ---
 title: "Oro Apartments Tirana"
 description: "Oro Apartments Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/oro-apartments-tirana-ecc2e23c1dd8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-o/ecc2e23c1dd875ae18fc261d4a08d35f71db9440.png"
 language: en
 slug: oro-apartments-tirana
 address: "Rruga Tish Dahija Nd.26, H.3, Ap.19, 1022 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Durres Beachfront Luxury Residences 13"
 description: "Discover the epitome of coastal luxury at Durres Beachfront Luxury Residences 13, a gem located just moments away from the pristine Shkëmbi i Kavajës Beach in Durrës."
-featuredImage: "/images/accommodation/durres-beachfront-luxury-residences-13-462145913.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462145913.jpg?k=d996928037d7df1e7a35bfe395f4e8467c114f29e3e5c1c02a48fc079325bf27&o=&hp=1"
 language: en
 slug: durres-beachfront-luxury-residences-13
 address: "Rruga Butrinti, No: 10, Apt. 13S, Shkembi i Kavajes, 2001 Durrës, Albania"

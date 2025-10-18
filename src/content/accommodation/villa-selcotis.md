@@ -1,7 +1,7 @@
 ---
 title: "Villa Selcotis"
 description: "Villa Selcotis emerges as a serene oasis in Golem, offering guests a unique blend of comfort and convenience with its prime location just a stone's throw away from the pristine Shkëmbi i Kavajës Beach and a short distance from the vibrant Mali I Robit Beach."
-featuredImage: "/images/accommodation/villa-selcotis-473298419.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473298419.jpg?k=1d8025bdeaf8eadedeac160e4c0a300f0c3f18097e341688b5164d0e9506f75e&o=&hp=1"
 language: en
 slug: villa-selcotis
 address: "Rruga Hekurudha, 2504 Golem, Albania"

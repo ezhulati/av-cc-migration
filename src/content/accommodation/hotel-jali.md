@@ -1,7 +1,7 @@
 ---
 title: "Hotel Jali"
 description: "Hotel Jali stands as a prime destination for travelers seeking a serene beachfront escape on Jali Beach, Himare."
-featuredImage: "/images/accommodation/hotel-jali-397616906.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/397616906.jpg?k=a7a7a748afd9deccd6298c1e253b3b465e51577895be929b5e4803b5519b390c&o=&hp=1"
 language: en
 slug: hotel-jali
 address: "Jale Beach, 9425 Himare, Albania"

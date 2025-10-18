@@ -1,7 +1,7 @@
 ---
 title: "Red Goat Hostel"
 description: "Red Goat Hostel emerges as a vibrant hub for travelers in the heart of Tirana, offering a unique blend of communal spirit and private comfort."
-featuredImage: "/images/accommodation/red-goat-hostel-462134843.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462134843.jpg?k=3573dad9e60a7587fa9a50ac940659cf4401b8884f95f6dd42397aa13a50f2fe&o=&hp=1"
 language: en
 slug: red-goat-hostel
 address: "Rruga Naim Frashëri Nr.6, 1023 Tirana, Albania"

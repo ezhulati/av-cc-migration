@@ -1,7 +1,7 @@
 ---
 title: "Très Belle"
 description: "Très Belle emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Korçë."
-featuredImage: "/images/accommodation/tr-s-belle-292671004.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292671004.jpg?k=7305278b3df09eaf68fa7ccfae64e756b18b2b4f13eda25e320aed2c4bb2db52&o=&hp=1"
 language: en
 slug: tr-s-belle
 address: "Rruga Xhafer Cenko Lubonja Quartiere 7 edificio 11, 7001 Korçë, Albania"

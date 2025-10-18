@@ -1,7 +1,7 @@
 ---
 title: "Tea Residence, Gjiri i Lalzit Villa"
 description: "Tea Residence, Gjiri i Lalzit Villa, emerges as a premier choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/tea-residence-gjiri-i-lalzit-villa-358352315.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358352315.jpg?k=d332e04ff8a1eb75a8ef838f36b217729c43e4cf2d5275ba2b66e2fd5e1446f8&o=&hp=1"
 language: en
 slug: tea-residence-gjiri-i-lalzit-villa
 address: "Gjiri i Lalzit Tea Residence, 2001 Durrës, Albania"

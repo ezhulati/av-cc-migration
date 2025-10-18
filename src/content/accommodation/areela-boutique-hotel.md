@@ -1,7 +1,7 @@
 ---
 title: "Areela Boutique Hotel"
 description: "Discover the charm of Tirana from the comfort of Areela Boutique Hotel, a gem located in the city's oldest neighborhood and a mere stone's throw from Skanderbeg Square."
-featuredImage: "/images/accommodation/areela-boutique-hotel-83695322.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/83695322.jpg?k=7e8a4b9005b0099797625b46295a5325fe492bb320eec98085b0b8165c43f483&o=&hp=1"
 language: en
 slug: areela-boutique-hotel
 address: "Rruga Mahmut Fortuzi Nr 5, 1001 Tirana, Albania"

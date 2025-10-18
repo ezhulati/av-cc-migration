@@ -1,7 +1,7 @@
 ---
 title: "RPJ Noa Apartments"
 description: "RPJ Noa Apartments stands out as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë, merely a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/rpj-noa-apartments-288657801.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/288657801.jpg?k=ac2d4ff2f6d77c79c06f2d93af5ddce5236429cd0ebf37045fd705371198c1ed&o=&hp=1"
 language: en
 slug: rpj-noa-apartments
 address: "Rruga Murat Tërbaçi Apartament, 9401 Vlorë, Albania"

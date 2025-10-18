@@ -1,7 +1,7 @@
 ---
 title: "Në Kroi"
 description: "Në Kroi, situated in the charming city of Korçë, stands out as a prime choice for travelers seeking both comfort and convenience, located equidistant from the natural wonders of Ohrid Lake Springs and the historic Monastery Saint Naum, each 44 km away."
-featuredImage: "/images/accommodation/n-kroi-330290040.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330290040.jpg?k=efbfc4ff4f3b2e03738ec6f121037ab6aa4bea05776dbd03826411e30e41fed7&o=&hp=1"
 language: en
 slug: n-kroi
 address: "11 Rruga Gjon Kastrioti, 7001 Korçë, Albania"

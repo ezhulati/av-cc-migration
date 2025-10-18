@@ -1,7 +1,7 @@
 ---
 title: "Ermar Apartment 2"
 description: "Ermar Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Golem, just a stone's throw away from the serene Qerret Beach and a short drive from the picturesque Mali I Robit Beach."
-featuredImage: "/images/accommodation/ermar-apartment-2-472134688.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472134688.jpg?k=744f06cf7a0dd7fa4f35635ee1a3e146c4bd4968ae3fb78fd5a5d3565b2df87e&o=&hp=1"
 language: en
 slug: ermar-apartment-2
 address: "Rruga e Fshatrave Turistike, Qerret, 1001 Golem, Albania"

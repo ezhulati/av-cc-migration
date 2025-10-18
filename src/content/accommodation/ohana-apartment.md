@@ -1,7 +1,7 @@
 ---
 title: "Ohana Apartment"
 description: "Ohana Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/ohana-apartment-443865553.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443865553.jpg?k=18306580866076fceeb2d3ffcf354ad9b96e875948433d497a26a32ff2232ae7&o=&hp=1"
 language: en
 slug: ohana-apartment
 address: "Rruga Mis Durhan, Vlorë, Albania"

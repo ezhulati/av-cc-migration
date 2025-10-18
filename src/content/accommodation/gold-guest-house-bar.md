@@ -1,7 +1,7 @@
 ---
 title: "Gold Guest House & Bar"
 description: "Gold Guest House & Bar emerges as a serene retreat in Përmet, offering guests a unique blend of comfort and convenience with its mountain views, complimentary WiFi, and private parking."
-featuredImage: "/images/accommodation/gold-guest-house-bar-259421005.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259421005.jpg?k=d23bcae68af14031c1010617dc4ff225c94f958587ba037ae68514a7dbc63016&o=&hp=1"
 language: en
 slug: gold-guest-house-bar
 address: "Lagjia e Re, 6400 Përmet, Albania"

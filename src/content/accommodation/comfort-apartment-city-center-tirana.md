@@ -1,7 +1,7 @@
 ---
 title: "COMFORT APARTMENT City Center Tirana"
 description: "COMFORT APARTMENT City Center Tirana emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/comfort-apartment-city-center-tirana-526500704.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526500704.jpg?k=b43161472e97a00d16194ae2254741065bf80bdac995c264dea792287792e7c2&o=&hp=1"
 language: en
 slug: comfort-apartment-city-center-tirana
 address: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"

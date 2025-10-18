@@ -1,7 +1,7 @@
 ---
 title: "Hotel Divers"
 description: "Hotel Divers stands as a beacon of comfort and convenience in Vlorë, merely steps away from the pristine Radhimë Beach."
-featuredImage: "/images/accommodation/hotel-divers-463318011.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463318011.jpg?k=849c441be7e1782516bb3547834ba6a669a6a50563dd64af03d21ea646ba67e5&o=&hp=1"
 language: en
 slug: hotel-divers
 address: "Vlore - Radhime kilometri 13, 9403 Vlorë, Albania"

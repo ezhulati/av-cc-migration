@@ -1,7 +1,7 @@
 ---
 title: "CozyLand Studio apartment Super Conditions Tirana"
 description: "CozyLand Studio Apartment Super Conditions Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/cozyland-studio-apartment-super-conditions-tirana-399086443.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399086443.jpg?k=05ee00238e58f60f43c45762d7b0b49a5fb9d86ca285bd57a5d4aefafdf9e73d&o=&hp=1"
 language: en
 slug: cozyland-studio-apartment-super-conditions-tirana
 address: "Rruga Vëllezërit Manastirli, 1023 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Eri Rooms"
 description: "Eri Rooms emerges as a charming choice for travelers seeking a serene getaway in Sarandë, boasting garden views that promise a tranquil retreat."
-featuredImage: "/images/accommodation/eri-rooms-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: eri-rooms
 address: "Rruga Guri Nazifi 42, 9701 Sarandë, Albania"

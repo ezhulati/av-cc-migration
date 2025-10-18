@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ajden by Mira Mare"
 description: "Hotel Ajden by Mira Mare stands out as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/hotel-ajden-by-mira-mare-440511877.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440511877.jpg?k=d035c51e8bea68aa29c43c2e8a0ad3393fd52b3d6c4e30723ab7eac6121cbf40&o=&hp=1"
 language: en
 slug: hotel-ajden-by-mira-mare
 address: "Rruga Jul Cezari, Ksamil 9706, 9706 Ksamil, Albania"

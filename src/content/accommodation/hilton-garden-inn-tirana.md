@@ -1,7 +1,7 @@
 ---
 title: "Hilton Garden Inn Tirana"
 description: "Hilton Garden Inn Tirana emerges as a prime choice for travelers seeking both comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/hilton-garden-inn-tirana-484104477.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484104477.jpg?k=9ae3f1edf21a792e4fa1568e84634ee922a210c3755b1b04585e8a6238c1839b&o=&hp=1"
 language: en
 slug: hilton-garden-inn-tirana
 address: "Alpas Center, 146 Bulevardi Gjergi , 1001 Tirana, Albania"

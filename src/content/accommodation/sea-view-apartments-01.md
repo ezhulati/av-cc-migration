@@ -1,7 +1,7 @@
 ---
 title: "Sea view apartments 01"
 description: "Sea View Apartments 01 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/sea-view-apartments-01-472392513.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472392513.jpg?k=d4804cdd233346393e2785b1889d1a5cea3dabf8e54be56a3d9b55b768b1e626&o=&hp=1"
 language: en
 slug: sea-view-apartments-01
 address: "Rruga Sali Vranishti vlore, 9401 Vlorë, Albania"

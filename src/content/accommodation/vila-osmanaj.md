@@ -1,7 +1,7 @@
 ---
 title: "Vila Osmanaj"
 description: "Vila Osmanaj stands out as a prime choice for travelers seeking a blend of comfort and convenience, with its stunning sea views and direct access to Lori Beach just 400 meters away."
-featuredImage: "/images/accommodation/vila-osmanaj-373736472.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373736472.jpg?k=1c792131e3252fb5c685aae72644a9d103277efcd35d46a69df94698b9680d77&o=&hp=1"
 language: en
 slug: vila-osmanaj
 address: "Road Deti Jon & Marina Ksamil Number Building 201 , Floor 1, 9706 Ksamil, Albania"

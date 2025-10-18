@@ -1,7 +1,7 @@
 ---
 title: "Villa Klinton"
 description: "Villa Klinton emerges as a recently updated gem in Durrës, boasting a prime location a stone's throw away from the inviting Durres Beach."
-featuredImage: "/images/accommodation/villa-klinton-375687579.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375687579.jpg?k=f17fc930cf294026548237198ec7027591238bc4792fa6ff256732ede118153f&o=&hp=1"
 language: en
 slug: villa-klinton
 address: "Rruga Qafe Bote, 2008 Durrës, Albania"

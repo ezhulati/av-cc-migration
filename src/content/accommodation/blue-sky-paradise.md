@@ -1,7 +1,7 @@
 ---
 title: "Blue Sky Paradise"
 description: "Blue Sky Paradise emerges as a premier choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/blue-sky-paradise-513783640.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513783640.jpg?k=95c1402bebb32c5bf1c5fb36a65d850fc0a4ab6f99a0ccead892c804296e9306&o=&hp=1"
 language: en
 slug: blue-sky-paradise
 address: "Rruga Currila, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartment close to the Beach with Balcony"
 description: "Apartment Close to the Beach with Balcony emerges as a serene retreat, offering guests a unique blend of comfort and convenience with its prime location just a stone's throw away from Durres Beach."
-featuredImage: "/images/accommodation/apartment-close-to-the-beach-with-balcony-03bc324ed9f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-z/03bc324ed9f9cff39f9ab9be952f41f848d515e2.png"
 language: en
 slug: apartment-close-to-the-beach-with-balcony
 address: "2008 Rruga Pavaresia, 2000 Durrës, Albania"

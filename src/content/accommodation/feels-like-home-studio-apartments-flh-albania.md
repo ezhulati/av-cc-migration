@@ -1,7 +1,7 @@
 ---
 title: "Feels Like Home Studio Apartments - FLH Albania"
 description: "Discover the charm of Tirana with a stay at Feels Like Home Studio Apartments - FLH Albania, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/feels-like-home-studio-apartments-flh-albania-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: feels-like-home-studio-apartments-flh-albania
 address: "Rruga Mine Peza Pall 143/1, Shk. 1 , Ap.2, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SUNSET APARTMENT"
 description: "Sunset Apartment emerges as a prime choice for travelers seeking a serene seaside escape, offering breathtaking sea views from its generously sized balcony."
-featuredImage: "/images/accommodation/sunset-apartment-467305009.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467305009.jpg?k=3effa11bbdc0556021cd8c10d42b50dbad49e5869ae92116859d44a5737c3833&o=&hp=1"
 language: en
 slug: sunset-apartment
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

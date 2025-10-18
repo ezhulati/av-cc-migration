@@ -1,7 +1,7 @@
 ---
 title: "Yacht Hotel"
 description: "Yacht Hotel stands as a beacon of comfort and luxury, just a stone's throw away from the pristine sands of Vlore Beach in Vlorë."
-featuredImage: "/images/accommodation/yacht-hotel-253648717.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253648717.jpg?k=bf274e43875edd25f53b494ab176a39117e42087f3d781ea78655a262ad50bf3&o=&hp=1"
 language: en
 slug: yacht-hotel
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

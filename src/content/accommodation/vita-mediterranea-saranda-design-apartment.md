@@ -1,7 +1,7 @@
 ---
 title: "Vita Mediterranea - Saranda Design Apartment"
 description: "Vita Mediterranea - Saranda Design Apartment emerges as a prime choice for travelers seeking a blend of comfort, style, and convenience in Sarandë."
-featuredImage: "/images/accommodation/vita-mediterranea-saranda-design-apartment-111854086.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111854086.jpg?k=bb2dc2ea97baaa5dd4daf5700084bd66263a8b3ac5d3df7d20d21f05b75d14a8&o=&hp=1"
 language: en
 slug: vita-mediterranea-saranda-design-apartment
 address: "Rruga Ismail Qemali, Lagjja Koder 7th Floor, 9701 Sarandë, Albania"

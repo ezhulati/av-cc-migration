@@ -1,7 +1,7 @@
 ---
 title: "First House"
 description: "First House stands as a prime beachfront destination in Himare, mere steps away from the pristine Spille Beach."
-featuredImage: "/images/accommodation/first-house-204994849.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204994849.jpg?k=64f4ddfbc28d9b5130b5f754eb953e63a7a0cad3011e7fc48d3e1b1126c6344e&o=&hp=1"
 language: en
 slug: first-house
 address: "SH8 20, 9425 Himare, Albania"

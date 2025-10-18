@@ -1,7 +1,7 @@
 ---
 title: "J&M Luxury Apartments Saranda"
 description: "J&M Luxury Apartments Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/j-m-luxury-apartments-saranda-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: j-m-luxury-apartments-saranda
 address: "Rruga Flamurit Rruga Skenderbeu, 9701 Sarandë, Albania"

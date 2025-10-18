@@ -1,7 +1,7 @@
 ---
 title: "Chimaera Hotel"
 description: "Chimaera Hotel stands as a beacon of comfort and luxury in Himare, just a short stroll from the pristine Spille Beach."
-featuredImage: "/images/accommodation/chimaera-hotel-478393019.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478393019.jpg?k=defbbe7fcd7985d210c9ed4d22b7caf4de46294f73dde360cff4a10f311e22f3&o=&hp=1"
 language: en
 slug: chimaera-hotel
 address: "Rruga Jorgo Bollano, 9400 Himare, Albania"

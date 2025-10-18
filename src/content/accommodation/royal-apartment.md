@@ -1,7 +1,7 @@
 ---
 title: "Royal Apartment"
 description: "Royal Apartment in Sarandë offers a prime location for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/royal-apartment-480601614.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480601614.jpg?k=10ed753812310b93ef2dcbd4425f08dc633be0d4a9c572ad9b2315cd9bdae663&o=&hp=1"
 language: en
 slug: royal-apartment
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

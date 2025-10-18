@@ -1,7 +1,7 @@
 ---
 title: "BLUE SEA VIEW"
 description: "BLUE SEA VIEW emerges as a modern gem in Durrës, boasting a prime location just a stone's throw from the pristine Durres Beach and within a comfortable distance of 39 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/blue-sea-view-486155683.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486155683.jpg?k=3102eb89a38b1269fbaa3942cc98fd72a120a0db1b5c1aed3f43cc5e1884df27&o=&hp=1"
 language: en
 slug: blue-sea-view
 address: "Durres, Lagjja 13 Plazh, Rr. Agaveve Apartment nr 10, 2002 Durrës, Albania"

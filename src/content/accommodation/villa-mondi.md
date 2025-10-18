@@ -1,7 +1,7 @@
 ---
 title: "Villa Mondi"
 description: "Villa Mondi emerges as a distinguished choice for travelers seeking both relaxation and adventure in Ksamil."
-featuredImage: "/images/accommodation/villa-mondi-316863924.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/316863924.jpg?k=cfea018ff05a79087c7102ab47703a8be84952e0ed31675723427c2ca92f8fa0&o=&hp=1"
 language: en
 slug: villa-mondi
 address: "Rruga Riviera, 9706 Ksamil, Albania"

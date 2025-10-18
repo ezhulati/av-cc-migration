@@ -1,7 +1,7 @@
 ---
 title: "Dua Apartments"
 description: "Dua Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/dua-apartments-486627024.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486627024.jpg?k=8902fbccbfff4a729fe6df1b9da1f10cd29f5c24a1ad84ed39cf4037a4e4bd1f&o=&hp=1"
 language: en
 slug: dua-apartments
 address: "Rruga Margarita Tutulani 5, Tirana, Albania"

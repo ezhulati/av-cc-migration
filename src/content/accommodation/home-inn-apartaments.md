@@ -1,7 +1,7 @@
 ---
 title: "Home Inn Apartaments"
 description: "Discover the charm of Tirana with a stay at Home Inn Apartaments, a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/home-inn-apartaments-494631904.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494631904.jpg?k=3bf67b0642e44cadb0bbb4aa4e85159d11c3bf7463412c85c3c810c82130417b&o=&hp=1"
 language: en
 slug: home-inn-apartaments
 address: "Rruga Muhamet Gjollesha, 1023 Tirana, Albania"

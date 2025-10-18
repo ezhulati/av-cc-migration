@@ -1,7 +1,7 @@
 ---
 title: "Ramo Guest House"
 description: "Ramo Guest House emerges as a serene retreat in the vibrant city of Vlorë, strategically positioned just moments away from the historic Independence Square and the iconic Kuzum Baba."
-featuredImage: "/images/accommodation/ramo-guest-house-457653858.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457653858.jpg?k=a963a6d77f5c228bcdd15c0620451332c2100cc46d603bd07cbc5e8054112346&o=&hp=1"
 language: en
 slug: ramo-guest-house
 address: "Rruga Fejzo Mema, 9401 Vlorë, Albania"

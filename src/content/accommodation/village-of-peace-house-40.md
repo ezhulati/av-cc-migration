@@ -1,7 +1,7 @@
 ---
 title: "Village of Peace - House 40"
 description: "Village of Peace - House 40 emerges as a serene retreat in the heart of Shkodër, boasting a recently updated accommodation that stands a mere 46 km from the Port of Bar."
-featuredImage: "/images/accommodation/village-of-peace-house-40-486828255.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486828255.jpg?k=b0ac5ce3d7e319f25428f7105af802cde9f64674643581b56435516c8f72c979&o=&hp=1"
 language: en
 slug: village-of-peace-house-40
 address: "Rruga Kazenës, 4002 Shkodër, Albania"

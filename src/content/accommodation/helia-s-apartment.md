@@ -1,7 +1,7 @@
 ---
 title: "Helia’s Apartment"
 description: "Helia's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, located just a short stroll from the serene Mali I Robit Beach and within easy reach of Qerret Beach."
-featuredImage: "/images/accommodation/helia-s-apartment-475828684.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475828684.jpg?k=f3dd14f89abfaaf45f60e009ecce95b280edfac618a8feb8fd7092e088cd889a&o=&hp=1"
 language: en
 slug: helia-s-apartment
 address: "Mali i Robit, Golem, Albania"

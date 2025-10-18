@@ -1,7 +1,7 @@
 ---
 title: "Hotel Airport Tirana"
 description: "Discover the convenience and comfort of Hotel Airport Tirana, a contemporary 4-star establishment situated directly opposite the Tirana International Airport."
-featuredImage: "/images/accommodation/hotel-airport-tirana-39815625.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39815625.jpg?k=d166c8dccd34237a02ac0462a0399cd825712c5f427ec19d3a56d9dd465f377d&o=&hp=1"
 language: en
 slug: hotel-airport-tirana
 address: "Tirana International Airport , 0190 Rinas, Albania"

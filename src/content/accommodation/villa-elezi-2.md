@@ -1,7 +1,7 @@
 ---
 title: "Villa Elezi 2"
 description: "Villa Elezi 2 emerges as a serene retreat in the heart of Korçë, offering air-conditioned accommodations complete with a private balcony for an elevated stay experience."
-featuredImage: "/images/accommodation/villa-elezi-2-516010997.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516010997.jpg?k=cb62e87883b9d31195e49848f6466bc214124c845f8e82c8b7694c6301aa545f&o=&hp=1"
 language: en
 slug: villa-elezi-2
 address: "Lagjja 11 rruga Gjergj Kastrioti rruga Gjergj Kastrioti lagjja 11, 7001 Korçë, Albania"

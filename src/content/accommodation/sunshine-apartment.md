@@ -1,7 +1,7 @@
 ---
 title: "SunShine Apartment"
 description: "SunShine Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/sunshine-apartment-472968135.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472968135.jpg?k=4927776caf5b008e5ad8406a8d6a4a14563dc195c90a573478f2e63437fd5787&o=&hp=1"
 language: en
 slug: sunshine-apartment
 address: "Rruga Ismail Qemali, 2701 Sarandë, Albania"

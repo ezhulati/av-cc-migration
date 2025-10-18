@@ -1,7 +1,7 @@
 ---
 title: "Saints forty apartments I"
 description: "Saints Forty Apartments I emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, Vlorë County."
-featuredImage: "/images/accommodation/saints-forty-apartments-i-482859480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482859480.jpg?k=a6918b0fe1bb7c85f002f67f2056fbf218b4a0437c491400c482976a2d5b1bbf&o=&hp=1"
 language: en
 slug: saints-forty-apartments-i
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

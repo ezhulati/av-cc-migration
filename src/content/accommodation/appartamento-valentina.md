@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Valentina"
 description: "Appartamento Valentina emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just over a kilometer from the pristine Saranda City Beach and slightly further from the charming La Petite Beach."
-featuredImage: "/images/accommodation/appartamento-valentina-135551642.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/135551642.jpg?k=bd2f2ca766b30d46c8ec1694ec3c810069122216f3b72dd16feaeedfe528186e&o=&hp=1"
 language: en
 slug: appartamento-valentina
 address: "Rruga Gjergj Araniti, 8642 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Choco apartment"
 description: "Choco Apartment offers a refreshing retreat in the heart of Librazhd, providing a perfect blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/choco-apartment-500527052.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500527052.jpg?k=7f159e7eaecd462fa01daf88bf0a4b80b4e6556f7180b02be764e0c58fdbf82d&o=&hp=1"
 language: en
 slug: choco-apartment
 address: "Rruga Arbëria, 0034 Librazhd, Albania"

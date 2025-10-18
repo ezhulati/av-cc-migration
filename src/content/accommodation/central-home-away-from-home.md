@@ -1,7 +1,7 @@
 ---
 title: "Central Home Away From Home"
 description: "Central Home Away From Home emerges as a prime choice for travelers seeking a blend of comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/central-home-away-from-home-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: central-home-away-from-home
 address: "Bulevardi Zogu I, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Chrigrey Holiday Apartments & Durres Beach"
 description: "Chrigrey Holiday Apartments & Durres Beach emerges as a prime choice for travelers seeking a blend of comfort and convenience along the Albanian coast."
-featuredImage: "/images/accommodation/chrigrey-holiday-apartments-durres-beach-519280024.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519280024.jpg?k=c4f3ff2016840a83dc5a8ed0014a21a079d389fde5b2d792cb3efccbfac2b45c&o=&hp=1"
 language: en
 slug: chrigrey-holiday-apartments-durres-beach
 address: "Rruga Leoni dhe Koja, 2000 Durrës, Albania"

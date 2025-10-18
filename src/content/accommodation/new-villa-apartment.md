@@ -1,7 +1,7 @@
 ---
 title: "New villa apartment"
 description: "Discover the serene elegance of New Villa Apartment, a premier destination located just a short drive from the heart of Sauk, 6 km away from the bustling Skanderbeg Square."
-featuredImage: "/images/accommodation/new-villa-apartment-517401973.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517401973.jpg?k=e60862bc7188d7e92d1e72d6db5c8640dc09b76bfcbe86a69c2f7bf1b0b784ca&o=&hp=1"
 language: en
 slug: new-villa-apartment
 address: "Rruga Memo Bejko, 1044 Sauk, Albania"

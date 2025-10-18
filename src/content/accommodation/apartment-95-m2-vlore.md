@@ -1,7 +1,7 @@
 ---
 title: "Apartment 95 m2 Vlore"
 description: "Apartment 95 m2 Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/apartment-95-m2-vlore-495448510.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495448510.jpg?k=77be2e9a6c96fda0c7b13afa7acee7a8e70f36cf1917ce22b56dc5459b494f8e&o=&hp=1"
 language: en
 slug: apartment-95-m2-vlore
 address: "Rr. Gjergj Arianiti, 9403 Vlorë, Albania"

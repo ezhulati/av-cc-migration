@@ -1,7 +1,7 @@
 ---
 title: "Guest House Noah&Kristel"
 description: "Guest House Noah&Kristel emerges as a gem in the heart of Berat, boasting a recent renovation that has breathed new life into this charming aparthotel."
-featuredImage: "/images/accommodation/guest-house-noah-kristel-454816931.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454816931.jpg?k=796126fa4e25368e65282332b3a416a59b8c01d039f0287e8bff862f2da8bf7e&o=&hp=1"
 language: en
 slug: guest-house-noah-kristel
 address: "Shkembi 3, 5001 Berat, Albania"

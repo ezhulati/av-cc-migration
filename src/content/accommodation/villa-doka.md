@@ -1,7 +1,7 @@
 ---
 title: "Villa Doka"
 description: "Villa Doka stands out as a premier aparthotel in Sarandë, renowned for its exceptional offerings and prime location."
-featuredImage: "/images/accommodation/villa-doka-244689520.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/244689520.jpg?k=aac9091a00524cca09024d744588abab98cf4a27adb62f875f3ab8009bc4aff3&o=&hp=1"
 language: en
 slug: villa-doka
 address: "3rd Km Sarande - Butrint, Lagja 1, 9703 Sarandë, Albania"

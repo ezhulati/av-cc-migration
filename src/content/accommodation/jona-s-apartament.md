@@ -1,7 +1,7 @@
 ---
 title: "Jona’s apartament"
 description: "Jona's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/jona-s-apartament-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/1585265594882276/picture?type=square&height=64&width=64"
 language: en
 slug: jona-s-apartament
 address: "Rruga Shkembi i Kavajes, 1001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Center View Luxury Apartment"
 description: "Center View Luxury Apartment emerges as a beacon of modern comfort in the heart of Tirana, boasting a prime location that puts guests within arm's reach of the city's most iconic landmarks, including Skanderbeg Square, the Former Residence of Enver Hoxha, and the National Museum of History Albania."
-featuredImage: "/images/accommodation/center-view-luxury-apartment-499660195.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499660195.jpg?k=87861a3f9f63c3ad3ed14bf5db023c121a6dc3cbbbc962295cc8da070add83b8&o=&hp=1"
 language: en
 slug: center-view-luxury-apartment
 address: "Bulevardi Zogu I Rruga Maliq Muco, Ndertesa nr: 10, Apt nr: 37, 1001 Tirana, Albania"

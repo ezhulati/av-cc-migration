@@ -1,7 +1,7 @@
 ---
 title: "Hotel Brace"
 description: "Hotel Brace emerges as a distinguished choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "/images/accommodation/hotel-brace-471666039.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471666039.jpg?k=484012e1a39078ad76cb244ce912d78d62b6c01c552dcb80060455f15334aa51&o=&hp=1"
 language: en
 slug: hotel-brace
 address: "40.083075,20.143014 Bulevardi 18 Shtatori, 6001 Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Tirana Marriott Hotel"
 description: "Tirana Marriott Hotel stands as a beacon of luxury and comfort in the heart of Tirana, merely 1."
-featuredImage: "/images/accommodation/tirana-marriott-hotel-484378762.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484378762.jpg?k=6c1aef5be10573fe80f07f4ef0343e63c1153cc01c28c35d73c20ef6908d30e1&o=&hp=1"
 language: en
 slug: tirana-marriott-hotel
 address: "Sheshi Italia, 1010 Tirana, Albania"

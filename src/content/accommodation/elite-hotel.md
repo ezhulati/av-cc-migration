@@ -1,7 +1,7 @@
 ---
 title: "Elite Hotel"
 description: "Elite Hotel emerges as a prime choice for travelers seeking a serene getaway in Golem, positioned just a stone's throw away from the inviting sands of Golem Beach."
-featuredImage: "/images/accommodation/elite-hotel-464302980.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464302980.jpg?k=3f3de18da30c9d6c92c78946aa2a29b61b8194666289c0fb441dc2ca1a4c8138&o=&hp=1"
 language: en
 slug: elite-hotel
 address: "Bulevardi i Palmave, 2504 Golem, Albania"

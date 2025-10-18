@@ -1,7 +1,7 @@
 ---
 title: "Arkle Apartment 3"
 description: "Arkle Apartment 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/arkle-apartment-3-495093481.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495093481.jpg?k=3ece90bd56626e9b2c7c0cb3604f47d141b3b708bb1e0d23f02d75d23cfe6086&o=&hp=1"
 language: en
 slug: arkle-apartment-3
 address: "Rruga Adbyl Frasheri, Tirana, Albania"

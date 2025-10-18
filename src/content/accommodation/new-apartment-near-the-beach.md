@@ -1,7 +1,7 @@
 ---
 title: "New apartment near the beach"
 description: "Discover the charm of Vlorë with a stay at this modern apartment, perfectly positioned just a short stroll from the pristine Vlore Beach and within easy reach of the serene Ri Beach."
-featuredImage: "/images/accommodation/new-apartment-near-the-beach-495452269.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495452269.jpg?k=4b627372d62a103a56cf444ff6b4e8ed633f70c71c178fdeff36f97fc7dbeca8&o=&hp=1"
 language: en
 slug: new-apartment-near-the-beach
 address: "Rruga Shaban Demiraj, 9401 Vlorë, Albania"

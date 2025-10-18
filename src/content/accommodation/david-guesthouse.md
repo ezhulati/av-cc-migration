@@ -1,7 +1,7 @@
 ---
 title: "David Guesthouse"
 description: "David Guesthouse emerges as a serene retreat in the heart of Shkodër, Shkoder County, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/david-guesthouse-486750436.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486750436.jpg?k=aad4dc980530df3db158387c318b62981e10cc4580a0a9ba83c301933ab3ffc7&o=&hp=1"
 language: en
 slug: david-guesthouse
 address: "Rruga Filip Shiroka 1, 1001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "6 Apartments at city center"
 description: "6 Apartments at City Center emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodër, Shkoder County."
-featuredImage: "/images/accommodation/6-apartments-at-city-center-510659070.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510659070.jpg?k=e6385f619b14edb93e28dbe06b3813a72d6c7be54b365ae03c852ae9edc84d84&o=&hp=1"
 language: en
 slug: 6-apartments-at-city-center
 address: "Rruga Zef Jubani, 4001 Shkodër, Albania"

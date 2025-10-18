@@ -1,7 +1,7 @@
 ---
 title: "Stay in Tirana Sunny Apartment Located in Center 02"
 description: "Stay in Tirana Sunny Apartment Located in Center 02 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/stay-in-tirana-sunny-apartment-located-in-center-02-517095413.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517095413.jpg?k=d4c8718cdaa1b3aea493ffb5c50dda7d958c458d3025bea5b032a60856ba5f9c&o=&hp=1"
 language: en
 slug: stay-in-tirana-sunny-apartment-located-in-center-02
 address: "Rruga Petro Nini Luarasi, 1001 Tirana, Albania"

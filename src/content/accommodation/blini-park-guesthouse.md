@@ -1,7 +1,7 @@
 ---
 title: "Blini-Park Guesthouse"
 description: "Blini-Park Guesthouse emerges as a serene oasis in Mollʼ e Shoshit, offering a unique blend of natural beauty and comfort right on the beachfront."
-featuredImage: "/images/accommodation/blini-park-guesthouse-198244355.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/198244355.jpg?k=042f778550c62094713cf7e0b4fb35b92a48477842d3cda6b72b003dd7d88545&o=&hp=1"
 language: en
 slug: blini-park-guesthouse
 address: "Shosh, 4001 Mollʼ e Shoshit, Albania"

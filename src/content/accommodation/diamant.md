@@ -1,7 +1,7 @@
 ---
 title: "Diamant"
 description: "Diamant emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/diamant-364121009.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364121009.jpg?k=4ccc25fdc38b483d8ff3d103231c24ee947d707d07e756a93b8f1b64783430cf&o=&hp=1"
 language: en
 slug: diamant
 address: "Sarande Lagjia numer 4, 9702 Sarandë, Albania"

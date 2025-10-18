@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Emanuel"
 description: "Guesthouse Emanuel emerges as a serene retreat in the heart of Ksamil, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "/images/accommodation/guesthouse-emanuel-342692661.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342692661.jpg?k=850fcdc984892fb5e743bc798492404d048dbe8e1ace58e3928f7326b538b40e&o=&hp=1"
 language: en
 slug: guesthouse-emanuel
 address: "Rruga Riviera Rruga Freskia, 9706 Ksamil, Albania"

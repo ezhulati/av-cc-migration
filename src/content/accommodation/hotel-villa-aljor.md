@@ -1,7 +1,7 @@
 ---
 title: "Hotel Villa Aljor"
 description: "Hotel Villa Aljor emerges as a serene oasis in Golem, merely a stone's throw away from the pristine Mali I Robit Beach."
-featuredImage: "/images/accommodation/hotel-villa-aljor-267105385.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267105385.jpg?k=f08b6f0586ff3465ec25e46495e894f57cf89f94007450d0f13ef473dade3762&o=&hp=1"
 language: en
 slug: hotel-villa-aljor
 address: "Mali i Robit, 2501 Golem, Albania"

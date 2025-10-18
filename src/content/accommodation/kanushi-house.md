@@ -1,7 +1,7 @@
 ---
 title: "Kanushi house"
 description: "Kanushi House emerges as a serene retreat in the historic heart of Gjirokastër, offering guests a unique blend of comfort and convenience with its air-conditioned accommodations that boast a private patio."
-featuredImage: "/images/accommodation/kanushi-house-439956814.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439956814.jpg?k=52417ed56d67a7216ca3f0d95f96050af279c2f83fdc7fefa12ce3989d742a92&o=&hp=1"
 language: en
 slug: kanushi-house
 address: "Gjirokastër,Arshi Lëngo, 6001 Gjirokastër, Albania"

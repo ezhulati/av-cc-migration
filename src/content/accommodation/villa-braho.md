@@ -1,7 +1,7 @@
 ---
 title: "Villa Braho"
 description: "Villa Braho stands out as a prime choice for travelers seeking comfortable lodging in Gjirokastër."
-featuredImage: "/images/accommodation/villa-braho-498344187.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498344187.jpg?k=7dcd380db3af206a2f69d6f3aa871084ad13d910bf48b8aa40f6399b8af8868a&o=&hp=1"
 language: en
 slug: villa-braho
 address: "Rruga Hasan Xhiku, 6001 Gjirokastër, Albania"

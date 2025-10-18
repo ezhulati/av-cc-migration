@@ -1,7 +1,7 @@
 ---
 title: "Casa Gaçe Hotel"
 description: "Since its doors opened in 2016, Casa Gaçe has quickly become a sought-after retreat in the scenic Morava Mountain area of Korçë, merely 2 km from the bustling town center."
-featuredImage: "/images/accommodation/casa-ga-e-hotel-84796104.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/84796104.jpg?k=5d5ac278bbb2b6a4c43eeb504fef81d99d3ecae532d05f3dca871df7659bc814&o=&hp=1"
 language: en
 slug: casa-ga-e-hotel
 address: "Rruga Çlirimi i Korçës, 7001 Korçë, Albania"

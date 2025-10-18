@@ -1,7 +1,7 @@
 ---
 title: "Tirana's Hidden Wonder"
 description: "Tirana's Hidden Wonder emerges as a gem in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square and a short drive from the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/tirana-s-hidden-wonder-371064482.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371064482.jpg?k=763e5b62035a88c289af27aefc11c287918feb706c60dd0d6848ee728c583027&o=&hp=1"
 language: en
 slug: tirana-s-hidden-wonder
 address: "Rr. Andon Zako Çajupi,, Pall Aviacionit të Ri, Hy 28, ap 8, 1019 Tirana, Albania"

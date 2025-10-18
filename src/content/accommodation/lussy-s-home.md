@@ -1,7 +1,7 @@
 ---
 title: "Lussy's home"
 description: "Lussy's Home emerges as a serene retreat in Sakës, strategically positioned a mere stone's throw away from the pristine Ylberi Beach and within easy reach of the historic Rozafa Castle Shkodra and the tranquil Lake Skadar."
-featuredImage: "/images/accommodation/lussy-s-home-AOh14Gj92FEX.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14Gj92FEXmZ_TVnYxQTDBHu9JM_B6WT60B19AlXOe5rU=s96-c64"
 language: en
 slug: lussy-s-home
 address: "Shengjin Lezhe \"PALLATI ULDEDAJ PAS HOTEL RESTORANT DEMOS OSE PAS MARIGONES 3 floor, Sakës, Albania"

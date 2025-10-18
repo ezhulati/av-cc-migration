@@ -1,7 +1,7 @@
 ---
 title: "San Pietro Resort, albania"
 description: "San Pietro Resort in Albania emerges as a serene oasis for travelers seeking a blend of comfort and convenience amidst the historical tapestry of Durrës."
-featuredImage: "/images/accommodation/san-pietro-resort-albania-484900009.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484900009.jpg?k=ee230f13847e780f0c9ff6a38583b1e5f936dfa852f4cd3ae3f3514ca6cb8668&o=&hp=1"
 language: en
 slug: san-pietro-resort-albania
 address: "Rruga Gjiri i Lalzit, Durrës, Albania"

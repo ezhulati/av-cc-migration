@@ -1,7 +1,7 @@
 ---
 title: "appartamento sarande"
 description: "Appartamento Sarande emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/appartamento-sarande-475713126.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475713126.jpg?k=a4e327d5117e11b1e95a101e34113e5289b677b9bf07cbf990b5f2679306a608&o=&hp=1"
 language: en
 slug: appartamento-sarande
 address: "Rruga Butrinti, 8642 Sarandë, Albania"

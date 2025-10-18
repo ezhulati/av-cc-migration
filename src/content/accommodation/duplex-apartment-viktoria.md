@@ -1,7 +1,7 @@
 ---
 title: "Duplex Apartment Viktoria"
 description: "Duplex Apartment Viktoria emerges as a prime choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "/images/accommodation/duplex-apartment-viktoria-AATXAJwhSpX1.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJwhSpX1c26v-PIY8Xm55aIPU9B9cBygwC2VKjHo=s96-c64"
 language: en
 slug: duplex-apartment-viktoria
 address: "Rruga Alqi Kondi, Gjirokastër, Albania"

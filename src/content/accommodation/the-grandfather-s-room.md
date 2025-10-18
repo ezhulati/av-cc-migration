@@ -1,7 +1,7 @@
 ---
 title: "The Grandfather's Room"
 description: "The Grandfather's Room, located in the serene Vlorë County region of Himare, offers a unique blend of comfort and scenic beauty, making it a standout choice for travelers seeking a tranquil retreat."
-featuredImage: "/images/accommodation/the-grandfather-s-room-187752679.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/187752679.jpg?k=cb55cad382a62638c5b19f7b79e9c71c1c5d55e49aeff4065be8da271808c8eb&o=&hp=1"
 language: en
 slug: the-grandfather-s-room
 address: "Old Himare, 9425 Himare, Albania"

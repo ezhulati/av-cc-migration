@@ -1,7 +1,7 @@
 ---
 title: "Fotis apartment"
 description: "Fotis Apartment emerges as a serene retreat in Dhërmi, located just a short 2."
-featuredImage: "/images/accommodation/fotis-apartment-496924775.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496924775.jpg?k=15e24a48591b6aaac2a9cd6ea2248eff6a338d928bac17927a1b8900af431631&o=&hp=1"
 language: en
 slug: fotis-apartment
 address: "Rruga Vlladas, 9422 Dhërmi, Albania"

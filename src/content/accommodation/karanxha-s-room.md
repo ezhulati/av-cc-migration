@@ -1,7 +1,7 @@
 ---
 title: "Karanxha's room"
 description: "Karanxha's Room emerges as a modern oasis in the heart of Tirana, boasting a prime location that puts it within arm's reach of the city's most iconic landmarks, including the Former Residence of Enver Hoxha, Postbllok - Checkpoint Monument, and Saint Paul Cathedral."
-featuredImage: "/images/accommodation/karanxha-s-room-496202611.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496202611.jpg?k=a94e7c702936b31cdb477d284b1babbbde602108bb2fb38d88f1a5417c8d8f53&o=&hp=1"
 language: en
 slug: karanxha-s-room
 address: "Rruga Sotir Kolea, Tirana, Albania"

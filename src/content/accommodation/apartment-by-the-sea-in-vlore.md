@@ -1,7 +1,7 @@
 ---
 title: "Apartment by the sea in Vlore"
 description: "Apartment by the Sea in Vlore stands as a prime choice for travelers seeking a serene beachfront escape."
-featuredImage: "/images/accommodation/apartment-by-the-sea-in-vlore-485191283.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485191283.jpg?k=f98442ab123f1e079706f5c22d8711af75bfdf2e4947d721fa395bde5ec17614&o=&hp=1"
 language: en
 slug: apartment-by-the-sea-in-vlore
 address: "Rruga Dhimitër Konomi 2nd floor, same building with Adea hotel, Vlorë, Albania"

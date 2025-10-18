@@ -1,7 +1,7 @@
 ---
 title: "Ailin's studio 3"
 description: "Ailin's Studio 3 emerges as a serene oasis in the heart of Sarandë, boasting a prime location that places guests a mere stone's throw away from the pristine shores of Flamingo Beach and the inviting Santa Quaranta Beach."
-featuredImage: "/images/accommodation/ailin-s-studio-3-527137754.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527137754.jpg?k=773d87feb0d0c442fe7ecd641bbbfc04a227e81b6a03a900c7a942190222ff96&o=&hp=1"
 language: en
 slug: ailin-s-studio-3
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

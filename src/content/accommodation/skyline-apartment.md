@@ -1,7 +1,7 @@
 ---
 title: "Skyline Apartment"
 description: "Skyline Apartment in Vlorë stands out as a prime choice for travelers seeking comfort and convenience, mere steps away from Ri Beach and a short stroll from Vlore Beach."
-featuredImage: "/images/accommodation/skyline-apartment-376086349.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376086349.jpg?k=17dd1021b9d1a33911914643af58579e987b6450895f16d7d2ec8d9f022166b4&o=&hp=1"
 language: en
 slug: skyline-apartment
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

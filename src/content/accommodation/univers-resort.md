@@ -1,7 +1,7 @@
 ---
 title: "Univers Resort"
 description: "Univers Resort emerges as a distinguished destination for travelers seeking a blend of comfort and convenience in Elbasan."
-featuredImage: "/images/accommodation/univers-resort-361673347.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361673347.jpg?k=486da6575475de6e7cee8dbc86d30eea64ec8f414a8b708ec8b803616d661251&o=&hp=1"
 language: en
 slug: univers-resort
 address: "L. Emin Matraxhiu, n/h/n, 0001 Elbasan, Albania"

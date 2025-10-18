@@ -1,7 +1,7 @@
 ---
 title: "Port Side Rooms"
 description: "Port Side Rooms emerges as a distinguished choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/port-side-rooms-492014153.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492014153.jpg?k=2d8e20cfeccdbca819f5343c8e10912353a7be6313c20cde581cb9bcbeb26589&o=&hp=1"
 language: en
 slug: port-side-rooms
 address: "Rruga Egnatia 161,1,4, 2001 Durrës, Albania"

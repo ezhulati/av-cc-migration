@@ -1,7 +1,7 @@
 ---
 title: "Sota Rental"
 description: "Sota Rental emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, perfectly positioned just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."
-featuredImage: "/images/accommodation/sota-rental-500446003.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500446003.jpg?k=d552b140b991cf448a05c0064656231ece6e987be3943376db82af10f3c88114&o=&hp=1"
 language: en
 slug: sota-rental
 address: "Rruga Mis Durhan, 9401 Vlorë, Albania"

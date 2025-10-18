@@ -1,7 +1,7 @@
 ---
 title: "Franci's Apartment no.3"
 description: "Franci's Apartment no."
-featuredImage: "/images/accommodation/franci-s-apartment-no-3-527580193.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527580193.jpg?k=120e22c2596f15128c88859515392c704acc986f501e424423c9a50d695e480f&o=&hp=1"
 language: en
 slug: franci-s-apartment-no-3
 address: "Rruga Myslym Shyri, Tirana, Albania"

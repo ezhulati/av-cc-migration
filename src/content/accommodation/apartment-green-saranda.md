@@ -1,7 +1,7 @@
 ---
 title: "Apartment Green Saranda"
 description: "Apartment Green Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/apartment-green-saranda-521407376.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521407376.jpg?k=3596b4670c8dab6e60043c1ece743a1ae6280b6c37f4fbe58e1b34c123bbd591&o=&hp=1"
 language: en
 slug: apartment-green-saranda
 address: "Rruga Skënderbeu 185, 9701 Sarandë, Albania"

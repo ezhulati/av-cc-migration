@@ -1,7 +1,7 @@
 ---
 title: "Elti Apartment"
 description: "Elti Apartment in Sarandë stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/elti-apartment-152866662.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152866662.jpg?k=34e966b3f1b0ce3cb1d3a4760b1e9eaf343f1fe576a52e78d65e87523235867a&o=&hp=1"
 language: en
 slug: elti-apartment
 address: "Rruga Janaq Kumi 293 SARANDE, 9700 Sarandë, Albania"

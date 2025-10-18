@@ -1,7 +1,7 @@
 ---
 title: "Girasole Home"
 description: "Girasole Home emerges as a charming retreat in the heart of Tirana, boasting a prime location that places guests within easy reach of the city's most captivating landmarks."
-featuredImage: "/images/accommodation/girasole-home-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: girasole-home
 address: "Rruga Thanas Ziko, Tirana, Albania"

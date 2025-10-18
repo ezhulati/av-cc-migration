@@ -1,7 +1,7 @@
 ---
 title: "LUXURY SEA SIDE"
 description: "LUXURY SEA SIDE emerges as a prime choice for travelers seeking a blend of comfort and convenience, coupled with breathtaking city and sea views."
-featuredImage: "/images/accommodation/luxury-sea-side-496030113.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496030113.jpg?k=2cd35ad88d047fe5ae838576b93f2429be099b2ce4f7df5d9a8b908c99dd979f&o=&hp=1"
 language: en
 slug: luxury-sea-side
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

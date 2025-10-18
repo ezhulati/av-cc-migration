@@ -1,7 +1,7 @@
 ---
 title: "Top location Kristi apartments 05"
 description: "Top Location Kristi Apartments 05 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/top-location-kristi-apartments-05-471529982.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471529982.jpg?k=6c58b8d3d63713210ce41b6d9101f4d93a67f44fa3a003abfb04e26c815a6ee9&o=&hp=1"
 language: en
 slug: top-location-kristi-apartments-05
 address: "Rruga Bardhok Biba, Hodaj Ndertim Apartment 28, 1001 Tirana, Albania"

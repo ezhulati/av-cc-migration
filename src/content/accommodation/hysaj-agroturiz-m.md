@@ -1,7 +1,7 @@
 ---
 title: "Hysaj Agroturizëm"
 description: "Hysaj Agroturizëm emerges as a serene oasis in Shkodër, offering a unique blend of natural beauty and modern comforts."
-featuredImage: "/images/accommodation/hysaj-agroturiz-m-399355130.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399355130.jpg?k=87613b2155cc747f9d83f1c8b019ceeea51bc21907ab51a6155fea2d40468a3a&o=&hp=1"
 language: en
 slug: hysaj-agroturiz-m
 address: "Balshaj, Grizhe, 4001 Shkodër, Albania"

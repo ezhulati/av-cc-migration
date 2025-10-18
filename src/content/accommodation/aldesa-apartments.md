@@ -1,7 +1,7 @@
 ---
 title: "Aldesa Apartments"
 description: "Aldesa Apartments emerges as a serene retreat, boasting an enviable location just a short distance from the pristine Golem Beach."
-featuredImage: "/images/accommodation/aldesa-apartments-512478831.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512478831.jpg?k=d26680c18e31802c8bace06ac189951bc0e22463ff8bc397fe98a9425871266d&o=&hp=1"
 language: en
 slug: aldesa-apartments
 address: "Mali i Robit 31, 2405 Golem, Albania"

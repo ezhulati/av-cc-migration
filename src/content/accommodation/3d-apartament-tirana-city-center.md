@@ -1,7 +1,7 @@
 ---
 title: "3D Apartament / Tirana City Center"
 description: "Discover the charm of Tirana with a stay at 3D Apartment, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/3d-apartament-tirana-city-center-476340083.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476340083.jpg?k=9a249613260c4dbf293fa16932ac49fbc587f81f98ff9483cf8ba43f0d665a63&o=&hp=1"
 language: en
 slug: 3d-apartament-tirana-city-center
 address: "Rruga Petro Nini Luarasi, Tirana, Albania"

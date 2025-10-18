@@ -1,7 +1,7 @@
 ---
 title: "Bral Apartment 6"
 description: "Bral Apartment 6 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/bral-apartment-6-c84a361d6701.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-k/c84a361d670170a23bc2e937798fc23520f61c43.png"
 language: en
 slug: bral-apartment-6
 address: "Rruga Agaveve, 2008 Durrës, Albania"

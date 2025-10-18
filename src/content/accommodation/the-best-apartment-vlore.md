@@ -1,7 +1,7 @@
 ---
 title: "THE BEST APARTMENT VLORE"
 description: "THE BEST APARTMENT VLORE emerges as a prime choice for travelers seeking a blend of comfort, convenience, and adventure in Vlorë."
-featuredImage: "/images/accommodation/the-best-apartment-vlore-455187536.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/455187536.jpg?k=a9f6bd4390e4bc33b84c39f68e643e1bdff0609e8f2e1882bd409cffe43712a2&o=&hp=1"
 language: en
 slug: the-best-apartment-vlore
 address: "Porti Vlore Lgj. Pavaresia, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guest House De Rada"
 description: "Guest House De Rada emerges as a serene haven in the bustling city of Tirana, offering travelers a blend of comfort and convenience."
-featuredImage: "/images/accommodation/guest-house-de-rada-467241905.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467241905.jpg?k=f4d8de32812101e2f7dc6ec5756e5bcdfb72f0136dc69841327820d4806f4dea&o=&hp=1"
 language: en
 slug: guest-house-de-rada
 address: "Rruga Mehmet Brocaj, 1001 Tirana, Albania"

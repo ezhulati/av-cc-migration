@@ -1,7 +1,7 @@
 ---
 title: "Espana aparthotel"
 description: "Espana Aparthotel emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Golem coastline, just 7 km from the bustling center of Durrës."
-featuredImage: "/images/accommodation/espana-aparthotel-94366326.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/94366326.jpg?k=f7061859c35711aed5c438a6bca3b01d38510d26d1bb85a90723d1818473d001&o=&hp=1"
 language: en
 slug: espana-aparthotel
 address: "Shkembi i Kavajes, 2001 Durrës, Albania"

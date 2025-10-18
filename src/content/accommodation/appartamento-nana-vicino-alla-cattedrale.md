@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Nana vicino alla Cattedrale"
 description: "Appartamento Nana vicino alla Cattedrale emerges as a charming choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/appartamento-nana-vicino-alla-cattedrale-426007221.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426007221.jpg?k=4642b85e5ae74048d1f7b883c8de7076b61cacb57cd6fa0ae096baae28566548&o=&hp=1"
 language: en
 slug: appartamento-nana-vicino-alla-cattedrale
 address: "Via Marin Beçikemi Nr 2, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Apostoli"
 description: "Hotel Apostoli emerges as a serene oasis in Përmet, offering guests a harmonious blend of comfort and convenience with its well-manicured garden and welcoming bar."
-featuredImage: "/images/accommodation/hotel-apostoli-452117259.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/452117259.jpg?k=7d802248c0756922727cc4b9271d080dea658423a3071c83df660eed89eb270f&o=&hp=1"
 language: en
 slug: hotel-apostoli
 address: "SH75 01, 6401 Përmet, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "House with a garden view in Durres"
 description: "Discover tranquility and comfort at the House with a Garden View in Durres, a serene retreat located just a stone's throw away from some of Albania's most iconic landmarks."
-featuredImage: "/images/accommodation/house-with-a-garden-view-in-durres-467863568.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467863568.jpg?k=418294c40cf2c699d7ccbbbcf77d7b7c210a24130d12f9b8460bad48dfcc6638&o=&hp=1"
 language: en
 slug: house-with-a-garden-view-in-durres
 address: "Gjiri Lalzit Kompleksi Lura 1, Apartment 4, 2015 Durrës, Albania"

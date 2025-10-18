@@ -1,7 +1,7 @@
 ---
 title: "Marina Appartamenti"
 description: "Marina Appartamenti emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/marina-appartamenti-470128301.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470128301.jpg?k=43504be57971e30a5127e436c04f73ff46e51c42d95ea24a04334edd89191ea1&o=&hp=1"
 language: en
 slug: marina-appartamenti
 address: "Rruga Kasao Petoshari, 9401 Vlorë, Albania"

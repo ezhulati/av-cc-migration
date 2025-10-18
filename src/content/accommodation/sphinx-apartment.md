@@ -1,7 +1,7 @@
 ---
 title: "Sphinx Apartment"
 description: "Sphinx Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Durrës, merely a stone's throw away from the pristine Currila Beach."
-featuredImage: "/images/accommodation/sphinx-apartment-404046343.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404046343.jpg?k=92268af0bf3a9d4e0b169d5515a5f221fec9089a0d0ee9f8fa2780220bd94130&o=&hp=1"
 language: en
 slug: sphinx-apartment
 address: "Rruga Taulantia 1 pallatet Maren, 2001 Durrës, Albania"

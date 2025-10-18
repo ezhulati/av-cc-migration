@@ -1,7 +1,7 @@
 ---
 title: "Apartment Rrihnaj"
 description: "Apartment Rrihnaj, located in the vibrant heart of Shëngjin and merely a stone's throw away from the pristine Ylberi Beach, stands as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/apartment-rrihnaj-491568936.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491568936.jpg?k=fcade943e89583c080f19c5eb6df04a8af7ba3a298c84b0cdacfb8bb1ef41c30&o=&hp=1"
 language: en
 slug: apartment-rrihnaj
 address: "Shëngjin - Kune, 4503 Shëngjin, Albania"

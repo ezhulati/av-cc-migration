@@ -1,7 +1,7 @@
 ---
 title: "Vila 4G"
 description: "Vila 4G emerges as a serene oasis in the bustling city of Tirana, offering guests a blend of comfort, convenience, and modern amenities."
-featuredImage: "/images/accommodation/vila-4g-478393923.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478393923.jpg?k=2690942e00a9062fa5af73a49ed7898ed4f69f18528bd2ecfc6fbee8ada8ffa1&o=&hp=1"
 language: en
 slug: vila-4g
 address: "Rrethrrotullimi Shkozes, 1005 Tirana, Albania"

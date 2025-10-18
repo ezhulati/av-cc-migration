@@ -1,7 +1,7 @@
 ---
 title: "Three doors apartments, Strawberry Studio"
 description: "Three Doors Apartments' Strawberry Studio emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/three-doors-apartments-strawberry-studio-464989774.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464989774.jpg?k=a1324b7d292285f4a5a1e7de3097759a0aeacef882a012872fea915268a5ae2d&o=&hp=1"
 language: en
 slug: three-doors-apartments-strawberry-studio
 address: "21 Rruga e Kavajës, 1001 Tirana, Albania"

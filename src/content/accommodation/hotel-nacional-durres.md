@@ -1,7 +1,7 @@
 ---
 title: "Hotel Nacional Durres"
 description: "Hotel Nacional Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just 98 meters from the pristine Shkëmbi i Kavajës Beach in Durrës."
-featuredImage: "/images/accommodation/hotel-nacional-durres-460559882.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460559882.jpg?k=34ee5fe5727e48e71ff205908e76e08d56dbd48a3d747ee9a615a0860fec64ad&o=&hp=1"
 language: en
 slug: hotel-nacional-durres
 address: "Rruga Shkembi i Kavajes, 2002 Durrës, Albania"

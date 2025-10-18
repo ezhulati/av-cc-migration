@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Relax"
 description: "Guesthouse Relax in Berat stands out for its breathtaking mountain views and serene garden surroundings, providing a perfect retreat for travelers seeking peace and comfort."
-featuredImage: "/images/accommodation/guesthouse-relax-471611992.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471611992.jpg?k=801875b8d922530b9f79193d5ec0d36ee1e02aa0b7d8c70e91ee20e9e563a9f8&o=&hp=1"
 language: en
 slug: guesthouse-relax
 address: "Rruga Santa Lucia, 5001 Berat, Albania"

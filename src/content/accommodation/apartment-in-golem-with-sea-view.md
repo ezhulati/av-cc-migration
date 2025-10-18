@@ -1,7 +1,7 @@
 ---
 title: "Apartment In Golem With Sea View"
 description: "Apartment In Golem With Sea View presents a refreshing retreat for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."
-featuredImage: "/images/accommodation/apartment-in-golem-with-sea-view-495557096.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495557096.jpg?k=e4b308818d909799924afe76c8d5fafa377815193447349c57189b773f49400a&o=&hp=1"
 language: en
 slug: apartment-in-golem-with-sea-view
 address: "Rruga Ismail Qemali, 2504 Golem, Albania"

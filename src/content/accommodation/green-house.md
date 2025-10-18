@@ -1,7 +1,7 @@
 ---
 title: "Green House"
 description: "Green House emerges as a serene retreat in the vibrant town of Himare, perfectly positioned just a stone's throw away from the pristine Livadhi Beach and a brief journey from the enchanting Akuariumit Beach."
-featuredImage: "/images/accommodation/green-house-342799738.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342799738.jpg?k=54cc65da232f936d4d09d2cb106aaedcabf3dd6c03646f20475c36d46cdbf4c1&o=&hp=1"
 language: en
 slug: green-house
 address: "Livadhe 6 rooms, 9425 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Queen’s Luxury Apartments Lake"
 description: "Queen’s Luxury Apartments Lake emerges as a prime choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/queen-s-luxury-apartments-lake-437717834.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437717834.jpg?k=e823a49d1f02036d6c11e39db8136e29c70f459fd3accff7c243ab355ce67a5a&o=&hp=1"
 language: en
 slug: queen-s-luxury-apartments-lake
 address: "Rruga Hamdi Sina, 1003 Tirana, Albania"

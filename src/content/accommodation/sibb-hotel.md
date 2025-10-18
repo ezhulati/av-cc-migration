@@ -1,7 +1,7 @@
 ---
 title: "SIBB Hotel"
 description: "SIBB Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/sibb-hotel-504125323.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504125323.jpg?k=4af0571da02bbf132a7e0d791584cff131e6f5be3f8cee9b6f3a137a3d816874&o=&hp=1"
 language: en
 slug: sibb-hotel
 address: "Rruga Ali Shefqeti Nd.11, H.1, 1005 Tirana, Albania"

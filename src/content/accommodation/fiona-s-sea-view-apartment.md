@@ -1,7 +1,7 @@
 ---
 title: "Fiona's Sea View Apartment"
 description: "Fiona's Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/fiona-s-sea-view-apartment-109271784.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109271784.jpg?k=ece41eb7745d74b312323b57c0bdfd227f95a2b45d207b5d5662d7d9259f442a&o=&hp=1"
 language: en
 slug: fiona-s-sea-view-apartment
 address: "Fafa Resort- Apartment 6, building A-2 Boulevard Pishave Mali Robit , 1400 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Numă Apartament"
 description: "Numă Apartament emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/num-apartament-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: num-apartament
 address: "Rruga Dervish Ali Dukati, 9004 Vlorë, Albania"

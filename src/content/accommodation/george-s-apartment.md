@@ -1,7 +1,7 @@
 ---
 title: "George's Apartment"
 description: "George's Apartment in Gjirokastër stands out as a serene retreat, located just a stone's throw away from the tranquil Zaravina Lake, approximately 44 km distant."
-featuredImage: "/images/accommodation/george-s-apartment-435657286.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435657286.jpg?k=eaabc9e7de4fb3558d88f745dbe1e34d8b8ff00b9baa1478415d89f969b3a05a&o=&hp=1"
 language: en
 slug: george-s-apartment
 address: "Rruga Mihal Duri, 6001 Gjirokastër, Albania"

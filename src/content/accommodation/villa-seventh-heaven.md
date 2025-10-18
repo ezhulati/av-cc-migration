@@ -1,7 +1,7 @@
 ---
 title: "Villa Seventh Heaven"
 description: "Villa Seventh Heaven, located in the vibrant heart of Sarandë and a stone's throw away from the pristine Maestral Beach, stands as a premier destination for travelers seeking beachfront accommodations with a touch of luxury."
-featuredImage: "/images/accommodation/villa-seventh-heaven-361061941.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361061941.jpg?k=078efd38e04c6fc685cbad30dd39aaf67e67a4885517d30fbed4516c09c31985&o=&hp=1"
 language: en
 slug: villa-seventh-heaven
 address: "39.8643279, 20.0209435 4, 7901 Sarandë, Albania"

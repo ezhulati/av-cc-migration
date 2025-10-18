@@ -1,7 +1,7 @@
 ---
 title: "Me Gusta Apartments"
 description: "Me Gusta Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/me-gusta-apartments-380899385.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380899385.jpg?k=7df24502e1911fa4ac56cb22851759f9d233b81b27aa9971b70ac93314664005&o=&hp=1"
 language: en
 slug: me-gusta-apartments
 address: "Rruga Qemal Stafa, 1017 Tirana, Albania"

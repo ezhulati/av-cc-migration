@@ -1,7 +1,7 @@
 ---
 title: "Duka's Hotel"
 description: "Duka's Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/duka-s-hotel-475801254.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475801254.jpg?k=33efae65d61b557c5812f7807019a026f9108dcb87bfe6a09b88ee6a26cd4b9c&o=&hp=1"
 language: en
 slug: duka-s-hotel
 address: "Rruga nacionale Sarande-Butrint Ksamil, 9706 Ksamil, Albania"

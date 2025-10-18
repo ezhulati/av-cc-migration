@@ -1,7 +1,7 @@
 ---
 title: "Center of Tirana - Apartment"
 description: "Center of Tirana - Apartment emerges as a modern haven for travelers seeking the ultimate experience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/center-of-tirana-apartment-468167020.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468167020.jpg?k=e5ecd1636919091b493827dea97ac6917e566c6a431d9012d87b9518bb08f061&o=&hp=1"
 language: en
 slug: center-of-tirana-apartment
 address: "Rruga e Dibrës, 1017 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Harmony Hotel"
 description: "Discover the charm of Harmony Hotel, a modern gem that stands out for its prime location and breathtaking views of Sarandë."
-featuredImage: "/images/accommodation/harmony-hotel-262090805.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/262090805.jpg?k=f81f8273a0eac868019f3bd3c4f36609b88c5d27c61ddd3891446dfd8d2b6445&o=&hp=1"
 language: en
 slug: harmony-hotel
 address: "Kanali i Cukes, 9703 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Giulia Albérgo Hotel"
 description: "Giulia Albérgo Hotel emerges as a distinguished 4-star haven, merely 400 meters from the pristine shores of Currila Beach in Durrës."
-featuredImage: "/images/accommodation/giulia-alb-rgo-hotel-7eb52a437de4.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"
 language: en
 slug: giulia-alb-rgo-hotel
 address: "Bulevardi Epidamn, 2000 Durrës, Albania"

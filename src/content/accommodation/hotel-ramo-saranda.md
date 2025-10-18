@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ramo Saranda"
 description: "Hotel Ramo Saranda stands out as a premier 4-star destination for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/hotel-ramo-saranda-254431573.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254431573.jpg?k=849c46c3ad580f04ee273882181a8a0494b0eff1bba084662aabda68e37546c8&o=&hp=1"
 language: en
 slug: hotel-ramo-saranda
 address: "Bulevardi Jonianet Lagjia nr2, 9701 Sarandë, Albania"

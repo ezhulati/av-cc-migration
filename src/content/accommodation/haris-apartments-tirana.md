@@ -1,7 +1,7 @@
 ---
 title: "Haris Apartments Tirana"
 description: "Haris Apartments Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/haris-apartments-tirana-289733047.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289733047.jpg?k=a8cc0b8ee22f914301d5332e5ef63b2c9bb38633c27b6163038a133c810fc390&o=&hp=1"
 language: en
 slug: haris-apartments-tirana
 address: "Ismail Qemali | Pallati Abau, Kati 4, Tirana 1001, 1218 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blerina's Agritourism Concept"
 description: "Blerina's Agritourism Concept emerges as a serene oasis in Laknas, a mere stone's throw from the bustling heart of Skanderbeg Square and the scenic adventures offered by Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/blerina-s-agritourism-concept-469656603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469656603.jpg?k=208019f7553d1fff4c1b4e4efad75ec1affb707a22ac20e6d35dec4a8c34c930&o=&hp=1"
 language: en
 slug: blerina-s-agritourism-concept
 address: "Rruga Muharrem Bajraktari, 1001 Laknas, Albania"

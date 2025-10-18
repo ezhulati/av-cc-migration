@@ -1,7 +1,7 @@
 ---
 title: "Gjirokastra Adventures Camping"
 description: "Gjirokastra Adventures Camping, located in the serene Çepunë area of Gjirokastër County, offers a unique outdoor experience with the convenience of a garden setting."
-featuredImage: "/images/accommodation/gjirokastra-adventures-camping-524023363.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524023363.jpg?k=fc7480fe70fd96acad471e83fe5b903250cc8ea6950bd6023044f53d9d9d0bac&o=&hp=1"
 language: en
 slug: gjirokastra-adventures-camping
 address: "SH4, 6001 Çepunë, Albania"

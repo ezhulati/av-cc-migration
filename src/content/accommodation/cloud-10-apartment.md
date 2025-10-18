@@ -1,7 +1,7 @@
 ---
 title: "Cloud 10 Apartment"
 description: "Cloud 10 Apartment emerges as a modern retreat in the vibrant city of Vlorë, boasting an enviable position close to the pristine shores of Vlore Beach, Ri Beach, and Vjetër Beach."
-featuredImage: "/images/accommodation/cloud-10-apartment-480019489.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480019489.jpg?k=d9d36682be8a8c590bba05bdfc3de28aad6815a03d44cc0568e965ebb9f7cd47&o=&hp=1"
 language: en
 slug: cloud-10-apartment
 address: "Rruga Reshat Osmani 10th Floor, Apartment 4, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "090 Area"
 description: "Discover the charm of 090 Area, a prime accommodation choice located in the heart of Tirana."
-featuredImage: "/images/accommodation/090-area-350896503.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350896503.jpg?k=f7959292447a641e0aa5e9f89d86e4843a8951745f63a54969466b5c430828be&o=&hp=1"
 language: en
 slug: 090-area
 address: "Rruga 5 Maji, Tirana, Albania"

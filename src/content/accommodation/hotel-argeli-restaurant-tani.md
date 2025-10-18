@@ -1,7 +1,7 @@
 ---
 title: "Hotel ARGELI ( Restaurant TANI)"
 description: "Hotel ARGELI (Restaurant TANI) emerges as a prime choice for travelers seeking a serene getaway in Orikum, positioned conveniently less than a kilometer from the pristine Orikum Beach."
-featuredImage: "/images/accommodation/hotel-argeli-restaurant-tani-456151216.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456151216.jpg?k=064ae4be9041fd80425bffcc6db62b7205dbdaac2c3aebdc8b5533f52bbb42c4&o=&hp=1"
 language: en
 slug: hotel-argeli-restaurant-tani
 address: "Ruga pashaliman Sh95, Orikum, Albania, 9426 Orikum, Albania"

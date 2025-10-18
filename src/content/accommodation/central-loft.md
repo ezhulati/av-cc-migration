@@ -1,7 +1,7 @@
 ---
 title: "Central Loft"
 description: "Central Loft emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-loft-492233075.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492233075.jpg?k=f52dd4ae44b5a731ab5005fec12c6de8e1cd35b7bd197769e0cbda9c8d71bd57&o=&hp=1"
 language: en
 slug: central-loft
 address: "Rruga 28 Nentori, n.3, 1001 Tirana, Albania"

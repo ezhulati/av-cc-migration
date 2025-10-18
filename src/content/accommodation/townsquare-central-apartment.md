@@ -1,7 +1,7 @@
 ---
 title: "TownSquare Central apartment"
 description: "TownSquare Central apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/townsquare-central-apartment-526178856.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526178856.jpg?k=997cce8fed2486fd8ce4deaae7510e8baf69808dc50c6a49acfbc08b16eda134&o=&hp=1"
 language: en
 slug: townsquare-central-apartment
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

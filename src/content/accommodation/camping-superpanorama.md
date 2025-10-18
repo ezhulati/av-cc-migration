@@ -1,7 +1,7 @@
 ---
 title: "Camping SuperPanorama"
 description: "Camping SuperPanorama stands out as a serene oasis in Kukës, offering a unique blend of natural beauty and convenience for travelers seeking an escape from the ordinary."
-featuredImage: "/images/accommodation/camping-superpanorama-480818542.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480818542.jpg?k=fda7f6bbfb61134b75e9afd7dc8247be51865a6d584a02f6be44d567c26ac0ba&o=&hp=1"
 language: en
 slug: camping-superpanorama
 address: "Bushat Sh32 Bushat, Kukës, 8501 Kukës, Albania"

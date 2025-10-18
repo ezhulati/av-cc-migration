@@ -1,7 +1,7 @@
 ---
 title: "Curoj Luxury Apartments"
 description: "Curoj Luxury Apartments emerges as a premier choice for travelers seeking a blend of comfort and convenience in Radhimë, Vlorë County."
-featuredImage: "/images/accommodation/curoj-luxury-apartments-373492015.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373492015.jpg?k=55b01a1528a0424e394484ac5dcfb293155b4265f55d0b4b83ec977b1aeb1445&o=&hp=1"
 language: en
 slug: curoj-luxury-apartments
 address: "Rruga Numan Bilani 4, 9426 Radhimë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Shtepi Pushimi"
 description: "Shtepi Pushimi emerges as a prime choice for travelers seeking a blend of comfort and convenience, located just 1 km away from the vibrant Durres Beach."
-featuredImage: "/images/accommodation/shtepi-pushimi-364463028.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364463028.jpg?k=a255c1ca4efdb3f21c06c32defb276246e2877362891f3c4aa0969fb9ad73641&o=&hp=1"
 language: en
 slug: shtepi-pushimi
 address: "Rruga Bajram Curri Plazh, perballe shkolles 'Kasa' (GPS: 41.310959, 19.497339), 1000 Durrës, Albania"

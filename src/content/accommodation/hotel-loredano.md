@@ -1,7 +1,7 @@
 ---
 title: "Hotel Loredano"
 description: "Hotel Loredano stands out as a charming destination for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/hotel-loredano-254635530.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254635530.jpg?k=75d7570b270e9158d1884339201356ae56e9ac1afdb8c1dfd4daf39cffd4bce5&o=&hp=1"
 language: en
 slug: hotel-loredano
 address: "Rruga G'juhadol, 4001 Shkodër, Albania"

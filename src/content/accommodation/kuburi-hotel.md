@@ -1,7 +1,7 @@
 ---
 title: "Kuburi Hotel"
 description: "Kuburi Hotel emerges as a standout choice for travelers seeking comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/kuburi-hotel-364285429.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364285429.jpg?k=bcf6cc0a45679cdc035e3a87711f01ec441331f6eabbb458ab054efec4f68580&o=&hp=1"
 language: en
 slug: kuburi-hotel
 address: "KSAMIL,SH81,BABA SHERIFI Number building 3, 9706 Ksamil, Albania"

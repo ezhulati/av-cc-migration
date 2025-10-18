@@ -1,7 +1,7 @@
 ---
 title: "Dina House"
 description: "Dina House emerges as a prime choice for travelers seeking air-conditioned comfort with a touch of the outdoors, located in the picturesque town of Himare."
-featuredImage: "/images/accommodation/dina-house-374810799.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374810799.jpg?k=c2d64135dd5e694ed5628f778c56aaf53ede79ff1d7a7606929127f6147da329&o=&hp=1"
 language: en
 slug: dina-house
 address: "Lagjia Stefanel , Rruga Jorgji Bollano Himare Albania, Himare, Albania"

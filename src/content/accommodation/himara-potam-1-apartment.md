@@ -1,7 +1,7 @@
 ---
 title: "Himara Potam 1 Apartment"
 description: "Himara Potam 1 Apartment emerges as a prime choice for travelers seeking a serene getaway in Himare, complete with the comfort of air-conditioned spaces and the convenience of free WiFi accessible throughout the premises."
-featuredImage: "/images/accommodation/himara-potam-1-apartment-489610103.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489610103.jpg?k=d1cdd871311bf930054bee66f285a13059efdb052877fdb4633ef2c7589560ad&o=&hp=1"
 language: en
 slug: himara-potam-1-apartment
 address: "Himare Pallati 4, kati 2, Sheshi pranë Malpro, Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Newly renovated ONE bedroom apartment in Tirana"
 description: "Newly Renovated ONE Bedroom Apartment in Tirana emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/newly-renovated-one-bedroom-apartment-in-tirana-360574594.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360574594.jpg?k=762c51bf9505dc36bd6c8c612c3be1bc1a14e19cc40c5c06e695a698904f8d8c&o=&hp=1"
 language: en
 slug: newly-renovated-one-bedroom-apartment-in-tirana
 address: "Rruga Don Bosko, Kompleksi Vizion Plus, 1001 Tirana, Albania"

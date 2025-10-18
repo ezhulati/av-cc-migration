@@ -1,7 +1,7 @@
 ---
 title: "Modern Apartament between sea and mountain"
 description: "Modern Apartment between Sea and Mountain offers a unique blend of coastal charm and serene mountain ambiance, located just 23 km from the historic Kuzum Baba and Independence Square in Tragjas."
-featuredImage: "/images/accommodation/modern-apartament-between-sea-and-mountain-204383641.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204383641.jpg?k=89330b92f2642a75ea4ef20df2851420d77213419c2a654984e3f309ae2bb4ad&o=&hp=1"
 language: en
 slug: modern-apartament-between-sea-and-mountain
 address: "Rruga Neim Dano-Tragjas, Vlore, 9403 Tragjas, Albania"

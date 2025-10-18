@@ -1,7 +1,7 @@
 ---
 title: "Hotel PRINC"
 description: "Hotel PRINC stands as a beacon of comfort and convenience in Velipojë, just a short 1."
-featuredImage: "/images/accommodation/hotel-princ-474539943.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474539943.jpg?k=8f53beb44bc7fb4bb4988f224a79c3a4c3cd3c56d3df01f84ee0326dd3587ed4&o=&hp=1"
 language: en
 slug: hotel-princ
 address: "Rruga Nr.2, 4020 Velipojë, Albania"

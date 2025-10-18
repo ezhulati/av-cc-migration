@@ -1,7 +1,7 @@
 ---
 title: "Apartment One Durres"
 description: "Apartment One Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/apartment-one-durres-522939507.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522939507.jpg?k=877bde4d194211f6c3c3424140af8c5b8764df3c4fcefcc3a353aca0fde053b2&o=&hp=1"
 language: en
 slug: apartment-one-durres
 address: "Rruga Adria, 2001 Durrës, Albania"

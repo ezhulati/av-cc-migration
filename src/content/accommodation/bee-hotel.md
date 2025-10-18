@@ -1,7 +1,7 @@
 ---
 title: "Bee Hotel"
 description: "Bee Hotel emerges as a modern oasis of comfort in the heart of Vlorë, offering guests a seamless blend of convenience and serenity."
-featuredImage: "/images/accommodation/bee-hotel-475817738.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475817738.jpg?k=85874397117ff22c0fc38694762ff56074d138e8e8c7e0c6ba1d8694c6772373&o=&hp=1"
 language: en
 slug: bee-hotel
 address: "Rruga Kastriot Gjini Nd 65, 9401 Vlorë, Albania"

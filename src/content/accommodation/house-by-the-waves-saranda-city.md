@@ -1,7 +1,7 @@
 ---
 title: "House by the waves-Saranda City"
 description: "House by the Waves-Saranda City emerges as a prime choice for travelers seeking a serene getaway in Sarandë, conveniently located less than a kilometer from Saranda City Beach and a mere stone's throw from Sarande Main Beach, just 500 meters away."
-featuredImage: "/images/accommodation/house-by-the-waves-saranda-city-490109154.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490109154.jpg?k=5631d45699e2e1e5c49359f010643d59a2c1e92a75132302691f4a418eac8531&o=&hp=1"
 language: en
 slug: house-by-the-waves-saranda-city
 address: "Rruga Ismail Qemali 1, 1001 Sarandë, Albania"

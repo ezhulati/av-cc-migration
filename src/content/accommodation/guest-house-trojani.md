@@ -1,7 +1,7 @@
 ---
 title: "Guest House Trojani"
 description: "Discover the serene beauty of Lëpushë at Guest House Trojani, a charming retreat that stands a mere 26 km away from the tranquil Plav Lake."
-featuredImage: "/images/accommodation/guest-house-trojani-450918658.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450918658.jpg?k=f7cd7836b1ad714226b19306a8a4dc0f6aa0726851613d14f4f831765aee6bdb&o=&hp=1"
 language: en
 slug: guest-house-trojani
 address: "Rruga Lepushe, 4304 Lëpushë, Albania ∙ 0.8 miles from downtown/center, 4304 Lëpushë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Moreas Apartment"
 description: "Moreas Apartment in Tirana presents a refreshing retreat for travelers seeking both tranquility and convenience."
-featuredImage: "/images/accommodation/moreas-apartment-490613952.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490613952.jpg?k=4bd9f832e4a9dda41c52a24d7b0f11103f5c5c47807a053f3a4c3e8dcdf94f00&o=&hp=1"
 language: en
 slug: moreas-apartment
 address: "Rruga Siri Kodra, Tirana, Albania"

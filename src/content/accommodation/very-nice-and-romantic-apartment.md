@@ -1,7 +1,7 @@
 ---
 title: "Very nice and romantic apartment"
 description: "Discover the charm of Pogradec with a stay at the \"Very Nice and Romantic Apartment,\" a beachfront gem that offers more than just a place to rest."
-featuredImage: "/images/accommodation/very-nice-and-romantic-apartment-476306083.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476306083.jpg?k=e79631b18491ba0ab4fbe6dd07b5897ad7a0886644e78d561ee3ab81c6f7321e&o=&hp=1"
 language: en
 slug: very-nice-and-romantic-apartment
 address: "Rruga Dëshmorët e Pojskës, Pogradec, Albania"

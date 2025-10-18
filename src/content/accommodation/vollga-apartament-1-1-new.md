@@ -1,7 +1,7 @@
 ---
 title: "Vollga apartament 1+1 new"
 description: "Discover the charm of Durrës with a stay at Vollga Apartment 1+1 New, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/vollga-apartament-1-1-new-488674258.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488674258.jpg?k=0294c79b2374ecafcca97cbeb47ee3f703c7839f411dfc477013fa644d59d949&o=&hp=1"
 language: en
 slug: vollga-apartament-1-1-new
 address: "Rruga Mbreteresha Teuta, 2001 Durrës, Albania"

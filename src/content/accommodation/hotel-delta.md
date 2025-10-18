@@ -1,7 +1,7 @@
 ---
 title: "Hotel Delta"
 description: "Hotel Delta emerges as a modern oasis of comfort and convenience, offering guests a serene garden setting complete with a cozy lounge area."
-featuredImage: "/images/accommodation/hotel-delta-90607494.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90607494.jpg?k=1b52374d80245cf71278d35a8d39cf2302ecb6718d9c56590c37853e3c6a4251&o=&hp=1"
 language: en
 slug: hotel-delta
 address: "Autostrada Durrës-Tiranë KM5. Durrës, 1005 Durrës, Albania"

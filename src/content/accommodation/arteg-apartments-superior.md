@@ -1,7 +1,7 @@
 ---
 title: "Arteg Apartments - Superior"
 description: "Arteg Apartments - Superior emerges as a recently renovated gem located in the heart of Durrës, a stone's throw away from the pristine shores of Shkëmbi i Kavajës Beach, Durres Beach, and the iconic Rock of Kavaje."
-featuredImage: "/images/accommodation/arteg-apartments-superior-363273830.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363273830.jpg?k=da99f0480aa25894bfb7afe22136383e0fe0da37afab261ab485a894c2a7ea38&o=&hp=1"
 language: en
 slug: arteg-apartments-superior
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

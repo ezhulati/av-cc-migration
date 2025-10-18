@@ -1,7 +1,7 @@
 ---
 title: "New Baazar Oasis"
 description: "New Baazar Oasis stands out as a modern gem in the heart of Tirana, offering a refreshing retreat for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/new-baazar-oasis-490837863.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490837863.jpg?k=84165c7f15ba436106c94805fd7f6b884fd53522e168cc01c453f39b7d45b349&o=&hp=1"
 language: en
 slug: new-baazar-oasis
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

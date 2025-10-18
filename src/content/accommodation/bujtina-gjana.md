@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Gjana"
 description: "Bujtina Gjana emerges as a charming retreat in Kukës, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/bujtina-gjana-454820917.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454820917.jpg?k=586db5c18cbf3ba088652e61d347001f35f10610a30db37720594330b54daec7&o=&hp=1"
 language: en
 slug: bujtina-gjana
 address: "Rruga Kukes-Peshkopi KM 22 Ujmisht, 8501 Kukës, Albania"

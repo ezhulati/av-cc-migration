@@ -1,7 +1,7 @@
 ---
 title: "Appartamento Relax kati i 8 ,Vicino A 3 Corner Bar"
 description: "Appartamento Relax kati i 8, Vicino A 3 Corner Bar stands out as a prime choice for travelers seeking comfort and convenience in Shkodër, located just 48 km from the Port of Bar."
-featuredImage: "/images/accommodation/appartamento-relax-kati-i-8-vicino-a-3-corner-bar-491117566.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491117566.jpg?k=c6d00380241fdcf2620a8fc9fc1076da6a4a2aa4ea0071bebc78c00c5e41875c&o=&hp=1"
 language: en
 slug: appartamento-relax-kati-i-8-vicino-a-3-corner-bar
 address: "Parruce shkoder zogu i pare, Shkodër, Albania"

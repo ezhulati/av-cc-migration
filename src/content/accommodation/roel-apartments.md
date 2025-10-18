@@ -1,7 +1,7 @@
 ---
 title: "Roel Apartments"
 description: "Roel Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/roel-apartments-450654899.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450654899.jpg?k=5fc2f48d2e77fd9da31cd463b9d0867cf0db88a481f8a52308c9f304e430e78e&o=&hp=1"
 language: en
 slug: roel-apartments
 address: "9701 Rruga Adem Sheme, 9701 Sarandë, Albania"

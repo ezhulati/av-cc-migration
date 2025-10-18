@@ -1,7 +1,7 @@
 ---
 title: "Hotel Agimi"
 description: "Hotel Agimi stands out as a prime choice for travelers seeking both comfort and convenience in the heart of Sarande."
-featuredImage: "/images/accommodation/hotel-agimi-203946095.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203946095.jpg?k=1fe35e023639206a839115b957e1504c1fc9125c0368167efccd775b377c89e8&o=&hp=1"
 language: en
 slug: hotel-agimi
 address: "Butrinti Road, Lagjia 1, 9703 Sarandë, Albania"

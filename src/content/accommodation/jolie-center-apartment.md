@@ -1,7 +1,7 @@
 ---
 title: "Jolie Center Apartment"
 description: "Jolie Center Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/jolie-center-apartment-486588858.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486588858.jpg?k=38a1de126a520e5c2f425d437a5e347670fdb46eb3ed263903ddb4ea5796d79e&o=&hp=1"
 language: en
 slug: jolie-center-apartment
 address: "Rruga Reshit Çollaku, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Chris"
 description: "Hotel Chris emerges as a charming retreat for travelers seeking both comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/hotel-chris-108599839.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108599839.jpg?k=03e6d8771f26e8ab95b9e3feaca0af057f1429070c046c920f2817df048c57a6&o=&hp=1"
 language: en
 slug: hotel-chris
 address: "Rruga Butrinti, 9706 Ksamil, Albania"

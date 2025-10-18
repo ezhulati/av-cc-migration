@@ -1,7 +1,7 @@
 ---
 title: "Tirana Central Apartment"
 description: "Tirana Central Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-central-apartment-481010639.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481010639.jpg?k=c2d4356243a4bf63ed6b84b74807201de3cb3c2e2fe29aa05d3f2f9ce0f5828f&o=&hp=1"
 language: en
 slug: tirana-central-apartment
 address: "Rruga Islam Alla 1st Floor Ap No 6, 1001 Tirana, Albania"

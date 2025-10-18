@@ -1,7 +1,7 @@
 ---
 title: "Kuri Apartment"
 description: "Kuri Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short 450-meter stroll from the pristine beach."
-featuredImage: "/images/accommodation/kuri-apartment-118341323.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118341323.jpg?k=461ea92f1a565cef4c4e16fe70c246478d63174162914aad5aa4f4d463fd0486&o=&hp=1"
 language: en
 slug: kuri-apartment
 address: "Road \"Skenderbeu 3 &Gjergj Araniti 3\" 9701 Saranda, 9701 Sarandë, Albania"

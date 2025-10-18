@@ -1,7 +1,7 @@
 ---
 title: "Rudi Xh apartamant"
 description: "Rudi Xh Apartment emerges as a serene retreat in Orikum, offering guests a unique blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/rudi-xh-apartamant-507920104.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507920104.jpg?k=d9becfeae7143efdd6111fbe545280be46cc8a69dfacab1589c30a93e297941d&o=&hp=1"
 language: en
 slug: rudi-xh-apartamant
 address: "Rruga martiret e dukatit, Orikum, Albania"

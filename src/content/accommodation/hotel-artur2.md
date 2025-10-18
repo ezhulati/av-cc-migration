@@ -1,7 +1,7 @@
 ---
 title: "Hotel Artur2"
 description: "Hotel Artur2 emerges as a charming retreat in the heart of Ksamil, a stone's throw away from the pristine Ksamil Beach and a leisurely stroll from the vibrant Coco Beach."
-featuredImage: "/images/accommodation/hotel-artur2-303027630.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303027630.jpg?k=d51b6282326347055e964aca712ae7d2bf4d11a00d601826a2d1f5bab7ddde69&o=&hp=1"
 language: en
 slug: hotel-artur2
 address: "Rruga e Butrintit, 9999 Ksamil, Albania"

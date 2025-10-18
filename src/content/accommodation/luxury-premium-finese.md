@@ -1,7 +1,7 @@
 ---
 title: "Luxury Premium Finese"
 description: "Luxury Premium Finese stands as a beacon of opulence in Golem, merely a stone's throw away from the serene Golem Beach."
-featuredImage: "/images/accommodation/luxury-premium-finese-473555312.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473555312.jpg?k=4ae7b9bfc33656b4c9f4f7458bf3da4b3ca9f92a7d7a0f7a20b5632c5eec36e9&o=&hp=1"
 language: en
 slug: luxury-premium-finese
 address: "golem long beach, 2504 Golem, Albania"

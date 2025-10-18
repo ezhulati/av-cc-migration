@@ -1,7 +1,7 @@
 ---
 title: "Indrit’s apt"
 description: "Indrit's Apartment emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, merely a stone's throw away from the pristine Vlore Beach and within a short stroll from the vibrant Ri Beach."
-featuredImage: "/images/accommodation/indrit-s-apt-477240022.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477240022.jpg?k=b5a831a321f9f3a61d838950a508cc1beeb440e5b577818bac65f3534221abb3&o=&hp=1"
 language: en
 slug: indrit-s-apt
 address: "Rruga Murat Tërbaçi, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Mercure Apartments"
 description: "Mercure Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "/images/accommodation/mercure-apartments-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: mercure-apartments
 address: "Rruga Toefik Skilja, 0001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "CASA DORIAN, RedDoor Studio in the heart of BLLOKU"
 description: "CASA DORIAN, RedDoor Studio emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana's vibrant BLLOKU area."
-featuredImage: "/images/accommodation/casa-dorian-reddoor-studio-in-the-heart-of-blloku-411489324.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411489324.jpg?k=0741a33d03a4b7a3a6baf9aafde434f854ff0ee57753e86ed4fe866849787e28&o=&hp=1"
 language: en
 slug: casa-dorian-reddoor-studio-in-the-heart-of-blloku
 address: "Rruga Sami Frashëri, 1019 Tirana, Albania"

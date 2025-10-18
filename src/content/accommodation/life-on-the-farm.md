@@ -1,7 +1,7 @@
 ---
 title: "Life on the farm"
 description: "Life on the Farm emerges as a serene retreat in the heart of Nepravishtë, situated within the picturesque Gjirokastër County region, merely 32 km away from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/life-on-the-farm-476040525.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476040525.jpg?k=a52b26fb0a982c61b6781b87b834772f5694fb0a32e2d476245ac73b290c329b&o=&hp=1"
 language: en
 slug: life-on-the-farm
 address: "39.98477,20.264287 Lagjia e fushes, Nepravishte, 6001 Nepravishtë, Albania"

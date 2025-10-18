@@ -1,7 +1,7 @@
 ---
 title: "The Loft - in the centre of Blloku"
 description: "The Loft, strategically positioned in the heart of Blloku, Tirana, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/the-loft-in-the-centre-of-blloku-496120838.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496120838.jpg?k=7f9f9b34ea5a7b367486611f522bb4de76b27a342409f443d90d4cc0a0ee814a&o=&hp=1"
 language: en
 slug: the-loft-in-the-centre-of-blloku
 address: "Bulevardi Bajram Curri Nd. Agimi, Nr.1, Ap.11, 1001 Tirana, Albania"

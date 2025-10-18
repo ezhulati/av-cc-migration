@@ -1,7 +1,7 @@
 ---
 title: "Comfortable Small Apartment."
 description: "Comfortable Small Apartment in Sarandë stands out as a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/comfortable-small-apartment-479636376.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479636376.jpg?k=1a6b8544d19b59025c70b8d91d4b660eb7f87b9a92b13c95b8ae11bc0709037f&o=&hp=1"
 language: en
 slug: comfortable-small-apartment
 address: "Rruga Themistokli Bahima 37, 9701 Sarandë, Albania"

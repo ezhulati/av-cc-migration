@@ -1,7 +1,7 @@
 ---
 title: "Cloud8 Apt with Castle View, 7km from the Beach"
 description: "Cloud8 Apt with Castle View, located a mere 37 km from the historic Rozafa Castle Shkodra and 39 km from the serene Lake Skadar, presents a perfect blend of comfort and convenience for travelers seeking an exceptional stay in Lezhë."
-featuredImage: "/images/accommodation/cloud8-apt-with-castle-view-7km-from-the-beach-449545230.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/449545230.jpg?k=bff15c5edbe7ba15eff8267aab629132bd96615a88d58d91eaae8d7c0ba37ce1&o=&hp=1"
 language: en
 slug: cloud8-apt-with-castle-view-7km-from-the-beach
 address: "https://maps.app.goo.gl/KKW2fVLkUobnAzrKA?g_st=ic, Lezhë, Albania"

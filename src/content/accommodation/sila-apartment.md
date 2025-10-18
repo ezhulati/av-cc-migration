@@ -1,7 +1,7 @@
 ---
 title: "Sila apartment"
 description: "Sila Apartment emerges as a prime beachfront gem in Sarandë, boasting an enviable position mere steps from Sarande Main Beach and just over a kilometer from Saranda City Beach."
-featuredImage: "/images/accommodation/sila-apartment-497004310.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497004310.jpg?k=de45ee0b2a1cf9eb6afe0d23b734a08c93c085b52f08a6f14ae0d0b2d56b0d2f&o=&hp=1"
 language: en
 slug: sila-apartment
 address: "Rruga Mitat Hoxha, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pelikan"
 description: "Hotel Pelikan, located in Divjakë and a mere 50 km from the iconic Rock of Kavaje, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/hotel-pelikan-465684866.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465684866.jpg?k=51f33b172a73ba85717d468547813dba83a82e3085ded3880636d2c5d87f3fc8&o=&hp=1"
 language: en
 slug: hotel-pelikan
 address: "Divjake qender plazh 1, 9022 Divjakë, Albania"

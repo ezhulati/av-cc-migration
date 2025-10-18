@@ -1,7 +1,7 @@
 ---
 title: "Cheap and Cozy Apartments for rent in Durres 100m by the beach"
 description: "Discover the charm of Durrës with a stay at Cheap and Cozy Apartments, a prime choice for travelers seeking comfort and convenience just a stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/cheap-and-cozy-apartments-for-rent-in-durres-100m-by-the-beach-478597458.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478597458.jpg?k=5bae891bafaea74dbe8e90a2ad12f1208bd3e145fa6bcd66f3a9cb3aa9b06837&o=&hp=1"
 language: en
 slug: cheap-and-cozy-apartments-for-rent-in-durres-100m-by-the-beach
 address: "Lagjia 13 5°, 2001 Durrës, Albania"

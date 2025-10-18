@@ -1,7 +1,7 @@
 ---
 title: "Klajdi Resort & SPA"
 description: "Klajdi Resort & SPA emerges as a modern oasis in Durrës, offering guests an exclusive slice of paradise with its private beach area and a plethora of amenities designed for comfort and relaxation."
-featuredImage: "/images/accommodation/klajdi-resort-spa-260312288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/260312288.jpg?k=5508991667766012377f3958ba0b0f897656f07ba2d4fde1532c80c9f741152c&o=&hp=1"
 language: en
 slug: klajdi-resort-spa
 address: "Mali i Robit, Golem, 2001 Golem, Albania"

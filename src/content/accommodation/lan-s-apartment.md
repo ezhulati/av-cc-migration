@@ -1,7 +1,7 @@
 ---
 title: "LAN'S Apartment"
 description: "LAN'S Apartment in Sarandë presents a refreshing retreat for travelers seeking both mountain and sea views, complemented by the convenience of modern amenities."
-featuredImage: "/images/accommodation/lan-s-apartment-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: lan-s-apartment
 address: "Rruga Janaq Kumi 3rd floor, 9701 Sarandë, Albania"

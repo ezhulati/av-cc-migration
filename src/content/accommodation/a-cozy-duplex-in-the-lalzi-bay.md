@@ -1,7 +1,7 @@
 ---
 title: "A cozy duplex in the Lalzi Bay"
 description: "Discover the charm of Durrës at \"A Cozy Duplex in the Lalzi Bay,\" a serene retreat located just 300 meters from the pristine shores of Lalëz Bay Beach and a scenic drive from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/a-cozy-duplex-in-the-lalzi-bay-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: a-cozy-duplex-in-the-lalzi-bay
 address: "\"Lura 1\" Resort, Lalëzi Bay Villa nr. F13, 2000 Durrës, Albania"

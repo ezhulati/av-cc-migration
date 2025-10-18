@@ -1,7 +1,7 @@
 ---
 title: "Olja Sea View Apartment"
 description: "Olja Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/olja-sea-view-apartment-371034994.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371034994.jpg?k=ef352e8a5f6e29307c8b14e0837c25209d7670bdbb6f4521f2818bca862539be&o=&hp=1"
 language: en
 slug: olja-sea-view-apartment
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

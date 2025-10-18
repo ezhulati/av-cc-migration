@@ -1,7 +1,7 @@
 ---
 title: "Open Doors Bed & Breakfast"
 description: "Open Doors Bed & Breakfast emerges as a serene oasis in Shkodër, located a mere 49 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/open-doors-bed-breakfast-141216039.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141216039.jpg?k=5a06b808d87933e869afa07eb6eedfdc198ab3e59db5116ba9df04292f7918da&o=&hp=1"
 language: en
 slug: open-doors-bed-breakfast
 address: "Bulevardi Bujar Bishanaku- Rr. Smakej, 4001 Shkodër, Albania"

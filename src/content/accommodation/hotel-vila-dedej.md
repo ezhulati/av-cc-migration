@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Dedej"
 description: "Hotel Vila Dedej emerges as a charming retreat just a stone's throw away from the vibrant Durres Beach, offering a serene escape with the convenience of modern amenities and the warmth of traditional hospitality."
-featuredImage: "/images/accommodation/hotel-vila-dedej-499132101.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499132101.jpg?k=d2d0c3d3fe9ebe7f7fad34570752e8a0db81d324c7db016537b84bbea67bce7f&o=&hp=1"
 language: en
 slug: hotel-vila-dedej
 address: "Rruga David Selenica, 2000 Durrës, Albania"

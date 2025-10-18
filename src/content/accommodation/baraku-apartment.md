@@ -1,7 +1,7 @@
 ---
 title: "Baraku Apartment"
 description: "Baraku Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/baraku-apartment-379136273.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379136273.jpg?k=ad5bac8aa1bac0b3bb267e06a4405c155a2812c27349fadd5c62f9a6053086ad&o=&hp=1"
 language: en
 slug: baraku-apartment
 address: "Rruga Teki Haderi, 9701 Sarandë, Albania"

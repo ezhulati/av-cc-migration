@@ -1,7 +1,7 @@
 ---
 title: "The Gwen"
 description: "Located just a stone's throw away from the vibrant Saranda City Beach, The Gwen emerges as a freshly renovated gem in the heart of Sarandë."
-featuredImage: "/images/accommodation/the-gwen-375616056.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375616056.jpg?k=9b7f3821b892140d71357f9d386e74a8bc09a502a8f5cd6ae63c7dd320505cdf&o=&hp=1"
 language: en
 slug: the-gwen
 address: "Rruga Teuta.Lagja nr3 Sarande 19/302, 9701 Sarandë, Albania"

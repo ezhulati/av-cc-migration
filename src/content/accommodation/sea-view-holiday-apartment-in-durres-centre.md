@@ -1,7 +1,7 @@
 ---
 title: "Sea View Holiday Apartment in Durres Centre"
 description: "Sea View Holiday Apartment in Durres Centre emerges as a prime choice for travelers seeking a blend of comfort and convenience, coupled with stunning views."
-featuredImage: "/images/accommodation/sea-view-holiday-apartment-in-durres-centre-464462270.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464462270.jpg?k=e4c05b16758b5bfbef84acc2759956d884bfbdf5b8474033780e494c633c8dca&o=&hp=1"
 language: en
 slug: sea-view-holiday-apartment-in-durres-centre
 address: "Rruga Taulantia, 2001 Durrës, Albania"

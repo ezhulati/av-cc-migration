@@ -1,7 +1,7 @@
 ---
 title: "2+1 Apartment - Tirana City Center"
 description: "2+1 Apartment - Tirana City Center emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "/images/accommodation/2-1-apartment-tirana-city-center-497232610.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497232610.jpg?k=5e045a96e8a5a52c02a42df684a84ffd08860dfa205f198843853e752c447a99&o=&hp=1"
 language: en
 slug: 2-1-apartment-tirana-city-center
 address: "Rruga Dervish Hatixhe, Mozart Residence 4th floor, 1016 Tirana, Albania"

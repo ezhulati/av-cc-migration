@@ -1,7 +1,7 @@
 ---
 title: "Almar House"
 description: "Almar House stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/almar-house-497456048.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497456048.jpg?k=1c0ef75762623568b1dcb8389d04372bad465284875f8cfa4fc2b20131fb1e05&o=&hp=1"
 language: en
 slug: almar-house
 address: "Lagja \"10 Korriku \",Rruga Shaban Demiraj, Kati 4, Vlore, Albania, 9405 Vlorë, Albania"

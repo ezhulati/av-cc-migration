@@ -1,7 +1,7 @@
 ---
 title: "City Center 13 - Tirana Way Apartments"
 description: "City Center 13 - Tirana Way Apartments emerges as a prime choice for travelers seeking the heart of Tirana's vibrant life, situated merely 500 meters from the iconic Skanderbeg Square and within a short distance of 5."
-featuredImage: "/images/accommodation/city-center-13-tirana-way-apartments-438223544.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438223544.jpg?k=2ae8543a199a7a97c620390dce2550601e5a80de07384d002f3074571610077d&o=&hp=1"
 language: en
 slug: city-center-13-tirana-way-apartments
 address: "Rruga Bardhok Biba, 1057 Tirana, Albania"

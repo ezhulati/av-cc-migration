@@ -1,7 +1,7 @@
 ---
 title: "Christi's Hotel Borova"
 description: "Christi's Hotel Borova, situated a mere 44 km from the serene Ohrid Lake Springs, stands as a beacon of comfort and luxury in Korçë, offering guests a 4-star experience that goes beyond the ordinary."
-featuredImage: "/images/accommodation/christi-s-hotel-borova-274553895.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274553895.jpg?k=a42070db63e4d7941e4141ff93db673f8968b7a960b6e9479edc2190699ac612&o=&hp=1"
 language: en
 slug: christi-s-hotel-borova
 address: "Rruga 6 Deshmoret, 7001 Korçë, Albania"

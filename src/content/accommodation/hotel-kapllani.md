@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kapllani"
 description: "Hotel Kapllani emerges as a distinguished choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "/images/accommodation/hotel-kapllani-490269753.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490269753.jpg?k=68811d2a7064dad4285094c797e35477a59daf8dc7ff38501692319e2d9992a9&o=&hp=1"
 language: en
 slug: hotel-kapllani
 address: "Rruga Stiliano Bandilli, 5001 Berat, Albania"

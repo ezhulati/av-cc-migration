@@ -1,7 +1,7 @@
 ---
 title: "Villa Aleandro"
 description: "Villa Aleandro emerges as a premier choice for travelers seeking a luxurious stay in Ksamil, offering an exceptional blend of comfort and convenience with its air-conditioned accommodations that boast a private pool and stunning pool views complemented by a spacious patio."
-featuredImage: "/images/accommodation/villa-aleandro-102257509.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102257509.jpg?k=01b4648692edfb3a05f9e630f484efab062908fcaecc259055658c2d17884be7&o=&hp=1"
 language: en
 slug: villa-aleandro
 address: "Rruga Butrinti SH81, Ksamil, 9999 Ksamil, Albania"

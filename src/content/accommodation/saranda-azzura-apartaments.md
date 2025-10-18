@@ -1,7 +1,7 @@
 ---
 title: "Saranda azzura apartaments"
 description: "Saranda Azzura Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-azzura-apartaments-451074581.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451074581.jpg?k=db36a05d7226143b5d27fc6de217d665e37ebee265fd5389e8968e8e2a91f0e8&o=&hp=1"
 language: en
 slug: saranda-azzura-apartaments
 address: "Rruga Butrinti 1+1, 9701 Sarandë, Albania"

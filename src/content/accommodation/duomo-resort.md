@@ -1,7 +1,7 @@
 ---
 title: "Duomo Resort"
 description: "Duomo Resort, located in the vibrant city of Shkodër and a mere 50 km from the Port of Bar, stands out as a premier destination for travelers seeking both relaxation and adventure."
-featuredImage: "/images/accommodation/duomo-resort-501523030.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501523030.jpg?k=b12499971dcb88eaaa96f2dc40b41460d58d2af280e9ac5506591f738417d889&o=&hp=1"
 language: en
 slug: duomo-resort
 address: "Rruga Shirokes, 4001 Shkodër, Albania"

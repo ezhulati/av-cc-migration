@@ -1,7 +1,7 @@
 ---
 title: "Sheshi Willson Great Studio 2"
 description: "Sheshi Willson Great Studio 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sheshi-willson-great-studio-2-497964894.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497964894.jpg?k=c4bcb6dcb4da40af210f2e40347c9d07b2e1f5246386254d2acdd1cc6d844132&o=&hp=1"
 language: en
 slug: sheshi-willson-great-studio-2
 address: "20 Rruga Abdyl Frashëri, 1001 Tirana, Albania"

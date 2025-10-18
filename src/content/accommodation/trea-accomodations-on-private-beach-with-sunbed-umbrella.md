@@ -1,7 +1,7 @@
 ---
 title: "TreA Accomodations - On Private Beach with sunbed & umbrella"
 description: "TreA Accommodations - On Private Beach with sunbed & umbrella emerges as a prime choice for travelers seeking a serene beachfront experience in Vlorë, just a stone's throw away from Vjetër Beach and a brief journey from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/trea-accomodations-on-private-beach-with-sunbed-umbrella-444073351.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444073351.jpg?k=65fec0e9b6d1d151be3935d13956a3a8296b5166a3f3467cafda610501186ba6&o=&hp=1"
 language: en
 slug: trea-accomodations-on-private-beach-with-sunbed-umbrella
 address: "Rruga Sazani 3 floor, 9401 Vlorë, Albania"

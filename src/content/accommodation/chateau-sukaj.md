@@ -1,7 +1,7 @@
 ---
 title: "Chateau Sukaj"
 description: "Chateau Sukaj emerges as a premier choice for travelers seeking an exceptional stay in Laknas, located just 10 km from the vibrant Skanderbeg Square and a short distance from the scenic Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/chateau-sukaj-AAcHTtf8HdwR.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtf8HdwRmSXEd4Nlvj75lgOJwTbTeAgWgF55R_FA9527Dg=s96-c64"
 language: en
 slug: chateau-sukaj
 address: "Rruga Lunxheri, 1001 Laknas, Albania"

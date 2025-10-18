@@ -1,7 +1,7 @@
 ---
 title: "Villa Family Garden"
 description: "Villa Family Garden emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/villa-family-garden-8ecb6dbf787b.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
 language: en
 slug: villa-family-garden
 address: "Rruga Alida Hisku Rruga Butrinti, 9706 Ksamil, Albania"

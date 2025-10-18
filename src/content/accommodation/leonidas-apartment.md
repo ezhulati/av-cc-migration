@@ -1,7 +1,7 @@
 ---
 title: "Leonidas Apartment"
 description: "Leonidas Apartment, located in the heart of Berat, stands out for its convenience and comfort, offering guests a serene stay with the added benefits of complimentary private parking and WiFi."
-featuredImage: "/images/accommodation/leonidas-apartment-509619160.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509619160.jpg?k=18eb9e5aa7ee36944622b56090ca3080e0ed32d7f260bd50afc732ba3081f52d&o=&hp=1"
 language: en
 slug: leonidas-apartment
 address: "Lagjia Partizani 1, Berat, Albania"

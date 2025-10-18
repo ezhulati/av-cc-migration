@@ -1,7 +1,7 @@
 ---
 title: "Central Haven: AH Cozy Retreat"
 description: "Central Haven: AH Cozy Retreat stands out as a serene oasis in Shkodër, a mere stone's throw away from the bustling Port of Bar, located within a 50 km radius."
-featuredImage: "/images/accommodation/central-haven-ah-cozy-retreat-492982168.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492982168.jpg?k=87abaeca6c6c4745e81036559924c4c9e2ecff81a192c214947313511aeb368f&o=&hp=1"
 language: en
 slug: central-haven-ah-cozy-retreat
 address: "Rruga Shtjefen Gjecovi, 4001 Shkodër, Albania"

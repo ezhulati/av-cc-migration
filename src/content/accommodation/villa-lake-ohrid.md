@@ -1,7 +1,7 @@
 ---
 title: "Villa lake ohrid"
 description: "Villa Lake Ohrid emerges as a serene retreat in Pogradec, strategically positioned within reach of the region's most captivating landmarks."
-featuredImage: "/images/accommodation/villa-lake-ohrid-518793977.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518793977.jpg?k=b618f0da43ae45abbbd82d4c3be79c11013197851a0de349c94fd3d8db0da3b1&o=&hp=1"
 language: en
 slug: villa-lake-ohrid
 address: "Rruga Unaza, Pogradec, Albania"

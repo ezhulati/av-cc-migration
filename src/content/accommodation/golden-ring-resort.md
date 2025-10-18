@@ -1,7 +1,7 @@
 ---
 title: "Golden Ring Resort"
 description: "Golden Ring Resort emerges as a distinguished choice for travelers seeking both relaxation and convenience in Tirana."
-featuredImage: "/images/accommodation/golden-ring-resort-363994398.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363994398.jpg?k=1d8297581481566772a60784999e799fa95e1965d956c007784a45927996a7e4&o=&hp=1"
 language: en
 slug: golden-ring-resort
 address: "Rruga e Elbasanit, 1001 Tirana, Albania"

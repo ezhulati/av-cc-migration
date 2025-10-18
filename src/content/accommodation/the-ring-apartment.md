@@ -1,7 +1,7 @@
 ---
 title: "The Ring Apartment"
 description: "The Ring Apartment, strategically positioned in the vibrant heart of Tirana, offers an exceptional stay just a short distance from the city's iconic Skanderbeg Square and the breathtaking views accessible via the Dajti Ekspres Cable Car."
-featuredImage: "/images/accommodation/the-ring-apartment-481691308.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481691308.jpg?k=8d6698669a878fb57199eaed8ec92b0e1f309dfe224bf78d6ce45dd6768530f4&o=&hp=1"
 language: en
 slug: the-ring-apartment
 address: "Rruga Ferit Xhajko 6, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "BEACHSITE"
 description: "BEACHSITE emerges as a prime beachfront gem in Vlorë, positioned just moments away from the serene Vjetër Beach and a short distance from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/beachsite-366491932.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366491932.jpg?k=1d4b83e6566712384b06f755b26aeb88e5c606ae9b179395c04c2662e1aff19c&o=&hp=1"
 language: en
 slug: beachsite
 address: "Rr. Sazani, 1001 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sofo Hotel Dhermi"
 description: "Sofo Hotel Dhermi emerges as a prime choice for travelers seeking comfort and convenience in the heart of Dhërmi, merely a stone's throw away from the pristine Dhermi Beach."
-featuredImage: "/images/accommodation/sofo-hotel-dhermi-161547119.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161547119.jpg?k=d35facb3285804b23273cdf07c4bc7a61c5d5fbc1d2e856c9c7cf705a1c470fb&o=&hp=1"
 language: en
 slug: sofo-hotel-dhermi
 address: "\"Megali Hora\" nr 25, Kampi i Vjeter, 9422 Dhërmi, Albania"

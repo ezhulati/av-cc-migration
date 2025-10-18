@@ -1,7 +1,7 @@
 ---
 title: "Stone City Hostel"
 description: "Stone City Hostel emerges as a charming retreat in the heart of Gjirokastër, offering a unique blend of communal ambiance and private comfort."
-featuredImage: "/images/accommodation/stone-city-hostel-143687610.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143687610.jpg?k=e2c9f61d0c8455503f1e3dfa84aa84082e6339620b310de95592835444b29327&o=&hp=1"
 language: en
 slug: stone-city-hostel
 address: "Rruga Alqi Kondi, Pazar, 1000 Gjirokastër, Albania"

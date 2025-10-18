@@ -1,7 +1,7 @@
 ---
 title: "zvernec"
 description: "Zvernec presents an inviting retreat for travelers seeking the perfect blend of comfort and convenience in Vlorë, just a stone's throw away from the serene Vjetër Beach and a short drive from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/zvernec-465726466.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465726466.jpg?k=898bc982070d347a940018df4fee57722d943d161e8d72dddccfe66183ac2340&o=&hp=1"
 language: en
 slug: zvernec
 address: "Rr. Sazani, 9404 Vlorë, Albania"

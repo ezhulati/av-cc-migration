@@ -1,7 +1,7 @@
 ---
 title: "Herges Hotel"
 description: "Herges Hotel, located a mere 1."
-featuredImage: "/images/accommodation/herges-hotel-67300335.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67300335.jpg?k=b887a62e2945ab8005da0872c6a1992cc87faee1772522dc217eab54d05c3e67&o=&hp=1"
 language: en
 slug: herges-hotel
 address: "Rruga Lazer Murati, 2001 Durrës, Albania"

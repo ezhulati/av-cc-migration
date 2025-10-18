@@ -1,7 +1,7 @@
 ---
 title: "Bllok Scandi Apartments 1"
 description: "Bllok Scandi Apartments 1 emerges as a modern retreat in the heart of Tirana, boasting a prime location close to iconic landmarks such as the Former Residence of Enver Hoxha, Postbllok - Checkpoint Monument, and the Pyramid of Tirana."
-featuredImage: "/images/accommodation/bllok-scandi-apartments-1-520201197.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520201197.jpg?k=8c26f4162cdb973ed22771b2e82e6ae750fa6d0f527345ea3df626b916fc7457&o=&hp=1"
 language: en
 slug: bllok-scandi-apartments-1
 address: "Rruga Gjik Kuqali Apartament 1, building 7, floor 0, 1019 Tirana, Albania"

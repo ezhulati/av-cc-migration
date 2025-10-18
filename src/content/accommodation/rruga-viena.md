@@ -1,7 +1,7 @@
 ---
 title: "Rruga Viena"
 description: "Rruga Viena emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned just a short stroll from the pristine Golem Beach and within easy reach of Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/rruga-viena-491005903.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491005903.jpg?k=9803b7973e97582eda29665a92af2a3997762fbbac81038549e36d33d8d133c5&o=&hp=1"
 language: en
 slug: rruga-viena
 address: "Rruga Viena, Golem, Albania"

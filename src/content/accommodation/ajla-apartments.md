@@ -1,7 +1,7 @@
 ---
 title: "Ajla Apartments"
 description: "Ajla Apartments emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, positioned just a short stroll from the pristine shores of Lori Beach and Ksamil Beach 9."
-featuredImage: "/images/accommodation/ajla-apartments-478494904.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478494904.jpg?k=be6945dba8e1e87559183332d36471a13a29be259e3a91bcddc636556e68dc3c&o=&hp=1"
 language: en
 slug: ajla-apartments
 address: "Rruga Magdalen Ksamil, Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament Paradise"
 description: "Discover the charm of Sarandë with a stay at Apartament Paradise, a recently renovated gem that boasts an enviable location close to Mango Beach, Flamingo Beach, and VIP Beach."
-featuredImage: "/images/accommodation/apartament-paradise-364921036.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364921036.jpg?k=44fdd0f45ad12a591128a02f58dcdd654e1d953ef4e164540c69553e4eea78c6&o=&hp=1"
 language: en
 slug: apartament-paradise
 address: "Rruga Butrinti, Sarandë, Albania"

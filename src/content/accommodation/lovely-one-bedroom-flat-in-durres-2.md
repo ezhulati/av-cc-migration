@@ -1,7 +1,7 @@
 ---
 title: "Lovely one bedroom flat in durres 2"
 description: "Discover the charm of Durrës with a stay at the Lovely one-bedroom flat in Durres 2, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/lovely-one-bedroom-flat-in-durres-2-489977523.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489977523.jpg?k=fa586d303d83d8172955df5ca3eb0d248e6d1733739e61ec247307c3eeffaacb&o=&hp=1"
 language: en
 slug: lovely-one-bedroom-flat-in-durres-2
 address: "Rruga Karl Topia First floor, 2001 Durrës, Albania"

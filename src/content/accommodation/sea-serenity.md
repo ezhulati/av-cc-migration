@@ -1,7 +1,7 @@
 ---
 title: "Sea serenity"
 description: "Sea Serenity stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just 21 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/sea-serenity-469180117.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469180117.jpg?k=c2ba9f385cf49073ea7891b59bc057c8b9f8d11d76c4b9403074fda65b2019d2&o=&hp=1"
 language: en
 slug: sea-serenity
 address: "Rruga Gjergj Araniti, Sarandë, Albania"

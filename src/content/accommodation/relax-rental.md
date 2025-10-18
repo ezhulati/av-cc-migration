@@ -1,7 +1,7 @@
 ---
 title: "Relax Rental"
 description: "Relax Rental emerges as a serene oasis in Vlorë, mere steps from the pristine Vjetër Beach and a short drive from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/relax-rental-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: relax-rental
 address: "Plazh I Vjeter Vlore, 9401 Vlorë, Albania"

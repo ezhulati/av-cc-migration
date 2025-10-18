@@ -1,7 +1,7 @@
 ---
 title: "Hotel Pik Loti"
 description: "Discover the charm of Tirana with a stay at the family-operated Hotel Pik Loti, a gem that offers both convenience and comfort right in the heart of the city."
-featuredImage: "/images/accommodation/hotel-pik-loti-466994603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466994603.jpg?k=39fddf22e3f018bd960e1e98f24c1a888d057574deb25ffc53a1da9dbf43ca6a&o=&hp=1"
 language: en
 slug: hotel-pik-loti
 address: "Petro Nini Luarasi Road, 1010 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Seaclusion Villa Palase"
 description: "Seaclusion Villa Palase emerges as a premier choice for travelers seeking unparalleled comfort and privacy in Palasë."
-featuredImage: "/images/accommodation/seaclusion-villa-palase-456846442.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456846442.jpg?k=3886704d632703ccc118a4291273bdbecaa7af33d08ba41b465a090868d4df80&o=&hp=1"
 language: en
 slug: seaclusion-villa-palase
 address: "Green Coast Residence, Palase, 9425 Palasë, Albania"

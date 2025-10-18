@@ -1,7 +1,7 @@
 ---
 title: "Hotel Colis"
 description: "Hotel Colis emerges as a serene oasis just a short distance from the vibrant heart of Tirana."
-featuredImage: "/images/accommodation/hotel-colis-454323593.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454323593.jpg?k=a55da5c227a89f6eee1f7dcc82a3c51946150d645935657a6033e8d961f1917f&o=&hp=1"
 language: en
 slug: hotel-colis
 address: "Str Iliria (Donald Trump) Kamez ,Tirane, 1001 Tirana, Albania"

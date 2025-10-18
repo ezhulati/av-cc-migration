@@ -1,7 +1,7 @@
 ---
 title: "Vila Cano"
 description: "Vila Cano emerges as a serene oasis in Durrës, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/vila-cano-463504835.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463504835.jpg?k=d76535ce6dad9b5a235d06e7733bd86453ad7e35ae95a544091890b8c1bd48f4&o=&hp=1"
 language: en
 slug: vila-cano
 address: "Rruga mbreteresha olimbia, 2001 Durrës, Albania"

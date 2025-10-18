@@ -1,7 +1,7 @@
 ---
 title: "Kokaj3B"
 description: "Kokaj3B emerges as a serene retreat in the quaint town of Hani Hotit, offering a harmonious blend of comfort and convenience just 26 km away from the iconic Church of the Holy Heart of Jesus."
-featuredImage: "/images/accommodation/kokaj3b-511327844.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511327844.jpg?k=46fee5578c919ef222f9d0f7fc66fb00a6950fa9c4001712d4b7d49061cfb6a7&o=&hp=1"
 language: en
 slug: kokaj3b
 address: "Terminali Hani i Hotit,Hot, 4001 Hani Hotit, Albania"

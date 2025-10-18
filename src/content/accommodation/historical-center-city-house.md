@@ -1,7 +1,7 @@
 ---
 title: "Historical Center City House"
 description: "Historical Center City House, located in the heart of Shkodër within the Shkoder County region, stands out for its serene garden setting and the convenience of modern amenities."
-featuredImage: "/images/accommodation/historical-center-city-house-377567784.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377567784.jpg?k=3dce4aa06477624bdb65340111093e65ea74c8d5556bfbb1b1d3873ae56b5605&o=&hp=1"
 language: en
 slug: historical-center-city-house
 address: "69 Rruga Gurazezëve, Shkodër, Albania"

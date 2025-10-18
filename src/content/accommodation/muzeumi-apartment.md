@@ -1,7 +1,7 @@
 ---
 title: "Muzeumi Apartment"
 description: "Muzeumi Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/muzeumi-apartment-501077357.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501077357.jpg?k=ad50afd0e95cbc7ead56b3ca990e6d3717af517ca4ed50af543bcbba8e7494a5&o=&hp=1"
 language: en
 slug: muzeumi-apartment
 address: "Rruga Aleksander Goga, Durrës, Albania"

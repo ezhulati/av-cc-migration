@@ -1,7 +1,7 @@
 ---
 title: "Saranda 1 bedroom ap"
 description: "Discover the charm of Saranda 1 Bedroom Apartment, a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-1-bedroom-ap-394548099.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394548099.jpg?k=32f0ef6a42e834485bb7b7b4aac1990bad8a6c47e089e566a3fb188ed7b1c365&o=&hp=1"
 language: en
 slug: saranda-1-bedroom-ap
 address: "Rruga Abedin Dino, 9701 Sarandë, Albania"

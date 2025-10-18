@@ -1,7 +1,7 @@
 ---
 title: "Dajti Mountain View"
 description: "Dajti Mountain View emerges as a prime choice for travelers seeking a serene retreat in the heart of Tirana, mere kilometers away from the city's historical and natural landmarks."
-featuredImage: "/images/accommodation/dajti-mountain-view-477924781.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477924781.jpg?k=36b3fdc79c9a7e8dd7472b39645098fd8ddffadbf3b9caf7159ca5796b8684d1&o=&hp=1"
 language: en
 slug: dajti-mountain-view
 address: "Rruga Kongresi i Manastirit, 1001 Tirana, Albania"

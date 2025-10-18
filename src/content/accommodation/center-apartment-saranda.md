@@ -1,7 +1,7 @@
 ---
 title: "Center apartment Saranda"
 description: "Center Apartment Saranda emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/center-apartment-saranda-482264708.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482264708.jpg?k=ff7ec1441fc67c6bf2871d5626d055a53262a647748fab5528ead725c4e2f1ad&o=&hp=1"
 language: en
 slug: center-apartment-saranda
 address: "Rruga Onhezmi, Sarandë, Albania"

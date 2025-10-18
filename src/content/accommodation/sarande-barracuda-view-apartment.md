@@ -1,7 +1,7 @@
 ---
 title: "Sarande Barracuda View Apartment"
 description: "Sarande Barracuda View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sarande-barracuda-view-apartment-373845667.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373845667.jpg?k=8f3aee046f552add9abfb55d0032d5a9b5ad28a02591b815f8da709b7b268a60&o=&hp=1"
 language: en
 slug: sarande-barracuda-view-apartment
 address: "Rruga Butrinti, Planet market, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Doro City"
 description: "Discover the charm of Hotel Doro City, a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana, Albania."
-featuredImage: "/images/accommodation/hotel-doro-city-470491309.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470491309.jpg?k=708e8fe81a1f751bfd2073202d44031a9f6ef651b80300702dff3577ecc2c51f&o=&hp=1"
 language: en
 slug: hotel-doro-city
 address: "Muhamet Gjollesha Street, Md.38 H.1, 1023 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "YourHome"
 description: "Discover the comfort and convenience of YourHome, a prime accommodation choice situated in the heart of Korçë."
-featuredImage: "/images/accommodation/yourhome-515653270.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515653270.jpg?k=383d30edd96d7f5315819ecd554ae411965429b8d1ffce585a89aea920950bf9&o=&hp=1"
 language: en
 slug: yourhome
 address: "Bulevardi Gjergj Kastrioti, 7001 Korçë, Albania"

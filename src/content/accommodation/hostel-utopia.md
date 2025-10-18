@@ -1,7 +1,7 @@
 ---
 title: "Hostel Utopia"
 description: "Hostel Utopia stands out as a vibrant oasis in the heart of Tirana, offering guests a unique blend of communal charm and modern amenities."
-featuredImage: "/images/accommodation/hostel-utopia-520726019.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520726019.jpg?k=791fdd2706cbb134fec390fa6c7b79ade01097ee6286f649de8746d8796f5cbc&o=&hp=1"
 language: en
 slug: hostel-utopia
 address: "Rruga e Durrësit, 1050 Tirana, Albania"

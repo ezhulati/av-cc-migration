@@ -1,7 +1,7 @@
 ---
 title: "Hotel Golden Palace"
 description: "Hotel Golden Palace stands as a beacon of luxury 49 km from the Port of Bar, offering discerning travelers a five-star experience in the heart of Shkodër."
-featuredImage: "/images/accommodation/hotel-golden-palace-513202936.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513202936.jpg?k=110c5486f6bba3a00c7974f21e4db55cbb59abfbe1ca3b486aac729f3e729673&o=&hp=1"
 language: en
 slug: hotel-golden-palace
 address: "Bulevardi Skënderbeu, 4001 Shkodër, Albania"

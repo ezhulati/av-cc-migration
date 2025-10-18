@@ -1,7 +1,7 @@
 ---
 title: "Luxury apartment next to Marina Bay"
 description: "Luxury Apartment Next to Marina Bay emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/luxury-apartment-next-to-marina-bay-8ecb6dbf787b.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
 language: en
 slug: luxury-apartment-next-to-marina-bay
 address: "Rruga Aleksandër Moisiu, Vlorë, Albania"

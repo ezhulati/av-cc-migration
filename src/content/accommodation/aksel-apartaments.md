@@ -1,7 +1,7 @@
 ---
 title: "Aksel apartaments"
 description: "Aksel Apartments emerges as a serene haven in the heart of Tirana, merely a stone's throw away from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/aksel-apartaments-489406330.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489406330.jpg?k=dd48870473b9d947857f074fb7e23a082fe08a5380d2d140acb4adefbe3f5f09&o=&hp=1"
 language: en
 slug: aksel-apartaments
 address: "Rruga Ibrahim Kazazi, 1019 Tirana, Albania"

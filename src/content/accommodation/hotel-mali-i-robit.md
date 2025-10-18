@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mali i Robit"
 description: "Hotel Mali i Robit emerges as a charming retreat just 100 meters from the pristine shores of Golem, providing guests with a serene escape that combines comfort with convenience."
-featuredImage: "/images/accommodation/hotel-mali-i-robit-375324432.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375324432.jpg?k=81f5d80b300f34095ca87b64c31bedb00cdb0c494353cd54c810ae11e986b6ea&o=&hp=1"
 language: en
 slug: hotel-mali-i-robit
 address: "Mali i Robit, 2500 Golem, Albania"

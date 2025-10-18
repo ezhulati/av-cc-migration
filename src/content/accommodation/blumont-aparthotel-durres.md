@@ -1,7 +1,7 @@
 ---
 title: "Blumont Aparthotel Durres"
 description: "Blumont Aparthotel Durres emerges as a prime choice for travelers seeking a blend of comfort and convenience, positioned just a stone's throw away from the serene Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."
-featuredImage: "/images/accommodation/blumont-aparthotel-durres-470192086.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470192086.jpg?k=8641c51d99a69edb09a1849625c3ef58c8cd6b84f56a68911bf2ae512e03d6ab&o=&hp=1"
 language: en
 slug: blumont-aparthotel-durres
 address: "SH4, 2010 Durrës, Albania"

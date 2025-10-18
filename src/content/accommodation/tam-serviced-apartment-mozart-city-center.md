@@ -1,7 +1,7 @@
 ---
 title: "TAM Serviced Apartment Mozart City Center"
 description: "TAM Serviced Apartment Mozart City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tam-serviced-apartment-mozart-city-center-415458752.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415458752.jpg?k=6db35a7c893a8f65e12fed3d69f28644813880aaacec6232cb412d4844dc2456&o=&hp=1"
 language: en
 slug: tam-serviced-apartment-mozart-city-center
 address: "Rruga Papa Kristo Negovani, 1001 Tirana, Albania"

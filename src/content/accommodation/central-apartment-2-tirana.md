@@ -1,7 +1,7 @@
 ---
 title: "Central Apartment 2, Tirana"
 description: "Central Apartment 2, Tirana, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/central-apartment-2-tirana-320135791.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320135791.jpg?k=85de4e4de7b9fe11b81b84386dd5aa89b34c1dc0bc848667ed98d71aa7bc9623&o=&hp=1"
 language: en
 slug: central-apartment-2-tirana
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

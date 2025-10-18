@@ -1,7 +1,7 @@
 ---
 title: "Kompleks Guri Voskopoje"
 description: "Kompleks Guri Voskopoje emerges as a charming retreat in the heart of Voskopojë, providing a serene accommodation experience with its well-appointed guest rooms and thoughtful amenities."
-featuredImage: "/images/accommodation/kompleks-guri-voskopoje-248374242.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/248374242.jpg?k=b4186e6639ac3765a6cdf7f30277442d25dd748453b704499c52a45ec90b71bc&o=&hp=1"
 language: en
 slug: kompleks-guri-voskopoje
 address: "Rruga Shen Maria, 7029 Voskopojë, Albania"

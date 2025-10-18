@@ -1,7 +1,7 @@
 ---
 title: "Mirage Apartament Vlore"
 description: "Mirage Apartament Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/mirage-apartament-vlore-481880106.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481880106.jpg?k=cc33b31eac1685993598ac9272c265fbe8934f2c02e9933526c2f52091665614&o=&hp=1"
 language: en
 slug: mirage-apartament-vlore
 address: "Rruga Sali Vranishti, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely large summer apartment next to Lungomare"
 description: "Discover the charm of Vlorë with a stay at the Lovely Large Summer Apartment, a prime beachfront property that stands out for its proximity to the city's most captivating shores."
-featuredImage: "/images/accommodation/lovely-large-summer-apartment-next-to-lungomare-480151775.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480151775.jpg?k=003b52f08c5170025bbe6c2fd5907f2fb56d13a3a835f13c9a9d6a35fac753c5&o=&hp=1"
 language: en
 slug: lovely-large-summer-apartment-next-to-lungomare
 address: "Rruga Kosova Building 16, Apartment 18, 9401 Vlorë, Albania"

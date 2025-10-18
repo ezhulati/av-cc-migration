@@ -1,7 +1,7 @@
 ---
 title: "Family Residence"
 description: "Family Residence emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/family-residence-457268967.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457268967.jpg?k=22d197a54c3c152f87156033dc4204a39e5f15001d8f048aa26da6fcd14dcb82&o=&hp=1"
 language: en
 slug: family-residence
 address: "Bulevardi Nënë Tereza 6-th Floor, Apartment 27, Shëngjin, Albania"

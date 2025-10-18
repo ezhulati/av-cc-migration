@@ -1,7 +1,7 @@
 ---
 title: "Tradicional Bazaar Home"
 description: "Discover the charm of Korçë with a stay at the Tradicional Bazaar Home, a gem located just 43 km from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/tradicional-bazaar-home-468242052.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468242052.jpg?k=2c170bff3cb45d7e6edc32ac24a1ddaf11b07c8bbd551a155dcc29551dfbc24b&o=&hp=1"
 language: en
 slug: tradicional-bazaar-home
 address: "Rrugica Skender Caci, Korçë, Albania"

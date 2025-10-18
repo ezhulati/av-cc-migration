@@ -1,7 +1,7 @@
 ---
 title: "Home Scutari"
 description: "Home Scutari, located in the vibrant city of Shkodër, presents a cozy retreat for travelers, merely a stone's throw away from the Port of Bar at a distance of 49 km."
-featuredImage: "/images/accommodation/home-scutari-483264434.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483264434.jpg?k=ec51fe6c2693c37a8a876f7fb48378726f6de994cfcac3deb213576c36478bd5&o=&hp=1"
 language: en
 slug: home-scutari
 address: "Rruga Vaso Kadia, Shkodër, Albania"

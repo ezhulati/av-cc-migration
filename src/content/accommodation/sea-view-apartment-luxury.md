@@ -1,7 +1,7 @@
 ---
 title: "Sea View Apartment Luxury"
 description: "Sea View Apartment Luxury in Vlorë stands out as a premier choice for travelers seeking comfort, convenience, and breathtaking views."
-featuredImage: "/images/accommodation/sea-view-apartment-luxury-516374815.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516374815.jpg?k=492c6d1a238e6f46e3232b852cb4b924d12688c18de86b58ba5e1139fcc3ba52&o=&hp=1"
 language: en
 slug: sea-view-apartment-luxury
 address: "Rr. Sazani, 9400 Vlorë, Albania"

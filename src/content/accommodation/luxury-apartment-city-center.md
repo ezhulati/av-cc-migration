@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment City Center"
 description: "Luxury Apartment City Center emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-apartment-city-center-426495675.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426495675.jpg?k=63191b8d16630d450ab838a37bd61f3e44a15ac57ad5ff0b333e7a1c2210a869&o=&hp=1"
 language: en
 slug: luxury-apartment-city-center
 address: "Rruga Zenel Baboçi, 1001 Tirana, Albania"

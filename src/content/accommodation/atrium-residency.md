@@ -1,7 +1,7 @@
 ---
 title: "Atrium Residency"
 description: "Atrium Residency emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/atrium-residency-365580349.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365580349.jpg?k=7a1326077e527cb395baad7d40f77c143c9b08e58aa3b15387318cec042c8696&o=&hp=1"
 language: en
 slug: atrium-residency
 address: "Rruga Selaudin Zorba A 2.1 Floor no.2, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "BELLISSIMA CASA AL MARE CON VISTA MOZZAFIATO"
 description: "BELLISSIMA CASA AL MARE CON VISTA MOZZAFIATO emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, just a stone's throw away from the pristine Golem Beach and a short stroll from the scenic Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/bellissima-casa-al-mare-con-vista-mozzafiato-482419337.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482419337.jpg?k=dc8d264642745fa5e709c85306048e557ad5bbd6a53ca6e9b32403489a541a83&o=&hp=1"
 language: en
 slug: bellissima-casa-al-mare-con-vista-mozzafiato
 address: "Rruga Kristal pallati ngjitur me bar orion, kati i 7, 2504 Golem, Albania"

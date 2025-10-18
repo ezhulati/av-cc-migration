@@ -1,7 +1,7 @@
 ---
 title: "Penthohuse with two bedrooms, Located near beach"
 description: "Discover the charm of Golem with a stay at the Penthohuse, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/penthohuse-with-two-bedrooms-located-near-beach-485056070.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485056070.jpg?k=938098c2754c52caf330b882f91087069fd6c82315e6ccd46dc6daeb1a65af7a&o=&hp=1"
 language: en
 slug: penthohuse-with-two-bedrooms-located-near-beach
 address: "Rruga Qemal Stafa 4, 2504 Golem, Albania"

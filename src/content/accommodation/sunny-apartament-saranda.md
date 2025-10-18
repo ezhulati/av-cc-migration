@@ -1,7 +1,7 @@
 ---
 title: "Sunny Apartament Saranda"
 description: "Sunny Apartament Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sunny-apartament-saranda-866dca38dcc3.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
 language: en
 slug: sunny-apartament-saranda
 address: "Rruga Ismail Qemali, Sarandë, Albania"

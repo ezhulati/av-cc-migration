@@ -1,7 +1,7 @@
 ---
 title: "Nea's Holiday Apartament"
 description: "Nea's Holiday Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/nea-s-holiday-apartament-468778673.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468778673.jpg?k=4290b02ace7a0c473ecfdf278c2685d7e9e8a2591bee5284b636244e9c60bc81&o=&hp=1"
 language: en
 slug: nea-s-holiday-apartament
 address: "Rr. Transballkanike, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bar Restorant Hotel Altini"
 description: "Bar Restorant Hotel Altini emerges as a serene oasis in Vlorë, perfectly positioned just 700 meters from the pristine Vjetër Beach and a mere 2."
-featuredImage: "/images/accommodation/bar-restorant-hotel-altini-317569080.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/317569080.jpg?k=aa7cc789f79b8d048b75cf53f054c715480bcab73114c21f456e0d5ee5a0d377&o=&hp=1"
 language: en
 slug: bar-restorant-hotel-altini
 address: "Rruga Rrapo Meto, 9401 Vlorë, Albania"

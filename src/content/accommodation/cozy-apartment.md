@@ -1,7 +1,7 @@
 ---
 title: "Cozy apartment"
 description: "Cozy Apartment emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cozy-apartment-8103dfb0481c.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
 language: en
 slug: cozy-apartment
 address: "Rruga Faik Konica, 1001 Tirana, Albania"

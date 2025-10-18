@@ -1,7 +1,7 @@
 ---
 title: "Jessie's Apartments"
 description: "Jessie's Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Durrës."
-featuredImage: "/images/accommodation/jessie-s-apartments-483442879.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483442879.jpg?k=8b84b0290691d34ba98b1737434ba1c53ad11e37047fb9133d0d45b0ce3438e6&o=&hp=1"
 language: en
 slug: jessie-s-apartments
 address: "Rruga Bardhyl Shehu, 2001 Durrës, Albania"

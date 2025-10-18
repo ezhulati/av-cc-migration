@@ -1,7 +1,7 @@
 ---
 title: "Alesia Hospitality"
 description: "Alesia Hospitality emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/alesia-hospitality-866dca38dcc3.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-p/866dca38dcc31cb6fa2e9b4c475bd32e681b0080.png"
 language: en
 slug: alesia-hospitality
 address: "Rruga Grigor Heba, 1019 Tirana, Albania"

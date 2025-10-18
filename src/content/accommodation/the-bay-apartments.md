@@ -1,7 +1,7 @@
 ---
 title: "The Bay Apartments"
 description: "The Bay Apartments in Sarandë emerges as a prime choice for travelers seeking both comfort and convenience, mere steps away from the pristine Maestral Beach and the inviting Santa Quaranta Beach."
-featuredImage: "/images/accommodation/the-bay-apartments-366530356.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366530356.jpg?k=c3b71dc0835fddc4a962fd1cd59bf87273fdd2acf463cfefec59c7d8bba08c9c&o=&hp=1"
 language: en
 slug: the-bay-apartments
 address: "Rruga Butrinti, 1000, 9701 Sarandë, Albania"

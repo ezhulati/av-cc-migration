@@ -1,7 +1,7 @@
 ---
 title: "Guest House Iljesa"
 description: "Guest House Iljesa emerges as a charming retreat in the heart of Berat, offering guests a serene stay with its air-conditioned accommodations set amidst a lush garden landscape."
-featuredImage: "/images/accommodation/guest-house-iljesa-155218722.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155218722.jpg?k=76d28369b3a15eebfdb2a0756185f5af24e3665fe35951ec7b35998ca025e5a5&o=&hp=1"
 language: en
 slug: guest-house-iljesa
 address: "Rruga Gjon Muzaka, 5001 Berat, Albania"

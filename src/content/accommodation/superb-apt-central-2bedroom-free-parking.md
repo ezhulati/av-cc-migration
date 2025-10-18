@@ -1,7 +1,7 @@
 ---
 title: "Superb Apt Central - 2bedroom - Free Parking"
 description: "Superb Apt Central emerges as a prime choice for travelers seeking comfort and convenience in Durrës, boasting a prime location just over a kilometer from Currila Beach and slightly further from the vibrant Durres Beach."
-featuredImage: "/images/accommodation/superb-apt-central-2bedroom-free-parking-421223255.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421223255.jpg?k=d07715cc1e524fe07e3a0027ced5d88b89510a20279d0ba392c309380225350f&o=&hp=1"
 language: en
 slug: superb-apt-central-2bedroom-free-parking
 address: "11 Rruga Aleksander Goga, 2001 Durrës, Albania"

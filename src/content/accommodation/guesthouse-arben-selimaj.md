@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Arben Selimaj"
 description: "Guesthouse Arben Selimaj emerges as a serene retreat in the heart of Valbonë, offering guests an exceptional blend of comfort and convenience."
-featuredImage: "/images/accommodation/guesthouse-arben-selimaj-517987107.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/517987107.jpg?k=161fdebe533bd2fa89a824725f2bcb0ae152e35b55582cd9ad759e417230abb4&o=&hp=1"
 language: en
 slug: guesthouse-arben-selimaj
 address: "Rruga Azem Hajdari, 8701 Valbonë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Muslli"
 description: "Vila Muslli stands as a distinguished 4-star haven in Korçë, merely 42 km away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/vila-muslli-416213008.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416213008.jpg?k=6094816e8a37325c1f870cd7b041ef318e792027a1c6107e8c2659c026567edb&o=&hp=1"
 language: en
 slug: vila-muslli
 address: "Rruga Thanas Floqi Perballe \"Big Market\", Unaze, Korce, 7001 Korçë, Albania"

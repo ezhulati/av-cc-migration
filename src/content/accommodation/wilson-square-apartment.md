@@ -1,7 +1,7 @@
 ---
 title: "Wilson Square Apartment"
 description: "Wilson Square Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/wilson-square-apartment-416729297.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416729297.jpg?k=02122ea020e75f217383a2abdc68e756a8cb7c0f881fafe28b720f252fc700f4&o=&hp=1"
 language: en
 slug: wilson-square-apartment
 address: "Rruga Zef Jubani, 1001 Tirana, Albania"

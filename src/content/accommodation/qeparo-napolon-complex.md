@@ -1,7 +1,7 @@
 ---
 title: "Qeparo Napolon Complex"
 description: "Qeparo Napolon Complex stands as a prime beachfront oasis in Qeparo, boasting an outdoor pool and a generously sized sun terrace that promises relaxation and leisure."
-featuredImage: "/images/accommodation/qeparo-napolon-complex-339944303.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339944303.jpg?k=e40952d7813176ad813997e43f43d0826077148cdd3e7bb4aa5d071e5d394661&o=&hp=1"
 language: en
 slug: qeparo-napolon-complex
 address: "Road Qeparo Borsh Km 2, 8407 Qeparo, Albania"

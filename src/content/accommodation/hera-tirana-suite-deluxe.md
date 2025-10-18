@@ -1,7 +1,7 @@
 ---
 title: "Hera Tirana Suite Deluxe"
 description: "Hera Tirana Suite Deluxe emerges as a modern oasis in the heart of Tirana, offering a seamless blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/hera-tirana-suite-deluxe-500412986.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500412986.jpg?k=1efa229edd9d2df61985e6aa54b8ca5196f8216e5ce3bc61c861bfd66e74f402&o=&hp=1"
 language: en
 slug: hera-tirana-suite-deluxe
 address: "Rruga Vorpset, 1016 Tirana, Albania"

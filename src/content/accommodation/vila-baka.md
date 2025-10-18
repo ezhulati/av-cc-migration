@@ -1,7 +1,7 @@
 ---
 title: "Vila Baka"
 description: "Vila Baka stands out as a charming 2-star accommodation option, just a stone's throw away from the pristine shores of Ksamil Beach 9."
-featuredImage: "/images/accommodation/vila-baka-388160705.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/388160705.jpg?k=48ef90de41a1bc5a262c0ff28f4e2fe1f3dd67ad07cfab0adc21e8063169da10&o=&hp=1"
 language: en
 slug: vila-baka
 address: "L.NR.2, RR Hasan Tasini, Sarande, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Town House"
 description: "Discover the charm of Hotel Town House, a gem located just a stone's throw away from the heart of Skanderbeg Square."
-featuredImage: "/images/accommodation/hotel-town-house-19120063.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/19120063.jpg?k=26fb07dcc2c52b19037d4eafa98803bf752c544cf881c1fd9e0875167a7d00b2&o=&hp=1"
 language: en
 slug: hotel-town-house
 address: "Blv. Bajram Curri, Nd. 236 H. 8, 1004 Tirana, Albania"

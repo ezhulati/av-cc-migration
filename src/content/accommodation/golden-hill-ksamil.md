@@ -1,7 +1,7 @@
 ---
 title: "Golden Hill Ksamil"
 description: "Golden Hill Ksamil emerges as a charming retreat for travelers seeking both tranquility and convenience in the heart of Ksamil, just a stone's throw away from the serene Sunset Beach."
-featuredImage: "/images/accommodation/golden-hill-ksamil-378063711.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378063711.jpg?k=8e855b029368cae1a3e98ff41f0618f91cfd258386ac1c1c6e6dd71a5a97537f&o=&hp=1"
 language: en
 slug: golden-hill-ksamil
 address: "Eqerem Çabej 39.7769422,20.0048969, 9701 Ksamil, Albania"

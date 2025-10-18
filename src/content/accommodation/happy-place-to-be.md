@@ -1,7 +1,7 @@
 ---
 title: "HAPPY PLACE TO BE"
 description: "HAPPY PLACE TO BE emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/happy-place-to-be-488132036.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488132036.jpg?k=66b77d5749349936c0473998eb112c0418fa9fe2554174ff73f83be17341576f&o=&hp=1"
 language: en
 slug: happy-place-to-be
 address: "Rruga Pavaresia, 1001 Durrës, Albania"

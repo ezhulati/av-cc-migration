@@ -1,7 +1,7 @@
 ---
 title: "LT Luxury Villa"
 description: "LT Luxury Villa emerges as a premier choice for travelers seeking a blend of comfort, privacy, and scenic beauty in Rrushkull, just a short distance from the pristine Lalëz Bay Beach and the vibrant heart of Skanderbeg Square."
-featuredImage: "/images/accommodation/lt-luxury-villa-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: lt-luxury-villa
 address: "Vila e shefit, 1009 Rrushkull, Albania"

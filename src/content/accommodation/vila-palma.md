@@ -1,7 +1,7 @@
 ---
 title: "Vila Palma"
 description: "Vila Palma emerges as a premier choice for travelers seeking a blend of comfort and adventure in Berat."
-featuredImage: "/images/accommodation/vila-palma-204349604.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204349604.jpg?k=e79d61197cfc1e9a44ece976f11d7fab97e209743cf9a3bd52c1212b0e55170d&o=&hp=1"
 language: en
 slug: vila-palma
 address: "Qender Starove, 5001 Berat, Albania"

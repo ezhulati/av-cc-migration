@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kulla e Bajraktarit"
 description: "Hotel Kulla e Bajraktarit emerges as a distinguished destination for travelers seeking a blend of comfort and convenience, located just 24 km from the breathtaking Theth National Park in Bogë."
-featuredImage: "/images/accommodation/hotel-kulla-e-bajraktarit-351120518.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351120518.jpg?k=c1d5f77e598352a65aea90656c290172ace8cbebd31feda9335bec2d93434727&o=&hp=1"
 language: en
 slug: hotel-kulla-e-bajraktarit
 address: "Rruga per Thethe, 4001 Bogë, Albania"

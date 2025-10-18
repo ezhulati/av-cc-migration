@@ -1,7 +1,7 @@
 ---
 title: "Luxury Suites Pogradec"
 description: "Luxury Suites Pogradec emerges as a modern oasis of comfort and tranquility, situated just 7."
-featuredImage: "/images/accommodation/luxury-suites-pogradec-433696931.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433696931.jpg?k=aefc70648a1bfc13344cc34aa2f91c52fe9dd1d1ea44749b823cbffa1077e79d&o=&hp=1"
 language: en
 slug: luxury-suites-pogradec
 address: "1 Rruga Dëshmorët e Pojskës, 7301 Pogradec, Albania"

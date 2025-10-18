@@ -1,7 +1,7 @@
 ---
 title: "Helen Apartments"
 description: "Helen Apartments, situated in the serene town of Lukovë, offers a tranquil retreat just a short 2."
-featuredImage: "/images/accommodation/helen-apartments-365459869.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365459869.jpg?k=c6771d42df2c76ec025da6055fd65cca5e815598c1ab24bb51f71fe8098732ea&o=&hp=1"
 language: en
 slug: helen-apartments
 address: "Gërhot, 9713 Lukovë, Albania"

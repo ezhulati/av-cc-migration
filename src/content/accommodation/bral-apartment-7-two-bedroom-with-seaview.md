@@ -1,7 +1,7 @@
 ---
 title: "Bral Apartment 7 - Two-Bedroom with Seaview"
 description: "Bral Apartment 7 - Two-Bedroom with Seaview stands out as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/bral-apartment-7-two-bedroom-with-seaview-370435150.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370435150.jpg?k=a63c934fa2a463cfa96d7909c2b5e867f038957647cf744254a60e70ee8f60e3&o=&hp=1"
 language: en
 slug: bral-apartment-7-two-bedroom-with-seaview
 address: "Rruga Venecia, 2008 Durrës, Albania"

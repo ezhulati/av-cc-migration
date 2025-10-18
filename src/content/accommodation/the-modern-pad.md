@@ -1,7 +1,7 @@
 ---
 title: "The Modern Pad"
 description: "The Modern Pad, situated in the vibrant city of Shkodër, offers a refreshing retreat with its air-conditioned accommodations boasting a private balcony and serene garden views."
-featuredImage: "/images/accommodation/the-modern-pad-477015956.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477015956.jpg?k=31a4bea9af71909dc3be18070c62d5eea9e6cef4a04893612b1504619b1e851a&o=&hp=1"
 language: en
 slug: the-modern-pad
 address: "Rruga Daut Borici, 1000 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "High-Tech flat"
 description: "High-Tech Flat emerges as a prime choice for travelers seeking a blend of modernity and scenic sea views in Durrës."
-featuredImage: "/images/accommodation/high-tech-flat-437719020.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437719020.jpg?k=ea7e0d0364deb71e518a2b4f00f5a7e7258d3f5850f1835c376b794c5592a6e2&o=&hp=1"
 language: en
 slug: high-tech-flat
 address: "Rruga Shkallnuri Rr.:1, 2000 Durrës, Albania"

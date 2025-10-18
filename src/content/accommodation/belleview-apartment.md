@@ -1,7 +1,7 @@
 ---
 title: "Belleview Apartment"
 description: "Belleview Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/belleview-apartment-474306329.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474306329.jpg?k=811a6fb9fbcd1cfae1583cea0d2a6b35f2ea70fca6dd3fb8bbfbfa0699fe9298&o=&hp=1"
 language: en
 slug: belleview-apartment
 address: "Rruga Murat Terbaci, 9400 Vlorë, Albania"

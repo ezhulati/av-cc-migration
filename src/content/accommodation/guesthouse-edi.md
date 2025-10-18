@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Edi"
 description: "Guesthouse Edi emerges as a serene retreat in the heart of Ksamil, a mere stone's throw away from the pristine Sunset Beach and a short stroll from the vibrant Ksamil Beach."
-featuredImage: "/images/accommodation/guesthouse-edi-356281459.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356281459.jpg?k=de7ba827eb687a5f68751c9f4c17ae8ed7ec5acf4b131fff4adf3d8999ef12d2&o=&hp=1"
 language: en
 slug: guesthouse-edi
 address: "Rruga Liqeni Ksamil, 9706 Ksamil, Albania"

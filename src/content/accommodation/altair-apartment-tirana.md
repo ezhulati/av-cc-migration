@@ -1,7 +1,7 @@
 ---
 title: "Altair Apartment Tirana"
 description: "Altair Apartment Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/altair-apartment-tirana-512031377.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512031377.jpg?k=29c76a0b6b9efd3eccb929e6c25d56f98ddbdcf1034edd7a47da71db2be07aef&o=&hp=1"
 language: en
 slug: altair-apartment-tirana
 address: "TIRANE Rruga RRUGA DURRESIT Godina 220 Hyrja 3 Apartamenti 21 APARTAMENT, 1019 Tirana, Albania"

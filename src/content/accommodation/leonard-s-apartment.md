@@ -1,7 +1,7 @@
 ---
 title: "Leonard's Apartment"
 description: "Leonard's Apartment emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/leonard-s-apartment-477540774.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477540774.jpg?k=3e7440103402c76154700fe3ed41b129420185454f07fd11eba9586534eda661&o=&hp=1"
 language: en
 slug: leonard-s-apartment
 address: "Rruga Vasil Kuqi, Durrës, Albania"

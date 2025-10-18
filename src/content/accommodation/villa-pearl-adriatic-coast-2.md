@@ -1,7 +1,7 @@
 ---
 title: "Villa Pearl Adriatic Coast 2"
 description: "Villa Pearl Adriatic Coast 2 emerges as a premier choice for travelers seeking the perfect blend of comfort and convenience on the Golem shoreline."
-featuredImage: "/images/accommodation/villa-pearl-adriatic-coast-2-477033860.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477033860.jpg?k=4df3eff4052a411f0e5c3bbbb2353b3ad507476fdee61a1d22330d0b020d9a64&o=&hp=1"
 language: en
 slug: villa-pearl-adriatic-coast-2
 address: "Rruga Qerret Plazh, 2504 Golem, Albania"

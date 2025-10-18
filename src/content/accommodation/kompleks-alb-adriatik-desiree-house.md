@@ -1,7 +1,7 @@
 ---
 title: "Kompleks Alb Adriatik Desiree' house"
 description: "Just a stone's throw away from the pristine Golem Beach, Kompleks Alb Adriatik Desiree' House emerges as a recently updated gem in Kryemëdhej, offering guests a seamless blend of comfort and convenience."
-featuredImage: "/images/accommodation/kompleks-alb-adriatik-desiree-house-453507552.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453507552.jpg?k=a7e20e44f796a760b8c40373954a7264b0225c994e3c7bc36dd4a5b60cb72958&o=&hp=1"
 language: en
 slug: kompleks-alb-adriatik-desiree-house
 address: "rruga e plazhit 04060112, 2504 Kryemëdhej, Albania"

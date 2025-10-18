@@ -1,7 +1,7 @@
 ---
 title: "Volmar Hotel"
 description: "Volmar Hotel stands as a beacon of comfort and luxury in Durrës, just a stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/volmar-hotel-481979272.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481979272.jpg?k=67f4264226df665b3d86a5ba571357dbf9af2de2bcba63c3ee60d991e668992a&o=&hp=1"
 language: en
 slug: volmar-hotel
 address: "Rruga Agaveve, 2001 Durrës, Albania"

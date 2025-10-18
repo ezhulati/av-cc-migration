@@ -1,7 +1,7 @@
 ---
 title: "Lakeside Serenity - DESARET"
 description: "Lakeside Serenity - DESARET emerges as a prime beachfront haven located in the picturesque town of Pogradec, offering guests a tranquil escape with the convenience of modern amenities."
-featuredImage: "/images/accommodation/lakeside-serenity-desaret-468489770.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468489770.jpg?k=321bdfe16932b44a34bcca4093917e235b45fc28e8d6225be8fd957ebb567b51&o=&hp=1"
 language: en
 slug: lakeside-serenity-desaret
 address: "Rruga Vilave, 7301 Pogradec, Albania"

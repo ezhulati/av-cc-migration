@@ -1,7 +1,7 @@
 ---
 title: "My Cozy Beach Apartment"
 description: "My Cozy Beach Apartment emerges as a serene retreat in the vibrant city of Vlorë, located just a stone's throw away from the pristine Liro Beach and a short drive from the lively Coco Bongo Beach."
-featuredImage: "/images/accommodation/my-cozy-beach-apartment-525989244.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525989244.jpg?k=2e0685b95fc0ce36b3711f7bea76ea892c6082bec04abb8c57b38235df64c0ce&o=&hp=1"
 language: en
 slug: my-cozy-beach-apartment
 address: "Vlorë Bypass, Vlorë, Albania"

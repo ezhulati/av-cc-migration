@@ -1,7 +1,7 @@
 ---
 title: "Gardenland Resort"
 description: "Gardenland Resort emerges as a serene oasis in Shkodër, positioned gracefully beside the tranquil Lumi Drin River and offering a picturesque escape with its palm-fringed outdoor swimming pool and inviting sun beds."
-featuredImage: "/images/accommodation/gardenland-resort-402389426.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402389426.jpg?k=427460dc662ffc7d19bb1557cba0fb5c16284263e6b025bbc348ce5a7cea921c&o=&hp=1"
 language: en
 slug: gardenland-resort
 address: "Shkodër, 4001 Shkodër, Albania"

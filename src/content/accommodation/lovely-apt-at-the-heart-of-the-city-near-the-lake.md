@@ -1,7 +1,7 @@
 ---
 title: "Lovely Apt at the heart of the city&near the lake"
 description: "Discover the charm of Pogradec with a stay at Lovely Apt, a prime beachfront apartment boasting a prime location at the heart of the city and just a stone's throw from the serene lake."
-featuredImage: "/images/accommodation/lovely-apt-at-the-heart-of-the-city-near-the-lake-216838269.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216838269.jpg?k=c1bf705fef793743f97141b03121d4c18671ddb5461ba59e433e85ac1b2c6c7e&o=&hp=1"
 language: en
 slug: lovely-apt-at-the-heart-of-the-city-near-the-lake
 address: "Rruga Eduard Mortier Apt 60,nr 4,floor 2, 7301 Pogradec, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sweet Comfy Apartment"
 description: "Sweet Comfy Apartment in Sarandë offers a refreshing retreat for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/sweet-comfy-apartment-522445308.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522445308.jpg?k=910d8f0c80be12b9ac1b2429405f76bf26dacde3a9c8263b709035523d86d2ef&o=&hp=1"
 language: en
 slug: sweet-comfy-apartment
 address: "Sarande Metoq, Sarandë, Albania"

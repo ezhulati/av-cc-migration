@@ -1,7 +1,7 @@
 ---
 title: "Eglent's tourist house"
 description: "Eglent's Tourist House emerges as a charming retreat in the vibrant heart of Sarandë, merely a stone's throw away from the serene La Petite and Maestral Beaches."
-featuredImage: "/images/accommodation/eglent-s-tourist-house-154156007.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154156007.jpg?k=6f882f25a132ba24c52ea4b2844b9200acb25cc344b1af298886eb5b9b2ebf2d&o=&hp=1"
 language: en
 slug: eglent-s-tourist-house
 address: "Rruga Skënderbeu 0695434201, 9703 Sarandë, Albania"

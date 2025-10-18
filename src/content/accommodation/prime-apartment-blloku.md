@@ -1,7 +1,7 @@
 ---
 title: "Prime Apartment Blloku"
 description: "Prime Apartment Blloku emerges as a distinguished choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/prime-apartment-blloku-528155942.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528155942.jpg?k=c5aaef63f5843a2eeaa97907ecbfd03dd83a4c69c52911ac4e107334ee59b15d&o=&hp=1"
 language: en
 slug: prime-apartment-blloku
 address: "LSI bllok, 1010 Tirana, Albania"

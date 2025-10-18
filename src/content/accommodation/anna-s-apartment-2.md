@@ -1,7 +1,7 @@
 ---
 title: "Anna's Apartment 2"
 description: "Anna's Apartment 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/anna-s-apartment-2-477830974.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477830974.jpg?k=b807c1696ce987da28f7a0f0d52acfe1bf9de1078f81dd97d94c9ac33d4066f4&o=&hp=1"
 language: en
 slug: anna-s-apartment-2
 address: "Rruga Idriz Dollaku Nd 6; H1;, 1004 Tirana, Albania"

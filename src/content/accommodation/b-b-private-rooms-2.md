@@ -1,7 +1,7 @@
 ---
 title: "B&B - Private rooms 2"
 description: "B&B - Private Rooms 2 emerges as a charming choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/b-b-private-rooms-2-461829996.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461829996.jpg?k=c12fc92594cb4f68e403868c7fc08ea397aa36e93995468f205522c4898017d5&o=&hp=1"
 language: en
 slug: b-b-private-rooms-2
 address: "Rruga Thoma Filipeu Pallati JON92, shkalla 1, appartamenti 24, Kati 5, 1001 Tirana, Albania"

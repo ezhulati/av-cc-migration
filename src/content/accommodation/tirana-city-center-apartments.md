@@ -1,7 +1,7 @@
 ---
 title: "Tirana city center Apartments"
 description: "Tirana City Center Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/tirana-city-center-apartments-480937885.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480937885.jpg?k=b9a1854173f6c6af2af8f6bac14e4ba5714f562737ea1012906b0eea92f4e4b8&o=&hp=1"
 language: en
 slug: tirana-city-center-apartments
 address: "Rruga e Durrësit, 1001 Tirana, Albania"

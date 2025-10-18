@@ -1,7 +1,7 @@
 ---
 title: "Lovely duplex apartment with patio, 100m from the beach!"
 description: "Discover the charm of Vlorë with a stay at this captivating duplex apartment, situated a mere stone's throw away from the pristine shores of Vlore Beach."
-featuredImage: "/images/accommodation/lovely-duplex-apartment-with-patio-100m-from-the-beach-467268871.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467268871.jpg?k=39c7a9bbdb86d25eaa872a3ca1a7ba1bc41b679ab36d187a430b855561a1f095&o=&hp=1"
 language: en
 slug: lovely-duplex-apartment-with-patio-100m-from-the-beach
 address: "Rruga Dhimitër Konomi, Vlorë, Albania"

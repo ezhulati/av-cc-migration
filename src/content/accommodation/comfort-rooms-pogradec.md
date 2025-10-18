@@ -1,7 +1,7 @@
 ---
 title: "Comfort Rooms Pogradec"
 description: "Comfort Rooms Pogradec emerges as a serene seafront haven in the picturesque town of Pogradec, boasting unparalleled views of the lake and lush gardens."
-featuredImage: "/images/accommodation/comfort-rooms-pogradec-471398603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471398603.jpg?k=c8576de846809e0f984e44b31f7b3ff72589aec25cb0bbce9d3ef1ac91f88948&o=&hp=1"
 language: en
 slug: comfort-rooms-pogradec
 address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"

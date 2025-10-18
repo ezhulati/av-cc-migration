@@ -1,7 +1,7 @@
 ---
 title: "Alb's Apartment 2"
 description: "Alb's Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in Golem, offering a blend of modern amenities and prime location."
-featuredImage: "/images/accommodation/alb-s-apartment-2-photo.jpg64.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-uywI9kGXC6U/AAAAAAAAAAI/AAAAAAAAiQk/ZnzPDOeb8As/s96-c/photo.jpg64"
 language: en
 slug: alb-s-apartment-2
 address: "Rruga Kompleksit, 1000 Golem, Albania"

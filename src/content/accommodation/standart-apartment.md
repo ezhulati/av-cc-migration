@@ -1,7 +1,7 @@
 ---
 title: "Standart apartment"
 description: "Standart Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/standart-apartment-429120158.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429120158.jpg?k=0f0744ebfe26a8b158009aa3875745d6756bd454332ff1f0cd458e52fa1e706b&o=&hp=1"
 language: en
 slug: standart-apartment
 address: "Lagja 13,rruga Butrinti,Plazh Durres, Durrës, Albania"

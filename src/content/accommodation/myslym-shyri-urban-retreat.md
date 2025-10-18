@@ -1,7 +1,7 @@
 ---
 title: "Myslym Shyri Urban Retreat"
 description: "Myslym Shyri Urban Retreat emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/myslym-shyri-urban-retreat-473226924.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473226924.jpg?k=9238b9115597ed02046e04e46f9042c500541fa0ec2e05ec2d0811a6fb85713c&o=&hp=1"
 language: en
 slug: myslym-shyri-urban-retreat
 address: "Rruga Myslym Shyri, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nuestra Casa"
 description: "Nuestra Casa emerges as a serene oasis in the vibrant heart of Tirana, offering a unique blend of comfort and convenience for travelers seeking an authentic Albanian experience."
-featuredImage: "/images/accommodation/nuestra-casa-481994346.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481994346.jpg?k=3e77bac48c24cbe676a36b13d9801af65f0880267dbe8cbff83b3c768a645463&o=&hp=1"
 language: en
 slug: nuestra-casa
 address: "Rruga Bilal Golemi ndertesa 28 hyrja 5, 1060 Tirana, Albania"

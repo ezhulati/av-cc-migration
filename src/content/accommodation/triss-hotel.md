@@ -1,7 +1,7 @@
 ---
 title: "Triss Hotel"
 description: "Triss Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/triss-hotel-415157811.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/415157811.jpg?k=0bd847fbba1d6e7218b0f497f42578d01c4f156ad729e90b755f7f57a40043a5&o=&hp=1"
 language: en
 slug: triss-hotel
 address: "Rruga Brigada VIII, 1019 Tirana, Albania"

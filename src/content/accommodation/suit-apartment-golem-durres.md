@@ -1,7 +1,7 @@
 ---
 title: "Suit Apartment Golem, Durres"
 description: "Suit Apartment Golem, Durres, emerges as a serene retreat in the vibrant heart of Golem, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/suit-apartment-golem-durres-485225432.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485225432.jpg?k=8f2fde365a7fa7c33ab9be56709dea21a948f013af4451229bb432fc2ff1aad4&o=&hp=1"
 language: en
 slug: suit-apartment-golem-durres
 address: "Rruga Ismail Qemali 4th floor, Golem, Albania"

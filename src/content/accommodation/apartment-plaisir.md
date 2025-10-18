@@ -1,7 +1,7 @@
 ---
 title: "Apartment Plaisir"
 description: "Apartment Plaisir stands as a prime beachfront destination in Pogradec, offering a seamless blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "/images/accommodation/apartment-plaisir-161902619.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/161902619.jpg?k=c21f11326c127cd9e256c06345e250633de0a9a78486acba7f1feaafe4891428&o=&hp=1"
 language: en
 slug: apartment-plaisir
 address: "Rruga 10 Deshmoret e Pojskes, 7300 Pogradec, Albania"

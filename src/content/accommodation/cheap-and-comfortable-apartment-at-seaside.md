@@ -1,7 +1,7 @@
 ---
 title: "CHEAP AND COMFORTABLE APARTMENT AT SEASIDE"
 description: "CHEAP AND COMFORTABLE APARTMENT AT SEASIDE emerges as a prime choice for travelers seeking a blend of convenience and leisure in Vlorë, a stone's throw away from the pristine Vlore Beach and a brief stroll from Ri Beach."
-featuredImage: "/images/accommodation/cheap-and-comfortable-apartment-at-seaside-465930558.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465930558.jpg?k=c71dc026ad53844e6b80e7ea720cca32d5619561014153ba59824ebcc76b6b40&o=&hp=1"
 language: en
 slug: cheap-and-comfortable-apartment-at-seaside
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

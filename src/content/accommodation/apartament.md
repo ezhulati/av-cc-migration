@@ -1,7 +1,7 @@
 ---
 title: "Apartament"
 description: "Discover the charm of Lezhë with a stay at Apartament, a prime choice for travelers seeking comfort and convenience mere steps from Shëngjin Beach."
-featuredImage: "/images/accommodation/apartament-527736364.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527736364.jpg?k=afd07f61ab3d273e2da087b7e1ec61c08e4d29f8ea6fdf9ba0cd487c3d7117a5&o=&hp=1"
 language: en
 slug: apartament
 address: "Rruga Shëngjin - Kune, Lezhë, Albania"

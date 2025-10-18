@@ -1,7 +1,7 @@
 ---
 title: "Pine Apartment Tirana"
 description: "Pine Apartment Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/pine-apartment-tirana-490022351.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490022351.jpg?k=ff1084e1d29cf1b90d99225889e18e8d4a8a26c847cffe6ab7e443f3ae36a1de&o=&hp=1"
 language: en
 slug: pine-apartment-tirana
 address: "Rruga Sandër Prosi 4th floor, 1001 Tirana, Albania"

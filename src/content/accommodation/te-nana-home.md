@@ -1,7 +1,7 @@
 ---
 title: "Te Nana Home"
 description: "Te Nana Home stands out as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/te-nana-home-476569958.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476569958.jpg?k=b17af4487f85027653616a1133fd924757c9cd1f8c0412b66327441cc0483f7f&o=&hp=1"
 language: en
 slug: te-nana-home
 address: "Rruga Berdicej, 4001 Shkodër, Albania"

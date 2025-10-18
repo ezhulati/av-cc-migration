@@ -1,7 +1,7 @@
 ---
 title: "Swallow Nest"
 description: "Swallow Nest emerges as a refreshing retreat in Durrës, boasting a prime location that effortlessly combines the serenity of Durres Beach and Shkëmbi i Kavajës Beach with the convenience of modern living."
-featuredImage: "/images/accommodation/swallow-nest-430563762.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430563762.jpg?k=a0fd5451b864b012899fa3a57d188f6f9672b2ef4253b1ee2152466f394e1ffa&o=&hp=1"
 language: en
 slug: swallow-nest
 address: "Rruga Pavaresia, 2007 Durrës, Albania"

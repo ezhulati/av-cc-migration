@@ -1,7 +1,7 @@
 ---
 title: "Isea Wood Villa"
 description: "Isea Wood Villa emerges as a premier choice for travelers seeking a blend of luxury and privacy in the picturesque locale of Rrushkull."
-featuredImage: "/images/accommodation/isea-wood-villa-333427775.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333427775.jpg?k=7642f37b2739ca432728d74ec4b99feed6f3fd3aec934fc94bac6cc6c6c6dfc6&o=&hp=1"
 language: en
 slug: isea-wood-villa
 address: "rruga \"Deti\", 2010 Rrushkull, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Velipoj Appartamento"
 description: "Velipoj Appartamento presents an exceptional stay experience in Velipojë, standing out with its prime beachfront location and breathtaking views."
-featuredImage: "/images/accommodation/velipoj-appartamento-208065082.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/208065082.jpg?k=605ecd32060d592e9505552715c47849da5fd54e674e17443be3a0318157cb3a&o=&hp=1"
 language: en
 slug: velipoj-appartamento
 address: "Velipoja Grand Europa Resort pulaj, 4020 Velipojë, Albania"

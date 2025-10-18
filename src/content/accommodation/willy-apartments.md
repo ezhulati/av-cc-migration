@@ -1,7 +1,7 @@
 ---
 title: "Willy Apartments"
 description: "Willy Apartments emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/willy-apartments-376790539.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376790539.jpg?k=3ba8b0a8258e8f7b491d425263aa270d6f04efc2269486fa4444da8dc2086388&o=&hp=1"
 language: en
 slug: willy-apartments
 address: "Rruga e Hidrovorit, 4020 Velipojë, Albania"

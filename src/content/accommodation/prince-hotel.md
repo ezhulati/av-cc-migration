@@ -1,7 +1,7 @@
 ---
 title: "Prince Hotel"
 description: "Established in 2010, Prince Hotel stands as a contemporary oasis, effortlessly fusing modern indulgences with unrivaled accessibility."
-featuredImage: "/images/accommodation/prince-hotel-368072552.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368072552.jpg?k=49ef435f33a8cbb7bb3d2cc065e1dffe088e60ea7e9c97d246ccc0baab8d8c49&o=&hp=1"
 language: en
 slug: prince-hotel
 address: "Rruga Kastriotet, 1001 Tirana, Albania"

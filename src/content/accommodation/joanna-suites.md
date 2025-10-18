@@ -1,7 +1,7 @@
 ---
 title: "Joanna Suites"
 description: "Joanna Suites emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë, merely a stone's throw away from the pristine Saranda City Beach."
-featuredImage: "/images/accommodation/joanna-suites-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: joanna-suites
 address: "Road Teki Haderi, 9701 Sarandë, Albania"

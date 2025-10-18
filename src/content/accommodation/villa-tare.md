@@ -1,7 +1,7 @@
 ---
 title: "Villa Tare"
 description: "Villa Tare emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated a mere 200 meters from the inviting sands of Vlore Beach."
-featuredImage: "/images/accommodation/villa-tare-472065966.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472065966.jpg?k=859a753a4ac6803578e76fedf3a0be13cab874052696426b0a39ba161c9ddbef&o=&hp=1"
 language: en
 slug: villa-tare
 address: "Lungo Mare Vlore, 9405 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "MoonShine Apartament"
 description: "MoonShine Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/moonshine-apartament-343799828.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343799828.jpg?k=7779073ef80e6b79bbf45438c47a145b231ef98f82a1a92e1f1ab7edd0db1c7d&o=&hp=1"
 language: en
 slug: moonshine-apartament
 address: "Rruga e Dibrës, 1057 Tirana, Albania"

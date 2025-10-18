@@ -1,7 +1,7 @@
 ---
 title: "JB Beach Apartment - Durrës"
 description: "JB Beach Apartment - Durrës stands out as a prime choice for travelers seeking a serene beachfront retreat in Durrës."
-featuredImage: "/images/accommodation/jb-beach-apartment-durr-s-ALm5wu39-VGL.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ALm5wu39-VGL37oWAmQ2oQNV3AfsrHNTeyRNwjSDsQdF_g=s96-c64"
 language: en
 slug: jb-beach-apartment-durr-s
 address: "7GJ6+PXR, Durrës 2001, Albánie, Durrës, Albania"

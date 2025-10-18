@@ -1,7 +1,7 @@
 ---
 title: "Friendly Apartment"
 description: "Discover the charm of Shkodër with a stay at Friendly Apartment, a gem located just 48 km from the Port of Bar."
-featuredImage: "/images/accommodation/friendly-apartment-282846170.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/282846170.jpg?k=9d0806042ed77f78e9f9a65661cd5d5bb7d7a51af215de008003afab5eb300f4&o=&hp=1"
 language: en
 slug: friendly-apartment
 address: "Rruga Daut Borici, Shkodër, Albania"

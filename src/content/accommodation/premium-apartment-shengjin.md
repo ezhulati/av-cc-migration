@@ -1,7 +1,7 @@
 ---
 title: "Premium Apartment Shengjin"
 description: "Premium Apartment Shengjin emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Shëngjin."
-featuredImage: "/images/accommodation/premium-apartment-shengjin-459246177.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459246177.jpg?k=caf32c7d454e10aaf23f1ff3a4dddf1f164fef3aca1bef2b7eceb0d35129eca1&o=&hp=1"
 language: en
 slug: premium-apartment-shengjin
 address: "Rruga Lezhë - Shëngjin, 4503 Shëngjin, Albania"

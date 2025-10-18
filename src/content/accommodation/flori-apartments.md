@@ -1,7 +1,7 @@
 ---
 title: "Flori Apartments"
 description: "Flori Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/flori-apartments-b47cd0e05ec8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/identity/profile/b47cd0e05ec8b7831167f4f7593ead56402a6bb4.svg"
 language: en
 slug: flori-apartments
 address: "Rruga Teki Hadëri Lagjja Nr. 1 Pallati 7 Katësh, 9701 Sarandë, Albania"

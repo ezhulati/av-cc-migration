@@ -1,7 +1,7 @@
 ---
 title: "White Sea View Apartment Velipoje"
 description: "White Sea View Apartment Velipoje emerges as a serene retreat in the vibrant heart of Velipojë, a mere stone's throw away from the pristine Velipoja Beach and within a comfortable distance from the historic Rozafa Castle Shkodra."
-featuredImage: "/images/accommodation/white-sea-view-apartment-velipoje-439789311.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439789311.jpg?k=2c769f9259b10254e8565df9bf27dd8ad1c6f3ad83902a5f474e8ce90a5e3e67&o=&hp=1"
 language: en
 slug: white-sea-view-apartment-velipoje
 address: "Pulaj-Plazh, 4001 Velipojë, Albania"

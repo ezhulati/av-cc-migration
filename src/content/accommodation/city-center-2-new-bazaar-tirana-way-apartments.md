@@ -1,7 +1,7 @@
 ---
 title: "City Center 2 (New Bazaar) - Tirana Way Apartments"
 description: "City Center 2 (New Bazaar) - Tirana Way Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-2-new-bazaar-tirana-way-apartments-342223426.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342223426.jpg?k=91c9a2cf8bb44b9b7ebb263d2e69918ab706e17dce53ad4b60752d49b7a023ed&o=&hp=1"
 language: en
 slug: city-center-2-new-bazaar-tirana-way-apartments
 address: "Rruga Luigj Gurakuqi, 1057 Tirana, Albania"

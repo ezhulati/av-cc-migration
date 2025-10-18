@@ -1,7 +1,7 @@
 ---
 title: "Apartament La Playa Durres"
 description: "Discover the charm of seaside living at Apartament La Playa Durres, a prime beachfront property that stands out for its exceptional location right on the sands of Durres Beach."
-featuredImage: "/images/accommodation/apartament-la-playa-durres-AATXAJw8H0_a.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJw8H0_af_3isWd08594_V5M-Ed_SgKUshNrZ12a=s96-c64"
 language: en
 slug: apartament-la-playa-durres
 address: "Rruga Ura e Dajlanit L.13 Plazh, 2001 Durrës, Albania"

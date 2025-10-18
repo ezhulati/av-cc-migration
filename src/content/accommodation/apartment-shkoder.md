@@ -1,7 +1,7 @@
 ---
 title: "Apartment Shkoder"
 description: "Apartment Shkoder emerges as a serene retreat in the vibrant city of Shkodër, located a mere 48 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/apartment-shkoder-469140546.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469140546.jpg?k=5ffa9ee503d8ea67e3ab721527b7aed1b477b2e582d2679929d61bd643ca1f2d&o=&hp=1"
 language: en
 slug: apartment-shkoder
 address: "Rruga Edith Durham, 4001 Shkodër, Albania"

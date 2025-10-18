@@ -1,7 +1,7 @@
 ---
 title: "Leo's Apartments Tirana City View"
 description: "Leo's Apartments Tirana City View emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/leo-s-apartments-tirana-city-view-406097425.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406097425.jpg?k=980de1183541aa30bb640c6b341b746450e517ef87247c1ae9c3230e968f07aa&o=&hp=1"
 language: en
 slug: leo-s-apartments-tirana-city-view
 address: "Rruga Abdyl Frashëri, 1001 Tirana, Albania"

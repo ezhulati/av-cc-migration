@@ -1,7 +1,7 @@
 ---
 title: "Aparttastic - Apartment by Ujza"
 description: "Discover the charm of Tirana with a stay at Aparttastic - Apartment by Ujza, a modern haven located conveniently close to the city's cultural heart."
-featuredImage: "/images/accommodation/aparttastic-apartment-by-ujza-405761615.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405761615.jpg?k=27e1b1d0cb7142c534ebe23d7b7efa6d847cd784220a9ecb8698d6b50b6f8302&o=&hp=1"
 language: en
 slug: aparttastic-apartment-by-ujza
 address: "Rruga Kostandin Kristoforidhi Floor 7, 1001 Tirana, Albania"

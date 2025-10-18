@@ -1,7 +1,7 @@
 ---
 title: "Endri's apartment near Old Beach Vlore"
 description: "Endri's Apartment near Old Beach Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/endri-s-apartment-near-old-beach-vlore-471520950.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471520950.jpg?k=938c23b59b82e3774c4f9fb052f7eecd32f9a049c804962387115d89ffc57515&o=&hp=1"
 language: en
 slug: endri-s-apartment-near-old-beach-vlore
 address: "vlore Nd. 34/1, H. 12, AP. 46, 9403 Vlorë, Albania"

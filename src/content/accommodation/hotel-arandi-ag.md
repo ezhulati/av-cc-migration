@@ -1,7 +1,7 @@
 ---
 title: "HOTEL ARANDI AG"
 description: "HOTEL ARANDI AG stands out as a serene oasis, situated just a short drive from the heart of Tirana, offering a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/hotel-arandi-ag-355601411.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355601411.jpg?k=4dbe26940b0e2ef21b7b2fd04ced21ccf4a3cef17a75249cc9f06224023bff68&o=&hp=1"
 language: en
 slug: hotel-arandi-ag
 address: "Rruga e Elbasanit Nr.39 , km 5, 1045 Tirana, Albania"

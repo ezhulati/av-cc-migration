@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tradita"
 description: "Discover the charm of Shkodër, one of Albania's most storied cities, through a stay at Hotel Tradita, a boutique hotel that offers more than just a place to rest."
-featuredImage: "/images/accommodation/hotel-tradita-111372968.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/111372968.jpg?k=9377ccd633db53deaee9d8c4522298da2be3aeb5c59424148b1d1a06c000c78d&o=&hp=1"
 language: en
 slug: hotel-tradita
 address: "Street Edit Durham nr 4. , 4001 Shkodër, Albania"

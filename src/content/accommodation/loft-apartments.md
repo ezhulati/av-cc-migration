@@ -1,7 +1,7 @@
 ---
 title: "Loft Apartments"
 description: "Loft Apartments emerges as a prime choice for travelers seeking both comfort and convenience, located just a short 600 meters from the pristine Saranda Bay Beach."
-featuredImage: "/images/accommodation/loft-apartments-383155251.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383155251.jpg?k=96a64300adb91c9715c09f8d95b9dc9ac054e2795416bb3dbd87227911e1afaf&o=&hp=1"
 language: en
 slug: loft-apartments
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

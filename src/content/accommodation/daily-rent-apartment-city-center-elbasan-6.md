@@ -1,7 +1,7 @@
 ---
 title: "Daily rent apartment city center Elbasan 6"
 description: "Daily Rent Apartment City Center Elbasan 6 emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Elbasan."
-featuredImage: "/images/accommodation/daily-rent-apartment-city-center-elbasan-6-419132450.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419132450.jpg?k=0a51eaa14fcf8e83125c74a3fd390153e212b13882bcccea6a192b59da191457&o=&hp=1"
 language: en
 slug: daily-rent-apartment-city-center-elbasan-6
 address: "L“ 28 Nentori“ mbrapa pallatit te sportit „Tomorr Sinani“ Rruga Esat Bordi, 3001 Elbasan, Albania"

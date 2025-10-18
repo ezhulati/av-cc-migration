@@ -1,7 +1,7 @@
 ---
 title: "Limehouse Skanderbeg Square Tirana Center"
 description: "Limehouse Skanderbeg Square Tirana Center emerges as a freshly renovated gem in the heart of Tirana, offering a seamless blend of convenience and comfort."
-featuredImage: "/images/accommodation/limehouse-skanderbeg-square-tirana-center-440832708.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440832708.jpg?k=9d0be8d7c9bd0bbd642ce964bd2fd135d990bd771aa29d64321498ddb52cf55c&o=&hp=1"
 language: en
 slug: limehouse-skanderbeg-square-tirana-center
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

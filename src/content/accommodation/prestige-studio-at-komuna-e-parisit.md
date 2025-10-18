@@ -1,7 +1,7 @@
 ---
 title: "Prestige Studio at Komuna e Parisit"
 description: "Prestige Studio at Komuna e Parisit emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/prestige-studio-at-komuna-e-parisit-AOh14Gir9lbQ.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14Gir9lbQVkyzgwE_YYiYLDyv59r2TShevhAA6PM14w=s96-c64"
 language: en
 slug: prestige-studio-at-komuna-e-parisit
 address: "Rruga Tish Dahia Kompleksi Kika 1, 1001 Tirana, Albania"

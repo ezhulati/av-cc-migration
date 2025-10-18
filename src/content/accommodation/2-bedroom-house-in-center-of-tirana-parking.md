@@ -1,7 +1,7 @@
 ---
 title: "2 Bedroom house in center of Tirana (parking)"
 description: "Discover the charm of Tirana with a stay at the 2 Bedroom House in the heart of the city, a prime choice for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/2-bedroom-house-in-center-of-tirana-parking-478397919.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478397919.jpg?k=a670053d2531877a3a00e21bb49aaf3e824cfec3921e9dd6a35b775304ef2ba8&o=&hp=1"
 language: en
 slug: 2-bedroom-house-in-center-of-tirana-parking
 address: "Rruga Mehmet Brocaj, 1001 Tirana, Albania"

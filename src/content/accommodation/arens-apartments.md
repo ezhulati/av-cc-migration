@@ -1,7 +1,7 @@
 ---
 title: "Arens Apartments"
 description: "Arens Apartments emerges as a prime choice for travelers seeking comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/arens-apartments-480723630.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480723630.jpg?k=d0c0f8ff1045402d4b12e366030c8062dd36bfa35ab47f3e163cf69a43a7f09f&o=&hp=1"
 language: en
 slug: arens-apartments
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

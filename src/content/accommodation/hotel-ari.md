@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ari"
 description: "Discover the charm of Saranda at Hotel Ari, a prime destination for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/hotel-ari-311064195.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311064195.jpg?k=2bcd2d174f96e58442c24926342e2c6dbe3ffc792d3a3820fe6b7595c9f6ff0e&o=&hp=1"
 language: en
 slug: hotel-ari
 address: "Rruga (street) Jonianet 20, 9702 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luka Apartment in Sarande"
 description: "Luka Apartment in Sarande emerges as a prime choice for travelers seeking comfortable, air-conditioned accommodations with the convenience of modern amenities."
-featuredImage: "/images/accommodation/luka-apartment-in-sarande-510987709.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/510987709.jpg?k=633bd5e46aee385fbdce16a4a8555ad76861f3320c181dd2ba25cc8a9697948b&o=&hp=1"
 language: en
 slug: luka-apartment-in-sarande
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

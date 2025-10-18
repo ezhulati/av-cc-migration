@@ -1,7 +1,7 @@
 ---
 title: "Exclusive 2 Bedrooms Apartment"
 description: "Exclusive 2 Bedrooms Apartment in Tirana offers a refreshing oasis for travelers seeking both convenience and comfort."
-featuredImage: "/images/accommodation/exclusive-2-bedrooms-apartment-426887923.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426887923.jpg?k=e7de4269c6677043e9d2b7d1f3ad253b38d577bde92e862f19a0a738f9979aa0&o=&hp=1"
 language: en
 slug: exclusive-2-bedrooms-apartment
 address: "Rruga Hysni Gerbolli Pallati nr 5, kati 2, apartamenti nr 14, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vacation Apartment"
 description: "Vacation Apartment in Durrës emerges as a prime choice for travelers seeking comfort and convenience, mere steps away from the serene Durres Beach and the picturesque Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/vacation-apartment-476435405.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476435405.jpg?k=8058363e535542201eabde6a8b9dbe54661be5595c7112f7a957ed7e1d049b08&o=&hp=1"
 language: en
 slug: vacation-apartment
 address: "L13, 2000 Durrës, Albania"

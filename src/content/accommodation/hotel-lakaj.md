@@ -1,7 +1,7 @@
 ---
 title: "Hotel Lakaj"
 description: "Hotel Lakaj emerges as a distinguished choice for travelers seeking both relaxation and adventure in Velipojë."
-featuredImage: "/images/accommodation/hotel-lakaj-276335878.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276335878.jpg?k=2a78d73911b657a5fe5d6d292121fc69a8379e737072236b7b7d05e243c9a1a9&o=&hp=1"
 language: en
 slug: hotel-lakaj
 address: "plazh velipoje, 4001 Velipojë, Albania"

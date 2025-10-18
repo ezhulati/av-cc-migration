@@ -1,7 +1,7 @@
 ---
 title: "ODA Guest House"
 description: "ODA Guest House emerges as a serene retreat in the heart of Korçë, a mere stone's throw from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/oda-guest-house-234588120.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234588120.jpg?k=4dc0a374c5b7a5944df452495f43ef6414c7a7831ab49378cd3e433df2b9abc3&o=&hp=1"
 language: en
 slug: oda-guest-house
 address: "Rruga Xhavit Dishnica Lagjja 7, Nr. 7, 7001 Korçë, Albania"

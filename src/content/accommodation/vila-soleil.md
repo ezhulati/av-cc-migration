@@ -1,7 +1,7 @@
 ---
 title: "Vila Soleil"
 description: "Vila Soleil stands as a serene oasis in Vlorë, merely a stone's throw away from the pristine Vjetër Beach."
-featuredImage: "/images/accommodation/vila-soleil-378673230.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378673230.jpg?k=a7bf2855a18c8fe8a21524c6570bada71e57b5427182c2c439785f714fea04d7&o=&hp=1"
 language: en
 slug: vila-soleil
 address: "Rruga Sazani Lagjja 1 Maj, 9404 Vlorë, Albania"

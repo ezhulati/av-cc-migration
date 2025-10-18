@@ -1,7 +1,7 @@
 ---
 title: "Mia Marine Rooms"
 description: "Mia Marine Rooms emerges as a distinguished 4-star haven in the heart of Himare, boasting an enviable beachfront location."
-featuredImage: "/images/accommodation/mia-marine-rooms-375796913.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375796913.jpg?k=0720286e2535292816bfb3f611bc77fe41a7b2339d8d4be84b410606a16e9de3&o=&hp=1"
 language: en
 slug: mia-marine-rooms
 address: "Himare Himare, 1022 Himare, Albania"

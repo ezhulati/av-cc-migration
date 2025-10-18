@@ -1,7 +1,7 @@
 ---
 title: "Apartment Villa for 6 person"
 description: "Apartment Villa for 6 person emerges as a prime choice for travelers seeking a serene getaway in the heart of Golem, Tirana County."
-featuredImage: "/images/accommodation/apartment-villa-for-6-person-AOh14GgO4CId.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a-/AOh14GgO4CIdY0HWQx2bTA2t77hpFxRhszje6FSEyMmEtA=s96-c64"
 language: en
 slug: apartment-villa-for-6-person
 address: "Rruga e Fshatrave Turistike, 2504 Golem, Albania"

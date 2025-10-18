@@ -1,7 +1,7 @@
 ---
 title: "Panoramic Vjosa Escapes"
 description: "Panoramic Vjosa Escapes emerges as a serene retreat in the heart of Përmet, boasting an array of amenities designed for the modern traveler."
-featuredImage: "/images/accommodation/panoramic-vjosa-escapes-7eb52a437de4.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-t/7eb52a437de4a380f7666d4a62da6e64294cd321.png"
 language: en
 slug: panoramic-vjosa-escapes
 address: "By the Vjosa River, near the City Stone, 6401 Përmet, Albania"

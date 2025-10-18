@@ -1,7 +1,7 @@
 ---
 title: "Mano' s Place"
 description: "Mano's Place emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/mano-s-place-474216570.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474216570.jpg?k=c43778e331206c36b89d05ab903063f5420929da3fda119ac34b1802b7c9c32b&o=&hp=1"
 language: en
 slug: mano-s-place
 address: "Rruga Bilal Golemi, 1001 Tirana, Albania"

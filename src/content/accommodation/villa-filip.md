@@ -1,7 +1,7 @@
 ---
 title: "Villa Filip"
 description: "Villa Filip, located in the charming village of Vuno, presents a serene retreat for travelers seeking both tranquility and convenience."
-featuredImage: "/images/accommodation/villa-filip-149311986.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/149311986.jpg?k=d651b71592ad85f3df637713c17c369e030a7360dae152fbeeb2654c360fb41b&o=&hp=1"
 language: en
 slug: villa-filip
 address: "Vuno, 9425 Vuno, Albania"

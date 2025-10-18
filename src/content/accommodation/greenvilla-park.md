@@ -1,7 +1,7 @@
 ---
 title: "GreenVilla Park"
 description: "GreenVilla Park emerges as a serene oasis in Durrës, merely 600 meters from the inviting Durres Beach and a scenic 38 km drive from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/greenvilla-park-359085559.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359085559.jpg?k=47307be86b8c14625fc9194b57b93908edbfe30651b3fab364168bf119533393&o=&hp=1"
 language: en
 slug: greenvilla-park
 address: "Rruga Daunia, 2008 Durrës, Albania"

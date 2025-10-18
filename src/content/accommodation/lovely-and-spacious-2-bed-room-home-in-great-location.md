@@ -1,7 +1,7 @@
 ---
 title: "Lovely and spacious 2-bed room home in great location"
 description: "Discover the charm of Vlorë with a stay at the Lovely and Spacious 2-Bedroom Home, perfectly positioned just a stone's throw away from both Vlore Beach and Ri Beach."
-featuredImage: "/images/accommodation/lovely-and-spacious-2-bed-room-home-in-great-location-483947395.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483947395.jpg?k=e9c57c82f9e9fb80a452aa558c50a248bb461662dd8d11dca1251f752c4b14d8&o=&hp=1"
 language: en
 slug: lovely-and-spacious-2-bed-room-home-in-great-location
 address: "Rruga Murat Tërbaçi, 9401 Vlorë, Albania"

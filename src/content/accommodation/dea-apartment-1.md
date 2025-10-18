@@ -1,7 +1,7 @@
 ---
 title: "DEA Apartment 1"
 description: "DEA Apartment 1 emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, positioned just a stone's throw away from Vjetër Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/dea-apartment-1-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: dea-apartment-1
 address: "Rruga Kosova, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "DIORAs Apartment."
 description: "DIORAs Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city, just a kilometer away from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/dioras-apartment-514536007.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/514536007.jpg?k=b1fc11b26e9c5eb3a9736646cf587d936b232e3af37aec77e70e26271108834c&o=&hp=1"
 language: en
 slug: dioras-apartment
 address: "Rruga Haxhi Hysen Dalliu, 1001 Tirana, Albania"

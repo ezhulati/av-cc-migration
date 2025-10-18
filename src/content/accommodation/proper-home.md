@@ -1,7 +1,7 @@
 ---
 title: "Proper Home"
 description: "Proper Home emerges as a serene retreat in the historic heart of Gjirokastër, boasting a balcony-adorned accommodation that promises both privacy and panoramic views."
-featuredImage: "/images/accommodation/proper-home-467875095.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467875095.jpg?k=2d73dc1fd1914681f20d2bb0fd6daf7e95eccb55cb4b7f160480b798e708fc4b&o=&hp=1"
 language: en
 slug: proper-home
 address: "Rruga Alqi Kondi, 6001 Gjirokastër, Albania"

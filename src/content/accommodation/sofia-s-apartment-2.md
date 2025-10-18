@@ -1,7 +1,7 @@
 ---
 title: "Sofia's apartment 2"
 description: "Sofia's Apartment 2 emerges as a prime choice for travelers seeking a serene retreat in Pogradec, strategically positioned to offer easy access to the region's most captivating landmarks."
-featuredImage: "/images/accommodation/sofia-s-apartment-2-486149469.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486149469.jpg?k=afe5b66156cd7b938d40478c1a3dbe9018009b61264000f16508392d758d558e&o=&hp=1"
 language: en
 slug: sofia-s-apartment-2
 address: "Mentor zagalani, Pogradec, Albania"

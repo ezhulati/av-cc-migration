@@ -1,7 +1,7 @@
 ---
 title: "Glam Apartments"
 description: "Glam Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/glam-apartments-378001559.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378001559.jpg?k=393e028a7ca1dd6e529a8756162b56a0167cd6c6297a8c865c9d7945e13c233a&o=&hp=1"
 language: en
 slug: glam-apartments
 address: "Rruga Jusuf Myzyri Plazh Durres, Durrës, Albania"

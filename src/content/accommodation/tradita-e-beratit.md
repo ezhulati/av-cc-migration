@@ -1,7 +1,7 @@
 ---
 title: "Tradita e Beratit"
 description: "Tradita e Beratit stands out as a distinguished 4-star hotel in Berat, offering guests an exceptional stay with its comprehensive amenities and services."
-featuredImage: "/images/accommodation/tradita-e-beratit-362617866.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362617866.jpg?k=358594a9902fe9c99dc53e189747bd570ce6c48576daba100a5e5620a11c2b36&o=&hp=1"
 language: en
 slug: tradita-e-beratit
 address: "Rruga Stiliano Bandilli, 5001 Berat, Albania"

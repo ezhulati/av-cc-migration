@@ -1,7 +1,7 @@
 ---
 title: "Studio Apartments Villa 24"
 description: "Studio Apartments Villa 24 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/studio-apartments-villa-24-333994863.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333994863.jpg?k=0ce6324b50d19ab4a0d932a45afe6e3ae189a0284ecd6288ee67fad501d3d700&o=&hp=1"
 language: en
 slug: studio-apartments-villa-24
 address: "24 Rruga Sotir Kolea, 1001 Tirana, Albania"

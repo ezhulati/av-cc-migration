@@ -1,7 +1,7 @@
 ---
 title: "Selvi apartment"
 description: "Selvi Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/selvi-apartment-524493375.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524493375.jpg?k=a8131a9a2c40b3915c61afad66ff814b0e30e061b8d075938c30136f7fcb8a12&o=&hp=1"
 language: en
 slug: selvi-apartment
 address: "Rruga Zyber Preza, 1000 Tirana, Albania"

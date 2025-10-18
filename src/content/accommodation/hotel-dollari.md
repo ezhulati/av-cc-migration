@@ -1,7 +1,7 @@
 ---
 title: "Hotel Dollari"
 description: "Discover the charm of Hotel Dollari, a gem that offers guests their slice of paradise with its private beach access complete with water sports facilities."
-featuredImage: "/images/accommodation/hotel-dollari-193945028.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193945028.jpg?k=256474d263ea655382a3fdc52ee4117021e46fc090f99038a7fa28738edefc65&o=&hp=1"
 language: en
 slug: hotel-dollari
 address: "Lagjja 13, Shkembi i Kavajes, Plazh Durrës, 1001 Durrës, Albania"

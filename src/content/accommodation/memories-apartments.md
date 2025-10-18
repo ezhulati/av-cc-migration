@@ -1,7 +1,7 @@
 ---
 title: "Memories Apartments"
 description: "Memories Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/memories-apartments-460534208.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460534208.jpg?k=8583868262dd69296d8a8e8e1fe950dffb4e367932378bd53f153e08f790456b&o=&hp=1"
 language: en
 slug: memories-apartments
 address: "Rruga Onhezmi, 9702 Sarandë, Albania"

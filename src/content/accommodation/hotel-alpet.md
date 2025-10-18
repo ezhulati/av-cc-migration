@@ -1,7 +1,7 @@
 ---
 title: "Hotel Alpet"
 description: "Hotel Alpet, strategically positioned just 14 km from the bustling heart of Tirana and a mere 300 meters from Tirana Airport, stands out as a beacon of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/hotel-alpet-102455294.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102455294.jpg?k=eaf1429285ee3a387d1d6f0233002bbb2351bdf178d560464656a3381129b67b&o=&hp=1"
 language: en
 slug: hotel-alpet
 address: "Rruga e Aeroportit, 1001 Rinas, Albania"

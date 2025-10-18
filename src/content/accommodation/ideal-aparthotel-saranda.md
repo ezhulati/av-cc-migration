@@ -1,7 +1,7 @@
 ---
 title: "Ideal ApartHotel Saranda"
 description: "Ideal ApartHotel Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/ideal-aparthotel-saranda-258903903.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/258903903.jpg?k=526bd468e4fc597e4eec19b560d641ba07d2e786ade8e9d11f8a3dedc2b912d2&o=&hp=1"
 language: en
 slug: ideal-aparthotel-saranda
 address: "Thoma Lul, 9702 Sarandë, Albania"

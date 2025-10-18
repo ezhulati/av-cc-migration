@@ -1,7 +1,7 @@
 ---
 title: "Luxury home"
 description: "Luxury Home stands out as a premier destination for travelers seeking comfort and convenience in Golem."
-featuredImage: "/images/accommodation/luxury-home-350087305.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350087305.jpg?k=f37703c78d534507e776e2f81ab7b9dfcde8046f542d866d8d7ec70f5b3a9c06&o=&hp=1"
 language: en
 slug: luxury-home
 address: "Rruga Kompleksit, Golem, Albania"

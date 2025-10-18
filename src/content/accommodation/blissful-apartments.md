@@ -1,7 +1,7 @@
 ---
 title: "Blissful Apartments"
 description: "Blissful Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/blissful-apartments-AItbvmmifnA1.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AItbvmmifnA1Yho46uXYFn8xpUoNFOuuhxOyjclUx6le=s96-c64"
 language: en
 slug: blissful-apartments
 address: "Rruga Teki Haderi Lagjia nr.1 Pallati 7 Katesh, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Inada Hotel Ksamil"
 description: "Inada Hotel Ksamil emerges as a prime choice for travelers seeking comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/inada-hotel-ksamil-263355280.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263355280.jpg?k=80288dba84fe19d38ef806f61a94ce9808879f5273bd0a5e6d60fed44eb8c777&o=&hp=1"
 language: en
 slug: inada-hotel-ksamil
 address: "RRUGA ALI PASHA TEPELENA, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "NEW Brilant Apartment"
 description: "Discover the charm of Tirana with a stay at NEW Brilant Apartment, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/new-brilant-apartment-443657773.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443657773.jpg?k=92e2368d50f3154347211e98cfd418ff0d611ab64e3fb59ebffb5904d19e2b86&o=&hp=1"
 language: en
 slug: new-brilant-apartment
 address: "Rruga Ramazan Bogdani, Kompleksi Siri 2 Godina 1, Kati 2, Apartament nr. 10209, 1017 Tirana, Albania"

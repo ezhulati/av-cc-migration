@@ -1,7 +1,7 @@
 ---
 title: "Brilant Apartament"
 description: "Brilant Apartament emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/brilant-apartament-503431855.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503431855.jpg?k=ffef3dab9d3ac5f26e9a968d066fe8a69fa70c7614a95bec7f9093a2eda62c77&o=&hp=1"
 language: en
 slug: brilant-apartament
 address: "Rruga Abdurrahim Buza Nd.43 Njesia Administrative Nr. 8 ,1017, 0043 Tirana, Albania"

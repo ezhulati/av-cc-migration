@@ -1,7 +1,7 @@
 ---
 title: "Center Vila 8 Kruje"
 description: "Center Vila 8 Kruje emerges as a serene retreat, offering guests a unique blend of comfort and scenic beauty, just a stone's throw away from Skanderbeg Square."
-featuredImage: "/images/accommodation/center-vila-8-kruje-466147718.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466147718.jpg?k=55165b5a764dd9240ff74c20e5e0a7174f75b7ca59199742d4109fa4fc7676f1&o=&hp=1"
 language: en
 slug: center-vila-8-kruje
 address: "Rruga Nënë Tereza, 1501 Krujë, Albania"

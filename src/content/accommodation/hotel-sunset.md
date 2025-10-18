@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sunset"
 description: "Hotel Sunset emerges as a prime choice for travelers seeking comfort and convenience, with its prime location just 60 meters from Shëngjin Beach and a short stroll from Ylberi Beach."
-featuredImage: "/images/accommodation/hotel-sunset-458536077.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458536077.jpg?k=5db78808b160d8e5c87ab76ad5f7e94f9e4d86244be6b158028a61d81a90cbd6&o=&hp=1"
 language: en
 slug: hotel-sunset
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

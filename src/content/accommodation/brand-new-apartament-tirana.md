@@ -1,7 +1,7 @@
 ---
 title: "Brand New Apartament Tirana"
 description: "Brand New Apartment Tirana emerges as a modern haven for travelers seeking the comfort of air-conditioned spaces complemented by the charm of city views from a private balcony."
-featuredImage: "/images/accommodation/brand-new-apartament-tirana-524276819.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524276819.jpg?k=1ab86a309ac217c766a8737d118b3d4f9c1d9770ba7c352a7ef3c5466277bdbe&o=&hp=1"
 language: en
 slug: brand-new-apartament-tirana
 address: "Rruga Fortuzi, 1001 Tirana, Albania"

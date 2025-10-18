@@ -1,7 +1,7 @@
 ---
 title: "The Station Apartments - Durrës"
 description: "The Station Apartments in Durrës emerges as a prime choice for travelers seeking comfort and convenience, located just a short distance from the serene Durres Beach and the picturesque Currila Beach."
-featuredImage: "/images/accommodation/the-station-apartments-durr-s-477004231.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477004231.jpg?k=07f9b58807c9dbaae710f59055d13451bee9ecb6f1f511a9d51832d5552b1284&o=&hp=1"
 language: en
 slug: the-station-apartments-durr-s
 address: "Rruga Ahmet Dakli, 1000 Durrës, Albania"

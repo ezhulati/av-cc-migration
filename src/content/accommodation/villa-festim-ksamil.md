@@ -1,7 +1,7 @@
 ---
 title: "Villa Festim Ksamil"
 description: "Villa Festim Ksamil emerges as a serene oasis less than a kilometer from the pristine shores of Sunset Beach, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/villa-festim-ksamil-523416203.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523416203.jpg?k=291628a8bc373e5c83ac27c015a61d4ed8d4d464d7605b0622f42a8321a490e3&o=&hp=1"
 language: en
 slug: villa-festim-ksamil
 address: "Rruga Tafil Buzi Ksamil Sarandë Nr 44, 9706 Ksamil, Albania"

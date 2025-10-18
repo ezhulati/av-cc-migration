@@ -1,7 +1,7 @@
 ---
 title: "Sea Pearl Apartment"
 description: "Sea Pearl Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from Vjetër Beach and within easy reach of Vlore Beach."
-featuredImage: "/images/accommodation/sea-pearl-apartment-486038816.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486038816.jpg?k=939ac5e9db045b51f7ebdcbb20b53f5cce45f471c3e96269886c082b3f5526f9&o=&hp=1"
 language: en
 slug: sea-pearl-apartment
 address: "Sea Pearl Apartment, 40.452392, 19.486806, Vlorë 9401, Albania piano 12, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bahamas"
 description: "Discover the serene oasis of Hotel Bahamas, a charming retreat perched on the edge of a private pebbly beach just a stone's throw from the vibrant town of Sarandë."
-featuredImage: "/images/accommodation/hotel-bahamas-205989806.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205989806.jpg?k=b69cf697fadbf44c58c02d2928b4cc8ac2eb675c6a95aa22fcbd974ef0e61c76&o=&hp=1"
 language: en
 slug: hotel-bahamas
 address: "Turizem - Kanali Cukes, 9703 Sarandë, Albania"

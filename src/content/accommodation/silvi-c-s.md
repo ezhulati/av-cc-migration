@@ -1,7 +1,7 @@
 ---
 title: "Silvi C&S"
 description: "Silvi C&S emerges as a distinguished choice for travelers seeking comfort and convenience in Fier."
-featuredImage: "/images/accommodation/silvi-c-s-382898260.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382898260.jpg?k=d2759ec7dd6096348a0208509990ec02615937acd4c77aba0cfc45e11c3104ff&o=&hp=1"
 language: en
 slug: silvi-c-s
 address: "Fier , Koferenca e Pezes, 9302 Fier, Albania"

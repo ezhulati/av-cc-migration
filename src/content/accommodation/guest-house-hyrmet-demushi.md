@@ -1,7 +1,7 @@
 ---
 title: "Guest house Hyrmet Demushi"
 description: "Guest House Hyrmet Demushi in Valbonë stands out for its breathtaking mountain views."
-featuredImage: "/images/accommodation/guest-house-hyrmet-demushi-314914907.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/314914907.jpg?k=c281809a5543f0f2d412913bd8cf7275ef24f1c456351cf2a8bc459829bd1d13&o=&hp=1"
 language: en
 slug: guest-house-hyrmet-demushi
 address: "Rruga Azem Hajdari, 8702 Valbonë, Albania"

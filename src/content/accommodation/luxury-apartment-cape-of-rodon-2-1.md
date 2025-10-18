@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment Cape of Rodon 2.1"
 description: "Luxury Apartment Cape of Rodon 2."
-featuredImage: "/images/accommodation/luxury-apartment-cape-of-rodon-2-1-484581919.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484581919.jpg?k=d72ba5540aff0fb3911f764504f710530791d38e25843080dd17566db6abce91&o=&hp=1"
 language: en
 slug: luxury-apartment-cape-of-rodon-2-1
 address: "Rruga Kepi i Rodonit, 2001 Shetaj, Albania"

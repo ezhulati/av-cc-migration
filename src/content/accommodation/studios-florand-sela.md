@@ -1,7 +1,7 @@
 ---
 title: "Studios Florand Sela"
 description: "Studios Florand Sela emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking mountain and sea views."
-featuredImage: "/images/accommodation/studios-florand-sela-140837038.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140837038.jpg?k=e9160d499576c4d3fc3b0e83df56ec0aff8cfe01f3023e90b2507f3abc25f8cf&o=&hp=1"
 language: en
 slug: studios-florand-sela
 address: "RRUGA'' ALI PASHE TEPELENA'' NR 10, 9706 Ksamil, Albania"

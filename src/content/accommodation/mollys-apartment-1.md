@@ -1,7 +1,7 @@
 ---
 title: "Mollys apartment 1"
 description: "Molly's Apartment 1 emerges as a prime choice for travelers seeking comfort and convenience in Pogradec."
-featuredImage: "/images/accommodation/mollys-apartment-1-524254141.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524254141.jpg?k=968532c8dcb5deccce35bd997d0e24af7816b0797777206bb21cf878fe530f34&o=&hp=1"
 language: en
 slug: mollys-apartment-1
 address: "Rruga Fan S. Noli 176 kati 3, 7301 Pogradec, Albania"

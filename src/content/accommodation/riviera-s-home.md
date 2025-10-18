@@ -1,7 +1,7 @@
 ---
 title: "Riviera’s home"
 description: "Riviera’s Home stands as a prime beachfront gem in Vlorë, offering a serene escape with its prime location just a stone's throw away from Vjetër Beach and within easy reach of the city's vibrant heart, including Vlore Beach and Independence Square."
-featuredImage: "/images/accommodation/riviera-s-home-488488547.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488488547.jpg?k=97e6140bd77d09e2907196724ecaa4323177c90d102e2fe12c61c8b865e6037e&o=&hp=1"
 language: en
 slug: riviera-s-home
 address: "Rruga Irakli Pylli 5, Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lake View City Apartments"
 description: "Lake View City Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lake-view-city-apartments-505567034.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505567034.jpg?k=7dceee5a3764e9a9fe78662e5858ec5a748575af95a8f5d76925124313f2918e&o=&hp=1"
 language: en
 slug: lake-view-city-apartments
 address: "Rruga Lidhja e Prizrenit, 1000 Tirana, Albania"

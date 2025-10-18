@@ -1,7 +1,7 @@
 ---
 title: "Vienna Residence 122"
 description: "Vienna Residence 122 emerges as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/vienna-residence-122-401169030.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401169030.jpg?k=b789e2b21d983db1843bf878ca824e70c0563eaf53016f869d92974d68bdfe68&o=&hp=1"
 language: en
 slug: vienna-residence-122
 address: "Rruga 3 Heronjtë apartment number 2, 4001 Shkodër, Albania"

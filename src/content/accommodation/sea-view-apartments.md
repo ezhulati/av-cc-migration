@@ -1,7 +1,7 @@
 ---
 title: "Sea view Apartments"
 description: "Sea View Apartments emerges as a serene haven for travelers seeking the perfect blend of comfort and scenic beauty, located just a stone's throw away from the pristine Beach at Government Villas."
-featuredImage: "/images/accommodation/sea-view-apartments-528141029.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528141029.jpg?k=925c0e6403bab479383944ff5c2ef29d05ad1abb2fad5eabc87022a286235288&o=&hp=1"
 language: en
 slug: sea-view-apartments
 address: "Rruga Pano Xhaho, 9405 Vlorë, Albania"

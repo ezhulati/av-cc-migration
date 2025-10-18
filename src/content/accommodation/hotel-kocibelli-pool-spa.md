@@ -1,7 +1,7 @@
 ---
 title: "Hotel Kocibelli POOL & SPA"
 description: "Hotel Kocibelli POOL & SPA stands as a beacon of comfort and convenience in the heart of Korçë, offering guests an exceptional blend of traditional Albanian hospitality and modern amenities."
-featuredImage: "/images/accommodation/hotel-kocibelli-pool-spa-506645353.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506645353.jpg?k=014c5adfd983be26acad7f4f0bfaae452a822720b67a7f6e686008b2d6ee4536&o=&hp=1"
 language: en
 slug: hotel-kocibelli-pool-spa
 address: "Boulevard Shen Gjergji, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Roots Korçë"
 description: "Roots Korçë emerges as a standout accommodation choice for travelers exploring the enchanting city of Korçë, situated merely 44 km from the serene Ohrid Lake Springs and a close 43 km from the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/roots-kor-519540236.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519540236.jpg?k=b652b3644435a809939b2f4a23d6fa70178437921cb5c75365ab5b685fd608f6&o=&hp=1"
 language: en
 slug: roots-kor
 address: "Rruga Iljaz Bej Mirahori, Korçë, Albania"

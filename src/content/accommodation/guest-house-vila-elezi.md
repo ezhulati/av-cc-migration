@@ -1,7 +1,7 @@
 ---
 title: "GUEST HOUSE VILA ELEZI"
 description: "GUEST HOUSE VILA ELEZI emerges as a charming choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/guest-house-vila-elezi-380696949.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380696949.jpg?k=9708aeb12300f221b3c26fd7486012700fd76d62e75e2e83b69ac33d79f81c32&o=&hp=1"
 language: en
 slug: guest-house-vila-elezi
 address: "Rruga e Zanave, 2001 Durrës, Albania"

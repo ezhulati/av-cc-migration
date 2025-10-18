@@ -1,7 +1,7 @@
 ---
 title: "Allonia House"
 description: "Allonia House stands as a serene retreat in Himare, a mere 2."
-featuredImage: "/images/accommodation/allonia-house-487239267.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487239267.jpg?k=61a05200fb66df1237f1c471ce29668ffbe7a7dfe038aef99259271fb9298c68&o=&hp=1"
 language: en
 slug: allonia-house
 address: "Himare, Himare, Albania"

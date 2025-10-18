@@ -1,7 +1,7 @@
 ---
 title: "Aral Apartments Shengjin"
 description: "Aral Apartments Shengjin emerges as a prime choice for travelers seeking comfort and convenience mere steps away from the pristine shores of Shëngjin Beach."
-featuredImage: "/images/accommodation/aral-apartments-shengjin-471650843.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471650843.jpg?k=12872f6e49e6dfefcf0690cb5b3d8d00d9e3fb14b5b2e862088690169af05e75&o=&hp=1"
 language: en
 slug: aral-apartments-shengjin
 address: "Rruga Shëngjin - Kune, 4503 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The taste of tranquility"
 description: "The Taste of Tranquility Villa, located in the serene town of Koplik, emerges as a haven of peace just a stone's throw away from some of Montenegro's most revered landmarks."
-featuredImage: "/images/accommodation/the-taste-of-tranquility-480313288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480313288.jpg?k=939ea99d3adc9a30166b983e4f427396e579762430ec4a5a2365da9b91cf9f81&o=&hp=1"
 language: en
 slug: the-taste-of-tranquility
 address: "Rruga Bogiq, Koplik, Albania"

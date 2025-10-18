@@ -1,7 +1,7 @@
 ---
 title: "Veranda Boutique Hotel"
 description: "Veranda Boutique Hotel emerges as a charming retreat in the heart of Vlorë, a mere stone's throw away from the pristine Vlore Beach and the tranquil Vjetër Beach."
-featuredImage: "/images/accommodation/veranda-boutique-hotel-368681288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368681288.jpg?k=c3006087143cbb4d138497c566fc58651474c21fc84ee0fd9727f6bcf0c46b10&o=&hp=1"
 language: en
 slug: veranda-boutique-hotel
 address: "Rruga Jani Kosta Vlore, 9401 Vlorë, Albania"

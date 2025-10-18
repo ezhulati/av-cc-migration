@@ -1,7 +1,7 @@
 ---
 title: "Apartment in Mali i Robit Golem"
 description: "Apartment in Mali i Robit Golem emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/apartment-in-mali-i-robit-golem-435251965.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/435251965.jpg?k=f9e21b134cc84e4ee77b41d5941c46900705d0c92113141166a32958888094f4&o=&hp=1"
 language: en
 slug: apartment-in-mali-i-robit-golem
 address: "Mali i Robit , Golem / Number of apartment 13, Golem, Albania"

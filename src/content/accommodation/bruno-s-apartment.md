@@ -1,7 +1,7 @@
 ---
 title: "Bruno’s Apartment"
 description: "Bruno's Apartment emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/bruno-s-apartment-390436443.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390436443.jpg?k=a5440a49840d2fa5e01bc216fe2036aaf89eb831d5cd20c7bbd44c19e55d53b5&o=&hp=1"
 language: en
 slug: bruno-s-apartment
 address: "Rruga Myslym Shyri Ap 1, floor 0, 1001 Tirana, Albania"

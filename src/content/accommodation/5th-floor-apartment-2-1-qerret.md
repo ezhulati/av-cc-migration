@@ -1,7 +1,7 @@
 ---
 title: "5th Floor Apartment 2+1 Qerret"
 description: "Discover the charm of Golem with a stay at the 5th Floor Apartment 2+1 Qerret, a prime choice for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/5th-floor-apartment-2-1-qerret-528110773.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528110773.jpg?k=3196182afb07b69aa37e5b41d6de0dcb4a3b341042f671affc934e3ef881f370&o=&hp=1"
 language: en
 slug: 5th-floor-apartment-2-1-qerret
 address: "Besa street, qerret,Golem, Albania, 2504 Golem, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lulu Suites - Sunset"
 description: "Lulu Suites - Sunset emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/lulu-suites-sunset-470532373.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470532373.jpg?k=c145724882cc7ac4de52315e0c6a6767164dbae38e0303c6ced0a911a55f3463&o=&hp=1"
 language: en
 slug: lulu-suites-sunset
 address: "Rruga Iliria, 2504 Golem, Albania"

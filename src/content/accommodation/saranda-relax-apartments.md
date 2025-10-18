@@ -1,7 +1,7 @@
 ---
 title: "Saranda relax apartments"
 description: "Saranda Relax Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-relax-apartments-369906394.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/369906394.jpg?k=8dbaafd8fd3723c0aefcf0aa08a7d685e3ac012b9a7384dccbacfdb38113f2ec&o=&hp=1"
 language: en
 slug: saranda-relax-apartments
 address: "Street Abedin Dino Building Nr: 44, 9701 Sarandë, Albania"

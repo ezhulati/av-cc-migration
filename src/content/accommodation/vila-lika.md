@@ -1,7 +1,7 @@
 ---
 title: "Vila Lika"
 description: "Vila Lika emerges as a charming retreat in the heart of Korçë, a mere stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum, both located 44 km from the property."
-featuredImage: "/images/accommodation/vila-lika-328380970.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/328380970.jpg?k=f96e88c0c905ab0da2be17ad7daa2c6a11c761ba92d4ebdec09b71635bf29e94&o=&hp=1"
 language: en
 slug: vila-lika
 address: "Rruga Luan Shkembi, 7001 Korçë, Albania"

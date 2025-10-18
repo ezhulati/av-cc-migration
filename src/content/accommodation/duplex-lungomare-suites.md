@@ -1,7 +1,7 @@
 ---
 title: "Duplex Lungomare Suites"
 description: "Duplex Lungomare Suites emerges as a prime choice for travelers seeking a blend of comfort, convenience, and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/duplex-lungomare-suites-457669699.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457669699.jpg?k=857493819a4b272c66db165eb168e2f38c758fcd68f7e28738ea24e6546cc5a9&o=&hp=1"
 language: en
 slug: duplex-lungomare-suites
 address: "Rruga Murat Tërbaçi lungomare, 9401 Vlorë, Albania"

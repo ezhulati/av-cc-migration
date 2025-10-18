@@ -1,7 +1,7 @@
 ---
 title: "Hotel Meta Ksamil"
 description: "Hotel Meta Ksamil emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Ksamil, just a stone's throw away from the pristine Ksamil Beach 9."
-featuredImage: "/images/accommodation/hotel-meta-ksamil-166997922.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/166997922.jpg?k=a72e78c6f0513f07f3f5cbb9da0a395640b3a2ddadcebb13107b7b5ae141f7d8&o=&hp=1"
 language: en
 slug: hotel-meta-ksamil
 address: "Rruga Riviera, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bliss Apartment Saranda"
 description: "Bliss Apartment Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/bliss-apartment-saranda-471858001.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471858001.jpg?k=275401734ad1eababae012d8055f3362af082b081b7897ca7c6d87f7e96d44c6&o=&hp=1"
 language: en
 slug: bliss-apartment-saranda
 address: "Rruga Onhezmi, Sarandë, Albania"

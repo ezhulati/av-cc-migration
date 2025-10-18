@@ -1,7 +1,7 @@
 ---
 title: "Central Inn Home Tirana"
 description: "Central Inn Home Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-inn-home-tirana-491759011.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491759011.jpg?k=386a4a0ee6af59e1cf31c3edb54b0ddac5242937be7f83e2c5653ec413b74cd8&o=&hp=1"
 language: en
 slug: central-inn-home-tirana
 address: "Rruga Xhorxhi Martini, 1010 Tirana, Albania"

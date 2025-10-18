@@ -1,7 +1,7 @@
 ---
 title: "Durres Vila"
 description: "Durres Vila emerges as a prime choice for travelers seeking a serene getaway, conveniently located just a short 1."
-featuredImage: "/images/accommodation/durres-vila-442082226.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442082226.jpg?k=c4dc8a9651532e477bf41a49c134133df0e04f0e7980464729b73d3e2683f169&o=&hp=1"
 language: en
 slug: durres-vila
 address: "Lagja 13 plazh, Durrës, Albania"

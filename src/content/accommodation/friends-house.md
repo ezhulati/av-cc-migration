@@ -1,7 +1,7 @@
 ---
 title: "Friends House"
 description: "Friends House emerges as a charming bed and breakfast option for travelers exploring Tirana, located just a short distance of 1."
-featuredImage: "/images/accommodation/friends-house-72558588.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/72558588.jpg?k=3031ae215d23477163d8b95648de41f10171c018bf7112ea920a2cdd21384f8e&o=&hp=1"
 language: en
 slug: friends-house
 address: "Rruga Pjeter Budi, Nr.30, 1000 Tirana, Albania"

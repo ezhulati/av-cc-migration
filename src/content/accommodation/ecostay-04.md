@@ -1,7 +1,7 @@
 ---
 title: "EcoStay 04"
 description: "EcoStay 04 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ecostay-04-413304845.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413304845.jpg?k=4834b2aaaaa511f581a6d90485da4f5c45accb210de0fc62d43688cd67df26cc&o=&hp=1"
 language: en
 slug: ecostay-04
 address: "Rruga Ibrahim Rugova, 1011 Tirana, Albania"

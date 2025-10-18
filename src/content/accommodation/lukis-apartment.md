@@ -1,7 +1,7 @@
 ---
 title: "Lukis Apartment"
 description: "Lukis Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/lukis-apartment-469050126.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469050126.jpg?k=83da1f5068fb9771306f8f01f42a359e5bff9f170293b10c4a924192aff7a108&o=&hp=1"
 language: en
 slug: lukis-apartment
 address: "Rr. 7 Nentori, Vlorë, Albania"

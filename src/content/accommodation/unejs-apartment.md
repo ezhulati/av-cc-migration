@@ -1,7 +1,7 @@
 ---
 title: "Unejs Apartment"
 description: "Unejs Apartment in Berat stands out as a prime choice for travelers seeking comfort and convenience in a serene setting."
-featuredImage: "/images/accommodation/unejs-apartment-313822452.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313822452.jpg?k=a573c03d415b948ff34af795cecf5969d942212debbf8a359278c7e86f262107&o=&hp=1"
 language: en
 slug: unejs-apartment
 address: "Rruga Veri Zaloshnja, 5001 Berat, Albania"

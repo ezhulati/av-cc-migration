@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vataksi"
 description: "Hotel Vataksi emerges as a charming retreat in the heart of Shkodër, boasting an array of amenities that cater to both leisure and adventure seekers."
-featuredImage: "/images/accommodation/hotel-vataksi-137383686.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137383686.jpg?k=8709560cea5bd617bf0b511cbffae89c03e2bf225468f82bd39393ea017d0e59&o=&hp=1"
 language: en
 slug: hotel-vataksi
 address: "new buna bridge, 4001 Shkodër, Albania"

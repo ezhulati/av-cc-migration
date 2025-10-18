@@ -1,7 +1,7 @@
 ---
 title: "Elton's Home"
 description: "Elton's Home emerges as a prime choice for travelers seeking a serene getaway in Pogradec, perfectly positioned a mere 7."
-featuredImage: "/images/accommodation/elton-s-home-photo.jpg64.jpg"
+featuredImage: "https://lh5.googleusercontent.com/-pYE5UyBzJ1E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSFv5RyBNdoJpgNnUf707LIUIwDg/s96-c/photo.jpg64"
 language: en
 slug: elton-s-home
 address: "Rruga Mendi Zavelani, 7300 Pogradec, Albania"

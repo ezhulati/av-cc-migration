@@ -1,7 +1,7 @@
 ---
 title: "Albania Dream Beachfront Apartment"
 description: "Albania Dream Beachfront Apartment emerges as a prime choice for travelers seeking a serene getaway in Sarandë, boasting an enviable location just a stone's throw away from Maestral Beach and a short stroll from La Petite Beach."
-featuredImage: "/images/accommodation/albania-dream-beachfront-apartment-379683166.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379683166.jpg?k=4b9c2eb53b5b81b05c17ac5f9b90953f335e6b43aff63f311d6797a923128730&o=&hp=1"
 language: en
 slug: albania-dream-beachfront-apartment
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

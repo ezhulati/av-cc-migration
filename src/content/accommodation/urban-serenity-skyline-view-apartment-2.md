@@ -1,7 +1,7 @@
 ---
 title: "Urban Serenity Skyline View Apartment 2"
 description: "Urban Serenity Skyline View Apartment 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/urban-serenity-skyline-view-apartment-2-499329879.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499329879.jpg?k=f0993833c07614c212d717a1f01d1434c4bb929b62687d42f31dfc43d3bc67dc&o=&hp=1"
 language: en
 slug: urban-serenity-skyline-view-apartment-2
 address: "Rruga e Dibrës, Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Alan Apartments Myslym Shyri Tirana"
 description: "Alan Apartments Myslym Shyri Tirana emerges as a modern oasis in the heart of Tirana, offering a unique blend of luxury and convenience for travelers."
-featuredImage: "/images/accommodation/alan-apartments-myslym-shyri-tirana-520454528.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520454528.jpg?k=8a2d6cdc72b5f9b09b7dadaaa7b928aa6ef492efc4fae0e25cd078a7d6ab3372&o=&hp=1"
 language: en
 slug: alan-apartments-myslym-shyri-tirana
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

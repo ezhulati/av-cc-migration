@@ -1,7 +1,7 @@
 ---
 title: "Lungomare Vlora 1"
 description: "Lungomare Vlora 1 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated merely a short stroll from both Vlore Beach and Ri Beach."
-featuredImage: "/images/accommodation/lungomare-vlora-1-430323654.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/430323654.jpg?k=562915ad1a258a0a6d1e12feffd7b517fb7f310b620b8d88ce9362e9a06ea47f&o=&hp=1"
 language: en
 slug: lungomare-vlora-1
 address: "Rruga Murat Tërbaçi, 1491 Vlorë, Albania"

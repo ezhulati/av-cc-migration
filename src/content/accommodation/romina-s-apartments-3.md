@@ -1,7 +1,7 @@
 ---
 title: "Romina's Apartments 3"
 description: "Romina's Apartments 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/romina-s-apartments-3-186277183.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/186277183.jpg?k=7f78c3d3f0fcd0712fd65d8cb5bcbb6f1d6bf76349077cec9892b4c4a52a892f&o=&hp=1"
 language: en
 slug: romina-s-apartments-3
 address: "RR.ISMAIL QEMALI, 9701 Sarandë, Albania"

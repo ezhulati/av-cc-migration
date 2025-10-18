@@ -1,7 +1,7 @@
 ---
 title: "Delight Apartments Pogradec 302"
 description: "Delight Apartments Pogradec 302 emerges as a prime choice for travelers seeking comfort and convenience, located just a short drive from the serene Ohrid Lake Springs."
-featuredImage: "/images/accommodation/delight-apartments-pogradec-302-456767452.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456767452.jpg?k=e5dba11355eec0e9136cc89f709645b35bcf1e2536b69f51b957335856fd6e8c&o=&hp=1"
 language: en
 slug: delight-apartments-pogradec-302
 address: "Rruga Reshit Çollaku, 7301 Pogradec, Albania"

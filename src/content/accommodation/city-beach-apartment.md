@@ -1,7 +1,7 @@
 ---
 title: "City Beach apartment"
 description: "City Beach Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/city-beach-apartment-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: city-beach-apartment
 address: "Rr Teki Haderi, 9703 Sarandë, Albania"

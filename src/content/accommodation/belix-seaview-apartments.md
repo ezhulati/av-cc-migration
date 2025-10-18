@@ -1,7 +1,7 @@
 ---
 title: "Belix Seaview Apartments"
 description: "Belix Seaview Apartments, located a mere 500 meters from the pristine shores of Durres Beach, presents a recently updated haven for travelers seeking both the serenity of the sea and the convenience of modern amenities."
-featuredImage: "/images/accommodation/belix-seaview-apartments-464186354.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464186354.jpg?k=d513bfc732d8571abef4c2f9c469b73ae82c871d93d9e8daf7fb16bb58e91ac2&o=&hp=1"
 language: en
 slug: belix-seaview-apartments
 address: "Rruga Pavaresia, 2002 Durrës, Albania"

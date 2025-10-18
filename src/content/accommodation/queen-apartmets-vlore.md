@@ -1,7 +1,7 @@
 ---
 title: "Queen Apartmets Vlore"
 description: "Queen Apartments Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/queen-apartmets-vlore-474386658.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474386658.jpg?k=00e08ef64304c3eeb90f7770d8854d7c6a97fda9e7cc30c1c9f97e00c5f3eed4&o=&hp=1"
 language: en
 slug: queen-apartmets-vlore
 address: "Rruga Mis Durhan, 9400 Vlorë, Albania"

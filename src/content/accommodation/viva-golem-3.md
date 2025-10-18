@@ -1,7 +1,7 @@
 ---
 title: "VIVA Golem 3"
 description: "VIVA Golem 3 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the Albanian coast."
-featuredImage: "/images/accommodation/viva-golem-3-377614993.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/377614993.jpg?k=7f2dc68bdc8442ef016017173134bd90cf62e5013cb4e4343455b4052d1b8be0&o=&hp=1"
 language: en
 slug: viva-golem-3
 address: "Rruga Skënderbeu, kompleksi Dibra Agza, 92, 2504 Golem, Albania"

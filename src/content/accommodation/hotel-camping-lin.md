@@ -1,7 +1,7 @@
 ---
 title: "Hotel Camping Lin"
 description: "Hotel Camping Lin, located in the charming town of Pogradec, stands out as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/hotel-camping-lin-152340781.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152340781.jpg?k=4ee99c9cc754cddb0508ae07f902b072e216f0b4a782d5a7e4f4d49508dc9f5c&o=&hp=1"
 language: en
 slug: hotel-camping-lin
 address: "Lin, 1000 Pogradec, Albania"

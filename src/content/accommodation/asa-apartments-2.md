@@ -1,7 +1,7 @@
 ---
 title: "asa apartments 2"
 description: "Asa Apartments 2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/asa-apartments-2-476353238.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476353238.jpg?k=dd87b743258a9f26b09d4200aa3d64080331bd27a30901c96b3a2e331e5c87d0&o=&hp=1"
 language: en
 slug: asa-apartments-2
 address: "Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

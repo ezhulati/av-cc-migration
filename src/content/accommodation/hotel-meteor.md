@@ -1,7 +1,7 @@
 ---
 title: "Hotel Meteor"
 description: "Hotel Meteor stands out as a prime choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/hotel-meteor-366883170.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366883170.jpg?k=94eb1b9e62abe61474f4922c28fbf044b42c82c5c45bef07d388cf899530bc5f&o=&hp=1"
 language: en
 slug: hotel-meteor
 address: "Rruga Shtoj i ri 4015 Albania, 4001 Shkodër, Albania"

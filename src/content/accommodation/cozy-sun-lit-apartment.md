@@ -1,7 +1,7 @@
 ---
 title: "Cozy sun-lit apartment"
 description: "Cozy Sun-Lit Apartment emerges as a charming choice for travelers seeking a serene getaway in Vlorë."
-featuredImage: "/images/accommodation/cozy-sun-lit-apartment-491458902.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491458902.jpg?k=00a076daa30c0d8f7a28378b34dfb49beeef612d0ba2b0651504e57d625d1021&o=&hp=1"
 language: en
 slug: cozy-sun-lit-apartment
 address: "Rr.Hasan Kushta Apt 27, Hyrja 2, Tre Kullat Jeshile, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Alex Bed and Breakfast"
 description: "Alex Bed and Breakfast emerges as a charming retreat for travelers seeking a serene getaway, located just a short 2."
-featuredImage: "/images/accommodation/alex-bed-and-breakfast-469772933.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469772933.jpg?k=ec0b01ae2209a2ee2dc78e326b7c0f74cdfef8f5eddf8f3f1c1d912446579108&o=&hp=1"
 language: en
 slug: alex-bed-and-breakfast
 address: "Spiro Milo road, 9425 Himare, Albania"

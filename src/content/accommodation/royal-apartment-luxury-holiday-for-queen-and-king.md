@@ -1,7 +1,7 @@
 ---
 title: "Royal Apartment Luxury Holiday for Queen and King"
 description: "Royal Apartment Luxury Holiday for Queen and King emerges as a premier choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/royal-apartment-luxury-holiday-for-queen-and-king-60945405.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/60945405.jpg?k=eefb68c4f19e9392eb7271f1db7e0f32449233d9f3685d3227cb7f9be53ab7a3&o=&hp=1"
 language: en
 slug: royal-apartment-luxury-holiday-for-queen-and-king
 address: "Rruga Butrinti, rruga Bilal Golemi, 9702 Sarandë, Albania"

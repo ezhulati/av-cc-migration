@@ -1,7 +1,7 @@
 ---
 title: "Big apartment"
 description: "Big Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Orikum."
-featuredImage: "/images/accommodation/big-apartment-256890617.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256890617.jpg?k=36ba3d1255139763a8e7b75389ca91b34199ca4cf5caa5ad76e179493420ce88&o=&hp=1"
 language: en
 slug: big-apartment
 address: "Bulevardi Princesha Rugjine Building of Vodafon shop , second floor, 9426 Orikum, Albania"

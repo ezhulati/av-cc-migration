@@ -1,7 +1,7 @@
 ---
 title: "VILA BAKRI kati 2"
 description: "VILA BAKRI kati 2 emerges as a serene oasis in Elbasan, situated a mere 38 km from the bustling Skanderbeg Square."
-featuredImage: "/images/accommodation/vila-bakri-kati-2-520374326.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520374326.jpg?k=4080d9eaa76331f42c5008c2c91554e2ba266ac0f38cf89a1e631a40f327cc3f&o=&hp=1"
 language: en
 slug: vila-bakri-kati-2
 address: "Rruga Elbasan-Metalurgji km1, 3001 Elbasan, Albania"

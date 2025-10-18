@@ -1,7 +1,7 @@
 ---
 title: "Rooms Dionis"
 description: "Rooms Dionis emerges as a charming retreat in the heart of Tirana, merely 800 meters from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/rooms-dionis-124704613.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/124704613.jpg?k=2bbafbc3f77f0301d2c5c12cfe8cdc54023a4c7c8ab6a78331dee9d2607eb17f&o=&hp=1"
 language: en
 slug: rooms-dionis
 address: "22 Rruga Bardhok Biba floor 6 apartment 16, 1001 Tirana, Albania"

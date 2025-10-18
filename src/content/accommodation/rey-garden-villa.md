@@ -1,7 +1,7 @@
 ---
 title: "Rey Garden Villa"
 description: "Rey Garden Villa, located in the vibrant city of Vlorë, presents an oasis of tranquility just a stone's throw away from Vjetër Beach and a short drive from the historic Independence Square."
-featuredImage: "/images/accommodation/rey-garden-villa-378108776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/378108776.jpg?k=c75e6c8e583eb55cde941d07cda57e9f48b27bd4870dc7132e39442aab1b4540&o=&hp=1"
 language: en
 slug: rey-garden-villa
 address: "Rruga Andrea Varfi, 1002 Vlorë, Albania"

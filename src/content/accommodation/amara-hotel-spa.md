@@ -1,7 +1,7 @@
 ---
 title: "Amara Hotel & SPA"
 description: "Amara Hotel & SPA stands as a beacon of luxury and relaxation in the heart of Durrës, mere steps away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/amara-hotel-spa-264306417.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264306417.jpg?k=5ed78b2687df9bcea1de821f5842f385775b0aa7391683c64e268d83038a1ceb&o=&hp=1"
 language: en
 slug: amara-hotel-spa
 address: "Shetitorja e Plazhit No. 1, 1000 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Shehu"
 description: "Villa Shehu stands out as a prime choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "/images/accommodation/villa-shehu-512143114.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512143114.jpg?k=ebae67e11f89e614383454abecedc7bfe31310719f0bb2288f8d4c3881d0c28a&o=&hp=1"
 language: en
 slug: villa-shehu
 address: "Rruga Gjin Bue Shpata, Gjirokastër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Siklad"
 description: "Hotel Siklad emerges as a prime choice for travelers seeking comfort and convenience in the heart of Lezhe."
-featuredImage: "/images/accommodation/hotel-siklad-71004252.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/71004252.jpg?k=73836af4e2ba181ab3a99fa87468167e41e05dfbce76d8422cb58e345acbc47b&o=&hp=1"
 language: en
 slug: hotel-siklad
 address: "Shëtitorja Gjergj Fishta, 4500 Lezhë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "VILA PASHA"
 description: "VILA PASHA stands as a serene retreat in the vibrant heart of Sarandë, perfectly positioned just a stone's throw away from the pristine shores of Heaven Beach and Mango Beach."
-featuredImage: "/images/accommodation/vila-pasha-AItbvmm5WzPf.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AItbvmm5WzPfWwwKjy753jf0xnYD_oIuQ53U0wdwBh-6=s96-c64"
 language: en
 slug: vila-pasha
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

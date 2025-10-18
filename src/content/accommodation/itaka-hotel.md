@@ -1,7 +1,7 @@
 ---
 title: "Itaka Hotel"
 description: "Itaka Hotel emerges as a serene oasis in Lukovë, offering guests a blend of comfort and convenience with its array of amenities."
-featuredImage: "/images/accommodation/itaka-hotel-372622101.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372622101.jpg?k=f340fd6ab8f73805fd0cc93a1a022b6a1ee8c08178afc2f4440d58c8939506a7&o=&hp=1"
 language: en
 slug: itaka-hotel
 address: "Gerhoti, 9713 Lukovë, Albania"

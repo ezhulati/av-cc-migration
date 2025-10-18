@@ -1,7 +1,7 @@
 ---
 title: "Vila D Boutique Hotel"
 description: "Vila D Boutique Hotel emerges as a serene oasis in Qeparo, offering guests an exceptional retreat with its seasonal outdoor swimming pool, meticulously maintained garden, and a welcoming shared lounge and bar."
-featuredImage: "/images/accommodation/vila-d-boutique-hotel-466557343.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466557343.jpg?k=8d379e8affc5fddeefd6298f794654969d1e637c3c0e4be483159eacb4188b81&o=&hp=1"
 language: en
 slug: vila-d-boutique-hotel
 address: "Rruga Persefoni Kokedhima, Porto Palermo, 9416 Qeparo, Albania"

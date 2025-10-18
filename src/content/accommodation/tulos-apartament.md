@@ -1,7 +1,7 @@
 ---
 title: "Tulos apartament"
 description: "Tulos Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/tulos-apartament-421231725.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421231725.jpg?k=009f38d44a6b47e1f509ffce6895670682514468facad743c372131e75efa6a8&o=&hp=1"
 language: en
 slug: tulos-apartament
 address: "Gjergj Arianiti 7, 9701 Sarandë, Albania"

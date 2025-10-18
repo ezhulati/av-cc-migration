@@ -1,7 +1,7 @@
 ---
 title: "Dream Stone ohrid lake view"
 description: "Dream Stone Ohrid Lake View emerges as a serene oasis, located just 18 km from the enchanting Ohrid Lake Springs."
-featuredImage: "/images/accommodation/dream-stone-ohrid-lake-view-479734285.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479734285.jpg?k=fa0fb63c4434d19cb01aae9ceced9f4fd8063a04aa08e0421d14898b611328ca&o=&hp=1"
 language: en
 slug: dream-stone-ohrid-lake-view
 address: "Udenisht pole, 7503 Polje, Albania"

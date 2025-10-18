@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ambasador"
 description: "Hotel Ambasador stands out as a serene retreat in Bahçallëk, located a mere 46 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/hotel-ambasador-526720496.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526720496.jpg?k=b34c3f201961f602bcfe530449ef3174e12d39362ee0cfc0e93d150d52952c48&o=&hp=1"
 language: en
 slug: hotel-ambasador
 address: "Rruga e Tirane, Bahçallëk, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Dhimitri Apartment"
 description: "Dhimitri Apartment emerges as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "/images/accommodation/dhimitri-apartment-349372720.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349372720.jpg?k=4b61b2c916760dc0f123f95ef141a01b5f0cc355fe3721bf39659677ffce6a9c&o=&hp=1"
 language: en
 slug: dhimitri-apartment
 address: "Rrugica Koco Brisku e Ana Komnena, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SM Apartament Vlore"
 description: "SM Apartament Vlore emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned just a stone's throw away from the pristine Vjetër Beach and a short stroll from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/sm-apartament-vlore-483145803.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483145803.jpg?k=3aa9e9589cd58802854da315d8cb03cb0375578d21159a4c2064f83e4d089c6b&o=&hp=1"
 language: en
 slug: sm-apartament-vlore
 address: "Rr. Gjergj Arianiti, 9402 Vlorë, Albania"

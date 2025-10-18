@@ -1,7 +1,7 @@
 ---
 title: "Xhesi Apartment"
 description: "Xhesi Apartment emerges as a prime choice for travelers seeking a serene beachfront retreat in Durrës, positioned merely a stone's throw away from the pristine shores of Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/xhesi-apartment-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: xhesi-apartment
 address: "Golem, Rruga Liria, prane Dolce Vita Resort, 2001 Durrës, Albania"

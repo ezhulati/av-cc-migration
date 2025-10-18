@@ -1,7 +1,7 @@
 ---
 title: "Oyster Apartments"
 description: "Oyster Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/oyster-apartments-29d5c93ac695.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
 language: en
 slug: oyster-apartments
 address: "Saranda, AL - Corfu, GR, 9701 Sarandë, Albania"

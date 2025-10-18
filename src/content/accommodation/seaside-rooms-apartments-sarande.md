@@ -1,7 +1,7 @@
 ---
 title: "Seaside Rooms & Apartments Sarande"
 description: "Seaside Rooms & Apartments Sarande emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/seaside-rooms-apartments-sarande-443962884.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/443962884.jpg?k=2606572db2949380bbed7852e285f320d6da6dcbc225fb1ffee1fe567dcb238f&o=&hp=1"
 language: en
 slug: seaside-rooms-apartments-sarande
 address: "Rruga Butrinti Rruga Bilal Golemi, 9701 Sarandë, Albania"

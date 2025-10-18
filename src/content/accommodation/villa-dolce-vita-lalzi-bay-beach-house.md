@@ -1,7 +1,7 @@
 ---
 title: "Villa DOLCE VITA Lalzi Bay - Beach House"
 description: "Villa DOLCE VITA Lalzi Bay - Beach House emerges as a premier destination for travelers seeking a serene beachfront escape in Durrës."
-featuredImage: "/images/accommodation/villa-dolce-vita-lalzi-bay-beach-house-356917791.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356917791.jpg?k=725a483cdb0073b4c33c52f1a10b5433fa0fff28b201c97d87831ecc9406bfb3&o=&hp=1"
 language: en
 slug: villa-dolce-vita-lalzi-bay-beach-house
 address: "Rruga Gjiri i Lalzit, 2015 Durrës, Albania"

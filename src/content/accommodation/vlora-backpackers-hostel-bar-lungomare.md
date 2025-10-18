@@ -1,7 +1,7 @@
 ---
 title: "Vlora Backpackers Hostel & Bar LUNGOMARE"
 description: "Vlora Backpackers Hostel & Bar LUNGOMARE stands out as a prime choice for travelers seeking a blend of comfort and adventure in Vlorë."
-featuredImage: "/images/accommodation/vlora-backpackers-hostel-bar-lungomare-367792611.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367792611.jpg?k=5740eb8a3b1712cf597bb7e2a52cdb87753bd8eb327ab734b42f6e8f368af99b&o=&hp=1"
 language: en
 slug: vlora-backpackers-hostel-bar-lungomare
 address: "Rruga Lek Gjiknuri, shtepia 10, Lgj. 10 Korriku, 9401 Vlorë, Albania"

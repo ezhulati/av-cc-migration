@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Giorgio"
 description: "Hotel Vila Giorgio emerges as a charming retreat in Shkodër, located a mere 48 km from the bustling Port of Bar."
-featuredImage: "/images/accommodation/hotel-vila-giorgio-384349734.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384349734.jpg?k=fb5b5c1c202a2991afb81ac1b6b74dee40d7a90637f8b989c31828f9a205c092&o=&hp=1"
 language: en
 slug: hotel-vila-giorgio
 address: "Lagja Hafiz Ali Ulqinaku , Rruga Tepe, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sasso Bianco Apartment 13"
 description: "Sasso Bianco Apartment 13 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/sasso-bianco-apartment-13-515973031.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515973031.jpg?k=00cc9d44f8d0ba03a4330db1f172b06991c098aff4c343cd5ea7dd0e0bc70949&o=&hp=1"
 language: en
 slug: sasso-bianco-apartment-13
 address: "Sasso Bianco Ristorante, SH4, Durrës 2008, Albania, 2008 Durrës, Albania"

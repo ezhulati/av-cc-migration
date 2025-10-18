@@ -1,7 +1,7 @@
 ---
 title: "Monte Mare Hotel"
 description: "Monte Mare Hotel, situated a mere stone's throw away from the pristine shores of Vlore Beach in Vlorë, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/monte-mare-hotel-218913492.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218913492.jpg?k=0943e42c185a58e1e605e7a47c888e586d477afc4c19900ab6819cd055fd21f6&o=&hp=1"
 language: en
 slug: monte-mare-hotel
 address: "Hajro Cakerri Lungo Mare, 9401 Vlorë, Albania"

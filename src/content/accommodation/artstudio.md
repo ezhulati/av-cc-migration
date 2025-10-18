@@ -1,7 +1,7 @@
 ---
 title: "ArtStudio"
 description: "ArtStudio emerges as a serene oasis in the heart of Tirana, merely a stone's throw away from the city's historical Former Residence of Enver Hoxha and the majestic Rock of Kavaje."
-featuredImage: "/images/accommodation/artstudio-481061254.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481061254.jpg?k=03195642bf36be9287caca00f81df95fead802f2ea1d3367b7815b6c7303ddff&o=&hp=1"
 language: en
 slug: artstudio
 address: "Rruga Petro Nini Luarasi, 0001 Tirana, Albania"

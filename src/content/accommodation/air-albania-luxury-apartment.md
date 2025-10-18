@@ -1,7 +1,7 @@
 ---
 title: "Air Albania Luxury apartment"
 description: "Air Albania Luxury Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/air-albania-luxury-apartment-ACg8ocLLOy7A.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocLLOy7AheM3uuA9WHUQrum5xYx5c9Q4DD7Uf8Hkv5GqrPk=s96-c64"
 language: en
 slug: air-albania-luxury-apartment
 address: "Rruga Dervish Hima 5th floor , nr 33, 1000 Tirana, Albania"

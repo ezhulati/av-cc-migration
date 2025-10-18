@@ -1,7 +1,7 @@
 ---
 title: "Renting rooms for 30 euros per night in Vlore, Albania"
 description: "Discover the charm of Vlorë, Albania, with a stay at this inviting villa, perfectly positioned just a short stroll from the pristine Liro Beach and the serene Beach at Government Villas."
-featuredImage: "/images/accommodation/renting-rooms-for-30-euros-per-night-in-vlore-albania-387547559.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/387547559.jpg?k=56ae1e89cb502088abe138ffb0a6b656eda8fcb40f86abd64a2fb8a72e1c1048&o=&hp=1"
 language: en
 slug: renting-rooms-for-30-euros-per-night-in-vlore-albania
 address: "Uje i ftohte, vlore, Vlorë, Albania"

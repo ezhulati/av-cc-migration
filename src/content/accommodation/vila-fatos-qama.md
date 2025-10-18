@@ -1,7 +1,7 @@
 ---
 title: "Vila Fatos Qama"
 description: "Vila Fatos Qama emerges as a charming accommodation option in the historic city of Berat, providing a cozy and intimate setting for travelers."
-featuredImage: "/images/accommodation/vila-fatos-qama-483928383.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483928383.jpg?k=13b6e87fee153fda178cd4cb08a74b9931882ca02c33e9187c9495a3ef19577a&o=&hp=1"
 language: en
 slug: vila-fatos-qama
 address: "Rruga Veri Zaloshnja, 5001 Berat, Albania"

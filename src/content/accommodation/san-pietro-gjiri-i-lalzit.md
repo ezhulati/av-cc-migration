@@ -1,7 +1,7 @@
 ---
 title: "San Pietro Gjiri i Lalzit"
 description: "San Pietro Gjiri i Lalzit emerges as a prime choice for travelers seeking spacious and comfortable accommodations in Durrës."
-featuredImage: "/images/accommodation/san-pietro-gjiri-i-lalzit-489353509.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489353509.jpg?k=52369160677d8613d7fbf946fd6ea76109ee2821c20bfeb5ef62774918d6bafb&o=&hp=1"
 language: en
 slug: san-pietro-gjiri-i-lalzit
 address: "Rruga Gjiri i Lalzit, Durrës, Albania"

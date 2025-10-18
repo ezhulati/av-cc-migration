@@ -1,7 +1,7 @@
 ---
 title: "TeArra GuestHouse"
 description: "TeArra GuestHouse emerges as a serene retreat, offering breathtaking mountain vistas and a tranquil setting just 44 km away from the enchanting Zaravina Lake."
-featuredImage: "/images/accommodation/tearra-guesthouse-255190807.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/255190807.jpg?k=c469cf56664ec0cc5925646c2ccb034909cd32b6235f62933c1add2fa3236f01&o=&hp=1"
 language: en
 slug: tearra-guesthouse
 address: "Rruga Bule Naipi, 6002 Gjirokastër, Albania"

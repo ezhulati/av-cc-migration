@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Hlias Gloria"
 description: "Guesthouse Hlias Gloria emerges as a prime choice for travelers seeking a serene stay in Berat, complete with the convenience of modern amenities."
-featuredImage: "/images/accommodation/guesthouse-hlias-gloria-160597081.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/160597081.jpg?k=ab5d894bd313c9f1f2829f0fd019b3a66ddcab07fa640382c34524b9c6aa62ad&o=&hp=1"
 language: en
 slug: guesthouse-hlias-gloria
 address: "Rruga Kostaq Koxhaku Rruga Pusi i Jorgji Amerikanit, 5000 Berat, Albania"

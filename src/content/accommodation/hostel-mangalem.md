@@ -1,7 +1,7 @@
 ---
 title: "Hostel Mangalem"
 description: "Hostel Mangalem, located in the heart of Berat, offers a unique blend of comfort and convenience with its array of amenities including a serene garden, a communal lounge, and a sun-drenched terrace."
-featuredImage: "/images/accommodation/hostel-mangalem-73808409.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73808409.jpg?k=2ee31b11cf20494cfc16debb7860c8d108d6df8887c1c70e4647c76d9ddf9e72&o=&hp=1"
 language: en
 slug: hostel-mangalem
 address: "Lagja Mangalem, 5000 Berat, Albania"

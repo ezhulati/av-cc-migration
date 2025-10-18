@@ -1,7 +1,7 @@
 ---
 title: "Guest House Laci"
 description: "Guest House Laci emerges as a serene retreat in the vibrant city of Tirana, offering a unique blend of natural beauty and urban convenience."
-featuredImage: "/images/accommodation/guest-house-laci-416904615.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416904615.jpg?k=ebd4936f50382ff25aa47a2c32ee72a9e1c9cee0e5415598d24480b8913d3b34&o=&hp=1"
 language: en
 slug: guest-house-laci
 address: "Rruga Nazmi Qoku, Tirana, Albania"

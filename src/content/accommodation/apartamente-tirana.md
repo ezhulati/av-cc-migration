@@ -1,7 +1,7 @@
 ---
 title: "Apartamente Tirana"
 description: "Discover the charm of Tirana with a stay at Apartamente Tirana, a prime accommodation choice that promises an immersive city experience."
-featuredImage: "/images/accommodation/apartamente-tirana-489892955.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489892955.jpg?k=cebd06ede0feef906542a9c9fa519a47ec75abdd2a7abbc765a14a1872c46a05&o=&hp=1"
 language: en
 slug: apartamente-tirana
 address: "Bulevardi Bajram Curri, 1001 Tirana, Albania"

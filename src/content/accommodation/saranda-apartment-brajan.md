@@ -1,7 +1,7 @@
 ---
 title: "Saranda Apartment Brajan"
 description: "Saranda Apartment Brajan stands as a prime choice for travelers seeking a serene beachfront escape in Sarandë, just a stone's throw away from the main beach and a short stroll from the city's vibrant beach scene."
-featuredImage: "/images/accommodation/saranda-apartment-brajan-29d5c93ac695.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-r/29d5c93ac6953138bfc6f214a4c5a0f8b712b57b.png"
 language: en
 slug: saranda-apartment-brajan
 address: "Rruga Mitat Hoxha, 9701 Sarandë, Albania"

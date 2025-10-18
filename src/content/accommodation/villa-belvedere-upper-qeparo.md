@@ -1,7 +1,7 @@
 ---
 title: "Villa Belvedere, Upper Qeparo"
 description: "Villa Belvedere, Upper Qeparo, emerges as a serene retreat offering breathtaking sea and mountain views, located just a short drive from the pristine Qeparo Beach."
-featuredImage: "/images/accommodation/villa-belvedere-upper-qeparo-360437474.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360437474.jpg?k=46ca1726a6ab6f82ee564470f2edf68b078300999c6fc4f83e591e5e15f5ab32&o=&hp=1"
 language: en
 slug: villa-belvedere-upper-qeparo
 address: "Panorama Road, Upper Qeparo,, Himare, Albania"

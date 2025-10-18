@@ -1,7 +1,7 @@
 ---
 title: "Guest House J.Prifti"
 description: "Guest House J."
-featuredImage: "/images/accommodation/guest-house-j-prifti-382635458.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/382635458.jpg?k=3e8048c940fe8e4e2e8a79e03d06029e12b353110706358d682ee2b4ac377aba&o=&hp=1"
 language: en
 slug: guest-house-j-prifti
 address: "MANGALEM, 5000 Berat, Albania"

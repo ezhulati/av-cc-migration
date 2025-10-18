@@ -1,7 +1,7 @@
 ---
 title: "Folie Marine Beach Hotel Club"
 description: "Hotel Folie Marine & Club - Soleil Resort, located a mere 13."
-featuredImage: "/images/accommodation/folie-marine-beach-hotel-club-292343667.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/292343667.jpg?k=11dc4670cc5c7a78bdc3632ddc61429cb785cad243c70cb405e7cb9d750f2b55&o=&hp=1"
 language: en
 slug: folie-marine-beach-hotel-club
 address: "Rruga Jali Superior A, 1010 Jal, Albania"

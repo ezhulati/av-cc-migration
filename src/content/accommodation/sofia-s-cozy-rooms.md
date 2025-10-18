@@ -1,7 +1,7 @@
 ---
 title: "sofia's cozy rooms"
 description: "Sofia's Cozy Rooms emerges as a charming retreat in the heart of Himare, a stone's throw away from the pristine Maracit Beach and within easy reach of both Spille and Prinos Beaches."
-featuredImage: "/images/accommodation/sofia-s-cozy-rooms-300933836.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300933836.jpg?k=5a870c1bc5d9da53f623a24320e85b1d6d2ac037b745360926378403746b7d12&o=&hp=1"
 language: en
 slug: sofia-s-cozy-rooms
 address: "Rruga vangel zoto, 9425 Himare, Albania"

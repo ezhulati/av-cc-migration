@@ -1,7 +1,7 @@
 ---
 title: "Miku Apartment - Vibrant 1Bd Apartment At Olympic Residence"
 description: "Miku Apartment at Olympic Residence emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/miku-apartment-vibrant-1bd-apartment-at-olympic-residence-339578927.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/339578927.jpg?k=aa1d590227881f3d79e2a7d61b64e19c00008e7b7370616e81c2d519b2a1d992&o=&hp=1"
 language: en
 slug: miku-apartment-vibrant-1bd-apartment-at-olympic-residence
 address: "Rruga Liman Kaba, 1019 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Apartament Teuta"
 description: "Apartament Teuta in Përmet offers a refreshing retreat with its air-conditioned accommodations that boast a private balcony."
-featuredImage: "/images/accommodation/apartament-teuta-484676373.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484676373.jpg?k=741dcc3a1be3942fce6fe1e67bbad08cee3e1b9dfc76f6c8741c7ebbe6bac27c&o=&hp=1"
 language: en
 slug: apartament-teuta
 address: "Permet lagja sede, 6401 Përmet, Albania"

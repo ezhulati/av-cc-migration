@@ -1,7 +1,7 @@
 ---
 title: "Ferhati apartament"
 description: "Ferhati Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ferhati-apartament-513812196.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/513812196.jpg?k=0463e4e30d3327099cd7b57915fd68cc268781ceb381b24b7aedb06985f2f769&o=&hp=1"
 language: en
 slug: ferhati-apartament
 address: "Rruga Frosina Plaku, 1001 Tirana, Albania"

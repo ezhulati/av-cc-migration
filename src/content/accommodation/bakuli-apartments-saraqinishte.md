@@ -1,7 +1,7 @@
 ---
 title: "Bakuli apartments Saraqinishte"
 description: "Bakuli Apartments Saraqinishte emerges as a serene retreat in the heart of Gjirokastër County, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/bakuli-apartments-saraqinishte-477227537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477227537.jpg?k=4ec2970821945777e25662f8796b97f9d1e9b7f1ff301bd25ba33f36bc2ba848&o=&hp=1"
 language: en
 slug: bakuli-apartments-saraqinishte
 address: "rruga Lame Petri, 6017 Saraqinishtë, Albania"

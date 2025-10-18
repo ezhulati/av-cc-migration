@@ -1,7 +1,7 @@
 ---
 title: "Eagle house"
 description: "Eagle House, situated in the serene Gjirokastër County of Përmet, offers a tranquil retreat with its stunning garden and mountain views."
-featuredImage: "/images/accommodation/eagle-house-367506717.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367506717.jpg?k=c49d124282c91fc0ef66ff31ef71b9302755ca48547b08ab3b5be631a043fe1b&o=&hp=1"
 language: en
 slug: eagle-house
 address: "Spitali permet, 6401 Përmet, Albania"

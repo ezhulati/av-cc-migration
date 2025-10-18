@@ -1,7 +1,7 @@
 ---
 title: "Jona Apartment"
 description: "Jona Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/jona-apartment-photo.jpg64.jpg"
+featuredImage: "https://lh5.googleusercontent.com/-YemEUs1YoJo/AAAAAAAAAAI/AAAAAAAAAVU/5nVX64yP10M/s96-c/photo.jpg64"
 language: en
 slug: jona-apartment
 address: "Άγιοι Σαράντα, Sarandë, Albania"

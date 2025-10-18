@@ -1,7 +1,7 @@
 ---
 title: "CIAK APARTMENT"
 description: "CIAK APARTMENT emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ciak-apartment-421371055.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421371055.jpg?k=ef10500f4212224312a2e271b04096bf9fa619141680680db190a4bb7ab5894e&o=&hp=1"
 language: en
 slug: ciak-apartment
 address: "Rruga Petro Nini Luarasi, 1010 Tirana, Albania"

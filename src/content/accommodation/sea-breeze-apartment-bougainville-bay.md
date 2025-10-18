@@ -1,7 +1,7 @@
 ---
 title: "Sea Breeze Apartment Bougainville Bay"
 description: "Sea Breeze Apartment Bougainville Bay stands out as a prime choice for travelers seeking comfort and convenience mere steps from the sandy shores of Sarandë."
-featuredImage: "/images/accommodation/sea-breeze-apartment-bougainville-bay-47443824.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47443824.jpg?k=0827527dcb8fbaf673ebdcb9f66adb6e9582e5cff5bd842aed9ae70256870edc&o=&hp=1"
 language: en
 slug: sea-breeze-apartment-bougainville-bay
 address: "Rr. Butrinti 226, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunny Bay Apartments"
 description: "Sunny Bay Apartments, a gem within the Bougainville Bay Resort, offers more than just a stay; it provides an experience."
-featuredImage: "/images/accommodation/sunny-bay-apartments-102716740.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102716740.jpg?k=467078bcd943d5acbb936ed7a375041fc89b59e37ea7ba1734cecfc57433a993&o=&hp=1"
 language: en
 slug: sunny-bay-apartments
 address: "Rruga Butrinti, 9700 Sarandë, Albania"

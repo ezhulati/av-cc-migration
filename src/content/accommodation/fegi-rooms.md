@@ -1,7 +1,7 @@
 ---
 title: "Fegi Rooms"
 description: "Fegi Rooms emerges as a serene retreat in the vibrant heart of Himare, merely a stone's throw away from the pristine Spille Beach."
-featuredImage: "/images/accommodation/fegi-rooms-438852513.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438852513.jpg?k=9b84e62c362a7fa5d603f26e66108465d101f62a2cc301a22fe2bd48ef05d857&o=&hp=1"
 language: en
 slug: fegi-rooms
 address: "SH8, 9425 Himare, Albania"

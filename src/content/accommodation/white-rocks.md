@@ -1,7 +1,7 @@
 ---
 title: "White Rocks"
 description: "White Rocks stands as a prime choice for travelers seeking a serene beachfront escape in Dhërmi."
-featuredImage: "/images/accommodation/white-rocks-363220850.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363220850.jpg?k=4a21a216418459ebb59405e2a0eed5405a7747c2c9da12cdcb84847d9b98187e&o=&hp=1"
 language: en
 slug: white-rocks
 address: "Dhermi, Drimadhes Edera 2-1, 1001 Dhërmi, Albania"

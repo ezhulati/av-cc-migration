@@ -1,7 +1,7 @@
 ---
 title: "Lume Apartaments Orikum"
 description: "Lume Apartments Orikum emerges as a prime choice for travelers seeking comfort and convenience in the heart of Orikum."
-featuredImage: "/images/accommodation/lume-apartaments-orikum-476534968.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476534968.jpg?k=9af858b23c5df3c960205d39e90312bbba71dfa9e3bd564f5d45e841852f1ed2&o=&hp=1"
 language: en
 slug: lume-apartaments-orikum
 address: "Rruga Gjon Buzuku, Orikum, Albania"

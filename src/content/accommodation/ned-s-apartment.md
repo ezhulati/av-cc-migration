@@ -1,7 +1,7 @@
 ---
 title: "Ned'S Apartment"
 description: "Ned's Apartment emerges as a prime choice for travelers seeking comfort and convenience in Gjirokastër, located a mere 43 km from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/ned-s-apartment-403604069.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403604069.jpg?k=e15034549ac873a04a9af30a005a0039cc2bf04cdb86784704404573e5743f23&o=&hp=1"
 language: en
 slug: ned-s-apartment
 address: "Rruga Xhorxh Sorros 8-th floor, 6001 Gjirokastër, Albania"

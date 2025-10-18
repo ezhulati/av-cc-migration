@@ -1,7 +1,7 @@
 ---
 title: "Rafaelo Comfort & Family"
 description: "Rafaelo Comfort & Family emerges as a serene oasis in Lezhë, merely 800 meters from the pristine Laguna Park Beach, offering a perfect blend of leisure and convenience for travelers."
-featuredImage: "/images/accommodation/rafaelo-comfort-family-445430034.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445430034.jpg?k=1f1df691fd76eea3c920959c26ec29183bbd6c487cb4793f4e6451571086ccb2&o=&hp=1"
 language: en
 slug: rafaelo-comfort-family
 address: "Shëngjin - Kune, 4503 Lezhë, Albania"

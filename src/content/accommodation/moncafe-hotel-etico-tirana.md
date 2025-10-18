@@ -1,7 +1,7 @@
 ---
 title: "Moncafe Hotel Etico Tirana"
 description: "Moncafe Hotel Etico Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/moncafe-hotel-etico-tirana-322833991.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322833991.jpg?k=776d50ae4d431e09aa8a4fd0cfac30aa3f3ccb32e48a9c360a9aa412a2931064&o=&hp=1"
 language: en
 slug: moncafe-hotel-etico-tirana
 address: "Rruga Medar Shtylla Komuna e Parisit, Tirane, 1001 Tirana, Albania"

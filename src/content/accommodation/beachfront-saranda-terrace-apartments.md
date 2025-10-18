@@ -1,7 +1,7 @@
 ---
 title: "Beachfront Saranda Terrace Apartments"
 description: "Beachfront Saranda Terrace Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/beachfront-saranda-terrace-apartments-473732949.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473732949.jpg?k=d2c5ecf03a5cdfc2ea5923e33ae97d566c04a631709447fb764f34ec6ce991f6&o=&hp=1"
 language: en
 slug: beachfront-saranda-terrace-apartments
 address: "Rruga Butrinti, Sarandë, Albania"

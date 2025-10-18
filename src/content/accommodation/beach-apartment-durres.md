@@ -1,7 +1,7 @@
 ---
 title: "Beach apartment durres"
 description: "Beach Apartment Durres emerges as a prime choice for travelers seeking a serene getaway, perfectly positioned a stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/beach-apartment-durres-482704846.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482704846.jpg?k=9a1e4ea1178da37b9ec17c314c362cd9127486331df119aacb58d69a7f618797&o=&hp=1"
 language: en
 slug: beach-apartment-durres
 address: "13 Rruga Pavaresia, 2200 Durrës, Albania"

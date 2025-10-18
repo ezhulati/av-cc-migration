@@ -1,7 +1,7 @@
 ---
 title: "Mara Apartment Vlore"
 description: "Mara Apartment Vlore emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/mara-apartment-vlore-472945585.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472945585.jpg?k=64aa78b3d84fa0a5176aa20b719003c90565dcbddc9716594ba18b320d83a898&o=&hp=1"
 language: en
 slug: mara-apartment-vlore
 address: "Rruga Pelivan Leskaj, 9401 Vlorë, Albania"

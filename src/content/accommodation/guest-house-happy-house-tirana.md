@@ -1,7 +1,7 @@
 ---
 title: "Guest House - Happy House Tirana"
 description: "Guest House - Happy House Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/guest-house-happy-house-tirana-495954283.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/495954283.jpg?k=165a418527de806310ce7f18208cd0c62a9c076e84ad5e709d8b20d4a9c1ca1f&o=&hp=1"
 language: en
 slug: guest-house-happy-house-tirana
 address: "Rruga Isa Boletini, 1010 Tirana, Albania"

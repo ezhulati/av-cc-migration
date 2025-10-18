@@ -1,7 +1,7 @@
 ---
 title: "Irdi Apartments Golem"
 description: "Irdi Apartments Golem emerges as a prime choice for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/irdi-apartments-golem-498473124.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498473124.jpg?k=6b19c6e46b05f1eecda2081430b885ad349388d12d758435d8739519d7e485e9&o=&hp=1"
 language: en
 slug: irdi-apartments-golem
 address: "Bulevardi i Pishave, Golem, Golem, Albania"

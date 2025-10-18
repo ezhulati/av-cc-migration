@@ -1,7 +1,7 @@
 ---
 title: "SACA Shengjin Apartments"
 description: "SACA Shengjin Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Shëngjin."
-featuredImage: "/images/accommodation/saca-shengjin-apartments-492245626.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492245626.jpg?k=560f48cc3a743e0a68a9a74a679dedc919bd5b854945344a16b594d6695a60a7&o=&hp=1"
 language: en
 slug: saca-shengjin-apartments
 address: "Rruga Shëngjin - Kune 6/607, 4503 Shëngjin, Albania"

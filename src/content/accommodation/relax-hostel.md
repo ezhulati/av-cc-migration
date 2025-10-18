@@ -1,7 +1,7 @@
 ---
 title: "Relax Hostel"
 description: "Relax Hostel emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/relax-hostel-394088607.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394088607.jpg?k=c50bc8d7a6635fcd95814e91682b1075e3feeac41241f2e74e2007a2488616ae&o=&hp=1"
 language: en
 slug: relax-hostel
 address: "Rruga Mujo Ulqinaku, 1010 Tirana, Albania"

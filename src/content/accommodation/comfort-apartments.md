@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartments"
 description: "Comfort Apartments emerges as a serene retreat offering picturesque garden views and a cozy ambiance, located just a stone's throw away from the vibrant Independence Square."
-featuredImage: "/images/accommodation/comfort-apartments-343266886.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/343266886.jpg?k=6d0c24112803ddb6de01a0a0d2efaf442de962b859916dbf05d730b89444bf56&o=&hp=1"
 language: en
 slug: comfort-apartments
 address: "Lagjja 1 Maj, Rruga Jani Bakalli (near Comfort Hotel), 9301 Fier, Albania"

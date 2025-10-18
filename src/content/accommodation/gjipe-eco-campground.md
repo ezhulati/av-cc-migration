@@ -1,7 +1,7 @@
 ---
 title: "Gjipe Eco Campground"
 description: "Gjipe Eco Campground emerges as a serene oasis, offering beachfront accommodations just a stone's throw away from the pristine Gjipe Beach and a mere 700 meters from the secluded Beach Me Shpella."
-featuredImage: "/images/accommodation/gjipe-eco-campground-295958209.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295958209.jpg?k=8eda64ed1a4b8bf57c180a024471bcac06318d612d370783383201ccd87b03b5&o=&hp=1"
 language: en
 slug: gjipe-eco-campground
 address: "Gjipe 1, 9417 Vuno, Albania"

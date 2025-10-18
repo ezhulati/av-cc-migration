@@ -1,7 +1,7 @@
 ---
 title: "Anna House"
 description: "Anna House emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short distance from the serene Vjetër Beach and the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/anna-house-475261126.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475261126.jpg?k=06d1ef04860db61eefa18fe3566172c2b357e516d75e6a62943fb8a92e22dc86&o=&hp=1"
 language: en
 slug: anna-house
 address: "Rruga Hajredin Haxhiraj, 9401 Vlorë, Albania"

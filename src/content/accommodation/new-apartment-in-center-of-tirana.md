@@ -1,7 +1,7 @@
 ---
 title: "New Apartment in Center of Tirana"
 description: "New Apartment in Center of Tirana emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Albania's vibrant capital."
-featuredImage: "/images/accommodation/new-apartment-in-center-of-tirana-428317457.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428317457.jpg?k=2ebd5158ff691ea5f746a09666bd68b016fbeae1abab7cff56ec92d1517e965b&o=&hp=1"
 language: en
 slug: new-apartment-in-center-of-tirana
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

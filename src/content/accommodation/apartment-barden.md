@@ -1,7 +1,7 @@
 ---
 title: "Apartment Barden"
 description: "Apartment Barden emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë, boasting breathtaking mountain views and a prime location just a stone's throw away from Vjetër Beach."
-featuredImage: "/images/accommodation/apartment-barden-366495492.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366495492.jpg?k=780751a8a5c2408aa0e71f22e46e883eda6737f0ce6e8f905ef7ec9a90bb04de&o=&hp=1"
 language: en
 slug: apartment-barden
 address: "Rruga Shyqyri Ali Merka, 9402 Vlorë, Albania"

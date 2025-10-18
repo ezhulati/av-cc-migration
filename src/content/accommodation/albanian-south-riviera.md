@@ -1,7 +1,7 @@
 ---
 title: "Albanian South Riviera"
 description: "Albanian South Riviera emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Vlorë."
-featuredImage: "/images/accommodation/albanian-south-riviera-8ecb6dbf787b.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-f/8ecb6dbf787bac20deb3945d9c8a8b1c94cc5e64.png"
 language: en
 slug: albanian-south-riviera
 address: "Rruga Nacionale e Vjetër, 1001 Vlorë, Albania"

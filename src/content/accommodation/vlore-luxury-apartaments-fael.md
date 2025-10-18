@@ -1,7 +1,7 @@
 ---
 title: "Vlore Luxury Apartaments \"FAEL\""
 description: "Vlore Luxury Apartments \"FAEL\" emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/vlore-luxury-apartaments-fael-481800964.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481800964.jpg?k=996e8a895621597a3b625be10509ffc5fb8f824d26831ad52f00605612d7f628&o=&hp=1"
 language: en
 slug: vlore-luxury-apartaments-fael
 address: "Rruga Shaban Demiraj, 9402 Vlorë, Albania"

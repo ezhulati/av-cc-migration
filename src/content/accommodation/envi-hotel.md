@@ -1,7 +1,7 @@
 ---
 title: "Envi Hotel"
 description: "Envi Hotel emerges as a serene retreat in Vlorë, situated a mere 9 km from the historic Kuzum Baba."
-featuredImage: "/images/accommodation/envi-hotel-211203905.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211203905.jpg?k=dfa978ed70f7a11cb96536eb5d7f8f9b4e4310ff431f2563359937fe7418eb97&o=&hp=1"
 language: en
 slug: envi-hotel
 address: "Rruga Aleksandër Moisiu, 9400 Vlorë, Albania"

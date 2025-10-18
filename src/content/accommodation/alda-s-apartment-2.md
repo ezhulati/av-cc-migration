@@ -1,7 +1,7 @@
 ---
 title: "Alda's Apartment 2"
 description: "Alda's Apartment 2 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/alda-s-apartment-2-389517177.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389517177.jpg?k=6b94d047e5c037f92f7808e4d1029d0a3d6ca57cf6425fd00ea8384f67b31b85&o=&hp=1"
 language: en
 slug: alda-s-apartment-2
 address: "Rruga Murat Tërbaçi, 9402 Vlorë, Albania"

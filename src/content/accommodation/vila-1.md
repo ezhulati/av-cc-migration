@@ -1,7 +1,7 @@
 ---
 title: "Vila 1"
 description: "Vila 1 stands out as a serene retreat in Korçë, offering breathtaking mountain views complemented by modern amenities such as complimentary WiFi and private parking."
-featuredImage: "/images/accommodation/vila-1-273620030.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273620030.jpg?k=a187ccacbe9eda6fab175fecccb387151e6d839caa62a4985d700f0c5984fdb7&o=&hp=1"
 language: en
 slug: vila-1
 address: "Qatrom, 7001 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Blevim place"
 description: "Blevim Place emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/blevim-place-306641006.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306641006.jpg?k=a81736da13ffb12de562ccfdc0dd53f7e641fab74bad454cca4c5a2f0e42e321&o=&hp=1"
 language: en
 slug: blevim-place
 address: "Rruga Rrap Sherifi Blevimhostel, 9400 Vlorë, Albania"

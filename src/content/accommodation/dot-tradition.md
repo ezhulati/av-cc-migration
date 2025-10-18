@@ -1,7 +1,7 @@
 ---
 title: "Dot Tradition"
 description: "Dot Tradition emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/dot-tradition-467039657.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467039657.jpg?k=5da5b6aed907874cea2bc842e4d93156caa5d058e97427d6217a9f6a0c65721d&o=&hp=1"
 language: en
 slug: dot-tradition
 address: "Rruga Mevlan Halim Dervishaj Lagjia Pavaresia, Pallati i shoqerise Algan, kati 2, 9400 Vlorë, Albania"

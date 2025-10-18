@@ -1,7 +1,7 @@
 ---
 title: "EA-APARTMENT"
 description: "EA-APARTMENT stands out as a prime choice for travelers seeking comfort and convenience in the heart of the city, with its stunning mountain views and easy access to Skanderbeg Square, just 1."
-featuredImage: "/images/accommodation/ea-apartment-493460475.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493460475.jpg?k=0a82c497eb9a8a98a1b5141d266e619520dfd587945f2db18a3e47570eb95ffd&o=&hp=1"
 language: en
 slug: ea-apartment
 address: "Rruga Osman Myderizi, 1001 Tirana, Albania"

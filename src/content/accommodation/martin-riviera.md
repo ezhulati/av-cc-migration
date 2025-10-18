@@ -1,7 +1,7 @@
 ---
 title: "Martin Riviera"
 description: "Martin Riviera stands out as a recently updated gem in Vlorë, boasting direct beachfront access and a serene garden setting."
-featuredImage: "/images/accommodation/martin-riviera-469152552.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469152552.jpg?k=d8ab8e00f30d3028e2872ac5979c8a552bec96a18d6f01c422cdf0589ceacd1c&o=&hp=1"
 language: en
 slug: martin-riviera
 address: "Rr. Sazani, 9401 Vlorë, Albania"

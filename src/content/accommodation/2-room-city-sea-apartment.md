@@ -1,7 +1,7 @@
 ---
 title: "2 Room City-Sea apartment"
 description: "Discover the charm of Durrës with a stay at the 2 Room City-Sea Apartment, a modern accommodation choice that promises comfort and convenience."
-featuredImage: "/images/accommodation/2-room-city-sea-apartment-113787294.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/113787294.jpg?k=40aca234189af78a0bca0d4eef6286597c6c63fcdd094bdd0fcfc4be19b465b0&o=&hp=1"
 language: en
 slug: 2-room-city-sea-apartment
 address: "RRUGA TAULANTIA 8 floor, 2001 Durrës, Albania"

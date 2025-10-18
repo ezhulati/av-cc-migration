@@ -1,7 +1,7 @@
 ---
 title: "Stone House Obelisk"
 description: "Discover the charm of Gjirokastër with a stay at Stone House Obelisk, a serene retreat located just 44 km from the tranquil Zaravina Lake."
-featuredImage: "/images/accommodation/stone-house-obelisk-298336228.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298336228.jpg?k=f0992ed4b2fee2bc4e8cf40369a5f9bbfb23c10962b38e318d3bb9280ac8c239&o=&hp=1"
 language: en
 slug: stone-house-obelisk
 address: "Rruga e Zejtareve, 6001 Gjirokastër, Albania"

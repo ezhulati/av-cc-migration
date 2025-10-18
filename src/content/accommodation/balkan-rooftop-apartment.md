@@ -1,7 +1,7 @@
 ---
 title: "Balkan Rooftop Apartment"
 description: "Balkan Rooftop Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/balkan-rooftop-apartment-506062141.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506062141.jpg?k=a847ecaa9eae28124f71e9b657d1a914d83e46ec8cf3534db05b42e9092b1f7e&o=&hp=1"
 language: en
 slug: balkan-rooftop-apartment
 address: "Rruga Derhemi, 1001 Tirana, Albania"

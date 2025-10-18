@@ -1,7 +1,7 @@
 ---
 title: "N HOTEL CITY CENTER BY NOSHI"
 description: "N HOTEL CITY CENTER BY NOSHI emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/n-hotel-city-center-by-noshi-471532927.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471532927.jpg?k=c46e1d2b725fa0f1eca7f20be914a66a32f3e7ebf5aa508bf7b6274b89863bcc&o=&hp=1"
 language: en
 slug: n-hotel-city-center-by-noshi
 address: "Rruga Jeronim De Rada 75, TIRANA 1001, 1001 Tirana, Albania"

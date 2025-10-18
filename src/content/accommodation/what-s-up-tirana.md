@@ -1,7 +1,7 @@
 ---
 title: "What's Up Tirana"
 description: "What's Up Tirana emerges as a modern gem in the heart of Albania's vibrant capital, boasting a recent renovation that positions it as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/what-s-up-tirana-464413824.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464413824.jpg?k=1d65591ffb8ca2748bca33cafab884f41bb73db22ea03977d16686d24de4e501&o=&hp=1"
 language: en
 slug: what-s-up-tirana
 address: "Rruga Mine Peza building 7; appartment 9, 1001 Tirana, Albania"

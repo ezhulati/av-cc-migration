@@ -1,7 +1,7 @@
 ---
 title: "Nea's Apartament"
 description: "Nea's Apartment emerges as a gem on the coastline of Durrës, boasting a prime location that places it within a stone's throw of both Shkëmbi i Kavajës Beach and Golem Beach."
-featuredImage: "/images/accommodation/nea-s-apartament-367790295.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367790295.jpg?k=b978d3ad98751d6e08303f42785f7202f7b66bef0d81cc22452e2b888c8123b8&o=&hp=1"
 language: en
 slug: nea-s-apartament
 address: "Rruga Shkembi i Kavajes, 2501 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Sunrise Villa"
 description: "Sunrise Villa emerges as a serene retreat, offering guests a unique blend of privacy and natural beauty, complemented by modern comforts."
-featuredImage: "/images/accommodation/sunrise-villa-523141249.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523141249.jpg?k=124fa86f77186e0e1359c3409cc200c1097f4cad99818d0f241c5d07671b3885&o=&hp=1"
 language: en
 slug: sunrise-villa
 address: "Vila e shefit, Rrushkull, Albania"

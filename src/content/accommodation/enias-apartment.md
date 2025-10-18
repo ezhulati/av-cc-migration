@@ -1,7 +1,7 @@
 ---
 title: "Enias apartment"
 description: "Enias Apartment emerges as a serene retreat in Orikum, perfectly positioned just a stone's throw away from the pristine shores of Orikum Beach and the equally inviting Nettuno Beach."
-featuredImage: "/images/accommodation/enias-apartment-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: enias-apartment
 address: "Rruga Orikum 2, 1001 Orikum, Albania"

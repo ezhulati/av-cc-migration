@@ -1,7 +1,7 @@
 ---
 title: "Ledio’s Luxury Apartment"
 description: "Ledio's Luxury Apartment, located in the serene Pogradec area of Korçë County, offers guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/ledio-s-luxury-apartment-479404287.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479404287.jpg?k=b65e62ab1ade1769ecc38aada969b9a1ff5b808250d4d683f0e373de068f70e0&o=&hp=1"
 language: en
 slug: ledio-s-luxury-apartment
 address: "Rruga Mehdi Zavelani 2nd Floor , Apartment No.5, 7301 Pogradec, Albania"

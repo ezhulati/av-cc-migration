@@ -1,7 +1,7 @@
 ---
 title: "Sofia's Rooms"
 description: "Sofia's Rooms, located in the serene town of Himare, stands a mere 2."
-featuredImage: "/images/accommodation/sofia-s-rooms-472547088.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472547088.jpg?k=a75d006677b1589ab1773c93c8e716dda7e1082abe52391dbbcab8f624ba5bf1&o=&hp=1"
 language: en
 slug: sofia-s-rooms
 address: "Himare - Livadh Road, Himare, Albania"

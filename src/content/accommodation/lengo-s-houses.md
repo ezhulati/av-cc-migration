@@ -1,7 +1,7 @@
 ---
 title: "Lengo's Houses"
 description: "Lengo's Houses stands out as a serene retreat in the historic city of Gjirokastër."
-featuredImage: "/images/accommodation/lengo-s-houses-484569910.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484569910.jpg?k=9f18c65768d06eb5be53fcc0d74f067d861f49e549ca8be5c4ebaa6874d5aa03&o=&hp=1"
 language: en
 slug: lengo-s-houses
 address: "Rruga Manalat, 6001 Gjirokastër, Albania"

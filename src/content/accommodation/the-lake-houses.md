@@ -1,7 +1,7 @@
 ---
 title: "The Lake Houses"
 description: "The Lake Houses in Shirokë presents an exclusive retreat with its own private pool, ensuring a serene and private experience for guests."
-featuredImage: "/images/accommodation/the-lake-houses-477057860.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477057860.jpg?k=db02f5d419bfed324c2e2325d4a5ba66e5c8299a486fe85706dc88c000487d7c&o=&hp=1"
 language: en
 slug: the-lake-houses
 address: "Rruga Zogaj, 1000 Shirokë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "HOLIDAY HOME"
 description: "HOLIDAY HOME stands out as a gem in Durrës, boasting a recent renovation that brings modern comfort to its guests."
-featuredImage: "/images/accommodation/holiday-home-457693058.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457693058.jpg?k=30175d4e957d70b823bf2ec95cbdb57b74298f982222816a2435cf27c02f703f&o=&hp=1"
 language: en
 slug: holiday-home
 address: "Rruga Gjiri i Lalzit, 2015 Durrës, Albania"

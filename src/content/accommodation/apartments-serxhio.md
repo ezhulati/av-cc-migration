@@ -1,7 +1,7 @@
 ---
 title: "Apartments Serxhio"
 description: "Discover the charm of Saranda with a stay at Apartments Serxhio, a prime choice for travelers seeking comfort and convenience mere steps from the beach."
-featuredImage: "/images/accommodation/apartments-serxhio-18295445.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/18295445.jpg?k=a000fcec574069a207a9ac1ade1c515768106aeab1cf9fef7d103c4e7c35eeb7&o=&hp=1"
 language: en
 slug: apartments-serxhio
 address: "Rruga Naim Frasheri, 9703 Sarandë, Albania"

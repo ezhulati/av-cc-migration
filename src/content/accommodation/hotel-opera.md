@@ -1,7 +1,7 @@
 ---
 title: "Hotel Opera"
 description: "Hotel Opera emerges as a distinguished choice for travelers seeking elegance and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-opera-67749281.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/67749281.jpg?k=f2898d92b5aa977de60d03dd59638d14f1e09dab5458a029ed4d987ad30a10dc&o=&hp=1"
 language: en
 slug: hotel-opera
 address: "Rruga Urani Pano, 1016 Tirana, Albania"

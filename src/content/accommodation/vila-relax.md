@@ -1,7 +1,7 @@
 ---
 title: "Vila Relax"
 description: "Vila Relax emerges as a serene retreat in the heart of Shëngjin, Lezhë County, offering guests a unique blend of convenience and scenic beauty."
-featuredImage: "/images/accommodation/vila-relax-487623454.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487623454.jpg?k=69ee1452f0afb83c3104cd5f9e76395ba358ebb38292dbabbbfd793ba2143d29&o=&hp=1"
 language: en
 slug: vila-relax
 address: "Rruga Shkreli, 4503 Shëngjin, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Zace Studios"
 description: "Zace Studios emerges as a serene oasis, merely a stone's throw away from the pristine beaches of Ksamil."
-featuredImage: "/images/accommodation/zace-studios-32910866.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/32910866.jpg?k=c26e72c91f17342da19e24e81b6d61391272dbd0ad0c161ce0a010e254c5bb79&o=&hp=1"
 language: en
 slug: zace-studios
 address: "Naim Frasheri, 9999 Ksamil, Albania"

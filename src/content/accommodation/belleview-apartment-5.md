@@ -1,7 +1,7 @@
 ---
 title: "Belleview Apartment 5"
 description: "Belleview Apartment 5 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/belleview-apartment-5-140385780.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140385780.jpg?k=b0265d2800b19993b9a64535c63d22ce5925533c8e08443f60ec60612787f47e&o=&hp=1"
 language: en
 slug: belleview-apartment-5
 address: "Rruga Rushit Gurishova, 9400 Vlorë, Albania"

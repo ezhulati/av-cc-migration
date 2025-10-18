@@ -1,7 +1,7 @@
 ---
 title: "E&G Apartments 1"
 description: "E&G Apartments 1 emerges as a prime choice for travelers seeking comfort and convenience in Golem."
-featuredImage: "/images/accommodation/e-g-apartments-1-475944376.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475944376.jpg?k=a453b8592a115b86562e16348f12d34a7fb6c12dd0c35fb9eb333a9aa1260b37&o=&hp=1"
 language: en
 slug: e-g-apartments-1
 address: "Rruga Skënderbeu 1, 2057 Golem, Albania"

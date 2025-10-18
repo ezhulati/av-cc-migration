@@ -1,7 +1,7 @@
 ---
 title: "Xho's Forest Guest House"
 description: "Xho's Forest Guest House in Berat stands out as a serene retreat for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/xho-s-forest-guest-house-379967306.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/379967306.jpg?k=3608b9c94b3ff11624cb7265f88aba630708723216fb2b6afb6db0e78312155d&o=&hp=1"
 language: en
 slug: xho-s-forest-guest-house
 address: "Rruga Santa Lucia, 5001 Berat, Albania"

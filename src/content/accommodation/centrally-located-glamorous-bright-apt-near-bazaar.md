@@ -1,7 +1,7 @@
 ---
 title: "Centrally located Glamorous Bright APT near Bazaar"
 description: "Centrally Located Glamorous Bright Apartment near Bazaar emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/centrally-located-glamorous-bright-apt-near-bazaar-384792633.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384792633.jpg?k=dce869753caee8f19eaf3a5a02b1b002b75f476e241c8b18c9a8996030f60b05&o=&hp=1"
 language: en
 slug: centrally-located-glamorous-bright-apt-near-bazaar
 address: "Rruga Tefta Tashko-Koço, 1001 Tirana, Albania"

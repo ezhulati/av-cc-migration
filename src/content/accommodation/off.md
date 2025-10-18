@@ -1,7 +1,7 @@
 ---
 title: "Off"
 description: "Off emerges as a serene oasis in Kavajë, boasting a lush garden and well-appointed barbecue facilities, merely a stone's throw away from the pristine Qerret Beach and the scenic Mali I Robit Beach."
-featuredImage: "/images/accommodation/off-494734315.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494734315.jpg?k=11e5c90cda189a5a485326390adf9a56739d87aa34538383c4fcb1ea4834de8d&o=&hp=1"
 language: en
 slug: off
 address: "rruga hencve, 2501 Kavajë, Albania"

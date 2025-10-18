@@ -1,7 +1,7 @@
 ---
 title: "Maria Apartament’s Shëngjin Beach"
 description: "Maria Apartament's Shëngjin Beach emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Lezhë."
-featuredImage: "/images/accommodation/maria-apartament-s-sh-ngjin-beach-478126371.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478126371.jpg?k=0c006d9890002827617a319aecf471be096dca5c405e7905a2e274bff60fdef7&o=&hp=1"
 language: en
 slug: maria-apartament-s-sh-ngjin-beach
 address: "Rruga Kënallë - Kune, Lezhë, Albania"

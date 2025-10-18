@@ -1,7 +1,7 @@
 ---
 title: "LETI APARTMENT RRUGA E DURRESIT"
 description: "LETI APARTMENT RRUGA E DURRESIT emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/leti-apartment-rruga-e-durresit-408656450.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408656450.jpg?k=2702d55e85196721c53f539c0ccdfb20aafbe9afda0bb6d0b884aae12252a48f&o=&hp=1"
 language: en
 slug: leti-apartment-rruga-e-durresit
 address: "Rruga e Durrësit, 1001 Tirana, Albania"

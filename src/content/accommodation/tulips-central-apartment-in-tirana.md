@@ -1,7 +1,7 @@
 ---
 title: "Tulips Central Apartment in Tirana"
 description: "Tulips Central Apartment emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tulips-central-apartment-in-tirana-504155894.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504155894.jpg?k=415135b82c17e15ae50f54f24c2f05ea7e756d06fb77d1bc6804b9579ddf87a7&o=&hp=1"
 language: en
 slug: tulips-central-apartment-in-tirana
 address: "Rruga Ibrahim Ndoqi, 1001 Tirana, Albania"

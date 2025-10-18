@@ -1,7 +1,7 @@
 ---
 title: "Phi Apartments 1 min from the beach - New Additions"
 description: "Phi Apartments, located merely a minute's walk from the beach, emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in Durrës."
-featuredImage: "/images/accommodation/phi-apartments-1-min-from-the-beach-new-additions-315f92289c48.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
 language: en
 slug: phi-apartments-1-min-from-the-beach-new-additions
 address: "Shkëmbi i Kavajës, Durrës, Albania"

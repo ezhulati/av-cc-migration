@@ -1,7 +1,7 @@
 ---
 title: "Vip Apartment by \"Murati\""
 description: "Vip Apartment by \"Murati\" emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by stunning sea views."
-featuredImage: "/images/accommodation/vip-apartment-by-murati-130769350.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/130769350.jpg?k=1e24ee849649c885aaacadbede857b5d670ef775acd3911fc63915d5aba93a8a&o=&hp=1"
 language: en
 slug: vip-apartment-by-murati
 address: "SH81, Ksamil, Albania, 9706 Ksamil, Albania"

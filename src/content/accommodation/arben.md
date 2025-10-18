@@ -1,7 +1,7 @@
 ---
 title: "Arben"
 description: "Arben emerges as a serene retreat in the vibrant city of Durrës, merely 500 meters from the inviting sands of Durres Beach."
-featuredImage: "/images/accommodation/arben-142780852.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/142780852.jpg?k=d6cf9f9d397aabc67521c9fda7d5435f7fe7ca5d5c8e49d6033eee6346833291&o=&hp=1"
 language: en
 slug: arben
 address: "Rr. Turgut Ozal , Hekurudha, 2001 Durrës, Albania"

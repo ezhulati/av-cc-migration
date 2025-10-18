@@ -1,7 +1,7 @@
 ---
 title: "Connor Premium Apartment"
 description: "Connor Premium Apartment emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, positioned just a stone's throw away from the serene Vjetër Beach and a brief drive from the bustling Vlore Beach."
-featuredImage: "/images/accommodation/connor-premium-apartment-509571316.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509571316.jpg?k=054ec34dd939671504ea040b3fad55ec3ab27734423b34921c95803ca83a6857&o=&hp=1"
 language: en
 slug: connor-premium-apartment
 address: "Rr. Sazani, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bliri Shallvaret"
 description: "Bliri Shallvaret emerges as a modern gem in the heart of Tirana, boasting a prime location that places guests at the doorstep of the city's rich history and vibrant culture."
-featuredImage: "/images/accommodation/bliri-shallvaret-478478262.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478478262.jpg?k=ed2d7fc7c73f219af9e516c321d9e49c0b8b4ca2d946287f33da2b4e662dd2e4&o=&hp=1"
 language: en
 slug: bliri-shallvaret
 address: "Rruga Reshit Collaku, shkalla 5, appart nr 10, 1001 Tirana, Albania"

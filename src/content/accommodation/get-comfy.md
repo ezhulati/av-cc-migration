@@ -1,7 +1,7 @@
 ---
 title: "Get comfy"
 description: "Get Comfy emerges as a serene retreat in the vibrant heart of Sarandë, boasting a picturesque garden and sweeping sea views."
-featuredImage: "/images/accommodation/get-comfy-473287199.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473287199.jpg?k=008ca53c98888ffa1592fb1df739b33e177dbe44223711a4006df26d26334a4b&o=&hp=1"
 language: en
 slug: get-comfy
 address: "Rruga Gjergj Araniti, 9106 Sarandë, Albania"

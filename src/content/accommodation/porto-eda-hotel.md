@@ -1,7 +1,7 @@
 ---
 title: "Porto Eda Hotel"
 description: "Discover the charm of Porto Eda Hotel, a prime choice for travelers seeking comfort and convenience by the sea."
-featuredImage: "/images/accommodation/porto-eda-hotel-460126695.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460126695.jpg?k=4e6b574d44cfe75b5910acfb60c9264972d5f38f70895bee7d34efdcadee0ed2&o=&hp=1"
 language: en
 slug: porto-eda-hotel
 address: "Rr. Skenderbej, Te Limani, 9702 Sarandë, Albania"

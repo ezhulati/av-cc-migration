@@ -1,7 +1,7 @@
 ---
 title: "Zmijani Apartments"
 description: "Zmijani Apartments emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience, located just a short stroll from the pristine Velipoja Beach."
-featuredImage: "/images/accommodation/zmijani-apartments-447133593.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447133593.jpg?k=5f749d86dd97db8dba0d7e9de967b5f0f8c93697a64ecb533f486186dfbf9db5&o=&hp=1"
 language: en
 slug: zmijani-apartments
 address: "Rruga Nr.7, 1001 Velipojë, Albania"

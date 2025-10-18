@@ -1,7 +1,7 @@
 ---
 title: "Memory Tirana Apartments"
 description: "Memory Tirana Apartments emerges as a serene oasis in the heart of Tirana, merely 2."
-featuredImage: "/images/accommodation/memory-tirana-apartments-315f92289c48.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-c/315f92289c481a16de5ee7737aa1b5fd531afcce.png"
 language: en
 slug: memory-tirana-apartments
 address: "Rruga Arben Broci, Tirana, Albania"

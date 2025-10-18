@@ -1,7 +1,7 @@
 ---
 title: "Vila Mitrojorgji"
 description: "Vila Mitrojorgji emerges as a premier choice for travelers seeking a serene beachfront escape in Shëngjin."
-featuredImage: "/images/accommodation/vila-mitrojorgji-473926440.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473926440.jpg?k=f5f91c2eeceb2ed2e8135d440f51e51c03837a8da0bcef85e90f6647984a48b3&o=&hp=1"
 language: en
 slug: vila-mitrojorgji
 address: "Rruga Shëngjin - Kune, Shëngjin, Albania"

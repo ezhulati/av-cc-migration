@@ -1,7 +1,7 @@
 ---
 title: "Guest House LION"
 description: "Guest House LION in Berat stands out as a remarkable choice for travelers seeking both comfort and history in their accommodations."
-featuredImage: "/images/accommodation/guest-house-lion-462728025.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462728025.jpg?k=3f1dfc7888aa37a2697338a50bf7773f55e031d7c676196fffcb0261c01bfc1f&o=&hp=1"
 language: en
 slug: guest-house-lion
 address: "Rruga Llambi Guxhumani, 5001 Berat, Albania"

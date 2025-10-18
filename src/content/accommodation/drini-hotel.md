@@ -1,7 +1,7 @@
 ---
 title: "Drini Hotel"
 description: "Discover the hidden gem of Durrës, the Drini Hotel, a serene retreat located just a short distance from the bustling city center and the pristine coastline."
-featuredImage: "/images/accommodation/drini-hotel-481124842.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481124842.jpg?k=c542fa16195865ae410dbff0bc33bfa47c0383f9220b7cda90c87ac3efe82fb2&o=&hp=1"
 language: en
 slug: drini-hotel
 address: "Rruga Durres-Shijak,Komuna Rrashbull, 2021 Durrës, Albania"

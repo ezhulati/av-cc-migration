@@ -1,7 +1,7 @@
 ---
 title: "Serene Green One-Bedroom Condo"
 description: "Discover the charm of Vlorë with a stay at the Serene Green One-Bedroom Condo, a gem recently polished to perfection and situated merely 500 meters from the historic Independence Square and a short 1."
-featuredImage: "/images/accommodation/serene-green-one-bedroom-condo-475322015.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475322015.jpg?k=93bb8e183e406428e9e269b8e46c4886fab45bc2e1a3c8f5fb3b4056677d8c51&o=&hp=1"
 language: en
 slug: serene-green-one-bedroom-condo
 address: "Rr Ymer Veshi, 1001 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Ilir"
 description: "Vila Ilir emerges as a charming 3-star haven in Tushemisht, offering guests a serene retreat with its lush garden, inviting restaurant, and welcoming bar."
-featuredImage: "/images/accommodation/vila-ilir-445196998.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/445196998.jpg?k=c2c944900a7205f18c892be7299723fa8c7fc9fa36b3e5d8afdb2c20f8d29c3b&o=&hp=1"
 language: en
 slug: vila-ilir
 address: "Rruga Jovan Llakmani At the entrance of the village, 20 m to the right., 7304 Tushemisht, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Seaside view 1"
 description: "Seaside View 1 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/seaside-view-1-370999276.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/370999276.jpg?k=0d14e373dca70cfa78031b7dc43c834a53a87894058a3176988c87325999ccc0&o=&hp=1"
 language: en
 slug: seaside-view-1
 address: "Rruga Rushit Gurishova, 9401 Vlorë, Albania"

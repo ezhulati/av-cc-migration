@@ -1,7 +1,7 @@
 ---
 title: "FEELINGS"
 description: "FEELINGS stands as a serene retreat in the heart of Durrës, Durres County, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/feelings-383244942.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383244942.jpg?k=02b3d6f86f2d0fcc8e32917c901f7317693ab3992e30ca0ec0349d5c0ae8657c&o=&hp=1"
 language: en
 slug: feelings
 address: "Rruga Taulantia, 2001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Bellavista Apartments Bougainville Bay"
 description: "Bellavista Apartments Bougainville Bay stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just 700 meters from the city center."
-featuredImage: "/images/accommodation/bellavista-apartments-bougainville-bay-475208921.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475208921.jpg?k=145cffecc415cce0576612f3e4d79c34f25895b984ea9e03cfc59a3788bded9c&o=&hp=1"
 language: en
 slug: bellavista-apartments-bougainville-bay
 address: "Rruga Butrinti Bougainville Bay, 9701 Sarandë, Albania"

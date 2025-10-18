@@ -1,7 +1,7 @@
 ---
 title: "Seaview Country House"
 description: "Seaview Country House, located in the vibrant town of Sarandë and a mere 43 km from the enchanting Butrint National Park, presents travelers with a serene retreat complete with air-conditioned accommodations that boast a terrace and complimentary WiFi."
-featuredImage: "/images/accommodation/seaview-country-house-437739239.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437739239.jpg?k=08ae1b3a05e2bf8f33a35629b0cd9a177941814b9cf70033761aefb64a8f50a2&o=&hp=1"
 language: en
 slug: seaview-country-house
 address: "Apartment No.3, Piqeras, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Smartstayalbania"
 description: "Smartstayalbania emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/smartstayalbania-504623577.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504623577.jpg?k=415e90eb3ad483ac21873a729962f1f333fc78f02c122cb85513cf68151f6574&o=&hp=1"
 language: en
 slug: smartstayalbania
 address: "Rruga Besim Imami, 1001 Tirana, Albania"

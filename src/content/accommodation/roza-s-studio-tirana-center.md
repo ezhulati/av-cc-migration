@@ -1,7 +1,7 @@
 ---
 title: "Roza's Studio Tirana Center"
 description: "Roza's Studio Tirana Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/roza-s-studio-tirana-center-216624462.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216624462.jpg?k=87e70846b0c2b04cb1403ddb230ee20db7924b9b5af3616172b448ccd2beb070&o=&hp=1"
 language: en
 slug: roza-s-studio-tirana-center
 address: "Rruga Myslym Shyri Palace nr 6 Entrance nr 2 Floor nr 3, 1001 Tirana, Albania"

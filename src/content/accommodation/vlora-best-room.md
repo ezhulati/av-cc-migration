@@ -1,7 +1,7 @@
 ---
 title: "Vlora Best Room"
 description: "Vlora Best Room emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/vlora-best-room-498957240.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498957240.jpg?k=97add5f6cd93489ef1bd5b80a80b04af11adc05d29758b1e8cbd3b33e6bba0c9&o=&hp=1"
 language: en
 slug: vlora-best-room
 address: "Rruga Dush Strati Apartment 12, floor 3, 9401 Vlorë, Albania"

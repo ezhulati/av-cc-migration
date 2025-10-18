@@ -1,7 +1,7 @@
 ---
 title: "Loft in Durrës mit Meerblick"
 description: "Loft in Durrës mit Meerblick stands as a testament to modern comfort and convenience, offering guests a unique stay with breathtaking sea views right from its balcony."
-featuredImage: "/images/accommodation/loft-in-durr-s-mit-meerblick-473645262.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473645262.jpg?k=c4b157da6318b51134c85ebebe4cf007a3d0013d625384143564a2ae0c56ef5e&o=&hp=1"
 language: en
 slug: loft-in-durr-s-mit-meerblick
 address: "Mali i Robit, Golem, Albania"

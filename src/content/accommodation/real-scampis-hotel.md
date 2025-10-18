@@ -1,7 +1,7 @@
 ---
 title: "Real Scampis Hotel"
 description: "Real Scampis Hotel, situated a mere 40 km from the vibrant Skanderbeg Square in Elbasan, emerges as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/real-scampis-hotel-146696741.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/146696741.jpg?k=a3bf7d45fde182db1760b5d64f8a966fe433764d90ad68ea0138b7ff486378b9&o=&hp=1"
 language: en
 slug: real-scampis-hotel
 address: "Rruga Xhafer Kongoli, 8524 Elbasan, Albania"

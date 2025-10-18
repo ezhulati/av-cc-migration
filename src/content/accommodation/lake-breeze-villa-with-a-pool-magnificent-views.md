@@ -1,7 +1,7 @@
 ---
 title: "Lake Breeze Villa with a Pool & Magnificent Views"
 description: "Lake Breeze Villa with a Pool & Magnificent Views, located in the serene town of Shirokë, presents a luxurious retreat for those seeking a blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/lake-breeze-villa-with-a-pool-magnificent-views-363275672.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/363275672.jpg?k=b576e167c27103341f336090de520cf7cdfe205e712f6fe59aab5d1559f196a8&o=&hp=1"
 language: en
 slug: lake-breeze-villa-with-a-pool-magnificent-views
 address: "Rruga e Selvijave, 4001 Shirokë, Albania"

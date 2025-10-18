@@ -1,7 +1,7 @@
 ---
 title: "Hotel Gorica - UNESCO quarter"
 description: "Hotel Gorica, located in the heart of Berat's UNESCO quarter, offers a unique accommodation experience with its breathtaking mountain and river views."
-featuredImage: "/images/accommodation/hotel-gorica-unesco-quarter-491066811.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491066811.jpg?k=17aec64cd53b76206aeb5ed3beab223e51a6c88bb1068caa0112fb57aa201b47&o=&hp=1"
 language: en
 slug: hotel-gorica-unesco-quarter
 address: "Rruga Stiliano Bandilli, 5001 Berat, Albania"

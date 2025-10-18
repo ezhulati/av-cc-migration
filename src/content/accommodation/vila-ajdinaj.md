@@ -1,7 +1,7 @@
 ---
 title: "Vila Ajdinaj"
 description: "Vila Ajdinaj emerges as a prime choice for travelers seeking comfort and convenience in Berat, offering accommodations that come with the added benefits of complimentary WiFi and private parking."
-featuredImage: "/images/accommodation/vila-ajdinaj-463804930.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463804930.jpg?k=5bc17eb2587a71610cdda2215fa1ab5e08c70534e4419c62cbab39ad1fdf7ecf&o=&hp=1"
 language: en
 slug: vila-ajdinaj
 address: "Rruga Antipatrea, 5001 Berat, Albania"

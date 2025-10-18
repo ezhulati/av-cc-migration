@@ -1,7 +1,7 @@
 ---
 title: "SunRise Suites"
 description: "SunRise Suites emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, boasting a prime location close to popular beaches such as Government Villas, Liro Beach, and Ri Beach."
-featuredImage: "/images/accommodation/sunrise-suites-38980659.web.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/38980659.webp?k=2bc1a1a4b0932b800690a4924a141a531b9164c2b94e7e027ec7b19039c79ad6&o=?t=1521401825"
 language: en
 slug: sunrise-suites
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

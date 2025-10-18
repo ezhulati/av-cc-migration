@@ -1,7 +1,7 @@
 ---
 title: "Elite Apartment"
 description: "Elite Apartment stands as a modern oasis in Durrës, a mere stone's throw away from the pristine Durres Beach and within a comfortable distance of 37 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/elite-apartment-AATXAJxelxH4.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJxelxH4e_foGl7VbcII_Q-WDF411qYsc9ddB9FW=s96-c64"
 language: en
 slug: elite-apartment
 address: "Rruga Pavaresia, Prane Restorant Pineta, 2001 Durrës, Albania"

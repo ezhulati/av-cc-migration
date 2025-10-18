@@ -1,7 +1,7 @@
 ---
 title: "*Getaway for Relaxation! 12 min to airport!*"
 description: "Discover the serene charm of *Getaway for Relaxation!"
-featuredImage: "/images/accommodation/getaway-for-relaxation-12-min-to-airport-509410775.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509410775.jpg?k=ffd295256b7cd96f5359984ef394f7dc962e9230faf31db2692ee636e4865daa&o=&hp=1"
 language: en
 slug: getaway-for-relaxation-12-min-to-airport
 address: "Rruga Monarkia Shqiptare 55, Kamëz, Albania"

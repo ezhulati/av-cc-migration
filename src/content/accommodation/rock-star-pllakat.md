@@ -1,7 +1,7 @@
 ---
 title: "Rock Star-Pllakat"
 description: "Rock Star-Pllakat emerges as a standout choice for travelers seeking a serene beachfront escape in Sarandë."
-featuredImage: "/images/accommodation/rock-star-pllakat-298896702.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/298896702.jpg?k=6c733590161c2d1f3cb1a08da09f39bbe0ed7236f856517dfd28348867d0faaf&o=&hp=1"
 language: en
 slug: rock-star-pllakat
 address: "101 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Holidays Apartment"
 description: "Holidays Apartment in Golem stands out as a prime choice for travelers seeking comfort and convenience in a serene setting."
-featuredImage: "/images/accommodation/holidays-apartment-472981891.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472981891.jpg?k=24663032d6203b7510dcae66d751f311cf64e28831ec6741a0df13e5aa28099f&o=&hp=1"
 language: en
 slug: holidays-apartment
 address: "Rruga Roma, 2100 Golem, Albania"

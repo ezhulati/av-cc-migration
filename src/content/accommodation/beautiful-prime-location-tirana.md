@@ -1,7 +1,7 @@
 ---
 title: "Beautiful PRIME Location Tirana"
 description: "Beautiful PRIME Location Tirana emerges as a standout choice for travelers seeking the perfect blend of convenience and comfort in Albania's vibrant capital."
-featuredImage: "/images/accommodation/beautiful-prime-location-tirana-440137117.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/440137117.jpg?k=f280a70063fede3dd795a35c5f984d995307476d5b363d828b3ec664ddc21380&o=&hp=1"
 language: en
 slug: beautiful-prime-location-tirana
 address: "Rruga e Elbasanit, 1001 Tirana, Albania"

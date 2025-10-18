@@ -1,7 +1,7 @@
 ---
 title: "Nikos Apartment"
 description: "Nikos Apartment emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, situated just a short distance from the pristine Vlore Beach and the serene Ri Beach."
-featuredImage: "/images/accommodation/nikos-apartment-528159887.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/528159887.jpg?k=db29eed37ff8a4f71529799a5e11fb186ff3579af1e89646fb7bd022cbc01253&o=&hp=1"
 language: en
 slug: nikos-apartment
 address: "Rruga Kosova, 8603 Vlorë, Albania"

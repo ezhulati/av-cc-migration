@@ -1,7 +1,7 @@
 ---
 title: "PINE HOUSE 2023"
 description: "PINE HOUSE 2023 emerges as a serene retreat in the vibrant city of Vlorë, perfectly positioned just a stone's throw away from the pristine Vjetër Beach and a short drive from the historic Independence Square."
-featuredImage: "/images/accommodation/pine-house-2023-479724870.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479724870.jpg?k=1d1c56be7368b9ef716d2fc4f4663cabb8b903d5acc1d858a6050db13128c0dc&o=&hp=1"
 language: en
 slug: pine-house-2023
 address: "VLORE RRUGA SAZANI, Vlorë, Albania"

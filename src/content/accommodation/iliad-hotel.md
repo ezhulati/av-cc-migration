@@ -1,7 +1,7 @@
 ---
 title: "Iliad Hotel"
 description: "Discover the charm of Iliad Hotel, a distinguished establishment located in the vibrant city of Durrës."
-featuredImage: "/images/accommodation/iliad-hotel-304597219.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304597219.jpg?k=51c0811b7c46d618174a64fad0e3ad603a7bc4ade813872160416cf69f243f1a&o=&hp=1"
 language: en
 slug: iliad-hotel
 address: "Rruga Taulantia, 2001 Durrës, Albania"

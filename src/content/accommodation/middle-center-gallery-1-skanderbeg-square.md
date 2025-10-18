@@ -1,7 +1,7 @@
 ---
 title: "Middle Center Gallery 1 Skanderbeg Square"
 description: "Middle Center Gallery 1 Skanderbeg Square emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/middle-center-gallery-1-skanderbeg-square-406022018.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406022018.jpg?k=69695b09aa68588fee466bc2c817f9d3e6a30e16c6e3ddd5f0cd9141df8cb654&o=&hp=1"
 language: en
 slug: middle-center-gallery-1-skanderbeg-square
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

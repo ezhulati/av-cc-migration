@@ -1,7 +1,7 @@
 ---
 title: "Digital Nomad Central ap"
 description: "Digital Nomad Central ap emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/digital-nomad-central-ap-413666298.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413666298.jpg?k=3585b5549ebf24fdddc4324d421e0c4ece64cb1050e5433a0affb547266c81ee&o=&hp=1"
 language: en
 slug: digital-nomad-central-ap
 address: "Rruga Fortuzi, Tirana, Albania"

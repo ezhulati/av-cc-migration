@@ -1,7 +1,7 @@
 ---
 title: "LUNGOMARE CIAK APARTMENT 3"
 description: "Lungomare Ciak Apartment 3 emerges as a prime choice for travelers seeking comfort and convenience in Vlorë, positioned just a stone's throw away from the serene Vlore Beach and within easy reach of Ri Beach and Vjetër Beach."
-featuredImage: "/images/accommodation/lungomare-ciak-apartment-3-468671152.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468671152.jpg?k=132e304f2e99cc305b5bf9301ab7e5775f26001de2464cc7232ed4c6932ef70e&o=&hp=1"
 language: en
 slug: lungomare-ciak-apartment-3
 address: "Rruga Shaban Demiraj, 1001 Vlorë, Albania"

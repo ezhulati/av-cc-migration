@@ -1,7 +1,7 @@
 ---
 title: "Vila Llaka"
 description: "Vila Llaka emerges as a serene haven for travelers seeking the perfect blend of comfort and adventure in Himare."
-featuredImage: "/images/accommodation/vila-llaka-313983563.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313983563.jpg?k=15890062818c83d8bf52edd11b6c5b01bb68d3e0a7002385efa51b74c51b9ed2&o=&hp=1"
 language: en
 slug: vila-llaka
 address: "Potam Hill, 9405 Himare, Albania"

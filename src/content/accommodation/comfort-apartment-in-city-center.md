@@ -1,7 +1,7 @@
 ---
 title: "Comfort Apartment In City Center"
 description: "Comfort Apartment In City Center emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/comfort-apartment-in-city-center-327877351.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327877351.jpg?k=5abdd1a1977bb7525409261c0643bfbacb384b24e90d5afc6bd2d6e8802cfc30&o=&hp=1"
 language: en
 slug: comfort-apartment-in-city-center
 address: "Rruga e Saraçëve Floor 7, 1017 Tirana, Albania"

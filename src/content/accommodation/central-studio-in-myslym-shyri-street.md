@@ -1,7 +1,7 @@
 ---
 title: "Central Studio in Myslym Shyri Street"
 description: "Central Studio in Myslym Shyri Street emerges as a prime choice for travelers seeking the comfort of air-conditioned accommodations coupled with the convenience of a central location in Tirana."
-featuredImage: "/images/accommodation/central-studio-in-myslym-shyri-street-493307640.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493307640.jpg?k=6a4f61af953d3693e708a1cc9465bab79cfd8101bf31a7eac6a2164e9cc3dfca&o=&hp=1"
 language: en
 slug: central-studio-in-myslym-shyri-street
 address: "Rruga Myslym Shyri, 1014 Tirana, Albania"

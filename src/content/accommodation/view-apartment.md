@@ -1,7 +1,7 @@
 ---
 title: "View Apartment"
 description: "Discover the charm of Kashar at View Apartment, a prime destination for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/view-apartment-501388628.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/501388628.jpg?k=330d9957b9df5054e7230f461ddb79851df765e82f2c35ca70f12576039c2f46&o=&hp=1"
 language: en
 slug: view-apartment
 address: "Bulevardi migjeni, 1051 Kashar, Albania"

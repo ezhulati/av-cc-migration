@@ -1,7 +1,7 @@
 ---
 title: "Casa Felice"
 description: "Casa Felice emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, situated just a stone's throw away from Ri Beach and a short stroll from the vibrant Vlore Beach."
-featuredImage: "/images/accommodation/casa-felice-8103dfb0481c.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
 language: en
 slug: casa-felice
 address: "Rruga Aleksandër Moisiu Shkalla 1, Apartament 21, 9400 Vlorë, Albania"

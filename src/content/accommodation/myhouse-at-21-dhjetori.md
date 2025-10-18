@@ -1,7 +1,7 @@
 ---
 title: "MyHouse at 21 Dhjetori"
 description: "MyHouse at 21 Dhjetori emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/myhouse-at-21-dhjetori-489852707.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489852707.jpg?k=96ec6e5f7df2fccbc4d9f02f117ef0671e6f1185162b1303335a1e2e998abbc2&o=&hp=1"
 language: en
 slug: myhouse-at-21-dhjetori
 address: "Rruga e Kavajës, 1025 Tirana, Albania"

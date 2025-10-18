@@ -1,7 +1,7 @@
 ---
 title: "Isabela Apartments"
 description: "Isabela Apartments emerges as a serene oasis in the heart of Sarandë, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/isabela-apartments-8103dfb0481c.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-b/8103dfb0481c4cedc201d849f5666a270512f538.png"
 language: en
 slug: isabela-apartments
 address: "Rruga Janaq Kumi Building 40, 9700 Sarandë, Albania"

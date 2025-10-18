@@ -1,7 +1,7 @@
 ---
 title: "Apartament Berati"
 description: "Apartament Berati emerges as a charming choice for travelers seeking a blend of comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/apartament-berati-210496147.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210496147.jpg?k=aa98ab56d110914e20bf7f4e3e27395f9a4f97e036ab53f22d56267837eb58a3&o=&hp=1"
 language: en
 slug: apartament-berati
 address: "Lagjia 22 Tetori, n. 80, Berat, Albania"

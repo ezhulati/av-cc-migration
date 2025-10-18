@@ -1,7 +1,7 @@
 ---
 title: "Modern Apartment in Skanderbeg Square - THE NEST"
 description: "Modern Apartment in Skanderbeg Square - THE NEST emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/modern-apartment-in-skanderbeg-square-the-nest-439529905.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439529905.jpg?k=8990f3c9da055b377c32700d8c71d5e914c3ebfc260b74fd1833db68cff6965e&o=&hp=1"
 language: en
 slug: modern-apartment-in-skanderbeg-square-the-nest
 address: "Rruga Ibrahim Rugova, 1001 Tirana, Albania"

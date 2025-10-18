@@ -1,7 +1,7 @@
 ---
 title: "Regis Apartment"
 description: "Regis Apartment emerges as a freshly renovated gem in the heart of Tirana, offering a unique blend of convenience and comfort."
-featuredImage: "/images/accommodation/regis-apartment-504585449.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504585449.jpg?k=0c2d486936c3c1f0c204012ea03a60ffc25b8be6ccb4cfc9443f7f0ce84eca3e&o=&hp=1"
 language: en
 slug: regis-apartment
 address: "Rruga Gjik Kuqali, pallati 4, shkalla 1, 1000 Tirana, Albania"

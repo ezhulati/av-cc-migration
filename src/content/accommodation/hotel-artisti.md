@@ -1,7 +1,7 @@
 ---
 title: "Hotel Artisti"
 description: "Hotel Artisti emerges as a charming retreat in the vibrant heart of Vlorë, merely a stone's throw away from the serene Radhimë Beach."
-featuredImage: "/images/accommodation/hotel-artisti-256748199.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/256748199.jpg?k=4991a4c9c92fdd41702062d62e7280ed824007cccfbe642707a4984e1d201bb3&o=&hp=1"
 language: en
 slug: hotel-artisti
 address: "Rruga Numan Numani Rradhime, 9426 Vlorë, Albania"

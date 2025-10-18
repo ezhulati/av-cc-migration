@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Aleksander"
 description: "Guesthouse Aleksander emerges as a charming retreat in the heart of Berat, offering a unique blend of comfort and convenience for travelers seeking an unforgettable stay."
-featuredImage: "/images/accommodation/guesthouse-aleksander-AItbvml3AnzX.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AItbvml3AnzXR20zVtXurtRQwjUYKKRaA8Fc2wqmIzxEjA=s96-c64"
 language: en
 slug: guesthouse-aleksander
 address: "Starovë Berat, 5012 Berat, Albania"

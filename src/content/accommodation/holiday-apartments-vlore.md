@@ -1,7 +1,7 @@
 ---
 title: "HOLIDAY APARTMENTS Vlore"
 description: "HOLIDAY APARTMENTS Vlore emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/holiday-apartments-vlore-319373629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/319373629.jpg?k=fa058134785872242044121f31ab1ce7e2322821ce5d5935e4fa5f3598158f37&o=&hp=1"
 language: en
 slug: holiday-apartments-vlore
 address: "uje i ftohte vlore, 9402 Vlorë, Albania"

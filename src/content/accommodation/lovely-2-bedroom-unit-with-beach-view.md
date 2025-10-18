@@ -1,7 +1,7 @@
 ---
 title: "Lovely 2 bedroom unit with beach view"
 description: "Lovely 2 Bedroom Unit with Beach View offers an exceptional stay right on the Golem beachfront, providing guests with the luxury of waking up to the serene views of the sea."
-featuredImage: "/images/accommodation/lovely-2-bedroom-unit-with-beach-view-422714966.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/422714966.jpg?k=cbba5176858b4f39306d85f801473f6f94d25d956260adc02e3709612d07ea0d&o=&hp=1"
 language: en
 slug: lovely-2-bedroom-unit-with-beach-view
 address: "Rruga Kompleksit, 2504 Golem, Albania"

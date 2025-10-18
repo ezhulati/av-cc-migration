@@ -1,7 +1,7 @@
 ---
 title: "Luxury Rooftop Vlora"
 description: "Luxury Rooftop Vlora emerges as a premier choice for travelers seeking a blend of comfort and convenience, complemented by breathtaking mountain and sea views."
-featuredImage: "/images/accommodation/luxury-rooftop-vlora-489587703.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489587703.jpg?k=aa2f935fd8da4f082c8af7e059bc448c0400d15925046f1aea0c09683034c1db&o=&hp=1"
 language: en
 slug: luxury-rooftop-vlora
 address: "Rruga Shaban Demiraj AP 9, Vlorë, Albania"

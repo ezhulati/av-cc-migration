@@ -1,7 +1,7 @@
 ---
 title: "Artistic Tirana Blloku"
 description: "Artistic Tirana Blloku emerges as a vibrant oasis in the heart of Tirana's bustling Blloku Area, a mere 800 meters from the iconic Skenderberg Square."
-featuredImage: "/images/accommodation/artistic-tirana-blloku-351358792.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351358792.jpg?k=f562e150d9ad42d6bd9c2b95b796da3a1cd1fbc50ce886fd7b746e1e7b83abde&o=&hp=1"
 language: en
 slug: artistic-tirana-blloku
 address: "Rruga Sami Frasheri- Bllok Area, 1001 Tirana, Albania"

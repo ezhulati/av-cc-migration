@@ -1,7 +1,7 @@
 ---
 title: "Oda`s Room"
 description: "Oda's Room emerges as a charming retreat in the heart of Sarandë, striking the perfect balance between convenience and comfort."
-featuredImage: "/images/accommodation/oda-s-room-464129427.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464129427.jpg?k=d874163af79f7b42eefb1f2fb10339f74a18ce2d87576249076954b6901de80d&o=&hp=1"
 language: en
 slug: oda-s-room
 address: "Rruga Lefter Talo, 9701 Sarandë, Albania"

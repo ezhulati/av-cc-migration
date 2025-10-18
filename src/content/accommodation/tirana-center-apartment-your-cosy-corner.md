@@ -1,7 +1,7 @@
 ---
 title: "Tirana Center Apartment - Your Cosy Corner"
 description: "Tirana Center Apartment - Your Cosy Corner emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-center-apartment-your-cosy-corner-512164882.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512164882.jpg?k=0569a5153b240b43b6c151a42004ff43d50e0f78a515886efb20568bccce243f&o=&hp=1"
 language: en
 slug: tirana-center-apartment-your-cosy-corner
 address: "Rruga Luigj Gurakuqi 2 floor, 1001 Tirana, Albania"

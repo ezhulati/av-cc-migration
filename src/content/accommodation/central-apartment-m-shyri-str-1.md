@@ -1,7 +1,7 @@
 ---
 title: "Central Apartment M. Shyri str.1"
 description: "Central Apartment M."
-featuredImage: "/images/accommodation/central-apartment-m-shyri-str-1-493371120.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493371120.jpg?k=bdbd29b5efbd144c2fd051d7b4c5a76729c2c3f144e76eb856b7bbad305ce80a&o=&hp=1"
 language: en
 slug: central-apartment-m-shyri-str-1
 address: "Rruga Myslym Shyri, 1014 Tirana, Albania"

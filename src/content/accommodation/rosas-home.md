@@ -1,7 +1,7 @@
 ---
 title: "Rosas Home"
 description: "Rosas Home emerges as a serene retreat in Pogradec, offering guests a unique blend of garden and lake views that promise a tranquil escape from the everyday."
-featuredImage: "/images/accommodation/rosas-home-365574500.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365574500.jpg?k=b124b3ac78d1352382ef846ae9f22bb0b10389a0ba96612a6e4d2af3f73db3b9&o=&hp=1"
 language: en
 slug: rosas-home
 address: "Lin Pogradec, 7030 Pogradec, Albania"

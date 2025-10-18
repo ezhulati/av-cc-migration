@@ -1,7 +1,7 @@
 ---
 title: "Beautiful and lovely apartment"
 description: "Beautiful and Lovely Apartment emerges as a prime choice for travelers seeking a serene retreat in the heart of Tirana, just a stone's throw away from the vibrant Skanderbeg Square."
-featuredImage: "/images/accommodation/beautiful-and-lovely-apartment-525599595.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525599595.jpg?k=ffc299a0765129451df9905273dc241b4950b368b52216e21f828ee1faf580d3&o=&hp=1"
 language: en
 slug: beautiful-and-lovely-apartment
 address: "Rruga Stavri Themeli, 1001 Tirana, Albania"

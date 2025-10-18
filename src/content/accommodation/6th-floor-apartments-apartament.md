@@ -1,7 +1,7 @@
 ---
 title: "6th floor Apartments, Apartament"
 description: "6th Floor Apartments, Apartament emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/6th-floor-apartments-apartament-481102146.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481102146.jpg?k=f9a8857f32d3920516c818a3fe90d5fa3f49b3efbe87ff303d47e7396e5430f0&o=&hp=1"
 language: en
 slug: 6th-floor-apartments-apartament
 address: "Rruga Komuna e Parisit 6th floor door no. 19, 1005 Tirana, Albania"

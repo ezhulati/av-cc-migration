@@ -1,7 +1,7 @@
 ---
 title: "Vila Marjana"
 description: "Vila Marjana stands out as a prime choice for travelers seeking comfort and convenience in Sarandë, located just a short distance from both Saranda City Beach and Maestral Beach."
-featuredImage: "/images/accommodation/vila-marjana-476256989.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476256989.jpg?k=fe4413a8009b75d1d562ff35ad795215a04ca0c50f3dafa9cd8b236cf1174134&o=&hp=1"
 language: en
 slug: vila-marjana
 address: "Rruga Skënderbeu, 9701 Sarandë, Albania"

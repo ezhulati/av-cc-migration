@@ -1,7 +1,7 @@
 ---
 title: "Belvedere Adriatica"
 description: "Belvedere Adriatica emerges as a serene retreat in the picturesque locale of Qeparo, merely a stone's throw away from the pristine Qeparo Beach and a short stroll from the enchanting Borsh Beach."
-featuredImage: "/images/accommodation/belvedere-adriatica-145521080.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145521080.jpg?k=940931629c193cc9470524ee9cfdedf7fc353d83ac987dd1836f9c48a36d5dca&o=&hp=1"
 language: en
 slug: belvedere-adriatica
 address: "Qeparo Street, 9416 Qeparo, Albania"

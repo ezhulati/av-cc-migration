@@ -1,7 +1,7 @@
 ---
 title: "Vila Gjoni"
 description: "Vila Gjoni emerges as a charming retreat in the heart of Sarandë, merely 300 meters from the inviting Saranda City Beach."
-featuredImage: "/images/accommodation/vila-gjoni-209558250.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/209558250.jpg?k=a5f038be3f3494d1ebb1d8b2f9907311a4dc4033d4e3fcabdc22f912a8fae74e&o=&hp=1"
 language: en
 slug: vila-gjoni
 address: "Rruga: Fejzo Mehmeti 6, 9701 Sarandë, Albania"

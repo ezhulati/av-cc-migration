@@ -1,7 +1,7 @@
 ---
 title: "Amber's Apartments Shengjin"
 description: "Amber's Apartments Shengjin emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shëngjin."
-featuredImage: "/images/accommodation/amber-s-apartments-shengjin-494966603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494966603.jpg?k=beaa9b06a16aafcc15c20d6359bbcea0ec83c099e07b7a0a498b9f2cb78ebafb&o=&hp=1"
 language: en
 slug: amber-s-apartments-shengjin
 address: "Shëngjin - Kune, Shëngjin, Albania"

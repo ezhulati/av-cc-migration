@@ -1,7 +1,7 @@
 ---
 title: "Rosemary House"
 description: "Rosemary House emerges as a serene retreat, located approximately 27 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/rosemary-house-374060669.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374060669.jpg?k=9c3da8a8eb4ad8a949bbdf423197f919a9c0a800b58edb25df37ece719e782b1&o=&hp=1"
 language: en
 slug: rosemary-house
 address: "Sarande Nivice, Sarandë, Albania"

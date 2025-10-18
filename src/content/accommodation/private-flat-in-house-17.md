@@ -1,7 +1,7 @@
 ---
 title: "Private Flat In House 17"
 description: "Private Flat In House 17 emerges as a prime choice for travelers seeking a blend of comfort, convenience, and a touch of local charm in Tirana."
-featuredImage: "/images/accommodation/private-flat-in-house-17-483453117.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483453117.jpg?k=d107a8f53c094eb937303a4ff1e73ff30abe2662064ba076e1f8214be88c5931&o=&hp=1"
 language: en
 slug: private-flat-in-house-17
 address: "Shefqet Musaraj 17/3 House 17/3, 1001 Tirana, Albania"

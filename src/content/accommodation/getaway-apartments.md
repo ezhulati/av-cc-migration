@@ -1,7 +1,7 @@
 ---
 title: "Getaway Apartments"
 description: "Getaway Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/getaway-apartments-490242073.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490242073.jpg?k=1facf3e9244f332e912558400c2c8ae5027a5df2784b493f60dff7d0690f4c95&o=&hp=1"
 language: en
 slug: getaway-apartments
 address: "Rruga e Bogdanëve, 1001 Tirana, Albania"

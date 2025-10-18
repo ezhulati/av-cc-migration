@@ -1,7 +1,7 @@
 ---
 title: "Blue Residence Sarande"
 description: "Discover the charm of Blue Residence Sarande, a prime destination for travelers seeking both comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/blue-residence-sarande-354897724.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354897724.jpg?k=7d36ebc2c8b0a354a3251bb6008db77aaaca2fb84092580da391185cccc207e8&o=&hp=1"
 language: en
 slug: blue-residence-sarande
 address: "Rruga Butrinti Lagjia Nr.1, 9701 Sarandë, Albania"

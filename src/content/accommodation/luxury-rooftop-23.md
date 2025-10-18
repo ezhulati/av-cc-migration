@@ -1,7 +1,7 @@
 ---
 title: "LUXURY Rooftop 23"
 description: "LUXURY Rooftop 23 emerges as a gem in Tirana's accommodation scene, following its recent renovation."
-featuredImage: "/images/accommodation/luxury-rooftop-23-487309451.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487309451.jpg?k=d84d2239d4b684be6d8ebeb8d1fc791e2b65f1edf1991ef0448795ba8144caeb&o=&hp=1"
 language: en
 slug: luxury-rooftop-23
 address: "Rruga Ramazan Bogdani, Kompleksi Siri 2 Godina 2, Kati 7, Apartament nr. 20707, 1017 Tirana, Albania"

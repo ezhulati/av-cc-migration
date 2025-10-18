@@ -1,7 +1,7 @@
 ---
 title: "Hotel Partner"
 description: "Discover the charm of Hotel Partner, a gem that stands out for its elegant and vibrant interiors, located a mere stone's throw from the heart of the town, the historic Muradie Mosque, and the tranquil sea."
-featuredImage: "/images/accommodation/hotel-partner-169433463.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/169433463.jpg?k=88fc048aa4b643dd6253038076d7a26aadeed80291655db6c04c682d16fa7d46&o=&hp=1"
 language: en
 slug: hotel-partner
 address: "Pelivan Leskaj Street, 9400 Vlorë, Albania"

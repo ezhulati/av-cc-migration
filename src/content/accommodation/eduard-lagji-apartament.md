@@ -1,7 +1,7 @@
 ---
 title: "Eduard Lagji Apartament"
 description: "Eduard Lagji Apartament emerges as a serene retreat in the heart of Lukovë, a mere stone's throw away from the pristine Lukova Beach and the historic Butrint National Park."
-featuredImage: "/images/accommodation/eduard-lagji-apartament-305445346.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305445346.jpg?k=70d2bcb312b85aac91f1d5c6c00a083c619be7f18772b3f58cb579e22ea70d49&o=&hp=1"
 language: en
 slug: eduard-lagji-apartament
 address: "Baliqez,Lukove, 9713 Lukovë, Albania"

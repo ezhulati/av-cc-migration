@@ -1,7 +1,7 @@
 ---
 title: "Apartments Qerret"
 description: "Apartments Qerret stands as a prime beachfront destination in Golem, offering guests an unparalleled experience mere steps from the pristine sands of Qerret Beach."
-featuredImage: "/images/accommodation/apartments-qerret-308296652.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308296652.jpg?k=fbe89a6f2f840412ea03fa0d02bc3e0f3890c04afe76871c07cb23143661c833&o=&hp=1"
 language: en
 slug: apartments-qerret
 address: "Qerret, Kavaje, 1004 Golem, Albania"

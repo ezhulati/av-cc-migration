@@ -1,7 +1,7 @@
 ---
 title: "Apartament shkembi i kavajes"
 description: "Apartament Shkembi i Kavajes emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/apartament-shkembi-i-kavajes-486796372.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486796372.jpg?k=76da1d2e839c7273f325cff05e8c90f22b7bc73265c3387cf3af01e9cde5e1f9&o=&hp=1"
 language: en
 slug: apartament-shkembi-i-kavajes
 address: "Rruga Liria, 2001 Durrës, Albania"

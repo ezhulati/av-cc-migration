@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Oxhaku i Docit"
 description: "Bujtina Oxhaku i Docit stands out as a serene retreat in Peshkopi, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/bujtina-oxhaku-i-docit-469944273.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469944273.jpg?k=0f231055cf3f205ed4b366ec1253dd5f6e8bfe1813405617f61c171c19ff6814&o=&hp=1"
 language: en
 slug: bujtina-oxhaku-i-docit
 address: "41°48'33.9\"N 20°13'07.5\"E Fushë-Lurë, Peshkopi, Albania"

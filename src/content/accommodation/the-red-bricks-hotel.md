@@ -1,7 +1,7 @@
 ---
 title: "The Red Bricks Hotel"
 description: "Discover the charm of Shkodër with a stay at The Red Bricks Hotel, a distinguished four-star establishment that stands out for its exceptional services and prime location, just a stone's throw away from the Port of Bar."
-featuredImage: "/images/accommodation/the-red-bricks-hotel-226061969.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/226061969.jpg?k=12901a233b31ff01ea081b6d684845a8b87955f3c8cf7d730ad3a96dd9737363&o=&hp=1"
 language: en
 slug: the-red-bricks-hotel
 address: "Rruga studenti, Sheshi Demokracia, Shkoder, 4001 Shkodër, Albania"

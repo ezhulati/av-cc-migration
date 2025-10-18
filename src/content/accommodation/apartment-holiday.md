@@ -1,7 +1,7 @@
 ---
 title: "Apartment holiday"
 description: "Apartment Holiday emerges as a serene retreat in Pogradec, offering guests the luxury of air-conditioned spaces complete with a welcoming balcony."
-featuredImage: "/images/accommodation/apartment-holiday-515597957.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515597957.jpg?k=69f4906fb7ae5c0078628fb6576f5904d0ce0c94f439179aed8e6a1c264ddee9&o=&hp=1"
 language: en
 slug: apartment-holiday
 address: "Shetitorja 1 Maji, 7301 Pogradec, Albania"

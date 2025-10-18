@@ -1,7 +1,7 @@
 ---
 title: "Neo Diamond Sea"
 description: "Neo Diamond Sea emerges as a prime choice for travelers seeking a serene getaway in Sarandë, perfectly positioned mere steps from the pristine Maestral Beach and a short stroll from the quaint La Petite Beach."
-featuredImage: "/images/accommodation/neo-diamond-sea-524988787.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524988787.jpg?k=f5769dab594a7fd204ba2818a671fa149b209d0c8c8820e1d501af7074f443be&o=&hp=1"
 language: en
 slug: neo-diamond-sea
 address: "Rruga Butrinti, Sarandë, Albania"

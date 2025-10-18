@@ -1,7 +1,7 @@
 ---
 title: "Nikos Hotel and Apartments"
 description: "Nikos Hotel and Apartments emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/nikos-hotel-and-apartments-147686490.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147686490.jpg?k=6413f15160e63a9c6581aed80be62a2de6bb3b42a92a3c91b08e40c298174b66&o=&hp=1"
 language: en
 slug: nikos-hotel-and-apartments
 address: "Rruga Butrinti, 9700 Sarandë, Albania"

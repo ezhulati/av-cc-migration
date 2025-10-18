@@ -1,7 +1,7 @@
 ---
 title: "Grand Park Hotel"
 description: "Grand Park Hotel, located in the historic heart of Gjirokastër, offers a unique stay with its charming bar and rooms boasting balconies that overlook lush gardens."
-featuredImage: "/images/accommodation/grand-park-hotel-460045666.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460045666.jpg?k=adb9276e86d46317d4e4e0eee20f06b609d4f6c07d4af6c9d6774ffe94dd38f6&o=&hp=1"
 language: en
 slug: grand-park-hotel
 address: "National road Gjirokaster-Tepelene 8km, 6001 Gjirokastër, Albania"

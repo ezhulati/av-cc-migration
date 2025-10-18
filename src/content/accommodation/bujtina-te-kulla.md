@@ -1,7 +1,7 @@
 ---
 title: "Bujtina Te Kulla"
 description: "Bujtina Te Kulla emerges as a serene retreat just a stone's throw away from the breathtaking Theth National Park, located precisely 3."
-featuredImage: "/images/accommodation/bujtina-te-kulla-489564938.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489564938.jpg?k=9b6ffd60743b85b452b16292da8313104027069ea11078b856a73fe2be6c4550&o=&hp=1"
 language: en
 slug: bujtina-te-kulla
 address: "Rruga Grunas, 4001 Grumas, Albania"

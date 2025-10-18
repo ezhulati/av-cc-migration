@@ -1,7 +1,7 @@
 ---
 title: "Villa Oleandro"
 description: "Villa Oleandro presents a serene retreat in the heart of Tirana, offering guests a unique blend of convenience and comfort."
-featuredImage: "/images/accommodation/villa-oleandro-8d80ab6bf73f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-e/8d80ab6bf73fa873e990c76bfc96a1bf23708307.png"
 language: en
 slug: villa-oleandro
 address: "Rruga Qemal Stafa, 1001 Tirana, Albania"

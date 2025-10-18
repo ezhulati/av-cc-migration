@@ -1,7 +1,7 @@
 ---
 title: "City Center Shkodra B&B"
 description: "City Center Shkodra B&B emerges as a prime choice for travelers seeking comfort and convenience in the heart of Shkodra."
-featuredImage: "/images/accommodation/city-center-shkodra-b-b-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: city-center-shkodra-b-b
 address: "Bulevardi Skënderbeu, 4001 Shkodër, Albania"

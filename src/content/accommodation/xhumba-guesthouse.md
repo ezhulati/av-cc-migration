@@ -1,7 +1,7 @@
 ---
 title: "Xhumba Guesthouse"
 description: "Xhumba Guesthouse, located in the serene Dhuvjan area, offers travelers a refreshing retreat with its air-conditioned accommodations that come complete with a welcoming patio."
-featuredImage: "/images/accommodation/xhumba-guesthouse-475368277.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475368277.jpg?k=c3860d00aecc79c051de4d0764a438c87710feced4e95cc8805f2b842c75b173&o=&hp=1"
 language: en
 slug: xhumba-guesthouse
 address: "Dhuvjan,Gjirokaster, 1001 Dhuvjan, Albania"

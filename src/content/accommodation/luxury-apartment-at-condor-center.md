@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartment at Condor Center"
 description: "Luxury Apartment at Condor Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/luxury-apartment-at-condor-center-492526703.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492526703.jpg?k=846dc34696fefda1886d276f1f325e528e65ea4c4c550c3e398f8a28e28bde52&o=&hp=1"
 language: en
 slug: luxury-apartment-at-condor-center
 address: "Rruga e Kavajës, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Aunt's Place"
 description: "Aunt's Place emerges as a charming choice for travelers seeking comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/aunt-s-place-410991899.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410991899.jpg?k=80ef7a376717e77f67be51d21883c9cae89c0e458c85e40528e8d729211bb398&o=&hp=1"
 language: en
 slug: aunt-s-place
 address: "Rruga Musa Juka, 4001 Shkodër, Albania"

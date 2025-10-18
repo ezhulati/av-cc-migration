@@ -1,7 +1,7 @@
 ---
 title: "Relax Station Beach House Velipoja"
 description: "Discover the charm of Relax Station Beach House Velipoja, a prime destination for travelers seeking the perfect blend of comfort and convenience on the shores of Shkodër."
-featuredImage: "/images/accommodation/relax-station-beach-house-velipoja-465640603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465640603.jpg?k=a8b4ddf884614ffdc2cdfb8ad2471f5ce2a001a62b36f39a1e1b445acda2f726&o=&hp=1"
 language: en
 slug: relax-station-beach-house-velipoja
 address: "Rruga Shkodër - Velipojë, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Deal"
 description: "Vila Deal emerges as a charming choice for travelers seeking comfort and convenience in Sarandë, situated merely 1."
-featuredImage: "/images/accommodation/vila-deal-450406410.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450406410.jpg?k=b40d8036d356152cfa9e5185578a8a1145477bfacd48f1d30901c933df572697&o=&hp=1"
 language: en
 slug: vila-deal
 address: "Rruga Gjergj Araniti, 9701 Sarandë, Albania"

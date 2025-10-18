@@ -1,7 +1,7 @@
 ---
 title: "Durres Lovely Apartment"
 description: "Durres Lovely Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/durres-lovely-apartment-527762224.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527762224.jpg?k=91092723a7d9ede0ad19a70fa5b42e963be6cc793a1a3fdda0d6d6ee74c6d94d&o=&hp=1"
 language: en
 slug: durres-lovely-apartment
 address: "Sefer Efendiu, 2001 Durrës, Albania"

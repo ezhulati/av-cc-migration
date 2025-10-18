@@ -1,7 +1,7 @@
 ---
 title: "Enrik"
 description: "Enrik stands out as a prime choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/enrik-479497271.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479497271.jpg?k=ced7e1972967b4cac70c92aca950a26b5662bc42b0ca79ca7da3b4955428670d&o=&hp=1"
 language: en
 slug: enrik
 address: "Rruga e Kavajës 7, 1001 Tirana, Albania"

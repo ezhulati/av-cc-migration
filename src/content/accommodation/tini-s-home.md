@@ -1,7 +1,7 @@
 ---
 title: "Tini’s Home"
 description: "Tini's Home stands out as a charming retreat in Vuno, offering guests a blend of comfort and convenience with its air-conditioned accommodations that boast a welcoming balcony."
-featuredImage: "/images/accommodation/tini-s-home-472165378.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472165378.jpg?k=bb37820ecf94504d9d018ec8cd24fb9520a147bd1d487bd3332f7cce10bea0aa&o=&hp=1"
 language: en
 slug: tini-s-home
 address: "Rruga Gogo Zhebo Vuno, Albania, 9425 Vuno, Albania"

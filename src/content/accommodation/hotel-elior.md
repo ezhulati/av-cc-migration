@@ -1,7 +1,7 @@
 ---
 title: "Hotel Elior"
 description: "Hotel Elior emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-elior-215693701.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/215693701.jpg?k=a9076cc2a474a105bce15993012ea2a25d2522cc68f2c2d57ecc24cae83f057b&o=&hp=1"
 language: en
 slug: hotel-elior
 address: "Rruga Reshit Collaku mbrapa Postes Shqiptare Nr. 5, 1001 Tirana, Albania"

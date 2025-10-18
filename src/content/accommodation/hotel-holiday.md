@@ -1,7 +1,7 @@
 ---
 title: "Hotel Holiday"
 description: "Hotel Holiday emerges as a serene oasis in Koplik, situated a mere 41 km from the iconic Church of the Holy Heart of Jesus, offering a blend of comfort and convenience for travelers."
-featuredImage: "/images/accommodation/hotel-holiday-234702333.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234702333.jpg?k=b3d853ab523d5623656db2a8b058c713c708da7cb7201afb33daecc773991a6b&o=&hp=1"
 language: en
 slug: hotel-holiday
 address: "Rruga Kishës, 4301 Koplik, Albania"

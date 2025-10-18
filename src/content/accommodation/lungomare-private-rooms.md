@@ -1,7 +1,7 @@
 ---
 title: "Lungomare private rooms"
 description: "Lungomare Private Rooms emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience, located just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/lungomare-private-rooms-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: lungomare-private-rooms
 address: "Rruga Murat Tërbaçi Lungomare, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel Rossi"
 description: "Hotel Rossi emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, located just a short 1."
-featuredImage: "/images/accommodation/hotel-rossi-52419900.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/52419900.jpg?k=c640579b194d8bdf17a71d0b8c134d990d4e94e237e7cf0933b5144ec25dac50&o=&hp=1"
 language: en
 slug: hotel-rossi
 address: "Rr: Boulevardi Ismail Qemali, 8401 Vlorë, Albania"

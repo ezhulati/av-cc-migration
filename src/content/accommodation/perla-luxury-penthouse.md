@@ -1,7 +1,7 @@
 ---
 title: "Perla Luxury Penthouse"
 description: "Perla Luxury Penthouse emerges as a premier choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/perla-luxury-penthouse-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/1170892026340885/picture?type=square&height=64&width=64"
 language: en
 slug: perla-luxury-penthouse
 address: "SH58 Floor 5, Tirana, Albania"

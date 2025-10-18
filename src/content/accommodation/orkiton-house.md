@@ -1,7 +1,7 @@
 ---
 title: "Orkiton House"
 description: "Orkiton House emerges as a prime choice for travelers seeking comfort and convenience in Durrës, offering air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/orkiton-house-483325288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483325288.jpg?k=f7e50fb9356a24b2e6ac3682775ef72be5603987102d613ea7f2ad0a43401cb6&o=&hp=1"
 language: en
 slug: orkiton-house
 address: "Rruga Plazhit Hyrja 1, Ap. 6, Durrës, Albania"

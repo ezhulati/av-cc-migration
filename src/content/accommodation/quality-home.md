@@ -1,7 +1,7 @@
 ---
 title: "Quality home"
 description: "Quality Home stands as a prime choice for travelers seeking comfort and convenience in Sarandë, offering air-conditioned accommodations just a stone's throw away from Sarande Main Beach and within easy reach of Saranda Bay Beach."
-featuredImage: "/images/accommodation/quality-home-507211162.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507211162.jpg?k=961b81d5b7e095a60ae360d43de80e5c859a4b7c0ccdfdcb572718e48d5da3f5&o=&hp=1"
 language: en
 slug: quality-home
 address: "Saranda, AL - Corfu, GR, Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Suncity Tirana Luxury Apartments (Ap. 01)"
 description: "Suncity Tirana Luxury Apartments (Ap."
-featuredImage: "/images/accommodation/suncity-tirana-luxury-apartments-ap-01-512230359.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512230359.jpg?k=48fa640ced6019777aa12750c931201518ceccb79d73bc5d6a722dcad54e9d81&o=&hp=1"
 language: en
 slug: suncity-tirana-luxury-apartments-ap-01
 address: "2 Rruga Kodra e Diellit, 1060 Tirana, Albania"

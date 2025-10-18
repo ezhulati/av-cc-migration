@@ -1,7 +1,7 @@
 ---
 title: "Seaview Penthouse 2 Bedrooms Apartment & Box Garage"
 description: "Seaview Penthouse 2 Bedrooms Apartment & Box Garage stands out as a prime choice for travelers seeking comfort and convenience in Vlorë, located just a short stroll from Ri Beach and within easy reach of Vlore Beach."
-featuredImage: "/images/accommodation/seaview-penthouse-2-bedrooms-apartment-box-garage-193753446.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/193753446.jpg?k=b7417830cabff1d434b2c487b38d9d09f695999e4373d7eb4e6e284a0642255d&o=&hp=1"
 language: en
 slug: seaview-penthouse-2-bedrooms-apartment-box-garage
 address: "Rruga Francesko Krispi, 9405 Vlorë, Albania"

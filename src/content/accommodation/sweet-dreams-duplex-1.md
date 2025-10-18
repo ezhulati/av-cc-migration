@@ -1,7 +1,7 @@
 ---
 title: "Sweet dreams duplex 1"
 description: "Sweet Dreams Duplex 1 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sweet-dreams-duplex-1-368249248.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368249248.jpg?k=83b9f273a85e57928ee6916c79d39058a3ce75f027868be257d6e4122e9a4dc3&o=&hp=1"
 language: en
 slug: sweet-dreams-duplex-1
 address: "Rruga Qazim Demi, 9701 Sarandë, Albania"

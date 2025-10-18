@@ -1,7 +1,7 @@
 ---
 title: "Tebeu coffe and bar"
 description: "Tebeu Coffee and Bar emerges as a modern oasis in the heart of Vlorë, a stone's throw away from the iconic Independence Square and the historic Kuzum Baba."
-featuredImage: "/images/accommodation/tebeu-coffe-and-bar-431234915.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431234915.jpg?k=da4d672885173a7bb7793bdeac0fbb49e7d0f9b16a85bd352d878b145c81da32&o=&hp=1"
 language: en
 slug: tebeu-coffe-and-bar
 address: "Lagja Hajro Cakerri, Rruga Dadan Dalani Nr 69 Muradie, 9402 Vlorë, Albania"

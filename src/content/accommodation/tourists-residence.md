@@ -1,7 +1,7 @@
 ---
 title: "TOURISTS RESIDENCE"
 description: "Discover the charm of TOURISTS RESIDENCE, a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/tourists-residence-356579565.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356579565.jpg?k=78374d4fff0bb3a9a3ab552e31196d96f86c98a0b59f8a0b9d998d1715838c54&o=&hp=1"
 language: en
 slug: tourists-residence
 address: "Rruga Dhimitër Konomi, 9404 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Rooms Fatmiri"
 description: "Rooms Fatmiri stands as a serene retreat in the heart of Sarandë, Vlorë County, offering guests a unique blend of convenience and tranquility."
-featuredImage: "/images/accommodation/rooms-fatmiri-457667991.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/457667991.jpg?k=84362e7a78557ffc083ffa1a6ef979dacf44e25e09103517a46a680d35fe7398&o=&hp=1"
 language: en
 slug: rooms-fatmiri
 address: "Rruga Butrinti, 7901 Sarandë, Albania"

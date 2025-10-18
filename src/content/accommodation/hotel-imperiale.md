@@ -1,7 +1,7 @@
 ---
 title: "Hotel Imperiale"
 description: "Hotel Imperiale stands as a prime choice for travelers seeking both comfort and convenience in Durrës, located just a stone's throw away from the pristine Durres Beach."
-featuredImage: "/images/accommodation/hotel-imperiale-418438057.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/418438057.jpg?k=cd8d65f056b459a7104423837f8d4796061db0ebbb9b5b5674f322eb72edf506&o=&hp=1"
 language: en
 slug: hotel-imperiale
 address: "Rruga Pavaresia Lagja 13, 2000 Durrës, Albania"

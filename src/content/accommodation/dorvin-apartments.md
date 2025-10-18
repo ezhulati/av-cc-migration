@@ -1,7 +1,7 @@
 ---
 title: "Dorvin Apartments"
 description: "Dorvin Apartments, strategically positioned in Dhërmi, emerges as a prime choice for travelers seeking both serenity and convenience."
-featuredImage: "/images/accommodation/dorvin-apartments-264130486.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/264130486.jpg?k=e9baee6cb97458f3ad01cd62b43266a1eb10966764ea5dc31f4bad26b0855f61&o=&hp=1"
 language: en
 slug: dorvin-apartments
 address: "Kalami 49, Dhermi, 9422 Dhërmi, Albania"

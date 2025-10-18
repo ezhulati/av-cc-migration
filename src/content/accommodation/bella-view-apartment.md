@@ -1,7 +1,7 @@
 ---
 title: "Bella View Apartment"
 description: "Bella View Apartment emerges as a prime choice for travelers seeking comfort and convenience in Velipojë, just a stone's throw away from the pristine Velipoja Beach and a short distance from the stunning Rana e Hedhun Beach."
-featuredImage: "/images/accommodation/bella-view-apartment-466229512.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466229512.jpg?k=8522b5c5cd0c47d6879ad2a37043697e7390cb059f0d36f05f7a0f0d4f8ba96e&o=&hp=1"
 language: en
 slug: bella-view-apartment
 address: "Kompleksi Fishta, 4020 Velipojë, Albania"

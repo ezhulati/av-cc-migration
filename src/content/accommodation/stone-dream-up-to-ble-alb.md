@@ -1,7 +1,7 @@
 ---
 title: "stone dream up to ble alb"
 description: "Stone Dream Up to Ble Alb emerges as a serene retreat in Pogradec, offering guests a unique blend of natural beauty and modern convenience."
-featuredImage: "/images/accommodation/stone-dream-up-to-ble-alb-488731576.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/488731576.jpg?k=2f91e7f3163ecd7a673f117dd0edf7f605c94b1b6202f789d6a9d88b553a7fb1&o=&hp=1"
 language: en
 slug: stone-dream-up-to-ble-alb
 address: "Piskupat, 3700 Pogradec, Albania"

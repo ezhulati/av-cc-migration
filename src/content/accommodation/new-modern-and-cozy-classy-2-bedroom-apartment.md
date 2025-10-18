@@ -1,7 +1,7 @@
 ---
 title: "New Modern and cozy classy 2 bedroom apartment"
 description: "The New Modern and Cozy Classy 2 Bedroom Apartment in Tirana stands out as a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/new-modern-and-cozy-classy-2-bedroom-apartment-509654794.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509654794.jpg?k=4e2ae895dba469c774ce1a3d9eae8999bc54b396b342100372bfe121bcba38d8&o=&hp=1"
 language: en
 slug: new-modern-and-cozy-classy-2-bedroom-apartment
 address: "Rruga Beniamin Kruta, 1031 Tirana, Albania"

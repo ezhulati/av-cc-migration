@@ -1,7 +1,7 @@
 ---
 title: "Hotel Antigone"
 description: "Hotel Antigone emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-antigone-45010183.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45010183.jpg?k=be50ebf6a9cbfa9ab9e04d2f71c594d69b8dedb86a3e1bdbdc92be3074f0e3b7&o=&hp=1"
 language: en
 slug: hotel-antigone
 address: "Nr.6, Beqir Rusi Street, 1000 Tirana, Albania"

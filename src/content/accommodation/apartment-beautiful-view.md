@@ -1,7 +1,7 @@
 ---
 title: "Apartment Beautiful View"
 description: "Apartment Beautiful View stands out as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "/images/accommodation/apartment-beautiful-view-465116139.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465116139.jpg?k=e924f226ea5992fc458bdd89c5a62bdfc5b42cb3d56124baac089d93ddbd6435&o=&hp=1"
 language: en
 slug: apartment-beautiful-view
 address: "Lagja 13 Shtatori, 5001 Berat, Albania"

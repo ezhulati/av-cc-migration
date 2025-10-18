@@ -1,7 +1,7 @@
 ---
 title: "Apartments Himara Premium"
 description: "Apartments Himara Premium stands as a prime choice for travelers seeking comfort and convenience in Himara."
-featuredImage: "/images/accommodation/apartments-himara-premium-158355480.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/158355480.jpg?k=3ae4a6e62e9fca1493c51436150228c5fd7d67465531bd0d83886b68489daba2&o=&hp=1"
 language: en
 slug: apartments-himara-premium
 address: "Spile Street, 9425 Himare, Albania"

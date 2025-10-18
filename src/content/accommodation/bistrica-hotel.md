@@ -1,7 +1,7 @@
 ---
 title: "Bistrica Hotel"
 description: "Bistrica Hotel, located in the heart of Sarandë within the Vlorë County region, stands out as a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/bistrica-hotel-259089433.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259089433.jpg?k=8a1ec0a6dea9b078a8248008a7c8c673a24c95fd6234ca695ea5f5d53d5337c1&o=&hp=1"
 language: en
 slug: bistrica-hotel
 address: "Rruga Skënderbeu Perball Kishes Ortodokse, 9701 Sarandë, Albania"

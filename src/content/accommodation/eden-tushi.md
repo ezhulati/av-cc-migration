@@ -1,7 +1,7 @@
 ---
 title: "Eden Tushi"
 description: "Eden Tushi emerges as a prime choice for travelers seeking comfort and convenience in Berat."
-featuredImage: "/images/accommodation/eden-tushi-516966230.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516966230.jpg?k=07b7b0ca187274603877c7afcb4c77beb66c33e43c40899edc6e3faf848644b9&o=&hp=1"
 language: en
 slug: eden-tushi
 address: "Rruga Mjeshter Sinani, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "One-Bedroom Apartment Near U.S. Embassy"
 description: "Discover the charm of Tirana with a stay at the One-Bedroom Apartment Near U."
-featuredImage: "/images/accommodation/one-bedroom-apartment-near-u-s-embassy-476309212.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476309212.jpg?k=3dd99d9c7d304987822e69bffc70b03cce6a83190f6bfb157ea4584d13ce0704&o=&hp=1"
 language: en
 slug: one-bedroom-apartment-near-u-s-embassy
 address: "Rruga Nasi Pavllo, 1010 Tirana, Albania"

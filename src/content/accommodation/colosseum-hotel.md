@@ -1,7 +1,7 @@
 ---
 title: "Colosseum Hotel"
 description: "Discover the charm of Ksamil with a stay at the Colosseum Hotel, a stone's throw away from the pristine Bora Bora Beach."
-featuredImage: "/images/accommodation/colosseum-hotel-467770167.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467770167.jpg?k=79117db476c6090077a3e48804da97bae184c04287b8f75646ccac59b39c20d6&o=&hp=1"
 language: en
 slug: colosseum-hotel
 address: "Rruga Isadora Dunkan, 9706 Ksamil, Albania"

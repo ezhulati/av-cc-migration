@@ -1,7 +1,7 @@
 ---
 title: "Piqeras Relax Guest House"
 description: "Piqeras Relax Guest House emerges as a serene haven for travelers seeking a blend of comfort and adventure, situated a mere 43 km from the enchanting Butrint National Park in Piqeras."
-featuredImage: "/images/accommodation/piqeras-relax-guest-house-154272489.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/154272489.jpg?k=dccf2c667aecaa989575af6ca8d6099df4dd2e37446d979429e4b7539be2648f&o=&hp=1"
 language: en
 slug: piqeras-relax-guest-house
 address: "sh8 piqeras, 9715 Piqeras, Albania"

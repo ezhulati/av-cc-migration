@@ -1,7 +1,7 @@
 ---
 title: "Mono Boutique Apartments"
 description: "Mono Boutique Apartments emerges as a modern haven for travelers seeking the comfort of home with the luxury of boutique accommodations, all within the vibrant heart of Tirana."
-featuredImage: "/images/accommodation/mono-boutique-apartments-489745214.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489745214.jpg?k=fd4e0e5314fa890f159ed7308f3c96a7220457bb48c2521f3b21ebfb50d436f0&o=&hp=1"
 language: en
 slug: mono-boutique-apartments
 address: "Rruga Prokop Myzeqari, 1001 Tirana, Albania"

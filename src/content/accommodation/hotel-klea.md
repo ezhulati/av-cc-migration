@@ -1,7 +1,7 @@
 ---
 title: "Hotel Klea"
 description: "Hotel Klea stands as a charming testament to traditional hospitality, right at the heart of the historic Castle of Berat, merely a stone's throw from the main entrance."
-featuredImage: "/images/accommodation/hotel-klea-308094784.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308094784.jpg?k=7d07066f5d639d76ea291789d50a103fb623beb4c8aec62fd6609919a9c0dbdc&o=&hp=1"
 language: en
 slug: hotel-klea
 address: "Lagja Kala, Berat, 5002 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Orange Ap. 2 bed- city centre Sarande !"
 description: "Orange Ap."
-featuredImage: "/images/accommodation/orange-ap-2-bed-city-centre-sarande-486721079.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486721079.jpg?k=201504fe9aa52a28afc0127dfa32aba8ad739bee3167931876dd224d35d7f7ba&o=&hp=1"
 language: en
 slug: orange-ap-2-bed-city-centre-sarande
 address: "Rruga Gjergj Araniti, Sarandë, Albania"

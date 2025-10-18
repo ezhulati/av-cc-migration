@@ -1,7 +1,7 @@
 ---
 title: "Hotel Miami Beach"
 description: "Hotel Miami Beach emerges as a prime choice for travelers seeking a serene getaway, merely a stone's throw away from the pristine Golem Beach."
-featuredImage: "/images/accommodation/hotel-miami-beach-485413281.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485413281.jpg?k=94114e943f9b7c72ff42b7c92143fa6f90c1601ec01e39f5b0c8c874eb569493&o=&hp=1"
 language: en
 slug: hotel-miami-beach
 address: "Rruga Fan Noli 19, 2504 Golem, Albania"

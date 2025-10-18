@@ -1,7 +1,7 @@
 ---
 title: "Apartament me qera Dublex Lungomare"
 description: "Discover the charm of Vlorë with a stay at Apartament me qera Dublex Lungomare, a prime beachfront gem located a mere stone's throw from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/apartament-me-qera-dublex-lungomare-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10157952850343642/picture?type=square&height=64&width=64"
 language: en
 slug: apartament-me-qera-dublex-lungomare
 address: "Rruga Dhimitër Konomi Piano, 9401 Vlorë, Albania"

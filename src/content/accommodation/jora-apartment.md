@@ -1,7 +1,7 @@
 ---
 title: "Jora Apartment"
 description: "Jora Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/jora-apartment-424610601.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/424610601.jpg?k=47e9fa8f60888efc7411f82378cdd788cc560cded36efbd164dd3f261cf0cabf&o=&hp=1"
 language: en
 slug: jora-apartment
 address: "Rruga Haxhi Hysen Dalliu, 1023 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "KONI's Studio Apartments"
 description: "KONI's Studio Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/koni-s-studio-apartments-380303529.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380303529.jpg?k=ca6679ff30d063e6907bc9560c4ebb76886d17c6dd386a8fc691dad1923a54a8&o=&hp=1"
 language: en
 slug: koni-s-studio-apartments
 address: "Rruga Myslym Shyri, 1001 Tirana, Albania"

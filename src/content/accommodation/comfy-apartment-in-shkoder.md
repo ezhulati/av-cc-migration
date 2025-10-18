@@ -1,7 +1,7 @@
 ---
 title: "Comfy apartment in Shkoder"
 description: "Comfy Apartment in Shkoder emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Shkodër, just a stone's throw away from the Port of Bar at 49 km distance."
-featuredImage: "/images/accommodation/comfy-apartment-in-shkoder-b56c632712cb.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-v/b56c632712cb151966e9192b3547e7b673216aa6.png"
 language: en
 slug: comfy-apartment-in-shkoder
 address: "Rruga 3 Heronjtë, 4001 Shkodër, Albania"

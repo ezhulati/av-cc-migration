@@ -1,7 +1,7 @@
 ---
 title: "Harmony Apartments"
 description: "Harmony Apartments emerges as a serene retreat in the vibrant city of Sarandë, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/harmony-apartments-408368601.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/408368601.jpg?k=5e3cc4faa36b52a3a8ff57b204ff69a7ce934240f5c7ed5cfc13473819215e98&o=&hp=1"
 language: en
 slug: harmony-apartments
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

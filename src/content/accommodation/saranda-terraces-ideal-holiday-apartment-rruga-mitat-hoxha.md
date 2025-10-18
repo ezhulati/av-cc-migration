@@ -1,7 +1,7 @@
 ---
 title: "SARANDA TERRACES Ideal Holiday Apartment Rruga Mitat Hoxha"
 description: "SARANDA TERRACES Ideal Holiday Apartment Rruga Mitat Hoxha emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/saranda-terraces-ideal-holiday-apartment-rruga-mitat-hoxha-20102688.web.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/20102688.webp?k=ab7a50c78ae57dcbd14115c306ec7f74066492b8c98caffeb254f7b436212952&o=?t=1495561678"
 language: en
 slug: saranda-terraces-ideal-holiday-apartment-rruga-mitat-hoxha
 address: "49 Rruga Mitat Hoxha, Sarandë, Albania"

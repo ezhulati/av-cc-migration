@@ -1,7 +1,7 @@
 ---
 title: "Romantic room"
 description: "Romantic Room stands out as a serene getaway, offering stunning city views and a peaceful garden setting, situated just a short distance from the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/romantic-room-486801694.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486801694.jpg?k=0bc2205e8ee926c42a20de1840a5f4fade4e00b0b13d9e927147da3d4755256d&o=&hp=1"
 language: en
 slug: romantic-room
 address: "Rruga Sali Butka, 7001 Korçë, Albania"

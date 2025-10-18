@@ -1,7 +1,7 @@
 ---
 title: "Blei & Dei Apartment"
 description: "Blei & Dei Apartment in Berat stands out for its comfortable, air-conditioned accommodations, with a balcony and complimentary WiFi access."
-featuredImage: "/images/accommodation/blei-dei-apartment-468158197.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/468158197.jpg?k=d3492628547db21c8ab677564bac7ce745b19bdafbd3e539b05e6366bfc6e9ab&o=&hp=1"
 language: en
 slug: blei-dei-apartment
 address: "Rruga Antipatrea, 5001 Berat, Albania"

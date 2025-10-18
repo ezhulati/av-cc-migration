@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Lula"
 description: "Guesthouse Lula emerges as a charming choice for travelers seeking comfort and convenience in Tepelenë."
-featuredImage: "/images/accommodation/guesthouse-lula-390488939.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390488939.jpg?k=3dd8666ac1e8ae6611b89d5dc54c795da5e0b750a78133837c9c44ab2ed36324&o=&hp=1"
 language: en
 slug: guesthouse-lula
 address: "Rruga Ago Celi, 6301 Tepelenë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Skerdi Room"
 description: "Skerdi Room emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/skerdi-room-516555141.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516555141.jpg?k=ffe06290bb507c49e53015f8333bcbaa331844358edfa7622e70e7fe54886b8c&o=&hp=1"
 language: en
 slug: skerdi-room
 address: "Rruga Fortuzi 26/1, 1001 Tirana, Albania"

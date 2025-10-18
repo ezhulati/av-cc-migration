@@ -1,7 +1,7 @@
 ---
 title: "Great Alexander Suites"
 description: "Discover the charm of Great Alexander Suites, a gem that stands out for its elegantly decorated, air-conditioned apartments complete with complimentary Wi-Fi and LCD satellite TVs in every room."
-featuredImage: "/images/accommodation/great-alexander-suites-87079033.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87079033.jpg?k=66645e42ade8887f6459955da1d1fb34a70f0d98c39a62cbdf1ff7779037e4be&o=&hp=1"
 language: en
 slug: great-alexander-suites
 address: "Rruga Sabri Preveza, 9702 Sarandë, Albania"

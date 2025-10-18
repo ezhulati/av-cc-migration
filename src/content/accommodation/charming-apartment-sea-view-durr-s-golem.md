@@ -1,7 +1,7 @@
 ---
 title: "Charming apartment, Sea view Durrës Golem"
 description: "Discover the enchanting Charming Apartment, Sea View Durrës Golem, a gem located just steps away from the pristine Golem Beach and a mere 80 meters from the captivating Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/charming-apartment-sea-view-durr-s-golem-326939514.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326939514.jpg?k=09ede2a123c9ac8f3612da8d022d539cd343fd665ca7146945280516899c9690&o=&hp=1"
 language: en
 slug: charming-apartment-sea-view-durr-s-golem
 address: "Kompleksi giardino, Golem, Albania"

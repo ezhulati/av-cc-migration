@@ -1,7 +1,7 @@
 ---
 title: "Green Terrace Apartments Tirana"
 description: "Green Terrace Apartments Tirana emerges as a prime choice for travelers seeking the comfort of home with the luxury of modern amenities in the heart of Tirana."
-featuredImage: "/images/accommodation/green-terrace-apartments-tirana-307284166.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307284166.jpg?k=0bf7d1f5dcddea087c6a6ef4eee3b5766af4ace2131b8692048464d4cd9ae3a7&o=&hp=1"
 language: en
 slug: green-terrace-apartments-tirana
 address: "Rruga e Barrikadave Green Tarrace Building, kati 7, Ap 65, 1001 Tirana, Albania"

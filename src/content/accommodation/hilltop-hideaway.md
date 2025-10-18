@@ -1,7 +1,7 @@
 ---
 title: "HILLTOP HIDEAWAY"
 description: "HILLTOP HIDEAWAY emerges as a serene retreat, offering breathtaking mountain views and a tranquil garden setting, located approximately 43 km from the bustling Skanderbeg Square."
-featuredImage: "/images/accommodation/hilltop-hideaway-352914055.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/352914055.jpg?k=92a01e9211a33731329802fd19cf05cf399d2bba688312e7430db0e68fcbbbb5&o=&hp=1"
 language: en
 slug: hilltop-hideaway
 address: "Hajdaran, 3001 Elbasan, Albania"

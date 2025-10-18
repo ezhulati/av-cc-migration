@@ -1,7 +1,7 @@
 ---
 title: "Best Location Beach APT Golem"
 description: "Best Location Beach APT Golem emerges as a prime choice for travelers seeking a serene beachfront escape in Golem."
-featuredImage: "/images/accommodation/best-location-beach-apt-golem-476541005.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/476541005.jpg?k=1e9de7483a1c6319d9622e47031609be08d99367ed7999e7e1d3d751752aa41a&o=&hp=1"
 language: en
 slug: best-location-beach-apt-golem
 address: "Rruga Kompleksit, 2504 Golem, Albania"

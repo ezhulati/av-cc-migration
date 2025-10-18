@@ -1,7 +1,7 @@
 ---
 title: "White Shell Apartment,Durres Ura E Dajlanit"
 description: "Discover the charm of Durrës with a stay at the recently updated White Shell Apartment, Durres Ura E Dajlanit, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/white-shell-apartment-durres-ura-e-dajlanit-482639015.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482639015.jpg?k=f63083a8e27f23762fa6c2f8dce74592d43b911a8620444aefd5c41c030d7fd7&o=&hp=1"
 language: en
 slug: white-shell-apartment-durres-ura-e-dajlanit
 address: "Durres,Ura E Dajlanit,Shkozet,Near Karburant Krasniqi Aldi Gaz, 2001 Durrës, Albania"

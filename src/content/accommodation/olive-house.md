@@ -1,7 +1,7 @@
 ---
 title: "Olive House"
 description: "Olive House emerges as a serene retreat in the heart of Golem, offering air-conditioned accommodations complete with a welcoming balcony."
-featuredImage: "/images/accommodation/olive-house-481752955.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481752955.jpg?k=4b2214b0d842f194798e06cc10bf042184c212f77e08a80cc56292a00722cb2e&o=&hp=1"
 language: en
 slug: olive-house
 address: "Bulevardi i Palmave First floor, 2504 Golem, Albania"

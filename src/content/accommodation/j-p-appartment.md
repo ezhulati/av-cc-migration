@@ -1,7 +1,7 @@
 ---
 title: "J&P Appartment"
 description: "J&P Apartment emerges as a serene retreat in Pogradec, offering a blend of convenience and comfort for travelers seeking a memorable stay."
-featuredImage: "/images/accommodation/j-p-appartment-438413679.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438413679.jpg?k=2a8dd23c43db8fb415409251cfa287933388c4f006a66eed05e1c298e88edd29&o=&hp=1"
 language: en
 slug: j-p-appartment
 address: "Rruga Mihal Ballkameno, 7300 Pogradec, Albania"

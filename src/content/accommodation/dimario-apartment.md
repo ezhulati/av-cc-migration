@@ -1,7 +1,7 @@
 ---
 title: "Dimario Apartment"
 description: "Dimario Apartment stands as a serene retreat in the vibrant heart of Sarandë, merely a stone's throw away from the pristine Sarande Main Beach and a short stroll from the bustling Saranda City Beach."
-featuredImage: "/images/accommodation/dimario-apartment-345405410.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345405410.jpg?k=832c60c62345f88b1dc081d7d006f30565d473d1232c931ebb582028006f4a87&o=&hp=1"
 language: en
 slug: dimario-apartment
 address: "Rruga Sabri Preveza, 9701 Sarandë, Albania"

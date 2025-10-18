@@ -1,7 +1,7 @@
 ---
 title: "Shpella Guesthouse Theth"
 description: "Shpella Guesthouse Theth emerges as a charming retreat in the heart of the Albanian Alps, offering a serene escape in the quaint village of Theth."
-featuredImage: "/images/accommodation/shpella-guesthouse-theth-210151792.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/210151792.jpg?k=600f3e29a34b8cbf1c547c05e26a3538ffd827b799df3819fa0a50a56031482a&o=&hp=1"
 language: en
 slug: shpella-guesthouse-theth
 address: "Kolaj Thethe , 1000 Theth, Albania"

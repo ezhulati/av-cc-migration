@@ -1,7 +1,7 @@
 ---
 title: "MondurO Hotel"
 description: "MondurO Hotel emerges as a charming retreat just 200 meters from the pristine shores of Durres Beach, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/monduro-hotel-472300511.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472300511.jpg?k=da62fdcb913e8dc6398db7d3724c4baef6d9533ac8c569c194529f2e1daad499&o=&hp=1"
 language: en
 slug: monduro-hotel
 address: "Rruga Teuta, 2008 Durrës, Albania"

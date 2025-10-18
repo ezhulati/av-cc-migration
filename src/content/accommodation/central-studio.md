@@ -1,7 +1,7 @@
 ---
 title: "Central Studio"
 description: "Central Studio emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/central-studio-AATXAJxM9IdV.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJxM9IdVUSnwRe5B9EZ0M-EBkvxEciwFC1eHFF5h=s96-c64"
 language: en
 slug: central-studio
 address: "Rruga Mine Peza, 1056 Tirana, Albania"

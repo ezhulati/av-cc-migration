@@ -1,7 +1,7 @@
 ---
 title: "Lake Harmony Haven"
 description: "Lake Harmony Haven emerges as a serene retreat in Tushemisht, offering a blend of comfort and convenience for travelers seeking a peaceful escape."
-featuredImage: "/images/accommodation/lake-harmony-haven-469135275.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469135275.jpg?k=7af9b444044e2387015487ff11defc0aeb12a88a1fe5547cafcd73c11678a6c0&o=&hp=1"
 language: en
 slug: lake-harmony-haven
 address: "Rruga e Drilonit, Tushemisht, Albania"

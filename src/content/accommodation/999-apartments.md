@@ -1,7 +1,7 @@
 ---
 title: "999 Apartments"
 description: "999 Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/999-apartments-504566952.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504566952.jpg?k=a82106a7e6e36a60e4b2257e56ba33d0a04a32f858a2c375130ab49e14ab90d7&o=&hp=1"
 language: en
 slug: 999-apartments
 address: "Rruga At Shtjefën Gjeçovi, 1001 Tirana, Albania"

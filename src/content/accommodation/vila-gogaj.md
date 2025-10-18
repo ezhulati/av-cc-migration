@@ -1,7 +1,7 @@
 ---
 title: "Vila Gogaj"
 description: "Vila Gogaj emerges as a prime choice for travelers seeking a serene getaway, located a mere 600 meters from the pristine shores of Velipoja Beach."
-featuredImage: "/images/accommodation/vila-gogaj-470318391.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470318391.jpg?k=12a6616f1d4a71644db33c0b1736fe155df2ab84d3fce0b599ed39cbb567b680&o=&hp=1"
 language: en
 slug: vila-gogaj
 address: "Velipoje, Plazh, Rruga 4 (afer Hotel Gjoleka), 4020 Velipojë, Albania"

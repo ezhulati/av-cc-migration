@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Nora"
 description: "Guesthouse Nora emerges as a charming choice for travelers seeking comfort and convenience in Gjirokastër, situated a mere 44 km from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/guesthouse-nora-494944332.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494944332.jpg?k=a3a78cdaad6e98eb59f9aef06f8726c62769132fc3002e724b173dca5deaa7f5&o=&hp=1"
 language: en
 slug: guesthouse-nora
 address: "Rruga Zeman Haska, Gjirokastër, Albania"

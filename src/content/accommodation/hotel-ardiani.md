@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ardiani"
 description: "Hotel Ardiani stands out as a prime choice for travelers seeking both comfort and convenience in the heart of Ksamil."
-featuredImage: "/images/accommodation/hotel-ardiani-364197187.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364197187.jpg?k=8891604b3139cbe7879e6524b83cb7d2c5d7f591ad8e648b042b412c79aedb58&o=&hp=1"
 language: en
 slug: hotel-ardiani
 address: "rruga butrinti ksamil sheshi 4valltart, 9706 Ksamil, Albania"

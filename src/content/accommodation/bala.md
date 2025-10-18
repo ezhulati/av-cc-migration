@@ -1,7 +1,7 @@
 ---
 title: "Bala"
 description: "Bala presents an inviting option for travelers seeking the perfect blend of convenience and comfort in Durrës."
-featuredImage: "/images/accommodation/bala-494519923.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494519923.jpg?k=1101d7a67d6cda81cad97e627804ed560dc943575e23bfd58a7f7b6371ef92c8&o=&hp=1"
 language: en
 slug: bala
 address: "Rruga Ankona, 2021 Durrës, Albania"

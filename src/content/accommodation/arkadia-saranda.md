@@ -1,7 +1,7 @@
 ---
 title: "Arkadia Saranda"
 description: "Arkadia Saranda emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/arkadia-saranda-474018284.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474018284.jpg?k=8e742b5f361bc0245d1dd617566eafc1b506e5b6d70248180073391e537b96ac&o=&hp=1"
 language: en
 slug: arkadia-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

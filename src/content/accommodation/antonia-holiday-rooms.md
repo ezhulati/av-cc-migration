@@ -1,7 +1,7 @@
 ---
 title: "Antonia Holiday Rooms"
 description: "Antonia Holiday Rooms emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/antonia-holiday-rooms-526008866.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526008866.jpg?k=d38888431c38deb47435d22f2a636b2d9cd85b3c0f76763642a47a0d70a4ff5c&o=&hp=1"
 language: en
 slug: antonia-holiday-rooms
 address: "Rruga Sabri Preveza, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Villa Shera"
 description: "Villa Shera stands out as a recently renovated gem, located just 300 meters from the serene Lalëz Bay Beach and a mere 44 km from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/villa-shera-356261887.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356261887.jpg?k=2925bf86517c881a286f9b6141a1356e58f1ad892732bf35f92ef3fa1daa46ee&o=&hp=1"
 language: en
 slug: villa-shera
 address: "Vila Shera at Lura 1 at Bay of Lalzi, 1015 Mullini i Danit, Albania"

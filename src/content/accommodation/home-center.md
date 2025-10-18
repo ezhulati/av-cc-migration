@@ -1,7 +1,7 @@
 ---
 title: "Home Center"
 description: "Home Center is a prime choice for travelers seeking comfort and convenience in Korçë, just 44 km from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/home-center-12a07b30d7fe.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-i/12a07b30d7fe835ea09b653635e151032bbf547a.png"
 language: en
 slug: home-center
 address: "Bulevardi Fan Noli Apartament 26, A2, 7001 Korçë, Albania"

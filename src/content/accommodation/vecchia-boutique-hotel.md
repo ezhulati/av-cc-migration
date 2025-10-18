@@ -1,7 +1,7 @@
 ---
 title: "Vecchia Boutique Hotel"
 description: "Vecchia Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "/images/accommodation/vecchia-boutique-hotel-398356959.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/398356959.jpg?k=e268048a40f93702f30e4ac27b017219e02b036ed0f9b62ba9b7aca63ff5cea2&o=&hp=1"
 language: en
 slug: vecchia-boutique-hotel
 address: "Bulevardi Republika, 7001 Korçë, Albania"

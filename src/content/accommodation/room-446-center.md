@@ -1,7 +1,7 @@
 ---
 title: "Room 446, Center"
 description: "Room 446, Center emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in Shkodër."
-featuredImage: "/images/accommodation/room-446-center-AAcHTtccxpBd.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AAcHTtccxpBdR7JVQt94y-XkdU4PzXTqoZu50HURxb0H-mDB=s96-c64"
 language: en
 slug: room-446-center
 address: "Sheshi Demokracia Room 446, 4001 Shkodër, Albania"

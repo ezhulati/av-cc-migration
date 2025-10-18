@@ -1,7 +1,7 @@
 ---
 title: "Duki's Apartments"
 description: "Duki's Apartments emerges as a prime choice for travelers seeking a seamless escape in Orikum, offering a blend of convenience and serenity with its poolside views and comprehensive amenities."
-featuredImage: "/images/accommodation/duki-s-apartments-263289543.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263289543.jpg?k=56dc822a293d9da54bb4941b483b5d240486f8905cfcfe9b64f6327efa28d992&o=&hp=1"
 language: en
 slug: duki-s-apartments
 address: "Rruga Orikum Apartment 5, 2nd floor, 9426 Orikum, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Perla e Dumrese, Bar-Restaurant-Hotel"
 description: "Perla e Dumrese, Bar-Restaurant-Hotel, situated in the picturesque town of Belsh, stands out as a premier destination for travelers seeking a blend of comfort and elegance."
-featuredImage: "/images/accommodation/perla-e-dumrese-bar-restaurant-hotel-456007725.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/456007725.jpg?k=888c0234cdf2c8cba61c3695f2a374326c538a9389eafca48c73872d5142f213&o=&hp=1"
 language: en
 slug: perla-e-dumrese-bar-restaurant-hotel
 address: "Belsh Qender, Elbasan Albania 5, 3008 Belsh, Albania"

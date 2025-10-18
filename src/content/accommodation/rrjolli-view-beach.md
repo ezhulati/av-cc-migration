@@ -1,7 +1,7 @@
 ---
 title: "Rrjolli View Beach"
 description: "Rrjolli View Beach emerges as a serene retreat in Velipojë, boasting a prime location just a stone's throw away from the historic Rozafa Castle Shkodra, 29 km to be precise, and a mere 31 km from the tranquil Lake Skadar."
-featuredImage: "/images/accommodation/rrjolli-view-beach-483332165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/483332165.jpg?k=4e4f7b171da0bd488f50e0e6d2d93ce9d209a8151aea5ff20bae4f965c5d4597&o=&hp=1"
 language: en
 slug: rrjolli-view-beach
 address: "Rjoll Velipoje, 4001 Velipojë, Albania"

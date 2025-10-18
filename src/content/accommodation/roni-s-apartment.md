@@ -1,7 +1,7 @@
 ---
 title: "Roni’s apartment"
 description: "Roni's Apartment in Lezhë emerges as a prime choice for travelers seeking comfort and convenience, situated just 38 km from the serene Lake Skadar and a mere 36 km from the historic Rozafa Castle Shkodra."
-featuredImage: "/images/accommodation/roni-s-apartment-466429494.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466429494.jpg?k=7d859ea64eda509a96826b534947462a4bda73291216a89bc44b8579f426a15d&o=&hp=1"
 language: en
 slug: roni-s-apartment
 address: "Lagjia beselidhja, 4500 Lezhë, Albania"

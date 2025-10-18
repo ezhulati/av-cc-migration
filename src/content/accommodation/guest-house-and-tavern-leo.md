@@ -1,7 +1,7 @@
 ---
 title: "Guest House and Tavern Leo"
 description: "Guest House and Tavern Leo stands as a charming retreat in Sarandë, located within the scenic Vlorë County Region."
-featuredImage: "/images/accommodation/guest-house-and-tavern-leo-69172938.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69172938.jpg?k=630f872d96d9dd46f12c7ed9d029cae76a4c3f8451215647e5aa0c4bc9d6fe54&o=&hp=1"
 language: en
 slug: guest-house-and-tavern-leo
 address: "67 Rruga Gjergj Araniti, 9700 Sarandë, Albania"

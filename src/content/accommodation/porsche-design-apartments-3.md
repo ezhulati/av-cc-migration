@@ -1,7 +1,7 @@
 ---
 title: "Porsche Design Apartments 3"
 description: "Porsche Design Apartments 3 emerges as a prime choice for travelers seeking a blend of comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/porsche-design-apartments-3-472218599.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472218599.jpg?k=55e5068cc19359371796aa8d6b411403af0421eb550f654ec0c701989337bfcc&o=&hp=1"
 language: en
 slug: porsche-design-apartments-3
 address: "Rruga Teodor Keko, 1006 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Kraja's Apartment"
 description: "Kraja's Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience, complemented by striking city views."
-featuredImage: "/images/accommodation/kraja-s-apartment-486665684.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486665684.jpg?k=cc96b57e71ce11ee9dd80318e2352d65025d0b68c4ba14f490fae96d5ace7aed&o=&hp=1"
 language: en
 slug: kraja-s-apartment
 address: "Rruga Ferit Xhajko 26, 1057 Tirana, Albania"

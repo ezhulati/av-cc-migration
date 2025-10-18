@@ -1,7 +1,7 @@
 ---
 title: "Golden Seaview Apartment"
 description: "Golden Seaview Apartment stands as a prime choice for travelers seeking comfort and convenience in Sarandë, just a short stroll from the pristine Santa Quaranta Beach and the exclusive VIP Beach."
-featuredImage: "/images/accommodation/golden-seaview-apartment-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: golden-seaview-apartment
 address: "Rruga Butrinti KM2 / A05 near Beer House, Sarandë, Albania"

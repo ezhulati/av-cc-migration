@@ -1,7 +1,7 @@
 ---
 title: "Ikea Hotel"
 description: "Ikea Hotel, located in the vibrant city of Tirana, stands out for its blend of comfort and convenience, offering guests a unique stay just 4."
-featuredImage: "/images/accommodation/ikea-hotel-65082933.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/65082933.jpg?k=6a2b23b8cd4286431370d6d3d6e9f5bd3a8707935a317a03ec5c9a558d8b6f8b&o=&hp=1"
 language: en
 slug: ikea-hotel
 address: "Rr.Teodor Keko n/n, 1001 Tirana, Albania"

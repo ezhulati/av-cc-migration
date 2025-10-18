@@ -1,7 +1,7 @@
 ---
 title: "Agora Farmhouse"
 description: "Agora Farmhouse emerges as a serene retreat in the picturesque locale of Koman, merely 35 km away from the historic Rozafa Castle Shkodra and a stone's throw from the tranquil Lake Skadar at 37 km."
-featuredImage: "/images/accommodation/agora-farmhouse-491943118.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491943118.jpg?k=2a3fe62564835ca1c3ba0c631ed1e48eefa316cb45dcfb4c2ef072c7d471e9d0&o=&hp=1"
 language: en
 slug: agora-farmhouse
 address: "SH25, 4008 Koman, Albania"

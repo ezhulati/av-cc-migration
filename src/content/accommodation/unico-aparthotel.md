@@ -1,7 +1,7 @@
 ---
 title: "Unico ApartHotel"
 description: "Unico ApartHotel in Sarandë stands out for its prime location, just a stone's throw away from the pristine Maestral Beach."
-featuredImage: "/images/accommodation/unico-aparthotel-497854909.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497854909.jpg?k=f6b6112e6d708fdb3a310bb26dda5a0615b91a663ee0dd1da20278319ed67f00&o=&hp=1"
 language: en
 slug: unico-aparthotel
 address: "Rruga: Bilal Golemi, 9701 Sarandë, Albania"

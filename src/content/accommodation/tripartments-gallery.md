@@ -1,7 +1,7 @@
 ---
 title: "TRiPartments - Gallery"
 description: "TRiPartments - Gallery emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tripartments-gallery-371482010.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371482010.jpg?k=aacf32df8be7e1f9958e879cbb4a0d1940f32dbfb978ea661c7b0544d5d48460&o=&hp=1"
 language: en
 slug: tripartments-gallery
 address: "Rruga Komuna e Parisit, 1020 Tirana, Albania"

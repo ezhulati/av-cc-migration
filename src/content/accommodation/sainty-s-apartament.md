@@ -1,7 +1,7 @@
 ---
 title: "Sainty's apartament"
 description: "Sainty's Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/sainty-s-apartament-365349887.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365349887.jpg?k=71d99cb1e441838f28a3bd6b7743c24a3342c1f936cbfc6d15c7bb329003eef3&o=&hp=1"
 language: en
 slug: sainty-s-apartament
 address: "Rruga Adem Sheme, 9701 Sarandë, Albania"

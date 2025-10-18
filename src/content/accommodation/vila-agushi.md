@@ -1,7 +1,7 @@
 ---
 title: "Vila Agushi"
 description: "Vila Agushi emerges as a prime choice for travelers seeking a serene getaway, merely 800 meters from the captivating Sunset Beach in Ksamil."
-featuredImage: "/images/accommodation/vila-agushi-337680547.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337680547.jpg?k=7b69ace9d0e5734d96a674c37f9da64c4db1dd41bcea7a771de8f8247e7edcd2&o=&hp=1"
 language: en
 slug: vila-agushi
 address: "Ksamil Rruga Ali Pashe Tepelena, Ksamil, Albania"

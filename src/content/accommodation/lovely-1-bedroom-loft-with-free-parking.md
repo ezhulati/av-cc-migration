@@ -1,7 +1,7 @@
 ---
 title: "Lovely 1 - bedroom loft with free parking"
 description: "Discover the charm of Gjirokastër with a stay at the Lovely 1-bedroom loft, a serene retreat located just 45 km from the picturesque Zaravina Lake."
-featuredImage: "/images/accommodation/lovely-1-bedroom-loft-with-free-parking-373251149.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/373251149.jpg?k=5e86439af46e577e25eca9712e9a525406e4c4076badfabafb981c66ee83931a&o=&hp=1"
 language: en
 slug: lovely-1-bedroom-loft-with-free-parking
 address: "Rruga Gjolek Haska, 6001 Gjirokastër, Albania"

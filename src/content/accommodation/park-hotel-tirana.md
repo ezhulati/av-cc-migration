@@ -1,7 +1,7 @@
 ---
 title: "Park Hotel Tirana"
 description: "Park Hotel Tirana emerges as a serene oasis just a short distance from the heart of the city, located merely 4."
-featuredImage: "/images/accommodation/park-hotel-tirana-117918772.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117918772.jpg?k=b8826a3e3bd8117f66f0eaf09cd899b950373758c6a0fbe4b3c4efa05794ad87&o=&hp=1"
 language: en
 slug: park-hotel-tirana
 address: "Rr. Aleksandri i Madh, Pallati Y&S Park Hotel, Tirane, 1001 Tirana, Albania"

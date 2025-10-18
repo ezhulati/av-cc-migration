@@ -1,7 +1,7 @@
 ---
 title: "Luxury Apartments"
 description: "Luxury Apartments in Vlorë presents an exceptional stay for those seeking comfort and convenience close to the Adriatic Sea."
-featuredImage: "/images/accommodation/luxury-apartments-518345284.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/518345284.jpg?k=2bab929ea313349285bc39bd11760be6b2c446611edc1ec0f9b38127f4b6cbba&o=&hp=1"
 language: en
 slug: luxury-apartments
 address: "Vlore, 9400 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Comfort’n Sea"
 description: "Comfort’n Sea emerges as a serene oasis in Mullini i Danit, boasting a prime beachfront location that effortlessly combines the tranquility of a garden setting with the convenience of modern amenities."
-featuredImage: "/images/accommodation/comfort-n-sea-451412676.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451412676.jpg?k=79ee85345f21e437be92493d6271278a20564918cbb2e2b2a44ce03bc9624300&o=&hp=1"
 language: en
 slug: comfort-n-sea
 address: "Hamallaj , Kompleksi Vala Mar, 2019 Mullini i Danit, Albania"

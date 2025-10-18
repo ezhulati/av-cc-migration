@@ -1,7 +1,7 @@
 ---
 title: "Charming Berat flat getaway"
 description: "Charming Berat Flat Getaway offers a refreshing escape in the heart of Berat."
-featuredImage: "/images/accommodation/charming-berat-flat-getaway-460083294.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460083294.jpg?k=88b5765b7cd87edaf4cd06d5f9bbd81afad91dc6779d908cc2c76e4eda0aeb2c&o=&hp=1"
 language: en
 slug: charming-berat-flat-getaway
 address: "Rruga Koli Vesho, 5003 Berat, Albania"

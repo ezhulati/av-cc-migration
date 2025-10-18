@@ -1,7 +1,7 @@
 ---
 title: "Cozy sunlit apartment with scenic balcony view"
 description: "Discover the charm of Tirana from the comfort of the Cozy Sunlit Apartment, a serene haven offering a scenic balcony view that captures the essence of city living."
-featuredImage: "/images/accommodation/cozy-sunlit-apartment-with-scenic-balcony-view-432046989.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/432046989.jpg?k=a72d944bc50366ad67668b2a5e2500f2a1e7384f9cba9baf4095cd3d0fe530d0&o=&hp=1"
 language: en
 slug: cozy-sunlit-apartment-with-scenic-balcony-view
 address: "8RJV+PM6, Rruga Shemsie Haka, Tirana 1001, Shqipëri, 1001 Tirana, Albania"

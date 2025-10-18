@@ -1,7 +1,7 @@
 ---
 title: "Sunflower apartment"
 description: "Sunflower Apartment emerges as a serene retreat in the heart of Vlorë, merely a stone's throw away from the pristine Liro Beach and a short stroll from the vibrant Coco Bongo Beach."
-featuredImage: "/images/accommodation/sunflower-apartment-475070971.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475070971.jpg?k=bd435737e9a64f874172fdd688f669853914c167c9c17c2dff1ed0ee694cd0e5&o=&hp=1"
 language: en
 slug: sunflower-apartment
 address: "Rruga Aleksandër Moisiu, 9403 Vlorë, Albania"

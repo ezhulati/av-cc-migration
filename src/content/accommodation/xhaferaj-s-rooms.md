@@ -1,7 +1,7 @@
 ---
 title: "Xhaferaj's Rooms"
 description: "Xhaferaj's Rooms emerges as a serene oasis in the heart of Tirana, offering guests a tranquil retreat amidst the city's vibrant life."
-featuredImage: "/images/accommodation/xhaferaj-s-rooms-419981103.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419981103.jpg?k=5c05609dfe44a7f1064052c114e236359c9ee4645ff7b66315d61297d6f60d44&o=&hp=1"
 language: en
 slug: xhaferaj-s-rooms
 address: "Rruga Lidhja e Prizrenit 3, 1000 Tirana, Albania"

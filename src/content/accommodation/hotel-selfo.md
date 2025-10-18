@@ -1,7 +1,7 @@
 ---
 title: "Hotel Selfo"
 description: "Hotel Selfo emerges as a charming retreat in the historic heart of Gjirokastër, offering a serene escape with its lush garden surroundings and the convenience of free private parking."
-featuredImage: "/images/accommodation/hotel-selfo-499159056.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499159056.jpg?k=07a53806416208d815bceb2a081bd76f634b8cd8a79261d3c42e7b1ea35fb21a&o=&hp=1"
 language: en
 slug: hotel-selfo
 address: "Superstrada Gjirokastër - Janinë Kordhoce Gjirokaster Albania 3 km, 6002 Gjirokastër, Albania"

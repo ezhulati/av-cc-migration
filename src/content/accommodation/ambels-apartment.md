@@ -1,7 +1,7 @@
 ---
 title: "Ambels Apartment"
 description: "Ambels Apartment emerges as a serene retreat in the heart of Berat, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/ambels-apartment-521358603.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521358603.jpg?k=9d611382e0782f90b70321fbe37badb0dc0a73c18e152f45fa64bf0842c71c33&o=&hp=1"
 language: en
 slug: ambels-apartment
 address: "Rruga Bektash Berberi, 5001 Berat, Albania"

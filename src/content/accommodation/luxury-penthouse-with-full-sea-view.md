@@ -1,7 +1,7 @@
 ---
 title: "Luxury Penthouse with Full Sea View"
 description: "Luxury Penthouse with Full Sea View stands as a premier destination for travelers seeking an exceptional retreat."
-featuredImage: "/images/accommodation/luxury-penthouse-with-full-sea-view-368319076.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/368319076.jpg?k=a3e7e928a50f93063c4977c7b73c114e42ef9c4f43238b3c7e7a3777ed7feb6c&o=&hp=1"
 language: en
 slug: luxury-penthouse-with-full-sea-view
 address: "Rr. Liria Nd. 95, H.9, Ap.21, 2021 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Arturi"
 description: "Vila Arturi emerges as a serene retreat, boasting breathtaking mountain vistas and a prime location just 48 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/vila-arturi-372577083.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372577083.jpg?k=50fc131cfb98076dd70c7bad6a316fe10be6bc7564ed2d3c0e3b71e294ebbf35&o=&hp=1"
 language: en
 slug: vila-arturi
 address: "SH8, 9714 Borsh, Albania"

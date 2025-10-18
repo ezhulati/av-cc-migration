@@ -1,7 +1,7 @@
 ---
 title: "Central 2 Apartment"
 description: "Central 2 Apartment emerges as a prime choice for travelers seeking the comfort of home in the heart of Tirana."
-featuredImage: "/images/accommodation/central-2-apartment-photo.jpg64.jpg"
+featuredImage: "https://lh4.googleusercontent.com/-adkwZynfdaw/AAAAAAAAAAI/AAAAAAAACXA/pNTcl_mUt64/s96-c/photo.jpg64"
 language: en
 slug: central-2-apartment
 address: "Rruga e Kavajës, 1023 Tirana, Albania"

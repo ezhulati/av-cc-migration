@@ -1,7 +1,7 @@
 ---
 title: "Vogli's House Apartments & Rooms"
 description: "Vogli's House Apartments & Rooms emerges as a prime choice for travelers seeking comfort and convenience mere steps away from Durres Beach."
-featuredImage: "/images/accommodation/vogli-s-house-apartments-rooms-405738014.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405738014.jpg?k=3fa483fcd2fccdfe309d7b9106f3107e955a84a0dba0d4ecf3d8db240afd8331&o=&hp=1"
 language: en
 slug: vogli-s-house-apartments-rooms
 address: "Plazh Durres Rruga Pavarsia,Lagja 13,Plazh, 2008 Durrës, Albania"

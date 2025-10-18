@@ -1,7 +1,7 @@
 ---
 title: "Panoramic Views of Saranda"
 description: "Panoramic Views of Saranda emerges as a prime choice for travelers seeking a serene getaway in Sarandë, located conveniently close to both Heaven Beach (1."
-featuredImage: "/images/accommodation/panoramic-views-of-saranda-472582627.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472582627.jpg?k=d6d22009396f2de8876331e2809017c698102c8d2fc900ae69e5c3373f66e7f2&o=&hp=1"
 language: en
 slug: panoramic-views-of-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

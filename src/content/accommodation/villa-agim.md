@@ -1,7 +1,7 @@
 ---
 title: "Villa Agim"
 description: "Villa Agim stands out as a prime choice for travelers seeking comfortable lodging in Gjirokastër."
-featuredImage: "/images/accommodation/villa-agim-511004773.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511004773.jpg?k=8462f1dd808b3f8b39ae15237b3e672598510694148e6c09eab7b35af5b15d99&o=&hp=1"
 language: en
 slug: villa-agim
 address: "Rruga Reshat Isufati, 6002 Gjirokastër, Albania"

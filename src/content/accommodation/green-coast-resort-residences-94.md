@@ -1,7 +1,7 @@
 ---
 title: "Green Coast Resort & Residences 94"
 description: "Green Coast Resort & Residences 94 stands as a beacon of luxury just 200 meters from the pristine shores of Nazar Beach in Palasë, offering guests an unparalleled blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/green-coast-resort-residences-94-522219257.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522219257.jpg?k=5dbbd998ed1da98919282cf12cc8f1e216070780361f8ea25e4e8ae3d117ba74&o=&hp=1"
 language: en
 slug: green-coast-resort-residences-94
 address: "Villa 94a GreenCoast Resort and Residence, 9425 Palasë, Albania"

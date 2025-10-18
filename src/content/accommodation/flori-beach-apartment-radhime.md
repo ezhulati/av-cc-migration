@@ -1,7 +1,7 @@
 ---
 title: "Flori beach Apartment Radhime"
 description: "Flori Beach Apartment Radhime emerges as a prime choice for travelers seeking comfort and convenience in the heart of Radhimë."
-featuredImage: "/images/accommodation/flori-beach-apartment-radhime-267520143.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267520143.jpg?k=ab073e26b24619ab5835ebb7161ebb327e4e7b31bf4f526a0368c6f6c024dd22&o=&hp=1"
 language: en
 slug: flori-beach-apartment-radhime
 address: "Tirana Resort, Radhime,Vlore, 9301 Radhimë, Albania"

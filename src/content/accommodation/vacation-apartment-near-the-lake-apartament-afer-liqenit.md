@@ -1,7 +1,7 @@
 ---
 title: "Vacation Apartment near the lake Apartament afer liqenit"
 description: "Vacation Apartment near the lake Apartament afer liqenit emerges as a serene retreat in Pogradec, perfectly positioned for those eager to explore the enchanting surroundings, including the Ohrid Lake Springs and the Bay of Bones."
-featuredImage: "/images/accommodation/vacation-apartment-near-the-lake-apartament-afer-liqenit-bebbb1d5ff29.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-d/bebbb1d5ff29328157080e4e2e5d15a29c5aa34a.png"
 language: en
 slug: vacation-apartment-near-the-lake-apartament-afer-liqenit
 address: "Rruga Eduard Mortier 8, near \"Mini Market\" Isuf, 7301 Pogradec, Albania"

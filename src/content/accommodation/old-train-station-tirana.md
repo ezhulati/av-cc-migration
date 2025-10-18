@@ -1,7 +1,7 @@
 ---
 title: "Old Train Station Tirana"
 description: "Old Train Station Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/old-train-station-tirana-361556635.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/361556635.jpg?k=ae4b479768ae4ff4b85eb3c1079d05dd6ea675bca2bbe0a68d9b80c5d4601f69&o=&hp=1"
 language: en
 slug: old-train-station-tirana
 address: "Rruga Reshir Petrela, Kompleksi Usluga, Tirana, 1001 Tirana, Albania"

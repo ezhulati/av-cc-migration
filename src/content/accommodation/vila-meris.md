@@ -1,7 +1,7 @@
 ---
 title: "Vila MeriS"
 description: "Vila MeriS stands as a serene retreat in Durrës, a mere stone's throw from the pristine shores of Lalëz Bay Beach and within a comfortable distance from the historic heart of Albania, Skanderbeg Square, located 43 km away."
-featuredImage: "/images/accommodation/vila-meris-374696265.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374696265.jpg?k=98047b8a6b65c3d45ef00bf3802ad27cbaaf73ed1c4b970488283e11e6538c25&o=&hp=1"
 language: en
 slug: vila-meris
 address: "Kompleksi Turistik Lura ( Lura 1), Lalëz, Durrës, Albania"

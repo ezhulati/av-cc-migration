@@ -1,7 +1,7 @@
 ---
 title: "viki sea view apartment"
 description: "Viki Sea View Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/viki-sea-view-apartment-ALm5wu1DeggR.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ALm5wu1DeggRs6n5cWUGX_TvTHRIDIdgKTDQ3Pl8BktOHA=s96-c64"
 language: en
 slug: viki-sea-view-apartment
 address: "shkembi i kavajes, 2000 Durrës, Albania"

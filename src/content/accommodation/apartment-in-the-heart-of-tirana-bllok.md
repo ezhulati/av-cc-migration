@@ -1,7 +1,7 @@
 ---
 title: "Apartment in the heart of Tirana , Bllok"
 description: "Apartment in the Heart of Tirana, Bllok, emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/apartment-in-the-heart-of-tirana-bllok-474965134.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474965134.jpg?k=05de41ece24b8df4945e1a577b3b9e22a09f7e0b17c3f1aa3d4ba28d256dbbe7&o=&hp=1"
 language: en
 slug: apartment-in-the-heart-of-tirana-bllok
 address: "Street Vaso Pasha, Street Nikolla Tupe, Tirana, 1001 Tirana, Albania"

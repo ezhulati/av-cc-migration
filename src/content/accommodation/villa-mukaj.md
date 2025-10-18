@@ -1,7 +1,7 @@
 ---
 title: "Villa Mukaj"
 description: "Villa Mukaj emerges as a serene retreat in the heart of Fratar, boasting an array of amenities designed for the ultimate relaxation and convenience of its guests."
-featuredImage: "/images/accommodation/villa-mukaj-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/100000146947005/picture?type=square&height=64&width=64"
 language: en
 slug: villa-mukaj
 address: "fatar, 9300 Fratar, Albania"

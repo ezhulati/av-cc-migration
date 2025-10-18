@@ -1,7 +1,7 @@
 ---
 title: "Asli's Comfy Studio APT"
 description: "Asli's Comfy Studio APT emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/asli-s-comfy-studio-apt-525243026.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525243026.jpg?k=22291de686b5d11212e3ac2c6cacfdca1e04e272f699feef38399db7959400d8&o=&hp=1"
 language: en
 slug: asli-s-comfy-studio-apt
 address: "6 Rruga Margarita Tutulani, 1019 Tirana, Albania"

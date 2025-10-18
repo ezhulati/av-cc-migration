@@ -1,7 +1,7 @@
 ---
 title: "ALEXANDER Rooms & Apartments"
 description: "ALEXANDER Rooms & Apartments emerges as a prime choice for travelers seeking comfort and convenience mere steps away from the sun-kissed shores of Durres Beach."
-featuredImage: "/images/accommodation/alexander-rooms-apartments-477913320.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477913320.jpg?k=d3ba5847d4f3a813f91638675eea67743df9941a3dae54161454fc8b1aaf5fbb&o=&hp=1"
 language: en
 slug: alexander-rooms-apartments
 address: "Rruga Pavaresia Building 50 , Entry 10 , Apartment 17, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Summer by the Sea"
 description: "Summer by the Sea emerges as a serene oasis in Hamallaj, offering guests a unique blend of comfort and convenience with its prime location just a stone's throw away from the pristine Lalëz Bay Beach."
-featuredImage: "/images/accommodation/summer-by-the-sea-403384416.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403384416.jpg?k=79a6db8637fbd6687ec46a67cdb9a512b2285e764fd6e0adbecdbbc8a1e449eb&o=&hp=1"
 language: en
 slug: summer-by-the-sea
 address: "Rruga Hamallaj-Rrushkull, 2010 Hamallaj, Albania"

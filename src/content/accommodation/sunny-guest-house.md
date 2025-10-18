@@ -1,7 +1,7 @@
 ---
 title: "Sunny guest house"
 description: "Sunny Guest House emerges as a serene oasis in Vlorë, strategically positioned less than a kilometer from the pristine Vjetër Beach and within easy reach of the city's historical landmarks, including Independence Square and Kuzum Baba."
-featuredImage: "/images/accommodation/sunny-guest-house-359350619.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/359350619.jpg?k=c1f8a9191880d07bf83ecad3ea4d732d4adab6efb0fa2277c303627e71df29d1&o=&hp=1"
 language: en
 slug: sunny-guest-house
 address: "Rruga Aleks Çaçi, Vlorë, Albania"

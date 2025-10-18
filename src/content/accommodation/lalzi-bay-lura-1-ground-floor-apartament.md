@@ -1,7 +1,7 @@
 ---
 title: "Lalzi Bay, Lura 1 ground floor apartament"
 description: "Lalzi Bay, Lura 1 ground floor apartment emerges as a serene retreat, merely 300 meters from the pristine shores of Lalëz Bay Beach and a scenic drive from the historic heart of Durrës, including Skanderbeg Square and the Durres Amphitheatre."
-featuredImage: "/images/accommodation/lalzi-bay-lura-1-ground-floor-apartament-474489483.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/474489483.jpg?k=29af4a41b773993f67eb60adc460a8331f6148350856ea58a1da8c82d8d246e7&o=&hp=1"
 language: en
 slug: lalzi-bay-lura-1-ground-floor-apartament
 address: "Lalzi bay, Lura 1, Durrës, Albania"

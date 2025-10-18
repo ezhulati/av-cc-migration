@@ -1,7 +1,7 @@
 ---
 title: "Cozy 1-Bedroom near the center of Tirana."
 description: "Cozy 1-Bedroom near the center of Tirana stands out as a prime choice for travelers seeking comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/cozy-1-bedroom-near-the-center-of-tirana-489321122.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489321122.jpg?k=b4d65eae0ea5b8d13a208260f0e9adcc1aaa89a48bc118f2758e48bc0a8f8e1b&o=&hp=1"
 language: en
 slug: cozy-1-bedroom-near-the-center-of-tirana
 address: "Rruga Mujo Ulqinaku Building 1, Floor 3, Apartment 15, 1001 Tirana, Albania"

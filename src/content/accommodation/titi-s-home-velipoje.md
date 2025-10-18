@@ -1,7 +1,7 @@
 ---
 title: "Titi's home Velipoje"
 description: "Titi's Home Velipoje emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Velipojë."
-featuredImage: "/images/accommodation/titi-s-home-velipoje-493254981.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/493254981.jpg?k=7302b6fcbe46d1b9398116ae68e0fdf39a829dfa2c96fb64b752de12f9ca9e93&o=&hp=1"
 language: en
 slug: titi-s-home-velipoje
 address: "Rruga Pulaj, Velipoje, 1000 Velipojë, Albania"

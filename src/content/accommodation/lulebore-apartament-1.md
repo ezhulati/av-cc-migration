@@ -1,7 +1,7 @@
 ---
 title: "Lulebore Apartament 1"
 description: "Lulebore Apartament 1 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/lulebore-apartament-1-524357304.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524357304.jpg?k=4f1e0c27e508e4906828851ade7db42aa86f1a6460969bb12e1f617d37da753b&o=&hp=1"
 language: en
 slug: lulebore-apartament-1
 address: "Rruga Ismail Qemali 9/1, 1001 Tirana, Albania"

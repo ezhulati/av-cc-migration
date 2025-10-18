@@ -1,7 +1,7 @@
 ---
 title: "PIN Apartments"
 description: "PIN Apartments emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/pin-apartments-354431789.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354431789.jpg?k=a2b7c19605a138b869935d29cbc5f304017e01619f1c15765257a3129e2ec90f&o=&hp=1"
 language: en
 slug: pin-apartments
 address: "Rruga Mihal Duri, 1001 Tirana, Albania"

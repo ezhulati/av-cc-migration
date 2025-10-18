@@ -1,7 +1,7 @@
 ---
 title: "Holiday apartment Alma"
 description: "Holiday Apartment Alma stands as a prime beachfront gem in Sarandë, offering guests an unparalleled blend of comfort and scenic beauty."
-featuredImage: "/images/accommodation/holiday-apartment-alma-140269401.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/140269401.jpg?k=f5b7e29aed2291ff8c4542f18ff9e50bb72faef514a0601e4a1d53eef3c4f32b&o=&hp=1"
 language: en
 slug: holiday-apartment-alma
 address: "61 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

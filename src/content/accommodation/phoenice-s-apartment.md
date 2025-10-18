@@ -1,7 +1,7 @@
 ---
 title: "Phoenice's apartment"
 description: "Phoenice's Apartment emerges as a serene retreat, offering guests a unique blend of comfort and natural beauty, located just 23 km from the enchanting Butrint National Park."
-featuredImage: "/images/accommodation/phoenice-s-apartment-360666053.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360666053.jpg?k=a954adeb489f509a0ca90d191437e81b8661136f5ef09827fe2ee1d186290ef7&o=&hp=1"
 language: en
 slug: phoenice-s-apartment
 address: "SH83, Finiq, Albania"

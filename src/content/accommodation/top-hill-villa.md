@@ -1,7 +1,7 @@
 ---
 title: "Top Hill Villa"
 description: "Top Hill Villa stands out as a prime choice for travelers seeking comfort and convenience in Ksamil, just a stone's throw away from the pristine Paradise Beach."
-featuredImage: "/images/accommodation/top-hill-villa-421584319.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421584319.jpg?k=3fcbc66118d66c9f9d237cfa4459a06f8823b59fb91817d3e6e5134c0dab1100&o=&hp=1"
 language: en
 slug: top-hill-villa
 address: "Rr. Laberia, Rr Sali Nivica, Ksamil, 9706 Ksamil, Albania"

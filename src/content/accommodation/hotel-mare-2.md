@@ -1,7 +1,7 @@
 ---
 title: "Hotel Mare 2"
 description: "Hotel Mare 2 stands as a beacon of comfort and convenience in the heart of Ksamil, merely a stone's throw away from the serene Sunset Beach."
-featuredImage: "/images/accommodation/hotel-mare-2-304936088.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304936088.jpg?k=395ea0948318a836738a4da1eae6cc8f6eeace7f31f01907af649762a4ff593b&o=&hp=1"
 language: en
 slug: hotel-mare-2
 address: "Road Butrinti, 9706 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Exellent apartment in Tirana"
 description: "Exellent Apartment in Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/exellent-apartment-in-tirana-489942474.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489942474.jpg?k=a4d379f8355520272ace59d88d7b38742304cae9cfd992c8c0b0d64d4accd120&o=&hp=1"
 language: en
 slug: exellent-apartment-in-tirana
 address: "Rruga Don Bosko, Tirana, Albania"

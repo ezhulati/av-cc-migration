@@ -1,7 +1,7 @@
 ---
 title: "Anxhelos Hotel"
 description: "Anxhelos Hotel, positioned just steps away from the pristine Livadhi Beach in Himare, presents a serene escape with its array of amenities including a restaurant, complimentary private parking, a welcoming bar, and its very own private beach area."
-featuredImage: "/images/accommodation/anxhelos-hotel-441296399.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/441296399.jpg?k=92835866b648dc71fbb5c9f10e27e8f63276ff7672bcc27d123494fcd11d72ba&o=&hp=1"
 language: en
 slug: anxhelos-hotel
 address: "Himare - Livadh Road Restaurant Anxheloz, 9425 Himare, Albania"

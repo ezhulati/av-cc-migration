@@ -1,7 +1,7 @@
 ---
 title: "Royal Queen and King Luxury apartment"
 description: "Royal Queen and King Luxury Apartment emerges as a premier choice for travelers seeking unparalleled comfort and convenience in Sarandë, Vlorë County."
-featuredImage: "/images/accommodation/royal-queen-and-king-luxury-apartment-234591066.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/234591066.jpg?k=e8966a224dfab8bf62171167f712651d05e7dcf0b7dbf99988c147b68c71dd01&o=&hp=1"
 language: en
 slug: royal-queen-and-king-luxury-apartment
 address: "61 Rruga Mitat Hoxha, Sarandë, Albania"

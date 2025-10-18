@@ -1,7 +1,7 @@
 ---
 title: "Downtown apartment Tirana (Myslym Shyri)"
 description: "Downtown Apartment Tirana (Myslym Shyri) emerges as a prime choice for travelers seeking a blend of comfort, convenience, and connectivity in the heart of Tirana."
-featuredImage: "/images/accommodation/downtown-apartment-tirana-myslym-shyri-505307600.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505307600.jpg?k=bada229904c1a57a612b99586ceb33e8590e4d5659e494bde0df89cb2757a5e7&o=&hp=1"
 language: en
 slug: downtown-apartment-tirana-myslym-shyri
 address: "Rr. Vangjush Furxhi Apartment 1, 1st floor, Tirana, Albania"

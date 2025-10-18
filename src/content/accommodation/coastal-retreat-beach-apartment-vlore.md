@@ -1,7 +1,7 @@
 ---
 title: "COASTAL RETREAT - Beach Apartment Vlore"
 description: "COASTAL RETREAT - Beach Apartment Vlore stands as a prime choice for travelers seeking a serene beachfront escape in the vibrant city of Vlorë."
-featuredImage: "/images/accommodation/coastal-retreat-beach-apartment-vlore-743312ca303f.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-w/743312ca303f4a4be7af10e6d1015d40a0ce81a4.png"
 language: en
 slug: coastal-retreat-beach-apartment-vlore
 address: "Rruga Shyqyri Ali Merka Apt.21, 5 floor, 9401 Vlorë, Albania"

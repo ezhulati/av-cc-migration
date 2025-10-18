@@ -1,7 +1,7 @@
 ---
 title: "Qeparo Pano Rooms"
 description: "Qeparo Pano Rooms emerges as a serene haven for travelers seeking the perfect blend of comfort and convenience in the heart of Vlorë County."
-featuredImage: "/images/accommodation/qeparo-pano-rooms-251154487.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251154487.jpg?k=589ddbd3e58a8b7c5bb8f148e71ecd1ab159601ef2e2e82ae918deeeed5bdaa9&o=&hp=1"
 language: en
 slug: qeparo-pano-rooms
 address: "Qeparo Protopapa, 8407 Qeparo, Albania"

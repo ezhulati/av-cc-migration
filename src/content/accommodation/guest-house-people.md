@@ -1,7 +1,7 @@
 ---
 title: "Guest House People"
 description: "Guest House People emerges as a distinguished choice for travelers seeking comfort and convenience in Korçë, located a mere stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/guest-house-people-120826342.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/120826342.jpg?k=080df4ae243321c9da606ef75c73a6491364911c0c5b59cd4a7a81086e305b50&o=&hp=1"
 language: en
 slug: guest-house-people
 address: "Bulevardi Rilindasit 6, 7001 Korçë, Albania"

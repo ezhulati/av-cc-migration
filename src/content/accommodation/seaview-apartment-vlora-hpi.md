@@ -1,7 +1,7 @@
 ---
 title: "Seaview Apartment Vlora HPI"
 description: "Seaview Apartment Vlora HPI emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/seaview-apartment-vlora-hpi-d2bf46fbe4c1.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-g/d2bf46fbe4c12e06481303d85f49f125e18fbd39.png"
 language: en
 slug: seaview-apartment-vlora-hpi
 address: "Street Uji i Ftohte Building 1, Floor 3, Ap 9, 9405 Vlorë, Albania"

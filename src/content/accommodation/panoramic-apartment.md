@@ -1,7 +1,7 @@
 ---
 title: "Panoramic Apartment"
 description: "Panoramic Apartment emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/panoramic-apartment-491494537.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491494537.jpg?k=17f5fe42be8d9148b019769b4c0606a884e31430e446edf1b0d84cab95c24919&o=&hp=1"
 language: en
 slug: panoramic-apartment
 address: "Bulevardi Gjergj Fishta, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Lovely and quite appartament 1-3 b"
 description: "Discover the charm of Tirana from the comfort of Lovely and Quite Apartment 1-3 b, a serene oasis located strategically within the city's vibrant heart."
-featuredImage: "/images/accommodation/lovely-and-quite-appartament-1-3-b-460076001.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/460076001.jpg?k=588b867c47e0f189ddcf9cc4e9de47e882301ad7c07ad63d2c585485d1dc2983&o=&hp=1"
 language: en
 slug: lovely-and-quite-appartament-1-3-b
 address: "Rruga 5 Maji, 1012 Tirana, Albania"

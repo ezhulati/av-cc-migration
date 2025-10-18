@@ -1,7 +1,7 @@
 ---
 title: "Ari Apartaments"
 description: "Ari Apartments emerges as a prime choice for travelers seeking a blend of comfort and convenience in Vlorë, positioned just a stone's throw away from Ri Beach and within easy reach of other local beaches including the Beach at Government Villas and Vlore Beach."
-featuredImage: "/images/accommodation/ari-apartaments-366819667.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366819667.jpg?k=5eee047fd3e6f0b6a5f431e33023ad5263950d10bc1d8855c7690d0a684cef27&o=&hp=1"
 language: en
 slug: ari-apartaments
 address: "Rruga Dhimitër Konomi, 9405 Vlorë, Albania"

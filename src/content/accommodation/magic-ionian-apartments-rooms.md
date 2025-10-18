@@ -1,7 +1,7 @@
 ---
 title: "Magic Ionian Apartments & Rooms"
 description: "Magic Ionian Apartments & Rooms stands as a prime beachfront haven in Himare, offering guests the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/magic-ionian-apartments-rooms-384418510.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/384418510.jpg?k=50719c0b8fefef873e3775fd8a42ab815ed26bfe7f15d9841474f1f08b37e227&o=&hp=1"
 language: en
 slug: magic-ionian-apartments-rooms
 address: "Prinos, Potam beach, Himara, 9425 Himare, Albania"

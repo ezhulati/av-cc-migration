@@ -1,7 +1,7 @@
 ---
 title: "FLY UNITED suite 4"
 description: "FLY UNITED Suite 4 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/fly-united-suite-4-519904324.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519904324.jpg?k=ce492117d3ff7d6e0284bae02fa2b7d480f95f1d6a041f37b7b047c02124d3a4&o=&hp=1"
 language: en
 slug: fly-united-suite-4
 address: "Rruga Zef Juanmi n 23, Sheshi Wilson, La zona più gettonata di Tiranë,Tirana, 1019 Albania Piano 1, Tirana, Albania"

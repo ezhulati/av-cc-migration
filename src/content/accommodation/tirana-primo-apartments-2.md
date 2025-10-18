@@ -1,7 +1,7 @@
 ---
 title: "Tirana Primo Apartments 2"
 description: "Tirana Primo Apartments 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-primo-apartments-2-405954488.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/405954488.jpg?k=eb058555ad5228f99d8fb58daf9c57f552f6b402a154833cb6656049f88b6c43&o=&hp=1"
 language: en
 slug: tirana-primo-apartments-2
 address: "Rruga Don Bosko, 1001 Tirana, Albania"

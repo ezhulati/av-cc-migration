@@ -1,7 +1,7 @@
 ---
 title: "Tirana Ballet Apartment"
 description: "Tirana Ballet Apartment emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modernity in the heart of Tirana."
-featuredImage: "/images/accommodation/tirana-ballet-apartment-497899673.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497899673.jpg?k=959b2151b95b8b1039a7cc14278e92f2b6b0ec0fe634181eea43839d1e483e83&o=&hp=1"
 language: en
 slug: tirana-ballet-apartment
 address: "Rruga Petro Nini Luarasi, 1010 Tirana, Albania"

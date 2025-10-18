@@ -1,7 +1,7 @@
 ---
 title: "Apartment Angel"
 description: "Apartment Angel stands out as a premier choice for travelers seeking a pet-friendly accommodation option in the vibrant city of Sarandë."
-featuredImage: "/images/accommodation/apartment-angel-313527906.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/313527906.jpg?k=7403ff30f724a1395bc79fdba40f50e62afac7cd29127027afe821b992bdcabe&o=&hp=1"
 language: en
 slug: apartment-angel
 address: "Rr. Jonianet, Sarande Albania, 9700 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Roel House"
 description: "Roel House emerges as a serene retreat in the vibrant city of Sarandë, strategically positioned just moments away from the pristine Heaven Beach and the lively Mango Beach."
-featuredImage: "/images/accommodation/roel-house-459764745.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459764745.jpg?k=c6e9738e2699f6dabf36146bc686c4c75ffe106373f6f28b2e8528bb683a5345&o=&hp=1"
 language: en
 slug: roel-house
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

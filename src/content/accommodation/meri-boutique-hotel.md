@@ -1,7 +1,7 @@
 ---
 title: "Meri Boutique Hotel"
 description: "Meri Boutique Hotel stands out as a charming retreat in Korçë, offering guests a unique blend of comfort and convenience with its array of amenities and services."
-featuredImage: "/images/accommodation/meri-boutique-hotel-312922711.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312922711.jpg?k=d77795100e42a9b9b344618197706b2dd89baa67c94d5367b174966552cdee36&o=&hp=1"
 language: en
 slug: meri-boutique-hotel
 address: "rruga 29 Nentori, Korce, 1001 Korçë, Albania"

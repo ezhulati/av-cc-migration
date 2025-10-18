@@ -1,7 +1,7 @@
 ---
 title: "Blu Apartments"
 description: "Blu Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/blu-apartments-206293933.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/206293933.jpg?k=0ddd36b6608fd4cbbdea0db3924943df75f0a3057197c774099925323d5d5efe&o=&hp=1"
 language: en
 slug: blu-apartments
 address: "Rruga Venecia 40, 2000 Durrës, Albania"

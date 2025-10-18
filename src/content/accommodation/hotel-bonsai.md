@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bonsai"
 description: "Hotel Bonsai emerges as a distinguished 4-star haven, strategically positioned just a short drive from the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-bonsai-499997088.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/499997088.jpg?k=4bfc793c9f8a4d8963fd9205465f2c3726cc1e510cf4e2ecebeb88a7f61520dc&o=&hp=1"
 language: en
 slug: hotel-bonsai
 address: "Rruga e Elbasanit, 1001 Tirana, Albania"

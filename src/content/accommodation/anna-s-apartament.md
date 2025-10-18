@@ -1,7 +1,7 @@
 ---
 title: "Anna´s apartament"
 description: "Anna's Apartment in Lushnjë offers a refreshing retreat for travelers seeking comfort and convenience."
-featuredImage: "/images/accommodation/anna-s-apartament-486625880.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486625880.jpg?k=46fdf33ad7610529e8422d60d8e5188418389dde5188edfec0bdce25ddfd46af&o=&hp=1"
 language: en
 slug: anna-s-apartament
 address: "Shetitorja e Palmave, 9001 Lushnjë, Albania"

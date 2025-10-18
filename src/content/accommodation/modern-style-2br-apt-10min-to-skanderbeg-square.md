@@ -1,7 +1,7 @@
 ---
 title: "Modern Style 2BR-Apt - 10min to Skanderbeg Square"
 description: "Modern Style 2BR-Apt - 10min to Skanderbeg Square stands out as a recently renovated gem in the heart of Tirana, offering a blend of comfort and convenience for travelers seeking an urban retreat."
-featuredImage: "/images/accommodation/modern-style-2br-apt-10min-to-skanderbeg-square-509592632.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/509592632.jpg?k=7a70407208d992ea6eebd9f5ead0e380421451478d72b88505bc6647371fc7cb&o=&hp=1"
 language: en
 slug: modern-style-2br-apt-10min-to-skanderbeg-square
 address: "5 Rruga e Barrikadave, Tirana, Albania"

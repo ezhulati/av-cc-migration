@@ -1,7 +1,7 @@
 ---
 title: "HOTEL ANSEL"
 description: "HOTEL ANSEL emerges as a distinguished choice for travelers seeking comfort and convenience in the heart of Berat."
-featuredImage: "/images/accommodation/hotel-ansel-300641472.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/300641472.jpg?k=f096ab072697603d6ce977b91aaa432b5ab2c4393351ee90bbd7871ba69feb0a&o=&hp=1"
 language: en
 slug: hotel-ansel
 address: "Rr.Antipatrea Lagjja Mangalem, 5001 Berat, Albania"

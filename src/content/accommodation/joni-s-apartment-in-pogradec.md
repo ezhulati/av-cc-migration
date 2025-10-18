@@ -1,7 +1,7 @@
 ---
 title: "Joni’s apartment in Pogradec"
 description: "Joni's Apartment in Pogradec emerges as a serene retreat for travelers seeking comfort and convenience in the heart of one of Albania's most picturesque regions."
-featuredImage: "/images/accommodation/joni-s-apartment-in-pogradec-486973130.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486973130.jpg?k=92f094f2c04d9d656114cbd9f999d5ab986ace65891e935f19ffcfb0fa49c3ef&o=&hp=1"
 language: en
 slug: joni-s-apartment-in-pogradec
 address: "Pogradec, Tushemisht, 1004 Pogradec, Albania"

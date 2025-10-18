@@ -1,7 +1,7 @@
 ---
 title: "Apartmán Dagmar"
 description: "Apartmán Dagmar emerges as a prime beachfront gem in Durrës, offering guests an unparalleled blend of comfort and convenience."
-featuredImage: "/images/accommodation/apartm-n-dagmar-350872666.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/350872666.jpg?k=f82174808d1c35de54035246acec9b6cac22b1588e76f2776dd02329193d1bb1&o=&hp=1"
 language: en
 slug: apartm-n-dagmar
 address: "Rruga Plazha/13 21, 2000 Durrës, Albania"

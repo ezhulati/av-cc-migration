@@ -1,7 +1,7 @@
 ---
 title: "Villa Makaj"
 description: "Villa Makaj emerges as a serene retreat in Shënkoll, presenting guests with a picturesque garden view that promises a tranquil escape from the hustle and bustle."
-featuredImage: "/images/accommodation/villa-makaj-504198378.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504198378.jpg?k=e9b8267ff407a559bd579064cbcbe34dcde8644c523328c8190b08d2e83a94b8&o=&hp=1"
 language: en
 slug: villa-makaj
 address: "Rruga Makaj, 4509 Shënkoll, Albania"

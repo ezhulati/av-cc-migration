@@ -1,7 +1,7 @@
 ---
 title: "Studio Taraj"
 description: "Studio Taraj emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/studio-taraj-484476417.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484476417.jpg?k=232c05758ade67616bf29712147837a9084e20f5af44f8096739e821b66202b4&o=&hp=1"
 language: en
 slug: studio-taraj
 address: "Rruga Riviera, 9706 Ksamil, Albania"

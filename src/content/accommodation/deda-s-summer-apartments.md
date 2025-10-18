@@ -1,7 +1,7 @@
 ---
 title: "Deda's Summer Apartments"
 description: "Deda's Summer Apartments emerges as a prime choice for travelers seeking comfort and convenience mere steps away from Ri Beach."
-featuredImage: "/images/accommodation/deda-s-summer-apartments-473317629.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473317629.jpg?k=9b5db3047476c551de55fcebf66359e9507b02fcd85ae575326ac1c53400f005&o=&hp=1"
 language: en
 slug: deda-s-summer-apartments
 address: "Deda's Summer Apartments, CFHW+M5Q, Vlorë, Albania, 9405 Vlorë, Albania"

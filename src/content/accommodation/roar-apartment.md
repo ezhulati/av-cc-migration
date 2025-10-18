@@ -1,7 +1,7 @@
 ---
 title: "RoAr Apartment"
 description: "RoAr Apartment emerges as a prime choice for travelers seeking comfort and convenience in Golem, positioned merely 200 meters from the pristine Golem Beach and a short stroll from Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/roar-apartment-478359203.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478359203.jpg?k=8a326c5acf6f85b4a171de4b0ef03fd7d1ebe0f66bc068f4fcb10d71e6109dd7&o=&hp=1"
 language: en
 slug: roar-apartment
 address: "Kavaje, Golem Ap 3/ second floor/ Bl 08/1, Golem, Albania"

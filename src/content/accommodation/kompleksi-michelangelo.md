@@ -1,7 +1,7 @@
 ---
 title: "Kompleksi Michelangelo"
 description: "Kompleksi Michelangelo emerges as a prime choice for travelers seeking comfort and convenience in Lezhë."
-featuredImage: "/images/accommodation/kompleksi-michelangelo-467080800.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467080800.jpg?k=739b2448fcab46f3d560dde775fad33b493edc4918c4a98454ade81666faf33a&o=&hp=1"
 language: en
 slug: kompleksi-michelangelo
 address: "Arap Sadria, nr.4, Shengjin, 4503 Lezhë, Albania"

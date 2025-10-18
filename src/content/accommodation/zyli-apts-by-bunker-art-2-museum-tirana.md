@@ -1,7 +1,7 @@
 ---
 title: "Zyli Apts, BY Bunker Art 2 Museum, Tirana"
 description: "Zyli Apts, BY Bunker Art 2 Museum, Tirana, emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/zyli-apts-by-bunker-art-2-museum-tirana-473966506.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473966506.jpg?k=cebf27d8a81f667f23c82e20dd6d565c1aec823482024fd9934ce76486fe816a&o=&hp=1"
 language: en
 slug: zyli-apts-by-bunker-art-2-museum-tirana
 address: "Rruga Shefqet Kuka, 1111 Tirana, Albania"

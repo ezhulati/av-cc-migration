@@ -1,7 +1,7 @@
 ---
 title: "City Center 5 - Tirana Way Apartments"
 description: "City Center 5 - Tirana Way Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-5-tirana-way-apartments-375757256.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375757256.jpg?k=9ad597dee05b29754c63006489e3a7a09ddd8d367a948bac6b790a259a346309&o=&hp=1"
 language: en
 slug: city-center-5-tirana-way-apartments
 address: "Rruga Selma Riza, 1057 Tirana, Albania"

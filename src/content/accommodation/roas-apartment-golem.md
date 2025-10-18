@@ -1,7 +1,7 @@
 ---
 title: "Roas Apartment Golem"
 description: "Roas Apartment Golem emerges as a serene retreat for travelers seeking the perfect blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/roas-apartment-golem-316379915.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/316379915.jpg?k=36e852f63f7b86810230a5644f625a80a7b61544147623f677101988a7698995&o=&hp=1"
 language: en
 slug: roas-apartment-golem
 address: "Golem kavaje, 2504 Golem, Albania"

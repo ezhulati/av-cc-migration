@@ -1,7 +1,7 @@
 ---
 title: "Zoo apartament Tirana"
 description: "Zoo Apartment Tirana emerges as a prime choice for travelers seeking a blend of comfort and convenience in Albania's vibrant capital."
-featuredImage: "/images/accommodation/zoo-apartament-tirana-444158134.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/444158134.jpg?k=cbbde3d0fabdc05e864dede2c00cb9caccac0fd19d15b22a64d28c1fef075975&o=&hp=1"
 language: en
 slug: zoo-apartament-tirana
 address: "Rruga Bilal Sina, 1001 Tirana, Albania"

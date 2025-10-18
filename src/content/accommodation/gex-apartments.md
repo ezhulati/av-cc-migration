@@ -1,7 +1,7 @@
 ---
 title: "Gex apartments"
 description: "Gex Apartments emerges as a modern haven for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/gex-apartments-472629494.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472629494.jpg?k=50c5ffa00c50028b36c34a3ee74242eff606b5fe36516f6e2836d8ea43ee4051&o=&hp=1"
 language: en
 slug: gex-apartments
 address: "Rruga e Barrikadave, 1015 Tirana, Albania"

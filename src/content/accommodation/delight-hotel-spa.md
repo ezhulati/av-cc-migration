@@ -1,7 +1,7 @@
 ---
 title: "Delight Hotel & SPA"
 description: "Delight Hotel & SPA stands as a beacon of comfort and luxury in Golem, merely a stone's throw away from the serene Mali I Robit Beach."
-featuredImage: "/images/accommodation/delight-hotel-spa-358689110.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/358689110.jpg?k=fa62a2dabd4edfdbf517067dce3a757dd5c00a8d46435bd29d0583c69239746f&o=&hp=1"
 language: en
 slug: delight-hotel-spa
 address: "Rruga Skënderbeu, 2501 Golem, Albania"

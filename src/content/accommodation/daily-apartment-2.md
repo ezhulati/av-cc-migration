@@ -1,7 +1,7 @@
 ---
 title: "Daily Apartment 2"
 description: "Daily Apartment 2 emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/daily-apartment-2-511263166.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511263166.jpg?k=bde97025a6286eee7fbfa7bb5111c7f2f110b3e0de09c9c58ba69ac1ea707339&o=&hp=1"
 language: en
 slug: daily-apartment-2
 address: "Rruga Selaudin Zorba 2 floor, 1001 Tirana, Albania"

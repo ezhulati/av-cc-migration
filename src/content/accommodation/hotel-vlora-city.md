@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vlora City"
 description: "Hotel Vlora City emerges as a prime choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/hotel-vlora-city-489718614.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489718614.jpg?k=5c75b8c8c78856b514b1c0449c0b500dcf9674205adee24d99dfcbd2bde71d01&o=&hp=1"
 language: en
 slug: hotel-vlora-city
 address: "Rruga Rrap Sherifi, 9401 Vlorë, Albania"

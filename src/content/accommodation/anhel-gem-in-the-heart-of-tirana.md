@@ -1,7 +1,7 @@
 ---
 title: "Anhel, gem in the Heart of Tirana"
 description: "Anhel, a distinguished gem in the vibrant heart of Tirana, emerges as a prime choice for travelers seeking an immersive city experience."
-featuredImage: "/images/accommodation/anhel-gem-in-the-heart-of-tirana-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/10161378076435417/picture?type=square&height=64&width=64"
 language: en
 slug: anhel-gem-in-the-heart-of-tirana
 address: "Bulevardi Bajram Curri Sh. 4 ; Ap87, 1000 Tirana, Albania"

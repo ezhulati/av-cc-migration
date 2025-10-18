@@ -1,7 +1,7 @@
 ---
 title: "Apartment Tefiti"
 description: "Apartment Tefiti emerges as a prime choice for travelers seeking comfort and convenience in Sarandë, offering air-conditioned accommodations complete with a private pool."
-featuredImage: "/images/accommodation/apartment-tefiti-471688775.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471688775.jpg?k=dafb2bec6e9a8a0f237f84d50fbd98fe896168300d075917a09ba863ce16d4eb&o=&hp=1"
 language: en
 slug: apartment-tefiti
 address: "Rruga Skënderbeu 185 Saranda 9702, Sarandë, Albania"

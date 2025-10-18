@@ -1,7 +1,7 @@
 ---
 title: "CASA VACANZE"
 description: "CASA VACANZE emerges as a serene retreat, boasting breathtaking lake views and providing a tranquil garden setting for guests seeking a peaceful escape."
-featuredImage: "/images/accommodation/casa-vacanze-520270566.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520270566.jpg?k=bfafd7058019904622f6b0b720821a642f9cfec6a3868d6f23f7cd9ec5f818ef&o=&hp=1"
 language: en
 slug: casa-vacanze
 address: "Rruga Shirokes, 4001 Shirokë, Albania"

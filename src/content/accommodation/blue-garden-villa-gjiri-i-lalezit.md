@@ -1,7 +1,7 @@
 ---
 title: "Blue Garden Villa, Gjiri i Lalezit"
 description: "Blue Garden Villa, Gjiri i Lalezit, emerges as a serene retreat just a stone's throw away from the pristine shores of Lalëz Bay Beach and within a comfortable distance from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/blue-garden-villa-gjiri-i-lalezit-376057922.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376057922.jpg?k=a5a1e65290b573ae211f15ffbbb190c5a5761bceddafd5b5f36fa3f902a33bcc&o=&hp=1"
 language: en
 slug: blue-garden-villa-gjiri-i-lalezit
 address: "Plazhi San Pietro, Ishem 2015,Gjiri i Lalezit Primavera Residence, 2015 Durrës, Albania"

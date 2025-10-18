@@ -1,7 +1,7 @@
 ---
 title: "AAA Apartment"
 description: "AAA Apartment emerges as a charming choice for travelers seeking a blend of comfort and convenience in Berat."
-featuredImage: "/images/accommodation/aaa-apartment-458540315.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458540315.jpg?k=73bdd3bb8b1ae9518a7a4ae0b0f00e8a3f0245126fe33dc343cd61b6d66b559d&o=&hp=1"
 language: en
 slug: aaa-apartment
 address: "Bulevardi Republika, Lagja;30 Vjetori 2nd floor, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Elite Bay Hotel Lalez Durres"
 description: "Elite Bay Hotel Lalez Durres stands as a beacon of comfort and luxury, just a stone's throw away from the serene Lalëz Bay Beach."
-featuredImage: "/images/accommodation/elite-bay-hotel-lalez-durres-367383091.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367383091.jpg?k=92eb553ef1fdd15a9dd88de3bc9f9ffddeb6532968a057374bfd7611fe55cd01&o=&hp=1"
 language: en
 slug: elite-bay-hotel-lalez-durres
 address: "Gjiri Lalezit - Durres, 2015 Lalëz, Albania"

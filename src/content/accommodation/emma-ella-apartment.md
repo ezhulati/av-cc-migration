@@ -1,7 +1,7 @@
 ---
 title: "Emma & Ella Apartment"
 description: "Emma & Ella Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/emma-ella-apartment-511013535.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511013535.jpg?k=80ddf0ad89bdc55112f52373e377b7b9b5f1339a14d133db7474dfa7ee0eb81f&o=&hp=1"
 language: en
 slug: emma-ella-apartment
 address: "Rruga e Kavajës, Nd.132, H.9, 1023 Tirana, Albania"

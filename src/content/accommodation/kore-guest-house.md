@@ -1,7 +1,7 @@
 ---
 title: "Kore Guest House"
 description: "Kore Guest House emerges as a distinguished choice for travelers seeking a blend of history and comfort in Gjirokastër."
-featuredImage: "/images/accommodation/kore-guest-house-364401871.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/364401871.jpg?k=ea4c8fed14c87c5b027d9faf01cd85eb19ca4aaf2f575fe5262445932c7597bc&o=&hp=1"
 language: en
 slug: kore-guest-house
 address: "Familia Kore, Rruga Ismail Kadare, 6001 Gjirokastër, Albania"

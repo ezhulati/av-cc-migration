@@ -1,7 +1,7 @@
 ---
 title: "Velar Hotel Boutique"
 description: "Velar Hotel Boutique stands as a serene oasis in Korçë, a mere stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum, both located 44 km from the property."
-featuredImage: "/images/accommodation/velar-hotel-boutique-516163936.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516163936.jpg?k=1f476a02059d23e983ceacc0cb85ff994f00887afe83f6514a5ac6d8765b58ca&o=&hp=1"
 language: en
 slug: velar-hotel-boutique
 address: "Rruga Ismail Latifllari, 7000 Korçë, Albania"

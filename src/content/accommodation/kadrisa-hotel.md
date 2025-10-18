@@ -1,7 +1,7 @@
 ---
 title: "Kadrisa Hotel"
 description: "Kadrisa Hotel emerges as a charming retreat just a short 250-meter stroll from the beach, offering guests a blend of traditional hospitality and modern comforts."
-featuredImage: "/images/accommodation/kadrisa-hotel-73761968.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73761968.jpg?k=fd105cc703652916a71f0a6d30bbd2061cb628cba91dd84051b516e8ceb47dd6&o=&hp=1"
 language: en
 slug: kadrisa-hotel
 address: "L13 Rruga Iliria, 2001 Durrës, Albania"

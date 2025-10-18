@@ -1,7 +1,7 @@
 ---
 title: "Hotel Prinos"
 description: "Hotel Prinos stands as a prime choice for travelers seeking comfort and convenience in Himare, just a stone's throw away from the pristine Prinos Beach."
-featuredImage: "/images/accommodation/hotel-prinos-429068926.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429068926.jpg?k=d51e48fad75ca519e54e611ffabf5f9463195d04ff1936a6b62ef665340810f5&o=&hp=1"
 language: en
 slug: hotel-prinos
 address: "SH8 Potam, 1001 Himare, Albania"

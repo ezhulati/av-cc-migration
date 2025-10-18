@@ -1,7 +1,7 @@
 ---
 title: "Hotel Tani"
 description: "Discover the charm of Hotel Tani, a serene oasis located in Ulëz, offering guests a unique blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/hotel-tani-521913059.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/521913059.jpg?k=db99d6f87ab55e04a27f18ea1305c61befa7eb97731c01cfd7c5e246cd4a5af6&o=&hp=1"
 language: en
 slug: hotel-tani
 address: "SH46, 8003 Ulëz, Albania"

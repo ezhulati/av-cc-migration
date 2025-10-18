@@ -1,7 +1,7 @@
 ---
 title: "Vila Shard Boutique Hotel"
 description: "Vila Shard Boutique Hotel emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vila-shard-boutique-hotel-159611017.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/159611017.jpg?k=03db9fffa5482c767ebcd9be858f22a5607fcf143c72ca23e3f30f53472e10ed&o=&hp=1"
 language: en
 slug: vila-shard-boutique-hotel
 address: "Rruga Reshit Çollaku 31, 1000 Tirana, Albania"

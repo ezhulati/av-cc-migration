@@ -1,7 +1,7 @@
 ---
 title: "Andon Lapa Hotel & Spa"
 description: "Andon Lapa Hotel & Spa emerges as a premier destination for travelers seeking a blend of luxury and relaxation in Sarandë, located in the picturesque Vlorë County Region."
-featuredImage: "/images/accommodation/andon-lapa-hotel-spa-303307580.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/303307580.jpg?k=367e82c951a2070b02d8b7ad502bcd67e91ce3283feced2dda146832ac8a1239&o=&hp=1"
 language: en
 slug: andon-lapa-hotel-spa
 address: "Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Nina Guest House"
 description: "Nina Guest House emerges as a serene oasis in the heart of Tirana, boasting both garden and city views that promise a tranquil retreat amidst the urban hustle."
-featuredImage: "/images/accommodation/nina-guest-house-153526815.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/153526815.jpg?k=5eedd0cdd5c26521171c5387dbf01ef83048849a16d7feb1f03645fe8c5eef09&o=&hp=1"
 language: en
 slug: nina-guest-house
 address: "Rruga Musa Karapici 8, 1017 Tirana, Albania"

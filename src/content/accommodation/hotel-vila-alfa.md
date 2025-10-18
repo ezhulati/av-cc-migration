@@ -1,7 +1,7 @@
 ---
 title: "Hotel Vila Alfa"
 description: "Hotel Vila Alfa emerges as a serene retreat in Korçë, situated a mere 43 km from the tranquil Ohrid Lake Springs."
-featuredImage: "/images/accommodation/hotel-vila-alfa-102595561.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102595561.jpg?k=bddcd72554acfc9f8533f8db41ff8aef02ae8a20c8f39a738a7c8b2e7392b841&o=&hp=1"
 language: en
 slug: hotel-vila-alfa
 address: "Pedonale korce Albania, 7000 Korçë, Albania"

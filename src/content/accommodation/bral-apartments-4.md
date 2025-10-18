@@ -1,7 +1,7 @@
 ---
 title: "Bral Apartments 4"
 description: "Bral Apartments 4 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience along the picturesque shores of Durrës."
-featuredImage: "/images/accommodation/bral-apartments-4-2c7be68fb3f9.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-a/2c7be68fb3f987f1352e7b289d4b24137e1a283d.png"
 language: en
 slug: bral-apartments-4
 address: "Rruga Pavaresia, 2008 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Ola Bicycle Apartament"
 description: "Discover the charm of Tirana with a stay at Ola Bicycle Apartment, a prime choice for travelers seeking comfort and convenience in the heart of the city."
-featuredImage: "/images/accommodation/ola-bicycle-apartament-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: ola-bicycle-apartament
 address: "Bulevardi Bajram Curri Pallatet Agimi, 1001 Tirana, Albania"

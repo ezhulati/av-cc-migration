@@ -1,7 +1,7 @@
 ---
 title: "The Dekori Flat"
 description: "The Dekori Flat, situated in the vibrant city of Shkodër and a mere 48 km from the Port of Bar, offers travelers a serene retreat with its air-conditioned accommodations, private balcony, and complimentary WiFi access."
-featuredImage: "/images/accommodation/the-dekori-flat-489426849.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/489426849.jpg?k=789e595bc207a64505dd061376a2af6ecc7b96d89f8db5ec155324dc0b07ad34&o=&hp=1"
 language: en
 slug: the-dekori-flat
 address: "Rruga Arkitekt Sinani, 1000 Shkodër, Albania"

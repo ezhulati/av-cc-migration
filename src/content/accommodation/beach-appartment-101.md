@@ -1,7 +1,7 @@
 ---
 title: "Beach Appartment 101"
 description: "Beach Apartment 101 emerges as a prime choice for travelers seeking a serene beachfront escape in Golem, perfectly positioned just a stone's throw away from Mali I Robit Beach and a leisurely stroll from Golem Beach."
-featuredImage: "/images/accommodation/beach-appartment-101-photo.jpg"
+featuredImage: "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=64"
 language: en
 slug: beach-appartment-101
 address: "Rruga Ismail Qemali, kompleksi \"Verria\", appartment no:10, 4th floor, Golem, Albania"

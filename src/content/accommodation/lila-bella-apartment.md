@@ -1,7 +1,7 @@
 ---
 title: "Lila Bella Apartment"
 description: "Lila Bella Apartment stands out as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/lila-bella-apartment-502266358.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/502266358.jpg?k=c0ad242ec2bf1e0ac15efeb9b6d21ffbc90a4e3eda3bf512c55cc84c230655a1&o=&hp=1"
 language: en
 slug: lila-bella-apartment
 address: "White Residence, 3rd floor, Saranda, Sarandë, Albania"

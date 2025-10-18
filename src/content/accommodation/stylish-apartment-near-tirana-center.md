@@ -1,7 +1,7 @@
 ---
 title: "Stylish Apartment near Tirana Center"
 description: "Stylish Apartment near Tirana Center emerges as a prime choice for travelers seeking a blend of comfort, convenience, and modern amenities in the heart of Tirana."
-featuredImage: "/images/accommodation/stylish-apartment-near-tirana-center-500303889.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500303889.jpg?k=c85c238dd783458dc9728321183f52f385363e4df241de32255ff7ff076d9fb7&o=&hp=1"
 language: en
 slug: stylish-apartment-near-tirana-center
 address: "10 Rruga Him Kolli, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Hotel 3 Vellezerit"
 description: "Hotel 3 Vellezerit emerges as a prime choice for travelers seeking beachfront accommodations in Durrës, located just 7 km from the city center."
-featuredImage: "/images/accommodation/hotel-3-vellezerit-270568666.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270568666.jpg?k=cdf6e0abfac2446db30671886a04d43b90843a9e350385613b3a325a017e7adc&o=&hp=1"
 language: en
 slug: hotel-3-vellezerit
 address: "Rruga Agaveve RRUGA PAVARESIA, 2008 Durrës, Albania"

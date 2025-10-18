@@ -1,7 +1,7 @@
 ---
 title: "Alex's Condo"
 description: "Alex's Condo emerges as a serene retreat for travelers seeking spacious and comfortable accommodation away from the bustling city center."
-featuredImage: "/images/accommodation/alex-s-condo-478126287.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478126287.jpg?k=2e678fa34df561262cb858ca9aa730cf24e223598523a71c69ab73b3dda3376e&o=&hp=1"
 language: en
 slug: alex-s-condo
 address: "Rruga Lalëzit Albania Kompleksi Lura 2 Apartment 11 pallati i pare 4 katesh, 2015 Lalëz, Albania"

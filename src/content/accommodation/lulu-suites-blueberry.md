@@ -1,7 +1,7 @@
 ---
 title: "Lulu Suites - Blueberry"
 description: "Lulu Suites - Blueberry emerges as a prime choice for travelers seeking comfort and convenience in Golem."
-featuredImage: "/images/accommodation/lulu-suites-blueberry-481853301.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481853301.jpg?k=f071ac8d75dcd4c3fc648ab6cf6f5f2e948a2aa4917cdb59b1d9092fa35168a7&o=&hp=1"
 language: en
 slug: lulu-suites-blueberry
 address: "Rruga Iliria, Golem, Albania"

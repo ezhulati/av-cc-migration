@@ -1,7 +1,7 @@
 ---
 title: "Vinea Resort"
 description: "Vinea Resort emerges as a serene oasis in Durrës, located a mere 35 km away from the historic Skanderbeg Square, offering a perfect blend of leisure and luxury for travelers."
-featuredImage: "/images/accommodation/vinea-resort-492757459.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492757459.jpg?k=169f063928f5009bf8edac1ce2763dc13d1df66963e8381522a60e234d00fb1f&o=&hp=1"
 language: en
 slug: vinea-resort
 address: "Rruga Arapaj, 1001 Durrës, Albania"

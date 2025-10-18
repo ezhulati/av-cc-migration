@@ -1,7 +1,7 @@
 ---
 title: "Oasis Drymades Hotel"
 description: "Oasis Drymades Hotel, located in the heart of Dhërmi, stands out as a prime choice for travelers seeking both serenity and convenience."
-featuredImage: "/images/accommodation/oasis-drymades-hotel-200900625.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200900625.jpg?k=ff1f3edf0a3f25f1aef8833c832bf45d01c337c80eb434f5b9f525131037e52a&o=&hp=1"
 language: en
 slug: oasis-drymades-hotel
 address: "Drymades Beach Street, 9422 Dhërmi, Albania"

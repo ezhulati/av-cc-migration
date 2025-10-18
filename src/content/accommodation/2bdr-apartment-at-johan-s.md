@@ -1,7 +1,7 @@
 ---
 title: "2BDR Apartment \"At Johan's\""
 description: "Discover the comfort and convenience of 2BDR Apartment \"At Johan's,\" a prime choice for travelers seeking a blend of modern amenities and strategic location in Tirana."
-featuredImage: "/images/accommodation/2bdr-apartment-at-johan-s-416231029.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416231029.jpg?k=1e7514ab95658a4c2bcd8eb4a5e723caff0e876088d6e175b96ddeabd81c1833&o=&hp=1"
 language: en
 slug: 2bdr-apartment-at-johan-s
 address: "Don Bosco, 1001 Tirana, Albania"

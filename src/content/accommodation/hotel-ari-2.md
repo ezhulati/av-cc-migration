@@ -1,7 +1,7 @@
 ---
 title: "Hotel Ari 2"
 description: "Hotel Ari 2 stands as a beacon of comfort and convenience in the heart of Sarandë, offering guests a unique blend of modern amenities and serene beachfront living."
-featuredImage: "/images/accommodation/hotel-ari-2-311149493.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/311149493.jpg?k=04c7a992526b08e0d0afd4af41a92f13af486f0c80a5aa9fc154ecfa201eb0e3&o=&hp=1"
 language: en
 slug: hotel-ari-2
 address: "Rruga Jonianet Lagjia nr 2, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Aloha BnB"
 description: "Aloha BnB stands out as a serene retreat in Korçë, perfectly positioned just a stone's throw away from the enchanting Ohrid Lake Springs and the historic Monastery Saint Naum."
-featuredImage: "/images/accommodation/aloha-bnb-503117951.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503117951.jpg?k=a73f18879e48c76fdefbeb0da83fc922e5d6cc650eaa8506423e27861affda7a&o=&hp=1"
 language: en
 slug: aloha-bnb
 address: "Rruga Midhi Kostani, 7001 Korçë, Albania"

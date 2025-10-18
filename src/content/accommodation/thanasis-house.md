@@ -1,7 +1,7 @@
 ---
 title: "Thanasis house"
 description: "Thanasis House emerges as a prime choice for travelers seeking a serene retreat close to the pristine shores of Himare."
-featuredImage: "/images/accommodation/thanasis-house-433313455.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/433313455.jpg?k=a27f8a063e66e386ee02d3d98646e86fac2c3dfb652b66c51a0aff2542565079&o=&hp=1"
 language: en
 slug: thanasis-house
 address: "Rruga 1 Maj, 9425 Himare, Albania"

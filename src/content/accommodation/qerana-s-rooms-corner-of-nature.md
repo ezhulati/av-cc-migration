@@ -1,7 +1,7 @@
 ---
 title: "Qerana's rooms: Corner of nature"
 description: "Qerana's Rooms: Corner of Nature emerges as a serene oasis in Golem, merely a stone's throw away from the pristine Golem Beach."
-featuredImage: "/images/accommodation/qerana-s-rooms-corner-of-nature-472650845.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472650845.jpg?k=ac077de0c6042ae57be70329eb030a97a29b1e4938b2b542dce6d8eee4b18404&o=&hp=1"
 language: en
 slug: qerana-s-rooms-corner-of-nature
 address: "Kryemedhenj, 2504 Golem, Albania"

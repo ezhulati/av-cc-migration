@@ -1,7 +1,7 @@
 ---
 title: "Muko's Apartments"
 description: "Muko's Apartments emerges as a prime choice for travelers seeking comfort and convenience in their accommodation."
-featuredImage: "/images/accommodation/muko-s-apartments-478374539.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478374539.jpg?k=d53d70f0bc3078e7910a6ddb82f53651b020f369af0383879a760ef06d685046&o=&hp=1"
 language: en
 slug: muko-s-apartments
 address: "Rruga Doktor Vasil Jorgji, 6002 Gjirokastër, Albania"

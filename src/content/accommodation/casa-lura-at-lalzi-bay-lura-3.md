@@ -1,7 +1,7 @@
 ---
 title: "Casa Lura at Lalzi Bay, Lura 3"
 description: "Casa Lura at Lalzi Bay, Lura 3, emerges as a refreshing retreat for travelers seeking the perfect blend of comfort and convenience."
-featuredImage: "/images/accommodation/casa-lura-at-lalzi-bay-lura-3-498755866.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498755866.jpg?k=1806cff9f60cceaab5e6731ce895c999d8bd91d55c7d0f7e3602f883d097cbe8&o=&hp=1"
 language: en
 slug: casa-lura-at-lalzi-bay-lura-3
 address: "Rruga Lalëzit 1, 1001 Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "GuestHouse Lokthi"
 description: "GuestHouse Lokthi emerges as a serene retreat for travelers seeking an escape amidst the natural beauty of Theth, located just a short distance from the enchanting Theth National Park."
-featuredImage: "/images/accommodation/guesthouse-lokthi-ACg8ocI_rbxV.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/ACg8ocI_rbxVdc9D2h0kmScelexTZ0IiE5gXPpiB9qsnfHvE=s96-c64"
 language: en
 slug: guesthouse-lokthi
 address: "Qafe Thore, 4001 Theth, Albania"

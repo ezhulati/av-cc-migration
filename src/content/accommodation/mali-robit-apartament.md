@@ -1,7 +1,7 @@
 ---
 title: "Mali Robit apartament"
 description: "Mali Robit Apartment emerges as a serene retreat in the heart of Golem, boasting an enviable location just a stone's throw away from the pristine Mali I Robit Beach."
-featuredImage: "/images/accommodation/mali-robit-apartament-472801113.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472801113.jpg?k=fc3af66a88821d3dc2be350045aa99a172766834234b22abc9ab1255fe3f8772&o=&hp=1"
 language: en
 slug: mali-robit-apartament
 address: "Rruga Liria, 1747 Golem, Albania"

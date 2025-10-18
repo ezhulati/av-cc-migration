@@ -1,7 +1,7 @@
 ---
 title: "Vila Orion"
 description: "Vila Orion emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Sarandë."
-featuredImage: "/images/accommodation/vila-orion-0e43c9b9a23d.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-m/0e43c9b9a23d334b52510a328641c048847226bc.png"
 language: en
 slug: vila-orion
 address: "Road Gjergj Arianiti, 9701 Sarandë, Albania"

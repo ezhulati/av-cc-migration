@@ -1,7 +1,7 @@
 ---
 title: "Olga Apartment"
 description: "Olga Apartment emerges as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/olga-apartment-485968824.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485968824.jpg?k=f331b479e92f081586def0ecbc5900799b2287e7c7d0cedd56426d25dd5dce14&o=&hp=1"
 language: en
 slug: olga-apartment
 address: "Rruga Idriz Alidhima, 9701 Sarandë, Albania"

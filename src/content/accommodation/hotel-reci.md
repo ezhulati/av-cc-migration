@@ -1,7 +1,7 @@
 ---
 title: "Hotel Reci"
 description: "Hotel Reci emerges as a serene oasis in Peshkopi, boasting a meticulously landscaped garden and a welcoming terrace."
-featuredImage: "/images/accommodation/hotel-reci-312542743.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/312542743.jpg?k=21d834173660fefb7a7b4de3a91280a0d40057cbd527bc5385341d238fa9370d&o=&hp=1"
 language: en
 slug: hotel-reci
 address: "17 Bulevardi Elez Isufi, 8301 Peshkopi, Albania"

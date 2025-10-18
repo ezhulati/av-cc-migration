@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Redilka"
 description: "Guesthouse Redilka emerges as a charming retreat in the heart of Ksamil, a stone's throw away from the pristine Paradise Beach and merely 400 meters from the tranquil Lori Beach."
-featuredImage: "/images/accommodation/guesthouse-redilka-351792741.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/351792741.jpg?k=2506e78a1bbe902fcbc0aee716b2ad0e18d93a4c22914daeaac5e088df4ab20e&o=&hp=1"
 language: en
 slug: guesthouse-redilka
 address: "Rruga Freskia, 9706 Ksamil, Albania"

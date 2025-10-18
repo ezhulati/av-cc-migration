@@ -1,7 +1,7 @@
 ---
 title: "private house second floor 180 meters tarraca 180 meters with view 2 bedrooms, one double bedroom, separate kitchen, large large corridor, living room, banjo with balcony, closet and etjj."
 description: "Discover a hidden gem in Durrës, Durres County, where the Private House Second Floor offers a unique blend of comfort and panoramic views."
-featuredImage: "/images/accommodation/private-house-second-floor-180-meters-tarraca-180-meters-with-view-2-bedrooms-one-double-bedroom-separate-kitchen-large-large-corridor-living-room-banjo-with-balcony-closet-and-etjj-508958367.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/508958367.jpg?k=e14b367d38e5f7a1d38b5242902dd01c3a193678c3d7a8242a1462fdf3c1751d&o=&hp=1"
 language: en
 slug: private-house-second-floor-180-meters-tarraca-180-meters-with-view-2-bedrooms-one-double-bedroom-separate-kitchen-large-large-corridor-living-room-banjo-with-balcony-closet-and-etjj
 address: "Rruga Miqesia, Durrës, Albania"

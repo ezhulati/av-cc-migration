@@ -1,7 +1,7 @@
 ---
 title: "Second Home 1"
 description: "Second Home 1 emerges as a prime choice for travelers seeking the comfort of home with the convenience of a central location in Tirana."
-featuredImage: "/images/accommodation/second-home-1-picture.jpg"
+featuredImage: "https://graph.facebook.com/v2.9/679742638/picture?type=square&height=64&width=64"
 language: en
 slug: second-home-1
 address: "Rruga Frosina Plaku, 1060 Tirana, Albania"

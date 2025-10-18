@@ -1,7 +1,7 @@
 ---
 title: "Iris Apartments"
 description: "Iris Apartments emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty in Vlorë."
-featuredImage: "/images/accommodation/iris-apartments-203757450.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203757450.jpg?k=efa521bdf46aca9ea9f431efc4e745f48cf06d373dc9ac9de36a08a7afda967e&o=&hp=1"
 language: en
 slug: iris-apartments
 address: "Rruga Uji i Ftohte, 9405 Vlorë, Albania"

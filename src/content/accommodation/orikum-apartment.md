@@ -1,7 +1,7 @@
 ---
 title: "Orikum Apartment"
 description: "Orikum Apartment emerges as a prime choice for travelers seeking a serene retreat close to the pristine shores of Orikum Beach."
-featuredImage: "/images/accommodation/orikum-apartment-486953880.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486953880.jpg?k=cc26f817e9d07514b1687a2f81ca10726069d2b9a72fd0673fab8e9c9c710bd8&o=&hp=1"
 language: en
 slug: orikum-apartment
 address: "Rruga Orikum, 9426 Orikum, Albania"

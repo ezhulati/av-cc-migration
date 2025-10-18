@@ -1,7 +1,7 @@
 ---
 title: "Hotel Uji Ftohte Tepelene"
 description: "Hotel Uji Ftohte Tepelene stands out as a beacon of comfort and convenience in the heart of Tepelenë, offering guests a blend of modern amenities and serene mountain views."
-featuredImage: "/images/accommodation/hotel-uji-ftohte-tepelene-487612918.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/487612918.jpg?k=04865ba2a7569ba1bd181c1b933112581c169eabc7ee463a38763e48533e5d84&o=&hp=1"
 language: en
 slug: hotel-uji-ftohte-tepelene
 address: "Uji i Ftohte, Tepelene, 6301 Tepelenë, Albania"

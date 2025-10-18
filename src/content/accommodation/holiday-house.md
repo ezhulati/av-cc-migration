@@ -1,7 +1,7 @@
 ---
 title: "Holiday House"
 description: "Holiday House presents a serene retreat in the heart of Durrës, Durres County, offering guests a blend of comfort and convenience with its prime location close to Lalëz Bay Beach."
-featuredImage: "/images/accommodation/holiday-house-477003925.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477003925.jpg?k=f8cedc25ab65a714bb133c675b43e52d589175272d2d119b1081c0fda7609f68&o=&hp=1"
 language: en
 slug: holiday-house
 address: "Hamallaj, Durrës, Albania"

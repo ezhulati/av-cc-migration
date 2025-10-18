@@ -1,7 +1,7 @@
 ---
 title: "Cherry Apartment"
 description: "Cherry Apartment emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/cherry-apartment-481894914.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481894914.jpg?k=66ae544506e8105e1c560adcc1ef0f2d64f0c60948f928950d9b32840a82b863&o=&hp=1"
 language: en
 slug: cherry-apartment
 address: "Rruga e Barrikadave, 1001 Tirana, Albania"

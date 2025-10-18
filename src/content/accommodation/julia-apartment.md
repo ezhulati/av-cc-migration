@@ -1,7 +1,7 @@
 ---
 title: "Julia Apartment"
 description: "Julia Apartment emerges as a prime choice for travelers seeking comfort and convenience in Durrës, located just a short 400-meter stroll from the vibrant Durres Beach and within easy reach of Shkëmbi i Kavajës Beach, 3 kilometers away."
-featuredImage: "/images/accommodation/julia-apartment-498074118.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498074118.jpg?k=a503283cc996475419fd7b523b36e6386e8dea4a2ce7bea577806f94adad42b0&o=&hp=1"
 language: en
 slug: julia-apartment
 address: "Rruga Qafe Bote, 2001 Durrës, Albania"

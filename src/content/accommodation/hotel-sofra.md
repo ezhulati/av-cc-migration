@@ -1,7 +1,7 @@
 ---
 title: "Hotel Sofra"
 description: "Hotel Sofra stands out as a prime choice for travelers seeking comfort and convenience in Gjirokastër."
-featuredImage: "/images/accommodation/hotel-sofra-216800856.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/216800856.jpg?k=2f91b05f5d56469f155dbf8fe68ace8ed0f924975e900660c56a3cd647061850&o=&hp=1"
 language: en
 slug: hotel-sofra
 address: "Sheshi I Cercizit Gjirokaster Albania Unit no. 3 & 5, floor 3 & 4,, 6001 Gjirokastër, Albania"

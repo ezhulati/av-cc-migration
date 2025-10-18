@@ -1,7 +1,7 @@
 ---
 title: "ROYAL HOSTEL"
 description: "ROYAL HOSTEL emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/royal-hostel-516218085.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516218085.jpg?k=2c231e0109bf5cddae9c110ee6931118628001abe0f19b9163a5a13f86be4d31&o=&hp=1"
 language: en
 slug: royal-hostel
 address: "Rruga Tefta Tashko-Koço, 1000 Tirana, Albania"

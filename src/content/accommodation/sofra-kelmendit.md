@@ -1,7 +1,7 @@
 ---
 title: "Sofra Kelmendit"
 description: "Sofra Kelmendit emerges as a serene retreat in the heart of Tamarë, offering guests an unparalleled blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/sofra-kelmendit-434014397.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/434014397.jpg?k=c82da7a5422ff7914dc3cbba463ac9b93bab048716eba70a9ad8aeb2ff3206ad&o=&hp=1"
 language: en
 slug: sofra-kelmendit
 address: "SH20, 4304 Tamarë, Albania"

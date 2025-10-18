@@ -1,7 +1,7 @@
 ---
 title: "The House of Colors"
 description: "The House of Colors emerges as a vibrant choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/the-house-of-colors-522089344.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/522089344.jpg?k=f463a78e674e7494f2a5fe41c92f42b8b1709938df2719c0dd1959d8cc874ceb&o=&hp=1"
 language: en
 slug: the-house-of-colors
 address: "28 Rruga Vangjush Furxhi, 1001 Tirana, Albania"

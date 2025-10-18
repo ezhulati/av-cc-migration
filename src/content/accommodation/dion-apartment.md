@@ -1,7 +1,7 @@
 ---
 title: "Dion Apartment"
 description: "Dion Apartment emerges as a distinguished choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/dion-apartment-141533658.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/141533658.jpg?k=2b9bbcc4924235dba96ee4fb12cd460bb0baaafa7b38378c66662a08ddea7d3f&o=&hp=1"
 language: en
 slug: dion-apartment
 address: "Rruga Medar Shtylla, 1010 Tirana, Albania"

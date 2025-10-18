@@ -1,7 +1,7 @@
 ---
 title: "Hotel Aglon"
 description: "Hotel Aglon stands as a beacon of comfort and convenience in Vlorë, merely a stone's throw away from the pristine Ri Beach."
-featuredImage: "/images/accommodation/hotel-aglon-365255268.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365255268.jpg?k=66924bcb8b8bdbba7024dc38cd315f8ed1774bac7daf7a0617224204dc2cf71e&o=&hp=1"
 language: en
 slug: hotel-aglon
 address: "Rruga Murat Tërbaçi, 8401 Vlorë, Albania"

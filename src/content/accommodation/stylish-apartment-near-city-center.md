@@ -1,7 +1,7 @@
 ---
 title: "Stylish Apartment Near City Center"
 description: "Stylish Apartment Near City Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/stylish-apartment-near-city-center-479910750.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/479910750.jpg?k=aead4e00e67a1df3d3415f07e1f9af755e6176dbada508f692fda3aef213c42b&o=&hp=1"
 language: en
 slug: stylish-apartment-near-city-center
 address: "Rruga Hoxha Tahsim 12, 1015 Tirana, Albania"

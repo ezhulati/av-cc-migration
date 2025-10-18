@@ -1,7 +1,7 @@
 ---
 title: "Coral Hotel & Resort"
 description: "Coral Hotel & Resort in Vlorë stands out for its prime location right by its own private pebbly beach, offering guests an exclusive slice of the coastline for water sports and relaxation."
-featuredImage: "/images/accommodation/coral-hotel-resort-150084193.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/150084193.jpg?k=6e6b0c51fb2aeaca0dfe2464e8b9a79e2b94feb016dc4c2b7342c4c94dfc2ea8&o=&hp=1"
 language: en
 slug: coral-hotel-resort
 address: "Rr. Vlore - Rradhime (Jonufer) , 9405 Vlorë, Albania"

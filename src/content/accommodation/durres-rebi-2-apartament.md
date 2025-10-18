@@ -1,7 +1,7 @@
 ---
 title: "Durres Rebi 2 Apartament"
 description: "Durres Rebi 2 Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in Durrës."
-featuredImage: "/images/accommodation/durres-rebi-2-apartament-527110635.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527110635.jpg?k=ec9c872c1e573b421b7450040ed93ac1b86abc40d191eafc66b4d0c4618e01e7&o=&hp=1"
 language: en
 slug: durres-rebi-2-apartament
 address: "Rruga Horizonti 18 Durres, Durrës, Albania"

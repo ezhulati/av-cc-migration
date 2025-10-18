@@ -1,7 +1,7 @@
 ---
 title: "My Tirana2"
 description: "My Tirana2 stands out as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/my-tirana2-176812508.we.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/xphoto/square64/176812508.webp?k=598076e5fb032447a291f4885c026d52b68d42c4c884de68c24fa3821fe8e772&o=?t=1665881384"
 language: en
 slug: my-tirana2
 address: "Bulevardi Gjergj Fishta, 1001 Tirana, Albania"

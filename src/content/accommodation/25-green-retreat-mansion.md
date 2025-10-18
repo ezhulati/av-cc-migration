@@ -1,7 +1,7 @@
 ---
 title: "25 Green Retreat Mansion"
 description: "25 Green Retreat Mansion emerges as a serene oasis in the heart of Tirana, offering a unique blend of comfort and convenience for travelers seeking an exceptional stay."
-featuredImage: "/images/accommodation/25-green-retreat-mansion-41b962c4f1fc.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
 language: en
 slug: 25-green-retreat-mansion
 address: "Rruga e Elbasanit, 1000 Tirana, Albania"

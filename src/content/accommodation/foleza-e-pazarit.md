@@ -1,7 +1,7 @@
 ---
 title: "Foleza e Pazarit"
 description: "Foleza e Pazarit emerges as a prime choice for travelers seeking a blend of comfort and convenience in Korçë."
-featuredImage: "/images/accommodation/foleza-e-pazarit-416775019.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416775019.jpg?k=7d83169865e945f66056e653a5661f16a27a94bcfa18a2d514d89307d0ddac3a&o=&hp=1"
 language: en
 slug: foleza-e-pazarit
 address: "Loni Llogori Street, 1007 Korçë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Pacific 2 Bedroom Villa Palase"
 description: "Pacific 2 Bedroom Villa Palase emerges as a prime choice for travelers seeking a serene beachfront escape in Palasë, just a stone's throw away from Nazar Beach and a short stroll from Palasa Beach."
-featuredImage: "/images/accommodation/pacific-2-bedroom-villa-palase-41b962c4f1fc.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-h/41b962c4f1fcefa6bb9c4a8bc7bfed064a71691b.png"
 language: en
 slug: pacific-2-bedroom-villa-palase
 address: "Green Coast Resort & Residences, AL, Palasë 9425, Albania, 9425 Palasë, Albania"

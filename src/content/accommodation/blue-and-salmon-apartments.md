@@ -1,7 +1,7 @@
 ---
 title: "Blue and Salmon apartments"
 description: "Blue and Salmon Apartments emerges as a serene retreat in the vibrant heart of Durrës, offering guests an unparalleled blend of comfort and convenience with its prime beachfront location."
-featuredImage: "/images/accommodation/blue-and-salmon-apartments-477218483.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477218483.jpg?k=0732ee175f1e9e6d7d14765601bfd818c3e4345fe0b5d9f965e6a7759dbf6632&o=&hp=1"
 language: en
 slug: blue-and-salmon-apartments
 address: "Rruga Pavaresia 2nd floor, 2001 Durrës, Albania"

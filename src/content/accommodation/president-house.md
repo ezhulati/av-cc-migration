@@ -1,7 +1,7 @@
 ---
 title: "President House"
 description: "President House emerges as a distinguished choice for travelers seeking a serene retreat in Vlorë, conveniently positioned just a short distance from the pristine Vlore Beach and the tranquil Vjetër Beach."
-featuredImage: "/images/accommodation/president-house-520259184.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520259184.jpg?k=c397e174e7a48e78b084c48608b8ca9048ba89dcac98099d8e8212ea4559055d&o=&hp=1"
 language: en
 slug: president-house
 address: "Rruga Zenel Murra, Vlorë, Albania"

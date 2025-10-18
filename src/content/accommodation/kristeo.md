@@ -1,7 +1,7 @@
 ---
 title: "Kristeo"
 description: "Kristeo emerges as a standout choice for travelers seeking comfort and convenience in the heart of Vlorë."
-featuredImage: "/images/accommodation/kristeo-375417199.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375417199.jpg?k=f172e804c8a9c1fd17307b3e7e825a0422dcaab4f2fe8eadaced44a01d8a5b3d&o=&hp=1"
 language: en
 slug: kristeo
 address: "Rruga Andrea Varfi, 9400 Vlorë, Albania"

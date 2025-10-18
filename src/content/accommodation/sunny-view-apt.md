@@ -1,7 +1,7 @@
 ---
 title: "Sunny View Apt"
 description: "Sunny View Apt stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/sunny-view-apt-409923114.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/409923114.jpg?k=7861e42f4a7eaeec148e7b68fcec21bbdedcf97462999dc5fefe5b1ec7a6a2f1&o=&hp=1"
 language: en
 slug: sunny-view-apt
 address: "9701 Rruga Butrinti, 9701 Sarandë, Albania"

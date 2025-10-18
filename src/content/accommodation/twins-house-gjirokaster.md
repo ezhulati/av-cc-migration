@@ -1,7 +1,7 @@
 ---
 title: "Twins house Gjirokaster"
 description: "Twins House Gjirokaster emerges as a serene retreat in the heart of Gjirokastër, offering guests a blend of comfort and convenience with its complimentary amenities."
-featuredImage: "/images/accommodation/twins-house-gjirokaster-394012876.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394012876.jpg?k=fc114ea94bbbf02cd8f5f0b07dd9cc7d778828fc1c40f1c822c606942f6411e3&o=&hp=1"
 language: en
 slug: twins-house-gjirokaster
 address: "Rruga Studenti, 6001 Gjirokastër, Albania"

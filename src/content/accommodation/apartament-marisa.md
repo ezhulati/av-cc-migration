@@ -1,7 +1,7 @@
 ---
 title: "Apartament Marisa"
 description: "Apartament Marisa stands out as a prime choice for travelers seeking comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/apartament-marisa-442313165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/442313165.jpg?k=15901a82525ede8a503b37ff99a31601043cfd0cc3fdba5d982208dcce9d5d85&o=&hp=1"
 language: en
 slug: apartament-marisa
 address: "262 Rruga Mitat Hoxha, 9701 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "SEA & LAKE VIEW VILLA"
 description: "SEA & LAKE VIEW VILLA emerges as a serene retreat, offering guests a unique blend of natural beauty and comfort less than a kilometer from the pristine Pasqyra Beach."
-featuredImage: "/images/accommodation/sea-lake-view-villa-467131648.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467131648.jpg?k=521f4ff58cf315037ddeca55c0fe2b4135f44b931451ff51fd62e79e569f023e&o=&hp=1"
 language: en
 slug: sea-lake-view-villa
 address: "Manastir, Ksamil, 9706 Kalive Gjoka, Albania"

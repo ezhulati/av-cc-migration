@@ -1,7 +1,7 @@
 ---
 title: "Rima sea view apartment"
 description: "Rima Sea View Apartment emerges as a prime choice for travelers seeking a serene getaway in Vlorë, boasting an enviable location just a stone's throw away from the pristine Vlore Beach and within easy reach of the city's notable attractions."
-featuredImage: "/images/accommodation/rima-sea-view-apartment-492931768.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492931768.jpg?k=85f95b26189c6c509cb01c458c0de7699446c18ff513576ad473ae25eb310651&o=&hp=1"
 language: en
 slug: rima-sea-view-apartment
 address: "Rruga Piro Sava, Vlorë, Albania"

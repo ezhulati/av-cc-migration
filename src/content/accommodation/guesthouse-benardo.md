@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Benardo"
 description: "Discover the charm of Sarandë with a stay at Guesthouse Benardo, a serene guest house boasting panoramic sea views."
-featuredImage: "/images/accommodation/guesthouse-benardo-366551131.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/366551131.jpg?k=7e4fa996002fd0706997aa59284ea8079c7fb33c320020af514072fa70fccdb1&o=&hp=1"
 language: en
 slug: guesthouse-benardo
 address: "Rruga Guri Nazifi, 9701 Sarandë, Albania"

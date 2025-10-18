@@ -1,7 +1,7 @@
 ---
 title: "Villa Oden"
 description: "Apartments Villa Oden emerges as a prime choice for travelers seeking comfort and convenience in Ksamil, located just a short drive from the UNESCO-protected Butrint National Park."
-featuredImage: "/images/accommodation/villa-oden-295935525.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295935525.jpg?k=13531c972ed4a8ea51d51d016fd1baf615850ff85567161fcecaaa61f338b279&o=&hp=1"
 language: en
 slug: villa-oden
 address: "Ksamil, 9706 Ksamil, Albania"

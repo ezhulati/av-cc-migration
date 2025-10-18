@@ -1,7 +1,7 @@
 ---
 title: "Central Cozy Apartment Old Train Station"
 description: "Central Cozy Apartment Old Train Station emerges as a charming retreat in the heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/central-cozy-apartment-old-train-station-438371601.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438371601.jpg?k=5418381ab6db979df4e0a0c770edf8f24094ea32d032b21310f8ae763150432f&o=&hp=1"
 language: en
 slug: central-cozy-apartment-old-train-station
 address: "Rruga Karl Gega, 1001 Tirana, Albania"

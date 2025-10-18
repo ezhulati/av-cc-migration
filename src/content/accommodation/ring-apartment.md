@@ -1,7 +1,7 @@
 ---
 title: "Ring Apartment"
 description: "Ring Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/ring-apartment-413314292.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413314292.jpg?k=bc55f0a4d785dc7d9316ff4e47fd3b62e5aab2ec93bcbbfb6723d9ad2b80dafd&o=&hp=1"
 language: en
 slug: ring-apartment
 address: "Rruga Mine Peza, 1001 Tirana, Albania"

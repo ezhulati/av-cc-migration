@@ -1,7 +1,7 @@
 ---
 title: "Ibras House"
 description: "Ibras House emerges as a recently renovated gem in the heart of Durrës, offering guests a serene garden oasis and the convenience of modern amenities."
-featuredImage: "/images/accommodation/ibras-house-482608578.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482608578.jpg?k=ffce2b82ee51482a10ee497ef5813fd4834369e598547803f3f3f27194299262&o=&hp=1"
 language: en
 slug: ibras-house
 address: "Rruga Daunia, 2008 Durrës, Albania"

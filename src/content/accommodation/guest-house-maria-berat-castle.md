@@ -1,7 +1,7 @@
 ---
 title: "Guest House Maria - Berat castle"
 description: "Guest House Maria - Berat Castle stands as a serene retreat in the historic heart of Berat, offering guests a unique blend of traditional charm and modern comforts."
-featuredImage: "/images/accommodation/guest-house-maria-berat-castle-469427070.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469427070.jpg?k=1fb10ea23303662bef2fe612661525f9fe184adffdbb1070fe36550f76120cbe&o=&hp=1"
 language: en
 slug: guest-house-maria-berat-castle
 address: "Rruga Mihal Komnena rruga mbrica kala, 5001 Berat, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Vila Ferdinand Modern Rooms In Tirana's Center"
 description: "Vila Ferdinand Modern Rooms In Tirana's Center emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vila-ferdinand-modern-rooms-in-tirana-s-center-437965989.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437965989.jpg?k=a86aa14b8ba687ba88a7bd52c48c1f3de560eb424c6be093a2a203d13d9eadb1&o=&hp=1"
 language: en
 slug: vila-ferdinand-modern-rooms-in-tirana-s-center
 address: "Rruga Donika Kastrioti, 1000 Tirana, Albania"

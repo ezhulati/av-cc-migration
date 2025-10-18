@@ -1,7 +1,7 @@
 ---
 title: "Central & Comfy 2 BR Apartment"
 description: "Central & Comfy 2 BR Apartment emerges as a prime choice for travelers seeking a blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/central-comfy-2-br-apartment-506127549.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/506127549.jpg?k=6759ad6650f4a9d7f8677ac8d578938b0a3365ef679e5265fe3507e37a3dce05&o=&hp=1"
 language: en
 slug: central-comfy-2-br-apartment
 address: "Rruga Myslym Shyri, 1004 Tirana, Albania"

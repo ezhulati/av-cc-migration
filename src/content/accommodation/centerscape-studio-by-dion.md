@@ -1,7 +1,7 @@
 ---
 title: "Centerscape - Studio by Dion"
 description: "Centerscape - Studio by Dion emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/centerscape-studio-by-dion-406167720.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406167720.jpg?k=96ee95e4a76a4ec116ade87fd4f7509971a69e29b92519f906548aa41e971f99&o=&hp=1"
 language: en
 slug: centerscape-studio-by-dion
 address: "Rruga Kostandin Kristoforidhi Floor 7, 1001 Tirana, Albania"

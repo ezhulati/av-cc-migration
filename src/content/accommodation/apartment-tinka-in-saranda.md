@@ -1,7 +1,7 @@
 ---
 title: "Apartment Tinka in Saranda"
 description: "Apartment Tinka in Saranda emerges as a prime choice for travelers seeking a blend of comfort and convenience along the Albanian Riviera."
-featuredImage: "/images/accommodation/apartment-tinka-in-saranda-401675360.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/401675360.jpg?k=a5ee2f081359d08a3d2dd8e86d37429ac71e7f73a5144484ad110076e4bb60d0&o=&hp=1"
 language: en
 slug: apartment-tinka-in-saranda
 address: "Rruga Butrinti, 9701 Sarandë, Albania"

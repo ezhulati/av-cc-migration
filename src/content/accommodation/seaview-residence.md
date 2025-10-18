@@ -1,7 +1,7 @@
 ---
 title: "Seaview Residence"
 description: "Seaview Residence offers a refreshing retreat in Vlorë, presenting guests with air-conditioned accommodations that boast a private balcony for an immersive experience."
-featuredImage: "/images/accommodation/seaview-residence-481374738.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481374738.jpg?k=a8a01235b4a27094224422e919a23f0e592a6d03e6ef53993874f9a7630d0435&o=&hp=1"
 language: en
 slug: seaview-residence
 address: "105 Rruga Dhimitër Konomi, 9401 Vlorë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "ARBI GUEST House"
 description: "ARBI GUEST House emerges as a serene haven for travelers seeking a blend of comfort and adventure in Kukës."
-featuredImage: "/images/accommodation/arbi-guest-house-391819793.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/391819793.jpg?k=59dfb96df867b2b4e52f0f9a4c464ef4e6e03901fb89ec8ad713e735ab7ebaf2&o=&hp=1"
 language: en
 slug: arbi-guest-house
 address: "Rruga Prizrenit, 8501 Kukës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Golem Getaway Apartment"
 description: "Golem Getaway Apartment emerges as a serene retreat in the heart of Golem, merely a stone's throw away from the pristine shores of Qerret Beach and a short stroll from the tranquil Mali I Robit Beach."
-featuredImage: "/images/accommodation/golem-getaway-apartment-465600869.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465600869.jpg?k=a6d982fbbda759ff1c3ac673cd58b77a308c47499f7d5c9dd874b2180246b099&o=&hp=1"
 language: en
 slug: golem-getaway-apartment
 address: "Rruga Golem, 1001 Golem, Albania"

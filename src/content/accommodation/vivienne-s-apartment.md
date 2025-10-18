@@ -1,7 +1,7 @@
 ---
 title: "Vivienne's Apartment"
 description: "Vivienne's Apartment emerges as a serene oasis in the heart of Sarandë, offering guests the luxury of air-conditioned accommodations complemented by a refreshing saltwater pool."
-featuredImage: "/images/accommodation/vivienne-s-apartment-481440524.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481440524.jpg?k=b81c932a4965e8946f0189590d8496ea554822368a40a8bc62f6342afa39c415&o=&hp=1"
 language: en
 slug: vivienne-s-apartment
 address: "Saranda, AL - Corfu, GR, Sarandë, Albania"

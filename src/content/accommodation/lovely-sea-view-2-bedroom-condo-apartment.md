@@ -1,7 +1,7 @@
 ---
 title: "Lovely sea view 2 bedroom condo-apartment."
 description: "Discover the charm of Durrës from the comfort of the Lovely Sea View 2 Bedroom Condo-Apartment, a prime beachfront property that offers more than just a place to stay."
-featuredImage: "/images/accommodation/lovely-sea-view-2-bedroom-condo-apartment-477640162.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477640162.jpg?k=688c406be1768f8d33f31c5677db2148e2e2f2fd42d720060372720b191727d6&o=&hp=1"
 language: en
 slug: lovely-sea-view-2-bedroom-condo-apartment
 address: "Rruga Shkembi i Kavajes, Durrës, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Guri's Home"
 description: "Guri's Home stands as a serene retreat in the heart of Çorovodë, Berat County, offering guests a blend of comfort and convenience with its well-appointed accommodations."
-featuredImage: "/images/accommodation/guri-s-home-527010861.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527010861.jpg?k=193bb17f7bc1ee9544b7904e8b1fd9e7c6041a35b912624c6ad184336c44b6af&o=&hp=1"
 language: en
 slug: guri-s-home
 address: "Corovode Skrapar, 5402 Çorovodë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Niko Apartment"
 description: "Niko Apartment stands as a prime choice for travelers seeking a serene getaway with the enchanting Sarandë seascape right at their doorstep."
-featuredImage: "/images/accommodation/niko-apartment-471194770.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471194770.jpg?k=58e0a1a5ab88c914b9455b0c3e930023c7bbbabe94dad9061642316d4ef6058d&o=&hp=1"
 language: en
 slug: niko-apartment
 address: "Rruga Butrinti, 9702 Sarandë, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Santa Oliva Suites"
 description: "Santa Oliva Suites emerges as a prime choice for travelers seeking comfort and convenience in Ksamil."
-featuredImage: "/images/accommodation/santa-oliva-suites-212701578.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/212701578.jpg?k=3ded312bcd28e03aaa9c8d8d55f8ceae2a737331d0e68b81a8c86072f8733141&o=&hp=1"
 language: en
 slug: santa-oliva-suites
 address: "Fshati Manastir Ksamil, 9703 Ksamil, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Juna's Apartaments"
 description: "Juna's Apartments emerges as a prime choice for travelers seeking a serene beachfront escape in Vlorë."
-featuredImage: "/images/accommodation/juna-s-apartaments-464486526.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464486526.jpg?k=5f9cd8dd9ebcc5a6ddd24e3dd069b688cb676acb0ee27bc183893d1bdce71000&o=&hp=1"
 language: en
 slug: juna-s-apartaments
 address: "Rruga Andrea Varfi, 9401 Vlorë, Albania"

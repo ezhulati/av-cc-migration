@@ -1,7 +1,7 @@
 ---
 title: "Hotel Domino"
 description: "Hotel Domino stands as a distinguished choice for travelers seeking comfort and convenience in Gjirokastër, located a mere 44 km from the serene Zaravina Lake."
-featuredImage: "/images/accommodation/hotel-domino-349171802.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349171802.jpg?k=094e9232b4b01de2643e0602ccf61c7ba952fde949b197f76b01d5cd943141bc&o=&hp=1"
 language: en
 slug: hotel-domino
 address: "Lagjja Palorto, Rruga Ismail Kadare n.n., 6001 Gjirokastër, Albania"

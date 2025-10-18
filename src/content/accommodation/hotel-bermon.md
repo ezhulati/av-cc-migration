@@ -1,7 +1,7 @@
 ---
 title: "Hotel Bermon"
 description: "Discover the charm of Hotel Bermon, a hidden gem just a short distance from the heart of Tirana."
-featuredImage: "/images/accommodation/hotel-bermon-403561971.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/403561971.jpg?k=afdf02012bbd4357ee2339f97bb26cefd00eb16904d9a5e31d022d8df80dc661&o=&hp=1"
 language: en
 slug: hotel-bermon
 address: "Alexander Mojsiu Street 12, 1001 Tirana, Albania"

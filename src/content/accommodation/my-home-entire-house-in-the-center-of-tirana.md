@@ -1,7 +1,7 @@
 ---
 title: "My Home - Entire house in the center of Tirana"
 description: "Discover the charm of Tirana with a stay at \"My Home,\" a captivating apartment located merely steps away from the vibrant Skanderbeg Square."
-featuredImage: "/images/accommodation/my-home-entire-house-in-the-center-of-tirana-354663007.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354663007.jpg?k=680532a479b50bbe6c2c72b75b98b06c38b0bc0f9956967837c220484bcf2e86&o=&hp=1"
 language: en
 slug: my-home-entire-house-in-the-center-of-tirana
 address: "21 Rruga Myrtezim Këlliçi, Tirana, Albania"

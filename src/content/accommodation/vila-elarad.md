@@ -1,7 +1,7 @@
 ---
 title: "Vila ELARAD"
 description: "Vila ELARAD emerges as a prime choice for travelers seeking a blend of comfort and scenic beauty, located just a stone's throw away from Ri Beach at a mere 1."
-featuredImage: "/images/accommodation/vila-elarad-383428288.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383428288.jpg?k=dbdb59a376000c041dcddcebda137c4b2e38edee69dadd88926d97bb63167341&o=&hp=1"
 language: en
 slug: vila-elarad
 address: "Rruga Francesko Krispi, 1001 Vlorë, Albania"

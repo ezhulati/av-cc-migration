@@ -1,7 +1,7 @@
 ---
 title: "Hani i Gjelit Hotel, Korce"
 description: "Hani i Gjelit Hotel in Korce stands out as a premier destination for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/hani-i-gjelit-hotel-korce-482820075.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482820075.jpg?k=e825916e64a007fb0be4bd379f05aafdd6656ee74b23809666b186fa9578d9c9&o=&hp=1"
 language: en
 slug: hani-i-gjelit-hotel-korce
 address: "Pazari i Korces Pazar i Vjeter, 7000 Korçë, Albania"

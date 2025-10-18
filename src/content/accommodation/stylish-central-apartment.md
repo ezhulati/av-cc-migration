@@ -1,7 +1,7 @@
 ---
 title: "Stylish central apartment"
 description: "Stylish Central Apartment emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/stylish-central-apartment-496876910.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/496876910.jpg?k=e9d27fd0f5cac308dbbe14dbda1b9ce0fbdc5c0df4bcca2dc2e540ea0ac0a494&o=&hp=1"
 language: en
 slug: stylish-central-apartment
 address: "Rruga e Dibrës, 1045 Tirana, Albania"

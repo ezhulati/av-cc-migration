@@ -1,7 +1,7 @@
 ---
 title: "Arberia Palace Hotel"
 description: "Arberia Palace Hotel emerges as a distinguished choice for travelers seeking both comfort and convenience in the heart of Fushë-Milot, located just 43 km from the iconic Skanderbeg Square."
-featuredImage: "/images/accommodation/arberia-palace-hotel-362682263.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362682263.jpg?k=7ca0fe4e1c1537dc8c5d2ccb001b4271b19e7baf61b551a315a2cd3d8620468c&o=&hp=1"
 language: en
 slug: arberia-palace-hotel
 address: "Autostrada Lezhë - Tiranë, SH1, Fushë Milot 4705 Autostrada Lezhë - Tiranë, SH1, Fushë Milot 4705, 4705 Fushë-Milot, Albania"

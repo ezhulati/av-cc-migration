@@ -1,7 +1,7 @@
 ---
 title: "Apartment in the heart of Old Bazaar, Tirana - Hana Apartments"
 description: "Hana Apartments: A Gem in the Heart of Tirana's Old Bazaar."
-featuredImage: "/images/accommodation/apartment-in-the-heart-of-old-bazaar-tirana-hana-apartments-419662924.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419662924.jpg?k=636de41ba04fb0d2aa9db778301b0046ad9847b239a8d65fb0f63b4e1eb327e0&o=&hp=1"
 language: en
 slug: apartment-in-the-heart-of-old-bazaar-tirana-hana-apartments
 address: "Rruga e Saraçëve, 1018 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "City Center 3 - Tirana Way Apartments"
 description: "City Center 3 - Tirana Way Apartments emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-3-tirana-way-apartments-338163776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338163776.jpg?k=363ffc511f653d127b55886a268490754905c3f692a7c813e2e86b5f9284f7d2&o=&hp=1"
 language: en
 slug: city-center-3-tirana-way-apartments
 address: "Rruga Luigj Gurakuqi, 1057 Tirana, Albania"

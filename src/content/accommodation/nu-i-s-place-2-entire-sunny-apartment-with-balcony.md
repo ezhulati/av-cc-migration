@@ -1,7 +1,7 @@
 ---
 title: "Nuçi's Place 2, entire sunny apartment with balcony"
 description: "Nuçi's Place 2 shines as a beacon of modern comfort and convenience in the heart of Tirana, boasting a recent renovation that promises guests a stay wrapped in contemporary luxury."
-featuredImage: "/images/accommodation/nu-i-s-place-2-entire-sunny-apartment-with-balcony-512937001.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/512937001.jpg?k=77868bceaf2b627dfc709fe0d1c184cacfd5ae9972380ac2550b68589a6136b3&o=&hp=1"
 language: en
 slug: nu-i-s-place-2-entire-sunny-apartment-with-balcony
 address: "35 Rruga Jusuf Vrioni, 1060 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "HOTEL CAUSHI"
 description: "HOTEL CAUSHI emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/hotel-caushi-477336767.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477336767.jpg?k=1dab75c356786b485990790cb3ae04def5115335252a54565590d9b0a864899d&o=&hp=1"
 language: en
 slug: hotel-caushi
 address: "Rruga Dush Strati, 9401 Vlorë, Albania"

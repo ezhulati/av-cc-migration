@@ -1,7 +1,7 @@
 ---
 title: "Sonce - Tirana"
 description: "Sonce - Tirana emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/sonce-tirana-365581296.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365581296.jpg?k=951bd4979fddb1153dfbe8039129b97f40e6abe6ee7b7cbae1b92b41847cbcfb&o=&hp=1"
 language: en
 slug: sonce-tirana
 address: "Rruga Mihal Grameno 167, 1001 Tirana, Albania"

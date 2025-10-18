@@ -1,7 +1,7 @@
 ---
 title: "Hotel Colosseo & Spa"
 description: "Discover the charm of Shkoder through the eyes of those who've experienced the comfort and convenience of Hotel Colosseo & Spa."
-featuredImage: "/images/accommodation/hotel-colosseo-spa-40628762.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/40628762.jpg?k=d68c9286c2a90e989367e015c1544d4d31eeb3039fa82baf9b67212b19226f40&o=&hp=1"
 language: en
 slug: hotel-colosseo-spa
 address: "Street Kol Idromeno , 4000 Shkodër, Albania"

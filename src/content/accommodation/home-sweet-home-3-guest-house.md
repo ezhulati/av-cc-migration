@@ -1,7 +1,7 @@
 ---
 title: "Home Sweet Home 3 - Guest House"
 description: "Home Sweet Home 3 - Guest House emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/home-sweet-home-3-guest-house-322859512.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322859512.jpg?k=a7b7a7db40fc2060f669407b127803b71289eed8bfc222a83e85bbba74914aa5&o=&hp=1"
 language: en
 slug: home-sweet-home-3-guest-house
 address: "Rruga Ismail Qemali N°18, Yzberish, Kashar piano 3 , Appartamento 12, 1050 Tirana, Albania"

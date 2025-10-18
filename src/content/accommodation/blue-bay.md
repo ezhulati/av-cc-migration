@@ -1,7 +1,7 @@
 ---
 title: "Blue Bay"
 description: "Blue Bay presents a serene retreat in Sarandë, perfectly positioned a mere stone's throw away from the pristine Maestral Beach and within easy reach of the quaint La Petite Beach."
-featuredImage: "/images/accommodation/blue-bay-473204376.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473204376.jpg?k=1b25b1a7197ba7affe07afaf572f0bcd3238efa17e7b08c686fe84336e8d2247&o=&hp=1"
 language: en
 slug: blue-bay
 address: "Kanali I Cukes Sarande, Sarandë, Albania"

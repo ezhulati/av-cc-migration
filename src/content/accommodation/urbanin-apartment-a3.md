@@ -1,7 +1,7 @@
 ---
 title: "Urbanin Apartment A3"
 description: "Urbanin Apartment A3 emerges as a prime choice for travelers seeking the perfect blend of convenience and comfort in the heart of Tirana."
-featuredImage: "/images/accommodation/urbanin-apartment-a3-d321d61d78a8.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-s/d321d61d78a8fa310843e1967dca38e6276b92aa.png"
 language: en
 slug: urbanin-apartment-a3
 address: "Perballe QSUT, Rruga e Dibrës 1023, 1001 Tirana, Albania, Tirana, 1001 Tirana, Albania"

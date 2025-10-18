@@ -1,7 +1,7 @@
 ---
 title: "Comfortable condo near the beach"
 description: "Comfortable Condo Near the Beach emerges as a serene retreat for travelers seeking both tranquility and convenience."
-featuredImage: "/images/accommodation/comfortable-condo-near-the-beach-485175555.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485175555.jpg?k=df9d6a8c622b643695f415320ac9ba1d3f4d23e28f12e16979e3d583a5182a15&o=&hp=1"
 language: en
 slug: comfortable-condo-near-the-beach
 address: "Rruga Plazhit 19th appartment/5th floor, Golem, Albania"

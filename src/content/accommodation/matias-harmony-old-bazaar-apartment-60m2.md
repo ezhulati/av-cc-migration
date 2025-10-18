@@ -1,7 +1,7 @@
 ---
 title: "Matias Harmony Old Bazaar Apartment 60m2"
 description: "Matias Harmony Old Bazaar Apartment 60m2 emerges as a prime choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/matias-harmony-old-bazaar-apartment-60m2-AATXAJxidLBu.jpg"
+featuredImage: "https://lh3.googleusercontent.com/a/AATXAJxidLBuoaWjV19lD9H2NF-j-2pkgl6exEEtYHo3=s96-c64"
 language: en
 slug: matias-harmony-old-bazaar-apartment-60m2
 address: "Rruga Hoxha Tahsim, 1001 Tirana, Albania"

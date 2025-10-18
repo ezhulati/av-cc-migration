@@ -1,7 +1,7 @@
 ---
 title: "Hotel Veli"
 description: "Hotel Veliu stands as a beacon of comfort and convenience in the heart of Sarandë, offering guests an exceptional stay with its array of amenities and prime location."
-featuredImage: "/images/accommodation/hotel-veli-137306305.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/137306305.jpg?k=b4f3fe31c1679212841281d5ec05113e5bdd31e5914c21b49c7cc3d7d5b4c59b&o=&hp=1"
 language: en
 slug: hotel-veli
 address: "Rruga Lefter Talo, 9703 Sarandë, Albania"

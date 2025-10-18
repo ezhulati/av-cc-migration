@@ -1,7 +1,7 @@
 ---
 title: "CharmAntique Apartments"
 description: "CharmAntique Apartments emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/charmantique-apartments-497575921.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497575921.jpg?k=bc2b77f4c210a5eb90a525f822a826b91f4c2f62aa11b72fe71b6641bdf122a6&o=&hp=1"
 language: en
 slug: charmantique-apartments
 address: "Rruga Hoxhë Vokrri, 1001 Tirana, Albania"

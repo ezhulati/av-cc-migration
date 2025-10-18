@@ -1,7 +1,7 @@
 ---
 title: "Black'n White"
 description: "Black'n White emerges as a standout choice for travelers seeking a blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/black-n-white-475918165.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/475918165.jpg?k=40f17ea7ec34597b92c5296c9d7ddb812c3c603d4acfebe4869f46ec4f2f412b&o=&hp=1"
 language: en
 slug: black-n-white
 address: "Rruga Aleksandër Moisiu, 9301 Vlorë, Albania"

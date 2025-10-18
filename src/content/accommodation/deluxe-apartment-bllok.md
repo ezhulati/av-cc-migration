@@ -1,7 +1,7 @@
 ---
 title: "Deluxe apartment bllok"
 description: "Deluxe Apartment Bllok emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/deluxe-apartment-bllok-380156444.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380156444.jpg?k=4abb708bced9ee76b80b875ef9524b487944ac652d409cb05f2a10c2c78fd190&o=&hp=1"
 language: en
 slug: deluxe-apartment-bllok
 address: "Rruga Perlat Rexhepi Second floor, Tirana, Albania"

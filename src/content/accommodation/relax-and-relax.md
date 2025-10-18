@@ -1,7 +1,7 @@
 ---
 title: "Relax and Relax"
 description: "Relax and Relax stands as a prime choice for travelers seeking comfort and convenience in Durrës, positioned just moments away from the serene Shkëmbi i Kavajës Beach and a short stroll from the bustling Durres Beach."
-featuredImage: "/images/accommodation/relax-and-relax-482208836.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482208836.jpg?k=a97c35c3127df975e1504f5e26f66a0c50adb09cbadbf54916066419d2a0f98c&o=&hp=1"
 language: en
 slug: relax-and-relax
 address: "Plazh Durres 5, 2001 Durrës, Albania"

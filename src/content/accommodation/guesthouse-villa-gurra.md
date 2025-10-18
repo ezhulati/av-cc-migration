@@ -1,7 +1,7 @@
 ---
 title: "Guesthouse Villa Gurra"
 description: "Guesthouse Villa Gurra emerges as a serene retreat in the heart of Theth, offering an idyllic blend of comfort and natural beauty."
-featuredImage: "/images/accommodation/guesthouse-villa-gurra-204975553.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204975553.jpg?k=2d8da2ec2c6b0e866b9461ad9ee12a959d35d5740423b6259e78c2365847a8b4&o=&hp=1"
 language: en
 slug: guesthouse-villa-gurra
 address: "No.21 Center theth, 9375 Theth, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Authentic Albanian Hospitality"
 description: "Authentic Albanian Hospitality emerges as a serene oasis in Durrës, offering guests a unique blend of comfort and convenience with its air-conditioned accommodations that come complete with a welcoming patio."
-featuredImage: "/images/accommodation/authentic-albanian-hospitality-c9a51000ce90.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-l/c9a51000ce90cbf81dcc81b847f9bccc3330d3a4.png"
 language: en
 slug: authentic-albanian-hospitality
 address: "Rr. Kormanet Petrit Llaftiu, 2001 Durrës, Albania"

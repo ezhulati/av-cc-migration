@@ -1,7 +1,7 @@
 ---
 title: "apartment of beautiful dreams over the sea"
 description: "Apartment of Beautiful Dreams Over the Sea stands as a beacon of comfort and relaxation in Sarandë, offering guests a unique blend of convenience and serenity."
-featuredImage: "/images/accommodation/apartment-of-beautiful-dreams-over-the-sea-192541520.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192541520.jpg?k=db6dcfc12c3cec8a61be1e524185add0a1f592c627ed590ad5a5fcb1a6dba54f&o=&hp=1"
 language: en
 slug: apartment-of-beautiful-dreams-over-the-sea
 address: "Quarter No 1 , Street RRuga Butrinti garden + playground , second floor, apartment no. 6, 9701 Sarandë, Albania"

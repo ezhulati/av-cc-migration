@@ -1,7 +1,7 @@
 ---
 title: "Apartments two rooms Green Sea Lungo Mare"
 description: "Discover the charm of Vlorë from the comfort of Apartments Two Rooms Green Sea Lungo Mare, a prime beachfront property that stands out for its breathtaking sea views and proximity to the city's most beautiful beaches."
-featuredImage: "/images/accommodation/apartments-two-rooms-green-sea-lungo-mare-241344573.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/241344573.jpg?k=7019397795af53758266ebfc914c8a92a506920729ff22c7bdaae5454a7737b2&o=&hp=1"
 language: en
 slug: apartments-two-rooms-green-sea-lungo-mare
 address: "Rruga Shyqyri Ali Merka, 9404 Vlorë, Albania"

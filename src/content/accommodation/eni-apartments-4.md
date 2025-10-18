@@ -1,7 +1,7 @@
 ---
 title: "Eni Apartments 4"
 description: "Eni Apartments 4 emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/eni-apartments-4-492118760.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/492118760.jpg?k=248fc1ff33b11debe137bc00363896ad893c9e4ffa33920faacf72be601217d5&o=&hp=1"
 language: en
 slug: eni-apartments-4
 address: "lungo mare, vlore, 9401 Vlorë, Albania"

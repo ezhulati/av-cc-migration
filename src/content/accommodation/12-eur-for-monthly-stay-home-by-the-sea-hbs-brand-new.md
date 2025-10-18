@@ -1,7 +1,7 @@
 ---
 title: "12 EUR for MONTHLY STAY - Home By the Sea - HBS BRAND NEW"
 description: "Discover the charm of coastal living at \"Home By the Sea - HBS BRAND NEW,\" a premier destination for travelers seeking a blend of comfort and convenience in Golem."
-featuredImage: "/images/accommodation/12-eur-for-monthly-stay-home-by-the-sea-hbs-brand-new-f69a0f45af41.jpg"
+featuredImage: "https://cf.bstatic.com/static/img/review/avatars/ava-j/f69a0f45af414641ac0371c1f139c49637969c6c.png"
 language: en
 slug: 12-eur-for-monthly-stay-home-by-the-sea-hbs-brand-new
 address: "Rruga e Gjuzeve 11, Golem, Albania"

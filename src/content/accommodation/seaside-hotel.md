@@ -1,7 +1,7 @@
 ---
 title: "Seaside Hotel"
 description: "Seaside Hotel emerges as a distinguished choice for travelers seeking comfort and convenience in Vlorë, located just a stone's throw away from the pristine Vlore Beach."
-featuredImage: "/images/accommodation/seaside-hotel-477385256.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477385256.jpg?k=0a6a772d4b3ed9c7672c56c7ab9a9bd4241dc6baa20b047e1911f4da59ce3bb2&o=&hp=1"
 language: en
 slug: seaside-hotel
 address: "Rruga Murat Tërbaçi, 9400 Vlorë, Albania"

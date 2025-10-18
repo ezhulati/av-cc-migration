@@ -1,7 +1,7 @@
 ---
 title: "ABI APARTMENT SARANDË"
 description: "ABI APARTMENT SARANDË emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in Sarandë."
-featuredImage: "/images/accommodation/abi-apartment-sarand-451205567.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/451205567.jpg?k=e45f0c490f3648fc84ae10270422b5ca109814abd60d431473a364746a97a497&o=&hp=1"
 language: en
 slug: abi-apartment-sarand
 address: "RRUGA Mit'hat Hoxha, L. nr. 4, Pallati 56, Apt. 4, 9701 Sarandë, Albania"

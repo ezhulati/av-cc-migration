@@ -1,7 +1,7 @@
 ---
 title: "Life on Green"
 description: "Life on Green emerges as a recently renovated gem in Himare, boasting a prime location just 500 meters from the serene Spille Beach."
-featuredImage: "/images/accommodation/life-on-green-417030776.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417030776.jpg?k=955578053fe3c5201ee7b5946868d722e648960b2695b47d0e2c979a51c895a7&o=&hp=1"
 language: en
 slug: life-on-green
 address: "Rr.Hali, 9425 Himare, Albania"

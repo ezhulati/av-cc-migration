@@ -1,7 +1,7 @@
 ---
 title: "Sweet Living Apartment"
 description: "Sweet Living Apartment emerges as a serene haven, offering guests a tranquil retreat amidst the hustle and bustle of the city."
-featuredImage: "/images/accommodation/sweet-living-apartment-197800633.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197800633.jpg?k=ad04610df6e2622df65cc8bcb7d1733e059b522cf992e227669759b6b38dbf0f&o=&hp=1"
 language: en
 slug: sweet-living-apartment
 address: "Sheshi Cinari Hoxhe dheut rruga Oso Kuka ndertesa numer 6, 4001 Shkodër, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "Luxury Rooftop Suites by Blumont"
 description: "Luxury Rooftop Suites by Blumont stands as a beacon of comfort and elegance in Durrës, just a stone's throw away from the serene Shkëmbi i Kavajës Beach."
-featuredImage: "/images/accommodation/luxury-rooftop-suites-by-blumont-472871654.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472871654.jpg?k=4cb604c586d0a6cfc987ad3e9b49dbd4d801d385507bd02f260be9b9f292605f&o=&hp=1"
 language: en
 slug: luxury-rooftop-suites-by-blumont
 address: "Lagja plazhit 13, 2010 Durrës, Albania"

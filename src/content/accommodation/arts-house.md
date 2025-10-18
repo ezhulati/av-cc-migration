@@ -1,7 +1,7 @@
 ---
 title: "Arts House"
 description: "Arts House emerges as a distinguished choice for travelers seeking a blend of comfort and convenience in Shkodër, Shkoder County."
-featuredImage: "/images/accommodation/arts-house-473965511.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473965511.jpg?k=2172e626ec3f64fa3bc6e4ebf25db918327be817436dc65e0d5b90fbe76eb53e&o=&hp=1"
 language: en
 slug: arts-house
 address: "Rruga Qukej, 4001 Shkodër, Albania"

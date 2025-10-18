@@ -1,7 +1,7 @@
 ---
 title: "Downtown Boutique Villa"
 description: "Downtown Boutique Villa emerges as a charming retreat in the heart of Sarandë, located just a short stroll from Saranda City Beach and within easy reach of the main beach."
-featuredImage: "/images/accommodation/downtown-boutique-villa-463989204.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463989204.jpg?k=4b78daa41f3ffc257fe0b0de8c68c34391f4d8d8152a026556d1c5ae10cc2c7d&o=&hp=1"
 language: en
 slug: downtown-boutique-villa
 address: "Rruga Pandeli Bocari, 9701 Sarandë, Albania"

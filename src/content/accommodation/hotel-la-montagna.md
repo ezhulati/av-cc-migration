@@ -1,7 +1,7 @@
 ---
 title: "Hotel La Montagna"
 description: "Hotel La Montagna stands as a beacon of comfort and elegance in Korçë, a mere stone's throw away from the serene Ohrid Lake Springs and the historic Monastery Saint Naum, both located 48 km from the establishment."
-featuredImage: "/images/accommodation/hotel-la-montagna-516715161.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516715161.jpg?k=c49ea96769dea132632cec32498e062e31eab6dc574ed26f018ec5d49939405e&o=&hp=1"
 language: en
 slug: hotel-la-montagna
 address: "Rruga Çlirimi i Korçës, 7001 Korçë, Albania"

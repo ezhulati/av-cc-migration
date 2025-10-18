@@ -1,7 +1,7 @@
 ---
 title: "City Center Tirana luxury Orange Apartment 9A"
 description: "Discover the epitome of urban elegance at City Center Tirana Luxury Orange Apartment 9A, a premier destination for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/city-center-tirana-luxury-orange-apartment-9a-490010347.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490010347.jpg?k=46e2158499df81f8ae5c6a570442166fbbf4024ca8daea9f3bdde6902336e26f&o=&hp=1"
 language: en
 slug: city-center-tirana-luxury-orange-apartment-9a
 address: "Rruga Mujo Ulqinaku, 1001 Tirana, Albania"

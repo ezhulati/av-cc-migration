@@ -1,7 +1,7 @@
 ---
 title: "Milestone Deluxe Apartment Tirana"
 description: "Milestone Deluxe Apartment Tirana emerges as a prime choice for travelers seeking comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/milestone-deluxe-apartment-tirana-267483675.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267483675.jpg?k=1ff7e687f4b0254e7b6a030e2e64c9efdbda42841cf3643e271e2544d6daa43c&o=&hp=1"
 language: en
 slug: milestone-deluxe-apartment-tirana
 address: "Rruga Don Bosko, 1001 Tirana, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The beautiful view"
 description: "The Beautiful View stands out as a prime choice for travelers seeking comfort and convenience in Tirana."
-featuredImage: "/images/accommodation/the-beautiful-view-524728712.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/524728712.jpg?k=837351849a63daf134dbd44d07d2048452cadf2762ae9b0a9b42b83352122b6f&o=&hp=1"
 language: en
 slug: the-beautiful-view
 address: "Rruga Stavri Themeli, 1000 Tirana, Albania"

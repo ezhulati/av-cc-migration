@@ -1,7 +1,7 @@
 ---
 title: "Trip'n'Hostel Chill Zone"
 description: "Trip'n'Hostel Chill Zone emerges as a serene oasis in the heart of Tirana, offering guests a unique blend of comfort and convenience."
-featuredImage: "/images/accommodation/trip-n-hostel-chill-zone-470235149.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470235149.jpg?k=75059987966afbbdf0b1ba38cd26c2cf1138d7d83394d05bf69e9424af4cbffe&o=&hp=1"
 language: en
 slug: trip-n-hostel-chill-zone
 address: "Rruga Zija Këlliçi, 1017 Tirana, Albania"

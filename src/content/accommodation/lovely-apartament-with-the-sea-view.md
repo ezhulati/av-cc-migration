@@ -1,7 +1,7 @@
 ---
 title: "Lovely apartament with the sea view"
 description: "Lovely Apartment with Sea View stands out as a prime choice for travelers seeking comfort and convenience in Vlorë."
-featuredImage: "/images/accommodation/lovely-apartament-with-the-sea-view-353216050.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353216050.jpg?k=2ffaee87a5e74918ef1c0c8b5681f7b34bf3d2ee909d36eab45a92305eadfcc2&o=&hp=1"
 language: en
 slug: lovely-apartament-with-the-sea-view
 address: "Vlora, Albania, 9400 Vlorë, Albania"

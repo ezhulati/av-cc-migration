@@ -1,7 +1,7 @@
 ---
 title: "Sea View Hotel"
 description: "Sea View Hotel emerges as a prime choice for travelers seeking a blend of comfort and convenience in Himare, just a stone's throw away from the pristine Prinos Beach."
-featuredImage: "/images/accommodation/sea-view-hotel-481761010.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481761010.jpg?k=b9539dc42b33f95a9def36ebe4d1990aa5635ec3d93fa03875d8a13bdf1b46bb&o=&hp=1"
 language: en
 slug: sea-view-hotel
 address: "SH8 Rruga vangjel zoto, 9542 Himare, Albania"

@@ -1,7 +1,7 @@
 ---
 title: "The Heart of the Bazaar Guest house"
 description: "Discover the charm of Gjirokastër with a stay at The Heart of the Bazaar Guest House, a prime choice for travelers seeking both comfort and convenience."
-featuredImage: "/images/accommodation/the-heart-of-the-bazaar-guest-house-295057014.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295057014.jpg?k=4a994b940b47a546489a38df4ec68d495b27a32b0b34f2cf1e342b81dafcb53b&o=&hp=1"
 language: en
 slug: the-heart-of-the-bazaar-guest-house
 address: "Qafa e Pazarit, Gjirokastër, Albania"

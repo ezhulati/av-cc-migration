@@ -1,7 +1,7 @@
 ---
 title: "Lovely 1-Bedroom Apartment at San Pietro Beach Front Resort"
 description: "Discover the charm of coastal living at the Lovely 1-Bedroom Apartment at San Pietro Beach Front Resort, a gem located just 700 meters from the serene Lalëz Bay Beach and a scenic drive from the historic Skanderbeg Square."
-featuredImage: "/images/accommodation/lovely-1-bedroom-apartment-at-san-pietro-beach-front-resort-372818430.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/372818430.jpg?k=d77da94306ae5070cf706b5311434bae7eed632cf8a41271bc3f13b9b919f967&o=&hp=1"
 language: en
 slug: lovely-1-bedroom-apartment-at-san-pietro-beach-front-resort
 address: "Building 2A4, San Pietro Resort 213, Mullini i Danit, Albania"

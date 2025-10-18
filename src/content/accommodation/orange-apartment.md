@@ -1,7 +1,7 @@
 ---
 title: "Orange Apartment"
 description: "Orange Apartment emerges as a prime choice for travelers seeking the perfect blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/orange-apartment-491261977.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491261977.jpg?k=79e460c04f0029b44e6c8f18bff4d28e0ec18d91626ff92e0f0153708a542684&o=&hp=1"
 language: en
 slug: orange-apartment
 address: "Rruga Arkitekt Sinani Ap. 4, floor 2, 1005 Tirana, Albania"

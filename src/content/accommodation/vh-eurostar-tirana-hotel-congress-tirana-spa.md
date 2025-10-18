@@ -1,7 +1,7 @@
 ---
 title: "VH Eurostar Tirana Hotel Congress & Tirana Spa"
 description: "VH Eurostar Tirana Hotel Congress & Tirana Spa stands out as a premier destination for travelers seeking a blend of comfort and convenience in the heart of Tirana."
-featuredImage: "/images/accommodation/vh-eurostar-tirana-hotel-congress-tirana-spa-371518553.jpg"
+featuredImage: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371518553.jpg?k=365a0696986aa5169eabc33ea1a1732d251885af5fed1c4512331245d0328a41&o=&hp=1"
 language: en
 slug: vh-eurostar-tirana-hotel-congress-tirana-spa
 address: "Rruga Jordan Misja, 1001 Tirana, Albania"
