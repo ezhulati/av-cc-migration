@@ -1,16 +1,16 @@
 ---
 /**
- * Activity Page
- * Dynamic routing for individual activity pages
+ * Activity Page - Uses shared ArticleLayout
+ * All styling and structure comes from ArticleLayout.astro
  */
 
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const activities = await getCollection('activities', ({ data }) => {
-    return !data.language || data.language === 'en';
+    return data && (!data.language || data.language === 'en');
   });
 
   return activities.map(activity => ({
@@ -35,220 +35,44 @@ const {
 } = activity.data;
 
 const slug = activity.slug;
+
+// Build breadcrumbs
+const breadcrumbs = [
+  { label: 'Home', href: '/' },
+  { label: 'Activities', href: '/activities/' },
+];
+if (category) {
+  breadcrumbs.push({ label: category });
+}
+
+// Build sidebar info items
+const infoItems = [
+  category && { icon: '🎯', label: 'Category', value: category },
+  { icon: '🇦🇱', label: 'Country', value: 'Albania' },
+  { icon: '💬', label: 'Languages', value: 'Albanian, English' },
+].filter(Boolean);
+
+// Navigation links
+const navigationLinks = [
+  { label: '← All Activities', href: '/activities/' },
+  { label: 'Destinations', href: '/destinations/' },
+  { label: 'Top Attractions', href: '/attractions/' },
+];
 ---
 
-<BaseLayout
+<ArticleLayout
   title={`${title} - Activities in Albania`}
   description={description}
   canonical={`https://albaniavisit.com/activities/${slug}/`}
   image={featuredImage}
-  type="article"
   language={language}
+  heroTitle={title}
+  heroSubtitle={description}
+  featuredImage={featuredImage}
+  breadcrumbs={breadcrumbs}
+  infoItems={infoItems}
+  navigationLinks={navigationLinks}
+  contentType="activity"
 >
-  <article class="activity">
-    <div class="container-custom max-w-7xl">
-      <!-- Breadcrumbs -->
-      <nav class="breadcrumbs" aria-label="Breadcrumb">
-        <ol>
-          <li><a href="/">Home</a></li>
-          <li><a href="/activities/">Activities</a></li>
-          {category && <li>{category}</li>}
-          <li aria-current="page">{title}</li>
-        </ol>
-      </nav>
-
-      <!-- Featured Image -->
-      {featuredImage && (
-        <div class="featured-image mb-12">
-          <img
-            src={featuredImage}
-            alt={title}
-            loading="eager"
-          />
-        </div>
-      )}
-
-      <!-- Header -->
-      <header class="activity-header mb-12">
-        {category && <span class="category-badge">{category}</span>}
-        <h1 class="activity-title">{title}</h1>
-        {description && (
-          <p class="lead">{description}</p>
-        )}
-      </header>
-
-      <!-- Two Column Layout: Content + Sidebar -->
-      <div class="activity-layout">
-        <!-- Main Content -->
-        <div class="activity-main">
-          <div class="activity-content">
-            <Content />
-          </div>
-        </div>
-
-        <!-- Sidebar -->
-        <aside class="activity-sidebar">
-          {category && (
-            <div class="sidebar-card">
-              <h3 class="sidebar-title">Category</h3>
-              <p>{category}</p>
-            </div>
-          )}
-
-          <div class="sidebar-card">
-            <h3 class="sidebar-title">Plan Your Trip</h3>
-            <p class="text-sm text-muted-foreground mb-4">
-              Find the perfect place to stay during your adventure
-            </p>
-            <a href="/accommodation/" class="btn-primary w-full text-center">
-              Find Accommodation
-            </a>
-          </div>
-
-          <div class="sidebar-card">
-            <h3 class="sidebar-title">Explore More</h3>
-            <div class="space-y-3">
-              <a href="/activities/" class="block text-sm text-primary hover:text-primary/80">
-                ← All Activities
-              </a>
-              <a href="/destinations/" class="block text-sm text-primary hover:text-primary/80">
-                Destinations
-              </a>
-              <a href="/attractions/" class="block text-sm text-primary hover:text-primary/80">
-                Attractions
-              </a>
-            </div>
-          </div>
-        </aside>
-      </div>
-    </div>
-  </article>
-</BaseLayout>
-
-<style>
-  .activity {
-    @apply py-12 md:py-16 lg:py-20;
-  }
-
-  /* Breadcrumbs */
-  .breadcrumbs {
-    @apply mb-8 text-sm;
-  }
-
-  .breadcrumbs ol {
-    @apply flex flex-wrap gap-2 list-none;
-  }
-
-  .breadcrumbs li:not(:last-child)::after {
-    content: '›';
-    @apply ml-2 text-muted-foreground;
-  }
-
-  .breadcrumbs a {
-    @apply text-primary no-underline hover:underline;
-  }
-
-  /* Featured Image */
-  .featured-image {
-    @apply rounded-xl overflow-hidden shadow-xl;
-  }
-
-  .featured-image img {
-    @apply w-full h-auto max-h-[500px] object-cover;
-  }
-
-  /* Header */
-  .category-badge {
-    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-semibold transition-colors;
-    @apply border-transparent bg-primary text-primary-foreground hover:bg-primary/80 mb-4;
-  }
-
-  .activity-title {
-    @apply text-4xl md:text-5xl font-bold tracking-tight mb-6 text-foreground;
-  }
-
-  /* Layout */
-  .activity-layout {
-    @apply grid lg:grid-cols-[1fr_300px] gap-12;
-  }
-
-  .activity-main {
-    @apply min-w-0;
-  }
-
-  /* Content */
-  .activity-content :global(h2) {
-    @apply text-3xl font-semibold tracking-tight mt-12 mb-6 text-foreground;
-  }
-
-  .activity-content :global(h3) {
-    @apply text-2xl font-semibold tracking-tight mt-8 mb-4 text-foreground;
-  }
-
-  .activity-content :global(h4) {
-    @apply text-xl font-semibold tracking-tight mt-6 mb-3 text-foreground;
-  }
-
-  .activity-content :global(p) {
-    @apply mb-6 leading-7 text-lg;
-  }
-
-  .activity-content :global(a) {
-    @apply text-primary underline hover:no-underline transition-all;
-  }
-
-  .activity-content :global(img) {
-    @apply w-full h-auto rounded-lg shadow-lg my-8;
-  }
-
-  .activity-content :global(ul),
-  .activity-content :global(ol) {
-    @apply mb-6 pl-8 space-y-2;
-  }
-
-  .activity-content :global(ul li) {
-    @apply list-disc;
-  }
-
-  .activity-content :global(ol li) {
-    @apply list-decimal;
-  }
-
-  .activity-content :global(blockquote) {
-    @apply border-l-4 border-primary pl-6 my-8 italic text-muted-foreground bg-muted/30 py-4 rounded-r-lg;
-  }
-
-  /* Sidebar */
-  .activity-sidebar {
-    @apply space-y-6;
-  }
-
-  .sidebar-card {
-    @apply rounded-lg border bg-card text-card-foreground shadow-sm p-6;
-  }
-
-  .sidebar-title {
-    @apply text-lg font-semibold mb-4 text-foreground;
-  }
-
-  /* Responsive */
-  @media (max-width: 1024px) {
-    .activity-layout {
-      @apply grid-cols-1;
-    }
-
-    .activity-sidebar {
-      @apply order-first;
-    }
-  }
-
-  @media (max-width: 768px) {
-    .activity-title {
-      @apply text-3xl;
-    }
-
-    .activity-content :global(p) {
-      @apply text-base;
-    }
-  }
-</style>
+  <Content />
+</ArticleLayout>

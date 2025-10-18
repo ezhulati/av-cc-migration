@@ -168,6 +168,24 @@ const travelGuidesCollection = defineCollection({
   }),
 });
 
+const researchCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    author: z.string().optional(),
+    featuredImage: z.string().optional(),
+    images: z.array(z.string()).default([]),
+    category: z.string().optional(), // e.g., "International Tourism Research", "Demographic Research"
+    slug: z.string().optional(),
+    status: z.enum(['publish', 'draft']).optional(),
+    language: z.enum(['en', 'sq']).optional(),
+    seo: z.any().optional(),
+  }),
+});
+
 export const collections = {
   'posts': postsCollection,
   'pages': pagesCollection,
@@ -177,4 +195,5 @@ export const collections = {
   'accommodation': accommodationCollection,
   'news': newsCollection,
   'travel-guides': travelGuidesCollection,
+  'research': researchCollection,
 };

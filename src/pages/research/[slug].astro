@@ -1,0 +1,327 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const researchReports = await getCollection('research', ({ data }) => {
+    return data.status === 'publish' && data.language === 'en';
+  });
+
+  return researchReports.map((report) => ({
+    params: { slug: report.id },
+    props: { report },
+  }));
+}
+
+const { report } = Astro.props;
+// @ts-ignore - render() exists at runtime for content collections
+const { Content } = await report.render();
+
+// Get all research reports for "More Research" section
+const allResearch = await getCollection('research', ({ data }) => {
+  return data.status === 'publish' && data.language === 'en';
+});
+
+const relatedResearch = allResearch
+  .filter(r => r.id !== report.id)
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+  .slice(0, 2);
+---
+
+<BaseLayout
+  title={report.data.seo?.metaTitle || report.data.title}
+  description={report.data.seo?.metaDescription || report.data.description}
+  canonical={report.data.seo?.canonicalURL || `https://albaniavisit.com/research/${report.id}/`}
+  image={report.data.featuredImage}
+  type="article"
+  publishedTime={new Date(report.data.pubDate).toISOString()}
+  author={report.data.author}
+>
+  <article class="research-article">
+    <!-- Hero Section with Featured Image -->
+    {report.data.featuredImage && (
+      <div class="article-hero">
+        <img
+          src={report.data.featuredImage}
+          alt={report.data.title}
+          class="hero-image"
+        />
+      </div>
+    )}
+
+    <!-- Article Content -->
+    <div class="article-container">
+      <div class="article-header">
+        <h1>{report.data.title}</h1>
+        <div class="article-meta">
+          <time datetime={new Date(report.data.pubDate).toISOString()}>
+            {new Date(report.data.pubDate).toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+            })}
+          </time>
+          {report.data.author && (
+            <>
+              <span class="meta-separator">·</span>
+              <span class="author">By {report.data.author}</span>
+            </>
+          )}
+        </div>
+      </div>
+
+      <div class="article-content">
+        <Content />
+      </div>
+
+      <!-- Related Research -->
+      {relatedResearch.length > 0 && (
+        <aside class="related-research">
+          <h2>More Research Reports</h2>
+          <div class="related-grid">
+            {relatedResearch.map((related) => (
+              <a href={`/research/${related.id}/`} class="related-card">
+                {related.data.featuredImage && (
+                  <img
+                    src={related.data.featuredImage}
+                    alt={related.data.title}
+                    loading="lazy"
+                  />
+                )}
+                <h3>{related.data.title}</h3>
+              </a>
+            ))}
+          </div>
+          <a href="/research/" class="view-all-button">
+            View All Research Reports →
+          </a>
+        </aside>
+      )}
+    </div>
+  </article>
+
+  <style>
+    .research-article {
+      font-family: var(--font-sans);
+    }
+
+    /* Hero Image */
+    .article-hero {
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+      background: #1a1a1a;
+    }
+
+    .hero-image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    /* Article Container */
+    .article-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 3rem 20px;
+    }
+
+    /* Article Header */
+    .article-header {
+      margin-bottom: 3rem;
+    }
+
+    .article-header h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 1rem;
+      color: #1a1a1a;
+    }
+
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.9375rem;
+      color: #666;
+    }
+
+    .meta-separator {
+      color: #ccc;
+    }
+
+    .author {
+      font-weight: 500;
+    }
+
+    /* Article Content */
+    .article-content {
+      font-size: 1.125rem;
+      line-height: 1.8;
+      color: #333;
+    }
+
+    .article-content :global(h2) {
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-top: 3rem;
+      margin-bottom: 1.5rem;
+      color: #1a1a1a;
+    }
+
+    .article-content :global(h3) {
+      font-size: 1.5rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      color: #1a1a1a;
+    }
+
+    .article-content :global(h4) {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-top: 2rem;
+      margin-bottom: 0.75rem;
+      color: #1a1a1a;
+    }
+
+    .article-content :global(p) {
+      margin-bottom: 1.5rem;
+    }
+
+    .article-content :global(ul),
+    .article-content :global(ol) {
+      margin-bottom: 1.5rem;
+      padding-left: 2rem;
+    }
+
+    .article-content :global(li) {
+      margin-bottom: 0.5rem;
+    }
+
+    .article-content :global(strong) {
+      font-weight: 600;
+      color: #1a1a1a;
+    }
+
+    .article-content :global(a) {
+      color: #e41e20;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(228, 30, 32, 0.3);
+      transition: border-color 0.2s ease;
+    }
+
+    .article-content :global(a:hover) {
+      border-bottom-color: #e41e20;
+    }
+
+    .article-content :global(blockquote) {
+      border-left: 4px solid #e41e20;
+      padding-left: 1.5rem;
+      margin: 2rem 0;
+      font-style: italic;
+      color: #555;
+    }
+
+    /* Related Research */
+    .related-research {
+      margin-top: 4rem;
+      padding-top: 3rem;
+      border-top: 2px solid #e5e5e5;
+    }
+
+    .related-research h2 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 2rem;
+      color: #1a1a1a;
+    }
+
+    .related-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .related-card {
+      display: block;
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      text-decoration: none;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .related-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    }
+
+    .related-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+
+    .related-card h3 {
+      padding: 1.25rem;
+      font-size: 1.125rem;
+      font-weight: 600;
+      line-height: 1.4;
+      color: #1a1a1a;
+    }
+
+    .view-all-button {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background: #e41e20;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: 600;
+      transition: background 0.2s ease;
+    }
+
+    .view-all-button:hover {
+      background: #c41a1c;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .article-hero {
+        height: 250px;
+      }
+
+      .article-container {
+        padding: 2rem 20px;
+      }
+
+      .article-header h1 {
+        font-size: 2rem;
+      }
+
+      .article-content {
+        font-size: 1rem;
+      }
+
+      .article-content :global(h2) {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+      }
+
+      .article-content :global(h3) {
+        font-size: 1.25rem;
+        margin-top: 1.5rem;
+      }
+
+      .related-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</BaseLayout>
