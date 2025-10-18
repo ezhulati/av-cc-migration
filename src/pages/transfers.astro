@@ -1,0 +1,788 @@
+---
+/**
+ * Transfers Landing Page
+ * Information and booking for transfers in Albania
+ * Includes Riviera Bus and Welcome Pickups (TPE) partner integrations
+ */
+
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Book Private Transfers in Albania | Airport & City Transport';
+const description = 'Book reliable private transfers in Albania. Fixed prices, English-speaking drivers, airport meet & greet. Tirana Airport transfers and city-to-city rides.';
+const canonical = 'https://albaniavisit.com/transfers/';
+const image = '/images/pages/albaniavisit-transfers.jpg';
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  image={image}
+  type="website"
+>
+  <div class="transfers-page">
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-content">
+          <h1>Private Transfers in Albania</h1>
+          <p class="hero-subtitle">
+            Book reliable airport pickups and city-to-city transfers with English-speaking drivers.
+            Fixed prices, professional service, no haggling.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Intro Section -->
+    <section class="intro-section">
+      <div class="container">
+        <div class="intro-content">
+          <p>
+            Whether you're landing at Tirana Airport or traveling between cities, pre-booking a private transfer
+            saves time and stress. Below you'll find two trusted options: <strong>Riviera Bus</strong> for
+            scenic coastal shuttles and private charters, and <strong>Welcome Pickups</strong> for professional
+            airport transfers with local insights.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Riviera Bus Section -->
+    <section class="booking-section riviera-section">
+      <div class="container">
+        <div class="service-header">
+          <div class="service-logo">
+            <h2>Riviera Bus</h2>
+            <p class="service-tagline">Scenic Shuttles Along Albania's Coast</p>
+          </div>
+        </div>
+
+        <div class="service-grid">
+          <div class="service-info">
+            <h3>About Riviera Bus</h3>
+            <p>
+              Riviera Bus started in Albania in 2017 and has grown to serve six Mediterranean regions.
+              Their philosophy is simple: transfers shouldn't be boring. Instead of just getting from A to B,
+              their routes include scenic stops along Albania's stunning coastline.
+            </p>
+
+            <h4>Services in Albania</h4>
+            <ul>
+              <li><strong>Coastal Shuttles:</strong> Tirana → Saranda (€50) and Vlorë → Saranda (€30) with stops at beach towns like Dhërmi, Himarë, Qeparo, and Ksamil</li>
+              <li><strong>Private Transfers:</strong> Door-to-door service to any coastal or historical site in Albania, Macedonia, and Montenegro</li>
+              <li><strong>Airport Pickups:</strong> Direct transfer from Tirana Airport to your hotel</li>
+            </ul>
+
+            <h4>What's Included</h4>
+            <ul>
+              <li>Air-conditioned minivans (up to 7 passengers)</li>
+              <li>Free Wi-Fi and bottled water</li>
+              <li>Professional licensed drivers</li>
+              <li>Free cancellation and modifications</li>
+              <li>Flight delay monitoring for airport pickups</li>
+            </ul>
+
+            <div class="service-note">
+              <strong>Operating Season:</strong> Scheduled coastal shuttles run May 31 - August 31.
+              Private transfers available year-round.
+            </div>
+
+            <div class="route-map">
+              <h4>Riviera Bus Route Map</h4>
+              <iframe
+                src="https://www.google.com/maps/d/embed?mid=1xzW43s7s1BCyDB3VkjSKYy8oFHE&femb=1&ll=40.44001202553494%2C19.40873333772851&z=8"
+                width="100%"
+                height="800"
+                style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade">
+              </iframe>
+            </div>
+          </div>
+
+          <div class="booking-widget">
+            <div class="widget-header">
+              <h3>Book with Riviera Bus</h3>
+              <p>Enter your transfer details below</p>
+            </div>
+            <div class="riviera-form-container">
+              <!-- Button trigger - auto-clicked on page load -->
+              <a class="gotoalbania-form-link" href="#widget-form-1" id="riviera-trigger">Book with Riviera Bus</a>
+              <div id="widget-form-1" class="gotoalbania-form" data-lang="en" data-type="form/slug/albania" data-domain="gotoalbania.ru"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Welcome Pickups Section -->
+    <section class="booking-section welcomepickups-section">
+      <div class="container">
+        <div class="service-header">
+          <div class="service-logo">
+            <h2>Welcome Pickups & More Options</h2>
+            <p class="service-tagline">Compare Multiple Transfer Providers</p>
+          </div>
+        </div>
+
+        <div class="service-grid reverse">
+          <div class="service-info">
+            <h3>About Welcome Pickups</h3>
+            <p>
+              Welcome Pickups offers professional airport transfer services in over 100 cities worldwide,
+              including Tirana. Their drivers do more than just drive—they provide local recommendations,
+              answer questions about Albania, and help you get oriented in a new place.
+            </p>
+
+            <h4>What Makes Welcome Pickups Different</h4>
+            <ul>
+              <li><strong>English-Speaking Drivers:</strong> All drivers are vetted and speak English fluently</li>
+              <li><strong>Meet & Greet:</strong> Your driver waits at arrivals with a name sign, no searching required</li>
+              <li><strong>Local Expertise:</strong> Drivers share tips about restaurants, attractions, and getting around</li>
+              <li><strong>Fixed Prices:</strong> Know the cost upfront, no surprises or hidden fees</li>
+              <li><strong>Flight Tracking:</strong> Automatic adjustment if your flight is delayed</li>
+            </ul>
+
+            <h4>Additional Transfer Options</h4>
+            <p>
+              The form on the right lets you compare Welcome Pickups alongside other trusted providers like
+              GetTransfer and Booking.com Transport. You can filter by vehicle type, price, and amenities to
+              find exactly what you need.
+            </p>
+
+            <div class="service-note">
+              <strong>Popular Routes:</strong> Tirana Airport to city center (30 min), Tirana to Durrës (40 min),
+              Tirana to Berat (2 hrs), Tirana to Vlorë (2.5 hrs).
+            </div>
+          </div>
+
+          <div class="booking-widget">
+            <div class="widget-header">
+              <h3>Compare Transfer Prices</h3>
+              <p>Search and compare multiple providers</p>
+            </div>
+            <div class="tpe-embed-container">
+              <script async src="https://tpemd.com/content?trs=146557&shmarker=331622&locale=en&city=Tirana&show_header=false&no_bg=true&powered_by=false&campaign_id=627&promo_id=8951" charset="utf-8"></script>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How Transfers Work -->
+    <section class="how-section">
+      <div class="container">
+        <h2>How Private Transfers Work</h2>
+        <div class="steps-grid">
+          <div class="step">
+            <div class="step-number">1</div>
+            <h3>Search & Compare</h3>
+            <p>Enter your pickup location, destination, date, and number of passengers. Browse available vehicles and prices.</p>
+          </div>
+          <div class="step">
+            <div class="step-number">2</div>
+            <h3>Book Online</h3>
+            <p>Select your preferred option and complete booking with a credit card. You'll receive instant confirmation via email.</p>
+          </div>
+          <div class="step">
+            <div class="step-number">3</div>
+            <h3>Driver Details</h3>
+            <p>24 hours before pickup, you'll receive your driver's name, phone number, and vehicle information.</p>
+          </div>
+          <div class="step">
+            <div class="step-number">4</div>
+            <h3>Meet Your Driver</h3>
+            <p>For airport pickups, your driver waits at arrivals with a name sign. For hotel pickups, they arrive at your specified time.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Popular Routes -->
+    <section class="routes-section">
+      <div class="container">
+        <h2>Popular Transfer Routes</h2>
+        <div class="routes-grid">
+          <div class="route-card">
+            <div class="route-name">Tirana Airport → City Center</div>
+            <div class="route-details">~30 minutes | Most common route</div>
+          </div>
+          <div class="route-card">
+            <div class="route-name">Tirana → Durrës</div>
+            <div class="route-details">~40 minutes | Beach access</div>
+          </div>
+          <div class="route-card">
+            <div class="route-name">Tirana → Berat</div>
+            <div class="route-details">~2 hours | UNESCO heritage site</div>
+          </div>
+          <div class="route-card">
+            <div class="route-name">Tirana → Vlorë</div>
+            <div class="route-details">~2.5 hours | Albanian Riviera gateway</div>
+          </div>
+          <div class="route-card">
+            <div class="route-name">Tirana → Shkodër</div>
+            <div class="route-details">~1.5 hours | Northern Albania</div>
+          </div>
+          <div class="route-card">
+            <div class="route-name">Tirana → Sarandë</div>
+            <div class="route-details">~4-5 hours | Southern coast</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section">
+      <div class="container">
+        <h2>Common Questions</h2>
+        <div class="faq-grid">
+          <div class="faq-item">
+            <h3>What if my flight is delayed?</h3>
+            <p>Both Riviera Bus and Welcome Pickups track your flight in real-time. Your driver will adjust the pickup time automatically. No extra charge for delays.</p>
+          </div>
+          <div class="faq-item">
+            <h3>Can I cancel or modify my booking?</h3>
+            <p>Yes. Most providers offer free cancellation 24-48 hours before pickup. Check the specific cancellation policy when you book.</p>
+          </div>
+          <div class="faq-item">
+            <h3>How much luggage can I bring?</h3>
+            <p>Standard sedans fit 3 passengers + 3 large suitcases. Minivans and larger vehicles accommodate more. Specify your luggage amount when booking.</p>
+          </div>
+          <div class="faq-item">
+            <h3>Do I need to print my voucher?</h3>
+            <p>No. A digital copy on your phone works fine. Your driver will have your booking details and will be holding a sign with your name.</p>
+          </div>
+          <div class="faq-item">
+            <h3>What payment methods are accepted?</h3>
+            <p>Major credit cards (Visa, Mastercard, American Express) and PayPal. Payment happens online when you book.</p>
+          </div>
+          <div class="faq-item">
+            <h3>Are drivers English-speaking?</h3>
+            <p>Yes. All drivers listed through these platforms speak English and are trained to assist international travelers.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonial -->
+    <section class="testimonial-section">
+      <div class="container">
+        <div class="testimonial">
+          <blockquote>
+            <p>"My driver was at the terminal with my name sign. The car was clean, air-conditioned, and got me to central Tirana quickly. No haggling, no confusion—just smooth service."</p>
+            <footer>
+              <strong>Enri Zhulati</strong>
+              <span>AlbaniaVisit Founder</span>
+            </footer>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- GoToAlbania Script -->
+  <script src="https://gotoalbania.ru/payments/js/form-injector.js" async></script>
+
+  <!-- Auto-load Riviera Bus form -->
+  <script is:inline>
+    // Auto-click the button to load the GoToAlbania form
+    window.addEventListener('load', function() {
+      setTimeout(function() {
+        const trigger = document.getElementById('riviera-trigger');
+        if (trigger) {
+          console.log('Auto-clicking Riviera Bus form trigger');
+          trigger.click();
+        }
+      }, 1500);
+    });
+  </script>
+
+  <style>
+    .transfers-page {
+      font-family: var(--font-sans);
+      color: #1a1a1a;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    /* Hero Section */
+    .hero {
+      background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+      color: white;
+      padding: 4rem 0 3rem;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: 2.75rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      line-height: 1.2;
+    }
+
+    .hero-subtitle {
+      font-size: 1.25rem;
+      color: rgba(255, 255, 255, 0.9);
+      max-width: 700px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    /* Intro Section */
+    .intro-section {
+      background: white;
+      padding: 2.5rem 0;
+      border-bottom: 1px solid #e5e5e5;
+    }
+
+    .intro-content p {
+      font-size: 1.125rem;
+      line-height: 1.8;
+      max-width: 900px;
+      margin: 0 auto;
+      text-align: center;
+      color: #4a4a4a;
+    }
+
+    /* Booking Sections */
+    .booking-section {
+      padding: 4rem 0;
+    }
+
+    .riviera-section {
+      background: #f8f8f8;
+    }
+
+    .welcomepickups-section {
+      background: white;
+    }
+
+    .service-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .service-logo h2 {
+      font-size: 2.25rem;
+      color: #1a1a1a;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+
+    .service-tagline {
+      font-size: 1.125rem;
+      color: #666;
+      font-weight: 400;
+    }
+
+    /* Service Grid */
+    .service-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4rem;
+      align-items: start;
+    }
+
+    .service-grid.reverse {
+      direction: ltr;
+    }
+
+    .service-info {
+      padding: 1.5rem 0;
+    }
+
+    .service-info h3 {
+      font-size: 1.75rem;
+      color: #1a1a1a;
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+
+    .service-info h4 {
+      font-size: 1.25rem;
+      color: #1a1a1a;
+      margin: 2rem 0 1rem;
+      font-weight: 600;
+    }
+
+    .service-info p {
+      font-size: 1.0625rem;
+      line-height: 1.7;
+      color: #4a4a4a;
+      margin-bottom: 1.5rem;
+    }
+
+    .service-info ul {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0 1.5rem;
+    }
+
+    .service-info li {
+      padding-left: 1.5rem;
+      margin-bottom: 0.75rem;
+      position: relative;
+      font-size: 1.0625rem;
+      line-height: 1.6;
+      color: #4a4a4a;
+    }
+
+    .service-info li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: #e41e20;
+      font-weight: bold;
+      font-size: 1.25rem;
+    }
+
+    .service-note {
+      background: #fff;
+      border-left: 4px solid #e41e20;
+      padding: 1.25rem 1.5rem;
+      margin-top: 2rem;
+      border-radius: 4px;
+      font-size: 0.9375rem;
+      line-height: 1.6;
+    }
+
+    .riviera-section .service-note {
+      background: white;
+    }
+
+    .welcomepickups-section .service-note {
+      background: #f8f8f8;
+    }
+
+    /* Route Map */
+    .route-map {
+      margin-top: 2rem;
+    }
+
+    .route-map h4 {
+      font-size: 1.25rem;
+      color: #1a1a1a;
+      margin-bottom: 1rem;
+      font-weight: 600;
+    }
+
+    .route-map iframe {
+      border-radius: 4px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Booking Widget */
+    .booking-widget {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      border: 2px solid #e5e5e5;
+    }
+
+    .widget-header {
+      background: #1a1a1a;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+
+    .widget-header h3 {
+      font-size: 1.375rem;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+    }
+
+    .widget-header p {
+      font-size: 0.9375rem;
+      color: rgba(255, 255, 255, 0.8);
+      margin: 0;
+    }
+
+    /* Riviera Form Container */
+    .riviera-form-container {
+      padding: 0;
+      background: #fafafa;
+      min-height: 500px;
+    }
+
+    /* GoToAlbania Form Link */
+    .gotoalbania-form-link {
+      display: block;
+      padding: 15px 30px;
+      background: #e41e20;
+      color: white;
+      text-decoration: none;
+      border-radius: 0;
+      font-weight: 600;
+      font-size: 1.125rem;
+      font-family: Arial, sans-serif;
+      transition: 0.3s;
+      text-align: center;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    .gotoalbania-form-link:hover {
+      background: #c41a1c;
+      transform: scale(1.02);
+    }
+
+    @media (max-width: 600px) {
+      .gotoalbania-form-link {
+        padding: 12px 24px;
+        font-size: 1rem;
+      }
+    }
+
+    /* Widget Containers */
+    .tpe-embed-container {
+      min-height: 500px;
+      padding: 1.5rem;
+      background: #fafafa;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    }
+
+    .tpe-embed-container iframe,
+    .tpe-embed-container > div {
+      margin: 0 auto;
+    }
+
+    #widget-form-1 {
+      min-height: 400px;
+      width: 100%;
+    }
+
+    #widget-form-1 iframe,
+    #widget-form-1 > div,
+    #widget-form-1 > form {
+      width: 100%;
+    }
+
+    /* How It Works */
+    .how-section {
+      padding: 4rem 0;
+      background: white;
+    }
+
+    .how-section h2 {
+      text-align: center;
+      font-size: 2.25rem;
+      margin-bottom: 3rem;
+      color: #1a1a1a;
+      font-weight: 700;
+    }
+
+    .steps-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2.5rem;
+    }
+
+    .step {
+      text-align: center;
+    }
+
+    .step-number {
+      width: 60px;
+      height: 60px;
+      background: #e41e20;
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin: 0 auto 1.25rem;
+    }
+
+    .step h3 {
+      font-size: 1.375rem;
+      color: #1a1a1a;
+      margin-bottom: 0.75rem;
+      font-weight: 600;
+    }
+
+    .step p {
+      color: #4a4a4a;
+      line-height: 1.6;
+      font-size: 1.0625rem;
+    }
+
+    /* Routes Section */
+    .routes-section {
+      padding: 4rem 0;
+      background: #f8f8f8;
+    }
+
+    .routes-section h2 {
+      text-align: center;
+      font-size: 2.25rem;
+      margin-bottom: 2.5rem;
+      color: #1a1a1a;
+      font-weight: 700;
+    }
+
+    .routes-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .route-card {
+      background: white;
+      padding: 1.75rem;
+      border-radius: 4px;
+      border-left: 4px solid #e41e20;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+      transition: transform 0.2s;
+    }
+
+    .route-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+    }
+
+    .route-name {
+      font-size: 1.25rem;
+      color: #1a1a1a;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .route-details {
+      color: #666;
+      font-size: 0.9375rem;
+    }
+
+    /* FAQ Section */
+    .faq-section {
+      padding: 4rem 0;
+      background: white;
+    }
+
+    .faq-section h2 {
+      text-align: center;
+      font-size: 2.25rem;
+      margin-bottom: 3rem;
+      color: #1a1a1a;
+      font-weight: 700;
+    }
+
+    .faq-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+      gap: 2rem;
+    }
+
+    .faq-item {
+      background: #f8f8f8;
+      padding: 2rem;
+      border-radius: 4px;
+      border-top: 3px solid #e41e20;
+    }
+
+    .faq-item h3 {
+      font-size: 1.25rem;
+      color: #1a1a1a;
+      margin-bottom: 0.75rem;
+      font-weight: 600;
+    }
+
+    .faq-item p {
+      color: #4a4a4a;
+      line-height: 1.7;
+      font-size: 1.0625rem;
+    }
+
+    /* Testimonial */
+    .testimonial-section {
+      padding: 4rem 0;
+      background: #1a1a1a;
+      color: white;
+    }
+
+    .testimonial {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .testimonial blockquote {
+      padding: 2rem;
+    }
+
+    .testimonial p {
+      font-size: 1.5rem;
+      line-height: 1.6;
+      margin-bottom: 2rem;
+      font-style: italic;
+      color: rgba(255, 255, 255, 0.95);
+    }
+
+    .testimonial footer {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .testimonial strong {
+      font-size: 1.125rem;
+      color: white;
+    }
+
+    .testimonial span {
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 0.9375rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 968px) {
+      .service-grid,
+      .service-grid.reverse {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .hero h1 {
+        font-size: 2rem;
+      }
+
+      .hero-subtitle {
+        font-size: 1.125rem;
+      }
+
+      .service-logo h2 {
+        font-size: 1.875rem;
+      }
+
+      .routes-grid,
+      .faq-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .steps-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .testimonial p {
+        font-size: 1.25rem;
+      }
+
+      .intro-content p {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</BaseLayout>

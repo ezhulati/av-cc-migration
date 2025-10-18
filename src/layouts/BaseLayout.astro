@@ -122,17 +122,34 @@ const alternateLocale = language === 'sq' ? 'en_US' : 'sq_AL';
           </div>
 
           <div class="footer-section">
-            <h4>Resources</h4>
+            <h4>About</h4>
             <ul>
-              <li><a href="/terms-conditions/">Terms & Conditions</a></li>
-              <li><a href="/partnerships/">Partnerships</a></li>
+              <li><a href="/about/">About Us</a></li>
+              <li><a href="/vision/">Our Vision</a></li>
+              <li><a href="/team/">Team</a></li>
               <li><a href="/foundation/">Foundation</a></li>
+              <li><a href="/how-we-make-money/">How We Make Money</a></li>
             </ul>
           </div>
 
           <div class="footer-section">
-            <h4>Connect</h4>
-            <div class="social-links">
+            <h4>Services</h4>
+            <ul>
+              <li><a href="/cars/">Transportation</a></li>
+              <li><a href="/transfers/">Transfers</a></li>
+              <li><a href="/rental-cars/">Rental Cars</a></li>
+              <li><a href="/write-for-us/">Write For Us</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-section">
+            <h4>Legal & Connect</h4>
+            <ul>
+              <li><a href="/terms-conditions/">Terms & Conditions</a></li>
+              <li><a href="/partnerships/">Partnerships</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+            <div class="social-links" style="margin-top: 1rem;">
               <a href="https://facebook.com/albaniavisit" target="_blank" rel="noopener">Facebook</a>
               <a href="https://instagram.com/albaniavisit" target="_blank" rel="noopener">Instagram</a>
               <a href="https://twitter.com/albaniavisit" target="_blank" rel="noopener">Twitter</a>
@@ -185,7 +202,7 @@ const alternateLocale = language === 'sq' ? 'en_US' : 'sq_AL';
         padding: 1rem 0;
         position: sticky;
         top: 0;
-        z-index: 100;
+        z-index: 2000;
       }
 
       .site-header nav {
@@ -257,9 +274,15 @@ const alternateLocale = language === 'sq' ? 'en_US' : 'sq_AL';
 
       .footer-content {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
         gap: 2rem;
         margin-bottom: 2rem;
+      }
+
+      @media (min-width: 1024px) {
+        .footer-content {
+          grid-template-columns: 1.5fr 1fr 1fr 1fr 1fr;
+        }
       }
 
       .footer-section h3 {

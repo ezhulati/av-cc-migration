@@ -1,13 +1,10 @@
 ---
 title: Terms & Conditions
-description: "Terms & Conditions. Last updated: March 18, 2023. Please read these Terms and Conditions carefully before using the AlbaniaVisit.com website."
-featuredImage: ""
+description: "Terms &amp; Conditions Last updated: March 18, 2023 Please read these Terms and Conditions (\"Terms\") carefully before using the AlbaniaVisit.com website (the..."
 language: en
 slug: terms-conditions
 seo:
   canonicalURL: https://albaniavisit.com/terms-conditions/
-  focusKeyword: "terms & conditions"
-  metaTitle: "Read our %title% %sep% %sitename%"
 ---
 
 # Terms & Conditions
@@ -134,7 +131,7 @@ We may, from time to time, at our sole discretion, develop and provide updates t
 
 **Modification of the Service**
 
-We reserve the right to modify, suspend, or discontinue, temporarily or permanently, the Service (or any part thereof)
+We reserve the right to modify, suspend, or discontinue, temporarily or permanently, the Service (or any part thereof) 
 
 with or without notice at any time. You agree that we will not be liable to you or any third party for any modification, suspension, or discontinuance of the Service or any part thereof.
 

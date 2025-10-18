@@ -1,13 +1,11 @@
 ---
 title: About
-description: AlbaniaVisit.com is the premier travel website for discovering the beautiful country of Albania. Our mission is to provide comprehensive, up-to-date information
+description: AlbaniaVisit.com is the premier travel website for discovering the beautiful country of Albania. Our mission is to provide comprehensive, up-to-date...
 featuredImage: "/images/pages/AlbaniaVisit-About-Us.svg"
 language: en
 slug: about
 seo:
-  metaTitle: "Learn %title% %sitename%"
   canonicalURL: https://albaniavisit.com/about/
-  focusKeyword: "About"
 ---
 
 AlbaniaVisit.com is the premier travel website for discovering the beautiful country of Albania. Our mission is to provide comprehensive, up-to-date information and inspiration for travelers looking to explore this diverse and exciting destination.

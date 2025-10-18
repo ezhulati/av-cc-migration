@@ -1,12 +1,10 @@
 ---
 title: Contact
-description: "Learn about Contact."
-featuredImage: ""
+description: Get in touch with AlbaniaVisit.com for questions, partnerships, or travel advice.
 language: en
 slug: contact
 seo:
   canonicalURL: https://albaniavisit.com/contact/
-  metaTitle: "%title% Us %sep% %sitename%"
-  metaDescription: "Reach out and contact AlbaniaVisit.com"
 ---
 
+Contact us for any questions, partnerships, or travel advice about Albania.
